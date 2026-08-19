@@ -1,0 +1,219 @@
+{
+  "chapter" : "36",
+  "chapterOrder" : 136,
+  "id" : "stry",
+  "meaningEn" : "build，表示“建造；制作”。",
+  "roots" : [
+    "stry"
+  ],
+  "semanticLabel" : "build，表示建造；制作。",
+  "source" : "textbook-5",
+  "titleZh" : "build，表示建造；制作。",
+  "words" : [
+    {
+      "collocations" : [
+        "poultry industry：家禽业",
+        "heavy \/ light industry：重 \/ 轻工业",
+        "the steel industry：钢铁业",
+        "the catering \/ tourist, etc. industry：餐饮、旅游等行业"
+      ],
+      "definition" : "工业；行业；勤奋",
+      "examples" : [
+
+      ],
+      "frequency" : 552,
+      "mnemonic" : "indu（=in-：里面）+ -stry（=stru=build：建造；制作）→建造业，制\n造业→工业；行业",
+      "phonetic" : "ˈɪndəstrɪ",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "industry"
+    },
+    {
+      "collocations" : [
+        "industrial revolution：工业革命",
+        "industrial waste：工业废物",
+        "industrial infrastructure：工业基础设施",
+        "industrial fairs：工业博览会"
+      ],
+      "definition" : "工业的，产业的；工业高度发达的",
+      "examples" : [
+
+      ],
+      "frequency" : 1927,
+      "phonetic" : "ɪnˈdʌstrɪəl",
+      "pos" : "adj.",
+      "rootHint" : "stry",
+      "word" : "industrial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "工业化的",
+      "examples" : [
+        "Industrialized countries must reduce carbon dioxide emissions.\n工业化国家必须减少二氧化碳的排放。"
+      ],
+      "frequency" : 8109,
+      "phonetic" : "ɪnˈdʌstrɪəlaɪzd",
+      "pos" : "adj.",
+      "rootHint" : "stry",
+      "word" : "industrialized"
+    },
+    {
+      "collocations" : [
+        "over-industrialization：过度工业化",
+        "the industrialization of food production：食品生产的工业化"
+      ],
+      "definition" : "工业化；产业化",
+      "examples" : [
+
+      ],
+      "frequency" : 12749,
+      "phonetic" : "ɪnˌdʌstrɪəlɪˈzeʃən",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "industrialization"
+    },
+    {
+      "collocations" : [
+        "prominent Japanese industrialists：杰出的日本工业家"
+      ],
+      "definition" : "工业家；实业家",
+      "examples" : [
+
+      ],
+      "frequency" : 15464,
+      "phonetic" : "ɪnˈdʌstrɪəlɪst",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "industrialist"
+    },
+    {
+      "collocations" : [
+        "an industrious student：勤勉的学生",
+        "paints industriously：勤奋作画"
+      ],
+      "definition" : "勤奋的；勤勉的",
+      "examples" : [
+
+      ],
+      "frequency" : 19728,
+      "phonetic" : "ɪnˈdʌstrɪəs",
+      "pos" : "adj.",
+      "rootHint" : "stry",
+      "word" : "industrious"
+    },
+    {
+      "collocations" : [
+        "get the homeless off the streets：使无家可归者不再流浪街头",
+        "a street map \/ plan of York：约克街道地图 \/ 平面图"
+      ],
+      "definition" : "大街；街道；街头",
+      "etymology" : "来自拉丁语sternere“lay down, spread out, pave：铺设；铺开；铺 路”→大街；街道",
+      "examples" : [
+        "The streets are paved with gold：（表示在某地挣钱容易）遍地都是黄金"
+      ],
+      "frequency" : 555,
+      "phonetic" : "striːt",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "street"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "街灯；路灯",
+      "examples" : [
+
+      ],
+      "frequency" : 14825,
+      "mnemonic" : "street（街道）+ light（灯）→街灯",
+      "phonetic" : "ˈstritˌlaɪt",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "streetlight"
+    },
+    {
+      "collocations" : [
+        "a tram route：有轨电车路线"
+      ],
+      "definition" : "市内有轨电车（等于tram）",
+      "examples" : [
+
+      ],
+      "frequency" : 16384,
+      "mnemonic" : "street（街道）+ car（汽车）→室内有轨电车",
+      "phonetic" : "ˈstriːtkɑː",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "streetcar"
+    },
+    {
+      "collocations" : [
+        "a stray bullet：一颗流弹",
+        "find my mind straying：发现我的思想无法集中"
+      ],
+      "definition" : "走失；（思想或视线）不集中 adj. 走失的（狗或猫）；离群",
+      "examples" : [
+        "Tourists often get lost and stray into dangerous areas.\n旅游者们经常迷路走进一些危险区域。"
+      ],
+      "mnemonic" : "stra-（=street：大街；街道）+ -y（动词后缀）→在大街上走失→走",
+      "phonetic" : "streɪ",
+      "pos" : "vi.",
+      "rootHint" : "stry",
+      "word" : "stray"
+    },
+    {
+      "collocations" : [
+        "be led astray by：引某人偏离正道",
+        "lead someone astray：引某人偏离真相",
+        "go astray：走失；被盗；误入歧途"
+      ],
+      "definition" : "迷路地；误入歧途地",
+      "etymology" : "14世纪早期, o strai, \"away from home; lost, wandering\" （of cattle）。",
+      "examples" : [
+
+      ],
+      "frequency" : 17485,
+      "mnemonic" : "a（处于……状态下的）+ stray（迷路的）→迷路地",
+      "phonetic" : "əˈstreɪ",
+      "pos" : "adv.",
+      "rootHint" : "stry",
+      "word" : "astray"
+    },
+    {
+      "collocations" : [
+        "bales of straw：成捆的麦秆",
+        "a bottle of lemonade with a straw in it：一瓶插着吸管的柠檬汽水",
+        "clutch at straws\/grasping at straws：抓救命稻草",
+        "the last straw or the straw that broke the camel’s back：压死骆驼的最后"
+      ],
+      "definition" : "麦杆；稻草；吸管 adj. 无价值的；无实质的",
+      "etymology" : "Straw来自印欧语词根stere- “to spread”，表示铺开。The notion perhaps is of dried grain stalks strewn on a floor as carpeting or bedding. 这个概念 也许是将干谷秆撒在地板上作为地毯或被褥。 吸管：19世纪时，人们用天然麦秆（straw）来吸引，后来，因为天 然麦秆容易折断，且不够卫生，于是又从卷烟中得到启发，使用打蜡 的纸做成了喝饮料的吸管（drinking straw），简写成straw。",
+      "examples" : [
+
+      ],
+      "frequency" : 4783,
+      "phonetic" : "strɔː",
+      "pos" : "n.",
+      "rootHint" : "stry",
+      "word" : "straw"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "把……布满（或撒满）",
+      "examples" : [
+        "Clothes were strewn across the floor. 衣服扔得满地都是。"
+      ],
+      "frequency" : 10237,
+      "mnemonic" : "straw：麦秆→strew：把麦秆铺开→把……布满（或撒满）（scatter：",
+      "phonetic" : "struː",
+      "pos" : "vt.",
+      "rootHint" : "stry",
+      "word" : "strew"
+    }
+  ]
+}

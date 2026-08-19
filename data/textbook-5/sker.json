@@ -1,0 +1,2318 @@
+{
+  "chapter" : "13",
+  "chapterOrder" : 113,
+  "id" : "sker",
+  "meaningEn" : "to cut",
+  "meaningZh" : "切，一般在1741年之前，专门用于指大脑皮层。",
+  "roots" : [
+    "sker"
+  ],
+  "semanticLabel" : "切，一般在1741年之前，专门用于指大脑皮层。",
+  "source" : "textbook-5",
+  "titleZh" : "切，一般在1741年之前，专门用于指大脑皮层。",
+  "words" : [
+    {
+      "collocations" : [
+        "a scar on his forehead：前额上有个伤疤",
+        "a deep scar：深深的创伤",
+        "scar him forever：永远给他留下心灵创伤"
+      ],
+      "definition" : "在……留下伤疤；留下损伤痕迹；给……留下精神创伤 n. 伤",
+      "examples" : [
+        "The arena was scarred by deep muddy ruts.\n竞技场上留下了深深的车辙泥痕。"
+      ],
+      "mnemonic" : "share（分享）和sharp（锋利的）都包含shar-， shar-的本义是\n“切”→将shar-进行h、c音变→scar（伤疤；在……留下伤疤）",
+      "phonetic" : "skɑː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "scar"
+    },
+    {
+      "collocations" : [
+        "a bullet-scarred bus：弹痕累累的公共汽车",
+        "a lightning-scarred tree：遭雷击的树",
+        "battle-scarred soldiers：留下战争创伤的战士们"
+      ],
+      "definition" : "（用于bullet，fire等名词后构成形容词）表示“留",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈska:d",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "scarred"
+    },
+    {
+      "collocations" : [
+        "a woollen \/ silk scarf：羊毛 \/ 丝绸围巾"
+      ],
+      "definition" : "围巾；（木材，金属，皮革的）嵌接",
+      "examples" : [
+
+      ],
+      "frequency" : 6226,
+      "phonetic" : "skɑːf",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scarf"
+    },
+    {
+      "collocations" : [
+        "score many successes：赢得多次胜利",
+        "score an average of 147：平均得分147分",
+        "scores of：大量",
+        "keep score：计数",
+        "know the score：了解实情",
+        "original score：原创配乐"
+      ],
+      "definition" : "&vi. （比赛中）得分；进球；（测试）得分；赢得；二十 vt.",
+      "etymology" : "score（刻痕；得分）与scar（在………留下伤疤、痕迹）是同源单 词，都来此词根sker-，表示“to cut：切”，因而有“刻痕”之义， 人们最初用刻痕计分，所以引申为“得分”。",
+      "examples" : [
+        "Lightly score the surface of the steaks with a sharp cook’s knife.\n用一把锋利的菜刀在牛排表面上轻轻打花刀。"
+      ],
+      "phonetic" : "skɔː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "score"
+    },
+    {
+      "collocations" : [
+        "underscore the shaky state of the economic recovery：突出显示了经济复"
+      ],
+      "definition" : "突出显示；强调；在……下面划线",
+      "examples" : [
+        "He heavily underscored his note to Shelley.\n他在写给谢利的短笺下重重地划了线。"
+      ],
+      "frequency" : 5927,
+      "mnemonic" : "under-（在下面）+ score（划线于；刻痕于）→在……下面划线；强",
+      "phonetic" : "ʌndəˈskɔː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "underscore"
+    },
+    {
+      "collocations" : [
+        "scoring method：计分法"
+      ],
+      "definition" : "得分；刻痕；[音]总谱",
+      "examples" : [
+
+      ],
+      "frequency" : 6811,
+      "phonetic" : "ˈskɔːrɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scoring"
+    },
+    {
+      "collocations" : [
+        "United’s top scorer：联队的头号得分手"
+      ],
+      "definition" : "得分者；进球者；记分员",
+      "examples" : [
+
+      ],
+      "frequency" : 10118,
+      "phonetic" : "ˈskɔrɚ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scorer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "记分牌",
+      "examples" : [
+        "The figures flash up on the scoreboard.\n数字在记分牌上闪亮。"
+      ],
+      "frequency" : 16159,
+      "mnemonic" : "score（记分）+board（板）→记分板",
+      "phonetic" : "ˈskɔːbɔːd",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scoreboard"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "记分卡",
+      "examples" : [
+        "This commission would keep environmental scorecards on UN member\nnations.\n该委员会将对联合国的成员国采用环境记录卡制。"
+      ],
+      "frequency" : 18769,
+      "mnemonic" : "score（记分）+card（卡片）→记分卡",
+      "phonetic" : "ˈskɔːkɑːd",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scorecard"
+    },
+    {
+      "collocations" : [
+        "outscore opponents：超过对手的得分"
+      ],
+      "definition" : "得分超过对手",
+      "examples" : [
+
+      ],
+      "frequency" : 18725,
+      "mnemonic" : "outscore：to score more than→得分超过对手",
+      "phonetic" : "aʊtˈskɔː(r)",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "outscore"
+    },
+    {
+      "collocations" : [
+        "be screened by an apartment block：被一排公寓楼挡住了",
+        "screen it on X-ray machines：在X光机上检查"
+      ],
+      "definition" : "（电视、电脑、影院等的）屏幕；影视；放映 vt. 上映（影",
+      "etymology" : "来自中世纪荷兰语scherm“screen, cover, shield：屏；幕；覆盖； 保护”。或法兰克语skrank“barrier：屏障”，来自原始日耳曼语 skerm-“protection：保护”。引申义为银屏，电影，放映，检查等。",
+      "examples" : [
+        "Many viewers have strong opinions about violence on the screen.\n许多观众对影视暴力有强烈意见。"
+      ],
+      "phonetic" : "skriːn",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screen"
+    },
+    {
+      "collocations" : [
+        "the movie’s first screening：电影首次上映",
+        "breast screening for cancer：乳腺癌检查"
+      ],
+      "definition" : "（电影的）放映；（电视节目的）播放；筛查",
+      "examples" : [
+
+      ],
+      "frequency" : 4748,
+      "phonetic" : "ˈskriːnɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screening"
+    },
+    {
+      "collocations" : [
+        "best screenplay：最佳剧本"
+      ],
+      "definition" : "电影剧本",
+      "examples" : [
+
+      ],
+      "frequency" : 9637,
+      "mnemonic" : "screen（电影）+ play（剧本）→电影剧本",
+      "phonetic" : "ˈskriːnpleɪ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screenplay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "电影剧本作家",
+      "examples" : [
+
+      ],
+      "frequency" : 14049,
+      "mnemonic" : "a person who writes screenplays：电影剧本创作者\nscreen（=screenplay：电影剧本）+ writer（作家）→电影剧本作家",
+      "phonetic" : "ˈskriːnraɪtə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screenwriter"
+    },
+    {
+      "collocations" : [
+        "a high factor （=strong） sunscreen：防晒系数高的防晒霜"
+      ],
+      "definition" : "防晒霜",
+      "examples" : [
+
+      ],
+      "frequency" : 11632,
+      "mnemonic" : "sun（太阳）+ screen（=protect：保护；遮挡）→保护皮肤，遮挡太\n阳照射→防晒霜",
+      "phonetic" : "ˈsʌnskriːn",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "sunscreen"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大银幕",
+      "examples" : [
+        "She returns to the big screen to play Candy’s overbearing mother, Rose.\n她重返大银幕去扮演坎迪专横的母亲罗丝。"
+      ],
+      "frequency" : 18912,
+      "mnemonic" : "big（大）+ screen（银幕）→大银幕",
+      "phonetic" : "ˈbɪɡˈskriːn",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "big-screen"
+    },
+    {
+      "collocations" : [
+        "screen（检查；过滤）+ -er（人或物）→用于指机场安检员；过滤"
+      ],
+      "definition" : "机场安检员；过滤网；手机截图",
+      "examples" : [
+
+      ],
+      "frequency" : 18335,
+      "phonetic" : "ˈskrinɚ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screener"
+    },
+    {
+      "collocations" : [
+        "screw the shelf on the wall：用螺钉把架子固定在墙上",
+        "three screws：3颗螺钉",
+        "a screw lid：螺旋盖",
+        "screw the paper into a ball：把那片纸揉成一团",
+        "screw his face into an expression：把他的脸扭曲成一种表情"
+      ],
+      "definition" : "&vi. 用螺钉固定；拧紧 vt. 把（纸片等）揉成（一团）；把",
+      "examples" : [
+        "Screw down the lid fairly tightly.\n把盖子拧到很紧。"
+      ],
+      "phonetic" : "skruː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "screw"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "螺丝刀",
+      "examples" : [
+
+      ],
+      "frequency" : 14254,
+      "mnemonic" : "screwdriver：tool for driving screws：用来转动螺钉的工具",
+      "phonetic" : "ˈskruːdraɪvə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "screwdriver"
+    },
+    {
+      "collocations" : [
+        "unscrew the cap of her water bottle：拧开水瓶的盖"
+      ],
+      "definition" : "&vi. 拧开 vt. （按螺纹）拧下钉子",
+      "examples" : [
+        "He unscrewed the back of the telephone and started connecting it to the\ncable.\n他拧下电话后壳的钉子，开始把电话线连到电话机上。"
+      ],
+      "frequency" : 18878,
+      "mnemonic" : "un-（=reverse of：表相反）+ screw（钉子）→（按螺纹）拧下钉子",
+      "phonetic" : "ʌnˈskruː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "unscrew"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（拔软木塞的）螺旋形开瓶器 v. （顺某方向）作",
+      "examples" : [
+
+      ],
+      "mnemonic" : "cork（软木塞）+screw（螺旋形的工具）→（拔软木塞的） 螺旋形开",
+      "phonetic" : "ˈkɔːkskruː",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "corkscrew"
+    },
+    {
+      "collocations" : [
+        "the first full scrimmage in Flyers training camp."
+      ],
+      "definition" : "（美式足球中的）混战；（如美式足球、曲棍球",
+      "etymology" : "Meaning in rugby and U.S. football dates from 1857, originally “a confused struggle between players.”",
+      "examples" : [
+        "Bloom scored two touchdowns on Saturday in a scrimmage.\n布卢姆在周六的一场混战中两次达阵得分。"
+      ],
+      "mnemonic" : "melee, mix-up：混战，skirmish（小规模战斗，小冲突）的另外一",
+      "phonetic" : "ˈskrɪmɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scrimmage"
+    },
+    {
+      "collocations" : [
+        "flowering shrubs：开花的灌木"
+      ],
+      "definition" : "灌木",
+      "examples" : [
+
+      ],
+      "frequency" : 7270,
+      "phonetic" : "ʃrʌb",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shrub"
+    },
+    {
+      "collocations" : [
+        "scrub their hands and arms with soap and water：开始用肥皂和水清洗他"
+      ],
+      "definition" : "用力刷洗；（将污渍等从某物上）用力擦（除）；删除 n.",
+      "examples" : [
+
+      ],
+      "phonetic" : "skrʌb",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "scrub"
+    },
+    {
+      "collocations" : [
+        "share this year’s Nobel Prize for Medicine：共同摘得今年的诺贝尔医学奖",
+        "share the cost：分摊费用",
+        "share food：分享食物",
+        "share your feelings with someone：与某人分享感情"
+      ],
+      "definition" : "&vi. 分享；共有；分摊；共享；赞同（某人的观点） n. 股",
+      "etymology" : "n. “portion,” Old English scearu “a cutting, shearing, tonsure; a part or division”.“部分”，来自古英语scearu，“切割，剪切，扭转；部分 或分割”。 “part of the capital of a joint stock company”. 20000 词汇巅峰 速 记 “股份公司资本的一部分”。 v. “to divide one’s own and give part to others”. “把自己所有的一部分分给别人”。",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃeə",
+      "pos" : "vt",
+      "rootHint" : "sker",
+      "word" : "share"
+    },
+    {
+      "collocations" : [
+        "shared bike：共享单车"
+      ],
+      "definition" : "共享的",
+      "examples" : [
+
+      ],
+      "frequency" : 4050,
+      "phonetic" : "ʃeəd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "shared"
+    },
+    {
+      "collocations" : [
+        "a shareholders’ meeting：一次股东会议"
+      ],
+      "definition" : "股东",
+      "examples" : [
+
+      ],
+      "frequency" : 4691,
+      "mnemonic" : "share（股份）+ holder（持有人）→股份持有人→股东",
+      "phonetic" : "ˈʃeəhəʊldə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shareholder"
+    },
+    {
+      "collocations" : [
+        "resource sharing：资源共享",
+        "data sharing：数据共享"
+      ],
+      "definition" : "公用；共享",
+      "examples" : [
+
+      ],
+      "frequency" : 10969,
+      "phonetic" : "ˈʃɛrɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "sharing"
+    },
+    {
+      "collocations" : [
+        "thin and sharp：又细又尖",
+        "a fairly sharp bend：急转的弯道",
+        "sharp reprimand：严厉的斥责",
+        "a sharp rise：急剧上升",
+        "make a sharp distinction：截然分开"
+      ],
+      "definition" : "锋利的；尖的；急剧的（转弯）；机敏的；（说话、措辞",
+      "etymology" : "Old English scearp “having a cutting edge; pointed; intellectually acute, active, shrewd; keen (of senses); severe; biting, bitter (of tastes)”. 来自古 英语“具有尖端的；尖的；智力敏锐的，活跃的，精明的；（感官） 敏锐的；严重的；尖酸的，（口味）苦味的”。",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃɑːp",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "sharp"
+    },
+    {
+      "collocations" : [
+        "her gaze sharpened：她眼睛一亮",
+        "sharpen diplomatic skills：增强外交技巧",
+        "sharpen knife：磨刀"
+      ],
+      "definition" : "&vi. 使敏锐；增强 vt. 使变锋利；弄尖",
+      "examples" : [
+
+      ],
+      "frequency" : 8464,
+      "phonetic" : "ˈʃɑːpən",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "sharpen"
+    },
+    {
+      "collocations" : [
+        "ask sharply：厉声喝问",
+        "fall sharply：陡然下坡",
+        "contrast sharply：鲜明地对比",
+        "sharply pointed：尖尖的"
+      ],
+      "definition" : "急剧地；严厉地；清晰可辨地；（……点）整；强调",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈʃɑ:plɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "sharply"
+    },
+    {
+      "collocations" : [
+        "the sharpness of these lenses：这些镜头的清晰度",
+        "the ‘sharpness’ of the mind：思维的敏锐"
+      ],
+      "definition" : "锐利；清晰度",
+      "examples" : [
+
+      ],
+      "frequency" : 18047,
+      "phonetic" : "ˈʃɑrpnɪs",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "sharpness"
+    },
+    {
+      "collocations" : [
+        "shards of glass：玻璃碎片",
+        "The Shard：碎片大厦（位于伦敦）"
+      ],
+      "definition" : "（玻璃、陶瓷或金属的）碎片",
+      "etymology" : "来自古英语sceard “incision, a fragment, broken piece：切口；碎片” 。",
+      "examples" : [
+
+      ],
+      "frequency" : 10968,
+      "phonetic" : "ʃɑːd",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shard"
+    },
+    {
+      "collocations" : [
+        "sheer delight：纯粹的快乐",
+        "a sheer drop：一个陡坡",
+        "sheer black tights：极薄的黑色紧身衣",
+        "sheer nonsense：一派胡言"
+      ],
+      "definition" : "纯粹的；峻峭的；极轻薄的",
+      "examples" : [
+
+      ],
+      "frequency" : 4238,
+      "phonetic" : "ʃɪə",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "sheer"
+    },
+    {
+      "collocations" : [
+        "a rocky \/ sandy shore：岩 \/ 沙岸",
+        "foreign shores：外国",
+        "shore sth up：用柱支撑；稳住"
+      ],
+      "definition" : "用支柱支撑；支撑，稳住 n. 岸；滨；国家（shores）；支柱",
+      "etymology" : "“Land bordering a large body of water,” c. 1300. Land ‘cut off’ from the mainland by tidal marshes. 14世纪含义为“与土地毗邻一大片水域”， 来自词根sker- （1）“to cut：切断”。被潮汐沼泽而与大陆“切断” 土地。后来演变为被海岸线与海水切断的土地，即岸；滨。",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃɔː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "shore"
+    },
+    {
+      "collocations" : [
+        "the rocks along the shoreline：海岸线沿线的岩石"
+      ],
+      "definition" : "海（或湖）滨线；海（或湖）岸线",
+      "examples" : [
+
+      ],
+      "frequency" : 9503,
+      "mnemonic" : "shore（岸）+ line（线）→海岸线；湖滨线",
+      "phonetic" : "ˈʃɔːlaɪn",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shoreline"
+    },
+    {
+      "collocations" : [
+        "to come \/ go ashore：上岸"
+      ],
+      "definition" : "向（或在）岸上；向（或在）陆地",
+      "examples" : [
+
+      ],
+      "frequency" : 9748,
+      "mnemonic" : "a-（=ad-：toward）+ shore（岸）→朝向岸边走→向岸上；向陆地",
+      "phonetic" : "əˈʃɔː",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "ashore"
+    },
+    {
+      "collocations" : [
+        "an offshore island：近海岛屿",
+        "offshore breezes：习习陆风",
+        "offshore investments：境外投资"
+      ],
+      "definition" : "海上的；近海的；（公司）设在海外的（尤指设",
+      "examples" : [
+
+      ],
+      "mnemonic" : "off（离开）+shore（岸边）→离开岸边→近海的；用于经济学术语离",
+      "phonetic" : "ˈɒfʃɔː;ɒfˈʃɔː",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "offshore"
+    },
+    {
+      "collocations" : [
+        "avoid the appearance of bias：避免表现出偏见",
+        "bias our teaching：使我们的教学产生偏见"
+      ],
+      "definition" : "偏见 vt. （影响某人）使偏心；使产生偏见",
+      "examples" : [
+
+      ],
+      "frequency" : 3962,
+      "mnemonic" : "n. 来自法语biais“a slant, a slope：倾斜”→引申为偏见",
+      "phonetic" : "ˈbaɪəs",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "bias"
+    },
+    {
+      "collocations" : [
+        "a bit biased against women：对妇女有点偏见"
+      ],
+      "definition" : "有偏见的；偏重于……的",
+      "examples" : [
+        "University funding was tremendously biased toward scientists.\n大学资助金是极度偏重于科学家的。"
+      ],
+      "frequency" : 11001,
+      "phonetic" : "ˈbaɪəst",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "biased"
+    },
+    {
+      "collocations" : [
+        "unbiased advice：客观的忠告",
+        "an unbiased judge：公正的法官"
+      ],
+      "definition" : "无偏见的；公正的",
+      "etymology" : "“to free from bias,” 1708, 来自un-（=reverse, opposite of：表相反）+ bias （v.）。",
+      "examples" : [
+
+      ],
+      "frequency" : 16471,
+      "phonetic" : "ʌnˈbaɪəst",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "unbiased"
+    },
+    {
+      "collocations" : [
+        "skirt the hardest issues：避开最难的问题",
+        "mini skirt：迷你裙",
+        "a long \/ short \/ straight \/ pleated, etc. skirt：长裙、短裙、直筒裙、百褶裙等"
+      ],
+      "definition" : "女裙；连衣裙的下摆 vt. 位于……的边缘；环绕……四周",
+      "etymology" : "14世纪早期, 含义为“lower part of a woman’s dress”，即“女裙的下 摆”。“border, edge”，“边界，边缘”（在outskirt：郊区中体现）的含 义最初记录于15世纪。",
+      "examples" : [
+        "They followed the road that skirted the lake.\n他们顺着湖边公路走。"
+      ],
+      "phonetic" : "skɜːt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skirt"
+    },
+    {
+      "collocations" : [
+        "reach the outskirts of New York：到达了纽约市的外围地带"
+      ],
+      "definition" : "（市、镇的）外围地带",
+      "examples" : [
+
+      ],
+      "frequency" : 8639,
+      "mnemonic" : "out（远离某地）+ skirts（位于……的边缘）→远离市中心，位于市\n镇的边缘→郊区；（市、镇的） 外围地带",
+      "phonetic" : "ˈaʊtskɜːts",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "outskirts"
+    },
+    {
+      "collocations" : [
+        "to wear a shirt and tie：穿衬衫，扎领带",
+        "keep your shirt on：别生气；保持冷静",
+        "put your shirt on sb. \/ sth.：把所有的钱全押在……上"
+      ],
+      "definition" : "（尤指男式的）衬衫",
+      "examples" : [
+
+      ],
+      "frequency" : 1784,
+      "phonetic" : "ʃɜːt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shirt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "T恤衫；短袖汗衫",
+      "examples" : [
+
+      ],
+      "frequency" : 3521,
+      "phonetic" : "ˈtiˌʃɜ:t",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "T-shirt"
+    },
+    {
+      "collocations" : [
+        "hooded sweatshirt：连帽运动衫"
+      ],
+      "definition" : "（长袖）运动衫",
+      "examples" : [
+
+      ],
+      "frequency" : 11306,
+      "mnemonic" : "sweat（汗；出汗）+ shirt（衬衫）→出汗时穿的衬衫→运动衫",
+      "phonetic" : "ˈswetʃɜːt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "sweatshirt"
+    },
+    {
+      "collocations" : [
+        "short of：除……外",
+        "cut short \/ stop short：提早结束地",
+        "be short with someone：对某人简慢无礼的",
+        "stop short of：险些",
+        "be short on detail：缺少细节"
+      ],
+      "definition" : "短暂的；简短的；短缺的 n. 短裤；（电影院正片前放映",
+      "etymology" : "来自古英语sceort, scort “short, not long, not tall; brief”, 来自词根sker- “to cut,” 有“something cut off ”，有“被切掉的某物”之意。",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃɔːt",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "short"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不久",
+      "examples" : [
+        "Their trial will shortly begin.\n他们的审讯很快就要开始。"
+      ],
+      "frequency" : 2876,
+      "phonetic" : "ˈʃɔːtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "shortly"
+    },
+    {
+      "collocations" : [
+        "a shortage of funds：资金短缺",
+        "food shortage：食品短缺"
+      ],
+      "definition" : "短缺",
+      "examples" : [
+
+      ],
+      "frequency" : 4066,
+      "phonetic" : "ˈʃɔːtɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shortage"
+    },
+    {
+      "collocations" : [
+        "short-term profits：短期收益",
+        "short-term contracts：短期合同"
+      ],
+      "definition" : "短期的",
+      "examples" : [
+
+      ],
+      "frequency" : 4392,
+      "mnemonic" : "short（短暂的）+ term（期限）→短期的",
+      "phonetic" : "ˌʃɔ:tˈtɜ:m",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "short-term"
+    },
+    {
+      "collocations" : [
+        "a pair of tennis shorts：一条网球短裤"
+      ],
+      "definition" : "男性短裤",
+      "examples" : [
+
+      ],
+      "frequency" : 4922,
+      "phonetic" : "ʃɔːts",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shorts"
+    },
+    {
+      "collocations" : [
+        "the shortcomings of both partners：双方的缺点"
+      ],
+      "definition" : "缺点",
+      "etymology" : "1670s, 来自短语to come short “be inadequate”，含义为不足的，不够好 的→引申名词词义缺点，短处 近义词：defect：缺点；缺陷 20000 词汇巅峰 速 记 a defect in the glass：玻璃杯的缺陷",
+      "examples" : [
+
+      ],
+      "frequency" : 8290,
+      "phonetic" : "ˈʃɔːtkʌmɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shortcoming"
+    },
+    {
+      "collocations" : [
+        "shorten your life：缩短你的寿命"
+      ],
+      "definition" : "&vi. 缩短；使变短 vt. 缩写",
+      "examples" : [
+
+      ],
+      "frequency" : 7721,
+      "mnemonic" : "short（短的）+ -en（动词后缀，使……）→缩短；使变短；缩写",
+      "phonetic" : "ˈʃɔːt(ə)n",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "shorten"
+    },
+    {
+      "collocations" : [
+        "make up a $30,000 shortfall in funding：补足3万美元的资金短缺"
+      ],
+      "definition" : "缺口；差额；亏空",
+      "examples" : [
+
+      ],
+      "frequency" : 10729,
+      "mnemonic" : "short（短缺的）+ fall（数量下降）→数量短缺→缺口；差额；亏空",
+      "phonetic" : "ˈʃɔːtfɔːl",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shortfall"
+    },
+    {
+      "collocations" : [
+        "short-lived crises：短暂的危机"
+      ],
+      "definition" : "短暂的",
+      "examples" : [
+
+      ],
+      "frequency" : 10192,
+      "mnemonic" : "short（简短的）+ lived（live活着的过去式）→寿命短的→短暂的",
+      "phonetic" : "ˈʃɔ:tˈlivdˌ-laivd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "short-lived"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "[棒球]（二垒与三垒之间的）游击手",
+      "examples" : [
+
+      ],
+      "frequency" : 10992,
+      "phonetic" : "ˈʃɔːtstɒp",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shortstop"
+    },
+    {
+      "collocations" : [
+        "a shorthand typist：速记打字员"
+      ],
+      "definition" : "速记法；简约表达法",
+      "examples" : [
+        "‘Third World’ is an abstraction, a form of shorthand.\n“第三世界”是个抽象概念，是一种简称。"
+      ],
+      "frequency" : 14952,
+      "mnemonic" : "short（简短的）+ hand（书写）→简略的书写→速记法；简约表达法",
+      "phonetic" : "ˈʃɔːthænd",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shorthand"
+    },
+    {
+      "collocations" : [
+        "shortness of breath：呼吸短促"
+      ],
+      "definition" : "短小；不足",
+      "examples" : [
+
+      ],
+      "frequency" : 19958,
+      "phonetic" : "ˈʃɔrtnɪs",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shortness"
+    },
+    {
+      "collocations" : [
+        "border skirmishes：边境的小冲突",
+        "skirmish close to the minefield：在雷区附近小规模交火"
+      ],
+      "definition" : "小规模战斗；小冲突 v-recip （相互动词）进行小规模",
+      "etymology" : "skei- Proto-Indo-European root meaning “to cut, split,” extension of root *sek- “to cut.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit chindhi, chinatti “to break, split up;” Avestan a-sista- “unsplit, unharmed,” Greek skhizein “to split, cleave, part, separate;” Latin scindere “to cut, rend, tear asunder, split;” Armenian c’tim “to tear, scratch;” Lithuanian skiesti “to separate, divide;” Old Church Slavonic cediti “to 20000 词汇巅峰 速 记 strain;” Old English scitan, Old Norse skita “to defecate;” Old English sceað, Old High German sceida “sheath;” Old Irish sceid “to vomit, spit;” Welsh chwydu “to break open.” 笔 记 区",
+      "examples" : [
+
+      ],
+      "mnemonic" : "n. skirm-（保卫；防守）+ -ish（名词后缀，具有……特征\/倾向）→\n具有保卫、防守特征→小规模战斗\nv. skirm-（保卫；防守）+ -ish（动词后缀，造成……\/使……）→使\n保卫战发生→进行小规模战斗",
+      "phonetic" : "ˈskɜːmɪʃ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skirmish"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（政府或掌权团体）废除（法律或协议）；撤销",
+      "etymology" : "1630s, 来自法语rescinder “cancel; cut off ”. 含义为撤销。",
+      "examples" : [
+        "The governor does not have the authority to rescind the ruling.\n该州长无权撤销这项裁决。"
+      ],
+      "frequency" : 16752,
+      "mnemonic" : "re-（=back：往回）+ -scind（=to cut：砍，切）→往回砍，剪掉→撤",
+      "phonetic" : "rɪˈsɪnd",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "rescind"
+    },
+    {
+      "collocations" : [
+        "a garden shed：一个园艺工具棚",
+        "a vast factory shed：一座巨大的厂房",
+        "shed 700 jobs：裁掉700个工作岗位",
+        "shed blood：洒热血",
+        "shed crocodile tears：[谚]猫哭老鼠；假慈悲",
+        "shed leaves：落叶",
+        "shed light on：阐明；使……清楚地显出"
+      ],
+      "definition" : "去除，摆脱；落（叶）；脱（发）；蜕（皮）；落（泪）；洒（热血） n. （用于存放园艺工具等的）棚屋；（车站、港口、工厂等的）棚式建筑",
+      "examples" : [
+
+      ],
+      "frequency" : 4402,
+      "phonetic" : "ʃed",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "shed"
+    },
+    {
+      "collocations" : [
+        "crack his head on the pavement：头撞着了路面"
+      ],
+      "definition" : "&vi. 使破裂；使……噼啪作响；发出辟裂声 vt. 撞击；叩",
+      "etymology" : "来自古英语cracian “make a sharp noise”，发出锐利的声音。14世纪 时含义为“to burst, split open=使爆裂，裂开”，“to cause to break into chinks=使裂开一条缝隙”。 1785年，含义为“break or crush into small pieces=破裂、破碎成小片”。就声音来说，它还有“change tone suddenly，突然变声”的意思。",
+      "examples" : [
+        "Thunder cracked in the sky. 空中雷声炸响。\nCrack the eggs into a bowl. 把鸡蛋打到碗中\n辨析：crack：裂而未破\nbreak：开裂；破碎"
+      ],
+      "phonetic" : "kræk",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "crack"
+    },
+    {
+      "collocations" : [
+        "violent army crackdown：暴力武装镇压"
+      ],
+      "definition" : "严惩措施；镇压",
+      "examples" : [
+
+      ],
+      "frequency" : 9562,
+      "mnemonic" : "crack（重击；猛击）+ down（向下）→向下重击→严惩措施；镇压",
+      "phonetic" : "ˈkrækdaʊn",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "crackdown"
+    },
+    {
+      "collocations" : [
+        "a cracked mirror \/ mug：破裂的镜子 \/ 杯子",
+        "cracked lips：干裂的嘴唇",
+        "a cracked voice：沙哑的声音"
+      ],
+      "definition" : "破裂的；有裂纹的；（因心烦意乱而突然）粗声的，",
+      "examples" : [
+
+      ],
+      "phonetic" : "krækt",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "cracked"
+    },
+    {
+      "collocations" : [
+        "cream cracker：奶油饼干（常与奶酪一起食用）",
+        "soda cracker：苏打饼干",
+        "firecracker：鞭炮；爆竹",
+        "nut cracker：坚果破壳器；胡桃钳"
+      ],
+      "definition" : "薄脆饼干（多为咸味）；彩色拉炮（在英国用于圣诞聚",
+      "examples" : [
+
+      ],
+      "mnemonic" : "crack（破裂；清脆声）+ -er（名词后缀）→薄脆饼干；彩色拉炮",
+      "phonetic" : "ˈkrækə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "cracker"
+    },
+    {
+      "collocations" : [
+        "firecracker salmon：爆炒鲑鱼"
+      ],
+      "definition" : "鞭炮；爆竹",
+      "examples" : [
+
+      ],
+      "frequency" : 17910,
+      "mnemonic" : "fire（火）+ cracker（噼啪作响）→发出火焰和噼啪声→鞭炮；爆竹",
+      "phonetic" : "ˈfaɪəkrækə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "firecracker"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "发出连续急促刺耳的声音；发劈啪声 n. 噼啪声",
+      "examples" : [
+        "The radio crackled again.\n收音机又吱吱地响了起来。"
+      ],
+      "frequency" : 11767,
+      "mnemonic" : "crack（破裂）+ -le（表反复或动作的小幅度重复）→发劈啪声；噼啪",
+      "phonetic" : "ˈkræk(ə)l",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "crackle"
+    },
+    {
+      "collocations" : [
+        "the cracking of thunder \/ twigs：霹雳声；细枝发出的噼啪声",
+        "a cracking good （=extremely good） dinner：一顿佳肴美餐",
+        "get cracking：立即着手做；抓紧做",
+        "at a cracking pace：迅速地"
+      ],
+      "definition" : "裂缝；噼啪声 adj. 优秀的；出色的",
+      "examples" : [
+
+      ],
+      "frequency" : 16173,
+      "phonetic" : "ˈkrækɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "cracking"
+    },
+    {
+      "collocations" : [
+        "a pile of dog shit：一堆狗屎",
+        "a load of shit：一堆废物"
+      ],
+      "definition" : "粪便；拉屎；令人讨厌的东西 vi. 拉屎 adj. 非常糟糕（very",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃɪt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shit"
+    },
+    {
+      "collocations" : [
+        "shake off：摆脱；抖落",
+        "shake hands with：与……握手",
+        "shake your confidence：动摇某人的信心",
+        "an explosion that shook buildings several kilometres away：震动了数公"
+      ],
+      "definition" : "摇晃；摇头 n. 摇晃；摇动 vi. （因寒冷、害怕等而）颤抖",
+      "etymology" : "来自古英语sceacan “move (something) quickly to and fro, brandish; move the body or a part of it rapidly back and forth;” also “go, glide, hasten, flee, depart” (related to sceacdom “flight”); of persons or parts of the body, “to tremble” especially from fever, cold, fear”. Of the earth in earthquakes, c. 1300. Meaning “seize and shake (someone or something else)” is from early 14c. 来自古英语sceacan，“快速地（来回移动）东西，挥舞；挥 舞身体或身体的一部分来回快速移动；”还有“去，滑行，加速，逃 跑，离开”（与sceacdom“飞行”有关）；人或身体的一部分“发 抖”，特别是由于发烧，寒冷，恐惧。14世纪，用来形容地球地震。 “抓住并摇动（某人或其他东西）”的含义来自14世纪初期。 笔 记 区 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "phonetic" : "ʃeɪk",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "shake"
+    },
+    {
+      "collocations" : [
+        "a shaky hand：双手发抖",
+        "a shaky ladder：不大牢靠的梯子"
+      ],
+      "definition" : "摇晃的；不可靠的；（身体、声音）颤抖的",
+      "examples" : [
+        "Her memories of the accident are a little shaky.\n那次事故她记不太清楚了。\nBusiness is looking shaky at the moment.\n从目前看，业务举步维艰。"
+      ],
+      "frequency" : 8103,
+      "phonetic" : "ˈʃeɪkɪ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "shaky"
+    },
+    {
+      "collocations" : [
+        "have a strong handshake：有力地握了一下手"
+      ],
+      "definition" : "握手",
+      "examples" : [
+
+      ],
+      "frequency" : 10922,
+      "mnemonic" : "hand（手）+ shake（摇动）→摇动手→握手",
+      "phonetic" : "ˈhæn(d)ʃeɪk",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "handshake"
+    },
+    {
+      "collocations" : [
+        "a salt shaker：盐瓶",
+        "a cocktail shaker：鸡尾酒摇壶"
+      ],
+      "definition" : "摇动器；振动器",
+      "examples" : [
+
+      ],
+      "frequency" : 14969,
+      "phonetic" : "ˈʃeɪkə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shaker"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摇动；抖动；颤动",
+      "examples" : [
+
+      ],
+      "frequency" : 15918,
+      "phonetic" : "ˈʃeɪkɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shaking"
+    },
+    {
+      "collocations" : [
+        "a management shake-up：管理层的大调整"
+      ],
+      "definition" : "（组织）大改组；（体系）剧变",
+      "examples" : [
+        "Community leaders say a complete departmental shake-up is needed.\n社区领导人说需要进行一次彻底的部门大改组。"
+      ],
+      "frequency" : 19694,
+      "phonetic" : "ˈʃeikˌʌp;ˈʃeikˈʌp",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shake-up"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "莎士比亚的",
+      "examples" : [
+
+      ],
+      "frequency" : 20078,
+      "mnemonic" : "shake（挥舞；摇动）+ spear（矛；枪）+ -ean（形容词后缀，表示属\n于……的）→挥动矛、枪的士兵→莎士比亚的（莎士比亚这个姓氏原",
+      "phonetic" : "ʃeikˈspiəriən;-ˈspi:r-",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "Shakespearean"
+    },
+    {
+      "collocations" : [
+        "send shivers down her spine：背上一阵阵发冷",
+        "give me the shivers：不寒而栗",
+        "to shiver with cold \/ excitement \/ pleasure, etc.：冷得发抖、激动得发"
+      ],
+      "definition" : "（因寒冷、害怕、激动等）而颤抖 n. 颤抖，战栗；碎片",
+      "etymology" : "n. “small piece, splinter, fragment, chip”. 来自词根“to cut, split=修剪； 切开；裂开”。 v. shiver=shake：（因寒冷、害怕等而）颤抖 “to break in or into many small pieces,” c. 1200",
+      "examples" : [
+
+      ],
+      "mnemonic" : "shiv-（=shake：震动；抖动）+ -er（名词或动词后缀）→颤抖；战栗",
+      "phonetic" : "ˈʃɪvə",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "shiver"
+    },
+    {
+      "collocations" : [
+        "be thrilled to be hired by a famous company：被一个知名公司录取了感"
+      ],
+      "definition" : "&vi. 使激动 n. （突然的）激动；狂喜；恐惧",
+      "examples" : [
+
+      ],
+      "frequency" : 5941,
+      "mnemonic" : "thrill（=shiver：颤抖）→震颤，紧张，激动，兴奋（有“兴奋，激",
+      "phonetic" : "θrɪl",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "thrill"
+    },
+    {
+      "collocations" : [
+        "a tense psychological thriller：一部紧张刺激的心理惊悚小说"
+      ],
+      "definition" : "（尤指关于罪案或间谍的）惊险小说（或戏剧、电影）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "thrill（恐惧；惊悚）+ -er（名词后缀）→惊悚小说；惊悚电影；惊悚",
+      "phonetic" : "ˈθrɪlə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "thriller"
+    },
+    {
+      "collocations" : [
+        "a thrilling experience \/ finish：激动人心的经历 \/ 结局"
+      ],
+      "definition" : "紧张的；扣人心弦的；令人兴奋不已的",
+      "examples" : [
+
+      ],
+      "frequency" : 10888,
+      "phonetic" : "ˈθrɪlɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "thrilling"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非常兴奋的；狂喜的",
+      "examples" : [
+        "“Are you pleased?” “I’m thrilled.”\n“你高兴吗？”“我太兴奋了。”"
+      ],
+      "frequency" : 17602,
+      "phonetic" : "θrɪld",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "thrilled"
+    },
+    {
+      "collocations" : [
+        "tremble with fear：吓得直发抖",
+        "leaves tremble in the breeze：在微风中摇曳的树叶",
+        "a tremble of fear：恐惧引起的颤抖"
+      ],
+      "definition" : "（因紧张、激动、惊慌等）颤抖，哆嗦；轻轻摇晃",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈtremb(ə)l",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "tremble"
+    },
+    {
+      "collocations" : [
+        "send tremors through the community：在社区中引起了波动",
+        "a tremor in hands：双手颤抖"
+      ],
+      "definition" : "小地震；（团体或组织内的）波动；（身体或声音的）",
+      "etymology" : "来自古法语tremor “fear, terror, quaking”",
+      "examples" : [
+        "The earthquake sent tremors through the region.\n这次地震的震感传遍了整个地区。"
+      ],
+      "mnemonic" : "trem-（=tremble：颤抖；轻轻摇晃）+ -or（名词后缀）→小地震；",
+      "phonetic" : "ˈtremə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "tremor"
+    },
+    {
+      "collocations" : [
+        "trembling fingers：手指哆嗦着"
+      ],
+      "definition" : "颤抖的；哆嗦的",
+      "examples" : [
+
+      ],
+      "frequency" : 16796,
+      "phonetic" : "tremblɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "trembling"
+    },
+    {
+      "collocations" : [
+        "terrible moans：可怕的呻吟",
+        "a terrible nightmare：一个可怕的噩梦"
+      ],
+      "definition" : "可怕的；糟糕的；极其严重的",
+      "etymology" : "late 14c.,“causing terror, awe, or dread; frightful,” from Old French 20000 词汇巅峰 速 记 terrible (12c.), from Latin terribilis “frightful,” from terrere “fill with fear,” from PIE root *tros- “to make afraid” (source also of Sanskrit trasanti “to tremble, be afraid,” Avestan tarshta “scared, afraid,” Greek treëin “to tremble, be afraid,” Lithuanian trišėti “to tremble, shiver,” Old Church Slavonic treso “I shake,” Middle Irish tarrach “timid”). Weakened sense of “very bad, awful” is first attested 1590s.",
+      "examples" : [
+
+      ],
+      "frequency" : 1958,
+      "mnemonic" : "terr（=-trem=tremble：颤抖）+ -ible（能……的）→能让人颤抖的→",
+      "phonetic" : "ˈterəbl",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "terrible"
+    },
+    {
+      "collocations" : [
+        "suffer terribly：遭受了可怕的打击",
+        "terribly sorry：非常抱歉"
+      ],
+      "definition" : "可怕地；非常",
+      "examples" : [
+
+      ],
+      "frequency" : 4928,
+      "phonetic" : "ˈterɪblɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "terribly"
+    },
+    {
+      "collocations" : [
+        "shake with terror：害怕地发抖",
+        "the war on terror：反恐战争"
+      ],
+      "definition" : "恐惧；恐怖活动；使人恐惧的事物",
+      "examples" : [
+
+      ],
+      "frequency" : 2756,
+      "mnemonic" : "terr-（=fill with fear, frighten：充满恐惧；使害怕）+ -or（名词后缀）\n→恐惧；恐怖活动；使人恐惧的事物",
+      "phonetic" : "ˈterə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "terror"
+    },
+    {
+      "collocations" : [
+        "the threat of global terrorism：全球恐怖主义的威胁"
+      ],
+      "definition" : "恐怖主义",
+      "examples" : [
+
+      ],
+      "frequency" : 2621,
+      "phonetic" : "ˈterərɪzəm",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "terrorism"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恐怖分子",
+      "examples" : [
+
+      ],
+      "frequency" : 2862,
+      "phonetic" : "ˈterərɪst",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "terrorist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使非常害怕",
+      "examples" : [
+        "The electric atmosphere both terrified and thrilled him.\n这种紧张的气氛使他既害怕又激动。"
+      ],
+      "frequency" : 5912,
+      "mnemonic" : "terrify：to frighten someone extremely, make afraid→使某人非常害怕\nterr-（terror：恐惧）+ -ify（动词后缀，使……）→使非常害怕",
+      "phonetic" : "ˈterɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "terrify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人恐惧的",
+      "examples" : [
+        "I still find it terrifying to find myself surrounded by large numbers of\nhorses.\n我发现被一大群马包围着还是很吓人。"
+      ],
+      "frequency" : 8754,
+      "phonetic" : "ˈterɪfaɪɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "terrifying"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非常害怕的",
+      "examples" : [
+        "He was terrified of heights.\n他过去恐高。"
+      ],
+      "frequency" : 9766,
+      "phonetic" : "ˈterɪfaɪd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "terrified"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恐吓",
+      "examples" : [
+        "Bands of gunmen have hijacked food shipments and terrorized relief\nworkers.\n几伙持枪歹徒劫持了运送的食物，并恐吓救援人员。"
+      ],
+      "frequency" : 11669,
+      "mnemonic" : "terror（恐惧；惊恐）+ -ize（动词后缀，使……）→使恐惧、惊恐→",
+      "phonetic" : "ˈtɛrəraɪz",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "terrorize"
+    },
+    {
+      "collocations" : [
+        "be terrifically bright：太聪明了",
+        "look terrific：看起来好极了",
+        "a terrific bang：一声巨响"
+      ],
+      "definition" : "极好的；巨大的；异乎寻常的",
+      "examples" : [
+
+      ],
+      "frequency" : 4275,
+      "mnemonic" : "terrif（=terrify：使恐怖；可怕）+ -ic（形容词后缀：的）→极",
+      "phonetic" : "təˈrɪfɪk",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "terrific"
+    },
+    {
+      "collocations" : [
+        "deter criminals from carrying guns：阻止罪犯携带枪支"
+      ],
+      "definition" : "阻止；威慑；使不敢",
+      "etymology" : "1570s, “discourage and stop by fear,” from Latin deterrere “to frighten 20000 词汇巅峰 速 记 from, discourage from”.",
+      "examples" : [
+        "The high price of the service could deter people from seeking advice.\n这么高的服务费可能使咨询者望而却步。"
+      ],
+      "frequency" : 6748,
+      "mnemonic" : "de-（=away：离开）+ ter-（=terr-：frighten, fill with fear：充满害怕）\n→是某人因充满害怕而不敢做某事→阻止；使不敢",
+      "phonetic" : "dɪˈtɜː",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "deter"
+    },
+    {
+      "collocations" : [
+        "nuclear deterrents：核武器的威慑力",
+        "a deterrent effect：遏制作用"
+      ],
+      "definition" : "威慑因素；威慑性武器 adj. 有威慑力的（serving to",
+      "examples" : [
+
+      ],
+      "mnemonic" : "deterr（=deter：威慑）+ -ent（形容词、名词后缀）→威慑因素；有威",
+      "phonetic" : "dɪˈter(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "deterrent"
+    },
+    {
+      "collocations" : [
+        "policies of nuclear deterrence：核威慑政策"
+      ],
+      "definition" : "威慑",
+      "examples" : [
+
+      ],
+      "frequency" : 12454,
+      "phonetic" : "dɪˈterəns",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "deterrence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "顽强的；坚毅的；不屈不挠的",
+      "examples" : [
+        "He was undeterred by these disasters.\n他没有被这些灾难吓倒。"
+      ],
+      "frequency" : 19874,
+      "mnemonic" : "un-（=not：表反义）+deter（阻止；威慑；双写r）+-ed（形容词后\n缀）→不受阻止、威慑的→顽强的；坚毅的；不屈不挠的",
+      "phonetic" : "ʌndɪˈtɜːd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "undeterred"
+    },
+    {
+      "collocations" : [
+        "his horror of death：他对死亡的恐惧",
+        "horror film：一部恐怖电影"
+      ],
+      "definition" : "震惊；恐惧；令人恐怖的经历 adj. （影片或故事）内容恐",
+      "examples" : [
+
+      ],
+      "mnemonic" : "horror：a shivering, a shaking, trembling→因令人极不愉快的事物引起",
+      "phonetic" : "ˈhɒrə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "horror"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可怕的；极讨厌的",
+      "examples" : [
+        "a horrible scene：一个恐怖的场景\nhorrible weather \/ children \/ shoes：糟透了的天气 \/ 孩子 \/ 鞋\na horrible crime \/ nightmare：骇人听闻的罪行；可怕的噩梦"
+      ],
+      "frequency" : 3788,
+      "mnemonic" : "horr-（=terror：恐惧；恐怖）+ -ible（形容词后缀）→令人恐惧的；",
+      "phonetic" : "ˈhɒrəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人恐惧地；糟透了地；极其",
+      "examples" : [
+        "A two-year-old boy was horribly murdered. 一个两岁的男孩惨遭杀害。\nThe experiment went horribly wrong. 实验弄得一塌糊涂。\nIt was horribly painful. 疼极了。"
+      ],
+      "frequency" : 12617,
+      "phonetic" : "ˈhɒrəblɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "horribly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使感到惊骇；使惊吓",
+      "examples" : [
+
+      ],
+      "frequency" : 9827,
+      "mnemonic" : "horr-（=horror：震惊；恐惧）+ -ify（动词后缀，使……）→使感到",
+      "phonetic" : "ˈhɒrɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "horrify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "惊骇的；震惊的",
+      "examples" : [
+        "She gazed at him in horrified disbelief.\n她既惊愕又难以置信地盯着他。\nHe was horrified when he discovered the conditions in which they lived.\n看到他们的生活状况时，他很震惊。"
+      ],
+      "frequency" : 16360,
+      "mnemonic" : "horrified=terrified, frightened：惊骇的；震惊的",
+      "phonetic" : "ˈhɒrɪfaɪd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrified"
+    },
+    {
+      "collocations" : [
+        "a horrific murder\/accident\/attack, etc.：骇人听闻的谋杀、事故、攻击等",
+        "pile up horrific extra amounts of money：再加上数目骇人的几大笔钱"
+      ],
+      "definition" : "极其可怕的；大的骇人的；很不愉快的",
+      "examples" : [
+        "We had a horrific trip. 我们的旅行糟糕透顶。"
+      ],
+      "frequency" : 9332,
+      "mnemonic" : "horrific：terrible, fearful, unpleasant→极其可怕的；骇人听闻的；糟",
+      "phonetic" : "hɒˈrɪfɪk",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrific"
+    },
+    {
+      "collocations" : [
+        "a horrifying sight \/ experience \/ story：恐怖的景象\/经历\/故事"
+      ],
+      "definition" : "令人极其震惊的（或厌恶的、恐惧的）",
+      "examples" : [
+        "It’s horrifying to see such poverty.\n看到这种贫困状况令人震惊。"
+      ],
+      "frequency" : 11762,
+      "mnemonic" : "horrifying=horrific：令人极其震惊的、恐惧的",
+      "phonetic" : "ˈhɔrɪfaɪɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrifying"
+    },
+    {
+      "collocations" : [
+        "a horrid little girl；一个招人讨厌的小女孩"
+      ],
+      "definition" : "非常讨厌的；很不友好的18080",
+      "examples" : [
+        "What a horrid smell! 多么难闻的气味！\n-id表示形容词后缀：\n例如：florid如花的（flor花+-id） stupid 笨的（stup笨，麻木+-id）\nsplendid 辉煌的（splend光辉+-id） fluid 流动的（flu流+-id） placid 安\n静的（plac平静+-id）"
+      ],
+      "mnemonic" : "horr-（=unpleasant, offensive: 令人讨厌的）+-id（形容词后缀）→非",
+      "phonetic" : "ˈhɒrɪd",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrid"
+    },
+    {
+      "collocations" : [
+        "the usually horrendous traffic jams：通常糟糕透顶的交通堵塞"
+      ],
+      "definition" : "骇人的；（程度大得或严重得）极其令人不快",
+      "examples" : [
+        "He described it as the most horrendous experience of his life.\n他把那件事形容为他生活中最恐怖的经历。"
+      ],
+      "mnemonic" : "horr-（恐惧；颤抖）+ endous（-end + -ous）→骇人的；（程度大得",
+      "phonetic" : "hɒˈrendəs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "horrendous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "震惊；休克；惊吓 vt. 使震惊 vt.&vi. 使生气",
+      "examples" : [
+        "The little boy was speechless with shock.\n这个小男孩被吓得说不出话来。"
+      ],
+      "frequency" : 2318,
+      "mnemonic" : "shock=shiver：震动；震惊\nshock=a sudden blow：突然的重击→震惊；休克；惊吓",
+      "phonetic" : "ʃɒk",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shock"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "震惊的；生气的",
+      "examples" : [
+        "This was a nasty attack and the woman is still very shocked."
+      ],
+      "frequency" : 5755,
+      "phonetic" : "ʃɒkt",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "shocked"
+    },
+    {
+      "collocations" : [
+        "shocking news：令人震惊的消息",
+        "shocking behavior：骇人听闻的行为"
+      ],
+      "definition" : "令人震惊的；令人愤慨的；非常糟糕的",
+      "examples" : [
+        "The media coverage was shocking：媒体的报道糟透了。"
+      ],
+      "frequency" : 6103,
+      "phonetic" : "ˈʃɒkɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "shocking"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非常糟糕地；令人震惊地；令人愤慨地",
+      "examples" : [
+        "His memory was becoming shockingly bad.\n他的记忆力正变得很糟。\nShockingly, this useless and dangerous surgery did not end until the 1930s.\n令人震惊地，这种毫无作用又危险的外科手术直到20世纪30年代才\n结束。"
+      ],
+      "frequency" : 18265,
+      "phonetic" : "ˈʃɑkɪŋli",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "shockingly"
+    },
+    {
+      "collocations" : [
+        "huge aftershock：强烈的余震"
+      ],
+      "definition" : "（地震后的）余震",
+      "examples" : [
+
+      ],
+      "frequency" : 18955,
+      "mnemonic" : "after（在……以后）+ shock（震动）→在地震之后又发生的震动→余",
+      "phonetic" : "ˈɑːftəʃɒk",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "aftershock"
+    },
+    {
+      "collocations" : [
+        "a pair of skis：一副滑雪板",
+        "ski resort：滑雪胜地 ski instructor：滑雪教练"
+      ],
+      "definition" : "滑雪板；滑水板 vi. 滑雪；滑水 adj. 滑雪用的；滑水用的",
+      "etymology" : "来自原始日耳曼语skid-“to divide, split”→shide：从木材上分离出来的 木头→ski：滑雪板；滑水板，并衍生出动词和形容词相关含义。",
+      "examples" : [
+
+      ],
+      "frequency" : 3044,
+      "phonetic" : "skiː",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "ski"
+    },
+    {
+      "collocations" : [
+        "an enthusiastic skier：热情的滑雪爱好者"
+      ],
+      "definition" : "滑雪者；滑水者",
+      "examples" : [
+
+      ],
+      "frequency" : 5874,
+      "phonetic" : "ˈskiːə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skier"
+    },
+    {
+      "collocations" : [
+        "a skiing holiday \/ instructor \/ lesson \/ vacation, etc.：滑雪假日、滑雪教"
+      ],
+      "definition" : "滑雪运动",
+      "examples" : [
+
+      ],
+      "frequency" : 5039,
+      "mnemonic" : "ski（滑雪）+-ing（动名词后缀）→滑雪运动",
+      "phonetic" : "ˈskiːɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skiing"
+    },
+    {
+      "collocations" : [
+        "skid to a halt just in time：滑行了一段路后，及时停了下来"
+      ],
+      "definition" : "侧滑；打滑；（刹车时）滑行 n. 打滑；侧滑",
+      "etymology" : "也许来自斯堪的纳维亚语skið “stick of wood”，用于指将重物从一地 移动到另一地的滑动垫木→引申为a sliding along：顺着……滑动、滑 行→侧滑，打滑，滑行",
+      "examples" : [
+        "The car pulled up too fast and skidded on the dusty shoulder of the road.\n那辆汽车刹车太快，车轮在尘土飞扬的路肩上打滑。\n单词 ship 含义为“船运；船；舰”"
+      ],
+      "frequency" : 10555,
+      "phonetic" : "skɪd",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "skid"
+    },
+    {
+      "collocations" : [
+        "a sailing \/ cargo \/ cruise ship：帆船；货船；游艇",
+        "ship sb. off \/ ship off sb.：送走；遣送（贬义）"
+      ],
+      "definition" : "船运；运输 n. （大）船；舰",
+      "etymology" : "来自古英语scip “ship, boat”.",
+      "examples" : [
+
+      ],
+      "frequency" : 1223,
+      "phonetic" : "ʃɪp",
+      "pos" : "vt.",
+      "rootHint" : "sker",
+      "word" : "ship"
+    },
+    {
+      "collocations" : [
+        "shipment costs：运费",
+        "a shipment of arms：运送的一批军火"
+      ],
+      "definition" : "运输；运送；运输的货物",
+      "examples" : [
+
+      ],
+      "frequency" : 7074,
+      "phonetic" : "ˈʃɪpmənt",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shipment"
+    },
+    {
+      "collocations" : [
+        "international shipping lanes （=routes for ships）：国际海上航道",
+        "a shipping company：船运公司"
+      ],
+      "definition" : "航运；海运；运费",
+      "examples" : [
+
+      ],
+      "frequency" : 7138,
+      "phonetic" : "ˈʃɪpɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shipping"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "战舰；军舰",
+      "examples" : [
+
+      ],
+      "frequency" : 12293,
+      "mnemonic" : "war（战争）+ ship（船；舰）→战舰；军舰",
+      "phonetic" : "ˈwɔːʃɪp",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "warship"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "战列舰",
+      "examples" : [
+
+      ],
+      "frequency" : 13751,
+      "mnemonic" : "battle（战役；斗争）+ ship（船；舰）→战列舰",
+      "phonetic" : "ˈbæt(ə)lʃɪp",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "battleship"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "造船厂；修船厂",
+      "examples" : [
+
+      ],
+      "frequency" : 13769,
+      "mnemonic" : "ship（船；舰）+ yard（某种用途的区域，场地）→船只所在的场地\n→造船厂；修船厂",
+      "phonetic" : "ˈʃɪpjɑːd",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shipyard"
+    },
+    {
+      "collocations" : [
+        "a shipwrecked sailor：遭遇海难的水手",
+        "the perils of storm and shipwreck：发生暴风雨和海难的危险"
+      ],
+      "definition" : "船只失事；遇难船只 vt. 使遭遇海难后幸存",
+      "examples" : [
+
+      ],
+      "frequency" : 18215,
+      "mnemonic" : "ship（船只）+ wreck（使船舶失事）→船只失事；使遭遇海难后幸存",
+      "phonetic" : "ˈʃɪprek",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "shipwreck"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "星际飞船",
+      "examples" : [
+
+      ],
+      "frequency" : 15984,
+      "mnemonic" : "star（星星）+ ship（船）→星际飞船",
+      "phonetic" : "ˈstɑrʃɪp",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "starship"
+    },
+    {
+      "collocations" : [
+        "skip rope：跳绳",
+        "skip meals：不吃饭",
+        "skip the exercises in this chapter：把这一章的练习跳过去"
+      ],
+      "definition" : "&vi. 匆匆翻阅 vt. 跳（绳）；逃避 vi. 蹦跳 n. 蹦跳；跳（绳）",
+      "etymology" : "14世纪, “to spring lightly,” also “to jump over”：轻松地跳跃，跳过去→ 蹦跳，跳绳。引申义为匆匆翻阅，逃避。",
+      "examples" : [
+
+      ],
+      "phonetic" : "skɪp",
+      "pos" : "vt",
+      "rootHint" : "sker",
+      "word" : "skip"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指单人的）小划艇；小帆船",
+      "examples" : [
+        "轻舟已过万重山。\nAs my light skiff shot through the folds of mounts ten thousand with a whirr.\nMy skiff has left ten thousand mountains far away."
+      ],
+      "frequency" : 16981,
+      "mnemonic" : "skiff：small boat, little boat→小划艇；小帆船",
+      "phonetic" : "skɪf",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skiff"
+    },
+    {
+      "collocations" : [
+        "the skipper of an English fishing boat：一艘英国渔船的船长",
+        "to skipper a yacht：当帆船船长"
+      ],
+      "definition" : "（小型商船或渔船的）船长 vt. 当船长（或运动队队长",
+      "examples" : [
+        "He skippered the team to victory：他率领队伍取得了胜利。"
+      ],
+      "mnemonic" : "n. skipper=sea captain：船长\nvt. guide, lead through：当船长；带领",
+      "phonetic" : "ˈskɪpə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "skipper"
+    },
+    {
+      "collocations" : [
+        "v. run there with short quick steps：碎步疾跑",
+        "to deliberately cause something to fail：故意破环、阻挠",
+        "cut a hole in a ship to sink it：把船凿沉",
+        "n. a hurried pace or run：疾走；快跑"
+      ],
+      "definition" : "碎步疾跑 vt. （故意）破坏（计划、提议）；凿沉",
+      "examples" : [
+        "Shareholders successfully scuttled the deal.\n股东成功地阻止了这桩交易。\nHe held his breath as a rat scuttled past.\n见一只老鼠跑过，他屏住了呼吸。"
+      ],
+      "phonetic" : "ˈskʌt(ə)l",
+      "pos" : "vi.",
+      "rootHint" : "sker",
+      "word" : "scuttle"
+    },
+    {
+      "collocations" : [
+        "leaf sheath：叶鞘",
+        "the sheath around an electric cable：电线护皮"
+      ],
+      "definition" : "（刀、剑等的）鞘；护套",
+      "etymology" : "来自词根skei- “to cut, split,” a split stick with the sword blade inserted： 刀、剑的刀片插入两片分开的木片之中，即刀、剑等的鞘中",
+      "examples" : [
+
+      ],
+      "frequency" : 12995,
+      "mnemonic" : "sheath=scabbard：（刀、剑的）鞘",
+      "phonetic" : "ʃiːθ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "sheath"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "精神分裂症",
+      "etymology" : "1912，来自现代拉丁语，字面含义为“a splitting of the mind,”来自 希腊语skhizein “to split”，含义为“分裂”。",
+      "examples" : [
+
+      ],
+      "frequency" : 12243,
+      "mnemonic" : "schizo-（=to split：分裂）+ -phren（=heart, mind：心灵；想法）+-ia\n（表疾病）→引申词义精神分裂症",
+      "phonetic" : "ˌskɪtsə(ʊ)ˈfriːnɪə",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "schizophrenia"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分裂；宗派活动；（尤指）教会分裂",
+      "etymology" : "来自14世纪晚期单词scisme, “dissension within the church”，教会派系 纷争。来自古法语scisme, cisme “a cleft, split” （12世纪）, 来自希腊语 skhisma “division, cleft”，含义为“分裂；裂缝”。来自词根skhizein “to split”，分裂（成不同的派别）。原指欧洲的基督教教会分裂活 动，后词义通用化。 20000 词汇巅峰 速 记 笔 记 区",
+      "examples" : [
+        "The church seems to be on the brink of schism.\n该教会看来处于分裂的边缘。"
+      ],
+      "frequency" : 18760,
+      "phonetic" : "ˈsɪz(ə)m;ˈskɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "schism"
+    },
+    {
+      "collocations" : [
+        "shoddy goods：劣质商品"
+      ],
+      "definition" : "粗制滥造的",
+      "examples" : [
+        "I’m normally quick to complain about shoddy service.\n我通常会迅速地投诉劣质的服务。\n单 词 nice, science, conscience, prescient 都 来 自 词根 sci-， 它 表 示“to\nknow, to separate one thing from another, to distinguish”，即含义为“知道，\n将一物与其他分开，辨别；区分，使有别于”。来自古词根 skei-,“to cut,\nsplit”含义为“切割，分开，分裂”。"
+      ],
+      "frequency" : 17799,
+      "mnemonic" : "shoddy=second-rate：劣等的",
+      "phonetic" : "ˈʃɒdɪ",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "shoddy"
+    },
+    {
+      "collocations" : [
+        "a nice dark color：令人喜爱的深色调"
+      ],
+      "definition" : "令人愉快的；友好的；可爱的",
+      "etymology" : "“dainty, delicate” (c. 1400); “precise, careful” (1500s); “agreeable, delightful” (1769); “kind, thoughtful” (1830).",
+      "examples" : [
+
+      ],
+      "frequency" : 900,
+      "phonetic" : "naɪs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "nice"
+    },
+    {
+      "collocations" : [
+        "nicely illustrated：插图精美",
+        "treat you very nicely：待你很好"
+      ],
+      "definition" : "好看地；令人愉快地；对……友好地",
+      "examples" : [
+
+      ],
+      "frequency" : 6102,
+      "phonetic" : "ˈnaɪslɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "nicely"
+    },
+    {
+      "collocations" : [
+        "the niceties of dinner party conversation：晚宴上谈话的礼节",
+        "social niceties：社交礼仪"
+      ],
+      "definition" : "（礼仪或礼貌举止上的）细节",
+      "examples" : [
+
+      ],
+      "frequency" : 19808,
+      "phonetic" : "ˈnaɪsɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "nicety"
+    },
+    {
+      "collocations" : [
+        "science and technology：科学与技术",
+        "computer science：计算机科学",
+        "the modern science of psychology：现代心理学"
+      ],
+      "definition" : "科学；自然科学；学科；（人类行为的）科学研究",
+      "etymology" : "14世纪中期，“what is known, knowledge (of something) acquired by study; information;”“已知之物，从研究学习中习得的知识；信 息”。也有“assurance of knowledge, certitude, certainty”，“对知识 的确定；确实的事；必然的事”。来自古法语science “knowledge, 笔 记 区 20000 词汇巅峰 速 记 learning, application; corpus of human knowledge” (12c.), 来自拉丁语 scientia “knowledge, a knowing; expertness,”来自sciens (genitive scientis) “intelligent, skilled,” scire “to know”的现在分词形式，也许来自“to separate one thing from another, to distinguish,”与scindere “to cut, divide” 相关，来自词根*skei- “to cut, split”.",
+      "examples" : [
+
+      ],
+      "frequency" : 892,
+      "mnemonic" : "sci-（=to know：知道）+ -ence（名词后缀）→帮助人类了解、“知\n道”周围的世界的事物→科学；自然科学；学科；科学研究",
+      "phonetic" : "ˈsaɪəns",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "science"
+    },
+    {
+      "collocations" : [
+        "scientific experiments：科学实验",
+        "a scientific discovery：科学发现"
+      ],
+      "definition" : "科学的；仔细严谨的；使用科学方法的",
+      "examples" : [
+
+      ],
+      "frequency" : 1614,
+      "phonetic" : "ˌsaɪənˈtɪfɪk",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "scientific"
+    },
+    {
+      "collocations" : [
+        "scientifically advanced countries：科学发达的国家"
+      ],
+      "definition" : "科学地；细致严谨地",
+      "examples" : [
+
+      ],
+      "frequency" : 10214,
+      "phonetic" : "ˌsaɪənˈtɪfɪkli",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "scientifically"
+    },
+    {
+      "collocations" : [
+        "a research scientist：从事研究的科学家",
+        "nuclear scientists：核科学家"
+      ],
+      "definition" : "科学家",
+      "examples" : [
+
+      ],
+      "frequency" : 1061,
+      "phonetic" : "ˈsaɪəntɪst",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "scientist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "神经系统科学",
+      "examples" : [
+
+      ],
+      "frequency" : 20128,
+      "mnemonic" : "neuro-（神经）+ science（科学）→神经科学",
+      "phonetic" : "ˈnjʊərəʊsaɪəns",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "neuroscience"
+    },
+    {
+      "collocations" : [
+        "to have a clear \/ guilty conscience：问心无愧\/有愧",
+        "in （all \/ good） conscience：凭良心（=honestly）",
+        "on your conscience：使人内疚；良心不安"
+      ],
+      "definition" : "良心，良知；内疚，愧疚",
+      "etymology" : "c. 1200, “faculty of knowing what is right,” originally especially to Christian ethics, later “awareness that the acts for which one feels responsible do or do not conform to one’s ideal of right,” later (late 14c.) 20000 词汇巅峰 速 记 more generally, “sense of fairness or justice, moral sense.”",
+      "examples" : [
+
+      ],
+      "frequency" : 4694,
+      "mnemonic" : "con-（with：与……一起）+ sci-（=to know, aware：知道）+ -ence\n（名词后缀）→有关某件事情共同的认识、知识→良心，良知；内",
+      "phonetic" : "ˈkɒnʃəns",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "conscience"
+    },
+    {
+      "collocations" : [
+        "a conscientious student \/ teacher \/ worker：勤勉认真的学生；一丝不苟"
+      ],
+      "definition" : "勤勉认真的；一丝不苟的",
+      "examples" : [
+
+      ],
+      "frequency" : 11921,
+      "mnemonic" : "conscien（=conscience：良心）+ t + -ious（形容词后缀）→为良心所\n控制的→勤勉认真的；一丝不苟的",
+      "phonetic" : "ˌkɒnʃɪˈenʃəs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "conscientious"
+    },
+    {
+      "collocations" : [
+        "make unconscionable demands on his free time：对他的空闲时间提出不"
+      ],
+      "definition" : "不合理的",
+      "examples" : [
+
+      ],
+      "frequency" : 19512,
+      "mnemonic" : "un-（不）+conscionable（凭良心的）→没有凭着良心的→不合理的",
+      "phonetic" : "ʌnˈkɒnʃ(ə)nəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "unconscionable"
+    },
+    {
+      "collocations" : [
+        "be very conscious of my weight：很在意自己的体重",
+        "make a conscious decision：做出清楚的决定"
+      ],
+      "definition" : "意识到的；在意的；神志清醒的；清楚的（记忆、",
+      "examples" : [
+
+      ],
+      "mnemonic" : "con-（加强语气）+ sci-（=aware：意识）+ -ous（形容词后缀）\n→knowing, aware：有意识的；神志清醒的；清楚的",
+      "phonetic" : "ˈkɒnʃəs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "conscious"
+    },
+    {
+      "collocations" : [
+        "be aware of：意识到"
+      ],
+      "definition" : "意识到……的；感受到……的",
+      "examples" : [
+
+      ],
+      "frequency" : 1445,
+      "phonetic" : "əˈweə(r)",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "aware"
+    },
+    {
+      "collocations" : [
+        "be consciously aware of：有意识地意识到……"
+      ],
+      "definition" : "自觉地；有意识地",
+      "examples" : [
+
+      ],
+      "frequency" : 8261,
+      "phonetic" : "ˈkɒnʃəslɪ",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "consciously"
+    },
+    {
+      "collocations" : [
+        "bang her head and lose consciousness：撞了她的头，让她失去了知觉"
+      ],
+      "definition" : "思想头脑；观念体系；意识；知觉",
+      "examples" : [
+
+      ],
+      "frequency" : 3252,
+      "phonetic" : "ˈkɒnʃəsnɪs",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "consciousness"
+    },
+    {
+      "collocations" : [
+        "the hidden power of the subconscious：潜意识的隐藏能量"
+      ],
+      "definition" : "潜意识 adj. 下意识的",
+      "examples" : [
+
+      ],
+      "frequency" : 18940,
+      "mnemonic" : "sub-（下）+ conscious（有意识的）→下意识的；潜意识的",
+      "phonetic" : "sʌbˈkɒnʃəs",
+      "pos" : "n.",
+      "rootHint" : "sker",
+      "word" : "subconscious"
+    },
+    {
+      "collocations" : [
+        "seem totally unconscious of：似乎完全没有意识到……"
+      ],
+      "definition" : "不清醒的；未意识到的",
+      "examples" : [
+
+      ],
+      "frequency" : 5746,
+      "phonetic" : "ʌnˈkɒnʃəs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "unconscious"
+    },
+    {
+      "collocations" : [
+        "unconsciously sweep back the curls from her forehead：她无意识地把前"
+      ],
+      "definition" : "无意识地",
+      "examples" : [
+
+      ],
+      "frequency" : 12059,
+      "phonetic" : "ʌnˈkɑnʃəsli",
+      "pos" : "adv.",
+      "rootHint" : "sker",
+      "word" : "unconsciously"
+    },
+    {
+      "collocations" : [
+        "think it over conscientiously：认真考虑它"
+      ],
+      "definition" : "有良知的，认真的，负责的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "conscient（=conscience：良知，良心）+ -ous（形容词后缀）→有良",
+      "phonetic" : "ˌkɔnʃiˈenʃəs",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "conscientious"
+    },
+    {
+      "collocations" : [
+        "a prescient paper：具有先见之明的论文"
+      ],
+      "definition" : "预知的；能预见未来的",
+      "examples" : [
+
+      ],
+      "frequency" : 18985,
+      "mnemonic" : "pre-（=before：在前；预先）+ -sci-（=to know：知道；知晓，词源\n同science）+ -ent（形容词后缀）→to know in advance：预先、提前\n就知道的→预知的；能预见未来的",
+      "phonetic" : "ˈpresiənt",
+      "pos" : "adj.",
+      "rootHint" : "sker",
+      "word" : "prescient"
+    }
+  ]
+}

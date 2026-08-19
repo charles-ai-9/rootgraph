@@ -1,0 +1,109 @@
+{
+  "chapter" : "30",
+  "chapterOrder" : 130,
+  "id" : "pot",
+  "meaningEn" : "powerful",
+  "meaningZh" : "强有力的。",
+  "roots" : [
+    "pot"
+  ],
+  "semanticLabel" : "强有力的。",
+  "source" : "textbook-5",
+  "titleZh" : "强有力的。",
+  "words" : [
+    {
+      "collocations" : [
+        "a potent force：强大的力量",
+        "a potent argument：有力的论据",
+        "a very potent alcoholic brew：烈性酒精饮料"
+      ],
+      "definition" : "强大的；强有力的；有强效的",
+      "etymology" : "来自拉丁语potis “powerful, able, capable; possible”.",
+      "examples" : [
+
+      ],
+      "frequency" : 6389,
+      "mnemonic" : "pot-（=powerful：强有力的）+ -ent（形容词后缀）→强有力的；有",
+      "phonetic" : "ˈpəʊt(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "pot",
+      "word" : "potent"
+    },
+    {
+      "collocations" : [
+        "have a lingering potency：有挥之不去的影响力",
+        "lose its potency：失去效力"
+      ],
+      "definition" : "影响力；（毒品、药品等的）效力",
+      "examples" : [
+
+      ],
+      "frequency" : 13892,
+      "mnemonic" : "poten（=potent：强大的；有强效的）+ -cy（名词后缀）→影响力",
+      "phonetic" : "ˈpəʊtnsɪ",
+      "pos" : "n.",
+      "rootHint" : "pot",
+      "word" : "potency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无能为力的；阳萎的",
+      "examples" : [
+        "She blazed with impotent rage. 她勃然大怒，但于事无补。\n释义：（ADJ-GRADED） 无能为力的；不起作用的 If someone feels\nimpotent, they feel that they have no power to influence people or events."
+      ],
+      "frequency" : 16129,
+      "mnemonic" : "im-（=not：表反义）+ potent（powerful）→无能为力的",
+      "phonetic" : "ˈɪmpət(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "pot",
+      "word" : "impotent"
+    },
+    {
+      "collocations" : [
+        "male impotence：阳痿"
+      ],
+      "definition" : "面对似乎无法解决的问题的束手无策之感",
+      "examples" : [
+
+      ],
+      "frequency" : 15544,
+      "phonetic" : "ˈɪmpətəns",
+      "pos" : "n.",
+      "rootHint" : "pot",
+      "word" : "impotence"
+    },
+    {
+      "collocations" : [
+        "potential client：潜在的客户",
+        "fulfill one’s potential：发挥某人的潜能",
+        "potential for violence：暴力倾向"
+      ],
+      "definition" : "潜在的 n. 潜力；潜质；潜在性",
+      "examples" : [
+
+      ],
+      "frequency" : 1266,
+      "mnemonic" : "potent（=possible：可能的，潜在的；-ent和-ible均为后缀）+ial（名\n词或形容词后缀）→潜在的（adj.）；潜力，潜质（n.）",
+      "phonetic" : "pəˈtenʃl",
+      "pos" : "adj.",
+      "rootHint" : "pot",
+      "word" : "potential"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "潜在地",
+      "examples" : [
+        "Clearly this is a potentially dangerous situation.\n显然这是一种具有潜在危险的局势。"
+      ],
+      "frequency" : 2854,
+      "phonetic" : "pəˈtɛnʃəli",
+      "pos" : "adv.",
+      "rootHint" : "pot",
+      "word" : "potentially"
+    }
+  ]
+}

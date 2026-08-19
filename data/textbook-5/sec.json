@@ -1,0 +1,558 @@
+{
+  "chapter" : "9",
+  "chapterOrder" : 109,
+  "id" : "sec",
+  "meaningEn" : "跟随”之意，可以由单词 second 反推， sec- （跟随）",
+  "roots" : [
+    "sec"
+  ],
+  "semanticLabel" : "跟随之意，可以由单词 second 反推， sec- （跟随）",
+  "source" : "textbook-5",
+  "titleZh" : "跟随之意，可以由单词 second 反推， sec- （跟随）",
+  "words" : [
+    {
+      "collocations" : [
+        "second to none：不亚于任何一个的",
+        "second only to：仅次于某物",
+        "their second child：他们的第二个孩子",
+        "the Second World War：第二次世界大战"
+      ],
+      "definition" : "附议；赞同 n. 秒；片刻；（食物）第二份；次品；二",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sec-（=follow：跟随）+ on（one：一）+ d→跟随在一之后→第二；",
+      "phonetic" : "ˈsek(ə)nd",
+      "pos" : "vt.",
+      "rootHint" : "sec",
+      "word" : "second"
+    },
+    {
+      "collocations" : [
+        "a secondary consideration：次要因素",
+        "a secondary effect：间接结果",
+        "secondary teachers：中学教师"
+      ],
+      "definition" : "次要的；从属的；继发性的；中学的",
+      "examples" : [
+
+      ],
+      "frequency" : 3486,
+      "mnemonic" : "second（第二；其次）+ -ary（形容词后缀）→次要的；继发性的；",
+      "phonetic" : "ˈsekəndri",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "secondary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "其次；第二",
+      "examples" : [
+        "Firstly, it’s expensive, and secondly, it’s too slow.\n首先是价格贵，其次，速度太慢。"
+      ],
+      "frequency" : 7001,
+      "phonetic" : "ˈsekəndli",
+      "pos" : "adv.",
+      "rootHint" : "sec",
+      "word" : "secondly"
+    },
+    {
+      "collocations" : [
+        "second-class citizens：二等公民",
+        "a second-class education：二流的教育",
+        "second-class carriages \/ compartments \/ passengers：二等车厢 \/ 隔间 \/ 车"
+      ],
+      "definition" : "次要的；无足轻重的；（质量、标准等）二",
+      "examples" : [
+
+      ],
+      "mnemonic" : "second（第二）+ class（等级）→第二等级的→次要的；无足轻重",
+      "phonetic" : "ˌsekəndˈklɑːs",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "second-class"
+    },
+    {
+      "collocations" : [
+        "second-degree murder：二级谋杀罪",
+        "second-degree burns：二度烧伤"
+      ],
+      "definition" : "（指犯罪）二级的；（指烧伤）二度的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "second（第二）+degree（等级；度）→第二等级的；二度的→（指犯",
+      "phonetic" : "ˈsekənddiˈɡri:",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "second-degree"
+    },
+    {
+      "collocations" : [
+        "second-floor bedroom：二楼卧室",
+        "a second-floor apartment：二楼的一套公寓"
+      ],
+      "definition" : "二楼（美国和加拿大）；三楼（英国）",
+      "examples" : [
+
+      ],
+      "frequency" : 16188,
+      "mnemonic" : "second（第二）+ floor（楼层）→二楼；三楼（英国楼层表达：一",
+      "phonetic" : "ˈsɛkəndˈflɔː",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "second-floor"
+    },
+    {
+      "collocations" : [
+        "second-hand cars：二手车",
+        "a second-hand bookshop：旧书店",
+        "second-hand opinions：来自他人的观点",
+        "second-hand house：二手房"
+      ],
+      "definition" : "旧的；二手的",
+      "examples" : [
+
+      ],
+      "frequency" : 11054,
+      "mnemonic" : "second（第二的）+ hand（手）→二手的；旧的",
+      "phonetic" : "ˈsɛkəndˈhænd",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "second-hand"
+    },
+    {
+      "collocations" : [
+        "second-largest supermarket：第二大超市",
+        "the second-largest country：第二大国家"
+      ],
+      "definition" : "第二大的",
+      "examples" : [
+
+      ],
+      "frequency" : 12576,
+      "mnemonic" : "second（第二的）+ largest（最大的）→第二大的",
+      "phonetic" : "ˈsɛkəndˈlɑ:dʒɪst",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "second-largest"
+    },
+    {
+      "collocations" : [
+        "second-year MBA students：MBA二年级学生"
+      ],
+      "definition" : "大学二年级学生",
+      "examples" : [
+
+      ],
+      "frequency" : 18271,
+      "phonetic" : "ˈsɛkəndˈjɪə(r);jɜː(r)",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "second-year"
+    },
+    {
+      "collocations" : [
+        "religious sect：宗教派别"
+      ],
+      "definition" : "（有某种宗教或政治信仰的）派系",
+      "examples" : [
+
+      ],
+      "frequency" : 10464,
+      "mnemonic" : "来源于拉丁语中动词sequi（跟随）的过去分词派生的secta（追随者\n→派系）。-sequ-：跟随→sect：派系（追随者的群体）",
+      "phonetic" : "sekt",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "sect"
+    },
+    {
+      "collocations" : [
+        "a sequel to：……的续集",
+        "an interesting sequel to：……的有趣结果"
+      ],
+      "definition" : "（书、电影、戏剧等的）续篇，续集；后续的事，结果",
+      "etymology" : "来自中世纪法语séquelle，来自拉丁语sequela，来自sequi （“to follow”）.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "来自拉丁语词根sequi-：to follow：追随，延续。\nsequ-（追随；延续）+ -el（名词后缀，表人或物）→某物的续篇、延\n续→引申词义续集；续篇",
+      "phonetic" : "ˈsiːkwəl",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "sequel"
+    },
+    {
+      "collocations" : [
+        "a strange sequence of two successful grain harvests：连续两年奇怪的大"
+      ],
+      "definition" : "一系列；一连串；顺序；（电影中表现同一主题或",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sequ-（接着；连续）+ -ence（名词后缀）→一系列，一连串；顺",
+      "phonetic" : "ˈsiːkw(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "sequence"
+    },
+    {
+      "collocations" : [
+        "gene sequencing programme：基因排序项目"
+      ],
+      "definition" : "（对基因、DNA的）排序",
+      "examples" : [
+
+      ],
+      "frequency" : 14738,
+      "phonetic" : "ˈsiːkwənsɪŋ",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "sequencing"
+    },
+    {
+      "collocations" : [
+        "the sequential story of the universe：宇宙的变迁史"
+      ],
+      "definition" : "按次序的；顺序的",
+      "examples" : [
+
+      ],
+      "frequency" : 12350,
+      "mnemonic" : "sequent（连续的；相继的）+ -ial（形容词后缀）→按次序的；顺序的",
+      "phonetic" : "sɪˈkwenʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "sequential"
+    },
+    {
+      "collocations" : [
+        "consequent increase in spending：随之引起的消费增长",
+        "the responsibilities consequent upon the arrival of a new child：新生儿出"
+      ],
+      "definition" : "随之发生的；作为结果的",
+      "examples" : [
+
+      ],
+      "frequency" : 15285,
+      "mnemonic" : "con-（with, together：一起；同时）+ -sequ-（=sequi-=to follow：跟\n着；伴随）+ -ent（形容词后缀）→紧跟着同时发生的→随之发生的；",
+      "phonetic" : "ˈkɒnsɪkwənt",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "consequent"
+    },
+    {
+      "collocations" : [
+        "logical consequence：合理的后果",
+        "revolutionary consequences：革命性影响",
+        "in consequence \/ as a consequence：结果"
+      ],
+      "definition" : "结果；后果",
+      "examples" : [
+        "1）A trivial thing may sometimes bring about undesirable consequences.\n一个小事情有时也会导致不好的影响。\n2）In just a few short years, globalization has started a variety of\ntrends with profound consequences: the opening of markets, true global\ncompetition, widespread deregulation （解除政府对……的控制） of\nindustry, and an abundance of accessible capital.\n仅仅在短短的几年之内，全球化已经开始出现一些具有深远影响的趋\n势：市场的开放，真正的全球化竞争，政府对行业控制广泛解除以及\n大量的可用资金。",
+        "心理不健康可能会导致严重的后果，比如遇到困难时显得脆弱不\n堪，自私自利，不肯与人分享等。\nAn unhealthy mentality may result in \/ bring about \/ produce \/ lead to \/\ngive rise to severe consequences, such as fragile to difficulties, selfish and\nunwilling to share with others."
+      ],
+      "frequency" : 1635,
+      "mnemonic" : "con-（加强语气）+ -sequ-（跟随；接着）+ -ence（名词后缀）→紧\n跟而来的事情→结果；后果；影响",
+      "phonetic" : "ˈkɒnsɪkwəns",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "consequence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "所以；因此；结果",
+      "examples" : [
+        "But most fared poorly in school not because they lacked ability but",
+        "一些人在工作中表现不好，不是因为他们缺乏能力，而是因为他\n们发现该工作毫无挑战，因此便失去了兴趣。\nSome fare poorly in their work not because they lack ability \/ capacity \/\ncapability but because they find the work unchallenging and consequently\n\/ thus \/ therefore lose interest."
+      ],
+      "frequency" : 4406,
+      "mnemonic" : "consequent（作为结果的）+ -ly（副词后缀）→所以；因此；结果",
+      "phonetic" : "ˈkɒnsɪkwəntli",
+      "pos" : "adv.",
+      "rootHint" : "sec",
+      "word" : "consequently"
+    },
+    {
+      "collocations" : [
+        "inconsequential details：无关紧要的细节",
+        "inconsequential chatter：无谓的唠叨"
+      ],
+      "definition" : "不重要的；微不足道的；举足轻重的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-（=not：不）+ consequent（作为结果的）+ -ial（形容词后缀）→",
+      "phonetic" : "ɪnˌkɒnsɪˈkwenʃl",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "inconsequential"
+    },
+    {
+      "collocations" : [
+        "subsequent generations：后代",
+        "subsequent events：后来发生的事",
+        "in a subsequent report：在以后的报道中",
+        "subsequent studies：后续研究"
+      ],
+      "definition" : "随后的；后来的",
+      "examples" : [
+
+      ],
+      "frequency" : 3295,
+      "mnemonic" : "sub-（=closely：接近的）+ -sequ-（=follow：跟随）+ -ent（形容词后\n缀）→follow closely：在后面（紧紧）跟随的→随后的；后来的",
+      "phonetic" : "ˈsʌbsɪkwənt",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "subsequent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "随后；后来",
+      "examples" : [
+        "Subsequently, new guidelines were issued to all employees.\n随后，新的准则发给了所有雇员。\nThe original interview notes were subsequently lost.\n采访记录原稿后来丢失了。"
+      ],
+      "frequency" : 5070,
+      "mnemonic" : "subsequent（随后的）+ -ly（副词后缀）→随后；后来",
+      "phonetic" : "ˈsʌbsɪkwəntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "sec",
+      "word" : "subsequently"
+    },
+    {
+      "collocations" : [
+        "be sequestered for at least two months：至少要被隔离两个月"
+      ],
+      "definition" : "强制管理，扣押（债务人资产）；使隔离",
+      "examples" : [
+
+      ],
+      "frequency" : 18621,
+      "phonetic" : "sɪˈkwestə",
+      "pos" : "vt.",
+      "rootHint" : "sec",
+      "word" : "sequester"
+    },
+    {
+      "collocations" : [
+        "the fourth consecutive term of office：第四届任期",
+        "the third consecutive year：连续第三年"
+      ],
+      "definition" : "连续不断的",
+      "examples" : [
+
+      ],
+      "frequency" : 4896,
+      "mnemonic" : "con-（一起；共同）+ -secu-（跟随）+ t（无意义）+ -ive（形容词后\n缀）→一个接着一个跟随的→连续不断的",
+      "phonetic" : "kənˈsekjʊtɪv",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "consecutive"
+    },
+    {
+      "collocations" : [
+        "the company’s exec team：公司的执行团队"
+      ],
+      "definition" : "（公司的）经理；主管",
+      "examples" : [
+
+      ],
+      "frequency" : 12744,
+      "mnemonic" : "exec=executive：ex-（=out）+ xecut-（=secut-=follow：跟随）+-ive\n（名词后缀，表人或物）→to follow out：执行，贯彻公司的事物→",
+      "phonetic" : "ɪgˈzek",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "exec"
+    },
+    {
+      "collocations" : [
+        "execute our campaign plan to the letter：严格执行我们的竞选方案",
+        "be skillfully executed：熟练地完成了",
+        "execute the hostage：处死了人质"
+      ],
+      "definition" : "执行（计划等）；处死；完成（高难动作）",
+      "examples" : [
+        "After critiquing （评论） the so-called thin ideal by writing essays and\nrole-playing with their peers, participants are directed to come up with and\nexecute small, nonviolent acts.\n通过写文章，与同龄人进行角色模仿，参加者们批判了所谓的“瘦身\n理想”，然后活动的组织者引导他们提出并且实施一些小规模的，非\n暴力的做法。"
+      ],
+      "frequency" : 3676,
+      "mnemonic" : "ex-（出来）+ sec-（跟着；接着）+ -ute（动词后缀）→紧接着（审\n判）而来的→执行；实施；死刑（即：砍头）",
+      "phonetic" : "ˈeksɪkjuːt",
+      "pos" : "vt.",
+      "rootHint" : "sec",
+      "word" : "execute"
+    },
+    {
+      "collocations" : [
+        "CEO：Chief Executive Officer：首席执行官"
+      ],
+      "definition" : "执行的；高级的 n. （公司或机构的）经理，主",
+      "examples" : [
+
+      ],
+      "phonetic" : "ɪgˈzekjʊtɪv",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "executive"
+    },
+    {
+      "collocations" : [
+        "face execution by hanging：面临绞刑",
+        "fail in the execution of his duty：未能履行职责",
+        "her execution of the piano：她的钢琴演奏"
+      ],
+      "definition" : "执行，实施；表演，演奏；处决",
+      "examples" : [
+
+      ],
+      "frequency" : 4274,
+      "phonetic" : "ˌeksɪˈkjuːʃn",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "execution"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "刽子手；死刑执行人",
+      "examples" : [
+
+      ],
+      "frequency" : 17270,
+      "phonetic" : "eksɪˈkjuːʃ(ə)nə",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "executioner"
+    },
+    {
+      "collocations" : [
+        "be persecuted by the press：受到媒体的骚扰",
+        "persecute the Catholic Church：迫害天主教会"
+      ],
+      "definition" : "（尤因宗教或政治信仰不同）迫害；骚扰；纠缠",
+      "etymology" : "mid-15c., “to oppress for the holding of a belief or opinion,” from Middle French persécuter “pursue, torment, open legal action” (14c.), from Latin persecutus, past participle of persequi “to follow, pursue, hunt down; proceed against, prosecute, start a legal action,” from per “through” (from PIE root *per- (1) “forward,” hence “through”) + sequi “follow” (from PIE root *sekw- (1) “to follow”). Related: Persecuted; persecuting.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "per-（=through：贯穿；通过）+ -secut-（=follow：跟随）+ e→“从",
+      "phonetic" : "ˈpɜːsɪkjuːt",
+      "pos" : "vt.",
+      "rootHint" : "sec",
+      "word" : "persecute"
+    },
+    {
+      "collocations" : [
+        "the persecution of writers who criticize the government：对批评政府的"
+      ],
+      "definition" : "（尤指因宗教、政治信仰或种族而遭受的）迫",
+      "examples" : [
+
+      ],
+      "mnemonic" : "persecut（=persecute：迫害）+ -ion（名词后缀）→（尤指因宗教、",
+      "phonetic" : "pɜːsɪˈkjuːʃn",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "persecution"
+    },
+    {
+      "collocations" : [
+        "prosecute sb. for （doing） sth.：由于……而起诉某人",
+        "prosecute sb. under a law \/ an act etc.：按照……法律\/法令起诉某人",
+        "the prosecuting counsel \/ lawyer \/ attorney：原告律师",
+        "prosecute the war：继续进行这场战争"
+      ],
+      "definition" : "&vi. 对……提起公诉；（律师）（对……）进行刑",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pro-（=forward：向前）+ -secut-（=sequi=follow：跟随）+ e→向前跟\n随（某人\/某事）→继续从事（或参与）\npro-（向前）+ -secut-（follow：跟随）+ e→bring to a court of law；跟\n随（某人\/某事）把其带到法庭上→对……提起公诉；继续从事或参",
+      "phonetic" : "ˈprɒsɪkjuːt",
+      "pos" : "vt.",
+      "rootHint" : "sec",
+      "word" : "prosecute"
+    },
+    {
+      "collocations" : [
+        "the public \/ state prosecutor：公诉人；州检察官",
+        "chief prosecutor：首席检察官；检察长"
+      ],
+      "definition" : "检察官；原告律师",
+      "examples" : [
+
+      ],
+      "frequency" : 2142,
+      "mnemonic" : "prosecut（=prosecute：起诉；控告）+ -or（名词后缀）→检察官；原",
+      "phonetic" : "ˈprɒsɪkjuːtə",
+      "rootHint" : "sec",
+      "word" : "prosecutor"
+    },
+    {
+      "collocations" : [
+        "a criminal prosecution：刑事诉讼",
+        "the prosecution of war criminals：对战犯的起诉",
+        "the chief witness for the prosecution：控方的主要证人",
+        "the prosecution of her duties：履行她的职责"
+      ],
+      "definition" : "（被）起诉[+ for \/ + of]；[the prosecution]",
+      "examples" : [
+
+      ],
+      "mnemonic" : "prosecut（=prosecute：起诉；控告）+ -ion（名词后缀）→起诉；检",
+      "phonetic" : "prɒsɪˈkjuːʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "sec",
+      "word" : "prosecution"
+    },
+    {
+      "collocations" : [
+        "the intrinsic value of education：教育的固有价值"
+      ],
+      "definition" : "固有的；内在的；本质的",
+      "examples" : [
+
+      ],
+      "frequency" : 7566,
+      "mnemonic" : "intrin（=inter：里面；内心）+ -sic-（=sec：跟随）→生下来就跟在心\n里的→固有的；内在的；本质的",
+      "phonetic" : "ɪnˈtrɪnsɪk",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "intrinsic"
+    },
+    {
+      "collocations" : [
+        "intrinsically evil：生来就是邪恶的"
+      ],
+      "definition" : "本质地；内在地；固有地",
+      "examples" : [
+
+      ],
+      "frequency" : 13612,
+      "phonetic" : "ɪnˈtrɪnsɪkəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "sec",
+      "word" : "intrinsically"
+    },
+    {
+      "collocations" : [
+        "extrinsic factors：外在因素",
+        "extrinsic pressures：外部的压力"
+      ],
+      "definition" : "非固有的；非本质的；外在的",
+      "examples" : [
+
+      ],
+      "frequency" : 16716,
+      "mnemonic" : "extrin-（=outside：外面的）+ -sic（=beside, alongside：沿着；在旁）\n→在内心之外的→非固有的；非本质的；外在的",
+      "phonetic" : "eksˈtrɪnsɪk",
+      "pos" : "adj.",
+      "rootHint" : "sec",
+      "word" : "extrinsic"
+    }
+  ]
+}

@@ -1,0 +1,1211 @@
+{
+  "chapter" : "3",
+  "chapterOrder" : 103,
+  "id" : "tuit",
+  "meaningEn" : "teach",
+  "meaningZh" : "",
+  "roots" : [
+    "tuit"
+  ],
+  "semanticLabel" : "teach",
+  "source" : "textbook-8",
+  "titleZh" : "teach",
+  "words" : [
+    {
+      "collocations" : [
+        "tuition and fees：学杂费，上大学费用"
+      ],
+      "definition" : "教学，指导；（尤指大专院校的）学费",
+      "etymology" : "Early 15c., “protection, care, custody,” from Anglo-French tuycioun (13c.), Old French tuicion “guardianship,” from Latin tuitionem (nominative tuitio) “a looking after, a caring for, watching over, protection, guardianship,” from tuitus, past participle of tueri “to look after” (see tutor (n.)). Meaning “action or business of teaching pupils” is recorded from 1580s.",
+      "examples" : [
+
+      ],
+      "frequency" : 5903,
+      "mnemonic" : "tuit-（=teach：教学）+ -ion（名词后缀）→教学，指导；学费（即：",
+      "phonetic" : "tjuˈɪʃn",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "tuition"
+    },
+    {
+      "collocations" : [
+        "a private tutor：私人教师"
+      ],
+      "definition" : "教；当家庭教师；任大学导师 n. 私人教师；导师；（负",
+      "etymology" : "Late 14c., “guardian, custodian,” from Old French tuteor “guardian, private teacher” (13c., Modern French tuteur), from Latin tutorem (nominative tutor) “guardian, watcher,” from tutus, variant past participle of tueri “watch over, look at.”",
+      "examples" : [
+        "He tutors students in mathematics.\n他教学生数学。\nHer work was divided between tutoring and research.\n她的工作分为导师工作和研究工作。"
+      ],
+      "mnemonic" : "tut-（=teach：教）+ -or（名词或者动词后缀）→教学的人→教师，",
+      "phonetic" : "ˈtjuːtə(r)",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "tutor"
+    },
+    {
+      "collocations" : [
+        "give individual tutoring：进行个别辅导",
+        "tutoring work：辅导工作"
+      ],
+      "definition" : "教导；辅导",
+      "examples" : [
+
+      ],
+      "frequency" : 10988,
+      "phonetic" : "ˈtju:tə(r)ɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "tutoring"
+    },
+    {
+      "collocations" : [
+        "tutorial staff：辅导人员",
+        "a tutorial college：辅导学校",
+        "tutorial guidance：导师的辅导"
+      ],
+      "definition" : "导师的；私人教师的；辅导的 n. （大学导师的）个",
+      "examples" : [
+        "An online tutorial is provided.\n在线辅导可供查阅。"
+      ],
+      "mnemonic" : "tutor（导师；私人教师；辅导）+ i + -al（形容词 \/ 名词后缀）→导师",
+      "phonetic" : "tjuːˈtɔːriəl",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "tutorial"
+    },
+    {
+      "collocations" : [
+        "common-sense intuition：常识性的直觉",
+        "intuition thinking：直觉思维"
+      ],
+      "definition" : "直觉",
+      "examples" : [
+        "Her intuition was telling her that something was wrong.\n她的直觉在告诉她事情有些不对头。"
+      ],
+      "frequency" : 8687,
+      "mnemonic" : "in-（向内）+ tuit-（=to look at：看）+ -ion（名词后缀）→向内看；\n考虑；心灵的洞察力→直觉",
+      "phonetic" : "ˌɪntjuˈɪʃn",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "intuition"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "直觉的；（人）有直觉力的",
+      "examples" : [
+        "He had an intuitive sense of what the reader wanted.\n他能直觉地感到读者需要什么。\nA positive pregnancy test soon confirmed her intuitive feelings.\n阳性的孕检结果很快证实了她的直觉。"
+      ],
+      "frequency" : 9307,
+      "mnemonic" : "intuit（=intuition：直觉）+ -ive（形容词后缀）→直觉的；（人）有",
+      "phonetic" : "ɪnˈtjuːɪtɪv",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "intuitive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "凭直觉地",
+      "examples" : [
+        "He seemed to know intuitively that I must be missing my mother.\n他似乎凭直觉知道我一定是在思念我的母亲。"
+      ],
+      "frequency" : 15442,
+      "phonetic" : "ɪnˈtjʊɪtɪvli",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "intuitively"
+    },
+    {
+      "collocations" : [
+        "parental tutelage：家长的监护"
+      ],
+      "definition" : "教导，辅导；（人、组织、国家等给予的）保护，监",
+      "etymology" : "1580s, from Middle French ode (c. 1500), from Late Latin ode “lyric song,” from Greek ōidē, an Attic contraction of aoidē “song, ode;” related to aeidein (Attic aidein) “to sing;” aoidos (Attic oidos) “a singer, singing;” aude “voice, tone, sound,” probably from a PIE *e-weid-, perhaps from root *wed- “to speak.” In classical use, “a poem intended to be sung;” in modern use usually a rhymed lyric, often an address, usually dignified, rarely extending to 150 lines. Related: Odic. 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "mnemonic" : "tutel（=tutor=teach, guard, protect：教导；保护，监护）+ -age（名词\n后缀）→教导，辅导；保护",
+      "phonetic" : "ˈtjuːtəlɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "tutelage"
+    },
+    {
+      "collocations" : [
+        "his career in comedy：他的喜剧事业",
+        "a romantic comedy：一个浪漫喜剧"
+      ],
+      "definition" : "喜剧，喜剧片；滑稽；幽默；诙谐",
+      "etymology" : "喜剧最早产生于古希腊。它的希腊文Komoidia是由kōmos（意为狂 欢，喜庆）与aoidos（意为歌唱家，诗人）合成。它起源于农民收获 葡萄时节祭祀酒神时的狂欢游行，游行者化装为鸟兽，载歌载舞， 称之为kōmos。最初时，游行队伍中只有一个合唱队，歌唱酒神的颂 歌。后来，人们觉得过于单调，在队伍中增加了一个角色，专门负责 与合唱队的队长按照事先写好的台词进行对白，这就是最初的喜剧演 员，负责对白和表演。后来，演员的数量越来越多，表演的成分也慢 慢超过了合唱，这就是希腊喜剧的诞生。",
+      "examples" : [
+
+      ],
+      "frequency" : 3243,
+      "mnemonic" : "com-（一起）+ -edy（=ode：颂诗；颂歌）→古希腊时合唱队一起唱\n歌、表演→后来词义演变为喜剧，喜剧片；滑稽，幽默",
+      "phonetic" : "ˈkɒmədi",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "comedy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "幽默，诙谐；心情",
+      "examples" : [
+        "Her humor and determination were a source of inspiration to others.\n她的幽默与坚毅对其他人来说是一种鼓舞。"
+      ],
+      "frequency" : 3119,
+      "phonetic" : "ˈhjuːmə",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "humor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "幽默的",
+      "examples" : [
+        "He gave a humorous account of their trip to Spain.\n他饶有风趣地讲述了他们的西班牙之行。"
+      ],
+      "frequency" : 10106,
+      "phonetic" : "ˈhjuːmərəs",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "humorous"
+    },
+    {
+      "collocations" : [
+        "a comic story：一个滑稽的故事",
+        "a comic actor：一位喜剧演员"
+      ],
+      "definition" : "滑稽的；喜剧的 n. 喜剧演员；（尤指儿童看的）连环",
+      "examples" : [
+
+      ],
+      "mnemonic" : "com-（=comedy：滑稽；喜剧）+ -ic（形容词或名词后缀）→滑稽",
+      "phonetic" : "ˈkɒmɪk",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "comic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "滑稽的；可笑的",
+      "examples" : [
+        "Her expression is almost comical.\n她的表情几乎有点儿滑稽。"
+      ],
+      "frequency" : 15225,
+      "mnemonic" : "comic（滑稽的）+ -al（形容词后缀）→滑稽的；可笑的",
+      "phonetic" : "ˈkɒmɪkl",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "comical"
+    },
+    {
+      "collocations" : [
+        "a terrible tragedy：一大悲剧",
+        "Shakespeare’s tragedies：莎士比亚的悲剧"
+      ],
+      "definition" : "不幸，灾难；悲剧",
+      "etymology" : "来自拉丁语tragedia，悲剧。来自希腊语tragodia，悲剧。来自tragos （=goat：山羊）+-edy（诗；歌）。该词字面意思为goat-song，即山 羊之歌。可是“悲剧”与“山羊”有什么关系呢？有一种说法是，当 时的悲歌是为向古希腊的戏剧之神Dionysus献祭的山羊而唱的。",
+      "examples" : [
+        "Tragedy struck the family.\n这个家庭惨遭不幸。\nThe whole affair ended in tragedy.\n整个事件以悲剧而告终。"
+      ],
+      "frequency" : 2905,
+      "mnemonic" : "trag（=goat：山羊）+ -edy（唱诗；唱歌）→山羊之歌→悲剧；引申",
+      "phonetic" : "ˈtrædʒədi",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "tragedy"
+    },
+    {
+      "collocations" : [
+        "a tragic accident：一次悲惨的事故",
+        "a tragic actor \/ hero：悲剧演员 \/ 男主角"
+      ],
+      "definition" : "悲惨的；悲剧的",
+      "examples" : [
+
+      ],
+      "frequency" : 4301,
+      "mnemonic" : "trag（=tragedy：悲剧）+ -ic（形容词后缀）→词义由戏剧的悲剧通俗",
+      "phonetic" : "ˈtrædʒɪk",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "tragic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "悲惨地；悲剧性地",
+      "examples" : [
+        "He died tragically young.\n他悲惨地英年早逝。"
+      ],
+      "frequency" : 12864,
+      "phonetic" : "ˈtrædʒɪkli",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "tragically"
+    },
+    {
+      "collocations" : [
+        "old Irish melodies：古老的爱尔兰歌曲"
+      ],
+      "definition" : "（主）旋律；（旋律简洁的）乐曲，歌曲",
+      "examples" : [
+        "The melody is then taken up by the flutes.\n接着由长笛奏主旋律。"
+      ],
+      "frequency" : 5636,
+      "mnemonic" : "mel-（=乐曲的一部分）+ -ody（=song：旋律；曲调）→一段和声作\n品的主声部分，一段乐曲→（主）旋律；（旋律简洁的）乐曲，歌曲",
+      "phonetic" : "ˈmelədɪ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "melody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "旋律的；乐声优美的",
+      "examples" : [
+        "Wonderfully melodic and tuneful, his songs have made me weep.\n旋律优美、悦耳动听，他的歌曲让我潸然泪下。\n近义词："
+      ],
+      "frequency" : 13987,
+      "mnemonic" : "melody（旋律）+ -ic（形容词后缀）→即有旋律的，引申词义乐声优",
+      "phonetic" : "mɪˈlɒdɪk",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "melodic"
+    },
+    {
+      "collocations" : [
+        "a rich melodious voice：圆润悦耳的声音"
+      ],
+      "definition" : "悦耳的；优美动听的",
+      "examples" : [
+
+      ],
+      "phonetic" : "məˈləʊdiəs",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "melodious"
+    },
+    {
+      "collocations" : [
+        "a parody of the balcony scene：阳台上那场戏的模仿作品"
+      ],
+      "definition" : "滑稽模仿作品（指文章、戏剧、音乐作品的滑稽模仿",
+      "examples" : [
+        "The trial was a parody of justice.\n那次审判是对正义的嘲弄（歪曲）。\n近义词："
+      ],
+      "mnemonic" : "par-（=para-=beside, parallel to：在旁，与……平行）+ -ody（吟唱；\n吟咏）→字面含义“与……吟唱、吟咏类似”→引申义为“滑稽模仿",
+      "phonetic" : "ˈpærədɪ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "parody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "嘲弄；歪曲",
+      "etymology" : "*mregh-u- Proto-Indo-European root meaning “short.” It is the hypothetical source of \/ evidence for its existence is provided by: Greek brakhys “short;” Latin brevis “short, low, little, shallow;” Old Church Slavonic bruzeja “shallow places, shoals;” Gothic gamaurgjan “to shorten.”",
+      "examples" : [
+        "The trial was a travesty of justice.\n这一审判是对正义的嘲弄。"
+      ],
+      "frequency" : 18968,
+      "mnemonic" : "tra-（转变）+ -vest-（衣服）+ -y（名词后缀）→字面意思即换衣\n服，改头换面→引申词义（对原本意思的）嘲弄，歪曲等",
+      "phonetic" : "ˈtrævəsti",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "travesty"
+    },
+    {
+      "collocations" : [
+        "leg braces：腿部支架",
+        "wear braces：戴牙箍",
+        "brace the roof：支撑屋顶"
+      ],
+      "definition" : "支架；牙箍 vt.（为困难或坏事）使作准备；使防备；使",
+      "etymology" : "来自古法语brace或braz“ arms：胳臂或一臂之长”。因此，作动词时 表示用胳臂的动作，如支撑、固定，后来衍生出词义 “使其做准备 以便能经受住冲击”，“使其顶住”，并派生出名词含义“支架；牙 箍”等。",
+      "examples" : [
+        "UN troops are braced for more violence.\n联合国部队准备应付更多的暴行。\nThey braced themselves against the wind.\n他们顶着大风站稳。"
+      ],
+      "mnemonic" : "brace=arms：胳臂→brace：支架；支撑；使作准备；使顶住",
+      "phonetic" : "breɪs",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "brace"
+    },
+    {
+      "collocations" : [
+        "jade bracelet：玉镯"
+      ],
+      "definition" : "手镯；臂镯",
+      "examples" : [
+
+      ],
+      "frequency" : 7522,
+      "mnemonic" : "brace（=arm：手臂）+ -let（名词后缀，表示小）→戴在手臂上小的\n装饰性的圆环→手镯；臂镯",
+      "phonetic" : "ˈbreɪslət",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "bracelet"
+    },
+    {
+      "collocations" : [
+        "a young couple locked in an embrace：紧紧拥抱的年轻一对"
+      ],
+      "definition" : "拥抱；欣然接受；包括，包含",
+      "examples" : [
+        "He embraces the new information age.\n他欣然接受新的信息时代。\nThe talks embraced a wide range of issues.\n这些谈话包含的问题非常广泛。",
+        "在不幸来临时痛苦不堪是不明智的，因为它已经无法改变。但是\n我们可以改变自己的心态去欣然接受它。\nIt is unadvisable \/ unwise \/ insensible to fall in distress when misfortune\nappears \/ emerges \/ comes \/ arises, because you can hardly reverse it. But\nwe can change ourselves to embrace it."
+      ],
+      "frequency" : 2495,
+      "mnemonic" : "em-（=in：进入；里面）+ brace（=arm：手臂）→搂进手臂里→拥",
+      "phonetic" : "ɪmˈbreɪs",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "embrace"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "德国碱水面包；（通常为扭结状或棒状的）咸脆饼干",
+      "etymology" : "来自德语Prezel，来自中古高地德语brezel，来自拉丁语bracchium， 胳膊，手臂。词源同brace, embrace.比喻用法，因这种小甜卷饼如同 胳膊抱在一起而得名。 pretzel：碱水面包",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈpretsl",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "pretzel"
+    },
+    {
+      "collocations" : [
+        "a brief pause \/ silence：短暂的停顿 \/ 沉默",
+        "a brief description：简洁的描述",
+        "a brief skirt：超短裙",
+        "to prepare a brief for sb.：给某人准备指示",
+        "in brief：简言之"
+      ],
+      "definition" : "短暂的；简洁的；（衣服）过短的 vt. 给（某人）指示、介",
+      "examples" : [
+        "The officer briefed her on what to expect.\n长官简要向她说明了一下可能遇到的情况。"
+      ],
+      "mnemonic" : "brev-（短，v, f可互换）→brief：短暂的，简洁的；向某人说明、介",
+      "phonetic" : "briːf",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "brief"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "公文包",
+      "examples" : [
+
+      ],
+      "frequency" : 7809,
+      "mnemonic" : "brief（公文）+ case（箱子）→盛放公文的包→公文包",
+      "phonetic" : "ˈbriːfkeɪs",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "briefcase"
+    },
+    {
+      "collocations" : [
+        "a press briefing：新闻发布会",
+        "a briefing paper \/ session：情况介绍文件 \/ 会"
+      ],
+      "definition" : "情况、任务发布（介绍）会；详细指示，详情介绍",
+      "examples" : [
+        "Captain Trent gave his men a full briefing.\n特伦特队长给了他的下属详细的指示。"
+      ],
+      "frequency" : 6571,
+      "mnemonic" : "brief（给……介绍、说明情况、指示）+ -ing（动名词后缀）→情况",
+      "phonetic" : "ˈbriːfɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "briefing"
+    },
+    {
+      "collocations" : [
+        "smile briefly：稍微（微微）一笑",
+        "describe briefly：简洁地描述"
+      ],
+      "definition" : "稍微；短暂地；简洁地（说）",
+      "examples" : [
+        "Briefly, the argument is as follows...\n简言之，理由如下……"
+      ],
+      "frequency" : 3028,
+      "phonetic" : "ˈbriːflɪ",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "briefly"
+    },
+    {
+      "collocations" : [
+        "abbreviated analysis：简略分析",
+        "abbreviated names：缩写的名称"
+      ],
+      "definition" : "简略的；缩写的",
+      "examples" : [
+
+      ],
+      "frequency" : 19367,
+      "mnemonic" : "ab-（=to：去）+ brevi（=shorten：变短）+ -ate（动词后缀）+ -ed\n（形容词后缀，省略e）→to make sth. shortened：使变短的→简略",
+      "phonetic" : "əˈbriːvieɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "abbreviated"
+    },
+    {
+      "collocations" : [
+        "a merry grin：愉快的笑",
+        "merry laughter：欢快的笑声"
+      ],
+      "definition" : "愉快的；高兴的；欢快的",
+      "etymology" : "来自古英语myrge：愉快的，高兴的，来自Proto-Germanic*murgijaz： 短暂的，来自PIE*mreghu：短暂的。词源同brief，abbreviate。字母 b，m音变。词义由短暂的引申为欢乐的可能是来自心理作用，即欢 乐总是短暂的。",
+      "examples" : [
+
+      ],
+      "frequency" : 7564,
+      "phonetic" : "ˈmerɪ",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "merry"
+    },
+    {
+      "collocations" : [
+        "laugh merrily：欢快地大笑"
+      ],
+      "definition" : "高兴地；愉快地；自顾自地；毫无顾忌地（merry的副",
+      "examples" : [
+        "She carried on merrily, not realizing the offence she was causing.\n她毫无顾忌地胡闹，没意识到惹人生气了。\n单词 prestige 表示“声望；声誉”。"
+      ],
+      "phonetic" : "ˈmerəli",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "merrily"
+    },
+    {
+      "collocations" : [
+        "a prestige job：体面的工作",
+        "a prestige car：豪华的汽车"
+      ],
+      "definition" : "威望；声誉 adj. 令人敬仰的；名贵的",
+      "etymology" : "1650s, “trick,” from French prestige (16c.) “deceit, imposture, illusion” (in Modern French, “illusion, magic, glamour”), from Latin praestigium “delusion, illusion” (see prestigious). Derogatory until 19c.; sense of “dazzling influence” first applied 1815, to Napoleon. Prestige 尤指魔术中最重要的一步。魔术师要在这一步做出匪夷所思的事情， 从而博得观众的惊奇与赞叹。由此可见，prestige的本意是指高超的 魔术师所创造出的令人叹为观止的幻觉，使观众如痴如醉，从而对观 众产生巨大的影响力。19世纪prestige也用来形容拿破仑所向披靡、 耀眼的影响力。因此prestige一词也就衍生出“影响力，声望”的 含义。 邪解：pre-（前面）+ stige（=stage：舞台）→在台前的那些人（一般都是名 人）→（有）声誉，威望，影响力",
+      "examples" : [
+
+      ],
+      "frequency" : 6797,
+      "phonetic" : "preˈstiːʒ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "prestige"
+    },
+    {
+      "collocations" : [
+        "a prestigious award：赫赫有名的奖项",
+        "prestigious house：名门",
+        "a prestigious university：名牌大学",
+        "prestigious teacher：名师"
+      ],
+      "definition" : "有威望的；声誉高的",
+      "etymology" : "“to plait, knit, weave, twist together,” c. 1200, breidan, from Old English bregdan “to move quickly, pull, shake, swing, throw (in wrestling), draw (a sword); bend, weave, knit, join together; change color, vary; scheme, feign, pretend”.",
+      "examples" : [
+
+      ],
+      "frequency" : 6551,
+      "mnemonic" : "prestige（威望；声誉）+ -ious（去e加-ious，形容词后缀）→有威望",
+      "phonetic" : "preˈstɪdʒəs",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "prestigious"
+    },
+    {
+      "collocations" : [
+        "uniform with lots of gold braid：带很多金色流穗的制服"
+      ],
+      "definition" : "把……编成辫子 n. 流穗；发辫",
+      "examples" : [
+
+      ],
+      "frequency" : 9605,
+      "phonetic" : "breɪd",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "braid"
+    },
+    {
+      "collocations" : [
+        "braided hair：辫发",
+        "braided grass：编织的草"
+      ],
+      "definition" : "编辫子的；编织的；有饰带镶缀的",
+      "examples" : [
+
+      ],
+      "frequency" : 15974,
+      "phonetic" : "ˈbredɪd",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "braided"
+    },
+    {
+      "collocations" : [
+        "put a bridle on：约束；控制"
+      ],
+      "definition" : "马勒；马笼头 vt. 给（马）套笼头 vi. （尤指傲慢地昂首",
+      "etymology" : "“headpiece of a horse’s harness,” used to govern and restrain the animal, Old English bridel “a bridle, a restraint”. 与bregdan “move quickly：移动 快速地”有关。 20000 词汇巅峰 速 记",
+      "examples" : [
+        "She bridled at the suggestion that she was lying.\n她对暗示她在说谎的言论表示愤怒。"
+      ],
+      "phonetic" : "ˈbraɪdl",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "bridle"
+    },
+    {
+      "collocations" : [
+        "a tale of unbridled passion：一个关于不受约束的 \/ 奔放的激情的故事"
+      ],
+      "definition" : "无节制的；奔放的；不受控制的，不受约束的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "un-（表相反）+ bridle（给马套笼头，表示约束、控制）+ -ed（形容\n词后缀，删除e）→不受控制、约束的；无节制的；奔放的",
+      "phonetic" : "ʌnˈbraɪdld",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "unbridled"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "刺绣；装饰；镶边 vt.&vi. 加以渲染（或润",
+      "examples" : [
+        "She embroidered flowers on the cushion covers.\n她在这些靠垫套上绣了花。\nHe told some lies and sometimes just embroidered the truth.\n他说了些谎话，有时候只不过是渲染了一下事实。"
+      ],
+      "mnemonic" : "em-（=in：进入）+ -broid（=braid：编织）+ -er（动词后缀）→编织\n进去，绣到里面去→刺绣；装饰；渲染",
+      "phonetic" : "ɪmˈbrɔɪdə(r)",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "embroider"
+    },
+    {
+      "collocations" : [
+        "an embroidered blouse 绣花女衬衫"
+      ],
+      "definition" : "绣花的；刺绣的",
+      "examples" : [
+
+      ],
+      "frequency" : 14350,
+      "phonetic" : "imˈbrɔidəd",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "embroidered"
+    },
+    {
+      "collocations" : [
+        "a beautiful piece of embroidery：一件美丽的刺绣品"
+      ],
+      "definition" : "刺绣；绣花；刺绣图案；刺绣品",
+      "etymology" : "*kerd- Proto-Indo-European root meaning “heart.” It is the hypothetical source of \/ evidence for its existence is provided by: Greek kardia, Latin cor, Armenian sirt, Old Irish cride, Welsh craidd, Hittite kir, Lithuanian širdis, Russian serdce, Old English heorte, German Herz, Gothic hairto, “heart;” Breton kreiz “middle;” Old Church Slavonic sreda “middle.”",
+      "examples" : [
+        "She learned sewing, knitting, and embroidery.\n她学过缝纫、编织和刺绣。"
+      ],
+      "frequency" : 14746,
+      "mnemonic" : "embroider（刺绣）+ -y（名词后缀）→刺绣；绣花；刺绣品",
+      "phonetic" : "ɪmˈbrɔɪdəri",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "embroidery"
+    },
+    {
+      "collocations" : [
+        "have a weak heart：心脏不好",
+        "the heart of the matter \/ problem：事情 \/ 问题的核心",
+        "in the very heart of the city：位于市中心"
+      ],
+      "definition" : "心，心脏；内心，（尤指）爱心；感情；核心；中心",
+      "etymology" : "来自原始印欧语词根kerd-：心，心脏。-cord-, -card-：心（脏）→ heart：心",
+      "examples" : [
+        "The story captured the hearts and minds of a generation.\n这部小说准确地传达了一代人的感情和思想。"
+      ],
+      "frequency" : 461,
+      "phonetic" : "hɑːt",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "heart"
+    },
+    {
+      "collocations" : [
+        "childhood sweetheart：儿时的恋人（青梅竹马的恋人）"
+      ],
+      "definition" : "恋人；心上人；（用作称呼语）亲爱的，宝贝儿",
+      "examples" : [
+        "Do you want a drink, sweetheart?\n想喝一杯吗，亲爱的？"
+      ],
+      "mnemonic" : "sweet（甜的）+ heart（心）→甜心，宝贝儿；恋人",
+      "phonetic" : "ˈswiːthɑːt",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "sweetheart"
+    },
+    {
+      "collocations" : [
+        "a hearty welcome：热情的欢迎",
+        "a hearty fellow：活泼、精力充沛的家伙",
+        "a hearty breakfast：丰盛的早餐",
+        "in hearty agreement：强烈同意（十分赞同）"
+      ],
+      "definition" : "热情的，尽情的；喧闹活泼、精力充沛的；（饭菜或胃",
+      "examples" : [
+
+      ],
+      "mnemonic" : "heart（心脏；内心）+ -y（形容词后缀）→由内心发出的，由衷的，",
+      "phonetic" : "ˈhɑːtɪ",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "hearty"
+    },
+    {
+      "collocations" : [
+        "to laugh \/ sing \/ eat heartily：开怀大笑；尽情歌唱 \/ 大吃",
+        "heartily agree with her：强烈（十分）赞同她"
+      ],
+      "definition" : "尽情地，开怀地；强烈地，坚定地；极为，极其",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hearty（尽情的；强烈的，变y为i）+ -ly（副词后缀）→尽情地；强",
+      "phonetic" : "ˈhɑːtɪlɪ",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "heartily"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无情的；狠心的",
+      "examples" : [
+        "What a heartless thing to say!\n这么说话太无情了！"
+      ],
+      "frequency" : 18705,
+      "mnemonic" : "heart（爱心；同情心）+ -less（没有的）→没有爱心、同情心的→无",
+      "phonetic" : "ˈhɑːtləs",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "heartless"
+    },
+    {
+      "collocations" : [
+        "a rapid \/ regular heartbeat：急速 \/ 正常的心跳",
+        "the heartbeat of the community：该社区的特点"
+      ],
+      "definition" : "心跳；特点，中心",
+      "examples" : [
+
+      ],
+      "frequency" : 8430,
+      "mnemonic" : "heart（心；心脏）+ beat（击打；跳动）→心脏跳动，心跳是有生命\n动物的特点→心跳；引申义为“特点，中心”",
+      "phonetic" : "ˈhɑːtbiːt",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "heartbeat"
+    },
+    {
+      "collocations" : [
+        "the great Russian heartlands：广袤的俄罗斯中心地带",
+        "the industrial heartland of Germany：德国的核心工业区"
+      ],
+      "definition" : "（国家或地区的）腹地，中心地带；（活动或政党",
+      "examples" : [
+
+      ],
+      "mnemonic" : "heart（心脏）+ land（土地）→比喻义为心脏地带→腹地，中心地",
+      "phonetic" : "ˈhɑːtlænd",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "heartland"
+    },
+    {
+      "collocations" : [
+        "heartfelt sympathy \/ thanks：由衷的同情 \/ 感谢",
+        "a heartfelt apology：真诚的道歉"
+      ],
+      "definition" : "衷心的，由衷的；真诚的",
+      "examples" : [
+
+      ],
+      "frequency" : 12612,
+      "mnemonic" : "heart（内心）+ felt（感受到的）→内心能感受到的→衷心的，由衷",
+      "phonetic" : "ˈhɑːtfelt",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "heartfelt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "强烈的悲痛感；心碎",
+      "examples" : [
+        "They suffered the heartbreak of losing a child through cancer.\n他们因癌症夺去了一个孩子而心碎（强烈悲痛）。"
+      ],
+      "frequency" : 14845,
+      "mnemonic" : "heart（心）+ break（破碎；打碎）→心破碎了，心被打碎了→强烈的",
+      "phonetic" : "ˈhɑːtbreɪk",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "heartbreak"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人极度伤心的；令人心碎的",
+      "examples" : [
+        "This year we won’t even be able to buy presents for our grandchildren. It’s\nheartbreaking.\n今年我们甚至不能给孙辈们买礼物，这令人极度伤心。"
+      ],
+      "frequency" : 12878,
+      "mnemonic" : "heartbreak（心碎；极度伤心）+ -ing（形容词后缀，令人……的）→",
+      "phonetic" : "ˈhɑːtbreɪkɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "heartbreaking"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "极为伤心的；心碎的",
+      "examples" : [
+        "Was your daddy heartbroken when they got a divorce?\n他们离婚时你爸爸很伤心吗？\n近义词：broken-hearted：心碎的"
+      ],
+      "frequency" : 19160,
+      "mnemonic" : "heart（心）+ broken（破碎的）→心破碎的→心碎的；极为伤心的",
+      "phonetic" : "ˈhɑːtbrəʊkən",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "heartbroken"
+    },
+    {
+      "collocations" : [
+        "to agree wholeheartedly：全心全意地（完全）同意"
+      ],
+      "definition" : "全心全意地",
+      "examples" : [
+        "Start only taking on the things which you can do wholeheartedly.\n开始只做那些能够全心全意做的事情。"
+      ],
+      "frequency" : 16345,
+      "mnemonic" : "wholehearted（把整颗心投入的；全心全意的）+-ly（副词后缀）→",
+      "phonetic" : "ˌhəʊlˈhɑːtɪdli",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "wholeheartedly"
+    },
+    {
+      "collocations" : [
+        "suffer the heartache of her divorce：经受离婚的心痛",
+        "the heartaches of being a parent：为人父（母）的忧虑"
+      ],
+      "definition" : "心痛；伤心；忧虑",
+      "examples" : [
+        "The relationship caused her a great deal of heartache.\n这段恋情使她非常伤心。"
+      ],
+      "frequency" : 16911,
+      "mnemonic" : "heart（心）+ ache（疼痛）→心的疼痛→心痛；伤心；忧虑",
+      "phonetic" : "ˈhɑːteɪk",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "heartache"
+    },
+    {
+      "collocations" : [
+        "a disheartened team：丧失信心的团队",
+        "a disheartening experience：令人沮丧的经历"
+      ],
+      "definition" : "使失去（希望、勇气、热情、信心等）；使沮丧，",
+      "examples" : [
+        "Don’t let this defeat dishearten you.\n不要因这次失败而气馁。\n词根 cred- 的含义为 to believe, trust：相信；信任，字面含义为“to put\none’s heart：放入某人的心”，来自词根 kerd-：heart。"
+      ],
+      "mnemonic" : "dis-（不，表相反）+ hearten（鼓励）→使……不受鼓励→使沮丧，",
+      "phonetic" : "dɪsˈhɑːtn",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "dishearten"
+    },
+    {
+      "collocations" : [
+        "credit A to B：把A归因于B",
+        "credit-card accounts：信用卡账户",
+        "do credit to：为……增光"
+      ],
+      "definition" : "信用，信誉；信任；贷款；赞扬；学分 vt.（给银行账户）",
+      "examples" : [
+        "1）Henry Flores, a political-science professor at St. Mary's University,\ncredits this younger generation’s political strength to their embrace of\ntechnology.\n圣玛丽大学的政治学教授Henry Flores将年轻一代的政治力量归因于\n他们对科技的接纳。\n2）They are the possessions of the autonomous (self-governing) man of\ntraditional theory, and they are essential to practices in which a person is\nheld responsible for his conduct and given credit for his achievements.\n它们是传统理论上的自主人的财产，而且它们对于行为而言是至关重\n要的；在这些行为中，人们要为自己的所作所为负责，并且因他们的\n成就而受到表扬。",
+        "一个人要对自己的所作所为负责任，因成就而受到表扬，因过错\n而接受惩罚。\nA person is held responsible for his conduct, which means he will be given\ncredit for his achievements and punished for his fault."
+      ],
+      "mnemonic" : "cred-（=trust：相信；信任）+ -it（名词后缀）→信用；信誉；信任",
+      "phonetic" : "ˈkredɪt",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "信用卡",
+      "examples" : [
+        "Student debt in America exceeds credit-card debt.\n在美国，学生债务超过信用卡债务。"
+      ],
+      "frequency" : 13187,
+      "mnemonic" : "credit（信用）+ card（卡）→信用卡",
+      "phonetic" : "ˈkredɪt kɑːd",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credit-card"
+    },
+    {
+      "collocations" : [
+        "a credible explanation \/ witness：可信的解释 \/ 证人"
+      ],
+      "definition" : "可信的，可靠的；（因看似可能成功而）可接受的",
+      "examples" : [
+        "Community service is seen as the only credible alternative to imprisonment.\n除监禁外，社区劳动被看作是唯一可接受的选择。"
+      ],
+      "mnemonic" : "cred-（相信；信任）+ -ible（形容词词尾，可以……的）→可以相信\n的，可以给予信任的→可信的，可靠的；可接受的",
+      "phonetic" : "ˈkredəbl",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "credible"
+    },
+    {
+      "collocations" : [
+        "an incredible story：不可思议的故事",
+        "an incredible amount of work：非常多的工作"
+      ],
+      "definition" : "难以置信的；极好的；非常的",
+      "examples" : [
+        "The hotel was incredible.\n这家旅馆是极好的（棒极了）。\n近义词：unbelievable adj. 非常好（或坏、极端）的；难以置信的；惊人的"
+      ],
+      "frequency" : 3054,
+      "mnemonic" : "in-（表否定）+ cred-（=trust：信任；相信）+ -ible（可以，能……\n的）→难以置信的，不可思议的；极好的，极大的",
+      "phonetic" : "ɪnˈkredəbl",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "incredible"
+    },
+    {
+      "collocations" : [
+        "incredibly lucky \/ stupid \/ difficult \/ beautiful：极其幸运 \/ 愚蠢 \/ 困难 \/"
+      ],
+      "definition" : "极其；难以置信的是",
+      "examples" : [
+        "Incredibly, she had no idea what was going on.\n令人难以置信的是，她当时对发生的事一无所知。"
+      ],
+      "frequency" : 4314,
+      "phonetic" : "ɪnˈkredəblɪ",
+      "pos" : "adv.",
+      "rootHint" : "tuit",
+      "word" : "incredibly"
+    },
+    {
+      "collocations" : [
+        "an incredulous look：怀疑的神色"
+      ],
+      "definition" : "表示怀疑的；不能相信的",
+      "examples" : [
+
+      ],
+      "frequency" : 14623,
+      "mnemonic" : "in-（表否定）+ -cred-（相信；信任）+ -ulous（形容词后缀，表示易\n于……的，多……的）→不信任多的，易于让人不相信的→表示怀疑",
+      "phonetic" : "ɪnˈkredjələs",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "incredulous"
+    },
+    {
+      "collocations" : [
+        "gain \/ lack \/ lose credibility：获取 \/ 缺乏 \/ 失去可信性",
+        "undermine the credibility of the witness：削弱证人的可信性"
+      ],
+      "definition" : "可信性；可靠性",
+      "examples" : [
+
+      ],
+      "frequency" : 4086,
+      "mnemonic" : "cred-（相信；信任）+ -ibil（= -ible：能够……的）+ -ity（名词后\n缀，指具备某种性质）→具备能够让人相信、信任的性质→可信性；",
+      "phonetic" : "ˌkredəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credibility"
+    },
+    {
+      "collocations" : [
+        "diploma credential：文凭证书",
+        "the sensitive credential information：敏感的凭据信息"
+      ],
+      "definition" : "证书；凭据 vt. 提供证明书（或证件）",
+      "examples" : [
+
+      ],
+      "frequency" : 6253,
+      "mnemonic" : "cred-（=to believe, trust：相信；信任）+ -ential（复合后缀，-ent +\n-ial）→有资格（凭借其）给予所有人信任的东西→证书；凭据；提",
+      "phonetic" : "krəˈdenʃl",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credential"
+    },
+    {
+      "collocations" : [
+        "pay in full all its creditors：全额付款给所有债权人",
+        "creditor right：债权"
+      ],
+      "definition" : "债权人；债主；贷方",
+      "examples" : [
+
+      ],
+      "frequency" : 8400,
+      "mnemonic" : "credit（借款）+ -or（人）→借款给别人的人→债权人；债主",
+      "phonetic" : "ˈkredɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "creditor"
+    },
+    {
+      "collocations" : [
+        "bring discredit on：使……名声败坏",
+        "a discredited government \/ policy：名声扫地的政府 \/ 丧失信誉的政策",
+        "be largely discredited among：现大多受到……的质疑"
+      ],
+      "definition" : "败坏……的名声，使丧失信誉；使丢脸；使怀疑，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-（表相反）+ credit（信任；信誉）→使失去信任、信誉→败",
+      "phonetic" : "dɪsˈkredɪt",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "discredit"
+    },
+    {
+      "collocations" : [
+        "give no credence to：不相信……；认为……不可信"
+      ],
+      "definition" : "可信性，真实性；信任，信念",
+      "examples" : [
+        "Historical evidence lends credence to his theory.\n史学根据使他的理论更为可信。\nAlternative medicine has been gaining credence (= becoming more widely\naccepted) recently.\n近来替代疗法越来越得到大众的信任（认可，被接纳）。"
+      ],
+      "frequency" : 14855,
+      "mnemonic" : "cred-（相信；信任）+ -ence（名词后缀，表性质或状态）→可信任的\n性质或状态→可信性，真实性；信任，信念",
+      "phonetic" : "ˈkriːdns",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credence"
+    },
+    {
+      "collocations" : [
+        "be accredited for teacher training：被正式认可可从事教师培训"
+      ],
+      "definition" : "把……归于；认为（某事为某人所说、所做）；委",
+      "examples" : [
+        "The Arabs are usually accredited with the discovery of distillation.\n通常认为，阿拉伯人发明了蒸馏法。\nHe was accredited to China.\n他被委任为驻华大使。"
+      ],
+      "mnemonic" : "ac-（=to）+ -credit（赞扬，认可；官方认可）→把认可、赞扬或官方\n认可给予某人→把……归功于；认为；委任",
+      "phonetic" : "əˈkredɪt",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "accredit"
+    },
+    {
+      "collocations" : [
+        "a letter of accreditation：一份合格证明书",
+        "win full accreditation from：获得……的完整认可",
+        "accreditation system：认可、认证体系"
+      ],
+      "definition" : "达到标准；证明合格；认可",
+      "examples" : [
+
+      ],
+      "frequency" : 10474,
+      "mnemonic" : "accredit（正式认可）+ -ation（复合名词后缀）→给予某人、某事正\n式认可→达到标准；证明合格；认可",
+      "phonetic" : "əˌkredɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "accreditation"
+    },
+    {
+      "collocations" : [
+        "our accredited representative：我们官方委任的代表",
+        "a fully accredited school \/ university \/ course：充分鉴定合格的学校 \/ 大"
+      ],
+      "definition" : "官方认可的，委任的；鉴定合格的，达到标准的",
+      "examples" : [
+        "Only accredited journalists were allowed entry.\n只有正式认可的记者才获准入内。"
+      ],
+      "mnemonic" : "accredit（正式、官方认可）+ -ed（形容词后缀）→官方认可的；鉴",
+      "phonetic" : "əˈkredɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "accredited"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "信条",
+      "examples" : [
+        "Harry’s personal credo is doing the best he can.\n哈利的个人信条是尽自己所能。"
+      ],
+      "frequency" : 18664,
+      "mnemonic" : "cred-（相信；信任）+ -o（名词后缀）→所相信的教义→信条",
+      "phonetic" : "ˈkriːdəʊ; ˈkreɪdəʊ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "credo"
+    },
+    {
+      "collocations" : [
+        "political creed：政治信仰",
+        "people of all races, colors and creeds：各种种族、肤色和宗教信仰的人"
+      ],
+      "definition" : "信仰；宗教信仰",
+      "etymology" : "creed来自古英语creda原指基督教信仰声明，后指在任何主题上的信 仰声明。 20000 词汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 12367,
+      "phonetic" : "kriːd",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "creed"
+    },
+    {
+      "collocations" : [
+        "grant privileges：授予特权",
+        "grant a license：颁发许可证",
+        "take sth. for granted：认为某事是理所当然的",
+        "take sb. for granted：对某人无感激之心"
+      ],
+      "definition" : "授予；承认；允许 n. 补助金",
+      "etymology" : "In early use also graunt, early 13c., “to allow, permit (something); consent to (a prayer, request, etc.),” from Old French graanter, variant of creanter “assure, promise, guarantee, swear; confirm, authorize, approve (of),” from Latin credentem (nominative credens), present participle of credere “to believe, to trust”. 来自拉丁语credens（相信），从这个词源中能发 现其最初词根是cred-“相信”。单词grant和词根cred- 含音变关系： g \/ c清浊辅音音变，a \/ e元音音变，t \/ d清浊辅音音变，grant里的n是 鼻音化现象，可体会其整体音似。所以词源上，授予、承认这一行为 中包含了对对方的信任、认可。",
+      "examples" : [
+        "Upon registration, a trademark is usually granted for a period of ten years.\n一经注册，商标一般被授予十年期限。",
+        "很多人都理所当然的认为：有了更多的证书就意味着更有前途的\n未来，事实上，情况并非如此。\nA large portion of people take it for granted that more certificates simply\nmean a more promising future. In fact, it is not always the case.\nHe doesn’t appreciate the sacrifice his friends have made for him, and he\ntakes what they have done for granted.\n他不感激朋友为他所作的牺牲，把他们所做的视作理所当然。"
+      ],
+      "frequency" : 1921,
+      "phonetic" : "grɑːnt",
+      "pos" : "vt.",
+      "rootHint" : "tuit",
+      "word" : "grant"
+    },
+    {
+      "collocations" : [
+        "degree-granting institutions：学位授予机构"
+      ],
+      "definition" : "授予",
+      "examples" : [
+
+      ],
+      "frequency" : 20177,
+      "phonetic" : "ɡrɑːntɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "granting"
+    },
+    {
+      "collocations" : [
+        "cardiac disease \/ surgery：心脏病 \/ 心脏手术"
+      ],
+      "definition" : "心脏的；心脏病的",
+      "examples" : [
+
+      ],
+      "frequency" : 8186,
+      "mnemonic" : "cardi-（心脏）+ -ac（形容词后缀，与……有关的）→心脏的；心脏",
+      "phonetic" : "ˈkɑːdɪæk",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "cardiac"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "心脏病学家；心脏病科医师",
+      "examples" : [
+
+      ],
+      "frequency" : 13699,
+      "mnemonic" : "cardio-（心脏）+ -log-（=logy：学科）+ -ist（表专业人士）→心脏病",
+      "phonetic" : "ˌkɑːdiˈɒlədʒɪst",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "cardiologist"
+    },
+    {
+      "collocations" : [
+        "cardiovascular disease：心血管疾病"
+      ],
+      "definition" : "心血管的",
+      "examples" : [
+
+      ],
+      "frequency" : 8137,
+      "mnemonic" : "cardio-（心脏）+ vas-（=duct：用于输送血液的导管）+ -cular（形容\n词后缀）→心血管的",
+      "phonetic" : "ˌkɑːdiəʊˈvæskjələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "tuit",
+      "word" : "cardiovascular"
+    },
+    {
+      "collocations" : [
+        "the core of the argument：争论的核心",
+        "core business：核心业务 core values：核心价值观",
+        "a core group of players：几名骨干队员"
+      ],
+      "definition" : "（苹果等的）果心，核儿；（物体的）中心部分；核心 adj.",
+      "etymology" : "来自14世纪早期, “heart or inmost part of anything” (especially an apple, pear, etc.), 来自拉丁语cor “heart：心”，来自古印欧语词根kerd- “heart”。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "cor-（心）+ -e（名词后缀）→果心；核心；最重要的；核心成员的",
+      "phonetic" : "kɔː(r)",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "core"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "核心成员；中坚分子 adj.（关于性爱）露骨的，",
+      "examples" : [
+        "We’ve got a hard core of customers that have stood by us.\n我们拥有一批一直支持我们的忠实客户。"
+      ],
+      "mnemonic" : "hard（坚固的）+ core（核心成员的）→核心成员；中坚分子\nhard（坚硬的）+core（果核）→坚硬的果核露在外面的→露骨的；",
+      "phonetic" : "ˌhɑːd ˈkɔː(r)",
+      "pos" : "n.",
+      "rootHint" : "tuit",
+      "word" : "hard-core"
+    }
+  ]
+}

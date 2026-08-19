@@ -1,0 +1,1194 @@
+{
+  "chapter" : "38",
+  "chapterOrder" : 138,
+  "id" : "im",
+  "meaningEn" : "to copy",
+  "meaningZh" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制；",
+  "roots" : [
+    "im"
+  ],
+  "semanticLabel" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制",
+  "source" : "textbook-6",
+  "titleZh" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制",
+  "words" : [
+    {
+      "collocations" : [
+        "public image：公众形象",
+        "images of the past：对过去的印象",
+        "mirror image：镜像；映像；反像",
+        "poetic images：诗情画意的景象",
+        "be the image of sb.\/sth.：酷似；和……非常相像"
+      ],
+      "definition" : "形象，印象，声誉；画像，塑像；图像；比喻，意象",
+      "examples" : [
+        "Images of deer and hunters decorate the cave walls.\n洞穴壁上装饰着鹿和猎人的画像。\nHe stared at his own image reflected in the water.\n他凝视着自己在水中的倒影。"
+      ],
+      "frequency" : 556,
+      "mnemonic" : "image来源于拉丁语imago.\nim-（=to copy；像；模仿）+ -age（名词后缀）→存在于真实的人或\n物之外的、模仿真人外貌或特征的另一个形象→形象；印象；画像；",
+      "phonetic" : "ˈɪmɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "image"
+    },
+    {
+      "collocations" : [
+        "imaging camera：成像照相机"
+      ],
+      "definition" : "成像",
+      "examples" : [
+
+      ],
+      "frequency" : 7006,
+      "mnemonic" : "image（图像）+ -ing（名词后缀）→形成图像→成像",
+      "phonetic" : "ˈɪmɪdʒɪŋ",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "imaging"
+    },
+    {
+      "collocations" : [
+        "poetic imagery：诗的意象",
+        "the nature imagery：自然意象",
+        "satellite imagery：卫星影像（如从太空拍摄地球的照片）"
+      ],
+      "definition" : "像，画像，照片；形象的描述；意象；（尤指具象征",
+      "examples" : [
+
+      ],
+      "mnemonic" : "image（画像；图像；形象）+ -ery（名词后缀）→像；画像；图像",
+      "phonetic" : "ˈɪmɪdʒərɪ",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "imagery"
+    },
+    {
+      "collocations" : [
+        "imagine a more peaceful scene：想象出比这更幽静的场景"
+      ],
+      "definition" : "想象；料想，认为，猜测；幻想，胡思乱想",
+      "examples" : [
+        "The house was just as she had imagined it.\n这房子正是她所想象的。"
+      ],
+      "frequency" : 912,
+      "mnemonic" : "image（形象；印象；画面）+ -ine（动词后缀）→对形象、画面等的\n想象、幻想、猜测→引申词义想象；幻想；猜测等",
+      "phonetic" : "ɪˈmædʒɪn",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "imagine"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "想象的；构想的",
+      "examples" : [
+
+      ],
+      "frequency" : 10286,
+      "phonetic" : "ɪˈmædʒɪnd",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "imagined"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "所能想象的；可想象的",
+      "examples" : [
+        "The house has the most spectacular views imaginable.\n从这所房子可以看到所能想象的最壮丽的景色\nThese technological developments were hardly imaginable 30 years ago.\n这些科技新产品在30年前几乎是不可想象的"
+      ],
+      "frequency" : 11547,
+      "mnemonic" : "imagine（想象）+ -able（能够……的）→所能想象的；可想象的",
+      "phonetic" : "ɪˈmædʒɪnəbl",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "imaginable"
+    },
+    {
+      "collocations" : [
+        "unimaginable wealth：难以想象的财富"
+      ],
+      "definition" : "难以置信的；不可想象的",
+      "examples" : [
+
+      ],
+      "frequency" : 12402,
+      "mnemonic" : "un-（=not：不）+ imaginable（可想象的）→不可想象的；难以置信的",
+      "phonetic" : "ʌnɪˈmædʒɪnəbl",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "unimaginable"
+    },
+    {
+      "collocations" : [
+        "an imaginary situation：一个虚构的情形"
+      ],
+      "definition" : "想象的；幻想的；虚构的",
+      "examples" : [
+        "The equator is an imaginary line around the middle of the earth.\n赤道是一条假想的环绕地球腰部的线。"
+      ],
+      "frequency" : 6612,
+      "mnemonic" : "imagin（=imagine：想象）+ -ary（形容词后缀，……的）→想象的；",
+      "phonetic" : "ɪˈmædʒɪnərɪ",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "imaginary"
+    },
+    {
+      "collocations" : [
+        "a vivid\/fertile imagination：生动的\/丰富的想象"
+      ],
+      "definition" : "想象力；想象的事物；引起某人的兴趣",
+      "examples" : [
+        "His writing lacks imagination.\n他的作品缺乏想象。\nLong before I ever went there, Africa was alive in my imagination.\n早在我去非洲之前，它就栩栩如生地在我的脑海（想象）中了。\nTheir music continues to capture the imagination of the American public.\n他们的音乐持续吸引着美国公众的兴趣。"
+      ],
+      "frequency" : 2915,
+      "mnemonic" : "imagine（想象，e略）+ -ation（复合名词后缀，-ate+ -ion）→想象",
+      "phonetic" : "ɪˌmædʒɪˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "imagination"
+    },
+    {
+      "collocations" : [
+        "imaginative powers：丰富的想象力",
+        "an imaginative approach\/idea\/child：有创意的方法\/思想\/孩子"
+      ],
+      "definition" : "富于想象力的；有创意的",
+      "examples" : [
+
+      ],
+      "frequency" : 8075,
+      "mnemonic" : "imagin（想象力）+ -ative（形容词后缀：表“大或多”）→想象力多",
+      "phonetic" : "ɪˈmædʒɪnətɪv",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "imaginative"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "模仿，仿效；模仿（某人的讲话、举止），作滑稽模仿",
+      "examples" : [
+        "Teachers provide a model for children to imitate.\n教师是孩子仿效的典范。\nShe knew that the girls used to imitate her and laugh at her behind her\nback.\n她知道那些女孩子过去常在背地里模仿她、嘲笑她。"
+      ],
+      "mnemonic" : "im-（像，模仿）+ -itate（=-ite+ -ate：复合动词后缀）→使……像→",
+      "phonetic" : "ˈɪmɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "imitate"
+    },
+    {
+      "collocations" : [
+        "a poor\/cheap imitation of the real thing：低劣的仿制品"
+      ],
+      "definition" : "仿制品，赝品；模仿（某人）的言谈举止；（尤",
+      "examples" : [
+        "A child learns to talk by imitation.\n小孩子通过模仿学会说话。\nOne boy did an imitation of a soldier with a loudspeaker.\n一个男孩拿着扬声器学着士兵的样子。"
+      ],
+      "mnemonic" : "imit-（=to copy：复制；模仿）+ -ation（名词后缀）→仿制品；（言",
+      "phonetic" : "ˌɪmɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "imitation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（因为钦慕而）仿效，模仿；努力赶上，同……竞争",
+      "etymology" : "n. Late 13c., “hurrying, haste; celerity, swiftness, speed;” c. 1300, “need for quick action, urgency;” from Old French haste “haste, urgency, hastiness”. v. Late 13c., from Old French haster “hurry, make haste; urge, hurry along”, from haste “haste, urgency”. Now largely superseded by hasten (1560s). Related: Hasted; hasting.",
+      "examples" : [
+        "Sons are traditionally expected to emulate their fathers.\n传统上认为儿子应该效仿他们的父亲。\nShe hopes to emulate her sister’s sporting achievements.\n她希望在运动成绩方面赶上她姐姐。\n近义词：imitate：模仿；仿效\n单词 haste 的含义为“急速；匆忙；仓促”。"
+      ],
+      "mnemonic" : "em-（=im：像）+ ul+ -ate（动词后缀）→因钦慕而试图与……相像\n→模仿；仿效\nemul（=to rival：与……相匹敌；比得上）+ -ate（动词后缀）→努力",
+      "phonetic" : "ˈemjʊleɪt",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "emulate"
+    },
+    {
+      "collocations" : [
+        "in haste：匆忙地"
+      ],
+      "definition" : "匆忙；仓促",
+      "examples" : [
+        "More haste, less speed.\n欲速则不达。"
+      ],
+      "frequency" : 13765,
+      "mnemonic" : "haste（=hurry：匆忙；仓促）→匆忙；仓促",
+      "phonetic" : "heɪst",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "haste"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "加速；急忙进行；赶紧说（或做）",
+      "examples" : [
+        "She, more than anyone, had hastened to sign the contract.\n她比任何人都急忙去签那份合同。"
+      ],
+      "frequency" : 9669,
+      "mnemonic" : "hast（=haste：急速；匆忙；仓促）+ -en（使动词后缀）→使急忙，\n急速→催促；加速",
+      "phonetic" : "ˈheɪsn",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "hasten"
+    },
+    {
+      "collocations" : [
+        "arrive hasty conclusions：匆忙得出结论，草率下结论",
+        "a hasty departure\/meal\/farewell：匆匆忙忙的离去\/用餐\/辞别",
+        "hasty in doing sth.：仓促行事；草率作出决定；考虑不周密"
+      ],
+      "definition" : "匆忙的；仓促而就的；草率的",
+      "examples" : [
+
+      ],
+      "frequency" : 13066,
+      "mnemonic" : "haste（匆忙，仓促；e略）+ -y（形容词后缀）→匆忙的；草率的",
+      "phonetic" : "ˈheɪstɪ",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "hasty"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "匆忙地；仓促地；草率地",
+      "examples" : [
+        "She hastily changed the subject.\n她匆忙换了个话题。\n词根 celer-: hasten, go faster, quicken, swift：加快；快速的。"
+      ],
+      "frequency" : 9541,
+      "mnemonic" : "hasti（=hasty：匆忙的, 仓促的, 草率的，变y为i）+ -ly（副词后缀）\n→匆忙地；仓促地；草率地",
+      "phonetic" : "ˈheɪstɪlɪ",
+      "pos" : "adv.",
+      "rootHint" : "im",
+      "word" : "hastily"
+    },
+    {
+      "collocations" : [
+        "accelerate the ageing process：加速衰老过程",
+        "accelerate our metabolic rate：加速我们的新陈代谢速度"
+      ],
+      "definition" : "&vi.（使）加速，加快4977",
+      "etymology" : "1520s, “hasten the occurrence of;” 1590s, “make quicker” (implied in accelerating), from Latin acceleratus, past participle of accelerare “to hasten, quicken” (trans.), “make haste” (intrans.), from ad “to” (see ad-) + celerare “hasten,” from celer “swift,” which is perhaps from PIE *keli- “speeding” (see celerity). Intransitive sense of “go faster, become faster” in English is from 1640s. Related: Accelerated; accelerative. 20000 词汇巅峰 速 记",
+      "examples" : [
+        "Suddenly the car accelerated.\n突然车加速了。\n（2002.12）真题：Hill slopes are cleared of forests to make way for\ncrops, but this only A the crisis.\nA) accelerates B) prevails C) ascends D) precedes（A）"
+      ],
+      "mnemonic" : "ac-（to）+ -celer-（=hasten：加快）+ -ate（使动词）→使加速；使加快",
+      "phonetic" : "əkˈseləreɪt",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "accelerate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "加速的；加快的",
+      "examples" : [
+        "Beyond the realm of information technology, the accelerated pace of\ntechnological change in virtually every industry has created entirely new\nbusiness, wiped out others, and produced a Pervasive (广泛的) demand for\ncontinuous innovation.\n超越了信息技术的范围，几乎在每一个行业加速的技术变革已经创造\n出完全崭新的行业，摧毁了其他行业，并且产生了更广泛的，不断创\n新的需求。",
+        "在图书行业的加速的技术变革已经创造出了完全崭新的行业，即\n电子图书行业，并且很有可能摧毁传统书行业。\nThe accelerated pace of technological change in book industry has\ncreated a entirely new business—e-books industry, and may well wipe out\ntraditional book business."
+      ],
+      "frequency" : 11099,
+      "phonetic" : "əkˈseləreɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "accelerated"
+    },
+    {
+      "collocations" : [
+        "The accelerating inflation：加速的通货膨胀"
+      ],
+      "definition" : "加速的",
+      "examples" : [
+        "Evelyn’s career is accelerating, and mine is plateauing out a bit.\n伊夫琳的职业生涯蒸蒸日上，而我的则停滞不前。"
+      ],
+      "frequency" : 15397,
+      "mnemonic" : "accelerate（加速）+ -ing（形容词后缀）→加速的",
+      "phonetic" : "əkˈseləreɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "accelerating"
+    },
+    {
+      "collocations" : [
+        "an acceleration in the rate of economic growth：经济增长加速",
+        "a car with good acceleration：加速性能良好的汽车"
+      ],
+      "definition" : "加速，加快；（车辆）加速能力",
+      "examples" : [
+
+      ],
+      "frequency" : 8159,
+      "mnemonic" : "accelerate（加速；加快）+ -ion（名词后缀）→加速，加快；加速能力",
+      "phonetic" : "əkseləˈreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "acceleration"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（汽车等的）加速装置，油门",
+      "etymology" : "Mid-15c., “to perform publicly with appropriate rites,” originally of the Mass, from Latin celebratus “much-frequented; kept solemn; famous,” past participle of celebrare “assemble to honor,” also “to publish; sing praises of; practice often,” originally “to frequent in great numbers,” from celeber “frequented, populous, crowded;” with transferred senses of “well- attended; famous; often-repeated.” Meaning “make widely known, praise, glorify” is from 1610s. Related: Celebrated; celebrating.",
+      "examples" : [
+        "He eased his foot off the accelerator.\n他把脚慢慢移离了油门。\n词根 celeber- 的含义包括“famous, make widely known, praise, glorify：\n著名的；赞美”等。"
+      ],
+      "frequency" : 11748,
+      "mnemonic" : "accelerate（加速；加快）+ -or（名词后缀）→加速装置，油门",
+      "phonetic" : "əkˈseləreɪtə",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "accelerator"
+    },
+    {
+      "collocations" : [
+        "celebrate New Year：庆贺新年",
+        "a movie celebrating the life and work of...：颂扬……生平事迹的影片"
+      ],
+      "definition" : "庆祝（周年纪念日），庆贺；赞美，歌颂",
+      "etymology" : "来自拉丁语celebrare，字面意思是“大量人频繁做的”，来自celeber （频繁的，人口众多的）。celebrate原本是一个宗教术语，指很多人 聚集到一起敬拜神灵，通常为了庆祝神灵的生日。后来其宗教色彩逐 渐淡化，可用来表示庆祝任何一件事。",
+      "examples" : [
+
+      ],
+      "frequency" : 2037,
+      "mnemonic" : "celebr（=celeber-=assemble to honor, praise：聚集为表示对……的敬\n意，赞美）+ -ate（动词后缀）→庆祝，庆贺；赞美，歌颂",
+      "phonetic" : "ˈselɪbreɪt",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "celebrate"
+    },
+    {
+      "collocations" : [
+        "a celebrated painter：著名的画家"
+      ],
+      "definition" : "著名的",
+      "etymology" : "celebrate的原意是“much-frequented，sing praise of：被很多人提及 和赞美”，所以含义是“famous：有名的”。同样，celebrity指的是 “有名的人”。",
+      "examples" : [
+
+      ],
+      "frequency" : 8060,
+      "phonetic" : "ˈselɪbreɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "celebrated"
+    },
+    {
+      "collocations" : [
+        "TV celebrities：电视名人"
+      ],
+      "definition" : "（尤指娱乐界的）名人；（尤指娱乐界的）名望",
+      "examples" : [
+        "Does he find his new celebrity intruding on his private life?\n他是否感觉到他最近的成名侵扰了他的私生活？\n同义词：celeb [səˈleb] abbr. 名人（celebrity） 18147"
+      ],
+      "frequency" : 2985,
+      "mnemonic" : "celebr-（被很多人提及和赞美）+ -ity（名词后缀）→名人；名望",
+      "phonetic" : "səˈlebrəti",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "celebrity"
+    },
+    {
+      "collocations" : [
+        "birthday\/wedding celebrations：生日庆祝；结婚庆典",
+        "a party in celebration of their fiftieth wedding anniversary：庆祝他们金"
+      ],
+      "definition" : "庆典，庆祝活动；颂扬",
+      "examples" : [
+
+      ],
+      "frequency" : 3022,
+      "mnemonic" : "celebrate（庆祝；颂扬）+ -ion（名词后缀）→庆祝活动；颂扬",
+      "phonetic" : "ˌselɪˈbreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "celebration"
+    },
+    {
+      "collocations" : [
+        "a celebratory drink\/dinner：喜庆酒\/庆祝宴会"
+      ],
+      "definition" : "庆祝的；庆典的；庆贺的",
+      "etymology" : "“highest point,” Old English top “summit, crest”.",
+      "examples" : [
+
+      ],
+      "frequency" : 16083,
+      "mnemonic" : "celebrate（庆祝；庆贺）+ -ory（形容词后缀）→庆祝的；庆典的；",
+      "phonetic" : "ˌseləˈbreɪtəri",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "celebratory"
+    },
+    {
+      "collocations" : [
+        "a top speed of 80 miles per hour：最高时速达80英里",
+        "a top model：一名顶级名模",
+        "the top student：尖子生（居首位的学生）",
+        "top priority：首要任务",
+        "top scorer：得分最多的球员",
+        "top $1 billion：超过10亿元",
+        "top the list for imported vehicles：位居进口汽车名单榜首",
+        "fruit salad topped with cream：上面浇了奶油的水果色拉",
+        "top one’s offer：出价比……高",
+        "from top to bottom：彻底地",
+        "on top：处于显要职位",
+        "on top of the world：极其幸福"
+      ],
+      "definition" : "顶端；表面，上面；最重要的职位；上衣 adj.（位置、级别或",
+      "examples" : [
+
+      ],
+      "phonetic" : "tɒp",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "top"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "题目；主题（等于theme）；话题",
+      "examples" : [
+        "The weather is a constant topic of conversation in Alaska.\n天气在阿拉斯加是一个永恒的交谈话题。"
+      ],
+      "frequency" : 1873,
+      "mnemonic" : "top（顶部；首位）+ -ic（名词后缀）→（文章、谈话的）最顶部，\n首位→题目；主题；话题",
+      "phonetic" : "ˈtɒpɪk",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "topic"
+    },
+    {
+      "collocations" : [
+        "the theme of the paper\/conference：论文\/会议的主题",
+        "the novel’s central theme：这部小说的主题"
+      ],
+      "definition" : "（著作、谈话或讨论的）主题；（艺术品或文学作品的）主",
+      "examples" : [
+
+      ],
+      "mnemonic" : "theme（=topic：主题；话题）→主题，话题；主旋律；主题曲",
+      "phonetic" : "θiːm",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "theme"
+    },
+    {
+      "collocations" : [
+        "the thematic structure of a text：文本的主题结构"
+      ],
+      "definition" : "主题的；专题的",
+      "examples" : [
+
+      ],
+      "frequency" : 11852,
+      "mnemonic" : "them（=theme：主题）+ -atic（形容词后缀）→主题的；专题的",
+      "phonetic" : "θɪˈmætɪk",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "thematic"
+    },
+    {
+      "collocations" : [
+        "topical events：当前人们所关注的事件",
+        "a topical anesthetic（麻醉）：表面麻醉"
+      ],
+      "definition" : "有关时事的，热门话题的；[医]（身体）局部的，表面",
+      "examples" : [
+
+      ],
+      "mnemonic" : "topic（话题）+ -al（形容词后缀）→热门话题的；有关时事的\ntop（表面）+ -ical（复合形容词后缀，-ic + -al）→表面的；局部的",
+      "phonetic" : "ˈtɒpɪkl",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "topical"
+    },
+    {
+      "collocations" : [
+        "topping up：补足；补仓"
+      ],
+      "definition" : "（菜肴、蛋糕等）食品的浇汁或装饰配料",
+      "examples" : [
+
+      ],
+      "frequency" : 11471,
+      "mnemonic" : "top（顶端；加顶）+ -ing（动名词后缀）→后用于指给菜肴浇汁、加",
+      "phonetic" : "ˈtɒpɪŋ",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "topping"
+    },
+    {
+      "collocations" : [
+        "a plot to topple the President：推翻总统的阴谋"
+      ],
+      "definition" : "&vt.（使）失去平衡而坠落，倒塌，倒下 vt. 打倒；推翻；颠覆",
+      "examples" : [
+        "The pile of books toppled over.\n那一摞书倒了。"
+      ],
+      "frequency" : 7646,
+      "mnemonic" : "top（顶端，头部；双写p）+ -le（动词后缀）→特殊用法或比喻用\n法，引申词义从顶部坠落→倒塌；打倒；推翻；颠覆",
+      "phonetic" : "ˈtɒpl",
+      "pos" : "vi.",
+      "rootHint" : "im",
+      "word" : "topple"
+    },
+    {
+      "collocations" : [
+        "a topless model：上身裸露的模特儿",
+        "to sunbathe topless：裸露着上身进行日光浴"
+      ],
+      "definition" : "上身裸露的；不穿上装的 adv. 裸露上身",
+      "examples" : [
+
+      ],
+      "frequency" : 17040,
+      "mnemonic" : "top（上衣）+ -less（无，没有）→不穿上衣的；裸露上身的",
+      "phonetic" : "ˈtɒplɪs",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "topless"
+    },
+    {
+      "collocations" : [
+        "a top-down management style：自上而下的管理方式"
+      ],
+      "definition" : "（计划、项目等）从总体到具体的；（组织或机",
+      "examples" : [
+
+      ],
+      "mnemonic" : "top（顶端；上面）+ down（向下）→从顶端向下的→自上而下的；",
+      "phonetic" : "ˌtɒp ˈdaʊn",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "top-down"
+    },
+    {
+      "collocations" : [
+        "shout something from the rooftops：公开宣布；公开谈论"
+      ],
+      "definition" : "屋顶",
+      "examples" : [
+
+      ],
+      "frequency" : 8755,
+      "mnemonic" : "roof（屋顶）+ top（顶）→屋顶",
+      "phonetic" : "ˈruːftɒp",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "rooftop"
+    },
+    {
+      "collocations" : [
+        "a table-top machine：台式机器"
+      ],
+      "definition" : "桌面；台面",
+      "examples" : [
+
+      ],
+      "frequency" : 13164,
+      "mnemonic" : "table（桌子）+ top（表面）→桌子表面→桌面；台面",
+      "phonetic" : "ˈteɪbltɒp",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "tabletop"
+    },
+    {
+      "collocations" : [
+        "top-notch player：第一流选手"
+      ],
+      "definition" : "最好的；卓越的；第一流的",
+      "examples" : [
+
+      ],
+      "frequency" : 16396,
+      "mnemonic" : "top（（位置、级别或程度）最高的；极棒的）+ notch（等级）→级\n别最高的→最好的；第一流的",
+      "phonetic" : "ˌtɒp ˈnɒtʃ",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "top-notch"
+    },
+    {
+      "collocations" : [
+        "a top-rated TV show：最受欢迎的电视节目"
+      ],
+      "definition" : "最受欢迎的；一流的",
+      "examples" : [
+
+      ],
+      "frequency" : 19852,
+      "mnemonic" : "top（最高的）+ rate（等级）+ -ed（形容词后缀）→最高等级的→最",
+      "phonetic" : "ˈtɔpˈreitid",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "top-rated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "表土；表土层；顶层土",
+      "examples" : [
+
+      ],
+      "frequency" : 17691,
+      "mnemonic" : "top（表面；顶部）+ soil（土壤）→表面的、顶部的土壤→表土层；",
+      "phonetic" : "ˈtɒpsɔɪl",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "topsoil"
+    },
+    {
+      "collocations" : [
+        "a map showing the topography of the island：这个岛的地形图",
+        "the topography of the river’s basin：这条河的流域地形"
+      ],
+      "definition" : "地形；地貌",
+      "examples" : [
+
+      ],
+      "frequency" : 13476,
+      "mnemonic" : "topo（地方，地区；与topic主题同源）+ -graphy（写；记录）→一个\n地区（总体地貌）特征的记录→地形；地貌",
+      "phonetic" : "təˈpɒɡrəfi",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "topography"
+    },
+    {
+      "collocations" : [
+        "radioactive isotopes：放射性同位素",
+        "the many isotopes of carbon：碳的诸多同位素"
+      ],
+      "definition" : "同位素",
+      "examples" : [
+
+      ],
+      "frequency" : 15900,
+      "mnemonic" : "iso-（等；同）+ -top（位置；地方）+ e→即同等位置的→引申词义",
+      "phonetic" : "ˈaɪsətəʊp",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "isotope"
+    },
+    {
+      "collocations" : [
+        "a carefully considered response：经过仔细考虑的回复",
+        "all things considered：从各方面看来；考虑到所有情况；总而言之",
+        "your considered opinion：成熟的意见；经过深思熟虑的意见"
+      ],
+      "definition" : "&vi.（尤指为作出决定而）仔细考虑，细想 vt. 认为，",
+      "etymology" : "Late 14c., “to fix the mind upon for careful examination, meditate upon,” also “view attentively, scrutinize; not to be negligent of,” from Old French considerer (13c.) “reflect on, consider, study,” from Latin considerare “to look at closely, observe,” probably literally “to observe the stars,” from assimilated form of com “with, together” (see con-) + sidus (genitive sideris) “heavenly body, star, constellation” (see sidereal). Suggests derivation instead from the PIE root of English side meaning “stretch, extend,” and a sense for the full word of “survey on all sides” or “dwell long upon.” 古义指星相学看星占卜，并通过星辰移位来思考预测人间 万事",
+      "examples" : [
+        "She considers that it is too early to form a definite conclusion.\n她认为现在下确切的结论还为时过早。\nYou should consider other people before you act.\n你在行动之前应当考虑到别人。\nHe stood there, considering the painting.\n他站在那里，凝视着那幅画。"
+      ],
+      "mnemonic" : "con-（=with, together：一道；集群）+ -sider（源自sideris，星星）→\n古义仔细观察群星，并通过星辰移位来思考预测人间万事→后来词义",
+      "phonetic" : "kənˈsɪdə",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "consider"
+    },
+    {
+      "collocations" : [
+        "to reconsider your decision\/position：重新考虑你的决定\/立场"
+      ],
+      "definition" : "重新考虑；重新审议7902",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-（再；重新）+ consider（考虑）→重新考虑",
+      "phonetic" : "riːkənˈsɪdə",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "reconsider"
+    },
+    {
+      "collocations" : [
+        "considerable concern：相当大的关注"
+      ],
+      "definition" : "相当多（或大、重要等）的",
+      "examples" : [
+        "The project wasted a considerable amount of time and money.\n那项工程耗费了相当多的时间和资金。\n近义词：significant：有重大意义的"
+      ],
+      "frequency" : 2878,
+      "mnemonic" : "consider（考虑）+ -able（可以……的）→某事物多到、重要到可以\n给予考虑的→相当重大的；相当重要的",
+      "phonetic" : "kənˈsɪdərəbl",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "considerable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非常；很；相当多地",
+      "examples" : [
+        "The need for sleep varies considerably from person to person.\n不同的人对睡眠的需要差异相当大。"
+      ],
+      "frequency" : 4696,
+      "phonetic" : "kənˈsɪdərəblɪ",
+      "pos" : "adv.",
+      "rootHint" : "im",
+      "word" : "considerably"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "&conj. 考虑到；就……而言；鉴于",
+      "examples" : [
+        "She’s very active, considering her age.\n就她的年龄来说，她是十分活跃的。\nConsidering he’s only just started, he knows quite a lot about it.\n鉴于他才刚刚开始，他懂得的已经不少了。"
+      ],
+      "frequency" : 5021,
+      "phonetic" : "kənˈsɪdərɪŋ",
+      "pos" : "prep.",
+      "rootHint" : "im",
+      "word" : "considering"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "考虑周到的；为（他人）着想的；体谅的，体",
+      "examples" : [
+        "It was very considerate of him to wait.\n他一直在等候着，真是体贴人。\n（2011.6）真题：\nEmployers are much more A) generous B) considerate C) enlightening D) demanding\nB than they used to be."
+      ],
+      "mnemonic" : "consider（考虑）+ -ate（形容词后缀：的）→（为人）着想的；体贴的",
+      "phonetic" : "kənˈsɪdərət",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "considerate"
+    },
+    {
+      "collocations" : [
+        "in consideration of sth.(as payment for sth.)：作为……的报酬（或酬劳）",
+        "a small sum in consideration of your services：酬谢你服务的小费",
+        "under consideration：在讨论中",
+        "take sth. into consideration：考虑某事"
+      ],
+      "definition" : "仔细考虑，深思；（作计划或决定时的）考",
+      "etymology" : "A Middle English merger of Old English line “cable, rope; series, row, row of letters; rule, direction,” and Old French ligne “guideline, cord, string; lineage, descent” (12c.), both from Latin linea “linen thread, string, plumb-line,” also “a mark, bound, limit, goal; line of descent,” short for linea restis “linen cord,” and similar phrases, from fem. of lineus (adj.) “of linen,” from linum “linen”.",
+      "examples" : [
+        "当我们把所有的危险都考虑在内的时候，酒后驾车就可以得到有效预\n防。\nWhen we take all dangers into consideration, drunk driving can be\neffectively prevented.\nTaking all dangers into account, drunk driving can be effectively avoided.\n单词 line 有“线；界线；线条；行，列；按时间顺序排列的人（或物、\n事件）；家系；字行；台词；线路；路线；沿……形成行”等含义。"
+      ],
+      "mnemonic" : "consider（仔细考虑；顾及别人）+ -ation（复合名词后缀）→仔细考",
+      "phonetic" : "kənsɪdəˈreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "consideration"
+    },
+    {
+      "collocations" : [
+        "a straight\/wavy\/dotted line：直\/波状\/虚线",
+        "a district\/county line：行政区\/郡界",
+        "cut across lines of race, sex and religion：超越种族、性别和宗教的界限",
+        "a beautiful sports car with sleek lines：线条流畅、美观的跑车",
+        "a long line of trees：一长排树",
+        "to stand\/wait in line for sth.：站队\/排队等候",
+        "the production line：生产线",
+        "to be next in line to the throne：为王位继承人",
+        "to learn your lines：背台词",
+        "a fishing line：钓鱼线",
+        "hold the line：不要挂断电话",
+        "the East Coast line：东海岸铁路线",
+        "line of vision：视线",
+        "line up：排成一行",
+        "line your (own)\/sb.’s pockets：（尤指通过占便宜或欺诈而）中饱私"
+      ],
+      "definition" : "线；界线，（尤指运动场地的）场地线；分界线；（思想或行",
+      "examples" : [
+        "The ball went over the line.\n球越线出界了。\nShe came from a long line of doctors.\n她来自一个医生世家。\nCrowds of people lined the streets to watch the race.\n人群站在街道两旁观看赛跑。"
+      ],
+      "phonetic" : "laɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "line"
+    },
+    {
+      "collocations" : [
+        "the first bank to go online：第一家开通网上业务的银行",
+        "an online shopping center：一个在线购物中心"
+      ],
+      "definition" : "在线的；（公司服务）在网上开通的 adv. 在线地",
+      "examples" : [
+        "The majority of small businesses now do their banking online.\n大多数小企业现在都在网上办理银行业务。"
+      ],
+      "frequency" : 2277,
+      "mnemonic" : "on（在……上）+ line（线）→在线上的，在网络上的，在线地",
+      "phonetic" : "ˌɒnˈlaɪn",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "online"
+    },
+    {
+      "collocations" : [
+        "headline news：头条新闻",
+        "hit\/grab\/make the headlines：成为新闻焦点"
+      ],
+      "definition" : "为……加标题 n.（尤指报纸头版的）标题；新闻提要",
+      "examples" : [
+
+      ],
+      "mnemonic" : "head（头；头部）+ line（行）→在报纸头部的一行字→引申词义标题",
+      "phonetic" : "ˈhedlaɪn",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "headline"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "写报纸大标题的人；（表演中的）主要演员；主角",
+      "examples" : [
+
+      ],
+      "mnemonic" : "headline（报纸头版标题）+ -er（名词后缀，表人）→写报纸大标题",
+      "phonetic" : "ˈhedlaɪnə",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "headliner"
+    },
+    {
+      "collocations" : [
+        "ask for an extension of the deadline：要求延期"
+      ],
+      "definition" : "最后期限；截止日期",
+      "examples" : [
+        "The deadline is drawing near.\n最后期限就要到了。"
+      ],
+      "frequency" : 4072,
+      "mnemonic" : "dead（死）+ line（线；界限）→快到死亡的期限→最后期限",
+      "phonetic" : "ˈdedlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "deadline"
+    },
+    {
+      "collocations" : [
+        "international airlines：国际航空公司",
+        "an airline pilot：航空公司飞机驾驶员"
+      ],
+      "definition" : "航空公司",
+      "examples" : [
+
+      ],
+      "frequency" : 2147,
+      "mnemonic" : "air（空气；航空）+ line（线；线路）→航空公司",
+      "phonetic" : "ˈeəlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "airline"
+    },
+    {
+      "collocations" : [
+        "jet airliner：喷气客机"
+      ],
+      "definition" : "大型客机；班机",
+      "examples" : [
+
+      ],
+      "frequency" : 12244,
+      "mnemonic" : "air（空气）+ -liner（班机）→在空中飞行的班机→大型客机；班机",
+      "phonetic" : "ˈeəlaɪnə",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "airliner"
+    },
+    {
+      "collocations" : [
+        "an outline of the agreement\/proposal：协议\/建议纲要",
+        "an outline map\/sketch：略图；草图"
+      ],
+      "definition" : "概述；显示……的轮廓 n. 概述；轮廓线，略图",
+      "examples" : [
+        "They saw the huge building outlined against the sky.\n他们看见了在天空的映衬下那座巨大建筑的轮廓。"
+      ],
+      "frequency" : 4478,
+      "mnemonic" : "out-（外部的）+ line（线条；轮廓）→（显示）外部的线条、轮廓→",
+      "phonetic" : "ˈaʊtlaɪn",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "outline"
+    },
+    {
+      "collocations" : [
+        "in the pipeline：在讨论（或规划、准备）中；在酝酿中",
+        "gas pipeline：天然气管线",
+        "oil pipeline：输油管"
+      ],
+      "definition" : "（长距离输送石油、天然气等的地下）管道，管线",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pipe（管道）+ line（线）→管道；管线",
+      "phonetic" : "ˈpaɪplaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "pipeline"
+    },
+    {
+      "collocations" : [
+        "farm and sideline products：农副产品",
+        "on\/from the sidelines：从旁观者的角度；置身局外"
+      ],
+      "definition" : "兼职，副业；（运动场地的）边线（pl. sidelines）vt.",
+      "examples" : [
+        "He was content to watch from the sidelines as his wife built up a successful\nbusiness empire.\n他满足于站在一旁，看妻子一步步地建立起一个成功的商业帝国。\nThe player has been sidelined by a knee injury.\n这名队员因膝部受伤而下场。\nThe vice-president is increasingly being sidelined.\n副总统被日益排挤到权力中心之外。\n（运动场地的）边线"
+      ],
+      "mnemonic" : "side（边；侧）+ line（线）→侧边的线，使……靠边→（运动场地",
+      "phonetic" : "ˈsaɪdlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "sideline"
+    },
+    {
+      "collocations" : [
+        "the New York skyline：纽约的空中轮廓线"
+      ],
+      "definition" : "（建筑物、树、山等在天空映衬下的）轮廓线",
+      "examples" : [
+
+      ],
+      "frequency" : 9737,
+      "mnemonic" : "sky（天空）+ line（线）→天空映衬下某物的线条→轮廓线",
+      "phonetic" : "ˈskaɪlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "skyline"
+    },
+    {
+      "collocations" : [
+        "an agreement to delineate the border：划定边界的一项协议"
+      ],
+      "definition" : "（详细地）描述，描画；划定；解释",
+      "examples" : [
+        "Biography must to some extent delineate characters.\n在某种程度上，传记一定要描述人物。\nThe ship’s route is clearly delineated on the map.\n这条船的航线清楚地描画在地图上。\nOur objectives need to be precisely delineated.\n我们的目标需详细解释清楚。"
+      ],
+      "frequency" : 10812,
+      "mnemonic" : "de-（表强调）+ line（线，线条）+ -ate（动词后缀）→画出线条→描",
+      "phonetic" : "dɪˈlɪnɪeɪt",
+      "pos" : "vt.",
+      "rootHint" : "im",
+      "word" : "delineate"
+    },
+    {
+      "collocations" : [
+        "a rugged\/rocky\/beautiful coastline：崎岖的\/多岩石的\/美丽的海岸线"
+      ],
+      "definition" : "海岸线；海岸地形（或轮廓）；沿海地带",
+      "examples" : [
+
+      ],
+      "frequency" : 10471,
+      "mnemonic" : "coast（海岸；海滨）+ line（线；轮廓）→海岸线；海岸轮廓",
+      "phonetic" : "ˈkəʊstlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "coastline"
+    },
+    {
+      "collocations" : [
+        "a hardline attitude：坚定的态度"
+      ],
+      "definition" : "（政策或态度）强硬的；不妥协的；坚定的",
+      "examples" : [
+
+      ],
+      "frequency" : 12093,
+      "mnemonic" : "hard（强硬的；坚固的）+ line（线；界线）→界线坚固的→比喻态",
+      "phonetic" : "ˈhɑːdlain",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "hardline"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（政党等团体中的）强硬派；主张强硬路线的人",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hardline（强硬的）+ -er（表人）→强硬的人→强硬派",
+      "phonetic" : "ˈhɑːdˈlainə",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "hard-liner"
+    },
+    {
+      "collocations" : [
+        "establish the timeline：设定时间表"
+      ],
+      "definition" : "时间线；时间表；年表",
+      "examples" : [
+        "The timeline shows important events from the Earth’s creation to the\npresent day.\n该年表列出了从地球诞生迄今的重要事件。"
+      ],
+      "frequency" : 12645,
+      "mnemonic" : "time（时间）+ ‎ line（线）→时间线；年表",
+      "phonetic" : "ˈtaɪmlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "timeline"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "命脉，生命线；救生索",
+      "examples" : [
+        "Information about the job market can be a lifeline for those who are out of\nwork.\n有关就业市场的信息可能就是失业者的生命线。"
+      ],
+      "frequency" : 14318,
+      "mnemonic" : "life（生命）+ line（线）→生命线；命脉",
+      "phonetic" : "ˈlaɪflaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "lifeline"
+    },
+    {
+      "collocations" : [
+        "a telephone hotline：电话热线",
+        "a military hotline：一条军事热线",
+        "sales hotline：销售热线"
+      ],
+      "definition" : "（供公众咨询或提供信息的）热线；（两国首脑间的）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hot（热的）+ line（线）→热线",
+      "phonetic" : "ˈhɑtlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "hotline"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "前线",
+      "examples" : [
+        "The army marched to the frontline.\n军队开赴前线。"
+      ],
+      "frequency" : 14367,
+      "mnemonic" : "front（前面的，在前的）+ line（线）→在前的线→前线",
+      "phonetic" : "ˈfrʌntlain",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "frontline"
+    },
+    {
+      "collocations" : [
+        "in the front-line (of sth.)：在最重要的岗位上；在第一线",
+        "a life spent in the front line of research：在研究的第一线度过的一生"
+      ],
+      "definition" : "前线 adj. 前线的",
+      "examples" : [
+
+      ],
+      "frequency" : 19610,
+      "phonetic" : "ˈfrʌntˈlain",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "front-line"
+    },
+    {
+      "collocations" : [
+        "a receding hairline：渐秃的前额"
+      ],
+      "definition" : "发际线；极细的线 adj. 极细的；细如发丝的",
+      "examples" : [
+
+      ],
+      "frequency" : 16306,
+      "mnemonic" : "hair（头发）+ line（线）→头发形成的线，像头发一样细的（线）→",
+      "phonetic" : "ˈheəlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "hairline"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "晒衣绳",
+      "examples" : [
+
+      ],
+      "frequency" : 17507,
+      "mnemonic" : "clothes（衣服）+ line（绳）→晾晒衣服的绳→晒衣绳",
+      "phonetic" : "ˈklozˌlaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "clothesline"
+    },
+    {
+      "collocations" : [
+        "mainline economists：主流经济学家"
+      ],
+      "definition" : "主流的；传统的 vt.&vi. 静脉注射",
+      "examples" : [
+        "At 18, he was mainlining heroin.\n他18岁时就注射海洛因。"
+      ],
+      "frequency" : 14441,
+      "mnemonic" : "main（主要的）+ line（线）→主要的线→主流的；静脉注射（静脉",
+      "phonetic" : "ˈmeɪnlaɪn",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "mainline"
+    },
+    {
+      "collocations" : [
+        "a dress with a low\/round\/plunging neckline：低领\/圆领\/深V字领的连衣裙"
+      ],
+      "definition" : "（女装的）领口，开领",
+      "examples" : [
+
+      ],
+      "frequency" : 19410,
+      "mnemonic" : "neck（衣领）+ line（线）→衣领周围的线→领口；开领",
+      "phonetic" : "ˈneklaɪn",
+      "pos" : "n.",
+      "rootHint" : "im",
+      "word" : "neckline"
+    },
+    {
+      "collocations" : [
+        "nonlinear system：非线性系统"
+      ],
+      "definition" : "非线性的",
+      "examples" : [
+        "Environmental systems tend to be nonlinear, and therefore not easy to\npredict.\n环境系统一般是非线性的，所以很难预测。"
+      ],
+      "frequency" : 14277,
+      "mnemonic" : "non-（=not：不；非）+ line（线）+ -ar（形容词后缀）→非线性的",
+      "phonetic" : "nɒnˈlɪnɪə",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "nonlinear"
+    },
+    {
+      "collocations" : [
+        "the broad, tree-lined avenues：这些宽阔的林荫道"
+      ],
+      "definition" : "（路或街道）两旁有树的",
+      "examples" : [
+
+      ],
+      "frequency" : 18574,
+      "mnemonic" : "tree（树）+ -lined（沿边缘有……的）→沿路的边缘有树的→两旁有",
+      "phonetic" : "ˈtriː laɪnd",
+      "pos" : "adj.",
+      "rootHint" : "im",
+      "word" : "tree-lined"
+    }
+  ]
+}

@@ -1,0 +1,310 @@
+{
+  "chapter" : "13",
+  "id" : "tom-也",
+  "meaningEn" : "cut",
+  "meaningZh" : "切，-tomy 表示a cutting：切。",
+  "roots" : [
+    "tom 也"
+  ],
+  "source" : "textbook-5",
+  "titleZh" : "切，-tomy 表示a cutting：切。",
+  "words" : [
+    {
+      "collocations" : [
+        "a course in anatomy：一门解剖学课程"
+      ],
+      "definition" : "（动植物的）结构，解剖；人体；剖析，解析",
+      "etymology" : "14世纪晚期，含义为“study or knowledge of the structure and function of the human body”。",
+      "examples" : [
+
+      ],
+      "frequency" : 8308,
+      "mnemonic" : "ana-（=up）+ -tomy（=to cut：切）→a cutting up：切开→结构；解",
+      "phonetic" : "əˈnætəmɪ",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "anatomy"
+    },
+    {
+      "collocations" : [
+        "minute anatomical differences between insects：昆虫之间微小的身体结"
+      ],
+      "definition" : "身体结构的",
+      "examples" : [
+
+      ],
+      "frequency" : 14024,
+      "mnemonic" : "anatom（anatomy：人体；结构）+ -ical（形容词后缀）→身体结构的",
+      "phonetic" : "ænəˈtɒmɪk(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "tom 也",
+      "word" : "anatomical"
+    },
+    {
+      "collocations" : [
+        "the splitting of the atom：原子的分裂"
+      ],
+      "definition" : "原子",
+      "examples" : [
+
+      ],
+      "frequency" : 5246,
+      "mnemonic" : "a-（=not：不）+ -tom（a cutting）→不能再分割的物质→原子",
+      "phonetic" : "ˈætəm",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "atom"
+    },
+    {
+      "collocations" : [
+        "atomic structure：原子结构"
+      ],
+      "definition" : "原子的；原子能的；原子武器的",
+      "examples" : [
+
+      ],
+      "frequency" : 5504,
+      "mnemonic" : "atom（原子）+ -ic（形容词后缀）→原子的；原子能的",
+      "phonetic" : "əˈtɒmɪk",
+      "pos" : "adj.",
+      "rootHint" : "tom 也",
+      "word" : "atomic"
+    },
+    {
+      "collocations" : [
+        "dichotomy between A and B：一分为二；二分法"
+      ],
+      "definition" : "二分法；天壤之别",
+      "examples" : [
+        "There is a dichotomy between the academic world and the industrial world."
+      ],
+      "frequency" : 11554,
+      "mnemonic" : "dicho-（=in two：二个，来自di-的希腊语形式）+ -tomy（=a cutting：",
+      "phonetic" : "daɪˈkɒtəmɪ",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "dichotomy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "叉状分枝的；分成两个的",
+      "examples" : [
+
+      ],
+      "frequency" : 19597,
+      "phonetic" : "daɪˈkɒtəməs;dɪ-",
+      "pos" : "adj.",
+      "rootHint" : "tom 也",
+      "word" : "dichotomous"
+    },
+    {
+      "collocations" : [
+        "clothes that are the epitome of good taste：典型的高品味服装"
+      ],
+      "definition" : "典型；文摘",
+      "examples" : [
+
+      ],
+      "frequency" : 16379,
+      "mnemonic" : "epi-（=among：从里面）+ -tome（=to cut：切）→从里面切出来→",
+      "phonetic" : "ɪˈpɪtəmɪ;e-",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "epitome"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "成为……的典范（或典型）",
+      "examples" : [
+        "The fighting qualities of the team are epitomized by the captain."
+      ],
+      "frequency" : 12841,
+      "mnemonic" : "epitom（=epitomy：典型）+ -ize（动词后缀，使……）→typify,",
+      "phonetic" : "ɪˈpɪtəmaɪz",
+      "pos" : "vt.",
+      "rootHint" : "tom 也",
+      "word" : "epitomize"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指理论性的）大部头书；巨著",
+      "etymology" : "c. 1300, “extent or area; room” (to do something), a shortening of Old French espace “period of time, distance, interval” (12c.), from Latin spatium “room, area, distance, stretch of time,” a word of unknown origin (also source of Spanish espacio, Italian spazio).",
+      "examples" : [
+
+      ],
+      "frequency" : 15733,
+      "phonetic" : "təʊm",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "tome"
+    },
+    {
+      "collocations" : [
+        "plenty of space：足够的空间"
+      ],
+      "definition" : "空间，间隔；场所；一段（时间）；余地；太空 vt.",
+      "examples" : [
+
+      ],
+      "phonetic" : "speɪs",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "space"
+    },
+    {
+      "collocations" : [
+        "a spacious kitchen：一个宽敞的厨房"
+      ],
+      "definition" : "宽敞的",
+      "examples" : [
+
+      ],
+      "frequency" : 8837,
+      "mnemonic" : "spac（=space：空间）+ -ious（形容词后缀，表示充分的）→空间充",
+      "phonetic" : "ˈspeɪʃəs",
+      "pos" : "adj.",
+      "rootHint" : "tom 也",
+      "word" : "spacious"
+    },
+    {
+      "collocations" : [
+        "the spatial distribution of the population：人口的地域分布"
+      ],
+      "definition" : "空间的；感悟空间的（能力）",
+      "examples" : [
+
+      ],
+      "frequency" : 5955,
+      "mnemonic" : "spa（=space：空间）+ t +-ial（形容词后缀）→空间的；感悟空间的",
+      "phonetic" : "ˈspeɪʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "tom 也",
+      "word" : "spatial"
+    },
+    {
+      "collocations" : [
+        "locate them spatially：放在空间的不同位置"
+      ],
+      "definition" : "空间地；存在于空间地",
+      "examples" : [
+
+      ],
+      "frequency" : 20166,
+      "phonetic" : "ˈspeɪʃli",
+      "pos" : "adv.",
+      "rootHint" : "tom 也",
+      "word" : "spatially"
+    },
+    {
+      "collocations" : [
+        "manned spacecraft：载人飞船"
+      ],
+      "definition" : "宇宙飞船；航天器",
+      "examples" : [
+
+      ],
+      "frequency" : 6539,
+      "mnemonic" : "space（太空）+ craft（航天器）→宇宙飞船；航天器",
+      "phonetic" : "ˈspeɪskrɑːft",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "spacecraft"
+    },
+    {
+      "collocations" : [
+        "an alien spaceship：一艘外星人的宇宙飞船"
+      ],
+      "definition" : "宇宙飞船",
+      "examples" : [
+
+      ],
+      "frequency" : 11876,
+      "mnemonic" : "space（太空）+ ship（船只）→太空船；宇宙飞船",
+      "phonetic" : "ˈspeɪsʃɪp",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "spaceship"
+    },
+    {
+      "collocations" : [
+        "space-time distribution：时空分布"
+      ],
+      "definition" : "时空（一体）",
+      "examples" : [
+
+      ],
+      "frequency" : 18116,
+      "mnemonic" : "space（空间）+ time（时间）→时空（一体）",
+      "phonetic" : "ˈspeisˈtaim",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "space-time"
+    },
+    {
+      "collocations" : [
+        "single \/ double spacing：单倍\/双倍行距"
+      ],
+      "definition" : "（空间、时间）间隔；（字、行的）间距",
+      "examples" : [
+
+      ],
+      "frequency" : 16038,
+      "mnemonic" : "space（空间；间隔）+ -ing（动名词后缀）→间隔；行距",
+      "phonetic" : "ˈspeɪsɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "spacing"
+    },
+    {
+      "collocations" : [
+        "the aerospace industry：航空航天工业"
+      ],
+      "definition" : "航空航天",
+      "examples" : [
+
+      ],
+      "frequency" : 8977,
+      "mnemonic" : "aero-（=atmosphere：大气）+ space（外太空）→大气层之外的外太",
+      "phonetic" : "ˈeərəspeɪs",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "aerospace"
+    },
+    {
+      "collocations" : [
+        "secure cyberspace：安全网络"
+      ],
+      "definition" : "网络空间",
+      "examples" : [
+
+      ],
+      "frequency" : 12086,
+      "mnemonic" : "cyber（网络的）+ space（空间）→网络空间",
+      "phonetic" : "ˈsaɪbəspeɪs",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "cyberspace"
+    },
+    {
+      "collocations" : [
+        "Chinese airspace：中国领空"
+      ],
+      "definition" : "领空；（某国的）空域",
+      "examples" : [
+
+      ],
+      "frequency" : 16912,
+      "mnemonic" : "air（空中）+ space（空间）→空中的领域→空域；领空",
+      "phonetic" : "ˈeəspeɪs",
+      "pos" : "n.",
+      "rootHint" : "tom 也",
+      "word" : "airspace"
+    }
+  ]
+}

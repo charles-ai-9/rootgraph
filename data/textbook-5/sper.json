@@ -1,0 +1,128 @@
+{
+  "chapter" : "1",
+  "id" : "sper",
+  "meaningZh" : "hope, 含义为希望。其变体有 spair- 等。",
+  "roots" : [
+    "sper"
+  ],
+  "source" : "textbook-5",
+  "titleZh" : "hope, 含义为希望。其变体有 spair- 等。",
+  "words" : [
+    {
+      "collocations" : [
+        "be the despair of sb.：令某人担心（或绝望）"
+      ],
+      "definition" : "绝望；令人绝望的人或事 vi. 绝望；对……丧失信心",
+      "etymology" : "“To lose hope, be without hope,” mid-14c., despeiren, from Old French despeir-, stressed stem of desperer “be dismayed, lose hope, despair,” from Latin desperare “to despair, to lose all hope,” from PIE root *spes- “prosperity;” see speed(n.). Related: Despaired; despairing; despairingly.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "de-（=without：没有）+spair（=to hope：希望）→没有希望→绝望；",
+      "phonetic" : "dɪˈspeə",
+      "pos" : "n.",
+      "rootHint" : "sper",
+      "word" : "despair"
+    },
+    {
+      "collocations" : [
+        "be in desperate need of sth.：急需……"
+      ],
+      "definition" : "（因绝望而）不顾一切的；极度渴望的；危急的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "de-（向下）+ sper-（=spir：呼吸；呼气）+ -ate（形容词后缀）→低",
+      "phonetic" : "ˈdesp(ə)rət",
+      "pos" : "adj.",
+      "rootHint" : "sper",
+      "word" : "desperate"
+    },
+    {
+      "collocations" : [
+        "desperately ill \/ unhappy \/ lonely：病得厉害；极为不快；极其孤独"
+      ],
+      "definition" : "不顾一切地；极其",
+      "examples" : [
+
+      ],
+      "frequency" : 4497,
+      "phonetic" : "ˈdespərətlɪ",
+      "pos" : "adv.",
+      "rootHint" : "sper",
+      "word" : "desperately"
+    },
+    {
+      "collocations" : [
+        "a note of desperation in his voice：他的语气他急得要命"
+      ],
+      "definition" : "绝望；拼命；铤而走险",
+      "examples" : [
+
+      ],
+      "frequency" : 7633,
+      "phonetic" : "despəˈreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "sper",
+      "word" : "desperation"
+    },
+    {
+      "collocations" : [
+        "a despairing cry \/ look \/ sigh：绝望的呼声 \/ 神情 \/ 叹息"
+      ],
+      "definition" : "感到绝望的；没有希望的",
+      "examples" : [
+
+      ],
+      "frequency" : 19551,
+      "phonetic" : "dɪˈspeərɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "sper",
+      "word" : "despairing"
+    },
+    {
+      "collocations" : [
+        "continue to prosper：持续兴隆"
+      ],
+      "definition" : "繁荣；成功",
+      "examples" : [
+
+      ],
+      "frequency" : 8407,
+      "mnemonic" : "pro-（向前）+ -sper（=hope：希望）→前面有希望→繁荣；成功",
+      "phonetic" : "ˈprɒspə",
+      "pos" : "vi.",
+      "rootHint" : "sper",
+      "word" : "prosper"
+    },
+    {
+      "collocations" : [
+        "a prosperous British family：一个富裕的英国家族"
+      ],
+      "definition" : "繁荣的；成功的",
+      "examples" : [
+
+      ],
+      "frequency" : 7469,
+      "mnemonic" : "prosper（繁荣；成功）+ -ous（形容词后缀）→繁荣的；成功的",
+      "phonetic" : "ˈprɒsp(ə)rəs",
+      "pos" : "adj.",
+      "rootHint" : "sper",
+      "word" : "prosperous"
+    },
+    {
+      "collocations" : [
+        "a new era of peace and prosperity：和平繁荣的新时代"
+      ],
+      "definition" : "繁荣；富足",
+      "examples" : [
+
+      ],
+      "frequency" : 5142,
+      "mnemonic" : "prosper（繁荣；成功）+ -ity（名词后缀）→繁荣；富足",
+      "phonetic" : "prɒˈsperɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "sper",
+      "word" : "prosperity"
+    }
+  ]
+}

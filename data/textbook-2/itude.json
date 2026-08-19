@@ -1,0 +1,376 @@
+{
+  "chapter" : "9",
+  "chapterOrder" : 109,
+  "id" : "itude",
+  "meaningZh" : "度，状态",
+  "roots" : [
+    "itude"
+  ],
+  "semanticLabel" : "度，状态",
+  "source" : "textbook-2",
+  "titleZh" : "度，状态",
+  "words" : [
+    {
+      "collocations" : [
+        "altitude sickness：高原反应 high altitude：高空"
+      ],
+      "definition" : "海拔；(海拔高的)高处，高地",
+      "examples" : [
+
+      ],
+      "frequency" : 6464,
+      "mnemonic" : "alt-(高)+-itude(抽象名词后缀，表度，状态)→高度→海拔，(海拔高",
+      "phonetic" : "ˈæltɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "altitude"
+    },
+    {
+      "collocations" : [
+        "amplitude ratio：幅度比率"
+      ],
+      "definition" : "(声波或电流信号的)振幅；丰富；充足；广阔；大量；(思想的)广度",
+      "examples" : [
+
+      ],
+      "frequency" : 14669,
+      "mnemonic" : "ampl(e)(丰富的，充足的，广阔的)+itude(抽象名称后缀，表度)→丰\n富、充足、广阔的状态→丰富，充足，广阔，大量",
+      "phonetic" : "ˈæmplɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "amplitude"
+    },
+    {
+      "collocations" : [
+        "aptitude test：能力试验 have an aptitude for：有……的才能",
+        "academic aptitude：学术才能"
+      ],
+      "definition" : "天资；天赋；自然倾向；适宜",
+      "examples" : [
+
+      ],
+      "frequency" : 12785,
+      "mnemonic" : "apt(有……倾向的，适合)+itude(表度)→(天赋、才能、倾向等)向……\n方向倾斜的度→天资，天赋",
+      "phonetic" : "ˈæptɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "aptitude"
+    },
+    {
+      "collocations" : [
+        "positive attitude：积极态度 attitude to\/towards sb\/sth：对某人\/某事的"
+      ],
+      "definition" : "态度，看法，我行我素的作派，姿势",
+      "examples" : [
+
+      ],
+      "frequency" : 1157,
+      "mnemonic" : "att(=apt：倾向)+itude(度)→倾向度→态度(问你的态度，即询问你倾向",
+      "phonetic" : "ˈætitju:d",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "attitude"
+    },
+    {
+      "collocations" : [
+        "attitudinal commitment：态度性承诺"
+      ],
+      "definition" : "态度的；人生观的",
+      "examples" : [
+
+      ],
+      "frequency" : 16321,
+      "mnemonic" : "attitude(态度)+-al(度)→态度的",
+      "phonetic" : "ˌætɪˈtudɪnl",
+      "pos" : "adj.",
+      "rootHint" : "itude",
+      "word" : "attitudinal"
+    },
+    {
+      "collocations" : [
+        "gratitude to sb for sth：因……向某人表达感激之情 a deep sense of",
+        "gratitude：深深的谢意",
+        "express gratitude：致谢 debt of gratitude：人情债"
+      ],
+      "definition" : "感激；感谢",
+      "etymology" : "mid-15c., “good will,” from Middle French gratitude (15c.) or directly from Medieval Latin gratitudinem (nominative gratitudo) “thankfulness,” from Latin gratus “thankful, pleasing” (from suffixed form of PIE root *gwere- (2) “to favor”). Meaning “thankfulness” is from 1560s.",
+      "examples" : [
+
+      ],
+      "frequency" : 7175,
+      "mnemonic" : "grat-(恩惠)+-itude(表度)→感激",
+      "phonetic" : "ˈgrætɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "gratitude"
+    },
+    {
+      "collocations" : [
+        "wide latitude：广泛的自由"
+      ],
+      "definition" : "纬度；活动范围；宽度；界限",
+      "examples" : [
+        "A teacher deserves wide latitude in selecting the method of grading\nthat best promotes learning in her classroom; that is, after all, the prime\nfunction of grades.\n教师应有很大的自由去选择评分方法，只要该方法可以促进班里的学\n习即可，毕竟、促进班级学习是打分的首要作用。(2010.6)"
+      ],
+      "frequency" : 8154,
+      "mnemonic" : "lat(=wide：宽的)+itude(度)→宽度，范围，纬度(“纬度”的本质就是",
+      "phonetic" : "ˈlætitju:d",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "latitude"
+    },
+    {
+      "collocations" : [
+        "latitude and longitude：经纬度 east longitude：东经 west longitude："
+      ],
+      "definition" : "[地]经度；[地]经线 adj. 经度的",
+      "etymology" : "late 14c., “length; height,” also “astronomical or geographic longitude,” a measure of the east-west distance of the dome of the sky or the surface of the earth, from Latin longitudo “length, long duration,” from longus “long” (see long (adj.)). For explanation of the geographical sense, see latitude.",
+      "examples" : [
+
+      ],
+      "frequency" : 17460,
+      "mnemonic" : "long(长的)+-itude(表度)→沿着地球经线的度→经度",
+      "phonetic" : "ˈlɒn(d)ʒɪtjuːd;ˈlɒŋgɪ-",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "longitude"
+    },
+    {
+      "collocations" : [
+        "longitudinal vibration：纵向振动 longitudinal wave：纵波"
+      ],
+      "definition" : "经线的；纵向的；长度的",
+      "examples" : [
+
+      ],
+      "frequency" : 10040,
+      "mnemonic" : "longitude(经度)+-al(度)→经线的",
+      "phonetic" : "ˌlɒn(d)ʒɪˈtjuːdɪn(ə)l;ˌlɒŋgɪ-",
+      "pos" : "adj.",
+      "rootHint" : "itude",
+      "word" : "longitudinal"
+    },
+    {
+      "collocations" : [
+        "earthquake magnitude：地震震级 order of magnitude：数量级"
+      ],
+      "definition" : "(尺寸、规模、重要性等)大的程度；重要级；数",
+      "examples" : [
+
+      ],
+      "mnemonic" : "magn-(巨大)+-itude(度)→巨大的度→巨大之物，重要性，同时用于地",
+      "phonetic" : "ˈmægnɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "magnitude"
+    },
+    {
+      "collocations" : [
+        "a life of servitude：受奴役的一生"
+      ],
+      "definition" : "奴隶状态；劳役，奴役；地役权",
+      "etymology" : "early 15c., “condition of being enslaved,” from Old French servitude, servitute (13c.) and directly from Late Latin servitudo “slavery,” from Latin servus “a slave” (see serve (v.))+abstract noun suffix.",
+      "examples" : [
+
+      ],
+      "frequency" : 19780,
+      "mnemonic" : "serv(来自奴仆，奴隶)+itude(表状态)→处于被奴役的状态→奴隶状",
+      "phonetic" : "ˈsɜːvɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "servitude"
+    },
+    {
+      "collocations" : [
+        "enjoy solitude：享受孤独"
+      ],
+      "definition" : "尤指平静愉快的)独居，独处",
+      "etymology" : "1580s (earlier in various Latin and French phrases), from Latin per “through, during, by means of, on account of, as in,” from PIE root *per- (1) “forward,” hence “through, in front of, before, first, chief, toward, near, around, against.”",
+      "examples" : [
+
+      ],
+      "frequency" : 8319,
+      "mnemonic" : "sol-(单独的，独自的)+-itude(表度)→独处，独居",
+      "phonetic" : "ˈsɒlɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "solitude"
+    },
+    {
+      "collocations" : [
+        "a permanent job：固定工作"
+      ],
+      "definition" : "永久的，永恒的；固定的；(问题或困难)不断发",
+      "examples" : [
+
+      ],
+      "mnemonic" : "per(彻底，一直)+man(压缩自“remain：保持”)+ent(=ant：形容词后\n缀)→彻底保持的→永久的、永恒的、固定的(其实前缀per：表示“彻",
+      "phonetic" : "ˈpə:mənənt",
+      "pos" : "a.",
+      "rootHint" : "itude",
+      "word" : "permanent"
+    },
+    {
+      "collocations" : [
+        "water permanence：耐水性"
+      ],
+      "definition" : "永久；持久性",
+      "examples" : [
+
+      ],
+      "frequency" : 16419,
+      "mnemonic" : "permanent(永久的，永恒的)+-ce(名词后缀)→永久",
+      "phonetic" : "ˈpɜːmənəns",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "permanence"
+    },
+    {
+      "collocations" : [
+        "permanently lost：永久消失"
+      ],
+      "definition" : "永久地，长久地，长期不变地",
+      "examples" : [
+
+      ],
+      "frequency" : 5759,
+      "mnemonic" : "permanent(永久的，永恒的)+-ly(副词后缀)→永久地",
+      "phonetic" : "ˈpɜːm(ə)nəntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "itude",
+      "word" : "permanently"
+    },
+    {
+      "collocations" : [
+        "perpetual youth：青春永驻"
+      ],
+      "definition" : "永恒的；不间断的；长久的；反复不断；四季开花的",
+      "examples" : [
+
+      ],
+      "frequency" : 8958,
+      "mnemonic" : "perpet(=perman：永久)+u(无意义)+al(形容词后缀：的=ent)→永久",
+      "phonetic" : "pəˈpetʃʊəl;-tjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "itude",
+      "word" : "perpetual"
+    },
+    {
+      "collocations" : [
+        "perpetually unchangeable：永恒不变地"
+      ],
+      "definition" : "永恒地；终身地；不间断地",
+      "examples" : [
+
+      ],
+      "frequency" : 13495,
+      "mnemonic" : "perpetual(永恒地)+-ly(副词后缀)→永恒地，终身地",
+      "phonetic" : "pɚˈpɛtʃʊəli",
+      "pos" : "adv.",
+      "rootHint" : "itude",
+      "word" : "perpetually"
+    },
+    {
+      "collocations" : [
+        "to perpetuate injustice：持续造成不公正"
+      ],
+      "definition" : "使不朽；保持",
+      "examples" : [
+
+      ],
+      "frequency" : 7796,
+      "mnemonic" : "per-(完全的)+-pet(寻求，追寻)+-uate(动词后缀，使……行动)→\n使……持续不断地寻求、坚持、追寻的行动→使不朽，保持",
+      "phonetic" : "pəˈpetʃʊeɪt;-tjʊ-",
+      "pos" : "vt.",
+      "rootHint" : "itude",
+      "word" : "perpetuate"
+    },
+    {
+      "collocations" : [
+        "perform a surgery：完成\/做一个手术",
+        "perform highly refined analyses：做非常精确的分析"
+      ],
+      "definition" : "执行(尤指复杂的任务或行动)；行使(某种功能)；演",
+      "examples" : [
+        "The ability to solve problems by applying information instead of\nperforming routine tasks will be valued above all else."
+      ],
+      "phonetic" : "pəˈfɔːm",
+      "pos" : "vt.",
+      "rootHint" : "itude",
+      "word" : "perform"
+    },
+    {
+      "collocations" : [
+        "fulfill his potential：实现他的潜能 fulfill her dream：完成她的梦想"
+      ],
+      "definition" : "完成，履行，实现",
+      "examples" : [
+        "Many people today find themselves in unfulfilling work situations."
+      ],
+      "mnemonic" : "ful(=full：满)+fill(填)→填满→完成、履行；使实现",
+      "phonetic" : "fulˈfil",
+      "pos" : "v.",
+      "rootHint" : "itude",
+      "word" : "fulfill"
+    },
+    {
+      "collocations" : [
+        "college performance：大学表现 poor academic performance：糟糕的"
+      ],
+      "definition" : "表演；业绩，性能；执行，实施",
+      "examples" : [
+
+      ],
+      "frequency" : 676,
+      "mnemonic" : "perform(表演，执行)+-ance(名词后缀)→表演，业绩",
+      "phonetic" : "pəˈfɔːm(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "performance"
+    },
+    {
+      "collocations" : [
+        "a brilliant\/polished\/seasoned performer：卓越的\/优雅的\/娴熟的表演者"
+      ],
+      "definition" : "表演者，演出者，演奏者；表现地……者",
+      "examples" : [
+
+      ],
+      "frequency" : 4001,
+      "mnemonic" : "perform(表演)+-er(名词后缀，表人)→表演者",
+      "phonetic" : "pəˈfɔːmə(r)",
+      "pos" : "n.",
+      "rootHint" : "itude",
+      "word" : "performer"
+    },
+    {
+      "collocations" : [
+        "performing art：表演艺术"
+      ],
+      "definition" : "表演的；履行的 vt. 执行，履行，表演，表现",
+      "examples" : [
+
+      ],
+      "mnemonic" : "perform(表演，执行)+-ing(形容词后缀，分词后缀)→表演的，执行",
+      "phonetic" : "pəˈfɔːmɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "itude",
+      "word" : "performing"
+    },
+    {
+      "collocations" : [
+        "outperform other investments：优于其它投资"
+      ],
+      "definition" : "胜过；做得比……好",
+      "examples" : [
+
+      ],
+      "frequency" : 13097,
+      "mnemonic" : "out-(超过)+perform(履行，表现)→胜过，做得比……好",
+      "phonetic" : "aʊtpəˈfɔːm",
+      "pos" : "vt.",
+      "rootHint" : "itude",
+      "word" : "outperform"
+    }
+  ]
+}

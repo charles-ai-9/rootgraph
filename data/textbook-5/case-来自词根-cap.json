@@ -1,0 +1,103 @@
+{
+  "chapter" : "40",
+  "chapterOrder" : 140,
+  "id" : "case-来自词根-cap",
+  "meaningEn" : "to take, hold",
+  "meaningZh" : "持有，拥有，掌握，",
+  "roots" : [
+    "case 来自词根 cap"
+  ],
+  "semanticLabel" : "持有，拥有，掌握",
+  "source" : "textbook-5",
+  "titleZh" : "持有，拥有，掌握",
+  "words" : [
+    {
+      "collocations" : [
+        "in case \/ just in case：以防"
+      ],
+      "definition" : "容器；箱子；情况；案例；事实",
+      "examples" : [
+
+      ],
+      "frequency" : 186,
+      "mnemonic" : "cas-（=cap-=to hold：保留；持有）+ e→容器；箱子",
+      "phonetic" : "keɪs",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "case"
+    },
+    {
+      "collocations" : [
+        "on a case-by-case basis：逐个地；视情况而定"
+      ],
+      "definition" : "具体问题具体分析",
+      "examples" : [
+
+      ],
+      "frequency" : 19032,
+      "phonetic" : "ˈkeisbaiˈkeis",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "case-by-case"
+    },
+    {
+      "collocations" : [
+        "the average caseload：平均个案总数"
+      ],
+      "definition" : "（医生、社工或律师等需要处理的）案例数量",
+      "examples" : [
+
+      ],
+      "frequency" : 15057,
+      "mnemonic" : "case（案例）+ load（工作量）→案例数量",
+      "phonetic" : "ˈkeɪsləʊd",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "caseload"
+    },
+    {
+      "collocations" : [
+        "family caseworker：家庭个案工作者"
+      ],
+      "definition" : "社会工作者（帮助社区特殊困难者）",
+      "examples" : [
+
+      ],
+      "frequency" : 15374,
+      "mnemonic" : "case（案例）+ worker（工作者）→（特殊）案例工作者→社会工作",
+      "phonetic" : "ˈkeɪswɜːrkər",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "caseworker"
+    },
+    {
+      "collocations" : [
+        "cod liver oil capsules：鳕鱼鱼肝油胶囊"
+      ],
+      "definition" : "（装药的）胶囊；（用于医学或科学目的的）小容",
+      "examples" : [
+        "They first implanted capsules into the animals’ brains."
+      ],
+      "mnemonic" : "caps-（=box, case：箱子；盒子）+ -ule（名词后缀，指小形式）→小",
+      "phonetic" : "ˈkæpsju:l",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "capsule"
+    },
+    {
+      "collocations" : [
+        "chass（=frame：框架）+ -is（名词后缀）→（车辆）底盘；底架"
+      ],
+      "definition" : "（车辆）底盘；底架",
+      "etymology" : "来自法语châssis“frame”：框架；构架。",
+      "examples" : [
+
+      ],
+      "frequency" : 13848,
+      "phonetic" : "ˈʃæsɪ;-iː",
+      "pos" : "n.",
+      "rootHint" : "case 来自词根 cap",
+      "word" : "chassis"
+    }
+  ]
+}

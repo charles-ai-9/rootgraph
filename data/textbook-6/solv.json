@@ -1,0 +1,291 @@
+{
+  "chapter" : "15",
+  "chapterOrder" : 115,
+  "id" : "solv",
+  "meaningZh" : "松开，使放松，分开，割裂",
+  "roots" : [
+    "solv",
+    "solut",
+    "lyz",
+    "lysis",
+    "lytic"
+  ],
+  "semanticLabel" : "松开，使放松，分开，割裂",
+  "source" : "textbook-6",
+  "titleZh" : "松开，使放松，分开，割裂",
+  "words" : [
+    {
+      "collocations" : [
+        "to solve an equation\/a puzzle\/a riddle：解方程；解难题；解谜",
+        "to solve a crime：破案"
+      ],
+      "definition" : "解决；处理；解答",
+      "examples" : [
+
+      ],
+      "frequency" : 1839,
+      "mnemonic" : "solv-（解开；松开）+ -e→引申义为解决；处理；解答",
+      "phonetic" : "sɒlv",
+      "pos" : "vt.",
+      "rootHint" : "solv",
+      "word" : "solve"
+    },
+    {
+      "collocations" : [
+        "an unsolved murder\/mystery\/problem：未破案的谋杀事件；未解开的谜"
+      ],
+      "definition" : "未解决的；未破解的",
+      "examples" : [
+
+      ],
+      "frequency" : 14146,
+      "mnemonic" : "un-（=not：没有）+ solved（解决了的）→没有解决了的→为解决",
+      "phonetic" : "ˌʌnˈsɒlvd",
+      "pos" : "adj.",
+      "rootHint" : "solv",
+      "word" : "unsolved"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "解决",
+      "examples" : [
+
+      ],
+      "frequency" : 9665,
+      "phonetic" : "ˈsɒlvɪŋ",
+      "pos" : "vt.",
+      "rootHint" : "solv",
+      "word" : "solving"
+    },
+    {
+      "collocations" : [
+        "find a peaceful solution：寻找一个和平的解决办法",
+        "saline solution：盐溶液"
+      ],
+      "definition" : "解决办法；谜底；溶液",
+      "examples" : [
+
+      ],
+      "frequency" : 1224,
+      "phonetic" : "səˈluːʃn",
+      "pos" : "n.",
+      "rootHint" : "solut",
+      "word" : "solution"
+    },
+    {
+      "collocations" : [
+        "a solvent company：有偿债能力的公司",
+        "cleaning solvent：少量的清洗剂"
+      ],
+      "definition" : "有偿付能力；无债务；有溶解力的，可溶解的 n. 溶剂",
+      "examples" : [
+
+      ],
+      "mnemonic" : "solve（解决）+ -ent（形容词后缀）→即可溶解的→用于经济学术语",
+      "phonetic" : "ˈsɒlvənt",
+      "pos" : "adj.",
+      "rootHint" : "solv",
+      "word" : "solvent"
+    },
+    {
+      "collocations" : [
+        "soluble aspirin：可溶性阿司匹林",
+        "water-soluble：水溶性的"
+      ],
+      "definition" : "可溶解的；可解决的",
+      "examples" : [
+
+      ],
+      "frequency" : 19272,
+      "mnemonic" : "solu-（u、v可互换，-solv-：溶解）+ -able（形容词后缀）→可溶解",
+      "phonetic" : "ˈsɒljəbl",
+      "pos" : "adj.",
+      "rootHint" : "solv",
+      "word" : "soluble"
+    },
+    {
+      "collocations" : [
+        "to resolve an issue\/a dispute\/a conflict\/a crisis：解决问题\/争端\/冲突\/危机",
+        "resolve on sth.\/on doing sth.：决定做某事",
+        "strengthen one’s resolve：坚定某人的决心",
+        "resolve into sth.\/resolve sth. into sth.：（使）分解为；逐渐变为（另一"
+      ],
+      "definition" : "解决（问题或困难）；决心；表决 n. 决心；坚定的信念",
+      "examples" : [
+        "The orange light resolved itself into four lanterns.\n橙色的光亮逐渐变成了四盏灯。"
+      ],
+      "mnemonic" : "re-（加强意义）+ -solv-（松开；解释）+ -e→解开难题→解决（解决",
+      "phonetic" : "rɪˈzɒlv",
+      "pos" : "vt.",
+      "rootHint" : "solv",
+      "word" : "resolve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "尚未解决的",
+      "examples" : [
+        "The murder remains unresolved.\n这宗谋杀案还没有侦破。"
+      ],
+      "frequency" : 10463,
+      "mnemonic" : "un-（=not：没有）+ resolved（解决的）→尚未解决的",
+      "phonetic" : "ʌnrɪˈzɒlvd",
+      "pos" : "adj.",
+      "rootHint" : "solv",
+      "word" : "unresolved"
+    },
+    {
+      "collocations" : [
+        "to pass\/adopt\/carry a resolution：通过一项决议",
+        "an early resolution of the dispute：早日解决纠纷",
+        "make a resolution to do sth.：决定做某事"
+      ],
+      "definition" : "决议；（问题、分歧等的）解决；决定",
+      "examples" : [
+
+      ],
+      "frequency" : 1980,
+      "mnemonic" : "re-（加强意义）+ solut-（u、v可互换, -solv-：溶解；解决）+ -ion\n（名词后缀）→决议；解决；决定",
+      "phonetic" : "ˌrezəˈluːʃn",
+      "pos" : "n.",
+      "rootHint" : "solut",
+      "word" : "resolution"
+    },
+    {
+      "collocations" : [
+        "sugar dissolves：糖溶解",
+        "dissolve the committee：解散委员会"
+      ],
+      "definition" : "&vi. 使溶解；使消失 vt. 解散（组织或机构）；解除",
+      "examples" : [
+        "The marriage was dissolved in 1976.\n那桩婚姻在1976年被解除了。\nHis new-found optimism dissolved."
+      ],
+      "mnemonic" : "dis-（=apart：分开；散开）+ -solv-（解开；放松；溶解）+ -e→松\n开，散开→引申词义液体溶解；解除；使消失",
+      "phonetic" : "dɪˈzɒlv",
+      "pos" : "vt.",
+      "rootHint" : "solv",
+      "word" : "dissolve"
+    },
+    {
+      "collocations" : [
+        "the dissolution of the firm：公司的解散",
+        "the dissolution of a marriage：婚姻解除"
+      ],
+      "definition" : "（组织、议会等的）解散；（婚姻关系或契约的）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dissolve：解散；解除 →dissolution：（组织、议会等的）解散；（婚",
+      "phonetic" : "ˌdɪsəˈluːʃn",
+      "pos" : "n.",
+      "rootHint" : "solut",
+      "word" : "dissolution"
+    },
+    {
+      "collocations" : [
+        "resolute leadership：坚定的领导"
+      ],
+      "definition" : "坚定的；有决心的",
+      "examples" : [
+
+      ],
+      "frequency" : 15504,
+      "mnemonic" : "resol（=resolve：解决；决心）+ -ute（形容词后缀）→坚定的；有决",
+      "phonetic" : "ˈrezəluːt",
+      "pos" : "adj.",
+      "rootHint" : "solut",
+      "word" : "resolute"
+    },
+    {
+      "collocations" : [
+        "resolutely refuse to do sth.：坚决拒绝做某事"
+      ],
+      "definition" : "坚定地16199",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈrezəluːtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "solut",
+      "word" : "resolutely"
+    },
+    {
+      "collocations" : [
+        "a high-resolution scan：高清晰度扫描"
+      ],
+      "definition" : "高清晰度的；高分辨率的",
+      "examples" : [
+
+      ],
+      "frequency" : 16960,
+      "mnemonic" : "high（高）+ resolution（清晰度；分辨率）→高清晰度的；高分辨率的",
+      "phonetic" : "ˌhaɪ rezəˈluːʃn",
+      "pos" : "adj.",
+      "rootHint" : "solut",
+      "word" : "high-resolution"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "宣告……无罪；赦免……的罪",
+      "examples" : [
+        "The court absolved him of all responsibility for the accident.\n法院宣告他对该事故不负任何责任。"
+      ],
+      "frequency" : 17761,
+      "mnemonic" : "ab-（=off, away from：分离）+ -solv-（解开；松开）+ -e→此处用于\n法律用语，松开某人罪的捆绑，与“罪”分离→宣告……无罪；赦",
+      "phonetic" : "əbˈzɒlv",
+      "pos" : "vt.",
+      "rootHint" : "solv",
+      "word" : "absolve"
+    },
+    {
+      "collocations" : [
+        "absolute beginners：纯粹的初学者",
+        "absolute proof：确凿的证据",
+        "absolute rules：绝对的准则",
+        "an absolute ruler：独裁统治者"
+      ],
+      "definition" : "完全的；确凿的；绝对的；独裁的 n. 绝对真理（指",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ab-（=away from：离开）+ solute（松开）→不受任何束缚的，无限\n制的→完全的；确凿的；绝对的；独裁的",
+      "phonetic" : "ˈæbsəluːt",
+      "pos" : "adj.",
+      "rootHint" : "solut",
+      "word" : "absolute"
+    },
+    {
+      "collocations" : [
+        "absolutely right：绝对正确"
+      ],
+      "definition" : "绝对地",
+      "examples" : [
+
+      ],
+      "frequency" : 1152,
+      "phonetic" : "ˈæbsəluːtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "solut",
+      "word" : "absolutely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（人）孤苦伶仃的；（地方）凄凉的，荒芜的；不大可",
+      "examples" : [
+        "She waited in the forlorn hope that he would one day come back to her.\n她几乎毫无指望地等待他有一天会回到她的身边。"
+      ],
+      "mnemonic" : "for-（=completely：完全的）+ lorn（=to lose：失去）→完全丧失的，\n完全失去希望的→孤苦伶仃的；凄凉的；难以实现的",
+      "phonetic" : "fəˈlɔːn",
+      "pos" : "adj.",
+      "rootHint" : "solv",
+      "word" : "forlorn"
+    }
+  ]
+}

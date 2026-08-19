@@ -1,0 +1,213 @@
+{
+  "chapter" : "33",
+  "chapterOrder" : 133,
+  "id" : "doc",
+  "meaningEn" : "to teach",
+  "meaningZh" : "教，教授。",
+  "roots" : [
+    "doc"
+  ],
+  "semanticLabel" : "教，教授。",
+  "source" : "textbook-6",
+  "titleZh" : "教，教授。",
+  "words" : [
+    {
+      "collocations" : [
+        "see a doctor：看医生",
+        "the doctor’s：诊所",
+        "a Doctor of Philosophy\/Law：哲学\/法学博士",
+        "just what the doctor ordered：正是所需之物",
+        "doctor the figures：篡改数字"
+      ],
+      "definition" : "医生；博士 vt. 篡改；伪造；将有害物掺入（食物或饮",
+      "etymology" : "c. 1300, doctour, “Church father,” from Old French doctour and directly from Medieval Latin doctor “religious teacher, adviser, scholar,” in classical Latin “teacher,” agent noun from docere “to show, teach, cause to know,” originally “make to appear right,” causative of decere “be seemly, fitting,” from PIE root *dek- “to take, accept.” Doctor起初指“宗教教 师，学者，任何有学问的人”等，而至今仍保留了这一层含义，作 “博士”讲。直到15世纪才用来指“医生”。可简写作Dr.。",
+      "examples" : [
+        "The wine had been doctored.\n这葡萄酒里掺入了有害物质。"
+      ],
+      "mnemonic" : "doct-（=to teach：教授）+ -or（名词后缀，表示人）→负责教授的\n人，有学问的人→后来专指医生，博士；篡改，伪造，将……掺入",
+      "phonetic" : "ˈdɒktə",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "doctor"
+    },
+    {
+      "collocations" : [
+        "doctoral student：博士生",
+        "doctoral degree：博士学位",
+        "a doctoral thesis：博士学位论文"
+      ],
+      "definition" : "博士的；博士学位的",
+      "examples" : [
+
+      ],
+      "frequency" : 8078,
+      "mnemonic" : "doctor（博士）+ -al（形容词后缀）→博士的；博士学位的",
+      "phonetic" : "ˈdɒktərəl",
+      "pos" : "adj.",
+      "rootHint" : "doc",
+      "word" : "doctoral"
+    },
+    {
+      "collocations" : [
+        "obtain his doctorate in...：获得了……博士学位"
+      ],
+      "definition" : "博士学位8723",
+      "examples" : [
+        "He’s studying for her doctorate.\n她正在攻读博士学位。"
+      ],
+      "mnemonic" : "doctor（博士）+ -ate（名词后缀）→博士学位",
+      "phonetic" : "ˈdɒktərət",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "doctorate"
+    },
+    {
+      "collocations" : [
+        "to be\/have\/do a PhD：是一位博士；有博士学位；攻读博士学位"
+      ],
+      "definition" : "哲学博士学位；博士学位（Doctor of Philosophy）",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˌpiː eɪtʃ ˈdiː",
+      "pos" : "abbr.",
+      "rootHint" : "doc",
+      "word" : "PhD"
+    },
+    {
+      "collocations" : [
+        "the Marxist doctrine：马克思主义学说",
+        "Christian doctrine：基督教教义"
+      ],
+      "definition" : "教义，主义，学说，信条；（政府政策的）正式声明",
+      "examples" : [
+
+      ],
+      "mnemonic" : "doctr（=doctor：教导）+ -ine（名词后缀）→宗教教义，教条→后来",
+      "phonetic" : "ˈdɒktrɪn",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "doctrine"
+    },
+    {
+      "collocations" : [
+        "doctrinal differences：教义上的区别",
+        "doctrinal approach：教条的方法"
+      ],
+      "definition" : "教义的；学说的；主义的",
+      "examples" : [
+
+      ],
+      "frequency" : 14063,
+      "mnemonic" : "doctrine（教义；主义；学说）+ -al（形容词后缀）→教义的；主义",
+      "phonetic" : "ˈdɑktrənl",
+      "pos" : "adj.",
+      "rootHint" : "doc",
+      "word" : "doctrinal"
+    },
+    {
+      "collocations" : [
+        "political\/religious indoctrination：政治思想\/宗教教义的灌输"
+      ],
+      "definition" : "（信仰或学说的）强行灌输",
+      "examples" : [
+
+      ],
+      "frequency" : 18942,
+      "mnemonic" : "in-（进入，使）+ -doctrine（信条；学说）+ -ation（复合名词后缀）\n→使信条或学说强行进入……→引申词义强行灌输",
+      "phonetic" : "ɪnˌdɑːktrɪˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "indoctrination"
+    },
+    {
+      "collocations" : [
+        "docile, obedient children：容易管教的、顺从的孩子们",
+        "a docile child\/horse：听话的孩子；温驯的马"
+      ],
+      "definition" : "驯服的；易管教的；易控制的",
+      "examples" : [
+
+      ],
+      "frequency" : 19876,
+      "mnemonic" : "doc-（教）+ -ile（形容词后缀）→引申词义可教导的→驯服的；易管",
+      "phonetic" : "ˈdəʊsaɪl",
+      "pos" : "adj.",
+      "rootHint" : "doc",
+      "word" : "docile"
+    },
+    {
+      "collocations" : [
+        "travel documents：旅行证件",
+        "documented evidence：有文件证明的证据"
+      ],
+      "definition" : "文件；证件；文档 vt. 记录，记载（详情）；用文",
+      "examples" : [
+        "Save the document before closing.\n在关闭文档前存盘（保存文档）。\nCauses of the disease have been well-documented.\n这种疾病的起因已有完备的记载。"
+      ],
+      "mnemonic" : "doc-（=to show, cause to show, teach：表明；证明；出示；教）+ u+\n-ment（名词后缀）向……出示的东西→文件，证件，文档；记录，",
+      "phonetic" : "ˈdɒkjumənt",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "document"
+    },
+    {
+      "collocations" : [
+        "a television documentary about\/on...：关于……的纪实电视片",
+        "documentary evidence\/sources\/material：书面证据；文件来源；文献资料",
+        "a documentary film about the war：关于那场战争的纪录片"
+      ],
+      "definition" : "纪录影片；纪实广播（或电视）节目 adj. 文",
+      "examples" : [
+
+      ],
+      "mnemonic" : "document（文件；记录）+ -ary（名词\/形容词后缀）→纪实影片，广",
+      "phonetic" : "ˌdɒkjuˈmentri",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "documentary"
+    },
+    {
+      "collocations" : [
+        "the documentation of an agreement：协议的归档"
+      ],
+      "definition" : "必备资料，证明文件；文件记载，归档",
+      "examples" : [
+        "I didn’t have all the necessary documentation.\n我证明文件不齐备。"
+      ],
+      "mnemonic" : "document（文件；记载）+ -ation（复合名词后缀）→证明文件；文",
+      "phonetic" : "ˌdɒkjumenˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "doc",
+      "word" : "documentation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "备有证明文件的",
+      "examples" : [
+
+      ],
+      "frequency" : 15294,
+      "phonetic" : "ˈdɒkjʊm(ə)ntɪd",
+      "pos" : "adj.",
+      "rootHint" : "doc",
+      "word" : "documented"
+    },
+    {
+      "collocations" : [
+        "undocumented immigrants：非法移民"
+      ],
+      "definition" : "未登记注册的，无证明文件的；非法",
+      "examples" : [
+
+      ],
+      "mnemonic" : "un-（=not：未；没有）+ documented（备有证明文件的，登记注册过\n的）→无证明文件的；非法的，五证的",
+      "phonetic" : "ʌnˈdɒkjʊmentɪd",
+      "pos" : "adj.",
+      "rootHint" : "doc",
+      "word" : "undocumented"
+    }
+  ]
+}

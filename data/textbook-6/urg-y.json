@@ -1,0 +1,194 @@
+{
+  "chapter" : "37",
+  "chapterOrder" : 137,
+  "id" : "urg-y",
+  "meaningEn" : "制作",
+  "roots" : [
+    "urg（y）"
+  ],
+  "semanticLabel" : "制作",
+  "source" : "textbook-6",
+  "titleZh" : "制作",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "冶炼学；冶炼术",
+      "examples" : [
+
+      ],
+      "phonetic" : "metal：金属，l双写；-urgy：制作→冶炼",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "metallurgy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "剧本作法；剧本艺术",
+      "examples" : [
+
+      ],
+      "phonetic" : "drama：剧本，戏剧；-urgy：制作",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "dramaturgy"
+    },
+    {
+      "collocations" : [
+        "surgical procedures：手术程序",
+        "surgical department：外科",
+        "a surgical ward (= for patients having operations)：外科手术病房"
+      ],
+      "definition" : "外科的；外科手术的",
+      "examples" : [
+
+      ],
+      "frequency" : 5378,
+      "mnemonic" : "surg（=surgery：外科手术）+ -ical（形容词后缀）→外科的；外科手",
+      "phonetic" : "ˈsɜːdʒɪkl",
+      "pos" : "adj.",
+      "rootHint" : "urg（y）",
+      "word" : "surgical"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "外科手术地",
+      "examples" : [
+        "The lumps will need to be surgically removed.\n这些肿块需手术切除"
+      ],
+      "frequency" : 16721,
+      "phonetic" : "ˈsəːdʒikəli",
+      "pos" : "adv.",
+      "rootHint" : "urg（y）",
+      "word" : "surgically"
+    },
+    {
+      "collocations" : [
+        "a brain\/heart, etc. surgeon：脑外科、心脏外科等医生",
+        "plastic surgeon：整形外科医生"
+      ],
+      "definition" : "外科医生3444",
+      "examples" : [
+
+      ],
+      "mnemonic" : "surge（=surgery：外科手术）+ -on（名词后缀，表人）→做外科手术\n的人→外科医生",
+      "phonetic" : "ˈsəːdʒən",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "surgeon"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "神经外科医生",
+      "examples" : [
+
+      ],
+      "frequency" : 18683,
+      "mnemonic" : "neuro-（神经）+ surgeon（外科医生）→神经外科医生",
+      "phonetic" : "ˈnjʊərəʊsəːdʒən",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "neurosurgeon"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "手疗法医师；脊骨神经科医生",
+      "etymology" : "Late 14c., “combination of tones pleasing to the ear,” from Old French harmonie, armonie “harmony,” also the name of a musical instrument (12c.), from Latin harmonia, from Greek harmonia “agreement, concord of sounds,” also as a proper name, the personification of music, literally “means of joining,” used of ship-planks, etc., also “settled government, order,” related to harmos “fastenings of a door; joint, shoulder,” from PIE ar(ə)-smo-, suffixed form of root *ar- “to fit together.” Modern scientific harmony, using combinations of notes to form chords, is from 16c. Sense of “agreement of feeling, concord” is from late 14c.",
+      "examples" : [
+
+      ],
+      "frequency" : 18192,
+      "phonetic" : "ˈkaɪərəʊpræktə(r)",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "chiropractor"
+    },
+    {
+      "collocations" : [
+        "to live together in perfect harmony 十分和睦地一同生活",
+        "to sing in harmony：用和声唱",
+        "in harmony with：与……和谐相处"
+      ],
+      "definition" : "融洽，和睦；和声；和谐，协调",
+      "examples" : [
+        "I agree with you. I think it’s time man learned to live in harmony with the\nearth instead of just exploiting it.\n我同意你。我认为到了人类学着去和地球和谐相处，而不是仅仅去开\n发它的时候了。"
+      ],
+      "frequency" : 4722,
+      "phonetic" : "ˈhɑːmənɪ",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "harmony"
+    },
+    {
+      "collocations" : [
+        "harmonious relationship：融洽的关系",
+        "a harmonious combination of colors：协调的色彩搭配"
+      ],
+      "definition" : "友好和睦的；和谐的；协调的",
+      "examples" : [
+
+      ],
+      "frequency" : 12897,
+      "mnemonic" : "harmony（和睦；和谐；协调）+ -ious（形容词后缀）→友好和睦",
+      "phonetic" : "hɑːˈməʊnɪəs",
+      "pos" : "adj.",
+      "rootHint" : "urg（y）",
+      "word" : "harmonious"
+    },
+    {
+      "collocations" : [
+        "harmonize national policies：统一国家政策",
+        "harmonize perfectly：和声完美地"
+      ],
+      "definition" : "彼此协调；使……统一 vi. 和声演唱或演奏",
+      "examples" : [
+        "How well all her garments harmonized with each other.\n她所有的衣服彼此配起来是多么地协调。"
+      ],
+      "frequency" : 15457,
+      "mnemonic" : "harmony（协调；和声）+ -ize（使动词后缀）→使协调；使……统",
+      "phonetic" : "ˈhɑːmənaɪz",
+      "pos" : "vt.",
+      "rootHint" : "urg（y）",
+      "word" : "harmonize"
+    },
+    {
+      "collocations" : [
+        "combine harmonic and rhythmic structure：把和声与节奏结和起来"
+      ],
+      "definition" : "和声的 n. 和声",
+      "examples" : [
+
+      ],
+      "frequency" : 15039,
+      "mnemonic" : "harmony（和声）+ -ic（形容词\/名词后缀）→和声的；和声",
+      "phonetic" : "hɑːˈmɒnɪk",
+      "pos" : "adj.",
+      "rootHint" : "urg（y）",
+      "word" : "harmonic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "[音]口琴（等于mouth organ）",
+      "examples" : [
+
+      ],
+      "frequency" : 17598,
+      "mnemonic" : "harmon-（=harmony：和声）+ -ic（形容词后缀）+ -a（名词后缀）→\n能发出和声的乐器→口琴",
+      "phonetic" : "hɑːˈmɒnɪkə",
+      "pos" : "n.",
+      "rootHint" : "urg（y）",
+      "word" : "harmonica"
+    }
+  ]
+}

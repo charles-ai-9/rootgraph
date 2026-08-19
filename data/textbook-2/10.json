@@ -1,0 +1,4386 @@
+{
+  "chapter" : "10",
+  "chapterOrder" : 110,
+  "id" : "10",
+  "meaningZh" : "基因的，遗传的；出生，生育，产生",
+  "roots" : [
+
+  ],
+  "semanticLabel" : "基因的，遗传的；出生，生育，产生",
+  "source" : "textbook-2",
+  "titleZh" : "基因的，遗传的；出生，生育，产生",
+  "words" : [
+    {
+      "collocations" : [
+        "a congenial colleague：意气相投的同事"
+      ],
+      "definition" : "意气相投的；令人愉快的；适宜的；合适的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "con-(with，together，一同)+gene-(=birth，出生)+-ial(形容词后缀)→一",
+      "phonetic" : "kənˈdʒiːnɪəl",
+      "pos" : "adj.",
+      "word" : "congenial"
+    },
+    {
+      "collocations" : [
+        "a congenital liar：生性好说谎的人 congenital heart disease：先天性心"
+      ],
+      "definition" : "先天性的；天生的；生性的",
+      "examples" : [
+
+      ],
+      "frequency" : 16200,
+      "mnemonic" : "con-(with，together，一同)+gene-(=birth，出生)+-ital(it+al，复合的形",
+      "phonetic" : "kənˈdʒenɪt(ə)l",
+      "pos" : "adj.",
+      "word" : "congenital"
+    },
+    {
+      "collocations" : [
+        "gender gaps：性别差异"
+      ],
+      "definition" : "性；性别；(语法上的)性",
+      "examples" : [
+
+      ],
+      "frequency" : 1838,
+      "mnemonic" : "gen(=birth, 基因)+d(无意义)+er(名词后缀)→从出生起有带有的差异→",
+      "phonetic" : "ˈdʒendə",
+      "pos" : "n.",
+      "word" : "gender"
+    },
+    {
+      "collocations" : [
+        "gendered language characteristics 性别语言特征"
+      ],
+      "definition" : "性别化；依照性别而分类的",
+      "examples" : [
+
+      ],
+      "frequency" : 17842,
+      "mnemonic" : "gender(性别)+-ed(形容词后缀)→性别化；依照性别而分类的",
+      "phonetic" : "ˈdʒendəd",
+      "pos" : "adj.",
+      "word" : "gendered"
+    },
+    {
+      "collocations" : [
+        "gene bank：基因文库；gene pool：基因库"
+      ],
+      "definition" : "基因，遗传因子2307",
+      "etymology" : "1911, from German Gen, coined 1905 by Danish scientist Wilhelm Ludvig Johannsen (1857- 1927), from Greek genea “generation, race,” from PIE root *gene- “give birth, beget.” De Vries had earlier called them pangenes. Gene pool is attested from 1946.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gene(=to give birth, beget)→从出生(从母体带来的)就有的→基因",
+      "phonetic" : "dʒiːn",
+      "pos" : "n.",
+      "word" : "gene"
+    },
+    {
+      "collocations" : [
+        "genetic variation：基因变异 genetic modification：基因改造"
+      ],
+      "definition" : "遗传的；起源的；基因的",
+      "examples" : [
+
+      ],
+      "frequency" : 2744,
+      "mnemonic" : "gene(基因、遗传因子)+tic(形容词后缀：的)→基因的、遗传的",
+      "phonetic" : "dʒɪˈnetɪk",
+      "pos" : "adj.",
+      "word" : "genetic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "遗传学家",
+      "examples" : [
+
+      ],
+      "frequency" : 13673,
+      "mnemonic" : "genetic (related to genes，遗传的，基因的)+-ist(名词后缀，……方面",
+      "phonetic" : "dʒɪˈnetɪsɪst",
+      "pos" : "n.",
+      "word" : "geneticist"
+    },
+    {
+      "collocations" : [
+        "genetically modified：转基因的"
+      ],
+      "definition" : "从遗传学角度；从基因方面",
+      "examples" : [
+
+      ],
+      "frequency" : 6847,
+      "mnemonic" : "genetic(遗传的，基因的)+-al(形容词后缀)+-ly副词后缀→从遗传学角",
+      "phonetic" : "dʒəˈnɛtɪklɪ",
+      "pos" : "adv.",
+      "word" : "genetically"
+    },
+    {
+      "collocations" : [
+        "a genealogical chart\/table\/tree：系谱图；家谱表；家系树状图"
+      ],
+      "definition" : "宗谱；家系；血统；系谱学",
+      "etymology" : "early 14c., “line of descent, pedigree, descent,” from Old French genealogie (12c.), from Late Latin genealogia “tracing of a family,” from Greek genealogia “the making of a pedigree,” from genea “generation, descent” (from PIE root *gene- “give birth, beget,” with derivatives referring to procreation and familial and tribal groups)+-logia (see -logy). An Old English word for it was folctalu, literally “folk tale.” Meaning “study of family trees” is from 1768.",
+      "examples" : [
+
+      ],
+      "frequency" : 15154,
+      "mnemonic" : "gene(=to give birth, beget，出生)+a+logy(学说)→系谱学(study of family",
+      "phonetic" : "dʒiːnɪˈælədʒɪ;dʒen-",
+      "pos" : "n.",
+      "word" : "genealogy"
+    },
+    {
+      "collocations" : [
+        "general practitioner：全科医生 in general：总之"
+      ],
+      "definition" : "大体的；笼统地；普通的；整体的；总管的 n. 将",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gener(生育)+-al(形容词后缀)→普遍适用，包括全部，与具体的相反",
+      "phonetic" : "ˈdʒen(ə)r(ə)l",
+      "pos" : "adj.",
+      "word" : "general"
+    },
+    {
+      "collocations" : [
+        "to speak in broad generalities：泛泛地说"
+      ],
+      "definition" : "概述；一般性；普遍性；大部分",
+      "examples" : [
+
+      ],
+      "frequency" : 18188,
+      "mnemonic" : "general(普遍的，整体的)+-ity(名词后缀)→概述；普遍性",
+      "phonetic" : "dʒenəˈrælɪtɪ",
+      "pos" : "n.",
+      "word" : "generality"
+    },
+    {
+      "collocations" : [
+        "generalizability theory：概化理论"
+      ],
+      "definition" : "普遍性，概括性",
+      "examples" : [
+
+      ],
+      "frequency" : 19772,
+      "mnemonic" : "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ability(名词后缀)→",
+      "phonetic" : "ˈdʒenərəˌlaizəˈbiləti",
+      "pos" : "n.",
+      "word" : "generalizability"
+    },
+    {
+      "collocations" : [
+        "making sweeping generalizations：进行全盘概括"
+      ],
+      "definition" : "概括；归纳；泛论",
+      "examples" : [
+
+      ],
+      "frequency" : 8857,
+      "mnemonic" : "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ation(名词后缀)→概",
+      "phonetic" : "ˌdʒenrəlaɪˈzeɪʃn",
+      "pos" : "n.",
+      "word" : "generalization"
+    },
+    {
+      "collocations" : [
+        "brand generalizing：品牌推广"
+      ],
+      "definition" : "概括；归纳；笼统地讲 vt. 普及；扩大……地运",
+      "examples" : [
+
+      ],
+      "mnemonic" : "general(普遍的，一般地)+-ize(动词后缀)→笼统地讲；使……一般化",
+      "phonetic" : "ˈdʒɛnrəˌlaɪz",
+      "pos" : "vi.",
+      "word" : "generalize"
+    },
+    {
+      "collocations" : [
+        "a generalized discussion 笼统的讨论；a generalized disease\/rash (="
+      ],
+      "definition" : "广义的；普遍的；全面的；全身性的",
+      "examples" : [
+
+      ],
+      "frequency" : 11274,
+      "mnemonic" : "generalize(概括；普及)+-d(形容词后缀)→广义的；普遍的；全面的",
+      "phonetic" : "ˈdʒɛnrəlaɪzd",
+      "pos" : "adj.",
+      "word" : "generalized"
+    },
+    {
+      "collocations" : [
+        "generally true：通常是正确的"
+      ],
+      "definition" : "笼统地；通常地；普遍地；广泛地",
+      "examples" : [
+
+      ],
+      "frequency" : 1206,
+      "mnemonic" : "general(大体的，普遍的)+-ly(副词后缀)→笼统地；",
+      "phonetic" : "ˈdʒen(ə)rəlɪ",
+      "pos" : "adv.",
+      "word" : "generally"
+    },
+    {
+      "collocations" : [
+        "generate new jobs：带来新的工作；to generate electricity\/heat\/power 发"
+      ],
+      "definition" : "造成；产生(电等能量) vi. 生成；产生",
+      "examples" : [
+
+      ],
+      "frequency" : 1704,
+      "mnemonic" : "gener(=birth，生、产生)+-ate(复合动词后缀)→产生、发生",
+      "phonetic" : "ˈdʒenəreɪt",
+      "pos" : "vt.",
+      "word" : "generate"
+    },
+    {
+      "collocations" : [
+        "generating set：发电机组"
+      ],
+      "definition" : "发生，产生 vt.&vi 生成 ( generate的现在分词)；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "generate(省略e，发生，产生)+-ing(表现在分词形式，名词后缀)→发",
+      "phonetic" : "ˈdʒenəreɪtɪŋ",
+      "pos" : "n.",
+      "word" : "generating"
+    },
+    {
+      "collocations" : [
+        "regenerate health：恢复健康"
+      ],
+      "definition" : "&vi. 使再生 vt. 重建；复兴",
+      "examples" : [
+
+      ],
+      "frequency" : 15408,
+      "mnemonic" : "re(=again，再)+generate(生成，产生)→再一次产生，使再次恢复活",
+      "phonetic" : "rɪˈdʒenəreɪt",
+      "pos" : "vt.",
+      "word" : "regenerate"
+    },
+    {
+      "collocations" : [
+        "neural regeneration：神经再生"
+      ],
+      "definition" : "再生，重生；重建",
+      "examples" : [
+
+      ],
+      "frequency" : 14419,
+      "mnemonic" : "regenerate(使再生，重建)+ion(名词后缀)→再生，重建",
+      "phonetic" : "rɪdʒenəˈreɪʃn",
+      "pos" : "n.",
+      "word" : "regeneration"
+    },
+    {
+      "collocations" : [
+        "degenerate computer hackers：堕落的计算机黑客"
+      ],
+      "definition" : "恶化；退化；衰落；堕落 n. 退化；恶化 adj. 堕",
+      "etymology" : "1540s, “to lose or suffer impairment to the qualities proper to the race or kind,” also figurative, “decay in quality, pass to an inferior state,” from Latin degeneratus, past participle of degenerare “to be inferior to one’s ancestors, to become unlike one’s race or kind, fall from ancestral quality,” used of physical as well as moral qualities, from phrase de genere, from de “off, away from” (see de-)+genus (genitive generis) “birth, descent” (from PIE root *gene- “give birth, beget”). Figurative sense of “to fall off, decline” was in Latin. Related: Degenerated; degenerating.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "de(=down，表相反、向下、否定)+gener-(产生)+-ate(动词词尾)→与出",
+      "phonetic" : "dɪˈdʒen(ə)rət",
+      "pos" : "vi.",
+      "word" : "degenerate"
+    },
+    {
+      "collocations" : [
+        "severe degeneration of the land：土壤严重贫瘠化 social\/moral"
+      ],
+      "definition" : "恶化；堕落；变性；退化",
+      "examples" : [
+
+      ],
+      "frequency" : 17072,
+      "mnemonic" : "degenerate(恶化，堕落)+-ion(名词后缀)→变质，堕落，退化",
+      "phonetic" : "dɪˌdʒenəˈreɪʃ(ə)n",
+      "pos" : "n.",
+      "word" : "degeneration"
+    },
+    {
+      "collocations" : [
+        "...degenerative diseases of the brain：……大脑退化的疾病"
+      ],
+      "definition" : "(随着时间的推移疾病)变性的，退化的；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "degenerate(恶化，堕落)+-ive(形容词后缀)→变性的，退化的",
+      "phonetic" : "dɪˈdʒen(ə)rətɪv",
+      "pos" : "adj.",
+      "word" : "degenerative"
+    },
+    {
+      "collocations" : [
+        "generation gap：代沟；from generation to generaiton：代代相传"
+      ],
+      "definition" : "(统称)一代人；一代(大约为30年)；家史中的)",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gener(=birth，生、产生)+-ation(动词后缀)→(因为生育、家庭、学",
+      "phonetic" : "dʒenəˈreɪʃ(ə)n",
+      "pos" : "n.",
+      "word" : "generation"
+    },
+    {
+      "collocations" : [
+        "first-generation rocket 第一批火箭"
+      ],
+      "definition" : "出生在美国的；第一代",
+      "examples" : [
+
+      ],
+      "frequency" : 17710,
+      "phonetic" : "ˈfə:stˌdʒenəˈreiʃən",
+      "pos" : "adj.",
+      "word" : "first-generation"
+    },
+    {
+      "collocations" : [
+        "the second hydrocarbon-generation 二次生烃"
+      ],
+      "definition" : "(移民后裔等)第二代的；(产",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈsekəndˌdʒenəˈreʃən",
+      "pos" : "adj.",
+      "word" : "second-generation"
+    },
+    {
+      "collocations" : [
+        "third-generation computer 第三代计算机第三代计算器"
+      ],
+      "definition" : "第三代",
+      "examples" : [
+
+      ],
+      "frequency" : 19422,
+      "phonetic" : "ˈθɜːdˌdʒenəˈreʃən",
+      "pos" : "adj.",
+      "word" : "third-generation"
+    },
+    {
+      "collocations" : [
+        "generational conflict：两代人之间的冲突"
+      ],
+      "definition" : "一代的；代与代之间的",
+      "examples" : [
+
+      ],
+      "frequency" : 12152,
+      "mnemonic" : "generation(代)+-al(形容词后缀)",
+      "phonetic" : "ˌdʒɛnəˈreʃənl",
+      "pos" : "adj.",
+      "word" : "generational"
+    },
+    {
+      "collocations" : [
+        "intergenerational communication 跨代交流"
+      ],
+      "definition" : "影响几代人的；代与代之间的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "inter(之间)+generation(代)+-al(形容词后缀)→影响几代人的；代与代",
+      "phonetic" : "ˌɪntədʒenəˈreɪʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "word" : "intergenerational"
+    },
+    {
+      "collocations" : [
+        "numerous progeny：众多的子孙"
+      ],
+      "definition" : "(人的)后裔；(动物的)后代；后裔；成果",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pro-(=forth，向前，朝向)+-gen(=gene, to produce, beget生育)+-y(名词",
+      "phonetic" : "ˈprɒdʒənɪ",
+      "pos" : "n.",
+      "word" : "progeny"
+    },
+    {
+      "collocations" : [
+        "diesel generator：柴油发电机 cash generator：赚钱机器"
+      ],
+      "definition" : "发电机；促使……发生的人或事物",
+      "examples" : [
+
+      ],
+      "frequency" : 919,
+      "mnemonic" : "gener(发生，产生)+ator(名词后缀)→发电机；产生器",
+      "phonetic" : "ˈdʒenəreɪtə",
+      "pos" : "n.",
+      "word" : "generator"
+    },
+    {
+      "collocations" : [
+        "engender a sense of common humanity：引发一种共同的人道主义精神"
+      ],
+      "definition" : "产生；引起；酿成",
+      "examples" : [
+
+      ],
+      "frequency" : 9493,
+      "mnemonic" : "en-(=enter，进入)+-gene(生育)+-er(动词后缀)→使产生；使引起",
+      "phonetic" : "ɪnˈdʒendə;en-",
+      "pos" : "vt.",
+      "word" : "engender"
+    },
+    {
+      "collocations" : [
+        "switched\/turned the engine off：关掉发动机"
+      ],
+      "definition" : "引擎，发动机；机车，火车头；工具",
+      "examples" : [
+
+      ],
+      "frequency" : 1578,
+      "mnemonic" : "engine来自拉丁语ingenium，由in(内在)+gen(产生)+ium(名词后缀)",
+      "phonetic" : "ˈendʒɪn",
+      "pos" : "n.",
+      "word" : "engine"
+    },
+    {
+      "collocations" : [
+        "a flight engineer：空勤机械师"
+      ],
+      "definition" : "工程师；设计师；机械师 v. 设计；制造；策划",
+      "examples" : [
+
+      ],
+      "frequency" : 2011,
+      "mnemonic" : "engine(引擎，发动机)+er(名词后缀)→工程师；设计师；机械师",
+      "phonetic" : "endʒɪˈnɪə",
+      "pos" : "n.",
+      "word" : "engineer"
+    },
+    {
+      "collocations" : [
+        "be engineered by：由……制造"
+      ],
+      "definition" : "设计的，工程 vt. 设计；制造",
+      "examples" : [
+
+      ],
+      "frequency" : 12694,
+      "mnemonic" : "engineer(设计，策划)+-ed(分词后缀，形容词后缀)→设计的；设计，",
+      "phonetic" : "endʒɪˈnɪəd",
+      "pos" : "adj.",
+      "word" : "engineered"
+    },
+    {
+      "collocations" : [
+        "engineering degree：工程学学位"
+      ],
+      "definition" : "工程，工程学",
+      "examples" : [
+
+      ],
+      "frequency" : 2405,
+      "mnemonic" : "engineer(设计，制造)+-ing(名词后缀)→有关设计、制造的学问→工",
+      "phonetic" : "endʒɪˈnɪərɪŋ",
+      "pos" : "n.",
+      "word" : "engineering"
+    },
+    {
+      "collocations" : [
+        "estrogen test 雌激素试验"
+      ],
+      "definition" : "雌性激素；女性荷尔蒙",
+      "etymology" : "coined 1927 from combining form of estrus+-gen. So called for the hormone’s ability to produce estrus.",
+      "examples" : [
+
+      ],
+      "frequency" : 8021,
+      "mnemonic" : "estro-(=estrus，发情)+-gen(产生)→使发情产生的物质→雌性激素，女",
+      "phonetic" : "ˈestrədʒən",
+      "pos" : "n.",
+      "word" : "estrogen"
+    },
+    {
+      "collocations" : [
+        "a generic term：通用名称 generic wine：普通餐酒 generic drug：非注"
+      ],
+      "definition" : "通用的；非注册商标的(药等产品) n. 非注册商标的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gene(生育，产生)+-ic→非特殊的，没有商标品牌的，包装普通、便",
+      "phonetic" : "dʒɪˈnerɪk",
+      "pos" : "adj.",
+      "word" : "generic"
+    },
+    {
+      "collocations" : [
+        "be generous in：乐于…… a generous gift：丰厚的礼物"
+      ],
+      "definition" : "慷慨的；宽厚的；宽宏大量的，仁慈的；丰富",
+      "etymology" : "1580s, “of noble birth,” from Middle French généreux (14c.), from Latin generosus “of noble birth,” figuratively “magnanimous, generous,” from genus (genitive generis) “race, stock” (from PIE root *gene- “give birth, beget,” with derivatives referring to procreation and familial and tribal groups). Secondary senses of “unselfish” (1690s) and “plentiful” (1610s) in English were present in French and in Latin. Related: Generously; generousness.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gener(不自私的，丰富的)+-ous(形容词后缀)→慷慨的，宽厚的，充",
+      "phonetic" : "ˈdʒen(ə)rəs",
+      "pos" : "adj.",
+      "word" : "generous"
+    },
+    {
+      "collocations" : [
+        "generosity to\/towards sb：对……宽容大度、慷慨大方"
+      ],
+      "definition" : "慷慨，大方；宽宏大量",
+      "examples" : [
+
+      ],
+      "frequency" : 8101,
+      "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-osity(名词后缀，表多的状态)→",
+      "phonetic" : "dʒenəˈrɒsətɪ",
+      "pos" : "n.",
+      "word" : "generosity"
+    },
+    {
+      "collocations" : [
+        "share generously：慷慨地分享"
+      ],
+      "definition" : "宽大地；慷慨地；丰盛地",
+      "examples" : [
+
+      ],
+      "frequency" : 10824,
+      "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-ly(副词后缀)→宽大地；慷慨",
+      "phonetic" : "ˈdʒenərəsli",
+      "pos" : "adv.",
+      "word" : "generously"
+    },
+    {
+      "collocations" : [
+        "the genesis of the universe：宇宙的起源"
+      ],
+      "definition" : "(事物的)开端；诞生；创始；(大写)创世纪",
+      "etymology" : "Old English Genesis, first book of the Pentateuch, which tells among other things of the creation of the world, from Latin genesis “generation, nativity,” in Late Latin taken as the title of first book of the Old Testament, from Greek genesis “origin, creation, generation,” from gignesthai “to be born,” related to genos “race, birth, descent”\" (from PIE root *gene- “give birth, beget,” with derivatives referring to procreation and familial and tribal groups). Greek translators used the word as the title of the biblical book, rendering Hebrew bereshith, literally “in the beginning,” which was the first word of the text, taken as its title. Extended sense of “origin, creation” first recorded in English c. 1600.",
+      "examples" : [
+
+      ],
+      "frequency" : 16350,
+      "mnemonic" : "gen (=to give birth，产生，起源)+-esis(名词后缀)→万物的起源，发",
+      "phonetic" : "ˈdʒenɪsɪs",
+      "pos" : "n.",
+      "word" : "genesis"
+    },
+    {
+      "collocations" : [
+        "a genial smile：亲切的微笑"
+      ],
+      "definition" : "亲切的，友好的；和蔼的；适宜的",
+      "examples" : [
+
+      ],
+      "frequency" : 18074,
+      "mnemonic" : "gen(出生)+-ial(形容词后缀)→亲切的；友好的；和蔼的",
+      "phonetic" : "ˈdʒiːnɪəl",
+      "pos" : "adj.",
+      "word" : "genial"
+    },
+    {
+      "collocations" : [
+        "let the genie out of the bottle：把精灵放出魔瓶〔指做某事造成了无法"
+      ],
+      "definition" : "(阿拉伯和波斯神话故事中的)魔仆；精灵；妖怪",
+      "etymology" : "1650s, “tutelary spirit,” from French génie, from Latin genius (see genius); used in French translation of “Arabian Nights” to render Arabic jinni, singular of jinn, which it accidentally resembled, and attested in English with this sense from 1748. 阿拉伯民间故事集《一千年零一夜》被法国人翻译作法语时，译者用 20000 词 汇巅峰 速 记 genie这个单词来翻译原文，即阿拉伯语中的“jinni”，是阿拉伯语单 词jinn的单数形式，其含义为“神怪、神灵、精灵”，是伊斯兰神话 中地位低于天使，能化成人或兽形的神或精灵。有趣的是，jinni不光 意思也是恶魔、精灵、天使等，读音也和法语单词genie非常接近。 所以，阿拉丁召唤神灯时出现的那个genie其实就是法语版的genius。",
+      "examples" : [
+
+      ],
+      "frequency" : 19261,
+      "phonetic" : "ˈdʒiːnɪ",
+      "pos" : "n.",
+      "word" : "genie"
+    },
+    {
+      "collocations" : [
+        "genital system：生殖系统"
+      ],
+      "definition" : "生殖(器官)的 n. (复数)生器，外阴部",
+      "examples" : [
+
+      ],
+      "frequency" : 14569,
+      "phonetic" : "ˈdʒenɪt(ə)l",
+      "pos" : "adj.",
+      "word" : "genital"
+    },
+    {
+      "collocations" : [
+        "~ for sth\/for doing sth：在……方面有特别的才能或本领"
+      ],
+      "definition" : "天才，天赋；精神",
+      "examples" : [
+
+      ],
+      "frequency" : 4105,
+      "mnemonic" : "tal(=gen：生、出生)+ent(=ant：名词后缀)→天生下来就有的东西→天",
+      "phonetic" : "ˈdʒiːnɪəs",
+      "pos" : "n.",
+      "word" : "genius"
+    },
+    {
+      "collocations" : [
+        "cultural genocide：文化灭种"
+      ],
+      "definition" : "大屠杀；种族灭绝",
+      "examples" : [
+
+      ],
+      "frequency" : 7698,
+      "mnemonic" : "geno(=gene, 生)+-cide(杀)→把某(群)人活生生的杀害、灭绝了→大",
+      "phonetic" : "ˈdʒenəsaɪd",
+      "pos" : "n.",
+      "word" : "genocide"
+    },
+    {
+      "collocations" : [
+        "the mapping of the human genome：人类基因图谱。"
+      ],
+      "definition" : "[生]基因组；[生]染色体组",
+      "etymology" : "“sum total of genes in a set,” 1930, genom, modeled on German genom, coined 1920 by German botanist Hans Winkler, from gen “gene” (see gene)+(chromos)om “chromosome”).",
+      "examples" : [
+
+      ],
+      "frequency" : 7513,
+      "mnemonic" : "gen(e)-(=to give birth, beget，生)+-ome(from“chromosome”染色体)→",
+      "phonetic" : "ˈdʒiːnəʊm",
+      "pos" : "n.",
+      "word" : "genome"
+    },
+    {
+      "collocations" : [
+        "literary genre：文学体裁 genre painting：浮世绘"
+      ],
+      "definition" : "(文学、绘画、音乐、电影等艺术作品的)体裁；类型；流",
+      "etymology" : "1770, “particular style of art,” a French word in English (nativized from c. 1840), from French genre “kind, sort, style” (see gender (n.)). Used especially in French for “independent style.” In painting, as an adjective, “depicting scenes of ordinary life” (a domestic interior or village scene, as compared to landscape, historical, etc.) from 1849.",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈʒɒnrə",
+      "pos" : "n.",
+      "word" : "genre"
+    },
+    {
+      "collocations" : [
+        "genuine sympathy：真心的同情"
+      ],
+      "definition" : "真实的，真正的；诚恳的",
+      "examples" : [
+
+      ],
+      "frequency" : 3784,
+      "mnemonic" : "arti-(工艺、技艺)+fic-(做、制造)+-ial(的)→用人的技艺造出来的→人",
+      "phonetic" : "ˈdʒenjʊɪn",
+      "pos" : "adj.",
+      "word" : "genuine"
+    },
+    {
+      "collocations" : [
+        "a spider genus：蛛属"
+      ],
+      "definition" : "(尤指动植物的)属",
+      "examples" : [
+
+      ],
+      "frequency" : 11089,
+      "mnemonic" : "gen-(基因，遗传)+-us(名词后缀)→具有共同基因特征的动植物→(尤",
+      "phonetic" : "ˈdʒiːnəs;ˈdʒenəs",
+      "pos" : "n.",
+      "word" : "genus"
+    },
+    {
+      "collocations" : [
+        "indigenous population：土著，土著居民"
+      ],
+      "definition" : "本土的；当地的；土生土长的",
+      "examples" : [
+
+      ],
+      "frequency" : 3713,
+      "mnemonic" : "indi-(=in, within，在内，在里)+-gen(=to give birth，beget，生育，孕",
+      "phonetic" : "ɪnˈdɪdʒɪnəs",
+      "pos" : "adj.",
+      "word" : "indigenous"
+    },
+    {
+      "collocations" : [
+        "an ingenious cook：心灵手巧的厨师"
+      ],
+      "definition" : "(物体、计划、思想等)精巧的；新颖独",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in(加强语气)+gen(生产、产生、创造)+ous(形容词后缀，表“大、",
+      "phonetic" : "ɪnˈdʒiːnɪəs",
+      "pos" : "adj.",
+      "word" : "ingenious"
+    },
+    {
+      "collocations" : [
+        "require some ingenuity：需要一些巧妙地心思"
+      ],
+      "definition" : "善于创新；足智多谋；心灵手巧11909",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-(=in，从内心)+gen-(=birth，生)(ingenu=ingenious独创的;灵活的)+-",
+      "phonetic" : "ˌɪndʒɪˈnjuːɪtɪ",
+      "pos" : "n.",
+      "word" : "ingenuity"
+    },
+    {
+      "collocations" : [
+        "a gent’s hairdresser：男宾理发师"
+      ],
+      "definition" : "(非正式的用法，指)绅士；先生；男厕",
+      "examples" : [
+
+      ],
+      "frequency" : 20102,
+      "mnemonic" : "gent=gentleman，与gentle同源，绅士都很温柔",
+      "phonetic" : "dʒent",
+      "pos" : "n.",
+      "word" : "gent"
+    },
+    {
+      "collocations" : [
+        "genteel poverty：家境贫寒却虚摆场面"
+      ],
+      "definition" : "(现在多为讽刺含义)有教养的；文雅的；安宁而古朴",
+      "examples" : [
+
+      ],
+      "mnemonic" : "gent(绅士)+-eel名词后缀→有绅士风格的→有教养的",
+      "phonetic" : "dʒenˈtiːl",
+      "pos" : "adj.",
+      "word" : "genteel"
+    },
+    {
+      "collocations" : [
+        "gentle breeze：微风 gentle and soft：温柔"
+      ],
+      "definition" : "温和的；轻柔的；动作和缓的",
+      "etymology" : "early 13c., gentile, gentle “well-born, of noble rank or family,” from Old French gentil\/jentil “high-born, worthy, noble, of good family; courageous, valiant; fine, good, fair” (11c., in Modern French “nice, graceful, pleasing; fine, pretty”) and directly from Latin gentilis “of the same family or clan,” in Medieval Latin “of noble or good birth”. 来源于古印欧语gen-(生育)在拉丁语中的派生词gentilis，进入古法语 为gentil；gentilis的原始意义是“相同家庭的，好的家庭的”，进入 英语后变为“出身好的，高贵的\/大方的\/有礼貌的”，16世纪后被 “温柔的，纤弱的”所替代。",
+      "examples" : [
+
+      ],
+      "frequency" : 3421,
+      "mnemonic" : "gen-(=to give birth，生)+-tle(形容词后缀)→与生俱来就性情温柔的→",
+      "phonetic" : "ˈdʒent(ə)l",
+      "pos" : "adj.",
+      "word" : "gentle"
+    },
+    {
+      "collocations" : [
+        "a real gentleman：一个真正的君子"
+      ],
+      "definition" : "有教养的；绅士；先生",
+      "examples" : [
+
+      ],
+      "frequency" : 2469,
+      "mnemonic" : "gentle(温柔的)+man(先生)→性格温柔的先生→绅士",
+      "phonetic" : "ˈdʒent(ə)lmən",
+      "pos" : "n.",
+      "word" : "gentleman"
+    },
+    {
+      "collocations" : [
+        "invincible gentleness：无敌的温柔"
+      ],
+      "definition" : "温顺；亲切；高贵；彬彬有礼貌",
+      "examples" : [
+
+      ],
+      "frequency" : 18665,
+      "mnemonic" : "gentle(温柔的)+-ness(名词后缀)→温柔",
+      "phonetic" : "ˈdʒɛntlnɪs",
+      "pos" : "n.",
+      "word" : "gentleness"
+    },
+    {
+      "collocations" : [
+        "gently but firmly：柔中带劲"
+      ],
+      "definition" : "温柔地；温和地；平缓的",
+      "examples" : [
+
+      ],
+      "frequency" : 2776,
+      "mnemonic" : "gent(=gentle)+-ly(副词后缀)→温柔地",
+      "phonetic" : "ˈdʒentlɪ",
+      "pos" : "adv.",
+      "word" : "gently"
+    },
+    {
+      "collocations" : [
+        "in germ：处于萌芽状态"
+      ],
+      "definition" : "细菌；微生物；起源；萌芽",
+      "etymology" : "mid-15c., “bud, sprout;” 1640s, “rudiment of a new organism in an existing one,” from Middle French germe “germ (of egg); bud, seed, fruit; offering,” from Latin germen (genitive germinis) “spring, offshoot; sprout, bud” 20000 词 汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 9465,
+      "mnemonic" : "ger-(=gen，生育，萌芽)+m→微生物是生命的最初萌芽形态→细菌，",
+      "phonetic" : "dʒɜːm",
+      "pos" : "n.",
+      "word" : "germ"
+    },
+    {
+      "collocations" : [
+        "conditioned pathogen：条件致病菌"
+      ],
+      "definition" : "病原体；病菌",
+      "etymology" : "“producing disease,” 1836, from French pathogénique, from Greek pathos “disease” (from PIE root *kwent(h)- “to suffer”)+French -génique “producing” (see -gen). Related: Pathogenetic (1838); pathogenicity.",
+      "examples" : [
+
+      ],
+      "frequency" : 8828,
+      "mnemonic" : "patho-(=disease，疾病的)+-gen(产生)→产生疾病的(根源)→病原体",
+      "phonetic" : "ˈpæθədʒ(ə)n",
+      "pos" : "n.",
+      "word" : "pathogen"
+    },
+    {
+      "collocations" : [
+        "germinate in mind：在头脑中萌发"
+      ],
+      "definition" : "&vi. 使发芽；开始生长 vi. 形成；酝酿",
+      "examples" : [
+
+      ],
+      "frequency" : 18250,
+      "mnemonic" : "germin(=a sprout or bud，芽)+ate(动词后缀)→使发芽，形成",
+      "phonetic" : "ˈdʒɜːmɪneɪt",
+      "pos" : "vt.",
+      "word" : "germinate"
+    },
+    {
+      "collocations" : [
+        "disingenuous behavior：不诚实的行为",
+        "an ingenuous smile：纯真的微笑"
+      ],
+      "definition" : "不真诚的；不诚实的；不坦率的；狡猾",
+      "etymology" : "“lacking in candor, insincere; not open, frank, or candid,” 1650s, from dis- “opposite of”+ingenuous. Related: Disingenuously; disingenuousness; disenginuity (1640s).",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-(否定前缀)+in(=in，在里面，内部出生的)+gen-(生)+-uous(形容词",
+      "phonetic" : "ˌdɪsɪnˈdʒenjʊəs",
+      "pos" : "adj.",
+      "word" : "disingenuous"
+    },
+    {
+      "collocations" : [
+        "a homogeneous group：同一类人"
+      ],
+      "definition" : "同质的；同种的；均匀的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "homo-(=same，同，同一)+-gene-(类型，种属)+-ous(形容词后缀)→生",
+      "phonetic" : "ˌhɒmə(ʊ)ˈdʒiːnɪəs;-ˈdʒen-",
+      "pos" : "adj.",
+      "word" : "homogeneous"
+    },
+    {
+      "collocations" : [
+        "cultural homogeneity：文化同质"
+      ],
+      "definition" : "同种；同质",
+      "examples" : [
+
+      ],
+      "frequency" : 16164,
+      "mnemonic" : "homogeneous(类型，种属)+-ity(名词后缀)→生来就属于同一种类→同",
+      "phonetic" : "ˌhɒmə(ʊ)dʒɪˈneɪɪtɪ;-dʒɪˈniːɪtɪ;ˌhəʊm-",
+      "pos" : "n.",
+      "word" : "homogeneity"
+    },
+    {
+      "collocations" : [
+        "a heterogeneous collection of studies：一系列种类繁多的研究"
+      ],
+      "definition" : "由很多种类组成的；各种各",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hetero-(=different，不同的)+-gene-(类型，种属)+-ous(形容词后缀)→",
+      "phonetic" : "ˌhet(ə)rə(ʊ)ˈdʒiːnɪəs;-ˈdʒen-",
+      "pos" : "adj.",
+      "word" : "heterogeneous"
+    },
+    {
+      "collocations" : [
+        "the heterogeneity of money demand：货币需求异质性"
+      ],
+      "definition" : "[生物] 异质性 [化学] 不均匀性",
+      "examples" : [
+
+      ],
+      "frequency" : 17421,
+      "mnemonic" : "heterogeneous(异质的)+-ity(名词后缀)→异质性",
+      "phonetic" : "ˌhɛtərədʒəˈniəti",
+      "word" : "heterogeneity"
+    },
+    {
+      "collocations" : [
+        "oxygen cycle：氧循环 oxygen content：氧含量"
+      ],
+      "definition" : "氧气；氧",
+      "examples" : [
+
+      ],
+      "frequency" : 3875,
+      "mnemonic" : "oxy-(=acid，sharp)+-gen(产生的东西)→能强烈地帮助气体燃烧→氧气",
+      "phonetic" : "ˈɒksɪdʒ(ə)n",
+      "pos" : "n.",
+      "word" : "oxygen"
+    },
+    {
+      "collocations" : [
+        "Nitrogen Oxide：氮氧化物"
+      ],
+      "definition" : "[化]氮气；氮",
+      "examples" : [
+
+      ],
+      "frequency" : 5967,
+      "mnemonic" : "nitro-(用于指硝石，因研究硝石化学性质时认识这种气体而得名)+-",
+      "phonetic" : "ˈnaɪtrədʒ(ə)n",
+      "pos" : "n.",
+      "word" : "nitrogen"
+    },
+    {
+      "collocations" : [
+        "hydrogen economy：氢能经济"
+      ],
+      "definition" : "氢气；氢",
+      "examples" : [
+
+      ],
+      "frequency" : 5167,
+      "mnemonic" : "hydro-(水)+-gen(生成)→产生水的，因氢接触氧气生成水而得名→",
+      "phonetic" : "ˈhaɪdrədʒ(ə)n",
+      "pos" : "n.",
+      "word" : "hydrogen"
+    },
+    {
+      "collocations" : [
+        "innate immune：先天免疫 innate character：本质"
+      ],
+      "definition" : "先天的；固有的；与生俱来的",
+      "examples" : [
+
+      ],
+      "frequency" : 10443,
+      "mnemonic" : "in-(进入)+-nat(=to be born，from root *gene- “give birth, beget”)+e→出",
+      "phonetic" : "ɪˈneɪt;ˈɪneɪt",
+      "pos" : "adj.",
+      "word" : "innate"
+    },
+    {
+      "collocations" : [
+        "a jaunty tune：轻松活泼的曲子 a jaunty smile：得意扬扬的微笑"
+      ],
+      "definition" : "充满信心和活力的；无忧无虑的；神气活现的；轻松",
+      "etymology" : "also janty, jantee, etc., 1660s, “elegant, stylish,” an imperfect or jocular attempt to render into English the contemporary pronunciation of French gentil “nice, pleasing,” in Old French “noble” (see gentle). Meaning “easy and sprightly in manner” first attested 1670s. The same French word otherwise was Englished as genteel. Related: Jauntily; jauntiness.",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈdʒɔːntɪ",
+      "pos" : "adj.",
+      "word" : "jaunty"
+    },
+    {
+      "collocations" : [
+        "kith and kin：亲戚朋友 next of kin：最近的血亲"
+      ],
+      "definition" : "亲戚；家族；同族",
+      "etymology" : "c. 1200, from Old English cynn “family; race; kind, sort, rank; nature” (also “gender, sex,” a sense obsolete since Middle English), from Proto- Germanic *kunja- “family” (source also of Old Frisian kenn, Old Saxon kunni “kin, kind, race, tribe,” Old Norse kyn, Old High German chunni “kin, race;” Danish kjön, Swedish kön, Middle Dutch, Dutch kunne “sex, gender;” Gothic kuni “family, race,” Old Norse kundr ’son,” German Kind “child”), from PIE root *gene- “give birth, beget,” with derivatives referring to procreation and familial and tribal groups.",
+      "examples" : [
+
+      ],
+      "frequency" : 7478,
+      "phonetic" : "kɪn",
+      "pos" : "n.",
+      "word" : "kin"
+    },
+    {
+      "collocations" : [
+        "one of a kind：独一无二的 all kinds of：各种各样的"
+      ],
+      "definition" : "种类；性质 adj. 仁慈的；良善的",
+      "examples" : [
+
+      ],
+      "frequency" : 250,
+      "mnemonic" : "kind(=class，sort，variety，种类)→种类，性质",
+      "phonetic" : "kaɪnd",
+      "pos" : "n.",
+      "word" : "kind"
+    },
+    {
+      "collocations" : [
+        "kinda invisible：有点像隐形人"
+      ],
+      "definition" : "有几分；有一点",
+      "examples" : [
+
+      ],
+      "frequency" : 10078,
+      "mnemonic" : "1890, representing a casual pronunciation of kind of (see kind (n.)).",
+      "phonetic" : "ˈkaɪndə",
+      "pos" : "adv.",
+      "word" : "kinda"
+    },
+    {
+      "collocations" : [
+        "go to kindergarten：去幼儿园"
+      ],
+      "definition" : "幼儿园；幼稚园",
+      "examples" : [
+
+      ],
+      "frequency" : 6206,
+      "mnemonic" : "kind(来自德语Kinder-Garten，字面意思是儿童的花园)，这种实施幼",
+      "phonetic" : "ˈkɪndəˌgɑːt(ə)n",
+      "pos" : "n.",
+      "word" : "kindergarten"
+    },
+    {
+      "collocations" : [
+        "to kindle a fire\/flame：点火，点燃火焰"
+      ],
+      "definition" : "点燃；激起(兴趣、感情等)",
+      "examples" : [
+
+      ],
+      "frequency" : 17206,
+      "mnemonic" : "kind(=nature)+-le(动词后缀，表反复)(c. 1200, cundel, “to set fire to, to",
+      "phonetic" : "ˈkɪnd(ə)l",
+      "pos" : "vt.",
+      "word" : "kindle"
+    },
+    {
+      "collocations" : [
+        "not take kindly to sth\/sb：不喜欢某事物\/人"
+      ],
+      "definition" : "亲切地；温和地；仁慈地",
+      "examples" : [
+
+      ],
+      "frequency" : 10938,
+      "mnemonic" : "kind(仁慈的，良善的)+-ly(副词后缀)→亲切地；温和地",
+      "phonetic" : "ˈkaɪndlɪ",
+      "pos" : "adv.",
+      "word" : "kindly"
+    },
+    {
+      "collocations" : [
+        "milk of human kindness：恻隐之心，人情"
+      ],
+      "definition" : "仁慈；善良；友好的行为",
+      "examples" : [
+
+      ],
+      "frequency" : 7835,
+      "mnemonic" : "kind(仁慈的)+-ness(名词后缀)→仁慈；善良体贴",
+      "phonetic" : "ˈkaɪn(d)nɪs",
+      "pos" : "n.",
+      "word" : "kindness"
+    },
+    {
+      "collocations" : [
+        "ties of kindred：亲属关系 kindred spirit：志趣相投的人"
+      ],
+      "definition" : "家人；亲属关系 adj. 血缘的；同族的；相近的",
+      "examples" : [
+
+      ],
+      "frequency" : 19717,
+      "mnemonic" : "kind(= kin家属，亲属)+-red(名词后缀)→家人，血缘关系，相近的",
+      "phonetic" : "ˈkɪndrɪd",
+      "pos" : "n.",
+      "word" : "kindred"
+    },
+    {
+      "collocations" : [
+        "the king of the jungle：丛林之王 a king penguin：帝王企鹅"
+      ],
+      "definition" : "国王；佼佼者；……之最；王棋",
+      "examples" : [
+
+      ],
+      "frequency" : 2359,
+      "mnemonic" : "在现代英语中，单词king往往被翻译为“国王”，表示“一国之",
+      "phonetic" : "kɪŋ",
+      "pos" : "n.",
+      "word" : "king"
+    },
+    {
+      "collocations" : [
+        "the animal kingdom：动物界"
+      ],
+      "definition" : "王国；管辖范围；自然三界(动物、植物和矿物)之",
+      "examples" : [
+
+      ],
+      "mnemonic" : "king(君)+-dom(抽象名词后缀，来自古英语 dom“法令，判决”)→君",
+      "phonetic" : "ˈkɪŋdəm",
+      "pos" : "n.",
+      "word" : "kingdom"
+    },
+    {
+      "collocations" : [
+        "the ties of kindship：亲属关系"
+      ],
+      "definition" : "亲属关系；(因出身或态度相似而产生的)亲切感",
+      "examples" : [
+
+      ],
+      "frequency" : 9063,
+      "mnemonic" : "kind(= kin家属，亲属)+-ship(抽象名词后缀)→亲属关系",
+      "phonetic" : "ˈkɪnʃɪp",
+      "pos" : "n.",
+      "word" : "kinship"
+    },
+    {
+      "collocations" : [
+        "malignant cells：恶性癌细胞"
+      ],
+      "definition" : "恶性的；有恶意的；恶毒的",
+      "examples" : [
+
+      ],
+      "frequency" : 12622,
+      "mnemonic" : "mal-(“badly”)+gnant(=-gnus “born” from gignere “to bear, beget,” from",
+      "phonetic" : "məˈlɪgnənt",
+      "pos" : "adj.",
+      "word" : "malignant"
+    },
+    {
+      "collocations" : [
+        "malignancy formation：恶性病变"
+      ],
+      "definition" : "恶性(肿瘤等)；恶意",
+      "examples" : [
+
+      ],
+      "frequency" : 19690,
+      "mnemonic" : "malignant(恶意的)+-cy(名词后缀)→恶性(肿瘤)，恶意",
+      "phonetic" : "məˈlɪgnənsɪ",
+      "pos" : "n.",
+      "word" : "malignancy"
+    },
+    {
+      "collocations" : [
+        "nascent period：发育期 nascent state：新生态"
+      ],
+      "definition" : "新生的；萌芽的；未成熟的",
+      "etymology" : "1620s, “in the act of being born;” 1706 in the figurative sense of “beginning to exist or grow, coming into being,” from Latin nascentem (nominative nascens) “arising young, immature,” present participle of nasci “to be born” (Old Latin gnasci), from PIE root *gene- “give birth, beget.”",
+      "examples" : [
+
+      ],
+      "frequency" : 13666,
+      "phonetic" : "ˈnæs(ə)nt;ˈneɪ-",
+      "pos" : "adj.",
+      "word" : "nascent"
+    },
+    {
+      "collocations" : [
+        "host nation：东道国"
+      ],
+      "definition" : "国家；民族；国民",
+      "examples" : [
+
+      ],
+      "frequency" : 413,
+      "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ion名词词尾→国家；民族",
+      "phonetic" : "ˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "word" : "nation"
+    },
+    {
+      "collocations" : [
+        "national and international news：国内和国际新闻"
+      ],
+      "definition" : "国家的；民族的；全国的",
+      "examples" : [
+
+      ],
+      "frequency" : 232,
+      "mnemonic" : "nation(国家，民族)+-al(形容词后缀)→国家的，民族的",
+      "phonetic" : "ˈnæʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "word" : "national"
+    },
+    {
+      "collocations" : [
+        "economic nationalism：经济民族主义"
+      ],
+      "definition" : "国家主义；民族主义；民族自豪感",
+      "examples" : [
+
+      ],
+      "frequency" : 5695,
+      "mnemonic" : "national(国家的，民族的)+-ism(名词后缀)→国家主义，民族主义",
+      "phonetic" : "ˈnæʃ(ə)n(ə)lɪz(ə)m",
+      "pos" : "n.",
+      "word" : "nationalism"
+    },
+    {
+      "collocations" : [
+        "White Nationalist：白人民族主义者"
+      ],
+      "definition" : "民族主义者；国家主义者；怀有本民族优越感",
+      "examples" : [
+
+      ],
+      "mnemonic" : "national(国家的，民族的)+-ist(名词后缀)→民族主义者，国家主义者",
+      "phonetic" : "ˈnæʃ(ə)n(ə)lɪst",
+      "pos" : "n.",
+      "word" : "nationalist"
+    },
+    {
+      "collocations" : [
+        "nationalistic identity：国家认同"
+      ],
+      "definition" : "民族主义的；国家主义的",
+      "examples" : [
+
+      ],
+      "frequency" : 15026,
+      "mnemonic" : "nationalist(民族主义者，国家主义者)+-ic(形容词后缀)→民族主义",
+      "phonetic" : "ˌnæʃnəˈlɪstɪk",
+      "pos" : "adj.",
+      "word" : "nationalistic"
+    },
+    {
+      "collocations" : [
+        "dual nationality：双重国籍"
+      ],
+      "definition" : "国籍；(构成国家一部分的)民族",
+      "examples" : [
+
+      ],
+      "frequency" : 7892,
+      "mnemonic" : "national(国家的，国民的)+-ity→成为一国国民的标志就是拥有一国国",
+      "phonetic" : "ˌnæʃəˈnælətɪ",
+      "pos" : "n.",
+      "word" : "nationality"
+    },
+    {
+      "collocations" : [
+        "nationalized industries：国有化企业"
+      ],
+      "definition" : "将……国有化；使……收归国有",
+      "examples" : [
+
+      ],
+      "frequency" : 19642,
+      "mnemonic" : "national(国家的，民族的)+-ize(动词后缀，使……)→使……归国家",
+      "phonetic" : "ˈnæʃnəlaɪz",
+      "pos" : "vt.",
+      "word" : "nationalize"
+    },
+    {
+      "collocations" : [
+        "nationally recognized：举国承认"
+      ],
+      "definition" : "全国性地；举国一致地；以国民立场地",
+      "examples" : [
+
+      ],
+      "frequency" : 5359,
+      "mnemonic" : "national(国家的，民族的)+-ly(副词后缀)→全国性的，举国一致的",
+      "phonetic" : "ˈnæʃnəli",
+      "pos" : "adv.",
+      "word" : "nationally"
+    },
+    {
+      "collocations" : [
+        "nation-building party：建国政党"
+      ],
+      "definition" : "国家建设",
+      "examples" : [
+
+      ],
+      "frequency" : 19708,
+      "mnemonic" : "nation(民族，国家)+building(建设)→国家建设",
+      "phonetic" : "ˈneɪʃ(ə)nˈbɪldɪŋ",
+      "pos" : "n.",
+      "word" : "nation-building"
+    },
+    {
+      "collocations" : [
+        "territorial nation-state：地域性民族国家"
+      ],
+      "definition" : "民族国家；单一民族独立国家",
+      "examples" : [
+
+      ],
+      "frequency" : 10781,
+      "mnemonic" : "nation(民族)+state(国家)→民族国家",
+      "phonetic" : "ˌneiʃənˈsteit",
+      "pos" : "n.",
+      "word" : "nation-state"
+    },
+    {
+      "collocations" : [
+        "nation-wide polls：全国性的民意测验"
+      ],
+      "definition" : "全国性的 adv. 遍及全国的",
+      "examples" : [
+
+      ],
+      "frequency" : 4983,
+      "mnemonic" : "nation(国家)+wide(广阔的)→遍及全国的",
+      "phonetic" : "ˈneɪʃ(ə)nwaɪd;-ˈwaɪd",
+      "pos" : "adj.",
+      "word" : "nationwide"
+    },
+    {
+      "collocations" : [
+        "native species：当地的物种 native land：故乡 go native：入乡随俗"
+      ],
+      "definition" : "出生地的；本地的；土著的；属于某地的；与生俱来",
+      "etymology" : "late 14c., natif, “natural, inborn, hereditary, connected with something in a natural way,” from Old French natif “native, born in; raw, unspoiled” 20000 词 汇巅峰 速 记 (14c.) and directly from Latin nativus “innate, produced by birth,” from natus, past participle of nasci (Old Latin gnasci) “be born,” related to gignere “beget,” from PIE root *gene- “give birth, beget. From early 15c. as “born in a particular place, of indigenous origin or growth, not exotic or foreign,” also “of or pertaining to one by birth” (as in native land).",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈneɪtɪv",
+      "pos" : "adj.",
+      "word" : "native"
+    },
+    {
+      "collocations" : [
+        "by nature：本质上 in the nature of something：……之类"
+      ],
+      "definition" : "自然；基本特征；性格；种类",
+      "examples" : [
+
+      ],
+      "frequency" : 697,
+      "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ure(名词后缀)→自然界是",
+      "phonetic" : "ˈneɪtʃə",
+      "pos" : "n.",
+      "word" : "nature"
+    },
+    {
+      "collocations" : [
+        "natural justice\/law：自然公道\/规律 natural yogurt：原味酸奶"
+      ],
+      "definition" : "自然的；不做作的；天生的(行为)；天",
+      "examples" : [
+
+      ],
+      "mnemonic" : "nature(自然，本质)+-al(形容词后缀)→自然的，天生的",
+      "phonetic" : "ˈnætʃrəl",
+      "pos" : "adj.",
+      "word" : "natural"
+    },
+    {
+      "collocations" : [
+        "atheistic naturalism：自然主义无神论"
+      ],
+      "definition" : "自然主义；写实主义",
+      "examples" : [
+
+      ],
+      "frequency" : 20197,
+      "mnemonic" : "natural(自然的)+-ism(名词后缀，表主义)→自然主义",
+      "phonetic" : "ˈnætʃ(ə)rəlɪz(ə)m",
+      "pos" : "n.",
+      "word" : "naturalism"
+    },
+    {
+      "collocations" : [
+        "leading naturalist：领先的博物学家"
+      ],
+      "definition" : "博物学家；自然主义者(英)动物标本剥制者；买",
+      "examples" : [
+
+      ],
+      "mnemonic" : "natural(自然的)+-ist(名词后缀，表……学家、专家)→研究自然界的专",
+      "phonetic" : "ˈnætʃ(ə)rəlɪst",
+      "pos" : "n.",
+      "word" : "naturalist"
+    },
+    {
+      "collocations" : [
+        "naturalistic explanations：自然主义的解释"
+      ],
+      "definition" : "(艺术或写作)自然主义的；写实主义的；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "naturalist(博物学家)+-ic(形容词后缀)→自然主义的，写实的",
+      "phonetic" : "nætʃ(ə)rəˈlɪstɪk",
+      "pos" : "adj.",
+      "word" : "naturalistic"
+    },
+    {
+      "collocations" : [
+        "naturalize something：使……适应某地的生长环境"
+      ],
+      "definition" : "&vi. 移植(植物)；(植物)适应异地生长环境 vt.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "natural(自然的)+-ize(动词后缀，使……)+d(形容词后缀)→使……自然",
+      "phonetic" : "ˈnætʃərəlaɪzd",
+      "pos" : "vt.",
+      "word" : "naturalized"
+    },
+    {
+      "collocations" : [
+        "comes naturally to：(对……而言)轻而易举 naturally preserved：常温",
+        "a naïve question：无知的问题"
+      ],
+      "definition" : "自然而然地；自然地；大方地；天生地",
+      "etymology" : "1650s, “natural, simple, unsophisticated, artless,” from French naïve, fem. of naïf, from Old French naif “naive, natural, genuine; just born; foolish, innocent; unspoiled, unworked” (13c.), from Latin nativus “not artificial,” also “native, rustic,” literally “born, innate, natural” (see native (adj.)). In philosophy, “unreflecting, uncritical” (1895), used of non-philosophers. Related: Naively.",
+      "examples" : [
+        "It is somewhat naïve to expect to be in a dominant\/superior position by"
+      ],
+      "frequency" : 2820,
+      "mnemonic" : "na(=-gna=bear：出生)+ive(的)→刚生出来的→天真的、幼稚的",
+      "phonetic" : "ˈnætʃ(ə)rəlɪ",
+      "pos" : "adv.",
+      "word" : "naturally"
+    },
+    {
+      "collocations" : [
+        "a pregnant pause：耐人寻味的停顿，心照不宣的沉默 pregnant"
+      ],
+      "definition" : "怀孕的；耐人寻味的",
+      "examples" : [
+        "The book, which will be out in English next year, doesn’t dwell on"
+      ],
+      "frequency" : 2652,
+      "mnemonic" : "pre-(=before，前)+gnant(=",
+      "phonetic" : "ˈpregnənt",
+      "pos" : "adj.",
+      "word" : "pregnant"
+    },
+    {
+      "collocations" : [
+        "pregnancy test：妊娠试验"
+      ],
+      "definition" : "怀孕；妊娠；孕期",
+      "examples" : [
+
+      ],
+      "frequency" : 3356,
+      "mnemonic" : "pregnant(怀孕的)+-cy(名词后缀)→怀孕",
+      "phonetic" : "ˈpregnənsɪ",
+      "pos" : "n.",
+      "word" : "pregnancy"
+    },
+    {
+      "collocations" : [
+        "prenatal care：产前保健"
+      ],
+      "definition" : "产前的，孕期的，胎儿期的",
+      "examples" : [
+
+      ],
+      "frequency" : 11483,
+      "mnemonic" : "pre-(在前，早于)+natal(nasci \"to be born\"的过去分词，古拉丁语为",
+      "phonetic" : "priːˈneɪt(ə)l",
+      "pos" : "adj.",
+      "word" : "prenatal"
+    },
+    {
+      "collocations" : [
+        "puny effort\/attempt：微不足道的努力"
+      ],
+      "definition" : "弱小的，孱弱的；不起眼的，微不足道的",
+      "examples" : [
+
+      ],
+      "frequency" : 16452,
+      "mnemonic" : "来自古法语puisne(=afterward，hereafter，from puis在此之后)+ny(=né\/",
+      "phonetic" : "ˈpjuːnɪ",
+      "pos" : "adj.",
+      "word" : "puny"
+    },
+    {
+      "collocations" : [
+        "Renaissance music：文艺复兴音乐"
+      ],
+      "definition" : "(艺术等的)新生，复活；(Renaissance)文艺复兴",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-(=again，再次，重新)+naiss(=nasci，古拉丁语为gnasci，生育，出",
+      "phonetic" : "rɪˈneɪsns",
+      "pos" : "n.",
+      "word" : "renaissance"
+    },
+    {
+      "collocations" : [
+        "social heritage：社会遗产"
+      ],
+      "definition" : "遗产、继承物",
+      "examples" : [
+
+      ],
+      "mnemonic" : "heri(遗传)+t(无意义)+age(名词后缀)→遗传下来的东西→遗产、继",
+      "phonetic" : "ˈheritidʒ",
+      "pos" : "n.",
+      "word" : "heritage"
+    },
+    {
+      "collocations" : [
+        "hereditary monarchy：世袭君主制"
+      ],
+      "definition" : "遗传的；世袭的；世代相传的14286",
+      "examples" : [
+
+      ],
+      "mnemonic" : "heredity(=古拉丁语hereditatem heirship, inheritance，继承，继承权，",
+      "phonetic" : "hɪˈredɪt(ə)rɪ",
+      "pos" : "adj.",
+      "word" : "hereditary"
+    },
+    {
+      "collocations" : [
+        "inherit property：继承财产"
+      ],
+      "definition" : "继承(财产)；接任；经遗传而得(特征、品质等)",
+      "examples" : [
+        "The result could be a group of young people that, like their boomer"
+      ],
+      "frequency" : 4519,
+      "mnemonic" : "in-(加强语气)+her-(遗传、继承)+-it(动词后缀)→继承、成为继承人",
+      "phonetic" : "inˈherit",
+      "pos" : "v.",
+      "word" : "inherit"
+    },
+    {
+      "collocations" : [
+        "inheritance tax：遗产税"
+      ],
+      "definition" : "继承物；遗产；沿袭物；遗传特征",
+      "examples" : [
+
+      ],
+      "frequency" : 7801,
+      "mnemonic" : "inherit(继承)+-ance(名词后缀)→由继承而得的东西→继承物，遗产",
+      "phonetic" : "ɪnˈherɪt(ə)ns",
+      "pos" : "n.",
+      "word" : "inheritance"
+    },
+    {
+      "collocations" : [
+        "inherited stability：遗传稳定性"
+      ],
+      "definition" : "遗传的；继承权的；通过继承得到13732",
+      "examples" : [
+
+      ],
+      "mnemonic" : "inherit(继承)+-ed(形容词后缀)→继承的，遗传的",
+      "phonetic" : "ɪnˈherɪtɪd",
+      "pos" : "adj.",
+      "word" : "inherited"
+    },
+    {
+      "collocations" : [
+        "legal inheritor：法定继承人"
+      ],
+      "definition" : "继承人，后继者；遗产继承人",
+      "examples" : [
+
+      ],
+      "mnemonic" : "inherit(继承)+-or→继承人，后继者；遗产继承人",
+      "phonetic" : "inˈheritə",
+      "pos" : "n.",
+      "word" : "inheritor"
+    },
+    {
+      "collocations" : [
+        "the inherent laziness in human nature：人性中固有的懒惰"
+      ],
+      "definition" : "固有的；内在的；天生的",
+      "examples" : [
+
+      ],
+      "frequency" : 4981,
+      "mnemonic" : "in-(=into：里面)+her-(生、粘黏)+-ent(形容词后缀，……的)→“生”",
+      "phonetic" : "inˈhiərənt",
+      "pos" : "adj.",
+      "word" : "inherent"
+    },
+    {
+      "collocations" : [
+        "an inherently unworkable system：根本行不通的体制"
+      ],
+      "definition" : "内在地；固有地；天性地",
+      "examples" : [
+
+      ],
+      "frequency" : 7815,
+      "mnemonic" : "inherent(固有的)+-ly(副词后缀)→内在的，固有地",
+      "phonetic" : "ɪnˈhɪərəntlɪ",
+      "pos" : "adv.",
+      "word" : "inherently"
+    },
+    {
+      "collocations" : [
+        "adhere to：坚持……，黏住……",
+        "cling to：坚持、坚守"
+      ],
+      "definition" : "遵守；黏附，附着；坚持",
+      "examples" : [
+        "They tended to stay together and cling to their old ways."
+      ],
+      "frequency" : 6620,
+      "mnemonic" : "clin(=-her：粘、黏)+g(无意义)→粘着、坚持、紧贴",
+      "phonetic" : "ədˈhiə",
+      "pos" : "vi.",
+      "word" : "adhere"
+    },
+    {
+      "collocations" : [
+        "adherence to faith：对信仰的坚持"
+      ],
+      "definition" : "遵守；坚持；依附；忠诚",
+      "examples" : [
+
+      ],
+      "frequency" : 10236,
+      "mnemonic" : "adhere(遵守，黏附，坚持)+-ence(名词后缀)→遵守，坚持，依附",
+      "phonetic" : "ədˈhɪərəns",
+      "pos" : "n.",
+      "word" : "adherence"
+    },
+    {
+      "collocations" : [
+        "adherent water：静水"
+      ],
+      "definition" : "(政党、思想的)拥护者，追随者，信徒",
+      "examples" : [
+
+      ],
+      "frequency" : 13050,
+      "mnemonic" : "ad(=to：加强语气)+-her-(粘住，引申为跟随、依附)+ent(名词后缀)→",
+      "phonetic" : "ədˈhɪər(ə)nt",
+      "pos" : "n.",
+      "word" : "adherent"
+    },
+    {
+      "collocations" : [
+        "adhesive power：黏附力"
+      ],
+      "definition" : "粘合剂；胶黏剂",
+      "examples" : [
+
+      ],
+      "frequency" : 17954,
+      "mnemonic" : "adhesive = ad+he(r)(粘附)+sive(形容词后缀)→粘性的",
+      "phonetic" : "ədˈhiːsɪv;-zɪv",
+      "pos" : "n.",
+      "word" : "adhesive"
+    },
+    {
+      "collocations" : [
+        "cohere…with：与……连贯，协调"
+      ],
+      "definition" : "连贯；一致；齐心协力；凝聚",
+      "examples" : [
+
+      ],
+      "mnemonic" : "co(一起、共同)+her(粘着，粘附)+e→粘到一起→连贯，一致，粘着",
+      "phonetic" : "kəuˈhiə",
+      "pos" : "vi.",
+      "word" : "cohere"
+    },
+    {
+      "collocations" : [
+        "a coherent narrative\/account\/explanation：条理清楚的叙述、描述、"
+      ],
+      "definition" : "合乎逻辑的；有条理的；有表达能力的；连贯",
+      "examples" : [
+
+      ],
+      "mnemonic" : "co-(加强意义)+-her-(粘着，粘附)+-ent(形容词词缀)→连贯的，一致的",
+      "phonetic" : "kəuˈhiərənt",
+      "pos" : "adj.",
+      "word" : "coherent"
+    },
+    {
+      "collocations" : [
+        "an incoherent policy：前后不一致的政策"
+      ],
+      "definition" : "语无伦次的；不清楚的，难以分辨的；无",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-(否定前缀)+coherent(合乎逻辑的，有条理的，连贯的)→语无伦次",
+      "phonetic" : "ɪnkə(ʊ)ˈhɪər(ə)nt",
+      "pos" : "adj.",
+      "word" : "incoherent"
+    },
+    {
+      "collocations" : [
+        "textual coherence：语篇连贯"
+      ],
+      "definition" : "连贯性；条理性",
+      "examples" : [
+
+      ],
+      "frequency" : 11792,
+      "mnemonic" : "coherent(连贯的，有条理的)+-ce(名词后缀)→连贯性，条理性",
+      "phonetic" : "kə(ʊ)ˈhɪər(ə)ns;kə(ʊ)ˈhɪərəns",
+      "pos" : "n.",
+      "word" : "coherence"
+    },
+    {
+      "collocations" : [
+        "national cohesion：民族凝聚力"
+      ],
+      "definition" : "凝聚力；黏合；结合；内聚力",
+      "examples" : [
+
+      ],
+      "frequency" : 11092,
+      "mnemonic" : "co-(加强意义)+-hes-(粘着，粘附)+-ion(名词后缀)→凝聚力",
+      "phonetic" : "kə(ʊ)ˈhiːʒ(ə)n",
+      "pos" : "n.",
+      "word" : "cohesion"
+    },
+    {
+      "collocations" : [
+        "a cohesive group：一个紧密团结的群体"
+      ],
+      "definition" : "有聚合力的；结成一个整体的；使凝结的",
+      "examples" : [
+
+      ],
+      "frequency" : 13360,
+      "mnemonic" : "co-(加强意义)+-hes-(粘着，粘附)+-ive(形容词词缀)→有聚合力的；使",
+      "phonetic" : "kəʊˈhiːsɪv",
+      "pos" : "adj.",
+      "word" : "cohesive"
+    },
+    {
+      "collocations" : [
+        "a hesitant smile：勉强的微笑"
+      ],
+      "definition" : "迟疑不决的；犹豫的；踌躇的；不情愿的",
+      "examples" : [
+
+      ],
+      "frequency" : 9675,
+      "mnemonic" : "hesit-(= to stick fast，to hesitate，to stammer 犹豫)+-ant(形容词后缀)→",
+      "phonetic" : "ˈhezɪt(ə)nt",
+      "pos" : "adj.",
+      "word" : "hesitant"
+    },
+    {
+      "collocations" : [
+        "reply hesitantly：迟疑地回答"
+      ],
+      "definition" : "迟疑地；踌躇地",
+      "examples" : [
+
+      ],
+      "frequency" : 17321,
+      "mnemonic" : "hesitant(迟疑不决的)+-ly(副词后缀)→迟疑地，踌躇的",
+      "phonetic" : "ˈhɛzətəntli",
+      "pos" : "adv.",
+      "word" : "hesitantly"
+    },
+    {
+      "collocations" : [
+        "He who hesitates is lost. 当断不断，反受其乱。"
+      ],
+      "definition" : "(对某事)踌躇，犹豫，迟疑不决；顾虑，疑虑",
+      "examples" : [
+
+      ],
+      "frequency" : 3958,
+      "mnemonic" : "hesit-(来源于拉丁语中由haerere(粘着，粘附)派生的haesitare，其潜在",
+      "phonetic" : "ˈhezɪteɪt",
+      "pos" : "vi.",
+      "word" : "hesitate"
+    },
+    {
+      "collocations" : [
+        "without hesitation：毫不犹豫的"
+      ],
+      "definition" : "犹豫；迟疑；勉强；不情愿",
+      "etymology" : "Proto-Indo-European root meaning “to collect, gather,” with derivatives meaning “to speak” on the notion of “to gather words, to pick out words.” It is the hypothetical source of\/evidence for its existence is provided by: Greek legein “to say, tell, speak, declare; to count,” originally, in Homer, “to pick out, select, collect, enumerate;” lexis “speech, diction;” logos “word, speech, thought, account;” Latin legere “to gather, choose, pluck; read,” lignum “wood, firewood,” literally “that which is gathered,” legare “to depute, commission, charge,” lex “law” (perhaps “collection of rules”); Albanian mb-ledh “to collect, harvest;” Gothic lisan “to collect, harvest,” Lithuanian lesti “to pick, eat picking;” Hittite less-zi “to pick, gather.” 20000 词 汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 8233,
+      "mnemonic" : "hesit-(haesi, to adhere, stick, cling黏附，附着)+-ation(名词后缀)→黏附",
+      "phonetic" : "hezɪˈteɪʃn",
+      "pos" : "n.",
+      "word" : "hesitation"
+    },
+    {
+      "collocations" : [
+        "to collect data\/evidence\/information：收集资料，证据，信息"
+      ],
+      "definition" : "&vi. 采集；收集(邮票或书等)；募捐；聚集(光、能量或",
+      "examples" : [
+
+      ],
+      "mnemonic" : "col-(=com：together，共同)+-lect-(=to collect：采集)→共同采集→收",
+      "phonetic" : "kəˈlekt",
+      "pos" : "vt.",
+      "word" : "collect"
+    },
+    {
+      "collocations" : [
+        "solar collector：太阳能集热器 a stamp collector：集邮者"
+      ],
+      "definition" : "收藏家；收集者；收税员；征收者",
+      "examples" : [
+
+      ],
+      "frequency" : 4013,
+      "mnemonic" : "collect(收集)+-or(名词后缀，表示人)→专门收集东西(如钱、款、票",
+      "phonetic" : "kəˈlektə",
+      "pos" : "n.",
+      "word" : "collector"
+    },
+    {
+      "collocations" : [
+        "collected works, papers, poems, etc.：作品、论文、诗歌等收成全集的"
+      ],
+      "definition" : "作品、信件)收成全集的；(尤指在困难或危急情境",
+      "etymology" : "“having control of one's mental faculties, self-possessed,” c. 1600",
+      "examples" : [
+
+      ],
+      "mnemonic" : "collect(收集)+-ed(形容词后缀)→集合而成的，稳而不乱的→收集的，",
+      "phonetic" : "kəˈlektɪd",
+      "pos" : "adj.",
+      "word" : "collected"
+    },
+    {
+      "collocations" : [
+        "insect collecting：昆虫收集"
+      ],
+      "definition" : "收集；收藏；聚积 adj. (罐子或盒子)用于募集捐款",
+      "examples" : [
+
+      ],
+      "mnemonic" : "collect(收集)+-ing(分词和形容词后缀)→收集，采集",
+      "phonetic" : "kəˈlektɪŋ",
+      "pos" : "vt.",
+      "word" : "collecting"
+    },
+    {
+      "collocations" : [
+        "spring\/summer collection：春\/夏装系列 a collection of：一批"
+      ],
+      "definition" : "收藏品；(故事、诗歌或文章的)作品集；一堆，一",
+      "examples" : [
+
+      ],
+      "mnemonic" : "collect(收集)+-ion(名词后缀)→收藏的物品→收藏品，作品集，募捐",
+      "phonetic" : "kəˈlekʃ(ə)n",
+      "pos" : "n.",
+      "word" : "collection"
+    },
+    {
+      "collocations" : [
+        "collective economy：集体经济 collective ownership：集体所有制"
+      ],
+      "definition" : "集体的；共同的；集合的 n. 集体企业；合作农场",
+      "examples" : [
+
+      ],
+      "mnemonic" : "collect(收集)+-ive(形容词后缀)→集体的，总体的",
+      "phonetic" : "kəˈlektɪv",
+      "pos" : "adj.",
+      "word" : "collective"
+    },
+    {
+      "collocations" : [
+        "fight collectively：集体去战斗"
+      ],
+      "definition" : "集体地；共同地",
+      "examples" : [
+
+      ],
+      "frequency" : 7670,
+      "mnemonic" : "collective(集体的)+-ly(副词后缀)→集体地",
+      "phonetic" : "kəˈlektivli",
+      "pos" : "adv.",
+      "word" : "collectively"
+    },
+    {
+      "collocations" : [
+        "an anthology of poetry：一本诗歌选集"
+      ],
+      "definition" : "(诗、文、曲、画等的)选集",
+      "examples" : [
+
+      ],
+      "frequency" : 10536,
+      "mnemonic" : "antho-(=anthos：花)+-logy(=to collect，gather：收集)→花的集合",
+      "phonetic" : "ænˈθɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "anthology"
+    },
+    {
+      "collocations" : [
+        "elect sb.(to sth)：推举某人做某事 elect a new president：选出一位新"
+      ],
+      "definition" : "选举；蒙上帝拣选(得救)的；决定 adj. 卓越的；当选(而未就",
+      "examples" : [
+
+      ],
+      "mnemonic" : "e-(=ex：向外)+-lect(=to choose：选出)→挑选出来的→选举，卓越的",
+      "phonetic" : "ɪˈlekt",
+      "pos" : "vt.",
+      "word" : "elect"
+    },
+    {
+      "collocations" : [
+        "the president-elect’s best proposal：当选总统最好的提议"
+      ],
+      "definition" : "候任总统；候任主席",
+      "examples" : [
+
+      ],
+      "frequency" : 8920,
+      "mnemonic" : "president(总统，主席)+elect(当选而尚未就职的)→候任总统或主席",
+      "phonetic" : "ˈprezidəntiˈlekt",
+      "pos" : "n.",
+      "word" : "president-elect"
+    },
+    {
+      "collocations" : [
+        "to stand for re-election：二度参选 to run for re-election：争取再次当选"
+      ],
+      "definition" : "& n. 再次当选",
+      "examples" : [
+
+      ],
+      "frequency" : 10402,
+      "mnemonic" : "re-(=again：再次)+elect(选举)→再次当选",
+      "phonetic" : "ˌri:iˈlekt",
+      "pos" : "vt.",
+      "word" : "re-elect"
+    },
+    {
+      "collocations" : [
+        "re-election committee：争取连任委员会"
+      ],
+      "definition" : "改选；重选；再次竞选",
+      "examples" : [
+
+      ],
+      "frequency" : 5907,
+      "mnemonic" : "re-elect(再次当选)+-ion(名词后缀)→再次竞选",
+      "phonetic" : "ˌri:iˈlekʃən",
+      "pos" : "n.",
+      "word" : "re-election"
+    },
+    {
+      "collocations" : [
+        "elected chairman：选出的主席"
+      ],
+      "definition" : "选举出来的",
+      "examples" : [
+
+      ],
+      "frequency" : 5445,
+      "mnemonic" : "elect(选举)+-ed(形容词后缀)→选举出来的",
+      "phonetic" : "ɪˈlektɪd",
+      "pos" : "adj.",
+      "word" : "elected"
+    },
+    {
+      "collocations" : [
+        "to run for election：参加竞选 election as sth.：当选为……"
+      ],
+      "definition" : "选举；推选(尤指从政)；当选[基督教]上帝的拣选",
+      "examples" : [
+
+      ],
+      "frequency" : 802,
+      "mnemonic" : "elect(选举)+-ion(名词后缀)→选举，推选",
+      "phonetic" : "ɪˈlekʃ(ə)n",
+      "pos" : "n.",
+      "word" : "election"
+    },
+    {
+      "collocations" : [
+        "an elective body：有选举权的机构 elective surgery：非急需施行的手术"
+      ],
+      "definition" : "选任的；有选举权的；(手术)选择性的",
+      "examples" : [
+
+      ],
+      "frequency" : 12259,
+      "mnemonic" : "elect(选举)+-ive(形容词后缀)→选任的，有选举权的",
+      "phonetic" : "ɪˈlektɪv",
+      "pos" : "adj.",
+      "word" : "elective"
+    },
+    {
+      "collocations" : [
+        "electoral fraud：选举舞弊 electoral systems\/reforms：选举制度\/改革"
+      ],
+      "definition" : "与选举有关的",
+      "examples" : [
+
+      ],
+      "frequency" : 5150,
+      "mnemonic" : "e-(=ex：out，出来)+-lect-(选)+-or(名词后缀，表示人)+-al(形容词后",
+      "phonetic" : "ɪˈlekt(ə)r(ə)l",
+      "pos" : "adj.",
+      "word" : "electoral"
+    },
+    {
+      "collocations" : [
+        "(N-COUNT-COLL)(一国或一地区的)全体选民 The electorate of a"
+      ],
+      "definition" : "(一国或一地区的)全体选民；选区",
+      "etymology" : "1670s, “condition of being an elector,” in reference to Germany, from elector+-ate (1). 20000 词 汇巅峰 速 记 笔 记 区 Meaning “whole body of voters” is from 1879.",
+      "examples" : [
+
+      ],
+      "frequency" : 8797,
+      "mnemonic" : "elector(选民)+-ate(名词后缀，表示人)→选民的集合→全体选民",
+      "phonetic" : "ɪˈlekt(ə)rət",
+      "pos" : "n.",
+      "word" : "electorate"
+    },
+    {
+      "collocations" : [
+        "...an eclectic collection of paintings, drawings, and prints：……一批油"
+      ],
+      "definition" : "兼收并蓄的；五花八门的；不拘一格的 n. 兼收并蓄",
+      "etymology" : "1680s, “not confined to or following any one model or system,” originally in reference to ancient philosophers who selected doctrines from every system; from French eclectique (1650s), from Greek eklektikos “selective,” literally “picking out,” from eklektos “selected,” from eklegein “pick out, select”. Broader sense of “borrowed from diverse sources” is first recorded 1847. As a noun from 1817.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "e-(=ex：out，选出)+-lect-(=lec-：to collect, gather，聚集，采集)+-",
+      "phonetic" : "ɪˈklektɪk",
+      "pos" : "adj.",
+      "word" : "eclectic"
+    },
+    {
+      "collocations" : [
+        "a very select party：一个非常豪华的聚会"
+      ],
+      "definition" : "挑选；选拔；(在屏幕上)选定(某文件或某段文本以作特别",
+      "etymology" : "1560s, from Latin selectus, past participle of seligere “choose out, single out, select; separate, cull”. The noun meaning “a selected person or thing, that which is choice” is recorded from c. 1600. New England selectman first recorded 1640s.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "se-(=apart：分开)+-lect(=to gather, select：收集，挑选)→把人或事物",
+      "phonetic" : "sɪˈlekt",
+      "pos" : "vt.",
+      "word" : "select"
+    },
+    {
+      "collocations" : [
+        "selected materials：用料上乘"
+      ],
+      "definition" : "挑选出来的",
+      "examples" : [
+
+      ],
+      "frequency" : 4988,
+      "mnemonic" : "select(挑选，精选)+-ed(形容词后缀)→挑选出来的",
+      "phonetic" : "sɪˈlektɪd",
+      "pos" : "adj.",
+      "word" : "selected"
+    },
+    {
+      "collocations" : [
+        "a selection of popular songs：精选的通俗歌曲 natural selection：自然"
+      ],
+      "definition" : "挑选；挑选出来的一批人(或事物)；(商店内)可供挑",
+      "examples" : [
+
+      ],
+      "mnemonic" : "select(挑选)+-ion(名词后缀)→选择，选集，精选品",
+      "phonetic" : "sɪˈlekʃ(ə)n",
+      "pos" : "n.",
+      "word" : "selection"
+    },
+    {
+      "collocations" : [
+        "selective breeding；选择性育种"
+      ],
+      "definition" : "选择性的；仔细挑选的；(记忆)选择性的",
+      "examples" : [
+
+      ],
+      "frequency" : 6292,
+      "mnemonic" : "select(挑选)+-ive(形容词后缀)→精挑细选的",
+      "phonetic" : "sɪˈlektɪv",
+      "pos" : "adj.",
+      "word" : "selective"
+    },
+    {
+      "collocations" : [
+        "selectively bred populations：选择性繁育群体"
+      ],
+      "definition" : "有选择地",
+      "examples" : [
+
+      ],
+      "frequency" : 13040,
+      "mnemonic" : "selective(仔细挑选的)+-ly(副词后缀)→有选择地",
+      "phonetic" : "səˈlɛktɪvli",
+      "pos" : "adv.",
+      "word" : "selectively"
+    },
+    {
+      "collocations" : [
+        "recollect oneself：想起一时忘记的事"
+      ],
+      "definition" : "回忆起；记得",
+      "etymology" : "“to recover or recall knowledge of, bring back to the mind or memory,” 1550s, from Latin recollectus, past participle of recolligere, “to take up again, regain,” etymologically “to collect again”. 词义辨异：remember和recollect：remember自然而然想起，后接动名词或不 定时，recollect努力回忆，追忆",
+      "examples" : [
+
+      ],
+      "frequency" : 18799,
+      "mnemonic" : "re-(再)+collect(=gather：采集)→把(往事)采集回来→回忆起，记得",
+      "phonetic" : "ˌrekəˈlekt",
+      "pos" : "vt.",
+      "word" : "recollect"
+    },
+    {
+      "collocations" : [
+        "recollection of sth\/of doing sth：对……有记忆"
+      ],
+      "definition" : "回忆；记忆力；往事",
+      "examples" : [
+
+      ],
+      "frequency" : 8032,
+      "mnemonic" : "recollect(回忆起)+-ion(名词后缀)→记忆，往事",
+      "phonetic" : "ˌrekəˈlekʃ(ə)n",
+      "pos" : "n.",
+      "word" : "recollection"
+    },
+    {
+      "collocations" : [
+        "diligent in：勤勉于……，勤奋好学"
+      ],
+      "definition" : "孜孜不倦的；勤勉的；费尽心血的",
+      "examples" : [
+
+      ],
+      "frequency" : 14661,
+      "mnemonic" : "di-(=dis=apart：分离，分开)+-lig-(=choose，gather：选择，收集)+-",
+      "phonetic" : "ˈdɪlɪdʒ(ə)nt",
+      "pos" : "adj.",
+      "word" : "diligent"
+    },
+    {
+      "collocations" : [
+        "love diligently：用心爱"
+      ],
+      "definition" : "勤奋地；勤勉地",
+      "examples" : [
+
+      ],
+      "frequency" : 14414,
+      "mnemonic" : "diligent(勤勉的)+-ly(副词后缀)→勤奋地",
+      "phonetic" : "ˈdɪlədʒəntli",
+      "pos" : "adv.",
+      "word" : "diligently"
+    },
+    {
+      "collocations" : [
+        "due diligence：尽职调查"
+      ],
+      "definition" : "勤奋，勤勉；用功",
+      "etymology" : "mid-14c., “constant and earnest effort to accomplish what is undertaken,” from Old French diligence “attention, care; haste, speed” and directly from Latin diligentia “attentiveness, carefulness,” from diligentem (nominative diligens) “attentive, assiduous, careful,” present-participle adjective from diligere “single out, value highly, esteem, prize, love; aspire to, be content with, appreciate,” originally “to pick out, select,” from dis- “apart” (see dis-)+legere “choose, gather”.",
+      "examples" : [
+
+      ],
+      "frequency" : 15252,
+      "mnemonic" : "dilig(=diligent：勤勉的)+-ence(名词后缀)→勤奋，勤勉，用功",
+      "phonetic" : "ˈdɪlɪdʒ(ə)ns",
+      "pos" : "n.",
+      "word" : "diligence"
+    },
+    {
+      "collocations" : [
+        "an elegant dress：高雅的连衣裙"
+      ],
+      "definition" : "(人或其举止)优雅的；漂亮雅致的；简明的",
+      "etymology" : "late 15c., “tastefully ornate,” from Middle French élégant (15c.), from Latin elegantem (nominative elegans) “choice, fine, tasteful,” collateral form of present participle of eligere “select with care, choose”. Meaning 20000 词 汇巅峰 速 记 “characterized by refined grace” is from 1520s. Latin elegans originally was a term of reproach, “dainty, fastidious;” the notion of “tastefully refined” emerged in classical Latin. Related: Elegantly.",
+      "examples" : [
+
+      ],
+      "frequency" : 3979,
+      "mnemonic" : "e-(=ex-：out，出)+-leg-(=to collect，采集)+-ant (形容词后缀，……",
+      "phonetic" : "ˈelɪg(ə)nt",
+      "pos" : "adj.",
+      "word" : "elegant"
+    },
+    {
+      "collocations" : [
+        "modern elegance：现代优雅"
+      ],
+      "definition" : "典雅；高雅",
+      "examples" : [
+
+      ],
+      "frequency" : 9499,
+      "mnemonic" : "eleg(=elegant：优雅的)+-ance(名词后缀)→典雅，高雅",
+      "phonetic" : "ˈelɪg(ə)ns",
+      "pos" : "n.",
+      "word" : "elegance"
+    },
+    {
+      "collocations" : [
+        "dress elegantly：穿得优美 elegantly healthy：高雅健康"
+      ],
+      "definition" : "优美地",
+      "examples" : [
+
+      ],
+      "frequency" : 13269,
+      "mnemonic" : "elegant(优美的，雅致的)+-ly(副词后缀)→优美地；优雅地",
+      "phonetic" : "ˈɛləgəntli",
+      "pos" : "adv.",
+      "word" : "elegantly"
+    },
+    {
+      "collocations" : [
+        "eligible voter：符合资格的选民 eligible securities：符合资格的证券"
+      ],
+      "definition" : "有资格的；符合条件的；有能力的；(作为结婚对",
+      "etymology" : "early 15c., “fit or proper to be chosen,” from Old French eligible “fit to be chosen” (14c.), from Late Latin eligibilis “that may be chosen,” from Latin eligere “choose”. Related: Eligibly.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "e-(=ex-：出)+-lig-(=collect：采集)+-ible(形容词后缀，可能性)→采集",
+      "phonetic" : "ˈelɪdʒɪb(ə)l",
+      "pos" : "adj.",
+      "word" : "eligible"
+    },
+    {
+      "collocations" : [
+        "ineligible acceptance：不合格的银行承兑汇票"
+      ],
+      "definition" : "不合格的；无资格的",
+      "examples" : [
+
+      ],
+      "frequency" : 15964,
+      "mnemonic" : "in-(否定前缀)+eligible(合格的)→不合格的",
+      "phonetic" : "ɪnˈelɪdʒɪb(ə)l",
+      "pos" : "adj.",
+      "word" : "ineligible"
+    },
+    {
+      "collocations" : [
+        "candidate eligibility：候选资格"
+      ],
+      "definition" : "被选举资格；适任，合格",
+      "examples" : [
+
+      ],
+      "frequency" : 8559,
+      "mnemonic" : "eligible(有资格的，符合条件的)+-ity(名词后缀)→worthiness to be",
+      "phonetic" : "ˌelɪdʒəˈbɪlətɪ",
+      "pos" : "n.",
+      "word" : "eligibility"
+    },
+    {
+      "collocations" : [
+        "neglect of duty：玩忽职守"
+      ],
+      "definition" : "疏于照管；忽视；疏忽 n. 忽视",
+      "examples" : [
+
+      ],
+      "frequency" : 5125,
+      "mnemonic" : "neg-(=ne：not，否定前缀)+-lect(=to pick up，select：捡起，挑选)→没",
+      "phonetic" : "nɪˈglekt",
+      "pos" : "vt.",
+      "word" : "neglect"
+    },
+    {
+      "collocations" : [
+        "neglected tropical diseases：被忽视的热带疾病"
+      ],
+      "definition" : "疏于照管；忽视；疏忽adj. 被忽视的；未被好好照",
+      "examples" : [
+
+      ],
+      "mnemonic" : "neglect(忽视)+-ed(形容词后缀)→被忽视的",
+      "phonetic" : "nɪˈglektɪd",
+      "pos" : "vt.",
+      "word" : "neglected"
+    },
+    {
+      "collocations" : [
+        "grossly negligent：严重失职"
+      ],
+      "definition" : "渎职的；疏忽的；放松的；随便的",
+      "examples" : [
+
+      ],
+      "frequency" : 14506,
+      "mnemonic" : "neg-(否认)+-lig-(采集)+-ent(形容词后缀)→渎职的，疏忽的→未被采",
+      "phonetic" : "ˈneɡlɪdʒənt",
+      "pos" : "adj.",
+      "word" : "negligent"
+    },
+    {
+      "collocations" : [
+        "medical negligence：医疗事故 gross negligence：重大过失"
+      ],
+      "definition" : "渎职；疏忽；粗心大意；忽视；疏忽",
+      "examples" : [
+
+      ],
+      "frequency" : 12019,
+      "mnemonic" : "neglig(=negligent：渎职的，疏忽的)+-ence(名词后缀)→渎职，疏忽",
+      "phonetic" : "ˈneglɪdʒ(ə)ns",
+      "pos" : "n.",
+      "word" : "negligence"
+    },
+    {
+      "collocations" : [
+        "a negligible amount：很小的量"
+      ],
+      "definition" : "微不足道的；不重要的；不值一提的",
+      "examples" : [
+
+      ],
+      "frequency" : 12388,
+      "mnemonic" : "neg-(否认)+-lig-(采集)+-ible(形容词后缀)→可以不被采集挑选出来，",
+      "phonetic" : "ˈneglɪdʒɪb(ə)l",
+      "pos" : "adj.",
+      "word" : "negligible"
+    },
+    {
+      "collocations" : [
+        "a man of considerable intellect：相当有才智的人 human intellect：人类"
+      ],
+      "definition" : "(尤指高等的)智力；思维逻辑领悟力；才智超群的人；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "intel-(=inter-：在中间)+-lect(选择，选出)→从…中间被选出，脱颖而",
+      "phonetic" : "ˈɪntəlekt",
+      "pos" : "n.",
+      "word" : "intellect"
+    },
+    {
+      "collocations" : [
+        "intellectual property：知识产权，著作权 intellectual capital：知识资本"
+      ],
+      "definition" : "智力的；聪明的；理智的",
+      "examples" : [
+
+      ],
+      "frequency" : 2880,
+      "mnemonic" : "intellect(智力，理解能力)+-ual(形容词后缀)→智力的，理智的",
+      "phonetic" : "ˌɪntəˈlektʃʊəl;-tjʊəl",
+      "pos" : "adj.",
+      "word" : "intellectual"
+    },
+    {
+      "collocations" : [
+        "intellectually superior：智力优越"
+      ],
+      "definition" : "智力上；理智地",
+      "examples" : [
+
+      ],
+      "frequency" : 9065,
+      "mnemonic" : "intellectual(智力的)+-ly(副词后缀)→智力上，理智地",
+      "phonetic" : "ˌɪntɪˈlektʃʊəli",
+      "pos" : "adv.",
+      "word" : "intellectually"
+    },
+    {
+      "collocations" : [
+        "artificial intelligence：人工智能 business intelligence：商业智能"
+      ],
+      "definition" : "智力；智慧；(尤指关于敌对国家的)情报；情",
+      "etymology" : "在现代科学中，“智力”(intelligence)是一个很复杂的概念。它到底 包含那些能力，如何测量，如何培养，到现在一直充满争论。但古 代西方人所说的intelligence很简单，就是辨识区分事物从而做出正确 选择的能力。英语单词intelligence来自拉丁语intelligere，由inter(在 其中)+legere(选择)构成，字面意思 就是“从中选择”。由此可见， intelligence的基本含义就是能帮助人辨识事物、做出明智选择和决策 的东西。因此，intelligence还可以表示“情报”，因为情报是信息的 分析处理产物，可以帮助人们做出明智选择和决策。我们常说的“商 业智能”(business intelligence)就很好地体现了intelligence的基本含 义，它的实质就是通过对信息的分析处理，获取到某种intelligence， 这种intelligence既可以理解为“情报”，也可以理解为“智能”或 “智慧”。 单词intellect与intelligence同源，都可以表示“智力”， 不同的是，intellect还可以用来表示“知识分子”。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "intel-(=inter-：在中间)+-lig-(= leg：to choose，pick out，read，选择，",
+      "phonetic" : "ɪnˈtelɪdʒ(ə)ns",
+      "pos" : "n.",
+      "word" : "intelligence"
+    },
+    {
+      "collocations" : [
+        "intelligent control：智能控制"
+      ],
+      "definition" : "聪颖的；有灵性的；有智能的",
+      "examples" : [
+
+      ],
+      "frequency" : 3745,
+      "mnemonic" : "intel-(=inter-：在中间)+-lig-(= leg：to choose，pick out，read，选择，",
+      "phonetic" : "ɪnˈtelɪdʒ(ə)nt",
+      "pos" : "adj.",
+      "word" : "intelligent"
+    },
+    {
+      "collocations" : [
+        "intelligently decide：明智地决定"
+      ],
+      "definition" : "聪明地；明智地；智能化地",
+      "examples" : [
+
+      ],
+      "frequency" : 18198,
+      "mnemonic" : "intelligent(有智慧的，聪明的)+-ly(副词后缀)→聪明地",
+      "phonetic" : "inˈtelidʒəntli",
+      "pos" : "adv.",
+      "word" : "intelligently"
+    },
+    {
+      "collocations" : [
+        "literary intelligentsia：士大夫，文人"
+      ],
+      "definition" : "知识分子；知识界",
+      "examples" : [
+
+      ],
+      "frequency" : 18814,
+      "mnemonic" : "intelligent(智慧的，聪明的)+-sia(名词后缀，表示……的总称，",
+      "phonetic" : "ɪnˌtelɪˈdʒentsɪə",
+      "pos" : "n.",
+      "word" : "intelligentsia"
+    },
+    {
+      "collocations" : [
+        "intelligible phrase：能理解的词句"
+      ],
+      "definition" : "明白易懂的；可理解的",
+      "examples" : [
+
+      ],
+      "frequency" : 18172,
+      "mnemonic" : "intel-(=inter-：在中间)+-lig-(= leg：to choose，pick out，read，选择，",
+      "phonetic" : "ɪnˈtelɪdʒɪb(ə)l",
+      "pos" : "adj.",
+      "word" : "intelligible"
+    },
+    {
+      "collocations" : [
+        "intercollegiate gymnastics team championship：校际团体体操锦标赛"
+      ],
+      "definition" : "学院之间的；大学之间的；校际的",
+      "examples" : [
+
+      ],
+      "frequency" : 17150,
+      "mnemonic" : "inter-(在内，在中间，相互)+college(学院，e变为i)+-ate(形容词后",
+      "phonetic" : "ˌɪntəkəˈliːdʒ(ɪ)ət",
+      "word" : "intercollegiate"
+    },
+    {
+      "collocations" : [
+        "a college course\/library\/student：学院的课程\/图书馆\/学生"
+      ],
+      "definition" : "大学；(美国或英国某些大学中的)学院；学会",
+      "etymology" : "在中世纪大学中，最初并没有集中的校舍，学生自行解决食宿问题。 后来，为了解决贫困学生以及外地学生的食宿问题，一些私人捐赠的 慈善机构出现，为大学生提供住宿。这种提供给大学生的住宿机构就 20000 词 汇巅峰 速 记 笔 记 区 是college(学院)，通常由一个住宿部、一个食堂、一个小礼拜堂和一 座图书馆构成。13世纪后，学院发展迅速，学院内的老师除了管理职 能外，还承担了指导职能，给住在学院内的大学生提供一些额外的课 程，一般由教授或住在学院内的助教开设。随着这些教育活动的增 多，在某些大学，学院逐渐垄断了大学的文科教学，使得学院成为大 学生生活和教学的正式中心。到16世纪中期，大多数英国和巴黎的学 院已经发展成为向本科学生和研究生提供教学的自给自足的教学单 位，很多学院的名气甚至超过了所在大学。英语中表示“学院”的单 词college来自拉丁语collegium，-um表示场所。college原本仅仅表示 university(综合性大学)中的一个学院，但后来，college还可以用来表 示独立的教育机构，如专科大学、职业教育学校，还可以用来表示 “学会”，很多人还喜欢直接用college来表示大学。",
+      "examples" : [
+
+      ],
+      "frequency" : 416,
+      "mnemonic" : "co(=com=with, together：一起)+llege(=leg=to collect，gather，",
+      "phonetic" : "ˈkɒlɪdʒ",
+      "pos" : "n.",
+      "word" : "college"
+    },
+    {
+      "collocations" : [
+        "collegiate life：大学生活"
+      ],
+      "definition" : "大学的；学院的；大学生的",
+      "examples" : [
+
+      ],
+      "frequency" : 8963,
+      "mnemonic" : "colleg(e)(大学，学院)+-iate(形容词后缀)→大学的，学院的",
+      "phonetic" : "kəˈliːdʒ(ɪ)ət",
+      "pos" : "adj.",
+      "word" : "collegiate"
+    },
+    {
+      "collocations" : [
+        "coil (sth) up；(使)缠绕，盘绕 to coil a rope into a loop：把绳索盘绕"
+      ],
+      "definition" : "使……盘绕，把……卷成圈 n. (绳子或金属线的)圈；一圈",
+      "etymology" : "1610s, “to wind, gather into rings one above the other” (trans.), from Middle French coillir “to gather, pick,” from Latin colligere “to gather together” from assimilated form of com “together” (see co-)+legere “to gather” .",
+      "examples" : [
+
+      ],
+      "phonetic" : "kɒɪl",
+      "pos" : "vt.",
+      "word" : "coil"
+    },
+    {
+      "collocations" : [
+        "legume vegetable：豆类蔬菜"
+      ],
+      "definition" : "豆类；豆科植物",
+      "etymology" : "来自法语légume，来自拉丁语legūmen“bean”，豆科。来自词根 leg-，收集采集，词源同collect。因要把豆子用手择出来而得名，泛 称豆类，豆科植物。",
+      "examples" : [
+
+      ],
+      "frequency" : 17436,
+      "phonetic" : "ˈlegjuːm",
+      "pos" : "n.",
+      "word" : "legume"
+    },
+    {
+      "collocations" : [
+        "Caesar’s legions：凯撒军团 legions of photographers：众多的摄影师"
+      ],
+      "definition" : "(古罗马)军团；大量，大批(某类型的人)",
+      "etymology" : "c. 1200, “a Roman legion,” from Old French legion “squad, band, company, Roman legion,” from Latin legionem (nominative legio) “Roman legion, body of soldiers, a levy of troops”. c. 1200, “a Roman legion,” from Old French legion “squad, band, company, Roman legion,” from Latin legionem (nominative legio) “Roman legion, body of soldiers, a levy of troops,” from legere “to gather; to choose, pick out, select”.",
+      "examples" : [
+
+      ],
+      "frequency" : 10454,
+      "mnemonic" : "leg-(=to collect, gather)+-ion(名词后缀)→军团，众多的人",
+      "phonetic" : "ˈliːdʒ(ə)n",
+      "pos" : "n.",
+      "word" : "legion"
+    },
+    {
+      "collocations" : [
+        "the Christian religion：基督教 freedom of religion：宗教自由"
+      ],
+      "definition" : "(一种)宗教；教派；特别的兴趣；重大的影响",
+      "etymology" : "According to Cicero derived from relegere “go through again” (in reading or in thought), from re- “again” (see re-)+legere “read” (see lecture (n.)) 拉丁语动词religare，原始意义是“义务、契约”，后演变为“人类 和神之间的联系”，经由古法语religion传入英语成为现在的意义。",
+      "examples" : [
+
+      ],
+      "frequency" : 1390,
+      "mnemonic" : "re-(表强调)+-lig-(=to bind fast：绑紧，捆绑，约束)+-ion(名词后",
+      "phonetic" : "rɪˈlɪdʒ(ə)n",
+      "pos" : "n.",
+      "word" : "religion"
+    },
+    {
+      "collocations" : [
+        "hypocritical religiosity：虚伪的宗教虔诚 sense of religiosity：宗教感"
+      ],
+      "definition" : "笃信宗教；过度的宗教热忱",
+      "examples" : [
+
+      ],
+      "frequency" : 15137,
+      "mnemonic" : "relig(=religion：宗教)+-osity(名词后缀，表多的状态)→对宗教极为投",
+      "phonetic" : "rɪˌlɪdʒɪˈɒsətɪ",
+      "pos" : "n.",
+      "word" : "religiosity"
+    },
+    {
+      "collocations" : [
+        "religious beliefs\/faith：宗教信仰"
+      ],
+      "definition" : "宗教的；虔诚的；笃信宗教的",
+      "examples" : [
+
+      ],
+      "frequency" : 887,
+      "mnemonic" : "relig(=religion：宗教)+-ious(形容词后缀，表充分的)→宗教的，虔",
+      "phonetic" : "rɪˈlɪdʒəs",
+      "pos" : "adj.",
+      "word" : "religious"
+    },
+    {
+      "collocations" : [
+        "exercise religiously：认真地练习"
+      ],
+      "definition" : "笃信地；认真地",
+      "etymology" : "-logy：word-forming element meaning “a speaking, discourse, treatise, doctrine, theory, science,” from Greek -logia (often via French -logie or Medieval Latin -logia), from -log-, combining form of legein “to speak, tell;” thus, “the character or deportment of one who speaks or treats of (a certain subject)”. Often via Medieval Latin -logia, French -logie. -logy： word-forming element meaning “a speaking, discourse, treatise, doctrine, theory, science,” from Greek -logia (often via French -logie or Medieval Latin -logia), from -log-, combining form of legein “to speak, tell;” thus, “the character or deportment of one who speaks or treats of (a certain subject)”. Often via Medieval Latin -logia, French -logie. -ology：word-forming element indicating “branch of knowledge, science,” 20000 词 汇巅峰 速 记 now the usual form of -logy. Originally used c. 1800 in nonce formations (commonsensology, etc.), it gained legitimacy by influence of the proper formation in geology, mythology, etc., where the -o- is a stem vowel in the previous element. 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 12416,
+      "mnemonic" : "religious(宗教的)+-ly(副词后缀)→虔诚地，笃信地",
+      "phonetic" : "rɪˈlɪdʒəsli",
+      "pos" : "adv.",
+      "word" : "religiously"
+    },
+    {
+      "collocations" : [
+        "social\/cultural anthropology：社会\/文化人类学"
+      ],
+      "definition" : "人类学",
+      "examples" : [
+
+      ],
+      "frequency" : 6831,
+      "mnemonic" : "anthropo-(人类)+-logy(学科)→研究人类的学科→人类学",
+      "phonetic" : "ˌænθrəˈpɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "anthropology"
+    },
+    {
+      "collocations" : [
+        "psychological anthropologist：心理人类学家"
+      ],
+      "definition" : "人类学家；人类学者",
+      "examples" : [
+
+      ],
+      "frequency" : 6370,
+      "mnemonic" : "anthropo-(人类学)+-log(-logy：science or study，学科或学问)+ist(名词",
+      "phonetic" : "ˌænθrəˈpɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "anthropologist"
+    },
+    {
+      "collocations" : [
+        "anthropological archaeology：考古人类学"
+      ],
+      "definition" : "人类学的",
+      "examples" : [
+
+      ],
+      "frequency" : 10978,
+      "mnemonic" : "anthropo-(人类学)+-logy(学科)+-ical(形容词后缀)→人类学的",
+      "phonetic" : "ˌænθrəpəˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "anthropological"
+    },
+    {
+      "collocations" : [
+        "prehistoric archaeology：史前考古学 environmental archaeology：环境"
+      ],
+      "definition" : "考古学",
+      "etymology" : "希腊语arkhe(初始的)→希腊语arkhaio(古代的)→archaeo(古代的)",
+      "examples" : [
+
+      ],
+      "frequency" : 8623,
+      "mnemonic" : "archaeo(=primal, old, ancient：原始的，古代的)+-logy(学科)→与研究",
+      "phonetic" : "ˌɑːkɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "archaeology"
+    },
+    {
+      "collocations" : [
+        "music archaeologist：音乐考古学家"
+      ],
+      "definition" : "考古学家",
+      "examples" : [
+
+      ],
+      "frequency" : 6342,
+      "mnemonic" : "archaeology(考古学)+-ist(名词后缀，……学家)→考古学家",
+      "phonetic" : "ˌɑːkɪˈɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "archaeologist"
+    },
+    {
+      "collocations" : [
+        "archaeological findings：考古发现 archaeological findings：考古证据"
+      ],
+      "definition" : "考古学的",
+      "examples" : [
+
+      ],
+      "frequency" : 7090,
+      "mnemonic" : "archaeology(考古学)+-ical(形容词后缀)→考古学的",
+      "phonetic" : "ˌɑrkɪəˈlɑdʒɪkl",
+      "pos" : "adj.",
+      "word" : "archaeological"
+    },
+    {
+      "collocations" : [
+        "cell biology；细胞生物学"
+      ],
+      "definition" : "生物学；(一个地区全部的)生物；(机体、细胞的)作",
+      "etymology" : "“the science of life and living things,” 1819, from Greek bios “life, one’s life, lifetime” (from root *gwei- “to live;” see bio-)+-logy “study of.”",
+      "examples" : [
+
+      ],
+      "mnemonic" : "bio-(生命的)+-logy(学科)→研究生命、生物的学科→生物学",
+      "phonetic" : "baɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "biology"
+    },
+    {
+      "collocations" : [
+        "developmental biologist：发育生物学家"
+      ],
+      "definition" : "生物学家",
+      "examples" : [
+
+      ],
+      "frequency" : 5149,
+      "mnemonic" : "biology(生物学)+ist(名词后缀，……学家)→生物学家",
+      "phonetic" : "baɪˈɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "biologist"
+    },
+    {
+      "collocations" : [
+        "biological sciences：生物科学 biological clock：生物钟"
+      ],
+      "definition" : "生物学的；生物的",
+      "examples" : [
+
+      ],
+      "frequency" : 2588,
+      "mnemonic" : "biology(生物学)+-ical(形容词后缀)→生物学的",
+      "phonetic" : "baɪə(ʊ)ˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "biological"
+    },
+    {
+      "collocations" : [
+        "biologically diverse：生物学上的多样性"
+      ],
+      "definition" : "生物学地",
+      "examples" : [
+
+      ],
+      "frequency" : 13282,
+      "mnemonic" : "biological(生物学的)+-ly(副词后缀)→生物学地",
+      "phonetic" : "baɪəˈlɑdʒɪkli",
+      "pos" : "adv.",
+      "word" : "biologically"
+    },
+    {
+      "collocations" : [
+        "biotechnological research：生物科技研究"
+      ],
+      "definition" : "生物技术",
+      "examples" : [
+
+      ],
+      "frequency" : 9720,
+      "mnemonic" : "bio-(生物学的)+technology(技术)→生物技术",
+      "phonetic" : "ˌbaɪə(ʊ)tekˈnɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "biotechnology"
+    },
+    {
+      "collocations" : [
+        "astronomical chronology：天文历史年代学"
+      ],
+      "definition" : "大事记；年表；年代学",
+      "examples" : [
+
+      ],
+      "frequency" : 13070,
+      "mnemonic" : "chrono-(时间)+-logy(学科，知识)→有关时间的学科或知识→年代",
+      "phonetic" : "krəˈnɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "chronology"
+    },
+    {
+      "collocations" : [
+        "annals chronological：编年史 chronological record：序时记录"
+      ],
+      "definition" : "按时间顺序排列的",
+      "examples" : [
+
+      ],
+      "frequency" : 13838,
+      "mnemonic" : "chrono-(时间的)+-logical(……学的)→按照时间顺序的",
+      "phonetic" : "krɒnəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "chronological"
+    },
+    {
+      "collocations" : [
+        "Big Bang cosmology：宇宙大爆炸理论"
+      ],
+      "definition" : "宇宙论；宇宙学",
+      "examples" : [
+
+      ],
+      "frequency" : 12166,
+      "mnemonic" : "cosmo-(宇宙)+-logy(学科)→宇宙学",
+      "phonetic" : "kɒzˈmɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "cosmology"
+    },
+    {
+      "collocations" : [
+        "cosmological argument：宇宙成因论"
+      ],
+      "definition" : "宇宙学的；宇宙论的",
+      "examples" : [
+
+      ],
+      "frequency" : 15347,
+      "mnemonic" : "cosmo-(宇宙的)+-logical(……学的)→宇宙学的，宇宙论的",
+      "phonetic" : "ˌkɔzməˈlɔdʒikəl",
+      "pos" : "adj.",
+      "word" : "cosmological"
+    },
+    {
+      "collocations" : [
+        "a professor in ecology：一位生态学教授 agricultural ecology：农业生"
+      ],
+      "definition" : "生态；生态学",
+      "examples" : [
+
+      ],
+      "frequency" : 6520,
+      "mnemonic" : "eco-(生态)+-logy(学科)→生态学",
+      "phonetic" : "ɪˈkɒlədʒɪ;e-",
+      "pos" : "n.",
+      "word" : "ecology"
+    },
+    {
+      "collocations" : [
+        "forest ecologist：森林生态学家"
+      ],
+      "definition" : "生态学者",
+      "examples" : [
+
+      ],
+      "frequency" : 11540,
+      "mnemonic" : "ecology(生态)+-ist(名词后缀，表人)→生态学家",
+      "phonetic" : "iˈkɑlədʒɪst",
+      "pos" : "n.",
+      "word" : "ecologist"
+    },
+    {
+      "collocations" : [
+        "ecological pyramid：生态金字塔 an ecological disaster；生态灾难"
+      ],
+      "definition" : "生态的，关注生态环境的；主张生态保护",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ecology(生态)+-ical(形容词后缀)→生态的，关注生态环境的",
+      "phonetic" : "iːkəˈlɒdʒɪk(ə)l;ek-",
+      "pos" : "adj.",
+      "word" : "ecological"
+    },
+    {
+      "collocations" : [
+        "ecologically environment：生态环境"
+      ],
+      "definition" : "从生态学的观点看",
+      "examples" : [
+
+      ],
+      "frequency" : 14611,
+      "mnemonic" : "ecological(生态的)+-ly(副词后缀)→从生态学的观点看",
+      "phonetic" : "ikəˈlɔdʒikəli",
+      "pos" : "adv.",
+      "word" : "ecologically"
+    },
+    {
+      "collocations" : [
+        "molecular epidemiology：分子流行病学 migrant epidemiology：移民流"
+      ],
+      "definition" : "流行病学",
+      "etymology" : "“study of epidemics, science of epidemic diseases,” 1850, from Greek epidemios, literally “among the people, of one's countrymen at home” (see epidemic)+-logy. Related: Epidemiological; epidemiologist. epidemic: “common to or affecting a whole people,” originally and usually, though not etymologically, in reference to diseases, from French épidémique, from épidemié “an epidemic disease,” from Medieval Latin epidemia, from Greek epidemia “a stay in a place; prevalence of an epidemic disease”.",
+      "examples" : [
+
+      ],
+      "frequency" : 15432,
+      "mnemonic" : "epi-(=among，upon：在……之间)+demio(=dēmos，people，",
+      "phonetic" : "ˌepɪdiːmɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "epidemiology"
+    },
+    {
+      "collocations" : [
+        "epidemiologist pathology：流行病学家病理学"
+      ],
+      "definition" : "流行病学家",
+      "examples" : [
+
+      ],
+      "frequency" : 16196,
+      "mnemonic" : "epidemiology(流行病学)+-ist(名词后缀，表人)→流行病学家",
+      "phonetic" : "ˌepɪˈdiːmɪˈɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "epidemiologist"
+    },
+    {
+      "collocations" : [
+        "epidemiological studies：流行病学研究"
+      ],
+      "definition" : "流行病学的",
+      "examples" : [
+
+      ],
+      "frequency" : 16599,
+      "mnemonic" : "epidemiology(流行病学)+-ical(形容词后缀)→流行病学的",
+      "phonetic" : "ˈɛpɪˌdimɪrˈlɑdʒɪkl",
+      "pos" : "adj.",
+      "word" : "epidemiological"
+    },
+    {
+      "collocations" : [
+        "pragmatist epistemology：实用主义认识论 interactive epistemology：交"
+      ],
+      "definition" : "认识论；认识学",
+      "etymology" : "Greek episteme “knowledge, acquaintance with (something), skill, experience. From Ionic Greek epistasthai “know how to do, understand,” literally “overstand.” Study of the roots and paths of knowledge is epistemics (1969).",
+      "examples" : [
+
+      ],
+      "frequency" : 17044,
+      "mnemonic" : "epistem(=knowledge，understand：知识，认知)+o+...logy(学科)→认识",
+      "phonetic" : "ɪˈpɪstɪˌmɒlədʒɪ;e-",
+      "pos" : "n.",
+      "word" : "epistemology"
+    },
+    {
+      "collocations" : [
+        "epistemological beliefs：认识论信念"
+      ],
+      "definition" : "认识论的",
+      "examples" : [
+
+      ],
+      "frequency" : 13963,
+      "mnemonic" : "epistemology(认知学)+-ical(形容词后缀)→认识论的",
+      "phonetic" : "eˌpɪstiːməˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "epistemological"
+    },
+    {
+      "collocations" : [
+        "...the etiology of psychiatric disorder：……对精神紊乱的病原研究。"
+      ],
+      "definition" : "原因论；病原学17491",
+      "etymology" : "Also aetiology, aitiology, “science of causes or causation,” 1550s, from Late Latin aetiologia, from Greek aitiologia “statement of cause,” from Related: Etiologic; etiological.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "etio-(=aitia-：cause，原因)+-logy(研究)→说出(某个问题)原由的学科",
+      "phonetic" : "ˌiːtɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "etiology"
+    },
+    {
+      "collocations" : [
+        "eulogy theory：赞美理论 a eulogy to marriage：婚礼颂词"
+      ],
+      "definition" : "颂词；颂文；悼词",
+      "examples" : [
+
+      ],
+      "frequency" : 18528,
+      "mnemonic" : "eu-(好的)+-logy(=speaking：说，演讲)→(在公开隆重的场合)说好听",
+      "phonetic" : "ˈjuːlədʒɪ",
+      "pos" : "n.",
+      "word" : "eulogy"
+    },
+    {
+      "collocations" : [
+        "the geology of Asia：亚洲的地质状况 planetary geology：行星地质学"
+      ],
+      "definition" : "地质学；地质情况",
+      "etymology" : "Geology是从希腊语演变来的。“地质学”是研究形成地球的物质和 地壳构造，以探讨地球的形成和发展的科学。",
+      "examples" : [
+
+      ],
+      "frequency" : 11742,
+      "mnemonic" : "geo-(=earth：地球)+-logy(=science，学科)→研究地球本身的科学→地",
+      "phonetic" : "dʒɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "geology"
+    },
+    {
+      "collocations" : [
+        "geologic time：地质年代 geologic barometet：地质压力计"
+      ],
+      "definition" : "地质的；地质学上的",
+      "examples" : [
+
+      ],
+      "frequency" : 17030,
+      "mnemonic" : "geology(地质学)+-ic(形容词后缀)→地质学上的",
+      "phonetic" : "ˌdʒɪəʊˈlɒdʒɪk",
+      "pos" : "adj.",
+      "word" : "geologic"
+    },
+    {
+      "collocations" : [
+        "geological age：地质年代"
+      ],
+      "definition" : "地质的；地质学的",
+      "examples" : [
+
+      ],
+      "frequency" : 8982,
+      "mnemonic" : "geologic(地质学上的)+-al(形容词后缀，……的)→地质学的",
+      "phonetic" : "dʒɪəˈlɒdʒɪkl",
+      "pos" : "adj.",
+      "word" : "geological"
+    },
+    {
+      "collocations" : [
+        "oil geologist：石油地质学家 senior geologist：高级地质师"
+      ],
+      "definition" : "地质学家；地质学者",
+      "examples" : [
+
+      ],
+      "frequency" : 9928,
+      "mnemonic" : "geology(地质学)+-ist(名词后缀，表人)→地质学家",
+      "phonetic" : "dʒɪˈɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "geologist"
+    },
+    {
+      "collocations" : [
+        "Marxist\/capitalist ideology：马克思主义\/资本主义思想体系"
+      ],
+      "definition" : "思想(体系)；思想意识；意识形态",
+      "examples" : [
+
+      ],
+      "frequency" : 3678,
+      "mnemonic" : "idea-(思想，a省略)+-o-+-logy……(学科，学说)→有关思想的学科、",
+      "phonetic" : "ˌaɪdɪˈɒlədʒɪ;ɪd-",
+      "pos" : "n.",
+      "word" : "ideology"
+    },
+    {
+      "collocations" : [
+        "ideologue magazine：思想家杂志"
+      ],
+      "definition" : "理论家；思想家；空想家16447",
+      "examples" : [
+
+      ],
+      "mnemonic" : "idea(想象，想法，主意)+-logue(=log：说，词源同dialogue)→把理",
+      "phonetic" : "ˈaɪdɪəlɒg;ˈɪd-",
+      "pos" : "n.",
+      "word" : "ideologue"
+    },
+    {
+      "collocations" : [
+        "ideological differences：意识形态上的差异"
+      ],
+      "definition" : "思想上的；思想体系的；意识形态的(尤指",
+      "examples" : [
+
+      ],
+      "mnemonic" : "idea(思想，省略a)+-ology(学科)+ical(形容词后缀)→思想学科的→思",
+      "phonetic" : "ˌaɪdɪəʊˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "ideological"
+    },
+    {
+      "collocations" : [
+        "ideologically motivated opposition：基于意识形态的反对"
+      ],
+      "definition" : "思想上地；意识形态上地13969",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ideological(思想上的，意识形态的)+-ly(副词后缀)→思想上地，意识",
+      "phonetic" : "ˌaɪdiəˈlɒdʒɪkəli",
+      "pos" : "adv.",
+      "word" : "ideologically"
+    },
+    {
+      "collocations" : [
+        "sociological methodology：社会学方法 design methodology：设计方法学"
+      ],
+      "definition" : "方法学；方法论",
+      "examples" : [
+
+      ],
+      "frequency" : 5757,
+      "mnemonic" : "method(方法)+-ology(学说)→方法学，方法论",
+      "phonetic" : "meθəˈdɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "methodology"
+    },
+    {
+      "collocations" : [
+        "methodological articles：方法学文章"
+      ],
+      "definition" : "方法学的；方法论的",
+      "examples" : [
+
+      ],
+      "frequency" : 11203,
+      "mnemonic" : "methodology(方法学)+-ical(形容词后缀)→方法学的",
+      "phonetic" : "ˌmeθədəˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "methodological"
+    },
+    {
+      "collocations" : [
+        "urban morphology：城市形态学 plant morphology：植物形态学"
+      ],
+      "definition" : "形态学；结构；构词法",
+      "examples" : [
+
+      ],
+      "frequency" : 19052,
+      "mnemonic" : "morpho-(形状，形态)+-logy(学说，学科)→形态学",
+      "phonetic" : "mɔːˈfɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "morphology"
+    },
+    {
+      "collocations" : [
+        "Greek mythology：希腊神话"
+      ],
+      "definition" : "(统称)神话；某文化(或社会等)的神话；虚幻的想",
+      "examples" : [
+
+      ],
+      "mnemonic" : "myth-(=mythos, myth：神话)+-o+-logy(=study：研究)→神话",
+      "phonetic" : "mɪˈθɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "mythology"
+    },
+    {
+      "collocations" : [
+        "mythological subjects\/figures\/stories：神话题材\/人物\/故事"
+      ],
+      "definition" : "神话的；神话学的",
+      "examples" : [
+
+      ],
+      "frequency" : 16767,
+      "mnemonic" : "mythology(神话)+-ical(形容词后缀)→神话的",
+      "phonetic" : "mɪθəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "mythological"
+    },
+    {
+      "collocations" : [
+        "DNA nanotechnology DNA：纳米技术 environmental nanotechnology："
+      ],
+      "definition" : "纳米技术",
+      "examples" : [
+
+      ],
+      "frequency" : 16607,
+      "mnemonic" : "nano-(纳米)+techn-(=art，skill，craft in work：技术、科技、艺术)+-",
+      "phonetic" : "ˌnænə(ʊ)tekˈnɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "nanotechnology"
+    },
+    {
+      "collocations" : [
+        "radiation oncology：射线肿瘤学 surgical oncology：肿瘤外科"
+      ],
+      "definition" : "[医]肿瘤学",
+      "examples" : [
+
+      ],
+      "frequency" : 19395,
+      "mnemonic" : "onco-(=tumor，肿瘤，来自希腊语onkos，大块，肿块)+-logy(=science",
+      "phonetic" : "ɒŋˈkɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "oncology"
+    },
+    {
+      "collocations" : [
+        "medicing oncologist：外科肿瘤医师"
+      ],
+      "definition" : "肿瘤学家；肿瘤医师",
+      "examples" : [
+
+      ],
+      "frequency" : 17092,
+      "mnemonic" : "oncology(肿瘤学)+-ist(学家)→肿瘤学家",
+      "phonetic" : "ɑnˈkɑlədʒɪst",
+      "pos" : "n.",
+      "word" : "oncologist"
+    },
+    {
+      "collocations" : [
+        "surgical pathology：外科病理学 general pathology：病理学总论"
+      ],
+      "definition" : "病理学(复数pathologies)10386",
+      "examples" : [
+
+      ],
+      "mnemonic" : "patho-(疾病的)+-logy(学科)→有关疾病的学科→病理学",
+      "phonetic" : "pəˈθɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "pathology"
+    },
+    {
+      "collocations" : [
+        "plant pathologist：植物病理学家 anatomical pathologist：病理解剖学医师"
+      ],
+      "definition" : "病理学家",
+      "examples" : [
+
+      ],
+      "frequency" : 12046,
+      "mnemonic" : "pathology(病理学)+-ist(学家)→病理学家",
+      "phonetic" : "pəˈθɑlədʒɪst",
+      "pos" : "n.",
+      "word" : "pathologist"
+    },
+    {
+      "collocations" : [
+        "pathological jealousy：病态的嫉妒"
+      ],
+      "definition" : "病态的；病理学的；由疾病引起的(等于",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pathology(病理学)+-ical(形容词后缀)→病态的，病理的",
+      "phonetic" : "pæθəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "pathological"
+    },
+    {
+      "collocations" : [
+        "social psychology：社会心理学"
+      ],
+      "definition" : "心理学；心理",
+      "etymology" : "1650s, “study of the soul,” from Modern Latin psychologia, probably 20000 词 汇巅峰 速 记 笔 记 区 coined mid-16c. in Germany by Melanchthon from Latinized form of Greek psykhē “breath, spirit, soul” (see psyche)+logia “study of” (see -logy).",
+      "examples" : [
+
+      ],
+      "frequency" : 2997,
+      "mnemonic" : "psycho-(心理)+-logy(=science or study of，……学的)→心理学",
+      "phonetic" : "saɪˈkɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "psychology"
+    },
+    {
+      "collocations" : [
+        "clinical psychologist：临床心理学家"
+      ],
+      "definition" : "心理学家，心理学者",
+      "examples" : [
+
+      ],
+      "frequency" : 3039,
+      "mnemonic" : "psychology(心理学)+-ist(……学家)→心理学家",
+      "phonetic" : "saɪˈkɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "psychologist"
+    },
+    {
+      "collocations" : [
+        "psychological testing：心理学测试"
+      ],
+      "definition" : "心理的；精神上的；心理学的",
+      "examples" : [
+
+      ],
+      "frequency" : 2383,
+      "mnemonic" : "psychology(心理学)+-ical(形容词后缀)→心理的，精神上的",
+      "phonetic" : "saɪkəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "psychological"
+    },
+    {
+      "collocations" : [
+        "psychologically light：心理上轻松"
+      ],
+      "definition" : "心理上地；心理学地",
+      "examples" : [
+
+      ],
+      "frequency" : 9294,
+      "mnemonic" : "psychology(心理，精神)+-ical(形容词后缀)+-ly(副词后缀)→心理上",
+      "phonetic" : "saɪˈkɒlədʒɪklɪ",
+      "pos" : "adv.",
+      "word" : "psychologically"
+    },
+    {
+      "collocations" : [
+        "human physiology：人体生理学 anatomy and physiology：解剖生理学"
+      ],
+      "definition" : "生理学；生理机能",
+      "examples" : [
+
+      ],
+      "frequency" : 11208,
+      "mnemonic" : "physio-(身体，生理)+-logy(学科)→对身体、生理的研究→生理学",
+      "phonetic" : "ˌfɪzɪˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "physiology"
+    },
+    {
+      "collocations" : [
+        "molecular physiologist：分子生理学家"
+      ],
+      "definition" : "生理学家",
+      "examples" : [
+
+      ],
+      "frequency" : 17860,
+      "mnemonic" : "physiology(生理学)+-ist(名词后缀，表人)→生理学家",
+      "phonetic" : "ˌfɪzɪˈɑlədʒɪst",
+      "pos" : "n.",
+      "word" : "physiologist"
+    },
+    {
+      "collocations" : [
+        "physiological saline：生理盐水"
+      ],
+      "definition" : "生理学的，生理的",
+      "examples" : [
+
+      ],
+      "frequency" : 8230,
+      "mnemonic" : "physiology(生理学)+-ical(形容词后缀)→生理学的",
+      "phonetic" : "ˌfɪzɪəˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "physiological"
+    },
+    {
+      "collocations" : [
+        "child psychopathology：儿童心理病理学"
+      ],
+      "definition" : "精神病理学",
+      "examples" : [
+
+      ],
+      "frequency" : 19762,
+      "mnemonic" : "psycho-(精神的)+pathology(病理学)→精神病理学",
+      "phonetic" : "ˌsaɪkəʊpəˈθɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "psychopathology"
+    },
+    {
+      "collocations" : [
+        "economic sociology：经济社会学 urban sociology：城市社会学"
+      ],
+      "definition" : "社会学；[生]群体生态学",
+      "examples" : [
+
+      ],
+      "frequency" : 8145,
+      "mnemonic" : "socio-(社会的)+-logy(学说)→社会学",
+      "phonetic" : "səʊsɪˈɒlədʒɪ;səʊʃɪ-",
+      "pos" : "n.",
+      "word" : "sociology"
+    },
+    {
+      "collocations" : [
+        "rural sociologist：农村社会学家"
+      ],
+      "definition" : "社会学家",
+      "examples" : [
+
+      ],
+      "frequency" : 8694,
+      "mnemonic" : "sociology(社会学)+-ist(学家)→社会学家",
+      "phonetic" : "ˌsəʊsɪˈɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "sociologist"
+    },
+    {
+      "collocations" : [
+        "sociological perspective：社会学视角"
+      ],
+      "definition" : "社会学的；针对社会问题的",
+      "examples" : [
+
+      ],
+      "frequency" : 11508,
+      "mnemonic" : "sociology(社会学)+-ical(形容词后缀)→社会学的",
+      "phonetic" : "ˌsəʊsɪəˈlɒdʒɪkəl",
+      "pos" : "adj.",
+      "word" : "sociological"
+    },
+    {
+      "collocations" : [
+        "space technology：航天技术"
+      ],
+      "definition" : "技术，科技，工艺",
+      "examples" : [
+
+      ],
+      "frequency" : 586,
+      "mnemonic" : "techn-(技术，科技)+-ology(学说)→科技",
+      "phonetic" : "tekˈnɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "technology"
+    },
+    {
+      "collocations" : [
+        "engineering technologist：工程技师"
+      ],
+      "definition" : "工艺学家；技术专家",
+      "examples" : [
+
+      ],
+      "frequency" : 20190,
+      "mnemonic" : "technology(技术)+-ist(专家，学家)→技术专家",
+      "phonetic" : "tekˈnɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "technologist"
+    },
+    {
+      "collocations" : [
+        "technological innovation：技术创新"
+      ],
+      "definition" : "与技术有关的；工艺的",
+      "examples" : [
+
+      ],
+      "frequency" : 3808,
+      "mnemonic" : "technology(技术)+-ical(形容词后缀)→技术的",
+      "phonetic" : "teknəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "technological"
+    },
+    {
+      "collocations" : [
+        "technologically updated：技术更新"
+      ],
+      "definition" : "技术上地",
+      "examples" : [
+
+      ],
+      "frequency" : 12834,
+      "mnemonic" : "technological(技术的)+-ly(副词后缀)→技术上地",
+      "phonetic" : "ˌtɛknəˈlɑdʒɪkli",
+      "pos" : "adv.",
+      "word" : "technologically"
+    },
+    {
+      "collocations" : [
+        "environmental terminology：环境术语 scientific terminology：科学术语"
+      ],
+      "definition" : "专业术语，专有名词",
+      "examples" : [
+
+      ],
+      "frequency" : 9521,
+      "mnemonic" : "termin-(=terminus，word，expression，文字，表达)+-ology(学说)→专",
+      "phonetic" : "ˌtɜːmɪˈnɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "terminology"
+    },
+    {
+      "collocations" : [
+        "...questions of theology.：……神学上的问题"
+      ],
+      "definition" : "神学3872",
+      "examples" : [
+
+      ],
+      "mnemonic" : "theo-(神)+-logy(学科)→与神有关的学科→神学",
+      "phonetic" : "θiːˈɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "theology"
+    },
+    {
+      "collocations" : [
+        "theological education：神学教育"
+      ],
+      "definition" : "神学的，研究神学的",
+      "examples" : [
+
+      ],
+      "frequency" : 4784,
+      "mnemonic" : "theology(神学)+-ical(形容词后缀)→神学的",
+      "phonetic" : "θɪəˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "theological"
+    },
+    {
+      "collocations" : [
+        "think theologically：按神的原则去想"
+      ],
+      "definition" : "神学上地",
+      "examples" : [
+
+      ],
+      "frequency" : 19049,
+      "mnemonic" : "theological(神学的)+-ly(副词后缀)→神学上地",
+      "phonetic" : "ˌθɪəˈlɑdʒɪkli",
+      "pos" : "adv.",
+      "word" : "theologically"
+    },
+    {
+      "collocations" : [
+        "movie trilogy：电影三部曲"
+      ],
+      "definition" : "(书、戏剧或电影的)三部曲",
+      "examples" : [
+
+      ],
+      "frequency" : 13467,
+      "mnemonic" : "tri-(=three：三)+-logy(=logos，story：说话)→三部曲",
+      "phonetic" : "ˈtrɪlədʒɪ",
+      "pos" : "n.",
+      "word" : "trilogy"
+    },
+    {
+      "collocations" : [
+        "forest typology：林型学 text typology：文本类型学"
+      ],
+      "definition" : "(尤指科学和社会科学领域的)类型学",
+      "examples" : [
+
+      ],
+      "frequency" : 17434,
+      "mnemonic" : "typo-(类型)+-logy(学说)→类型学",
+      "phonetic" : "taɪˈpɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "typology"
+    },
+    {
+      "collocations" : [
+        "legal system：法律制度"
+      ],
+      "definition" : "与法律有关的；合法的；法律允许的",
+      "examples" : [
+
+      ],
+      "frequency" : 886,
+      "mnemonic" : "leg(=law：法律)+al(形容词后缀，表示……的)→法律的，合法的",
+      "phonetic" : "ˈli:gəl",
+      "pos" : "adj.",
+      "word" : "legal"
+    },
+    {
+      "collocations" : [
+        "legally blond：律政俏佳人"
+      ],
+      "definition" : "合法地；法律上地",
+      "examples" : [
+
+      ],
+      "frequency" : 4615,
+      "mnemonic" : "legal(合法的)+-ly(副词后缀)→合法地",
+      "phonetic" : "ˈli:gəli",
+      "pos" : "adv.",
+      "word" : "legally"
+    },
+    {
+      "collocations" : [
+        "the legality of the contracts：合同的合法性"
+      ],
+      "definition" : "合法性；(某行为或情况的)法律方面",
+      "examples" : [
+
+      ],
+      "frequency" : 14365,
+      "mnemonic" : "legal(合法的)+-ity(名词后缀)→合法，合法性",
+      "phonetic" : "liːˈgælɪtɪ;lɪ-",
+      "pos" : "n.",
+      "word" : "legality"
+    },
+    {
+      "collocations" : [
+        "legalize immigration：使移民合法化"
+      ],
+      "definition" : "使合法化；法律上认为……正当",
+      "examples" : [
+
+      ],
+      "frequency" : 11033,
+      "mnemonic" : "leg-(=law：法律)+-al(形容词后缀)+-ize(动词后缀，使……)→使合",
+      "phonetic" : "ˈliɡəlaɪz",
+      "pos" : "vt.",
+      "word" : "legalize"
+    },
+    {
+      "collocations" : [
+        "morality legalization：道德法律化"
+      ],
+      "definition" : "合法化；法律认可",
+      "examples" : [
+
+      ],
+      "frequency" : 15925,
+      "mnemonic" : "legalize(使合法化)+-ation(复合名词后缀)→合法化",
+      "phonetic" : "ˌliɡəlɪˈzeʃən",
+      "pos" : "n.",
+      "word" : "legalization"
+    },
+    {
+      "collocations" : [
+        "illegal immigrants\/aliens：非法移民\/外侨"
+      ],
+      "definition" : "非法的；违法的 n. 非法移民；非法劳工",
+      "examples" : [
+
+      ],
+      "frequency" : 2087,
+      "mnemonic" : "il-(=not，opposite of：否定前缀)+legal(合法的)→非法的，(移民)非法",
+      "phonetic" : "ɪˈliːg(ə)l",
+      "pos" : "adj.",
+      "word" : "illegal"
+    },
+    {
+      "collocations" : [
+        "parking illegally：违规停车"
+      ],
+      "definition" : "非法地；违法地",
+      "examples" : [
+
+      ],
+      "frequency" : 6947,
+      "mnemonic" : "illegal(非法地)+-ly(副词后缀)→非法的，违法的",
+      "phonetic" : "ɪˈligəli",
+      "pos" : "adv.",
+      "word" : "illegally"
+    },
+    {
+      "collocations" : [
+        "illegitimate child：非婚生子女，私生子"
+      ],
+      "definition" : "私生的；不合规则的；不合法的",
+      "examples" : [
+
+      ],
+      "frequency" : 12309,
+      "mnemonic" : "il-(=not：不，非)+legitim(使合法)+-ate(形容词后缀)→legitimate来自",
+      "phonetic" : "ˌɪlɪˈdʒɪtɪmət",
+      "pos" : "adj.",
+      "word" : "illegitimate"
+    },
+    {
+      "collocations" : [
+        "legislate against excessive overtime：立法禁止过度加班"
+      ],
+      "definition" : "制定法律；立法",
+      "examples" : [
+
+      ],
+      "frequency" : 12853,
+      "mnemonic" : "legis(=law：法律)+-late(=propose, make=制定，提出)→to make laws：",
+      "phonetic" : "ˈledʒɪsleɪt",
+      "pos" : "vt.",
+      "word" : "legislate"
+    },
+    {
+      "collocations" : [
+        "housing legislation：住房立法"
+      ],
+      "definition" : "立法；法律",
+      "examples" : [
+
+      ],
+      "frequency" : 2034,
+      "mnemonic" : "legislate(制定法律)+-ion(名词后缀，表示……的行为或结果)→立法行",
+      "phonetic" : "ledʒɪsˈleɪʃ(ə)n",
+      "pos" : "n.",
+      "word" : "legislation"
+    },
+    {
+      "collocations" : [
+        "legislative powers：立法权"
+      ],
+      "definition" : "立法的；制定法律的；有立法权的",
+      "examples" : [
+
+      ],
+      "frequency" : 3577,
+      "mnemonic" : "legislate(制定法律)+-ive(形容词后缀)→立法的",
+      "phonetic" : "ˈledʒɪslətɪv",
+      "pos" : "adj.",
+      "word" : "legislative"
+    },
+    {
+      "collocations" : [
+        "a national legislator：国家的立法者"
+      ],
+      "definition" : "立法者；议员；民意代表",
+      "examples" : [
+
+      ],
+      "frequency" : 4674,
+      "mnemonic" : "legislate(立法)+-or(名词后缀，表人)→立法者",
+      "phonetic" : "ˈledʒɪsleɪtə",
+      "pos" : "n.",
+      "word" : "legislator"
+    },
+    {
+      "collocations" : [
+        "legislative body：立法机关"
+      ],
+      "definition" : "立法机构；议会",
+      "examples" : [
+
+      ],
+      "frequency" : 4407,
+      "mnemonic" : "legislate(立法)+-ure(名词后缀)→立法机构；议会",
+      "phonetic" : "ˈledʒɪslətʃə",
+      "pos" : "n.",
+      "word" : "legislature"
+    },
+    {
+      "collocations" : [
+        "legitimate interest：合法权益 legitimate expectation：合法预期"
+      ],
+      "definition" : "合法的；法律认可的；合情理的；正当的；合法",
+      "etymology" : "mid-15c., “lawfully begotten, born of parents legally married,” from Middle French legitimer and directly from Medieval Latin legitimatus, past participle of legitimare “make lawful, declare to be lawful,” from Latin legitimus “lawful,” originally “fixed by law, in line with the law”. Transferred sense of “genuine, real” is attested from 1550s. Related: Legitimately; legitimateness. The older adjective in English was legitime “lawful, of legitimate birth” (late 14c.), from Old French legitime, from Latin legitimus.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "legitim(=make lawful：使合法)+-ate(形容词后缀)→合法的",
+      "phonetic" : "lɪˈdʒɪtɪmət",
+      "pos" : "adj.",
+      "word" : "legitimate"
+    },
+    {
+      "collocations" : [
+        "legitimately optimistic：合理的乐观"
+      ],
+      "definition" : "合理地；正当地",
+      "examples" : [
+
+      ],
+      "frequency" : 13945,
+      "mnemonic" : "legitimate(合法的)+-ly(副词后缀)→合理地，正当地",
+      "phonetic" : "liˈdʒitimitli",
+      "pos" : "adv.",
+      "word" : "legitimately"
+    },
+    {
+      "collocations" : [
+        "legitimize violence：美化暴力"
+      ],
+      "definition" : "使(尤其是坏事)合法化；正式批准(或认可)；赋予",
+      "examples" : [
+
+      ],
+      "mnemonic" : "legitimate(=lawful)+-ize(动词后缀，表示使……)→to make...lawful：",
+      "phonetic" : "lɪˈdʒɪtɪmaɪz",
+      "pos" : "vt.",
+      "word" : "legitimize"
+    },
+    {
+      "collocations" : [
+        "a lack of legitimacy：缺乏合法性"
+      ],
+      "definition" : "合法性；合理性；正统性",
+      "examples" : [
+
+      ],
+      "frequency" : 5837,
+      "mnemonic" : "legitimate(合法地)+-cy(名词后缀)→合法，合理",
+      "phonetic" : "lɪˈdʒɪtɪməsɪ",
+      "pos" : "n.",
+      "word" : "legitimacy"
+    },
+    {
+      "collocations" : [
+        "grant priviledge to sb：给予\/授予某人特权 legal privilege：法律特权"
+      ],
+      "definition" : "(某人或某团体独享的)特权，优惠；(常指因财富、",
+      "etymology" : "mid-12c. “grant, commission” (recorded earlier in Old English, but as a Latin word), from Old French privilege “right, priority, privilege” (12c.) and directly from Latin privilegium “law applying to one person, bill of law in favor of or against an individual,” in the post-Augustine period “an ordinance in favor of an individual, privilege, prerogative,” from privus “individual” (see private (adj.))+lex (genitive legis) “law” (see legal (adj.)). Meaning “advantage granted” is from mid-14c. in English.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "priv-(来源于拉丁语中由privus，表示单独的，个体的)私人的)+i+leg-",
+      "phonetic" : "ˈprivilidʒ",
+      "pos" : "n.",
+      "word" : "privilege"
+    },
+    {
+      "collocations" : [
+        "privileged position：特权地位 privileged information：特许保密信息"
+      ],
+      "definition" : "有特权的；受特别优待的；荣幸的；幸运的；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "privilege(特权，优惠)+-d(形容词后缀)→有特权的",
+      "phonetic" : "ˈprɪvəlɪdʒd",
+      "pos" : "adj.",
+      "word" : "privileged"
+    },
+    {
+      "collocations" : [
+        "loyal to sb\/sth：对……忠诚"
+      ],
+      "definition" : "忠诚的；忠心的；忠贞的 n. 效忠的臣民",
+      "examples" : [
+
+      ],
+      "frequency" : 4824,
+      "mnemonic" : "loy(=law：法律)+al(形容词后缀，表示……的)→(对法律)信守的，忠",
+      "phonetic" : "ˈlɔiəl",
+      "pos" : "adj.",
+      "word" : "loyal"
+    },
+    {
+      "collocations" : [
+        "loyalist troops：忠于政府的部队"
+      ],
+      "definition" : "(尤指在变动时期对统治者、政府或政党)忠诚的人",
+      "examples" : [
+
+      ],
+      "mnemonic" : "loyal(忠诚的)+-ist(名词后缀，表人)→对统治者、政府忠诚的人",
+      "phonetic" : "ˈlɒɪəlɪst",
+      "pos" : "n.",
+      "word" : "loyalist"
+    },
+    {
+      "collocations" : [
+        "loyalty to\/towards sb\/sth：对……忠诚 corporate loyalty：企业忠诚度"
+      ],
+      "definition" : "忠心；忠诚；忠实",
+      "examples" : [
+
+      ],
+      "frequency" : 4116,
+      "mnemonic" : "loyal(忠诚的)+-ty(名词后缀，表性质、状态、程度)→忠心，忠诚",
+      "phonetic" : "ˈlɒɪəltɪ",
+      "pos" : "n.",
+      "word" : "loyalty"
+    },
+    {
+      "collocations" : [
+        "delegate the authority to...：将权力授予……"
+      ],
+      "definition" : "委派……为代表 n. 委托人",
+      "examples" : [
+
+      ],
+      "frequency" : 5296,
+      "mnemonic" : "de-(=from，away：离开)+leg-(=law：法律)→字面义为 to engage by",
+      "phonetic" : "ˈdɛlɪˌɡeɪt; -ɡɪt; (for v.,) ˈdɛlɪˌɡeɪt",
+      "pos" : "vt.",
+      "word" : "delegate"
+    },
+    {
+      "collocations" : [
+        "delegation of authority\/decision-making：授予权力\/决策权"
+      ],
+      "definition" : "代表团；委托；授权",
+      "examples" : [
+
+      ],
+      "frequency" : 5778,
+      "mnemonic" : "delegate(委托)+-ion(名词后缀)→代表团，委托",
+      "phonetic" : "delɪˈgeɪʃ(ə)n",
+      "pos" : "n.",
+      "word" : "delegation"
+    },
+    {
+      "collocations" : [
+        "relegate to：把……委托给"
+      ],
+      "definition" : "使(运动队，尤指足球队)降级；把降低到；使贬职",
+      "etymology" : "1590s “to banish, send into exile,” from Latin relegatus, past participle of relegare “remove, dismiss, banish, send away, schedule, put aside,” 20000 词 汇巅峰 速 记 笔 记 区 from re- “back” (see re-)+legare “send with a commission” (see legate). Meaning “place in a position of inferiority” is recorded from 1790. Related: Relegated; relegating; relegable.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-(=back：向后，往回)+-leg(=to send with a commission：因为某项委",
+      "phonetic" : "ˈrelɪgeɪt",
+      "pos" : "vt.",
+      "word" : "relegate"
+    },
+    {
+      "collocations" : [
+        "a small legacy：一小笔遗产"
+      ],
+      "definition" : "遗产；(事件或历史的)遗留问题；后遗症",
+      "etymology" : "late 14c., legacie, “body of persons sent on a mission,” from Medieval Latin legatia, from Latin legatus “ambassador, envoy, deputy,” noun use of past participle of legare “send with a commission, appoint as deputy, appoint by a last will” (see legate). Sense of “property left by will, a gift by will” appeared in Scottish mid-15c. Legacy-hunter is attested from 1690s. 14世纪末，legacie的含义为“负有某项使命的人”，来自中世纪拉 丁语legatia，来自拉丁语legatus“大使，特使，副职”，legare的过 去分词的名词含义，“带着委任状离开，任命为副手，通过最后遗 嘱任命”。15世纪中叶苏格兰出现了“因遗嘱留下来的遗产”的含 义。Legacy-hunter(为欲得遗产而向人谄谀者)一词最早于1690年代得 到证实。",
+      "examples" : [
+
+      ],
+      "frequency" : 3217,
+      "phonetic" : "ˈlegəsɪ",
+      "pos" : "n.",
+      "word" : "legacy"
+    },
+    {
+      "collocations" : [
+        "no logic to\/in：不具备正当的理由"
+      ],
+      "definition" : "思维方式；(结论或观点的)逻辑；(某种人或某行为领域的)",
+      "examples" : [
+
+      ],
+      "mnemonic" : "mid-14c., logike, “branch of philosophy that treats of forms of thinking;",
+      "phonetic" : "ˈlɒdʒɪk",
+      "pos" : "n.",
+      "word" : "logic"
+    },
+    {
+      "collocations" : [
+        "logical conclusion：合乎逻辑的结论"
+      ],
+      "definition" : "逻辑的(观点或推理方式)；必然的；合乎情理的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "logic(逻辑)+-ic(形容词后缀)→逻辑的观点或推理方式",
+      "phonetic" : "ˈlɒdʒɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "logical"
+    },
+    {
+      "collocations" : [
+        "logically impossible：逻辑上不成立"
+      ],
+      "definition" : "逻辑上地；合乎逻辑地",
+      "examples" : [
+
+      ],
+      "frequency" : 11770,
+      "mnemonic" : "logical(逻辑的)+-ly(副词后缀)→逻辑上地",
+      "phonetic" : "ˈlɑdʒɪkli",
+      "pos" : "adv.",
+      "word" : "logically"
+    },
+    {
+      "collocations" : [
+        "logistic management：物流管理"
+      ],
+      "definition" : "在组织上的；与后勤有关的的；安排协调方面的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "log(=log：理由，想法，语言)+-istic(复合形容词后缀，-ist+-ic)→在组",
+      "phonetic" : "ləˈdʒɪstɪk",
+      "pos" : "adj.",
+      "word" : "logistic"
+    },
+    {
+      "collocations" : [
+        "logistical cost：后勤成本"
+      ],
+      "definition" : "在组织上的；后勤方面的；物流的",
+      "examples" : [
+
+      ],
+      "frequency" : 12335,
+      "mnemonic" : "logistic(物流)+-al(形容词后缀)→组织上的，物流的",
+      "phonetic" : "ləˈdʒɪstɪkl",
+      "pos" : "adj.",
+      "word" : "logistical"
+    },
+    {
+      "collocations" : [
+        "predilection for...：对……偏爱"
+      ],
+      "definition" : "偏爱；钟爱",
+      "etymology" : "1742, from French prédilection (16c.), noun of action from Medieval Latin praedilectus, past participle of prediligere “prefer before others,” from Latin prae “before” (see pre-)+diligere “choose, love” (see diligent). 20000 词 汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 19464,
+      "mnemonic" : "pre-(在前)+dilect(=choose，love：选择，喜爱)+-ion(名词后缀)→相比",
+      "phonetic" : "ˈprɛdlˈɛkʃən",
+      "pos" : "n.",
+      "word" : "predilection"
+    },
+    {
+      "collocations" : [
+        "loan syndicate：贷款财团"
+      ],
+      "definition" : "联合组织；(将稿子或电视节目)出售给多个媒体；",
+      "etymology" : "1620s, “council or body of representatives,” from French syndicat (15c.), from syndic “representative of a corporation” (see syndic)+-at (see -ate (1)). Meaning “combination of capitalists or companies to carry out some commercial undertaking” first occurs 1865. Publishing sense of “association of publishers for purchasing articles, etc., for simultaneous publication in a number of newspapers” is from 1889. As a synonym for “organized crime, the Mob” it is recorded from 1929.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "syn- (=together：一起，共同)+dic- (=dict：judgment, justice, usage,",
+      "phonetic" : "ˈsɪndɪkət",
+      "pos" : "n.",
+      "word" : "syndicate"
+    },
+    {
+      "collocations" : [
+        "be syndicated throughout the world：在世界各地刊登\/播出"
+      ],
+      "definition" : "成为企业联合的 vt. (将稿子或电视节目)出售给",
+      "examples" : [
+
+      ],
+      "mnemonic" : "syndicate+-d(形容词或分词后缀)→使成为企业联合的；将……出售给",
+      "phonetic" : "ˈsindikeitid",
+      "pos" : "adj.",
+      "word" : "syndicated"
+    },
+    {
+      "collocations" : [
+        "synchronize with：(使)同步，在时间上一致，同速进行"
+      ],
+      "definition" : "(使)同步；(使)在时间上一致；(使)同速进行",
+      "etymology" : "1620s, “to occur at the same time,” from Greek synkhronizein “be of the same time,” from synkhronos “happening at the same time” (see synchronous). The transitive sense of “make synchronous” is first recorded 1806. Of timepieces by 1879. Related: Synchronized; synchronizing. Synchronized swimming is recorded from 1950.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "syn-(=together：共同)+chron(=chronous：simultaneous，同时发生)+-",
+      "phonetic" : "ˈsɪŋkrənaɪz",
+      "pos" : "vt.",
+      "word" : "synchronize"
+    },
+    {
+      "collocations" : [
+        "lecture on：有关……的演讲 lecture note：讲义，上课笔记"
+      ],
+      "definition" : "(通常指大学里的)讲座；批评；训诫 vi. 讲授 vt. 批评；责",
+      "examples" : [
+
+      ],
+      "mnemonic" : "lect-(=leg-：speak，to pick out words)+-ure(名词后缀，表行为)→说",
+      "phonetic" : "ˈlektʃə",
+      "pos" : "n.",
+      "word" : "lecture"
+    },
+    {
+      "collocations" : [
+        "senior lecturer：高级讲师 guest lecturer：客座教授"
+      ],
+      "definition" : "讲课者；演讲者；讲师",
+      "examples" : [
+
+      ],
+      "frequency" : 10601,
+      "mnemonic" : "lect-(=leg-：speak，to pick out words)+-ure(名词后缀，省略e)+-er(名",
+      "phonetic" : "ˈlektʃ(ə)rə",
+      "pos" : "n.",
+      "word" : "lecturer"
+    },
+    {
+      "collocations" : [
+        "have\/take driving lessons：学开车 teach someone a lesson：给……一个"
+      ],
+      "definition" : "课；教训",
+      "examples" : [
+
+      ],
+      "frequency" : 1332,
+      "mnemonic" : "lesson(来自拉丁语legere“to read”)→课，教训",
+      "phonetic" : "ˈles(ə)n",
+      "pos" : "n.",
+      "word" : "lesson"
+    },
+    {
+      "collocations" : [
+        "the legends of ancient Greece：古希腊的传说"
+      ],
+      "definition" : "传说；传奇人物；(地图或书中图表的)图例，说明，",
+      "etymology" : "在早期的14世纪，其含义指“事件或大事的叙述”，来自古法语 legende(12世纪， 现代法语为légende)，直接来自中世纪拉丁语 legenda“传说，故事”，特别指圣徒的生活，以前在晨祷以及在修 道院餐厅中诵读，字面意思为在教堂的指定日期被阅读的东西。引 申义有或没有圣徒、神迹和奇迹的含义“非历史的或神话故事”首先 记录于14世纪末。含义为“写作或题词”(特别是在硬币或奖章上)自 1610年代开始；自1903年起，在地图、插图等上的写作或题词的含义 开始出现。成为(某人)自己所在时代的传奇是从1958年开始。著名的 IT公司“联想公司”的英文名原本就是Legend。 联想的新标识“Lenovo”是一个有着特殊含义的字母组合，“le”取 自原先的“Legend”，承继“传奇”之意；“novo”则据说来源于拉 丁语，代表创新。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "leg-(=to speak：诵读)+-end(名词后缀)→被诵读的东西→传说，传奇",
+      "phonetic" : "ˈledʒ(ə)nd",
+      "pos" : "n.",
+      "word" : "legend"
+    },
+    {
+      "collocations" : [
+        "legendary heroes：英雄传奇"
+      ],
+      "definition" : "大名鼎鼎的；传说中的",
+      "examples" : [
+
+      ],
+      "frequency" : 5054,
+      "mnemonic" : "legend(传说)+-ary(形容词后缀)→传说的，传奇的",
+      "phonetic" : "ˈledʒ(ə)nd(ə)rɪ",
+      "pos" : "adj.",
+      "word" : "legendary"
+    },
+    {
+      "collocations" : [
+        "splendid prologue：精彩的序幕"
+      ],
+      "definition" : "开场白；前言",
+      "examples" : [
+
+      ],
+      "frequency" : 20092,
+      "mnemonic" : "pro-(=before：在前，公开)+-logu-(说话)+-e→在正式开场之前说话→",
+      "phonetic" : "ˈprəʊlɒg",
+      "pos" : "n.",
+      "word" : "prologue"
+    },
+    {
+      "collocations" : [
+        "the lexicon of finance and economics：财经词汇"
+      ],
+      "definition" : "(某语言或语言的)全部词汇；词汇表",
+      "etymology" : "c. 1600, “a dictionary, a word-book,” from Middle French lexicon or directly from Modern Latin lexicon, from Greek lexikon (biblion) “word (book),” from neuter of lexikos “pertaining to words,” from lexis “a word, a phrase; reason; way of speech, diction, style,” from legein “to say”.",
+      "examples" : [
+
+      ],
+      "frequency" : 16650,
+      "mnemonic" : "lexicon (from lexis “a word, a phrase; reason; diction”)→全部词汇，词",
+      "phonetic" : "ˈleksɪk(ə)n",
+      "pos" : "n.",
+      "word" : "lexicon"
+    },
+    {
+      "collocations" : [
+        "Expo logo：世博会徽标 logo label：商标，布标，牌号"
+      ],
+      "definition" : "商标；徽标；标识语",
+      "etymology" : "simple symbol or graphic meant to represent something, “1937, probably a shortening of logogram” sign or character representing a word.",
+      "examples" : [
+
+      ],
+      "frequency" : 6001,
+      "mnemonic" : "可能缩写自logogram，代表字词的标记，图标，logo-(字，词)，词源",
+      "phonetic" : "ˈlɒgəʊ;ˈləʊgəʊ",
+      "pos" : "n.",
+      "word" : "logo"
+    },
+    {
+      "collocations" : [
+        "a dramatic monologue：戏剧独白 interior monologue：内心独白"
+      ],
+      "definition" : "滔滔不绝的讲话；(戏剧、电影等的)独白；独角",
+      "examples" : [
+
+      ],
+      "mnemonic" : "mono-(=single，alone：单个的，单独地)+-logue(对话)→单独地、独",
+      "phonetic" : "ˈmɒn(ə)lɒg",
+      "pos" : "n.",
+      "word" : "monologue"
+    },
+    {
+      "collocations" : [
+        "local dialect：地区方言"
+      ],
+      "definition" : "方言；土语；地方话",
+      "examples" : [
+
+      ],
+      "frequency" : 11007,
+      "mnemonic" : "dia-(=across, between：从一边到另一边，在……之间)+-lect(=speak：",
+      "phonetic" : "ˈdaɪəlekt",
+      "pos" : "n.",
+      "word" : "dialect"
+    },
+    {
+      "collocations" : [
+        "materialistic dialectic：唯物辩证法"
+      ],
+      "definition" : "辩证关系；(两种力量或因素之间的)对立统一；辨",
+      "etymology" : "1640s, “relating to the art of reasoning about probabilities,” from Latin dialecticus, from Greek dialektikos “of conversation, discourse,” from dialektos “discourse, conversation” (see dialect). From 1813 as “of or pertaining to a dialect or dialects.”",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dia-(从一边到另一边，在……之间)+-lect-(诵读)+-ic(形容词后缀)→与",
+      "phonetic" : "ˌdaɪəˈlektɪk",
+      "pos" : "n.",
+      "word" : "dialectic"
+    },
+    {
+      "collocations" : [
+        "dialectical relationship：辩证关系 dialectical unity：辩证统一，二律"
+      ],
+      "definition" : "辨证的；方言的",
+      "examples" : [
+
+      ],
+      "frequency" : 17470,
+      "mnemonic" : "dialectic(辩证法的)+-al(形容词后缀)→辨证的，辩证法的，方言的",
+      "phonetic" : "daɪəˈlektɪk(ə)l",
+      "pos" : "adj.",
+      "word" : "dialectical"
+    },
+    {
+      "collocations" : [
+        "dialog box：对话框"
+      ],
+      "definition" : "对话；会话",
+      "examples" : [
+
+      ],
+      "frequency" : 16947,
+      "mnemonic" : "dia-(=across，between：在……之间)+-log-(=speak：说话)→交互之间",
+      "phonetic" : "ˈdaɪəlɒɡ",
+      "pos" : "n.",
+      "word" : "dialog"
+    },
+    {
+      "collocations" : [
+        "a constructive dialogue：一次富有建设性的对话"
+      ],
+      "definition" : "对话；(书籍、影视、戏剧中的)对白；(尤指集体或国",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dia-(=across，between：在……之间)+logue(说)→交互之间或在两人",
+      "phonetic" : "ˈdaɪəlɒg",
+      "pos" : "n.",
+      "word" : "dialogue"
+    },
+    {
+      "collocations" : [
+        "official apology：官方道歉"
+      ],
+      "definition" : "道歉；辩护；申辩",
+      "etymology" : "公元前399年，古希腊哲学家苏格拉底被雅典政府以“亵渎神灵、 败坏青年”的罪名起诉。苏格拉底在由500人组成的陪审团面前做了 著名的申辩。但申辩并没能挽救苏格拉底。苏格拉底最终被判处死 刑，饮毒而死。他的学生柏拉图将他这篇申辩词记录下来，流传后 世。 “申辩”一词在希腊语中写作apologia，意思是“自我辩护的演 讲”。其中，apo表示“远离”，等于away from，logia源自logos，表 示“演讲”，等于speech。所以apologia的本意是“自我辩护，逃离 惩罚的演讲”。英语单词apology就源自希腊语apologia，保留了“申 辩”的含义，后来又发展出“道歉、谢罪”等含义。这也跟人的习惯 做法一致，我们在“道歉”时，不也总是有意无意地替自己辩解吗？",
+      "examples" : [
+
+      ],
+      "frequency" : 4999,
+      "mnemonic" : "apo-(=away from, off：远离)+-logy(=speech：说，演讲)→a speech in",
+      "phonetic" : "əˈpɒlədʒɪ",
+      "pos" : "n.",
+      "word" : "apology"
+    },
+    {
+      "collocations" : [
+        "a colonial apologist：殖民地的辩护者"
+      ],
+      "definition" : "辩解者；辩护者",
+      "examples" : [
+
+      ],
+      "frequency" : 19889,
+      "mnemonic" : "apology(道歉，辩护)+-ist(名词后缀，表专家)→辩解的专家→辩解者",
+      "phonetic" : "əˈpɒlədʒɪst",
+      "pos" : "n.",
+      "word" : "apologist"
+    },
+    {
+      "collocations" : [
+        "apologize for...：为……道歉 apologize earnestly：真诚道歉"
+      ],
+      "definition" : "道歉；辩解；谢罪",
+      "examples" : [
+
+      ],
+      "frequency" : 3782,
+      "mnemonic" : "apology(道歉，辩护)+-ize(动词后缀)→自己证明有利，为自己进行辩",
+      "phonetic" : "əˈpɒlədʒaɪz",
+      "pos" : "vi.",
+      "word" : "apologize"
+    },
+    {
+      "collocations" : [
+        "apologetic movement：护教运动"
+      ],
+      "definition" : "道歉的；谢罪的；愧疚的15247",
+      "examples" : [
+
+      ],
+      "mnemonic" : "apology(道歉，谢罪)+-etic(形容词后缀)→道歉的，谢罪的，愧疚的",
+      "phonetic" : "əpɒləˈdʒetɪk",
+      "pos" : "adj.",
+      "word" : "apologetic"
+    },
+    {
+      "collocations" : [
+        "explain apologetically：抱歉地解释"
+      ],
+      "definition" : "辩解地；带有歉意地；道歉地",
+      "examples" : [
+
+      ],
+      "frequency" : 19699,
+      "mnemonic" : "apologetic(道歉的，谢罪的)+-ally(副词后缀)→辩解地",
+      "phonetic" : "əˌpɑləˈdʒɛtɪkli",
+      "pos" : "adv.",
+      "word" : "apologetically"
+    },
+    {
+      "collocations" : [
+        "product catalog：产品目录"
+      ],
+      "definition" : "目录 vt. & vi. 登记；为……编目录",
+      "examples" : [
+
+      ],
+      "frequency" : 4494,
+      "mnemonic" : "cata-(=down, completely：下去，彻底)+-log(=to say, account：说)→全",
+      "phonetic" : "ˈkætəlɒɡ",
+      "pos" : "n.",
+      "word" : "catalog"
+    },
+    {
+      "collocations" : [
+        "a catalogue of misfortune：接二连三地厄运 illustrated catalogue：图解"
+      ],
+      "definition" : "将……列入目录；为……编目录；列举，历数(尤",
+      "examples" : [
+
+      ],
+      "mnemonic" : "cata-(=down, completely：在下面，完全彻底)+-logue(=leg：to say,",
+      "phonetic" : "ˈkæt(ə)lɒg",
+      "pos" : "vt.",
+      "word" : "catalogue"
+    },
+    {
+      "collocations" : [
+        "analogue watch：指针式钟表"
+      ],
+      "definition" : "相似物；类似物 adj.(技术)模拟的;(钟、表)指针式的",
+      "etymology" : "1826, “an analogous thing,” from French analogue (adj. and n.), from Latin analogus (adj.), from Greek analogos “proportionate, according to due proportion,” from ana “throughout; according to” (see ana-)+logos “ratio, proportion,” a specialized use (see Logos). 20000 词 汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ana-(=ana：upon, according to, 根据)+-log(=ratio, proportion)→根据",
+      "phonetic" : "ˈænəlɒɡ",
+      "pos" : "n.",
+      "word" : "analog"
+    },
+    {
+      "collocations" : [
+        "analogous to\/with sth：与……相似，类似"
+      ],
+      "definition" : "类似的",
+      "examples" : [
+
+      ],
+      "frequency" : 10475,
+      "mnemonic" : "analog(类似物)+-ous(形容词后缀)→类似的",
+      "phonetic" : "əˈnæləgəs",
+      "pos" : "adj.",
+      "word" : "analogous"
+    },
+    {
+      "collocations" : [
+        "analogy between A and B：在A与B之间进行类比"
+      ],
+      "definition" : "类似；类推；类比",
+      "examples" : [
+
+      ],
+      "frequency" : 5995,
+      "mnemonic" : "ana-(根据)+-logy(=proportion：比例)→依据事物之间的相似度或比例",
+      "phonetic" : "əˈnælədʒɪ",
+      "pos" : "n.",
+      "word" : "analogy"
+    }
+  ]
+}

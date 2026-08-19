@@ -1,0 +1,543 @@
+{
+  "chapter" : "1",
+  "chapterOrder" : 101,
+  "id" : "psyche",
+  "meaningZh" : "the soul, mind, spirit, life, understanding",
+  "roots" : [
+    "psyche"
+  ],
+  "semanticLabel" : "the soul, mind, spirit, life, unders",
+  "source" : "textbook-5",
+  "titleZh" : "the soul, mind, spirit, life, unders",
+  "words" : [
+    {
+      "collocations" : [
+        "the human psyche：人类心理",
+        "the feminine psyche：女性心态"
+      ],
+      "definition" : "心灵；灵魂；精神",
+      "etymology" : "Psyche源出一则美丽的古罗马神话传说。少女Psyche[希神]塞姬（爱 神丘比特所爱的美女）和爱神Cupid（即希腊神话中的Eros）相恋， 每晚在一座宫殿里相会。可是Cupid一再嘱咐她不要探究他的身分， 也不许她窥看他的面容。日暮之后，他总是如约而来；日出之前， 他便迅即离去。一天夜里，Psyche由于她的姐妹的唆使，加上自己 的好奇心的驱使，在他熟睡之时，点上蜡烛偷看，方知和她相爱的 人竟是众神中最俊美的爱神Cupid。她惊喜交集，手不禁颤抖了一 下，一滴烛油落在他的肩上。Cupid顿时惊醒，旋即离去，从此不 见，宫殿也随之消失。Psyche悔恨不已，悲恸欲绝。她四处漂游，寻 觅情人，并沦为爱与美的女神Venus [罗神]维纳斯（即希腊神话中的 Aphrodite）的奴隶。Venus是Cupid的母亲，对Psyche的美貌本来就十 20000 词汇巅峰 速 记 分嫉妒，她逼她干各种活儿，想方设法摧残折磨她。最后，Psyche 历尽种种磨难，终于和Cupid重聚，结为夫妇，并成为灵魂、精神和 生命之神。追根溯源，psychology中的构词成分psycho实由Psyche演 变而来。除了psychology，英语中还有不少词，诸如psychic（精神 的，心理的），psychiatry（精神病学），psychoanalysis （精神分 析），psychotic（精神病患者），psychosis（精神变态，精神病）， psychopath（精神变态者），等等，均源出Psyche一词。",
+      "examples" : [
+
+      ],
+      "frequency" : 7934,
+      "mnemonic" : "来自希腊语psykhe，精神，灵魂，心理。",
+      "phonetic" : "ˈsaɪkɪ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psyche"
+    },
+    {
+      "collocations" : [
+        "educational \/ social etc. psychology：教育\/社会心理学",
+        "research into the psychology of racism：对种族歧视心理的研究",
+        "the psychology of three-year-olds：三岁孩子的思想"
+      ],
+      "definition" : "心理学；（做某事的）心理[+of ]；心理；观念",
+      "examples" : [
+
+      ],
+      "mnemonic" : "psycho-（心理；精神）+ -logy（名词后缀，表示某学科，……学）\n→心理学；心理",
+      "phonetic" : "saɪˈkɒlədʒi",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychology"
+    },
+    {
+      "collocations" : [
+        "the British Journal of Psychiatry：《英国精神病学杂志》"
+      ],
+      "definition" : "精神病学；精神病治疗学",
+      "examples" : [
+
+      ],
+      "frequency" : 10203,
+      "mnemonic" : "psyche（=mind：精神）+ -iatry（=healing：治疗）→精神治疗学；精",
+      "phonetic" : "saɪˈkaɪətrɪ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychiatry"
+    },
+    {
+      "collocations" : [
+        "a psychiatric hospital \/ nurse：精神病医院 \/ 护理人员",
+        "psychiatric treatment：精神病治疗",
+        "psychiatric disorders：精神紊乱"
+      ],
+      "definition" : "治疗精神病的；精神病的",
+      "examples" : [
+
+      ],
+      "frequency" : 5552,
+      "mnemonic" : "psychiatry（精神病学；精神病治疗学）+ -ic（形容词后缀）→治疗精",
+      "phonetic" : "ˌsaɪkɪˈætrɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychiatric"
+    },
+    {
+      "collocations" : [
+        "a consulting psychiatrist：一名咨询精神病医生"
+      ],
+      "definition" : "精神病学家；精神科医生",
+      "examples" : [
+
+      ],
+      "frequency" : 5244,
+      "mnemonic" : "psychiatry（精神病学；精神病治疗学）+ -ist（名词后缀，表示从事\n某种职业的人，专家）→精神病学家；精神科医生",
+      "phonetic" : "saɪˈkaɪətrɪst",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychiatrist"
+    },
+    {
+      "collocations" : [
+        "a spiritual healer with psychic powers：有超自然力量的精神治疗师",
+        "psychic disorders （=illnesses ）：精神错乱"
+      ],
+      "definition" : "有超自然力量的；通灵的；能洞察人心的；能预知未",
+      "examples" : [
+
+      ],
+      "mnemonic" : "psych-（精神；灵魂）+ -ic（形容词后缀）→与精神、灵魂有关的→",
+      "phonetic" : "ˈsaɪkɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychic"
+    },
+    {
+      "collocations" : [
+        "complicated psychosocial expectation：复杂的社会心理期望"
+      ],
+      "definition" : "社会心理的",
+      "examples" : [
+
+      ],
+      "frequency" : 10329,
+      "mnemonic" : "pyscho-（精神的）+ social（社会的）→社会心理的",
+      "phonetic" : "saɪkəʊˈsəʊʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychosocial"
+    },
+    {
+      "collocations" : [
+        "certain forms of psychotherapy：某些形式的心理疗法"
+      ],
+      "definition" : "心理疗法；精神疗法",
+      "examples" : [
+
+      ],
+      "frequency" : 12828,
+      "mnemonic" : "psycho-（精神；心理）+ therapy（治疗）→心理治疗→心理疗法",
+      "phonetic" : "saɪkə(ʊ)ˈθerəpɪ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychotherapy"
+    },
+    {
+      "collocations" : [
+        "consult a psychotherapist：咨询一个精神治疗法医生"
+      ],
+      "definition" : "心理治疗师",
+      "examples" : [
+
+      ],
+      "frequency" : 14975,
+      "mnemonic" : "psychotherapy（心理疗法）+ -ist（名词后缀，表示从事某种职业的\n人）→心理治疗师",
+      "phonetic" : "ˌsaɪkəʊˈθerəpɪst",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychotherapist"
+    },
+    {
+      "collocations" : [
+        "remake of Psycho：重拍一部关于精神病人的电影"
+      ],
+      "definition" : "精神病患者",
+      "examples" : [
+
+      ],
+      "frequency" : 16684,
+      "mnemonic" : "psychological和psychopathic的简写",
+      "phonetic" : "ˈsaɪkəʊ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psycho"
+    },
+    {
+      "collocations" : [
+        "disciplines as far-flung as poetry and psychoanalysis：诸如诗歌艺术、精"
+      ],
+      "definition" : "精神分析",
+      "examples" : [
+
+      ],
+      "frequency" : 14776,
+      "mnemonic" : "psycho-（精神；心理）+ analysis（分析）→精神分析",
+      "phonetic" : "ˌsaɪkəʊəˈnælɪsɪs",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychoanalysis"
+    },
+    {
+      "collocations" : [
+        "a psychoanalytic approach：精神分析法",
+        "psychoanalytic therapy：心理分析疗法"
+      ],
+      "definition" : "心理分析的",
+      "examples" : [
+
+      ],
+      "frequency" : 16394,
+      "mnemonic" : "psychoanaly（=psychoanalysis：精神分析）+ -tic（形容词后缀）→",
+      "phonetic" : "ˌsaɪkəʊˌænəˈlɪtɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychoanalytic"
+    },
+    {
+      "collocations" : [
+        "psychometric tests：心理测试"
+      ],
+      "definition" : "心理测量的；精神测定的",
+      "examples" : [
+
+      ],
+      "frequency" : 16085,
+      "mnemonic" : "psycho-（精神；心理）+ -metr（=meter：测量）+ -ic（形容词后缀）\n→心理测量的；精神测定的",
+      "phonetic" : "ˌsaɪkəˈmɛtrɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychometric"
+    },
+    {
+      "collocations" : [
+        "a dangerous psychopath：一名危险的精神变态者"
+      ],
+      "definition" : "（暴力或犯罪的）精神病患者；精神变态者",
+      "examples" : [
+
+      ],
+      "mnemonic" : "psycho-（精神；心理）+ -path（=suffering, disorder：疾病。词源同\npathology）→精神病患者；精神变态者",
+      "phonetic" : "ˈsaɪkəpæθ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychopath"
+    },
+    {
+      "collocations" : [
+        "the incidence of manic psychosis：狂躁型精神病的发病"
+      ],
+      "definition" : "精神病；精神错乱",
+      "examples" : [
+
+      ],
+      "frequency" : 18835,
+      "mnemonic" : "psyche（精神；心理）+ -osis（=abnormal condition：异常情况）→精",
+      "phonetic" : "saɪˈkəʊsɪs",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "psychosis"
+    },
+    {
+      "collocations" : [
+        "psychotic patients：精神病患者",
+        "a psychotic disorder \/ illness：精神错乱；精神疾病"
+      ],
+      "definition" : "精神错乱的；精神失常的",
+      "examples" : [
+
+      ],
+      "frequency" : 13680,
+      "mnemonic" : "psycho-（精神；心理）+ -otic（形容词后缀）→精神错乱的；精神失",
+      "phonetic" : "saɪˈkɒtɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychotic"
+    },
+    {
+      "collocations" : [
+        "psychedelic patterns：光怪陆离的图案"
+      ],
+      "definition" : "引起幻觉的；（艺术）光怪陆离的，造",
+      "examples" : [
+
+      ],
+      "mnemonic" : "根据希腊语创造出来的一个词。psyche（来自希腊语psykhē=mind：",
+      "phonetic" : "ˌsaɪkəˈdelɪk;-ˈdiːlɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "psychedelic"
+    },
+    {
+      "collocations" : [
+        "before one’s eyes \/ in front of one’s eyes\/under one’s eyes：在……眼前 \/"
+      ],
+      "definition" : "眼睛；眼光；（龙卷风、飓风的）眼 vt. 注视",
+      "etymology" : "c. 1200, from Old English ege (Mercian), eage (West Saxon) “eye; region around the eye; apperture, hole,” from Proto-Germanic *augon (source also of Old Saxon aga, Old Frisian age, Old Norse auga, Swedish öga, Danish øie, Middle Dutch oghe, Dutch oog, Old High German ouga, German Auge, Gothic augo “eye”). Apparently the Germanic form evolved irregularly from PIE root *okw- “to see.”",
+      "examples" : [
+
+      ],
+      "frequency" : 243,
+      "phonetic" : "aɪ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eye"
+    },
+    {
+      "collocations" : [
+        "up to the eyeballs；深陷困境",
+        "eyeball to eyeball：面对面；对峙"
+      ],
+      "definition" : "眼球 vt. 盯着看",
+      "examples" : [
+
+      ],
+      "frequency" : 11200,
+      "mnemonic" : "eye（眼睛）+ ball（球）→眼球；盯着看",
+      "phonetic" : "ˈaɪbɔːl",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyeball"
+    },
+    {
+      "collocations" : [
+        "raise an eyebrow psychoanalytic to raise one’s eyebrows：扬起眉毛（表"
+      ],
+      "definition" : "眉毛",
+      "examples" : [
+
+      ],
+      "frequency" : 4516,
+      "mnemonic" : "eye（眼睛）+ brow（眉毛）→眉毛",
+      "phonetic" : "ˈaɪbraʊ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyebrow"
+    },
+    {
+      "collocations" : [
+        "a series of eye-catching ads：一系列引人注目的广告"
+      ],
+      "definition" : "引人注目的",
+      "examples" : [
+
+      ],
+      "frequency" : 19827,
+      "mnemonic" : "eye（眼睛）+ catch（抓住）+ -ing（形容词后缀）→抓住眼睛的→引",
+      "phonetic" : "ˈaiˌkætʃiŋ",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "eye-catching"
+    },
+    {
+      "collocations" : [
+        "dramatic inflation and global economic decline：令人瞩目的通货膨胀和"
+      ],
+      "definition" : "突然引人注目的；紧张刺激的；戏剧的",
+      "examples" : [
+
+      ],
+      "frequency" : 2137,
+      "mnemonic" : "drama（戏剧）+ t（无意义）+ -ic（形容词后缀）→戏剧般的跌宕起\n伏→引人注目的；紧张刺激的",
+      "phonetic" : "drəˈmætɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "dramatic"
+    },
+    {
+      "collocations" : [
+        "dramatically increase：急剧上升"
+      ],
+      "definition" : "突然引人注目地；戏剧性地",
+      "examples" : [
+
+      ],
+      "frequency" : 3394,
+      "phonetic" : "drəˈmætɪkəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "psyche",
+      "word" : "dramatically"
+    },
+    {
+      "collocations" : [
+        "a costume \/ historical, etc. drama：古装、历史等剧",
+        "drama school：戏剧学校",
+        "a powerful human drama：一个极富人情味的戏剧性事件",
+        "the drama of the situation：充满激情的场面"
+      ],
+      "definition" : "戏剧；戏剧艺术；戏剧性情节；激动，刺激",
+      "examples" : [
+
+      ],
+      "frequency" : 2654,
+      "phonetic" : "ˈdrɑːmə",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "drama"
+    },
+    {
+      "collocations" : [
+        "an incident later dramatized in the film ...：一个事件后来被改编成了电"
+      ],
+      "definition" : "把（小说、故事等）改编为剧本；使戏剧化；编",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈdræmətaɪz",
+      "pos" : "vt.",
+      "rootHint" : "psyche",
+      "word" : "dramatize"
+    },
+    {
+      "collocations" : [
+        "a gripping Victorian melodrama：动人心弦的维多利亚时代情节剧"
+      ],
+      "definition" : "情节剧；过于夸大的事件（或行为等）",
+      "etymology" : "来自法语melodrame,歌舞剧，后引申词义夸张的爱情剧，情节剧，过 于夸大的事件（或行为等）等。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "melo（=melody：旋律；乐曲）+ drama（戏剧）→歌舞剧；情节剧；",
+      "phonetic" : "ˈmelə(ʊ)drɑːmə",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "melodrama"
+    },
+    {
+      "collocations" : [
+        "a melodramatic plot：耸人听闻的情节"
+      ],
+      "definition" : "过于夸张的；耸人听闻的",
+      "examples" : [
+
+      ],
+      "frequency" : 18053,
+      "phonetic" : "melədrəˈmætɪk",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "melodramatic"
+    },
+    {
+      "collocations" : [
+        "eyeglass frames：眼镜架"
+      ],
+      "definition" : "镜片；单片眼镜",
+      "examples" : [
+
+      ],
+      "frequency" : 15047,
+      "mnemonic" : "eye（眼睛）+ glass（给某物加玻璃）→给眼睛上加玻璃→镜片",
+      "phonetic" : "ˈaɪglɑːs",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyeglass"
+    },
+    {
+      "collocations" : [
+        "false eyelashes：假睫毛",
+        "flutter one’s eyelashes：眨一下眼睫毛"
+      ],
+      "definition" : "睫毛",
+      "examples" : [
+
+      ],
+      "frequency" : 13655,
+      "mnemonic" : "eye（眼睛）+ lash（睫毛）→睫毛",
+      "phonetic" : "ˈaɪlæʃ",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyelash"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "眼皮；眼睑",
+      "examples" : [
+
+      ],
+      "frequency" : 8820,
+      "mnemonic" : "eye（眼睛）+ lid（盖子；眼皮）→盖住眼睛的东西→眼皮",
+      "phonetic" : "ˈaɪlɪd",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyelid"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（望远镜或显微镜的）目镜",
+      "examples" : [
+
+      ],
+      "frequency" : 11658,
+      "mnemonic" : "eye（眼睛）+ piece（the piece of glass=a lens：透镜）→帮助眼睛看\n远方的透镜→（望远镜或显微镜的）目镜",
+      "phonetic" : "ˈaɪpiːs",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "eyepiece"
+    },
+    {
+      "collocations" : [
+        "in wide-eyed amazement：睁大眼睛惊讶地",
+        "lose a lot of its wide-eyed innocence：失去了许多单纯和天真的品质"
+      ],
+      "definition" : "（因恐惧、惊讶等）睁大眼睛的；无经验的；天",
+      "examples" : [
+
+      ],
+      "mnemonic" : "wide（张大的）+ eyed（眼睛的）→眼睛张大的→（因恐惧、惊讶",
+      "phonetic" : "ˈwaidˌaid",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "wide-eyed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "斜视",
+      "examples" : [
+
+      ],
+      "frequency" : 15363,
+      "phonetic" : "ˈwɔlˌai",
+      "pos" : "n.",
+      "rootHint" : "psyche",
+      "word" : "walleye"
+    },
+    {
+      "collocations" : [
+        "black-eyed peas：黑眼豆豆"
+      ],
+      "definition" : "黑眼睛的",
+      "examples" : [
+
+      ],
+      "frequency" : 18326,
+      "mnemonic" : "black（黑色）+ eyed（眼睛的）→黑眼睛的",
+      "phonetic" : "ˈblækaid",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "black-eyed"
+    },
+    {
+      "collocations" : [
+        "blue-eyed boy：宠儿；红人（受到特别欢迎的人）"
+      ],
+      "definition" : "蓝眼睛的；受宠的",
+      "examples" : [
+
+      ],
+      "frequency" : 17180,
+      "mnemonic" : "black（蓝色）+ eyed（眼睛的）→蓝眼睛的；受宠的",
+      "phonetic" : "ˈblu:ˌaid",
+      "pos" : "adj.",
+      "rootHint" : "psyche",
+      "word" : "blue-eyed"
+    }
+  ]
+}

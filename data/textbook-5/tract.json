@@ -1,0 +1,1550 @@
+{
+  "chapter" : "14",
+  "chapterOrder" : 114,
+  "id" : "tract",
+  "meaningEn" : "拉，与单词draw",
+  "meaningZh" : "拉，拽，抽，此外，词根-treat",
+  "roots" : [
+    "tract"
+  ],
+  "semanticLabel" : "拉，拽，抽，此外，词根-treat",
+  "source" : "textbook-5",
+  "titleZh" : "拉，拽，抽，此外，词根-treat",
+  "words" : [
+    {
+      "collocations" : [
+        "drag the chair over to the window：把椅子拖到了窗口那边",
+        "drag myself out of bed：硬撑着从床上爬了起来"
+      ],
+      "definition" : "（使劲而吃力地）拖，拉，拽，扯；缓慢而费力地移动（或",
+      "etymology" : "Late 15c., “to draw away by force, pull haul”，含义为“用力拉开，拖， 拉”。from Old Norse draga, or a dialectal variant of Old English dragan “to draw,” both from Proto-Germanic *draganan “to draw, pull,” perhaps from a PIE *dhregh- “to draw, drag on the ground”.",
+      "examples" : [
+        "Walking’s a drag—let’s drive there.\n步行太累了—咱们开车去吧\nHaving to work late every day is a drag.\n每天都得晚下班可真讨厌。"
+      ],
+      "mnemonic" : "drag=draw by force, pull, haul→使劲而吃力地拖，拉；缓慢而费力地",
+      "phonetic" : "dræg",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "drag"
+    },
+    {
+      "collocations" : [
+        "spend six weeks in traction：做了六个星期的牵引治疗"
+      ],
+      "definition" : "牵引，拖拉；牵引（使体内断骨复位的疗法）",
+      "examples" : [
+
+      ],
+      "frequency" : 10231,
+      "mnemonic" : "tract（牵引）+ -ion（名词后缀）→牵引；拖拉",
+      "phonetic" : "ˈtrækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "traction"
+    },
+    {
+      "collocations" : [
+        "walking tractor：手扶拖拉机 wheeled tractor：轮式拖拉机"
+      ],
+      "definition" : "拖拉机；牵引车",
+      "examples" : [
+
+      ],
+      "frequency" : 6645,
+      "phonetic" : "ˈtræktə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tractor"
+    },
+    {
+      "collocations" : [
+        "attract investment：招商引资"
+      ],
+      "definition" : "吸引；引起……的兴趣；吸引（支持或资金等）",
+      "examples" : [
+
+      ],
+      "frequency" : 1881,
+      "mnemonic" : "at-（=to）+ -tract（=to draw, pull：拖；拉动）→吸引（被“吸引”即",
+      "phonetic" : "əˈtrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "attract"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "吸引",
+      "examples" : [
+        "The Cardiff Bay project is attracting many visitors.\n加的夫海湾项目吸引了众多游客。"
+      ],
+      "frequency" : 13514,
+      "phonetic" : "əˈtræktɪŋ",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "attracting"
+    },
+    {
+      "collocations" : [
+        "the level of attraction to the opposite sex：对异性的吸引程度",
+        "the attractions of living on the waterfront：滨水生活的吸引力",
+        "an important tourist attraction：一个重要的旅游胜地"
+      ],
+      "definition" : "吸引（常指异性）；吸引力；游览胜地",
+      "examples" : [
+
+      ],
+      "frequency" : 3836,
+      "mnemonic" : "attract（吸引）+ -ion（名词后缀）→吸引；吸引力",
+      "phonetic" : "əˈtrækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "attraction"
+    },
+    {
+      "collocations" : [
+        "attractive female executives：有吸引力的女性高管",
+        "a big house with an attractive garden：带有美丽花园的一所巨宅"
+      ],
+      "definition" : "有魅力的；外表漂亮的；有诱惑力的",
+      "examples" : [
+
+      ],
+      "frequency" : 2835,
+      "phonetic" : "əˈtræktɪv",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "attractive"
+    },
+    {
+      "collocations" : [
+        "physical attractiveness：外表的魅力"
+      ],
+      "definition" : "魅力",
+      "examples" : [
+
+      ],
+      "frequency" : 14029,
+      "phonetic" : "əˈtræktɪvnəs",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "attractiveness"
+    },
+    {
+      "collocations" : [
+        "an unattractive shade of orange：一种难看的橙色",
+        "be unattractive to many insurers：不受许多保险公司青睐"
+      ],
+      "definition" : "（外表）不吸引人的；不招人喜爱的",
+      "examples" : [
+
+      ],
+      "frequency" : 14302,
+      "phonetic" : "ˌʌnəˈtræktɪv",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "unattractive"
+    },
+    {
+      "collocations" : [
+        "abstract thinking：抽象思维",
+        "abstract words such as glory, honour, and courage：诸如光荣、荣誉、勇"
+      ],
+      "definition" : "抽象的（名词、艺术等） n. 抽象作品；摘要",
+      "examples" : [
+
+      ],
+      "frequency" : 4045,
+      "mnemonic" : "abs-（=off, away from：分离；离开）+ -tract（抽；拉）→从文章中\n“抽”出来的部分→摘要；“抽”象的",
+      "phonetic" : "ˈæbstrækt",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "abstract"
+    },
+    {
+      "collocations" : [
+        "water abstraction from rivers：从河流中抽取水"
+      ],
+      "definition" : "抽象概念；心神专注（注意力被抽取，集中到",
+      "examples" : [
+
+      ],
+      "phonetic" : "æbˈstrækʃn",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "abstraction"
+    },
+    {
+      "collocations" : [
+        "sign a long-term contract：签订一个长期合同",
+        "be contracted：被压缩",
+        "labor contract：劳动合同",
+        "to contract AIDS \/ a virus \/ a disease：感染艾滋病\/病毒\/疾病",
+        "contract the leg muscles：收缩腿部肌肉",
+        "contract to the finance department：与财务部门签订了合同",
+        "contract in （to sth.）：订约参与",
+        "contract out （of sth.）：退出（或不参加）……合约",
+        "contract sth. out （to sb.）：订约把……承包给某人"
+      ],
+      "definition" : "&vi. 收缩；感染（疾病）；与……订立合同（或契",
+      "examples" : [
+
+      ],
+      "mnemonic" : "con-（一起）+ -tract（拉）→把（甲乙双方）拉到一起→引申义：确\n立条款，签订合同→签约；收缩（拉到一起）；感染（细菌感染到身",
+      "phonetic" : "ˈkɒntrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "contract"
+    },
+    {
+      "collocations" : [
+        "a contracting market：萎缩的市场",
+        "general contracting：总承包服务",
+        "contracting party：缔约方"
+      ],
+      "definition" : "缔约的；承包的；收缩的",
+      "examples" : [
+
+      ],
+      "frequency" : 12273,
+      "phonetic" : "kənˈtræktɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "contracting"
+    },
+    {
+      "collocations" : [
+        "the sudden contraction of the markets：市场的骤然收缩"
+      ],
+      "definition" : "收缩；缩写式；（肌肉的）收缩，（尤指分",
+      "examples" : [
+        "The contractions started coming every five minutes."
+      ],
+      "phonetic" : "kənˈtrækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "contraction"
+    },
+    {
+      "collocations" : [
+        "the building contractor：建筑承包商"
+      ],
+      "definition" : "承包人；承包商",
+      "examples" : [
+
+      ],
+      "frequency" : 3781,
+      "phonetic" : "kənˈtræktə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "contractor"
+    },
+    {
+      "collocations" : [
+        "fulfill certain contractual obligations：履行合同规定的某些义务",
+        "be contractually bound to：受合同约束"
+      ],
+      "definition" : "合同的；契约的；按合同（或契约）规定的",
+      "examples" : [
+
+      ],
+      "phonetic" : "kənˈtræktʃuəl",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "contractual"
+    },
+    {
+      "collocations" : [
+        "a possible subcontractor to build the aeroplane：可能制造这架飞机的分"
+      ],
+      "definition" : "分包商；分包人",
+      "examples" : [
+
+      ],
+      "frequency" : 16162,
+      "mnemonic" : "sub-（=under：在…下面）+ contract（承包）+ -or（名词后缀，表\n人）→在下面承包的人→分包商；分包人",
+      "phonetic" : "sʌbkənˈtræktə(r)",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "subcontractor"
+    },
+    {
+      "collocations" : [
+        "distract him from his homework：让他做家庭作业时分心"
+      ],
+      "definition" : "转移（注意力）；分散（思想）；使分心",
+      "examples" : [
+        "One group was left undistracted while the other had to engage in a\nconversation using a speakerphone. 其中一组不受任何干扰，而另外一\n组则需要使用免提电话与他人进行交谈。"
+      ],
+      "frequency" : 4548,
+      "mnemonic" : "dis-（=away：朝另一个方向）+ -tract（拉；拽）→朝另一个方向\n拉，拽→转移（注意力）；分散（思想）；使分心",
+      "phonetic" : "dɪˈstrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "distract"
+    },
+    {
+      "collocations" : [
+        "cinema audiences looking for distraction：寻求解闷的电影观众",
+        "drive me to distraction：闹得我心烦意乱"
+      ],
+      "definition" : "分散注意力的事，使人分心的事；娱乐，消遣",
+      "examples" : [
+
+      ],
+      "phonetic" : "dɪˈstrækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "distraction"
+    },
+    {
+      "collocations" : [
+        "distraught parents：烦躁不安的父母"
+      ],
+      "definition" : "心烦意乱的；发狂的",
+      "examples" : [
+
+      ],
+      "frequency" : 12201,
+      "mnemonic" : "来自distract, 分心。-ght，拼写模仿caught, bought, taught, brought。即",
+      "phonetic" : "dɪˈstrɔːt",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "distraught"
+    },
+    {
+      "collocations" : [
+        "extract sth. from：从……提取出……",
+        "extract further information：探取进一步信息",
+        "extract the maximum political advantage：谋取最大的政治利益",
+        "extract the tooth：拔掉这颗牙",
+        "extract coal：采煤"
+      ],
+      "definition" : "提取；取出；拔牙；探取（消息）；摘取（信息）",
+      "examples" : [
+        "They used to look for potential and saw it as part of their job to extract the\nvalue of an applicant’s skills.\n他们过去常常去发现申请者的潜能，并把从申请者的技能中提取价值\n看作是他们工作的一部分。"
+      ],
+      "mnemonic" : "ex-（=out, out of：出来）+ -tract（=to draw：拉；提取；抽取）→抽\n出来→提取；取出；拔牙；探取；摘取（把文字“抽”出来）",
+      "phonetic" : "ˈekstrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "extract"
+    },
+    {
+      "collocations" : [
+        "manage the extraction of oil：管理石油的提炼"
+      ],
+      "definition" : "提炼；提取；摘录；选段；高浓缩汁液",
+      "examples" : [
+
+      ],
+      "frequency" : 10741,
+      "phonetic" : "ɪkˈstrækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "extraction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（从一数中）减去（另一数）",
+      "examples" : [
+        "Add up the bills for each month. Take this away from the income.\n把每个月的帐单加起来。从收入中减去这个。\n6 subtracted from 9 is 3.\n9减6等于3。"
+      ],
+      "frequency" : 10488,
+      "mnemonic" : "sub-（下；下面）+ -tract（抽；拉）→从下面抽掉→减去",
+      "phonetic" : "səbˈtrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "subtract"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "减损；毁损；贬低",
+      "examples" : [
+        "He was determined not to let anything detract from his enjoyment of the trip.\n他下决心这次旅行不让任何事情影响他的兴致。\nThey feared that the publicity surrounding him would detract from their\nown election campaigns.\n他们担心围绕他的宣传会有损他们自已的竞选活动。"
+      ],
+      "frequency" : 14892,
+      "mnemonic" : "de-（=down：向下）+ -tract（=to pull：拉）→to take down, pull down,\ndisparage：即向下拉；减损；贬低",
+      "phonetic" : "dɪˈtrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "detract"
+    },
+    {
+      "collocations" : [
+        "silence many of his detractors：让他的很多诋毁者哑口无言"
+      ],
+      "definition" : "诋毁者；贬低者",
+      "examples" : [
+
+      ],
+      "frequency" : 12811,
+      "phonetic" : "dɪˈtræktə(r)",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "detractor"
+    },
+    {
+      "collocations" : [
+        "protracted delays\/disputes\/negotiations：持久的延误\/争论\/谈判",
+        "a protracted civil war：一场旷日持久的内战"
+      ],
+      "definition" : "拖延的；持久的",
+      "examples" : [
+
+      ],
+      "frequency" : 12095,
+      "mnemonic" : "pro-（=forward：向前）+ -tract-（=to draw：拉）+-ed（形容词后缀）\n→往前拉的→拖延的；持久的",
+      "phonetic" : "prəˈtræktɪd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "protracted"
+    },
+    {
+      "collocations" : [
+        "retract the statement：收回声明"
+      ],
+      "definition" : "&vi. 收回，撤回说出的话；使缩回；缩回",
+      "examples" : [
+        "Torn muscles retract and lose strength, structure, and tightness.\n撕裂了的肌肉会收缩，进而丧失力量、结构和紧实度。\n单词 train 的含义为“训练；火车；行列；拖裾”等。"
+      ],
+      "frequency" : 14366,
+      "mnemonic" : "re-（向后；往回）+ -tract（拉）→to draw back, take back：往回拉、\n向后拉→收回；撤回说出的话；缩回",
+      "phonetic" : "rɪˈtrækt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "retract"
+    },
+    {
+      "collocations" : [
+        "to get on \/ off a train：上 \/ 下火车",
+        "a camel train：骆驼队",
+        "a train of events：一系列的事件",
+        "a train of thought：一连串的想法"
+      ],
+      "definition" : "训练；进行体育锻炼；培养……的能力（或素质）；使（植",
+      "etymology" : "来自古法语train “tracks, path, trail (of a rome or gown); act of dragging,” from trainer “to pull, drag, draw”. 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "phonetic" : "treɪn",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "train"
+    },
+    {
+      "collocations" : [
+        "a professionally-trained chef：受过职业培训的厨师"
+      ],
+      "definition" : "受过培训的7880",
+      "examples" : [
+
+      ],
+      "phonetic" : "treɪnd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "trained"
+    },
+    {
+      "collocations" : [
+        "a management trainee：管理实习",
+        "a trainee teacher：实习教师"
+      ],
+      "definition" : "接受培训者；实习生",
+      "examples" : [
+
+      ],
+      "frequency" : 11178,
+      "phonetic" : "treɪˈniː",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "trainee"
+    },
+    {
+      "collocations" : [
+        "a pair of trainers：一双运动鞋",
+        "a racehorse trainer：赛马驯马师"
+      ],
+      "definition" : "运动鞋；教员；驯兽师；教练员",
+      "examples" : [
+
+      ],
+      "frequency" : 4512,
+      "phonetic" : "ˈtreɪnə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "trainer"
+    },
+    {
+      "collocations" : [
+        "staff training：职工培训",
+        "a training course：培训课程",
+        "to be in training for a race：在进行赛前训练"
+      ],
+      "definition" : "训练；培训；（为参加体育比赛而进行的）锻炼",
+      "examples" : [
+
+      ],
+      "frequency" : 798,
+      "phonetic" : "ˈtreɪnɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "training"
+    },
+    {
+      "collocations" : [
+        "retrain as a teacher：重新培养成为一名教师"
+      ],
+      "definition" : "&vi. （接受）重新培养，再教育",
+      "examples" : [
+
+      ],
+      "frequency" : 15781,
+      "phonetic" : "ˌriːˈtreɪn",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "retrain"
+    },
+    {
+      "collocations" : [
+        "untrained staff：未经培训的员工"
+      ],
+      "definition" : "未受训练的",
+      "examples" : [
+
+      ],
+      "frequency" : 16662,
+      "phonetic" : "ˌʌnˈtreɪnd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "untrained"
+    },
+    {
+      "collocations" : [
+        "measures such as the retraining of the workforce at their place of work："
+      ],
+      "definition" : "再培训",
+      "examples" : [
+
+      ],
+      "frequency" : 20149,
+      "phonetic" : "ˌriːˈtreɪnɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "retraining"
+    },
+    {
+      "collocations" : [
+        "treat it as a case of attempted murder：将其作为谋杀未遂案件来处理",
+        "be treated for a minor head wound：因头部轻伤而接受治疗",
+        "treat someone to ice cream：请某人吃冰淇淋",
+        "treat myself to a day’s gardening：款待自己享受一天的园艺乐趣",
+        "some special treat：一些特别的款待（礼物）"
+      ],
+      "definition" : "对待；治疗；（用某种物质）处理；款待 n. 款待",
+      "etymology" : "14世纪，treat的含义为“negotiate, bargain, deal with”，即“谈判，讨价 还价，处理”。来自拉丁语tractare “manage, handle, deal with, conduct oneself toward”. 含义为“设法做成某事，成功处理，处理，（某人在 某情形中的） 行为方式”。“不需付钱就用食物和饮料款待某人”的 含义出现于16世纪。“试图治愈和治疗”的含义出现于18世纪。",
+      "examples" : [
+
+      ],
+      "frequency" : 963,
+      "phonetic" : "triːt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "treat"
+    },
+    {
+      "collocations" : [
+        "medical treatment：医疗治疗",
+        "chemical treatment plant：化学处理厂"
+      ],
+      "definition" : "治疗；处理；对待；（采用某种物质的）处理",
+      "examples" : [
+        "We don’t want any special treatment.\n我们不需要任何特殊待遇。"
+      ],
+      "frequency" : 746,
+      "phonetic" : "ˈtriːtm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "treatment"
+    },
+    {
+      "collocations" : [
+        "Locke’s Treatise on Civil Government：洛克的《政府论》"
+      ],
+      "definition" : "（专题）论文；论述",
+      "etymology" : "Early 14c., from Anglo-French tretiz (mid-13c.), contracted from Old French traitis “treatise, account,” from traitier “deal with; set forth in speech or writing”.",
+      "examples" : [
+
+      ],
+      "frequency" : 1828,
+      "mnemonic" : "treat（set forth in speech or writing：在演讲或写作中阐明、陈述）\n+-ise（名词后缀）→引申义：论文；论述",
+      "phonetic" : "ˈtriːtɪs;-ɪz",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "treatise"
+    },
+    {
+      "collocations" : [
+        "the Treaty of Rome：《罗马条约》",
+        "a peace treaty：和平协定",
+        "to draw up \/ sign \/ ratify a treaty：起草 \/ 签署 \/ 正式批准条约",
+        "under the terms of the treaty：根据这个条约的条款"
+      ],
+      "definition" : "（国家之间的）条约；协定",
+      "examples" : [
+
+      ],
+      "frequency" : 2861,
+      "mnemonic" : "treat（to negotiate, handle：谈判；处理）+-y（名词后缀）→谈判之后",
+      "phonetic" : "ˈtriːtɪ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "treaty"
+    },
+    {
+      "collocations" : [
+        "retreat after suffering heavy losses：因伤亡惨重被迫撤退",
+        "retreat back down the mountain：从山上撤了下来",
+        "retreating figure：身影渐渐远去"
+      ],
+      "definition" : "退却；撤退；离开（=recede）；（由于批评或环境过于",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-（回）+ treat（拉；拖）→拖回来，拉回来→撤退；退却；退缩；",
+      "phonetic" : "rɪˈtriːt",
+      "pos" : "vi.",
+      "rootHint" : "tract",
+      "word" : "retreat"
+    },
+    {
+      "collocations" : [
+        "untreated sewage：未经处理的污水",
+        "untreated cotton：未经加工的棉布"
+      ],
+      "definition" : "未经治疗的；未经处理的；未经加工的",
+      "examples" : [
+
+      ],
+      "frequency" : 12572,
+      "phonetic" : "ˌʌnˈtriːtɪd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "untreated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "很难对付（或处理）的；棘手的",
+      "etymology" : "c. 1500, “rough, stormy;” 1540s, “not manageable,” from French intractable (15c.) or directly from Latin intractabilis “not to be handled, unmanageable”. Related: Intractably. 反义词：tractable，manageable：易处理的；易驾驭的",
+      "examples" : [
+        "The economy still faces intractable problems.\n经济依然面临一些棘手的问题。"
+      ],
+      "frequency" : 14225,
+      "mnemonic" : "in-（=not：不）+ tractable（=to be handled, manageable：能处理的；\n能应付的）→不能处理的；不能应付的→很难对付的；棘手的",
+      "phonetic" : "ɪnˈtræktəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "intractable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指在身体上）虐待",
+      "examples" : [
+
+      ],
+      "frequency" : 15070,
+      "mnemonic" : "mis-（不好的）+treat（对待）→虐待",
+      "phonetic" : "ˌmɪsˈtriːt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "mistreat"
+    },
+    {
+      "collocations" : [
+        "be treated with：（用某种物质）处理",
+        "treated water：净化水",
+        "be treated as：被当作……来看"
+      ],
+      "definition" : "治疗的；已处理过的",
+      "examples" : [
+
+      ],
+      "frequency" : 16466,
+      "phonetic" : "tri:tid",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "treated"
+    },
+    {
+      "collocations" : [
+        "mistreatment of people in prisons：囚犯受虐"
+      ],
+      "definition" : "（尤指身体上的）虐待",
+      "examples" : [
+
+      ],
+      "frequency" : 18101,
+      "phonetic" : "ˌmɪsˈtriːtmənt",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "mistreatment"
+    },
+    {
+      "collocations" : [
+        "a treatable condition：可控制的疾病"
+      ],
+      "definition" : "可治愈的；可控制的",
+      "examples" : [
+
+      ],
+      "frequency" : 20054,
+      "phonetic" : "ˈtriːtəbl",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "treatable"
+    },
+    {
+      "collocations" : [
+        "retire as editor of the magazine：从杂志编辑的位子上退休",
+        "retire hurt：因伤退场",
+        "retire to his study：躲到他的书房里去",
+        "retire late：睡得晚"
+      ],
+      "definition" : "退休；（因伤）退出（比赛等），退役；离开（尤指去僻",
+      "examples" : [
+
+      ],
+      "mnemonic" : "retire（=retreat：退回）→（从工作岗位上）退回来→退休；退役；",
+      "phonetic" : "rɪˈtaɪə",
+      "pos" : "vi.",
+      "rootHint" : "tract",
+      "word" : "retire"
+    },
+    {
+      "collocations" : [
+        "a retired doctor：退休医生"
+      ],
+      "definition" : "已退休的；已退职的",
+      "examples" : [
+
+      ],
+      "frequency" : 3703,
+      "phonetic" : "rɪˈtaɪəd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "retired"
+    },
+    {
+      "collocations" : [
+        "enterprise retiree：企业退休人员",
+        "university retiree：高校离退休人员"
+      ],
+      "definition" : "退休人员；退休者",
+      "examples" : [
+
+      ],
+      "frequency" : 7349,
+      "phonetic" : "rɪˌtaɪəˈriː",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "retiree"
+    },
+    {
+      "collocations" : [
+        "retirement age：退休年龄",
+        "a retirement pension：退休金",
+        "a long and happy retirement：退休生活长久而幸福",
+        "retirement from football：退出足球运动"
+      ],
+      "definition" : "退休；退职；退休生活；（尤指从体育、政治",
+      "examples" : [
+
+      ],
+      "phonetic" : "rɪˈtaɪəm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "retirement"
+    },
+    {
+      "collocations" : [
+        "a retiring little girl：一个羞怯孤僻的小女孩"
+      ],
+      "definition" : "不爱与人交往的；害羞的；孤僻的",
+      "examples" : [
+
+      ],
+      "frequency" : 16074,
+      "phonetic" : "rɪˈtaɪərɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "retiring"
+    },
+    {
+      "collocations" : [
+        "launch into a tirade against：针对……发起了一番愤怒声讨",
+        "a tirade against sb. \/ sth.：针对……的（批评或指责性的）长篇激烈讲"
+      ],
+      "definition" : "愤怒申讨；（批评或指责性的）长篇激烈讲话",
+      "etymology" : "“a long, vehement speech, a ‘volley of words,’” 1801, 来自法语tirade “a volley, a shot; a pull; a long speech or passage; a drawing out” (16c.)， 表示“群射，齐发，猛拉，长篇演讲”。来自tirer “draw out, endure, suffer”，表示“拉伸；忍耐；受苦”。引申词义：抨击，严厉批评， 特指长篇大论的连续批评。",
+      "examples" : [
+
+      ],
+      "frequency" : 17517,
+      "phonetic" : "taɪˈreɪd",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tirade"
+    },
+    {
+      "collocations" : [
+        "portray the king：扮演国王"
+      ],
+      "definition" : "描绘（事物）；刻画（某人）；扮演",
+      "examples" : [
+
+      ],
+      "frequency" : 3290,
+      "mnemonic" : "por-（=pro-：向前）+ -tray（=draw：绘画；描绘）→depict in words,\ndescribe：描绘；刻画；扮演",
+      "phonetic" : "pɔːˈtreɪ",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "portray"
+    },
+    {
+      "collocations" : [
+        "a moving portrayal of St. John：一幅圣约翰的感人画像",
+        "portrayal of a prison guard：扮演一个监狱看守",
+        "an accurate portrayal of family life：对家庭生活的精确描绘",
+        "portrayal of us as muggers, dope sellers, and gangsters：将我们刻画成抢"
+      ],
+      "definition" : "绘画；刻画；描绘；扮演",
+      "examples" : [
+
+      ],
+      "frequency" : 8091,
+      "mnemonic" : "portray（扮演；描绘；刻画）+ -al（名词后缀）→绘画；扮演；刻",
+      "phonetic" : "pɔːˈtreɪəl",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "portrayal"
+    },
+    {
+      "collocations" : [
+        "family portraits：全家福画像",
+        "the gripping, funny portrait of Jewish life：对犹太人生活引人入胜、妙"
+      ],
+      "definition" : "画像；描述",
+      "etymology" : "来自中古法语portrait：肖像；描绘。来自古法语portraire：to paint, depict→描绘；描画，特指人物的肖像画 拉丁语复合动词protrahere（拉出；显露）：pro-（向前）+ 动词 trahere→拉出；显露",
+      "examples" : [
+
+      ],
+      "frequency" : 2677,
+      "mnemonic" : "por-（pro-：向前）+ trait（=-tract-：拉）→向前拉出；显露→引申义",
+      "phonetic" : "ˈpɔːtreɪt",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "portrait"
+    },
+    {
+      "collocations" : [
+        "portraiture right：肖像权"
+      ],
+      "definition" : "人像艺术；肖像画法",
+      "examples" : [
+
+      ],
+      "frequency" : 20095,
+      "mnemonic" : "portrait（画像）+ -ure（名词后缀）→人像艺术；肖像画法",
+      "phonetic" : "ˈpɔːtrɪtʃə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "portraiture"
+    },
+    {
+      "collocations" : [
+        "trace back to：追溯到……",
+        "trace A to B：由A追溯到B",
+        "trace of：少许",
+        "disappear without a trace：消失得无影无踪"
+      ],
+      "definition" : "追溯；找到；勾画出（轮廓）；描摹 n. 痕迹；踪迹；少许",
+      "etymology" : "来自古法语tracier “look for, follow, pursue”，含义为“寻找；跟随； 追踪”。12世纪现代法语为 tracer, 来自通俗拉丁语tractiare “delineate, score, trace”，含义为“描绘；勾画；追溯”。 邪解：音似：追（tra）溯（c：发s音）→追溯，追踪；",
+      "examples" : [
+        "Some people’s fear of marriage can be traced back to their parents’\ndivorce. 一些人对婚姻的恐惧可以追溯到他们父母的离异。",
+        "一些人遇到困难就显得脆弱不堪的品性可以追溯到他们小时候，\n那时他们受到了太多的溺爱。\nSome people’s fragile trait \/ character while getting in trouble can be\ntraced back to their childhood when they were spoiled."
+      ],
+      "phonetic" : "treɪs",
+      "pos" : "vi.",
+      "rootHint" : "tract",
+      "word" : "trace"
+    },
+    {
+      "collocations" : [
+        "retrace her steps towards the house：沿原路向那栋房子走去",
+        "retrace the epic voyage：重走壮丽航程",
+        "retrace her movements on the night she disappeared：找出她失踪当晚的"
+      ],
+      "definition" : "沿原路返回；折返；重走（别人走过的路线）；追溯，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-（向后；往回）+ trace（追踪）→重新走一遍道路→重走；追溯；",
+      "phonetic" : "rɪˈtreɪs",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "retrace"
+    },
+    {
+      "collocations" : [
+        "tracer technique：示踪技术"
+      ],
+      "definition" : "追踪者；追踪器",
+      "examples" : [
+
+      ],
+      "frequency" : 19378,
+      "phonetic" : "ˈtreɪsə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tracer"
+    },
+    {
+      "collocations" : [
+        "hot on his trail；紧紧跟踪他",
+        "campaign trail：竞选游说之行"
+      ],
+      "definition" : "&vi. 拖 vt. 追踪 n. （乡间或林中的）崎岖小路；（有特定目的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "trail（=trace：追踪；踪迹）→追踪；踪迹",
+      "phonetic" : "treɪl",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "trail"
+    },
+    {
+      "collocations" : [
+        "tractor-trailer：牵引式挂车",
+        "a trailer for the film：电影预告片"
+      ],
+      "definition" : "拖车；（电影或电视节目的）预告片",
+      "examples" : [
+
+      ],
+      "frequency" : 4101,
+      "phonetic" : "ˈtreɪlə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "trailer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "道路的起点",
+      "examples" : [
+
+      ],
+      "frequency" : 15340,
+      "mnemonic" : "trail（崎岖小路）+ head（开端）→道路的起点",
+      "phonetic" : "ˈtreilhed",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "trailhead"
+    },
+    {
+      "collocations" : [
+        "trailing ivy：蔓生的常春藤"
+      ],
+      "definition" : "（植物）蔓生的；拖尾的",
+      "examples" : [
+
+      ],
+      "frequency" : 15027,
+      "phonetic" : "ˈtreɪlɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "trailing"
+    },
+    {
+      "collocations" : [
+        "keep track of：跟踪，追踪",
+        "go off the track：偏离轨道",
+        "on track：步入正轨",
+        "on the right \/ wrong track：做得正确 \/ 不正确",
+        "track and field：田径"
+      ],
+      "definition" : "跟踪；（用卫星、雷达等特殊装置）追踪（崎岖不平的） n.",
+      "examples" : [
+        "But most parents are more than happy to use cell phones to keep track of\ntheir kids.\n但是，大多数父母很乐意用电话来跟踪他们的孩子。",
+        "一些互联网公司通过注册用户的浏览记录来追踪他们的浏览习惯。\n另外，他们还通过用户访问的商业性网站来分析用户的潜在需求。\nSome Internet companies can keep track of their registered users’ habits\nthrough their browsing records. In addition, users’ accessing to commercial\nsites will help them analyze their potential demands \/ needs."
+      ],
+      "mnemonic" : "track（=trace：痕迹，轨道，追踪）→追踪；痕迹，轨道",
+      "phonetic" : "træk",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "track"
+    },
+    {
+      "collocations" : [
+        "tracking system：跟踪系统"
+      ],
+      "definition" : "追踪；跟踪",
+      "examples" : [
+
+      ],
+      "frequency" : 7997,
+      "phonetic" : "ˈtrækɪŋ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tracking"
+    },
+    {
+      "collocations" : [
+        "trek in Nepal：去尼泊尔徒步旅行",
+        "on a trek through the South Gobi desert：徒步穿越南戈壁沙漠",
+        "trek from shop to shop：疲惫地奔波于一家又一家商店"
+      ],
+      "definition" : "（尤指徒步）长途跋涉；（尤指在山中）远足 n. 长途跋涉，",
+      "etymology" : "1849 (n.) “a stage of a journey by ox wagon;” 1850 (v.), “to travel or migrate by ox wagon,”“以牛拉重车的方式迁徙”。来自阿非利堪 斯语trek, 来自荷兰语trekken “to march, journey,” originally “to draw, pull”。超过10000名布尔人的格鲁特跋涉（1835年及以后），他们对 英国殖民当局不满，离开了开普殖民地，向北和向东北走去，寻找新 的定居地。史称The Groot Trek“格鲁特迁徙”。",
+      "examples" : [
+
+      ],
+      "phonetic" : "trek",
+      "pos" : "vi.",
+      "rootHint" : "tract",
+      "word" : "trek"
+    },
+    {
+      "collocations" : [
+        "Arlington racetrack：阿灵顿赛马场",
+        "the sound of cars roaring around a racetrack：汽车围绕赛车跑道奔驰的"
+      ],
+      "definition" : "跑道；赛道；赛马场",
+      "examples" : [
+
+      ],
+      "frequency" : 15697,
+      "phonetic" : "ˈˈreɪstræk",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "racetrack"
+    },
+    {
+      "collocations" : [
+        "tracker device：跟踪装置"
+      ],
+      "definition" : "追踪者；跟踪者",
+      "examples" : [
+
+      ],
+      "frequency" : 16780,
+      "phonetic" : "ˈtrækə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tracker"
+    },
+    {
+      "collocations" : [
+        "backtrack a little bit：稍微回顾一下"
+      ],
+      "definition" : "由原路返回；（屈于压力而）改变声明（或主",
+      "examples" : [
+        "The committee backtracked by scrapping the controversial bonus system.\n该委员会改变主意，废除充满争议性的奖金系统。"
+      ],
+      "mnemonic" : "backtrack=retrace：沿原路返回；折返；回顾→引申义为（屈于压力",
+      "phonetic" : "ˈbæktræk",
+      "pos" : "vi.",
+      "rootHint" : "tract",
+      "word" : "backtrack"
+    },
+    {
+      "collocations" : [
+        "the digestive tract：消化道",
+        "a nerve tract：神经束",
+        "vast tracts of forest：大片大片的森林"
+      ],
+      "definition" : "大片土地；（连通身体组织或器官的）道，束；小册子",
+      "etymology" : "Proto-Indo-European root meaning “house, household.” It represents the usual Indo-European word for “house” (Italian, Spanish casa are from Latin casa “cottage, hut;” Germanic *hus is of obscure origin). It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit damah “house;” Avestan demana- “house;” Greek domos “house,” despotēs “master, lord;” Latin domus “house,” dominus “master of a household;” Armenian tanu-ter “house-lord;” Old Church Slavonic domu, Russian dom “house;” Lithuanian dimstis “enclosed court, property;” Old Norse topt “homestead.”",
+      "examples" : [
+
+      ],
+      "frequency" : 6217,
+      "mnemonic" : "tract=track：（崎岖不平的） 小路；course：路线",
+      "phonetic" : "trækt",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "tract"
+    },
+    {
+      "collocations" : [
+        "out of danger：脱离危险期"
+      ],
+      "definition" : "危险[of]；危害，威胁[+to]；风险",
+      "etymology" : "来自法语dangier “power, power to harm, mastery, authority, control”， 含义为“权利；实施伤害的权力；控制；权威”等。来自拉丁语 dominus “lord, master”，指“主人”。来自domus “house”房子，来自 词根dem-，含义为“house, household”，含义为“房屋；家庭”。 Modern senses are “risk, peril, exposure to injury, loss, pain, etc.” Danger 的现代含义为“风险；严重危险；暴露于伤害，损失和痛苦等之 中”。",
+      "examples" : [
+
+      ],
+      "frequency" : 1554,
+      "phonetic" : "ˈdeɪndʒə(r)",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "danger"
+    },
+    {
+      "collocations" : [
+        "a dangerous road \/ illness \/ sport：危险的道路 \/ 疾病 \/ 运动",
+        "dangerous ground：令人气愤的话题（或场合）；危险处境"
+      ],
+      "definition" : "有危险的；不安全的",
+      "examples" : [
+
+      ],
+      "frequency" : 1465,
+      "mnemonic" : "danger（危险）+ -ous（形容词后缀）→有危险的；不安全的",
+      "phonetic" : "ˈdeɪndʒərəs",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "dangerous"
+    },
+    {
+      "collocations" : [
+        "dangerously ill：病得很重"
+      ],
+      "definition" : "危险地",
+      "examples" : [
+
+      ],
+      "frequency" : 9029,
+      "phonetic" : "ˈdeindʒərəsli",
+      "pos" : "adv.",
+      "rootHint" : "tract",
+      "word" : "dangerously"
+    },
+    {
+      "collocations" : [
+        "endanger the proposed Mideast peace talks：危害中东和谈的倡议"
+      ],
+      "definition" : "使遭到危险；危害",
+      "examples" : [
+
+      ],
+      "frequency" : 7262,
+      "mnemonic" : "en-（=make, put into：使；置于）+ danger（危险）→置于危险之中\n→使遭到危险；危害",
+      "phonetic" : "ɪnˈdeɪndʒə(r)",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "endanger"
+    },
+    {
+      "collocations" : [
+        "an endangered species：濒危物种"
+      ],
+      "definition" : "濒临灭绝的",
+      "examples" : [
+
+      ],
+      "frequency" : 5348,
+      "phonetic" : "ɪnˈdeɪndʒəd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "endangered"
+    },
+    {
+      "collocations" : [
+        "in the domain of art：艺术领域",
+        "within the domain of the family：家庭范围的事",
+        "within the Spanish domains：西班牙领地"
+      ],
+      "definition" : "（知识、活动的）领域，范畴；（尤指旧时个人、",
+      "etymology" : "c. 1600, “territory over which dominion is exerted,” from Middle French domaine “domain, estate,” from Medieval Latin domanium “domain, estate,” from Latin dominium “property, dominion,” from dominus “lord, master, owner,” from domus “house”.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dom-（领土；财产；住宅）+ -ain（名词后缀）→领土、财产、住宅\n所在的疆界、范围→引申义为（知识、活动的）领域；范畴",
+      "phonetic" : "də(ʊ)ˈmeɪn",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "domain"
+    },
+    {
+      "collocations" : [
+        "the dome of St Paul’s Cathedral：圣保罗大教堂的穹顶",
+        "his bald dome of a head：他圆溜溜的秃顶",
+        "the Houston Astrodome：休斯敦阿斯托洛圆顶运动场"
+      ],
+      "definition" : "穹顶；圆屋顶；圆顶状物；圆顶体育场",
+      "etymology" : "“A round, vaulted roof, a hemispherical covering of a building,” 1650s, 来 自法语dome，来自希腊语dōma “a house, housetop”，含义为“房子； 房顶”。",
+      "examples" : [
+
+      ],
+      "frequency" : 5065,
+      "mnemonic" : "dom-（=house, housetop：房屋；屋顶）+ -e（名词后缀）→圆屋顶；",
+      "phonetic" : "dəʊm",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "dome"
+    },
+    {
+      "collocations" : [
+        "the great hall with its domed ceiling：有着穹顶的大厅"
+      ],
+      "definition" : "圆顶状的；有圆顶的",
+      "examples" : [
+
+      ],
+      "frequency" : 19609,
+      "phonetic" : "dəʊmd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "domed"
+    },
+    {
+      "collocations" : [
+        "domestic market：国内市场 domestic violence：家庭暴力",
+        "domestic flights：国内航班",
+        "a scene of such domestic bliss：一幕家庭美满的场景",
+        "domestic appliances：家用电器"
+      ],
+      "definition" : "国内的；家务的；家用的；家庭的；家养的",
+      "examples" : [
+
+      ],
+      "frequency" : 1556,
+      "mnemonic" : "dom-（=home：家）+ es + -tic（形容词后缀）→家里的→引申义为家",
+      "phonetic" : "dəˈmestɪk",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "domestic"
+    },
+    {
+      "collocations" : [
+        "list domestically：境内上市"
+      ],
+      "definition" : "国内地；家庭式地",
+      "examples" : [
+
+      ],
+      "frequency" : 13323,
+      "phonetic" : "dəˈmestɪkli",
+      "pos" : "adv.",
+      "rootHint" : "tract",
+      "word" : "domestically"
+    },
+    {
+      "collocations" : [
+        "domesticated duck：家鸭"
+      ],
+      "definition" : "家养的；驯服的；喜欢干家务的",
+      "examples" : [
+
+      ],
+      "frequency" : 16468,
+      "mnemonic" : "domestic（家养的）+ -ate（动词后缀）+ -d（形容词后缀）→家养",
+      "phonetic" : "dəˈmestɪkeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "domesticated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "公寓楼；一套公寓住房",
+      "examples" : [
+
+      ],
+      "frequency" : 10126,
+      "mnemonic" : "con-（=with, together：一起）+ domin-（=house：住宅）+ -ium（名\n词后缀，表场所、地点）→住房都在一起的地方→公寓楼；（公寓",
+      "phonetic" : "ˌkɒndəˈmɪnɪəm",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "condominium"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "公寓；一套公寓住房（等于condominium）",
+      "examples" : [
+
+      ],
+      "frequency" : 7414,
+      "phonetic" : "ˈkɒndəʊ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "condo"
+    },
+    {
+      "collocations" : [
+        "a tame doctor：有求必应的医生"
+      ],
+      "definition" : "驯服的；平淡无奇的；温顺的 vt. 驯化；使易于控制",
+      "examples" : [
+
+      ],
+      "frequency" : 11082,
+      "mnemonic" : "tame（=home：家养的）→温顺的；驯服的 vt. 驯服",
+      "phonetic" : "teɪm",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "tame"
+    },
+    {
+      "collocations" : [
+        "under one’s sole dominion：独揽大权",
+        "the vast dominions：广阔版图"
+      ],
+      "definition" : "统治（权）；管辖；领土；版图",
+      "examples" : [
+
+      ],
+      "frequency" : 17078,
+      "mnemonic" : "domin-（=rule, power：统治）+ -ion（名词后缀）→统治权→引申义",
+      "phonetic" : "dəˈmɪnjən",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "dominion"
+    },
+    {
+      "collocations" : [
+        "male-dominated：男性主导的",
+        "be predominant over sth.：支配…… \/ 统治……"
+      ],
+      "definition" : "&vi. 占据支配地位 vt. 控制；俯视",
+      "examples" : [
+        "1） Of all the media, television is clearly dominant, with newspapers a\nclose second, at least as a source of news and other information.\n在所有的媒体当中，电视明显是占主导地位的，其次是报纸，最后是\n新闻或者其他信息源。\n2） That explanation appeals to common sense and has dominated efforts\nto get to the root of the obesity epidemic and reverse it.\n这一解释得到大众认可，并且这一解释已在寻找肥胖原因并扭转肥胖\n的尝试中处于主导地位。",
+        "在所有的安排中，学英语明显是占主导地位的，其次是其他学\n科，最后是娱乐，学中文时间基本没有。\nOf all arrangements, English learning is clearly dominant, with other\nsubjects \/ disciplines a close second, at least entertainments, and there is\nlittle time for Chinese learning."
+      ],
+      "frequency" : 2332,
+      "mnemonic" : "dom-：家→domin-：使（重要性）像家一样→to rule, to control, to\ngovern：占……重要地位，统治，控制，支配（一“家”之主）",
+      "phonetic" : "ˈdɒmɪneɪt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "dominate"
+    },
+    {
+      "collocations" : [
+        "achieve a dominant position：占有举足轻重的地位"
+      ],
+      "definition" : "处于支配地位的",
+      "examples" : [
+
+      ],
+      "frequency" : 3204,
+      "mnemonic" : "domin-（支配；控制）+ -ant（形容词后缀）→首要的；占支配地位",
+      "phonetic" : "ˈdɒmɪnənt",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "dominant"
+    },
+    {
+      "collocations" : [
+        "an attempt to establish dominance over the other：试图争夺控制权"
+      ],
+      "definition" : "优势；统治地位",
+      "examples" : [
+
+      ],
+      "frequency" : 6377,
+      "phonetic" : "ˈdɒmɪnəns",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "dominance"
+    },
+    {
+      "collocations" : [
+        "realize their domination of other countries：实现其控制他国的目的"
+      ],
+      "definition" : "支配；控制",
+      "examples" : [
+
+      ],
+      "frequency" : 7486,
+      "phonetic" : "ˌdɒmɪˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "domination"
+    },
+    {
+      "collocations" : [
+        "the male-dominated world of journalism：男人主宰的新闻界"
+      ],
+      "definition" : "男性占主导地位的",
+      "examples" : [
+
+      ],
+      "frequency" : 19563,
+      "mnemonic" : "male（男人）+ dominate（占主导）+ -d（形容词后缀）→男性占主",
+      "phonetic" : "ˈmeildɔmineitid",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "male-dominated"
+    },
+    {
+      "collocations" : [
+        "a color scheme in which red predominates：以红色为主的色彩组合",
+        "predominate over sb. \/ sth.：支配；统治某人\/某事物",
+        "predominate over the public good：置于公众利益之上"
+      ],
+      "definition" : "（在数量上）占优势；占主导地位",
+      "examples" : [
+
+      ],
+      "frequency" : 14448,
+      "mnemonic" : "pre-（=before：在前）+ domin-（=to rule, dominate, to govern：统治；\n处于支配地位）+ -ate（动词后缀）→（在数量上）占优势；占主导",
+      "phonetic" : "prɪˈdɒmɪneɪt",
+      "pos" : "vt.",
+      "rootHint" : "tract",
+      "word" : "predominate"
+    },
+    {
+      "collocations" : [
+        "a predominant feature：显著特征",
+        "a predominant culture：主流文化",
+        "the predominant color：流行颜色"
+      ],
+      "definition" : "显著的，流行的；占优势的，主导的",
+      "examples" : [
+
+      ],
+      "frequency" : 11930,
+      "mnemonic" : "pre-（在前；在先）+ -domin-（统治；支配）+ -ant（形容词后缀）→\n在前面占据统治、支配地位的→占主导地位的；显著的；流行的",
+      "phonetic" : "prɪˈdɒmɪnənt",
+      "pos" : "adj.",
+      "rootHint" : "tract",
+      "word" : "predominant"
+    },
+    {
+      "collocations" : [
+        "a predominantly female profession：以女性为主导的职业",
+        "remain predominantly rural：以田园风光为主"
+      ],
+      "definition" : "主导性地",
+      "examples" : [
+
+      ],
+      "frequency" : 6026,
+      "mnemonic" : "predominant（占主导地位的；占支配地位的）+-ly（副词后缀）→最",
+      "phonetic" : "prɪˈdɒmɪnəntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "tract",
+      "word" : "predominantly"
+    },
+    {
+      "collocations" : [
+        "play dominoes：玩多米诺骨牌游戏",
+        "domino effect：多米诺效应（政治术语，指一事件引起连锁反应）"
+      ],
+      "definition" : "多米诺骨牌（游戏）",
+      "examples" : [
+        "Burma would be in no position for defense. On April 7, 1954, the President\nwas still warning that if Indochina fell, all of southeast Asia would collapse\nlike “falling dominoes.”\n缅甸将无力防御。1954年4月7日，总统仍警告说，如果印度支那\n（Indochina）陷落，整个东南亚地区将像“多米诺骨牌倒塌”一样崩\n溃。"
+      ],
+      "frequency" : 14636,
+      "phonetic" : "ˈdɒmɪnəʊ",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "domino"
+    },
+    {
+      "collocations" : [
+        "don his cloak and gloves：穿戴上他的披风和手套",
+        "don Juan：唐璜（西班牙传说人物）；淫荡者；游手好闲者"
+      ],
+      "definition" : "（尤指牛津大学和剑桥大学的）大学教师 vt. 穿上（衣服）",
+      "examples" : [
+
+      ],
+      "phonetic" : "dɒn",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "don"
+    },
+    {
+      "collocations" : [
+        "Dame Judi Dench：朱迪·丹奇爵士",
+        "notre dame：（法）巴黎圣母院；（法）圣母玛利亚"
+      ],
+      "definition" : "女爵士（英国授予有贡献的女性的荣誉称号）",
+      "etymology" : "来自古法语dame “lady, mistress, wife”.",
+      "examples" : [
+
+      ],
+      "frequency" : 19007,
+      "phonetic" : "deɪm",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "dame"
+    },
+    {
+      "collocations" : [
+        "Madame Curie：居里夫人（波兰科学家）"
+      ],
+      "definition" : "夫人；女士；太太",
+      "examples" : [
+
+      ],
+      "frequency" : 7563,
+      "phonetic" : "mɑːˈdɑːm",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "Madame"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "女士（对不知其名的女子的礼貌称呼）",
+      "examples" : [
+        "Can I help you, madam?\n要帮忙吗，夫人？"
+      ],
+      "frequency" : 17599,
+      "phonetic" : "ˈmædəm",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "madam"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指城堡中的）地牢，土牢",
+      "examples" : [
+
+      ],
+      "frequency" : 17904,
+      "mnemonic" : "来自拉丁语dominus “master” (of the castle) 城堡领主→castle keep：城\n堡→引申词义为隐蔽的地牢或土牢",
+      "phonetic" : "ˈdʌndʒən",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "dungeon"
+    },
+    {
+      "collocations" : [
+        "be exploited for timber：被砍伐作木材用",
+        "timber tree：成材木",
+        "timber structure：木结构"
+      ],
+      "definition" : "树；树木；木材",
+      "examples" : [
+
+      ],
+      "frequency" : 4948,
+      "mnemonic" : "来自古英语timber，“building, structure”，含义为“建筑；构造”→来",
+      "phonetic" : "ˈtɪmbə",
+      "pos" : "n.",
+      "rootHint" : "tract",
+      "word" : "timber"
+    }
+  ]
+}

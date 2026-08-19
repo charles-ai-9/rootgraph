@@ -1,0 +1,203 @@
+{
+  "chapter" : "4",
+  "chapterOrder" : 104,
+  "id" : "cord",
+  "meaningEn" : "heart 表示“心；心脏”。",
+  "roots" : [
+    "cord"
+  ],
+  "semanticLabel" : "heart 表示心；心脏。",
+  "source" : "textbook-8",
+  "titleZh" : "heart 表示心；心脏。",
+  "words" : [
+    {
+      "collocations" : [
+        "sign a peace accord：签订了一项和平条约",
+        "in accord (with sth. \/ sb.)：与……一致（或相符合）"
+      ],
+      "definition" : "协议；条约 vt. 给予，赋予，授予（权力、地位、某种待",
+      "examples" : [
+        "Our society accords great importance to the family.\nOur society accords the family great importance.\n我们的社会赋予家庭以十分重要的地位。\nThese results accord closely with our predictions.\n这些结果和我们的预测相当一致。"
+      ],
+      "mnemonic" : "ac-（=to：来；趋向）+ -cord-（心（脏））→心与心靠近，心在一起\n→ 与……符合，一致；协议，条约\nac-（=to）+ -cord（=cred-：认可）→给予……认可→给予；赋予；",
+      "phonetic" : "əˈkɔːd",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "accord"
+    },
+    {
+      "collocations" : [
+        "according to：根据……"
+      ],
+      "definition" : "相符的；一致的 vi. （与……）符合；一致",
+      "examples" : [
+
+      ],
+      "frequency" : 479,
+      "mnemonic" : "accord（与……一致；符合）+ -ing（形容词后缀）→相符的；一",
+      "phonetic" : "əˈkɔːdɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "cord",
+      "word" : "according"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "因此；相应地",
+      "examples" : [
+        "We have a different background, a different history. Accordingly, we have\nthe right to different futures.\n我们拥有不同的背景、不同的历史。因此，我们有权获得不一样的\n前途。"
+      ],
+      "frequency" : 5656,
+      "mnemonic" : "according（相符的；一致的）+ -ly（副词后缀）→根据……，与……\n相符、一致的结果→因此；相应地",
+      "phonetic" : "əˈkɔːdɪŋlɪ",
+      "pos" : "adv.",
+      "rootHint" : "cord",
+      "word" : "accordingly"
+    },
+    {
+      "collocations" : [
+        "in accordance with：依照；依据"
+      ],
+      "definition" : "一致；和谐",
+      "examples" : [
+
+      ],
+      "frequency" : 8254,
+      "mnemonic" : "accord（与……一致；相符合）+ -ance（名词后缀）→一致；和谐",
+      "phonetic" : "əˈkɔːdns",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "accordance"
+    },
+    {
+      "collocations" : [
+        "piano accordion：（键盘式）手风琴"
+      ],
+      "definition" : "手风琴",
+      "examples" : [
+
+      ],
+      "frequency" : 15142,
+      "mnemonic" : "accord（和谐；一致）+ -ion（名词后缀）→发出和谐、一致乐音的\n乐器→手风琴",
+      "phonetic" : "əˈkɔːdɪən",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "accordion"
+    },
+    {
+      "collocations" : [
+        "a cordial atmosphere \/ meeting \/ relationship：亲切友好的气氛 \/ 会议 \/"
+      ],
+      "definition" : "热情友好的；和蔼可亲的",
+      "etymology" : "中国人认为心脏是人的意识活动的场所，所以才有“心灵”、“心 理”、“心思”等词汇。和东方人一样，古代西方人也有类似的观 念，所以很多表示意识活动的单词都由表示心脏的词根cord构成。",
+      "examples" : [
+
+      ],
+      "frequency" : 14954,
+      "mnemonic" : "cord-（心）+ -ial（形容词后缀）→由心发出的热情、友善的感情→",
+      "phonetic" : "ˈkɔːdɪəl",
+      "pos" : "adj.",
+      "rootHint" : "cord",
+      "word" : "cordial"
+    },
+    {
+      "collocations" : [
+        "family discord：家庭不和",
+        "apple of discord：不和的金苹果，比喻引起不和的争端；不和之因；"
+      ],
+      "definition" : "不一致；不和；纷争",
+      "examples" : [
+
+      ],
+      "frequency" : 15267,
+      "mnemonic" : "dis-（=apart：分离的）+ -cord（心）→心与心远离→不一致；不和；",
+      "phonetic" : "ˈdɪskɔːd",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "discord"
+    },
+    {
+      "collocations" : [
+        "medical \/ dental records：医疗记录（病历） \/ 牙科记录（牙科病历）",
+        "hold the world record：保持着世界纪录",
+        "break the record：破纪录",
+        "set a new record：刷新纪录",
+        "play a record：播放唱片",
+        "record in the diaries：记在日记里",
+        "a recorded concert：录制的音乐会",
+        "record the new album：录制新唱片"
+      ],
+      "definition" : "记录，记载；唱片；（尤指体育运动中最高或最低的）",
+      "examples" : [
+        "Unemployment has reached a record high (= the highest level ever).\n失业数字已经达到了历来的最高纪录。\nThe airline has a good safety record.\n这家航空公司的安全记录（情况）一向很好。"
+      ],
+      "mnemonic" : "re-（再次）+ cord（心）→使回到心中→能让人回想起来的，重复\n听、读等动作以至于可以再次使某物回到心里→记录，记载；唱片；",
+      "phonetic" : "ˈrekɔːd",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "record"
+    },
+    {
+      "collocations" : [
+        "recorded music：录制的音乐"
+      ],
+      "definition" : "记录的；录制的",
+      "examples" : [
+
+      ],
+      "frequency" : 8908,
+      "phonetic" : "rɪˈkɔːdɪd",
+      "pos" : "adj.",
+      "rootHint" : "cord",
+      "word" : "recorded"
+    },
+    {
+      "collocations" : [
+        "a tape \/ cassette \/ video \/ DVD recorder：磁带 \/ 盒式录音机 \/ 录像机 \/"
+      ],
+      "definition" : "录音机，录像机；记录仪器；记录员",
+      "examples" : [
+
+      ],
+      "frequency" : 6104,
+      "mnemonic" : "record（记录；录制（音、像等）+ -er（名词后缀）→录音机，录像",
+      "phonetic" : "rɪˈkɔːdə(r)",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "recorder"
+    },
+    {
+      "collocations" : [
+        "a video recording of the wedding：婚礼的录像",
+        "recording equipment：录制设备",
+        "a recording studio：录音室",
+        "the recording of financial transactions：关于金融交易的记载"
+      ],
+      "definition" : "录音，录像；录制；（正式的）记录，记载",
+      "examples" : [
+
+      ],
+      "frequency" : 3348,
+      "phonetic" : "rɪˈkɔːdɪŋ",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "recording"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "便携式摄像机",
+      "examples" : [
+
+      ],
+      "frequency" : 13261,
+      "mnemonic" : "cam-（camera：摄像机）+ corder（=recorder：录像机）→便携式摄",
+      "phonetic" : "ˈkæmkɔːdə(r)",
+      "pos" : "n.",
+      "rootHint" : "cord",
+      "word" : "camcorder"
+    }
+  ]
+}

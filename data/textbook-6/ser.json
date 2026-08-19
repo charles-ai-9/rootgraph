@@ -1,0 +1,1101 @@
+{
+  "chapter" : "1",
+  "chapterOrder" : 101,
+  "id" : "ser",
+  "meaningZh" : "排列；排成行；加入；顺序等含义。",
+  "roots" : [
+    "ser"
+  ],
+  "semanticLabel" : "排列；排成行；加入；顺序等含义。",
+  "source" : "textbook-6",
+  "titleZh" : "排列；排成行；加入；顺序等含义。",
+  "words" : [
+    {
+      "collocations" : [
+        "assert authority：显示权威",
+        "to assert your independence\/rights：坚持独立\/权利",
+        "assert oneself：彰显自我"
+      ],
+      "definition" : "坚定地陈述；显示（权威）；坚持、维护（权利或要",
+      "examples" : [
+        "Good sense asserted itself.\n明智服人。"
+      ],
+      "mnemonic" : "as-（=ad-：to）+ -sert（=to join together, put in a row：加入；结合在\n一起；成一长行）→加入至某个观点、连续不断→宣称对某事物的权\n利、维护及坚持某事物→坚定地陈述；显示（权威）；坚持（权利或",
+      "phonetic" : "əˈsɜːt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "assert"
+    },
+    {
+      "collocations" : [
+        "reassert position：重申立场",
+        "reassert traditional values：再次声明（肯定）传统价值"
+      ],
+      "definition" : "重申；坚持（地位、权力等）；（想法或习惯等）重",
+      "examples" : [
+        "He thought about giving up his job, but then common sense reasserted\nitself.\n他曾想放弃这份工作，但后来还是理智占了上风（重新发挥了作用）。"
+      ],
+      "mnemonic" : "re-（=again：再次）+ assert（坚定的陈述、坚持）→重申、坚持（地",
+      "phonetic" : "riːəˈsɜːt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "reassert"
+    },
+    {
+      "collocations" : [
+        "the assertion of his authority：对他权威的维护"
+      ],
+      "definition" : "明确肯定，断言；声称、维护（权利或要求）",
+      "examples" : [
+        "Do you have any evidence to support your assertions?\n你的断言是否有真凭实据？"
+      ],
+      "frequency" : 5408,
+      "mnemonic" : "assert（坚定地陈述；坚持、维护权利或要求）+ -ion（名词后缀）→",
+      "phonetic" : "əˈsɜːʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "assertion"
+    },
+    {
+      "collocations" : [
+        "assertive behavior：坚定自信的行为",
+        "an assertive leader：坚定自信的领导"
+      ],
+      "definition" : "坚定自信的；坚决主张的",
+      "examples" : [
+
+      ],
+      "frequency" : 11662,
+      "phonetic" : "əˈsɜːtɪv",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "assertive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "坚定自信",
+      "examples" : [
+
+      ],
+      "frequency" : 18123,
+      "phonetic" : "əˈsɜːtɪvnəs",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "assertiveness"
+    },
+    {
+      "collocations" : [
+        "desert their parched farm fields：丢下干旱的农田",
+        "the Sahara Desert：撒哈拉沙漠"
+      ],
+      "definition" : "&vi. 放弃 vt. 遗弃；抛弃 n.沙漠",
+      "examples" : [
+        "The sport is being written off as boring and predictable and the fans are\ndeserting in droves.\n这项运动因为枯燥且易于预测而不再吸引人，爱好者们正成批地退出。"
+      ],
+      "frequency" : 2216,
+      "mnemonic" : "de-（=undo：扰乱；破坏）+ -ser-（=put in a row：排成一行）+ t→扰\n乱、破坏，使……不在一行→放弃；遗弃；抛弃；沙漠（被“废弃”",
+      "phonetic" : "(for v.) dɪˈzɜːt; (for n.) ˈdezət",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "desert"
+    },
+    {
+      "collocations" : [
+        "a deserted side street：一条废弃的小巷"
+      ],
+      "definition" : "荒芜的；被遗弃的",
+      "examples" : [
+
+      ],
+      "frequency" : 10256,
+      "phonetic" : "dɪˈzɜːtɪd",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "deserted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（合作进行某项工程的）财团；联合",
+      "etymology" : "1829, “fellowship, association,” 来自拉丁语consortium “fellowship, participation, society” . 20000 词汇巅峰 速 记",
+      "examples" : [
+        "The consortium includes some of the biggest building contractors in North\nAmerica.\n该联盟包括北美一些最大的建筑承包商。"
+      ],
+      "frequency" : 8235,
+      "mnemonic" : "con-（=together：一起）+-sort（=to join：加入）+ -ium（名词后缀）\n→to join together：（同类型的）结合在一起，形成团体的→财团；",
+      "phonetic" : "kənˈsɔːtɪəm",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "consortium"
+    },
+    {
+      "collocations" : [
+        "a dissertation on the civil war：一篇关于内战的论文",
+        "academic dissertation：学术论文",
+        "doctoral dissertation：博士论文"
+      ],
+      "definition" : "专题论文；学位论文",
+      "etymology" : "来自拉丁语dissertare “argue, examine：讨论；探讨”。",
+      "examples" : [
+
+      ],
+      "frequency" : 9514,
+      "mnemonic" : "dis-（=apart：分开）+ -sert（=to join together, arrange (words)：放在\n一起；安排（文字））+ -ation（名词后缀）→即分开安排，各个讨\n论→引申词义专题论文；学位论文",
+      "phonetic" : "ˌdɪsəˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "dissertation"
+    },
+    {
+      "collocations" : [
+        "exert all his authority to do sth.：运用\/行使他的所有权力做某事",
+        "exert considerable influence on sb.：对某人产生相当大的影响",
+        "exert oneself：努力；竭力"
+      ],
+      "definition" : "施加（影响、压力）；运用（权威）、行使；耗费（自",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ex-（=out, from with：向外）+ ert（=-sert=join：连接）→从内到外推出\n（体力、影响力、权力）→施加（影响、压力）；运用；耗费（精力）",
+      "phonetic" : "ɪgˈzɜːt; eg-",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "exert"
+    },
+    {
+      "collocations" : [
+        "the exertion of force\/strength\/authority：使用武力\/使劲\/行使权力"
+      ],
+      "definition" : "施加（影响、压力）；运用、行使；努力、耗费精力",
+      "examples" : [
+        "She was hot and breathless from the exertion of cycling uphill.\n她骑车上山累得（耗费体力后）全身发热，喘不过气来。"
+      ],
+      "phonetic" : "ɪgˈzɜːʃn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "exertion"
+    },
+    {
+      "collocations" : [
+        "insert coins into the slot：把硬币放进投币口",
+        "insert a word：插入字词"
+      ],
+      "definition" : "插入；嵌入；（在文件或讲话中）插入",
+      "examples" : [
+
+      ],
+      "frequency" : 4345,
+      "mnemonic" : "in-（在内）+ -sert（=join together：加入）→在内加入→插入；嵌入",
+      "phonetic" : "ɪnˈsɜːt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "insert"
+    },
+    {
+      "collocations" : [
+        "the insertion of a new gene into a human being：把新基因嵌入人体",
+        "an item for insertion in the program：插入节目中的一则消息"
+      ],
+      "definition" : "插入；嵌入；插入物，（尤指书刊中的）活页广告",
+      "examples" : [
+        "Sunday is the preferred day for advertising inserts in newspapers.\n星期天是添加广告插页的最佳日子。"
+      ],
+      "phonetic" : "ɪnˈsɜːʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "insertion"
+    },
+    {
+      "collocations" : [
+        "a series of meetings\/events\/articles：一连串会晤\/事件\/文章",
+        "TV series “Star Trek”：电视系列片《星际迷航》",
+        "the World Series (= in baseball )：世界系列美国职业棒球锦标赛"
+      ],
+      "definition" : "一系列；一连串；连续；（广播或电视上题材或角色",
+      "etymology" : "来自拉丁语 series=row, chain, sequence, succession：一连串；顺序； 连续",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ser-（=to join, link, bind together：把……连接在一起）+ -ies→一连",
+      "phonetic" : "ˈsɪəriːz; -rɪz",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "series"
+    },
+    {
+      "collocations" : [
+        "in the same serial order：按同样顺序",
+        "a novel in serial form：一部连载小说",
+        "serial murders：系列谋杀案"
+      ],
+      "definition" : "排成系列的；连续的；连载的 n. 电视、广播连续剧；杂",
+      "examples" : [
+
+      ],
+      "mnemonic" : "series（系列；连续）+ -al（形容词\/名词后缀）→连续的；连载的",
+      "phonetic" : "ˈsɪərɪəl",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "serial"
+    },
+    {
+      "collocations" : [
+        "(The Sermon on the Mount：登山宝训（指《圣经·马太福音》中耶稣"
+      ],
+      "definition" : "布道；讲道",
+      "etymology" : "来自古法语sermon “speech, words, discourse; church sermon：演讲；字 词；教会布道”。 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 6705,
+      "mnemonic" : "ser-（连接；排列）+ -mon（名词后缀）→根据《圣经》上的一段连\n续经文进行的讲话→布道；讲道",
+      "phonetic" : "ˈsɜːmən",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "sermon"
+    },
+    {
+      "collocations" : [
+        "all sorts of：各种各样",
+        "sort out：整理；解决"
+      ],
+      "definition" : "& vi. 分类 n. 种类；类型",
+      "etymology" : "来自古法语 sorte“class, kind：种类；类别”。来自词根ser-=to line up：排列→按照种类、类别进行排列→分类；种类；类型",
+      "examples" : [
+
+      ],
+      "frequency" : 838,
+      "phonetic" : "sɔːt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "sort"
+    },
+    {
+      "collocations" : [
+        "assorted vegetables：什锦蔬菜"
+      ],
+      "definition" : "各种各样的；混杂的；什锦的",
+      "examples" : [
+        "The jumper comes in assorted colors.\n各种颜色的针织套衫一应俱全。\nassorted desserts：各式各样的甜点"
+      ],
+      "frequency" : 9998,
+      "phonetic" : "əˈsɔːtɪd",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "assorted"
+    },
+    {
+      "collocations" : [
+        "an assortment of cheese：一堆各式各样的奶酪",
+        "a wide assortment of gifts：各式各样的礼品"
+      ],
+      "definition" : "各种各样",
+      "examples" : [
+
+      ],
+      "frequency" : 8965,
+      "phonetic" : "əˈsɔːtm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "assortment"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "魔法；巫术18314",
+      "etymology" : "Sort的原始含义为what is allotted to one by fate：根据命运分配给各 人的东西，后来演变为“lot, fate, fortune：抽签；命运；运气”。 源于拉丁语中的“sortes”（命运），指刻画在石头、木片、纸片、 骰子上的符号、图形、或文字。Sorcery指西方古代的抽签占卜术。 Sorcery的含义就是通过随机抽取、翻取、投掷等方式来达到占卜的 目的，即巫术、魔法。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sorc（=sortes：用于占卜的符号、图形活文字）+ -ery（名词后缀，\n表……术）→用抽签等行为影响命运的人→魔法；巫术",
+      "phonetic" : "ˈsɔːs(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "sorcery"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（故事中的）术士；男巫；巫师",
+      "etymology" : "sol- Also solə-, Proto-Indo-European root meaning “whole, well-kept.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit sarvah “uninjured, intact, whole;” Avestan haurva- “uninjured, intact;” Old Persian haruva-; Greek holos “whole;” Latin salvus “uninjured, in good health, safe,” salus “good health,” solidus “solid;” Armenian olj “whole, healthy.” 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 18258,
+      "mnemonic" : "sorcery（魔法；巫术）+ -er（名词后缀，表示人）→术士；巫师",
+      "phonetic" : "ˈsɔːs(ə)rə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "sorcerer"
+    },
+    {
+      "collocations" : [
+        "save on energy bills：节省能源开支",
+        "save up for something special：以备专门秩序",
+        "save risk and pain for patients：为病患者免除风险和疼痛"
+      ],
+      "definition" : "&vi. 储蓄；节约；保存 vt. 救助；保留（备用）；免去",
+      "examples" : [
+        "无论在什么情况下，勤劳和节俭的价值观都不会过时。\nUnder no circumstance will the values of industriousness and thrift\noutdate\/fade."
+      ],
+      "frequency" : 735,
+      "mnemonic" : "save：reserve for future use→储蓄；节约；保存；保留\nkeep safe, protect→救助；保护\nthrif（=save：保留；节省）+ t→节俭；节约",
+      "phonetic" : "seɪv",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "save"
+    },
+    {
+      "collocations" : [
+        "a money\/time saver：省钱\/省时的事物"
+      ],
+      "definition" : "储户；有助于节省的事物",
+      "examples" : [
+        "Low interest rates are bad news for savers, who have seen their income\nhalved over the last year. 低利率对储户来说是个坏消息，他们在过去\n一年就看到了收入减半。"
+      ],
+      "frequency" : 15809,
+      "phonetic" : "ˈseɪvə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "saver"
+    },
+    {
+      "collocations" : [
+        "open a savings account：开一个储蓄账户",
+        "energy-saving modifications：节能改装",
+        "labor-saving devices：节省人力的装置",
+        "space-saving fitted furniture：节省空间的定做的家具"
+      ],
+      "definition" : "节省；积蓄；存款（复数）；-saving（节约的；节省……",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sav-（=save：保留；留存）+ -ing（名词后缀）→留、存下来的东西\n→节省；积蓄；存款",
+      "phonetic" : "ˈseɪvɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "saving"
+    },
+    {
+      "collocations" : [
+        "a life-saving heart operation：挽救生命的心脏手术",
+        "a life-saving qualification：救生资格"
+      ],
+      "definition" : "救命的；救生的 n.（对溺水者的）救生术",
+      "examples" : [
+
+      ],
+      "frequency" : 17981,
+      "mnemonic" : "life（生命）+ -saving（救助的）→救助生命的→救命的；救生术",
+      "phonetic" : "ˈlaɪf seɪvɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "life-saving"
+    },
+    {
+      "collocations" : [
+        "the savior of his country：他的国家的救星"
+      ],
+      "definition" : "拯救者；救星10505",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sav-（=save：拯救）+ -ior（表示人）→拯救的人→拯救者；救星",
+      "phonetic" : "ˈseɪvjə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "savior"
+    },
+    {
+      "collocations" : [
+        "have a safe trip home：回家一路平安",
+        "a safe investment：小风险投资",
+        "safe and sound：安然无恙",
+        "safe operation：安全操作",
+        "better safe than sorry：宁可事先谨慎有余，不要事后追悔莫及",
+        "on the safe side：谨慎为是",
+        "as safe as houses：非常安全",
+        "a safe pair of hands：靠得住的办事人"
+      ],
+      "definition" : "安全的；平安的；稳妥的",
+      "examples" : [
+
+      ],
+      "frequency" : 1062,
+      "mnemonic" : "safe：unhurt, uninjured, protected, free from danger→未受伤害的；受保",
+      "phonetic" : "seɪf",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "safe"
+    },
+    {
+      "collocations" : [
+        "return safely today from a 10-day mission：在为期10天的任务之后于今"
+      ],
+      "definition" : "安全地；平安地；稳妥地",
+      "examples" : [
+
+      ],
+      "frequency" : 4309,
+      "phonetic" : "ˈseɪflɪ",
+      "pos" : "adv.",
+      "rootHint" : "ser",
+      "word" : "safely"
+    },
+    {
+      "collocations" : [
+        "improve safety on aircraft：加强飞行安全",
+        "pull her to safety：把她拖到了安全的地方",
+        "the safety of witnesses：证人们的安危",
+        "safety device：安全装置"
+      ],
+      "definition" : "安全；平安；安全性；安危 adj. 安全的（特性或措施）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "safe（安全的）+ -ty（名词后缀）→安全；平安；安全的",
+      "phonetic" : "ˈseɪftɪ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "safety"
+    },
+    {
+      "collocations" : [
+        "those whose marriages are beyond salvation：那些婚姻无法拯救的人",
+        "salvation army：[基督]救世军"
+      ],
+      "definition" : "拯救；解救物；（基督教中）灵魂的拯救",
+      "etymology" : "基督教认为因为人类始祖亚当和夏娃违反上帝意愿偷吃禁果，因此所 有人类从一出生就带有原罪，需要信耶稣基督上帝的儿子在十字架上 20000 词汇巅峰 速 记 担当了其罪过，死后灵魂才能得救，升入天堂。salvation就特指基督 教中的“灵魂得救”。现在，该词已经广泛应用于非宗教领域，表示 “救赎、拯救”。",
+      "examples" : [
+
+      ],
+      "frequency" : 5590,
+      "mnemonic" : "salv-（=save：拯救）+ -ation（名词后缀）→拯救；解救物；灵魂的",
+      "phonetic" : "sælˈveɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "salvation"
+    },
+    {
+      "collocations" : [
+        "salvage operation：抢救作业",
+        "salvage the situation：挽救这个局面",
+        "salvage some pride：挽回些尊严"
+      ],
+      "definition" : "抢救（沉船或被毁楼房中的财物）；挽救（败局）；挽回（自尊、声誉等） n. 抢救；抢救出的财物",
+      "etymology" : "英语词根salv-（安全，救助）源自拉丁语形容词salvus（安全的） 和动词salvare（救助，使安全），与词根salu-\/salut-（健康）有亲缘 关系。如果我们追根溯源，可以发现，这两个拉丁词根和希腊词根 holo-（完整，全部）都源自原始印欧语词根sol-（完整的）。",
+      "examples" : [
+
+      ],
+      "frequency" : 9097,
+      "mnemonic" : "salv-（=save）+ -age（名词后缀）→the saving of property from\ndanger：抢救；挽救；挽回",
+      "phonetic" : "ˈsælvɪdʒ",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "salvage"
+    },
+    {
+      "collocations" : [
+        "solid foundation：坚实的基础",
+        "solid mass of matter：固体物质",
+        "solid evidence：确凿的证据"
+      ],
+      "definition" : "固体的；坚固的；可靠的 n. 固体",
+      "examples" : [
+
+      ],
+      "frequency" : 2027,
+      "mnemonic" : "sol-（=whole：全体；整体）+ -id（形容词后缀）→一致的，全部的\n→固体的；坚固的；可靠的（因为“全体在一起”，所以“可靠”）",
+      "phonetic" : "ˈsɒlɪd",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "solid"
+    },
+    {
+      "collocations" : [
+        "be solidly built：修建得很坚固"
+      ],
+      "definition" : "坚固地；可靠地；坚定地",
+      "examples" : [
+        "She’s played solidly throughout the spring.\n她整个春季都表现得很稳健。"
+      ],
+      "frequency" : 11941,
+      "phonetic" : "ˈsɒlɪdli",
+      "pos" : "adv.",
+      "rootHint" : "ser",
+      "word" : "solidly"
+    },
+    {
+      "collocations" : [
+        "solidarity with：和……团结一致",
+        "community solidarity：社群团结",
+        "to express\/show solidarity with sb.：表示\/表明支持某人",
+        "阅读难点：insulate from：绝缘，隔绝，远离"
+      ],
+      "definition" : "团结一致；相互支持",
+      "examples" : [
+        "It’s possible that plutocrats (有钱有势的人) are expressing solidarity\nwith the struggling middle class as part of an effort to insulate themselves\nfrom confiscatory (没收性的) tax policies.\n有钱有势的人表达要和挣扎的中产阶级团结一致，可能是作为使自己\n远离没收性的税收政策的一部分努力。"
+      ],
+      "frequency" : 6306,
+      "mnemonic" : "solid（一致的，全部的；同时还有“固定，固体”之意）+ -arity（=-\nar + -ity：复合名词后缀）→全部固定（凝固）在一起→团结一致；",
+      "phonetic" : "ˌsɒlɪˈdærɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "solidarity"
+    },
+    {
+      "collocations" : [
+        "solidify the deadly waste：凝固这些致命的废物",
+        "solidify his position as chairman：稳固他作为主席的地位"
+      ],
+      "definition" : "&vi. 使凝固；使稳固",
+      "examples" : [
+
+      ],
+      "frequency" : 11197,
+      "mnemonic" : "solid（坚固）+ -ify（动词后缀）→ 使凝固；使稳固",
+      "phonetic" : "səˈlɪdɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "solidify"
+    },
+    {
+      "collocations" : [
+        "consolidate his position：巩固他的地位"
+      ],
+      "definition" : "巩固；合并",
+      "examples" : [
+        "The two companies consolidated for greater efficiency.\n为提高效率，这两家公司已合并。"
+      ],
+      "frequency" : 7273,
+      "mnemonic" : "con-（=together：一起）+ solid（make solid：变得坚固、结实）+-ate\n（使动词）→一起变得坚固、结实→巩固；合并",
+      "phonetic" : "kənˈsɒlɪdeɪt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "consolidate"
+    },
+    {
+      "collocations" : [
+        "a consolidated balance sheet：合并的资产负债表",
+        "consolidated snow：压实的积雪"
+      ],
+      "definition" : "合并的；统一的；压实的",
+      "examples" : [
+
+      ],
+      "frequency" : 13772,
+      "phonetic" : "kənˈsɒlɪdeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "consolidated"
+    },
+    {
+      "collocations" : [
+        "the consolidation of power：权力的巩固",
+        "the consolidation of Japan’s banking industry：日本银行业的合并"
+      ],
+      "definition" : "巩固；合并",
+      "examples" : [
+
+      ],
+      "frequency" : 8663,
+      "mnemonic" : "consolidate（巩固；合并）+ -ion（名词后缀）→巩固；合并",
+      "phonetic" : "kənˌsɒlɪˈdeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "consolidation"
+    },
+    {
+      "collocations" : [
+        "stereo system：立体音响系统"
+      ],
+      "definition" : "立体声；立体声系统；[印]铅版；立体照片",
+      "examples" : [
+
+      ],
+      "frequency" : 6244,
+      "mnemonic" : "简写自单词stereophonic：立体声的（stereo=solid：立体的 + -phon =\nvoice：声音）→声音立体的→立体声的；立体声",
+      "phonetic" : "ˈsterɪəʊ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "stereo"
+    },
+    {
+      "collocations" : [
+        "overcome\/get over the stereotype：克服这种成见",
+        "racial stereotypes：种族成见"
+      ],
+      "definition" : "把……模式化；对……产生成见 n. 模式化形象；成见",
+      "examples" : [
+
+      ],
+      "frequency" : 4990,
+      "mnemonic" : "stereo（=solid：固定的；坚固的）+ type（印刷；打印）→原指一种",
+      "phonetic" : "ˈsteriətaɪp",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "stereotype"
+    },
+    {
+      "collocations" : [
+        "stereotyped image：刻板印象\/典型形象"
+      ],
+      "definition" : "刻板的；典型的；老一套的",
+      "examples" : [
+
+      ],
+      "frequency" : 18648,
+      "phonetic" : "ˈsteriːəˌtaɪpt",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "stereotyped"
+    },
+    {
+      "collocations" : [
+        "stereotypical images of the unfeeling male：冷血男人的模式化形象"
+      ],
+      "definition" : "模式化的；成见的",
+      "examples" : [
+
+      ],
+      "frequency" : 13720,
+      "phonetic" : "ˌsteriəˈtipikl",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "stereotypical"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "刻板印象",
+      "examples" : [
+
+      ],
+      "frequency" : 16293,
+      "phonetic" : "ˈsteriəˌtaɪpɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "stereotyping"
+    },
+    {
+      "collocations" : [
+        "soldiers in uniform：穿军装的士兵",
+        "soldiers on duty：值勤的士兵",
+        "soldier on：坚持；硬挺着"
+      ],
+      "definition" : "军人；（尤指）士兵",
+      "etymology" : "公元前2世纪末，古罗马共和国执政官盖乌斯·马略实行军事改革，将 公民兵制改为募兵制，招募以前无权参军的贫苦公民到军中服役，并 提高薪饷，延长服役期限。从此，城乡大批无业游民加入军队，成为 脱离社会生产的职业军人。在拉丁语中，这种按月领饷的职业军人 被称为soldarius，源自一种古罗马金币的名称solidus，字面意思就是 “可以领取solidus（军饷）的人”。这就是soldier（军人；士兵）的 来源。",
+      "examples" : [
+
+      ],
+      "frequency" : 1006,
+      "mnemonic" : "sold（=solid：坚固的）+ -ier（名词后缀，表示人）→坚固的人→军",
+      "phonetic" : "ˈsəʊldʒə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "soldier"
+    },
+    {
+      "collocations" : [
+        "made a solemn promise：许下郑重的承诺",
+        "a solemn ritual：隆重的仪式"
+      ],
+      "definition" : "（人）严肃的；（物）庄严的；正式的；郑重的",
+      "etymology" : "来自拉丁语sollemnis “annual, established, religiously fixed, formal, ceremonial, traditional” .",
+      "examples" : [
+        "His solemn little face broke into smiles.\n他那严肃的小脸绽开了笑容。"
+      ],
+      "frequency" : 9361,
+      "phonetic" : "ˈsɒləm",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "solemn"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "郑重地；严肃地",
+      "examples" : [
+
+      ],
+      "frequency" : 12490,
+      "phonetic" : "ˈsɒləmlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ser",
+      "word" : "solemnly"
+    },
+    {
+      "collocations" : [
+        "salute the General：向那位将军行军礼"
+      ],
+      "definition" : "&vi. 向……打招呼；向……行军礼 vt. 对……表示敬意 n.",
+      "etymology" : "在罗马神话中，健康女神叫做萨卢斯（Salus），等同于希腊神话中 的许癸厄亚（Hygieia）。在古罗马时期萨卢斯得到古罗马人广泛崇 拜与供奉，并于每年八月五日进行相关活动。 萨卢斯的名字Salus在拉丁语中就是“健康”的意思，属格形式为 salutis，英语词根salu-\/salut-（健康）就来源于此。由此衍生出常见 单词salute，本意是“祝您健康”，引申为“致敬”。它的名词形 式是salutation（致敬），形容词形式是salutatory（致敬意的），但 20000 词汇巅峰 速 记 salutatory常常转做名词，表示“欢迎词，祝词”。",
+      "examples" : [
+        "I salute the governor for the leadership role that he is taking.\n我对州长的领导风范表示敬意。"
+      ],
+      "phonetic" : "səˈluːt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "salute"
+    },
+    {
+      "collocations" : [
+        "to solicit for money：筹款",
+        "solicit openly in the streets：公开在街上拉客"
+      ],
+      "definition" : "请求给予（援助、钱或信息） vi. 拉客",
+      "etymology" : "来自拉丁语sollicitare “to rouse, provoke：唤醒；使产生兴趣；激起” 。 来自sollicitus “agitated,” 来自sollus “whole, entire” (来自古印欧语词根 sol- “whole, well-kept”) + citus “aroused” .",
+      "examples" : [
+
+      ],
+      "frequency" : 7864,
+      "mnemonic" : "soli-（=sol-=whole：全部的；整体的）+ -cit（=arouse：使产生兴\n趣；激起）→使……产生（全部的）兴趣，激起→请求给予（援助、",
+      "phonetic" : "səˈlɪsɪt",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "solicit"
+    },
+    {
+      "collocations" : [
+        "the solicitation of money for election funds：竞选资金筹集（请求给予"
+      ],
+      "definition" : "请求给予",
+      "examples" : [
+
+      ],
+      "frequency" : 16174,
+      "phonetic" : "səˌlɪsɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "solicitation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（美国政府或市政部门的）首席法律官员",
+      "examples" : [
+
+      ],
+      "frequency" : 18157,
+      "mnemonic" : "solicit（请求；求助）+ -or（名词后缀，表示人）→即被别人求助的\n人→首席法律官员",
+      "phonetic" : "səˈlɪsɪtə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "solicitor"
+    },
+    {
+      "collocations" : [
+        "the Catholic Church：天主教会",
+        "a man of catholic tastes：一个兴趣广泛的人"
+      ],
+      "definition" : "天主教的；广泛的 n. 天主教徒",
+      "etymology" : "基 督 教 大 分 裂 后 ， 以 罗 马 为 中 心 的 西 部 教 会 自 称 为 “ 罗 马 公 教 会”(The Roman Catholic Church)，其中的catholic是“普遍的，一般 的”的意思，表示他们才是惟一真正的普世教会。罗马公教会于16世 纪传入中国后，因其信徒将所崇奉的神称为“天主”，因而在中国被 称为天主教。",
+      "examples" : [
+
+      ],
+      "frequency" : 1769,
+      "mnemonic" : "cat-（=about：关于）+ -hol-（=whole：整个的）+ -ic（形容词后缀）\n→有关整体的→universal, general：即普世的；广泛的",
+      "phonetic" : "ˈkæθlɪk",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "Catholic"
+    },
+    {
+      "collocations" : [
+        "her conversion to Catholicism：她对天主教的皈依"
+      ],
+      "definition" : "天主教的教义",
+      "examples" : [
+
+      ],
+      "frequency" : 8924,
+      "phonetic" : "kəˈθɒləsɪzəm",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "Catholicism"
+    },
+    {
+      "collocations" : [
+        "a nuclear holocaust；核灾难",
+        "survivors of the Holocaust：大屠杀的幸存者"
+      ],
+      "definition" : "（尤指战争引起的）大灾难；（第二次世界大战中",
+      "examples" : [
+
+      ],
+      "mnemonic" : "holo-（=whole：整个的）+ -caust（=to burn：燃烧）→全部燃烧起来\n的→引申词义大灾难；大屠杀",
+      "phonetic" : "ˈhɒləkɔːst",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "holocaust"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（激光制作的三维）全息图",
+      "etymology" : "dher- Proto-Indo-European root meaning “to hold firmly, support.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit dharmah “custom, statute, law,” dharayati “holds;” Prakrit dharana “a holding firm;” Iranian dāra “holding;” Greek thronos “seat;” n;” Lithuanian diržnas “strong;” Welsh dir “hard,” Breton dir “steel.”",
+      "examples" : [
+
+      ],
+      "frequency" : 19341,
+      "mnemonic" : "holo-（=whole：三维的）+ -gram（=a picture：图片）→三维的图片\n→全息图",
+      "phonetic" : "ˈhɒləgræm",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "hologram"
+    },
+    {
+      "collocations" : [
+        "law firm：律师事务所",
+        "firm and cool：有力而冷静",
+        "a firm decision：明确的决定",
+        "firm evidence：确凿的证据",
+        "have firm control of：牢牢地控制着……"
+      ],
+      "definition" : "结实的；强有力的；坚定的；确凿的；（控制）牢固的 n.",
+      "etymology" : "来自拉丁语firmus “strong, steadfast, enduring, stable,” figuratively “constant, steadfast, trusty, faithful”，含义为“强有力的；坚定的，持 久的，稳定的”，象征含义为“保持不变的，坚定的，可信赖的，忠 实的”。",
+      "examples" : [
+
+      ],
+      "phonetic" : "fɜːm",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "firm"
+    },
+    {
+      "collocations" : [
+        "hold me firmly by the elbow：使劲抓着我的胳膊肘",
+        "firmly shut：关得牢牢地"
+      ],
+      "definition" : "强有力地；坚定地；确定地；牢固地",
+      "examples" : [
+        "Values and opinions are firmly held. 价值观和主张是根深蒂固的。\nThis tradition is also firmly rooted in the past.\n这个传统也牢固地植根于过去。"
+      ],
+      "frequency" : 3855,
+      "phonetic" : "fɜːmli",
+      "pos" : "adv.",
+      "rootHint" : "ser",
+      "word" : "firmly"
+    },
+    {
+      "collocations" : [
+        "a farm worker\/laborer：农场工人",
+        "farm produce：农产品"
+      ],
+      "definition" : "&vi. 耕种；养殖 n. 农场；养殖地",
+      "etymology" : "来自古法语ferme “a rent, lease：出租；租约”（13世纪）→“tract of leased land：大片租赁的土地”的含义首先记录于14世纪→ “cultivated land：耕地”（leased or not：出租与否）来自1520年。",
+      "examples" : [
+        "They farmed some of the best land in the country.\n他们耕种着该国最好的一些土地。"
+      ],
+      "frequency" : 1265,
+      "phonetic" : "fɑːm",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "farm"
+    },
+    {
+      "collocations" : [
+        "dairy farmer：奶农；畜牧工人"
+      ],
+      "definition" : "农场主",
+      "examples" : [
+
+      ],
+      "frequency" : 1598,
+      "phonetic" : "ˈfɑːmə",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "farmer"
+    },
+    {
+      "collocations" : [
+        "sheep\/fish, etc. farming：牧羊、养鱼等",
+        "to take up farming：从事农业"
+      ],
+      "definition" : "耕种；养殖；务农",
+      "examples" : [
+
+      ],
+      "frequency" : 5169,
+      "phonetic" : "ˈfɑːmɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "farming"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "农场住宅；农舍（农场主的主要住房）",
+      "examples" : [
+
+      ],
+      "frequency" : 8552,
+      "mnemonic" : "farm（农场）+ house（住宅）→农场住宅；农舍",
+      "phonetic" : "ˈfɑːmhaʊs",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "farmhouse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "农田；耕地",
+      "examples" : [
+
+      ],
+      "frequency" : 8863,
+      "mnemonic" : "farm（农场）+ land（土地）→农田；耕地",
+      "phonetic" : "ˈfɑːmlænd",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "farmland"
+    },
+    {
+      "collocations" : [
+        "confirm her position：确认了她的职位",
+        "confirm his fear of heights：确信他有恐高症",
+        "confirm what happened：证实一下发生了什么事",
+        "confirm the rumors of job losses：证实了裁员的传言",
+        "阅读难点：lie in：在于"
+      ],
+      "definition" : "证实；确认；使……坚信（其决定、信念、观点的正",
+      "examples" : [
+        "But the latest research further confirms that the danger lies less in what\na motorist’s hands do when he takes a call than in what the conversation\ndoes to his brain.\n但是，最近的研究进一步证实，与驾驶员打电话时双手的动作产生的\n危险相比，更大的危害在于对大脑的影响。"
+      ],
+      "mnemonic" : "con-（加强语气）+ firm（to strengthen：加强；巩固）→证实；确",
+      "phonetic" : "kənˈfɜːm",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "confirm"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "确认；证实",
+      "examples" : [
+        "I’m still waiting for confirmation of the test results.\n我仍在等待考试结果的通知书。"
+      ],
+      "frequency" : 5433,
+      "phonetic" : "ˌkɒnfəˈmeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "confirmation"
+    },
+    {
+      "collocations" : [
+        "a confirmed bachelor：一位坚定的独身主义者"
+      ],
+      "definition" : "坚定的；根深蒂固的",
+      "examples" : [
+
+      ],
+      "frequency" : 16670,
+      "phonetic" : "kənˈfɜːmd",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "confirmed"
+    },
+    {
+      "collocations" : [
+        "affirm that opinion：证实了那个观点"
+      ],
+      "definition" : "公开肯定；证实",
+      "examples" : [
+        "可以确定的是，考证热绝对不会是一个短暂的现象。\nWhat we may confirm\/affirm\/be sure is that the craze for getting\ncertificates will be by no means a transient phenomenon."
+      ],
+      "frequency" : 5791,
+      "mnemonic" : "af-（=to）+ firm（make firm, assert：使肯定；断言）→公开肯定；证实",
+      "phonetic" : "əˈfɜːm",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "affirm"
+    },
+    {
+      "collocations" : [
+        "90% voted affirmatively：90%投票赞成（同意）"
+      ],
+      "definition" : "肯定的；同意的 n. 肯定；同意",
+      "examples" : [
+        "She answered in the affirmative (= said ‘yes’).\n她做出了肯定的答复。"
+      ],
+      "frequency" : 5087,
+      "phonetic" : "əˈfɜːmətɪv",
+      "pos" : "adj.",
+      "rootHint" : "ser",
+      "word" : "affirmative"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重申；再次肯定",
+      "examples" : [
+        "He reaffirmed his commitment to the country’s economic reform\nprogramme.\n他重申了对这个国家经济改革计划的承诺。"
+      ],
+      "frequency" : 9357,
+      "mnemonic" : "re-（=again：再次）+ affirm（=confirm, assert：确认；断言）→再次\n确认→重申；再次肯定",
+      "phonetic" : "riːəˈfɜːm",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "reaffirm"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "肯定；断言",
+      "examples" : [
+
+      ],
+      "frequency" : 10044,
+      "mnemonic" : "affirm（肯定）+ -ation（复合名词后缀）→肯定；断言",
+      "phonetic" : "æfəˈmeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "affirmation"
+    },
+    {
+      "collocations" : [
+        "unfurl all the sails：展开所有的风帆"
+      ],
+      "definition" : "（使卷紧的东西）打开，展开（如伞、帆或旗帜等）；（事件、故事、场景等）逐渐展开",
+      "etymology" : "来自古法语ferliier “chain, tie up, lock away：束缚；绑好；藏起来” 。 也许来自fer-=firm：使牢固。",
+      "examples" : [
+        "The dramatic changes in Europe continue to unfurl.\n剧变在欧洲继续呈现。"
+      ],
+      "frequency" : 15828,
+      "mnemonic" : "un-（表相反）+ furl（卷起；收拢（伞、帆或旗帜））→（使卷紧的",
+      "phonetic" : "ʌnˈfɜːl",
+      "pos" : "vt.",
+      "rootHint" : "ser",
+      "word" : "unfurl"
+    },
+    {
+      "collocations" : [
+        "take the throne：登基为王"
+      ],
+      "definition" : "（君王的）宝座；王位；王权",
+      "etymology" : "来自希腊语thronos “elevated seat, chair, throne” .",
+      "examples" : [
+        "Queen Elizabeth came\/succeeded to the throne in 1952.\n伊丽莎白女王于1952年即位\/登基。\n君王的宝座；王位"
+      ],
+      "frequency" : 7388,
+      "phonetic" : "θrəʊn",
+      "pos" : "n.",
+      "rootHint" : "ser",
+      "word" : "throne"
+    }
+  ]
+}

@@ -1,0 +1,495 @@
+{
+  "chapter" : "5",
+  "id" : "5",
+  "meaningEn" : "to flow, run",
+  "meaningZh" : "流动；跑",
+  "roots" : [
+
+  ],
+  "source" : "textbook-7",
+  "titleZh" : "流动；跑",
+  "words" : [
+    {
+      "collocations" : [
+        "run as fast as：和……跑得一样快"
+      ],
+      "definition" : "&vi. 跑；奔跑；跑（某段距离）；参加赛跑；管理，经营；提",
+      "examples" : [
+        "The show had a record-breaking run in the London theatre."
+      ],
+      "phonetic" : "rʌn",
+      "pos" : "vt.",
+      "word" : "run"
+    },
+    {
+      "collocations" : [
+        "running shoes：跑鞋"
+      ],
+      "definition" : "跑，跑步（运动）；管理，操作；-running（构成复合",
+      "examples" : [
+
+      ],
+      "mnemonic" : "run（跑步；管理；流动；连续，双写n）+ -ing（动名词\/形容词后",
+      "phonetic" : "ˈrʌnɪŋ",
+      "pos" : "n.",
+      "word" : "running"
+    },
+    {
+      "collocations" : [
+        "long-distance runner：长跑运动员"
+      ],
+      "definition" : "跑步者；赛马；走私者，偷运者；跑鞋",
+      "examples" : [
+
+      ],
+      "frequency" : 4257,
+      "mnemonic" : "run（跑步；走私）+-er（名词后缀，表示人或物）→跑步者；赛马；",
+      "phonetic" : "ˈrʌnə",
+      "pos" : "n.",
+      "word" : "runner"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（机场的）跑道",
+      "examples" : [
+        "The plane started taxiing down the runway."
+      ],
+      "frequency" : 5960,
+      "mnemonic" : "run（跑）+way（道路）→飞机跑道",
+      "phonetic" : "ˈrʌnweɪ",
+      "pos" : "n.",
+      "word" : "runway"
+    },
+    {
+      "collocations" : [
+        "runoff water flashing down：奔流而下的径流"
+      ],
+      "definition" : "决胜赛，决胜投票；径流（指流入河流中的雨水）",
+      "examples" : [
+        "There will be a runoff between these two candidates on December 9th."
+      ],
+      "frequency" : 7720,
+      "mnemonic" : "run（参加比赛）+off（起跑）→比赛开始→决胜赛；决胜投票",
+      "phonetic" : "ˈrʌnɒf",
+      "pos" : "n.",
+      "word" : "runoff"
+    },
+    {
+      "collocations" : [
+        "the front-runners in the presidential election：总统选举中的领先者"
+      ],
+      "definition" : "（比赛、竞赛中的）领先者",
+      "examples" : [
+
+      ],
+      "frequency" : 11257,
+      "mnemonic" : "front（在前的）+ runner（选手）→名次在前的选手→领先者",
+      "phonetic" : "ˈfrʌntˌrʌnə",
+      "pos" : "n.",
+      "word" : "front-runner"
+    },
+    {
+      "collocations" : [
+        "second runner-up：第三名；季军"
+      ],
+      "definition" : "第二名；亚军；非冠军的获奖者",
+      "examples" : [
+        "The runners-up will all receive a￡50 prize."
+      ],
+      "frequency" : 12717,
+      "mnemonic" : "runner（比赛者）+ up（向上的）→向最高位置努力的参赛者→第二",
+      "phonetic" : "rʌnərˈʌp",
+      "pos" : "n.",
+      "word" : "runner-up"
+    },
+    {
+      "collocations" : [
+        "runaway children：离家出走的儿童"
+      ],
+      "definition" : "逃跑的，出走的；（车辆或动物）失控的；轻易",
+      "examples" : [
+
+      ],
+      "mnemonic" : "run（跑）+ away（离开）→奔跑离开某地的→逃跑的；离家出走者",
+      "phonetic" : "ˈrʌnəweɪ",
+      "pos" : "adj.",
+      "word" : "runaway"
+    },
+    {
+      "collocations" : [
+        "run-down inner-city areas：破败不堪的市中心区"
+      ],
+      "definition" : "破败的；不景气的，萧条的；疲惫的",
+      "examples" : [
+
+      ],
+      "frequency" : 13915,
+      "mnemonic" : "run（经营，管理，运行）+down（倒下；（数量、力量、活动等）",
+      "phonetic" : "ˈrʌnˈdaun",
+      "pos" : "adj.",
+      "word" : "run-down"
+    },
+    {
+      "collocations" : [
+        "reruns of old TV shows：老电视节目的重播"
+      ],
+      "definition" : "重播的电视节目；重新举行的事，重新赛跑；重演，再现",
+      "examples" : [
+        "We wanted to avoid a rerun of last year’s disastrous trip."
+      ],
+      "mnemonic" : "re-（=again：再次；又）+run（赛跑；使开始）→再次赛跑，再次",
+      "phonetic" : "riːˈrʌn",
+      "pos" : "n.",
+      "word" : "rerun"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "跑得比……快（或远）；超过；发展更快",
+      "examples" : [
+        "He couldn’t outrun his pursuers."
+      ],
+      "frequency" : 17354,
+      "mnemonic" : "out（=forth：向前）+run（跑）→向前跑，超过……→跑得比……",
+      "phonetic" : "aʊtˈrʌn",
+      "pos" : "vt.",
+      "word" : "outrun"
+    },
+    {
+      "collocations" : [
+        "spending in the run-up to Christmas：圣诞节前的花费"
+      ],
+      "definition" : "（重要事情的）前期，准备阶段；助跑，助跑距离",
+      "examples" : [
+
+      ],
+      "frequency" : 15959,
+      "mnemonic" : "run（跑）+ up（朝……的方向）→朝……方向（时间点）跑→前",
+      "phonetic" : "ˈrʌnʌp",
+      "pos" : "n.",
+      "word" : "run-up"
+    },
+    {
+      "collocations" : [
+        "runny honey：水分过多的蜂蜜"
+      ],
+      "definition" : "流鼻涕的，流眼泪的；太稀的，水分过多的，软的",
+      "examples" : [
+        "Omelets should be runny in the middle."
+      ],
+      "frequency" : 19161,
+      "mnemonic" : "run（流；流淌）+-y（形容词后缀）→流出来的→流鼻涕的，流眼泪",
+      "phonetic" : "ˈrʌnɪ",
+      "pos" : "adj.",
+      "word" : "runny"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "争论；争吵；冲突",
+      "examples" : [
+        "The fiery player has had numerous run-ins with referees."
+      ],
+      "frequency" : 19176,
+      "mnemonic" : "run-in=quarrel：口角；争吵；拌嘴",
+      "phonetic" : "ˈrʌnin",
+      "pos" : "n.",
+      "word" : "run-in"
+    },
+    {
+      "collocations" : [
+        "to travel up\/down river：逆流而上；顺流而下"
+      ],
+      "definition" : "河，江；（液体）涌流",
+      "etymology" : "Early 13c., from Anglo-French rivere, Old French riviere “river, riverside, river bank”.",
+      "examples" : [
+        "Rivers of molten lava (熔岩) flowed down the mountain."
+      ],
+      "frequency" : 1334,
+      "phonetic" : "ˈrɪvə",
+      "pos" : "n.",
+      "word" : "river"
+    },
+    {
+      "collocations" : [
+        "an upriver trip：一次沿河而上的旅行"
+      ],
+      "definition" : "朝上游地 adj. 朝上游的",
+      "examples" : [
+
+      ],
+      "frequency" : 18785,
+      "mnemonic" : "up（向上）+ river（河；江）→向河流上游的（地）→朝上游的；朝",
+      "phonetic" : "ˌʌpˈrɪvə(r)",
+      "pos" : "adv.",
+      "word" : "upriver"
+    },
+    {
+      "collocations" : [
+        "the bank of a river：河岸"
+      ],
+      "definition" : "河岸；河堤",
+      "examples" : [
+
+      ],
+      "frequency" : 15286,
+      "mnemonic" : "river（河）+bank（堤岸）→河岸；河堤",
+      "phonetic" : "ˈrɪvəbæŋk",
+      "pos" : "n.",
+      "word" : "riverbank"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "内河船只；江轮",
+      "examples" : [
+
+      ],
+      "frequency" : 17793,
+      "mnemonic" : "river（河；江）+boat（船只）→内河船只；江轮",
+      "phonetic" : "ˈrɪvəbəʊt",
+      "pos" : "n.",
+      "word" : "riverboat"
+    },
+    {
+      "collocations" : [
+        "derive from sth.\/be derived from sth.：从……衍生出；起源于；来自"
+      ],
+      "definition" : "起源于；来自；（从……中）得到，获得；衍生",
+      "examples" : [
+        "The word ‘politics’ is derived from a Greek word meaning ‘city’",
+        "仿写我认为，中文学习危机并不是源于学生的忽视，而是源于大学课"
+      ],
+      "frequency" : 3077,
+      "mnemonic" : "de-（下）+rive（=river：河流，流）→从……流下来→（反推回去）",
+      "phonetic" : "dɪˈraɪv",
+      "pos" : "vt.",
+      "word" : "derive"
+    },
+    {
+      "collocations" : [
+        "a derivative design \/ style：沿袭前人的设计\/样式"
+      ],
+      "definition" : "派生词；衍生物 adj. 模仿他人的；缺乏独创性的",
+      "examples" : [
+        "‘Happiness’ is a derivative of ‘happy’"
+      ],
+      "mnemonic" : "derive（起源于；来自；衍生）+-ative（名词\/形容词后缀）→派生",
+      "phonetic" : "dɪˈrɪvətɪv",
+      "pos" : "n.",
+      "word" : "derivative"
+    },
+    {
+      "collocations" : [
+        "rival tech giants：科技巨头竞争对手"
+      ],
+      "definition" : "竞争对手 vt. 与……相匹敌；比得上",
+      "etymology" : "来源于拉丁语中rivus（溪流）派生的rivalis（溪流的）。原义为“住 在河对岸的人”或“共饮一江水的人”。古往今来，竞争用水权、 捕鱼权等往往成为纷争之根源，争端之所在。江河两岸的人由近邻变 成竞争对手。有时甚而由互相敌对发展为公开冲突，尤其当一条河作 为两个国家的界河时，情况更是如此。所以当rivalis借道法语进入英 20000 词汇巅峰 速 记 笔 记 区 语时，演变的rival这个词很快就被赋予了“竞争对手”、“敌手”的 含义。",
+      "examples" : [
+        "As an industry, biotechnology stands to rival electronics in dollar volume",
+        "仿写作为一种产业，数字化产业在美元产值上比得上互联网产业。"
+      ],
+      "frequency" : 4391,
+      "mnemonic" : "riv-（=river：河流）+-al（形容词或名词后缀）→竞争对手；与……",
+      "phonetic" : "ˈraɪvl",
+      "pos" : "n.",
+      "word" : "rival"
+    },
+    {
+      "collocations" : [
+        "sibling rivalry (= between brothers and sisters)：兄弟姐妹间的较量"
+      ],
+      "definition" : "竞争；竞赛；较量",
+      "examples" : [
+
+      ],
+      "frequency" : 6703,
+      "mnemonic" : "rival（与……竞争；与……相匹敌）+-ry（名词后缀）→竞争；竞",
+      "phonetic" : "ˈraɪvlri",
+      "pos" : "n.",
+      "word" : "rivalry"
+    },
+    {
+      "collocations" : [
+        "mountain streams：山间的溪流；山涧"
+      ],
+      "definition" : "小河，溪；流，（液）流，（气）流；（人）流，（车）",
+      "examples" : [
+        "A stream of blood flowed from the wound."
+      ],
+      "mnemonic" : "st（无意义）+ream（=river：流，河流，溪流）→河流，溪流；流",
+      "phonetic" : "striːm",
+      "pos" : "n.",
+      "word" : "stream"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使成流线型；使（系统、机构等）效率更高；",
+      "examples" : [
+        "The cars all have a new streamlined design."
+      ],
+      "mnemonic" : "stream（流动）+ line（线；线条）→一条流动的线→使成流线型；",
+      "phonetic" : "ˈstriːmlaɪn",
+      "pos" : "vt.",
+      "word" : "streamline"
+    },
+    {
+      "collocations" : [
+        "these beautifully streamlined and efficient cars：这些优美的流线型高效"
+      ],
+      "definition" : "流线型的",
+      "examples" : [
+
+      ],
+      "frequency" : 15115,
+      "mnemonic" : "streamline（流线）+-d（形容词后缀）→流线型的",
+      "phonetic" : "ˈstriːmlaɪnd",
+      "pos" : "adj.",
+      "word" : "streamlined"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "装饰彩纸条；条幅，横幅",
+      "etymology" : "“having sufficient power or means,” early 14c., from Old French (h)able “capable; fitting, suitable; agile, nimble” (14c.), from Latin habilem, 20000 词汇巅峰 速 记 habilis “easily handled, apt,” verbal adjective from habere “to hold” (from PIE root *ghabh- “to give or receive”). 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 17686,
+      "mnemonic" : "st（无意义）+ream（=river：流，河流，溪流；-er为名词后缀）→河",
+      "phonetic" : "ˈstriːmə",
+      "pos" : "n.",
+      "word" : "streamer"
+    },
+    {
+      "collocations" : [
+        "be able to speak French：会说法语"
+      ],
+      "definition" : "能，能够的；有才智的，有才能的，（某方面）擅长的",
+      "etymology" : "“having sufficient power or means：拥有足够的力量和手段”，14世 纪早期, 来自古法语(h)able “capable; fitting, suitable; agile, nimble” (14 世纪), 来自拉丁语habilem, habilis “easily handled, apt,” 来词词根hab- =to hold: 拿着；拥有；持有；获得。",
+      "examples" : [
+
+      ],
+      "frequency" : 386,
+      "phonetic" : "ˈeɪbl",
+      "pos" : "adj.",
+      "word" : "able"
+    },
+    {
+      "collocations" : [
+        "of extraordinary abilities：才干卓著"
+      ],
+      "definition" : "能力；才能；才智",
+      "examples" : [
+        "A gentle form of exercise will increase your ability to relax."
+      ],
+      "frequency" : 783,
+      "mnemonic" : "ab（=able：能；有才能的，有才智的）+ -ility（复合名词后缀，-il(e)",
+      "phonetic" : "əˈbɪlətɪ",
+      "pos" : "n.",
+      "word" : "ability"
+    },
+    {
+      "collocations" : [
+        "feel unable to do sth.：无法；不能……"
+      ],
+      "definition" : "没有所需技能（或力量、时间、知识等）的；不能",
+      "examples" : [
+        "He was unable to play tennis after the injury."
+      ],
+      "mnemonic" : "un-（=not：表否定）+able（能够的；有才能的）→没有所需技能",
+      "phonetic" : "ʌnˈeɪbl",
+      "pos" : "adj.",
+      "word" : "unable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使丧失能力，使伤残；破坏，使不能运转",
+      "examples" : [
+        "He was disabled in a car accident."
+      ],
+      "frequency" : 11291,
+      "mnemonic" : "dis-（表相反）+ -able（能够的；有能力的，健康的）→引申义使伤",
+      "phonetic" : "dɪsˈeɪbl",
+      "pos" : "vt.",
+      "word" : "disable"
+    },
+    {
+      "collocations" : [
+        "severely disabled：严重伤残"
+      ],
+      "definition" : "丧失能力的；有残疾的；无能力的",
+      "examples" : [
+
+      ],
+      "frequency" : 4458,
+      "phonetic" : "dɪsˈeɪbld",
+      "pos" : "adj.",
+      "word" : "disabled"
+    },
+    {
+      "collocations" : [
+        "a physical \/ mental disability：生理缺陷；心理障碍"
+      ],
+      "definition" : "（身体上的）残疾，缺陷；（指状态、身心、学习",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-（表相反）+ability（能力；健康）→残疾，缺陷；无能力；障碍",
+      "phonetic" : "dɪsəˈbɪlɪtɪ",
+      "pos" : "n.",
+      "word" : "disability"
+    },
+    {
+      "collocations" : [
+        "enable someone to access the Internet：使某人可访问互联网"
+      ],
+      "definition" : "使能够，使有机会；使成为可能，使实现",
+      "examples" : [
+
+      ],
+      "frequency" : 2212,
+      "mnemonic" : "en-（=make：使……）+ able（能够……的）→使能够；使成为可",
+      "phonetic" : "ɪˈneɪbl",
+      "pos" : "vt.",
+      "word" : "enable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "健康的；健全的 n. （the able-bodied）体格健",
+      "examples" : [
+        "The gym can be used by both able-bodied and disabled people."
+      ],
+      "mnemonic" : "able（健康的）+bodied（身体上的）→身体上健康的→健康的；体格",
+      "phonetic" : "ˈeiblˈbɔdid",
+      "pos" : "adj.",
+      "word" : "able-bodied"
+    },
+    {
+      "collocations" : [
+        "doable project：可行的方案"
+      ],
+      "definition" : "可做的；可行的",
+      "examples" : [
+
+      ],
+      "frequency" : 19362,
+      "mnemonic" : "do（做；行动）+ -able（能够的）→可做的；可行的",
+      "phonetic" : "ˈduːəbl",
+      "pos" : "adj.",
+      "word" : "doable"
+    }
+  ]
+}

@@ -1,0 +1,5663 @@
+{
+  "chapter" : "7",
+  "id" : "stinct",
+  "meaningEn" : "刺。引申义为quench",
+  "meaningZh" : "熄灭",
+  "roots" : [
+    "stinct",
+    "stin等也"
+  ],
+  "source" : "textbook-8",
+  "titleZh" : "熄灭",
+  "words" : [
+    {
+      "collocations" : [
+        "a bee sting：被蜜蜂蛰一下"
+      ],
+      "definition" : "&vi. 刺，蜇，叮；（使）感觉刺痛；（话语）刺伤，批评；对",
+      "etymology" : "来自古英语stingan “to stab, pierce, or prick with a point：用一个点刺， 20000 词汇巅峰 速 记 笔 记 区 戳；刺伤” (of weapons, insects, plants, etc.)→引申义为激怒，使不安； 敲诈；痛苦。",
+      "examples" : [
+        "I was stung on the arm by a wasp."
+      ],
+      "phonetic" : "stɪŋ",
+      "pos" : "vt",
+      "rootHint" : "stinct",
+      "word" : "sting"
+    },
+    {
+      "collocations" : [
+        "stinging criticism：激烈的批评"
+      ],
+      "definition" : "刺人的；刺一般的；激烈的",
+      "examples" : [
+
+      ],
+      "frequency" : 12412,
+      "mnemonic" : "sting（刺；刺伤）+ -ing（形容词后缀）→刺伤人的→刺人的；激",
+      "phonetic" : "ˈstɪŋɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "stinging"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "小气的，吝啬的；有刺的，刺人的",
+      "examples" : [
+        "You’re stingy!"
+      ],
+      "frequency" : 19470,
+      "mnemonic" : "sting（刺；叮；蜇）+ -y（形容词后缀）→有刺的，刺人的",
+      "phonetic" : "ˈstɪndʒi",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "stingy"
+    },
+    {
+      "collocations" : [
+        "go extinct：走向灭绝"
+      ],
+      "definition" : "绝种的；灭亡的，不复存在的",
+      "examples" : [
+        "Servants are now almost extinct in modern society."
+      ],
+      "frequency" : 9567,
+      "mnemonic" : "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→",
+      "phonetic" : "ɪkˈstɪŋkt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "extinct"
+    },
+    {
+      "collocations" : [
+        "the extinction of species：物种的灭绝"
+      ],
+      "definition" : "（物种的）灭绝；（生活方式、活动的）消亡",
+      "examples" : [
+        "写作由于人们只关心发展经济而不注重文化的传承和发展，很多有特"
+      ],
+      "frequency" : 7089,
+      "mnemonic" : "extinct（绝种的；消亡的）+ -ion（名词后缀）→灭绝；消亡",
+      "phonetic" : "ɪkˈstɪŋkʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "extinction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "熄灭，扑灭；消灭，使破灭",
+      "examples" : [
+        "Firefighters tried to extinguish the flames."
+      ],
+      "frequency" : 12227,
+      "mnemonic" : "ex-（=out）+ -ting（=quench：熄灭）+ u（连接符号）+ -ish（动词后",
+      "phonetic" : "ɪkˈstɪŋɡwɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "extinguish"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "灭火器",
+      "examples" : [
+
+      ],
+      "frequency" : 19575,
+      "mnemonic" : "=fire extinguisher：灭火器",
+      "phonetic" : "ɪkˈstɪŋɡwɪʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "extinguisher"
+    },
+    {
+      "collocations" : [
+        "distinguish A from B：把A和B区别开"
+      ],
+      "definition" : "&vi. 辨别；区分 vt. 有别于；辨别出；使著名",
+      "examples" : [
+        "The arrival of synthetic lifelike robots will mean people may not be able to",
+        "仿写互联网的出现将意味着人们可能无法区分真实世界的交流和虚拟"
+      ],
+      "mnemonic" : "dis-（分开）+ -ting（刺）+ u（无意义）+ -ish（动词后缀）→通过刺",
+      "phonetic" : "dɪˈstɪŋɡwɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "distinguish"
+    },
+    {
+      "collocations" : [
+        "a distinguished professor：杰出的教授"
+      ],
+      "definition" : "卓越的，杰出的；高贵的",
+      "examples" : [
+        "His suit was immaculately cut and he looked very distinguished."
+      ],
+      "frequency" : 5639,
+      "mnemonic" : "distinguish（区分）+ -ed（形容词后缀）→引申词义与众不同的→卓",
+      "phonetic" : "dɪˈstɪŋgwɪʃt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "distinguished"
+    },
+    {
+      "collocations" : [
+        "distinguishing feature：有区别的特点"
+      ],
+      "definition" : "有区别的；区别开的",
+      "examples" : [
+
+      ],
+      "frequency" : 15266,
+      "phonetic" : "dɪˈstɪŋgwɪʃɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "distinguishing"
+    },
+    {
+      "collocations" : [
+        "be indistinguishable from：与……难以区别的"
+      ],
+      "definition" : "无法分辨的；难以区别的；不清楚",
+      "examples" : [
+        "His words were indistinguishable."
+      ],
+      "mnemonic" : "in-（不；非）+ distinguish（辨别；区分）+ -able（能够……的）→",
+      "phonetic" : "ˌɪndɪˈstɪŋɡwɪʃəbl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "indistinguishable"
+    },
+    {
+      "collocations" : [
+        "distinct word：清晰的字"
+      ],
+      "definition" : "清楚的；截然不同的，完全不同于……的；明显的，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-（分离）+ -tinct（有刺的）→以刺的记号加以区分的→清楚的；",
+      "phonetic" : "dɪˈstɪŋkt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "distinct"
+    },
+    {
+      "collocations" : [
+        "indistinct speech：模糊不清的发言"
+      ],
+      "definition" : "模糊不清的；不清楚的",
+      "examples" : [
+
+      ],
+      "frequency" : 18783,
+      "mnemonic" : "in-（=not：不，表否定）+ distinct（清楚的；明显的）→不清楚的，",
+      "phonetic" : "ˌɪndɪˈstɪŋkt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "indistinct"
+    },
+    {
+      "collocations" : [
+        "two distinctly different sectors：两个截然不同的部门"
+      ],
+      "definition" : "截然不同地；清楚地；明显地，确切地",
+      "examples" : [
+
+      ],
+      "frequency" : 8183,
+      "phonetic" : "dɪˈstɪŋktlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "distinctly"
+    },
+    {
+      "collocations" : [
+        "make a distinction between arts and science：把艺术和科学区别开来"
+      ],
+      "definition" : "差别；区别；优秀；特点；（尤指给学生的）优",
+      "examples" : [
+        "In one study of 400 adults who had achieved distinction in all areas of life,"
+      ],
+      "mnemonic" : "distinct（有区别的）+ -ion（名词后缀）→区别，不同；荣誉",
+      "phonetic" : "dɪˈstɪŋkʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "distinction"
+    },
+    {
+      "collocations" : [
+        "clothes with a distinctive style：式样独特的衣服"
+      ],
+      "definition" : "独特的；与众不同的",
+      "examples" : [
+
+      ],
+      "frequency" : 4775,
+      "mnemonic" : "distinct（特点）+ -ive（形容词后缀）→有特点的→独特的；与众不",
+      "phonetic" : "dɪˈstɪŋktɪv",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "distinctive"
+    },
+    {
+      "collocations" : [
+        "a distinctively nutty flavor：特别的坚果味道"
+      ],
+      "definition" : "特别地；有特色的",
+      "examples" : [
+
+      ],
+      "frequency" : 18484,
+      "phonetic" : "dɪˈstɪŋktɪvli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "distinctively"
+    },
+    {
+      "collocations" : [
+        "follow your instinct：随心，随本能"
+      ],
+      "definition" : "本能，天性；天分；直觉",
+      "examples" : [
+        "There is scientific evidence to support our instinct that being surrounded"
+      ],
+      "frequency" : 4280,
+      "mnemonic" : "in-（内心）+ -stinct（刺；刻）→生下来就“刺，刻”在内心的东西",
+      "phonetic" : "ˈɪnstɪŋkt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "instinct"
+    },
+    {
+      "collocations" : [
+        "instinctive knowledge：本能的知识"
+      ],
+      "definition" : "本能的，直觉的；天生的",
+      "examples" : [
+
+      ],
+      "frequency" : 14977,
+      "mnemonic" : "instinct（本能；直觉）+ -ive（形容词后缀）→本能的，直觉的；天",
+      "phonetic" : "ɪnˈstɪŋktɪv",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "instinctive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "本能地；直觉地",
+      "examples" : [
+        "He knew instinctively that something was wrong."
+      ],
+      "frequency" : 9408,
+      "phonetic" : "inˈstiŋktivli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "instinctively"
+    },
+    {
+      "collocations" : [
+        "stimulate interest：激发兴趣"
+      ],
+      "definition" : "激发；刺激；刺激（身体器官）",
+      "examples" : [
+        "Yes, the ecologists, the environmental activists and the conservationists"
+      ],
+      "frequency" : 4489,
+      "mnemonic" : "stim-（=stin-：刺激）+ ul（连接符号）+ -ate（使动词）→使刺一下",
+      "phonetic" : "ˈstɪmjuleɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "stimulate"
+    },
+    {
+      "collocations" : [
+        "a stimulus to revenue：一个对收入的刺激"
+      ],
+      "definition" : "鼓励，刺激；激励；刺激物",
+      "examples" : [
+
+      ],
+      "frequency" : 4573,
+      "mnemonic" : "stim-（刺激）+ ul（连接符号）+ -us（名词后缀）→刺激物，刺激，",
+      "phonetic" : "ˈstɪmjələs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "stimulus"
+    },
+    {
+      "collocations" : [
+        "an economy in need of stimulation：一个需要刺激的经济"
+      ],
+      "definition" : "鼓励；刺激",
+      "examples" : [
+
+      ],
+      "frequency" : 8133,
+      "mnemonic" : "stimulate（鼓励；刺激）+ -ion（名词后缀）→鼓励；刺激",
+      "phonetic" : "ˌstɪmjʊˈleʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "stimulation"
+    },
+    {
+      "collocations" : [
+        "the stimulating effect of...：（身体器官）的刺激作用"
+      ],
+      "definition" : "（身体器官）刺激的；引发兴趣的；激励的",
+      "examples" : [
+        "It is a complex yet stimulating book."
+      ],
+      "phonetic" : "ˈstɪmjʊleɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "stimulating"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "兴奋剂；有激励作用的事物",
+      "examples" : [
+        "Coffee and tea are mild stimulants."
+      ],
+      "frequency" : 15105,
+      "mnemonic" : "stimulate（刺激；激励）+ -ant（名词后缀）→具有刺激作用的东西→",
+      "phonetic" : "ˈstɪmjələnt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "stimulant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "耻辱；羞耻",
+      "etymology" : "在古希腊和古罗马时代，奴隶和罪犯的身上都被打上永抹不掉的 stigma。当时的stigma是“烙印”、“印记”的意思。到了17世纪英 国还沿用这一做法。根据伦敦旧城新兴门监狱（Newgate）的纪事 录，有一个绞刑吏只会用烙铁在罪犯手心打上代表thief（偷窃犯） 的字母T，因为这是他认识的唯一字母。身上打有烙印对一个人来说 总是个污点，总是个耻辱的标记。那种做法虽然以后被废止了，但 stigma仍留在语言中，转而喻指“耻辱”、“污点”。",
+      "examples" : [
+        "There is no longer any stigma attached to being divorced."
+      ],
+      "frequency" : 8683,
+      "mnemonic" : "stig-（=stick：粘罪犯的皮肤，刺上让人羞耻的记号）+ -ma（名词后",
+      "phonetic" : "ˈstɪgmə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "stigma"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "给……打上烙印；使感到羞耻；侮辱",
+      "examples" : [
+        "Children in single-parent families must not be stigmatized."
+      ],
+      "frequency" : 16893,
+      "mnemonic" : "stigma（烙印；刺痕标记）+ t + -ize（使动词后缀）→引申词义打上",
+      "phonetic" : "ˈstɪɡmətaɪz",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "stigmatize"
+    },
+    {
+      "collocations" : [
+        "incite his fellow citizens to take their revenge：煽动他的同胞们进行"
+      ],
+      "definition" : "煽动；鼓动",
+      "examples" : [
+
+      ],
+      "frequency" : 11643,
+      "mnemonic" : "in-（=en-：使）+ -cite（=move：动；激动）→使激动动起来→煽",
+      "phonetic" : "ɪnˈsaɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "incite"
+    },
+    {
+      "collocations" : [
+        "financial incentives：经济刺激"
+      ],
+      "definition" : "激励；刺激；鼓励",
+      "examples" : [
+
+      ],
+      "frequency" : 2750,
+      "mnemonic" : "incent（=incite：刺激）+ -ive（名词后缀，很少见）→用来当做刺激",
+      "phonetic" : "ɪnˈsentɪv",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "incentive"
+    },
+    {
+      "collocations" : [
+        "instigate a program of economic reform：实施了经济改革方案"
+      ],
+      "definition" : "使……（正式）开始、发生，实施；煽动，鼓动",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-（使）+ -stig（=stick：刺，棍；刺激）+ -ate（使动词后缀）→刺",
+      "phonetic" : "ˈɪnstɪgeɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "instigate"
+    },
+    {
+      "collocations" : [
+        "be irritated by：被……激怒了"
+      ],
+      "definition" : "使烦恼（尤指不断重复的事情）；激怒；刺激",
+      "examples" : [
+
+      ],
+      "frequency" : 8635,
+      "mnemonic" : "irrit-（=incite：刺激，激怒；前缀ir-=in-）+ -ate（使动词后缀）→使",
+      "phonetic" : "ˈɪrɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "irritate"
+    },
+    {
+      "collocations" : [
+        "try not to let his irritation show：竭力不把自己的恼怒表现出来"
+      ],
+      "definition" : "恼怒；恼人的事；刺激",
+      "examples" : [
+
+      ],
+      "frequency" : 9376,
+      "mnemonic" : "irritate（使烦恼；刺激）+ -ion（名词后缀）→让人恼怒的事情；恼",
+      "phonetic" : "ɪrɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "irritation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人恼火的；对……有刺激的",
+      "examples" : [
+        "They also have the irritating habit of interrupting."
+      ],
+      "frequency" : 12848,
+      "mnemonic" : "irritate（恼火；刺激）+ -ing（令人……的）→令人恼火的；对……",
+      "phonetic" : "ˈɪrɪteɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "irritating"
+    },
+    {
+      "collocations" : [
+        "get irritated with her：被她激怒了"
+      ],
+      "definition" : "被激怒的",
+      "examples" : [
+
+      ],
+      "frequency" : 16557,
+      "phonetic" : "ˈɪrɪteɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "irritated"
+    },
+    {
+      "collocations" : [
+        "feel irritable：感觉烦躁的"
+      ],
+      "definition" : "易怒的，烦躁的；急躁的",
+      "examples" : [
+
+      ],
+      "frequency" : 14747,
+      "mnemonic" : "irrit-（=irritate：使烦恼；激怒）+ -able（表示易于……的）→易怒",
+      "phonetic" : "ˈɪrɪtəbl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "irritable"
+    },
+    {
+      "collocations" : [
+        "irritant substances：刺激性物质"
+      ],
+      "definition" : "刺激物；令人烦恼的事物，造成麻烦的事物",
+      "examples" : [
+        "He said the issue was not a major irritant."
+      ],
+      "frequency" : 18999,
+      "mnemonic" : "irrit（=irritate：使烦恼）+ -ant（名词后缀，表事物）→令人烦恼的",
+      "phonetic" : "ˈɪrɪtənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "irritant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "易怒",
+      "examples" : [
+
+      ],
+      "frequency" : 20041,
+      "mnemonic" : "irritable（易怒的）+ -ity（名词后缀，指具备某种性质）→易怒",
+      "phonetic" : "ˌɪrɪtəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "irritability"
+    },
+    {
+      "collocations" : [
+        "be annoyed by sth.：……使他心烦"
+      ],
+      "definition" : "使恼怒；使心烦",
+      "etymology" : "在16至17世纪时annoy本是个军事用语，有“骚扰”、“破坏”等 义，例如annoy a town，annoy the coast。从法语anoiier ‘to weary, vex, anger’ 演变而来，今多释义为“使烦恼”或“使恼怒”。",
+      "examples" : [
+
+      ],
+      "frequency" : 10084,
+      "mnemonic" : "anno（=irrit：激怒；刺激）+ -oy（动词后缀）→使恼怒；使心烦",
+      "phonetic" : "əˈnɒɪ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "annoy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恼怒的",
+      "examples" : [
+        "I was annoyed with myself for giving in so easily."
+      ],
+      "frequency" : 8843,
+      "mnemonic" : "annoy（使恼怒）+ -ed（形容词后缀）→恼怒的",
+      "phonetic" : "əˈnɒɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "annoyed"
+    },
+    {
+      "collocations" : [
+        "find my attitude annoying：觉得我的态度让人恼怒"
+      ],
+      "definition" : "令人恼怒的；让人心烦的",
+      "examples" : [
+        "Her most annoying habit was eating with her mouth open."
+      ],
+      "frequency" : 8443,
+      "mnemonic" : "annoy（使烦恼；使心烦）+ -ing（令人……的）→令人恼怒的；让人",
+      "phonetic" : "əˈnɒɪɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "annoying"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "烦恼，生气；让人烦恼的事，令人生气的事物",
+      "examples" : [
+        "To her annoyance the stranger did not go away."
+      ],
+      "mnemonic" : "annoy（使烦恼；使心烦）+ -ance（名词后缀）→烦恼、生气；让人",
+      "phonetic" : "əˈnɒɪəns",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "annoyance"
+    },
+    {
+      "collocations" : [
+        "spur action：加速行动"
+      ],
+      "definition" : "鼓动；激励；加速 n. 促进因素；推动",
+      "examples" : [
+        "His speech was a powerful spur to action."
+      ],
+      "frequency" : 6550,
+      "mnemonic" : "s（加强语气）+ p（无意义）+ ur（=urge：鼓励；推动；催促）→鼓",
+      "phonetic" : "spɜː",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "spur"
+    },
+    {
+      "collocations" : [
+        "a human body：人体"
+      ],
+      "definition" : "身体；（尤指建筑、车辆或书、文章等的）主体，主要部",
+      "etymology" : "来自古英语bodig “trunk of a man or beast, physical structure of a human or animal; material Frame, material existence of a human; main or principal part of anything”.",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈbɒdɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "body"
+    },
+    {
+      "collocations" : [
+        "bodily functions \/ changes \/ needs：身体的机能 \/ 变化 \/ 需要"
+      ],
+      "definition" : "人体的；身体的 adv. 移动全身地，用力地；整个地，完",
+      "examples" : [
+        "He lifted her bodily into the air."
+      ],
+      "mnemonic" : "body（身体，变y为i）+ -ly（形容词 \/ 副词后缀）→身体的；移动全",
+      "phonetic" : "ˈbɒdɪlɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "bodily"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "某人 n. 大人物",
+      "examples" : [
+        "Somebody left you a message."
+      ],
+      "frequency" : 1003,
+      "mnemonic" : "some（某些；有的）+ body（人）→某些人；引申义为大人物",
+      "phonetic" : "ˈsʌmbədɪ",
+      "pos" : "pron.",
+      "rootHint" : "stinct",
+      "word" : "somebody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "没有人；没有任何人 n. 小人物；无足轻重的人",
+      "examples" : [
+        "She rose from being a nobody to become a superstar."
+      ],
+      "mnemonic" : "no（没有）+ body（人）→没有人；比喻义为小人物",
+      "phonetic" : "ˈnəʊbədɪ",
+      "pos" : "pron.",
+      "rootHint" : "stinct",
+      "word" : "nobody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "任何人；（用于否定句）重要人物（wasn’t anybody）",
+      "examples" : [
+        "Anybody can use the pool—you don’t need to be a member."
+      ],
+      "mnemonic" : "any（任何的）+ body（人）→任何人；比喻义为重要人物（用于否",
+      "phonetic" : "ˈenɪbɒdɪ",
+      "pos" : "pron.",
+      "rootHint" : "stinct",
+      "word" : "anybody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "保镖，警卫（队）",
+      "examples" : [
+        "The President’s bodyguard is \/ are armed."
+      ],
+      "frequency" : 8255,
+      "mnemonic" : "body（身体）+ guard（警戒；保护）→保护人身安全，警戒侵犯的",
+      "phonetic" : "ˈbɒdɪgɑːd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bodyguard"
+    },
+    {
+      "collocations" : [
+        "carry antibody：携带抗体"
+      ],
+      "definition" : "抗体（血液中抵抗疾病或当某些物质进入身体时产",
+      "examples" : [
+
+      ],
+      "mnemonic" : "anti-（=against：反对；对抗）+ body（身体）→对抗某些物质进入身",
+      "phonetic" : "ˈæntɪbɒdɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "antibody"
+    },
+    {
+      "collocations" : [
+        "embody the most sophisticated technology：体现了最复杂的技术"
+      ],
+      "definition" : "体现，具体象征（思想或品质），代表；包含，包括",
+      "examples" : [
+        "This model embodies many new features."
+      ],
+      "mnemonic" : "em-（=en-=in-：里面）+ body（身体）→在体内→“体”现（比如：",
+      "phonetic" : "ɪmˈbɒdi",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "embody"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（集中体现一种思想或品质的）典型；化身",
+      "examples" : [
+        "He is the embodiment of the young successful businessman."
+      ],
+      "mnemonic" : "embody（体现；代表，变y为i）+ -ment（名词后缀）→……的体",
+      "phonetic" : "ɪmˈbɒdɪmənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "embodiment"
+    },
+    {
+      "collocations" : [
+        "a disembodied voice：从看不到人的地方发出（不见其人）的说话声"
+      ],
+      "definition" : "从看不到的人（或地方）发出的；脱离肉体",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed",
+      "phonetic" : "ˌdɪsɪmˈbɒdid",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "disembodied"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连衣裙的上身部分",
+      "etymology" : "*do- *dō-, Proto-Indo-European root meaning “to give.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit dadati “gives,” danam “offering, present;” Old Persian dadatuv “let him give;” Greek didomi, didonai, “to give, offer,” dōron “gift;” Latin dare “to give, grant, offer,” donum “gift;” Armenian tam “to give;” Old Church Slavonic dati “give,” dani “tribute;” Lithuanian duoti “to give,” duonis “gift;” Old Irish dan “gift, endowment, talent,” Welsh dawn “gift.”",
+      "examples" : [
+
+      ],
+      "frequency" : 19964,
+      "mnemonic" : "body（上半身）+ -ice（名词后缀）→连衣裙的上身部分",
+      "phonetic" : "ˈbɒdɪs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bodice"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "数据；资料；材料",
+      "etymology" : "来自拉丁语datum, 给予。-a, 拉丁语复数后缀。",
+      "examples" : [
+        "The study was based on data from 2,100 women."
+      ],
+      "frequency" : 560,
+      "mnemonic" : "dat-（=to give：给予）+ -a（复数后缀）→给予、提供、展示的东西",
+      "phonetic" : "ˈdeɪtə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "data"
+    },
+    {
+      "collocations" : [
+        "set a date for the wedding：确定举行婚礼的日期"
+      ],
+      "definition" : "日期；时期；见面时间；约会（对象）",
+      "etymology" : "Datedate来自中古拉丁语单词data（给予），源自原始印欧语词根do- （给予）。它的“日期”含义源于古罗马人的写信习惯。在落款时， 20000 词汇巅峰 速 记 笔 记 区 他们按照惯例会写上data一词，然后写上月份和日期，意思是这封 信“交给”信使的日期。久而久之，data的词义就逐渐变成了“日 期”，源自它的英文单词date自然也就表示“日期”了",
+      "examples" : [
+        "My date is meeting me at seven."
+      ],
+      "frequency" : 1205,
+      "phonetic" : "deɪt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "date"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过时的；陈旧的",
+      "examples" : [
+
+      ],
+      "frequency" : 11461,
+      "phonetic" : "ˈdeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "dated"
+    },
+    {
+      "collocations" : [
+        "go dating：去约会"
+      ],
+      "definition" : "约会 adj. 介绍婚姻的",
+      "examples" : [
+
+      ],
+      "frequency" : 6923,
+      "mnemonic" : "date（约会）+ -ing（动名词 \/ 形容词后缀）→约会；介绍婚姻的（婚",
+      "phonetic" : "ˈdeɪtɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "dating"
+    },
+    {
+      "collocations" : [
+        "outdated equipment：过时的设备"
+      ],
+      "definition" : "过时的；陈旧的",
+      "examples" : [
+
+      ],
+      "frequency" : 10469,
+      "mnemonic" : "out-（超过）+ date（日期）→超过一定日期的→过时的；陈旧的",
+      "phonetic" : "ˌaʊtˈdeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "outdated"
+    },
+    {
+      "collocations" : [
+        "updating the work schedule：更新了工作日程"
+      ],
+      "definition" : "&vi. 更新 vt. 给……提供最新信息 n. 最新消息；快讯",
+      "examples" : [
+
+      ],
+      "mnemonic" : "up（靠近……顶端）+ date（日期）→（使）消息等靠近最近日期→",
+      "phonetic" : "ˌʌpˈdeɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "update"
+    },
+    {
+      "collocations" : [
+        "an updated list：一个更新的列表"
+      ],
+      "definition" : "更新的",
+      "examples" : [
+
+      ],
+      "frequency" : 10971,
+      "phonetic" : "ʌpˈdeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "updated"
+    },
+    {
+      "collocations" : [
+        "the most up-to-date information：最新消息"
+      ],
+      "definition" : "最新的；掌握最新信息的",
+      "examples" : [
+
+      ],
+      "frequency" : 12207,
+      "mnemonic" : "up-to（直到）+ date（日期）→直到现在的日期的→最新的；掌握最",
+      "phonetic" : "ˌʌp tə ˈdeɪt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "up-to-date"
+    },
+    {
+      "collocations" : [
+        "the edited highlights of the game：比赛的精彩片段剪辑"
+      ],
+      "definition" : "编辑；校订（文章、书籍等）；剪辑，剪接（影片、电视节",
+      "examples" : [
+        "She used to edit a women’s magazine."
+      ],
+      "mnemonic" : "e-（=out：向外）+ -dit（=to give：给予）→给出去→编辑，校对；",
+      "phonetic" : "ˈedɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "edit"
+    },
+    {
+      "collocations" : [
+        "image editing：图像编辑"
+      ],
+      "definition" : "编辑；校订；（电影）剪辑",
+      "examples" : [
+
+      ],
+      "frequency" : 9529,
+      "mnemonic" : "edit（编辑；校订；剪辑）+ -ing（动名词后缀）→编辑；校订；（电",
+      "phonetic" : "ˈedɪtɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "editing"
+    },
+    {
+      "collocations" : [
+        "the sports \/ financial \/ fashion, etc. editor：体育 \/ 财经 \/ 时尚等编辑"
+      ],
+      "definition" : "（报刊、杂志的）主编，编辑；（书籍的）编辑，校订者",
+      "examples" : [
+
+      ],
+      "mnemonic" : "edit（编辑；校订）+ -or（名词后缀）→编辑；校订者",
+      "phonetic" : "ˈedɪtə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "editor"
+    },
+    {
+      "collocations" : [
+        "the magazine’s editorial staff：杂志的编辑人员"
+      ],
+      "definition" : "编辑的；社论的 n. 社论；评论",
+      "examples" : [
+
+      ],
+      "frequency" : 5068,
+      "mnemonic" : "editor（编辑）+ -ial（形容词后缀）→编辑的；社论的（文章）→社",
+      "phonetic" : "ˌedɪˈtɔːriəl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "editorial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "总编辑；主编",
+      "examples" : [
+
+      ],
+      "frequency" : 17366,
+      "mnemonic" : "editor（编辑）+ in-chief（主要地；在首席地位）→首席、主要编辑",
+      "phonetic" : "ˈeditə in ˈtʃi:f",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "editor-in-chief"
+    },
+    {
+      "collocations" : [
+        "the second edition：第二版"
+      ],
+      "definition" : "版本；（书、报、杂志等的）版次；（报纸、杂志的）一",
+      "examples" : [
+        "Tonight’s edition of ‘Panorama’ looks at unemployment."
+      ],
+      "mnemonic" : "e-（=out）+ -dit（=to give：给予）+ -ion（名词后缀）→给予、生产",
+      "phonetic" : "ɪˈdɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "edition"
+    },
+    {
+      "collocations" : [
+        "cultural tradition：文化传统"
+      ],
+      "definition" : "传统；传统的信仰（或风俗）",
+      "examples" : [
+        "The British are said to love tradition."
+      ],
+      "frequency" : 1249,
+      "mnemonic" : "tra-（=trans-=over：转移）+ -dit（=to give：给予）+ -ion（名词后",
+      "phonetic" : "trəˈdɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "tradition"
+    },
+    {
+      "collocations" : [
+        "traditional dress：传统服装"
+      ],
+      "definition" : "传统的；守旧的",
+      "examples" : [
+
+      ],
+      "frequency" : 928,
+      "mnemonic" : "tradition（传统）+ -al（形容词后缀）→传统的；守旧的",
+      "phonetic" : "trəˈdɪʃənl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "traditional"
+    },
+    {
+      "collocations" : [
+        "the traditionalist type：传统主义的类型"
+      ],
+      "definition" : "传统主义者adj. 传统主义的",
+      "examples" : [
+
+      ],
+      "frequency" : 14252,
+      "mnemonic" : "traditional（传统的）+ -ist（名词 \/ 形容词后缀）→传统主义者；传统",
+      "phonetic" : "trəˈdɪʃənəlɪst",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "traditionalist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "传统上",
+      "examples" : [
+        "The festival is traditionally held in May."
+      ],
+      "frequency" : 3741,
+      "phonetic" : "trəˈdɪʃənəli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "traditionally"
+    },
+    {
+      "collocations" : [
+        "extradition arrangement：引渡安排"
+      ],
+      "definition" : "引渡",
+      "examples" : [
+
+      ],
+      "frequency" : 16696,
+      "mnemonic" : "ex-（出去）+ tradition（=hand over：移交）→将逃犯从一个国家向外",
+      "phonetic" : "ˌekstrəˈdɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "extradition"
+    },
+    {
+      "collocations" : [
+        "a traitor to the peace movement：和平运动的背叛者"
+      ],
+      "definition" : "背叛者；（尤指战争期间的）叛徒，卖国贼",
+      "examples" : [
+
+      ],
+      "frequency" : 10194,
+      "mnemonic" : "tra-（=trans-：穿过，由此及彼）+ -it-（=dit-：给予）+ -or（人）→",
+      "phonetic" : "ˈtreɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "traitor"
+    },
+    {
+      "collocations" : [
+        "be-（表强调）+ tray（交出，移交机密、信息、信任、情感等）→出"
+      ],
+      "definition" : "出卖，泄露（机密）；辜负，对……不忠；背叛（原则",
+      "etymology" : "拉丁语tradere（=trans-=across：从一边到另一边；跨越 + dare=to give：交出；移交）→tray",
+      "examples" : [
+        "For years they had been betraying state secrets to Russia."
+      ],
+      "phonetic" : "bɪˈtreɪ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "betray"
+    },
+    {
+      "collocations" : [
+        "a sense \/ a feeling \/ an act of betrayal：被出卖 \/ 被背叛的感觉；背叛"
+      ],
+      "definition" : "（被）背叛，出卖；辜负",
+      "examples" : [
+        "I saw her actions as a betrayal of my trust."
+      ],
+      "frequency" : 7416,
+      "mnemonic" : "betray（背叛；出卖；辜负）+ -al（名词后缀）→背叛；出卖；辜负",
+      "phonetic" : "bɪˈtreɪəl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "betrayal"
+    },
+    {
+      "collocations" : [
+        "a betrayed spouse：一个背叛的（不忠的）配偶"
+      ],
+      "definition" : "背叛的；出卖的",
+      "examples" : [
+        "Employees felt betrayed."
+      ],
+      "frequency" : 17026,
+      "phonetic" : "bɪˈtreɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "betrayed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "叛国罪（如战时通敌）",
+      "etymology" : "来自古法语 traison：背叛。来自拉丁语 traditionem：移交，投降。来 自拉丁语 tradere：转移，移交。引申词义叛国罪。1352年英国议会 制定的Statute of Treasons（叛逆法）将treason区分成high treason（重 判逆罪）和petit treason（轻判逆罪）两大类。High treason指叛国罪， 即对国家或君主所犯下的各种罪行；petit treason指妻杀夫、仆杀主 等行为。Treason原指“背叛”和“不忠”，但在现代英语一般多指 “叛国（罪）”或“通敌（罪）”。",
+      "examples" : [
+        "They were tried and found guilty of treason."
+      ],
+      "frequency" : 13325,
+      "mnemonic" : "treas-（=trad-=trans-+do(=to give：给予)：移交机密等）+ -on（名词",
+      "phonetic" : "ˈtriːzn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "treason"
+    },
+    {
+      "collocations" : [
+        "an act of treachery：背叛行为"
+      ],
+      "definition" : "背叛；变节；背信弃义",
+      "examples" : [
+
+      ],
+      "frequency" : 18068,
+      "mnemonic" : "treach（=to cheat, deceive：欺骗）+ -ery（表行为）→欺骗的行为→",
+      "phonetic" : "ˈtretʃərɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "treachery"
+    },
+    {
+      "collocations" : [
+        "lying, treacherous words：奸诈的谎话"
+      ],
+      "definition" : "背叛的，奸诈的；有潜在危险的（随时会有背",
+      "examples" : [
+        "The ice on the roads made driving conditions treacherous."
+      ],
+      "mnemonic" : "treachery（背叛；欺骗）+ -ous（形容词后缀）→背叛的，奸诈的；",
+      "phonetic" : "ˈtretʃərəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "treacherous"
+    },
+    {
+      "collocations" : [
+        "play tricks：耍花招"
+      ],
+      "definition" : "诡计，花招，骗局；引起错觉（或记忆紊乱）的事物；戏法",
+      "etymology" : "n. early 15c., “a cheat”, from Old North French trique “trick, deceit, treachery, cheating,” from trikier “to deceive, to cheat”. v. “deceive by trickery,” 1590s.",
+      "examples" : [
+
+      ],
+      "phonetic" : "trɪk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "trick"
+    },
+    {
+      "collocations" : [
+        "a tricky situation：难以对付的局势"
+      ],
+      "definition" : "难办的，难对付的；狡猾的，诡计多端的",
+      "examples" : [
+
+      ],
+      "frequency" : 6485,
+      "mnemonic" : "trick（花招；把戏）+ -y（形容词后缀）→难对付的；狡猾的，诡计",
+      "phonetic" : "ˈtrɪkɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "tricky"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "狡猾的；诡计多端的",
+      "examples" : [
+        "The boss is a wily old fox."
+      ],
+      "frequency" : 18914,
+      "mnemonic" : "wil-（=wile=trick：诡计；花招）+ -y（形容词后缀）→狡猾的；诡计",
+      "phonetic" : "ˈwaɪlɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "wily"
+    },
+    {
+      "collocations" : [
+        "glass trinket：玻璃小饰品"
+      ],
+      "definition" : "（价值不高的）小首饰，小装饰物",
+      "examples" : [
+
+      ],
+      "frequency" : 18527,
+      "mnemonic" : "trick（把戏，戏法）+ -et（表示小）→引申词义小装饰物，小物品等",
+      "phonetic" : "ˈtrɪŋkɪt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "trinket"
+    },
+    {
+      "collocations" : [
+        "intricate structure：复杂的结构"
+      ],
+      "definition" : "复杂的；错综的，缠结的；复杂精细的",
+      "examples" : [
+
+      ],
+      "frequency" : 7380,
+      "mnemonic" : "in-（里面；内部）+ tric（=trick：诡计；花招）+ -ate（形容词后缀，",
+      "phonetic" : "ˈɪntrɪkət",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "intricate"
+    },
+    {
+      "collocations" : [
+        "the intricacy of the design：设计的复杂性"
+      ],
+      "definition" : "错综，复杂；复杂精细",
+      "examples" : [
+
+      ],
+      "frequency" : 15182,
+      "mnemonic" : "intrica（intricate：复杂的；复杂精细的）+ -cy（名词后缀）→错综，",
+      "phonetic" : "ˈɪntrɪkəsɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "intricacy"
+    },
+    {
+      "collocations" : [
+        "intricately carved sculptures：一些精雕细刻的雕塑"
+      ],
+      "definition" : "复杂精细地",
+      "examples" : [
+
+      ],
+      "frequency" : 17713,
+      "phonetic" : "ˈɪntrɪkətlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "intricately"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不可分开地；密不可分地",
+      "examples" : [
+        "Europe’s foreign policy is inextricably linked with that of the US."
+      ],
+      "mnemonic" : "in-（=not：不）+ ex-（=out：出来）+ tric-（trick：诡计；花招）+",
+      "phonetic" : "ˌɪnɪkˈstrɪkəbli; ɪnˈekstrɪkəbli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "inextricably"
+    },
+    {
+      "collocations" : [
+        "sign the contract by intrigue：密谋签订了合同"
+      ],
+      "definition" : "激起……的兴趣；引发……的好奇心 vi. 秘密策划（加",
+      "examples" : [
+        "The novelty of the situation intrigued him."
+      ],
+      "mnemonic" : "in-（内部；里面）+ trig（=trick：诡计；花招）+ -ue（名词后缀）→",
+      "phonetic" : "ɪnˈtriːg",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "intrigue"
+    },
+    {
+      "collocations" : [
+        "raise intriguing questions：提出了非常有趣的问题"
+      ],
+      "definition" : "非常有趣的；引人入胜的，吸引人的；神秘的；",
+      "examples" : [
+        "He found her intriguing."
+      ],
+      "mnemonic" : "intrigue（阴谋诡计；激起……兴趣）+ -ing（形容词后缀）→非常有",
+      "phonetic" : "ɪnˈtriːɡɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "intriguing"
+    },
+    {
+      "collocations" : [
+        "donor organs：捐献器官"
+      ],
+      "definition" : "器官捐献者，献血者；捐赠者 adj. 捐献的",
+      "examples" : [
+        "She is one of the charity’s major donors."
+      ],
+      "frequency" : 3884,
+      "mnemonic" : "don-（给予）+ -or（名词后缀，表人）→给予（器官、血液、金钱）",
+      "phonetic" : "ˈdəʊnə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "donor"
+    },
+    {
+      "collocations" : [
+        "donates large sums to charity：向慈善机构大笔捐款"
+      ],
+      "definition" : "捐赠；捐款；捐献",
+      "examples" : [
+
+      ],
+      "frequency" : 4134,
+      "mnemonic" : "don-（=dot-=give：给，捐赠）+ -ate（动词后缀）→捐赠；捐款；",
+      "phonetic" : "dəʊˈneɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "donate"
+    },
+    {
+      "collocations" : [
+        "the donation of his collection：捐赠他的收藏品"
+      ],
+      "definition" : "捐赠；捐献",
+      "examples" : [
+
+      ],
+      "frequency" : 4380,
+      "mnemonic" : "donate（捐赠；捐献）+ -ion（名词后缀）→捐赠；捐献",
+      "phonetic" : "dəʊˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "donation"
+    },
+    {
+      "collocations" : [
+        "a high \/ low \/ lethal dose：大 \/ 小 \/ 致死剂量"
+      ],
+      "definition" : "（药的）一剂，一服；一次，一场 vt. 给（某人）服药",
+      "examples" : [
+        "She dosed herself up with vitamin pills."
+      ],
+      "frequency" : 3554,
+      "mnemonic" : "dos-（=to give：给予）+ -e（名词 \/ 动词后缀）→给予的药的量→",
+      "phonetic" : "dəʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "dose"
+    },
+    {
+      "collocations" : [
+        "a high \/ low dosage：大 \/ 小剂量"
+      ],
+      "definition" : "（通常指药的）剂量",
+      "examples" : [
+
+      ],
+      "frequency" : 12733,
+      "mnemonic" : "dos-（=dose：药的一剂）+ -age（名词后缀）→剂量",
+      "phonetic" : "ˈdəʊsɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "dosage"
+    },
+    {
+      "collocations" : [
+        "to endow sb. with a responsibility：赋予某人以责任"
+      ],
+      "definition" : "天生赋有；赋予（某种特征或品质）；（向学校等机",
+      "examples" : [
+        "You are endowed with wealth, good health and a lively intellect."
+      ],
+      "mnemonic" : "en-（进入；使）+ -dow（=to give：给予）→给予（特质或品质），",
+      "phonetic" : "ɪnˈdaʊ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "endow"
+    },
+    {
+      "collocations" : [
+        "the National Endowment for the Arts：美国艺术基金会"
+      ],
+      "definition" : "捐赠，资助（基金会）；天赋，才能",
+      "examples" : [
+
+      ],
+      "frequency" : 10688,
+      "mnemonic" : "endow（捐赠；天赋）+ -ment（名词后缀）→捐赠，资助；天赋，",
+      "phonetic" : "ɪnˈdaʊmənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "endowment"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（新娘的）嫁妆；（新郎给新娘家的）彩礼",
+      "etymology" : "源自拉丁语dotare，其中的do就是“赠送”的意思女子出嫁时，女方 家庭向男方或新婚夫妇赠送一定的陪嫁礼物，这是全世界范围内通 行的一项古老习俗。这种陪嫁礼物就是“嫁妆”。娘家赠送嫁妆的原 因，一方面是为新婚夫妇提供一定资助，帮助他们成家立业，另一方 面嫁妆的丰厚与否，与女儿日后在婆家的地位息息相关。",
+      "examples" : [
+
+      ],
+      "frequency" : 18478,
+      "mnemonic" : "dow-（=to give：给予）+ -ry（名词后缀）→娘家送给男方或新婚夫",
+      "phonetic" : "ˈdaʊri",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "dowry"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "玩具；无头脑的美丽女人",
+      "examples" : [
+        "She’s quite a doll."
+      ],
+      "frequency" : 3858,
+      "mnemonic" : "doll（=gift：玩具；礼物）→玩具；玩偶",
+      "phonetic" : "dɒl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "doll"
+    },
+    {
+      "collocations" : [
+        "an anecdote about their mother：一个关于他们母亲的趣闻轶事"
+      ],
+      "definition" : "趣闻轶事",
+      "etymology" : "ek-（出来）+ dotos（提供）→希腊语 ekdotos（发表）→ecdote 普罗科匹阿斯（Procopius，约公元500-565年）是拜占廷帝国著名的 历史学家，他生前著作并出版了两部反映当代史的历史著作：《查士 丁尼战争史》和《论查士丁尼时代的建筑》。在这两部著作中，普罗 科匹阿斯大肆讴歌了当时的拜占庭皇帝查士丁尼在战争和建筑上的丰 功伟绩，他本人也因此被擢升为君士坦丁堡长官。但是，当他死后 1000多年后，人们在拜占庭帝国图书馆意外发现普罗科匹阿斯所编著 的另一部并未出版的著作——《秘史》（anekdota）。与他的前两部 作品的思想截然相反，这部作品其实是查士丁尼的丑闻录。在这部作 品中，作者揭露了查士丁尼时代宫廷生活的黑暗和残暴，反映了当时 拜占庭人民在其统治下所遭受的痛苦。因此，作者著作完成后并未公 开出版，而是偷偷藏在图书馆中，等待后人发现。《秘史》一书的名 字anekdota是anekdotos的复数形式，而anekdotos的字面意思就是“尚 未公开的事情”，anecdote就来源于此，后来逐渐演变为“趣闻轶 事”之意。",
+      "examples" : [
+
+      ],
+      "frequency" : 9116,
+      "mnemonic" : "an-（=in-：没有）+ ec-（=ex：出来）+ dot-（=give：给出）+ -e→未",
+      "phonetic" : "ˈænɪkdəʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "anecdote"
+    },
+    {
+      "collocations" : [
+        "anecdotal evidence：传闻的证据"
+      ],
+      "definition" : "轶闻趣事的；传闻的",
+      "examples" : [
+
+      ],
+      "frequency" : 10575,
+      "mnemonic" : "anecdote（轶闻趣事）+-al（形容词后缀）→轶闻趣事的；传闻的",
+      "phonetic" : "ˌænɪkˈdəʊtl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "anecdotal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "解毒药；克服……的良方，绝妙办法",
+      "examples" : [
+        "There is no known antidote to the poison."
+      ],
+      "frequency" : 11817,
+      "mnemonic" : "anti-（相反）+ dote（药剂）→作用相反的药剂→解毒药→引申义为",
+      "phonetic" : "ˈæntɪdəʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "antidote"
+    },
+    {
+      "collocations" : [
+        "condone violence：纵容暴力行为"
+      ],
+      "definition" : "宽恕；容忍；纵容",
+      "etymology" : "在西方历史中人们通常将通奸（adultery）视为犯罪，并制定了严格 的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的 财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须 告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人 公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸” 的红色A字。这种情况到了19世纪下半叶才有所改观。1857年，英国 通过《婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行 为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男 子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone 这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯 为条件的宽恕。Condone源自拉丁文condonare ‘forgive’（宽恕）。 Condonare原系法律用语，所表示之“宽恕”是指夫妻一方对于另一 方的不贞行为以对方不再重犯为条件的宽恕，即放弃追求权利，故 condone亦用于此义。以后词义扩大，亦可泛指一般的“宽恕”或 “宽容”。",
+      "examples" : [
+
+      ],
+      "frequency" : 11485,
+      "mnemonic" : "con-（强调）+ -don（=to give：给予）+-e→完全给予，放弃追究权",
+      "phonetic" : "kənˈdəʊn",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "condone"
+    },
+    {
+      "collocations" : [
+        "render a service to sb.：给某人提供服务"
+      ],
+      "definition" : "使变得；给予，提供，回报；提交；表演，表现",
+      "etymology" : "render：give back, present, yield。来自俗拉丁语rendere：给予，给 回。来自 red-（向后；往回）+ dare（给予）。",
+      "examples" : [
+        "Indeed the mere size of operations and the numbers of workmen involved"
+      ],
+      "frequency" : 3571,
+      "mnemonic" : "rend-（=re-=back：向后）+ -der（=to give：给予）→给予；回报；提",
+      "phonetic" : "ˈrendə(r)",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "render"
+    },
+    {
+      "collocations" : [
+        "yield to sth.：屈服于，让位于"
+      ],
+      "definition" : "出产（作物）；产生（收益、效益等）；屈服，让步，让",
+      "examples" : [
+        "Self-doubt has yielded to blind pride.",
+        "写作诚信已经让位给了虚假宣传。"
+      ],
+      "mnemonic" : "yield（=render：回报，补偿，给予，让出）→产出；让步，让出；",
+      "phonetic" : "jiːld",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "yield"
+    },
+    {
+      "collocations" : [
+        "build roads through unyielding mountains：在坚硬的山石中筑路"
+      ],
+      "definition" : "坚定的，坚决的；（屏障、表面）不弯曲的，坚",
+      "examples" : [
+        "The authorities proved unyielding on one crucial demand."
+      ],
+      "phonetic" : "ʌnˈjiːldɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "unyielding"
+    },
+    {
+      "collocations" : [
+        "her dramatic rendering of Lady Macbeth：她对麦克佩斯夫人的生动"
+      ],
+      "definition" : "（剧本、诗歌或音乐作品的）演绎，表演；翻译，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "render（表演；使变为另外一种语言）+ -ing（动名词后缀）→表演；",
+      "phonetic" : "ˈrendərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rendering"
+    },
+    {
+      "collocations" : [
+        "surrender themselves to the police：向警方投降"
+      ],
+      "definition" : "投降；（被迫）放弃，交出 n. 投降；屈服；（尤",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sur-（=over：向上）+ render（=to give：给予；给回）→to give up,",
+      "phonetic" : "səˈrendə(r)",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "surrender"
+    },
+    {
+      "collocations" : [
+        "burst into a rousing（激情的；激励人心的）"
+      ],
+      "definition" : "（剧本、诗歌或音乐作品的）表演；演绎",
+      "examples" : [
+
+      ],
+      "frequency" : 10720,
+      "mnemonic" : "rend-（=render：表达；表演）+ -ition（名词后缀，-ite + -ion）→表",
+      "phonetic" : "renˈdɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rendition"
+    },
+    {
+      "collocations" : [
+        "keep my rendezvous with sb.：保持和某人的约会"
+      ],
+      "definition" : "约会；约会地点 vt. （在约定的时间和地点）",
+      "etymology" : "来自中古法语 rendez vous,呈现你自己，表现你自己，来自 rendez （呈现；给予）+ vous（=you：你）。",
+      "examples" : [
+        "Their rendezvous would be the Plaza Hotel."
+      ],
+      "mnemonic" : "rendez（=present：呈现）+ vous（你）→呈现你自己→约会；约会地",
+      "phonetic" : "ˈrɒndeɪvuː",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rendezvous"
+    },
+    {
+      "collocations" : [
+        "rent out his house：把他的房子租出去"
+      ],
+      "definition" : "租（房屋、土地、机器等）；租金 vt. 出租；租给",
+      "etymology" : "拉丁语render：给予→古法语rent：应付款，利润，收入→引申义为 租金，出租",
+      "examples" : [
+
+      ],
+      "frequency" : 3464,
+      "phonetic" : "rent",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rent"
+    },
+    {
+      "collocations" : [
+        "be let an annual rental of $2,000：以每年$2,000的租金租出去了"
+      ],
+      "definition" : "租金；出租，租赁；租用的房屋（或汽车、设备等）",
+      "examples" : [
+        "‘Is this your own car?’ ‘No, it’s a rental.’"
+      ],
+      "frequency" : 4798,
+      "mnemonic" : "rent（出租）+ -al（名词后缀）→出租得到的金钱；出租的行为；出",
+      "phonetic" : "ˈrentl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rental"
+    },
+    {
+      "collocations" : [
+        "to live in rented accommodation \/ housing \/ property：住在租的住处 \/ 住"
+      ],
+      "definition" : "租用的",
+      "examples" : [
+
+      ],
+      "frequency" : 11686,
+      "mnemonic" : "rent（租；出租）+ -ed（形容词后缀）→租用的",
+      "phonetic" : "ˈrentɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "rented"
+    },
+    {
+      "collocations" : [
+        "house buyers and renters：房屋的买主和租户"
+      ],
+      "definition" : "租户，承租人；出租人，出租公司",
+      "etymology" : "Late 13c., “come into view,” from stem of Old French aparoir, aperer 20000 词汇巅峰 速 记 “appear, come to light, come forth” (12c., Modern French apparoir), from Latin apparere “to appear, come in sight, make an appearance,” from ad “to” (see ad-) + parere “to come forth, be visible; submit, obey,” which is of uncertain origin. Of persons, “present oneself,” late 14c. Meaning “seem, have a certain appearance” is late 14c. Related: Appeared; appearing. 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 14811,
+      "mnemonic" : "rent（租金）+ -er（人）→支付或收取租金的人→租户；出租人",
+      "phonetic" : "ˈrentə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "renter"
+    },
+    {
+      "collocations" : [
+        "appear surprised：显得吃惊"
+      ],
+      "definition" : "&vt. 显得，看起来（=seem）；出现；起源；出版",
+      "examples" : [
+        "1）In a study that will appear in the Journal of Experimental Social"
+      ],
+      "frequency" : 396,
+      "mnemonic" : "ap-（=ad-=to）+ pear（=par-：出现）→显得；出现；起源（开始出",
+      "phonetic" : "əˈpɪə(r)",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "appear"
+    },
+    {
+      "collocations" : [
+        "the physical \/ outward \/ external appearance of sth.：某物的外观"
+      ],
+      "definition" : "外貌，外观；（尤指突然的）出现，露面；首次",
+      "examples" : [
+        "The sudden appearance of a security guard caused them to drop the money"
+      ],
+      "mnemonic" : "appear（出现）+ -ance（名词后缀）→外貌（出现的面容）；出现，",
+      "phonetic" : "əˈpɪərəns",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "appearance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "再次出现；重新露面",
+      "examples" : [
+
+      ],
+      "frequency" : 9245,
+      "mnemonic" : "re-（=again；再次）+appear（出现；露面）→再次出现；重新露面",
+      "phonetic" : "ˌriːəˈpɪə(r)",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "reappear"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "消失；不复存在，消亡；（东西）失踪",
+      "examples" : [
+        "The plane disappeared behind a cloud."
+      ],
+      "frequency" : 1587,
+      "mnemonic" : "dis-（表相反）+ appear（出现）→出现的反面→消失；不复存在",
+      "phonetic" : "ˌdɪsəˈpɪə(r)",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "disappear"
+    },
+    {
+      "collocations" : [
+        "the police were investigating her disappearance：警察正在调查她的失踪"
+      ],
+      "definition" : "（人的）失踪；（东西）丢失；不复存在",
+      "examples" : [
+
+      ],
+      "mnemonic" : "dis-（表相反）+ appearance（出现）→出现的反面→失踪；丢失；不",
+      "phonetic" : "ˌdɪsəˈpɪərəns",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "disappearance"
+    },
+    {
+      "collocations" : [
+        "disappearing doors：消失的门"
+      ],
+      "definition" : "消失的",
+      "examples" : [
+
+      ],
+      "frequency" : 15497,
+      "phonetic" : "ˌdɪsəˈpɪə(r)ɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "disappearing"
+    },
+    {
+      "collocations" : [
+        "my apparent lack of enthusiasm for school：我貌似对上学缺少热情"
+      ],
+      "definition" : "显然的，显而易见的；貌似的，表面上的",
+      "examples" : [
+        "Their devotion was apparent.",
+        "1）The problem is pronounced at public universities.",
+        "仿写例句3）：重视证书而不是能力的怪现象在中国大学生身上体现得尤为"
+      ],
+      "frequency" : 2526,
+      "mnemonic" : "appar（=appear：出现）+ -ent（形容词后缀：的）→单词整体还在模",
+      "phonetic" : "əˈpærənt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "apparent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "看来，显然；貌似，表面上",
+      "examples" : [
+        "He paused, apparently lost in thought."
+      ],
+      "frequency" : 1414,
+      "mnemonic" : "apparent（显然的；貌似的）+ -ly（副词后缀）→显然；貌似",
+      "phonetic" : "əˈpærəntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "apparently"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（指人死后的）鬼，鬼魂，幽灵",
+      "etymology" : "英语单词apparition来自拉丁语apparitionem，是动词apparere （appear：显现）的过去分词动名词形式，本意就是“显现”。这个 词最初用于宗教场合，表示“基督显现”，即耶稣基督以婴儿的形态 诞生。据《圣经·新约》记载，耶稣诞生时，东方三博士在观星时发 现异象，便一路向西前来拜见“犹太人的王”，最后见到了刚出世的 耶稣，向他献上了三件宝物为礼。为了纪念耶稣基督的显现，基督教 徒将耶稣诞生之日定为“主显节”（Epiphany）。单词epiphany的本 意和apparition一样，都表示“基督显现”，但常常用来表示“主显 节”。而apparition一词的宗教色彩逐渐消退，常常用来表示幽灵鬼 怪的显现。",
+      "examples" : [
+
+      ],
+      "frequency" : 13115,
+      "mnemonic" : "ap-（加强意义）+ -par-（出现）+ -ition（名词后缀）→鬼魂显现→幽灵",
+      "phonetic" : "ˌæpəˈrɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "apparition"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "显现节，主显节（1月6日纪念贤士朝拜耶稣）；顿悟",
+      "examples" : [
+        "Isaac Newton’s epiphany about gravity and a falling apple."
+      ],
+      "mnemonic" : "epi-（=to）+ phan-（=appear：出现）+ -y（名词后缀）→神的出现→",
+      "phonetic" : "ɪˈpɪfəni",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "epiphany"
+    },
+    {
+      "collocations" : [
+        "transparent wings：透明的翅膀"
+      ],
+      "definition" : "（玻璃、塑料等）透明的，清澈的；显然",
+      "examples" : [
+        "The insect’s wings are almost transparent."
+      ],
+      "mnemonic" : "trans-（穿过；横过）+ -par-（出现）+ -ent（形容词后缀）→穿",
+      "phonetic" : "trænsˈpærənt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "transparent"
+    },
+    {
+      "collocations" : [
+        "the transparency of the eye’s lenses：眼睛晶状体的透明度"
+      ],
+      "definition" : "透明度；幻灯片；显而易见",
+      "examples" : [
+        "They were shocked by the transparency of his lies."
+      ],
+      "frequency" : 8710,
+      "mnemonic" : "transparent（透明的）+-cy（名词后缀）→透明度；幻灯片；显而",
+      "phonetic" : "trænsˈpærənsi",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "transparency"
+    },
+    {
+      "collocations" : [
+        "peer pressure：同龄人的压力"
+      ],
+      "definition" : "费力地看；盯着看 n. 同龄人；同等地位的人",
+      "examples" : [
+
+      ],
+      "frequency" : 2446,
+      "mnemonic" : "单词appear（出现）的简略版本，“出现”就是能被“看”到→",
+      "phonetic" : "pɪə",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "peer"
+    },
+    {
+      "collocations" : [
+        "a transient phenomenon：一个短暂的现象"
+      ],
+      "definition" : "现象；杰出的人，非凡的人（或事物）",
+      "examples" : [
+        "Globalization is a phenomenon of the 21st century."
+      ],
+      "frequency" : 2488,
+      "mnemonic" : "pheno（=appear：出现）+ men-（冒；突出来）+ -on（名词后缀）→",
+      "phonetic" : "fəˈnɒmɪnən",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "phenomenon"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "杰出的；非凡的",
+      "examples" : [
+        "Exports of Australian wine are growing at a phenomenal rate."
+      ],
+      "frequency" : 9273,
+      "mnemonic" : "phenomen（=phenomenon：杰出的人；非凡的人）+ -al（形容词后",
+      "phonetic" : "fəˈnɒmɪnl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "phenomenal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "现象（phenomenon复数形式）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "phenomenon的复数",
+      "phonetic" : "fəˈnɒmɪnə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "phenomena"
+    },
+    {
+      "collocations" : [
+        "a phantom horseman：幽灵似的骑士"
+      ],
+      "definition" : "鬼魂，幽灵；幻觉 adj. 像鬼的，幽灵似的；幻觉的，",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈfæntəm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "phantom"
+    },
+    {
+      "collocations" : [
+        "put \/ lay emphasis on \/ upon sth. =emphasize sth. 强调"
+      ],
+      "definition" : "重点；强调；重音",
+      "examples" : [
+        "Too much emphasis is placed on research."
+      ],
+      "frequency" : 2367,
+      "mnemonic" : "em-（=en-：使动词前缀）+ pha-（=phen-：出现，突出）+ -sis（名词",
+      "phonetic" : "ˈemfəsɪs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "emphasis"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "强调，重视；使突出，使明显",
+      "examples" : [
+        "She emphasized that their plan would mean sacrifices and hard work."
+      ],
+      "frequency" : 2003,
+      "mnemonic" : "emphas（= emphasis：重点；强调；突出）+ -ize（使动词后缀）→使",
+      "phonetic" : "ˈemfəsaɪz",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "emphasize"
+    },
+    {
+      "collocations" : [
+        "an emphatic denial \/ rejection：断然的否认 \/ 拒绝"
+      ],
+      "definition" : "强调的；断然的；明显的，突出的",
+      "examples" : [
+        "He was emphatic that he could not work with her."
+      ],
+      "frequency" : 14586,
+      "mnemonic" : "empha-（=emphasis：强调；（重点）突出）+ -tic（形容词后缀）→",
+      "phonetic" : "ɪmˈfætɪk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "emphatic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "显然地；绝对地（表强调）",
+      "examples" : [
+        "Greg is emphatically not a slacker."
+      ],
+      "frequency" : 10946,
+      "mnemonic" : "emphatic（明显的；断然的）+ -ally（副词后缀，表程度）→显然",
+      "phonetic" : "ɪmˈfætɪklɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "emphatically"
+    },
+    {
+      "collocations" : [
+        "fantasies of romance and true love：对浪漫和真爱的幻想"
+      ],
+      "definition" : "幻想；想象；幻想作品",
+      "examples" : [
+
+      ],
+      "frequency" : 2989,
+      "mnemonic" : "fan-（=phen：出现）+ t（无意义）+ -asy（名词后缀）→凭空出现的",
+      "phonetic" : "ˈfæntəsɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fantasy"
+    },
+    {
+      "collocations" : [
+        "a passing fancy：一个暂时的爱好（一时心血来潮）"
+      ],
+      "definition" : "想象的事物，想象（力）；爱好 vt. 想要；想做",
+      "examples" : [
+        "Fancy a drink?"
+      ],
+      "frequency" : 5181,
+      "mnemonic" : "fan-（出现）+ -cy（名词后缀）→凭空出现的东西→想象的事物；想",
+      "phonetic" : "ˈfænsɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fancy"
+    },
+    {
+      "collocations" : [
+        "fanciful ideas about Martian life：关于火星生命的异想天开"
+      ],
+      "definition" : "想象的；异想天开的",
+      "examples" : [
+
+      ],
+      "frequency" : 14019,
+      "mnemonic" : "fanci（=fancy：想象）+-ful（形容词后缀）→想象的；异想天开的",
+      "phonetic" : "ˈfænsɪfl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fanciful"
+    },
+    {
+      "collocations" : [
+        "a fantastic proposal：一个好的提议"
+      ],
+      "definition" : "极好的；极大的（量）；不切实际的",
+      "examples" : [
+
+      ],
+      "frequency" : 4799,
+      "mnemonic" : "fantasy（幻想）+ -tic（形容词后缀）→极好地；不切实际的（幻想出",
+      "phonetic" : "fænˈtæstɪk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fantastic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "幻想；想像",
+      "examples" : [
+        "He sometimes fantasized about winning the gold medal."
+      ],
+      "frequency" : 12184,
+      "mnemonic" : "fantasy（幻想；想象）+ -ize（使动词后缀）→幻想；想象",
+      "phonetic" : "ˈfæntəsaɪz",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "fantasize"
+    },
+    {
+      "collocations" : [
+        "spontaneous outbursts of song：自发地（不由自主的）唱起歌来"
+      ],
+      "definition" : "自然的；自发的（行为）；自然的（事件）",
+      "examples" : [
+
+      ],
+      "phonetic" : "spɒnˈteɪnɪəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "spontaneous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自然地；自发地；不由自主地",
+      "examples" : [
+        "Many people spontaneously stood up and cheered."
+      ],
+      "frequency" : 11397,
+      "phonetic" : "spɒnˈteɪnɪəsli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "spontaneously"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自然举动；自发行为",
+      "etymology" : "kel- (1) Proto-Indo-European root meaning “to cover, conceal, save.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit cala “hut, house, hall;” Greek kalia “hut, nest,” kalyptein “to cover,” koleon, koleos “sheath,” kelyphos “shell, husk;” Latin cella “small room, store room, hut,” celare “to hide, conceal,” clam “secret,” clepere “to steal, listen secretly to;” Old Irish cuile “cellar,” celim “hide,” Middle Irish cul “defense, shelter;” Gothic hulistr “covering,” Old English heolstor “lurking-hole, cave, covering,” Gothic huljan “to cover over,” hulundi “hole,” hilms “helmet,” halja “hell,” Old English hol “cave,” holu “husk, pod;” Old Prussian au-klipts “hidden;” Old Church Slavonic poklopu “cover, wrapping.”",
+      "examples" : [
+        "He had the spontaneity of a child."
+      ],
+      "frequency" : 15219,
+      "mnemonic" : "spontane（=spontaneous：自然的；自发的）+ -ity（名词后缀）→自",
+      "phonetic" : "ˌspɒntəˈneɪəti",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "spontaneity"
+    },
+    {
+      "collocations" : [
+        "food colors：食品着色剂"
+      ],
+      "definition" : "颜色；肤色（常指人种）；着色剂 vt. 给……着色；脸红",
+      "examples" : [
+
+      ],
+      "mnemonic" : "col-（=to cover：覆盖）+ -or（名词后缀）→覆盖在上的颜色→颜",
+      "phonetic" : "ˈkʌlə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "color"
+    },
+    {
+      "collocations" : [
+        "brightly colored balloons：色彩鲜艳的气球"
+      ],
+      "definition" : "呈……颜色的；有色彩的；有色人种的",
+      "examples" : [
+
+      ],
+      "frequency" : 5206,
+      "mnemonic" : "color（颜色；色彩；肤色）+ -ed（形容词后缀）→呈……颜色的；",
+      "phonetic" : "ˈkʌləd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "colored"
+    },
+    {
+      "collocations" : [
+        "colorful shop windows：五彩缤纷的商店橱窗"
+      ],
+      "definition" : "颜色鲜艳的，五彩缤纷的；丰富多彩的（有时达到了",
+      "examples" : [
+
+      ],
+      "mnemonic" : "color（颜色）+ -ful（形容词后缀，表示充满……的）→颜色鲜艳",
+      "phonetic" : "ˈkʌləfl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "colorful"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "着色（color的ing形式）",
+      "examples" : [
+        "They could not afford to spoil those maps by careless coloring."
+      ],
+      "frequency" : 13312,
+      "mnemonic" : "color（给……着色）+ -ing（动名词后缀）→着色",
+      "phonetic" : "ˈkʌlərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "coloring"
+    },
+    {
+      "collocations" : [
+        "a colorless liquid like water：像水一样无色的液体"
+      ],
+      "definition" : "无色的，苍白的；无趣的，枯燥的",
+      "examples" : [
+
+      ],
+      "frequency" : 16819,
+      "mnemonic" : "color（颜色）+ -less（没有的）→没有颜色的→无色的；苍白的；无",
+      "phonetic" : "ˈkʌlələs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "colorless"
+    },
+    {
+      "collocations" : [
+        "plants with yellow or red coloration：天然黄色或红色的植物"
+      ],
+      "definition" : "（植物或动物的）自然色彩，自然花纹",
+      "examples" : [
+
+      ],
+      "frequency" : 19987,
+      "mnemonic" : "color（颜色）+ -ation（复合名词后缀）→自然色彩",
+      "phonetic" : "ˌkʌləˈreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "coloration"
+    },
+    {
+      "collocations" : [
+        "blood cells：血细胞"
+      ],
+      "definition" : "细胞；小牢房；小禅房",
+      "etymology" : "单词cell原本表示“连在一起的小房间”，如修道院中每个修道士或 修女住的房间、监狱里的房间、蜂巢中的蜂室。1665年，英国物理 学家罗伯特·虎克（Robert Hooke）在用自制显微镜观察软木切片时， 发现里面有很多小孔，就像蜂窝一样。他将这些小孔称为cell（细 胞）。因此，罗伯特·虎克被称为发现细胞的第一人。实际上，他所 看到的并不是真正的细胞，而是死去的植物细胞的细胞壁。第一个发 现活细胞的是荷兰人安东·范·列文虎克（Anton van Leeuwenhoek）。",
+      "examples" : [
+
+      ],
+      "frequency" : 898,
+      "mnemonic" : "cell（=cel-：隐藏）→即隐藏的小室，细胞因其小室状结构而得名。",
+      "phonetic" : "sel",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "cell"
+    },
+    {
+      "collocations" : [
+        "cellular structure \/ processes：细胞结构 \/ 变化过程"
+      ],
+      "definition" : "细胞的，由细胞组成的；（无线电话）蜂窝状的，",
+      "examples" : [
+        "The use of cellular phones is not permitted on most aircraft."
+      ],
+      "mnemonic" : "cell（细胞）+ -ular（形容词后缀）→细胞的，似细胞形状的→（无",
+      "phonetic" : "ˈseljələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "cellular"
+    },
+    {
+      "collocations" : [
+        "store in a cellar：存放在地窖里"
+      ],
+      "definition" : "地窖；地下室；酒窖",
+      "examples" : [
+
+      ],
+      "frequency" : 7808,
+      "mnemonic" : "cell（小房间；储藏室）+ -ar（名词后缀）→地窖；地下室；酒窖",
+      "phonetic" : "ˈselə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "cellar"
+    },
+    {
+      "collocations" : [
+        "cellphone users：移动电话用户"
+      ],
+      "definition" : "移动电话；手机",
+      "examples" : [
+
+      ],
+      "frequency" : 10731,
+      "mnemonic" : "cell phone=cellular phone",
+      "phonetic" : "ˈselˌfəʊn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "cellphone"
+    },
+    {
+      "collocations" : [
+        "a large room with a high ceiling：天花板很高的大房间"
+      ],
+      "definition" : "天花板；最高限度；上限",
+      "examples" : [
+
+      ],
+      "frequency" : 2662,
+      "mnemonic" : "ceil（=put a cover over：将遮盖物放于其上）+ -ing（名词后缀）→起",
+      "phonetic" : "ˈsiːlɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "ceiling"
+    },
+    {
+      "collocations" : [
+        "crash helmet：（骑摩托车的）防护头盔，安全帽"
+      ],
+      "definition" : "头盔；防护帽",
+      "examples" : [
+
+      ],
+      "frequency" : 4347,
+      "mnemonic" : "helm（=to save：保护）+ -et（名词后缀）→起保护作用的防护物→",
+      "phonetic" : "ˈhelmɪt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "helmet"
+    },
+    {
+      "collocations" : [
+        "be hampered by sth.：被……阻碍了"
+      ],
+      "definition" : "妨碍；束缚；阻碍",
+      "examples" : [
+        "写作很多打击盗版的法规，由于受到相关利益集团的阻碍而很难实施。"
+      ],
+      "frequency" : 9241,
+      "mnemonic" : "hamper（=helmet：头盔；引申为“限制，束缚”，即：“束缚”住",
+      "phonetic" : "ˈhæmpə(r)",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "hamper"
+    },
+    {
+      "collocations" : [
+        "run into the hall：跑进门厅"
+      ],
+      "definition" : "门厅，正门过道；（大楼内的）走廊；礼堂，大厅",
+      "etymology" : "来自古英语heall “spacious roofed residence, house; temple; law-court,” any large place covered by a roof, 来自原始日耳曼语hallo “covered place, hall”。",
+      "examples" : [
+
+      ],
+      "frequency" : 1854,
+      "phonetic" : "hɔːl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hall"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "特征；特点；金银纯度印记（打在金、银、铂制品",
+      "etymology" : "英国在国王爱德华一世统治期间建立了金银器的纯度衡量标准，如 银制品必须含有92.5%的银、2.5%的铜，只有符合这一标准的银器才 能被称为“标准纯银”。1300年，爱德华一世下令，凡金银制品必须 由伦敦金匠公司（Goldsmiths’ Company of London）鉴定纯度，符合 标准的由伦敦金匠公司打上印记，否则不得上市交易。鉴定并打印记 的工作在该公司的“金匠大厦”（Goldsmiths’ Hall）中进行，因此金 银纯度印记就被称为hallmark 一直沿用至今，并逐渐泛化为“质量印 记”之意。",
+      "examples" : [
+        "Police said the explosion bore all the hallmarks of a terrorist attack."
+      ],
+      "mnemonic" : "hall（鉴定纯度的金匠大厦）+ mark（金银纯度印记）→给……打印",
+      "phonetic" : "ˈhɔːlmɑːk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hallmark"
+    },
+    {
+      "collocations" : [
+        "a hollow tree：一棵空心树"
+      ],
+      "definition" : "空心的；凹陷的；空洞的，没有价值的；虚伪的 n. 凹陷",
+      "examples" : [
+        "The town lay warm in the hollow of the hill."
+      ],
+      "mnemonic" : "hol-（=hole：洞）+ low→空洞的；空心的；凹陷处；使凹陷→引申",
+      "phonetic" : "ˈhɒləʊ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hollow"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "手枪皮套（挂在腰带或腋下皮带上）",
+      "examples" : [
+
+      ],
+      "frequency" : 13390,
+      "mnemonic" : "hol-（隐藏；保护）+ -ster（名词后缀）→用于隐藏、保护手枪的皮",
+      "phonetic" : "ˈhəʊlstə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "holster"
+    },
+    {
+      "collocations" : [
+        "the hell of the labor camps：劳改营那个活地狱"
+      ],
+      "definition" : "地狱；令人痛苦不堪的处境 (或地方)",
+      "etymology" : "在北欧神话中，赫尔（Hel，又译作海拉）是掌管冥界的女神，是 邪神洛基与冰霜女巨人安尔伯达的小女儿，后被主神奥丁贬到黑 暗的阴间作了冥界女王。赫尔所统治的冥界被称为“海姆冥界” （Helheim），意思就是“赫尔的家”。北欧人认为海姆冥界位于世 界的最底层，须在极北的寒冷黑暗之地走上九天九夜的崎岖道路方能 到达。北欧人通常在死者脚上穿一双特别坚固的靴子，因为到冥国的 九天九夜的崎岖道路须得有一双好靴子才能对付。这靴子特名为“赫 尔靴”。Hell就来源于女神赫尔及其统治的海姆冥界的名称，相当于 我们中国人所说的阴曹地府。在基督教传入欧洲之前，欧洲人认为不 管好人还是坏人，死后统统进入hell。基督教传入欧洲后，英国的基 督徒便将hell等同于基督教中所说的“地狱”了，成为了不相信耶稣 基督的人死后才去的地方，而相信的人则去了天堂（heaven）。",
+      "examples" : [
+        "I’ve never believed. Not in heaven or hell or God or Satan until now."
+      ],
+      "frequency" : 1464,
+      "mnemonic" : "hell（=kel-：隐藏；遮盖）→引申词义地狱（黑暗的、被隐藏的",
+      "phonetic" : "hel",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hell"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "地狱般的; 令人厌恶的",
+      "examples" : [
+        "The atmosphere in Washington is hellish."
+      ],
+      "frequency" : 19067,
+      "mnemonic" : "hell（地狱）+ -ish（形容词后缀，像……一样的）→像地狱一样的→",
+      "phonetic" : "ˈhelɪʃ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hellish"
+    },
+    {
+      "collocations" : [
+        "a wooden \/ steel hull：木质 \/ 钢质船体"
+      ],
+      "definition" : "船身；船体 vt. 剥去（豌豆、大豆等的）外壳；摘掉（草莓的）",
+      "etymology" : "Hull来自古英语hulu，意思是“豆荚”，来源于原始日耳曼语hulus （包裹覆盖），所以hull指的就是包裹覆盖豆子的豆荚。15世纪时， 人们开始将船的主体外壳也称为hull，因为它的形状和功能都和豆荚 类似。",
+      "examples" : [
+
+      ],
+      "phonetic" : "hʌl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hull"
+    },
+    {
+      "collocations" : [
+        "occult practices：神秘的做法"
+      ],
+      "definition" : "神秘的",
+      "examples" : [
+
+      ],
+      "frequency" : 19851,
+      "mnemonic" : "oc-（=ob-=over：在上）+ cult（=cul-：隐藏；覆盖）→在上面有覆盖",
+      "phonetic" : "ˈɒkʌlt; əˈkʌlt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "occult"
+    },
+    {
+      "collocations" : [
+        "conceal the machine behind a panel：把那台机器藏到一块面板后面"
+      ],
+      "definition" : "隐藏，掩盖；隐瞒（信息），掩饰（情感）；遮盖",
+      "examples" : [
+
+      ],
+      "mnemonic" : "con-（强调前缀）+ -ceal（=cel-=to hide：隐藏）→隐藏；隐瞒；遮盖",
+      "phonetic" : "kənˈsiːl",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "conceal"
+    },
+    {
+      "collocations" : [
+        "carry a concealed weapon：携带一支隐藏的武器"
+      ],
+      "definition" : "隐蔽的；隐藏的",
+      "examples" : [
+
+      ],
+      "frequency" : 12707,
+      "phonetic" : "kənˈsiːld",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "concealed"
+    },
+    {
+      "collocations" : [
+        "the concealment of crime：对罪行的隐瞒"
+      ],
+      "definition" : "隐藏；隐瞒；藏匿",
+      "examples" : [
+        "Many animals rely on concealment for protection."
+      ],
+      "frequency" : 19550,
+      "mnemonic" : "conceal（隐藏；隐瞒；掩盖）+ -ment（名词后缀）→隐藏；隐瞒；",
+      "phonetic" : "kənˈsiːlmənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "concealment"
+    },
+    {
+      "collocations" : [
+        "an environmental apocalypse：环境大灾变"
+      ],
+      "definition" : "世界毁灭；（《圣经》所述的）世界末世；大动",
+      "etymology" : "《圣经·新约》中的最后一章是圣约翰（St. John）所写的“启示 录”。据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩 斯岛时，将主给他显示的异象记录下来，并预言了主的降临和世界 末日来临时的景象。该书的希腊名是Apokalyptein，在1230年的英语 版本中被译为The Book of Apocalypse，在1380年的英语版本中被译为 The Book of Revelation。",
+      "examples" : [
+        "Civilization is on the brink of apocalypse."
+      ],
+      "mnemonic" : "apo-（=off：去掉）+ calyp-（=cover：隐藏；掩盖）+ -se（名词后",
+      "phonetic" : "əˈpɒkəlɪps",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "apocalypse"
+    },
+    {
+      "collocations" : [
+        "apocalyptic warnings：末日警告"
+      ],
+      "definition" : "描述（历史）大动乱的，预示（未来）大灾",
+      "etymology" : "*(s)keu- Proto-Indo-European root meaning “to cover, conceal.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit kostha “enclosing wall,” skunati “covers;” Greek kytos “a hollow, vessel,” keutho “to cover, to hide,” skynia “eyebrows;” Latin cutis “skin,” ob-scurus “dark;” Lithuanian kiautas “husk,” kūtis “stall;” Armenian ciw “roof;” Russian kishka “gut,” literally “sheath;” Old English hyd “a hide, a skin,” hydan “to hide, conceal; Old Norse sky “cloud;” Old English sceo “cloud;” Middle High German hode “scrotum;” Old High German scura, German Scheuer “barn;” Welsh cuddio “to hide.” 笔 记 区",
+      "examples" : [
+
+      ],
+      "mnemonic" : "apocalyp（= apocalypse：世界末世；大动乱，大灾变）+ -tic（形容词",
+      "phonetic" : "əˌpɒkəˈlɪptɪk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "apocalyptic"
+    },
+    {
+      "collocations" : [
+        "a two-bedroom house：两居室的住宅"
+      ],
+      "definition" : "房屋，住宅；全家人；某种用途的建筑物；（从事某种生意",
+      "etymology" : "来自古英语hus：居住地，庇护所，屋子。来自原始印欧语词根skeu- =to cover, to conceal：遮盖，隐藏，引申词义房屋，住宅等建筑物。",
+      "examples" : [
+
+      ],
+      "phonetic" : "haʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "house"
+    },
+    {
+      "collocations" : [
+        "public \/ private housing：公共 \/ 私人住房"
+      ],
+      "definition" : "（统称，尤指住房类型、价格、条件）住房，住宅；住",
+      "examples" : [
+
+      ],
+      "mnemonic" : "house（房屋；住宅）+ -ing（集合名词后缀）→住房，住宅；住房",
+      "phonetic" : "haʊzɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "housing"
+    },
+    {
+      "collocations" : [
+        "bonded warehouse：保税仓库"
+      ],
+      "definition" : "仓库；货栈",
+      "examples" : [
+
+      ],
+      "frequency" : 4976,
+      "mnemonic" : "ware（物品；货物）+ house（房子）→储存货物的房子→仓库；",
+      "phonetic" : "ˈweəhaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "warehouse"
+    },
+    {
+      "collocations" : [
+        "greenhouse gas：温室气体"
+      ],
+      "definition" : "温室；暖房 adj. 温室的；造成温室效应的",
+      "examples" : [
+
+      ],
+      "frequency" : 5236,
+      "mnemonic" : "green（绿色的）+ house（室）→种植绿色植物的房子→温室；温室",
+      "phonetic" : "ˈgriːnhaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "greenhouse"
+    },
+    {
+      "collocations" : [
+        "a traditional housewife：一位传统的家庭主妇"
+      ],
+      "definition" : "家庭主妇",
+      "examples" : [
+
+      ],
+      "frequency" : 8758,
+      "mnemonic" : "house（房子；家里）+ wife（妻子，本意为女人）→家里的女人→家",
+      "phonetic" : "ˈhaʊswaɪf",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "housewife"
+    },
+    {
+      "collocations" : [
+        "golf clubhouse：高尔夫俱乐部会所"
+      ],
+      "definition" : "（尤指体育）俱乐部会所",
+      "examples" : [
+
+      ],
+      "frequency" : 8509,
+      "mnemonic" : "club（俱乐部）+ house（房屋）→俱乐部会所",
+      "phonetic" : "ˈklʌbhaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "clubhouse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "咖啡馆",
+      "examples" : [
+
+      ],
+      "frequency" : 19037,
+      "mnemonic" : "coffee（咖啡）+ house（房屋）→咖啡屋；咖啡馆",
+      "phonetic" : "ˈkɒfɪhaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "coffeehouse"
+    },
+    {
+      "collocations" : [
+        "do in-house training：进行公司内部培训"
+      ],
+      "definition" : "（公司或机构）内部的 adv. 在机构内部",
+      "examples" : [
+        "The magazine is still produced in-house."
+      ],
+      "frequency" : 10345,
+      "mnemonic" : "in-（在内）+ house（公司）→公司、机构内部的；在机构内部",
+      "phonetic" : "ˌɪn ˈhaʊs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "in-house"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（主建筑的）外围建筑；附属建筑",
+      "examples" : [
+
+      ],
+      "frequency" : 18003,
+      "mnemonic" : "out（在外）+ house（建筑物）→建筑物外面的建筑→外围建筑；附",
+      "phonetic" : "ˈaʊthaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "outhouse"
+    },
+    {
+      "collocations" : [
+        "keep on the housekeeper：继续雇佣那位管家"
+      ],
+      "definition" : "管家，杂务主管（通常为女性）",
+      "examples" : [
+
+      ],
+      "frequency" : 11426,
+      "mnemonic" : "house（房屋）+keeper（看守人；保管人）→房屋的看守人→管家",
+      "phonetic" : "ˈhaʊskiːpə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "housekeeper"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "家务（尤指采购和管理开支）；（旅馆、医",
+      "examples" : [
+        "Call housekeeping and ask them to bring us some clean towels."
+      ],
+      "mnemonic" : "housekeep（管理家务）+ -ing（动名词后缀）→家务；总务处；家务",
+      "phonetic" : "ˈhaʊskiːpɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "housekeeping"
+    },
+    {
+      "collocations" : [
+        "do the housework：做家务"
+      ],
+      "definition" : "家务劳动；家务事",
+      "examples" : [
+
+      ],
+      "frequency" : 16414,
+      "mnemonic" : "house（家庭）+ work（工作；劳动）→家庭里的劳动→家务劳动",
+      "phonetic" : "ˈhaʊswɜːk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "housework"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连栋房屋；城市住房（在乡村已有住房的富人在城",
+      "examples" : [
+
+      ],
+      "mnemonic" : "town（城镇；市镇）+ house（房屋）→城镇里的房屋→连栋房屋；",
+      "phonetic" : "taʊnhaʊs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "townhouse"
+    },
+    {
+      "collocations" : [
+        "a cloudless sky：无云的天空"
+      ],
+      "definition" : "天；天空",
+      "etymology" : "来自古诺斯语sky：云，云层。来自原始印欧语词根skeu-：遮盖，覆 盖。天似穹庐，笼盖四野，后词义由云演变为天空。",
+      "examples" : [
+
+      ],
+      "frequency" : 1150,
+      "phonetic" : "skaɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "sky"
+    },
+    {
+      "collocations" : [
+        "the skyrocketing costs of health care：猛涨的医疗费用"
+      ],
+      "definition" : "剧增；猛涨",
+      "examples" : [
+        "Prices and unemployment have skyrocketed."
+      ],
+      "frequency" : 12792,
+      "mnemonic" : "sky（天空）+rocket（火箭）→像火箭飞向天空一样的速度增长→剧",
+      "phonetic" : "ˈskaɪrɒkɪt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "skyrocket"
+    },
+    {
+      "collocations" : [
+        "hide the letter in a drawer：把信藏在抽屉里"
+      ],
+      "definition" : "藏，隐蔽；躲藏，遮住；掩饰，隐瞒（尤指感情） n. 藏身",
+      "etymology" : "来自原始印欧语词根skeu-：隐藏，遮盖，引申词义兽皮。",
+      "examples" : [
+
+      ],
+      "phonetic" : "haɪd",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "hide"
+    },
+    {
+      "collocations" : [
+        "hidden dangers：隐藏的危险（隐患）"
+      ],
+      "definition" : "隐藏的；隐秘的",
+      "examples" : [
+
+      ],
+      "frequency" : 4034,
+      "mnemonic" : "hide的过去分词形式。",
+      "phonetic" : "ˈhɪdn",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hidden"
+    },
+    {
+      "collocations" : [
+        "a hideous face \/ building \/ dress：丑陋的面孔 \/ 建筑物 \/ 衣服"
+      ],
+      "definition" : "十分丑陋的；非常可怕的；令人难以忍受的",
+      "examples" : [
+
+      ],
+      "frequency" : 11205,
+      "mnemonic" : "hide（兽皮）+ -ous（形容词后缀）→兽皮一般的→十分丑陋的；非",
+      "phonetic" : "ˈhɪdɪəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hideous"
+    },
+    {
+      "collocations" : [
+        "go into hiding for several weeks：躲藏了几个星期"
+      ],
+      "definition" : "隐藏；躲藏",
+      "examples" : [
+
+      ],
+      "frequency" : 16555,
+      "mnemonic" : "hide（隐藏；躲藏）+ -ing（动名词后缀）→隐藏；躲藏",
+      "phonetic" : "ˈhaɪdɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hiding"
+    },
+    {
+      "collocations" : [
+        "a remote mountain hideaway：一个偏远的大山里的躲藏处"
+      ],
+      "definition" : "隐蔽处; 躲藏处",
+      "examples" : [
+
+      ],
+      "frequency" : 18324,
+      "mnemonic" : "hide（躲藏；隐蔽）+ away（离开）→离开人群的藏身之地→隐蔽",
+      "phonetic" : "ˈhaɪdəweɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hideaway"
+    },
+    {
+      "collocations" : [
+        "modest hideout：一个平凡的藏身处"
+      ],
+      "definition" : "藏身处；隐蔽处",
+      "examples" : [
+
+      ],
+      "frequency" : 19446,
+      "mnemonic" : "hide（隐藏）+ out（出去）→出去隐藏→藏身处；隐蔽处",
+      "phonetic" : "ˈhaɪdaʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hideout"
+    },
+    {
+      "collocations" : [
+        "a wooden hut：小木屋"
+      ],
+      "definition" : "（木头、泥、草或石头搭成的）小屋",
+      "etymology" : "自古法语hutte：村舍。与house同源。Hut用于指简陋的小棚，小舍。 House用于指房屋，住宅，大型建筑物。",
+      "examples" : [
+
+      ],
+      "frequency" : 5392,
+      "phonetic" : "hʌt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hut"
+    },
+    {
+      "collocations" : [
+        "a garden hose：浇花园的软管"
+      ],
+      "definition" : "（灭火、浇花等用的）软管；水龙带 vt. 用软管输水冲洗（或",
+      "etymology" : "来自古英语hosa：裤管，腿的遮盖衣物。引申词义长筒袜，后也用于 指塑料管。",
+      "examples" : [
+        "Firemen hosed the burning car."
+      ],
+      "phonetic" : "həʊz",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hose"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（通常因寒冷或害怕）挤在一起；（通常因寒冷或害怕）",
+      "examples" : [
+        "We huddled together for warmth."
+      ],
+      "mnemonic" : "hud-（=to cover, conceal：遮蔽；隐藏，双写d）+ -le（表反复）→寻",
+      "phonetic" : "ˈhʌdl",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "huddle"
+    },
+    {
+      "collocations" : [
+        "hoard food and petrol：贮藏食物和汽油"
+      ],
+      "definition" : "（钱、食物、贵重物品等的）贮存，藏品；（尤指）秘藏",
+      "etymology" : "来自古英语hord “a treasure：宝藏”，来自原始日耳曼语huzdam，含 义为hidden treasure：隐藏的财宝。来自原始印欧语词根 (s)keu- “to cover, conceal：遮盖；隐藏” 。",
+      "examples" : [
+
+      ],
+      "phonetic" : "hɔːd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hoard"
+    },
+    {
+      "collocations" : [
+        "have custody of the children：监护这些孩子"
+      ],
+      "definition" : "监护权；保管权；（尤指在候审时的）拘留",
+      "examples" : [
+        "The bank provides safe custody for valuables."
+      ],
+      "frequency" : 4470,
+      "mnemonic" : "custod-（=guard, watch, keep：监视；保管；看守）+ -y（名词后缀）",
+      "phonetic" : "ˈkʌstədɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "custody"
+    },
+    {
+      "collocations" : [
+        "give sb. a custodial sentence (= sent him to prison)：判处某人监禁"
+      ],
+      "definition" : "监禁的；有监护权的；照管的，看护的",
+      "examples" : [
+        "The mother is usually the custodial parent after a divorce."
+      ],
+      "frequency" : 18671,
+      "mnemonic" : "custody（拘留；监护权；看护，变y为i）+ -al（形容词后缀）→监禁",
+      "phonetic" : "kʌˈstəʊdiəl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "custodial"
+    },
+    {
+      "collocations" : [
+        "outer cuticle layer：外面的表皮层"
+      ],
+      "definition" : "表皮；[动][植]角质层",
+      "examples" : [
+
+      ],
+      "frequency" : 19759,
+      "mnemonic" : "cuti（=skin：皮肤）+ -cle（指小东西）→皮肤外层，表皮；角质层",
+      "phonetic" : "ˈkjuːtɪkl",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "cuticle"
+    },
+    {
+      "collocations" : [
+        "scum marks around the bath：浴缸周围的垢迹"
+      ],
+      "definition" : "浮沫；浮垢；比喻令人厌恶的人",
+      "examples" : [
+        "Skim off any scum."
+      ],
+      "frequency" : 15799,
+      "mnemonic" : "scu-（=to cover：覆盖）+ -m（名词后缀）→本义是“覆盖在上面，",
+      "phonetic" : "skʌm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "scum"
+    },
+    {
+      "collocations" : [
+        "skim through the article：浏览这篇文章"
+      ],
+      "definition" : "撇去（液体上的油脂或乳脂等） vi.&vt.（使）掠过，擦过；",
+      "etymology" : "*bhreg- Proto-Indo-European root meaning “to break.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit (giri)-bhraj “breaking-forth (out of the mountains);” Latin frangere “to break (something) in pieces, shatter, fracture;” Lithuanian 20000 词汇巅峰 速 记 笔 记 区 braškėti “crash, crack;” Old Irish braigim “break wind;” Gothic brikan, Old English brecan “to break.”",
+      "examples" : [
+        "Skim the scum off the jam and let it cool."
+      ],
+      "phonetic" : "skɪm",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "skim"
+    },
+    {
+      "collocations" : [
+        "break a cup \/ window：打破杯子 \/ 窗户"
+      ],
+      "definition" : "&vt.（使）破，裂，碎；弄坏，损坏；违犯，背弃；打破，",
+      "etymology" : "来自古英语brecan “to divide solid matter violently into parts or fragments; to injure, violate (a promise, etc.), destroy, curtail; to break into, rush into; to burst forth, spring out; to subdue, tame” .",
+      "examples" : [
+        "My watch has broken."
+      ],
+      "phonetic" : "breɪk",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "break"
+    },
+    {
+      "collocations" : [
+        "a broken window \/ plate：破碎的窗玻璃 \/ 盘子"
+      ],
+      "definition" : "坏掉的，破碎的；破裂的，中止的；不连续的，被打",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈbrəʊkən",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "broken"
+    },
+    {
+      "collocations" : [
+        "a single unbroken line：一条连续的线"
+      ],
+      "definition" : "连续的；不间断的；（体育记录等）未被打破",
+      "examples" : [
+
+      ],
+      "mnemonic" : "un-（表相反）+ broken（不连续的；打破的）→连续的；未被打破的",
+      "phonetic" : "ʌnˈbrəʊkən",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "unbroken"
+    },
+    {
+      "collocations" : [
+        "emergency brake：紧急刹车"
+      ],
+      "definition" : "刹车；阻碍 vi.&vt. 刹（车）；用闸减速",
+      "examples" : [
+        "High interest rates are a brake on the economy."
+      ],
+      "frequency" : 4746,
+      "mnemonic" : "brake（=break：休息，中断；二者发音相似）→刹车，制动器（即：",
+      "phonetic" : "breɪk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "brake"
+    },
+    {
+      "collocations" : [
+        "go broke：破产 flat \/ stony broke (= completely broke)：彻底破产"
+      ],
+      "definition" : "没钱的；囊中羞涩的；破产的",
+      "examples" : [
+        "I’m always broke by the end of the month."
+      ],
+      "frequency" : 10403,
+      "phonetic" : "brəʊk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "broke"
+    },
+    {
+      "collocations" : [
+        "law-breaker：打破法律的人（违法者）"
+      ],
+      "definition" : "拍岸的白浪，~breaker：打破……的人",
+      "examples" : [
+
+      ],
+      "frequency" : 12107,
+      "mnemonic" : "break（打破；打碎）+ -er（名词后缀）→在岸边拍碎的波浪；打",
+      "phonetic" : "ˈbreɪkə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breaker"
+    },
+    {
+      "collocations" : [
+        "a big \/ hearty \/ light breakfast：量大的 \/ 丰盛的 \/ 量少的早餐"
+      ],
+      "definition" : "早餐 vi. 用早餐",
+      "etymology" : "fast在作名词用时指“斋戒”或“禁食”，breakfast按字面义是 breaking the night's fast，故指开戒第一餐，break one’s fast含义为“开 戒”或“开斋”。由于早餐是打破斋戒的第一餐，所以后来breakfast 就变成了“早餐”。",
+      "examples" : [
+
+      ],
+      "frequency" : 2402,
+      "mnemonic" : "break（打破）+ fast（禁食）→打破禁食的第一餐→早餐",
+      "phonetic" : "ˈbrekfəst",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breakfast"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "破门而入；闯入；入室偷窃",
+      "examples" : [
+        "The break-in had occurred just before midnight."
+      ],
+      "frequency" : 17393,
+      "mnemonic" : "break（打破）+ -in（进入）→打破门进入内部破坏或偷窃财物→破",
+      "phonetic" : "ˈbreikin",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "break-in"
+    },
+    {
+      "collocations" : [
+        "the breaking of nations：国家的破碎"
+      ],
+      "definition" : "破坏；破碎",
+      "examples" : [
+
+      ],
+      "frequency" : 9844,
+      "phonetic" : "ˈbrekɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breaking"
+    },
+    {
+      "collocations" : [
+        "plan a prison breakout：策划一次越狱"
+      ],
+      "definition" : "（常指集体的）越狱",
+      "examples" : [
+
+      ],
+      "frequency" : 15840,
+      "mnemonic" : "break（打破）+ out（出来）→打破监禁→（集体）越狱",
+      "phonetic" : "ˈbreɪkaʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breakout"
+    },
+    {
+      "collocations" : [
+        "the breakup of the meeting’s first session：该会议第一轮的破裂"
+      ],
+      "definition" : "（婚姻、关系、联系等的）破裂；（组织、国家的）",
+      "examples" : [
+        "The Justice Department advocated a breakup of Microsoft."
+      ],
+      "mnemonic" : "break（打断；中断）+ up（=over：结束）→中断……使之结束→破",
+      "phonetic" : "ˈbreɪkʌp",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breakup"
+    },
+    {
+      "collocations" : [
+        "a breakaway faction \/ group \/ section：脱离原组织的派系 \/ 集体 \/ 部分"
+      ],
+      "definition" : "（政治团体、组织、国家的一部分）已分离",
+      "examples" : [
+
+      ],
+      "mnemonic" : "break（打破；破裂）+ away（分离；离开）→……破裂，从其中分",
+      "phonetic" : "ˈbreɪkəweɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "breakaway"
+    },
+    {
+      "collocations" : [
+        "regular breakdowns：经常出故障"
+      ],
+      "definition" : "（关系、计划、讨论等的）失败，结束；精神崩",
+      "examples" : [
+        "Her old car was unreliable, so the trip was plagued by breakdowns."
+      ],
+      "mnemonic" : "break（弄坏；中断）+ down（向下）→失败；故障；精神崩溃",
+      "phonetic" : "ˈbreɪkdaʊn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breakdown"
+    },
+    {
+      "collocations" : [
+        "significant breakthrough：意义重大的突破"
+      ],
+      "definition" : "重大进展；突破",
+      "examples" : [
+
+      ],
+      "frequency" : 5379,
+      "mnemonic" : "break（破）+ through（通过；穿过）→打破并穿过去→突破",
+      "phonetic" : "ˈbreɪkθruː",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breakthrough"
+    },
+    {
+      "collocations" : [
+        "an outbreak of violence：暴力事件的爆发"
+      ],
+      "definition" : "（暴力、疾病、战争等坏事的）爆发，突然发生",
+      "examples" : [
+
+      ],
+      "mnemonic" : "out-（向外）+ break（破裂；打破）→（暴力、疾病等的）爆发；突",
+      "phonetic" : "ˈaʊtbreɪk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "outbreak"
+    },
+    {
+      "collocations" : [
+        "an outburst of anger：怒气的突然爆发（突然大怒）"
+      ],
+      "definition" : "（感情的）爆发；（活动）高涨，爆发；（态度）激",
+      "examples" : [
+
+      ],
+      "mnemonic" : "out（向外）+ burst（使爆裂，胀开；爆满；突然出现）→向外爆",
+      "phonetic" : "ˈaʊtbɜːst",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "outburst"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "破晓；黎明",
+      "examples" : [
+        "We left before daybreak."
+      ],
+      "frequency" : 19788,
+      "mnemonic" : "day（白天）+ break（打破）→打破白天→破晓；黎明",
+      "phonetic" : "ˈdeɪbreɪk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "daybreak"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "防风夹克",
+      "examples" : [
+
+      ],
+      "frequency" : 19990,
+      "mnemonic" : "wind（风）+ breaker（打破）→使……可以破风前行的衣服→防风",
+      "phonetic" : "ˈwɪn(d)breɪkə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "windbreaker"
+    },
+    {
+      "collocations" : [
+        "breaches of security：安全防御的攻破"
+      ],
+      "definition" : "违反；使破开；攻破（某人的防范） n. 违反；（关系中",
+      "examples" : [
+
+      ],
+      "phonetic" : "briːtʃ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "breach"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "盛气凌人的；自以为是的",
+      "examples" : [
+        "Beneath his brash exterior, he's still a little boy inside."
+      ],
+      "frequency" : 14011,
+      "phonetic" : "bræʃ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "brash"
+    },
+    {
+      "collocations" : [
+        "violate the national boundaries：侵犯国界"
+      ],
+      "definition" : "违反，违背（法律、协议等）；侵犯（隐私等），搅扰",
+      "examples" : [
+        "She accused the press photographers of violating her privacy."
+      ],
+      "mnemonic" : "viol（=break：打破；侵害）+ -ate（动词后缀）→打破（私生活的",
+      "phonetic" : "ˈvaɪəleɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "violate"
+    },
+    {
+      "collocations" : [
+        "copyright violation：侵犯版权"
+      ],
+      "definition" : "违反；违背；侵犯",
+      "examples" : [
+
+      ],
+      "frequency" : 2892,
+      "mnemonic" : "violate（违反；违背；侵犯）+ -ion（名词后缀）→违反；违背；",
+      "phonetic" : "ˌvaɪəˈleɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "violation"
+    },
+    {
+      "collocations" : [
+        "traffic violator：违反交通规则者"
+      ],
+      "definition" : "违反者；违背者",
+      "examples" : [
+
+      ],
+      "frequency" : 16050,
+      "mnemonic" : "violate（违反；违背）+ -or（人）→违反者；违背者",
+      "phonetic" : "ˈvaɪəleɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "violator"
+    },
+    {
+      "collocations" : [
+        "physical violence：身体暴力"
+      ],
+      "definition" : "暴力，暴行；狂热，激情，强烈的感情",
+      "examples" : [
+        "The violence of her feelings surprised him."
+      ],
+      "frequency" : 1041,
+      "mnemonic" : "viol（=break：打破；破坏）+ -ence（名词后缀）→暴力，暴行；狂",
+      "phonetic" : "ˈvaɪələns",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "violence"
+    },
+    {
+      "collocations" : [
+        "violent crime：暴力犯罪"
+      ],
+      "definition" : "暴力的，强暴的；感情强烈的，激情的；猛烈的，剧",
+      "examples" : [
+
+      ],
+      "mnemonic" : "viol-（暴力；激情）+ -ent（形容词后缀）→暴力的；激情的；猛烈的",
+      "phonetic" : "ˈvaɪələnt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "violent"
+    },
+    {
+      "collocations" : [
+        "shake head violently：拼命（剧烈地）摇头"
+      ],
+      "definition" : "强烈地，剧烈地；厉害地；强烈地",
+      "examples" : [
+
+      ],
+      "frequency" : 7959,
+      "phonetic" : "ˈvaɪələntli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "violently"
+    },
+    {
+      "collocations" : [
+        "fragile china \/ glass \/ bones：易碎的瓷器 \/ 玻璃制品 \/ 骨骼"
+      ],
+      "definition" : "易碎的，易损的；不牢固的，脆弱的；虚弱的，脆弱",
+      "examples" : [
+
+      ],
+      "mnemonic" : "frag-（=break：弄坏；打碎）+ -ile（容易……的）→容易碎，坏的→",
+      "phonetic" : "ˈfrædʒaɪl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fragile"
+    },
+    {
+      "collocations" : [
+        "the fragility of civilization：文明的脆弱"
+      ],
+      "definition" : "脆弱",
+      "examples" : [
+
+      ],
+      "frequency" : 16486,
+      "mnemonic" : "fragile（脆弱的）+ -ity（名词后缀，表性质）→脆弱",
+      "phonetic" : "frəˈdʒɪləti",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fragility"
+    },
+    {
+      "collocations" : [
+        "fragments of glass：玻璃碎片"
+      ],
+      "definition" : "碎片；片段 vt.&vi.（使）碎裂，破裂，分裂",
+      "examples" : [
+
+      ],
+      "frequency" : 4800,
+      "mnemonic" : "frag-（=break：打破；打碎）+ -ment（名词后缀）→打破，破碎（的",
+      "phonetic" : "ˈfrægmənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fragment"
+    },
+    {
+      "collocations" : [
+        "a fragmented society：一个分裂的社会"
+      ],
+      "definition" : "成碎片的；片断的；分裂的",
+      "examples" : [
+
+      ],
+      "frequency" : 10452,
+      "phonetic" : "fræɡˈmentɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fragmented"
+    },
+    {
+      "collocations" : [
+        "the fragmentation of the country：国家的分裂"
+      ],
+      "definition" : "破碎；分裂；分化",
+      "examples" : [
+
+      ],
+      "frequency" : 11240,
+      "mnemonic" : "fragment（破碎；分裂）+ -ation（复合名词后缀）→破碎；分裂；",
+      "phonetic" : "ˌfræɡmenˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fragmentation"
+    },
+    {
+      "collocations" : [
+        "fragmentary evidence：支离破碎的证据"
+      ],
+      "definition" : "不完整的；支离破碎的",
+      "examples" : [
+
+      ],
+      "frequency" : 19635,
+      "mnemonic" : "fragment（破碎）+-ary（形容词后缀）→破碎的→不完整的；支离破",
+      "phonetic" : "ˈfræɡməntri",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fragmentary"
+    },
+    {
+      "collocations" : [
+        "a fracture of the leg：腿骨骨折"
+      ],
+      "definition" : "（尤指骨头）断裂；骨折 vt.&vi. 折断；分裂",
+      "examples" : [
+        "Old people’s bones are more prone to fracture."
+      ],
+      "frequency" : 6215,
+      "mnemonic" : "frac-（=break：破；断）+ t（无意义）+ -ure（名词后缀）→断裂；",
+      "phonetic" : "ˈfræktʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fracture"
+    },
+    {
+      "collocations" : [
+        "a fractured ankle：断裂的踝关节"
+      ],
+      "definition" : "断裂的；折断的",
+      "examples" : [
+
+      ],
+      "frequency" : 13398,
+      "phonetic" : "ˈfræktʃəd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fractured"
+    },
+    {
+      "collocations" : [
+        "a fraction of sth.：一小部分，一小点……"
+      ],
+      "definition" : "少量；分数",
+      "examples" : [
+        "These days’ conservation is all about efficiency: getting the same—or"
+      ],
+      "frequency" : 4774,
+      "mnemonic" : "fract-（=break：打破；打碎）+ -ion（名词后缀）→弄碎的部分→",
+      "phonetic" : "ˈfrækʃən",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fraction"
+    },
+    {
+      "collocations" : [
+        "minor infractions of EU regulations：对欧盟规定的轻微触犯"
+      ],
+      "definition" : "犯规；违法；违犯",
+      "examples" : [
+
+      ],
+      "frequency" : 15335,
+      "mnemonic" : "in-（使）+ -fract-（打破；打碎）+ -ion（名词后缀）→引申词义破坏",
+      "phonetic" : "ɪnˈfrækʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "infraction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "折射器",
+      "examples" : [
+
+      ],
+      "frequency" : 17028,
+      "mnemonic" : "re-（=back：返回）+ fract-（=to break：折）+-or（表物体）→让光",
+      "phonetic" : "rɪˈfræktə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "refractor"
+    },
+    {
+      "collocations" : [
+        "infringe his copyright：侵犯了他的版权"
+      ],
+      "definition" : "违背，违反（法规）；侵犯，侵害（合法权益）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-（入；向内）+ fring-（= -frag-：打破；打碎）+ -e→向内打破规",
+      "phonetic" : "ɪnˈfrɪndʒ",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "infringe"
+    },
+    {
+      "collocations" : [
+        "copyright infringement：版权的侵犯"
+      ],
+      "definition" : "（对他人权利或自由等的）侵犯；违反",
+      "examples" : [
+
+      ],
+      "mnemonic" : "infringe（侵犯；违反）+ -ment（名词后缀）→侵犯；违反",
+      "phonetic" : "ɪnˈfrɪndʒmənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "infringement"
+    },
+    {
+      "collocations" : [
+        "refrain from making any comment：忍住了没做任何评论"
+      ],
+      "definition" : "忍住；克制；避免 n. 副歌；一再重复的话",
+      "examples" : [
+        "Please refrain from smoking."
+      ],
+      "frequency" : 9225,
+      "mnemonic" : "re-（back：向后）+ -frain（=用绳子勒住：克制；控制）→向后勒住",
+      "phonetic" : "rɪˈfreɪn",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "refrain"
+    },
+    {
+      "collocations" : [
+        "look frail：看上去很虚弱"
+      ],
+      "definition" : "虚弱的；易损的；易碎的；脆弱的",
+      "examples" : [
+        "Human nature is frail."
+      ],
+      "frequency" : 9131,
+      "mnemonic" : "fra-（=-frag-=break：打破；打碎）+ -il（倾向于的；容易的）",
+      "phonetic" : "freɪl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "frail"
+    },
+    {
+      "collocations" : [
+        "the frailties of human nature：人性的种种弱点"
+      ],
+      "definition" : "虚弱；（性格或道德上的）弱点，软弱",
+      "examples" : [
+        "Increasing frailty meant that she was more and more confined to bed."
+      ],
+      "frequency" : 17851,
+      "mnemonic" : "frail（虚弱的；性格等脆弱的）+ -ty（名词后缀）→虚弱；弱点；",
+      "phonetic" : "ˈfreɪltɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "frailty"
+    },
+    {
+      "collocations" : [
+        "universal suffrage：普选权"
+      ],
+      "definition" : "选举权；投票权",
+      "examples" : [
+
+      ],
+      "frequency" : 17190,
+      "mnemonic" : "suf-（=under：在下）+ -frag（=break：碎开；碎片）+ -e→来自古希",
+      "phonetic" : "ˈsʌfrɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "suffrage"
+    },
+    {
+      "collocations" : [
+        "corrupt officials：贪官污吏"
+      ],
+      "definition" : "腐败的，贪污的；堕落的；已变坏的 vt. 使腐化；使",
+      "examples" : [
+
+      ],
+      "mnemonic" : "cor-（=com-：强调前缀）+ -rupt（=break：弄破；弄坏）→使变坏；",
+      "phonetic" : "kəˈrʌpt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "corrupt"
+    },
+    {
+      "collocations" : [
+        "political corruption：政治腐败"
+      ],
+      "definition" : "腐败；贪污；贿赂",
+      "examples" : [
+        "写作腐败和欺骗充斥了整个社会，这导致整个社会物质和道德都受到"
+      ],
+      "frequency" : 3780,
+      "mnemonic" : "corrupt（腐败的；贪污的）+ -ion（名词后缀）→腐败；贪污",
+      "phonetic" : "kəˈrʌpʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "corruption"
+    },
+    {
+      "collocations" : [
+        "the rupture of a blood vessel：血管破裂"
+      ],
+      "definition" : "（体内组织等的）断裂，破裂；断裂，爆裂；（关系",
+      "examples" : [
+
+      ],
+      "mnemonic" : "rupt（=break：断，破）+ -ure（名词后缀）→断裂，折断，破裂",
+      "phonetic" : "ˈrʌptʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rupture"
+    },
+    {
+      "collocations" : [
+        "disrupt people’s natural relations：扰乱人们自然的关系"
+      ],
+      "definition" : "扰乱，妨碍，使中断",
+      "examples" : [
+
+      ],
+      "frequency" : 5374,
+      "mnemonic" : "dis-（=apart：分离；分开）+ -rupt（=break：断）→弄断，分开→扰",
+      "phonetic" : "dɪsˈrʌpt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "disrupt"
+    },
+    {
+      "collocations" : [
+        "environmental \/ market disruption：环境 \/ 市场破坏"
+      ],
+      "definition" : "扰乱；妨碍；破坏",
+      "examples" : [
+        "The plan was designed to ensure disruption to business was kept to a"
+      ],
+      "frequency" : 6891,
+      "mnemonic" : "disrupt（扰乱；妨碍）+ -ion（名词后缀）→扰乱；妨碍",
+      "phonetic" : "dɪsˈrʌpʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "disruption"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扰乱的；妨碍的；破坏的",
+      "examples" : [
+        "Alcohol can produce violent, disruptive behavior."
+      ],
+      "frequency" : 8604,
+      "mnemonic" : "disrupt（扰乱；妨碍；破坏）+ -ive（形容词后缀）→扰乱的；妨碍",
+      "phonetic" : "dɪsˈrʌptɪv",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "disruptive"
+    },
+    {
+      "collocations" : [
+        "the abrupt change of climate：天气的突然变化"
+      ],
+      "definition" : "突然的；意外的；唐突的",
+      "examples" : [
+
+      ],
+      "frequency" : 8880,
+      "mnemonic" : "ab-（加强语气）+ -rupt（=break：弄坏，断开；突然结束）→突然",
+      "phonetic" : "əˈbrʌpt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "abrupt"
+    },
+    {
+      "collocations" : [
+        "abruptly left the conference room：突然离开会议室"
+      ],
+      "definition" : "突然地；唐突地",
+      "examples" : [
+        "From the moment life began on the planet billions of years ago, the climate"
+      ],
+      "frequency" : 5311,
+      "mnemonic" : "abrupt（突然的；唐突的）+ -ly（副词后缀）→突然地；唐突地",
+      "phonetic" : "əˈbrʌptli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "abruptly"
+    },
+    {
+      "collocations" : [
+        "volcanic eruptions：火山爆发"
+      ],
+      "definition" : "&vt. （火山）爆发；（岩浆、烟等）喷出；突然发生，爆",
+      "examples" : [
+        "Violence erupted outside the embassy gates."
+      ],
+      "mnemonic" : "e-（=out：向外）+ -rupt（=break）→erupt=break out：爆发，喷出",
+      "phonetic" : "ɪˈrʌpt",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "erupt"
+    },
+    {
+      "collocations" : [
+        "a major volcanic eruption：火山大爆发"
+      ],
+      "definition" : "爆发，喷发；突然发生",
+      "examples" : [
+
+      ],
+      "frequency" : 8829,
+      "mnemonic" : "erupt（爆发；喷出；突然发生）+ -ion（名词后缀）→爆发，喷发；",
+      "phonetic" : "ɪˈrʌpʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "eruption"
+    },
+    {
+      "collocations" : [
+        "interrupt sb.：打扰某人"
+      ],
+      "definition" : "&vi. 使打断，打in扰；使中断 vt. 阻断；遮住（连续",
+      "examples" : [
+        "The game was interrupted several times by rain."
+      ],
+      "mnemonic" : "inter-（内部；中间）+ -rupt（=to break：打断；破坏）→从中间断开",
+      "phonetic" : "ˌɪntəˈrʌpt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "interrupt"
+    },
+    {
+      "collocations" : [
+        "an interruption to the power supply：中断供电（停电）"
+      ],
+      "definition" : "阻断物；中断（时间）；打岔",
+      "examples" : [
+
+      ],
+      "frequency" : 9199,
+      "mnemonic" : "interrupt（使中断；遮住）+ -ion（名词后缀）→阻断物；中断；打岔",
+      "phonetic" : "ˌɪntəˈrʌpʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "interruption"
+    },
+    {
+      "collocations" : [
+        "continue uninterrupted：连续不（间）断"
+      ],
+      "definition" : "不间断的；未受打扰的；一览无遗的（不受",
+      "examples" : [
+        "Diners can enjoy an uninterrupted view of the gardens."
+      ],
+      "mnemonic" : "un-（=not：不）+ interrupted（中断的；受到打扰的；遮住的）→不",
+      "phonetic" : "ˌʌnˌɪntəˈrʌptɪd",
+      "rootHint" : "stinct",
+      "word" : "uninterrupted"
+    },
+    {
+      "collocations" : [
+        "go bankrupt：破产"
+      ],
+      "definition" : "破产的；倒闭的；完全缺乏（有价值的东西） n.",
+      "etymology" : "据资料记载，最早的埃及银行家和英国货币兑换商是在寺庙内或圣殿 庭院内的条凳上经营业务的。在中世纪，意大利的放债者也是用一张 小条凳在市场上开展业务。表示“银行”的英语单词bank源自拉丁语 banca，意思是“条凳”。当货币兑换商因资金缺乏而被迫中断业务 时，他们的条凳就会被拆掉或折断。这种做法在拉丁文中就是banca rupta，其中rupt相当于broken。英语中表示破产的单词bankrupt正是由 此而来的。",
+      "examples" : [
+        "The company was almost bankrupted by legal costs."
+      ],
+      "mnemonic" : "bank（银行）+ -rupt（=break：折断；破碎）→银行破碎的→破产",
+      "phonetic" : "ˈbæŋkrʌpt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "bankrupt"
+    },
+    {
+      "collocations" : [
+        "file for bankruptcy：申请破产"
+      ],
+      "definition" : "破产",
+      "examples" : [
+
+      ],
+      "frequency" : 4211,
+      "mnemonic" : "bankrupt（破产的）+ -cy（名词后缀）→破产",
+      "phonetic" : "ˈbæŋkrʌptsi",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bankruptcy"
+    },
+    {
+      "collocations" : [
+        "put sb to rout：彻底打败；使溃败"
+      ],
+      "definition" : "溃败；彻底失败 vt. 彻底击败；一举击败",
+      "examples" : [
+
+      ],
+      "frequency" : 12176,
+      "mnemonic" : "rout（=to break, a breaking off：打破；使分开）→击破；击败……使",
+      "phonetic" : "raʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rout"
+    },
+    {
+      "collocations" : [
+        "the best route：最佳路线"
+      ],
+      "definition" : "路线；固定（交通）线路；途径 vt. 按某路线发送",
+      "examples" : [
+        "Satellites route data all over the globe."
+      ],
+      "frequency" : 1961,
+      "mnemonic" : "route（=rupt-：破裂；比较两者发音，去掉rupt-中的-p-音）→route本",
+      "phonetic" : "ruːt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "route"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "路由器",
+      "examples" : [
+
+      ],
+      "frequency" : 16570,
+      "mnemonic" : "rout（=route：路线）+ -er（表物）→引申词义路由器",
+      "phonetic" : "ˈruːtə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "router"
+    },
+    {
+      "collocations" : [
+        "daily routine：每日常规"
+      ],
+      "definition" : "惯例，常规；平淡乏味；程序；（一）套 adj. 常规的；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "rout（=route：路线）+ -ine（形容词后缀）→引申词义常规的，平淡",
+      "phonetic" : "ruːˈtiːn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "routine"
+    },
+    {
+      "collocations" : [
+        "routinely dismiss sth.：照例不予理会某事"
+      ],
+      "definition" : "例行地；常规性地；照例地",
+      "examples" : [
+        "Vitamin K is routinely given in the first week of life to prevent bleeding."
+      ],
+      "frequency" : 4779,
+      "mnemonic" : "routine（常规的）+ -ly（副词后缀）→例行地；常规性地；照例地",
+      "phonetic" : "ruːˈtiːnli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "routinely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（思维、做事方式的）刻板状态；（生活、事业）一成不变状",
+      "etymology" : "“narrow track worn or cut in the ground,” 1570s, Metaphoric meaning “narrow, monotonous routine; habitual mode of behavior” first attested 1839.",
+      "examples" : [
+        "I don’t like being in a rut — I like to keep moving on."
+      ],
+      "mnemonic" : "来自route的缩写：路线；线路→引申词义车辙，一成不变状态",
+      "phonetic" : "rʌt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rut"
+    },
+    {
+      "collocations" : [
+        "...successful exhibitions which go beyond mere success."
+      ],
+      "definition" : "只不过的；单单的，仅仅的（用来指某事虽小却有重要影",
+      "etymology" : "Late 14c., of a voice, “pure, clear;” mid-15c., of abstract things, “absolute, sheer;” from Old French mier “pure” (of gold), “entire, total, complete,” and directly from Latin merus “unmixed” (of wine), “pure; bare, naked;” figuratively “true, real, genuine,” according to some sources probably originally “clear, bright,” from PIE *mer- “to gleam, glimmer, sparkle”",
+      "examples" : [
+        "The mere mention of food had triggered off hunger pangs."
+      ],
+      "mnemonic" : "mere（=pure：纯的，清白的，仅仅）→仅仅的；单单的；只不过的",
+      "phonetic" : "mɪə",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "mere"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "仅仅（用来强调数量之少）；只不过（用来强调某事物",
+      "examples" : [
+        "But a look at the strange variations in tuition reveals that the choice about"
+      ],
+      "phonetic" : "ˈmɪəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "merely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "仅仅，刚刚，勉强可能；几乎不，几乎没有；刚好，不",
+      "examples" : [
+        "She was barely able to stand."
+      ],
+      "mnemonic" : "barely（=merely：仅仅）→仅仅，几乎不",
+      "phonetic" : "ˈbeəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "barely"
+    },
+    {
+      "collocations" : [
+        "walk around in bare feet：光着（裸露着）脚走来走去"
+      ],
+      "definition" : "裸体的，裸露的；（树木）光秃秃的，（土地）荒芜的；",
+      "examples" : [
+        "The fridge was completely bare."
+      ],
+      "phonetic" : "beə(r)",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "bare"
+    },
+    {
+      "collocations" : [
+        "poor children going barefoot in the street：赤着脚流落街头的穷孩子"
+      ],
+      "definition" : "赤脚的",
+      "examples" : [
+
+      ],
+      "frequency" : 9611,
+      "mnemonic" : "bare（裸露的）+ foot（脚）→裸露着脚的→赤脚的",
+      "phonetic" : "ˈbeəfʊt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "barefoot"
+    },
+    {
+      "collocations" : [
+        "a threadbare carpet：磨薄了的地毯"
+      ],
+      "definition" : "（衣物、地毯等）穿旧的，磨薄的，破旧的；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "thread（线）+ bare（裸露的）→线条裸露的→穿旧的，磨薄的；引申",
+      "phonetic" : "ˈθredbeə(r)",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "threadbare"
+    },
+    {
+      "collocations" : [
+        "a rarely-performed play：一部很少上演的戏剧"
+      ],
+      "definition" : "罕有；很少；不常",
+      "examples" : [
+        "She is rarely seen in public nowadays."
+      ],
+      "frequency" : 2291,
+      "mnemonic" : "rarely（=merely=barely：仅仅，几乎不）→几乎不，很少，罕见地",
+      "phonetic" : "ˈreəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "rarely"
+    },
+    {
+      "collocations" : [
+        "a rare chance：稀有的机会"
+      ],
+      "definition" : "稀少的；稀罕的；珍贵的；（肉）半熟的",
+      "examples" : [
+
+      ],
+      "frequency" : 1886,
+      "phonetic" : "reə",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "rare"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "珍品，稀有物；罕见之人；稀有，罕见",
+      "examples" : [
+        "Women are still something of a rarity in senior positions in business."
+      ],
+      "frequency" : 12458,
+      "mnemonic" : "rare（稀少的；稀罕的；珍贵的）+ -ity（名词后缀）→珍品；稀有；",
+      "phonetic" : "ˈreərəti",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "rarity"
+    },
+    {
+      "collocations" : [
+        "narrow strips of beach：狭窄的海滩"
+      ],
+      "definition" : "狭窄的，窄小的；勉强的，刚刚好的；目光短浅的",
+      "examples" : [
+        "It was inevitable that this primacy should have narrowed as other countries",
+        "仿写随着其他国家日益强盛，英语的优势地位逐渐缩小是不可避免的。"
+      ],
+      "phonetic" : "ˈnærəʊ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "narrow"
+    },
+    {
+      "collocations" : [
+        "a narrowly defined task：严格确定的任务"
+      ],
+      "definition" : "勉强地，差点儿，以毫厘之差；狭隘地，严格地；",
+      "examples" : [
+        "The car narrowly missed a cyclist."
+      ],
+      "phonetic" : "ˈnærəʊlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "narrowly"
+    },
+    {
+      "collocations" : [
+        "automated lane：自动车道"
+      ],
+      "definition" : "（乡间）小路；小巷，胡同；车道；航道，航线",
+      "examples" : [
+
+      ],
+      "frequency" : 4177,
+      "mnemonic" : "lan（=narrow：狭窄的；ow为后缀）+ -e→狭窄的道路→小巷；小",
+      "phonetic" : "leɪn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "lane"
+    },
+    {
+      "collocations" : [
+        "the two-lane highway：这条双车道的公路"
+      ],
+      "definition" : "双车道",
+      "examples" : [
+
+      ],
+      "frequency" : 18455,
+      "phonetic" : "tuː leɪn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "two-lane"
+    },
+    {
+      "collocations" : [
+        "a heat haze：热天的雾气"
+      ],
+      "definition" : "（尤指热天引起的）薄雾，霾；（烟尘等的）雾霭，烟雾；",
+      "examples" : [
+
+      ],
+      "mnemonic" : "haze=mist=fog：薄雾；烟雾；被雾气笼罩，使变模糊",
+      "phonetic" : "heɪz",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "haze"
+    },
+    {
+      "collocations" : [
+        "a hazy afternoon \/ sky：薄雾蒙蒙的下午 \/ 天空"
+      ],
+      "definition" : "朦胧的，薄雾蒙蒙的；记不清的，模糊的；主意不定的，",
+      "examples" : [
+        "I’m a little hazy about what to do next."
+      ],
+      "mnemonic" : "haz（=haze：薄雾，烟雾；使模糊；迷糊）+ -y（形容词后缀）→薄",
+      "phonetic" : "ˈheɪzɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hazy"
+    },
+    {
+      "collocations" : [
+        "a hazard to physical health：身体健康的威胁"
+      ],
+      "definition" : "危险；危害 vt. 冒……的风险；使处于危险",
+      "etymology" : "c. 1300, name of a game at dice, from Old French hasard, hasart “game of chance played with dice,” also “a throw of six in dice” (12c.), of uncertain origin. Possibly from Spanish azar “an unfortunate card or throw at dice,” which is said to be from Arabic az-zahr (for al-zahr) “the die.”",
+      "examples" : [
+        "Careless drivers hazard other people’s lives as well as their own."
+      ],
+      "frequency" : 4933,
+      "mnemonic" : "ha + zard=（card：卡片）→原指赌博游戏中一张不利的牌，后引申出",
+      "phonetic" : "ˈhæzəd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hazard"
+    },
+    {
+      "collocations" : [
+        "hazardous waste \/ chemicals：有害废物 \/ 化学制品"
+      ],
+      "definition" : "危险的；有危害的",
+      "examples" : [
+        "It would be hazardous to invest so much."
+      ],
+      "frequency" : 5432,
+      "mnemonic" : "hazard（危险；危害）+ -ous（形容词后缀）→危险的；有危害的",
+      "phonetic" : "ˈhæzədəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "hazardous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "杂乱无章的；无计划的",
+      "etymology" : "Early 12c., brennen, “be on fire, be consumed by fire; be inflamed with passion or desire, be ardent; destroy (something) with fire, expose to the action of fire, roast, broil, toast; burn (something) in cooking,” of objects, “to shine, glitter, sparkle, glow like fire;” chiefly from Old Norse brenna “to burn, light,” and also from two originally distinct Old English verbs: bærnan “to kindle” (transitive) and beornan “be on fire” (intransitive).",
+      "examples" : [
+        "The books had been piled on the shelves in a haphazard fashion."
+      ],
+      "frequency" : 16803,
+      "mnemonic" : "hap（发生；运气；机会）+ hazard（风险；危害）→即运气不好的，",
+      "phonetic" : "hæpˈhæzəd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "haphazard"
+    },
+    {
+      "collocations" : [
+        "burn the toast：把面包烧糊"
+      ],
+      "definition" : "燃烧；烧；着火；（使）烧坏，烧伤，烧死；（使燃料）燃",
+      "examples" : [
+        "Fires were burning all over the city."
+      ],
+      "mnemonic" : "burn=be on fire, destroy with fire, burn in cooking等，表示与“烧火”有",
+      "phonetic" : "bɜːn",
+      "pos" : "v.",
+      "rootHint" : "stinct",
+      "word" : "burn"
+    },
+    {
+      "collocations" : [
+        "burned-out：烧坏的；精疲力竭的；耗尽了的"
+      ],
+      "definition" : "燃烧的",
+      "examples" : [
+
+      ],
+      "frequency" : 13565,
+      "phonetic" : "bərnd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "burned"
+    },
+    {
+      "collocations" : [
+        "a burning issue \/ question：很重要的迫切问题；当务之急"
+      ],
+      "definition" : "（感情等）强烈的；（疼痛等）火辣辣的；炽热的；",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈbɜːnɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "burning"
+    },
+    {
+      "collocations" : [
+        "a wood burner：烧木柴的炉子"
+      ],
+      "definition" : "煤气头；（取暖用的）炉子",
+      "examples" : [
+
+      ],
+      "frequency" : 8386,
+      "phonetic" : "ˈbɜːnə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "burner"
+    },
+    {
+      "collocations" : [
+        "burnt toast：烤焦了的面包片"
+      ],
+      "definition" : "烧坏的；烧伤的；烫伤的；灼伤的",
+      "examples" : [
+        "Your hand looks badly burnt."
+      ],
+      "frequency" : 12314,
+      "mnemonic" : "burn的过去式和过去分词。",
+      "phonetic" : "bɜːnt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "burnt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "精疲力竭；过度劳累",
+      "examples" : [
+
+      ],
+      "frequency" : 12555,
+      "mnemonic" : "burn（燃烧）+ out（完全）→精力完全烧尽了→精疲力竭",
+      "phonetic" : "ˈbɜːnaʊt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "burnout"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "晒斑；晒伤",
+      "examples" : [
+        "The risk and severity of sunburn depend on the body’s natural skin colour."
+      ],
+      "frequency" : 17522,
+      "mnemonic" : "sun（太阳）+ burn（晒伤）→因在太阳下暴晒而晒伤→晒伤；晒斑",
+      "phonetic" : "ˈsʌnbɜːn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "sunburn"
+    },
+    {
+      "collocations" : [
+        "the rich auburn of her hair：她头发的深红褐色"
+      ],
+      "definition" : "红褐色的",
+      "examples" : [
+
+      ],
+      "frequency" : 19389,
+      "phonetic" : "ˈɔːbən",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "auburn"
+    },
+    {
+      "collocations" : [
+        "internal-combustion engines：内燃机"
+      ],
+      "definition" : "燃烧；燃烧过程",
+      "etymology" : "*bhreu- Also *bhreuə-, *bhreəu-, Proto-Indo-European root meaning “to boil, bubble, effervesce, burn,” with derivatives referring to cooking and brewing. It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit bhurnih “violent, passionate;” Greek phrear “well, spring, cistern;” Latin fervere “to boil, foam,” Thracian Greek brytos “fermented liquor made from barley;” Russian bruja “current;” Old Irish 20000 词汇巅峰 速 记 bruth “heat;” Old English breowan “to brew,” beorma “yeast;” Old High German brato “roast meat.” 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 10045,
+      "mnemonic" : "com-（加强语气）+ bust（=burn：燃烧）+ -ion（名词后缀）→燃",
+      "phonetic" : "kəmˈbʌstʃən",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "combustion"
+    },
+    {
+      "collocations" : [
+        "Labradors and other large breeds of dog：拉布拉多犬及其他大型品种狗"
+      ],
+      "definition" : "交配繁殖 vt. 饲养，培育（动植物）；孕育，酿成；以……",
+      "etymology" : "原始印欧语bhreue（=to heat, burn：加热；燃烧）→孵化，产蛋一般 会身体发热→breed：引申义为与孵化有关的词汇：繁殖；饲养；孕 育；品种等",
+      "examples" : [
+        "Many animals breed only at certain times of the year."
+      ],
+      "mnemonic" : "breed（=birth：出生；繁殖；孕育）→出生；繁殖；孕育；饲养",
+      "phonetic" : "briːd",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "breed"
+    },
+    {
+      "collocations" : [
+        "a large brood of children：一大家子小孩"
+      ],
+      "definition" : "（一次孵或生的）一窝鸟，一窝动物；一大家孩子 vi. 焦",
+      "examples" : [
+        "She constantly broods about her family."
+      ],
+      "mnemonic" : "brood = br+oo（两个蛋）+ d→孵；一窝→原指母鸡孵蛋过程中的暴",
+      "phonetic" : "bruːd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "brood"
+    },
+    {
+      "collocations" : [
+        "dark, brooding eyes：一双乌黑幽怨的眼睛"
+      ],
+      "definition" : "幽怨的；忧思的；森然的；险要的",
+      "examples" : [
+
+      ],
+      "frequency" : 13730,
+      "mnemonic" : "brood：焦虑；担忧→brooding：幽怨的；忧思的",
+      "phonetic" : "ˈbrudɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "brooding"
+    },
+    {
+      "collocations" : [
+        "a dog \/ horse \/ cattle, etc. breeder：饲养狗、马、牛等的人"
+      ],
+      "definition" : "饲养员；培育者",
+      "examples" : [
+
+      ],
+      "frequency" : 10956,
+      "mnemonic" : "breed（饲养；培育）+ -er（名词后缀）→饲养员；培育者",
+      "phonetic" : "ˈbriːdə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breeder"
+    },
+    {
+      "collocations" : [
+        "the breeding of horses：马的饲养"
+      ],
+      "definition" : "（为繁殖的）饲养；（动植物的）生育，繁殖；教养",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈbriːdɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breeding"
+    },
+    {
+      "collocations" : [
+        "a loaf \/ slice \/ piece of bread：一条 \/ 一片 \/ 一块面包"
+      ],
+      "definition" : "生计；面包",
+      "etymology" : "来自原始印欧语bhreue（=to heat, burn：加热；燃烧）=to burn→燃烧 炭火进行烤制的东西→面包",
+      "examples" : [
+
+      ],
+      "frequency" : 2131,
+      "phonetic" : "bred",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bread"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "挣钱养家的人",
+      "etymology" : "Bread在俚语中作“钱”解，可能源自1935年左右伦敦佬用以指 “钱”的同韵俚语bread and money。",
+      "examples" : [
+
+      ],
+      "frequency" : 20033,
+      "mnemonic" : "bread（面包；钱）+ winner（赢得、赚取……的人）→赢得金钱的人",
+      "phonetic" : "ˈbredwɪnə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "breadwinner"
+    },
+    {
+      "collocations" : [
+        "a gingerbread man (= a gingerbread biscuit \/ cookie in the shape of a"
+      ],
+      "definition" : "姜饼；姜味饼干",
+      "examples" : [
+
+      ],
+      "frequency" : 15963,
+      "mnemonic" : "ginger（姜）+ bread（饼）→姜饼；姜味饼干（一般在圣诞节时制作）",
+      "phonetic" : "ˈdʒɪndʒəbred",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "gingerbread"
+    },
+    {
+      "collocations" : [
+        "a toast to the bride and groom：向新娘新郎祝酒"
+      ],
+      "definition" : "新娘",
+      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→联想到cooking and brewing：烹调、酿制→bride：新娘婚后会做的家务工作 趣记：bread：面包→bride：新娘（婚后会做类似烤面包之类的家务劳动）",
+      "examples" : [
+
+      ],
+      "frequency" : 4931,
+      "phonetic" : "braɪd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bride"
+    },
+    {
+      "collocations" : [
+        "a bridal gown：新娘的礼服"
+      ],
+      "definition" : "新娘的；婚礼的",
+      "examples" : [
+
+      ],
+      "frequency" : 15284,
+      "mnemonic" : "bride（新娘）+ -al（形容词后缀）→新娘的；婚礼的",
+      "phonetic" : "ˈbraɪdl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "bridal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "伴娘",
+      "examples" : [
+
+      ],
+      "frequency" : 18828,
+      "mnemonic" : "bride（新娘）+ s + maid（少女）→婚礼上陪伴新娘的未婚少女→伴娘",
+      "phonetic" : "ˈbraɪdzmeɪd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bridesmaid"
+    },
+    {
+      "collocations" : [
+        "freshly brewed coffee：刚刚煮好的咖啡"
+      ],
+      "definition" : "酿制（啤酒）；沏、泡（茶）；煮（咖啡）；（不愉快的",
+      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→加热，煮沸饮料， 20000 词汇巅峰 速 记 笔 记 区 发酵→酿制；沏茶；煮；酝酿",
+      "examples" : [
+
+      ],
+      "phonetic" : "bruː",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "brew"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "啤酒酿造者；啤酒酿造公司",
+      "examples" : [
+
+      ],
+      "frequency" : 19866,
+      "mnemonic" : "brew（酿制啤酒）+ -er（人）→啤酒酿造者或公司",
+      "phonetic" : "ˈbruːə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "brewer"
+    },
+    {
+      "collocations" : [
+        "beer brewery 啤酒厂"
+      ],
+      "definition" : "啤酒厂；啤酒公司",
+      "examples" : [
+
+      ],
+      "frequency" : 15712,
+      "mnemonic" : "brew（酿啤酒）+ -ery（名词后缀，表地点）→酿造啤酒的地点→啤",
+      "phonetic" : "ˈbruːəri",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "brewery"
+    },
+    {
+      "collocations" : [
+        "brewing technique：酿造技术"
+      ],
+      "definition" : "酿造；酝酿",
+      "examples" : [
+
+      ],
+      "frequency" : 14596,
+      "phonetic" : "ˈbruːɪŋ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "brewing"
+    },
+    {
+      "collocations" : [
+        "chicken broth：鸡汤"
+      ],
+      "definition" : "肉汤；蔬菜清汤",
+      "etymology" : "来自古词根bhreue-（=to heat, boil, bubble）→加热、煮沸、冒泡→肉 汤；蔬菜清汤",
+      "examples" : [
+
+      ],
+      "frequency" : 5777,
+      "phonetic" : "brɒθ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "broth"
+    },
+    {
+      "collocations" : [
+        "broiled chicken：烤鸡"
+      ],
+      "definition" : "烤，焙（肉或鱼）；（使）变得灼热，受炙热",
+      "examples" : [
+        "They lay broiling in the sun."
+      ],
+      "frequency" : 14619,
+      "mnemonic" : "broil（=to burn, to roast：燃烧；烘烤）→原指通过直接加热进行烹",
+      "phonetic" : "brɒɪl",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "broil"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（适于烤焙的）嫩鸡；烘烤用具（烤箱；烤炉等）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "broil（烘；烤）+ -er（名词后缀）→与烘烤有关的东西→烘烤工具；",
+      "phonetic" : "ˈbrɔɪlə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "broiler"
+    },
+    {
+      "collocations" : [
+        "be embroiled in a dispute with：卷入与……的纠纷之中"
+      ],
+      "definition" : "使卷入（纠纷）；使陷入（困境）；使纠缠于",
+      "examples" : [
+
+      ],
+      "frequency" : 16149,
+      "mnemonic" : "em-（使）+ -broil（烤；焙）→原指各种原料炖成一锅→引申义为卷",
+      "phonetic" : "ɪmˈbrɒɪl",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "embroil"
+    },
+    {
+      "collocations" : [
+        "a fervent admirer \/ believer \/ supporter：热诚的仰慕者；虔诚的信徒；"
+      ],
+      "definition" : "热情的；热诚的；热烈的；虔诚的",
+      "examples" : [
+
+      ],
+      "frequency" : 14648,
+      "mnemonic" : "ferv-（=to boil, glow：煮沸；发热）+ -ent（形容词后缀）→沸腾的，",
+      "phonetic" : "ˈfɜːvənt",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fervent"
+    },
+    {
+      "collocations" : [
+        "fervently wish：热烈地希望"
+      ],
+      "definition" : "热烈地；热切地；虔诚地",
+      "examples" : [
+
+      ],
+      "frequency" : 16932,
+      "mnemonic" : "fervent（热烈的；热切的；虔诚的）+ -ly（副词后缀）→热烈地；热",
+      "phonetic" : "ˈfə:vəntli",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "fervently"
+    },
+    {
+      "collocations" : [
+        "build fighting fervor：推高好战的热烈情绪"
+      ],
+      "definition" : "热情；热烈；炽热；热心",
+      "examples" : [
+
+      ],
+      "frequency" : 11323,
+      "mnemonic" : "ferv-（=to boil, be hot：沸腾；热的）+ -or（名词后缀）→热情；热",
+      "phonetic" : "ˈfɜːvə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fervor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "&vt. （使）发酵；（感情等）迸发，激动 n.（政治或社",
+      "etymology" : "直接来自拉丁语fermentare “to leaven, cause to rise or ferment，使发酵” 。",
+      "examples" : [
+        "Red wine is fermented at a higher temperature than white."
+      ],
+      "mnemonic" : "ferment=brew：酿造；酝酿（动乱等）→（使）发酵；（政治或社会",
+      "phonetic" : "fəˈment",
+      "pos" : "vi",
+      "rootHint" : "stinct",
+      "word" : "ferment"
+    },
+    {
+      "collocations" : [
+        "avoid the appearance of bias：避免表现出偏见"
+      ],
+      "definition" : "偏见 vt. （影响某人）使偏心；使产生偏见",
+      "examples" : [
+
+      ],
+      "frequency" : 3962,
+      "mnemonic" : "bias（=bent=bend：倾斜，弯向）→倾斜，偏见；倾斜的",
+      "phonetic" : "ˈbaɪəs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bias"
+    },
+    {
+      "collocations" : [
+        "a bit biased against women：对妇女有点偏见"
+      ],
+      "definition" : "有偏见的；偏重于……的",
+      "examples" : [
+        "University funding was tremendously biased toward scientists."
+      ],
+      "frequency" : 11001,
+      "phonetic" : "ˈbaɪəst",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "biased"
+    },
+    {
+      "collocations" : [
+        "unbiased advice：客观的忠告"
+      ],
+      "definition" : "无偏见的；公正的",
+      "etymology" : "“to free from bias,” 1708, 来自un-（=reverse, opposite of：表相反）+ bias (v.)。",
+      "examples" : [
+
+      ],
+      "frequency" : 16471,
+      "phonetic" : "ʌnˈbaɪəst",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "unbiased"
+    },
+    {
+      "collocations" : [
+        "be off the hook：摆脱（即：脱钩）"
+      ],
+      "definition" : "钩；钓钩；挂钩；鱼钩 vi.&vt.（使）钩住；挂住",
+      "examples" : [
+        "We hooked the trailer to the back of the car."
+      ],
+      "frequency" : 3829,
+      "mnemonic" : "hook（=bent：弯曲）→弯曲的物体→钩，钩状物；钩住",
+      "phonetic" : "hʊk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hook"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（用钩子渔线取代渔网的）商业渔船；妓女；诱饵",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hook（钩）+ -er（表人或物）→妓女（总是主动地挽住顾客的手臂，",
+      "phonetic" : "ˈhʊkə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "hooker"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "从钩子上取下；解开（衣物等）的钩子",
+      "examples" : [
+        "He unhooked his coat from the door."
+      ],
+      "frequency" : 19917,
+      "mnemonic" : "un-（表相反）+hook（钩子）→从钩子上取下；解开钩子",
+      "phonetic" : "ʌnˈhʊk",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "unhook"
+    },
+    {
+      "collocations" : [
+        "Bay Area：海湾地区"
+      ],
+      "definition" : "（海或湖的）湾 n. 低沉的狗吠声 vi. （尤指捕猎时）发出长嗥，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "bay（=bend=bent：弯）→（特指海或湖泊的）湾",
+      "phonetic" : "beɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（美国南部水流缓慢、多水草的）河道支流",
+      "examples" : [
+
+      ],
+      "frequency" : 19078,
+      "mnemonic" : "bay：海湾→bayou：河道直流",
+      "phonetic" : "ˈbaɪuː",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "bayou"
+    },
+    {
+      "collocations" : [
+        "movie fans：电影迷"
+      ],
+      "definition" : "迷，狂热爱好（仰慕）者；风扇；扇子 vt. 扇（风）；扇，吹",
+      "etymology" : "来自拉丁语vannus, 也许与ventus“wind：风”有关。后来辅音-v-变 为-f-。",
+      "examples" : [
+        "Fanned by a westerly wind, the fire spread rapidly through the city."
+      ],
+      "phonetic" : "fæn",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "fan"
+    },
+    {
+      "collocations" : [
+        "football fanatics：足球迷"
+      ],
+      "definition" : "狂热分子；入迷者 adj. 狂热的",
+      "etymology" : "Fanatic原本是一个宗教术语，指的是“狂热、盲信的宗教信徒”。源 自fanum（寺庙、神龛），是fanum的形容词，字面意思就是“与寺 庙有关的”，从而引申出“神灵附体的，狂热的”之意。现在fanatic 一词的宗教色彩已经消失，可以用来表示对任何事物狂热、盲信 的人。",
+      "examples" : [
+
+      ],
+      "frequency" : 11065,
+      "phonetic" : "fəˈnætɪk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fanatic"
+    },
+    {
+      "collocations" : [
+        "a fanatical supporter：狂热的支持者"
+      ],
+      "definition" : "狂热的；痴迷的；成癖的",
+      "examples" : [
+        "She’s fanatical about healthy eating."
+      ],
+      "frequency" : 16835,
+      "mnemonic" : "fanatic（狂热分子；入迷的）+ -al（形容词后缀）→狂热的；痴迷",
+      "phonetic" : "fəˈnætɪkl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fanatical"
+    },
+    {
+      "collocations" : [
+        "religious fanaticism：宗教狂热"
+      ],
+      "definition" : "（尤指宗教、政治上的）狂热；入迷",
+      "examples" : [
+
+      ],
+      "frequency" : 19928,
+      "mnemonic" : "fanatic（狂热的；痴迷的）+-ism（表主义、宗教）→狂热；入迷",
+      "phonetic" : "fəˈnætɪsɪzəm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fanaticism"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "深深吸引；迷住；使着迷",
+      "etymology" : "古罗马的一个著名神祗的形象。这个神祗在拉丁语中叫做“法瑟勒 斯”（Fascinus），他实际上是男性生殖器的化身，古罗马人把法瑟 勒斯当作保护神，认为他能够辟邪驱鬼。除了能辟邪驱鬼外，古罗马 人还相信这种护身符具有神奇的魔力，其中一种就是能够催眠他人。 因此使用fascinus来催眠他人就叫做fascinare，字面意思就是“施展法 瑟勒斯的魔力”。让人fascinate“深深吸引，为之着迷”的人或事物 一般都具有“魔法般的催眠效果”。 邪解：fasc-（=fans：粉丝）+ -inate（=-ine + -ate：复合动词后缀：使）→使 成为某人粉丝→深深吸引；使着迷 例句：China has always fascinated me. 中国一直深深吸引我。 The private lives of movie stars never fail to fascinate. 电影明星的私生活总是让人着迷。",
+      "examples" : [
+
+      ],
+      "frequency" : 5917,
+      "phonetic" : "ˈfæsɪneɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "fascinate"
+    },
+    {
+      "collocations" : [
+        "the most fascinating place：最迷人的地方"
+      ],
+      "definition" : "极有吸引力的；迷人的",
+      "examples" : [
+
+      ],
+      "frequency" : 4246,
+      "mnemonic" : "fascinate（深深吸引；迷住）+ -ing（形容词后缀）→极有吸引力的；",
+      "phonetic" : "ˈfæsɪneɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fascinating"
+    },
+    {
+      "collocations" : [
+        "fascination with sth.：对……很着迷"
+      ],
+      "definition" : "极大的吸引力；着迷",
+      "examples" : [
+        "Water holds a fascination for most children."
+      ],
+      "frequency" : 6786,
+      "mnemonic" : "fascinate（深深吸引；使着迷）+ -ion（名词后缀）→极大的吸引力；",
+      "phonetic" : "ˌfæsɪˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fascination"
+    },
+    {
+      "collocations" : [
+        "be fascinated with：对……很着迷"
+      ],
+      "definition" : "着迷的；被深深吸引的；极感兴趣的",
+      "examples" : [
+        "The children watched, fascinated, as the picture began to appear."
+      ],
+      "frequency" : 19188,
+      "phonetic" : "ˈfæsɪneɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "fascinated"
+    },
+    {
+      "collocations" : [
+        "the rise of fascism in the 1930s：20世纪30年代法西斯主义的兴起"
+      ],
+      "definition" : "法西斯主义",
+      "examples" : [
+
+      ],
+      "frequency" : 13792,
+      "mnemonic" : "fasc-（=fan：煽起；=fascinate：狂热）+ -ism（表主义）→对个人迷",
+      "phonetic" : "ˈfæʃɪzəm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fascism"
+    },
+    {
+      "collocations" : [
+        "fascist organizations：法西斯组织"
+      ],
+      "definition" : "法西斯分子 adj. 法西斯主义的",
+      "examples" : [
+
+      ],
+      "frequency" : 13356,
+      "mnemonic" : "fasc-（法西斯） + -ist（主义者；主义的）→法西斯分子；法西斯主义的",
+      "phonetic" : "ˈfæʃɪst",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "fascist"
+    },
+    {
+      "collocations" : [
+        "work smoothly：平稳运行"
+      ],
+      "definition" : "光滑的；顺利的；平稳的；流畅的 vt. 使平整",
+      "etymology" : "Old English smoð “smooth, serene, calm,” variant of smeðe “free from roughness, not harsh, polished; soft; suave; agreeable,” of unknown origin and with no known cognates. Of words, looks, “pleasant, polite, sincere” late 14c., but later “flattering, insinuating” (mid-15c.). 20000 词汇巅峰 速 记 趣记：sm-+oo（想象两个轮子在平滑的地面滚动）+-th→光滑的；顺利的； 平稳的；流畅的",
+      "examples" : [
+
+      ],
+      "frequency" : 2444,
+      "phonetic" : "smuːð",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "smooth"
+    },
+    {
+      "collocations" : [
+        "running smoothly：平稳运转"
+      ],
+      "definition" : "平稳地；顺利地",
+      "examples" : [
+        "The interview went smoothly."
+      ],
+      "frequency" : 6257,
+      "phonetic" : "ˈsmuːðlɪ",
+      "pos" : "adv.",
+      "rootHint" : "stinct",
+      "word" : "smoothly"
+    },
+    {
+      "collocations" : [
+        "the smoothness of traffic：交通的顺畅"
+      ],
+      "definition" : "光滑；平滑；柔滑；顺畅",
+      "examples" : [
+
+      ],
+      "frequency" : 19433,
+      "mnemonic" : "smooth（光滑的；顺利的；平稳的）+ -ness（名词后缀）→光滑；平",
+      "phonetic" : "ˈsmuːðnəs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "smoothness"
+    },
+    {
+      "collocations" : [
+        "a slick performance：华而不实的演出"
+      ],
+      "definition" : "华而不实的；油滑的，花言巧语的；娴熟的，灵巧的；滑的",
+      "etymology" : "来自原始日耳曼语词根sleig-=to smooth：变平整，slick=to smooth， 表示“滑的”，引申义为“华而不实的；油滑的；灵巧的”等含义。",
+      "examples" : [
+        "The roads were slick with rain."
+      ],
+      "phonetic" : "slɪk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "slick"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（长且宽松的）防水雨衣",
+      "examples" : [
+
+      ],
+      "frequency" : 19692,
+      "mnemonic" : "slick（一小片湿而亮的地方→想到雨水）+ -er（表示物）→ waterproof",
+      "phonetic" : "ˈslɪkə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slicker"
+    },
+    {
+      "collocations" : [
+        "sleek black hair：乌黑光滑的头发"
+      ],
+      "definition" : "光滑的；线条流畅的，造型优美的；时髦的（阔气的人一",
+      "examples" : [
+        "His glossy hair was sleeked back over his ears."
+      ],
+      "mnemonic" : "sleek=slick：滑的→光滑的；线条流畅的；时髦的；使……发油光，",
+      "phonetic" : "sliːk",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "sleek"
+    },
+    {
+      "collocations" : [
+        "be bombed into oblivion：被彻底炸毁"
+      ],
+      "definition" : "沉睡，神志不清；被遗忘，湮没；被彻底摧毁，被夷",
+      "etymology" : "Late 14c., oblivioun, “state or fact of forgetting, forgetfulness, loss of memory,” from Old French oblivion (13c.) Perhaps originally “even out, smooth over, efface,” from ob “over” (see ob-) + root of levis “smooth,” also “rubbed smooth, ground down,” from PIE *lei-w-, from root *(s)lei- “slime, slimy, sticky”.",
+      "examples" : [
+        "He often drinks himself into oblivion."
+      ],
+      "mnemonic" : "ob-（=over）+ -liv-（=smooth：变平）+ -ion（名词后缀）→smooth",
+      "phonetic" : "əˈblɪviən",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "oblivion"
+    },
+    {
+      "collocations" : [
+        "oblivious of the damage：没有注意到损害"
+      ],
+      "definition" : "没意识到的；没有注意的；未察觉的",
+      "examples" : [
+        "She lay motionless where she was, oblivious to pain."
+      ],
+      "frequency" : 8589,
+      "mnemonic" : "oblivi（=oblivion=forgetful：不注意的；不留心的）+ -ous（形容词后",
+      "phonetic" : "əˈblɪvɪəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "oblivious"
+    },
+    {
+      "collocations" : [
+        "spoil the natural beauty：破坏自然美景"
+      ],
+      "definition" : "破坏；娇惯，宠坏；犒劳，优待 vt.&vi. （食物）变坏 n. 战",
+      "examples" : [
+
+      ],
+      "phonetic" : "spɒɪl",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "spoil"
+    },
+    {
+      "collocations" : [
+        "spoiled kid：被宠坏的孩子"
+      ],
+      "definition" : "被宠坏的；变质的",
+      "examples" : [
+
+      ],
+      "frequency" : 15617,
+      "mnemonic" : "spoil（宠坏；食物变坏）+ -ed（形容词后缀）→被宠坏的；变质的",
+      "phonetic" : "spɔɪld",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "spoiled"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "赃物；战利品（spoil的复数）",
+      "examples" : [
+
+      ],
+      "frequency" : 16158,
+      "phonetic" : "spɔɪlz",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "spoils"
+    },
+    {
+      "collocations" : [
+        "oil spill：石油泄漏"
+      ],
+      "definition" : "（使）洒出，溢出 vi. 涌出；蜂拥而出 n. 洒，泼，溢；泄露",
+      "etymology" : "来自古英语spillan “destroy, mutilate, kill”, 后来也有“to waste”的含义。 “let (liquid) fall or run out and become wasted” 出现在14世纪中期。",
+      "examples" : [
+        "The doors opened and people spilled into the street."
+      ],
+      "mnemonic" : "spill与spoil一样都有“destroy：破坏”的含义→洒出，溢出，泄露",
+      "phonetic" : "spɪl",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "spill"
+    },
+    {
+      "collocations" : [
+        "spilled food：弄洒的食物"
+      ],
+      "definition" : "弄洒了的；溢出来的；泄露的",
+      "examples" : [
+
+      ],
+      "frequency" : 17810,
+      "phonetic" : "spɪld",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "spilled"
+    },
+    {
+      "collocations" : [
+        "glide over the ice：在冰上滑行"
+      ],
+      "definition" : "滑行；（鸟或飞机）滑翔，翱翔 n. 滑行；滑翔",
+      "etymology" : "来自古英语glidan “move along smoothly and easily; glide away, vanish; slip, slide” , 来自原始日耳曼语*glidan “to glide”, probably part of the large group of Germanic words in gl- involving notions of “smooth; shining; joyful” . 释义：move along smoothly and easily.",
+      "examples" : [
+        "An eagle was gliding high overhead."
+      ],
+      "frequency" : 7204,
+      "phonetic" : "glaɪd",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "glide"
+    },
+    {
+      "collocations" : [
+        "an efficient glider：一个快速滑行物"
+      ],
+      "definition" : "滑翔机；滑行物",
+      "examples" : [
+
+      ],
+      "frequency" : 17128,
+      "phonetic" : "ˈglaɪdə",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "glider"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "偷偷摸摸地走；溜走",
+      "examples" : [
+        "John was trying to slink into the house by the back door."
+      ],
+      "frequency" : 17345,
+      "mnemonic" : "slink=glide：使滑行；使移动→偷偷摸摸地走；溜走",
+      "phonetic" : "slɪŋk",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "slink"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "&vt. （使车辆）突然转向，急转 n. 大量；许多（slew of sth.）",
+      "etymology" : "Proto-Indo-European root meaning “to slide, slip.” It is the hypothetical source of \/ evidence for its existence is provided by: Latin lubricus “slippery, slimy, smooth,” lubricare “make slippery or smooth;” Middle Dutch slupen “to glide;” Gothic sliupan “to creep, slide;” Old English slyppe “dung.”",
+      "examples" : [
+        "The car skidded and slewed sideways."
+      ],
+      "mnemonic" : "slew=to glide：滑行→突然转向的时候会滑行→to turn, swing, twist：",
+      "phonetic" : "sluː",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "slew"
+    },
+    {
+      "collocations" : [
+        "slide the door open：把门滑开"
+      ],
+      "definition" : "&vi. 使滑动；下跌 vi. 悄悄地溜到；不知不觉地陷入（某种情",
+      "etymology" : "Old English slidan “to glide, slip, fall, fall down;” figuratively “fail, lapse morally, err; be transitory or unstable,” from Proto-Germanic *slidan “to slip, slide”.",
+      "examples" : [
+
+      ],
+      "phonetic" : "slaɪd",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "slide"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "滑杆，滑动器；滚动条滑块",
+      "examples" : [
+
+      ],
+      "frequency" : 15808,
+      "mnemonic" : "slide（滑动）+ -er（名词后缀，表物）→滑杆，滑动器；滚动条滑块",
+      "phonetic" : "ˈslaɪdə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slider"
+    },
+    {
+      "collocations" : [
+        "sliding surface：滑动面"
+      ],
+      "definition" : "滑动的",
+      "examples" : [
+
+      ],
+      "frequency" : 9412,
+      "mnemonic" : "slide（滑动）+ -ing（形容词后缀）→滑动的",
+      "phonetic" : "ˈslaɪdɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "sliding"
+    },
+    {
+      "collocations" : [
+        "a landslide victory：压倒性优势的选举胜利"
+      ],
+      "definition" : "（山坡或悬崖的）滑坡，山崩；（选举中）压倒性",
+      "examples" : [
+        "She was expected to win by a landslide."
+      ],
+      "mnemonic" : "land（土地）+ slide（滑落）→土地滑落→滑坡；山崩→比喻压倒性",
+      "phonetic" : "ˈlændslaɪd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "landslide"
+    },
+    {
+      "collocations" : [
+        "slip over on the ice：在冰上滑倒"
+      ],
+      "definition" : "滑倒，滑跤；滑落；溜；陷入，进入（困难或不愉快的处境）",
+      "examples" : [
+        "1）How did we let primary care slip so far?"
+      ],
+      "mnemonic" : "slip（=slide=glide：滑）→滑倒；滑落",
+      "phonetic" : "slɪp",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "slip"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "小故障；小差错",
+      "examples" : [
+        "Manufacturing glitches have limited the factory’s output."
+      ],
+      "frequency" : 13025,
+      "mnemonic" : "glitch=a slip：差错；纰漏→小故障；小差错",
+      "phonetic" : "glɪtʃ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "glitch"
+    },
+    {
+      "collocations" : [
+        "slippery like a fish：滑得像条鱼似的"
+      ],
+      "definition" : "滑的；滑得抓不住（或站不稳、难以行走）的；油滑",
+      "examples" : [
+
+      ],
+      "mnemonic" : "slip（滑倒，双写p）+ -ery（形容词后缀）→引申比喻义滑的；油滑的",
+      "phonetic" : "ˈslɪpəri",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "slippery"
+    },
+    {
+      "collocations" : [
+        "a pair of slippers：一双拖鞋"
+      ],
+      "definition" : "室内便鞋；拖鞋",
+      "examples" : [
+
+      ],
+      "frequency" : 8970,
+      "mnemonic" : "slip（滑动，双写p）+ -er（表物）→用于指室内便鞋；拖鞋",
+      "phonetic" : "ˈslɪpə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slipper"
+    },
+    {
+      "collocations" : [
+        "a grassy slope：长满草的斜坡"
+      ],
+      "definition" : "斜坡；山坡；坡度 vi. 倾斜；悄悄地走，潜行，溜",
+      "examples" : [
+        "They got bored waiting for him and sloped off."
+      ],
+      "frequency" : 3463,
+      "mnemonic" : "slope=to slip：滑动；滑倒；倾斜→斜坡；坡度；倾斜，溜",
+      "phonetic" : "sləʊp",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slope"
+    },
+    {
+      "collocations" : [
+        "sloping walls：倾斜的墙"
+      ],
+      "definition" : "倾斜的；有坡度的",
+      "examples" : [
+
+      ],
+      "frequency" : 14202,
+      "phonetic" : "ˈslopɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "sloping"
+    },
+    {
+      "collocations" : [
+        "a dress with short \/ long sleeves：短袖 \/ 长袖连衣裙"
+      ],
+      "definition" : "袖子；有……袖子的（-sleeved）；",
+      "examples" : [
+
+      ],
+      "frequency" : 4616,
+      "phonetic" : "sliːv",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "sleeve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无袖的",
+      "examples" : [
+        "She wore a sleeveless silk dress."
+      ],
+      "frequency" : 18959,
+      "mnemonic" : "sleeve（袖子）+-less（没有……的）→无袖的",
+      "phonetic" : "ˈsliːvləs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "sleeveless"
+    },
+    {
+      "collocations" : [
+        "keep your eyes lubricated：保持你的眼睛润滑"
+      ],
+      "definition" : "使润滑",
+      "examples" : [
+
+      ],
+      "mnemonic" : "lub-（=slip：滑；s表加强语气）+ r + -icate（=-ic+-ate：复合使动词",
+      "phonetic" : "ˈluːbrɪkeɪt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "lubricate"
+    },
+    {
+      "collocations" : [
+        "industrial lubricants：工业用润滑剂"
+      ],
+      "definition" : "（尤指机械用的）润滑剂，润滑油；（比喻有利于",
+      "examples" : [
+        "I think humor is a great lubricant for life."
+      ],
+      "mnemonic" : "lubric（=lubricate：使润滑）+ -ant（名词后缀）→起润滑作用的东西",
+      "phonetic" : "ˈluːbrɪkənt",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "lubricant"
+    },
+    {
+      "collocations" : [
+        "a slim figure \/ body \/ waist：苗条的体形 \/ 身材；纤细的腰肢"
+      ],
+      "definition" : "苗条的；纤细的；单薄的；（机会或可能性）微小的 vt. 缩",
+      "etymology" : "1650s, “thin, slight, slender,” from Dutch slim “bad, sly, clever”.",
+      "examples" : [
+        "You can still eat breakfast when you are slimming."
+      ],
+      "mnemonic" : "辅音丛sl-：黏的，滑的，光滑的→引申义苗条的，纤细的，单薄的，",
+      "phonetic" : "slɪm",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "slim"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "污浊的泥浆；（令人不快的）黏液",
+      "examples" : [
+        "He swam down and retrieved his glasses from the muck and slime at the"
+      ],
+      "frequency" : 16383,
+      "mnemonic" : "slim：污泥，淤泥",
+      "phonetic" : "slaɪm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slime"
+    },
+    {
+      "collocations" : [
+        "thick slimy mud：黏稠的污泥"
+      ],
+      "definition" : "覆盖着污泥的；粘有黏液的，黏糊糊的",
+      "examples" : [
+        "His feet slipped in the slimy mud."
+      ],
+      "frequency" : 15830,
+      "mnemonic" : "slime（污泥，泥浆；黏液）+ -y（形容词后缀）→似泥浆的；黏的",
+      "phonetic" : "ˈslaɪmɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "slimy"
+    },
+    {
+      "collocations" : [
+        "lime juice：酸橙汁"
+      ],
+      "definition" : "石灰；酸橙 vt.（尤指为控制酸度而给土壤）掺加石灰，撒石",
+      "examples" : [
+        "If your soil is very acidic, add lime."
+      ],
+      "mnemonic" : "lim-（黏性的物质）+ -e→石灰；掺加石灰",
+      "phonetic" : "laɪm",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "lime"
+    },
+    {
+      "collocations" : [
+        "high limestone cliffs：高耸的石灰岩峭壁"
+      ],
+      "definition" : "石灰岩",
+      "examples" : [
+
+      ],
+      "frequency" : 9409,
+      "mnemonic" : "lime（石灰）+ stone（岩石）→石灰岩",
+      "phonetic" : "ˈlaɪmstəʊn",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "limestone"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "淤泥；泥浆",
+      "etymology" : "Late 14c., mudde, “moist, soft earth,” cognate with and probably from Middle Low German mudde, Middle Dutch modde “thick mud,” from Proto-Germanic *mud- from PIE *(s)meu- \/ *mu- [Buck], found in many words denoting “wet” or “dirty” .",
+      "examples" : [
+        "Your boots are covered in mud."
+      ],
+      "frequency" : 3644,
+      "mnemonic" : "mud=slime：淤泥；泥浆",
+      "phonetic" : "mʌd",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "mud"
+    },
+    {
+      "collocations" : [
+        "a muddy track：一条泥泞的小路"
+      ],
+      "definition" : "泥泞的；含泥的，浑浊的 vt. 使沾上泥巴；搅乱（局",
+      "examples" : [
+
+      ],
+      "mnemonic" : "mud（泥，双写d）+ -y（形容词后缀）→泥泞的；含泥的；使沾上泥",
+      "phonetic" : "ˈmʌdɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "muddy"
+    },
+    {
+      "collocations" : [
+        "muddle my papers：弄乱我的文件"
+      ],
+      "definition" : "弄乱，搅混；使糊涂；混淆，搞混，分不清",
+      "examples" : [
+
+      ],
+      "frequency" : 19860,
+      "mnemonic" : "mud（泥浆，双写d）+ -le（动词后缀，表反复）→反复搅动泥浆→",
+      "phonetic" : "ˈmʌdl",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "muddle"
+    },
+    {
+      "collocations" : [
+        "get them muddled up：把他们给搞混了"
+      ],
+      "definition" : "糊涂的；困惑的；混乱的",
+      "examples" : [
+        "I know that I am getting my words muddled up."
+      ],
+      "frequency" : 20140,
+      "phonetic" : "ˈmʌdld",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "muddled"
+    },
+    {
+      "collocations" : [
+        "to spread muck on the fields：将粪肥撒到地里"
+      ],
+      "definition" : "（牲畜的）粪便，粪肥；脏东西，泥浆，淤泥",
+      "examples" : [
+        "Can you wipe the muck off the windows?"
+      ],
+      "frequency" : 13647,
+      "mnemonic" : "来自古日耳曼语muk-, *meuk- “soft：软的” →（动物）粪便；泥浆，",
+      "phonetic" : "mʌk",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "muck"
+    },
+    {
+      "collocations" : [
+        "the thin layer of mucus：那层薄薄的黏液"
+      ],
+      "definition" : "（身体分泌的）黏液；鼻涕",
+      "etymology" : "“viscid fluid secreted by the mucous membranes of animals,” 1660s (replacing Middle English mucilage), from Latin mucus “slime, mold, mucus of the nose, snot,” from PIE root *meug- “slippery, slimy”.",
+      "examples" : [
+
+      ],
+      "frequency" : 8674,
+      "mnemonic" : "mucus=slime：（动物体表分泌的）黏液",
+      "phonetic" : "ˈmjuːkəs",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "mucus"
+    },
+    {
+      "collocations" : [
+        "warm moist air：温暖潮湿的空气"
+      ],
+      "definition" : "潮湿的；湿润的",
+      "examples" : [
+        "Her eyes were moist (= with tears)."
+      ],
+      "frequency" : 6643,
+      "mnemonic" : "moist=wet：湿润的；潮湿的",
+      "phonetic" : "mɒɪst",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "moist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（使）潮湿，湿润",
+      "examples" : [
+        "She took a sip of water to moisten her dry throat."
+      ],
+      "frequency" : 15687,
+      "mnemonic" : "moist（潮湿的）+ -en（动词后缀）→使潮湿；使湿润",
+      "phonetic" : "ˈmɒɪsn",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "moisten"
+    },
+    {
+      "collocations" : [
+        "the skin’s natural moisture：皮肤的天然水分"
+      ],
+      "definition" : "潮气；水分",
+      "examples" : [
+
+      ],
+      "frequency" : 5517,
+      "mnemonic" : "moist（潮湿的）+ -ure（名词后缀）→潮湿；水分",
+      "phonetic" : "ˈmɔɪstʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "moisture"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "润肤霜；保湿霜",
+      "examples" : [
+
+      ],
+      "frequency" : 15801,
+      "mnemonic" : "moistur（=moisture：水分）+ -ize（使动词后缀）+ -r（名词后缀）→",
+      "phonetic" : "ˈmɔɪstʃəraɪzə(r)",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "moisturizer"
+    },
+    {
+      "collocations" : [
+        "delete from the list：从名单上删掉"
+      ],
+      "definition" : "删去；删除",
+      "etymology" : "“destroy, eradicate,” 1530s, from Latin deletus, past participle of delere “destroy, blot out, efface,” from delevi, originally perfective tense of delinere “to daub, erase by smudging”. from PIE root *(s)lei- “slime, slimy, sticky”. 原义为通过涂抹污泥的方式擦除、弄模糊。",
+      "examples" : [
+
+      ],
+      "frequency" : 8204,
+      "mnemonic" : "de-（=away：离开）+ -let（=slime：污泥）+ -e→通过涂抹污泥使离",
+      "phonetic" : "dɪˈliːt",
+      "pos" : "vt.",
+      "rootHint" : "stinct",
+      "word" : "delete"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有害的；损害的",
+      "examples" : [
+        "Petty crime is having a deleterious effect on community life."
+      ],
+      "frequency" : 18385,
+      "mnemonic" : "deleter（=injure, hurt：伤害）+ -ious（形容词后缀）→造成伤害的→",
+      "phonetic" : "ˌdeləˈtɪəriəs",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "deleterious"
+    },
+    {
+      "collocations" : [
+        "indelible ink：擦不掉的墨水"
+      ],
+      "definition" : "难以忘怀的，不可磨灭的；（墨水、钢笔等）无法",
+      "examples" : [
+        "The experience made an indelible impression on me."
+      ],
+      "mnemonic" : "in-（不；非）+ -del-（=delete：破坏；完全消除）+ -ible（能……",
+      "phonetic" : "ɪnˈdelɪbəl",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "indelible"
+    },
+    {
+      "collocations" : [
+        "slither down the bank：滑下河岸"
+      ],
+      "definition" : "（蛇等）蜿蜒地滑行，爬行；（因地面陡峭或湿滑等）",
+      "examples" : [
+        "The snake slithered into the water."
+      ],
+      "mnemonic" : "slith-（=to slide, slip：滑动）+ -er（表反复）→蜿蜒滑行；跌跌撞撞",
+      "phonetic" : "ˈslɪðə(r)",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "slither"
+    },
+    {
+      "collocations" : [
+        "a sleigh ride：乘雪橇"
+      ],
+      "definition" : "（通常由马拉的）雪橇",
+      "examples" : [
+
+      ],
+      "frequency" : 17423,
+      "mnemonic" : "sleigh=sled=slide：滑行→在雪地上滑行的工具→雪橇",
+      "phonetic" : "sleɪ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "sleigh"
+    },
+    {
+      "collocations" : [
+        "a sloppy worker：干活马虎的工人"
+      ],
+      "definition" : "马虎的，草率的；肥大而难看的",
+      "examples" : [
+
+      ],
+      "frequency" : 9687,
+      "mnemonic" : "slop（泥浆，双写p） + -y（形容词后缀）→引申比喻义马虎的，草率的",
+      "phonetic" : "ˈslɒpɪ",
+      "pos" : "adj.",
+      "rootHint" : "stinct",
+      "word" : "sloppy"
+    },
+    {
+      "collocations" : [
+        "She sloshed coffee into the mugs."
+      ],
+      "definition" : "哗啦哗啦地晃荡，撒出；（在水或泥里）扑哧扑哧地走 vt. 使",
+      "examples" : [
+        "The water was sloshing around under our feet."
+      ],
+      "phonetic" : "slɒʃ",
+      "pos" : "vi.",
+      "rootHint" : "stinct",
+      "word" : "slosh"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "融雪；雪泥",
+      "examples" : [
+        "In the city the clean white snow had turned to grey slush."
+      ],
+      "frequency" : 19287,
+      "mnemonic" : "slus-（=sleet：下雨夹雪）+ h→引申词义融雪；雪泥",
+      "phonetic" : "slʌʃ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "slush"
+    },
+    {
+      "collocations" : [
+        "the use of sewage sludge as a fertilizer on farm land：把下水道污泥用作"
+      ],
+      "definition" : "烂泥，淤泥；工业淤渣，生活污物",
+      "examples" : [
+
+      ],
+      "frequency" : 12252,
+      "mnemonic" : "sludge=mud",
+      "phonetic" : "ˈslʌdʒ",
+      "pos" : "n.",
+      "rootHint" : "stinct",
+      "word" : "sludge"
+    }
+  ]
+}

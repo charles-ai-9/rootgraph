@@ -1,0 +1,201 @@
+{
+  "chapter" : "2",
+  "chapterOrder" : 102,
+  "id" : "pend",
+  "meaningEn" : "weigh",
+  "meaningZh" : "称重，进而引申为权衡",
+  "roots" : [
+    "pend",
+    "pond",
+    "liber 都"
+  ],
+  "semanticLabel" : "称重，进而引申为权衡",
+  "source" : "textbook-8",
+  "titleZh" : "称重，进而引申为权衡",
+  "words" : [
+    {
+      "collocations" : [
+        "weigh nearly 27 kilos：重量接近27公斤",
+        "weigh items such as parcels：称量包裹等物品",
+        "weigh her option：权衡她的选择"
+      ],
+      "definition" : "重量为；称量；权衡，斟酌；（对看法或结果）有影响，有",
+      "examples" : [
+        "His past record weighs heavily against him.\n他过去的记录对他有很不好的影响。\nThe ability to follow parent guidelines, the child’s level of comfort\nin handling such situations, and a child’s general judgment should be\nweighed.\n理解父母要求的能力，孩子在应对这种情况时得心应手的程度以及孩\n子的一般判断力都是应该被权衡。",
+        "为了使经济实现可持续发展，我们必须权衡好经济发展和节约资\n源的关系。\nIn order to achieve a sustainable economic development, we have\nto balance \/ weigh between economic development and resource\nconservation."
+      ],
+      "mnemonic" : "由单词“weight：重量”→“weigh：称重，权衡”（“权衡”就是",
+      "phonetic" : "weɪ",
+      "pos" : "vt.",
+      "rootHint" : "pend",
+      "word" : "weigh"
+    },
+    {
+      "collocations" : [
+        "lift weights：举重",
+        "put on \/ gain \/ lose weight：增加 \/ 减轻重量（增肥 \/ 减肥）"
+      ],
+      "definition" : "重量；体重；重物；重任 vt. 在……上加重量",
+      "etymology" : "来自古英语gewiht “weighing, downward force of a body, heaviness” .",
+      "examples" : [
+        "The pillars have to support the weight of the roof.\n这些立柱必须支撑起屋顶的重量。\nThe full weight of responsibility falls on her.\n全部的重任都落在了她的肩上。\nThe fishing nets are weighted with lead.\n这些渔网是靠铅加增重量而下沉的。"
+      ],
+      "frequency" : 957,
+      "phonetic" : "weɪt",
+      "pos" : "n.",
+      "rootHint" : "pend",
+      "word" : "weight"
+    },
+    {
+      "collocations" : [
+        "weighted towards \/ against sb. \/ sth.：有利（或不利）于",
+        "weighted in favor of sb. \/ sth.：有利（或不利）于"
+      ],
+      "definition" : "有利（或不利）于；侧重于",
+      "examples" : [
+        "The proposal is weighted towards smaller businesses.\n这项提议对小型企业有利。"
+      ],
+      "frequency" : 14683,
+      "mnemonic" : "weight（重量）+ -ed（形容词后缀）→将重量侧向一边的→侧重于；",
+      "phonetic" : "ˈweɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "pend",
+      "word" : "weighted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无重量的；失重的",
+      "examples" : [
+        "Helen described life in a weightless environment during her period in\nspace.\n海伦描述了她身处太空时失重状态下的生活。"
+      ],
+      "frequency" : 18663,
+      "mnemonic" : "weight（重量）+ -less（没有；无）→无重量的；失重的",
+      "phonetic" : "ˈweɪtləs",
+      "pos" : "adj.",
+      "rootHint" : "pend",
+      "word" : "weightless"
+    },
+    {
+      "collocations" : [
+        "a weighty volume：沉重的书卷",
+        "weighty matters：重要的事情"
+      ],
+      "definition" : "重的，沉重的；严重的，重要的",
+      "examples" : [
+
+      ],
+      "frequency" : 14375,
+      "mnemonic" : "weight（重量）+ -y（形容词后缀）→重的；严重的，重要的",
+      "phonetic" : "ˈweɪtɪ",
+      "pos" : "adj.",
+      "rootHint" : "pend",
+      "word" : "weighty"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "仔细考虑；衡量；琢磨",
+      "examples" : [
+        "She pondered over his words.\n她反复琢磨他的话。",
+        "这使得家长去仔细考虑这个问题，在从未有过的如此广泛的可选\n择的艺术课程面前，该如何做出选择。\nThis sets parents pondering the question: how to make a choice when\nthere’s never been such a range of art classes available to their kids."
+      ],
+      "frequency" : 6066,
+      "mnemonic" : "pond-（=weigh：权衡；斟酌）+ -er（动词后缀）→仔细考虑；衡",
+      "phonetic" : "ˈpɒndə",
+      "pos" : "vt.",
+      "rootHint" : "pond",
+      "word" : "ponder"
+    },
+    {
+      "collocations" : [
+        "the strength \/ weakness of the pound (against other currencies)："
+      ],
+      "definition" : "英镑；磅（重量单位，合0.454千克） vt.&vi. 反复击打；连续砰砰地猛击；咚咚地走；（心脏）狂跳，怦怦地跳",
+      "examples" : [
+        "Heavy rain pounded on the roof.\n暴雨连续砰砰地砸在屋顶上。\nHer heart was pounding with excitement.\n她激动得心脏怦怦直跳。"
+      ],
+      "frequency" : 1313,
+      "mnemonic" : "pound（=pond-=weight：重量）→磅（重量单位）；英镑\n趣记：pound：砰砰的响→反复击打；连续砰砰地猛击；咚咚地走；（心",
+      "phonetic" : "paʊnd",
+      "pos" : "n.",
+      "rootHint" : "pend",
+      "word" : "pound"
+    },
+    {
+      "collocations" : [
+        "a pounding at the door：砰砰的敲门声",
+        "a pounding in his head：他的头嗡嗡直响"
+      ],
+      "definition" : "连续的重击声（敲门声；头嗡嗡响等），剧烈的心",
+      "examples" : [
+        "The boat took a pounding in the gale.\n这条船在狂风中严重受损。"
+      ],
+      "mnemonic" : "pound（（遭到）连续砰砰重击）+ -ing（动名词后缀）→连续的重击",
+      "phonetic" : "ˈpaʊndɪŋ",
+      "pos" : "n.",
+      "rootHint" : "pend",
+      "word" : "pounding"
+    },
+    {
+      "collocations" : [
+        "a preponderance of sth.：（数量上）占优势；大多数",
+        "a preponderance of bright, middle-class children：聪慧的中产阶级家庭"
+      ],
+      "definition" : "（数量上的）优势；多数（地位）；主体",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pre-（=before：在先) + ponder（=to weigh：称重）+ -ance（名词后\n缀）→to weigh more than, outweigh：比……重；在数量上超过→（数",
+      "phonetic" : "prɪˈpɒndərəns",
+      "pos" : "n.",
+      "rootHint" : "pond",
+      "word" : "preponderance"
+    },
+    {
+      "collocations" : [
+        "deliberate destruction of property：故意破坏财产",
+        "deliberate over the decision：仔细考虑这个决定"
+      ],
+      "definition" : "故意的；不慌不忙的 vt.&vi. 仔细考虑；深思熟虑",
+      "examples" : [
+        "They deliberated on whether to continue with the talks.\n他们仔细考虑了是否继续谈判的问题。\nShe spoke in a slow and deliberate way.\n她说话慢条斯理不慌不忙。"
+      ],
+      "mnemonic" : "de-（加强语气）+ -liber-（=weigh：称量）+ -ate（动词 \/ 形容词后\n缀）→经过称量过的→深思熟虑；故意的（即：已经“考虑”过结",
+      "phonetic" : "dɪˈlɪbərət",
+      "pos" : "adj.",
+      "rootHint" : "pend",
+      "word" : "deliberate"
+    },
+    {
+      "collocations" : [
+        "deliberately assign him a difficult client：故意分派给他一个很难缠的"
+      ],
+      "definition" : "故意；不慌不忙地",
+      "examples" : [
+        "She’s been deliberately ignoring him all day.\n她故意整天都不理他。"
+      ],
+      "frequency" : 4645,
+      "phonetic" : "dɪˈlɪbərətli",
+      "pos" : "adv.",
+      "rootHint" : "pend",
+      "word" : "deliberately"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "仔细的考虑；审议，商量；（说话或办事）缓",
+      "examples" : [
+        "In this house nothing is there by chance: it is always the result of great\ndeliberation.\n在这房子里，没有什么东西是偶然的——总是非常仔细考虑后的结果。\nThe deliberations of the committee are completely confidential.\n委员会的审议过程是绝对保密的。\nShe signed her name with great deliberation.\n她非常从容审慎地签上了自己的名字。"
+      ],
+      "mnemonic" : "deliberate（仔细考虑；慢慢的，从容谨慎的）+ -ion（名词后缀）→",
+      "phonetic" : "dɪˌlɪbəˈreɪʃn",
+      "pos" : "n.",
+      "rootHint" : "pend",
+      "word" : "deliberation"
+    }
+  ]
+}

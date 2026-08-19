@@ -1,0 +1,170 @@
+{
+  "chapter" : "11",
+  "chapterOrder" : 111,
+  "id" : "11",
+  "meaningEn" : "to drive",
+  "meaningZh" : "推，可以理解为把液体推过滤网",
+  "roots" : [
+
+  ],
+  "semanticLabel" : "推，可以理解为把液体推过滤网",
+  "source" : "textbook-7",
+  "titleZh" : "推，可以理解为把液体推过滤网",
+  "words" : [
+    {
+      "collocations" : [
+        "filter water：把水过滤",
+        "a coffee\/water filter：咖啡过滤器；滤水器"
+      ],
+      "definition" : "过滤；（用程序）筛选 vi. （新闻、信息等）逐渐传开；（光、声）透入，照进 n. 滤器；过滤器",
+      "etymology" : "来自拉丁语filtrum“felt：毛毡”（用于过滤液体中的杂质）。",
+      "examples" : [
+        "Light filtered into my kitchen through the soft, green shade of the honey\nlocust tree.\n光线透过皂荚树柔和的绿荫照进了我的厨房。\nNews of the attack quickly filtered through the college.\n袭击的消息很快就在这所大学传开了。"
+      ],
+      "frequency" : 4419,
+      "phonetic" : "ˈfɪltə",
+      "pos" : "vt.",
+      "word" : "filter"
+    },
+    {
+      "collocations" : [
+        "filtering material：过滤材料"
+      ],
+      "definition" : "&vi. 过滤；逐渐传开；（光、声）透入（filter的现在分",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈfɪltərɪŋ",
+      "pos" : "vt.",
+      "word" : "filtering"
+    },
+    {
+      "collocations" : [
+        "water filtration systems：水过滤系统",
+        "air filtration：空气过滤"
+      ],
+      "definition" : "过滤；滤除",
+      "examples" : [
+
+      ],
+      "frequency" : 16798,
+      "mnemonic" : "filtr（=filter：过滤）+ -ation（名词后缀）→过滤；滤除",
+      "phonetic" : "fɪlˈtreɪʃn",
+      "pos" : "n.",
+      "word" : "filtration"
+    },
+    {
+      "collocations" : [
+        "furniture \/ floor \/ shoe \/ nail polish：家具上光漆；地板蜡；鞋油；指甲油",
+        "polish his glasses：擦拭他的眼镜",
+        "carefully polish the statement：仔细润色这项声明"
+      ],
+      "definition" : "擦光剂；抛光，擦亮；打磨光亮的面；（表演的）完美，",
+      "etymology" : "14世纪早期，polischen “make smooth：使光滑”，来自古法语poliss-, polir (12c.) “to polish, decorate, see to one’s appearance：擦亮；装饰； 注意外表”。来自拉丁语polire “to polish, make smooth; decorate, embellish：抛光；使光滑；装饰”。比喻义为“refine, improve：精炼； 完善；改进；提高” 。",
+      "examples" : [
+        "She played the cello with the polish of a much older musician.\n她所演奏的大提琴很完美，颇有资深音乐家的风格。"
+      ],
+      "phonetic" : "ˈpɒlɪʃ",
+      "pos" : "n.",
+      "word" : "polish"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "波兰（人）的；波兰语的；波兰文化的 n. 波兰语",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈpəʊlɪʃ",
+      "pos" : "adj.",
+      "word" : "Polish"
+    },
+    {
+      "collocations" : [
+        "polished surface：抛光面",
+        "polished glass：抛光玻璃"
+      ],
+      "definition" : "抛光的，擦亮的；优雅的，娴熟的",
+      "examples" : [
+
+      ],
+      "frequency" : 7690,
+      "phonetic" : "ˈpɒlɪʃt",
+      "pos" : "adj.",
+      "word" : "polished"
+    },
+    {
+      "collocations" : [
+        "be polite to our guests：礼貌待客",
+        "polite conversation：礼节性的话",
+        "polite society：上流社会；文雅社会"
+      ],
+      "definition" : "有礼貌的，客气的；礼节性的；上流社会的",
+      "etymology" : "polish（磨光）和polite（有礼貌的）不但整体相似，而且的确同源， 都来自拉丁语polire：使光滑。磨光是对粗糙边角的修饰，礼貌是对 粗陋言行的修饰。",
+      "examples" : [
+
+      ],
+      "frequency" : 5565,
+      "phonetic" : "pəˈlaɪt",
+      "pos" : "adj.",
+      "word" : "polite"
+    },
+    {
+      "collocations" : [
+        "politely request that...：礼貌地请求……"
+      ],
+      "definition" : "有礼貌地",
+      "examples" : [
+
+      ],
+      "frequency" : 7865,
+      "phonetic" : "pəˈlaɪtli",
+      "pos" : "adv.",
+      "word" : "politely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "礼貌；彬彬有礼",
+      "examples" : [
+
+      ],
+      "frequency" : 17542,
+      "mnemonic" : "polite（礼貌的）+ -ness（名词后缀）→礼貌；彬彬有礼",
+      "phonetic" : "pəˈlʌɪtnəs",
+      "pos" : "n.",
+      "word" : "politeness"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "铁砧",
+      "etymology" : "原始日耳曼语ana（on）+ filtan（撞击）→古法语anfilt→anvil",
+      "examples" : [
+
+      ],
+      "frequency" : 18802,
+      "mnemonic" : "an-（on）+ -vil（=to hit：撞击；击打）→在上面敲击的东西→铁砧\n趣味记忆：anvil→谐音“安危”→天天被人撞击，安危得不到保障→铁砧",
+      "phonetic" : "ˈænvɪl",
+      "pos" : "n.",
+      "word" : "anvil"
+    },
+    {
+      "collocations" : [
+        "catapult through windshields：从挡风玻璃后弹射出来"
+      ],
+      "definition" : "&vi. 弹射；使突然处于，使一跃成为 n. 弹弓",
+      "examples" : [
+        "Basic Instinct catapulted her to top status Hollywood.\n《本能》这部电影使她一跃成为好莱坞顶级明星。"
+      ],
+      "frequency" : 17427,
+      "mnemonic" : "cata-（=against：反对）+ -pul（=to toss, hurl：抛，扔，投掷）+ t→\n抛向，扔向，向……投掷→弹射；使一跃成为；弹弓",
+      "phonetic" : "ˈkætəpʌlt",
+      "pos" : "vt.",
+      "word" : "catapult"
+    }
+  ]
+}

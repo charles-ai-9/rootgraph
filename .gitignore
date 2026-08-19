@@ -1,0 +1,13 @@
+.DS_Store
+*.swp
+*.log
+
+web/node_modules/
+web/dist/
+
+# Swift build artifacts
+.build/
+*.xcodeproj/xcuserdata/
+
+# Local parse scratch
+/tmp/

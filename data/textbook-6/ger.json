@@ -1,0 +1,30 @@
+{
+  "chapter" : "36",
+  "chapterOrder" : 136,
+  "id" : "ger",
+  "meaningEn" : "hand",
+  "meaningZh" : "手",
+  "roots" : [
+    "ger"
+  ],
+  "semanticLabel" : "hand",
+  "source" : "textbook-6",
+  "titleZh" : "hand",
+  "words" : [
+    {
+      "collocations" : [
+        "perform a surgery：做一个手术"
+      ],
+      "definition" : "外科手术，外科学；应诊时间；诊室，门诊处",
+      "examples" : [
+
+      ],
+      "frequency" : 1807,
+      "mnemonic" : "surger（=hand：手；ger-= work：做工；-urg-：工作，做工）+ -y（名\n词后缀）→（外科）手术（即：手上的工作）",
+      "phonetic" : "ˈsɜːdʒərɪ",
+      "pos" : "n.",
+      "rootHint" : "ger",
+      "word" : "surgery"
+    }
+  ]
+}

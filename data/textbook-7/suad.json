@@ -1,0 +1,62 @@
+{
+  "chapter" : "10",
+  "chapterOrder" : 110,
+  "id" : "suad",
+  "meaningEn" : "to urge",
+  "meaningZh" : "说服；敦促；力劝。",
+  "roots" : [
+    "suad"
+  ],
+  "semanticLabel" : "说服；敦促；力劝。",
+  "source" : "textbook-7",
+  "titleZh" : "说服；敦促；力劝。",
+  "words" : [
+    {
+      "collocations" : [
+        "persuade sb. to do sth.：说服某人干某事"
+      ],
+      "definition" : "说服，劝说；使某人相信；劝某人做（不做）某事",
+      "etymology" : "14世纪后期，“action of inducing (someone) to believe (something); argument to persuade, inducement：劝说某人说服某事的行为；说服的 论据”。",
+      "examples" : [
+        "To persuade the government to change its current economic policies.\n说服政府去改变现行的经济政策。"
+      ],
+      "mnemonic" : "per-（彻底）+ -suad（=to urge：力劝）+ -e→彻底劝说→说服；劝",
+      "phonetic" : "pəˈsweɪd",
+      "pos" : "vt.",
+      "rootHint" : "suad",
+      "word" : "persuade"
+    },
+    {
+      "collocations" : [
+        "persuasive salesmanship：有说服力的推销术",
+        "persuasive arguments：令人信服的论点"
+      ],
+      "definition" : "有说服力的；令人信服的",
+      "examples" : [
+
+      ],
+      "frequency" : 8850,
+      "mnemonic" : "persuas（=persuade：说服；使相信）+ -ive（形容词后缀）→有说服",
+      "phonetic" : "pəˈsweɪsɪv",
+      "pos" : "adj.",
+      "rootHint" : "suad",
+      "word" : "persuasive"
+    },
+    {
+      "collocations" : [
+        "great powers of persuasion：极强的说服力",
+        "religious persuasion：宗教信仰"
+      ],
+      "definition" : "说服，劝说；（宗教或政治）信仰，信念",
+      "examples" : [
+
+      ],
+      "frequency" : 9772,
+      "mnemonic" : "persuas（=persuade：说服；使相信）+-ion（名词后缀）→说服，劝",
+      "phonetic" : "pəˈsweɪʒn",
+      "pos" : "n.",
+      "rootHint" : "suad",
+      "word" : "persuasion"
+    }
+  ]
+}

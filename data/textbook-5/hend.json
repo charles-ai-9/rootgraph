@@ -1,0 +1,555 @@
+{
+  "chapter" : "42",
+  "chapterOrder" : 142,
+  "id" : "hend",
+  "meaningEn" : "to grasp, seize, take",
+  "meaningZh" : "抓住。",
+  "roots" : [
+    "hend",
+    "pris",
+    "pre"
+  ],
+  "semanticLabel" : "抓住。",
+  "source" : "textbook-5",
+  "titleZh" : "抓住。",
+  "words" : [
+    {
+      "collocations" : [
+        "get better：变得更好",
+        "get ready：准备好",
+        "get them out of trouble：使他们摆脱困境",
+        "get my teeth fixed：把牙齿补好",
+        "get your coat on：把你的外套穿上",
+        "get to work at 9:30 a.m：上午9:30上班"
+      ],
+      "definition" : "-link 变得；处于 vt. 使……处于；使（某人做某事）；使……做",
+      "examples" : [
+
+      ],
+      "phonetic" : "get",
+      "pos" : "v",
+      "rootHint" : "hend",
+      "word" : "get"
+    },
+    {
+      "collocations" : [
+        "to make a quick getaway：迅速逃跑",
+        "a getaway car：逃跑用的汽车",
+        "a romantic weekend getaway in New York：在纽约度过的浪漫周末"
+      ],
+      "definition" : "（尤指犯罪后或逃避某人的）逃跑；短期休假",
+      "examples" : [
+
+      ],
+      "frequency" : 10631,
+      "mnemonic" : "get（移动）+away（离开）→离开某地→逃跑；短期休假",
+      "phonetic" : "ˈgetəweɪ",
+      "pos" : "n.",
+      "rootHint" : "hend",
+      "word" : "getaway"
+    },
+    {
+      "collocations" : [
+        "Forget it：没关系；休憩",
+        "And don’t you forget it：可别忘了；你可给我记住；你给我老实点"
+      ],
+      "definition" : "&vi. 忘记（某事物、做某事）",
+      "examples" : [
+
+      ],
+      "frequency" : 875,
+      "mnemonic" : "for-（=away：表相反、否定）+get（=to grasp：抓住）→记忆中没有\n抓住→忘记 （某事物、做某事）",
+      "phonetic" : "fəˈget",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "forget"
+    },
+    {
+      "collocations" : [
+        "forgotten memories：忘却的记忆"
+      ],
+      "definition" : "&vi. 忘记（forget的过去分词）",
+      "examples" : [
+
+      ],
+      "frequency" : 10116,
+      "phonetic" : "fəˈɡɒtn",
+      "pos" : "vt",
+      "rootHint" : "hend",
+      "word" : "forgotten"
+    },
+    {
+      "collocations" : [
+        "anyone’s guess \/ anybody’s guess：谁也拿不准的事",
+        "at a guess：凭猜测",
+        "keep somebody guessing：使某人猜不透",
+        "wild guess：胡乱猜想"
+      ],
+      "definition" : "&vi. 猜测 vt. 猜中 n. 猜想",
+      "etymology" : "c. 1300, gessen “to infer from observation, perceive, find out; form an opinion, judge, decide, discern; evaluate, estimate the number, importance, etc. of ”.",
+      "examples" : [
+        "The author’s intention is to keep everyone guessing until the bitter end.\n这位作者的意图是在最终结尾前让所有人都猜不透。\nShe guessed the answer straight away.\n她一下子就猜中了答案。"
+      ],
+      "frequency" : 865,
+      "phonetic" : "ges",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "guess"
+    },
+    {
+      "collocations" : [
+        "comprehend one’s attitude：理解某人的态度"
+      ],
+      "definition" : "理解；包含",
+      "examples" : [
+
+      ],
+      "frequency" : 7008,
+      "mnemonic" : "com-（=completely：完全地）+-prehend（=to seize, take：获得；理\n解）→完全理解、抓住→理解；包含",
+      "phonetic" : "kɒmprɪˈhend",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "comprehend"
+    },
+    {
+      "collocations" : [
+        "comprehensive education：综合教育"
+      ],
+      "definition" : "无所不包的；详尽的 n. 综合中学（英",
+      "examples" : [
+        "The Rough Guide to Nepal is a comprehensive guide to the region.\n《尼泊尔概览》是介绍该地区的一本全面指南。"
+      ],
+      "mnemonic" : "comprehen（包含）+-ive（形容词后缀：表“大”或“多”）→包含多\n的→广泛的，综合的",
+      "phonetic" : "kɒmprɪˈhensɪv",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "comprehensive"
+    },
+    {
+      "collocations" : [
+        "reading comprehension：阅读理解",
+        "beyond one’s comprehension：超出了理解力"
+      ],
+      "definition" : "包含；理解",
+      "examples" : [
+
+      ],
+      "frequency" : 7967,
+      "phonetic" : "kɒmprɪˈhenʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "comprehension"
+    },
+    {
+      "collocations" : [
+        "easily \/ readily comprehensible to the average reader：一般读者容易懂的"
+      ],
+      "definition" : "可理解的；能懂的",
+      "examples" : [
+
+      ],
+      "frequency" : 20186,
+      "phonetic" : "kɒmprɪˈhensɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "comprehensible"
+    },
+    {
+      "collocations" : [
+        "incomprehensible mathematics puzzles：难以破解的数学难题上"
+      ],
+      "definition" : "无法理解的；难懂的",
+      "examples" : [
+
+      ],
+      "frequency" : 11978,
+      "phonetic" : "ˌɪnkɒmprɪˈhensɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "incomprehensible"
+    },
+    {
+      "collocations" : [
+        "reprehensible behavior：应受谴责的行为"
+      ],
+      "definition" : "应受斥责的；应受谴责的",
+      "examples" : [
+
+      ],
+      "frequency" : 18642,
+      "mnemonic" : "re-（=往回）+-prehens-（=-hend：抓住）+-ible（形容词词尾）→抓\n回；取回→应受斥责的；应该受谴责的",
+      "phonetic" : "ˌreprɪˈhensɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "reprehensible"
+    },
+    {
+      "collocations" : [
+        "a reprieved murderer：被判死刑而暂缓执行的杀人犯"
+      ],
+      "definition" : "（被判）缓刑；撤销（刑罚） n. 缓刑；（刑罚）撤销；暂缓",
+      "etymology" : "来自拉丁语reprehendere：抓回。re-（向后，往回）+prehendere（抓 住）→抓回",
+      "examples" : [
+
+      ],
+      "frequency" : 17614,
+      "mnemonic" : "re-（=back：往回）+prieve-（抓住）→抓回监狱，送回监狱→后引申",
+      "phonetic" : "rɪˈpriːv",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "reprieve"
+    },
+    {
+      "collocations" : [
+        "be comprised of：由……构成"
+      ],
+      "definition" : "包含；由……组成",
+      "etymology" : "15世纪早期，“to include：包括”，来自古法语 compris, comprendre “to contain, comprise：包含，由……组成”（12世纪）的过去分词。 com -（with, together）+prehendere （to catch hold of, seize）→to catch hold of... together→to include：包括。",
+      "examples" : [
+
+      ],
+      "frequency" : 4438,
+      "mnemonic" : "com-（=together：一起）+-prise（=to take, seize：抓住）→to take\ntogether, include, contain→抓住……合起来，包含，包括→包含；",
+      "phonetic" : "kəmˈpraɪz",
+      "pos" : "vt.",
+      "rootHint" : "pris",
+      "word" : "comprise"
+    },
+    {
+      "collocations" : [
+        "state-owned \/ public enterprises：国有企业；公共事业单位",
+        "an enterprise culture：经商文化",
+        "the spirit of enterprise：开拓精神"
+      ],
+      "definition" : "企业；创业；开拓精神",
+      "etymology" : "来自15世纪早期，“an undertaking：一项事业”。来自古法语enterprise “an undertaking,” entreprendre“undertake, take in hand”（12世纪）的名词 形式。来自entre-（=between：在……之间）+prendre（=to take, seize： 抓住）→an undertaking：事业。",
+      "examples" : [
+
+      ],
+      "frequency" : 2522,
+      "mnemonic" : "enter-（=between：在……之间）+-pris-（=to take, undertake：拿；承\n担）+-e→把事情拿在手里，抓住……事业→从事，承担，负责的事\n情→企业；开拓精神",
+      "phonetic" : "ˈentəpraɪz",
+      "pos" : "n.",
+      "rootHint" : "pris",
+      "word" : "enterprise"
+    },
+    {
+      "collocations" : [
+        "enterprising spirit：进取心，进取精神"
+      ],
+      "definition" : "有开拓精神的；有创新精神的",
+      "examples" : [
+
+      ],
+      "frequency" : 16843,
+      "phonetic" : "ˈentəpraɪzɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "pris",
+      "word" : "enterprising"
+    },
+    {
+      "collocations" : [
+        "entrepreneur spirit：企业家精神；事业心"
+      ],
+      "definition" : "创业者；企业家",
+      "etymology" : "来自法语entrepreneur “one who undertakes or manages”，表示“从事某 20000 词汇巅峰 速 记 笔 记 区 项事业或管理的人”。",
+      "examples" : [
+
+      ],
+      "frequency" : 4321,
+      "mnemonic" : "entrepren（=enterprise：企业；事业）+-eur（名词后缀）→创业者；",
+      "phonetic" : "ˌɒntrəprəˈnɜː(r)",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "entrepreneur"
+    },
+    {
+      "collocations" : [
+        "entrepreneurial skills：办企业的能力",
+        "her prodigious entrepreneurial flair：她惊人的创业天赋"
+      ],
+      "definition" : "具有创业素质的",
+      "examples" : [
+
+      ],
+      "frequency" : 8780,
+      "mnemonic" : "entrepreneur（创业者；企业家）+ -ial（形容词后缀）→具有创业素",
+      "phonetic" : "ˌɒntrəprəˈnɜːrɪəl;-ˈnjʊərɪəl",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "entrepreneurial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "企业家（身份、行为）；企业家精神",
+      "examples" : [
+
+      ],
+      "mnemonic" : "The MSc Entrepreneurship：企业管理硕士（Master of Business Admini-\nstration）",
+      "phonetic" : "ˌɒntrəprəˈnɜːʃɪp",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "entrepreneurship"
+    },
+    {
+      "collocations" : [
+        "apprehend a thief：抓到小偷",
+        "apprehend the danger：意识到危险",
+        "apprehend the problem：意识到问题"
+      ],
+      "definition" : "逮捕；意识到；忧虑；理解",
+      "examples" : [
+
+      ],
+      "frequency" : 11938,
+      "mnemonic" : "ap-（=ad-=to：去）+ pre-（=before：在前；预先）+-hend（=to seize,\ntake：抓住；理解；逮捕）→抓住某人或其感觉、理智、思想（通常\n不是积极肯定的）→引申义为逮捕（依法抓住某人）；意识到（在思",
+      "phonetic" : "æprɪˈhend",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "apprehend"
+    },
+    {
+      "collocations" : [
+        "a feeling of apprehension：担忧的心情",
+        "fill with apprehension：忧心忡忡",
+        "the apprehension of the alleged killer：凶杀嫌犯被捕",
+        "the sudden apprehension：突然间领悟"
+      ],
+      "definition" : "（对未来的）忧虑，担心；逮捕；理解",
+      "examples" : [
+
+      ],
+      "frequency" : 9683,
+      "mnemonic" : "apprehens（=apprehend：忧虑；逮捕；理解，d变s）+-ion（名词后\n缀）→（对未来的）忧虑，担心；逮捕；理解",
+      "phonetic" : "æprɪˈhenʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "apprehension"
+    },
+    {
+      "collocations" : [
+        "apprehensive about the future：对未来忧虑的"
+      ],
+      "definition" : "担心的；忧虑的",
+      "examples" : [
+
+      ],
+      "frequency" : 13875,
+      "mnemonic" : "apprehens（=apprehend：担心；忧虑，d变s）+-ive（形容词后缀）→",
+      "phonetic" : "æprɪˈhensɪv",
+      "pos" : "adj.",
+      "rootHint" : "pre",
+      "word" : "apprehensive"
+    },
+    {
+      "collocations" : [
+        "an apprentice carpenter：一位木工学徒",
+        "be apprenticed to a builder：拜一个建筑工人为师当学徒"
+      ],
+      "definition" : "学徒 vt. 使当……的学徒",
+      "etymology" : "1300年，来自古法语aprentiz“someone learning：正在学习的人”， 同时也做形容词，表示“unskilled, inexperienced：不熟练的，无经验 的”。来自aprendre“to learn; to teach：去学习；去教导”，表示在 心理上或身体上“take hold of，grasp；握住；抓牢”。在古代西方 的手工艺行业中工匠的职称一般都划分为“学徒”（apprentice）、 “熟练工”（journeyman）和“师傅”（master）这三个级别。",
+      "examples" : [
+
+      ],
+      "frequency" : 8759,
+      "mnemonic" : "ap-（=ad：去）+ prent-（=to grasp, learn：抓住；学习）+-ice（名词\n后缀）→还在学习的人→学徒；使……当学徒",
+      "phonetic" : "əˈprentɪs",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "apprentice"
+    },
+    {
+      "collocations" : [
+        "a period of apprenticeship：学徒期",
+        "serve one’s apprenticeship：在学徒期学习"
+      ],
+      "definition" : "学徒身份；学徒期；学徒制",
+      "examples" : [
+
+      ],
+      "frequency" : 13049,
+      "mnemonic" : "apprentice（学徒）+ -ship（名词后缀，表示某种技能，关系或状态）\n→学徒身份；学徒期；学徒制",
+      "phonetic" : "əˈprentɪ(s)ʃɪp",
+      "pos" : "n.",
+      "rootHint" : "pre",
+      "word" : "apprenticeship"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "报复",
+      "etymology" : "Early 15c., “seizing property or citizens of another nation in retaliation for loss inflicted on one’s own,” 来自拉丁语reprendere.",
+      "examples" : [
+        "They did not want to give evidence for fear of reprisals.\n他们因为害怕报复而不想作证。\n近义词：retaliation：报复"
+      ],
+      "frequency" : 15450,
+      "mnemonic" : "re-（=back：往回）+ -pris（=take：抓住）+ -al（名词后缀）→take\nback：为了报复自己承受的损失而夺取其他国家或民族的财务或人民\n→报复",
+      "phonetic" : "rɪˈpraɪz(ə)l",
+      "pos" : "n.",
+      "rootHint" : "pris",
+      "word" : "reprisal"
+    },
+    {
+      "collocations" : [
+        "pry into our affairs：刺探我们的私事"
+      ],
+      "definition" : "撬开 vi. 刺探；窥探 n. 刺探（之行动）",
+      "examples" : [
+
+      ],
+      "frequency" : 8654,
+      "phonetic" : "praɪ",
+      "pos" : "vt.",
+      "rootHint" : "hend",
+      "word" : "pry"
+    },
+    {
+      "collocations" : [
+        "a maximum-security prison：最高度戒备的监狱"
+      ],
+      "definition" : "监狱；看守所；监禁；难以脱身的地方；牢笼",
+      "etymology" : "early 12c., from Old French prisoun “captivity, imprisonment; prison; 20000 词汇巅峰 速 记 prisoner, captive” (11c., Modern French prison). From Latin prensionem (nominative prensio), shortening of prehensionem (nominative *prehensio) “a taking,” noun of action from past participle stem of prehendere “to take”. “Captivity,” hence by extension “a place for captives,” the main modern sense. 来自古法语prison，监狱，来自拉丁语prehensionem，抓 住，来自prehendere，抓住，握住。引申动词词义监禁，关押。",
+      "examples" : [
+
+      ],
+      "frequency" : 1289,
+      "mnemonic" : "pris-（=to take：抓住）+-on（名词后缀）→囚禁、关押被抓住犯人的\n地方→监狱",
+      "phonetic" : "ˈprɪz(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pris",
+      "word" : "prison"
+    },
+    {
+      "collocations" : [
+        "hold \/ keep sb. prisoner：囚禁某人"
+      ],
+      "definition" : "囚犯；俘虏；无法摆脱某种状况的人",
+      "examples" : [
+
+      ],
+      "frequency" : 2442,
+      "mnemonic" : "prison（监狱）+ -er（名词后缀）→在监狱里的人→囚犯；俘虏；无",
+      "phonetic" : "ˈprɪz(ə)nə",
+      "pos" : "n.",
+      "rootHint" : "pris",
+      "word" : "prisoner"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "监禁；关押",
+      "examples" : [
+        "He was imprisoned for 18 months on charges of theft.\n他因盗窃指控而被监禁了18个月。\n近义词：jail：监禁\nbe jailed for life for murder：因谋杀罪被终身监禁"
+      ],
+      "frequency" : 8633,
+      "mnemonic" : "im-（=in-：在里面）+ prison（监狱）→在监狱里面→监禁；关押",
+      "phonetic" : "ɪmˈprɪz(ə)n",
+      "pos" : "vt.",
+      "rootHint" : "pris",
+      "word" : "imprison"
+    },
+    {
+      "collocations" : [
+        "imprisoned lake：堰塞湖（“被囚禁的”的湖）"
+      ],
+      "definition" : "被囚禁的",
+      "examples" : [
+
+      ],
+      "frequency" : 19053,
+      "phonetic" : "ɪmˈprɪznd",
+      "pos" : "adj.",
+      "rootHint" : "pris",
+      "word" : "imprisoned"
+    },
+    {
+      "collocations" : [
+        "be sentenced to seven years imprisonment：被判处7年监禁"
+      ],
+      "definition" : "监禁",
+      "examples" : [
+
+      ],
+      "frequency" : 10101,
+      "phonetic" : "ɪmˈprɪz(ə)nm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "pris",
+      "word" : "imprisonment"
+    },
+    {
+      "collocations" : [
+        "POW：prisoner of war：战俘"
+      ],
+      "definition" : "战俘（prisoner of war）",
+      "examples" : [
+
+      ],
+      "frequency" : 12370,
+      "phonetic" : "paʊ",
+      "pos" : "abbr.",
+      "rootHint" : "hend",
+      "word" : "POW"
+    },
+    {
+      "collocations" : [
+        "take somebody by surprise：使某人吃惊",
+        "a surprise visit：意外造访"
+      ],
+      "definition" : "使吃惊；使惊喜；出其不意地抓获（袭击、找到） n.",
+      "examples" : [
+        "Surprise a new neighbor with one of your favorite home-made dishes.\n做一道你自己拿手的家常菜，给你的新邻居一个惊喜。\nU.S. troops surprised eight enemy fighters in a cave complex.\n美国军队在一个洞穴群里出其不意地抓获了8名敌军士兵。"
+      ],
+      "mnemonic" : "sur-（=over：在上）+ -pris-（=to take, seize：抓住）+ -e→在上面抓住，\n表示突然的、出乎意料地（unexpected）抓住→出其不意地抓获；吃",
+      "phonetic" : "səˈpraɪz",
+      "pos" : "vt.",
+      "rootHint" : "pris",
+      "word" : "surprise"
+    },
+    {
+      "collocations" : [
+        "be genuinely surprised at：确实对……感到吃惊"
+      ],
+      "definition" : "感到惊讶的；出人意料的",
+      "examples" : [
+
+      ],
+      "frequency" : 1934,
+      "phonetic" : "səˈpraɪzd",
+      "pos" : "adj.",
+      "rootHint" : "pris",
+      "word" : "surprised"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人吃惊的；出人意料的",
+      "examples" : [
+        "We had a surprising amount in common. 我们共同之处出奇地多。"
+      ],
+      "frequency" : 2809,
+      "phonetic" : "səˈpraɪzɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "pris",
+      "word" : "surprising"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人惊人地",
+      "examples" : [
+        "Not surprisingly on such a hot day, the beach was crowded.\n在这样的大热天，海滩上人头攒动是不足为奇的。"
+      ],
+      "frequency" : 3398,
+      "phonetic" : "səˈpraɪzɪŋlɪ",
+      "pos" : "adv.",
+      "rootHint" : "pris",
+      "word" : "surprisingly"
+    }
+  ]
+}

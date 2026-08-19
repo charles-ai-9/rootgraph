@@ -1,0 +1,97 @@
+{
+  "chapter" : "4",
+  "id" : "fin除了",
+  "meaningZh" : "限制，约束，还可以表示钱，付钱，是",
+  "roots" : [
+    "fin除了"
+  ],
+  "source" : "textbook-1",
+  "titleZh" : "限制，约束，还可以表示钱，付钱，是",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "财政，财政学；金融",
+      "examples" : [
+
+      ],
+      "frequency" : 2833,
+      "mnemonic" : "fin (钱) +ance (名词后缀) →财政，金融 (都和“钱”相关)",
+      "phonetic" : "ˈfaɪnæns; faɪˈnæns; fɪ-",
+      "pos" : "n.",
+      "rootHint" : "fin除了",
+      "word" : "finance"
+    },
+    {
+      "collocations" : [
+        "offer financial incentives (考)：提供经济刺激"
+      ],
+      "definition" : "财政的，财务的；金融的",
+      "examples" : [
+
+      ],
+      "frequency" : 830,
+      "phonetic" : "faɪˈnænʃ(ə)l; fɪ-",
+      "pos" : "adj.",
+      "rootHint" : "fin除了",
+      "word" : "financial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "金融上；财政上",
+      "examples" : [
+
+      ],
+      "frequency" : 5546,
+      "phonetic" : "faɪˈnænʃəli",
+      "pos" : "adv.",
+      "rootHint" : "fin除了",
+      "word" : "financially"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "出资人；出资方；金融(资本)家",
+      "examples" : [
+
+      ],
+      "frequency" : 13551,
+      "phonetic" : "faɪˈnænsɪə; fɪ-",
+      "pos" : "n.",
+      "rootHint" : "fin除了",
+      "word" : "financier"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "筹措资金；融资；财务",
+      "examples" : [
+
+      ],
+      "frequency" : 5682,
+      "phonetic" : "fɪˈnænsɪŋ",
+      "pos" : "n.",
+      "rootHint" : "fin除了",
+      "word" : "financing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "再供……资金；再为……筹钱",
+      "examples" : [
+
+      ],
+      "frequency" : 13003,
+      "phonetic" : "ri:ˈfaɪnæns",
+      "pos" : "vt.",
+      "rootHint" : "fin除了",
+      "word" : "refinance"
+    }
+  ]
+}

@@ -1,0 +1,687 @@
+{
+  "chapter" : "8",
+  "chapterOrder" : 108,
+  "id" : "act",
+  "meaningZh" : "做",
+  "roots" : [
+    "act"
+  ],
+  "semanticLabel" : "act",
+  "source" : "textbook-2",
+  "titleZh" : "act",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行为；行动；起作用；表演；装作 n. 法案；法令",
+      "examples" : [
+
+      ],
+      "frequency" : 840,
+      "phonetic" : "ækt",
+      "pos" : "vt.",
+      "rootHint" : "act",
+      "word" : "act"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行动；活动；功能；情节；战斗",
+      "examples" : [
+
+      ],
+      "frequency" : 503,
+      "mnemonic" : "act(做；行动)+ion (名词后缀；)→行动",
+      "phonetic" : "ˈækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "action"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不活动；不作为",
+      "examples" : [
+
+      ],
+      "frequency" : 14928,
+      "mnemonic" : "in(不)+action(活动)→不活动;",
+      "phonetic" : "ɪnˈækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "inaction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "主动的；有效的；积极的；活跃的；现役的",
+      "examples" : [
+
+      ],
+      "frequency" : 1451,
+      "mnemonic" : "act(做；行动)+ive (形容词后缀，表示“大，多”)→行动很多的→主",
+      "phonetic" : "ˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "active"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不活动的；不活跃的；怠惰的；闲置的",
+      "examples" : [
+
+      ],
+      "frequency" : 14061,
+      "mnemonic" : "in(不)+active (积极的)→不积极的→不活跃的",
+      "phonetic" : "ɪnˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "inactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "积极地；活跃地",
+      "examples" : [
+
+      ],
+      "frequency" : 4356,
+      "mnemonic" : "active(积极的)+ly(……地)→积极地",
+      "phonetic" : "ˈæktivli",
+      "pos" : "adv.",
+      "rootHint" : "act",
+      "word" : "actively"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行动主义；激进主义",
+      "examples" : [
+
+      ],
+      "frequency" : 7215,
+      "mnemonic" : "active(积极的)+ism(主义)→积极主义→行动主义",
+      "phonetic" : "ˈæktɪvɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "activism"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "积极分子；激进主义分子",
+      "examples" : [
+
+      ],
+      "frequency" : 2618,
+      "mnemonic" : "active(积极的)+ist(人)→积极的人→积极分子",
+      "phonetic" : "ˈæktɪvɪst",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "activist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "活跃；活动；行动",
+      "examples" : [
+
+      ],
+      "frequency" : 538,
+      "mnemonic" : "active(积极的)+ity(名词后缀)→积极；活跃；活动",
+      "phonetic" : "ækˈtɪvətɪ",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "activity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "静止；不活泼；休止状态；不放射性",
+      "examples" : [
+
+      ],
+      "frequency" : 18183,
+      "mnemonic" : "in(不)+activity (活动；活跃)→不活动；不活跃",
+      "phonetic" : "ˌɪnækˈtɪvɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "inactivity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行动；表演 adj. 代理的；8556",
+      "examples" : [
+
+      ],
+      "mnemonic" : "act(做；行动)+ing (……的\/名词后缀)→行动",
+      "phonetic" : "ˈæktɪŋ",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "acting"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "(男)演员；行动者；作用物",
+      "examples" : [
+
+      ],
+      "frequency" : 1507,
+      "mnemonic" : "act(表演；行动)+or (人)→表演的人→演员；行动者",
+      "phonetic" : "ˈæktə",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "actor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "女演员",
+      "examples" : [
+
+      ],
+      "frequency" : 3263,
+      "mnemonic" : "act(表演；行动)+ress (名词后缀；表女性)→表演的女性→女演员",
+      "phonetic" : "ˈæktrɪs",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "actress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "真实的，实际的；现行的，目前的",
+      "examples" : [
+
+      ],
+      "frequency" : 1752,
+      "mnemonic" : "act(活动；行动)+ual(……的)→正在活动的事情→真实的",
+      "phonetic" : "ˈæktʃʊəl;-tjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "actual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "实际上；事实上",
+      "examples" : [
+
+      ],
+      "frequency" : 397,
+      "mnemonic" : "actual(真实的；实际的)+ly(……地)→真实地；实际地",
+      "phonetic" : "ˈæktʃuəli",
+      "pos" : "adv.",
+      "rootHint" : "act",
+      "word" : "actually"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "现状；事实；现实",
+      "examples" : [
+
+      ],
+      "frequency" : 15663,
+      "mnemonic" : "actual(真实的；实际的)+ity(名词后缀)→现实；事实",
+      "phonetic" : "æktjʊˈælɪtɪ;-tʃʊ-",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "actuality"
+    },
+    {
+      "collocations" : [
+        "interact with sb.(考)：和……交流"
+      ],
+      "definition" : "互相影响；互相作用",
+      "examples" : [
+
+      ],
+      "frequency" : 4388,
+      "mnemonic" : "inter(在……之间)+act(做；影响=act on)→相互间的作用、影响→相互",
+      "phonetic" : "ɪntərˈækt",
+      "pos" : "vi.",
+      "rootHint" : "act",
+      "word" : "interact"
+    },
+    {
+      "collocations" : [
+        "initial phases of interaction(考)：人际交往的最初阶段"
+      ],
+      "definition" : "交互作用；相互作用",
+      "examples" : [
+
+      ],
+      "frequency" : 2090,
+      "mnemonic" : "interact(相互作用)+ion(名词后缀)→相互作用",
+      "phonetic" : "ɪntərˈækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "interaction"
+    },
+    {
+      "collocations" : [
+        "interactive leadership(考)：交流型领导能力"
+      ],
+      "definition" : "相互作用的；交互式的",
+      "examples" : [
+
+      ],
+      "frequency" : 5036,
+      "mnemonic" : "interact(相互作用)+ive(……的)→相互作用的",
+      "phonetic" : "ɪntərˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "interactive"
+    },
+    {
+      "collocations" : [
+        "a real estate agent(考)：一个房地产代理人"
+      ],
+      "definition" : "代理人，代理商；药剂",
+      "examples" : [
+        "Goodman hopes the scheme will enable active students to fill in any gaps\nin their experience and encourage their less-active to take up\nactivities outside their academic area of work."
+      ],
+      "frequency" : 1023,
+      "mnemonic" : "ag(=act：做)+ent(人)→帮其他人做事情的人→代理人",
+      "phonetic" : "ˈeɪdʒ(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "agent"
+    },
+    {
+      "collocations" : [
+        "travel agency(考)：旅行社"
+      ],
+      "definition" : "代理，中介；代理处，经销处",
+      "examples" : [
+
+      ],
+      "frequency" : 695,
+      "mnemonic" : "ag(=act：做)+ency(名词后缀)→帮其他人做事情的机构→代理商、",
+      "phonetic" : "ˈeɪdʒ(ə)nsɪ",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "agency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "同事，同僚",
+      "examples" : [
+
+      ],
+      "frequency" : 1527,
+      "mnemonic" : "colle(=collect：聚集、集合)+ag(=act：做)+ue(名词后缀)→聚集在一起\n做事情的人→同事、同僚",
+      "phonetic" : "ˈkɒliːg",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "colleague"
+    },
+    {
+      "collocations" : [
+        "on the agenda(考)：在议事日程上"
+      ],
+      "definition" : "议程；日常工作事项",
+      "examples" : [
+
+      ],
+      "frequency" : 2149,
+      "mnemonic" : "ag(=act：做)+enda(名词后缀)→(特指会议上)要做的事情→议程",
+      "phonetic" : "əˈdʒendə",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "agenda"
+    },
+    {
+      "collocations" : [
+        "over fatigue(考)：过度劳累"
+      ],
+      "definition" : "疲劳，疲乏；杂役",
+      "examples" : [
+
+      ],
+      "frequency" : 4862,
+      "mnemonic" : "fat(肥的；丰富的；很多的)+ig(=ag：做)+ue(名词后缀)→做的事情太\n多→劳累、疲劳",
+      "phonetic" : "fəˈtiːg",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "fatigue"
+    },
+    {
+      "collocations" : [
+        "business transaction(考)：商业交易 dishonest transactions(考)：欺诈"
+      ],
+      "definition" : "交易；事务；办理；3851",
+      "examples" : [
+
+      ],
+      "mnemonic" : "trans(穿、转)+act(做、做事)+ion(名词后缀)→做转手(买卖)→交易",
+      "phonetic" : "trænˈzækʃ(ə)n;trɑːn-;-ˈsæk-",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "transaction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使活动；激活；使产生放射性；刺激",
+      "examples" : [
+
+      ],
+      "frequency" : 6202,
+      "mnemonic" : "active(积极的)+ate (使)→使积极的→使活动；激活",
+      "phonetic" : "ˈæktɪveɪt",
+      "pos" : "vt.",
+      "rootHint" : "act",
+      "word" : "activate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "激活；活化作用",
+      "examples" : [
+
+      ],
+      "frequency" : 13492,
+      "mnemonic" : "activate(激活)+ion (名词后缀)→激活",
+      "phonetic" : "ˌæktɪˈveɪʃən",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "activation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "预先采取行动的；先发制人的",
+      "examples" : [
+
+      ],
+      "frequency" : 10309,
+      "mnemonic" : "pro(在前；向前)+active(积极的)→积极在事前行动→预先采取行动的",
+      "phonetic" : "prəʊˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "proactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过分活跃的；多动的",
+      "examples" : [
+
+      ],
+      "frequency" : 18290,
+      "mnemonic" : "hyper(超过的；多的)+active(积极的；主动的)→积极的过头→过分活",
+      "phonetic" : "haɪpərˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "hyperactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "极度活跃；活动过度",
+      "examples" : [
+
+      ],
+      "frequency" : 17586,
+      "mnemonic" : "hyper(超过的；多的)+activity(活动；活跃)→活动过多→极度活跃",
+      "phonetic" : "ˌhaɪpərækˈtɪvəti",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "hyperactivity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "放射性的；有辐射的",
+      "examples" : [
+
+      ],
+      "frequency" : 8054,
+      "mnemonic" : "radi(=radiate辐射的)+active(活性的；起作用的)→辐射起作用的→有",
+      "phonetic" : "ˌreɪdɪəʊˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "radioactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有追溯效力的",
+      "examples" : [
+
+      ],
+      "frequency" : 20145,
+      "mnemonic" : "retro(向后；往回)+active(起作用的)→往回还起作用的→有追溯效力",
+      "phonetic" : "retrəʊˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "retroactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反应；影响；反抗；起反作用",
+      "examples" : [
+
+      ],
+      "frequency" : 2689,
+      "mnemonic" : "re (回)+act(做；行动)→行动做出回应→回应；反应；反抗；起反",
+      "phonetic" : "rɪˈækt",
+      "pos" : "vi.",
+      "rootHint" : "act",
+      "word" : "react"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "回应性的；反动的；活性的，起化学作用的",
+      "examples" : [
+
+      ],
+      "frequency" : 11791,
+      "mnemonic" : "react (反动)+ive(……的)→反动的",
+      "phonetic" : "rɪˈæktɪv",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "reactive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反应，感应；反作用；反动，复古",
+      "examples" : [
+
+      ],
+      "frequency" : 1416,
+      "mnemonic" : "react (反应；反作用)+ion(名词后缀)→反应；反作用",
+      "phonetic" : "rɪˈækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "reaction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反动的 n. 反动分子",
+      "examples" : [
+
+      ],
+      "frequency" : 14325,
+      "mnemonic" : "reaction (反动)+ary(……的或名词后缀，表“人”)→反动的；反动",
+      "phonetic" : "rɪˈækʃ(ə)n(ə)rɪ",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "reactionary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反应堆；反应器；起反应的人",
+      "examples" : [
+
+      ],
+      "frequency" : 6408,
+      "mnemonic" : "react (反应；反作用)+or(人\/物)→反应者→起反应的人；反应器",
+      "phonetic" : "rɪˈæktə",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "reactor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "执行机构；激励者；促动器",
+      "examples" : [
+
+      ],
+      "frequency" : 18029,
+      "mnemonic" : "actuat(=actuate：激励；驱动)+or→激励者；驱动器\nclass-action n. 集体诉讼；共同起诉 16675",
+      "phonetic" : "ˈæktjʊeɪtə",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "actuator"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扮演；颁布；将……制定法律",
+      "examples" : [
+
+      ],
+      "frequency" : 4765,
+      "mnemonic" : "en(使)+act (表演；法案)→使表演；使法案生效→扮演；颁布",
+      "phonetic" : "ɪˈnækt;e-",
+      "pos" : "vt.",
+      "rootHint" : "act",
+      "word" : "enact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "再扮演；重演；重新颁布",
+      "examples" : [
+
+      ],
+      "frequency" : 16738,
+      "mnemonic" : "re (再；重新)+enact (扮演；颁布)→再扮演；重演",
+      "phonetic" : "ˈri:iˈnækt",
+      "pos" : "vt.",
+      "rootHint" : "act",
+      "word" : "re-enact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "制定，颁布；法令；通过",
+      "examples" : [
+
+      ],
+      "frequency" : 13007,
+      "mnemonic" : "enact(将……制定法律)+ment(名词后缀)→法律的制定；颁布\nre-enactment n. 重新制定；再扮演；重演 17489\nre (又；再)+enactment (制定)→重新制定",
+      "phonetic" : "ɪˈnæktm(ə)nt;e-",
+      "pos" : "n.",
+      "rootHint" : "act",
+      "word" : "enactment"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "抵消；中和；阻碍",
+      "examples" : [
+
+      ],
+      "frequency" : 12480,
+      "mnemonic" : "counter(相反；相对)+act(做)→相对的行为→抵消；阻碍",
+      "phonetic" : "kaʊntərˈækt",
+      "pos" : "vt.",
+      "rootHint" : "act",
+      "word" : "counteract"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "精确的，准确的；精密的",
+      "etymology" : "“precise, rigorous, accurate,” 1530s, from Latin exactus “precise, accurate, highly finished,” past-participle adjective from exigere “demand, require, enforce,” literally “to drive or force out,” also “to finish, measure,” from ex “out” (see ex-)+agere “to set in motion, drive, drive forward; to do, perform” (from PIE root *ag- “to drive, draw out or forth, move”). 20000 词 汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 3372,
+      "mnemonic" : "ex(加强)+act(做)→不断地做就会越来越精确→精确的",
+      "phonetic" : "ɪgˈzækt;eg-",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "exact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "精确地；正确地；正是；恰好地",
+      "examples" : [
+
+      ],
+      "frequency" : 749,
+      "mnemonic" : "exact(精确的)+ly (……地)→精确地",
+      "phonetic" : "ɪgˈzæk(t)lɪ",
+      "pos" : "adv.",
+      "rootHint" : "act",
+      "word" : "exactly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "苛求的；严格的；吃力的",
+      "examples" : [
+
+      ],
+      "frequency" : 16022,
+      "mnemonic" : "ex(向外)+act(=ag：做)+ing (……的)→需要做出很多的→苛求的，费",
+      "phonetic" : "ɪgˈzæktɪŋ;eg-",
+      "pos" : "adj.",
+      "rootHint" : "act",
+      "word" : "exacting"
+    }
+  ]
+}

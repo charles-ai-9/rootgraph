@@ -1,0 +1,658 @@
+{
+  "chapter" : "5",
+  "chapterOrder" : 105,
+  "id" : "hib",
+  "meaningZh" : "持有；拥有；位于；管理等含义。",
+  "roots" : [
+    "hib",
+    "hab"
+  ],
+  "semanticLabel" : "持有；拥有；位于；管理等含义。",
+  "source" : "textbook-7",
+  "titleZh" : "持有；拥有；位于；管理等含义。",
+  "words" : [
+    {
+      "collocations" : [
+        "good \/ bad habits：良好习惯；恶习",
+        "in the habit of \/ get into the habit of：习惯于……\/养成……的习惯",
+        "break the habit of staying up too late：改掉熬夜的习惯",
+        "out of habit：出于习惯",
+        "kick the habit：戒掉某种嗜好"
+      ],
+      "definition" : "习惯；惯常行为，习性；（吸毒、喝酒、抽烟的）嗜好，",
+      "etymology" : "habit作名词有“clothing, conduct, condition：衣服；行为；状况”等 含义。 habit作动词有“to dwell, reside：居住于”等含义。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "hab-（=to have, hold：拥有；持有）+-it（抽象名词后缀）→经常拥\n有、做的行为→习惯；习性；嗜好，瘾",
+      "phonetic" : "ˈhæbɪt",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "habit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可居住的；适合居住的",
+      "examples" : [
+        "The house should be habitable by the new year.\n房子到新年时应该就可以住进去了。"
+      ],
+      "frequency" : 19316,
+      "mnemonic" : "habit（居住）+ -able（能够……的）→可居住的；适合居住的",
+      "phonetic" : "ˈhæbɪtəbl",
+      "pos" : "adj.",
+      "rootHint" : "hab",
+      "word" : "habitable"
+    },
+    {
+      "collocations" : [
+        "the destruction of wildlife habitat：野生动植物生存环境的破坏"
+      ],
+      "definition" : "（动植物的）生长环境；栖息地",
+      "examples" : [
+        "The panda’s natural habitat is the bamboo forest.\n大熊猫的天然栖息地是竹林。"
+      ],
+      "frequency" : 3249,
+      "mnemonic" : "habit-（居住）+ -at（名词后缀，表示地方）→居住的地方→生长环",
+      "phonetic" : "ˈhæbɪtæt",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "habitat"
+    },
+    {
+      "collocations" : [
+        "be unfit for human habitation：不适合人居住"
+      ],
+      "definition" : "居住；住所，聚居地",
+      "examples" : [
+        "The road serves the scattered habitations along the coast.\n这条公路连接着海岸线上分散的聚居地。"
+      ],
+      "frequency" : 18662,
+      "mnemonic" : "habitat（居住的环境）+-ion（名词后缀）→居住；住所，聚居地",
+      "phonetic" : "hæbɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "habitation"
+    },
+    {
+      "collocations" : [
+        "habitual ways：习惯的方式",
+        "habitual response：惯常的反应",
+        "habitual residence：通常居住的地方",
+        "the habitual use of heroin（海洛因）：服用海洛因上瘾",
+        "a habitual criminal\/drinker\/liar, etc.：惯犯、嗜酒成性者、习以为常的"
+      ],
+      "definition" : "惯常的，典型的；上瘾的；积习难改的",
+      "examples" : [
+
+      ],
+      "frequency" : 13861,
+      "mnemonic" : "habit（惯常行为；嗜好，瘾）+-ual（形容词后缀，……的）→惯常",
+      "phonetic" : "həˈbɪtʃuəl",
+      "pos" : "adj.",
+      "rootHint" : "hab",
+      "word" : "habitual"
+    },
+    {
+      "collocations" : [
+        "habitually rely on advertising：习惯于依赖广告"
+      ],
+      "definition" : "习惯地；日常地",
+      "examples" : [
+
+      ],
+      "frequency" : 18490,
+      "phonetic" : "həˈbitjuəli",
+      "pos" : "adv.",
+      "rootHint" : "hab",
+      "word" : "habitually"
+    },
+    {
+      "collocations" : [
+        "some of the rare species that inhabit the area：生活在这个地区的一些罕"
+      ],
+      "definition" : "居住在；栖息于",
+      "examples" : [
+
+      ],
+      "frequency" : 6137,
+      "mnemonic" : "in-（=in：在……地方）+ -habit（居住）→在……地方居住→居住",
+      "phonetic" : "ɪnˈhæbɪt",
+      "pos" : "vt.",
+      "rootHint" : "hab",
+      "word" : "inhabit"
+    },
+    {
+      "collocations" : [
+        "the oldest inhabitant of the village：这个村最老的居民"
+      ],
+      "definition" : "（某地的）居民；栖息动物",
+      "examples" : [
+
+      ],
+      "frequency" : 5997,
+      "mnemonic" : "inhabit（居住；栖息）+-ant（名词后缀，表人）→居民；栖息动物",
+      "phonetic" : "ɪnˈhæbɪtənt",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "inhabitant"
+    },
+    {
+      "collocations" : [
+        "rehabilitate drug addicts：帮助吸毒者恢复正常生活",
+        "rehabilitate somebody as an artist：恢复某人为艺术家的名誉"
+      ],
+      "definition" : "使（重病患者）康复；使（长期服刑者）恢复",
+      "etymology" : "1570s, “to bring back to a former condition after decay or damage”, “to restore one’s reputation or character in the eyes of others”.",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-（=again：再；重新）+-hab（=make fit：使健康；适合的）\n+-ilitate（复合动词后缀，-ile+名-ity+-ate）→使……健康；使……适\n合→使康复；使恢复正常生活；修复→使……恢复名誉",
+      "phonetic" : "ˌriːhəˈbɪlɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "hab",
+      "word" : "rehabilitate"
+    },
+    {
+      "collocations" : [
+        "a drug rehabilitation center：吸毒者康复中心",
+        "the rehabilitation of young offenders：年轻罪犯的复原",
+        "the rehabilitation of the steel industry：钢铁工业的复兴"
+      ],
+      "definition" : "康复；复原；复兴",
+      "examples" : [
+
+      ],
+      "frequency" : 4842,
+      "mnemonic" : "rehabilitate（使康复；复原）+-ion（名词后缀）→康复；复原；复兴",
+      "phonetic" : "ˌriːəˌbɪlɪˈteɪʃn",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "rehabilitation"
+    },
+    {
+      "collocations" : [
+        "to go into rehab：进行康复治疗",
+        "a rehab clinic：康复诊所",
+        "a hospital rehab program：一项医院康复计划",
+        "rehab homes：修缮房子"
+      ],
+      "definition" : "（吸毒或酗酒者的）康复；复原 vt. 修缮（等于rehabilitation）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "rehabilitation的简写。",
+      "phonetic" : "ˈriːhæb",
+      "pos" : "n.",
+      "rootHint" : "hab",
+      "word" : "rehab"
+    },
+    {
+      "collocations" : [
+        "exhibit strong interest for sth.：对……表现出强烈兴趣"
+      ],
+      "definition" : "表现出；展览 vi. 展出作品 n. 展览品；展览；(法庭上出",
+      "examples" : [
+        "Your qualities will exhibit to employers why they should hire you over\nother candidates.\n你的品质将展现给雇主，为什么他们要在所有候选人中雇佣你。"
+      ],
+      "mnemonic" : "ex-（向外）+ hib-（=hold：拿）+ -it（动词或名词后缀）→将东西拿\n出去→展览；出示；展出",
+      "phonetic" : "ɪɡˈzɪbɪt",
+      "pos" : "vt.",
+      "rootHint" : "hib",
+      "word" : "exhibit"
+    },
+    {
+      "collocations" : [
+        "hold an exhibition：举办一个展览",
+        "an exhibition of old photographs：老照片展",
+        "make an exhibition of oneself：出洋相；当众出丑"
+      ],
+      "definition" : "（一批）展览品；展览，展出；（技能、感情、行",
+      "examples" : [
+        "We were treated to an exhibition of the footballer’s speed and skill.\n足球运动员表现出的速度和技能真是让我们大饱眼福。"
+      ],
+      "mnemonic" : "exhibit（展览；表现出；展示） +-ion（名词后缀）→展览；表现；显示",
+      "phonetic" : "ˌeksɪˈbɪʃn",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "exhibition"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "参展者；参展商",
+      "examples" : [
+        "Schedules will be sent out to all exhibitors.\n日程安排将会发送给所有的参展者。\n词根 hibit- 含有“to hold：持有；握住”的含义。"
+      ],
+      "frequency" : 13953,
+      "mnemonic" : "exhibit（展览；展出）+-or（名词后缀，表人）→参加展览的人→参",
+      "phonetic" : "ɪɡˈzɪbɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "exhibitor"
+    },
+    {
+      "collocations" : [
+        "inhibit sb. from sth.\/from doing sth.：使拘束\/使尴尬",
+        "inhibit from doing someone’s duty：阻止履行职责"
+      ],
+      "definition" : "阻碍，抑制；禁止；使拘束，使尴尬",
+      "examples" : [
+        "A lack of oxygen may inhibit brain development in the unborn child.\n缺氧可能阻碍胎儿的大脑发育。\nThe managing director’s presence inhibited them from airing their\nproblems.\n总经理的在场使他们感到拘束，不便畅谈自己的问题。"
+      ],
+      "frequency" : 7537,
+      "mnemonic" : "in-（=in）+-hibit（=to hold：持有；握住）→to hold in, hold back,\nkeep back：抑制；阻止；约束；禁止→引申词义使拘束，使尴尬",
+      "phonetic" : "ɪnˈhɪbɪt",
+      "pos" : "vt.",
+      "rootHint" : "hib",
+      "word" : "inhibit"
+    },
+    {
+      "collocations" : [
+        "the inhibition of growth：对生长的抑制"
+      ],
+      "definition" : "阻止，抑制，禁止；拘谨，拘束感",
+      "examples" : [
+        "The children were shy at first, but soon lost their inhibitions.\n孩子们起初很羞涩，但很快就没有拘束感了。\nThe whole point about dancing is to stop thinking and lose all your\ninhibitions.\n跳舞的整个要点在于停止思考并丢掉所有拘束。"
+      ],
+      "frequency" : 12684,
+      "mnemonic" : "inhibit（抑制；禁止；使拘束）+-ion（名词后缀）→抑制；禁止；拘",
+      "phonetic" : "ˌɪnhɪˈbɪʃn",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "inhibition"
+    },
+    {
+      "collocations" : [
+        "growth inhibitor：生长抑制剂"
+      ],
+      "definition" : "[化] 抑制剂；阻止者，约束物 [生] 抑制基因",
+      "examples" : [
+
+      ],
+      "frequency" : 13260,
+      "mnemonic" : "inhibit（抑制；阻止；约束）+-or（表人或物）→阻止者，约束物；",
+      "phonetic" : "ɪnˈhɪbɪtə",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "inhibitor"
+    },
+    {
+      "collocations" : [
+        "prohibit tobacco advertising：禁止刊登烟草广告",
+        "strictly prohibit：严禁",
+        "a law prohibiting the sale of alcohol：禁止售酒的法令"
+      ],
+      "definition" : "（尤指以法令）禁止 vt. 阻止；禁止",
+      "examples" : [
+
+      ],
+      "frequency" : 4029,
+      "mnemonic" : "pro-（=forth：向前）+-hibit（hinder：阻碍；阻止）→阻碍；阻\n止……向前→引申比喻义禁止；阻止（to hold back, restrain, hinder,\nprevent）",
+      "phonetic" : "prəˈhɪbɪt",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "prohibit"
+    },
+    {
+      "collocations" : [
+        "prohibited zone：禁区"
+      ],
+      "definition" : "被禁止的",
+      "examples" : [
+
+      ],
+      "frequency" : 17765,
+      "mnemonic" : "prohibit（禁止）+-ed（形容词后缀）→被禁止的",
+      "phonetic" : "prə(ʊ)ˈhɪbɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "prohibited"
+    },
+    {
+      "collocations" : [
+        "the prohibition of the sale of firearms：枪支的禁售",
+        "a prohibition on discrimination：一项对歧视的禁令",
+        "a prohibition against selling alcohol：禁止售酒的法令"
+      ],
+      "definition" : "（法律）禁止[+ of]；禁令，禁律[+ on\/against]",
+      "examples" : [
+
+      ],
+      "mnemonic" : "prohibit（尤指以法令禁止）+-ion（名词后缀）→（法律）禁止；",
+      "phonetic" : "ˌprəʊɪˈbɪʃn",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "prohibition"
+    },
+    {
+      "collocations" : [
+        "prohibitive cost of land：令人望而却步的地价",
+        "prohibitive regulations：禁律"
+      ],
+      "definition" : "（价格）高得负担不起的；（规定）禁止性的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "prohibit（尤指以法令禁止；阻止）+-ive（形容词后缀）→(价格) 贵",
+      "phonetic" : "prəˈhɪbətɪv",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "prohibitive"
+    },
+    {
+      "collocations" : [
+        "give somebody the letter：把信给某人",
+        "give somebody information：给某人提供信息",
+        "give her a huge bunch of flowers：送给她一大束花",
+        "give generously：慷慨捐助",
+        "give sb. amount of money for the car：出……钱买这辆汽车",
+        "give up：投降；认输；放弃",
+        "give sth. \/ sb. away：泄露\/暴露",
+        "give in (to sb. \/ sth.)：屈服；认输；投降",
+        "give out：用完；耗尽",
+        "give out sth.：发出，放出（热、光等）",
+        "give out a lot of heat：释放大量的热"
+      ],
+      "definition" : "给，交给；（为某人）提供，供给；（为购买某物或做某事",
+      "examples" : [
+        "They say it’s better to give than to receive.\n人们说施（给予）比受有福。\nAfter a month their food supplies gave out.\n一个月以后他们的食物储备消耗殆尽。"
+      ],
+      "phonetic" : "gɪv",
+      "pos" : "vt.",
+      "rootHint" : "hib",
+      "word" : "give"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（公司为推销产品搭送的）随赠品；使真相暴露的",
+      "examples" : [
+        "She pretended she wasn’t excited but the expression on her face was a\ndead (=obvious) giveaway.\n她假装不为所动，可脸上的表情却将她的心绪暴露无遗。"
+      ],
+      "mnemonic" : "give（送）+away（离开）→送走的物品→随赠品；使真相暴露的",
+      "phonetic" : "ˈɡɪvəweɪ",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "giveaway"
+    },
+    {
+      "collocations" : [
+        "They are very generous givers to charity."
+      ],
+      "definition" : "给予者；捐助者；捐助机构",
+      "examples" : [
+
+      ],
+      "frequency" : 14160,
+      "mnemonic" : "give（给予）+ -er（表人或机构）→给予的人→给予者；捐助机构",
+      "phonetic" : "ˈgɪvə(r)",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "giver"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "给予；施予",
+      "examples" : [
+
+      ],
+      "frequency" : 16442,
+      "mnemonic" : "give（给予）+-ing（动名词后缀）→给予；施予",
+      "phonetic" : "ˈɡɪvɪŋ",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "giving"
+    },
+    {
+      "collocations" : [
+        "forgive sb. for doing sth.：原谅某人做过某事"
+      ],
+      "definition" : "原谅；宽恕；（银行、国家等）免除（债务、义务等）",
+      "etymology" : "来自于拉丁语perdonare：原谅；饶恕",
+      "examples" : [
+
+      ],
+      "mnemonic" : "for-（完全地）+give（给予；施予）→完全地给予原谅、谅解→原\n谅；宽恕→引申义为免除（债务、义务等）",
+      "phonetic" : "fəˈgɪv",
+      "pos" : "vt.",
+      "rootHint" : "hib",
+      "word" : "forgive"
+    },
+    {
+      "collocations" : [
+        "the forgiveness of sins：对罪的宽恕"
+      ],
+      "definition" : "原谅；宽恕；宽宏大量",
+      "examples" : [
+
+      ],
+      "frequency" : 7093,
+      "mnemonic" : "forgive（原谅；宽恕）+ -ness（名词后缀）→原谅；宽恕",
+      "phonetic" : "fəˈɡɪvnəs",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "forgiveness"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "宽容的；宽厚的；宽宏大量的",
+      "examples" : [
+        "She had not inherited her mother’s forgiving nature.\n她没有承袭她母亲的宽厚天性。"
+      ],
+      "frequency" : 11202,
+      "mnemonic" : "forgive（原谅；宽容）+ -ing（形容词后缀）→宽容的；宽厚的",
+      "phonetic" : "fəˈgɪvɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "forgiving"
+    },
+    {
+      "collocations" : [
+        "a free gift：赠品",
+        "the gift of life：生命的礼物",
+        "a great gift for music：极有音乐天赋",
+        "gift box：礼品盒；礼物盒",
+        "birthday gift：生日礼物"
+      ],
+      "definition" : "礼物，赠品；天赋，才能 vt. 白送；白给（尤用于新闻报道）",
+      "etymology" : "含义为“that which is given：给予的东西”，即“礼物；天赋；白送”。",
+      "examples" : [
+        "They gifted a goal to their opponents.\n他们白送给对方一分。"
+      ],
+      "phonetic" : "gɪft",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "gift"
+    },
+    {
+      "collocations" : [
+        "a gifted musician\/player, etc.：天才的音乐家、运动员等",
+        "gifted children：天资聪慧的孩子",
+        "gifted with sth.：具有（令人愉快的东西）"
+      ],
+      "definition" : "有天才的；有天赋的；天资聪慧的",
+      "examples" : [
+        "He was gifted with a charming smile.\n他有一副迷人的微笑。"
+      ],
+      "frequency" : 3267,
+      "mnemonic" : "gift（天赋）+-ed（形容词后缀）→有天才的；有天赋的",
+      "phonetic" : "ˈgɪftɪd",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "gifted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "天才；资赋优异",
+      "examples" : [
+
+      ],
+      "frequency" : 12088,
+      "mnemonic" : "gifted（有天才的；有天赋的）+-ness（名词后缀）→天才；资赋优异",
+      "phonetic" : "ɡɪfˈtɪdnəs",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "giftedness"
+    },
+    {
+      "collocations" : [
+        "pay off all my debts：还清我所有的债务",
+        "get into debt：负债",
+        "to owe a debt of gratitude to sb.：欠某人的情",
+        "be in sb.’s debt：欠某人的人情债；受某人的恩惠；感激某人"
+      ],
+      "definition" : "借款；债务；负债情况；情义，恩情（人情债）",
+      "etymology" : "来自古法语dete, 来自拉丁语debitum “thing owed: 所亏欠的东西”。 来自de-（=away：离开）+ -hab（持；握；拥有）→“keep something away from someone：拿走属于别人的东西→借款，债务；情义，恩 情”。词根为deb-=to owe：欠。",
+      "examples" : [
+
+      ],
+      "frequency" : 1885,
+      "mnemonic" : "deb-（欠）+ t→亏钱别人的东西→借款；负债情况；情义",
+      "phonetic" : "det",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "debt"
+    },
+    {
+      "collocations" : [
+        "debtor countries：债务国"
+      ],
+      "definition" : "债务人；借方",
+      "examples" : [
+
+      ],
+      "frequency" : 13785,
+      "mnemonic" : "debt（借款）+-or（名词后缀，表人）→借款的一方→债务人；借方",
+      "phonetic" : "ˈdetə",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "debtor"
+    },
+    {
+      "collocations" : [
+        "due to her efforts：因为她的努力",
+        "due to start school in January：一月份要开始上学",
+        "due 15 day’s leave：应有15天的休假",
+        "due consideration：适当考虑",
+        "sb’s due：某人应得到的东西",
+        "due north\/south\/east\/west：正北\/正南\/正东\/正西",
+        "in due course：在适当的时候；到一定的时候"
+      ],
+      "definition" : "因为；预期的；（欠款）到期的；应给予的，应支付的；应",
+      "etymology" : "来自拉丁语 debere“to owe：欠；亏欠”。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "来自deb-：欠。因此引申义为由于；预期（预计的还未达到，因此为",
+      "phonetic" : "djuː",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "due"
+    },
+    {
+      "collocations" : [
+        "to pay your dues：交你的会费"
+      ],
+      "definition" : "应缴款（如俱乐部会费）（due的复数）",
+      "examples" : [
+
+      ],
+      "frequency" : 10739,
+      "mnemonic" : "due：（欠款）到期→dues：应缴款",
+      "phonetic" : "djuːz",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "dues"
+    },
+    {
+      "collocations" : [
+        "be duly signed by：由……签妥（妥当地签署）",
+        "a duly elected president：正式（以民主选举的适当方式）选出的总统",
+        "duly arrive at 9.30：在9:30准时到达"
+      ],
+      "definition" : "适当地，妥当地；准时地，如期地",
+      "examples" : [
+
+      ],
+      "frequency" : 14818,
+      "mnemonic" : "due（适当的；到……时候）+-ly（副词后缀）→适当地；准时地",
+      "phonetic" : "ˈdjuːlɪ",
+      "pos" : "adv.",
+      "rootHint" : "hib",
+      "word" : "duly"
+    },
+    {
+      "collocations" : [
+        "have a duty to do sth.：有责任去做某事",
+        "report for duty：报到上班",
+        "administrative duties：行政职责",
+        "customs\/excise\/import duties：关税；消费税；进口税",
+        "duty on wine and beer：葡萄酒和啤酒税",
+        "on\/off duty：值（或下）班；值（或不值）勤"
+      ],
+      "definition" : "责任，义务；上班；职责（duties）；税（tax）；（尤指进",
+      "examples" : [
+
+      ],
+      "mnemonic" : "due：（欠债）到期的，应支付的（责任、义务、税）→duty：due+-\nty（名词后缀）：责任；上班；职责；税",
+      "phonetic" : "ˈdjuːtɪ",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "duty"
+    },
+    {
+      "collocations" : [
+        "a dutiful daughter\/son\/wife：孝顺的女儿\/儿子；贤惠的妻子（都含有"
+      ],
+      "definition" : "尽职的；顺从的；恭敬的",
+      "examples" : [
+
+      ],
+      "frequency" : 20093,
+      "mnemonic" : "duty（责任；义务；职责）+-ful（形容词后缀，充满……的）→尽职\n的→引申义为顺从的；恭敬的",
+      "phonetic" : "ˈdjuːtɪfl",
+      "pos" : "adj.",
+      "rootHint" : "hib",
+      "word" : "dutiful"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "尽责地；忠诚地",
+      "examples" : [
+
+      ],
+      "frequency" : 13404,
+      "phonetic" : "ˈdjuːtɪfəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "hib",
+      "word" : "dutifully"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指新的或艰苦的）努力；尝试（等于endeavour）",
+      "etymology" : "Early 15c., “pains taken to attain an object,” literally “in duty,” from phrase put (oneself) in dever “make it one’s duty” (a partial translation of Old French mettre en deveir “put in duty”), from Old French dever “duty”.",
+      "examples" : [
+        "Please make every endeavor to arrive on time.\n请尽全力按时到达。\nI will endeavor to do my best for my country.\n我将竭尽全力报效祖国。"
+      ],
+      "mnemonic" : "en-（=in：进入；里面）+ deavor（=duty：责任，义务；职责）→put\noneself in duty：某人投入某种责任、义务里面→努力；尝试；竭尽",
+      "phonetic" : "ɪnˈdevə",
+      "pos" : "n.",
+      "rootHint" : "hib",
+      "word" : "endeavor"
+    }
+  ]
+}

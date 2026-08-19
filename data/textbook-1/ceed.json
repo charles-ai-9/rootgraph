@@ -1,0 +1,1263 @@
+{
+  "chapter" : "一",
+  "chapterOrder" : 1,
+  "id" : "ceed",
+  "meaningEn" : "go",
+  "meaningZh" : "",
+  "roots" : [
+    "ceed",
+    "cede",
+    "gress",
+    "gred"
+  ],
+  "semanticLabel" : "go",
+  "source" : "textbook-1",
+  "titleZh" : "go",
+  "words" : [
+    {
+      "collocations" : [
+        "data processing (考)：数据处理",
+        "information processing (考)：信息处理"
+      ],
+      "definition" : "过程，进程；v. 处理，加工",
+      "examples" : [
+
+      ],
+      "frequency" : 392,
+      "mnemonic" : "pro (向前) +cess (走) → (列队) 前进；过程，程序；加工，处理",
+      "phonetic" : "ˈprəuses",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "process"
+    },
+    {
+      "collocations" : [
+        "image processor (考)：图像处理器"
+      ],
+      "definition" : "处理器",
+      "examples" : [
+
+      ],
+      "frequency" : 4663,
+      "mnemonic" : "process (处理) +or (名词后缀，表东西) →处理器",
+      "phonetic" : "ˈprəusesə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "processor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "处理的，加工过的",
+      "examples" : [
+
+      ],
+      "frequency" : 12340,
+      "phonetic" : "pˈrəsest",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "processed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "处理；加工；对……起诉（process的ing形式）",
+      "examples" : [
+
+      ],
+      "frequency" : 4074,
+      "phonetic" : "prəˈsesɪŋ",
+      "pos" : "v.",
+      "rootHint" : "ceed",
+      "word" : "processing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "队伍，行列；一列，一排；列队行进",
+      "examples" : [
+
+      ],
+      "frequency" : 7783,
+      "phonetic" : "prəˈseʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "procession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "毕业；n.（本科）毕业生",
+      "examples" : [
+
+      ],
+      "frequency" : 2133,
+      "phonetic" : "ˈgrædjueit",
+      "pos" : "v.",
+      "rootHint" : "ceed",
+      "word" : "graduate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大学本科生",
+      "examples" : [
+
+      ],
+      "frequency" : 4804,
+      "mnemonic" : "under (下，未达到) +graduate (本科毕业) →还未本科毕业生→大学本",
+      "phonetic" : "ˌʌndəˈgrædjuət",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "undergraduate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "原料，要素，组成部分",
+      "examples" : [
+        "This means topsoil contains few of the ingredients needed for long-term\nsuccessful farming.\n这意味着表层土壤没有包含对于长期成功的农耕来说必须的成分。\n( 写作，阅读 ) 重点：“组成部分，要素”的表达：ingredient, component,\nconstituent",
+        "林肯的名言清楚地表达了：充分的准备是成功的要素之一。\nLincoln’s famous remark makes it clear that full preparation is a\ncomponent\/constituent for those who want to succeed.\nLincoln’s well-known saying clearly expresses the idea that making full\npreparation is an ingredient for success."
+      ],
+      "frequency" : 2613,
+      "mnemonic" : "in (进入) +gredi (=go走) +ent (名词后缀) →走进去 (构成新物体) 的材\n料→原料，要素，组成部分",
+      "phonetic" : "inˈgri:diənt",
+      "pos" : "n.",
+      "rootHint" : "gred",
+      "word" : "ingredient"
+    },
+    {
+      "collocations" : [
+        "aggressive behavior (考)：激进的行为"
+      ],
+      "definition" : "侵略性的，激进的",
+      "examples" : [
+
+      ],
+      "frequency" : 2538,
+      "mnemonic" : "ag (加强语气) +gress (=go：走) +ive (形容词后缀) →强行走进去的→",
+      "phonetic" : "əˈgresiv",
+      "pos" : "adj.",
+      "rootHint" : "gress",
+      "word" : "aggressive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "侵略",
+      "examples" : [
+
+      ],
+      "frequency" : 76,
+      "mnemonic" : "ag (加强语气) +gress (走) →强行走进去→侵略",
+      "phonetic" : "əˈgres",
+      "pos" : "v.",
+      "rootHint" : "gress",
+      "word" : "aggress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "进攻；侵略；侵犯；侵害",
+      "examples" : [
+
+      ],
+      "frequency" : 4572,
+      "phonetic" : "əˈgreʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "aggression"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "侵略地；攻击地；有闯劲地",
+      "examples" : [
+
+      ],
+      "frequency" : 6322,
+      "phonetic" : "əˈgresɪvli",
+      "pos" : "adv.",
+      "rootHint" : "gress",
+      "word" : "aggressively"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有侵略性的",
+      "examples" : [
+
+      ],
+      "frequency" : 15655,
+      "phonetic" : "əˈgrɛsɪvnɪs",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "aggressiveness"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "侵略者；侵略国；挑衅者",
+      "examples" : [
+
+      ],
+      "frequency" : 13815,
+      "phonetic" : "əˈgresə",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "aggressor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "\/ n. 前进，进步",
+      "examples" : [
+        "It was only after some progress had been made in the use and\ndevelopment of electric current that men began to realize the importance\nand possibilities of magnetism.\n当在使用和发展电流取得一些进步之后，人们才开始意识到电磁学的\n重要性和潜力。",
+        "当一些悲剧发生在学校中之后，人们才开始意识到大学生心理健\n康的重要性。\nIt was only after some tragedies had taken place in campus that men began\nto realize the importance of mental health among colleges students."
+      ],
+      "frequency" : 1517,
+      "mnemonic" : "pro (向前) +gress (走) →前进，进步",
+      "phonetic" : "ˈprəugres",
+      "pos" : "v.",
+      "rootHint" : "gress",
+      "word" : "progress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "前进；连续",
+      "examples" : [
+
+      ],
+      "frequency" : 7717,
+      "phonetic" : "prəˈgreʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "progression"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "进步的；先进的",
+      "examples" : [
+
+      ],
+      "frequency" : 4268,
+      "phonetic" : "prəˈgresɪv",
+      "pos" : "adj.",
+      "rootHint" : "gress",
+      "word" : "progressive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "渐进地；日益增多地",
+      "examples" : [
+
+      ],
+      "frequency" : 10732,
+      "phonetic" : "prəˈgresɪvli",
+      "pos" : "adv.",
+      "rootHint" : "gress",
+      "word" : "progressively"
+    },
+    {
+      "collocations" : [
+        "proceed with (考)：开始进行",
+        "proceed to：进入"
+      ],
+      "definition" : "前进，继续进行，开始",
+      "examples" : [
+        "Writer-director Paul Greengrass has gone to great lengths to be respectful\nin his depiction of what occurred, proceeding with the film only after\nsecuring the approval of every victim’s family.\n编剧兼导演Paul Greengrass已经竭尽全力去使自己的描述忠实于事\n实，在确保每一位受害者的家属同意之后，他才开始进行电影拍摄。",
+        "很多大学生都竭尽全力去考各种证书，以确保能找到一个有前途\n的工作。\nIn order to secure a promising job, many college students have gone to\ngreat lengths to get a variety of\/various\/all kinds of\/all sorts of certificates.",
+        "Subscribers can customize the information they want to receive and\nproceed directly to a company’s web site.\n订阅者能够定制他们想要接收的信息并且直接进入到一个公司的网站。",
+        "通过互联网，顾客们可以直接进入到一个公司的网站，定制他们\n想要的任何数字化产品。\nCustomers can proceed directly to a company’s web site and customize\/\norder the digital products they want."
+      ],
+      "frequency" : 2720,
+      "mnemonic" : "pro (向前) +ceed (=go：走) →向前走→前进， (继续) 进行，开始",
+      "phonetic" : "prəuˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "ceed",
+      "word" : "proceed"
+    },
+    {
+      "collocations" : [
+        "legal proceedings (考)：法律诉讼"
+      ],
+      "definition" : "诉讼，议程",
+      "examples" : [
+
+      ],
+      "frequency" : 5436,
+      "phonetic" : "prəˈsi:diŋz",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "proceedings"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "实收款项；收入，收益",
+      "examples" : [
+
+      ],
+      "frequency" : 8059,
+      "phonetic" : "ˈprəʊsi:dz",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "proceeds"
+    },
+    {
+      "collocations" : [
+        "surgical procedures (考)：手术程序\/步骤",
+        "legal procedures (考)：法律程序"
+      ],
+      "definition" : "程序，步骤",
+      "examples" : [
+
+      ],
+      "frequency" : 1376,
+      "mnemonic" : "pro (向前) +ced (走) +ure (名词后缀) → (一步步) 向前走→程序，步骤",
+      "phonetic" : "prəˈsi:dʒə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "procedure"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "程序上的",
+      "examples" : [
+
+      ],
+      "frequency" : 9160,
+      "phonetic" : "prəˈsi:dʒərəl",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "procedural"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "领先于，优于",
+      "examples" : [
+
+      ],
+      "frequency" : 5675,
+      "mnemonic" : "pre (提前，前面) +cede→走在前面的→领先于，在……之前",
+      "phonetic" : "pri:ˈsi:d",
+      "pos" : "v.",
+      "rootHint" : "cede",
+      "word" : "precede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "领先的，在前的",
+      "examples" : [
+
+      ],
+      "frequency" : 7208,
+      "phonetic" : "priˈsi:diŋ",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "preceding"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "先例，前例； adj. 先前的",
+      "examples" : [
+        "In the workplace, men have long had well defined precedents and role\nmodels for achieving success.\n在工作场地，对于取得成功而言，人们一直都有很明确的先例和行为\n榜样。\nThe Internet had its in a 1969 U.S. Defense Department computer\nnetwork called ARPA net, which stood for Advanced Research Projects\nAgency Network.\nA．samples B．sources C．origins D．precedents"
+      ],
+      "frequency" : 5698,
+      "mnemonic" : "pre (前) +ced (走) +ent (=ant：名词或形容词) →前面走过 (有过) 的\n(东西) →先例，前例；在前的，先前的",
+      "phonetic" : "ˈpresidənt",
+      "pos" : "n.",
+      "rootHint" : "cede",
+      "word" : "precedent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "史无前例的，空前的",
+      "examples" : [
+        "During the middle of the 19th century, Germany, along with other",
+        "在过去的几年内，整个世界经历了史无前例的数字化产品激增。\nDuring the past few years, the whole world experienced an unprecedented\nrash of digital products."
+      ],
+      "frequency" : 4450,
+      "mnemonic" : "un (表否定) +precedent (先例) +ed (的) →没有先例的→史无前例的，",
+      "phonetic" : "ˌʌnˈpresidəntid",
+      "pos" : "adj.",
+      "rootHint" : "cede",
+      "word" : "unprecedented"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "优先，居先",
+      "examples" : [
+
+      ],
+      "frequency" : 13362,
+      "mnemonic" : "pre (前面) +ced (走) +ence (名词后缀) →走在前面→ 优先，居先\nprior (优先于，先于) +ity (名词后缀) →优先权，优先",
+      "phonetic" : "ˈpresidəns",
+      "pos" : "n.",
+      "rootHint" : "cede",
+      "word" : "precedence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "在先的，在前的；优先的",
+      "examples" : [
+
+      ],
+      "frequency" : 2879,
+      "phonetic" : "ˈpraɪə",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "prior"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "给……排出优先级；优先处理；优先考虑",
+      "examples" : [
+        "在传统书和电子书中选择的时候，很多人会因价格和方便等原因优先\n考虑电子书。\nChoosing between e-books and traditional books, a large number of\npeople will give priority\/precedence to e-books with respect to price and\nconvenience."
+      ],
+      "frequency" : 13871,
+      "phonetic" : "praɪˈɔrətaɪz",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "prioritize"
+    },
+    {
+      "collocations" : [
+        "access email (考)：查收邮件",
+        "have access to (考)：进入，使用"
+      ],
+      "definition" : "\/ n. 接近，进入；使用，获取",
+      "examples" : [
+        "1. More poor and non-white students will be denied access to college.\n更多贫困的，非白人学生将被拒绝进入大学。\n2. “If systems are set up properly, staff can have access to all the resources\nthey have in the office wherever they have an internet connection,” says\nAndy Poulton, e-business advisor at Business Link for Berkshire and\nWiltshire."
+      ],
+      "frequency" : 4416,
+      "mnemonic" : "ac (加强语气) +cess (走) →走过去→接近，进入；获取，使用",
+      "phonetic" : "ˈækses",
+      "pos" : "v.",
+      "rootHint" : "ceed",
+      "word" : "access"
+    },
+    {
+      "collocations" : [
+        "accessible capital (考)：可用资金"
+      ],
+      "definition" : "可接近的，可使用的，可获得的",
+      "examples" : [
+        "伴随信息技术的发展，电子图书正在变得容易获取，因此人们很\n少去图书馆了。\nAs the development of information technology, E-books are becoming\neasily accessible to the general public, people therefore seldom\/rarely\/\nbarely go to libraries."
+      ],
+      "frequency" : 4423,
+      "mnemonic" : "access (接近，使用，获取) +ible (可以……的) →可接近的，可获取",
+      "phonetic" : "əkˈsesəbl",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "accessible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "易接近；可亲；可以得到",
+      "examples" : [
+
+      ],
+      "frequency" : 10651,
+      "phonetic" : "əkˌsesəˈbɪlətɪ",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "accessibility"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "增加；就职；到达",
+      "examples" : [
+
+      ],
+      "frequency" : 17037,
+      "phonetic" : "əkˈseʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "accession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "附件，配件，从犯",
+      "examples" : [
+
+      ],
+      "frequency" : 6532,
+      "mnemonic" : "ac (=to：去) +cess (走) +ory (名词后缀) →走进去，加入的东西→附",
+      "phonetic" : "əkˈsesəri",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "accessory"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "衰退；凹处；后退；不景气",
+      "examples" : [
+
+      ],
+      "frequency" : 3611,
+      "mnemonic" : "re (回) +cess (走) +ion (名词后缀) → (经济) 往回走→衰退，不景气",
+      "phonetic" : "riˈseʃən",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "recession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "后退；减弱",
+      "examples" : [
+
+      ],
+      "frequency" : 7814,
+      "phonetic" : "rɪˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "cede",
+      "word" : "recede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "休息；休会；凹处",
+      "examples" : [
+
+      ],
+      "frequency" : 7897,
+      "phonetic" : "rɪˈses; ˈri:ses",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "recess"
+    },
+    {
+      "collocations" : [
+        "global excess demand (考)：全球需求过剩",
+        "excess weight (考)：体重过重"
+      ],
+      "definition" : "无节制；过度，过量；超过，超额",
+      "examples" : [
+
+      ],
+      "frequency" : 5825,
+      "mnemonic" : "ex (向外，出去) +cess (走) →走出去了 (走过线了) →超过，过度",
+      "phonetic" : "ɪkˈses; ek-; ˈekses",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "excess"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过分的；过多的，极度的",
+      "examples" : [
+        "过多的证书不一定能体现出一个人的价值。\nExcessive certificates do not necessarily embody\/reflect individual value."
+      ],
+      "frequency" : 4620,
+      "mnemonic" : "excess (超过) +ive (大，多) →超过很多的→过多的，过度的",
+      "phonetic" : "ikˈsesiv",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "excessive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过分地；极度",
+      "examples" : [
+
+      ],
+      "frequency" : 12893,
+      "phonetic" : "ekˈsesɪvlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceed",
+      "word" : "excessively"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "胜过；超过",
+      "examples" : [
+        "If current trends continue, experts predict annual vehicle thefts could\nexceed two million by the end of the decade.\n专家预测，如果当前的趋势继续，每年的车辆盗窃事件十年后将超过\n200万起。\n（写作，阅读）重点：“超过”的表达方式：exceed\/surpass",
+        "近些年来，大学生学英语的时间已经超过了对中文的学习，如果这\n种趋势继续，有专家认为，在文学方面有所建树的人将会越来越少。\nIn recent years, the time spent in learning English has exceeded\/surpassed\nChinese among college students. If the current trend continues, experts\nmaintain that those succeeding in Chinese literature will become less and less.\nReaders will be required to pay when they have a set number of its\nonline articles per month.\nA．exceeded B．multiplied C．assumed D．revealed"
+      ],
+      "frequency" : 3308,
+      "mnemonic" : "ex (向外，出) +ceed (走) →走出去，走过→超过，超出",
+      "phonetic" : "ɪkˈsi:d; ek-",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "exceed"
+    },
+    {
+      "collocations" : [
+        "exceedingly polite forms (考)：及其礼貌的形式"
+      ],
+      "definition" : "非常；极其；极端；极度地",
+      "examples" : [
+
+      ],
+      "frequency" : 11078,
+      "phonetic" : "ikˈsi:diŋli",
+      "pos" : "adv.",
+      "rootHint" : "ceed",
+      "word" : "exceedingly"
+    },
+    {
+      "collocations" : [
+        "a ceaselessly changing world (考)：一个永无休止变化的世界"
+      ],
+      "definition" : "\/ vi. \/ n. 停止；终了",
+      "examples" : [
+
+      ],
+      "frequency" : 4518,
+      "mnemonic" : "ceas (=cess：走；而且-eas部分还在刻意模仿单词end：结束，尽头；\ns，d音似，n的增减合理) →走到尽头→终止，停止；s，d读音音似，\n可以相互转变的例证：decide→decision；divide→division",
+      "phonetic" : "si:s",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "cease"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "停火",
+      "examples" : [
+
+      ],
+      "frequency" : 7188,
+      "phonetic" : "ˈsi:sˈfaiə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "cease-fire"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不断的；不停的",
+      "examples" : [
+
+      ],
+      "frequency" : 526,
+      "phonetic" : "ˈsi:slɪs",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "ceaseless"
+    },
+    {
+      "collocations" : [
+        "succeed in (doing) sth. (考)：成功做……"
+      ],
+      "definition" : "成功；继承；继任；兴旺",
+      "examples" : [
+
+      ],
+      "frequency" : 2035,
+      "mnemonic" : "suc (下) +ceed (走) → 一直走下去，一直走到底→成功suc (后) +ceed\n(走) →走在后面→继续，继承，继任",
+      "phonetic" : "səkˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "ceed",
+      "word" : "succeed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "随后的，以后的",
+      "examples" : [
+
+      ],
+      "frequency" : 15434,
+      "phonetic" : "səkˈsi:diŋ",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "succeeding"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "成功，成就；胜利；大获成功的人或事物",
+      "examples" : [
+
+      ],
+      "frequency" : 778,
+      "phonetic" : "səkˈses",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "success"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "成功的；一帆风顺的",
+      "examples" : [
+
+      ],
+      "frequency" : 1105,
+      "phonetic" : "səkˈsesfʊl; -f(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "successful"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "顺利地；成功地",
+      "examples" : [
+
+      ],
+      "frequency" : 3205,
+      "phonetic" : "səkˈsesfəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceed",
+      "word" : "successfully"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "继承者；后续的事物",
+      "examples" : [
+
+      ],
+      "frequency" : 5502,
+      "mnemonic" : "success (继承，接任) +or (名词后缀，表人) →继承人，继任者",
+      "phonetic" : "səkˈsesə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "successor"
+    },
+    {
+      "collocations" : [
+        "a succession of books (考)：一连串的书"
+      ],
+      "definition" : "连续；继位；继承权；[农业]轮栽",
+      "examples" : [
+
+      ],
+      "frequency" : 6484,
+      "phonetic" : "səkˈseʃən",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "succession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连续的；继承的；依次的；接替的",
+      "examples" : [
+        "Countries like Japan and Germany have successively tightened building\ncodes, requiring an increase in insulation levels but leaving it up to\nbuilders to decide how to meet them.\n日本，德国等国家已经相继加强了建筑规范，要求提高建筑物的绝缘\n等级，但是由建筑商来自行决定怎么去达到这些等级。",
+        "日本，德国等国家已经相继出台了一些规定，要求增加学生对于\n本国语言的学习时间。\nCountries like Japan and Germany have successively announced rules,\nrequiring an increase in time for learning their own languages."
+      ],
+      "frequency" : 8209,
+      "phonetic" : "səkˈsesiv",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "successive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "前任，前辈",
+      "examples" : [
+
+      ],
+      "frequency" : 5325,
+      "mnemonic" : "pre (前) +decess (=retire：退休) +or (表“人”) →走在前面，现在已经\n下台的人→前任，前辈",
+      "phonetic" : "ˈpri:disesə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "predecessor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "必要的；必然的；必需的",
+      "examples" : [
+
+      ],
+      "frequency" : 985,
+      "phonetic" : "ˈnesɪsərɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "necessary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "必要地；必定地，必然地",
+      "examples" : [
+
+      ],
+      "frequency" : 1971,
+      "phonetic" : "ˈnesəs(ə)rɪlɪ; ˌnesəˈserɪlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceed",
+      "word" : "necessarily"
+    },
+    {
+      "collocations" : [
+        "out of necessity (考)：出于需要\/迫不得已"
+      ],
+      "definition" : "需要；必需品；必然性",
+      "examples" : [
+
+      ],
+      "frequency" : 3986,
+      "mnemonic" : "necess (=necessary：必须的) +ity (名词后缀) →必需品，必要性",
+      "phonetic" : "niˈsesəti",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "necessity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使成为必需，需要；迫使",
+      "examples" : [
+
+      ],
+      "frequency" : 10483,
+      "phonetic" : "nɪˈsesɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "necessitate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使……丢脸；使……降级；使……降解；贬低",
+      "examples" : [
+
+      ],
+      "frequency" : 8605,
+      "mnemonic" : "de (向下) +grade (级别) →级别向下→降级，退化",
+      "phonetic" : "ˈdiˈɡreid",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "degrade"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "降格，降级；退化；堕落",
+      "examples" : [
+
+      ],
+      "frequency" : 7910,
+      "phonetic" : "ˌdegrəˈdeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "degradation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "提升；使升级；改良品种",
+      "examples" : [
+
+      ],
+      "frequency" : 6016,
+      "mnemonic" : "up (向上) +grade (级别) →级别向上→升级，上升",
+      "phonetic" : "ˈʌpɡreidˌ",
+      "pos" : "vt.",
+      "rootHint" : "ceed",
+      "word" : "upgrade"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "逐渐的；平缓的",
+      "examples" : [
+
+      ],
+      "frequency" : 6893,
+      "phonetic" : "ˈgrædʒʊəl",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "gradual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "渐渐地；逐步地",
+      "examples" : [
+
+      ],
+      "frequency" : 2986,
+      "phonetic" : "ˈgrædʒʊlɪ; ˈgrædjʊəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceed",
+      "word" : "gradually"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "国会；会议；代表大会；社交",
+      "examples" : [
+
+      ],
+      "frequency" : 639,
+      "mnemonic" : "con (共同，一起) +gress (走) →走到一起→开会 (代表大会，国会)",
+      "phonetic" : "ˈkɔŋgres",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "congress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "国会的；会议的；议会的",
+      "examples" : [
+
+      ],
+      "frequency" : 2330,
+      "phonetic" : "kənˈɡreʃənəl",
+      "pos" : "adj.",
+      "rootHint" : "gress",
+      "word" : "congressional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "国会议员；众议院议员",
+      "examples" : [
+
+      ],
+      "frequency" : 5457,
+      "phonetic" : "ˈkɑŋgrəsmən",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "congressman"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "始祖，祖先；被继承人",
+      "examples" : [
+
+      ],
+      "frequency" : 4178,
+      "phonetic" : "ˈænsestə",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "ancestor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "祖先的；祖传的",
+      "examples" : [
+
+      ],
+      "frequency" : 9154,
+      "phonetic" : "ænˈsestr(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "ancestral"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "祖先；血统",
+      "examples" : [
+
+      ],
+      "frequency" : 11086,
+      "phonetic" : "ˈænsestrɪ",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "ancestry"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "承认；退让；给予，容许",
+      "examples" : [
+
+      ],
+      "frequency" : 4232,
+      "phonetic" : "kənˈsi:d",
+      "pos" : "vt.",
+      "rootHint" : "cede",
+      "word" : "concede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "让步；特许（权）；承认；退位",
+      "examples" : [
+
+      ],
+      "frequency" : 5059,
+      "phonetic" : "kənˈseʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "concession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "脓肿；脓疮",
+      "examples" : [
+
+      ],
+      "frequency" : 19996,
+      "phonetic" : "ˈæbsɪs; -ses",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "abscess"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "同意；加入；就任",
+      "examples" : [
+
+      ],
+      "frequency" : 18767,
+      "phonetic" : "əkˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "cede",
+      "word" : "accede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "在……之前；胜过；居前",
+      "examples" : [
+
+      ],
+      "frequency" : 5,
+      "phonetic" : "ˌæntɪˈsi:d",
+      "pos" : "vt.",
+      "rootHint" : "cede",
+      "word" : "antecede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "先行词；前情；祖先",
+      "examples" : [
+
+      ],
+      "frequency" : 17181,
+      "phonetic" : "ˌæntɪˈsi:d(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "cede",
+      "word" : "antecedent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不断的；不停的；连续的",
+      "examples" : [
+
+      ],
+      "frequency" : 15157,
+      "phonetic" : "ɪnˈses(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "ceed",
+      "word" : "incessant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "调解，调停；求情，说项",
+      "examples" : [
+
+      ],
+      "frequency" : 19900,
+      "phonetic" : "ˌɪntəˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "cede",
+      "word" : "intercede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "退出；脱离",
+      "examples" : [
+
+      ],
+      "frequency" : 18480,
+      "phonetic" : "sɪˈsi:d",
+      "pos" : "vi.",
+      "rootHint" : "cede",
+      "word" : "secede"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "脱离；分离",
+      "examples" : [
+
+      ],
+      "frequency" : 15134,
+      "phonetic" : "sɪˈseʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceed",
+      "word" : "secession"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "离题，岔道",
+      "examples" : [
+
+      ],
+      "frequency" : 260,
+      "phonetic" : "daɪˈgres",
+      "pos" : "vi.",
+      "rootHint" : "gress",
+      "word" : "digress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "逆行，倒退；复归",
+      "examples" : [
+
+      ],
+      "frequency" : 17690,
+      "phonetic" : "rɪˈgres",
+      "pos" : "vi.",
+      "rootHint" : "gress",
+      "word" : "regress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "逆行；退化；回归；复原",
+      "examples" : [
+
+      ],
+      "frequency" : 5467,
+      "phonetic" : "rɪˈgreʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "regression"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "回归的；后退的；退化的",
+      "examples" : [
+
+      ],
+      "frequency" : 19521,
+      "phonetic" : "rɪˈgresɪv",
+      "pos" : "adj.",
+      "rootHint" : "gress",
+      "word" : "regressive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "进入；入口；准许进入；入境",
+      "examples" : [
+
+      ],
+      "frequency" : 80,
+      "phonetic" : "ˈɪngres",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "ingress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "犯罪；违反；越界",
+      "examples" : [
+
+      ],
+      "frequency" : 12869,
+      "phonetic" : "trænsˈgreʃn; trænzˈgreʃn",
+      "pos" : "n.",
+      "rootHint" : "gress",
+      "word" : "transgression"
+    }
+  ]
+}

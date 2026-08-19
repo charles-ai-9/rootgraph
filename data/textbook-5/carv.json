@@ -1,0 +1,1666 @@
+{
+  "chapter" : "12",
+  "chapterOrder" : 112,
+  "id" : "carv",
+  "meaningEn" : "cut，表示“切割，雕刻”。",
+  "roots" : [
+    "carv"
+  ],
+  "semanticLabel" : "cut，表示切割，雕刻。",
+  "source" : "textbook-5",
+  "titleZh" : "cut，表示切割，雕刻。",
+  "words" : [
+    {
+      "collocations" : [
+        "carve a place for herself in the fashion world：她在时装界谋得一席之地",
+        "carve sth. up：瓜分"
+      ],
+      "definition" : "&vi. 雕刻；刻上；切",
+      "examples" : [
+
+      ],
+      "frequency" : 3840,
+      "mnemonic" : "carv-（=cut：切割，雕刻）+ e→切；雕刻",
+      "phonetic" : "kɑːv",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "carve"
+    },
+    {
+      "collocations" : [
+        "carved in stone：（决定、计划等）不能改变的；板上钉钉",
+        "carved stone：石刻；石雕"
+      ],
+      "definition" : "切好的；有雕刻的",
+      "examples" : [
+
+      ],
+      "frequency" : 8299,
+      "phonetic" : "karvd",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "carved"
+    },
+    {
+      "collocations" : [
+        "a thousand carvers：一千个雕刻工"
+      ],
+      "definition" : "雕刻工",
+      "examples" : [
+
+      ],
+      "frequency" : 16163,
+      "phonetic" : "ˈkɑrvɚ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carver"
+    },
+    {
+      "collocations" : [
+        "a wood carving：一尊木雕"
+      ],
+      "definition" : "雕刻品；雕刻艺术",
+      "examples" : [
+
+      ],
+      "frequency" : 8375,
+      "phonetic" : "ˈkɑːvɪŋ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carving"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "螃蟹；蟹肉；脾气乖戾的人；起重机",
+      "etymology" : "Popular name for a stalk-eyed, short-tailed, ten-legged crustacean, Old English crabba, related to Low German krabben, Dutch krabelen “to scratch, claw,” from PIE root *gerbh- “to scratch, carve” (see carve). Crab：螃蟹",
+      "examples" : [
+
+      ],
+      "frequency" : 5163,
+      "phonetic" : "kræb",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "crab"
+    },
+    {
+      "collocations" : [
+        "crawl out of bed at nine-thirty：9:30我才慢慢地爬下床",
+        "do 50 lengths of the crawl：自由泳游50趟"
+      ],
+      "definition" : "爬行；缓慢爬行 n. 缓慢行进；自由泳（the crawl）3874",
+      "etymology" : "c. 1200, creulen, “to move slowly by drawing the body across the ground”. 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "mnemonic" : "crab：螃蟹→crawl：爬行；缓慢爬行",
+      "phonetic" : "krɔːl",
+      "pos" : "vi.",
+      "rootHint" : "carv",
+      "word" : "crawl"
+    },
+    {
+      "collocations" : [
+        "scrawl a hasty note：草草写了张便条",
+        "barely decipherable scrawl：几乎无法辨认的潦草字迹"
+      ],
+      "definition" : "潦草地写 n. 潦草的字迹",
+      "examples" : [
+
+      ],
+      "frequency" : 14332,
+      "mnemonic" : "crawl：爬行→scrawl：字在纸上爬行：潦草地写；潦草的字迹",
+      "phonetic" : "skrɔːl",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "scrawl"
+    },
+    {
+      "collocations" : [
+        "an inch-long gash just above his right eye：他右眼上方一道一英寸长的"
+      ],
+      "definition" : "深长的切口 vt. 割破",
+      "etymology" : "Mid-14c., carecter, “symbol marked or branded on the body;” mid-15c., “symbol or drawing used in sorcery;” late 15c., “alphabetic letter, graphic symbol standing for a sound or syllable;” from Old French caratere “feature, character” (13c., Modern French caractère), from Latin character, from Greek kharaktēr “engraved mark,” also “symbol or imprint on the soul,” properly “instrument for marking,” from kharassein “to engrave,” from kharax “pointed stake,” a word of uncertain etymology which Beekes considers “most probably Pre-Greek.” The Latin ch- spelling was restored from 1500s.",
+      "examples" : [
+
+      ],
+      "frequency" : 16423,
+      "mnemonic" : "gash=cut：切口",
+      "phonetic" : "gæʃ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "gash"
+    },
+    {
+      "collocations" : [
+        "dual character：双重性格",
+        "integrity of character：正直的品格",
+        "character traits \/ defects：性格特点\/弱点",
+        "character-building：磨练意志",
+        "a face with a lot of character：与众不同的面孔"
+      ],
+      "definition" : "性格；（具有某种特性的）人；（电影、书、戏剧",
+      "examples" : [
+
+      ],
+      "mnemonic" : "char（=carve：雕刻，刻）+ act（行为）+ -er（名词后缀）→刻进去\n的行为→性格，品质，特征（这些像是“深深刻在人心里的行为准",
+      "phonetic" : "ˈkærəktə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "character"
+    },
+    {
+      "collocations" : [
+        "personal characteristics：个性",
+        "characteristic of human nature：人性的特点"
+      ],
+      "definition" : "特有的；典型的 n. 特征；品质",
+      "examples" : [
+
+      ],
+      "frequency" : 2049,
+      "mnemonic" : "character（特征）+ -istic（复合名词或形容词后缀）→特有的；典型",
+      "phonetic" : "kærəktəˈrɪstɪk",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "characteristic"
+    },
+    {
+      "collocations" : [
+        "a characteristically strong statement：一个典型的强烈的论述"
+      ],
+      "definition" : "典型地",
+      "examples" : [
+
+      ],
+      "frequency" : 14974,
+      "phonetic" : "ˌkæriktəˈristikli",
+      "pos" : "adv.",
+      "rootHint" : "carv",
+      "word" : "characteristically"
+    },
+    {
+      "collocations" : [
+        "be interested in characterization：对人物刻画感兴趣"
+      ],
+      "definition" : "（作家的）人物刻画；（演员的）人",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˌkærəktəraɪˈzeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "characterization"
+    },
+    {
+      "collocations" : [
+        "be characterized by：以……为特点"
+      ],
+      "definition" : "以……为特征；使……具有特点；描述，刻",
+      "examples" : [
+        "日本教育以机械学习和缺乏创造性为特点。",
+        "中国的大学教育以考各种证书为特点。\nThe university education of China is characterized by getting various\ncertificates."
+      ],
+      "mnemonic" : "character（特征）+ -ize（使动词后缀）→以……为特征；使……具有",
+      "phonetic" : "ˈkærəktəˈraɪz",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "characterize"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非（某人）特征性的；表现奇怪的",
+      "examples" : [
+        "It was uncharacteristic of her father to disappear like this.\n就这样消失不是她父亲的风格。\n与 uncharacteristic 一 样， 表 示“ 反 常 的； 奇 怪 的” 含 义 的 单 词 还 有\nbizarre。"
+      ],
+      "phonetic" : "ˌʌnkærəktəˈrɪstɪk",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "uncharacteristic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "奇异的（指态度，容貌，款式等）；异乎寻常的",
+      "examples" : [
+
+      ],
+      "frequency" : 5007,
+      "mnemonic" : "bizarr（=beard：胡须）+ e→长满胡须的→奇形怪状的，怪诞的（原",
+      "phonetic" : "bɪˈzɑː",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "bizarre"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不同寻常地；一反常态地",
+      "examples" : [
+        "Owen has been uncharacteristically silent.\n欧文一反常态地保持着沉默。"
+      ],
+      "frequency" : 18681,
+      "phonetic" : "ˌʌnˌkæriktəˈristikli",
+      "pos" : "adv.",
+      "rootHint" : "carv",
+      "word" : "uncharacteristically"
+    },
+    {
+      "collocations" : [
+        "traits of character：性格特点",
+        "human trait：人性特点",
+        "personality traits：个性特点"
+      ],
+      "definition" : "（人的个性的）特征；特点",
+      "etymology" : "skel- (1) Also *kel-, Proto-Indo-European root meaning “to cut.” It is the hypothetical source of\/evidence for its existence is provided by: Latin culter “knife,” scalpere “to cut, scrape;” Old Church Slavonic skolika “mussel, shell,” Russian skala “rind, bark,” Lithuanian skelti “split,” Old English scell “shell,” scalu “drinking cup, bowl, scale of a balance.”",
+      "examples" : [
+
+      ],
+      "frequency" : 3773,
+      "phonetic" : "treɪt",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "trait"
+    },
+    {
+      "collocations" : [
+        "be sculpted by surface erosion：由地表侵蚀形成的"
+      ],
+      "definition" : "&vi. 雕刻；雕塑；使成形",
+      "examples" : [
+
+      ],
+      "frequency" : 12357,
+      "mnemonic" : "1826 (implied in sculpted), from French sculpter, from Latin sculpt-, past\nparticiple stem of sculpere “to carve” (see sculpture). Related: Sculpting.\nsculpt=carve：雕刻；雕塑",
+      "phonetic" : "skʌlpt",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "sculpt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "雕塑家",
+      "examples" : [
+
+      ],
+      "frequency" : 8323,
+      "mnemonic" : "sculpt（雕塑）+ -or（名词后缀，表示人）→雕塑家",
+      "phonetic" : "ˈskʌlptə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "sculptor"
+    },
+    {
+      "collocations" : [
+        "a marble sculpture of Venus：维纳斯的大理石雕像",
+        "the techniques of sculpture in stone：石雕技艺"
+      ],
+      "definition" : "雕塑；雕塑艺术",
+      "examples" : [
+
+      ],
+      "frequency" : 3457,
+      "mnemonic" : "sculpt（=carve：雕刻）+ -ure（名词后缀）→雕塑；雕刻",
+      "phonetic" : "ˈskʌlptʃə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "sculpture"
+    },
+    {
+      "collocations" : [
+        "work with clay as a sculptural form：用粘土来做雕塑"
+      ],
+      "definition" : "雕塑的；雕刻的",
+      "examples" : [
+
+      ],
+      "frequency" : 14817,
+      "phonetic" : "ˈskʌlptʃərəl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "sculptural"
+    },
+    {
+      "collocations" : [
+        "a sculpted ornament：雕刻装饰物",
+        "sculpted landscapes：被（风蚀等）雕刻的景观"
+      ],
+      "definition" : "雕刻般的，雕塑般的（指外观线条清晰、表面光",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sculpt（雕塑）+ -ed（形容词后缀）→雕塑般的",
+      "phonetic" : "skʌlptid",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "sculpted"
+    },
+    {
+      "collocations" : [
+        "scalpel blade：手术刀片"
+      ],
+      "definition" : "解剖刀；外科手术刀",
+      "etymology" : "1742, 来自拉丁语scalpellum “a surgical knife”，外科手术刀。单词 scalprum “knife, chisel, tool for scraping or cutting”的小词形式。",
+      "examples" : [
+
+      ],
+      "frequency" : 15746,
+      "mnemonic" : "scalp（=sculp：to carve, cut：刻；切）+ el（表示小）→小的用于做\n手术的刀→外科手术刀",
+      "phonetic" : "ˈskælp(ə)l",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scalpel"
+    },
+    {
+      "collocations" : [
+        "smooth his hair back over his scalp：把头发顺着头皮往后捋平"
+      ],
+      "definition" : "头皮 v. 剥下带发头皮（作为战利品）",
+      "examples" : [
+
+      ],
+      "frequency" : 8833,
+      "phonetic" : "skælp",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scalp"
+    },
+    {
+      "collocations" : [
+        "learn new skills：学习新技术",
+        "the skill of its craftsman：工匠的技艺"
+      ],
+      "definition" : "（专门）技术；技能；技艺",
+      "etymology" : "Late 12c., “power of discernment,” 指“识别能力，洞察力”。来自古 挪威语skil “distinction, ability to make out, discernment, adjustment,” 含 义为“区分；理解；识别；调整”。Related to skilja (v.) “to separate; discern, understand,” from PIE root *skel- (1) “to cut.” Sense of “ability, cleverness” first recorded early 13c.",
+      "examples" : [
+
+      ],
+      "frequency" : 825,
+      "phonetic" : "skɪl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "skill"
+    },
+    {
+      "collocations" : [
+        "be highly skilled at：在……方面很有一手",
+        "skilled labor：技术工人",
+        "a skilled engineer \/ negotiator \/ craftsman：高明的工程师；老练的谈判"
+      ],
+      "definition" : "有技能的；熟练的；需要专门技术的",
+      "examples" : [
+
+      ],
+      "frequency" : 4961,
+      "phonetic" : "skɪld",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "skilled"
+    },
+    {
+      "collocations" : [
+        "a skillful player \/ performer \/ teacher：技术好的运动员；功夫深的表演"
+      ],
+      "definition" : "技术好的；熟练的；制作精良的；处理巧妙的",
+      "examples" : [
+
+      ],
+      "frequency" : 12646,
+      "phonetic" : "ˈskɪlfəl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "skillful"
+    },
+    {
+      "collocations" : [
+        "act skillfully：技巧熟练地行动",
+        "be skillfully adapted from the original：从原著巧妙地改编而来"
+      ],
+      "definition" : "技巧熟练地；巧妙地",
+      "examples" : [
+
+      ],
+      "frequency" : 14190,
+      "phonetic" : "ˈskɪlfəli",
+      "pos" : "adv.",
+      "rootHint" : "carv",
+      "word" : "skillfully"
+    },
+    {
+      "collocations" : [
+        "low-paid, unskilled jobs：低报酬、无需专门技能的工作"
+      ],
+      "definition" : "未经专门训练的；无需专门技能的",
+      "examples" : [
+
+      ],
+      "frequency" : 14941,
+      "phonetic" : "ʌnˈskɪld",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "unskilled"
+    },
+    {
+      "collocations" : [
+        "underestimate the scale of the problem：低估了问题的严重性",
+        "scale the heights of his profession：登上了他事业的顶峰",
+        "out of scale with：与……不成比例",
+        "to scale：按比例"
+      ],
+      "definition" : "规模；范围；等级；比例尺 vt. 攀登",
+      "etymology" : "鱼鳞：“skin plates on fish or snakes,” c. 1300, from Old French escale “cup, scale, shell pod, husk” (12c., Modern French écale) “scale, husk”. 称量仪器：weighing instrument, early 15c.; earlier “pan of a balance” (late 14c.); earlier still “drinking cup” (c. 1200).",
+      "examples" : [
+
+      ],
+      "frequency" : 1227,
+      "mnemonic" : "平行的刻度看起来就像鱼鳞一样，所以就用原本表示“鳞”的单词\nscale来表示刻度。scale的众多含义都是从“鳞”和“刻度”这两个基",
+      "phonetic" : "skeɪl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scale"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "规模小的",
+      "examples" : [
+        "Mercedes is not new to making small cars, but its efforts have been\ncrippled by products that are sub-scale and over-engineered."
+      ],
+      "frequency" : 6465,
+      "mnemonic" : "sub-（=below：在……以下）+scale（规模）→在规模以下→规模小",
+      "phonetic" : "ˈsʌbˌskeil",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "subscale"
+    },
+    {
+      "collocations" : [
+        "large-scale development：大规模的开发",
+        "a large-scale map of the county：一张该县的大比例尺地图"
+      ],
+      "definition" : "大规模的；大范围的；（地图或图表）大比例",
+      "examples" : [
+
+      ],
+      "mnemonic" : "large（大的）+scale（规模；范围；比例）→大规模的；大比例的",
+      "phonetic" : "ˈlɑ:dʒskeɪl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "large-scale"
+    },
+    {
+      "collocations" : [
+        "scale up：按比例放大"
+      ],
+      "definition" : "缩放比例",
+      "etymology" : "Old English half, halb (Mercian), healf (W. Saxon) “side, part,” not necessarily of equal division (original sense preserved in behalf), from Proto-Germanic *halba- “something divided” (source also of Old Saxon halba, Old Norse halfr, Old Frisian, Middle Dutch half, German halb, Gothic halbs “half”), a word of no certain etymology. Perhaps from PIE root *skel- (1) “to cut,” or perhaps a substratum word. Noun, adjective, and adverb all were in Old English.",
+      "examples" : [
+
+      ],
+      "frequency" : 20125,
+      "phonetic" : "ˈskelɪŋ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scaling"
+    },
+    {
+      "collocations" : [
+        "go halves：分摊费用",
+        "feel half dead with tiredness：感觉累得半死",
+        "half closed：半闭着",
+        "half Italian and half English：一半意大利一半英国血统"
+      ],
+      "definition" : "一半；半场 adj. 一半的 adv. 部分地；一半……血统地；半……",
+      "examples" : [
+
+      ],
+      "phonetic" : "hɑːf",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "half"
+    },
+    {
+      "collocations" : [
+        "halfway up the ladder：梯子上到了一半",
+        "meet someone halfway：对某人让步",
+        "give up halfway：半途而废"
+      ],
+      "definition" : "在中途地；在中间地；相当地 adj. 在中间的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "half（一半的）+ way（路；道路）→道路走到一半的→在中途地；在",
+      "phonetic" : "hɑːfˈweɪ;ˈhɑːfweɪ",
+      "pos" : "adv.",
+      "rootHint" : "carv",
+      "word" : "halfway"
+    },
+    {
+      "collocations" : [
+        "in behalf of somebody \/ in sb.’s behalf：为帮助某人",
+        "on behalf of somebody \/ on sb.’s behalf：代表（或代替）某人"
+      ],
+      "definition" : "利益；代表",
+      "etymology" : "c. 1300, behalve (with dative suffix), “for the sake or benefit, advantage, interest” (of someone), from Old English (him) be healfe “by (his) side”.",
+      "examples" : [
+
+      ],
+      "frequency" : 4483,
+      "mnemonic" : "be-（=by：附近）+half（一半）→在另一边的，代表另一方利益的→",
+      "phonetic" : "bɪˈhɑːf",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "behalf"
+    },
+    {
+      "collocations" : [
+        "the half-hour wait：半小时的等待"
+      ],
+      "definition" : "半小时；30分钟",
+      "examples" : [
+
+      ],
+      "frequency" : 7583,
+      "mnemonic" : "half（半）+ hour（小时）→半小时",
+      "phonetic" : "ˈhɑ:fauə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "half-hour"
+    },
+    {
+      "collocations" : [
+        "find one-half of your funding：找到一半资金"
+      ],
+      "definition" : "一半；二分之一",
+      "examples" : [
+
+      ],
+      "frequency" : 9591,
+      "mnemonic" : "one（一）+ half（半）→一半；二分之一",
+      "phonetic" : "wʌnhɑːf",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "one-half"
+    },
+    {
+      "collocations" : [
+        "halve the risk：把风险减半",
+        "halve the pineapple：把菠萝对半切开"
+      ],
+      "definition" : "&vi. 使减半；减为一半 vt. 把……对半分开",
+      "examples" : [
+
+      ],
+      "frequency" : 10324,
+      "mnemonic" : "half：一半→halve：使减半；对半分开",
+      "phonetic" : "hɑːv",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "halve"
+    },
+    {
+      "collocations" : [
+        "during the past half-century：近半个世纪"
+      ],
+      "definition" : "半个世纪",
+      "examples" : [
+
+      ],
+      "frequency" : 14508,
+      "mnemonic" : "half（一半）+century（世纪）→半个世纪",
+      "phonetic" : "ˈhɑ:fˈsentʃərɪ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "half-century"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "半英里",
+      "examples" : [
+
+      ],
+      "frequency" : 17114,
+      "mnemonic" : "half（一半）+mile（英里）→半英里",
+      "phonetic" : "hɑːfmaɪl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "half-mile"
+    },
+    {
+      "collocations" : [
+        "make a half-hearted attempt to justify himself：没有尽力证明他自己有理",
+        "a halfhearted apology：一个半心半意的道歉"
+      ],
+      "definition" : "半心半意的；不热心的",
+      "examples" : [
+
+      ],
+      "frequency" : 19297,
+      "mnemonic" : "half（一半）+hearted（有……之心的）→有一半心情的→不热心的",
+      "phonetic" : "ˈhɑːfha:tidˈha:f-",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "half-hearted"
+    },
+    {
+      "collocations" : [
+        "a population of half-million：五十万人口"
+      ],
+      "definition" : "五十万",
+      "etymology" : "“group of fish,” late 14c., scole, from Middle Dutch schole (Dutch school) “group of fish or other animals,” cognate with Old English scolu “band, troop, crowd of fish,” from West Germanic *skulo- (source also of Old Saxon scola “troop, multitude,” West Frisian skoal), perhaps with a literal sense of “division,” from PIE root *skel- (1) “to cut.” Compare shoal (n.2)). For possible sense development, compare section (n.) from Latin secare “to cut.” school：鱼群 20000 词汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 19977,
+      "mnemonic" : "half（一半）+million（一百万）→五十万",
+      "phonetic" : "hɑːfˈmɪljən",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "half-million"
+    },
+    {
+      "collocations" : [
+        "the Chicago school of economists：芝加哥经济学派",
+        "the school of the soldier：训练士兵",
+        "a school of fish：一群鱼"
+      ],
+      "definition" : "学校；学派；学院 vt. 训练；教育 n. 鱼群；水生动物群",
+      "examples" : [
+
+      ],
+      "frequency" : 125,
+      "phonetic" : "skuːl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "school"
+    },
+    {
+      "collocations" : [
+        "formal schooling：正式学校教育"
+      ],
+      "definition" : "学校教育",
+      "examples" : [
+
+      ],
+      "frequency" : 8124,
+      "phonetic" : "ˈskuːlɪŋ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schooling"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "教师",
+      "examples" : [
+
+      ],
+      "frequency" : 10898,
+      "mnemonic" : "school（学校）+ teacher（教师）→教师",
+      "phonetic" : "ˈskuːltiːtʃə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolteacher"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "小学生",
+      "examples" : [
+
+      ],
+      "frequency" : 11408,
+      "mnemonic" : "school（学校）+ child（孩子）→小学生",
+      "phonetic" : "ˈskuːltʃaɪld",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolchild"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "校舍；教师住房",
+      "examples" : [
+
+      ],
+      "frequency" : 15268,
+      "mnemonic" : "school（学校）+ house（房屋）→学校的房屋→校舍；教师住房",
+      "phonetic" : "ˈskuːlhaʊs",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolhouse"
+    },
+    {
+      "collocations" : [
+        "school-based course：校本课程"
+      ],
+      "definition" : "基于学校的；校本的",
+      "examples" : [
+
+      ],
+      "frequency" : 15513,
+      "mnemonic" : "school（学校）+ based（基地（或总部）在……的）→基于学校的",
+      "phonetic" : "ˈskuːlbeɪst",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "school-based"
+    },
+    {
+      "collocations" : [
+        "half a dozen giggling schoolgirls：6个咯咯笑的女学生"
+      ],
+      "definition" : "女学生",
+      "examples" : [
+
+      ],
+      "frequency" : 16545,
+      "mnemonic" : "school（学校）+ girl（女孩）→学校里的女孩→女学生",
+      "phonetic" : "ˈskuːlgɜːl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolgirl"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "操场",
+      "examples" : [
+
+      ],
+      "frequency" : 16955,
+      "mnemonic" : "school（学校）+ yard（场地；院子）→学校里的场地→操场",
+      "phonetic" : "ˈskuːljɑːd",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolyard"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "学校作业",
+      "examples" : [
+
+      ],
+      "frequency" : 17652,
+      "mnemonic" : "school（学校）+ work（功课）→学校的功课→学校作业",
+      "phonetic" : "ˈskuːlwɜːk",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolwork"
+    },
+    {
+      "collocations" : [
+        "school-age children：学龄儿童"
+      ],
+      "definition" : "学龄 adj. 学龄的",
+      "examples" : [
+
+      ],
+      "frequency" : 17958,
+      "mnemonic" : "school（学校）+ age（年龄）→学龄",
+      "phonetic" : "ˈsku:leidʒ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "school-age"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "男学生",
+      "examples" : [
+
+      ],
+      "frequency" : 17098,
+      "mnemonic" : "school（学校）+ boy（男孩）→学校里的男孩→男学生",
+      "phonetic" : "ˈskuːlbɒɪ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolboy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "同学；同窗",
+      "examples" : [
+
+      ],
+      "frequency" : 19952,
+      "mnemonic" : "school（学校）+ mate（朋友；伙伴）→学校里的伙伴→同学",
+      "phonetic" : "ˈskuːlmeɪt",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "schoolmate"
+    },
+    {
+      "collocations" : [
+        "an after-school program：课外活动计划"
+      ],
+      "definition" : "课外的",
+      "examples" : [
+
+      ],
+      "frequency" : 11692,
+      "mnemonic" : "after（在……之后）+ school（学校）→学校之后的→课外的",
+      "phonetic" : "ˈæftəskʊl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "after-school"
+    },
+    {
+      "collocations" : [
+        "old-school rap：老派说唱"
+      ],
+      "definition" : "旧时的；老派的",
+      "examples" : [
+
+      ],
+      "frequency" : 19082,
+      "phonetic" : "əʊldskʊl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "old-school"
+    },
+    {
+      "collocations" : [
+        "the most distinguished scholar：成就最为卓著的学者",
+        "visiting scholar：访问学者"
+      ],
+      "definition" : "学者；奖学金获得者",
+      "etymology" : "来自古英语scolere “student,” from Medieval Latin scholaris, noun use of Late Latin scholaris “of a school,” from Latin schola.",
+      "examples" : [
+
+      ],
+      "frequency" : 2119,
+      "mnemonic" : "schol（=school：学校）+ -ar（人）→引申词义学者；奖学金获得者",
+      "phonetic" : "ˈskɒlə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scholar"
+    },
+    {
+      "collocations" : [
+        "get a scholarship：得到了一笔奖学金",
+        "take advantage of your lifetime of scholarship：从您一生的学术成就中"
+      ],
+      "definition" : "奖学金；学问成就",
+      "examples" : [
+
+      ],
+      "frequency" : 3071,
+      "mnemonic" : "scholar（学者）+ ship（表状态名词）→奖学金；学问成就",
+      "phonetic" : "ˈskɒləʃɪp",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scholarship"
+    },
+    {
+      "collocations" : [
+        "an intellectual, scholarly man：一个聪明博学的人",
+        "scholarly journal：学术杂志",
+        "the subject of intense scholarly debate：学术讨论的热门话题"
+      ],
+      "definition" : "好学的；博学的；（书籍或文章）学术的；（书籍",
+      "examples" : [
+
+      ],
+      "mnemonic" : "scholar（学者）+ -ly（形容词后缀）→跟学者有关的→好学的；学术",
+      "phonetic" : "ˈskɒləlɪ",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "scholarly"
+    },
+    {
+      "collocations" : [
+        "scholastic achievement：学术成就"
+      ],
+      "definition" : "学业的；学术的",
+      "examples" : [
+
+      ],
+      "frequency" : 12324,
+      "mnemonic" : "schol (scholar：学者) + -astic（形容词后缀）→学业的；学术的",
+      "phonetic" : "skəˈlæstɪk",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "scholastic"
+    },
+    {
+      "collocations" : [
+        "off the shelf：现货出售的",
+        "shelf life：保存限期；贮藏寿命",
+        "the continental shelf：大陆架"
+      ],
+      "definition" : "架子；（悬崖上或海底）突出的岩石",
+      "examples" : [
+
+      ],
+      "frequency" : 2972,
+      "phonetic" : "ʃelf",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "shelf"
+    },
+    {
+      "collocations" : [
+        "shelve the idea：把这个想法先放一放"
+      ],
+      "definition" : "搁置，停止（计划）；把……放在架子（或搁板）上",
+      "examples" : [
+
+      ],
+      "frequency" : 16392,
+      "mnemonic" : "put on a shelf：放在架子上→引申义为搁置；停止（计划）",
+      "phonetic" : "ʃelv",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "shelve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "书架",
+      "examples" : [
+
+      ],
+      "frequency" : 11480,
+      "mnemonic" : "book（书）+ shelf（架）→书架",
+      "phonetic" : "ˈbʊkʃelf",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "bookshelf"
+    },
+    {
+      "collocations" : [
+        "shale gas：页岩气"
+      ],
+      "definition" : "页岩；泥板岩",
+      "etymology" : "From Old English scealu (see shell (n.)) in its base sense of “thing that divides or separate,” in reference to the way the rock breaks apart in layers. 源自古英语scealu，其基本含义是“分裂或分离的事物”，指的是岩 石分层分裂的方式。",
+      "examples" : [
+
+      ],
+      "frequency" : 15487,
+      "phonetic" : "ʃeɪl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "shale"
+    },
+    {
+      "collocations" : [
+        "a scallop shell：扇贝壳",
+        "a scalloped edge：扇形边"
+      ],
+      "definition" : "扇贝 vt. 给……加上扇形饰边",
+      "etymology" : "sek- Proto-Indo-European root meaning “to cut.” It is the hypothetical source of\/evidence for its existence is provided by: Hittite shakk- “to know, pay attention to;” Latin secare “to cut,” sectio “a cutting, cutting off, division;” Old Church Slavonic seko, sešti “to cut,” sečivo “ax, hatchet,” Russian seč’ “to cut to pieces;” Lithuanian įsėkti “to engrave, carve;” Albanian šate “mattock;” Old Saxon segasna, Old English sigðe “scythe;” Old English secg “sword,” seax “knife, short sword;” Old Irish doescim “I cut.”",
+      "examples" : [
+
+      ],
+      "frequency" : 12759,
+      "phonetic" : "ˈskɒləp;ˈskæləp",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scallop"
+    },
+    {
+      "collocations" : [
+        "be peeled or sectioned：被去皮或切分",
+        "single out any section of society：挑出社会任何一部份人",
+        "a vertical section：垂直剖面图",
+        "cross section：横截面"
+      ],
+      "definition" : "分（成若干部分） n. 部分；剖面图",
+      "etymology" : "来自古法语section or directly from Latin sectionem (nominative sectio) “a cutting, cutting off, division”，含义为“切断；剪下；分割；部门”。 来自secare “to cut,” 来自词根sek-“to cut.”",
+      "examples" : [
+
+      ],
+      "frequency" : 821,
+      "mnemonic" : "sect-（=cut：切割）+-ion（名词后缀）→切割出来的东西→分；部",
+      "phonetic" : "ˈsekʃn",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "section"
+    },
+    {
+      "collocations" : [
+        "the sectional interests of managers and workers：管理层和广大工人的不"
+      ],
+      "definition" : "（社会或国家中）某群体的；组合式的；剖面的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "section（部分）+ -al（形容词后缀）→某一部分的；由部分构成的→",
+      "phonetic" : "ˈsekʃənl",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "sectional"
+    },
+    {
+      "collocations" : [
+        "private sector：私人部分",
+        "each sector of the war zone：战区的每个军控地段"
+      ],
+      "definition" : "（经济的）部门，行业；部分；军事管制区",
+      "examples" : [
+
+      ],
+      "frequency" : 1988,
+      "mnemonic" : "sect（=cut：切割）+ -or（名词后缀）→切割出来的东西→部分；部",
+      "phonetic" : "ˈsektə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "sector"
+    },
+    {
+      "collocations" : [
+        "an insect bite：蚊虫叮咬",
+        "insect species：昆虫种类"
+      ],
+      "definition" : "昆虫",
+      "examples" : [
+
+      ],
+      "frequency" : 3434,
+      "mnemonic" : "in-（入；向内）+ -sect（切割）→昆虫的身体和纹理看上去是一段一\n段的，像被“切割”过一般→昆虫",
+      "phonetic" : "ˈɪnsekt",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "insect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "杀虫剂；杀虫药",
+      "examples" : [
+
+      ],
+      "frequency" : 14911,
+      "mnemonic" : "insect（昆虫）+ -i- + -cide（杀）→杀昆虫的物质→杀虫剂；杀虫药",
+      "phonetic" : "ɪnˈsektɪsaɪd",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "insecticide"
+    },
+    {
+      "collocations" : [
+        "a pattern of intersecting streets：纵横交错的街道图"
+      ],
+      "definition" : "相交，交叉；横穿",
+      "examples" : [
+        "The landscape is intersected with spectacular gorges.\n在大地景色中点缀着壮观的峡谷。"
+      ],
+      "frequency" : 11198,
+      "mnemonic" : "inter-（=between：在中间）+ -sect（切）→即中间切开→引申词义相",
+      "phonetic" : "ɪntəˈsekt",
+      "pos" : "vi.",
+      "rootHint" : "carv",
+      "word" : "intersect"
+    },
+    {
+      "collocations" : [
+        "make a wrong turn at the intersection：在交叉路口拐错弯"
+      ],
+      "definition" : "十字路口；交叉路口；交点",
+      "examples" : [
+
+      ],
+      "frequency" : 5842,
+      "mnemonic" : "inter-（两者之间）+ sect-（=cut：切割）+ -ion（名词后缀）→两者间\n相互切割的地方→交点；十字路口，交叉路口",
+      "phonetic" : "ɪntəˈsekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "intersection"
+    },
+    {
+      "collocations" : [
+        "dissect his work and question his motive：剖析他的作品，质疑他的动机"
+      ],
+      "definition" : "解剖；剖析，仔细研究；把……分成小块",
+      "examples" : [
+        "Her latest novel was dissected by the critics.\n评论家对她最近出版的一部小说作了详细剖析\nThe city is dissected by a network of old canals.\n古老的运河网将这座城市分割开来。"
+      ],
+      "frequency" : 12165,
+      "mnemonic" : "dis-（=apart：分开）+ sect（=to cut：分开）→cut apart：解剖；剖",
+      "phonetic" : "dɪˈsekt",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "dissect"
+    },
+    {
+      "collocations" : [
+        "dissection of my proposals：对我的提案的剖析"
+      ],
+      "definition" : "解剖；剖析",
+      "examples" : [
+
+      ],
+      "frequency" : 16323,
+      "phonetic" : "dɪˈsekʃn",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "dissection"
+    },
+    {
+      "collocations" : [
+        "business segment：商业部分，业务部分",
+        "diverse market segments：多样化的细分市场"
+      ],
+      "definition" : "分割；划分 n. 部分；片；段；（柑橘、柠檬等的）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "seg-（=-sect=cut：切割）+ -ment（名词后缀）→切割出来的东西→",
+      "phonetic" : "ˈseɡmənt",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "segment"
+    },
+    {
+      "collocations" : [
+        "saw through the bars of his cell：锯断牢房的铁栅"
+      ],
+      "definition" : "&vi. 锯 n. 锯",
+      "etymology" : "n. toothed cutting tool, Old English sagu, from Proto-Germanic *sago “a cutting tool” v. “cut with a saw,” c. 1200, sauen, saghen",
+      "examples" : [
+
+      ],
+      "frequency" : 7553,
+      "phonetic" : "sɔː",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "saw"
+    },
+    {
+      "collocations" : [
+        "a layer of sawdust：一层锯末"
+      ],
+      "definition" : "锯末",
+      "examples" : [
+
+      ],
+      "frequency" : 14628,
+      "mnemonic" : "saw（锯）+ dust（粉末）→锯东西留下的末→锯末",
+      "phonetic" : "ˈsɔːdʌst",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "sawdust"
+    },
+    {
+      "collocations" : [
+        "jigsaw puzzles：拼图游戏",
+        "the jigsaw of high-level diplomacy：高层外交的复杂形势",
+        "Jigsaw puzzle：拼图游戏"
+      ],
+      "definition" : "拼图游戏；错综复杂的形势",
+      "examples" : [
+
+      ],
+      "frequency" : 16358,
+      "mnemonic" : "jig（快速地上下移动）+ saw（锯子）→像锯齿一样快速上下移动→",
+      "phonetic" : "ˈdʒɪgsɔː",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "jigsaw"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "链锯",
+      "examples" : [
+
+      ],
+      "frequency" : 19424,
+      "mnemonic" : "chain（链子）+ saw（锯）→链锯",
+      "phonetic" : "ˈtʃeɪnsɔː",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "chainsaw"
+    },
+    {
+      "collocations" : [
+        "an early Anglo-Saxon king：一位早期盎格鲁撒克逊国王",
+        "the mighty sea power of the Anglo-Saxons：盎格鲁撒克逊人的强大海权",
+        "Anglo-Saxon shyness：英国式的羞涩"
+      ],
+      "definition" : "盎格鲁撒克逊时期的；英裔的；英国式的",
+      "etymology" : "盎格鲁-撒克逊（Anglo-Saxon）人指的不是一个民族，通常是指公元 五世纪初到1066年诺曼征服之间生活在大不列颠岛东部和南部地区的 文化习俗上相近的一些民族。他们使用非常相近的日耳曼方言，被历 史学家比德认为是三个强大的西欧民族－源自日德兰半岛的盎格鲁人 20000 词汇巅峰 速 记 （Angles）和朱特人（Jutes）以及来自之后称作下萨克森地区的撒克 逊人（Saxons）的后裔。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "Anglo（=angle：角，指盎格鲁人（原日耳曼民族）原先居住的土地\n形如牛角）+ Saxon（=warriors with knives：剑客）→英式的；盎格",
+      "phonetic" : "ˌæŋɡləʊˈsæksn",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "Anglo-Saxon"
+    },
+    {
+      "collocations" : [
+        "the outer skin of the orange：橙子的外皮"
+      ],
+      "definition" : "剥去……的皮 n. 皮肤；毛皮；外皮",
+      "etymology" : "c. 1200, “animal hide” (usually dressed and tanned), from Old Norse skinn “animal hide, fur,” from Proto-Germanic *skinth- (source also of Old English scinn (rare), Old High German scinten, German schinden “to flay, skin;” German dialectal schind “skin of a fruit,” Flemish schinde “bark”), from PIE *sken- “to peel off, flay” (source also of Breton scant “scale of a fish,” Irish scainim “I tear, I burst”), extended form of root *sek- “to cut.”",
+      "examples" : [
+
+      ],
+      "frequency" : 1022,
+      "phonetic" : "skɪn",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "skin"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "剃光头的年轻人；（有暴力和攻击倾向的）光头仔",
+      "examples" : [
+
+      ],
+      "mnemonic" : "skin（皮肤）+head（头）→头上只有皮肤，没有头发的→（有暴力",
+      "phonetic" : "ˈskɪnhed",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "skinhead"
+    },
+    {
+      "collocations" : [
+        "skinless chicken breast fillets：去皮的鸡胸肉"
+      ],
+      "definition" : "去皮的",
+      "examples" : [
+
+      ],
+      "frequency" : 19942,
+      "mnemonic" : "skin（皮）+less（=lacking：缺少）→缺少皮的→去皮的",
+      "phonetic" : "ˈskɪnlɪs",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "skinless"
+    },
+    {
+      "collocations" : [
+        "skinny legs：干瘦的腿",
+        "a skinny sweater：紧身套头衫",
+        "a skinny latte：低脂肪的热奶沫咖啡",
+        "the skinny on Hollywood：好莱坞的内幕"
+      ],
+      "definition" : "瘦得皮包骨的；紧身的；低脂肪的 n. （不公开的）信",
+      "etymology" : "sker- (1) Also *ker-, Proto-Indo-European root meaning “to cut.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit krnati “hurts, wounds, kills,” krntati “cuts;” Hittite karsh- “to cut off;” Greek keirein “to cut, shear;” Latin curtus “short;” Lithuanian skiriu, skirti “to separate;” Old English sceran, scieran “to cleave, hew, cut with a sharp instrument;” Old Irish scaraim “I separate;” Welsh ysgar “to separate,” ysgyr “fragment.”",
+      "examples" : [
+
+      ],
+      "mnemonic" : "skin（皮肤，双写n）+ -y（形容词后缀）→收到只有皮肤的→瘦得皮",
+      "phonetic" : "ˈskɪnɪ",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "skinny"
+    },
+    {
+      "collocations" : [
+        "shear four sheep：给四只羊剪毛"
+      ],
+      "definition" : "（给羊）剪毛 n. 剪羊毛；大剪刀（复数）",
+      "etymology" : "n. “act of clipping,” 1610s→剪短；修剪的行为→剪羊毛；大剪刀 v. 来自古英语sceran, scieran “cut with a sharp instrument; cut (hair); shear (sheep)”→用锋利的工具剪；（给羊）剪毛",
+      "examples" : [
+        "Trim the shrubs with shears.\n用大剪刀修剪这些灌木。"
+      ],
+      "frequency" : 9832,
+      "mnemonic" : "sharp：锋利的，share：分享，因此shar-表示“切”→shear：剪",
+      "phonetic" : "ʃɪə",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "shear"
+    },
+    {
+      "collocations" : [
+        "scissor the paper into strips：把纸剪成纸条",
+        "the scissor blades：剪刀的刀刃",
+        "the wooden scissor frames：木制剪刀形框架",
+        "be shorn of something：被剥夺；被褫夺"
+      ],
+      "definition" : "剪刀 adj. 剪刀似的 v. 用剪刀剪（某物）",
+      "etymology" : "来自法语cisoires （plural）“shears：大剪刀”。根据拉丁语， scissors的含义为“carver, cutter, cutting instrument”，“切刀，切削器 具”，后来词义演变为“剪刀”。sci-=to cut, split：切；剪 20000 词汇巅峰 速 记",
+      "examples" : [
+        "Shorn of his power, the deposed king went into exile.\n权力被褫夺后，遭废黜的国王流亡国外。"
+      ],
+      "frequency" : 9114,
+      "phonetic" : "ˈsɪzəz",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scissors"
+    },
+    {
+      "collocations" : [
+        "shreds of paper：碎纸片",
+        "shred of sth.：极少量；些许；一丁点",
+        "tear to shreds：撕碎"
+      ],
+      "definition" : "切碎；撕碎 n. （撕或切的）细条，碎片",
+      "etymology" : "n. 来自古英语screade “piece cut off, cutting, scrap”→（撕或切的）碎片 v. 来自古英语screadian “to peel, prune, cut off ”→切碎；撕碎",
+      "examples" : [
+
+      ],
+      "frequency" : 8898,
+      "phonetic" : "ʃred",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "shred"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "切碎的",
+      "examples" : [
+        "Serve the fish on a bed of shredded lettuce.\n先铺一层碎生菜叶，再把鱼放上，就可以上桌了。"
+      ],
+      "frequency" : 10361,
+      "phonetic" : "ʃredɪd",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "shredded"
+    },
+    {
+      "collocations" : [
+        "scrape the frost off the windows：刮掉车窗上的霜",
+        "scrape against china：刮擦瓷器",
+        "scrape her palms：擦伤了手掌",
+        "scrape a narrow victory：险胜"
+      ],
+      "definition" : "&vi. 刮擦 vt. 刮掉；擦伤；艰难获取",
+      "examples" : [
+
+      ],
+      "frequency" : 5568,
+      "mnemonic" : "scrape=erase：擦掉；抹掉\nscrape=gather by great effort, collect with difficulty：艰难获取",
+      "phonetic" : "skreɪp",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "scrape"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摩天大楼",
+      "examples" : [
+        "The skyscraper towers into the clouds.\n那幢摩天大楼高耸入云。"
+      ],
+      "frequency" : 10892,
+      "mnemonic" : "sky（天）+ scrape（摩；擦）+ -er（表物体）→摩擦天空的物体→摩",
+      "phonetic" : "ˈskaɪskreɪpə",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "skyscraper"
+    },
+    {
+      "collocations" : [
+        "scratch my hands and face：划破了我的双手和脸",
+        "start from scratch：白手起家",
+        "scratch a living：勉强维持生活",
+        "scratch head：绞尽脑汁思考",
+        "to scratch a rocket launch：取消火箭发射计划",
+        "scratch the surface （of sth）：浅尝辄止；隔靴搔痒"
+      ],
+      "definition" : "挠（痒）；划破，抓伤（皮肤）；取消；勉强维持生",
+      "examples" : [
+        "His pen scratched away on the paper.\n他的笔在纸上沙沙作响。\nscratching v. 擦伤；划伤；刮痕（scratch的ing形式） 18552"
+      ],
+      "phonetic" : "skrætʃ",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "scratch"
+    },
+    {
+      "collocations" : [
+        "scratchy recording：咝咝沙沙声的的录音"
+      ],
+      "definition" : "发出咝咝沙沙声的；（衣服或织物）粗糙扎人的",
+      "examples" : [
+        "Wool is so scratchy that it irritates the skin.\n羊毛织物太粗糙扎人了，令皮肤很不舒服。"
+      ],
+      "mnemonic" : "scratch（抓；挠）+ -y（形容词后缀）→引申词义为刺痒的，扎人",
+      "phonetic" : "ˈskrætʃɪ",
+      "pos" : "adj.",
+      "rootHint" : "carv",
+      "word" : "scratchy"
+    },
+    {
+      "collocations" : [
+        "scraps of information：零星消息",
+        "a scrap dealer：废品商人",
+        "scrap paper：废纸",
+        "scrap nuclear or chemical weapons：废弃的核武器或化学武器"
+      ],
+      "definition" : "小块；碎片；残羹剩饭（复数）；废品 vt. 废弃；取消 adj.",
+      "etymology" : "14世纪晚期，含义为“small piece：小片”。来自古斯堪的纳维亚语 20000 词汇巅峰 速 记 skrap “scraps, trifles,” 来自skrapa “to scrape, scratch, cut”，“刮擦，划 破，切，剪”。",
+      "examples" : [
+        "It won’t make a scrap of difference.\n这不会有丝毫的差别。\nThe oldest of the aircraft were scrapped.\n最老的飞机报废了。"
+      ],
+      "mnemonic" : "scrape：刮，擦，磨→scrap：碎片；废料；废弃；废弃的",
+      "phonetic" : "skræp",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scrap"
+    },
+    {
+      "collocations" : [
+        "a large scrapbook of press clippings and photographs：一大本贴着剪报"
+      ],
+      "definition" : "剪贴簿",
+      "examples" : [
+
+      ],
+      "frequency" : 15779,
+      "mnemonic" : "scrap（碎纸）+ book（书；簿）→碎纸薄→剪贴薄",
+      "phonetic" : "ˈskræpbʊk",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scrapbook"
+    },
+    {
+      "collocations" : [
+        "curtail the number of troops：缩减部队数量"
+      ],
+      "definition" : "缩短；减缩；限制",
+      "etymology" : "来自15世纪末期，“restrict or limit：限制”，来自古法语courtault “made short,” From 1550s as “cut short, cut off the end of.”",
+      "examples" : [
+        "Spending on books has been severely curtailed.\n购书开支已被大大削减。\nThe lecture was curtailed by the fire alarm going off.\n那次讲座被突然鸣响的火警中断了。"
+      ],
+      "frequency" : 9237,
+      "mnemonic" : "cur-（=court：short）+ tail（尾巴）→cut short, cut the end of：缩短；\n切断尾巴→缩短；限制（缩短尾巴或“后备力量”，行动就会受到限",
+      "phonetic" : "kɜːˈteɪl",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "curtail"
+    },
+    {
+      "collocations" : [
+        "to draw \/ pull \/ close the curtains：把窗帘拉上",
+        "a shower curtain：淋浴帘",
+        "a curtain of rain \/ smoke：雨 \/ 烟幕",
+        "curtain sth off：用帘子隔开",
+        "bring down the curtain on sth. \/ bring the curtain down on sth.：结束；标"
+      ],
+      "definition" : "窗帘；（舞台上的）幕，幕布；覆盖物，防护物 vt. 给",
+      "examples" : [
+        "We left just before the final curtain.\n我们刚好在演出结束前离开。\nIt’s time to face the final curtain （=the end; death）.\n人生的戏该落幕了。\n由-ain构成的单词表示人或物：\n（1）表示“人”，即“……地方的人、精通……的人、信奉……的\n人”"
+      ],
+      "mnemonic" : "curt（=cut：切开）+ -ain（表示物）→把房间内外切开的物体→窗",
+      "phonetic" : "ˈkɜːt(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "curtain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "船长",
+      "examples" : [
+
+      ],
+      "frequency" : 3375,
+      "phonetic" : "ˈkæptɪn",
+      "rootHint" : "carv",
+      "word" : "captain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恶棍\/流氓\/坏人",
+      "examples" : [
+
+      ],
+      "frequency" : 8098,
+      "phonetic" : "ˈvɪlən",
+      "rootHint" : "carv",
+      "word" : "villain"
+    },
+    {
+      "collocations" : [
+        "死海古卷：The Dead Sea Scroll",
+        "scroll down：（在计算机屏幕上的文本中）向下滚动"
+      ],
+      "definition" : "（写有文字的）卷轴；卷轴形装饰 vi. （在计算机屏幕上的",
+      "etymology" : "n. 15世纪，“roll of parchment or paper：羊皮纸或纸做的卷轴”。来 自古法语escroe “scrap, roll of parchment：碎片；羊皮纸卷”As an ornament on furniture or in architecture, from 1610s. 在家具或建筑上卷 20000 词汇巅峰 速 记 轴形饰物的含义来自1610年。 v. “to write down in a scroll：在卷轴上写下”→引申义为（在计算机 屏幕上的文本中）滚动 笔 记 区",
+      "examples" : [
+
+      ],
+      "phonetic" : "skrəʊl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scroll"
+    },
+    {
+      "collocations" : [
+        "a scene of carnage：大屠杀的场面",
+        "carnage in Kosovo：科索沃大屠杀"
+      ],
+      "definition" : "大屠杀",
+      "etymology" : "“great destruction by bloody violence, massacre,” c. 1600. 大屠杀，血腥 暴力造成巨大破坏。来自词根sker- “to cut：切下” 。",
+      "examples" : [
+
+      ],
+      "frequency" : 11805,
+      "mnemonic" : "carn-（切肉）+ -age（名词词尾）→把肉切下→大屠杀",
+      "phonetic" : "ˈkɑːnɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnage"
+    },
+    {
+      "collocations" : [
+        "wear a carnation in his buttonhole：在扣眼里插了一朵康乃馨"
+      ],
+      "definition" : "康乃馨",
+      "etymology" : "来自coronation“加冕；加冕典礼”的拼写异化形式。因为此种花通 常被用作花冠，或者从齿状冠状花瓣的外观。或者也因其外表的粉红 色而来自中世纪法语carnation“ person’s color or complexion：人的颜 色或肤色”（15世纪）。",
+      "examples" : [
+
+      ],
+      "frequency" : 19359,
+      "mnemonic" : "carn-（=flesh：肉）+ -ation（名词后缀）→flesh-colored：肉色原始意\n义为“粉红色，肉色”→（粉红色的）康乃馨（花）\n音记：[kɑːˈneɪʃ(ə)n]→康乃馨",
+      "phonetic" : "kɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnation"
+    },
+    {
+      "collocations" : [
+        "the carnival in Rio：里约热内卢的狂欢节",
+        "a carnival atmosphere：狂欢节的气氛",
+        "carnival of：激动人心的事物组合；五彩缤纷事物的组合",
+        "this summer’s carnival of sport：今年夏季的体育盛会"
+      ],
+      "definition" : "狂欢节；嘉年华",
+      "etymology" : "“来自中世纪拉丁语carne vale “‘flesh, farewell!’”“再见了，肉”！ 从民间词源上讲，carnival演变如下：为基督教斋戒节前纵情狂欢的 “谢肉节”。“time of merrymaking before Lent（Lent指大斋期，从圣 20000 词汇巅峰 速 记 笔 记 区 灰日至基督复活节前一日，共40天）”。封斋节期间禁止食肉和娱 乐。因此，人们在封斋节开始前三天纵情享乐。一些主张宗教改革的 人如新教徒便借此举办各种狂欢活动，挑战天主教的权威。久而久 之，carnival成为“狂欢节”的代名词，而封斋节却逐渐被人遗忘。 荷兰画家Pieter Bruegel（彼得·布吕赫尔）的名画《狂欢者与斋戒者 的斗争》（Fight Between Carnival an Lent）便反映了两教派之间的斗 争。1590s后，引申为“feasting or revelry in general：盛宴或狂欢的总 称”。",
+      "examples" : [
+
+      ],
+      "frequency" : 12867,
+      "mnemonic" : "carni-（肉）+-val（-ive + -al）→谢肉节→狂欢节；嘉年华",
+      "phonetic" : "ˈkɑːnɪv(ə)l",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnival"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "食肉动物；肉食者",
+      "examples" : [
+        "This is a delicious vegetarian dish that even carnivores love.\n这是一道肉食者们都喜欢的美味素食。"
+      ],
+      "frequency" : 15689,
+      "mnemonic" : "carni-（=flesh：肉）+ -vore（=eat：吃）→吃肉的动物→食肉动物；",
+      "phonetic" : "ˈkɑːnɪvɔː",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnivore"
+    },
+    {
+      "collocations" : [
+        "the incarnation of evil：邪恶的化身"
+      ],
+      "definition" : "化身；典型；道成肉身（上帝化身为耶稣来",
+      "etymology" : "14世纪，“embodiment of God in the person of Christ,”指上帝化身耶稣 基督道成肉身来到人间。来自后期拉丁语incarnari “be made flesh”， “变成肉身”。后来引申义为“化身，典型”。",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-（=in）+ carn-（=flesh：肉）+ -ation（名词后缀）→变成肉身→",
+      "phonetic" : "ɪnkɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "incarnation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "转世再生；（灵魂转世的）化身",
+      "examples" : [
+        "Many African tribes believe in reincarnation.\n很多非洲部落相信转世再生。"
+      ],
+      "frequency" : 18458,
+      "mnemonic" : "re-（再次）+ incarnation（变为肉身）→再次变为肉身→转世再生",
+      "phonetic" : "ˌriːɪnkɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "reincarnation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "皮层",
+      "examples" : [
+
+      ],
+      "frequency" : 14306,
+      "phonetic" : "ˈkɔːteks",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "cortex"
+    }
+  ]
+}

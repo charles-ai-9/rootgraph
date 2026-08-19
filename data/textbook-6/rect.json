@@ -1,0 +1,268 @@
+{
+  "chapter" : "25",
+  "chapterOrder" : 125,
+  "id" : "rect",
+  "meaningEn" : "right，表示“纠正；矫正；改正”。",
+  "roots" : [
+    "rect"
+  ],
+  "semanticLabel" : "right，表示纠正；矫正；改正。",
+  "source" : "textbook-6",
+  "titleZh" : "right，表示纠正；矫正；改正。",
+  "words" : [
+    {
+      "collocations" : [
+        "to rectify a fault：改正缺点"
+      ],
+      "definition" : "矫正；纠正；改正",
+      "examples" : [
+
+      ],
+      "frequency" : 14904,
+      "mnemonic" : "rect（=right：改正）+ -ify（使动词）→纠正；矫正；改正",
+      "phonetic" : "ˈrektɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "rectify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "长方形；矩形",
+      "examples" : [
+
+      ],
+      "frequency" : 10295,
+      "mnemonic" : "rect-（直的）+ angle（角）→四角为直角的几何图形→长方形；矩形",
+      "phonetic" : "ˈrektæŋgl",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "rectangle"
+    },
+    {
+      "collocations" : [
+        "a rectangular area：长方形场地",
+        "a rectangular table：一张长方形的桌子"
+      ],
+      "definition" : "长方形的，矩形的；成直角的，有直角的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "rectang（=rectangle：长方形；矩形；直角）+ -ular（形容词后缀）→",
+      "phonetic" : "rekˈtæŋɡjələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "rect",
+      "word" : "rectangular"
+    },
+    {
+      "collocations" : [
+        "a sudden surge of anger：怒火中烧",
+        "a surge of excitement：一阵兴奋",
+        "a surge in consumer spending：消费开支的激增",
+        "a tidal surge：涨潮"
+      ],
+      "definition" : "（风、水等）突然的涌动；（强烈感情的）突发；（数量",
+      "etymology" : "n. Late 15c., “fountain, stream,” of uncertain origin, probably from Middle French sourge-, stem of sourdre “to rise, swell,” from Latin surgere “to rise, arise, get up, mount up, ascend; attack,” contraction of surrigere, from assimilated form of sub- (up from below) + regere (to keep straight, guide). Meaning “high, rolling swell of water” is from 1520s; figurative sense of “excited rising up” (as of feelings) is from 1510s. v. 1510s, “to rise and fall,” from surge (n.), or from Middle French surgir “rise, ride (as a ship does a wave), spring up, arrive.” Meaning “rise high and roll forcefully” is from 1560s. Related: Surged; surging.",
+      "examples" : [
+        "Flood waters surged into their homes.\n洪水涌进了他们的房子。\nRelief surged through her.\n她顿觉宽慰。\nShare prices surged.\n股价猛涨。"
+      ],
+      "phonetic" : "sɜːdʒ",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "surge"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "起义者；叛乱者；造反者 adj. 起义的；叛乱的；造反的",
+      "examples" : [
+        "By early yesterday, the insurgents had taken control of the country’s main\nmilitary air base.\n到昨天早些时候，那些起义者已控制了该国的主要空军基地。"
+      ],
+      "frequency" : 7425,
+      "mnemonic" : "in-（=against：反对）+ surg-（=to rise：上升）+ -ent（形容词后缀）\n→to rise against：上升、站起来反对→引申词义为起义者，叛乱者；",
+      "phonetic" : "ɪnˈsɜːdʒənt",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "insurgent"
+    },
+    {
+      "collocations" : [
+        "combat the insurgency：平息叛乱"
+      ],
+      "definition" : "起义；叛乱；造反",
+      "examples" : [
+
+      ],
+      "frequency" : 8734,
+      "mnemonic" : "insurgen（=insurgent：起义的；叛乱的；造反的）+ -cy（抽象名词后\n缀）→起义；叛乱；造反",
+      "phonetic" : "ɪnˈsɜːdʒənsɪ",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "insurgency"
+    },
+    {
+      "collocations" : [
+        "an armed insurrection：武装叛乱"
+      ],
+      "definition" : "起义；叛乱；暴动",
+      "examples" : [
+
+      ],
+      "frequency" : 16686,
+      "mnemonic" : "in-（=against：反对）+ sur-（向上）+ -rect（竖立）+ -ion（名词后\n缀）→to rise up against：站起来反对→起义；叛乱；暴动",
+      "phonetic" : "ˌɪnsəˈrekʃn",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "insurrection"
+    },
+    {
+      "collocations" : [
+        "economic resurgence：经济复苏",
+        "the resurgence of violence：暴力事件增加"
+      ],
+      "definition" : "复苏；复兴",
+      "examples" : [
+
+      ],
+      "frequency" : 10608,
+      "mnemonic" : "re-（再）+ surg-（=surge：升起）+ -ence（名词后缀）→再次升起→",
+      "phonetic" : "rɪˈsɜːdʒəns",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "resurgence"
+    },
+    {
+      "collocations" : [
+        "resurrect the ceasefire：恢复停战",
+        "resurrect the dead：使死人复活",
+        "resuscitate the weekly magazine：使那份周刊起死回生"
+      ],
+      "definition" : "恢复使用，使复兴；起死回生，使复活",
+      "examples" : [
+
+      ],
+      "frequency" : 10843,
+      "mnemonic" : "re-（重新）+ sur-（=above：在……上面；超过）+ -rect-（直立）→\n重新直立起来→引申义为使复兴；使复活（超越生死）\nresurrect=resurge：再次升起→引申义为恢复使用，使复兴；使复活\nre-（=again：再次）+ suscit-（=to raise, revive：使苏醒；复活；复\n兴）+ -ate（使动词后缀）→使苏醒；使复兴；使复苏",
+      "phonetic" : "ˌrezəˈrekt",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "resurrect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复苏；恢复；复兴；耶稣复活；（世界末日）",
+      "etymology" : "来自古法语resurrection“the Resurrection of Christ：基督的复活”（12 世纪），并直接来自拉丁语resurrectionem (nominative resurrectio)“ a rising again from the dead：死里复活”。",
+      "examples" : [
+        "This is a resurrection of an old story from the mid-70s.\n这是70年代中期的一个老故事的再现。\n单词 source 与“surge ：涌动；急剧上升”同源，表示“从……获得；来源；\n起源”等含义。"
+      ],
+      "mnemonic" : "resurrect（使复兴；使复活）+ -ion（名词后缀）→复兴；耶稣复活；",
+      "phonetic" : "ˌrezəˈrekʃn",
+      "pos" : "n.",
+      "rootHint" : "rect",
+      "word" : "resurrection"
+    },
+    {
+      "collocations" : [
+        "power source：电源",
+        "light source：光源",
+        "source material：原始资料",
+        "a source of violence：暴力的根源",
+        "the source of the Nile：尼罗河的发源地",
+        "at source：在源头；从一开始"
+      ],
+      "definition" : "（从……）获得（~ sth. from...）n. 来源，出处；信息来源，",
+      "etymology" : "来自14世纪中期，“support, base,”来自古法语sourse “a rising, beginning, fountainhead of a river or stream” (12世纪)，来源于拉丁语 动词surgere（涌现；迸发），进入古法语为sourdre: “to rise, spring up：升起，涌出”，其阴性过去分词的名词用法sourse（涌现；源 泉），被英语借用为source。缩写自surrigere，升起，来自 sur-（向 上）+ regere（拉直）→向上拉直→升起。 20000 词汇巅峰 速 记",
+      "examples" : [
+        "We source all the meat sold in our stores from British farms.\n我们商店里卖的肉均从英国农场购进。"
+      ],
+      "phonetic" : "sɔːs",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "source"
+    },
+    {
+      "collocations" : [
+        "water resources：水资源",
+        "pool our resources：把资源集中起来",
+        "resource books for teachers：教师参考资料"
+      ],
+      "definition" : "向……提供资金（或设备） n. 资源，财力；资料：",
+      "etymology" : "1610s, “means of supplying a want or deficiency,” from French resourse “a source, spring,” noun use of fem. past participle of Old French resourdre “to rally, raise again,” from Latin resurgere “rise again”. Resources “a country’s wealth” first recorded 1779.",
+      "examples" : [
+        "Schools in the area are still inadequately resourced.\n本地区的学校仍然没有足够的资金。"
+      ],
+      "mnemonic" : "re-（再次；重复）+ source（源泉）→（资金；来源；才智；勇气等\n的）源泉再次升起；涌出→向……提供资金；资源，财力，资料，勇",
+      "phonetic" : "rɪˈsɔːs",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "resource"
+    },
+    {
+      "collocations" : [
+        "a resourceful leader：一位足智多谋的领导"
+      ],
+      "definition" : "机敏的；足智多谋的；随机应变的",
+      "examples" : [
+
+      ],
+      "frequency" : 15093,
+      "mnemonic" : "re-（再；重复）+ source（源泉）+ -ful（形容词后缀，充满了……\n的）→才智的源泉再次、重复充满的→机敏的；足智多谋的",
+      "phonetic" : "rɪˈsɔːsfl",
+      "pos" : "adj.",
+      "rootHint" : "rect",
+      "word" : "resourceful"
+    },
+    {
+      "collocations" : [
+        "outsource IT functions：将信息技术方面的工作外包"
+      ],
+      "definition" : "&vi. 把……外包",
+      "examples" : [
+
+      ],
+      "frequency" : 14158,
+      "mnemonic" : "out-（向外）+ source（资源）→讲资源外包→用于经济学术语外包",
+      "phonetic" : "aʊtˈsɔːs",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "outsource"
+    },
+    {
+      "collocations" : [
+        "a surrogate for peace：和平的替代物"
+      ],
+      "definition" : "替代的；代用的 n. 替代者；替代物",
+      "examples" : [
+        "She saw him as a sort of surrogate father.\n在她心目中，他仿佛是能替代父亲角色的人。"
+      ],
+      "frequency" : 9104,
+      "mnemonic" : "sur-（=sub-=in the place of：代替）+ -rog（要求）+ -ate（形容词\/名\n词后缀）→要求代替的（人或物）→替代的；替代物；替代者",
+      "phonetic" : "ˈsʌrəgət",
+      "pos" : "adj.",
+      "rootHint" : "rect",
+      "word" : "surrogate"
+    },
+    {
+      "collocations" : [
+        "rake a comb through her hair：用梳子梳理头发",
+        "rake the soil smooth：把地耙平",
+        "rake in sth.：赚大钱（尤指轻易地）",
+        "rake over sth.：重提往日某事",
+        "rake sth. up：重翻旧账"
+      ],
+      "definition" : "耙；梳理；扫视，掠过 vi. 搜寻；搜索 n. 把子；放浪的男人，",
+      "etymology" : "来自原始日耳曼语词根rak-“gather, heap up：聚集；收集；堆积”。",
+      "examples" : [
+        "Searchlights raked the grounds.\n探照灯从场地上掠过。\nShe raked around in her bag for her keys.\n她在包里到处找钥匙。"
+      ],
+      "phonetic" : "reɪk",
+      "pos" : "vt.",
+      "rootHint" : "rect",
+      "word" : "rake"
+    }
+  ]
+}

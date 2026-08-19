@@ -1,0 +1,1847 @@
+{
+  "chapter" : "5",
+  "chapterOrder" : 105,
+  "id" : "fac",
+  "meaningZh" : "做、",
+  "roots" : [
+    "fac",
+    "fact",
+    "feas",
+    "feat",
+    "fect",
+    "feit",
+    "fic",
+    "fici",
+    "fict"
+  ],
+  "semanticLabel" : "做、",
+  "source" : "textbook-2",
+  "titleZh" : "做、",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "事实；实际；真相",
+      "examples" : [
+
+      ],
+      "frequency" : 236,
+      "mnemonic" : "fact (做)→做出来的事情→事实",
+      "phonetic" : "fækt",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "fact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "事实的；真实的",
+      "examples" : [
+
+      ],
+      "frequency" : 9162,
+      "mnemonic" : "fact(做)+u(连接符号)+al(形容词词尾)→事实的；真实的",
+      "phonetic" : "ˈfæktʃʊəl;-tjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "factual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "实事求是的；不带感情的",
+      "examples" : [
+
+      ],
+      "frequency" : 18303,
+      "mnemonic" : "matter (事情)+of+fact(实际)→实际事情→实事求是的",
+      "phonetic" : "ˈmætərəvˈfækt",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "matter-of-fact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "16689",
+      "examples" : [
+
+      ],
+      "mnemonic" : "matter-of-fact(实事求是的)+ly (……地)→实事求是地",
+      "phonetic" : "ˌmætərəfˈfæktli",
+      "rootHint" : "fac",
+      "word" : "matter-of-factly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "派别，小集团；派系斗争，内讧；(电视、电影、文学",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈfækʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "faction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "因素；因数；要素；代理人",
+      "etymology" : "early 15c., “commercial agent, deputy, one who buys or sells for another,” from Middle French facteur “agent, representative” (Old French factor, faitor “doer, author, creator”), from Latin factor “doer, maker, performer,” in Medieval Latin, “agent,” agent noun from past participle stem of facere “to do” (from PIE root *dhe- “to set, put”). In commerce, especially “a commission merchant.” Mathematical sense is from 1670s. Sense of “circumstance producing a result” is attested by 1816, from the mathematical sense.",
+      "examples" : [
+
+      ],
+      "frequency" : 730,
+      "mnemonic" : "fact(做)+or(表人或物)→",
+      "phonetic" : "ˈfæktə",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "factor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "工厂；制造厂；代理店",
+      "examples" : [
+
+      ],
+      "frequency" : 2151,
+      "mnemonic" : "fact(做，作)+ory(名词词尾，表场所)→工作的地方→工厂；制造厂",
+      "phonetic" : "ˈfækt(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "factory"
+    },
+    {
+      "collocations" : [
+        "devoted faculty(考)：有献身精神的教员"
+      ],
+      "definition" : "能力；全体教员；科，系",
+      "etymology" : "late 14c., “ability, opportunity, means, resources,” from Old French 20000 词 汇巅峰 速 记 faculte “skill, accomplishment, learning” (14c., Modern French faculté) and directly from Latin facultatem (nominative facultas) “power, ability, capability, opportunity; sufficient number, abundance, wealth,” from *facli-tat-s, from facilis “easy to do,” of persons, “pliant, courteous, yielding,” from facere “to do” (from PIE root *dhe- “to set, put”).",
+      "examples" : [
+
+      ],
+      "frequency" : 1998,
+      "mnemonic" : "fac(做)+ul(连接符号)+-ty(名词词尾)→做事情的能力\/做事情的人→能",
+      "phonetic" : "ˈfæk(ə)ltɪ",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "faculty"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "容易(做)的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "拉丁文写作“facilis”，其中，faci(=fact：做)+is(=easy：容易；因为easy\n原本写作“aise”，其读音和“-is”是一样的)→容易做的；容易的",
+      "phonetic" : "ˈfæsail",
+      "pos" : "a.",
+      "rootHint" : "fac",
+      "word" : "facile"
+    },
+    {
+      "collocations" : [
+        "sorting facilities(考)：分类设施 recreation facilities(考)：娱乐设施"
+      ],
+      "definition" : "设备；灵巧；容易；设施",
+      "examples" : [
+
+      ],
+      "frequency" : 1304,
+      "mnemonic" : "facil(=facile：容易的)+ity(名词后缀)→容易\nfac(做)+ility(名词后缀：东西)→(用来)做事情的东西→设施、设备",
+      "phonetic" : "fəˈsɪləti",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "facility"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "促进；帮助；使容易，使便利",
+      "examples" : [
+        "First, computers facilitate us in more aspects of life.\n首先，电脑使我们生活的更多方面变得容易。",
+        "首先，数字化产品使我们生活的更多方面变得便利。\nFirst, digital products facilitate us in more aspects of life."
+      ],
+      "frequency" : 3604,
+      "mnemonic" : "facilit(=facility：容易)+ate(使动词)→使容易、使促进",
+      "phonetic" : "fəˈsɪlɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "fac",
+      "word" : "facilitate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "服务商；促进者",
+      "examples" : [
+
+      ],
+      "frequency" : 12392,
+      "mnemonic" : "facilit(=facility：容易)+ate(使动词)+or (人)→使某事容易的人→促进",
+      "phonetic" : "fəˈsɪlɪteɪtə",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "facilitator"
+    },
+    {
+      "collocations" : [
+        "a feasible policy(考)：可行的政策"
+      ],
+      "definition" : "可行的；可能的；可实行的",
+      "examples" : [
+        "Further big increases would be politically unfeasible.\n进一步大量增加从政治的角度上来说是不可行的。",
+        "取消各种和证书有关的考试从经济上来讲是不可行的，毕竟，这"
+      ],
+      "frequency" : 7730,
+      "mnemonic" : "feas(=fact：做)+ible(可以、能)→可以做的→可行的",
+      "phonetic" : "ˈfiːzɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "feas",
+      "word" : "feasible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可行性；可能性",
+      "examples" : [
+
+      ],
+      "frequency" : 12129,
+      "mnemonic" : "feasible(可行的；可能的)+ity(名词后缀，表性质)→可行性",
+      "phonetic" : "fiːzɪˈbɪlɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "feas",
+      "word" : "feasibility"
+    },
+    {
+      "collocations" : [
+        "fake listening(考)：假装在听 fake papers(考)：伪造的论文"
+      ],
+      "definition" : "假货；骗子 vt. 捏造 adj. 伪造的",
+      "examples" : [
+
+      ],
+      "frequency" : 5161,
+      "mnemonic" : "fak(=-fact=fic：做)→人做出来的→人造的；虚假的；假的；假货",
+      "phonetic" : "feɪk",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "fake"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "制造；制造业；产品",
+      "examples" : [
+
+      ],
+      "frequency" : 5197,
+      "mnemonic" : "manu(手)+fact(做)+-ure(名词后缀)→人工做的→制造",
+      "phonetic" : "mænjʊˈfæktʃə",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "manufacture"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "制造商；厂商",
+      "examples" : [
+
+      ],
+      "frequency" : 2271,
+      "mnemonic" : "manufacture (制造)+er(人)→制造商",
+      "phonetic" : "ˌmænjʊˈfæktʃ(ə)rə(r)",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "manufacturer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "制造业；制造",
+      "examples" : [
+
+      ],
+      "frequency" : 3188,
+      "mnemonic" : "manufacture(制造)+ing(名词后缀)→制造业的",
+      "phonetic" : "ˌmænjʊˈfæktʃərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "manufacturing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "制造的，已制成的",
+      "examples" : [
+
+      ],
+      "frequency" : 11798,
+      "mnemonic" : "manufacture(制造)+ed(……的)→制造的",
+      "phonetic" : "ˌmænjəˈfæktʃɚ",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "manufactured"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "困难的；不随和的；难相处的",
+      "examples" : [
+
+      ],
+      "frequency" : 609,
+      "mnemonic" : "di (表否定)+facilit(=facility：容易)→不容易的→困难的",
+      "phonetic" : "ˈdɪfɪkəlt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "difficult"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "困难，困境",
+      "examples" : [
+
+      ],
+      "frequency" : 1697,
+      "mnemonic" : "difficult+y(名词词尾，表状态)→不容易的状态→困难；困境",
+      "phonetic" : "ˈdɪfɪk(ə)ltɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "difficulty"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "样式；时尚；时装；时髦人物",
+      "etymology" : "c. 1300, fasoun, “physical make-up or composition; form, shape; appearance,” from Old French façon, fachon, fazon “face, appearance; construction, pattern, design; thing done; beauty; manner, characteristic feature” (12c.), from Latin factionem (nominative factio) “a making or doing, a preparing,” also “group of people acting together,” from facere “to make” (from PIE root *dhe- “to set, put”). 20000 词 汇巅峰 速 记 Especially “style, manner” of make, dress, or embellishment (late 14c.); hence “prevailing custom; mode of dress and adornment prevailing in a place and time” (late 15c.). Meaning “good style, conformity to fashionable society’s tastes” is from 1630s. 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 1936,
+      "phonetic" : "ˈfæʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "fashion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "流行的；时髦的；上流社会的",
+      "examples" : [
+
+      ],
+      "frequency" : 7797,
+      "mnemonic" : "fashion(时尚)+able(形容词后缀)→时尚的，流行的，时髦的",
+      "phonetic" : "ˈfæʃ(ə)nəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "fashionable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "影响；假装；感动；感染",
+      "examples" : [
+        "Communication with others not only affects our sense of identity but also\ndirectly influences our physical and emotional well-being.\n与人交流不仅影响我们的身份意识，还直接影响我们的身体和心理\n健康。",
+        "不能及时排解压力不仅影响到我们的工作状态，还会直接影响我\n们的身体健康和心理健康。\nFailing to deal with\/relieve\/diffuse pressure\/strain not only affects working\ncondition but also directly influences our physical and mental well-being."
+      ],
+      "frequency" : 966,
+      "mnemonic" : "af(=ad=to)+fect(=do：做；影响)→影响(v.)",
+      "phonetic" : "əˈfekt",
+      "pos" : "vt.",
+      "rootHint" : "fect",
+      "word" : "affect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "受到影响的；假装的；做作的",
+      "examples" : [
+
+      ],
+      "frequency" : 9229,
+      "mnemonic" : "affect(影响；假装)+ed(……的，被……的)→被影响的→受到影响的；",
+      "phonetic" : "əˈfektɪd",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "affected"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自然的；真挚的；不受影响的",
+      "examples" : [
+
+      ],
+      "frequency" : 13533,
+      "mnemonic" : "un (不)+affected(受影响的)→不受影响的",
+      "phonetic" : "ʌnəˈfektɪd",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "unaffected"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不满的；不忠的；愤愤不平的",
+      "examples" : [
+
+      ],
+      "frequency" : 17744,
+      "mnemonic" : "dis (不)+affect (感染)+ed(……的)→不受某权威或政党感染→不忠的，",
+      "phonetic" : "ˌdɪsəˈfɛktɪd",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "disaffected"
+    },
+    {
+      "collocations" : [
+        "win affection(考)：被人喜爱 affection for the pet(考)：喜爱宠物"
+      ],
+      "definition" : "喜爱，感情；影响；感染",
+      "examples" : [
+
+      ],
+      "frequency" : 5200,
+      "mnemonic" : "affect(影响)+ion(名词后缀)→影响、喜爱(“喜爱”什么，就是受到其",
+      "phonetic" : "əˈfekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "affection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "充满深情的；深情的",
+      "examples" : [
+
+      ],
+      "frequency" : 12472,
+      "mnemonic" : "affection(喜爱)+-ate(形容词后缀)→对某人喜爱→深情的",
+      "phonetic" : "əˈfekʃ(ə)nət",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "affectionate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "充满深情地；深情地",
+      "examples" : [
+
+      ],
+      "frequency" : 14896,
+      "mnemonic" : "affectionate+ly(……地)→充满深情地；深情地",
+      "phonetic" : "əˈfekʃənətlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fect",
+      "word" : "affectionately"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "表达感情的；情感的",
+      "examples" : [
+
+      ],
+      "frequency" : 8774,
+      "mnemonic" : "affect(感动)+ive(……的)→令人感动的",
+      "phonetic" : "əˈfektɪv",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "affective"
+    },
+    {
+      "collocations" : [
+        "get infected with the disease(考)：感染上了该疾病"
+      ],
+      "definition" : "感染，传染",
+      "examples" : [
+
+      ],
+      "frequency" : 5268,
+      "mnemonic" : "in(里面)+fect(做、作)→(病毒等)在体内作怪→感染、传染",
+      "phonetic" : "ɪnˈfekt",
+      "pos" : "vt.",
+      "rootHint" : "fect",
+      "word" : "infect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "感染；传染；传染病；影响",
+      "examples" : [
+
+      ],
+      "frequency" : 2715,
+      "mnemonic" : "infect(感染，传染)+ion (名词后缀)→感染；传染",
+      "phonetic" : "ɪnˈfekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "infection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "传染的；易传染的；传染性的",
+      "examples" : [
+
+      ],
+      "frequency" : 7206,
+      "mnemonic" : "infect(感染，传染)+ious (……的)→感染的；传染的",
+      "phonetic" : "ɪnˈfekʃəs",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "infectious"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "被感染的",
+      "examples" : [
+
+      ],
+      "frequency" : 8253,
+      "mnemonic" : "infect(感染，传染)+ed (被……的)→被感染的",
+      "phonetic" : "ɪnˈfektɪd",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "infected"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "消毒剂",
+      "examples" : [
+
+      ],
+      "frequency" : 17967,
+      "mnemonic" : "dis (不)+infect(传染)+ant (名词后缀，表“剂”)→使不受感染→消毒剂",
+      "phonetic" : "dɪsɪnˈfekt(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "disinfectant"
+    },
+    {
+      "collocations" : [
+        "correct vision defects(考)：矫正视力 inherent defect(考)：固有缺陷"
+      ],
+      "definition" : "缺点，缺陷；不足之处 vi. 变节；叛变",
+      "examples" : [
+
+      ],
+      "frequency" : 6035,
+      "mnemonic" : "de(表不够或相反)+fect(做)→做的不够、做的不好→(有)缺陷",
+      "phonetic" : "ˈdiːfekt;dɪˈfekt",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "defect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "背叛；变节",
+      "examples" : [
+
+      ],
+      "frequency" : 14314,
+      "mnemonic" : "defect(背叛；变节)+ion (名词后缀)→背叛；变节",
+      "phonetic" : "dɪˈfekʃn",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "defection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有缺陷的；不完美的",
+      "examples" : [
+
+      ],
+      "frequency" : 11287,
+      "mnemonic" : "defect(缺点；缺陷)+ive (形容词后缀)→有缺点的；有缺陷的",
+      "phonetic" : "dɪˈfektɪv",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "defective"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "背叛者；逃兵；叛离者",
+      "examples" : [
+
+      ],
+      "frequency" : 16489,
+      "mnemonic" : "defect(背叛；变节)+or (人)→背叛其国家、政党、团体等的人→背叛",
+      "phonetic" : "dɪˈfektə",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "defector"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "效果；作用；影响",
+      "examples" : [
+
+      ],
+      "frequency" : 428,
+      "mnemonic" : "ef (=ex向外)+fect(做)→做出事情后会产生一定的影响→影响；效果",
+      "phonetic" : "ɪˈfekt",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "effect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有效的，起作用的；给人深刻印象；实际的，实在的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "effect(效果；作用)+ive(形容词尾，表多或大)→效果大的→有效的",
+      "phonetic" : "ɪˈfektɪv",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "effective"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有效地，生效地；实际上；有力地",
+      "examples" : [
+
+      ],
+      "frequency" : 2587,
+      "mnemonic" : "effective(有效的)+ly(……地)→有效地",
+      "phonetic" : "ɪˈfektɪvlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fect",
+      "word" : "effectively"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "效力",
+      "examples" : [
+
+      ],
+      "frequency" : 3578,
+      "mnemonic" : "effective(有效的)+ness(名词后缀)→效力",
+      "phonetic" : "ɪˈfektɪvnɪs",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "effectiveness"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有成本效益的",
+      "examples" : [
+
+      ],
+      "frequency" : 10422,
+      "mnemonic" : "cost(成本)+effective(有效的)→投入的成本有效→有成本效益的",
+      "phonetic" : "ˈkɔ:stəˈfektɪv",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "cost-effective"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无效的，失效的；不起作用的",
+      "examples" : [
+
+      ],
+      "frequency" : 8022,
+      "mnemonic" : "in (表否定)+effective(有效的)→无效的，失效的；",
+      "phonetic" : "ɪnɪˈfektɪv",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "ineffective"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无效的，不起作用的；徒劳无益的",
+      "examples" : [
+
+      ],
+      "frequency" : 18120,
+      "mnemonic" : "in (表否定)+effect(效果；作用)+ual(……的)→没有效果的→无效的",
+      "phonetic" : "ɪnɪˈfektʃʊəl;-tjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "ineffectual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "完美的；最好的；精通的 v. 使完美",
+      "examples" : [
+
+      ],
+      "frequency" : 1163,
+      "mnemonic" : "per(彻底)+fect(做)→做的彻底→完美的；使完美",
+      "phonetic" : "ˈpɜ:fɪkt;(for v.) pəˈfekt",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "perfect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "完美地；完全地；无瑕疵地",
+      "examples" : [
+
+      ],
+      "frequency" : 2457,
+      "mnemonic" : "perfect (完美的)+ly (……地)→完美地",
+      "phonetic" : "ˈpɜːfɪk(t)lɪ",
+      "pos" : "adv.",
+      "rootHint" : "fect",
+      "word" : "perfectly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "完善；完美",
+      "examples" : [
+
+      ],
+      "frequency" : 6604,
+      "mnemonic" : "perfect(完美的)+-ion (名词后缀)→完美",
+      "phonetic" : "pəˈfekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "perfection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "完美主义；至善论",
+      "examples" : [
+
+      ],
+      "frequency" : 15850,
+      "mnemonic" : "perfection (完美)+ism(……主义)→完美主义",
+      "phonetic" : "pəˈfekʃ(ə)nɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "perfectionism"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "至善论者；完美主义者，追求完美的人",
+      "examples" : [
+
+      ],
+      "mnemonic" : "perfection (完美)+ist(人)→完美主义者",
+      "phonetic" : "pəˈfekʃ(ə)nɪst",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "perfectionist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不完美的；有缺点的",
+      "examples" : [
+
+      ],
+      "frequency" : 10294,
+      "mnemonic" : "im (不)+perfect (完美的)→不完美地→有缺点的",
+      "phonetic" : "ɪmˈpɜːfɪkt",
+      "pos" : "adj.",
+      "rootHint" : "fect",
+      "word" : "imperfect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不完美；缺点；瑕疵",
+      "examples" : [
+
+      ],
+      "frequency" : 13347,
+      "mnemonic" : "imperfect (不完美的)+ion(名词后缀)→不完美；缺点；瑕疵",
+      "phonetic" : "ɪmpəˈfekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "imperfection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有效率的；生效的；有能力的",
+      "examples" : [
+        "But for mobile phones, our communication would not have been so\nefficient and convenient.\n我们的通信就不可能如此迅速和方便。\nenergy-efficient adj. 节能的；高能效的 16382"
+      ],
+      "frequency" : 3023,
+      "mnemonic" : "ef(=ex：出来)+fic(做)+ient(形容词后缀：……的)→做得出来的→有效\nenergy (能源)+efficient(有效率的)→高效能的",
+      "phonetic" : "ɪˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "efficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "协同因素；[数]系数；[物]率",
+      "examples" : [
+
+      ],
+      "frequency" : 6054,
+      "mnemonic" : "co (一起；共同)+efficient(有效率的)→共同有效率的因素→协同因",
+      "phonetic" : "ˌkəʊɪˈfɪʃ(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "coefficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有效地；效率高地(efficient的副词形式)",
+      "examples" : [
+
+      ],
+      "frequency" : 6451,
+      "mnemonic" : "efficient(有效的)+ly (……地)→有效地",
+      "phonetic" : "ɪˈfɪʃntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "efficiently"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无效率的，效率低的；无能的",
+      "examples" : [
+
+      ],
+      "frequency" : 9878,
+      "mnemonic" : "in (表否定)+efficient (有效率的)→无效率的",
+      "phonetic" : "ɪnɪˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "inefficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "效率；功效；效能",
+      "examples" : [
+
+      ],
+      "frequency" : 3073,
+      "mnemonic" : "efficient(有效率的)+cy(名词词尾)→效率；功效",
+      "phonetic" : "ɪˈfɪʃ(ə)nsɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "efficiency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "缺乏效率，无效率，效率低",
+      "examples" : [
+
+      ],
+      "frequency" : 13741,
+      "mnemonic" : "in (表否定)+efficiency(效率)→没有效率→无效率",
+      "phonetic" : "ˌɪnɪˈfɪʃənsɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "inefficiency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "功效，效力",
+      "examples" : [
+
+      ],
+      "frequency" : 6385,
+      "mnemonic" : "ef (=ex出；向外)+fic(做)+-acy(名词后缀，表状态)→向外做出(成\n果)→(展现出)功效；效力",
+      "phonetic" : "ˈefɪkəsɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "efficacy"
+    },
+    {
+      "collocations" : [
+        "mentally deficient(考)：心智不健全"
+      ],
+      "definition" : "不足的；有缺陷的；不充分的",
+      "examples" : [
+
+      ],
+      "frequency" : 13161,
+      "mnemonic" : "de(表相反)+fic(做)+ient(的)→做的不够、做的不好→(有)缺陷、不",
+      "phonetic" : "dɪˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "deficient"
+    },
+    {
+      "collocations" : [
+        "immune deficiency(考)：免疫缺陷"
+      ],
+      "definition" : "缺乏；缺陷，缺点；不足的数额",
+      "examples" : [
+
+      ],
+      "frequency" : 6452,
+      "mnemonic" : "deficient(有缺陷的)+cy(名词词尾)→缺陷",
+      "phonetic" : "dɪˈfɪʃ(ə)nsɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "deficiency"
+    },
+    {
+      "collocations" : [
+        "trade deficit(考)：贸易逆差、贸易赤字"
+      ],
+      "definition" : "赤字；不足额",
+      "examples" : [
+
+      ],
+      "frequency" : 2425,
+      "mnemonic" : "de(表相反、不够)+fic(做)+it(后缀)→在(财政上)做得不够→赤字、",
+      "phonetic" : "ˈdefɪsɪt;ˈdiː-",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "deficit"
+    },
+    {
+      "collocations" : [
+        "artificial intelligence(考)：人工智能 artificial lighting(考)：人工照明"
+      ],
+      "definition" : "人工的，人造的；非自然的；虚伪的",
+      "examples" : [
+
+      ],
+      "frequency" : 4043,
+      "mnemonic" : "arti(人工)+fic(做、制造)+ial(……的)→人工造出来的→人造的、非天",
+      "phonetic" : "ɑːtɪˈfɪʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "artificial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "人为地；不自然地；人工地",
+      "examples" : [
+
+      ],
+      "frequency" : 11647,
+      "mnemonic" : "artificial (人工的)+ly(……地)→人工地",
+      "phonetic" : "ˈa:tiˈfiʃəli",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "artificially"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "手工艺品；人工制品",
+      "examples" : [
+
+      ],
+      "frequency" : 4608,
+      "mnemonic" : "arti(人工)+fact(制作)→人工制作的产品→人工制品",
+      "phonetic" : "ˈɑ:təˌfækt",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "artifact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "巧妙的办法；诡计；策略；18981",
+      "examples" : [
+
+      ],
+      "mnemonic" : "arti(技巧)+fic(做)+e→使用技巧做→巧妙的办法",
+      "phonetic" : "ˈɑːtɪfɪs",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "artifice"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重大的；有意义的；值得注意的；意味深长",
+      "examples" : [
+
+      ],
+      "mnemonic" : "sign(标记)+i+fic(做)+ant(形容词词缀；……的)→做标记的地方→值得",
+      "phonetic" : "sɪgˈnɪfɪk(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "significant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无关紧要的",
+      "examples" : [
+
+      ],
+      "frequency" : 9077,
+      "mnemonic" : "in (不)+significant(重要的)→不重要的→无关紧要的",
+      "phonetic" : "ɪnsɪgˈnɪfɪk(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "insignificant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重大地；显著地；1818",
+      "examples" : [
+
+      ],
+      "mnemonic" : "significant(重要的)+ly (……地)→重要地；显著地",
+      "phonetic" : "sɪgˈnɪfɪk(ə)ntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "significantly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重要性；意义；意思",
+      "examples" : [
+
+      ],
+      "frequency" : 2960,
+      "mnemonic" : "significant(重要的)+ance (名词后缀)→重要性",
+      "phonetic" : "sɪgˈnɪfɪk(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "significance"
+    },
+    {
+      "collocations" : [
+        "science fiction(考)：科幻小说"
+      ],
+      "definition" : "小说；虚构，编造；谎言",
+      "examples" : [
+
+      ],
+      "frequency" : 2786,
+      "mnemonic" : "fict(做、作；另外还在模仿单词form：形成、塑造；此时：首辅音均\n为f，尾辅音t、m音似)+ion(名词后缀)→做(塑造)出来的东西→小说；",
+      "phonetic" : "ˈfɪkʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "fiction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "虚构的；小说的",
+      "examples" : [
+
+      ],
+      "frequency" : 6444,
+      "mnemonic" : "fiction(小说)+al (……的)→小说的\nscience-fiction n. 科幻小说 20173",
+      "phonetic" : "ˈfɪkʃənl",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "fictional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "虚构的；假想的；假装的；编造的",
+      "examples" : [
+
+      ],
+      "frequency" : 15272,
+      "mnemonic" : "fict(做；引申为“虚构；编造”)+-itious(形容词词尾)→虚构的；编",
+      "phonetic" : "fɪkˈtɪʃəs",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "fictitious"
+    },
+    {
+      "collocations" : [
+        "distinctive feature(考)：区别性特征 feature film(考)：正片、故事片"
+      ],
+      "definition" : "容貌；特色，特征；特写或专题节目 v. 以……为特写",
+      "examples" : [
+
+      ],
+      "mnemonic" : "feat(=face脸)→容貌、面貌；特征、特点(因为“脸部”是一个人最大",
+      "phonetic" : "ˈfiːtʃə",
+      "pos" : "n.",
+      "rootHint" : "feat",
+      "word" : "feature"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "被作为特色的；特定的；有……的面貌特征的",
+      "examples" : [
+
+      ],
+      "frequency" : 15166,
+      "mnemonic" : "feature(特色)+ed(……的)→特色的",
+      "phonetic" : "ˈfiːtʃəd",
+      "pos" : "adj.",
+      "rootHint" : "feat",
+      "word" : "featured"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "功绩，壮举；技艺表演",
+      "etymology" : "mid-14c., “action, deeds,” from Anglo-French fet, from Old French fait “action, deed, achievement” (12c.), from Latin factum “thing done,” a noun based on the past participle of facere “to make, to do,” from PIE root *dhe- “to set, put.” Sense of “exceptional or noble deed” arose c. 1400 20000 词 汇巅峰 速 记 from phrase feat of arms (French fait d’armes). 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 7301,
+      "phonetic" : "fiːt",
+      "pos" : "n.",
+      "rootHint" : "feat",
+      "word" : "feat"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "战胜，击败；使……失败",
+      "examples" : [
+
+      ],
+      "frequency" : 3358,
+      "mnemonic" : "de(不；没有)+feat(功绩)→没有功绩→使……失败",
+      "phonetic" : "dɪˈfiːt",
+      "pos" : "vt.",
+      "rootHint" : "feat",
+      "word" : "defeat"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "击败，挫败 adj. 被击败的，受挫的，泄气的",
+      "examples" : [
+
+      ],
+      "frequency" : 10854,
+      "mnemonic" : "defeat(击败)+ed(……的；被……的)→被击败的，受挫的",
+      "phonetic" : "dɪˈfiːtɪd",
+      "pos" : "vt.",
+      "rootHint" : "feat",
+      "word" : "defeated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "未被击败的",
+      "examples" : [
+
+      ],
+      "frequency" : 15201,
+      "mnemonic" : "un(不)+defeated(被击败的)→不被击败的→未被击败的",
+      "phonetic" : "ˈʌndɪˈfitɪd",
+      "pos" : "adj.",
+      "rootHint" : "feat",
+      "word" : "undefeated"
+    },
+    {
+      "collocations" : [
+        "benefit sb.(考)：使……获益 benefit from(考)：从……中获得好处"
+      ],
+      "definition" : "利益，好处；救济金 v. 有利于……，受益；获益",
+      "examples" : [
+        "What is odd is that they have perhaps most benefited from ambition—if\nnot always their own then that of their parents and grandparents.\n奇怪的是他们或许是从野心中获益做多的人，如果不是他们自己，那\n么就是他们的父母或者祖父母。",
+        "奇怪的是还有人想从做好事中获得好处。\nWhat is odd is that some people still argue that we will benefit\/profit from\ndoing good deeds"
+      ],
+      "frequency" : 815,
+      "phonetic" : "ˈbenɪfɪt",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "benefit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "成本效益的",
+      "examples" : [
+
+      ],
+      "frequency" : 18839,
+      "mnemonic" : "cost (成本)+benefit (利益)→成本效益的",
+      "phonetic" : "ˈkɔstˈbenifit",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "cost-benefit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有益的，有利的；可享利益的",
+      "examples" : [
+        "从长远来看，施予帮助对于帮助爱心的接受者和发出者来说都是\n有有益无害的。\nOffering help is beneficial and hardly detrimental to both the benefactor\nand receiver in the long run\/term."
+      ],
+      "frequency" : 5052,
+      "mnemonic" : "benefit(好处、益处)+ial(形容词后缀：的)→有益的、有好处的",
+      "phonetic" : "benɪˈfɪʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "beneficial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恩人；捐助者；施主",
+      "examples" : [
+
+      ],
+      "frequency" : 14108,
+      "mnemonic" : "bene(好)+fact(做)+or(人)→做好事的人→恩人；捐助者；施主",
+      "phonetic" : "ˈbenɪfæktə",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "benefactor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "受益人，受惠者；封臣",
+      "examples" : [
+
+      ],
+      "frequency" : 6651,
+      "mnemonic" : "bene(好)+fici(做, 作)+-ary(名词词尾)→从某事中获得好处的人",
+      "phonetic" : "benɪˈfɪʃ(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "beneficiary"
+    },
+    {
+      "collocations" : [
+        "profit substantially from...(考)：从……中获得巨大好处",
+        "substantial profits(考)：巨大的利益"
+      ],
+      "definition" : "利润；利益 v. (获得)好处",
+      "examples" : [
+
+      ],
+      "frequency" : 1716,
+      "mnemonic" : "pro(向前)+fit(做)→向前做、做的超前→(有)好处、(能获)利益",
+      "phonetic" : "ˈprɒfɪt",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "profit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有利可图的；有益的；赚钱的",
+      "examples" : [
+
+      ],
+      "frequency" : 5420,
+      "mnemonic" : "profit(利润；利益)+able(能……的)→能有利润的→有利可图的",
+      "phonetic" : "ˈprɒfɪtəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "profitable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "没有利润的；无益的，没有用的",
+      "examples" : [
+
+      ],
+      "frequency" : 19663,
+      "mnemonic" : "un (不)+profitable (有利可图的)→没有利润的；无益的\nfor-profit adj. 以盈利为目的的 12519\nfor(为了)+profit(利润；利益)→以盈利为目的的",
+      "phonetic" : "ʌnˈprɒfɪtəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "unprofitable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非营利的；无利可图的",
+      "examples" : [
+
+      ],
+      "frequency" : 18794,
+      "mnemonic" : "not(不)+for(为了)+profit(利润；利益)→不以盈利为目的的→非营利的",
+      "phonetic" : "ˌnɔtfəˈprɔfit",
+      "pos" : "adj.",
+      "rootHint" : "fac",
+      "word" : "not-for-profit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "赢利能力；利益率；收益性",
+      "examples" : [
+
+      ],
+      "frequency" : 11506,
+      "mnemonic" : "profitable (赚钱的)+ility (名词后缀，表性质，状态)→收益性；利益率",
+      "phonetic" : "ˌprɑfɪtəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "profitability"
+    },
+    {
+      "collocations" : [
+        "proficient in maths and science.(考)：精通数学和科学"
+      ],
+      "definition" : "熟练的，精通的",
+      "examples" : [
+
+      ],
+      "frequency" : 12467,
+      "mnemonic" : "pro(向前)+fic(做)+ient(形容词后缀)→做的向前、超前的→熟练的、",
+      "phonetic" : "prəˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "proficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "精通，熟练",
+      "examples" : [
+
+      ],
+      "frequency" : 10455,
+      "mnemonic" : "proficient(熟练的)+cy(名词后缀)→熟练",
+      "phonetic" : "prəˈfɪʃ(ə)nsɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "proficiency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "办公室；营业处；政府机关；官职",
+      "examples" : [
+
+      ],
+      "frequency" : 342,
+      "mnemonic" : "of(=op，工作)+fic(做)→做工作的地方→办公室",
+      "phonetic" : "ˈɒfɪs",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "office"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "军官，警官；公务员，政府官员；船长",
+      "examples" : [
+
+      ],
+      "frequency" : 671,
+      "mnemonic" : "office(办公室；政府机关)+er (人)→坐办公室的人→公务员；官员",
+      "phonetic" : "ˈɒfɪsə",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "officer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "首席执行官；执行总裁(chief executive officer)",
+      "examples" : [
+
+      ],
+      "frequency" : 2510,
+      "phonetic" : "ˌsi:i:ˈəʊ",
+      "pos" : "abbr.",
+      "rootHint" : "fac",
+      "word" : "CEO"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "正式的；官方的；公务的",
+      "examples" : [
+
+      ],
+      "frequency" : 527,
+      "mnemonic" : "office(办公室；政府机关)+ial (……的)→办公室的；政府机关的→官",
+      "phonetic" : "əˈfɪʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "official"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "作为公务员；官方地；正式地",
+      "examples" : [
+
+      ],
+      "frequency" : 4113,
+      "mnemonic" : "official (正式的；官方的)+ly(……地)→官方地；正式地",
+      "phonetic" : "əˈfɪʃəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "officially"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "非正式的；非官方的",
+      "examples" : [
+
+      ],
+      "frequency" : 9466,
+      "mnemonic" : "un (不)+official (正式的；官方的)不官方的→非官方的；非正式的",
+      "phonetic" : "ˌʌnəˈfɪʃl",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "unofficial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行使(职务)；主持(仪式)；担任裁判",
+      "examples" : [
+
+      ],
+      "frequency" : 17807,
+      "mnemonic" : "office(办公室；政府机关)+ate(使)→使办公室履行职责→行使(职务)",
+      "phonetic" : "əˈfɪʃɪeɪt",
+      "pos" : "vt.",
+      "rootHint" : "fic",
+      "word" : "officiate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "售票处；票房",
+      "etymology" : "“office in a theater in which tickets are sold,” 1786, from box (n.1)+office (n.). Box is from late 14c. in the specialized sense “money box,” especially one in which money is kept for some particular purpose; extended to “funds, money” before c. 1400. Box office in the figurative sense of “financial element of a performance” is recorded by 1904.",
+      "examples" : [
+
+      ],
+      "frequency" : 17385,
+      "phonetic" : "ˈbɔksˌɔfis",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "box-office"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "牺牲；供奉；祭品",
+      "examples" : [
+
+      ],
+      "frequency" : 4109,
+      "mnemonic" : "sacri(神圣的)+fic(做)+-e→为神做的事→供奉；祭品",
+      "phonetic" : "ˈsækrɪfaɪs",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "sacrifice"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "牺牲的；献祭的",
+      "examples" : [
+
+      ],
+      "frequency" : 16484,
+      "mnemonic" : "sacrifice (牺牲；祭品)+ial(……的)→牺牲的；献祭的",
+      "phonetic" : "sækrəˈfɪʃ(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "sacrificial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使满足；足够……用；合格",
+      "examples" : [
+
+      ],
+      "frequency" : 9505,
+      "mnemonic" : "suf (=sub；下)+fic(做)+-e→在下面或背后做了大量工作→足够……",
+      "phonetic" : "səˈfaɪs",
+      "pos" : "vt.",
+      "rootHint" : "fic",
+      "word" : "suffice"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "足够的；充分的",
+      "examples" : [
+
+      ],
+      "frequency" : 3123,
+      "mnemonic" : "suffice (使足够)+ent (……的)→足够的；充分的",
+      "phonetic" : "səˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "sufficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "充分地；足够地",
+      "examples" : [
+
+      ],
+      "frequency" : 6031,
+      "mnemonic" : "sufficient(足够的；充分的)+ly (……地)→足够地；",
+      "phonetic" : "səˈfɪʃəntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "sufficiently"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不足的，不充足的",
+      "examples" : [
+
+      ],
+      "frequency" : 7235,
+      "mnemonic" : "in (不)+sufficient(足够的；充分的)→不足够；不充分的",
+      "phonetic" : "ɪnsəˈfɪʃ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "insufficient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "明确的；具体的；特殊的，特定的",
+      "examples" : [
+
+      ],
+      "frequency" : 982,
+      "mnemonic" : "speci(=species；种类，类别)+fic(做)→按照类别做→明确的；具体的",
+      "phonetic" : "spəˈsɪfɪk",
+      "pos" : "adj.",
+      "rootHint" : "fic",
+      "word" : "specific"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "明确地；特别地",
+      "examples" : [
+
+      ],
+      "frequency" : 1972,
+      "mnemonic" : "specific(明确的)+al (……的)+ly (……地)→明确地；特别地",
+      "phonetic" : "spɪˈsɪfɪkəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "fic",
+      "word" : "specifically"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "规格；详述；说明书",
+      "examples" : [
+
+      ],
+      "frequency" : 7978,
+      "mnemonic" : "specific(明确的)+ation(名词后缀)→将一件事说明确的→详述",
+      "phonetic" : "ˌspesɪfɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "specification"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "指定；列举；详细说明；把……列入说明书",
+      "examples" : [
+
+      ],
+      "frequency" : 4911,
+      "mnemonic" : "specific(明确的)+fy (使)→使明确→详细说明；列举",
+      "phonetic" : "ˈspesɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "fac",
+      "word" : "specify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "明确性；具体性；独特性性",
+      "examples" : [
+
+      ],
+      "frequency" : 11319,
+      "mnemonic" : "specific(明确的)+ity(名词后缀，表性质)→明确性",
+      "phonetic" : "ˌspesɪˈfɪsətɪ",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "specificity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "交通；贸易；运输；非法买卖，非法交易；人流",
+      "examples" : [
+
+      ],
+      "frequency" : 172,
+      "mnemonic" : "tra(转移)+fic (做)→做转移→运输；贸易\n(毒品、赃物等的)非法买卖，非法交易\nTraffic in something such as drugs or stolen goods is an illegal trade in\nthem.",
+      "phonetic" : "ˈtræfɪk",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "traffic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "(尤指毒品的)非法买卖者",
+      "examples" : [
+
+      ],
+      "frequency" : 11212,
+      "mnemonic" : "traffic(非法买卖，非法交易)+-er(名词后缀表示人)→(尤指毒品的)非",
+      "phonetic" : "ˈtræfɪkə",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "trafficker"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "传真；复制本",
+      "etymology" : "“exact copy,” 1690s, two words, from Latin fac simile “make similar,” from fac imperative of facere “to make” (from PIE root *dhe- “to set, 20000 词 汇巅峰 速 记 put”)+simile, neuter of similis “like, resembling, of the same kind” (see similar). One-word form predominated in 20c. As an adjective from 1877",
+      "examples" : [
+
+      ],
+      "frequency" : 19296,
+      "mnemonic" : "fac(做)+simil(相同)+e→做相同的事情→复制→传真；复制本",
+      "phonetic" : "fækˈsɪmɪlɪ",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "facsimile"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "罚金；没收物；丧失的东西 vt. 被没收；丧失",
+      "examples" : [
+
+      ],
+      "frequency" : 13038,
+      "mnemonic" : "for (在外面；超过)+feit(=fac；做)→做过头的，越界(超出正确的范\n围)→罚金；没收物",
+      "phonetic" : "ˈfɔːfɪt",
+      "pos" : "n.",
+      "rootHint" : "feit",
+      "word" : "forfeit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "伪造，仿造；假装，伪装",
+      "examples" : [
+
+      ],
+      "frequency" : 18014,
+      "mnemonic" : "counter (=against：对照；对比)+feit(=fac；做)→对照着做→伪造；",
+      "phonetic" : "ˈkaʊntəfɪt;-fiːt",
+      "pos" : "vt.",
+      "rootHint" : "feit",
+      "word" : "counterfeit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "迷信；偶像；恋物(等于fetich)",
+      "etymology" : "“material object regarded with awe as having mysterious powers or being the representative of a deity that may be worshipped through it,” 1610s, fatisso, from Portuguese feitiço “charm, sorcery, allurement,” noun use of an adjective meaning “artificial.” 在西非和中非的一些原始部落流行传统的实物崇拜，这是一种非常原 始的宗教。这些原始部落由于对自然现象缺乏理解，以为许多物体如 石块、木片、树枝、弓箭等具有灵性，并赋以神秘的、超自然的性 质，以及支配人的命运的力量。他们将这种灵性物品制作成护身符， 或当成偶像来进行崇拜。最初来到西非的葡萄牙航海家、水手和商人 接触这些非洲原始部落后，将他们所崇拜的这些护身符或偶像称为 20000 词 汇巅峰 速 记 笔 记 区 feitiço，意思是“人造的”，来自拉丁语facticius(人造的)。1760年， 著名人类学家查尔斯·德·布霍斯(Charles De Brosses)在其著作中提 到了非洲原始部落的这种实物崇拜，并在葡萄牙语feitiço的基础上构 造了法语fétiche，英语单词fetish正是来源于此。在宗教领域，fetish 表示“实物崇拜，拜物”；在心理学领域，fetish表示“恋物”。",
+      "examples" : [
+
+      ],
+      "frequency" : 16609,
+      "phonetic" : "ˈfetɪʃ",
+      "pos" : "n.",
+      "rootHint" : "fac",
+      "word" : "fetish"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "狂热爱好者；迷",
+      "etymology" : "\u0007 1845, from Spanish aficionado “amateur,” specifically “devotee of bullfighting,” literally “fond of,” from afición “affection,” from Latin affectionem “relation, disposition,” noun of state from past participle stem of afficere “do something” (see affect (n.)). “Most sources derive this word from the Spanish verb aficionar but the verb does not appear in Spanish before 1555, and the word aficionado is recorded in the 1400’s” [Barnhart]. In English, originally of devotees of bullfighting; in non-restricted use by 1882. 释义：狂热爱好者；迷 If someone is an aficionado of something, they like it and know a lot about it.",
+      "examples" : [
+
+      ],
+      "frequency" : 1479,
+      "phonetic" : "əˌfɪsjəˈnɑːdəʊ;-ˌfɪʃjə-",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "aficionado"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "甜食；甜点；精制工艺品",
+      "etymology" : "From early 15c. as “the making by means of ingredients, art or act of compounding different substances into one preparation.” In late 14c. also “something prepared or made with sugar or syrup” sense of “candies, bonbons, light pastry” predominated from 16c.",
+      "examples" : [
+
+      ],
+      "frequency" : 20165,
+      "mnemonic" : "con(一起)+fect(=make：制作)→把不同的原料做到一起(甚至还加\n糖)→甜点；精制工艺品",
+      "phonetic" : "kənˈfekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "confection"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "糖果制造人；甜食制造商",
+      "examples" : [
+
+      ],
+      "frequency" : 17057,
+      "mnemonic" : "confection(调制)+er (人)→调制的人→糖果制造人；甜食商",
+      "phonetic" : "kənˈfekʃ(ə)nə",
+      "pos" : "n.",
+      "rootHint" : "fect",
+      "word" : "confectioner"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大厦；大建筑物",
+      "examples" : [
+
+      ],
+      "frequency" : 15196,
+      "phonetic" : "ˈedɪfɪs",
+      "pos" : "n.",
+      "rootHint" : "fic",
+      "word" : "edifice"
+    }
+  ]
+}

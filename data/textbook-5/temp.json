@@ -1,0 +1,195 @@
+{
+  "chapter" : "7",
+  "chapterOrder" : 107,
+  "id" : "temp",
+  "meaningZh" : "time, earthly",
+  "roots" : [
+    "temp"
+  ],
+  "semanticLabel" : "time, earthly",
+  "source" : "textbook-5",
+  "titleZh" : "time, earthly",
+  "words" : [
+    {
+      "collocations" : [
+        "contemporary fiction \/ music \/ dance：当代小说 \/ 音乐 \/ 舞蹈",
+        "life in contemporary Britain：当代英国的生活",
+        "contemporary art：当代艺术"
+      ],
+      "definition" : "同代人；同辈人 adj. 同一时代的；当代",
+      "examples" : [
+
+      ],
+      "mnemonic" : "con-（共同）+ -temp-（=time：（一段）时间）+ -orary（=-or+ -ary：\n复合名词后缀）→共同在某一段时间生活的→同代人；同一时代的；",
+      "phonetic" : "kənˈtemp(ə)r(ər)ɪ",
+      "pos" : "n.",
+      "rootHint" : "temp",
+      "word" : "contemporary"
+    },
+    {
+      "collocations" : [
+        "temporary relief from pain：短暂的解痛",
+        "temporary work：临时工",
+        "temporary accommodation：临时住所",
+        "a temporary measure \/ solution \/ arrangement：临时措施 \/ 解决办法 \/ 安排"
+      ],
+      "definition" : "短暂的；暂时的",
+      "examples" : [
+
+      ],
+      "frequency" : 3175,
+      "mnemonic" : "temp-（=time：时间）+ -or-（名词后缀）+ -ary（形容词后缀）→持\n续一段时间的→引申词义短暂的；暂时的",
+      "phonetic" : "ˈtɛmp(ə)rəri",
+      "pos" : "adj.",
+      "rootHint" : "temp",
+      "word" : "temporary"
+    },
+    {
+      "collocations" : [
+        "temporal leader：俗世领袖",
+        "a temporal and spatial context：时间和空间背景",
+        "a universe which has spatial and temporal dimensions：有时空维度的宇宙"
+      ],
+      "definition" : "世俗的；时间的",
+      "etymology" : "late 14c., “worldly, secular;” also “terrestrial, earthly; temporary, lasting only for a time,” from Old French temporal “earthly”. From tempus (genitive temporis) “time, season, moment, proper time or season”.",
+      "examples" : [
+
+      ],
+      "frequency" : 6978,
+      "mnemonic" : "temp-（=earthly, time：尘世的；时间）+ -or（名词后缀）+ -al（形容\n词后缀）→世俗的；时间的",
+      "phonetic" : "ˈtemp(ə)r(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "temp",
+      "word" : "temporal"
+    },
+    {
+      "collocations" : [
+        "migrate abroad either temporarily or permanently：暂时或永久地移居国外",
+        "temporarily drop behind：暂时落后",
+        "stop someone temporarily：暂时阻挠某人"
+      ],
+      "definition" : "临时地；暂时地",
+      "examples" : [
+
+      ],
+      "frequency" : 5279,
+      "mnemonic" : "temporari（=temporary：短暂的）+ -ly（副词后缀）→临时地；暂时",
+      "phonetic" : "ˈtemprərəli",
+      "pos" : "adv.",
+      "rootHint" : "temp",
+      "word" : "temporarily"
+    },
+    {
+      "collocations" : [
+        "a slow \/ fast tempo：慢\/快速",
+        "the increasing tempo：日益加速的生活节奏"
+      ],
+      "definition" : "（事件发展的）速度；（音乐的）节奏",
+      "etymology" : "来自意大利语 tempo，节拍，拍子。",
+      "examples" : [
+
+      ],
+      "frequency" : 10233,
+      "mnemonic" : "temp-（=time：时间）+ -o（名词后缀）→时间的节奏→速度；节奏",
+      "phonetic" : "ˈtempəʊ",
+      "pos" : "n.",
+      "rootHint" : "temp",
+      "word" : "tempo"
+    },
+    {
+      "collocations" : [
+        "run an extremely high temperature：发严重高烧",
+        "to take sb.’s temperature：量某人的体温"
+      ],
+      "definition" : "温度；体温；（特定场合的）氛围",
+      "etymology" : "Mid-15c., “fact of being tempered, proper proportion;” 1530s, “character or nature of a substance,” from Latin temperatura “a tempering, moderation,” from temperatus, past participle of temperare “to mix in due proportion, modify, blend; restrain oneself”.",
+      "examples" : [
+
+      ],
+      "frequency" : 1631,
+      "mnemonic" : "temper（混合；使温和）+ -ate（形容词后缀，e略）+ -ure（名词后\n缀）→混合（空气；体温）成适当比例的某物→温度；体温；氛围",
+      "phonetic" : "temprətʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "temp",
+      "word" : "temperature"
+    },
+    {
+      "collocations" : [
+        "lose one’s temper：发脾气 to fly into a temper：勃然大怒",
+        "a violent \/ short \/ quick, etc. temper：烈性子、急性子、火性子等",
+        "hot temper：急躁的脾气"
+      ],
+      "definition" : "脾气；易怒的性情；-tempered：有……脾气的；心",
+      "examples" : [
+        "From car dealerships to Gap outlets, sales have been lagging for months as\nshoppers temper their spending.\n从汽车代理商到Gap服饰专卖店，其销售额由于顾客开支的减少，几"
+      ],
+      "mnemonic" : "v. 来自拉丁语temperare：to moderate→使缓和；使温和\nn. 来自拉丁语temperare：be moderate, restrain oneself：克制自己，\n温和平静的性情特征→后来特指易怒的性情，有……脾气的，性",
+      "phonetic" : "ˈtempə",
+      "pos" : "n.",
+      "rootHint" : "temp",
+      "word" : "temper"
+    },
+    {
+      "collocations" : [
+        "to have an artistic temperament：有艺术家的气质",
+        "a horse with an excellent temperament：性情温顺的马"
+      ],
+      "definition" : "气质，性情；（性情）暴躁；喜怒无常",
+      "etymology" : "Late 14c., “proportioned mixture of elements”，各种元素成比例混 合。来自拉丁语temperamentum “proper mixture, a mixing in due proportion”，“以适当比例混合”。来自temperare “to mix in due proportion, modify, blend; restrain oneself ”. General sense of “habit of mind, natural disposition” is from 1821.",
+      "examples" : [
+
+      ],
+      "frequency" : 8602,
+      "mnemonic" : "tempera（=temper：性情，脾气）+-ment（名词后缀）→气质；性",
+      "phonetic" : "ˈtemprəmənt",
+      "pos" : "n.",
+      "rootHint" : "temp",
+      "word" : "temperament"
+    },
+    {
+      "collocations" : [
+        "a temperate climate：气候温和",
+        "temperate latitudes：温带地区"
+      ],
+      "definition" : "气候温和的；温带的；性情温和的；自我克制的",
+      "examples" : [
+
+      ],
+      "mnemonic" : "temper（=moderate, self-restrained：温和的；自我克制的）+-ate（形\n容词后缀）→气候温和的；自我克制的→温带的；性情温和的",
+      "phonetic" : "ˈtempərət",
+      "pos" : "adj.",
+      "rootHint" : "temp",
+      "word" : "temperate"
+    },
+    {
+      "collocations" : [
+        "temperamental and critical：喜怒无常，而且吹毛求疵",
+        "couldn’t start the temperamental motor：无法发动那辆性能不稳定的摩"
+      ],
+      "definition" : "喜怒无常的；性情的；（机器、汽车",
+      "examples" : [
+
+      ],
+      "mnemonic" : "temperament（性情；喜怒无常）+ -al（形容词后缀）→引申词义有",
+      "phonetic" : "ˌtemprəˈmentl",
+      "pos" : "adj.",
+      "rootHint" : "temp",
+      "word" : "temperamental"
+    },
+    {
+      "collocations" : [
+        "tamper with the evidence：篡改证据",
+        "tamper with the brakes of my car：有意破坏我汽车的刹车"
+      ],
+      "definition" : "干涉；篡改；擅自改动；胡乱摆弄（尤指有意破坏）",
+      "etymology" : "temper=blend：掺和→e变为a，插手别人的事情：tamper=干涉、篡改 （meddle, interfere）他人之事；擅自改动；胡乱摆弄",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈtæmpə",
+      "pos" : "vi.",
+      "rootHint" : "temp",
+      "word" : "tamper"
+    }
+  ]
+}

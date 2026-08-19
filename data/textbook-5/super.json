@@ -1,0 +1,244 @@
+{
+  "chapter" : "29",
+  "id" : "super",
+  "meaningEn" : "over",
+  "meaningZh" : "在……之上；超过。",
+  "roots" : [
+    "super"
+  ],
+  "source" : "textbook-5",
+  "titleZh" : "在……之上；超过。",
+  "words" : [
+    {
+      "collocations" : [
+        "superficial differences \/ similarities：表面的相异 \/ 相似之处"
+      ],
+      "definition" : "（人）肤浅的；（行动、感情、关系",
+      "examples" : [
+
+      ],
+      "mnemonic" : "super-（=over：在……之上）+ -fic（=face：脸；表面）+ -ial（形容",
+      "phonetic" : "ˌsuːpəˈfɪʃ(ə)l;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "super",
+      "word" : "superficial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "表面地；浅薄地",
+      "examples" : [
+        "They love so sweet, even if only superficially, but also envy the warm sun."
+      ],
+      "frequency" : 20040,
+      "phonetic" : "ˌsuːpəˈfɪʃ(ə)lɪ;ˌsjuː-",
+      "pos" : "adv.",
+      "rootHint" : "super",
+      "word" : "superficially"
+    },
+    {
+      "collocations" : [
+        "make words superfluous：无需多言了"
+      ],
+      "definition" : "过剩的；多余的",
+      "examples" : [
+
+      ],
+      "frequency" : 16828,
+      "mnemonic" : "super-（=over：在……之上；超过）+ -flu-（流）+ -ous（形容词后",
+      "phonetic" : "suːˈpɜːflʊəs;sjuː-",
+      "pos" : "adj.",
+      "rootHint" : "super",
+      "word" : "superfluous"
+    },
+    {
+      "collocations" : [
+        "superhuman strength：非凡的力量"
+      ],
+      "definition" : "超出常人的；非凡的",
+      "examples" : [
+
+      ],
+      "frequency" : 19425,
+      "mnemonic" : "super-（超过）+ human（人类的）→超过人类的→超出常人的；非凡",
+      "phonetic" : "ˌsuːpəˈhjuːmən;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "super",
+      "word" : "superhuman"
+    },
+    {
+      "collocations" : [
+        "become superintendent of the bank：成为该银行的主管"
+      ],
+      "definition" : "负责人；主管；警长",
+      "examples" : [
+
+      ],
+      "frequency" : 5572,
+      "mnemonic" : "super（=above：在……之上）+ intend（=direct：管理）+ -ent（名词",
+      "phonetic" : "suːp(ə)rɪnˈtend(ə)nt;sjuː-",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "superintendent"
+    },
+    {
+      "collocations" : [
+        "supernatural powers：超自然力量"
+      ],
+      "definition" : "（生物、力量、事件等）超自然",
+      "examples" : [
+
+      ],
+      "mnemonic" : "super（=above：在……之上）+ natural（自然的）→超自然的；超自",
+      "phonetic" : "ˌsuːpəˈnætʃ(ə)r(ə)l;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "super",
+      "word" : "supernatural"
+    },
+    {
+      "collocations" : [
+        "the Supreme Court：最高法庭"
+      ],
+      "definition" : "（级别或地位）最高的，至高无上的；（程度）最",
+      "examples" : [
+
+      ],
+      "mnemonic" : "supre（=above：在上面）+ m（=most：最）+ e→最高的，至高无上的",
+      "phonetic" : "suːˈpriːm",
+      "pos" : "adj.",
+      "rootHint" : "super",
+      "word" : "supreme"
+    },
+    {
+      "collocations" : [
+        "the battle for supremacy in the region：争夺地区霸权的较量"
+      ],
+      "definition" : "至高无上；最高权威；优势",
+      "examples" : [
+
+      ],
+      "frequency" : 11870,
+      "mnemonic" : "supreme（至高无上的）+ -acy（名词后缀）→至高无上；最高权威；",
+      "phonetic" : "s(j)uːˈpreməsɪ",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "supremacy"
+    },
+    {
+      "collocations" : [
+        "supremely confident：信心十足"
+      ],
+      "definition" : "极其；极为",
+      "examples" : [
+
+      ],
+      "frequency" : 17720,
+      "phonetic" : "suˈprimli",
+      "pos" : "adv.",
+      "rootHint" : "super",
+      "word" : "supremely"
+    },
+    {
+      "collocations" : [
+        "a white supremacist：白人至上主义者"
+      ],
+      "definition" : "（尤指白人的）种族优越论者",
+      "examples" : [
+
+      ],
+      "frequency" : 17923,
+      "mnemonic" : "supremacy（至高无上）+ -ist（人）→种族优越论者",
+      "phonetic" : "suːˈpreməsɪst;sjuː-",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "supremacist"
+    },
+    {
+      "collocations" : [
+        "above \/ below ground：在地面上 \/ 下"
+      ],
+      "definition" : "以……为根据 n. 地面；优势；场地 adj. 现实的",
+      "examples" : [
+
+      ],
+      "frequency" : 523,
+      "phonetic" : "graʊnd",
+      "pos" : "vt.",
+      "rootHint" : "super",
+      "word" : "ground"
+    },
+    {
+      "collocations" : [
+        "working-class background：工人阶级出身"
+      ],
+      "definition" : "（家庭、职业）出身；背景；背景声音；（图",
+      "examples" : [
+
+      ],
+      "mnemonic" : "back（背；后）+ ground（土地，底，底子）→背后的底子（家底）",
+      "phonetic" : "ˈbækgraʊnd",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "background"
+    },
+    {
+      "collocations" : [
+        "go underground：转入地下"
+      ],
+      "definition" : "秘密地；在地下 adj. 秘密的；地下的 n. 地",
+      "examples" : [
+
+      ],
+      "mnemonic" : "under（下）+ ground（地面）→在地面之下的→秘密的（地）；地下",
+      "phonetic" : "ʌndəˈgraʊnd",
+      "pos" : "adv.",
+      "rootHint" : "super",
+      "word" : "underground"
+    },
+    {
+      "collocations" : [
+        "play in a school playground：在学校操场上玩耍"
+      ],
+      "definition" : "（尤指学校或公园中的）游戏场；操场；（某",
+      "examples" : [
+
+      ],
+      "mnemonic" : "play（玩耍）+ ground（场地）→玩耍的场地→游戏场；操场；活动",
+      "phonetic" : "ˈpleɪgraʊnd",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "playground"
+    },
+    {
+      "collocations" : [
+        "on the battleground：在战场上"
+      ],
+      "definition" : "战场",
+      "examples" : [
+
+      ],
+      "frequency" : 12414,
+      "mnemonic" : "battle（战役；斗争）+ ground（场地）→战斗场所→战场",
+      "phonetic" : "ˈbætlɡraund",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "battleground"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "露营场所；野营地",
+      "examples" : [
+
+      ],
+      "frequency" : 12494,
+      "mnemonic" : "camp（露营；野营）+ ground（场所）→露营场所；野营地",
+      "phonetic" : "ˈkæmpɡraʊnd",
+      "pos" : "n.",
+      "rootHint" : "super",
+      "word" : "campground"
+    }
+  ]
+}
