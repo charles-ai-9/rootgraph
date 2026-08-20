@@ -14,7 +14,7 @@
 | **是什么** | 个人用的 Web 词根学习工具，从「20000词汇巅峰速记营」PDF 教材提取词根族，以 Notion 式笔记 + 词根变体导航学习 |
 | **技术栈** | React 19 + TypeScript + Vite 8 + 纯 CSS；无后端；数据为静态 JSON；持久化靠 localStorage |
 | **数据源** | 8 本教材：1/2/5–8 用 PDF 文字层（Swift）；**3/4 用 docx**（Python）→ `data/` JSON → 前端 `fetch('/data/...')` |
-| **当前规模** | **160** 个词根族（全部唯一）、**8388** 词（去重后；**8 本教材均已导入**） |
+| **当前规模** | **161** 个词根族（全部唯一）、**8384** 词（去重后；**8 本教材均已导入**） |
 | **核心用户** | 项目所有者 Charles，个人学习用，非 SaaS |
 
 **启动：**
@@ -210,13 +210,13 @@ Seed 版本号：`AFFIX_SEED_VERSION = 'docx-v14'`（`web/src/data/affixSeed.ts`
 
 | 指标 | 数值 |
 |------|------|
-| catalog 词根族 | **160**（全部唯一键，无重复） |
-| 总词数 | **8388**（同族重复词条已去重；intact2/age-0ld/c0-opt 噪声词已修） |
+| catalog 词根族 | **161**（全部唯一键，无重复） |
+| 总词数 | **8384**（去重 + -ics 专题族重组 + 错标词清理后） |
 | 已解析教材 | **1–8 全部** |
 
 | 教材 | 来源 | 家族数 | 词数 |
 |------|------|--------|------|
-| textbook-1 | PDF | 11 | 1005 |
+| textbook-1 | PDF | **12**（含 -ics 专题族） | 1005 |
 | textbook-2 | PDF | 10 | 911 |
 | **textbook-3** | **docx** | 14 | 454 |
 | **textbook-4** | **docx** | 19 | 1453 |
@@ -545,7 +545,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 | 问题 | 说明 |
 |------|------|
-| `-ics` 词误归 cern | 如 economics、electronics，rootHint 错 |
+| ~~`-ics` 词误归 cern~~ | 已修复：26 词移入 textbook-1/ics.json 专题族 |
 | 章节 title 粗糙 | 尤其 docx 导入的 TB3/4，可用 xlsx 元数据优化 |
 | TB4 章节合并 | docx 内多 TOC 条目合并为 19 族（非 51 族），但词数完整 |
 | 孤儿文件备份 | 60 个旧 orphan JSON（含 gnor.json 等有数据文件）备份在 `/tmp/rootgraph-orphan-backup/`，如需恢复可手动并入 |

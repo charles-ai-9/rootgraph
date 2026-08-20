@@ -1,1741 +1,1281 @@
 {
-  "chapter" : "七",
-  "chapterOrder" : 7,
-  "id" : "fin",
-  "meaningZh" : "限制，约束，范围",
-  "roots" : [
+  "chapter": "七",
+  "chapterOrder": 7,
+  "id": "fin",
+  "meaningZh": "限制，约束，范围",
+  "roots": [
     "fin",
     "bin"
   ],
-  "semanticLabel" : "限制，约束，范围",
-  "source" : "textbook-1",
-  "titleZh" : "限制，约束，范围",
-  "words" : [
+  "semanticLabel": "限制，约束，范围",
+  "source": "textbook-1",
+  "titleZh": "限制，约束，范围",
+  "words": [
     {
-      "collocations" : [
-
-      ],
-      "definition" : "定义；使明确；规定",
-      "examples" : [
-
-      ],
-      "frequency" : 1214,
-      "mnemonic" : "de (下) +fin (限定，范围) +e→给……下个范围，限定→下定义",
-      "phonetic" : "dɪˈfaɪn",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "define"
+      "collocations": [],
+      "definition": "定义；使明确；规定",
+      "examples": [],
+      "frequency": 1214,
+      "mnemonic": "de (下) +fin (限定，范围) +e→给……下个范围，限定→下定义",
+      "phonetic": "dɪˈfaɪn",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "define"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "清晰的，轮廓分明的；有定义的，确定的；外形清晰",
-      "examples" : [
-
-      ],
-      "phonetic" : "dɪˈfaɪnd",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "defined"
+      "collocations": [],
+      "definition": "清晰的，轮廓分明的；有定义的，确定的；外形清晰",
+      "examples": [],
+      "phonetic": "dɪˈfaɪnd",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "defined"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "最典型的；起决定性作用的",
-      "examples" : [
-
-      ],
-      "frequency" : 9819,
-      "phonetic" : "dɪˈfaɪnɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "defining"
+      "collocations": [],
+      "definition": "最典型的；起决定性作用的",
+      "examples": [],
+      "frequency": 9819,
+      "phonetic": "dɪˈfaɪnɪŋ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "defining"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "定义；清晰度；解说",
-      "examples" : [
-
-      ],
-      "frequency" : 2129,
-      "phonetic" : "defɪˈnɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "definition"
+      "collocations": [],
+      "definition": "定义；清晰度；解说",
+      "examples": [],
+      "frequency": 2129,
+      "phonetic": "defɪˈnɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "definition"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（电视或技术）高清晰度的，高分辨率",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈhaidefiˈniʃən",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "high-definition"
+      "collocations": [],
+      "definition": "（电视或技术）高清晰度的，高分辨率",
+      "examples": [],
+      "phonetic": "ˈhaidefiˈniʃən",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "high-definition"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "重新定义",
-      "examples" : [
-
-      ],
-      "frequency" : 7700,
-      "phonetic" : "ri:dɪˈfaɪn",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "redefine"
+      "collocations": [],
+      "definition": "重新定义",
+      "examples": [],
+      "frequency": 7700,
+      "phonetic": "ri:dɪˈfaɪn",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "redefine"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "重新定义",
-      "examples" : [
-
-      ],
-      "frequency" : 19823,
-      "phonetic" : "ˌridɛfəˈnɪʃən",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "redefinition"
+      "collocations": [],
+      "definition": "重新定义",
+      "examples": [],
+      "frequency": 19823,
+      "phonetic": "ˌridɛfəˈnɪʃən",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "redefinition"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "定义明确的；界限清楚的",
-      "examples" : [
-
-      ],
-      "frequency" : 15574,
-      "phonetic" : "ˈweldiˈfaind",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "well-defined"
+      "collocations": [],
+      "definition": "定义明确的；界限清楚的",
+      "examples": [],
+      "frequency": 15574,
+      "phonetic": "ˈweldiˈfaind",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "well-defined"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a definite period of time (考)：一定的时期",
         "definite conclusion (考)：明确的结论"
       ],
-      "definition" : "确切的；一定的",
-      "examples" : [
-
-      ],
-      "frequency" : 6887,
-      "mnemonic" : "de (加强语气) +fin (限定，约束) +ite (形容词后缀) →限定的，确定",
-      "phonetic" : "ˈdefɪnɪt",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "definite"
+      "definition": "确切的；一定的",
+      "examples": [],
+      "frequency": 6887,
+      "mnemonic": "de (加强语气) +fin (限定，约束) +ite (形容词后缀) →限定的，确定",
+      "phonetic": "ˈdefɪnɪt",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "definite"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "不确定的；模糊的；无限的",
-      "examples" : [
-
-      ],
-      "frequency" : 14449,
-      "phonetic" : "ɪnˈdefɪnɪt",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "indefinite"
+      "collocations": [],
+      "definition": "不确定的；模糊的；无限的",
+      "examples": [],
+      "frequency": 14449,
+      "phonetic": "ɪnˈdefɪnɪt",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "indefinite"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "明确地，肯定地；清楚地，当然",
-      "examples" : [
-
-      ],
-      "frequency" : 2005,
-      "phonetic" : "ˈdefɪnɪtlɪ",
-      "pos" : "adv.",
-      "rootHint" : "fin",
-      "word" : "definitely"
+      "collocations": [],
+      "definition": "明确地，肯定地；清楚地，当然",
+      "examples": [],
+      "frequency": 2005,
+      "phonetic": "ˈdefɪnɪtlɪ",
+      "pos": "adv.",
+      "rootHint": "fin",
+      "word": "definitely"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "明确的；最终的；不可更改的；决定性的；最佳",
-      "examples" : [
-
-      ],
-      "phonetic" : "dɪˈfɪnətɪv",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "definitive"
+      "collocations": [],
+      "definition": "明确的；最终的；不可更改的；决定性的；最佳",
+      "examples": [],
+      "phonetic": "dɪˈfɪnətɪv",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "definitive"
     },
     {
-      "collocations" : [
-        "be bound up with (考)：和……联系在一起\/绑在一起",
+      "collocations": [
+        "be bound up with (考)：和……联系在一起/绑在一起",
         "bind together (考)：绑在一起"
       ],
-      "definition" : "装订；结合；过紧；有约束力",
-      "examples" : [
+      "definition": "装订；结合；过紧；有约束力",
+      "examples": [
         "Furthermore, it is obvious that the strength of a country’s economy is\ndirectly bound up with the efficiency of its agriculture and industry, and\nthat this in turn rests upon the efforts of scientists and technologists of all\nkinds.\n此外，很明显的是，一个国家的经济实力直接和它工业和农业的效率\n联系在一起，而效率反过来又依赖各种科学家和技术人员的努力。",
         "很明显的是，一个人的成功直接和他的能力联系在一起，而能力\n反过来又依赖他所付出的努力。\nIt is obvious that the success of a person is directly bound up with his\nability, and that this in turn rests upon his efforts.\nEisenhower’s interstate highways the nation together in new\nways and facilitated major economic growth by making commerce less\nexpensive.\nA．packed B．stuck C．suppressed D．bound"
       ],
-      "frequency" : 2519,
-      "mnemonic" : "bind (谐音：绑，捆绑) →约束，束缚 (即：被“绑住”了) ；联系，",
-      "phonetic" : "baɪnd",
-      "pos" : "vi.",
-      "rootHint" : "bin",
-      "word" : "bind"
+      "frequency": 2519,
+      "mnemonic": "bind (谐音：绑，捆绑) →约束，束缚 (即：被“绑住”了) ；联系，",
+      "phonetic": "baɪnd",
+      "pos": "vi.",
+      "rootHint": "bin",
+      "word": "bind"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "装订工；活页夹；捆缚者；粘合剂；用以绑缚之物",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈbaɪndə",
-      "pos" : "n.",
-      "rootHint" : "bin",
-      "word" : "binder"
+      "collocations": [],
+      "definition": "装订工；活页夹；捆缚者；粘合剂；用以绑缚之物",
+      "examples": [],
+      "phonetic": "ˈbaɪndə",
+      "pos": "n.",
+      "rootHint": "bin",
+      "word": "binder"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "有约束力的；必须遵守的；应履行的",
-      "examples" : [
-
-      ],
-      "frequency" : 9323,
-      "phonetic" : "ˈbaɪndɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "bin",
-      "word" : "binding"
+      "collocations": [],
+      "definition": "有约束力的；必须遵守的；应履行的",
+      "examples": [],
+      "frequency": 9323,
+      "phonetic": "ˈbaɪndɪŋ",
+      "pos": "adj.",
+      "rootHint": "bin",
+      "word": "binding"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "乐队；一帮；带；频带；波段",
-      "examples" : [
-
-      ],
-      "frequency" : 1284,
-      "mnemonic" : "band (=bind：捆绑) →绑在一起的几个人→乐队",
-      "phonetic" : "bænd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "band"
+      "collocations": [],
+      "definition": "乐队；一帮；带；频带；波段",
+      "examples": [],
+      "frequency": 1284,
+      "mnemonic": "band (=bind：捆绑) →绑在一起的几个人→乐队",
+      "phonetic": "bænd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "band"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "绷带",
-      "examples" : [
-
-      ],
-      "frequency" : 9653,
-      "phonetic" : "ˈbændɪdʒ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bandage"
+      "collocations": [],
+      "definition": "绷带",
+      "examples": [],
+      "frequency": 9653,
+      "phonetic": "ˈbændɪdʒ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bandage"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "(邦迪牌)创可贴；(问题的解决办法)短期有效的，权",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈbændeid",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "Band-Aid"
+      "collocations": [],
+      "definition": "(邦迪牌)创可贴；(问题的解决办法)短期有效的，权",
+      "examples": [],
+      "phonetic": "ˈbændeid",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "Band-Aid"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "扎染印花大手帕；印花大围巾",
-      "etymology" : "Also often bandana, 1752, from Hindi bandhnu, a method of dyeing, from Sanskrit badhnati “binds”(because the cloth is tied in different places like 20000 词 汇巅峰 速 记 modern tie-dye), from PIE root *bhendh- “to bind.” Perhaps to English via Portuguese. Etymologically, the colors and spots are what makes it a bandanna. 笔 记 区",
-      "examples" : [
-
-      ],
-      "frequency" : 18374,
-      "phonetic" : "bænˈdænə",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bandanna"
+      "collocations": [],
+      "definition": "扎染印花大手帕；印花大围巾",
+      "etymology": "Also often bandana, 1752, from Hindi bandhnu, a method of dyeing, from Sanskrit badhnati “binds”(because the cloth is tied in different places like 20000 词 汇巅峰 速 记 modern tie-dye), from PIE root *bhendh- “to bind.” Perhaps to English via Portuguese. Etymologically, the colors and spots are what makes it a bandanna. 笔 记 区",
+      "examples": [],
+      "frequency": 18374,
+      "phonetic": "bænˈdænə",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bandanna"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "乐队花车；流行，时尚",
-      "etymology" : "Also band-wagon, 1849, American English, from band (n.2)+wagon, originally a large wagon used to carry the band in a circus procession; as these also figured in celebrations of successful political campaigns, being on the bandwagon came to represent “attaching oneself to anything that looks likely to succeed,” a usage first attested 1899 in writings of Theodore Roosevelt.",
-      "examples" : [
-
-      ],
-      "frequency" : 14912,
-      "phonetic" : "ˈbændwægən",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bandwagon"
+      "collocations": [],
+      "definition": "乐队花车；流行，时尚",
+      "etymology": "Also band-wagon, 1849, American English, from band (n.2)+wagon, originally a large wagon used to carry the band in a circus procession; as these also figured in celebrations of successful political campaigns, being on the bandwagon came to represent “attaching oneself to anything that looks likely to succeed,” a usage first attested 1899 in writings of Theodore Roosevelt.",
+      "examples": [],
+      "frequency": 14912,
+      "phonetic": "ˈbændwægən",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bandwagon"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "[无]带宽；频带宽度",
-      "examples" : [
-
-      ],
-      "frequency" : 13396,
-      "phonetic" : "ˈbændwɪtθ; -wɪdθ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bandwidth"
+      "collocations": [],
+      "definition": "[无]带宽；频带宽度",
+      "examples": [],
+      "frequency": 13396,
+      "phonetic": "ˈbændwɪtθ; -wɪdθ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bandwidth"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "宽频；宽波段；（互联网）宽带连接",
-      "examples" : [
-
-      ],
-      "frequency" : 13714,
-      "phonetic" : "ˈbrɔ:dbænd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "broadband"
+      "collocations": [],
+      "definition": "宽频；宽波段；（互联网）宽带连接",
+      "examples": [],
+      "frequency": 13714,
+      "phonetic": "ˈbrɔ:dbænd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "broadband"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "解散",
-      "examples" : [
-
-      ],
-      "frequency" : 14334,
-      "phonetic" : "dɪsˈbænd",
-      "pos" : "vi.",
-      "rootHint" : "fin",
-      "word" : "disband"
+      "collocations": [],
+      "definition": "解散",
+      "examples": [],
+      "frequency": 14334,
+      "phonetic": "dɪsˈbænd",
+      "pos": "vi.",
+      "rootHint": "fin",
+      "word": "disband"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "头饰带；头巾",
-      "examples" : [
-
-      ],
-      "frequency" : 18809,
-      "phonetic" : "ˈhedbænd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "headband"
+      "collocations": [],
+      "definition": "头饰带；头巾",
+      "examples": [],
+      "frequency": 18809,
+      "phonetic": "ˈhedbænd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "headband"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "腰带；裤腰；裙腰",
-      "examples" : [
-
-      ],
-      "frequency" : 18042,
-      "phonetic" : "ˈweɪs(t)bænd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "waistband"
+      "collocations": [],
+      "definition": "腰带；裤腰；裙腰",
+      "examples": [],
+      "frequency": 18042,
+      "phonetic": "ˈweɪs(t)bænd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "waistband"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "缎带；带状物；带；（勋章等的）绶带；[军]勋表",
-      "etymology" : "Early 14c., ribane, from Old French riban “a ribbon,” variant of ruban (13c.), of unknown origin, possibly from a Germanic compound whose second element is related to band (n.1); compare Middle Dutch ringhband “necklace.” Modern spelling is from mid-16c. Originally a stripe in a material. Custom of colored ribbon loops worn on lapels to declare support for some group perceived as suffering or oppressed began in 1991 with AIDS red ribbons.",
-      "examples" : [
-
-      ],
-      "frequency" : 4891,
-      "phonetic" : "ˈrɪbən",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "ribbon"
+      "collocations": [],
+      "definition": "缎带；带状物；带；（勋章等的）绶带；[军]勋表",
+      "etymology": "Early 14c., ribane, from Old French riban “a ribbon,” variant of ruban (13c.), of unknown origin, possibly from a Germanic compound whose second element is related to band (n.1); compare Middle Dutch ringhband “necklace.” Modern spelling is from mid-16c. Originally a stripe in a material. Custom of colored ribbon loops worn on lapels to declare support for some group perceived as suffering or oppressed began in 1991 with AIDS red ribbons.",
+      "examples": [],
+      "frequency": 4891,
+      "phonetic": "ˈrɪbən",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "ribbon"
     },
     {
-      "collocations" : [
+      "collocations": [
         "finite resources (考)：有限的资源"
       ],
-      "definition" : "有限的；限定的",
-      "examples" : [
-        "如果我们不采取措施去节约有限的资源，那么有天它一定会枯竭。\nIf we don’t take measurs\/steps to save the finite resources, it is bound to\ndeplete one day in the future."
+      "definition": "有限的；限定的",
+      "examples": [
+        "如果我们不采取措施去节约有限的资源，那么有天它一定会枯竭。\nIf we don’t take measurs/steps to save the finite resources, it is bound to\ndeplete one day in the future."
       ],
-      "frequency" : 9888,
-      "phonetic" : "ˈfaɪnaɪt",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "finite"
+      "frequency": 9888,
+      "phonetic": "ˈfaɪnaɪt",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "finite"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "无限的，无穷的；无数的；极大的",
-      "examples" : [
-
-      ],
-      "frequency" : 6970,
-      "mnemonic" : "in (表否定) +fin (=bind：限制，限度) +ite (形容词后缀：的) →无限",
-      "phonetic" : "ˈɪnfɪnət",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "infinite"
+      "collocations": [],
+      "definition": "无限的，无穷的；无数的；极大的",
+      "examples": [],
+      "frequency": 6970,
+      "mnemonic": "in (表否定) +fin (=bind：限制，限度) +ite (形容词后缀：的) →无限",
+      "phonetic": "ˈɪnfɪnət",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "infinite"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "无限地；极其",
-      "examples" : [
-
-      ],
-      "frequency" : 11255,
-      "phonetic" : "ˈɪnfɪnɪtlɪ",
-      "pos" : "adv.",
-      "rootHint" : "fin",
-      "word" : "infinitely"
+      "collocations": [],
+      "definition": "无限地；极其",
+      "examples": [],
+      "frequency": 11255,
+      "phonetic": "ˈɪnfɪnɪtlɪ",
+      "pos": "adv.",
+      "rootHint": "fin",
+      "word": "infinitely"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "无穷；无限大；无限远的距离",
-      "examples" : [
-
-      ],
-      "frequency" : 11552,
-      "phonetic" : "ɪnˈfɪnɪtɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "infinity"
+      "collocations": [],
+      "definition": "无穷；无限大；无限远的距离",
+      "examples": [],
+      "frequency": 11552,
+      "phonetic": "ɪnˈfɪnɪtɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "infinity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be confined to (考)：受限于……"
       ],
-      "definition" : "限制；限定 n. 界限，边界",
-      "examples" : [
+      "definition": "限制；限定 n. 界限，边界",
+      "examples": [
         "It gave rise to mass production and, through mass production, to a society\nin which wealth was not confined to the few.\n它导致大批量生产，通过大批量生产，导致一个社会中财富不仅限于\n少数人。",
         "对财富的狂热追求导致了一个社会，在这种社会中，阅读经典仅\n限于少数知识分子。\nFevered quest for wealth has given rise to a society in which reading\nclassics is confined to a few intellectuals."
       ],
-      "frequency" : 5407,
-      "mnemonic" : "con (完全) +fin (=bind：限制，束缚) +e→限制，束缚",
-      "phonetic" : "kənˈfaɪn",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "confine"
+      "frequency": 5407,
+      "mnemonic": "con (完全) +fin (=bind：限制，束缚) +e→限制，束缚",
+      "phonetic": "kənˈfaɪn",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "confine"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "限制；监禁；分娩",
-      "examples" : [
-
-      ],
-      "frequency" : 10967,
-      "phonetic" : "kənˈfaɪnmənt",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "confinement"
+      "collocations": [],
+      "definition": "限制；监禁；分娩",
+      "examples": [],
+      "frequency": 10967,
+      "phonetic": "kənˈfaɪnmənt",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "confinement"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be bound to (考)：必然，一定会"
       ],
-      "definition" : "受约束的；装有封面的；有义务的 n. 界限 vi. 跳跃",
-      "examples" : [
+      "definition": "受约束的；装有封面的；有义务的 n. 界限 vi. 跳跃",
+      "examples": [
         "Even so, the shift in the centre of gravity to older age groups is bound to\nhave a profound effect on societies, not just economically and politically\nbut in all sorts of other ways too.\n即便如此，重心向老年人群转移必然会对社会产生深远的影响，该影\n响不仅体现在经济上和政治上，还涵盖其他的方方面面。",
         "将学习重心转向英文必然会对社会产生深远的影响，该影响不仅\n体现在社会上和文化上，还涵盖其他的方方面面。\nThe shift in the centre of gravity to English learning is bound to have a\nprofound effect on societies, not just socially and culturally but in all sorts\nof other ways too."
       ],
-      "frequency" : 8153,
-      "mnemonic" : "bound (=bind：捆绑，束，约束) →约束，限定 (即：由“捆绑”造出",
-      "phonetic" : "baʊnd",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "bound"
+      "frequency": 8153,
+      "mnemonic": "bound (=bind：捆绑，束，约束) →约束，限定 (即：由“捆绑”造出",
+      "phonetic": "baʊnd",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "bound"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "无限的；无边无际的",
-      "examples" : [
-
-      ],
-      "frequency" : 16324,
-      "phonetic" : "ˈbaʊndləs",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "boundless"
+      "collocations": [],
+      "definition": "无限的；无边无际的",
+      "examples": [],
+      "frequency": 16324,
+      "phonetic": "ˈbaʊndləs",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "boundless"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "回弹；篮板球 vi. 反弹；弹回",
-      "examples" : [
-
-      ],
-      "frequency" : 5968,
-      "phonetic" : "rɪˈbaʊnd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "rebound"
+      "collocations": [],
+      "definition": "回弹；篮板球 vi. 反弹；弹回",
+      "examples": [],
+      "frequency": 5968,
+      "phonetic": "rɪˈbaʊnd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "rebound"
     },
     {
-      "collocations" : [
+      "collocations": [
         "within the legal and moral boundaries of society (考)：在社会的法律和"
       ],
-      "definition" : "分界线；边界；范围",
-      "examples" : [
-
-      ],
-      "frequency" : 2800,
-      "mnemonic" : "bound (限定，范围，边境) +ary (名词后缀) →边界，分界线 (即：划",
-      "phonetic" : "ˈbaʊnd(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "boundary"
+      "definition": "分界线；边界；范围",
+      "examples": [],
+      "frequency": 2800,
+      "mnemonic": "bound (限定，范围，边境) +ary (名词后缀) →边界，分界线 (即：划",
+      "phonetic": "ˈbaʊnd(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "boundary"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "边界；边境；国界",
-      "examples" : [
-
-      ],
-      "frequency" : 1351,
-      "mnemonic" : "bord (=bound：界限，范围) +er (名词后缀) →边界，边境 (即：一个",
-      "phonetic" : "ˈbɔ:də",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "border"
+      "collocations": [],
+      "definition": "边界；边境；国界",
+      "examples": [],
+      "frequency": 1351,
+      "mnemonic": "bord (=bound：界限，范围) +er (名词后缀) →边界，边境 (即：一个",
+      "phonetic": "ˈbɔ:də",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "border"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cross-border trade：跨国贸易",
         "cross-border attacks：越境袭击"
       ],
-      "definition" : "跨越国境的",
-      "examples" : [
-
-      ],
-      "frequency" : 15412,
-      "phonetic" : "ˈkrɔsˈbɔrdɚ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "cross-border"
+      "definition": "跨越国境的",
+      "examples": [],
+      "frequency": 15412,
+      "phonetic": "ˈkrɔsˈbɔrdɚ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "cross-border"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "边界线，边界；界线",
-      "examples" : [
-
-      ],
-      "frequency" : 13300,
-      "phonetic" : "ˈbɔ:dəlaɪn",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "borderline"
+      "collocations": [],
+      "definition": "边界线，边界；界线",
+      "examples": [],
+      "frequency": 13300,
+      "phonetic": "ˈbɔ:dəlaɪn",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "borderline"
     },
     {
-      "collocations" : [
+      "collocations": [
         "expanding frontiers of scholarship (考)：不断扩大的奖学金范围"
       ],
-      "definition" : "边界；国境；前沿",
-      "examples" : [
+      "definition": "边界；国境；前沿",
+      "examples": [
         "By making it possible to search the millions of books that exist today, we\nhope to expand the frontiers of human knowledge.\n我们希望通过实现搜索现存的上百万图书来扩展人类的知识范围。\nTo keep up with the expanding frontiers of scholarship, Edward Wilson\nfound himself surfing the Internet frequently for information.\n为了了解不断扩大的奖学金范围， Edward Wilson频繁上网来查找信息。"
       ],
-      "frequency" : 4466,
-      "mnemonic" : "front (前面) +ier (名词后缀) → 一个国家的最前面，最前沿→边界，",
-      "phonetic" : "ˈfrʌntɪə; frʌnˈtɪə",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "frontier"
+      "frequency": 4466,
+      "mnemonic": "front (前面) +ier (名词后缀) → 一个国家的最前面，最前沿→边界，",
+      "phonetic": "ˈfrʌntɪə; frʌnˈtɪə",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "frontier"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the bond of true affection (考)：真情的纽带"
       ],
-      "definition" : "纽带；结合；粘合剂；债券；约定",
-      "etymology" : "Early 13c., “anything that binds, fastens, or confines,” phonetic variant of band (n.1) and at first interchangeable with it. For vowel change, see long (adj.); also influenced by unrelated Old English bonda “householder,” literally “dweller”(see bond (adj.)).",
-      "examples" : [
-
-      ],
-      "frequency" : 1894,
-      "phonetic" : "bɒnd",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bond"
+      "definition": "纽带；结合；粘合剂；债券；约定",
+      "etymology": "Early 13c., “anything that binds, fastens, or confines,” phonetic variant of band (n.1) and at first interchangeable with it. For vowel change, see long (adj.); also influenced by unrelated Old English bonda “householder,” literally “dweller”(see bond (adj.)).",
+      "examples": [],
+      "frequency": 1894,
+      "phonetic": "bɒnd",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bond"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "奴役身份；束缚；性虐待",
-      "examples" : [
-
-      ],
-      "frequency" : 16822,
-      "phonetic" : "ˈbɒndɪdʒ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bondage"
+      "collocations": [],
+      "definition": "奴役身份；束缚；性虐待",
+      "examples": [],
+      "frequency": 16822,
+      "phonetic": "ˈbɒndɪdʒ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bondage"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "人与人之间的关系（或联结）；原子的结合；键合",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈbɒndɪŋ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bonding"
+      "collocations": [],
+      "definition": "人与人之间的关系（或联结）；原子的结合；键合",
+      "examples": [],
+      "phonetic": "ˈbɒndɪŋ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bonding"
     },
     {
-      "collocations" : [
+      "collocations": [
         "on the horizon (考)：即将来临的",
         "intellectual horizons (考)：知识范围"
       ],
-      "definition" : "地平线；眼界；范围；视野",
-      "examples" : [
+      "definition": "地平线；眼界；范围；视野",
+      "examples": [
         "For many of us the “cashless society” is not on the horizon—it’s already\nhere.\n对于我们许多人来说，“无现金社会”不是即将来临，而是已经来了。",
-        "对于我们许多人来说，电子图书时代不是即将来临，而是已经来了。\nFor many of us the age\/era of E-books is not on the horizon—it’s already\nhere."
+        "对于我们许多人来说，电子图书时代不是即将来临，而是已经来了。\nFor many of us the age/era of E-books is not on the horizon—it’s already\nhere."
       ],
-      "frequency" : 3138,
-      "mnemonic" : "horiz (=bound：界限，范围) +on (名词后缀) →范围，眼界；地平线",
-      "phonetic" : "həˈraɪz(ə)n",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "horizon"
+      "frequency": 3138,
+      "mnemonic": "horiz (=bound：界限，范围) +on (名词后缀) →范围，眼界；地平线",
+      "phonetic": "həˈraɪz(ə)n",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "horizon"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "水平的；地平线的；同一阶层的",
-      "examples" : [
-
-      ],
-      "frequency" : 6082,
-      "phonetic" : "hɒrɪˈzɒnt(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "horizontal"
+      "collocations": [],
+      "definition": "水平的；地平线的；同一阶层的",
+      "examples": [],
+      "frequency": 6082,
+      "phonetic": "hɒrɪˈzɒnt(ə)l",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "horizontal"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "水平地",
-      "examples" : [
-
-      ],
-      "frequency" : 12911,
-      "phonetic" : "ˌhɑrəˈzɑntli",
-      "pos" : "adv.",
-      "rootHint" : "fin",
-      "word" : "horizontally"
+      "collocations": [],
+      "definition": "水平地",
+      "examples": [],
+      "frequency": 12911,
+      "phonetic": "ˌhɑrəˈzɑntli",
+      "pos": "adv.",
+      "rootHint": "fin",
+      "word": "horizontally"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a pretty active bunch (考)：极度活跃的一群"
       ],
-      "definition" : "串；群；突出物",
-      "examples" : [
-
-      ],
-      "frequency" : 2684,
-      "mnemonic" : "bunch (=bound=bind：捆) →捆，绑在一起的→束，群，串",
-      "phonetic" : "bʌn(t)ʃ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bunch"
+      "definition": "串；群；突出物",
+      "examples": [],
+      "frequency": 2684,
+      "mnemonic": "bunch (=bound=bind：捆) →捆，绑在一起的→束，群，串",
+      "phonetic": "bʌn(t)ʃ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bunch"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "捆；束；及其；非常",
-      "examples" : [
-
-      ],
-      "frequency" : 6092,
-      "phonetic" : "ˈbʌnd(ə)l",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bundle"
+      "collocations": [],
+      "definition": "捆；束；及其；非常",
+      "examples": [],
+      "frequency": 6092,
+      "phonetic": "ˈbʌnd(ə)l",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bundle"
     },
     {
-      "collocations" : [
+      "collocations": [
         "highly refined analyses (考)：高度精准的分析"
       ],
-      "definition" : "精炼，提纯；使……文雅；改善",
-      "examples" : [
-
-      ],
-      "frequency" : 6701,
-      "mnemonic" : "re (反复) +fine (好) →反复使之更好→使完善，精炼，提纯",
-      "phonetic" : "rɪˈfaɪn",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "refine"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "精炼的；微妙的；精确的；有教养的",
-      "examples" : [
-
-      ],
-      "frequency" : 7848,
-      "phonetic" : "rɪˈfaɪnd",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "refined"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "精制；提纯；有教养；文雅",
-      "examples" : [
-
-      ],
-      "frequency" : 10883,
-      "phonetic" : "rɪˈfaɪnm(ə)nt",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "refinement"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "精炼厂；提炼厂；冶炼厂",
-      "etymology" : "Word-forming element making nouns meaning “place for, art of, condition of, quantity of,” from Middle English -erie, from Latin -arius (see -ary). 20000 词 汇巅峰 速 记 笔 记 区 Also sometimes in modern colloquial use “the collectivity of” or “an example of.”",
-      "examples" : [
-
-      ],
-      "frequency" : 9578,
-      "phonetic" : "rɪˈfaɪn(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "refinery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "大炮；火炮；炮术；炮队",
-      "examples" : [
-
-      ],
-      "frequency" : 6638,
-      "phonetic" : "ɑ:ˈtɪlərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "artillery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "面包店",
-      "examples" : [
-
-      ],
-      "frequency" : 8232,
-      "phonetic" : "ˈbeɪk(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bakery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "电池，蓄电池",
-      "examples" : [
-
-      ],
-      "frequency" : 3221,
-      "phonetic" : "ˈbætri",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "battery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "勇敢；勇气",
-      "examples" : [
-
-      ],
-      "frequency" : 12664,
-      "phonetic" : "ˈbreɪv(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bravery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "啤酒厂",
-      "examples" : [
-
-      ],
-      "frequency" : 15712,
-      "phonetic" : "ˈbrʊərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "brewery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "贿赂；行贿；受贿",
-      "examples" : [
-
-      ],
-      "frequency" : 13712,
-      "phonetic" : "ˈbraɪbərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "bribery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "谄媚的，奉承的；涂用黄油的；像黄油样的",
-      "examples" : [
-
-      ],
-      "frequency" : 18322,
-      "phonetic" : "ˈbʌt(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "buttery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "芹菜",
-      "examples" : [
-
-      ],
-      "frequency" : 8342,
-      "phonetic" : "ˈselərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "celery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "墓地；公墓",
-      "examples" : [
-
-      ],
-      "frequency" : 4643,
-      "phonetic" : "ˈsemɪtrɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "cemetery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "愉快的，活泼的",
-      "examples" : [
-
-      ],
-      "frequency" : 15261,
-      "phonetic" : "ˈtʃɪərɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "cheery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "交付；递送；分娩",
-      "examples" : [
-
-      ],
-      "frequency" : 2828,
-      "phonetic" : "dɪˈlɪv(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "delivery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "发现，发觉；被发现的事物",
-      "examples" : [
-
-      ],
-      "frequency" : 2247,
-      "phonetic" : "dɪˈskʌv(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "discovery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "餐馆；饭店",
-      "examples" : [
-
-      ],
-      "frequency" : 15491,
-      "phonetic" : "ˈi:tərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "eatery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "刺绣；粉饰；刺绣品",
-      "examples" : [
-
-      ],
-      "frequency" : 14746,
-      "phonetic" : "ɪmˈbrɒɪd(ə)rɪ; em-",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "embroidery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "柔软如羽毛的；生有羽毛的",
-      "examples" : [
-
-      ],
-      "frequency" : 18524,
-      "phonetic" : "ˈfeð(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "feathery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "燃烧般的；热烈的，炽烈的；暴躁的",
-      "examples" : [
-
-      ],
-      "frequency" : 7976,
-      "phonetic" : "ˈfaɪərɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "fiery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "渔业；渔场；水产业",
-      "examples" : [
-
-      ],
-      "frequency" : 5151,
-      "phonetic" : "ˈfɪʃ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "fishery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "谄媚；奉承；恭维话",
-      "examples" : [
-
-      ],
-      "frequency" : 19801,
-      "phonetic" : "ˈflæt(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "flattery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "多花的；花的；华丽的；绚丽的",
-      "examples" : [
-
-      ],
-      "frequency" : 19559,
-      "phonetic" : "ˈflaʊərɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "flowery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "伪造；伪造罪；伪造物",
-      "examples" : [
-
-      ],
-      "frequency" : 17124,
-      "phonetic" : "ˈfɔ:dʒ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "forgery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "走廊；画廊；地道；旁听席",
-      "examples" : [
-
-      ],
-      "frequency" : 3382,
-      "phonetic" : "ˈgæl(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "gallery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "绿色植物；温室",
-      "examples" : [
-
-      ],
-      "frequency" : 15317,
-      "phonetic" : "ˈgri:n(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "greenery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "食品杂货店",
-      "examples" : [
-
-      ],
-      "frequency" : 3328,
-      "phonetic" : "ˈgrəʊs(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "grocery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "孵卵处",
-      "examples" : [
-
-      ],
-      "frequency" : 16428,
-      "phonetic" : "ˈhætʃərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "hatchery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "比喻；意象；像；形象化",
-      "examples" : [
-
-      ],
-      "frequency" : 5260,
-      "phonetic" : "ˈɪmɪdʒ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "imagery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "神经过敏的；紧张不安的；战战兢兢的",
-      "examples" : [
-
-      ],
-      "frequency" : 17601,
-      "phonetic" : "ˈdʒɪt(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "jittery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "粗糙的；粗涩的；似皮革的",
-      "examples" : [
-
-      ],
-      "frequency" : 20001,
-      "phonetic" : "ˈleð(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "leathery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "机敏的；狡猾的；猜疑的；送秋波的",
-      "examples" : [
-
-      ],
-      "frequency" : 17435,
-      "phonetic" : "ˈlɪərɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "leery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "彩票；碰运气的事，难算计的事；抽彩给奖法",
-      "examples" : [
-
-      ],
-      "frequency" : 6111,
-      "phonetic" : "ˈlɒt(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "lottery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "机械；机器；机构；机械装置",
-      "examples" : [
-
-      ],
-      "frequency" : 5856,
-      "phonetic" : "məˈʃi:n(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "machinery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "精通；优势；统治权；征服；掌握",
-      "examples" : [
-
-      ],
-      "frequency" : 7733,
-      "phonetic" : "ˈmɑ:st(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "mastery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "痛苦，悲惨；不幸；穷困；苦恼",
-      "examples" : [
-
-      ],
-      "frequency" : 6175,
-      "phonetic" : "ˈmɪzərɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "misery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈmɒk(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "mockery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "寺院；隐修院",
-      "examples" : [
-
-      ],
-      "frequency" : 8231,
-      "phonetic" : "ˈmɒnəst(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "monastery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "神秘，秘密；神秘的事物；奥秘",
-      "examples" : [
-
-      ],
-      "frequency" : 2352,
-      "phonetic" : "ˈmɪst(ə)ri",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "mystery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "托儿所；苗圃；温床",
-      "examples" : [
-
-      ],
-      "frequency" : 5711,
-      "phonetic" : "ˈnɜ:s(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "nursery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "陶器；陶器厂；陶器制造术",
-      "examples" : [
-
-      ],
-      "frequency" : 7233,
-      "phonetic" : "ˈpɒt(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "pottery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "粉的；粉状的；布满粉状物的",
-      "examples" : [
-
-      ],
-      "frequency" : 19634,
-      "phonetic" : "ˈpaʊdəri:",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "powdery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "恢复，复原；痊愈；重获",
-      "examples" : [
-
-      ],
-      "frequency" : 2466,
-      "phonetic" : "rɪˈkʌv(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "recovery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "抢劫，盗窃；抢掠",
-      "examples" : [
-
-      ],
-      "frequency" : 6096,
-      "phonetic" : "ˈrɒb(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "robbery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "橡胶似的；有弹力的；坚韧的",
-      "examples" : [
-
-      ],
-      "frequency" : 19442,
-      "phonetic" : "ˈrʌbərɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "rubbery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "凶恶行为；残暴行径；兽性",
-      "examples" : [
-
-      ],
-      "frequency" : 19453,
-      "phonetic" : "ˈsævɪdʒ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "savagery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "风景；景色；[戏]舞台布景",
-      "examples" : [
-
-      ],
-      "frequency" : 8327,
-      "phonetic" : "ˈsi:n(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "scenery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "清脆的；银色的；银铃一般的；似银的",
-      "examples" : [
-
-      ],
-      "frequency" : 12225,
-      "phonetic" : "ˈsɪlv(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "silvery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "奴役；奴隶制度；奴隶身分",
-      "examples" : [
-
-      ],
-      "frequency" : 4630,
-      "phonetic" : "ˈsleɪv(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "slavery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "滑的；狡猾的；不稳定的",
-      "examples" : [
-
-      ],
-      "frequency" : 7858,
-      "phonetic" : "ˈslɪp(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "slippery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "巫术",
-      "examples" : [
-
-      ],
-      "frequency" : 18314,
-      "phonetic" : "ˈsɔ:s(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "sorcery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "文具；信纸",
-      "examples" : [
-
-      ],
-      "frequency" : 15163,
-      "phonetic" : "ˈsteɪʃ(ə)n(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "stationery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "外科；外科手术；手术室；诊疗室",
-      "examples" : [
-
-      ],
-      "frequency" : 1807,
-      "phonetic" : "ˈsɜ:dʒ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "surgery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "背叛；变节；背叛行为",
-      "examples" : [
-
-      ],
-      "frequency" : 18068,
-      "phonetic" : "ˈtretʃ(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "treachery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "家具装饰用品业；座套；椅套",
-      "examples" : [
-
-      ],
-      "frequency" : 14488,
-      "phonetic" : "ʌpˈhəʊlst(ə)rɪ; -ˈhɒl-",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "upholstery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "水的；淡的；湿的；松软的；有雨意的",
-      "examples" : [
-
-      ],
-      "frequency" : 10836,
-      "phonetic" : "ˈwɔ:t(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "watery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "酿酒厂；葡萄酒酿造厂（复数wineries）",
-      "examples" : [
-
-      ],
-      "frequency" : 10611,
-      "phonetic" : "ˈwaɪn(ə)rɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "winery"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "完成；结束；用完",
-      "examples" : [
-
-      ],
-      "frequency" : 918,
-      "phonetic" : "ˈfɪnɪʃ",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "finish"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "不再做(……)的，(同……)不再打交道的；(对……)不再",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈfɪnɪʃt",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "finished"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "（最后的）润饰者；整理工；最后优胜者；（赛跑等",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈfɪnɪʃɚ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "finisher"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "最后的；终点的",
-      "examples" : [
-
-      ],
-      "frequency" : 10179,
-      "phonetic" : "ˈfɪnɪʃɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "finishing"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "未完成的",
-      "examples" : [
-
-      ],
-      "frequency" : 8570,
-      "phonetic" : "ʌnˈfɪnɪʃt",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "unfinished"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "最终的；决定性的；不可更改的",
-      "examples" : [
-
-      ],
-      "frequency" : 890,
-      "phonetic" : "ˈfaɪn(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "final"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "最后乐章；最后一场；结局；结尾",
-      "examples" : [
-
-      ],
-      "frequency" : 10001,
-      "phonetic" : "fɪˈnɑ:lɪ; -leɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "finale"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "参加决赛的选手",
-      "examples" : [
-
-      ],
-      "frequency" : 10445,
-      "phonetic" : "ˈfaɪn(ə)lɪst",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "finalist"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "定局；终结；终结性；不可改变性",
-      "examples" : [
-
-      ],
-      "frequency" : 16479,
-      "phonetic" : "faɪˈnælɪtɪ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "finality"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "(尤指经与他人讨论)最后确定，最终敲定，定案",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈfaɪn(ə)laɪz",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "finalize"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "终于；最后；决定性地",
-      "examples" : [
-
-      ],
-      "frequency" : 471,
-      "phonetic" : "ˈfaɪnəlɪ",
-      "pos" : "adv.",
-      "rootHint" : "fin",
-      "word" : "finally"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "财政，财政学；金融",
-      "examples" : [
-
-      ],
-      "frequency" : 2833,
-      "mnemonic" : "fin (钱) +ance (名词后缀) →财政，金融 (都和“钱”相关)",
-      "phonetic" : "ˈfaɪnæns; faɪˈnæns; fɪ-",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "finance"
-    },
-    {
-      "collocations" : [
+      "definition": "精炼，提纯；使……文雅；改善",
+      "examples": [],
+      "frequency": 6701,
+      "mnemonic": "re (反复) +fine (好) →反复使之更好→使完善，精炼，提纯",
+      "phonetic": "rɪˈfaɪn",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "refine"
+    },
+    {
+      "collocations": [],
+      "definition": "精炼的；微妙的；精确的；有教养的",
+      "examples": [],
+      "frequency": 7848,
+      "phonetic": "rɪˈfaɪnd",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "refined"
+    },
+    {
+      "collocations": [],
+      "definition": "精制；提纯；有教养；文雅",
+      "examples": [],
+      "frequency": 10883,
+      "phonetic": "rɪˈfaɪnm(ə)nt",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "refinement"
+    },
+    {
+      "collocations": [],
+      "definition": "精炼厂；提炼厂；冶炼厂",
+      "etymology": "Word-forming element making nouns meaning “place for, art of, condition of, quantity of,” from Middle English -erie, from Latin -arius (see -ary). 20000 词 汇巅峰 速 记 笔 记 区 Also sometimes in modern colloquial use “the collectivity of” or “an example of.”",
+      "examples": [],
+      "frequency": 9578,
+      "phonetic": "rɪˈfaɪn(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "refinery"
+    },
+    {
+      "collocations": [],
+      "definition": "大炮；火炮；炮术；炮队",
+      "examples": [],
+      "frequency": 6638,
+      "phonetic": "ɑ:ˈtɪlərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "artillery"
+    },
+    {
+      "collocations": [],
+      "definition": "面包店",
+      "examples": [],
+      "frequency": 8232,
+      "phonetic": "ˈbeɪk(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bakery"
+    },
+    {
+      "collocations": [],
+      "definition": "勇敢；勇气",
+      "examples": [],
+      "frequency": 12664,
+      "phonetic": "ˈbreɪv(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bravery"
+    },
+    {
+      "collocations": [],
+      "definition": "啤酒厂",
+      "examples": [],
+      "frequency": 15712,
+      "phonetic": "ˈbrʊərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "brewery"
+    },
+    {
+      "collocations": [],
+      "definition": "贿赂；行贿；受贿",
+      "examples": [],
+      "frequency": 13712,
+      "phonetic": "ˈbraɪbərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "bribery"
+    },
+    {
+      "collocations": [],
+      "definition": "谄媚的，奉承的；涂用黄油的；像黄油样的",
+      "examples": [],
+      "frequency": 18322,
+      "phonetic": "ˈbʌt(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "buttery"
+    },
+    {
+      "collocations": [],
+      "definition": "芹菜",
+      "examples": [],
+      "frequency": 8342,
+      "phonetic": "ˈselərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "celery"
+    },
+    {
+      "collocations": [],
+      "definition": "墓地；公墓",
+      "examples": [],
+      "frequency": 4643,
+      "phonetic": "ˈsemɪtrɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "cemetery"
+    },
+    {
+      "collocations": [],
+      "definition": "愉快的，活泼的",
+      "examples": [],
+      "frequency": 15261,
+      "phonetic": "ˈtʃɪərɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "cheery"
+    },
+    {
+      "collocations": [],
+      "definition": "交付；递送；分娩",
+      "examples": [],
+      "frequency": 2828,
+      "phonetic": "dɪˈlɪv(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "delivery"
+    },
+    {
+      "collocations": [],
+      "definition": "发现，发觉；被发现的事物",
+      "examples": [],
+      "frequency": 2247,
+      "phonetic": "dɪˈskʌv(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "discovery"
+    },
+    {
+      "collocations": [],
+      "definition": "餐馆；饭店",
+      "examples": [],
+      "frequency": 15491,
+      "phonetic": "ˈi:tərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "eatery"
+    },
+    {
+      "collocations": [],
+      "definition": "刺绣；粉饰；刺绣品",
+      "examples": [],
+      "frequency": 14746,
+      "phonetic": "ɪmˈbrɒɪd(ə)rɪ; em-",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "embroidery"
+    },
+    {
+      "collocations": [],
+      "definition": "柔软如羽毛的；生有羽毛的",
+      "examples": [],
+      "frequency": 18524,
+      "phonetic": "ˈfeð(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "feathery"
+    },
+    {
+      "collocations": [],
+      "definition": "燃烧般的；热烈的，炽烈的；暴躁的",
+      "examples": [],
+      "frequency": 7976,
+      "phonetic": "ˈfaɪərɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "fiery"
+    },
+    {
+      "collocations": [],
+      "definition": "渔业；渔场；水产业",
+      "examples": [],
+      "frequency": 5151,
+      "phonetic": "ˈfɪʃ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "fishery"
+    },
+    {
+      "collocations": [],
+      "definition": "谄媚；奉承；恭维话",
+      "examples": [],
+      "frequency": 19801,
+      "phonetic": "ˈflæt(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "flattery"
+    },
+    {
+      "collocations": [],
+      "definition": "多花的；花的；华丽的；绚丽的",
+      "examples": [],
+      "frequency": 19559,
+      "phonetic": "ˈflaʊərɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "flowery"
+    },
+    {
+      "collocations": [],
+      "definition": "伪造；伪造罪；伪造物",
+      "examples": [],
+      "frequency": 17124,
+      "phonetic": "ˈfɔ:dʒ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "forgery"
+    },
+    {
+      "collocations": [],
+      "definition": "走廊；画廊；地道；旁听席",
+      "examples": [],
+      "frequency": 3382,
+      "phonetic": "ˈgæl(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "gallery"
+    },
+    {
+      "collocations": [],
+      "definition": "绿色植物；温室",
+      "examples": [],
+      "frequency": 15317,
+      "phonetic": "ˈgri:n(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "greenery"
+    },
+    {
+      "collocations": [],
+      "definition": "食品杂货店",
+      "examples": [],
+      "frequency": 3328,
+      "phonetic": "ˈgrəʊs(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "grocery"
+    },
+    {
+      "collocations": [],
+      "definition": "孵卵处",
+      "examples": [],
+      "frequency": 16428,
+      "phonetic": "ˈhætʃərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "hatchery"
+    },
+    {
+      "collocations": [],
+      "definition": "比喻；意象；像；形象化",
+      "examples": [],
+      "frequency": 5260,
+      "phonetic": "ˈɪmɪdʒ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "imagery"
+    },
+    {
+      "collocations": [],
+      "definition": "神经过敏的；紧张不安的；战战兢兢的",
+      "examples": [],
+      "frequency": 17601,
+      "phonetic": "ˈdʒɪt(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "jittery"
+    },
+    {
+      "collocations": [],
+      "definition": "粗糙的；粗涩的；似皮革的",
+      "examples": [],
+      "frequency": 20001,
+      "phonetic": "ˈleð(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "leathery"
+    },
+    {
+      "collocations": [],
+      "definition": "机敏的；狡猾的；猜疑的；送秋波的",
+      "examples": [],
+      "frequency": 17435,
+      "phonetic": "ˈlɪərɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "leery"
+    },
+    {
+      "collocations": [],
+      "definition": "彩票；碰运气的事，难算计的事；抽彩给奖法",
+      "examples": [],
+      "frequency": 6111,
+      "phonetic": "ˈlɒt(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "lottery"
+    },
+    {
+      "collocations": [],
+      "definition": "机械；机器；机构；机械装置",
+      "examples": [],
+      "frequency": 5856,
+      "phonetic": "məˈʃi:n(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "machinery"
+    },
+    {
+      "collocations": [],
+      "definition": "精通；优势；统治权；征服；掌握",
+      "examples": [],
+      "frequency": 7733,
+      "phonetic": "ˈmɑ:st(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "mastery"
+    },
+    {
+      "collocations": [],
+      "definition": "痛苦，悲惨；不幸；穷困；苦恼",
+      "examples": [],
+      "frequency": 6175,
+      "phonetic": "ˈmɪzərɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "misery"
+    },
+    {
+      "collocations": [],
+      "definition": "嘲弄；笑柄；徒劳无功；拙劣可笑的模仿或歪曲",
+      "examples": [],
+      "phonetic": "ˈmɒk(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "mockery"
+    },
+    {
+      "collocations": [],
+      "definition": "寺院；隐修院",
+      "examples": [],
+      "frequency": 8231,
+      "phonetic": "ˈmɒnəst(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "monastery"
+    },
+    {
+      "collocations": [],
+      "definition": "神秘，秘密；神秘的事物；奥秘",
+      "examples": [],
+      "frequency": 2352,
+      "phonetic": "ˈmɪst(ə)ri",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "mystery"
+    },
+    {
+      "collocations": [],
+      "definition": "托儿所；苗圃；温床",
+      "examples": [],
+      "frequency": 5711,
+      "phonetic": "ˈnɜ:s(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "nursery"
+    },
+    {
+      "collocations": [],
+      "definition": "陶器；陶器厂；陶器制造术",
+      "examples": [],
+      "frequency": 7233,
+      "phonetic": "ˈpɒt(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "pottery"
+    },
+    {
+      "collocations": [],
+      "definition": "粉的；粉状的；布满粉状物的",
+      "examples": [],
+      "frequency": 19634,
+      "phonetic": "ˈpaʊdəri:",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "powdery"
+    },
+    {
+      "collocations": [],
+      "definition": "恢复，复原；痊愈；重获",
+      "examples": [],
+      "frequency": 2466,
+      "phonetic": "rɪˈkʌv(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "recovery"
+    },
+    {
+      "collocations": [],
+      "definition": "抢劫，盗窃；抢掠",
+      "examples": [],
+      "frequency": 6096,
+      "phonetic": "ˈrɒb(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "robbery"
+    },
+    {
+      "collocations": [],
+      "definition": "橡胶似的；有弹力的；坚韧的",
+      "examples": [],
+      "frequency": 19442,
+      "phonetic": "ˈrʌbərɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "rubbery"
+    },
+    {
+      "collocations": [],
+      "definition": "凶恶行为；残暴行径；兽性",
+      "examples": [],
+      "frequency": 19453,
+      "phonetic": "ˈsævɪdʒ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "savagery"
+    },
+    {
+      "collocations": [],
+      "definition": "风景；景色；[戏]舞台布景",
+      "examples": [],
+      "frequency": 8327,
+      "phonetic": "ˈsi:n(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "scenery"
+    },
+    {
+      "collocations": [],
+      "definition": "清脆的；银色的；银铃一般的；似银的",
+      "examples": [],
+      "frequency": 12225,
+      "phonetic": "ˈsɪlv(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "silvery"
+    },
+    {
+      "collocations": [],
+      "definition": "奴役；奴隶制度；奴隶身分",
+      "examples": [],
+      "frequency": 4630,
+      "phonetic": "ˈsleɪv(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "slavery"
+    },
+    {
+      "collocations": [],
+      "definition": "滑的；狡猾的；不稳定的",
+      "examples": [],
+      "frequency": 7858,
+      "phonetic": "ˈslɪp(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "slippery"
+    },
+    {
+      "collocations": [],
+      "definition": "巫术",
+      "examples": [],
+      "frequency": 18314,
+      "phonetic": "ˈsɔ:s(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "sorcery"
+    },
+    {
+      "collocations": [],
+      "definition": "文具；信纸",
+      "examples": [],
+      "frequency": 15163,
+      "phonetic": "ˈsteɪʃ(ə)n(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "stationery"
+    },
+    {
+      "collocations": [],
+      "definition": "外科；外科手术；手术室；诊疗室",
+      "examples": [],
+      "frequency": 1807,
+      "phonetic": "ˈsɜ:dʒ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "surgery"
+    },
+    {
+      "collocations": [],
+      "definition": "背叛；变节；背叛行为",
+      "examples": [],
+      "frequency": 18068,
+      "phonetic": "ˈtretʃ(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "treachery"
+    },
+    {
+      "collocations": [],
+      "definition": "家具装饰用品业；座套；椅套",
+      "examples": [],
+      "frequency": 14488,
+      "phonetic": "ʌpˈhəʊlst(ə)rɪ; -ˈhɒl-",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "upholstery"
+    },
+    {
+      "collocations": [],
+      "definition": "水的；淡的；湿的；松软的；有雨意的",
+      "examples": [],
+      "frequency": 10836,
+      "phonetic": "ˈwɔ:t(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "watery"
+    },
+    {
+      "collocations": [],
+      "definition": "酿酒厂；葡萄酒酿造厂（复数wineries）",
+      "examples": [],
+      "frequency": 10611,
+      "phonetic": "ˈwaɪn(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "winery"
+    },
+    {
+      "collocations": [],
+      "definition": "完成；结束；用完",
+      "examples": [],
+      "frequency": 918,
+      "phonetic": "ˈfɪnɪʃ",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "finish"
+    },
+    {
+      "collocations": [],
+      "definition": "不再做(……)的，(同……)不再打交道的；(对……)不再",
+      "examples": [],
+      "phonetic": "ˈfɪnɪʃt",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "finished"
+    },
+    {
+      "collocations": [],
+      "definition": "（最后的）润饰者；整理工；最后优胜者；（赛跑等",
+      "examples": [],
+      "phonetic": "ˈfɪnɪʃɚ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "finisher"
+    },
+    {
+      "collocations": [],
+      "definition": "最后的；终点的",
+      "examples": [],
+      "frequency": 10179,
+      "phonetic": "ˈfɪnɪʃɪŋ",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "finishing"
+    },
+    {
+      "collocations": [],
+      "definition": "未完成的",
+      "examples": [],
+      "frequency": 8570,
+      "phonetic": "ʌnˈfɪnɪʃt",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "unfinished"
+    },
+    {
+      "collocations": [],
+      "definition": "最终的；决定性的；不可更改的",
+      "examples": [],
+      "frequency": 890,
+      "phonetic": "ˈfaɪn(ə)l",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "final"
+    },
+    {
+      "collocations": [],
+      "definition": "最后乐章；最后一场；结局；结尾",
+      "examples": [],
+      "frequency": 10001,
+      "phonetic": "fɪˈnɑ:lɪ; -leɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "finale"
+    },
+    {
+      "collocations": [],
+      "definition": "参加决赛的选手",
+      "examples": [],
+      "frequency": 10445,
+      "phonetic": "ˈfaɪn(ə)lɪst",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "finalist"
+    },
+    {
+      "collocations": [],
+      "definition": "定局；终结；终结性；不可改变性",
+      "examples": [],
+      "frequency": 16479,
+      "phonetic": "faɪˈnælɪtɪ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "finality"
+    },
+    {
+      "collocations": [],
+      "definition": "(尤指经与他人讨论)最后确定，最终敲定，定案",
+      "examples": [],
+      "phonetic": "ˈfaɪn(ə)laɪz",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "finalize"
+    },
+    {
+      "collocations": [],
+      "definition": "终于；最后；决定性地",
+      "examples": [],
+      "frequency": 471,
+      "phonetic": "ˈfaɪnəlɪ",
+      "pos": "adv.",
+      "rootHint": "fin",
+      "word": "finally"
+    },
+    {
+      "collocations": [],
+      "definition": "财政，财政学；金融",
+      "examples": [],
+      "frequency": 2833,
+      "mnemonic": "fin (钱) +ance (名词后缀) →财政，金融 (都和“钱”相关)",
+      "phonetic": "ˈfaɪnæns; faɪˈnæns; fɪ-",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "finance"
+    },
+    {
+      "collocations": [
         "offer financial incentives (考)：提供经济刺激",
         "financial aid (考)：经济援助"
       ],
-      "definition" : "财政的，财务的；金融的",
-      "examples" : [
-
-      ],
-      "frequency" : 830,
-      "phonetic" : "faɪˈnænʃ(ə)l; fɪ-",
-      "pos" : "adj.",
-      "rootHint" : "fin",
-      "word" : "financial"
+      "definition": "财政的，财务的；金融的",
+      "examples": [],
+      "frequency": 830,
+      "phonetic": "faɪˈnænʃ(ə)l; fɪ-",
+      "pos": "adj.",
+      "rootHint": "fin",
+      "word": "financial"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "金融上；财政上",
-      "examples" : [
-
-      ],
-      "frequency" : 5546,
-      "phonetic" : "faɪˈnænʃəli",
-      "pos" : "adv.",
-      "rootHint" : "fin",
-      "word" : "financially"
+      "collocations": [],
+      "definition": "金融上；财政上",
+      "examples": [],
+      "frequency": 5546,
+      "phonetic": "faɪˈnænʃəli",
+      "pos": "adv.",
+      "rootHint": "fin",
+      "word": "financially"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "出资人；出资方；金融(资本)家",
-      "examples" : [
-
-      ],
-      "frequency" : 13551,
-      "phonetic" : "faɪˈnænsɪə; fɪ-",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "financier"
+      "collocations": [],
+      "definition": "出资人；出资方；金融(资本)家",
+      "examples": [],
+      "frequency": 13551,
+      "phonetic": "faɪˈnænsɪə; fɪ-",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "financier"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "筹措资金；融资；财务",
-      "examples" : [
-
-      ],
-      "frequency" : 5682,
-      "phonetic" : "fɪˈnænsɪŋ",
-      "pos" : "n.",
-      "rootHint" : "fin",
-      "word" : "financing"
+      "collocations": [],
+      "definition": "筹措资金；融资；财务",
+      "examples": [],
+      "frequency": 5682,
+      "phonetic": "fɪˈnænsɪŋ",
+      "pos": "n.",
+      "rootHint": "fin",
+      "word": "financing"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "再供……资金；再为……筹钱",
-      "examples" : [
-
-      ],
-      "frequency" : 13003,
-      "phonetic" : "ri:ˈfaɪnæns",
-      "pos" : "vt.",
-      "rootHint" : "fin",
-      "word" : "refinance"
+      "collocations": [],
+      "definition": "再供……资金；再为……筹钱",
+      "examples": [],
+      "frequency": 13003,
+      "phonetic": "ri:ˈfaɪnæns",
+      "pos": "vt.",
+      "rootHint": "fin",
+      "word": "refinance"
     }
   ]
 }

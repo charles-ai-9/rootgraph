@@ -33,7 +33,7 @@
     "semanticLabel": "come，go 来，走来",
     "source": "textbook-1",
     "titleZh": "come，go 来，走来",
-    "wordCount": 72,
+    "wordCount": 71,
     "textbook": "textbook-1"
   },
   {
@@ -91,7 +91,7 @@
     "semanticLabel": "separate",
     "source": "textbook-1",
     "titleZh": "separate",
-    "wordCount": 166,
+    "wordCount": 139,
     "textbook": "textbook-1"
   },
   {
@@ -124,7 +124,7 @@
     "semanticLabel": "限制，约束，范围",
     "source": "textbook-1",
     "titleZh": "限制，约束，范围",
-    "wordCount": 122,
+    "wordCount": 121,
     "textbook": "textbook-1"
   },
   {
@@ -200,6 +200,22 @@
     "source": "textbook-1",
     "titleZh": "ply/ploy/ploit",
     "wordCount": 92,
+    "textbook": "textbook-1"
+  },
+  {
+    "id": "ics",
+    "file": "ics.json",
+    "chapter": "附录",
+    "chapterOrder": 99,
+    "titleZh": "-ics 学科词",
+    "semanticLabel": "学科、学问（-ics 后缀）",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "ics"
+    ],
+    "wordCount": 26,
+    "source": "textbook-1",
     "textbook": "textbook-1"
   },
   {
@@ -1017,7 +1033,7 @@
     "semanticLabel": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
     "source": "textbook-5",
     "titleZh": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
-    "wordCount": 56,
+    "wordCount": 55,
     "textbook": "textbook-5"
   },
   {

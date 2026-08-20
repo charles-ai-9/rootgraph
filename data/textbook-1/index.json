@@ -32,7 +32,7 @@
     "semanticLabel": "come，go 来，走来",
     "source": "textbook-1",
     "titleZh": "come，go 来，走来",
-    "wordCount": 72
+    "wordCount": 71
   },
   {
     "chapter": "三",
@@ -87,7 +87,7 @@
     "semanticLabel": "separate",
     "source": "textbook-1",
     "titleZh": "separate",
-    "wordCount": 166
+    "wordCount": 139
   },
   {
     "chapter": "六",
@@ -118,7 +118,7 @@
     "semanticLabel": "限制，约束，范围",
     "source": "textbook-1",
     "titleZh": "限制，约束，范围",
-    "wordCount": 122
+    "wordCount": 121
   },
   {
     "chapter": "八",
@@ -190,5 +190,20 @@
     "source": "textbook-1",
     "titleZh": "ply/ploy/ploit",
     "wordCount": 92
+  },
+  {
+    "id": "ics",
+    "file": "ics.json",
+    "chapter": "附录",
+    "chapterOrder": 99,
+    "titleZh": "-ics 学科词",
+    "semanticLabel": "学科、学问（-ics 后缀）",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "ics"
+    ],
+    "wordCount": 26,
+    "source": "textbook-1"
   }
 ]
