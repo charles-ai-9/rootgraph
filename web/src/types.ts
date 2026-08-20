@@ -39,6 +39,8 @@ export interface CatalogEntry {
   wordCount: number;
   source: string;
   textbook: string;
+  /** 数据重导导致 id 变化时的旧 id（供前端迁移 localStorage 笔记 key） */
+  legacyId?: string;
 }
 
 export interface ProgressState {

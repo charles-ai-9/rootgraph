@@ -19,12 +19,15 @@ export function WordSearchResults({
 }: WordSearchResultsProps) {
   const [index, setIndex] = useState<IndexedWord[]>([]);
   const [ready, setReady] = useState(false);
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    loadWordIndex().then((rows) => {
-      setIndex(rows);
-      setReady(true);
-    });
+    loadWordIndex()
+      .then((rows) => {
+        setIndex(rows);
+        setReady(true);
+      })
+      .catch(() => setError(true));
   }, []);
 
   const hits = useMemo(
@@ -40,7 +43,15 @@ export function WordSearchResults({
     return map;
   }, [catalog]);
 
-  if (!query.trim() || !ready || hits.length === 0) return null;
+  if (!query.trim()) return null;
+  if (error) {
+    return (
+      <section className="word-search-section">
+        <p className="affix-chalk-muted">单词索引加载失败，搜索不可用</p>
+      </section>
+    );
+  }
+  if (!ready || hits.length === 0) return null;
 
   return (
     <section className="word-search-section">

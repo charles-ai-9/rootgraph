@@ -14,6 +14,8 @@ interface HomePageProps {
 
 export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
+  const [catalogError, setCatalogError] = useState(false);
+  const [retryTick, setRetryTick] = useState(0);
   const [filter, setFilter] = useState('');
   const [textbook, setTextbook] = useState('all');
   const [chapterKey, setChapterKey] = useState('all');
@@ -21,11 +23,15 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePag
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
 
   useEffect(() => {
+    setCatalogError(false);
     fetch('/data/catalog.json')
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
       .then(setCatalog)
-      .catch(console.error);
-  }, []);
+      .catch(() => setCatalogError(true));
+  }, [retryTick]);
 
   const textbooks = useMemo(
     () => [...new Set(catalog.map((c) => c.textbook))].sort(),
@@ -132,6 +138,12 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePag
       </header>
 
       <div className="library-toolbar">
+        {catalogError && (
+          <div className="load-error-hint">
+            <span>数据加载失败（/data/catalog.json 不可用）</span>
+            <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
+          </div>
+        )}
         <input
           className="search-input"
           placeholder="搜索词根、语义、教材、单词…"
@@ -199,7 +211,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePag
         ),
       )}
 
-      {filtered.length === 0 && !hasFilter && (
+      {filtered.length === 0 && !hasFilter && !catalogError && (
         <p className="empty-hint">没有匹配的词根族，试试换个筛选条件</p>
       )}
 

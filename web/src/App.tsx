@@ -6,6 +6,7 @@ import { HomePage } from './components/HomePage';
 import { FamilyNotePage } from './components/FamilyNotePage';
 import { AffixLibraryPage } from './components/AffixLibraryPage';
 import {
+  loadCatalog,
   parseRouteHash,
   resolveRoute,
   routeHashFromView,
@@ -67,8 +68,23 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordAffixNotes, setWordAffixNote } = useNotes();
+  const { getFamilyNote, setFamilyNote, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
+
+  // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
+  useEffect(() => {
+    loadCatalog()
+      .then((catalog) => {
+        const renames: Record<string, string> = {};
+        for (const e of catalog) {
+          if (e.legacyId && e.legacyId !== e.id) {
+            renames[`${e.textbook}/${e.legacyId}`] = `${e.textbook}/${e.id}`;
+          }
+        }
+        if (Object.keys(renames).length > 0) migrateKeys(renames);
+      })
+      .catch(console.error);
+  }, [migrateKeys]);
 
   if (booting) {
     return (

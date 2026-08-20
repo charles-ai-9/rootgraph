@@ -4,6 +4,7 @@ import { AFFIX_SEED_VERSION, loadSeedItems } from '../data/affixSeed';
 import { findItemByForm, itemFromNote } from '../utils/affixLibrary';
 import { affixFormForSearch } from '../utils/affixNote';
 import { normalizeAffixForm } from '../utils/affixFormDisplay';
+import { safeSetItem } from '../utils/storage';
 
 const STORAGE_KEY = 'rootgraph-affix-library-v5';
 const VERSION_KEY = 'rootgraph-affix-library-seed-version';
@@ -191,13 +192,13 @@ function load(): AffixItem[] {
       ...applyStoredOverridesById(seed, stored),
       ...stored.filter((s) => !seedIds.has(s.id) && !/\?/.test(s.name)),
     ];
-    localStorage.setItem(VERSION_KEY, AFFIX_SEED_VERSION);
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
+    safeSetItem(VERSION_KEY, AFFIX_SEED_VERSION);
+    safeSetItem(STORAGE_KEY, JSON.stringify(merged));
     return merged;
   }
 
   const merged = applyStoredOverridesById(seed, stored);
-  localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
+  safeSetItem(STORAGE_KEY, JSON.stringify(merged));
   return merged;
 }
 
@@ -205,7 +206,7 @@ export function useAffixLibrary() {
   const [items, setItems] = useState<AffixItem[]>(load);
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(items));
+    safeSetItem(STORAGE_KEY, JSON.stringify(items));
   }, [items]);
 
   const getItem = useCallback((id: string) => items.find((i) => i.id === id), [items]);

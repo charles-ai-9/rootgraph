@@ -89,9 +89,11 @@ rootgraph/
 ├── scripts/
 │   ├── parse-docx.py       ← docx → JSON（教材 3、4）
 │   ├── parse-pdf.swift     ← PDF 文字层 → JSON（教材 1、2、5–8）
-│   ├── parse-all.sh        ← 批量 8 本 + dedupe + 重建 catalog + rsync 到 public + 构建 rootgraph.db
+│   ├── parse-all.sh        ← 批量 8 本 + dedupe + catalog(legacyId) + validate + rsync + rootgraph.db
 │   ├── build-sqlite.py     ← data/ JSON → data/rootgraph.db（SQLite 分析库，前端不依赖）
-│   ├── dedupe-words.py     ← 同族内词条去重（同 word 保留信息量最大条目）
+│   ├── dedupe-words.py     ← 同族内词条去重（同 word 保留信息量最大条目）+ 同步 index wordCount
+│   ├── validate-data.py    ← catalog/index/家族文件一致性校验（重导后自动运行，失败中止）
+│   ├── backup-data.sh      ← data 打包备份（backups/，保留 10 份）
 │   ├── import-affix-library.py ← docx → 词缀库 seed
 │   └── import-affix-xlsx.py    ← 旧版 xlsx 导入
 │
@@ -180,13 +182,16 @@ swift /Users/charles/Projects/rootgraph/scripts/parse-pdf.swift \
 /Users/charles/Projects/rootgraph/scripts/parse-all.sh
 ```
 
-会做五件事：
+会做六件事：
 
-1. 循环教材 1–8：**有 docx 用 docx**，否则用 PDF（不存在则跳过）；解析结果为 0 族时**中止**（保护旧数据）
-2. `dedupe-words.py` 去重同族重复词条
-3. Python 内联脚本合并各 `textbook-N/index.json` → `data/catalog.json`（wordCount 以家族文件实际词数为准）
-4. `rsync -a --delete data/ → web/public/data/`（`--exclude '*.db'`）
-5. `scripts/build-sqlite.py` → `data/rootgraph.db`（SQLite 分析库：families/words/affixes + FTS5）
+1. 循环教材 1–8：**有 docx 用 docx**，否则用 PDF（`~/Downloads` 优先、`~/Desktop/2w/` 兜底）；解析结果为 0 族时**中止**（解析器内部 guard + 脚本双重保护）
+2. `dedupe-words.py` 去重同族重复词条 + 同步 index wordCount
+3. Python 内联脚本合并各 `textbook-N/index.json` → `data/catalog.json`（wordCount 以家族文件实际词数为准；id 分配变化时记录 `legacyId` 供前端笔记迁移）
+4. `validate-data.py` 一致性校验（index↔文件↔catalog、无重复键/词条、orphan 警告），失败中止
+5. `rsync -a --delete data/ → web/public/data/`（`--exclude '*.db'` + 显式 `rm -f rootgraph.db`）
+6. `scripts/build-sqlite.py` → `data/rootgraph.db`（SQLite 分析库：families/words/affixes + FTS5）
+
+> **解析安全**：PDF/docx 解析器均为「先写新文件、全部成功后再清理旧文件」，中途失败旧数据保留；单本直接跑 swift/python 也会在 0 族时报错退出。
 
 > **rootgraph.db 是分析用途**（`sqlite3 data/rootgraph.db "SELECT ..."`），前端仍 fetch 静态 JSON，不依赖 db。构建时报告 catalog 重复家族键与同族重复词条。
 
@@ -532,7 +537,8 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 | 词缀库 `o??-` 噪声条目误推断（如 optics → o-） | 删除 seed 条目（docx-v14）；`inferAffixFromLibrary` 跳过单字母 form（o-/e-/s-/a- 首字母匹配误报，optics 不再推断 o-、outline 不被 o- 截胡）；词缀库/助记匹配的实义词缀恢复自动绑定+释义（如 diagnosis → dia-）；纯拼写推断只填形（`inferred` 标记）；`AffixModal` 统一「解除引用 / 无此词缀」入口：清空 + `suppressed` 防回填 + 撤销 |
 | catalog 9 个重复家族键（slug 撞车） | `parse-pdf.swift` 无 id 冲突处理，后章覆盖前章文件 → 丢 176 词（textbook-5: plus/pos/cap，textbook-6: mis/solv/reg/rog/dec）。已加 `usedIds` 后缀（-2/-3）+ 写前清理旧 JSON，全量重导找回全部词 |
 | 同族重复词条 55 个 | 新增 `scripts/dedupe-words.py`（同 word 保留信息量最大条目），`parse-all.sh` 解析后自动执行 |
-| **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `web/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空） |
+| **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `web/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空）；解析器改为「先写后删」 |
+| 健壮性加固（2026-09） | `validate-data.py` 一致性校验、`backup-data.sh` 数据备份、ErrorBoundary + fetch 错误态/重试、localStorage 写入 try/catch（safeSetItem）、`legacyId` 笔记迁移机制；catalog 已提交 git 基线（450536a） |
 
 ### 11.2 未解决 / 数据层
 

@@ -12,7 +12,7 @@ export type ParsedRoute =
 
 let catalogCache: CatalogEntry[] | null = null;
 
-async function loadCatalog(): Promise<CatalogEntry[]> {
+export async function loadCatalog(): Promise<CatalogEntry[]> {
   if (catalogCache) return catalogCache;
   const res = await fetch('/data/catalog.json');
   if (!res.ok) throw new Error('catalog load failed');

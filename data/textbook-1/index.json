@@ -1,81 +1,81 @@
 [
   {
-    "chapter" : "一",
-    "chapterOrder" : 1,
-    "file" : "ceed.json",
-    "id" : "ceed",
-    "meaningEn" : "go",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "一",
+    "chapterOrder": 1,
+    "file": "ceed.json",
+    "id": "ceed",
+    "meaningEn": "go",
+    "meaningZh": "",
+    "roots": [
       "ceed",
       "cede",
       "gress",
       "gred"
     ],
-    "semanticLabel" : "go",
-    "source" : "textbook-1",
-    "titleZh" : "go",
-    "wordCount" : 86
+    "semanticLabel": "go",
+    "source": "textbook-1",
+    "titleZh": "go",
+    "wordCount": 86
   },
   {
-    "chapter" : "二",
-    "chapterOrder" : 2,
-    "file" : "van.json",
-    "id" : "van",
-    "meaningEn" : "come，go 来，走来",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "二",
+    "chapterOrder": 2,
+    "file": "van.json",
+    "id": "van",
+    "meaningEn": "come，go 来，走来",
+    "meaningZh": "",
+    "roots": [
       "van",
       "ven",
       "vent"
     ],
-    "semanticLabel" : "come，go 来，走来",
-    "source" : "textbook-1",
-    "titleZh" : "come，go 来，走来",
-    "wordCount" : 72
+    "semanticLabel": "come，go 来，走来",
+    "source": "textbook-1",
+    "titleZh": "come，go 来，走来",
+    "wordCount": 72
   },
   {
-    "chapter" : "三",
-    "chapterOrder" : 3,
-    "file" : "fer.json",
-    "id" : "fer",
-    "meaningEn" : "carry=bear 携带，带给，生",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "三",
+    "chapterOrder": 3,
+    "file": "fer.json",
+    "id": "fer",
+    "meaningEn": "carry=bear 携带，带给，生",
+    "meaningZh": "",
+    "roots": [
       "fer"
     ],
-    "semanticLabel" : "carry=bear 携带，带给，生",
-    "source" : "textbook-1",
-    "titleZh" : "carry=bear 携带，带给，生",
-    "wordCount" : 67
+    "semanticLabel": "carry=bear 携带，带给，生",
+    "source": "textbook-1",
+    "titleZh": "carry=bear 携带，带给，生",
+    "wordCount": 67
   },
   {
-    "chapter" : "四",
-    "chapterOrder" : 4,
-    "file" : "ver.json",
-    "id" : "ver",
-    "meaningEn" : "to turn 转",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "四",
+    "chapterOrder": 4,
+    "file": "ver.json",
+    "id": "ver",
+    "meaningEn": "to turn 转",
+    "meaningZh": "",
+    "roots": [
       "ver",
       "vers",
       "vert",
       "vol",
       "var"
     ],
-    "semanticLabel" : "to turn 转",
-    "source" : "textbook-1",
-    "titleZh" : "to turn 转",
-    "wordCount" : 146
+    "semanticLabel": "to turn 转",
+    "source": "textbook-1",
+    "titleZh": "to turn 转",
+    "wordCount": 146
   },
   {
-    "chapter" : "五",
-    "chapterOrder" : 5,
-    "file" : "cern.json",
-    "id" : "cern",
-    "meaningEn" : "",
-    "meaningZh" : "separate",
-    "roots" : [
+    "chapter": "五",
+    "chapterOrder": 5,
+    "file": "cern.json",
+    "id": "cern",
+    "meaningEn": "",
+    "meaningZh": "separate",
+    "roots": [
       "cern",
       "crim",
       "cert",
@@ -84,99 +84,99 @@
       "cree",
       "cret"
     ],
-    "semanticLabel" : "separate",
-    "source" : "textbook-1",
-    "titleZh" : "separate",
-    "wordCount" : 169
+    "semanticLabel": "separate",
+    "source": "textbook-1",
+    "titleZh": "separate",
+    "wordCount": 166
   },
   {
-    "chapter" : "六",
-    "chapterOrder" : 6,
-    "file" : "pens.json",
-    "id" : "pens",
-    "meaningEn" : "pay",
-    "meaningZh" : "付钱；hang：悬挂",
-    "roots" : [
+    "chapter": "六",
+    "chapterOrder": 6,
+    "file": "pens.json",
+    "id": "pens",
+    "meaningEn": "pay",
+    "meaningZh": "付钱；hang：悬挂",
+    "roots": [
       "pens"
     ],
-    "semanticLabel" : "付钱；hang：悬挂",
-    "source" : "textbook-1",
-    "titleZh" : "付钱；hang：悬挂",
-    "wordCount" : 62
+    "semanticLabel": "付钱；hang：悬挂",
+    "source": "textbook-1",
+    "titleZh": "付钱；hang：悬挂",
+    "wordCount": 62
   },
   {
-    "chapter" : "七",
-    "chapterOrder" : 7,
-    "file" : "fin.json",
-    "id" : "fin",
-    "meaningEn" : "",
-    "meaningZh" : "限制，约束，范围",
-    "roots" : [
+    "chapter": "七",
+    "chapterOrder": 7,
+    "file": "fin.json",
+    "id": "fin",
+    "meaningEn": "",
+    "meaningZh": "限制，约束，范围",
+    "roots": [
       "fin",
       "bin"
     ],
-    "semanticLabel" : "限制，约束，范围",
-    "source" : "textbook-1",
-    "titleZh" : "限制，约束，范围",
-    "wordCount" : 122
+    "semanticLabel": "限制，约束，范围",
+    "source": "textbook-1",
+    "titleZh": "限制，约束，范围",
+    "wordCount": 122
   },
   {
-    "chapter" : "八",
-    "chapterOrder" : 8,
-    "file" : "pos.json",
-    "id" : "pos",
-    "meaningEn" : "put",
-    "meaningZh" : "放",
-    "roots" : [
+    "chapter": "八",
+    "chapterOrder": 8,
+    "file": "pos.json",
+    "id": "pos",
+    "meaningEn": "put",
+    "meaningZh": "放",
+    "roots": [
       "pos",
       "pon",
       "pound"
     ],
-    "semanticLabel" : "put",
-    "source" : "textbook-1",
-    "titleZh" : "put",
-    "wordCount" : 91
+    "semanticLabel": "put",
+    "source": "textbook-1",
+    "titleZh": "put",
+    "wordCount": 91
   },
   {
-    "chapter" : "九",
-    "chapterOrder" : 9,
-    "file" : "val.json",
-    "id" : "val",
-    "meaningEn" : "worth 价值；strong",
-    "meaningZh" : "强壮",
-    "roots" : [
+    "chapter": "九",
+    "chapterOrder": 9,
+    "file": "val.json",
+    "id": "val",
+    "meaningEn": "worth 价值；strong",
+    "meaningZh": "强壮",
+    "roots": [
       "val",
       "vail"
     ],
-    "semanticLabel" : "强壮",
-    "source" : "textbook-1",
-    "titleZh" : "强壮",
-    "wordCount" : 51
+    "semanticLabel": "强壮",
+    "source": "textbook-1",
+    "titleZh": "强壮",
+    "wordCount": 51
   },
   {
-    "chapter" : "十",
-    "chapterOrder" : 10,
-    "file" : "forc.json",
-    "id" : "forc",
-    "meaningEn" : "force, strength",
-    "meaningZh" : "力量，实力",
-    "roots" : [
+    "chapter": "十",
+    "chapterOrder": 10,
+    "file": "forc.json",
+    "id": "forc",
+    "meaningEn": "force, strength",
+    "meaningZh": "力量，实力",
+    "roots": [
       "forc",
       "fort"
     ],
-    "semanticLabel" : "力量，实力",
-    "source" : "textbook-1",
-    "titleZh" : "力量，实力",
-    "wordCount" : 51
+    "semanticLabel": "力量，实力",
+    "source": "textbook-1",
+    "titleZh": "力量，实力",
+    "wordCount": 50
   },
   {
-    "chapter" : "十一",
-    "chapterOrder" : 11,
-    "file" : "ply.json",
-    "id" : "ply",
-    "meaningEn" : "",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "十一",
+    "chapterOrder": 11,
+    "file": "ply.json",
+    "id": "ply",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
       "ply",
       "ploy",
       "ploit",
@@ -186,9 +186,9 @@
       "flex",
       "play"
     ],
-    "semanticLabel" : "ply\/ploy\/ploit",
-    "source" : "textbook-1",
-    "titleZh" : "ply\/ploy\/ploit",
-    "wordCount" : 92
+    "semanticLabel": "ply/ploy/ploit",
+    "source": "textbook-1",
+    "titleZh": "ply/ploy/ploit",
+    "wordCount": 92
   }
 ]

@@ -69,7 +69,7 @@ export function AffixModal({
   onSaveGroup,
   onOpenLibrary,
 }: AffixModalProps) {
-  const { index, ready } = useWordIndex();
+  const { index, ready, error: wordIndexError } = useWordIndex();
   const [scope, setScope] = useState<AffixScope>('textbook');
   const [lookup, setLookup] = useState<string | null>(null);
   const [showPicker, setShowPicker] = useState(false);
@@ -437,7 +437,7 @@ export function AffixModal({
                   ))}
                 </div>
               </div>
-              {!ready ? <p className="affix-chalk-muted">加载中…</p> : related.length === 0 ? (
+              {wordIndexError ? <p className="affix-chalk-muted">单词索引加载失败</p> : !ready ? <p className="affix-chalk-muted">加载中…</p> : related.length === 0 ? (
                 <p className="affix-chalk-muted">暂无</p>
               ) : (
                 <>

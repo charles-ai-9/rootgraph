@@ -1,81 +1,81 @@
 [
   {
-    "chapter" : "1",
-    "chapterOrder" : 101,
-    "file" : "mot.json",
-    "id" : "mot",
-    "meaningEn" : "move",
-    "meaningZh" : "动；移动；变换位置",
-    "roots" : [
+    "chapter": "1",
+    "chapterOrder": 101,
+    "file": "mot.json",
+    "id": "mot",
+    "meaningEn": "move",
+    "meaningZh": "动；移动；变换位置",
+    "roots": [
       "mot",
       "mat",
       "mob",
       "mig"
     ],
-    "semanticLabel" : "动；移动；变换位置",
-    "source" : "textbook-2",
-    "titleZh" : "动；移动；变换位置",
-    "wordCount" : 156
+    "semanticLabel": "动；移动；变换位置",
+    "source": "textbook-2",
+    "titleZh": "动；移动；变换位置",
+    "wordCount": 155
   },
   {
-    "chapter" : "2",
-    "chapterOrder" : 102,
-    "file" : "alt.json",
-    "id" : "alt",
-    "meaningEn" : "",
-    "meaningZh" : "高，长高",
-    "roots" : [
+    "chapter": "2",
+    "chapterOrder": 102,
+    "file": "alt.json",
+    "id": "alt",
+    "meaningEn": "",
+    "meaningZh": "高，长高",
+    "roots": [
       "alt"
     ],
-    "semanticLabel" : "高，长高",
-    "source" : "textbook-2",
-    "titleZh" : "高，长高",
-    "wordCount" : 140
+    "semanticLabel": "高，长高",
+    "source": "textbook-2",
+    "titleZh": "高，长高",
+    "wordCount": 140
   },
   {
-    "chapter" : "3",
-    "chapterOrder" : 103,
-    "file" : "tact.json",
-    "id" : "tact",
-    "meaningEn" : "touch",
-    "meaningZh" : "接触；触摸",
-    "roots" : [
+    "chapter": "3",
+    "chapterOrder": 103,
+    "file": "tact.json",
+    "id": "tact",
+    "meaningEn": "touch",
+    "meaningZh": "接触；触摸",
+    "roots": [
       "tact",
       "tag",
       "teg",
       "tang"
     ],
-    "semanticLabel" : "接触；触摸",
-    "source" : "textbook-2",
-    "titleZh" : "接触；触摸",
-    "wordCount" : 23
+    "semanticLabel": "接触；触摸",
+    "source": "textbook-2",
+    "titleZh": "接触；触摸",
+    "wordCount": 23
   },
   {
-    "chapter" : "4",
-    "chapterOrder" : 104,
-    "file" : "void.json",
-    "id" : "void",
-    "meaningEn" : "",
-    "meaningZh" : "空",
-    "roots" : [
+    "chapter": "4",
+    "chapterOrder": 104,
+    "file": "void.json",
+    "id": "void",
+    "meaningEn": "",
+    "meaningZh": "空",
+    "roots": [
       "void",
       "vac",
       "vacu",
       "van"
     ],
-    "semanticLabel" : "void\/vac\/vacu",
-    "source" : "textbook-2",
-    "titleZh" : "void\/vac\/vacu",
-    "wordCount" : 21
+    "semanticLabel": "void/vac/vacu",
+    "source": "textbook-2",
+    "titleZh": "void/vac/vacu",
+    "wordCount": 21
   },
   {
-    "chapter" : "5",
-    "chapterOrder" : 105,
-    "file" : "fac.json",
-    "id" : "fac",
-    "meaningEn" : "",
-    "meaningZh" : "做、",
-    "roots" : [
+    "chapter": "5",
+    "chapterOrder": 105,
+    "file": "fac.json",
+    "id": "fac",
+    "meaningEn": "",
+    "meaningZh": "做、",
+    "roots": [
       "fac",
       "fact",
       "feas",
@@ -86,88 +86,88 @@
       "fici",
       "fict"
     ],
-    "semanticLabel" : "做、",
-    "source" : "textbook-2",
-    "titleZh" : "做、",
-    "wordCount" : 122
+    "semanticLabel": "做、",
+    "source": "textbook-2",
+    "titleZh": "做、",
+    "wordCount": 122
   },
   {
-    "chapter" : "6",
-    "chapterOrder" : 106,
-    "file" : "man.json",
-    "id" : "man",
-    "meaningEn" : "hand",
-    "meaningZh" : "手",
-    "roots" : [
+    "chapter": "6",
+    "chapterOrder": 106,
+    "file": "man.json",
+    "id": "man",
+    "meaningEn": "hand",
+    "meaningZh": "手",
+    "roots": [
       "man",
       "mani",
       "men"
     ],
-    "semanticLabel" : "hand",
-    "source" : "textbook-2",
-    "titleZh" : "hand",
-    "wordCount" : 43
+    "semanticLabel": "hand",
+    "source": "textbook-2",
+    "titleZh": "hand",
+    "wordCount": 41
   },
   {
-    "chapter" : "7",
-    "chapterOrder" : 107,
-    "file" : "scribe.json",
-    "id" : "scribe",
-    "meaningEn" : "",
-    "meaningZh" : "写",
-    "roots" : [
+    "chapter": "7",
+    "chapterOrder": 107,
+    "file": "scribe.json",
+    "id": "scribe",
+    "meaningEn": "",
+    "meaningZh": "写",
+    "roots": [
       "scribe",
       "script"
     ],
-    "semanticLabel" : "scribe\/script",
-    "source" : "textbook-2",
-    "titleZh" : "scribe\/script",
-    "wordCount" : 26
+    "semanticLabel": "scribe/script",
+    "source": "textbook-2",
+    "titleZh": "scribe/script",
+    "wordCount": 26
   },
   {
-    "chapter" : "8",
-    "chapterOrder" : 108,
-    "file" : "act.json",
-    "id" : "act",
-    "meaningEn" : "",
-    "meaningZh" : "做",
-    "roots" : [
+    "chapter": "8",
+    "chapterOrder": 108,
+    "file": "act.json",
+    "id": "act",
+    "meaningEn": "",
+    "meaningZh": "做",
+    "roots": [
       "act"
     ],
-    "semanticLabel" : "act",
-    "source" : "textbook-2",
-    "titleZh" : "act",
-    "wordCount" : 45
+    "semanticLabel": "act",
+    "source": "textbook-2",
+    "titleZh": "act",
+    "wordCount": 45
   },
   {
-    "chapter" : "9",
-    "chapterOrder" : 109,
-    "file" : "itude.json",
-    "id" : "itude",
-    "meaningEn" : "",
-    "meaningZh" : "度，状态",
-    "roots" : [
+    "chapter": "9",
+    "chapterOrder": 109,
+    "file": "itude.json",
+    "id": "itude",
+    "meaningEn": "",
+    "meaningZh": "度，状态",
+    "roots": [
       "itude"
     ],
-    "semanticLabel" : "度，状态",
-    "source" : "textbook-2",
-    "titleZh" : "度，状态",
-    "wordCount" : 24
+    "semanticLabel": "度，状态",
+    "source": "textbook-2",
+    "titleZh": "度，状态",
+    "wordCount": 24
   },
   {
-    "chapter" : "10",
-    "chapterOrder" : 110,
-    "file" : "gene.json",
-    "id" : "gene",
-    "meaningEn" : "",
-    "meaningZh" : "基因的，遗传的；出生，生育，产生",
-    "roots" : [
+    "chapter": "10",
+    "chapterOrder": 110,
+    "file": "gene.json",
+    "id": "gene",
+    "meaningEn": "",
+    "meaningZh": "基因的，遗传的；出生，生育，产生",
+    "roots": [
       "*gene",
       "*gen"
     ],
-    "semanticLabel" : "基因的，遗传的；出生，生育，产生",
-    "source" : "textbook-2",
-    "titleZh" : "基因的，遗传的；出生，生育，产生",
-    "wordCount" : 315
+    "semanticLabel": "基因的，遗传的；出生，生育，产生",
+    "source": "textbook-2",
+    "titleZh": "基因的，遗传的；出生，生育，产生",
+    "wordCount": 315
   }
 ]

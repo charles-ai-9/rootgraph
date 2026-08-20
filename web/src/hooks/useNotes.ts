@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
+import { safeSetItem } from '../utils/storage';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -110,7 +111,7 @@ export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
+    safeSetItem(STORAGE_KEY, JSON.stringify(store));
   }, [store]);
 
   const getFamilyNote = useCallback((key: string) => store.families[key] ?? '', [store]);
@@ -188,6 +189,33 @@ export function useNotes() {
     }));
   }, []);
 
+  /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2） */
+  const migrateKeys = useCallback((renames: Record<string, string>) => {
+    setStore((prev) => {
+      const next: NotesStore = {
+        families: { ...prev.families },
+        words: { ...prev.words },
+        affixNotes: { ...prev.affixNotes },
+        wordFields: { ...prev.wordFields },
+      };
+      let changed = false;
+      for (const [oldKey, newKey] of Object.entries(renames)) {
+        if (oldKey === newKey) continue;
+        for (const section of ['families', 'words', 'affixNotes', 'wordFields'] as const) {
+          const map = next[section];
+          for (const k of Object.keys(map)) {
+            if (k === oldKey || k.startsWith(`${oldKey}/`)) {
+              map[`${newKey}${k.slice(oldKey.length)}`] = map[k];
+              delete map[k];
+              changed = true;
+            }
+          }
+        }
+      }
+      return changed ? next : prev;
+    });
+  }, []);
+
   return {
     getFamilyNote,
     setFamilyNote,
@@ -199,5 +227,6 @@ export function useNotes() {
     setWordMnemonic,
     getWordCollocations,
     setWordCollocations,
+    migrateKeys,
   };
 }

@@ -39,6 +39,15 @@ python3 "$ROOT/scripts/dedupe-words.py"
 python3 << 'PY'
 import json, glob, os
 root = os.environ.get('ROOT', '.')
+# 旧 catalog 映射：(textbook, chapter, roots) → id；重导后 id 分配变化时记录 legacyId 供前端笔记迁移
+old_map = {}
+try:
+    with open(os.path.join(root, 'data/catalog.json'), encoding='utf-8') as f:
+        for e in json.load(f):
+            old_map[(e.get('textbook'), e.get('chapter'),
+                     json.dumps(e.get('roots', []), ensure_ascii=False, sort_keys=True))] = e.get('id')
+except (OSError, ValueError):
+    pass
 families = []
 for idx_path in sorted(glob.glob(os.path.join(root, 'data/textbook-*/index.json'))):
     with open(idx_path) as f:
@@ -51,6 +60,11 @@ for idx_path in sorted(glob.glob(os.path.join(root, 'data/textbook-*/index.json'
                     item['wordCount'] = len(json.load(f2).get('words', []))
             except (OSError, ValueError):
                 item['wordCount'] = 0
+            key = (item['textbook'], item.get('chapter'),
+                   json.dumps(item.get('roots', []), ensure_ascii=False, sort_keys=True))
+            old_id = old_map.get(key)
+            if old_id and old_id != item['id']:
+                item['legacyId'] = old_id
             families.append(item)
 out = os.path.join(root, 'data/catalog.json')
 with open(out, 'w', encoding='utf-8') as f:
@@ -58,6 +72,8 @@ with open(out, 'w', encoding='utf-8') as f:
 words = sum(x.get('wordCount', 0) for x in families)
 print(f'Catalog: {len(families)} families, {words} words → {out}')
 PY
+
+python3 "$ROOT/scripts/validate-data.py"
 
 public="$ROOT/web/public/data"
 mkdir -p "$public"

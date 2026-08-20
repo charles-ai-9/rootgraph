@@ -2205,6 +2205,35 @@ textarea {
   line-height: 1.5;
 }
 
+.load-error-hint {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: var(--accent-soft);
+  border: 1px dashed var(--border);
+  padding: 8px 12px;
+  border-radius: 8px;
+  line-height: 1.5;
+}
+
+.load-error-hint button {
+  flex-shrink: 0;
+  padding: 2px 12px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.load-error-hint button:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 .affix-cleared-hint {
   margin: 0 0 10px;
   display: flex;

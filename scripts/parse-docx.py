@@ -765,11 +765,14 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
 
 def write_families(families: list[RootFamily], output_dir: Path, source_label: str) -> None:
     output_dir.mkdir(parents=True, exist_ok=True)
-    for old in output_dir.glob("*.json"):
-        old.unlink()
+    if not families:
+        raise SystemExit(
+            "ERROR: parsed 0 families (docx may be corrupted) — aborting without touching existing data"
+        )
 
     index: list[dict[str, Any]] = []
     used_ids: set[str] = set()
+    written: set[str] = set()
     for family in families:
         family_id = family.id
         if family_id in used_ids:
@@ -779,7 +782,8 @@ def write_families(families: list[RootFamily], output_dir: Path, source_label: s
             family_id = f"{family.id}-{n}"
         used_ids.add(family_id)
         family.id = family_id
-        file_name = f"{family.id}.json"
+        file_name = f"{family_id}.json"
+        written.add(file_name)
         file_path = output_dir / file_name
         payload = family.to_dict()
         file_path.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")
@@ -801,6 +805,12 @@ def write_families(families: list[RootFamily], output_dir: Path, source_label: s
 
     index_path = output_dir / "index.json"
     index_path.write_text(json.dumps(index, ensure_ascii=False, indent=2), encoding="utf-8")
+    written.add("index.json")
+
+    # 全部写成功后才清理旧文件（先写后删：中途失败时旧数据仍在）
+    for old in output_dir.glob("*.json"):
+        if old.name not in written:
+            old.unlink()
 
 
 def main() -> None:

@@ -56,6 +56,8 @@ export function FamilyNotePage({
   onBack,
 }: FamilyNotePageProps) {
   const [family, setFamily] = useState<RootFamily | null>(null);
+  const [familyError, setFamilyError] = useState(false);
+  const [retryTick, setRetryTick] = useState(0);
   const [activePanel, setActivePanel] = useState<string>(OVERVIEW_PANEL);
   const panelInitForFamily = useRef<string | null>(null);
   const lastFocusWord = useRef<string | undefined>(undefined);
@@ -74,11 +76,15 @@ export function FamilyNotePage({
   const fKey = familyStorageKey(entry.textbook, entry.id);
 
   useEffect(() => {
+    setFamilyError(false);
     fetch(`/data/${entry.textbook}/${entry.file}`)
-      .then((r) => r.json())
+      .then((r) => {
+        if (!r.ok) throw new Error(`HTTP ${r.status}`);
+        return r.json();
+      })
       .then(setFamily)
-      .catch(console.error);
-  }, [entry]);
+      .catch(() => setFamilyError(true));
+  }, [entry, retryTick]);
 
   useEffect(() => {
     loadWordIndex().then(setWordIndex);
@@ -227,7 +233,14 @@ export function FamilyNotePage({
             ← 返回知识库
           </button>
         </div>
-        <p>加载中…</p>
+        {familyError ? (
+          <div className="load-error-hint">
+            <span>词根族数据加载失败（/data/{entry.textbook}/{entry.file}）</span>
+            <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
+          </div>
+        ) : (
+          <p>加载中…</p>
+        )}
       </div>
     );
   }

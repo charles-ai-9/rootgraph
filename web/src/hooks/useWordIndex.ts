@@ -59,15 +59,18 @@ export async function loadWordIndex(): Promise<IndexedWord[]> {
 export function useWordIndex() {
   const [index, setIndex] = useState<IndexedWord[]>(cache ?? []);
   const [ready, setReady] = useState(Boolean(cache));
+  const [error, setError] = useState(false);
 
   useEffect(() => {
-    loadWordIndex().then((rows) => {
-      setIndex(rows);
-      setReady(true);
-    });
+    loadWordIndex()
+      .then((rows) => {
+        setIndex(rows);
+        setReady(true);
+      })
+      .catch(() => setError(true));
   }, []);
 
-  return { index, ready };
+  return { index, ready, error };
 }
 
 export function searchWords(

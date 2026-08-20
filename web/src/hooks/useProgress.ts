@@ -1,5 +1,6 @@
 import { useCallback, useEffect, useState } from 'react';
 import type { ProgressState, WordStatus } from '../types';
+import { safeSetItem } from '../utils/storage';
 
 const STORAGE_KEY = 'rootgraph-progress-v1';
 
@@ -14,7 +15,7 @@ export function useProgress() {
   });
 
   useEffect(() => {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(progress));
+    safeSetItem(STORAGE_KEY, JSON.stringify(progress));
   }, [progress]);
 
   const getStatus = useCallback(

@@ -1,322 +1,318 @@
 [
   {
-    "chapter" : "1",
-    "chapterOrder" : 101,
-    "file" : "char.json",
-    "id" : "char",
-    "meaningEn" : "care, love",
-    "meaningZh" : "爱；关心；关爱",
-    "roots" : [
+    "chapter": "1",
+    "chapterOrder": 101,
+    "file": "char.json",
+    "id": "char",
+    "meaningEn": "care, love",
+    "meaningZh": "爱；关心；关爱",
+    "roots": [
       "char"
     ],
-    "semanticLabel" : "爱；关心；关爱",
-    "source" : "textbook-7",
-    "titleZh" : "爱；关心；关爱",
-    "wordCount" : 5
+    "semanticLabel": "爱；关心；关爱",
+    "source": "textbook-7",
+    "titleZh": "爱；关心；关爱",
+    "wordCount": 5
   },
   {
-    "chapter" : "2",
-    "chapterOrder" : 102,
-    "file" : "milit.json",
-    "id" : "milit",
-    "meaningEn" : "兵；即与战争、军事有关的”，因此 military 的含义为“军",
-    "meaningZh" : "",
-    "roots" : [
+    "chapter": "2",
+    "chapterOrder": 102,
+    "file": "milit.json",
+    "id": "milit",
+    "meaningEn": "兵；即与战争、军事有关的”，因此 military 的含义为“军",
+    "meaningZh": "",
+    "roots": [
       "milit"
     ],
-    "semanticLabel" : "兵；即与战争、军事有关的",
-    "source" : "textbook-7",
-    "titleZh" : "兵；即与战争、军事有关的",
-    "wordCount" : 94
+    "semanticLabel": "兵；即与战争、军事有关的",
+    "source": "textbook-7",
+    "titleZh": "兵；即与战争、军事有关的",
+    "wordCount": 94
   },
   {
-    "chapter" : "3",
-    "chapterOrder" : 103,
-    "file" : "grat.json",
-    "id" : "grat",
-    "meaningEn" : "",
-    "meaningZh" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-    "roots" : [
+    "chapter": "3",
+    "chapterOrder": 103,
+    "file": "grat.json",
+    "id": "grat",
+    "meaningEn": "",
+    "meaningZh": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+    "roots": [
       "grat"
     ],
-    "semanticLabel" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-    "source" : "textbook-7",
-    "titleZh" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-    "wordCount" : 14
+    "semanticLabel": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+    "source": "textbook-7",
+    "titleZh": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+    "wordCount": 14
   },
   {
-    "chapter" : "4",
-    "chapterOrder" : 104,
-    "file" : "4.json",
-    "id" : "4",
-    "meaningEn" : "to flow, run",
-    "meaningZh" : "流动；跑",
-    "roots" : [
-
-    ],
-    "semanticLabel" : "流动；跑",
-    "source" : "textbook-7",
-    "titleZh" : "流动；跑",
-    "wordCount" : 35
+    "chapter": "4",
+    "chapterOrder": 104,
+    "file": "4.json",
+    "id": "4",
+    "meaningEn": "to flow, run",
+    "meaningZh": "流动；跑",
+    "roots": [],
+    "semanticLabel": "流动；跑",
+    "source": "textbook-7",
+    "titleZh": "流动；跑",
+    "wordCount": 35
   },
   {
-    "chapter" : "5",
-    "chapterOrder" : 105,
-    "file" : "hib.json",
-    "id" : "hib",
-    "meaningEn" : "",
-    "meaningZh" : "持有；拥有；位于；管理等含义。",
-    "roots" : [
+    "chapter": "5",
+    "chapterOrder": 105,
+    "file": "hib.json",
+    "id": "hib",
+    "meaningEn": "",
+    "meaningZh": "持有；拥有；位于；管理等含义。",
+    "roots": [
       "hib",
       "hab"
     ],
-    "semanticLabel" : "持有；拥有；位于；管理等含义。",
-    "source" : "textbook-7",
-    "titleZh" : "持有；拥有；位于；管理等含义。",
-    "wordCount" : 40
+    "semanticLabel": "持有；拥有；位于；管理等含义。",
+    "source": "textbook-7",
+    "titleZh": "持有；拥有；位于；管理等含义。",
+    "wordCount": 40
   },
   {
-    "chapter" : "6",
-    "chapterOrder" : 106,
-    "file" : "rad.json",
-    "id" : "rad",
-    "meaningEn" : "",
-    "meaningZh" : "根，与",
-    "roots" : [
+    "chapter": "6",
+    "chapterOrder": 106,
+    "file": "rad.json",
+    "id": "rad",
+    "meaningEn": "",
+    "meaningZh": "根，与",
+    "roots": [
       "rad"
     ],
-    "semanticLabel" : "根，与",
-    "source" : "textbook-7",
-    "titleZh" : "根，与",
-    "wordCount" : 61
+    "semanticLabel": "根，与",
+    "source": "textbook-7",
+    "titleZh": "根，与",
+    "wordCount": 61
   },
   {
-    "chapter" : "7",
-    "chapterOrder" : 107,
-    "file" : "pul.json",
-    "id" : "pul",
-    "meaningEn" : "",
-    "meaningZh" : "推，强迫的含义，来源于单词",
-    "roots" : [
+    "chapter": "7",
+    "chapterOrder": 107,
+    "file": "pul.json",
+    "id": "pul",
+    "meaningEn": "",
+    "meaningZh": "推，强迫的含义，来源于单词",
+    "roots": [
       "pul",
       "pel",
       "puls",
       "pet"
     ],
-    "semanticLabel" : "推，强迫的含义，来源于单词",
-    "source" : "textbook-7",
-    "titleZh" : "推，强迫的含义，来源于单词",
-    "wordCount" : 3
+    "semanticLabel": "推，强迫的含义，来源于单词",
+    "source": "textbook-7",
+    "titleZh": "推，强迫的含义，来源于单词",
+    "wordCount": 3
   },
   {
-    "chapter" : "8",
-    "chapterOrder" : 108,
-    "file" : "pel.json",
-    "id" : "pel",
-    "meaningEn" : "to push, drive",
-    "meaningZh" : "推动；驱动。",
-    "roots" : [
+    "chapter": "8",
+    "chapterOrder": 108,
+    "file": "pel.json",
+    "id": "pel",
+    "meaningEn": "to push, drive",
+    "meaningZh": "推动；驱动。",
+    "roots": [
       "pel",
       "puls",
       "bel"
     ],
-    "semanticLabel" : "推动；驱动。",
-    "source" : "textbook-7",
-    "titleZh" : "推动；驱动。",
-    "wordCount" : 23
+    "semanticLabel": "推动；驱动。",
+    "source": "textbook-7",
+    "titleZh": "推动；驱动。",
+    "wordCount": 23
   },
   {
-    "chapter" : "9",
-    "chapterOrder" : 109,
-    "file" : "peal.json",
-    "id" : "peal",
-    "meaningEn" : "call",
-    "meaningZh" : "呼吁；大声呼叫 -peal=-pel-=to push, drive：推动。",
-    "roots" : [
+    "chapter": "9",
+    "chapterOrder": 109,
+    "file": "peal.json",
+    "id": "peal",
+    "meaningEn": "call",
+    "meaningZh": "呼吁；大声呼叫 -peal=-pel-=to push, drive：推动。",
+    "roots": [
       "peal"
     ],
-    "semanticLabel" : "call",
-    "source" : "textbook-7",
-    "titleZh" : "call",
-    "wordCount" : 9
+    "semanticLabel": "call",
+    "source": "textbook-7",
+    "titleZh": "call",
+    "wordCount": 9
   },
   {
-    "chapter" : "10",
-    "chapterOrder" : 110,
-    "file" : "suad.json",
-    "id" : "suad",
-    "meaningEn" : "to urge",
-    "meaningZh" : "说服；敦促；力劝。",
-    "roots" : [
+    "chapter": "10",
+    "chapterOrder": 110,
+    "file": "suad.json",
+    "id": "suad",
+    "meaningEn": "to urge",
+    "meaningZh": "说服；敦促；力劝。",
+    "roots": [
       "suad"
     ],
-    "semanticLabel" : "说服；敦促；力劝。",
-    "source" : "textbook-7",
-    "titleZh" : "说服；敦促；力劝。",
-    "wordCount" : 3
+    "semanticLabel": "说服；敦促；力劝。",
+    "source": "textbook-7",
+    "titleZh": "说服；敦促；力劝。",
+    "wordCount": 3
   },
   {
-    "chapter" : "11",
-    "chapterOrder" : 111,
-    "file" : "11.json",
-    "id" : "11",
-    "meaningEn" : "to drive",
-    "meaningZh" : "推，可以理解为把液体推过滤网",
-    "roots" : [
-
-    ],
-    "semanticLabel" : "推，可以理解为把液体推过滤网",
-    "source" : "textbook-7",
-    "titleZh" : "推，可以理解为把液体推过滤网",
-    "wordCount" : 11
+    "chapter": "11",
+    "chapterOrder": 111,
+    "file": "11.json",
+    "id": "11",
+    "meaningEn": "to drive",
+    "meaningZh": "推，可以理解为把液体推过滤网",
+    "roots": [],
+    "semanticLabel": "推，可以理解为把液体推过滤网",
+    "source": "textbook-7",
+    "titleZh": "推，可以理解为把液体推过滤网",
+    "wordCount": 11
   },
   {
-    "chapter" : "12",
-    "chapterOrder" : 112,
-    "file" : "ten.json",
-    "id" : "ten",
-    "meaningEn" : "",
-    "meaningZh" : "延伸",
-    "roots" : [
+    "chapter": "12",
+    "chapterOrder": 112,
+    "file": "ten.json",
+    "id": "ten",
+    "meaningEn": "",
+    "meaningZh": "延伸",
+    "roots": [
       "ten",
       "tend",
       "thin",
       "string",
       "sinew"
     ],
-    "semanticLabel" : "延伸",
-    "source" : "textbook-7",
-    "titleZh" : "延伸",
-    "wordCount" : 94
+    "semanticLabel": "延伸",
+    "source": "textbook-7",
+    "titleZh": "延伸",
+    "wordCount": 93
   },
   {
-    "chapter" : "13",
-    "chapterOrder" : 113,
-    "file" : "lud.json",
-    "id" : "lud",
-    "meaningEn" : "",
-    "meaningZh" : "表演；演奏。",
-    "roots" : [
+    "chapter": "13",
+    "chapterOrder": 113,
+    "file": "lud.json",
+    "id": "lud",
+    "meaningEn": "",
+    "meaningZh": "表演；演奏。",
+    "roots": [
       "lud"
     ],
-    "semanticLabel" : "表演；演奏。",
-    "source" : "textbook-7",
-    "titleZh" : "表演；演奏。",
-    "wordCount" : 15
+    "semanticLabel": "表演；演奏。",
+    "source": "textbook-7",
+    "titleZh": "表演；演奏。",
+    "wordCount": 15
   },
   {
-    "chapter" : "14",
-    "chapterOrder" : 114,
-    "file" : "painful.json",
-    "id" : "painful",
-    "meaningEn" : "",
-    "meaningZh" : "显得紧张的；愤怒的；生气的",
-    "roots" : [
+    "chapter": "14",
+    "chapterOrder": 114,
+    "file": "painful.json",
+    "id": "painful",
+    "meaningEn": "",
+    "meaningZh": "显得紧张的；愤怒的；生气的",
+    "roots": [
       "painful"
     ],
-    "semanticLabel" : "显得紧张的；愤怒的；生气的",
-    "source" : "textbook-7",
-    "titleZh" : "显得紧张的；愤怒的；生气的",
-    "wordCount" : 9
+    "semanticLabel": "显得紧张的；愤怒的；生气的",
+    "source": "textbook-7",
+    "titleZh": "显得紧张的；愤怒的；生气的",
+    "wordCount": 9
   },
   {
-    "chapter" : "15",
-    "chapterOrder" : 115,
-    "file" : "wretched.json",
-    "id" : "wretched",
-    "meaningEn" : "",
-    "meaningZh" : "不快乐的",
-    "roots" : [
+    "chapter": "15",
+    "chapterOrder": 115,
+    "file": "wretched.json",
+    "id": "wretched",
+    "meaningEn": "",
+    "meaningZh": "不快乐的",
+    "roots": [
       "wretched",
       "distress"
     ],
-    "semanticLabel" : "不快乐的",
-    "source" : "textbook-7",
-    "titleZh" : "不快乐的",
-    "wordCount" : 35
+    "semanticLabel": "不快乐的",
+    "source": "textbook-7",
+    "titleZh": "不快乐的",
+    "wordCount": 35
   },
   {
-    "chapter" : "16",
-    "chapterOrder" : 116,
-    "file" : "strophe.json",
-    "id" : "strophe",
-    "meaningEn" : "",
-    "meaningZh" : "to wind, turn",
-    "roots" : [
+    "chapter": "16",
+    "chapterOrder": 116,
+    "file": "strophe.json",
+    "id": "strophe",
+    "meaningEn": "",
+    "meaningZh": "to wind, turn",
+    "roots": [
       "strophe",
       "streb"
     ],
-    "semanticLabel" : "to wind, turn",
-    "source" : "textbook-7",
-    "titleZh" : "to wind, turn",
-    "wordCount" : 23
+    "semanticLabel": "to wind, turn",
+    "source": "textbook-7",
+    "titleZh": "to wind, turn",
+    "wordCount": 23
   },
   {
-    "chapter" : "17",
-    "chapterOrder" : 117,
-    "file" : "cata.json",
-    "id" : "cata",
-    "meaningEn" : "",
-    "meaningZh" : "向下；彻",
-    "roots" : [
+    "chapter": "17",
+    "chapterOrder": 117,
+    "file": "cata.json",
+    "id": "cata",
+    "meaningEn": "",
+    "meaningZh": "向下；彻",
+    "roots": [
       "cata",
       "downward",
       "thoroughly"
     ],
-    "semanticLabel" : "向下；彻",
-    "source" : "textbook-7",
-    "titleZh" : "向下；彻",
-    "wordCount" : 166
+    "semanticLabel": "向下；彻",
+    "source": "textbook-7",
+    "titleZh": "向下；彻",
+    "wordCount": 166
   },
   {
-    "chapter" : "18",
-    "chapterOrder" : 118,
-    "file" : "gob-mouth.json",
-    "id" : "gob-mouth",
-    "meaningEn" : "",
-    "meaningZh" : "口；嘴；一满口（的量）。",
-    "roots" : [
+    "chapter": "18",
+    "chapterOrder": 118,
+    "file": "gob-mouth.json",
+    "id": "gob-mouth",
+    "meaningEn": "",
+    "meaningZh": "口；嘴；一满口（的量）。",
+    "roots": [
       "gob：mouth",
       "a mouthful"
     ],
-    "semanticLabel" : "口；嘴；一满口（的量）。",
-    "source" : "textbook-7",
-    "titleZh" : "口；嘴；一满口（的量）。",
-    "wordCount" : 9
+    "semanticLabel": "口；嘴；一满口（的量）。",
+    "source": "textbook-7",
+    "titleZh": "口；嘴；一满口（的量）。",
+    "wordCount": 9
   },
   {
-    "chapter" : "19",
-    "chapterOrder" : 119,
-    "file" : "vel.json",
-    "id" : "vel",
-    "meaningEn" : "",
-    "meaningZh" : "拔出；伸展",
-    "roots" : [
+    "chapter": "19",
+    "chapterOrder": 119,
+    "file": "vel.json",
+    "id": "vel",
+    "meaningEn": "",
+    "meaningZh": "拔出；伸展",
+    "roots": [
       "vel",
       "vul",
       "stretch",
       "tear"
     ],
-    "semanticLabel" : "拔出；伸展",
-    "source" : "textbook-7",
-    "titleZh" : "拔出；伸展",
-    "wordCount" : 7
+    "semanticLabel": "拔出；伸展",
+    "source": "textbook-7",
+    "titleZh": "拔出；伸展",
+    "wordCount": 7
   },
   {
-    "chapter" : "20",
-    "chapterOrder" : 120,
-    "file" : "fend.json",
-    "id" : "fend",
-    "meaningEn" : "",
-    "meaningZh" : "碰撞；打击；推动",
-    "roots" : [
+    "chapter": "20",
+    "chapterOrder": 120,
+    "file": "fend.json",
+    "id": "fend",
+    "meaningEn": "",
+    "meaningZh": "碰撞；打击；推动",
+    "roots": [
       "fend",
       "hit",
       "push"
     ],
-    "semanticLabel" : "碰撞；打击；推动",
-    "source" : "textbook-7",
-    "titleZh" : "碰撞；打击；推动",
-    "wordCount" : 79
+    "semanticLabel": "碰撞；打击；推动",
+    "source": "textbook-7",
+    "titleZh": "碰撞；打击；推动",
+    "wordCount": 79
   }
 ]

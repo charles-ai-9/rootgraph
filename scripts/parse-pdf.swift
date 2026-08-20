@@ -568,21 +568,19 @@ let outputDir = args[2]
 let sourceLabel = args.count > 3 ? args[3] : URL(fileURLWithPath: pdfPath).deletingPathExtension().lastPathComponent
 
 let families = parsePDF(at: pdfPath, sourceLabel: sourceLabel)
+guard !families.isEmpty else {
+    fputs("ERROR: parsed 0 families (PDF may lack a text layer) — aborting without touching existing data\n", stderr)
+    exit(1)
+}
 let fm = FileManager.default
 try? fm.createDirectory(atPath: outputDir, withIntermediateDirectories: true)
-
-// 清理旧 JSON，避免解析噪声 / orphan 残留（index 之外的旧文件一并清除）
-if let oldFiles = try? fm.contentsOfDirectory(atPath: outputDir) {
-    for f in oldFiles where f.hasSuffix(".json") {
-        try? fm.removeItem(atPath: (outputDir as NSString).appendingPathComponent(f))
-    }
-}
 
 let encoder = JSONEncoder()
 encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
 
 var index: [[String: Any]] = []
 var usedIds = Set<String>()
+var outputFiles = Set<String>()
 for family in families {
     // 同教材内 slug 撞车（如两章都含 plus 词根）→ 追加 -2 / -3 后缀，避免覆盖丢数据
     var familyId = family.id
@@ -593,11 +591,19 @@ for family in families {
     }
     usedIds.insert(familyId)
     let fileName = "\(familyId).json"
+    outputFiles.insert(fileName)
     let filePath = (outputDir as NSString).appendingPathComponent(fileName)
     var payload = family
     payload.id = familyId
-    if let data = try? encoder.encode(payload) {
-        try? data.write(to: URL(fileURLWithPath: filePath))
+    guard let data = try? encoder.encode(payload) else {
+        fputs("ERROR: failed to encode family \(familyId) — aborting\n", stderr)
+        exit(1)
+    }
+    do {
+        try data.write(to: URL(fileURLWithPath: filePath))
+    } catch {
+        fputs("ERROR: failed to write \(filePath): \(error) — aborting\n", stderr)
+        exit(1)
     }
     index.append([
         "id": familyId,
@@ -616,7 +622,20 @@ for family in families {
 
 let indexPath = (outputDir as NSString).appendingPathComponent("index.json")
 if let indexData = try? JSONSerialization.data(withJSONObject: index, options: [.prettyPrinted, .sortedKeys]) {
-    try? indexData.write(to: URL(fileURLWithPath: indexPath))
+    do {
+        try indexData.write(to: URL(fileURLWithPath: indexPath))
+    } catch {
+        fputs("ERROR: failed to write \(indexPath): \(error) — aborting\n", stderr)
+        exit(1)
+    }
+}
+outputFiles.insert("index.json")
+
+// 全部写成功后才清理旧文件（先写后删：中途失败时旧数据仍在）
+if let oldFiles = try? fm.contentsOfDirectory(atPath: outputDir) {
+    for f in oldFiles where f.hasSuffix(".json") && !outputFiles.contains(f) {
+        try? fm.removeItem(atPath: (outputDir as NSString).appendingPathComponent(f))
+    }
 }
 
 let totalWords = families.reduce(0) { $0 + $1.words.count }
