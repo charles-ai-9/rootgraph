@@ -173,6 +173,23 @@ export function WordCard({
               </div>
             )}
 
+            <div className="word-card-actions">
+              <div className="affix-open-group">
+                <AffixKindButton
+                  kind="prefix"
+                  note={affixNotes.prefix}
+                  word={word}
+                  onOpen={() => setPrefixOpen(true)}
+                />
+                <AffixKindButton
+                  kind="suffix"
+                  note={affixNotes.suffix}
+                  word={word}
+                  onOpen={() => setSuffixOpen(true)}
+                />
+              </div>
+            </div>
+
             <section className="word-card-notes personal-note-block">
               <h4>我的笔记</h4>
               <NoteEditor
@@ -227,23 +244,6 @@ export function WordCard({
                   <p className="muted-text">{word.etymology}</p>
                 </section>
               )}
-            </div>
-
-            <div className="word-card-actions">
-              <div className="affix-open-group">
-                <AffixKindButton
-                  kind="prefix"
-                  note={affixNotes.prefix}
-                  word={word}
-                  onOpen={() => setPrefixOpen(true)}
-                />
-                <AffixKindButton
-                  kind="suffix"
-                  note={affixNotes.suffix}
-                  word={word}
-                  onOpen={() => setSuffixOpen(true)}
-                />
-              </div>
             </div>
           </>
         )}
