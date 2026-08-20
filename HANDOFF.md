@@ -540,6 +540,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 | **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `web/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空）；解析器改为「先写后删」 |
 | 健壮性加固（2026-09） | `validate-data.py` 一致性校验、`backup-data.sh` 数据备份、ErrorBoundary + fetch 错误态/重试、localStorage 写入 try/catch（safeSetItem）、`legacyId` 笔记迁移机制；catalog 已提交 git 基线（450536a） |
 | docx 释义混入「词频 助记/词源/搭配」文本（TB3/4 共 72 处） | `parse-docx.py` 释义解析加行内标签截断（数字可选）+ 词频提取，重导 TB3/4 后清零；顺带修复 intact2→intact、age-0ld→age-old、c0-opt→co-opt 三个解析噪声词 |
+| cern 族 26 个 `-ics` 学科词误归 | 移出 cern → 新建 `textbook-1/ics.json`「-ics 学科词」专题族（roots: ics，26 词不丢）；错标词清理：voc/critical、cern/policy、fin/battery、van/ancestor 删除错误归属（保留合理归属：cern/critical、dict/policy、dox/battery、ceed/ancestor）；被删词条备份于 `/tmp/removed-words.json` |
 
 ### 11.2 未解决 / 数据层
 
