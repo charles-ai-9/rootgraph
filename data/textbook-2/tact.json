@@ -1,345 +1,257 @@
 {
-  "chapter" : "3",
-  "chapterOrder" : 103,
-  "id" : "tact",
-  "meaningEn" : "touch",
-  "meaningZh" : "接触；触摸",
-  "roots" : [
+  "chapter": "3",
+  "chapterOrder": 103,
+  "id": "tact",
+  "meaningEn": "touch",
+  "meaningZh": "接触；触摸",
+  "roots": [
     "tact",
     "tag",
     "teg",
     "tang"
   ],
-  "semanticLabel" : "接触；触摸",
-  "source" : "textbook-2",
-  "titleZh" : "接触；触摸",
-  "words" : [
+  "semanticLabel": "接触；触摸",
+  "source": "textbook-2",
+  "titleZh": "接触；触摸",
+  "words": [
     {
-      "collocations" : [
-        "maintain\/keep\/have a close contact with sb(考)：与……保持紧密联系"
+      "collocations": [
+        "maintain/keep/have a close contact with sb(考)：与……保持紧密联系"
       ],
-      "definition" : "接触，联系",
-      "examples" : [
-        "我们通过互联网和朋友保持密切联系。(2012.6网络对交际的影响)\nWe keep\/maintain\/have a close contact with our friends by the Internet.\n(contact用作名词)\nWe contact our friends closely by the Internet.(contact用作动词)"
+      "definition": "接触，联系",
+      "examples": [
+        "我们通过互联网和朋友保持密切联系。(2012.6网络对交际的影响)\nWe keep/maintain/have a close contact with our friends by the Internet.\n(contact用作名词)\nWe contact our friends closely by the Internet.(contact用作动词)"
       ],
-      "frequency" : 1489,
-      "mnemonic" : "con(共同)+tact(=touch：接触)→接触、联系",
-      "phonetic" : "ˈkɒntækt",
-      "pos" : "n.",
-      "rootHint" : "tact",
-      "word" : "contact"
+      "frequency": 1489,
+      "mnemonic": "con(共同)+tact(=touch：接触)→接触、联系",
+      "phonetic": "ˈkɒntækt",
+      "pos": "n.",
+      "rootHint": "tact",
+      "word": "contact"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "触染；蔓延；传染病",
-      "examples" : [
-
-      ],
-      "frequency" : 19660,
-      "phonetic" : "kənˈteɪdʒ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "tag",
-      "word" : "contagion"
+      "collocations": [],
+      "definition": "触染；蔓延；传染病",
+      "examples": [],
+      "frequency": 19660,
+      "phonetic": "kənˈteɪdʒ(ə)n",
+      "pos": "n.",
+      "rootHint": "tag",
+      "word": "contagion"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "会蔓延的；感染性的",
-      "examples" : [
-
-      ],
-      "frequency" : 11848,
-      "phonetic" : "kənˈteɪdʒəs",
-      "pos" : "adj.",
-      "rootHint" : "tag",
-      "word" : "contagious"
+      "collocations": [],
+      "definition": "会蔓延的；感染性的",
+      "examples": [],
+      "frequency": 11848,
+      "phonetic": "kənˈteɪdʒəs",
+      "pos": "adj.",
+      "rootHint": "tag",
+      "word": "contagious"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "10607",
-      "examples" : [
-
-      ],
-      "phonetic" : "kənˈtæmɪnənt",
-      "rootHint" : "tact",
-      "word" : "contaminant"
+      "collocations": [],
+      "definition": "10607",
+      "examples": [],
+      "phonetic": "kənˈtæmɪnənt",
+      "rootHint": "tact",
+      "word": "contaminant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "bacterially contaminated chicken(考)：被细菌污染的鸡肉"
       ],
-      "definition" : "污染，弄脏",
-      "examples" : [
-
-      ],
-      "frequency" : 7531,
-      "mnemonic" : "c o n ( 共 同 、 大 家 ) + t a m ( = - t a n g ： 碰 、 摸 ， m 、 n 音 似 ， g 无 意\n义)+inate(=ine+ate：复合使动词后缀)→使大家都来碰，来摸→弄脏、",
-      "phonetic" : "kənˈtæmɪneɪt",
-      "pos" : "vt.",
-      "rootHint" : "tact",
-      "word" : "contaminate"
+      "definition": "污染，弄脏",
+      "examples": [],
+      "frequency": 7531,
+      "mnemonic": "c o n ( 共 同 、 大 家 ) + t a m ( = - t a n g ： 碰 、 摸 ， m 、 n 音 似 ， g 无 意\n义)+inate(=ine+ate：复合使动词后缀)→使大家都来碰，来摸→弄脏、",
+      "phonetic": "kənˈtæmɪneɪt",
+      "pos": "vt.",
+      "rootHint": "tact",
+      "word": "contaminate"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "受污染的；弄脏的",
-      "examples" : [
-
-      ],
-      "frequency" : 10335,
-      "phonetic" : "kənˈtæməneɪtɪd",
-      "pos" : "adj.",
-      "rootHint" : "tact",
-      "word" : "contaminated"
+      "collocations": [],
+      "definition": "受污染的；弄脏的",
+      "examples": [],
+      "frequency": 10335,
+      "phonetic": "kənˈtæməneɪtɪd",
+      "pos": "adj.",
+      "rootHint": "tact",
+      "word": "contaminated"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "污染，玷污；污染物",
-      "examples" : [
-
-      ],
-      "frequency" : 6625,
-      "phonetic" : "kənˌtæmɪˈneɪʃən",
-      "pos" : "n.",
-      "rootHint" : "tact",
-      "word" : "contamination"
+      "collocations": [],
+      "definition": "污染，玷污；污染物",
+      "examples": [],
+      "frequency": 6625,
+      "phonetic": "kənˌtæmɪˈneɪʃən",
+      "pos": "n.",
+      "rootHint": "tact",
+      "word": "contamination"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "完整的；原封不动的；未受损伤的",
-      "examples" : [
-
-      ],
-      "frequency" : 4679,
-      "phonetic" : "ɪnˈtækt",
-      "pos" : "adj.",
-      "rootHint" : "tact",
-      "word" : "intact"
+      "collocations": [],
+      "definition": "完整的；原封不动的；未受损伤的",
+      "examples": [],
+      "frequency": 4679,
+      "phonetic": "ɪnˈtækt",
+      "pos": "adj.",
+      "rootHint": "tact",
+      "word": "intact"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "机智；老练；圆滑；鉴赏力",
-      "examples" : [
-
-      ],
-      "frequency" : 18260,
-      "phonetic" : "tækt",
-      "pos" : "n.",
-      "rootHint" : "tact",
-      "word" : "tact"
+      "collocations": [],
+      "definition": "机智；老练；圆滑；鉴赏力",
+      "examples": [],
+      "frequency": 18260,
+      "phonetic": "tækt",
+      "pos": "n.",
+      "rootHint": "tact",
+      "word": "tact"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "策略，战略",
-      "examples" : [
-
-      ],
-      "frequency" : 3316,
-      "phonetic" : "ˈtæktɪk",
-      "pos" : "n.",
-      "rootHint" : "tact",
-      "word" : "tactic"
+      "collocations": [],
+      "definition": "策略，战略",
+      "examples": [],
+      "frequency": 3316,
+      "phonetic": "ˈtæktɪk",
+      "pos": "n.",
+      "rootHint": "tact",
+      "word": "tactic"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "战术的；策略的；善于策略的",
-      "examples" : [
-
-      ],
-      "frequency" : 7313,
-      "phonetic" : "ˈtæktɪk(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "tact",
-      "word" : "tactical"
+      "collocations": [],
+      "definition": "战术的；策略的；善于策略的",
+      "examples": [],
+      "frequency": 7313,
+      "phonetic": "ˈtæktɪk(ə)l",
+      "pos": "adj.",
+      "rootHint": "tact",
+      "word": "tactical"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "触觉的，有触觉的；能触知的",
-      "examples" : [
-
-      ],
-      "frequency" : 14295,
-      "phonetic" : "ˈtæktaɪl",
-      "pos" : "adj.",
-      "rootHint" : "tact",
-      "word" : "tactile"
+      "collocations": [],
+      "definition": "触觉的，有触觉的；能触知的",
+      "examples": [],
+      "frequency": 14295,
+      "phonetic": "ˈtæktaɪl",
+      "pos": "adj.",
+      "rootHint": "tact",
+      "word": "tactile"
     },
     {
-      "collocations" : [
+      "collocations": [
         "tangible commodity(考)：有形商品"
       ],
-      "definition" : "有形的；可触摸的；切实的",
-      "examples" : [
-
-      ],
-      "frequency" : 7300,
-      "mnemonic" : "tang(=touch：接触、碰)+ible(可以)→可以接触到的→可触碰的、有",
-      "phonetic" : "ˈtæn(d)ʒɪb(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "tang",
-      "word" : "tangible"
+      "definition": "有形的；可触摸的；切实的",
+      "examples": [],
+      "frequency": 7300,
+      "mnemonic": "tang(=touch：接触、碰)+ible(可以)→可以接触到的→可触碰的、有",
+      "phonetic": "ˈtæn(d)ʒɪb(ə)l",
+      "pos": "adj.",
+      "rootHint": "tang",
+      "word": "tangible"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "无形的，触摸不到的；难以理解的",
-      "examples" : [
-
-      ],
-      "frequency" : 14351,
-      "phonetic" : "ɪnˈtæn(d)ʒɪb(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "tang",
-      "word" : "intangible"
+      "collocations": [],
+      "definition": "无形的，触摸不到的；难以理解的",
+      "examples": [],
+      "frequency": 14351,
+      "phonetic": "ɪnˈtæn(d)ʒɪb(ə)l",
+      "pos": "adj.",
+      "rootHint": "tang",
+      "word": "intangible"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "完整的、完好的、没有被碰过的",
-      "examples" : [
-
-      ],
-      "mnemonic" : "in(表否定)+tact(接触、触碰)→没有被碰过的、完好的、完整的",
-      "phonetic" : "inˈtækt",
-      "pos" : "a.",
-      "rootHint" : "tact",
-      "word" : "intact2"
-    },
-    {
-      "collocations" : [
+      "collocations": [
         "an integral whole(考)：一个整体"
       ],
-      "definition" : "完整的，整体的；[数学]积分的",
-      "examples" : [
-
-      ],
-      "frequency" : 5970,
-      "mnemonic" : "in(表否定)+tegr(=touch：触碰；r增减无影响)+al(的)→没被碰过的→",
-      "phonetic" : "ˈɪntɪɡrəl",
-      "pos" : "adj.",
-      "rootHint" : "teg",
-      "word" : "integral"
+      "definition": "完整的，整体的；[数学]积分的",
+      "examples": [],
+      "frequency": 5970,
+      "mnemonic": "in(表否定)+tegr(=touch：触碰；r增减无影响)+al(的)→没被碰过的→",
+      "phonetic": "ˈɪntɪɡrəl",
+      "pos": "adj.",
+      "rootHint": "teg",
+      "word": "integral"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "使……完整；使……成整体；求……的积分；表",
-      "examples" : [
+      "collocations": [],
+      "definition": "使……完整；使……成整体；求……的积分；表",
+      "examples": [
         "Perhaps most significant, according to Mannaz, is the increasing interest\nlarge companies have in more collaborative management models, such\nas those prevalent in Scandinavia, which seek to integrate the hard and\nsoft aspects of leadership and encourage delegated responsibility and\naccountability.\n根据曼娜兹公司，或许最重要的是大型企业对协作管理模式的兴趣不\n断增加，就像那些在斯堪的纳维亚盛行的一样，试图融合领导力的软\n和硬两方面，并且鼓励仿写遗物与责任。(2011.6)",
         "如何把外国的先进文化融入到我国文化中是一个棘手的问题。\nHow to integrate advanced cultures from abroad into our own is a tough\nissue.\nIt is a tough issue to integrate foreign countries’ advanced cultures into\nChinese culture."
       ],
-      "mnemonic" : "integr(=integral：完整的)+ate(使动词后缀)→使完整、使成整体、整合",
-      "phonetic" : "ˈɪntɪgreɪt",
-      "pos" : "vt.",
-      "rootHint" : "teg",
-      "word" : "integrate"
+      "mnemonic": "integr(=integral：完整的)+ate(使动词后缀)→使完整、使成整体、整合",
+      "phonetic": "ˈɪntɪgreɪt",
+      "pos": "vt.",
+      "rootHint": "teg",
+      "word": "integrate"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "综合的；完整的；互相协调的",
-      "examples" : [
-
-      ],
-      "frequency" : 4850,
-      "phonetic" : "ˈɪntɪgreɪtɪd",
-      "pos" : "adj.",
-      "rootHint" : "teg",
-      "word" : "integrated"
+      "collocations": [],
+      "definition": "综合的；完整的；互相协调的",
+      "examples": [],
+      "frequency": 4850,
+      "phonetic": "ˈɪntɪgreɪtɪd",
+      "pos": "adj.",
+      "rootHint": "teg",
+      "word": "integrated"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "综合；集成",
-      "examples" : [
-
-      ],
-      "frequency" : 3609,
-      "phonetic" : "ɪntɪˈgreɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "teg",
-      "word" : "integration"
+      "collocations": [],
+      "definition": "综合；集成",
+      "examples": [],
+      "frequency": 3609,
+      "phonetic": "ɪntɪˈgreɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "teg",
+      "word": "integration"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "综合的",
-      "examples" : [
-
-      ],
-      "frequency" : 14961,
-      "phonetic" : "ˈɪntɪɡreɪtɪv",
-      "pos" : "adj.",
-      "rootHint" : "teg",
-      "word" : "integrative"
+      "collocations": [],
+      "definition": "综合的",
+      "examples": [],
+      "frequency": 14961,
+      "phonetic": "ˈɪntɪɡreɪtɪv",
+      "pos": "adj.",
+      "rootHint": "teg",
+      "word": "integrative"
     },
     {
-      "collocations" : [
+      "collocations": [
         "integrity of character(考)：诚实的品质"
       ],
-      "definition" : "正直；诚实；廉正；完整",
-      "examples" : [
-
-      ],
-      "frequency" : 3494,
-      "mnemonic" : "integr(=integral：完整的)+ity→完整、正直、诚实(不管是正直、清",
-      "phonetic" : "ɪnˈtegrɪtɪ",
-      "pos" : "n.",
-      "rootHint" : "teg",
-      "word" : "integrity"
+      "definition": "正直；诚实；廉正；完整",
+      "examples": [],
+      "frequency": 3494,
+      "mnemonic": "integr(=integral：完整的)+ity→完整、正直、诚实(不管是正直、清",
+      "phonetic": "ɪnˈtegrɪtɪ",
+      "pos": "n.",
+      "rootHint": "teg",
+      "word": "integrity"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "使分解；使碎裂；使崩溃；[核]使衰变",
-      "examples" : [
-
-      ],
-      "frequency" : 10662,
-      "mnemonic" : "dis(表相反)+integrate(整合、合并)→使不完整→分解、瓦解\n(写作、阅读)例句：死亡是正常的；我们生来就被基因设定成会瓦解和毁",
-      "phonetic" : "dɪsˈɪntɪgreɪt",
-      "pos" : "vt.",
-      "rootHint" : "teg",
-      "word" : "disintegrate"
+      "collocations": [],
+      "definition": "使分解；使碎裂；使崩溃；[核]使衰变",
+      "examples": [],
+      "frequency": 10662,
+      "mnemonic": "dis(表相反)+integrate(整合、合并)→使不完整→分解、瓦解\n(写作、阅读)例句：死亡是正常的；我们生来就被基因设定成会瓦解和毁",
+      "phonetic": "dɪsˈɪntɪgreɪt",
+      "pos": "vt.",
+      "rootHint": "teg",
+      "word": "disintegrate"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "分解；瓦解，崩溃",
-      "examples" : [
-
-      ],
-      "frequency" : 12436,
-      "phonetic" : "dɪsˌɪntɪˈgreɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "teg",
-      "word" : "disintegration"
+      "collocations": [],
+      "definition": "分解；瓦解，崩溃",
+      "examples": [],
+      "frequency": 12436,
+      "phonetic": "dɪsˌɪntɪˈgreɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "teg",
+      "word": "disintegration"
     }
   ]
 }

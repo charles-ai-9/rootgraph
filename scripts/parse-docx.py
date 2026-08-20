@@ -364,10 +364,21 @@ def parse_word_line(line: str) -> tuple[str, str | None, str] | None:
 def parse_definition_rest(rest: str) -> tuple[str | None, str | None, int | None]:
     text = normalize_spaces(rest)
     freq: int | None = None
-    m = FREQ_RE.search(text)
+    # docx 原文把「词频 助记/词源/搭配」挤在释义行尾（如「…大量146 助记：much…」、
+    # 「…中和 搭配：counteract…」）：数字可选，提取词频并截断标签内容
+    m = re.search(
+        r"(?<!\d)(\d{2,6})?\s*(?:助记|词源|搭配|阅读难点|笔记区|笔 记 区)[：:]?\s*",
+        text,
+    )
     if m:
-        freq = int(m.group(1))
+        if m.group(1):
+            freq = int(m.group(1))
         text = normalize_spaces(text[: m.start()])
+    if freq is None:
+        m = FREQ_RE.search(text)
+        if m:
+            freq = int(m.group(1))
+            text = normalize_spaces(text[: m.start()])
     pos: str | None = None
     pm = POS_RE.match(text)
     if pm:
@@ -507,10 +518,19 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
     def parse_definition_continuation(line: str) -> tuple[str, int | None]:
         text = normalize_spaces(line)
         freq: int | None = None
-        m = FREQ_RE.search(text)
+        m = re.search(
+            r"(?<!\d)(\d{2,6})?\s*(?:助记|词源|搭配|阅读难点|笔记区|笔 记 区)[：:]?\s*",
+            text,
+        )
         if m:
-            freq = int(m.group(1))
+            if m.group(1):
+                freq = int(m.group(1))
             text = normalize_spaces(text[: m.start()])
+        if freq is None:
+            m = FREQ_RE.search(text)
+            if m:
+                freq = int(m.group(1))
+                text = normalize_spaces(text[: m.start()])
         return text, freq
 
     def is_mnemonic_continuation(line: str) -> bool:
