@@ -10,9 +10,10 @@ interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
   affixItems: AffixItem[];
   onSaveAffixGroup: (draft: AffixGroupDraft) => void;
+  getVideoId: (key: string) => string;
 }
 
-export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePageProps) {
+export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoId }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [catalogError, setCatalogError] = useState(false);
   const [retryTick, setRetryTick] = useState(0);
@@ -96,6 +97,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePag
   const renderCard = (entry: CatalogEntry) => {
     const roots = displayRoots(entry);
     const semantic = displaySemantic(entry);
+    const videoId = getVideoId(catalogEntryKey(entry));
 
     return (
       <button
@@ -112,6 +114,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePag
         {semantic && <p className="card-semantic">{semantic}</p>}
         <div className="library-card-foot">
           <span>{entry.wordCount} 词</span>
+          {videoId && <span className="video-chip">🎬 {videoId}</span>}
         </div>
       </button>
     );

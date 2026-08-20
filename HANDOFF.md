@@ -400,6 +400,7 @@ App.tsx
 ### 7.2 词根族页（FamilyNotePage）
 
 - **概览 Tab**：摘要、变体对照、家族笔记、关系图
+- **视频编号**：顶部徽标显示/编辑词根族对应的视频课程编号（localStorage，首页卡片同步显示 🎬）
 - **变体 Tab**（如 cern / crim / cert）：仅显示该变体下的单词卡
 - 底部 `VariantStepper` 切换变体
 - 从搜索进入时 `focusWord` 自动切 Tab 并滚动定位
@@ -437,7 +438,7 @@ App.tsx
 
 | Key | Hook | 内容 |
 |-----|------|------|
-| `rootgraph-notes-v2` | useNotes | `{ families, words, affixNotes, wordFields }` |
+| `rootgraph-notes-v2` | useNotes | `{ families, words, affixNotes, wordFields, videoMap }`（videoMap: 族 → 视频编号） |
 | `rootgraph-notes-v1` | useNotes | 只读 legacy，部分迁移 |
 | `rootgraph-affix-library-v5` | useAffixLibrary | `AffixItem[]` |
 | `rootgraph-affix-library-seed-version` | useAffixLibrary | 如 `'docx-v12'` |

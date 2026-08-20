@@ -294,6 +294,48 @@ textarea {
   color: var(--text-muted);
 }
 
+.video-badge {
+  display: inline-block;
+  padding: 2px 8px;
+  background: var(--border-light);
+  color: var(--text-muted);
+  border: 1px dashed var(--border);
+  border-radius: 4px;
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.video-badge:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.video-badge.has-id {
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-style: solid;
+  border-color: transparent;
+}
+
+.video-id-input {
+  width: 110px;
+  padding: 2px 8px;
+  border: 1px solid var(--accent);
+  border-radius: 4px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.78rem;
+}
+
+.video-chip {
+  padding: 2px 8px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  border-radius: 999px;
+  font-size: 0.72rem;
+  white-space: nowrap;
+}
+
 .review-pill {
   padding: 2px 8px;
   background: var(--amber-soft);

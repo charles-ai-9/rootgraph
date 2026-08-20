@@ -68,7 +68,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
 
   // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
@@ -111,6 +111,8 @@ function App() {
         focusWord={view.focusWord}
         getFamilyNote={getFamilyNote}
         setFamilyNote={setFamilyNote}
+        getVideoId={getVideoId}
+        setVideoId={setVideoId}
         getWordNote={getWordNote}
         setWordNote={setWordNote}
         getWordMnemonic={getWordMnemonic}
@@ -134,6 +136,7 @@ function App() {
       onOpenFamily={(entry, word) => applyView({ kind: 'family', entry, focusWord: word })}
       affixItems={affixLibrary.items}
       onSaveAffixGroup={affixLibrary.saveGroup}
+      getVideoId={getVideoId}
     />
   );
 }

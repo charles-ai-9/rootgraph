@@ -19,6 +19,8 @@ interface FamilyNotePageProps {
   focusWord?: string;
   getFamilyNote: (key: string) => string;
   setFamilyNote: (key: string, text: string) => void;
+  getVideoId: (key: string) => string;
+  setVideoId: (key: string, videoId: string) => void;
   getWordNote: (key: string) => string;
   setWordNote: (key: string, text: string) => void;
   getWordMnemonic: (key: string, seed?: string) => string;
@@ -40,6 +42,8 @@ export function FamilyNotePage({
   focusWord,
   getFamilyNote,
   setFamilyNote,
+  getVideoId,
+  setVideoId,
   getWordNote,
   setWordNote,
   getWordMnemonic,
@@ -69,6 +73,7 @@ export function FamilyNotePage({
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [reviewWord, setReviewWord] = useState<string | null>(null);
+  const [editingVideo, setEditingVideo] = useState(false);
   const { getStatus, setStatus } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
@@ -247,6 +252,7 @@ export function FamilyNotePage({
 
   const summary = familySummary(family, entry);
   const familyNote = getFamilyNote(fKey);
+  const videoId = getVideoId(fKey);
   const semantic = displaySemantic(entry);
   const activeWords = activePanel !== OVERVIEW_PANEL ? groups.get(activePanel) ?? [] : [];
 
@@ -303,6 +309,31 @@ export function FamilyNotePage({
             <span className="badge">{textbookLabel(entry.textbook)}</span>
             <span className="badge muted-badge">第{entry.chapter}章</span>
             <span className="badge muted-badge">{family.words.length} 词</span>
+            {editingVideo ? (
+              <input
+                className="video-id-input"
+                autoFocus
+                placeholder="如 1-03"
+                defaultValue={videoId}
+                onBlur={(e) => {
+                  setVideoId(fKey, e.target.value);
+                  setEditingVideo(false);
+                }}
+                onKeyDown={(e) => {
+                  if (e.key === 'Enter') (e.target as HTMLInputElement).blur();
+                  if (e.key === 'Escape') setEditingVideo(false);
+                }}
+              />
+            ) : (
+              <button
+                type="button"
+                className={`video-badge ${videoId ? 'has-id' : ''}`}
+                onClick={() => setEditingVideo(true)}
+                title={videoId ? `视频编号 ${videoId}，点击修改` : '点击设置该词根族的视频编号'}
+              >
+                🎬 {videoId || '视频编号'}
+              </button>
+            )}
           </div>
         </div>
       </header>

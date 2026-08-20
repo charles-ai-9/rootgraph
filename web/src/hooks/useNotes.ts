@@ -13,12 +13,14 @@ interface NotesStore {
   words: Record<string, string>;
   affixNotes: Record<string, WordAffixNotes>;
   wordFields: Record<string, WordFieldOverrides>;
+  /** 词根族对应的视频课程编号（familyKey → 编号，如 "1-03"） */
+  videoMap: Record<string, string>;
 }
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
 const LEGACY_KEY = 'rootgraph-notes-v1';
 
-const empty: NotesStore = { families: {}, words: {}, affixNotes: {}, wordFields: {} };
+const empty: NotesStore = { families: {}, words: {}, affixNotes: {}, wordFields: {}, videoMap: {} };
 
 export function collocationsToText(items: string[]): string {
   return items.join('\n');
@@ -88,6 +90,7 @@ function load(): NotesStore {
           Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
         ),
         wordFields: parsed.wordFields ?? {},
+        videoMap: parsed.videoMap ?? {},
       };
     }
 
@@ -99,6 +102,7 @@ function load(): NotesStore {
         words: parsed.words ?? {},
         affixNotes: {},
         wordFields: {},
+        videoMap: {},
       };
     }
   } catch {
@@ -120,6 +124,15 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       families: { ...prev.families, [key]: text },
+    }));
+  }, []);
+
+  const getVideoId = useCallback((key: string) => store.videoMap[key] ?? '', [store]);
+
+  const setVideoId = useCallback((key: string, videoId: string) => {
+    setStore((prev) => ({
+      ...prev,
+      videoMap: { ...prev.videoMap, [key]: videoId.trim() },
     }));
   }, []);
 
@@ -197,11 +210,12 @@ export function useNotes() {
         words: { ...prev.words },
         affixNotes: { ...prev.affixNotes },
         wordFields: { ...prev.wordFields },
+        videoMap: { ...prev.videoMap },
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
         if (oldKey === newKey) continue;
-        for (const section of ['families', 'words', 'affixNotes', 'wordFields'] as const) {
+        for (const section of ['families', 'words', 'affixNotes', 'wordFields', 'videoMap'] as const) {
           const map = next[section];
           for (const k of Object.keys(map)) {
             if (k === oldKey || k.startsWith(`${oldKey}/`)) {
@@ -219,6 +233,8 @@ export function useNotes() {
   return {
     getFamilyNote,
     setFamilyNote,
+    getVideoId,
+    setVideoId,
     getWordNote,
     setWordNote,
     getWordAffixNotes,
