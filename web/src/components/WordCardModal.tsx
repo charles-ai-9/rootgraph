@@ -24,7 +24,7 @@ export function WordCardModal({ wordCardProps, status, onSetStatus, onClose }: W
         </header>
 
         <div className="word-review-modal-body">
-          <WordCard {...wordCardProps} defaultShowExtra />
+          <WordCard {...wordCardProps} />
         </div>
 
         <footer className="word-review-modal-foot">

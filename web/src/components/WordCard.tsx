@@ -23,8 +23,10 @@ export interface WordCardProps {
   onSaveToLibrary: (kind: WordAffixKind, note: AffixNoteData) => AffixItem;
   onSaveGroup: (draft: AffixGroupDraft) => void;
   onOpenAffixLibrary: () => void;
+  /** 初始折叠（笔记风默认折叠，点击词行展开）；false = 初始展开（复习弹窗/深链） */
   defaultCollapsed?: boolean;
-  defaultShowExtra?: boolean;
+  /** 深链定位高亮 */
+  highlighted?: boolean;
   cardDomId?: string;
   onNote: (text: string) => void;
   onMnemonicNote: (text: string) => void;
@@ -71,15 +73,15 @@ export function WordCard({
   onSaveToLibrary,
   onSaveGroup,
   onOpenAffixLibrary,
-  defaultCollapsed = false,
-  defaultShowExtra = false,
+  defaultCollapsed = true,
+  highlighted = false,
   cardDomId,
   onNote,
   onMnemonicNote,
   onCollocationsNote,
   onAffixNote,
 }: WordCardProps) {
-  const [showExtra, setShowExtra] = useState(defaultShowExtra);
+  const [expanded, setExpanded] = useState(!defaultCollapsed);
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -87,12 +89,16 @@ export function WordCard({
   const rootAnalysis = analyzeWordRoots(familyRoots, word.word, word.rootHint, mnemonicNote);
   const hasMnemonic = Boolean(mnemonicNote.trim());
   const hasCollocations = Boolean(collocationsNote.trim());
+  const hasPersonalNote = Boolean(personalNote.trim());
+  const hasAffixNote = Boolean(affixNotes.prefix.libraryRef || affixNotes.suffix.libraryRef
+    || affixNotes.prefix.current.trim() || affixNotes.suffix.current.trim());
   const hasExtra = Boolean(
     hasMnemonic
       || hasCollocations
       || word.examples.length
       || word.etymology,
   );
+  const hasAnyNote = hasPersonalNote || hasExtra || hasAffixNote;
 
   const handleCopyWord = async (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -111,8 +117,18 @@ export function WordCard({
 
   return (
     <>
-      <article className={`word-card ${defaultCollapsed ? 'is-highlighted' : ''}`} id={cardDomId ?? `word-${word.word}`}>
-        <header className="word-card-head">
+      <article
+        className={`word-card ${expanded ? 'is-expanded' : 'is-collapsed'} ${highlighted ? 'is-highlighted' : ''}`}
+        id={cardDomId ?? `word-${word.word}`}
+      >
+        <header
+          className="word-card-head"
+          role="button"
+          aria-expanded={expanded}
+          onClick={() => setExpanded((v) => !v)}
+          title={expanded ? '点击收起' : '点击展开'}
+        >
+          <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
           <span
             className={`word-head-word ${copied ? 'word-copied' : ''}`}
             title="点击复制单词"
@@ -134,101 +150,102 @@ export function WordCard({
             </span>
           )}
 
-          {copied && <span className="copy-hint">已复制</span>}
+          {word.definition && (
+            <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{word.definition}</span>
+          )}
 
-          <div className="word-head-actions">
-            <div className="affix-open-group">
-              <AffixKindButton
-                kind="prefix"
-                note={affixNotes.prefix}
-                word={word}
-                onOpen={() => setPrefixOpen(true)}
-              />
-              <AffixKindButton
-                kind="suffix"
-                note={affixNotes.suffix}
-                word={word}
-                onOpen={() => setSuffixOpen(true)}
-              />
-            </div>
-            <button
-              type="button"
-              className={`word-extra-toggle ${hasExtra ? 'has-content' : ''}`}
-              onClick={() => setShowExtra((v) => !v)}
-              aria-expanded={showExtra}
-            >
-              {showExtra ? '收起' : '更多'}
-              <span className="chevron">{showExtra ? '▾' : '▸'}</span>
-            </button>
-          </div>
+          {hasAnyNote && (
+            <span className="word-has-note-dot" title="有笔记/词缀记录">●</span>
+          )}
+
+          {copied && <span className="copy-hint">已复制</span>}
         </header>
 
-        {(word.pos || word.definition) && (
-          <div className="word-card-def">
-            {word.pos && <span className="pos-tag">{word.pos}</span>}
-            <span className="word-def-text">{word.definition}</span>
-            {word.frequency != null && (
-              <span className="freq-tag">词频 {word.frequency}</span>
+        {expanded && (
+          <>
+            {(word.pos || word.definition) && (
+              <div className="word-card-def">
+                {word.pos && <span className="pos-tag">{word.pos}</span>}
+                <span className="word-def-text">{word.definition}</span>
+                {word.frequency != null && (
+                  <span className="freq-tag">词频 {word.frequency}</span>
+                )}
+              </div>
             )}
-          </div>
-        )}
 
-        <section className="word-card-notes personal-note-block">
-          <h4>我的笔记</h4>
-          <NoteEditor
-            value={personalNote}
-            placeholder={MD_PLACEHOLDER}
-            onChange={onNote}
-            minRows={2}
-          />
-        </section>
-
-        {showExtra && (
-          <div className="word-card-extra">
-            <section className="word-card-notes editable-note-block">
-              <h4>推理链</h4>
+            <section className="word-card-notes personal-note-block">
+              <h4>我的笔记</h4>
               <NoteEditor
-                value={mnemonicNote}
+                value={personalNote}
                 placeholder={MD_PLACEHOLDER}
-                onChange={onMnemonicNote}
+                onChange={onNote}
                 minRows={2}
               />
             </section>
 
-            <section className="word-card-notes editable-note-block">
-              <h4>搭配</h4>
-              <NoteEditor
-                value={collocationsNote}
-                placeholder={MD_PLACEHOLDER}
-                onChange={onCollocationsNote}
-                minRows={2}
-              />
-            </section>
-
-            {word.examples.length > 0 && (
-              <section>
-                <h4>例句</h4>
-                <ul className="plain-list example-list">
-                  {word.examples.map((ex) => (
-                    <li key={ex} className="example-block">
-                      {ex.split('\n').map((line) => (
-                        <span key={line} className="example-line">
-                          {line}
-                        </span>
-                      ))}
-                    </li>
-                  ))}
-                </ul>
+            <div className="word-card-extra">
+              <section className="word-card-notes editable-note-block">
+                <h4>推理链</h4>
+                <NoteEditor
+                  value={mnemonicNote}
+                  placeholder={MD_PLACEHOLDER}
+                  onChange={onMnemonicNote}
+                  minRows={2}
+                />
               </section>
-            )}
 
-            {word.etymology && (
-              <section>
-                <h4>词源</h4>
-                <p className="muted-text">{word.etymology}</p>
+              <section className="word-card-notes editable-note-block">
+                <h4>搭配</h4>
+                <NoteEditor
+                  value={collocationsNote}
+                  placeholder={MD_PLACEHOLDER}
+                  onChange={onCollocationsNote}
+                  minRows={2}
+                />
               </section>
-            )}
-          </div>
+
+              {word.examples.length > 0 && (
+                <section>
+                  <h4>例句</h4>
+                  <ul className="plain-list example-list">
+                    {word.examples.map((ex) => (
+                      <li key={ex} className="example-block">
+                        {ex.split('\n').map((line) => (
+                          <span key={line} className="example-line">
+                            {line}
+                          </span>
+                        ))}
+                      </li>
+                    ))}
+                  </ul>
+                </section>
+              )}
+
+              {word.etymology && (
+                <section>
+                  <h4>词源</h4>
+                  <p className="muted-text">{word.etymology}</p>
+                </section>
+              )}
+            </div>
+
+            <div className="word-card-actions">
+              <div className="affix-open-group">
+                <AffixKindButton
+                  kind="prefix"
+                  note={affixNotes.prefix}
+                  word={word}
+                  onOpen={() => setPrefixOpen(true)}
+                />
+                <AffixKindButton
+                  kind="suffix"
+                  note={affixNotes.suffix}
+                  word={word}
+                  onOpen={() => setSuffixOpen(true)}
+                />
+              </div>
+            </div>
+          </>
         )}
       </article>
 

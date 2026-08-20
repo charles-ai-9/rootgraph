@@ -103,19 +103,16 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
       <button
         key={catalogEntryKey(entry)}
         type="button"
-        className="library-card"
+        className="library-row"
         onClick={() => onOpenFamily(entry)}
       >
-        <div className="library-card-top">
-          <span className="badge">第{entry.chapter}章</span>
-          <span className="badge muted-badge">{textbookLabel(entry.textbook)}</span>
-        </div>
-        <h2 className="card-roots">{roots}</h2>
-        {semantic && <p className="card-semantic">{semantic}</p>}
-        <div className="library-card-foot">
+        <span className="library-row-chapter">第{entry.chapter}章</span>
+        <span className="library-row-roots">{roots}</span>
+        {semantic && <span className="library-row-semantic">{semantic}</span>}
+        <span className="library-row-meta">
           <span>{entry.wordCount} 词</span>
           {videoId && <span className="video-chip">🎬 {videoId}</span>}
-        </div>
+        </span>
       </button>
     );
   };
@@ -207,7 +204,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
         items.length === 0 ? null : (
           <section key={key} className="topic-section">
             {textbook === 'all' && !hasFilter && <h2 className="topic-section-title">{key}</h2>}
-            <div className="library-grid">
+            <div className="library-list">
               {items.map((entry) => renderCard(entry))}
             </div>
           </section>

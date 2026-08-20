@@ -74,7 +74,7 @@ export function FamilyNotePage({
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [reviewWord, setReviewWord] = useState<string | null>(null);
   const [editingVideo, setEditingVideo] = useState(false);
-  const { getStatus, setStatus } = useProgress();
+  const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
 
@@ -223,8 +223,8 @@ export function FamilyNotePage({
         <WordCard
           key={`${panelKey}-${w.word}-${index}`}
           {...wordCardPropsFor(w, index)}
-          defaultCollapsed={focusWord === w.word}
-          defaultShowExtra={focusWord === w.word}
+          defaultCollapsed={focusWord !== w.word}
+          highlighted={focusWord === w.word}
         />
       ))}
     </div>
@@ -255,6 +255,7 @@ export function FamilyNotePage({
   const videoId = getVideoId(fKey);
   const semantic = displaySemantic(entry);
   const activeWords = activePanel !== OVERVIEW_PANEL ? groups.get(activePanel) ?? [] : [];
+  const familyStats = statsForKeys(family.words.map((w) => wordKey(entry.textbook, family.id, w.word)));
 
   return (
     <div className="note-page">
@@ -354,6 +355,12 @@ export function FamilyNotePage({
         <header className="doc-head">
           <h1 className="doc-title">{semantic ?? displayRoots(entry)}</h1>
           {semantic && <p className="doc-subtitle doc-roots-line">{displayRoots(entry)}</p>}
+          {(familyStats.understood > 0 || familyStats.review > 0) && (
+            <p className="progress-text">
+              已掌握 {familyStats.understood}/{familyStats.total}
+              {familyStats.review > 0 && ` · 待复习 ${familyStats.review}`}
+            </p>
+          )}
         </header>
 
         <div className="family-variant-content">
