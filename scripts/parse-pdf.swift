@@ -571,18 +571,36 @@ let families = parsePDF(at: pdfPath, sourceLabel: sourceLabel)
 let fm = FileManager.default
 try? fm.createDirectory(atPath: outputDir, withIntermediateDirectories: true)
 
+// 清理旧 JSON，避免解析噪声 / orphan 残留（index 之外的旧文件一并清除）
+if let oldFiles = try? fm.contentsOfDirectory(atPath: outputDir) {
+    for f in oldFiles where f.hasSuffix(".json") {
+        try? fm.removeItem(atPath: (outputDir as NSString).appendingPathComponent(f))
+    }
+}
+
 let encoder = JSONEncoder()
 encoder.outputFormatting = [.prettyPrinted, .sortedKeys]
 
 var index: [[String: Any]] = []
+var usedIds = Set<String>()
 for family in families {
-    let fileName = "\(family.id).json"
+    // 同教材内 slug 撞车（如两章都含 plus 词根）→ 追加 -2 / -3 后缀，避免覆盖丢数据
+    var familyId = family.id
+    if usedIds.contains(familyId) {
+        var n = 2
+        while usedIds.contains("\(familyId)-\(n)") { n += 1 }
+        familyId = "\(familyId)-\(n)"
+    }
+    usedIds.insert(familyId)
+    let fileName = "\(familyId).json"
     let filePath = (outputDir as NSString).appendingPathComponent(fileName)
-    if let data = try? encoder.encode(family) {
+    var payload = family
+    payload.id = familyId
+    if let data = try? encoder.encode(payload) {
         try? data.write(to: URL(fileURLWithPath: filePath))
     }
     index.append([
-        "id": family.id,
+        "id": familyId,
         "file": fileName,
         "chapter": family.chapter,
         "chapterOrder": family.chapterOrder,

@@ -91,7 +91,7 @@
     "semanticLabel": "separate",
     "source": "textbook-1",
     "titleZh": "separate",
-    "wordCount": 169,
+    "wordCount": 166,
     "textbook": "textbook-1"
   },
   {
@@ -176,7 +176,7 @@
     "semanticLabel": "力量，实力",
     "source": "textbook-1",
     "titleZh": "力量，实力",
-    "wordCount": 51,
+    "wordCount": 50,
     "textbook": "textbook-1"
   },
   {
@@ -218,7 +218,7 @@
     "semanticLabel": "动；移动；变换位置",
     "source": "textbook-2",
     "titleZh": "动；移动；变换位置",
-    "wordCount": 156,
+    "wordCount": 155,
     "textbook": "textbook-2"
   },
   {
@@ -314,7 +314,7 @@
     "semanticLabel": "hand",
     "source": "textbook-2",
     "titleZh": "hand",
-    "wordCount": 43,
+    "wordCount": 41,
     "textbook": "textbook-2"
   },
   {
@@ -382,6 +382,560 @@
     "titleZh": "基因的，遗传的；出生，生育，产生",
     "wordCount": 315,
     "textbook": "textbook-2"
+  },
+  {
+    "id": "maj",
+    "file": "maj.json",
+    "chapter": "1",
+    "chapterOrder": 101,
+    "titleZh": "大的,伟",
+    "semanticLabel": "大的,伟",
+    "meaningEn": "",
+    "meaningZh": "大的,伟",
+    "roots": [
+      "maj",
+      "max",
+      "mag",
+      "magn"
+    ],
+    "wordCount": 32,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "min",
+    "file": "min.json",
+    "chapter": "2",
+    "chapterOrder": 102,
+    "titleZh": "小,最小,来源于词根mei-",
+    "semanticLabel": "小,最小,来源于词根mei-",
+    "meaningEn": "",
+    "meaningZh": "小,最小,来源于词根mei-",
+    "roots": [
+      "min",
+      "mini"
+    ],
+    "wordCount": 30,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "itude",
+    "file": "itude.json",
+    "chapter": "3",
+    "chapterOrder": 103,
+    "titleZh": "度，状态",
+    "semanticLabel": "度，状态",
+    "meaningEn": "",
+    "meaningZh": "度，状态",
+    "roots": [
+      "itude"
+    ],
+    "wordCount": 11,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "dict",
+    "file": "dict.json",
+    "chapter": "4",
+    "chapterOrder": 104,
+    "titleZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "semanticLabel": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "meaningEn": "",
+    "meaningZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示说",
+    "roots": [
+      "dict"
+    ],
+    "wordCount": 87,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "em",
+    "file": "em.json",
+    "chapter": "5",
+    "chapterOrder": 105,
+    "titleZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+    "semanticLabel": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+    "meaningEn": "",
+    "meaningZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mpt 等。",
+    "roots": [
+      "em",
+      "empt",
+      "mpt"
+    ],
+    "wordCount": 32,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "spect",
+    "file": "spect.json",
+    "chapter": "6",
+    "chapterOrder": 106,
+    "titleZh": "view",
+    "semanticLabel": "view",
+    "meaningEn": "view,",
+    "meaningZh": "",
+    "roots": [
+      "spect"
+    ],
+    "wordCount": 73,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "scopy",
+    "file": "scopy.json",
+    "chapter": "7",
+    "chapterOrder": 107,
+    "titleZh": "",
+    "semanticLabel": "",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "scopy"
+    ],
+    "wordCount": 12,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "cal",
+    "file": "cal.json",
+    "chapter": "8",
+    "chapterOrder": 108,
+    "titleZh": "cal",
+    "semanticLabel": "cal",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "cal"
+    ],
+    "wordCount": 6,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "claim",
+    "file": "claim.json",
+    "chapter": "9",
+    "chapterOrder": 109,
+    "titleZh": "*kele",
+    "semanticLabel": "*kele",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "claim",
+      "clam",
+      "cla"
+    ],
+    "wordCount": 50,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "duct",
+    "file": "duct.json",
+    "chapter": "10",
+    "chapterOrder": 110,
+    "titleZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "semanticLabel": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "meaningEn": "引导，引领的含义，是与单词Iead",
+    "meaningZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "roots": [
+      "duct"
+    ],
+    "wordCount": 62,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "viv",
+    "file": "viv.json",
+    "chapter": "11",
+    "chapterOrder": 111,
+    "titleZh": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "semanticLabel": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "meaningEn": "生命，生活,是和单词live",
+    "meaningZh": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "roots": [
+      "viv"
+    ],
+    "wordCount": 27,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "bio",
+    "file": "bio.json",
+    "chapter": "12",
+    "chapterOrder": 112,
+    "titleZh": "生命；生物(因为b 、v音似),于是有",
+    "semanticLabel": "生命；生物(因为b 、v音似),于是有",
+    "meaningEn": "生命；生物(因为b 、v音似),于是有",
+    "meaningZh": "",
+    "roots": [
+      "bio"
+    ],
+    "wordCount": 23,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "zoo",
+    "file": "zoo.json",
+    "chapter": "13",
+    "chapterOrder": 113,
+    "titleZh": "",
+    "semanticLabel": "",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "zoo"
+    ],
+    "wordCount": 1,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "quick",
+    "file": "quick.json",
+    "chapter": "14",
+    "chapterOrder": 114,
+    "titleZh": "quick",
+    "semanticLabel": "quick",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "quick"
+    ],
+    "wordCount": 8,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "forward",
+    "file": "forward.json",
+    "chapter": "1",
+    "chapterOrder": 101,
+    "titleZh": "forward, in front of,forth。",
+    "semanticLabel": "forward, in front of,forth。",
+    "meaningEn": "“forward, in front of,forth”。",
+    "meaningZh": "",
+    "roots": [
+      "forward"
+    ],
+    "wordCount": 116,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "noc",
+    "file": "noc.json",
+    "chapter": "2",
+    "chapterOrder": 102,
+    "titleZh": "harm,hurt,",
+    "semanticLabel": "harm,hurt,",
+    "meaningEn": "",
+    "meaningZh": "harm,hurt,",
+    "roots": [
+      "noc",
+      "nek",
+      "nox",
+      "nic"
+    ],
+    "wordCount": 53,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "ev",
+    "file": "ev.json",
+    "chapter": "3",
+    "chapterOrder": 103,
+    "titleZh": "an age, 其",
+    "semanticLabel": "an age, 其",
+    "meaningEn": "an age”, 其含义为 vital force,life;long life,",
+    "meaningZh": "",
+    "roots": [
+      "ev"
+    ],
+    "wordCount": 249,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "quire",
+    "file": "quire.json",
+    "chapter": "4",
+    "chapterOrder": 104,
+    "titleZh": "获得，得到",
+    "semanticLabel": "获得，得到",
+    "meaningEn": "",
+    "meaningZh": "获得，得到",
+    "roots": [
+      "quire",
+      "quis"
+    ],
+    "wordCount": 7,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "quire-2",
+    "file": "quire-2.json",
+    "chapter": "5",
+    "chapterOrder": 105,
+    "titleZh": "ask) 同源。",
+    "semanticLabel": "ask) 同源。",
+    "meaningEn": "ask)” 同源。",
+    "meaningZh": "",
+    "roots": [
+      "quire"
+    ],
+    "wordCount": 45,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "fuse",
+    "file": "fuse.json",
+    "chapter": "6",
+    "chapterOrder": 106,
+    "titleZh": "pour,",
+    "semanticLabel": "pour,",
+    "meaningEn": "pour”, 含义为“融合；浇铸；倾倒”,名词含义为“爆 炸物的引信”。",
+    "meaningZh": "",
+    "roots": [
+      "fuse"
+    ],
+    "wordCount": 29,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "ju",
+    "file": "ju.json",
+    "chapter": "7",
+    "chapterOrder": 107,
+    "titleZh": "ju/jure/jury",
+    "semanticLabel": "ju/jure/jury",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "ju",
+      "jure",
+      "jury",
+      "just",
+      "law"
+    ],
+    "wordCount": 28,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "opt",
+    "file": "opt.json",
+    "chapter": "8",
+    "chapterOrder": 108,
+    "titleZh": "to desire,choose,grab,take,",
+    "semanticLabel": "to desire,choose,grab,take,",
+    "meaningEn": "to desire,choose,grab,take”, 含义为想要；选择；夺取； 获得。同样表达选择的词根还有“op-” 等。",
+    "meaningZh": "",
+    "roots": [
+      "opt"
+    ],
+    "wordCount": 10,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "guar",
+    "file": "guar.json",
+    "chapter": "9",
+    "chapterOrder": 109,
+    "titleZh": "guard=watch=ward ,",
+    "semanticLabel": "guard=watch=ward ,",
+    "meaningEn": "guard=watch=ward” , 含义为护卫；保护；留意。",
+    "meaningZh": "",
+    "roots": [
+      "guar",
+      "gard"
+    ],
+    "wordCount": 17,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "ward",
+    "file": "ward.json",
+    "chapter": "10",
+    "chapterOrder": 110,
+    "titleZh": "to guard 一般表示保护；保护",
+    "semanticLabel": "to guard 一般表示保护；保护",
+    "meaningEn": "to guard” 一般表示“保护；保护”",
+    "meaningZh": "",
+    "roots": [
+      "ward"
+    ],
+    "wordCount": 131,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "bibe",
+    "file": "bibe.json",
+    "chapter": "11",
+    "chapterOrder": 111,
+    "titleZh": "两个。",
+    "semanticLabel": "两个。",
+    "meaningEn": "两个；两,是来自单词two",
+    "meaningZh": "两个。",
+    "roots": [
+      "bibe"
+    ],
+    "wordCount": 31,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "di",
+    "file": "di.json",
+    "chapter": "12",
+    "chapterOrder": 112,
+    "titleZh": "t wo,double,twice",
+    "semanticLabel": "t wo,double,twice",
+    "meaningEn": "“t wo,double,twice”,",
+    "meaningZh": "",
+    "roots": [
+      "di",
+      "dia",
+      "duo",
+      "du"
+    ],
+    "wordCount": 146,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "cul",
+    "file": "cul.json",
+    "chapter": "13",
+    "chapterOrder": 113,
+    "titleZh": "耕种；居住。",
+    "semanticLabel": "耕种；居住。",
+    "meaningEn": "",
+    "meaningZh": "耕种；居住。",
+    "roots": [
+      "cul",
+      "col",
+      "to"
+    ],
+    "wordCount": 101,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "stant",
+    "file": "stant.json",
+    "chapter": "14",
+    "chapterOrder": 114,
+    "titleZh": "即词根-sist 表示双重站)",
+    "semanticLabel": "即词根-sist 表示双重站)",
+    "meaningEn": "sti, st=sta",
+    "meaningZh": "即词根-sist 表示双重站)",
+    "roots": [
+      "stant",
+      "stet",
+      "sti",
+      "stem"
+    ],
+    "wordCount": 186,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "sit",
+    "file": "sit.json",
+    "chapter": "16",
+    "chapterOrder": 116,
+    "titleZh": "sit",
+    "semanticLabel": "sit",
+    "meaningEn": "",
+    "meaningZh": "坐",
+    "roots": [
+      "sit"
+    ],
+    "wordCount": 7,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "sid",
+    "file": "sid.json",
+    "chapter": "17",
+    "chapterOrder": 117,
+    "titleZh": "sid",
+    "semanticLabel": "sid",
+    "meaningEn": "",
+    "meaningZh": "坐",
+    "roots": [
+      "sid"
+    ],
+    "wordCount": 47,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "sess",
+    "file": "sess.json",
+    "chapter": "18",
+    "chapterOrder": 118,
+    "titleZh": "坐(首辅音相同",
+    "semanticLabel": "坐(首辅音相同",
+    "meaningEn": "坐的含义，是来源于单词sit",
+    "meaningZh": "坐(首辅音相同",
+    "roots": [
+      "sess"
+    ],
+    "wordCount": 40,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "myst",
+    "file": "myst.json",
+    "chapter": "19",
+    "chapterOrder": 119,
+    "titleZh": "神秘,神话。",
+    "semanticLabel": "神秘,神话。",
+    "meaningEn": "",
+    "meaningZh": "神秘,神话。",
+    "roots": [
+      "myst",
+      "myth"
+    ],
+    "wordCount": 80,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
+  },
+  {
+    "id": "liter",
+    "file": "liter.json",
+    "chapter": "20",
+    "chapterOrder": 120,
+    "titleZh": "letter 表示文字",
+    "semanticLabel": "letter 表示文字",
+    "meaningEn": "letter” 表示“文字”",
+    "meaningZh": "",
+    "roots": [
+      "liter"
+    ],
+    "wordCount": 130,
+    "source": "textbook-4",
+    "textbook": "textbook-4"
   },
   {
     "chapter": "1",
@@ -463,7 +1017,7 @@
     "semanticLabel": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
     "source": "textbook-5",
     "titleZh": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
-    "wordCount": 57,
+    "wordCount": 56,
     "textbook": "textbook-5"
   },
   {
@@ -593,7 +1147,7 @@
     "semanticLabel": "切，一般在1741年之前，专门用于指大脑皮层。",
     "source": "textbook-5",
     "titleZh": "切，一般在1741年之前，专门用于指大脑皮层。",
-    "wordCount": 152,
+    "wordCount": 151,
     "textbook": "textbook-5"
   },
   {
@@ -731,8 +1285,8 @@
   {
     "chapter": "23",
     "chapterOrder": 123,
-    "file": "plus.json",
-    "id": "plus",
+    "file": "plus-2.json",
+    "id": "plus-2",
     "meaningEn": "",
     "meaningZh": "大量的，多的。",
     "roots": [
@@ -863,8 +1417,8 @@
   {
     "chapter": "31",
     "chapterOrder": 131,
-    "file": "pos.json",
-    "id": "pos",
+    "file": "pos-2.json",
+    "id": "pos-2",
     "meaningEn": "",
     "meaningZh": "能，能够。",
     "roots": [
@@ -980,8 +1534,8 @@
   {
     "chapter": "39",
     "chapterOrder": 139,
-    "file": "cap.json",
-    "id": "cap",
+    "file": "cap-2.json",
+    "id": "cap-2",
     "meaningEn": "",
     "meaningZh": "抓；拿。",
     "roots": [
@@ -1110,8 +1664,8 @@
   {
     "chapter": "4",
     "chapterOrder": 104,
-    "file": "mis.json",
-    "id": "mis",
+    "file": "mis-2.json",
+    "id": "mis-2",
     "meaningEn": "change",
     "meaningZh": "改变。",
     "roots": [
@@ -1296,8 +1850,8 @@
   {
     "chapter": "15",
     "chapterOrder": 115,
-    "file": "solv.json",
-    "id": "solv",
+    "file": "solv-2.json",
+    "id": "solv-2",
     "meaningEn": "",
     "meaningZh": "松开，使放松，分开，割裂",
     "roots": [
@@ -1384,8 +1938,8 @@
   {
     "chapter": "20",
     "chapterOrder": 120,
-    "file": "reg.json",
-    "id": "reg",
+    "file": "reg-2.json",
+    "id": "reg-2",
     "meaningEn": "to rule",
     "meaningZh": "管理；监管；支配；控制。",
     "roots": [
@@ -1400,8 +1954,8 @@
   {
     "chapter": "21",
     "chapterOrder": 121,
-    "file": "reg.json",
-    "id": "reg",
+    "file": "reg-3.json",
+    "id": "reg-3",
     "meaningEn": "rule, 表示“习惯，常规，规则”。",
     "meaningZh": "",
     "roots": [
@@ -1432,8 +1986,8 @@
   {
     "chapter": "23",
     "chapterOrder": 123,
-    "file": "rog.json",
-    "id": "rog",
+    "file": "rog-2.json",
+    "id": "rog-2",
     "meaningEn": "to ask, question, entreat, request",
     "meaningZh": "询问；请求；要求。",
     "roots": [
@@ -1545,8 +2099,8 @@
   {
     "chapter": "31",
     "chapterOrder": 131,
-    "file": "dec.json",
-    "id": "dec",
+    "file": "dec-2.json",
+    "id": "dec-2",
     "meaningEn": "ornament",
     "meaningZh": "装饰",
     "roots": [
@@ -1865,7 +2419,7 @@
     "semanticLabel": "延伸",
     "source": "textbook-7",
     "titleZh": "延伸",
-    "wordCount": 94,
+    "wordCount": 93,
     "textbook": "textbook-7"
   },
   {
@@ -2083,7 +2637,7 @@
     "semanticLabel": "心；心脏等含义。",
     "source": "textbook-8",
     "titleZh": "心；心脏等含义。",
-    "wordCount": 81,
+    "wordCount": 77,
     "textbook": "textbook-8"
   },
   {

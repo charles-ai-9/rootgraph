@@ -47,7 +47,9 @@ export async function loadWordIndex(): Promise<IndexedWord[]> {
       }),
     );
 
-    cache = rows.sort((a, b) => a.word.localeCompare(b.word));
+    cache = rows
+      .filter((row, i, arr) => arr.findIndex((r) => r.textbook === row.textbook && r.familyId === row.familyId && r.word === row.word) === i)
+      .sort((a, b) => a.word.localeCompare(b.word));
     return cache;
   })();
 

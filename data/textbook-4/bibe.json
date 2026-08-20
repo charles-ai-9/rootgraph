@@ -1,0 +1,452 @@
+{
+  "id": "bibe",
+  "source": "textbook-4",
+  "chapter": "11",
+  "chapterOrder": 111,
+  "titleZh": "两个。",
+  "semanticLabel": "两个。",
+  "meaningEn": "两个；两,是来自单词two",
+  "meaningZh": "两个。",
+  "roots": [
+    "bibe"
+  ],
+  "words": [
+    {
+      "word": "bipolar",
+      "phonetic": "bar'pəulə",
+      "pos": "adj.",
+      "definition": "完全对立的10872",
+      "frequency": null,
+      "mnemonic": "bi- ( 两个)+pole ( 两级)+-ar ( 形容词后缀)→两极的→完全对立的 搭配：the bipolar world of the Cold War years: 冷战年代的两极世界",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "binocular",
+      "phonetic": "br'npkjulə",
+      "pos": "adj.",
+      "definition": "双目并用的；双眼的7757",
+      "frequency": null,
+      "mnemonic": "bin-(bini=two: 两 个 ) + ocular(=of the eye: 与眼睛有关的) → 双",
+      "collocations": [
+        "binocular vision 双眼视觉"
+      ],
+      "etymology": "From French binoculaire,from Latin biniocularis.From binioculus bini two by two,twofold,two apiece”+ocularis \"of the eye”.",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "bipartisan",
+      "phonetic": ",barpa:t'zæn",
+      "pos": null,
+      "definition": "两党的；两派的6743",
+      "frequency": null,
+      "mnemonic": "bi- ( 两个)+parti-(=party: 党派)+-san ( 名词后缀，表人) →两个 党派的人→两党的；两派的\nbipartisan 的派生词是 bipartisanship。",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "bipartisanship",
+      "phonetic": "bai'pa:tizənfip",
+      "pos": "n.",
+      "definition": "两党合作；两党制19832",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "bisexual",
+      "phonetic": "bar'seksjuəl;-fuəl",
+      "pos": "adj.",
+      "definition": "雌雄同体的；两性的 n. 双性恋12849",
+      "frequency": null,
+      "mnemonic": "bi- ( 两 个 ) +sex ( 性别)+-ual ( 形容词后缀) → 两个性别的 → 雌雄 同体的；两性的",
+      "collocations": [
+        "a bisexual plant: 雌雄同株的植物"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "combine",
+      "phonetic": "kəm'bain",
+      "pos": "vt.",
+      "definition": "使组合；使结合；使合并 vt. 同时做(两件完全不 同的事);兼有(不同的特点或品质) n. 联合收割机(又作combine harvester ); 联盟；集团1455",
+      "frequency": null,
+      "mnemonic": "com- (共同；一起)+bi- ( 两个)+n ( 增减无影响)+e→将两个拿到 一起→联合；结合",
+      "collocations": [
+        "combine with….: 与……联系在一起；与……结合",
+        "阅读难点：turn out to be: 结果是"
+      ],
+      "etymology": null,
+      "examples": [
+        "Sad to say,this project has turned out to be mostly low-level findings about factual errors and spelling and grammar mistakes,combined with lots of head-scratching puzzlement about what in the world those readers really want.\n遗憾的是，这个项目结果大多是一些底层的发现，比如事实性错误， 拼写和语法错误；以及许多让人头疼的困惑：那些读者究竟想要什么 东西?",
+        "遗憾的是，他们研究的结果往往都是一些缺乏说服力的大学排 名，以及很多令人头疼的困惑，比如到底其依据是什么?\nSad to say,their research has turned out to be mostly inconvincing college ranking,combined with lots of head-scratching puzzlements about what in the world the bases are.\ncombine的派生词是combined,combination 等 。"
+      ],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "combined",
+      "phonetic": "kom'baind",
+      "pos": "adj.",
+      "definition": "结合的；总计的4209",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "combination",
+      "phonetic": "kombi'nerʃ(a)n",
+      "pos": "n.",
+      "definition": "结合；联合[+of]; 混合物；(密码锁的) 号码组合1822",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "in combination(with sth): 与……混合",
+        "winning combination: 成功的搭档"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "balance",
+      "phonetic": "'bæl(ə)ns",
+      "pos": "n.",
+      "definition": "平衡；均衡[+between][+of]; 余额；等量 vt.&vi. (使)保持平衡；使〔重要性、数量、价值或影响〕相抵 vt.权衡；斟 酌[+against]; 结平(账目)1640",
+      "frequency": null,
+      "mnemonic": "bi- ( 两个)+ -lan-(=dish,plate: 秤盘)+-ce ( 名词后缀) → 两个秤 盘构成天平→平衡；均衡；使平衡；使相抵；权衡→在财务上，引申 义为余额(财务平衡表的差值)",
+      "collocations": [
+        "on balance: 全面考虑之后，权衡利弊",
+        "strike/achieve/find a balance: 达至/取得/找到平衡",
+        "keep/lose a balance: 保持/失去平衡",
+        "upset the balance: 破环平衡",
+        "a good/healthy balance: 适当的比例",
+        "the balance ofnature: 自然界的平衡",
+        "balance the budget: 使收支平衡",
+        "balance liberty against the security: 在自由和国家安全之间做出权衡"
+      ],
+      "etymology": "balance最初的本意是“天平”。它源自古拉丁语bilanx, 由bi(two, 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 两 个 ) +lanx(pans, 盘)构成，指的就是“由两个秤盘构成的天 平”。后来，该词又逐渐衍生出“平衡”的比喻之意，再在财会领域 中，由“财务平衡表的差值”而衍生出“余额”之意。",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "balanced",
+      "phonetic": "'bælonst",
+      "pos": "adj.",
+      "definition": "全面公正的；均衡的；沉着冷静的4942",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "finely/delicately balanced(=very carefully balanced): 恰到好处的 a balanced diet: 均衡的饮食"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "balancing",
+      "phonetic": "'bælənsŋ",
+      "pos": "adj.",
+      "definition": "平衡的11783",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a set of balancing scales: 一组平衡称"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "imbalance",
+      "phonetic": "m'bæl(ə)ns",
+      "pos": "n.",
+      "definition": "不平衡；失调[+in][+between]8287",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the current imbalance between...and..: …… 与……之间的不平衡现状"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "unbalanced",
+      "phonetic": "ʌn'bælənst",
+      "pos": "adj.",
+      "definition": "精神有些失常的；〔报告、论点等〕有失公允 的；片面的17662",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "unbalanced report: 有失去公正的片面",
+        "between A and B: 在A与B之间"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "binary",
+      "phonetic": "'bainəri",
+      "pos": "adj.",
+      "definition": "二进制的n. 二进制11460",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "do the calculations in binary: 用二进制做计算"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "biscuit",
+      "phonetic": "'biskit",
+      "pos": "n.",
+      "definition": "烘烤两次的干面包；小圆饼(干)8222",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "古代西方人在航海时，为了解决漫长的海上旅行的饮食问题，发明 了一种制作干粮的方法，那就是将烘烤好的面包，回炉再烘烤一次， 使其变干变脆。这样处理过的干面包就可以保存很长时间而不会变 质腐烂，特别适合长时间的海上旅程。这种烘烤两次的干面包就是 饼干biscuit 的前身。英语单词biscuit 源自法语bescuit, 由bis-(=bi- =twice: 两次)+cuit(cooked, 烘烤过的),字面意思就是“烘烤过 两次的面包”。",
+        "take the biscuit: 糟糕透顶"
+      ],
+      "etymology": "pekw- Proto-Indo-European root meaning “to cook,ripen.” It is the hypothetical source of/evidence for its existence is provided by:Sanskrit pakvah“cooked,ripe;\"Avestan -paka-“cooked;”Greek peptein \"to cook,ripen,digest,\"pepon \"ripe;\"Latin coquere “to cook, prepare food,ripen,digest,turn over in the mind,\"Oscan popina “kitchen;\" Lithuanian kepti “to bake,roast;\"Old Church Slavonic pecenu \"roasted;” Welsh poeth “cooked,baked,hot.”",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "precocious",
+      "phonetic": "pri'kəufəs",
+      "pos": "adj.",
+      "definition": "早熟的；智慧超前的16035",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a precocious child: 早熟的儿童",
+        "display a precocious talent for music: 表现出不凡的音乐天赋"
+      ],
+      "etymology": "\"one whose occupation is the preparing and cooking of food,\"Old English coc,from Vulgar Latin *cocus \"cook,\"from Latin coquus,from coquere “to cook,prepare food,ripen,digest,turn over in the mind”from PIE root *pekw-\"to cook,ripen.\" 搭配：cook dinner.: 做晚饭 be cooking: 密谋；秘密策划 be cooking with gas: 如火如荼地进行；做得起劲 cook the books: 篡改；伪造 cook sb's goose: 毁掉某人成功的机会",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cookbook",
+      "phonetic": "'kukbuk",
+      "pos": "n.",
+      "definition": "烹饪书；烹饪菜谱8296",
+      "frequency": null,
+      "mnemonic": "coo k ( 烹 饪 ) +book ( 书籍) → 烹饪书；烹饪菜谱",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cooked",
+      "phonetic": "kukt",
+      "pos": "adj.",
+      "definition": "煮熟的7648 搭配：steam cooked: 蒸煮的",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cooker",
+      "phonetic": "'kuks",
+      "pos": "n.",
+      "definition": "( 带烤箱、燃气炉或电炉的)厨灶，炉具14139",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a gas cooker: 燃气厨灶",
+        "an electric cooker: 电炉灶"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cookie",
+      "phonetic": "'kuki",
+      "pos": "n.",
+      "definition": "小甜饼干3297",
+      "frequency": null,
+      "mnemonic": "cook (烘烤)+ -ie ( 名词后缀，小东西或人) →烘烤过的小东西 →小 甜饼干",
+      "collocations": [
+        "smart/tough cookie: 精明强干的人；坚强的人",
+        "chocolate chip cookies: 巧克力碎片曲奇"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cooking",
+      "phonetic": "'kukiŋ",
+      "pos": "n.",
+      "definition": "饭菜；烹饪adj. 用于烹饪的",
+      "frequency": 3299,
+      "mnemonic": null,
+      "collocations": [
+        "cooking apples: 做菜用的苹果",
+        "classic French cooking: 传统法国菜"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "uncooked",
+      "phonetic": "ʌn'kukt",
+      "pos": "adj.",
+      "definition": "未烹煮的；(食物)生的",
+      "frequency": 18180,
+      "mnemonic": null,
+      "collocations": [
+        "uncooked fruit and vegetables: 新鲜水果和生蔬菜"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "concoct",
+      "phonetic": "kən'kokt",
+      "pos": "vt.",
+      "definition": "虚构，杜撰(故事、借口等);调制(尤指食物或饮",
+      "frequency": null,
+      "mnemonic": "com-(=together : 一 起)+ coct-(=to cook,prepare food,ripen: 烹 调；准备食物；使成熟) →to boil together,prepare: 放在一起煎煮的 →调制食物→ 引申义为编造借口等",
+      "collocations": [
+        "concoct some elaborate story: 精心编造了一些谎言",
+        "concoct accounts: 造假帐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "concoction",
+      "phonetic": "kən'kokʃn",
+      "pos": "n.",
+      "definition": "( 古怪或少见的)调合物，调配品(尤指饮料或 药物)14962",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a concoction of cream and rum: 奶油和朗姆酒调制的怪味饮料"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "cuisine",
+      "phonetic": "kwi'zi:n",
+      "pos": "n.",
+      "definition": "烹饪；风味；(通常指昂贵的饭店中的)饭菜，菜肴",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": "\"manner or style of cooking,\"1786,from French cuisine\"style of cooking,\"originally“kitchen;cooking,cooked food”(12c.),from Late Latin cocina,earlier coquina \"kitchen,\"from Latin coquere “to cook,” from PIE root*pekw-“to cook,ripen.” 笔 记 区 搭配：Italian cuisine: 意大利式烹饪 the cuisine of Japan: 日式烹调",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "culinary",
+      "phonetic": "'kʌ lin(a)ri",
+      "pos": "adj.",
+      "definition": "烹调的；食物的7907",
+      "frequency": null,
+      "mnemonic": "culina( =kitchen,cooking stove,food : 厨房；厨灶；食物)+-ry ( 形\n容词后缀)→厨房的，有关烹饪艺术的→烹调的；食物的 搭配：culinary skills: 烹饪技能\nculinary delights of Mexico: 墨西哥的美味\nculinary arts: 烹饪艺术，厨艺",
+      "collocations": [],
+      "etymology": "1630s,\"of the kitchen;\"1650s,\"pertaining to the art of cookery,\"from Latin culinarius “pertaining to the kitchen”.",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "kiln",
+      "phonetic": "kiln",
+      "pos": "vt.",
+      "definition": "( 砖 ，石灰等的)窑；炉；干燥炉16904",
+      "frequency": null,
+      "mnemonic": "来自古英语cyln,cylen “kiln,oven,furnace for drying or baking=炉子； 窑炉”来自拉丁语culina “kitchen,cooking stove=厨房；厨灶”coquere “to cook=做饭；烹调”.",
+      "collocations": [
+        "rotary kiln: 回转窑；回转炉",
+        "cement kiln: 水泥窑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "kitchen",
+      "phonetic": "'kitʃin; -tʃ(a)n",
+      "pos": "n.",
+      "definition": "厨房1055",
+      "frequency": null,
+      "mnemonic": "来源于拉丁词coquo, 即“cook ( 厨 师 ) 。Coquo 派生为coquina,\ncocina和cucina, 古英语中变化为cycene, 到了中古英语时期，又变作 kitchene.",
+      "collocations": [
+        "everything but the kitchen sink: 过多的东西；大量的东西 kitchen table: 餐桌"
+      ],
+      "etymology": "公元12世纪， “room in which food is cooked,part of a building fitted out for cooking,”含义为“烹饪食物的房间，适合烹饪的建 筑物的一步分”。来自古英语cycene “kitchen=厨房”,来自古 日耳曼kokina, 也许借自民间拉丁文cocina( source also of French cuisine,Spanish cocina), 拉丁文coquina的变体 “kitchen=厨房”, coquinus “of cooks” 的阴性格，来自coquus “cook=厨师”,来自 coquere“tocook=烹饪”。",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "pumpkin",
+      "phonetic": "'pʌmpkin",
+      "pos": "n.",
+      "definition": "南瓜6231",
+      "frequency": null,
+      "mnemonic": "pump(=melon : 瓜)+ -kin ( 名词小词后缀) → 南瓜",
+      "collocations": [
+        "quarter the pumpkin: 把南瓜一切四块",
+        "pumpkin pie: 南瓜(馅)饼"
+      ],
+      "etymology": "1640s,alteration of pompone,pumpion “melon,pumpkin”(1540s),from Middle French pompon,from Latin peponem (nominative pepo)“melon,” from Greek pepon \"melon,\"probably originally“cooked (by the sun),” hence \"ripe;\"from peptein “to cook”.",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "ricotta",
+      "phonetic": "ri'kptə",
+      "pos": "n.",
+      "definition": "羊奶乳清干酪17985",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": "来自意大利语ricotta, 字面含义为”recooked= 再煮一便”。来自拉丁 语recoquere 的过去式的阴性形式，来自from re-(=again: 再 次 ) + coquere( to cook: 煮熟) → 再煮一遍(奶酪需要煮两遍： 一般生奶 酪制作过程为，将纯奶放置在热处，使其发酵。当鲜奶有酸味后，再 倒入锅中煮熬，待酸奶呈现出豆腐形状时，将其舀进纱布里，挤压除 去水分。然后，把奶渣放进模具或木盘中，或挤压成形，或用刀划成 方块，生奶酪就制做成功了。)",
+      "examples": [],
+      "rootHint": "bibe"
+    },
+    {
+      "word": "terra-cotta",
+      "phonetic": ",terə'kptə",
+      "pos": "n.",
+      "definition": "赤陶15904",
+      "frequency": null,
+      "mnemonic": "1722,来自意大利语terra cotta,字面含义为\"cooked earth=被煮熟的 土”,来自terra(=earth: 土 ) + cotta( =baked: 烤熟的) → 烤熟的 土→赤陶",
+      "collocations": [
+        "plants in terracotta pots: 赤陶花盆里的植物。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "bibe"
+    }
+  ]
+}

@@ -46,6 +46,7 @@ const COMMON_SUFFIXES = [
   'ar',
   'ur',
   'al',
+  'ics',
   'ic',
   'ess',
   'cess',
@@ -135,6 +136,8 @@ export function inferAffixFromLibrary(
   ].sort((a, b) => b.length - a.length);
 
   for (const form of forms) {
+    // 单字母 form（o- / e- / s- / a-）首字母匹配误报率高（optics→o-、outline→o-），不参与拼写推断
+    if (form.length < 2) continue;
     if (kind === 'prefix' && w.startsWith(form) && w.length > form.length + 2) {
       const item = findCategoryByForm(library, `${form}-`, kind);
       return { form, kind: 'prefix', meaning: item?.meaning };
@@ -213,60 +216,76 @@ export function seedAffixNoteForKind(
   pos?: string,
   libraryEntries?: AffixItem[],
 ): AffixNoteData {
+  // 用户已确认该词无此类词缀：不再推断回填
+  if (note.suppressed) return note;
+
   if (note.libraryRef && libraryEntries?.length) {
     const linked = libraryEntries.find((i) => i.id === note.libraryRef);
     if (linked && linked.kind === kind) return note;
   }
 
   if (note.current.trim() && storedFormMatchesKind(note.current, kind)) {
+    // 推断回填的形不是用户输入：不自动绑定、不提取释义
+    if (note.inferred) return note;
     if (libraryEntries?.length) {
       const match = findCategoryByForm(libraryEntries, note.current, kind);
       if (match) {
         return { ...note, libraryRef: match.id, knowledge: '' };
       }
     }
+    // 词缀形已有但含义为空：从助记中重新提取，避免把空含义写进词缀库
+    if (!note.knowledge.trim()) {
+      const sameFormHint = parseAffixHints(mnemonic)
+        .filter((h) => isPlausibleHint(h, kind))
+        .find((h) => normalizeAffixLabel(h.form) === normalizeAffixLabel(note.current));
+      if (sameFormHint?.meaning) {
+        return { ...note, knowledge: sameFormHint.meaning };
+      }
+    }
     return note;
   }
 
-  const isReseed = Boolean(note.current.trim() && !storedFormMatchesKind(note.current, kind))
-    || Boolean(note.libraryRef && libraryEntries?.find((i) => i.id === note.libraryRef)?.kind !== kind);
-
   const hints = parseAffixHints(mnemonic).filter((h) => isPlausibleHint(h, kind));
   let hint: AffixHint | undefined;
+  let trusted = false;
 
   if (libraryEntries?.length) {
     hint = inferAffixFromLibrary(word, kind, libraryEntries) ?? undefined;
+    trusted = Boolean(hint);
   }
   if (!hint) {
     hint = hints.find((h) => h.kind === kind);
+    trusted = Boolean(hint);
   }
   if (!hint) {
     hint = inferAffixesFromWord(word, pos).find((h) => h.kind === kind);
   }
 
-  if (!hint) return { ...note, libraryRef: undefined, current: '', knowledge: '' };
+  if (!hint) return { ...note, libraryRef: undefined, current: '', knowledge: '', inferred: undefined };
 
+  // 词缀库 / 助记确认的词缀：填释义并自动绑定（信息完整可见）。
+  // 单字母形（如 o- / e-）首字母匹配误报率高，只回填形；纯拼写推断同样只回填形。
+  // inferred 标记推断来源，避免残留形下次打开被当作「用户已有词缀形」而自动绑定。
   const next: AffixNoteData = {
     ...note,
     libraryRef: undefined,
     current: formatHintAsAffix(hint),
-    knowledge: isReseed
-      ? (hint.meaning ?? '')
-      : hint.meaning && !note.knowledge.trim()
-        ? hint.meaning
-        : note.knowledge,
+    knowledge: note.knowledge,
+    inferred: true,
   };
 
-  if (libraryEntries?.length) {
-    const match = findCategoryByForm(libraryEntries, next.current, kind);
-    if (match) {
-      next.libraryRef = match.id;
-      if (!next.knowledge.trim()) {
-        next.knowledge = '';
+  if (trusted && hint.form.length >= 2) {
+    if (!note.knowledge.trim() && hint.meaning) {
+      next.knowledge = hint.meaning;
+    }
+    if (libraryEntries?.length) {
+      const match = findCategoryByForm(libraryEntries, next.current, kind);
+      if (match) {
+        next.libraryRef = match.id;
+        next.inferred = undefined;
       }
     }
   }
-
   return next;
 }
 

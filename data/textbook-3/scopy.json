@@ -1,0 +1,183 @@
+{
+  "id": "scopy",
+  "source": "textbook-3",
+  "chapter": "7",
+  "chapterOrder": 107,
+  "titleZh": "",
+  "semanticLabel": "",
+  "meaningEn": null,
+  "meaningZh": null,
+  "roots": [
+    "scopy"
+  ],
+  "words": [
+    {
+      "word": "scope",
+      "phonetic": "skəup",
+      "pos": "n.",
+      "definition": "机会；施展余地；(活动、话题或作品的)范围3134",
+      "frequency": null,
+      "mnemonic": "scop(=spek-:to observe,to look,注 视 ，观察)+e→观察的范围 搭配：scope for sth/scope for sb to do sth: 做或实现某事的)机会，能力\nbusiness scope: 经营范围",
+      "collocations": [],
+      "etymology": "16世纪30年代，表示“范围，“行动的空间”,来自意大利语 scopo “ 目标，目的，对象，瞄准的东西，标记，目标”。来自拉丁 20000词汇巅峰速记 语scopus, 来自希腊语“目的，目标，关注对象；观察者，一个观察 者”。来自词根spek-, 表示to observe, 观察。从17世纪开始，开始 出现“心灵能达到的距离，视野所及的范围”的含义。",
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "microscope",
+      "phonetic": "'markrəskaup",
+      "pos": "n.",
+      "definition": "显微镜；(通常由于被认为存在问题)被仔细 研究8463",
+      "frequency": null,
+      "mnemonic": "micro- (尺寸或范围小，微观的，放大的)+scope ( 用于观看的设 备，来自晚期拉丁语-scopium)→ 微观、放大的、用于观察的设备→ 显微镜",
+      "collocations": [
+        "a microscope slide: 显微镜载片",
+        "under the microscope: 仔细研究"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "microscopic",
+      "phonetic": "markrə'skppik",
+      "pos": "adj.",
+      "definition": "极小的；微小的；微观的；极精细的；用 显微镜的；非常仔细的；一丝不苟的9818",
+      "frequency": null,
+      "mnemonic": "microscope(显微镜，去e)+-ic ( 形容词后缀，与……相似，与……\n有关)→与显微镜有关或像显微镜一样运作→微小的；极为精细的； 非常仔细的",
+      "collocations": [
+        "microscopic fibres of protein: 极为精密的蛋白质纤维 a microscopic creature/particle: 微生物；微粒",
+        "a microscopic analysis/examination: 显微镜分析/检查 释义：(ADJ) 极小的；微小的；微观的；极精细的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "telescope",
+      "phonetic": "t'elrskoup",
+      "pos": "n.",
+      "definition": "望远镜vt. ( 使)叠套缩短，叠缩2779",
+      "frequency": null,
+      "mnemonic": "tele-(=far in space or time: 时间或空间上远的)+-scope (用于观看 的设备)→用于在时间或空间上向远处观看的设备→望远镜",
+      "collocations": [
+        "astronomical telescope: 天文望远镜",
+        "telescope sth into sth: 缩短，精简，压缩(成……)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "telecommunication",
+      "phonetic": "'teliks,mju:ni'keifən",
+      "pos": "n.",
+      "definition": "电信；电讯；远程通信",
+      "frequency": null,
+      "mnemonic": "tele-(=far off,afar,at or to a distance: 远距离)+communication ( 交 流，沟通) →远距离交流 → 电信；远程通信",
+      "collocations": [
+        "the telecommunications industry: 电信业"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "telescopic",
+      "phonetic": "teli'skpprk",
+      "pos": "adj.",
+      "definition": "( 镜头、仪器)能望远的，望远镜的；能伸缩 的；套叠式的20189",
+      "frequency": null,
+      "mnemonic": "telecope (电信，电讯，去e)+-ic ( 形容词后缀，与……相似，\n与……有关)→能望远的；望远镜的；能伸缩的",
+      "collocations": [
+        "a rifle with a telescopic sight: 装有望远瞄准器的步枪 a telescopic aerial: 可伸缩天线"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "stethoscope",
+      "phonetic": "'steθəskəup",
+      "pos": "n.",
+      "definition": "听诊器18888",
+      "frequency": null,
+      "mnemonic": "stethos ( 来自希腊语Greek st e thos chest,breast: 胸，胸部)+-scope (来自希腊语skopion,来自skopein看，观察)→用于观察胸部(心脏 或呼吸)的设备→听诊器",
+      "collocations": [
+        "differential stethoscope: 鉴别听诊器"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "auspice",
+      "phonetic": "'ɔ :spis",
+      "pos": "n.",
+      "definition": "( 复数)(友好的)赞助，指导；预兆，尤指吉兆( a favorable omen); (古罗马以飞鸟行动为根据的)占卜13399",
+      "frequency": null,
+      "mnemonic": "au-(=awi-:bird , 鸟 ) +spic -(= to look at: 看 ) +e→ 根据观察飞鸟\n来预兆吉凶，通常为吉兆→引申义为赞助",
+      "collocations": [
+        "under the auspices of sb/sth: 在 … … 帮助(或支持、保护)下"
+      ],
+      "etymology": "古罗马的伊特鲁利亚人有通过观看飞鸟来占卜凶吉的做法。巫师用一 个魔杖( lituus) 在天空中画出一个区域，观察鸟在该区域的飞行， 通过鸟的飞行来判断吉凶。这种观鸟占卜法称为auspice, 源自拉丁语 avis(bird, 鸟 ) +specere(look, 看)。后来， auspice的含义演变为 占卜时取得的吉兆，并逐渐衍生出“赞助”的意思。执行观鸟占卜 的巫师叫做auspex, 也叫做augur, 所以观鸟占卜法也被称为augury 。 古罗马人就职时，往往会先进行占卜，占得吉兆才会举行就职仪 式。所以表示就职的单词是inaugurate, 源自拉丁语in(into, 入职) +augurare( augury, 占卜)构成，字面意思就是“占卜取得吉兆后 就职”。",
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "bishop",
+      "phonetic": "'brʃəp",
+      "pos": "n.",
+      "definition": "( 天主教、英国圣公会、东正教的)主教；(国际象棋中 的)象3469",
+      "frequency": null,
+      "mnemonic": "bi-(=epi-:over, 在……之上)+shop (= 希腊语skopos, 来自词根 spec-: to observe,观察) →one that watches,(spiritual overseer)在会众 之上的监督人→主教",
+      "collocations": [
+        "the Bishop of Oxford: 牛津区主教"
+      ],
+      "etymology": "英语单词bishop( 主教)来自希腊语episkopos, 本意为“看守、监督 人”,由epi(over)+skopos ( 看守、守护)组成。episkopos原本并 非宗教职务的称谓，而是世俗政府中的一种职位。基督教神职人员以 “人类灵魂的看护者”自居，因此便以episkopos作为高级神职人员的 称呼。进入英语后，被英国人掐头去尾，拼写变成了bisceop, 后来 又变成bishop。助记：bi-(=epi-:over, 在……之上)+shop (= 希腊语skopos, 来自词根 spec-: to observe,观察) →one that watches,(spiritual overseer)在会众 之上的监督人→主教搭配：the Bishop of Oxford: 牛津区主教释义：(N-COUNT;N-TITLE;N-VOC) 主教A bishop is a clergyman of high rank in the Roman Catholic,Anglican,and Orthodox churches.(N-COUNT)(国际象棋中的)象In chess a bishop is a piece that can be moved diagonally across the board on squares that are the same colour.archbishop [a:tf'brʃop; 'a:tʃ-] n. 天主教、东正教和英国国教的)大主教，主 教长13904助记：arch-(=chief: 主要的)+bishop(=overseer)→ ( 教堂里)主要的监 督人→大主教；主教长搭配：the Archbishop of Canterbury(= the head of the Church of England): 坎 特伯雷大主教(即英国国教领袖)Episcopal [r'piskop(a)l;e-] adj. ( 苏格兰和美国的)新教圣公会的；主教的8076词源：mid-15c.,\"belonging to or characteristic of bishops,”\"from Middle French épiscopal (14c.),from Late Latin episcopalis,from Latin episcopus “an overseer”(see bishop).Reference to a church governed by bishops is 1752.With a capital E-,the ordinary designation of the Anglican church in the U.S.and Scotland,so called because its bishops are superior to other clergy.Chambers'“Cyclopaedia”(1751)has episcopicide \"the murdering of a bishop.”助记：epi-(=over , 在……之上)+scop(=spec: 看)+-al ( 形容词后缀， 表示……的，具有……性质的)→与在(教堂)上层进行监督有关的 →主教的→后来演变为新教圣公会的· 90 ·笔 记 区 称呼。进入英语后，被英国人掐头去尾，拼写变成了bisceop, 后来 又变成bishop。",
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "archbishop",
+      "phonetic": "a:tf'brʃop; 'a:tʃ-",
+      "pos": "n.",
+      "definition": "天主教、东正教和英国国教的)大主教，主 教长13904",
+      "frequency": null,
+      "mnemonic": "arch-(=chief: 主要的)+bishop(=overseer)→ ( 教堂里)主要的监 督人→大主教；主教长",
+      "collocations": [
+        "the Archbishop of Canterbury(= the head of the Church of England): 坎 特伯雷大主教(即英国国教领袖)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "Episcopal",
+      "phonetic": "r'piskop(a)l;e-",
+      "pos": "adj.",
+      "definition": "( 苏格兰和美国的)新教圣公会的；主教的",
+      "frequency": null,
+      "mnemonic": "epi-(=over , 在……之上)+scop(=spec: 看)+-al ( 形容词后缀， 表示……的，具有……性质的)→与在(教堂)上层进行监督有关的 →主教的→后来演变为新教圣公会的",
+      "collocations": [
+        "episcopal power: 主教管辖权",
+        "the Episcopal Church (=the Anglican Church in Scotland and the US): (苏格兰和美国的)圣公会"
+      ],
+      "etymology": "mid-15c.,\"belonging to or characteristic of bishops,”\"from Middle French épiscopal (14c.),from Late Latin episcopalis,from Latin episcopus “an overseer”(see bishop).Reference to a church governed by bishops is 1752.With a capital E-,the ordinary designation of the Anglican church in the U.S.and Scotland,so called because its bishops are superior to other clergy.Chambers'“Cyclopaedia”(1751)has episcopicide \"the murdering of a bishop.”",
+      "examples": [],
+      "rootHint": "scopy"
+    },
+    {
+      "word": "espionage",
+      "phonetic": "'espiəna:3;- Id3",
+      "pos": "n.",
+      "definition": "间谍行为；谍报活动11482",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "scopy"
+    }
+  ]
+}

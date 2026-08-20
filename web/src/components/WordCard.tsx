@@ -1,19 +1,22 @@
 import { useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordAffixNotes, WordEntry } from '../types';
 import { copyText } from '../utils/clipboard';
-import { parseMnemonicChain } from '../utils/family';
-import { analyzeWordRoots, hasRootMarkers, rootsForWord } from '../utils/rootHighlight';
+import { analyzeWordRoots, rootsForWord } from '../utils/rootHighlight';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { AffixModal, affixButtonHasDot, affixButtonLabel } from './AffixModal';
 import { NoteEditor } from './NoteEditor';
-import { RootLegend, RootText } from './RootText';
+import { RootText } from './RootText';
 
-interface WordCardProps {
+const MD_PLACEHOLDER = '点击编辑（支持 **粗体** *斜体* `代码` 与 - 列表）';
+
+export interface WordCardProps {
   word: WordEntry;
   familyRoots: string[];
   textbook: string;
   familyId: string;
   personalNote: string;
+  mnemonicNote: string;
+  collocationsNote: string;
   affixNotes: WordAffixNotes;
   items: AffixItem[];
   getItem: (id: string) => AffixItem | undefined;
@@ -22,7 +25,10 @@ interface WordCardProps {
   onOpenAffixLibrary: () => void;
   defaultCollapsed?: boolean;
   defaultShowExtra?: boolean;
+  cardDomId?: string;
   onNote: (text: string) => void;
+  onMnemonicNote: (text: string) => void;
+  onCollocationsNote: (text: string) => void;
   onAffixNote: (kind: WordAffixKind, note: AffixNoteData) => void;
 }
 
@@ -57,6 +63,8 @@ export function WordCard({
   textbook,
   familyId,
   personalNote,
+  mnemonicNote,
+  collocationsNote,
   affixNotes,
   items,
   getItem,
@@ -65,19 +73,23 @@ export function WordCard({
   onOpenAffixLibrary,
   defaultCollapsed = false,
   defaultShowExtra = false,
+  cardDomId,
   onNote,
+  onMnemonicNote,
+  onCollocationsNote,
   onAffixNote,
 }: WordCardProps) {
   const [showExtra, setShowExtra] = useState(defaultShowExtra);
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
-  const chain = parseMnemonicChain(word.mnemonic);
-  const highlightRoots = rootsForWord(familyRoots, word.word, word.rootHint, word.mnemonic);
-  const rootAnalysis = analyzeWordRoots(familyRoots, word.word, word.rootHint, word.mnemonic);
+  const highlightRoots = rootsForWord(familyRoots, word.word, word.rootHint, mnemonicNote);
+  const rootAnalysis = analyzeWordRoots(familyRoots, word.word, word.rootHint, mnemonicNote);
+  const hasMnemonic = Boolean(mnemonicNote.trim());
+  const hasCollocations = Boolean(collocationsNote.trim());
   const hasExtra = Boolean(
-    word.mnemonic
-      || word.collocations.length
+    hasMnemonic
+      || hasCollocations
       || word.examples.length
       || word.etymology,
   );
@@ -99,7 +111,7 @@ export function WordCard({
 
   return (
     <>
-      <article className={`word-card ${defaultCollapsed ? 'is-highlighted' : ''}`} id={`word-${word.word}`}>
+      <article className={`word-card ${defaultCollapsed ? 'is-highlighted' : ''}`} id={cardDomId ?? `word-${word.word}`}>
         <header className="word-card-head">
           <span
             className={`word-head-word ${copied ? 'word-copied' : ''}`}
@@ -139,17 +151,15 @@ export function WordCard({
                 onOpen={() => setSuffixOpen(true)}
               />
             </div>
-            {hasExtra && (
-              <button
-                type="button"
-                className="word-extra-toggle"
-                onClick={() => setShowExtra((v) => !v)}
-                aria-expanded={showExtra}
-              >
-                {showExtra ? '收起' : '更多'}
-                <span className="chevron">{showExtra ? '▾' : '▸'}</span>
-              </button>
-            )}
+            <button
+              type="button"
+              className={`word-extra-toggle ${hasExtra ? 'has-content' : ''}`}
+              onClick={() => setShowExtra((v) => !v)}
+              aria-expanded={showExtra}
+            >
+              {showExtra ? '收起' : '更多'}
+              <span className="chevron">{showExtra ? '▾' : '▸'}</span>
+            </button>
           </div>
         </header>
 
@@ -167,57 +177,33 @@ export function WordCard({
           <h4>我的笔记</h4>
           <NoteEditor
             value={personalNote}
-            placeholder="点击这里记录你的理解（支持 **粗体** *斜体* `代码` 与 - 列表）"
+            placeholder={MD_PLACEHOLDER}
             onChange={onNote}
             minRows={2}
           />
         </section>
 
-        {showExtra && hasExtra && (
+        {showExtra && (
           <div className="word-card-extra">
-            {word.mnemonic && (
-              <section className="reason-block">
-                <div className="reason-block-head">
-                  <h4>推理链</h4>
-                  {hasRootMarkers(word.mnemonic, familyRoots, highlightRoots) && (
-                    <RootLegend
-                      catalogRoots={familyRoots}
-                      matchRoots={highlightRoots}
-                      text={word.mnemonic}
-                    />
-                  )}
-                </div>
-                {chain.parts.length > 1 ? (
-                  <ol className="reason-steps">
-                    {chain.parts.map((p) => (
-                      <li key={p}>
-                        <RootText text={p} catalogRoots={familyRoots} matchRoots={highlightRoots} />
-                      </li>
-                    ))}
-                    {chain.conclusion && (
-                      <li className="reason-result">
-                        <RootText text={chain.conclusion} catalogRoots={familyRoots} matchRoots={highlightRoots} />
-                      </li>
-                    )}
-                  </ol>
-                ) : (
-                  <p>
-                    <RootText text={word.mnemonic} catalogRoots={familyRoots} matchRoots={highlightRoots} />
-                  </p>
-                )}
-              </section>
-            )}
+            <section className="word-card-notes editable-note-block">
+              <h4>推理链</h4>
+              <NoteEditor
+                value={mnemonicNote}
+                placeholder={MD_PLACEHOLDER}
+                onChange={onMnemonicNote}
+                minRows={2}
+              />
+            </section>
 
-            {word.collocations.length > 0 && (
-              <section>
-                <h4>搭配</h4>
-                <ul className="plain-list">
-                  {word.collocations.map((c) => (
-                    <li key={c}>{c}</li>
-                  ))}
-                </ul>
-              </section>
-            )}
+            <section className="word-card-notes editable-note-block">
+              <h4>搭配</h4>
+              <NoteEditor
+                value={collocationsNote}
+                placeholder={MD_PLACEHOLDER}
+                onChange={onCollocationsNote}
+                minRows={2}
+              />
+            </section>
 
             {word.examples.length > 0 && (
               <section>

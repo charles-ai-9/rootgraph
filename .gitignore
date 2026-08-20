@@ -13,3 +13,12 @@ web/dist/
 
 # Local parse scratch
 /tmp/
+
+# SQLite 分析库（可重建，不入库）
+data/rootgraph.db
+
+# OCR 临时产物
+.ocr-tmp/
+.ocr-tmp-test/
+# 数据备份
+backups/

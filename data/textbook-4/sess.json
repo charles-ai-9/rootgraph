@@ -1,0 +1,578 @@
+{
+  "id": "sess",
+  "source": "textbook-4",
+  "chapter": "18",
+  "chapterOrder": 118,
+  "titleZh": "坐(首辅音相同",
+  "semanticLabel": "坐(首辅音相同",
+  "meaningEn": "坐的含义，是来源于单词sit",
+  "meaningZh": "坐(首辅音相同",
+  "roots": [
+    "sess"
+  ],
+  "words": [
+    {
+      "word": "assess",
+      "phonetic": "a'ses",
+      "pos": "vt.",
+      "definition": "评估；估算2059",
+      "frequency": null,
+      "mnemonic": "as-( 加强语气)+sess(=sit: 座；原指坐在法官旁边“评定”其资产的人 员，从而引申出“评定；评价”的含义)→评估；估算",
+      "collocations": [
+        "assess their language skills: 评价他们的语言技能"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "assessor",
+      "phonetic": "ə 'sesə",
+      "pos": "n.",
+      "definition": "顾问；(财产、费用等的)估价员；(考试等的)考核人",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "external assessors ofthe exam results: 考试成绩的校外考核人"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "assessment",
+      "phonetic": "ə 'sesmənt",
+      "pos": "n.",
+      "definition": "评估；估算1561",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "assessment of the damage to the natural environment: 自然环境破坏的 评估",
+        "tax assessment: 税金估算"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "reassess",
+      "phonetic": "ri:a'ses",
+      "pos": "vt.",
+      "definition": "重新评价14601",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "reassess the situation: 对情况重新评价"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "reassessment",
+      "phonetic": ",riə'sesmənt",
+      "pos": "n.",
+      "definition": "重新评价19846",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a total reassessment of: 对……重新评价"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "obsess",
+      "phonetic": "əb'ses",
+      "pos": "vt.",
+      "definition": "&vi. 使迷恋；困扰；心神不宁15696",
+      "frequency": null,
+      "mnemonic": "ob-(=against : 反对)+-sess(=to sit: 坐)→ (因为外部因素)使某人坐不住 的→ 困扰；使迷恋；心神不宁",
+      "collocations": [
+        "obsess about food: 对事物念念不忘",
+        "obsess about her weight: 担心她的体重笔 记 区",
+        "obsess about her weight: 担心她的体重"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "obsessed",
+      "phonetic": "ə b'sest",
+      "pos": "adj.",
+      "definition": "受困扰的；对……痴迷的6535 搭配：be obsessed with gangster movies: 迷上了警匪片",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "obsession",
+      "phonetic": "əb'seʃ(o)n",
+      "pos": "n.",
+      "definition": "迷恋；使人痴迷的人(或物)5628",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "border on obsession: 近乎痴迷(的地步)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "obsessive",
+      "phonetic": "əb'sesiv",
+      "pos": "adj.",
+      "definition": "痴迷的 n. 痴迷者10446",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "be obsessive about motor racing: 痴迷于赛车"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "obsessively",
+      "phonetic": "əb'sesivli",
+      "pos": "adv.",
+      "definition": "过分地；着迷地，着魔似地18638",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "couldn't help worrying obsessively about: 禁不住着魔般地担忧 ……"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "possess",
+      "phonetic": "pə'zes",
+      "pos": "vt.",
+      "definition": "拥有；具有(特质);支配2864",
+      "frequency": null,
+      "mnemonic": "pos-(=poti-=powerful,able: 强大的；有能力的)+-sess (坐)→有能力坐\n在某个位置上的，有能力支配的→拥有；具有(特质);支配 搭配：possess oneself: 自制；镇静\npossess(拥有)+-ion(名词后缀)→拥有的东西→拥有；财产",
+      "collocations": [
+        "阅读难点：trade [treid] n.行业，贸易all trades of: 各行各业的",
+        "a pursuit of power and possessions: 追求权力和财富",
+        "Possession is nine tenths ofthe law: 现实占有，败一胜九；占有者在 诉讼中总占上风"
+      ],
+      "etymology": null,
+      "examples": [
+        "Certainly more people fail because they do not know the requirements of being an employee than because they do not adequately possess the skills of their trade. 当然，更多的人失败更多是因为他们不知道如何去当一 个员工，而不是因为他们拥有的该行业的技能不够。",
+        "很多人面试失败更多是因为他们不知道如何去当一个员工，而不 是因为他们拥有的该行业的技能不够。\nA great many people fail in the interview because they do not know the requirements of being an employee than because they do not adequately possess the skills of their trade."
+      ],
+      "rootHint": "sess"
+    },
+    {
+      "word": "session",
+      "phonetic": "'seʃ(a)n",
+      "pos": "n.",
+      "definition": "开庭；会议； 一场(活动)1553",
+      "frequency": null,
+      "mnemonic": "sess-(=sit: 坐下)+-ion(名词后缀)→在一段时间内坐下参加某活动→开 庭；会议；一场(活动)",
+      "collocations": [
+        "emergency session: 紧急会议",
+        "a photo/recording/training,etc. session: 一次摄影，一场录音，一堂训 练课等"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "cathedral",
+      "phonetic": "kə'θi:dr(a)l",
+      "pos": "n.",
+      "definition": "大教堂；主教座堂7511",
+      "frequency": null,
+      "mnemonic": "cat(=cata-=down: 向下)+hedra(=seat,chair: 座位；椅子)+1→ 向下坐在\n椅子上→主教所坐的地方，圣座→主教做堂 搭配：St.Paul's Cathedral: 圣保罗大教堂",
+      "collocations": [],
+      "etymology": "来自希腊语kathedra“seat,bench” 。 来源于拉丁语cathedra: 坐位；椅 子 。cathedral 缩写自cathedral church,其含义为“摆放有主教座位的 教堂”。主教座堂因是教区主教的牧会场所，因而成为教区中心，其 建筑大多比堂区的教堂更加雄伟壮观。",
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "site",
+      "phonetic": "sart",
+      "pos": "n.",
+      "definition": "地点；场所；网站vt. 使坐落于533",
+      "frequency": null,
+      "mnemonic": "sit (坐，位于)+e→ 场所，地点(即：坐落的地方) 搭配：web sites: 网站historical sites: 名胜古迹\non site/off site: 在现场/不在现场",
+      "collocations": [],
+      "etymology": null,
+      "examples": [
+        "House had to be sited“within easy walking distance of the railroad station,\" as some old residents would point out. 房屋选址应该在离铁路 站点容易走到的距离之内，正如一些老的居民所指出的。"
+      ],
+      "rootHint": "sess"
+    },
+    {
+      "word": "on-site",
+      "phonetic": "pn-sart",
+      "pos": "adj.",
+      "definition": "现场的9258 搭配：on-site inspection: 现场检查",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "website",
+      "phonetic": "'websart",
+      "pos": "n.",
+      "definition": "网站5003",
+      "frequency": null,
+      "mnemonic": "web(网络)+site(场所)→ 网络所在的场所→ 网站",
+      "collocations": [
+        "website design: 网站设计"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "campsite",
+      "phonetic": "'kæmpsart",
+      "pos": "n.",
+      "definition": "露营地11684",
+      "frequency": null,
+      "mnemonic": "camp(帐篷；度假)+site (地点) →度假地点 →露营地",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "situate",
+      "phonetic": "'sitfuert;- tju-",
+      "pos": "vt.",
+      "definition": "使位于；使坐落于6501",
+      "frequency": null,
+      "mnemonic": "sit- (坐)+u(连接符号)+-ate(使动词) →使位于；使坐落于",
+      "collocations": [
+        "be situated at home: 位于家里"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "situation",
+      "phonetic": "srtju'erʃ(an",
+      "pos": "n.",
+      "definition": "情况；形势549",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the travel situation: 旅行条件",
+        "control the situation: 控制局势"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "situational",
+      "phonetic": "sitju'erʃənəl",
+      "pos": "adj.",
+      "definition": "情景的12090 搭配：situational dialogues: 情景会话",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "sitcom",
+      "phonetic": "'srtkom",
+      "pos": "abbr",
+      "definition": ": 情景喜剧7787 助记：sitcom 为situation comedy的简写",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "domestic sitcom: 国产情景喜剧"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "provost",
+      "phonetic": "'prpvəst",
+      "pos": "n.",
+      "definition": "大学院长；大学教务长；(苏格兰的)市长， 镇长20101",
+      "frequency": null,
+      "mnemonic": "来自pro-(=before: 向前；在前)+-vost(=post=place: 放置，词源同 position)→placed\nbefore,in charge of: 放置在前面；负责，主管(的人)→后用于称呼学 院院长；教务长；市长(镇长)",
+      "collocations": [
+        "vice-provost of University College London: 伦敦大学学院的副教务长"
+      ],
+      "etymology": "来自古法语provost, 来自拉丁语propositus/praepositus=a chief, perfect: 首长；长官",
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "chair",
+      "phonetic": "tfeə",
+      "pos": "n.",
+      "definition": "椅子；大学教授；主席 vt.担任(会议、委员会)主席949 词源：来源于拉丁语cathedra: 坐位；椅子。",
+      "frequency": null,
+      "mnemonic": "chair=preside over: 主持",
+      "collocations": [
+        "chair a meeting: 担任……会议主席"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "chairman",
+      "phonetic": "'tfeəmən",
+      "pos": "n.",
+      "definition": "( 委员会、组织机构、公司的)主席；(会议、辩论的) 主持人1379",
+      "frequency": null,
+      "mnemonic": "chair (担任主席)+man(人) →担任主席的人 →主席，主持人",
+      "collocations": [
+        "board chairman: 董事长"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "chairmanship",
+      "phonetic": "'tfermənfip",
+      "pos": "n.",
+      "definition": "主席职位；主席任期18606",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "under the chairmanship of: 由……担任主席"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "chairperson",
+      "phonetic": "'tfeaps:s(3)n",
+      "pos": "n.",
+      "definition": "(会议)主持人；(委员会、组织的)主席17494 搭配：the chairperson of the safety committee: 安全委员会主席",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "size",
+      "phonetic": "sarz",
+      "pos": "n.",
+      "definition": "大小；尺寸；巨大v.按大小排列753",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the size of the task: 任务很重",
+        "size up: 估计；品评"
+      ],
+      "etymology": "名词起源：13世纪，size指一项固定支付或税收数量的法令，来自古法 语sise, 为 assise的缩写，assise的含义为“session,assessment,regulation, manner”, 含义为“会议，评估，管理，态度”。动词起源：14世纪 size的含义为“调节，规定”。含义为“使成为特定大小”的含义为16 世纪。根据尺寸进行分类的含义首先出现于1630年代。",
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "sizable",
+      "phonetic": "'sarzəbl",
+      "pos": "adj.",
+      "definition": "相当大的8762",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a sizable piece of land: 一块相当大的土地"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "downsize",
+      "phonetic": "'daunsarz",
+      "pos": "vt.",
+      "definition": "&vi. 使缩小规模10838",
+      "frequency": null,
+      "mnemonic": "down ( 下降)+size (规模) →规模下降 →使缩小规模",
+      "collocations": [
+        "downsize their factories: 缩小他们工厂的规模"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "downsizing",
+      "phonetic": "'daun,sarziŋ",
+      "pos": "n.",
+      "definition": "缩小规模18137",
+      "frequency": null,
+      "mnemonic": "full(完整的)+size (尺寸) →完整的尺寸 →原尺寸的，和原物一样大小的",
+      "collocations": [
+        "a trend toward downsizing: 规模缩小的趋势"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "life-size",
+      "phonetic": "'laifsaiz",
+      "pos": "adj.",
+      "definition": "与真人(或实物)一样大小的16097",
+      "frequency": null,
+      "mnemonic": "life (生物)+size (尺寸)→of the same size as the (living)original:与原始 生物尺寸一样的→与真人(或实物)一样大小的\nmedium(中等)+size(型号)→ 中等型号的→ 中号的",
+      "collocations": [
+        "a life-size statue: 与真人一样大的雕像",
+        "a medium size company: 一个中等规模的公司"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "medium-sized",
+      "phonetic": "'mi:diam'saizd",
+      "pos": "adj.",
+      "definition": "中型的；中等大小的13583",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a medium-sized saucepan: 中号炖锅"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "mid-size",
+      "phonetic": "'midsarz",
+      "pos": "adj.",
+      "definition": "中等大小的15621",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "mid-size retail chains: 中等规模的零售连锁店",
+        "a mid-size European city: 个中等大小的欧洲城市"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "soil",
+      "phonetic": "soil",
+      "pos": "n.",
+      "definition": "土壤；领土v.弄 脏",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "poor/dry/acid/sandy/fertile,etc.soil: 贫瘠、干旱、酸性、沙质、肥沃 等的土壤",
+        "soil the hands: 弄脏了手"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "soot",
+      "phonetic": "sut",
+      "pos": "n.",
+      "definition": "煤烟灰15123",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a wall blackened by soot: 一堵被煤烟灰熏黑了的墙"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "supersede",
+      "phonetic": ",su:pə'si:d;sju:-",
+      "pos": "vt.",
+      "definition": "取代；替代(已非最佳选择或已过时的事物)",
+      "frequency": null,
+      "mnemonic": "super-(=above: 在上面)+-sed(=to sit: 坐)+e→sit on top of: 坐在 …… 上面→ 引申词义取代，替代",
+      "collocations": [
+        "be superseded by: 被……所取代"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "nest",
+      "phonetic": "nest",
+      "pos": "n.",
+      "definition": "(鸟类的)巢 vi. 筑巢 n.(昆虫或其他动物的)巢穴4174",
+      "frequency": null,
+      "mnemonic": "即坐的地方，落脚的地方，引申词义鸟巢，鸟窝。",
+      "collocations": [
+        "an eagle's nest on the rocks: 岩石上的一个鹰巢",
+        "nest in close proximity to each other: 彼此紧挨着筑巢"
+      ],
+      "etymology": "Middle English nesten,from Old English nistan “to build (a bird's)nests, to make or live in a nest”.",
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "nestle",
+      "phonetic": "'nes(a)l",
+      "pos": "vt.",
+      "definition": "&vi. 舒服地靠在；依偎 vi. 位处，坐落(于安全、隐蔽之处)",
+      "frequency": null,
+      "mnemonic": "nest(鸟巢)+-le(名词后缀，表场所)→鸟儿舒适地躺在鸟巢里→ 比喻舒 服地靠在，依偎；坐落(于安全、隐蔽之处)",
+      "collocations": [
+        "nestle against his chest: 依偎在他的怀里",
+        "nestle snugly at: 舒适地依偎在……地方"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "niche",
+      "phonetic": "ni:[;nitʃ ",
+      "pos": "n.",
+      "definition": "( 有特定的要求、顾客群和产品的)专营市场 adj. 专营市场 的；合适的职位5902",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": "1610s,\"shallow recess in a wall\",指(山坡或峭壁上)天然凹陷处。来自 niche “recess(for a dog),kennel”(14c.), 指狗窝。另有说法来自古法语 派生自nichier \"to nestle,nest,build a nest\",指巢，筑巢的一个名词。 搭配：find a niche in the toy market: 在玩具市场找到了领地",
+      "examples": [],
+      "rootHint": "sess"
+    },
+    {
+      "word": "nick",
+      "phonetic": "nik",
+      "pos": "vt.",
+      "definition": "划伤n. 划痕；别名18744",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "nick the rear bumper of the car: 蹭到了那辆车的后保险杠 nick the skin and draw blood: 划破皮肤，引起出血",
+        "nick name: 绰号"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sess"
+    }
+  ]
+}

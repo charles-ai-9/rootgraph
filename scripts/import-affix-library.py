@@ -174,8 +174,8 @@ def normalize_forms_for_kind(forms: list[str], kind: str) -> list[str]:
         norm = normalize_form(raw, kind)
         if not norm or norm in seen:
             continue
-        # 保留 o??- / i??- 独立条目；其余 ?? 变体跳过
-        if kind == "prefix" and "??" in norm and norm not in ("o??-", "i??-"):
+        # 保留 i??- 独立条目；其余 ?? 变体跳过（o??- 已确认是噪声，删除）
+        if kind == "prefix" and "??" in norm and norm not in ("i??-",):
             continue
         seen.add(norm)
         out.append(norm)

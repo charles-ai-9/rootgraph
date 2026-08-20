@@ -1,6 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordEntry } from '../types';
-import { hasAffixNoteContent } from '../types';
+import { emptyAffixNote, hasAffixNoteContent } from '../types';
 import { findWordsByAffix, type AffixScope, useWordIndex } from '../hooks/useWordIndex';
 import {
   findItemByForm,
@@ -15,10 +15,13 @@ import {
   hasInferredAffix,
   highlightWordAffix,
   hintSummaryForKind,
+  normalizeAffixLabel,
   seedAffixNoteForKind,
 } from '../utils/affixNote';
-import { parseAffixFormsLine } from '../utils/affixFormDisplay';
+import { parseAffixHints } from '../utils/affixHint';
+import { normalizeAffixForm, parseAffixFormsLine } from '../utils/affixFormDisplay';
 import { AffixGroupFields } from './AffixGroupFields';
+import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import { NoteEditor } from './NoteEditor';
 
 interface AffixModalProps {
@@ -39,7 +42,7 @@ interface AffixModalProps {
 }
 
 const KIND_LABEL: Record<WordAffixKind, string> = { prefix: '前缀', suffix: '后缀' };
-const KIND_PLACEHOLDER: Record<WordAffixKind, string> = { prefix: 'pro-', suffix: '-cess' };
+const KIND_PLACEHOLDER: Record<WordAffixKind, string> = { prefix: '如：in-、pre-', suffix: '如：-tion、-able' };
 const SCOPE_LABEL: Record<AffixScope, string> = {
   family: '本章',
   textbook: '本教材',
@@ -70,7 +73,10 @@ export function AffixModal({
   const [scope, setScope] = useState<AffixScope>('textbook');
   const [lookup, setLookup] = useState<string | null>(null);
   const [showPicker, setShowPicker] = useState(false);
+  const [pickerQuery, setPickerQuery] = useState('');
   const [groupDraft, setGroupDraft] = useState<AffixGroupDraft | null>(null);
+  const [libraryOpen, setLibraryOpen] = useState(false);
+  const [clearedSnapshot, setClearedSnapshot] = useState<AffixNoteData | null>(null);
 
   const linked = note.libraryRef ? getItem(note.libraryRef) : undefined;
   const effective = resolveAffixNote(note, linked);
@@ -108,11 +114,14 @@ export function AffixModal({
   useEffect(() => {
     if (!open) return;
     setShowPicker(false);
+    setPickerQuery('');
+    setClearedSnapshot(null);
     const seeded = seedAffixNoteForKind(kind, note, word.word, word.mnemonic, word.pos, items);
     if (
       seeded.current !== note.current
       || seeded.knowledge !== note.knowledge
       || seeded.libraryRef !== note.libraryRef
+      || seeded.inferred !== note.inferred
     ) {
       onChange(seeded);
     }
@@ -136,6 +145,15 @@ export function AffixModal({
     return findWordsByAffix(index, parsed.form, kind, scope, { textbook, familyId }, 30);
   }, [lookup, effective.current, ready, index, scope, textbook, familyId, kind]);
 
+  /** 助记中明确标注了该词缀的词才可信；其余仅拼写匹配，可能不含该词缀 */
+  const { verified, unverified } = useMemo(() => {
+    const target = normalizeAffixLabel(lookup ?? effective.current);
+    if (!target) return { verified: related, unverified: [] };
+    const verified = related.filter((row) => row.word === word.word
+      || parseAffixHints(row.mnemonic).some((h) => h.kind === kind && normalizeAffixLabel(h.form) === target));
+    return { verified, unverified: related.filter((row) => !verified.includes(row)) };
+  }, [related, lookup, effective.current, kind, word.word]);
+
   const affixLabels = useMemo(() => {
     if (linked) return getItemGroup(linked, items).map((i) => i.name);
     const label = (effective.current || note.current).trim();
@@ -147,21 +165,69 @@ export function AffixModal({
     [word.word, affixLabels, kind],
   );
 
-  const updateLocal = (field: keyof AffixNoteData, value: string) => onChange(patch(note, field, value));
+  const currentForm = (note.current || effective.current).trim();
+  const isEmptySeed = !isLinked && !currentForm;
+
+  const isNewAffix = useMemo(() => {
+    if (isLinked) return false;
+    const form = (note.current || effective.current).trim();
+    if (!form) return false;
+    return !findItemByForm(items, form, kind);
+  }, [isLinked, note.current, effective.current, items, kind]);
+
+  /** 用户主动编辑/选择即视为撤销「无词缀」/「推断」标记 */
+  const updateLocal = (field: keyof AffixNoteData, value: string) =>
+    onChange({ ...patch(note, field, value), suppressed: undefined, inferred: undefined });
 
   const handleReference = (item: AffixItem) => {
     onChange({
       libraryRef: item.id,
-      current: note.current.trim() || item.name,
+      current: item.name,
       variants: note.variants,
-      knowledge: '',
+      knowledge: item.meaning,
       evolution: note.evolution,
+      suppressed: undefined,
+      inferred: undefined,
     });
     setShowPicker(false);
+    setPickerQuery('');
     setLookup(item.name);
   };
 
-  const handleUnlink = () => onChange({ ...note, libraryRef: undefined });
+  /** 解除引用 / 无此词缀：清空全部字段并标记已确认，自动推断不再回填 */
+  const handleClearAffix = () => {
+    setClearedSnapshot(note);
+    onChange({ ...emptyAffixNote(), suppressed: true });
+    setShowPicker(false);
+    setPickerQuery('');
+    setLookup(null);
+  };
+
+  const handleUndoClear = () => {
+    if (!clearedSnapshot) return;
+    onChange({ ...clearedSnapshot, suppressed: undefined });
+    setLookup(clearedSnapshot.current.trim() || null);
+    setClearedSnapshot(null);
+  };
+
+  /** picker 搜索无结果时，直接新建该词缀并绑定 */
+  const handleCreateAndBind = () => {
+    const form = normalizeAffixForm(pickerQuery.trim(), kind);
+    if (!form) return;
+    const saved = onSaveToLibrary({ current: form, knowledge: '', variants: '', evolution: '' });
+    onChange({
+      libraryRef: saved.id,
+      current: saved.name,
+      variants: note.variants,
+      knowledge: saved.meaning,
+      evolution: note.evolution,
+      suppressed: undefined,
+      inferred: undefined,
+    });
+    setShowPicker(false);
+    setPickerQuery('');
+    setLookup(saved.name);
+  };
 
   const commitToLibrary = (patch: { forms?: string[]; meaning?: string }) => {
     if (!groupDraft?.rootId) return;
@@ -183,7 +249,9 @@ export function AffixModal({
 
   const tryAutoLink = (label: string) => {
     const match = findItemByForm(items, label, kind);
-    if (match) onChange({ ...note, libraryRef: match.id, current: label, knowledge: '' });
+    if (match) {
+      onChange({ ...note, libraryRef: match.id, current: label, knowledge: '', suppressed: undefined, inferred: undefined });
+    }
   };
 
   if (!open) return null;
@@ -206,23 +274,43 @@ export function AffixModal({
             </span>
             <span className="affix-modal-sub">{KIND_LABEL[kind]}</span>
           </h2>
-          <button type="button" className="affix-modal-close" onClick={onClose} aria-label="关闭">×</button>
+          <div className="affix-modal-header-actions">
+            {onOpenLibrary && (
+              <button type="button" className="affix-action-btn subtle" onClick={() => setLibraryOpen(true)}>词缀库管理</button>
+            )}
+            <button type="button" className="affix-modal-close" onClick={onClose} aria-label="关闭">×</button>
+          </div>
         </header>
 
         <div className="affix-modal-body compact">
-          <div className="affix-modal-actions">
-            {!isLinked && (
+          {clearedSnapshot && (
+            <div className="affix-cleared-hint">
+              <span>
+                已标记：{word.word} 暂未识别到{KIND_LABEL[kind]}，自动推断已停止
+              </span>
+              <button type="button" className="affix-cleared-undo" onClick={handleUndoClear}>撤销</button>
+            </div>
+          )}
+
+          {!isLinked && (
+            <div className="affix-modal-actions">
               <button type="button" className="affix-action-btn" onClick={() => setShowPicker((v) => !v)}>引用词缀库</button>
-            )}
-            {!isLinked && (
-              <button type="button" className="affix-action-btn" onClick={handleSave}>
-                保存到词缀库
+              {currentForm && (
+                <button type="button" className="affix-action-btn subtle" onClick={handleClearAffix}>
+                  无此{KIND_LABEL[kind]}
+                </button>
+              )}
+              <button
+                type="button"
+                className={`affix-action-btn ${isNewAffix ? 'primary' : ''}`}
+                onClick={handleSave}
+                disabled={!currentForm}
+                title={currentForm ? undefined : '先输入词缀形'}
+              >
+                {isNewAffix ? '新建并绑定' : '保存到词缀库'}
               </button>
-            )}
-            {onOpenLibrary && (
-              <button type="button" className="affix-action-btn subtle" onClick={onOpenLibrary}>词缀库管理</button>
-            )}
-          </div>
+            </div>
+          )}
 
           {isLinked && linked && groupDraft && (
             <div className="affix-linked-card affix-linked-editable">
@@ -232,7 +320,10 @@ export function AffixModal({
                   <span className="affix-linked-name">{linked.name}</span>
                   {linked.pos && <span className="affix-linked-pos">{linked.pos}</span>}
                 </div>
-                <button type="button" className="affix-ref-unlink" onClick={handleUnlink}>解除引用</button>
+                <div className="affix-linked-actions">
+                  <button type="button" className="affix-ref-swap" onClick={() => setShowPicker((v) => !v)}>{showPicker ? '收起' : '更换'}</button>
+                  <button type="button" className="affix-ref-unlink" onClick={handleClearAffix}>解除引用</button>
+                </div>
               </div>
               <AffixGroupFields
                 key={groupDraft.rootId ?? groupRoot?.id}
@@ -250,8 +341,13 @@ export function AffixModal({
           {!isLinked && (
             <>
               {mnemonicHint && <p className="affix-chalk-hint">助记：{mnemonicHint}</p>}
+              {isEmptySeed && (
+                <p className="affix-empty-hint">
+                  未检测到 {word.word} 的{KIND_LABEL[kind]}。输入你识别到的{KIND_LABEL[kind]}形，或点「引用词缀库」从已有条目中选择。
+                </p>
+              )}
               <div className="affix-chalk-row is-current">
-                <span className="affix-chalk-prefix">本词</span>
+                <span className="affix-chalk-prefix">词缀形</span>
                 <input
                   className="affix-chalk-input is-highlight"
                   value={note.current}
@@ -259,31 +355,75 @@ export function AffixModal({
                   onChange={(e) => { updateLocal('current', e.target.value); setLookup(e.target.value); }}
                   onBlur={() => note.current.trim() && tryAutoLink(note.current)}
                 />
+                {currentForm && (
+                  isNewAffix
+                    ? <span className="affix-lib-state-tag not-in">未入库</span>
+                    : <span className="affix-lib-state-tag in">已在库中</span>
+                )}
               </div>
               <div className="affix-chalk-field">
                 <span className="affix-chalk-label-text">含义</span>
                 <NoteEditor value={note.knowledge} placeholder="含义" onChange={(v) => updateLocal('knowledge', v)} minRows={2} />
               </div>
+              {isNewAffix && note.current.trim() && (
+                <p className="affix-new-hint">
+                  词缀库中暂无「{note.current.trim()}」，点击「新建并绑定」即可创建并关联到 {word.word}
+                </p>
+              )}
+              {isEmptySeed && (
+                <button type="button" className="affix-empty-exit" onClick={() => { onChange({ ...note, suppressed: true }); onClose(); }}>
+                  该词无{KIND_LABEL[kind]}，关闭
+                </button>
+              )}
             </>
           )}
 
-          {showPicker && !isLinked && (
+          {showPicker && (
             <div className="affix-ref-picker">
-              {ranked.slice(0, 20).map((item) => {
-                const group = getItemGroup(item, items);
+              <input
+                className="affix-ref-picker-search"
+                type="text"
+                placeholder="搜索词缀形或释义…"
+                value={pickerQuery}
+                onChange={(e) => setPickerQuery(e.target.value)}
+                autoFocus
+              />
+              {(() => {
+                const q = pickerQuery.trim().toLowerCase();
+                const filtered = q
+                  ? ranked.filter((item) => item.name.toLowerCase().includes(q) || item.meaning.toLowerCase().includes(q))
+                  : ranked;
+                const candidateForm = normalizeAffixForm(pickerQuery.trim(), kind);
+                const canCreate = Boolean(candidateForm) && !findItemByForm(items, pickerQuery.trim(), kind);
                 return (
-                  <button key={item.id} type="button" className="affix-ref-option" onClick={() => handleReference(item)}>
-                    <span className="affix-ref-option-title">
-                      {item.name}
-                      {item.pos && <em>{item.pos}</em>}
-                    </span>
-                    <span className="affix-ref-option-meta">{item.meaning}</span>
-                    {group.length > 1 && (
-                      <span className="affix-ref-option-group">{group.map((g) => g.name).join(' · ')}</span>
+                  <>
+                    {filtered.slice(0, 20).map((item) => {
+                      const group = getItemGroup(item, items);
+                      return (
+                        <button key={item.id} type="button" className="affix-ref-option" onClick={() => handleReference(item)}>
+                          <span className="affix-ref-option-title">
+                            {item.name}
+                            {item.pos && <em>{item.pos}</em>}
+                          </span>
+                          <span className="affix-ref-option-meta">{item.meaning}</span>
+                          {group.length > 1 && (
+                            <span className="affix-ref-option-group">{group.map((g) => g.name).join(' · ')}</span>
+                          )}
+                        </button>
+                      );
+                    })}
+                    {canCreate && (
+                      <button type="button" className="affix-ref-option affix-ref-option-create" onClick={handleCreateAndBind}>
+                        <span className="affix-ref-option-title">新建「{candidateForm}」并绑定</span>
+                        <span className="affix-ref-option-meta">词缀库中暂无此{KIND_LABEL[kind]}，点击创建并关联到 {word.word}</span>
+                      </button>
                     )}
-                  </button>
+                    {filtered.length === 0 && !canCreate && (
+                      <p className="affix-chalk-muted">无匹配词缀</p>
+                    )}
+                  </>
                 );
-              })}
+              })()}
             </div>
           )}
 
@@ -300,19 +440,45 @@ export function AffixModal({
               {!ready ? <p className="affix-chalk-muted">加载中…</p> : related.length === 0 ? (
                 <p className="affix-chalk-muted">暂无</p>
               ) : (
-                <p className="affix-chalk-words">
-                  {related.map((m, i) => (
-                    <span key={`${m.textbook}-${m.familyId}-${m.word}`}>
-                      {i > 0 && '、'}
-                      <button type="button" className={`affix-chalk-word-link ${m.word === word.word ? 'is-current' : ''}`} onClick={() => { onJumpWord(m.word); onClose(); }}>{m.word}</button>
-                    </span>
-                  ))}
-                </p>
+                <>
+                  {verified.length > 0 && (
+                    <p className="affix-chalk-words">
+                      {verified.map((m, i) => (
+                        <span key={`${m.textbook}-${m.familyId}-${m.word}`}>
+                          {i > 0 && '、'}
+                          <button type="button" className={`affix-chalk-word-link ${m.word === word.word ? 'is-current' : ''}`} onClick={() => { onJumpWord(m.word); onClose(); }}>{m.word}</button>
+                        </span>
+                      ))}
+                    </p>
+                  )}
+                  {unverified.length > 0 && (
+                    <>
+                      <p className="affix-same-unverified-label">以下仅拼写匹配，助记未确认含该{KIND_LABEL[kind]}</p>
+                      <p className="affix-chalk-words is-unverified">
+                        {unverified.map((m, i) => (
+                          <span key={`${m.textbook}-${m.familyId}-${m.word}`}>
+                            {i > 0 && '、'}
+                            <button type="button" className={`affix-chalk-word-link ${m.word === word.word ? 'is-current' : ''}`} onClick={() => { onJumpWord(m.word); onClose(); }}>{m.word}</button>
+                          </span>
+                        ))}
+                      </p>
+                    </>
+                  )}
+                </>
               )}
             </div>
           )}
         </div>
       </div>
+
+      {libraryOpen && (
+        <AffixLibraryOverlay
+          kind={kind}
+          items={items}
+          onSaveGroup={onSaveGroup}
+          onClose={() => setLibraryOpen(false)}
+        />
+      )}
     </div>
   );
 }

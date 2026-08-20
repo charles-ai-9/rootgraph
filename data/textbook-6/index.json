@@ -48,8 +48,8 @@
   {
     "chapter" : "4",
     "chapterOrder" : 104,
-    "file" : "mis.json",
-    "id" : "mis",
+    "file" : "mis-2.json",
+    "id" : "mis-2",
     "meaningEn" : "change",
     "meaningZh" : "改变。",
     "roots" : [
@@ -223,8 +223,8 @@
   {
     "chapter" : "15",
     "chapterOrder" : 115,
-    "file" : "solv.json",
-    "id" : "solv",
+    "file" : "solv-2.json",
+    "id" : "solv-2",
     "meaningEn" : "",
     "meaningZh" : "松开，使放松，分开，割裂",
     "roots" : [
@@ -306,8 +306,8 @@
   {
     "chapter" : "20",
     "chapterOrder" : 120,
-    "file" : "reg.json",
-    "id" : "reg",
+    "file" : "reg-2.json",
+    "id" : "reg-2",
     "meaningEn" : "to rule",
     "meaningZh" : "管理；监管；支配；控制。",
     "roots" : [
@@ -321,8 +321,8 @@
   {
     "chapter" : "21",
     "chapterOrder" : 121,
-    "file" : "reg.json",
-    "id" : "reg",
+    "file" : "reg-3.json",
+    "id" : "reg-3",
     "meaningEn" : "rule, 表示“习惯，常规，规则”。",
     "meaningZh" : "",
     "roots" : [
@@ -351,8 +351,8 @@
   {
     "chapter" : "23",
     "chapterOrder" : 123,
-    "file" : "rog.json",
-    "id" : "rog",
+    "file" : "rog-2.json",
+    "id" : "rog-2",
     "meaningEn" : "to ask, question, entreat, request",
     "meaningZh" : "询问；请求；要求。",
     "roots" : [
@@ -457,8 +457,8 @@
   {
     "chapter" : "31",
     "chapterOrder" : 131,
-    "file" : "dec.json",
-    "id" : "dec",
+    "file" : "dec-2.json",
+    "id" : "dec-2",
     "meaningEn" : "ornament",
     "meaningZh" : "装饰",
     "roots" : [

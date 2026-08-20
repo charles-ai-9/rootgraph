@@ -32,12 +32,20 @@ const PREFIX_STOP = new Set(['the', 'and', 'with', 'process']);
 /** 常见后缀形，避免被 prefixRe 误判为前缀 */
 const COMMON_SUFFIX_FORMS = new Set([
   'ing', 'tion', 'sion', 'ness', 'ment', 'able', 'ible', 'ence', 'ance',
-  'ency', 'ancy', 'ous', 'ive', 'ful', 'less', 'ly', 'al', 'er', 'or', 'ism', 'ist',
+  'ency', 'ancy', 'ous', 'ive', 'ful', 'less', 'ly', 'al', 'er', 'or', 'ism', 'ist', 'ics', 'ic',
 ]);
 
 function isSuffixMeaning(text?: string): boolean {
   if (!text) return false;
   return /后缀|词缀/.test(text) && !/前缀/.test(text);
+}
+
+function isLikelyPlusSuffix(raw: string, meaning: string): boolean {
+  if (raw.startsWith('-')) return true;
+  if (/后缀|词缀/.test(meaning)) return true;
+  const form = stripAffixForm(raw);
+  if (form === 'ics' && /^学$/.test(meaning.trim())) return true;
+  return false;
 }
 
 function isDecompositionBoundary(mnemonic: string, matchIndex: number): boolean {
@@ -46,6 +54,12 @@ function isDecompositionBoundary(mnemonic: string, matchIndex: number): boolean 
 
 function stripAffixForm(raw: string): string {
   return raw.replace(/^-+|-+$/g, '').toLowerCase();
+}
+
+/** 剔除助记释义里的语法残留（如 meta-（=change：改变）中的前导 =） */
+function cleanHintMeaning(raw?: string): string | undefined {
+  const t = raw?.trim().replace(/^=+\s*/, '');
+  return t || undefined;
 }
 
 /** 从教材助记中提取词缀线索，按在助记中出现的顺序排列 */
@@ -63,7 +77,7 @@ export function parseAffixHints(mnemonic?: string): AffixHint[] {
     scored.push({
       form,
       kind: 'prefix',
-      meaning: m[2]?.trim(),
+      meaning: cleanHintMeaning(m[2]),
       index: m.index + m[0].indexOf(m[1]),
     });
   }
@@ -79,7 +93,7 @@ export function parseAffixHints(mnemonic?: string): AffixHint[] {
     scored.push({
       form,
       kind: 'prefix',
-      meaning: m[2]?.trim(),
+      meaning: cleanHintMeaning(m[2]),
       index: m.index + m[0].search(/[a-z]/i),
     });
   }
@@ -89,11 +103,11 @@ export function parseAffixHints(mnemonic?: string): AffixHint[] {
   while ((m = plusRe.exec(mnemonic)) !== null) {
     const raw = m[1];
     const meaning = m[2]?.trim() ?? '';
-    if (!raw.startsWith('-') && !meaning.includes('后缀')) continue;
+    if (!isLikelyPlusSuffix(raw, meaning)) continue;
     scored.push({
       form: stripAffixForm(raw),
       kind: 'suffix',
-      meaning: meaning || undefined,
+      meaning: cleanHintMeaning(m[2]) ?? (meaning || undefined),
       index: m.index,
     });
   }
@@ -103,7 +117,7 @@ export function parseAffixHints(mnemonic?: string): AffixHint[] {
     scored.push({
       form: stripAffixForm(m[1]),
       kind: 'suffix',
-      meaning: m[2]?.trim(),
+      meaning: cleanHintMeaning(m[2]),
       index: m.index,
     });
   }

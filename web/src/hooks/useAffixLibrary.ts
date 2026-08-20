@@ -184,7 +184,13 @@ function load(): AffixItem[] {
   const versionOk = seedVersion === AFFIX_SEED_VERSION;
 
   if (!versionOk || !structureOk) {
-    const merged = structureOk ? applyStoredOverridesById(seed, stored) : seed;
+    // seed 变化（版本升级 / 条目增删）：保留用户对现存条目的编辑，并保留用户新增
+    // 条目（id 不在 seed 中）；仅丢弃明显噪声（如 o??-）。避免整库重置丢编辑。
+    const seedIds = new Set(seed.map((s) => s.id));
+    const merged = [
+      ...applyStoredOverridesById(seed, stored),
+      ...stored.filter((s) => !seedIds.has(s.id) && !/\?/.test(s.name)),
+    ];
     localStorage.setItem(VERSION_KEY, AFFIX_SEED_VERSION);
     localStorage.setItem(STORAGE_KEY, JSON.stringify(merged));
     return merged;

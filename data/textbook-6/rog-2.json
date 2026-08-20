@@ -1,0 +1,987 @@
+{
+  "chapter" : "23",
+  "chapterOrder" : 123,
+  "id" : "rog-2",
+  "meaningEn" : "to ask, question, entreat, request",
+  "meaningZh" : "询问；请求；要求。",
+  "roots" : [
+    "rog"
+  ],
+  "semanticLabel" : "询问；请求；要求。",
+  "source" : "textbook-6",
+  "titleZh" : "询问；请求；要求。",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "审问；盘问；质问",
+      "examples" : [
+        "He was interrogated by the police for over 12 hours.\n他被警察审问了12个多小时。"
+      ],
+      "frequency" : 10654,
+      "mnemonic" : "inter-（=between：在中间；相互）+ -rog（=to ask，request：询问；\n要求）+ -ate（动词后缀）→相互、反复询问→审问；盘问；质问",
+      "phonetic" : "ɪnˈterəgeɪt",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "interrogate"
+    },
+    {
+      "collocations" : [
+        "police interrogation：警察审问"
+      ],
+      "definition" : "审问",
+      "examples" : [
+        "He confessed after four days under interrogation.\n他在受讯问四天之后招认了。"
+      ],
+      "frequency" : 6805,
+      "mnemonic" : "interrogate（审问）+ -ion（名词后缀）→审问",
+      "phonetic" : "ɪnˌterəˈɡeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "interrogation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "审问者；质问者",
+      "examples" : [
+
+      ],
+      "frequency" : 15837,
+      "mnemonic" : "interrogate（审问；质问）+ -or（名词后缀，表人）→审问者；质问者",
+      "phonetic" : "ɪnˈterəɡeɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "interrogator"
+    },
+    {
+      "collocations" : [
+        "derogatory remarks\/comments：贬斥的言辞\/评论",
+        "derogatory sense：贬义"
+      ],
+      "definition" : "贬斥的；贬损的",
+      "examples" : [
+
+      ],
+      "frequency" : 17951,
+      "mnemonic" : "de-（=down：向下）+ rog-（质问；审问）+ -atory（复合形容词后\n缀）→以降低质问某人人格的方式质问的→贬斥的；贬损的",
+      "phonetic" : "dɪˈrɒgətərɪ",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "derogatory"
+    },
+    {
+      "collocations" : [
+        "lean on the ship’s rail：靠着船上的护栏",
+        "to travel by rail：乘火车",
+        "rail sth. in\/off：用围栏围住；用围栏隔开"
+      ],
+      "definition" : "栏杆，扶手，围栏；铁轨；铁路 vt. 怒斥；责骂；抱怨",
+      "examples" : [
+        "She railed against the injustice of it all.\n她大骂此事太不公正。"
+      ],
+      "frequency" : 3402,
+      "mnemonic" : "词根reg-“以直线方向移动，保持直线”→rail：栏杆，围栏；铁轨，",
+      "phonetic" : "reɪl",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "rail"
+    },
+    {
+      "collocations" : [
+        "iron railings：铁栏杆"
+      ],
+      "definition" : "金属围栏；金属栏杆",
+      "examples" : [
+
+      ],
+      "frequency" : 7800,
+      "phonetic" : "ˈreɪlɪŋ",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "railing"
+    },
+    {
+      "collocations" : [
+        "railroad station：火车站"
+      ],
+      "definition" : "铁路；铁路公司 vt. 迫使……仓促行事；强迫……做；强使……草率（或草草）通过",
+      "examples" : [
+        "The bill was railroaded through the House.\n议院不得已草率通过了这项提案。"
+      ],
+      "frequency" : 3684,
+      "mnemonic" : "rail（铁路）+ road（道路）→铁路",
+      "phonetic" : "ˈreɪlrəʊd",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "railroad"
+    },
+    {
+      "collocations" : [
+        "railway tracks：铁轨",
+        "railway line：铁路线"
+      ],
+      "definition" : "铁路网；铁路；铁路公司",
+      "examples" : [
+
+      ],
+      "frequency" : 8539,
+      "mnemonic" : "rail（铁轨）+ way（道路）→铁轨的道路→铁路；铁路网；铁路公司",
+      "phonetic" : "ˈreɪlweɪ",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "railway"
+    },
+    {
+      "collocations" : [
+        "derail peace talks：破坏和平谈判进程"
+      ],
+      "definition" : "&vi. 脱轨 vt. 打乱（原定计划）",
+      "etymology" : "c. 1300, “make straight; direct, guide, control; prepare for cooking,” from Old French dresser, drecier “raise (oneself); address, prepare; lift, raise, hoist; set up, arrange, set (a table), serve (food); straighten, put right, direct,” from Vulgar Latin *directiare “make straight,” from Latin directus “direct, straight,” past participle of dirigere “set straight,” from dis- “apart” (see dis-) + regere “to direct, to guide, keep straight” (from PIE root *reg- “move in a straight line”).",
+      "examples" : [
+        "A train was derailed\/derailed in an isolated mountain region.\n火车在一片偏僻的山区脱轨。\n单词 dress 源自“词根 reg-=move in a straight line，direct：以直线的方"
+      ],
+      "frequency" : 10858,
+      "mnemonic" : "de-（=away：离开；脱离）+ rail（轨道）→脱轨，引申义为打乱",
+      "phonetic" : "diːˈreɪl",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "derail"
+    },
+    {
+      "collocations" : [
+        "to dress well\/badly\/fashionably\/comfortably：穿得好\/不好\/时髦\/舒适",
+        "a wedding dress：婚纱",
+        "to wear casual\/formal dress：穿便服\/正装",
+        "to dress a shop window：布置橱窗",
+        "to dress a salad (= put oil or vinegar, etc. on it)：给色拉加调味酱（放"
+      ],
+      "definition" : "&vi. 穿衣服 vi. 传……的服装 vt. 装饰；布置；（烹调前）准",
+      "examples" : [
+        "She dressed the children in their best clothes.\n她给孩子们穿上了最漂亮的衣服。"
+      ],
+      "phonetic" : "dres",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "dress"
+    },
+    {
+      "collocations" : [
+        "a snappy dresser：穿着漂亮的人"
+      ],
+      "definition" : "梳妆台；穿……衣服的人；服装师",
+      "examples" : [
+
+      ],
+      "frequency" : 8672,
+      "mnemonic" : "dress（服装；装饰）+ -er（名词后缀）→梳妆台；穿……衣服的人；",
+      "phonetic" : "ˈdresə",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "dresser"
+    },
+    {
+      "collocations" : [
+        "new hairdresser’s：新开的理发店"
+      ],
+      "definition" : "理发师；理发店",
+      "examples" : [
+
+      ],
+      "frequency" : 15349,
+      "mnemonic" : "hair（头发）+ dress（打扮；装饰）+ -er（名词后缀）→打扮头发的\n人或地方→理发师；理发店",
+      "phonetic" : "ˈheədresə(r)",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "hairdresser"
+    },
+    {
+      "collocations" : [
+        "help with dressing：帮助穿衣",
+        "dressing room：更衣室；化妆室"
+      ],
+      "definition" : "穿衣；穿戴；（拌制色拉用的）调料",
+      "examples" : [
+        "Mix the ingredients for the dressing in a bowl.\n在碗里把这些配料搅拌成调味品。"
+      ],
+      "frequency" : 6062,
+      "mnemonic" : "dress（装饰，服装；给……加调味料）+ -ing（名词后缀）→穿衣，",
+      "phonetic" : "ˈdresɪŋ",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "dressing"
+    },
+    {
+      "collocations" : [
+        "get undressed：脱掉衣服"
+      ],
+      "definition" : "&vi.（给……）脱衣服 n. 裸体；赤身",
+      "examples" : [
+
+      ],
+      "frequency" : 12526,
+      "mnemonic" : "un-（表相反）+ dress（给……穿衣服）→给……脱衣服；裸体（没",
+      "phonetic" : "ʌnˈdres",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "undress"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（特殊场合戴的）头巾，头饰",
+      "examples" : [
+
+      ],
+      "frequency" : 14729,
+      "mnemonic" : "head（头）+ dress（装饰）→头发的装饰→头饰",
+      "phonetic" : "ˈheddres",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "headdress"
+    },
+    {
+      "collocations" : [
+        "to address a meeting：在会议上发表演讲",
+        "address me in English：用英语跟某人说话",
+        "home address：住址"
+      ],
+      "definition" : "写（收信人）姓名地址；致函；演讲；向……说话；称",
+      "examples" : [
+
+      ],
+      "mnemonic" : "ad-（去）+ dress（引导）→引导邮件→写姓名地址；住址\nad-（去）+ dress（引导）→引导言语→向……致辞；与……说话；\n称呼→演讲；向……说话；称呼（某人）\nad-（去）+ dress（引导）→引导精力→设法解决；处理",
+      "phonetic" : "əˈdres",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "address"
+    },
+    {
+      "collocations" : [
+        "to redress an injustice：纠正不公",
+        "redress the balance：恢复公平合理的情况；恢复平衡",
+        "seek redress：要求赔偿",
+        "to have little prospect of redress：几乎没有获赔的希望"
+      ],
+      "definition" : "纠正；矫正；改正 n. 赔款；损失赔偿",
+      "examples" : [
+
+      ],
+      "frequency" : 17243,
+      "mnemonic" : "re-（再；重新）+ -dress（=make straight, direct：拉直；引导）→重新\n把……拉直→纠正；改正；赔款",
+      "phonetic" : "rɪˈdres",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "redress"
+    },
+    {
+      "collocations" : [
+        "top-ranked players：一流的选手"
+      ],
+      "definition" : "（运动员或队伍）顶级的",
+      "examples" : [
+
+      ],
+      "frequency" : 19002,
+      "mnemonic" : "top（位置、级别或程度）最高的）+ rank（地位；级别）+ -ed（形容\n词后缀，去e）→级别最高的→最优秀的；一流的；顶级的",
+      "phonetic" : "tɒp ræŋkt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "top-ranked"
+    },
+    {
+      "collocations" : [
+        "the rich：富人",
+        "rich countries：富国",
+        "rich in vitamin A：富含维生素A",
+        "rich soil：肥沃的土地",
+        "a rich cultural life：丰富多彩的文化生活",
+        "a rich array of plants and animals：一系列各种各样的动植物"
+      ],
+      "definition" : "富有的；富强的；富含的；（土壤）肥沃的；富饶的（矿藏",
+      "etymology" : "来源于原始印欧语reg-(沿直线移动，直的，规则)，在拉丁语中派生 了regere(统治)和rex(国王)。拉丁语rex(国王)在凯尔特语中为rix(国 王)，被史前日耳曼语借用后在英语中派生了rich。",
+      "examples" : [
+
+      ],
+      "phonetic" : "rɪtʃ",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "rich"
+    },
+    {
+      "collocations" : [
+        "untold riches：数不尽的财富",
+        "Russia’s vast natural riches：俄罗斯巨大的自然资源"
+      ],
+      "definition" : "财富；（自然）资源（rich的复数）",
+      "examples" : [
+
+      ],
+      "frequency" : 9776,
+      "phonetic" : "ˈrɪtʃɪz",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "riches"
+    },
+    {
+      "collocations" : [
+        "a richly decorated room：装饰得富丽堂皇的房间",
+        "a richly flavored sauce：味道很浓的调味汁",
+        "be richly rewarded for：因……而得到了丰厚的回报",
+        "richly deserved success：理应取得的成功",
+        "richly varied countryside：各地情况迥异的乡村"
+      ],
+      "definition" : "富丽堂皇地；（色彩）鲜艳富丽地，（气味）浓郁芬芳",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈrɪtʃlɪ",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "richly"
+    },
+    {
+      "collocations" : [
+        "the richness of Tibet’s mineral deposits：西藏矿藏之富饶",
+        "richness of color：浓厚色彩",
+        "the richness of human life：人类生活的丰富多彩性别",
+        "a richness of culture：文化丰富性"
+      ],
+      "definition" : "富饶；（气味的）浓郁；（色彩的）浓厚；丰富多彩",
+      "examples" : [
+
+      ],
+      "mnemonic" : "rich（富饶的；丰富的）+ -ness（名词后缀）→富饶；丰富多样",
+      "phonetic" : "ˈrɪtʃnəs",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "richness"
+    },
+    {
+      "collocations" : [
+        "enrich the soil：给土壤施肥",
+        "enrich the country：使国家富裕"
+      ],
+      "definition" : "充实；使丰富；使富裕；浓缩（核燃料）",
+      "examples" : [
+        "The study of science has enriched all our lives.\n科学研究丰富了我们的整个生活。"
+      ],
+      "frequency" : 6993,
+      "mnemonic" : "en-（使……）+ rich（富有的；丰富的）→充实；使丰富；使富裕",
+      "phonetic" : "ɪnˈrɪtʃ",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "enrich"
+    },
+    {
+      "collocations" : [
+        "enriched flour：强化面粉",
+        "breakfast cereals enriched with vitamins：增加了维生素的早餐谷物食品"
+      ],
+      "definition" : "浓缩的；强化的 vt. 使丰富",
+      "examples" : [
+
+      ],
+      "frequency" : 15576,
+      "phonetic" : "ɪnˈrɪtʃt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "enriched"
+    },
+    {
+      "collocations" : [
+        "the enrichment of society：社会的富足",
+        "oxygen enrichment：富氧"
+      ],
+      "definition" : "充实；丰富",
+      "etymology" : "“Morally correct,” Old English riht “just, good, fair; proper, fitting; straight, not bent, direct, erect,” from Proto-Germanic *rehtan (source also of Old Frisian riucht “right,” Old Saxon reht, Middle Dutch and Dutch recht, Old High German reht, German recht, Old Norse rettr, Gothic raihts), from PIE root *reg- “move in a straight line,” also “to rule, to lead straight, to put right” (source also of Greek orektos “stretched out, upright;” Latin rectus “straight, right;” Old Persian rasta- “straight; right,” aršta- “rectitude;” Old Irish recht “law;” Welsh rhaith, Breton reiz “just, righteous, wise”).",
+      "examples" : [
+
+      ],
+      "frequency" : 10234,
+      "mnemonic" : "enrich（充实；使丰富）+ -ment（名词后缀）→充实；丰富",
+      "phonetic" : "ɪnˈrɪtʃmənt",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "enrichment"
+    },
+    {
+      "collocations" : [
+        "be going right：进展顺利",
+        "put sth. right：纠正某事",
+        "give your right arm for sth.\/to do sth.：为……情愿舍弃很多，不惜任何"
+      ],
+      "definition" : "纠正；矫正；改正 adj. 正确的；适当的；（道德上）正确",
+      "examples" : [
+        "His success was down to being in the right place at the right time.\n他的成功之处就在于把握住了时机。"
+      ],
+      "phonetic" : "raɪt",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "right"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "正当地；理由充分地；正确地；恰当地",
+      "examples" : [
+        "He was proud of his beautiful house, and rightly so.\n他为自己的漂亮房子感到骄傲，这是很自然的。\nQuite rightly, the environment is of great concern.\n当然，环境问题人们极为关注。\nI can’t rightly say what happened.\n我说不准到底发生了什么事。"
+      ],
+      "frequency" : 7771,
+      "phonetic" : "ˈraɪtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "rightly"
+    },
+    {
+      "collocations" : [
+        "self-righteous：以正人君子自居的；自以为正直的",
+        "a righteous God：公正的上帝",
+        "righteous anger：义愤"
+      ],
+      "definition" : "公正的，正直的；正当的，公平合理的",
+      "examples" : [
+
+      ],
+      "frequency" : 11111,
+      "mnemonic" : "right（直的；适当的）+ -eous（形容词后缀）→正直的；公正的；正",
+      "phonetic" : "ˈraɪtʃəs",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "righteous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "正直；公正；正当",
+      "examples" : [
+
+      ],
+      "frequency" : 15928,
+      "mnemonic" : "righteous（公正的；正直的；正当的）+ -ness（名词后缀）→公正；",
+      "phonetic" : "ˈraɪtʃəsnəs",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "righteousness"
+    },
+    {
+      "collocations" : [
+        "rightful owner：合法的主人",
+        "his rightful place as editor：他本应有的编辑职位"
+      ],
+      "definition" : "理应的；本来应有的；合法的",
+      "examples" : [
+
+      ],
+      "frequency" : 13454,
+      "mnemonic" : "right（正确的；适当的）+ -ful（形容词后缀，表示具有……的）→\n拥有……是正确的，适当的→理应的；合法的",
+      "phonetic" : "ˈraɪtfl",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "rightful"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "理应地；本来应有地",
+      "examples" : [
+        "She was only claiming what was rightfully hers.\n她只要求得到理应属于她的东西。\nJealousy is the feeling that someone else has something that rightfully\nbelongs to you.\n嫉妒是一种认为别人占有了本应属于自己的东西的情感。"
+      ],
+      "frequency" : 15360,
+      "phonetic" : "ˈraitfəli",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "rightfully"
+    },
+    {
+      "collocations" : [
+        "a right-wing government：一个右翼政府",
+        "the right wing：右翼；右派"
+      ],
+      "definition" : "右翼的；右派的",
+      "examples" : [
+
+      ],
+      "frequency" : 7398,
+      "mnemonic" : "right（右边的）+ wing（翼）→右翼的；右派的",
+      "phonetic" : "ˈraitwiŋ",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "right-wing"
+    },
+    {
+      "collocations" : [
+        "on the right-hand side of the road：在道路右侧的",
+        "the top right-hand corner：右上角",
+        "a right-hand glove：右手的手套"
+      ],
+      "definition" : "右手的；右面的；右侧的",
+      "examples" : [
+
+      ],
+      "frequency" : 12333,
+      "mnemonic" : "right（右边的）+ hand（手）→右手的；右面的",
+      "phonetic" : "ˈraɪthænd",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "right-hand"
+    },
+    {
+      "collocations" : [
+        "an outright lie：公开撒谎",
+        "tell sb... outright：直截了当地告诉某人",
+        "an outright victory：大获全胜",
+        "reject outright：全盘否定",
+        "be killed outright：当即死亡"
+      ],
+      "definition" : "直率的；完全彻底的 adv. 率直地；完全彻底地",
+      "examples" : [
+
+      ],
+      "frequency" : 9046,
+      "mnemonic" : "out-（向外）+ right（直接的；正确的）→直率的；完全彻底的",
+      "phonetic" : "aʊtˈraɪt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "outright"
+    },
+    {
+      "collocations" : [
+        "sit upright in the chair：笔直地坐在椅子上",
+        "a very upright, trustworthy man：一个非常正直、值得信任的人"
+      ],
+      "definition" : "笔直的；立式的；正直的 n. 立柱",
+      "examples" : [
+
+      ],
+      "frequency" : 7615,
+      "mnemonic" : "up（向上）+ right（直的）→向上直立的→笔直的；立式的；正直",
+      "phonetic" : "ˈʌpraɪt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "upright"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "满意的；安全健康的；还算可以的；可允许的 adv.（事",
+      "examples" : [
+        "Is the coffee alright?\n这咖啡还满意吗？\nI hope the children are alright.\n我希望孩子们平安无事。"
+      ],
+      "phonetic" : "ɔːlˈraɪt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "alright"
+    },
+    {
+      "collocations" : [
+        "downright dangerous：十足危险的",
+        "downright bad manners：彻头彻尾的无礼行为"
+      ],
+      "definition" : "（强调反面的或令人不快的事物）彻头彻尾的，",
+      "examples" : [
+
+      ],
+      "mnemonic" : "down（（表示范围或顺序的限度）下至，直至）+ right（直接）→直\n接下至，直至→彻头彻尾的（地）；十足的；完全的",
+      "phonetic" : "ˈdaʊnraɪt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "downright"
+    },
+    {
+      "collocations" : [
+        "absolutely correct：完全正确",
+        "correct materials：合适的材料",
+        "correct the problem：矫正这一问题",
+        "correct his students’ work：批改学生的作业",
+        "a correct young lady：举止得体的年轻女士"
+      ],
+      "definition" : "矫正；纠正；批改 adj. 正确的；合适的，恰当的；符合",
+      "examples" : [
+
+      ],
+      "mnemonic" : "cor-（=com-：表强调）+ -rect（=to lead straight：变直；正确）→大\n家共同使其变正变直→矫正，纠正；正确的，合适的，得体的",
+      "phonetic" : "kəˈrekt",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "correct"
+    },
+    {
+      "collocations" : [
+        "pronounce your name correctly：把名字读对",
+        "correctly execute：处理得当",
+        "speak correctly：讲得得体"
+      ],
+      "definition" : "正确地；合适地；得体地",
+      "examples" : [
+
+      ],
+      "frequency" : 4410,
+      "mnemonic" : "correct（正确的；合适的；得体的）+ -ly（副词后缀）→正确地；合",
+      "phonetic" : "kəˈrektli",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "correctly"
+    },
+    {
+      "collocations" : [
+        "incorrect information\/spelling：失实的信息；错误的拼写",
+        "injuries caused by incorrect posture：由不当姿势造成的伤害",
+        "politically incorrect：政治上不正确的（言行有歧视之嫌）"
+      ],
+      "definition" : "不正确的，不真实的；不适当的；（说话或举止）",
+      "examples" : [
+
+      ],
+      "mnemonic" : "in-（=not：不）+ correct（正确的；合适的；得体的）→不正确的；",
+      "phonetic" : "ɪnkəˈrekt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "incorrect"
+    },
+    {
+      "collocations" : [
+        "an incorrectly addressed letter：地址有误的信件"
+      ],
+      "definition" : "错误地；不适当地",
+      "examples" : [
+
+      ],
+      "frequency" : 11434,
+      "phonetic" : "ˌɪnkəˈrektlɪ",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "incorrectly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "正确性",
+      "examples" : [
+
+      ],
+      "frequency" : 11893,
+      "mnemonic" : "correct（正确的）+ -ness（名词后缀）→正确性",
+      "phonetic" : "kəˈrektnəs",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "correctness"
+    },
+    {
+      "collocations" : [
+        "a few small corrections：几处小的修改",
+        "the correction of young offenders：对失足青少年的管教"
+      ],
+      "definition" : "改正，纠正，批改；惩罚，处罚",
+      "examples" : [
+
+      ],
+      "frequency" : 6055,
+      "mnemonic" : "correct（改正；纠正；批改）+ -ion（名词后缀）→改正；纠正；惩罚",
+      "phonetic" : "kəˈrekʃn",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "correction"
+    },
+    {
+      "collocations" : [
+        "a correctional center\/institution\/facility (=a prison)：监狱"
+      ],
+      "definition" : "改造的；监狱的",
+      "examples" : [
+
+      ],
+      "frequency" : 12695,
+      "mnemonic" : "correction（改正；惩罚）+ -al（形容词后缀）→实施改正、惩罚的→",
+      "phonetic" : "kəˈrekʃənl",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "correctional"
+    },
+    {
+      "collocations" : [
+        "corrective measures：纠偏措施",
+        "corrective surgery\/glasses：矫正外科\/眼镜"
+      ],
+      "definition" : "改正的；纠正的；矫正的 n. 起纠正作用的东西；修改；纠正 [+ to]",
+      "examples" : [
+
+      ],
+      "frequency" : 13675,
+      "mnemonic" : "correct（矫正；纠正；批改）+ -ive（形容词后缀）→纠正的；矫正的\ncorrect（矫正；修正；纠正）+ -ive（名词后缀）→修改；纠正",
+      "phonetic" : "kəˈrektɪv",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "corrective"
+    },
+    {
+      "collocations" : [
+        "direct to the significant features：集中在重要特征上",
+        "be directed at \/toward：针对……",
+        "direct day-to-day operations：指挥日常工作",
+        "direct consequence：直接的影响",
+        "a direct answer：直率的回答",
+        "direct sunlight：阳光直射",
+        "sell direct to consumers：直接向消费者销售产品",
+        "a direct flight：直达航班",
+        "fly direct to：直飞……"
+      ],
+      "definition" : "把……指向，把……对准；（把注意力、感情或者",
+      "examples" : [
+        "In general , our society is becoming one of giant enterprises directed by a\nbureaucratic (官僚主义的) management in which man becomes a small,\nwell-oiled cog in the machinery.\n总的来说，我们的社会正在变成一个大型企业，该企业被官僚主义管\n理，在这个企业中，人成了机器里润滑良好的小齿轮。",
+        "总的来说，我们的社会正在变成一个由少数享有特权的人管理的\n大企业，在这个企业中，追求经济利益成了唯一的目的。\nIn general, our society is becoming one of giant enterprises directed\/\nmanaged\/controlled\/governed by some privileged people in which the\npursuit of economic interest becomes the only objective\/aim\/purpose."
+      ],
+      "mnemonic" : "di-（=de-：加强语气）+ -rect（=reg-：管理；指导）→把……集中",
+      "phonetic" : "dɪˈrekt; daɪ-",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "direct"
+    },
+    {
+      "collocations" : [
+        "the director of the intensive care unit（ICU）：重症监护室的主任",
+        "the board of directors：董事会",
+        "the musical director：音乐总监",
+        "the managing director：总经理"
+      ],
+      "definition" : "导演；主任；董事，经理；指挥",
+      "examples" : [
+
+      ],
+      "frequency" : 511,
+      "mnemonic" : "di-（加强语气）+ -rect（管理；引导；指导）+ -or（名词后缀，表示\n人）→负责管理、引导的人→导演；主任；董事；经理；指挥",
+      "phonetic" : "dəˈrektə(r)",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "director"
+    },
+    {
+      "collocations" : [
+        "drive sb. directly to：驾车直接把某人送到……",
+        "look directly at sb.：正视着某人",
+        "directly opposite\/below\/ahead：正对面；正下方；正前方"
+      ],
+      "definition" : "直接地；坦率地；正好地；立即 conj. 一……就……",
+      "examples" : [
+        "We have not been directly affected by the cuts.\n我们并未直接受到裁减的影响。\nI went home directly I had finished work.\n我一干完活就回家了。"
+      ],
+      "mnemonic" : "direct（直接的；直率的）+ -ly（副词后缀）→直接地；坦率地；立",
+      "phonetic" : "dəˈrektli",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "directly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "间接地；拐弯抹角地",
+      "examples" : [
+        "Drugs are indirectly responsible for the violence.\n毒品间接对暴力负有责任。\nHe referred indirectly to the territorial dispute.\n他拐弯抹角地提到了领土争端。"
+      ],
+      "frequency" : 7139,
+      "phonetic" : "ˌɪndəˈrektli",
+      "pos" : "adv.",
+      "rootHint" : "rog",
+      "word" : "indirectly"
+    },
+    {
+      "collocations" : [
+        "the indirect effects：间接后果",
+        "an indirect route：迂回的路线",
+        "an indirect attack：拐弯抹角的（影射）攻击"
+      ],
+      "definition" : "间接的；迂回的，弯曲的；拐弯抹角的",
+      "examples" : [
+
+      ],
+      "frequency" : 6538,
+      "mnemonic" : "in-（不；非）+ direct（直接的；直达的；直率的）→间接的；迂回",
+      "phonetic" : "ˌɪndəˈrekt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "indirect"
+    },
+    {
+      "collocations" : [
+        "redirect resources：转变资源投放方向"
+      ],
+      "definition" : "使转向；使改变方向；使改变线路",
+      "examples" : [
+        "She redirected them to the men’s department.\n她让他们转向到了男装部。"
+      ],
+      "frequency" : 11715,
+      "mnemonic" : "re-（再；重新）+ direct（指导；引导）→重新引导方向→使转向；",
+      "phonetic" : "ˌriːdəˈrekt",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "redirect"
+    },
+    {
+      "collocations" : [
+        "in the direction of home：朝家的方向",
+        "the right direction：正确的方向",
+        "a clear sense of direction：目标明确",
+        "simple directions：简要说明",
+        "under the direction of：在……的指导下"
+      ],
+      "definition" : "方向；趋势；目标；用法说明，指南；管理，指导",
+      "examples" : [
+
+      ],
+      "mnemonic" : "direct（管理；引导；指导）+ -ion（名词后缀）→引导方向，目标，\n给予正确指引→方向；趋势；目标；说明，指南；管理，指导",
+      "phonetic" : "dəˈrekʃn",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "direction"
+    },
+    {
+      "collocations" : [
+        "a directional microphone\/aerial：定向传声器\/天线",
+        "directional stability：方向稳定性"
+      ],
+      "definition" : "（发出或接收信号、声音等）定向的，指向的；方向的",
+      "examples" : [
+
+      ],
+      "frequency" : 15797,
+      "mnemonic" : "direction（定向；指向；方向）+ -al（形容词后缀）→定向的，指向",
+      "phonetic" : "dəˈrekʃənl",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "directional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "主任；联合导演；共同主任",
+      "examples" : [
+
+      ],
+      "frequency" : 16363,
+      "mnemonic" : "co-（和……一起；共同；联合）+ director（导演；主任）→联合导",
+      "phonetic" : "kəu dəˈrektə(r)",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "co-director"
+    },
+    {
+      "collocations" : [
+        "a directed reading program：受到指导的阅读项目"
+      ],
+      "definition" : "定向的；经指导的；被控制的；（数、线或角）有",
+      "examples" : [
+
+      ],
+      "mnemonic" : "direct（投向；指向；指导）+ -ed（形容词后缀）→定向的；经指导",
+      "phonetic" : "daɪˈretɪd",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "directed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（官方）指令；命令 adj. 指示的；指导的",
+      "examples" : [
+        "The EU has issued a new set of directives on pollution.\n欧盟发布了一系列关于污染的新指令。\nThey are seeking a central, directive role in national energy policy.\n他们正寻求在国家能源政策方面起中心指导作用。"
+      ],
+      "frequency" : 7736,
+      "mnemonic" : "direct（指向；指示；指导）+ -ive（名词\/形容词后缀）→指令，命",
+      "phonetic" : "dəˈrektɪv",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "directive"
+    },
+    {
+      "collocations" : [
+        "a telephone\/trade directory：电话号码簿；商行名录",
+        "a directory of European Trade Associations：欧洲同业公会名录"
+      ],
+      "definition" : "名录；电话号码簿；公司名录",
+      "examples" : [
+
+      ],
+      "frequency" : 8364,
+      "mnemonic" : "direct（引导；管理）+ -ory（名词后缀）→管理（电话号码、公司联\n系方式等）的本→引申义电话号码薄；名录；公司名录",
+      "phonetic" : "dəˈrektəri",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "directory"
+    },
+    {
+      "collocations" : [
+        "erect barriers：设立路障",
+        "to erect a tent：搭帐篷",
+        "to erect trade barriers：设置贸易壁垒"
+      ],
+      "definition" : "建造，建立；竖立，搭起；创立，设立 adj. 垂直的；竖直",
+      "etymology" : "Late 14c., “upright, not bending,” from Latin erectus “upright, elevated, lofty; eager, alert, aroused; resolute; arrogant,” past participle of erigere“raise or set up：举起；直立；设立”。",
+      "examples" : [
+        "Stand with your head erect.\n昂首站立。\nThe church was erected in 1582.\n此教堂建于1582年。"
+      ],
+      "mnemonic" : "e-（=up：向上的；往上移动的）+ -rect（=reg-：直的）→向上竖",
+      "phonetic" : "ɪˈrekt",
+      "pos" : "vt.",
+      "rootHint" : "rog",
+      "word" : "erect"
+    },
+    {
+      "collocations" : [
+        "to get\/have an erection：勃起",
+        "the erection of fencing：搭建栅栏"
+      ],
+      "definition" : "建造，竖立；（阴茎的）勃起；（尤指大型）结构，建",
+      "examples" : [
+
+      ],
+      "mnemonic" : "erect（建造；竖立；勃起的）+ -ion（名词后缀）→建造；勃起；建",
+      "phonetic" : "ɪˈrekʃn",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "erection"
+    },
+    {
+      "collocations" : [
+        "an alert guard：一个警觉的保卫",
+        "on 24-hour alert：24小时警戒状态",
+        "alert the police：报警",
+        "a bomb\/fire alert：炸弹\/火警警报"
+      ],
+      "definition" : "警觉的；警惕的；意识到 vt. 向……报警；使警觉；使警",
+      "etymology" : "来自法语à l›erte =on the watch：警觉的；警惕的；使警觉",
+      "examples" : [
+        "They had been alerted to the possibility of further price rises.\n他们已意识到价格可能继续上涨。"
+      ],
+      "phonetic" : "əˈlɜːt",
+      "pos" : "adj.",
+      "rootHint" : "rog",
+      "word" : "alert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "警觉；警戒；机敏",
+      "examples" : [
+
+      ],
+      "frequency" : 19054,
+      "mnemonic" : "alert（警觉的）+ -ness（名词后缀）→警觉；警戒；机敏",
+      "phonetic" : "əˈlɜːtnəs",
+      "pos" : "n.",
+      "rootHint" : "rog",
+      "word" : "alertness"
+    }
+  ]
+}

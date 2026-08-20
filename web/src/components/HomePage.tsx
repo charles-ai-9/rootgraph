@@ -1,19 +1,24 @@
 import { useEffect, useMemo, useState } from 'react';
-import type { CatalogEntry } from '../types';
+import type { AffixItem, AffixKind, CatalogEntry } from '../types';
 import { catalogEntryKey, displayRoots, displaySemantic } from '../types';
 import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
+import { AffixLibraryOverlay } from './AffixLibraryOverlay';
+import type { AffixGroupDraft } from '../utils/affixLibrary';
 
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
-  onOpenAffixLibrary: () => void;
+  affixItems: AffixItem[];
+  onSaveAffixGroup: (draft: AffixGroupDraft) => void;
 }
 
-export function HomePage({ onOpenFamily, onOpenAffixLibrary }: HomePageProps) {
+export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [filter, setFilter] = useState('');
   const [textbook, setTextbook] = useState('all');
   const [chapterKey, setChapterKey] = useState('all');
+  const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
+  const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
 
   useEffect(() => {
     fetch('/data/catalog.json')
@@ -120,7 +125,7 @@ export function HomePage({ onOpenFamily, onOpenAffixLibrary }: HomePageProps) {
           {catalog.length} 个词根族 · {totalWords.toLocaleString()} 个单词 · 按教材目录词根分类
         </p>
         <div className="hero-actions">
-          <button type="button" className="hero-action" onClick={onOpenAffixLibrary}>
+          <button type="button" className="hero-action" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
         </div>
@@ -196,6 +201,29 @@ export function HomePage({ onOpenFamily, onOpenAffixLibrary }: HomePageProps) {
 
       {filtered.length === 0 && !hasFilter && (
         <p className="empty-hint">没有匹配的词根族，试试换个筛选条件</p>
+      )}
+
+      {affixOverlayOpen && (
+        <AffixLibraryOverlay
+          kind={affixOverlayKind}
+          items={affixItems}
+          onSaveGroup={onSaveAffixGroup}
+          onClose={() => setAffixOverlayOpen(false)}
+          kindTabs={(
+            <div className="affix-lib-overlay-tabs">
+              {(['prefix', 'suffix', 'root'] as AffixKind[]).map((k) => (
+                <button
+                  key={k}
+                  type="button"
+                  className={`affix-lib-overlay-tab ${affixOverlayKind === k ? 'active' : ''}`}
+                  onClick={() => setAffixOverlayKind(k)}
+                >
+                  {k === 'prefix' ? '前缀' : k === 'suffix' ? '后缀' : '词根'}
+                </button>
+              ))}
+            </div>
+          )}
+        />
       )}
     </div>
   );

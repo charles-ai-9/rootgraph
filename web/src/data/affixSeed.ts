@@ -2,7 +2,7 @@ import type { AffixItem, AffixKind } from '../types';
 import seedPayload from './affix-library-seed.json';
 import { normalizeAffixForm } from '../utils/affixFormDisplay';
 
-export const AFFIX_SEED_VERSION = 'docx-v12';
+export const AFFIX_SEED_VERSION = 'docx-v14';
 export const AFFIX_SEED_META = seedPayload.meta as {
   source: string;
   rootGroups: number;

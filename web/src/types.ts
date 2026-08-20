@@ -55,6 +55,10 @@ export interface AffixNoteData {
   evolution: string;
   /** 引用词缀库条目 id */
   libraryRef?: string;
+  /** 用户已确认该词不存在此类词缀，自动推断不再回填 */
+  suppressed?: boolean;
+  /** 词缀形由自动推断回填（非用户输入），不做自动绑定 / 释义提取 */
+  inferred?: boolean;
 }
 
 /** 每词前缀 + 后缀各一份笔记 */

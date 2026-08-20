@@ -1,138 +1,344 @@
 {
-  "chapter" : "21",
-  "chapterOrder" : 121,
+  "chapter" : "19",
+  "chapterOrder" : 119,
   "id" : "reg",
-  "meaningEn" : "rule, 表示“习惯，常规，规则”。",
+  "meaningEn" : "统治，是与单词reign",
+  "meaningZh" : "统治；支配有关（n",
   "roots" : [
-    "reg"
+    "reg",
+    "rig"
   ],
-  "semanticLabel" : "rule, 表示习惯，常规，规则。",
+  "semanticLabel" : "统治；支配有关（n",
   "source" : "textbook-6",
-  "titleZh" : "rule, 表示习惯，常规，规则。",
+  "titleZh" : "统治；支配有关（n",
   "words" : [
     {
       "collocations" : [
-        "take regular exercises：经常锻炼",
-        "regular customers：老主顾",
-        "my regular doctor：平常给我看病的医生",
-        "a regular income：固定的收入"
+        "rule sb.\/sth. out：把……排除在外；认为……不适合"
       ],
-      "definition" : "有规律的；常做的；平常的；固定的 n. 常客",
+      "definition" : "统治，支配；裁定；用直尺等画（线） n. 规则；建议；常规",
+      "etymology" : "来自reg-：move in a straight line, direct：按照一条直线移动，引导→ 统治；规则",
       "examples" : [
-
+        "She once ruled over a vast empire.\n她曾统治过一个幅员辽阔的帝国。\nThe pursuit of money ruled his life.\n对金钱的追求支配着他的生活。"
       ],
-      "frequency" : 1377,
-      "mnemonic" : "reg-（=rule：习惯；常规）+ -ular（形容词后缀）→有规律的；常做",
-      "phonetic" : "ˈreɡjələ(r)",
-      "pos" : "adj.",
+      "phonetic" : "ruːl",
+      "pos" : "vt.",
       "rootHint" : "reg",
-      "word" : "regular"
+      "word" : "rule"
     },
     {
       "collocations" : [
-        "irregular heartbeat：心律不齐",
-        "irregular business practices：不合常规的商务活动"
+        "military ruler：军事统治者",
+        "a twelve-inch ruler：一把12英寸长的尺子"
       ],
-      "definition" : "不规律的；不规则的；不合常规的",
+      "definition" : "统治者；直尺",
       "examples" : [
 
       ],
-      "frequency" : 8578,
-      "mnemonic" : "ir-（=not：不；表相反）+ regular（规律的；规则的）→不规律的；",
-      "phonetic" : "ɪˈreɡjələ(r)",
-      "pos" : "adj.",
+      "frequency" : 5617,
+      "mnemonic" : "rule（统治）+ -r（名词后缀，表示人）→统治者\nrule（画直线）+ -r（名词后缀，表示物）→画直线的工具→直尺",
+      "phonetic" : "ˈruːlə",
+      "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "irregular"
+      "word" : "ruler"
     },
     {
       "collocations" : [
-        "write regularly for：经常为……写稿"
+        "make its ruling on the case：对本案件做出裁决",
+        "the ruling party：执政党",
+        "ruling class：统治阶级"
       ],
-      "definition" : "定期地；经常地",
+      "definition" : "统治的；支配的 n. 裁定；判决",
       "examples" : [
-        "Foxes are regularly seen here.\n这里经常看得到狐狸。"
+
       ],
-      "frequency" : 2842,
-      "phonetic" : "ˈreɡjələli",
+      "frequency" : 4065,
+      "mnemonic" : "rul（=rule：统治；支配）+ -ing（形容词后缀）→统治的；支配的\nrul（裁定）+ -ing（名词后缀）→裁定；判决",
+      "phonetic" : "ˈruːlɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "ruling"
+    },
+    {
+      "collocations" : [
+        "developed regions and areas：发达地区",
+        "tropical regions：热带地区"
+      ],
+      "definition" : "地区；区域；行政区；（身体）部位794",
+      "examples" : [
+
+      ],
+      "mnemonic" : "reg-（统治；管理）+ -ion（名词后缀）→统治的地方→区域；行政区",
+      "phonetic" : "ˈriːdʒən",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "region"
+    },
+    {
+      "collocations" : [
+        "regional newspaper：地方报纸"
+      ],
+      "definition" : "地区的；区域的；地方的",
+      "examples" : [
+
+      ],
+      "frequency" : 1654,
+      "phonetic" : "ˈriːdʒənl",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "regional"
+    },
+    {
+      "collocations" : [
+        "regionally based television companies：地方性的电视公司"
+      ],
+      "definition" : "地域性地；地方地",
+      "examples" : [
+
+      ],
+      "frequency" : 19527,
+      "phonetic" : "ˈriːdʒənəli",
       "pos" : "adv.",
       "rootHint" : "reg",
-      "word" : "regularly"
+      "word" : "regionally"
     },
     {
       "collocations" : [
-
+        "a fascist\/military regime：法西斯、军事等政权",
+        "tax regime：税收体制",
+        "a new fitness regime：一套新的健康养生法（管理身体的方法）",
+        "dietary regime：饮食规则"
       ],
-      "definition" : "常规赛",
+      "definition" : "统治制度，政权，政体；（机构、公司或经济等的）管",
       "examples" : [
 
       ],
-      "frequency" : 13973,
-      "mnemonic" : "regular（常规的）+ season（赛季）→常规赛",
-      "phonetic" : "ˈreɡjələ(r)ˈsiːzn",
+      "mnemonic" : "reg-（统治；管理）+ -ime（=ine：名词后缀）→政权（即“统治",
+      "phonetic" : "reɪˈʒiːm",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "regular-season"
+      "word" : "regime"
     },
     {
       "collocations" : [
-        "seek out regularities：找出规律",
-        "the regularity of features：五官端正",
-        "regularities in the behavior：习性（有规律的行为习惯）"
-      ],
-      "definition" : "规律，经常性；匀称，有规则地分布；有规则",
-      "examples" : [
 
       ],
-      "mnemonic" : "regular（有规律的；有规则的）+ -ity（名词后缀）→规律；匀称；有",
-      "phonetic" : "ˌreɡjuˈlærəti",
+      "definition" : "养生法；生活规则",
+      "examples" : [
+        "Whatever regimen has been prescribed should be rigorously followed.\n不管制订的是什么样的养生计划，都要严格遵守。\n释义：（medical医）养生法\nA set of rules about food and exercise or medical treatment that you follow\nin order to stay healthy or to improve your health."
+      ],
+      "frequency" : 8049,
+      "mnemonic" : "reg-（管理）+ i + -men→管理自己身体的方法→养生法",
+      "phonetic" : "ˈredʒɪmən",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "regularity"
+      "word" : "regimen"
     },
     {
       "collocations" : [
-        "financial irregularity：财务违规（不合常规）",
-        "a slight irregularity in heartbeat：略微的心律不齐（不规则的）",
-        "cover any irregularity：遮住不平整的地方"
+        "a regiment of hungry customers：一大群饥饿的顾客"
       ],
-      "definition" : "不合乎常规的行为；不规则（或无规律）的事",
+      "definition" : "（军队的）团；一大群人（或事物）",
       "examples" : [
 
       ],
-      "mnemonic" : "ir-（=not：不，表相反）+ regularity（规律；常规；匀称）→不合常",
-      "phonetic" : "ɪˌreɡjəˈlærəti",
+      "frequency" : 10540,
+      "mnemonic" : "reg-（统治；管理）+ i + -ment（名词后缀）→（受到统治、管理\n的）军团→一大群人",
+      "phonetic" : "ˈredʒɪmənt",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "irregularity"
+      "word" : "regiment"
     },
     {
       "collocations" : [
-        "reckless driving：莽撞驾驶"
+        "regal power：王权",
+        "the regal splendor of the palace：帝王宫殿之豪华气派"
       ],
-      "definition" : "鲁莽的；不顾后果的",
+      "definition" : "帝王的；王室的；豪华的",
       "examples" : [
 
       ],
-      "frequency" : 8733,
-      "mnemonic" : "reck（=reg-=rule：规则）+ -less（无；没有）→没有规则的→鲁莽",
-      "phonetic" : "ˈreklɪs",
+      "frequency" : 12534,
+      "mnemonic" : "reg-（统治）+ -al（形容词后缀）→居于统治地位的→帝王的；王室",
+      "phonetic" : "ˈriːgl",
       "pos" : "adj.",
       "rootHint" : "reg",
-      "word" : "reckless"
+      "word" : "regal"
+    },
+    {
+      "collocations" : [
+        "officials in full regalia：全副盛装的官员"
+      ],
+      "definition" : "（国王或法官等在正式场合穿的）盛装，礼服",
+      "examples" : [
+
+      ],
+      "frequency" : 19918,
+      "mnemonic" : "regal（王室的）+ -ia（名词后缀）→原指王室成员在特定场合穿戴的",
+      "phonetic" : "rɪˈgeɪlɪə",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "regalia"
+    },
+    {
+      "collocations" : [
+        "to act as regent：担任摄政王",
+        "the Prince Regent：摄政王"
+      ],
+      "definition" : "摄政王；摄政者",
+      "examples" : [
+
+      ],
+      "frequency" : 16071,
+      "mnemonic" : "reg-（统治）+ -ent（人）→统治的人→摄政王；摄政者",
+      "phonetic" : "ˈriːdʒənt",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "regent"
+    },
+    {
+      "collocations" : [
+        "in the realm of literature：在文学领域内",
+        "beyond\/within the realms of possibility：超出\/在可能范围",
+        "the defense of the realm：王国的防卫"
+      ],
+      "definition" : "（活动、兴趣、思想的）领域，场所，范围；王国",
+      "examples" : [
+
+      ],
+      "frequency" : 3948,
+      "mnemonic" : "realm=kingdom：王国；管辖范围；领域",
+      "phonetic" : "relm",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "realm"
     },
     {
       "collocations" : [
 
       ],
-      "definition" : "鲁莽地；不计后果地",
+      "definition" : "（尤指年轻女子害怕肥胖而引起的）厌食，神经性",
       "examples" : [
-        "He was leaning recklessly out of the open window.\n他鲁莽地从开着的窗户探出身子"
+
       ],
-      "frequency" : 18174,
-      "phonetic" : "ˈreklɪsli",
-      "pos" : "adv.",
+      "mnemonic" : "an-（=without：没有；缺乏）+ -orex（=reg-：以直线移动，引申为\n“伸出；想要；欲望”）+ -ia（名词后缀，表疾病名称）→没有（食\n物）欲望的病→厌食；神经性厌食症",
+      "phonetic" : "ˌænəˈreksiə",
+      "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "recklessly"
+      "word" : "anorexia"
+    },
+    {
+      "collocations" : [
+        "in\/during the reign of：在……统治期间"
+      ],
+      "definition" : "统治时期；任期 vi. 统治；当政；成为最佳",
+      "examples" : [
+        "In the field of classical music, he still reigns supreme.\n在古典音乐领域，他仍然是最为杰出的。\n单词 reign 的近义词："
+      ],
+      "frequency" : 7768,
+      "mnemonic" : "reign（=rule：统治；支配）→（君主）统治（时期）→统治；任期\n→引申义为成为某领域的最佳（控制某领域）",
+      "phonetic" : "reɪn",
+      "pos" : "vi.",
+      "rootHint" : "reg",
+      "word" : "reign"
+    },
+    {
+      "collocations" : [
+        "hand over the reins of power：让权",
+        "take up the reins of office：走马上任"
+      ],
+      "definition" : "控制；掌管；约束；缰绳 v. 严格控制；加强管理；用缰绳勒",
+      "examples" : [
+        "The designer was given free rein.\n设计者可以自由发挥。\nWe need to rein back public spending.\n我们需要严格控制公共开销。\nShe kept her emotions tightly reined in.\n她尽量克制着自己的感情。"
+      ],
+      "mnemonic" : "rein=control：控制；掌管；约束；管理",
+      "phonetic" : "reɪn",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "rein"
+    },
+    {
+      "collocations" : [
+        "the reigning monarch：当政的君主",
+        "the reigning world champion：本届世界冠军"
+      ],
+      "definition" : "统治的，在位的；（冠军）本届的",
+      "examples" : [
+
+      ],
+      "frequency" : 15017,
+      "mnemonic" : "reign（统治；成为最佳）+ -ing（形容词后缀）→统治的；（冠军）",
+      "phonetic" : "ˈreɪnɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "reigning"
+    },
+    {
+      "collocations" : [
+        "a sovereign ruler：掌握全部权力的（最高）统治者",
+        "sovereign power：至高无上的权力",
+        "independent sovereign states：独立主权国家",
+        "British sovereign：英国君主"
+      ],
+      "definition" : "掌握全部权力的；有主权的，完全独立的 n. 君主；元首",
+      "examples" : [
+
+      ],
+      "frequency" : 8196,
+      "mnemonic" : "sover（=super-：在上；超过）+ reign（统治）→在上统治的，没有更\n高约束的→掌握全部权力的；有主权的；君主",
+      "phonetic" : "ˈsɒvrɪn",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "sovereign"
+    },
+    {
+      "collocations" : [
+        "territorial sovereignty：领土主权",
+        "consumer sovereignty：消费者至上",
+        "full sovereignty：完全独立自主"
+      ],
+      "definition" : "最高统治权，主权；独立自主",
+      "examples" : [
+
+      ],
+      "frequency" : 4907,
+      "mnemonic" : "sovereign（最高统治权的，主权的）+ -ty（名词后缀）→最高统治",
+      "phonetic" : "ˈsɒvrənti",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "sovereignty"
+    },
+    {
+      "collocations" : [
+        "a royal welcome：盛大的欢迎",
+        "the Royal Academy of Music：皇家音乐学院"
+      ],
+      "definition" : "皇家的；王室的；盛大的 n. 王室成员",
+      "etymology" : "来自拉丁语regalis=of a king, kingly：国王的，王室的。",
+      "examples" : [
+
+      ],
+      "frequency" : 4352,
+      "mnemonic" : "roy-（=reg-：王室的）+ -al（形容词后缀）→王室的；盛大的\nroy-（王室的）+ -al（名词后缀）→王室成员",
+      "phonetic" : "ˈrɒɪəl",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "royal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "王室；版税；（发明、创意、财产等的）使用费",
+      "examples" : [
+        "I lived on about $5,000 a year from the royalties on my book.\n我靠的大约五千美元的出书版税生活。\nThe royalties enabled the inventor to re-establish himself in business.\n这些使用费使这名发明者能再次立足商界。"
+      ],
+      "frequency" : 7017,
+      "mnemonic" : "royal（国王的，王室的）+ -ty（名词后缀）→引申词义王室成员→引",
+      "phonetic" : "ˈrɒɪəltɪ",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "royalty"
     }
   ]
 }

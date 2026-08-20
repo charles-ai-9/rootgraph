@@ -1,0 +1,640 @@
+{
+  "id": "quire-2",
+  "source": "textbook-4",
+  "chapter": "5",
+  "chapterOrder": 105,
+  "titleZh": "ask) 同源。",
+  "semanticLabel": "ask) 同源。",
+  "meaningEn": "ask)” 同源。",
+  "meaningZh": null,
+  "roots": [
+    "quire"
+  ],
+  "words": [
+    {
+      "word": "inquire",
+      "phonetic": "in'kwarə",
+      "pos": "vt.",
+      "definition": "&vi. 查询；打听 vi. 调查；查究6787",
+      "frequency": null,
+      "mnemonic": "in- ( 进入；使)+-quir ( 问询；寻求)+e→查询；调查",
+      "collocations": [
+        "inquire about job possibilities: 打听就业的可能性",
+        "inquire into the affairs of the company: 调查该公司的事务"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "inquiry",
+      "phonetic": "in'kwarr",
+      "pos": "n.",
+      "definition": "询问；(官方的)调查；调查3396",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "make some inquiries: 询问一番",
+        "a shocking murder inquiry: 一例令人震惊的谋杀案调查",
+        "a new line of inquiry: 一种新的探询方法"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "inquisitive",
+      "phonetic": "in'kwIzitiv",
+      "pos": "adj.",
+      "definition": "好奇的；爱打听的17841 搭配：have an inquisitive nature: 生性好奇",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "require",
+      "phonetic": "ri'kwarə",
+      "pos": "vt.",
+      "definition": "需要；要求447",
+      "frequency": null,
+      "mnemonic": "re-(=repeatedly: 反复地)+-quire(=ask,seek: 要求；寻求) → 反复\n寻求；反复要求→需求；要求",
+      "collocations": [
+        "require sb to do sth: 要求某人做某事"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "required",
+      "phonetic": "r'kwaiad",
+      "pos": "adj.",
+      "definition": "必需的；(美)必修的4507",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "required course: 必修课程"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "requisite",
+      "phonetic": "'rekwizit",
+      "pos": "adj.",
+      "definition": "必要的 n. 必需品12513 搭配：the requisite paperwork: 必需的文件",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "requirement",
+      "phonetic": "ri'kwarəm(a)nt",
+      "pos": "n.",
+      "definition": "必要条件需要；必需品1899",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "meet/satisfy/fulfill one's requirements/needs/demands: 满足某人的要求 /需要"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "prerequisite",
+      "phonetic": "pri:'rekwizit",
+      "pos": "n.",
+      "definition": "先决条件11337",
+      "frequency": null,
+      "mnemonic": "pre-(=before: 在前)+requi(=require: 要求)+s+-ite ( 名词后\n缀) →something required beforehand: 事前、提前提出的要求→先\n缩写自perquisite, 津贴，额外补贴。 per- ( 完全的)+-quis ( 要求； 探索)+-ite ( 名词后缀) →完全、彻底的要求 → 引申词义过分要求， 特权→后来也用于指额外收入，津贴拿到额外收入，津贴会让人精神 振奋→使活跃；振作起来",
+      "collocations": [
+        "a prerequisite for a happy life: 幸福生活的先决条件",
+        "theatre tickets and other perks: 戏票以及其他补贴",
+        "the perks of working at a large law firm: 在大型律师事务所工作的额 外待遇",
+        "perk sb up: 昂首翘尾；活跃起来；振作精神",
+        "perk up the sauce: 使酱汁更有味"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "perky",
+      "phonetic": "'ps:ki",
+      "pos": "adj.",
+      "definition": "自信而愉快的；活泼的，生气勃勃的19407",
+      "frequency": null,
+      "mnemonic": "perk ( 使活跃，振作起来)+-y ( 形容词后缀) → 活泼的，生气勃勃 的→ 自信而愉快的",
+      "collocations": [
+        "a perky sales girl: 精力充沛的女店员"
+      ],
+      "etymology": "来自古英语perquer, 栖息，休息，同perch 。原指鸟栖息或整理 羽毛，引申词义休息好的，兴奋的，有精力的。",
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "perch",
+      "phonetic": "pɔ:tfʃ",
+      "pos": "vi.",
+      "definition": "轻坐在；坐落于；(鸟)栖息 vt. 把……稳置于(某物顶部 或 边 缘 )n. ( 鸟的)栖木6165",
+      "frequency": null,
+      "mnemonic": "\"where a bird rests,\"late 13c.,originally only\"a pole,rod,stick,stake,\" from Old French perche “unit of linear measurement”(5.5 yards),also \"measuring rod,pole,bar\"used to measure this length (13c.),from Latin pertica “pole,long staff,measuring rod.”后用于指鸟栖息的横杆，引申 词义栖息，停留。",
+      "collocations": [
+        "sit on its perch: 站在栖木上",
+        "perch on top of the hills: 坐落于群山之顶端"
+      ],
+      "etymology": "*ye-,Proto-Indo-European root meaning “to throw,impel.\"” It is the hypothetical source of/evidence for its existence is provided by:Hittite ijami “I make;\"Greek iemi,ienai “to send,throw;”Latin iacere \"to throw,cast.\"",
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "project",
+      "phonetic": "prə'dʒekt; 'prpdʒekt",
+      "pos": "n.",
+      "definition": "项目；课题[+on] vt. 预计；投射 vi. 凸出； 突出[+out/from/through etc]535",
+      "frequency": null,
+      "mnemonic": "pro- ( 向 前 ) +-ject(=jet: 投；喷；射；c发k音无意义) → 向前投；\n掷 →投影；项目(实施前都要“向前投递”给上司过目) 搭配：be projected to do sth: 预计做某事",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "jut",
+      "phonetic": "d3ʌt",
+      "pos": "vi.",
+      "definition": "突出；伸出[后面总跟+adv/prep] vt.将〔下巴〕翘起11433",
+      "frequency": null,
+      "mnemonic": "来自拉丁语iacere, 投，扔，词源同project,projectile 。 即向前扔出 去，引申词义突出，伸出。",
+      "collocations": [
+        "jut out over the beach: 突兀于海滩之上",
+        "jut her chin out: 抬起她的下巴"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "projected",
+      "phonetic": "prə'dʒektid",
+      "pos": "adj.",
+      "definition": "投影的；预计的7047 搭配：projected area: 投影面积",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "projectile",
+      "phonetic": "prə(u)'dʒektarl;-til",
+      "pos": "n.",
+      "definition": "投掷物；发射物〔如子弹、石头或炮弹〕",
+      "frequency": null,
+      "mnemonic": "rocket projectile: 火箭弹",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "projecting",
+      "phonetic": "prəu'dʒektiŋ",
+      "pos": "adj.",
+      "definition": "突出的；投影的17356",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "projecting camera: 投影机",
+        "projecting structure: 伸出楼外的构筑物"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "projection",
+      "phonetic": "prə'dʒekʃ(ə)n",
+      "pos": "n.",
+      "definition": "预计[+of][+for]; 凸出物；(幻灯片、电影 的)投映4809",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "projections of declining natural gas production: 对呈下降趋势的天然气 产量的预测"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "projector",
+      "phonetic": "prə'dʒektə",
+      "pos": "n.",
+      "definition": "电影放映机；投影仪 10560 搭配：a slide projector: 幻灯机",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "inject",
+      "phonetic": "in'dʒekt",
+      "pos": "vt.",
+      "definition": "给 … … 注射；注入；增添；注入(资金或资源)5672 助记：in- ( 里 面 ) +ject ( 投；射) → 向里面射 → 注射",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "inject strong drugs: 注射了强效的药",
+        "inject $750 into the banks: 向银行投入750美元"
+      ],
+      "etymology": null,
+      "examples": [
+        "Anthony Atala,director of the Wake Forest Institute in North Carolina, believes failing organs will be repaired by injecting cells into the body.\n北卡罗来纳州维克森林学院的院长Anthony Atala认为，可以通过向体 内注射细胞的方法来修复受损的器官。\ninject的派生词有injection 等 。"
+      ],
+      "rootHint": "quire"
+    },
+    {
+      "word": "injection",
+      "phonetic": "in'dʒekʃ(a)n",
+      "pos": "n.",
+      "definition": "注射；(资金或资源的)注入5812 搭配：drug injection: 药物注射",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "object",
+      "phonetic": "'pbd3ikt;- d3ekt",
+      "pos": "n.",
+      "definition": "物体；目的；(某情感或反应的)对象；宾语 vt. 反对1156",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "UFO",
+      "phonetic": "ju:efsu",
+      "pos": "abbr",
+      "definition": ": 不明飞行物( Unidentified Flying Object)12613",
+      "frequency": null,
+      "mnemonic": "ob-(=against: 反对)+-ject(=to throw: 扔；投) → 朝反面扔 → 反 对；拒绝接受",
+      "collocations": [
+        "money is no object/distance is no object: 金钱/距离不是问题 object to sth: 反对某事"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "objection",
+      "phonetic": "əb'dʒekʃ(a)n",
+      "pos": "n.",
+      "definition": "反对[+to]; 异议4789",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "over the objections of sb(=in spite of their objections): 尽管某人反对"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "objectionable",
+      "phonetic": "əb'dʒekʃ(a)nab(a)l",
+      "pos": "adj.",
+      "definition": "令人反感的；令人不能接受的15740",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "objectionable odours: 难闻的气味"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "objective",
+      "phonetic": "əb'dʒektiv",
+      "pos": "adj.",
+      "definition": "( 尤指商业或政治方面的)目标；(尤指军事行",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "purely/totally/completely objective: 完全客观的",
+        "core objectives: 核心目标"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "objectively",
+      "phonetic": "əb'dʒektivli",
+      "pos": "adv.",
+      "definition": "客观地12825",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "look at the skills objectively: 客观地考虑技能"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "objectivity",
+      "phonetic": ",pbdʒek'tiviti;,pbdʒik'trviti",
+      "pos": "n.",
+      "definition": "客观10722 搭配：with poise and objectivity: 带着镇定和客观",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "subject",
+      "phonetic": "'sAbd3ikt;(for adj.); sʌbd3ikt; (for v.) səb'dʒekt",
+      "pos": "n.",
+      "definition": "主题；对象；科 目；实验对象；(绘画、摄影等的)题材；主语；(常指君主制国家 的)臣民adj.受……影响的；受……支配的 vt.使遭受670",
+      "frequency": null,
+      "mnemonic": "sub- (次)+ -ject ( 扔；放) →扔在次要位置 → 引申词义被制服；被 控制 → 从属于(主要);臣民\nsub- ( 下 ) + -ject ( 扔) → 扔在……之下 → 常遭受 … (比如：将某地 区“扔”到暴风雪之下，即：该地区“经常遭受”暴风雪)",
+      "collocations": [
+        "be subject to: 从属于……;受制于；以……为准；经受…… change the subject: 转变话题"
+      ],
+      "etymology": null,
+      "examples": [
+        "In contrast,our image of the astronomical universe,of even of earth's geological history,can easily be subject to revolutionary changes as new data comes in and new theories are worked out\n相比之下，我们对天文学领域的映像，甚至是对地球地质的历史都会 随着新数据和新理论的出现而遭受革民性变化。",
+        "很多正版产品都遭受到盗版的冲击，这导致从事原创性工作的人 越来越少。\nMany genuine products are subject to the impact of pirated products, which leads to a sharp decrease in the people who are engaged in original work.\nsubject 的派生词有subjective, subjectivity 等 。"
+      ],
+      "rootHint": "quire"
+    },
+    {
+      "word": "subjective",
+      "phonetic": "sb'dʒektiv",
+      "pos": "adj.",
+      "definition": "主观的；主观想象的；主语的6033",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "subjective judgment/opinion etc.: 主管判断/意见"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "subjectivity",
+      "phonetic": ",sAbdʒek'trvəati",
+      "pos": "n.",
+      "definition": "主观性11947",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the subjectivity of clothing designers: 设计师的主观性"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "reject",
+      "phonetic": "(for v.)rɪ'dʒekt;'ri:dʒek t",
+      "pos": "vt.",
+      "definition": "拒绝接受[相信或赞同];拒绝(录用或 录取);拒绝(某人的爱情);排斥(移植的器官等);〔因质量不 好而〕废弃 n. 次品；被排斥者2046",
+      "frequency": null,
+      "mnemonic": "re- ( 回)+-ject(扔)→扔回来→拒绝；抛弃(比如：送花示爱被扔 回来)",
+      "collocations": [
+        "reject the idea: 拒绝了这个想法",
+        "shop selling cheap rejects: 销售廉价次品的商店"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "rejection",
+      "phonetic": "rr'dʒekʃ(o)n",
+      "pos": "n.",
+      "definition": "拒绝接受[相信；赞同];否决[+of]; ( 对求职者、 求学者等的)拒绝；嫌弃5063",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "his rejection of the theory: 他不接受这个理论",
+        "a rejection letter: 一封回绝信",
+        "a feeling of rejection and loss: 一种遭人嫌弃的失落感",
+        "stop rejection of transplanted organs: 阻止对移植器官的排斥"
+      ],
+      "etymology": null,
+      "examples": [
+        "Encouraging kids to reject the life of the mind leaves them vulnerable to exploitation and control.\n鼓励孩子拒绝过有思想的生活让他们在被剥削和受控制时感到脆弱 不堪。",
+        "鼓励大学生们拒绝去过有挑战的生活让它们在困难和挫折前感到 脆弱不堪。\nInspiring/Encouraging college students to reject/maintain rejection to the life full of challenges makes them fragile to exploitation and control."
+      ],
+      "rootHint": "quire"
+    },
+    {
+      "word": "trajectory",
+      "phonetic": "trə'dʒekt(a)r; 'trædʒikt(a)ri",
+      "pos": "n.",
+      "definition": "抛物线；(物体射向或抛向空中",
+      "frequency": null,
+      "mnemonic": "tra-(=trans: 横过；越过)+-ject-(=to throw: 投；射)+ -ory ( 名 词后缀)→物体横过上空投射形成的曲线或轨迹→ 引申词义抛物线； 轨迹；弹道；发展轨迹等",
+      "collocations": [
+        "the trajectory of an artillery shell: 一枚炮弹的抛物线",
+        "ballistic trajectory: 弹道轨迹",
+        "a relentlessly upward career trajectory: 一个持续上升的职业轨迹"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "abject",
+      "phonetic": "'æbdʒekt",
+      "pos": "adj.",
+      "definition": "糟糕透顶的；自卑的17227",
+      "frequency": null,
+      "mnemonic": "ab-(=off,away from: 分 离 ) + -ject(=to throw: 投；射) → 即扔掉\n的→ 引申词义downcast,brought low,hopeless: 悲惨的；自卑的 搭配：abject poverty/misery/failure etc.: 赤贫/凄苦惨败等\nan abject apology: 低声下气的道歉",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "adjacent",
+      "phonetic": "ə'd3ers(ə)nt",
+      "pos": "adj.",
+      "definition": "邻近的；毗连的[+to]6752",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "adjacent sea: 近海",
+        "the building adjacent to the library: 紧挨着图书馆的建筑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "adjective",
+      "phonetic": "'ædʒiktrv",
+      "pos": "n.",
+      "definition": "形容词10591",
+      "frequency": null,
+      "mnemonic": "ad-(=to: 来；临近)+-ject-(=to throw: 投；射)+ -ive ( 形容词 后缀) →throw to,fling at,throw or place(a thing)near: 扔到主语附\n近，附加以修饰名词的→形容词 搭配：adjective clause: 形容词从句",
+      "collocations": [],
+      "etymology": "\"word used to qualify,limit,or define a noun or noun-like part of speech,\" late 14c.,short for noun adjective,from Old French adjectif(14c.),from Latin adjectivum \"that is added to (the noun),\"neuter of adjectivus “added”.",
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "conjecture",
+      "phonetic": "kon'dʒektʃə",
+      "pos": "n.",
+      "definition": "推测；猜测vt.&vi. 推测；猜测15060",
+      "frequency": null,
+      "mnemonic": "con-(=together: 共 同 ) +-ject-( =to throw: 投；射)+-ure ( 名词后\n缀) →共同投射思想 →猜测；推测 搭配：several conjectures: 几种推测\npure conjecture: 纯属猜测\nGoldbach conjecture: 哥德巴赫猜想(任何比2大的偶数都是两质数 的和)",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "eject",
+      "phonetic": "r'dʒekt",
+      "pos": "vt.",
+      "definition": "逐出；用力推出 vi. ( 从飞机里)弹射出来11221",
+      "frequency": null,
+      "mnemonic": "e-(=out: 出来)+-ject(=to throw: 扔；投；射)→扔出来 → 逐出； 用力推出；弹射出来",
+      "collocations": [
+        "eject from the plane: 从飞机里弹出"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "interject",
+      "phonetic": ",intə'dʒekt ",
+      "pos": "vt.",
+      "definition": "&vi. 插嘴14979",
+      "frequency": null,
+      "mnemonic": "inter-(=between: 在中间)+-ject( =to throw: 投；扔) →to throw between,set between→在中间插入→插嘴",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "jet",
+      "phonetic": "d₃et",
+      "pos": "n.",
+      "definition": "喷气式飞机；喷射流；黑玉vi. 乘喷气式飞机前往；喷出3170",
+      "frequency": null,
+      "mnemonic": "jet=ject=to throw: 投；射→喷气；射水；喷气式飞机；喷射流；喷出",
+      "collocations": [
+        "a jet of water: 一股水柱",
+        "jet off to Germany: 乘喷气式飞机去德国",
+        "jet earrings: 黑玉耳环"
+      ],
+      "etymology": "来自中古法语jeter, 扔，投掷。来自拉丁语jactare 。来自jacere: 扔 ； 投掷→ 引申词义水流；喷水嘴；喷气；喷气式飞机等。同eject, project, 字母c脱落。",
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "jetliner",
+      "phonetic": "'dʒetlainə",
+      "pos": "n.",
+      "definition": "大型(客运)喷气机19859",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "jettison",
+      "phonetic": "'dʒetis(a)n;- z(3n",
+      "pos": "vt.",
+      "definition": "拒绝接受；丢弃；处理掉16717",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "jetty",
+      "phonetic": "'d₃etr",
+      "pos": "n.",
+      "definition": "码头；防波堤adj. 黑玉的；(颜色和光泽)像黑玉的19732",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "ease",
+      "phonetic": "i:z",
+      "pos": "n.",
+      "definition": "简便；舒适vt.&vi. 减轻；小心慢慢地移动3257",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "with ease: 轻易地",
+        "at ease: 自在的",
+        "ill at ease: 不自在的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "gist",
+      "phonetic": "d3Ist",
+      "pos": "n.",
+      "definition": "要点18471",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "joist",
+      "phonetic": "dʒDist",
+      "pos": "n.",
+      "definition": "搁栅；托梁19892",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    }
+  ]
+}

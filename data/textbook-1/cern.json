@@ -1,9 +1,9 @@
 {
-  "chapter" : "五",
-  "chapterOrder" : 5,
-  "id" : "cern",
-  "meaningZh" : "separate",
-  "roots" : [
+  "chapter": "五",
+  "chapterOrder": 5,
+  "id": "cern",
+  "meaningZh": "separate",
+  "roots": [
     "cern",
     "crim",
     "cert",
@@ -12,2368 +12,1687 @@
     "cree",
     "cret"
   ],
-  "semanticLabel" : "separate",
-  "source" : "textbook-1",
-  "titleZh" : "separate",
-  "words" : [
+  "semanticLabel": "separate",
+  "source": "textbook-1",
+  "titleZh": "separate",
+  "words": [
     {
-      "collocations" : [
-        "be concerned about\/with (考)：对……很关心"
+      "collocations": [
+        "be concerned about/with (考)：对……很关心"
       ],
-      "definition" : "涉及，关系到；使担心",
-      "examples" : [
+      "definition": "涉及，关系到；使担心",
+      "examples": [
         "There is considerable and justified concern that the United States is\nfalling behind much of the rest of the developed world in these essential\ndisciplines.\n人们有很大的并且是合理的担心，美国在这些重要学科上面正在落后\n于世界上的很多发达国家。",
         "人们有很大的并且是合理的担心：过西方节日太多会使人们渐渐\n忘记自己本国的一些传统节日。\nThere is considerable and justified concern that celebrating too many\nwestern festivals will lead people to forget their own traditional festivals\ngradually."
       ],
-      "frequency" : 718,
-      "phonetic" : "kənˈsɜ:n",
-      "pos" : "vt.",
-      "rootHint" : "cern",
-      "word" : "concern"
+      "frequency": 718,
+      "phonetic": "kənˈsɜ:n",
+      "pos": "vt.",
+      "rootHint": "cern",
+      "word": "concern"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the person concerned (考)：相关人员"
       ],
-      "definition" : "关心的；有关的",
-      "examples" : [
-
-      ],
-      "frequency" : 1131,
-      "phonetic" : "kənˈsɜ:nd",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "concerned"
+      "definition": "关心的；有关的",
+      "examples": [],
+      "frequency": 1131,
+      "phonetic": "kənˈsɜ:nd",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "concerned"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "关于；就……而言",
-      "examples" : [
-
-      ],
-      "frequency" : 3425,
-      "phonetic" : "kənˈsɜ:nɪŋ",
-      "pos" : "prep.",
-      "rootHint" : "cern",
-      "word" : "concerning"
+      "collocations": [],
+      "definition": "关于；就……而言",
+      "examples": [],
+      "frequency": 3425,
+      "phonetic": "kənˈsɜ:nɪŋ",
+      "pos": "prep.",
+      "rootHint": "cern",
+      "word": "concerning"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "识别；领悟，认识",
-      "examples" : [
-
-      ],
-      "frequency" : 7851,
-      "mnemonic" : "discern (=distinguish：区别，辨别；前缀均为dis，词根部分：c，t音",
-      "phonetic" : "dɪˈsɜ:n",
-      "pos" : "vt.",
-      "rootHint" : "cern",
-      "word" : "discern"
+      "collocations": [],
+      "definition": "识别；领悟，认识",
+      "examples": [],
+      "frequency": 7851,
+      "mnemonic": "discern (=distinguish：区别，辨别；前缀均为dis，词根部分：c，t音",
+      "phonetic": "dɪˈsɜ:n",
+      "pos": "vt.",
+      "rootHint": "cern",
+      "word": "discern"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "可辨别的；可识别的",
-      "examples" : [
-
-      ],
-      "frequency" : 13537,
-      "phonetic" : "dɪˈsɜ:nɪbl",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "discernible"
+      "collocations": [],
+      "definition": "可辨别的；可识别的",
+      "examples": [],
+      "frequency": 13537,
+      "phonetic": "dɪˈsɜ:nɪbl",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "discernible"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "有辨识能力的；眼光敏锐的",
-      "examples" : [
-
-      ],
-      "frequency" : 17734,
-      "phonetic" : "dɪˈsɜ:nɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "discerning"
+      "collocations": [],
+      "definition": "有辨识能力的；眼光敏锐的",
+      "examples": [],
+      "frequency": 17734,
+      "phonetic": "dɪˈsɜ:nɪŋ",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "discerning"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "区别；辨别；歧视",
-      "examples" : [
-
-      ],
-      "frequency" : 6896,
-      "mnemonic" : "discrim (=discern：辨别，区别；前缀相同，词根部分首辅音均为c，\nr相同，m，n音似，二者同源) +inate (=ine+ate：复合动词后缀) →区",
-      "phonetic" : "dɪˈskrɪmɪneɪt",
-      "pos" : "vt.",
-      "rootHint" : "crim",
-      "word" : "discriminate"
+      "collocations": [],
+      "definition": "区别；辨别；歧视",
+      "examples": [],
+      "frequency": 6896,
+      "mnemonic": "discrim (=discern：辨别，区别；前缀相同，词根部分首辅音均为c，\nr相同，m，n音似，二者同源) +inate (=ine+ate：复合动词后缀) →区",
+      "phonetic": "dɪˈskrɪmɪneɪt",
+      "pos": "vt.",
+      "rootHint": "crim",
+      "word": "discriminate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "racial discrimination (考)：种族歧视",
         "discrimination against sb. (考)：歧视某人"
       ],
-      "definition" : "歧视；区别，辨别；识别力",
-      "examples" : [
-
-      ],
-      "frequency" : 3194,
-      "phonetic" : "dɪˌskrɪmɪˈneɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "crim",
-      "word" : "discrimination"
+      "definition": "歧视；区别，辨别；识别力",
+      "examples": [],
+      "frequency": 3194,
+      "phonetic": "dɪˌskrɪmɪˈneɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "crim",
+      "word": "discrimination"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "判别式；可辨别的因素（或特点）",
-      "examples" : [
-
-      ],
-      "frequency" : 18171,
-      "phonetic" : "dɪˈskrɪmɪnənt",
-      "pos" : "n.",
-      "rootHint" : "crim",
-      "word" : "discriminant"
+      "collocations": [],
+      "definition": "判别式；可辨别的因素（或特点）",
+      "examples": [],
+      "frequency": 18171,
+      "phonetic": "dɪˈskrɪmɪnənt",
+      "pos": "n.",
+      "rootHint": "crim",
+      "word": "discriminant"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "有识别力的；识别的；有差别的",
-      "examples" : [
-
-      ],
-      "frequency" : 19727,
-      "phonetic" : "dɪˈskrɪmɪneɪtɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "crim",
-      "word" : "discriminating"
+      "collocations": [],
+      "definition": "有识别力的；识别的；有差别的",
+      "examples": [],
+      "frequency": 19727,
+      "phonetic": "dɪˈskrɪmɪneɪtɪŋ",
+      "pos": "adj.",
+      "rootHint": "crim",
+      "word": "discriminating"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（法规，做法）不公平的，歧视的",
-      "examples" : [
-
-      ],
-      "phonetic" : "dɪˈskrɪmɪnətərɪ",
-      "pos" : "adj.",
-      "rootHint" : "crim",
-      "word" : "discriminatory"
+      "collocations": [],
+      "definition": "（法规，做法）不公平的，歧视的",
+      "examples": [],
+      "phonetic": "dɪˈskrɪmɪnətərɪ",
+      "pos": "adj.",
+      "rootHint": "crim",
+      "word": "discriminatory"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "音乐会；和谐；一致",
-      "etymology" : "Sense of “public musical performance,” usually of a series of separate pieces, is from 1680s, from Italian (Klein suggests Latin concentare “to sing together,” from con-+cantare “to sing,” as the source of the Italian word in the musical sense). The general sense of “any harmonious agreement or orderly union” is from 1796. Concert-master “first violinist of an orchestra” is from 1815, translating German Konzertmeister.",
-      "examples" : [
-
-      ],
-      "frequency" : 2537,
-      "phonetic" : "ˈkɒnsət",
-      "pos" : "n.",
-      "rootHint" : "cert",
-      "word" : "concert"
+      "collocations": [],
+      "definition": "音乐会；和谐；一致",
+      "etymology": "Sense of “public musical performance,” usually of a series of separate pieces, is from 1680s, from Italian (Klein suggests Latin concentare “to sing together,” from con-+cantare “to sing,” as the source of the Italian word in the musical sense). The general sense of “any harmonious agreement or orderly union” is from 1796. Concert-master “first violinist of an orchestra” is from 1815, translating German Konzertmeister.",
+      "examples": [],
+      "frequency": 2537,
+      "phonetic": "ˈkɒnsət",
+      "pos": "n.",
+      "rootHint": "cert",
+      "word": "concert"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "协定的；商议定的；协调的",
-      "examples" : [
-
-      ],
-      "frequency" : 11579,
-      "phonetic" : "kənˈsɜ:tɪd",
-      "pos" : "adj.",
-      "rootHint" : "cert",
-      "word" : "concerted"
+      "collocations": [],
+      "definition": "协定的；商议定的；协调的",
+      "examples": [],
+      "frequency": 11579,
+      "phonetic": "kənˈsɜ:tɪd",
+      "pos": "adj.",
+      "rootHint": "cert",
+      "word": "concerted"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "协奏曲",
-      "examples" : [
-
-      ],
-      "frequency" : 19954,
-      "phonetic" : "kənˈtʃɜ:təʊ; -ˈtʃeətəʊ",
-      "pos" : "n.",
-      "rootHint" : "cert",
-      "word" : "concerto"
+      "collocations": [],
+      "definition": "协奏曲",
+      "examples": [],
+      "frequency": 19954,
+      "phonetic": "kənˈtʃɜ:təʊ; -ˈtʃeətəʊ",
+      "pos": "n.",
+      "rootHint": "cert",
+      "word": "concerto"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "使不安；使困惑；使尴尬",
-      "examples" : [
-
-      ],
-      "frequency" : 33,
-      "phonetic" : "ˌdɪskənˈsɜ:t",
-      "pos" : "vt.",
-      "rootHint" : "cert",
-      "word" : "disconcert"
+      "collocations": [],
+      "definition": "使不安；使困惑；使尴尬",
+      "examples": [],
+      "frequency": 33,
+      "phonetic": "ˌdɪskənˈsɜ:t",
+      "pos": "vt.",
+      "rootHint": "cert",
+      "word": "disconcert"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "令人不安的；令人困惑的；令人尴尬的",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌdɪskənˈsɜ:tɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "cert",
-      "word" : "disconcerting"
+      "collocations": [],
+      "definition": "令人不安的；令人困惑的；令人尴尬的",
+      "examples": [],
+      "phonetic": "ˌdɪskənˈsɜ:tɪŋ",
+      "pos": "adj.",
+      "rootHint": "cert",
+      "word": "disconcerting"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "危机；决定性时刻；危险期",
-      "etymology" : "Early 15c., crise, crisis, “decisive point in the progress of a disease,” also “vitally important or decisive state of things, point at which change must come, for better or worse,” from Latinized form of Greek krisis “turning point in a disease, that change which indicates recovery or death”(used as such by Hippocrates and Galen), literally “judgment, result of a trial, selection,” from krinein “to separate, decide, judge,” from PIE root *krei- “to sieve,” thus “discriminate, distinguish.”",
-      "examples" : [
-
-      ],
-      "frequency" : 1210,
-      "phonetic" : "ˈkraɪsɪs",
-      "pos" : "n.",
-      "rootHint" : "cris",
-      "word" : "crisis"
+      "collocations": [],
+      "definition": "危机；决定性时刻；危险期",
+      "etymology": "Early 15c., crise, crisis, “decisive point in the progress of a disease,” also “vitally important or decisive state of things, point at which change must come, for better or worse,” from Latinized form of Greek krisis “turning point in a disease, that change which indicates recovery or death”(used as such by Hippocrates and Galen), literally “judgment, result of a trial, selection,” from krinein “to separate, decide, judge,” from PIE root *krei- “to sieve,” thus “discriminate, distinguish.”",
+      "examples": [],
+      "frequency": 1210,
+      "phonetic": "ˈkraɪsɪs",
+      "pos": "n.",
+      "rootHint": "cris",
+      "word": "crisis"
     },
     {
-      "collocations" : [
+      "collocations": [
         "play a critical part in (考)：在……方面扮演了一个重要角色",
         "critical view (考)：批判性观点"
       ],
-      "definition" : "批评的，爱挑剔的，决定性的；危险的；临界的；鉴定的；评论的",
-      "examples" : [
-
-      ],
-      "frequency" : 1129,
-      "mnemonic" : "critic (评论) +al (的) →评论的，批评的，批判性的；\ncrit (=crisis：危机；首辅音相同，尾辅音t，s音似，-is为名词后缀)\n+ical (形容词后缀：的) →危机时刻的→关键的，重要的",
-      "phonetic" : "ˈkrɪtɪk(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "crit",
-      "word" : "critical"
+      "definition": "批评的，爱挑剔的，决定性的；危险的；临界的；鉴定的；评论的",
+      "examples": [],
+      "frequency": 1129,
+      "mnemonic": "critic (评论) +al (的) →评论的，批评的，批判性的；\ncrit (=crisis：危机；首辅音相同，尾辅音t，s音似，-is为名词后缀)\n+ical (形容词后缀：的) →危机时刻的→关键的，重要的",
+      "phonetic": "ˈkrɪtɪk(ə)l",
+      "pos": "adj.",
+      "rootHint": "crit",
+      "word": "critical"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "危急地；精密地；批评性地；用钻研眼光地",
-      "examples" : [
-
-      ],
-      "frequency" : 6661,
-      "phonetic" : "ˈkrɪtɪklɪ",
-      "pos" : "adv.",
-      "rootHint" : "crit",
-      "word" : "critically"
+      "collocations": [],
+      "definition": "危急地；精密地；批评性地；用钻研眼光地",
+      "examples": [],
+      "frequency": 6661,
+      "phonetic": "ˈkrɪtɪklɪ",
+      "pos": "adv.",
+      "rootHint": "crit",
+      "word": "critically"
     },
     {
-      "collocations" : [
+      "collocations": [
         "criticize one’s view on sth. (考)：批评某人在某事上的观点"
       ],
-      "definition" : "批评；非难；评论",
-      "examples" : [
-
-      ],
-      "frequency" : 2584,
-      "mnemonic" : "critic (评论，批评) +ize (动词后缀) →批评，评论",
-      "phonetic" : "ˈkrɪtɪsaɪz",
-      "pos" : "vt.",
-      "rootHint" : "crit",
-      "word" : "criticize"
+      "definition": "批评；非难；评论",
+      "examples": [],
+      "frequency": 2584,
+      "mnemonic": "critic (评论，批评) +ize (动词后缀) →批评，评论",
+      "phonetic": "ˈkrɪtɪsaɪz",
+      "pos": "vt.",
+      "rootHint": "crit",
+      "word": "criticize"
     },
     {
-      "collocations" : [
+      "collocations": [
         "vigorous criticism (考)：犀利的批评",
         "阅读难点：level... at...：针对……，将……对准……"
       ],
-      "definition" : "批评；苛求；考证",
-      "examples" : [
+      "definition": "批评；苛求；考证",
+      "examples": [
         "In broad terms, these opponents have levelled two sets of criticisms at\nGoogle.\n从广义上来说，这些反对者针对谷歌做出了两种批判"
       ],
-      "frequency" : 2111,
-      "phonetic" : "ˈkrɪtɪsɪz(ə)m",
-      "pos" : "n.",
-      "rootHint" : "crit",
-      "word" : "criticism"
+      "frequency": 2111,
+      "phonetic": "ˈkrɪtɪsɪz(ə)m",
+      "pos": "n.",
+      "rootHint": "crit",
+      "word": "criticism"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "批评家，评论家；爱挑剔的人",
-      "examples" : [
-
-      ],
-      "frequency" : 1362,
-      "mnemonic" : "crit (=judge：评论，判断；) +ic (少见的名词后缀：表人) →评论家，",
-      "phonetic" : "ˈkrɪtɪk",
-      "pos" : "n.",
-      "rootHint" : "crit",
-      "word" : "critic"
+      "collocations": [],
+      "definition": "批评家，评论家；爱挑剔的人",
+      "examples": [],
+      "frequency": 1362,
+      "mnemonic": "crit (=judge：评论，判断；) +ic (少见的名词后缀：表人) →评论家，",
+      "phonetic": "ˈkrɪtɪk",
+      "pos": "n.",
+      "rootHint": "crit",
+      "word": "critic"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "批评；评论文章",
-      "examples" : [
-
-      ],
-      "frequency" : 5040,
-      "phonetic" : "krɪˈti:k",
-      "pos" : "n.",
-      "rootHint" : "crit",
-      "word" : "critique"
+      "collocations": [],
+      "definition": "批评；评论文章",
+      "examples": [],
+      "frequency": 5040,
+      "phonetic": "krɪˈti:k",
+      "pos": "n.",
+      "rootHint": "crit",
+      "word": "critique"
     },
     {
-      "collocations" : [
+      "collocations": [
         "advance new criteria (考)：提出新的标准"
       ],
-      "definition" : "标准，条件（criterion的复数）",
-      "examples" : [
-
-      ],
-      "frequency" : 2597,
-      "mnemonic" : "crit (=judge：判断) +eria (复合名词后缀) →判断准则，标准",
-      "phonetic" : "kraɪˈtɪərɪə",
-      "pos" : "n.",
-      "rootHint" : "crit",
-      "word" : "criteria"
+      "definition": "标准，条件（criterion的复数）",
+      "examples": [],
+      "frequency": 2597,
+      "mnemonic": "crit (=judge：判断) +eria (复合名词后缀) →判断准则，标准",
+      "phonetic": "kraɪˈtɪərɪə",
+      "pos": "n.",
+      "rootHint": "crit",
+      "word": "criteria"
     },
     {
-      "collocations" : [
+      "collocations": [
         "prejudice against minority groups (考)：歧视少数民族"
       ],
-      "definition" : "偏见",
-      "examples" : [
-
-      ],
-      "frequency" : 4517,
-      "mnemonic" : "pre (提前) +jud (=judge：判断) +ice (名词后缀) →提前做出的判断→",
-      "phonetic" : "ˈpredʒudis",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "prejudice"
+      "definition": "偏见",
+      "examples": [],
+      "frequency": 4517,
+      "mnemonic": "pre (提前) +jud (=judge：判断) +ice (名词后缀) →提前做出的判断→",
+      "phonetic": "ˈpredʒudis",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "prejudice"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "法令；判决",
-      "etymology" : "“special ordinance or regulation promulgated by authority,” early 14c., originally ecclesiastical, secular use is by late 14c., from Old French decre, variant of decret (12c., Modern French décret), from Latin decretum, neuter of decretus, past participle of decernere “to decree, decide, pronounce a decision,” from de (see de-)+cernere “to separate”(from PIE root *krei- “to sieve,” thus “discriminate, distinguish”).",
-      "examples" : [
-
-      ],
-      "frequency" : 8565,
-      "phonetic" : "dɪˈkri:",
-      "pos" : "n.",
-      "rootHint" : "cree",
-      "word" : "decree"
+      "collocations": [],
+      "definition": "法令；判决",
+      "etymology": "“special ordinance or regulation promulgated by authority,” early 14c., originally ecclesiastical, secular use is by late 14c., from Old French decre, variant of decret (12c., Modern French décret), from Latin decretum, neuter of decretus, past participle of decernere “to decree, decide, pronounce a decision,” from de (see de-)+cernere “to separate”(from PIE root *krei- “to sieve,” thus “discriminate, distinguish”).",
+      "examples": [],
+      "frequency": 8565,
+      "phonetic": "dɪˈkri:",
+      "pos": "n.",
+      "rootHint": "cree",
+      "word": "decree"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "小心的；谨慎的",
-      "examples" : [
-
-      ],
-      "frequency" : 11449,
-      "phonetic" : "dɪˈskri:t",
-      "pos" : "adj.",
-      "rootHint" : "cree",
-      "word" : "discreet"
+      "collocations": [],
+      "definition": "小心的；谨慎的",
+      "examples": [],
+      "frequency": 11449,
+      "phonetic": "dɪˈskri:t",
+      "pos": "adj.",
+      "rootHint": "cree",
+      "word": "discreet"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "谨慎地；小心地",
-      "examples" : [
-
-      ],
-      "frequency" : 13835,
-      "phonetic" : "dɪˈskri:tlɪ",
-      "pos" : "adv.",
-      "rootHint" : "cree",
-      "word" : "discreetly"
+      "collocations": [],
+      "definition": "谨慎地；小心地",
+      "examples": [],
+      "frequency": 13835,
+      "phonetic": "dɪˈskri:tlɪ",
+      "pos": "adv.",
+      "rootHint": "cree",
+      "word": "discreetly"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "虚伪；伪善",
-      "examples" : [
-
-      ],
-      "frequency" : 9420,
-      "mnemonic" : "hypo (=under：达不到) +cris (=-cern：区别，区分) →没有达到真正的\n区别，只是在模仿，模拟→假冒，虚假， (人) 虚伪",
-      "phonetic" : "hɪˈpɒkrɪsɪ",
-      "pos" : "n.",
-      "rootHint" : "cris",
-      "word" : "hypocrisy"
+      "collocations": [],
+      "definition": "虚伪；伪善",
+      "examples": [],
+      "frequency": 9420,
+      "mnemonic": "hypo (=under：达不到) +cris (=-cern：区别，区分) →没有达到真正的\n区别，只是在模仿，模拟→假冒，虚假， (人) 虚伪",
+      "phonetic": "hɪˈpɒkrɪsɪ",
+      "pos": "n.",
+      "rootHint": "cris",
+      "word": "hypocrisy"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "伪君子；伪善者",
-      "examples" : [
-
-      ],
-      "frequency" : 16231,
-      "phonetic" : "ˈhɪpəkrɪt",
-      "pos" : "n.",
-      "rootHint" : "crit",
-      "word" : "hypocrite"
+      "collocations": [],
+      "definition": "伪君子；伪善者",
+      "examples": [],
+      "frequency": 16231,
+      "phonetic": "ˈhɪpəkrɪt",
+      "pos": "n.",
+      "rootHint": "crit",
+      "word": "hypocrite"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "伪善的；虚伪的",
-      "examples" : [
-
-      ],
-      "frequency" : 14470,
-      "phonetic" : "ˌhɪpəˈkrɪtɪkl",
-      "pos" : "adj.",
-      "rootHint" : "crit",
-      "word" : "hypocritical"
+      "collocations": [],
+      "definition": "伪善的；虚伪的",
+      "examples": [],
+      "frequency": 14470,
+      "phonetic": "ˌhɪpəˈkrɪtɪkl",
+      "pos": "adj.",
+      "rootHint": "crit",
+      "word": "hypocritical"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "秘密；秘诀；机密",
-      "examples" : [
-
-      ],
-      "frequency" : 1884,
-      "mnemonic" : "se (=self：自己) +cret (=separate：分开的，单独的) →某人自己单独\n的东西→秘密",
-      "phonetic" : "ˈsi:krɪt",
-      "pos" : "n.",
-      "rootHint" : "cret",
-      "word" : "secret"
+      "collocations": [],
+      "definition": "秘密；秘诀；机密",
+      "examples": [],
+      "frequency": 1884,
+      "mnemonic": "se (=self：自己) +cret (=separate：分开的，单独的) →某人自己单独\n的东西→秘密",
+      "phonetic": "ˈsi:krɪt",
+      "pos": "n.",
+      "rootHint": "cret",
+      "word": "secret"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "秘密地；背地里",
-      "examples" : [
-
-      ],
-      "frequency" : 6197,
-      "phonetic" : "ˈsi:krɪtlɪ",
-      "pos" : "adv.",
-      "rootHint" : "cret",
-      "word" : "secretly"
+      "collocations": [],
+      "definition": "秘密地；背地里",
+      "examples": [],
+      "frequency": 6197,
+      "phonetic": "ˈsi:krɪtlɪ",
+      "pos": "adv.",
+      "rootHint": "cret",
+      "word": "secretly"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "秘密的；偷偷摸摸的；促进分泌的",
-      "examples" : [
-
-      ],
-      "frequency" : 11758,
-      "phonetic" : "ˈsi:krɪtɪv",
-      "pos" : "adj.",
-      "rootHint" : "cret",
-      "word" : "secretive"
+      "collocations": [],
+      "definition": "秘密的；偷偷摸摸的；促进分泌的",
+      "examples": [],
+      "frequency": 11758,
+      "phonetic": "ˈsi:krɪtɪv",
+      "pos": "adj.",
+      "rootHint": "cret",
+      "word": "secretive"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "保密；秘密（状态）；隐蔽",
-      "examples" : [
-
-      ],
-      "frequency" : 7256,
-      "phonetic" : "ˈsi:krɪsɪ",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "secrecy"
+      "collocations": [],
+      "definition": "保密；秘密（状态）；隐蔽",
+      "examples": [],
+      "frequency": 7256,
+      "phonetic": "ˈsi:krɪsɪ",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "secrecy"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "秘书；书记；大臣；部长",
-      "examples" : [
-
-      ],
-      "frequency" : 2025,
-      "phonetic" : "ˈsekrətrɪ",
-      "pos" : "n.",
-      "rootHint" : "cret",
-      "word" : "secretary"
+      "collocations": [],
+      "definition": "秘书；书记；大臣；部长",
+      "examples": [],
+      "frequency": 2025,
+      "phonetic": "ˈsekrətrɪ",
+      "pos": "n.",
+      "rootHint": "cret",
+      "word": "secretary"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "秘书长，总书记，书记长",
-      "examples" : [
-
-      ],
-      "frequency" : 11935,
-      "phonetic" : "ˈsɛkrətərɪˈdʒɛnərəl",
-      "pos" : "n.",
-      "rootHint" : "cret",
-      "word" : "secretary-general"
+      "collocations": [],
+      "definition": "秘书长，总书记，书记长",
+      "examples": [],
+      "frequency": 11935,
+      "phonetic": "ˈsɛkrətərɪˈdʒɛnərəl",
+      "pos": "n.",
+      "rootHint": "cret",
+      "word": "secretary-general"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "藏匿；私下侵吞；[生]分泌",
-      "examples" : [
-
-      ],
-      "frequency" : 15567,
-      "phonetic" : "sɪˈkri:t",
-      "pos" : "vt.",
-      "rootHint" : "cret",
-      "word" : "secrete"
+      "collocations": [],
+      "definition": "藏匿；私下侵吞；[生]分泌",
+      "examples": [],
+      "frequency": 15567,
+      "phonetic": "sɪˈkri:t",
+      "pos": "vt.",
+      "rootHint": "cret",
+      "word": "secrete"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "分泌；分泌物；藏匿；隐藏",
-      "examples" : [
-
-      ],
-      "frequency" : 17496,
-      "phonetic" : "sɪˈkri:ʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cret",
-      "word" : "secretion"
+      "collocations": [],
+      "definition": "分泌；分泌物；藏匿；隐藏",
+      "examples": [],
+      "frequency": 17496,
+      "phonetic": "sɪˈkri:ʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cret",
+      "word": "secretion"
     },
     {
-      "collocations" : [
+      "collocations": [
         "economic factor (考)：经济因素",
         "chaotic economic conditions (考)：混乱的经济状况"
       ],
-      "definition" : "经济的，经济学的",
-      "examples" : [
-
-      ],
-      "frequency" : 117932,
-      "phonetic" : "ˌi:kəˈnɔmik",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "economic"
+      "definition": "经济的，经济学的",
+      "examples": [],
+      "frequency": 117932,
+      "phonetic": "ˌi:kəˈnɔmik",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "economic"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "经济；节约；节俭",
-      "examples" : [
-
-      ],
-      "frequency" : 77539,
-      "phonetic" : "iˈkɔnəmi",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "economy"
+      "collocations": [],
+      "definition": "经济；节约；节俭",
+      "examples": [],
+      "frequency": 77539,
+      "phonetic": "iˈkɔnəmi",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "economy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "economical source (考)：经济实惠的来源"
       ],
-      "definition" : "节约的，节俭的，经济实惠的",
-      "examples" : [
-
-      ],
-      "frequency" : 1547,
-      "phonetic" : "ˌi:kəˈnɔmikəl",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "economical"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "经济学",
-      "examples" : [
-
-      ],
-      "frequency" : 13759,
-      "phonetic" : "ˌi:kəˈnɔmiks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "economics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "有氧运动；增氧健身法",
-      "etymology" : "“Able to live or living only in the presence of oxygen, requiring or using free oxygen from the air,” 1875, after French aérobie (n.), coined 1863 by Louis Pasteur in reference to certain bacteria; from Greek aero- “air”(see aero-)+bios “life,” from PIE root *gwei- “to live.” Aerobian and aerobious also were used in English. Hence aerobe “type of micro-organism which lives on oxygen from the air.” Meaning “pertaining to aerobics is from 1968.",
-      "examples" : [
-
-      ],
-      "frequency" : 12552,
-      "mnemonic" : "aero (=air：空气) +bi (生活) +ics (学) →依靠氧气来生活\/活动→有氧",
-      "phonetic" : "eəˈrəʊbɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "aerobics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "美学；美的哲学",
-      "examples" : [
-
-      ],
-      "frequency" : 9507,
-      "phonetic" : "i:sˈθetɪks; es-",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "aesthetics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "体育运动；竞技（athletic的复数形式）",
-      "examples" : [
-
-      ],
-      "frequency" : 8720,
-      "phonetic" : "æθˈletɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "athletics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "制陶术，制陶业（ceramic的复数）",
-      "examples" : [
-
-      ],
-      "frequency" : 8157,
-      "phonetic" : "səˈræmɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "ceramics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "公民；公民学",
-      "examples" : [
-
-      ],
-      "frequency" : 19153,
-      "phonetic" : "ˈsɪvɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "civics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "装饰品；化妆品（cosmetic的复数）",
-      "examples" : [
-
-      ],
-      "frequency" : 10290,
-      "phonetic" : "kɑzˈmɛtɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "cosmetics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "诊断学（用作单数）",
-      "examples" : [
-
-      ],
-      "frequency" : 19574,
-      "phonetic" : "ˌdaɪəɡˈnɒstɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "diagnostics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "动力学，力学",
-      "examples" : [
-
-      ],
-      "frequency" : 4137,
-      "phonetic" : "daɪˈnæmɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "dynamics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "经济学；国家的经济状况",
-      "examples" : [
-
-      ],
-      "frequency" : 3213,
-      "phonetic" : "i:kəˈnɒmɪks; ek-",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "economics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "电子学；电子工业",
-      "examples" : [
-
-      ],
-      "frequency" : 4920,
-      "phonetic" : "ɪlekˈtrɒnɪks; el-",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "electronics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "伦理学；伦理观；道德标准",
-      "examples" : [
-
-      ],
-      "frequency" : 3259,
-      "phonetic" : "ˈeθɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "ethics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "遗传学",
-      "examples" : [
-
-      ],
-      "frequency" : 7789,
-      "phonetic" : "dʒɪˈnetɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "genetics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "体操；体育；体操运动",
-      "examples" : [
-
-      ],
-      "frequency" : 10709,
-      "phonetic" : "dʒɪmˈnæstɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "gymnastics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "斜体字，斜体",
-      "etymology" : "“Type of printing with lines sloping to the right,” 1610s, from Latin italicus “Italian, of Italy,” from Italia (see Italy). So called because it was introduced in 1501 by Aldus Manutius, printer of Venice (who also gave his name to Aldine), and first used in his edition of Virgil, which was dedicated to Italy. As a noun, “italic type,” 1670s.",
-      "examples" : [
-
-      ],
-      "frequency" : 19186,
-      "phonetic" : "ɪˈtælɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "italics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "语言学",
-      "examples" : [
-
-      ],
-      "frequency" : 16221,
-      "phonetic" : "lɪŋˈgwɪstɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "linguistics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "后勤；后勤学；物流",
-      "examples" : [
-
-      ],
-      "frequency" : 10151,
-      "phonetic" : "ləˈdʒɪstɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "logistics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "数学；数学运算",
-      "examples" : [
-
-      ],
-      "frequency" : 4302,
-      "phonetic" : "mæθ(ə)ˈmætɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "mathematics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "玄学，形而上学",
-      "examples" : [
-
-      ],
-      "frequency" : 15591,
-      "phonetic" : "metəˈfɪzɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "metaphysics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "奥林匹克运动会",
-      "examples" : [
-
-      ],
-      "frequency" : 3807,
-      "phonetic" : "oˈlɪmpɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Olympics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "光学",
-      "examples" : [
-
-      ],
-      "frequency" : 9530,
-      "phonetic" : "ˈɒptɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "optics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "物理学；物理现象",
-      "examples" : [
-
-      ],
-      "frequency" : 3446,
-      "phonetic" : "ˈfɪzɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "physics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "诗学；诗论；诗情",
-      "examples" : [
-
-      ],
-      "frequency" : 16718,
-      "phonetic" : "pəʊˈetɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "poetics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "机器人学（robotic的复数）",
-      "examples" : [
-
-      ],
-      "frequency" : 17488,
-      "phonetic" : "rəʊˈbɒtɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "robotics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "[语]语义学；语义论",
-      "examples" : [
-
-      ],
-      "frequency" : 18540,
-      "phonetic" : "sɪˈmæntɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "semantics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "统计；统计学；统计资料",
-      "examples" : [
-
-      ],
-      "frequency" : 2733,
-      "phonetic" : "stəˈtɪstɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "statistics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "政治，政治学；政治活动；政纲",
-      "examples" : [
-
-      ],
-      "frequency" : 954,
-      "phonetic" : "ˈpɒlətɪks",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "politics"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "政策",
-      "examples" : [
-
-      ],
-      "frequency" : 113630,
-      "phonetic" : "ˈpɔlisi",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "policy"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "政治的",
-      "examples" : [
-
-      ],
-      "frequency" : 193178,
-      "phonetic" : "pəˈlitikəl",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "political"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "政客，政治家（=statesman：政治家）",
-      "examples" : [
-
-      ],
-      "frequency" : 7624,
-      "phonetic" : "ˌpɔliˈtiʃən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "politician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "土地的；耕地的；有关土地的",
-      "examples" : [
-
-      ],
-      "frequency" : 12621,
-      "phonetic" : "əˈgreərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "agrarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "阿尔巴尼亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 12522,
-      "phonetic" : "ælˈbeiniən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Albanian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "阿尔及利亚的 n. 阿尔及利亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 14555,
-      "phonetic" : "ælˈdʒiəriən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Algerian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "两栖动物；水陆两用飞机；具有双重性格的人",
-      "examples" : [
-
-      ],
-      "phonetic" : "æmˈfɪbɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "amphibian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "阿拉伯的；阿拉伯人的 n. 阿拉伯人",
-      "examples" : [
-
-      ],
-      "frequency" : 11475,
-      "phonetic" : "əˈreɪbɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Arabian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "亚美尼亚语；亚美尼亚人 adj. 亚美尼亚的，亚美",
-      "examples" : [
-
-      ],
-      "phonetic" : "ɑ:ˈmi:njən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Armenian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "亚洲人 adj. 亚洲的；亚洲人的",
-      "examples" : [
-
-      ],
-      "frequency" : 2371,
-      "phonetic" : "ˈeʒən; ˈeʃən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Asian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "澳大利亚的，澳大利亚人的 n. 澳大利亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 5230,
-      "phonetic" : "ɑˈstrelɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Australian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "奥地利的；奥地利人的 n. 奥地利人",
-      "examples" : [
-
-      ],
-      "frequency" : 10759,
-      "phonetic" : "ˈɔstriən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Austrian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "独裁主义的；权力主义的；专制者；独裁",
-      "examples" : [
-
-      ],
-      "phonetic" : "ɔ:ˌθɒrɪˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "authoritarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "鸟类的；鸟的",
-      "examples" : [
-
-      ],
-      "frequency" : 15092,
-      "phonetic" : "ˈeɪvɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "avian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "野蛮的；未开化的 n. 野蛮人，原始人",
-      "examples" : [
-
-      ],
-      "frequency" : 15075,
-      "phonetic" : "bɑ:ˈbeərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "barbarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "比利时的 n. 比利时人",
-      "examples" : [
-
-      ],
-      "frequency" : 10676,
-      "phonetic" : "ˈbeldʒən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Belgian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "波希米亚的；放荡不羁的；波希米亚语的 n. 放",
-      "examples" : [
-
-      ],
-      "phonetic" : "boˈhimɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Bohemian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "波斯尼亚的 n. 波斯尼亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 6658,
-      "phonetic" : "bɔzni:ən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Bosnian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "巴西的；巴西人的 n. 巴西人",
-      "examples" : [
-
-      ],
-      "frequency" : 6495,
-      "phonetic" : "brəˈzɪliən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Brazilian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "加州的；加利福尼亚的",
-      "examples" : [
-
-      ],
-      "frequency" : 11801,
-      "phonetic" : "ˌkælɪˈfɔ:nɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Californian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "加州的；加利福尼亚的 n. 加利福尼亚人",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌkælɪˈfɔ:nɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Californian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "柬埔寨人（高棉人）；柬埔寨语 adj. 柬埔寨",
-      "examples" : [
-
-      ],
-      "phonetic" : "kæmˈbəʊdɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Cambodian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "加拿大（人）的 n. 加拿大人",
-      "examples" : [
-
-      ],
-      "frequency" : 2661,
-      "phonetic" : "kəˈneɪdɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Canadian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "高加索人 adj. 高加索的；白种人的",
-      "examples" : [
-
-      ],
-      "frequency" : 11887,
-      "phonetic" : "kɔˈkeʒən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Caucasian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "基督徒，信徒 adj. 信基督教的，基督教的",
-      "examples" : [
-
-      ],
-      "frequency" : 1278,
-      "phonetic" : "ˈkrɪstʃən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Christian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "民用的；百姓的，平民的 n. 平民，百姓",
-      "examples" : [
-
-      ],
-      "frequency" : 3246,
-      "phonetic" : "sɪˈvɪlj(ə)n",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "civilian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "临床医生",
-      "examples" : [
-
-      ],
-      "frequency" : 10278,
-      "phonetic" : "klɪˈnɪʃn",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "clinician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "哥伦比亚的 n. 哥伦比亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 10433,
-      "phonetic" : "kəˈlɔmbiən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Colombian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "喜剧演员；滑稽人物",
-      "examples" : [
-
-      ],
-      "frequency" : 7658,
-      "phonetic" : "kəˈmi:dɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "comedian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "克罗地亚人的；克罗地亚语的 n. 克罗地亚人[语]",
-      "examples" : [
-
-      ],
-      "phonetic" : "krəʊˈeɪʃn",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Croatian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "管理人；监护人；保管人",
-      "examples" : [
-
-      ],
-      "frequency" : 15153,
-      "phonetic" : "kʌˈstəʊdɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "custodian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "达尔文主义者 adj. 达尔文主义的",
-      "examples" : [
-
-      ],
-      "frequency" : 16966,
-      "phonetic" : "dɑ:ˈwiniən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Darwinian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "饮食学家，营养学家，膳食学家",
-      "examples" : [
-
-      ],
-      "frequency" : 17001,
-      "phonetic" : "daɪəˈtɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "dietitian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "（法律，措辞等）严厉的，苛刻的",
-      "examples" : [
-
-      ],
-      "frequency" : 17613,
-      "phonetic" : "drəˈkonɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "draconian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "平等主义的 n. 平等主义者",
-      "examples" : [
-
-      ],
-      "frequency" : 13109,
-      "phonetic" : "ɪˌgælɪˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "egalitarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "埃及的；埃及人的 n. 埃及人",
-      "examples" : [
-
-      ],
-      "frequency" : 5588,
-      "phonetic" : "ɪˈdʒɪpʃ(ə)n",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Egyptian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "电工；电气技师",
-      "examples" : [
-
-      ],
-      "frequency" : 13667,
-      "phonetic" : "ˌɪlekˈtrɪʃ(ə)n; ˌel-;ˌi:l-",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "electrician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "骑马的；骑术的 n. 骑手；骑马者",
-      "examples" : [
-
-      ],
-      "frequency" : 17238,
-      "phonetic" : "ɪˈkwestrɪən; e-",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "equestrian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "埃塞俄比亚的；黑人的 n. 埃塞俄比亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 10787,
-      "phonetic" : "ˌi:θiˈəupiən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Ethiopian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "佛洛伊德的；佛洛伊德学说的",
-      "examples" : [
-
-      ],
-      "frequency" : 17569,
-      "phonetic" : "ˈfrɔidjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Freudian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "（英）乔治亚的 n. 乔治亚州人",
-      "examples" : [
-
-      ],
-      "frequency" : 11813,
-      "phonetic" : "ˈdʒɔ:dʒjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Georgian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "监护人，保护人；守护者",
-      "examples" : [
-
-      ],
-      "frequency" : 5752,
-      "phonetic" : "ˈgɑ:dɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "guardian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "海地的；海地人的 n. 海地人",
-      "examples" : [
-
-      ],
-      "frequency" : 9474,
-      "phonetic" : "heɪʃɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Haitian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "夏威夷语的；夏威夷的 n. 夏威夷人；夏威夷语",
-      "examples" : [
-
-      ],
-      "phonetic" : "həˈwaijən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Hawaiian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "历史学家",
-      "examples" : [
-
-      ],
-      "frequency" : 2564,
-      "phonetic" : "hɪˈstɔ:rɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "historian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "人道主义的；博爱的 n. 人道主义者；慈善家",
-      "examples" : [
-
-      ],
-      "frequency" : 5339,
-      "phonetic" : "hjʊˌmænɪˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "humanitarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "匈牙利的；匈牙利语的 adj. 匈牙利人，匈牙利",
-      "examples" : [
-
-      ],
-      "phonetic" : "hʌŋˈɡεəriən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Hungarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "印度的；印第安人的；印第安语的 n. 印度人；印第安",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈɪndɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Indian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "印度尼西亚人 adj.（有关）印度尼西亚的",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌindəuˈni:zjən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Indonesian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "伊朗的；伊朗人的；伊朗语的 n. 伊朗人",
-      "examples" : [
-
-      ],
-      "frequency" : 5047,
-      "phonetic" : "iˈreinjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Iranian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "意大利的；意大利文化的；意大利语的 n. 意大利人",
-      "examples" : [
-
-      ],
-      "phonetic" : "ɪˈtælɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Italian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "约旦的；约旦人的 n. 约旦人，约旦国民",
-      "examples" : [
-
-      ],
-      "frequency" : 11164,
-      "phonetic" : "dʒɔ:ˈdeiniən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Jordanian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "女同性恋的 n. 女同性恋者",
-      "examples" : [
-
-      ],
-      "frequency" : 6435,
-      "phonetic" : "ˈlezbɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "lesbian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "自由的；自由论者的；持自由论的 n. 自由论",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌlɪbəˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "libertarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "图书管理员；图书馆员",
-      "examples" : [
-
-      ],
-      "frequency" : 7629,
-      "phonetic" : "laɪˈbreərɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "librarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "立陶宛（前苏联加盟共和国）人 adj. 立陶宛",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌliθju:ˈeiniən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Lithuanian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "魔术师，变戏法的人",
-      "examples" : [
-
-      ],
-      "frequency" : 9621,
-      "phonetic" : "məˈdʒɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "magician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "马来西亚的；马来西亚人的 n. 马来西亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 17497,
-      "phonetic" : "məˈleiʒən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Malaysian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "哺乳类动物的 n. 哺乳动物",
-      "examples" : [
-
-      ],
-      "frequency" : 19227,
-      "phonetic" : "mæˈmeɪlɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "mammalian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "火星的 n. 火星人",
-      "examples" : [
-
-      ],
-      "frequency" : 9439,
-      "phonetic" : "ˈmɑ:ʃən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Martian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "数学家",
-      "examples" : [
-
-      ],
-      "frequency" : 10784,
-      "phonetic" : "mæθəməˈtɪʃn",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "mathematician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "中值，中位数；中线 adj. 中央的；中间的",
-      "examples" : [
-
-      ],
-      "frequency" : 6910,
-      "phonetic" : "ˈmi:dɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "median"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "音乐家",
-      "examples" : [
-
-      ],
-      "frequency" : 2959,
-      "phonetic" : "mju:ˈzɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "musician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "牛顿（学说）的 n. 信仰牛顿学说的人",
-      "examples" : [
-
-      ],
-      "frequency" : 20130,
-      "phonetic" : "nju:ˈtəuniən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Newtonian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "尼日利亚人 adj. 尼日利亚的",
-      "examples" : [
-
-      ],
-      "frequency" : 11284,
-      "phonetic" : "naiˈdʒiəriən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Nigerian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "挪威的；挪威语的；挪威人的 n. 挪威人",
-      "examples" : [
-
-      ],
-      "frequency" : 1005,
-      "phonetic" : "nɔ:ˈwi:dʒən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Norwegian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "产科医师",
-      "examples" : [
-
-      ],
-      "frequency" : 17188,
-      "phonetic" : "ˌɒbstəˈtrɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "obstetrician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "威严的；奥林匹克竞赛的；奥林匹斯山的 n. 奥",
-      "examples" : [
-
-      ],
-      "phonetic" : "əuˈlimpiən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Olympian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "卵巢的；子房的",
-      "examples" : [
-
-      ],
-      "frequency" : 14853,
-      "phonetic" : "əʊˈveərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "ovarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "巴勒斯坦的 n. 巴勒斯坦人",
-      "examples" : [
-
-      ],
-      "frequency" : 2555,
-      "phonetic" : "pælɪˈstɪnɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Palestinian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "巴拿马人 adj. 巴拿马的",
-      "examples" : [
-
-      ],
-      "frequency" : 16588,
-      "phonetic" : "ˌpænəˈmeɪnjən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Panamanian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "巴黎人的；巴黎的 n. 巴黎人",
-      "examples" : [
-
-      ],
-      "frequency" : 13845,
-      "phonetic" : "pəˈrizjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Parisian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "徒步的；缺乏想像力的；平淡无奇的 n.（尤指",
-      "examples" : [
-
-      ],
-      "phonetic" : "pɪˈdestrɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "pedestrian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "小儿科医师",
-      "examples" : [
-
-      ],
-      "frequency" : 10008,
-      "phonetic" : "ˌpi:diəˈtrɪʃn",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "pediatrician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "波斯人；波斯语 adj. 波斯的；波斯人的",
-      "examples" : [
-
-      ],
-      "frequency" : 4580,
-      "phonetic" : "ˈpɜ:ʃn",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Persian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "秘鲁人的；秘鲁的 n. 秘鲁人",
-      "examples" : [
-
-      ],
-      "frequency" : 11008,
-      "phonetic" : "pəˈru:vjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Peruvian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "医师；内科医师",
-      "examples" : [
-
-      ],
-      "frequency" : 2058,
-      "phonetic" : "fɪˈzɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "physician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "政治家，政客",
-      "examples" : [
-
-      ],
-      "frequency" : 1797,
-      "phonetic" : "pɒlɪˈtɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "politician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "长老制的,长老会的(尤指苏格兰和美国的",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌprɛsbɪˈtɪərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Presbyterian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "普鲁士的；普鲁士语的；普鲁士人的 n. 普鲁士",
-      "examples" : [
-
-      ],
-      "frequency" : 19489,
-      "phonetic" : "ˈprʌʃən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Prussian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "河边的；水滨的 n. 河岸拥有人",
-      "examples" : [
-
-      ],
-      "frequency" : 18759,
-      "phonetic" : "raɪˈpeərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "riparian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "罗马尼亚人；罗马尼亚语 adj. 罗马尼亚的；罗马",
-      "examples" : [
-
-      ],
-      "phonetic" : "ru:ˈmeiniən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "Romanian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "俄国的；俄语的 n. 俄罗斯人；俄语",
-      "examples" : [
-
-      ],
-      "frequency" : 1571,
-      "phonetic" : "ˈrʌʃ(ə)n",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Russian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "斯堪的纳维亚（人）的 n. 斯堪的",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌskændiˈneiviən; -vjən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Scandinavian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "宗派的；派系的 n. 宗派主义者",
-      "examples" : [
-
-      ],
-      "frequency" : 10491,
-      "phonetic" : "sekˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "sectarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "塞尔维亚人（语）的；塞尔维亚的 n. 塞尔维亚人",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˈsə:biən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Serbian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "西伯利亚（人）的；来自西伯利亚的",
-      "examples" : [
-
-      ],
-      "frequency" : 15915,
-      "phonetic" : "saiˈbiəriən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Siberian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "西西里岛的 n. 西西里岛",
-      "examples" : [
-
-      ],
-      "frequency" : 20133,
-      "phonetic" : "siˈsiljən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Sicilian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "统计学家；统计员",
-      "examples" : [
-
-      ],
-      "frequency" : 18800,
-      "phonetic" : "stætɪˈstɪʃn",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "statistician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "叙利亚的；叙利亚语的；叙利亚人的 n. 叙利亚人",
-      "examples" : [
-
-      ],
-      "frequency" : 8339,
-      "phonetic" : "ˈsɪrɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Syrian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "技师，技术员；技巧纯熟的人",
-      "examples" : [
-
-      ],
-      "frequency" : 4883,
-      "phonetic" : "tekˈnɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "technician"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "神学者；空头理论家",
-      "examples" : [
-
-      ],
-      "frequency" : 6922,
-      "phonetic" : "θɪəˈləʊdʒɪən; -dʒ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "theologian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "极权主义的 n. 极权主义者",
-      "examples" : [
-
-      ],
-      "phonetic" : "ˌtəʊtælɪˈteərɪən; tə(ʊ)ˌtælɪ-",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "totalitarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "乌克兰的；乌克兰人的 n. 乌克兰人",
-      "examples" : [
-
-      ],
-      "phonetic" : "ju:ˈkreiniən; -ˈkrai-",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Ukrainian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "功利主义的；功利的；实利的 n. 功利主义者",
-      "examples" : [
-
-      ],
-      "phonetic" : "jʊˌtɪlɪˈteərɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "utilitarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "空想的；乌托邦的；理想化的 n. 空想的社会主义",
-      "examples" : [
-
-      ],
-      "phonetic" : "juˈtopɪən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "utopian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "素食者；食草动物 adj. 素食者的",
-      "examples" : [
-
-      ],
-      "frequency" : 9249,
-      "phonetic" : "ˌvedʒɪˈteərɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "vegetarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "威尼斯的；威尼斯人的 n. 威尼斯人",
-      "examples" : [
-
-      ],
-      "frequency" : 12277,
-      "phonetic" : "vəˈniʃən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Venetian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "兽医",
-      "examples" : [
-
-      ],
-      "frequency" : 11836,
-      "phonetic" : "ˌvet(ə)rɪˈneərɪən",
-      "pos" : "n.",
-      "rootHint" : "cern",
-      "word" : "veterinarian"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "维多利亚女王时代的；英国维多利亚女王时代的",
-      "examples" : [
-
-      ],
-      "phonetic" : "vikˈtɔ:riən",
-      "pos" : "adj.",
-      "rootHint" : "cern",
-      "word" : "Victorian"
+      "definition": "节约的，节俭的，经济实惠的",
+      "examples": [],
+      "frequency": 1547,
+      "phonetic": "ˌi:kəˈnɔmikəl",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "economical"
+    },
+    {
+      "collocations": [],
+      "definition": "经济学",
+      "examples": [],
+      "frequency": 13759,
+      "phonetic": "ˌi:kəˈnɔmiks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "economics"
+    },
+    {
+      "collocations": [],
+      "definition": "有氧运动；增氧健身法",
+      "etymology": "“Able to live or living only in the presence of oxygen, requiring or using free oxygen from the air,” 1875, after French aérobie (n.), coined 1863 by Louis Pasteur in reference to certain bacteria; from Greek aero- “air”(see aero-)+bios “life,” from PIE root *gwei- “to live.” Aerobian and aerobious also were used in English. Hence aerobe “type of micro-organism which lives on oxygen from the air.” Meaning “pertaining to aerobics is from 1968.",
+      "examples": [],
+      "frequency": 12552,
+      "mnemonic": "aero (=air：空气) +bi (生活) +ics (学) →依靠氧气来生活/活动→有氧",
+      "phonetic": "eəˈrəʊbɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "aerobics"
+    },
+    {
+      "collocations": [],
+      "definition": "美学；美的哲学",
+      "examples": [],
+      "frequency": 9507,
+      "phonetic": "i:sˈθetɪks; es-",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "aesthetics"
+    },
+    {
+      "collocations": [],
+      "definition": "体育运动；竞技（athletic的复数形式）",
+      "examples": [],
+      "frequency": 8720,
+      "phonetic": "æθˈletɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "athletics"
+    },
+    {
+      "collocations": [],
+      "definition": "制陶术，制陶业（ceramic的复数）",
+      "examples": [],
+      "frequency": 8157,
+      "phonetic": "səˈræmɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "ceramics"
+    },
+    {
+      "collocations": [],
+      "definition": "公民；公民学",
+      "examples": [],
+      "frequency": 19153,
+      "phonetic": "ˈsɪvɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "civics"
+    },
+    {
+      "collocations": [],
+      "definition": "装饰品；化妆品（cosmetic的复数）",
+      "examples": [],
+      "frequency": 10290,
+      "phonetic": "kɑzˈmɛtɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "cosmetics"
+    },
+    {
+      "collocations": [],
+      "definition": "诊断学（用作单数）",
+      "examples": [],
+      "frequency": 19574,
+      "phonetic": "ˌdaɪəɡˈnɒstɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "diagnostics"
+    },
+    {
+      "collocations": [],
+      "definition": "动力学，力学",
+      "examples": [],
+      "frequency": 4137,
+      "phonetic": "daɪˈnæmɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "dynamics"
+    },
+    {
+      "collocations": [],
+      "definition": "电子学；电子工业",
+      "examples": [],
+      "frequency": 4920,
+      "phonetic": "ɪlekˈtrɒnɪks; el-",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "electronics"
+    },
+    {
+      "collocations": [],
+      "definition": "伦理学；伦理观；道德标准",
+      "examples": [],
+      "frequency": 3259,
+      "phonetic": "ˈeθɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "ethics"
+    },
+    {
+      "collocations": [],
+      "definition": "遗传学",
+      "examples": [],
+      "frequency": 7789,
+      "phonetic": "dʒɪˈnetɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "genetics"
+    },
+    {
+      "collocations": [],
+      "definition": "体操；体育；体操运动",
+      "examples": [],
+      "frequency": 10709,
+      "phonetic": "dʒɪmˈnæstɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "gymnastics"
+    },
+    {
+      "collocations": [],
+      "definition": "斜体字，斜体",
+      "etymology": "“Type of printing with lines sloping to the right,” 1610s, from Latin italicus “Italian, of Italy,” from Italia (see Italy). So called because it was introduced in 1501 by Aldus Manutius, printer of Venice (who also gave his name to Aldine), and first used in his edition of Virgil, which was dedicated to Italy. As a noun, “italic type,” 1670s.",
+      "examples": [],
+      "frequency": 19186,
+      "phonetic": "ɪˈtælɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "italics"
+    },
+    {
+      "collocations": [],
+      "definition": "语言学",
+      "examples": [],
+      "frequency": 16221,
+      "phonetic": "lɪŋˈgwɪstɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "linguistics"
+    },
+    {
+      "collocations": [],
+      "definition": "后勤；后勤学；物流",
+      "examples": [],
+      "frequency": 10151,
+      "phonetic": "ləˈdʒɪstɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "logistics"
+    },
+    {
+      "collocations": [],
+      "definition": "数学；数学运算",
+      "examples": [],
+      "frequency": 4302,
+      "phonetic": "mæθ(ə)ˈmætɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "mathematics"
+    },
+    {
+      "collocations": [],
+      "definition": "玄学，形而上学",
+      "examples": [],
+      "frequency": 15591,
+      "phonetic": "metəˈfɪzɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "metaphysics"
+    },
+    {
+      "collocations": [],
+      "definition": "奥林匹克运动会",
+      "examples": [],
+      "frequency": 3807,
+      "phonetic": "oˈlɪmpɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Olympics"
+    },
+    {
+      "collocations": [],
+      "definition": "光学",
+      "examples": [],
+      "frequency": 9530,
+      "phonetic": "ˈɒptɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "optics"
+    },
+    {
+      "collocations": [],
+      "definition": "物理学；物理现象",
+      "examples": [],
+      "frequency": 3446,
+      "phonetic": "ˈfɪzɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "physics"
+    },
+    {
+      "collocations": [],
+      "definition": "诗学；诗论；诗情",
+      "examples": [],
+      "frequency": 16718,
+      "phonetic": "pəʊˈetɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "poetics"
+    },
+    {
+      "collocations": [],
+      "definition": "机器人学（robotic的复数）",
+      "examples": [],
+      "frequency": 17488,
+      "phonetic": "rəʊˈbɒtɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "robotics"
+    },
+    {
+      "collocations": [],
+      "definition": "[语]语义学；语义论",
+      "examples": [],
+      "frequency": 18540,
+      "phonetic": "sɪˈmæntɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "semantics"
+    },
+    {
+      "collocations": [],
+      "definition": "统计；统计学；统计资料",
+      "examples": [],
+      "frequency": 2733,
+      "phonetic": "stəˈtɪstɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "statistics"
+    },
+    {
+      "collocations": [],
+      "definition": "政治，政治学；政治活动；政纲",
+      "examples": [],
+      "frequency": 954,
+      "phonetic": "ˈpɒlətɪks",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "politics"
+    },
+    {
+      "collocations": [],
+      "definition": "政策",
+      "examples": [],
+      "frequency": 113630,
+      "phonetic": "ˈpɔlisi",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "policy"
+    },
+    {
+      "collocations": [],
+      "definition": "政治的",
+      "examples": [],
+      "frequency": 193178,
+      "phonetic": "pəˈlitikəl",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "political"
+    },
+    {
+      "collocations": [],
+      "definition": "政客，政治家（=statesman：政治家）",
+      "examples": [],
+      "frequency": 7624,
+      "phonetic": "ˌpɔliˈtiʃən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "politician"
+    },
+    {
+      "collocations": [],
+      "definition": "土地的；耕地的；有关土地的",
+      "examples": [],
+      "frequency": 12621,
+      "phonetic": "əˈgreərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "agrarian"
+    },
+    {
+      "collocations": [],
+      "definition": "阿尔巴尼亚人",
+      "examples": [],
+      "frequency": 12522,
+      "phonetic": "ælˈbeiniən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Albanian"
+    },
+    {
+      "collocations": [],
+      "definition": "阿尔及利亚的 n. 阿尔及利亚人",
+      "examples": [],
+      "frequency": 14555,
+      "phonetic": "ælˈdʒiəriən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Algerian"
+    },
+    {
+      "collocations": [],
+      "definition": "两栖动物；水陆两用飞机；具有双重性格的人",
+      "examples": [],
+      "phonetic": "æmˈfɪbɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "amphibian"
+    },
+    {
+      "collocations": [],
+      "definition": "阿拉伯的；阿拉伯人的 n. 阿拉伯人",
+      "examples": [],
+      "frequency": 11475,
+      "phonetic": "əˈreɪbɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Arabian"
+    },
+    {
+      "collocations": [],
+      "definition": "亚美尼亚语；亚美尼亚人 adj. 亚美尼亚的，亚美",
+      "examples": [],
+      "phonetic": "ɑ:ˈmi:njən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Armenian"
+    },
+    {
+      "collocations": [],
+      "definition": "亚洲人 adj. 亚洲的；亚洲人的",
+      "examples": [],
+      "frequency": 2371,
+      "phonetic": "ˈeʒən; ˈeʃən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Asian"
+    },
+    {
+      "collocations": [],
+      "definition": "澳大利亚的，澳大利亚人的 n. 澳大利亚人",
+      "examples": [],
+      "frequency": 5230,
+      "phonetic": "ɑˈstrelɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Australian"
+    },
+    {
+      "collocations": [],
+      "definition": "奥地利的；奥地利人的 n. 奥地利人",
+      "examples": [],
+      "frequency": 10759,
+      "phonetic": "ˈɔstriən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Austrian"
+    },
+    {
+      "collocations": [],
+      "definition": "独裁主义的；权力主义的；专制者；独裁",
+      "examples": [],
+      "phonetic": "ɔ:ˌθɒrɪˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "authoritarian"
+    },
+    {
+      "collocations": [],
+      "definition": "鸟类的；鸟的",
+      "examples": [],
+      "frequency": 15092,
+      "phonetic": "ˈeɪvɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "avian"
+    },
+    {
+      "collocations": [],
+      "definition": "野蛮的；未开化的 n. 野蛮人，原始人",
+      "examples": [],
+      "frequency": 15075,
+      "phonetic": "bɑ:ˈbeərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "barbarian"
+    },
+    {
+      "collocations": [],
+      "definition": "比利时的 n. 比利时人",
+      "examples": [],
+      "frequency": 10676,
+      "phonetic": "ˈbeldʒən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Belgian"
+    },
+    {
+      "collocations": [],
+      "definition": "波希米亚的；放荡不羁的；波希米亚语的 n. 放",
+      "examples": [],
+      "phonetic": "boˈhimɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Bohemian"
+    },
+    {
+      "collocations": [],
+      "definition": "波斯尼亚的 n. 波斯尼亚人",
+      "examples": [],
+      "frequency": 6658,
+      "phonetic": "bɔzni:ən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Bosnian"
+    },
+    {
+      "collocations": [],
+      "definition": "巴西的；巴西人的 n. 巴西人",
+      "examples": [],
+      "frequency": 6495,
+      "phonetic": "brəˈzɪliən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Brazilian"
+    },
+    {
+      "collocations": [],
+      "definition": "加州的；加利福尼亚的",
+      "examples": [],
+      "frequency": 11801,
+      "phonetic": "ˌkælɪˈfɔ:nɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Californian"
+    },
+    {
+      "collocations": [],
+      "definition": "柬埔寨人（高棉人）；柬埔寨语 adj. 柬埔寨",
+      "examples": [],
+      "phonetic": "kæmˈbəʊdɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Cambodian"
+    },
+    {
+      "collocations": [],
+      "definition": "加拿大（人）的 n. 加拿大人",
+      "examples": [],
+      "frequency": 2661,
+      "phonetic": "kəˈneɪdɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Canadian"
+    },
+    {
+      "collocations": [],
+      "definition": "高加索人 adj. 高加索的；白种人的",
+      "examples": [],
+      "frequency": 11887,
+      "phonetic": "kɔˈkeʒən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Caucasian"
+    },
+    {
+      "collocations": [],
+      "definition": "基督徒，信徒 adj. 信基督教的，基督教的",
+      "examples": [],
+      "frequency": 1278,
+      "phonetic": "ˈkrɪstʃən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Christian"
+    },
+    {
+      "collocations": [],
+      "definition": "民用的；百姓的，平民的 n. 平民，百姓",
+      "examples": [],
+      "frequency": 3246,
+      "phonetic": "sɪˈvɪlj(ə)n",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "civilian"
+    },
+    {
+      "collocations": [],
+      "definition": "临床医生",
+      "examples": [],
+      "frequency": 10278,
+      "phonetic": "klɪˈnɪʃn",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "clinician"
+    },
+    {
+      "collocations": [],
+      "definition": "哥伦比亚的 n. 哥伦比亚人",
+      "examples": [],
+      "frequency": 10433,
+      "phonetic": "kəˈlɔmbiən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Colombian"
+    },
+    {
+      "collocations": [],
+      "definition": "喜剧演员；滑稽人物",
+      "examples": [],
+      "frequency": 7658,
+      "phonetic": "kəˈmi:dɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "comedian"
+    },
+    {
+      "collocations": [],
+      "definition": "克罗地亚人的；克罗地亚语的 n. 克罗地亚人[语]",
+      "examples": [],
+      "phonetic": "krəʊˈeɪʃn",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Croatian"
+    },
+    {
+      "collocations": [],
+      "definition": "管理人；监护人；保管人",
+      "examples": [],
+      "frequency": 15153,
+      "phonetic": "kʌˈstəʊdɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "custodian"
+    },
+    {
+      "collocations": [],
+      "definition": "达尔文主义者 adj. 达尔文主义的",
+      "examples": [],
+      "frequency": 16966,
+      "phonetic": "dɑ:ˈwiniən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Darwinian"
+    },
+    {
+      "collocations": [],
+      "definition": "饮食学家，营养学家，膳食学家",
+      "examples": [],
+      "frequency": 17001,
+      "phonetic": "daɪəˈtɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "dietitian"
+    },
+    {
+      "collocations": [],
+      "definition": "（法律，措辞等）严厉的，苛刻的",
+      "examples": [],
+      "frequency": 17613,
+      "phonetic": "drəˈkonɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "draconian"
+    },
+    {
+      "collocations": [],
+      "definition": "平等主义的 n. 平等主义者",
+      "examples": [],
+      "frequency": 13109,
+      "phonetic": "ɪˌgælɪˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "egalitarian"
+    },
+    {
+      "collocations": [],
+      "definition": "埃及的；埃及人的 n. 埃及人",
+      "examples": [],
+      "frequency": 5588,
+      "phonetic": "ɪˈdʒɪpʃ(ə)n",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Egyptian"
+    },
+    {
+      "collocations": [],
+      "definition": "电工；电气技师",
+      "examples": [],
+      "frequency": 13667,
+      "phonetic": "ˌɪlekˈtrɪʃ(ə)n; ˌel-;ˌi:l-",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "electrician"
+    },
+    {
+      "collocations": [],
+      "definition": "骑马的；骑术的 n. 骑手；骑马者",
+      "examples": [],
+      "frequency": 17238,
+      "phonetic": "ɪˈkwestrɪən; e-",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "equestrian"
+    },
+    {
+      "collocations": [],
+      "definition": "埃塞俄比亚的；黑人的 n. 埃塞俄比亚人",
+      "examples": [],
+      "frequency": 10787,
+      "phonetic": "ˌi:θiˈəupiən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Ethiopian"
+    },
+    {
+      "collocations": [],
+      "definition": "佛洛伊德的；佛洛伊德学说的",
+      "examples": [],
+      "frequency": 17569,
+      "phonetic": "ˈfrɔidjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Freudian"
+    },
+    {
+      "collocations": [],
+      "definition": "（英）乔治亚的 n. 乔治亚州人",
+      "examples": [],
+      "frequency": 11813,
+      "phonetic": "ˈdʒɔ:dʒjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Georgian"
+    },
+    {
+      "collocations": [],
+      "definition": "监护人，保护人；守护者",
+      "examples": [],
+      "frequency": 5752,
+      "phonetic": "ˈgɑ:dɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "guardian"
+    },
+    {
+      "collocations": [],
+      "definition": "海地的；海地人的 n. 海地人",
+      "examples": [],
+      "frequency": 9474,
+      "phonetic": "heɪʃɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Haitian"
+    },
+    {
+      "collocations": [],
+      "definition": "夏威夷语的；夏威夷的 n. 夏威夷人；夏威夷语",
+      "examples": [],
+      "phonetic": "həˈwaijən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Hawaiian"
+    },
+    {
+      "collocations": [],
+      "definition": "历史学家",
+      "examples": [],
+      "frequency": 2564,
+      "phonetic": "hɪˈstɔ:rɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "historian"
+    },
+    {
+      "collocations": [],
+      "definition": "人道主义的；博爱的 n. 人道主义者；慈善家",
+      "examples": [],
+      "frequency": 5339,
+      "phonetic": "hjʊˌmænɪˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "humanitarian"
+    },
+    {
+      "collocations": [],
+      "definition": "匈牙利的；匈牙利语的 adj. 匈牙利人，匈牙利",
+      "examples": [],
+      "phonetic": "hʌŋˈɡεəriən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Hungarian"
+    },
+    {
+      "collocations": [],
+      "definition": "印度的；印第安人的；印第安语的 n. 印度人；印第安",
+      "examples": [],
+      "phonetic": "ˈɪndɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Indian"
+    },
+    {
+      "collocations": [],
+      "definition": "印度尼西亚人 adj.（有关）印度尼西亚的",
+      "examples": [],
+      "phonetic": "ˌindəuˈni:zjən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Indonesian"
+    },
+    {
+      "collocations": [],
+      "definition": "伊朗的；伊朗人的；伊朗语的 n. 伊朗人",
+      "examples": [],
+      "frequency": 5047,
+      "phonetic": "iˈreinjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Iranian"
+    },
+    {
+      "collocations": [],
+      "definition": "意大利的；意大利文化的；意大利语的 n. 意大利人",
+      "examples": [],
+      "phonetic": "ɪˈtælɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Italian"
+    },
+    {
+      "collocations": [],
+      "definition": "约旦的；约旦人的 n. 约旦人，约旦国民",
+      "examples": [],
+      "frequency": 11164,
+      "phonetic": "dʒɔ:ˈdeiniən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Jordanian"
+    },
+    {
+      "collocations": [],
+      "definition": "女同性恋的 n. 女同性恋者",
+      "examples": [],
+      "frequency": 6435,
+      "phonetic": "ˈlezbɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "lesbian"
+    },
+    {
+      "collocations": [],
+      "definition": "自由的；自由论者的；持自由论的 n. 自由论",
+      "examples": [],
+      "phonetic": "ˌlɪbəˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "libertarian"
+    },
+    {
+      "collocations": [],
+      "definition": "图书管理员；图书馆员",
+      "examples": [],
+      "frequency": 7629,
+      "phonetic": "laɪˈbreərɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "librarian"
+    },
+    {
+      "collocations": [],
+      "definition": "立陶宛（前苏联加盟共和国）人 adj. 立陶宛",
+      "examples": [],
+      "phonetic": "ˌliθju:ˈeiniən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Lithuanian"
+    },
+    {
+      "collocations": [],
+      "definition": "魔术师，变戏法的人",
+      "examples": [],
+      "frequency": 9621,
+      "phonetic": "məˈdʒɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "magician"
+    },
+    {
+      "collocations": [],
+      "definition": "马来西亚的；马来西亚人的 n. 马来西亚人",
+      "examples": [],
+      "frequency": 17497,
+      "phonetic": "məˈleiʒən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Malaysian"
+    },
+    {
+      "collocations": [],
+      "definition": "哺乳类动物的 n. 哺乳动物",
+      "examples": [],
+      "frequency": 19227,
+      "phonetic": "mæˈmeɪlɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "mammalian"
+    },
+    {
+      "collocations": [],
+      "definition": "火星的 n. 火星人",
+      "examples": [],
+      "frequency": 9439,
+      "phonetic": "ˈmɑ:ʃən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Martian"
+    },
+    {
+      "collocations": [],
+      "definition": "数学家",
+      "examples": [],
+      "frequency": 10784,
+      "phonetic": "mæθəməˈtɪʃn",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "mathematician"
+    },
+    {
+      "collocations": [],
+      "definition": "中值，中位数；中线 adj. 中央的；中间的",
+      "examples": [],
+      "frequency": 6910,
+      "phonetic": "ˈmi:dɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "median"
+    },
+    {
+      "collocations": [],
+      "definition": "音乐家",
+      "examples": [],
+      "frequency": 2959,
+      "phonetic": "mju:ˈzɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "musician"
+    },
+    {
+      "collocations": [],
+      "definition": "牛顿（学说）的 n. 信仰牛顿学说的人",
+      "examples": [],
+      "frequency": 20130,
+      "phonetic": "nju:ˈtəuniən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Newtonian"
+    },
+    {
+      "collocations": [],
+      "definition": "尼日利亚人 adj. 尼日利亚的",
+      "examples": [],
+      "frequency": 11284,
+      "phonetic": "naiˈdʒiəriən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Nigerian"
+    },
+    {
+      "collocations": [],
+      "definition": "挪威的；挪威语的；挪威人的 n. 挪威人",
+      "examples": [],
+      "frequency": 1005,
+      "phonetic": "nɔ:ˈwi:dʒən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Norwegian"
+    },
+    {
+      "collocations": [],
+      "definition": "产科医师",
+      "examples": [],
+      "frequency": 17188,
+      "phonetic": "ˌɒbstəˈtrɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "obstetrician"
+    },
+    {
+      "collocations": [],
+      "definition": "威严的；奥林匹克竞赛的；奥林匹斯山的 n. 奥",
+      "examples": [],
+      "phonetic": "əuˈlimpiən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Olympian"
+    },
+    {
+      "collocations": [],
+      "definition": "卵巢的；子房的",
+      "examples": [],
+      "frequency": 14853,
+      "phonetic": "əʊˈveərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "ovarian"
+    },
+    {
+      "collocations": [],
+      "definition": "巴勒斯坦的 n. 巴勒斯坦人",
+      "examples": [],
+      "frequency": 2555,
+      "phonetic": "pælɪˈstɪnɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Palestinian"
+    },
+    {
+      "collocations": [],
+      "definition": "巴拿马人 adj. 巴拿马的",
+      "examples": [],
+      "frequency": 16588,
+      "phonetic": "ˌpænəˈmeɪnjən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Panamanian"
+    },
+    {
+      "collocations": [],
+      "definition": "巴黎人的；巴黎的 n. 巴黎人",
+      "examples": [],
+      "frequency": 13845,
+      "phonetic": "pəˈrizjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Parisian"
+    },
+    {
+      "collocations": [],
+      "definition": "徒步的；缺乏想像力的；平淡无奇的 n.（尤指",
+      "examples": [],
+      "phonetic": "pɪˈdestrɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "pedestrian"
+    },
+    {
+      "collocations": [],
+      "definition": "小儿科医师",
+      "examples": [],
+      "frequency": 10008,
+      "phonetic": "ˌpi:diəˈtrɪʃn",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "pediatrician"
+    },
+    {
+      "collocations": [],
+      "definition": "波斯人；波斯语 adj. 波斯的；波斯人的",
+      "examples": [],
+      "frequency": 4580,
+      "phonetic": "ˈpɜ:ʃn",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Persian"
+    },
+    {
+      "collocations": [],
+      "definition": "秘鲁人的；秘鲁的 n. 秘鲁人",
+      "examples": [],
+      "frequency": 11008,
+      "phonetic": "pəˈru:vjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Peruvian"
+    },
+    {
+      "collocations": [],
+      "definition": "医师；内科医师",
+      "examples": [],
+      "frequency": 2058,
+      "phonetic": "fɪˈzɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "physician"
+    },
+    {
+      "collocations": [],
+      "definition": "长老制的,长老会的(尤指苏格兰和美国的",
+      "examples": [],
+      "phonetic": "ˌprɛsbɪˈtɪərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Presbyterian"
+    },
+    {
+      "collocations": [],
+      "definition": "普鲁士的；普鲁士语的；普鲁士人的 n. 普鲁士",
+      "examples": [],
+      "frequency": 19489,
+      "phonetic": "ˈprʌʃən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Prussian"
+    },
+    {
+      "collocations": [],
+      "definition": "河边的；水滨的 n. 河岸拥有人",
+      "examples": [],
+      "frequency": 18759,
+      "phonetic": "raɪˈpeərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "riparian"
+    },
+    {
+      "collocations": [],
+      "definition": "罗马尼亚人；罗马尼亚语 adj. 罗马尼亚的；罗马",
+      "examples": [],
+      "phonetic": "ru:ˈmeiniən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "Romanian"
+    },
+    {
+      "collocations": [],
+      "definition": "俄国的；俄语的 n. 俄罗斯人；俄语",
+      "examples": [],
+      "frequency": 1571,
+      "phonetic": "ˈrʌʃ(ə)n",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Russian"
+    },
+    {
+      "collocations": [],
+      "definition": "斯堪的纳维亚（人）的 n. 斯堪的",
+      "examples": [],
+      "phonetic": "ˌskændiˈneiviən; -vjən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Scandinavian"
+    },
+    {
+      "collocations": [],
+      "definition": "宗派的；派系的 n. 宗派主义者",
+      "examples": [],
+      "frequency": 10491,
+      "phonetic": "sekˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "sectarian"
+    },
+    {
+      "collocations": [],
+      "definition": "塞尔维亚人（语）的；塞尔维亚的 n. 塞尔维亚人",
+      "examples": [],
+      "phonetic": "ˈsə:biən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Serbian"
+    },
+    {
+      "collocations": [],
+      "definition": "西伯利亚（人）的；来自西伯利亚的",
+      "examples": [],
+      "frequency": 15915,
+      "phonetic": "saiˈbiəriən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Siberian"
+    },
+    {
+      "collocations": [],
+      "definition": "西西里岛的 n. 西西里岛",
+      "examples": [],
+      "frequency": 20133,
+      "phonetic": "siˈsiljən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Sicilian"
+    },
+    {
+      "collocations": [],
+      "definition": "统计学家；统计员",
+      "examples": [],
+      "frequency": 18800,
+      "phonetic": "stætɪˈstɪʃn",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "statistician"
+    },
+    {
+      "collocations": [],
+      "definition": "叙利亚的；叙利亚语的；叙利亚人的 n. 叙利亚人",
+      "examples": [],
+      "frequency": 8339,
+      "phonetic": "ˈsɪrɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Syrian"
+    },
+    {
+      "collocations": [],
+      "definition": "技师，技术员；技巧纯熟的人",
+      "examples": [],
+      "frequency": 4883,
+      "phonetic": "tekˈnɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "technician"
+    },
+    {
+      "collocations": [],
+      "definition": "神学者；空头理论家",
+      "examples": [],
+      "frequency": 6922,
+      "phonetic": "θɪəˈləʊdʒɪən; -dʒ(ə)n",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "theologian"
+    },
+    {
+      "collocations": [],
+      "definition": "极权主义的 n. 极权主义者",
+      "examples": [],
+      "phonetic": "ˌtəʊtælɪˈteərɪən; tə(ʊ)ˌtælɪ-",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "totalitarian"
+    },
+    {
+      "collocations": [],
+      "definition": "乌克兰的；乌克兰人的 n. 乌克兰人",
+      "examples": [],
+      "phonetic": "ju:ˈkreiniən; -ˈkrai-",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Ukrainian"
+    },
+    {
+      "collocations": [],
+      "definition": "功利主义的；功利的；实利的 n. 功利主义者",
+      "examples": [],
+      "phonetic": "jʊˌtɪlɪˈteərɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "utilitarian"
+    },
+    {
+      "collocations": [],
+      "definition": "空想的；乌托邦的；理想化的 n. 空想的社会主义",
+      "examples": [],
+      "phonetic": "juˈtopɪən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "utopian"
+    },
+    {
+      "collocations": [],
+      "definition": "素食者；食草动物 adj. 素食者的",
+      "examples": [],
+      "frequency": 9249,
+      "phonetic": "ˌvedʒɪˈteərɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "vegetarian"
+    },
+    {
+      "collocations": [],
+      "definition": "威尼斯的；威尼斯人的 n. 威尼斯人",
+      "examples": [],
+      "frequency": 12277,
+      "phonetic": "vəˈniʃən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Venetian"
+    },
+    {
+      "collocations": [],
+      "definition": "兽医",
+      "examples": [],
+      "frequency": 11836,
+      "phonetic": "ˌvet(ə)rɪˈneərɪən",
+      "pos": "n.",
+      "rootHint": "cern",
+      "word": "veterinarian"
+    },
+    {
+      "collocations": [],
+      "definition": "维多利亚女王时代的；英国维多利亚女王时代的",
+      "examples": [],
+      "phonetic": "vikˈtɔ:riən",
+      "pos": "adj.",
+      "rootHint": "cern",
+      "word": "Victorian"
     }
   ]
 }

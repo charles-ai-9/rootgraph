@@ -89,6 +89,7 @@ export function AffixGroupFields({
               value={formsLine}
               onChange={(e) => setFormsLine(e.target.value)}
               placeholder={affixFormPlaceholder(kind)}
+              onBlur={finishEditForms}
               onKeyDown={(e) => {
                 if (e.key === 'Enter') {
                   e.preventDefault();

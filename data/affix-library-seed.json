@@ -3,7 +3,7 @@
     "source": "词根词缀.docx",
     "rootGroups": 386,
     "prefixGroups": 47,
-    "suffixGroups": 55,
+    "suffixGroups": 56,
     "xlsxExamplesMerged": true
   },
   "items": [
@@ -6388,17 +6388,6 @@
       "order": 12
     },
     {
-      "id": "p013",
-      "kind": "prefix",
-      "name": "o??-",
-      "pos": "",
-      "meaning": "相反，强调",
-      "note": "",
-      "isParent": false,
-      "parentId": null,
-      "order": 13
-    },
-    {
       "id": "p014",
       "kind": "prefix",
       "name": "i??-",
@@ -7351,6 +7340,17 @@
       "pos": "n. / adj.",
       "meaning": "形容词或名词后缀",
       "note": "economic [,i:kə'nɔmik] adj. 经济的、经济学的 critic [ˈkrɪtɪk] n. 评论家；批评者",
+      "isParent": false,
+      "parentId": null,
+      "order": 18
+    },
+    {
+      "id": "s018a",
+      "kind": "suffix",
+      "name": "-ics",
+      "pos": "n.",
+      "meaning": "名词后缀，表示学科、学问（…学）",
+      "note": "economics [ˌi:kəˈnɔmiks] n. 经济学 politics [ˈpɒlətɪks] n. 政治 aerobics [eəˈrəʊbɪks] n. 有氧运动 electronics [ɪlekˈtrɒnɪks] n. 电子学",
       "isParent": false,
       "parentId": null,
       "order": 18

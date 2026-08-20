@@ -2,16 +2,26 @@ import { useCallback, useEffect, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 
+export interface WordFieldOverrides {
+  mnemonic?: string;
+  collocations?: string;
+}
+
 interface NotesStore {
   families: Record<string, string>;
   words: Record<string, string>;
   affixNotes: Record<string, WordAffixNotes>;
+  wordFields: Record<string, WordFieldOverrides>;
 }
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
 const LEGACY_KEY = 'rootgraph-notes-v1';
 
-const empty: NotesStore = { families: {}, words: {}, affixNotes: {} };
+const empty: NotesStore = { families: {}, words: {}, affixNotes: {}, wordFields: {} };
+
+export function collocationsToText(items: string[]): string {
+  return items.join('\n');
+}
 
 function normalizeAffixNote(raw: unknown): AffixNoteData {
   if (!raw || typeof raw !== 'object') return emptyAffixNote();
@@ -22,6 +32,8 @@ function normalizeAffixNote(raw: unknown): AffixNoteData {
     knowledge: o.knowledge ?? '',
     evolution: o.evolution ?? '',
     libraryRef: o.libraryRef,
+    suppressed: o.suppressed,
+    inferred: o.inferred,
   };
 }
 
@@ -74,6 +86,7 @@ function load(): NotesStore {
         affixNotes: Object.fromEntries(
           Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
         ),
+        wordFields: parsed.wordFields ?? {},
       };
     }
 
@@ -84,6 +97,7 @@ function load(): NotesStore {
         families: parsed.families ?? {},
         words: parsed.words ?? {},
         affixNotes: {},
+        wordFields: {},
       };
     }
   } catch {
@@ -138,6 +152,42 @@ export function useNotes() {
     [],
   );
 
+  const getWordMnemonic = useCallback(
+    (key: string, seed = '') => {
+      const hit = store.wordFields[key]?.mnemonic;
+      return hit !== undefined ? hit : seed;
+    },
+    [store],
+  );
+
+  const setWordMnemonic = useCallback((key: string, text: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], mnemonic: text },
+      },
+    }));
+  }, []);
+
+  const getWordCollocations = useCallback(
+    (key: string, seed: string[] = []) => {
+      const hit = store.wordFields[key]?.collocations;
+      return hit !== undefined ? hit : collocationsToText(seed);
+    },
+    [store],
+  );
+
+  const setWordCollocations = useCallback((key: string, text: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], collocations: text },
+      },
+    }));
+  }, []);
+
   return {
     getFamilyNote,
     setFamilyNote,
@@ -145,5 +195,9 @@ export function useNotes() {
     setWordNote,
     getWordAffixNotes,
     setWordAffixNote,
+    getWordMnemonic,
+    setWordMnemonic,
+    getWordCollocations,
+    setWordCollocations,
   };
 }

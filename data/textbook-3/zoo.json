@@ -1,0 +1,29 @@
+{
+  "id": "zoo",
+  "source": "textbook-3",
+  "chapter": "13",
+  "chapterOrder": 113,
+  "titleZh": "",
+  "semanticLabel": "",
+  "meaningEn": null,
+  "meaningZh": null,
+  "roots": [
+    "zoo"
+  ],
+  "words": [
+    {
+      "word": "zoo",
+      "phonetic": "zu:",
+      "pos": "n.",
+      "definition": "动物园6380",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "beijing zoo: 北京动物园"
+      ],
+      "etymology": "1847年，Zoological Gardens of the London Zoological Society ( 伦敦动 物学会动物公园)的缩写，于1828年在摄政公园建立，以收藏社会上 20000词汇巅峰速记 20000词汇巅峰速 的野生动物。前三个字母为一个音节。后来，成为广泛的口语化使 用。俚语意为“拥挤和混乱的地方”首次记录于1935年。",
+      "examples": [],
+      "rootHint": "zoo"
+    }
+  ]
+}

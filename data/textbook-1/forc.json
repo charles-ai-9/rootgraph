@@ -1,784 +1,606 @@
 {
-  "chapter" : "十",
-  "chapterOrder" : 10,
-  "id" : "forc",
-  "meaningEn" : "force, strength",
-  "meaningZh" : "力量，实力",
-  "roots" : [
+  "chapter": "十",
+  "chapterOrder": 10,
+  "id": "forc",
+  "meaningEn": "force, strength",
+  "meaningZh": "力量，实力",
+  "roots": [
     "forc",
     "fort"
   ],
-  "semanticLabel" : "力量，实力",
-  "source" : "textbook-1",
-  "titleZh" : "力量，实力",
-  "words" : [
+  "semanticLabel": "力量，实力",
+  "source": "textbook-1",
+  "titleZh": "力量，实力",
+  "words": [
     {
-      "collocations" : [
-
-      ],
-      "definition" : "力量；武力；魄力；军队 vt. 强迫；迫使",
-      "examples" : [
-
-      ],
-      "frequency" : 373,
-      "phonetic" : "fɔːs",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "force"
+      "collocations": [],
+      "definition": "力量；武力；魄力；军队 vt. 强迫；迫使",
+      "examples": [],
+      "frequency": 373,
+      "phonetic": "fɔːs",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "force"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "强迫的；被迫的",
-      "examples" : [
-
-      ],
-      "frequency" : 6110,
-      "mnemonic" : "forc (强迫) +ed (形容词后缀) →强迫的；被迫的",
-      "phonetic" : "fɔːst",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "forced"
+      "collocations": [],
+      "definition": "强迫的；被迫的",
+      "examples": [],
+      "frequency": 6110,
+      "mnemonic": "forc (强迫) +ed (形容词后缀) →强迫的；被迫的",
+      "phonetic": "fɔːst",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "forced"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "有说服力的；强有力的；坚强的",
-      "examples" : [
-
-      ],
-      "frequency" : 10248,
-      "mnemonic" : "force (力量；强力) +ful (形容词后缀) →强有力的",
-      "phonetic" : "ˈfɔːsfʊl; -f(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "forceful"
+      "collocations": [],
+      "definition": "有说服力的；强有力的；坚强的",
+      "examples": [],
+      "frequency": 10248,
+      "mnemonic": "force (力量；强力) +ful (形容词后缀) →强有力的",
+      "phonetic": "ˈfɔːsfʊl; -f(ə)l",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "forceful"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "激烈地；强有力地；有说服力地",
-      "examples" : [
-
-      ],
-      "frequency" : 10841,
-      "mnemonic" : "force (力量；强力) +ful (形容词后缀) +ly (副词性后缀) →强有力地",
-      "phonetic" : "ˈfɔrsfəli",
-      "pos" : "adv.",
-      "rootHint" : "forc",
-      "word" : "forcefully"
+      "collocations": [],
+      "definition": "激烈地；强有力地；有说服力地",
+      "examples": [],
+      "frequency": 10841,
+      "mnemonic": "force (力量；强力) +ful (形容词后缀) +ly (副词性后缀) →强有力地",
+      "phonetic": "ˈfɔrsfəli",
+      "pos": "adv.",
+      "rootHint": "forc",
+      "word": "forcefully"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "强制地；用力地；有说服力地",
-      "examples" : [
-
-      ],
-      "frequency" : 13723,
-      "mnemonic" : "force (力量；强力) +ible (能够……的) +ly (副词性后缀) →强制地；用",
-      "phonetic" : "ˈfɔːsɪblɪ",
-      "pos" : "adv.",
-      "rootHint" : "forc",
-      "word" : "forcibly"
+      "collocations": [],
+      "definition": "强制地；用力地；有说服力地",
+      "examples": [],
+      "frequency": 13723,
+      "mnemonic": "force (力量；强力) +ible (能够……的) +ly (副词性后缀) →强制地；用",
+      "phonetic": "ˈfɔːsɪblɪ",
+      "pos": "adv.",
+      "rootHint": "forc",
+      "word": "forcibly"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "劳动力；工人总数，职工总数",
-      "examples" : [
-
-      ],
-      "frequency" : 6718,
-      "mnemonic" : "work (工作，劳动) +force (力量) → 用于劳动的力量→劳动力；工人",
-      "phonetic" : "ˈwɜːkfɔːs",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "workforce"
+      "collocations": [],
+      "definition": "劳动力；工人总数，职工总数",
+      "examples": [],
+      "frequency": 6718,
+      "mnemonic": "work (工作，劳动) +force (力量) → 用于劳动的力量→劳动力；工人",
+      "phonetic": "ˈwɜːkfɔːs",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "workforce"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "加强，加固；补充；强化",
-      "examples" : [
+      "collocations": [],
+      "definition": "加强，加固；补充；强化",
+      "examples": [
         "Such findings reinforce psychologists’ suspicions that the experience or\nperception of helplessness is one of the most harmful factors in depression.\n这些发现加强了心理学家的怀疑：无助的经验或感觉在沮丧中是最有\n害的因素。"
       ],
-      "frequency" : 3360,
-      "mnemonic" : "re (又，再) +in (加入) +force (力量，部队) →又注入力量，部队→增",
-      "phonetic" : "riːɪnˈfɔːs",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "reinforce"
+      "frequency": 3360,
+      "mnemonic": "re (又，再) +in (加入) +force (力量，部队) →又注入力量，部队→增",
+      "phonetic": "riːɪnˈfɔːs",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "reinforce"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "加固；增援；援军；加强",
-      "examples" : [
-
-      ],
-      "frequency" : 7639,
-      "mnemonic" : "re (又，再) +in (加入) +force (力量，部队) +ment (名词性后缀) →又注\n入力量，部队→增援，加强",
-      "phonetic" : "riːɪnˈfɔːsm(ə)nt",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "reinforcement"
+      "collocations": [],
+      "definition": "加固；增援；援军；加强",
+      "examples": [],
+      "frequency": 7639,
+      "mnemonic": "re (又，再) +in (加入) +force (力量，部队) +ment (名词性后缀) →又注\n入力量，部队→增援，加强",
+      "phonetic": "riːɪnˈfɔːsm(ə)nt",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "reinforcement"
     },
     {
-      "collocations" : [
-        "enforce a regulation：实施\/执行一个规定"
+      "collocations": [
+        "enforce a regulation：实施/执行一个规定"
       ],
-      "definition" : "强迫，强制；实施，执行",
-      "examples" : [
+      "definition": "强迫，强制；实施，执行",
+      "examples": [
         "However, it is those of us who are paid to make the decisions to develop,\nimprove and enforce environmental standards, I submit, who must lead the\ncharge.\n然而，正是我们这些人领薪水去决定发展，改善和实施环境标准，我\n认为，我们必须带头。"
       ],
-      "frequency" : 3579,
-      "mnemonic" : "en (使动词) +force (力量，效力) →使 (法律等) 生效，实施",
-      "phonetic" : "ɪnˈfɔːs; en-",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "enforce"
+      "frequency": 3579,
+      "mnemonic": "en (使动词) +force (力量，效力) →使 (法律等) 生效，实施",
+      "phonetic": "ɪnˈfɔːs; en-",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "enforce"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "可实施的；可执行的",
-      "examples" : [
-
-      ],
-      "frequency" : 19992,
-      "mnemonic" : "en (使动词) +force (力量，效力) +able (形容词性后缀，表示“可\n以……的，能……的”) → 能够实施的，能够产生效力的，可以执",
-      "phonetic" : "ɪnˈforsəbl",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "enforceable"
+      "collocations": [],
+      "definition": "可实施的；可执行的",
+      "examples": [],
+      "frequency": 19992,
+      "mnemonic": "en (使动词) +force (力量，效力) +able (形容词性后缀，表示“可\n以……的，能……的”) → 能够实施的，能够产生效力的，可以执",
+      "phonetic": "ɪnˈforsəbl",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "enforceable"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "强制执行的；实施的",
-      "examples" : [
-
-      ],
-      "frequency" : 18046,
-      "mnemonic" : "en (使动词) +force (力量，效力) +ed (表示动作完成的形容词性后缀)\n→强制执行的；实施的",
-      "phonetic" : "ɪnˈfɔrst",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "enforced"
+      "collocations": [],
+      "definition": "强制执行的；实施的",
+      "examples": [],
+      "frequency": 18046,
+      "mnemonic": "en (使动词) +force (力量，效力) +ed (表示动作完成的形容词性后缀)\n→强制执行的；实施的",
+      "phonetic": "ɪnˈfɔrst",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "enforced"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "执行，实施；强制",
-      "examples" : [
-
-      ],
-      "frequency" : 2308,
-      "mnemonic" : "en (使动词) +force (力量，效力) +ment (名词性后缀) → 执行，实施；",
-      "phonetic" : "enˈfɔːsm(ə)nt",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "enforcement"
+      "collocations": [],
+      "definition": "执行，实施；强制",
+      "examples": [],
+      "frequency": 2308,
+      "mnemonic": "en (使动词) +force (力量，效力) +ment (名词性后缀) → 执行，实施；",
+      "phonetic": "enˈfɔːsm(ə)nt",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "enforcement"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "实施者；强制执行者",
-      "examples" : [
-
-      ],
-      "frequency" : 17650,
-      "mnemonic" : "en (使动词) +force (力量，效力) +er (表示人的名词性后缀) →实施",
-      "phonetic" : "ɪnˈfɔrsɚ",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "enforcer"
+      "collocations": [],
+      "definition": "实施者；强制执行者",
+      "examples": [],
+      "frequency": 17650,
+      "mnemonic": "en (使动词) +force (力量，效力) +er (表示人的名词性后缀) →实施",
+      "phonetic": "ɪnˈfɔrsɚ",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "enforcer"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "堡垒；要塞；（美）边界贸易站",
-      "etymology" : "Mid-15c., “fortified place, stronghold,” from Old French fort “fort, fortress; strong man,” noun use of adjective meaning “strong, stout, sturdy; hard, severe, difficult; hard to understand; dreadful, terrible; fortified”(10c.), from Latin fortis “strong, mighty; firm, steadfast; brave, spirited,” from Old Latin forctus, which is of unknown etymology. Possibly from PIE root *bhergh- (2) “high, elevated,” with derivatives referring to hills and hill- forts, or possibly from *dher- “to hold firmly, support.” Figurative use of hold the fort attested from 1590s. 释义和用法： A fort is a strong building or a place with a wall or fence around it where soldiers can stay and be safe from the enemy. 堡垒；要塞；城堡",
-      "examples" : [
-
-      ],
-      "frequency" : 8724,
-      "phonetic" : "fɔːt",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "fort"
+      "collocations": [],
+      "definition": "堡垒；要塞；（美）边界贸易站",
+      "etymology": "Mid-15c., “fortified place, stronghold,” from Old French fort “fort, fortress; strong man,” noun use of adjective meaning “strong, stout, sturdy; hard, severe, difficult; hard to understand; dreadful, terrible; fortified”(10c.), from Latin fortis “strong, mighty; firm, steadfast; brave, spirited,” from Old Latin forctus, which is of unknown etymology. Possibly from PIE root *bhergh- (2) “high, elevated,” with derivatives referring to hills and hill- forts, or possibly from *dher- “to hold firmly, support.” Figurative use of hold the fort attested from 1590s. 释义和用法： A fort is a strong building or a place with a wall or fence around it where soldiers can stay and be safe from the enemy. 堡垒；要塞；城堡",
+      "examples": [],
+      "frequency": 8724,
+      "phonetic": "fɔːt",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "fort"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "加强；（酒）的酒精含量；增强；设防于",
-      "examples" : [
-
-      ],
-      "frequency" : 13155,
-      "mnemonic" : "fort (=force：力量) +ify (使动词后缀) →使加强力量→加强；增强",
-      "phonetic" : "ˈfɔːtɪfaɪ",
-      "pos" : "vt.",
-      "rootHint" : "fort",
-      "word" : "fortify"
+      "collocations": [],
+      "definition": "加强；（酒）的酒精含量；增强；设防于",
+      "examples": [],
+      "frequency": 13155,
+      "mnemonic": "fort (=force：力量) +ify (使动词后缀) →使加强力量→加强；增强",
+      "phonetic": "ˈfɔːtɪfaɪ",
+      "pos": "vt.",
+      "rootHint": "fort",
+      "word": "fortify"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "加强的",
-      "examples" : [
-
-      ],
-      "frequency" : 16065,
-      "mnemonic" : "fort (力量) +ify (使动词后缀) +ed (表示动作完成的形容词性后缀) →\n使加强力量的→ 加强的",
-      "phonetic" : "ˈfɔ:tifaid",
-      "pos" : "adj.",
-      "rootHint" : "fort",
-      "word" : "fortified"
+      "collocations": [],
+      "definition": "加强的",
+      "examples": [],
+      "frequency": 16065,
+      "mnemonic": "fort (力量) +ify (使动词后缀) +ed (表示动作完成的形容词性后缀) →\n使加强力量的→ 加强的",
+      "phonetic": "ˈfɔ:tifaid",
+      "pos": "adj.",
+      "rootHint": "fort",
+      "word": "fortified"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "加强；设防；防御工事",
-      "examples" : [
-
-      ],
-      "frequency" : 18263,
-      "mnemonic" : "fort (力量；堡垒；要塞) +ify (使动词后缀) +ic (无意义) +ation (名词\n性后缀) →加强；设防；防御工事",
-      "phonetic" : "ˌfɔːtɪfɪˈkeɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "fortification"
+      "collocations": [],
+      "definition": "加强；设防；防御工事",
+      "examples": [],
+      "frequency": 18263,
+      "mnemonic": "fort (力量；堡垒；要塞) +ify (使动词后缀) +ic (无意义) +ation (名词\n性后缀) →加强；设防；防御工事",
+      "phonetic": "ˌfɔːtɪfɪˈkeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "fortification"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "要塞；堡垒",
-      "examples" : [
-
-      ],
-      "frequency" : 9309,
-      "mnemonic" : "fort (堡垒；要塞) +ress (名词性后缀) →要塞；堡垒",
-      "phonetic" : "ˈfɔːtrɪs",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "fortress"
+      "collocations": [],
+      "definition": "要塞；堡垒",
+      "examples": [],
+      "frequency": 9309,
+      "mnemonic": "fort (堡垒；要塞) +ress (名词性后缀) →要塞；堡垒",
+      "phonetic": "ˈfɔːtrɪs",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "fortress"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "刚毅，坚毅，不屈不挠",
-      "examples" : [
-
-      ],
-      "frequency" : 17924,
-      "mnemonic" : "fort (力量) +itude (表示状态的名词性后缀) → 表示人有力量的状态→",
-      "phonetic" : "ˈfɔːtɪtjuːd",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "fortitude"
+      "collocations": [],
+      "definition": "刚毅，坚毅，不屈不挠",
+      "examples": [],
+      "frequency": 17924,
+      "mnemonic": "fort (力量) +itude (表示状态的名词性后缀) → 表示人有力量的状态→",
+      "phonetic": "ˈfɔːtɪtjuːd",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "fortitude"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "安慰；舒适；安慰者 vt. 安慰；慰藉",
-      "examples" : [
+      "collocations": [],
+      "definition": "安慰；舒适；安慰者 vt. 安慰；慰藉",
+      "examples": [
         "They had enough money to live in comfort in their old age.\n他们有足够的钱舒舒服服地安度晚年。\nHis words were of little comfort in the circumstances.\n在这种情况下，他的话起不了什么安慰作用。"
       ],
-      "frequency" : 2951,
-      "mnemonic" : "com (加强语气) +fort (=force：力量；strong：坚强，强壮) →给你增\n加力量，变得更坚强→安慰，慰藉",
-      "phonetic" : "ˈkʌmfət",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "comfort"
+      "frequency": 2951,
+      "mnemonic": "com (加强语气) +fort (=force：力量；strong：坚强，强壮) →给你增\n加力量，变得更坚强→安慰，慰藉",
+      "phonetic": "ˈkʌmfət",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "comfort"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "安慰者；（美）被子；（英）羊毛围巾",
-      "examples" : [
-
-      ],
-      "frequency" : 17068,
-      "mnemonic" : "comfort (安慰，慰藉) +er (表示人或物的名词性后缀) → 安慰者；(美)",
-      "phonetic" : "ˈkʌmfətə",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "comforter"
+      "collocations": [],
+      "definition": "安慰者；（美）被子；（英）羊毛围巾",
+      "examples": [],
+      "frequency": 17068,
+      "mnemonic": "comfort (安慰，慰藉) +er (表示人或物的名词性后缀) → 安慰者；(美)",
+      "phonetic": "ˈkʌmfətə",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "comforter"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "安慰的；令人欣慰的",
-      "examples" : [
-
-      ],
-      "frequency" : 7893,
-      "mnemonic" : "comfort (安慰，慰藉) +ing (表示令人……的形容词性后缀) → 安慰",
-      "phonetic" : "ˈkʌmfətɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "fort",
-      "word" : "comforting"
+      "collocations": [],
+      "definition": "安慰的；令人欣慰的",
+      "examples": [],
+      "frequency": 7893,
+      "mnemonic": "comfort (安慰，慰藉) +ing (表示令人……的形容词性后缀) → 安慰",
+      "phonetic": "ˈkʌmfətɪŋ",
+      "pos": "adj.",
+      "rootHint": "fort",
+      "word": "comforting"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "舒适的，舒服的",
-      "examples" : [
-
-      ],
-      "frequency" : 1713,
-      "mnemonic" : "comfort (舒适，舒服) +able (形容词性后缀，表示“能够……的”) →",
-      "phonetic" : "ˈkʌmftəbl",
-      "pos" : "adj.",
-      "rootHint" : "fort",
-      "word" : "comfortable"
+      "collocations": [],
+      "definition": "舒适的，舒服的",
+      "examples": [],
+      "frequency": 1713,
+      "mnemonic": "comfort (舒适，舒服) +able (形容词性后缀，表示“能够……的”) →",
+      "phonetic": "ˈkʌmftəbl",
+      "pos": "adj.",
+      "rootHint": "fort",
+      "word": "comfortable"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "不安的；不舒服的",
-      "examples" : [
-
-      ],
-      "frequency" : 3674,
-      "mnemonic" : "un (否定性前缀) +comfortable (舒适的，舒服的) →不安的；不舒服的",
-      "phonetic" : "ʌnˈkʌmf(ə)təb(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "fort",
-      "word" : "uncomfortable"
+      "collocations": [],
+      "definition": "不安的；不舒服的",
+      "examples": [],
+      "frequency": 3674,
+      "mnemonic": "un (否定性前缀) +comfortable (舒适的，舒服的) →不安的；不舒服的",
+      "phonetic": "ʌnˈkʌmf(ə)təb(ə)l",
+      "pos": "adj.",
+      "rootHint": "fort",
+      "word": "uncomfortable"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "舒服地；安乐地；充裕地",
-      "examples" : [
-
-      ],
-      "frequency" : 6998,
-      "mnemonic" : "comfortable (舒适的，舒服的) +ly (副词性后缀) → 舒服地；安乐地；",
-      "phonetic" : "ˈkʌmftəbli",
-      "pos" : "adv.",
-      "rootHint" : "fort",
-      "word" : "comfortably"
+      "collocations": [],
+      "definition": "舒服地；安乐地；充裕地",
+      "examples": [],
+      "frequency": 6998,
+      "mnemonic": "comfortable (舒适的，舒服的) +ly (副词性后缀) → 舒服地；安乐地；",
+      "phonetic": "ˈkʌmftəbli",
+      "pos": "adv.",
+      "rootHint": "fort",
+      "word": "comfortably"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "不舒服地；不安乐地",
-      "examples" : [
-
-      ],
-      "frequency" : 13086,
-      "mnemonic" : "un (否定性前缀) +comfortably (舒服地；安乐地) →不舒服地；不安",
-      "phonetic" : "ʌnˈkʌmftəbli",
-      "pos" : "adv.",
-      "rootHint" : "fort",
-      "word" : "uncomfortably"
+      "collocations": [],
+      "definition": "不舒服地；不安乐地",
+      "examples": [],
+      "frequency": 13086,
+      "mnemonic": "un (否定性前缀) +comfortably (舒服地；安乐地) →不舒服地；不安",
+      "phonetic": "ʌnˈkʌmftəbli",
+      "pos": "adv.",
+      "rootHint": "fort",
+      "word": "uncomfortably"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "不适，不安；不便之处",
-      "examples" : [
-
-      ],
-      "frequency" : 6552,
-      "mnemonic" : "dis (否定性前缀) +comfort (舒适，舒服) →不适，不安；不便之处",
-      "phonetic" : "dɪsˈkʌmfət",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "discomfort"
+      "collocations": [],
+      "definition": "不适，不安；不便之处",
+      "examples": [],
+      "frequency": 6552,
+      "mnemonic": "dis (否定性前缀) +comfort (舒适，舒服) →不适，不安；不便之处",
+      "phonetic": "dɪsˈkʌmfət",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "discomfort"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "努力；成就",
-      "examples" : [
+      "collocations": [],
+      "definition": "努力；成就",
+      "examples": [
         "It’s possible that plutocrats (有钱有势的人) are expressing solidarity with\nthe struggling middle class as part of an effort to insulate themselves from\nconfiscatory(没收性的)tax policies.\n有钱有势的人表达要和挣扎的中产阶级团结一致，可能是作为使自己\n远离没收性的税收政策的一部分努力。\nthe result of an attempt to do sth 努力的结果；成就",
         "I’m afraid this essay is a poor effort.\n我很抱歉，这篇文章写得并不怎么好。"
       ],
-      "frequency" : 455,
-      "mnemonic" : "ef (=ex：出去) +fort (=force：力量) → (花) 出去了力量→ (付出了) 努",
-      "phonetic" : "ˈefət",
-      "pos" : "n.",
-      "rootHint" : "fort",
-      "word" : "effort"
+      "frequency": 455,
+      "mnemonic": "ef (=ex：出去) +fort (=force：力量) → (花) 出去了力量→ (付出了) 努",
+      "phonetic": "ˈefət",
+      "pos": "n.",
+      "rootHint": "fort",
+      "word": "effort"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "容易的；不费力气的",
-      "examples" : [
-
-      ],
-      "frequency" : 15672,
-      "mnemonic" : "effort (努力) +less (否定后缀) → 没有付出努力的，不需要付出努力的\n→容易的；不费力气的",
-      "phonetic" : "ˈefətlɪs",
-      "pos" : "adj.",
-      "rootHint" : "fort",
-      "word" : "effortless"
+      "collocations": [],
+      "definition": "容易的；不费力气的",
+      "examples": [],
+      "frequency": 15672,
+      "mnemonic": "effort (努力) +less (否定后缀) → 没有付出努力的，不需要付出努力的\n→容易的；不费力气的",
+      "phonetic": "ˈefətlɪs",
+      "pos": "adj.",
+      "rootHint": "fort",
+      "word": "effortless"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "容易地；不费力地",
-      "examples" : [
-
-      ],
-      "frequency" : 13489,
-      "mnemonic" : "effortless (容易的；不费力的) +ly (副词性后缀) →容易地；不费力",
-      "phonetic" : "ˈefətlisli",
-      "pos" : "adv.",
-      "rootHint" : "fort",
-      "word" : "effortlessly"
+      "collocations": [],
+      "definition": "容易地；不费力地",
+      "examples": [],
+      "frequency": 13489,
+      "mnemonic": "effortless (容易的；不费力的) +ly (副词性后缀) →容易地；不费力",
+      "phonetic": "ˈefətlisli",
+      "pos": "adv.",
+      "rootHint": "fort",
+      "word": "effortlessly"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "部落；宗族；一伙；族（指动植物的一类）",
-      "etymology" : "Mid-13c., “one of the twelve divisions of the ancient Hebrews,” from Old French tribu or directly from Latin tribus “one of the three political\/ ethnic divisions of the original Roman state”(Tites, Ramnes, and Luceres, corresponding, perhaps, to the Latins, Sabines, and Etruscans), later, one of the 30 political divisions instituted by Servius Tullius (increased to 35 in 241 B.C.E.), of unknown origin. 释义和用法： Tribe is sometimes used to refer to a group of people of the same race, language, and customs, especially in a developing country. (尤指发展中国 家的) 部落，部族 短语：three-hundred members of the Xhosa tribe 300 名科萨族人 You can use tribe to refer to a group of people who are all doing the same thing or who all behave in the same way. (从事相同活动或行为相同的) 一伙 (人)，一帮 (人) 短语：tribes of talented young people 一群群才华出众的年轻人 (biology) a group of related animals or plants (生) (动物或植物的) 群，族 20000 词 汇巅峰 速 记 短语：the cat tribe 猫族 笔 记 区",
-      "examples" : [
-
-      ],
-      "frequency" : 2971,
-      "phonetic" : "traɪb",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "tribe"
+      "collocations": [],
+      "definition": "部落；宗族；一伙；族（指动植物的一类）",
+      "etymology": "Mid-13c., “one of the twelve divisions of the ancient Hebrews,” from Old French tribu or directly from Latin tribus “one of the three political/ ethnic divisions of the original Roman state”(Tites, Ramnes, and Luceres, corresponding, perhaps, to the Latins, Sabines, and Etruscans), later, one of the 30 political divisions instituted by Servius Tullius (increased to 35 in 241 B.C.E.), of unknown origin. 释义和用法： Tribe is sometimes used to refer to a group of people of the same race, language, and customs, especially in a developing country. (尤指发展中国 家的) 部落，部族 短语：three-hundred members of the Xhosa tribe 300 名科萨族人 You can use tribe to refer to a group of people who are all doing the same thing or who all behave in the same way. (从事相同活动或行为相同的) 一伙 (人)，一帮 (人) 短语：tribes of talented young people 一群群才华出众的年轻人 (biology) a group of related animals or plants (生) (动物或植物的) 群，族 20000 词 汇巅峰 速 记 短语：the cat tribe 猫族 笔 记 区",
+      "examples": [],
+      "frequency": 2971,
+      "phonetic": "traɪb",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "tribe"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "部落的；种族的",
-      "examples" : [
-
-      ],
-      "frequency" : 4082,
-      "mnemonic" : "tribe (部落；种族) +al (形容词性后缀) →部落的；种族的",
-      "phonetic" : "ˈtraɪb(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "tribal"
+      "collocations": [],
+      "definition": "部落的；种族的",
+      "examples": [],
+      "frequency": 4082,
+      "mnemonic": "tribe (部落；种族) +al (形容词性后缀) →部落的；种族的",
+      "phonetic": "ˈtraɪb(ə)l",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "tribal"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "部落成员",
-      "examples" : [
-
-      ],
-      "frequency" : 18807,
-      "mnemonic" : "tribes (部落；种族) +man (人) →部落成员",
-      "phonetic" : "ˈtraɪbzmən",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "tribesman"
+      "collocations": [],
+      "definition": "部落成员",
+      "examples": [],
+      "frequency": 18807,
+      "mnemonic": "tribes (部落；种族) +man (人) →部落成员",
+      "phonetic": "ˈtraɪbzmən",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "tribesman"
     },
     {
-      "collocations" : [
+      "collocations": [
         "pay tribute to (考)：歌颂，赞颂"
       ],
-      "definition" : "贡物；颂词；礼物",
-      "etymology" : "Mid-14c., “stated sum of money or other valuable consideration paid by one ruler or country to another in acknowledgment of submission or as the price of peace or protection,” from Anglo-French tribute, Old French tribut and directly from Latin tributum “tribute, a stated payment, a thing contributed or paid,” noun use of neuter of tributus, past participle of tribuere “to pay, assign, grant,” also “allot among the tribes or to a tribe,” from tribus (see tribe). Sense of “offering, gift, token” is first recorded 1580s.",
-      "examples" : [
+      "definition": "贡物；颂词；礼物",
+      "etymology": "Mid-14c., “stated sum of money or other valuable consideration paid by one ruler or country to another in acknowledgment of submission or as the price of peace or protection,” from Anglo-French tribute, Old French tribut and directly from Latin tributum “tribute, a stated payment, a thing contributed or paid,” noun use of neuter of tributus, past participle of tribuere “to pay, assign, grant,” also “allot among the tribes or to a tribe,” from tribus (see tribe). Sense of “offering, gift, token” is first recorded 1580s.",
+      "examples": [
         "The song is a tribute to Roy Orbison.\n那首歌是对罗伊·奥比森的致敬。\nHe paid tribute to the organising committee.\n他赞扬了组委会。"
       ],
-      "frequency" : 5009,
-      "mnemonic" : "trib (=give：给) +ute (名词后缀) →给 (其他人的) 的东西→贡品，礼物",
-      "phonetic" : "ˈtrɪbjuːt",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "tribute"
+      "frequency": 5009,
+      "mnemonic": "trib (=give：给) +ute (名词后缀) →给 (其他人的) 的东西→贡品，礼物",
+      "phonetic": "ˈtrɪbjuːt",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "tribute"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（审理特定案件的）特别法庭，审理委员会",
-      "etymology" : "Early 15c., “a judgment seat,” from Old French tribunal “justice seat, judgment seat”(13c.) and directly from Latin tribunal “platform for the seat of magistrates, elevation, embankment,” from tribunus “official in ancient Rome, magistrate,” literally “head of a tribe”(see tribune). Hence, “a court of justice or judicial assembly”(1580s). 释义和用法： A tribunal is a special court or committee that is appointed to deal with particular problems. (审理特定案件的) 特别法庭，审理委员会",
-      "examples" : [
+      "collocations": [],
+      "definition": "（审理特定案件的）特别法庭，审理委员会",
+      "etymology": "Early 15c., “a judgment seat,” from Old French tribunal “justice seat, judgment seat”(13c.) and directly from Latin tribunal “platform for the seat of magistrates, elevation, embankment,” from tribunus “official in ancient Rome, magistrate,” literally “head of a tribe”(see tribune). Hence, “a court of justice or judicial assembly”(1580s). 释义和用法： A tribunal is a special court or committee that is appointed to deal with particular problems. (审理特定案件的) 特别法庭，审理委员会",
+      "examples": [
         "His case comes before an industrial tribunal in March.\n他的讼案将于3月在劳资法庭受审。"
       ],
-      "phonetic" : "traɪˈbju:n(ə)l; trɪ-",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "tribunal"
+      "phonetic": "traɪˈbju:n(ə)l; trɪ-",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "tribunal"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "纳贡的；附属的；辅助的",
-      "examples" : [
-
-      ],
-      "frequency" : 11725,
-      "mnemonic" : "tribute (贡物；颂词) +ary (形容词性后缀) → 给别国纳贡的国家是附属\n于别国的→ 纳贡的；附属的；辅助的",
-      "phonetic" : "ˈtrɪbjʊt(ə)rɪ",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "tributary"
+      "collocations": [],
+      "definition": "纳贡的；附属的；辅助的",
+      "examples": [],
+      "frequency": 11725,
+      "mnemonic": "tribute (贡物；颂词) +ary (形容词性后缀) → 给别国纳贡的国家是附属\n于别国的→ 纳贡的；附属的；辅助的",
+      "phonetic": "ˈtrɪbjʊt(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "tributary"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "报应；惩罚；报答；报偿",
-      "etymology" : "Late 14c., “repayment,” from Old French retribution and directly from Latin retributionem (nominative retributio) “recompense, repayment,” noun of action from past participle stem of retribuere “hand back, repay,” from re- “back”(see re-)+tribuere “to assign, allot”(see tribute). Originally “that which is given in return for past good or evil;” restricted modern use of “evil given for evil done”(1560s) is from day of retribution (1520s), in Christian theology the time of divine reward or punishment.",
-      "examples" : [
+      "collocations": [],
+      "definition": "报应；惩罚；报答；报偿",
+      "etymology": "Late 14c., “repayment,” from Old French retribution and directly from Latin retributionem (nominative retributio) “recompense, repayment,” noun of action from past participle stem of retribuere “hand back, repay,” from re- “back”(see re-)+tribuere “to assign, allot”(see tribute). Originally “that which is given in return for past good or evil;” restricted modern use of “evil given for evil done”(1560s) is from day of retribution (1520s), in Christian theology the time of divine reward or punishment.",
+      "examples": [
         "He didn’t want any further involvement for fear of retribution.\n由于害怕遭到惩罚，他不想进一步卷进去。"
       ],
-      "frequency" : 11933,
-      "phonetic" : "retrɪˈbjuːʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "retribution"
+      "frequency": 11933,
+      "phonetic": "retrɪˈbjuːʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "retribution"
     },
     {
-      "collocations" : [
+      "collocations": [
         "contribute A to B (考)：将A贡献给B",
         "A contribute to B (考)：A 有助于B"
       ],
-      "definition" : "捐献；贡献，出力；投稿",
-      "examples" : [
+      "definition": "捐献；贡献，出力；投稿",
+      "examples": [
         "Having children contributes little to the glamour of celebrity moms.\n生孩子对明星妈妈的魅力几乎没有帮助。",
         "有些人认为好名字对一个人的成功毫无帮助。\nSome argue that having a good name contributes little to the person’s\nsuccess."
       ],
-      "frequency" : 1319,
-      "mnemonic" : "con (共同) +trib (=give：给) +ute (=ate：东西后缀) →共同给，大家都\n给→贡献",
-      "phonetic" : "kənˈtrɪbjuːt; ˈkɒntrɪbjuːt",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "contribute"
+      "frequency": 1319,
+      "mnemonic": "con (共同) +trib (=give：给) +ute (=ate：东西后缀) →共同给，大家都\n给→贡献",
+      "phonetic": "kənˈtrɪbjuːt; ˈkɒntrɪbjuːt",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "contribute"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "贡献；捐献；投稿",
-      "examples" : [
-
-      ],
-      "frequency" : 1789,
-      "mnemonic" : "contribute (捐献；贡献，出力；投稿) +ion (名词性后缀) →贡献；捐",
-      "phonetic" : "kɒntrɪˈbjuːʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "contribution"
+      "collocations": [],
+      "definition": "贡献；捐献；投稿",
+      "examples": [],
+      "frequency": 1789,
+      "mnemonic": "contribute (捐献；贡献，出力；投稿) +ion (名词性后缀) →贡献；捐",
+      "phonetic": "kɒntrɪˈbjuːʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "contribution"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "起作用的；贡献的",
-      "examples" : [
-
-      ],
-      "frequency" : 10974,
-      "mnemonic" : "contribute (捐献；贡献，出力) +ing (形容词性后缀) →起作用的；贡",
-      "phonetic" : "ˈkɒntrɪbjuːtɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "contributing"
+      "collocations": [],
+      "definition": "起作用的；贡献的",
+      "examples": [],
+      "frequency": 10974,
+      "mnemonic": "contribute (捐献；贡献，出力) +ing (形容词性后缀) →起作用的；贡",
+      "phonetic": "ˈkɒntrɪbjuːtɪŋ",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "contributing"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "贡献者；投稿者；捐助者",
-      "examples" : [
-
-      ],
-      "frequency" : 4912,
-      "mnemonic" : "contribute (捐献；贡献；投稿) +or (表示人的名词性后缀) →贡献者；",
-      "phonetic" : "kənˈtrɪbjʊtə",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "contributor"
+      "collocations": [],
+      "definition": "贡献者；投稿者；捐助者",
+      "examples": [],
+      "frequency": 4912,
+      "mnemonic": "contribute (捐献；贡献；投稿) +or (表示人的名词性后缀) →贡献者；",
+      "phonetic": "kənˈtrɪbjʊtə",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "contributor"
     },
     {
-      "collocations" : [
+      "collocations": [
         "attribute to (考)：归因于，归功于"
       ],
-      "definition" : "把……归因于",
-      "examples" : [
+      "definition": "把……归因于",
+      "examples": [
         "Their success was attributed not to ability but to factors such as luck.\n他们的成功没有归因于能力，而是归因于像运气等因素。",
-        "几乎没有人会把失败归因于自身，大部分人都只是在抱怨运气不\n好。成功之路就在于承认失败并把它当做前进的动力。\nFew would attribute\/ascribe\/credit the failure to himself and most people\nare just complaining\/grumbling\/moaning\/crabbing\/groaning that they\nare not fortunate enough. The way to success is to acknowledge\/confess\/\nadmit your failure and treat it as the driving force for progress.\n当各行各业的杰出企业家谈论到什么对他们的成功最重要时，他们更\n愿意把成功归因于命运和努力，而不是天赋。\nWhen outstanding\/eminent\/distinguished\/famous entrepreneurs of all\npursuits\/ of all walks\/ of all areas talk about what was vital\/critical\/"
+        "几乎没有人会把失败归因于自身，大部分人都只是在抱怨运气不\n好。成功之路就在于承认失败并把它当做前进的动力。\nFew would attribute/ascribe/credit the failure to himself and most people\nare just complaining/grumbling/moaning/crabbing/groaning that they\nare not fortunate enough. The way to success is to acknowledge/confess/\nadmit your failure and treat it as the driving force for progress.\n当各行各业的杰出企业家谈论到什么对他们的成功最重要时，他们更\n愿意把成功归因于命运和努力，而不是天赋。\nWhen outstanding/eminent/distinguished/famous entrepreneurs of all\npursuits/ of all walks/ of all areas talk about what was vital/critical/"
       ],
-      "frequency" : 3377,
-      "mnemonic" : "at (加强语气) +trib (=give：给) +ute (=ate：动词后缀)：→归因于，归",
-      "phonetic" : "əˈtrɪbju:t",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "attribute"
+      "frequency": 3377,
+      "mnemonic": "at (加强语气) +trib (=give：给) +ute (=ate：动词后缀)：→归因于，归",
+      "phonetic": "əˈtrɪbju:t",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "attribute"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（人或物的）品质，特征",
-      "examples" : [
-        "Cruelty is a normal attribute of human behaviour.\n残忍是人的天性之一。\nHe has every attribute you could want and could play for any team.\n他具备你想要的所有品质，放在哪个队都行。"
-      ],
-      "frequency" : 5470,
-      "phonetic" : "ˈatrɪbju:t",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "attribute"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "归因；属性；归属",
-      "examples" : [
+      "collocations": [],
+      "definition": "归因；属性；归属",
+      "examples": [
         "There’s usually a lot of attribution of evil intent to those who have\ndifferent views.\n那些持异议者通常多被认为心怀邪念。\nAttribution of her success solely to wealth is not fair.\n认为她的成功完全是因为有财富是不公平的."
       ],
-      "frequency" : 8031,
-      "mnemonic" : "attribute (把……归因于) +ion (名词性后缀) → 归因；属性；归属",
-      "phonetic" : "ˌætrɪˈbjuːʃən",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "attribution"
+      "frequency": 8031,
+      "mnemonic": "attribute (把……归因于) +ion (名词性后缀) → 归因；属性；归属",
+      "phonetic": "ˌætrɪˈbjuːʃən",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "attribution"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "可归于……的；可归属的",
-      "examples" : [
-
-      ],
-      "frequency" : 10998,
-      "mnemonic" : "attribute (把……归因于) +able (能够……的形容词性后缀) → 可归",
-      "phonetic" : "əˈtrɪbjʊtəbl",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "attributable"
+      "collocations": [],
+      "definition": "可归于……的；可归属的",
+      "examples": [],
+      "frequency": 10998,
+      "mnemonic": "attribute (把……归因于) +able (能够……的形容词性后缀) → 可归",
+      "phonetic": "əˈtrɪbjʊtəbl",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "attributable"
     },
     {
-      "collocations" : [
+      "collocations": [
         "evenly distributed (考)：平均分配"
       ],
-      "definition" : "分发；分配；散，播",
-      "examples" : [
+      "definition": "分发；分配；散，播",
+      "examples": [
         "Students shouted slogans and distributed leaflets.\n学生们喊着口号，分发着传单。\nThousands of soldiers are working to distribute food and blankets to the\nrefugees.\n数以千计的士兵正在给难民们分发食物和毯子。\nIf you distribute things among the members of a group, you share them\namong those members. (在成员中) 分配，分派",
         "Immediately after his election he began to distribute major offices among\nhis friends and supporters.\n他当选后立即着手将要职分派给他的朋友和支持者们。\nTo distribute a substance over something means to scatter it over it. 撒；播",
         "Distribute the topping evenly over the fruit.\n将配料均匀地撒在水果上。"
       ],
-      "frequency" : 2968,
-      "mnemonic" : "dis (分开) +trib (=give：给) +ute (动词后缀) →分开给→分配，分发，",
-      "phonetic" : "dɪˈstrɪbju:t; ˈdɪstrɪbju:t",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "distribute"
+      "frequency": 2968,
+      "mnemonic": "dis (分开) +trib (=give：给) +ute (动词后缀) →分开给→分配，分发，",
+      "phonetic": "dɪˈstrɪbju:t; ˈdɪstrɪbju:t",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "distribute"
     },
     {
-      "collocations" : [
+      "collocations": [
         "distribution of wealth (考)：财富分配"
       ],
-      "definition" : "分配；分布；撒，播",
-      "examples" : [
+      "definition": "分配；分布；撒，播",
+      "examples": [
         "No, what they fear was that the political challenges of sustaining support\nfor global economic integration will be more difficult in the United States\nbecause of what has happened to the distribution of income and economic\ninsecurity.\n不，他们真正担心的是，由于收入分配不均和经济不稳定，继续支持\n全球经济一体化的政治挑战在美国的处境将会更加艰难。"
       ],
-      "frequency" : 2394,
-      "mnemonic" : "distribute (分发；分配) +ion (名词性后缀) →分配；分布",
-      "phonetic" : "dɪstrɪˈbjuːʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "distribution"
+      "frequency": 2394,
+      "mnemonic": "distribute (分发；分配) +ion (名词性后缀) →分配；分布",
+      "phonetic": "dɪstrɪˈbjuːʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "distribution"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "经销商；分配者；散布者；[电工]配电盘；[计]分",
-      "examples" : [
-
-      ],
-      "mnemonic" : "distribute (分发；分配) +or (表示人或物的名词性后缀) → 经销商；分",
-      "phonetic" : "dɪˈstrɪbjʊtə",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "distributor"
+      "collocations": [],
+      "definition": "经销商；分配者；散布者；[电工]配电盘；[计]分",
+      "examples": [],
+      "mnemonic": "distribute (分发；分配) +or (表示人或物的名词性后缀) → 经销商；分",
+      "phonetic": "dɪˈstrɪbjʊtə",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "distributor"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "分布式的，分散式的",
-      "examples" : [
-
-      ],
-      "frequency" : 17641,
-      "mnemonic" : "distribute (分发；分配) +ed (形容词性后缀) →分布式的，分散式的",
-      "phonetic" : "dɪˈstrɪbjʊtɪd",
-      "pos" : "adj.",
-      "rootHint" : "forc",
-      "word" : "distributed"
+      "collocations": [],
+      "definition": "分布式的，分散式的",
+      "examples": [],
+      "frequency": 17641,
+      "mnemonic": "distribute (分发；分配) +ed (形容词性后缀) →分布式的，分散式的",
+      "phonetic": "dɪˈstrɪbjʊtɪd",
+      "pos": "adj.",
+      "rootHint": "forc",
+      "word": "distributed"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "重新分配，再分配",
-      "examples" : [
-
-      ],
-      "frequency" : 15853,
-      "mnemonic" : "re (再，又) +distribute (分发；分配) → 重新分配,再分配",
-      "phonetic" : "ˌriːdɪˈstrɪbjuːt; riːˈdɪs-",
-      "pos" : "vt.",
-      "rootHint" : "forc",
-      "word" : "redistribute"
+      "collocations": [],
+      "definition": "重新分配，再分配",
+      "examples": [],
+      "frequency": 15853,
+      "mnemonic": "re (再，又) +distribute (分发；分配) → 重新分配,再分配",
+      "phonetic": "ˌriːdɪˈstrɪbjuːt; riːˈdɪs-",
+      "pos": "vt.",
+      "rootHint": "forc",
+      "word": "redistribute"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "重新分配",
-      "examples" : [
-
-      ],
-      "frequency" : 14199,
-      "mnemonic" : "redistribute (重新分配) +ion (名词性后缀) → 重新分配，再分配",
-      "phonetic" : "ˌriˌdɪstrɪˈbjʊʃən",
-      "pos" : "n.",
-      "rootHint" : "forc",
-      "word" : "redistribution"
+      "collocations": [],
+      "definition": "重新分配",
+      "examples": [],
+      "frequency": 14199,
+      "mnemonic": "redistribute (重新分配) +ion (名词性后缀) → 重新分配，再分配",
+      "phonetic": "ˌriˌdɪstrɪˈbjʊʃən",
+      "pos": "n.",
+      "rootHint": "forc",
+      "word": "redistribution"
     }
   ]
 }

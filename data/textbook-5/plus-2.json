@@ -1,0 +1,107 @@
+{
+  "chapter" : "23",
+  "chapterOrder" : 123,
+  "id" : "plus-2",
+  "meaningZh" : "大量的，多的。",
+  "roots" : [
+    "plus",
+    "plur"
+  ],
+  "semanticLabel" : "大量的，多的。",
+  "source" : "textbook-5",
+  "titleZh" : "大量的，多的。",
+  "words" : [
+    {
+      "collocations" : [
+        "plus a $3 deposit：外加$3的押金",
+        "plus 120 degrees：零上120度"
+      ],
+      "definition" : "加；外加 adj. （用于数字后表示实际数量较大）多，余；零度以上；优点的，好的；略高于（A、B等） n. 优势；加号",
+      "etymology" : "1570s, the oral rendering of the arithmetical sign+, from Latin plus “more, in greater number, more often”.",
+      "examples" : [
+
+      ],
+      "frequency" : 2082,
+      "mnemonic" : "plus（=more：附加的，更多的）→额外的；附加的",
+      "phonetic" : "plʌs",
+      "pos" : "prep.",
+      "rootHint" : "plus",
+      "word" : "plus"
+    },
+    {
+      "collocations" : [
+        "a surplus supply：供应过剩",
+        "export surplus：出口盈余"
+      ],
+      "definition" : "过剩；顺差；盈余 adj. 过剩的；多余的",
+      "examples" : [
+
+      ],
+      "frequency" : 6341,
+      "mnemonic" : "sur-（超过）+ plus（附加；额外）→附加上，超过需要的→过剩的；",
+      "phonetic" : "ˈsɜːpləs",
+      "pos" : "n.",
+      "rootHint" : "plus",
+      "word" : "surplus"
+    },
+    {
+      "collocations" : [
+        "plural form：复数形式",
+        "a plural society：多元社会"
+      ],
+      "definition" : "复数的；多样的；多元的 n. 复数形式",
+      "etymology" : "14世纪晚期，来自古法语plurel “more than one”,“多于一个”。来自 拉丁语pluralis “of or belonging to more than one,” 来自plus （所有格形 式pluris） “more”，“更多的”。引申词义复数的，多元的。",
+      "examples" : [
+
+      ],
+      "frequency" : 19796,
+      "phonetic" : "ˈplʊər(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "plur",
+      "word" : "plural"
+    },
+    {
+      "collocations" : [
+        "cultural pluralism：文化的多元性"
+      ],
+      "definition" : "多元化；多样性；多元主义",
+      "examples" : [
+
+      ],
+      "frequency" : 9545,
+      "mnemonic" : "plural（多元的）+ -ism（主义；思想）→多元化；多样性",
+      "phonetic" : "ˈplʊər(ə)lɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "plur",
+      "word" : "pluralism"
+    },
+    {
+      "collocations" : [
+        "a free, open, and pluralistic society：一个自由、开放和多元化的社会"
+      ],
+      "definition" : "多元化的",
+      "examples" : [
+
+      ],
+      "frequency" : 14188,
+      "phonetic" : "plʊrəˈlɪstɪk",
+      "pos" : "adj.",
+      "rootHint" : "plur",
+      "word" : "pluralistic"
+    },
+    {
+      "collocations" : [
+        "a plurality of influences：众多的影响"
+      ],
+      "definition" : "大量；多数；（未超过半数的）最多数票",
+      "examples" : [
+
+      ],
+      "frequency" : 13407,
+      "phonetic" : "plʊəˈrælɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "plur",
+      "word" : "plurality"
+    }
+  ]
+}

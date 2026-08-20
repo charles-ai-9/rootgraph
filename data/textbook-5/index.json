@@ -330,8 +330,8 @@
   {
     "chapter" : "23",
     "chapterOrder" : 123,
-    "file" : "plus.json",
-    "id" : "plus",
+    "file" : "plus-2.json",
+    "id" : "plus-2",
     "meaningEn" : "",
     "meaningZh" : "大量的，多的。",
     "roots" : [
@@ -454,8 +454,8 @@
   {
     "chapter" : "31",
     "chapterOrder" : 131,
-    "file" : "pos.json",
-    "id" : "pos",
+    "file" : "pos-2.json",
+    "id" : "pos-2",
     "meaningEn" : "",
     "meaningZh" : "能，能够。",
     "roots" : [
@@ -564,8 +564,8 @@
   {
     "chapter" : "39",
     "chapterOrder" : 139,
-    "file" : "cap.json",
-    "id" : "cap",
+    "file" : "cap-2.json",
+    "id" : "cap-2",
     "meaningEn" : "",
     "meaningZh" : "抓；拿。",
     "roots" : [

@@ -1,0 +1,109 @@
+{
+  "id": "sit",
+  "source": "textbook-4",
+  "chapter": "16",
+  "chapterOrder": 116,
+  "titleZh": "sit",
+  "semanticLabel": "sit",
+  "meaningEn": null,
+  "meaningZh": "坐",
+  "roots": [
+    "sit"
+  ],
+  "words": [
+    {
+      "word": "sit",
+      "phonetic": "srt",
+      "pos": "vi.",
+      "definition": "坐；担任……的成员 vt. 使坐下；使就位269",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "sit tight: 留在原地不动；不采取任何行动",
+        "sit down: 坐下"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "sitting",
+      "phonetic": "'stɪŋ",
+      "pos": "adj.",
+      "definition": "现任的 n. 就餐阶段；开会；开庭7657",
+      "frequency": null,
+      "mnemonic": "sit (坐下，双写t)+-ing(动名词后缀)→ 引申比喻义开会；开庭；就餐；",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "sit-up",
+      "phonetic": "'sitʌp",
+      "pos": "n.",
+      "definition": "仰卧起坐18461",
+      "frequency": null,
+      "mnemonic": "sit(坐)+up(起来)→坐起来→仰卧起坐",
+      "collocations": [
+        "do 100 sit-ups each day: 每天做100个仰卧起坐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "saddle",
+      "phonetic": "'sæd(ə)l",
+      "pos": "n.",
+      "definition": "鞍；(自行车或摩托车的)车座 vt. 给(马)配鞍；使……肩 负重担6311",
+      "frequency": null,
+      "mnemonic": "sad-(=sed-: 坐，双写d)+-le(名词后缀，表工具)→鞍；给……配鞍； 使……肩负重担",
+      "collocations": [
+        "in the saddle: 担任领导职务；掌权；在位",
+        "saddle sb/yourself with sth: 使某人(或自己)肩负重担"
+      ],
+      "etymology": "来自古英语sadol=seat for a rider: 骑手的座位→马鞍",
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "baby-sit",
+      "phonetic": "'beibi,sit",
+      "pos": "vt.",
+      "definition": "&vi. 代人临时照看小孩 n. 临时保姆13186",
+      "frequency": null,
+      "mnemonic": "baby(宝贝)+sit (坐)→宝贝坐→临时保姆；代人临时照看小孩",
+      "collocations": [
+        "babysit for Mrs.Plunkett: 为普伦基特太太临时照看孩子"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "baby-sitter",
+      "phonetic": "'beibi,sitə ",
+      "pos": "n.",
+      "definition": "保姆11157 搭配：super baby-sitter: 超级保姆",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    },
+    {
+      "word": "sitter",
+      "phonetic": "'srtə",
+      "pos": "n.",
+      "definition": "代人临时看管小孩的人；当模特儿的人11738",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "sit"
+    }
+  ]
+}

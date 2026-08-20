@@ -1,0 +1,413 @@
+{
+  "id": "fuse",
+  "source": "textbook-4",
+  "chapter": "6",
+  "chapterOrder": 106,
+  "titleZh": "pour,",
+  "semanticLabel": "pour,",
+  "meaningEn": "pour”, 含义为“融合；浇铸；倾倒”,名词含义为“爆 炸物的引信”。",
+  "meaningZh": null,
+  "roots": [
+    "fuse"
+  ],
+  "words": [
+    {
+      "word": "fuse",
+      "phonetic": "fju:z",
+      "pos": "n.",
+      "definition": "保险丝；导火线 vt.&vi. ( 物理地/特质/思想等)结合；融合； 使〔保险丝〕熔断10616",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "blow a fuse: 烧断保险丝",
+        "a short fuse: 人的火爆脾气",
+        "fuse(sth)with sth: 将……与……结合",
+        "fuse(sth)into: 将……合并入"
+      ],
+      "etymology": "来自拉丁语fundere=melt,cast,pour out: 熔化；浇铸；倾注。同 foundry,alchem y,confused. 用于冶炼学术语，如冶金；炼铁；玻璃冶 炼等→引申词义融化；融合",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "fuselage",
+      "phonetic": "'fju:zəla:3;-lidʒ",
+      "pos": null,
+      "definition": "( 飞机、火箭的)机身；(导弹的)弹身17033 搭配：rip apart the plane's fuselage: 使该飞机的机身断裂",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "fusion",
+      "phonetic": "'fju:ʒ(a)n",
+      "pos": "n.",
+      "definition": "融合；熔合；融为一体；核聚变7363",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the fusions of jazz, pop and African melodies have proved highly successful: 爵士乐、流行乐和非洲音乐旋律的融合",
+        "the fusion of regular and reserve forces: 把常规军和后备军合二为一",
+        "research into nuclear fusion: 对核聚变的研究"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "defuse",
+      "phonetic": "di:'fju:z",
+      "pos": "vt.",
+      "definition": "缓和；拆除……的引信12812",
+      "frequency": null,
+      "mnemonic": "de-(=undo- : 除去；破坏)+fuse ( 引信) → 即拆除引信 → 引申 义缓和",
+      "collocations": [
+        "defuse potentially violent situations: 缓和潜在的暴力情势 defuse a bomb: 拆除一枚炸弹"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "confuse",
+      "phonetic": "kən'fju:z",
+      "pos": "vt.",
+      "definition": "混淆；使困惑；使复杂化n. 混淆3550",
+      "frequency": null,
+      "mnemonic": "con- (全部)+ -fuse(=pour: 倾倒；流) → (把各种液体)倒到一起 →混；混乱",
+      "collocations": [
+        "be/get/become confused with sth: 对……感到困惑",
+        "confuse the issue/matter/argument etc.: 使问题/事情/争论等更加复杂"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "confused",
+      "phonetic": "kən'fju:zd",
+      "pos": "adj.",
+      "definition": "困惑的[+about]; 混乱的5718 搭配：a lot of confused ideas: 许多混淆的观念",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "confusing",
+      "phonetic": "kən'fju:ziŋ",
+      "pos": "adj.",
+      "definition": "令人困惑的；难懂的6319",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a very confusing situation: 非常混乱的局面"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "confusion",
+      "phonetic": "kən'fju:ʒ(ə)n",
+      "pos": "n.",
+      "definition": "混乱[+ about/over/as to]; 混淆[+between]; 窘迫",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "create/lead to confusion: 造成混乱",
+        "in confusion: 不知所措地"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "refuse",
+      "phonetic": "rr'fju:z",
+      "pos": "n.",
+      "definition": "垃圾；废料 vt.&vi. 拒绝 vt.拒绝给予；拒绝1253",
+      "frequency": null,
+      "mnemonic": "re-(=back: 回 ) + -fuse(=to pour: 流) → (东西被)流回来 → (被)拒绝",
+      "collocations": [
+        "refuse him a visa: 拒绝给予他签证",
+        "refuse landfill: 垃圾填埋"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "refusal",
+      "phonetic": "r'fju:z(ə)l",
+      "pos": "n.",
+      "definition": "拒绝[+to do/of]6018 搭配：first refusal: 优先购买权",
+      "frequency": null,
+      "mnemonic": "dis-(=apart,in every direction: 分开地；各个方向)+-fuse(=to pour: 流)→分开流；即(光线、信息、情绪等)向不同方向流出， 漫射开→扩散；传播；缓解；漫射",
+      "collocations": [
+        "diffuse into the soil: 渗进了土壤",
+        "diffuse quickly across Europe: 很快在欧洲传播开来",
+        "an attempt to diffuse his anger: 平息他怒气的尝试"
+      ],
+      "etymology": null,
+      "examples": [
+        "Alvarez's experience demonstrates the importance of finding ways to diffuse stress before it threatens¹⁷your health and your ability to function. 阿尔瓦雷兹的经历说明了在压力影响到你的健康和活动能力之前寻求 途径予以排解是相当重要的。",
+        "在压力影响到你的健康和活动能力之前寻求途径予以排解是相当 重要的。\nFinding ways to diffuse/relieve stress before it threatens your health and your ability to function is important.\ndiffuse 的派生词有diffusion 等 。"
+      ],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "diffusion",
+      "phonetic": "dr'fju:ʒan",
+      "pos": "n.",
+      "definition": "扩散；传播；[物]漫射11375",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "infuse fresh interest into: 把有创意的元素带入",
+        "be infused with humor and wisdom: 充满了幽默和智慧"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "infusion",
+      "phonetic": "in'fju:ʒ(an",
+      "pos": "n.",
+      "definition": "(新感觉或品质的)注入[+of]; [医]注射；注射用",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the infusion of more resources: 要更多资源的注入"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "profuse",
+      "phonetic": "prə'fju:s",
+      "pos": "adj",
+      "definition": ".大量(产生)的；丰富的；充沛的；多次的(感谢或 道歉)",
+      "frequency": null,
+      "mnemonic": "pro-(=forward: 向 前 ) +-fuse(=to pour: 倾倒) →pour forth: 向前\n倾倒→涌出；流出→引申词义丰富的；大量的 搭配：profuse apologies/thanks: 一再道歉；千恩万谢\nprofuse bleeding: 血流如注\nprofuse 的派生词有profusely,profusion 等 。",
+      "collocations": [],
+      "etymology": "early 15c.,\"Iavish,extravagant,\"from Latin profusus \"spread out,lavish, extravagant,\"literally “poured forth,\"noun use of past participle of profundere “pour forth”.Meaning “bountiful”is from c.1600.Related: Profusely;profuseness.",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "profusely",
+      "phonetic": "prə'fju:sli",
+      "pos": "adv.",
+      "definition": "大量地；多次地17791",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "bleed profusely: 大量出血",
+        "apologize profusely: 连连道歉"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "profusion",
+      "phonetic": "prə'fju:ʒ(③n",
+      "pos": "n.",
+      "definition": "大量；丰富；充沛[+ of]",
+      "frequency": 16593,
+      "mnemonic": null,
+      "collocations": [
+        "a profusion of wild flowers along its banks: 岸上开满了野花",
+        "be suffused with sth: 充满某种情感"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "geyser",
+      "phonetic": "'gi:zə;' gai-",
+      "pos": "n.",
+      "definition": "间歇泉；(厨房或浴室/建筑物的)煤气热水器；电",
+      "frequency": null,
+      "mnemonic": "来自词根gheu-, 含义为喷涌→ 引申义为间歇泉；热水器；热水锅炉",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "gush",
+      "phonetic": "gAʃ",
+      "pos": "vt.",
+      "definition": "&vi. 涌出；夸张地赞扬n. 涌流11549 助记：a gush of water: 一股流水涌出",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "gust",
+      "phonetic": "gʌst",
+      "pos": "n.",
+      "definition": "一 阵强风；(感情的)迸发 vi. 劲吹10382 助记：a gust of wind: 一 阵狂风",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "gut",
+      "phonetic": "gʌt",
+      "pos": "n.",
+      "definition": "内脏；肠；胆量；肚腩；(用于制网球拍、琴弦等的)肠线 adj. 直觉的vt.损毁(建筑物)的内部4340",
+      "frequency": null,
+      "mnemonic": "working sb's guts out: 拼命工作\nhate someone's guts: 对某人恨之入骨\na gut feeling/reaction: 本能的感觉/反应\nthe guts ofthe problem: 问题的实质",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "gutsy",
+      "phonetic": "'gʌtsi",
+      "pos": "adj.",
+      "definition": "勇敢的；坚定的19374",
+      "frequency": null,
+      "mnemonic": "gutsy and emotional speech: 坚定而饱含深情的讲话 a gutsy performance: 一次无畏之举\na gutsy full-bodied wine: 烈性、浓郁的葡萄酒",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "funnel",
+      "phonetic": "'fʌn(ə)l",
+      "pos": "n.",
+      "definition": "漏斗；〔蒸汽机或轮船的〕烟囱；漏斗状物 vt.&vi. 使经 过狭窄空间vt.传送(资金、商品、信息等)11059",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "funnels of dark grey smoke: 成漏斗状的暗灰色烟",
+        "funnel down the valley: 穿过山谷"
+      ],
+      "etymology": "shortened from Latin infundibulum \"a funnel or hopper in a mill,\"from infundere “pour in,\"from in- “in”+fundere \"to pour。缩写自拉丁语 infundibulum, 工厂灰斗或漏斗。in- ( 使 ；进入)+-fund ( 注入) +-bulum ( 工具格后缀) →使……注入的工具 →漏斗后也用于指 烟囱。",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "found",
+      "phonetic": "faund",
+      "pos": "vt.",
+      "definition": "( 将金属或玻璃熔化后倒进模型里)浇铸2687",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": "来自拉丁语fundere ( 倾注；倾泻),同geyser,fusion,alchemy, confound→引申义为(将金属或玻璃熔化后倒进模型里)浇铸，用于 冶金学",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "confound",
+      "phonetic": "kən'faund",
+      "pos": "vt.",
+      "definition": "( 因出乎意料)使吃惊；使困惑；证明……有错；挫败〔敌人、计划等〕;〔问题等〕把……难住；使不知所措10779",
+      "frequency": null,
+      "mnemonic": "con-(=together: 强调)+-found(=to pour: 流；倾泻) → 即流到一 起的；难以区别而困惑的 → 引申义为挫败(敌人、计划等);(问题 等)把……难住；使不知所措",
+      "collocations": [
+        "confound the medical specialists: 使医学专家感到惊讶"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "dumbfound",
+      "phonetic": "dʌm'faund",
+      "pos": "vt.",
+      "definition": "使惊呆；使人惊愕失声19877",
+      "frequency": null,
+      "mnemonic": "dumb (哑的；无声音的)+found(=confound 的尾词found: 使吃惊) →strike dumb with confusion or perplexity: 因困惑而吃惊地说不出话 来→使惊呆；使人惊愕失声",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "foundry",
+      "phonetic": "'faundr",
+      "pos": "n.",
+      "definition": "铸造(金属或玻璃的)工厂18943",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "font",
+      "phonetic": "font",
+      "pos": "n.",
+      "definition": "字体14241",
+      "frequency": null,
+      "mnemonic": "from Middle French fonte “a casting”,含义为铸造。来自拉丁语词根 fund=to melt,cast,pour out: 融化；浇铸；倒出。词源同foundry。用 于古代的印刷技术，同一版面通常字体一样，因此，该词也用来指 字体。",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "alchemy",
+      "phonetic": "'ælkimi",
+      "pos": "n.",
+      "definition": "炼金术；魔法17780",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": "来源于阿拉伯语alkimya ( 炼 金 术 ) , 其 中al- 在阿拉伯语中是定冠 词，相当于英语中的the,-kimya 来源于希腊语khemia ( 炼金术)。同 词根fund=to pour out,含义为注入。西方16世纪前，化学领域研究的 主要方向就是尝试用不同的方法把普通金属冶炼成金子，后随着化学 的发展衍生出chemistry 专指“化学”。",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "futile",
+      "phonetic": "'fju:tarl",
+      "pos": "adj.",
+      "definition": "无用的；徒劳的9583",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a futile attempt/effort: 徒劳之举",
+        "it is futile to do sth:…… 是枉然"
+      ],
+      "etymology": "来自拉丁语fundere (倾注；倾泻)的派生词futilis ( 渗漏的；徒劳 的) →流走的，漏掉的 →徒劳的",
+      "examples": [],
+      "rootHint": "fuse"
+    },
+    {
+      "word": "futility",
+      "phonetic": "fju'tilitr;fju:'trlti",
+      "pos": "n.",
+      "definition": "无谓；徒劳13938",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "thoughts on the futility of war: 战争无益思想"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "fuse"
+    }
+  ]
+}

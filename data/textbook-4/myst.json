@@ -1,0 +1,1162 @@
+{
+  "id": "myst",
+  "source": "textbook-4",
+  "chapter": "19",
+  "chapterOrder": 119,
+  "titleZh": "神秘,神话。",
+  "semanticLabel": "神秘,神话。",
+  "meaningEn": null,
+  "meaningZh": "神秘,神话。",
+  "roots": [
+    "myst",
+    "myth"
+  ],
+  "words": [
+    {
+      "word": "myth",
+      "phonetic": "miθ",
+      "pos": "n.",
+      "definition": "神话；虚构的东西；荒诞的说法3101",
+      "frequency": null,
+      "mnemonic": "myth(=mouth: 嘴；首尾辅音均相同，只是元音发生变化，二者同\n源)→神话，故事(都是用“嘴”传出来的) 搭配：a creation myth: 创世的神话",
+      "collocations": [],
+      "etymology": "1830,from French mythe(1818)and directly from Modern Latin mythus, from Greek mythos \"speech, thought,word,discourse,conversation; story,saga,tale,myth,anything delivered by word of mouth,\"a word of unknown origin.Beekes finds it “quite possibly Pre-Greek.",
+      "examples": [],
+      "rootHint": "myth"
+    },
+    {
+      "word": "mythic",
+      "phonetic": "'miθik",
+      "pos": "adj.",
+      "definition": "神话的；很著名的；很重要的12389",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the mythic figure of King Arthur: 亚瑟王这一神话人物",
+        "a team whose reputation has achieved mythic proportions: 一个名声显赫 的团队"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myth"
+    },
+    {
+      "word": "mythical",
+      "phonetic": "'miθikəl",
+      "pos": "adj.",
+      "definition": "神话中的；虚构的11246 搭配：the mythical beast: 神话中的怪兽",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myth"
+    },
+    {
+      "word": "mystery",
+      "phonetic": "'mist(a)ri",
+      "pos": "n.",
+      "definition": "谜；神秘；悬疑(推理)故事adj. 来历不明的2352",
+      "frequency": null,
+      "mnemonic": "myst(=myth: 神话)+-ery(=-ary: 名词后缀)→神秘(即：神话的特点) 搭配：a murder mystery: 凶杀奇案an unsolved mystery: 一个未解之谜",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mysterious",
+      "phonetic": "mɪ'stroriəs ",
+      "pos": "adj.",
+      "definition": "神秘的；难以理解的4132 搭配：die in mysterious circumstances: 死得蹊跷",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mystic",
+      "phonetic": "'mistik",
+      "pos": "adj.",
+      "definition": "神秘的；难以理解的 n. 神秘主义者14760",
+      "frequency": null,
+      "mnemonic": "myst(=mystery: 神秘)+-ic(形容词后缀)→神秘的",
+      "collocations": [
+        "mystic union with God: 与上帝的神秘结合"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mystical",
+      "phonetic": "m'rstik(ə)l",
+      "pos": "adj.",
+      "definition": "神秘的；神秘主义的8681",
+      "frequency": null,
+      "mnemonic": "mystic(神秘的)+-al( 形容词后缀)→神秘的；神秘主义的",
+      "collocations": [
+        "a deep mystical experience: 一次刻骨铭心的神秘经历"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mysticism",
+      "phonetic": "'mistisIz(a)m",
+      "pos": "n.",
+      "definition": "神秘主义(一种通过冥想和祷告寻求真理、知识",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mystify",
+      "phonetic": "'mistifar",
+      "pos": "vt.",
+      "definition": "使困惑不解18567",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "be mystified by the plot: 对该情节困惑不解",
+        "a little mystifying: 有点令人困惑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "mystique",
+      "phonetic": "mɪ'sti:k",
+      "pos": "n.",
+      "definition": "神秘性13340",
+      "frequency": null,
+      "mnemonic": "late 14c.,mewet\"silent,not speaking,\"from Old French muet “dumb, mute”(12c.),diminutive of mut,mo,from Latin mutus \"silent,speechless, dumb”.Form assimilated in 16c.to Latin mutus.The meaning “incapable of utterance,dumb\"is by mid-15c.",
+      "collocations": [
+        "the mystique surrounding the monarchy: 王室的神秘性",
+        "destroy the mystique of monarchy: 消除了君主制的神秘感",
+        "mut e [mju:t] adj. 缄默的；哑的 vt. 抑制(感情等);减弱(行动的力度等);降",
+        "sit mute in the corner: 坐在角落里一声不吭"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "muted",
+      "phonetic": "'mju:trd",
+      "pos": "adj.",
+      "definition": "( 声音)减轻的；(颜色)柔和的；(情感、意见等)表达不 明确的9571",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "speak in muted voices: 轻声说着话",
+        "receive only a muted response: 没有得到明确的回应",
+        "a dress in muted shades of blue: 暗蓝色调的连衣裙"
+      ],
+      "etymology": "Old English lang \"having a great linear extent,that extends considerably from end to end;tall;lasting,\"from Proto-Germanic*langa-(source also of Old Frisian and Old Saxon lang,Old High German and German lang, Old Norse langr,Middle Dutch lanc,Dutch lang,Gothic laggs “long”).",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long",
+      "phonetic": "loŋ",
+      "pos": "adj.",
+      "definition": "长时间的；长久的；(篇幅)长的；长的(时间)adv.长时间地； 长久地255",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "as long as/so long as: 只 要",
+        "before long: 不久",
+        "no longer : 不再"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-ago",
+      "phonetic": "'lonə go",
+      "pos": "adj.",
+      "definition": "从前的；往昔的19440",
+      "frequency": null,
+      "mnemonic": "long(长久的)+ago(以前)→长久以前的→从前的；往昔的",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-awaited",
+      "phonetic": "'lono,wetrd",
+      "pos": "adj.",
+      "definition": "等待已久的16782",
+      "frequency": null,
+      "mnemonic": "long(长久的)+await (等待)→长久等待的→等待已久的",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-term",
+      "phonetic": ",lon't3:m",
+      "pos": "adj.",
+      "definition": "长期的1774",
+      "frequency": null,
+      "mnemonic": "long(时间长的)+term(期间)→长期的",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-term-care",
+      "phonetic": ",lon'ts:mkeə(r)",
+      "pos": "a",
+      "definition": "dj. 长期护理的18990 助记：long-term-care policy: 长期护理政策",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-held",
+      "phonetic": "'lonheld",
+      "pos": "adj.",
+      "definition": "长期持有的19853",
+      "frequency": null,
+      "mnemonic": "long(时间长的)+held(持有的)→长期持有的",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "longing",
+      "phonetic": "'loniŋ",
+      "pos": "n.",
+      "definition": "( 对……的)渴望，热望 adj. 渴望的；热望的8297 搭配：a longing for home: 对故乡的思念",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-lasting",
+      "phonetic": "'lɔ:pla:stiŋ",
+      "pos": "adj.",
+      "definition": "持久的14757",
+      "frequency": null,
+      "mnemonic": "long (长久的)+last(持续)+-ing(形容词后缀)→长期持续的→持久的",
+      "collocations": [
+        "long-lasting effects: 长期后果"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-lived",
+      "phonetic": "'lon'livd",
+      "pos": "adj.",
+      "definition": "长寿的；持久的20069",
+      "frequency": null,
+      "mnemonic": "long(长久的)+lived(活着的，有生命的)→长久活着的→长寿的；持久的",
+      "collocations": [
+        "long-lived plants: 长寿的植物"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-lost",
+      "phonetic": "'loŋ'lost",
+      "pos": "adj.",
+      "definition": "长时间没见面的；杳无音信的19354",
+      "frequency": null,
+      "mnemonic": "long(长久的)+lost(失去的)→失去许久的→长时间没见面的；杳无音 信的",
+      "collocations": [
+        "a long-lost friend 长久没有音信的朋友"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "long-running",
+      "phonetic": "'lon'raniŋ",
+      "pos": "adj.",
+      "definition": "持续时间长的；存在许久的16928",
+      "frequency": null,
+      "mnemonic": "long(长时间的)+running (连续的；不断地)→长时间连续不断的→持续 时间长的；存在许久的\nlong(长的)+time(时间)→长时间的",
+      "collocations": [
+        "a long-running dispute: 长期的争端",
+        "a long-running TV series: 长期连播的电视系列片"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "hour-long",
+      "phonetic": "'auə(r)lɔŋ",
+      "pos": "adj.",
+      "definition": "一小时长的17902",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "last an hour: 持续一小时的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "week-long",
+      "phonetic": "'wi:kloŋ ",
+      "pos": "adj.",
+      "definition": "持续一星期的；为期一周的12587 搭配：week(星期)+long(长的)→为期一周的",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "year-long",
+      "phonetic": "jiolbŋ",
+      "pos": "adj.",
+      "definition": "一整年的；持续一年的13562 搭配：a year-long course: 一年的课程",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "lifelong",
+      "phonetic": "'larflbŋ",
+      "pos": "adj.",
+      "definition": "终生的5803",
+      "frequency": null,
+      "mnemonic": "life ( 生命)+long ( 长的) →一生长久的 →终生的",
+      "collocations": [
+        "lifelong friendship: 终生的友谊"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "along",
+      "phonetic": "ə 'loŋ",
+      "pos": "prep.",
+      "definition": "沿着；在……边上adv. 向前地； 一直地；一起448",
+      "frequency": null,
+      "mnemonic": "a-(=front: 向前)+long(长的)→ 向前延长的→沿着；向前地；一直地",
+      "collocations": [
+        "along with: 同……一起",
+        "all along: 一直",
+        "come along: 过来",
+        "walk along the street: 沿着这条街走"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "alongside",
+      "phonetic": "əlon'sard",
+      "pos": "prep.",
+      "definition": "在……旁边；与……并肩(工作)adv.在旁边4243",
+      "frequency": null,
+      "mnemonic": "along(沿着；在边上)+side(旁边)→side by side: 并肩→在……边上； 与……并肩",
+      "collocations": [
+        "walk alongside Central Park: 在中央公园旁边走着",
+        "alongside of: 与……并肩；在旁边"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "prolong",
+      "phonetic": "prə'lbŋ",
+      "pos": "vt.",
+      "definition": "延长；拉长；拖长(感觉或活动)9670",
+      "frequency": null,
+      "mnemonic": "pro-(向前)+long(长的)→ 向前拉；向前延伸→延长；拉长；拖长(感觉 或活动)",
+      "collocations": [
+        "to prolong the conversation: 想方设法拖长这次谈话",
+        "prolong the agony: 延长痛苦(尤指拖延告诉某人他很想知道的事情)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "prolonged",
+      "phonetic": "pr'lord",
+      "pos": "adj.",
+      "definition": "持续很久的；长期的7504",
+      "frequency": null,
+      "mnemonic": "prolong(延长；拖长)+-ed(形容词后缀)→拖长的；延长的→持续很久 的；长期的",
+      "collocations": [
+        "a prolonged period of low interest rates: 长期的低利率 a prolonged drought: 长期的干旱",
+        "prolonged exposure to the sun: 长时间暴露在阳光下"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "elongated",
+      "phonetic": "'i:lbŋgertrd",
+      "pos": "adj.",
+      "definition": "过于细长的；拉得又细又长的13308",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "strangely elongated faces: 奇长无比的脸",
+        "elongated shadow: 细长的影子"
+      ],
+      "etymology": "\"to make long or longer,\"1530s,from Late Latin elongatus,past participle of elongare “to prolong,protract,remove to a distance”.",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "belong",
+      "phonetic": "br'loŋ",
+      "pos": "vi.",
+      "definition": "属于(某一类别、类型、群);有权拥有1648",
+      "frequency": null,
+      "mnemonic": "be-( 加强语气)+long(to go)→to go along with→与 … … 一起，属于(类 别、群、某人)→有权拥有",
+      "collocations": [
+        "belong to a youth club: 一个青年俱乐部的成员",
+        "belong to an era: 属于一个时代"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "belongings",
+      "phonetic": "bə'loninz",
+      "pos": "n.",
+      "definition": "财产；所有物9426",
+      "frequency": null,
+      "mnemonic": "belong(属于)+-ing(名词后缀)+s(表复数)→属于某人的东西→财产；所 有物",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "headlong",
+      "phonetic": "'hedlbŋ",
+      "pos": "adv.",
+      "definition": "头朝前地；迅猛地；轻率地adj . 轻率的19265",
+      "frequency": null,
+      "mnemonic": "head(头)+-long(=forward: 向前)→头朝前的→引申词义迅猛地；轻率地",
+      "collocations": [
+        "fall headlong down the stairs: 头朝前摔下楼梯",
+        "leap headlong into decisions: 轻率仓促地做决定",
+        "run headlong for the open door: 那扇敞开的门猛冲过去"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "linger",
+      "phonetic": "'lingə",
+      "pos": "vi.",
+      "definition": "徘徊；继续逗留；(想法、感觉、疾病)继续存留5804",
+      "frequency": null,
+      "mnemonic": "ling(=long: 长时间)+-er (动词后缀)→很长时间不走→徘徊；萦绕",
+      "collocations": [
+        "linger on sb/sth: 持续看(或思考)",
+        "linger over breakfast: 慢条斯理地吃着早餐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "lingering",
+      "phonetic": "'lingəriŋ",
+      "pos": "adj.",
+      "definition": "拖延的；缓慢消失的； 迟迟不去的7332",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "lingering racism: 挥之不去的种族主义",
+        "have a lingering fear: 心有余悸",
+        "a last lingering look: 依依不舍的最后一瞥"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "private",
+      "phonetic": "'praivit",
+      "pos": "adj.",
+      "definition": "私有的；私人的；私下的672",
+      "frequency": null,
+      "mnemonic": "priv-(not shared,individual: 个人的)+-ate(形容词后缀)→set apart;being separate, 使分离，个人的→私有的；私人的；私下的",
+      "collocations": [
+        "private affairs: 私 事",
+        "private property: 私有财产",
+        "in private: 私下地",
+        "on a private visit: 私人访问",
+        "private banks/companies/schools: 私营银行/公司；私立学校"
+      ],
+      "etymology": "late 14c.,\"pertaining or belonging to oneself,not shared,individual;not open to the public;\"of a religious rule,\"not shared by Christians generally, distinctive;from Latin privatus”\"set apart,belonging to oneself (not to the state),peculiar,personal,\"used in contrast to publicus,communis; past participle of privare “to separate,deprive,\"from privus \"one's own, individual,\"from Proto-Italic *prei-wo-“separate,individual”. 速20000词汇巅峰 速 笔 记 区 笔 记 区",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "privacy",
+      "phonetic": "'privəsI;'prar-",
+      "pos": "n.",
+      "definition": "隐私；私人空间3084",
+      "frequency": null,
+      "mnemonic": "priv-(私自的；自己的)+-acy(名词后缀)→隐私；私人空间",
+      "collocations": [
+        "invade one's privacy: 侵犯……的隐私"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "privately",
+      "phonetic": "'prarvitli",
+      "pos": "adv.",
+      "definition": "私下地(买、卖)4773",
+      "frequency": null,
+      "mnemonic": "private(私下的)+-1y(副词后缀)→私下地(买、卖)\nprivate (私人的)+sector (部分)→ (经济的)私营部分",
+      "collocations": [
+        "privately owned: 私营的",
+        "small firms in the private sector: 私营部分的各小公司"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "privatize",
+      "phonetic": "'praiv,taiz",
+      "pos": "vt.",
+      "definition": "使私有化11163",
+      "frequency": null,
+      "mnemonic": "private(私有的)+-ize(动词后缀，使成为)→使成为私有→使私有化",
+      "collocations": [
+        "a move to privatize prisons: 一项使监狱私有化的举措"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "privatization",
+      "phonetic": ",prarvətar'zerʃən",
+      "pos": "n.",
+      "definition": "私有化6749",
+      "frequency": null,
+      "mnemonic": "privatize (使私有化)+-ation (名词后缀) →私有化",
+      "collocations": [
+        "the privatization of government services: 政府服务事业的私有化"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "privy",
+      "phonetic": "'privi",
+      "pos": "adj.",
+      "definition": "了解某事的内情；私下知晓某事 n. ( 尤指室外的)厕所",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "be privy to the committee's decisions: 知晓委员会的秘密决定 privy council: 枢密院"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "deprive",
+      "phonetic": "di'praiv",
+      "pos": "v.",
+      "definition": "剥夺；使丧失；使不能享有6290",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "deprive sb.of sth.: 剥夺某人 ……"
+      ],
+      "etymology": null,
+      "examples": [
+        "They are deprived of unemployment or disability insurance.\n他们被剥夺了失业保险或者伤残保险。",
+        "刻板的学习和机械的背诵夺走了中国学生的创造性和独立，批判 思考的能力。\nRigorous book learning and mechanical recitation deprive Chinese students of their creativity and ability to think critically and independently."
+      ],
+      "rootHint": "myst"
+    },
+    {
+      "word": "deprived",
+      "phonetic": "drprarvd",
+      "pos": "adj.",
+      "definition": "贫困的；穷苦的17651",
+      "frequency": null,
+      "mnemonic": "depriv e(剥夺；使丧失)+-d(-ed 形容词后缀去e)→ 被剥夺(享受生活) 的；不能享有的→贫困的；穷苦的",
+      "collocations": [
+        "deprived areas/neighborhoods: 贫民区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "deprivation",
+      "phonetic": "depri'veɪʃ(ə)n",
+      "pos": "n.",
+      "definition": "剥夺；贫困；匮乏9398",
+      "frequency": null,
+      "mnemonic": "depriv(=deprive: 剥夺；使丧失)+-ation(名词后缀)→剥夺；贫困；匮乏",
+      "collocations": [
+        "a life of deprivation: 终生贫困"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "proper",
+      "phonetic": "'prppə",
+      "pos": "adj.",
+      "definition": "像样的；正规的；适宜的；严格意义上的adv. 完全地； 彻底地；适当地2075",
+      "frequency": null,
+      "mnemonic": "来源于拉丁语形容词proprius(个人的；自己的),经古法语propre派生\n了英语proper→proper: 适当的；本身所有的 搭配：a proper job: 一份像样的工作",
+      "collocations": [],
+      "etymology": "来自古法语propre “own,particular;exact,neat,fitting,appropriate” (11c.) 。来自拉丁语proprius “one's own,particular to itself”。来自 pro privo \"for the individual,in particular”。来自privus “one's own, individual”.Related:Properly. 自14世纪早期开始，含义为“belonging or pertaining to oneself; individual; intrinsic;\" 自14世纪中期，含义为pertaining to a person or thing in particular,special,specific;distinctive,characteristic;also \"what is by the rules, correct,appropriate ,acceptable.” 自15世纪早期，含 义为“separate,distinct;itself.\"\"Meaning “socially appropriate, decent, respectable\"is first recorded 1704.",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "properly",
+      "phonetic": "'prpp(ə)li",
+      "pos": "adv.",
+      "definition": "适当地；得体地；真正地2902",
+      "frequency": null,
+      "mnemonic": "proper( 适宜的)+-1y(副词后缀) →适当地；得体地；真正地",
+      "collocations": [
+        "behave properly: 行为得当"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "improper",
+      "phonetic": "m'prppə",
+      "pos": "adj.",
+      "definition": "不诚实的；不合法的；不恰当的；错误的8408",
+      "frequency": null,
+      "mnemonic": "im-(=not ,opposite of: 不；与……相反)+proper (适当的)→not suited, unfit: 不合适的；不适当的→ 引申为不诚实的；不合法的；错误的",
+      "collocations": [
+        "improper behavior: 不当行为"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "improperly",
+      "phonetic": "im'propəli",
+      "pos": "adv.",
+      "definition": "不适当地；错误地11600",
+      "frequency": null,
+      "mnemonic": "improper (不恰当的；错误的)+-ly(副词后缀) → 不适当地；错误地",
+      "collocations": [
+        "improperly apply: 不恰当地应用"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "property",
+      "phonetic": "p'rppəti",
+      "pos": "n.",
+      "definition": "财产；房地产；(物质、物体的)特性996",
+      "frequency": null,
+      "mnemonic": "proper(=priv-: 自己的；私人的)+-ty(名词后缀)→ 自己的东西→财产 proper(特有的)+ty(名词后缀)→特有的东西→特性；性质",
+      "collocations": [
+        "intellectual property: 知识产权"
+      ],
+      "etymology": "c.1300,properte,\"nature,quality,\"later “possession,thing owned”(early 14c.,a sense rare before 17c.),from an Anglo-French modification of Old French propriete “individuality,peculiarity;property”,from Latin 笔 记 区 proprietatem (nominative proprietas)\"ownership,a property,propriety, quality,\"literally\"special character”.",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "propriety",
+      "phonetic": "prə'prarəti",
+      "pos": "n.",
+      "definition": "( 行为的)得体；礼仪14138",
+      "frequency": null,
+      "mnemonic": "propri(=proper: 正派的；得体的)+-ety(名词后缀)→ (行为)得体、正派 的→ (行为的)得体；礼仪",
+      "collocations": [
+        "strict in observing the proprieties: 严格遵守礼节的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "impropriety",
+      "phonetic": ",imprə'prarotr",
+      "pos": "n.",
+      "definition": "不正当的行为[行动];不得体的举止16068",
+      "frequency": null,
+      "mnemonic": "im-(=not : 不)+propri(=proper: 适当的；得体的)+-ety (名词后缀)→不 正当的行为[行动];不得体的举止",
+      "collocations": [
+        "accusations of impropriety: 对不正当行为的指控"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "proprietor",
+      "phonetic": "prə'prartə",
+      "pos": "n.",
+      "definition": "所有人；业主11139",
+      "frequency": null,
+      "mnemonic": "propri(=proper=individual,property: 本身的；财产)+-etor(名词后缀)→ 本身拥有财产的人→所有人；业主",
+      "collocations": [
+        "newspaper proprietors: 报业老板"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "proprietary",
+      "phonetic": "prə'prarət(a)ri",
+      "pos": "n.",
+      "definition": "专营的；专利的；所有的10070",
+      "frequency": null,
+      "mnemonic": "propriet(=proprietor: 所有人；业主)+-ary (形容词后缀)→所有人所有\n的→专营的；专利的；所有的 搭配：proprietary product: 专利产品\na proprietary brand of insecticide: 专利品牌杀虫剂",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appropriate",
+      "phonetic": "ə'proupriət; (for v.)a'prəuprert",
+      "pos": "adj.",
+      "definition": "适当的 vt. 挪用；拨款1502",
+      "frequency": null,
+      "mnemonic": "ap-(=ad-=to: 去)+propri(=to make one's own: 据为己有的)+-ate(形容\n词后缀)→去占为己有的→挪用；拨款\nap-(=ad-=to: 去)+propri(=proper: 适当的)+-ate (形容词后缀) →适当的 搭配：appropriating government funds: 挪用政府资金",
+      "collocations": [],
+      "etymology": "early 15c.,\"take possession of,take exclusively,\"from Late Latin appropriatus,past participle of appropriare,adpropriare “to make one's own,\"from Latin ad “to”(see ad-)+propriare “take as one's own,\"from proprius “one's own”(see proper).Related:Appropriated;appropriating.",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appropriation",
+      "phonetic": "əp,rəuprɪ'erʃ(o)n",
+      "pos": "n.",
+      "definition": "拨款；挪用6632",
+      "frequency": null,
+      "mnemonic": "appropriate (挪用；拨款)+-ation (名词后缀) →拨款；挪用",
+      "collocations": [
+        "dishonest appropriation of property: 以欺骗的手法侵吞财产"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appropriately",
+      "phonetic": "ə'prəupriətli ",
+      "pos": "adv.",
+      "definition": "适当地6569",
+      "frequency": null,
+      "mnemonic": "appropriate (适当的)+-ly( 副词后缀) →适当地",
+      "collocations": [
+        "align our research appropriately: 适当地调整我们的研究方向"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appropriateness",
+      "phonetic": "ə 'proprrətnis",
+      "pos": "n.",
+      "definition": "适当14272",
+      "frequency": null,
+      "mnemonic": "appropriate (适当的)+-ness ( 名词后缀)→适当",
+      "collocations": [
+        "the appropriateness of the questions: 问题的适当性"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "inappropriate",
+      "phonetic": "in'prəupriət",
+      "pos": "adj.",
+      "definition": "(对特定目的或情况)不合适的5107",
+      "frequency": null,
+      "mnemonic": "in-(=not,opposite of: 不；与……相反)+appropriate (适当的)→not\nproper, unsuitable: 不合适的；不恰当的",
+      "collocations": [
+        "an inappropriate gift for a child: 不适合送给孩子的礼物"
+      ],
+      "etymology": null,
+      "examples": [
+        "It is inappropriate/improper to send/commit their children to excessive art classes. 送孩子去过多的艺术班是不合适的。"
+      ],
+      "rootHint": "myst"
+    },
+    {
+      "word": "inappropriately",
+      "phonetic": ",inə'prəupri:itli",
+      "pos": "adv.",
+      "definition": "不适当地16816",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "behave inappropriately: 举止失当"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "price",
+      "phonetic": "prars",
+      "pos": "n.",
+      "definition": "价格；代价；定价 vt. 将……定价476",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "at any price: 不惜任何代价",
+        "at a price: 价格昂贵",
+        "at a price: 付出一定代价 辨别：price,prize,praise"
+      ],
+      "etymology": "Praise,price,and prize began to diverge in Old French,with praise emerging in Middle English by early 14c.and prize being evident by late 1500s with the rise of the -Z-spelling.Having shed the extra Old French and Middle English senses,the word now again has the base sense of the Latin original.To set (or put)a price on someone,\"offer a reward for capture”is from 1766. Praise” 、“price” 和“prize” 开始在古法语中出现分歧， “Praise” 出现在14世纪早期的中世纪英语中。随着-z拼写的兴起，“prize” 这 个单词到16世纪晚期变得显而易见。在去掉了额外的古法语和中世纪 英语的意思之后，这个词现在又回归了拉丁原文的基本意思： To set (or put)a price on someone给某人评价。Offer a reward for capture “悬 赏捉拿”的说法是1766年的说法。",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "priceless",
+      "phonetic": "'prarslis",
+      "pos": "adj.",
+      "definition": "极其贵重的；无价的；(品质或技能)极其重要的；极 其有用的12829",
+      "frequency": null,
+      "mnemonic": "price(价格；价值)+-less(形容词后缀，表示否定)→无法用价格来衡量 的；极珍贵的→极其贵重的；无价的；(品质或技能)极其重要的",
+      "collocations": [
+        "priceless antiques: 极其贵重的古董priceless treasure: 无价之宝a priceless asset: 难能可贵的优点笔 记 区",
+        "priceless antiques: 极其贵重的古董",
+        "priceless treasure: 无价之宝",
+        "a priceless asset: 难能可贵的优点"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "pricey",
+      "phonetic": "'praisI",
+      "pos": "adj.",
+      "definition": "价格高的；昂贵的11472",
+      "frequency": null,
+      "mnemonic": "price(价格；定价)+-y(形容词后缀)→价格高的；昂贵的",
+      "collocations": [
+        "pricey medical insurance: 昂贵的医疗保险"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "pricing",
+      "phonetic": "'praisiŋ",
+      "pos": "n.",
+      "definition": "定价；作价；计价8348",
+      "frequency": null,
+      "mnemonic": "price(定价；去e)+-ing(名词后缀)→定价；作价；计价",
+      "collocations": [
+        "a competitive pricing policy: 有竞争力的定价策略"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "high-priced",
+      "phonetic": "'hai praist",
+      "pos": "adj.",
+      "definition": "高价的；昂贵的15542",
+      "frequency": null,
+      "mnemonic": "high(高昂的)+priced(附有定价的)→定价高昂的→高价的；昂贵的\npriz(=-prec- : 价值)+-e→price,value,worth,reward: 有价值的东西；\nworthy of price: 值得获奖的→奖品；奖金；获奖的；重视 搭配：claim one's prize: 领取奖品\na prize bull: 获奖的公牛",
+      "collocations": [
+        "high-priced housing/cars: 昂贵的住房/汽车",
+        "high-priced apartments: 贵的公寓"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "prize-winning",
+      "phonetic": "'prarz'winiŋ ",
+      "pos": "adj.",
+      "definition": "获奖的12900",
+      "frequency": null,
+      "mnemonic": "prize (奖品)+winning(获胜的；赢的)→获得奖品的→获奖的",
+      "collocations": [
+        "a prize-winning novel 获奖小说"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "praise",
+      "phonetic": "prerz",
+      "pos": "vt.",
+      "definition": "(尤指公开地)赞扬；(尤指在教堂唱赞美诗)赞美(上帝)n. 赞 扬，赞美；(对上帝的)崇拜，赞颂3754",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a highly praised novel: 受到高度赞扬的小说",
+        "praise sb/sth to the skies(=praise someone or something very much: 对某 人/某事赞叹不已；把某人/某事捧上天",
+        "damn something with faint praise: 用冷漠的赞许贬低；明褒实贬 sing someone's praises: 高度赞扬；热情表扬",
+        "God/Heaven be praised: 感谢上帝，赞美主"
+      ],
+      "etymology": "这个单词和price (价格，价值)是同源关系，出自拉丁语pretium, precious (珍贵的)、prize (奖赏)等也出自该词，可以串记。体会praise 和price发音上的相似，“赞扬”某人就是肯定其“价值” 联想记忆法：praise 主体为raise(抬高),“赞扬”即“抬举”",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appraise",
+      "phonetic": "ə 'prerz",
+      "pos": "vt.",
+      "definition": "评价；估价13542",
+      "frequency": null,
+      "mnemonic": "ap-(=ap-=to: 去)+praise(=price: 价格)→to set a value on: 去定价格 → 进行评估→评价；估价",
+      "collocations": [
+        "appraise the selection and recruitment policies: 评价人才选聘政策",
+        "be appraised at a figure near $1,000,000: 被估价的数额接近$1000000",
+        "make a fair appraisal of its artistic value: 对它的艺术价值做一个公正的 评价"
+      ],
+      "etymology": "c.1400,\"to set a value on,\"from stem of Old French aprisier“apraise,set a price on”(14c.,Modern French apprécier),from Late Latin appretiare “value,estimate”.Original English spelling apprize altered by influence of praise.Related:Appraised;appraising.",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appraisal",
+      "phonetic": "ə'preiz(ə)l",
+      "pos": "n.",
+      "definition": "评价；估价；鉴定；(官方或正式的常带考核性质 的)评定，评价7899",
+      "frequency": null,
+      "mnemonic": "appraise(评价；估价)+-al(名词后缀，表示行为)→评价的行为→评价；\n估价；鉴定→引申义为官方或正式的常带考核性质的)评定，评价 搭配：a calm appraisal of the situation: 对形势有一个冷静的评估\nan appraisal ofyour financial standing: 对财务状况的评估\nstaff/performance appraisal: 员工/工作表现评估",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appraiser",
+      "phonetic": "ə 'prerzə",
+      "pos": "n.",
+      "definition": "估价人；(房地产)估价师；鉴定人18941",
+      "frequency": null,
+      "mnemonic": "appraise (评价；估价)+-r( 名词后缀，表人)→评价、估价的人→估价\nprec-(价值)+-i+-ous(形容词后缀，表示full of: 充满)→充满价值的→ 宝贵的；珍贵的；珍稀的；(对某人来讲)珍贵的",
+      "collocations": [
+        "most precious possession: 最珍视的财产",
+        "precious face: 娇贵的脸",
+        "too precious and neurotic: 神经兮兮的",
+        "precious little of something: 一点点；极少"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appreciate",
+      "phonetic": "ə'pri:frert;-SI-",
+      "pos": "vt.",
+      "definition": "欣赏；理解；感激； 增值1751",
+      "frequency": null,
+      "mnemonic": "ap-(=ad: 去)+-prec-(=price: 价格；价值)+-i+-ate (动词后缀)→去定出 价格、价值→给出(高度)评价→欣赏；理解；感激；增值\nappreciate (欣赏；理解；感激；增值，去e)+-ion (名词后缀)→欣赏；",
+      "collocations": [
+        "appreciate our music: 欣赏我们的音乐",
+        "appreciate the depth and bitterness of the family's conflict: 理解该家庭 矛盾的深度与激烈程度",
+        "appreciate in value: 增值"
+      ],
+      "etymology": "拉丁语appretiare(=to set a price to: 去给出定价)→拉丁语appretiatus(=to esteem or value highly: 非常尊重；评价很高)→appreciate(=to set a just value on;it implies the use of wise judgment or delicate perception: 给出 合适的评价；意味着使用睿智的判断或者敏锐的洞察力)",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "appreciative",
+      "phonetic": "ə 'pri:ʃətrv",
+      "pos": "adj.",
+      "definition": "欣赏的；感激的12957",
+      "frequency": null,
+      "mnemonic": "appreciate(欣赏；感激，去e)+-ive(形容词后缀)→欣赏的；感激的",
+      "collocations": [
+        "appreciative laughter: 赞赏的笑声",
+        "be appreciative of their support: 对他们的支持非常感激"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "depreciate",
+      "phonetic": "dr'pri:fiert",
+      "pos": "vi.",
+      "definition": "贬值，跌价；使折旧 vt.贬低(重要性);轻视",
+      "frequency": null,
+      "mnemonic": "de-(=down: 向下；减少)+-prec-(=prce: 价值)+-i+-ate(动词后缀)→使 价值减少→贬值；使折旧；贬低(重要性)",
+      "collocations": [
+        "depreciate in value: 掉价",
+        "depreciate at 50%: 折旧率为50%",
+        "depreciate the importance of art: 贬低艺术的重要性"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "depreciation",
+      "phonetic": "dr,pri:fi'erʃ(ə)n;-si'er-",
+      "pos": "n.",
+      "definition": "(使)(货币等)贬值；(使)跌价15810 助记：depreciate(贬值；使折旧；贬低)+-ion(名词后缀)→使贬值；使跌价",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the depreciation of the dollar: 美元的贬值",
+        "currency depreciation: 货币贬值",
+        "accelerated depreciation: 加速折旧"
+      ],
+      "etymology": "Proto-Indo-European root meaning \"to traffic in,to sell,\"an extended sense from root *per-(1)\"forward,through\"via the notion of“to hand over”or 速20000词汇巅峰 速 笔 记 区 笔 记 区 \"distribute.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit aprata \"without recompense,gratuitously;\"Greek porne \"prostitute,\"originally \"bought,purchased,\"pernanai “to sell;\" Latin pretium \"reward,prize,value,worth;\"Lithuanian perku “I buy.”",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "interpret",
+      "phonetic": "in'ts:prit ",
+      "pos": "vt.",
+      "definition": "&vi. 口译 vt. 把……理解[解释]为；阐释2783",
+      "frequency": null,
+      "mnemonic": "inter-(=between: 在……之间)+pre-(=to hand over: 转交，交换)+t→把 信息转交给另外一个人→理解；解释；口译",
+      "collocations": [
+        "interpret her silence as acceptance or refusal: 把她的沉默看作是接受还 是拒绝",
+        "interpret the meaning of dreams: 对梦的含义的解析",
+        "interpret for her: 给她翻译"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "interpretation",
+      "phonetic": "ints:pri'terʃ(ən",
+      "pos": "n.",
+      "definition": "解释，说明；(对戏剧、音乐作品等的)表 演，演绎2401",
+      "frequency": null,
+      "mnemonic": "interpret(解释；口译)+-ation (名词后缀)→解释；演绎",
+      "collocations": [
+        "put an accurate interpretation on: 对……作出确切解释",
+        "brilliant interpretation of Henry V: 对亨利五世的精彩演绎",
+        "simultaneous interpretation: 同声传译",
+        "judicial interpretation: 司法解释"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "interpreter",
+      "phonetic": "in'ts:pritə",
+      "pos": "n.",
+      "definition": "口译者；表演者；(计算机的)解释程序5701",
+      "frequency": null,
+      "mnemonic": "interpret(解释；表演)+-er( 名词词缀，表示人) → 口译者；表演者",
+      "collocations": [
+        "speak through an interpreter: 通过口译员传达 ……",
+        "the supreme interpreters of Puccini's heroines: 普契尼歌剧女主角的最 佳表演者"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "interpretive",
+      "phonetic": "ɪn'ts:pritiv",
+      "pos": "adj.",
+      "definition": "解释的；说明的9956",
+      "frequency": null,
+      "mnemonic": "interpret(解释；说明)+-ive(形容词后缀)→解释的；说明的\n1962,abbreviation of pornography.Porno (adj.)is attested from 1952.",
+      "collocations": [
+        "an interpretive process: 一个阐释的过程",
+        "the porn industry: 色情业",
+        "a porno movie: 色情电影"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "pornography",
+      "phonetic": "pɔ:'npgrəfi",
+      "pos": "n.",
+      "definition": "色情作品(杂志，电影等)7284",
+      "frequency": null,
+      "mnemonic": "porno-(=per-:to traffic,to sell: 做交易；买卖)+graph (写；画)+y(名 词后缀)→将描写妓女的图画或文字进行交易买卖→后引申为进行交 易、买卖的色情作品如杂志、电影等→色情作品(杂志，电影等)",
+      "collocations": [
+        "anti-pornography drive: 扫黄"
+      ],
+      "etymology": "1842,\"ancient obscene painting,especially in temples of Bacchus,\" from French pornographie,from Greek pornographos“(one)depicting prostitutes,\"from porne “prostitute,\"originally \"bought,purchased”(with an original notion,probably of“female slave sold for prostitution”),related to pernanai “to sell”. 来自希腊语pornographos,描写妓女的图画或文字，来自porne, 妓女， 原义可能为卖身为妓的女奴。",
+      "examples": [],
+      "rootHint": "myst"
+    },
+    {
+      "word": "pornographic",
+      "phonetic": ",pɔ:na'græfik",
+      "pos": "adj.",
+      "definition": "色情的13649",
+      "frequency": null,
+      "mnemonic": "pornography(色情作品)+变y为-ic(形容词后缀)→色情的",
+      "collocations": [
+        "pornographic videos: 色情录像"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "myst"
+    }
+  ]
+}

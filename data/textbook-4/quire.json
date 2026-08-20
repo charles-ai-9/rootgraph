@@ -1,0 +1,116 @@
+{
+  "id": "quire",
+  "source": "textbook-4",
+  "chapter": "4",
+  "chapterOrder": 104,
+  "titleZh": "获得，得到",
+  "semanticLabel": "获得，得到",
+  "meaningEn": null,
+  "meaningZh": "获得，得到",
+  "roots": [
+    "quire",
+    "quis"
+  ],
+  "words": [
+    {
+      "word": "acquire",
+      "phonetic": "ə 'kwarə",
+      "pos": "vt.",
+      "definition": "购得；获得；学到(知识、技能)2079",
+      "frequency": null,
+      "mnemonic": "ac-(=ad- : 去；表强调)+-quir-(=to seek to obtain: 寻求获得)+ e→gain ,earn,procure: 获得；得到；赚得；购买→购得；获得；学到",
+      "collocations": [
+        "acquire an email address: 获得了一个电子邮件地址",
+        "acquire a reputation for..:以……而闻名",
+        "acquire a good knowledge of Chinese: 汉语学得很好"
+      ],
+      "etymology": null,
+      "examples": [
+        "A patient may also acquire a tolerance for a certain drug,which means the\npatient has to take ever larger doses to produce the desired effect.\n病人对于某种药可能获得了一种抗药性，这就意味着病人不得不服用 更大剂量的要去达到想要的效果。\nacquire 的派生词有acquired, acquisition 等。"
+      ],
+      "rootHint": "quire"
+    },
+    {
+      "word": "acquired",
+      "phonetic": "ə 'kwarod",
+      "pos": "adj.",
+      "definition": "后天获得(习得)的15638",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "acquired right: 既得权益acquired taste: 嗜好；爱好"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "acquisition",
+      "phonetic": ",aækwi'ziʃ(ə)n",
+      "pos": "n.",
+      "definition": "收购；获得；习得3893 搭配：the acquisition of a company: 收购一家公司",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quis"
+    },
+    {
+      "word": "conquer",
+      "phonetic": "'kpŋkə",
+      "pos": "vt.",
+      "definition": "征服；攻占；克服6840",
+      "frequency": null,
+      "mnemonic": "con-(=com-; 表加强)+-quer(=to gain: 获得；得到) → 获得(别 人的)土地；得到(他国)的国土 → 征服；攻占；克服",
+      "collocations": [
+        "conquer our differences: 消除我们的分歧",
+        "conquer his addiction to smoking: 戒除过烟瘾",
+        "divide and conquer: 分而治之；各个击破"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "conquering",
+      "phonetic": "'koŋkə",
+      "pos": "n.",
+      "definition": "征服20163 搭配：worth conquering: 值得征服",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "conqueror",
+      "phonetic": "'kpŋk(a)rə(r)",
+      "pos": "n.",
+      "definition": "征服者16654",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "William the Conqueror: 征服者威廉(英格兰国王威廉一世) obey their conquerors: 顺从他们的征服者"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    },
+    {
+      "word": "conquest",
+      "phonetic": "'kbŋkwest",
+      "pos": "n.",
+      "definition": "征服；克服7790",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the Spanish conquest of Mexico: 西班牙人对墨西哥的征服"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quire"
+    }
+  ]
+}

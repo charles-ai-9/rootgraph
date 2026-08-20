@@ -1,4 +1,4 @@
-import { useEffect, useRef, useState } from 'react';
+import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { renderSimpleMarkdown } from '../utils/markdown';
 
 interface NoteEditorProps {
@@ -6,9 +6,11 @@ interface NoteEditorProps {
   placeholder: string;
   onChange: (text: string) => void;
   minRows?: number;
+  /** 自定义只读预览（默认 markdown） */
+  renderPreview?: (value: string) => ReactNode;
 }
 
-export function NoteEditor({ value, placeholder, onChange, minRows = 3 }: NoteEditorProps) {
+export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview }: NoteEditorProps) {
   const [editing, setEditing] = useState(false);
   const areaRef = useRef<HTMLTextAreaElement>(null);
 
@@ -43,7 +45,9 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3 }: NoteEd
       }}
     >
       {value ? (
-        <div className="note-markdown">{renderSimpleMarkdown(value)}</div>
+        renderPreview ? renderPreview(value) : (
+          <div className="note-markdown">{renderSimpleMarkdown(value)}</div>
+        )
       ) : (
         <p className="note-placeholder">{placeholder}</p>
       )}
