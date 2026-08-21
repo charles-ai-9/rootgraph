@@ -4145,3 +4145,184 @@ textarea {
   color: #15803d;
   font-weight: 600;
 }
+
+/* ══ 移动端适配（笔记风 · 触屏友好） ══ */
+
+@media (max-width: 768px) {
+  /* 顶部栏两行化：第一行 返回+搜索+词缀库，第二行 徽标区 */
+  .note-topbar {
+    padding: 10px 12px;
+  }
+
+  .note-topbar-inner {
+    flex-wrap: wrap;
+    row-gap: 8px;
+  }
+
+  .detail-search-wrap {
+    flex: 1;
+    max-width: none;
+    min-width: 0;
+    order: 1;
+  }
+
+  .detail-search-input {
+    font-size: 16px; /* 防 iOS 聚焦自动缩放 */
+    padding: 8px 12px;
+  }
+
+  .note-topbar-affix-btn {
+    order: 2;
+  }
+
+  .note-topbar-meta {
+    order: 3;
+    width: 100%;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    gap: 6px;
+    padding-top: 2px;
+  }
+
+  /* 变体 Tab 横向滑动 */
+  .family-variant-nav-wrap {
+    padding: 8px 12px 10px;
+  }
+
+  .family-variant-nav {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+    padding-bottom: 2px;
+    scrollbar-width: none;
+  }
+
+  .family-variant-nav::-webkit-scrollbar {
+    display: none;
+  }
+
+  .family-variant-tab {
+    flex-shrink: 0;
+    padding: 8px 14px; /* 触控目标 ≥ 44px 高 */
+  }
+
+  /* 弹窗：底部弹层全屏化 */
+  .affix-modal-backdrop {
+    padding: 0;
+    align-items: flex-end;
+  }
+
+  .affix-modal-compact {
+    width: 100%;
+    max-height: 92vh;
+    border-radius: 16px 16px 0 0;
+    overflow-y: auto;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .word-review-modal {
+    width: 100%;
+    max-height: 92vh;
+    border-radius: 16px 16px 0 0;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .affix-lib-overlay {
+    width: 100%;
+    max-height: 92vh;
+    border-radius: 16px 16px 0 0;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  /* 首页：hero 压缩 + toolbar 堆叠 */
+  .library-hero h1 {
+    font-size: 1.35rem;
+  }
+
+  .library-toolbar {
+    flex-direction: column;
+    gap: 8px;
+  }
+
+  .search-input,
+  .library-toolbar select {
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .library-row {
+    padding: 13px 6px; /* 触控目标 */
+  }
+
+  .library-row-chapter {
+    min-width: 52px;
+  }
+
+  .library-row-roots {
+    min-width: 96px;
+  }
+
+  /* 词卡触控 */
+  .word-card-head {
+    padding: 13px 12px;
+  }
+
+  .word-card-def,
+  .word-card-notes,
+  .word-card-extra,
+  .word-card-actions {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+
+  .meta-edit-btn,
+  .video-badge,
+  .video-id-input {
+    min-height: 30px;
+  }
+
+  .affix-open-btn {
+    padding: 6px 12px;
+  }
+}
+
+@media (max-width: 480px) {
+  .doc-title {
+    font-size: 1.3rem;
+  }
+
+  .doc-subtitle {
+    font-size: 0.88rem;
+  }
+
+  .library {
+    padding: 20px 14px 56px;
+  }
+
+  .note-doc {
+    padding: 20px 14px 72px;
+  }
+
+  .library-row-semantic {
+    font-size: 0.82rem;
+  }
+
+  .word-card-def-inline {
+    min-width: 90px;
+  }
+
+  .hero-actions .hero-action {
+    flex: 1;
+    justify-content: center;
+    text-align: center;
+  }
+
+  .back-link {
+    padding: 6px 10px;
+    font-size: 0.84rem;
+  }
+
+  .family-meta-editor {
+    margin: 0 14px;
+  }
+}
