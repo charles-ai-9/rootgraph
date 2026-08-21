@@ -256,8 +256,17 @@ export function useNotes() {
     }));
   }, []);
 
-  /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2） */
+  /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2）。
+   *  安全：迁移前先把整个 store 快照到 rootgraph-notes-backup-auto-*，即使迁移异常也可恢复。 */
   const migrateKeys = useCallback((renames: Record<string, string>) => {
+    const hasRealRename = Object.entries(renames).some(([a, b]) => a !== b);
+    if (hasRealRename) {
+      try {
+        localStorage.setItem(`rootgraph-notes-backup-auto-${Date.now()}`, JSON.stringify(store));
+      } catch {
+        /* 配额满则跳过快照，迁移仍继续 */
+      }
+    }
     setStore((prev) => {
       const next: NotesStore = {
         families: { ...prev.families },
@@ -283,7 +292,7 @@ export function useNotes() {
       }
       return changed ? next : prev;
     });
-  }, []);
+  }, [store]);
 
   return {
     getFamilyNote,

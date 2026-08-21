@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { AffixItem, AffixKind, CatalogEntry } from '../types';
 import { catalogEntryKey, displayRoots, displaySemantic } from '../types';
 import { rootChapterOptions, textbookLabel } from '../catalog';
@@ -6,6 +6,7 @@ import { WordSearchResults } from './WordSearchResults';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import type { FamilyMeta } from '../hooks/useNotes';
+import { downloadNotesBackup, importNotesBackup, parseBackupFile } from '../utils/backup';
 
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
@@ -24,6 +25,23 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
   const [chapterKey, setChapterKey] = useState('all');
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
+  const [backupMsg, setBackupMsg] = useState('');
+  const fileRef = useRef<HTMLInputElement>(null);
+
+  const handleImportFile = (file: File) => {
+    const reader = new FileReader();
+    reader.onload = () => {
+      try {
+        const backup = parseBackupFile(String(reader.result));
+        importNotesBackup(backup);
+        setBackupMsg('导入成功（导入前已自动备份现有数据）');
+      } catch (e) {
+        setBackupMsg(`导入失败：${(e as Error).message}`);
+      }
+      window.setTimeout(() => setBackupMsg(''), 4000);
+    };
+    reader.readAsText(file);
+  };
 
   useEffect(() => {
     setCatalogError(false);
@@ -137,6 +155,24 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
           <button type="button" className="hero-action" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
+          <button type="button" className="hero-action subtle" onClick={downloadNotesBackup}>
+            导出笔记
+          </button>
+          <button type="button" className="hero-action subtle" onClick={() => fileRef.current?.click()}>
+            导入笔记
+          </button>
+          <input
+            ref={fileRef}
+            type="file"
+            accept="application/json,.json"
+            style={{ display: 'none' }}
+            onChange={(e) => {
+              const f = e.target.files?.[0];
+              if (f) handleImportFile(f);
+              e.target.value = '';
+            }}
+          />
+          {backupMsg && <p className="backup-msg">{backupMsg}</p>}
         </div>
       </header>
 

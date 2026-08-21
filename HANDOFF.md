@@ -566,6 +566,17 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ---
 
+## 11.5 笔记安全规则（红线，务必遵守）
+
+用户笔记只存浏览器 localStorage（`rootgraph-notes-v2` / `rootgraph-progress-v1` / `rootgraph-affix-library-v5`），是用户唯一的学习资产：
+
+1. **任何代码改动不得删除、清空或覆盖用户笔记字段**；数据结构变更必须向后兼容（新字段用 `?? 默认值` 兜底）
+2. **迁移前必须快照**：`migrateKeys` 等重排 key 的逻辑，执行前先把整个 store 写入 `rootgraph-notes-backup-auto-*`
+3. 数据重导 / 部署不会触碰 localStorage；`legacyId` 机制只在 catalog 含 legacyId 条目时迁移（当前为 0）
+4. 用户可随时「导出笔记 / 导入笔记」（首页 hero 区按钮，utils/backup.ts）——导入前自动快照现有数据
+
+---
+
 ## 12. 编码约定（后续 Agent 请遵守）
 
 1. **最小 diff**：只改任务相关文件，不顺手重构

@@ -116,6 +116,16 @@ textarea {
   margin: 12px 0 0;
 }
 
+.backup-msg {
+  width: 100%;
+  margin: 0;
+  font-size: 0.82rem;
+  color: var(--green);
+  background: var(--green-soft);
+  padding: 6px 12px;
+  border-radius: 6px;
+}
+
 .hero-action.subtle {
   background: #fff;
   border-color: var(--border);
