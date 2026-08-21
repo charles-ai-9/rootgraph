@@ -22,14 +22,6 @@ function formsLabel(kind: AffixKind): string {
   return kind === 'root' ? '词根' : '词缀';
 }
 
-function FieldEditButton({ onClick }: { onClick: () => void }) {
-  return (
-    <button type="button" className="affix-field-edit-btn" onClick={onClick}>
-      编辑
-    </button>
-  );
-}
-
 /** 词缀组：词缀形 + 释义（与词缀库弹窗一致） */
 export function AffixGroupFields({
   kind,
@@ -79,7 +71,6 @@ export function AffixGroupFields({
       <section className="affix-group-field">
         <div className="affix-group-field-head">
           <span className="affix-group-field-label">{formsLabel(kind)}</span>
-          {!editingForms && <FieldEditButton onClick={startEditForms} />}
         </div>
         {editingForms ? (
           <div className="affix-field-editor">
@@ -97,13 +88,18 @@ export function AffixGroupFields({
                 }
               }}
             />
-            <button type="button" className="affix-inline-done" onClick={finishEditForms}>
-              完成
-            </button>
           </div>
         ) : (
-          <div className="affix-group-field-value">
-            {displayForms || `（未填写${formsLabel(kind)}）`}
+          <div
+            className={`affix-group-field-value ${displayForms ? 'has-content' : 'is-empty'}`}
+            role="button"
+            tabIndex={0}
+            onClick={startEditForms}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') startEditForms();
+            }}
+          >
+            {displayForms || `（点击填写${formsLabel(kind)}）`}
           </div>
         )}
       </section>
@@ -111,7 +107,6 @@ export function AffixGroupFields({
       <section className="affix-group-field">
         <div className="affix-group-field-head">
           <span className="affix-group-field-label">释义</span>
-          {!editingMeaning && <FieldEditButton onClick={() => setEditingMeaning(true)} />}
         </div>
         {editingMeaning ? (
           <div className="affix-field-editor">
@@ -122,17 +117,30 @@ export function AffixGroupFields({
               value={meaning}
               onChange={(e) => onMeaningChange(e.target.value)}
               placeholder={'1. 表示…\n2. 加强语气\n支持 **粗体**、*斜体*、列表等'}
+              onBlur={finishEditMeaning}
+              onKeyDown={(e) => {
+                // Enter 保存并退出；Shift+Enter 换行
+                if (e.key === 'Enter' && !e.shiftKey) {
+                  e.preventDefault();
+                  finishEditMeaning();
+                }
+              }}
             />
-            <button type="button" className="affix-inline-done" onClick={finishEditMeaning}>
-              完成
-            </button>
           </div>
         ) : (
-          <div className="affix-group-field-value affix-group-field-meaning">
+          <div
+            className={`affix-group-field-value affix-group-field-meaning ${meaning.trim() ? 'has-content' : 'is-empty'}`}
+            role="button"
+            tabIndex={0}
+            onClick={() => setEditingMeaning(true)}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') setEditingMeaning(true);
+            }}
+          >
             {meaning.trim() ? (
               <div className="note-markdown">{renderSimpleMarkdown(meaning)}</div>
             ) : (
-              '（未填写释义）'
+              '（点击填写释义）'
             )}
           </div>
         )}

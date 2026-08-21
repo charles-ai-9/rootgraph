@@ -87,8 +87,36 @@ def validate() -> None:
         if orphans:
             warnings.append(f"{tb}: {len(orphans)} 个孤儿文件未在 index 中: {orphans[:5]}")
 
+    # 回归锚点：无音标词条 demographics（教材1 / ics 族）
+    ics_path = DATA / "textbook-1" / "ics.json"
+    ics = load(ics_path)
+    if ics:
+        names = {w.get("word", "").lower() for w in ics.get("words", [])}
+        check("demographics" in names, "textbook-1/ics.json 缺少 demographics（无音标词条解析回归）")
+    else:
+        check(False, "textbook-1/ics.json 缺失")
+
     catalog_count = len(catalog)
     print(f"校验通过：{catalog_count} 族 / {total_words} 词（catalog wordCount 合计 {sum(e.get('wordCount', 0) for e in catalog)}）")
+
+    # 内容覆盖审计（释义和用法、阅读补充、词频换行）
+    audit_script = ROOT / "scripts" / "audit-coverage.py"
+    if audit_script.is_file():
+        import subprocess
+
+        proc = subprocess.run(
+            [sys.executable, str(audit_script)],
+            capture_output=True,
+            text=True,
+            cwd=ROOT,
+        )
+        if proc.stdout.strip():
+            print(proc.stdout.strip())
+        if proc.returncode != 0:
+            for line in (proc.stdout or "").splitlines():
+                if line.startswith("  - "):
+                    errors.append(f"coverage: {line[4:]}")
+
     for w in warnings:
         print(f"  警告: {w}")
     if errors:

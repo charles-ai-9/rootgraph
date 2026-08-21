@@ -17,10 +17,11 @@
         "a radical solution to the problem：解决问题的全新的方法",
         "take radical measures：采取激进的措施"
       ],
-      "definition" : "根本的，彻底的；全新的，不同凡响的；激进的，极",
+      "definition" : "根本的，彻底的；全新的，不同凡响的；激进的，极端的 n. 激进分子",
       "examples" : [
 
       ],
+      "frequency" : 2952,
       "mnemonic" : "rad-（根）+ -ical（=-ic+-al：复合形容词后缀）→根的，根本的；激",
       "phonetic" : "ˈrædɪkl",
       "pos" : "adj.",
@@ -105,12 +106,14 @@
     {
       "collocations" : [
         "uproot their vines：把葡萄藤连根拔起",
-        "fallen trees which have been uprooted by the storm：被暴风连根拔起而"
+        "fallen trees which have been uprooted by the storm：被暴风连根拔起而\n倒下的树",
+        "uproot my family：举家搬迁"
       ],
-      "definition" : "将……连根拔起 vi.&vt. （使）离开家园（或熟悉的地方",
+      "definition" : "将……连根拔起 vi.&vt. （使）离开家园（或熟悉的地方等）",
       "examples" : [
         "We decided to uproot and head for Scotland.\n我们决定迁往苏格兰。"
       ],
+      "frequency" : 19811,
       "mnemonic" : "up（向上）+root（根）→把根向上拔起→将……连根拔起→（使）",
       "phonetic" : "ʌpˈruːt",
       "pos" : "vt.",
@@ -119,13 +122,15 @@
     },
     {
       "collocations" : [
-        "being uprooted：将……连根拔起；（使）离开家园"
+        "being uprooted：将……连根拔起；（使）离开家园",
+        "word-forming element meaning 1. “ray, ray-like” (see radius); 2. “radial,\nradially” (see radial (adj.)); 3. “by means of radiant energy” (see radiate"
       ],
       "definition" : "被连根拔起的 vt.&vi. uproot的过去式和过去分词",
-      "etymology" : "radio- 笔 记 区 word-forming element meaning 1. “ray, ray-like” (see radius); 2. “radial, radially” (see radial (adj.)); 3. “by means of radiant energy” (see radiate (v.)); 4. “radioactive” (see radioactive); 5. “by radio” (see radio (n.)).",
+      "etymology" : "radio- 笔 记 区 (v.)); 4. “radioactive” (see radioactive); 5. “by radio” (see radio (n.)).",
       "examples" : [
 
       ],
+      "frequency" : 16553,
       "phonetic" : "ʌpˈruːtɪd",
       "pos" : "adj.",
       "rootHint" : "rad",
@@ -215,13 +220,15 @@
     },
     {
       "collocations" : [
-
+        "She radiates happiness and health.\n她浑身流露着快乐与健康。",
+        "Five roads radiate from the square.\n五条道路由广场向外延伸（辐射）。"
       ],
-      "definition" : "（使品质或情感）显出，流露 vt.&vi. （使热、光、能",
+      "definition" : "（使品质或情感）显出，流露 vt.&vi. （使热、光、能量）辐射，放射，散发 [v. + adv.\/prep. ]（直线等）自中心辐射出；向周围伸展",
       "examples" : [
-        "Heat radiates from the stove.\n炉子的热向外散发。\nShe radiates happiness and health.\n她浑身流露着快乐与健康。\nFive roads radiate from the square.\n五条道路由广场向外延伸（辐射）。"
+        "Heat radiates from the stove.\n炉子的热向外散发。"
       ],
-      "mnemonic" : "radi（放射；辐射；发散）+ -ate（使动词）→辐射，发散（即：像",
+      "frequency" : 8664,
+      "mnemonic" : "radi（放射；辐射；发散）+ -ate（使动词）→辐射，发散（即：像\n→引申义为“显出，流露”",
       "phonetic" : "ˈreɪdɪeɪt",
       "pos" : "vt.",
       "rootHint" : "rad",
@@ -229,12 +236,14 @@
     },
     {
       "collocations" : [
-        "the radiant heat\/energy of the sun：太阳的辐射热\/辐射能"
+        "the radiant heat\/energy of the sun：太阳的辐射热\/辐射能",
+        "The sun was radiant in a clear blue sky.\n湛蓝的天空阳光灿烂。\n笔 记 区"
       ],
       "definition" : "容光焕发的；灿烂的，光芒四射的；辐射的，放射的",
       "examples" : [
-        "She was radiant with health.\n她身体健康，容光焕发。\nThe sun was radiant in a clear blue sky.\n湛蓝的天空阳光灿烂。"
+        "She was radiant with health.\n她身体健康，容光焕发。"
       ],
+      "frequency" : 9964,
       "mnemonic" : "radi-（放射；发散）+ -ant（形容词词缀）→（周身；太阳等）散发\n光芒的；发射的→荣光焕发的；光芒四射的；辐射的，放射的",
       "phonetic" : "ˈreɪdɪənt",
       "pos" : "adj.",
@@ -247,10 +256,11 @@
         "heating radiator：供暖散热片",
         "electric radiator：电暖气"
       ],
-      "definition" : "散热器，暖气片；（车辆或飞机发动机的）冷却器，",
+      "definition" : "散热器，暖气片；（车辆或飞机发动机的）冷却器，水箱",
       "examples" : [
 
       ],
+      "frequency" : 13764,
       "mnemonic" : "radiate（使热、光、能量放射，发散）+ -or（表物体）→用于发散热\n量的设备→散热器；暖气片；水箱",
       "phonetic" : "ˈreɪdɪeɪtə",
       "pos" : "n.",
@@ -289,10 +299,14 @@
     },
     {
       "collocations" : [
-        "a semicircle with a radius of about thirty miles：一个半径大约三十英里"
+        "ray of light, beam of light; radius of a circle,” of unknown origin. Perhaps",
+        "related to radix “root,” but de Vaan finds that “unlikely.”",
+        "a semicircle with a radius of about thirty miles：一个半径大约三十英里",
+        "space, conceived as a hollow globe about the world,” from Anglo-French",
+        "espiere, Old French espere (13c., Modern French sphère), from Latin\nsphaera “globe, ball, celestial sphere” (Medieval Latin spera), from Greek\nsphaira “globe, ball, playing ball, terrestrial globe,” a word of unknown"
       ],
       "definition" : "范围；半径（长度）",
-      "etymology" : "Mid-15c., Latinized spelling of Middle English spere (c. 1300) “cosmos; space, conceived as a hollow globe about the world,” from Anglo-French espiere, Old French espere (13c., Modern French sphère), from Latin sphaera “globe, ball, celestial sphere” (Medieval Latin spera), from Greek sphaira “globe, ball, playing ball, terrestrial globe,” a word of unknown origin.",
+      "etymology" : "Mid-15c., Latinized spelling of Middle English spere (c. 1300) “cosmos; origin.",
       "examples" : [
         "They deliver to within a 5-mile radius of the store.\n他们在距离商场5英里的范围内送货上门\n比较：diameter：直径（dia-：通过；穿过）\n单词 sphere 表示“球；范围”。"
       ],
@@ -305,12 +319,15 @@
     },
     {
       "collocations" : [
-        "in economic, social and cultural spheres：在经济，社会和文化领域"
+        "in economic, social and cultural spheres：在经济，社会和文化领域",
+        "appear to be way ahead in at least one undesirable category.\n尽管在现代生活的一些领域，女人仍然在追赶着男人，不过似乎至少\n在不那么受欢迎的领域，女人走在了男人的前面。",
+        "It is an undoubted fact that the Internet communication appears\/arises in",
+        "almost all spheres of modern life."
       ],
       "definition" : "球，球体；（活动、兴趣的）范围，领域",
       "examples" : [
-        "While still catching-up to men in some spheres of modern life, women\nappear to be way ahead in at least one undesirable category.\n尽管在现代生活的一些领域，女人仍然在追赶着男人，不过似乎至少\n在不那么受欢迎的领域，女人走在了男人的前面。",
-        "互联网交际几乎出现在了现代生活里的各个领域当中，这已经是\n一个不争的事实。\nIt is an undoubted fact that the Internet communication appears\/arises in\nalmost all spheres of modern life."
+        "While still catching-up to men in some spheres of modern life, women",
+        "互联网交际几乎出现在了现代生活里的各个领域当中，这已经是\n一个不争的事实。"
       ],
       "frequency" : 4582,
       "mnemonic" : "sphere（=ball：球）→球，球（体）\nsphere（=range：范围；领域）→范围；领域",
@@ -322,7 +339,7 @@
     {
       "collocations" : [
         "spherical surface：球面",
-        "gold spherical earrings：金色的球形耳环"
+        "gold spherical earrings：金色的球形耳环\n20000 词汇巅峰\n速\n记\n-sphere 构成名词（包围地球等的大气的）层\n笔 记 区"
       ],
       "definition" : "球形的；球状的",
       "examples" : [
@@ -357,10 +374,11 @@
         "atmospheric pollution\/conditions\/pressure：大气污染\/状况\/压力",
         "atmospheric music：有感染力的音乐"
       ],
-      "definition" : "大气的，大气层的；令人激动的，有感染力",
+      "definition" : "大气的，大气层的；令人激动的，有感染力的",
       "examples" : [
 
       ],
+      "frequency" : 6958,
       "mnemonic" : "atmospher(e) （大气；气氛）+-ic（形容词后缀，…的）→大气的；",
       "phonetic" : "ætməsˈferɪk",
       "pos" : "adj.",
@@ -371,10 +389,13 @@
       "collocations" : [
         "as winter grips the northern hemisphere：随着北半球冬季的到来",
         "the northern\/southern hemisphere：北\/南半球",
-        "brain hemisphere：大脑半球"
+        "brain hemisphere：大脑半球\n单词 globe 含义为“地球；球体；球状物”。",
+        "from Middle French globe (14c.) and directly from Latin globus “round",
+        "mass, sphere, ball” (also, of men, “a throng, crowd, body, mass”), which is",
+        "related to gleba “clod, lump of soil” (see glebe) and perhaps also to glomus"
       ],
       "definition" : "（地球的）半球，（尤指）北半球，南半球；（大脑的）半球；（球体的）半球",
-      "etymology" : "Late 14c., “a large mass;” mid-15c., “spherical solid body, a sphere,” from Middle French globe (14c.) and directly from Latin globus “round mass, sphere, ball” (also, of men, “a throng, crowd, body, mass”), which is related to gleba “clod, lump of soil” (see glebe) and perhaps also to glomus “a ball, ball of yarn.” 20000 词汇巅峰 速 记 笔 记 区",
+      "etymology" : "Late 14c., “a large mass;” mid-15c., “spherical solid body, a sphere,” “a ball, ball of yarn.” 20000 词汇巅峰 速 记 笔 记 区",
       "examples" : [
 
       ],
@@ -387,12 +408,13 @@
     },
     {
       "collocations" : [
-        "around\/across\/all over the globe：全世界"
+        "around\/across\/all over the globe：全世界",
+        "The overhead light was covered now with a white globe.\n顶灯现在被一个白色的球状物罩了起来。"
       ],
       "definition" : "地球仪；地球，世界；球体，球状物",
       "etymology" : "来源于拉丁语globus（球）=sphere, ball：球，球体",
       "examples" : [
-        "70% of our globe’s surface is water.\n我们地球表面的70%是水。\nThe overhead light was covered now with a white globe.\n顶灯现在被一个白色的球状物罩了起来。"
+        "70% of our globe’s surface is water.\n我们地球表面的70%是水。"
       ],
       "frequency" : 4787,
       "phonetic" : "gləʊb",
@@ -438,10 +460,11 @@
       "collocations" : [
         "economic globalization：经济全球化"
       ],
-      "definition" : "全球化（世界各地的文化和经济体系日益关",
+      "definition" : "全球化（世界各地的文化和经济体系日益关联）",
       "examples" : [
 
       ],
+      "frequency" : 6547,
       "mnemonic" : "global（全球的）+ -ize（使动词后缀）+ -ation（复合名词后缀）→全",
       "phonetic" : "ˌɡlobəlaɪˈzeɪʃn",
       "pos" : "n.",
@@ -471,6 +494,7 @@
       "examples" : [
 
       ],
+      "frequency" : 10520,
       "mnemonic" : "con-（=with, together：一起）+-glomer（=to gather into a ball, collect：\n聚集成球；收集）+-ate（名词后缀）→聚集在一起的物体→企业集",
       "phonetic" : "kənˈɡlɒmərət",
       "pos" : "n.",
@@ -487,7 +511,7 @@
 
       ],
       "frequency" : 10367,
-      "mnemonic" : "klam-：加紧、挤压在一起的物体→clam：双壳紧紧夹住东西的物",
+      "mnemonic" : "klam-：加紧、挤压在一起的物体→clam：双壳紧紧夹住东西的物\nglom-：包含（肉）的球状物动物→clam：双壳包含着肉：蛤蜊",
       "phonetic" : "klæm",
       "pos" : "vi.",
       "rootHint" : "rad",
@@ -496,11 +520,13 @@
     {
       "collocations" : [
         "clamp A to B\/clamp A and B (together)：把A固定在B上\/把A和B夹紧",
-        "clamp down (on sb.\/sth.)：严厉打击（犯罪等）"
+        "clamp down (on sb.\/sth.)：严厉打击（犯罪等）\n20000 词汇巅峰\n速\n记\n笔 记 区\nclamp sth. on sb.：强制……接受（限制或法律等）",
+        "I clamped a hand on his shoulder.\n我用一只手紧紧抓住他的肩膀。",
+        "Her lips clamped tightly together.\n她的双唇紧闭。"
       ],
       "definition" : "用 (夹具) 夹紧，夹住；紧紧抓住 n. 夹具",
       "examples" : [
-        "Clamp the two halves together until the glue dries.\n用夹具把两半物品夹紧，待胶干后再松开。\nI clamped a hand on his shoulder.\n我用一只手紧紧抓住他的肩膀。\nHer lips clamped tightly together.\n她的双唇紧闭。"
+        "Clamp the two halves together until the glue dries.\n用夹具把两半物品夹紧，待胶干后再松开。"
       ],
       "frequency" : 8388,
       "mnemonic" : "clam：蛤蜊（双壳夹紧）→clamp：词义外延至用（夹具）夹紧；夹",
@@ -511,12 +537,16 @@
     },
     {
       "collocations" : [
-
+        "heavenly body,” from Old French orbe “orb, globe” (13c.) and directly",
+        "from Latin orbem (nominative orbis) “circle, disk, ring, hoop, orbit,”",
+        "probably related to orbita “wheel track, rut,” a word of unknown and",
+        "much-disputed origin. Watkins suggests a connection with the root of\norchid. De Vaan suggests *horbi- “turning thing.” 来自拉丁语orbis=circle,\nring, globe：圈，环，球体。",
+        "on everything.\n圆盘似的月亮会高悬在夜空中，将柔和的月光洒向世间万物。"
       ],
       "definition" : "球体；球状物，（尤指）日，月",
-      "etymology" : "Mid-15c., “sphere, globe, something spherical or circular, orbit of a heavenly body,” from Old French orbe “orb, globe” (13c.) and directly from Latin orbem (nominative orbis) “circle, disk, ring, hoop, orbit,” probably related to orbita “wheel track, rut,” a word of unknown and much-disputed origin. Watkins suggests a connection with the root of orchid. De Vaan suggests *horbi- “turning thing.” 来自拉丁语orbis=circle, ring, globe：圈，环，球体。",
+      "etymology" : "Mid-15c., “sphere, globe, something spherical or circular, orbit of a",
       "examples" : [
-        "The moon’s round orb would shine high in the sky, casting its velvety light\non everything.\n圆盘似的月亮会高悬在夜空中，将柔和的月光洒向世间万物。"
+        "The moon’s round orb would shine high in the sky, casting its velvety light"
       ],
       "frequency" : 18283,
       "phonetic" : "ɔːb",
@@ -527,14 +557,13 @@
     {
       "collocations" : [
         "orbit the earth：环绕地球运行",
-        "put spaceships in orbit：把宇宙飞船放入轨道",
-        "the earth’s orbit around the sun：地球环绕太阳的轨道",
-        "to come\/fall\/be within sb’s orbit：进入\/落入\/属于某人的势力范围"
+        "put spaceships in orbit：把宇宙飞船放入轨道\nthe earth’s orbit around the sun：地球环绕太阳的轨道\nto come\/fall\/be within sb’s orbit：进入\/落入\/属于某人的势力范围\n20000 词汇巅峰\n速\n记\n笔 记 区\nearth’s orbit around the sun：地球环绕太阳运行"
       ],
-      "definition" : "环绕……的轨道运行 n. （天体运行的）轨道；（人、组织",
+      "definition" : "环绕……的轨道运行 n. （天体运行的）轨道；（人、组织等的）影响范围，势力范围",
       "examples" : [
 
       ],
+      "frequency" : 4217,
       "mnemonic" : "orb-（在模仿globe中的“obe：部分”，造出“球，天体”的含义）\n+it（走；运行）→围绕天体运行→绕轨道运行；轨道",
       "phonetic" : "ˈɔːbɪt",
       "pos" : "vt.",
@@ -543,12 +572,13 @@
     },
     {
       "collocations" : [
-
+        "other planet.\n新发现的这个天体的运行轨道和任何其他行星的不同。"
       ],
-      "definition" : "（行星或空间物体）轨道的；（城市）外环路的 n. 高速",
+      "definition" : "（行星或空间物体）轨道的；（城市）外环路的 n. 高速环行路",
       "examples" : [
-        "The newly discovered world followed an orbital path unlike that of any\nother planet.\n新发现的这个天体的运行轨道和任何其他行星的不同。"
+        "The newly discovered world followed an orbital path unlike that of any"
       ],
+      "frequency" : 9960,
       "mnemonic" : "orbit（天体轨道；环绕……运行）+-al（形容词后缀，……的）→轨",
       "phonetic" : "ˈɔːbɪtl",
       "pos" : "adj.",
@@ -572,10 +602,17 @@
     },
     {
       "collocations" : [
-        "exorbitant costs\/fares\/fees\/prices\/rents：过高的花费\/交通费\/收费\/价格\/"
+        "Late Latin exorbitantem (nominative exorbitans), present participle of\nexorbitare “deviate, go out of the track”. General sense of “excessive,\nimmoderate” is from 1620s; of prices, rates, etc., from 1660s. Related:",
+        "Exorbitantly.",
+        "exorbitant costs\/fares\/fees\/prices\/rents：过高的花费\/交通费\/收费\/价格\/",
+        "also of Old Saxon graf, Old Frisian gref, Old High German grab “grave,",
+        "Church Slavonic grobu “grave, tomb,”",
+        "It is the hypothetical source of\/evidence for its existence is provided by:",
+        "Sanskrit guruh “heavy, weighty, venerable;” Greek baros “weight,” barys",
+        "participle grafen)."
       ],
       "definition" : "（价格、费用等）过高的；高得离谱的",
-      "etymology" : "n. “excavation in earth for reception of a dead body,” Old English græf “grave; ditch, trench; cave,” from Proto-Germanic *grafa-\/graba- (source also of Old Saxon graf, Old Frisian gref, Old High German grab “grave, tomb;” Old Norse gröf “cave,” Gothic graba “ditch”), cognate with Old Church Slavonic grobu “grave, tomb,” adj. gwere- (1) gwerə-, Proto-Indo-European root meaning “heavy.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit guruh “heavy, weighty, venerable;” Greek baros “weight,” barys “heavy in weight,” often with the notion of “strength, force;” Latin gravis, “heavy, ponderous, burdensome, loaded; pregnant;” Old English cweorn “quern;” Gothic kaurus “heavy;” Lettish gruts “heavy.” v. “to engrave,” Old English grafan “to dig, dig up; engrave, carve, chisel” (medial -f- pronounced as “v” in Old English; past tense grof, past participle grafen).",
+      "etymology" : "n. “excavation in earth for reception of a dead body,” Old English græf “grave; ditch, trench; cave,” from Proto-Germanic *grafa-\/graba- (source tomb;” Old Norse gröf “cave,” Gothic graba “ditch”), cognate with Old adj. gwere- (1) gwerə-, Proto-Indo-European root meaning “heavy.” “heavy in weight,” often with the notion of “strength, force;” Latin gravis, “heavy, ponderous, burdensome, loaded; pregnant;” Old English cweorn “quern;” Gothic kaurus “heavy;” Lettish gruts “heavy.” v. “to engrave,” Old English grafan “to dig, dig up; engrave, carve, chisel” (medial -f- pronounced as “v” in Old English; past tense grof, past",
       "examples" : [
 
       ],
@@ -589,11 +626,12 @@
     {
       "collocations" : [
         "a grave crime：一个严重的罪行",
-        "visit his grave regularly：定期去他的墓地（扫墓）"
+        "visit his grave regularly：定期去他的墓地（扫墓）",
+        "the effects, though grave, need not be catastrophic.\n现在，很多专家坚信，假如政策得当，效果尽管会很严峻，但还不至\n于是灾难性的。"
       ],
       "definition" : "严肃的；重大的；严肃的 n. 坟墓；死亡",
       "examples" : [
-        "Is there life beyond the grave (= life after death)?\n人死后有来生吗？\n（阅读，写作例句）：Many experts now believe that given the right policies,\nthe effects, though grave, need not be catastrophic.\n现在，很多专家坚信，假如政策得当，效果尽管会很严峻，但还不至\n于是灾难性的。"
+        "Is there life beyond the grave (= life after death)?\n人死后有来生吗？\n（阅读，写作例句）：Many experts now believe that given the right policies,"
       ],
       "frequency" : 3388,
       "mnemonic" : "grave（=heavy：重的）→严重的，重大的\ngrave（=cave：洞穴）→坟墓（即：一个“洞穴”）",
@@ -604,11 +642,11 @@
     },
     {
       "collocations" : [
-
+        "He nodded gravely as I poured out my troubles.\n我倾诉我的苦恼时他心情沉重地点了点头。\n笔 记 区"
       ],
       "definition" : "严肃地；沉重地；严重地",
       "examples" : [
-        "She is gravely ill.\n她病势沉重。\nHe nodded gravely as I poured out my troubles.\n我倾诉我的苦恼时他心情沉重地点了点头。"
+        "She is gravely ill.\n她病势沉重。"
       ],
       "frequency" : 13491,
       "phonetic" : "ˈgreɪvli",
@@ -620,11 +658,13 @@
       "collocations" : [
         "Newton’s law of gravity：牛顿万有引力定律",
         "the gravity of the situation：形势的严重性",
-        "behave with the gravity in a court：在法庭上表现出严肃性"
+        "behave with the gravity in a court：在法庭上表现出严肃性",
+        "have a profound effect on societies, not just economically and politically",
+        "but in all sorts of other ways too.\n即便如此，重心向老年人群转移必然会对社会产生深远的影响，该影\n响不仅体现在经济上和政治上，还涵盖其他的方方面面。"
       ],
       "definition" : "重力，地心引力；严重性；严肃，庄严",
       "examples" : [
-        "Even so, the shift in the center of gravity to older age groups is bound to\nhave a profound effect on societies, not just economically and politically\nbut in all sorts of other ways too.\n即便如此，重心向老年人群转移必然会对社会产生深远的影响，该影\n响不仅体现在经济上和政治上，还涵盖其他的方方面面。"
+        "Even so, the shift in the center of gravity to older age groups is bound to"
       ],
       "frequency" : 3993,
       "mnemonic" : "grav（=grave：重的；严重的，严肃的）+ -ity（名词后缀）→重力，",
@@ -665,7 +705,8 @@
     },
     {
       "collocations" : [
-        "gravitate to\/toward(s) sb.\/sth.：被吸引到；受吸引而转向"
+        "gravitate to\/toward(s) sb.\/sth.：被吸引到；受吸引而转向",
+        "You naturally gravitate toward people with shared values.\n你自然而然地被具有共同价值观的人吸引。"
       ],
       "definition" : "受引力作用；被吸引到；受吸引而转向",
       "examples" : [
@@ -696,11 +737,13 @@
     },
     {
       "collocations" : [
-        "be engraved on\/in your heart, memory, mind etc.：铭刻在心、记忆、头"
+        "be engraved on\/in your heart, memory, mind etc.：铭刻在心、记忆、头",
+        "engrave A (with B)\/engrave B on A：把B雕刻在A上",
+        "His name was engraved on the silver cup.\n他的名字刻在了银杯上。"
       ],
       "definition" : "在……上雕刻（字或图案）；刻上",
       "examples" : [
-        "The silver cup was engraved with his name.\n银杯上刻有他的名字\nHis name was engraved on the silver cup.\n他的名字刻在了银杯上。"
+        "The silver cup was engraved with his name.\n银杯上刻有他的名字"
       ],
       "frequency" : 12652,
       "mnemonic" : "en-（=in：进入）+ grav-（=cut, carve：刻；雕刻）+ -e→to cut\/carve\nin：在……上雕刻",
@@ -726,7 +769,9 @@
     },
     {
       "collocations" : [
-        "a color engraving of oranges and lemons：一副绘有橙子和柠檬的彩色"
+        "a color engraving of oranges and lemons：一副绘有橙子和柠檬的彩色",
+        "wood engraving：木版画",
+        "engraving tool：雕刻工具\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "雕版；版画；雕刻（术）",
       "examples" : [
@@ -741,14 +786,20 @@
     },
     {
       "collocations" : [
-
+        "add to the weight of：使严重，恶化；激怒（使事态恶化）",
+        "What aggravates you most about this country?\n这个国家最惹恼你的是什么？",
+        "In fact, rather than helping the fight against malnutrition in “hungry\nnations,” the spread of factory farming has, inevitably aggravated the",
+        "In fact, rather than helping students to improve mental health, the",
+        "practice of forcing\/compelling them to see a psychologist has, inevitably",
+        "aggravated their mental well-being.\n近义词：worsen：（使）变得更坏；恶化\nirritate：刺激（皮肤或身体部位）；使烦恼（尤指不断重复的事情）\n笔 记 区"
       ],
       "definition" : "使严重；使恶化；（尤指故意地）激怒，惹恼",
       "examples" : [
-        "Stress and lack of sleep can aggravate the situation.\n紧张和缺少睡眠会使情况恶化。\nWhat aggravates you most about this country?\n这个国家最惹恼你的是什么？\nIn fact, rather than helping the fight against malnutrition in “hungry\nnations,” the spread of factory farming has, inevitably aggravated the\nproblem.\n事实上，不是帮助饥荒国家抗击营养不良，工厂化农场经营的传播已\n经不可避免的加重了该问题。",
-        "事实上，并没有帮助学生改善心理健康，强迫他们去看心理医生\n的做法不可避免的加重了其心理健康问题。\nIn fact, rather than helping students to improve mental health, the\npractice of forcing\/compelling them to see a psychologist has, inevitably\naggravated their mental well-being.\n近义词：worsen：（使）变得更坏；恶化\nirritate：刺激（皮肤或身体部位）；使烦恼（尤指不断重复的事情）"
+        "Stress and lack of sleep can aggravate the situation.\n紧张和缺少睡眠会使情况恶化。\nproblem.\n事实上，不是帮助饥荒国家抗击营养不良，工厂化农场经营的传播已\n经不可避免的加重了该问题。",
+        "事实上，并没有帮助学生改善心理健康，强迫他们去看心理医生\n的做法不可避免的加重了其心理健康问题。"
       ],
-      "mnemonic" : "ag-（=ad-：to）+ grav-（=grave=heavy：重的；严重的）+ -ate（使动\n词）→to make heavy,\nadd to the weight of：使严重，恶化；激怒（使事态恶化）",
+      "frequency" : 10056,
+      "mnemonic" : "ag-（=ad-：to）+ grav-（=grave=heavy：重的；严重的）+ -ate（使动\n词）→to make heavy,",
       "phonetic" : "ˈægrəveɪt",
       "pos" : "vt.",
       "rootHint" : "rad",
@@ -771,7 +822,9 @@
     {
       "collocations" : [
         "express grief：表达悲痛，悲伤",
-        "come to grief：以彻底失败而告终；受伤，遭到不幸"
+        "come to grief：以彻底失败而告终；受伤，遭到不幸",
+        "She was overcome with grief when her husband died.\n丈夫去世时她悲痛欲绝。",
+        "It was a grief to them that they had no children.\n没有孩子是他们的一个伤心事。"
       ],
       "definition" : "（尤指因某人去世引起的）悲痛；伤心事，悲痛事",
       "examples" : [
@@ -788,7 +841,7 @@
       "collocations" : [
         "air their grievances：诉说他们的苦衷",
         "nurse a grievance against boss：对老板心怀抱怨（不满）",
-        "a formal grievance procedure：正式冤屈投诉程序（表达委屈、发泄抱"
+        "a formal grievance procedure：正式冤屈投诉程序（表达委屈、发泄抱\n怨的渠道）"
       ],
       "definition" : "苦衷；委屈；抱怨",
       "examples" : [
@@ -805,10 +858,11 @@
       "collocations" : [
         "grieve over：对……感到悲痛"
       ],
-      "definition" : "&vi. （尤指因某人的去世而）悲痛 vt. 使悲伤；使悲痛；使",
+      "definition" : "&vi. （尤指因某人的去世而）悲痛 vt. 使悲伤；使悲痛；使伤心",
       "examples" : [
         "Their lack of interest grieved her.\n他们不感兴趣使她很伤心。"
       ],
+      "frequency" : 9993,
       "mnemonic" : "griev（=grave：坟墓；重的）+ -e（后缀）→在坟墓前→（心情）沉",
       "phonetic" : "griːv",
       "pos" : "vt.",
@@ -819,10 +873,11 @@
       "collocations" : [
         "grieving relatives：悲痛欲绝的亲戚"
       ],
-      "definition" : "为……感到悲痛（grieve的现在分词形式） adj. 悲痛",
+      "definition" : "为……感到悲痛（grieve的现在分词形式） adj. 悲痛（欲绝）的",
       "examples" : [
         "He’s grieving over his dead wife and son.\n他因丧妻失子而悲痛不已。"
       ],
+      "frequency" : 10657,
       "phonetic" : "ɡriːvɪŋ",
       "pos" : "vi.",
       "rootHint" : "rad",
@@ -845,15 +900,17 @@
     },
     {
       "collocations" : [
+        "unreasonable：沉重的；沉闷的；无知觉的；不讲道理”",
         "brute force \/ strength：暴力；蛮劲",
         "the brute facts of inequality：赤裸裸的不平等事实",
         "a drunken brute：一个粗暴的醉鬼"
       ],
-      "definition" : "蛮干不动脑筋的；根本而令人不快的，赤裸裸的 n. 粗暴残",
-      "etymology" : "来自15世纪早期，“of or belonging to animals, non-human：属于动 物地；非人的”。来自古法语brut “coarse, raw, crude：粗鲁的；强烈 直露的（情感）”。来自拉丁语brutus “heavy, dull, stupid, insensible, unreasonable：沉重的；沉闷的；无知觉的；不讲道理” 。",
+      "definition" : "蛮干不动脑筋的；根本而令人不快的，赤裸裸的 n. 粗暴残酷的人；笨重难看的东西",
+      "etymology" : "来自15世纪早期，“of or belonging to animals, non-human：属于动 物地；非人的”。来自古法语brut “coarse, raw, crude：粗鲁的；强烈 直露的（情感）”。来自拉丁语brutus “heavy, dull, stupid, insensible, 。",
       "examples" : [
 
       ],
+      "frequency" : 12228,
       "phonetic" : "bruːt",
       "pos" : "adj.",
       "rootHint" : "rad",
@@ -892,11 +949,11 @@
     },
     {
       "collocations" : [
-
+        "Let me be brutally frank about this.\n让我把这件事无情地挑明说吧。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "残暴地；不留情面地",
       "examples" : [
-        "He was brutally assaulted.\n他遭到毒打。\nLet me be brutally frank about this.\n让我把这件事无情地挑明说吧。"
+        "He was brutally assaulted.\n他遭到毒打。"
       ],
       "frequency" : 10333,
       "phonetic" : "ˈbrʊtli",
@@ -922,7 +979,7 @@
     {
       "collocations" : [
         "173rd Airborne Brigade：第173空降旅",
-        "fire brigade：消防队"
+        "fire brigade：消防队\n带有-ade后缀的名词有：\nblock（阻碍）→blockade（障碍物、封锁）\nlemon（柠檬）→lemonade（柠檬水）\ndec-（十）→decade（十年）\n-casc-（to fall：落）→cascade（瀑布）\n-arc-（弧）→arcade（拱廊、拱廊商店街）"
       ],
       "definition" : "旅（陆军编制单位）；伙，帮，派",
       "examples" : [
@@ -937,10 +994,12 @@
     },
     {
       "collocations" : [
+        "to be honored, teacher：值得尊敬的人；教师”。来自guru-",
+        "worthy of honor：令人尊敬的”。字面上也有 “heavy, weighty：重的；\n沉重的” 含义（荣誉加身，感觉很“重”）。",
         "fashion gurus：时装大师们"
       ],
       "definition" : "精神领袖（尤指印度教的）；专家，权威，大师",
-      "etymology" : "来自印地语guru “teacher, priest：教师；祭司”。来自梵文guru-s “one to be honored, teacher：值得尊敬的人；教师”。来自guru- “venerable, worthy of honor：令人尊敬的”。字面上也有 “heavy, weighty：重的； 沉重的” 含义（荣誉加身，感觉很“重”）。",
+      "etymology" : "来自印地语guru “teacher, priest：教师；祭司”。来自梵文guru-s “one “venerable,",
       "examples" : [
 
       ],

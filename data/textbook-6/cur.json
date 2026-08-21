@@ -14,16 +14,19 @@
   "words" : [
     {
       "collocations" : [
+        "ship; flow of a stream”；来自curs-",
         "in course of sth.：在……的过程中",
         "in\/over the course of...：在……期间；在……的时候",
         "in the course of time：总有一天；最后；终于",
-        "in the ordinary, normal, etc. course of events, things, etc.：在一般情况"
+        "in the ordinary, normal, etc. course of events, things, etc.：在一般情况\n下；通常",
+        "on course for sth.\/to do sth.：（因为已开始做而）很可能做成（或做）\nrun\/take its course：任其发展；听其自然\nof course（not）：当然（不）\n与 course 同样有“课程”含义的单词还有 curriculum, curricular 是其形\n容词形式。"
       ],
-      "definition" : "进程；（船或飞机的）航线；行动方向；进展；一道菜；课",
-      "etymology" : "来自拉丁语cursus “a running; a journey; direction, track navigated by a ship; flow of a stream”；来自curs- “to run” .",
+      "definition" : "进程；（船或飞机的）航线；行动方向；进展；一道菜；课程",
+      "etymology" : "来自拉丁语cursus “a running; a journey; direction, track navigated by a “to run” .",
       "examples" : [
 
       ],
+      "frequency" : 419,
       "mnemonic" : "cours（= -curs-：流；跑）+ -e→进程；航线；行动方向；进展",
       "phonetic" : "kɔːs",
       "pos" : "n.",
@@ -32,11 +35,12 @@
     },
     {
       "collocations" : [
+        "curriculum的字面意思就是“a little course”。古罗马战车（马）竞赛\n需要跑七圈，每一圈被称作curriculum。这样，生命中跑过的圈，就\n是你的简历，也就是CV，即curriculum vitae，course of one’s life：生\n命的过程。由此，curriculum也引申为“course：课程”。",
         "the history curriculum：历史课程",
-        "the school curriculum：学校课程"
+        "the school curriculum：学校课程\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "（学校等的）全部课程",
-      "etymology" : "拉 丁 词根 cur-， curr-的 意 思 是 to run， 而 -culum是 指 小 后 缀 ， curriculum的字面意思就是“a little course”。古罗马战车（马）竞赛 需要跑七圈，每一圈被称作curriculum。这样，生命中跑过的圈，就 是你的简历，也就是CV，即curriculum vitae，course of one’s life：生 命的过程。由此，curriculum也引申为“course：课程”。",
+      "etymology" : "拉 丁 词根 cur-， curr-的 意 思 是 to run， 而 -culum是 指 小 后 缀 ，",
       "examples" : [
 
       ],
@@ -64,6 +68,7 @@
     },
     {
       "collocations" : [
+        "a subject in speech：在演讲、论文中围绕一个主题展开论述→论文；\n演讲；语篇；论述",
         "discourse on\/upon sth.：讲述；论述"
       ],
       "definition" : "论文；演讲；语篇 vi. 论述",
@@ -71,7 +76,7 @@
 
       ],
       "frequency" : 3282,
-      "mnemonic" : "dis-（分开；不同方向）+ course（=running：跑步，引申义为展开论\n述）→a running over\na subject in speech：在演讲、论文中围绕一个主题展开论述→论文；",
+      "mnemonic" : "dis-（分开；不同方向）+ course（=running：跑步，引申义为展开论\n述）→a running over",
       "phonetic" : "ˈdɪskɔːs",
       "pos" : "n.",
       "rootHint" : "cur",
@@ -127,11 +132,12 @@
     },
     {
       "collocations" : [
-        "recourse to war：依靠（诉诸）战争"
+        "recourse to war：依靠（诉诸）战争",
+        "She made a complete recovery without recourse to surgery.\n她未依靠手术就完全恢复了健康。"
       ],
       "definition" : "依靠；依赖；求助",
       "examples" : [
-        "Your only recourse is legal action. 你的唯一依靠就是诉诸法律。\nShe made a complete recovery without recourse to surgery.\n她未依靠手术就完全恢复了健康。"
+        "Your only recourse is legal action. 你的唯一依靠就是诉诸法律。"
       ],
       "frequency" : 11631,
       "mnemonic" : "re-（向后；往回）+ -cours-（跑）+ e→跑回来→引申词义依靠；依",
@@ -189,7 +195,9 @@
     },
     {
       "collocations" : [
-        "a motorcycle courier：一名骑摩托车的信使"
+        "a motorcycle courier：一名骑摩托车的信使",
+        "courier service：快递服务",
+        "courier that letter：用快递送信\ncourier sth. to someplace：让信使把……送到某地"
       ],
       "definition" : "（递送包裹或重要文件的）信使 vt. 用快递送",
       "examples" : [
@@ -239,11 +247,12 @@
         "a strong current：急流",
         "electrical current：电流"
       ],
-      "definition" : "当前的；现在的；通用的；流行的 n. 水流；电流；气",
+      "definition" : "当前的；现在的；通用的；流行的 n. 水流；电流；气流；倾向",
       "examples" : [
 
       ],
-      "mnemonic" : "curr-（流；跑；移动）+ -ent（名词后缀）→水流；电流；气流；倾",
+      "frequency" : 653,
+      "mnemonic" : "curr-（流；跑；移动）+ -ent（名词后缀）→水流；电流；气流；倾\ncurr-（发生）+ -ent（=-ant：形容词后缀，……的）→（正在）发生\n的→当前的；现在的；流行的",
       "phonetic" : "ˈkʌrənt",
       "pos" : "adj.",
       "rootHint" : "cur",
@@ -251,11 +260,11 @@
     },
     {
       "collocations" : [
-
+        "All the options are currently available.\n所有的方案现在均可选择。\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "当前；现在",
       "examples" : [
-        "The hourly charge is currently￡35.\n现在每小时收费是35英镑。\nAll the options are currently available.\n所有的方案现在均可选择。"
+        "The hourly charge is currently￡35.\n现在每小时收费是35英镑。"
       ],
       "frequency" : 1712,
       "phonetic" : "ˈkʌrəntlɪ",
@@ -267,7 +276,7 @@
       "collocations" : [
         "a single European currency：统一的欧洲货币",
         "wide currency：广泛流行",
-        "gain currency：得到流行"
+        "gain currency：得到流行\n笔 记 区"
       ],
       "definition" : "通货，货币；通用，流行",
       "examples" : [
@@ -282,11 +291,11 @@
     },
     {
       "collocations" : [
-
+        "The strong undercurrent swept them apart.\n强大的暗流把他们冲开了。"
       ],
       "definition" : "潜在的情绪倾向（尤指负面的）；暗流",
       "examples" : [
-        "I detect an undercurrent of resentment towards the new proposals.\n我察觉到对新提案有一股潜在的不满情绪。\nThe strong undercurrent swept them apart.\n强大的暗流把他们冲开了。"
+        "I detect an undercurrent of resentment towards the new proposals.\n我察觉到对新提案有一股潜在的不满情绪。"
       ],
       "frequency" : 16849,
       "mnemonic" : "under-（在下面）+ current（水流）→地下的水流→暗流→引申义为",
@@ -297,11 +306,14 @@
     },
     {
       "collocations" : [
-        "huge cost incurred by sth.：由……引起的巨额成本"
+        "huge cost incurred by sth.：由……引起的巨额成本",
+        "You risk incurring bank charges if you exceed your overdraft limit.\n如果超出了透支限额，就会带来银行加收费用的风险。\n释义：（V-T）招致；蒙受",
+        "If you incur something unpleasant, it happens to you because of something",
+        "you have done."
       ],
       "definition" : "招致；引起；带来（成本、花费等）",
       "examples" : [
-        "She had incurred the wrath of her father by marrying without his consent\n她未经父亲同意就结婚，招致父亲的震怒。\nYou risk incurring bank charges if you exceed your overdraft limit.\n如果超出了透支限额，就会带来银行加收费用的风险。\n释义：（V-T）招致；蒙受\nIf you incur something unpleasant, it happens to you because of something\nyou have done."
+        "She had incurred the wrath of her father by marrying without his consent\n她未经父亲同意就结婚，招致父亲的震怒。"
       ],
       "frequency" : 8206,
       "mnemonic" : "in-（进入）+ -cur（跑）→（不好的事情）跑进来→招致；引起；带来",
@@ -328,13 +340,15 @@
     {
       "collocations" : [
         "drive the ponies into a corral：把矮种马赶进了畜栏",
-        "police corralled the three men：察捉住了三名男子"
+        "police corralled the three men：察捉住了三名男子\n词根 cur-, curr- 有“to run， flow ：跑；流”的含义，因此引申含义为“come,",
+        "appear, happen：到来；发生；出现”。"
       ],
-      "definition" : "（北美农牧场的）畜栏，围栏 vt. 捉住；把（马或牛）赶",
+      "definition" : "（北美农牧场的）畜栏，围栏 vt. 捉住；把（马或牛）赶20000 词汇巅峰速记笔 记 区入围栏",
       "etymology" : "来自西班牙语corral, from corro“ring：环状物；包围；环绕”。",
       "examples" : [
 
       ],
+      "frequency" : 15370,
       "mnemonic" : "corr-（=curr-：跑）+ -al（名词后缀）→放置牛等动物跑出来→畜\n栏；围栏→引申义为捉住",
       "phonetic" : "kəˈrɑːl",
       "pos" : "n.",
@@ -358,7 +372,8 @@
     },
     {
       "collocations" : [
-        "a common\/everyday\/frequent\/regular occurrence：司空见惯的\/每天发生"
+        "a common\/everyday\/frequent\/regular occurrence：司空见惯的\/每天发生",
+        "the occurrence of：……的发生；出现；存在"
       ],
       "definition" : "发生的事情；（事物的）发生；出现；存在",
       "examples" : [
@@ -439,6 +454,8 @@
       "examples" : [
         "We met in a local bar much frequented by students.\n我们在学生经常去的一家酒吧里相遇。"
       ],
+      "frequency" : 3300,
+      "mnemonic" : "邪解：f（无意义）+ requen（=recur：反复发生）+ t（无意义）→反复发生\n的→频繁的",
       "phonetic" : "ˈfriːkw(ə)nt",
       "pos" : "adj.",
       "rootHint" : "cur",
@@ -462,7 +479,7 @@
       "collocations" : [
         "a high\/low frequency：发生率高\/低",
         "the alarming frequency of：……惊人的频繁出现",
-        "broadcasting frequencies：广播频率"
+        "broadcasting frequencies：广播频率\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "频繁；频率；发生率",
       "examples" : [
@@ -554,11 +571,12 @@
         "under a curse：受人诅咒",
         "curse one’s bad luck：咒骂某人运气不好",
         "be cursed by a witch：遭到了巫婆的诅咒",
-        "be cursed with sth.：不断因……而遭殃；为……所苦；受……之害"
+        "be cursed with sth.：不断因……而遭殃；为……所苦；受……之害",
+        "Noise is a curse of modern city life.\n噪音是现代城市生活的一大祸根。\n笔 记 区"
       ],
       "definition" : "咒骂语；咒语；祸根 vi. 诅咒 vt. 咒骂；念咒语诅咒",
       "examples" : [
-        "She seems cursed with bad luck.\n她好像被诅咒了不好的运气，连连遭殃。\nNoise is a curse of modern city life.\n噪音是现代城市生活的一大祸根。"
+        "She seems cursed with bad luck.\n她好像被诅咒了不好的运气，连连遭殃。"
       ],
       "frequency" : 5838,
       "mnemonic" : "curs-（=cur-：带来）+ e→因带来祸害而咒骂，给……带来祸害→咒",

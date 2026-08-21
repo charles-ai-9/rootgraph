@@ -19,11 +19,13 @@
       "phonetic": "dr'pləumə",
       "pos": "n.",
       "definition": "结业证书，考试证书[+ in]; 毕业文凭，学位证书",
-      "frequency": null,
+      "frequency": 8618,
       "mnemonic": "diplo-(=double : 对 折 ) + -oma ( 名词后缀) → 物品对折 → 证 书；文凭",
       "collocations": [
+        "action (see-oma).",
         "a diploma in catering: 餐饮业资格证书",
-        "high school/college diploma: 高中文凭/大学文凭"
+        "high school/college diploma: 高中文凭/大学文凭",
+        "diploma 的派生词有diplomacy,diplomat,diplomatic ,diplomatically 等 。"
       ],
       "etymology": "英语单词diploma 来自古希腊文diploma, 由diploun ( 对 折 ) 和oma (物品)构成，字面意思就是“可以对折的物品”,最早指的是一 种可以对折的铜片证书。在古罗马时期，当一个蛮族雇佣军在罗马 军队中服役25年(海军26年)后，即可获得罗马公民权利。为此， 罗马政府将为其提供一个凭证，这个凭证就是所谓的Roman Military Diploma ( 罗马军事证书)。它由两片铜片构成，里面刻有持有人的 相关信息，还有政府的烙印。铜片上留有小孔，可以用铜丝穿过小 孔，把它们对折起来。拥有这种证书的蛮族人，可以在罗马帝国的道 路和边境自由通行。后来， diploma 的词义扩展，可以表示政府颁发 的各种证书，如大学的文凭。十八世纪，法国人开始称呼他们与外国 打交道的官员为diplomat, 也就是“持有diploma的人”。",
       "examples": [],
@@ -33,8 +35,8 @@
       "word": "diplomacy",
       "phonetic": "dr'pləuməsɪ",
       "pos": "n.",
-      "definition": "外交；外交手腕5715",
-      "frequency": null,
+      "definition": "外交；外交手腕",
+      "frequency": 5715,
       "mnemonic": null,
       "collocations": [
         "ping-pong diplomacy: 乒乓外交"
@@ -50,7 +52,9 @@
       "definition": "外交官；处事圆滑机敏的人",
       "frequency": 4968,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "French diplomats: 法国外交官"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -62,7 +66,9 @@
       "definition": "外交的；圆通得体的",
       "frequency": 3978,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "diplomatic relations/ties: 外交关系"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -71,18 +77,18 @@
       "word": "diplomatically",
       "phonetic": ",drplə'mætikli ",
       "pos": "adv.",
-      "definition": "外交地18140",
-      "frequency": null,
+      "definition": "外交地",
+      "frequency": 18140,
       "mnemonic": null,
       "collocations": [
         "resolve sth diplomatically: 通过外交手段解决",
         "a double helping of ice cream: 双份冰激凌",
         "a pair of double doors: 双扇门",
-        "double as businesses: 兼作商铺",
-        "double up (同double): 兼职；兼作",
+        "double as businesses: 兼作商铺\ndouble up (同double): 兼职；兼作",
         "on the double: 快速地",
         "bend double: 弯腰的",
-        "see double: 看到重影"
+        "see double: 看到重影",
+        "double 的派生词有double-digit,double-edged,doubling,doubly 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -92,8 +98,8 @@
       "word": "double-digit",
       "phonetic": "'dabl'didʒit",
       "pos": "adj.",
-      "definition": "两位数的14604",
-      "frequency": null,
+      "definition": "两位数的",
+      "frequency": 14604,
       "mnemonic": null,
       "collocations": [
         "double-digit inflation: 两位数的通货膨胀率"
@@ -106,8 +112,8 @@
       "word": "double-edged",
       "phonetic": "'dʌbl'ed3d",
       "pos": "adj.",
-      "definition": "有利有弊的，双刃剑；有两方面的；意义双 关的19556",
-      "frequency": null,
+      "definition": "有利有弊的，双刃剑；有两方面的；意义双 关的",
+      "frequency": 19556,
       "mnemonic": null,
       "collocations": [
         "a double-edged sword: 一把双刃剑",
@@ -122,8 +128,8 @@
       "word": "doubly",
       "phonetic": "'dʌbli",
       "pos": "adv.",
-      "definition": "双重地；加倍地13743",
-      "frequency": null,
+      "definition": "双重地；加倍地",
+      "frequency": 13743,
       "mnemonic": null,
       "collocations": [
         "benefit doubly from: 从……得到双重好处",
@@ -137,12 +143,13 @@
       "word": "doubt",
       "phonetic": "daut",
       "pos": "n.",
-      "definition": "怀疑 vt.怀疑1920",
-      "frequency": null,
+      "definition": "怀疑 vt.怀疑",
+      "frequency": 1920,
       "mnemonic": null,
       "collocations": [
         "cast doubt on: 对……产生怀疑",
-        "doubt his ability: 怀疑他的能力"
+        "doubt his ability: 怀疑他的能力\n笔 记 区\n笔 记 区",
+        "doubt 的派生词有doubtful,doubtless,undoubtedly,dubiou s等。"
       ],
       "etymology": null,
       "examples": [],
@@ -152,8 +159,8 @@
       "word": "doubtful",
       "phonetic": "'dautful;-f(ə)l",
       "pos": "adj.",
-      "definition": "不大可能的；不能肯定的；有问题的；不太可 能的9222",
-      "frequency": null,
+      "definition": "不大可能的；不能肯定的；有问题的；不太可 能的",
+      "frequency": 9222,
       "mnemonic": null,
       "collocations": [
         "of doubtful quality or value: 质量/价值有问题的",
@@ -167,8 +174,8 @@
       "word": "doubtless",
       "phonetic": "'dautlis",
       "pos": "adv.",
-      "definition": "无疑地；肯定地12594",
-      "frequency": null,
+      "definition": "无疑地；肯定地",
+      "frequency": 12594,
       "mnemonic": null,
       "collocations": [
         "willdoubtless try and persuade sb.to do sth: 会尽力说服某人做某事"
@@ -181,8 +188,8 @@
       "word": "undoubtedly",
       "phonetic": "ʌ n'dautrdli",
       "pos": "adv.",
-      "definition": "毫无疑问地5618",
-      "frequency": null,
+      "definition": "毫无疑问地",
+      "frequency": 5618,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -207,8 +214,8 @@
       "word": "dozen",
       "phonetic": "'dʌz(ə)n",
       "pos": "n.",
-      "definition": "一打(十二个);许多1198",
-      "frequency": null,
+      "definition": "一打(十二个);许多",
+      "frequency": 1198,
       "mnemonic": null,
       "collocations": [
         "dozens of people/companies/cars etc.: 好几十人/家公司/辆汽车等"
@@ -221,12 +228,13 @@
       "word": "dual",
       "phonetic": "'dju:əl",
       "pos": "adj.",
-      "definition": "双重的5676",
-      "frequency": null,
+      "definition": "双重的",
+      "frequency": 5676,
       "mnemonic": null,
       "collocations": [
         "dual role/purpose/function: 双重用途",
-        "dual citizenship/nationality: 双重国籍"
+        "dual citizenship/nationality: 双重国籍",
+        "dual 的派生词有dualism, duality等。"
       ],
       "etymology": null,
       "examples": [],
@@ -236,11 +244,12 @@
       "word": "dualism",
       "phonetic": "d'ju:slrz(ə)m",
       "pos": "n.",
-      "definition": "二元论19463",
-      "frequency": null,
+      "definition": "二元论",
+      "frequency": 19463,
       "mnemonic": null,
       "collocations": [
-        "the dualism of good and evil struggling for supremacy: 善与恶争夺至高 权的二元论"
+        "the dualism of good and evil struggling for supremacy: 善与恶争夺至高 权的二元论",
+        "Dualism is the state of having two main parts or aspects,or the belief that something has two main parts or aspects."
       ],
       "etymology": null,
       "examples": [],
@@ -250,8 +259,8 @@
       "word": "duality",
       "phonetic": "dju:'æltr",
       "pos": "n.",
-      "definition": "二元性；双重性16952",
-      "frequency": null,
+      "definition": "二元性；双重性",
+      "frequency": 16952,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -262,8 +271,8 @@
       "word": "duet",
       "phonetic": "dju:'et",
       "pos": "n.",
-      "definition": "二重唱；二重奏12485",
-      "frequency": null,
+      "definition": "二重唱；二重奏",
+      "frequency": 12485,
       "mnemonic": null,
       "collocations": [
         "sing a duet with: 与……表演了二重唱"
@@ -276,7 +285,7 @@
       "word": "duo",
       "phonetic": "'dju:au",
       "pos": "n.",
-      "definition": "( 在一起表演的)一对艺人，搭档；形影不离的两个人；二",
+      "definition": "( 在一起表演的)一对艺人，搭档；形影不离的两个人；二重奏(曲);二重唱(曲)9208",
       "frequency": null,
       "mnemonic": null,
       "collocations": [
@@ -293,7 +302,11 @@
       "definition": "二分体；二联体；并矢；并向矢量",
       "frequency": 19688,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the mother-child dyad: 母子二分体",
+        "Dyad is something that consists of two parts.\n(NOUN)并矢；并向矢量",
+        "an operator which is the combination of two vectors.\n单 词cycle 表示“圈；周期；自行车”,其含义为“revolve,move around,dwell : 旋转；循环；四处运动；居住。”"
+      ],
       "etymology": "古词根kwel- 。also*kwelə-,Proto-Indo-European root meaning \"revolve, move round;sojourn, dwell.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit cakram\"circle,wheel,\"carati \"he moves,wanders;\"Avestan caraiti “applies himself,\"c'axra “chariot, wagon;\"Greek kyklos \"circle,wheel,any circular body,circular motion, cycle of events,\"polos“a round axis”(PIE*kw-becomes Greek p- before some vowels),polein \"move around;\"Latin colere “to frequent, dwell in,to cultivate,move around,\"cultus \"tended,cultivated,\"hence 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 笔 记 区 also “polished,\"colonus \"husbandman,tenant farmer,settler,colonist;” Lithuanian kelias \"a road,a way;\"Old Norse hvel,Old English hweol \"wheel;\"Old Church Slavonic kolo,Old Russian kolo,Polish koło, Russian koleso \"a wheel.\"",
       "examples": [],
       "rootHint": "di"
@@ -302,11 +315,14 @@
       "word": "cycle",
       "phonetic": "'sark(ə)l",
       "pos": "vi.",
-      "definition": "骑自行车n. 周期；圈；自行车；骑自行车2240",
-      "frequency": null,
+      "definition": "骑自行车n. 周期；圈；自行车；骑自行车",
+      "frequency": 2240,
       "mnemonic": "n.cycl -(圆；圈)+e→ 圈；周期；自行车 vi.cycl+e→revolve in cycles, occur or recur in cycles: 转圈；出现圈或圈重复出现→骑自行车",
       "collocations": [
-        "the life cycle of the plant: 植物的生命周期"
+        "the life cycle of the plant: 植物的生命周期",
+        "10 cycles per second: 每秒10圈",
+        "be ideal for cycling: 很适合骑自行车cell cycle: 细胞周期",
+        "cycle 的派生词有cyclical,cycling,cyclist,bicycle,recycle,recycled,recycling, recyclable 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -316,8 +332,8 @@
       "word": "cyclical",
       "phonetic": "'siklik(ə)l",
       "pos": "adj.",
-      "definition": "周期的；(乐曲)循环的12890",
-      "frequency": null,
+      "definition": "周期的；(乐曲)循环的",
+      "frequency": 12890,
       "mnemonic": null,
       "collocations": [
         "the cyclical nature of the airline business: 航空业的周期性特征"
@@ -344,8 +360,8 @@
       "word": "cyclist",
       "phonetic": "'saiklist",
       "pos": "n.",
-      "definition": "骑自行车的人9882",
-      "frequency": null,
+      "definition": "骑自行车的人",
+      "frequency": 9882,
       "mnemonic": null,
       "collocations": [
         "better protection for cyclists: 对骑自行车的人的更好保护"
@@ -359,7 +375,7 @@
       "phonetic": "'baisikl",
       "pos": "n.",
       "definition": "自行车 vi. 骑自行车[单车](去某处)[always+adv/prep]",
-      "frequency": null,
+      "frequency": 4413,
       "mnemonic": "bi-(两个)+cycle(圆；圈；自行车)→带有两个圈的物体→ 自行车",
       "collocations": [
         "get on his bicycle: 骑上自行车"
@@ -372,8 +388,8 @@
       "word": "recycle",
       "phonetic": "ri'sark(ə)l",
       "pos": "vt.",
-      "definition": "&vi. 回收利用；循环使用 vt. 再次应用；重新使用(观",
-      "frequency": null,
+      "definition": "&vi. 回收利用；循环使用 vt. 再次应用；重新使用(观点、文章等)n. 循环使用",
+      "frequency": 5892,
       "mnemonic": "re-(又；再)+cycle(循环)→使再循环；循环使用",
       "collocations": [
         "keep recycling old ideas: 不停地翻新旧观念"
@@ -386,8 +402,8 @@
       "word": "recycled",
       "phonetic": "ri:'sarkld",
       "pos": "adj.",
-      "definition": "再生的；循环的9081",
-      "frequency": null,
+      "definition": "再生的；循环的",
+      "frequency": 9081,
       "mnemonic": null,
       "collocations": [
         "recycled paper: 再生纸"
@@ -403,7 +419,9 @@
       "definition": "( 资源、垃圾的)回收利用",
       "frequency": 6075,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the recycling of glass: 玻璃的回收利用"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -412,8 +430,8 @@
       "word": "recyclable",
       "phonetic": "ri:'sarkləbl",
       "pos": "adj.",
-      "definition": "可再生的20198",
-      "frequency": null,
+      "definition": "可再生的",
+      "frequency": 20198,
       "mnemonic": null,
       "collocations": [
         "a separate bin for recyclable waste products: 一个专门装可再生废物的 垃圾桶"
@@ -426,10 +444,12 @@
       "word": "collar",
       "phonetic": "'kplə",
       "pos": "n.",
-      "definition": "衣领；(狗或猫的)项圈；(支撑受伤脖子的)护颈4597",
-      "frequency": null,
+      "definition": "衣领；(狗或猫的)项圈；(支撑受伤脖子的)护颈",
+      "frequency": 4597,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "collar 的派生词有collarbone,white-collar ,blue-collar 等 。"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -438,8 +458,8 @@
       "word": "collarbone",
       "phonetic": "'kplabəun",
       "pos": "n.",
-      "definition": "锁骨18164",
-      "frequency": null,
+      "definition": "锁骨",
+      "frequency": 18164,
       "mnemonic": "collar(衣领)+bone(骨头)→衣领附近的骨头→锁骨",
       "collocations": [
         "a broken collarbone: 断了一根锁骨"
@@ -452,8 +472,8 @@
       "word": "white-collar",
       "phonetic": "'wait'kolə",
       "pos": "n.",
-      "definition": "白领阶层12693",
-      "frequency": null,
+      "definition": "白领阶层",
+      "frequency": 12693,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -464,8 +484,8 @@
       "word": "blue-collar",
       "phonetic": "'blu:'kɔlə",
       "pos": "n.",
-      "definition": "蓝领阶层10807",
-      "frequency": null,
+      "definition": "蓝领阶层",
+      "frequency": 10807,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -476,8 +496,8 @@
       "word": "accolade",
       "phonetic": "'ækolerd;ækə'lerd",
       "pos": "n.",
-      "definition": "赞扬；嘉奖；荣誉15754",
-      "frequency": null,
+      "definition": "赞扬；嘉奖；荣誉",
+      "frequency": 15754,
       "mnemonic": "accolade=ac-(=ad-: 去)+colade (围绕脖子)→抱脖子→册封骑士→荣誉 旗号授予仪式→荣誉",
       "collocations": [
         "ultimate/highest/supreme etc.accolade: 最高奖项"
@@ -490,8 +510,8 @@
       "word": "cyclone",
       "phonetic": "'sarkləun",
       "pos": "n.",
-      "definition": "气旋；旋风18738",
-      "frequency": null,
+      "definition": "气旋；旋风",
+      "frequency": 18738,
       "mnemonic": "cycl-(=cycle圆；圈)+-one(名词后缀)→气旋；旋风",
       "collocations": [
         "tropical cyclone: 热带气旋"
@@ -504,8 +524,8 @@
       "word": "encyclopedia",
       "phonetic": "in,sarklə'pi:diə",
       "pos": "n.",
-      "definition": "百科全书10727",
-      "frequency": null,
+      "definition": "百科全书",
+      "frequency": 10727,
       "mnemonic": "en-(=in- : 进入；使)+-cyclo-(=circle: 圈)+-pedia(=education,child-\nrearing: 教育；儿童培养)→原指教育小孩的通识教育丛书，后指百",
       "collocations": [
         "encyclopedia britannica: 大英百科全书"
@@ -518,11 +538,12 @@
       "word": "circle",
       "phonetic": "'ss:k(a)l",
       "pos": "vt.",
-      "definition": "&vi. 环绕；围着……转圈；盘旋 vt. 把……圈出来 n. 圆",
-      "frequency": null,
+      "definition": "&vi. 环绕；围着……转圈；盘旋 vt. 把……圈出来 n. 圆圈；圆盘状物；圈；(相同兴趣、职业等的人形成的)圈子",
+      "frequency": 1515,
       "mnemonic": null,
       "collocations": [
-        "two helicopters circle around: 两架直升飞机在周围盘旋 a circle of gigantic stones: 一圈巨石"
+        "two helicopters circle around: 两架直升飞机在周围盘旋 a circle of gigantic stones: 一圈巨石",
+        "circle的派生词有encircle,circular,circulate,circulation等。"
       ],
       "etymology": null,
       "examples": [],
@@ -532,8 +553,8 @@
       "word": "encircle",
       "phonetic": "in'ss:k(a)l;en-",
       "pos": "vt.",
-      "definition": "环绕；围绕10822",
-      "frequency": null,
+      "definition": "环绕；围绕",
+      "frequency": 10822,
       "mnemonic": "en-(=make,put in: 使；放入)+circle(圈)→使放入圈内→环绕；包围",
       "collocations": [
         "encircle her waist: 臂搂着她的腰"
@@ -546,8 +567,8 @@
       "word": "enclose",
       "phonetic": "in'kləuz;en-",
       "pos": "vt.",
-      "definition": "围绕；包围；(用墙、篱笆等)把……围起来；(随 信)附上8625",
-      "frequency": null,
+      "definition": "围绕；包围；(用墙、篱笆等)把……围起来；(随 信)附上",
+      "frequency": 8625,
       "mnemonic": "en-(=in,into: 向内)+close (包围)→把……向内包围起来→surround,\nconfine: 包围；围绕",
       "collocations": [
         "enclose the flower beds: 把花坛围了起来",
@@ -561,8 +582,8 @@
       "word": "enclosed",
       "phonetic": "in'klozd",
       "pos": "adj.",
-      "definition": "(用墙等)围住的；随函附上的；与外界隔绝的12175",
-      "frequency": null,
+      "definition": "(用墙等)围住的；随函附上的；与外界隔绝的",
+      "frequency": 12175,
       "mnemonic": null,
       "collocations": [
         "enclosed area: 密封部分"
@@ -579,6 +600,7 @@
       "frequency": 10072,
       "mnemonic": null,
       "collocations": [
+        "a wildlife enclosure: 野生动物围场",
         "a circular hole: 圆 洞",
         "the circular walk: 环形步道",
         "press information circulars: 新闻通告"
@@ -591,8 +613,8 @@
       "word": "circulate",
       "phonetic": "'ss:kjulert",
       "pos": "vt",
-      "definition": "&vi. 散发；流传 vi. 循环；(在聚会上)往来应酬 n. 流 传；循环5973",
-      "frequency": null,
+      "definition": "&vi. 散发；流传 vi. 循环；(在聚会上)往来应酬 n. 流 传；循环",
+      "frequency": 5973,
       "mnemonic": "circ-(环；循环)+ul(连接符号)+ate(使动词)→循环；流传；传播；散发",
       "collocations": [],
       "etymology": null,
@@ -606,7 +628,10 @@
       "definition": "发行量；血液循环",
       "frequency": 5453,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "blood circulation: 血液循环",
+        "in circulation/out of circulation/withdraw from circulation: 流通/停止流通 money in circulation: 流通货币"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -615,8 +640,8 @@
       "word": "circus",
       "phonetic": "'ss:kss",
       "pos": "n.",
-      "definition": "马戏团；闹剧6131",
-      "frequency": null,
+      "definition": "马戏团；闹剧",
+      "frequency": 6131,
       "mnemonic": "circ (圈；环)+us(名词后缀)→原指“跳火圈”这一项目，而该项目是 马戏团最经典和最早的项目，故就用该项目来命名这个娱乐活动",
       "collocations": [],
       "etymology": null,
@@ -627,13 +652,12 @@
       "word": "circuit",
       "phonetic": "'s3:kit",
       "pos": "n.",
-      "definition": "环形道路；环行；电路4063",
-      "frequency": null,
+      "definition": "环形道路；环行；电路",
+      "frequency": 4063,
       "mnemonic": "circ(环)+u(连接符号)+it(走)→绕着环走→环行；赛车道；电路(都是成 环形走)",
       "collocations": [
         "electronic circuits: 电 路",
-        "on the lecture circuit: 巡回演讲",
-        "the tennis/lecture/cabaret etc.circuit: 网球巡回赛/巡回演讲/卡巴莱歌舞 巡回表演等"
+        "on the lecture circuit: 巡回演讲\nthe tennis/lecture/cabaret etc.circuit: 网球巡回赛/巡回演讲/卡巴莱歌舞 巡回表演等"
       ],
       "etymology": null,
       "examples": [],
@@ -643,8 +667,8 @@
       "word": "circuitry",
       "phonetic": "'ss:kitri",
       "pos": "n.",
-      "definition": "电路系统；电路16269",
-      "frequency": null,
+      "definition": "电路系统；电路",
+      "frequency": 16269,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -655,9 +679,9 @@
       "word": "circumcision",
       "phonetic": "ss:kɔm'si33n",
       "pos": null,
-      "definition": "( 宗)割礼；(医)包皮环割术19136",
-      "frequency": null,
-      "mnemonic": "circum-=about,around;through, 有环绕；围绕；圆圈之意。",
+      "definition": "( 宗)割礼；(医)包皮环割术",
+      "frequency": 19136,
+      "mnemonic": "circum-=about,around;through, 有环绕；围绕；圆圈之意。\ncircum-( 圈；周围)+-cis-(to cut: 切)+-ion(名词后缀)→沿着圆圈切除→ 割礼；环割术",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -667,13 +691,12 @@
       "word": "ring",
       "phonetic": "riŋ",
       "pos": "n.",
-      "definition": "戒指，指环；环状物 vt.&vi. 给……打电话；使(铃)响；(铃)响",
-      "frequency": null,
+      "definition": "戒指，指环；环状物 vt.&vi. 给……打电话；使(铃)响；(铃)响vi. (电话)响铃；(撞击金属时)叮叮响；(优美的声音)回荡 n. (电话)响铃 声；(铃的)响声；感觉",
+      "frequency": 1688,
       "mnemonic": null,
       "collocations": [
         "ring up: 给……打电话",
-        "give someone a ring: 给某人电话",
-        "ring true/hollow: 听起来真实/听起来虚假"
+        "give someone a ring: 给某人电话\nring true/hollow: 听起来真实/听起来虚假\n戒指"
       ],
       "etymology": null,
       "examples": [],
@@ -683,8 +706,8 @@
       "word": "ringer",
       "phonetic": "'rinə",
       "pos": "n.",
-      "definition": "( 教堂的)打钟人；鸣声器；(比赛中谎称自己没有某种技能",
-      "frequency": null,
+      "definition": "( 教堂的)打钟人；鸣声器；(比赛中谎称自己没有某种技能的)违规参赛者",
+      "frequency": 19854,
       "mnemonic": null,
       "collocations": [
         "a dead ringer [+for]: 容貌酷似某人；与某人长得一模一样的人"
@@ -700,7 +723,9 @@
       "definition": "响亮的；清脆的",
       "frequency": 10319,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "a ringing endorsement: 强有力的支持"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -712,7 +737,9 @@
       "definition": "溜冰场；旱冰场",
       "frequency": 10814,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "ice rink/skating rink: 溜冰场"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -721,10 +748,15 @@
       "word": "prune",
       "phonetic": "pru:n",
       "pos": "n.",
-      "definition": "梅干 vt.&vi.修剪(树枝)vt. 删除；删节14717",
-      "frequency": null,
+      "definition": "梅干 vt.&vi.修剪(树枝)vt. 删除；删节",
+      "frequency": 14717,
       "mnemonic": "prune→pro- (向前)+round (圆的)二者缩合在一起的结果→本义是将不 规则形状的棱角修剪整齐，变为圆形 →这样更加美观圆润，剪掉枝",
-      "collocations": [],
+      "collocations": [
+        "prune (back)staff/workforce: 裁减员工prune back apples,pears,and cherries: 修剪苹果树、梨树和樱桃pruning the product ranges: 减少产品种类梅干；修剪(树枝)",
+        "prune (back)staff/workforce: 裁减员工",
+        "prune back apples,pears,and cherries: 修剪苹果树、梨树和樱桃",
+        "pruning the product ranges: 减少产品种类"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -733,8 +765,8 @@
       "word": "pruning",
       "phonetic": "'pru:nrŋ ",
       "pos": "n.",
-      "definition": "修剪；剪枝adj. 修剪的16417",
-      "frequency": null,
+      "definition": "修剪；剪枝adj. 修剪的",
+      "frequency": 16417,
       "mnemonic": "prun(=prune: 修剪)+-ing(名词&形容词后缀)→修剪；剪枝；修剪的",
       "collocations": [
         "pruning shears: 修枝剪",
@@ -753,8 +785,7 @@
       "mnemonic": "原指trim the feather with the beak: 鸟类用喙整理羽毛 →后来指代to\ntrim,to dress up: 修剪；打扮 助记：preen=prune: 修剪 →精心打扮",
       "collocations": [
         "preen his beard: 精心修剪了他的胡须",
-        "preen himself on the praise: 因为得到了赞扬而沾沾自喜",
-        "preen: 梳理羽毛"
+        "preen himself on the praise: 因为得到了赞扬而沾沾自喜\npreen: 梳理羽毛\n(鸟)用喙整理(羽毛);精心打扮"
       ],
       "etymology": null,
       "examples": [],
@@ -764,8 +795,8 @@
       "word": "ancillary",
       "phonetic": "æn'siləri",
       "pos": "adj.",
-      "definition": "辅助的；从属的17903",
-      "frequency": null,
+      "definition": "辅助的；从属的",
+      "frequency": 17903,
       "mnemonic": "ancilla(女仆)+-ry(形容词后缀)→女仆的→辅助的；从属的\n趣味记忆：ancillary=an (一个)+cillary( 希拉里)→一个希拉里→克林顿 的贤内助 →助手\nancillary=ancilla (女仆)+-ry(形容词后缀) →女仆的 →辅助的；从属的 搭配：ancillary workers/staff etc.: (医院、学校等的)辅助人员",
       "collocations": [],
       "etymology": "\"subservient,subordinate,serving as an aid,\"1660s,from Latin ancillaris \"relating to maidservants,\"from ancilla \"handmaid,\"fem.diminutive of anculus \"servant,\"literally \"he who bustles about,\" from root of ambi- \"around\"(from PIE root *ambhi-“around”)+PIE*kwol-0-,from root *kwel-(1)\"revolve,move round.\"",
@@ -776,12 +807,13 @@
       "word": "bazaar",
       "phonetic": "bə'za:",
       "pos": "n.",
-      "definition": "(中东、印度等地的)集市；义卖会16232",
-      "frequency": null,
+      "definition": "(中东、印度等地的)集市；义卖会",
+      "frequency": 16232,
       "mnemonic": null,
       "collocations": [
         "Cairo's open-air bazaar: 开罗露天集市",
-        "a church bazaar: 一场教会义卖会"
+        "a church bazaar: 一场教会义卖会",
+        "Curb, curl,curve 都与弯曲有关，也 与circle 同源。"
       ],
       "etymology": null,
       "examples": [],
@@ -791,8 +823,8 @@
       "word": "curb",
       "phonetic": "k3:b",
       "pos": "vt.",
-      "definition": "抑制；控制(脾气、行为等)n. 控制；限制6836",
-      "frequency": null,
+      "definition": "抑制；控制(脾气、行为等)n. 控制；限制",
+      "frequency": 6836,
       "mnemonic": null,
       "collocations": [
         "curb on immigration: 限制移民",
@@ -818,8 +850,8 @@
       "word": "curl",
       "phonetic": "k3:l",
       "pos": "vt.",
-      "definition": "&vi. 卷曲；使卷曲；弯曲；使弯曲；缭绕；使缠绕 vi. 蜷作 一 团；蜷作一团 n. 卷发；卷曲状或螺旋状；卷曲5216",
-      "frequency": null,
+      "definition": "&vi. 卷曲；使卷曲；弯曲；使弯曲；缭绕；使缠绕 vi. 蜷作 一 团；蜷作一团 n. 卷发；卷曲状或螺旋状；卷曲",
+      "frequency": 5216,
       "mnemonic": null,
       "collocations": [
         "curl up: 蜷作一团；卷起笔 记 区",
@@ -833,8 +865,8 @@
       "word": "curling",
       "phonetic": "'ks:liŋ",
       "pos": "n.",
-      "definition": "冰壶运动；冰上溜石游戏19013",
-      "frequency": null,
+      "definition": "冰壶运动；冰上溜石游戏",
+      "frequency": 19013,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -845,8 +877,8 @@
       "word": "curly",
       "phonetic": "'ks:li",
       "pos": "adj.",
-      "definition": "卷曲的；弯曲的9438",
-      "frequency": null,
+      "definition": "卷曲的；弯曲的",
+      "frequency": 9438,
       "mnemonic": null,
       "collocations": [
         "long dark curly hair: 又长又黑的髫发",
@@ -861,10 +893,11 @@
       "phonetic": "k3:v",
       "pos": "vt.",
       "definition": "&vi. 使弯曲；变弯 vi.沿曲线运动 n. 曲线；(图表中的)曲线",
-      "frequency": null,
+      "frequency": 3493,
       "mnemonic": null,
       "collocations": [
-        "throw you a curve/throws you a curve ball: 给某人惊喜 the curve of his lips: 他嘴唇的曲线"
+        "throw you a curve/throws you a curve ball: 给某人惊喜 the curve of his lips: 他嘴唇的曲线",
+        "Curve 的派生词有curved,curving,curvature 等。"
       ],
       "etymology": null,
       "examples": [],
@@ -874,8 +907,8 @@
       "word": "curved",
       "phonetic": "k3:vd",
       "pos": "adj.",
-      "definition": "弧形的8494",
-      "frequency": null,
+      "definition": "弧形的",
+      "frequency": 8494,
       "mnemonic": null,
       "collocations": [
         "the curved lines of the chairs: 那些椅子的弧形线条"
@@ -891,7 +924,9 @@
       "definition": "弯曲的",
       "frequency": 19251,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "curving ball: 弧线球"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -900,8 +935,8 @@
       "word": "curvature",
       "phonetic": "'k3:vətʃə",
       "pos": "n.",
-      "definition": "圆弧19724",
-      "frequency": null,
+      "definition": "圆弧",
+      "frequency": 19724,
       "mnemonic": null,
       "collocations": [
         "the curvature of the earth: 地球的曲度笔 记 区",
@@ -915,14 +950,15 @@
       "word": "wheel",
       "phonetic": "wi:l",
       "pos": "vt.",
-      "definition": "推(带轮子的物体)n. 车轮；机轮；方向盘；(组织或系统的) 运作方式2012",
-      "frequency": null,
+      "definition": "推(带轮子的物体)n. 车轮；机轮；方向盘；(组织或系统的) 运作方式",
+      "frequency": 2012,
       "mnemonic": null,
       "collocations": [
         "Old English hweol,hweogol \"wheel,\"from Proto-Germanic *hwewlaz, from PIE*kw(e)-kwl-o-\"wheel,circle,\"suffixed,reduplicated form of root*kwel-(1)\"revolve,move round;sojourn,dwell.\"",
         "the car wheels: 小汽车的车轮",
         "wheel his bike into the alley: 把自行车推进了的胡同里",
-        "steering wheel: 方向盘"
+        "steering wheel: 方向盘",
+        "wheel的派生词有wheelbarrow,wheelchair ,four-wheel 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -932,8 +968,8 @@
       "word": "wheelbarrow",
       "phonetic": "'wi:lbærəu",
       "pos": null,
-      "definition": "(园艺用)手推车17474",
-      "frequency": null,
+      "definition": "(园艺用)手推车",
+      "frequency": 17474,
       "mnemonic": "wheel(车轮)+barrow(手推车)→带车轮的手推车→ (园艺用)手推车",
       "collocations": [],
       "etymology": null,
@@ -944,8 +980,8 @@
       "word": "wheelchair",
       "phonetic": "'wi:ltfeə",
       "pos": "n.",
-      "definition": "轮椅4660",
-      "frequency": null,
+      "definition": "轮椅",
+      "frequency": 4660,
       "mnemonic": "wheel(车轮)+chair(椅子)→带车轮的椅子→椅子",
       "collocations": [],
       "etymology": null,
@@ -956,12 +992,13 @@
       "word": "four-wheel",
       "phonetic": "'fə:'wi:l",
       "pos": "adj.",
-      "definition": "四轮的；使用四轮驱动的19276",
-      "frequency": null,
+      "definition": "四轮的；使用四轮驱动的",
+      "frequency": 19276,
       "mnemonic": null,
       "collocations": [
         "four-wheel drive: 四轮越野车",
-        "poles apart: (信仰、观点或品质)截然相反的"
+        "poles apart: (信仰、观点或品质)截然相反的",
+        "pole 的派生词有polemic,polar,polarity,polarize,polarized,polarization 等。"
       ],
       "etymology": null,
       "examples": [],
@@ -971,8 +1008,8 @@
       "word": "polemic",
       "phonetic": "pə'lemik",
       "pos": "n.",
-      "definition": "(口头或书面的)猛烈抨击；辩护；辩论术18411",
-      "frequency": null,
+      "definition": "(口头或书面的)猛烈抨击；辩护；辩论术",
+      "frequency": 18411,
       "mnemonic": "polem(=pole: 观点截然相反的两极)+-ic(名词后缀)→一个观点对其相 反观点的抨击→ (口头或书面的)猛烈抨击；辩护",
       "collocations": [
         "fierce polemics: 激烈的论战"
@@ -988,7 +1025,10 @@
       "definition": "极地的；(性格、质量或类型)正好相反的",
       "frequency": 6905,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the polar regions: 极地",
+        "the polar opposite of..: 同……刚好相反"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -997,8 +1037,8 @@
       "word": "polarity",
       "phonetic": "pə(u)'laerti",
       "pos": "n.",
-      "definition": "完全相反19185",
-      "frequency": null,
+      "definition": "完全相反",
+      "frequency": 19185,
       "mnemonic": null,
       "collocations": [
         "the polarities of good and evil: 善与恶的截然对立"
@@ -1011,8 +1051,8 @@
       "word": "polarize",
       "phonetic": "'pola'rarz",
       "pos": "vt.",
-      "definition": "&vi. 使两级分化n. 分化12517",
-      "frequency": null,
+      "definition": "&vi. 使两级分化n. 分化",
+      "frequency": 12517,
       "mnemonic": null,
       "collocations": [
         "to further polarize opinion: 进一步地加剧了意见的分化"
@@ -1025,8 +1065,8 @@
       "word": "polarized",
       "phonetic": "'polo rarz",
       "pos": "adj.",
-      "definition": "偏振的19810",
-      "frequency": null,
+      "definition": "偏振的",
+      "frequency": 19810,
       "mnemonic": null,
       "collocations": [
         "polarized light microscope: 偏振光显微镜"
@@ -1039,8 +1079,8 @@
       "word": "polarization",
       "phonetic": ",pəulərar'zerʃən",
       "pos": "n.",
-      "definition": "分化13096",
-      "frequency": null,
+      "definition": "分化",
+      "frequency": 13096,
       "mnemonic": null,
       "collocations": [
         "the increasing polarization between rich and poor: 不断加剧的贫富分化"
@@ -1053,8 +1093,8 @@
       "word": "pulley",
       "phonetic": "'puli",
       "pos": "n.",
-      "definition": "滑轮；滑车；皮带轮16476",
-      "frequency": null,
+      "definition": "滑轮；滑车；皮带轮",
+      "frequency": 16476,
       "mnemonic": null,
       "collocations": [],
       "etymology": "来自古法语polie, 滑轮。来自拉丁语poliva 。来自希腊语polos, 轮 轴，滑轮，来自词根kwel-,同pole, 两极，地轴。 round” 表示围绕，在……周围；圆形的等含义。",
@@ -1065,8 +1105,8 @@
       "word": "round",
       "phonetic": "raund",
       "pos": "adv.",
-      "definition": "&prep. 围绕；大约adj. 圆形的 n. (比赛的)轮[+of] vt. 环",
-      "frequency": null,
+      "definition": "&prep. 围绕；大约adj. 圆形的 n. (比赛的)轮[+of] vt. 环绕……而行",
+      "frequency": 2393,
       "mnemonic": null,
       "collocations": [
         "all the land round about: 这一带的土地",
@@ -1075,8 +1115,7 @@
         "a big round table: 一张大圆桌",
         "a round hundred/dozen etc.(=a complete hundred etc.): 整一百/整一打等 the first/final/next/qualifying etc.round: 第一轮；最后一轮；下一轮； 资格赛",
         "round of applause: 一阵掌声",
-        "a complete game of golf: 一场(指打完球场里所有的洞)",
-        "round off: 使(活动、表演等)圆满完成"
+        "a complete game of golf: 一场(指打完球场里所有的洞)\nround off: 使(活动、表演等)圆满完成"
       ],
       "etymology": "late 13c.,from Anglo-French rounde,Old French roont(12c.,Modern French rond),probably originally*redond,from Vulgar Latin *retundus (source also of Provencal redon,Spanish redondo,Old Italian ritondo), from Latin rotundus \"like a wheel,circular,round,\"related to rota“wheel”.",
       "examples": [],
@@ -1089,7 +1128,12 @@
       "definition": "&prep.环绕，到处；无所事事地；解决",
       "frequency": 265,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "around about: 大 约come around: 苏醒",
+        "sit around/hang around: 无所事事地",
+        "have been around: 见过世面；经验丰富",
+        "get around this problem: 解决这个问题"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1098,10 +1142,17 @@
       "word": "rounded",
       "phonetic": "'raundid",
       "pos": "adj.",
-      "definition": "圆形的；全面的；完善的",
+      "definition": "adj. 圆形的；全面的；完善的",
       "frequency": 10160,
-      "mnemonic": null,
-      "collocations": [],
+      "mnemonic": "well(出色地；完全地)+rounded(全面的；完善的)→各方面都好的；完 美的→人格完满的；全面的\nround(圆)+about( 附近；周围)→在圆圈周围的，不直接靠近的→迂回的",
+      "collocations": [
+        "be thoroughly rounded in skills and attitudes: 能力全面，心态正常round-trip ['raund'tri p] n. 往返旅程adj. (票)往返的；双程的17368",
+        "round-trip ticket: 往返票roundup ['raundʌp] n. ( 新闻)综述15435",
+        "roundup of the day's news: 今日新闻综述well-rounded ['wel'raundid] adj. 人格完满的；全面的19281",
+        "a well-rounded and modestly priced wine list: 一份内容全面，价格适中 的酒单give a well-rounded education in...:接受……方面的全面教育roundabout ['raund,baut] adj.迂回的；拐弯抹角的",
+        "roundabout way: 迂回的方式on a roundabout route for Jordan: 绕道去约旦year-round ['jie'raund] adj. 整年的adv. 全年的7632second-round ['sek(a)nd-raund] n. 第二轮19258measure 30 or 40 feet around: 合抱可达30或40英尺",
+        "be thoroughly rounded in skills and attitudes: 能力全面，心态正常"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1113,7 +1164,9 @@
       "definition": "往返旅程adj. (票)往返的；双程的",
       "frequency": 17368,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "round-trip ticket: 往返票"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1122,8 +1175,8 @@
       "word": "roundup",
       "phonetic": "'raundʌp",
       "pos": "n.",
-      "definition": "( 新闻)综述15435",
-      "frequency": null,
+      "definition": "( 新闻)综述",
+      "frequency": 15435,
       "mnemonic": null,
       "collocations": [
         "roundup of the day's news: 今日新闻综述"
@@ -1136,8 +1189,8 @@
       "word": "well-rounded",
       "phonetic": "'wel'raundid",
       "pos": "adj.",
-      "definition": "人格完满的；全面的19281",
-      "frequency": null,
+      "definition": "人格完满的；全面的",
+      "frequency": 19281,
       "mnemonic": "well(出色地；完全地)+rounded(全面的；完善的)→各方面都好的；完 美的→人格完满的；全面的",
       "collocations": [
         "a well-rounded and modestly priced wine list: 一份内容全面，价格适中 的酒单",
@@ -1166,8 +1219,8 @@
       "word": "year-round",
       "phonetic": "'jie'raund",
       "pos": "adj.",
-      "definition": "整年的adv. 全年的7632",
-      "frequency": null,
+      "definition": "整年的adv. 全年的",
+      "frequency": 7632,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -1178,8 +1231,8 @@
       "word": "second-round",
       "phonetic": "'sek(a)nd-raund",
       "pos": "n.",
-      "definition": "第二轮19258",
-      "frequency": null,
+      "definition": "第二轮",
+      "frequency": 19258,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -1202,15 +1255,15 @@
       "word": "surround",
       "phonetic": "sə'raund",
       "pos": "vt.",
-      "definition": "&vi. 围绕 vt. 包围；与……紧密联系1608",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "&vi. 围绕 vt. 包围；与……紧密联系",
+      "frequency": 1608,
+      "mnemonic": "to flow in water: 水流)→水流从上面像波浪一样流出→ 围绕；包围 趣记：surr-(在上)+round(围绕)→ 围绕；包围",
       "collocations": [
         "be surrounded by: 被……包围",
         "surround yourself with: 确保身边总有……",
         "surround sound: 环绕立体声"
       ],
-      "etymology": "来自盎格鲁法语 surounder, 流出，溢出，发洪水。来自拉丁语 superundare, 流出。助记：surr-(=super: 在上；超过)+-ound(=-und; to flow in water: 水流)→水流从上面像波浪一样流出→ 围绕；包围 趣记：surr-(在上)+round(围绕)→ 围绕；包围",
+      "etymology": "来自盎格鲁法语 surounder, 流出，溢出，发洪水。来自拉丁语 superundare, 流出。助记：surr-(=super: 在上；超过)+-ound(=-und;",
       "examples": [],
       "rootHint": "di"
     },
@@ -1218,8 +1271,8 @@
       "word": "surrounding",
       "phonetic": "sə'raundŋ",
       "pos": "adj.",
-      "definition": "周围的；附近的4447",
-      "frequency": null,
+      "definition": "周围的；附近的",
+      "frequency": 4447,
       "mnemonic": null,
       "collocations": [
         "the surrounding area: 周边地区"
@@ -1232,8 +1285,8 @@
       "word": "surroundings",
       "phonetic": "sə'raundiŋz",
       "pos": "n.",
-      "definition": "环境6343",
-      "frequency": null,
+      "definition": "环境",
+      "frequency": 6343,
       "mnemonic": null,
       "collocations": [
         "adapt to his new surroundings: 适应了他的新环境"
@@ -1246,8 +1299,8 @@
       "word": "precinct",
       "phonetic": "'prisIn(k)t",
       "pos": "n.",
-      "definition": "购物区/步行区；警区；(机构的)境域，界域7268",
-      "frequency": null,
+      "definition": "购物区/步行区；警区；(机构的)境域，界域",
+      "frequency": 7268,
       "mnemonic": "pre-(before)+-cinct(=to surround, encircle=包围；环绕)→把(场地、院 落、商业区等)前面四围区域环绕、包围起来→引申义为购物区/步行 区；警区；(机构的)境域，界域",
       "collocations": [
         "a pedestrian/shopping precinct: 一处步行/购物区"
@@ -1260,8 +1313,8 @@
       "word": "succinctly",
       "phonetic": "sɔk'siŋktli",
       "pos": "adv.",
-      "definition": "简明地16437",
-      "frequency": null,
+      "definition": "简明地",
+      "frequency": 16437,
       "mnemonic": "suc-(=sub-=up from under: 从下往上)+cinct(=to gird: 束缚；捆上)→ 把衣服下摆在腰间系紧扎好→简明的",
       "collocations": [
         "succinctly summed up…as: 把……简明地概括为",
@@ -1275,11 +1328,12 @@
       "word": "shingle",
       "phonetic": "'Sing(ə)l",
       "pos": "n.",
-      "definition": "(海边或河边的)碎石滩；瓦板；(医生或律师等的)小招",
-      "frequency": null,
+      "definition": "(海边或河边的)碎石滩；瓦板；(医生或律师等的)小招牌",
+      "frequency": 11387,
       "mnemonic": null,
       "collocations": [
-        "a beach of sand and shingle: 一个有沙子和碎石的海滩"
+        "a beach of sand and shingle: 一个有沙子和碎石的海滩",
+        "自 “ -und” 发音与“wed-” 类 似 ，“wed-” 的含义为“water, wet”, 表示“水；湿气；潮湿的”。像“surround” 一样，单词中包含“-und” 词根，表示“to flow,rise in a wave: 流动；在波浪中上涨”的单词还有："
       ],
       "etymology": "undare \"to flow,\"from unda“a wave,”from PIE*unda-,nasalized form of root*wed-(1)\"water;wet.\"",
       "examples": [],
@@ -1289,10 +1343,12 @@
       "word": "abound",
       "phonetic": "ə 'baund",
       "pos": "vi.",
-      "definition": "充满；大量存在7817",
-      "frequency": null,
-      "mnemonic": "ab-(off,away from: 离开)+o+-und (rise in a wave: 波浪上涨)→水上涨\n离开水漫过堤岸的，水充满而外溢的→充满；大量 搭配：abound with/in sth: 富于；盛产\nabound 的派生词有abundant,abundance, abundantly 等 。",
-      "collocations": [],
+      "definition": "充满；大量存在",
+      "frequency": 7817,
+      "mnemonic": "ab-(off,away from: 离开)+o+-und (rise in a wave: 波浪上涨)→水上涨\n离开水漫过堤岸的，水充满而外溢的→充满；大量 搭配：abound with/in sth: 富于；盛产",
+      "collocations": [
+        "abound 的派生词有abundant,abundance, abundantly 等 。"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1301,8 +1357,8 @@
       "word": "abundant",
       "phonetic": "ə 'bʌndənt",
       "pos": "adj.",
-      "definition": "大量的；丰盛的6318",
-      "frequency": null,
+      "definition": "大量的；丰盛的",
+      "frequency": 6318,
       "mnemonic": "abund(=abound: 充满)+-ant( 形容词后缀)→大量的；丰盛的",
       "collocations": [
         "abundant evidence: 充分的证据",
@@ -1316,10 +1372,12 @@
       "word": "abundance",
       "phonetic": "ə 'bʌnd(ə)ns",
       "pos": "n.",
-      "definition": "充裕；丰富[+of]",
-      "frequency": 5495,
+      "definition": "充裕；丰富[+of]5495",
+      "frequency": null,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "in abundance: 大量的；丰富的"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1331,7 +1389,10 @@
       "definition": "十分地；大量的",
       "frequency": 16665,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "abundantly clear: 显而易见",
+        "grow abundantly: 盛产"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1340,11 +1401,12 @@
       "word": "inundate",
       "phonetic": "'inʌndert",
       "pos": "vt.",
-      "definition": "被(大量信件或请求等)淹没；淹没13417",
-      "frequency": null,
+      "definition": "被(大量信件或请求等)淹没；淹没",
+      "frequency": 13417,
       "mnemonic": "in-(进入)+-und(流动)+-ate(动词后缀)→overflow,flood: 即流水溢出， 流上来的，淹没→引申词义应接不暇",
       "collocations": [
-        "be inundated(with/by sth); (收到太多某物而)应接不暇 inundate vast areas of cropland: 淹没了大片农田"
+        "be inundated(with/by sth); (收到太多某物而)应接不暇 inundate vast areas of cropland: 淹没了大片农田",
+        "water 表 示 水 ，包 含 water 的 单 词 都 与 水 有 关 ，wate r 的 词根 也 是 wed- , 表示“水；潮湿的”。"
       ],
       "etymology": null,
       "examples": [],
@@ -1354,14 +1416,14 @@
       "word": "water",
       "phonetic": "w' ɔ:tə",
       "pos": "n.",
-      "definition": "水；海域；(尤指)领海 vt. 浇水 vi. 流泪；流口水227",
-      "frequency": null,
+      "definition": "水；海域；(尤指)领海 vt. 浇水 vi. 流泪；流口水",
+      "frequency": 227,
       "mnemonic": "water(水)+color(彩色)→水彩",
       "collocations": [
         "water under the bridge: 桥下水(比喻无需再挂怀的往事) in deep water: 陷入困难",
         "in hot water: 陷入困境",
         "hold water: ( 理论或论点)符合逻辑；与事实相符",
-        "pour cold water on: 泼冷水 test the water/test the waters: 试探"
+        "pour cold water on: 泼冷水 test the water/test the waters: 试探\n趣课多 20000 词汇巅峰速\n笔 记 区 watercolor ['wɔ:to,kalo,'w-] n.水彩；水彩画6196"
       ],
       "etymology": null,
       "examples": [],
@@ -1371,10 +1433,15 @@
       "word": "waterfall",
       "phonetic": "'wɔ:təfɔ:l",
       "pos": "n.",
-      "definition": "瀑布",
+      "definition": "n. 瀑布",
       "frequency": 8246,
-      "mnemonic": null,
-      "collocations": [],
+      "mnemonic": "water(水)+fall(落下)→水落下→瀑布waterfowl ['wɔ:təfaul] n. 水禽(尤指鸭、鹅和天鹅)16594\nwater(水)+fowl(家禽)→水里的家禽→水禽waterfront ['wɔ:tofrʌn t] n. 滨水地区；水边土地10163\nwater(水)+front(最前面)→水的最前面→滨水地区\nwater (水)+melon(瓜；甜瓜)→即多水的甜瓜，用于指西瓜",
+      "collocations": [
+        "a waterfront apartment: 一套滨水公寓同义：oceanfront: 滨海的an oceanfront hotel: 海滨旅馆watering ['wɔ:təriŋ] adj. 灌溉的；浇水用的12926",
+        "watering systems: 喷灌设施watering cans: 喷壶watermelon ['wɔ:təmelən] n. 西瓜11230",
+        "watermelon juice: 西瓜汁",
+        "a lovely watercolor: 一幅漂亮的水彩画"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1383,9 +1450,9 @@
       "word": "waterfowl",
       "phonetic": "'wɔ:təfaul",
       "pos": "n.",
-      "definition": "水禽(尤指鸭、鹅和天鹅)",
-      "frequency": 16594,
-      "mnemonic": null,
+      "definition": "水禽(尤指鸭、鹅和天鹅)16594",
+      "frequency": null,
+      "mnemonic": "water(水)+fowl(家禽)→水里的家禽→水禽",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -1397,9 +1464,11 @@
       "pos": "n.",
       "definition": "滨水地区；水边土地",
       "frequency": 10163,
-      "mnemonic": null,
+      "mnemonic": "water(水)+front(最前面)→水的最前面→滨水地区",
       "collocations": [
-        "a waterfront apartment: 一套滨水公寓"
+        "a waterfront apartment: 一套滨水公寓",
+        "同义：oceanfront: 滨海的",
+        "an oceanfront hotel: 海滨旅馆"
       ],
       "etymology": null,
       "examples": [],
@@ -1412,7 +1481,10 @@
       "definition": "灌溉的；浇水用的",
       "frequency": 12926,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "watering systems: 喷灌设施",
+        "watering cans: 喷壶"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1421,8 +1493,8 @@
       "word": "watermelon",
       "phonetic": "'wɔ:təmelən",
       "pos": "n.",
-      "definition": "西瓜11230",
-      "frequency": null,
+      "definition": "西瓜",
+      "frequency": 11230,
       "mnemonic": "water (水)+melon(瓜；甜瓜)→即多水的甜瓜，用于指西瓜",
       "collocations": [
         "watermelon juice: 西瓜汁"
@@ -1435,13 +1507,13 @@
       "word": "watershed",
       "phonetic": "'wɔ:təfed",
       "pos": "n.",
-      "definition": "转折点~[+in] ( 标志着重大变化的事件或时期);分 水线；(英国)儿童不宜节目可在电视上播放的起始时间7837",
-      "frequency": null,
+      "definition": "转折点~[+in] ( 标志着重大变化的事件或时期);分 水线；(英国)儿童不宜节目可在电视上播放的起始时间",
+      "frequency": 7837,
       "mnemonic": null,
       "collocations": [
         "a watershed in Russia's history: 俄国历史的转折点",
         "watershed area: 分水岭界区；分水界域",
-        "the 9 o'clock watershed: 可开播儿童不宜电视节目的晚上9点钟时限"
+        "the 9 o'clock watershed: 可开播儿童不宜电视节目的晚上9点钟时限\n20000词汇巅峰速运\n20000词汇巅峰"
       ],
       "etymology": null,
       "examples": [],
@@ -1451,8 +1523,8 @@
       "word": "waterway",
       "phonetic": "'wɔ:təwer",
       "pos": "n.",
-      "definition": "水路；航道9739",
-      "frequency": null,
+      "definition": "n. 水路；航道",
+      "frequency": 9739,
       "mnemonic": "water( 水)+way(路)→水路；航道",
       "collocations": [
         "inland waterways: 内河航道"
@@ -1465,8 +1537,8 @@
       "word": "watery",
       "phonetic": "'wɔ:t(a)r",
       "pos": "adj.",
-      "definition": "微弱的；淡而无味的；充满水的10836",
-      "frequency": null,
+      "definition": "微弱的；淡而无味的；充满水的",
+      "frequency": 10836,
       "mnemonic": null,
       "collocations": [
         "a watery environment: 潮湿的环境里",
@@ -1481,8 +1553,8 @@
       "word": "backwater",
       "phonetic": "'bækwɔ:tə",
       "pos": "n.",
-      "definition": "闭塞落后的地方(含贬义);(河流的)死水；停滞不 进的状态或地方16228",
-      "frequency": null,
+      "definition": "闭塞落后的地方(含贬义);(河流的)死水；停滞不 进的状态或地方",
+      "frequency": 16228,
       "mnemonic": "back(朝后)+water( 水)→水流向后的→封闭落后的(地方);死水",
       "collocations": [
         "a quiet rural backwater: 一处宁静的乡下偏僻之地",
@@ -1498,7 +1570,7 @@
       "pos": "adj.",
       "definition": "深水的",
       "frequency": 20077,
-      "mnemonic": "deepwater port: 深水港口",
+      "mnemonic": "deep(深的)+water(水)→深水的\ndeepwater port: 深水港口",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -1510,7 +1582,7 @@
       "pos": "n.",
       "definition": "洪水",
       "frequency": 18847,
-      "mnemonic": null,
+      "mnemonic": "flood(洪水)+waters(水)→洪水",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -1520,8 +1592,8 @@
       "word": "freshwater",
       "phonetic": "'freʃwɔ:tə",
       "pos": "adj.",
-      "definition": "淡水的9734",
-      "frequency": null,
+      "definition": "淡水的",
+      "frequency": 9734,
       "mnemonic": "fresh(纯的；淡的)+water (水)→淡水的",
       "collocations": [
         "freshwater lakes: 淡水湖"
@@ -1537,7 +1609,9 @@
       "definition": "咸水adj. 咸水的",
       "frequency": 18548,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "saltwater fish: 咸水鱼"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1563,7 +1637,9 @@
       "definition": "海水",
       "frequency": 15113,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "sea (海)+water(水)→海水"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1574,7 +1650,7 @@
       "pos": "adv.",
       "definition": "在水面下 adj .在水下的；水下用的",
       "frequency": 9325,
-      "mnemonic": null,
+      "mnemonic": "under (在……下面)+water(水)→在水下的",
       "collocations": [
         "underwater camera equipment: 水下摄影设备"
       ],
@@ -1588,7 +1664,7 @@
       "pos": "n.",
       "definition": "废水",
       "frequency": 13839,
-      "mnemonic": null,
+      "mnemonic": "waste(废弃的)+water(水)→废水",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -1600,7 +1676,7 @@
       "pos": "n.",
       "definition": "雨水",
       "frequency": 14637,
-      "mnemonic": null,
+      "mnemonic": "rain(雨)+water(水)→雨水",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -1622,8 +1698,8 @@
       "word": "wet",
       "phonetic": "wet",
       "pos": "adj.",
-      "definition": "湿的；(油漆、墨水、水泥等)未干的 vt. 弄湿；(尤指孩子)尿",
-      "frequency": null,
+      "definition": "湿的；(油漆、墨水、水泥等)未干的 vt. 弄湿；(尤指孩子)尿湿 n. 雨天",
+      "frequency": 2491,
       "mnemonic": null,
       "collocations": [
         "get my feet wet: 把脚弄湿",
@@ -1637,10 +1713,12 @@
       "word": "wetland",
       "phonetic": "'wetlond",
       "pos": "n.",
-      "definition": "湿地",
+      "definition": "n. 湿地",
       "frequency": 5875,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "wet (湿的)+land (土地) →湿润的土地 →湿地"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1649,10 +1727,12 @@
       "word": "winter",
       "phonetic": "'wintə",
       "pos": "n.",
-      "definition": "冬 季vi. ( 在某处)过冬[+adv/prep]",
-      "frequency": 1250,
+      "definition": "冬 季vi. ( 在某处)过冬[+adv/prep]1250",
+      "frequency": null,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "winter in Arizona: 在亚利桑那州过冬"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1664,7 +1744,10 @@
       "definition": "寒冷的，冬天的；(笑容或表情)冷冰冰的",
       "frequency": 20105,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "wintry showers冬季的阵雪",
+        "Wash 有清洗之意，也与“水”有关。词根也是 wed- , 表示“水；潮湿 的”。"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1676,7 +1759,11 @@
       "definition": "&vi. 洗 vt. 洗涤 vi.(情绪)冲击 n. 清洗的衣服；洗面奶",
       "frequency": 2162,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "be in the wash: 正在洗",
+        "it will all come out in the wash: 总会有办法的，问题总会解决的(用于 叫某人不要担心)",
+        "an anti-bacterial facial wash: 抗菌洗面奶"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1685,8 +1772,8 @@
       "word": "washcloth",
       "phonetic": "'wDʃkloθ",
       "pos": "n.",
-      "definition": "( 洗脸、洗手用的)毛巾19178",
-      "frequency": null,
+      "definition": "( 洗脸、洗手用的)毛巾",
+      "frequency": 19178,
       "mnemonic": "wash (洗)+cloth ( 布)→清洗用的布→ (洗脸、洗手用的)毛巾",
       "collocations": [],
       "etymology": null,
@@ -1697,8 +1784,8 @@
       "word": "washed",
       "phonetic": "wɔʃt",
       "pos": "adj.",
-      "definition": "洗过的17778",
-      "frequency": null,
+      "definition": "洗过的",
+      "frequency": 17778,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -1712,7 +1799,9 @@
       "definition": "清洗机",
       "frequency": 11688,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "dish washer: 洗碗机"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1721,8 +1810,8 @@
       "word": "washing",
       "phonetic": "'wDʃiŋ",
       "pos": "n.",
-      "definition": "洗涤；要洗的(正洗的，刚洗过的)衣物9158",
-      "frequency": null,
+      "definition": "洗涤；要洗的(正洗的，刚洗过的)衣物",
+      "frequency": 9158,
       "mnemonic": null,
       "collocations": [
         "do the washing: 洗衣服",
@@ -1736,8 +1825,8 @@
       "word": "awash",
       "phonetic": "ə'wpʃ",
       "pos": "adj.",
-      "definition": "有大量……的；被水覆盖的14261",
-      "frequency": null,
+      "definition": "有大量……的；被水覆盖的",
+      "frequency": 14261,
       "mnemonic": null,
       "collocations": [
         "awash with water: 被淹没；被漫过",
@@ -1755,7 +1844,7 @@
       "pos": "vt.",
       "definition": "给……洗脑；强行灌输",
       "frequency": 18098,
-      "mnemonic": null,
+      "mnemonic": "brain ( 大脑)+wash ( 洗)→洗脑；强行灌输",
       "collocations": [
         "brainwash consumers into buying things: 给消费者洗脑，让他们买东西"
       ],
@@ -1767,8 +1856,8 @@
       "word": "dishwasher",
       "phonetic": "'drʃwDʃə",
       "pos": "n.",
-      "definition": "洗碗机；洗碗工12043",
-      "frequency": null,
+      "definition": "洗碗机；洗碗工",
+      "frequency": 12043,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -1807,8 +1896,8 @@
       "word": "dehydration",
       "phonetic": ",di:har'drerʃən",
       "pos": "n.",
-      "definition": "脱水15135",
-      "frequency": null,
+      "definition": "脱水",
+      "frequency": 15135,
       "mnemonic": null,
       "collocations": [
         "suffer from dehydration: 患脱水"
@@ -1837,7 +1926,7 @@
       "pos": "n.",
       "definition": "( 为身体提供热量的)碳水化合物；糖类；含",
       "frequency": null,
-      "mnemonic": null,
+      "mnemonic": "碳水化合物的食品(如米饭、面包、马铃薯等)3869 助记：carbo(碳)+hydr(水)+-ate(名词后缀)→碳水化合物",
       "collocations": [
         "carbohydrates such as bread,pasta,or potatoes: 含碳水化合物的食物， 如面包、意大利面或马铃薯"
       ],
@@ -1849,8 +1938,8 @@
       "word": "hydroelectric",
       "phonetic": "hardrəur'lektrik",
       "pos": "adj.",
-      "definition": "水力发电的16812",
-      "frequency": null,
+      "definition": "水力发电的",
+      "frequency": 16812,
       "mnemonic": null,
       "collocations": [
         "hydro-(水)+electric(电)→与水电有关的→水力发电的",
@@ -1865,13 +1954,13 @@
       "word": "hydraulic",
       "phonetic": "har'dro:lik;har'drplik",
       "pos": "adj.",
-      "definition": "液压的；水力的10825",
-      "frequency": null,
+      "definition": "液压的；水力的",
+      "frequency": 10825,
       "mnemonic": "hydr-(水)+aul(=aulos: 管道)+-ic(形容词后缀)→水管道的→水压的",
       "collocations": [
         "hydraulic pressure: 水 压",
         "hydraulic pumps: 液压泵",
-        "hydraulic engineering: 水利工程"
+        "hydraulic engineering: 水利工程\nIu-=lav-=to wash” , 表示“冲洗”。"
       ],
       "etymology": "来自希腊语hydraulikos, 水管，水道。来自hydor, 水，同water。 Aulos, 管道，词源同alveolus。引申词义水力的，液压的。",
       "examples": [],
@@ -1881,8 +1970,8 @@
       "word": "dilute",
       "phonetic": "dar'l(j)u:t;di-",
       "pos": "vt.",
-      "definition": "&vi. 稀释；变淡 vt.削弱adj.稀释的9729",
-      "frequency": null,
+      "definition": "&vi. 稀释；变淡 vt.削弱adj.稀释的",
+      "frequency": 9729,
       "mnemonic": "di-(=dis-=apart: 分离)+lut-(=wash: 冲洗)+e→经冲洗而分开，分解→ 词义引申为稀释；变淡",
       "collocations": [],
       "etymology": null,
@@ -1893,8 +1982,8 @@
       "word": "dilution",
       "phonetic": "dar'lu:ʃn",
       "pos": "n.",
-      "definition": "稀释液19557",
-      "frequency": null,
+      "definition": "稀释液",
+      "frequency": 19557,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -1905,8 +1994,8 @@
       "word": "deluge",
       "phonetic": "'delju:dʒ",
       "pos": "n.",
-      "definition": "纷至沓来的事物(如信件、问题等)[+of]; 洪水；暴雨期",
-      "frequency": null,
+      "definition": "纷至沓来的事物(如信件、问题等)[+of]; 洪水；暴雨期vt. 使(大量的信件、问题等同时)涌向(某人);淹没",
+      "frequency": 16908,
       "mnemonic": "de-(=dis: 分离；去掉)+lug(=lu-: 清洗)+e→在清洗中分离，去掉，原 专指上帝不满人间遍布罪恶而发的、把人类从地上除掉大洪水→后通 用于比喻各种洪水一般的事物。\ndeluge=flood: 大洪水(在表示实际的洪水这一自然灾害时， 一般用 flood)",
       "collocations": [
         "be deluged with phone calls from friends: 朋友纷纷来电"
@@ -1919,8 +2008,8 @@
       "word": "lava",
       "phonetic": "'la:və",
       "pos": "n.",
-      "definition": "(火山喷出的)熔岩；岩浆9269",
-      "frequency": null,
+      "definition": "(火山喷出的)熔岩；岩浆",
+      "frequency": 9269,
       "mnemonic": "lav-(洗)+-a→熔岩；岩浆",
       "collocations": [
         "spew lava and ash: 喷发熔岩和火山灰",
@@ -1934,11 +2023,13 @@
       "word": "lavish",
       "phonetic": "' læviʃ",
       "pos": "adj.",
-      "definition": "盛大奢华的；挥霍的 vt. 为……花很多钱；对……大加赞 赏9220",
-      "frequency": null,
+      "definition": "盛大奢华的；挥霍的 vt. 为……花很多钱；对……大加赞 赏",
+      "frequency": 9220,
       "mnemonic": "lav-( 洗)+-ish(形容词/动词后缀)→花钱如流水→挥霍的",
       "collocations": [
-        "lavish spending: 挥霍无度lavish entertainment: 铺张的款待"
+        "lavish spending: 挥霍无度lavish entertainment: 铺张的款待",
+        "lavish praise on: 对……大加赞赏比较：lavis h(丰富的),abundant ( 丰富的),affluent (富足的)。三个词都 有“丰富”之义，细比较之，三者的词根分别是lav- “ 冲洗”, - und “流动”和flu- “流动”,也都有水的运动之义。汉语有“花钱如 流水”,形容钱之多，与之异曲同工。 Lav-是“冲洗”,比“流动” 激烈，所以是“过分丰富的”。笔 记 区",
+        "lavish praise on: 对……大加赞赏\n比较：lavis h(丰富的),abundant ( 丰富的),affluent (富足的)。三个词都 有“丰富”之义，细比较之，三者的词根分别是lav- “ 冲洗”, - und “流动”和flu- “流动”,也都有水的运动之义。汉语有“花钱如 流水”,形容钱之多，与之异曲同工。 Lav-是“冲洗”,比“流动” 激烈，所以是“过分丰富的”。\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -1951,7 +2042,9 @@
       "definition": "盛大奢华地；慷慨地",
       "frequency": 17657,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "be lavishly decorated: 装修豪华"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1960,8 +2053,8 @@
       "word": "launder",
       "phonetic": "'lɔ:ndə",
       "pos": "vt.",
-      "definition": "洗(钱);洗熨16134",
-      "frequency": null,
+      "definition": "洗(钱);洗熨",
+      "frequency": 16134,
       "mnemonic": "laund(- lut-: 洗)+-er (动词后缀)→洗涤，清洗→引申词义洗黑钱(把来 路可疑的钱弄得貌似合法)",
       "collocations": [
         "freshly laundered sheets: 刚洗的被单",
@@ -1978,7 +2071,9 @@
       "definition": "洗烫；洗黑钱",
       "frequency": 15645,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "money laundering: 洗 钱"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1990,7 +2085,9 @@
       "definition": "(待洗、正在洗或刚洗过的)衣物；洗衣店",
       "frequency": 4992,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "do your laundry: 给你洗衣服"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "di"
@@ -1999,8 +2096,8 @@
       "word": "lotion",
       "phonetic": "'lauʃ(ən",
       "pos": "n.",
-      "definition": "润肤乳10830",
-      "frequency": null,
+      "definition": "润肤乳",
+      "frequency": 10830,
       "mnemonic": null,
       "collocations": [
         "suntan lotion: 防晒霜",

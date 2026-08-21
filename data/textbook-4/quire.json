@@ -22,11 +22,13 @@
       "collocations": [
         "acquire an email address: 获得了一个电子邮件地址",
         "acquire a reputation for..:以……而闻名",
-        "acquire a good knowledge of Chinese: 汉语学得很好"
+        "acquire a good knowledge of Chinese: 汉语学得很好",
+        "patient has to take ever larger doses to produce the desired effect.\n病人对于某种药可能获得了一种抗药性，这就意味着病人不得不服用 更大剂量的要去达到想要的效果。",
+        "acquire 的派生词有acquired, acquisition 等。"
       ],
       "etymology": null,
       "examples": [
-        "A patient may also acquire a tolerance for a certain drug,which means the\npatient has to take ever larger doses to produce the desired effect.\n病人对于某种药可能获得了一种抗药性，这就意味着病人不得不服用 更大剂量的要去达到想要的效果。\nacquire 的派生词有acquired, acquisition 等。"
+        "A patient may also acquire a tolerance for a certain drug,which means the"
       ],
       "rootHint": "quire"
     },
@@ -34,11 +36,12 @@
       "word": "acquired",
       "phonetic": "ə 'kwarod",
       "pos": "adj.",
-      "definition": "后天获得(习得)的15638",
-      "frequency": null,
+      "definition": "后天获得(习得)的",
+      "frequency": 15638,
       "mnemonic": null,
       "collocations": [
-        "acquired right: 既得权益acquired taste: 嗜好；爱好"
+        "acquired right: 既得权益acquired taste: 嗜好；爱好",
+        "AID S [edz] abbr. 获得性免疫缺乏综合症；爱滋病( Acquired Immure Deficiency Syndrome)2021"
       ],
       "etymology": null,
       "examples": [],
@@ -51,7 +54,11 @@
       "definition": "收购；获得；习得",
       "frequency": 3893,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the acquisition of a company: 收购一家公司",
+        "make this marvelous acquisition: 进行这宗不可思议的购置",
+        "language acquisition: 语言习得"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "quis"
@@ -60,13 +67,14 @@
       "word": "conquer",
       "phonetic": "'kpŋkə",
       "pos": "vt.",
-      "definition": "征服；攻占；克服6840",
-      "frequency": null,
+      "definition": "征服；攻占；克服",
+      "frequency": 6840,
       "mnemonic": "con-(=com-; 表加强)+-quer(=to gain: 获得；得到) → 获得(别 人的)土地；得到(他国)的国土 → 征服；攻占；克服",
       "collocations": [
         "conquer our differences: 消除我们的分歧",
         "conquer his addiction to smoking: 戒除过烟瘾",
-        "divide and conquer: 分而治之；各个击破"
+        "divide and conquer: 分而治之；各个击破",
+        "conquer 的派生词有 conquering,conqueror,conquest 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -79,7 +87,10 @@
       "definition": "征服",
       "frequency": 20163,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "worth conquering: 值得征服",
+        "succeed in conquering the difficult mountain: 成功地征服了那座难以攀 登的山"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "quire"
@@ -88,8 +99,8 @@
       "word": "conqueror",
       "phonetic": "'kpŋk(a)rə(r)",
       "pos": "n.",
-      "definition": "征服者16654",
-      "frequency": null,
+      "definition": "征服者",
+      "frequency": 16654,
       "mnemonic": null,
       "collocations": [
         "William the Conqueror: 征服者威廉(英格兰国王威廉一世) obey their conquerors: 顺从他们的征服者"
@@ -102,8 +113,8 @@
       "word": "conquest",
       "phonetic": "'kbŋkwest",
       "pos": "n.",
-      "definition": "征服；克服7790",
-      "frequency": null,
+      "definition": "征服；克服",
+      "frequency": 7790,
       "mnemonic": null,
       "collocations": [
         "the Spanish conquest of Mexico: 西班牙人对墨西哥的征服"

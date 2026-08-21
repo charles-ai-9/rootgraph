@@ -12,11 +12,12 @@
   "words" : [
     {
       "collocations" : [
+        "vex, distress; to be vexed at, take offense with”. Meaning “excite to wrath,\nmake angry” is from late 14c.",
         "be filled with anger：充满了愤怒",
         "cry with anger：愤怒地哭了"
       ],
       "definition" : "生气；愤怒 vt. 使愤怒；激怒",
-      "etymology" : "v. c. 1200, “to irritate, annoy, provoke,” from Old Norse angra “to grieve, vex, distress; to be vexed at, take offense with”. Meaning “excite to wrath, make angry” is from late 14c. n. Mid-13c., “hostile attitude, ill will, surliness”.",
+      "etymology" : "v. c. 1200, “to irritate, annoy, provoke,” from Old Norse angra “to grieve, n. Mid-13c., “hostile attitude, ill will, surliness”.",
       "examples" : [
         "The question clearly angered him.\n这个问题显然激怒了他。"
       ],
@@ -35,10 +36,11 @@
         "an angry sky：狂风暴雨的天空",
         "an angry sea：波涛汹涌的海面"
       ],
-      "definition" : "生气的；愤怒的；（海或天空）狂风暴雨的，波涛汹涌",
+      "definition" : "生气的；愤怒的；（海或天空）狂风暴雨的，波涛汹涌的",
       "examples" : [
         "Her behavior really made me angry.\n她的行为确实令我愤怒。"
       ],
+      "frequency" : 1717,
       "mnemonic" : "anger（生气；愤怒）+ -y（形容词后缀）→生气的，愤怒的",
       "phonetic" : "ˈæŋgrɪ",
       "pos" : "adj.",
@@ -61,12 +63,15 @@
     },
     {
       "collocations" : [
-        "an anxious look \/ face \/ expression：忧虑的目光\/面容\/表情"
+        "uneasy, troubled in mind”, figuratively “to torment, cause distress” (from\nPIE root *angh- “tight, painfully constricted, painful”). Meaning “earnestly\ndesirous” (as in anxious to please) is from 1742.",
+        "an anxious look \/ face \/ expression：忧虑的目光\/面容\/表情",
+        "He is anxious that there should be no delay.\n他焦急地希望不会有任何延误。",
+        "She was anxious to finish school and get a job.\n她渴望毕业找一份工作。"
       ],
       "definition" : "忧虑的；担心的；焦急的；渴望的",
-      "etymology" : "1620s, “greatly troubled by uncertainties,” from Latin anxius “solicitous, uneasy, troubled in mind”, figuratively “to torment, cause distress” (from PIE root *angh- “tight, painfully constricted, painful”). Meaning “earnestly desirous” (as in anxious to please) is from 1742.",
+      "etymology" : "1620s, “greatly troubled by uncertainties,” from Latin anxius “solicitous,",
       "examples" : [
-        "Parents are naturally anxious for their children.\n父母自然为儿女担心。\nHe is anxious that there should be no delay.\n他焦急地希望不会有任何延误。\nShe was anxious to finish school and get a job.\n她渴望毕业找一份工作。"
+        "Parents are naturally anxious for their children.\n父母自然为儿女担心。"
       ],
       "frequency" : 3864,
       "mnemonic" : "anx-（=ang-, g、x音变=troubled in mind, cause distress, earnestly\ndesirous：担忧的；焦虑的；渴望的）+ -ious（形容词后缀，表\n示……的）→对某人\/事情感到忧虑的，渴望的→忧虑的；焦急的；",
@@ -108,10 +113,11 @@
     },
     {
       "collocations" : [
+        "fear, anxiety, guilt, remorse,” from *angh- “tight, painfully constricted,",
         "songs full of teenage angst：充满青少年焦虑的歌曲"
       ],
       "definition" : "（对形势、事态、生活的）忧虑；焦虑",
-      "etymology" : "1944, from a specialized use in psychology of German Angst “neurotic fear, anxiety, guilt, remorse,” from *angh- “tight, painfully constricted, painful.”",
+      "etymology" : "1944, from a specialized use in psychology of German Angst “neurotic painful.”",
       "examples" : [
 
       ],
@@ -124,12 +130,13 @@
     },
     {
       "collocations" : [
-        "look at him in anguish：极度痛苦地看着他"
+        "look at him in anguish：极度痛苦地看着他",
+        "Tears of anguish filled her eyes.\n她双眸噙满了伤心的泪水。"
       ],
       "definition" : "剧痛；极度痛苦；苦恼",
       "etymology" : "n.：c. 1200, “acute bodily or mental suffering” v.：be troubled or distressed; feel agony, and cause grief, distress, or torment",
       "examples" : [
-        "He groaned in anguish.\n他痛苦地呻吟。\nTears of anguish filled her eyes.\n她双眸噙满了伤心的泪水。"
+        "He groaned in anguish.\n他痛苦地呻吟。"
       ],
       "frequency" : 8573,
       "mnemonic" : "ang-（=painful, distress：身体痛苦的；（精神、心灵上）极度痛苦，\n忧虑）+ -u-（连接词）+ -ish（名词后缀）→剧痛；极度痛苦；苦恼",
@@ -141,7 +148,7 @@
     {
       "collocations" : [
         "anguished cries：极度痛苦的喊声",
-        "an anguished letter from her prison cell：她从狱中寄来的一封悲痛欲绝"
+        "an anguished letter from her prison cell：她从狱中寄来的一封悲痛欲绝\n的信"
       ],
       "definition" : "极度痛苦的；悲痛欲绝的",
       "examples" : [

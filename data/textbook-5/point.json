@@ -14,16 +14,19 @@
   "words" : [
     {
       "collocations" : [
+        "neuter past participle punctum was used as a noun, meaning “small hole",
         "beside the point：不相关的",
         "to the point：中肯的",
-        "come to the point \/ get to the point：谈正题；言归正传"
+        "come to the point \/ get to the point：谈正题；言归正传\n笔 记 区\n20000 词汇巅峰\n速\n记\nmake one’s point or prove one’s point：证明自己的论点",
+        "point of view：观点；立场"
       ],
       "definition" : "论点；重点；意图 vi. 指向；表明 vt. 对准",
-      "etymology" : "c. 1200, “minute amount, single item in a whole; sharp end of a sword, etc.,” a merger of two words, both ultimately from Latin pungere “to prick, pierce,” from nasalized form of PIE root *peuk- “to prick.” The Latin neuter past participle punctum was used as a noun, meaning “small hole made by pricking”. 来自prick：扎；戳→扎、戳出来的小洞：point。 punct- \/ pung-：刺，击→刺出来的小洞：point",
+      "etymology" : "c. 1200, “minute amount, single item in a whole; sharp end of a sword, etc.,” a merger of two words, both ultimately from Latin pungere “to prick, pierce,” from nasalized form of PIE root *peuk- “to prick.” The Latin",
       "examples" : [
 
       ],
       "frequency" : 212,
+      "mnemonic" : "made by pricking”. 来自prick：扎；戳→扎、戳出来的小洞：point。\npunct- \/ pung-：刺，击→刺出来的小洞：point",
       "phonetic" : "pɒɪnt",
       "pos" : "n.",
       "rootHint" : "point",
@@ -102,7 +105,8 @@
     },
     {
       "collocations" : [
-        "the midpoint between New York and Chicago：纽约与芝加哥之间的中"
+        "the midpoint between New York and Chicago：纽约与芝加哥之间的中",
+        "reach the midpoint of her life：达到人生历程的一半"
       ],
       "definition" : "中点；中心位置；（事件进程的）中间",
       "examples" : [
@@ -118,7 +122,7 @@
     {
       "collocations" : [
         "pinpoint the cause of death：确定死因",
-        "pinpoint his precise location on a map：在地图上指出他的确切位置"
+        "pinpoint his precise location on a map：在地图上指出他的确切位置\n笔 记 区"
       ],
       "definition" : "准确指出（原因）；给……准确定位",
       "examples" : [
@@ -238,7 +242,7 @@
     {
       "collocations" : [
         "disappoint her fans：使她的歌迷失望",
-        "disappoint the hopes of many of its supporters：使许多支持者的希望破"
+        "disappoint the hopes of many of its supporters：使许多支持者的希望破\n灭了"
       ],
       "definition" : "使失望；使破灭",
       "examples" : [
@@ -284,10 +288,11 @@
         "to our great disappointment：令我们大失所望的是",
         "a bitter \/ major disappointment：令人极度失望 \/ 大失所望的事"
       ],
-      "definition" : "失望；沮丧；使人失望的人（或事",
+      "definition" : "失望；沮丧；使人失望的人（或事物）；令人扫兴的人（或事物）",
       "examples" : [
 
       ],
+      "frequency" : 4617,
       "phonetic" : "dɪsəˈpɒɪntm(ə)nt",
       "pos" : "n.",
       "rootHint" : "point",
@@ -310,17 +315,18 @@
     },
     {
       "collocations" : [
+        "stab, puncture” is from mid-15c.",
         "punch out：用拳猛击",
         "punch him on the chin：对准他的下巴猛击一拳",
         "punch a hole in the carton：在纸板箱上戳了个孔",
-        "without sufficient punch：不够有力",
-        "punch in \/ out：用记时卡登录（上、下班）时间；刷记时卡"
+        "without sufficient punch：不够有力\npunch in \/ out：用记时卡登录（上、下班）时间；刷记时卡\n笔 记 区"
       ],
-      "definition" : "用拳猛击；按（键或钮）；在……上打孔 n. 一拳；力",
-      "etymology" : "“to thrust, push; jostle;” also, “prod, to drive (cattle, etc.) by poking and 20000 词汇巅峰 速 记 prodding,” late 14c., from Old French ponchonner “to punch, prick, stamp,” from ponchon “pointed tool, piercing weapon” (see punch (n.1)). Meaning “to pierce, emboss with a tool” is from early 15c.; meaning “to stab, puncture” is from mid-15c.",
+      "definition" : "用拳猛击；按（键或钮）；在……上打孔 n. 一拳；力量；效力",
+      "etymology" : "“to thrust, push; jostle;” also, “prod, to drive (cattle, etc.) by poking and 20000 词汇巅峰 速 记 prodding,” late 14c., from Old French ponchonner “to punch, prick, stamp,” from ponchon “pointed tool, piercing weapon” (see punch (n.1)). Meaning “to pierce, emboss with a tool” is from early 15c.; meaning “to",
       "examples" : [
 
       ],
+      "frequency" : 4393,
       "mnemonic" : "-punct-：刺，戳→punch：用拳猛击；按键；打孔；力量",
       "phonetic" : "pʌn(t)ʃ",
       "pos" : "vt.",

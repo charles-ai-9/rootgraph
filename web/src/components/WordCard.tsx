@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordAffixNotes, WordEntry } from '../types';
 import { copyText } from '../utils/clipboard';
 import { analyzeWordRoots, rootsForWord } from '../utils/rootHighlight';
@@ -85,6 +85,11 @@ export function WordCard({
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
+
+  /** 深链/搜索定位聚焦时自动展开详情（同页点击不重挂载，需显式展开） */
+  useEffect(() => {
+    if (highlighted) setExpanded(true);
+  }, [highlighted]);
   const highlightRoots = rootsForWord(familyRoots, word.word, word.rootHint, mnemonicNote);
   const rootAnalysis = analyzeWordRoots(familyRoots, word.word, word.rootHint, mnemonicNote);
   const hasMnemonic = Boolean(mnemonicNote.trim());
@@ -129,15 +134,27 @@ export function WordCard({
           title={expanded ? '点击收起' : '点击展开'}
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
-          <span
-            className={`word-head-word ${copied ? 'word-copied' : ''}`}
-            title="点击复制单词"
-            onClick={handleCopyWord}
-          >
+          <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
             <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
           </span>
+          <button
+            type="button"
+            className={`word-copy-btn ${copied ? 'is-copied' : ''}`}
+            title="复制单词"
+            aria-label={`复制 ${word.word}`}
+            onClick={handleCopyWord}
+          >
+            <svg viewBox="0 0 16 16" width="13" height="13" aria-hidden="true">
+              <rect x="5.6" y="5.6" width="7.8" height="7.8" rx="1.6" fill="none" stroke="currentColor" strokeWidth="1.4" />
+              <path d="M10.6 3.4h-6a1 1 0 0 0-1 1v6" fill="none" stroke="currentColor" strokeWidth="1.4" strokeLinecap="round" />
+            </svg>
+          </button>
 
           {word.phonetic && <span className="word-phonetic">/{word.phonetic}/</span>}
+
+          {word.pos && (
+            <span className={`word-pos-inline ${expanded ? 'is-hidden' : ''}`}>{word.pos}</span>
+          )}
 
           {variant?.canonical && (
             <span
@@ -153,6 +170,21 @@ export function WordCard({
           {word.definition && (
             <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{word.definition}</span>
           )}
+
+          <div className="affix-open-group">
+            <AffixKindButton
+              kind="prefix"
+              note={affixNotes.prefix}
+              word={word}
+              onOpen={() => setPrefixOpen(true)}
+            />
+            <AffixKindButton
+              kind="suffix"
+              note={affixNotes.suffix}
+              word={word}
+              onOpen={() => setSuffixOpen(true)}
+            />
+          </div>
 
           {hasAnyNote && (
             <span className="word-has-note-dot" title="有笔记/词缀记录">●</span>
@@ -172,23 +204,6 @@ export function WordCard({
                 )}
               </div>
             )}
-
-            <div className="word-card-actions">
-              <div className="affix-open-group">
-                <AffixKindButton
-                  kind="prefix"
-                  note={affixNotes.prefix}
-                  word={word}
-                  onOpen={() => setPrefixOpen(true)}
-                />
-                <AffixKindButton
-                  kind="suffix"
-                  note={affixNotes.suffix}
-                  word={word}
-                  onOpen={() => setSuffixOpen(true)}
-                />
-              </div>
-            </div>
 
             <section className="word-card-notes personal-note-block">
               <h4>我的笔记</h4>

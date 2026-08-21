@@ -14,10 +14,11 @@
       "collocations" : [
         "conserve energy：节省能源"
       ],
-      "definition" : "节省；保存 n. （含有大块或整块水果的）果酱，蜜",
+      "definition" : "节省；保存 n. （含有大块或整块水果的）果酱，蜜饯",
       "examples" : [
 
       ],
+      "frequency" : 8084,
       "mnemonic" : "con-（强调前缀）+ serv-（=to keep, preserve：保存）+ e→全部保留，\n保存→保存；节省；果酱",
       "phonetic" : "kənˈsɜːv",
       "pos" : "vt.",
@@ -29,10 +30,11 @@
         "energy conservation：能源节约",
         "elephant conservation：大象保护"
       ],
-      "definition" : "（对环境的）保护；（对历史文物、艺术品",
+      "definition" : "（对环境的）保护；（对历史文物、艺术品等的）保护；节约",
       "examples" : [
 
       ],
+      "frequency" : 4432,
       "phonetic" : "kɒnsəˈveɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "serv",
@@ -40,11 +42,13 @@
     },
     {
       "collocations" : [
-        "a conservative estimate：一个保守估计"
+        "a conservative estimate：一个保守估计",
+        "as they get older. 人们在年轻时常常更开放，年纪越大就越保守。",
+        "The girl was well dressed, as usual, though in a more conservative style.\n这个女孩像平常一样穿着得体，但式样则更守旧。"
       ],
       "definition" : "（观点）保守的；保守的（估计、猜测）；（衣着）守旧的 n. 右倾人士；保守党",
       "examples" : [
-        "People tend to be more liberal when they’re young and more conservative\nas they get older. 人们在年轻时常常更开放，年纪越大就越保守。\nThe girl was well dressed, as usual, though in a more conservative style.\n这个女孩像平常一样穿着得体，但式样则更守旧。"
+        "People tend to be more liberal when they’re young and more conservative"
       ],
       "frequency" : 1851,
       "phonetic" : "kənˈsɜːvətɪv",
@@ -118,10 +122,11 @@
         "the preserve of the president：总统的独揽之事",
         "wildlife preserves：野生动物保护区"
       ],
-      "definition" : "维护；保护；保藏食物 n. 保藏；果酱；独揽之事；保",
+      "definition" : "维护；保护；保藏食物 n. 保藏；果酱；独揽之事；保护区",
       "examples" : [
 
       ],
+      "frequency" : 2229,
       "mnemonic" : "pre-（=before：在前）+ serv-（==save：保留，保存）+e→维护；保\n护；保存；保护区→引申为保藏；果酱（提前保藏食物使之免于腐",
       "phonetic" : "prɪˈzɜːv",
       "pos" : "vt.",
@@ -130,7 +135,8 @@
     },
     {
       "collocations" : [
-        "artificial preservatives：人造防腐剂"
+        "artificial preservatives：人造防腐剂",
+        "preservative treatment：防腐处理\n笔 记 区"
       ],
       "definition" : "防腐剂 adj. 保藏的",
       "examples" : [
@@ -146,7 +152,9 @@
     {
       "collocations" : [
         "the preservation of the status quo：现状的维护",
-        "food preservation：保藏食物"
+        "food preservation：保藏食物",
+        "the preservation of buildings of architectural or historic interest：\n对具有建筑学或历史意义的建筑物的保护",
+        "an exceptionally fine state of preservation：保存地非常完好"
       ],
       "definition" : "维护；保护；保存的状况",
       "examples" : [
@@ -161,12 +169,15 @@
     },
     {
       "collocations" : [
-        "architectural preservationist：历史建筑保护主义者"
+        "architectural preservationist：历史建筑保护主义者",
+        "preservationist is a supporter or advocate of the preservation of something,",
+        "especially of historic buildings and artefacts."
       ],
-      "definition" : "（尤指对历史建筑、工艺品的）保护主",
+      "definition" : "（尤指对历史建筑、工艺品的）保护主义者",
       "examples" : [
 
       ],
+      "frequency" : 18986,
       "mnemonic" : "preservation（维护；保护）+ -ist（名词后缀，表示人）→保护主义者",
       "phonetic" : "prezəˈveɪʃ(ə)nɪst",
       "pos" : "n.",
@@ -181,10 +192,11 @@
         "oil reserves：石油储备",
         "overcome your reserve：克服矜持"
       ],
-      "definition" : "预订（=book）；保留；拥有（某种权利） n. 储备；保",
+      "definition" : "预订（=book）；保留；拥有（某种权利） n. 储备；保护区；矜持",
       "examples" : [
 
       ],
+      "frequency" : 3776,
       "mnemonic" : "re-（反复）+ -serv-（保留；保存）+ e→反复保留，保存→预订；保",
       "phonetic" : "rɪˈzɜːv",
       "pos" : "vt.",
@@ -193,7 +205,8 @@
     },
     {
       "collocations" : [
-        "make a reservation：做了预订"
+        "make a reservation：做了预订",
+        "without reservation：毫无保留地"
       ],
       "definition" : "预约；保留意见；保留地",
       "examples" : [
@@ -207,12 +220,14 @@
     },
     {
       "collocations" : [
-        "all rights reserved：版权所有"
+        "all rights reserved：版权所有",
+        "unreserved apologies：诚恳的道歉"
       ],
       "definition" : "寡言少语的；预订的；缄默的，冷淡的；包租的",
       "examples" : [
 
       ],
+      "frequency" : 9944,
       "phonetic" : "rɪˈzɜːvd",
       "pos" : "adj.",
       "rootHint" : "serv",
@@ -220,7 +235,8 @@
     },
     {
       "collocations" : [
-
+        "in the regular army of a country, but who can be called to serve whenever",
+        "they are needed."
       ],
       "definition" : "预备役军人",
       "examples" : [
@@ -234,6 +250,7 @@
     },
     {
       "collocations" : [
+        "voir和wa二者读音非常接近，前者在模仿后者）→保存水的地方→水\n库；蓄水池；（大量的）储备",
         "gas reservoir：气藏；气田；天然气储层",
         "water reservoir：蓄水池"
       ],
@@ -242,7 +259,7 @@
 
       ],
       "frequency" : 5992,
-      "mnemonic" : "reserv（保留；保存）+（v）oir（=water：水；t无意义，er为后缀；\nvoir和wa二者读音非常接近，前者在模仿后者）→保存水的地方→水",
+      "mnemonic" : "reserv（保留；保存）+（v）oir（=water：水；t无意义，er为后缀；",
       "phonetic" : "ˈrezəvwɑ:(r)",
       "pos" : "n.",
       "rootHint" : "serv",
@@ -252,7 +269,7 @@
       "collocations" : [
         "observe the behaviour of babies：观察婴儿的行为",
         "observe a ceasefire：遵守一项停火协议",
-        "observe Thanksgiving：庆祝感恩节"
+        "observe Thanksgiving：庆祝感恩节\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "观察；评述；遵从；庆祝",
       "examples" : [
@@ -298,7 +315,8 @@
     {
       "collocations" : [
         "astronomical observatory：天文台",
-        "meteorological observatory：气象台；气象观测所"
+        "meteorological observatory：气象台；气象观测所\n释义：（N-COUNT）天文台 An observatory is a building with a large telescope",
+        "from which scientists study things such as the planets by watching them."
       ],
       "definition" : "天文台；气象台",
       "examples" : [
@@ -357,12 +375,13 @@
     {
       "collocations" : [
         "observance of the law：守法",
-        "religious observances：宗教仪式"
+        "religious observances：宗教仪式\n反义词：non-observance：违反，不遵从（规章、习俗等）"
       ],
-      "definition" : "（对法律、习俗等的）遵守；（节日的）纪念",
+      "definition" : "（对法律、习俗等的）遵守；（节日的）纪念20000 词汇巅峰速记笔 记 区",
       "examples" : [
 
       ],
+      "frequency" : 13701,
       "phonetic" : "əbˈzɜːv(ə)ns",
       "pos" : "n.",
       "rootHint" : "serv",
@@ -370,11 +389,11 @@
     },
     {
       "collocations" : [
-
+        "How very observant of you! 你真有眼力！\n近义词：sharp-eyed：眼尖的；目光敏锐的\n词根 serv- 也表示“服务”。"
       ],
       "definition" : "善于观察的；观察力敏锐的",
       "examples" : [
-        "Observant walkers may see red deer along this stretch of the road.\n观察敏锐的步行者可能在这一路段看到赤鹿。\nHow very observant of you! 你真有眼力！\n近义词：sharp-eyed：眼尖的；目光敏锐的\n词根 serv- 也表示“服务”。"
+        "Observant walkers may see red deer along this stretch of the road.\n观察敏锐的步行者可能在这一路段看到赤鹿。"
       ],
       "frequency" : 16737,
       "phonetic" : "əbˈzɜːv(ə)nt",
@@ -384,16 +403,20 @@
     },
     {
       "collocations" : [
+        "table, serve at table; offer, provide with,” from Latin servire “be a servant,",
+        "be in service, be enslaved;” figuratively “be devoted; be governed by;",
+        "comply with; conform; flatter,” originally “be a slave,” related to servus",
         "serve the country：效力国家",
         "serve as her office：做她的办公室",
         "serve useful purpose：起作用",
         "serve the interests of all the people：符合全体民众的利益"
       ],
-      "definition" : "&vi. 对……有用；上（菜、饮料） vt. 为……服务；提供；满",
-      "etymology" : "Late 12c., “to render habitual obedience to,” also “minister, give aid, give help,” from Old French servir “to do duty toward, show devotion to; set table, serve at table; offer, provide with,” from Latin servire “be a servant, be in service, be enslaved;” figuratively “be devoted; be governed by; comply with; conform; flatter,” originally “be a slave,” related to servus “slave,” which is of uncertain origin.",
+      "definition" : "&vi. 对……有用；上（菜、饮料） vt. 为……服务；提供；满足，对……有益 vi. 任职",
+      "etymology" : "Late 12c., “to render habitual obedience to,” also “minister, give aid, give help,” from Old French servir “to do duty toward, show devotion to; set “slave,” which is of uncertain origin.",
       "examples" : [
         "Serve the cakes warm. 烤饼要趁热端上来"
       ],
+      "frequency" : 402,
       "mnemonic" : "serve：give help, do duty toward, serve at table, provide with→对……有",
       "phonetic" : "sɜːv",
       "pos" : "vt.",
@@ -433,7 +456,8 @@
     },
     {
       "collocations" : [
-        "a large Victorian family with several servants："
+        "a large Victorian family with several servants：",
+        "public servants：公务员"
       ],
       "definition" : "仆人，佣人",
       "examples" : [
@@ -507,6 +531,7 @@
     },
     {
       "collocations" : [
+        "merit, be worthy of：值得；应得",
         "deserve a rest：该休息一下了",
         "deserve a mention：值得表扬"
       ],
@@ -515,7 +540,7 @@
 
       ],
       "frequency" : 2244,
-      "mnemonic" : "de-（加强语气）+serve（服务）→因热情服务而得到某项权利→to\nmerit, be worthy of：值得；应得",
+      "mnemonic" : "de-（加强语气）+serve（服务）→因热情服务而得到某项权利→to",
       "phonetic" : "dɪˈzɜːv",
       "pos" : "vi.",
       "rootHint" : "serv",
@@ -524,7 +549,7 @@
     {
       "collocations" : [
         "to give money to a deserving cause：把钱捐给值得赞助的事业",
-        "an issue deserving of attention：值得注意的问题"
+        "an issue deserving of attention：值得注意的问题\n反义词：undeserving：不够格的；不该得到的"
       ],
       "definition" : "值得的；值得帮助的",
       "examples" : [
@@ -586,11 +611,12 @@
       "collocations" : [
 
       ],
-      "definition" : "（尤指法国公寓等处的）看门人；（宾馆中负责提",
+      "definition" : "（尤指法国公寓等处的）看门人；（宾馆中负责提供信息、订票等的）服务台职员",
       "etymology" : "来自拉丁语conservus “fellow slave：仆人同伴”。",
       "examples" : [
         "When I asked for the key to the room, the concierge handed me several\nmessages. 当我要房间钥匙的时候，旅馆服务员递给我几张便条。"
       ],
+      "frequency" : 16154,
       "mnemonic" : "con-（=together：一起）+-cierge（=slave：奴隶，来自serv-：服务）\n→一起做仆人，服务别人的人→看门人；服务台职员",
       "phonetic" : "ˈkɒnsɪeəʒ",
       "pos" : "n.",

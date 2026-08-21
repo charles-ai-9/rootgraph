@@ -20,7 +20,7 @@
 
       ],
       "frequency" : 10508,
-      "mnemonic" : "poly-（=many：多，复，聚）+-mer（=part：部分）→各部分聚合在",
+      "mnemonic" : "poly-（=many：多，复，聚）+-mer（=part：部分）→各部分聚合在\n一起→聚合物",
       "phonetic" : "ˈpɒlɪmə",
       "pos" : "n.",
       "rootHint" : "poly",
@@ -66,7 +66,7 @@
 
       ],
       "frequency" : 19505,
-      "mnemonic" : "poly-（=many：多）+ -gamy（=marriage：婚姻）→often married：\n（男人）经常结婚→一夫多妻（制）",
+      "mnemonic" : "poly-（=many：多）+ -gamy（=marriage：婚姻）→often married：\n（男人）经常结婚→一夫多妻（制）\n+ -y（名词后缀，表状态）→男人\/丈夫多的女人→一妻多夫（制）",
       "phonetic" : "pəˈlɪgəmɪ",
       "pos" : "n.",
       "rootHint" : "poly",
@@ -89,14 +89,16 @@
     },
     {
       "collocations" : [
+        "multitude; troop, army”.",
         "folk art：民间艺术",
-        "folk medicine：民间医药"
+        "folk medicine：民间医药\n笔 记 区"
       ],
-      "definition" : "人们；家人（复数）；亲属（复数） adj. 传统民间的；民俗",
-      "etymology" : "来自古英语folc “common people, laity; men; people, nation, tribe; multitude; troop, army”.",
+      "definition" : "人们；家人（复数）；亲属（复数） adj. 传统民间的；民俗的",
+      "etymology" : "来自古英语folc “common people, laity; men; people, nation, tribe;",
       "examples" : [
 
       ],
+      "frequency" : 1346,
       "mnemonic" : "folk：common people：普通人→人们；民间的",
       "phonetic" : "fəʊk",
       "pos" : "n.",

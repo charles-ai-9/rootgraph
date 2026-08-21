@@ -30,6 +30,13 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
         value={value}
         onChange={(e) => onChange(e.target.value)}
         onBlur={finish}
+        onKeyDown={(e) => {
+          // Enter 保存并退出；Shift+Enter 换行
+          if (e.key === 'Enter' && !e.shiftKey) {
+            e.preventDefault();
+            finish();
+          }
+        }}
       />
     );
   }

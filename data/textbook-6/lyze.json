@@ -36,6 +36,7 @@
       "examples" : [
 
       ],
+      "frequency" : 2883,
       "mnemonic" : "re-（再次）+ -lax（=loose：放松；松弛）→再次放松→使放松，休\n息；松开；→放宽（限制等）；使放心",
       "phonetic" : "rɪˈlæks",
       "pos" : "vt.",
@@ -62,10 +63,11 @@
         "relaxation time：休息时间",
         "the relaxation of foreign currency controls：对外汇管制的放宽"
       ],
-      "definition" : "放松；休息；休闲活动；（对规章制度的）放",
+      "definition" : "放松；休息；休闲活动；（对规章制度的）放宽，放松",
       "examples" : [
         "Fishing is his favorite relaxation.\n钓鱼是他最喜欢的消遣活动。"
       ],
+      "frequency" : 8218,
       "mnemonic" : "relax-（放松；休息；放宽）+ -ation（名词后缀）→放松；休息；休",
       "phonetic" : "ˌriːlækˈseɪʃn",
       "pos" : "n.",
@@ -92,10 +94,11 @@
         "lease the land：租得土地",
         "a (new) lease of life：延年益寿；生活质量更好"
       ],
-      "definition" : "（房屋、设备或土地的）租约，租契 vt. 租借，出租（尤指房",
+      "definition" : "（房屋、设备或土地的）租约，租契 vt. 租借，出租（尤指房地产或设备）",
       "examples" : [
 
       ],
+      "frequency" : 6126,
       "mnemonic" : "来自lax, loose：放松；松开→松开所拥有房屋的居住权，租给别人→",
       "phonetic" : "liːs",
       "pos" : "n.",
@@ -122,7 +125,7 @@
         "release obligations：解除义务",
         "release creativity：释放创造力",
         "release wrist：放开手腕",
-        "press release：新闻稿；通讯稿（印刷品；发行物）"
+        "press release：新闻稿；通讯稿（印刷品；发行物）\n笔 记 区"
       ],
       "definition" : "放走；解除；释放；放开；发行 n. 放走；解除；释放；20000 词汇巅峰速记放开；发行物",
       "examples" : [
@@ -155,11 +158,11 @@
         "slacken off：放松",
         "slack off：偷懒",
         "slack season：淡季",
-        "阅读难点：beaver away：努力工作，勤奋工作"
+        "in any case, before hitting a plateau and then slackening off.\n在任何情况下，工人们总是在每个工作周的前几天努力工作，达到一\n个平稳时期，然后又松懈下来。\n阅读难点：beaver away：努力工作，勤奋工作"
       ],
       "definition" : "松弛的，宽松的；不景气的；松懈的 vi. 偷懒",
       "examples" : [
-        "Workers tended to beaver away for the first few days of the working week\nin any case, before hitting a plateau and then slackening off.\n在任何情况下，工人们总是在每个工作周的前几天努力工作，达到一\n个平稳时期，然后又松懈下来。"
+        "Workers tended to beaver away for the first few days of the working week"
       ],
       "frequency" : 7102,
       "mnemonic" : "s（加强语气）+ lack（缺乏）→缺乏（人气的）→萧条的；松懈的；",
@@ -170,11 +173,12 @@
     },
     {
       "collocations" : [
-
+        "People tend to beaver away\/strive\/try hard for a period of time at the",
+        "starting phase, before hitting a plateau and then slackening off.\n笔 记 区\n20000 词汇巅峰\n速\n记\n单词 sleep 也与“slack：松弛的；倦怠的”有关。表示“睡眠；睡觉”。"
       ],
-      "definition" : "高原；（发展、增长后的）稳定期，停滞期 vi. （在一",
+      "definition" : "高原；（发展、增长后的）稳定期，停滞期 vi. （在一段时期的发展后）保持稳定水平，处于停滞状态",
       "examples" : [
-        "人们总是在开始阶段努力一段时间，在达到一个平稳期后，就松\n懈下来。\nPeople tend to beaver away\/strive\/try hard for a period of time at the\nstarting phase, before hitting a plateau and then slackening off."
+        "人们总是在开始阶段努力一段时间，在达到一个平稳期后，就松\n懈下来。"
       ],
       "phonetic" : "ˈplætəʊ",
       "pos" : "n.",
@@ -184,14 +188,14 @@
     {
       "collocations" : [
         "go to sleep\/get to sleep：睡觉\/入睡",
-        "lose any sleep over something：担心",
-        "sleep on it：再考虑一下；把……留待以后解决",
+        "lose any sleep over something：担心\nsleep on it：再考虑一下；把……留待以后解决",
         "be put to sleep：使（有病或受伤的动物）无痛苦地死去"
       ],
       "definition" : "睡，睡觉 vt. 供……住宿 n. 睡眠；睡觉；（一段）睡眠时间",
       "examples" : [
 
       ],
+      "frequency" : 1176,
       "phonetic" : "sliːp",
       "pos" : "vi.",
       "rootHint" : "lyze",
@@ -262,7 +266,7 @@
     {
       "collocations" : [
         "sleepless nights：不眠之夜",
-        "lay sleepless：躺着睡不着觉"
+        "lay sleepless：躺着睡不着觉\n笔 记 区\n词根 -lush 也与“lax-, loose：放松；松开”同源，现在主要指植物生长\n繁茂“luxuriant in growth”。进而引申出“丰富；豪华；奢侈”等含义。"
       ],
       "definition" : "不眠的；无法入睡的15118",
       "examples" : [
@@ -318,6 +322,7 @@
 
       ],
       "frequency" : 15425,
+      "mnemonic" : "邪记：delicious（美味的）口语licious→后来拼作luscious（美味的），也有",
       "phonetic" : "ˈlʌʃəs",
       "pos" : "adj.",
       "rootHint" : "lyze",
@@ -390,11 +395,11 @@
     },
     {
       "collocations" : [
-
+        "The company gradually languished.\n这家公司逐渐衰败了。"
       ],
       "definition" : "长期受苦；受煎熬；变得衰弱；未能取得进展",
       "examples" : [
-        "Share prices languished at 102p.\n股票价格停滞在102便士上。\nThe company gradually languished.\n这家公司逐渐衰败了。"
+        "Share prices languished at 102p.\n股票价格停滞在102便士上。"
       ],
       "frequency" : 11971,
       "mnemonic" : "langu（=loose：松弛的）+ -ish（动词后缀，造成……）→变得衰弱\n→因此长期受苦",
@@ -405,7 +410,8 @@
     },
     {
       "collocations" : [
-        "a languid wave of the hand：懒洋洋一挥手"
+        "a languid wave of the hand：懒洋洋一挥手",
+        "a languid afternoon in the sun：阳光下一个懒洋洋的下午\n笔 记 区"
       ],
       "definition" : "慢悠悠的；慵懒的",
       "examples" : [

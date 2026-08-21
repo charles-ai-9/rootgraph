@@ -50,10 +50,11 @@
         "be carted away：被运走",
         "cart our luggage up six flights of stairs：把行李提着上六段楼梯"
       ],
-      "definition" : "（两轮或四轮）运货马车；手推车；小型机动车 vt. 用车装",
+      "definition" : "（两轮或四轮）运货马车；手推车；小型机动车 vt. 用车装运；（常指费力地）运送",
       "examples" : [
 
       ],
+      "frequency" : 4093,
       "mnemonic" : "carr-：车→cart：运货马车；手推车；小型机动车；用车装运",
       "phonetic" : "kɑːt",
       "pos" : "n.",
@@ -63,7 +64,7 @@
     {
       "collocations" : [
         "an open carriage：敞篷马车",
-        "elegant railway carriages：精致的火车车厢"
+        "elegant railway carriages：精致的火车车厢\n￡16.95 including VAT and carriage：16.95英镑，包含增值税和运费"
       ],
       "definition" : "（载客的）四轮马车；火车车厢；运输费用",
       "examples" : [
@@ -128,10 +129,11 @@
       "collocations" : [
         "carry-on baggage：随身携带的行李"
       ],
-      "definition" : "随身携带的 n.（对小事的）大惊小怪；（可随身携",
+      "definition" : "随身携带的 n.（对小事的）大惊小怪；（可随身携带上飞机的）小包，小行李箱",
       "examples" : [
         "What a carry-on!\n真是大惊小怪！"
       ],
+      "frequency" : 18768,
       "mnemonic" : "carry（携带）+ on（带在……身上）→随身携带的；可随身携带的小",
       "phonetic" : "ˈkæriɔn",
       "pos" : "adj.",
@@ -195,7 +197,7 @@
 
       ],
       "frequency" : 18004,
-      "mnemonic" : "caro-（=马车；跑）+ u（表连接）+ -sel（名词后缀，表示召集）→\n行李、马车在一起跑→（机场的）行李传送带；旋转木马",
+      "mnemonic" : "caro-（=马车；跑）+ u（表连接）+ -sel（名词后缀，表示召集）→\n行李、马车在一起跑→（机场的）行李传送带；旋转木马\nCounsel [coun-（一起）+ -sel（召集）→召集你们一起来的目的是为\n了劝告你们→劝告；建议；律师；法律顾问\nCounselor：顾问；律师；法律顾问",
       "phonetic" : "ˌkærəˈsel",
       "pos" : "n.",
       "rootHint" : "car",
@@ -203,17 +205,19 @@
     },
     {
       "collocations" : [
+        "Charge也有“突然猛冲；猛攻”的含义。",
         "charge up：给……充电",
         "in charge：负责",
         "free of charge：免费",
-        "put something on charge：把……记在账上",
-        "bring\/press\/prefer charges against sb.：起诉；控告"
+        "put something on charge：把……记在账上\nbring\/press\/prefer charges against sb.：起诉；控告",
+        "His charge was to obtain specific information.\n他的任务是收集具体的信息。"
       ],
-      "definition" : "&vi. 要价；收费 vt. 记在……的账上；给……充电 vt. 指控",
-      "etymology" : "carr-装载→ charge装载。来自古法语charge“load, burden：负载；重 担”。它的大部分含义皆引申于此。例如“索价，要……支付”，使 笔 记 区 20000 词汇巅峰 速 记 人负担费用，就是给人“加负担”；“控告，指控”，使人负有罪 名，也是给人“加负担”；而“充电”，是在给电池“装载”电荷。 Charge也有“突然猛冲；猛攻”的含义。",
+      "definition" : "&vi. 要价；收费 vt. 记在……的账上；给……充电 vt. 指控vi. 冲 n. 冲；费用；指控；负荷；掌管；任务",
+      "etymology" : "carr-装载→ charge装载。来自古法语charge“load, burden：负载；重 担”。它的大部分含义皆引申于此。例如“索价，要……支付”，使 笔 记 区 20000 词汇巅峰 速 记 人负担费用，就是给人“加负担”；“控告，指控”，使人负有罪 名，也是给人“加负担”；而“充电”，是在给电池“装载”电荷。",
       "examples" : [
-        "He led the charge down the field.\n他努力沿着球场冲杀过去。\nHis charge was to obtain specific information.\n他的任务是收集具体的信息。"
+        "He led the charge down the field.\n他努力沿着球场冲杀过去。"
       ],
+      "frequency" : 926,
       "phonetic" : "tʃɑːdʒ",
       "pos" : "vt.",
       "rootHint" : "char",
@@ -267,12 +271,15 @@
         "electrical discharges：放电",
         "the discharge of debts\/obligations：债务的清偿；义务的履行",
         "discharge from the hospital：出院",
-        "discharge into the sea：流入大海"
+        "discharge into the sea：流入大海\n20000 词汇巅峰\n速\n记",
+        "to discharge a debt (= to pay it)：清偿债务",
+        "to discharge your duties\/responsibilities\/obligations：履行职责\/责任\/义务"
       ],
-      "definition" : "准许（某人）离开；解雇；释放；流入；放",
+      "definition" : "准许（某人）离开；解雇；释放；流入；放（电）；尽（职）；履行 n. 流出（物）；获准离开；免职；（任务或职责的）履行；（债务的）清偿",
       "examples" : [
         "Lightning is caused by clouds discharging electricity.\n闪电是由云层放电产生的。"
       ],
+      "frequency" : 6299,
       "mnemonic" : "dis-（表相反）+ charge（=carr-：装载火车或马车）→即卸货→解",
       "phonetic" : "dɪsˈtʃɑːdʒ",
       "pos" : "vt.",
@@ -281,13 +288,17 @@
     },
     {
       "collocations" : [
-        "a caricature of my views：对我观点的夸张描述"
+        "a caricature of my views：对我观点的夸张描述",
+        "Her political career has been caricatured in the headlines.\n她的政治生涯在新闻头条里被夸张嘲弄了。\n比较：caricature和cartoon都含有“漫画”之意，但词源不同，区别在于：",
+        "cartoon通常适合儿童，而caricature强调讽刺，通常面向成人。",
+        "caricature of Angela Merkel：默克尔漫画\n单词 horse 含义为“马”，也与词根“cur-：跑”同源。"
       ],
       "definition" : "人物漫画；夸张的描述 vt. 把……画成漫画",
       "etymology" : "动词caricare的本意是“an overloading：货车超载”、“an exaggeration： 夸张的描述”。后来表示“用于讽刺的夸张性漫画”。",
       "examples" : [
-        "She was unfairly caricatured as a dumb blonde.\n她被不公正地丑化（夸张地描述）成了一个傻头傻脑的金发女郎。\nHer political career has been caricatured in the headlines.\n她的政治生涯在新闻头条里被夸张嘲弄了。\n比较：caricature和cartoon都含有“漫画”之意，但词源不同，区别在于：\ncartoon通常适合儿童，而caricature强调讽刺，通常面向成人。\ncaricature of Angela Merkel：默克尔漫画\n单词 horse 含义为“马”，也与词根“cur-：跑”同源。"
+        "She was unfairly caricatured as a dumb blonde.\n她被不公正地丑化（夸张地描述）成了一个傻头傻脑的金发女郎。"
       ],
+      "frequency" : 11029,
       "phonetic" : "ˈkærɪkətʃʊə(r)",
       "pos" : "n.",
       "rootHint" : "car",
@@ -295,7 +306,12 @@
     },
     {
       "collocations" : [
-        "dark horse：黑马（出人意外获胜的赛马或参赛人）"
+        "dark horse：黑马（出人意外获胜的赛马或参赛人）",
+        "change horses：（途中）换马；换主持人；换人马",
+        "(straight) from the horse’s mouth：（消息等）来自可靠人士",
+        "hold your horses：且慢；请三思",
+        "horses for courses：知人善任（含义来自马在合适的跑道上跑得更快）",
+        "you can lead\/take a horse to water, but you can’t make it drink：牵马近水\n易，逼马饮水难；机会可以给，做不做由人；老牛不饮水，不能强按头"
       ],
       "definition" : "马；赛马",
       "etymology" : "来自古英语hors：马。来自印欧语词根kers- “to run：跑”，来自拉 丁语词源currere “to run：跑”。",
@@ -314,10 +330,11 @@
         "to ride horseback：骑马",
         "on horseback：骑着马；驾驭着马"
       ],
-      "definition" : "马背 adj. 在马背上的；骑着马的 adv. 在马背上；骑",
+      "definition" : "马背 adj. 在马背上的；骑着马的 adv. 在马背上；骑马",
       "examples" : [
 
       ],
+      "frequency" : 9531,
       "mnemonic" : "horse（马）+ back（背）→马背；在马背上；骑马",
       "phonetic" : "ˈhɔːsbæk",
       "pos" : "n.",
@@ -347,6 +364,7 @@
       "examples" : [
 
       ],
+      "frequency" : 14464,
       "mnemonic" : "horse（马）+ shoe（鞋）→马的鞋（的形状）→即马蹄铁（在民间传",
       "phonetic" : "ˈhɔːsʃuː; -ʃʃ-",
       "pos" : "n.",
@@ -377,7 +395,7 @@
 
       ],
       "frequency" : 19576,
-      "mnemonic" : "work（工作）+ horse（马）→干活的马；像马一样（苦干）工作的人",
+      "mnemonic" : "work（工作）+ horse（马）→干活的马；像马一样（苦干）工作的人\n→服役的马；吃苦耐劳的人",
       "phonetic" : "ˈwɜːkhɔːs",
       "pos" : "n.",
       "rootHint" : "car",
@@ -401,12 +419,16 @@
     {
       "collocations" : [
         "focus on：关注；集中",
-        "in focus：（图像）清晰；（相机、望远镜或其他仪器）对准焦点；"
+        "in focus：（图像）清晰；（相机、望远镜或其他仪器）对准焦点；",
+        "out of focus：（图像）模糊；（相机、望远镜或其他仪器）对焦不准",
+        "environment because it directs the manager of a business to focus inward",
+        "on their personal capabilities and style.\n领导力是当今充满竞争的商业环境中最重要的词语，因为他指引着公\n司的经理人注重内在的个人能力和风格。",
+        "We want to keep the real issues in focus.\n我们要让真正的问题受到关注。"
       ],
       "definition" : "&vi. 关注；使（眼睛、相机、望远镜或其它仪器）对焦；聚焦 vt. 把（光线）聚焦 n. 焦点；关注；诉求点",
       "etymology" : "拉丁语中focus指“壁炉”、“火”，古罗马时代壁炉边即focus被认 为是家庭生活的中心。后来衍生为“焦点”，也喻指“（注意、活 动、兴趣等的）中心”，除此之外，还可用作动词，表示“关注”、 “聚焦”等义。",
       "examples" : [
-        "Leadership is the most significant word in today’s competitive business\nenvironment because it directs the manager of a business to focus inward\non their personal capabilities and style.\n领导力是当今充满竞争的商业环境中最重要的词语，因为他指引着公\n司的经理人注重内在的个人能力和风格。\nWe want to keep the real issues in focus.\n我们要让真正的问题受到关注。"
+        "Leadership is the most significant word in today’s competitive business"
       ],
       "frequency" : 689,
       "phonetic" : "ˈfəʊkəs",
@@ -451,6 +473,7 @@
       "examples" : [
 
       ],
+      "frequency" : 9843,
       "phonetic" : "ˈfɔɪeɪ",
       "pos" : "n.",
       "rootHint" : "car",
@@ -460,13 +483,17 @@
       "collocations" : [
         "solid fuel (= wood, coal, etc.)：固体燃料",
         "add fuel to the debate：给辩论火上浇油",
-        "add fuel to the fire\/flames of her rage：给她的愤怒火上浇油。"
+        "add fuel to the fire\/flames of her rage：给她的愤怒火上浇油。",
+        "oil-fueled power stations 燃油发电厂",
+        "to fuel speculation\/rumors\/fears：引起（刺激）猜测\/谣传\/恐惧",
+        "fuel inflation：刺激通货膨胀"
       ],
-      "definition" : "给……提供燃料；给（交通工具）加油；增加，加强，刺激",
+      "definition" : "给……提供燃料；给（交通工具）加油；增加，加强，刺激n. 燃料；（尤指使争论等继续或更加激烈的）刺激性言行",
       "etymology" : "来自focus=fireplace：壁炉。来自拉丁语focalia “brushwood for fuel： 作为燃料柴火”。",
       "examples" : [
 
       ],
+      "frequency" : 1567,
       "phonetic" : "fjʊəl",
       "pos" : "vt.",
       "rootHint" : "car",
@@ -475,11 +502,12 @@
     {
       "collocations" : [
         "nighttime refueling of vehicles：为机动车提供的夜间加油服务",
-        "a refueling stop：加油停留"
+        "a refueling stop：加油停留",
+        "centr-, central- 都表示“中心；中心的”等含义。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "（尤指给飞机）补充燃料；加油",
       "examples" : [
-        "The planes needed to refuel before the next mission.\n这些飞机需要添加燃料才能再次飞行。\n另一个与 focus 同样表示“中心”含义的单词为 center。center, centri-,\ncentr-, central- 都表示“中心；中心的”等含义。"
+        "The planes needed to refuel before the next mission.\n这些飞机需要添加燃料才能再次飞行。\n另一个与 focus 同样表示“中心”含义的单词为 center。center, centri-,"
       ],
       "frequency" : 15776,
       "mnemonic" : "re-（再；重新）+ fuel（燃料）→再加上燃料→补充燃料；加油",
@@ -490,17 +518,23 @@
     },
     {
       "collocations" : [
+        "something revolves,” from Old French centre (14c.), from Latin centrum",
+        "sting of a wasp,” from kentein “stitch,” from PIE root *kent- “to prick”",
+        "(source also of Breton kentr “a spur,” Welsh cethr “nail,” Old High",
+        "German hantag “sharp, pointed”).",
+        "as at a center” is from 1620s. Sports sense of “to hit toward the center” is",
         "center around the town：集中在该镇",
         "center on academic achievement：强调学术成就",
         "the center of attention：关注的焦点",
         "the city center：市中心",
         "a child-centered approach to teaching：以孩子为中心的教学方法"
       ],
-      "definition" : "&vi. 使集中；强调 n. 中心；（会议、活动、援助的）中",
-      "etymology" : "(n.) Late 14c., “middle point of a circle; point round which something revolves,” from Old French centre (14c.), from Latin centrum “center,” originally the fixed point of the two points of a drafting compass (hence “the center of a circle”), from Greek kentron “sharp point, goad, sting of a wasp,” from kentein “stitch,” from PIE root *kent- “to prick” (source also of Breton kentr “a spur,” Welsh cethr “nail,” Old High German hantag “sharp, pointed”). (n.) 1590s, “to concentrate at a center,” from center (n.). Meaning “to rest as at a center” is from 1620s. Sports sense of “to hit toward the center” is from 1890.",
+      "definition" : "&vi. 使集中；强调 n. 中心；（会议、活动、援助的）中心地点；（行业、活动的）中心；中枢；（镇、市的）中心区；居中心地位的人或物；（关注、兴趣的）中心；中间派 comb. (~centered)以……为中心的",
+      "etymology" : "(n.) Late 14c., “middle point of a circle; point round which “center,” originally the fixed point of the two points of a drafting compass (hence “the center of a circle”), from Greek kentron “sharp point, goad, (n.) 1590s, “to concentrate at a center,” from center (n.). Meaning “to rest from 1890.",
       "examples" : [
 
       ],
+      "frequency" : 531,
       "phonetic" : "ˈsentə(r)",
       "pos" : "vt.",
       "rootHint" : "car",
@@ -510,10 +544,11 @@
       "collocations" : [
         "the centerpiece of the plan：方案的最佳部分"
       ],
-      "definition" : "（最佳的最具吸引力的）部分；（尤指餐桌上）",
+      "definition" : "（最佳的最具吸引力的）部分；（尤指餐桌上）放在中央的装饰物",
       "examples" : [
         "He was arranging floral centerpieces in the banquet hall.\n他正在宴会大厅摆放餐桌中央的装饰花束。"
       ],
+      "frequency" : 8525,
       "mnemonic" : "centre（中心）+ piece（部分；艺术品）→在中心的部分或艺术品→",
       "phonetic" : "ˈsentəpiːs",
       "pos" : "n.",
@@ -522,7 +557,8 @@
     },
     {
       "collocations" : [
-
+        "释义：(N-COUNT) 震中；中心",
+        "The point on the earth’s surface directly above the center or focus of an\nearthquake."
       ],
       "definition" : "震中",
       "examples" : [
@@ -554,7 +590,8 @@
     },
     {
       "collocations" : [
-
+        "In a computer, the CPU is the part that processes all the data and makes the",
+        "computer work. CPU is an abbreviation for “central processing unit.”"
       ],
       "definition" : "[计]中央处理机（Central Processing Unit）",
       "examples" : [
@@ -568,12 +605,14 @@
     },
     {
       "collocations" : [
-        "the centrally placed full-sized double bed：在正中摆放了一张标准的双"
+        "the centrally placed full-sized double bed：在正中摆放了一张标准的双",
+        "the centrally located hotel：地处中心位置的这家旅馆"
       ],
       "definition" : "在中心；在中央；在中心地带；中央地；首要地",
       "examples" : [
         "This is a centrally planned economy.\n这是一种中央计划经济。"
       ],
+      "frequency" : 14966,
       "phonetic" : "ˈsentrəli",
       "pos" : "adv.",
       "rootHint" : "car",
@@ -671,11 +710,11 @@
     },
     {
       "collocations" : [
-
+        "powers for regional authorities.\n他似乎坚决反对扩大分权、赋予地方当局更大权利的想法。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "分权",
       "examples" : [
-        "He seems set against the idea of increased decentralization and greater\npowers for regional authorities.\n他似乎坚决反对扩大分权、赋予地方当局更大权利的想法。"
+        "He seems set against the idea of increased decentralization and greater"
       ],
       "frequency" : 16286,
       "phonetic" : "ˌdiːˌsentrəlaɪˈzeɪʃn",
@@ -740,7 +779,7 @@
 
       ],
       "frequency" : 19655,
-      "mnemonic" : "centri-（中心）+ -fug-（=to flee：逃离）+ -al（形容词后缀）→逃离\n中心的→离心的",
+      "mnemonic" : "centri-（中心）+ -fug-（=to flee：逃离）+ -al（形容词后缀）→逃离\n中心的→离心的\n（形容词后缀）→寻求中心的→向心的",
       "phonetic" : "sentrɪˈfjuːɡl",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -751,13 +790,14 @@
         "focus\/concentrate on sth.：关注……",
         "concentrate on studies：专心学习",
         "concentrate in...regions：集中在……地区",
-        "concentrate all my efforts on：全力以赴做……"
+        "concentrate all my efforts on：全力以赴做……\n笔 记 区"
       ],
-      "definition" : "&vi. 集中（注意力）；专心 vt. 使……集中（或",
+      "definition" : "&vi. 集中（注意力）；专心 vt. 使……集中（或集合、聚集） vt.（使）浓缩 n. 浓缩物",
       "examples" : [
 
       ],
-      "mnemonic" : "con-（加强语气）+ centr（=center：中心）+ -ate（使动词后缀）→",
+      "frequency" : 2379,
+      "mnemonic" : "con-（加强语气）+ centr（=center：中心）+ -ate（使动词后缀）→\n以……为中心→集中，全神贯注",
       "phonetic" : "ˈkɒnsntreɪt",
       "pos" : "vt",
       "rootHint" : "car",
@@ -769,10 +809,11 @@
         "concentrated apple or pear juice：浓缩的苹果汁或梨汁",
         "a more concentrated effort to do：更集中的努力于……"
       ],
-      "definition" : "决心要做的；全力以赴的；浓缩的；密集",
+      "definition" : "决心要做的；全力以赴的；浓缩的；密集的，集中的",
       "examples" : [
 
       ],
+      "frequency" : 10352,
       "phonetic" : "ˈkɒnsntreɪtɪd",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -780,10 +821,17 @@
     },
     {
       "collocations" : [
-        "a need for greater concentration on environmental issues：更加关注环境"
+        "a need for greater concentration on environmental issues：更加关注环境",
+        "a concentration of industry：工业的集中\n...concentrations in the blood：血液中的……浓度",
+        "Proto-Indo-European root meaning “ten.”",
+        "It is the hypothetical source of\/evidence for its existence is provided",
+        "by: Sanskrit dasa, Avestan dasa, Armenian tasn, Greek deka, Latin",
+        "decem (source of Spanish diez, French dix), Old Church Slavonic deseti,",
+        "Lithuanian dešimt, Old Irish deich, Breton dek, Welsh deg, Albanian djetu,",
+        "Old English ten, Old High German zehan, Gothic taihun “ten.”\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "专心；关注；集中；浓度",
-      "etymology" : "dekm- Proto-Indo-European root meaning “ten.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit dasa, Avestan dasa, Armenian tasn, Greek deka, Latin decem (source of Spanish diez, French dix), Old Church Slavonic deseti, Lithuanian dešimt, Old Irish deich, Breton dek, Welsh deg, Albanian djetu, Old English ten, Old High German zehan, Gothic taihun “ten.” 20000 词汇巅峰 速 记 笔 记 区",
+      "etymology" : "dekm-",
       "examples" : [
         "This book requires a great deal of concentration.\n这本书需要集中注意力才能读懂。\n单词 ten 表示十；由此派生出 -teen, dec-, decim 等与“十”有关的词根。"
       ],
@@ -798,8 +846,7 @@
       "collocations" : [
         "tens of thousands：成千上万",
         "top ten：前十名",
-        "ten out of ten (for sth.)：完全正确；得满分",
-        "ten to one：十之八九；非常可能"
+        "ten out of ten (for sth.)：完全正确；得满分\nten to one：十之八九；非常可能"
       ],
       "definition" : "十",
       "examples" : [
@@ -844,11 +891,12 @@
     },
     {
       "collocations" : [
-
+        "ten-year-old Chihiro uses her wits and her courage to escape from a",
+        "nightmarish world of ogres and witches.\n在宫崎骏的卡通名著《神隐少女》（又名《千与千寻》）中，故事的\n结尾十岁的小姑娘千与千寻凭借着她的智慧和勇气逃出了那个充斥着\n恶魔和巫婆的噩梦般的世界。"
       ],
       "definition" : "十岁大的 n. 十岁的孩子",
       "examples" : [
-        "At the end of “Spirited Away”, Hayao Miyazaki’s animated masterpiece,\nten-year-old Chihiro uses her wits and her courage to escape from a\nnightmarish world of ogres and witches.\n在宫崎骏的卡通名著《神隐少女》（又名《千与千寻》）中，故事的\n结尾十岁的小姑娘千与千寻凭借着她的智慧和勇气逃出了那个充斥着\n恶魔和巫婆的噩梦般的世界。"
+        "At the end of “Spirited Away”, Hayao Miyazaki’s animated masterpiece,"
       ],
       "frequency" : 17699,
       "phonetic" : "ten jɪə(r)əʊld",
@@ -861,10 +909,11 @@
         "begin smoking in their teens：在十几岁时开始吸烟",
         "a new teen center：一个新的青少年中心"
       ],
-      "definition" : "~teen 构成基数词13~19 n-plural. 十几岁（指13至19岁）；十几",
+      "definition" : "~teen 构成基数词13~19 n-plural. 十几岁（指13至19岁）；十几岁的人 adj. 有关青少年的",
       "examples" : [
 
       ],
+      "frequency" : 2643,
       "mnemonic" : "来自后缀-teen，十，用于构成基数词十三到十九。",
       "phonetic" : "tiːn",
       "pos" : "n.",
@@ -939,6 +988,7 @@
       "examples" : [
         "In India, there are fifteen official languages.\n在印度有15种官方语言。\nHe’s in the first fifteen.\n他是业余英式橄榄球队队员。"
       ],
+      "frequency" : 3020,
       "mnemonic" : "fif（=five：五）+ -teen（超过十）→十五；业余英式橄榄球队",
       "phonetic" : "fɪfˈtiːn; ˈfɪftiːn",
       "pos" : "num.",
@@ -948,8 +998,7 @@
     {
       "collocations" : [
         "August the fifteenth：8月15日",
-        "on the fifteenth floor：在15楼",
-        "a fifteenth\/one fifteenth：十五分之一"
+        "on the fifteenth floor：在15楼\na fifteenth\/one fifteenth：十五分之一"
       ],
       "definition" : "第十五 fraction. 1\/15",
       "examples" : [
@@ -1162,13 +1211,18 @@
     },
     {
       "collocations" : [
-
+        "decimate常被释义为“杀灭……中的十分之九”或“大批杀死”、\n“大量毁坏”，可以说同其原义几乎完全相反。",
+        "Cheap imports decimated the British cycle industry.\n廉价进口严重削弱了英国的自行车工业。\n单词 hundred, cent- 表示“百”。",
+        "than ninety-nine; a symbol representing this number;” Old English\nhundred “the number of 100, a counting of 100,” from Proto-Germanic",
+        "Old Norse hundrað, German hundert); first element is Proto-Germanic",
+        "Sanskrit satam, Avestan satem, Greek hekaton, Latin centum, Lithuanian"
       ],
       "definition" : "大批杀死（某地区的动物、植物或人）；严重削弱",
-      "etymology" : "“1 more than ninety-nine, ten times ten; the number which is one more than ninety-nine; a symbol representing this number;” Old English hundred “the number of 100, a counting of 100,” from Proto-Germanic *hunda-ratha- (source also of Old Frisian hundred, Old Saxon hunderod, Old Norse hundrað, German hundert); first element is Proto-Germanic *hundam “hundred” (cognate with Gothic hund, Old High German hunt), from PIE *km-tom “hundred,” reduced from *dkm-tom- (source also of Sanskrit satam, Avestan satem, Greek hekaton, Latin centum, Lithuanian šimtas, Old Church Slavonic suto, Old Irish cet, Breton kant “hundred”).",
+      "etymology" : "“1 more than ninety-nine, ten times ten; the number which is one more *hunda-ratha- (source also of Old Frisian hundred, Old Saxon hunderod, *hundam “hundred” (cognate with Gothic hund, Old High German hunt), from PIE *km-tom “hundred,” reduced from *dkm-tom- (source also of šimtas, Old Church Slavonic suto, Old Irish cet, Breton kant “hundred”).",
       "examples" : [
-        "The rabbit population was decimated by the disease.\n这种疾病使大批兔子死亡。\nCheap imports decimated the British cycle industry.\n廉价进口严重削弱了英国的自行车工业。\n单词 hundred, cent- 表示“百”。"
+        "The rabbit population was decimated by the disease.\n这种疾病使大批兔子死亡。"
       ],
+      "frequency" : 14405,
       "mnemonic" : "decim-（大批杀死动植物或人）+ -ate（使动词后缀）→大批杀死动\n植物或人→严重削弱",
       "phonetic" : "ˈdesɪmeɪt",
       "pos" : "vt.",
@@ -1191,10 +1245,12 @@
     },
     {
       "collocations" : [
+        "of the Roman army, one-sixteenth of a legion, headed by a centurion),",
+        "from centum “hundred”.",
         "the late eighteenth century：18世纪晚期"
       ],
       "definition" : "世纪；百年",
-      "etymology" : "1530s, “one hundred” (of anything), from Latin centuria “group of one hundred” of things of one kind (including a measure of land and a division of the Roman army, one-sixteenth of a legion, headed by a centurion), from centum “hundred”.",
+      "etymology" : "1530s, “one hundred” (of anything), from Latin centuria “group of one hundred” of things of one kind (including a measure of land and a division",
       "examples" : [
         "The drought there is the worst in a century.\n那里的旱情百年不遇。"
       ],
@@ -1207,11 +1263,12 @@
     },
     {
       "collocations" : [
-
+        "bicentennial：二百周年纪念的",
+        "bicentennial celebrations：200周年庆典"
       ],
       "definition" : "一百周年纪念 adj. 一百年的",
       "examples" : [
-        "The centennial Olympics was in Atlanta, Georgia.\n奥运会百年庆典在乔治亚州的亚特兰大举行。\n比较：bicentenary：200周年；200周年纪念日\nbicentennial：二百周年纪念的\nbicentennial celebrations：200周年庆典"
+        "The centennial Olympics was in Atlanta, Georgia.\n奥运会百年庆典在乔治亚州的亚特兰大举行。\n比较：bicentenary：200周年；200周年纪念日"
       ],
       "frequency" : 11098,
       "mnemonic" : "cent-（一百）+ -enn-（年）+ -ial（名词\/形容词后缀）→一百周年纪",
@@ -1328,11 +1385,11 @@
     },
     {
       "collocations" : [
-
+        "century, even in old industries such as steel and car-making.\n过去二十五年来，西方国家私人部门的生产力突飞猛进，即使像钢铁\n和汽车制造这样的老旧工业也不例外。"
       ],
       "definition" : "四分之一世纪",
       "examples" : [
-        "Private-sector productivity has soared in the West over the past quarter-\ncentury, even in old industries such as steel and car-making.\n过去二十五年来，西方国家私人部门的生产力突飞猛进，即使像钢铁\n和汽车制造这样的老旧工业也不例外。"
+        "Private-sector productivity has soared in the West over the past quarter-"
       ],
       "frequency" : 18207,
       "mnemonic" : "quarter（四分之一）+ century（世纪）→四分之一世纪",
@@ -1346,7 +1403,7 @@
         "one percentage point：一个百分点",
         "express as a percentage：用百分率表示",
         "get a percentage for every car sold：每售出一辆车便可得到一份提成",
-        "a high percentage of protein：高百分比的蛋白质"
+        "a high percentage of protein：高百分比的蛋白质\n笔 记 区"
       ],
       "definition" : "百分率，百分比；利润的分成；提成",
       "examples" : [
@@ -1361,12 +1418,14 @@
     },
     {
       "collocations" : [
-        "fall from the 90th percentile down to around 70 percent：从百分之九十"
+        "fall from the 90th percentile down to around 70 percent：从百分之九十",
+        "rank in the 21st percentile on the tests：总体百分位排名占第21位\n单词 \/ 词根 new, neo-, nov- 表示“新的”。"
       ],
       "definition" : "百分位数（尤用于比较测验成绩或健康水平）",
       "examples" : [
 
       ],
+      "frequency" : 14094,
       "mnemonic" : "percent（百分比；百分率）+ -ile（名词后缀，mobile，automobile，\nmissile，projectile）→百分位数",
       "phonetic" : "pəˈsentaɪl",
       "pos" : "n.",
@@ -1375,15 +1434,24 @@
     },
     {
       "collocations" : [
+        "or established for the first time, fresh, recently made or grown; novel,",
+        "unheard-of, different from the old; untried, inexperienced, unused,” from",
+        "Proto-Germanic *neuja- (source also of Old Saxon niuwi, Old Frisian nie,",
+        "Middle Dutch nieuwe, Dutch nieuw, Old High German niuwl, German neu,",
+        "Danish and Swedish ny, Gothic niujis “new”).",
+        "This is from PIE *newo- “new” (source also of Sanskrit navah, Persian",
+        "nau, Hittite newash, Greek neos, Lithuanian naujas, Old Church Slavonic",
+        "novu, Russian novyi, Latin novus, Old Irish nue, Welsh newydd “new”).",
         "the new planet：新发现的行星",
         "the usual tiredness of a new mother：初为人母常有的疲惫感",
         "new potatoes：时鲜土豆"
       ],
-      "definition" : "新的；崭新的；更新的；新发现的；新开始的（一天、一年",
-      "etymology" : "Middle English neue, from Old English neowe, niowe, earlier niwe “made or established for the first time, fresh, recently made or grown; novel, unheard-of, different from the old; untried, inexperienced, unused,” from Proto-Germanic *neuja- (source also of Old Saxon niuwi, Old Frisian nie, Middle Dutch nieuwe, Dutch nieuw, Old High German niuwl, German neu, Danish and Swedish ny, Gothic niujis “new”). This is from PIE *newo- “new” (source also of Sanskrit navah, Persian nau, Hittite newash, Greek neos, Lithuanian naujas, Old Church Slavonic novu, Russian novyi, Latin novus, Old Irish nue, Welsh newydd “new”).",
+      "definition" : "新的；崭新的；更新的；新发现的；新开始的（一天、一年等）；新具有某一身份的；新接触的；时鲜的（蔬菜）",
+      "etymology" : "Middle English neue, from Old English neowe, niowe, earlier niwe “made",
       "examples" : [
 
       ],
+      "frequency" : 88,
       "phonetic" : "njuː",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -1469,10 +1537,11 @@
         "good news\/bad news：好事\/坏事",
         "be news to sb.：对……来说是新闻"
       ],
-      "definition" : "消息；新闻；（电视、电台等的）新闻广播；新闻人物、事",
+      "definition" : "消息；新闻；（电视、电台等的）新闻广播；新闻人物、事件",
       "examples" : [
 
       ],
+      "frequency" : 575,
       "mnemonic" : "new（新的，形容词作名词）+ -s（复数后缀）→引申词义消息；新",
       "phonetic" : "njuːz",
       "pos" : "n.",
@@ -1527,7 +1596,8 @@
     },
     {
       "collocations" : [
-
+        "A newsroom is an office in a newspaper, radio, or television organization",
+        "where news reports are prepared before they are printed or broadcast."
       ],
       "definition" : "（报社、广播台或电视台的）新闻编辑部",
       "examples" : [
@@ -1544,14 +1614,14 @@
       "collocations" : [
         "renew his attack on：重新开始抨击……",
         "renew friendship：恢复友谊",
-        "renew expired visas：延长过期的护照",
-        "renew blog：更新博客",
+        "renew expired visas：延长过期的护照\nrenew blog：更新博客",
         "to renew an appeal\/a request\/a complaint, etc.：再次呼吁、请求、投诉等"
       ],
       "definition" : "重新开始，恢复（关系）；使继续有效；再次强调；更新",
       "examples" : [
         "Nature’s repair process is slow and steady, with cells being constantly\nrenewed.\n自然的修复过程缓慢而稳定，在此过程中细胞不断再生。"
       ],
+      "frequency" : 5598,
       "mnemonic" : "re-（=again：再；重新）+ new（新的）→重新变成新的、更新恢复\n→重新开始；使继续有效；再次强调；更新",
       "phonetic" : "rɪˈnjuː",
       "pos" : "vt.",
@@ -1561,13 +1631,13 @@
     {
       "collocations" : [
         "a renewal of interest in...：对……重新产生兴趣",
-        "come up for renewal：办理延期",
-        "economic\/urban renewal：经济\/城市复兴"
+        "come up for renewal：办理延期\neconomic\/urban renewal：经济\/城市复兴"
       ],
-      "definition" : "重新开始，恢复；（对合同等的）有效期延长；新",
+      "definition" : "重新开始，恢复；（对合同等的）有效期延长；新生，复兴",
       "examples" : [
 
       ],
+      "frequency" : 6606,
       "mnemonic" : "renew（重新开始，恢复；使继续有效；更新）+ -al（名词后缀，表\n行为）→重新开始，恢复；……有效期延长；新生，复兴",
       "phonetic" : "rɪˈnjuːəl",
       "pos" : "n.",
@@ -1594,10 +1664,11 @@
         "renewable energy sources：可再生能源",
         "a renewable contract：可续签的合同"
       ],
-      "definition" : "（资源）可再生的；（合同、协议）可延长有效",
+      "definition" : "（资源）可再生的；（合同、协议）可延长有效期的",
       "examples" : [
 
       ],
+      "frequency" : 7437,
       "mnemonic" : "renew（更新，再生；有效期延长）+ -able（形容词后缀，能……\n的）→可以更新、再生的；可延期的→可再生的；（合同、协议）可",
       "phonetic" : "rɪˈnjuːəbəl",
       "pos" : "adj.",
@@ -1606,11 +1677,11 @@
     },
     {
       "collocations" : [
-
+        "They started life anew in Canada.\n他们在加拿大开始新生活。"
       ],
       "definition" : "重新；再",
       "examples" : [
-        "She’s ready to start anew.\n她准备好重新来过。\nThey started life anew in Canada.\n他们在加拿大开始新生活。"
+        "She’s ready to start anew.\n她准备好重新来过。"
       ],
       "frequency" : 10612,
       "mnemonic" : "a（=again, once more：再次） + new（新的）→再次变为新的→重新；再",
@@ -1639,7 +1710,7 @@
       "collocations" : [
         "a romantic\/historical novelist：言情\/历史小说家"
       ],
-      "definition" : "小说家6442",
+      "definition" : "小说家644220000 词汇巅峰速记",
       "examples" : [
 
       ],
@@ -1654,10 +1725,11 @@
         "the novelty soon wore off (=it became boring)：这股新鲜劲很快就过去了",
         "a novelty teapot：新颖独特的茶壶"
       ],
-      "definition" : "新奇，新颖，新鲜；新奇的事物（或人、环境） adj. 新",
+      "definition" : "新奇，新颖，新鲜；新奇的事物（或人、环境） adj. 新奇的；风格独特的",
       "examples" : [
         "Electric-powered cars are still something of a novelty.\n电动汽车仍然是一种新鲜玩意儿。"
       ],
+      "frequency" : 8117,
       "mnemonic" : "novel（新颖的；新奇的）+ -ty（名词后缀）→引申词义新奇，新",
       "phonetic" : "ˈnɒvlti",
       "pos" : "n.",
@@ -1710,7 +1782,7 @@
     {
       "collocations" : [
         "to innovate new products：创造新产品",
-        "his constant desire to innovate and experiment：他不断地渴望创新和实验"
+        "his constant desire to innovate and experiment：他不断地渴望创新和实验\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "&vi. 引入（新事物、思想或方法）；创新；革新",
       "examples" : [
@@ -1731,6 +1803,7 @@
       "examples" : [
 
       ],
+      "frequency" : 3690,
       "mnemonic" : "innov（=innovate：创新，革新；引入（新事物、思想或方法））+\n-ation（=-ate + -ion：复合名词后缀）→创新，革新；（新事物的、",
       "phonetic" : "ˌɪnəˈveɪʃn",
       "pos" : "n.",
@@ -1741,10 +1814,11 @@
       "collocations" : [
         "innovative engineers：富有创新精神的工程师"
       ],
-      "definition" : "创新的，革新的；富有创新精神的；引入新思",
+      "definition" : "创新的，革新的；富有创新精神的；引入新思想、新方法的",
       "examples" : [
 
       ],
+      "frequency" : 4484,
       "mnemonic" : "innovat（=innovate：创新，革新；（新事物、新思想的）创造）+\n-ive（形容词后缀）→创新的，革新的；富有创新精神的；引入新思",
       "phonetic" : "ˈɪnəvətɪv",
       "pos" : "adj.",
@@ -1830,10 +1904,17 @@
     },
     {
       "collocations" : [
-
+        "forme, fourme, “physical form, appearance; pleasing looks; shape, image;\nway, manner” (12c.), from Latin forma “form, contour, figure, shape;",
+        "appearance, looks; a fine form, beauty; an outline, a model, pattern, design;",
+        "sort, kind condition,” a word of unknown origin. One theory holds that it is",
+        "from or cognate with Greek morphe “form, beauty, outward appearance”.",
+        "to; make, build, construct, devise,” from Old French fourmer “formulate,",
+        "express; draft, create, shape, mold” (12c.) and directly from Latin formare",
+        "figure, shape” (see form (n.)). From late 14c. as “go to make up, be a",
+        "constituent part of;” intransitive sense “take form, come into form” is from"
       ],
       "definition" : "初学者；新手",
-      "etymology" : "n. c. 1200, forme, fourme, “semblance, image, likeness,” from Old French forme, fourme, “physical form, appearance; pleasing looks; shape, image; way, manner” (12c.), from Latin forma “form, contour, figure, shape; appearance, looks; a fine form, beauty; an outline, a model, pattern, design; sort, kind condition,” a word of unknown origin. One theory holds that it is from or cognate with Greek morphe “form, beauty, outward appearance”. v. c. 1300, formen, fourmen, “create, give life to, give shape or structure to; make, build, construct, devise,” from Old French fourmer “formulate, express; draft, create, shape, mold” (12c.) and directly from Latin formare “to shape, fashion, build,” also figurative, from forma “form, contour, 20000 词汇巅峰 速 记 笔 记 区 figure, shape” (see form (n.)). From late 14c. as “go to make up, be a constituent part of;” intransitive sense “take form, come into form” is from 1722. Related: Formed; forming.",
+      "etymology" : "n. c. 1200, forme, fourme, “semblance, image, likeness,” from Old French v. c. 1300, formen, fourmen, “create, give life to, give shape or structure “to shape, fashion, build,” also figurative, from forma “form, contour, 20000 词汇巅峰 速 记 笔 记 区 1722. Related: Formed; forming.",
       "examples" : [
         "The site gives neophytes the chance to learn from experts.\n这个网站给新手提供了向专家学习的机会。\n单词 form 有“形状；形式；形成”等含义。"
       ],
@@ -1848,12 +1929,17 @@
       "collocations" : [
         "form a band：组成一支乐队",
         "to form a line\/queue\/circle：排成一行\/长列\/圈",
-        "her slender form：她苗条的身段"
+        "her slender form：她苗条的身段",
+        "Flowers appeared, but fruits failed to form.\n开了花，但没有结果（出现；产生）。",
+        "The disease can take several different forms.\n这种疾病可能有几种不同的形式。",
+        "The castle forms the focal point of the city.\n这座城堡是城市的中心",
+        "The trees form a natural protection from the sun’s rays.\n树木起天然的保护作用，遮挡了阳光的照射。"
       ],
-      "definition" : "类型；形式；表格；形状，体形；（尤指艺术作品或文章",
+      "definition" : "类型；形式；表格；形状，体形；（尤指艺术作品或文章的）结构，形式 vt.&vi.（使）出现，产生；（使）形成；（使）排列成 vt. 有……功能；成为；组建",
       "examples" : [
-        "A plan formed in my head.\n一个计划在我的头脑中形成。\nFlowers appeared, but fruits failed to form.\n开了花，但没有结果（出现；产生）。\nThe disease can take several different forms.\n这种疾病可能有几种不同的形式。\nThe castle forms the focal point of the city.\n这座城堡是城市的中心\nThe trees form a natural protection from the sun’s rays.\n树木起天然的保护作用，遮挡了阳光的照射。"
+        "A plan formed in my head.\n一个计划在我的头脑中形成。"
       ],
+      "frequency" : 524,
       "phonetic" : "fɔːm",
       "pos" : "n.",
       "rootHint" : "car",
@@ -1865,10 +1951,11 @@
         "formal education：正规教育",
         "delightful formal gardens：精心布置的宜人花园"
       ],
-      "definition" : "正式的；正规的（教育、培训等）；（花园、房间、建",
+      "definition" : "正式的；正规的（教育、培训等）；（花园、房间、建筑物）布置井然的 n. 正式的社交活动",
       "examples" : [
 
       ],
+      "frequency" : 2231,
       "mnemonic" : "form（形式）+ -al（形容词后缀）→（符合）形式的→正式的；正规",
       "phonetic" : "ˈfɔːml",
       "pos" : "adj.",
@@ -1892,12 +1979,13 @@
     },
     {
       "collocations" : [
-
+        "The college has a highly formalized system of assessment.\n这所学院有一套十分固定的评估体系。"
       ],
-      "definition" : "使（安排、计划、关系）成为正式的；（通过规",
+      "definition" : "使（安排、计划、关系）成为正式的；（通过规则）使定形",
       "examples" : [
-        "They decided to formalize their relationship by getting married.\n他们决定结婚，正式确定关系。\nThe college has a highly formalized system of assessment.\n这所学院有一套十分固定的评估体系。"
+        "They decided to formalize their relationship by getting married.\n他们决定结婚，正式确定关系。"
       ],
+      "frequency" : 18211,
       "mnemonic" : "formal（正式的）+ -ize（使动词后缀）→使（安排、计划、关系）成",
       "phonetic" : "ˈfɔːməlaɪz",
       "pos" : "vt.",
@@ -1922,10 +2010,11 @@
       "collocations" : [
         "format of academic papers：学术论文的格式"
       ],
-      "definition" : "总体安排，设计；（出版物的）版式 vt. 格式化；安",
+      "definition" : "总体安排，设计；（出版物的）版式 vt. 格式化；安排……的版式",
       "examples" : [
 
       ],
+      "frequency" : 3772,
       "mnemonic" : "form（形式）+ -at（名词后缀）→设计（板式）；版式；安排……的",
       "phonetic" : "ˈfɔːmæt",
       "pos" : "n.",
@@ -1936,7 +2025,8 @@
       "collocations" : [
         "star formation：恒星形成",
         "rock formations：岩层（形成物）",
-        "formation flying：编队飞行"
+        "formation flying：编队飞行\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "soccer formation：足球队形"
       ],
       "definition" : "形成；形成物；编队，队形",
       "examples" : [
@@ -1973,6 +2063,7 @@
       "examples" : [
         "This formula is used to calculate the area of a circle.\n这个公式用于计算圆的面积。"
       ],
+      "frequency" : 3369,
       "mnemonic" : "form（形式；模式）+ ul（连接符号）+ a（一个）→一个形式→公",
       "phonetic" : "ˈfɔːmjʊlə",
       "pos" : "n.",
@@ -1982,12 +2073,16 @@
     {
       "collocations" : [
         "formulate his plan：构想出了他的计划",
-        "formulate his ideas：表述他的想法"
+        "formulate his ideas：表述他的想法",
+        "might formulate as “We hope to get two dollars, but if we get one dollar",
+        "and fifty, it will be all right.”\n好的谈判者会根据范围来设定目标，这个他们阐述为：我们希望得到\n2美元，但是如果得到1.5美元也可以。",
+        "hypothetical and needs proving.\n不管是谁构想出了宇宙起源的理论，都仅仅是猜测，需要被证实。\n笔 记 区"
       ],
       "definition" : "构想出（计划或提案）；确切表述，认真阐述",
       "examples" : [
         "1）The good negotiators set their objectives in terms of range, which they"
       ],
+      "frequency" : 5928,
       "mnemonic" : "form（形成；公式）+ ul+ -ate（使动词后缀）→规划，构想（即：",
       "phonetic" : "ˈfɔːmjʊleɪt",
       "pos" : "vt.",
@@ -2011,8 +2106,7 @@
     {
       "collocations" : [
         "well informed：消息灵通的",
-        "inform on sb...：告发；检举",
-        "inform sb. thoroughly of...：对……有透彻的了解"
+        "inform on sb...：告发；检举\ninform sb. thoroughly of...：对……有透彻的了解"
       ],
       "definition" : "通知；通告；了解；熟悉",
       "examples" : [
@@ -2058,7 +2152,8 @@
     },
     {
       "collocations" : [
-        "a source of information：消息来源"
+        "a source of information：消息来源",
+        "for information only：（文件）仅供参考"
       ],
       "definition" : "信息；消息；情报；资料；资讯",
       "examples" : [
@@ -2111,6 +2206,7 @@
       "examples" : [
         "The public is generally uninformed about these diseases.\n大众对这些疾病普遍知之甚少。"
       ],
+      "frequency" : 18405,
       "phonetic" : "ʌnɪnˈfɔːmd",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -2120,10 +2216,11 @@
       "collocations" : [
 
       ],
-      "definition" : "提供消息的人；告密者；（为研究等）提供资料",
+      "definition" : "提供消息的人；告密者；（为研究等）提供资料的人",
       "examples" : [
 
       ],
+      "frequency" : 7220,
       "mnemonic" : "inform（通知）+ -ant（名词后缀，表示人）→引申词义提供消息的",
       "phonetic" : "ɪnˈfɔːmənt",
       "pos" : "n.",
@@ -2132,7 +2229,8 @@
     },
     {
       "collocations" : [
-        "informative meeting：使双方增进了解的会晤"
+        "informative meeting：使双方增进了解的会晤",
+        "informative talk：长见识的谈话\n反义词：uninformative：不详细的；信息不足的\n笔 记 区"
       ],
       "definition" : "提供有用信息的；使人增进知识的",
       "examples" : [
@@ -2209,10 +2307,11 @@
       "collocations" : [
         "transform from A into B：从A 转变成B"
       ],
-      "definition" : "使改变；使转换；彻底改变（使更好、更有吸引",
+      "definition" : "使改变；使转换；彻底改变（使更好、更有吸引力）",
       "examples" : [
         "I have been transformed from a passionate advocate of the philosophy of\n“have it all” into a woman who is happy to settle for a bit of everything.\n我已从一个“拥有一切”哲学的狂热支持者，转变成了一个任何东西\n只要一小点就满足的女人。"
       ],
+      "frequency" : 2205,
       "mnemonic" : "trans-（=change：改变；转换）+ form（形式）→改变形式→使转",
       "phonetic" : "trænsˈfɔːm",
       "pos" : "vt.",
@@ -2221,11 +2320,13 @@
     },
     {
       "collocations" : [
-
+        "As the emergence of the Internet, many people have been transformed",
+        "from the advocates of making friends outdoors into those who are happy",
+        "to stay at home and make friends online."
       ],
-      "definition" : "鼓吹；提倡 n. 鼓吹者；支持者",
+      "definition" : "鼓吹；提倡 n. 鼓吹者；支持者settle for：满足；满意a bit of everything：任何东西只要一小点，一丁点",
       "examples" : [
-        "由于互联网的出现，很多人已经从外出交友的支持者转变成了喜\n欢呆在家里网上交友的人。\nAs the emergence of the Internet, many people have been transformed\nfrom the advocates of making friends outdoors into those who are happy\nto stay at home and make friends online."
+        "由于互联网的出现，很多人已经从外出交友的支持者转变成了喜\n欢呆在家里网上交友的人。"
       ],
       "phonetic" : "ˈædvəkeit",
       "pos" : "v.",
@@ -2237,10 +2338,11 @@
         "undergo a complete transformation：经历了彻底的变革",
         "a lack of transformation in the private sector：在私营部门缺乏民主改革"
       ],
-      "definition" : "（彻底的）变化，转变，改革；（用于南",
+      "definition" : "（彻底的）变化，转变，改革；（用于南非）民主改革",
       "examples" : [
         "What a transformation! You look great.\n真是判若两人！你看上去真神气。"
       ],
+      "frequency" : 3318,
       "mnemonic" : "transform（彻底改变；使改变）+ -ation（复合名词后缀）→（彻底",
       "phonetic" : "ˌtrænsfəˈmeɪʃn",
       "pos" : "n.",
@@ -2249,11 +2351,12 @@
     },
     {
       "collocations" : [
-        "a transformative experience：一次让人（彻底）转变的经历"
+        "a transformative experience：一次让人（彻底）转变的经历",
+        "Congo and Cambodia.\n她会告诉任何人有关她在刚果和柬埔寨为联合国儿童基金会工作期间\n令她彻底转变的几周经历。"
       ],
       "definition" : "转变的；变化的",
       "examples" : [
-        "She’ll tell anyone about her transformative weeks working for UNICEF in\nCongo and Cambodia.\n她会告诉任何人有关她在刚果和柬埔寨为联合国儿童基金会工作期间\n令她彻底转变的几周经历。"
+        "She’ll tell anyone about her transformative weeks working for UNICEF in"
       ],
       "frequency" : 15819,
       "phonetic" : "trænzˈfɔmətɪv",
@@ -2321,12 +2424,15 @@
     },
     {
       "collocations" : [
-        "conform to：遵守；遵循"
+        "conform to：遵守；遵循",
+        "system conforms to school rules, you can’t fault her ethics.\n20000 词汇巅峰\n速\n记\n笔 记 区\n假如你的老师既无偏见又无腐败现象，而且她的体系符合学校规定，\n你就不能批评她的职业道德。\n（写作，阅读）重点：“遵循，遵守”的表达方式：conform to\/abide by\/",
+        "Those who do not conform to\/abide by\/keep to\/follow\/maintain the law",
+        "and infringe other people’s copyrights willfully will be ultimately punished\nby the law."
       ],
       "definition" : "遵守（规则、法律等）；顺应（大多数人或社会）；相一致，相符合",
       "examples" : [
-        "Assuming that your teacher is neither biased nor corrupt and that her\nsystem conforms to school rules, you can’t fault her ethics.",
-        "那些不遵守法律，肆意侵犯别人版权的人，最终都会受到法律的惩罚。\nThose who do not conform to\/abide by\/keep to\/follow\/maintain the law\nand infringe other people’s copyrights willfully will be ultimately punished\nby the law."
+        "Assuming that your teacher is neither biased nor corrupt and that her\nkeep to\/follow\/maintain",
+        "那些不遵守法律，肆意侵犯别人版权的人，最终都会受到法律的惩罚。"
       ],
       "frequency" : 7067,
       "mnemonic" : "con-（共同）+ form（形式；礼仪）→共同的形式，礼仪→（要）遵",
@@ -2426,7 +2532,10 @@
     {
       "collocations" : [
         "in the shape of a heart：呈心形",
-        "in shape\/in good shape\/in bad shape：(身体、物体) 处于（良好\/不良）"
+        "in shape\/in good shape\/in bad shape：(身体、物体) 处于（良好\/不良）",
+        "get (yourself) into shape：强身健体\nget\/knock\/lick sb. into shape：把某人培养成材（或训练出来）\nget\/knock\/lick sth. into shape：把某事物整顿好；使某事物条理化（或\n更趋完善）",
+        "out of shape：变形的；走样的\ntake shape：成形",
+        "in any shape or form：以任何形式"
       ],
       "definition" : "形状；外形；模糊的影子 vt. 使成为……形状（或样子）；塑造",
       "examples" : [
@@ -2441,7 +2550,7 @@
     {
       "collocations" : [
         "almond-shaped eyes：杏眼",
-        "a huge balloon shaped like a giant cow：形似一头巨牛的大气球"
+        "a huge balloon shaped like a giant cow：形似一头巨牛的大气球\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "具有（或呈）……形状的",
       "examples" : [
@@ -2470,10 +2579,16 @@
     {
       "collocations" : [
         "gather in a heart-shaped ring：站成一个心形的圈",
-        "heart-shaped leaves：心形的叶子"
+        "heart-shaped leaves：心形的叶子\n单词 figure=form，表示“形状；模糊的影子”。",
+        "Proto-Indo-European root meaning “to form, build.”",
+        "It is the hypothetical source of\/evidence for its existence is provided by:",
+        "Sanskrit dehah “body,” literally “that which is formed,” dih- “to besmear;”",
+        "Greek teikhos “wall;” Latin fingere “to form, fashion,” figura “a shape,",
+        "form, figure;” Old Irish digen “firm, solid,” originally “kneaded into a",
+        "compact mass;” Gothic deigan “to smear,” Old English dag, Gothic daigs"
       ],
       "definition" : "心形的",
-      "etymology" : "dheigh- Proto-Indo-European root meaning “to form, build.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit dehah “body,” literally “that which is formed,” dih- “to besmear;” Greek teikhos “wall;” Latin fingere “to form, fashion,” figura “a shape, form, figure;” Old Irish digen “firm, solid,” originally “kneaded into a compact mass;” Gothic deigan “to smear,” Old English dag, Gothic daigs “dough.”",
+      "etymology" : "dheigh- “dough.”",
       "examples" : [
 
       ],
@@ -2485,13 +2600,15 @@
     },
     {
       "collocations" : [
-        "the latest trade\/sales\/unemployment, etc. figures：最新的贸易、销售、"
+        "the latest trade\/sales\/unemployment, etc. figures：最新的贸易、销售、",
+        "a regular five-sided figure：一个规则的无边图形\nkey figures：重要人物"
       ],
-      "definition" : "数字；身影；人像；身材；人物；图表；几何图形 vt. 想 vi.",
+      "definition" : "数字；身影；人像；身材；人物；图表；几何图形 vt. 想 vi.意料之中",
       "examples" : [
         "Inflation, which has usually been in single figures, is running at more than\n12%."
       ],
-      "mnemonic" : "fig-（=to form, shape：形成；塑造）+ -ure（名词后缀）→数字（特",
+      "frequency" : 553,
+      "mnemonic" : "fig-（=to form, shape：形成；塑造）+ -ure（名词后缀）→数字（特\nfig-（=形成；塑造）+ -ure（名词后缀）→在脑海里形成、塑造某种\n想法→想；意料之中",
       "phonetic" : "ˈfɪgə",
       "pos" : "n.",
       "rootHint" : "car",
@@ -2517,10 +2634,11 @@
         "stone effigies in the church：教堂里的石雕像",
         "effigy of the president：总统的丑化像"
       ],
-      "definition" : "（名人、圣人或神的）雕像，塑像；（丑化人的）模拟",
+      "definition" : "（名人、圣人或神的）雕像，塑像；（丑化人的）模拟像，画像",
       "examples" : [
 
       ],
+      "frequency" : 19518,
       "mnemonic" : "ef-（=out：向外）+ -fig（人物）+ -y（名词后缀）→将人物图像用雕\n像、塑像等外在形式表现出来→（名人、圣人或神的）雕像；塑像→",
       "phonetic" : "ˈefɪdʒɪ",
       "pos" : "n.",
@@ -2530,7 +2648,7 @@
     {
       "collocations" : [
         "figurative sense：比喻义",
-        "a figurative artist：形象艺术家"
+        "a figurative artist：形象艺术家\n比较：abstract：抽象（派）的"
       ],
       "definition" : "比喻的；（绘画、艺术等）形象的",
       "examples" : [
@@ -2576,10 +2694,11 @@
       "collocations" : [
 
       ],
-      "definition" : "（按特定方式）安置；（尤指对计算机设备进行）配",
+      "definition" : "（按特定方式）安置；（尤指对计算机设备进行）配置；对（设备或软件进行）设定",
       "examples" : [
         "How easy was it to configure the software?\n配置该软件有多容易呢？"
       ],
+      "frequency" : 13646,
       "mnemonic" : "con-（强调）+ figure（结构；形式）→即形成某种结构、形式→安",
       "phonetic" : "kənˈfɪgə",
       "pos" : "vt.",
@@ -2590,7 +2709,7 @@
       "collocations" : [
         "reconfigure the firewall：重新设定防火墙"
       ],
-      "definition" : "重新配置（计算机设备等）；重新设定（程序",
+      "definition" : "重新配置（计算机设备等）；重新设定（程序等）16069",
       "examples" : [
 
       ],
@@ -2608,6 +2727,7 @@
       "examples" : [
 
       ],
+      "frequency" : 6232,
       "mnemonic" : "configur（=configure=arrange：安排结构、形状；配置）+ -ation（复\n合名词后缀，-ate + -ive）→布局；结构；形状；（计算机的）配置",
       "phonetic" : "kənˌfɪɡəˈreɪʃn",
       "pos" : "n.",
@@ -2683,10 +2803,11 @@
         "faint from hunger：饿得头昏眼花",
         "not have the faintest (idea)：一点也不明白"
       ],
-      "definition" : "（光、声、味）微弱的；可能性微小的；不热情的；快要",
+      "definition" : "（光、声、味）微弱的；可能性微小的；不热情的；快要昏厥 vi. 昏厥 n. 昏厥",
       "examples" : [
 
       ],
+      "frequency" : 4156,
       "mnemonic" : "feign：假装（有某种感觉或生病、疲倦等）→引申词义虚弱的；快\n要昏厥→因而派生出（光、声、味）微弱的；可能性微小的；不热情",
       "phonetic" : "feɪnt",
       "pos" : "adj.",
@@ -2695,11 +2816,11 @@
     },
     {
       "collocations" : [
-
+        "He looked faintly embarrassed.\n他显得有点难堪。\n词根 morph- 也表示“form, shape, figure：形状”的含义。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "微弱地；虚弱地；淡淡地",
       "examples" : [
-        "She smiled faintly.\n她淡淡地笑了一下。\nHe looked faintly embarrassed.\n他显得有点难堪。\n词根 morph- 也表示“form, shape, figure：形状”的含义。"
+        "She smiled faintly.\n她淡淡地笑了一下。"
       ],
       "frequency" : 9923,
       "phonetic" : "ˈfeɪntlɪ",
@@ -2755,15 +2876,18 @@
     {
       "collocations" : [
         "an amorphous mass of cells：杂乱一团的细胞",
-        "the amorphous mass of the unemployed：形形色色的失业群体",
+        "the amorphous mass of the unemployed：形形色色的失业群体\n近义词：shapeless：无定形的；样子不好看的；结构混乱的；条理不清的",
         "a shapeless sweater：样子难看的套头衫",
-        "a shapeless and incoherent story：结构混乱、情节不连贯的故事"
+        "a shapeless and incoherent story：结构混乱、情节不连贯的故事\n20000 词汇巅峰\n速\n记\n词根 uni- 含义为“one, unique：一个；唯一的；独特的”。\n笔 记 区",
+        "word-forming element meaning “having one only,” from Latin uni-,",
+        "combining form of unus “one” (from PIE root *oi-no- “one, unique”)."
       ],
       "definition" : "无固定形状、结构的；不规则的；无组织的",
-      "etymology" : "uni- word-forming element meaning “having one only,” from Latin uni-, combining form of unus “one” (from PIE root *oi-no- “one, unique”).",
+      "etymology" : "uni-",
       "examples" : [
 
       ],
+      "frequency" : 16352,
       "mnemonic" : "a（=without：没有）+ morph（=form：形状；结构）+ -ous（形容词\n后缀）→没有固定形状、结构的；不规则的；无组织的",
       "phonetic" : "əˈmɔːfəs",
       "pos" : "adj.",
@@ -2895,10 +3019,11 @@
       "collocations" : [
         "a family reunion：家人团聚"
       ],
-      "definition" : "（家庭、学校及其他团体成员的）重逢；相聚；重新",
+      "definition" : "（家庭、学校及其他团体成员的）重逢；相聚；重新结合",
       "examples" : [
         "Christmas is a time of reunion. 圣诞节是团聚的日子。"
       ],
+      "frequency" : 6157,
       "mnemonic" : "re-（再；重新）+ union（联合）→重新联合→重逢；相聚；重新结合",
       "phonetic" : "ˌriːˈjuːniən",
       "pos" : "n.",
@@ -2972,10 +3097,11 @@
         "a unit of time\/length\/weight：时间\/长度\/重量单位",
         "a fitted kitchen with white units：用白色组件的厨房"
       ],
-      "definition" : "单独的事物（或人、群体）；单位；分队；配套家具组件，",
+      "definition" : "单独的事物（或人、群体）；单位；分队；配套家具组件，（尤指）整体厨房配件；单元，课",
       "examples" : [
         "The basic unit of society is the family.\n社会的基本单位是家庭。"
       ],
+      "frequency" : 969,
       "mnemonic" : "uni-（单一） + t→单独的事物（或人、群体）；单位；家具组件；单元",
       "phonetic" : "ˈjuːnɪt",
       "pos" : "n.",
@@ -2984,12 +3110,14 @@
     },
     {
       "collocations" : [
-
+        "A special bond unites our two countries.\n一种特殊的纽带把我们两国联结起来。",
+        "His aim was to unite Italy.\n他的目标是统一意大利。"
       ],
       "definition" : "（为某事）联合，联手 vt. （与某人或集体）联合；统一",
       "examples" : [
-        "We need to unite against terrorism.\n我们需要团结起来反对恐怖主义。\nA special bond unites our two countries.\n一种特殊的纽带把我们两国联结起来。\nHis aim was to unite Italy.\n他的目标是统一意大利。"
+        "We need to unite against terrorism.\n我们需要团结起来反对恐怖主义。"
       ],
+      "frequency" : 4184,
       "mnemonic" : "uni-（一）+ te→变为一个→联合；联手；统一",
       "phonetic" : "juːˈnaɪt",
       "pos" : "v.",
@@ -2999,12 +3127,13 @@
     {
       "collocations" : [
         "efforts to build a united Europe：建立统一欧洲的努力",
-        "United Nations：联合国"
+        "United Nations：联合国\n笔 记 区\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "（国家）联合的，统一的；（人或群体）一致的，团",
+      "definition" : "（国家）联合的，统一的；（人或群体）一致的，团结的",
       "examples" : [
         "We should present a united front：我们要表现得团结一致"
       ],
+      "frequency" : 1468,
       "phonetic" : "jʊˈnaɪtɪd",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -3018,6 +3147,7 @@
       "examples" : [
 
       ],
+      "frequency" : 17516,
       "mnemonic" : "uni-（单一）+ t + -ary（形容词后缀）→与单一的有关的→集中的；",
       "phonetic" : "ˈjuːnətri",
       "pos" : "adj.",
@@ -3062,7 +3192,7 @@
         "unanimous support：一致的拥护",
         "unanimous decision：全体同意的决定"
       ],
-      "definition" : "（决定或意见）一致同意的；全体同意的（投",
+      "definition" : "（决定或意见）一致同意的；全体同意的（投票、决定、协议等）",
       "examples" : [
 
       ],
@@ -3074,10 +3204,16 @@
     },
     {
       "collocations" : [
-
+        "(especially of Holy Scripture), from Old French sens “one of the five",
+        "senses; meaning; wit, understanding” (12c.) and directly from Latin sensus",
+        "German sinnan “to go, travel, strive after, have in mind, perceive,” German",
+        "(touch, sight, hearing, etc.) in English first recorded 1520s. Meaning “that",
+        "which is wise” is from c. 1600. Meaning “capacity for perception and",
+        "appreciation” is from c. 1600 (as in sense of humor, attested by 1783,",
+        "sense of shame, 1640s)."
       ],
       "definition" : "独角兽",
-      "etymology" : "c. 1400, “faculty of perception,” also “meaning, import, interpretation” (especially of Holy Scripture), from Old French sens “one of the five senses; meaning; wit, understanding” (12c.) and directly from Latin sensus “perception, feeling, undertaking, meaning,” from sentire “perceive, feel, know,” probably a figurative use of a literally meaning “to find one’s way,” or “to go mentally,” from PIE root *sent- “to go” (source also of Old High German sinnan “to go, travel, strive after, have in mind, perceive,” German Sinn “sense, mind,” Old English sið “way, journey,” Old Irish set, Welsh hynt “way”). Application to any one of the external or outward senses (touch, sight, hearing, etc.) in English first recorded 1520s. Meaning “that which is wise” is from c. 1600. Meaning “capacity for perception and appreciation” is from c. 1600 (as in sense of humor, attested by 1783, sense of shame, 1640s).",
+      "etymology" : "c. 1400, “faculty of perception,” also “meaning, import, interpretation” “perception, feeling, undertaking, meaning,” from sentire “perceive, feel, know,” probably a figurative use of a literally meaning “to find one’s way,” or “to go mentally,” from PIE root *sent- “to go” (source also of Old High Sinn “sense, mind,” Old English sið “way, journey,” Old Irish set, Welsh hynt “way”). Application to any one of the external or outward senses",
       "examples" : [
 
       ],
@@ -3093,10 +3229,9 @@
         "in a sense：从某种意义上说",
         "knock\/talk some sense into sb.：开导某人别干傻事；强使某人理智行事",
         "make sense：有道理；合乎情理；表述清楚",
-        "make sense of sth.：理解；弄懂（不易理解的事物）",
-        "see sense：变得明智起来；开始明白事理",
+        "make sense of sth.：理解；弄懂（不易理解的事物）\nsee sense：变得明智起来；开始明白事理",
         "a sense of occasion：隆重的（或特别的）气氛",
-        "common sense：常识；直觉决断力"
+        "common sense：常识；直觉决断力\n由单词“sense：感觉，道理，理智”演变出词根“-sens， -sent”也表示“感\n觉，道理，理智”的含义（s，t 音似），于是有：\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "感觉官能（即视、听、嗅、味、触五觉）；感觉；理解力；理智；意义 vt. 觉察到；意识到",
       "examples" : [
@@ -3166,6 +3301,7 @@
       "examples" : [
         "Her voice is sensational.\n她的嗓音极为动听。"
       ],
+      "frequency" : 10123,
       "phonetic" : "senˈseɪʃənl",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -3226,6 +3362,7 @@
       "examples" : [
         "He was unable to control his sensibility.\n他无法控制自己敏锐的情感。"
       ],
+      "frequency" : 6806,
       "mnemonic" : "sense（感觉；理解）+ -able（形容词后缀，能够……的）+ -ity（名\n词后缀）→感觉、理解、认知的能力→感受能力；鉴赏力；敏感性",
       "phonetic" : "ˌsensəˈbɪləti",
       "pos" : "n.",
@@ -3240,6 +3377,7 @@
       "examples" : [
         "He looks about him, sensing danger.\n他四下看了看，感觉到有危险。"
       ],
+      "frequency" : 17495,
       "phonetic" : "ˈsensɪŋ",
       "pos" : "n.",
       "rootHint" : "car",
@@ -3251,13 +3389,16 @@
         "a very sensitive issue：一个非常敏感的问题",
         "sensitive documents：机密文件",
         "sensitive to light：对光敏感",
-        "an extremely sensitive microscope：一台极为灵敏的显微镜"
+        "an extremely sensitive microscope：一台极为灵敏的显微镜",
+        "Those customers who are sensitive to the price would rather purchase a",
+        "pirated product which is relatively cheap."
       ],
       "definition" : "有感知力的；能理解的；敏感的；机密的；灵敏的",
       "examples" : [
-        "那些对价格很敏感的消费者更宁愿去购买相对便宜的盗版产品。\nThose customers who are sensitive to the price would rather purchase a\npirated product which is relatively cheap."
+        "那些对价格很敏感的消费者更宁愿去购买相对便宜的盗版产品。"
       ],
-      "mnemonic" : "sens-（感觉；感知；理解）+ -itive（形容词后缀：表示“多”，-ite+",
+      "frequency" : 2529,
+      "mnemonic" : "sens-（感觉；感知；理解）+ -itive（形容词后缀：表示“多”，-ite+\n-ive）→感觉多的→有感知力的；能理解的；敏感的；引申义为机密",
       "phonetic" : "ˈsensətɪv",
       "pos" : "adj.",
       "rootHint" : "car",
@@ -3268,10 +3409,11 @@
         "be insensitive to sth.：对……不敏感\/漠视",
         "be insensitive to the demands of the public：对大众的需要不敏感"
       ],
-      "definition" : "不顾他人感受的；不敏感的；反应迟钝的；无",
+      "definition" : "不顾他人感受的；不敏感的；反应迟钝的；无感觉的",
       "examples" : [
         "He had become insensitive to cold.\n他已经感觉不到寒冷了。"
       ],
+      "frequency" : 11901,
       "mnemonic" : "in-（=not, opposite of：不，表相反）+ sensitive（有感知力的；敏感\n的；灵敏的）→不敏感的；反应迟钝的；不顾他人感受的",
       "phonetic" : "ɪnˈsensətɪv",
       "pos" : "adj.",
@@ -3316,6 +3458,7 @@
       "examples" : [
         "It was an opera, very glamorous and very sensual.\n那是一部极富魅力，让人感官非常愉悦的歌剧。"
       ],
+      "frequency" : 10322,
       "mnemonic" : "sens-（感官）+ -ual（形容词后缀，与……有关的）→与感官有关的\n→喜爱感官享受（尤指肉欲）的；性感的；愉悦感官的",
       "phonetic" : "ˈsenʃuəl",
       "pos" : "adj.",
@@ -3324,11 +3467,11 @@
     },
     {
       "collocations" : [
-
+        "These perfumes have warmth and sensuality.\n这些香水温暖且令人愉悦。"
       ],
       "definition" : "性感；感官的愉悦",
       "examples" : [
-        "The wave and curl of her blonde hair gave her sensuality and youth.\n波浪式的卷曲金发使她显得性感并富有青春活力。\nThese perfumes have warmth and sensuality.\n这些香水温暖且令人愉悦。"
+        "The wave and curl of her blonde hair gave her sensuality and youth.\n波浪式的卷曲金发使她显得性感并富有青春活力。"
       ],
       "frequency" : 17756,
       "mnemonic" : "sensual（性感的；愉悦感官的）+ -ity（指具备某种性质）→性感；",
@@ -3357,11 +3500,13 @@
       "collocations" : [
         "talk nonsense：胡说八道",
         "an economic nonsense：一件经济上的愚蠢行为",
-        "make a nonsense of\/make nonsense of：使……的价值大打折扣；使……"
+        "make a nonsense of\/make nonsense of：使……的价值大打折扣；使……\n显得荒诞；使……失去意义",
+        "If people can bribe police officers, it makes a complete nonsense of the",
+        "legal system.\n如果人们可以收买警察，法律体系的价值就会大打折扣。"
       ],
       "definition" : "胡言乱语；蠢话；蠢事6057",
       "examples" : [
-        "Your story about the frog turning into a prince is sheer nonsense.\n你的这个青蛙变王子的故事完全是一派胡言。\nIf people can bribe police officers, it makes a complete nonsense of the\nlegal system.\n如果人们可以收买警察，法律体系的价值就会大打折扣。"
+        "Your story about the frog turning into a prince is sheer nonsense.\n你的这个青蛙变王子的故事完全是一派胡言。"
       ],
       "mnemonic" : "non-（=no：表否定）+ sense（道理）→没有道理的话语和事→胡言",
       "phonetic" : "ˈnɒnsns",
@@ -3468,7 +3613,7 @@
 
       ],
       "frequency" : 3346,
-      "mnemonic" : "con-（共同）+ -sens-（感觉；感知）+ -us（名词后缀）→共同的感",
+      "mnemonic" : "con-（共同）+ -sens-（感觉；感知）+ -us（名词后缀）→共同的感\n觉、感知→一致的意见；共识\n邪解：consens（=consent：同意）+ us（我们）→我们一致同意→一致的意",
       "phonetic" : "kənˈsensəs",
       "pos" : "n.",
       "rootHint" : "car",
@@ -3482,6 +3627,7 @@
       "examples" : [
 
       ],
+      "frequency" : 13563,
       "mnemonic" : "consens（=consensus：一致的意见）+ ‎ -ual（形容词后缀）→一致同意",
       "phonetic" : "kənˈsenʃuəl",
       "pos" : "adj.",
@@ -3490,11 +3636,11 @@
     },
     {
       "collocations" : [
-
+        "She resents her mother for being so tough on her.\n她恨她的妈妈对她如此苛刻。"
       ],
       "definition" : "憎恨；感到气愤",
       "examples" : [
-        "I deeply resented her criticism.\n我对她的批评感到非常气愤。\nShe resents her mother for being so tough on her.\n她恨她的妈妈对她如此苛刻。"
+        "I deeply resented her criticism.\n我对她的批评感到非常气愤。"
       ],
       "frequency" : 6525,
       "mnemonic" : "re-（反）+ -sent（感）→反感；憎恨",
@@ -3533,12 +3679,14 @@
     },
     {
       "collocations" : [
-        "flower scent：花香"
+        "flower scent：花香",
+        "dab herself with scent：在自己身上擦了点香水"
       ],
-      "definition" : "香味；香水；（人的）气味；（动物留下的）臭迹 vt. 使充满",
+      "definition" : "香味；香水；（人的）气味；（动物留下的）臭迹 vt. 使充满香味；嗅到",
       "examples" : [
         "Jasmine flowers scent the air.\n茉莉花使空气充满芳香。"
       ],
+      "frequency" : 4514,
       "mnemonic" : "scent（=sense：五官的感觉）→专指鼻子的感觉→嗅觉；气味",
       "phonetic" : "sent",
       "pos" : "n.",
@@ -3563,10 +3711,11 @@
       "collocations" : [
         "dissent from...：对……持有异议；不赞同"
       ],
-      "definition" : "（与官方的）不同意见，异议 vi.（对官方意见）不同",
+      "definition" : "（与官方的）不同意见，异议 vi.（对官方意见）不同意，持异议",
       "examples" : [
 
       ],
+      "frequency" : 8322,
       "mnemonic" : "dis-（differently：不同地）+ -sent（to feel, think：感觉；想法）→不\n一样的想法，感觉→异议；持有异议",
       "phonetic" : "dɪˈsent",
       "pos" : "n.",
@@ -3577,10 +3726,11 @@
       "collocations" : [
 
       ],
-      "definition" : "（对官方或普遍认可的意见）持异议者，持不同意见",
+      "definition" : "（对官方或普遍认可的意见）持异议者，持不同意见者",
       "examples" : [
         "The party does not tolerate dissenters in its ranks.\n该党不允许党内出现持不同政见者。"
       ],
+      "frequency" : 16006,
       "phonetic" : "dɪˈsentə",
       "pos" : "n.",
       "rootHint" : "car",
@@ -3602,10 +3752,15 @@
     },
     {
       "collocations" : [
-        "a dissident Russian novelist：一位与政府意见相左的俄罗斯小说家"
+        "a dissident Russian novelist：一位与政府意见相左的俄罗斯小说家",
+        "Proto-Indo-European root meaning “light, brightness.”",
+        "It is the hypothetical source of\/evidence for its existence is provided by:",
+        "Sanskrit rocate “shines;” Armenian lois “light,” lusin “moon;” Greek",
+        "Hittite lukezi “is bright;” Old English leht, leoht “light, daylight; spiritual",
+        "illumination,” German Licht, Gothic liuhaþ “light.”\n笔 记 区"
       ],
       "definition" : "持不同政见的 n. 异议分子",
-      "etymology" : "*leuk- Proto-Indo-European root meaning “light, brightness.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit rocate “shines;” Armenian lois “light,” lusin “moon;” Greek leukos “bright, shining, white;” Latin lucere “to shine,” lux “light,” lucidus “clear;” Old Church Slavonic luci “light;” Lithuanian laukas “pale;” Welsh llug “gleam, glimmer;” Old Irish loche “lightning,” luchair “brightness;” Hittite lukezi “is bright;” Old English leht, leoht “light, daylight; spiritual illumination,” German Licht, Gothic liuhaþ “light.” 笔 记 区",
+      "etymology" : "*leuk- leukos “bright, shining, white;” Latin lucere “to shine,” lux “light,” lucidus “clear;” Old Church Slavonic luci “light;” Lithuanian laukas “pale;” Welsh llug “gleam, glimmer;” Old Irish loche “lightning,” luchair “brightness;”",
       "examples" : [
 
       ],
@@ -3620,19 +3775,22 @@
       "collocations" : [
         "a room with good natural light：采光好的房间",
         "a beam\/ray of light：一束\/一缕光线",
-        "according to sb.’s\/sth.’s lights：根据自己设定的标准",
-        "be in sb.’s light：挡住某人的光线",
-        "bring sth. to light：揭露；披露",
-        "cast\/shed\/throw light on sth.：使（问题等）较容易理解",
+        "according to sb.’s\/sth.’s lights：根据自己设定的标准\nbe in sb.’s light：挡住某人的光线\nbring sth. to light：揭露；披露\ncast\/shed\/throw light on sth.：使（问题等）较容易理解",
         "come to light：为人所知；变得众所周知；暴露",
         "in a good, bad, favorable, etc. light：从好（或坏、有利等）的角度",
         "in the light of sth.：考虑到；鉴于",
-        "light at the end of the tunnel：快要熬出头了；曙光在即"
+        "light at the end of the tunnel：快要熬出头了；曙光在即",
+        "(the) light dawn (on sb.)：豁然开朗；恍然大悟",
+        "the light of sb.’s life：心爱的人；心肝宝贝",
+        "see the light：终于领悟；最终明白；最后接受（尤指显而易见的事）",
+        "set light to sth.：点燃；引火烧",
+        "Our way was lit by a full moon.\n一轮明月照亮了我们的路。"
       ],
-      "definition" : "光，光线；发光体，（尤指）电灯；火柴，打火机；眼神；亮",
+      "definition" : "光，光线；发光体，（尤指）电灯；火柴，打火机；眼神；亮色； adj. 明亮的 vt. 点燃；照亮",
       "examples" : [
-        "The fire wouldn’t light.\n这火炉点不着。\nOur way was lit by a full moon.\n一轮明月照亮了我们的路。"
+        "The fire wouldn’t light.\n这火炉点不着。"
       ],
+      "frequency" : 465,
       "phonetic" : "laɪt",
       "pos" : "n.",
       "rootHint" : "car",
@@ -3640,7 +3798,8 @@
     },
     {
       "collocations" : [
-        "a lighted candle：一支点燃的蜡烛"
+        "a lighted candle：一支点燃的蜡烛",
+        "a lighted window：一扇灯火通明的窗户"
       ],
       "definition" : "点燃的；灯火通明的",
       "examples" : [
@@ -3746,14 +3905,20 @@
       "collocations" : [
         "the spotlight：聚光灯照亮的地方；媒体和公众的注意",
         "the highlights of the match：比赛最精彩的片段",
-        "highlight the major problems：强调了主要问题"
+        "highlight the major problems：强调了主要问题",
+        "understand universal principles of effectiveness, and he highlights how",
+        "vital it is for leaders to first personally manage themselves if they are to",
+        "enjoy any hope of outstanding success in their work environments.\n和这些观点不同，Covey认为领导者应该理解效能的普遍原则，并且\n他强调领导者首先要加强自我管理，如果他们希望在工作环境中成为\n杰出的领导者话，这一点尤为重要。",
+        "if people are to enjoy any hope of outstanding success in their work",
+        "environments."
       ],
-      "definition" : "（剧院等的）聚光灯 vt. 用聚光灯照；突出报道（以使",
+      "definition" : "（剧院等的）聚光灯 vt. 用聚光灯照；突出报道（以使公众注意）",
       "examples" : [
         "The program spotlights financial problems in the health service.\n节目突出报道了公共医疗机构的财政问题。",
-        "In contrast to each of these ideas, Covey advocates that leaders need to\nunderstand universal principles of effectiveness, and he highlights how\nvital it is for leaders to first personally manage themselves if they are to\nenjoy any hope of outstanding success in their work environments.\n和这些观点不同，Covey认为领导者应该理解效能的普遍原则，并且\n他强调领导者首先要加强自我管理，如果他们希望在工作环境中成为\n杰出的领导者话，这一点尤为重要。",
-        "林肯的名言强调了，如果人们希望在工作环境中成为杰出的领导\n者的话，充分的准备是非常重要的。\nLincoln’s famous remark highlights how vital it is to make full preparation\nif people are to enjoy any hope of outstanding success in their work\nenvironments."
+        "In contrast to each of these ideas, Covey advocates that leaders need to",
+        "林肯的名言强调了，如果人们希望在工作环境中成为杰出的领导\n者的话，充分的准备是非常重要的。\nLincoln’s famous remark highlights how vital it is to make full preparation"
       ],
+      "frequency" : 5558,
       "mnemonic" : "spot（注意到）+ light（光线）→吸引观众注意力的光线→聚光灯；\nhigh（高的；强的）+ light（光）→放在强光（聚光灯）下→突出；",
       "phonetic" : "ˈspɒtlaɪt",
       "pos" : "n.",
@@ -3825,8 +3990,7 @@
     {
       "collocations" : [
         "the twilight years：暮年",
-        "in the twilight：在暮色中",
-        "at twilight：黄昏时分"
+        "in the twilight：在暮色中\nat twilight：黄昏时分\n暮光之城：The Twilight Saga"
       ],
       "definition" : "暮色；黄昏；衰退期；晚期",
       "examples" : [
@@ -3903,15 +4067,14 @@
     {
       "collocations" : [
         "to be in the limelight：成为公众注目的中心",
-        "to stay out of the limelight：避免引人注目",
-        "to steal\/hog the limelight：把公众的注意力吸引过来"
+        "to stay out of the limelight：避免引人注目\nto steal\/hog the limelight：把公众的注意力吸引过来"
       ],
       "definition" : "公众注意的中心",
       "examples" : [
 
       ],
       "frequency" : 14213,
-      "mnemonic" : "lime（石灰）+ light （灯）→最早应用于19世纪初期，人们利用生石",
+      "mnemonic" : "lime（石灰）+ light （灯）→最早应用于19世纪初期，人们利用生石\n已为现代化的照明技术所取代，但该词却一直流传至今→引申词义众",
       "phonetic" : "ˈlaɪmlaɪt",
       "pos" : "n.",
       "rootHint" : "car",
@@ -3965,11 +4128,11 @@
     },
     {
       "collocations" : [
-
+        "facing obstacles and difficulties.\n一些哲学家相信，通往启蒙之路来自于面对挫折和困难。"
       ],
       "definition" : "启迪，开导；启蒙运动",
       "examples" : [
-        "Some philosophers believe that the way to enlightenment comes through\nfacing obstacles and difficulties.\n一些哲学家相信，通往启蒙之路来自于面对挫折和困难。"
+        "Some philosophers believe that the way to enlightenment comes through"
       ],
       "frequency" : 12982,
       "mnemonic" : "enlighten（启发；开导）+ -ment（名词后缀）→启迪；启蒙运动",

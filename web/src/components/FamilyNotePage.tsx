@@ -70,6 +70,8 @@ export function FamilyNotePage({
   const [activePanel, setActivePanel] = useState<string>(OVERVIEW_PANEL);
   const panelInitForFamily = useRef<string | null>(null);
   const lastFocusWord = useRef<string | undefined>(undefined);
+  /** 当前聚焦词（路由深链 ?word= 或本页搜索点击），驱动展开/高亮/锚定 */
+  const [focusedWord, setFocusedWord] = useState<string | undefined>(focusWord);
 
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
@@ -155,13 +157,16 @@ export function FamilyNotePage({
     const hitEntry = catalogMap.get(`${hit.textbook}:${hit.familyId}`);
     if (!hitEntry) return;
     if (hitEntry.textbook === entry.textbook && hitEntry.id === entry.id) {
+      // 本页单词：切换面板 + 更新聚焦词（展开/高亮），并同步地址栏深链（不触发重载）
       setActivePanel(
         variantTabs.find((tab) => groups.get(tab.root)?.some((w) => w.word === hit.word))?.root ?? activePanel,
       );
-      setTimeout(() => {
-        const el = document.querySelector(`[id^="word-${CSS.escape(hit.word)}-"]`);
-        el?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-      }, 100);
+      setFocusedWord(hit.word);
+      history.replaceState(
+        null,
+        '',
+        `#/family/${encodeURIComponent(entry.textbook)}/${encodeURIComponent(entry.id)}?word=${encodeURIComponent(hit.word)}`,
+      );
     } else {
       onSearchOpen(hitEntry, hit.word);
     }
@@ -193,14 +198,19 @@ export function FamilyNotePage({
   }, [family?.id, focusWord, variantTabs, groups]);
 
   useEffect(() => {
-    if (!family || !focusWord) return;
+    if (!family || !focusedWord) return;
     window.requestAnimationFrame(() => {
       const el =
-        document.getElementById(`word-${focusWord}`)
-        ?? document.querySelector(`[id^="word-${CSS.escape(focusWord)}-"]`);
+        document.getElementById(`word-${focusedWord}`)
+        ?? document.querySelector(`[id^="word-${CSS.escape(focusedWord)}-"]`);
       el?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
-  }, [family, focusWord, activePanel]);
+  }, [family, focusedWord, activePanel]);
+
+  /** 路由深链变化时同步本地聚焦词 */
+  useEffect(() => {
+    setFocusedWord(focusWord);
+  }, [focusWord]);
 
   const handlePanelChange = (panel: string) => {
     setActivePanel(panel);
@@ -239,8 +249,8 @@ export function FamilyNotePage({
         <WordCard
           key={`${panelKey}-${w.word}-${index}`}
           {...wordCardPropsFor(w, index)}
-          defaultCollapsed={focusWord !== w.word}
-          highlighted={focusWord === w.word}
+          defaultCollapsed={focusedWord !== w.word}
+          highlighted={focusedWord === w.word}
         />
       ))}
     </div>

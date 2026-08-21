@@ -15,8 +15,8 @@
       "word": "opt",
       "phonetic": "ppt",
       "pos": "vt.",
-      "definition": "&vi. 选择4755",
-      "frequency": null,
+      "definition": "&vi. 选择",
+      "frequency": 4755,
       "mnemonic": null,
       "collocations": [
         "opt for one method or the other: 选择这种或那种方法 opt out: 选择不参加"
@@ -29,14 +29,16 @@
       "word": "option",
       "phonetic": "'ppʃ(an",
       "pos": "n.",
-      "definition": "供选择的东西；选择权；购买权；出售权；期权；选修 课1106",
-      "frequency": null,
+      "definition": "供选择的东西；选择权；购买权；出售权；期权；选修 课",
+      "frequency": 1106,
       "mnemonic": null,
       "collocations": [
+        "The meaning \"thing that may be chosen\"is attested from 1885.",
+        "The commercial transaction sense of \"privilege secured by payment of a premium (on a stock or a certain produce at a specified time and at a specified price)is recorded from 1755(the verb in this sense is from 1934). As a North American football play in which the back may either pass the ball or run with it,it is recorded from 1954.",
         "have the option of: 有……的选择",
         "keep your options open/leave your options open: 暂不做决定"
       ],
-      "etymology": "c.1600,\"action of choosing;\"1630s,\"power or liberty of choosing,\"from French option(Old French opcion),from Latin optionem (nominative optio)“choice,free choice,liberty to choose”. The meaning \"thing that may be chosen\"is attested from 1885. The commercial transaction sense of \"privilege secured by payment of a premium (on a stock or a certain produce at a specified time and at a specified price)is recorded from 1755(the verb in this sense is from 1934). As a North American football play in which the back may either pass the ball or run with it,it is recorded from 1954.",
+      "etymology": "c.1600,\"action of choosing;\"1630s,\"power or liberty of choosing,\"from French option(Old French opcion),from Latin optionem (nominative optio)“choice,free choice,liberty to choose”.",
       "examples": [],
       "rootHint": "opt"
     },
@@ -44,8 +46,8 @@
       "word": "optional",
       "phonetic": "'bpʃ()n(a)l",
       "pos": "adj.",
-      "definition": "可选择的5770",
-      "frequency": null,
+      "definition": "可选择的",
+      "frequency": 5770,
       "mnemonic": null,
       "collocations": [
         "take optional courses: 上选修课"
@@ -58,11 +60,13 @@
       "word": "co-opt",
       "phonetic": "kou'spt",
       "pos": "vt.",
-      "definition": "团结；指派；借鉴14445",
-      "frequency": null,
+      "definition": "团结；指派；借鉴",
+      "frequency": 14445,
       "mnemonic": null,
       "collocations": [
-        "try to co-opt rather than defeat his critics: 试着团结而非打击批评他的人"
+        "try to co-opt rather than defeat his critics: 试着团结而非打击批评他的人",
+        "be co-opted into the Labor Government: 被指派加入了工党政府",
+        "co-opt many nationalist slogans: 借鉴了很多民族主义的口号"
       ],
       "etymology": null,
       "examples": [],
@@ -72,8 +76,8 @@
       "word": "adopt",
       "phonetic": "ə 'dppt",
       "pos": "vt.",
-      "definition": "采纳；采用(态度/方式等) vt.&vi.收养1641",
-      "frequency": null,
+      "definition": "采纳；采用(态度/方式等) vt.&vi.收养",
+      "frequency": 1641,
       "mnemonic": "ad-( =to: 去 ) +-opt(=choose ,wish,desire: 选择；希望) →选择然 后采用→采纳；采取(即：“选择”什么)\nad-(=to: 去)+-opt(=choose,wish,desire: 选择；希望) →选择然\n后领走 → 收养(即： “选择”一个孩子养)",
       "collocations": [
         "adopt a new technique/policy: 采取一种新的技术/政策 adopt black children: 收养黑人小孩",
@@ -90,7 +94,9 @@
       "definition": "领养的；〔国家〕选择移居的",
       "frequency": 10808,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "adopted country: 移居的国家"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "opt"
@@ -102,7 +108,9 @@
       "definition": "领养；采纳；〔候选人的〕提名，推选",
       "frequency": 3711,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "his adoption as the Labour candidate: 他被选定为工党候选人"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "opt"
@@ -111,10 +119,12 @@
       "word": "adoptive",
       "phonetic": "ə'doptiv",
       "pos": "adj.",
-      "definition": "收养的(家庭)",
-      "frequency": 11032,
+      "definition": "收养的(家庭)11032opine” 表示“认为”,“opinion” 表示“看法；意见”。",
+      "frequency": null,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "adoptive parents: 养父母"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "opt"
@@ -123,11 +133,13 @@
       "word": "opine",
       "phonetic": "ə(u)'pan",
       "pos": "vt.",
-      "definition": "&vi. 认为；发表意见17585",
-      "frequency": null,
+      "definition": "&vi. 认为；发表意见",
+      "frequency": 17585,
       "mnemonic": null,
-      "collocations": [],
-      "etymology": "mid-15c.,opinen,\"express an opinion or opinions;to think,suppose,\"also transitive,\"be of the opinion that,\"from Old French oppiner,opiner(15c.) and directly from Latin opinari \"have an opinion,be of opinion,suppose, conjecture,think,judge”.来自拉丁语opinari,发表观点，表达意见。 搭配：opine that..:认为…… 20000词汇巅峰速 20000词汇巅峰 笔 记 区 笔 记 区",
+      "collocations": [
+        "conjecture,think,judge”.来自拉丁语opinari,发表观点，表达意见。 搭配：opine that..:认为……\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": "mid-15c.,opinen,\"express an opinion or opinions;to think,suppose,\"also transitive,\"be of the opinion that,\"from Old French oppiner,opiner(15c.) and directly from Latin opinari \"have an opinion,be of opinion,suppose,",
       "examples": [],
       "rootHint": "opt"
     },
@@ -135,8 +147,8 @@
       "word": "opinion",
       "phonetic": "ə 'pinjon",
       "pos": "n.",
-      "definition": "看法；评价；舆论；(专家的)意见1127",
-      "frequency": null,
+      "definition": "看法；评价；舆论；(专家的)意见",
+      "frequency": 1127,
       "mnemonic": "它来自拉丁语opinionem ( 意见；主张),最终来自印欧词根op- “选 择”。你所坚执的主张、评价、看法，民众形成的舆论，是你或民众 自己选择的结果。",
       "collocations": [
         "in sb's opinion: 据……的意见",

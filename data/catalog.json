@@ -216,7 +216,7 @@
     "roots": [
       "ics"
     ],
-    "wordCount": 26,
+    "wordCount": 27,
     "source": "textbook-1",
     "textbook": "textbook-1"
   },
@@ -314,7 +314,7 @@
     "semanticLabel": "做、",
     "source": "textbook-2",
     "titleZh": "做、",
-    "wordCount": 122,
+    "wordCount": 125,
     "textbook": "textbook-2"
   },
   {
@@ -365,7 +365,7 @@
     "semanticLabel": "act",
     "source": "textbook-2",
     "titleZh": "act",
-    "wordCount": 45,
+    "wordCount": 47,
     "textbook": "textbook-2"
   },
   {
@@ -1002,7 +1002,7 @@
     "semanticLabel": "看。",
     "source": "textbook-5",
     "titleZh": "看。",
-    "wordCount": 120,
+    "wordCount": 121,
     "textbook": "textbook-5"
   },
   {
@@ -1149,7 +1149,7 @@
     "semanticLabel": "cut，表示切割，雕刻。",
     "source": "textbook-5",
     "titleZh": "cut，表示切割，雕刻。",
-    "wordCount": 107,
+    "wordCount": 108,
     "textbook": "textbook-5"
   },
   {
@@ -1593,7 +1593,7 @@
     "semanticLabel": "抓住；拿到。",
     "source": "textbook-5",
     "titleZh": "抓住；拿到。",
-    "wordCount": 116,
+    "wordCount": 117,
     "textbook": "textbook-5"
   },
   {
@@ -2581,13 +2581,13 @@
   {
     "chapter": "1",
     "chapterOrder": 101,
-    "file": "pend.json",
-    "id": "pend",
+    "file": "s-pend.json",
+    "id": "s-pend",
     "meaningEn": "weigh",
     "meaningZh": "称重，进而引申为权衡；平衡",
     "roots": [
-      "pend",
-      "pond 都"
+      "(s)pend",
+      "(s)pond 都"
     ],
     "semanticLabel": "称重，进而引申为权衡；平衡",
     "source": "textbook-8",
@@ -2598,8 +2598,8 @@
   {
     "chapter": "2",
     "chapterOrder": 102,
-    "file": "pend-2.json",
-    "id": "pend-2",
+    "file": "pend.json",
+    "id": "pend",
     "meaningEn": "weigh",
     "meaningZh": "称重，进而引申为权衡",
     "roots": [

@@ -13,13 +13,15 @@
   "words" : [
     {
       "collocations" : [
+        "argument to persuade, inducement：劝说某人说服某事的行为；说服的\n论据”。",
         "persuade sb. to do sth.：说服某人干某事"
       ],
       "definition" : "说服，劝说；使某人相信；劝某人做（不做）某事",
-      "etymology" : "14世纪后期，“action of inducing (someone) to believe (something); argument to persuade, inducement：劝说某人说服某事的行为；说服的 论据”。",
+      "etymology" : "14世纪后期，“action of inducing (someone) to believe (something);",
       "examples" : [
         "To persuade the government to change its current economic policies.\n说服政府去改变现行的经济政策。"
       ],
+      "frequency" : 3293,
       "mnemonic" : "per-（彻底）+ -suad（=to urge：力劝）+ -e→彻底劝说→说服；劝",
       "phonetic" : "pəˈsweɪd",
       "pos" : "vt.",

@@ -15,7 +15,8 @@
       "collocations" : [
         "a moon landing：月球登陆",
         "full moon：满月",
-        "new moon：新月"
+        "new moon：新月",
+        "moon over sb.：痴痴地思念（所爱的人）（海上升明月，天涯共此\n时）"
       ],
       "definition" : "月亮；月球；卫星",
       "etymology" : "来自原始印欧语词根me(n)ses- “moon, month”。来自词根me-=测 量：to measure，表示月亮的阴晴圆缺作为古代及通用的测量日期的 参照物。",
@@ -31,7 +32,7 @@
     {
       "collocations" : [
         "to go for a walk by moonlight\/in the moonlight：在月光下散步",
-        "moonlight as a taxi driver：兼职做出租车司机"
+        "moonlight as a taxi driver：兼职做出租车司机\n比较：moonshine n.（非法私酿的）威士忌酒；妄想；空话"
       ],
       "definition" : "月光 vi.（常指隐瞒雇主或税务机关的）兼职",
       "examples" : [
@@ -70,6 +71,7 @@
       "examples" : [
 
       ],
+      "frequency" : 8275,
       "mnemonic" : "honey（蜜）+ moon（=month：月）→蜜月；和谐时期；度蜜月",
       "phonetic" : "ˈhʌnɪmuːn",
       "pos" : "n.",
@@ -78,12 +80,12 @@
     },
     {
       "collocations" : [
-
+        "Her anxiety mounted month by month (= as each month passed).\n她的焦虑之情逐月加重。"
       ],
       "definition" : "月份；一个月的时间",
       "etymology" : "古人会根据月亮圆缺来记录时间。原始印欧语menes-，既指月亮的 “月”,也是月份的“月”。",
       "examples" : [
-        "Prices continue to rise month after month (= over a period of several\nmonths).\n近几个月价格持续增长。\nHer anxiety mounted month by month (= as each month passed).\n她的焦虑之情逐月加重。"
+        "Prices continue to rise month after month (= over a period of several\nmonths).\n近几个月价格持续增长。"
       ],
       "frequency" : 237,
       "mnemonic" : "mon（=moon：月亮）+ -th（名词后缀）→月份；一个月的时间",
@@ -99,10 +101,11 @@
         "get paid monthly：按月领薪水",
         "the fashion monthlies：时装月刊"
       ],
-      "definition" : "每月的，每月一次的；按月结算的，有效期为一个",
+      "definition" : "每月的，每月一次的；按月结算的，有效期为一个月的 adv. 每个月；每月一次 n. 月刊",
       "examples" : [
 
       ],
+      "frequency" : 3552,
       "phonetic" : "ˈmʌnθlɪ",
       "pos" : "adj.",
       "rootHint" : "mens",
@@ -158,10 +161,11 @@
       "collocations" : [
         "the first trimester of pregnancy：妊娠的头三个月"
       ],
-      "definition" : "妊娠期（以三个月为单位）；（一些国家的学院及",
+      "definition" : "妊娠期（以三个月为单位）；（一些国家的学院及大学中一学年的三分之一）学期（=term：学期）",
       "examples" : [
         "The school year is divided into three trimesters.\n一学年分三个学期。"
       ],
+      "frequency" : 18781,
       "mnemonic" : "tri-（=three：三）+ mester（=month：月）→三个月时间→妊娠期；",
       "phonetic" : "traɪˈmestə",
       "pos" : "n.",
@@ -172,7 +176,7 @@
       "collocations" : [
         "a square meal：丰盛的一餐"
       ],
-      "definition" : "一顿饭；（一餐所吃的）食物；谷物粗粉（用作饲料或加工",
+      "definition" : "一顿饭；（一餐所吃的）食物；谷物粗粉（用作饲料或加工面粉）1722",
       "etymology" : "来自印欧语词根me=to measure：测量，同meter，measure。词义 由测量引申为固定时间，最后引申词义用餐时间，一顿饭。",
       "examples" : [
 
@@ -216,11 +220,12 @@
       "collocations" : [
         "read the gas meter：查煤气表"
       ],
-      "definition" : "（用于测量电、煤气、水等，以及时间和距离的）计量",
+      "definition" : "（用于测量电、煤气、水等，以及时间和距离的）计量表；-meter（构成复合词）计；仪；表；米（=metre） vt. 用仪表计量",
       "etymology" : "来自希腊语metron“ measure”。原本是衡量古希腊古典诗歌韵律的 最小单位，后来metron在希腊语中又衍生出“度量万物的最小单位” 之意。1799年，法国采用“meter”——以通过巴黎的子午线上从地 球赤道到北极点的距离的一千万分之一——为标准单位，即“米”。",
       "examples" : [
 
       ],
+      "frequency" : 3050,
       "phonetic" : "ˈmiːtə(r)",
       "pos" : "n.",
       "rootHint" : "meter",
@@ -290,7 +295,7 @@
     {
       "collocations" : [
         "the geometry of the curved roof：几何图形的弧形房顶",
-        "the geometry of a spider’s web：蜘蛛网的几何形状"
+        "the geometry of a spider’s web：蜘蛛网的几何形状\n笔 记 区"
       ],
       "definition" : "几何学；几何图形；几何结构",
       "examples" : [
@@ -322,7 +327,8 @@
     {
       "collocations" : [
         "perfect symmetry：完全对称",
-        "the increasing symmetry between men’s and women’s jobs：男女职业的"
+        "the increasing symmetry between men’s and women’s jobs：男女职业的\n日渐趋同（一致）",
+        "maintain symmetry：保持均等（或平衡）"
       ],
       "definition" : "对称；（关系或协议中双方）平衡，均等",
       "examples" : [
@@ -399,10 +405,11 @@
       "collocations" : [
         "take a barometer reading：看一次气压计"
       ],
-      "definition" : "气压计；睛雨表；（显示经济、社会、政治变化",
+      "definition" : "气压计；睛雨表；（显示经济、社会、政治变化的）晴雨表，标志，指标",
       "examples" : [
         "Infant mortality is a reliable barometer of socio-economic conditions.\n婴儿死亡率是社会经济状况的可靠指标。"
       ],
+      "frequency" : 16997,
       "mnemonic" : "baro-（=weight：重力）+ meter（仪表）→测量大气压强（由于大气\n所受重力而产生）的仪表→气压计；晴雨表（决定天气阴晴的因素是",
       "phonetic" : "bəˈrɒmɪtə",
       "pos" : "n.",
@@ -413,19 +420,18 @@
       "collocations" : [
         "measuring equipment\/instruments：测量装备\/仪器",
         "measure about two meters across：（量度为）宽约2米",
-        "measure the success：估量成就",
-        "safety\/emergency measures：安全\/紧急措施",
+        "measure the success：估量成就\nsafety\/emergency measures：安全\/紧急措施",
         "a measure of knowledge：一定数量的知识",
         "an accurate measure of ability：对能力的准确判断",
-        "weights and measures：度量衡",
-        "measure sb.\/sth. against sb.\/sth.：使……相比较",
+        "weights and measures：度量衡\nmeasure sb.\/sth. against sb.\/sth.：使……相比较",
         "measure up (to sth.\/sb.)：达到预期的要求；符合标准（=match up）",
         "beyond measure：无法测量；极度"
       ],
-      "definition" : "测量；（指尺寸、长短、数量等）量度为；估量，判定",
+      "definition" : "测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等） n. 措施，方法；一定数量、程度；尺度，标准；判断，衡量；度量单位；计量工具",
       "examples" : [
 
       ],
+      "frequency" : 43,
       "mnemonic" : "meas-（测量）+ -ure（名词后缀）→测量；量度为→引申义为估量；",
       "phonetic" : "ˈmeʒə",
       "pos" : "vt.",
@@ -435,7 +441,7 @@
     {
       "collocations" : [
         "measured response：慎重的答复",
-        "reply in a measured tone：以很有分寸的语气回答"
+        "reply in a measured tone：以很有分寸的语气回答\n笔 记 区"
       ],
       "definition" : "慎重的；斟酌的；有分寸的",
       "examples" : [
@@ -450,12 +456,14 @@
     },
     {
       "collocations" : [
-        "the measurement of intelligence：对智商的评估"
+        "the measurement of intelligence：对智商的评估",
+        "I know all her measurements and find it easy to buy stuff she likes.\n我知道她所有的身体尺寸，觉得买到她喜欢的东西很容易。"
       ],
       "definition" : "测量；测量的结果；评估；（身体）尺寸",
       "examples" : [
-        "Tests include measurement of height, weight, and blood pressure.\n检查包括对身高、体重和血压的测量。\nI know all her measurements and find it easy to buy stuff she likes.\n我知道她所有的身体尺寸，觉得买到她喜欢的东西很容易。"
+        "Tests include measurement of height, weight, and blood pressure.\n检查包括对身高、体重和血压的测量。"
       ],
+      "frequency" : 3255,
       "mnemonic" : "measure（测量；估量；尺寸）+ -ment（名词后缀）→测量；评估；",
       "phonetic" : "ˈmeʒəmənt",
       "pos" : "n.",
@@ -486,6 +494,7 @@
       "examples" : [
 
       ],
+      "frequency" : 15465,
       "phonetic" : "ˈmeʒərɪŋ",
       "pos" : "adj.",
       "rootHint" : "mens",
@@ -495,12 +504,13 @@
       "collocations" : [
         "the dimensions of the room：房间的尺寸",
         "fourth dimension：第四维（科学家和科幻小说作家用语，即时间）",
-        "a problem of considerable dimensions：一个涉及范围相当广的问题"
+        "a problem of considerable dimensions：一个涉及范围相当广的问题\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "维（构成空间的因素）；尺寸；规模，范围；方",
+      "definition" : "维（构成空间的因素）；尺寸；规模，范围；方面",
       "examples" : [
 
       ],
+      "frequency" : 2440,
       "mnemonic" : "di-（=dis-=apart, away：分离地；分开）+ mens-（=measure：测量）\n+ -ion（名词后缀）→分开测量→维，尺寸；规模，范围；方面",
       "phonetic" : "daɪˈmenʃn",
       "pos" : "n.",
@@ -539,12 +549,14 @@
     },
     {
       "collocations" : [
-        "a two-dimensional drawing：平面图"
+        "a two-dimensional drawing：平面图",
+        "seem like real people).\n这部小说因人物缺乏深度而受到批评。"
       ],
-      "definition" : "二维的；平面的；（指虚构人物形",
+      "definition" : "二维的；平面的；（指虚构人物形象）没有深度的",
       "examples" : [
-        "The novel was criticized for its two-dimensional characters (= that did not\nseem like real people).\n这部小说因人物缺乏深度而受到批评。"
+        "The novel was criticized for its two-dimensional characters (= that did not"
       ],
+      "frequency" : 13679,
       "mnemonic" : "two（二个）+ dimensional（维度的）→二个维度的→平面的；没有",
       "phonetic" : "ˌtuː daɪˈmenʃənl",
       "pos" : "adj.",
@@ -556,10 +568,11 @@
         "three-dimensional objects：立体物体",
         "three-dimensional images：三维图像"
       ],
-      "definition" : "（照片、图像或电影）三维的；立",
+      "definition" : "（照片、图像或电影）三维的；立体的（3D）",
       "examples" : [
 
       ],
+      "frequency" : 8971,
       "mnemonic" : "three（三个）+ dimensional（维度的）→三个维度的→（照片、图像",
       "phonetic" : "ˌθriː daɪˈmenʃənl",
       "pos" : "adj.",
@@ -569,7 +582,7 @@
     {
       "collocations" : [
         "to reach (the) menopause：到更年期",
-        "fight the symptoms of menopause：对抗更年期症状"
+        "fight the symptoms of menopause：对抗更年期症状\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "（女性的）更年期",
       "examples" : [
@@ -586,7 +599,7 @@
       "collocations" : [
         "menstrual blood：经血",
         "a menstrual period：月经期",
-        "the menstrual cycle：月经周期"
+        "the menstrual cycle：月经周期\n笔 记 区"
       ],
       "definition" : "月经的",
       "etymology" : "直接来自拉丁语menstrualis “monthly,” especially “of or having monthly courses”. 直接来自拉丁语menstrualis“每月的”，特指“有月经的， 与月经有关的”。",

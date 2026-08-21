@@ -15,11 +15,12 @@
         "plastic bags：塑料袋",
         "plastic as butter：像黄油一样易塑"
       ],
-      "definition" : "塑料；信用卡 adj. （样子或味道）不自然的；柔软可塑",
+      "definition" : "塑料；信用卡 adj. （样子或味道）不自然的；柔软可塑的",
       "etymology" : "来自希腊语 plastikos able to be molded, formed：能够被塑造成形的→ 塑料；信用卡；柔软可塑的",
       "examples" : [
 
       ],
+      "frequency" : 1532,
       "mnemonic" : "pla-（平面的）+ -stic（形容词后缀）→表面为平的（材料）→塑",
       "phonetic" : "ˈplæstɪk",
       "pos" : "n.",
@@ -48,11 +49,12 @@
         "plaster the city with posters：在城中各处张贴了海报",
         "plaster herself in factor 7 sun lotion：给自己涂抹上防晒系数是7的防晒霜"
       ],
-      "definition" : "灰泥；熟石膏；膏药 vt. 往……上抹灰泥；到处张贴（海",
+      "definition" : "灰泥；熟石膏；膏药 vt. 往……上抹灰泥；到处张贴（海报、图画等）",
       "etymology" : "古英语plaster “medicinal application”，含义为“用药，敷药”→现代 含义为灰泥；膏药；抹灰泥；张贴",
       "examples" : [
 
       ],
+      "frequency" : 8404,
       "phonetic" : "ˈplɑːstə",
       "pos" : "n.",
       "rootHint" : "pla",
@@ -76,14 +78,18 @@
     {
       "collocations" : [
         "unveil a commemorative plaque：为纪念牌匾揭了幕",
-        "senile plaque：老年斑"
+        "senile plaque：老年斑\n释义：（N-COUNT） 匾额；饰板 A plaque is a flat piece of metal or stone with",
+        "writing on it which is fixed to a wall or other structure to remind people of",
+        "an important person or event.\n（N-UNCOUNT） 牙斑；齿菌斑 Plaque is a substance containing",
+        "bacteria that forms on the surface of your teeth."
       ],
       "definition" : "（金属或石质的）匾额；牙菌斑",
-      "etymology" : "来自法语plaque，金属板→引申词义牌匾，匾额（匾额是平面的） 来自荷兰语placke=stain=污点，瑕疵；德语placken=spot=斑点→牙 菌斑",
+      "etymology" : "来自法语plaque，金属板→引申词义牌匾，匾额（匾额是平面的） 菌斑",
       "examples" : [
 
       ],
       "frequency" : 7121,
+      "mnemonic" : "来自荷兰语placke=stain=污点，瑕疵；德语placken=spot=斑点→牙",
       "phonetic" : "plæk;plɑːk",
       "pos" : "n.",
       "rootHint" : "pla",
@@ -148,7 +154,7 @@
 
       ],
       "frequency" : 19145,
-      "mnemonic" : "plagiar（=plagiary=kidnapping，plunder：绑架；抢夺）+ -ism（名词\n后缀，表行为）→绑架、抢夺别人文章\/著作的行为→抄袭；剽窃；",
+      "mnemonic" : "plagiar（=plagiary=kidnapping，plunder：绑架；抢夺）+ -ism（名词\n后缀，表行为）→绑架、抢夺别人文章\/著作的行为→抄袭；剽窃；\n缀，表主义，思想）→喜欢平行抄袭别人作品的病症→抄袭；剽窃",
       "phonetic" : "ˈpleɪdʒərɪz(ə)m",
       "pos" : "n.",
       "rootHint" : "pla",

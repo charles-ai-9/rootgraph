@@ -25,6 +25,7 @@
       "examples" : [
 
       ],
+      "frequency" : 767,
       "mnemonic" : "ac-（=to）+ -cept（=to take, receive：拿起；接到）→接受；吸收",
       "phonetic" : "əkˈsept",
       "pos" : "vt.",
@@ -63,7 +64,10 @@
     },
     {
       "collocations" : [
-        "his acceptance speech for the Nobel Peace Prize："
+        "his acceptance speech for the Nobel Peace Prize：",
+        "gain acceptance：得到承认",
+        "his calm acceptance of whatever comes his way：\n他对任何事情的从容接纳",
+        "achieve real acceptance and integration：获得真正的接纳与融入"
       ],
       "definition" : "接受；承认；容忍；接纳",
       "examples" : [
@@ -188,13 +192,17 @@
       "collocations" : [
         "a scratch on the paintwork：漆面上的一道划痕",
         "a scratch team：一支仓促组建的队伍",
-        "scratch the furniture：刮坏家具"
+        "scratch the furniture：刮坏家具",
+        "inability to find a primary care physician just scratch the surface of the",
+        "problems that patients face daily.\n巨额的医疗保健费用，急诊室外长时间的等待和无法找到一个初级护\n理医师，这些都只触及到病人每天必须面对的一些表面问题。",
+        "Ashby Plant是众多利用奥巴马的候选资格来进行关于人物榜样影响力\n的假说测试心理学家之一。"
       ],
-      "definition" : "挠；划破，抓破（皮肤）；（尤指意外地）擦破 n. （皮",
+      "definition" : "挠；划破，抓破（皮肤）；（尤指意外地）擦破 n. （皮肤或物体表面上的）划痕，划伤 adj. 仓促拼凑的",
       "examples" : [
         "Does the cat scratch? 这只猫抓人吗？",
-        "1） Crippling health care bills, long emergency-room waits and the\ninability to find a primary care physician just scratch the surface of the\nproblems that patients face daily.\n巨额的医疗保健费用，急诊室外长时间的等待和无法找到一个初级护\n理医师，这些都只触及到病人每天必须面对的一些表面问题。\n2） Ashby Plant is one of a number of psychologists who seized on\nObama’s candidacy to test hypotheses about the power of role models.\nAshby Plant是众多利用奥巴马的候选资格来进行关于人物榜样影响力\n的假说测试心理学家之一。"
+        "1） Crippling health care bills, long emergency-room waits and the\n2） Ashby Plant is one of a number of psychologists who seized on\nObama’s candidacy to test hypotheses about the power of role models."
       ],
+      "frequency" : 4698,
       "phonetic" : "skrætʃ",
       "pos" : "vt.",
       "rootHint" : "cap",
@@ -206,10 +214,11 @@
         "the seizure of territory through force：对领土的武装占领。",
         "seizures of heroin：缴获海洛因"
       ],
-      "definition" : "（心脏病、脑部疾病等的）突然发作；占领，控制；缴",
+      "definition" : "（心脏病、脑部疾病等的）突然发作；占领，控制；缴获；没收",
       "examples" : [
 
       ],
+      "frequency" : 7501,
       "mnemonic" : "seiz（=seize：抓住；夺取）+ -ure（名词后缀）→引申词义疾病突然",
       "phonetic" : "ˈsiːʒə",
       "pos" : "n.",
@@ -220,11 +229,12 @@
       "collocations" : [
         "grasp opportunity：抓住机会",
         "a good grasp of foreign languages：好地掌握了各门外语",
-        "within someone’s grasp：为某人所能及"
+        "within someone’s grasp：为某人所能及",
+        "His hand was taken in a warm, firm grasp.\n他的手被热情地、紧紧地握住了。"
       ],
       "definition" : "抓牢；理解 n. 紧握；掌控；理解",
       "examples" : [
-        "She allowed victory to slip from her grasp.\n她听任胜利从手中溜走。\nHis hand was taken in a warm, firm grasp.\n他的手被热情地、紧紧地握住了。"
+        "She allowed victory to slip from her grasp.\n她听任胜利从手中溜走。"
       ],
       "frequency" : 4218,
       "mnemonic" : "grasp=to seize：抓住→引申义为掌控；理解",
@@ -238,10 +248,8 @@
         "in the grips of：控制在……手中",
         "grip strength：握力",
         "be gripped by the dramatic story：被这个戏剧性的故事所吸引",
-        "come to grips with：认真着手处理",
-        "get a grip：控制；完善",
-        "in the grip of：在某事的强烈影响下",
-        "lose grip：失去掌控",
+        "come to grips with：认真着手处理\nget a grip：控制；完善",
+        "in the grip of：在某事的强烈影响下\nlose grip：失去掌控",
         "grip on reality：面对现实"
       ],
       "definition" : "紧握；强烈地影响；吸引 n. 紧握；掌控；抓力",
@@ -288,7 +296,7 @@
     {
       "collocations" : [
         "grab her hand：抓住了她的手",
-        "up for grabs：任何人都可竞购的"
+        "up for grabs：任何人都可竞购的\nGrab a beer. 快喝杯啤酒吧。"
       ],
       "definition" : "抓住；引起……的注意 vi. （设法）抓住 n. 抓住",
       "examples" : [

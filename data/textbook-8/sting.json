@@ -14,13 +14,18 @@
     {
       "collocations" : [
         "a bee sting：被蜜蜂蛰一下",
-        "the sting of salt in a wound：伤口上撒盐引起的剧痛"
+        "the sting of salt in a wound：伤口上撒盐引起的剧痛",
+        "He was stung by their criticism.\n他们的批评刺伤了他。",
+        "I got stung for a £100 meal.\n我挨宰了，一顿饭被敲诈了100英镑。",
+        "His cheeks were stinging from the icy wind.\n他的双颊被冰冷的寒风刺痛了。"
       ],
-      "definition" : "&vi. 刺，蜇，叮；（使）感觉刺痛；（话语）刺伤，批评；对",
-      "etymology" : "来自古英语stingan “to stab, pierce, or prick with a point：用一个点刺， 20000 词汇巅峰 速 记 笔 记 区 戳；刺伤” (of weapons, insects, plants, etc.)→引申义为激怒，使不安； 敲诈；痛苦。",
+      "definition" : "&vi. 刺，蜇，叮；（使）感觉刺痛；（话语）刺伤，批评；对（某人）敲诈 n.（昆虫、植物的）蛰刺；刺，叮；（身体或心灵的）剧痛，痛苦",
+      "etymology" : "来自古英语stingan “to stab, pierce, or prick with a point：用一个点刺， 20000 词汇巅峰 速 记 笔 记 区 敲诈；痛苦。",
       "examples" : [
-        "I was stung on the arm by a wasp.\n我的胳膊给黄蜂蜇了一下。\nHe was stung by their criticism.\n他们的批评刺伤了他。\nI got stung for a £100 meal.\n我挨宰了，一顿饭被敲诈了100英镑。\nHis cheeks were stinging from the icy wind.\n他的双颊被冰冷的寒风刺痛了。"
+        "I was stung on the arm by a wasp.\n我的胳膊给黄蜂蜇了一下。"
       ],
+      "frequency" : 8303,
+      "mnemonic" : "戳；刺伤” (of weapons, insects, plants, etc.)→引申义为激怒，使不安；",
       "phonetic" : "stɪŋ",
       "pos" : "vt",
       "rootHint" : "sting",
@@ -43,11 +48,11 @@
     },
     {
       "collocations" : [
-
+        "The West is stingy with aid.\n西方在援助上很吝啬。"
       ],
       "definition" : "小气的，吝啬的；有刺的，刺人的",
       "examples" : [
-        "You’re stingy!\n你真小气！\nThe West is stingy with aid.\n西方在援助上很吝啬。"
+        "You’re stingy!\n你真小气！"
       ],
       "frequency" : 19470,
       "mnemonic" : "sting（刺；叮；蜇）+ -y（形容词后缀）→有刺的，刺人的\nsting（批评）+ -y（形容词后缀）→对不舍得花钱的人的批评→小气",
@@ -59,14 +64,15 @@
     {
       "collocations" : [
         "go extinct：走向灭绝",
-        "to become extinct：绝种"
+        "to become extinct：绝种",
+        "extinct animals：绝种的动物"
       ],
       "definition" : "绝种的；灭亡的，不复存在的",
       "examples" : [
         "Servants are now almost extinct in modern society.\n在现代社会里奴仆已近乎不复存在。"
       ],
       "frequency" : 9567,
-      "mnemonic" : "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→",
+      "mnemonic" : "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→\n邪解：ex-（出去）+ -tinct（刺）→一剑（倚天剑）刺出去→灭绝的；绝种",
       "phonetic" : "ɪkˈstɪŋkt",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -75,11 +81,13 @@
     {
       "collocations" : [
         "the extinction of species：物种的灭绝",
-        "on the verge of extinction：在灭绝的边缘"
+        "on the verge of extinction：在灭绝的边缘",
+        "development rather than cultural heritage and development, a large number",
+        "of distinctive customs have become \/ gone extinct."
       ],
       "definition" : "（物种的）灭绝；（生活方式、活动的）消亡",
       "examples" : [
-        "由于人们只关心发展经济而不注重文化的传承和发展，很多有特\n色的习俗都已经消失了。（文化类）\nDue to \/ Owning to \/ Because of the emphasis placed on economic\ndevelopment rather than cultural heritage and development, a large number\nof distinctive customs have become \/ gone extinct."
+        "由于人们只关心发展经济而不注重文化的传承和发展，很多有特\n色的习俗都已经消失了。（文化类）\nDue to \/ Owning to \/ Because of the emphasis placed on economic"
       ],
       "frequency" : 7089,
       "mnemonic" : "extinct（绝种的；消亡的）+ -ion（名词后缀）→灭绝；消亡",
@@ -90,11 +98,12 @@
     },
     {
       "collocations" : [
-
+        "All lights had been extinguished.\n所有灯光都熄灭了。",
+        "News of the bombing extinguished all hope of peace.\n轰炸的消息使和平的希望全部破灭。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "熄灭，扑灭；消灭，使破灭",
       "examples" : [
-        "Firefighters tried to extinguish the flames.\n消防队员奋力扑灭火焰。\nAll lights had been extinguished.\n所有灯光都熄灭了。\nNews of the bombing extinguished all hope of peace.\n轰炸的消息使和平的希望全部破灭。"
+        "Firefighters tried to extinguish the flames.\n消防队员奋力扑灭火焰。"
       ],
       "frequency" : 12227,
       "mnemonic" : "ex-（=out）+ -ting（=quench：熄灭）+ u（连接符号）+ -ish（动词后\n缀）→扑灭；消灭",
@@ -123,13 +132,19 @@
         "distinguish A from B：把A和B区别开",
         "distinguish right from wrong：辨别是非",
         "distinguish voices：辨别出声音",
-        "distinguish himself as a leading scholar：他作为一名一流学者而著名"
+        "distinguish himself as a leading scholar：他作为一名一流学者而著名",
+        "distinguish between their human friends and the droids.\n逼真的人造机器人的出现将意味着人们可能无法区分自己的人类朋友\n和机器人朋友。",
+        "There is something about music that distinguishes it from all other art",
+        "The arrival \/ emergence \/ appearance of the Internet will mean people may",
+        "not be able to distinguish between the real communication and the virtual",
+        "communication."
       ],
       "definition" : "&vi. 辨别；区分 vt. 有别于；辨别出；使著名",
       "examples" : [
-        "The arrival of synthetic lifelike robots will mean people may not be able to\ndistinguish between their human friends and the droids.\n逼真的人造机器人的出现将意味着人们可能无法区分自己的人类朋友\n和机器人朋友。\nThere is something about music that distinguishes it from all other art\nforms.\n音乐中一些因素使之有别于其他艺术形式。",
-        "互联网的出现将意味着人们可能无法区分真实世界的交流和虚拟\n世界的交流。\nThe arrival \/ emergence \/ appearance of the Internet will mean people may\nnot be able to distinguish between the real communication and the virtual\ncommunication."
+        "The arrival of synthetic lifelike robots will mean people may not be able to\nforms.\n音乐中一些因素使之有别于其他艺术形式。",
+        "互联网的出现将意味着人们可能无法区分真实世界的交流和虚拟\n世界的交流。"
       ],
+      "frequency" : 3273,
       "mnemonic" : "dis-（分开）+ -ting（刺）+ u（无意义）+ -ish（动词后缀）→通过刺\n的长短来区分→辨别，区分；有别于，辨别出；使著名（与平庸之辈",
       "phonetic" : "dɪˈstɪŋɡwɪʃ",
       "pos" : "vt.",
@@ -140,7 +155,7 @@
       "collocations" : [
         "a distinguished professor：杰出的教授",
         "a distinguished academic family：一个卓越的学术之家",
-        "distinguished guest：高贵的客人；贵宾"
+        "distinguished guest：高贵的客人；贵宾\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "卓越的，杰出的；高贵的",
       "examples" : [
@@ -171,10 +186,11 @@
       "collocations" : [
         "be indistinguishable from：与……难以区别的"
       ],
-      "definition" : "无法分辨的；难以区别的；不清楚",
+      "definition" : "无法分辨的；难以区别的；不清楚的",
       "examples" : [
         "His words were indistinguishable.\n他说的话听不清楚。"
       ],
+      "frequency" : 12711,
       "mnemonic" : "in-（不；非）+ distinguish（辨别；区分）+ -able（能够……的）→\n不能够辨别、区分的→无法分辨的；难以区别的；不清楚的",
       "phonetic" : "ˌɪndɪˈstɪŋɡwɪʃəbl",
       "pos" : "adj.",
@@ -188,10 +204,11 @@
         "a distinct change：明显的变化",
         "two distinct worlds of race：两种截然不同的种族世界"
       ],
-      "definition" : "清楚的；截然不同的，完全不同于……的；明显的，",
+      "definition" : "清楚的；截然不同的，完全不同于……的；明显的，确切的",
       "examples" : [
 
       ],
+      "frequency" : 3280,
       "mnemonic" : "dis-（分离）+ -tinct（有刺的）→以刺的记号加以区分的→清楚的；",
       "phonetic" : "dɪˈstɪŋkt",
       "pos" : "adj.",
@@ -216,7 +233,8 @@
     {
       "collocations" : [
         "two distinctly different sectors：两个截然不同的部门",
-        "distinctly remember：清楚地记得"
+        "distinctly remember：清楚地记得\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "look distinctly shaky：看起来明显不稳固的"
       ],
       "definition" : "截然不同地；清楚地；明显地，确切地",
       "examples" : [
@@ -233,12 +251,16 @@
         "make a distinction between arts and science：把艺术和科学区别开来",
         "a writer of distinction：优秀作家",
         "have the distinction of：具有一个特点",
-        "make no distinction between ... and ...：对成人和孩子不加区分（同等"
+        "make no distinction between ... and ...：对成人和孩子不加区分（同等\n对待）",
+        "get a distinction in maths：数学得了优等",
+        "researchers found that three-fifths of these individuals either did badly in",
+        "school or were unhappy in school.\n在一个对在各个领域都获得荣誉的400个成年人的研究中，研究者发\n现五分之三的人要么在学校表现不好，或者过的不快乐。"
       ],
-      "definition" : "差别；区别；优秀；特点；（尤指给学生的）优",
+      "definition" : "差别；区别；优秀；特点；（尤指给学生的）优等评分",
       "examples" : [
-        "In one study of 400 adults who had achieved distinction in all areas of life,\nresearchers found that three-fifths of these individuals either did badly in\nschool or were unhappy in school.\n在一个对在各个领域都获得荣誉的400个成年人的研究中，研究者发\n现五分之三的人要么在学校表现不好，或者过的不快乐。"
+        "In one study of 400 adults who had achieved distinction in all areas of life,"
       ],
+      "frequency" : 2944,
       "mnemonic" : "distinct（有区别的）+ -ion（名词后缀）→区别，不同；荣誉",
       "phonetic" : "dɪˈstɪŋkʃn",
       "pos" : "n.",
@@ -278,11 +300,13 @@
     {
       "collocations" : [
         "follow your instinct：随心，随本能",
-        "instinct for self-preservation：自我保护的本能"
+        "instinct for self-preservation：自我保护的本能\n20000 词汇巅峰\n速\n记",
+        "to have an instinct for：在……方面有天分",
+        "by plants is good for health.\n有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。\n笔 记 区"
       ],
       "definition" : "本能，天性；天分；直觉",
       "examples" : [
-        "There is scientific evidence to support our instinct that being surrounded\nby plants is good for health.\n有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。"
+        "There is scientific evidence to support our instinct that being surrounded"
       ],
       "frequency" : 4280,
       "mnemonic" : "in-（内心）+ -stinct（刺；刻）→生下来就“刺，刻”在内心的东西\n→本能，天性；天分；直觉",
@@ -325,11 +349,12 @@
       "collocations" : [
         "stimulate interest：激发兴趣",
         "stimulate its economy：刺激经济",
-        "stimulate the digestive system：刺激消化系统"
+        "stimulate the digestive system：刺激消化系统",
+        "serve to communicate, stimulate thinking and promote behavioral change.\n是的，生态学者，环保积极分子和自然资源保护论者起到交流，刺激\n思考和推动行为改变的作用。"
       ],
       "definition" : "激发；刺激；刺激（身体器官）",
       "examples" : [
-        "Yes, the ecologists, the environmental activists and the conservationists\nserve to communicate, stimulate thinking and promote behavioral change.\n是的，生态学者，环保积极分子和自然资源保护论者起到交流，刺激\n思考和推动行为改变的作用。"
+        "Yes, the ecologists, the environmental activists and the conservationists"
       ],
       "frequency" : 4489,
       "mnemonic" : "stim-（=stin-：刺激）+ ul（连接符号）+ -ate（使动词）→使刺一下\n→刺激；激励",
@@ -376,6 +401,7 @@
       "examples" : [
         "It is a complex yet stimulating book.\n这是一本复杂却能引发兴趣的书。"
       ],
+      "frequency" : 10313,
       "phonetic" : "ˈstɪmjʊleɪtɪŋ",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -398,10 +424,10 @@
     },
     {
       "collocations" : [
-
+        "stigma仍留在语言中，转而喻指“耻辱”、“污点”。"
       ],
       "definition" : "耻辱；羞耻",
-      "etymology" : "在古希腊和古罗马时代，奴隶和罪犯的身上都被打上永抹不掉的 stigma。当时的stigma是“烙印”、“印记”的意思。到了17世纪英 国还沿用这一做法。根据伦敦旧城新兴门监狱（Newgate）的纪事 录，有一个绞刑吏只会用烙铁在罪犯手心打上代表thief（偷窃犯） 的字母T，因为这是他认识的唯一字母。身上打有烙印对一个人来说 总是个污点，总是个耻辱的标记。那种做法虽然以后被废止了，但 stigma仍留在语言中，转而喻指“耻辱”、“污点”。",
+      "etymology" : "在古希腊和古罗马时代，奴隶和罪犯的身上都被打上永抹不掉的 stigma。当时的stigma是“烙印”、“印记”的意思。到了17世纪英 国还沿用这一做法。根据伦敦旧城新兴门监狱（Newgate）的纪事 录，有一个绞刑吏只会用烙铁在罪犯手心打上代表thief（偷窃犯） 的字母T，因为这是他认识的唯一字母。身上打有烙印对一个人来说 总是个污点，总是个耻辱的标记。那种做法虽然以后被废止了，但",
       "examples" : [
         "There is no longer any stigma attached to being divorced.\n离婚不再是什么羞耻的事。"
       ],
@@ -429,7 +455,8 @@
     },
     {
       "collocations" : [
-        "incite his fellow citizens to take their revenge：煽动他的同胞们进行"
+        "incite his fellow citizens to take their revenge：煽动他的同胞们进行",
+        "incite its supporters to violence：鼓动其支持者使用暴力"
       ],
       "definition" : "煽动；鼓动",
       "examples" : [
@@ -468,6 +495,7 @@
       "examples" : [
 
       ],
+      "frequency" : 16245,
       "mnemonic" : "in-（使）+ -stig（=stick：刺，棍；刺激）+ -ate（使动词后缀）→刺\n激……发生→实施；煽动，鼓励",
       "phonetic" : "ˈɪnstɪgeɪt",
       "pos" : "vt.",
@@ -478,7 +506,7 @@
       "collocations" : [
         "be irritated by：被……激怒了",
         "irritate sb.：激怒某人",
-        "irritate the skin：刺激皮肤"
+        "irritate the skin：刺激皮肤\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "使烦恼（尤指不断重复的事情）；激怒；刺激",
       "examples" : [
@@ -510,11 +538,11 @@
     },
     {
       "collocations" : [
-
+        "In heavy concentrations, ozone is irritating to the eyes, nose and throat.\n浓度极高时，臭氧对眼睛、鼻子和喉咙是有刺激的。"
       ],
       "definition" : "令人恼火的；对……有刺激的",
       "examples" : [
-        "They also have the irritating habit of interrupting.\n他们也有打断别人这个令人恼火的习惯\nIn heavy concentrations, ozone is irritating to the eyes, nose and throat.\n浓度极高时，臭氧对眼睛、鼻子和喉咙是有刺激的。"
+        "They also have the irritating habit of interrupting.\n他们也有打断别人这个令人恼火的习惯"
       ],
       "frequency" : 12848,
       "mnemonic" : "irritate（恼火；刺激）+ -ing（令人……的）→令人恼火的；对……",
@@ -555,7 +583,8 @@
     },
     {
       "collocations" : [
-        "irritant substances：刺激性物质"
+        "irritant substances：刺激性物质",
+        "Many pesticides are irritants.\n许多杀虫剂都有刺激性。\n笔 记 区"
       ],
       "definition" : "刺激物；令人烦恼的事物，造成麻烦的事物",
       "examples" : [
@@ -631,12 +660,13 @@
     },
     {
       "collocations" : [
-
+        "Snoring can be more than an annoyance.\n打呼噜不只是一桩烦人的事。"
       ],
       "definition" : "烦恼，生气；让人烦恼的事，令人生气的事物",
       "examples" : [
-        "To her annoyance the stranger did not go away.\n让她厌烦的是这个陌生人没有离开。\nSnoring can be more than an annoyance.\n打呼噜不只是一桩烦人的事。"
+        "To her annoyance the stranger did not go away.\n让她厌烦的是这个陌生人没有离开。"
       ],
+      "frequency" : 10789,
       "mnemonic" : "annoy（使烦恼；使心烦）+ -ance（名词后缀）→烦恼、生气；让人",
       "phonetic" : "əˈnɒɪəns",
       "pos" : "n.",
@@ -663,17 +693,20 @@
     },
     {
       "collocations" : [
+        "human or animal; material Frame, material existence of a human; main or",
+        "principal part of anything”.",
         "a human body：人体",
         "the body of a plane：飞机机身",
         "professional bodies：专业团体",
         "a vast body of evidence \/ information \/ research：大量证据 \/ 信息 \/ 研究",
         "heavenly bodies：天体（恒星、行星等）（天上的物体）"
       ],
-      "definition" : "身体；（尤指建筑、车辆或书、文章等的）主体，主要部",
-      "etymology" : "来自古英语bodig “trunk of a man or beast, physical structure of a human or animal; material Frame, material existence of a human; main or principal part of anything”.",
+      "definition" : "身体；（尤指建筑、车辆或书、文章等的）主体，主要部分；团体，机构；大量；物体",
+      "etymology" : "来自古英语bodig “trunk of a man or beast, physical structure of a",
       "examples" : [
 
       ],
+      "frequency" : 314,
       "phonetic" : "ˈbɒdɪ",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -681,12 +714,14 @@
     },
     {
       "collocations" : [
-        "bodily functions \/ changes \/ needs：身体的机能 \/ 变化 \/ 需要"
+        "bodily functions \/ changes \/ needs：身体的机能 \/ 变化 \/ 需要",
+        "The monument was moved bodily to a new site.\n整个纪念碑被迁到了新的地点。\n笔 记 区"
       ],
-      "definition" : "人体的；身体的 adv. 移动全身地，用力地；整个地，完",
+      "definition" : "人体的；身体的 adv. 移动全身地，用力地；整个地，完全地",
       "examples" : [
-        "He lifted her bodily into the air.\n他把她整个身体（人）举到空中。\nThe monument was moved bodily to a new site.\n整个纪念碑被迁到了新的地点。"
+        "He lifted her bodily into the air.\n他把她整个身体（人）举到空中。"
       ],
+      "frequency" : 8580,
       "mnemonic" : "body（身体，变y为i）+ -ly（形容词 \/ 副词后缀）→身体的；移动全\n身地→引申义为用力地；整个地，完全地",
       "phonetic" : "ˈbɒdɪlɪ",
       "pos" : "adj.",
@@ -716,6 +751,7 @@
       "examples" : [
         "She rose from being a nobody to become a superstar.\n她从无足轻重的人一跃成为超级明星。"
       ],
+      "frequency" : 1154,
       "mnemonic" : "no（没有）+ body（人）→没有人；比喻义为小人物",
       "phonetic" : "ˈnəʊbədɪ",
       "pos" : "pron.",
@@ -730,6 +766,7 @@
       "examples" : [
         "Anybody can use the pool—you don’t need to be a member.\n任何人都可使用这个游泳池，不必是会员。\nShe wasn’t anybody before she got that job.\n她在获得那个职位之前不过是个无名之辈。"
       ],
+      "frequency" : 1387,
       "mnemonic" : "any（任何的）+ body（人）→任何人；比喻义为重要人物（用于否",
       "phonetic" : "ˈenɪbɒdɪ",
       "pos" : "pron.",
@@ -755,10 +792,11 @@
       "collocations" : [
         "carry antibody：携带抗体"
       ],
-      "definition" : "抗体（血液中抵抗疾病或当某些物质进入身体时产",
+      "definition" : "抗体（血液中抵抗疾病或当某些物质进入身体时产生反应的物质）",
       "examples" : [
 
       ],
+      "frequency" : 8980,
       "mnemonic" : "anti-（=against：反对；对抗）+ body（身体）→对抗某些物质进入身\n体的物质→抗体",
       "phonetic" : "ˈæntɪbɒdɪ",
       "pos" : "n.",
@@ -774,6 +812,7 @@
       "examples" : [
         "This model embodies many new features.\n这种型号包含许多新特点。"
       ],
+      "frequency" : 5153,
       "mnemonic" : "em-（=en-=in-：里面）+ body（身体）→在体内→“体”现（比如：",
       "phonetic" : "ɪmˈbɒdi",
       "pos" : "vt.",
@@ -782,12 +821,13 @@
     },
     {
       "collocations" : [
-
+        "A baby is the embodiment of vulnerability.\n婴儿是脆弱的化身。"
       ],
       "definition" : "（集中体现一种思想或品质的）典型；化身",
       "examples" : [
-        "He is the embodiment of the young successful businessman.\n他是成功青年企业家的典型。\nA baby is the embodiment of vulnerability.\n婴儿是脆弱的化身。"
+        "He is the embodiment of the young successful businessman.\n他是成功青年企业家的典型。"
       ],
+      "frequency" : 11250,
       "mnemonic" : "embody（体现；代表，变y为i）+ -ment（名词后缀）→……的体\n现，代表→典型；化身",
       "phonetic" : "ɪmˈbɒdɪmənt",
       "pos" : "n.",
@@ -797,13 +837,14 @@
     {
       "collocations" : [
         "a disembodied voice：从看不到人的地方发出（不见其人）的说话声",
-        "disembodied spirits：脱离肉体的灵魂"
+        "disembodied spirits：脱离肉体的灵魂\n笔 记 区"
       ],
-      "definition" : "从看不到的人（或地方）发出的；脱离肉体",
+      "definition" : "从看不到的人（或地方）发出的；脱离肉体的",
       "examples" : [
 
       ],
-      "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed",
+      "frequency" : 19581,
+      "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed\n（形容词后缀）→脱离人体存在的→即脱离肉体的；从看不到的人",
       "phonetic" : "ˌdɪsɪmˈbɒdid",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -811,10 +852,13 @@
     },
     {
       "collocations" : [
-
+        "dos-, dow-, dot-, der- 都表示“给予”",
+        "It is the hypothetical source of \/ evidence for its existence is provided by:",
+        "Sanskrit dadati “gives,” danam “offering, present;” Old Persian dadatuv",
+        "Church Slavonic dati “give,” dani “tribute;” Lithuanian duoti “to give,”"
       ],
       "definition" : "连衣裙的上身部分",
-      "etymology" : "*do- *dō-, Proto-Indo-European root meaning “to give.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit dadati “gives,” danam “offering, present;” Old Persian dadatuv “let him give;” Greek didomi, didonai, “to give, offer,” dōron “gift;” Latin dare “to give, grant, offer,” donum “gift;” Armenian tam “to give;” Old Church Slavonic dati “give,” dani “tribute;” Lithuanian duoti “to give,” duonis “gift;” Old Irish dan “gift, endowment, talent,” Welsh dawn “gift.”",
+      "etymology" : "*do- *dō-, Proto-Indo-European root meaning “to give.” “let him give;” Greek didomi, didonai, “to give, offer,” dōron “gift;” Latin dare “to give, grant, offer,” donum “gift;” Armenian tam “to give;” Old duonis “gift;” Old Irish dan “gift, endowment, talent,” Welsh dawn “gift.”",
       "examples" : [
 
       ],
@@ -861,7 +905,7 @@
     },
     {
       "collocations" : [
-
+        "old-fashioned; belonging to a time in the past"
       ],
       "definition" : "过时的；陈旧的",
       "examples" : [
@@ -908,12 +952,14 @@
     {
       "collocations" : [
         "updating the work schedule：更新了工作日程",
-        "news update：新闻快讯"
+        "news update：新闻快讯",
+        "update you on the day’s top news stories：向你提供当天的头条新闻\n笔 记 区"
       ],
       "definition" : "&vi. 更新 vt. 给……提供最新信息 n. 最新消息；快讯",
       "examples" : [
 
       ],
+      "frequency" : 4859,
       "mnemonic" : "up（靠近……顶端）+ date（日期）→（使）消息等靠近最近日期→",
       "phonetic" : "ˌʌpˈdeɪt",
       "pos" : "vt.",
@@ -955,10 +1001,11 @@
         "the edited highlights of the game：比赛的精彩片段剪辑",
         "the edited draft：校订过的草稿"
       ],
-      "definition" : "编辑；校订（文章、书籍等）；剪辑，剪接（影片、电视节",
+      "definition" : "编辑；校订（文章、书籍等）；剪辑，剪接（影片、电视节目等）；主编（报纸、杂志等）",
       "examples" : [
         "She used to edit a women’s magazine.\n她曾主编过妇女杂志。"
       ],
+      "frequency" : 4295,
       "mnemonic" : "e-（=out：向外）+ -dit（=to give：给予）→给出去→编辑，校对；",
       "phonetic" : "ˈedɪt",
       "pos" : "vt.",
@@ -989,6 +1036,7 @@
       "examples" : [
 
       ],
+      "frequency" : 1392,
       "mnemonic" : "edit（编辑；校订）+ -or（名词后缀）→编辑；校订者",
       "phonetic" : "ˈedɪtə",
       "pos" : "n.",
@@ -1029,10 +1077,11 @@
       "collocations" : [
         "the second edition：第二版"
       ],
-      "definition" : "版本；（书、报、杂志等的）版次；（报纸、杂志的）一",
+      "definition" : "版本；（书、报、杂志等的）版次；（报纸、杂志的）一份，（广播、电视节目的）一期，一辑",
       "examples" : [
         "Tonight’s edition of ‘Panorama’ looks at unemployment.\n今晚这辑《全景》探讨的是失业问题。"
       ],
+      "frequency" : 3181,
       "mnemonic" : "e-（=out）+ -dit（=to give：给予）+ -ion（名词后缀）→给予、生产\n出来的东西→版本；班次；一份，一期",
       "phonetic" : "ɪˈdɪʃn",
       "pos" : "n.",
@@ -1060,7 +1109,7 @@
     {
       "collocations" : [
         "traditional dress：传统服装",
-        "traditional marriage：守旧的婚姻"
+        "traditional marriage：守旧的婚姻\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "传统的；守旧的",
       "examples" : [
@@ -1135,13 +1184,18 @@
     },
     {
       "collocations" : [
-        "be-（表强调）+ tray（交出，移交机密、信息、信任、情感等）→出"
+        "be-（表强调）+ tray（交出，移交机密、信息、信任、情感等）→出",
+        "She betrayed his trust over and over again.\n她一次又一次地辜负了他的信任。\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "He has been accused of betraying his former socialist ideals.\n有人指责他背弃了他先前的社会主义理想。",
+        "His voice betrayed the worry he was trying to hide.\n他的声音流露出内心的担忧。"
       ],
-      "definition" : "出卖，泄露（机密）；辜负，对……不忠；背叛（原则",
-      "etymology" : "拉丁语tradere（=trans-=across：从一边到另一边；跨越 + dare=to give：交出；移交）→tray",
+      "definition" : "出卖，泄露（机密）；辜负，对……不忠；背叛（原则或信仰）；（无意中）泄露信息，流露情感",
+      "etymology" : "拉丁语tradere（=trans-=across：从一边到另一边；跨越 + dare=to",
       "examples" : [
-        "For years they had been betraying state secrets to Russia.\n他们多年来一直在向俄罗斯出卖 \/ 泄露国家机密。\nShe betrayed his trust over and over again.\n她一次又一次地辜负了他的信任。"
+        "For years they had been betraying state secrets to Russia.\n他们多年来一直在向俄罗斯出卖 \/ 泄露国家机密。"
       ],
+      "frequency" : 5029,
+      "mnemonic" : "give：交出；移交）→tray\n卖、背叛→出卖；辜负；背叛；流露",
       "phonetic" : "bɪˈtreɪ",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -1211,10 +1265,11 @@
       "collocations" : [
         "lying, treacherous words：奸诈的谎话"
       ],
-      "definition" : "背叛的，奸诈的；有潜在危险的（随时会有背",
+      "definition" : "背叛的，奸诈的；有潜在危险的（随时会有背叛、欺骗发生）",
       "examples" : [
         "The ice on the roads made driving conditions treacherous.\n路上的冰对驾车构成了潜在危险（隐患）。\n单词 treachery 的近义词为 trick, 同样包含“欺骗”的含义。"
       ],
+      "frequency" : 11237,
       "mnemonic" : "treachery（背叛；欺骗）+ -ous（形容词后缀）→背叛的，奸诈的；",
       "phonetic" : "ˈtretʃərəs",
       "pos" : "adj.",
@@ -1223,14 +1278,18 @@
     },
     {
       "collocations" : [
+        "treachery, cheating,” from trikier “to deceive, to cheat”.",
         "play tricks：耍花招",
-        "trick of the light：光线引起的错觉"
+        "trick of the light：光线引起的错觉",
+        "a card trick 纸牌戏法",
+        "a trick question：一个欺骗人的问题"
       ],
-      "definition" : "诡计，花招，骗局；引起错觉（或记忆紊乱）的事物；戏法",
-      "etymology" : "n. early 15c., “a cheat”, from Old North French trique “trick, deceit, treachery, cheating,” from trikier “to deceive, to cheat”. v. “deceive by trickery,” 1590s.",
+      "definition" : "诡计，花招，骗局；引起错觉（或记忆紊乱）的事物；戏法vt. 欺骗；欺诈 adj. 为欺骗的；使人产生错觉的",
+      "etymology" : "n. early 15c., “a cheat”, from Old North French trique “trick, deceit, v. “deceive by trickery,” 1590s.",
       "examples" : [
 
       ],
+      "frequency" : 3093,
       "phonetic" : "trɪk",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -1330,13 +1389,15 @@
     },
     {
       "collocations" : [
-
+        "She had become inextricably involved in the campaign.\n她已陷入这场运动之中（无法分开），以致无法脱身。\n释义：（ADV）不可分开地；密不可分地",
+        "If two things are inextricably linked, etc., it is impossible to separate them.\n笔 记 区"
       ],
       "definition" : "不可分开地；密不可分地",
       "examples" : [
-        "Europe’s foreign policy is inextricably linked with that of the US.\n欧洲的对外政策和美国的紧密相扣。\nShe had become inextricably involved in the campaign.\n她已陷入这场运动之中（无法分开），以致无法脱身。\n释义：（ADV）不可分开地；密不可分地\nIf two things are inextricably linked, etc., it is impossible to separate them."
+        "Europe’s foreign policy is inextricably linked with that of the US.\n欧洲的对外政策和美国的紧密相扣。"
       ],
-      "mnemonic" : "in-（=not：不）+ ex-（=out：出来）+ tric-（trick：诡计；花招）+\n-ably（=-able+-ly：能够的）→不能够、无法从诡计、花招中出来地",
+      "frequency" : 15126,
+      "mnemonic" : "in-（=not：不）+ ex-（=out：出来）+ tric-（trick：诡计；花招）+\n-ably（=-able+-ly：能够的）→不能够、无法从诡计、花招中出来地\n→不可分开地；密不可分地",
       "phonetic" : "ˌɪnɪkˈstrɪkəbli; ɪnˈekstrɪkəbli",
       "pos" : "adv.",
       "rootHint" : "sting",
@@ -1347,10 +1408,11 @@
         "sign the contract by intrigue：密谋签订了合同",
         "a web of intrigue：阴谋诡计（勾心斗角）的网络"
       ],
-      "definition" : "激起……的兴趣；引发……的好奇心 vi. 秘密策划（加",
+      "definition" : "激起……的兴趣；引发……的好奇心 vi. 秘密策划（加害他人）；密谋 n. 密谋策划；阴谋诡计；引人入胜的复杂情节",
       "examples" : [
         "The novelty of the situation intrigued him.\n那种新奇的情景激起了他的好奇心。"
       ],
+      "frequency" : 8046,
       "mnemonic" : "in-（内部；里面）+ trig（=trick：诡计；花招）+ -ue（名词后缀）→\n里面充满很多诡计、花招→阴谋诡计；复杂情节；密谋；激起……的",
       "phonetic" : "ɪnˈtriːg",
       "pos" : "vt.",
@@ -1367,7 +1429,7 @@
         "He found her intriguing.\n他觉得她很迷人（吸引人的）。"
       ],
       "frequency" : 5977,
-      "mnemonic" : "intrigue（阴谋诡计；激起……兴趣）+ -ing（形容词后缀）→非常有",
+      "mnemonic" : "intrigue（阴谋诡计；激起……兴趣）+ -ing（形容词后缀）→非常有\nintrigue（复杂情节）+ -ing（形容词后缀）→复杂的；不能解开的",
       "phonetic" : "ɪnˈtriːɡɪŋ",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -1375,7 +1437,8 @@
     },
     {
       "collocations" : [
-        "donor organs：捐献器官"
+        "donor organs：捐献器官",
+        "donor countries：捐赠国"
       ],
       "definition" : "器官捐献者，献血者；捐赠者 adj. 捐献的",
       "examples" : [
@@ -1422,11 +1485,12 @@
     },
     {
       "collocations" : [
-        "a high \/ low \/ lethal dose：大 \/ 小 \/ 致死剂量"
+        "a high \/ low \/ lethal dose：大 \/ 小 \/ 致死剂量",
+        "A dose of flu kept me off work.\n一场感冒使得我上不了班。"
       ],
       "definition" : "（药的）一剂，一服；一次，一场 vt. 给（某人）服药",
       "examples" : [
-        "She dosed herself up with vitamin pills.\n她给自己服了一些维生素片。\nA dose of flu kept me off work.\n一场感冒使得我上不了班。"
+        "She dosed herself up with vitamin pills.\n她给自己服了一些维生素片。"
       ],
       "frequency" : 3554,
       "mnemonic" : "dos-（=to give：给予）+ -e（名词 \/ 动词后缀）→给予的药的量→",
@@ -1439,7 +1503,7 @@
       "collocations" : [
         "a high \/ low dosage：大 \/ 小剂量",
         "put on a high dosage of vitamin C：大剂量服用维生素C",
-        "to increase \/ reduce the dosage：增加 \/ 减少剂量"
+        "to increase \/ reduce the dosage：增加 \/ 减少剂量\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "（通常指药的）剂量",
       "examples" : [
@@ -1454,12 +1518,16 @@
     },
     {
       "collocations" : [
-        "to endow sb. with a responsibility：赋予某人以责任"
+        "to endow sb. with a responsibility：赋予某人以责任",
+        "Herbs have been used for centuries to endow a whole range of foods with",
+        "subtle flavors.\n香草几个世纪以来一直被用来赋予各种食品细腻的味道。",
+        "The ambassador has endowed a $1 million public-service fellowships"
       ],
-      "definition" : "天生赋有；赋予（某种特征或品质）；（向学校等机",
+      "definition" : "天生赋有；赋予（某种特征或品质）；（向学校等机构）捐赠，资助",
       "examples" : [
-        "You are endowed with wealth, good health and a lively intellect.\n你天生赋有财富、健康，和敏锐的智力。\nHerbs have been used for centuries to endow a whole range of foods with\nsubtle flavors.\n香草几个世纪以来一直被用来赋予各种食品细腻的味道。\nThe ambassador has endowed a $1 million public-service fellowships\nprogram.\n大使资助了一个100万美元的公共服务奖学金项目。"
+        "You are endowed with wealth, good health and a lively intellect.\n你天生赋有财富、健康，和敏锐的智力。\nprogram.\n大使资助了一个100万美元的公共服务奖学金项目。"
       ],
+      "frequency" : 10148,
       "mnemonic" : "en-（进入；使）+ -dow（=to give：给予）→给予（特质或品质），\n使之具有→天生赋有；赋予；资助",
       "phonetic" : "ɪnˈdaʊ",
       "pos" : "vt.",
@@ -1545,11 +1613,12 @@
     },
     {
       "collocations" : [
-
+        "A Mediterranean cruise was the perfect antidote to a long cold winter.\n到地中海航游是度过漫长寒冬的绝妙办法。",
+        "Massage is a wonderful antidote to stress.\n按摩是一种极妙的克服压力的良方。\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "解毒药；克服……的良方，绝妙办法",
       "examples" : [
-        "There is no known antidote to the poison.\n这种毒的解药尚未发现。\nA Mediterranean cruise was the perfect antidote to a long cold winter.\n到地中海航游是度过漫长寒冬的绝妙办法。\nMassage is a wonderful antidote to stress.\n按摩是一种极妙的克服压力的良方。"
+        "There is no known antidote to the poison.\n这种毒的解药尚未发现。"
       ],
       "frequency" : 11817,
       "mnemonic" : "anti-（相反）+ dote（药剂）→作用相反的药剂→解毒药→引申义为",
@@ -1560,11 +1629,13 @@
     },
     {
       "collocations" : [
+        "Condonare原系法律用语，所表示之“宽恕”是指夫妻一方对于另一\n方的不贞行为以对方不再重犯为条件的宽恕，即放弃追求权利，故",
+        "condone亦用于此义。以后词义扩大，亦可泛指一般的“宽恕”或\n“宽容”。",
         "condone violence：纵容暴力行为",
-        "condone terrorism：容忍恐怖主义"
+        "condone terrorism：容忍恐怖主义\n笔 记 区"
       ],
       "definition" : "宽恕；容忍；纵容",
-      "etymology" : "在西方历史中人们通常将通奸（adultery）视为犯罪，并制定了严格 的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的 财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须 告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人 公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸” 的红色A字。这种情况到了19世纪下半叶才有所改观。1857年，英国 通过《婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行 为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男 子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone 这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯 为条件的宽恕。Condone源自拉丁文condonare ‘forgive’（宽恕）。 Condonare原系法律用语，所表示之“宽恕”是指夫妻一方对于另一 方的不贞行为以对方不再重犯为条件的宽恕，即放弃追求权利，故 condone亦用于此义。以后词义扩大，亦可泛指一般的“宽恕”或 “宽容”。",
+      "etymology" : "在西方历史中人们通常将通奸（adultery）视为犯罪，并制定了严格 的惩罚措施。在古罗马，女子通奸将被没收一半的嫁妆和三分之一的 财产，放逐至小岛，永远不得再结婚。男人发现老婆与人通奸，必须 告发并与其离婚，否则将受到严惩。在经典名著《红字》中，女主人 公因为与人偷情生子，而被宗教法庭判处终身佩戴一个象征“通奸” 的红色A字。这种情况到了19世纪下半叶才有所改观。1857年，英国 通过《婚姻诉讼法》，将通奸行为定义为一种民事行为而非刑事行 为。该法规定，夫妻一方可以因为对方的通奸行为而离婚，还规定男 子可以对妻子的奸夫索取侵权赔偿。另外，该法首次提出了condone 这个法律术语，意思是夫妻一方对另一方的通奸行为以不再重犯 为条件的宽恕。Condone源自拉丁文condonare ‘forgive’（宽恕）。",
       "examples" : [
 
       ],
@@ -1579,12 +1650,15 @@
       "collocations" : [
         "render a service to sb.：给某人提供服务",
         "render a report on the housing situation：提交一份有关住房情况的报告",
-        "render a beautiful version of ‘Summertime’：表演了一段优美的《夏日"
+        "render a beautiful version of ‘Summertime’：表演了一段优美的《夏日\n时光》",
+        "render foods calorie-free while retaining their vitamins：在保留维生素同\n时使食物零卡路里\nrender sth. impossible：使……成为不可能\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "rendered such personal relations impossible.\n的确，单说公司的经营规模和所用的工人数量就使建立这种个人关系\n不可能了。",
+        "Hundreds of people were rendered homeless by the earthquake.\n成百上千的人因为地震而无家可归。"
       ],
       "definition" : "使变得；给予，提供，回报；提交；表演，表现",
       "etymology" : "render：give back, present, yield。来自俗拉丁语rendere：给予，给 回。来自 red-（向后；往回）+ dare（给予）。",
       "examples" : [
-        "Indeed the mere size of operations and the numbers of workmen involved\nrendered such personal relations impossible.\n的确，单说公司的经营规模和所用的工人数量就使建立这种个人关系\n不可能了。\nHundreds of people were rendered homeless by the earthquake.\n成百上千的人因为地震而无家可归。"
+        "Indeed the mere size of operations and the numbers of workmen involved"
       ],
       "frequency" : 3571,
       "mnemonic" : "rend-（=re-=back：向后）+ -der（=to give：给予）→给予；回报；提\n供→引申义为使处于某种状态；表演，表现（给予观众表演）",
@@ -1597,13 +1671,15 @@
       "collocations" : [
         "yield to sth.：屈服于，让位于",
         "yield huge dividends：产生大量分红",
-        "yield greater financial benefits：产出更大的经济利益"
+        "yield greater financial benefits：产出更大的经济利益",
+        "Honesty and integrity have yielded to false propaganda \/ advertising."
       ],
-      "definition" : "出产（作物）；产生（收益、效益等）；屈服，让步，让",
+      "definition" : "出产（作物）；产生（收益、效益等）；屈服，让步，让出；放弃",
       "examples" : [
         "Self-doubt has yielded to blind pride.\n对自身的怀疑已经让位给盲目的骄傲。",
-        "诚信已经让位给了虚假宣传。\nHonesty and integrity have yielded to false propaganda \/ advertising."
+        "诚信已经让位给了虚假宣传。"
       ],
+      "frequency" : 2675,
       "mnemonic" : "yield（=render：回报，补偿，给予，让出）→产出；让步，让出；",
       "phonetic" : "jiːld",
       "pos" : "vt.",
@@ -1614,10 +1690,11 @@
       "collocations" : [
         "build roads through unyielding mountains：在坚硬的山石中筑路"
       ],
-      "definition" : "坚定的，坚决的；（屏障、表面）不弯曲的，坚",
+      "definition" : "坚定的，坚决的；（屏障、表面）不弯曲的，坚固的",
       "examples" : [
         "The authorities proved unyielding on one crucial demand.\n当局在一点至关重要的要求上态度非常坚决。"
       ],
+      "frequency" : 17948,
       "phonetic" : "ʌnˈjiːldɪŋ",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -1625,12 +1702,15 @@
     },
     {
       "collocations" : [
-        "her dramatic rendering of Lady Macbeth：她对麦克佩斯夫人的生动"
+        "her dramatic rendering of Lady Macbeth：她对麦克佩斯夫人的生动",
+        "a faithful rendering of the original text：对原文的忠实翻译\n20000 词汇巅峰\n速\n记",
+        "a rendering of a popular Arabic expression：一个阿拉伯语常用表达的\n笔 记 区\n译文"
       ],
-      "definition" : "（剧本、诗歌或音乐作品的）演绎，表演；翻译，",
+      "definition" : "（剧本、诗歌或音乐作品的）演绎，表演；翻译，译文",
       "examples" : [
 
       ],
+      "frequency" : 11083,
       "mnemonic" : "render（表演；使变为另外一种语言）+ -ing（动名词后缀）→表演；",
       "phonetic" : "ˈrendərɪŋ",
       "pos" : "n.",
@@ -1639,17 +1719,19 @@
     },
     {
       "collocations" : [
+        "deliver over：放弃；交出；移交→引申词义投降；屈服",
         "surrender themselves to the police：向警方投降",
         "surrender all claims to the property：放弃对那笔财产的一切权利要求",
         "demand (an) unconditional surrender：要求无条件投降",
         "surrender to business interests：屈服于工商界的利益",
-        "insist on the immediate surrender of all weapons：坚持要求立即交出全"
+        "insist on the immediate surrender of all weapons：坚持要求立即交出全\n部武器"
       ],
-      "definition" : "投降；（被迫）放弃，交出 n. 投降；屈服；（尤",
+      "definition" : "投降；（被迫）放弃，交出 n. 投降；屈服；（尤指在战争等过后）放弃，交出",
       "examples" : [
 
       ],
-      "mnemonic" : "sur-（=over：向上）+ render（=to give：给予；给回）→to give up,\ndeliver over：放弃；交出；移交→引申词义投降；屈服",
+      "frequency" : 5085,
+      "mnemonic" : "sur-（=over：向上）+ render（=to give：给予；给回）→to give up,",
       "phonetic" : "səˈrendə(r)",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -1673,13 +1755,15 @@
     },
     {
       "collocations" : [
-        "keep my rendezvous with sb.：保持和某人的约会"
+        "keep my rendezvous with sb.：保持和某人的约会",
+        "The plan was to rendezvous with him on Sunday afternoon.\n计划是在星期天下午与他会面。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "约会；约会地点 vt. （在约定的时间和地点）",
+      "definition" : "约会；约会地点 vt. （在约定的时间和地点）与……会面",
       "etymology" : "来自中古法语 rendez vous,呈现你自己，表现你自己，来自 rendez （呈现；给予）+ vous（=you：你）。",
       "examples" : [
-        "Their rendezvous would be the Plaza Hotel.\n他们的会面地点将是广场大酒店。\nThe plan was to rendezvous with him on Sunday afternoon.\n计划是在星期天下午与他会面。"
+        "Their rendezvous would be the Plaza Hotel.\n他们的会面地点将是广场大酒店。"
       ],
+      "frequency" : 13379,
       "mnemonic" : "rendez（=present：呈现）+ vous（你）→呈现你自己→约会；约会地",
       "phonetic" : "ˈrɒndeɪvuː",
       "pos" : "n.",
@@ -1738,10 +1822,13 @@
     {
       "collocations" : [
         "house buyers and renters：房屋的买主和租户",
-        "car renter：汽车出租公司"
+        "car renter：汽车出租公司",
+        "Latin apparere “to appear, come in sight, make an appearance,” from ad",
+        "of uncertain origin. Of persons, “present oneself,” late 14c. Meaning “seem,",
+        "have a certain appearance” is late 14c. Related: Appeared; appearing.\n笔 记 区"
       ],
       "definition" : "租户，承租人；出租人，出租公司",
-      "etymology" : "Late 13c., “come into view,” from stem of Old French aparoir, aperer 20000 词汇巅峰 速 记 “appear, come to light, come forth” (12c., Modern French apparoir), from Latin apparere “to appear, come in sight, make an appearance,” from ad “to” (see ad-) + parere “to come forth, be visible; submit, obey,” which is of uncertain origin. Of persons, “present oneself,” late 14c. Meaning “seem, have a certain appearance” is late 14c. Related: Appeared; appearing. 笔 记 区",
+      "etymology" : "Late 13c., “come into view,” from stem of Old French aparoir, aperer 20000 词汇巅峰 速 记 “appear, come to light, come forth” (12c., Modern French apparoir), from “to” (see ad-) + parere “to come forth, be visible; submit, obey,” which is",
       "examples" : [
 
       ],
@@ -1757,11 +1844,14 @@
         "appear surprised：显得吃惊",
         "it appears \/ seems that：似乎，好像，看起来",
         "appear to：似乎，好像",
-        "阅读难点：fiscal burden：财政负担"
+        "Psychology, Plant’s team tested 229 students during the height of the\nObama fever.\n在即将出现在《实验社会心理学杂志》的一项研究中，Plant的团队\n在“奥巴马热”处于顶峰期间测试了229个学生。",
+        "appeared to soften when that fiscal burden decreased, as occurred with",
+        "welfare reform in the 1990s, which curbed immigrants’ access to certain\nbenefits.\n另一个发现巩固了这一结论：当财政负担减轻时，他们反对的态度也\n似乎变得柔和了，正如发生于20世纪90年代的福利改革，那次改革限\n制了外来移民获取某些福利。\n阅读难点：fiscal burden：财政负担\naccess to：获取，取得",
+        "sleeping less.\n尽管得到数据非常困难，但我们的睡眠时间似乎真的在减少。"
       ],
       "definition" : "&vt. 显得，看起来（=seem）；出现；起源；出版",
       "examples" : [
-        "1）In a study that will appear in the Journal of Experimental Social\nPsychology, Plant’s team tested 229 students during the height of the\nObama fever.\n在即将出现在《实验社会心理学杂志》的一项研究中，Plant的团队\n在“奥巴马热”处于顶峰期间测试了229个学生。\n2）That conclusion was reinforced by another finding: that their opposition\nappeared to soften when that fiscal burden decreased, as occurred with\nwelfare reform in the 1990s, which curbed immigrants’ access to certain\nbenefits.\n另一个发现巩固了这一结论：当财政负担减轻时，他们反对的态度也\n似乎变得柔和了，正如发生于20世纪90年代的福利改革，那次改革限\n制了外来移民获取某些福利。"
+        "1）In a study that will appear in the Journal of Experimental Social\n2）That conclusion was reinforced by another finding: that their opposition\n3）Although getting figures is difficult, it appears that we really are\n4）When did mammals appear on the earth?\n地球上的哺乳动物起源于何时？\n5）His new book will be appearing in the spring.\n他的新书将于春季出版。"
       ],
       "frequency" : 396,
       "mnemonic" : "ap-（=ad-=to）+ pear（=par-：出现）→显得；出现；起源（开始出",
@@ -1773,12 +1863,13 @@
     {
       "collocations" : [
         "the physical \/ outward \/ external appearance of sth.：某物的外观",
-        "the appearance of organic vegetables in the supermarkets：有机蔬菜在超"
+        "the appearance of organic vegetables in the supermarkets：有机蔬菜在超\n级市场出现（上市）"
       ],
-      "definition" : "外貌，外观；（尤指突然的）出现，露面；首次",
+      "definition" : "外貌，外观；（尤指突然的）出现，露面；首次出现",
       "examples" : [
         "The sudden appearance of a security guard caused them to drop the money\nand run.\n保安人员突然出现，他们丢下钱就跑了。"
       ],
+      "frequency" : 1695,
       "mnemonic" : "appear（出现）+ -ance（名词后缀）→外貌（出现的面容）；出现，",
       "phonetic" : "əˈpɪərəns",
       "pos" : "n.",
@@ -1802,11 +1893,11 @@
     },
     {
       "collocations" : [
-
+        "Our countryside is disappearing at an alarming rate.\n我们的农村地区正在以惊人的速度消亡。"
       ],
       "definition" : "消失；不复存在，消亡；（东西）失踪",
       "examples" : [
-        "The plane disappeared behind a cloud.\n飞机消失在云层里。\nOur countryside is disappearing at an alarming rate.\n我们的农村地区正在以惊人的速度消亡。"
+        "The plane disappeared behind a cloud.\n飞机消失在云层里。"
       ],
       "frequency" : 1587,
       "mnemonic" : "dis-（表相反）+ appear（出现）→出现的反面→消失；不复存在",
@@ -1825,6 +1916,7 @@
       "examples" : [
 
       ],
+      "frequency" : 6634,
       "mnemonic" : "dis-（表相反）+ appearance（出现）→出现的反面→失踪；丢失；不",
       "phonetic" : "ˌdɪsəˈpɪərəns",
       "pos" : "n.",
@@ -1848,13 +1940,22 @@
     {
       "collocations" : [
         "my apparent lack of enthusiasm for school：我貌似对上学缺少热情",
-        "阅读难点：lay claim to：宣称，声称，自以为"
+        "distinctly concentrates on the language and culture of the English-speaking",
+        "阅读难点：lay claim to：宣称，声称，自以为",
+        "encyclopedic：渊博的，知识广博的",
+        "dramatically evident in children who are deprived of human contact.\n身份与交流之间的深刻联系在被剥夺了与人交流的孩子身上体现得尤\n其明显。",
+        "The weird phenomenon of laying much emphasis on \/ placing great value",
+        "dramatically evident in Chinese college students.",
+        "The odd phenomenon of attaching great importance to certificates rather",
+        "than to capacities is particularly obvious in Chinese college students.",
+        "The bizarre \/ strange phenomenon of thinking highly of certificates instead",
+        "of capabilities is extraordinarily \/ extremely \/ pretty pronounced \/ apparent"
       ],
       "definition" : "显然的，显而易见的；貌似的，表面上的",
       "examples" : [
         "Their devotion was apparent.\n他们的忠诚是显而易见的。",
-        "1）The problem is pronounced at public universities.\n这个问题在公立大学是非常明显的。\n2) Oxford lays claim to being encyclopedic on content whereas Longman\ndistinctly concentrates on the language and culture of the English-speaking\nworld.\n牛津字典声称在内容上博大精深，而朗文字典明显地关注英语世界的\n语言和文化。",
-        "仿写例句3）：重视证书而不是能力的怪现象在中国大学生身上体现得尤为\n明显。\nThe weird phenomenon of laying much emphasis on \/ placing great value\non \/ placing much premium on certificates rather than on abilities is\ndramatically evident in Chinese college students.\nThe odd phenomenon of attaching great importance to certificates rather\nthan to capacities is particularly obvious in Chinese college students.\nThe bizarre \/ strange phenomenon of thinking highly of certificates instead\nof capabilities is extraordinarily \/ extremely \/ pretty pronounced \/ apparent\n\/ distinct \/ conspicuous among Chinese college students."
+        "1）The problem is pronounced at public universities.\n这个问题在公立大学是非常明显的。\n2) Oxford lays claim to being encyclopedic on content whereas Longman\nworld.\n牛津字典声称在内容上博大精深，而朗文字典明显地关注英语世界的\n语言和文化。",
+        "仿写例句3）：重视证书而不是能力的怪现象在中国大学生身上体现得尤为\n明显。\non \/ placing much premium on certificates rather than on abilities is\n\/ distinct \/ conspicuous among Chinese college students."
       ],
       "frequency" : 2526,
       "mnemonic" : "appar（=appear：出现）+ -ent（形容词后缀：的）→单词整体还在模\n仿appearance：外表，表面（二者极度相似）→出现在表面上的，显\n现在外表上的→明显的",
@@ -1865,11 +1966,11 @@
     },
     {
       "collocations" : [
-
+        "The recent deterioration has been caused by an apparently endless\nrecession.\n最近的恶化是由貌似没完没了的萧条造成的。"
       ],
       "definition" : "看来，显然；貌似，表面上",
       "examples" : [
-        "He paused, apparently lost in thought.\n他停顿下来，显然陷入了沉思。\nThe recent deterioration has been caused by an apparently endless\nrecession.\n最近的恶化是由貌似没完没了的萧条造成的。"
+        "He paused, apparently lost in thought.\n他停顿下来，显然陷入了沉思。"
       ],
       "frequency" : 1414,
       "mnemonic" : "apparent（显然的；貌似的）+ -ly（副词后缀）→显然；貌似",
@@ -1902,6 +2003,7 @@
       "examples" : [
         "Isaac Newton’s epiphany about gravity and a falling apple.\n伊萨克·牛顿对苹果下落与地心引力的顿悟。"
       ],
+      "frequency" : 13080,
       "mnemonic" : "epi-（=to）+ phan-（=appear：出现）+ -y（名词后缀）→神的出现→",
       "phonetic" : "ɪˈpɪfəni",
       "pos" : "n.",
@@ -1914,10 +2016,11 @@
         "a man of transparent honesty：显然很诚实的人",
         "transparent deceptions：易识破的骗术"
       ],
-      "definition" : "（玻璃、塑料等）透明的，清澈的；显然",
+      "definition" : "（玻璃、塑料等）透明的，清澈的；显然的，易识破的",
       "examples" : [
         "The insect’s wings are almost transparent.\n这昆虫的翅膀几乎是透明的。"
       ],
+      "frequency" : 5969,
       "mnemonic" : "trans-（穿过；横过）+ -par-（出现）+ -ent（形容词后缀）→穿\n过……出现的→显然的，透明的，引申义为易识破的",
       "phonetic" : "trænsˈpærənt",
       "pos" : "adj.",
@@ -1927,7 +2030,7 @@
     {
       "collocations" : [
         "the transparency of the eye’s lenses：眼睛晶状体的透明度",
-        "transparencies of masterpieces from the art collection：艺术收藏品中一"
+        "transparencies of masterpieces from the art collection：艺术收藏品中一\n些杰作的幻灯片"
       ],
       "definition" : "透明度；幻灯片；显而易见",
       "examples" : [
@@ -2007,10 +2110,12 @@
         "phantom illnesses：幻觉疾病",
         "phantom profits：虚幻的利润"
       ],
-      "definition" : "鬼魂，幽灵；幻觉 adj. 像鬼的，幽灵似的；幻觉的，",
+      "definition" : "鬼魂，幽灵；幻觉 adj. 像鬼的，幽灵似的；幻觉的，虚幻的",
       "examples" : [
 
       ],
+      "frequency" : 15987,
+      "mnemonic" : "趣记：phant（=appear：出现）+ -tom（=tomb：坟墓）→出现在坟墓里→鬼",
       "phonetic" : "ˈfæntəm",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -2018,11 +2123,12 @@
     },
     {
       "collocations" : [
-        "put \/ lay emphasis on \/ upon sth. =emphasize sth. 强调"
+        "put \/ lay emphasis on \/ upon sth. =emphasize sth. 强调",
+        "The emphasis is on the first syllable of the last word.\n重音是在最末一个单词的第一个音节上。"
       ],
       "definition" : "重点；强调；重音",
       "examples" : [
-        "Too much emphasis is placed on research.\n把重点过多地放在研究上。\nThe emphasis is on the first syllable of the last word.\n重音是在最末一个单词的第一个音节上。"
+        "Too much emphasis is placed on research.\n把重点过多地放在研究上。"
       ],
       "frequency" : 2367,
       "mnemonic" : "em-（=en-：使动词前缀）+ pha-（=phen-：出现，突出）+ -sis（名词\n后缀）→使突出强调的部分→重点；强调；重音",
@@ -2033,7 +2139,7 @@
     },
     {
       "collocations" : [
-
+        "She swept her hair back from her face to emphasize her high cheekbones.\n她把头发朝脸后拢，使高高的颧骨显得更为突出。\n笔 记 区"
       ],
       "definition" : "强调，重视；使突出，使明显",
       "examples" : [
@@ -2080,7 +2186,8 @@
       "collocations" : [
         "fantasies of romance and true love：对浪漫和真爱的幻想",
         "escapist fantasies：逃避现实的幻想作品",
-        "a fantasy world：幻想世界"
+        "a fantasy world：幻想世界",
+        "fantasy 的缩写形式为 fancy。"
       ],
       "definition" : "幻想；想象；幻想作品",
       "examples" : [
@@ -2096,7 +2203,8 @@
     {
       "collocations" : [
         "a passing fancy：一个暂时的爱好（一时心血来潮）",
-        "a child’s wild flights of fancy：孩子的异想天开（无拘无束的想象力）"
+        "a child’s wild flights of fancy：孩子的异想天开（无拘无束的想象力）",
+        "Do you fancy going out this evening?\n今晚你想不想出去？"
       ],
       "definition" : "想象的事物，想象（力）；爱好 vt. 想要；想做",
       "examples" : [
@@ -2143,11 +2251,11 @@
     },
     {
       "collocations" : [
-
+        "I fantasized about writing music.\n我曾幻想作曲。"
       ],
       "definition" : "幻想；想像",
       "examples" : [
-        "He sometimes fantasized about winning the gold medal.\n他有时幻想赢得金牌的情景。\nI fantasized about writing music.\n我曾幻想作曲。"
+        "He sometimes fantasized about winning the gold medal.\n他有时幻想赢得金牌的情景。"
       ],
       "frequency" : 12184,
       "mnemonic" : "fantasy（幻想；想象）+ -ize（使动词后缀）→幻想；想象",
@@ -2165,6 +2273,8 @@
       "examples" : [
 
       ],
+      "frequency" : 6673,
+      "mnemonic" : "容词后缀）→随时间自己出现的→自己发生的→自发的，自然的",
       "phonetic" : "spɒnˈteɪnɪəs",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -2172,7 +2282,7 @@
     },
     {
       "collocations" : [
-
+        "Usually a woman’s breasts produce milk spontaneously after the birth.\n通常女性在生孩子后乳房会自然泌乳。\n笔 记 区"
       ],
       "definition" : "自然地；自发地；不由自主地",
       "examples" : [
@@ -2186,10 +2296,14 @@
     },
     {
       "collocations" : [
-
+        "Proto-Indo-European root meaning “to cover, conceal, save.”",
+        "It is the hypothetical source of \/ evidence for its existence is provided by:",
+        "Sanskrit cala “hut, house, hall;” Greek kalia “hut, nest,” kalyptein “to",
+        "room, store room, hut,” celare “to hide, conceal,” clam “secret,” clepere “to",
+        "steal, listen secretly to;” Old Irish cuile “cellar,” celim “hide,” Middle Irish"
       ],
       "definition" : "自然举动；自发行为",
-      "etymology" : "kel- (1) Proto-Indo-European root meaning “to cover, conceal, save.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit cala “hut, house, hall;” Greek kalia “hut, nest,” kalyptein “to cover,” koleon, koleos “sheath,” kelyphos “shell, husk;” Latin cella “small room, store room, hut,” celare “to hide, conceal,” clam “secret,” clepere “to steal, listen secretly to;” Old Irish cuile “cellar,” celim “hide,” Middle Irish cul “defense, shelter;” Gothic hulistr “covering,” Old English heolstor “lurking-hole, cave, covering,” Gothic huljan “to cover over,” hulundi “hole,” hilms “helmet,” halja “hell,” Old English hol “cave,” holu “husk, pod;” Old Prussian au-klipts “hidden;” Old Church Slavonic poklopu “cover, wrapping.”",
+      "etymology" : "kel- (1) cover,” koleon, koleos “sheath,” kelyphos “shell, husk;” Latin cella “small cul “defense, shelter;” Gothic hulistr “covering,” Old English heolstor “lurking-hole, cave, covering,” Gothic huljan “to cover over,” hulundi “hole,” hilms “helmet,” halja “hell,” Old English hol “cave,” holu “husk, pod;” Old Prussian au-klipts “hidden;” Old Church Slavonic poklopu “cover, wrapping.”",
       "examples" : [
         "He had the spontaneity of a child.\n他有孩子般的自然举动。\n词根 col-, cel-, helm-, hall-, hol-, hel, ceal-, cul- 都包含“to cover, conceal,\nsave：覆盖；隐藏；保护”等含义。"
       ],
@@ -2203,12 +2317,14 @@
     {
       "collocations" : [
         "food colors：食品着色剂",
-        "color slightly：有些脸红"
+        "color slightly：有些脸红\n笔 记 区\n20000 词汇巅峰\n速\n记",
+        "color the posters：给海报着色"
       ],
       "definition" : "颜色；肤色（常指人种）；着色剂 vt. 给……着色；脸红",
       "examples" : [
 
       ],
+      "frequency" : 698,
       "mnemonic" : "col-（=to cover：覆盖）+ -or（名词后缀）→覆盖在上的颜色→颜",
       "phonetic" : "ˈkʌlə(r)",
       "pos" : "n.",
@@ -2235,10 +2351,11 @@
         "colorful shop windows：五彩缤纷的商店橱窗",
         "a colorful history \/ past \/ career：丰富多彩的历史 \/ 过去 \/ 经历"
       ],
-      "definition" : "颜色鲜艳的，五彩缤纷的；丰富多彩的（有时达到了",
+      "definition" : "颜色鲜艳的，五彩缤纷的；丰富多彩的（有时达到了有些令人震惊的程度），有趣的",
       "examples" : [
 
       ],
+      "frequency" : 4509,
       "mnemonic" : "color（颜色）+ -ful（形容词后缀，表示充满……的）→颜色鲜艳",
       "phonetic" : "ˈkʌləfl",
       "pos" : "adj.",
@@ -2313,7 +2430,7 @@
         "cellular structure \/ processes：细胞结构 \/ 变化过程",
         "a cellular network：蜂窝式网络系统"
       ],
-      "definition" : "细胞的，由细胞组成的；（无线电话）蜂窝状的，",
+      "definition" : "细胞的，由细胞组成的；（无线电话）蜂窝状的，手机的5877（所谓蜂窝移动电话是指将移动电话服务区划分为若干个彼此相邻的小区，每个小区设立一个基站的网络结构。由于每个小区呈正六边形，又彼此邻接，从整体上看，形状酷似蜂窝，所以人们称它为“蜂窝”网。用若干蜂窝状小区覆盖整个服务区的大、中容量移动电话系统就叫做蜂窝移动电话系统，简称蜂窝移动电话）",
       "examples" : [
         "The use of cellular phones is not permitted on most aircraft.\n大多数飞机上不许使用手机。"
       ],
@@ -2388,11 +2505,14 @@
     {
       "collocations" : [
         "be hampered by sth.：被……阻碍了",
-        "hamper the development of our country’s economy.：阻碍我们国家经济"
+        "hamper the development of our country’s economy.：阻碍我们国家经济\n发展\n（ 写 作， 阅 读） 重 点：“ 阻 碍， 妨 碍” 的 表 达 方 式：hamper \/ block \/",
+        "Numerous laws and regulations on piracy, hampered \/ blocked \/",
+        "hindered by some relevant interest groups, are difficult to be carried out \/",
+        "implemented \/ put into effect \/ brought into force.\n笔 记 区"
       ],
       "definition" : "妨碍；束缚；阻碍",
       "examples" : [
-        "很多打击盗版的法规，由于受到相关利益集团的阻碍而很难实施。\nNumerous laws and regulations on piracy, hampered \/ blocked \/\nhindered by some relevant interest groups, are difficult to be carried out \/\nimplemented \/ put into effect \/ brought into force."
+        "很多打击盗版的法规，由于受到相关利益集团的阻碍而很难实施。"
       ],
       "frequency" : 9241,
       "mnemonic" : "hamper（=helmet：头盔；引申为“限制，束缚”，即：“束缚”住\n头的东西）→限制；束缚；妨碍",
@@ -2403,11 +2523,12 @@
     },
     {
       "collocations" : [
+        "any large place covered by a roof, 来自原始日耳曼语hallo “covered\nplace, hall”。",
         "run into the hall：跑进门厅",
-        "down the hall：沿着走廊"
+        "down the hall：沿着走廊\na concert \/ banqueting \/ sports \/ exhibition, etc. hall 音乐厅、宴会厅、体\n育馆、展厅等"
       ],
       "definition" : "门厅，正门过道；（大楼内的）走廊；礼堂，大厅",
-      "etymology" : "来自古英语heall “spacious roofed residence, house; temple; law-court,” any large place covered by a roof, 来自原始日耳曼语hallo “covered place, hall”。",
+      "etymology" : "来自古英语heall “spacious roofed residence, house; temple; law-court,”",
       "examples" : [
 
       ],
@@ -2421,11 +2542,12 @@
       "collocations" : [
 
       ],
-      "definition" : "特征；特点；金银纯度印记（打在金、银、铂制品",
+      "definition" : "特征；特点；金银纯度印记（打在金、银、铂制品上，表示纯度、生产日期及产地） vt. 给……打金银纯度印记",
       "etymology" : "英国在国王爱德华一世统治期间建立了金银器的纯度衡量标准，如 银制品必须含有92.5%的银、2.5%的铜，只有符合这一标准的银器才 能被称为“标准纯银”。1300年，爱德华一世下令，凡金银制品必须 由伦敦金匠公司（Goldsmiths’ Company of London）鉴定纯度，符合 标准的由伦敦金匠公司打上印记，否则不得上市交易。鉴定并打印记 的工作在该公司的“金匠大厦”（Goldsmiths’ Hall）中进行，因此金 银纯度印记就被称为hallmark 一直沿用至今，并逐渐泛化为“质量印 记”之意。",
       "examples" : [
         "Police said the explosion bore all the hallmarks of a terrorist attack.\n警方称这次爆炸具有恐怖分子袭击的所有特征。"
       ],
+      "frequency" : 8448,
       "mnemonic" : "hall（鉴定纯度的金匠大厦）+ mark（金银纯度印记）→给……打印",
       "phonetic" : "ˈhɔːlmɑːk",
       "pos" : "n.",
@@ -2440,10 +2562,11 @@
         "hollow laugh：虚伪的笑声",
         "be hollowed by the weight of its burden：被所载重物压得凹陷了下去"
       ],
-      "definition" : "空心的；凹陷的；空洞的，没有价值的；虚伪的 n. 凹陷",
+      "definition" : "空心的；凹陷的；空洞的，没有价值的；虚伪的 n. 凹陷处 vt. 使凹陷",
       "examples" : [
         "The town lay warm in the hollow of the hill.\n小镇温暖地坐落在山的凹陷处（山坳里）。"
       ],
+      "frequency" : 7548,
       "mnemonic" : "hol-（=hole：洞）+ low→空洞的；空心的；凹陷处；使凹陷→引申",
       "phonetic" : "ˈhɒləʊ",
       "pos" : "adj.",
@@ -2500,11 +2623,12 @@
       "collocations" : [
         "a wooden \/ steel hull：木质 \/ 钢质船体"
       ],
-      "definition" : "船身；船体 vt. 剥去（豌豆、大豆等的）外壳；摘掉（草莓的）",
+      "definition" : "船身；船体 vt. 剥去（豌豆、大豆等的）外壳；摘掉（草莓的）花萼",
       "etymology" : "Hull来自古英语hulu，意思是“豆荚”，来源于原始日耳曼语hulus （包裹覆盖），所以hull指的就是包裹覆盖豆子的豆荚。15世纪时， 人们开始将船的主体外壳也称为hull，因为它的形状和功能都和豆荚 类似。",
       "examples" : [
 
       ],
+      "frequency" : 6793,
       "phonetic" : "hʌl",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -2535,6 +2659,7 @@
       "examples" : [
 
       ],
+      "frequency" : 5211,
       "mnemonic" : "con-（强调前缀）+ -ceal（=cel-=to hide：隐藏）→隐藏；隐瞒；遮盖",
       "phonetic" : "kənˈsiːl",
       "pos" : "vt.",
@@ -2572,13 +2697,15 @@
     },
     {
       "collocations" : [
+        "The Book of Revelation。",
         "an environmental apocalypse：环境大灾变"
       ],
-      "definition" : "世界毁灭；（《圣经》所述的）世界末世；大动",
-      "etymology" : "《圣经·新约》中的最后一章是圣约翰（St. John）所写的“启示 录”。据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩 斯岛时，将主给他显示的异象记录下来，并预言了主的降临和世界 末日来临时的景象。该书的希腊名是Apokalyptein，在1230年的英语 版本中被译为The Book of Apocalypse，在1380年的英语版本中被译为 The Book of Revelation。",
+      "definition" : "世界毁灭；（《圣经》所述的）世界末世；大动乱，大灾变",
+      "etymology" : "《圣经·新约》中的最后一章是圣约翰（St. John）所写的“启示 录”。据说耶稣基督的十二门徒之一圣约翰被罗马皇帝流放至帕特摩 斯岛时，将主给他显示的异象记录下来，并预言了主的降临和世界 末日来临时的景象。该书的希腊名是Apokalyptein，在1230年的英语 版本中被译为The Book of Apocalypse，在1380年的英语版本中被译为",
       "examples" : [
         "Civilization is on the brink of apocalypse.\n文明已濒临毁灭的边缘。"
       ],
+      "frequency" : 19353,
       "mnemonic" : "apo-（=off：去掉）+ calyp-（=cover：隐藏；掩盖）+ -se（名词后\n缀）→去掉、揭示隐藏的东西→revelation：启示；揭示→世界末世",
       "phonetic" : "əˈpɒkəlɪps",
       "pos" : "n.",
@@ -2588,13 +2715,18 @@
     {
       "collocations" : [
         "apocalyptic warnings：末日警告",
-        "an apocalyptic scene：末世景象"
+        "an apocalyptic scene：末世景象\n单词 \/ 词根 house, sky, hide, hut, hose, huddle, hoard, scu- 同源，都包含\n“to cover, conceal：覆盖；隐藏”的意思。\n20000 词汇巅峰\n速\n记",
+        "Proto-Indo-European root meaning “to cover, conceal.”",
+        "It is the hypothetical source of \/ evidence for its existence is provided by:",
+        "Sanskrit kostha “enclosing wall,” skunati “covers;” Greek kytos “a hollow,",
+        "German Scheuer “barn;” Welsh cuddio “to hide.”\n笔 记 区"
       ],
-      "definition" : "描述（历史）大动乱的，预示（未来）大灾",
-      "etymology" : "*(s)keu- Proto-Indo-European root meaning “to cover, conceal.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit kostha “enclosing wall,” skunati “covers;” Greek kytos “a hollow, vessel,” keutho “to cover, to hide,” skynia “eyebrows;” Latin cutis “skin,” ob-scurus “dark;” Lithuanian kiautas “husk,” kūtis “stall;” Armenian ciw “roof;” Russian kishka “gut,” literally “sheath;” Old English hyd “a hide, a skin,” hydan “to hide, conceal; Old Norse sky “cloud;” Old English sceo “cloud;” Middle High German hode “scrotum;” Old High German scura, German Scheuer “barn;” Welsh cuddio “to hide.” 笔 记 区",
+      "definition" : "描述（历史）大动乱的，预示（未来）大灾变的；像世界末日的，（世界）末日启示的",
+      "etymology" : "*(s)keu- vessel,” keutho “to cover, to hide,” skynia “eyebrows;” Latin cutis “skin,” ob-scurus “dark;” Lithuanian kiautas “husk,” kūtis “stall;” Armenian ciw “roof;” Russian kishka “gut,” literally “sheath;” Old English hyd “a hide, a skin,” hydan “to hide, conceal; Old Norse sky “cloud;” Old English sceo “cloud;” Middle High German hode “scrotum;” Old High German scura,",
       "examples" : [
 
       ],
+      "frequency" : 13271,
       "mnemonic" : "apocalyp（= apocalypse：世界末世；大动乱，大灾变）+ -tic（形容词\n后缀，与……相关的）→预示（未来）大灾变的；像世界末世的；末",
       "phonetic" : "əˌpɒkəˈlɪptɪk",
       "pos" : "adj.",
@@ -2606,16 +2738,16 @@
         "a two-bedroom house：两居室的住宅",
         "house price：房价",
         "wake the whole house：把全家人都吵醒",
-        "an opera house：歌剧院",
-        "a fashion \/ banking \/ publishing, etc. house：时装公司、银行、出版社等",
+        "an opera house：歌剧院\na fashion \/ banking \/ publishing, etc. house：时装公司、银行、出版社等",
         "a steakhouse：牛排餐馆",
         "a coffee house：咖啡馆"
       ],
-      "definition" : "房屋，住宅；全家人；某种用途的建筑物；（从事某种生意",
+      "definition" : "房屋，住宅；全家人；某种用途的建筑物；（从事某种生意的）公司，机构；餐馆；餐厅",
       "etymology" : "来自古英语hus：居住地，庇护所，屋子。来自原始印欧语词根skeu- =to cover, to conceal：遮盖，隐藏，引申词义房屋，住宅等建筑物。",
       "examples" : [
 
       ],
+      "frequency" : 258,
       "phonetic" : "haʊs",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -2626,10 +2758,11 @@
         "public \/ private housing：公共 \/ 私人住房",
         "housing policy：住房政策"
       ],
-      "definition" : "（统称，尤指住房类型、价格、条件）住房，住宅；住",
+      "definition" : "（统称，尤指住房类型、价格、条件）住房，住宅；住房供给",
       "examples" : [
 
       ],
+      "frequency" : 2166,
       "mnemonic" : "house（房屋；住宅）+ -ing（集合名词后缀）→住房，住宅；住房",
       "phonetic" : "haʊzɪŋ",
       "pos" : "n.",
@@ -2761,10 +2894,11 @@
       "collocations" : [
 
       ],
-      "definition" : "家务（尤指采购和管理开支）；（旅馆、医",
+      "definition" : "家务（尤指采购和管理开支）；（旅馆、医院、写字楼等的）总务处，后勤部；家务开支",
       "examples" : [
         "Call housekeeping and ask them to bring us some clean towels.\n给总务处打电话，让他们给我们送些干净的毛巾来。"
       ],
+      "frequency" : 15406,
       "mnemonic" : "housekeep（管理家务）+ -ing（动名词后缀）→家务；总务处；家务",
       "phonetic" : "ˈhaʊskiːpɪŋ",
       "pos" : "n.",
@@ -2790,10 +2924,11 @@
       "collocations" : [
 
       ],
-      "definition" : "连栋房屋；城市住房（在乡村已有住房的富人在城",
+      "definition" : "连栋房屋；城市住房（在乡村已有住房的富人在城市拥有的住房）；市政厅（=city hall, town hall）",
       "examples" : [
 
       ],
+      "frequency" : 14285,
       "mnemonic" : "town（城镇；市镇）+ house（房屋）→城镇里的房屋→连栋房屋；",
       "phonetic" : "taʊnhaʊs",
       "pos" : "n.",
@@ -2837,11 +2972,12 @@
         "hide his face：遮住了他的脸",
         "hide her disappointment：掩饰她的失望"
       ],
-      "definition" : "藏，隐蔽；躲藏，遮住；掩饰，隐瞒（尤指感情） n. 藏身",
+      "definition" : "藏，隐蔽；躲藏，遮住；掩饰，隐瞒（尤指感情） n. 藏身处；兽皮",
       "etymology" : "来自原始印欧语词根skeu-：隐藏，遮盖，引申词义兽皮。",
       "examples" : [
 
       ],
+      "frequency" : 1261,
       "phonetic" : "haɪd",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -2927,10 +3063,11 @@
     },
     {
       "collocations" : [
+        "House用于指房屋，住宅，大型建筑物。",
         "a wooden hut：小木屋"
       ],
       "definition" : "（木头、泥、草或石头搭成的）小屋",
-      "etymology" : "自古法语hutte：村舍。与house同源。Hut用于指简陋的小棚，小舍。 House用于指房屋，住宅，大型建筑物。",
+      "etymology" : "自古法语hutte：村舍。与house同源。Hut用于指简陋的小棚，小舍。",
       "examples" : [
 
       ],
@@ -2946,11 +3083,12 @@
         "rubber hose：橡皮软管",
         "fire hose：消防水龙带"
       ],
-      "definition" : "（灭火、浇花等用的）软管；水龙带 vt. 用软管输水冲洗（或",
+      "definition" : "（灭火、浇花等用的）软管；水龙带 vt. 用软管输水冲洗（或浇水）",
       "etymology" : "来自古英语hosa：裤管，腿的遮盖衣物。引申词义长筒袜，后也用于 指塑料管。",
       "examples" : [
         "Firemen hosed the burning car.\n消防队员用水龙带向燃烧的汽车喷水。"
       ],
+      "frequency" : 6316,
       "phonetic" : "həʊz",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -2958,12 +3096,14 @@
     },
     {
       "collocations" : [
-
+        "I huddled under a blanket on the floor.\n我在地板上盖着毯子缩成一团。\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "People stood around in huddles.\n人们三五成群地挤在一起。"
       ],
-      "definition" : "（通常因寒冷或害怕）挤在一起；（通常因寒冷或害怕）",
+      "definition" : "（通常因寒冷或害怕）挤在一起；（通常因寒冷或害怕）蜷缩，缩成一团 n.（尤指杂乱地）挤在一起的人（或物品、建筑）",
       "examples" : [
-        "We huddled together for warmth.\n我们挤在一块取暖。\nI huddled under a blanket on the floor.\n我在地板上盖着毯子缩成一团。"
+        "We huddled together for warmth.\n我们挤在一块取暖。"
       ],
+      "frequency" : 7321,
       "mnemonic" : "hud-（=to cover, conceal：遮蔽；隐藏，双写d）+ -le（表反复）→寻\n求遮蔽、隐藏的人一般蜷缩在一角→引申词义蜷缩、挤在一起",
       "phonetic" : "ˈhʌdl",
       "pos" : "vi.",
@@ -2972,14 +3112,16 @@
     },
     {
       "collocations" : [
+        "cover, conceal：遮盖；隐藏”",
         "hoard food and petrol：贮藏食物和汽油",
         "a hoard of silver and jewels：白银和珠宝的收藏品"
       ],
-      "definition" : "（钱、食物、贵重物品等的）贮存，藏品；（尤指）秘藏",
-      "etymology" : "来自古英语hord “a treasure：宝藏”，来自原始日耳曼语huzdam，含 义为hidden treasure：隐藏的财宝。来自原始印欧语词根 (s)keu- “to cover, conceal：遮盖；隐藏” 。",
+      "definition" : "（钱、食物、贵重物品等的）贮存，藏品；（尤指）秘藏vi. & vt. 贮藏；囤积；（尤指）秘藏",
+      "etymology" : "来自古英语hord “a treasure：宝藏”，来自原始日耳曼语huzdam，含 义为hidden treasure：隐藏的财宝。来自原始印欧语词根 (s)keu- “to 。",
       "examples" : [
 
       ],
+      "frequency" : 15256,
       "phonetic" : "hɔːd",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -3050,12 +3192,19 @@
     {
       "collocations" : [
         "skim through the article：浏览这篇文章",
-        "skim sth. \/ sb. off：攫取（最好的部分）；捞取（精华部分）"
+        "skim sth. \/ sb. off：攫取（最好的部分）；捞取（精华部分）",
+        "We watched the birds skimming over the lake.\n我们看着鸟儿擦着湖面飞过。",
+        "The speedboat took off, skimming the waves.\n快艇擦着波浪飞驰而去。",
+        "This report has barely skimmed the surface of the subject.\n这个报告仅仅掠过这个主题（对这个问题谈得很肤浅）。\n单词 \/ 词根 break, viol-, frag-, frac-, fract-, fring- 都有“打破；违反”\n等含义。",
+        "Proto-Indo-European root meaning “to break.”",
+        "It is the hypothetical source of \/ evidence for its existence is provided",
+        "by: Sanskrit (giri)-bhraj “breaking-forth (out of the mountains);” Latin\nfrangere “to break (something) in pieces, shatter, fracture;” Lithuanian\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "Old English brecan “to break.”"
       ],
       "definition" : "撇去（液体上的油脂或乳脂等） vi.&vt.（使）掠过，擦过；浏览，略读",
-      "etymology" : "*bhreg- Proto-Indo-European root meaning “to break.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit (giri)-bhraj “breaking-forth (out of the mountains);” Latin frangere “to break (something) in pieces, shatter, fracture;” Lithuanian 20000 词汇巅峰 速 记 笔 记 区 braškėti “crash, crack;” Old Irish braigim “break wind;” Gothic brikan, Old English brecan “to break.”",
+      "etymology" : "*bhreg- braškėti “crash, crack;” Old Irish braigim “break wind;” Gothic brikan,",
       "examples" : [
-        "Skim the scum off the jam and let it cool.\n撇去果酱上的浮沫，让它冷却。\nWe watched the birds skimming over the lake.\n我们看着鸟儿擦着湖面飞过。\nThe speedboat took off, skimming the waves.\n快艇擦着波浪飞驰而去。\nThis report has barely skimmed the surface of the subject.\n这个报告仅仅掠过这个主题（对这个问题谈得很肤浅）。\n单词 \/ 词根 break, viol-, frag-, frac-, fract-, fring- 都有“打破；违反”\n等含义。"
+        "Skim the scum off the jam and let it cool.\n撇去果酱上的浮沫，让它冷却。"
       ],
       "frequency" : 8677,
       "phonetic" : "skɪm",
@@ -3065,19 +3214,21 @@
     },
     {
       "collocations" : [
+        "fragments; to injure, violate (a promise, etc.), destroy, curtail; to break into,",
+        "rush into; to burst forth, spring out; to subdue, tame”",
         "break a cup \/ window：打破杯子 \/ 窗户",
         "break one’s arm：摔断了胳膊",
         "break the law：违反法律",
         "break an appointment：背弃一个约定（失约）",
         "break the silence：打破寂静",
-        "break my train of thought：打断了我的思路",
-        "break sb’s resolve \/ spirit：瓦解某人的决心 \/ 精神"
+        "break my train of thought：打断了我的思路\nbreak sb’s resolve \/ spirit：瓦解某人的决心 \/ 精神"
       ],
-      "definition" : "&vt.（使）破，裂，碎；弄坏，损坏；违犯，背弃；打破，",
-      "etymology" : "来自古英语brecan “to divide solid matter violently into parts or fragments; to injure, violate (a promise, etc.), destroy, curtail; to break into, rush into; to burst forth, spring out; to subdue, tame” .",
+      "definition" : "&vt.（使）破，裂，碎；弄坏，损坏；违犯，背弃；打破，打断；（被）摧毁，瓦解，削弱",
+      "etymology" : "来自古英语brecan “to divide solid matter violently into parts or .",
       "examples" : [
         "My watch has broken.\n我的表坏了。"
       ],
+      "frequency" : 495,
       "phonetic" : "breɪk",
       "pos" : "vi.",
       "rootHint" : "sting",
@@ -3090,10 +3241,11 @@
         "a night of broken sleep：睡眠被打扰的一夜",
         "a single broken white line：一条断断续续的白线"
       ],
-      "definition" : "坏掉的，破碎的；破裂的，中止的；不连续的，被打",
+      "definition" : "坏掉的，破碎的；破裂的，中止的；不连续的，被打扰的",
       "examples" : [
 
       ],
+      "frequency" : 2717,
       "phonetic" : "ˈbrəʊkən",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -3102,12 +3254,13 @@
     {
       "collocations" : [
         "a single unbroken line：一条连续的线",
-        "an unbroken string of victories：接连不断的一连串胜利"
+        "an unbroken string of victories：接连不断的一连串胜利\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "连续的；不间断的；（体育记录等）未被打破",
+      "definition" : "连续的；不间断的；（体育记录等）未被打破的",
       "examples" : [
 
       ],
+      "frequency" : 13976,
       "mnemonic" : "un-（表相反）+ broken（不连续的；打破的）→连续的；未被打破的",
       "phonetic" : "ʌnˈbrəʊkən",
       "pos" : "adj.",
@@ -3149,8 +3302,7 @@
       "collocations" : [
         "law-breaker：打破法律的人（违法者）",
         "record breaker：打破纪录者",
-        "strike-breaker：破坏罢工者",
-        "tie-breaker：打破平分的比赛（平分决胜比赛）",
+        "strike-breaker：破坏罢工者\ntie-breaker：打破平分的比赛（平分决胜比赛）",
         "house-breaker：入室行窃者（破门而入偷取财物的人）"
       ],
       "definition" : "拍岸的白浪，~breaker：打破……的人",
@@ -3166,10 +3318,11 @@
     },
     {
       "collocations" : [
+        "breaking the night's fast，故指开戒第一餐，break one’s fast含义为“开\n戒”或“开斋”。由于早餐是打破斋戒的第一餐，所以后来breakfast\n就变成了“早餐”。",
         "a big \/ hearty \/ light breakfast：量大的 \/ 丰盛的 \/ 量少的早餐"
       ],
       "definition" : "早餐 vi. 用早餐",
-      "etymology" : "fast在作名词用时指“斋戒”或“禁食”，breakfast按字面义是 breaking the night's fast，故指开戒第一餐，break one’s fast含义为“开 戒”或“开斋”。由于早餐是打破斋戒的第一餐，所以后来breakfast 就变成了“早餐”。",
+      "etymology" : "fast在作名词用时指“斋戒”或“禁食”，breakfast按字面义是",
       "examples" : [
 
       ],
@@ -3212,7 +3365,7 @@
     {
       "collocations" : [
         "plan a prison breakout：策划一次越狱",
-        "a mass breakout from a top security prison：从防守高度严密的监狱的集"
+        "a mass breakout from a top security prison：从防守高度严密的监狱的集\n体越狱"
       ],
       "definition" : "（常指集体的）越狱",
       "examples" : [
@@ -3229,10 +3382,11 @@
       "collocations" : [
         "the breakup of the meeting’s first session：该会议第一轮的破裂"
       ],
-      "definition" : "（婚姻、关系、联系等的）破裂；（组织、国家的）",
+      "definition" : "（婚姻、关系、联系等的）破裂；（组织、国家的）解体",
       "examples" : [
         "The Justice Department advocated a breakup of Microsoft.\n司法部主张微软公司解体。"
       ],
+      "frequency" : 7823,
       "mnemonic" : "break（打断；中断）+ up（=over：结束）→中断……使之结束→破",
       "phonetic" : "ˈbreɪkʌp",
       "pos" : "n.",
@@ -3242,12 +3396,13 @@
     {
       "collocations" : [
         "a breakaway faction \/ group \/ section：脱离原组织的派系 \/ 集体 \/ 部分",
-        "a breakaway republic：一个已经独立的共和国"
+        "a breakaway republic：一个已经独立的共和国\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "（政治团体、组织、国家的一部分）已分离",
+      "definition" : "（政治团体、组织、国家的一部分）已分离的；已脱离的；已独立的 n. 脱离；独立",
       "examples" : [
 
       ],
+      "frequency" : 19565,
       "mnemonic" : "break（打破；破裂）+ away（分离；离开）→……破裂，从其中分\n离开来的→已分离的，已脱离的；脱离，独立",
       "phonetic" : "ˈbreɪkəweɪ",
       "pos" : "adj.",
@@ -3260,11 +3415,12 @@
         "family breakdown：家庭破裂",
         "a breakdown of the costs：花销细目列表"
       ],
-      "definition" : "（关系、计划、讨论等的）失败，结束；精神崩",
+      "definition" : "（关系、计划、讨论等的）失败，结束；精神崩溃；故障；细目列表",
       "examples" : [
         "Her old car was unreliable, so the trip was plagued by breakdowns.\n她的旧车性能不可靠,所以旅途被故障所困扰。"
       ],
-      "mnemonic" : "break（弄坏；中断）+ down（向下）→失败；故障；精神崩溃",
+      "frequency" : 5210,
+      "mnemonic" : "break（弄坏；中断）+ down（向下）→失败；故障；精神崩溃\nbreak（打破；破碎）+ down（向下）→打破一个完整事件，进行细\n分→细目列表",
       "phonetic" : "ˈbreɪkdaʊn",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -3298,6 +3454,7 @@
       "examples" : [
 
       ],
+      "frequency" : 5415,
       "mnemonic" : "out-（向外）+ break（破裂；打破）→（暴力、疾病等的）爆发；突",
       "phonetic" : "ˈaʊtbreɪk",
       "pos" : "n.",
@@ -3306,12 +3463,16 @@
     },
     {
       "collocations" : [
-        "an outburst of anger：怒气的突然爆发（突然大怒）"
+        "an outburst of anger：怒气的突然爆发（突然大怒）",
+        "outburst of cheers and applause：爆发出欢呼声和掌声",
+        "a fresh outburst of violence：一起新的暴力事件爆发",
+        "an outburst of racism：种族主义的突然高涨"
       ],
-      "definition" : "（感情的）爆发；（活动）高涨，爆发；（态度）激",
+      "definition" : "（感情的）爆发；（活动）高涨，爆发；（态度）激化",
       "examples" : [
 
       ],
+      "frequency" : 9805,
       "mnemonic" : "out（向外）+ burst（使爆裂，胀开；爆满；突然出现）→向外爆\n裂，胀开→爆发；高涨；激化",
       "phonetic" : "ˈaʊtbɜːst",
       "pos" : "n.",
@@ -3350,6 +3511,8 @@
     },
     {
       "collocations" : [
+        "opening made by breaking：使破开，攻破",
+        "rupture of friendly relations：使友好关系破裂、裂痕等",
         "breaches of security：安全防御的攻破",
         "threaten a serious breach in relations：威胁关系的严重分裂",
         "a breach of secrecy rules：违反保密条例",
@@ -3357,10 +3520,11 @@
         "breach the code of conduct：违反了行为准则",
         "breach security：攻破安全防卫"
       ],
-      "definition" : "违反；使破开；攻破（某人的防范） n. 违反；（关系中",
+      "definition" : "违反；使破开；攻破（某人的防范） n. 违反；（关系中的）裂痕；攻破",
       "examples" : [
 
       ],
+      "frequency" : 8002,
       "phonetic" : "briːtʃ",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -3368,13 +3532,14 @@
     },
     {
       "collocations" : [
-
+        "On stage she seems hard, brash and uncompromising.\n在舞台上，她显得冷酷、自以为是而且不妥协。\n笔 记 区"
       ],
       "definition" : "盛气凌人的；自以为是的",
       "examples" : [
         "Beneath his brash exterior, he's still a little boy inside.\n他外表盛气凌人，内心里还是个孩子。"
       ],
       "frequency" : 14011,
+      "mnemonic" : "趣记：break：打破，破碎→brash：自以为可以破碎一切的→盛气凌人的；",
       "phonetic" : "bræʃ",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -3389,6 +3554,7 @@
       "examples" : [
         "She accused the press photographers of violating her privacy.\n她指责新闻摄影记者侵犯了她的隐私。"
       ],
+      "frequency" : 2934,
       "mnemonic" : "viol（=break：打破；侵害）+ -ate（动词后缀）→打破（私生活的",
       "phonetic" : "ˈvaɪəleɪt",
       "pos" : "vt.",
@@ -3430,8 +3596,7 @@
       "collocations" : [
         "physical violence：身体暴力",
         "provoke violence：引发暴力",
-        "domestic violence：家庭暴力",
-        "crimes \/ acts \/ threats of violence：暴力犯罪 \/ 行为 \/ 威胁"
+        "domestic violence：家庭暴力\ncrimes \/ acts \/ threats of violence：暴力犯罪 \/ 行为 \/ 威胁\n笔 记 区\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "暴力，暴行；狂热，激情，强烈的感情",
       "examples" : [
@@ -3450,10 +3615,11 @@
         "a violent reaction：感情强烈的反应",
         "a violent explosion：剧烈的爆炸"
       ],
-      "definition" : "暴力的，强暴的；感情强烈的，激情的；猛烈的，剧",
+      "definition" : "暴力的，强暴的；感情强烈的，激情的；猛烈的，剧烈的",
       "examples" : [
 
       ],
+      "frequency" : 2178,
       "mnemonic" : "viol-（暴力；激情）+ -ent（形容词后缀）→暴力的；激情的；猛烈的",
       "phonetic" : "ˈvaɪələnt",
       "pos" : "adj.",
@@ -3485,10 +3651,11 @@
         "a fragile alliance：不牢固的联盟",
         "in fragile health：身体虚弱"
       ],
-      "definition" : "易碎的，易损的；不牢固的，脆弱的；虚弱的，脆弱",
+      "definition" : "易碎的，易损的；不牢固的，脆弱的；虚弱的，脆弱的",
       "examples" : [
 
       ],
+      "frequency" : 4788,
       "mnemonic" : "frag-（=break：弄坏；打碎）+ -ile（容易……的）→容易碎，坏的→",
       "phonetic" : "ˈfrædʒaɪl",
       "pos" : "adj.",
@@ -3514,7 +3681,7 @@
     {
       "collocations" : [
         "fragments of glass：玻璃碎片",
-        "a fragment of their conversation：谈话的片段"
+        "a fragment of their conversation：谈话的片段\n笔 记 区"
       ],
       "definition" : "碎片；片段 vt.&vi.（使）碎裂，破裂，分裂",
       "examples" : [
@@ -3605,11 +3772,12 @@
     },
     {
       "collocations" : [
-        "a fraction of sth.：一小部分，一小点……"
+        "a fraction of sth.：一小部分，一小点……",
+        "She hesitated for a fraction of a second before responding.\n她犹豫了一下才回应。"
       ],
       "definition" : "少量；分数",
       "examples" : [
-        "These days’ conservation is all about efficiency: getting the same—or\nbetter—results from just a fraction of the energy.\n这些天的谈话全是关于效能，从一小点能源中获得相同甚至更理想的\n结果。\nHere’s how to eat like the stars, at a fraction of the cost.\n这就是如何花少量钱却能像明星一样吃喝的方法。\nShe hesitated for a fraction of a second before responding.\n她犹豫了一下才回应。"
+        "These days’ conservation is all about efficiency: getting the same—or\nbetter—results from just a fraction of the energy.\n这些天的谈话全是关于效能，从一小点能源中获得相同甚至更理想的\n结果。\nHere’s how to eat like the stars, at a fraction of the cost.\n这就是如何花少量钱却能像明星一样吃喝的方法。"
       ],
       "frequency" : 4774,
       "mnemonic" : "fract-（=break：打破；打碎）+ -ion（名词后缀）→弄碎的部分→\n（成）碎片，片段，小部分→少量；分数",
@@ -3637,7 +3805,7 @@
     },
     {
       "collocations" : [
-
+        "Something such as a lens which refracts light (= causes it to change\ndirection).\n20000 词汇巅峰\n速\n记\n笔 记 区\nrefraction：折射"
       ],
       "definition" : "折射器",
       "examples" : [
@@ -3660,6 +3828,7 @@
       "examples" : [
 
       ],
+      "frequency" : 15385,
       "mnemonic" : "in-（入；向内）+ fring-（= -frag-：打破；打碎）+ -e→向内打破规\n则、法律、权利等→违背；侵犯",
       "phonetic" : "ɪnˈfrɪndʒ",
       "pos" : "vt.",
@@ -3675,6 +3844,7 @@
       "examples" : [
 
       ],
+      "frequency" : 16268,
       "mnemonic" : "infringe（侵犯；违反）+ -ment（名词后缀）→侵犯；违反",
       "phonetic" : "ɪnˈfrɪndʒmənt",
       "pos" : "n.",
@@ -3683,11 +3853,12 @@
     },
     {
       "collocations" : [
-        "refrain from making any comment：忍住了没做任何评论"
+        "refrain from making any comment：忍住了没做任何评论",
+        "He has refrained from criticizing the government in public.\n他克制住了自己，没有在公开场合批评政府。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "忍住；克制；避免 n. 副歌；一再重复的话",
       "examples" : [
-        "Please refrain from smoking.\n请克制吸烟（请勿吸烟）。\nHe has refrained from criticizing the government in public.\n他克制住了自己，没有在公开场合批评政府。"
+        "Please refrain from smoking.\n请克制吸烟（请勿吸烟）。"
       ],
       "frequency" : 9225,
       "mnemonic" : "re-（back：向后）+ -frain（=用绳子勒住：克制；控制）→向后勒住\n→忍住；克制；避免\nre-（=again：重复）+-frain（=break：破开；中断）→其原义为中断\n歌声后再重新开始、重复的部分→副歌；一再重复的话",
@@ -3749,10 +3920,11 @@
         "corrupt software：被破坏的软件",
         "the corrupting effects of great wealth：巨大财富的腐蚀作用"
       ],
-      "definition" : "腐败的，贪污的；堕落的；已变坏的 vt. 使腐化；使",
+      "definition" : "腐败的，贪污的；堕落的；已变坏的 vt. 使腐化；使堕落；破坏；引起（计算机文件等的）错误；破坏",
       "examples" : [
 
       ],
+      "frequency" : 5929,
       "mnemonic" : "cor-（=com-：强调前缀）+ -rupt（=break：弄破；弄坏）→使变坏；\n使堕落→腐败的，堕落的；使腐化；破坏",
       "phonetic" : "kəˈrʌpt",
       "pos" : "adj.",
@@ -3762,11 +3934,13 @@
     {
       "collocations" : [
         "political corruption：政治腐败",
-        "fight police corruption：与司法腐败作斗争"
+        "fight police corruption：与司法腐败作斗争",
+        "Corruption and cheat abound in our society, which are causing damage to",
+        "the whole society both materially and morally.\n笔 记 区"
       ],
       "definition" : "腐败；贪污；贿赂",
       "examples" : [
-        "腐败和欺骗充斥了整个社会，这导致整个社会物质和道德都受到\n损害。\nCorruption and cheat abound in our society, which are causing damage to\nthe whole society both materially and morally."
+        "腐败和欺骗充斥了整个社会，这导致整个社会物质和道德都受到\n损害。"
       ],
       "frequency" : 3780,
       "mnemonic" : "corrupt（腐败的；贪污的）+ -ion（名词后缀）→腐败；贪污",
@@ -3782,10 +3956,11 @@
         "a rupture in relations between the two countries：两国关系的破裂",
         "the risk of rupturing North-South relations：使南北关系破裂的危险"
       ],
-      "definition" : "（体内组织等的）断裂，破裂；断裂，爆裂；（关系",
+      "definition" : "（体内组织等的）断裂，破裂；断裂，爆裂；（关系的）破裂，决裂；绝交 vt.（使体内组织等）断裂，破裂；（使容器或管道等）断裂；使（友好关系）破裂，使绝交；毁掉（协议）",
       "examples" : [
 
       ],
+      "frequency" : 14418,
       "mnemonic" : "rupt（=break：断，破）+ -ure（名词后缀）→断裂，折断，破裂",
       "phonetic" : "ˈrʌptʃə(r)",
       "pos" : "n.",
@@ -3856,11 +4031,13 @@
     },
     {
       "collocations" : [
-        "abruptly left the conference room：突然离开会议室"
+        "abruptly left the conference room：突然离开会议室",
+        "has swung drastically and often abruptly from one state to another - from",
+        "tropical swamp to frozen ice age.\n自从几十亿年前地球上出现第一个生命开始，气候就剧烈地变化着，\n时常是从一个时期突然进入另一个时期——从炎热的湿季到冰冻期。"
       ],
       "definition" : "突然地；唐突地",
       "examples" : [
-        "From the moment life began on the planet billions of years ago, the climate\nhas swung drastically and often abruptly from one state to another - from\ntropical swamp to frozen ice age.\n自从几十亿年前地球上出现第一个生命开始，气候就剧烈地变化着，\n时常是从一个时期突然进入另一个时期——从炎热的湿季到冰冻期。"
+        "From the moment life began on the planet billions of years ago, the climate"
       ],
       "frequency" : 5311,
       "mnemonic" : "abrupt（突然的；唐突的）+ -ly（副词后缀）→突然地；唐突地",
@@ -3875,10 +4052,11 @@
         "fountains erupt：喷泉喷出",
         "erupt into fury：突然大怒（勃然大怒）"
       ],
-      "definition" : "&vt. （火山）爆发；（岩浆、烟等）喷出；突然发生，爆",
+      "definition" : "&vt. （火山）爆发；（岩浆、烟等）喷出；突然发生，爆发",
       "examples" : [
         "Violence erupted outside the embassy gates.\n大使馆门外突然发生了暴乱。"
       ],
+      "frequency" : 5360,
       "mnemonic" : "e-（=out：向外）+ -rupt（=break）→erupt=break out：爆发，喷出",
       "phonetic" : "ɪˈrʌpt",
       "pos" : "vi.",
@@ -3888,7 +4066,7 @@
     {
       "collocations" : [
         "a major volcanic eruption：火山大爆发",
-        "an eruption of violent protest：暴力抗议的爆发"
+        "an eruption of violent protest：暴力抗议的爆发\n笔 记 区"
       ],
       "definition" : "爆发，喷发；突然发生",
       "examples" : [
@@ -3904,12 +4082,14 @@
     {
       "collocations" : [
         "interrupt sb.：打扰某人",
-        "interrupt the course of clear thinking：打断清晰的思考过程"
+        "interrupt the course of clear thinking：打断清晰的思考过程",
+        "Taller plants interrupt the views from the house.\n较高的树木遮住了房子外的视线。"
       ],
-      "definition" : "&vi. 使打断，打in扰；使中断 vt. 阻断；遮住（连续",
+      "definition" : "&vi. 使打断，打in扰；使中断 vt. 阻断；遮住（连续线条、平面、景色等）",
       "examples" : [
-        "The game was interrupted several times by rain.\n比赛因下雨中断了几次。\nTaller plants interrupt the views from the house.\n较高的树木遮住了房子外的视线。"
+        "The game was interrupted several times by rain.\n比赛因下雨中断了几次。"
       ],
+      "frequency" : 3435,
       "mnemonic" : "inter-（内部；中间）+ -rupt（=to break：打断；破坏）→从中间断开\n→引申词义打扰；打断（中断）；遮住（破坏……的连续性）",
       "phonetic" : "ˌɪntəˈrʌpt",
       "pos" : "vt.",
@@ -3919,7 +4099,8 @@
     {
       "collocations" : [
         "an interruption to the power supply：中断供电（停电）",
-        "work for two hours without interruption：没有中断地（连续）工作了两"
+        "work for two hours without interruption：没有中断地（连续）工作了两\n小时",
+        "speak for 20 minutes without interruption：没有打岔地（连续）讲了20\n分钟"
       ],
       "definition" : "阻断物；中断（时间）；打岔",
       "examples" : [
@@ -3936,12 +4117,13 @@
       "collocations" : [
         "continue uninterrupted：连续不（间）断",
         "uninterrupted sleep：未受打扰的睡眠",
-        "had an uninterrupted view of the stage：不受遮挡地（清楚地）看见舞台"
+        "had an uninterrupted view of the stage：不受遮挡地（清楚地）看见舞台\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "不间断的；未受打扰的；一览无遗的（不受",
+      "definition" : "不间断的；未受打扰的；一览无遗的（不受遮挡的）",
       "examples" : [
         "Diners can enjoy an uninterrupted view of the gardens.\n就餐者能欣赏到花园一览无余的景色。"
       ],
+      "frequency" : 14857,
       "mnemonic" : "un-（=not：不）+ interrupted（中断的；受到打扰的；遮住的）→不",
       "phonetic" : "ˌʌnˌɪntəˈrʌptɪd",
       "rootHint" : "sting",
@@ -3954,11 +4136,12 @@
         "a government bankrupt of new ideas：完全缺乏新观念的政府",
         "a society that is morally bankrupt：完全缺乏道德的（道德沦丧的）社会"
       ],
-      "definition" : "破产的；倒闭的；完全缺乏（有价值的东西） n.",
+      "definition" : "破产的；倒闭的；完全缺乏（有价值的东西） n.破产者 vt. 使破产",
       "etymology" : "据资料记载，最早的埃及银行家和英国货币兑换商是在寺庙内或圣殿 庭院内的条凳上经营业务的。在中世纪，意大利的放债者也是用一张 小条凳在市场上开展业务。表示“银行”的英语单词bank源自拉丁语 banca，意思是“条凳”。当货币兑换商因资金缺乏而被迫中断业务 时，他们的条凳就会被拆掉或折断。这种做法在拉丁文中就是banca rupta，其中rupt相当于broken。英语中表示破产的单词bankrupt正是由 此而来的。",
       "examples" : [
         "The company was almost bankrupted by legal costs.\n这家公司为律师费用所累几乎破产。"
       ],
+      "frequency" : 9076,
       "mnemonic" : "bank（银行）+ -rupt（=break：折断；破碎）→银行破碎的→破产",
       "phonetic" : "ˈbæŋkrʌpt",
       "pos" : "adj.",
@@ -3984,7 +4167,7 @@
     {
       "collocations" : [
         "put sb to rout：彻底打败；使溃败",
-        "rout the English opposition：一举击败英国对手（敌人）"
+        "rout the English opposition：一举击败英国对手（敌人）\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "溃败；彻底失败 vt. 彻底击败；一举击败",
       "examples" : [
@@ -4066,13 +4249,14 @@
     },
     {
       "collocations" : [
-
+        "I gave up my job because I felt I was stuck in a rut.\n我放弃了我的工作，因为我觉得那种生活一成不变。\n单词 merely, barely 都有“仅仅；只不过”的含义， barely 还有“几乎不”\n的含义，rarely 表示“很少地；罕有的”。"
       ],
-      "definition" : "（思维、做事方式的）刻板状态；（生活、事业）一成不变状",
+      "definition" : "（思维、做事方式的）刻板状态；（生活、事业）一成不变状态；车辙；发情期 vi. 形成车辙；处于发情期",
       "etymology" : "“narrow track worn or cut in the ground,” 1570s, Metaphoric meaning “narrow, monotonous routine; habitual mode of behavior” first attested 1839.",
       "examples" : [
-        "I don’t like being in a rut — I like to keep moving on.\n我不喜欢一成不变——我喜欢不断前进。\nI gave up my job because I felt I was stuck in a rut.\n我放弃了我的工作，因为我觉得那种生活一成不变。\n单词 merely, barely 都有“仅仅；只不过”的含义， barely 还有“几乎不”\n的含义，rarely 表示“很少地；罕有的”。"
+        "I don’t like being in a rut — I like to keep moving on.\n我不喜欢一成不变——我喜欢不断前进。"
       ],
+      "frequency" : 11585,
       "mnemonic" : "来自route的缩写：路线；线路→引申词义车辙，一成不变状态",
       "phonetic" : "rʌt",
       "pos" : "n.",
@@ -4081,13 +4265,17 @@
     },
     {
       "collocations" : [
-        "...successful exhibitions which go beyond mere success."
+        "and directly from Latin merus “unmixed” (of wine), “pure; bare, naked;”",
+        "figuratively “true, real, genuine,” according to some sources probably\noriginally “clear, bright,” from PIE *mer- “to gleam, glimmer, sparkle”",
+        "...successful exhibitions which go beyond mere success.",
+        "He seemed so young, a mere boy.\n他看来那么年轻，只不过是个孩子。"
       ],
-      "definition" : "只不过的；单单的，仅仅的（用来指某事虽小却有重要影",
-      "etymology" : "Late 14c., of a voice, “pure, clear;” mid-15c., of abstract things, “absolute, sheer;” from Old French mier “pure” (of gold), “entire, total, complete,” and directly from Latin merus “unmixed” (of wine), “pure; bare, naked;” figuratively “true, real, genuine,” according to some sources probably originally “clear, bright,” from PIE *mer- “to gleam, glimmer, sparkle”",
+      "definition" : "只不过的；单单的，仅仅的（用来指某事虽小却有重要影响）",
+      "etymology" : "Late 14c., of a voice, “pure, clear;” mid-15c., of abstract things, “absolute, sheer;” from Old French mier “pure” (of gold), “entire, total, complete,”",
       "examples" : [
-        "The mere mention of food had triggered off hunger pangs.\n单单提到食物就引起了阵阵的饥饿感。\nHe seemed so young, a mere boy.\n他看来那么年轻，只不过是个孩子。"
+        "The mere mention of food had triggered off hunger pangs.\n单单提到食物就引起了阵阵的饥饿感。"
       ],
+      "frequency" : 2948,
       "mnemonic" : "mere（=pure：纯的，清白的，仅仅）→仅仅的；单单的；只不过的",
       "phonetic" : "mɪə",
       "pos" : "adj.",
@@ -4096,12 +4284,14 @@
     },
     {
       "collocations" : [
-
+        "which college to attend doesn’t come down merely to dollars and cents.\n但是，学费的差异表明，选择上哪一所大学并不仅仅是经济方面的\n问题。",
+        "come down to：归结为，取决于\n笔 记 区"
       ],
-      "definition" : "仅仅（用来强调数量之少）；只不过（用来强调某事物",
+      "definition" : "仅仅（用来强调数量之少）；只不过（用来强调某事物不是很重要或很有价值）",
       "examples" : [
-        "But a look at the strange variations in tuition reveals that the choice about\nwhich college to attend doesn’t come down merely to dollars and cents.\n但是，学费的差异表明，选择上哪一所大学并不仅仅是经济方面的\n问题。\ncome down to：归结为，取决于"
+        "But a look at the strange variations in tuition reveals that the choice about"
       ],
+      "frequency" : 2001,
       "phonetic" : "ˈmɪəlɪ",
       "pos" : "adv.",
       "rootHint" : "sting",
@@ -4109,12 +4299,16 @@
     },
     {
       "collocations" : [
-        "阅读难点：make progress：取得进步"
+        "There was barely any smell.\n几乎没有什么气味。",
+        "Improved energy efficiency is also appealing, but automotive fuel economy",
+        "has barely made any progress in 10 years.\n改善过的能源效能同样很有吸引力，但是汽车燃料经济在十年内几乎\n没有任何进步。\n阅读难点：make progress：取得进步",
+        "I had barely started speaking when he interrupted me.\n我刚刚开始讲话，他便打断了我。"
       ],
-      "definition" : "仅仅，刚刚，勉强可能；几乎不，几乎没有；刚好，不",
+      "definition" : "仅仅，刚刚，勉强可能；几乎不，几乎没有；刚好，不超过（某个数量、年龄、时间等）；刚刚",
       "examples" : [
-        "She was barely able to stand.\n她勉强能站立。\nThere was barely any smell.\n几乎没有什么气味。\nImproved energy efficiency is also appealing, but automotive fuel economy\nhas barely made any progress in 10 years.\n改善过的能源效能同样很有吸引力，但是汽车燃料经济在十年内几乎\n没有任何进步。"
+        "She was barely able to stand.\n她勉强能站立。\nBarely 50% of the population voted.\n仅有50%的人投票。"
       ],
+      "frequency" : 1987,
       "mnemonic" : "barely（=merely：仅仅）→仅仅，几乎不",
       "phonetic" : "ˈbeəlɪ",
       "pos" : "adv.",
@@ -4126,12 +4320,15 @@
         "walk around in bare feet：光着（裸露着）脚走来走去",
         "bare wooden floorboards：无遮盖的木地板",
         "the bare branches of winter trees：冬天树木光秃秃的枝丫",
-        "the bare necessities of life：最基本的生活所需"
+        "the bare necessities of life：最基本的生活所需",
+        "We only had the bare essentials in the way of equipment.\n我们只有最基本的设备。\n比较：bare和naked的区别：bare表示局部的裸露，naked表示全裸。因此",
+        "bare可以用于bare-footed（赤脚的）、bare-headed（光头的）、bare-\nhanded（赤手空拳的）、bare-necked（露出脖子的）。"
       ],
       "definition" : "裸体的，裸露的；（树木）光秃秃的，（土地）荒芜的；无遮盖的，没有保护的；（房间、柜子等）空的；仅够的，最基本的",
       "examples" : [
         "The fridge was completely bare.\n电冰箱里是空的。"
       ],
+      "frequency" : 3462,
       "phonetic" : "beə(r)",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -4170,11 +4367,14 @@
     },
     {
       "collocations" : [
-        "a rarely-performed play：一部很少上演的戏剧"
+        "a rarely-performed play：一部很少上演的戏剧",
+        "Rarely has a debate attracted so much media attention.\n难得有一场辩论吸引这么多的媒体关注。",
+        "But schools rarely dig down to find out what really makes an applicant",
+        "succeed, to create a class which also contains diversity of attitude and\napproach—arguably the only diversity that, in a business context, really"
       ],
       "definition" : "罕有；很少；不常",
       "examples" : [
-        "She is rarely seen in public nowadays.\n如今她很少公开露面。\nRarely has a debate attracted so much media attention.\n难得有一场辩论吸引这么多的媒体关注。\nBut schools rarely dig down to find out what really makes an applicant\nsucceed, to create a class which also contains diversity of attitude and\napproach—arguably the only diversity that, in a business context, really\nmatters.\n学校几乎从不去探究真正让一名申请者成功的原因，去创造一种包含\n多样性态度和方法的课堂——可以说，在商业背景下，这是唯一重要\n的多样化。"
+        "She is rarely seen in public nowadays.\n如今她很少公开露面。\nmatters.\n学校几乎从不去探究真正让一名申请者成功的原因，去创造一种包含\n多样性态度和方法的课堂——可以说，在商业背景下，这是唯一重要\n的多样化。"
       ],
       "frequency" : 2291,
       "mnemonic" : "rarely（=merely=barely：仅仅，几乎不）→几乎不，很少，罕见地",
@@ -4187,7 +4387,7 @@
       "collocations" : [
         "a rare chance：稀有的机会",
         "a rare virus：一种罕见的病毒",
-        "a rare book \/ coin \/ stamp：珍贵的书 \/ 硬币 \/ 邮票"
+        "a rare book \/ coin \/ stamp：珍贵的书 \/ 硬币 \/ 邮票\n笔 记 区"
       ],
       "definition" : "稀少的；稀罕的；珍贵的；（肉）半熟的",
       "examples" : [
@@ -4201,11 +4401,11 @@
     },
     {
       "collocations" : [
-
+        "The value of antiques will depend on their condition and rarity.\n古董的价值依它们的保存状况和稀有程度而定。\n单词 narrow 也有“刚刚好；勉强的”含义。"
       ],
       "definition" : "珍品，稀有物；罕见之人；稀有，罕见",
       "examples" : [
-        "Women are still something of a rarity in senior positions in business.\n在商界位居高职的妇女仍然十分罕见。\nThe value of antiques will depend on their condition and rarity.\n古董的价值依它们的保存状况和稀有程度而定。\n单词 narrow 也有“刚刚好；勉强的”含义。"
+        "Women are still something of a rarity in senior positions in business.\n在商界位居高职的妇女仍然十分罕见。"
       ],
       "frequency" : 12458,
       "mnemonic" : "rare（稀少的；稀罕的；珍贵的）+ -ity（名词后缀）→珍品；稀有；",
@@ -4221,13 +4421,16 @@
         "The generation gap is bound to narrow：代沟一定会变窄",
         "narrow interests：目光短浅的利益",
         "a narrow victory：险胜（刚好获胜）",
-        "a narrow majority：微弱多数（勉强多数）"
+        "a narrow majority：微弱多数（勉强多数）",
+        "It is inevitable that the primacy of English should have narrowed as other",
+        "countries grow richer.\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "狭窄的，窄小的；勉强的，刚刚好的；目光短浅的",
       "examples" : [
         "It was inevitable that this primacy should have narrowed as other countries\ngrew richer.\n随着其他国家日益强盛，美国的这一优势地位逐渐缩小是不可避免的。",
-        "随着其他国家日益强盛，英语的优势地位逐渐缩小是不可避免的。\nIt is inevitable that the primacy of English should have narrowed as other\ncountries grow richer."
+        "随着其他国家日益强盛，英语的优势地位逐渐缩小是不可避免的。"
       ],
+      "frequency" : 2023,
       "phonetic" : "ˈnærəʊ",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -4236,11 +4439,13 @@
     {
       "collocations" : [
         "a narrowly defined task：严格确定的任务",
-        "a narrowly specialized education：狭隘的专业教育"
+        "a narrowly specialized education：狭隘的专业教育",
+        "The team lost narrowly. 这支队伍以毫厘之差的差距败北。",
+        "She looked at him narrowly. 她仔细打量着他。"
       ],
       "definition" : "勉强地，差点儿，以毫厘之差；狭隘地，严格地；仔细地",
       "examples" : [
-        "The car narrowly missed a cyclist.\n汽车差点儿撞上一位骑自行车的人。\nThe team lost narrowly. 这支队伍以毫厘之差的差距败北。\nShe looked at him narrowly. 她仔细打量着他。"
+        "The car narrowly missed a cyclist.\n汽车差点儿撞上一位骑自行车的人。"
       ],
       "frequency" : 8224,
       "phonetic" : "ˈnærəʊlɪ",
@@ -4254,8 +4459,7 @@
         "conventional lane：常规车道",
         "automatic checkout lane：自动结账 \/ 付款通道",
         "change lanes：变换车道",
-        "country lane：乡间小路",
-        "shipping \/ sea lanes：海运航线之一"
+        "country lane：乡间小路\nshipping \/ sea lanes：海运航线之一"
       ],
       "definition" : "（乡间）小路；小巷，胡同；车道；航道，航线",
       "examples" : [
@@ -4285,7 +4489,8 @@
     {
       "collocations" : [
         "a heat haze：热天的雾气",
-        "a haze of smoke \/ dust \/ steam：烟 \/ 尘 \/ 蒸汽雾"
+        "a haze of smoke \/ dust \/ steam：烟 \/ 尘 \/ 蒸汽雾\n20000 词汇巅峰\n速\n记",
+        "an alcoholic haze：喝醉酒的迷糊\n笔 记 区"
       ],
       "definition" : "（尤指热天引起的）薄雾，霾；（烟尘等的）雾霭，烟雾；迷糊 vi.&vt. （使）笼罩在薄雾中",
       "examples" : [
@@ -4301,13 +4506,13 @@
     {
       "collocations" : [
         "a hazy afternoon \/ sky：薄雾蒙蒙的下午 \/ 天空",
-        "a hazy memory \/ idea：模糊不清的记忆 \/ 概念",
-        "hazy light \/ sunshine：朦胧的光线 \/ 阳光"
+        "a hazy memory \/ idea：模糊不清的记忆 \/ 概念\nhazy light \/ sunshine：朦胧的光线 \/ 阳光"
       ],
-      "definition" : "朦胧的，薄雾蒙蒙的；记不清的，模糊的；主意不定的，",
+      "definition" : "朦胧的，薄雾蒙蒙的；记不清的，模糊的；主意不定的，拿不准的",
       "examples" : [
         "I’m a little hazy about what to do next.\n我还有点拿不准下一步要做什么呢。"
       ],
+      "frequency" : 11867,
       "mnemonic" : "haz（=haze：薄雾，烟雾；使模糊；迷糊）+ -y（形容词后缀）→薄",
       "phonetic" : "ˈheɪzɪ",
       "pos" : "adj.",
@@ -4316,18 +4521,19 @@
     },
     {
       "collocations" : [
+        "chance played with dice,” also “a throw of six in dice” (12c.), of uncertain",
+        "which is said to be from Arabic az-zahr (for al-zahr) “the die.”",
         "a hazard to physical health：身体健康的威胁",
         "potential hazards：潜在危险",
-        "hazardous or toxic waste：有毒害的废物",
-        "a fire \/ safety hazard：火灾 \/ 安全隐患"
+        "hazardous or toxic waste：有毒害的废物\na fire \/ safety hazard：火灾 \/ 安全隐患"
       ],
       "definition" : "危险；危害 vt. 冒……的风险；使处于危险",
-      "etymology" : "c. 1300, name of a game at dice, from Old French hasard, hasart “game of chance played with dice,” also “a throw of six in dice” (12c.), of uncertain origin. Possibly from Spanish azar “an unfortunate card or throw at dice,” which is said to be from Arabic az-zahr (for al-zahr) “the die.”",
+      "etymology" : "c. 1300, name of a game at dice, from Old French hasard, hasart “game of origin. Possibly from Spanish azar “an unfortunate card or throw at dice,”",
       "examples" : [
         "Careless drivers hazard other people’s lives as well as their own.\n粗心大意的驾驶者拿他人和自己的生命冒险。"
       ],
       "frequency" : 4933,
-      "mnemonic" : "ha + zard=（card：卡片）→原指赌博游戏中一张不利的牌，后引申出",
+      "mnemonic" : "ha + zard=（card：卡片）→原指赌博游戏中一张不利的牌，后引申出\n→危险，冒险；冒……的危险\n趣记：haz（=haze：雾）+ -ard（名词后缀）→在雾气中行走、驾驶容易发\n生交通事故→危险；危害→引申义为冒……的风险；使处于危险",
       "phonetic" : "ˈhæzəd",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -4335,7 +4541,8 @@
     },
     {
       "collocations" : [
-        "hazardous waste \/ chemicals：有害废物 \/ 化学制品"
+        "hazardous waste \/ chemicals：有害废物 \/ 化学制品",
+        "a hazardous journey：危险的旅程"
       ],
       "definition" : "危险的；有危害的",
       "examples" : [
@@ -4350,12 +4557,14 @@
     },
     {
       "collocations" : [
-
+        "The government’s approach to the problem was haphazard.\n政府解决这一问题的方法缺乏计划。\n单词 burn 的含义为“燃烧；着火；烧伤；晒伤”等。",
+        "passion or desire, be ardent; destroy (something) with fire, expose to the",
+        "action of fire, roast, broil, toast; burn (something) in cooking,” of objects,"
       ],
       "definition" : "杂乱无章的；无计划的",
-      "etymology" : "Early 12c., brennen, “be on fire, be consumed by fire; be inflamed with passion or desire, be ardent; destroy (something) with fire, expose to the action of fire, roast, broil, toast; burn (something) in cooking,” of objects, “to shine, glitter, sparkle, glow like fire;” chiefly from Old Norse brenna “to burn, light,” and also from two originally distinct Old English verbs: bærnan “to kindle” (transitive) and beornan “be on fire” (intransitive).",
+      "etymology" : "Early 12c., brennen, “be on fire, be consumed by fire; be inflamed with “to shine, glitter, sparkle, glow like fire;” chiefly from Old Norse brenna “to burn, light,” and also from two originally distinct Old English verbs: bærnan “to kindle” (transitive) and beornan “be on fire” (intransitive).",
       "examples" : [
-        "The books had been piled on the shelves in a haphazard fashion.\n书架上的书堆放得杂乱无章。\nThe government’s approach to the problem was haphazard.\n政府解决这一问题的方法缺乏计划。\n单词 burn 的含义为“燃烧；着火；烧伤；晒伤”等。"
+        "The books had been piled on the shelves in a haphazard fashion.\n书架上的书堆放得杂乱无章。"
       ],
       "frequency" : 16803,
       "mnemonic" : "hap（发生；运气；机会）+ hazard（风险；危害）→即运气不好的，\n处于危险的→引申词义杂乱无章的；无计划的",
@@ -4366,12 +4575,17 @@
     },
     {
       "collocations" : [
-        "burn the toast：把面包烧糊"
+        "burn the toast：把面包烧糊",
+        "The cigarette burned a hole in the carpet.\n香烟把地毯烧了个洞。\n20000 词汇巅峰\n速\n记",
+        "Some people burn calories (= use food to produce energy) faster than\n笔 记 区",
+        "I can smell something burning in the kitchen.\n我闻到厨房里有东西烧焦了。",
+        "I got badly burned by the sun yesterday.\n我昨天严重晒伤。"
       ],
-      "definition" : "燃烧；烧；着火；（使）烧坏，烧伤，烧死；（使燃料）燃",
+      "definition" : "燃烧；烧；着火；（使）烧坏，烧伤，烧死；（使燃料）燃烧 vt.&vi. （使）烧焦，烧煳；（使）晒伤；烫伤",
       "examples" : [
-        "Fires were burning all over the city.\n全城处处燃烧着大火。\nThe cigarette burned a hole in the carpet.\n香烟把地毯烧了个洞。"
+        "Fires were burning all over the city.\n全城处处燃烧着大火。\nothers.\n有些人热量燃烧（消耗）得比其他人快。"
       ],
+      "frequency" : 1429,
       "mnemonic" : "burn=be on fire, destroy with fire, burn in cooking等，表示与“烧火”有",
       "phonetic" : "bɜːn",
       "pos" : "v.",
@@ -4396,8 +4610,7 @@
       "collocations" : [
         "a burning issue \/ question：很重要的迫切问题；当务之急",
         "the burning sun：灼热的太阳",
-        "her burning face：她的热辣辣的脸",
-        "burning hot：灼热地"
+        "her burning face：她的热辣辣的脸\nburning hot：灼热地"
       ],
       "definition" : "（感情等）强烈的；（疼痛等）火辣辣的；炽热的；（看似或感觉）热辣辣的 adv. 灼热的",
       "examples" : [
@@ -4478,6 +4691,7 @@
 
       ],
       "frequency" : 19389,
+      "mnemonic" : "趣记：au + burn（晒伤）→想象一下被太阳暴晒下皮肤的颜色→红褐色的",
       "phonetic" : "ˈɔːbən",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -4485,10 +4699,14 @@
     },
     {
       "collocations" : [
-        "internal-combustion engines：内燃机"
+        "internal-combustion engines：内燃机",
+        "boil, bubble, effervesce, burn,” with derivatives referring to cooking and",
+        "provided by: Sanskrit bhurnih “violent, passionate;” Greek phrear “well,",
+        "spring, cistern;” Latin fervere “to boil, foam,” Thracian Greek brytos",
+        "German brato “roast meat.”\n笔 记 区"
       ],
       "definition" : "燃烧；燃烧过程",
-      "etymology" : "*bhreu- Also *bhreuə-, *bhreəu-, Proto-Indo-European root meaning “to boil, bubble, effervesce, burn,” with derivatives referring to cooking and brewing. It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit bhurnih “violent, passionate;” Greek phrear “well, spring, cistern;” Latin fervere “to boil, foam,” Thracian Greek brytos “fermented liquor made from barley;” Russian bruja “current;” Old Irish 20000 词汇巅峰 速 记 bruth “heat;” Old English breowan “to brew,” beorma “yeast;” Old High German brato “roast meat.” 笔 记 区",
+      "etymology" : "*bhreu- Also *bhreuə-, *bhreəu-, Proto-Indo-European root meaning “to brewing. It is the hypothetical source of \/ evidence for its existence is “fermented liquor made from barley;” Russian bruja “current;” Old Irish 20000 词汇巅峰 速 记 bruth “heat;” Old English breowan “to brew,” beorma “yeast;” Old High",
       "examples" : [
 
       ],
@@ -4506,14 +4724,17 @@
         "pure breed：纯种",
         "breed success：孕育 \/ 导致成功",
         "breed resentment：酿成怨恨",
-        "breed discontent：产生不满足"
+        "breed discontent：产生不满足",
+        "The rabbits are bred for their long coats.\n饲养兔子是为了获取他们的长毛。",
+        "Fear of failure was bred into him at an early age.\n他从小就养成了对失败的恐惧。"
       ],
-      "definition" : "交配繁殖 vt. 饲养，培育（动植物）；孕育，酿成；以……",
-      "etymology" : "原始印欧语bhreue（=to heat, burn：加热；燃烧）→孵化，产蛋一般 会身体发热→breed：引申义为与孵化有关的词汇：繁殖；饲养；孕 育；品种等",
+      "definition" : "交配繁殖 vt. 饲养，培育（动植物）；孕育，酿成；以……方式教育；使养成 n.（动物的）品种",
+      "etymology" : "原始印欧语bhreue（=to heat, burn：加热；燃烧）→孵化，产蛋一般 育；品种等",
       "examples" : [
-        "Many animals breed only at certain times of the year.\n很多动物只在一年的某个时候交配繁殖。\nThe rabbits are bred for their long coats.\n饲养兔子是为了获取他们的长毛。\nFear of failure was bred into him at an early age.\n他从小就养成了对失败的恐惧。"
+        "Many animals breed only at certain times of the year.\n很多动物只在一年的某个时候交配繁殖。"
       ],
-      "mnemonic" : "breed（=birth：出生；繁殖；孕育）→出生；繁殖；孕育；饲养\n趣记：brood（孵、一窝），与brood一起记：brood = br+oo（两个蛋）+d→\n孵、一窝；breed = br+ee（两个蛋变成两个幼崽）+d→产仔；繁殖",
+      "frequency" : 5776,
+      "mnemonic" : "会身体发热→breed：引申义为与孵化有关的词汇：繁殖；饲养；孕\nbreed（=birth：出生；繁殖；孕育）→出生；繁殖；孕育；饲养\n趣记：brood（孵、一窝），与brood一起记：brood = br+oo（两个蛋）+d→\n孵、一窝；breed = br+ee（两个蛋变成两个幼崽）+d→产仔；繁殖",
       "phonetic" : "briːd",
       "pos" : "vi.",
       "rootHint" : "sting",
@@ -4523,10 +4744,11 @@
       "collocations" : [
         "a large brood of children：一大家子小孩"
       ],
-      "definition" : "（一次孵或生的）一窝鸟，一窝动物；一大家孩子 vi. 焦",
+      "definition" : "（一次孵或生的）一窝鸟，一窝动物；一大家孩子 vi. 焦虑；担忧 vi.&vt. 孵（蛋）",
       "examples" : [
         "She constantly broods about her family.\n她一直在为她的家人担忧。"
       ],
+      "frequency" : 15040,
       "mnemonic" : "brood = br+oo（两个蛋）+ d→孵；一窝→原指母鸡孵蛋过程中的暴\n躁症状→后指担忧",
       "phonetic" : "bruːd",
       "pos" : "n.",
@@ -4536,8 +4758,7 @@
     {
       "collocations" : [
         "dark, brooding eyes：一双乌黑幽怨的眼睛",
-        "a brooding silence：森然的寂静",
-        "Ireland’s brooding landscape：爱尔兰的险要地形"
+        "a brooding silence：森然的寂静\nIreland’s brooding landscape：爱尔兰的险要地形\n释义：（ADJ）sad and mysterious or threatening"
       ],
       "definition" : "幽怨的；忧思的；森然的；险要的",
       "examples" : [
@@ -4575,6 +4796,7 @@
       "examples" : [
 
       ],
+      "frequency" : 5979,
       "phonetic" : "ˈbriːdɪŋ",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -4586,11 +4808,12 @@
         "white \/ brown \/ whole meal bread：白 \/ 黑 \/ 全麦面包"
       ],
       "definition" : "生计；面包",
-      "etymology" : "来自原始印欧语bhreue（=to heat, burn：加热；燃烧）=to burn→燃烧 炭火进行烤制的东西→面包",
+      "etymology" : "来自原始印欧语bhreue（=to heat, burn：加热；燃烧）=to burn→燃烧",
       "examples" : [
 
       ],
       "frequency" : 2131,
+      "mnemonic" : "炭火进行烤制的东西→面包",
       "phonetic" : "bred",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -4615,7 +4838,8 @@
     {
       "collocations" : [
         "a gingerbread man (= a gingerbread biscuit \/ cookie in the shape of a",
-        "person)：人形姜饼"
+        "person)：人形姜饼",
+        "gingerbread man：人形姜饼"
       ],
       "definition" : "姜饼；姜味饼干",
       "examples" : [
@@ -4633,11 +4857,12 @@
         "a toast to the bride and groom：向新娘新郎祝酒"
       ],
       "definition" : "新娘",
-      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→联想到cooking and brewing：烹调、酿制→bride：新娘婚后会做的家务工作 趣记：bread：面包→bride：新娘（婚后会做类似烤面包之类的家务劳动）",
+      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→联想到cooking and",
       "examples" : [
 
       ],
       "frequency" : 4931,
+      "mnemonic" : "brewing：烹调、酿制→bride：新娘婚后会做的家务工作\n趣记：bread：面包→bride：新娘（婚后会做类似烤面包之类的家务劳动）",
       "phonetic" : "braɪd",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -4679,11 +4904,13 @@
         "freshly brewed coffee：刚刚煮好的咖啡",
         "let tea brew for a few minutes：让茶泡上几分钟"
       ],
-      "definition" : "酿制（啤酒）；沏、泡（茶）；煮（咖啡）；（不愉快的",
-      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→加热，煮沸饮料， 20000 词汇巅峰 速 记 笔 记 区 发酵→酿制；沏茶；煮；酝酿",
+      "definition" : "酿制（啤酒）；沏、泡（茶）；煮（咖啡）；（不愉快的事）即将来临，酝酿 n. （尤指某地酿造的）啤酒；泡杯茶；交融，混合",
+      "etymology" : "原始印欧语bhreue（=to heat, boil：加热；煮沸）→加热，煮沸饮料， 20000 词汇巅峰 速 记 笔 记 区",
       "examples" : [
 
       ],
+      "frequency" : 10674,
+      "mnemonic" : "发酵→酿制；沏茶；煮；酝酿",
       "phonetic" : "bruː",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -4737,8 +4964,7 @@
     {
       "collocations" : [
         "chicken broth：鸡汤",
-        "seafood broth：海鲜汤",
-        "bone broth：骨汤"
+        "seafood broth：海鲜汤\nbone broth：骨汤\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "肉汤；蔬菜清汤",
       "etymology" : "来自古词根bhreue-（=to heat, boil, bubble）→加热、煮沸、冒泡→肉 汤；蔬菜清汤",
@@ -4774,6 +5000,7 @@
       "examples" : [
 
       ],
+      "frequency" : 16101,
       "mnemonic" : "broil（烘；烤）+ -er（名词后缀）→与烘烤有关的东西→烘烤工具；",
       "phonetic" : "ˈbrɔɪlə(r)",
       "pos" : "n.",
@@ -4799,7 +5026,8 @@
     },
     {
       "collocations" : [
-        "a fervent admirer \/ believer \/ supporter：热诚的仰慕者；虔诚的信徒；"
+        "a fervent admirer \/ believer \/ supporter：热诚的仰慕者；虔诚的信徒；",
+        "a fervent belief \/ hope \/ desire：虔诚的信仰；热诚的希望、愿望"
       ],
       "definition" : "热情的；热诚的；热烈的；虔诚的",
       "examples" : [
@@ -4815,7 +5043,8 @@
     {
       "collocations" : [
         "fervently wish：热烈地希望",
-        "fervently hope：热切地希望"
+        "fervently hope：热切地希望\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "pray fervently：虔诚地祷告"
       ],
       "definition" : "热烈地；热切地；虔诚地",
       "examples" : [
@@ -4845,14 +5074,16 @@
     },
     {
       "collocations" : [
-
+        "The country is in ferment.\n这个国家动荡不安。",
+        "A blend of emotions fermented inside her. （比喻用法）\n多种感情在她心里迸发出来（她百感交集，激动不已）。\n单词 bias=bend：弯向，表示“偏见”。"
       ],
-      "definition" : "&vt. （使）发酵；（感情等）迸发，激动 n.（政治或社",
+      "definition" : "&vt. （使）发酵；（感情等）迸发，激动 n.（政治或社会上的）动乱，骚动，纷扰",
       "etymology" : "直接来自拉丁语fermentare “to leaven, cause to rise or ferment，使发酵” 。",
       "examples" : [
-        "Red wine is fermented at a higher temperature than white.\n红葡萄酒发酵的温度比白葡萄酒高。\nThe country is in ferment.\n这个国家动荡不安。\nA blend of emotions fermented inside her. （比喻用法）\n多种感情在她心里迸发出来（她百感交集，激动不已）。\n单词 bias=bend：弯向，表示“偏见”。"
+        "Red wine is fermented at a higher temperature than white.\n红葡萄酒发酵的温度比白葡萄酒高。"
       ],
-      "mnemonic" : "ferment=brew：酿造；酝酿（动乱等）→（使）发酵；（政治或社会",
+      "frequency" : 18483,
+      "mnemonic" : "ferment=brew：酿造；酝酿（动乱等）→（使）发酵；（政治或社会\nferm-（=ferv-：沸腾）+ -ent→感情等迸发，激动",
       "phonetic" : "fəˈment",
       "pos" : "vi",
       "rootHint" : "sting",
@@ -4929,6 +5160,7 @@
       "examples" : [
 
       ],
+      "frequency" : 13704,
       "mnemonic" : "hook（钩）+ -er（表人或物）→妓女（总是主动地挽住顾客的手臂，",
       "phonetic" : "ˈhʊkə(r)",
       "pos" : "n.",
@@ -4937,11 +5169,11 @@
     },
     {
       "collocations" : [
-
+        "She unhooked her bra.\n她解开了胸罩。"
       ],
       "definition" : "从钩子上取下；解开（衣物等）的钩子",
       "examples" : [
-        "He unhooked his coat from the door.\n他从门上取下外衣。\nShe unhooked her bra.\n她解开了胸罩。"
+        "He unhooked his coat from the door.\n他从门上取下外衣。"
       ],
       "frequency" : 19917,
       "mnemonic" : "un-（表相反）+hook（钩子）→从钩子上取下；解开钩子",
@@ -4954,10 +5186,11 @@
       "collocations" : [
         "Bay Area：海湾地区"
       ],
-      "definition" : "（海或湖的）湾 n. 低沉的狗吠声 vi. （尤指捕猎时）发出长嗥，",
+      "definition" : "（海或湖的）湾 n. 低沉的狗吠声 vi. （尤指捕猎时）发出长嗥，低沉地吠叫狗吠声",
       "examples" : [
 
       ],
+      "frequency" : 3561,
       "mnemonic" : "bay（=bend=bent：弯）→（特指海或湖泊的）湾",
       "phonetic" : "beɪ",
       "pos" : "n.",
@@ -4986,11 +5219,12 @@
         "fan the flames (of sth.)：煽风点火；煽动（情绪）",
         "fan her curiosity：激起了她的好奇心"
       ],
-      "definition" : "迷，狂热爱好（仰慕）者；风扇；扇子 vt. 扇（风）；扇，吹",
+      "definition" : "迷，狂热爱好（仰慕）者；风扇；扇子 vt. 扇（风）；扇，吹（使火更旺）；煽起，激起",
       "etymology" : "来自拉丁语vannus, 也许与ventus“wind：风”有关。后来辅音-v-变 为-f-。",
       "examples" : [
         "Fanned by a westerly wind, the fire spread rapidly through the city.\n火借助西风迅速蔓延全城。"
       ],
+      "frequency" : 1212,
       "phonetic" : "fæn",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -5045,14 +5279,15 @@
     },
     {
       "collocations" : [
-
+        "The private lives of movie stars never fail to fascinate.\n电影明星的私生活总是让人着迷。"
       ],
       "definition" : "深深吸引；迷住；使着迷",
-      "etymology" : "古罗马的一个著名神祗的形象。这个神祗在拉丁语中叫做“法瑟勒 斯”（Fascinus），他实际上是男性生殖器的化身，古罗马人把法瑟 勒斯当作保护神，认为他能够辟邪驱鬼。除了能辟邪驱鬼外，古罗马 人还相信这种护身符具有神奇的魔力，其中一种就是能够催眠他人。 因此使用fascinus来催眠他人就叫做fascinare，字面意思就是“施展法 瑟勒斯的魔力”。让人fascinate“深深吸引，为之着迷”的人或事物 一般都具有“魔法般的催眠效果”。 邪解：fasc-（=fans：粉丝）+ -inate（=-ine + -ate：复合动词后缀：使）→使 成为某人粉丝→深深吸引；使着迷",
+      "etymology" : "古罗马的一个著名神祗的形象。这个神祗在拉丁语中叫做“法瑟勒 斯”（Fascinus），他实际上是男性生殖器的化身，古罗马人把法瑟 勒斯当作保护神，认为他能够辟邪驱鬼。除了能辟邪驱鬼外，古罗马 人还相信这种护身符具有神奇的魔力，其中一种就是能够催眠他人。 因此使用fascinus来催眠他人就叫做fascinare，字面意思就是“施展法 瑟勒斯的魔力”。让人fascinate“深深吸引，为之着迷”的人或事物 一般都具有“魔法般的催眠效果”。",
       "examples" : [
-        "China has always fascinated me.\n中国一直深深吸引我。\nThe private lives of movie stars never fail to fascinate.\n电影明星的私生活总是让人着迷。"
+        "China has always fascinated me.\n中国一直深深吸引我。"
       ],
       "frequency" : 5917,
+      "mnemonic" : "邪解：fasc-（=fans：粉丝）+ -inate（=-ine + -ate：复合动词后缀：使）→使\n成为某人粉丝→深深吸引；使着迷",
       "phonetic" : "ˈfæsɪneɪt",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -5136,20 +5371,22 @@
     },
     {
       "collocations" : [
+        "roughness, not harsh, polished; soft; suave; agreeable,” of unknown origin",
+        "and with no known cognates. Of words, looks, “pleasant, polite, sincere”",
         "work smoothly：平稳运行",
         "smooth merging：顺利的合并",
         "ensure the smooth running：确保平稳运转",
-        "make a smooth landing：平稳降落",
-        "smooth one’s hair：平整了某人的头发（捋了捋头发）",
+        "make a smooth landing：平稳降落\nsmooth one’s hair：平整了某人的头发（捋了捋头发）",
         "smooth the path \/ way：铺平道路",
-        "smooth motion：一个流畅的动作"
+        "smooth motion：一个流畅的动作\n笔 记 区"
       ],
       "definition" : "光滑的；顺利的；平稳的；流畅的 vt. 使平整",
-      "etymology" : "Old English smoð “smooth, serene, calm,” variant of smeðe “free from roughness, not harsh, polished; soft; suave; agreeable,” of unknown origin and with no known cognates. Of words, looks, “pleasant, polite, sincere” late 14c., but later “flattering, insinuating” (mid-15c.). 20000 词汇巅峰 速 记 趣记：sm-+oo（想象两个轮子在平滑的地面滚动）+-th→光滑的；顺利的； 平稳的；流畅的",
+      "etymology" : "Old English smoð “smooth, serene, calm,” variant of smeðe “free from late 14c., but later “flattering, insinuating” (mid-15c.). 20000 词汇巅峰 速 记 平稳的；流畅的",
       "examples" : [
 
       ],
       "frequency" : 2444,
+      "mnemonic" : "趣记：sm-+oo（想象两个轮子在平滑的地面滚动）+-th→光滑的；顺利的；",
       "phonetic" : "smuːð",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -5189,13 +5426,15 @@
         "a slick performance：华而不实的演出",
         "a slick salesman：花言巧语的推销员",
         "a slick gear change：灵巧的换挡",
-        "a slick of sweat：湿亮的（涔涔的）汗水"
+        "a slick of sweat：湿亮的（涔涔的）汗水",
+        "His hair was slicked back \/ down with gel.\n他的头发用了发胶，朝后 \/ 朝下梳得平整光溜的。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "华而不实的；油滑的，花言巧语的；娴熟的，灵巧的；滑的",
+      "definition" : "华而不实的；油滑的，花言巧语的；娴熟的，灵巧的；滑的n. （海上）浮油；一小片湿而亮的地方 vt.（头发）平整光溜",
       "etymology" : "来自原始日耳曼语词根sleig-=to smooth：变平整，slick=to smooth， 表示“滑的”，引申义为“华而不实的；油滑的；灵巧的”等含义。",
       "examples" : [
-        "The roads were slick with rain.\n下雨路滑。\nHis hair was slicked back \/ down with gel.\n他的头发用了发胶，朝后 \/ 朝下梳得平整光溜的。"
+        "The roads were slick with rain.\n下雨路滑。"
       ],
+      "frequency" : 7993,
       "phonetic" : "slɪk",
       "pos" : "adj.",
       "rootHint" : "sting",
@@ -5221,10 +5460,11 @@
         "sleek black hair：乌黑光滑的头发",
         "the sleek lines of the new car：新车流畅的线条"
       ],
-      "definition" : "光滑的；线条流畅的，造型优美的；时髦的（阔气的人一",
+      "definition" : "光滑的；线条流畅的，造型优美的；时髦的（阔气的人一般穿着“油亮”） vt. 使（头发等）发油光；使平整光亮",
       "examples" : [
         "His glossy hair was sleeked back over his ears.\n他那油亮的头发平平整整地梳向耳后。"
       ],
+      "frequency" : 7129,
       "mnemonic" : "sleek=slick：滑的→光滑的；线条流畅的；时髦的；使……发油光，",
       "phonetic" : "sliːk",
       "pos" : "adj.",
@@ -5233,13 +5473,16 @@
     },
     {
       "collocations" : [
-        "be bombed into oblivion：被彻底炸毁"
+        "Perhaps originally “even out, smooth over, efface,” from ob “over” (see",
+        "be bombed into oblivion：被彻底炸毁",
+        "An unexpected victory saved him from oblivion.\n一次意外的胜利使得他在政治上不再被人遗忘（默默无闻）。"
       ],
-      "definition" : "沉睡，神志不清；被遗忘，湮没；被彻底摧毁，被夷",
-      "etymology" : "Late 14c., oblivioun, “state or fact of forgetting, forgetfulness, loss of memory,” from Old French oblivion (13c.) Perhaps originally “even out, smooth over, efface,” from ob “over” (see ob-) + root of levis “smooth,” also “rubbed smooth, ground down,” from PIE *lei-w-, from root *(s)lei- “slime, slimy, sticky”.",
+      "definition" : "沉睡，神志不清；被遗忘，湮没；被彻底摧毁，被夷平",
+      "etymology" : "Late 14c., oblivioun, “state or fact of forgetting, forgetfulness, loss of memory,” from Old French oblivion (13c.) ob-) + root of levis “smooth,” also “rubbed smooth, ground down,” from PIE *lei-w-, from root *(s)lei- “slime, slimy, sticky”.",
       "examples" : [
-        "He often drinks himself into oblivion.\n他常常喝酒喝到神志不清。\nAn unexpected victory saved him from oblivion.\n一次意外的胜利使得他在政治上不再被人遗忘（默默无闻）。"
+        "He often drinks himself into oblivion.\n他常常喝酒喝到神志不清。"
       ],
+      "frequency" : 12679,
       "mnemonic" : "ob-（=over）+ -liv-（=smooth：变平）+ -ion（名词后缀）→smooth\nover：使平坦→使人的身体、记忆变平，使地面变平坦→沉睡，神志",
       "phonetic" : "əˈblɪviən",
       "pos" : "n.",
@@ -5264,14 +5507,15 @@
     {
       "collocations" : [
         "spoil the natural beauty：破坏自然美景",
-        "spoil a child：宠坏一个孩子",
-        "spoil one’s appetite：破坏某人的胃口",
+        "spoil a child：宠坏一个孩子\nspoil one’s appetite：破坏某人的胃口",
         "spoil yourself with a new perfume：买瓶新香水犒劳一下你自己吧"
       ],
-      "definition" : "破坏；娇惯，宠坏；犒劳，优待 vt.&vi. （食物）变坏 n. 战",
+      "definition" : "破坏；娇惯，宠坏；犒劳，优待 vt.&vi. （食物）变坏 n. 战利品",
       "examples" : [
 
       ],
+      "frequency" : 6507,
+      "mnemonic" : "邪解：sp + oil（油）→由“油”引申出：“油腻，溺爱，宠坏，破坏”；战",
       "phonetic" : "spɒɪl",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -5295,7 +5539,7 @@
     },
     {
       "collocations" : [
-
+        "Valuables seized by violence, esp. in war."
       ],
       "definition" : "赃物；战利品（spoil的复数）",
       "examples" : [
@@ -5311,13 +5555,15 @@
       "collocations" : [
         "oil spill：石油泄漏",
         "a spill of milkshake：洒落的奶昔",
-        "spill her drink：把她的饮料弄洒"
+        "spill her drink：把她的饮料弄洒\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "Tears began to spill out of the boy’s eyes.\n泪水开始从男孩的眼里涌出。"
       ],
       "definition" : "（使）洒出，溢出 vi. 涌出；蜂拥而出 n. 洒，泼，溢；泄露",
       "etymology" : "来自古英语spillan “destroy, mutilate, kill”, 后来也有“to waste”的含义。 “let (liquid) fall or run out and become wasted” 出现在14世纪中期。",
       "examples" : [
-        "The doors opened and people spilled into the street.\n门开了，人们涌上街道。\nTears began to spill out of the boy’s eyes.\n泪水开始从男孩的眼里涌出。"
+        "The doors opened and people spilled into the street.\n门开了，人们涌上街道。"
       ],
+      "frequency" : 3705,
       "mnemonic" : "spill与spoil一样都有“destroy：破坏”的含义→洒出，溢出，泄露",
       "phonetic" : "spɪl",
       "pos" : "vt.",
@@ -5340,13 +5586,16 @@
     },
     {
       "collocations" : [
+        "large group of Germanic words in gl- involving notions of “smooth;",
+        "shining; joyful”",
         "glide over the ice：在冰上滑行",
-        "the graceful glide of a skater：滑冰者优美的滑行动作"
+        "the graceful glide of a skater：滑冰者优美的滑行动作",
+        "The plane managed to glide down to the runway.\n飞机终于成功地滑翔降落在跑道上。"
       ],
       "definition" : "滑行；（鸟或飞机）滑翔，翱翔 n. 滑行；滑翔",
-      "etymology" : "来自古英语glidan “move along smoothly and easily; glide away, vanish; slip, slide” , 来自原始日耳曼语*glidan “to glide”, probably part of the large group of Germanic words in gl- involving notions of “smooth; shining; joyful” . 释义：move along smoothly and easily.",
+      "etymology" : "来自古英语glidan “move along smoothly and easily; glide away, vanish; slip, slide” , 来自原始日耳曼语*glidan “to glide”, probably part of the . 释义：move along smoothly and easily.",
       "examples" : [
-        "An eagle was gliding high overhead.\n一只鹰在头顶上翱翔。\nThe plane managed to glide down to the runway.\n飞机终于成功地滑翔降落在跑道上。"
+        "An eagle was gliding high overhead.\n一只鹰在头顶上翱翔。"
       ],
       "frequency" : 7204,
       "phonetic" : "glaɪd",
@@ -5385,13 +5634,17 @@
     },
     {
       "collocations" : [
-
+        "He slewed the motorbike over as they hit the freeway.\n他们冲到高速公路时，他赶紧把摩托车调转方向。\n笔 记 区\n辅音 sl- 含义为黏的，滑的，光滑的。单词 slide， slip 也表示“滑；滑行”\n等含义。",
+        "It is the hypothetical source of \/ evidence for its existence is provided",
+        "by: Latin lubricus “slippery, slimy, smooth,” lubricare “make slippery or",
+        "Old English slyppe “dung.”"
       ],
       "definition" : "&vt. （使车辆）突然转向，急转 n. 大量；许多（slew of sth.）",
-      "etymology" : "Proto-Indo-European root meaning “to slide, slip.” It is the hypothetical source of \/ evidence for its existence is provided by: Latin lubricus “slippery, slimy, smooth,” lubricare “make slippery or smooth;” Middle Dutch slupen “to glide;” Gothic sliupan “to creep, slide;” Old English slyppe “dung.”",
+      "etymology" : "Proto-Indo-European root meaning “to slide, slip.” smooth;” Middle Dutch slupen “to glide;” Gothic sliupan “to creep, slide;”",
       "examples" : [
-        "The car skidded and slewed sideways.\n汽车打滑，向一侧急转而去。\nHe slewed the motorbike over as they hit the freeway.\n他们冲到高速公路时，他赶紧把摩托车调转方向。"
+        "The car skidded and slewed sideways.\n汽车打滑，向一侧急转而去。"
       ],
+      "frequency" : 13334,
       "mnemonic" : "slew=to glide：滑行→突然转向的时候会滑行→to turn, swing, twist：",
       "phonetic" : "sluː",
       "pos" : "vi.",
@@ -5400,19 +5653,21 @@
     },
     {
       "collocations" : [
+        "morally, err; be transitory or unstable,” from Proto-Germanic *slidan “to\nslip, slide”.",
         "slide the door open：把门滑开",
         "slide the wallet into his pocket：把钱包滑进了他的口袋",
         "slide into the driver’s seat：悄悄地溜到了司机的座位上",
         "slide into a depression：陷入抑郁之中",
         "continue to slide：继续下跌",
         "the slide in oil prices：石油价格的下跌",
-        "a slide show：幻灯片放映"
+        "a slide show：幻灯片放映\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "&vi. 使滑动；下跌 vi. 悄悄地溜到；不知不觉地陷入（某种情",
-      "etymology" : "Old English slidan “to glide, slip, fall, fall down;” figuratively “fail, lapse morally, err; be transitory or unstable,” from Proto-Germanic *slidan “to slip, slide”.",
+      "definition" : "&vi. 使滑动；下跌 vi. 悄悄地溜到；不知不觉地陷入（某种情绪、态度或情形） n. 下跌；幻灯片；滑梯",
+      "etymology" : "Old English slidan “to glide, slip, fall, fall down;” figuratively “fail, lapse",
       "examples" : [
 
       ],
+      "frequency" : 2193,
       "phonetic" : "slaɪd",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -5451,12 +5706,14 @@
     },
     {
       "collocations" : [
-        "a landslide victory：压倒性优势的选举胜利"
+        "a landslide victory：压倒性优势的选举胜利",
+        "The storm caused landslides and flooding in Savona.\n暴风雨引发了萨沃纳的山崩和水灾。"
       ],
-      "definition" : "（山坡或悬崖的）滑坡，山崩；（选举中）压倒性",
+      "definition" : "（山坡或悬崖的）滑坡，山崩；（选举中）压倒性优势的胜利",
       "examples" : [
-        "She was expected to win by a landslide.\n预计她会以压倒多数的选票获胜。\nThe storm caused landslides and flooding in Savona.\n暴风雨引发了萨沃纳的山崩和水灾。"
+        "She was expected to win by a landslide.\n预计她会以压倒多数的选票获胜。"
       ],
+      "frequency" : 11589,
       "mnemonic" : "land（土地）+ slide（滑落）→土地滑落→滑坡；山崩→比喻压倒性",
       "phonetic" : "ˈlændslaɪd",
       "pos" : "n.",
@@ -5472,10 +5729,11 @@
         "slip into debt：陷入债务中",
         "without making a single slip：没有出一点差错"
       ],
-      "definition" : "滑倒，滑跤；滑落；溜；陷入，进入（困难或不愉快的处境）",
+      "definition" : "滑倒，滑跤；滑落；溜；陷入，进入（困难或不愉快的处境）n. 滑倒；差错",
       "examples" : [
         "1）How did we let primary care slip so far?\n初级护理为什么会出现如此大的下滑？\n2）It shows that U.S. economy is slipping further into recession.\n它表明美国经济正在进一步进入衰退。"
       ],
+      "frequency" : 1800,
       "mnemonic" : "slip（=slide=glide：滑）→滑倒；滑落",
       "phonetic" : "slɪp",
       "pos" : "vi.",
@@ -5500,13 +5758,13 @@
     {
       "collocations" : [
         "slippery like a fish：滑得像条鱼似的",
-        "a slippery customer：一位油滑的顾客",
-        "the \/ a slippery slope：使人滑向深渊的斜坡；危险的境地"
+        "a slippery customer：一位油滑的顾客\nthe \/ a slippery slope：使人滑向深渊的斜坡；危险的境地"
       ],
-      "definition" : "滑的；滑得抓不住（或站不稳、难以行走）的；油滑",
+      "definition" : "滑的；滑得抓不住（或站不稳、难以行走）的；油滑的",
       "examples" : [
 
       ],
+      "frequency" : 7858,
       "mnemonic" : "slip（滑倒，双写p）+ -ery（形容词后缀）→引申比喻义滑的；油滑的",
       "phonetic" : "ˈslɪpəri",
       "pos" : "adj.",
@@ -5571,6 +5829,7 @@
 
       ],
       "frequency" : 4616,
+      "mnemonic" : "释义：that into which the arm slips：胳膊滑进去的套子→袖子；有……袖",
       "phonetic" : "sliːv",
       "pos" : "n.",
       "rootHint" : "sting",
@@ -5610,10 +5869,11 @@
       "collocations" : [
         "industrial lubricants：工业用润滑剂"
       ],
-      "definition" : "（尤指机械用的）润滑剂，润滑油；（比喻有利于",
+      "definition" : "（尤指机械用的）润滑剂，润滑油；（比喻有利于事情顺利进行的）润滑剂",
       "examples" : [
         "I think humor is a great lubricant for life.\n我认为幽默是一种上好的人生润滑剂。"
       ],
+      "frequency" : 17032,
       "mnemonic" : "lubric（=lubricate：使润滑）+ -ant（名词后缀）→起润滑作用的东西\n→润滑油；润滑剂",
       "phonetic" : "ˈluːbrɪkənt",
       "pos" : "n.",
@@ -5623,13 +5883,16 @@
     {
       "collocations" : [
         "a slim figure \/ body \/ waist：苗条的体形 \/ 身材；纤细的腰肢",
-        "a slim volume of poetry：一本薄薄的诗集"
+        "a slim volume of poetry：一本薄薄的诗集\n20000 词汇巅峰\n速\n记",
+        "a slim chance：微小的可能",
+        "slim its product line：缩减了生产线"
       ],
-      "definition" : "苗条的；纤细的；单薄的；（机会或可能性）微小的 vt. 缩",
+      "definition" : "苗条的；纤细的；单薄的；（机会或可能性）微小的 vt. 缩减 vi. （靠节食等）变苗条，减肥",
       "etymology" : "1650s, “thin, slight, slender,” from Dutch slim “bad, sly, clever”.",
       "examples" : [
         "You can still eat breakfast when you are slimming.\n你减肥也可以吃早饭！"
       ],
+      "frequency" : 5384,
       "mnemonic" : "辅音丛sl-：黏的，滑的，光滑的→引申义苗条的，纤细的，单薄的，",
       "phonetic" : "slɪm",
       "pos" : "adj.",
@@ -5638,11 +5901,11 @@
     },
     {
       "collocations" : [
-
+        "bottom of the pond.\n他潜下水去，从池塘底部的烂泥污物中找回了眼镜。"
       ],
       "definition" : "污浊的泥浆；（令人不快的）黏液",
       "examples" : [
-        "He swam down and retrieved his glasses from the muck and slime at the\nbottom of the pond.\n他潜下水去，从池塘底部的烂泥污物中找回了眼镜。"
+        "He swam down and retrieved his glasses from the muck and slime at the"
       ],
       "frequency" : 16383,
       "mnemonic" : "slim：污泥，淤泥",
@@ -5671,10 +5934,11 @@
         "lime juice：酸橙汁",
         "slices of lime：酸橙片"
       ],
-      "definition" : "石灰；酸橙 vt.（尤指为控制酸度而给土壤）掺加石灰，撒石",
+      "definition" : "石灰；酸橙 vt.（尤指为控制酸度而给土壤）掺加石灰，撒石灰",
       "examples" : [
         "If your soil is very acidic, add lime.\n如果你的土壤酸性很强，就加点石灰。"
       ],
+      "frequency" : 5496,
       "mnemonic" : "lim-（黏性的物质）+ -e→石灰；掺加石灰",
       "phonetic" : "laɪm",
       "pos" : "n.",
@@ -5684,7 +5948,7 @@
     {
       "collocations" : [
         "high limestone cliffs：高耸的石灰岩峭壁",
-        "limestone cave：石灰岩洞"
+        "limestone cave：石灰岩洞\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "石灰岩",
       "examples" : [
@@ -5699,12 +5963,15 @@
     },
     {
       "collocations" : [
-
+        "Middle Low German mudde, Middle Dutch modde “thick mud,” from",
+        "Proto-Germanic *mud- from PIE *(s)meu- \/ *mu- [Buck], found in many",
+        "words denoting “wet” or “dirty” .",
+        "The car wheels got stuck in the mud.\n汽车轮子陷到泥里去了。"
       ],
       "definition" : "淤泥；泥浆",
-      "etymology" : "Late 14c., mudde, “moist, soft earth,” cognate with and probably from Middle Low German mudde, Middle Dutch modde “thick mud,” from Proto-Germanic *mud- from PIE *(s)meu- \/ *mu- [Buck], found in many words denoting “wet” or “dirty” .",
+      "etymology" : "Late 14c., mudde, “moist, soft earth,” cognate with and probably from",
       "examples" : [
-        "Your boots are covered in mud.\n你的靴子上都是泥。\nThe car wheels got stuck in the mud.\n汽车轮子陷到泥里去了。"
+        "Your boots are covered in mud.\n你的靴子上都是泥。"
       ],
       "frequency" : 3644,
       "mnemonic" : "mud=slime：淤泥；泥浆",
@@ -5720,10 +5987,11 @@
         "muddy their shoes：鞋沾上了泥巴",
         "muddy the waters, issue, etc.：搅浑水；添乱"
       ],
-      "definition" : "泥泞的；含泥的，浑浊的 vt. 使沾上泥巴；搅乱（局",
+      "definition" : "泥泞的；含泥的，浑浊的 vt. 使沾上泥巴；搅乱（局势、问题等）",
       "examples" : [
 
       ],
+      "frequency" : 6585,
       "mnemonic" : "mud（泥，双写d）+ -y（形容词后缀）→泥泞的；含泥的；使沾上泥",
       "phonetic" : "ˈmʌdɪ",
       "pos" : "adj.",
@@ -5779,10 +6047,12 @@
     },
     {
       "collocations" : [
+        "(replacing Middle English mucilage), from Latin mucus “slime, mold,",
+        "mucus of the nose, snot,” from PIE root *meug- “slippery, slimy”.",
         "the thin layer of mucus：那层薄薄的黏液"
       ],
       "definition" : "（身体分泌的）黏液；鼻涕",
-      "etymology" : "“viscid fluid secreted by the mucous membranes of animals,” 1660s (replacing Middle English mucilage), from Latin mucus “slime, mold, mucus of the nose, snot,” from PIE root *meug- “slippery, slimy”.",
+      "etymology" : "“viscid fluid secreted by the mucous membranes of animals,” 1660s",
       "examples" : [
 
       ],
@@ -5795,11 +6065,12 @@
     },
     {
       "collocations" : [
-        "warm moist air：温暖潮湿的空气"
+        "warm moist air：温暖潮湿的空气",
+        "The soil is reasonably moist after the September rain.\n9月的雨水之后，土壤适度湿润。"
       ],
       "definition" : "潮湿的；湿润的",
       "examples" : [
-        "Her eyes were moist (= with tears).\n她眼睛潮湿了（眼含泪水）。\nThe soil is reasonably moist after the September rain.\n9月的雨水之后，土壤适度湿润。"
+        "Her eyes were moist (= with tears).\n她眼睛潮湿了（眼含泪水）。"
       ],
       "frequency" : 6643,
       "mnemonic" : "moist=wet：湿润的；潮湿的",
@@ -5856,11 +6127,12 @@
     },
     {
       "collocations" : [
+        "slimy, sticky”. 原义为通过涂抹污泥的方式擦除、弄模糊。",
         "delete from the list：从名单上删掉",
         "delete files from the computer system：从计算机系统中删除了文件"
       ],
       "definition" : "删去；删除",
-      "etymology" : "“destroy, eradicate,” 1530s, from Latin deletus, past participle of delere “destroy, blot out, efface,” from delevi, originally perfective tense of delinere “to daub, erase by smudging”. from PIE root *(s)lei- “slime, slimy, sticky”. 原义为通过涂抹污泥的方式擦除、弄模糊。",
+      "etymology" : "“destroy, eradicate,” 1530s, from Latin deletus, past participle of delere “destroy, blot out, efface,” from delevi, originally perfective tense of delinere “to daub, erase by smudging”. from PIE root *(s)lei- “slime,",
       "examples" : [
 
       ],
@@ -5888,12 +6160,14 @@
     },
     {
       "collocations" : [
-        "indelible ink：擦不掉的墨水"
+        "indelible ink：擦不掉的墨水",
+        "Her unhappy childhood left an indelible mark.\n她不幸的童年留下了不可磨灭的痕迹。\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "难以忘怀的，不可磨灭的；（墨水、钢笔等）无法",
+      "definition" : "难以忘怀的，不可磨灭的；（墨水、钢笔等）无法消除的，擦不掉的",
       "examples" : [
-        "The experience made an indelible impression on me.\n那次经历使我难以忘怀。\nHer unhappy childhood left an indelible mark.\n她不幸的童年留下了不可磨灭的痕迹。"
+        "The experience made an indelible impression on me.\n那次经历使我难以忘怀。"
       ],
+      "frequency" : 16020,
       "mnemonic" : "in-（不；非）+ -del-（=delete：破坏；完全消除）+ -ible（能……\n的）→不能完全消除的，引申词义难以磨灭的",
       "phonetic" : "ɪnˈdelɪbəl",
       "pos" : "adj.",
@@ -5902,12 +6176,15 @@
     },
     {
       "collocations" : [
-        "slither down the bank：滑下河岸"
+        "slither down the bank：滑下河岸",
+        "We slithered down the slope to the road.\n我们跌跌撞撞地顺着坡跑到了公路上。",
+        "They were slithering around on the ice.\n他们在冰上踉踉跄跄地滑行。\n笔 记 区"
       ],
-      "definition" : "（蛇等）蜿蜒地滑行，爬行；（因地面陡峭或湿滑等）",
+      "definition" : "（蛇等）蜿蜒地滑行，爬行；（因地面陡峭或湿滑等）跌跌撞撞地溜行，踉踉跄跄地走",
       "examples" : [
-        "The snake slithered into the water.\n那条蛇蜿蜒滑入了水中。\nWe slithered down the slope to the road.\n我们跌跌撞撞地顺着坡跑到了公路上。\nThey were slithering around on the ice.\n他们在冰上踉踉跄跄地滑行。"
+        "The snake slithered into the water.\n那条蛇蜿蜒滑入了水中。"
       ],
+      "frequency" : 14654,
       "mnemonic" : "slith-（=to slide, slip：滑动）+ -er（表反复）→蜿蜒滑行；跌跌撞撞",
       "phonetic" : "ˈslɪðə(r)",
       "pos" : "vi.",
@@ -5947,12 +6224,16 @@
     },
     {
       "collocations" : [
-        "She sloshed coffee into the mugs."
+        "noisily in water or mud.",
+        "She sloshed coffee into the mugs.",
+        "Some of the paint sloshed out of the can.\n桶里撒出了一些油漆。\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "We all sloshed around in the puddles.\n我们都扑哧扑哧地踩着一摊摊的积水。"
       ],
-      "definition" : "哗啦哗啦地晃荡，撒出；（在水或泥里）扑哧扑哧地走 vt. 使",
+      "definition" : "哗啦哗啦地晃荡，撒出；（在水或泥里）扑哧扑哧地走 vt. 使哗啦哗啦地连倒带撒",
       "examples" : [
-        "The water was sloshing around under our feet.\n水在我们脚下哗啦哗啦地流动。\nSome of the paint sloshed out of the can.\n桶里撒出了一些油漆。"
+        "The water was sloshing around under our feet.\n水在我们脚下哗啦哗啦地流动。"
       ],
+      "frequency" : 16444,
       "phonetic" : "slɒʃ",
       "pos" : "vi.",
       "rootHint" : "sting",
@@ -5992,12 +6273,15 @@
       "collocations" : [
         "a lapse of concentration \/ memory：注意力上有疏忽（心不在焉）；记错",
         "lapse into sth.：（逐渐）陷入；进入",
-        "to lapse into unconsciousness：逐渐失去知觉"
+        "to lapse into unconsciousness：逐渐失去知觉",
+        "She had allowed her membership to lapse.\n她的会员资格期满终止。",
+        "His concentration lapsed after a few minutes.\n几分钟后他的注意力就下降了。\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "小错；（尤指）记错，过失，疏忽；（两件事发生的）间",
+      "definition" : "小错；（尤指）记错，过失，疏忽；（两件事发生的）间隔时间 vi.（合同、协议等）失效，期满终止；衰退，（逐渐）消失",
       "examples" : [
-        "After a lapse of six months we met up again.\n相隔六个月之后我们又相遇了。\nShe had allowed her membership to lapse.\n她的会员资格期满终止。\nHis concentration lapsed after a few minutes.\n几分钟后他的注意力就下降了。"
+        "After a lapse of six months we met up again.\n相隔六个月之后我们又相遇了。"
       ],
+      "frequency" : 10184,
       "mnemonic" : "laps-（=slip：滑落；差错，陷入）+ -e→小错；过失，疏忽（滑倒，",
       "phonetic" : "læps",
       "pos" : "n.",
@@ -6022,11 +6306,12 @@
     {
       "collocations" : [
         "to have \/ suffer a relapse：旧病复发",
-        "a risk of relapse：旧病复发的危险"
+        "a risk of relapse：旧病复发的危险",
+        "He relapsed into his old bad habits.\n他又陷入恶习之中（重染恶习）。"
       ],
       "definition" : "旧病复发 vi. 退回原状；（好转后）再倒退",
       "examples" : [
-        "They relapsed into silence.\n他们又都陷入沉默。\nHe relapsed into his old bad habits.\n他又陷入恶习之中（重染恶习）。"
+        "They relapsed into silence.\n他们又都陷入沉默。"
       ],
       "frequency" : 16433,
       "mnemonic" : "re-（=again：再次）+ -laps-（滑落；陷入）+ -e→再次陷入不好的景\n况中→旧病复发；退回原状；（好转后）再倒退",
@@ -6037,12 +6322,15 @@
     },
     {
       "collocations" : [
-        "collapse in the street：倒在大街上"
+        "collapse in the street：倒在大街上",
+        "Share prices collapsed.\n股票价格暴跌。",
+        "All opposition to the plan has collapsed.\n所有反对此计划的力量均已瓦解。"
       ],
-      "definition" : "（突然）倒塌，坍塌；（尤指因病重而）倒下；突然",
+      "definition" : "（突然）倒塌，坍塌；（尤指因病重而）倒下；突然失败，崩溃，瓦解；（突然）暴跌",
       "examples" : [
-        "The roof collapsed under the weight of snow.\n房顶在雪的重压下突然坍塌下来。\nShare prices collapsed.\n股票价格暴跌。\nAll opposition to the plan has collapsed.\n所有反对此计划的力量均已瓦解。"
+        "The roof collapsed under the weight of snow.\n房顶在雪的重压下突然坍塌下来。"
       ],
+      "frequency" : 3240,
       "mnemonic" : "col（=com-：共同；一起）+ laps-（=to fall, slip：滑倒；倒下）+ -e→\n全部一起倒下了→倒塌；崩溃，瓦解；（突然）暴跌",
       "phonetic" : "kəˈlæps",
       "pos" : "vi.",
@@ -6069,10 +6357,11 @@
         "collapsing market confidence：崩溃的市场信心",
         "collapsing industrial regions：衰落的工业区"
       ],
-      "definition" : "坍塌；倒下；崩溃；暴跌（collapse的ing形式）",
+      "definition" : "坍塌；倒下；崩溃；暴跌（collapse的ing形式）adj. 崩溃的，瓦解的；衰落的",
       "examples" : [
         "In Europe the market is also collapsing.\n在欧洲，这一市场也正在坍塌。"
       ],
+      "frequency" : 17647,
       "phonetic" : "kəˈlæpsiŋ",
       "pos" : "vi.",
       "rootHint" : "sting",
@@ -6080,14 +6369,21 @@
     },
     {
       "collocations" : [
+        "source such as Norwegian and Danish slumpe “fall upon”.",
         "a slump in property prices：土地价格暴跌",
-        "the slump of the early 1980s：20世纪80年代初期的经济萧条时期。"
+        "the slump of the early 1980s：20世纪80年代初期的经济萧条时期。",
+        "Net profits slumped by 41%.\n净利润暴跌了41%。\n词根 mem-, memo-, memor-, mnem-, mne(s-) 含义为“to remember：记\n住；记忆”。",
+        "Proto-Indo-European root meaning “to remember.” It is the hypothetical\nsource of \/ evidence for its existence is provided by: Sanskrit smarati",
+        "remembering;” Serbo-Croatian mariti “to care for;” Welsh marth “sadness,\n20000 词汇巅峰\n速\n记\nanxiety;” Old Norse Mimir, name of the giant who guards the Well of",
+        "Wisdom; Old English gemimor “known,” murnan “to mourn, remember",
+        "sorrowfully;” Dutch mijmeren “to ponder.”\n笔 记 区"
       ],
-      "definition" : "&vi. 瘫倒；（因劳累或生病等）跌坐 vi. （价格、价值、",
-      "etymology" : "*(s)mer- (1) Proto-Indo-European root meaning “to remember.” It is the hypothetical source of \/ evidence for its existence is provided by: Sanskrit smarati “remembers;” Avestan mimara “mindful;” Greek merimna “care, thought,” mermeros “causing anxiety, mischievous, baneful;” Latin memoria “memory, remembrance, faculty of remembering,” memor “mindful, remembering;” Serbo-Croatian mariti “to care for;” Welsh marth “sadness, 20000 词汇巅峰 速 记 anxiety;” Old Norse Mimir, name of the giant who guards the Well of Wisdom; Old English gemimor “known,” murnan “to mourn, remember sorrowfully;” Dutch mijmeren “to ponder.” 笔 记 区",
+      "definition" : "&vi. 瘫倒；（因劳累或生病等）跌坐 vi. （价格、价值、数量等）暴跌 n. （价格、价值、数量等）暴跌；经济萧条时期",
+      "etymology" : "*(s)mer- (1) “remembers;” Avestan mimara “mindful;” Greek merimna “care, thought,” mermeros “causing anxiety, mischievous, baneful;” Latin memoria “memory, remembrance, faculty of remembering,” memor “mindful,",
       "examples" : [
-        "She slumped into a chair.\n她瘫倒在一张椅子上。\nNet profits slumped by 41%.\n净利润暴跌了41%。\n词根 mem-, memo-, memor-, mnem-, mne(s-) 含义为“to remember：记\n住；记忆”。"
+        "She slumped into a chair.\n她瘫倒在一张椅子上。"
       ],
+      "frequency" : 6919,
       "mnemonic" : "sl-（黏的；滑的，光滑的）+ -ump（名词后缀）→倒在黏糊糊的泥地\n上→比喻义为瘫倒；跌坐；暴跌；经济萧条时期",
       "phonetic" : "slʌmp",
       "pos" : "vt.",
@@ -6096,14 +6392,17 @@
     },
     {
       "collocations" : [
-
+        "As far as I can remember, this is the third time we’ve met.\n我记得这是我们第三次会面了。",
+        "remember doing sth.：记得做过某事",
+        "I remember posting the letter.\n我记得把信寄出去了。"
       ],
       "definition" : "回想起，记得；想起，记起；把……牢记在心",
       "examples" : [
-        "She remembered that she was going to the club that evening.\n她回想起那天晚上她要去俱乐部。\nI don’t remember my first day at school.\n我已经不记得（忘了）第一天上学的情景。\nAs far as I can remember, this is the third time we’ve met.\n我记得这是我们第三次会面了。\nI can’t remember your name.\n我想不起你的名字了。\n比较：remember to do sth. & remember doing sth.",
-        "I remember to post the letter.\n我没有忘记要寄信（我记得我要寄信）。\nI remember posting the letter.\n我记得把信寄出去了。"
+        "She remembered that she was going to the club that evening.\n她回想起那天晚上她要去俱乐部。\nI don’t remember my first day at school.\n我已经不记得（忘了）第一天上学的情景。\nI can’t remember your name.\n我想不起你的名字了。\n比较：remember to do sth. & remember doing sth.",
+        "I remember to post the letter.\n我没有忘记要寄信（我记得我要寄信）。"
       ],
-      "mnemonic" : "re-（=again：再次）+ mem-（=be mindful of：记得）+ ber→再次记\n得→回想起；记起；把……牢记在心\nremember to do sth.：记得要做某事\nremember doing sth.：记得做过某事",
+      "frequency" : 380,
+      "mnemonic" : "re-（=again：再次）+ mem-（=be mindful of：记得）+ ber→再次记\n得→回想起；记起；把……牢记在心\nremember to do sth.：记得要做某事",
       "phonetic" : "rɪˈmembə(r)",
       "pos" : "vt.",
       "rootHint" : "sting",
@@ -6111,11 +6410,12 @@
     },
     {
       "collocations" : [
-        "a remembrance service：纪念仪式"
+        "a remembrance service：纪念仪式",
+        "A service was held in remembrance of local soldiers killed in the war.\n为当地阵亡的战士举行了纪念仪式。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "纪念，回忆；纪念品，一段记忆",
       "examples" : [
-        "He smiled at the remembrance of their first kiss.\n他回忆起了他们的初吻，露出了微笑。\nA service was held in remembrance of local soldiers killed in the war.\n为当地阵亡的战士举行了纪念仪式。"
+        "He smiled at the remembrance of their first kiss.\n他回忆起了他们的初吻，露出了微笑。"
       ],
       "frequency" : 11073,
       "mnemonic" : "remember（记得；记起）+ -ance（名词后缀）→纪念，回忆；纪念",
@@ -6126,12 +6426,13 @@
     },
     {
       "collocations" : [
-        "childhood memories：童年的回忆"
+        "childhood memories：童年的回忆",
+        "The photos bring back lots of good memories.\n这些照片唤起了许多美好的回忆。\nMnemosyne：记忆女神"
       ],
       "definition" : "记忆力；记忆所及的时期；回忆，记忆；内存",
       "etymology" : "莫涅莫绪涅（Mnemosyne）是希腊神话中的记忆女神。她是天神乌拉 诺斯和大地女神盖亚的女儿，十二泰坦神之一。和宙斯结合生下九位 缪斯。她通常被描绘成一个支着下巴沉思的女子；有时她在画笔下表 现为一个接近成年的女性，发饰多珍珠和宝石，用右手的两个前指持 着耳垂。莫涅莫绪涅的名字中包含词根mneme，意思是“记忆”。变 体有：memo，memor，mnem，mnes。",
       "examples" : [
-        "There hasn’t been peace in the country in \/ within my memory.\n在我的记忆里，这个国家从没太平过。\nThe photos bring back lots of good memories.\n这些照片唤起了许多美好的回忆。\nMnemosyne：记忆女神"
+        "There hasn’t been peace in the country in \/ within my memory.\n在我的记忆里，这个国家从没太平过。"
       ],
       "frequency" : 894,
       "mnemonic" : "memor-（记忆）+ -y（名词后缀）→记忆力；回忆，记忆；内存",
@@ -6161,6 +6462,7 @@
       "examples" : [
 
       ],
+      "frequency" : 12396,
       "phonetic" : "ræm",
       "pos" : "abbr.",
       "rootHint" : "sting",
@@ -6169,7 +6471,7 @@
     {
       "collocations" : [
         "to write \/ send \/ circulate a memo：写 \/ 发送 \/ 传阅备忘录",
-        "send out a memo expressing his disagreement：发出一份简报表达他的"
+        "send out a memo expressing his disagreement：发出一份简报表达他的\n不赞同\n笔 记 区"
       ],
       "definition" : "备忘录；简报",
       "examples" : [
@@ -6184,7 +6486,8 @@
     },
     {
       "collocations" : [
-        "a memorandum sent to all senior UN personnel：一份发给联合国所有资"
+        "a memorandum sent to all senior UN personnel：一份发给联合国所有资",
+        "memorandum of understanding：谅解备忘录"
       ],
       "definition" : "备忘录；简报",
       "examples" : [
@@ -6214,7 +6517,8 @@
     },
     {
       "collocations" : [
-        "a war memorial (= in memory of soldiers who died in a war)：阵亡将士"
+        "a war memorial (= in memory of soldiers who died in a war)：阵亡将士",
+        "a memorial statue \/ plaque \/ prize：纪念像 \/ 牌 \/ 奖\nKobe Bryant’s memorial service：科比·布莱恩特的悼念仪式"
       ],
       "definition" : "纪念碑（或像等）；纪念物；纪念品 adj. 纪念的；悼念的",
       "examples" : [
@@ -6306,7 +6610,9 @@
     },
     {
       "collocations" : [
-        "a march in commemoration of Malcolm X：一次为纪念马尔科姆·艾克"
+        "a march in commemoration of Malcolm X：一次为纪念马尔科姆·艾克",
+        "a commemoration service：纪念仪式",
+        "a statue in commemoration of a national hero：纪念民族英雄的雕像\n笔 记 区"
       ],
       "definition" : "纪念；纪念仪式",
       "examples" : [
@@ -6336,12 +6642,13 @@
     },
     {
       "collocations" : [
-
+        "Today we mourn for all those who died in two world wars.\n今天，我们向所有在两次世界大战中死难的人表示哀悼。",
+        "She mourned for her lost childhood.\n她为失去的童年而伤感。"
       ],
       "definition" : "悼念；为（失去……而）哀悼，悲伤，伤感",
       "etymology" : "来自原始日耳曼语murnan “to remember sorrowfully：悲伤地回忆” 。",
       "examples" : [
-        "He was still mourning his brother’s death.\n他仍然在为哥哥的去世而悲伤。\nToday we mourn for all those who died in two world wars.\n今天，我们向所有在两次世界大战中死难的人表示哀悼。\nShe mourned for her lost childhood.\n她为失去的童年而伤感。"
+        "He was still mourning his brother’s death.\n他仍然在为哥哥的去世而悲伤。"
       ],
       "frequency" : 6877,
       "mnemonic" : "mourn：为（失去……而）哀悼，悲伤；悼念",
@@ -6415,10 +6722,12 @@
     },
     {
       "collocations" : [
-        "the month-long amnesty：一个月的赦免期"
+        "the month-long amnesty：一个月的赦免期",
+        "undomesticated, uncontrolled,” from Proto-Germanic *wildia-. Perhaps",
+        "from PIE root *welt- “woodlands; wild”."
       ],
       "definition" : "（对政治犯的）赦免，大赦；赦免期",
-      "etymology" : "Old English wilde “in the natural state, uncultivated, untamed, undomesticated, uncontrolled,” from Proto-Germanic *wildia-. Perhaps from PIE root *welt- “woodlands; wild”.",
+      "etymology" : "Old English wilde “in the natural state, uncultivated, untamed,",
       "examples" : [
         "The president granted a general amnesty for all political prisoners.\n总统大赦了所有的政治犯。"
       ],
@@ -6432,11 +6741,12 @@
     {
       "collocations" : [
         "wild animals \/ flowers：野生动物；野花",
-        "a wild night：暴风雨之夜"
+        "a wild night：暴风雨之夜",
+        "The boy is wild and completely out of control.\n这男孩缺乏管教，简直是无法无天。"
       ],
       "definition" : "野的，野生的；荒凉的；缺乏管教的的；暴风雨的",
       "examples" : [
-        "The plants grow wild along the banks of rivers.\n沿河两岸生长着野生植物。\nThe boy is wild and completely out of control.\n这男孩缺乏管教，简直是无法无天。"
+        "The plants grow wild along the banks of rivers.\n沿河两岸生长着野生植物。"
       ],
       "frequency" : 1299,
       "phonetic" : "waɪld",
@@ -6446,13 +6756,16 @@
     },
     {
       "collocations" : [
-        "a wilderness area：未开发的地区"
+        "English wild-deor “wild animal, wild deer.",
+        "a wilderness area：未开发的地区",
+        "Their garden is a wilderness of grass and weeds.\n他们的花园杂草丛生。"
       ],
       "definition" : "未开发的地区，荒野；荒芜的地方，杂草丛生处",
-      "etymology" : "c. 1200, “wild, uninhabited, or uncultivated place,” with -ness + Old English wild-deor “wild animal, wild deer.",
+      "etymology" : "c. 1200, “wild, uninhabited, or uncultivated place,” with -ness + Old",
       "examples" : [
-        "The Antarctic is the world’s last great wilderness.\n南极洲是世界上最后一个未开发地区。\nTheir garden is a wilderness of grass and weeds.\n他们的花园杂草丛生。"
+        "The Antarctic is the world’s last great wilderness.\n南极洲是世界上最后一个未开发地区。"
       ],
+      "frequency" : 3756,
       "mnemonic" : "wild（野生的）+ der（=deer：鹿）+ -ness（名词后缀）→野生的鹿出\n没的地方→未开发的地区，荒野；荒芜的地方",
       "phonetic" : "ˈwɪldənəs",
       "pos" : "n.",
@@ -6477,11 +6790,11 @@
     },
     {
       "collocations" : [
-
+        "The community and police have wildly different stories of what happened.\n社区和警察对所发生的事又有着非常不同的说法。"
       ],
       "definition" : "失控地；极其，非常",
       "examples" : [
-        "His heart was beating wildly.\n他的心脏失控地（剧烈地）跳着。\nThe community and police have wildly different stories of what happened.\n社区和警察对所发生的事又有着非常不同的说法。"
+        "His heart was beating wildly.\n他的心脏失控地（剧烈地）跳着。"
       ],
       "frequency" : 5667,
       "mnemonic" : "wild（失去控制的）+-ly（副词后缀）→失控地；极其，非常",
@@ -6507,11 +6820,12 @@
     },
     {
       "collocations" : [
-
+        "Enlightenment (启蒙运动) to be told by any of us how little we know and",
+        "how bewildering seems the way ahead.\n即便是18世纪启蒙运动中最聪明的那些大思想家，当被告知我们知道\n的是多么的狭隘，前方的路是多么让人迷茫时，也会感到吃惊。"
       ],
       "definition" : "使迷惑；使困惑",
       "examples" : [
-        "It would have amazed the brightest minds of the 18th century\nEnlightenment (启蒙运动) to be told by any of us how little we know and\nhow bewildering seems the way ahead.\n即便是18世纪启蒙运动中最聪明的那些大思想家，当被告知我们知道\n的是多么的狭隘，前方的路是多么让人迷茫时，也会感到吃惊。"
+        "It would have amazed the brightest minds of the 18th century"
       ],
       "mnemonic" : "be-（=de-：表彻底）+ wild（狂野；疯狂）+ -er（动词后缀）→使迷惑",
       "phonetic" : "bɪˈwɪldə(r)",
@@ -6536,7 +6850,7 @@
     {
       "collocations" : [
         "bewildering array \/ range：令人眼花缭乱的摆设 \/ 种类",
-        "a bewildering variety of software available：眼花缭乱、可供选择的软"
+        "a bewildering variety of software available：眼花缭乱、可供选择的软\n件种类"
       ],
       "definition" : "令人困惑的；令人眼花缭乱的",
       "examples" : [

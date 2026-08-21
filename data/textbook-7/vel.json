@@ -15,15 +15,21 @@
   "words" : [
     {
       "collocations" : [
+        "perhaps related to vellere “pluck, to tear” (see svelte), or from PIE *wele-\nnes-, from *wele- (2) “to strike, wound”",
         "be vulnerable to a disease：容易患……病的",
         "be vulnerable to attack：易受攻击",
-        "put the company in a very vulnerable position：使这家公司处于脆弱的"
+        "put the company in a very vulnerable position：使这家公司处于脆弱的\n处境之中（使得这家公司岌岌可危）",
+        "Encouraging kids to reject the life of the mind leaves them vulnerable to",
+        "exploitation and control.",
+        "Inspiring children to maintain rejection to the life of the mind makes them",
+        "fragile to exploitation and control."
       ],
-      "definition" : "（身体上或感情上）脆弱的，易受……伤害",
-      "etymology" : "c. 1600, from Late Latin vulnerabilis “wounding,” from Latin vulnerare “to wound, hurt, injure, maim,” from vulnus (genitive vulneris) “wound,” perhaps related to vellere “pluck, to tear” (see svelte), or from PIE *wele- nes-, from *wele- (2) “to strike, wound”",
+      "definition" : "（身体上或感情上）脆弱的，易受……伤害的；容易患……病的；易受……的攻击 \/ 袭击",
+      "etymology" : "c. 1600, from Late Latin vulnerabilis “wounding,” from Latin vulnerare “to wound, hurt, injure, maim,” from vulnus (genitive vulneris) “wound,”",
       "examples" : [
         "Old people are particularly vulnerable members of our society.\n老人是我们社会中特别容易受到伤害的成员。"
       ],
+      "frequency" : 2980,
       "mnemonic" : "vulner（=to wound, injure：受伤；伤害）+ -able（形容词后缀，能\n被……的）→能被伤害的→易受……伤害的，脆弱的；容易患……",
       "phonetic" : "ˈvʌlnərəbl",
       "pos" : "adj.",
@@ -34,7 +40,7 @@
       "collocations" : [
         "the greater vulnerability to extinction：更脆弱，容易灭绝",
         "expose the vulnerability of：暴露出……的脆弱",
-        "protect ourselves from this vulnerability：保护我们自己避免这一脆弱性"
+        "protect ourselves from this vulnerability：保护我们自己避免这一脆弱性\n（弱点）"
       ],
       "definition" : "脆弱；弱点；易损性",
       "examples" : [
@@ -49,12 +55,14 @@
     },
     {
       "collocations" : [
+        "from Latin villus “shaggy hair, nap of cloth, hair, down：某些织物的短绒\n毛；（鸟的）绒羽，绒毛”",
         "a velvet dress：天鹅绒连衣裙",
         "velvet curtains \/ drapes：天鹅绒窗帘 \/ 帷幕",
-        "with a velvet collar：带天鹅绒衣领"
+        "with a velvet collar：带天鹅绒衣领",
+        "velvet curtains；天鹅绒窗帘\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "丝绒，天鹅绒",
-      "etymology" : "Early 14c., probably from Old Provençal veluet, literally “shaggy cloth,” from Latin villus “shaggy hair, nap of cloth, hair, down：某些织物的短绒 毛；（鸟的）绒羽，绒毛” 。",
+      "etymology" : "Early 14c., probably from Old Provençal veluet, literally “shaggy cloth,” 。",
       "examples" : [
 
       ],
@@ -97,11 +105,12 @@
     },
     {
       "collocations" : [
-        "feel a revulsion against：对……感到厌恶"
+        "feel a revulsion against：对……感到厌恶",
+        "Most people viewed the bombings with revulsion.\n大多数人对爆炸事件表现出惊恐不安。"
       ],
       "definition" : "极端厌恶；深恶痛绝；惊恐",
       "examples" : [
-        "She felt a deep sense of revulsion at the violence.\n她对这一暴行深恶痛绝。\nMost people viewed the bombings with revulsion.\n大多数人对爆炸事件表现出惊恐不安。"
+        "She felt a deep sense of revulsion at the violence.\n她对这一暴行深恶痛绝。"
       ],
       "frequency" : 16381,
       "mnemonic" : "re-（=away：离开）+ vuls-（=to pull：拉；拔；撕开）+ -ion（名词\n后缀）→（猛烈、暴力地）拔出、撕开的行为→深恶痛绝；惊恐",

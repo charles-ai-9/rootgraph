@@ -13,13 +13,19 @@
   "words" : [
     {
       "collocations" : [
-        "power an electric car：驱动一辆电动汽车"
+        "authority; authorization; military force, an army,” from Anglo-French",
+        "pouair, Old French povoir, noun use of the infinitive, “to be able,” earlier",
+        "power an electric car：驱动一辆电动汽车",
+        "electric power：电力",
+        "economic power：经济强国",
+        "the power struggle：权力斗争\nto take \/ seize \/ lose power：掌握 \/ 夺取 \/ 失掉政权"
       ],
-      "definition" : "权力；能力；（法律赋予的）权力；强国 vt. 为……提供动",
-      "etymology" : "c. 1300, “ability; ability to act or do; strength, vigor, might,” especially in battle; “efficacy; control, mastery, lordship, dominion; legal power or authority; authorization; military force, an army,” from Anglo-French pouair, Old French povoir, noun use of the infinitive, “to be able,” earlier podir (9c.), from Vulgar Latin *potere, from Latin potis “powerful” (from PIE root *poti- “powerful; lord”).",
+      "definition" : "权力；能力；（法律赋予的）权力；强国 vt. 为……提供动力 n. 电动的",
+      "etymology" : "c. 1300, “ability; ability to act or do; strength, vigor, might,” especially in battle; “efficacy; control, mastery, lordship, dominion; legal power or podir (9c.), from Vulgar Latin *potere, from Latin potis “powerful” (from PIE root *poti- “powerful; lord”).",
       "examples" : [
         "His power extends beyond the seas. 他的势力扩展到海外。"
       ],
+      "frequency" : 272,
       "mnemonic" : "power：ability to act or do→能力；权力；动力",
       "phonetic" : "ˈpaʊə",
       "pos" : "n.",
@@ -29,7 +35,8 @@
     {
       "collocations" : [
         "an immensely powerful organization：有巨大影响力的组织",
-        "a powerful engine：大功率引擎"
+        "a powerful engine：大功率引擎",
+        "a powerful image \/ drug \/ speech：\n鲜明的形象；有奇效的药物；有力的演说"
       ],
       "definition" : "有影响力的；强有力的；效力大的",
       "examples" : [
@@ -101,7 +108,8 @@
     },
     {
       "collocations" : [
-        "a need for trained \/ skilled manpower：对受过培训的 \/ 熟练的劳动力的需"
+        "a need for trained \/ skilled manpower：对受过培训的 \/ 熟练的劳动力的需",
+        "a manpower shortage：劳动力短缺"
       ],
       "definition" : "人力；劳动力",
       "examples" : [
@@ -165,10 +173,11 @@
         "high-powered lasers：大功率激光器",
         "a high-powered lawyer：身居要职的律师。"
       ],
-      "definition" : "大功率的；（人）身居要职的；（职位）要",
+      "definition" : "大功率的；（人）身居要职的；（职位）要求高的",
       "examples" : [
 
       ],
+      "frequency" : 12874,
       "mnemonic" : "high（高的）+ powered（由……驱动的）→高功率驱动的，（职位）\n要求高的→大功率的；（人）身居要职的",
       "phonetic" : "ˈhaiˈpauəd",
       "pos" : "adj.",
@@ -177,7 +186,8 @@
     },
     {
       "collocations" : [
-        "superior firepower：更胜一筹的火力"
+        "superior firepower：更胜一筹的火力",
+        "unroll firepower：火力全开"
       ],
       "definition" : "（军队、舰船等的）火力",
       "examples" : [

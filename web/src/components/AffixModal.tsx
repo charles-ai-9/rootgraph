@@ -354,6 +354,14 @@ export function AffixModal({
                   placeholder={KIND_PLACEHOLDER[kind]}
                   onChange={(e) => { updateLocal('current', e.target.value); setLookup(e.target.value); }}
                   onBlur={() => note.current.trim() && tryAutoLink(note.current)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      e.preventDefault();
+                      // 与失焦一致：Enter 即完成输入，命中库内条目则自动绑定
+                      if (note.current.trim()) tryAutoLink(note.current);
+                      (e.target as HTMLInputElement).blur();
+                    }
+                  }}
                 />
                 {currentForm && (
                   isNewAffix

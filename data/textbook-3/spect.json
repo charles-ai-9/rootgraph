@@ -15,14 +15,18 @@
       "word": "spectator",
       "phonetic": "spek'tertə",
       "pos": "n.",
-      "definition": "( 尤指体育比赛的)观众；旁观者5282",
-      "frequency": null,
+      "definition": "( 尤指体育比赛的)观众；旁观者",
+      "frequency": 5282,
       "mnemonic": "spect-(=look at, 观看)+ator(=ate+or: 表人) → 观看的人 → (尤指 体育比赛的)观众\naudi-(=au:to perceive,to hear: 感知，理解，听见)+-ence ( 名词后 缀)→进行感知、理解、听见的人→观看戏剧、音乐会、电视、广播 的观众；读者；听众",
       "collocations": [
         "spectator sport: 吸引大量观众的体育运动",
         "an impassive spectator: 冷漠的旁观者 释义：(N-COUNT)(尤指体育比赛的)观众",
+        "A spectator is someone who watches something,especially a sporting event.\n区别：spectator和audience ['ɔ:dions] n. ( 戏剧、音乐会、演讲、电视或广播 节目等的)观众，(同一事物的)观众，读者，听众；(与要人的) 会见，拜见",
         "TV/cinema/movie audiences: 电视/电影院/电影观众 an audience with the Pope: 觐见教皇",
-        "an onlooker: 比喻坐观胜负而不帮助任何一方"
+        "audience rating n. 收视率；视听率\n同义词：onlooker ['pnluks] n. 旁观者；观众(等于spectator)13280",
+        "an onlooker: 比喻坐观胜负而不帮助任何一方",
+        "释义：(N-COUNT) 旁观者",
+        "An onlooker is someone who watches an event take place but does not take part in it."
       ],
       "etymology": "1580s,from Latin spectator \"viewer,watcher,\"from past participle stem of spectare “to view,watch”.Spectator sport is attested from 1943.",
       "examples": [],
@@ -32,11 +36,13 @@
       "word": "inspect",
       "phonetic": "in'spekt",
       "pos": "vt.",
-      "definition": "检查；审视；视察；检阅5088",
-      "frequency": null,
+      "definition": "检查；审视；视察；检阅",
+      "frequency": 5088,
       "mnemonic": "in(=into: 向 内 ) +spect(=spek-:to look,observe,inspect, examine: 观察，检查，视察) → 向内观察，检查，视察 →检查；审 视；视察",
       "collocations": [
-        "inspect sth.for sth.(如：inspect the venue for safety): 为了……而做检 查(检查会场的安全性)"
+        "inspect sth.for sth.(如：inspect the venue for safety): 为了……而做检 查(检查会场的安全性)",
+        "If you inspect something,you look at every part of it carefully in order to find out about it or check that it is all right.\n(VERB)视察；检阅",
+        "When an official inspects a place or a group of people,they visit it and check it carefully,for example in order to find out whether regulations are being obeyed."
       ],
       "etymology": null,
       "examples": [],
@@ -46,8 +52,8 @@
       "word": "inspector",
       "phonetic": "n'spekta",
       "pos": "n.",
-      "definition": "检查员；督察员；英国警察中职位低于警司高于巡",
-      "frequency": null,
+      "definition": "检查员；督察员；英国警察中职位低于警司高于巡佐的(巡官，督察；美国警察中仅次于总警监的)督察长",
+      "frequency": 3582,
       "mnemonic": "inspect (检查，视察)+-or ( 名词后缀，表人)→检查员；督察员",
       "collocations": [
         "...San Francisco police inspector: ……旧金山市巡官 state safety inspectors: 国家安全监察员"
@@ -60,8 +66,8 @@
       "word": "inspection",
       "phonetic": "in'spekʃn",
       "pos": "n.",
-      "definition": "视察；检查3622",
-      "frequency": null,
+      "definition": "视察；检查",
+      "frequency": 3622,
       "mnemonic": "inspect (检查，视察)+-ion ( 名词后缀) →视察；检查",
       "collocations": [
         "border inspections: 边境检查",
@@ -76,8 +82,8 @@
       "word": "expect",
       "phonetic": "ik'spekt",
       "pos": "vt.",
-      "definition": "预料；(常指因已安排而)预期；认为应当得到；要 求；期望；怀孕406",
-      "frequency": null,
+      "definition": "预料；(常指因已安排而)预期；认为应当得到；要 求；期望；怀孕",
+      "frequency": 406,
       "mnemonic": "ex-(=out,thoroughly: 向外，完全地) → 向外看，完全地把眼光定 睛于……事情或方向→预计、期待、指望……会发生，仰赖、相信、 依靠……会发生→预料；预期；要求；期望；怀孕(指望婴儿会降生)",
       "collocations": [
         "expect sth(of/from sb): 对某人有……指望；期待",
@@ -92,8 +98,8 @@
       "word": "expected",
       "phonetic": "ik'spektid",
       "pos": "adj.",
-      "definition": "预料的；预期的4349",
-      "frequency": null,
+      "definition": "预料的；预期的",
+      "frequency": 4349,
       "mnemonic": "expect (预料，预期)+-ed ( 形容词后缀) →预料地；预期地",
       "collocations": [
         "expected earnings: 预计收入"
@@ -106,15 +112,15 @@
       "word": "expectation",
       "phonetic": "ekspek'terʃ(ə)n",
       "pos": "n.",
-      "definition": "期望；预期；指望1903",
-      "frequency": null,
-      "mnemonic": "expect ( 期望，预期，指望)+-ation( 名词后缀)→期望；预期；指望",
+      "definition": "期望；预期；指望",
+      "frequency": 1903,
+      "mnemonic": "趣保多 20000词汇巅峰返 助记：expect ( 期望，预期，指望)+-ation( 名词后缀)→期望；预期；指望搭配：expectation of life: 预期寿命in expectation: 意料之中contrary to expectations: 出乎意料的是against all expectations: 完全没想到expectation(of sth)/ expectation(that...): 对……有期待笔 记 区\nexpect ( 期望，预期，指望)+-ation( 名词后缀)→期望；预期；指望",
       "collocations": [
         "expectation of life: 预期寿命",
         "in expectation: 意料之中",
         "contrary to expectations: 出乎意料的是",
         "against all expectations: 完全没想到",
-        "expectation(of sth)/ expectation(that...): 对……有期待"
+        "expectation(of sth)/ expectation(that...): 对……有期待\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -128,7 +134,8 @@
       "frequency": 17355,
       "mnemonic": "expect ( 期待，期望，怀孕)+-ant ( 形容词后缀) →期待的；期望的 (await, desire,hope); 怀孕的",
       "collocations": [
-        "an expectant crowd: 满怀期待的一群人"
+        "an expectant crowd: 满怀期待的一群人",
+        "….a magazine for expectant mothers:…… 一本适合孕妇的杂志"
       ],
       "etymology": null,
       "examples": [],
@@ -138,8 +145,8 @@
       "word": "expectantly",
       "phonetic": "iks'pektəntli",
       "pos": "adv.",
-      "definition": "期望地；期待地18996",
-      "frequency": null,
+      "definition": "期望地；期待地",
+      "frequency": 18996,
       "mnemonic": "expectant (期望的，期待的)+-ly (副词后缀) →期望地；期待地",
       "collocations": [
         "look at sb.expectantly: 用期待地眼光看某人"
@@ -152,12 +159,13 @@
       "word": "expectancy",
       "phonetic": "ik'spekt(a)nsi;ek-",
       "pos": "n.",
-      "definition": "期望；期待7802",
-      "frequency": null,
+      "definition": "期望；期待",
+      "frequency": 7802,
       "mnemonic": "expect ( 期望，期待)+-ancy ( 名词后缀) →期望；期待",
       "collocations": [
         "a tremendous air of expectancy: 满怀期待",
-        "life expectancy: 预期寿命 释义：(N-UNCOUNT) 期待；期望"
+        "life expectancy: 预期寿命 释义：(N-UNCOUNT) 期待；期望",
+        "Expectancy is the feeling or hope that something exciting,interesting,or good is about to happen."
       ],
       "etymology": null,
       "examples": [],
@@ -167,12 +175,12 @@
       "word": "unexpected",
       "phonetic": "ʌnik'spektid;ʌnek- ",
       "pos": "adj.",
-      "definition": "出人意料的3602",
-      "frequency": null,
+      "definition": "出人意料的",
+      "frequency": 3602,
       "mnemonic": "un-(=not: 不 ) +expect ( 预料；期待)+-ed ( 形容词后缀) →没有 预料到的→ 出乎意料的",
       "collocations": [
         "unexpected appearance: 出人意料地露了一面",
-        "unexpected accident: 不能预料的事故"
+        "unexpected accident: 不能预料的事故\n20000词汇巅峰"
       ],
       "etymology": null,
       "examples": [],
@@ -182,8 +190,8 @@
       "word": "unexpectedly",
       "phonetic": "'ʌnik'spektidli",
       "pos": "adv.",
-      "definition": "出乎意料地；意外地7571",
-      "frequency": null,
+      "definition": "出乎意料地；意外地",
+      "frequency": 7571,
       "mnemonic": "unexpected(出乎意料的)+-ly ( 副词后缀)→ 出乎意料地；意外地",
       "collocations": [
         "unexpectedly knock on the door: 意外地敲门",
@@ -203,11 +211,12 @@
       "collocations": [
         "good job/employment/career prospects美好的工作/就业/事业前途",
         "prospect (of sth/of doing sth)/prospect (that...):…… 的可能性，希 望，前景",
-        "prospect for oil, gold,minerals: 勘探石油，金子，探矿"
+        "prospect for oil, gold,minerals: 勘探石油，金子，探矿",
+        "wealthy doesn't keep plutocrats ( 有钱有势的人)up at night.\n但是，收入不公平将会导致更高的税收这一展望并没有让有钱有势的 人夜里睡不着。"
       ],
       "etymology": null,
       "examples": [
-        "But the prospect that income inequality will lead to higher taxes on the\nwealthy doesn't keep plutocrats ( 有钱有势的人)up at night.\n但是，收入不公平将会导致更高的税收这一展望并没有让有钱有势的 人夜里睡不着。"
+        "But the prospect that income inequality will lead to higher taxes on the"
       ],
       "rootHint": "spect"
     },
@@ -215,11 +224,12 @@
       "word": "prospector",
       "phonetic": "prəu'spektə",
       "pos": "n.",
-      "definition": "勘探者；探矿者18798",
-      "frequency": null,
+      "definition": "勘探者；探矿者",
+      "frequency": 18798,
       "mnemonic": "prospect ( 勘 探 )+-or ( 名词后缀，表人) →勘探自然资源的人 → 勘探者",
       "collocations": [
-        "Lunar Prospector: 月亮探测器"
+        "Lunar Prospector: 月亮探测器",
+        "A prospector is a person who searches for the natural occurrence of gold, petroleum,etc"
       ],
       "etymology": null,
       "examples": [],
@@ -229,11 +239,15 @@
       "word": "prospectus",
       "phonetic": "pra'spektəs",
       "pos": "n.",
-      "definition": "( 学校、公司等的)章程，简章；(企业的)招 股章程，募股章程20134",
-      "frequency": null,
+      "definition": "( 学校、公司等的)章程，简章；(企业的)招 股章程，募股章程",
+      "frequency": 20134,
       "mnemonic": "来自法语prospectus, 直接借用自拉丁语prospectus, 含义为“景\n色”→后来引申为学校、企业(股份)的概览→简章；招股章程",
       "collocations": [
-        "...a prospectus for a new issue of stock: ……新发行股票的招股说明书 school prospectus: 学院课程手册"
+        "...a prospectus for a new issue of stock: ……新发行股票的招股说明书 school prospectus: 学院课程手册",
+        "释义：(N-COUNT)(学校、公司等的)章程，简章，说明书",
+        "A prospectus is a detailed document produced by a college,school,or company,which gives details about it.",
+        "(N-COUNT)(business 商)",
+        "A prospectus is a document that gives information about a company's shares before they are offered for sale."
       ],
       "etymology": "1765,from French prospectus(1723)and directly from Latin prospectus \"view\"",
       "examples": [],
@@ -244,11 +258,13 @@
       "phonetic": "prə'spektrv",
       "pos": "adj.",
       "definition": "(ADJ) 可能成为的；预期的；可能即将发生的",
-      "frequency": null,
+      "frequency": 5487,
       "mnemonic": "prospec t ( 可能性；希望；将要发生的事；预期)+-ive ( 形容词后 缀)→可能成为的；预期的；可能将要发生的事情",
       "collocations": [
         "prospective customers: 潜在顾客",
-        "prospective purchasers: 可能的购买者 释义：(ADJ) 想要成为的；可能成为的"
+        "prospective purchasers: 可能的购买者 释义：(ADJ) 想要成为的；可能成为的",
+        "You use prospective to describe someone who wants to be the thing mentioned or who is likely to be the thing mentioned.\n(ADJ) 可能即将发生的",
+        "You use prospective to describe something that is likely to happen soon. 区别：prospective和perspective"
       ],
       "etymology": null,
       "examples": [],
@@ -258,15 +274,19 @@
       "word": "perspective",
       "phonetic": "pə'spektrv",
       "pos": "n.",
-      "definition": "( 尤指受到某种思想、经验影响的)思考方法，",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "( 尤指受到某种思想、经验影响的)思考方法，态度，观点，角度； in/out of perspective正确/不正确地看待(或判断)n. 透视画法",
+      "frequency": 1419,
+      "mnemonic": "笔记区助记：per-(=through: 贯穿，透过)+-spect(=look at: 看) → 贯穿地看， 透过某种视角观看而得到的思考方式、角度、态度→ (尤指受到某种 思想、经验影响的)思考方法；态度；观点；角度；透视画法",
       "collocations": [
         "from a cross-cultural/global perspective: 从一个跨文化/全球的视角来看 in perspective or into perspective: 正确地看待(或判断)",
         "out of perspective: 不正确地看待(或判断)",
-        "perspective shadow: 透视阴影"
+        "perspective shadow: 透视阴影",
+        "释义：(N-COUNT) ( 尤指受到某种思想、经验影响的)思考方法，态度， 观点，角度",
+        "A particular perspective is a particular way of thinking about something, especially one that is influenced by your beliefs or experiences.\n(PHRASE) 正确/不正确地看待(或判断)",
+        "If you get something in perspective or into perspective,you judge its real importance by considering it in relation to everything else.If you get something out of perspective,you fail to judge its real importance in relation to everything else.\n(N-UNCOUNT) 透视画法",
+        "Perspective is the art of making some objects or people in a picture look further away than others."
       ],
-      "etymology": "late 14c.,\"science of optics,\"from Old French perspective and directly from Medieval Latin perspectiva ars\"science of optics,\"from fem.of perspectivus \"of sight,optical”from Latin perspectus \"clearly perceived,\" past participle of perspicere “inspect,look through,look closely at”.Sense of“art of drawing objects so as to give appearance of distance or depth” is first found 1590s,influenced by Italian prospettiva,an artists'term.The figurative meaning “mental outlook over time”is first recorded 1762. 笔记区助记：per-(=through: 贯穿，透过)+-spect(=look at: 看) → 贯穿地看， 透过某种视角观看而得到的思考方式、角度、态度→ (尤指受到某种 思想、经验影响的)思考方法；态度；观点；角度；透视画法",
+      "etymology": "late 14c.,\"science of optics,\"from Old French perspective and directly from Medieval Latin perspectiva ars\"science of optics,\"from fem.of perspectivus \"of sight,optical”from Latin perspectus \"clearly perceived,\" past participle of perspicere “inspect,look through,look closely at”.Sense of“art of drawing objects so as to give appearance of distance or depth” is first found 1590s,influenced by Italian prospettiva,an artists'term.The figurative meaning “mental outlook over time”is first recorded 1762.",
       "examples": [
         "From an economic perspective,it is reasonable to ask for a reward after doing a good deed.From an economic angle,requiring/demanding a reward after doing a good deed is reasonable.\n从经济的视角来看，做好事要求回报是也合理的。"
       ],
@@ -276,11 +296,12 @@
       "word": "introspection",
       "phonetic": "intrə(u)'spekʃ(ə)n",
       "pos": "n.",
-      "definition": "内省；反思；自省18716",
-      "frequency": null,
+      "definition": "内省；反思；自省",
+      "frequency": 18716,
       "mnemonic": "intro-(=inward: 向内)+spect-(=to look at: 看)+-ion ( 名词后缀) → 向内心看，仔细检查自己的内心→ 内省；反思",
       "collocations": [
-        "moments of quiet introspection: 安静自省的时候"
+        "moments of quiet introspection: 安静自省的时候",
+        "Introspection is the examining of your own thoughts,ideas,and feelings."
       ],
       "etymology": "1670s,“action of closely inspecting or examining,”noun of action from past participle stem of Latin introspicere “to look into,look at,examine, observe attentively”.Meaning“action of searching one's feelings or thoughts”is from 1807.",
       "examples": [],
@@ -290,10 +311,12 @@
       "word": "introspective",
       "phonetic": "intra'spektrv",
       "pos": "adj.",
-      "definition": "内省的；反省的18365",
-      "frequency": null,
+      "definition": "内省的；反省的",
+      "frequency": 18365,
       "mnemonic": "intro-(=inward: 向内)+spect-(=to look at: 看)+ -ive ( 形容词后\n缀)→ 向内心看的→ 内省的；反思的；自省的 搭配：introspective psychology: 内省心理学",
-      "collocations": [],
+      "collocations": [
+        "Introspective people spend a lot of time examining their own thoughts, ideas,and feelings."
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "spect"
@@ -302,11 +325,12 @@
       "word": "retrospect",
       "phonetic": "'retrəspekt",
       "pos": "n.",
-      "definition": "回溯；回想；追忆8507",
-      "frequency": null,
+      "definition": "回溯；回想；追忆",
+      "frequency": 8507,
       "mnemonic": "retro-(=back: 向后地，过去的)+-spect(=look at: 看) → 向后看 → 回溯、审视过去发生的事情→ 回溯；回想",
       "collocations": [
-        "in retrospect: 回顾往事，回想起来"
+        "in retrospect: 回顾往事，回想起来",
+        "When you consider something in retrospect,you think about it afterwards, and often have a different opinion about it from the one that you had at the time."
       ],
       "etymology": null,
       "examples": [],
@@ -316,8 +340,8 @@
       "word": "retrospective",
       "phonetic": "retrə(u)'spektiv",
       "pos": "n.",
-      "definition": "( 艺术家作品的)回顾展adj. 回顾的；回",
-      "frequency": null,
+      "definition": "( 艺术家作品的)回顾展adj. 回顾的；回想的；可追溯的；(法律、法律行为等)有追溯效力的",
+      "frequency": 9242,
       "mnemonic": "retrospect (回溯，回想)+-ive ( 形容词后缀) → 回溯的；可追溯 的；引申为法律等有追溯效力的",
       "collocations": [
         "retrospective legislation: 有追溯效力的立法",
@@ -333,10 +357,15 @@
       "phonetic": " kon'spikjus",
       "pos": "adj.",
       "definition": "显眼的；引人注目的；因缺席而引人注意的",
-      "frequency": null,
-      "mnemonic": "con(=com: 表加强语气)+-spic-(=to look at: 看 ) +u ( 无意义)\n+-ous ( 形容词后缀)→大家都能看见的→显眼的；引人注目的 搭配：conspicuous consumption: 炫耀性消费，摆阔，挥霍\nconspicuous position: 显眼的位置 反义词：inconspicuous",
-      "collocations": [],
-      "etymology": "1540s,“open to view,catching the eye,\"from Latin conspicuus \"visible, open to view;attracting attention,striking,\"from conspicere \"to look at observe,see,notice”.Meaning “obvious to the mind,forcing itself upon the attention\"is from 1610s;hence “eminent,notable,distinguished.”",
+      "frequency": 9593,
+      "mnemonic": "con(=com: 表加强语气)+-spic-(=to look at: 看 ) +u ( 无意义)\n+-ous ( 形容词后缀)→大家都能看见的→显眼的；引人注目的 搭配：conspicuous consumption: 炫耀性消费，摆阔，挥霍",
+      "collocations": [
+        "the attention\"is from 1610s;hence “eminent,notable,distinguished.”",
+        "conspicuous position: 显眼的位置 反义词：inconspicuous\n释义：(ADJ-GRADED)显眼的；引人注目的",
+        "If someone or something is conspicuous,people can see or notice them very easily.\n(PHRASE) 因缺席而引人注意的",
+        "If you say that someone or something is conspicuous by their absence,you are drawing attention to the fact that they are not in a place or situation where you think they should be."
+      ],
+      "etymology": "1540s,“open to view,catching the eye,\"from Latin conspicuus \"visible, open to view;attracting attention,striking,\"from conspicere \"to look at observe,see,notice”.Meaning “obvious to the mind,forcing itself upon",
       "examples": [],
       "rootHint": "spect"
     },
@@ -344,8 +373,8 @@
       "word": "conspicuously",
       "phonetic": "kəns'pikjuəsli",
       "pos": "adv.",
-      "definition": "显著地；明显地；超群地14833",
-      "frequency": null,
+      "definition": "显著地；明显地；超群地",
+      "frequency": 14833,
       "mnemonic": "conspicuous (显眼的，引人注目的)+-ly ( 副词后缀) → 显著地； 明显地",
       "collocations": [
         "project conspicuously above: 明显突出于……之上",
@@ -359,18 +388,28 @@
       "word": "aspect",
       "phonetic": "'æspekt",
       "pos": "n.",
-      "definition": "方面；特性；(建筑物或窗的)朝向；(事物的)外 观；样子；(语法中动词的)体1364",
-      "frequency": null,
+      "definition": "方面；特性；(建筑物或窗的)朝向；(事物的)外 观；样子；(语法中动词的)体",
+      "frequency": 1364,
       "mnemonic": "a(=ad: 去 ) +spect(=to look,to observe: 看) → (星体)相互观看 对方→原本是一个天文学术语，表示星体的相对位置→观看某个特 定方向，看待事物的方式，事物呈现出来的外观→方面；特性；朝 向；外观\n邪解：a ( 爱)+spect ( 看) → 爱看( spect) 美女“外表”,不管“其他方面”\nre-(=back : 回，向后)+ spect(=look at)→向后看，再一次思考、 考虑→表示某人或事的行为或特性引起了尊重的感情→ 由于某人或事 物的价值或特征引发了礼貌地或体贴的对待→尊重；敬重",
       "collocations": [
         "a south-west aspect: (房子)面向西南",
         "from every aspect: 从各个角度",
+        "an important/key/positive aspect重要/关键/积极有利的方面",
+        "respec t [ri'spekt] vt. 尊重；遵从；遵守，遵守(法律或道德规范) n. 尊\n敬；遵守；顾及1563",
         "with respect: 恕我直言，恕我冒昧(用于礼貌地表示不同意见或批评)",
-        "pay respects to: 探望，拜访(以示敬意)"
+        "pay respects to: 探望，拜访(以示敬意)\n20000词汇巅峰速记班",
+        "pay last respects to: 和(死者)告别；参加……的葬礼",
+        "in this respect and in many respects: 在这个方面/在许多方面",
+        "with respect to/in respect of: 关于，至于(英国英语中也用in respect of) respect oneself: 自重\n释义：(VERB) 尊敬；敬重；尊重",
+        "If you respect someone,you have a good opinion of their character or ideas.\n(N-UNCOUNT) 尊敬；敬重；尊重",
+        "If you have respect for someone,you have a good opinion of them.\n( VERB) 尊重；遵守；遵从；顾及",
+        "If you respect someone's wishes,rights,or customs,you avoid doing things that they would dislike or regard as wrong.\n( N-UNCOUNT)尊重；遵守；遵从；顾及",
+        "If you show respect for someone's wishes,rights,or customs,you avoid doing anything they would dislike or regard as wrong.\n(VERB) 遵守，遵从(法律或道德规范)",
+        "If you respect a law or moral principle,you agree not to break it."
       ],
       "etymology": "respect(n.):late 14c.,\"relationship,relation;regard,consideration,\"from Old French respect and directly from Latin respectus \"regard,a looking at,\"literally“act of looking back(or often)at one,\"noun use of past participle of respicere “look back at,regard,consider”.Meanings \"feeling of esteem excited by actions or attributes of someone or something; courteous or considerate treatment due to personal worth or power”are from 1580s,as is sense of“point,particular feature.” respect(vt.):1540s,\"to regard,notice with especial attention,\"from Middle French respecter \"look back;respect;delay,\"from Latin respectere, frequentative of respicere “look back at,regard,consider”.Meaning \"treat with deferential regard or esteem,regard with some degree of reverence” is from 1550s.Sense of \"refrain from injuring or interfering with\"is from 1620s.Meaning \"have reference to,relate to\"is from 1560s.Related: Respected;respecting.",
       "examples": [
-        "It is these commercial provisions that are proving the settlement's most controversial aspect\n正是这些商业条款证实了协议中最有争议的方面。(2011.12)\nrespec t [ri'spekt] vt. 尊重；遵从；遵守，遵守(法律或道德规范) n. 尊\n敬；遵守；顾及1563"
+        "It is these commercial provisions that are proving the settlement's most controversial aspect\n正是这些商业条款证实了协议中最有争议的方面。(2011.12)"
       ],
       "rootHint": "spect"
     },
@@ -378,12 +417,13 @@
       "word": "respected",
       "phonetic": "ri'spektid",
       "pos": "adj.",
-      "definition": "受尊敬的；受敬重的；受重视的6672",
-      "frequency": null,
+      "definition": "受尊敬的；受敬重的；受重视的",
+      "frequency": 6672,
       "mnemonic": "respect ( 尊敬，敬重)+-ed ( 形容词后缀)→受尊敬的；受敬重的",
       "collocations": [
         "a highly respected journalist: 一位深受尊敬的记者",
-        "be highly/well/widely/greatly respected for: 因为……而极受尊重 be respected as: 被尊为"
+        "be highly/well/widely/greatly respected for: 因为……而极受尊重 be respected as: 被尊为",
+        "Someone or something that is respected is admired and considered important by many people."
       ],
       "etymology": null,
       "examples": [],
@@ -393,8 +433,8 @@
       "word": "respectful",
       "phonetic": "r'spek(t)ful;-f(a)l",
       "pos": "adj.",
-      "definition": "尊重的；有礼貌的；恭敬的8536",
-      "frequency": null,
+      "definition": "尊重的；有礼貌的；恭敬的",
+      "frequency": 8536,
       "mnemonic": "respect ( 尊重，敬重)+-ful ( 形容词后缀，表示充满……的)→充满 对……的尊重；有礼貌的；恭敬地",
       "collocations": [
         "respectful manner/language: 尊重的态度/语言",
@@ -408,8 +448,8 @@
       "word": "respectfully",
       "phonetic": "rr'spektfuli ",
       "pos": "adv.",
-      "definition": "尊敬地；恭敬地12761",
-      "frequency": null,
+      "definition": "尊敬地；恭敬地",
+      "frequency": 12761,
       "mnemonic": "respectful (尊重人的，恭敬的)+-ly ( 副词后缀) →尊重地；恭敬地",
       "collocations": [
         "respectfully oblige: 恭敬地遵守"
@@ -422,12 +462,13 @@
       "word": "respective",
       "phonetic": "r'spektiv",
       "pos": "adj.",
-      "definition": "分别的；各自的5971",
-      "frequency": null,
+      "definition": "分别的；各自的",
+      "frequency": 5971,
       "mnemonic": "re-(=back: 回，向后)+-spect-(=look at)+-ive ( 形容词后缀) → 向后看的 → 需要反复看、各自分开看、分别查看的人或事物 →分别 的；各自的",
       "collocations": [
         "reflect on their respective mistakes: 反省他们各自的错误 respective roles: 各自的角色",
-        "respective fields: 各自的领域 释义：(ADJ) 分别的；各自的"
+        "respective fields: 各自的领域 释义：(ADJ) 分别的；各自的",
+        "Respective means relating or belonging separately to the individual people you have just mentioned."
       ],
       "etymology": "mid-15c.,“regardful,observing or noting with attention”.Meaning \"relating or pertaining severally each to each\"is from 1640s.",
       "examples": [],
@@ -437,12 +478,13 @@
       "word": "respectively",
       "phonetic": "ri'spektrvli",
       "pos": "adv.",
-      "definition": "分别地；各自地3762",
-      "frequency": null,
+      "definition": "分别地；各自地",
+      "frequency": 3762,
       "mnemonic": "respective (分别的，各自的)+-ly ( 副词后缀) → 分别地；各自地",
       "collocations": [
         "discuss respectively: 分别讨论",
-        "consider respectively: 分别考虑 释义：(ADV) 分别地；各自地"
+        "consider respectively: 分别考虑 释义：(ADV) 分别地；各自地",
+        "Respectively means in the same order as the items that you have just mentioned."
       ],
       "etymology": null,
       "examples": [],
@@ -452,8 +494,8 @@
       "word": "respecting",
       "phonetic": "ri'spektrŋ",
       "pos": "prep.",
-      "definition": "关于；至于；鉴于(=with respect to)vt.",
-      "frequency": null,
+      "definition": "关于；至于；鉴于(=with respect to)vt.( respect的现在分词)尊重；慎重对待；思考",
+      "frequency": 15062,
       "mnemonic": null,
       "collocations": [
         "information respecting the child's whereabouts: 关于孩子下落的消息",
@@ -467,14 +509,16 @@
       "word": "respectable",
       "phonetic": "r'spektəb(a)l",
       "pos": "adj.",
-      "definition": "体面的；可敬的；正派的；好的；可观的； 令人满意的7484",
-      "frequency": null,
+      "definition": "体面的；可敬的；正派的；好的；可观的； 令人满意的",
+      "frequency": 7484,
       "mnemonic": "respect ( 尊敬)+-able(=worthy of: 形容词后缀，值得……的) →值 得尊敬的",
       "collocations": [
         "a perfectly respectable middle-class family: 一个非常正派的中产阶 级家庭",
         "a highly respectable hotel: 一家非常体面的旅馆",
         "a perfectly respectable result: 非常好的结果",
-        "something respectable to wear: 体面的衣服"
+        "something respectable to wear: 体面的衣服\n释义：(ADJ-GRADED)体面的；可敬的；正派的",
+        "Someone or something that is respectable is approved of by society and considered to be morally correct.\n(ADJ-GRADED)好的；可观的；令人满意的",
+        "You can say that something is respectable when you mean that it is good enough or acceptable."
       ],
       "etymology": "\"worthy of esteem,\"1580s.Sense of \"having an honest reputation\"is from 1755.That of \"occupying a fairly good position in society\"is c.1800. Related:Respectably.",
       "examples": [],
@@ -485,7 +529,7 @@
       "phonetic": "rI,spektə'brltr",
       "pos": "n.",
       "definition": "体面；名望；得体；可尊敬；有社会地位",
-      "frequency": null,
+      "frequency": 15525,
       "mnemonic": "respectable (体面的，可尊敬的，正派的)+-ity ( 名词后缀) → 体 面；名望；得体",
       "collocations": [
         "a gloss of respectability: 一副受人尊敬的假象",
@@ -502,10 +546,11 @@
       "phonetic": "ir'spektrv",
       "pos": "adj.",
       "definition": "不考虑……的；不顾……的；不受……影响的",
-      "frequency": null,
+      "frequency": 14972,
       "mnemonic": "in-(=not,opposite of: 不，非，与……相反)+respective(regardful= 留心的，表示敬意的，深切注意的) →不留心的，不注意的，不关 心的→不考虑……的，不顾……的，不受……影响的( without taking account of particular circumstances or conditions,not observing or noting with attention)",
       "collocations": [
-        "irrespective of race/ethnic origin: 不分种族/种族出身"
+        "irrespective of race/ethnic origin: 不分种族/种族出身",
+        "If you say that something happens or should happen irrespective of a particular thing,you mean that it is not affected or should not be affected by that thing."
       ],
       "etymology": null,
       "examples": [],
@@ -515,8 +560,8 @@
       "word": "disrespect",
       "phonetic": "disri'spekt",
       "pos": "n.",
-      "definition": "不尊敬；无礼；轻蔑15179",
-      "frequency": null,
+      "definition": "不尊敬；无礼；轻蔑",
+      "frequency": 15179,
       "mnemonic": "dis-(=lack of,not: 缺少，不，表否定或反义前缀)+respect ( 尊敬) →不尊敬；无礼；轻蔑",
       "collocations": [
         "disrespect for/to sb/sth: 对某人/某事物无礼/不尊敬",
@@ -531,8 +576,8 @@
       "word": "disrespectful",
       "phonetic": "drsri'spek(t)f(u)l",
       "pos": "adj.",
-      "definition": "无礼的；不尊重的16703",
-      "frequency": null,
+      "definition": "无礼的；不尊重的",
+      "frequency": 16703,
       "mnemonic": "disrespec t ( 不尊敬，无礼)+-ful ( 形容词后缀，表示充满……的， 有……倾向的)→无礼的；不尊重的",
       "collocations": [
         "be disrespectful to the Queen: 对女王不敬"
@@ -545,12 +590,13 @@
       "word": "despise",
       "phonetic": "dr'sparz",
       "pos": "vt.",
-      "definition": "鄙视；藐视；看不起9211",
-      "frequency": null,
+      "definition": "鄙视；藐视；看不起",
+      "frequency": 9211,
       "mnemonic": "de-(=down: 向下，低)+spise(=to look at: 看) →to look down on/ upon,scorn : 看 低 ，轻蔑→鄙视；藐视；看不起",
       "collocations": [
         "despise gossip: 对流言蜚语嗤之以鼻",
-        "despise lies and liars: 鄙视谎言和说谎者 释义：(VERB)鄙视；藐视；看不起"
+        "despise lies and liars: 鄙视谎言和说谎者 释义：(VERB)鄙视；藐视；看不起",
+        "If you despise something or someone,you dislike them and have a very low opinion of them."
       ],
       "etymology": null,
       "examples": [],
@@ -560,10 +606,12 @@
       "word": "despicable",
       "phonetic": "dr'spikəb(ə)l;'desptk-",
       "pos": "adj.",
-      "definition": "可鄙的；卑鄙的16994",
-      "frequency": null,
+      "definition": "可鄙的；卑鄙的",
+      "frequency": 16994,
       "mnemonic": "de-(=down : 向下，低)+ spic(=to look at: 看)+-able ( 形容词后\n缀，可以被……的)→可以被看低、鄙视的→可鄙的；卑鄙的 搭配：a despicable act/crime: 卑劣的行为/罪行",
-      "collocations": [],
+      "collocations": [
+        "If you say that a person or action is despicable,you are emphasizing that they are extremely nasty,cruel,or evil."
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "spect"
@@ -572,8 +620,8 @@
       "word": "despite",
       "phonetic": "dr'spart",
       "pos": "prep.",
-      "definition": "尽管；虽然；不由自主；情不自禁742",
-      "frequency": null,
+      "definition": "尽管；虽然；不由自主；情不自禁",
+      "frequency": 742,
       "mnemonic": "de-(=down: 向下，低)+spite(=to look at: 看) → 向下、向低看， 不(抬眼)看，懒得看 →不管；不理；轻视；蔑视，挑战in defiance or contempt of→notwithstanding, in spite of: 尽管；虽然；不管；不顾",
       "collocations": [
         "despite/in spite that/although/though: 尽管",
@@ -590,14 +638,17 @@
       "word": "respite",
       "phonetic": "'respart; -sprt",
       "pos": "n.",
-      "definition": "( 不快事情中的)喘息；缓解；暂息；(不快或困",
-      "frequency": null,
+      "definition": "( 不快事情中的)喘息；缓解；暂息；(不快或困难的)暂缓；暂延",
+      "frequency": 13342,
       "mnemonic": "re-(=back: 向后，往回)+ spite(=spec-:to look at)→ (经常) 向后看的行为→停下来进行思考、考虑→喘息，暂息→引申义为暂 缓；暂延",
       "collocations": [
+        "looking back(or often)at one,\"noun use of past participle of respicere “look back at,regard,consider”.来自古法语respit, 延迟，来自拉丁语 respectus, 考虑，思考，引申词义暂停，暂缓。",
         "respite from the pain: 暂缓了疼痛",
-        "a brief respite: 一个短时间的暂缓"
+        "a brief respite: 一个短时间的暂缓\n释义：(N-SING)(不快事情中的)喘息，缓解，暂息",
+        "A respite is a short period of rest from something unpleasant. (N-SING) ( 不快或困难的)暂缓，暂延",
+        "A respite is a short delay before a very unpleasant or difficult situation which may or may not take place."
       ],
-      "etymology": "mid-13c.,from Old French respit “delay,respect”(Modern French répit), from Latin respectus “consideration,recourse,regard,\"literally “act of 20000词汇巅峰运趣一QD课n- 多 20000词汇巅峰运 looking back(or often)at one,\"noun use of past participle of respicere “look back at,regard,consider”.来自古法语respit, 延迟，来自拉丁语 respectus, 考虑，思考，引申词义暂停，暂缓。",
+      "etymology": "mid-13c.,from Old French respit “delay,respect”(Modern French répit), from Latin respectus “consideration,recourse,regard,\"literally “act of 20000词汇巅峰运趣一QD课n- 多 20000词汇巅峰运",
       "examples": [],
       "rootHint": "spect"
     },
@@ -605,8 +656,8 @@
       "word": "skeptic",
       "phonetic": "'skeptɪk",
       "pos": "n.",
-      "definition": "怀疑论者；怀疑者；无神论者8947",
-      "frequency": null,
+      "definition": "怀疑论者；怀疑者；无神论者",
+      "frequency": 8947,
       "mnemonic": "skep-(=scop,spec: 察看)+t+-ic ( 名词后缀，表是人) →仔细察 看、深思的人→对事物保持质疑态度的人，尤其是对宗教信仰持有质 疑态度的人",
       "collocations": [
         "a dertermined skeptic: 一个坚定的无神论者"
@@ -619,8 +670,8 @@
       "word": "skeptical",
       "phonetic": "'skeptrkəl",
       "pos": "adj.",
-      "definition": "怀疑的5016",
-      "frequency": null,
+      "definition": "怀疑的",
+      "frequency": 5016,
       "mnemonic": "skeptic(怀疑者，怀疑论者)+-al ( 形容词后缀)→怀疑的；怀疑论的",
       "collocations": [
         "skeptical scientists: 心存疑虑的科学家"
@@ -633,12 +684,13 @@
       "word": "skepticism",
       "phonetic": "'skept,sizəm",
       "pos": "n.",
-      "definition": "怀疑态度；怀疑主义7048",
-      "frequency": null,
+      "definition": "怀疑态度；怀疑主义",
+      "frequency": 7048,
       "mnemonic": "skeptic (怀疑者，怀疑论者)+-ism(名词后缀，表示主义)→怀疑 态度；怀疑主义",
       "collocations": [
         "a show of skepticism: 表示怀疑",
-        "be greeted with skepticism: 受到了质疑 释义：(N-UNCOUNT)怀疑态度；怀疑主义"
+        "be greeted with skepticism: 受到了质疑 释义：(N-UNCOUNT)怀疑态度；怀疑主义",
+        "Scepticism is great doubt about whether something is true or useful."
       ],
       "etymology": null,
       "examples": [],
@@ -648,13 +700,15 @@
       "word": "species",
       "phonetic": "'spi:fʃi:z;-frz;' spis -",
       "pos": "n.",
-      "definition": "( 动植物的)物种， 种1144",
-      "frequency": null,
+      "definition": "( 动植物的)物种， 种",
+      "frequency": 1144,
       "mnemonic": "来自拉丁语species, 表示“一个特殊的种类或类型”,原义为“外 观，样子”,后来演变为“外观，外面的样子，基于共同特征的独特",
       "collocations": [
         "an endangered species: 濒危物种",
         "species diversity/richness: 物种多样性/丰富度",
-        "species group: 种群；种组"
+        "species group: 种群；种组",
+        "释义：(N-COUNT)(动植物的)物种，种",
+        "A species is a class of plants or animals whose members have the same main characteristics and are able to breed with each other."
       ],
       "etymology": "late 14c.as a classification in logic,from Latin species “a particular sort,kind,or type”(opposed to genus),originally\"a sight,look,view, appearance”.From 1550s as\"appearance,outward form;\"1560s as \"distinct class(of something)based on common characteristics.\" Biological sense is from c.1600.Endangered species first attested 1964.",
       "examples": [
@@ -666,13 +720,16 @@
       "word": "spice",
       "phonetic": "spars",
       "pos": "n.",
-      "definition": "香料，佐料，调料，调味品(如肉桂、姜、辣椒粉等);给生 活增添情趣的事vt.使活泼生动；给……增添趣味5716",
-      "frequency": null,
+      "definition": "香料，佐料，调料，调味品(如肉桂、姜、辣椒粉等);给生 活增添情趣的事vt.使活泼生动；给……增添趣味",
+      "frequency": 5716,
       "mnemonic": null,
       "collocations": [
         "..herbs and spices:…… 各种香草和香料",
         "spice up: 给……增加趣味",
-        "a spice jar: 香料瓶"
+        "a spice jar: 香料瓶\n释义：(N-MASS)香 料 ，佐料，调料，调味品(如肉桂、姜、辣椒粉等)",
+        "A spice is a part of a plant,or a powder made from that part,which you put in food to give it flavour.Cinnamon,ginger,and paprika are spices.\n(N-UNCOUNT)给生活增添情趣的事\n20000词汇巅峰速记班",
+        "Spice is something which makes life more exciting. (VERB) 使活泼生动；给……增添趣味",
+        "If you spice something that you say or do,you add excitement or interest to it"
       ],
       "etymology": "公元1200年时，含义为“添加到食物或饮料中以增加风味，植物质芳 香或刺激味道的东西”,也是“用作药物或炼金成分的香料”,来自 古法语espice ( 现代法语épice), 来自晚期拉丁文物种(复数)“香 料，商品，器皿”。经典拉丁语的含义为“种类，分类”(与species 同源)。自公元1300起， species含义为“芳香的香料”,也有“香料 作为商品”的含义；从14世纪早期开始，含义为“一种含香料的植 物”。“诱人或愉快的变化”的比喻含义来自13世纪。从1530年代开 始，有“轻微的触摸或微量的东西”的记录。“标本，样本”的含义 自1790年开始。早期的药剂师公认的四种香料“类型”为：藏红花， 丁香，肉桂，肉豆蔻。",
       "examples": [],
@@ -682,8 +739,8 @@
       "word": "spicy",
       "phonetic": "'spaisi",
       "pos": "adj.",
-      "definition": "(食物)加了很多香料的，辛辣的7884",
-      "frequency": null,
+      "definition": "(食物)加了很多香料的，辛辣的",
+      "frequency": 7884,
       "mnemonic": "spice(香料)+-y ( 形容词后缀) → (食物)加了很多香料的；辛辣的",
       "collocations": [
         "spicy food: 辛辣的食物",
@@ -697,8 +754,8 @@
       "word": "special",
       "phonetic": "'spef(a)l",
       "pos": "adj.",
-      "definition": "特别的；非同寻常的；特殊的；异常的；特派的；有 特殊用途的；(为残疾人或有心理障碍者)特设的，专门的；特有的； 独具特色的n.特产；特色菜；特别节目521",
-      "frequency": null,
+      "definition": "特别的；非同寻常的；特殊的；异常的；特派的；有 特殊用途的；(为残疾人或有心理障碍者)特设的，专门的；特有的； 独具特色的n.特产；特色菜；特别节目",
+      "frequency": 521,
       "mnemonic": "spec-(=to look at: 看 ) +-ial ( 形容词后缀)→引人“注目”的→特 别的；非同寻常的",
       "collocations": [
         "special adviser to the President: 总统的特别顾问",
@@ -714,8 +771,8 @@
       "word": "specially",
       "phonetic": "'spefəlr",
       "pos": "adv.",
-      "definition": "专门地；特别地；特地8099",
-      "frequency": null,
+      "definition": "专门地；特别地；特地",
+      "frequency": 8099,
       "mnemonic": "special ( 专门的，特别的)+-ly ( 副词后缀) →专门地；特别地",
       "collocations": [
         ".….a soap specially designed for: 专门为……设计的肥皂 specially adapted: 专门改装过的",
@@ -729,13 +786,15 @@
       "word": "especially",
       "phonetic": "i'spefəli",
       "pos": "adv.",
-      "definition": "特别；尤其；格外516",
-      "frequency": null,
+      "definition": "adv. 特别；尤其；格外",
+      "frequency": 516,
       "mnemonic": "especial ( 特别的，特殊的)+-ly ( 副词后缀) →特别；尤其；格外",
       "collocations": [
         "especially important: 特别重要",
         "especially vulnerable to the cold: 特别容易感冒",
-        "especially for you: 特地为你(做的) 释义：(ADV) 特别；尤其"
+        "especially for you: 特地为你(做的) 释义：(ADV) 特别；尤其",
+        "You use especially to emphasize that what you are saying applies more to one person,thing,or area than to any others.\n(ADV) 格外；特别",
+        "You use especially to emphasize a characteristic or quality."
       ],
       "etymology": "14世纪末，especial 来自古法语especial, 含义为“卓越的，重要的” (pre-eminen t,important), 来自拉丁语specialis“属于特定种类或物 种”,来自物种species “ 种类”。现代法语将这个词恢复为spécial 。 在英语中，最初与special含义相同，后来仅限于修饰感觉，品质等。",
       "examples": [],
@@ -745,8 +804,8 @@
       "word": "specialist",
       "phonetic": "'spef()list",
       "pos": "n.",
-      "definition": "专家；专科医生2570",
-      "frequency": null,
+      "definition": "专家；专科医生",
+      "frequency": 2570,
       "mnemonic": "special ( 专门的)+-ist ( 名词后缀，表示专家、从事某种职业的人) →专门从事某种职业的人→专家；专科医生",
       "collocations": [
         "a specialist in Japanese history: 日本史专家",
@@ -760,8 +819,8 @@
       "word": "specialize",
       "phonetic": "'spefəlarz",
       "pos": "vi.",
-      "definition": "专门从事；专门经营；专门研究；专攻4161",
-      "frequency": null,
+      "definition": "专门从事；专门经营；专门研究；专攻",
+      "frequency": 4161,
       "mnemonic": "special ( 专门的)+-ize ( 动词后缀)→专门从事某种行业，比如专 门从事某种研究或经营特定生意( engage in a special study or line of business)→专门从事；专门经营；专门研究；专攻",
       "collocations": [
         "specialize in the history of the Russian empire: 专门研究俄罗斯帝国历史 specialize in criminal law: 专攻刑法"
@@ -774,8 +833,8 @@
       "word": "specialized",
       "phonetic": "'speʃə'larzd",
       "pos": "adj.",
-      "definition": "专业化的；专门的；特殊的5380",
-      "frequency": null,
+      "definition": "专业化的；专门的；特殊的",
+      "frequency": 5380,
       "mnemonic": "specialize (专门从事)+-d ( 形容词后缀-ed去e)→ 专门从事某类行 业的，专业化的→专业化的；专门的；特殊的",
       "collocations": [
         "get specialized support: 得到了专业化的帮助",
@@ -789,8 +848,8 @@
       "word": "specialization",
       "phonetic": "spefəlar'zerʃən",
       "pos": "n.",
-      "definition": "专业化；专门化；特殊化12298",
-      "frequency": null,
+      "definition": "专业化；专门化；特殊化",
+      "frequency": 12298,
       "mnemonic": "specializ(=specialize: 专门从事，专门经营，专攻)+-ation ( 名词后 缀)→专业化的行为或活动(act of becoming specialized)→专业化； 专门化；特殊化",
       "collocations": [
         "industrial specialization: 工业的专门化",
@@ -809,10 +868,11 @@
       "frequency": 4606,
       "mnemonic": "special(专门的，特殊的)+-ty ( 抽象名词后缀，表示性质，状态) →非凡特别的事物，专门化的学问，特有品质，与众不同的特色→专 业；专长；特产",
       "collocations": [
+        "Old French especialte,more vernacular form of specialite.From early 15c.as \"unusual,or extraordinary thing;specialized branch of learning; peculiar quality,distinctive characteristic.”",
         "regional specialties: 地方特产",
         "make a specialty of: 专门从事……工作"
       ],
-      "etymology": null,
+      "etymology": "c.1300,“particular affection;special attachment or favor,partiality,”from",
       "examples": [],
       "rootHint": "spect"
     },
@@ -820,10 +880,13 @@
       "word": "specimen",
       "phonetic": "'spesmn",
       "pos": "n.",
-      "definition": "(动植物的)标本；样品；样本；(供检验用的尿、血 液等体液的)抽样，样本；具有……特性的人；……的典型5937",
-      "frequency": null,
-      "mnemonic": "与species同源。spec-(=a particular sort,kind,or type: 一种特别的种 类，类型，品种)+-i-+-men ( 名词后缀) → (动植物的)标本；样\n品→引申义为具有……特性的人；……的典型 搭配：200,000 specimens of fungus: 20万个真菌标本\na specimen of handwriting: 一份笔迹样本\nto provide/take a specimen: 提供/采血样\nfine specimens of British youth: 英国青年的优秀代表",
-      "collocations": [],
+      "definition": "(动植物的)标本；样品；样本；(供检验用的尿、血 液等体液的)抽样，样本；具有……特性的人；……的典型",
+      "frequency": 5937,
+      "mnemonic": "与species同源。spec-(=a particular sort,kind,or type: 一种特别的种 类，类型，品种)+-i-+-men ( 名词后缀) → (动植物的)标本；样\n品→引申义为具有……特性的人；……的典型 搭配：200,000 specimens of fungus: 20万个真菌标本",
+      "collocations": [
+        "a specimen of handwriting: 一份笔迹样本\nto provide/take a specimen: 提供/采血样",
+        "fine specimens of British youth: 英国青年的优秀代表"
+      ],
       "etymology": "1610s,\"pattern,model,\"from Latin specimen “indication,mark,example, sign,evidence;that by which a thing is known,means of knowing”. Meaning“single thing regarded as typical of its kind”first recorded 1650s.",
       "examples": [],
       "rootHint": "spect"
@@ -832,8 +895,8 @@
       "word": "unspecified",
       "phonetic": "ʌn'spesifard",
       "pos": "adj.",
-      "definition": "未说明的；不明确的14274",
-      "frequency": null,
+      "definition": "未说明的；不明确的",
+      "frequency": 14274,
       "mnemonic": "un-(=not: 不，表示否定前缀)+speci(=a kind,sort: 类型，种类) +fy(=ficus=to make)+-ied ( 形容词后缀，变y为i+ed)→ 未做出分类 的，没有指明种类的→未说明的；不明确的",
       "collocations": [
         "an unspecified date: 日期不明",
@@ -847,14 +910,18 @@
       "word": "spy",
       "phonetic": "spar",
       "pos": "n.",
-      "definition": "间谍 adj. ( 卫星、飞机)执行间谍任务的 vt.&vi. 从事间谍活动； 充当间谍；秘密监视；看见；发现4901",
-      "frequency": null,
+      "definition": "间谍 adj. ( 卫星、飞机)执行间谍任务的 vt.&vi. 从事间谍活动； 充当间谍；秘密监视；看见；发现",
+      "frequency": 4901,
       "mnemonic": "spy(=spi: 看 ) →observe, watch closely,find out, pursue, 观察，紧 密地监视，找出，追踪(人、事物或信息) → (暗中)观察，紧密监 视直到找出某人或秘密信息→ 间谍；从事间谍活动；秘密监视；发现",
       "collocations": [
         "spy on our private lives: 暗中监视我们的私生活",
-        "a police spy: 警方密探spy on: 暗中监视；侦查",
-        "a spy plane/satelite(=used to watch the activities of the enemy): 间谍飞 机/卫星",
-        "video spy cameras: 隐蔽的摄像机(用来监视) 释义：(N-COUNT) 间谍"
+        "a police spy: 警方密探spy on: 暗中监视；侦查\na spy plane/satelite(=used to watch the activities of the enemy): 间谍飞 机/卫星",
+        "video spy cameras: 隐蔽的摄像机(用来监视) 释义：(N-COUNT) 间谍",
+        "A spy is a person whose job is to find out secret information about another country or organization.\n(ADJ)(卫星、飞机)执行间谍任务的",
+        "A spy satellite or spy plane obtains secret information about another country by taking photographs from the sky.\n20000词汇巅峰速记班\n(VERB) 从事间谍活动；充当间谍",
+        "Someone who spies for a country or organization tries to find out secret information about another country or organization.\n(VERB)秘密监视",
+        "If you spy on someone,you watch them secretly.\n(VERB)看见；发现",
+        "If you spy someone or something,you notice them."
       ],
       "etymology": null,
       "examples": [],
@@ -878,13 +945,15 @@
       "word": "spectacle",
       "phonetic": "'spektək(a)1",
       "pos": "n.",
-      "definition": "眼镜(复数);奇异的景象；有趣的场面；盛大 的演出；壮观的场面5940",
-      "frequency": null,
+      "definition": "眼镜(复数);奇异的景象；有趣的场面；盛大 的演出；壮观的场面",
+      "frequency": 5940,
       "mnemonic": "spect-(=spek:to observe, 观察，看)+-acle (名词后缀) → 观察、 看到的东西→景象；奇观；眼镜",
       "collocations": [
         ".….thick spectacle frames: 厚厚的眼镜框",
         "a magnificent/stunning spectacle: 壮观的场面",
-        "make a spectacle of yourself: 出洋相，出丑 释义：(N-PLURAL) 眼 镜"
+        "make a spectacle of yourself: 出洋相，出丑 释义：(N-PLURAL) 眼 镜",
+        "Glasses are sometimes referred to as spectacles.",
+        "(N-COUNT)奇异的景象；有趣的场面\n(N-VAR)盛大的演出；壮观的场面"
       ],
       "etymology": "源自14c年代中期，表示“特别准备或安排好的展示”,来自古法 语spectacle, 表示“视野，景象，罗马游戏”(13世纪),来自 拉丁语spectaculum “公众表演，景观，观看表演的地方”,来自 spectare “观察，观看，注视”。",
       "examples": [],
@@ -894,8 +963,8 @@
       "word": "spectacular",
       "phonetic": "spek'takjulə",
       "pos": "adj.",
-      "definition": "引人注目的；惊人的；壮观的 n. 壮观的表 演；盛大的演出4236",
-      "frequency": null,
+      "definition": "引人注目的；惊人的；壮观的 n. 壮观的表 演；盛大的演出",
+      "frequency": 4236,
       "mnemonic": "spectacle (壮观的场面，精彩的表演)+-ar(= 拉丁语-arem,-aris, 表 示与……有关的，具备……性质的)→与壮观的、引人注目的有关→ 引人注目的；壮观的",
       "collocations": [
         "spectacular scenery: 壮丽的景色",
@@ -910,8 +979,8 @@
       "word": "spectacularly",
       "phonetic": "spek'tækjulə(r)li",
       "pos": "adv.",
-      "definition": "壮观地；引人注目地15644",
-      "frequency": null,
+      "definition": "壮观地；引人注目地",
+      "frequency": 15644,
       "mnemonic": "spectacular (壮观的，引人注目的)+-1y ( 副词后缀)→壮观地；引 人注目地",
       "collocations": [
         "win spectacularly 获得巨大的胜利"
@@ -929,7 +998,12 @@
       "mnemonic": "1610s,\"apparition,specter,\"from Latin spectrum(plural spectra)“an appearance,image,apparition,specter,\"from specere “to look at,view”. Meaning \"visible band showing the successive colors,formed from a beam of light passed through a prism”first recorded 1670s.Figurative sense of \"entire range(of something)\"is from 1936.\n来自拉丁语specere,spe c-的词根含义为“看”。于1671年被牛顿专 用来指“光谱”。",
       "collocations": [
         "the electromagnetic/radio/sound spectrum: 电磁波谱；射频频谱；声谱",
-        "a broad spectrum of interests: 广泛的兴趣范围 释义：(N-SING) 光 谱"
+        "a broad spectrum of interests: 广泛的兴趣范围 释义：(N-SING) 光 谱",
+        "The spectrum is the range of different colours which is produced when light passes through a glass prism or through a drop of water.A rainbow shows the colours in the spectrum.",
+        "(N-COUNT)系列；范围",
+        "A spectrum is a range of a particular type of thing.",
+        "(N-COUNT) 波谱(如光波波谱、无线电波波谱等)",
+        "A spectrum is a range of light waves or radio waves within particular frequencies."
       ],
       "etymology": null,
       "examples": [],
@@ -939,8 +1013,8 @@
       "word": "spectral",
       "phonetic": "'spektr(a)l",
       "pos": "adj.",
-      "definition": "鬼怪(似)的；幽灵(似)的；光谱的12375",
-      "frequency": null,
+      "definition": "鬼怪(似)的；幽灵(似)的；光谱的",
+      "frequency": 12375,
       "mnemonic": "spectr(=specter: 幽灵；鬼怪)+-al ( 形容词后缀，表示……的)→ 幽灵的；鬼怪的\nspectrum(光谱)+-al ( 形容词后缀，表示……的)→光谱的 搭配：spectral distribution: 光谱分布",
       "collocations": [],
       "etymology": "1718,\"capable of seeing spectres;\"1815,\"ghostly;\"from spectre+-al(1). Meaning “pertaining to a spectrum”is 1832,from stem of spectrum+-al (1).Related:Spectrally",
@@ -951,8 +1025,8 @@
       "word": "spectrometer",
       "phonetic": "spek'trpmtə",
       "pos": "n.",
-      "definition": "分光计；波长、能量、强烈程度等可以被测 量的产生光谱的仪器19760",
-      "frequency": null,
+      "definition": "分光计；波长、能量、强烈程度等可以被测 量的产生光谱的仪器",
+      "frequency": 19760,
       "mnemonic": "spectro-(=of or by a spectroscope,also of radiant energy: 与分光镜 有关的，也有辐射能的含义)+-meter ( 用于测量的仪器或工具) → 分光计",
       "collocations": [
         "crystal spectrometer: 晶体分光计",
@@ -966,10 +1040,15 @@
       "word": "speculate",
       "phonetic": "'spekjulert",
       "pos": "vi.",
-      "definition": "推测；猜测；猜想；投机；做投机买卖4864",
-      "frequency": null,
-      "mnemonic": "来自拉丁语speculari, 含义为观察，来自“specere” 看，考虑”。 specul ( 观察，思考)+-ate ( 动词后缀)→通过思考、揣摩来追求真\n理→推测，猜想，后引申为为了利润而冒风险投资→投机 搭配：speculate about/on sth: 猜测，推断\nspeculate on the stock market: 炒股 释义：(VERB)推测；猜测；猜想\nIf you speculate about something,you make guesses about its nature or identity,or about what might happen.\n(VERB)投机；做投机买卖\nIf someone speculates financially,they buy property,stocks,or shares,",
-      "collocations": [],
+      "definition": "推测；猜测；猜想；投机；做投机买卖",
+      "frequency": 4864,
+      "mnemonic": "来自拉丁语speculari, 含义为观察，来自“specere” 看，考虑”。 specul ( 观察，思考)+-ate ( 动词后缀)→通过思考、揣摩来追求真\n理→推测，猜想，后引申为为了利润而冒风险投资→投机 搭配：speculate about/on sth: 猜测，推断",
+      "collocations": [
+        "speculate on the stock market: 炒股 释义：(VERB)推测；猜测；猜想",
+        "If you speculate about something,you make guesses about its nature or identity,or about what might happen.\n(VERB)投机；做投机买卖",
+        "If someone speculates financially,they buy property,stocks,or shares,\n四",
+        "in the hope of being able to sell them again at a higher price and make a profit."
+      ],
       "etymology": "1590s,“view mentally,contemplate”(transitive),back-formation from speculation.Also formerly “view as from a watchtower”(1610s). Intransitive sense of “pursue truth by conjecture or thinking”is from 1670s.Meaning \"to invest money upon risk for the sake of profit\"is from 1785.Related:Speculated;speculating.",
       "examples": [
         "He speculates that more examples may turn up when we take a closer look at other species.\n他推测当我们更仔细地检查其他物种的时候，可能会出现更多的 样本。"
@@ -980,8 +1059,8 @@
       "word": "speculator",
       "phonetic": "'spekjulertə",
       "pos": "n.",
-      "definition": "投机者；投机商15333",
-      "frequency": null,
+      "definition": "投机者；投机商",
+      "frequency": 15333,
       "mnemonic": "speculate (投机去e)+-or ( 名词后缀，表人) →投机者；投机商",
       "collocations": [
         "property speculators: 房地产投机商"
@@ -994,8 +1073,8 @@
       "word": "speculation",
       "phonetic": ",spekju'lerʃn",
       "pos": "n.",
-      "definition": "推测；猜测；推断；投机买卖；炒股4481",
-      "frequency": null,
+      "definition": "推测；猜测；推断；投机买卖；炒股",
+      "frequency": 4481,
       "mnemonic": "speculate (推测；投机，去e)+-ion ( 名词后缀) →推测；投机",
       "collocations": [
         "speculation that../speculation about/over sth: 猜测，推测，推断……",
@@ -1010,8 +1089,8 @@
       "word": "speculative",
       "phonetic": "'spekjulətrv",
       "pos": "adj.",
-      "definition": "( 信息)推测性的；猜测性的；(表情)带着",
-      "frequency": null,
+      "definition": "( 信息)推测性的；猜测性的；(表情)带着疑问的；好奇的；投机性的",
+      "frequency": 9934,
       "mnemonic": "speculate (推测；猜测；投机，去e)+-ive ( 形容词后缀) → 推测性 的；带着疑问的；好奇的；投机性的",
       "collocations": [
         "speculative stories about.. : 有关……的推测性故事/报道 cast a speculative look at: 带着疑问的眼神看",
@@ -1025,15 +1104,15 @@
       "word": "suspect",
       "phonetic": "'sʌspekt;(for v.) sə'spekt",
       "pos": "vt.",
-      "definition": "&vi. 怀疑；疑心(尤指坏事可能属实 或发生) n. 嫌疑犯；可疑分子 adj. 不可靠的；不可信的；可能有假 的；可疑的2118",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "&vi. 怀疑；疑心(尤指坏事可能属实 或发生) n. 嫌疑犯；可疑分子 adj. 不可靠的；不可信的；可能有假 的；可疑的",
+      "frequency": 2118,
+      "mnemonic": "look at,to observe, 看，观察，s略) → 眼神由下往上看( look up at, look upward)→ 偷偷地、暗自地看( look at secretly)→怀疑地、不 相信地看( look at distrustfully)→ 怀疑；嫌疑犯；不可信的；可疑的",
       "collocations": [
         "suspect case: 疑似病例",
         "major/prime suspect: 主要嫌疑犯",
         "suspect sb of sth/of doing sth: 怀疑某人有罪"
       ],
-      "etymology": "early 14c.,\"suspected of wrongdoing,under suspicion;\"mid-14c., \"regarded with mistrust,liable to arouse suspicion,\"from Old French suspect(14c.),from Latin suspectus \"suspected,regarded with suspicion or mistrust”. 20000词汇巅峰速记班助记：来源于拉丁语动词suspicere的过去分词suspectus, 原义是“由下向上 钦佩地看”或“由下向上不信任地看”,前一种含义进入英语后消 失。词根词缀：sus-(=sub-:up to,由下向上)+ -spect-(=spec:to 20000词汇巅峰速记班 look at,to observe, 看，观察，s略) → 眼神由下往上看( look up at, look upward)→ 偷偷地、暗自地看( look at secretly)→怀疑地、不 相信地看( look at distrustfully)→ 怀疑；嫌疑犯；不可信的；可疑的",
+      "etymology": "early 14c.,\"suspected of wrongdoing,under suspicion;\"mid-14c., \"regarded with mistrust,liable to arouse suspicion,\"from Old French suspect(14c.),from Latin suspectus \"suspected,regarded with suspicion or mistrust”. 20000词汇巅峰速记班助记：来源于拉丁语动词suspicere的过去分词suspectus, 原义是“由下向上 钦佩地看”或“由下向上不信任地看”,前一种含义进入英语后消 失。词根词缀：sus-(=sub-:up to,由下向上)+ -spect-(=spec:to 20000词汇巅峰速记班",
       "examples": [],
       "rootHint": "spect"
     },
@@ -1041,8 +1120,8 @@
       "word": "suspected",
       "phonetic": "sə'spektid",
       "pos": "adj.",
-      "definition": "有嫌疑的；疑似……的 vt.&vi. 怀疑；猜想6953",
-      "frequency": null,
+      "definition": "有嫌疑的；疑似……的 vt.&vi. 怀疑；猜想",
+      "frequency": 6953,
       "mnemonic": "suspect ( 猜想，怀疑)+-ed ( 形容词后缀，分词后缀) →有嫌疑的； 疑似……的；怀疑",
       "collocations": [
         "suspected burglar/terrorist/spy etc: 被疑为入室盗窃/恐怖分子/间谍 等的人",
@@ -1057,8 +1136,8 @@
       "word": "suspicion",
       "phonetic": "sə'spiʃ(6)n",
       "pos": "n.",
-      "definition": "猜疑；预感；些许；少量3800",
-      "frequency": null,
+      "definition": "猜疑；预感；些许；少量",
+      "frequency": 3800,
       "mnemonic": "sus-(=sub:up to,由下向上)+-spic-(=spek: 看 ，s略)+ -ion ( 名 词后缀)→ 由下往上看→偷偷地、秘密地不信任地看→猜疑，预感→ 有些许不信任的成分→引申为少量；一点",
       "collocations": [
         "above/beyond suspicion: 无可置疑",
@@ -1072,8 +1151,8 @@
       "word": "suspicious",
       "phonetic": "sə'sprʃəs",
       "pos": "adj.",
-      "definition": "不信任的；感觉可疑的；令人怀疑的4659",
-      "frequency": null,
+      "definition": "不信任的；感觉可疑的；令人怀疑的",
+      "frequency": 4659,
       "mnemonic": "suspici(=suspicion: 怀疑，猜疑，预感)+-ous ( 形容词后缀) → 不 信任的；感觉可疑的；令人怀疑的",
       "collocations": [
         "suspicious nature: 生性多疑",
@@ -1088,8 +1167,8 @@
       "word": "suspiciously",
       "phonetic": "sa'sprʃəsli",
       "pos": "adv.",
-      "definition": "怀疑地；形迹(或神色等)可疑地；非常；相 当(相似);出奇地；出乎意料地12390",
-      "frequency": null,
+      "definition": "怀疑地；形迹(或神色等)可疑地；非常；相 当(相似);出奇地；出乎意料地",
+      "frequency": 12390,
       "mnemonic": "suspicious (不信任的，感觉可疑的)+-1y ( 副词后缀) → 猜疑地； 怀疑地",
       "collocations": [
         "look/sound suspiciously like sth.: 看/听上去与某事物相像得令人起疑 a suspiciously tidy flat: 一套整洁干净得出奇的公寓"
@@ -1102,12 +1181,13 @@
       "word": "unsuspecting",
       "phonetic": "ʌ nsə'spektiŋ",
       "pos": "adj.",
-      "definition": "毫不怀疑的；无戒备心的；不知情的14329",
-      "frequency": null,
+      "definition": "毫不怀疑的；无戒备心的；不知情的",
+      "frequency": 14329,
       "mnemonic": "un-(=not: 不，否定前缀)+suspect ( 怀疑，疑心)+-ing ( 形容词后 缀)→一点都不怀疑的，没有疑心的→毫不怀疑的；无戒备心的；不 明真相的",
       "collocations": [
         "unsuspecting depositors: 不明真相的存款人",
-        "the unsuspecting victim: 毫无戒备心的受害者/不明真相的受害人 释义：(ADJ)不知情的；不知底细的；不明真相的"
+        "the unsuspecting victim: 毫无戒备心的受害者/不明真相的受害人 释义：(ADJ)不知情的；不知底细的；不明真相的",
+        "You can use unsuspecting to describe someone who is not at all aware of something that is happening or going to happen."
       ],
       "etymology": null,
       "examples": [],

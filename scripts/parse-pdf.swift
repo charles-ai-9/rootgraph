@@ -179,13 +179,29 @@ func extractMeanings(from header: String) -> (en: String?, zh: String?) {
 }
 
 func parseWordLine(_ line: String) -> (word: String, phonetic: String?, rest: String)? {
-    let pattern = #"^([a-zA-Z][a-zA-Z0-9\-]*)\s+\[([^\]]+)\]\s*(.*)$"#
-    guard let regex = try? NSRegularExpression(pattern: pattern),
-          let match = regex.firstMatch(in: line, range: NSRange(line.startIndex..., in: line)),
-          let wordRange = Range(match.range(at: 1), in: line),
-          let phonRange = Range(match.range(at: 2), in: line),
-          let restRange = Range(match.range(at: 3), in: line) else { return nil }
-    return (String(line[wordRange]), String(line[phonRange]), String(line[restRange]))
+    let line = normalizeSpaces(line)
+
+    let withPhonetic = #"^([a-zA-Z][a-zA-Z0-9\-]*)\s+\[([^\]]+)\]\s*(.*)$"#
+    if let regex = try? NSRegularExpression(pattern: withPhonetic),
+       let match = regex.firstMatch(in: line, range: NSRange(line.startIndex..., in: line)),
+       let wordRange = Range(match.range(at: 1), in: line),
+       let phonRange = Range(match.range(at: 2), in: line),
+       let restRange = Range(match.range(at: 3), in: line) {
+        return (String(line[wordRange]), String(line[phonRange]), String(line[restRange]))
+    }
+
+    // 少数词条缺音标：demographics n. 人口统计资料 8881（须有中文释义 + 词频，避免误匹配）
+    let noPhonetic = #"^([a-zA-Z][a-zA-Z0-9\-]{3,})\s+([a-zA-Z./0-9]+\.\s+.*[\u4e00-\u9fff].*\s+\d{3,6})$"#
+    if let regex = try? NSRegularExpression(pattern: noPhonetic),
+       let match = regex.firstMatch(in: line, range: NSRange(line.startIndex..., in: line)),
+       let wordRange = Range(match.range(at: 1), in: line),
+       let restRange = Range(match.range(at: 2), in: line) {
+        let word = String(line[wordRange])
+        guard word.count >= 3 else { return nil }
+        return (word, nil, String(line[restRange]))
+    }
+
+    return nil
 }
 
 func parseDefinitionRest(_ rest: String) -> (pos: String?, definition: String?, frequency: Int?) {
@@ -268,6 +284,9 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
     var collectingDefinition = false
     var collectingMnemonic = false
     var collectingCollocation = false
+    var collectingFrequency = false
+    var collectingInlineExample = false
+    var inlineExampleBuffer = ""
 
     func resetWordCollectors() {
         collectingDefinition = false
@@ -275,7 +294,70 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
         collectingCollocation = false
         collectingExample = false
         collectingEtymology = false
+        collectingFrequency = false
+        collectingInlineExample = false
+        inlineExampleBuffer = ""
         pendingEtymology = []
+    }
+
+    func isFrequencyOnlyLine(_ line: String) -> Bool {
+        let t = normalizeSpaces(line)
+        return t.range(of: #"^\d{3,6}$"#, options: .regularExpression) != nil
+    }
+
+    func isInlineExampleStart(_ line: String) -> Bool {
+        let t = normalizeSpaces(line)
+        if parseWordLine(t) != nil { return false }
+        if t.hasPrefix("助记") || t.hasPrefix("搭配") || t.hasPrefix("词源") { return false }
+        if isChapterHeader(t) || isExampleStart(t) { return false }
+        if t.hasPrefix("笔记") || t.hasPrefix("20000") { return false }
+        if t.hasPrefix("例如：") || t.hasPrefix("例如:") { return true }
+        if t.hasPrefix("(chemistry)") || t.hasPrefix("(化)") { return true }
+        if t.hasPrefix("(N-COUNT)") || t.contains("N-COUNT)") { return true }
+        // 英文阅读补充：大写或小写开头均可（如 Bondage is… / the process of…）
+        if t.range(of: #"^[(\[]?[a-zA-Z][A-Za-z0-9 ,'\"();:\[\]-]{11,}"#, options: .regularExpression) != nil {
+            return true
+        }
+        // 如 hydrogen bonding 氢键结合
+        if t.range(of: #"^[a-zA-Z][a-zA-Z -]{2,}[\u4e00-\u9fff]"#, options: .regularExpression) != nil {
+            return true
+        }
+        return false
+    }
+
+    func isInlineExampleContinuation(_ line: String) -> Bool {
+        let t = normalizeSpaces(line)
+        if t.isEmpty { return true }
+        if parseWordLine(t) != nil { return false }
+        if isChapterHeader(t) || isExampleStart(t) { return false }
+        if t.hasPrefix("助记") || t.hasPrefix("搭配") || t.hasPrefix("词源") { return false }
+        if isInlineExampleStart(t) { return false }
+        if t.range(of: #"^[a-zA-Z ,'\"();:\[\]-]{8,}"#, options: .regularExpression) != nil { return true }
+        if t.range(of: #"[\u4e00-\u9fff]"#, options: .regularExpression) != nil { return true }
+        return false
+    }
+
+    func flushInlineExample(to idx: Int) {
+        guard !inlineExampleBuffer.isEmpty else { return }
+        currentWords[idx].collocations.append(inlineExampleBuffer)
+        inlineExampleBuffer = ""
+    }
+
+    func appendInlineExampleLine(_ line: String) {
+        let chunk = normalizeSpaces(line)
+        guard !chunk.isEmpty else { return }
+        inlineExampleBuffer = inlineExampleBuffer.isEmpty ? chunk : inlineExampleBuffer + "\n" + chunk
+    }
+
+    func isUnlabeledMnemonicStart(_ line: String) -> Bool {
+        let t = normalizeSpaces(line)
+        if parseWordLine(t) != nil { return false }
+        if t.hasPrefix("助记") || t.hasPrefix("搭配") || t.hasPrefix("词源") || t.hasPrefix("释义和用法") { return false }
+        if isChapterHeader(t) || isExampleStart(t) { return false }
+        if isInlineExampleStart(t) && !t.contains("→") { return false }
+        if t.contains("→") && t.range(of: #"[\u4e00-\u9fff]"#, options: .regularExpression) != nil { return true }
+        if t.hasPrefix("+") { return true }
+        return false
     }
 
     func isDefinitionContinuationLine(_ line: String) -> Bool {
@@ -314,7 +396,11 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
         if isExampleStart(line) || isChapterHeader(line) { return false }
         if line.hasPrefix("释义") { return false }
         if line.contains("(考)") { return true }
-        return line.range(of: #"^[a-zA-Z].*[：:].*[\u4e00-\u9fff]"#, options: .regularExpression) != nil
+        if line.range(of: #"^[a-zA-Z].*[：:].*[\u4e00-\u9fff]"#, options: .regularExpression) != nil { return true }
+        // 搭配续行中的英文阅读块（如 A bunch of people is...）
+        if line.range(of: #"^[(\[]?[a-zA-Z][A-Za-z0-9 ,'\"();:\[\]-]{11,}"#, options: .regularExpression) != nil { return true }
+        if line.hasPrefix("例如：") || line.hasPrefix("例如:") { return true }
+        return false
     }
 
     func appendMnemonic(_ line: String, to idx: Int) {
@@ -351,6 +437,10 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
     }
 
     func flushFamily() {
+        if let idx = currentWordIdx, !inlineExampleBuffer.isEmpty {
+            flushInlineExample(to: idx)
+            collectingInlineExample = false
+        }
         guard let header = currentHeader, !currentWords.isEmpty else { return }
         let meanings = extractMeanings(from: header)
         let roots = currentRoots.isEmpty ? extractRoots(from: header) : currentRoots
@@ -414,6 +504,41 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
                 continue
             }
             collectingDefinition = false
+        }
+
+        if collectingFrequency, let idx = currentWordIdx {
+            if isFrequencyOnlyLine(line) {
+                currentWords[idx].frequency = Int(normalizeSpaces(line))
+                collectingFrequency = false
+                i += 1
+                continue
+            }
+            collectingFrequency = false
+        }
+
+        if collectingInlineExample, let idx = currentWordIdx {
+            if isInlineExampleContinuation(line) {
+                appendInlineExampleLine(line)
+                i += 1
+                continue
+            }
+            flushInlineExample(to: idx)
+            collectingInlineExample = false
+        }
+
+        if let idx = currentWordIdx, !collectingMnemonic, isUnlabeledMnemonicStart(line) {
+            appendMnemonic(line, to: idx)
+            collectingMnemonic = true
+            i += 1
+            continue
+        }
+
+        if let idx = currentWordIdx, !collectingInlineExample, isInlineExampleStart(line) {
+            collectingInlineExample = true
+            inlineExampleBuffer = ""
+            appendInlineExampleLine(line)
+            i += 1
+            continue
         }
 
         if collectingMnemonic, let idx = currentWordIdx {
@@ -495,6 +620,31 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
             continue
         }
 
+        if line.hasPrefix("释义和用法") {
+            if let idx = currentWordIdx {
+                if collectingInlineExample {
+                    flushInlineExample(to: idx)
+                }
+                var rest = line
+                for prefix in ["释义和用法：", "释义和用法:", "释义和用法"] {
+                    if rest.hasPrefix(prefix) {
+                        rest = String(rest.dropFirst(prefix.count))
+                        break
+                    }
+                }
+                collectingInlineExample = true
+                inlineExampleBuffer = ""
+                let chunk = normalizeSpaces(rest)
+                if !chunk.isEmpty {
+                    appendInlineExampleLine(chunk)
+                }
+            }
+            collectingMnemonic = false
+            collectingCollocation = false
+            i += 1
+            continue
+        }
+
         if line.hasPrefix("助记：") || line.hasPrefix("助记:") {
             let memo = line.replacingOccurrences(of: "助记：", with: "").replacingOccurrences(of: "助记:", with: "")
             if let idx = currentWordIdx {
@@ -538,8 +688,10 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
             )
             currentWords.append(entry)
             currentWordIdx = currentWords.count - 1
-            if defParts.frequency == nil && (parsed.rest.hasSuffix("；") || parsed.rest.hasSuffix(";")) {
+            if defParts.frequency == nil {
+                // 释义或词频可能换行（如「可牺」+「牲的 19381」，或单独一行词频）
                 collectingDefinition = true
+                collectingFrequency = true
             }
             i += 1
             continue
@@ -549,6 +701,9 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
     }
 
     flushFamily()
+    if let idx = currentWordIdx, collectingInlineExample {
+        flushInlineExample(to: idx)
+    }
     return families
 }
 

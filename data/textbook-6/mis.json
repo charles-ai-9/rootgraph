@@ -43,11 +43,11 @@
     },
     {
       "collocations" : [
-
+        "people at any one time.\n信息的发送能使最多五个人同时通过键盘进行实时交流。\n笔 记 区"
       ],
       "definition" : "信息的发送",
       "examples" : [
-        "Messaging allows real-time communication by keyboard with up to five\npeople at any one time.\n信息的发送能使最多五个人同时通过键盘进行实时交流。"
+        "Messaging allows real-time communication by keyboard with up to five"
       ],
       "frequency" : 16741,
       "phonetic" : "ˈmesɪdʒɪŋ",
@@ -64,6 +64,7 @@
       "examples" : [
         "The reforms were carried out with an almost messianic zeal.\n改革是以极大的热情进行的。"
       ],
+      "frequency" : 19231,
       "mnemonic" : "messian（=Messiah：弥赛亚；救世主）+ -ic（形容词后缀）→救世主",
       "phonetic" : "ˌmesiˈænɪk",
       "pos" : "adj.",
@@ -88,7 +89,7 @@
     {
       "collocations" : [
         "look messy：看上去有点脏",
-        "a messy divorce：一次棘手的离婚"
+        "a messy divorce：一次棘手的离婚\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "邋遢的；肮脏的；混乱而复杂的",
       "examples" : [
@@ -102,14 +103,20 @@
     },
     {
       "collocations" : [
+        "missionem (nominative missio) “act of sending, a dispatching; a release, a",
+        "setting at liberty; discharge from service, dismissal,” noun of action from",
+        "past-participle stem of mittere “to release, let go; send, throw,” which",
+        "de Vaan traces to a PIE *m(e)ith- “to exchange, remove,” also source of",
+        "Sanskrit methete, mimetha “to become hostile, quarrel,” Gothic in-maidjan",
         "routine mission：常规任务",
         "space shuttle missions：航天飞机任务"
       ],
-      "definition" : "使命；驻外使团；（军用飞机或宇宙飞船的）飞行任",
-      "etymology" : "1590s, “a sending abroad” (as an agent), originally of Jesuits, from Latin missionem (nominative missio) “act of sending, a dispatching; a release, a setting at liberty; discharge from service, dismissal,” noun of action from past-participle stem of mittere “to release, let go; send, throw,” which de Vaan traces to a PIE *m(e)ith- “to exchange, remove,” also source of Sanskrit methete, mimetha “to become hostile, quarrel,” Gothic in-maidjan “to change;” he writes, “From original ‘exchange’, the meaning developed to ‘give, bestow’ ... and ‘let go, send’.”",
+      "definition" : "使命；驻外使团；（军用飞机或宇宙飞船的）飞行任务；布道活动",
+      "etymology" : "1590s, “a sending abroad” (as an agent), originally of Jesuits, from Latin “to change;” he writes, “From original ‘exchange’, the meaning developed to ‘give, bestow’ ... and ‘let go, send’.”",
       "examples" : [
 
       ],
+      "frequency" : 1099,
       "mnemonic" : "miss-（派）+ -ion（名词后缀）→派（送）出去→使命；任务",
       "phonetic" : "ˈmɪʃ(ə)n",
       "pos" : "n.",
@@ -150,7 +157,8 @@
     },
     {
       "collocations" : [
-        "intermittent bursts of applause：一阵阵的掌声"
+        "intermittent bursts of applause：一阵阵的掌声",
+        "intermittent showers：阵雨\n笔 记 区"
       ],
       "definition" : "断断续续的；间歇的",
       "examples" : [
@@ -181,10 +189,11 @@
       "collocations" : [
         "last without intermission for a hundred years：从未间断地持续了一百年"
       ],
-      "definition" : "（戏剧、电影等的）幕间休息，中间休息；间",
+      "definition" : "（戏剧、电影等的）幕间休息，中间休息；间歇；暂停",
       "examples" : [
 
       ],
+      "frequency" : 19593,
       "mnemonic" : "inter-（中间；中场）+ -miss-（送；派）+ -ion（名词后缀）→在中场\n的时候出来→幕间休息；中间休息；间歇",
       "phonetic" : "ɪntəˈmɪʃ(ə)n",
       "pos" : "n.",
@@ -198,11 +207,12 @@
         "commit more money to the poorest nations：为最贫困国家拨更多的款",
         "commit murder：犯谋杀罪"
       ],
-      "definition" : "犯（罪）；做（坏事）；进行（自杀）；调拨（钱、资",
+      "definition" : "犯（罪）；做（坏事）；进行（自杀）；调拨（钱、资源）；使（自己）致力于；使承诺",
       "examples" : [
         "I wouldn’t want to commit myself too soon.\n我不想太快做出承诺。"
       ],
-      "mnemonic" : "com-（加强语气）+ -mit（=mis：送；派）→委托；托付（即：送，",
+      "frequency" : 1402,
+      "mnemonic" : "com-（加强语气）+ -mit（=mis：送；派）→委托；托付（即：送，\ncom-（加强语气）+ -mit（=miss：小错误；失误）→犯错误；犯罪",
       "phonetic" : "kəˈmɪt",
       "pos" : "vt.",
       "rootHint" : "mit",
@@ -224,7 +234,8 @@
     },
     {
       "collocations" : [
-        "religious commitment：宗教信仰"
+        "religious commitment：宗教信仰",
+        "make a commitment to：向……做出承诺"
       ],
       "definition" : "承诺，保证；承担义务；委托；献身",
       "examples" : [
@@ -255,12 +266,14 @@
     },
     {
       "collocations" : [
-        "finish a commission：完成了一项委托任务"
+        "finish a commission：完成了一项委托任务",
+        "The salespeople work on commission only.\n推销员只拿销售佣金。"
       ],
-      "definition" : "正式委托（谱写或制作、创作、完成） n.（通",
+      "definition" : "正式委托（谱写或制作、创作、完成） n.（通常为政府管控或调查某事的）委员会；佣金；请某人做建筑设计或作一幅画等的）正式委托",
       "examples" : [
-        "The Department of Agriculture commissioned a study into organic\nfarming.\n农业部委托了一项有机耕作的研究。\nThe salespeople work on commission only.\n推销员只拿销售佣金。"
+        "The Department of Agriculture commissioned a study into organic\nfarming.\n农业部委托了一项有机耕作的研究。"
       ],
+      "frequency" : 2400,
       "mnemonic" : "commis（=commit：委托）+ -ion（名词后缀）→委员会；佣金",
       "phonetic" : "kəˈmɪʃ(ə)n",
       "pos" : "vt.",
@@ -272,10 +285,11 @@
         "European Commissioners：欧洲委员会委员",
         "the agriculture\/health, etc. commissioner：农业、卫生等厅长"
       ],
-      "definition" : "（委员会的）委员；（政府部门等的）首长，",
+      "definition" : "（委员会的）委员；（政府部门等的）首长，重要官员",
       "examples" : [
 
       ],
+      "frequency" : 4366,
       "mnemonic" : "commission（委员会）+ -er（名词后缀，表示人）→委员会的委员；",
       "phonetic" : "kəˈmɪʃ(ə)nə",
       "pos" : "n.",
@@ -285,7 +299,7 @@
     {
       "collocations" : [
         "omit the salt in this recipe：去掉这个食谱中的盐",
-        "omit to tell him：没有跟他说……"
+        "omit to tell him：没有跟他说……\n近义词组：leave out：排除\n笔 记 区"
       ],
       "definition" : "忽略；漏掉；未能做",
       "examples" : [
@@ -300,11 +314,11 @@
     },
     {
       "collocations" : [
-
+        "There were a number of errors and omissions in the article.\n这篇文章中有多处错误和疏漏。"
       ],
       "definition" : "省略；排除；遗漏",
       "examples" : [
-        "The play was shortened by the omission of two scenes.\n此剧删减了两场戏。\nThere were a number of errors and omissions in the article.\n这篇文章中有多处错误和疏漏。"
+        "The play was shortened by the omission of two scenes.\n此剧删减了两场戏。"
       ],
       "frequency" : 10774,
       "phonetic" : "ə(ʊ)ˈmɪʃ(ə)n",
@@ -316,10 +330,11 @@
       "collocations" : [
         "a partial remission of fees：减免部分费用"
       ],
-      "definition" : "（重病的）缓解期；减刑；（应付费用的）减少，",
+      "definition" : "（重病的）缓解期；减刑；（应付费用的）减少，免除",
       "examples" : [
         "The patient has been in remission for the past six months.\n在过去的六个月中，病人的病情已经有所缓解。"
       ],
+      "frequency" : 15601,
       "mnemonic" : "re-（=back：往回）+ miss-（送出）+ -ion（名词后缀）→往回送出，\n表示减少、缓解→slacken, allow to be unpaid：缓解；减刑；免除（费",
       "phonetic" : "rɪˈmɪʃ(ə)n",
       "pos" : "n.",
@@ -352,7 +367,7 @@
 
       ],
       "frequency" : 4605,
-      "mnemonic" : "pre-（前面）+ mis-（=matter：问题）+ e→提前就提出的问题→前",
+      "mnemonic" : "pre-（前面）+ mis-（=matter：问题）+ e→提前就提出的问题→前\n都是有关“房子、经营场所”等归属问题）→引出，预先提出；作",
       "phonetic" : "ˈpremɪs",
       "pos" : "vt.",
       "rootHint" : "mis",
@@ -363,13 +378,16 @@
         "dismiss good workers：解雇优秀员工",
         "be dismissed from school：被学校开除（准予离去）",
         "dismiss the charges against：不受理对……的指控",
-        "dismiss the problem from my mind：心中不再考虑这个问题"
+        "dismiss the problem from my mind：心中不再考虑这个问题",
+        "Germany was going to offer these people citizenship.\n官方没有考虑我的反对，说无论如何德国也不会给这些人提供国籍。",
+        "Parents should dismiss\/abandon an old incorrect\/wrong notion, that is,"
       ],
       "definition" : "不予理会；不再考虑；解雇；准予……离去；不受理",
       "examples" : [
-        "1) With my decision to work from home I dismissed any opportunity for\npromotion.\n自从我决定在家中工作，我就不再考虑晋升的机会。\n2) The official dismissed my objection, saying that there was no way\nGermany was going to offer these people citizenship.\n官方没有考虑我的反对，说无论如何德国也不会给这些人提供国籍。",
-        "父母应该抛弃（不再考虑）一个老的错误观念，即：送孩子去上\n的很多艺术班是好的。\nParents should dismiss\/abandon an old incorrect\/wrong notion, that is,\nsending\/commmitting their children to excessive art classes is advisable\/\nfavorable\/preferable."
+        "1) With my decision to work from home I dismissed any opportunity for\npromotion.\n自从我决定在家中工作，我就不再考虑晋升的机会。\n2) The official dismissed my objection, saying that there was no way",
+        "父母应该抛弃（不再考虑）一个老的错误观念，即：送孩子去上\n的很多艺术班是好的。\nsending\/commmitting their children to excessive art classes is advisable\/\nfavorable\/preferable."
       ],
+      "frequency" : 2826,
       "mnemonic" : "dis-（=apart, away：离开）+ miss-（=send, let go：送走）→（让人）\n离开→解雇；准予……离去，引申义为不予理会，不再考虑",
       "phonetic" : "dɪsˈmɪs",
       "pos" : "vt.",
@@ -408,7 +426,7 @@
     {
       "collocations" : [
         "the demise of the reform movement：改良运动的告终。",
-        "his imminent\/sudden\/sad demise：他死到临头；他的猝死；他悲惨的死亡"
+        "his imminent\/sudden\/sad demise：他死到临头；他的猝死；他悲惨的死亡\n笔 记 区"
       ],
       "definition" : "终止；死亡",
       "examples" : [
@@ -430,6 +448,7 @@
       "examples" : [
 
       ],
+      "frequency" : 6361,
       "mnemonic" : "e-（=ex-=out：向外）+ -mit（=to send：发送）→send forth：向外发\n出，散发→发出；散发",
       "phonetic" : "ɪˈmɪt",
       "pos" : "vt.",
@@ -446,6 +465,7 @@
       "examples" : [
 
       ],
+      "frequency" : 2937,
       "mnemonic" : "e-（向外）+ -miss-（发出）+ -ion（名词后缀）→向外发出→（光、",
       "phonetic" : "ɪˈmɪʃ(ə)n",
       "pos" : "n.",
@@ -470,12 +490,14 @@
     {
       "collocations" : [
         "submit to sb.\/sth.：屈服于某人",
-        "submit a proposal：呈递一个提议"
+        "submit a proposal：呈递一个提议\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "improve and enforce environmental standards, I submit, who must lead the",
+        "surrender to difficulty, because it is transient."
       ],
       "definition" : "提交（建议、报告或请求） vi. 屈从",
       "examples" : [
-        "However, it is those of us who are paid to make the decisions to develop,\nimprove and enforce environmental standards, I submit, who must lead the\ncharge.\n然而，正是我们这些人领薪水去决定发展，改善和实施环境标准，我\n认为，我们必须带头。\n（写作，阅读）重点：“屈服于，向……低头”的表达方式：submit to\/\nyield to\/surrender to",
-        "无论如何，我们都不能轻易向困难低头，因为它只是一时的。\nAnyhow\/In any case\/At any rate\/On all accounts we can’t submit\/yield\/\nsurrender to difficulty, because it is transient."
+        "However, it is those of us who are paid to make the decisions to develop,\ncharge.\n然而，正是我们这些人领薪水去决定发展，改善和实施环境标准，我\n认为，我们必须带头。\n（写作，阅读）重点：“屈服于，向……低头”的表达方式：submit to\/\nyield to\/surrender to",
+        "无论如何，我们都不能轻易向困难低头，因为它只是一时的。\nAnyhow\/In any case\/At any rate\/On all accounts we can’t submit\/yield\/"
       ],
       "frequency" : 3212,
       "mnemonic" : "sub-（下面） + -mit（送）→从下面（基层）送上去→呈送；提交；提出\nsub-（下面，次于）+ -mit（送）→送到某人麾下（帐下）→屈服；",
@@ -486,11 +508,11 @@
     },
     {
       "collocations" : [
-
+        "Most doctors want their patients to be submissive.\n大多数医生都想让自己的病人们听话。"
       ],
       "definition" : "顺从的；听话的",
       "examples" : [
-        "He expected his daughters to be meek and submissive.\n他期望女儿都温顺听话。\nMost doctors want their patients to be submissive.\n大多数医生都想让自己的病人们听话。"
+        "He expected his daughters to be meek and submissive.\n他期望女儿都温顺听话。"
       ],
       "frequency" : 18773,
       "mnemonic" : "submiss（=submit：屈从；顺从）+ -ive（形容词后缀）→顺从的；听",
@@ -507,6 +529,7 @@
       "examples" : [
         "When is the final date for the submission of proposals?\n呈交提案的最后日期是什么时候？"
       ],
+      "frequency" : 8273,
       "mnemonic" : "submiss（=submit：屈从；顺从）+ -ion（名词后缀）→屈服；提交文",
       "phonetic" : "səbˈmɪʃ(ə)n",
       "pos" : "n.",
@@ -517,13 +540,17 @@
       "collocations" : [
         "transmit signals：传输信号",
         "transmit disease to humans：向人类传播疾病",
-        "transmit power：传导能量"
+        "transmit power：传导能量",
+        "Transmitting\/Sending messages online is almost free, that is one reason",
+        "why a large portion of people are willing to make friends and connect with",
+        "each other online.\n笔 记 区"
       ],
-      "definition" : "&vi. 传播（广播电视节目、计算机信息等） vt. 传播",
+      "definition" : "&vi. 传播（广播电视节目、计算机信息等） vt. 传播（疾病） vt. 传导（声音、电子信号等）",
       "examples" : [
         "The game was transmitted live.\n这场比赛被现场直播。",
-        "互联网上的信息传送基本上都是免费的，这也是为什么很多人都\n热衷于在网上交友和联络的原因之一。\nTransmitting\/Sending messages online is almost free, that is one reason\nwhy a large portion of people are willing to make friends and connect with\neach other online."
+        "互联网上的信息传送基本上都是免费的，这也是为什么很多人都\n热衷于在网上交友和联络的原因之一。"
       ],
+      "frequency" : 4893,
       "mnemonic" : "trans-（=across：由此到彼→穿过）+ -mit（送）→传送、传播过去→",
       "phonetic" : "trænzˈmɪt",
       "pos" : "vt.",
@@ -550,12 +577,14 @@
     {
       "collocations" : [
         "a homemade radio transmitter：一台自制的无线电发射机",
-        "as a transmitter of moral values：作为道德价值观的传输者"
+        "as a transmitter of moral values：作为道德价值观的传输者\n比较：receiver：无线电接收机",
+        "a satellite receiver：卫星信号接收机"
       ],
-      "definition" : "（电视信号或无线电的）发射机；发射台；传输",
+      "definition" : "（电视信号或无线电的）发射机；发射台；传输者",
       "examples" : [
 
       ],
+      "frequency" : 10523,
       "mnemonic" : "transmit（传播；播送，双写t）+ -er（名词后缀）→传送、传输信息\n的装置→发射机；传输者",
       "phonetic" : "trænzˈmɪtə",
       "pos" : "n.",
@@ -566,7 +595,7 @@
       "collocations" : [
         "transmitted ray：透射光线",
         "transmitted light：透射光",
-        "transmitted power：传输功率"
+        "transmitted power：传输功率\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "投射的；传输的",
       "examples" : [
@@ -580,12 +609,14 @@
     },
     {
       "collocations" : [
-
+        "A chemical that carries messages from nerve cells to other nerve cells or",
+        "muscles 神经递质（在神经细胞间或向肌肉传递信息）"
       ],
-      "definition" : "神经传递质（在神经细胞间或向肌",
+      "definition" : "神经传递质（在神经细胞间或向肌肉传递信息）",
       "examples" : [
 
       ],
+      "frequency" : 18566,
       "mnemonic" : "neuro-（神经）+ transmitter（传递者）→神经传递质",
       "phonetic" : "ˌnjʊərəʊtrænzˈmɪtə",
       "pos" : "n.",
@@ -594,11 +625,11 @@
     },
     {
       "collocations" : [
-
+        "This is pure surmise on my part.\n这纯粹是我的猜测。"
       ],
       "definition" : "猜测；推测 n. 猜测；推测",
       "examples" : [
-        "From the looks on their faces, I surmised that they had had an argument.\n看他们的脸色，我猜想他们之间发生了争执。\nThis is pure surmise on my part.\n这纯粹是我的猜测。"
+        "From the looks on their faces, I surmised that they had had an argument.\n看他们的脸色，我猜想他们之间发生了争执。"
       ],
       "frequency" : 13942,
       "mnemonic" : "sur-（=upon：在……上）+ -mis-（=发送）+ e→基于……之上猜测→",
@@ -612,13 +643,13 @@
         "dark clouds promising showers later：预示着稍后有阵雨的乌云",
         "his promise to his father：他对父亲的承诺",
         "a young man full of promise：一个大有前途的年轻人",
-        "the promise of spring：春天的迹象",
-        "promise sb. the moon\/the earth：向某人夸下海口"
+        "the promise of spring：春天的迹象\npromise sb. the moon\/the earth：向某人夸下海口"
       ],
-      "definition" : "许诺；预示……可能发生 n. 保证；承诺；（某事或某",
+      "definition" : "许诺；预示……可能发生 n. 保证；承诺；（某事或某人将有好结果或成功的）迹象，征兆，（通常指）吉兆",
       "examples" : [
 
       ],
+      "frequency" : 1444,
       "mnemonic" : "pro-（向前）+ mis-（=-mit-=-miss：送出；派）+ -e→向前送出→承",
       "phonetic" : "ˈprɒmɪs",
       "pos" : "vt.",
@@ -645,7 +676,7 @@
       "collocations" : [
         "promising market：发展潜力大的市场",
         "most promising students：最有前途的学生",
-        "promising deposit：有开采价值的矿藏"
+        "promising deposit：有开采价值的矿藏\n笔 记 区"
       ],
       "definition" : "大有希望的；很有前途的",
       "examples" : [
@@ -662,12 +693,18 @@
       "collocations" : [
         "compromise with sb.：和某人妥协",
         "reach a compromise：达成了妥协",
-        "a compromise solution\/agreement\/candidate：折中的解决方案\/协议\/候"
+        "a compromise solution\/agreement\/candidate：折中的解决方案\/协议\/候\n选人",
+        "compromise their chances of reaching the finals：减少他们进入决赛的\n机会",
+        "Neither side is prepared to compromise. 双方都不愿意妥协。",
+        "I refuse to compromise my principles. 我拒绝在原则问题上妥协。",
+        "She had already compromised herself by accepting his invitation.\n她接受了他的邀请，这件事已经使她的声誉受到了损害。",
+        "parents is to make a compromise with them sometimes, for they devote\/",
+        "dedicate their whole life to bring you up."
       ],
       "definition" : "&vi.（为达成协议而）妥协；违背（原则）；（尤指因行为不很明智）使陷入危险，使受到损害 n. 妥协；妥协（或折中）方案；达成妥协（或和解）",
       "examples" : [
-        "There is no prospect of compromise in sight. 目前还没有和解的希望。\nNeither side is prepared to compromise. 双方都不愿意妥协。\nI refuse to compromise my principles. 我拒绝在原则问题上妥协。\nShe had already compromised herself by accepting his invitation.\n她接受了他的邀请，这件事已经使她的声誉受到了损害。",
-        "孝敬父母的表现之一就是有时要学会向父母妥协，毕竟他们为你\n操劳了一生。\nOne display\/manifestation\/demonstration\/expression of being filial to\nparents is to make a compromise with them sometimes, for they devote\/\ndedicate their whole life to bring you up."
+        "There is no prospect of compromise in sight. 目前还没有和解的希望。",
+        "孝敬父母的表现之一就是有时要学会向父母妥协，毕竟他们为你\n操劳了一生。\nOne display\/manifestation\/demonstration\/expression of being filial to"
       ],
       "frequency" : 3787,
       "mnemonic" : "com-（共同）+ promise（保证）→相互保证，担保→妥协；折中→",
@@ -680,10 +717,11 @@
       "collocations" : [
         "be compromised by：被……危害；被……连累"
       ],
-      "definition" : "（尤指因行为不很明智）使陷入危险的，",
+      "definition" : "（尤指因行为不很明智）使陷入危险的，使受到损害的",
       "examples" : [
 
       ],
+      "frequency" : 19217,
       "phonetic" : "ˈkɒmprəˌmaɪzd",
       "pos" : "adj.",
       "rootHint" : "mis",
@@ -692,12 +730,16 @@
     {
       "collocations" : [
         "sb. admits that...：某人承认……",
-        "be admitted to college：被大学录取"
+        "be admitted to college：被大学录取",
+        "third semester he was admitted to a special medical program.\n在头两个学期，他表现很出色，在第三个学期开头，他就被允许进入\n特殊医学计划\n（写作，阅读）重点：“承认”的表达方式：admit\/confess\/acknowledge",
+        "We must admit\/confess\/acknowledge that the Internet communication",
+        "has brought a lot of convenience to our lives, and at the same time a great",
+        "many problems to be solved."
       ],
       "definition" : "承认；接收；准许进入",
       "examples" : [
-        "During his first two semesters, he did very well and at the beginning of\nthird semester he was admitted to a special medical program.\n在头两个学期，他表现很出色，在第三个学期开头，他就被允许进入\n特殊医学计划\n（写作，阅读）重点：“承认”的表达方式：admit\/confess\/acknowledge",
-        "我们必须承认，网络交际给我们的生活带来了极大的便利，但同时也\n带来了很多急需解决的问题。\nWe must admit\/confess\/acknowledge that the Internet communication\nhas brought a lot of convenience to our lives, and at the same time a great\nmany problems to be solved."
+        "During his first two semesters, he did very well and at the beginning of",
+        "我们必须承认，网络交际给我们的生活带来了极大的便利，但同时也\n带来了很多急需解决的问题。"
       ],
       "frequency" : 1093,
       "mnemonic" : "ad-（=to）+ -mit（=allow, permit, let：允许；可以）→准许进入；承",
@@ -711,10 +753,11 @@
         "admissions office：招生办公室",
         "be granted admission to：被批准进入"
       ],
-      "definition" : "进入许可；承认；获准入学者；（公园、博物馆",
+      "definition" : "进入许可；承认；获准入学者；（公园、博物馆等地的）门票价格",
       "examples" : [
         "Admission is free. 免门票。"
       ],
+      "frequency" : 3057,
       "phonetic" : "ədˈmɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "mis",
@@ -798,7 +841,7 @@
     {
       "collocations" : [
         "permissive attitudes：纵容的态度",
-        "permissive parents (= who allow their children a lot of freedom)：放任的"
+        "permissive parents (= who allow their children a lot of freedom)：放任的\n父母\n20000 词汇巅峰\n速\n记\n笔 记 区\n词根 mun-, mon- 引申义为“公共的；共同的”。"
       ],
       "definition" : "宽容的；放任的；纵容的",
       "examples" : [
@@ -816,14 +859,14 @@
         "a common name：一个常见的名字",
         "a common language：一种共同的语言",
         "the common man：普通人",
-        "common knowledge\/sense：普遍常识",
-        "in common：共同的特点（兴趣或经历）"
+        "common knowledge\/sense：普遍常识\nin common：共同的特点（兴趣或经历）"
       ],
-      "definition" : "常见的；共同的；普通的；普遍的（知识、观点、",
+      "definition" : "常见的；共同的；普通的；普遍的（知识、观点、情感等）",
       "etymology" : "单词common源自古法语comun和拉丁语communis，表示“普通 的，平常的，公共的，共同的”。英语单词commune（公社）、 community（社区）、communicate（通讯，交流）等均源于此。",
       "examples" : [
 
       ],
+      "frequency" : 713,
       "mnemonic" : "com-（=together：一起）+ -mon（shared by all：共有的；共享的）→\n一起共有的，全体共享的→常见的；共同的；普通的；普遍的",
       "phonetic" : "ˈkɒmən",
       "pos" : "adj.",
@@ -878,7 +921,9 @@
     },
     {
       "collocations" : [
-        "marry a commoner：与平民结婚"
+        "marry a commoner：与平民结婚",
+        "In countries such as Britain which have a nobility, commoners are the",
+        "people who are not members of the nobility.\n笔 记 区"
       ],
       "definition" : "平民",
       "examples" : [
@@ -910,12 +955,13 @@
       "collocations" : [
         "Commonwealth countries：英联邦国家",
         "the Commonwealth of Australia：澳大利亚联邦",
-        "the Commonwealth of Independent States (CIS)：独立国家联合体（独"
+        "the Commonwealth of Independent States (CIS)：独立国家联合体（独\n联体）"
       ],
-      "definition" : "英联邦；联邦；（用于某些政治上相互有",
+      "definition" : "英联邦；联邦；（用于某些政治上相互有联系的国家集团的名称）联合体",
       "examples" : [
 
       ],
+      "frequency" : 16671,
       "mnemonic" : "common（共同的）+ wealth（财产；福利）→有着共同利益的人群集\n合→后用于指英联邦国家；联邦；联合体",
       "phonetic" : "ˈkɒmənwelθ",
       "pos" : "n.",
@@ -926,7 +972,7 @@
       "collocations" : [
         "the international community：国际社会",
         "the farming community：农业界",
-        "a strong sense of community：强烈的社区意识",
+        "a strong sense of community：强烈的社区意识\n区别：commodity [kəˈmɒdɪtɪ] n. 商品；有使用价值的事物 4632",
         "commodity-price inflation：商品价格通货膨胀",
         "commodity：商品"
       ],
@@ -946,10 +992,11 @@
         "commune with sb.\/sth.：与……默默分享情感（或沟通、交融）",
         "Paris Commune\/ Commune of Paris：巴黎公社"
       ],
-      "definition" : "亲密地交谈 n.（共同生活、分担责任、共享财产等",
+      "definition" : "亲密地交谈 n.（共同生活、分担责任、共享财产等的）群体，公社；亲密的谈话；交流",
       "examples" : [
 
       ],
+      "frequency" : 14640,
       "mnemonic" : "commun（=common：共同的；公共的）+ e→to make common,\nshare：使共有、分享、交流（的群体）→交流；亲密的交谈；群体",
       "phonetic" : "ˈkɒmjuːn",
       "pos" : "vi.",
@@ -959,7 +1006,7 @@
     {
       "collocations" : [
         "a communal kitchen\/garden, etc.：共用的厨房、花园等",
-        "communal property：公共产业；公有财产"
+        "communal property：公共产业；公有财产\n同义词：shared：共享的；共有的"
       ],
       "definition" : "共享的，共用的；不同群体的，各团体的",
       "examples" : [
@@ -990,14 +1037,15 @@
     {
       "collocations" : [
         "a Communist country\/government\/leader：共产主义的国家\/政府\/领袖",
-        "the Communist Party：共产党"
+        "the Communist Party：共产党\n比较：capitalist n.\/a. 资本家（的）（capital资本）\nsocialist n.\/a. 社会主义者（的）（social社会的）",
+        "materialist n.\/a. 唯物主义者（的）（material物质）\n笔 记 区"
       ],
       "definition" : "共产主义者 adj. 共产主义的",
       "examples" : [
 
       ],
       "frequency" : 6431,
-      "mnemonic" : "commune（共产的群体）+ -ist（名词\/形容词后缀，主义者；主义",
+      "mnemonic" : "commune（共产的群体）+ -ist（名词\/形容词后缀，主义者；主义\n的）→共产主义者；共产主义的",
       "phonetic" : "ˈkɒmjʊnɪst",
       "pos" : "n.",
       "rootHint" : "mis",
@@ -1024,10 +1072,11 @@
         "to take\/receive communion (= receive the bread and wine)：领受圣餐",
         "Holy Communion：圣餐仪式"
       ],
-      "definition" : "（思想感情的）交流，交融；（基督教教会",
+      "definition" : "（思想感情的）交流，交融；（基督教教会的）圣餐仪式",
       "examples" : [
 
       ],
+      "frequency" : 9953,
       "mnemonic" : "commun（=commune：亲密交谈）+ -ion（名词后缀，表动作或状\n态）→交流；交融；特指基督教的分享面包和酒的圣餐仪式（通过领",
       "phonetic" : "kəˈmjuːnjən",
       "pos" : "n.",
@@ -1084,7 +1133,8 @@
     },
     {
       "collocations" : [
-        "an effective\/skilled\/successful communicator：有效的\/熟练的\/成功的交"
+        "an effective\/skilled\/successful communicator：有效的\/熟练的\/成功的交",
+        "a poor communicator：不善于交流的人"
       ],
       "definition" : "交流者；沟通的人",
       "examples" : [
@@ -1100,12 +1150,13 @@
     {
       "collocations" : [
         "communicative skills：语言交际能力",
-        "communicative function：交际功能"
+        "communicative function：交际功能\n反义词：uncommunicative：不爱说话的；寡言少语的；缄默的"
       ],
       "definition" : "爱说话的，健谈的；语言交际能力的",
       "examples" : [
         "She has become a lot more tolerant and communicative."
       ],
+      "frequency" : 16105,
       "mnemonic" : "communicate（交流；沟通）+ -ive（形容词后缀）→善于交流、沟通\n的→爱说话的，健谈的；语言交际能力的",
       "phonetic" : "kəˈmjuːnɪkətɪv",
       "pos" : "adj.",
@@ -1180,13 +1231,13 @@
     },
     {
       "collocations" : [
+        "untaxed; unburdened, not tributary（免除公共服务；免税的；五牵累\n的；免于纳贡的）”",
         "become immune to criticism：不再受批评影响了",
-        "immune system：免疫系统",
-        "immune body：免疫体；抗体",
+        "immune system：免疫系统\nimmune body：免疫体；抗体",
         "be immune from prosecution：免于被起诉"
       ],
       "definition" : "有免疫的；不受影响的；免于……的，免除的",
-      "etymology" : "来自15世纪中期, “free, exempt” (from taxes, tithes, sin, etc.)：免去税、 十一税、罪等的，来自拉丁语immunis “exempt from public service, untaxed; unburdened, not tributary（免除公共服务；免税的；五牵累 的；免于纳贡的）” 。",
+      "etymology" : "来自15世纪中期, “free, exempt” (from taxes, tithes, sin, etc.)：免去税、 十一税、罪等的，来自拉丁语immunis “exempt from public service, 。",
       "examples" : [
 
       ],
@@ -1201,7 +1252,8 @@
       "collocations" : [
         "immunity to infection：对传染病的免疫力",
         "immunity against flu：对流感的免疫效力",
-        "diplomatic immunity：外交豁免权"
+        "diplomatic immunity：外交豁免权",
+        "mean they cannot be arrested, taxed, etc. in that country）"
       ],
       "definition" : "免疫力；受保护；豁免",
       "examples" : [

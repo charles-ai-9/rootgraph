@@ -14,21 +14,20 @@
       "collocations" : [
         "in the long term \/ in the short term \/ in the medium term：从长远 \/ 短期 \/",
         "in terms of：从……角度来看",
-        "on good terms \/ on friendly terms：关系好",
-        "on one’s terms：按照某人的意愿",
+        "on good terms \/ on friendly terms：关系好\non one’s terms：按照某人的意愿",
         "to buy sth on easy terms：按分期付款方式购买",
         "under the terms of the agreement：根据协议条款",
         "explain in simple terms：讲得通俗易懂",
         "come to terms with sth.：迁就顺从；接受（令人不快的事物）",
-        "on your own terms \/ on sb.’s terms：按照自己的条件；根据……的主张"
+        "on your own terms \/ on sb.’s terms：按照自己的条件；根据……的主张\n笔 记 区\n与 term 一样，同样表达术语含义的单词还有 terminology。"
       ],
       "definition" : "把……称作 n. 术语；学期；任期；有效期；条款",
-      "etymology" : "term-=end, final point, a limit, boundary line：结束；界限；边界线。原 始含义是树立在边界上的桩柱→表示界限，一个时期的结束→学期； 任期；有效期 ter-：base of words meaning：单词的基础含义+ m→术语；把……称 作",
+      "etymology" : "term-=end, final point, a limit, boundary line：结束；界限；边界线。原 任期；有效期 作",
       "examples" : [
 
       ],
       "frequency" : 627,
-      "mnemonic" : "来自 term-：边界，终端，引申词义术语，措辞，期限等\nterm的复数形式。引申词义限制条件，特别用于指合同条款，（交易",
+      "mnemonic" : "始含义是树立在边界上的桩柱→表示界限，一个时期的结束→学期；\nter-：base of words meaning：单词的基础含义+ m→术语；把……称\n来自 term-：边界，终端，引申词义术语，措辞，期限等\nterm的复数形式。引申词义限制条件，特别用于指合同条款，（交易\nterm：术语；把……称作→terms：表达方式；措辞",
       "phonetic" : "tɜːm",
       "pos" : "vt.",
       "rootHint" : "termin",
@@ -38,7 +37,7 @@
       "collocations" : [
         "environmental terminology：环境术语",
         "scientific terminology：科学术语",
-        "medical terminology：医学术语"
+        "medical terminology：医学术语\n词根 termin- 表示末端，终点，死亡等含义时，词汇如下："
       ],
       "definition" : "某学科术语；专门用语",
       "etymology" : "术语不仅是（对）语言的使用，也是关于一个科学术语体系的学说 或研究。它在拉丁语言的词源学研究，和自然哲学中得到了广泛的 使用。这个词本身是由terminus演变而来，这个词在中世纪拉丁语中 指的是界石，和logos构成的，当然，后者同时意味着话语、词和理 性。",
@@ -57,15 +56,16 @@
         "terminal building：（机场）航站楼",
         "a railway \/ bus \/ ferry terminal：铁路 \/ 公共汽车终点站；渡船码头",
         "a terminal patient：晚期病人",
-        "in terminal decline：每况愈下；一蹶不振",
+        "in terminal decline：每况愈下；一蹶不振\n比较：eternal [iˈtə:nəl] adj. 永恒的；无休止的",
         "the promise of eternal life in heaven：在天国永生的许诺",
         "eternal arguments：没完没了的争论"
       ],
-      "definition" : "（疾病）晚期的；致命的；无可挽回的 n. 航空",
+      "definition" : "（疾病）晚期的；致命的；无可挽回的 n. 航空站；终点站；（计算机）终端",
       "examples" : [
 
       ],
-      "mnemonic" : "termin-（=end, final, boundary line：末尾；死亡；终点）+-al（形容词\ne-（出去；远离）+ tern（=term=to + end）+ -al（形容词后缀）→远\n离终结的，不会终结→永恒的；无休止的",
+      "frequency" : 5864,
+      "mnemonic" : "termin-（=end, final, boundary line：末尾；死亡；终点）+-al（形容词\n后缀）→末端的，终点的→（疾病）晚期的；无可挽回的；航空站；\ne-（出去；远离）+ tern（=term=to + end）+ -al（形容词后缀）→远\n离终结的，不会终结→永恒的；无休止的",
       "phonetic" : "ˈtɜːmɪn(ə)l",
       "pos" : "adj.",
       "rootHint" : "termin",
@@ -91,10 +91,11 @@
         "terminate the pregnancy：终止妊娠",
         "terminate at Lamy：终点站是拉米"
       ],
-      "definition" : "&vi. 终止；终止（妊娠） vi. （火车或公共汽车）",
+      "definition" : "&vi. 终止；终止（妊娠） vi. （火车或公共汽车）到达终点",
       "examples" : [
 
       ],
+      "frequency" : 7311,
       "mnemonic" : "termin-（=terminal：末端的；终点的）+ -ate（使动词）→使结束，\n使终结→终止；到达终点",
       "phonetic" : "ˈtɜːmɪneɪt",
       "pos" : "vt.",
@@ -118,7 +119,8 @@
     },
     {
       "collocations" : [
-        "an interminable speech \/ wait \/ discussion：无休止的讲话 \/ 等待 \/ 讨论"
+        "an interminable speech \/ wait \/ discussion：无休止的讲话 \/ 等待 \/ 讨论",
+        "an interminable meeting：一次没完没了的会议\n笔 记 区\n词根 termin- 表示边界，界限等含义时，词汇如下："
       ],
       "definition" : "冗长的；无休止的",
       "examples" : [
@@ -135,7 +137,9 @@
       "collocations" : [
         "determine the cooking time：决定烹饪时间",
         "determine what really happened：查明真相",
-        "determine to rescue his two countrymen：决心要援救他的两位同胞"
+        "determine to rescue his two countrymen：决心要援救他的两位同胞",
+        "Determine 的派生词为 determination, determined, determinant, indeterminate,",
+        "predeter--mined, determinism, interminable 等。"
       ],
       "definition" : "决定；查明；使……下定决心",
       "examples" : [
@@ -178,7 +182,8 @@
     },
     {
       "collocations" : [
-        "（N-COUNT）决定因素 A determinant of something causes it to be of a"
+        "（N-COUNT）决定因素 A determinant of something causes it to be of a",
+        "particular kind or to happen in a particular way."
       ],
       "definition" : "决定因素",
       "examples" : [
@@ -226,10 +231,11 @@
         "psychic determinism：心理决定论",
         "historical determinism：历史决定论"
       ],
-      "definition" : "决定论（排除自由意志，认为个性或行为均",
+      "definition" : "决定论（排除自由意志，认为个性或行为均由环境和自己不能控制的因素所决定）",
       "examples" : [
 
       ],
+      "frequency" : 19504,
       "phonetic" : "dɪˈtɜːmɪnɪzəm",
       "pos" : "n.",
       "rootHint" : "termin",
@@ -254,7 +260,7 @@
     {
       "collocations" : [
         "the extermination of mosquito：消灭蚊子",
-        "a list of roach extermination techniques：一系列蟑螂消灭术"
+        "a list of roach extermination techniques：一系列蟑螂消灭术\nroach=cockroach [ˈkɒkrəʊtʃ] n. 蟑螂 14305"
       ],
       "definition" : "消灭；灭绝",
       "examples" : [

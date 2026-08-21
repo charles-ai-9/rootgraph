@@ -34,6 +34,7 @@
       "examples" : [
 
       ],
+      "frequency" : 10075,
       "mnemonic" : "scrib(写)+le(反复或连续动作、动作的小幅度重复，如dawdle, dwindle,\nsquabble)→写字或画画等动作反复、连续重复(不太有规则地写或\n画)→乱写乱画，涂鸦；潦草写成的字、文章或图画",
       "phonetic" : "ˈskrɪb(ə)l",
       "pos" : "v.",
@@ -57,10 +58,13 @@
     },
     {
       "collocations" : [
+        "of writing, written characters,” from Late Latin scriptura “the writings",
+        "contained in the Bible, a passage from the Bible,” in classical Latin “a",
+        "writing, character, inscription,” from scriptus, past participle of scribere “to",
         "ancient scripture：古老的经文"
       ],
       "definition" : "(大写)《圣经》；《圣经》经文；圣典",
-      "etymology" : "early 14c., “the sacred writings of the Bible;” mid-14c., “a writing, an act of writing, written characters,” from Late Latin scriptura “the writings contained in the Bible, a passage from the Bible,” in classical Latin “a writing, character, inscription,” from scriptus, past participle of scribere “to write” (from PIE root *skribh- “to cut”).",
+      "etymology" : "early 14c., “the sacred writings of the Bible;” mid-14c., “a writing, an act write” (from PIE root *skribh- “to cut”).",
       "examples" : [
 
       ],
@@ -73,7 +77,8 @@
     },
     {
       "collocations" : [
-        "scriptural references: 《圣经》引文"
+        "scriptural references: 《圣经》引文",
+        "the Christian Bible."
       ],
       "definition" : "《圣经》中的；根据《圣经》的",
       "examples" : [
@@ -88,7 +93,9 @@
     },
     {
       "collocations" : [
-        "ascribe sth to sb\/sth：将……归因于"
+        "ascribe sth to sb\/sth：将……归因于",
+        "consider that it was caused by that thing.",
+        "(V-T) If you ascribe a quality to someone, you consider that they possess"
       ],
       "definition" : "归因于；归咎于；将……归属于某人",
       "examples" : [
@@ -103,7 +110,11 @@
     },
     {
       "collocations" : [
-        "be conscripted into army：被征召进入军队"
+        "be conscripted into army：被征召进入军队",
+        "释义：(N-COUNT) A conscript is a person who has been made to join the armed",
+        "forces of a country.",
+        "(V-T) If someone is conscripted, they are officially made to join the armed\n20000 词 汇巅峰\n速\n记\n笔 记 区",
+        "forces of a country."
       ],
       "definition" : "应征士兵 vt. 征召入伍 adj. 被征召的",
       "etymology" : "“one who is compulsorily enrolled for military or naval service,” 1800",
@@ -119,7 +130,8 @@
     },
     {
       "collocations" : [
-        "a manuscript of the book 这本书的一份手稿"
+        "a manuscript of the book 这本书的一份手稿",
+        "释义：(N-COUNT) A manuscript is a handwritten or typed document, especially\na writer’s first version of a book before it is published."
       ],
       "definition" : "原稿；手稿",
       "examples" : [
@@ -134,7 +146,10 @@
     },
     {
       "collocations" : [
-        "prescribed medications：开出的药"
+        "prescribed medications：开出的药",
+        "you what medicine or treatment to have.",
+        "(V-T) If a person or set of laws or rules prescribes an action or duty, they",
+        "state that it must be carried out."
       ],
       "definition" : "&vi. 开(药、处方)；规定；命令",
       "examples" : [
@@ -164,7 +179,11 @@
     },
     {
       "collocations" : [
-        "prescription-drug：处方药"
+        "prescription-drug：处方药",
+        "释义：(N-COUNT) A prescription is the piece of paper on which your doctor",
+        "writes an order for medicine and which you give to a pharmacist to get the\nmedicine.",
+        "(N-COUNT) A prescription is a proposal or a plan that gives ideas about",
+        "how to solve a problem or improve a situation.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "药方；规定；方案",
       "examples" : [
@@ -179,13 +198,16 @@
     },
     {
       "collocations" : [
-        "transcribe meters：抄表"
+        "over, transfer,” from trans “across, beyond; over” (see trans-)+scribere “to",
+        "transcribe meters：抄表",
+        "example, from notes or from a tape recording."
       ],
-      "definition" : "(根据笔记或磁带录音等)转录；抄写；整",
-      "etymology" : "1550s, from Latin transcribere “to copy, write again in another place, write over, transfer,” from trans “across, beyond; over” (see trans-)+scribere “to write” (from PIE root *skribh- “to cut”). To do it poorly is to transcribble (1746). Related: Transcribed; transcriber; transcribing.",
+      "definition" : "(根据笔记或磁带录音等)转录；抄写；整理；打印",
+      "etymology" : "1550s, from Latin transcribere “to copy, write again in another place, write write” (from PIE root *skribh- “to cut”). To do it poorly is to transcribble (1746). Related: Transcribed; transcriber; transcribing.",
       "examples" : [
 
       ],
+      "frequency" : 9707,
       "mnemonic" : "trans(转变，转换)+-scrib(=write，写)+-e→把思想、言语、笔记等转\n换方式，整理成文字→转录；抄写；整理；打印",
       "phonetic" : "trænˈskraɪb;trɑːn-",
       "pos" : "vt.",
@@ -224,12 +246,16 @@
     },
     {
       "collocations" : [
-        "circumscribe one’s interest：限制某人的爱好"
+        "a line around; limit, restrain, confine, set the boundaries of,” from circum",
+        "circumscribe one’s interest：限制某人的爱好",
+        "circumscribed.\n军方明显担心，在他的管辖下，各种活动都将受到严格限制。",
+        "There are laws circumscribing the right of individual citizens to cause",
+        "bodily harm to others.\n限制公民对他人造成人身伤害的规定是有法可依的"
       ],
       "definition" : "限制，限定；在……周围画线",
-      "etymology" : "late 14c., “to encompass; confine, restrain, mark out bounds or limits for,” from Latin circumscribere “to make a circle around, encircle, draw a line around; limit, restrain, confine, set the boundaries of,” from circum “around, round about” (see circum-)+scribere “to write” (from PIE root *skribh- “to cut”). Related: Circumscribed; circumscribing.",
+      "etymology" : "late 14c., “to encompass; confine, restrain, mark out bounds or limits for,” from Latin circumscribere “to make a circle around, encircle, draw “around, round about” (see circum-)+scribere “to write” (from PIE root *skribh- “to cut”). Related: Circumscribed; circumscribing.",
       "examples" : [
-        "The army evidently fears that, under him, its activities would be severely\ncircumscribed.\n军方明显担心，在他的管辖下，各种活动都将受到严格限制。\nThere are laws circumscribing the right of individual citizens to cause\nbodily harm to others.\n限制公民对他人造成人身伤害的规定是有法可依的"
+        "The army evidently fears that, under him, its activities would be severely"
       ],
       "frequency" : 17559,
       "mnemonic" : "circum(=around，圈；周围)+scribe(写)→在……周围画圈圈(划定界\n限)→限制，限 定；在……周围画线",
@@ -240,13 +266,22 @@
     },
     {
       "collocations" : [
-        "subscribe to the journal：订阅杂志"
+        "(by subscribing one’s name) first recorded mid-15c.; that of “contribute\nmoney to” 1630s; and that of “become a regular buyer of a publication”",
+        "subscribe to the journal：订阅杂志",
+        "copies of it regularly.",
+        "(V-I) If you subscribe to an organizaiton, you pay money regularly to be a",
+        "member of an organization or to support a charity.",
+        "(V-I) If you subscribe to a servie, you apply to take part in an activity, use",
+        "a service, etc.",
+        "(V-I) If you subscribe to an opinion\/perspective\/point of view, you agree",
+        "great joy, and at the same time, some potential threats.\n20000 词 汇巅峰\n速\n记\n大多数人都会同意(subscribe to)这一观点：放鞭炮在给我们带来喜庆\n的同时，也带来了潜在的威胁。\n笔 记 区"
       ],
       "definition" : "订阅；定期捐款；预订 vt.&vi. 同意、赞成 vt. 签署",
-      "etymology" : "early 15c., “to sign at the bottom of a document,” from Latin subscribere “write, write underneath, sign one’s name; register,” also figuratively “assent, agree to, approve,” from sub “underneath” (see sub-)+scribere “to write” (from PIE root *skribh- “to cut”). The meaning “give one’s consent” (by subscribing one’s name) first recorded mid-15c.; that of “contribute money to” 1630s; and that of “become a regular buyer of a publication” 1711, all originally literal. Related: Subscribed; subscribing",
+      "etymology" : "early 15c., “to sign at the bottom of a document,” from Latin subscribere “write, write underneath, sign one’s name; register,” also figuratively “assent, agree to, approve,” from sub “underneath” (see sub-)+scribere “to write” (from PIE root *skribh- “to cut”). The meaning “give one’s consent” 1711, all originally literal. Related: Subscribed; subscribing",
       "examples" : [
-        "Most people would subscribe to this view: setting off fireworks brings us\ngreat joy, and at the same time, some potential threats."
+        "Most people would subscribe to this view: setting off fireworks brings us"
       ],
+      "frequency" : 8132,
       "mnemonic" : "sub(=under，下)+scrib(写)+e(动词词尾)→在文件下面写下(名字)，表\n示订购、捐款、同意、赞成→(签署名字)订阅；捐款；预定；同意、",
       "phonetic" : "səbˈskraib",
       "pos" : "vi.",
@@ -272,10 +307,11 @@
       "collocations" : [
         "yearly subscription：年度会员费"
       ],
-      "definition" : "(报刊的)订阅费；订阅；向慈善的机构的)定",
+      "definition" : "(报刊的)订阅费；订阅；向慈善的机构的)定期捐款；(俱乐部的)会员费 adj. (电视或频道)付费的",
       "examples" : [
 
       ],
+      "frequency" : 8466,
       "mnemonic" : "subscribe(订阅，捐献)→订阅费；定期捐款；会员费；付费的",
       "phonetic" : "səbˈskrɪpʃ(ə)n",
       "pos" : "n.",
@@ -346,10 +382,11 @@
       "collocations" : [
         "nondescript buildings：毫无特色的建筑"
       ],
-      "definition" : "毫无特色的；毫无兴趣的；毫无吸引力的",
+      "definition" : "毫无特色的；毫无兴趣的；毫无吸引力的n. 无明显特征的人或物；难以形容的人或物",
       "examples" : [
 
       ],
+      "frequency" : 15178,
       "mnemonic" : "non(=no，不)+de(下)+script(写)→不能描绘、形容、描写的人或物→",
       "phonetic" : "ˈnɒndɪskrɪpt",
       "pos" : "adj.",
@@ -375,10 +412,11 @@
       "collocations" : [
         "inscribed shares：记名股票；inscribed circle：内切圆"
       ],
-      "definition" : "题写的；内切的；记名的；有铭刻的 v. 题写；雕",
+      "definition" : "题写的；内切的；记名的；有铭刻的 v. 题写；雕刻(inscribe的过去分词)",
       "examples" : [
 
       ],
+      "frequency" : 19999,
       "mnemonic" : "inscribe(题写；铭记；雕刻)+-d(形容词后缀)→题写的；铭刻的；雕刻",
       "phonetic" : "ɪnˈskraɪbd",
       "pos" : "adj.",

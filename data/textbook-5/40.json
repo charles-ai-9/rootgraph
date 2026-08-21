@@ -13,14 +13,15 @@
   "words" : [
     {
       "collocations" : [
-        "in case \/ just in case：以防"
+        "in case \/ just in case：以防",
+        "a black case for his glasses：他的黑色的眼镜盒\n笔 记 区"
       ],
       "definition" : "容器；箱子；情况；案例；事实",
       "examples" : [
 
       ],
       "frequency" : 186,
-      "mnemonic" : "cas-（=cap-=to hold：保留；持有）+ e→容器；箱子\ncas-（=fall：下降，降落）+ e→发生的事情→情况；案例；事实",
+      "mnemonic" : "cas-（=cap-=to hold：保留；持有）+ e→容器；箱子\ncas-（=fall：下降，降落）+ e→发生的事情→情况；案例；事实\ncase2）：receptacle, box, that which encloses or contains→容器；箱子",
       "phonetic" : "keɪs",
       "pos" : "n.",
       "word" : "case"
@@ -73,10 +74,11 @@
         "space capsule：太空舱",
         "a time capsule：时光宝盒"
       ],
-      "definition" : "（装药的）胶囊；（用于医学或科学目的的）小容",
+      "definition" : "（装药的）胶囊；（用于医学或科学目的的）小容器；太空舱",
       "examples" : [
         "They first implanted capsules into the animals’ brains.\n他们先将胶囊植入那些动物的大脑。"
       ],
+      "frequency" : 7621,
       "mnemonic" : "caps-（=box, case：箱子；盒子）+ -ule（名词后缀，指小形式）→小\n盒子→胶囊；小容器；太空舱",
       "phonetic" : "ˈkæpsju:l",
       "pos" : "n.",

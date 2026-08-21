@@ -19,19 +19,21 @@
         "in chronological \/ numerical order：按时间 \/ 数字顺序",
         "rank in descending \/ ascending order：按递降 \/ 递升的顺序排列",
         "public order：公共秩序",
-        "give the order：下命令",
-        "doctor’s orders：医生的命令（医嘱）",
+        "give the order：下命令\ndoctor’s orders：医生的命令（医嘱）",
         "an order form：订货单",
         "order them to fire：命令他们开火",
         "order direct from the manufacturer：向厂方直接订货",
         "order a sandwich：点了一个三明治",
-        "order my thoughts：梳理一下思路"
+        "order my thoughts：梳理一下思路",
+        "May I take your order?\n您现在点菜吗？\n比较：order & command",
+        "order较command通用，可用于任何权威人物命令他人做某事，如父\n母、老师或政府。command的语气稍强于order，是部队长官发布命\n令的一般用词，或者用于发布一般没有商量余地的命令。该词不大可\n能用于父母或老师。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "顺序；条理；治安，秩序；命令；订货；点菜 vt. 命令，",
+      "definition" : "顺序；条理；治安，秩序；命令；订货；点菜 vt. 命令，指挥；订货；点（酒菜等）；组织，梳理",
       "etymology" : "来自拉丁语ordinare：安排，布置，指定，来自PIE*ord-,安排，布 置，引申词义顺序，命令，点菜，定购等。",
       "examples" : [
-        "The house had been kept in good order.\n房子保持得很有条理（井井有条）。\nMay I take your order?\n您现在点菜吗？\n比较：order & command\norder较command通用，可用于任何权威人物命令他人做某事，如父\n母、老师或政府。command的语气稍强于order，是部队长官发布命\n令的一般用词，或者用于发布一般没有商量余地的命令。该词不大可\n能用于父母或老师。"
+        "The house had been kept in good order.\n房子保持得很有条理（井井有条）。"
       ],
+      "frequency" : 685,
       "phonetic" : "ˈɔːdə(r)",
       "pos" : "n.",
       "rootHint" : "ord",
@@ -104,11 +106,13 @@
       "collocations" : [
         "public disorder：公众骚乱",
         "a blood \/ bowel, etc. disorder：血液病、闹肚子",
-        "eating disorders：进食紊乱"
+        "eating disorders：进食紊乱\n20000 词汇巅峰\n速\n记",
+        "nerve disorder：神经系统紊乱",
+        "The emergency room was in disorder.\n急救室一片混乱。\n笔 记 区"
       ],
       "definition" : "混乱，凌乱；骚乱；失调，紊乱，疾病",
       "examples" : [
-        "His financial affairs were in complete disorder.\n他的财务完全混乱。\nThe emergency room was in disorder.\n急救室一片混乱。"
+        "His financial affairs were in complete disorder.\n他的财务完全混乱。"
       ],
       "frequency" : 2388,
       "mnemonic" : "dis-（=not：使相反）+ order（秩序；条理）→没有秩序，条理→混",
@@ -123,10 +127,11 @@
         "a disordered state：混乱状态",
         "emotionally disordered children：情绪紊乱的孩子"
       ],
-      "definition" : "杂乱的，混乱的；（身心）失调的，紊乱的，错",
+      "definition" : "杂乱的，混乱的；（身心）失调的，紊乱的，错乱的",
       "examples" : [
 
       ],
+      "frequency" : 16304,
       "phonetic" : "dɪsˈɔːdəd",
       "pos" : "adj.",
       "rootHint" : "ord",
@@ -137,10 +142,11 @@
         "newspapers in a disorderly pile by the door：门边一堆杂乱的报纸",
         "disorderly conduct：目无法纪的行为；扰乱治安的行为"
       ],
-      "definition" : "混乱的，杂乱的；目无法纪的，（某人）不守秩",
+      "definition" : "混乱的，杂乱的；目无法纪的，（某人）不守秩序的，（某地）混乱无序的",
       "examples" : [
         "She was jailed for being drunk and disorderly.\n她因酗酒和不守秩序（扰乱治安）而被监禁。"
       ],
+      "frequency" : 18020,
       "phonetic" : "dɪsˈɔːdəlɪ",
       "pos" : "adj.",
       "rootHint" : "ord",
@@ -185,10 +191,11 @@
         "good hand-eye coordination：手和眼（动作）协调好",
         "advice on color coordination：对颜色搭配的建议"
       ],
-      "definition" : "协调，搭配，协作；（身体各部位的）协调",
+      "definition" : "协调，搭配，协作；（身体各部位的）协调能力",
       "examples" : [
 
       ],
+      "frequency" : 6149,
       "mnemonic" : "coordinate（协调；搭配；配合）+ -ion（名词后缀）→协调，搭配，",
       "phonetic" : "kəʊˌɔːdɪˈneɪʃn",
       "pos" : "n.",
@@ -199,10 +206,11 @@
       "collocations" : [
         "a well-coordinated surprise attack：一次完美配合的突袭"
       ],
-      "definition" : "调节，整理（coordinate的过去式和过去分",
+      "definition" : "调节，整理（coordinate的过去式和过去分词） adj. 协调的，配合的",
       "examples" : [
 
       ],
+      "frequency" : 10332,
       "phonetic" : "kəʊˈɔ:dɪneɪtɪd",
       "pos" : "vt.",
       "rootHint" : "ord",
@@ -243,7 +251,7 @@
     {
       "collocations" : [
         "an extraordinary achievement：卓越的成就",
-        "an extraordinary meeting：一次特别的会议"
+        "an extraordinary meeting：一次特别的会议\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "意想不到的；卓越的；特别的",
       "examples" : [
@@ -274,11 +282,15 @@
     },
     {
       "collocations" : [
-        "subordinate to：从属于；服从于"
+        "subordinate to：从属于；服从于",
+        "subordinate sb. \/ sth. (to sb. \/ sth.)：\n使某人 \/ 某事从属于某人 \/ 某事；使某人 \/ 某事置于某人 \/ 某事之上",
+        "the relationship between subordinates and superiors：上下级关系",
+        "shift responsibility to his subordinates：把责任转移给他的下属",
+        "Safety considerations were subordinated to commercial interests.\n商业利益置于安全考虑之上。"
       ],
       "definition" : "把……置于次要地位；使从属于 adj. 从属的；下级的；次要的 n. 下级，部属",
       "examples" : [
-        "In many societies women are subordinate to men.\n在许多社会中，妇女都从属于男人。\nSafety considerations were subordinated to commercial interests.\n商业利益置于安全考虑之上。"
+        "In many societies women are subordinate to men.\n在许多社会中，妇女都从属于男人。"
       ],
       "frequency" : 10032,
       "mnemonic" : "sub-（下）+ ord-（=order：安排）+ -inate（=-ine + -ate：复合动词后\n缀）→安排在……之下→使从属于；从属的，下级的，次要的；下",
@@ -289,7 +301,8 @@
     },
     {
       "collocations" : [
-        "subordination relations：从属关系"
+        "subordination relations：从属关系",
+        "restore the traditional subordination of women within the patriarchy：\n在父权社会中恢复把女性作为附属的传统"
       ],
       "definition" : "附属；从属",
       "examples" : [
@@ -304,12 +317,14 @@
     },
     {
       "collocations" : [
-        "be ordained (as) a priest：被任命为神父"
+        "be ordained (as) a priest：被任命为神父",
+        "Fate had ordained that they would never meet again.\n他们命里注定永远不会再相见。",
+        "His rule was ordained by heaven.\n他的统治是天命的。"
       ],
       "definition" : "任命某人为牧师 vt. 命令；（上帝、法律或命运）主宰；规定",
       "etymology" : "Ordain来源于拉丁语ordinare，来自古法语ordener的词根orden-。含义 为to put in order, arrange, appoint，表示“安排；布置；指定”。",
       "examples" : [
-        "Nehru ordained that socialism should rule.\n尼赫鲁下命实行社会主义制度。\nFate had ordained that they would never meet again.\n他们命里注定永远不会再相见。\nHis rule was ordained by heaven.\n他的统治是天命的。"
+        "Nehru ordained that socialism should rule.\n尼赫鲁下命实行社会主义制度。"
       ],
       "frequency" : 13530,
       "phonetic" : "ɔːˈdeɪn",
@@ -337,10 +352,11 @@
         "the powers that be are ordained of God. 凡掌权的都是神所命的。",
         "ordained minister：被任命的牧师"
       ],
-      "definition" : "（上帝、命运等）主宰，规定（ordain的过去式和过",
+      "definition" : "（上帝、命运等）主宰，规定（ordain的过去式和过去分词） adj. 任命的；命定的",
       "examples" : [
 
       ],
+      "frequency" : 17666,
       "phonetic" : "ɔːˈdeɪnd",
       "pos" : "vt.",
       "rootHint" : "ord",
@@ -364,12 +380,13 @@
     {
       "collocations" : [
         "an ordnance depot：军火库",
-        "unexploded ordnance：未爆炸军火"
+        "unexploded ordnance：未爆炸军火\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "（可移动）大炮；军需品（尤指军火、武器），军备",
+      "definition" : "（可移动）大炮；军需品（尤指军火、武器），军备物资",
       "examples" : [
 
       ],
+      "frequency" : 20176,
       "mnemonic" : "来自ordinance的拼写截短形式（去i），ordinance：命令→ordnance：",
       "phonetic" : "ˈɔːdnəns",
       "pos" : "n.",

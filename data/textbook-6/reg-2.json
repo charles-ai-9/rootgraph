@@ -16,10 +16,11 @@
         "the regulating authority：管理部门",
         "regulate the flow of water：调节水流"
       ],
-      "definition" : "（用规则条例）控制，管理，监管；调节，控制（速",
+      "definition" : "（用规则条例）控制，管理，监管；调节，控制（速度、压力、温度等）",
       "examples" : [
 
       ],
+      "frequency" : 3413,
       "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ate（使动词后缀）→控制；",
       "phonetic" : "ˈregjʊleɪt",
       "pos" : "vt.",
@@ -30,10 +31,11 @@
       "collocations" : [
 
       ],
-      "definition" : "控制；管理；规定（regulate的过去式和过去分",
+      "definition" : "控制；管理；规定（regulate的过去式和过去分词）",
       "examples" : [
 
       ],
+      "frequency" : 14682,
       "phonetic" : "ˈreɡjʊˌleɪtɪd",
       "pos" : "vt.",
       "rootHint" : "reg",
@@ -56,13 +58,15 @@
     },
     {
       "collocations" : [
-
+        "It is agreed that when morality and interests conflict with each other, self-",
+        "regulation does not work."
       ],
       "definition" : "规则，法规；（运用规则条例的）管理，控制",
       "examples" : [
         "Self-regulation doesn’t work.\n自我调控并不起作用。",
-        "人们普遍同意，当道德和利益发生冲突之时，自我调控并不能起\n到效果。\nIt is agreed that when morality and interests conflict with each other, self-\nregulation does not work."
+        "人们普遍同意，当道德和利益发生冲突之时，自我调控并不能起\n到效果。"
       ],
+      "frequency" : 1685,
       "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ation（=-ate + -ion：复合名\n词后缀）→管理，控制；规则（即：用来“管理”的东西）",
       "phonetic" : "regjʊˈleɪʃn",
       "pos" : "n.",
@@ -103,10 +107,11 @@
       "collocations" : [
         "deregulate financial markets：放宽对金融市场的管制"
       ],
-      "definition" : "撤销对（贸易、商业活动等）的管制；解除控",
+      "definition" : "撤销对（贸易、商业活动等）的管制；解除控制",
       "examples" : [
 
       ],
+      "frequency" : 17678,
       "mnemonic" : "de-（表相反）+ regulate（管制；控制）→不对……进行控制→撤销",
       "phonetic" : "ˌdiːˈreɡjuleɪt",
       "pos" : "vt.",

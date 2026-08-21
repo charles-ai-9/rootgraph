@@ -13,10 +13,11 @@
   "words" : [
     {
       "collocations" : [
-
+        "pursue, follow, follow after; come next,” from in-(upon) + sequi-(follow).\n15世纪中期，含义为在时空跟随“to follow”, “to come or appear next, be",
+        "subsequent to, happen subsequently：随后到来或出现，继……之后；\n随后发生”。相关：Ensued; ensues; ensuing。"
       ],
       "definition" : "随即发生",
-      "etymology" : "c. 1400,“seek after, pursue; follow （a path）：追求；追赶；跟随”， 来自古法语ensu-，来自后期拉丁语insequere，来自拉丁语insequi “to pursue, follow, follow after; come next,” from in-(upon) + sequi-(follow). 15世纪中期，含义为在时空跟随“to follow”, “to come or appear next, be subsequent to, happen subsequently：随后到来或出现，继……之后； 随后发生”。相关：Ensued; ensues; ensuing。",
+      "etymology" : "c. 1400,“seek after, pursue; follow （a path）：追求；追赶；跟随”， 来自古法语ensu-，来自后期拉丁语insequere，来自拉丁语insequi “to",
       "examples" : [
         "If the Europeans did not reduce subsidies, a trade war would ensue.\n如果欧洲不减少补贴，贸易战将随即爆发。"
       ],
@@ -44,13 +45,18 @@
     },
     {
       "collocations" : [
-        "to pursue a goal \/ an aim \/ an objective：追求目标；贯彻宗旨；实现目"
+        "proceed, to follow：继续进行；跟随→追求；执行；继续探讨；追击",
+        "to pursue a goal \/ an aim \/ an objective：追求目标；贯彻宗旨；实现目",
+        "pursue a medical career：从事医学工作",
+        "to pursue legal action：进行诉讼",
+        "pursue the car：追赶那辆车"
       ],
-      "definition" : "追求；执行；继续探讨（或追究、从事）；（为抓捕、",
+      "definition" : "追求；执行；继续探讨（或追究、从事）；（为抓捕、袭击等而）紧随……之后；追击",
       "examples" : [
 
       ],
-      "mnemonic" : "pur-（=pro-=forward：向前）+ sue（-sequi-=follow：跟随）→to\nproceed, to follow：继续进行；跟随→追求；执行；继续探讨；追击",
+      "frequency" : 1799,
+      "mnemonic" : "pur-（=pro-=forward：向前）+ sue（-sequi-=follow：跟随）→to",
       "phonetic" : "pəˈsjuː",
       "pos" : "vt.",
       "rootHint" : "sue",
@@ -92,14 +98,16 @@
     },
     {
       "collocations" : [
-        "act pursuant to the United Nations Security Council resolutions：根据联"
+        "pursuant to sth.：根据……（执行）；依照……（执行）",
+        "act pursuant to the United Nations Security Council resolutions：根据联",
+        "pursuant to the Individuals with Disabilities Act：依据《残疾人法》"
       ],
       "definition" : "根据；依照",
       "examples" : [
 
       ],
       "frequency" : 15921,
-      "mnemonic" : "pursu（=pursue：执行）+ -ant（形容词后缀）→常见于法律术语\npursuant to sth.：根据……（执行）；依照……（执行）",
+      "mnemonic" : "pursu（=pursue：执行）+ -ant（形容词后缀）→常见于法律术语",
       "phonetic" : "pəˈsjuːənt",
       "pos" : "prep.",
       "rootHint" : "sue",
@@ -123,7 +131,7 @@
     {
       "collocations" : [
         "have a suitor who adores her：有一位爱慕她的求婚者",
-        "try to find a suitor：努力寻找一家求购公司"
+        "try to find a suitor：努力寻找一家求购公司\n笔 记 区"
       ],
       "definition" : "求婚者；求购公司",
       "etymology" : "suit（跟随）+ -or（表示人或物）→跟随其后的人或物→求婚者；求 购公司",
@@ -157,9 +165,7 @@
         "suit oneself：按照自己的意愿",
         "a business suit：公务装",
         "a diving suit：潜水服",
-        "a divorce suit：离婚诉讼",
-        "file \/ bring suit against：诉讼",
-        "follow suit：跟着做"
+        "a divorce suit：离婚诉讼\nfile \/ bring suit against：诉讼\nfollow suit：跟着做"
       ],
       "definition" : "适合 n. 套装；成套服装；诉讼案",
       "etymology" : "来自盎格鲁法语suit，古法语suite，含义都为“pursuit, act of following： 追求；跟随的行为”。来自拉丁语sequi，含义为“to attend, follow：参 加；跟随”。14世纪suite含义为“随行人员”，以及这些随从穿戴的 “set of matching garments”相匹配的衣着或制服。",
@@ -189,11 +195,15 @@
     },
     {
       "collocations" : [
+        "set of rooms” (1716), and “set of furniture” (1805) were imported from",
+        "French usages or re-spelled on the French model from suit in its sense of “a",
+        "number of things taken collectively and constituting a sequence; collection",
+        "of things of like kind.”",
         "a hotel \/ private \/ honeymoon suite：旅馆 \/ 私人 \/ 蜜月套房",
         "a bathroom \/ bedroom suite：一套卫生间 \/ 卧室家具"
       ],
       "definition" : "套房；（一套）家具",
-      "etymology" : "The meanings “set of instrumental compositions” (1680s), “connected set of rooms” (1716), and “set of furniture” (1805) were imported from French usages or re-spelled on the French model from suit in its sense of “a number of things taken collectively and constituting a sequence; collection of things of like kind.”",
+      "etymology" : "The meanings “set of instrumental compositions” (1680s), “connected",
       "examples" : [
 
       ],
@@ -238,7 +248,7 @@
         "a suitable candidate：合适的人选",
         "a suitable place for a picnic：适合野餐的地方",
         "a suitable moment：合适的时刻",
-        "suitable temperature：舒适温度"
+        "suitable temperature：舒适温度\n笔 记 区"
       ],
       "definition" : "合适的；适宜的",
       "examples" : [
@@ -333,15 +343,19 @@
     },
     {
       "collocations" : [
-
+        "French societe “company” (12c., Modern French société), from Latin",
+        "societatem (nominative societas) “fellowship, association, alliance, union,\ncommunity,” from socius “companion, ally,” from PIE *sokw-yo-, suffixed",
+        "form of root *sekw- (1) “to follow.”",
+        "live in a capitalist society：生活在资本主义社会",
+        "modern society：现代社会"
       ],
       "definition" : "社会；社团；协会",
-      "etymology" : "1530s, “companionship, friendly association with others,” from Old French societe “company” (12c., Modern French société), from Latin societatem (nominative societas) “fellowship, association, alliance, union, community,” from socius “companion, ally,” from PIE *sokw-yo-, suffixed form of root *sekw- (1) “to follow.”",
+      "etymology" : "1530s, “companionship, friendly association with others,” from Old",
       "examples" : [
 
       ],
       "frequency" : 508,
-      "mnemonic" : "soci-（=companion：同伴）+ -ety（名词后缀）→友好地与他人联合\n的组织；伙伴关系→社会；社团；协会\nlive in a capitalist society：生活在资本主义社会\nmodern society：现代社会",
+      "mnemonic" : "soci-（=companion：同伴）+ -ety（名词后缀）→友好地与他人联合\n的组织；伙伴关系→社会；社团；协会",
       "phonetic" : "səˈsaɪətɪ",
       "pos" : "n.",
       "rootHint" : "sue",
@@ -366,7 +380,7 @@
     {
       "collocations" : [
         "antisocial behavior：反社会行为",
-        "a generation of antisocial teenagers：孤僻的青少年一代"
+        "a generation of antisocial teenagers：孤僻的青少年一代\n笔 记 区"
       ],
       "definition" : "反社会的；孤僻的",
       "examples" : [
@@ -474,7 +488,8 @@
     },
     {
       "collocations" : [
-        "an extraordinary socialite and medical philanthropist：杰出的社会名流、"
+        "an extraordinary socialite and medical philanthropist：杰出的社会名流、",
+        "fashionable upper-class social events and who is well known because of this."
       ],
       "definition" : "交际名流",
       "examples" : [
@@ -494,13 +509,17 @@
         "associate progress with the future：将进步与未来联系起来",
         "associate with the project：跟这个项目有关联",
         "associate with a murderer：与一个杀人犯有牵连",
-        "business associates：商业伙伴"
+        "business associates：商业伙伴",
+        "computer-based test that measures how quickly people associate positive",
+        "and negative words—such as “love” or “evil”—with photos of black or\nwhite faces.\n相反，心理学家采用所谓的“隐形偏见”方法进行评估，该评测测量\n人们把正面与负面的词汇——如“爱”或“邪恶”——与黑人或白人\n面孔进行关联的速度。\n（写作，阅读）重点：“和……联系在一起”的表达：associate \/ relate \/\nbound up ... with ...",
+        "When we touch upon \/ talk about moral decline, people tend to \/ are prone"
       ],
-      "definition" : "将……联系起来；使（某人与某组织、事业、",
+      "definition" : "将……联系起来；使（某人与某组织、事业、观点等）有关联 vi. （与某个或某群人）混在一起 adj. 副的（用在级别或头衔前） n. （尤指工作中的）伙伴",
       "examples" : [
-        "Instead psychologists assess what is known as “implicit bias”, using a\ncomputer-based test that measures how quickly people associate positive\nand negative words—such as “love” or “evil”—with photos of black or\nwhite faces.\n相反，心理学家采用所谓的“隐形偏见”方法进行评估，该评测测量\n人们把正面与负面的词汇——如“爱”或“邪恶”——与黑人或白人\n面孔进行关联的速度。\n（写作，阅读）重点：“和……联系在一起”的表达：associate \/ relate \/\nbound up ... with ...",
+        "Instead psychologists assess what is known as “implicit bias”, using a",
         "说到道德的下滑，人们往往想到的是教育的缺失，很少有人会把它和"
       ],
+      "frequency" : 1361,
       "mnemonic" : "as-（=to）+ soci-（=unite with：联合起来；社会；交际）+ -ate（动\n词后缀）→to unite with：使……联系起来；使有关联；与……在一",
       "phonetic" : "əˈsəʊʃɪeɪt;-sɪeɪt",
       "pos" : "vi.",
@@ -513,10 +532,11 @@
         "Associated Newspapers：联合报业",
         "associated press：美联社"
       ],
-      "definition" : "（与……）相关联的；（用于联合企业的名",
+      "definition" : "（与……）相关联的；（用于联合企业的名称）联合的",
       "examples" : [
 
       ],
+      "frequency" : 4171,
       "mnemonic" : "associate（将……联系起来）+-d（形容词后缀）→相关联的；联合的",
       "phonetic" : "əˈsəʊsieɪtɪd",
       "pos" : "adj.",
@@ -526,13 +546,16 @@
     {
       "collocations" : [
         "the National Basketball Association：全国篮球协会",
-        "in association with：与……联合"
+        "in association with：与……联合\n单词“sign”含义为 mark, indication, symbol，表示“标志；记号；签字；\n迹象”等含义。",
+        "communicate something, from Old French signe “sign, mark,” from Latin",
+        "standard, ensign; a signal, an omen; sign in the heavens, constellation.”\n单词 sign 表示“签字”。"
       ],
-      "definition" : "协会；（与某人、某物的）关联；（与某记忆、",
-      "etymology" : "Early 13c., “gesture or motion of the hand,” especially one meant to communicate something, from Old French signe “sign, mark,” from Latin signum “identifying mark, token, indication, symbol; proof; military standard, ensign; a signal, an omen; sign in the heavens, constellation.” 单词 sign 表示“签字”。",
+      "definition" : "协会；（与某人、某物的）关联；（与某记忆、观念、情感的）关联",
+      "etymology" : "Early 13c., “gesture or motion of the hand,” especially one meant to signum “identifying mark, token, indication, symbol; proof; military",
       "examples" : [
 
       ],
+      "frequency" : 2103,
       "mnemonic" : "associat（=associate：使有关联；工作伙伴）+ -ion（名词后缀）→",
       "phonetic" : "əˌsəʊʃiˈeɪʃn",
       "pos" : "n.",
@@ -541,7 +564,12 @@
     },
     {
       "collocations" : [
-        "sign up for the course：选课"
+        "sign up for the course：选课",
+        "sign a contract：签订一个合同",
+        "there is no sign of：毫无任何……的迹象",
+        "an equal sign：等号",
+        "the thumbs-up sign：一个竖起大拇指的手势",
+        "a sign of good will：一种友好的表示"
       ],
       "definition" : "&vi. 签约雇用 vt. 在……上签名；签署 n. 符号；姿势；迹象",
       "etymology" : "来自拉丁语 signum，表示符号，标志，象征。",
@@ -571,14 +599,14 @@
     {
       "collocations" : [
         "the signing of the treaty：这项条约的签署",
-        "signing ceremony：签字仪式",
-        "the club’s latest signing：俱乐部新近签约者",
+        "signing ceremony：签字仪式\nthe club’s latest signing：俱乐部新近签约者",
         "converse solely in signing：只靠打手势语交谈"
       ],
-      "definition" : "签署；（运动队或唱片公司的）签约者；（与运动队或",
+      "definition" : "签署；（运动队或唱片公司的）签约者；（与运动队或唱片公司）签约；手势语的使用",
       "examples" : [
 
       ],
+      "frequency" : 7496,
       "mnemonic" : "sign（签字）+ -ing（动名词后缀）→签署；签约；签约者；打手势语",
       "phonetic" : "ˈsaɪnɪŋ",
       "pos" : "n.",
@@ -604,7 +632,7 @@
     {
       "collocations" : [
         "a signatory of the Declaration of Independence：《独立宣言》的签署者",
-        "signatories to the Nuclear Non-Proliferation Treaty：《防止核扩散条"
+        "signatories to the Nuclear Non-Proliferation Treaty：《防止核扩散条\n约》的签约国\n20000 词汇巅峰\n速\n记\n单词 sign 表示“标志，标记”。\n笔 记 区"
       ],
       "definition" : "（协议的）签署者；签署国",
       "examples" : [
@@ -623,12 +651,15 @@
         "transmit radio signals：发射无线电信号",
         "signal important shifts：表示重大变化",
         "an important signal of support：表示支持的重要信号",
-        "fire three distress signals：发射3次遇难求救信号"
+        "fire three distress signals：发射3次遇难求救信号",
+        "signal a double-dip recession – a renewed decline in the broad level of",
+        "economic activity in the United States—but an economic expansion.\n在过去的两年间，进出口数据似乎并没有表明二次衰退——美国广义\n的经济活动的新一轮衰退——而是（表明）经济在扩张。"
       ],
-      "definition" : "&vi. （打手势或发声音）向……示意；发信号 vt. 表示 n.",
+      "definition" : "&vi. （打手势或发声音）向……示意；发信号 vt. 表示 n.信号",
       "examples" : [
-        "Over the past two years, the figures on imports and exports seem not to\nsignal a double-dip recession – a renewed decline in the broad level of\neconomic activity in the United States—but an economic expansion.\n在过去的两年间，进出口数据似乎并没有表明二次衰退——美国广义\n的经济活动的新一轮衰退——而是（表明）经济在扩张。"
+        "Over the past two years, the figures on imports and exports seem not to"
       ],
+      "frequency" : 2093,
       "mnemonic" : "sign（标志）+-al（名词后缀）→信号；发信号；表示",
       "phonetic" : "ˈsɪgn(ə)l",
       "pos" : "vt.",
@@ -637,7 +668,8 @@
     },
     {
       "collocations" : [
-        "signify a radical change in their policies：表明他们的政策发生了根本的"
+        "signify a radical change in their policies：表明他们的政策发生了根本的",
+        "signify her approval with a smile：笑了笑表示赞同\n近义词：mean：表示……的意思"
       ],
       "definition" : "表示；意味着；（用符号或手势）表达",
       "examples" : [
@@ -652,7 +684,8 @@
     },
     {
       "collocations" : [
-
+        "sound or its printed form, rather than the meaning it expresses.\n比较：signified：所指（语言符号的意义）\n释义：（linguistics 语言）所指The meaning expressed by a linguistic sign,",
+        "rather than its form.\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "能指（语言符号的形式）",
       "examples" : [
@@ -667,11 +700,17 @@
     {
       "collocations" : [
         "a highly significant discovery：有重大意义的发现",
-        "a significant look \/ smile：意味深长的眼神 \/ 微笑"
+        "a significant look \/ smile：意味深长的眼神 \/ 微笑",
+        "The appearance of e-book signifies \/ denotes human’s entrance into an age",
+        "of paperless reading.",
+        "The emergence of e-book is a sign for human’s entering into an era of",
+        "paperless reading.",
+        "The rise of e-book is a significant event which implies that we enter into a",
+        "time of paperless reading."
       ],
       "definition" : "有重大意义的；显著的；意味深长的",
       "examples" : [
-        "电子书的出现标志着人类从此进入到无纸化阅读时代。\nThe appearance of e-book signifies \/ denotes human’s entrance into an age\nof paperless reading.\nThe emergence of e-book is a sign for human’s entering into an era of\npaperless reading.\nThe rise of e-book is a significant event which implies that we enter into a\ntime of paperless reading."
+        "电子书的出现标志着人类从此进入到无纸化阅读时代。"
       ],
       "frequency" : 720,
       "mnemonic" : "signif（=signify：标志）+ -icant（复合形容词后缀，-ic + -ant）→标",
@@ -686,10 +725,11 @@
         "have great significance for：对……有重大意义",
         "grasp the full significance of：充分领会……的意思"
       ],
-      "definition" : "（尤指对将来有影响的）重要性，意义；意",
+      "definition" : "（尤指对将来有影响的）重要性，意义；意思；含义",
       "examples" : [
 
       ],
+      "frequency" : 2960,
       "mnemonic" : "signif（=signify：标志）+ -icance（复合名词后缀，-ic + -ance）→重\n要标志→重要性，意义；含义",
       "phonetic" : "sigˈnifikəns",
       "pos" : "n.",
@@ -698,11 +738,12 @@
     },
     {
       "collocations" : [
+        "office, mark, proof, sign, token”.",
         "the royal insignia：皇家的徽章",
         "the insignia of a captain：上尉徽章"
       ],
       "definition" : "（级别或成员的）标记，象征；徽章",
-      "etymology" : "1640s, from Latin insignia, neuter plural of insigne “badge of honor or office, mark, proof, sign, token”.",
+      "etymology" : "1640s, from Latin insignia, neuter plural of insigne “badge of honor or",
       "examples" : [
 
       ],
@@ -716,12 +757,13 @@
     {
       "collocations" : [
         "consign her letter to the waste basket：把她的信丢进了废纸篓",
-        "consign him to a wheelchair for the rest of his life：使他落得在轮椅上度"
+        "consign him to a wheelchair for the rest of his life：使他落得在轮椅上度\n过余生的境地\n笔 记 区"
       ],
-      "definition" : "（为摆脱而）把……置于，把……交付给；把……置",
+      "definition" : "（为摆脱而）把……置于，把……交付给；把……置20000 词汇巅峰速记于（令人不快的境地）；打发",
       "examples" : [
 
       ],
+      "frequency" : 16125,
       "mnemonic" : "con-（with, together：一起；共同）+ sign（=to mark：做标记；记\n号）→（为了摆脱……）而把其做不好的标记→（为摆脱而）把……",
       "phonetic" : "kənˈsaɪn",
       "pos" : "vt.",
@@ -730,13 +772,15 @@
     },
     {
       "collocations" : [
-        "assign sb. to do sth.：派……去干……"
+        "assign sb. to do sth.：派……去干……",
+        "experience whatsoever.\n我认为派他去干这份工作是不合适的，因为他没有任何经验。\n同义：appoint [əˈpɒɪnt] vt. 任命；委任；安排，确定（时间、地点） 3200"
       ],
-      "definition" : "布置（任务）；分配（某物）；分派；赋予（某功能或价",
+      "definition" : "布置（任务）；分配（某物）；分派；赋予（某功能或价值）",
       "examples" : [
-        "I don’t think it advisable that he be assigned to the job since he has no\nexperience whatsoever.\n我认为派他去干这份工作是不合适的，因为他没有任何经验。\n同义：appoint [əˈpɒɪnt] vt. 任命；委任；安排，确定（时间、地点） 3200",
+        "I don’t think it advisable that he be assigned to the job since he has no",
         "Has anybody been appointed to take his place?\n有人被派去取代他的位置吗？"
       ],
+      "frequency" : 2636,
       "mnemonic" : "as-（=to：去）+ -sign（=make a sign：做标记）→标明；标记→布置\nap-（加强语气）+ -point（指向）→指（某人）向（某地）→任命；",
       "phonetic" : "əˈsaɪn",
       "pos" : "vt.",
@@ -749,10 +793,11 @@
         "a tough assignment：一项艰巨任务",
         "one of our reporters on assignment in China：我们派驻中国的一名记者"
       ],
-      "definition" : "（分派的）工作，任务；（工作等的）分派，布",
+      "definition" : "（分派的）工作，任务；（工作等的）分派，布置",
       "examples" : [
 
       ],
+      "frequency" : 3152,
       "mnemonic" : "assign（分派；布置）+-ment（名词后缀）→分派、布置的工作→任",
       "phonetic" : "əˈsaɪnmənt",
       "pos" : "n.",
@@ -778,10 +823,11 @@
         "reassign to the diplomatic service：被派到外交部门工作",
         "reassign to a different court：已交由另一法院（审理）"
       ],
-      "definition" : "重新委派，再次指派（任务、职位、责任等）；重新",
+      "definition" : "重新委派，再次指派（任务、职位、责任等）；重新分配……（给某人或机构）；重新指定",
       "examples" : [
 
       ],
+      "frequency" : 18114,
       "mnemonic" : "re-（再；重新）+ assign（布置；分配）→重新委派，再次指派任",
       "phonetic" : "riːəˈsaɪn",
       "pos" : "vt.",
@@ -823,11 +869,15 @@
     {
       "collocations" : [
         "offer his resignation：递交了辞呈",
-        "sigh with profound resignation：极度无奈地叹气"
+        "sigh with profound resignation：极度无奈地叹气",
+        "I am writing this letter to you to express my sincere apology that I am",
+        "going to resign my post \/ position.",
+        "I am writing this letter to you to convey my earnest apology that I am",
+        "about to hand in my resignation."
       ],
       "definition" : "辞职；辞呈；无奈的顺从",
       "examples" : [
-        "我写这封信给您是想向您道歉：我准备辞职了。\nI am writing this letter to you to express my sincere apology that I am\ngoing to resign my post \/ position.\nI am writing this letter to you to convey my earnest apology that I am\nabout to hand in my resignation."
+        "我写这封信给您是想向您道歉：我准备辞职了。"
       ],
       "frequency" : 5841,
       "mnemonic" : "resign（辞职；使屈从）+ -ation（名词后缀）→辞职；无奈的顺从",
@@ -839,7 +889,9 @@
     {
       "collocations" : [
         "design a machine：设计一台机器",
-        "design a course to suit your particular needs：策划一个课程来满足你的"
+        "design a course to suit your particular needs：策划一个课程来满足你的\n特定需求",
+        "a new design of clock：一种新款时钟",
+        "draw up the design：画出了设计图\n笔 记 区"
       ],
       "definition" : "设计；策划 n. 设计；设计图；图案",
       "examples" : [
@@ -858,10 +910,11 @@
         "designer labels：设计师品牌",
         "designer jeans：名牌牛仔裤"
       ],
-      "definition" : "设计师；构思者 adj. 著名设计师设计的；名牌的；时",
+      "definition" : "设计师；构思者 adj. 著名设计师设计的；名牌的；时尚的",
       "examples" : [
 
       ],
+      "frequency" : 2447,
       "mnemonic" : "design（设计）+ -er（名词后缀，表示人）→设计的人→设计师；构",
       "phonetic" : "dɪˈzaɪnə",
       "pos" : "n.",
@@ -902,7 +955,7 @@
     {
       "collocations" : [
         "designate the bridge a historic landmark：把这座桥定为历史地标",
-        "designate someone as the spokesperson：指派某人为发言人"
+        "designate someone as the spokesperson：指派某人为发言人\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "命名；指定；指派 adj. 已任命但未就职的",
       "examples" : [
@@ -933,7 +986,7 @@
     {
       "collocations" : [
         "designation as a conservation area：指定为保护区",
-        "official designation：正式职务"
+        "official designation：正式职务\n与 sign 同样表达符号、标志含义的单词还有 seal, symbol 及其派生词以\n及词根 ves- 等。\n单词 seal 表示“印章”，与单词 sign“标记，记号”词源相同。"
       ],
       "definition" : "指定；委任；名称；头衔",
       "examples" : [
@@ -948,17 +1001,19 @@
     },
     {
       "collocations" : [
+        "evidence of authenticity, c. 1200, from Old French seel “seal on a letter”,",
+        "from Latin sigillum “small picture, engraved figure, seal,” diminutive of",
         "seal a deal：达成一笔交易",
         "seal the envelope：封好信封",
-        "seal the border：封锁边境",
-        "seal off：封锁（某地区）",
-        "note paper bearing the presidential seal：盖有总统印章的便条纸"
+        "seal the border：封锁边境\nseal off：封锁（某地区）",
+        "note paper bearing the presidential seal：盖有总统印章的便条纸\n封好信封\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "确定；封（信封）；封（容器、开口）；封锁（某地区） n. 印",
-      "etymology" : "“design stamped on wax,” especially one attached to a document as evidence of authenticity, c. 1200, from Old French seel “seal on a letter”, from Latin sigillum “small picture, engraved figure, seal,” diminutive of signum “identifying mark, sign”.",
+      "definition" : "确定；封（信封）；封（容器、开口）；封锁（某地区） n. 印章；（容器、开口等）封了的部分；海豹",
+      "etymology" : "“design stamped on wax,” especially one attached to a document as signum “identifying mark, sign”.",
       "examples" : [
 
       ],
+      "frequency" : 4062,
       "phonetic" : "siːl",
       "pos" : "vt.",
       "rootHint" : "sue",
@@ -991,7 +1046,7 @@
 
       ],
       "frequency" : 2361,
-      "mnemonic" : "sym-（=sign：符号；象征）+ b（无意义）+ -ol（名词后缀）→符",
+      "mnemonic" : "sym-（=sign：符号；象征）+ b（无意义）+ -ol（名词后缀）→符\n可作为它们的代表→symbol：象征；符号",
       "phonetic" : "ˈsɪmb(ə)l",
       "pos" : "n.",
       "rootHint" : "sue",
@@ -1031,7 +1086,8 @@
     },
     {
       "collocations" : [
-        "be rich in symbolism：象征手法非常丰富"
+        "be rich in symbolism：象征手法非常丰富",
+        "the symbolism of every gesture：一举一动的象征意义"
       ],
       "definition" : "象征手法；象征意义",
       "examples" : [

@@ -17,8 +17,8 @@
       "word": "cultured",
       "phonetic": "'kaltʃad",
       "pos": "adj.",
-      "definition": "有修养的；文雅的；(of cells or bacteria 细胞或细菌) (为医学或科学研究)培养的；(of pearls 珍珠)人工养殖的15976",
-      "frequency": null,
+      "definition": "有修养的；文雅的；(of cells or bacteria 细胞或细菌) (为医学或科学研究)培养的；(of pearls 珍珠)人工养殖的",
+      "frequency": 15976,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -32,7 +32,10 @@
       "definition": "文化的；与艺术、文学、音乐等有关的",
       "frequency": 934,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "economic, social and cultural factors: 经济、社会和文化因素",
+        "a cultural event: 文化活动"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -41,8 +44,8 @@
       "word": "culturally",
       "phonetic": "'kaltʃərəli",
       "pos": "adv.",
-      "definition": "从文化上；与文艺有关5850",
-      "frequency": null,
+      "definition": "从文化上；与文艺有关",
+      "frequency": 5850,
       "mnemonic": null,
       "collocations": [
         "a culturally sophisticated people: 一个文化底蕴深厚的民族"
@@ -55,11 +58,12 @@
       "word": "agriculture",
       "phonetic": "'ægrikaltʃə",
       "pos": "n.",
-      "definition": "农业；农艺；农学4204",
-      "frequency": null,
+      "definition": "农业；农艺；农学",
+      "frequency": 4204,
       "mnemonic": "agri-(=field : 田地)+culture(耕种；培育)→ 田地耕种；培育→农业",
       "collocations": [
-        "modern agriculture: 现代农业"
+        "modern agriculture: 现代农业",
+        "agriculture 的派生词有agricultural 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -69,8 +73,8 @@
       "word": "agricultural",
       "phonetic": "ægrɪ'kaltʃərəl ",
       "pos": "adj.",
-      "definition": "农业的3131",
-      "frequency": null,
+      "definition": "农业的",
+      "frequency": 3131,
       "mnemonic": null,
       "collocations": [
         "agricultural policy/land/production/development: 农业政策/土地/生产/ 发展"
@@ -83,8 +87,8 @@
       "word": "aquaculture",
       "phonetic": "'ækwəkaltʃə",
       "pos": "n.",
-      "definition": "水产养殖17824",
-      "frequency": null,
+      "definition": "水产养殖",
+      "frequency": 17824,
       "mnemonic": null,
       "collocations": [
         "aqua- (水)+culture ( 培育)→在水里培育(水生动植物)→水产养殖"
@@ -98,7 +102,7 @@
       "phonetic": "'sabkaltʃə",
       "pos": "n.",
       "definition": "亚文化；(某群体特有的)亚文化行为观念，次文化",
-      "frequency": null,
+      "frequency": 13179,
       "mnemonic": null,
       "collocations": [
         "sub-(亚于；次)+culture(文化)→亚文化",
@@ -113,11 +117,12 @@
       "phonetic": "'kplənr",
       "pos": "n.",
       "definition": "殖民地；(某一类人的)聚居区；(生物)居住在一起的群体",
-      "frequency": null,
+      "frequency": 3710,
       "mnemonic": null,
       "collocations": [
         "crown colony: 英国直辖殖民地",
-        "bacterial colony: ( 细菌)菌落；细菌聚落"
+        "bacterial colony: ( 细菌)菌落；细菌聚落",
+        "colony的派生词有colonial,colonialism,colonist,colonization,colonize, colonizer等。"
       ],
       "etymology": "来自词根kwel-, 转，耕作，同cycle,culture. 本义为到新的地方 开发，耕作，后指殖民，占领别人的土地。",
       "examples": [],
@@ -139,8 +144,8 @@
       "word": "colonialism",
       "phonetic": "kə'ləunroliz(ə)m",
       "pos": "n.",
-      "definition": "殖民主义；殖民政策11040",
-      "frequency": null,
+      "definition": "殖民主义；殖民政策",
+      "frequency": 11040,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -154,7 +159,9 @@
       "definition": "殖民地开拓者；殖民地居民；移民",
       "frequency": 9784,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "Japanese colonist: 日本殖民者"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "col"
@@ -163,8 +170,8 @@
       "word": "colonize",
       "phonetic": "'kalənaiz",
       "pos": "vt.",
-      "definition": "把……变为殖民地；(动物)移居于；(植物)在……大",
-      "frequency": null,
+      "definition": "把……变为殖民地；(动物)移居于；(植物)在……大量繁殖",
+      "frequency": 13695,
       "mnemonic": null,
       "collocations": [
         "British attempt to colonize Ireland: 英国企图把爱尔兰变成殖民地 colonize the whole place: 移居到这整个地区"
@@ -177,8 +184,8 @@
       "word": "colonization",
       "phonetic": ",kplənar'zerʃən",
       "pos": "n.",
-      "definition": "殖民；殖民地化11160",
-      "frequency": null,
+      "definition": "殖民；殖民地化",
+      "frequency": 11160,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -189,8 +196,8 @@
       "word": "colonizer",
       "phonetic": "'kolənaiz ə",
       "pos": "n.",
-      "definition": "殖民地开拓者；殖民者；移民20089",
-      "frequency": null,
+      "definition": "殖民地开拓者；殖民者；移民",
+      "frequency": 20089,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -201,16 +208,16 @@
       "word": "bucolic",
       "phonetic": "bju:'kblik",
       "pos": "adj.",
-      "definition": "乡村的；田园生活的19974",
-      "frequency": null,
-      "mnemonic": "bu-(牛)+col-(放牧，词根col-: 耕作)+-ic(形容词后缀)→牛耕地的；牧 牛的；牧民生活的→乡村的；田园生活的",
+      "definition": "乡村的；田园生活的",
+      "frequency": 19974,
+      "mnemonic": "腊语kolos(照看)→col-, 与拉丁语colere(居住、耕种)有关。\nbu-(牛)+col-(放牧，词根col-: 耕作)+-ic(形容词后缀)→牛耕地的；牧 牛的；牧民生活的→乡村的；田园生活的",
       "collocations": [
         "the bucolic surroundings of Chantilly: 尚蒂伊的田园景致 bucolic life: 田园生活",
         "bucolic landscapes: 田园风光",
         "bucolic poetry: 田园诗",
-        "bucolic refuge: 世外桃源"
+        "bucolic refuge: 世外桃源\nsearc h” 表示“搜寻；搜查”。"
       ],
-      "etymology": "希腊语bous(母牛)→bu(与bull: 公牛；buffalo: 水牛、野牛同源);希 腊语kolos(照看)→col-, 与拉丁语colere(居住、耕种)有关。",
+      "etymology": "希腊语bous(母牛)→bu(与bull: 公牛；buffalo: 水牛、野牛同源);希",
       "examples": [],
       "rootHint": "col"
     },
@@ -218,8 +225,8 @@
       "word": "search",
       "phonetic": "ss:tʃ",
       "pos": "vt.",
-      "definition": "&vi. 在(某地)搜寻；搜查(某地)vt. 搜(某人)身 vi.( 在计算机 上)搜索；搜寻n. 搜寻；搜索1509",
-      "frequency": null,
+      "definition": "&vi. 在(某地)搜寻；搜查(某地)vt. 搜(某人)身 vi.( 在计算机 上)搜索；搜寻n. 搜寻；搜索",
+      "frequency": 1509,
       "mnemonic": null,
       "collocations": [
         "in search of: 寻 找",
@@ -233,8 +240,8 @@
       "word": "searcher",
       "phonetic": "'sstʃə",
       "pos": "n.",
-      "definition": "搜索者；探索者19255",
-      "frequency": null,
+      "definition": "搜索者；探索者",
+      "frequency": 19255,
       "mnemonic": null,
       "collocations": [
         "a real searcher after truth: 一个真正探求真理的人"
@@ -247,8 +254,8 @@
       "word": "research",
       "phonetic": "rɪ'ss:tf;'riss:t fʃ",
       "pos": "vt.",
-      "definition": "研究 n. 研究363",
-      "frequency": null,
+      "definition": "研究 n. 研究",
+      "frequency": 363,
       "mnemonic": "re-(表强调)+search(=to seek for: 搜寻)→引申词义研究；探索",
       "collocations": [
         "nuclear weapons research and production: 核武器的研制 research and development: (产品等的)研究与开发"
@@ -261,8 +268,8 @@
       "word": "researcher",
       "phonetic": "rɪ'ss:tʃə",
       "pos": "n.",
-      "definition": "研究员1181",
-      "frequency": null,
+      "definition": "研究员",
+      "frequency": 1181,
       "mnemonic": null,
       "collocations": [
         "a market researcher: 一名市场研究员"
@@ -278,7 +285,11 @@
       "definition": "王冠；冠；头顶后部；齿冠vt. 为 … … 加冕",
       "frequency": 5160,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the sovereignty of the Crown: 君主政权",
+        "be crowned king: 被加冕为国王\n王冠\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
+        "Crown的派生词有crowning,corona,coronary,coronation,coroner等。"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -287,8 +298,8 @@
       "word": "crowning",
       "phonetic": "'krauniŋ",
       "pos": "adj.",
-      "definition": "最伟大的n. 加冕20157",
-      "frequency": null,
+      "definition": "最伟大的n. 加冕",
+      "frequency": 20157,
       "mnemonic": null,
       "collocations": [
         "the crowning of Queen Victoria in 1837:1837 年维多利亚女王的加冕 the crowning moment: 最伟大时刻"
@@ -301,8 +312,8 @@
       "word": "corona",
       "phonetic": "kə'rəunə",
       "pos": "n.",
-      "definition": "日冕17825",
-      "frequency": null,
+      "definition": "日冕",
+      "frequency": 17825,
       "mnemonic": null,
       "collocations": [],
       "etymology": "同corolla, 花冠。因形似花冠而得名。 释义：(NOUN)日冕 Corona is the shining circle of light seen around the sun when the moon passes in front ofit in an eclipse. 日冕",
@@ -314,7 +325,7 @@
       "phonetic": "'kbr(ə)n(a)ri",
       "pos": "adj.",
       "definition": "冠状动脉的；与心脏有关的 n. 冠状动脉病",
-      "frequency": null,
+      "frequency": 10458,
       "mnemonic": null,
       "collocations": [
         "来自crown, 王冠，词源同corolla, 花冠。即带上王冠举行加冕典礼。"
@@ -327,8 +338,8 @@
       "word": "coronation",
       "phonetic": "korə'nerʃ(o)n",
       "pos": "n.",
-      "definition": "(国王或女王的)加冕仪式18622",
-      "frequency": null,
+      "definition": "(国王或女王的)加冕仪式",
+      "frequency": 18622,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -339,8 +350,8 @@
       "word": "coroner",
       "phonetic": "'kor(ə)nə",
       "pos": "n.",
-      "definition": "验尸官10826",
-      "frequency": null,
+      "definition": "验尸官",
+      "frequency": 10826,
       "mnemonic": null,
       "collocations": [],
       "etymology": "来自crown, 王冠。原指王室管家，后功能和职责发生了变化。1194 年，其职责首次明确为keep the pleas of the Crown,掌管国王的诉讼。 其 中 ，coronae 来自corona(crown, 王冠),英语单词coroner 即来源于 此。在该制度设立的初期， coroner 主要负有如下两项职责： 一是维 护和增加国王的国库收入。Coroner 通过查明死因、确定个案的类型 而分别予以处理，避免因为一些臆测的刑事案件而浪费人力和财力， 笔 记 区 笔 记 区 还通过将死刑犯的财产没入国库的方式为国王聚敛钱财；二是负责调 查诺曼底人非正常死亡的案件。诺曼底人是当时英国的统治阶级，在 有诺曼底人之死亡存有疑问的情形下， coroner 应查明其死因。在美 国、澳大利亚等受英国司法制度影响的国家，依然保留了coroner (验 尸官)职务和制度。现在， coroner (验尸官)的主要职责是调查非正常 死亡案件中的死亡原因。",
@@ -351,8 +362,8 @@
       "word": "crest",
       "phonetic": "krest",
       "pos": "n.",
-      "definition": "顶；峰；(鸟类的)羽冠；饰章7605",
-      "frequency": null,
+      "definition": "顶；峰；(鸟类的)羽冠；饰章",
+      "frequency": 7605,
       "mnemonic": null,
       "collocations": [
         "来自拉丁词crista, 羽毛，鸟冠，卷的，卷羽。词义引申为顶峰。",
@@ -366,8 +377,8 @@
       "word": "shrink",
       "phonetic": "ʃriŋk",
       "pos": "vt.",
-      "definition": "&vi. 使缩小；缩小 vi. (因害怕、震惊或厌恶)避开；逃避(不 愉快或危险的事);缩水 n. 精神病医生4526",
-      "frequency": null,
+      "definition": "&vi. 使缩小；缩小 vi. (因害怕、震惊或厌恶)避开；逃避(不 愉快或危险的事);缩水 n. 精神病医生",
+      "frequency": 4526,
       "mnemonic": null,
       "collocations": [
         "shrink away from: 避 开",
@@ -384,7 +395,9 @@
       "definition": "畏缩的；犹豫不决的；收缩的",
       "frequency": 11446,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "shrinking percentage: 收缩百分比"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -397,6 +410,7 @@
       "frequency": 16788,
       "mnemonic": "move in a large area: 在范围很大的区域内移动→范围；一系列；(能 够到达或探知的)最大范围；大牧场；(在一定幅度内)变化；射击场",
       "collocations": [
+        "shrivel up: 枯萎",
         "in range or within range/out of range: 在可触及的范围内/外 at close range/from close range: 近距离内",
         "a wide range of: 大范围的；许多各种不同的"
       ],
@@ -408,8 +422,8 @@
       "word": "ranger",
       "phonetic": "'reɪn(d)3ə",
       "pos": "n.",
-      "definition": "园林管理员；护林员；(接受突袭敌战区训练的)特别",
-      "frequency": null,
+      "definition": "园林管理员；护林员；(接受突袭敌战区训练的)特别行动队队员",
+      "frequency": 8832,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -449,8 +463,8 @@
       "word": "rearrange",
       "phonetic": "ri:a'ren(d)3",
       "pos": "vt.",
-      "definition": "重新整理；重新安排9668",
-      "frequency": null,
+      "definition": "重新整理；重新安排",
+      "frequency": 9668,
       "mnemonic": null,
       "collocations": [
         "rearrange all her furniture: 重新摆放了她所有的家具 rearrange the appointment: 重新安排这次预约"
@@ -463,12 +477,12 @@
       "word": "arrangement",
       "phonetic": "ə'ren(d)3m(a)nt",
       "pos": "n.",
-      "definition": "安排；商定；布置；(乐曲的)改编2378",
-      "frequency": null,
+      "definition": "安排；商定；布置；(乐曲的)改编",
+      "frequency": 2378,
       "mnemonic": null,
       "collocations": [
         "final arrangements: 最后的安排",
-        "an arrangement of a well-known piece by Mozart: 对莫扎特的一首名曲 的改编"
+        "an arrangement of a well-known piece by Mozart: 对莫扎特的一首名曲 的改编\n笔 记 区\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -478,8 +492,8 @@
       "word": "rank",
       "phonetic": "ræŋk",
       "pos": "n.",
-      "definition": "职位；级别vt.&vi. 给……排名(位)/等级2670",
-      "frequency": null,
+      "definition": "职位；级别vt.&vi. 给……排名(位)/等级",
+      "frequency": 2670,
       "mnemonic": null,
       "collocations": [
         "a taxi rank: 出租车候客处",
@@ -497,7 +511,10 @@
       "definition": "(最优秀选手的)排名adj. 级别最高的",
       "frequency": 5098,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the world rankings: 世界排名",
+        "the ranking Republican: 最资深的共和党人"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -509,7 +526,9 @@
       "definition": "(尤指饲养牛、马或羊的)大牧场",
       "frequency": 4075,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "a cattle ranch: 一个养牛的大牧场"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -518,8 +537,8 @@
       "word": "ranching",
       "phonetic": "'ræntiŋ",
       "pos": "n.",
-      "definition": "大农牧场的经营14884",
-      "frequency": null,
+      "definition": "大农牧场的经营",
+      "frequency": 14884,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -530,8 +549,8 @@
       "word": "rancher",
       "phonetic": "'ra:n(t) ʃə",
       "pos": "n.",
-      "definition": "农场主7616",
-      "frequency": null,
+      "definition": "农场主",
+      "frequency": 7616,
       "mnemonic": null,
       "collocations": [
         "a cattle rancher: 一位养牛场场主"
@@ -544,8 +563,8 @@
       "word": "ridge",
       "phonetic": "ridʒ",
       "pos": "n.",
-      "definition": "山脉；脊；(平面上的)隆起线4908",
-      "frequency": null,
+      "definition": "山脉；脊；(平面上的)隆起线",
+      "frequency": 4908,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -556,13 +575,14 @@
       "word": "crisp",
       "phonetic": "krisp",
       "pos": "adj.",
-      "definition": "脆的；清爽的(天气);干净挺括的(纸、布等)vt.&vi. 变脆 n. 炸薯片6280",
-      "frequency": null,
+      "definition": "脆的；清爽的(天气);干净挺括的(纸、布等)vt.&vi. 变脆 n. 炸薯片",
+      "frequency": 6280,
       "mnemonic": null,
       "collocations": [
         "nice and crisp: 香脆可口",
         "a crisp autumn day: 一个清爽的秋日",
-        "the crisp clean sheets: 干净平整的被单中"
+        "the crisp clean sheets: 干净平整的被单中\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
+        "a packet of onion-flavored crisps: 一包洋葱味的薯片"
       ],
       "etymology": null,
       "examples": [],
@@ -572,8 +592,8 @@
       "word": "crisply",
       "phonetic": "'krispli",
       "pos": "adv.",
-      "definition": "清楚地；干净利落地19676",
-      "frequency": null,
+      "definition": "清楚地；干净利落地",
+      "frequency": 19676,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,
@@ -584,8 +604,8 @@
       "word": "crispy",
       "phonetic": "'krispr",
       "pos": "adj.",
-      "definition": "( 食物的外皮)松脆的14907",
-      "frequency": null,
+      "definition": "( 食物的外皮)松脆的",
+      "frequency": 14907,
       "mnemonic": null,
       "collocations": [
         "a piece of crispy fried bread: 一片烤得松脆的面包"
@@ -598,14 +618,16 @@
       "word": "fund",
       "phonetic": "fʌnd",
       "pos": "vt.",
-      "definition": "资助 n.( 为特定目的而筹集或保留的)专项资金755",
-      "frequency": null,
+      "definition": "资助 n.( 为特定目的而筹集或保留的)专项资金",
+      "frequency": 755,
       "mnemonic": "fund(=bottom=base: 根基，底。而且fund在模仿词根“pens: 钱”)→ 基金",
       "collocations": [
         "fund a research: 资助一个研究",
         "raise fund: 筹集资金",
         "provident fund: 公积金",
-        "a fund of something: 大量；充足"
+        "a fund of something: 大量；充足",
+        "Fund的派生词有funded,funding,fund-raiser,fund-raising,refund,underfund, underfunded,fundamental,fundamental,fundamentalism,fundamentalist,",
+        "fundamentalist ,fundamentally 等 。"
       ],
       "etymology": "1670s,\"a bottom,the bottom;foundation,groundwork,\"from French fond \"a bottom,floor,ground”(12c.),also “a merchant's basic stock or capital,\" from Latin fundus \"bottom, foundation,piece of land,\"from PIE root *bhudh-“bottom,base”(source also of Sanskrit budhnah,Greek pythmen \"foundation,bottom,\"Old English botm “lowest part”).Meaning \"stock of money or wealth available for some purpose”is from 1690s;sense of \"store of anything to be drawn upon\"is from 1704.Funds \"money at one's disposal\"is from 1728.",
       "examples": [],
@@ -615,8 +637,8 @@
       "word": "funded",
       "phonetic": "fʌndid",
       "pos": "adj.",
-      "definition": "资助的11097",
-      "frequency": null,
+      "definition": "资助的",
+      "frequency": 11097,
       "mnemonic": null,
       "collocations": [
         "a federally funded: 一个联邦征服资助的"
@@ -632,7 +654,9 @@
       "definition": "基金；(政府或组织为某目的而提供的)资金；拨款",
       "frequency": 2160,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "government funding: 政府拨款"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -641,11 +665,12 @@
       "word": "fund-raiser",
       "phonetic": "'fand,reizə",
       "pos": "n.",
-      "definition": "募集资金的活动；募集资金者6967",
-      "frequency": null,
+      "definition": "募集资金的活动；募集资金者",
+      "frequency": 6967,
       "mnemonic": null,
       "collocations": [
         "a fundraiser for the Democrats: 一位民主党的募集资金者",
+        "fund-raising n. 资金募集5999",
         "get involved in fund-raising for charity: 参与慈善资金募集活动"
       ],
       "etymology": null,
@@ -656,8 +681,8 @@
       "word": "refund",
       "phonetic": "'ri:fʌnd",
       "pos": "vt.",
-      "definition": "退 还n. 退款11184",
-      "frequency": null,
+      "definition": "退 还n. 退款",
+      "frequency": 11184,
       "mnemonic": "re-(=back: 往回)+-fund(=to pour: 流入)→流回→引申词义退款；退还",
       "collocations": [
         "refund money: 退款 tax refund: 退 税"
@@ -672,7 +697,7 @@
       "pos": "vt.",
       "definition": "对……提供的资金不足",
       "frequency": null,
-      "mnemonic": null,
+      "mnemonic": "under( 达不到；不够)+fund (资助) → 资助不足",
       "collocations": [],
       "etymology": null,
       "examples": [
@@ -687,7 +712,9 @@
       "definition": "( 项目、机构等)资金不足的",
       "frequency": 18515,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "seriously/chronically/badly etc.underfunded: 资金严重不足"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -696,11 +723,14 @@
       "word": "fundamental",
       "phonetic": "fanda'ment(a)l",
       "pos": "adj.",
-      "definition": "根本的；基础的；十分重要的[+to]",
-      "frequency": 2349,
-      "mnemonic": null,
+      "definition": "根本的；基础的；十分重要的[+to]2349十分重要的",
+      "frequency": null,
+      "mnemonic": "fund(基础；根基)+a+mental(=ment+al: 复合形容词后缀)→基本的；",
       "collocations": [
-        "a fundamental change/difference: 根本的变化/本质的不同"
+        "a fundamental change/difference: 根本的变化/本质的不同",
+        "fundamental to survival: 生存所必需的",
+        "fundamental human rights: 基本人权",
+        "Fundamental的派生词有 fundamentalism,fundamentalist,fundamentally等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -710,8 +740,8 @@
       "word": "fundamentalism",
       "phonetic": "fandə'ment(a)liz(3)m",
       "pos": "n.",
-      "definition": "原教旨主义；原教旨主义者12073",
-      "frequency": null,
+      "definition": "原教旨主义；原教旨主义者",
+      "frequency": 12073,
       "mnemonic": null,
       "collocations": [
         "religious fundamentalism: 宗教的原教旨主义"
@@ -725,7 +755,7 @@
       "phonetic": ",fʌndə'mentlist",
       "pos": "n.",
       "definition": "原教旨主义者；(基督教的)基要主义者",
-      "frequency": null,
+      "frequency": 9454,
       "mnemonic": null,
       "collocations": [
         "a fundamentalist doctrine: 原教旨主义信条；基要主义信条"
@@ -738,8 +768,8 @@
       "word": "fundamentally",
       "phonetic": "fandə'mentəli",
       "pos": "adv.",
-      "definition": "根本上；基本上5666",
-      "frequency": null,
+      "definition": "根本上；基本上",
+      "frequency": 5666,
       "mnemonic": null,
       "collocations": [
         "fundamentally different: 迥然不同"
@@ -756,7 +786,8 @@
       "frequency": null,
       "mnemonic": "found:lay the basis of,establish→创立；创建",
       "collocations": [
-        "be founded on/upon sth: 建立在某事物的基础上"
+        "be founded on/upon sth: 建立在某事物的基础上",
+        "Found 的派生词有 founder,founding,unfounded,foundation,foundational,co- found,co-founder,newfound,profound,profoundly等。"
       ],
       "etymology": null,
       "examples": [],
@@ -766,8 +797,8 @@
       "word": "founder",
       "phonetic": "'faundə(r)",
       "pos": "vi.",
-      "definition": "失败[+on]; 船沉没[+on] n. (公司、组织、学校等的) 创立者2822",
-      "frequency": null,
+      "definition": "失败[+on]; 船沉没[+on] n. (公司、组织、学校等的) 创立者",
+      "frequency": 2822,
       "mnemonic": null,
       "collocations": [
         "founder on disagreements: 因意见不合而搁浅",
@@ -781,8 +812,8 @@
       "word": "founding",
       "phonetic": "'faundŋ",
       "pos": "adj.",
-      "definition": "创办的；成立的7664",
-      "frequency": null,
+      "definition": "创办的；成立的",
+      "frequency": 7664,
       "mnemonic": null,
       "collocations": [
         "(新思想或新组织的)创立人；开创者"
@@ -795,8 +826,8 @@
       "word": "unfounded",
       "phonetic": "ʌ n'faundid",
       "pos": "adj.",
-      "definition": "没有事实根据的；无稽的14618",
-      "frequency": null,
+      "definition": "没有事实根据的；无稽的",
+      "frequency": 14618,
       "mnemonic": null,
       "collocations": [
         "unfounded rumors/claims/allegations etc.: 无端的谣言；要求；主张"
@@ -809,8 +840,8 @@
       "word": "foundation",
       "phonetic": "faun'derʃ(ə)n",
       "pos": "n.",
-      "definition": "地基；基础；基金会；粉底霜2275",
-      "frequency": null,
+      "definition": "地基；基础；基金会；粉底霜",
+      "frequency": 2275,
       "mnemonic": "found(=-fund=base: 底部；根基)+-ation (复合名词后缀)→地基；基 础；根据；基本原理；基金会；粉底霜(“found: 成立，建立”的名 词形式)",
       "collocations": [
         "economic foundation: 经济基础",
@@ -825,8 +856,8 @@
       "word": "foundational",
       "phonetic": "faun'derʃənəl",
       "pos": "adj.",
-      "definition": "基础的；基本的17082",
-      "frequency": null,
+      "definition": "基础的；基本的",
+      "frequency": 17082,
       "mnemonic": null,
       "collocations": [
         "the foundational key to all success: 成功的基本要诀"
@@ -839,8 +870,8 @@
       "word": "co-found",
       "phonetic": "'kəu'faund",
       "pos": "vt.",
-      "definition": "共同创立18758",
-      "frequency": null,
+      "definition": "共同创立",
+      "frequency": 18758,
       "mnemonic": "co-(一起；共同；联合)+found(创立)→共同创立",
       "collocations": [
         "co-found Baidu: 共同创立百度"
@@ -853,8 +884,8 @@
       "word": "co-founder",
       "phonetic": "'kəu'faundə(r)",
       "pos": "n.",
-      "definition": "共同创始人8411",
-      "frequency": null,
+      "definition": "共同创始人",
+      "frequency": 8411,
       "mnemonic": null,
       "collocations": [
         "a co-founder of this important initiative: 这一重要倡议的共同创办者"
@@ -867,8 +898,8 @@
       "word": "newfound",
       "phonetic": "'nju:faund",
       "pos": "adj.",
-      "definition": "新发现的；新找到的9931",
-      "frequency": null,
+      "definition": "新发现的；新找到的",
+      "frequency": 9931,
       "mnemonic": "new(新的)+found(发现的；找到的)→新发现的；新找到的",
       "collocations": [
         "a newfound sense of patriotism: 一种新萌生的爱国主义意识"
@@ -881,17 +912,19 @@
       "word": "profound",
       "phonetic": "prə'faund ",
       "pos": "adj.",
-      "definition": "深刻的；极大的；知识渊博的3771",
-      "frequency": null,
+      "definition": "深刻的；极大的；知识渊博的",
+      "frequency": 3771,
       "mnemonic": "pro-(=forth : 向前)+found(=fund=bottom : 底部；基础)→底部基础继 续向下伸展的，向前伸到底的 →无底的；基础深的 → 引申词义深刻 的；知识渊博的",
       "collocations": [
+        "word primarily in its figurative sense.Related:Profoundly.",
         "profound knowledge: 深厚的知识",
         "profound effect: 深远的影响",
         "profound disagreement: 极大的分歧",
         "have a profound effect on…:对……有深刻的影响",
-        "a book full of profound insights: 一本充满高深见解的书 写作例句：互联网对我们的沟通方式产生了深远的影响。"
+        "a book full of profound insights: 一本充满高深见解的书 写作例句：互联网对我们的沟通方式产生了深远的影响。",
+        "The Internet has a profound effect on our way of communication."
       ],
-      "etymology": "c.1300,\"characterized by intellectual depth,\"from Old French profund (12c.,Modern French profond),from Latin profundus \"deep,bottomless, vast,\"also “obscure;profound;immoderate”.The literal and figurative senses both were in Latin,but English,having already deep,employed this 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 笔 记 区 word primarily in its figurative sense.Related:Profoundly.",
+      "etymology": "c.1300,\"characterized by intellectual depth,\"from Old French profund (12c.,Modern French profond),from Latin profundus \"deep,bottomless, vast,\"also “obscure;profound;immoderate”.The literal and figurative senses both were in Latin,but English,having already deep,employed this 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 笔 记 区",
       "examples": [],
       "rootHint": "cul"
     },
@@ -899,8 +932,8 @@
       "word": "profoundly",
       "phonetic": "prə'faundli",
       "pos": "adv.",
-      "definition": "极大地；深刻地；彻底地6582",
-      "frequency": null,
+      "definition": "极大地；深刻地；彻底地",
+      "frequency": 6582,
       "mnemonic": "profound(极大的；深刻的)+-1y(副词后缀)→极大地；深刻地；彻底地",
       "collocations": [
         "has profoundly affected my life: 已极大地影响了我的生活 profoundly deaf: 完全失聪"
@@ -913,8 +946,8 @@
       "word": "bottom",
       "phonetic": "'bptom",
       "pos": "n",
-      "definition": ".底部；底；(市场、行业)底部；最底层；最后一名；服 装的下半部；(街道或庭院的)尽头；(桌子或床的)末端；臀部 adj. 最下 面的1520",
-      "frequency": null,
+      "definition": ".底部；底；(市场、行业)底部；最底层；最后一名；服 装的下半部；(街道或庭院的)尽头；(桌子或床的)末端；臀部 adj. 最下 面的",
+      "frequency": 1520,
       "mnemonic": null,
       "collocations": [
         "the bottom of their shoes: 他们的鞋底",
@@ -922,7 +955,8 @@
         "at the bottom of: 某事的实际原因",
         "get to the bottom of: 彻底查明某事",
         "bottoms up: 干杯",
-        "the bottom of(one's)heart: 心底里"
+        "the bottom of(one's)heart: 心底里\n选笔 记 区20000词汇巅峰\n选\n笔 记 区",
+        "bottom的派生词有bottomless等。"
       ],
       "etymology": "来源于原始印欧语*bhudh-/*bhundh- (底座；基础),在日耳曼语中派 生*buthm-/*buthn-。同fundamental,基础的。",
       "examples": [],
@@ -935,7 +969,9 @@
       "definition": "无穷无尽的；深不见底的",
       "frequency": 17291,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "bottomless pit: 取之不尽的事物；无底洞"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -944,14 +980,15 @@
       "word": "base",
       "phonetic": "beis",
       "pos": "n.",
-      "definition": "底部；基部；(箱或瓶等器皿的)底部；底座；底层；基础； (客户)群；(军事)基地；主要(工作、逗留或生活)地点；(活动)大本 营；主要配料；基数；(棒球或垒球中的)垒 vt. 以……为基础；安置(某 人)adj. 以……为基础的；基本的(价格或收入);可鄙的；劣质的；贬 值的；伪造的537",
-      "frequency": null,
+      "definition": "底部；基部；(箱或瓶等器皿的)底部；底座；底层；基础； (客户)群；(军事)基地；主要(工作、逗留或生活)地点；(活动)大本 营；主要配料；基数；(棒球或垒球中的)垒 vt. 以……为基础；安置(某 人)adj. 以……为基础的；基本的(价格或收入);可鄙的；劣质的；贬 值的；伪造的",
+      "frequency": 537,
       "mnemonic": null,
       "collocations": [
         "customer base: 客户群",
         "be based on traditional herbal medicines: 根据传统草药研制",
         "a powerful political base: 一个有力的政治基础",
-        "based his conclusions on: 根据……得出了他的结论"
+        "based his conclusions on: 根据……得出了他的结论",
+        "base的派生词有basis,basic,basically,basal,baseball,baseline,baseman,basin 等。"
       ],
       "etymology": null,
       "examples": [],
@@ -961,13 +998,12 @@
       "word": "basis",
       "phonetic": "'beisis",
       "pos": "n.",
-      "definition": "基础；依据1314",
-      "frequency": null,
+      "definition": "基础；依据",
+      "frequency": 1314,
       "mnemonic": "bas(=base: 基础)+is(名词后缀)→基础；依据",
       "collocations": [
         "on the basis of: 基于……",
-        "a possible basis for negotiation: 谈判的可能基础",
-        "on a...basis: 按……原则；以……方式"
+        "a possible basis for negotiation: 谈判的可能基础\non a...basis: 按……原则；以……方式"
       ],
       "etymology": null,
       "examples": [
@@ -979,13 +1015,14 @@
       "word": "basic",
       "phonetic": "'bersik",
       "pos": "adj.",
-      "definition": "基本的；主要的；简单的1147",
-      "frequency": null,
+      "definition": "基本的；主要的；简单的",
+      "frequency": 1147,
       "mnemonic": "base(基础)+-ic(形容词后缀)→基本的；主要的",
       "collocations": [
         "basic principle: 基本原则",
         "basic foodstuffs: 基本食品",
-        "three basic types of tea: 三种主要的茶"
+        "three basic types of tea: 三种主要的茶\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
+        "basic cooking and camping equipment: 简单的烹饪和露营设备"
       ],
       "etymology": null,
       "examples": [],
@@ -998,7 +1035,9 @@
       "definition": "基本上；大致说来",
       "frequency": 1702,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "be basically good: 本质上都是善良的"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1010,7 +1049,9 @@
       "definition": "[ 植]基部的；基底的",
       "frequency": 18005,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "basal cells of the skin: 皮肤基底细胞"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1019,8 +1060,8 @@
       "word": "baseball",
       "phonetic": "'beisbɔ:l",
       "pos": "n.",
-      "definition": "棒球运动；棒球1380",
-      "frequency": null,
+      "definition": "棒球运动；棒球",
+      "frequency": 1380,
       "mnemonic": null,
       "collocations": [
         "baseball player: 棒球选手"
@@ -1033,8 +1074,8 @@
       "word": "baseline",
       "phonetic": "'berslain",
       "pos": "n.",
-      "definition": "( 网球场、羽毛球场或篮球场的)底线；(棒球场的)垒",
-      "frequency": null,
+      "definition": "( 网球场、羽毛球场或篮球场的)底线；(棒球场的)垒线；(价值的)基准",
+      "frequency": 6053,
       "mnemonic": null,
       "collocations": [
         "as a baseline for: 作为……的基准"
@@ -1047,8 +1088,8 @@
       "word": "baseman",
       "phonetic": "'bersmən",
       "pos": "n.",
-      "definition": "守垒员；垒手8959",
-      "frequency": null,
+      "definition": "守垒员；垒手",
+      "frequency": 8959,
       "mnemonic": null,
       "collocations": [
         "first/second/third baseman: [棒]一/二/三垒手"
@@ -1064,7 +1105,13 @@
       "definition": "盆；流域；盆地；内港",
       "frequency": 6262,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "a pudding basin: 布丁盆",
+        "the Amazon Basin 亚马孙河流域",
+        "the Pacific Basin: 太平洋海盆",
+        "a yacht basin: 停放游艇的内港",
+        "base 的合成词有broad-based,community-based,database,faith-based,ground- based 等 。"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1075,7 +1122,7 @@
       "pos": "adj.",
       "definition": "有广泛基础的；无限制的",
       "frequency": 14323,
-      "mnemonic": null,
+      "mnemonic": "broad(广泛的)+based(基础的)→有广泛基础的",
       "collocations": [
         "broad-based economic growth: 基础广泛的经济增长"
       ],
@@ -1087,8 +1134,8 @@
       "word": "community-based",
       "phonetic": "kə'mju:nətrbeist",
       "pos": "adj.",
-      "definition": "以社区为基础的11496",
-      "frequency": null,
+      "definition": "以社区为基础的",
+      "frequency": 11496,
       "mnemonic": "community(社区)+based(以……为基础的)→ 以社区为基础的",
       "collocations": [],
       "etymology": null,
@@ -1099,8 +1146,8 @@
       "word": "database",
       "phonetic": "'dertəbers",
       "pos": "n.",
-      "definition": "数据库；资料库3673",
-      "frequency": null,
+      "definition": "数据库；资料库",
+      "frequency": 3673,
       "mnemonic": "data (数据)+base (群；基础) →基础数据；数据群 →数据库",
       "collocations": [
         "database system/software/application etc.: 数据库系统/软件/应用程序等"
@@ -1113,8 +1160,8 @@
       "word": "faith-based",
       "phonetic": "ferθ-beist",
       "pos": "adj.",
-      "definition": "基于信仰的13867",
-      "frequency": null,
+      "definition": "基于信仰的",
+      "frequency": 13867,
       "mnemonic": "faith(信仰)+based (以……为基础的)→ 以信仰为基础的",
       "collocations": [],
       "etymology": null,
@@ -1128,7 +1175,11 @@
       "definition": "以……为根据n. 地面；优势 adj .现实的",
       "frequency": 523,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "above/below ground: 在地面上/下",
+        "gain ground/lose ground: 获得优势/丧失优势",
+        "seem very grounded and down-to-earth: 看上去非常现实，注重实际"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1137,8 +1188,8 @@
       "word": "grounding",
       "phonetic": "'graundŋ",
       "pos": "n.",
-      "definition": "基础训练15883",
-      "frequency": null,
+      "definition": "基础训练",
+      "frequency": 15883,
       "mnemonic": null,
       "collocations": [
         "a thorough grounding in: 对……全面的基础训练"
@@ -1154,7 +1205,10 @@
       "definition": "地下水",
       "frequency": 9190,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "groundwater level: 地下水位",
+        "groundwater resources: 地下水资源"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1163,8 +1217,8 @@
       "word": "groundwork",
       "phonetic": "'graun(d)ws:k",
       "pos": "n.",
-      "definition": "基础工作12079",
-      "frequency": null,
+      "definition": "基础工作",
+      "frequency": 12079,
       "mnemonic": null,
       "collocations": [
         "lay the groundwork for the task ahead: 为后面的任务打下了基础"
@@ -1177,8 +1231,8 @@
       "word": "ground-based",
       "phonetic": "'graundbeist",
       "pos": "adj.",
-      "definition": "地面的16927",
-      "frequency": null,
+      "definition": "地面的",
+      "frequency": 16927,
       "mnemonic": "ground (地面)+based (以……为基础的) → 以地面为基础的 →地面的",
       "collocations": [],
       "etymology": "*bhrūg-,Proto-Indo-European root meaning \"to enjoy,\"with derivatives referring to agricultural products.It is the hypothetical source of/evidence for its existence is provided by:Latin frui “to use,enjoy,\"fructus “an enjoyment,proceeds,fruit,crops;\"Old English brucan “use,enjoy, possess,\"German brauchen “to use.\"",
@@ -1189,13 +1243,13 @@
       "word": "function",
       "phonetic": "'faŋ(k)ʃ(on",
       "pos": "n.",
-      "definition": "功能；职责vi. 发挥作用1449",
-      "frequency": null,
+      "definition": "功能；职责vi. 发挥作用",
+      "frequency": 1449,
       "mnemonic": "func-(=work: 起作用；有功效)+t(无意义)+-ion(名词后缀)→运转；发 挥作用",
       "collocations": [
         "function as: 作为……起效果",
-        "specific function: 特定的功能",
-        "perform/fulfil a function: 履行职责"
+        "specific function: 特定的功能\nperform/fulfil a function: 履行职责",
+        "Function 的派生词有functional,functionality ,functionally ,functioning, malfunction , perfunctory 等。"
       ],
       "etymology": null,
       "examples": [],
@@ -1205,8 +1259,8 @@
       "word": "functional",
       "phonetic": "'faŋ(k)ʃ(ə)n(a)l",
       "pos": "adj.",
-      "definition": "运转正常的；功能上的4277",
-      "frequency": null,
+      "definition": "运转正常的；功能上的",
+      "frequency": 4277,
       "mnemonic": null,
       "collocations": [
         "slight functional differences: 功能稍有不同"
@@ -1219,11 +1273,12 @@
       "word": "functionality",
       "phonetic": "fankfə'næləti",
       "pos": "n.",
-      "definition": "(计算机、软件或设备的)功能17118",
-      "frequency": null,
+      "definition": "(计算机、软件或设备的)功能",
+      "frequency": 17118,
       "mnemonic": null,
       "collocations": [
-        "no loss in functionality: 功能上无任何差别"
+        "no loss in functionality: 功能上无任何差别",
+        "functionally adv.功能地16714"
       ],
       "etymology": null,
       "examples": [],
@@ -1233,7 +1288,7 @@
       "word": "functioning",
       "phonetic": "'fankfənrŋ",
       "pos": "n.",
-      "definition": "运行；功能(function 的动名词)8135",
+      "definition": "运行；功能(function 的动名词)813520000词汇巅峰速20000词汇巅峰",
       "frequency": null,
       "mnemonic": null,
       "collocations": [],
@@ -1260,14 +1315,14 @@
       "word": "perfunctory",
       "phonetic": "pə'faŋ(k)t(ə)ri",
       "pos": "adj.",
-      "definition": "(行动)草率的，敷衍的20071",
-      "frequency": null,
+      "definition": "(行动)草率的，敷衍的",
+      "frequency": 20071,
       "mnemonic": "per-(=thoroughly: 完全的)+-funct(=功能；职责)+-ory(形容词后缀)→ 字面意思即完全的履行公事→后来词义贬义化，引申词义例行公事 的；敷衍的",
       "collocations": [
         "a perfunctory glance: 马马虎虎地扫了一眼",
         "a perfunctory handshake: 漫不经心的握手",
         "a perfunctory nod/smile: 敷衍的点头/微笑",
-        "make a perfunctory effort: 只是敷衍了事"
+        "make a perfunctory effort: 只是敷衍了事\n释义：(ADJ-GRADED) 敷衍的；潦草的；马马虎虎的A perfunctory action is done quickly and carelessly,and shows a lack of interest in what you are doing."
       ],
       "etymology": null,
       "examples": [],
@@ -1277,11 +1332,12 @@
       "word": "defunct",
       "phonetic": "dr'faŋ(k)t",
       "pos": "adj.",
-      "definition": "不再起作用的16001",
-      "frequency": null,
+      "definition": "不再起作用的",
+      "frequency": 16001,
       "mnemonic": "de-(off: 离开；没有)+funct(=function: 运转；发挥作用)→off duty:\n没有功能/作用的→不再起作用的",
       "collocations": [
-        "a defunct party: 一个不再存在的政党"
+        "a defunct party: 一个不再存在的政党",
+        "defunct的派生词有dsyfunction ,dysfunctional 等 。"
       ],
       "etymology": null,
       "examples": [],
@@ -1291,10 +1347,11 @@
       "word": "dysfunction",
       "phonetic": "dis'fʌŋ(k)ʃ(ən",
       "pos": "n.",
-      "definition": "(关系或行为的)异常；机能障碍9667",
-      "frequency": null,
-      "mnemonic": "dys-(bad,abnormal ,difficult: 坏的；不正常的；困难的)+function→\nfailure to function: 功能异常；功能不良",
+      "definition": "(关系或行为的)异常；机能障碍",
+      "frequency": 9667,
+      "mnemonic": "dys-(bad,abnormal ,difficult: 坏的；不正常的；困难的)+function→",
       "collocations": [
+        "failure to function: 功能异常；功能不良",
         "severe emotional dysfunction: 情绪的严重异常",
         "kidney and liver dysfunction: 肾和肝功能不良"
       ],
@@ -1306,8 +1363,8 @@
       "word": "dysfunctional",
       "phonetic": "dis'fankfənl",
       "pos": "adj.",
-      "definition": "( 关系或行为)异常的10115",
-      "frequency": null,
+      "definition": "( 关系或行为)异常的",
+      "frequency": 10115,
       "mnemonic": null,
       "collocations": [
         "a dysfunctional family: 异常家庭"
@@ -1320,13 +1377,14 @@
       "word": "fruit",
       "phonetic": "fru:t",
       "pos": "n.",
-      "definition": "水果；成果vi. 结果实1672",
-      "frequency": null,
+      "definition": "水果；成果vi. 结果实",
+      "frequency": 1672,
       "mnemonic": null,
       "collocations": [
         "tropical fruits: 热带水果",
         "enjoy the fruits of that labor: 享受劳动的成果",
-        "bear fruit: ( 付出的努力)有成效"
+        "bear fruit: ( 付出的努力)有成效",
+        "Fruit 的派生词有fruitful,fruition ,fruitless,fruity,grapefruit 等。"
       ],
       "etymology": "来自拉丁语fructus “fruit,crops”,“水果；农作物”。",
       "examples": [],
@@ -1339,7 +1397,9 @@
       "definition": "富有成效；(土地)多产的，丰饶的",
       "frequency": 12035,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "a busy and fruitful time: 忙碌而有成效的一段时间"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1348,11 +1408,13 @@
       "word": "frugal",
       "phonetic": "'fru:g(3)l",
       "pos": "adj.",
-      "definition": "节俭的；(膳食)俭省的17191",
-      "frequency": null,
+      "definition": "节俭的；(膳食)俭省的",
+      "frequency": 17191,
       "mnemonic": null,
       "collocations": [
-        "live a frugal life: 过着俭朴的生活"
+        "live a frugal life: 过着俭朴的生活",
+        "frugal diet: 俭省的饮食笔 记 区",
+        "frugal diet: 俭省的饮食\n笔 记 区"
       ],
       "etymology": "来 自fructus, 果实，同fruit. 原义为丰产的，丰富的，派生词义 节约的，节俭的，即节俭才能富裕之义。比较thrive (繁盛；兴旺), thrift(同 thrive: 繁荣，兴旺。由繁荣，兴旺引申为节约，节俭。 即节俭才能富裕)。",
       "examples": [],
@@ -1362,8 +1424,8 @@
       "word": "fruition",
       "phonetic": "fru'rʃ(ən",
       "pos": "n.",
-      "definition": "(计划、项目等的)实现；完成；收效17308",
-      "frequency": null,
+      "definition": "(计划、项目等的)实现；完成；收效",
+      "frequency": 17308,
       "mnemonic": null,
       "collocations": [
         "come to/bring to/reach fruition: 得以实现"
@@ -1379,7 +1441,9 @@
       "definition": "无成效的；无结果的",
       "frequency": 16116,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "fruitless attempt: 徒劳的尝试"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "cul"
@@ -1388,8 +1452,8 @@
       "word": "fruity",
       "phonetic": "'fru:tr",
       "pos": "adj.",
-      "definition": "果香味浓的；(声音)圆润的；(笑声)甜美的18011",
-      "frequency": null,
+      "definition": "果香味浓的；(声音)圆润的；(笑声)甜美的",
+      "frequency": 18011,
       "mnemonic": null,
       "collocations": [
         "a very fruity wine: 果香浓郁的葡萄酒"
@@ -1402,8 +1466,8 @@
       "word": "grapefruit",
       "phonetic": "'grerpfru:t",
       "pos": "n.",
-      "definition": "葡萄柚12394",
-      "frequency": null,
+      "definition": "葡萄柚",
+      "frequency": 12394,
       "mnemonic": null,
       "collocations": [],
       "etymology": null,

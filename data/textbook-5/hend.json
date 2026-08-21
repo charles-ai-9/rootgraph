@@ -22,7 +22,7 @@
         "get your coat on：把你的外套穿上",
         "get to work at 9:30 a.m：上午9:30上班"
       ],
-      "definition" : "-link 变得；处于 vt. 使……处于；使（某人做某事）；使……做",
+      "definition" : "-link 变得；处于 vt. 使……处于；使（某人做某事）；使……做好；最终或逐步达到（某个阶段）；设法做；有机会做 vi. 移动；到达",
       "examples" : [
 
       ],
@@ -35,7 +35,7 @@
       "collocations" : [
         "to make a quick getaway：迅速逃跑",
         "a getaway car：逃跑用的汽车",
-        "a romantic weekend getaway in New York：在纽约度过的浪漫周末"
+        "a romantic weekend getaway in New York：在纽约度过的浪漫周末\n笔 记 区"
       ],
       "definition" : "（尤指犯罪后或逃避某人的）逃跑；短期休假",
       "examples" : [
@@ -80,15 +80,16 @@
     },
     {
       "collocations" : [
+        "opinion, judge, decide, discern; evaluate, estimate the number, importance,",
         "anyone’s guess \/ anybody’s guess：谁也拿不准的事",
         "at a guess：凭猜测",
-        "keep somebody guessing：使某人猜不透",
-        "wild guess：胡乱猜想"
+        "keep somebody guessing：使某人猜不透\nwild guess：胡乱猜想",
+        "She guessed the answer straight away.\n她一下子就猜中了答案。"
       ],
       "definition" : "&vi. 猜测 vt. 猜中 n. 猜想",
-      "etymology" : "c. 1300, gessen “to infer from observation, perceive, find out; form an opinion, judge, decide, discern; evaluate, estimate the number, importance, etc. of ”.",
+      "etymology" : "c. 1300, gessen “to infer from observation, perceive, find out; form an etc. of ”.",
       "examples" : [
-        "The author’s intention is to keep everyone guessing until the bitter end.\n这位作者的意图是在最终结尾前让所有人都猜不透。\nShe guessed the answer straight away.\n她一下子就猜中了答案。"
+        "The author’s intention is to keep everyone guessing until the bitter end.\n这位作者的意图是在最终结尾前让所有人都猜不透。"
       ],
       "frequency" : 865,
       "phonetic" : "ges",
@@ -115,10 +116,11 @@
       "collocations" : [
         "comprehensive education：综合教育"
       ],
-      "definition" : "无所不包的；详尽的 n. 综合中学（英",
+      "definition" : "无所不包的；详尽的 n. 综合中学（英国）",
       "examples" : [
         "The Rough Guide to Nepal is a comprehensive guide to the region.\n《尼泊尔概览》是介绍该地区的一本全面指南。"
       ],
+      "frequency" : 2919,
       "mnemonic" : "comprehen（包含）+-ive（形容词后缀：表“大”或“多”）→包含多\n的→广泛的，综合的",
       "phonetic" : "kɒmprɪˈhensɪv",
       "pos" : "adj.",
@@ -188,12 +190,12 @@
         "a reprieved murderer：被判死刑而暂缓执行的杀人犯"
       ],
       "definition" : "（被判）缓刑；撤销（刑罚） n. 缓刑；（刑罚）撤销；暂缓",
-      "etymology" : "来自拉丁语reprehendere：抓回。re-（向后，往回）+prehendere（抓 住）→抓回",
+      "etymology" : "来自拉丁语reprehendere：抓回。re-（向后，往回）+prehendere（抓",
       "examples" : [
 
       ],
       "frequency" : 17614,
-      "mnemonic" : "re-（=back：往回）+prieve-（抓住）→抓回监狱，送回监狱→后引申",
+      "mnemonic" : "住）→抓回\nre-（=back：往回）+prieve-（抓住）→抓回监狱，送回监狱→后引申",
       "phonetic" : "rɪˈpriːv",
       "pos" : "vt.",
       "rootHint" : "hend",
@@ -201,15 +203,16 @@
     },
     {
       "collocations" : [
+        "together, include, contain→抓住……合起来，包含，包括→包含；\n由……组成",
         "be comprised of：由……构成"
       ],
       "definition" : "包含；由……组成",
-      "etymology" : "15世纪早期，“to include：包括”，来自古法语 compris, comprendre “to contain, comprise：包含，由……组成”（12世纪）的过去分词。 com -（with, together）+prehendere （to catch hold of, seize）→to catch hold of... together→to include：包括。",
+      "etymology" : "15世纪早期，“to include：包括”，来自古法语 compris, comprendre “to contain, comprise：包含，由……组成”（12世纪）的过去分词。 com -（with, together）+prehendere （to catch hold of, seize）→to catch",
       "examples" : [
 
       ],
       "frequency" : 4438,
-      "mnemonic" : "com-（=together：一起）+-prise（=to take, seize：抓住）→to take\ntogether, include, contain→抓住……合起来，包含，包括→包含；",
+      "mnemonic" : "hold of... together→to include：包括。\ncom-（=together：一起）+-prise（=to take, seize：抓住）→to take",
       "phonetic" : "kəmˈpraɪz",
       "pos" : "vt.",
       "rootHint" : "pris",
@@ -222,12 +225,12 @@
         "the spirit of enterprise：开拓精神"
       ],
       "definition" : "企业；创业；开拓精神",
-      "etymology" : "来自15世纪早期，“an undertaking：一项事业”。来自古法语enterprise “an undertaking,” entreprendre“undertake, take in hand”（12世纪）的名词 形式。来自entre-（=between：在……之间）+prendre（=to take, seize： 抓住）→an undertaking：事业。",
+      "etymology" : "来自15世纪早期，“an undertaking：一项事业”。来自古法语enterprise “an undertaking,” entreprendre“undertake, take in hand”（12世纪）的名词 形式。来自entre-（=between：在……之间）+prendre（=to take, seize：",
       "examples" : [
 
       ],
       "frequency" : 2522,
-      "mnemonic" : "enter-（=between：在……之间）+-pris-（=to take, undertake：拿；承\n担）+-e→把事情拿在手里，抓住……事业→从事，承担，负责的事\n情→企业；开拓精神",
+      "mnemonic" : "抓住）→an undertaking：事业。\nenter-（=between：在……之间）+-pris-（=to take, undertake：拿；承\n担）+-e→把事情拿在手里，抓住……事业→从事，承担，负责的事\n情→企业；开拓精神",
       "phonetic" : "ˈentəpraɪz",
       "pos" : "n.",
       "rootHint" : "pris",
@@ -287,6 +290,7 @@
       "examples" : [
 
       ],
+      "frequency" : 14707,
       "mnemonic" : "The MSc Entrepreneurship：企业管理硕士（Master of Business Admini-\nstration）",
       "phonetic" : "ˌɒntrəprəˈnɜːʃɪp",
       "pos" : "n.",
@@ -297,7 +301,9 @@
       "collocations" : [
         "apprehend a thief：抓到小偷",
         "apprehend the danger：意识到危险",
-        "apprehend the problem：意识到问题"
+        "apprehend the problem：意识到问题\n20000 词汇巅峰\n速\n记\n释义：（VERB） 逮捕；拘押 If the police apprehend someone, they catch them",
+        "and arrest them.\n（VERB） 理解；明白 If you apprehend something, you understand it",
+        "with anxiety, dread, or fear.\n笔 记 区"
       ],
       "definition" : "逮捕；意识到；忧虑；理解",
       "examples" : [
@@ -330,7 +336,8 @@
     },
     {
       "collocations" : [
-        "apprehensive about the future：对未来忧虑的"
+        "apprehensive about the future：对未来忧虑的",
+        "apprehensive is afraid that something bad may happen."
       ],
       "definition" : "担心的；忧虑的",
       "examples" : [
@@ -346,7 +353,9 @@
     {
       "collocations" : [
         "an apprentice carpenter：一位木工学徒",
-        "be apprenticed to a builder：拜一个建筑工人为师当学徒"
+        "be apprenticed to a builder：拜一个建筑工人为师当学徒\n释义：（N-COUNT） 学徒；徒弟 An apprentice is a young person who works",
+        "for someone in order to learn their skill.\n（VERB） 使拜师于；使当……的学徒 If a young person is apprenticed",
+        "to someone, they go to work for them in order to learn their skill."
       ],
       "definition" : "学徒 vt. 使当……的学徒",
       "etymology" : "1300年，来自古法语aprentiz“someone learning：正在学习的人”， 同时也做形容词，表示“unskilled, inexperienced：不熟练的，无经验 的”。来自aprendre“to learn; to teach：去学习；去教导”，表示在 心理上或身体上“take hold of，grasp；握住；抓牢”。在古代西方 的手工艺行业中工匠的职称一般都划分为“学徒”（apprentice）、 “熟练工”（journeyman）和“师傅”（master）这三个级别。",
@@ -378,10 +387,10 @@
     },
     {
       "collocations" : [
-
+        "loss inflicted on one’s own,” 来自拉丁语reprendere."
       ],
       "definition" : "报复",
-      "etymology" : "Early 15c., “seizing property or citizens of another nation in retaliation for loss inflicted on one’s own,” 来自拉丁语reprendere.",
+      "etymology" : "Early 15c., “seizing property or citizens of another nation in retaliation for",
       "examples" : [
         "They did not want to give evidence for fear of reprisals.\n他们因为害怕报复而不想作证。\n近义词：retaliation：报复"
       ],
@@ -408,10 +417,13 @@
     },
     {
       "collocations" : [
+        "prisoner, captive” (11c., Modern French prison). From Latin prensionem",
+        "(nominative prensio), shortening of prehensionem (nominative *prehensio)",
+        "modern sense. 来自古法语prison，监狱，来自拉丁语prehensionem，抓\n住，来自prehendere，抓住，握住。引申动词词义监禁，关押。",
         "a maximum-security prison：最高度戒备的监狱"
       ],
       "definition" : "监狱；看守所；监禁；难以脱身的地方；牢笼",
-      "etymology" : "early 12c., from Old French prisoun “captivity, imprisonment; prison; 20000 词汇巅峰 速 记 prisoner, captive” (11c., Modern French prison). From Latin prensionem (nominative prensio), shortening of prehensionem (nominative *prehensio) “a taking,” noun of action from past participle stem of prehendere “to take”. “Captivity,” hence by extension “a place for captives,” the main modern sense. 来自古法语prison，监狱，来自拉丁语prehensionem，抓 住，来自prehendere，抓住，握住。引申动词词义监禁，关押。",
+      "etymology" : "early 12c., from Old French prisoun “captivity, imprisonment; prison; 20000 词汇巅峰 速 记 “a taking,” noun of action from past participle stem of prehendere “to take”. “Captivity,” hence by extension “a place for captives,” the main",
       "examples" : [
 
       ],
@@ -439,11 +451,11 @@
     },
     {
       "collocations" : [
-
+        "be jailed for life for murder：因谋杀罪被终身监禁"
       ],
       "definition" : "监禁；关押",
       "examples" : [
-        "He was imprisoned for 18 months on charges of theft.\n他因盗窃指控而被监禁了18个月。\n近义词：jail：监禁\nbe jailed for life for murder：因谋杀罪被终身监禁"
+        "He was imprisoned for 18 months on charges of theft.\n他因盗窃指控而被监禁了18个月。\n近义词：jail：监禁"
       ],
       "frequency" : 8633,
       "mnemonic" : "im-（=in-：在里面）+ prison（监狱）→在监狱里面→监禁；关押",
@@ -499,10 +511,11 @@
         "take somebody by surprise：使某人吃惊",
         "a surprise visit：意外造访"
       ],
-      "definition" : "使吃惊；使惊喜；出其不意地抓获（袭击、找到） n.",
+      "definition" : "使吃惊；使惊喜；出其不意地抓获（袭击、找到） n.惊奇；惊讶；惊喜 adj. 意外的",
       "examples" : [
         "Surprise a new neighbor with one of your favorite home-made dishes.\n做一道你自己拿手的家常菜，给你的新邻居一个惊喜。\nU.S. troops surprised eight enemy fighters in a cave complex.\n美国军队在一个洞穴群里出其不意地抓获了8名敌军士兵。"
       ],
+      "frequency" : 1632,
       "mnemonic" : "sur-（=over：在上）+ -pris-（=to take, seize：抓住）+ -e→在上面抓住，\n表示突然的、出乎意料地（unexpected）抓住→出其不意地抓获；吃",
       "phonetic" : "səˈpraɪz",
       "pos" : "vt.",

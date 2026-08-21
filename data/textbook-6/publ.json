@@ -14,14 +14,13 @@
     {
       "collocations" : [
         "the general public：人民大众",
-        "public figures：公众人物",
-        "go public：上市",
-        "in public：当众"
+        "public figures：公众人物\ngo public：上市\nin public：当众"
       ],
-      "definition" : "公众的；政府的；（建筑、服务、地方）公共的；（陈",
+      "definition" : "公众的；政府的；（建筑、服务、地方）公共的；（陈述、行为、事件）公开的 n. 公众；群体",
       "examples" : [
 
       ],
+      "frequency" : 17199,
       "mnemonic" : "publ（=people：人；群众）+ -ic（形容词后缀，…的）→群众的→公",
       "phonetic" : "ˈpʌblɪk",
       "pos" : "adj.",
@@ -93,11 +92,13 @@
     {
       "collocations" : [
         "good\/bad\/adverse publicity：有利的\/不利的\/反面的报道",
-        "publicity material：宣传材料"
+        "publicity material：宣传材料",
+        "In dealing with the issue and other things alike, in fact, not sufficient value",
+        "is placed upon publicity\/guidance and education\/supervision."
       ],
       "definition" : "（媒体的）关注，报道；广告宣传工作",
       "examples" : [
-        "在处理这个问题和其他相似问题的时候，实际上，并没有足够重\n视宣传\/引导和教育\/监管。\nIn dealing with the issue and other things alike, in fact, not sufficient value\nis placed upon publicity\/guidance and education\/supervision."
+        "在处理这个问题和其他相似问题的时候，实际上，并没有足够重\n视宣传\/引导和教育\/监管。"
       ],
       "frequency" : 4588,
       "mnemonic" : "public（公众的；公开的）+ -ity（名词后缀）→使……公开→报道；",
@@ -123,11 +124,13 @@
     },
     {
       "collocations" : [
-        "a much\/highly\/widely publicized speech：一篇受到大力\/高度\/广泛报道"
+        "a much\/highly\/widely publicized speech：一篇受到大力\/高度\/广泛报道",
+        "Medicine, isn’t the first to associate greenery with better health, but it does",
+        "get us closer 68 identifying what works and why."
       ],
       "definition" : "宣传；推广（publicize的过去分词）",
       "examples" : [
-        "The new research, in the American Journal of Preventive\nMedicine, isn’t the first to associate greenery with better health, but it does\nget us closer 68 identifying what works and why.\n67. A) published B) simulated C) illuminated D) circulated"
+        "The new research, in the American Journal of Preventive\n67. A) published B) simulated C) illuminated D) circulated"
       ],
       "frequency" : 13291,
       "mnemonic" : "publ（=public：公开的；公众的）+ -ish（使动词后缀）→使……公\n之于众→出版；发表",
@@ -194,7 +197,8 @@
     },
     {
       "collocations" : [
-        "DPRK（The Democratic People’s Republic of Korean）：朝鲜民主主义"
+        "DPRK（The Democratic People’s Republic of Korean）：朝鲜民主主义",
+        "the Republic of Ireland：爱尔兰共和国"
       ],
       "definition" : "共和国；共和政体4273",
       "examples" : [
@@ -223,7 +227,7 @@
     {
       "collocations" : [
         "the fight for justice and democracy：为正义和民主的斗争",
-        "Democrat party：民主党"
+        "Democrat party：民主党\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "民主党人；民主主义者",
       "examples" : [
@@ -244,6 +248,7 @@
       "examples" : [
 
       ],
+      "frequency" : 1511,
       "mnemonic" : "demo-（人民）+ -cracy（管理；统治）→由人民进行管理、统治→民",
       "phonetic" : "dɪˈmɒkrəsɪ",
       "pos" : "n.",
@@ -332,10 +337,11 @@
         "sophisticated verbal skills：老练的口语表达技能",
         "a sophisticated audience：水平高的（有鉴赏力的）观众"
       ],
-      "definition" : "（机器、装置等）高级、精密的；见多识广",
+      "definition" : "（机器、装置等）高级、精密的；见多识广的；精明老练的",
       "examples" : [
 
       ],
+      "frequency" : 3102,
       "mnemonic" : "sophist（诡辩家）+ -icated（= -ic + -ate + -d：复合形容词后缀）→像\n诡辩家一样的→老于世故的；老练的；复杂的",
       "phonetic" : "səˈfɪstɪkeɪtɪd",
       "pos" : "adj.",
@@ -346,10 +352,11 @@
       "collocations" : [
 
       ],
-      "definition" : "（机器、方法的）精密，复杂；（人的）高",
+      "definition" : "（机器、方法的）精密，复杂；（人的）高度文化修养；精明老练",
       "examples" : [
 
       ],
+      "frequency" : 9117,
       "phonetic" : "səˌfɪstɪˈkeɪʃn",
       "pos" : "n.",
       "rootHint" : "publ",
@@ -358,13 +365,15 @@
     {
       "collocations" : [
         "religious customs：宗教习俗",
-        "a customs officer：海关官员"
+        "a customs officer：海关官员\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "the custom of giving presents at Christmas：在圣诞节赠送礼品的习俗"
       ],
-      "definition" : "风俗；习惯；（顾客对商店的）惠顾；海关（customs）",
+      "definition" : "风俗；习惯；（顾客对商店的）惠顾；海关（customs）adj. 定做的；量身设计的",
       "etymology" : "Custom的本意是“习俗、惯例”，而它所包含“海关、关税”是因 为缴纳关税原本是一种惯例。外地商人向当地领主缴纳保护费的做法 是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商 贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典 城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品 征收一定比例的费用。在英国，外地商人进入某地进行商贸活动时， 需要向当地领主缴纳一项例行的入市费，称为customary tolls。因 此，英语单词custom便衍生了“关税”的含义，通常用其复数形式。 后来，custom又可以用来表示征收关税的场所，即海关。",
       "examples" : [
 
       ],
+      "frequency" : 3017,
       "mnemonic" : "c（无意义）+ us（=used）+ to（=to）+ m→be used to：习惯→风俗；",
       "phonetic" : "ˈkʌstəm",
       "pos" : "n.",
@@ -375,10 +384,11 @@
       "collocations" : [
         "take a heavy toll (on sb.\/sth.)\/take its toll (on sb.\/sth.)：产生恶果；造成"
       ],
-      "definition" : "（道路、桥梁的）通行费；（战争、灾难等造成的）毁坏；伤",
+      "definition" : "（道路、桥梁的）通行费；（战争、灾难等造成的）毁坏；伤亡人数",
       "examples" : [
 
       ],
+      "frequency" : 4652,
       "phonetic" : "təʊl",
       "pos" : "vt.",
       "rootHint" : "publ",
@@ -402,7 +412,7 @@
       "collocations" : [
         "custom（惠顾）+ -er（表人）→惠顾商店的人→顾客；客户",
         "customer service：客户服务",
-        "customer first：客户至上"
+        "customer first：客户至上\n单词 custom 表示“定做的；量身设计的”含义时，其派生词有："
       ],
       "definition" : "顾客；客户",
       "examples" : [
@@ -459,11 +469,11 @@
     },
     {
       "collocations" : [
-
+        "She arranged everything with her customary efficiency.\n她以她特有的高效率把一切都已安排妥当。"
       ],
       "definition" : "通常的；习惯的；特有的，独特的",
       "examples" : [
-        "Is it customary to tip hairdressers in this country?\n这个国家兴给理发师小费吗？\nShe arranged everything with her customary efficiency.\n她以她特有的高效率把一切都已安排妥当。"
+        "Is it customary to tip hairdressers in this country?\n这个国家兴给理发师小费吗？"
       ],
       "frequency" : 8674,
       "mnemonic" : "custom（习惯）+ -ary（形容词后缀）→通常的；习惯的\ncustom（定做的）+ -ary（形容词后缀）→为某人所定做的一样→特",
@@ -474,11 +484,12 @@
     },
     {
       "collocations" : [
-        "accustom oneself\/sb. to sth.：使习惯于……"
+        "accustom oneself\/sb. to sth.：使习惯于……",
+        "What is worse, students seem to be quite accustomed to such waste and"
       ],
       "definition" : "使习惯于",
       "examples" : [
-        "更加糟糕的是，学生似乎非常习惯于这种浪费，还不会感觉到有\n负罪感。\nWhat is worse, students seem to be quite accustomed to such waste and\ndon’t have a feeling of guilt."
+        "更加糟糕的是，学生似乎非常习惯于这种浪费，还不会感觉到有\n负罪感。\ndon’t have a feeling of guilt."
       ],
       "frequency" : 7723,
       "mnemonic" : "ac-（加强语气）+ custom（习惯）→使习惯于",
@@ -505,11 +516,11 @@
     },
     {
       "collocations" : [
-
+        "The unaccustomed heat made him weary.\n反常的炎热令他虚弱无力。"
       ],
       "definition" : "不习惯；不适应；反常的",
       "examples" : [
-        "He was unaccustomed to hard work.\n他不习惯艰苦工作。\nThe unaccustomed heat made him weary.\n反常的炎热令他虚弱无力。"
+        "He was unaccustomed to hard work.\n他不习惯艰苦工作。"
       ],
       "frequency" : 18227,
       "phonetic" : "ˌʌnəˈkʌstəmd",
@@ -522,11 +533,13 @@
         "a costume designer：戏装设计师",
         "national costume：（某一国家的）民族服装"
       ],
-      "definition" : "（戏剧或电影的）戏装；（某地或某历史时期的）服",
-      "etymology" : "来自意大利语costume“fashion, habit：时尚；习惯”。 20000 词汇巅峰 速 记 笔 记 区 邪记：custom：习惯→costume：（代表）某个时期习惯穿的服装→戏装； 服装",
+      "definition" : "（戏剧或电影的）戏装；（某地或某历史时期的）服装",
+      "etymology" : "来自意大利语costume“fashion, habit：时尚；习惯”。 20000 词汇巅峰 速 记 笔 记 区 服装",
       "examples" : [
 
       ],
+      "frequency" : 4191,
+      "mnemonic" : "邪记：custom：习惯→costume：（代表）某个时期习惯穿的服装→戏装；",
       "phonetic" : "ˈkɒstjuːm",
       "pos" : "n.",
       "rootHint" : "publ",
@@ -552,8 +565,7 @@
         "real girlfriend：名副其实的女朋友",
         "real reason：真实的原因",
         "real leather：真皮",
-        "a real problem：确实存在的问题",
-        "for real：确实地；真正地"
+        "a real problem：确实存在的问题\nfor real：确实地；真正地"
       ],
       "definition" : "真实的；天然的；名副其实的；真切而严重的",
       "examples" : [
@@ -583,12 +595,14 @@
     {
       "collocations" : [
         "in reality：事实上；实际上",
-        "the harsh reality：残酷现实"
+        "the harsh reality：残酷现实\n20000 词汇巅峰\n速\n记",
+        "become reality：变为现实\n笔 记 区"
       ],
-      "definition" : "现实；（尤指令人不快或难对付的）真实情形；真实存",
+      "definition" : "现实；（尤指令人不快或难对付的）真实情形；真实存在",
       "examples" : [
 
       ],
+      "frequency" : 1035,
       "mnemonic" : "real（真实的）+ -ity（名词后缀）→现实；真实情形；真实存在",
       "phonetic" : "rɪˈælɪtɪ",
       "pos" : "n.",
@@ -613,12 +627,13 @@
     },
     {
       "collocations" : [
-
+        "I really and truly am in love this time.\n我这一次确确实实是恋爱了。"
       ],
       "definition" : "事实上，真正地，真实地；（强调观点等）确实，的确",
       "examples" : [
-        "Tell me what really happened.\n告诉我究竟（真正）发生了什么事。\nI really and truly am in love this time.\n我这一次确确实实是恋爱了。"
+        "Tell me what really happened.\n告诉我究竟（真正）发生了什么事。"
       ],
+      "frequency" : 142,
       "phonetic" : "ˈrɪəlɪ",
       "pos" : "adv.",
       "rootHint" : "publ",
@@ -629,10 +644,11 @@
         "have an edge of realism：带有现实主义的色彩",
         "critical realism：批判现实主义"
       ],
-      "definition" : "现实态度；务实精神；（绘画、小说或电影中的）现",
+      "definition" : "现实态度；务实精神；（绘画、小说或电影中的）现实主义",
       "examples" : [
 
       ],
+      "frequency" : 7303,
       "mnemonic" : "real（真实的；现实的）+ -ism（名词后缀，主义；思想）→现实主",
       "phonetic" : "ˈriːəlɪzəm",
       "pos" : "n.",
@@ -647,6 +663,7 @@
       "examples" : [
 
       ],
+      "frequency" : 10202,
       "mnemonic" : "real（真实的，现实的）+ -ist（人）→现实的人→现实主义者；现实",
       "phonetic" : "ˈriːəlɪst",
       "pos" : "n.",
@@ -686,11 +703,11 @@
     },
     {
       "collocations" : [
-
+        "The film starts off realistically and then develops into a ridiculous fantasy.\n电影开始的时候比较逼真，然后却发展成为荒谬的幻想。"
       ],
       "definition" : "现实地；务实地；逼真地",
       "examples" : [
-        "As an adult, you can assess the situation realistically.\n作为成年人，你可以现实地估量这个局势。\nThe film starts off realistically and then develops into a ridiculous fantasy.\n电影开始的时候比较逼真，然后却发展成为荒谬的幻想。"
+        "As an adult, you can assess the situation realistically.\n作为成年人，你可以现实地估量这个局势。"
       ],
       "frequency" : 11415,
       "phonetic" : "ˌriːəˈlɪstɪkli",
@@ -749,10 +766,11 @@
         "realize potential：发挥潜能",
         "realize 2,000 dollars：赚了2000美元"
       ],
-      "definition" : "&vi. 意识到；（希望、渴望或恐惧）变成现实；使成为",
+      "definition" : "&vi. 意识到；（希望、渴望或恐惧）变成现实；使成为20000 词汇巅峰速记现实；发挥（潜能）；赚取（指通过出售某物赚钱）",
       "examples" : [
         "All his worst fears were realized.\n他最担心的事情都变成了现实。"
       ],
+      "frequency" : 621,
       "mnemonic" : "real-（现实）+ -ize（使动词后缀）→使成为现实；认识；赚取",
       "phonetic" : "ˈrɪəlaɪz",
       "pos" : "vt.",

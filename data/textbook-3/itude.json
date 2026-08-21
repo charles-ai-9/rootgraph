@@ -15,13 +15,14 @@
       "word": "attitude",
       "phonetic": "'ætitju:d",
       "pos": "n.",
-      "definition": "态度，看法，我行我素的作派，姿势1157",
-      "frequency": null,
-      "mnemonic": "att(=apt: 倾向)+ itude ( 度) → 倾向度 → 态度(问你的态度，即询\nattitud(=attitude: 态度)+-inal ( 复合形容词后缀) →态度的",
+      "definition": "态度，看法，我行我素的作派，姿势",
+      "frequency": 1157,
+      "mnemonic": "att(=apt: 倾向)+ itude ( 度) → 倾向度 → 态度(问你的态度，即询\n邪解：att ( 加强语气)+-itude ( 度) → 态度\nattitud(=attitude: 态度)+-inal ( 复合形容词后缀) →态度的",
       "collocations": [
         "positive attitude: 积极态度",
         "attitude to/towards sb/sth: 对某人/某事的态度",
         "to have a good/bad/positive/negative attitude towards sb/sth: 对某人(或 事物)持好的/坏的/肯定的/否定的态度",
+        "attitudina l [,atr'tudnl] adj. 态度的；人生观的16321",
         "attitudinal commitment: 态度性承诺"
       ],
       "etymology": null,
@@ -32,8 +33,8 @@
       "word": "aptitude",
       "phonetic": "'æptrtju:d",
       "pos": "n.",
-      "definition": "天资；天赋；自然倾向；适宜12785",
-      "frequency": null,
+      "definition": "天资；天赋；自然倾向；适宜",
+      "frequency": 12785,
       "mnemonic": "apt (有……倾向的，适合)+ itude (表度) → (天赋、才能、倾向 等)向……方向倾斜的度→天资；天赋",
       "collocations": [
         "aptitude test: 能力试验",
@@ -48,12 +49,12 @@
       "word": "altitude",
       "phonetic": "'æltrtju:d",
       "pos": "n.",
-      "definition": "海拔；(海拔高的)高处，高地6464",
-      "frequency": null,
+      "definition": "海拔；(海拔高的)高处，高地",
+      "frequency": 6464,
       "mnemonic": "alt- ( 高 ) + -itude (抽象名词后缀，表度，状态) →高度→海拔； (海拔高的)高处",
       "collocations": [
         "altitude sickness: 高原反应",
-        "high altitude: 高空"
+        "high altitude: 高空\n笔 记 区\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -63,8 +64,8 @@
       "word": "amplitude",
       "phonetic": "'æmpltju:d ",
       "pos": "n.",
-      "definition": "( 声波或电流信号的)振幅；丰富；充足；广 阔；大量；(思想的)广度14669",
-      "frequency": null,
+      "definition": "( 声波或电流信号的)振幅；丰富；充足；广 阔；大量；(思想的)广度",
+      "frequency": 14669,
       "mnemonic": "ampl(e) ( 丰富的，充足的，广阔的)+itude ( 抽象名称后缀，表度)\n→丰富、充足、广阔的状态→丰富；充足；广阔；大量 搭配：amplitude ratio: 幅度比率",
       "collocations": [],
       "etymology": null,
@@ -75,16 +76,16 @@
       "word": "gratitude",
       "phonetic": "'grætrtju:d",
       "pos": "n.",
-      "definition": "感激；感谢7175",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "感激；感谢",
+      "frequency": 7175,
+      "mnemonic": "*gwere-(2)\"to favor”).Meaning \"thankfulness\"is from 1560s. 助记：grat- (恩惠)+ -itude (表度) → 感激",
       "collocations": [
         "gratitude to sb for sth: 因……向某人表达感激之情",
         "a deep sense of gratitude: 深深的谢意",
         "express gratitude: 致谢",
         "debt of gratitude: 人情债"
       ],
-      "etymology": "mid-15c.,“good will,”from Middle French gratitude(15c.)or directly from Medieval Latin gratitudinem(nominative gratitudo)\"thankfulness,\" from Latin gratus “thankful,pleasing”(from suffixed form of PIE root *gwere-(2)\"to favor”).Meaning \"thankfulness\"is from 1560s. 助记：grat- (恩惠)+ -itude (表度) → 感激",
+      "etymology": "mid-15c.,“good will,”from Middle French gratitude(15c.)or directly from Medieval Latin gratitudinem(nominative gratitudo)\"thankfulness,\" from Latin gratus “thankful,pleasing”(from suffixed form of PIE root",
       "examples": [],
       "rootHint": "itude"
     },
@@ -92,8 +93,8 @@
       "word": "latitude",
       "phonetic": "'lætitju:d",
       "pos": "n.",
-      "definition": "纬度；活动范围；宽度； 界限8154",
-      "frequency": null,
+      "definition": "纬度；活动范围；宽度； 界限",
+      "frequency": 8154,
       "mnemonic": "lat-(=wide: 宽的)+itude (度) → 宽度；范围；纬度(“纬度”的",
       "collocations": [
         "wide latitude: 广泛的自由"
@@ -108,15 +109,16 @@
       "word": "longitude",
       "phonetic": "'lon(d)ʒtju:d ;'Iongi-",
       "pos": "n.",
-      "definition": "[ 地]经度；[地]经线adj. 经度的17460",
-      "frequency": null,
+      "definition": "[ 地]经度；[地]经线adj. 经度的",
+      "frequency": 17460,
       "mnemonic": "long ( 长的)+ -itude ( 表度) →沿着地球经线的度 →经度",
       "collocations": [
+        "measure of the east-west distance of the dome of the sky or the surface of the earth,from Latin longitudo \"Iength,long duration,\"from longus “long” (see long(adj.)).For explanation of the geographical sense,see latitude.\n20000词汇巅峰速记",
         "latitude and longitude: 经纬度",
         "east longitude: 东经",
         "west longitude: 西经"
       ],
-      "etymology": "late 14c.,\"Iength;height,\"also “astronomical or geographic longitude,\"a measure of the east-west distance of the dome of the sky or the surface of the earth,from Latin longitudo \"Iength,long duration,\"from longus “long” (see long(adj.)).For explanation of the geographical sense,see latitude. 20000词汇巅峰速记",
+      "etymology": "late 14c.,\"Iength;height,\"also “astronomical or geographic longitude,\"a",
       "examples": [],
       "rootHint": "itude"
     },
@@ -125,7 +127,7 @@
       "phonetic": ",lon(d)₃i'tju:dɪn(a) 1;Iongr-",
       "pos": "adj.",
       "definition": "经线的；纵向的；长度的",
-      "frequency": null,
+      "frequency": 10040,
       "mnemonic": "longitud(=longitude: 经线)+-inal(复合形容词后缀)→经线的",
       "collocations": [
         "longitudinal vibration: 纵向振动",
@@ -139,8 +141,8 @@
       "word": "magnitude",
       "phonetic": "'mægnrtju:d",
       "pos": "n.",
-      "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级4010",
-      "frequency": null,
+      "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
+      "frequency": 4010,
       "mnemonic": "magn- ( 巨 大 ) + -itude ( 度)→ 巨大的度→ 巨大之物；重要性；同时 用于地震震级等多种科学术语",
       "collocations": [
         "earthquake magnitude: 地震震级",
@@ -154,8 +156,8 @@
       "word": "servitude",
       "phonetic": "'ss:vrtju:d",
       "pos": "n.",
-      "definition": "奴隶状态；劳役，奴役；地役权19780",
-      "frequency": null,
+      "definition": "奴隶状态；劳役，奴役；地役权",
+      "frequency": 19780,
       "mnemonic": "serv (来自奴仆，奴隶)+itude ( 表状态) →处于被奴役的状态 →奴 隶状态；奴役",
       "collocations": [
         "a life of servitude: 受奴役的一生"
@@ -168,11 +170,12 @@
       "word": "solitude",
       "phonetic": "'splitju:d",
       "pos": "n.",
-      "definition": "尤指平静愉快的)独居，独处8319",
-      "frequency": null,
+      "definition": "尤指平静愉快的)独居，独处",
+      "frequency": 8319,
       "mnemonic": "sol- ( 单独的，独自的)+-itude ( 表度) →独处；独居",
       "collocations": [
-        "enjoy solitude: 享受孤独"
+        "enjoy solitude: 享受孤独",
+        "Solitude is the state of being alone,especially when this is peaceful and pleasant."
       ],
       "etymology": null,
       "examples": [],

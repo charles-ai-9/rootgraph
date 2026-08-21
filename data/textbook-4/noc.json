@@ -18,11 +18,14 @@
       "word": "innocent",
       "phonetic": "'inəs(a)nt",
       "pos": "adj.",
-      "definition": "清白的；天真的；无辜受害的；无恶意的 n. 阅 历",
-      "frequency": null,
-      "mnemonic": null,
-      "collocations": [],
-      "etymology": "mid-14c.,\"doing no evil;free from sin,guilt,or moral wrong,\"from Old French inocent “harmless;not guilty;pure”(12c.),from Latin innocentem (nominative innocens)\"not guilty,blameless;harmless;disinterested,\"from in-\"not\"(see in-(1))+nocentem (nominative nocens),present participle of 速20000词汇巅峰 速 笔 记 区 笔 记 区 nocere “to harm,\"from *nok-s-,suffixed form of PIE root *nek-(1)\"death.” 助记：in-(=not: 不；非)+-noc(=to harm: 伤害)+-ent ( 形容词后缀) → 即没有伤害的→引申词义清白的；无恶意的；天真的人 搭配：an innocent question: 没有恶意的问题 innocent victims: 无辜的受害者 innocent of any crime: 清白无罪的",
+      "definition": "清白的；天真的；无辜受害的；无恶意的 n. 阅 历浅的人；天真的人",
+      "frequency": 2799,
+      "mnemonic": "nocere “to harm,\"from *nok-s-,suffixed form of PIE root *nek-(1)\"death.” 助记：in-(=not: 不；非)+-noc(=to harm: 伤害)+-ent ( 形容词后缀) →\n即没有伤害的→引申词义清白的；无恶意的；天真的人 搭配：an innocent question: 没有恶意的问题",
+      "collocations": [
+        "innocent victims: 无辜的受害者",
+        "innocent of any crime: 清白无罪的"
+      ],
+      "etymology": "mid-14c.,\"doing no evil;free from sin,guilt,or moral wrong,\"from Old French inocent “harmless;not guilty;pure”(12c.),from Latin innocentem (nominative innocens)\"not guilty,blameless;harmless;disinterested,\"from in-\"not\"(see in-(1))+nocentem (nominative nocens),present participle of 速20000词汇巅峰 速 笔 记 区 笔 记 区",
       "examples": [],
       "rootHint": "noc"
     },
@@ -33,7 +36,9 @@
       "definition": "天真；清白",
       "frequency": 5469,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "the sweet innocence: 天真可爱"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "noc"
@@ -45,7 +50,9 @@
       "definition": "故作无知地；故作天真地",
       "frequency": 16061,
       "mnemonic": null,
-      "collocations": [],
+      "collocations": [
+        "smile back at me innocently: 一脸天真地对我微笑"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "noc"
@@ -54,8 +61,8 @@
       "word": "innocuous",
       "phonetic": "i'npkjuas",
       "pos": "adj.",
-      "definition": "无害的；无意冒犯的14552",
-      "frequency": null,
+      "definition": "无害的；无意冒犯的",
+      "frequency": 14552,
       "mnemonic": "innocuous=harmless\nin-(= not: 不 ) +noc-(=to injure,harm: 伤害；损伤)+-uous ( 形容\n词后缀)→不会造成伤害的→无害的；无意冒犯的 搭配：a perfectly innocuous remark: 一句毫无恶意的话",
       "collocations": [],
       "etymology": null,
@@ -66,8 +73,8 @@
       "word": "nectar",
       "phonetic": "'nektə",
       "pos": "n.",
-      "definition": "花蜜；果汁饮料15496",
-      "frequency": null,
+      "definition": "花蜜；果汁饮料",
+      "frequency": 15496,
       "mnemonic": null,
       "collocations": [
         "peach nectar: 桃汁",
@@ -83,12 +90,13 @@
       "pos": "adj.",
       "definition": "有毒的；有害的；令人厌恶的",
       "frequency": 15912,
-      "mnemonic": "nox(=-noc-=to hurt: 伤 害 ) + -ious ( 形容词后缀， ……的) →造成\n伤害的→有毒的；有害的",
+      "mnemonic": "害 ) →noxius(hurtful ,injurious: 伤害的；有害的)→ noxious ( 有\nnox(=-noc-=to hurt: 伤 害 ) + -ious ( 形容词后缀， ……的) →造成\n伤害的→有毒的；有害的",
       "collocations": [
+        "Noxiously;noxiousness.",
         "noxious fumes: 有毒烟雾",
         "noxious gas: 有害气体"
       ],
-      "etymology": "Unwholesome,harmful. 来自拉丁语noxa(injury,hurt : 损害；伤 害 ) →noxius(hurtful ,injurious: 伤害的；有害的)→ noxious ( 有 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 毒的；有害的)。From PIE *noks-,from root*nek-\"death.\"Related: Noxiously;noxiousness.",
+      "etymology": "Unwholesome,harmful. 来自拉丁语noxa(injury,hurt : 损害；伤 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 毒的；有害的)。From PIE *noks-,from root*nek-\"death.\"Related:",
       "examples": [],
       "rootHint": "nox"
     },
@@ -96,8 +104,8 @@
       "word": "obnoxious",
       "phonetic": "əb'nokfəs",
       "pos": "adj.",
-      "definition": "令人讨厌的；可憎的14303",
-      "frequency": null,
+      "definition": "令人讨厌的；可憎的",
+      "frequency": 14303,
       "mnemonic": "ob-(=to)+- nox( =injury,hurt: 伤害；受伤)+-ious(形容词后缀) →引起伤害的→引申词义令人讨厌的，可憎的",
       "collocations": [
         "obnoxious behavior: 讨厌的行为"
@@ -127,15 +135,16 @@
       "word": "nuisance",
       "phonetic": "'nju:s(a)ns",
       "pos": "n.",
-      "definition": "麻烦事；讨厌的人(或东西);妨害行为8901",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "麻烦事；讨厌的人(或东西);妨害行为",
+      "frequency": 8901,
+      "mnemonic": "damage: 伤害；犯罪；损害→后词义弱化，指麻烦事，讨厌的人或 东西，妨害行为。",
       "collocations": [
         "make a nuisance of oneself: 惹人讨厌",
         "be a nuisance: 讨人嫌",
-        "noise nuisance: 噪声危害"
+        "noise nuisance: 噪声危害\n速20000词汇巅峰\n速\n笔 记 区\n笔 记 区",
+        "Pierce 表示“刺穿；穿孔；穿过”。"
       ],
-      "etymology": "来自拉丁语nocere=to hurt: 伤害→古法语nuisance=harm,wrong, damage: 伤害；犯罪；损害→后词义弱化，指麻烦事，讨厌的人或 东西，妨害行为。",
+      "etymology": "来自拉丁语nocere=to hurt: 伤害→古法语nuisance=harm,wrong,",
       "examples": [],
       "rootHint": "noc"
     },
@@ -143,16 +152,17 @@
       "word": "pierce",
       "phonetic": "prəs",
       "pos": "vt.",
-      "definition": "刺穿，刺破；穿孔，穿洞；(声或光)穿过，透入6949",
-      "frequency": null,
+      "definition": "刺穿，刺破；穿孔，穿洞；(声或光)穿过，透入",
+      "frequency": 6949,
       "mnemonic": "pie-(=per-=through: 通 过 )+-rce(= -cer-=to strike,knock,beat, thrust: 打；敲；刺) → 打穿；刺穿；穿透 → 刺穿；穿孔；(声或 光)透入",
       "collocations": [
+        "perser,Old French percier “pierce,transfix,drive through”(12c.,Modern French percer),probably from Vulgar Latin *pertusiare,frequentative of Latin pertusus,past participle of pertundere “to thrust or bore through,” from per \"through”(from PIE root *per-(1)“forward,\"hence “through”)+ tundere “to beat,pound,\"from PIE*tund-,from root*(s)teu-\"to push, strike,knock,beat,thrust”(see obtuse).Related:Pierced;piercing.\n来自古法语percer, 穿透，刺穿，改写自拉丁语pertundere, 穿透，刺 穿。来自per- ( 通过；穿过)+tundere ( 击；打；捣)→穿透；刺穿",
         "a bullet pierced her lung: 子弹射穿肺部",
         "have your ears/nose etc.pierced: 在耳朵和鼻子上扎洞",
         "pierce the silence: 划破了寂静",
         "pierce through the dense mist: 穿透了浓雾"
       ],
-      "etymology": "late 13c.\"make a hole in;force one's way through,\"from Anglo-French perser,Old French percier “pierce,transfix,drive through”(12c.,Modern French percer),probably from Vulgar Latin *pertusiare,frequentative of Latin pertusus,past participle of pertundere “to thrust or bore through,” from per \"through”(from PIE root *per-(1)“forward,\"hence “through”)+ tundere “to beat,pound,\"from PIE*tund-,from root*(s)teu-\"to push, strike,knock,beat,thrust”(see obtuse).Related:Pierced;piercing. 来自古法语percer, 穿透，刺穿，改写自拉丁语pertundere, 穿透，刺 穿。来自per- ( 通过；穿过)+tundere ( 击；打；捣)→穿透；刺穿",
+      "etymology": "late 13c.\"make a hole in;force one's way through,\"from Anglo-French",
       "examples": [],
       "rootHint": "noc"
     },
@@ -177,7 +187,7 @@
       "phonetic": ",ps:fə'rerʃn",
       "pos": "n.",
       "definition": "孔(尤指孔眼线上的孔); 穿孔；打齿孔；打眼",
-      "frequency": null,
+      "frequency": 19818,
       "mnemonic": "per-(=through: 穿过)+fora(=to pierce: 刺穿；穿孔；刺破)+-tion (名词后缀)→穿孔；打眼",
       "collocations": [
         "the perforations in a sheet of stamps: 一版邮票上的齿孔 perforation plate : 穿孔板"
@@ -190,14 +200,24 @@
       "word": "frame",
       "phonetic": "frerm",
       "pos": "n.",
-      "definition": "框架；构架；眼镜框；(电影的)画面，镜头；身躯；人 口抽样底册 vt.给(图画或照片)配框；环绕；诬陷；表达；制定(规 则、计划或体系)adj. ( 建筑)木制的；木结构的1848",
-      "frequency": null,
-      "mnemonic": "fram(=border: 边框，边界)+e→ 边框，框架→用来指建筑框架和\n基础结构→后词义通用化为构架；环绕；表达；制定规则；木制的 搭配：time frame: 时间表，时间范围\nframe work: 框架，结构\nmodern timber frames: 现代化的木制构架\nbony frames: 瘦骨嶙峋的躯体\nin the frame for something: 在……考虑范围内；有机会成为……\nframe an innocent person: 诬陷一个无辜的人\nprojects at 16 frames per second: 每秒放映16帧画面\nbe framed by tropical gardens: 四周环绕着热带花园\na white-painted frame house: 一个漆成白色的木制房子\nbe in/out of the frame: 参加/不参加",
-      "collocations": [],
+      "definition": "框架；构架；眼镜框；(电影的)画面，镜头；身躯；人 口抽样底册 vt.给(图画或照片)配框；环绕；诬陷；表达；制定(规 则、计划或体系)adj. ( 建筑)木制的；木结构的",
+      "frequency": 1848,
+      "mnemonic": "fram(=border: 边框，边界)+e→ 边框，框架→用来指建筑框架和\n基础结构→后词义通用化为构架；环绕；表达；制定规则；木制的 搭配：time frame: 时间表，时间范围",
+      "collocations": [
+        "frame work: 框架，结构",
+        "modern timber frames: 现代化的木制构架",
+        "bony frames: 瘦骨嶙峋的躯体",
+        "in the frame for something: 在……考虑范围内；有机会成为……",
+        "frame an innocent person: 诬陷一个无辜的人",
+        "projects at 16 frames per second: 每秒放映16帧画面",
+        "be framed by tropical gardens: 四周环绕着热带花园",
+        "a white-painted frame house: 一个漆成白色的木制房子\nbe in/out of the frame: 参加/不参加",
+        "During the same time frame,people spend more time in reading popular journals than classics.\n笔 记 区 Frame 的派生词有framed,framer,framework,framin g,mainframe 等 。\n笔 记 区"
+      ],
       "etymology": null,
       "examples": [
         "During the same time frame, the University of Northern Iowa graduated 67%of its white students,but only 39%of its blacks.\n在相同的时间段内，北爱荷华大学白人学生毕业率为67%,而黑人学 生毕业率只有39%。",
-        "在相同的时间段内，人们阅读流行杂志的时间要远远多余经典 书籍。\nDuring the same time frame,people spend more time in reading popular journals than classics.\n笔 记 区 Frame 的派生词有framed,framer,framework,framin g,mainframe 等 。"
+        "在相同的时间段内，人们阅读流行杂志的时间要远远多余经典 书籍。"
       ],
       "rootHint": "noc"
     },
@@ -205,8 +225,8 @@
       "word": "framed",
       "phonetic": "freimd",
       "pos": "adj.",
-      "definition": "有边框的9644",
-      "frequency": null,
+      "definition": "有边框的",
+      "frequency": 9644,
       "mnemonic": "frame (框架)+-d ( 形容词后缀) → 有边框的",
       "collocations": [
         "a framed oil-painting: 一幅镶了框的油画"
@@ -219,8 +239,8 @@
       "word": "framer",
       "phonetic": "'fremə",
       "pos": "n.",
-      "definition": "创作者；制定者17543",
-      "frequency": null,
+      "definition": "创作者；制定者",
+      "frequency": 17543,
       "mnemonic": "frame(创设/制定规则、计划或体系等)+-r ( 名词后缀)→创作者； 制定者",
       "collocations": [
         "the framers of the Constitution: 宪法的起草者"
@@ -233,8 +253,8 @@
       "word": "framework",
       "phonetic": "'fremw3:k",
       "pos": "n.",
-      "definition": "体系；构架2993",
-      "frequency": null,
+      "definition": "体系；构架",
+      "frequency": 2993,
       "mnemonic": "frame (框架；构架)+work ( 土木工程) → 起封闭或支持作用的构 造、结构或建筑物→体系；构架",
       "collocations": [
         "within the framework of federal regulations: 在联邦法规的体制内 a steel framework: 钢支架"
@@ -247,8 +267,8 @@
       "word": "framing",
       "phonetic": "'fremiŋ",
       "pos": "n.",
-      "definition": "设计；框架20007",
-      "frequency": null,
+      "definition": "设计；框架",
+      "frequency": 20007,
       "mnemonic": "frame (框架)+ -ing ( 名词后缀) → 设计；框架",
       "collocations": [
         "the modern use of color and framing: 颜色和框架的现代用途"
@@ -262,10 +282,11 @@
       "phonetic": "'meinfrem",
       "pos": "n.",
       "definition": "主机(指可同时供多人使用的大型计算机)",
-      "frequency": null,
+      "frequency": 15365,
       "mnemonic": "main (主要的)+frame ( 框架) → 主要框架 → 比喻用法大型计算机 的主机",
       "collocations": [
-        "mainframe computer: 大型计算机；主机电脑"
+        "mainframe computer: 大型计算机；主机电脑",
+        "Far-,further 表示遥远的； 更远的等含义。其来源于词根\"far-;fur-; ford”, 也来源于词根“ per- ”, 表 示“farther,remote,ulterior,to a great distance,beyond”=“更远的；遥远的；将来的；远距离的；更远处” 的含义。"
       ],
       "etymology": null,
       "examples": [],
@@ -275,16 +296,15 @@
       "word": "far",
       "phonetic": "fa:",
       "pos": "adv.",
-      "definition": "很远地；(距离)远至；久远地；到 … … 程度；(进展) 到……程度；(人或行为)极端到……程度；adj. 较远一端的；(离 中心)最大距离的253",
-      "frequency": null,
+      "definition": "很远地；(距离)远至；久远地；到 … … 程度；(进展) 到……程度；(人或行为)极端到……程度；adj. 较远一端的；(离 中心)最大距离的",
+      "frequency": 253,
       "mnemonic": "词根为per-,穿过；跨过；向前。词源同ford,forth 。引申词义远行；",
       "collocations": [
         "someone will go far: 大有前途",
         "something that is far gone: 无可救药的",
         "as far as Iknow: 据我所知",
         "so far as I remember: 就我记忆所及",
-        "something only goes so far or can only go so far: ( 程度、作用、影响) 仅能如此",
-        "so far: 到目前为止",
+        "something only goes so far or can only go so far: ( 程度、作用、影响) 仅能如此\nso far: 到目前为止",
         "so far so good: 到目前为止还算良好"
       ],
       "etymology": "Middle English fer,from Old English feorr\"far,remote,distant,\"from Proto-Germanic *ferera-(cognates:Old Saxon fer,Old Frisian fer,Old Norse fjarre,Dutch ver,Old High German ferro,German fern),probably a development in western Proto-Germanic from the adverb (see far (adv.)). Far East “China,Japan,and surrounding regions”is from 1838.",
@@ -295,12 +315,12 @@
       "word": "faraway",
       "phonetic": "'fa:rəwer;fa:rə'wer",
       "pos": "adj.",
-      "definition": "遥远的；思绪飘远的；心不在焉的12665",
-      "frequency": null,
-      "mnemonic": "far(=distant: 遥远的)+away(at such a distance: 距离遥远) → 遥远",
+      "definition": "遥远的；思绪飘远的；心不在焉的",
+      "frequency": 12665,
+      "mnemonic": "far(=distant: 遥远的)+away(at such a distance: 距离遥远) → 遥远\n的 → 引申为心不在焉的(思绪飘到别处的)搭配：photographs of a far away country: 遥远国度的照片a faraway look in her eyes: 眼神缥缈恍惚笔 记 区\n的 → 引申为心不在焉的(思绪飘到别处的)",
       "collocations": [
         "photographs of a far away country: 遥远国度的照片",
-        "a faraway look in her eyes: 眼神缥缈恍惚"
+        "a faraway look in her eyes: 眼神缥缈恍惚\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -310,13 +330,12 @@
       "word": "afar",
       "phonetic": "ə 'fa:",
       "pos": "adv.",
-      "definition": "在远处；从远处13543",
-      "frequency": null,
+      "definition": "在远处；从远处",
+      "frequency": 13543,
       "mnemonic": "a- ( 在复合词中含义为of或on)+far ( 遥远的) →在远处；从远处",
       "collocations": [
         "see from afar: 从远处看",
-        "love someone from afar: 暗恋",
-        "afar off: 远离着"
+        "love someone from afar: 暗恋\nafar off: 远离着"
       ],
       "etymology": null,
       "examples": [],
@@ -326,8 +345,8 @@
       "word": "far-fetched",
       "phonetic": "'fa:'fetʃt",
       "pos": null,
-      "definition": "穿凿附会的；不切实际的；牵强的15646",
-      "frequency": null,
+      "definition": "穿凿附会的；不切实际的；牵强的",
+      "frequency": 15646,
       "mnemonic": "far ( 遥 远 的 ) +fetched(=brought: 取来；接来) →brought from\nafar: 从很远的地方接来，取来→不切实际的；引申义为牵强附会的 搭配：too far-fetched storyline: 故事情节太牵强",
       "collocations": [],
       "etymology": null,
@@ -338,8 +357,8 @@
       "word": "far-flung",
       "phonetic": "'fa:'flʌŋ",
       "pos": "adj.",
-      "definition": "遥远的；偏僻的；庞大的；涉及广泛的14509",
-      "frequency": null,
+      "definition": "遥远的；偏僻的；庞大的；涉及广泛的",
+      "frequency": 14509,
       "mnemonic": "far ( 遥远的)+flung(=dash: 投；掷fling的过去式) →遥远的；偏僻 的；涉及广泛的",
       "collocations": [
         "the far-flung corners of Scotland: 苏格兰边远地区",
@@ -355,8 +374,8 @@
       "word": "far-off",
       "phonetic": "'fa:rɔf",
       "pos": "adj.",
-      "definition": "久远的；(距离)遥远的adv. 遥远地18763",
-      "frequency": null,
+      "definition": "久远的；(距离)遥远的adv. 遥远地",
+      "frequency": 18763,
       "mnemonic": "far ( 遥 远 的 ) +off(away from a place: 离开；离去) → 离开很远 →distant,faraway,remote: 久远的；距离遥远的；遥远地",
       "collocations": [
         "a far-off land: 一个遥远的国度",
@@ -371,9 +390,9 @@
       "word": "far-reaching",
       "phonetic": "'fa:'ri:tiŋ",
       "pos": "adj.",
-      "definition": "影响深远的；意义重大的11248",
-      "frequency": null,
-      "mnemonic": null,
+      "definition": "影响深远的；意义重大的",
+      "frequency": 11248,
+      "mnemonic": "笔 记 区 助记：far ( 遥远地)+reach(to extend: 延申)+ing ( 形容词后缀) → 延申\n很远地→引申含义为extensive,widespread: 影响深远的意义重大的 搭配：far-reaching consequences/implications: 影响深远的后果；意味深长",
       "collocations": [],
       "etymology": null,
       "examples": [],
@@ -383,17 +402,20 @@
       "word": "insofar",
       "phonetic": "insə(u)'fa:",
       "pos": "adv.",
-      "definition": "在这个范围；到这个程度10133",
-      "frequency": null,
-      "mnemonic": "insofar:to such extent or degree→在这个范围；到这个程度",
+      "definition": "adv. 在这个范围；到这个程度",
+      "frequency": 10133,
+      "mnemonic": "insofar:to such extent or degree→在这个范围；到这个程度\nfurth(=forth: 向前)+-er ( 形容词比较级)→更进一步的(用作far 的比较级)",
       "collocations": [
+        "insofar as: 在……的范围内；到……程度safar i [sə'fa:ri] n. ( 尤指在东非、非洲南部的)观赏(或捕猎)野兽的旅行；游猎；长途旅行；外出期间14288",
+        "to be/go on safari: 去游猎safari park: 野生动物园a month-long safari: 外出旅行一个月safari suit: 旅行装；猎装on safari: 在外出期间further ['f3:δə] adv. 在更大程度上；更进一步地；更深入地；距离上更远 地 ；(时间上往前或往后)更远地adj.更多的 vt. 推进11556",
+        "go further: 更进一步说；为更多人服务go no further/not go any further: 到此为止；不再传下去take sth further: 采取进一步行动；把……向上级反映further evidence: 更多的证据further career: 推进事业far-reaching changes/reforms: 意义深远的变革/改革",
         "insofar as: 在……的范围内；到……程度",
         "safar i [sə'fa:ri] n. ( 尤指在东非、非洲南部的)观赏(或捕猎)野兽的旅",
         "to be/go on safari: 去游猎safari park: 野生动物园",
         "a month-long safari: 外出旅行一个月",
         "safari suit: 旅行装；猎装on safari: 在外出期间"
       ],
-      "etymology": "来自斯瓦西里语 safari,出行，远行，来自阿拉伯语safara, 远行，旅 行。特指在野外旅行。",
+      "etymology": "1890(attested from 1860 as a foreign word),from Swahili,literally \"journey,expedition,\"from Arabic,literally \"referring to a journey,\"from safar “journey”(which itself is attested in English as a foreign word from 1858).Used from 1920s of various articles of clothing suitable for safaris. 来自斯瓦西里语 safari,出行，远行，来自阿拉伯语safara, 远行，旅 行。特指在野外旅行。",
       "examples": [],
       "rootHint": "noc"
     },
@@ -401,8 +423,8 @@
       "word": "further",
       "phonetic": "'f3:δə",
       "pos": "adv.",
-      "definition": "在更大程度上；更进一步地；更深入地；距离上更远 地 ；(时间上往前或往后)更远地adj.更多的 vt. 推进11556",
-      "frequency": null,
+      "definition": "在更大程度上；更进一步地；更深入地；距离上更远 地 ；(时间上往前或往后)更远地adj.更多的 vt. 推进",
+      "frequency": 11556,
       "mnemonic": "furth(=forth: 向前)+-er ( 形容词比较级)→更进一步的(用作far 的比较级)",
       "collocations": [
         "go further: 更进一步说；为更多人服务",
@@ -419,11 +441,12 @@
       "word": "furthermore",
       "phonetic": "f3:ðə'mɔ:",
       "pos": "adv.",
-      "definition": "此外；而且；再者3242",
-      "frequency": null,
+      "definition": "此外；而且；再者",
+      "frequency": 3242,
       "mnemonic": "further (更进一步的)+more ( 更多) → 此外；而且",
       "collocations": [
-        "He said he had not discussed the matter with her.Furthermore, he had not"
+        "He said he had not discussed the matter with her.Furthermore, he had not",
+        "even contacted her.\n他说他没有和她讨论过这个问题。而且，他甚至没有和她联系过。\n词根“fore-\";“prime-\",“proto-” 也来源于“per-”, 表 示 \"first,\nchief”= “ 首先的；主要的”的含义，主要体现在“first”;“ pince”; “protocol” 及其变体单词里"
       ],
       "etymology": null,
       "examples": [],
@@ -433,26 +456,26 @@
       "word": "first",
       "phonetic": "fs:st",
       "pos": null,
-      "definition": "(ORD) 最早的；首次的；(一列中)最前面的；首要的；头 等的；(用于工作或职位的头衔中)最高的adv.最先； ( N-SING) 首 例；最初；(强调不愿意做某事)宁可，宁愿；(用于列举条目)第 一；英国大学的)优等学位， 一级荣誉学位( PRON) 首次86",
-      "frequency": null,
+      "definition": "(ORD) 最早的；首次的；(一列中)最前面的；首要的；头 等的；(用于工作或职位的头衔中)最高的adv.最先； ( N-SING) 首 例；最初；(强调不愿意做某事)宁可，宁愿；(用于列举条目)第 一；英国大学的)优等学位， 一级荣誉学位( PRON) 首次",
+      "frequency": 86,
       "mnemonic": "来自词源per-=forward, 含义为向前的，因此first有in front of,before, first,chief 在前面；第一；首位；最初等的含义\nfirst (第一 的；头等的)+class ( 分类；等级) →第一等级的 → 一流 的；优等的",
       "collocations": [
+        "also (though rarely)as an adverb,\"at first,originally,\"superlative of fore; from Proto-Germanic *furista-“foremost”(source also of Old Saxon fuirst \"first,\"Old High German furist,Old Norse fyrstr,Danish forste,Old Frisian ferist,Middle Dutch vorste\"prince,\"Dutch vorst\"first,\"German Fürst \"prince\")",
         "first of all: 第一 ；首先",
         "at first: 起初",
         "come first: 居于首要地位；占据头等位置",
         "first come first served: 按先来后到对待",
         "from the first: 从最初；从一开始",
         "at first hand: 第一手地；直接；亲自",
-        "do not know the first thing about: 对……一无所知；对……毫不知晓",
-        "first off: 第一；首先",
+        "do not know the first thing about: 对……一无所知；对……毫不知晓\nfirst off: 第一；首先",
         "put someone or something first: 视……为最重要；把……放在首位",
-        "first things first: 最重要的先做；最要紧的先处理",
+        "first things first: 最重要的先做；最要紧的先处理\n笔 记 区first-class [,fs:st'klæs] adj. 一流的；优等的；(车厢、机舱、船舱座位)\n笔 记 区\n头等的；投送第 一 类邮件的(邮资) adv. 坐头等车厢；坐头等舱 n.",
         "fly first class: 做飞机头等舱",
         "first-class tickets: 头等舱机票",
         "first-class stamps: 第一类邮件的邮票",
         "first-class quality: 头等质量；头等货"
       ],
-      "etymology": "Old English fyrst\"foremost,going before all others;chief,principal,\" also (though rarely)as an adverb,\"at first,originally,\"superlative of fore; from Proto-Germanic *furista-“foremost”(source also of Old Saxon fuirst \"first,\"Old High German furist,Old Norse fyrstr,Danish forste,Old Frisian ferist,Middle Dutch vorste\"prince,\"Dutch vorst\"first,\"German Fürst \"prince\")",
+      "etymology": "Old English fyrst\"foremost,going before all others;chief,principal,\"",
       "examples": [],
       "rootHint": "noc"
     },
@@ -460,8 +483,8 @@
       "word": "first-degree",
       "phonetic": "'fə:stdi'gri:",
       "pos": "adj.",
-      "definition": "一度的；第一等级的16664",
-      "frequency": null,
+      "definition": "一度的；第一等级的",
+      "frequency": 16664,
       "mnemonic": "first (第 一 的)+degree ( 度数，温度和角度的度量单位；程度) →程 度最严重的",
       "collocations": [
         "first-degree burn: 一度烧伤",
@@ -475,8 +498,8 @@
       "word": "first-ever",
       "phonetic": "'fəst'evə",
       "pos": "adj.",
-      "definition": "首次的；史无前例15548",
-      "frequency": null,
+      "definition": "首次的；史无前例",
+      "frequency": 15548,
       "mnemonic": "first (首次的)+ever (以往任何时候) → 以往任何时候都没有发生， 现在首次发生的→首次的；史无前例",
       "collocations": [
         "first-ever meeting: 有史以来第一次会晤",
@@ -493,16 +516,18 @@
       "pos": "adj.",
       "definition": "直接来源的；第一手的adv. 直接地",
       "frequency": 9482,
-      "mnemonic": "first ( 第 一 的)+person ( 语法上的人称) →第一人称\nwith gold for first place,silver for second and bronze for third: 第一名为 金牌，第二名为银牌，第三名为铜牌\nfirst ( 第一 的)+quarter ( 季度) →第一季度 →也指上弦月",
+      "mnemonic": "first ( 第 一 的)+hand ( 手) →第一手的 →直接来源的\nfirst ( 第 一 的)+person ( 语法上的人称) →第一人称\nwith gold for first place,silver for second and bronze for third: 第一名为 金牌，第二名为银牌，第三名为铜牌\nfirst ( 第一 的)+quarter ( 季度) →第一季度 →也指上弦月",
       "collocations": [
         "firsthand information: 第一手资料",
         "gather first-hand: 第一手搜集的",
         "first(-)person ['fs:st'ps:sn] n. 第一人；第一人称17187",
         "first-person shooter games: 真人模拟射击游戏",
         "the first person on the scene: 最先到达出事地点的人",
+        "first place n. 第一名20108",
         "in the first place: (用于句尾，谈论某事为何或是否应该做)究竟， 到底，当初",
+        "first-quarte r n. 第一季度；上弦月19221",
         "first-quarter moon: 上弦月",
-        "first-quarter company results: 第一季度公司业绩"
+        "first-quarter company results: 第一季度公司业绩\n上弦月"
       ],
       "etymology": null,
       "examples": [],
@@ -512,8 +537,8 @@
       "word": "first-rate",
       "phonetic": "'fs:st'rert",
       "pos": "adj.",
-      "definition": "第一流的；质量最优的；优等的13460",
-      "frequency": null,
+      "definition": "第一流的；质量最优的；优等的",
+      "frequency": 13460,
       "mnemonic": "first(第 一 的)+rate ( 等级) →第一等级的 →第一流的；优等的",
       "collocations": [
         "a first-rate professional: 一位第一流的专家"
@@ -526,12 +551,12 @@
       "word": "first-round",
       "phonetic": "'f3:st'raund",
       "pos": "adj.",
-      "definition": "第一轮的；首轮比赛10477",
-      "frequency": null,
+      "definition": "第一轮的；首轮比赛",
+      "frequency": 10477,
       "mnemonic": "first ( 第 一 的)+round ( 轮次) →第一轮；首轮比赛",
       "collocations": [
         "first-round elimination: 第一轮候选人淘汰",
-        "first-round test: 初试"
+        "first-round test: 初试\n笔 记 区◎趣课多\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -541,8 +566,8 @@
       "word": "first-time",
       "phonetic": "'fo:sttaim",
       "pos": "adj.",
-      "definition": "首次的；第一次的9041",
-      "frequency": null,
+      "definition": "首次的；第一次的",
+      "frequency": 9041,
       "mnemonic": "first(第 一 的)+time ( 次) → 首次的；第一次的",
       "collocations": [
         "houses for first-time buyers: 供应给首次购房者的房屋 design for first-time users: 为初次用户设计的"
@@ -555,8 +580,8 @@
       "word": "first-year",
       "phonetic": "'fə:st jiə",
       "pos": "adj.",
-      "definition": "第一年的11785",
-      "frequency": null,
+      "definition": "第一年的",
+      "frequency": 11785,
       "mnemonic": "first (第 一 的)+year ( 年) → 第一年的",
       "collocations": [
         "first-year class: 第一年的课程"
@@ -574,9 +599,9 @@
       "mnemonic": "prin-(=primus=first: 第一的)+-ce(=capere=to seize,take: 抓住； 采取)→首席，排在第一位的人→在一个国家/一个领域排在首位的 人→王子，引申义为ruler of a principality: 公国的统治者；大师； 巨匠",
       "collocations": [
         "Prince William: 威廉王子 crown prince: 王储",
-        "the prince of sculptors: 大雕塑家"
+        "the prince of sculptors: 大雕塑家\n王子"
       ],
-      "etymology": null,
+      "etymology": "国君，古罗马帝国时期的“第一公民”。",
       "examples": [],
       "rootHint": "noc"
     },
@@ -584,8 +609,8 @@
       "word": "princess",
       "phonetic": "prin'ses",
       "pos": "n.",
-      "definition": "公主；王妃7007",
-      "frequency": null,
+      "definition": "公主；王妃",
+      "frequency": 7007,
       "mnemonic": "prince (王子)+-ess ( 表阴性) → 公主；王妃",
       "collocations": [
         "the royal princesses: 王室女成员 the Princess of Wales: 威尔士王妃"
@@ -598,8 +623,8 @@
       "word": "premier",
       "phonetic": "'premrə; 'pri:-",
       "pos": "n.",
-      "definition": "总理；首相adj.最好的；首要的7760",
-      "frequency": null,
+      "definition": "总理；首相adj.最好的；首要的",
+      "frequency": 7760,
       "mnemonic": "prem-(=first,chief,primary: 首要；第一)+-ier ( 名词或形容词后\n缀) →of the first rank,chief,principal,excellent: 居首位的人；最优秀\n的→总理；最好的",
       "collocations": [
         "the Irish Premier: 爱尔兰总理",
@@ -614,15 +639,16 @@
       "word": "premiere",
       "phonetic": "'premreə",
       "pos": "n.",
-      "definition": "首映；首次公演 adj. 首映；首演；初次公演6935",
-      "frequency": null,
+      "definition": "首映；首次公演 adj. 首映；首演；初次公演",
+      "frequency": 6935,
       "mnemonic": null,
       "collocations": [
+        "premiere représentation,from fem.of Old French premier “first”.The verb is recorded from 1940.",
         "a royal film premiere: 盛大的电影首映",
         "the premiere of the movie.….:……电影首映式",
         "premiere at the Jerusalem Film Festival: 在耶路撒冷电影节上首映。"
       ],
-      "etymology": "1889,\"first performance of a play,\"from French premiere,in phrase premiere représentation,from fem.of Old French premier “first”.The verb is recorded from 1940.",
+      "etymology": "1889,\"first performance of a play,\"from French premiere,in phrase",
       "examples": [],
       "rootHint": "noc"
     },
@@ -634,12 +660,14 @@
       "frequency": null,
       "mnemonic": "late 14c.,\"first in order,\"from Latin primus \"first,the first,first part,\" figuratively “chief,principal;excellent,distinguished,noble”(source also of Italian and Spanish primo),from pre-Italic*prismos,superlative of PIE",
       "collocations": [
+        "that of \"first-rate\"is from 1620s.",
         "a prime concern: 头等大事",
         "prime minister: 首相；总理",
         "be a prime candidate/target(for sth): 是(某事物的)首选/头号目标 the prime example: 最典型例子",
         "in someone's prime: 处于某人的鼎盛时期",
         "prime Sarah beforehand: 事先交代过萨拉",
-        "prime a bomb or a gun: 事先准备(炸弹、枪)"
+        "prime a bomb or a gun: 事先准备(炸弹、枪)",
+        "prime的派生词有primer,prima,primacy,primal,primary,primarily,primate, primitive, primordial 等。"
       ],
       "etymology": null,
       "examples": [],
@@ -649,8 +677,8 @@
       "word": "primer",
       "phonetic": "'praimə",
       "pos": "n.",
-      "definition": "底漆；底层涂料；入门书；(教儿童阅读的)初级读",
-      "frequency": null,
+      "definition": "底漆；底层涂料；入门书；(教儿童阅读的)初级读物；(爆炸物的)引信；装填工；装填物",
+      "frequency": 11151,
       "mnemonic": "prime(=first: 第一的；最初的)+-er ( 名词后缀) → 起初含义为祈 祷之书，后来词义扩展为教材，再后来引申为small introductory book on any topic: 任何主题的初级入门读物",
       "collocations": [
         "shop primer: 预涂底漆",
@@ -664,8 +692,8 @@
       "word": "prima",
       "phonetic": "'pri:mə",
       "pos": "adj.",
-      "definition": "(意)第 一 的；主要的19831",
-      "frequency": null,
+      "definition": "(意)第 一 的；主要的",
+      "frequency": 19831,
       "mnemonic": null,
       "collocations": [
         "prima facie: (拉)初步印象；乍看的",
@@ -680,8 +708,8 @@
       "word": "primacy",
       "phonetic": "'praməst",
       "pos": "n.",
-      "definition": "首要；首位；总主教职位13185",
-      "frequency": null,
+      "definition": "首要；首位；总主教职位",
+      "frequency": 13185,
       "mnemonic": "prime ( 第一的；主要的)+-acy ( 抽象名词后缀) →首要；首位",
       "collocations": [
         "a belief in the primacy of the family: 家庭至上论",
@@ -695,12 +723,12 @@
       "word": "primal",
       "phonetic": "'praim(a)l",
       "pos": "adj.",
-      "definition": "最初的；原始的；本能的12061",
-      "frequency": null,
+      "definition": "最初的；原始的；本能的",
+      "frequency": 12061,
       "mnemonic": "prime(=first: 第一的；最初的)+-al ( 形容词后缀) → 最初的； 原始的",
       "collocations": [
         "a primal fear of the unknown: 对未知事物的本能恐惧 a primal emotion: 最原始的情感",
-        "the primal mysteries of the earth: 地球起源的奥秘"
+        "the primal mysteries of the earth: 地球起源的奥秘\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区\n笔 记 区"
       ],
       "etymology": "c.1600,\"belonging to the earliest age,\"from Medieval Latin primalis \"primary,\"from Latin primus “first”.",
       "examples": [],
@@ -711,7 +739,7 @@
       "phonetic": "'pram(a)ri",
       "pos": "adj.",
       "definition": "首要的；初级的；最初的；(美国)初选， 预 选",
-      "frequency": null,
+      "frequency": 1513,
       "mnemonic": "prime ( 最初的，首要的)+-ary ( 形容词后缀) → 首要的；初级的； 最初的 → 引申义为(美国各州的)初选",
       "collocations": [
         "the primary reason: 首要原因",
@@ -743,7 +771,7 @@
       "word": "primate",
       "phonetic": "'pramert;-mət",
       "pos": "n.",
-      "definition": "灵长类动物(包括人和猴子等);大主教 vt. 事",
+      "definition": "灵长类动物(包括人和猴子等);大主教 vt. 事先交代(某人做某事);事先准备(炸弹、枪)11660",
       "frequency": null,
       "mnemonic": "prim-(=prime=first: 主要的；第一 的)+-ate ( 名词后缀) →the \"highest \" order of mammals→哺乳动物最高等级→灵长类动物；也用 于指church primate, 大主教",
       "collocations": [
@@ -758,12 +786,14 @@
       "word": "primitive",
       "phonetic": "'primitiv",
       "pos": "adj.",
-      "definition": "原始的(社会);原始的(动物、植物);简陋 的；旧式的5883",
-      "frequency": null,
+      "definition": "原始的(社会);原始的(动物、植物);简陋 的；旧式的",
+      "frequency": 5883,
       "mnemonic": "prim- (原始的)+-itive ( 形容词后缀) →of or belonging to the first age; having the style of an early or ancient time: 属于原始时期的；有 原始时代风格的 → 原始的(社会或生物);简陋的",
       "collocations": [
         "studies of primitive societies: 对原始社会的研究",
-        "primitive whales: 原始鲸"
+        "primitive whales: 原始鲸\n速20000词汇巅峰\n速",
+        "the primitive surgery: 简陋的外科手术笔 记 区",
+        "the primitive surgery: 简陋的外科手术\n笔 记 区"
       ],
       "etymology": null,
       "examples": [],
@@ -773,10 +803,12 @@
       "word": "primordial",
       "phonetic": "prar'mɔ:drəl",
       "pos": "adj.",
-      "definition": "原始的；远古的；人类最初的13627",
-      "frequency": null,
-      "mnemonic": "prim-(=first: 最初的；原始的)+-ord( =to begin: 开 始 ) +-ial ( 形\n容词后缀)→最早/最初开始的→原始的；远古的；人类最初的 搭配：the original primordial explosion: 最初的宇宙大爆炸\ndense primordial forest: 茂密的原始森林",
-      "collocations": [],
+      "definition": "原始的；远古的；人类最初的",
+      "frequency": 13627,
+      "mnemonic": "prim-(=first: 最初的；原始的)+-ord( =to begin: 开 始 ) +-ial ( 形\n容词后缀)→最早/最初开始的→原始的；远古的；人类最初的 搭配：the original primordial explosion: 最初的宇宙大爆炸",
+      "collocations": [
+        "dense primordial forest: 茂密的原始森林"
+      ],
       "etymology": null,
       "examples": [],
       "rootHint": "noc"
@@ -785,8 +817,8 @@
       "word": "protocol",
       "phonetic": "'proutəkpl",
       "pos": "n.",
-      "definition": "礼节；(计算机间交换信息的)协议；议定书；医",
-      "frequency": null,
+      "definition": "礼节；(计算机间交换信息的)协议；议定书；医疗方案；科学试验计划",
+      "frequency": 4537,
       "mnemonic": "proto-(=first: 第一的；原始的；最早的)+-col(=glue: 胶，词源同 glue,collagen )→ first sheet glued onto a manuscript: 最早粘上去的， 粘到手稿上的第一页；文件的草稿→ 引申词义协议，草案→后引申词 义官方文件，特别用于指政府外交部的官方文件，外交礼仪，后词义 通俗化，表示传统的适当行为举止，礼节→后来广泛适用于医学、科 学的初步计划方案之中，含义为医疗方案；科学试验计划\nproto-(=first: 第 一 的)+type( =impression,mold ,pattern: 模 型 ) → 第一个模制品→原型；样板",
       "collocations": [
         "minor breaches of protocol: 小小的失礼",
@@ -794,9 +826,12 @@
         "the Montreal Protocol:《蒙特利尔议定书》",
         "a computer protocol: 计算机协议",
         "protocols on the testing of nuclear weapons: 关于核武器试验的协议",
-        "the detoxification protocol: 戒毒方案",
+        "the detoxification protocol: 戒毒方案\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 prototype ['prəutətarp] n. ( 新型汽车、机器等的)原型，雏形；典型；样 板6363",
         "the first prototype aircraft: 第一架飞机样机",
-        "the prototype of the elder statesman: 老一辈政治家的典型。 释义：( N-COUNT)原型；样品；样本"
+        "the prototype of the elder statesman: 老一辈政治家的典型。 释义：( N-COUNT)原型；样品；样本",
+        "A prototype is a new type of machine or device which is not yet ready to be made in large numbers and sold.",
+        "( N-COUNT) 模范；典型",
+        "If you say that someone or something is a prototype of a type of person or thing,you mean that they are the first or most typical one of that type."
       ],
       "etymology": "c.1600,from French prototype(16c.)and directly from Medieval Latin prototypus\"original,primitive,\"from Greek prototypon “a first or primitive form,\"noun use of neuter singular of prototypos \"original, primitive”.In English from 1590s as prototypon.",
       "examples": [],
@@ -806,15 +841,17 @@
       "word": "protein",
       "phonetic": "'prəuti:n",
       "pos": "n.",
-      "definition": "蛋白质2545",
-      "frequency": null,
+      "definition": "蛋白质",
+      "frequency": 2545,
       "mnemonic": "prote(=proto-=first: 第一的)+-in ( 名词后缀，构成化学、生物学单 词，如vitamin 维生素、albumin白蛋白等) →第一位的、最重要的物 质 → 因蛋白质是生命的物质基础，没有蛋白质就没有生命，且它在 糖、油、蛋三类食物中位居第一→蛋白质",
       "collocations": [
+        "Originally a theoretical substance thought to be essential to life, further studies of the substances he was working with overthrew this,but the words protein and proteid continued to be used in international work on the matter and also for other organic compounds;the modern use as a general name for a class of bodies arose in German.The confusion became so great a committee was set up in 1907 to sort out the nomenclature, which it did,giving protein its modern meaning and banishing proteid.",
         "a major source of protein: 蛋白质的主要来源",
         "high protein: 高蛋白",
-        "soy protein: 大豆蛋白 释义： ( N-MASS) 蛋白质"
+        "soy protein: 大豆蛋白 释义： ( N-MASS) 蛋白质",
+        "Protein is a substance found in food and drink such as meat,eggs,and milk.You need protein in order to grow and be healthy."
       ],
-      "etymology": "1844,from French proteine,coined 1838 by Dutch chemist Gerhard Johan Mulder(1802-1880),perhaps on suggestion of Berzelius,from Greek proteios “the first quality”. Originally a theoretical substance thought to be essential to life, further studies of the substances he was working with overthrew this,but the words protein and proteid continued to be used in international work on the matter and also for other organic compounds;the modern use as a general name for a class of bodies arose in German.The confusion became so great a committee was set up in 1907 to sort out the nomenclature, which it did,giving protein its modern meaning and banishing proteid.",
+      "etymology": "1844,from French proteine,coined 1838 by Dutch chemist Gerhard Johan Mulder(1802-1880),perhaps on suggestion of Berzelius,from Greek proteios “the first quality”.",
       "examples": [],
       "rootHint": "noc"
     },
@@ -822,11 +859,13 @@
       "word": "proton",
       "phonetic": "'prəutbn",
       "pos": "n.",
-      "definition": "质子12536",
-      "frequency": null,
+      "definition": "质子",
+      "frequency": 12536,
       "mnemonic": "prot-(=proto-: 原始的；最早的)+-on ( 物理名词后缀) →质子",
       "collocations": [
-        "proton radiography: 质子射线透照"
+        "proton radiography: 质子射线透照",
+        "释义： ( N-COUNT) 质 子",
+        "A proton is an atomic particle that has a positive electrical charge."
       ],
       "etymology": "1920 in physics,coined by English physicist Ernest Rutherford(1871- 1937)from noun use of Greek proton,neuter of protos \"first\"(see proto-), on analogy of electron;supposedly because hydrogen was hypothesized as a constituent of allthe elements.The word was used earlier in embryology (1893)as a translation of German anlage(“fundamental thing”)based on Aristotle's phrase he prote ousia to proton.",
       "examples": [],

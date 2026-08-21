@@ -16,11 +16,12 @@
   "words": [
     {
       "collocations": [
-        "maintain/keep/have a close contact with sb(考)：与……保持紧密联系"
+        "maintain/keep/have a close contact with sb(考)：与……保持紧密联系",
+        "We contact our friends closely by the Internet.(contact用作动词)\n20000 词 汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition": "接触，联系",
       "examples": [
-        "我们通过互联网和朋友保持密切联系。(2012.6网络对交际的影响)\nWe keep/maintain/have a close contact with our friends by the Internet.\n(contact用作名词)\nWe contact our friends closely by the Internet.(contact用作动词)"
+        "我们通过互联网和朋友保持密切联系。(2012.6网络对交际的影响)\nWe keep/maintain/have a close contact with our friends by the Internet.\n(contact用作名词)"
       ],
       "frequency": 1489,
       "mnemonic": "con(共同)+tact(=touch：接触)→接触、联系",
@@ -92,13 +93,14 @@
     },
     {
       "collocations": [],
-      "definition": "完整的；原封不动的；未受损伤的",
+      "definition": "adj. 完整的；原封不动的；未受损伤的 / a. 完整的、完好的、没有被碰过的",
       "examples": [],
       "frequency": 4679,
-      "phonetic": "ɪnˈtækt",
-      "pos": "adj.",
+      "phonetic": "ɪnˈtækt / inˈtækt",
+      "pos": "adj. / a.",
       "rootHint": "tact",
-      "word": "intact"
+      "word": "intact",
+      "mnemonic": "in(表否定)+tact(接触、触碰)→没有被碰过的、完好的、完整的"
     },
     {
       "collocations": [],
@@ -177,12 +179,21 @@
       "word": "integral"
     },
     {
-      "collocations": [],
-      "definition": "使……完整；使……成整体；求……的积分；表",
-      "examples": [
-        "Perhaps most significant, according to Mannaz, is the increasing interest\nlarge companies have in more collaborative management models, such\nas those prevalent in Scandinavia, which seek to integrate the hard and\nsoft aspects of leadership and encourage delegated responsibility and\naccountability.\n根据曼娜兹公司，或许最重要的是大型企业对协作管理模式的兴趣不\n断增加，就像那些在斯堪的纳维亚盛行的一样，试图融合领导力的软\n和硬两方面，并且鼓励仿写遗物与责任。(2011.6)",
-        "如何把外国的先进文化融入到我国文化中是一个棘手的问题。\nHow to integrate advanced cultures from abroad into our own is a tough\nissue.\nIt is a tough issue to integrate foreign countries’ advanced cultures into\nChinese culture."
+      "collocations": [
+        "large companies have in more collaborative management models, such",
+        "as those prevalent in Scandinavia, which seek to integrate the hard and",
+        "soft aspects of leadership and encourage delegated responsibility and",
+        "accountability.\n根据曼娜兹公司，或许最重要的是大型企业对协作管理模式的兴趣不\n断增加，就像那些在斯堪的纳维亚盛行的一样，试图融合领导力的软\n和硬两方面，并且鼓励仿写遗物与责任。(2011.6)",
+        "How to integrate advanced cultures from abroad into our own is a tough",
+        "It is a tough issue to integrate foreign countries’ advanced cultures into",
+        "Chinese culture."
       ],
+      "definition": "使……完整；使……成整体；求……的积分；表示……的总和",
+      "examples": [
+        "Perhaps most significant, according to Mannaz, is the increasing interest",
+        "如何把外国的先进文化融入到我国文化中是一个棘手的问题。\nissue."
+      ],
+      "frequency": 3459,
       "mnemonic": "integr(=integral：完整的)+ate(使动词后缀)→使完整、使成整体、整合",
       "phonetic": "ˈɪntɪgreɪt",
       "pos": "vt.",
@@ -233,7 +244,11 @@
       "word": "integrity"
     },
     {
-      "collocations": [],
+      "collocations": [
+        "Death is normal; we are genetically programmed to disintegrate and perish,",
+        "even under ideal conditions. But spirit will be everlasting/permanent/eternal/",
+        "perpetual and will not die.(研真 03)"
+      ],
       "definition": "使分解；使碎裂；使崩溃；[核]使衰变",
       "examples": [],
       "frequency": 10662,

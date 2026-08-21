@@ -20,10 +20,11 @@
         "the pulse of the drums：强劲的鼓点",
         "sound pulses：声脉冲"
       ],
-      "definition" : "搏动，跳动；洋溢着，充满（激情等） n. 脉搏；强劲的音",
+      "definition" : "搏动，跳动；洋溢着，充满（激情等） n. 脉搏；强劲的音乐节拍（=rhythm）；脉冲",
       "examples" : [
         "The auditorium pulsed with excitement.\n礼堂里洋溢着热烈的气氛。"
       ],
+      "frequency" : 4376,
       "mnemonic" : "puls-（推动）+ -e→搏动；跳动；脉搏；强劲的音乐节拍",
       "phonetic" : "pʌls",
       "pos" : "vi.",
@@ -32,11 +33,13 @@
     },
     {
       "collocations" : [
-        "to give an impulse to the struggling car industry：给予挣扎中的汽车工"
+        "to give an impulse to the struggling car industry：给予挣扎中的汽车工",
+        "acts of violence.\n愤怒，敌对和守卫地盘等自然的冲动通过暴力的行为表达出来。",
+        "He tends to act on impulse.\n他往往凭一时冲动行事。"
       ],
       "definition" : "冲动，心血来潮；脉冲；推动力，刺激",
       "examples" : [
-        "Natural impulses of anger, hostility, and territoriality are expressed through\nacts of violence.\n愤怒，敌对和守卫地盘等自然的冲动通过暴力的行为表达出来。\nHe tends to act on impulse.\n他往往凭一时冲动行事。"
+        "Natural impulses of anger, hostility, and territoriality are expressed through"
       ],
       "frequency" : 4749,
       "mnemonic" : "im-（=in-：内心）+ pulse（=push：推；强迫）→内心在推→冲动，",
@@ -63,7 +66,8 @@
     },
     {
       "collocations" : [
-
+        "A pulsar is a star that spins very fast and cannot be seen but produces",
+        "regular radio signals.\n笔 记 区"
       ],
       "definition" : "脉冲星",
       "examples" : [
@@ -112,12 +116,14 @@
     },
     {
       "collocations" : [
-        "（students）in classes out of choice rather than compulsion：学生出于自"
+        "（students）in classes out of choice rather than compulsion：学生出于自",
+        "feel a sudden compulsion to do sth.：感到一阵突如其来的冲动去做某事"
       ],
-      "definition" : "强迫，强制；（尤指做不道德、愚蠢或危险事",
+      "definition" : "强迫，强制；（尤指做不道德、愚蠢或危险事的）强烈欲望，冲动",
       "examples" : [
         "He felt a great compulsion to tell her everything.\n他感到一阵强烈的冲动，想要把一切都告诉她。"
       ],
+      "frequency" : 12401,
       "mnemonic" : "com-（加强意义）+ -puls-（推动）+ -ion（名词后缀）→强迫推动→",
       "phonetic" : "kəmˈpʌlʃn",
       "pos" : "n.",
@@ -126,13 +132,15 @@
     },
     {
       "collocations" : [
-        "compulsive eating\/spending\/gambling：强迫性进食\/消费；上瘾的赌博"
+        "compulsive eating\/spending\/gambling：强迫性进食\/消费；上瘾的赌博",
+        "a compulsive drinker\/gambler\/liar：酗酒成性的酒徒；嗜赌成癖的赌\n徒；说谎成性的人（无法控制行为的，禁不住的+人）"
       ],
-      "definition" : "强迫性的，难控制的；无法控制行为的，禁不",
+      "definition" : "强迫性的，难控制的；无法控制行为的，禁不住的；（书籍\/电视节目等）引人入胜的",
       "examples" : [
         "Her new series made compulsive viewing.\n她的新系列节目引人入胜。"
       ],
-      "mnemonic" : "compuls（=compulsion：强迫；强制；强烈的欲望（为……所吸",
+      "frequency" : 12284,
+      "mnemonic" : "compuls（=compulsion：强迫；强制；强烈的欲望（为……所吸\n引））+ -ive（形容词后缀）→强迫性的；无法控制行为的；引人入",
       "phonetic" : "kəmˈpʌlsɪv",
       "pos" : "adj.",
       "rootHint" : "puls",
@@ -142,12 +150,13 @@
       "collocations" : [
         "a compulsory subject：必修科目",
         "compulsory education\/schooling：义务教育",
-        "compulsory redundancies：强制裁员"
+        "compulsory redundancies：强制裁员\n反义词：voluntary：自愿的；可以控制的"
       ],
-      "definition" : "（因法律或规则而）必须做的；强制的；强",
+      "definition" : "（因法律或规则而）必须做的；强制的；强迫的",
       "examples" : [
 
       ],
+      "frequency" : 13139,
       "mnemonic" : "compuls（=compulsion：强迫；强制）+ -ory（形容词后缀，……\n的）→强制的；强迫的；必须做的",
       "phonetic" : "kəmˈpʌlsərɪ",
       "pos" : "adj.",
@@ -174,7 +183,7 @@
     {
       "collocations" : [
         "a fixed three-bladed propeller：一个固定的三叶螺旋桨",
-        "propeller blade：螺旋桨叶片"
+        "propeller blade：螺旋桨叶片\n20000 词汇巅峰\n速\n记\n笔 记 区\n螺旋桨"
       ],
       "definition" : "（轮船或飞机上的）螺旋桨",
       "examples" : [
@@ -205,7 +214,7 @@
     {
       "collocations" : [
         "to expel air from the lungs：用力呼出肺里的气",
-        "Olympic athletes expelled for drug-taking：因服禁药被开除（取消比赛"
+        "Olympic athletes expelled for drug-taking：因服禁药被开除（取消比赛\n资格）的奥运会运动员"
       ],
       "definition" : "把……开除（或除名）；驱逐(出境)；排出，呼出",
       "examples" : [
@@ -237,11 +246,12 @@
     {
       "collocations" : [
         "to repel an attack\/invasion\/invader：击退进攻\/入侵；驱逐入侵者",
-        "repel insects：驱除昆虫"
+        "repel insects：驱除昆虫",
+        "Like poles repel each other.\n同极相斥。"
       ],
       "definition" : "击退；驱逐；赶走，驱除；使厌恶；排斥",
       "examples" : [
-        "I was repelled by the smell.\n这种气味让我恶心。\nLike poles repel each other.\n同极相斥。"
+        "I was repelled by the smell.\n这种气味让我恶心。"
       ],
       "frequency" : 11479,
       "mnemonic" : "re-（=back：回；返回）+ -pel（=to drive, strike：推；击打）→to\ndrive back：推回去，打回去→击退，驱逐；厌恶；排斥",
@@ -252,12 +262,15 @@
     },
     {
       "collocations" : [
-        "(an) insect repellent：驱虫剂"
+        "(an) insect repellent：驱虫剂",
+        "(a) water repellent：防水剂\n（-repellent构成复合词）防……的；隔绝……的",
+        "water-repellent cloth：防水布"
       ],
       "definition" : "让人很不愉快；令人厌恶的 n. 驱虫剂；防水剂",
       "examples" : [
         "Their political ideas are repellent to most people. 他们的政治观点令大多\n数人反感。\n与 repellent 同样表达“击退，驱逐，排斥，令人厌恶”含义的单词还\n有 repulse, repulsive 等。"
       ],
+      "frequency" : 17399,
       "mnemonic" : "repel（使厌恶；驱除，双写l）+ -ent（形容词后缀）→让人很不愉",
       "phonetic" : "rɪˈpelənt",
       "pos" : "adj.",
@@ -266,11 +279,12 @@
     },
     {
       "collocations" : [
-        "to repulse an attack\/invasion\/offensive：击退一次进攻\/入侵\/攻势"
+        "to repulse an attack\/invasion\/offensive：击退一次进攻\/入侵\/攻势",
+        "She repulsed his pursuit.\n她拒绝了他的追求。\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "击退，驱逐；使厌恶，使反感；拒绝接受",
       "examples" : [
-        "I was repulsed by the horrible smell.\n这种可怕的气味让我反感。\nShe repulsed his pursuit.\n她拒绝了他的追求。"
+        "I was repulsed by the horrible smell.\n这种可怕的气味让我反感。"
       ],
       "frequency" : 19086,
       "mnemonic" : "repulse=repel：驱逐；使厌恶；拒绝接受（排斥）",
@@ -282,7 +296,7 @@
     {
       "collocations" : [
         "a repulsive sight\/smell\/habit：令人厌恶的情景\/气味\/习惯",
-        "repulsive forces：排斥力"
+        "repulsive forces：排斥力\n笔 记 区"
       ],
       "definition" : "令人厌恶的，令人反感的；引起排斥的",
       "examples" : [
@@ -363,11 +377,13 @@
     },
     {
       "collocations" : [
-        "give an impetus to sth.：促进……（的发展）"
+        "give an impetus to sth.：促进……（的发展）",
+        "It is no doubt that cultural prosperity will give an impetus to the",
+        "development of economy."
       ],
       "definition" : "动力；推动；促进；刺激",
       "examples" : [
-        "毫无疑问，文化的繁荣也一定会促进经济的发展。\nIt is no doubt that cultural prosperity will give an impetus to the\ndevelopment of economy."
+        "毫无疑问，文化的繁荣也一定会促进经济的发展。"
       ],
       "frequency" : 9580,
       "mnemonic" : "im-（=in-：进）+ -pet-（=push：推）+ -us（名词后缀）→动力；推",

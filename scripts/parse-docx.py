@@ -375,6 +375,11 @@ def parse_definition_rest(rest: str) -> tuple[str | None, str | None, int | None
             freq = int(m.group(1))
         text = normalize_spaces(text[: m.start()])
     if freq is None:
+        m = re.search(r"(?<=[\u4e00-\u9fff])(\d{2,6})$", text)
+        if m:
+            freq = int(m.group(1))
+            text = normalize_spaces(text[: m.start()])
+    if freq is None:
         m = FREQ_RE.search(text)
         if m:
             freq = int(m.group(1))
@@ -385,6 +390,38 @@ def parse_definition_rest(rest: str) -> tuple[str | None, str | None, int | None
         pos = pm.group(0)
         text = normalize_spaces(text[pm.end() :])
     return pos, (text or None), freq
+
+
+INLINE_TAG_RE = re.compile(r"(助记|词源|搭配|阅读难点)[：:]")
+
+
+def split_inline_annotations(rest: str) -> tuple[str, list[str], str | None, str | None]:
+    """从词条同一行拆出 inline 搭配/助记/词源（docx 常见「265 搭配：…」）"""
+    text = normalize_spaces(rest)
+    collocations: list[str] = []
+    mnemonic: str | None = None
+    etymology: str | None = None
+    m = INLINE_TAG_RE.search(text)
+    if not m:
+        return text, collocations, mnemonic, etymology
+    def_text = normalize_spaces(text[: m.start()])
+    remainder = text[m.start() :]
+    while remainder:
+        tm = INLINE_TAG_RE.match(remainder)
+        if not tm:
+            break
+        tag = tm.group(1)
+        remainder = remainder[tm.end() :]
+        nm = INLINE_TAG_RE.search(remainder)
+        chunk = normalize_spaces(remainder[: nm.start()] if nm else remainder)
+        if tag == "搭配" and chunk:
+            collocations.append(chunk)
+        elif tag == "助记" and chunk:
+            mnemonic = f"{mnemonic}\n{chunk}".strip() if mnemonic else chunk
+        elif tag == "词源" and chunk:
+            etymology = f"{etymology} {chunk}".strip() if etymology else chunk
+        remainder = remainder[nm.start() :] if nm else ""
+    return def_text, collocations, mnemonic, etymology
 
 
 def is_toc_line(t: str) -> bool:
@@ -491,16 +528,95 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
     collecting_definition = False
     collecting_mnemonic = False
     collecting_collocation = False
+    collecting_frequency = False
+    collecting_inline_example = False
+    inline_example_buffer = ""
 
     def reset_word_collectors() -> None:
         nonlocal collecting_definition, collecting_mnemonic, collecting_collocation
         nonlocal collecting_example, collecting_etymology, pending_etymology
+        nonlocal collecting_frequency, collecting_inline_example, inline_example_buffer
         collecting_definition = False
         collecting_mnemonic = False
         collecting_collocation = False
         collecting_example = False
         collecting_etymology = False
+        collecting_frequency = False
+        collecting_inline_example = False
+        inline_example_buffer = ""
         pending_etymology = []
+
+    def is_frequency_only_line(line: str) -> bool:
+        return bool(re.match(r"^\d{3,6}$", normalize_spaces(line)))
+
+    def is_inline_example_start(line: str) -> bool:
+        t = normalize_spaces(line)
+        if parse_word_line(line):
+            return False
+        if t.startswith(("助记", "搭配", "词源", "释义和用法")):
+            return False
+        if is_example_start(line) or is_chapter_header(line):
+            return False
+        if t.startswith(("笔记", "20000")):
+            return False
+        if t.startswith(("例如：", "例如:")):
+            return True
+        if t.startswith(("(chemistry)", "(化)")):
+            return True
+        if t.startswith("(N-COUNT)") or "N-COUNT)" in t:
+            return True
+        if "→" in t and re.search(r"[\u4e00-\u9fff]", t):
+            return False
+        if re.match(r"^[(\[]?[a-zA-Z][A-Za-z0-9 ,'\"();:\[\]-]{11,}", t):
+            return True
+        if re.match(r"^[a-zA-Z][a-zA-Z -]{2,}[\u4e00-\u9fff]", t):
+            return True
+        return False
+
+    def is_inline_example_continuation(line: str) -> bool:
+        t = normalize_spaces(line)
+        if not t:
+            return True
+        if parse_word_line(line):
+            return False
+        if is_example_start(line) or is_chapter_header(line):
+            return False
+        if t.startswith(("助记", "搭配", "词源", "释义和用法")):
+            return False
+        if is_inline_example_start(line):
+            return False
+        if re.match(r"^[a-zA-Z ,'\"();:\[\]-]{8,}", t):
+            return True
+        if re.search(r"[\u4e00-\u9fff]", t):
+            return True
+        return False
+
+    def flush_inline_example(idx: int) -> None:
+        nonlocal inline_example_buffer
+        if inline_example_buffer.strip():
+            current_words[idx].collocations.append(inline_example_buffer)
+        inline_example_buffer = ""
+
+    def append_inline_example_line(line: str) -> None:
+        nonlocal inline_example_buffer
+        chunk = normalize_spaces(line)
+        if not chunk:
+            return
+        inline_example_buffer = (
+            chunk if not inline_example_buffer else inline_example_buffer + "\n" + chunk
+        )
+
+    def is_unlabeled_mnemonic_start(line: str) -> bool:
+        t = normalize_spaces(line)
+        if parse_word_line(line):
+            return False
+        if t.startswith(("助记", "搭配", "词源", "释义和用法")):
+            return False
+        if is_example_start(line) or is_chapter_header(line):
+            return False
+        if t.startswith("+") or ("→" in t and re.search(r"[\u4e00-\u9fff]", t)):
+            return True
+        return False
 
     def is_definition_continuation(line: str) -> bool:
         if parse_word_line(line):
@@ -512,6 +628,8 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
         if line.startswith(("阅读", "释义")):
             return False
         if re.match(r"^[a-zA-Z]+\s*\[", line):
+            return False
+        if re.match(r"^[^：:]+[:：].*[\u4e00-\u9fff]", line):
             return False
         return bool(re.search(r"[\u4e00-\u9fff]", line))
 
@@ -526,6 +644,11 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
             if m.group(1):
                 freq = int(m.group(1))
             text = normalize_spaces(text[: m.start()])
+        if freq is None:
+            m = re.search(r"(?<=[\u4e00-\u9fff])(\d{2,6})$", text)
+            if m:
+                freq = int(m.group(1))
+                text = normalize_spaces(text[: m.start()])
         if freq is None:
             m = FREQ_RE.search(text)
             if m:
@@ -555,7 +678,15 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
             return False
         if "(考)" in line:
             return True
-        return bool(re.match(r"^[a-zA-Z].*[：:].*[\u4e00-\u9fff]", line))
+        if re.match(r"^[a-zA-Z].*[：:].*[\u4e00-\u9fff]", line):
+            return True
+        if re.match(r"^[(\[]?[a-zA-Z][A-Za-z0-9 ,'\"();:\[\]-]{11,}", line):
+            return True
+        if line.startswith(("例如：", "例如:")):
+            return True
+        if re.match(r"^[^：:]+[:：].*[\u4e00-\u9fff]", line):
+            return True
+        return False
 
     def append_mnemonic(line: str, idx: int) -> None:
         chunk = normalize_spaces(line)
@@ -586,6 +717,10 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
 
     def flush_family() -> None:
         nonlocal current_words, current_header, current_roots, current_chapter
+        nonlocal collecting_inline_example, inline_example_buffer, current_word_idx
+        if current_word_idx is not None and inline_example_buffer.strip():
+            flush_inline_example(current_word_idx)
+            collecting_inline_example = False
         if not current_header or not current_words:
             return
         en, zh = extract_meanings(current_header)
@@ -664,6 +799,35 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
                 continue
             collecting_definition = False
 
+        if collecting_frequency and current_word_idx is not None:
+            if is_frequency_only_line(line):
+                current_words[current_word_idx].frequency = int(normalize_spaces(line))
+                collecting_frequency = False
+                i += 1
+                continue
+            collecting_frequency = False
+
+        if collecting_inline_example and current_word_idx is not None:
+            if is_inline_example_continuation(line):
+                append_inline_example_line(line)
+                i += 1
+                continue
+            flush_inline_example(current_word_idx)
+            collecting_inline_example = False
+
+        if current_word_idx is not None and not collecting_mnemonic and is_unlabeled_mnemonic_start(line):
+            append_mnemonic(line, current_word_idx)
+            collecting_mnemonic = True
+            i += 1
+            continue
+
+        if current_word_idx is not None and not collecting_inline_example and is_inline_example_start(line):
+            collecting_inline_example = True
+            inline_example_buffer = ""
+            append_inline_example_line(line)
+            i += 1
+            continue
+
         if collecting_mnemonic and current_word_idx is not None:
             if is_mnemonic_continuation(line):
                 append_mnemonic(line, current_word_idx)
@@ -730,6 +894,25 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
             i += 1
             continue
 
+        if line.startswith(("释义和用法", "释义和用法：", "释义和用法:")):
+            if current_word_idx is not None:
+                if collecting_inline_example:
+                    flush_inline_example(current_word_idx)
+                rest = line
+                for prefix in ("释义和用法：", "释义和用法:", "释义和用法"):
+                    if rest.startswith(prefix):
+                        rest = rest[len(prefix) :]
+                        break
+                collecting_inline_example = True
+                inline_example_buffer = ""
+                chunk = normalize_spaces(rest)
+                if chunk:
+                    append_inline_example_line(chunk)
+            collecting_mnemonic = False
+            collecting_collocation = False
+            i += 1
+            continue
+
         if line.startswith(("助记：", "助记:")):
             memo = line.replace("助记：", "").replace("助记:", "")
             if current_word_idx is not None:
@@ -762,7 +945,8 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
                 current_words[current_word_idx].etymology = " ".join(pending_etymology)
                 pending_etymology = []
             word, phonetic, rest = parsed
-            pos, definition, freq = parse_definition_rest(rest)
+            def_text, inline_cols, inline_memo, inline_etym = split_inline_annotations(rest)
+            pos, definition, freq = parse_definition_rest(def_text)
             entry = WordEntry(
                 word=word,
                 phonetic=phonetic,
@@ -770,10 +954,19 @@ def parse_docx(path: Path, source_label: str) -> list[RootFamily]:
                 definition=definition,
                 frequency=freq,
             )
+            if inline_cols:
+                entry.collocations.extend(inline_cols)
+                collecting_collocation = True
+            if inline_memo:
+                entry.mnemonic = inline_memo
+                collecting_mnemonic = True
+            if inline_etym:
+                entry.etymology = inline_etym
             current_words.append(entry)
             current_word_idx = len(current_words) - 1
-            if freq is None and rest.rstrip().endswith(("；", ";")):
+            if freq is None:
                 collecting_definition = True
+                collecting_frequency = True
             i += 1
             continue
 

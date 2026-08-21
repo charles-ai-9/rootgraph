@@ -14,12 +14,13 @@
       "collocations" : [
         "contemporary fiction \/ music \/ dance：当代小说 \/ 音乐 \/ 舞蹈",
         "life in contemporary Britain：当代英国的生活",
-        "contemporary art：当代艺术"
+        "contemporary art：当代艺术\n笔 记 区"
       ],
-      "definition" : "同代人；同辈人 adj. 同一时代的；当代",
+      "definition" : "同代人；同辈人 adj. 同一时代的；当代的；现代的",
       "examples" : [
 
       ],
+      "frequency" : 1960,
       "mnemonic" : "con-（共同）+ -temp-（=time：（一段）时间）+ -orary（=-or+ -ary：\n复合名词后缀）→共同在某一段时间生活的→同代人；同一时代的；",
       "phonetic" : "kənˈtemp(ə)r(ər)ɪ",
       "pos" : "n.",
@@ -46,12 +47,14 @@
     },
     {
       "collocations" : [
+        "only for a time,” from Old French temporal “earthly”. From tempus",
+        "(genitive temporis) “time, season, moment, proper time or season”.",
         "temporal leader：俗世领袖",
         "a temporal and spatial context：时间和空间背景",
         "a universe which has spatial and temporal dimensions：有时空维度的宇宙"
       ],
       "definition" : "世俗的；时间的",
-      "etymology" : "late 14c., “worldly, secular;” also “terrestrial, earthly; temporary, lasting only for a time,” from Old French temporal “earthly”. From tempus (genitive temporis) “time, season, moment, proper time or season”.",
+      "etymology" : "late 14c., “worldly, secular;” also “terrestrial, earthly; temporary, lasting",
       "examples" : [
 
       ],
@@ -82,7 +85,7 @@
     {
       "collocations" : [
         "a slow \/ fast tempo：慢\/快速",
-        "the increasing tempo：日益加速的生活节奏"
+        "the increasing tempo：日益加速的生活节奏\n词根 temper- 有“以适当比例混合；调整；缓和；使温和；性情；脾气”\n等含义。"
       ],
       "definition" : "（事件发展的）速度；（音乐的）节奏",
       "etymology" : "来自意大利语 tempo，节拍，拍子。",
@@ -98,11 +101,13 @@
     },
     {
       "collocations" : [
+        "or nature of a substance,” from Latin temperatura “a tempering,\nmoderation,” from temperatus, past participle of temperare “to mix in due",
+        "proportion, modify, blend; restrain oneself”.",
         "run an extremely high temperature：发严重高烧",
         "to take sb.’s temperature：量某人的体温"
       ],
       "definition" : "温度；体温；（特定场合的）氛围",
-      "etymology" : "Mid-15c., “fact of being tempered, proper proportion;” 1530s, “character or nature of a substance,” from Latin temperatura “a tempering, moderation,” from temperatus, past participle of temperare “to mix in due proportion, modify, blend; restrain oneself”.",
+      "etymology" : "Mid-15c., “fact of being tempered, proper proportion;” 1530s, “character",
       "examples" : [
 
       ],
@@ -117,12 +122,14 @@
       "collocations" : [
         "lose one’s temper：发脾气 to fly into a temper：勃然大怒",
         "a violent \/ short \/ quick, etc. temper：烈性子、急性子、火性子等",
-        "hot temper：急躁的脾气"
+        "hot temper：急躁的脾气",
+        "shoppers temper their spending.\n从汽车代理商到Gap服饰专卖店，其销售额由于顾客开支的减少，几\n20000 词汇巅峰\n速\n记\n个月来一直在下滑。\n笔 记 区"
       ],
-      "definition" : "脾气；易怒的性情；-tempered：有……脾气的；心",
+      "definition" : "脾气；易怒的性情；-tempered：有……脾气的；心情……的 vt. 使缓和；使温和",
       "examples" : [
-        "From car dealerships to Gap outlets, sales have been lagging for months as\nshoppers temper their spending.\n从汽车代理商到Gap服饰专卖店，其销售额由于顾客开支的减少，几"
+        "From car dealerships to Gap outlets, sales have been lagging for months as"
       ],
+      "frequency" : 6527,
       "mnemonic" : "v. 来自拉丁语temperare：to moderate→使缓和；使温和\nn. 来自拉丁语temperare：be moderate, restrain oneself：克制自己，\n温和平静的性情特征→后来特指易怒的性情，有……脾气的，性",
       "phonetic" : "ˈtempə",
       "pos" : "n.",
@@ -131,11 +138,13 @@
     },
     {
       "collocations" : [
+        "proportion, modify, blend; restrain oneself ”. General sense of “habit of",
+        "mind, natural disposition” is from 1821.",
         "to have an artistic temperament：有艺术家的气质",
         "a horse with an excellent temperament：性情温顺的马"
       ],
       "definition" : "气质，性情；（性情）暴躁；喜怒无常",
-      "etymology" : "Late 14c., “proportioned mixture of elements”，各种元素成比例混 合。来自拉丁语temperamentum “proper mixture, a mixing in due proportion”，“以适当比例混合”。来自temperare “to mix in due proportion, modify, blend; restrain oneself ”. General sense of “habit of mind, natural disposition” is from 1821.",
+      "etymology" : "Late 14c., “proportioned mixture of elements”，各种元素成比例混 合。来自拉丁语temperamentum “proper mixture, a mixing in due proportion”，“以适当比例混合”。来自temperare “to mix in due",
       "examples" : [
 
       ],
@@ -148,6 +157,7 @@
     },
     {
       "collocations" : [
+        "intemperate language：过激的言语",
         "a temperate climate：气候温和",
         "temperate latitudes：温带地区"
       ],
@@ -155,6 +165,7 @@
       "examples" : [
 
       ],
+      "frequency" : 12838,
       "mnemonic" : "temper（=moderate, self-restrained：温和的；自我克制的）+-ate（形\n容词后缀）→气候温和的；自我克制的→温带的；性情温和的",
       "phonetic" : "ˈtempərət",
       "pos" : "adj.",
@@ -166,10 +177,11 @@
         "temperamental and critical：喜怒无常，而且吹毛求疵",
         "couldn’t start the temperamental motor：无法发动那辆性能不稳定的摩"
       ],
-      "definition" : "喜怒无常的；性情的；（机器、汽车",
+      "definition" : "喜怒无常的；性情的；（机器、汽车等）性能不稳定的",
       "examples" : [
 
       ],
+      "frequency" : 19223,
       "mnemonic" : "temperament（性情；喜怒无常）+ -al（形容词后缀）→引申词义有",
       "phonetic" : "ˌtemprəˈmentl",
       "pos" : "adj.",
@@ -186,6 +198,7 @@
       "examples" : [
 
       ],
+      "frequency" : 12258,
       "phonetic" : "ˈtæmpə",
       "pos" : "vi.",
       "rootHint" : "temp",

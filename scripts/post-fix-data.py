@@ -46,42 +46,23 @@ def family_path(tb: str, fid: str) -> Path:
 
 
 def ensure_ics_family() -> None:
-    """cern 族 -ics 词移入 textbook-1/ics.json（幂等：ics.json 已有 economics 则跳过）"""
+    """cern 族 -ics 词移入 textbook-1/ics.json（幂等：每次合并 cern 中新增的 -ics 词）"""
+    cern_path = family_path("textbook-1", "cern")
+    if not cern_path.exists():
+        return
+    cern = load(cern_path)
+    from_cern = [w for w in cern["words"] if w["word"].endswith("ics")]
+    if from_cern:
+        cern["words"] = [w for w in cern["words"] if not w["word"].endswith("ics")]
+        save(cern_path, cern)
+
     ics_path = family_path("textbook-1", "ics")
     if ics_path.exists():
-        existing = {w["word"] for w in load(ics_path)["words"]}
-        if "economics" in existing:
-            return
-    cern_path = family_path("textbook-1", "cern")
-    cern = load(cern_path)
-    ics_words = [w for w in cern["words"] if w["word"].endswith("ics")]
-    if not ics_words:
-        return
-    cern["words"] = [w for w in cern["words"] if not w["word"].endswith("ics")]
-    save(cern_path, cern)
-    for w in ics_words:
-        w["rootHint"] = ICS_ROOT_HINT
-    ics_family = {
-        "id": "ics",
-        "source": "textbook-1",
-        "chapter": "附录",
-        "chapterOrder": 99,
-        "titleZh": "-ics 学科词",
-        "semanticLabel": "学科、学问（-ics 后缀）",
-        "meaningEn": "",
-        "meaningZh": "",
-        "roots": ["ics"],
-        "words": ics_words,
-    }
-    save(ics_path, ics_family)
-
-    # index.json 补 ics 条目
-    idx_path = ROOT / "data" / "textbook-1" / "index.json"
-    idx = load(idx_path)
-    if not any(e.get("id") == "ics" for e in idx):
-        idx.append({
+        ics = load(ics_path)
+    else:
+        ics = {
             "id": "ics",
-            "file": "ics.json",
+            "source": "textbook-1",
             "chapter": "附录",
             "chapterOrder": 99,
             "titleZh": "-ics 学科词",
@@ -89,11 +70,45 @@ def ensure_ics_family() -> None:
             "meaningEn": "",
             "meaningZh": "",
             "roots": ["ics"],
-            "wordCount": len(ics_words),
-            "source": "textbook-1",
-        })
+            "words": [],
+        }
+
+    existing = {w["word"] for w in ics["words"]}
+    added = 0
+    for w in from_cern:
+        if w["word"] not in existing:
+            w["rootHint"] = ICS_ROOT_HINT
+            ics["words"].append(w)
+            existing.add(w["word"])
+            added += 1
+
+    if from_cern or not ics_path.exists():
+        ics["words"].sort(key=lambda w: w["word"].lower())
+        save(ics_path, ics)
+
+        idx_path = ROOT / "data" / "textbook-1" / "index.json"
+        idx = load(idx_path)
+        entry = next((e for e in idx if e.get("id") == "ics"), None)
+        wc = len(ics["words"])
+        if entry:
+            entry["wordCount"] = wc
+        else:
+            idx.append({
+                "id": "ics",
+                "file": "ics.json",
+                "chapter": "附录",
+                "chapterOrder": 99,
+                "titleZh": "-ics 学科词",
+                "semanticLabel": "学科、学问（-ics 后缀）",
+                "meaningEn": "",
+                "meaningZh": "",
+                "roots": ["ics"],
+                "wordCount": wc,
+                "source": "textbook-1",
+            })
         save(idx_path, idx)
-    print(f"  post-fix: {len(ics_words)} 个 -ics 词移入 textbook-1/ics.json")
+        if added:
+            print(f"  post-fix: +{added} 个 -ics 词并入 textbook-1/ics.json（共 {wc}）")
 
 
 def remove_misclassified() -> None:

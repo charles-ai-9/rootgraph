@@ -17,12 +17,16 @@
     {
       "collocations" : [
         "less than：根本不",
-        "less one thing than another：不像……更像……"
+        "less one thing than another：不像……更像……",
+        "Her greeting was less than enthusiastic.\n她打招呼根本不热情。",
+        "At first sight it looked less like a capital city than a mining camp.\n第一眼看上去它不像一座首都城市倒更像一个采矿工地。",
+        "You will pay between ten and twenty five percent, less tax.\n20000 词汇巅峰\n速\n记\n笔 记 区\n你要付税后的10%到25%。"
       ],
-      "definition" : "（限定词）较少的；更少的 pron. 较少 quant. 较少 adv. 比……",
+      "definition" : "（限定词）较少的；更少的 pron. 较少 quant. 较少 adv. 比……少地；更少地",
       "examples" : [
-        "People should eat less fat to reduce the risk of heart disease.\n人们应该少吃脂肪以减少患心脏病的风险。\nHer greeting was less than enthusiastic.\n她打招呼根本不热情。\nAt first sight it looked less like a capital city than a mining camp.\n第一眼看上去它不像一座首都城市倒更像一个采矿工地。\nYou will pay between ten and twenty five percent, less tax."
+        "People should eat less fat to reduce the risk of heart disease.\n人们应该少吃脂肪以减少患心脏病的风险。"
       ],
+      "frequency" : 478,
       "phonetic" : "les",
       "pos" : "det.",
       "rootHint" : "solv",
@@ -35,10 +39,11 @@
         "lesser offence：较轻的罪行",
         "the lesser of two evils\/the lesser evil：两害相权之轻者"
       ],
-      "definition" : "（范围或程度）较小的，（数量）较少的；次要的，较轻",
+      "definition" : "（范围或程度）较小的，（数量）较少的；次要的，较轻的 adv.（范围或程度）较小地；（数量）较少地",
       "examples" : [
 
       ],
+      "frequency" : 5193,
       "mnemonic" : "less（用于little的比较级）+ -er（比较级后缀）→较少的；次要的，",
       "phonetic" : "ˈlesə",
       "pos" : "adj.",
@@ -68,13 +73,13 @@
         "lose weight：减轻体重",
         "lose sense of reason：丧失理智",
         "lose ability to hear：失聪",
-        "lose oneself in\/be lost in：使专注",
-        "lose one’s way：迷路"
+        "lose oneself in\/be lost in：使专注\nlose one’s way：迷路"
       ],
-      "definition" : "&vi. 输掉；失败 vt. 丢失；失去（能力；血；体重；生命；机",
+      "definition" : "&vi. 输掉；失败 vt. 丢失；失去（能力；血；体重；生命；机会）；丧失（品质、特征、态度或信仰等）",
       "examples" : [
 
       ],
+      "frequency" : 284,
       "phonetic" : "luːz",
       "pos" : "vt.",
       "rootHint" : "solv",
@@ -83,7 +88,7 @@
     {
       "collocations" : [
         "a good loser\/a bad loser：输得起的人\/输不起的人",
-        "winners and losers：赢家与输家"
+        "winners and losers：赢家与输家\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "失败者；（因某行为、决定等的）受损害者",
       "examples" : [
@@ -112,13 +117,13 @@
     {
       "collocations" : [
         "a lost book：一本丢失的书",
-        "lost homeland：失去的家园",
-        "lost youth：逝去的青春"
+        "lost homeland：失去的家园\nlost youth：逝去的青春"
       ],
-      "definition" : "迷路的；丢失的；迷惘的；失去的；（时间或事件）逝去",
+      "definition" : "迷路的；丢失的；迷惘的；失去的；（时间或事件）逝去的；浪费的",
       "examples" : [
 
       ],
+      "frequency" : 2698,
       "phonetic" : "lɒst",
       "pos" : "adj.",
       "rootHint" : "solv",
@@ -127,16 +132,15 @@
     {
       "collocations" : [
         "loss of sight：失明",
-        "a terrible loss of human life：人员死亡惨重",
-        "blood loss：失血",
+        "a terrible loss of human life：人员死亡惨重\nblood loss：失血",
         "feelings of loss：失落感",
-        "produce lumber at a loss：赔本生产木料",
-        "at a loss：不知所措"
+        "produce lumber at a loss：赔本生产木料\nat a loss：不知所措\n单词 loose 表示“宽松的，不牢固的”。"
       ],
-      "definition" : "丧失；死亡；失落感；损失；（热量、血液或液体等的）流",
+      "definition" : "丧失；死亡；失落感；损失；（热量、血液或液体等的）流失；亏损",
       "examples" : [
 
       ],
+      "frequency" : 789,
       "phonetic" : "lɒs",
       "pos" : "n.",
       "rootHint" : "solv",
@@ -149,10 +153,11 @@
         "a handful of loose change：一把零钱（零散的）",
         "on the loose：在逃；行动自由（变为自由的）"
       ],
-      "definition" : "松的；零散的；自由的；宽松的；披散的；松散的（分组、",
+      "definition" : "松的；零散的；自由的；宽松的；披散的；松散的（分组、安排、组织） vt. 释放；松开",
       "examples" : [
 
       ],
+      "frequency" : 2874,
       "phonetic" : "luːs",
       "pos" : "adj.",
       "rootHint" : "solv",
@@ -160,13 +165,19 @@
     },
     {
       "collocations" : [
-
+        "loosen its ties with：疏远与……的关系",
+        "loosen the scarf：松了松围巾",
+        "loosen its grip：放松控制",
+        "relieving parental anxiety and may help parents loosen their control a little",
+        "relieving parental anxiety about their children’s future, although their",
+        "children expect that their parents may loosen their control a little bit."
       ],
-      "definition" : "&vi. 放开；放松（控制）；疏远，减弱 vt. 放宽（限制或法",
+      "definition" : "&vi. 放开；放松（控制）；疏远，减弱 vt. 放宽（限制或法20000 词汇巅峰速记笔 记 区律）；略微松开",
       "examples" : [
-        "Being able to check in with a child anytime goes a long way toward\nrelieving parental anxiety and may help parents loosen their control a little\nsooner.\n能够随时与孩子保持联系在减少父母忧虑方面能起到重要的作用，并\n且可能帮助父母早一点放松对孩子的控制。",
-        "送孩子去艺术班在减少父母对孩子未来的忧虑方面能起到重要作\n用，尽管孩子们希望家长可以放松一点对他们的控制。\nSending\/Committing their kids to art classes goes a long way toward\nrelieving parental anxiety about their children’s future, although their\nchildren expect that their parents may loosen their control a little bit."
+        "Being able to check in with a child anytime goes a long way toward\nsooner.\n能够随时与孩子保持联系在减少父母忧虑方面能起到重要的作用，并\n且可能帮助父母早一点放松对孩子的控制。",
+        "送孩子去艺术班在减少父母对孩子未来的忧虑方面能起到重要作\n用，尽管孩子们希望家长可以放松一点对他们的控制。\nSending\/Committing their kids to art classes goes a long way toward"
       ],
+      "frequency" : 6106,
       "mnemonic" : "loos（松开的；放松的）+ -en（动词后缀）→放开；放松；松开",
       "phonetic" : "ˈluːsn",
       "pos" : "vt.",

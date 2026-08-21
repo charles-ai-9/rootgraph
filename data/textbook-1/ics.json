@@ -12,19 +12,14 @@
   ],
   "words": [
     {
-      "collocations": [],
-      "definition": "经济学",
-      "examples": [],
-      "frequency": 13759,
-      "phonetic": "ˌi:kəˈnɔmiks",
-      "pos": "n.",
-      "rootHint": "ics",
-      "word": "economics"
-    },
-    {
-      "collocations": [],
+      "collocations": [
+        "free oxygen from the air,” 1875, after French aérobie (n.), coined 1863 by",
+        "Louis Pasteur in reference to certain bacteria; from Greek aero- “air”(see",
+        "also were used in English. Hence aerobe “type of micro-organism which",
+        "lives on oxygen from the air.” Meaning “pertaining to aerobics is from"
+      ],
       "definition": "有氧运动；增氧健身法",
-      "etymology": "“Able to live or living only in the presence of oxygen, requiring or using free oxygen from the air,” 1875, after French aérobie (n.), coined 1863 by Louis Pasteur in reference to certain bacteria; from Greek aero- “air”(see aero-)+bios “life,” from PIE root *gwei- “to live.” Aerobian and aerobious also were used in English. Hence aerobe “type of micro-organism which lives on oxygen from the air.” Meaning “pertaining to aerobics is from 1968.",
+      "etymology": "“Able to live or living only in the presence of oxygen, requiring or using aero-)+bios “life,” from PIE root *gwei- “to live.” Aerobian and aerobious 1968.",
       "examples": [],
       "frequency": 12552,
       "mnemonic": "aero (=air：空气) +bi (生活) +ics (学) →依靠氧气来生活/活动→有氧",
@@ -85,6 +80,15 @@
     },
     {
       "collocations": [],
+      "definition": "人口统计资料",
+      "examples": [],
+      "frequency": 8881,
+      "pos": "n.",
+      "rootHint": "ics",
+      "word": "demographics"
+    },
+    {
+      "collocations": [],
       "definition": "诊断学（用作单数）",
       "examples": [],
       "frequency": 19574,
@@ -102,6 +106,16 @@
       "pos": "n.",
       "rootHint": "ics",
       "word": "dynamics"
+    },
+    {
+      "collocations": [],
+      "definition": "经济学",
+      "examples": [],
+      "frequency": 13759,
+      "phonetic": "ˌi:kəˈnɔmiks",
+      "pos": "n.",
+      "rootHint": "ics",
+      "word": "economics"
     },
     {
       "collocations": [],
@@ -144,9 +158,13 @@
       "word": "gymnastics"
     },
     {
-      "collocations": [],
+      "collocations": [
+        "introduced in 1501 by Aldus Manutius, printer of Venice (who also gave",
+        "his name to Aldine), and first used in his edition of Virgil, which was",
+        "dedicated to Italy. As a noun, “italic type,” 1670s."
+      ],
       "definition": "斜体字，斜体",
-      "etymology": "“Type of printing with lines sloping to the right,” 1610s, from Latin italicus “Italian, of Italy,” from Italia (see Italy). So called because it was introduced in 1501 by Aldus Manutius, printer of Venice (who also gave his name to Aldine), and first used in his edition of Virgil, which was dedicated to Italy. As a noun, “italic type,” 1670s.",
+      "etymology": "“Type of printing with lines sloping to the right,” 1610s, from Latin italicus “Italian, of Italy,” from Italia (see Italy). So called because it was",
       "examples": [],
       "frequency": 19186,
       "phonetic": "ɪˈtælɪks",
@@ -236,6 +254,16 @@
     },
     {
       "collocations": [],
+      "definition": "政治，政治学；政治活动；政纲",
+      "examples": [],
+      "frequency": 954,
+      "phonetic": "ˈpɒlətɪks",
+      "pos": "n.",
+      "rootHint": "ics",
+      "word": "politics"
+    },
+    {
+      "collocations": [],
       "definition": "机器人学（robotic的复数）",
       "examples": [],
       "frequency": 17488,
@@ -263,16 +291,6 @@
       "pos": "n.",
       "rootHint": "ics",
       "word": "statistics"
-    },
-    {
-      "collocations": [],
-      "definition": "政治，政治学；政治活动；政纲",
-      "examples": [],
-      "frequency": 954,
-      "phonetic": "ˈpɒlətɪks",
-      "pos": "n.",
-      "rootHint": "ics",
-      "word": "politics"
     }
   ]
 }

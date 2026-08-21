@@ -29,12 +29,14 @@
     },
     {
       "collocations" : [
-        "luminosity of the Sun：太阳的亮度"
+        "luminosity of the Sun：太阳的亮度",
+        "generosity n. 慷慨（gener-：产生）\nverbosity n. 啰唆（verb：词语）\nanimosity n. 仇恨（anim-：生命，有生命就有爱和恨）"
       ],
       "definition" : "（星体或太阳的）亮度；（皮肤的）放光；光亮",
       "examples" : [
 
       ],
+      "frequency" : 18305,
       "mnemonic" : "lumin-（发亮的）+ -osity（名词后缀，-ose + -ity组成,表示多的状\n态）→亮度；光亮",
       "phonetic" : "luːmɪˈnɒsətɪ",
       "pos" : "n.",
@@ -118,15 +120,20 @@
     },
     {
       "collocations" : [
-
+        "Proto-Indo-European root meaning “not heavy, having little weight.”",
+        "It is the hypothetical source of\/evidence for its existence is provided by:",
+        "Sanskrit laghuh “quick, small;” Greek elakhys “small,” elaphros “light;”",
+        "Latin levare “to raise,” levis “light in weight, not heavy;” Old Church",
+        "Slavonic liguku, Russian lëgkij, Polish lekki, Lithuanian lengvas “light in",
+        "English leoht “not heavy, light in weight.”"
       ],
       "definition" : "白血病",
-      "etymology" : "*legwh- Proto-Indo-European root meaning “not heavy, having little weight.” It is the hypothetical source of\/evidence for its existence is provided by: Sanskrit laghuh “quick, small;” Greek elakhys “small,” elaphros “light;” Latin levare “to raise,” levis “light in weight, not heavy;” Old Church Slavonic liguku, Russian lëgkij, Polish lekki, Lithuanian lengvas “light in weight;” Old Irish lu “small,” laigiu “smaller, worse;” Gothic leihts, Old English leoht “not heavy, light in weight.”",
+      "etymology" : "*legwh- weight;” Old Irish lu “small,” laigiu “smaller, worse;” Gothic leihts, Old",
       "examples" : [
 
       ],
       "frequency" : 11251,
-      "mnemonic" : "leuk-（=light, bright：光；亮→白）+ -emia（=blood：血）→以血液",
+      "mnemonic" : "leuk-（=light, bright：光；亮→白）+ -emia（=blood：血）→以血液\n中白细胞不正常聚集为特征的病→白血病",
       "phonetic" : "luːˈkiːmɪə",
       "pos" : "n.",
       "rootHint" : "lumin",
@@ -135,18 +142,21 @@
     {
       "collocations" : [
         "light blue eyes：浅蓝色的眼睛",
-        "light summer clothes：轻薄的夏装",
-        "light winds：微风",
+        "light summer clothes：轻薄的夏装\nlight winds：微风",
         "some light housework：一些轻松的家务活",
         "a light sleeper：睡得不沉",
         "a light sentence：不严厉的（从轻）判处",
         "a light diet：清淡的饮食",
-        "light on one’s feet：脚步轻盈"
+        "light on one’s feet：脚步轻盈",
+        "be light on sth.；不足；缺乏",
+        "a light touch：灵巧的处事能力",
+        "make light of sth.：轻视；对……等闲视之"
       ],
-      "definition" : "浅色的，淡色的；轻的，轻便的；（比平均或平常重量）",
+      "definition" : "浅色的，淡色的；轻的，轻便的；（比平均或平常重量）轻的；分量不足的；轻柔的，不太用力的；容易做的，轻松的；少量的；不严厉的；消遣性的，轻松的；温和的；愉快的；清淡的",
       "examples" : [
 
       ],
+      "frequency" : 465,
       "phonetic" : "laɪt",
       "pos" : "adj.",
       "rootHint" : "lumin",
@@ -172,10 +182,11 @@
         "lighten the load：减轻负担",
         "lighten the atmosphere：缓和气氛"
       ],
-      "definition" : "减轻（重量；工作量、债务、担忧等） vt.&vi.（使）变明",
+      "definition" : "减轻（重量；工作量、债务、担忧等） vt.&vi.（使）变明亮，变成淡色；（使）感到不那么悲伤（或担忧、严肃），缓和",
       "examples" : [
         "The sky began to lighten in the east.\n东方开始透亮了。"
       ],
+      "frequency" : 8756,
       "mnemonic" : "light（减轻工作、情绪等负担；光）+ -en（动词后缀）→减轻；缓",
       "phonetic" : "ˈlaɪtn",
       "pos" : "vt.",
@@ -216,7 +227,7 @@
       "collocations" : [
         "a feeling of sheer\/pure delight：十分高兴的心情",
         "the delights of living in the country：生活在乡村的乐趣",
-        "take delight\/take a delight in：以……为乐（尤指做使别人感到尴尬、"
+        "take delight\/take a delight in：以……为乐（尤指做使别人感到尴尬、\n不舒服的事）"
       ],
       "definition" : "高兴；愉快；乐趣 vt. 使高兴；使愉快",
       "examples" : [
@@ -264,10 +275,11 @@
         "a lightweight champion：轻量级拳击冠军",
         "an intellectual lightweight：智力平庸的人"
       ],
-      "definition" : "（布料）轻量的，薄型的；不严肃的，给人印象",
+      "definition" : "（布料）轻量的，薄型的；不严肃的，给人印象不深的 n. 轻量级拳击手；无足轻重的人（或事）",
       "examples" : [
 
       ],
+      "frequency" : 8551,
       "mnemonic" : "light（轻的）+ weight（重量）→重量上轻的→布料轻薄的；不严肃",
       "phonetic" : "ˈlaɪtweɪt",
       "pos" : "adj.",
@@ -300,6 +312,7 @@
       "examples" : [
 
       ],
+      "frequency" : 18006,
       "mnemonic" : "a-（down：下来）+ light（get off, make light：下来；使变轻）→从树\n枝、车、马上下来，使其变轻→飞落；下来\na-+ light（点燃；使明亮）→燃烧着的；洋溢着的（脸上仿佛有亮",
       "phonetic" : "əˈlaɪt",
       "pos" : "vi.",
@@ -313,10 +326,12 @@
         "a very slight novel：一部颇不足道的小说",
         "in the slightest：(用于加强否定的陈述语气) 一点也"
       ],
-      "definition" : "轻微的；瘦小的；无需重视的 n. 冷落；轻视 vt. 冷落；轻",
+      "definition" : "轻微的；瘦小的；无需重视的 n. 冷落；轻视 vt. 冷落；轻20000 词汇巅峰速记笔 记 区视",
       "examples" : [
 
       ],
+      "frequency" : 3007,
+      "mnemonic" : "邪解：s（加强语气）+ light（轻）→轻微的；瘦小的；无需重视的；冷落，",
       "phonetic" : "slaɪt",
       "pos" : "adj.",
       "rootHint" : "lumin",
@@ -325,7 +340,7 @@
     {
       "collocations" : [
         "a slightly larger house：一间稍微大一点儿的房子",
-        "a slightly built man：一个身材瘦小的男人"
+        "a slightly built man：一个身材瘦小的男人\n词根 -lev, -lief, -lieve=light, 也表示“to lift up, lighten：举起；使减轻”。"
       ],
       "definition" : "略微；稍微",
       "examples" : [
@@ -355,14 +370,14 @@
     {
       "collocations" : [
         "relieve sb. of sth.：减轻某人……",
-        "be relieved from all sufferings：减轻所有痛苦",
-        "relieve sb. of the burden：摆脱\/减轻负担",
+        "be relieved from all sufferings：减轻所有痛苦\nrelieve sb. of the burden：摆脱\/减轻负担",
         "be relieved of duties\/post：使解除 (职务)",
-        "阅读难点：decision [dɪˈsɪʒn] n. 决定；裁定（=ruling）"
+        "important implications for how medicine seeks to relieve dying patients of\n20000 词汇巅峰\n速\n记",
+        "pain and suffering.\n最高法庭关于医生协助病人结束生命问题的裁决，对于如何用药物减\n轻病危者的痛苦这个问题来说，具有重要的意义。\n阅读难点：decision [dɪˈsɪʒn] n. 决定；裁定（=ruling）"
       ],
       "definition" : "缓解，减轻；使摆脱；接替；使解除（职务）",
       "examples" : [
-        "The Supreme Court’s decisions on physician-assisted suicide carry\nimportant implications for how medicine seeks to relieve dying patients of"
+        "The Supreme Court’s decisions on physician-assisted suicide carry"
       ],
       "frequency" : 3799,
       "mnemonic" : "re-（又；再）+ -lieve（=light：轻）→减轻；缓解（v.）",
@@ -373,11 +388,12 @@
     },
     {
       "collocations" : [
-
+        "The State Council’s decisions on housing price carry important implication",
+        "for how to relieve home buyers of stress.\n笔 记 区"
       ],
       "definition" : "含义；暗示",
       "examples" : [
-        "国务院最新出台的一些关于房价的决定对于怎样减轻购房者的压\n力有重要的意义。（房价，民生类问题）\nThe State Council’s decisions on housing price carry important implication\nfor how to relieve home buyers of stress."
+        "国务院最新出台的一些关于房价的决定对于怎样减轻购房者的压\n力有重要的意义。（房价，民生类问题）"
       ],
       "phonetic" : "ˌɪmplɪˈkeɪʃn",
       "pos" : "n.",
@@ -514,7 +530,7 @@
         "an elevated status：高贵的身份",
         "elevated language\/sentiments\/thoughts：高尚的语言\/情操\/思想",
         "an elevated highway\/railway\/road：高架公路\/铁路\/道路",
-        "elevated blood pressure：血压偏高"
+        "elevated blood pressure：血压偏高\n20000 词汇巅峰\n速\n记"
       ],
       "definition" : "高贵的；职位高的；高尚的；高的",
       "examples" : [
@@ -529,14 +545,14 @@
     {
       "collocations" : [
         "his elevation to the presidency：他提升到校长的职位",
-        "an elevation of 2 000 meters：海拔2,000米",
-        "the front\/rear\/side elevation of a house：房子的正面\/后面\/侧面立视图",
-        "elevation of blood sugar levels：血糖升高"
+        "an elevation of 2 000 meters：海拔2,000米\nthe front\/rear\/side elevation of a house：房子的正面\/后面\/侧面立视图",
+        "elevation of blood sugar levels：血糖升高\n笔 记 区"
       ],
-      "definition" : "提拔；高度，（尤指）海拔；高地；（建筑物的）",
+      "definition" : "提拔；高度，（尤指）海拔；高地；（建筑物的）立面（图）；升高",
       "examples" : [
 
       ],
+      "frequency" : 6798,
       "phonetic" : "ˌelɪˈveɪʃn",
       "pos" : "n.",
       "rootHint" : "lumin",
@@ -561,14 +577,14 @@
         "ground water level：地下水位",
         "on the second level：在第二层",
         "be almost level with：与……一样高",
-        "draw level with the gates：接近大门口",
-        "level sth. to the ground：把……夷为平地",
+        "draw level with the gates：接近大门口\nlevel sth. to the ground：把……夷为平地",
         "be levelled at his family：(指责或批评) 针对他的家人"
       ],
-      "definition" : "水平；水位；层 adj. 与……等高的；平坦的 adv. 接近 vt. 夷",
+      "definition" : "水平；水位；层 adj. 与……等高的；平坦的 adv. 接近 vt. 夷平；（指责或批评）针对",
       "examples" : [
 
       ],
+      "frequency" : 339,
       "mnemonic" : "lev-（=raise：升起）+ -el（名词后缀）→升起到某个位置→引申义为",
       "phonetic" : "ˈlevl",
       "pos" : "n.",
@@ -625,11 +641,12 @@
     },
     {
       "collocations" : [
-        "level for\/against sth.：对……施压"
+        "level for\/against sth.：对……施压",
+        "They managed to lever the door open.\n他们设法撬开了门。"
       ],
       "definition" : "控制杆；杠杆；施压的行为 vt.（用杠杆）撬动",
       "examples" : [
-        "I levered the lid off the pot with a knife.\n我用刀撬掉了罐盖。\nThey managed to lever the door open.\n他们设法撬开了门。"
+        "I levered the lid off the pot with a knife.\n我用刀撬掉了罐盖。"
       ],
       "frequency" : 7625,
       "mnemonic" : "lev-（举起；升起）+ -er（名词后缀，表示物体）→使物体升起的工\n具→杠杆；撬动→引申义为施压的行为",
@@ -658,7 +675,7 @@
     {
       "collocations" : [
         "a leveraged portfolio：杠杆投资组合",
-        "leveraged loans\/fund：杠杆贷款\/基金"
+        "leveraged loans\/fund：杠杆贷款\/基金\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
       "definition" : "杠杆的；杠杆作用的",
       "examples" : [
