@@ -62,11 +62,11 @@ func extractRoots(from header: String) -> [String] {
         tail = String(tail[..<allIdx.lowerBound])
     }
     let parts = tail.components(separatedBy: CharacterSet(charactersIn: "，,、"))
-        // 教材变体写法 -(s)pend / -(s)pon：去掉 (s)，还原为 pend / pon
-        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "").replacingOccurrences(of: "(s)", with: "")) }
+        // 保留教材变体原写法（-(s)pend / -(s)pon），展示忠于教材；匹配时前端归一化
+        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "")) }
         .filter { part in
             guard !part.isEmpty, part.count >= 2, part.count <= 12 else { return false }
-            guard part.range(of: #"^[a-zA-Z*]"#, options: .regularExpression) != nil else { return false }
+            guard part.range(of: #"^[a-zA-Z*(]"#, options: .regularExpression) != nil else { return false }
             let lower = part.lowercased()
             let blocklist = ["全部都", "除了", "可以", "也是", "也是表"]
             return !blocklist.contains(where: { lower.contains($0) })
@@ -226,7 +226,8 @@ func isNoiseLine(_ line: String) -> Bool {
 func inferRootHint(word: String, roots: [String]) -> String? {
     let w = word.lowercased()
     for root in roots {
-        let r = root.lowercased().replacingOccurrences(of: "-", with: "")
+        // (s)pend 归一化为 pend 做匹配（spend/depend 都含 pend）
+        let r = root.lowercased().replacingOccurrences(of: "-", with: "").replacingOccurrences(of: "(s)", with: "")
         if r.count >= 3 && w.contains(r) { return root }
     }
     return roots.first

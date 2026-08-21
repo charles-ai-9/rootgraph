@@ -37,10 +37,15 @@ export function groupWordsByRoot(words: WordEntry[], roots: string[]): Map<strin
   return groups;
 }
 
-export function familySummary(family: RootFamily, entry: CatalogEntry): string {
-  const roots = cleanRoots(family.roots);
-  const rootLine = roots.length ? roots.join(' / ') : family.roots.slice(0, 6).join(' / ');
-  const semantic = displaySemantic(entry);
+export function familySummary(
+  family: RootFamily,
+  entry: CatalogEntry,
+  overrides?: { roots?: string[]; semantic?: string | null },
+): string {
+  const rawRoots = overrides?.roots ?? family.roots;
+  const roots = cleanRoots(rawRoots);
+  const rootLine = roots.length ? roots.join(' / ') : rawRoots.slice(0, 6).join(' / ');
+  const semantic = overrides?.semantic !== undefined ? overrides.semantic : displaySemantic(entry);
 
   const parts = [`词根变体：${rootLine}`];
   if (semantic) parts.push(`语义：${semantic}`);

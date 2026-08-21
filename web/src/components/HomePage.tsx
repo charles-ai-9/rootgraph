@@ -5,15 +5,17 @@ import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
+import type { FamilyMeta } from '../hooks/useNotes';
 
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
   affixItems: AffixItem[];
   onSaveAffixGroup: (draft: AffixGroupDraft) => void;
   getVideoId: (key: string) => string;
+  getFamilyMeta: (key: string) => FamilyMeta | undefined;
 }
 
-export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoId }: HomePageProps) {
+export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoId, getFamilyMeta }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [catalogError, setCatalogError] = useState(false);
   const [retryTick, setRetryTick] = useState(0);
@@ -95,8 +97,9 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
   const hasFilter = filter.trim().length > 0;
 
   const renderCard = (entry: CatalogEntry) => {
-    const roots = displayRoots(entry);
-    const semantic = displaySemantic(entry);
+    const meta = getFamilyMeta(catalogEntryKey(entry));
+    const roots = meta?.roots?.length ? meta.roots.join(' · ') : displayRoots(entry);
+    const semantic = meta?.semantic?.trim() || displaySemantic(entry);
     const videoId = getVideoId(catalogEntryKey(entry));
 
     return (

@@ -344,6 +344,84 @@ textarea {
   white-space: nowrap;
 }
 
+.meta-edit-btn {
+  padding: 2px 8px;
+  border: 1px dashed var(--border);
+  border-radius: 4px;
+  background: transparent;
+  color: var(--text-light);
+  font-size: 0.75rem;
+  cursor: pointer;
+}
+
+.meta-edit-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.family-meta-editor {
+  max-width: var(--doc-width);
+  margin: 0 auto;
+  padding: 14px 18px 16px;
+  border: 1px solid var(--border-light);
+  border-left: 3px solid var(--accent);
+  border-radius: 6px;
+  background: var(--surface-muted);
+}
+
+.family-meta-field {
+  margin-bottom: 10px;
+}
+
+.family-meta-field label {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.78rem;
+  color: var(--text-muted);
+}
+
+.family-meta-input {
+  width: 100%;
+  padding: 6px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+  color: var(--text);
+  font-size: 0.88rem;
+}
+
+.family-meta-editor-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 12px;
+}
+
+.family-meta-editor-actions button {
+  padding: 5px 14px;
+  border-radius: 6px;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.family-meta-save {
+  border: 1px solid var(--accent);
+  background: var(--accent);
+  color: #fff;
+}
+
+.family-meta-reset,
+.family-meta-cancel {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+}
+
+.family-meta-reset:hover,
+.family-meta-cancel:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
 .review-pill {
   padding: 2px 8px;
   background: var(--amber-soft);

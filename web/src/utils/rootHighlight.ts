@@ -23,7 +23,7 @@ export interface VariantCluster {
 }
 
 function normalizeRoot(r: string): string {
-  return r.replace(/^-+/, '').trim().toLowerCase();
+  return r.replace(/^-+/, '').replace(/\(s\)/g, '').trim().toLowerCase();
 }
 
 function escapeRegex(s: string): string {

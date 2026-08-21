@@ -6,8 +6,8 @@
   "meaningZh" : "付钱；hang：悬挂",
   "roots" : [
     "pens",
-    "pend",
-    "pon"
+    "(s)pend",
+    "(s)pon"
   ],
   "semanticLabel" : "付钱；hang：悬挂",
   "source" : "textbook-1",
@@ -24,7 +24,7 @@
       "frequency" : 343,
       "phonetic" : "spend",
       "pos" : "vt.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "spend"
     },
     {
@@ -38,7 +38,7 @@
       "frequency" : 19858,
       "phonetic" : "ˈspendə",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "spender"
     },
     {
@@ -52,7 +52,7 @@
       "frequency" : 2358,
       "phonetic" : "ˈspendɪŋ",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "spending"
     },
     {
@@ -96,7 +96,7 @@
       "mnemonic" : "ex (出去) +pend (钱) +iture (=ite+ure复合名词后缀) →花出去的钱→开",
       "phonetic" : "ɪkˈspendɪtʃə; ek-",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "expenditure"
     },
     {
@@ -110,7 +110,7 @@
       "frequency" : 10905,
       "phonetic" : "ɪkˈspend; ek-",
       "pos" : "vt.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "expend"
     },
     {
@@ -123,7 +123,7 @@
       ],
       "phonetic" : "ɪkˈspendəb(ə)l",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "expendable"
     },
     {
@@ -283,7 +283,7 @@
       "mnemonic" : "s (加强语气) +pon (钱，付钱) +or (表人) →付钱的人，出钱的人→赞",
       "phonetic" : "ˈspɒnsə",
       "pos" : "n.",
-      "rootHint" : "pon",
+      "rootHint" : "(s)pon",
       "word" : "sponsor"
     },
     {
@@ -297,7 +297,7 @@
       "frequency" : 15656,
       "phonetic" : "ˈspɔnsəd",
       "pos" : "adj.",
-      "rootHint" : "pon",
+      "rootHint" : "(s)pon",
       "word" : "sponsored"
     },
     {
@@ -311,7 +311,7 @@
       "frequency" : 9495,
       "phonetic" : "ˈspɒnsəʃɪp",
       "pos" : "n.",
-      "rootHint" : "pon",
+      "rootHint" : "(s)pon",
       "word" : "sponsorship"
     },
     {
@@ -356,7 +356,7 @@
       "mnemonic" : "de (下) +pend (挂) →挂靠在……之下→依赖，依靠",
       "phonetic" : "dɪˈpend",
       "pos" : "vi.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "depend"
     },
     {
@@ -370,7 +370,7 @@
       "frequency" : 3231,
       "phonetic" : "dɪˈpɛndənt",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "dependent"
     },
     {
@@ -384,7 +384,7 @@
       "frequency" : 13277,
       "phonetic" : "dɪˈpendəb(ə)l",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "dependable"
     },
     {
@@ -398,7 +398,7 @@
       "frequency" : 5899,
       "phonetic" : "dɪˈpend(ə)ns",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "dependence"
     },
     {
@@ -412,7 +412,7 @@
       "frequency" : 12463,
       "phonetic" : "ˌɪntədɪˈpendəns",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "interdependence"
     },
     {
@@ -426,7 +426,7 @@
       "frequency" : 15278,
       "phonetic" : "ɪntədɪˈpendənt",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "interdependent"
     },
     {
@@ -440,7 +440,7 @@
       "frequency" : 8008,
       "phonetic" : "dɪˈpend(ə)nsɪ",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "dependency"
     },
     {
@@ -454,7 +454,7 @@
       "frequency" : 2995,
       "phonetic" : "diˈpendiŋ",
       "pos" : "v.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "depending"
     },
     {
@@ -470,7 +470,7 @@
       "mnemonic" : "in (表否定) +dependent (依赖的) →不依赖的→独立的",
       "phonetic" : "ˌɪndɪˈpendənt",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "independent"
     },
     {
@@ -484,7 +484,7 @@
       "frequency" : 5729,
       "phonetic" : "ˌɪndɪˈpend(ə)ntlɪ",
       "pos" : "adv.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "independently"
     },
     {
@@ -498,7 +498,7 @@
       "frequency" : 2311,
       "phonetic" : "ɪndɪˈpend(ə)ns",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "independence"
     },
     {
@@ -513,7 +513,7 @@
       "mnemonic" : "sus (=sub：下) +pend (挂) →暂时挂 (悬) 一下→暂停；悬挂；使有悬念",
       "phonetic" : "səˈspend",
       "pos" : "vt.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "suspend"
     },
     {
@@ -527,7 +527,7 @@
       "frequency" : 10175,
       "phonetic" : "səˈspendid",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "suspended"
     },
     {
@@ -541,7 +541,7 @@
       "frequency" : 19485,
       "phonetic" : "səˈspɛndɚz",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "suspenders"
     },
     {
@@ -684,7 +684,7 @@
       "mnemonic" : "ap (=to：去) +pend (挂，悬) → 附加；附属\nWhen you append something to something else, especially a piece of\nwriting, you attach it or add it to the end of it. 附加；添加附件",
       "phonetic" : "əˈpend",
       "pos" : "v.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "append"
     },
     {
@@ -699,7 +699,7 @@
       "mnemonic" : "append (添加) +age (名词后缀) → 附加物；附件 (attachment)\nAn appendage is something that is joined to or connected with something\nlarger or more important. 附件；附属物",
       "phonetic" : "əˈpendɪdʒ",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "appendage"
     },
     {
@@ -713,7 +713,7 @@
       "frequency" : 14423,
       "phonetic" : "əˈpendɪks",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "appendix"
     },
     {
@@ -728,7 +728,7 @@
       "mnemonic" : "com (共同，一起) +pend (悬，挂) +ium (名词后缀) → (主要信息，图\n片等) 挂在一起，放在一起→纲要；概要；汇编\nA compendium is a short but detailed collection of information, usually in\na book. 汇编，概要\nimpend v. 悬在头上；马上要发生（命悬一线） 3",
       "phonetic" : "kəmˈpendɪəm",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "compendium"
     },
     {
@@ -742,7 +742,7 @@
       "frequency" : 8475,
       "phonetic" : "ɪmˈpendɪŋ",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "impending"
     },
     {
@@ -757,7 +757,7 @@
       "mnemonic" : "pend (悬，挂) +ant (名词后缀) →悬挂物；吊坠",
       "phonetic" : "ˈpend(ə)nt",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "pendant"
     },
     {
@@ -772,7 +772,7 @@
       "mnemonic" : "pend (悬) +ing (形容词后缀) →还没有处理的；决定的；悬着的；悬",
       "phonetic" : "ˈpendɪŋ",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "pending"
     },
     {
@@ -787,7 +787,7 @@
       "mnemonic" : "pend (悬，挂) +ul (连字符) +um (名词后缀) →钟摆；摇摆不定的事情\nThe pendulum of a clock is a rod (杆) with a weight at the end which\nswings (摇摆) from side to side in order to make the clock work. 钟摆",
       "phonetic" : "ˈpendjʊləm",
       "pos" : "n.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "pendulum"
     },
     {
@@ -801,7 +801,7 @@
       "frequency" : 6,
       "phonetic" : "ˈpɛndjʊlə",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "pendular"
     },
     {
@@ -816,7 +816,7 @@
       "mnemonic" : "pend (悬，挂，垂) +ul (链接符号) +ous (大，多) →松垂的；松弛的\nSomething that is pendulous hangs downward and moves loosely, usually\nin an unattractive way. 悬垂摆动的；松垂的",
       "phonetic" : "ˈpendjʊləs",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "pendulous"
     },
     {
@@ -862,7 +862,7 @@
       "mnemonic" : "per (彻底) +pend (垂) +icular (复合形容词后缀) →垂直的；直立的；",
       "phonetic" : "ˌpɜ:p(ə)nˈdɪkjʊlə",
       "pos" : "adj.",
-      "rootHint" : "pend",
+      "rootHint" : "(s)pend",
       "word" : "perpendicular"
     },
     {

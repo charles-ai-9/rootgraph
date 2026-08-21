@@ -8,6 +8,14 @@ export interface WordFieldOverrides {
   collocations?: string;
 }
 
+/** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
+export interface FamilyMeta {
+  /** 词根变体（教材原写法，如 ['pens', '(s)pend', '(s)pon']）；缺省用数据默认 */
+  roots?: string[];
+  /** 语义标签覆盖 */
+  semantic?: string;
+}
+
 interface NotesStore {
   families: Record<string, string>;
   words: Record<string, string>;
@@ -15,12 +23,21 @@ interface NotesStore {
   wordFields: Record<string, WordFieldOverrides>;
   /** 词根族对应的视频课程编号（familyKey → 编号，如 "1-03"） */
   videoMap: Record<string, string>;
+  /** 词根族元数据手动覆盖（familyKey → 修正后的 roots / semantic） */
+  familyMeta: Record<string, FamilyMeta>;
 }
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
 const LEGACY_KEY = 'rootgraph-notes-v1';
 
-const empty: NotesStore = { families: {}, words: {}, affixNotes: {}, wordFields: {}, videoMap: {} };
+const empty: NotesStore = {
+  families: {},
+  words: {},
+  affixNotes: {},
+  wordFields: {},
+  videoMap: {},
+  familyMeta: {},
+};
 
 export function collocationsToText(items: string[]): string {
   return items.join('\n');
@@ -91,6 +108,7 @@ function load(): NotesStore {
         ),
         wordFields: parsed.wordFields ?? {},
         videoMap: parsed.videoMap ?? {},
+        familyMeta: parsed.familyMeta ?? {},
       };
     }
 
@@ -103,6 +121,7 @@ function load(): NotesStore {
         affixNotes: {},
         wordFields: {},
         videoMap: {},
+        familyMeta: {},
       };
     }
   } catch {
@@ -133,6 +152,15 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       videoMap: { ...prev.videoMap, [key]: videoId.trim() },
+    }));
+  }, []);
+
+  const getFamilyMeta = useCallback((key: string) => store.familyMeta[key], [store]);
+
+  const setFamilyMeta = useCallback((key: string, meta: FamilyMeta) => {
+    setStore((prev) => ({
+      ...prev,
+      familyMeta: { ...prev.familyMeta, [key]: meta },
     }));
   }, []);
 
@@ -211,11 +239,12 @@ export function useNotes() {
         affixNotes: { ...prev.affixNotes },
         wordFields: { ...prev.wordFields },
         videoMap: { ...prev.videoMap },
+        familyMeta: { ...prev.familyMeta },
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
         if (oldKey === newKey) continue;
-        for (const section of ['families', 'words', 'affixNotes', 'wordFields', 'videoMap'] as const) {
+        for (const section of ['families', 'words', 'affixNotes', 'wordFields', 'videoMap', 'familyMeta'] as const) {
           const map = next[section];
           for (const k of Object.keys(map)) {
             if (k === oldKey || k.startsWith(`${oldKey}/`)) {
@@ -235,6 +264,8 @@ export function useNotes() {
     setFamilyNote,
     getVideoId,
     setVideoId,
+    getFamilyMeta,
+    setFamilyMeta,
     getWordNote,
     setWordNote,
     getWordAffixNotes,

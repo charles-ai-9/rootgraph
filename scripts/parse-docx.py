@@ -134,7 +134,7 @@ def extract_roots(header: str) -> list[str]:
             continue
         if part.lower().replace("0", "o") == "zoo" or part.lower() == "z00":
             part = "zoo"
-        if not re.match(r"^[a-zA-Z*0-9]", part):
+        if not re.match(r"^[a-zA-Z*(0-9]", part):
             continue
         if any(x in part.lower() for x in ("全部都", "除了", "可以", "也是", "也是表")):
             continue

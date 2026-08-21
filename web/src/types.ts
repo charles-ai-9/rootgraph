@@ -151,16 +151,23 @@ export function familyKey(textbook: string, familyId: string): string {
   return `${textbook}/${familyId}`;
 }
 
-/** 清洗目录词根（去掉解析噪声） */
+/** 归一化词根变体（匹配用）：-(s)pend → pend；保留 (s) 的教材原写法用于展示 */
+export function normalizeRootForm(r: string): string {
+  return r.replace(/^-+/, '').replace(/\(s\)/g, '').trim();
+}
+
+/** 清洗目录词根（去掉解析噪声，归一化 (s) 写法） */
 export function cleanRoots(roots: string[]): string[] {
   return roots
-    .map((r) => r.replace(/^-+/, '').trim())
+    .map(normalizeRootForm)
     .filter((r) => r.length >= 2 && r.length <= 12 && /^[a-zA-Z*]/.test(r));
 }
 
-/** 主标题：目录词根，如 cern · crim · cris */
+/** 展示用词根（保留教材原写法，如 pens · (s)pend · (s)pon） */
 export function displayRoots(entry: CatalogEntry): string {
-  const roots = cleanRoots(entry.roots);
+  const roots = entry.roots
+    .map((r) => r.replace(/^-+/, '').trim())
+    .filter((r) => r.length >= 2 && r.length <= 14 && /^[a-zA-Z*(]/.test(r));
   if (roots.length) return roots.join(' · ');
   return entry.id;
 }

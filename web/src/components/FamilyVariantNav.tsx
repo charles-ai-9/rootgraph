@@ -1,5 +1,7 @@
 export interface VariantTab {
   root: string;
+  /** 展示用（保留教材原写法，如 (s)pend）；缺省用 root */
+  display?: string;
   count: number;
 }
 
@@ -31,7 +33,7 @@ export function FamilyVariantNav({ tabs, active, onChange }: FamilyVariantNavPro
           className={`family-variant-tab ${active === tab.root ? 'active' : ''}`}
           onClick={() => onChange(tab.root)}
         >
-          {tab.root}
+          {tab.display ?? tab.root}
           <span className="family-variant-count">{tab.count}</span>
         </button>
       ))}
@@ -63,7 +65,7 @@ export function VariantStepper({ tabs, active, onChange }: VariantStepperProps) 
         disabled={!prev}
         onClick={() => prev && onChange(prev.root)}
       >
-        {prev ? `← ${prev.root}` : '—'}
+        {prev ? `← ${prev.display ?? prev.root}` : '—'}
       </button>
       <span className="variant-stepper-pos">
         {index + 1}
@@ -75,7 +77,7 @@ export function VariantStepper({ tabs, active, onChange }: VariantStepperProps) 
         disabled={!next}
         onClick={() => next && onChange(next.root)}
       >
-        {next ? `${next.root} →` : '—'}
+        {next ? `${next.display ?? next.root} →` : '—'}
       </button>
     </footer>
   );

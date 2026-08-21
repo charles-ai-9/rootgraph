@@ -1,8 +1,9 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { AffixItem, AffixKind, AffixNoteData, CatalogEntry, RootFamily, WordAffixKind, WordEntry, WordAffixNotes } from '../types';
-import { cleanRoots, displaySemantic, displayRoots, wordKey } from '../types';
+import { cleanRoots, displaySemantic, displayRoots, normalizeRootForm, wordKey } from '../types';
 import { familyStorageKey, textbookLabel } from '../catalog';
 import { familySummary, groupWordsByRoot } from '../utils/family';
+import type { FamilyMeta } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
 import { useProgress } from '../hooks/useProgress';
@@ -21,6 +22,8 @@ interface FamilyNotePageProps {
   setFamilyNote: (key: string, text: string) => void;
   getVideoId: (key: string) => string;
   setVideoId: (key: string, videoId: string) => void;
+  getFamilyMeta: (key: string) => FamilyMeta | undefined;
+  setFamilyMeta: (key: string, meta: FamilyMeta) => void;
   getWordNote: (key: string) => string;
   setWordNote: (key: string, text: string) => void;
   getWordMnemonic: (key: string, seed?: string) => string;
@@ -44,6 +47,8 @@ export function FamilyNotePage({
   setFamilyNote,
   getVideoId,
   setVideoId,
+  getFamilyMeta,
+  setFamilyMeta,
   getWordNote,
   setWordNote,
   getWordMnemonic,
@@ -74,6 +79,9 @@ export function FamilyNotePage({
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [reviewWord, setReviewWord] = useState<string | null>(null);
   const [editingVideo, setEditingVideo] = useState(false);
+  const [metaEditOpen, setMetaEditOpen] = useState(false);
+  const [metaRootsText, setMetaRootsText] = useState('');
+  const [metaSemanticText, setMetaSemanticText] = useState('');
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const searchInputRef = useRef<HTMLInputElement>(null);
@@ -118,20 +126,28 @@ export function FamilyNotePage({
     return m;
   }, [catalog]);
 
+  /** 用户手动覆盖的词根/语义（localStorage，重导不丢） */
+  const familyMeta = getFamilyMeta(fKey);
+  const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
+
   const groups = useMemo((): Map<string, WordEntry[]> => {
-    if (!family) return new Map<string, WordEntry[]>();
-    return groupWordsByRoot(family.words, family.roots);
-  }, [family]);
+    if (!family || !effectiveRoots) return new Map<string, WordEntry[]>();
+    return groupWordsByRoot(family.words, effectiveRoots);
+  }, [family, effectiveRoots]);
 
   const variantTabs = useMemo((): VariantTab[] => {
-    if (!family) return [];
-    return cleanRoots(family.roots)
+    if (!family || !effectiveRoots) return [];
+    return cleanRoots(effectiveRoots)
       .filter((root) => {
         const list = groups.get(root);
         return list && list.length > 0;
       })
-      .map((root) => ({ root, count: groups.get(root)!.length }));
-  }, [family, groups]);
+      .map((root) => ({
+        root,
+        display: effectiveRoots.find((r) => normalizeRootForm(r) === root) ?? root,
+        count: groups.get(root)!.length,
+      }));
+  }, [family, effectiveRoots, groups]);
 
   const handleSearchOpen = useCallback((hit: IndexedWord) => {
     setSearchQuery('');
@@ -250,12 +266,21 @@ export function FamilyNotePage({
     );
   }
 
-  const summary = familySummary(family, entry);
+  const semantic = familyMeta?.semantic?.trim() || displaySemantic(entry);
+  const summary = familySummary(family, entry, {
+    roots: effectiveRoots,
+    semantic,
+  });
   const familyNote = getFamilyNote(fKey);
   const videoId = getVideoId(fKey);
-  const semantic = displaySemantic(entry);
   const activeWords = activePanel !== OVERVIEW_PANEL ? groups.get(activePanel) ?? [] : [];
   const familyStats = statsForKeys(family.words.map((w) => wordKey(entry.textbook, family.id, w.word)));
+
+  const openMetaEditor = () => {
+    setMetaRootsText((effectiveRoots ?? []).join('，'));
+    setMetaSemanticText(familyMeta?.semantic ?? displaySemantic(entry) ?? '');
+    setMetaEditOpen(true);
+  };
 
   return (
     <div className="note-page">
@@ -335,6 +360,14 @@ export function FamilyNotePage({
                 🎬 {videoId || '视频编号'}
               </button>
             )}
+            <button
+              type="button"
+              className="meta-edit-btn"
+              onClick={openMetaEditor}
+              title="编辑词根变体与语义（按教程修正）"
+            >
+              ✎ 词根
+            </button>
           </div>
         </div>
       </header>
@@ -354,7 +387,7 @@ export function FamilyNotePage({
       <article className="note-doc">
         <header className="doc-head">
           <h1 className="doc-title">{semantic ?? displayRoots(entry)}</h1>
-          {semantic && <p className="doc-subtitle doc-roots-line">{displayRoots(entry)}</p>}
+          {semantic && <p className="doc-subtitle doc-roots-line">{(effectiveRoots ?? []).join(' · ')}</p>}
           {(familyStats.understood > 0 || familyStats.review > 0) && (
             <p className="progress-text">
               已掌握 {familyStats.understood}/{familyStats.total}
@@ -362,6 +395,60 @@ export function FamilyNotePage({
             </p>
           )}
         </header>
+
+        {metaEditOpen && (
+          <div className="family-meta-editor">
+            <div className="family-meta-field">
+              <label htmlFor="meta-roots">词根变体（逗号分隔，保留教材写法如 (s)pend）</label>
+              <input
+                id="meta-roots"
+                className="family-meta-input"
+                value={metaRootsText}
+                onChange={(e) => setMetaRootsText(e.target.value)}
+                placeholder="pens，(s)pend，(s)pon"
+              />
+            </div>
+            <div className="family-meta-field">
+              <label htmlFor="meta-semantic">语义标签</label>
+              <input
+                id="meta-semantic"
+                className="family-meta-input"
+                value={metaSemanticText}
+                onChange={(e) => setMetaSemanticText(e.target.value)}
+                placeholder="付钱；悬挂"
+              />
+            </div>
+            <div className="family-meta-editor-actions">
+              <button
+                type="button"
+                className="family-meta-save"
+                onClick={() => {
+                  const roots = metaRootsText.split(/[，,、]/).map((s) => s.trim()).filter(Boolean);
+                  const meta: FamilyMeta = {};
+                  if (roots.length) meta.roots = roots;
+                  if (metaSemanticText.trim()) meta.semantic = metaSemanticText.trim();
+                  setFamilyMeta(fKey, meta);
+                  setMetaEditOpen(false);
+                }}
+              >
+                保存
+              </button>
+              <button
+                type="button"
+                className="family-meta-reset"
+                onClick={() => {
+                  setFamilyMeta(fKey, {});
+                  setMetaEditOpen(false);
+                }}
+              >
+                恢复默认
+              </button>
+              <button type="button" className="family-meta-cancel" onClick={() => setMetaEditOpen(false)}>
+                取消
+              </button>
+            </div>
+          </div>
+        )}
 
         <div className="family-variant-content">
           {(!showVariantNav || activePanel === OVERVIEW_PANEL) && (
@@ -371,7 +458,7 @@ export function FamilyNotePage({
                 <pre className="summary-pre">{summary}</pre>
               </section>
 
-              <VariantMap roots={family.roots} />
+              <VariantMap roots={effectiveRoots ?? []} />
 
               <section className="doc-section">
                 <h2>我的词根理解</h2>
@@ -384,8 +471,8 @@ export function FamilyNotePage({
               </section>
 
               <MiniRelationGraph
-                title={displayRoots(entry)}
-                roots={family.roots}
+                title={(effectiveRoots ?? []).join(' · ')}
+                roots={effectiveRoots ?? []}
                 words={family.words}
                 onOpenWord={setReviewWord}
                 statusFor={(w) => getStatus(wordKey(entry.textbook, family.id, w))}
