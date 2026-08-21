@@ -2,11 +2,14 @@
   {
     "chapter": "1",
     "chapterOrder": 101,
-    "file": "1.json",
-    "id": "1",
+    "file": "pend.json",
+    "id": "pend",
     "meaningEn": "weigh",
     "meaningZh": "称重，进而引申为权衡；平衡",
-    "roots": [],
+    "roots": [
+      "pend",
+      "pond 都"
+    ],
     "semanticLabel": "称重，进而引申为权衡；平衡",
     "source": "textbook-8",
     "titleZh": "称重，进而引申为权衡；平衡",
@@ -15,8 +18,8 @@
   {
     "chapter": "2",
     "chapterOrder": 102,
-    "file": "pend.json",
-    "id": "pend",
+    "file": "pend-2.json",
+    "id": "pend-2",
     "meaningEn": "weigh",
     "meaningZh": "称重，进而引申为权衡",
     "roots": [

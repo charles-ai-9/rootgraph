@@ -62,7 +62,8 @@ func extractRoots(from header: String) -> [String] {
         tail = String(tail[..<allIdx.lowerBound])
     }
     let parts = tail.components(separatedBy: CharacterSet(charactersIn: "，,、"))
-        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "")) }
+        // 教材变体写法 -(s)pend / -(s)pon：去掉 (s)，还原为 pend / pon
+        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "").replacingOccurrences(of: "(s)", with: "")) }
         .filter { part in
             guard !part.isEmpty, part.count >= 2, part.count <= 12 else { return false }
             guard part.range(of: #"^[a-zA-Z*]"#, options: .regularExpression) != nil else { return false }

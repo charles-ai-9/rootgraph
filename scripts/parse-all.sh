@@ -34,6 +34,8 @@ for i in 1 2 3 4 5 6 7 8; do
   fi
 done
 
+python3 "$ROOT/scripts/post-fix-data.py"
+
 python3 "$ROOT/scripts/dedupe-words.py"
 
 python3 << 'PY'
