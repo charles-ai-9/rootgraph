@@ -1,0 +1,276 @@
+{
+  "chapter" : "6",
+  "chapterOrder" : 106,
+  "id" : "termin",
+  "meaningEn" : "an end, a limit, boundary line。含义为“结束；末端；界线；",
+  "roots" : [
+    "termin"
+  ],
+  "semanticLabel" : "an end, a limit, boundary line。",
+  "source" : "textbook-5",
+  "titleZh" : "an end, a limit, boundary line。",
+  "words" : [
+    {
+      "collocations" : [
+        "in the long term \/ in the short term \/ in the medium term：从长远 \/ 短期 \/",
+        "in terms of：从……角度来看",
+        "on good terms \/ on friendly terms：关系好\non one’s terms：按照某人的意愿",
+        "to buy sth on easy terms：按分期付款方式购买",
+        "under the terms of the agreement：根据协议条款",
+        "explain in simple terms：讲得通俗易懂",
+        "come to terms with sth.：迁就顺从；接受（令人不快的事物）",
+        "on your own terms \/ on sb.’s terms：按照自己的条件；根据……的主张\n笔 记 区\n与 term 一样，同样表达术语含义的单词还有 terminology。"
+      ],
+      "definition" : "把……称作 n. 术语；学期；任期；有效期；条款",
+      "etymology" : "term-=end, final point, a limit, boundary line：结束；界限；边界线。原 任期；有效期 作",
+      "examples" : [
+
+      ],
+      "frequency" : 627,
+      "mnemonic" : "始含义是树立在边界上的桩柱→表示界限，一个时期的结束→学期；\nter-：base of words meaning：单词的基础含义+ m→术语；把……称\n来自 term-：边界，终端，引申词义术语，措辞，期限等\nterm的复数形式。引申词义限制条件，特别用于指合同条款，（交易\nterm：术语；把……称作→terms：表达方式；措辞",
+      "phonetic" : "tɜːm",
+      "pos" : "vt.",
+      "rootHint" : "termin",
+      "word" : "term"
+    },
+    {
+      "collocations" : [
+        "environmental terminology：环境术语",
+        "scientific terminology：科学术语",
+        "medical terminology：医学术语\n词根 termin- 表示末端，终点，死亡等含义时，词汇如下："
+      ],
+      "definition" : "某学科术语；专门用语",
+      "etymology" : "术语不仅是（对）语言的使用，也是关于一个科学术语体系的学说 或研究。它在拉丁语言的词源学研究，和自然哲学中得到了广泛的 使用。这个词本身是由terminus演变而来，这个词在中世纪拉丁语中 指的是界石，和logos构成的，当然，后者同时意味着话语、词和理 性。",
+      "examples" : [
+
+      ],
+      "frequency" : 9521,
+      "mnemonic" : "termin-（文字；表达）+ o + -logy（学说；论述）→有关文字表达的\n学说、论述→学科术语；专门用语",
+      "phonetic" : "ˌtɜːmɪˈnɒlədʒɪ",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "terminology"
+    },
+    {
+      "collocations" : [
+        "terminal building：（机场）航站楼",
+        "a railway \/ bus \/ ferry terminal：铁路 \/ 公共汽车终点站；渡船码头",
+        "a terminal patient：晚期病人",
+        "in terminal decline：每况愈下；一蹶不振\n比较：eternal [iˈtə:nəl] adj. 永恒的；无休止的",
+        "the promise of eternal life in heaven：在天国永生的许诺",
+        "eternal arguments：没完没了的争论"
+      ],
+      "definition" : "（疾病）晚期的；致命的；无可挽回的 n. 航空站；终点站；（计算机）终端",
+      "examples" : [
+
+      ],
+      "frequency" : 5864,
+      "mnemonic" : "termin-（=end, final, boundary line：末尾；死亡；终点）+-al（形容词\n后缀）→末端的，终点的→（疾病）晚期的；无可挽回的；航空站；\ne-（出去；远离）+ tern（=term=to + end）+ -al（形容词后缀）→远\n离终结的，不会终结→永恒的；无休止的",
+      "phonetic" : "ˈtɜːmɪn(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "terminal"
+    },
+    {
+      "collocations" : [
+        "terminally ill：病入膏肓"
+      ],
+      "definition" : "致命地",
+      "examples" : [
+
+      ],
+      "frequency" : 14745,
+      "phonetic" : "ˈtə:minəli",
+      "pos" : "adv.",
+      "rootHint" : "termin",
+      "word" : "terminally"
+    },
+    {
+      "collocations" : [
+        "terminate the conversation：结束谈话",
+        "terminate the pregnancy：终止妊娠",
+        "terminate at Lamy：终点站是拉米"
+      ],
+      "definition" : "&vi. 终止；终止（妊娠） vi. （火车或公共汽车）到达终点",
+      "examples" : [
+
+      ],
+      "frequency" : 7311,
+      "mnemonic" : "termin-（=terminal：末端的；终点的）+ -ate（使动词）→使结束，\n使终结→终止；到达终点",
+      "phonetic" : "ˈtɜːmɪneɪt",
+      "pos" : "vt.",
+      "rootHint" : "termin",
+      "word" : "terminate"
+    },
+    {
+      "collocations" : [
+        "lead to the abrupt termination of trade：导致贸易突然终止",
+        "after the termination of a pregnancy：终止妊娠后"
+      ],
+      "definition" : "结束；终止；终止妊娠",
+      "examples" : [
+
+      ],
+      "frequency" : 10241,
+      "phonetic" : "tɜːmɪˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "termination"
+    },
+    {
+      "collocations" : [
+        "an interminable speech \/ wait \/ discussion：无休止的讲话 \/ 等待 \/ 讨论",
+        "an interminable meeting：一次没完没了的会议\n笔 记 区\n词根 termin- 表示边界，界限等含义时，词汇如下："
+      ],
+      "definition" : "冗长的；无休止的",
+      "examples" : [
+
+      ],
+      "frequency" : 17627,
+      "mnemonic" : "in-（不；非）+ termin-（末端；终点）+ -able（形容词后缀）→没有\n终点的→冗长的；无休止的",
+      "phonetic" : "ɪnˈtɜːmɪnəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "interminable"
+    },
+    {
+      "collocations" : [
+        "determine the cooking time：决定烹饪时间",
+        "determine what really happened：查明真相",
+        "determine to rescue his two countrymen：决心要援救他的两位同胞",
+        "Determine 的派生词为 determination, determined, determinant, indeterminate,",
+        "predeter--mined, determinism, interminable 等。"
+      ],
+      "definition" : "决定；查明；使……下定决心",
+      "examples" : [
+
+      ],
+      "frequency" : 774,
+      "mnemonic" : "de-（加强语气）+ -termin-（边界；界限）+ -e→划下界限；明确→决",
+      "phonetic" : "dɪˈtɜːmɪn",
+      "pos" : "vt.",
+      "rootHint" : "termin",
+      "word" : "determine"
+    },
+    {
+      "collocations" : [
+        "fierce \/ grim \/ dogged determination：坚强的 \/ 不屈不挠的 \/ 顽强的决心"
+      ],
+      "definition" : "决心；果断；决定",
+      "examples" : [
+
+      ],
+      "frequency" : 3883,
+      "phonetic" : "dɪˌtɜːmɪˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "determination"
+    },
+    {
+      "collocations" : [
+        "a determined effort to stop smoking：坚决戒烟的努力"
+      ],
+      "definition" : "坚决的；果断的；坚定的",
+      "examples" : [
+
+      ],
+      "frequency" : 6000,
+      "phonetic" : "dɪˈtɜːmɪnd",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "determined"
+    },
+    {
+      "collocations" : [
+        "（N-COUNT）决定因素 A determinant of something causes it to be of a",
+        "particular kind or to happen in a particular way."
+      ],
+      "definition" : "决定因素",
+      "examples" : [
+
+      ],
+      "frequency" : 11307,
+      "phonetic" : "dɪˈtɜːmɪnənt",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "determinant"
+    },
+    {
+      "collocations" : [
+        "carry on for an indeterminate period：在一段不确定的时间内这样继续"
+      ],
+      "definition" : "模糊的；不确定的；难以识别的",
+      "examples" : [
+
+      ],
+      "frequency" : 16777,
+      "mnemonic" : "in-（=not：不）+ determinate（确定的）→不确定的→模糊的；难以",
+      "phonetic" : "ˌɪndɪˈtɜːmɪnət",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "indeterminate"
+    },
+    {
+      "collocations" : [
+        "a predetermined time：预定时间",
+        "a predetermined level of spending：预先确定的开支水平"
+      ],
+      "definition" : "预先确定的",
+      "examples" : [
+
+      ],
+      "frequency" : 15818,
+      "mnemonic" : "pre-（预先）+ determined（决定的）→之前就决定了的→预先确定的",
+      "phonetic" : "ˌpridɪˈtɝmɪnd",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "predetermined"
+    },
+    {
+      "collocations" : [
+        "psychic determinism：心理决定论",
+        "historical determinism：历史决定论"
+      ],
+      "definition" : "决定论（排除自由意志，认为个性或行为均由环境和自己不能控制的因素所决定）",
+      "examples" : [
+
+      ],
+      "frequency" : 19504,
+      "phonetic" : "dɪˈtɜːmɪnɪzəm",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "determinism"
+    },
+    {
+      "collocations" : [
+        "exterminate the rats：消灭这些老鼠",
+        "exterminate weed：除草"
+      ],
+      "definition" : "灭绝；根除",
+      "examples" : [
+
+      ],
+      "frequency" : 18418,
+      "mnemonic" : "ex-（=out of：出去）+ -termin-（=boundary：边界；范围）+ -ate（动\n词后缀）→赶到界限外面；逐出某一范围→灭绝；根除",
+      "phonetic" : "ɪkˈstɜːmɪneɪt;ek-",
+      "pos" : "vt.",
+      "rootHint" : "termin",
+      "word" : "exterminate"
+    },
+    {
+      "collocations" : [
+        "the extermination of mosquito：消灭蚊子",
+        "a list of roach extermination techniques：一系列蟑螂消灭术\nroach=cockroach [ˈkɒkrəʊtʃ] n. 蟑螂 14305"
+      ],
+      "definition" : "消灭；灭绝",
+      "examples" : [
+
+      ],
+      "frequency" : 19516,
+      "phonetic" : "ɪkˌstɜːmɪˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "extermination"
+    }
+  ]
+}

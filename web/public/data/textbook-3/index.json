@@ -1,0 +1,220 @@
+[
+  {
+    "id": "maj",
+    "file": "maj.json",
+    "chapter": "1",
+    "chapterOrder": 101,
+    "titleZh": "大的,伟",
+    "semanticLabel": "大的,伟",
+    "meaningEn": "",
+    "meaningZh": "大的,伟",
+    "roots": [
+      "maj",
+      "max",
+      "mag",
+      "magn"
+    ],
+    "wordCount": 32,
+    "source": "textbook-3"
+  },
+  {
+    "id": "min",
+    "file": "min.json",
+    "chapter": "2",
+    "chapterOrder": 102,
+    "titleZh": "小,最小,来源于词根mei-",
+    "semanticLabel": "小,最小,来源于词根mei-",
+    "meaningEn": "",
+    "meaningZh": "小,最小,来源于词根mei-",
+    "roots": [
+      "min",
+      "mini"
+    ],
+    "wordCount": 30,
+    "source": "textbook-3"
+  },
+  {
+    "id": "itude",
+    "file": "itude.json",
+    "chapter": "3",
+    "chapterOrder": 103,
+    "titleZh": "度，状态",
+    "semanticLabel": "度，状态",
+    "meaningEn": "",
+    "meaningZh": "度，状态",
+    "roots": [
+      "itude"
+    ],
+    "wordCount": 11,
+    "source": "textbook-3"
+  },
+  {
+    "id": "dict",
+    "file": "dict.json",
+    "chapter": "4",
+    "chapterOrder": 104,
+    "titleZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "semanticLabel": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "meaningEn": "",
+    "meaningZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示说",
+    "roots": [
+      "dict"
+    ],
+    "wordCount": 87,
+    "source": "textbook-3"
+  },
+  {
+    "id": "em",
+    "file": "em.json",
+    "chapter": "5",
+    "chapterOrder": 105,
+    "titleZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+    "semanticLabel": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+    "meaningEn": "",
+    "meaningZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mpt 等。",
+    "roots": [
+      "em",
+      "empt",
+      "mpt"
+    ],
+    "wordCount": 32,
+    "source": "textbook-3"
+  },
+  {
+    "id": "spect",
+    "file": "spect.json",
+    "chapter": "6",
+    "chapterOrder": 106,
+    "titleZh": "view",
+    "semanticLabel": "view",
+    "meaningEn": "view,",
+    "meaningZh": "",
+    "roots": [
+      "spect"
+    ],
+    "wordCount": 73,
+    "source": "textbook-3"
+  },
+  {
+    "id": "scopy",
+    "file": "scopy.json",
+    "chapter": "7",
+    "chapterOrder": 107,
+    "titleZh": "",
+    "semanticLabel": "",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "scopy"
+    ],
+    "wordCount": 12,
+    "source": "textbook-3"
+  },
+  {
+    "id": "cal",
+    "file": "cal.json",
+    "chapter": "8",
+    "chapterOrder": 108,
+    "titleZh": "cal",
+    "semanticLabel": "cal",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "cal"
+    ],
+    "wordCount": 6,
+    "source": "textbook-3"
+  },
+  {
+    "id": "claim",
+    "file": "claim.json",
+    "chapter": "9",
+    "chapterOrder": 109,
+    "titleZh": "*kele",
+    "semanticLabel": "*kele",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "claim",
+      "clam",
+      "cla"
+    ],
+    "wordCount": 50,
+    "source": "textbook-3"
+  },
+  {
+    "id": "duct",
+    "file": "duct.json",
+    "chapter": "10",
+    "chapterOrder": 110,
+    "titleZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "semanticLabel": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "meaningEn": "引导，引领的含义，是与单词Iead",
+    "meaningZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "roots": [
+      "duct"
+    ],
+    "wordCount": 62,
+    "source": "textbook-3"
+  },
+  {
+    "id": "viv",
+    "file": "viv.json",
+    "chapter": "11",
+    "chapterOrder": 111,
+    "titleZh": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "semanticLabel": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "meaningEn": "生命，生活,是和单词live",
+    "meaningZh": "生命，生活有关(二 者为同源词汇，含义相同)。",
+    "roots": [
+      "viv"
+    ],
+    "wordCount": 27,
+    "source": "textbook-3"
+  },
+  {
+    "id": "bio",
+    "file": "bio.json",
+    "chapter": "12",
+    "chapterOrder": 112,
+    "titleZh": "生命；生物(因为b 、v音似),于是有",
+    "semanticLabel": "生命；生物(因为b 、v音似),于是有",
+    "meaningEn": "生命；生物(因为b 、v音似),于是有",
+    "meaningZh": "",
+    "roots": [
+      "bio"
+    ],
+    "wordCount": 23,
+    "source": "textbook-3"
+  },
+  {
+    "id": "zoo",
+    "file": "zoo.json",
+    "chapter": "13",
+    "chapterOrder": 113,
+    "titleZh": "",
+    "semanticLabel": "",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "zoo"
+    ],
+    "wordCount": 1,
+    "source": "textbook-3"
+  },
+  {
+    "id": "quick",
+    "file": "quick.json",
+    "chapter": "14",
+    "chapterOrder": 114,
+    "titleZh": "quick",
+    "semanticLabel": "quick",
+    "meaningEn": "",
+    "meaningZh": "",
+    "roots": [
+      "quick"
+    ],
+    "wordCount": 8,
+    "source": "textbook-3"
+  }
+]

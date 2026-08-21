@@ -1,0 +1,3848 @@
+{
+  "id": "ev",
+  "source": "textbook-4",
+  "chapter": "3",
+  "chapterOrder": 103,
+  "titleZh": "an age, 其",
+  "semanticLabel": "an age, 其",
+  "meaningEn": "an age”, 其含义为 vital force,life;long life,",
+  "meaningZh": null,
+  "roots": [
+    "ev"
+  ],
+  "words": [
+    {
+      "word": "ever-changing",
+      "phonetic": "'eva tfendʒŋ",
+      "pos": "adj.",
+      "definition": "adj. 千变万化的",
+      "frequency": 15647,
+      "mnemonic": "ever (在任何时候)+green ( 绿色) →在任何时候都是绿色 → 常青 树；常绿的\never ( 愈 发 ) +increasing ( 越来越多的) → 不断增长的\never (任何时候)+ last ( 持 续 ) + -ing ( 形容词后缀) →任何时候都 持续的→永久的；永恒的\never (任何时候)+present ( 存在的)→任何时候都存在的→无处不 在的；无时无刻不在的as ever: 一如既往",
+      "collocations": [
+        "ever-changing business environment: 不断变化的商业环境evergreen ['evəgri:n] n. 常青树；常绿植物adj. 常绿的11010",
+        "evergreen shrubs: 常青灌木evergreen forest: 常绿林ever-increasing ['evs in'krisiŋ] adj. 不断增长的16652",
+        "ever-increasing vocabulary 不断增加的词汇everlasting [evə'la:strŋ] adj. 永久的；永恒的；持续过长的17745",
+        "everlasting life/love: 永生；永恒的爱ever-present ['evə,prezənt] adj. 无处不在的；无时无刻不在的16294",
+        "ever-changing business environment: 不断变化的商业环境"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "evergreen",
+      "phonetic": "'evəgri:n",
+      "pos": "n.",
+      "definition": "常青树；常绿植物adj. 常绿的",
+      "frequency": 11010,
+      "mnemonic": "ever (在任何时候)+green ( 绿色) →在任何时候都是绿色 → 常青 树；常绿的",
+      "collocations": [
+        "evergreen shrubs: 常青灌木",
+        "evergreen forest: 常绿林"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "ever-increasing",
+      "phonetic": "'evs in'krisiŋ",
+      "pos": "adj.",
+      "definition": "不断增长的",
+      "frequency": 16652,
+      "mnemonic": "ever ( 愈 发 ) +increasing ( 越来越多的) → 不断增长的",
+      "collocations": [
+        "ever-increasing vocabulary 不断增加的词汇"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "everlasting",
+      "phonetic": "evə'la:strŋ",
+      "pos": "adj.",
+      "definition": "永久的；永恒的；持续过长的",
+      "frequency": 17745,
+      "mnemonic": "ever (任何时候)+ last ( 持 续 ) + -ing ( 形容词后缀) →任何时候都 持续的→永久的；永恒的",
+      "collocations": [
+        "everlasting life/love: 永生；永恒的爱"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "ever-present",
+      "phonetic": "'evə,prezənt",
+      "pos": "adj.",
+      "definition": "无处不在的；无时无刻不在的",
+      "frequency": 16294,
+      "mnemonic": "ever (任何时候)+present ( 存在的)→任何时候都存在的→无处不 在的；无时无刻不在的",
+      "collocations": [
+        "an ever-present problem: 一个经常存在的问题"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "never",
+      "phonetic": "'nevə",
+      "pos": "adv.",
+      "definition": "从不；永不；决不；没有",
+      "frequency": 138,
+      "mnemonic": "never ( 永 不 ) +ending ( 休止的) → 永无休止的",
+      "collocations": [
+        "never ever:(Never ever) 是 ( neve r) 的强调说法 never-ending ['nevə rendiŋ] adj. 永无休止的14260",
+        "a never-ending task: 没完没了的活儿"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "nevertheless",
+      "phonetic": "nevəðə'les",
+      "pos": "adv.",
+      "definition": "尽管如此；不过；然而",
+      "frequency": 2605,
+      "mnemonic": "never+the+less→none the less,yet, 表转折",
+      "collocations": [],
+      "etymology": null,
+      "examples": [
+        "Our defeat was expected but it is disappointing nevertheless.\n我们的失败是意料中的事，尽管如此，还是令人失望。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "age",
+      "phonetic": "eid3",
+      "pos": "vt.",
+      "definition": "&vi.使显老n. ( 人的)年龄；(物的)年代；时代",
+      "frequency": 387,
+      "mnemonic": null,
+      "collocations": [
+        "grow wiser with age: 随着年龄的增长变得更睿智了",
+        "at the age of: 在……岁"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "aged",
+      "phonetic": "'erd31d",
+      "pos": "adj.",
+      "definition": "岁数为……的；年迈的n. 老年人",
+      "frequency": 8644,
+      "mnemonic": null,
+      "collocations": [
+        "an aged parent: 年迈的父亲/母亲"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "age-old",
+      "phonetic": "'eidʒəuld",
+      "pos": "adj.",
+      "definition": "( 故事、传统、问题等)存在了数世纪的",
+      "frequency": 13868,
+      "mnemonic": null,
+      "collocations": [
+        "age-old struggle for: 由来已久的对……的争夺"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "age-related",
+      "phonetic": "erd3 r'lertid",
+      "pos": "adj.",
+      "definition": "与年龄相关的",
+      "frequency": 19047,
+      "mnemonic": "age ( 年 龄 ) +related ( 相关的) → 与年龄相关的",
+      "collocations": [
+        "closely related: 紧密相连的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "eon",
+      "phonetic": "'i:an",
+      "pos": "n.",
+      "definition": "漫长的时期；千万年",
+      "frequency": 17818,
+      "mnemonic": null,
+      "collocations": [
+        "aeons of geological history: 数以亿万年计的地质史",
+        "aeon Chronicler: 亘古纪年者"
+      ],
+      "etymology": "1640s,from Late Latin aeon,from Greek aiōn “age,vital force;a period of existence,a lifetime,a generation;a long space of time,\"in plural, \"eternity,\"from PIE root *aiw-“vital force,life,long life,eternity.” Related:Eonian;eonic.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "eternal",
+      "phonetic": "r't3:n(ə)l;i:-",
+      "pos": "adj.",
+      "definition": "永恒的；无休止的",
+      "frequency": 5700,
+      "mnemonic": null,
+      "collocations": [
+        "the quest for eternal youth: 对永远年轻的追求",
+        "eternal life: 永恒"
+      ],
+      "etymology": "late 14c.,from Old French eternel “eternal,”or directly from Late Latin aeternalis,from Latin aeternus \"of an age,lasting,enduring,permanent, everlasting,endless,\"contraction of aeviternus \"of great age,\"from aevum “age”.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "eternally",
+      "phonetic": "i'ts:n(a)I ; I-",
+      "pos": null,
+      "definition": "永恒地",
+      "frequency": 16049,
+      "mnemonic": null,
+      "collocations": [
+        "be eternally grateful to: 对……永存感激"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "eternity",
+      "phonetic": " i'ts:nti",
+      "pos": "n.",
+      "definition": "永恒；永存；极长的时间",
+      "frequency": 8533,
+      "mnemonic": null,
+      "collocations": [
+        "continue for an eternity: 持续了极长的时间"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "longevity",
+      "phonetic": "lon'dʒevit",
+      "pos": "n.",
+      "definition": "寿命；长寿，长命",
+      "frequency": 9055,
+      "mnemonic": "long (长)+ -ev-(=age: 年纪，寿命；g,v 音似)+-ity ( 名词后缀) →寿命变长→长寿；寿命",
+      "collocations": [
+        "longevity hill: 万寿山(北京密云)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "primeval",
+      "phonetic": "prar'mi:v(a)l",
+      "pos": "adj.",
+      "definition": "太古的；原始的；远古的；(情感)原始的；基本的；不假思索的(等于primaeval)19306",
+      "frequency": null,
+      "mnemonic": "prim-(=first: 最初的)+-ev-(=an age: 时代)+-al ( 形容词后缀)\n→early in life: 原始的；远古的→ 引申义为原始的，基本的情感 搭配：the dense primaeval forests: 茂密的原始森林",
+      "collocations": [
+        "primaeval world: 原古世界",
+        "a primaeval urge: 原始冲动"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "medieval",
+      "phonetic": ",medr'ivl",
+      "pos": "adj.",
+      "definition": "中世纪的(约公元1000到1450年)5130",
+      "frequency": null,
+      "mnemonic": "medi-(=mid-: 中间)+-ev- (时期；年代)+-al ( 形容词后缀) → 中\n间时代的→ 中世纪的",
+      "collocations": [
+        "a medieval castle: 一座中世纪的城堡",
+        "medieval period: 中世纪时期"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "utopia",
+      "phonetic": "ju:'toupiə",
+      "pos": "n.",
+      "definition": "理想社会；乌托邦(理想中最美好的社会)14956",
+      "frequency": null,
+      "mnemonic": "希腊文ou ‘not,no' ( 没 有 ) 和topos ‘place' ( 地方)两字组成的，意 思是no place或nowhere, 即“乌有之乡”,汉语一般音译为“乌托 邦”,常作为“空想”的同义语或喻指\"理想国”、\"理想的社 会”、“空想的社会改良计划”等。",
+      "collocations": [],
+      "etymology": "乌托邦( Utopia) 本意是“没有的地方”或者“好地方”。延伸为不 可能完成的好事情，其中文翻译也可以理解为“乌”是没有，\"托” 是寄托，“邦”是国家，“乌托邦”三个字合起来的意思即为“空想 的国家”。原提出者是古希腊哲学家柏拉图。空想社会主义的创始人 英国人托马斯 ·莫尔在他的名著《乌托邦》中虚构了一个航海家—— 拉斐尔 ·希斯拉德航行到一个奇乡异国“乌托邦”的旅行见闻。在那 里，财产是公有的，人民是平等的，实行着按需分配的原则。他认 为，私有制是万恶之源，必须消灭它。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "hygiene",
+      "phonetic": "'hardzi:n",
+      "pos": "n.",
+      "definition": "卫生",
+      "frequency": 11094,
+      "mnemonic": null,
+      "collocations": [
+        "food hygiene: 食品卫生",
+        "oral hygiene: 口腔卫生"
+      ],
+      "etymology": "1670s,from French hygiene,ultimately from Greek hygieine techne “the healthful art,\"from hygies \"healthy,sound,hearty,\"literally “living well” (personified as the goddess Hygieia),from PIE *eyu-gwie-es-\"having a vigorous life.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "no",
+      "phonetic": "nəu",
+      "pos": "adv.",
+      "definition": "(用于否定回答)不；没有；(用于拒绝建议、请求或许可) 不行；(表示禁止)不要",
+      "frequency": 93,
+      "mnemonic": null,
+      "collocations": [
+        "there is no doing: 不可能做某事",
+        "no smoking: 禁止吸烟"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "no-fly",
+      "phonetic": "nəu flar",
+      "pos": "adj.",
+      "definition": "禁飞的",
+      "frequency": 19684,
+      "mnemonic": null,
+      "collocations": [
+        "no-fly area: 禁飞区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "nay",
+      "phonetic": "ner",
+      "pos": "adv.",
+      "definition": "否决；反对；不",
+      "frequency": 19010,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "naysayer",
+      "phonetic": "'neiserə",
+      "pos": "n.",
+      "definition": "否定者；老是唱反调的人",
+      "frequency": 20188,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "every",
+      "phonetic": "'evri",
+      "pos": "adj.",
+      "definition": "&det.每个；每个的；(时间段)每隔……的；(一定数目 中)每……之中的；全部的",
+      "frequency": 172,
+      "mnemonic": null,
+      "collocations": [
+        "every now and then/every now and again/every once in a while/every so often: 不时；间或",
+        "every other day/every second day: 每隔(一天、一周等)",
+        "every third week/every fourth year: 每隔三周/每隔四天",
+        "every 的同义词是per。",
+        "pe r [ps:] prep. ( 用来表示比率、比例等)每，每一；依照； 依据669",
+        "….$6 per week for lunch: ……每周$6吃午饭",
+        "per capita: 人均\nas per: 按照，依据；如同",
+        "as per instructions: 按照指示",
+        "be paid as per the agreemen. … : 工资依照协议发放",
+        "par 与per 形似。",
+        "pa r [pa:] n. [高尔夫球的](一洞或全部洞的)标准杆数；[股票]平价；票面 价值5890",
+        "below par/under par: 不符合标准的",
+        "up to par: 达到标准的；合格的",
+        "feel below par/under par: 不在状态；感觉不如平常好",
+        "par forthe course: ( 不快之事)不出所料；在意料之中",
+        "on a par with: 与……同样；与……相似",
+        "a par five hole: 五标准杆的洞",
+        "Par for the course is 72: 一场球的标准杆数是72杆",
+        "to be redeemed at par: 以面值兑换\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区 everybody ['evribpdi] pron .人人；每个人803"
+      ],
+      "etymology": "\"by,for,\"mid-13c.,from Old French par,per,from Latin per",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "everyday",
+      "phonetic": "'evrider;-'der",
+      "pos": "adj.",
+      "definition": "日常的",
+      "frequency": 3319,
+      "mnemonic": null,
+      "collocations": [
+        "everyday life: 日常生活"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "everyone",
+      "phonetic": "'evriwʌn",
+      "pos": "pron.",
+      "definition": "(某群体中的)所有人；人人",
+      "frequency": 530,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "everywhere",
+      "phonetic": "'evriweə",
+      "pos": "adv",
+      "definition": "adv . (某区域内的)所有地方；到处；遍地(强调在 某地数量之多)1953",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "see her pictures everywhere: 到处看到她的照片each [i:tʃ] pron.&adv.&quant 每；每个；每个地；每一个192",
+        "each other: 相 互each one of: 每个 Prove含义为证明，证实。其派生词有proven,proof,waterproof,foolproof, approve,approval,approved,approvingly,disprove,disapprove,disapproving, disapproval等。everything ['evriθrŋ] pron. ( 某种情形中的)每件事物；所有事物；至关重 要的事物390",
+        "see her pictures everywhere: 到处看到她的照片"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "each",
+      "phonetic": "i:tʃ",
+      "pos": "pron.",
+      "definition": "&adv.&quant 每；每个；每个地；每一个",
+      "frequency": 192,
+      "mnemonic": null,
+      "collocations": [
+        "each other: 相 互",
+        "each one of: 每个",
+        "Prove含义为证明，证实。其派生词有proven,proof,waterproof,foolproof, approve,approval,approved,approvingly,disprove,disapprove,",
+        "disapproving, disapproval等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "prove",
+      "phonetic": "pru:v",
+      "pos": "vt.",
+      "definition": "证明；证实；显示出是",
+      "frequency": 869,
+      "mnemonic": "late 12c.,pruven,proven “to try,test;evaluate;demonstrate,”from Old French prover,pruver \"show;convince;put to the test\"(11c.,Modern French prouver),from Latin probare “to make good;esteem,represent as good;make credible,show,demonstrate;test,inspect;judge by trial” (source also of Spanish probar,Italian probare),from probus \"worthy, good,upright,virtuous,\" from PIE*pro-bhwo-\"being in front”.\npro-(=forward: 向前)+ve(=to be)→向前(向众人)证明是 → 证 明；证实；显示出是",
+      "collocations": [
+        "prove a point: 证明自己的能力(或知识)",
+        "prove to be a success: 证明很成功",
+        "prove yourself/prove something (to sb): (向某人)展现；展示；证明 (自己的实力)"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "proven",
+      "phonetic": "'pru:vən",
+      "pos": "v.",
+      "definition": "被证实的；经验证的",
+      "frequency": 7860,
+      "mnemonic": "prov-(=prove: 验证；证实)+ -en ( 形容词后缀) → 被证实的；经 验证的",
+      "collocations": [
+        "a player of proven ability: 确有才华的运动员",
+        "a proven fact: 已证明的事实"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "proof",
+      "phonetic": "pru:f",
+      "pos": "n.",
+      "definition": "证明；证据；校样；(数学)验算；验证 adj. 能抵抗/防御 某物 vt.把(某材料)作防水[油]处理；校对，校阅",
+      "frequency": 2887,
+      "mnemonic": "来自prove的名词形式，拼写比较believe→belief",
+      "collocations": [
+        "scientific proof: 科学证据",
+        "be proof against most weapons: 可以抵挡大多数武器的攻击",
+        "climbing gear proofed against water: 经防水处理的登山用具"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "waterproof",
+      "phonetic": "'wɔ:topru:f",
+      "pos": "adj.",
+      "definition": "防水的；不透水的n. 防水衣物；雨衣",
+      "frequency": 12307,
+      "mnemonic": "water ( 水 ) + -proof ( 防……的) → 防水的；雨衣",
+      "collocations": [
+        "a waterproofjacket: 防水上衣",
+        "a waterproofed sack: 不透水的袋子",
+        "waterproof paint: 防水涂料；防水漆"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "foolproof",
+      "phonetic": "'fu:lpru:f",
+      "pos": "adj.",
+      "definition": "( 方法、计划、系统等)十分简单的；容易操作 的；万无一失的",
+      "frequency": 19321,
+      "mnemonic": "fool ( 傻 瓜 ) +-proof ( 防止) → 能够防止傻瓜犯错误的(方法、计 划、系统等)→ (方法、计划、系统等)十分简单的；容易操作的； 万无一失的",
+      "collocations": [
+        "a foolproof plan: 一个周全的方案"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "approve",
+      "phonetic": "ə'pru:v",
+      "pos": "vt.",
+      "definition": "批准；认可 vi. 赞成；同意 vt. 使(废品或公共土地)升值",
+      "frequency": 2070,
+      "mnemonic": "ap- (= ad-=to:去 ) +prove ( 证明) →regard or assent to(something) as good or superior;commend;endorse,confirm formally: 对……表示 同意，认可(即“证明……可行”)→批准；认可；赞同",
+      "collocations": [
+        "approve of her marriage: 认可她的婚姻 approve a proposal: 通过了提议",
+        "approve of cosmetic surgery: 赞同整型手术",
+        "In September the U.S.House of Representatives the delightfully named No Child Left Inside Act to encourage public initiatives aimed at exposing kids to the outdoors.",
+        "A)relieved B)delegated C)approved D)performed\n解析：原文翻译“9月，美国众议院通过了一项让人听到名字就为之高兴的 法案《不让孩子留在室内》,该法案旨在鼓励公众带孩子到室外活 动的积极性”,因此选C,approve: 通过；A: 减轻，缓解；B: 代 表；D: 执行，实施"
+      ],
+      "etymology": null,
+      "examples": [
+        "I could see that my wife was intent on having that fur coat,whether I approved of it or not.\n可以看出来，我的妻子一心想要买那件皮衣，不管我同不同意。",
+        "很多家长一心想让孩子去参加艺术培训班，不管他们同不同意。 A great many/A large number of/A large body of parents are intent9 on sending/committing their kids to art classes,whether they approve it or not."
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "approval",
+      "phonetic": "ə 'pru:v(a)l",
+      "pos": "n.",
+      "definition": "赞同；赞赏；批准",
+      "frequency": 2572,
+      "mnemonic": "ap-(=ad-: 来；临近)+-prov-(=to test: 验证)+ -al ( 名词后缀) →赞同；赞赏；批准",
+      "collocations": [
+        "win congressional approval for: 赢得国会的赞同",
+        "gain his father's approval: 得到父亲的赞赏\n选20000词汇巅峰\n选\nthe approval of new drugs: 新药的审批secure the approval of every victim's family: 取得每一位受害者家人 的同意一般情况下，以-al结尾多表示形容词，偶尔可做名词用，比如：dispose: 处理，对付( v.)→disposal: 处理，应对( n.)propose: 提议，提出( v.)→proposal: 提议，提案( n.)笔 记 区",
+        "the approval of new drugs: 新药的审批",
+        "secure the approval of every victim's family: 取得每一位受害者家人 的同意\n一般情况下，以-al结尾多表示形容词，偶尔可做名词用，比如：\ndispose: 处理，对付( v.)→disposal: 处理，应对( n.)\npropose: 提议，提出( v.)→proposal: 提议，提案( n.)\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "approved",
+      "phonetic": "ə'pru:vd",
+      "pos": "adj.",
+      "definition": "(方法或行为)被正式认可的；核准的",
+      "frequency": 10334,
+      "mnemonic": "approve (批准；认可)+-d ( 形容词后缀) →被正式认可的；核准的",
+      "collocations": [
+        "approved courses/budget: 已经核准的课程/预算"
+      ],
+      "etymology": "含义等于tried,tested;experienced,expert;reliable,effective,trustworthy",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "approvingly",
+      "phonetic": "əp'ruvinli",
+      "pos": "adv.",
+      "definition": "( 反应、话语等)表示赞许地；表示嘉许地",
+      "frequency": 19285,
+      "mnemonic": "approve (批准；赞同)+-ing ( 形容词后缀)+-1y ( 副词后缀) → (反应、话语等)表示赞许地；表示嘉许地",
+      "collocations": [
+        "speak approvingly: 赞成地说"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "disprove",
+      "phonetic": "dis'pru:v",
+      "pos": "vt.",
+      "definition": "证明(想法、信念或理论)为误",
+      "frequency": 16496,
+      "mnemonic": "dis-(=dis-: 表示否定)+prove(=show;convince;put to the test:\n证明；使确信；证实) →prove to be false or erroneous: 证明(想法、 信念或理论)为误",
+      "collocations": [
+        "disprove his hypothesis: 推翻他的假设"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "disapprove",
+      "phonetic": "drsə'pru:v",
+      "pos": "vt.",
+      "definition": "不赞同；反对",
+      "frequency": 10937,
+      "mnemonic": "dis- (= lack of,not: 缺少；不)+approve (批准；同意) → 不赞 同；反对",
+      "collocations": [
+        "strongly disapprove of her behavior: 极不赞同她的行为 disapprove the sale: 不同意这一出售计划"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "disapproving",
+      "phonetic": ",diso'pru:viŋ",
+      "pos": "adj.",
+      "definition": "不赞同的；不喜欢的",
+      "frequency": 19409,
+      "mnemonic": "笔 记 区 助记：dis-(=lack of,not: 缺少；不)+approving ( 满意的；赞许的) → 不",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "disapproval",
+      "phonetic": "disə'pru:vl",
+      "pos": "n.",
+      "definition": "n. 不赞成；反对",
+      "frequency": 10617,
+      "mnemonic": "dis-(缺少；不)+approval ( 赞同；批准) →不赞成；反对",
+      "collocations": [
+        "strong disapproval of: 对……强烈不满 Probe 含义为调查，搜索，其派生词有probing, probation, probable, probably, probability 等 。probe [prəub] vt. 调查；搜索vi. 用探针探查 n. 调查；探针5241",
+        "a disapproving look: 不赞同的眼神",
+        "strong disapproval of: 对……强烈不满",
+        "Probe 含义为调查，搜索，其派生词有probing, probation, probable, probably, probability 等 。"
+      ],
+      "etymology": "early 15c.,\"instrument for exploring wounds,etc.,\"also \"an examination,\"from Medieval Latin proba \"examination,\"in Late Latin “a test,proof,” from Latin probare “show,demonstrate;test,inspect;judge by trial”. Meaning \"act of probing\"is 1890,from the verb;figurative sense of \"penetrating investigation\"is from 1903.Meaning \"small,unmanned exploratory craft\"is attested from 1953.助记1: pro-(=to test,inspect: 试验；调查)+-be ( 存在；事实) →检验、调查事实真相→调查；搜索；探针助记2: prob-(=prove: 证明；检验)→探究；探查(都是为了“证明”是",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probe",
+      "phonetic": "prəub",
+      "pos": "vt.",
+      "definition": "调查；搜索vi. 用探针探查 n. 调查；探针",
+      "frequency": 5241,
+      "mnemonic": "调查事实真相→调查；搜索；探针",
+      "collocations": [
+        "from Medieval Latin proba \"examination,\"in Late Latin “a test,proof,” from Latin probare “show,demonstrate;test,inspect;judge by trial”. Meaning \"act of probing\"is 1890,from the verb;figurative sense of \"penetrating investigation\"is from 1903.Meaning \"small,unmanned exploratory craft\"is attested from 1953.",
+        "probe for understanding: 寻求理解",
+        "probe into corruption: 调查腐败",
+        "a fibre-optic probe: 一根光纤探针",
+        "probe the underbrush: 搜索了低矮灌丛"
+      ],
+      "etymology": "early 15c.,\"instrument for exploring wounds,etc.,\"also \"an examination,\"",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probing",
+      "phonetic": "'prəubɪŋ",
+      "pos": "adj.",
+      "definition": "探究的；追根究底的；(观察)专注敏锐的；仔细观察的",
+      "frequency": 12305,
+      "mnemonic": "probe (调查；搜索)+-ing ( 形容词后缀) →探究的；追根究底的； 专注敏锐的",
+      "collocations": [
+        "probing questions: 盘根究底的问题his probing eyes: 他专注探究的眼神gas probing: 天然气探测笔 记 区",
+        "probing questions: 盘根究底的问题",
+        "his probing eyes: 他专注探究的眼神",
+        "gas probing: 天然气探测\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probation",
+      "phonetic": "prə'beɪʃ(ən",
+      "pos": "n.",
+      "definition": "缓刑期；试用期",
+      "frequency": 7315,
+      "mnemonic": "probe(=to test: 测 试 )+-ation ( 名词后缀) →testing of a person's conduct; trial: 测试(罪犯；新入职员工)行为的时期；试验期 →缓 刑期；试用期",
+      "collocations": [
+        "on probation: 服缓刑",
+        "a term of probation of 6 months:6个月试用期"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probable",
+      "phonetic": "'probəb(a)l",
+      "pos": "adj.",
+      "definition": "可能存在的；大概的 n. 很有可能入选的人；很有可能获胜的人",
+      "frequency": 6881,
+      "mnemonic": "prob-(=prove: 证实)+ -able ( 形容词词缀) →provable: 可证明 的 ；worthy of approval: 值得赞赏的人→可能存在的；很有可能入 选的人",
+      "collocations": [
+        "the probable cause/explanation/outcome: 可能的原因/解释/结果"
+      ],
+      "etymology": "late 14c.,from Old French probable “provable,demonstrable”(14c.),from Latin probabilis “worthy of approval,pleasing,agreeable,acceptable; provable,that may be assumed to be believed,credible”.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probably",
+      "phonetic": "'prpbəbli",
+      "pos": "adv.",
+      "definition": "可能(为事实)地；可能(用以缓和语气)399",
+      "frequency": null,
+      "mnemonic": "probable (可能存在的；大概的)+-ly ( 副词后缀) → 可能(为事 实)地；可能(用以缓和语气)",
+      "collocations": [
+        "probably the best-known painter: 可能是最知名的画家"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "probability",
+      "phonetic": "probə'brlitr",
+      "pos": "n.",
+      "definition": "可能性；很可能发生的事；概率",
+      "frequency": 5170,
+      "mnemonic": "probable (可能的)+-ity ( 名词后缀) →可能性；很可能发生的事 → 引申词义概率",
+      "collocations": [
+        "a strong probability: 大有可能",
+        "a 60% probability: 概率为60%"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expert",
+      "phonetic": "e'ksps:t",
+      "pos": "n.",
+      "definition": "专家adj. 技术娴熟的；行家的；专业的",
+      "frequency": 902,
+      "mnemonic": "ex-(=out of: 出 来 ) + -pert-(=experienced,tested: 经过试验的；经\n过尝试的)+t→通过反复试验而成为的→专家；行家的 搭配：a yoga expert: 瑜伽大师",
+      "collocations": [
+        "be expert in: 在……方面很在行",
+        "an expert opinion: 专家意见"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expertly",
+      "phonetic": "'ekspətli",
+      "pos": "adv.",
+      "definition": "熟练地",
+      "frequency": 15897,
+      "mnemonic": "expert ( 技术娴熟的；行家的)+-ly ( 副词后缀) → 熟练地",
+      "collocations": [
+        "expertly utilize the new medium: 熟练地运用多媒体"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expertise",
+      "phonetic": ",eksps:'ti:z",
+      "pos": "n.",
+      "definition": "专业技能；专业知识",
+      "frequency": 3936,
+      "mnemonic": "expert ( 专家；熟练的)+-ise ( 名词词缀，成为……状态) →专门 的，熟练的东西→专长；特长；专业知识",
+      "collocations": [
+        "lack the expertise to deal sensibly in this market: 缺乏合理应对这个市 场的专门知识",
+        "technical expertise: 专业技术\n表示经验，根据经验的，实验等含义的单词有experience,empirical, experiment 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experience",
+      "phonetic": "ik'sprərrons",
+      "pos": "n.",
+      "definition": "经验；阅历；感受vt.经历；感受",
+      "frequency": 421,
+      "mnemonic": "ex-(=out of: 出 来 ) +peri-(=to try,to test: 尝试；实验)+-ence ( 名\n词后缀)→通过已经尝试或实验得出来的东西→经验；阅历；感受 搭配：experience more distress: 感受更多的痛苦",
+      "collocations": [
+        "managerial experience: 管理经验\n速笔 记 区20000词汇巅峰\n速\n笔 记 区",
+        "experience 的派生词有e xperienced,inexperience,inexperienced, experiential等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experienced",
+      "phonetic": "ik'sprərionst",
+      "pos": "adj.",
+      "definition": "有经验的；老练的",
+      "frequency": 4379,
+      "mnemonic": "experience ( 经 验 ) +d ( 形容词后缀) →有经验的；老练的",
+      "collocations": [
+        "experienced and mature professionals: 经验丰富的，成熟的专家队伍"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "inexperience",
+      "phonetic": "inik'spiəriəns;inek-",
+      "pos": "n.",
+      "definition": "缺乏经验",
+      "frequency": 18160,
+      "mnemonic": "in-(=not,opposite of: 不；相反)+experience ( 经验) → 缺乏经验",
+      "collocations": [
+        "the youth and inexperience of his staff: 员工年轻且缺乏经验"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "inexperienced",
+      "phonetic": "inrk'spironst",
+      "pos": "adj.",
+      "definition": "缺乏经验的",
+      "frequency": 10895,
+      "mnemonic": "inexperience (缺乏经验)+-d ( 形容词后缀) →缺乏经验的",
+      "collocations": [
+        "inexperienced young doctors: 缺乏经验的年轻医生"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experiential",
+      "phonetic": "ik,sprorr'entʃ(a)l;ek-",
+      "pos": "adj.",
+      "definition": "经验的；来自经验的",
+      "frequency": 14212,
+      "mnemonic": "experience ( 经验)+-al ( 名词后缀) →knowledge gained by testing or trials: 根据经验的出来的→经验的；来自经验的",
+      "collocations": [
+        "experiential knowledge: 由经验得来的知识"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "empirical",
+      "phonetic": "em'pirik(a)l;im- ",
+      "pos": "adj.",
+      "definition": "以经验为依据的；根据经验的",
+      "frequency": 5356,
+      "mnemonic": "empiri(=experience: 经验)+c ( 无意义)+-al ( 形容词后缀) → 在事情里面积累经验的；通过实践证明的→ 以经验为依据的；经验 主义的",
+      "collocations": [
+        "empirical evidence/knowledge/research: 实践经验的证明；从实际经验 中获得的知识；以实验为基础的研究",
+        "a purely empirical approach: 一个纯经验主义的方法 释义：( ADJ) 经验主义的；以经验为依据的",
+        "Empirical evidence or study relies on practical experience rather than theories.\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "empirically",
+      "phonetic": "m'prrikli",
+      "pos": "adv.",
+      "definition": "以经验为主地",
+      "frequency": 13229,
+      "mnemonic": "empirical (以经验为依据的)+-ly ( 副词后缀) → 以经验为主地",
+      "collocations": [
+        "be empirically tested: 已根据经验检验地"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experiment",
+      "phonetic": "ik'sperim(a)nt;ek-",
+      "pos": "n.",
+      "definition": "实验；尝试 vi.做实验； 尝试",
+      "frequency": 2004,
+      "mnemonic": "ex-(=out of: 出 来 ) + peri-(=to try,test: 实验；尝试)+-ment ( 名 词后缀) → 实验；尝试\nexperiment ( 实验；尝试)+-al ( 形容词后缀) →试验性的；实验的",
+      "collocations": [
+        "start experimenting with peas: 开始用豌豆做实验",
+        "Experiment 的派生词有experimental,experimentally,experimentation, experimenter 等 。",
+        "experimenta l [ik,sperr'ment(3)l;ek-] adj. 试验性的；实验的3489",
+        "an experimental air-conditioning system: 一种试验性的空调系统 experimental science: 实验科学"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experimentally",
+      "phonetic": "rk,sperə'mentli",
+      "pos": "adv.",
+      "definition": "实验(性)地；作为试验地；试探 (性)地",
+      "frequency": 16977,
+      "mnemonic": "experimental (试验性的；实验的)+-ly ( 副词后缀) → 实验(性) 地；作为试验地；试探(性)地",
+      "collocations": [
+        "data obtained experimentally: 实验获得的数据",
+        "move his shoulder experimentally: 试着活动肩膀"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experimentation",
+      "phonetic": "ik,sperimen'terʃən",
+      "pos": "n.",
+      "definition": "实验；试验；(性体验或吸毒等的) 尝试",
+      "frequency": 9205,
+      "mnemonic": "experiment ( 实验；尝试)+-ation ( 名词后缀) →实验；试验；尝试",
+      "collocations": [
+        "animal experimentation: 动物实验",
+        "field experimentation: 现场实验\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "experimenter",
+      "phonetic": "ik'sperɔ,ments",
+      "pos": "n.",
+      "definition": "实验者；试验者",
+      "frequency": 13059,
+      "mnemonic": "experimen t ( 实验；试验)+-er ( 名词后缀，表示人) → 实验者； 试验者",
+      "collocations": [
+        "a human experimenter: 一个人类的实验者",
+        "fear,peri l,panic” 分别表示“害怕；危险；惊慌”。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fear",
+      "phonetic": "fiə",
+      "pos": "n.",
+      "definition": "害怕；担忧；(发生坏事的)可能性 vt. 害怕；担心 vi. 担心",
+      "frequency": 988,
+      "mnemonic": "词根为per-: 尝试 → 由尝试引申词义(因为尝试未知事物而带来的) 风险，害怕→害怕；担忧",
+      "collocations": [
+        "be motivated by fear of failure: 因担心失败而被激发",
+        "in fear of: 在对……的担心中；在对……的恐惧中",
+        "for fear of: 惟恐；以免",
+        "fear 的派生词有fearful,fearles s,fearsome ,formidable 等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fearful",
+      "phonetic": "'fiaful;-f(a)l",
+      "pos": "adj.",
+      "definition": "害怕的；极严重的；极糟糕的",
+      "frequency": 6291,
+      "mnemonic": "fear (害怕；担忧)+-ful ( 形容词后缀) → 害怕的；极严重的；极 糟糕的",
+      "collocations": [
+        "fearful ofan attack: 担心遭到袭击",
+        "be fearful of a world banking crisis: 害怕会有一场世界性的银行业危机",
+        "a fearful recession: 极严重的经济衰退"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fearless",
+      "phonetic": "'fiəlis",
+      "pos": "adj.",
+      "definition": "无畏的",
+      "frequency": 11796,
+      "mnemonic": "fear (害怕)+ -less ( 否定后缀) → 无畏的",
+      "collocations": [
+        "a fearless mountaineer: 无畏的登山运动员",
+        "a fearless explorer: 一个无畏的探险者"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fearsome",
+      "phonetic": "'fios(a)m",
+      "pos": "adj.",
+      "definition": "可怕的；骇人的；令人生畏的",
+      "frequency": 15290,
+      "mnemonic": "笔 记 区助记：fear ( 害怕)+-some(=causing: 导致) →令人生畏的",
+      "collocations": [
+        "a fearsome array of weapons: 一大批令人生畏的武器"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "formidable",
+      "phonetic": "'fɔ:midab(a)l;fɔ:'mid-",
+      "pos": "adj.",
+      "definition": "可怕的；令人敬畏的；难对付的",
+      "frequency": 6323,
+      "mnemonic": "form(=fear: 可怕)+idable(=id+able: 复合形容词后缀，表可以)\n→causing fear, terrible: 可以让人害怕的 →令人敬畏的；可怕的； 强大的",
+      "collocations": [
+        "formidable economic privilege: 强大的经济特权",
+        "formidable task/challenge: 艰难的任务/挑战 搭配：( ADJ )令人敬畏的；可怕的",
+        "Very powerful or impressive,and often frightening.\n( ADJ) 难对付的",
+        "Difficult to deal with and needing a lot of effort or skill"
+      ],
+      "etymology": "mid-15c.,\"causing fear,\"from Middle French formidable(15c.),from Latin formidabilis \"causing fear,terrible,\"from formidare “to fear,\"from formido \"fearfulness,fear,terror,dread.\"Related:Formidably.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "peril",
+      "phonetic": "'perl;-r(a)l",
+      "pos": "n.",
+      "definition": "极大危险",
+      "frequency": 7761,
+      "mnemonic": "词根为per-: 试验；尝试→尝试必然带来危险→极大危险",
+      "collocations": [
+        "the perils of the sea: 海洋的严重危险",
+        "great/grave/serious peril: 严重危机",
+        "do sth.at your peril: 做某事要自担风险",
+        "peril 的派生词有perilous,imperil 等 。"
+      ],
+      "etymology": "c.1200,from Old French peril “danger,risk”(10c.),from Latin periculum “an attempt,trial,experiment;risk,danger”.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "perilous",
+      "phonetic": "'periləs",
+      "pos": "adj.",
+      "definition": "险恶的；非常危险的",
+      "frequency": 13169,
+      "mnemonic": "peril ( 极大危险)+-ous ( 形容词后缀) → 险恶的；非常危险的 搭配：a perilous journey across the war-zone: 横穿交战区的危险之旅",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "imperil",
+      "phonetic": "m'peril; -r(a)l",
+      "pos": "vt.",
+      "definition": "使陷于危险；危及",
+      "frequency": 18257,
+      "mnemonic": "im-(=in,into: 进入)+peril ( 极大危险) →进入危险之中 →使陷于 危险；危及",
+      "collocations": [
+        "imperil the lives: 危及生命安全"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "panic",
+      "phonetic": "'pænik",
+      "pos": "n.",
+      "definition": "恐慌，惊慌；大恐慌adj.恐慌的",
+      "frequency": 4353,
+      "mnemonic": "pan(=fear: 担心；恐惧)+ic ( 形容词或名词后缀) →恐惧的，恐慌 的；恐慌",
+      "collocations": [
+        "widespread panic: 广泛的恐慌"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "panicky",
+      "phonetic": "'pæniki",
+      "pos": "adj.",
+      "definition": "恐惧的；惊惶的，紧张不安的",
+      "frequency": 19864,
+      "mnemonic": null,
+      "collocations": [
+        "suddenly feel panicky like a mouse cornered by a hungry cat: 突然感到 害怕，就像老鼠遇到饿猫似的"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pirate",
+      "phonetic": "'parərət",
+      "pos": "n.",
+      "definition": "海盗 vt. 盗版( CD 、DVD 、书籍、计算机程序等) adj. 盗版的",
+      "frequency": 7322,
+      "mnemonic": "pir-(=to try: 尝试)+-ate ( 名词/形容词/动词后缀)→尝试铤而走险 (攻击船只、书籍等由版权产品)的人；尝试盗版……的→海盗；盗 版；盗版的",
+      "collocations": [
+        "pirate ship: 海盗船",
+        "pirate copies of the DVD:DVD的盗版"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "piracy",
+      "phonetic": "'parəs",
+      "pos": "n.",
+      "definition": "海盗行为；盗版行为",
+      "frequency": 14050,
+      "mnemonic": "pirate (海盗)+-acy ( 名词后缀，表示行为) → 引申词义盗版；剽窃",
+      "collocations": [
+        "software piracy: 软件盗版",
+        "Port 这个单词及其在构成单词中的基本含义为港口，携带，英文为port,to carry。由 port 构成的单词表示“大门，入口，通路，港口，通过，传递” 的有“port,harbor,porch,opportunity,export,import,deport,passport,portable, portfolio,sport,report,transport,support,purport,rapport,ferry,fare,fern,\n笔 记 区\n笔 记 区",
+        "portal,porter” 等 。他们的英文基本含义有“gate,entrance,passage,port,pass through,carry over”等 。",
+        "It is the hypothetical source of/evidence for its existence is provided by:Sanskrit parayati \"carries over;\"Greek poros “journey,passage,way,” peirein “to pierce,pass through,run through;\"Latin portare \"to carry,” porta “gate,door,\"portus “port,harbor,”originally“entrance,passage,” peritus \"experienced;\"Avestan peretush “passage,ford,bridge;\"Armenian hordan \"go forward;\"Old Welsh rit,Welsh rhyd \"ford;\"Old Church Slavonic pariti “to fly;\"Old English faran “to go,journey,”Old Norse fjörör \"inlet, estuary\".",
+        "Port 的主要含义之一为港口，包含这个含义的单词有harbor,porch, opportunity, export, import,deport ,passport 等 。\npor t [pɔ:t] n. 港口城市；港口；端口；左舷；波尔特(葡萄酒);(通向货 仓、安装放水门的)船侧通口；枪口靠近左肩，以斜背的姿势持枪； (尤指昆士兰的)皮箱；书包 adj. ( 轮船)左舷的v. 转向左舷；(枪 口靠近左肩，以斜背的姿势)持枪 2741",
+        "Britain's largest port: 英国最大的港口城市",
+        "port of entry: 入境港\n笔 记 区\n笔 记 区",
+        "any port in a storm: 危急时不择好坏的避难场所(或逃避办法);慌 不择路；饥不择食；有病乱投医"
+      ],
+      "etymology": "来自拉丁语portus, 港口。最初含义为“入口，通路”。比喻义为 避难所，收容所”。用于航海术语左舷，即从后面掌舵位往前看 朝向港口的位置，比较starboard,右舷，掌舵位。并引申计算机端口等 词义。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "harbor",
+      "phonetic": "'ha:bə",
+      "pos": "vt.",
+      "definition": "长期怀有；窝藏 n. 港口",
+      "frequency": 5865,
+      "mnemonic": "harb(=port : 港口，码头) →海港；港口",
+      "collocations": [
+        "Some scholars harbor few kinds words for college ranking,charging shortcomings that range from lack of extensive researches to an inaccurate approach to collecting datas."
+      ],
+      "etymology": null,
+      "examples": [
+        "Home schoolers harbor few kind words for public schools,charging shortcomings that range from lack of religious perspective in the curriculum to a herd-like approach to teaching children.\n家庭教育者对公共学校长期怀有微词，指责缺点从课程缺乏适当比例 的信仰到教育孩子方式像对待一群动物一样。",
+        "一些学者对大学排名长期怀有微词，指责不足之处从缺乏广泛研 究到不精确的数据收集方式。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "porch",
+      "phonetic": "pɔ:tʃ",
+      "pos": "n.",
+      "definition": "( 房子或教堂前门外有顶的)入口处，门廊；(房屋前后 的)游廊，走廊；阳台",
+      "frequency": 3067,
+      "mnemonic": "建议和单词port ( 港口)串记，二者同源且整体音似。“港口”是进",
+      "collocations": [
+        "arcade,portico,porch,\"from porta “city gate,gate;door,entrance”.",
+        "stand on the porch: 站在走廊上"
+      ],
+      "etymology": "c.1300,\"covered entrance,\"from Old French porche \"porch,vestibule,\" from Latin porticus “covered gallery,covered walk between columns,",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "opportunity",
+      "phonetic": ",ppə'tju:nətr",
+      "pos": "n.",
+      "definition": "机会；时机",
+      "frequency": 626,
+      "mnemonic": "op-(=toward: 朝 向 ) +port(=harbor: 港口)+-un-+-ity ( 名词后\n缀)→风吹向港口→说明时机良好、带来运气→机会；世纪 搭配：career/employment/job opportunities: 职业发展/就业/工作机会",
+      "collocations": [
+        "a window of opportunity: 行事良机",
+        "at the earliest opportunity: 尽早",
+        "opportunity 的派生词有 opportunistic 等 。"
+      ],
+      "etymology": "在轮船发明之前，人们航海时极其依赖海上的风。如果在归航时，风 向恰好吹向港口，那就太好了，可以轻松地返航。如果风向不对，就 得多费不少周折，甚至可能滞留海上无法回到港口。但风向恰好吹向 港口的情况很少见，如果能够遇到实属幸运。在拉丁语中水手们将归 航时顺风称为opportunus, 由ob-(=toward: 朝向)+portus(=port: 港口)组合而成，字面意思就是“风吹向港口”,由此产生了英语单 笔 记 区 词opportune ( 恰好的)。而opportunus的名词形式opportunitatem 则产 生了英语单词opportunity ( 机会)。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "opportunistic",
+      "phonetic": "ppətju:'nistik",
+      "pos": "adj.",
+      "definition": "(某人的行为)机会主义的；投机取巧的；机会致病性的(对免疫系统差的人有害)15421",
+      "frequency": null,
+      "mnemonic": "opportuni(=opportunity: 机会)+-ist ( 名词后缀，表示人)+ic ( 形 容词后缀)→与机会主义者有关的→机会主义的；投机取巧的；机会 致病性的(对免疫系统差的人有害)",
+      "collocations": [
+        "only for opportunistic reasons: 纯粹出于投机",
+        "an opportunistic infection: 机会性感染",
+        "Port 还表示携带，运输，由此含义构成的单词有export, import,deport,",
+        "portable,portfolio,sport,report,transport, support,purport,rapport 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "export",
+      "phonetic": "'ekspɔ:t;Ik'-",
+      "pos": "vt.",
+      "definition": "出口；输出；(在计算机中)导出 n. 出口商品",
+      "frequency": 3488,
+      "mnemonic": "by 1610s,\"carrying out of a place;\"perhaps from late 15c.,from Latin exportare “to carry out,bring out;send away,export\nex- ( 向 外 ) +port(=to carry,transport: 携带；运输) → (商品、人\n力等)经过本国港口向国外运输→ 出口；出口商品 搭配：export sugar and fruit: 出口糖和水果\noil/agricultural/manufacturing exports: 石油/农产品/制造业产品出口 export inflation: 输出通货膨胀",
+      "collocations": [
+        "export in ASCII or PCX formats: 以ASCII或者PCX格式导出\n速笔 记 区20000词汇巅峰\n速\n笔 记 区",
+        "Export的派生词有exporter 等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "exporter",
+      "phonetic": "ik'spɔ:tə",
+      "pos": "n.",
+      "definition": "出口国；出口公司；出口商",
+      "frequency": 11166,
+      "mnemonic": "export (出口)+-er ( 名词后缀，表示人或物) → 出口国；出口公 司；出口商",
+      "collocations": [
+        "exporter of agricultural products: 农产品出口国"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "import",
+      "phonetic": "m'pɔ:t;'im-",
+      "pos": "vt.",
+      "definition": "&vi. 进口 vt. 导 入n. 进口；进口商品；重要性",
+      "frequency": 4087,
+      "mnemonic": "im- ( 向 内 ) +port(=to carry,transport: 携带；运输) → (商品、人\n力等)经过本国港口向国内运输→进口；进口商品 搭配：import Indonesia's timber: 进口印度尼西亚木材",
+      "collocations": [
+        "the import of Polish coal: 波兰煤炭的进口",
+        "cheap imports: 廉价进口商品",
+        "of little import: 几乎不具重要性",
+        "Import 的派生词有importer,importation,imported,important,importance, importantly,unimportant ,all-important 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "importer",
+      "phonetic": " m'pərts",
+      "pos": "n.",
+      "definition": "进口国；进口公司；进口商",
+      "frequency": 14290,
+      "mnemonic": "import ( 进 口 ) + -er ( 名词后缀，表示人或物) → 进口国；进口公 司；进口商",
+      "collocations": [
+        "an importer of exotic food: 外国食品进口商",
+        "an importer of U.S.beef: 美国牛肉进口国"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "importation",
+      "phonetic": ",impɔ:'terʃən",
+      "pos": "n.",
+      "definition": "〔 对新鲜事物的〕引进；舶来品，从外国引进的事物；(商业性质的)进口；输入",
+      "frequency": 17925,
+      "mnemonic": "import (引进；进口；输入)+-ation (复合名词后缀) → 尤指〔对新 鲜事物的〕引进；舶来品；(商业盈利性质的)进口；输入",
+      "collocations": [
+        "restrictions on the importation of American movies: 对引进美国电影 的限制",
+        "the importation of birds: 鸟类进口\n20000词汇巅峰速笔 记 区趣课多\n20000词汇巅峰速\n笔 记 区",
+        "a law prohibiting the importation of tuna: 禁止进口金枪鱼的法令\n释义： ( Noun)〔 对新鲜事物的〕引进，进口；舶来品，从外国引进\n的事物",
+        "Importation is the act of bringing something new or different to a place where it did not previously exist,or something that arrives in this way\n(Noun ) 进口；输入",
+        "Importation is the business of bringing things into a country from other countries in order to sell them"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "imported",
+      "phonetic": "im'pɔ:t;'im-1d",
+      "pos": "adj.",
+      "definition": "进口的；输入的",
+      "frequency": 7938,
+      "mnemonic": "import ( 进 口 ；输入)+-ed ( 形容词后缀) →进口的；输入的",
+      "collocations": [
+        "imported goods: 进口货；舶来品",
+        "imported inflation: 输入型通货膨胀"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "important",
+      "phonetic": " m'pɔ:t(o)nt",
+      "pos": "adj.",
+      "definition": "重要的；有势力的；有地位的",
+      "frequency": 267,
+      "mnemonic": "import ( 重要性)+-ant ( 形容词后缀) → 重要的 → 引申为人有势力 的；有影响力的\n趣记：import 进口很重要→important",
+      "collocations": [
+        "important economic challenge: 重大经济挑战",
+        "an important figure: 有势力的人物"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "importance",
+      "phonetic": "m'pɔ:t(a)ns",
+      "pos": "n.",
+      "definition": "重要；重要地位；名望",
+      "frequency": 1582,
+      "mnemonic": "import ( 重要性)+ -ance ( 名词后缀) → 重要性 → 引申为重要地 位；名望",
+      "collocations": [
+        "stress the importance of economic reform: 强调经济改革的重要性 a man of importance: 重要人士"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "importantly",
+      "phonetic": "im'pɔ:t(ə)ntli",
+      "pos": "adv.",
+      "definition": "重要的是；煞有介事地；自以为了不起地",
+      "frequency": 4916,
+      "mnemonic": "important (重要的；有势力的)+-ly ( 副词后缀) →重要的是；自以 为有势力和地位的→煞有介事地；自以为了不起地",
+      "collocations": [
+        "most importantly: 最重要的是stride importantly into the room: 煞有介事地阔步走进房间笔 记 区",
+        "most importantly: 最重要的是",
+        "stride importantly into the room: 煞有介事地阔步走进房间\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "unimportant",
+      "phonetic": "ʌnim'pɔ:t(a)nt",
+      "pos": "adj.",
+      "definition": "不重要的；无意义的；微不足道的",
+      "frequency": 13147,
+      "mnemonic": "un-(=not: 不 ) +important ( 重要的) →不重要的；无意义的；微不",
+      "collocations": [
+        "unimportant details: 无关紧要的细枝末节",
+        "These are just minor problems.\n这些只是小问题。"
+      ],
+      "etymology": null,
+      "examples": [
+        "Girls'education was seen as unimportant.\n女孩的教育不被重视。\n2、of no/little importance: 不/不太重要(该短语比unimportant 稍显 正式)",
+        "If you're capable of doing the job,your age is of no importance. 只要能胜任这个工作，年龄无关紧要。\n3、minor ( 尤指变化、问题、伤害、损失或区别)小的，无关紧要的 例句：The driver suffered minor injuries.\n司机受了轻伤。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "all-important",
+      "phonetic": "ɔ:lim'pɔ:tənt ",
+      "pos": "adj.",
+      "definition": "生死攸关的；至关紧要的",
+      "frequency": 17087,
+      "mnemonic": "all(=extremely: 极其地)+important ( 重要地) →极其重要地 →生死 攸关的；至关紧要的",
+      "collocations": [
+        "the all-important question: 最重要的问题",
+        "the town's all-important tourist industry: 该镇至关重要的旅游业"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "deport",
+      "phonetic": "dr'pɔ:t",
+      "pos": "vt.",
+      "definition": "把(违法者或无合法居留权的人)驱逐出境；递解出境",
+      "frequency": 11103,
+      "mnemonic": "Deport的派生词有deportation 等。deportation [di:pɔ'terʃ(o)n] n. 驱逐出境12006助记：deport ( 驱逐出境)+-ation ( 复合名词后缀) →驱逐出境搭配：a deportation order: 驱逐出境令face deportation: 将遭递解出境the deportation ofillegal immigrants: 对非法移民的驱逐passport ['pa:spɔ:t] n. 护照；进身之阶；(获取成功或幸福的)途径，手段6332助记：pass ( 通过)+ -port ( 港口) →通关凭证 →护照；进身之阶；途径搭配：a British passport: 英国护照a passport to the riches: 获得财富的机会be deported from Ecuador: 被驱逐出厄瓜多尔",
+      "collocations": [
+        "deport sb from/to sth: 从……国家驱逐某人出境；将某人递解出境 到……国家",
+        "Deport的派生词有deportation 等。"
+      ],
+      "etymology": "\"banish,transport or carry off from one country to another,especially forcibly,\"1640s,from French déporter,from Latin deportare “carry off,transport,banish,exile”.Associated by folk etymology with portus 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 \"harbor.\"Related:Deported;deporting.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "deportation",
+      "phonetic": "di:pɔ'terʃ(o)n",
+      "pos": "n.",
+      "definition": "驱逐出境",
+      "frequency": 12006,
+      "mnemonic": "deport ( 驱逐出境)+-ation ( 复合名词后缀) →驱逐出境",
+      "collocations": [
+        "a deportation order: 驱逐出境令",
+        "face deportation: 将遭递解出境",
+        "the deportation ofillegal immigrants: 对非法移民的驱逐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "passport",
+      "phonetic": "'pa:spɔ:t",
+      "pos": "n.",
+      "definition": "护照；进身之阶；(获取成功或幸福的)途径，手段",
+      "frequency": 6332,
+      "mnemonic": "pass ( 通过)+ -port ( 港口) →通关凭证 →护照；进身之阶；途径",
+      "collocations": [
+        "a British passport: 英国护照",
+        "a passport to the riches: 获得财富的机会"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "portable",
+      "phonetic": "'pɔ:təb(a)l",
+      "pos": "adj.",
+      "definition": "便携式的 n. 便携式设备(如笔记本电脑)5507",
+      "frequency": null,
+      "mnemonic": "port-(=to carry,transport: 携带；运输)+-able ( 形容词词缀) → 便 于携带的；手提式的\nport- (运输；携带)+ folio(=leaf,sheet: 树叶；纸张) →携带、运 输纸张(的工具) →文件夹；公事包；文件的组合 →代表作品集 → 引 申义为持有的有价证券组合；政府的官方文件→投资组合；(部长或 大臣的)职责；系列产品",
+      "collocations": [
+        "a little portable television: 一台便携式小电视机",
+        "portable benefits: 可转移的福利；可随带的福利( health insurance, pension plans etc.that workers can keep when they move from one job to another)\n笔 记 区portfolio [pɔ:t'fouliəu] n. 文件夹；公事包；(参赛或应聘用的)画作选辑， 代表作品集；有价证券组合；投资组合；(部长或大臣的)职责，职 务；(公司或机构提供的)系列产品，系列服务3845\n笔 记 区",
+        "a portfolio of her own political cartoons: 她自己的政治漫画选辑 an investment/share portfolio: 投资/股份组合",
+        "hold the defense portfolio: 担任国防部长一职",
+        "a strong portfolio of products: 强大的产品组合"
+      ],
+      "etymology": "英语单词portfolio 来自意大利语，由port ( 搬运；携带)+folio ( 纸 张；书页)构成，本意是用来携带纸张的工具，如文件夹，后来才衍 生出“公文包”的含义。folio指的是书的一页，它来自拉丁语folium (树叶)。这个词反映出古代西方人已经能够制造轻薄如树叶的纸张 了，如埃及的莎草纸。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sport",
+      "phonetic": "spɔ:t",
+      "pos": "n.",
+      "definition": "运动；野外运动〔尤指打猎或钓鱼〕;乐于助人者，开朗大 度的人 vt. 炫耀某物；卖弄某物 vi.: 嬉戏；玩耍",
+      "frequency": 666,
+      "mnemonic": null,
+      "collocations": [
+        "a sports team: 运动队",
+        "blood sports: 猎杀动物",
+        "sport a new camelhair coat: 得意地穿了一件新的驼绒大衣",
+        "the sight of dolphins sporting amidst the waves: 海豚戏浪的情景\n20000词汇巅峰返笔 记 区趣课多\n20000词汇巅峰返\n笔 记 区",
+        "Sport的派生词有sporty,sporting,sportsman,sportsmanshi p,sportswriter 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sporty",
+      "phonetic": "'spɔ:ti",
+      "pos": "adj.",
+      "definition": "爱好(或擅长)体育运动的；(衣服)漂亮的，潇洒 的；车形优美速度快的",
+      "frequency": 14808,
+      "mnemonic": "sport (体育运动)+-y ( 形容词后缀) → 引申义为爱好体育运动的； 潇洒的；车形优美速度快的",
+      "collocations": [
+        "sporty type: 爱好体育运动的人",
+        "a sporty cotton top: 漂亮帅气的棉布上衣",
+        "a sporty Mercedes: 一辆又快又靓的奔驰汽车"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sporting",
+      "phonetic": "'spɔ:tŋ",
+      "pos": "adj.",
+      "definition": "体育运动的；有良好体育风尚的",
+      "frequency": 6637,
+      "mnemonic": "sport ( 运 动 ) + -ing ( 形容词后缀) → 体育运动的；有良好体育 风尚的",
+      "collocations": [
+        "a sporting event: 体育活动"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sportsman",
+      "phonetic": "'spɔ:tsmən",
+      "pos": "n.",
+      "definition": "运动员；参加体育运动者；户外运动爱好者(如 爱好打猎、钓鱼的人)14989",
+      "frequency": null,
+      "mnemonic": "sports (体育运动)+man ( 人) →运动员；参加体育运动者",
+      "collocations": [
+        "a very keen sportsman: 一个非常喜爱运动的人",
+        "talented all-round sportsman: 一名有天赋的全能运动员"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sportsmanship",
+      "phonetic": "'spɔ:tsmənʃip",
+      "pos": "n.",
+      "definition": "运动员风范；体育精神",
+      "frequency": 19445,
+      "mnemonic": "sportsman (运动员)+-ship ( 名词后缀，表状态) →运动员风范；体 育精神",
+      "collocations": [
+        "good sportsmanship: 良好的体育精神",
+        "win praise for sportsmanship and fair play: 因良好的体育精神及公平竞 争精神而受到了表扬\n释义：( N-UNCOUNT) 运动员风范；体育精神",
+        "Sportsmanship is behaviour and attitudes that show respect for the rules of a game and for the other players\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "sportswriter",
+      "phonetic": "'spɔ:ts,rartə",
+      "pos": "n.",
+      "definition": "体育(新闻)记者； 体育专栏记者",
+      "frequency": 17371,
+      "mnemonic": "sports (体育运动)+writer ( 写手) → 写体育运动报道的人 → 体育 (新闻)记者",
+      "collocations": [
+        "a professional sportswriter: 一个专业的体育记者"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "report",
+      "phonetic": "ri'pɔ:t",
+      "pos": "vt.",
+      "definition": "报告；告发 vi. ( 工作或职责上)汇报；报到；隶属；被……领导 n. ( 报刊或广播电视上的)报道；(调查)报告；告知； 传闻；成绩单",
+      "frequency": 451,
+      "mnemonic": "re-(=back : 回 来 ) +port(=carry: 携带；带来) →bring back,carry away,hand over: 带回报告；新闻；工作内容；成绩→报告；汇报； 报道；告知",
+      "collocations": [
+        "report on political affairs: 报道政治事件",
+        "Report 的派生词有reported,reportedly,reporter,reporting 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reported",
+      "phonetic": "ri'pɔ:trd",
+      "pos": "adj.",
+      "definition": "报道的",
+      "frequency": 6397,
+      "mnemonic": "report (报告；报道)+-ed ( 形容词后缀) →报告的；报道的",
+      "collocations": [
+        "reported statistics: 得到报道的统计"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reportedly",
+      "phonetic": "ri'pɔ:tidli",
+      "pos": "adv.",
+      "definition": "据说；据报道",
+      "frequency": 4445,
+      "mnemonic": "reported (报道的)+-ly ( 副词后缀) →据说；据报道",
+      "collocations": [
+        "reportedly decide to do sth.: 据说决定做某事",
+        "have reportedly agree that.. : 据说已同意"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reporter",
+      "phonetic": "rɪ'pɔ:tə",
+      "pos": "n.",
+      "definition": "记者",
+      "frequency": 1294,
+      "mnemonic": "report (汇报；报道)+-er ( 名词后缀，表示人) →进行汇报、报道 的人→记者\nreport ( 报道)+-ing ( 名词后缀) →指新闻报道工作",
+      "collocations": [
+        "a reporter from the New York Times:《 纽约时报》的记者 a crime reporter : 报道犯罪的记者",
+        "笔 记 区 reporting [rr'pɔ:tiŋ] n. 新闻报道工作3917",
+        "accurate/balanced/objective reporting: 准确的/公允的/客观的新闻报道",
+        "reporting restrictions: 对报道的限制",
+        "financial reporting: 财务报表\n释义： ( N-UNCOUNT) 新闻报道工作",
+        "Reporting is the presenting of news in newspapers,on radio,and on television."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "transport",
+      "phonetic": "træn'spɔ:t; tra:n-",
+      "pos": "n.",
+      "definition": "交通运输系统；运输方式；(货物的)运 输；运送； (运送士兵或供给品的)运输船；运输机 vt. 运输，运送 (货物、人等)4693",
+      "frequency": null,
+      "mnemonic": "trans-(=beyond,across: 越过；横过；穿过)+ port(=to carry: 运\n输；携带) →carry or convey across,carry from one place to another: 从一个地方运输到另一个地方→交通运输系统；运输方式；运输机； 运输(货物、人等)",
+      "collocations": [
+        "public transport: 公共运输",
+        "air/rail/road transport: 空运/铁路运输/公路运输",
+        "transport oil: 运输石油",
+        "be transported back to/into sth: 被(幻想等)带回到/被带入(另一地 点或时间)",
+        "be transported with delight/joy etc.: 欣喜若狂/喜不自胜等",
+        "Transport 的派生词有transportation 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "transportation",
+      "phonetic": "trænspɔ:'terʃ(o)n;tra:ns -",
+      "pos": "n.",
+      "definition": "交通运输系统；运输方式；(货 物的)运输；运送",
+      "frequency": 2395,
+      "mnemonic": "transport (交通运输系统；运输方式；运输)+-ation ( 复合名词后 缀)→交通运输系统；运输方式；(货物的)运输；运送",
+      "collocations": [
+        "the transportation industry: 运输业",
+        "transportation costs: 运费\nmeans/mode/form of transportation: 运输方式\n笔 记 区\n笔 记 区",
+        "the transportation of dangerous chemicals: 危险化学品的运输"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "support",
+      "phonetic": "sə'pɔ:t",
+      "pos": "vt.",
+      "definition": "支持；资助；供养；证实；支撑；倚着；支持(运动队 等 )n. 支持；(给处境困难或不幸者的)帮助；(给组织的)资助； 证明；支撑物；倚靠",
+      "frequency": 525,
+      "mnemonic": "sup-(=sub-=up from under: 从下往上)+ port(=to carry: 扛着) →to hold up: 从下往上扛着→引申义为sustain,support ,endure: 维 持；支持→支持；资助；供养；倚靠",
+      "collocations": [
+        "support the hard-working people of New York: 支持勤劳的纽约人民 cut budgets and support: 削减预算和资助",
+        "two straight wooden supports: 两根垂直的木制支撑物\n词语辨析：To agree with and help sb./sth. 赞成并支持某人/某事物",
+        "support 支持；赞成；拥护\n释义：to say that you agree with a person or idea,and usually help them because you want them to succeed",
+        "back 资助；支持(政府或其他权力团体)\n释义：to support a person or plan by providing money or practical help- used about governments or other powerful groups",
+        "endorse 正式赞同；支持\n释义：to formally and officially say that you support a person,plan,or idea",
+        "Support 的派生词有supporter,supporting,supportive 等。"
+      ],
+      "etymology": null,
+      "examples": [
+        "We will support your decision.\n翻译：我们会支持你的决定。",
+        "The f100 million scheme is backed by the British government.\n翻译：这个耗资一亿英镑的计划由英国政府资助。",
+        "Agriculture ministers refused to endorse the Commission's proposals.\n翻译：农业部长们拒绝支持该委员会的提议。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "supporter",
+      "phonetic": "sə'pɔ:tə",
+      "pos": "n.",
+      "definition": "支持者；拥护者",
+      "frequency": 2459,
+      "mnemonic": "笔 记 区 助记：support (支持)+-er ( 名词后缀，表示人) →支持者；拥护者",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "supporting",
+      "phonetic": "sə'pɔ:trŋ",
+      "pos": "adj.",
+      "definition": "adj. (演员、角色)配角的；能确证的；支撑的；承 重的",
+      "frequency": 5581,
+      "mnemonic": "support (支持；帮助)+-ing ( 形容词后缀) → 引申词义配角的；能 确证的；支撑的\nsupport (支持；帮助)+-ive ( 形容词后缀) →支持的；给予帮助[鼓 励]的(含褒义)\npur-(=forth: 向 前 ) +port(=to carry: 携带；承载) →一个接一个的向前声称；转述(事情的)大意 →声称；据称；主旨；大意",
+      "collocations": [
+        "the best supporting actress award: 最佳女配角supporting part/role/actor etc.: 配角(演员)a wealth of supporting evidence: 大量证据a supporting wall/beam etc.: 承重墙/梁等supportive [sə'pɔ:tiv] adj. 支持的；给予帮助[鼓励]的(含褒义)4569",
+        "a supportive family: 理解支持自己的家人be always supportive of each other: 总是互相帮助purport [pə'pɔ:t] vt.声称；据称；(某人言论的)大意；主旨11634",
+        "purport to tell the whole truth: 声称讲出全部真相purport to be a complete history of the period: 标榜为那个时期的全史purport to be 300 years old: 据称已有300年历史the purport of the science: 这门科学的主旨 Purport 的派生词有purported,purportedly 等 。",
+        "opposition supporters: 反对派支持者",
+        "the best supporting actress award: 最佳女配角",
+        "supporting part/role/actor etc.: 配角(演员)",
+        "a wealth of supporting evidence: 大量证据",
+        "a supporting wall/beam etc.: 承重墙/梁等"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "supportive",
+      "phonetic": "sə'pɔ:tiv",
+      "pos": "adj.",
+      "definition": "支持的；给予帮助[鼓励]的(含褒义)4569",
+      "frequency": null,
+      "mnemonic": "support (支持；帮助)+-ive ( 形容词后缀) →支持的；给予帮助[鼓 励]的(含褒义)",
+      "collocations": [
+        "a supportive family: 理解支持自己的家人",
+        "be always supportive of each other: 总是互相帮助"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "purport",
+      "phonetic": "pə'pɔ:t",
+      "pos": "vt.",
+      "definition": "声称；据称；(某人言论的)大意；主旨",
+      "frequency": 11634,
+      "mnemonic": "pur-(=forth: 向 前 ) +port(=to carry: 携带；承载) →一个接一个的\n向前声称；转述(事情的)大意 →声称；据称；主旨；大意 搭配：purport to tell the whole truth: 声称讲出全部真相",
+      "collocations": [
+        "purport to be a complete history of the period: 标榜为那个时期的全史",
+        "purport to be 300 years old: 据称已有300年历史",
+        "the purport of the science: 这门科学的主旨",
+        "Purport 的派生词有purported,purportedly 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "purported",
+      "phonetic": "pə'portid ",
+      "pos": "adj.",
+      "definition": "据称的；传言的",
+      "frequency": 16621,
+      "mnemonic": "purport (声称；据称)+-ed ( 形容词后缀) →据称的；传言的 搭配：the scene of the purported crime: 传闻中的罪案发生地点",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "purportedly",
+      "phonetic": "'pspɔtrdli",
+      "pos": null,
+      "definition": "据称；据传",
+      "frequency": 16858,
+      "mnemonic": "purported ( 据称的；据传的)+-ly ( 副词后缀) →据称；据传",
+      "collocations": [
+        "a letter purportedly written by Mozart: 一封据传是莫扎特的亲笔信"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "rapport",
+      "phonetic": "ræ'p ɔ:",
+      "pos": "n.",
+      "definition": "和睦；融洽；友善",
+      "frequency": 12398,
+      "mnemonic": "re-(=back: 回来)+pport(=port:to bring)→bring back: 恢复(友 好的关系);和解 → (关系)和睦；融洽；友善",
+      "collocations": [
+        "establish a rapport with the Indian people: 同印度人民建立友好关系",
+        "If two people or groups have a rapport,they have a good relationship in which they are able to understand each other's ideas or feelings very well."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "ferry",
+      "phonetic": "'feri",
+      "pos": "n.",
+      "definition": "渡船；轮船 vt. ( 通常指定时往返两地间)渡运；摆渡",
+      "frequency": 6592,
+      "mnemonic": "fer-(=to carry,transport: 运载；运输)+-ry ( 名词后缀，表示行为) → 运载的(船只)及(经水路)运输的行为 → 渡船；渡运；摆渡",
+      "collocations": [
+        "cross the River Gambia by ferry: 乘船渡过了冈比亚河 ferry terminal: 渡轮码头",
+        "ferry guests to and from Bird Island: 渡运乘客进出鸟岛",
+        "Port还有大门的含义，由此含义构成的单词有portal,porter等。"
+      ],
+      "etymology": "Old English ferian “to carry,convey,bring,transport”(in late Old English, especially over water),from Proto-Germanic *farjan “to ferry”(source also of Old Frisian feria “carry,transport,\"Old Norse ferja “to pass over, to ferry,\"Gothic farjan \"travel by boat\"),from PIE root *per-(2)“to lead, pass over.”Related to fare(v.).Related:Ferried;ferries;ferrying.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "portal",
+      "phonetic": "'pɔ:t(ə)l",
+      "pos": "n.",
+      "definition": "门户网站；( 一 般用复数)(建筑物高大壮观的)大 门；正门",
+      "frequency": 9413,
+      "mnemonic": "port-( 门 ) + -al ( 名词词缀)→大门；入口→引申为壮观的大门；豪 华的入口；门户网站",
+      "collocations": [
+        "a portal for thousands of online dealers: 数千名网络交易者的门户网站 a business/news/shopping portal: 商务/新闻/购物门户网站",
+        "the royal portal: 宏伟的正门"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "porter",
+      "phonetic": "'pɔ:tə",
+      "pos": "n.",
+      "definition": "门卫；(尤指火车站、机场或旅馆)行李员，搬运工；(医院里护送病人的)护工；(尤指卧铺车厢的)列车服务员",
+      "frequency": 13409,
+      "mnemonic": "port- (携带；运输；门)+-er ( 名词后缀，表示人) → 门卫；搬运 工；护工；列车服务员",
+      "collocations": [
+        "the hotel porter: 旅馆的门房",
+        "the night porter: 夜班门卫",
+        "Pore 含义为毛孔，气孔。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pore",
+      "phonetic": "pɔ:",
+      "pos": "n.",
+      "definition": "( 皮肤的)毛孔；(植物表面的)气孔；细孔 vi. 仔细阅读；凝 视，注视",
+      "frequency": 11871,
+      "mnemonic": "来自拉丁语porus,孔隙。来自希腊语poros,孔隙，门孔，通道。来",
+      "collocations": [
+        "pore over or through: 仔细研究",
+        "penetrate every pore: 深入每一个毛孔"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "porous",
+      "phonetic": "'pɔ:rəs",
+      "pos": "adj.",
+      "definition": "多孔的；能渗透的，透水[气]的；多漏洞的；松懈的",
+      "frequency": 14033,
+      "mnemonic": "pore(=an opening,passage,way: 孔；通道)+-ous (形容词后缀) →\n多孔的 → 能渗透的；透水气的 → 引申义为多漏洞的；松懈的 搭配：porous material: 渗透性材料",
+      "collocations": [
+        "the porous border between..:…… 之间防备松懈的边界线",
+        "Fare 在其所构成单词的单词中， 一般包含 passage,journey: 通路；旅行 等含义，因此有票价的意思。\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fare",
+      "phonetic": "feə",
+      "pos": "n.",
+      "definition": "( 公共汽车；火车；飞机等的)票价；〔尤指餐厅或特殊场合吃的〕饭菜；出租车乘客vi. 进展",
+      "frequency": 4830,
+      "mnemonic": "fare=payment for passage,to journey,to go one's way: 旅行；进展",
+      "collocations": [
+        "bus/train/air/cab fare: 公共汽车/火车/飞机/出租车票价 half-fare/full-fare: 半价/全价",
+        "traditional Christmas fare: 传统的圣诞节食物",
+        "fare better: 有所好转"
+      ],
+      "etymology": "fare的原始意义是“走”,来源于古印欧语por- ( 离去；通过)在日 耳曼语中派生的fer- ( 走 )",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "airfare",
+      "phonetic": "'eəfea(r)",
+      "pos": "n.",
+      "definition": "飞机票价",
+      "frequency": 16401,
+      "mnemonic": "air ( 空运；空中)+fare ( 票价)→空运票价→飞机票价",
+      "collocations": [
+        "low-season airfares: 淡季飞机票价"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "farewell",
+      "phonetic": "fea'wel",
+      "pos": "n.",
+      "definition": "告别；辞行",
+      "frequency": 8277,
+      "mnemonic": "fare(= journey: 远 行 ) +well ( 顺利；很好地) →祝福某人远行顺利 →告别；辞行",
+      "collocations": [
+        "a farewell party/drink,etc.: 欢送会；别酒等",
+        "farewell dinner: 别宴"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "warfare",
+      "phonetic": "'wɔ:feə",
+      "pos": "n.",
+      "definition": "战争；冲突",
+      "frequency": 5128,
+      "mnemonic": "笔 记 区 助记：war (战争)+fare(=journey,going: 旅程；进行) →正在进行的战争 → 战争；冲突",
+      "collocations": [
+        "the threat of chemical warfare: 化学战的威胁",
+        "relate to drugs and gang warfare: 与毒品和帮派冲突有",
+        "psychological/position warfare: 心理战/阵地战"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "welfare",
+      "phonetic": "'welfeə",
+      "pos": "n.",
+      "definition": "幸福，健康；(政府给予的)福利；(政府向穷人或失 业者发放的)救济金adj. 福利的",
+      "frequency": 1947,
+      "mnemonic": "well (顺利地；令人满意地)+fare(=journey: 旅程) → 顺利地走完 人生旅程；政府发放地使某人或群体旅程顺利的保障→幸福；健康； 政府福利；救济金；福利的",
+      "collocations": [
+        "the children's welfare: 孩子们的幸福",
+        "public welfare: 公共福利",
+        "welfare economics: 福利经济学",
+        "on welfare: 领取福利救济"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "thoroughfare",
+      "phonetic": "'θArəfeə",
+      "pos": "n.",
+      "definition": "大街；大道",
+      "frequency": 15642,
+      "mnemonic": "thorough(=through: 通过；贯穿；直通)+fare(road; passage: 通\n路；道路)→贯穿地通路，道路→大街；大道 搭配：a busy thoroughfare: 一条繁忙的大街",
+      "collocations": [
+        "no thoroughfare: 此路不通；禁止通行〔标牌用语〕"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fanfare",
+      "phonetic": "'fænfeə ",
+      "pos": "n.",
+      "definition": "( 宣告特别事件时演奏的)响亮短曲；大张旗鼓的宣传",
+      "frequency": 13674,
+      "mnemonic": "拟声词，模仿号角齐鸣的声音→ 引申义为响亮短曲；大张旗鼓的宣传",
+      "collocations": [
+        "a fanfare of trumpets: 一曲嘹亮的小号短曲",
+        "announce with much fanfare: 热热闹闹地宣布",
+        "with little fanfare: 悄无声息地"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fern",
+      "phonetic": "f3:n",
+      "pos": "n.",
+      "definition": "蕨类植物",
+      "frequency": 9167,
+      "mnemonic": null,
+      "collocations": [
+        "silver fern: 银 蕨",
+        "A fern is a plant that has long stems with feathery leaves and no flowers. There are many types of fern.\n蕨类植物\nPress” 表示“压；按；挤”。\n由press构成的单词有pressure,express,compress,impress,oppress,repress, suppress,depress,squeeze,squelch, reprimand 等。"
+      ],
+      "etymology": "Fe rn来源于词根per-:to carry,携带有关是因为它是一种叶子柔软如羽 毛的蕨类植物，而羽毛含有携带鸟类飞翔的含义：that which carries a bird in flight.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "press",
+      "phonetic": "pres",
+      "pos": "vt.",
+      "definition": "推；挤；按压；极力劝说；有力陈述；硬塞；熨 vt.&vi. 用力 按；(对男人)强征服兵役 vi.press for竭力争取 n. 按压；压力机；报 纸；新闻工作者；印刷机；抓丁入伍",
+      "frequency": 1182,
+      "mnemonic": null,
+      "collocations": [
+        "Meaning \"device for pressing cloth\"is from late 14c.,as is also the sense “device to squeeze juice from grapes,oil from olives,cider from apples,etc.,\"from Middle French presse.Specific sense “machine for printing”is from 1530s;this was extended to publishing houses by 1570s\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区 and to publishing generally(in phrases such as freedom of the press)from",
+        "press the accelerator hard: 猛踩油门",
+        "press for changes in the law: 竭力争取法律的修改",
+        "press him to stand firm: 极力劝说他坚持立场",
+        "press its demands: 表明其要求",
+        "press his shirt: 熨了他的衬衣",
+        "get bad press/get good press: 受到媒体批评/好评",
+        "press charges against: 起诉",
+        "go to press: 付印"
+      ],
+      "etymology": "来自拉丁语pressare: 按；压。来自premere: 按；压。来自PIE*per=to strike: 击；打；捶",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pressing",
+      "phonetic": "'presiŋ",
+      "pos": "adj.",
+      "definition": "紧迫的；紧急的",
+      "frequency": 7276,
+      "mnemonic": "press (按；压)+-ing ( 形容词后缀) →使劲按压的；压力大的 →情 势紧迫的→紧迫的；紧急的",
+      "collocations": [
+        "the most pressing problems: 最紧迫的问题",
+        "a pressing need for more fund: 迫切需要更多资金"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "hard-pressed",
+      "phonetic": "'ha:dprest",
+      "pos": "adj.",
+      "definition": "(经济上)处于困境的；遭遇巨大压力的；很 难做到的",
+      "frequency": 15865,
+      "mnemonic": "hard(=with difficulty: 困难的)+press(=to strike: 击打)+-ed ( 形 容词后缀)→遭受重大困难和击打的→处于困境的；遭遇巨大压力的 → 引申为很难做到的；(做……)有困难的",
+      "collocations": [
+        "already hard-pressed teachers: 原本就承受巨大压力的老师们 hard-pressed consumers: 消费者经济窘迫",
+        "be hard-pressed to make a profit: 很难赢利"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pressure",
+      "phonetic": "'prefə",
+      "pos": "n.",
+      "definition": "( 利用影响、辩论或威胁施加的)压力；(工作或生活 中的)压力；(尤指经济或政治的)压力 vt. 对……施加压力；强迫",
+      "frequency": 766,
+      "mnemonic": "press ( 按；压)+ -ure ( 名词后缀及动词后缀) →某人面临的按压； 按压某人→压力；对……施加压力",
+      "collocations": [
+        "never give in to pressure: 绝不能屈从压力",
+        "a high pressure job: 压力大的工作",
+        "inflationary pressures: 通货膨胀的压力",
+        "pressure sb to do sth: 强迫某人做某事"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "high-pressure",
+      "phonetic": ",har'preʃə",
+      "pos": "adj.",
+      "definition": "强力劝说的；非常紧张的；压力大的；受到高压的(气体或液体)18302",
+      "frequency": null,
+      "mnemonic": "high ( 高 的 ) +pressure ( 压力) → 压力大的；受到高压的 → 引申为 (给某人)强力劝说的；压力大的",
+      "collocations": [
+        "high-pressure sales techniques: 咄咄逼人的推销手法",
+        "a high-pressure job: 压力很大的工作",
+        "a high-pressure water-jet: 高压水喷"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "express",
+      "phonetic": "ik'spres; ek-",
+      "pos": "vt.",
+      "definition": "表达；(想法、情感)流露；呈现 adj. 明确陈述 的(命令、指令);特定的(意图、目的);快递的adv.快递地 n. 快 速列车",
+      "frequency": 1279,
+      "mnemonic": "ex-(=out: 向外；出来)+press(=to press,push: 压；推) →put into words,speak one' s mind: 把(情感，语言等)挤压出来 →表达，传 达→ 引申义为明确陈述的命令；特定的意图；快递的(向外运送的)",
+      "collocations": [
+        "express grave concern: 表达严肃关注",
+        "anxiety often expresses itself as anger: 焦虑经常表现为愤怒",
+        "express orders: 明确的指令",
+        "express purpose: 特定的目的",
+        "express service: 快递服务",
+        "Murder on the Orient Express: 东方快车谋杀案"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expression",
+      "phonetic": "ik'spreʃn",
+      "pos": "n.",
+      "definition": "(用口头、书面或行动的)表达；表露；表情；神色；(艺术表演中的)情感表现；字词；措辞",
+      "frequency": 1542,
+      "mnemonic": "express (表达)+-ion ( 名词后缀) →表达；表情；措辞",
+      "collocations": [
+        "an expression of sadness: 神情忧伤",
+        "put more expression into my lyrics: 在歌词中注入了更多的情感表达 pardon/forgive/excuse the expression: 原谅出言冒犯"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expressionless",
+      "phonetic": "ik'spref(ə)nlis",
+      "pos": "adj.",
+      "definition": "面无表情的",
+      "frequency": 18904,
+      "mnemonic": "expression ( 表情)+-less(=lacking,devoid of: 缺少；缺乏) → 缺少 表情的→面无表情的",
+      "collocations": [
+        "an expressionless face/tone/voice: 呆板的面孔/声调/声音"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expressive",
+      "phonetic": "ik'spresIv;ek-",
+      "pos": "adj.",
+      "definition": "富于表情的；富于表现力的；表达……的； 表现的",
+      "frequency": 8146,
+      "mnemonic": "express (表达；流露)+ -ive ( 形容词后缀，表示 … … 的) → 表 达……的；富于表情的；富于表现力的",
+      "collocations": [
+        "expressive face: 表情丰富的脸",
+        "expressive painting: 富于表现力的绘画风尚",
+        "expressive of the character: 表现了性格特征",
+        "expressive of love for someone: 表现了对某个人的爱 释义：( ADJ-GRADED) 富于表情的；富于表现力的",
+        "If you describe a person or their behaviour as expressive,you mean that their behaviour clearly indicates their feelings or intentions.\n( ADJ-GRADED) 表达……的；表现……的",
+        "If something is expressive of particular ideas or qualities,it has features which indicate or demonstrate them."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expressly",
+      "phonetic": "ik'spreslr; ek-",
+      "pos": "adv.",
+      "definition": "明确地；确切地；特意地；专程",
+      "frequency": 14068,
+      "mnemonic": "express (明确陈述的命令；特定的意图)+-1y ( 副词后缀) → 明确 地；特意地",
+      "collocations": [
+        "be expressly forbidden to do sth.: 明确被禁止做某事",
+        "expressly design to conserve energy: 为节约能源而特别设计\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "expresso",
+      "phonetic": "e'spresəu",
+      "pos": "n.",
+      "definition": "( 蒸汽加压煮出的)浓咖啡(同espresso)13093",
+      "frequency": null,
+      "mnemonic": "助力：ex- ( 向 外 ) +presso(press out: 压出来) → 向外压出来 → (蒸汽加压 煮出的)浓咖啡",
+      "collocations": [
+        "Italian espresso coffee: 意式特浓咖啡(一种蒸馏咖啡) espresso machine: 咖啡机"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "compress",
+      "phonetic": "kəm'pres",
+      "pos": "vt.",
+      "definition": "&vi. 使压紧；缩短(时间);压缩(计算机文件) vt. 压缩〔文字或话语〕;使简练 n. ( 用以止血或止痛的)敷布，压布",
+      "frequency": 9746,
+      "mnemonic": "com-(=with,together : 一 起；共同)+ press(=to press,cover, compress: 按压；覆盖；压缩) →一起/共同按压；覆盖；压缩 →使 压紧；压缩(文件、文字);缩短时间；敷布；(冷、热)敷法",
+      "collocations": [
+        "something compresses well: 便于压缩",
+        "compress air to drive through hard rock: 压缩空气来凿穿坚硬的岩石",
+        "compress into summary form: 压缩成概要形式",
+        "compress courses: 减少课时",
+        "compress data saved to the disk: 压缩储存在磁盘上的数据",
+        "cold compresses: 冷敷布"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "compressed",
+      "phonetic": "kəm'pres t",
+      "pos": "adj.",
+      "definition": "( 空气或气体)压缩的",
+      "frequency": 13145,
+      "mnemonic": "compress (压缩)+-ed ( 形容词后缀) → (空气或气体)压缩的",
+      "collocations": [
+        "compressed natural gas: 压缩天然气",
+        "Compressed air or gas is squeezed into a small space or container and is therefore at a higher pressure than normal.It is used especially as a source of power for machines."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "compression",
+      "phonetic": "kom'preʃ(ə)n",
+      "pos": "n.",
+      "definition": "压缩(行为；过程；结果；状态);压缩内 燃机气缸燃料混合物地过程；植物化石经压缩后的遗迹；为了减少空 间占用和所需带宽而压缩转换数据、数据文件和通信信号",
+      "frequency": 8540,
+      "mnemonic": "compress (压缩；缩短)+-ion ( 名词后缀) →压缩的行为；过程；结 果；状态",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "compressor",
+      "phonetic": "kəm'presə",
+      "pos": "n.",
+      "definition": "n. 压缩机",
+      "frequency": 15238,
+      "mnemonic": "compress(=squeeze: 压缩)+-or ( 表示人或物) →压缩机\nim-(=into,in,upon: 里面；进去)+press(=to press: 按；压) → 往里面压，在心里留下印记→have a strong effect on the mind or heart stamp deeply in the mind: 在心灵和脑海里留有深刻影响，深深印在 心里面→给……留下深刻印象；使钦佩；使铭记在心；压印→引申义 为横征暴敛；强征入伍",
+      "collocations": [
+        "air compressor: 空气压缩机centrifugal compressor: 离心式压缩机 释义： ( N-COUNT) 压气机；压缩机A compressor is a machine or part of a machine that squeezes gas or air and makes it take up less space.impress [m'pres] vt.&vi. 给……留下深刻印象；使钦佩 vt. 使明白(重要性或程度);使铭记在心；压印；横征暴敛；强征入伍3081",
+        "impress the public: 给公众留下深刻印象impress upon the children: 让孩子们明白impress itself on the minds ofthe public: 使公众对此铭记在心impress me as a good place to live: 给我留下适合居住的印象image compression: 影像压缩，图像压缩",
+        "air compressor: 空气压缩机",
+        "centrifugal compressor: 离心式压缩机 释义： ( N-COUNT) 压气机；压缩机",
+        "A compressor is a machine or part of a machine that squeezes gas or air and makes it take up less space."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impress",
+      "phonetic": "m'pres",
+      "pos": "vt.",
+      "definition": "&vi. 给……留下深刻印象；使钦佩 vt. 使明白(重要性或程度);使铭记在心；压印；横征暴敛；强征入伍",
+      "frequency": 3081,
+      "mnemonic": "im-(=into,in,upon: 里面；进去)+press(=to press: 按；压) → 往里面压，在心里留下印记→have a strong effect on the mind or heart stamp deeply in the mind: 在心灵和脑海里留有深刻影响，深深印在 心里面→给……留下深刻印象；使钦佩；使铭记在心；压印→引申义 为横征暴敛；强征入伍",
+      "collocations": [
+        "impress the public: 给公众留下深刻印象",
+        "impress upon the children: 让孩子们明白",
+        "impress itself on the minds ofthe public: 使公众对此铭记在心",
+        "impress me as a good place to live: 给我留下适合居住的印象"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impressed",
+      "phonetic": " m'prest",
+      "pos": "adj.",
+      "definition": "对……钦佩；敬仰；有深刻的好印象",
+      "frequency": 16490,
+      "mnemonic": "impress (给……留下深刻印象；使钦佩)+-ed ( 形容词后缀) → 对……钦佩；敬仰；有深刻的好印象",
+      "collocations": [
+        "impressed by/with sb/sth: 对……有深刻的好印象",
+        "be all impressed by her enthusiasm: 都被她的热情打动了",
+        "be suitably impressed with the painting. 对那幅油画产生了兴趣"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "unimpressed",
+      "phonetic": "ʌnm'pre st",
+      "pos": "adj.",
+      "definition": "没有留下深刻印象的；不以为然的",
+      "frequency": 19128,
+      "mnemonic": "un-(=not: 不；非)+impressed ( 对……钦佩；敬仰；有深刻的好印\n象) →没有留下深刻印象的；不以为然的",
+      "collocations": [
+        "very unimpressed by his teachers: 没觉得他的老师有多好",
+        "be unimpressed with the idea of filling in a lengthy questionnaire: 对填写 冗长的调查问卷没什么兴趣\n释义：(ADJ-GRADED ) 没有留下深刻印象的；不以为然的",
+        "If you are unimpressed by something or someone,you do not think they are very good,clever,or useful."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impressive",
+      "phonetic": "m'presiv",
+      "pos": "adj.",
+      "definition": "令人敬佩的；让人印象深刻的",
+      "frequency": 3286,
+      "mnemonic": "impress (给……留下深刻印象；使钦佩)+-ive ( 形容词后缀，表多 或大)→ 印象多的→令人敬佩的；让人印象深刻的",
+      "collocations": [
+        "an impressive achievement: 一项了不起的成就",
+        "an impressive performance: 令人难忘的演出"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impressively",
+      "phonetic": "im'presivli",
+      "pos": "adv.",
+      "definition": "令人印象深刻地",
+      "frequency": 19288,
+      "mnemonic": "impressive (让人印象深刻的)+-ly ( 副词后缀) →令人印象深刻地",
+      "collocations": [
+        "an impressively bright and energetic woman: 一个聪明过人而又精力充"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impression",
+      "phonetic": "im'pref(a)n",
+      "pos": "n.",
+      "definition": "印象；(通常有悖事实的)感觉，假象；(通常指对名人的)滑稽模仿；压印",
+      "frequency": 2559,
+      "mnemonic": "impres s ( 给……留下深刻印象；压印)+-ion ( 名词后缀) → 印 象；(通常有悖事实的)感觉，假象；(通常指对名人的)滑稽模 仿；压印",
+      "collocations": [
+        "the first impressions of college: 对大学的第一印象",
+        "do an impression of daddy: 滑稽地模仿爸爸",
+        "fossil impressions of plant life: 植物化石印痕",
+        "make an impression: 造成强烈影响",
+        "under the impression that something is the case: ( 通常是错误地)认为"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "impressionist",
+      "phonetic": "m'prefənist",
+      "pos": "n.",
+      "definition": "n. 印象派画家；用滑稽方式模仿名流的艺人",
+      "frequency": 17480,
+      "mnemonic": "impression ( 印象)+-ist ( 名词后缀，表示某种主义者、从事某种职 业的人)→ 印象派画家；名人言行给人留下印象，特指用滑稽方式模 仿名人言行的艺人\nop-(=ob-,against: 相反；反对)+press(=strike: 压迫) → 压制对立 的一方 →press unduly upon or against;press down;overburden;weigh down: 施加过度的压力；避迫；给……负担过重；使颓丧 → 引申词 义压制；压迫；使心情沉重邪解：op(=po: 拼音“迫”)+press ( 压) → 压迫例句：This experience left a deep impression on him and made him determined to do something for convicts and slaves and for all who were oppressed笔 记 区",
+      "collocations": [
+        "Impressionists such as Monet and Pissarro: 莫奈和毕沙罗等印象派画家释义： ( N-COUNT) 印象派画家An impressionist is an artist who paints in the style of Impressionism (usually Impressionist)( N-COUNT) 用滑稽方式模仿名流的艺人An impressionist is an entertainer who does amusing imitations of well- known people.oppress [ə 'pres] vt. 压迫；压制；使心情沉重；使压抑13412",
+        "Impressionists such as Monet and Pissarro: 莫奈和毕沙罗等印象派画家",
+        "释义： ( N-COUNT) 印象派画家",
+        "An impressionist is an artist who paints in the style of Impressionism (usually Impressionist)",
+        "( N-COUNT) 用滑稽方式模仿名流的艺人",
+        "An impressionist is an entertainer who does amusing imitations of well- known people."
+      ],
+      "etymology": "late 14c.,oppressen,\"to press unduly upon or against,overburden,weigh down,\"also figuratively,\"overwhelm overpower”(of sickness,grief, etc.);also “burden with cruel,unjust,or unreasonable restraints,treat with injustice or undue severity,keep down by an unjust exercise of power”.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "oppress",
+      "phonetic": "ə 'pres",
+      "pos": "vt.",
+      "definition": "压迫；压制；使心情沉重；使压抑",
+      "frequency": 13412,
+      "mnemonic": "op-(=ob-,against: 相反；反对)+press(=strike: 压迫) → 压制对立 的一方 →press unduly upon or against;press down;overburden;weigh down: 施加过度的压力；避迫；给……负担过重；使颓丧 → 引申词 义压制；压迫；使心情沉重\n邪解：op(=po: 拼音“迫”)+press ( 压) → 压迫\noppress (压迫；压制；使心情沉重)+-ed ( 形容词后缀) → 受压迫 的；受压制的；〔因受压制而〕烦恼的；忧郁的",
+      "collocations": [
+        "false impression: 错误印象\ninitial/first impression: 第一印象",
+        "and deprived of their liberty.\n这次经历给他留下了深刻印象，使他决定去为囚犯，以及所有被压迫 和被剥夺自由的人做一些事情。",
+        "oppress ruthlessly: 无情地压迫",
+        "oppress somebody: 使某人烦闷；使压抑\n笔 记 区oppressed [ə'prest] adj. 受压迫的；受压制的；(因受压制而)烦恼的；忧 郁的12435\n笔 记 区",
+        "oppressed minorities: 受压迫的少数民族",
+        "the oppressed: 受压迫者；被压迫的人民",
+        "feel oppressed: 憋闷"
+      ],
+      "etymology": "late 14c.,oppressen,\"to press unduly upon or against,overburden,weigh down,\"also figuratively,\"overwhelm overpower”(of sickness,grief, etc.);also “burden with cruel,unjust,or unreasonable restraints,treat with injustice or undue severity,keep down by an unjust exercise of power”.",
+      "examples": [
+        "This experience left a deep impression on him and made him determined to do something for convicts and slaves and for all who were oppressed"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "oppression",
+      "phonetic": "ə 'preʃ(a)n",
+      "pos": "n.",
+      "definition": "压迫；压制",
+      "frequency": 6945,
+      "mnemonic": "oppress (压迫；压制)+-ion ( 名词后缀) →压迫；压制\noppress(压迫；压制；使心情沉重；使压抑)+-ive ( 形容词后缀) → (社会、法律、习俗等)压迫的，压制的；令人心情沉重的；让人 感到压抑的",
+      "collocations": [
+        "political oppression: 政治压迫",
+        "the struggle against oppression: 反抗压迫的斗争",
+        "oppressiv e [ə'presiv] adj. ( 社会、法律、习俗等)压迫的，压制的；(天 气、空气等)闷热的，难以忍受的；令人心情沉重的；让人感到压抑 的9883",
+        "oppressive regime: 暴政",
+        "the oppressive afternoon heat: 湿热的午后暑气",
+        "the oppressive sadness: 令人抑郁的悲伤"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "oppressor",
+      "phonetic": "ə 'pres(r)",
+      "pos": "n.",
+      "definition": "压迫者；暴君",
+      "frequency": 18754,
+      "mnemonic": "oppress (压制；压迫)+-or ( 名词后缀，表示人) →压迫者；引申词 义暴君",
+      "collocations": [
+        "defense against oppressors: 反抗压迫者"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "repress",
+      "phonetic": "ri'pres",
+      "pos": "vt.",
+      "definition": "压抑，克制(情感);忍住(笑、叹气或呻吟);压制，限制(自由)1343920000词汇巅峰速趣课多20000词汇巅峰速",
+      "frequency": null,
+      "mnemonic": "笔 记 区 助记：re- ( 向后；往回)+press ( 按；压) → 往回按压 →to check,restrain:\n制约；限制 → 引申词义克制(情感);忍住；压制等 搭配：repress their emotions: 压制情感\ncouldn’t repress a sigh of admiration: 忍不住发出一声赞叹",
+      "collocations": [
+        "repress his people: 压制民众"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "repressed",
+      "phonetic": "rr'prest",
+      "pos": "adj.",
+      "definition": "( 感情、欲望等)受到压抑的",
+      "frequency": 13813,
+      "mnemonic": "repress (压抑情感等)+-ed ( 形容词后缀) → (感情、欲望等)受到 压抑的",
+      "collocations": [
+        "repressed anger: 被抑制的怒气"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "repression",
+      "phonetic": "r'prefon",
+      "pos": "n.",
+      "definition": "压制；镇压；(对感情、欲望等的)压抑",
+      "frequency": 7818,
+      "mnemonic": "repress (压制；压抑、克制情感等)+-ion ( 名词后缀) → 压制；镇",
+      "collocations": [
+        "government repression: 政府的压制",
+        "a society conditioned by violence and repression: 处于暴力和压迫中的 一个社会",
+        "the repression of feelings: 对情感的压抑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "repressive",
+      "phonetic": "rɪ'presrv",
+      "pos": "adj.",
+      "definition": "( 政府或法律)残酷的；严苛的；(对感情、欲望等的)压抑的；克制的",
+      "frequency": 11730,
+      "mnemonic": "repress (压制；镇压；克制情感)+-ive ( 形容词后缀) → (政府或法 律)残酷的；严苛的；(对感情、欲望等的)压抑的；克制的",
+      "collocations": [
+        "a repressive regime: 残酷苛刻的政权",
+        "repressive measures: 高压措施"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "suppress",
+      "phonetic": "sə'pres",
+      "pos": "vt.",
+      "definition": "镇压；压制；抑制(身体功能或反应);抑制(情感 或反应);封锁；阻止(活动);抑制(过程)5018",
+      "frequency": null,
+      "mnemonic": "sup-(=sub-: 向下)+ press ( 压)→压下去→对……进行压制；击打\n→镇压；抑制身体功能、情感或反应；封锁；阻止 搭配：suppress drug traffickers: 镇压毒贩子们",
+      "collocations": [
+        "the circulation of”is from 1550s of publications;medical use from 1620s. Related:Suppressed;suppressing.",
+        "suppress the growth of the cancerous cells: 抑制癌细胞的生长",
+        "suppress a smile: 强忍住一个微笑",
+        "suppress the information: 封锁这个消息",
+        "suppress inflation: 遏制通货膨胀",
+        "suppress emotions: 抑制情感",
+        "suppress appetite: 抑制胃口"
+      ],
+      "etymology": "late 14c.(implied in suppressing)\"be burdensome;\"1520s as “put down by force or authority,\"from Latin suppressus,past participle of supprimere “press down,stop,hold back,check,stifle”.Sense of “prevent or prohibit 速20000词汇巅峰 速 笔 记 区 笔 记 区",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "suppression",
+      "phonetic": "sə'preʃ(a)n",
+      "pos": "n.",
+      "definition": "镇压；压制；抑制",
+      "frequency": 10395,
+      "mnemonic": "suppress (镇压；压制；抑制身体功能、情感或反应)+-ion (名词后 缀)→镇压；压制；抑制身体功能、情感或反应\nde(=down: 向 下 ) +press ( 按；压) → 向下按压， ……受到抑制 → 按压；情绪沮丧低沉；(经济方面)价值降低 →使沮丧；使抑郁；降 低(价格);减少(工资);(经济)萧条；按压零部件\ndepress (沮丧；抑郁；使萧条)+-ed ( 形容词后缀) →沮丧的；患抑 郁症的；经济萧条的；低于正常水平的",
+      "collocations": [
+        "the suppression of a rebellion: 对反叛的镇压",
+        "subsequent suppression of the immune system: 随后免疫系统所受 的抑制",
+        "the suppression of emotion: 对感情的抑制",
+        "fire suppression: 灭火",
+        "depres s [dr’pres] vt. 使沮丧；使抑郁；降低(价格);减少(工资);使萧 条；使不景气；按，压，推下(尤指机器部件)11735",
+        "French depresser \"to press down,lower,\"from Late Latin depressare, frequentative of Latin deprimere “press down”.\nMeaning “push down physically,press or move downward”is from early 15c.;that of \"deject,make gloomy,lower in feeling\"is from 1620s;economic sense of“lower in value”is from 1878.",
+        "depress wages/prices: 减少工资；降低价格",
+        "feel lonely and depressed: 感到孤独和沮丧",
+        "clinically depressed: 临床诊断患有抑郁症",
+        "depressed housing market: 不景气的房产市场",
+        "a depressed appetite: 食欲不振"
+      ],
+      "etymology": "late 14c.,\"put down by force,conquer,\"a sense now obsolete,from Old",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "depressing",
+      "phonetic": "dr'presŋ",
+      "pos": "adj.",
+      "definition": "令人抑郁的；令人沮丧的；令人消沉的",
+      "frequency": 9300,
+      "mnemonic": "depress (抑郁；沮丧；消沉)+-ing (形容词后缀，令人……的) → 令人抑郁的；令人沮丧的；令人消沉的",
+      "collocations": [
+        "a depressing sight/thought/experience: 令人沮丧的景象/想法/经历"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "depression",
+      "phonetic": "dr’preʃ(ən",
+      "pos": "n.",
+      "definition": "抑郁症；经济萧条期，不景气时期",
+      "frequency": 2113,
+      "mnemonic": "depress (抑郁；使萧条)+-ion ( 名词后缀) →抑郁症；经济萧条 期，不景气时期",
+      "collocations": [
+        "post-natal depression: 产后抑郁症",
+        "deep depression: 情绪极度消沉",
+        "the Great Depression:(20世纪30年代的)大萧条"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "depressive",
+      "phonetic": "dr'presiv",
+      "pos": "adj.",
+      "definition": "抑郁的n. 抑郁症患者",
+      "frequency": 11685,
+      "mnemonic": "depress (使抑郁)+-ive ( 形容词后缀) →抑郁的；抑郁症患者",
+      "collocations": [
+        "a severe depressive disorder: 一种严重的抑郁症",
+        "depressive symptoms: 抑郁症状"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "depressant",
+      "phonetic": "di'presənt",
+      "pos": "n.",
+      "definition": "镇静剂a. 有镇静作用的",
+      "frequency": null,
+      "mnemonic": "depress (压制；抑制)+-ant (名词后缀) → 抑制情绪的东西 → 镇静剂\nanti-(against,opposed to: 与 … … 相反)+depress(deject,make\ngloomy,lower in feeling: 使沮丧；使忧愁；使抑郁)+-ant ( 名词后 缀) →对抗沮丧、忧愁、抑郁的情绪的事物 →抗抑郁药；使人放松 (或快乐)的事物；解忧良药\ns ( 加强语气)+queeze(=press: 压；挤) → 挤压",
+      "collocations": [
+        "a powerful antidepressant exercise: 能够使人一扫阴霾的锻炼",
+        "An anti-depressant is a drug which is used to treat people who are suffering from depression.",
+        "( N-COUNT) 使人放松(或快乐)的事物；解忧良药",
+        "You can use anti-depressant to talk about something that makes people feel happier and more relaxed.",
+        "squeez e [skwi:z] vt&vi. 塞进；挤进 vt. ( 常指用手)挤压；紧捏；挤；压榨 ( 液 体 等 ) n. 紧捏；挤压；满塞2914"
+      ],
+      "etymology": null,
+      "examples": [
+        "Manufacturing industry has been seriously squeezed.\n制造业被严重挤压。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "squelch",
+      "phonetic": "skweltʃ",
+      "pos": "vt.",
+      "definition": "压制；镇压vi. 发吧唧声；发扑哧声[+through/along/up]",
+      "frequency": 19434,
+      "mnemonic": null,
+      "collocations": [
+        "squelch rumors ofa takeover bid: 压制住了被收购的谣言 squelch across the turf: 扑哧扑哧地走过草皮"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reprimand",
+      "phonetic": "'reprima:nd",
+      "pos": "vt.",
+      "definition": "训斥；谴责 n. 训斥；谴责",
+      "frequency": 15361,
+      "mnemonic": "来自拉丁语reprimere: 指责，申斥\nre-(=back,again: 再 ；重 新 ) + prim(=press=to press,check, confine: 按压；限制；阻止)+-and ( 动词、名词后缀) → (因某人 行为越过既定规范、纪律)重新(用语言)按压、限制某人的行动； 阻止某人的行为→训斥；谴责\nre- ( 向后，往回)+prim( 按；压)+-and ( 动名词后缀)→训斥；谴责 搭配：reprimand sb(for doing sth.): 因某事训斥某人",
+      "collocations": [
+        "a severe reprimand: 严厉的斥责 释义：( VERB) 训斥；斥责；谴责",
+        "If someone is reprimanded,they are spoken to angrily or seriously for doing something wrong,usually by a person in authority.\n训斥；谴责\n与reprimand同样表达“责备，批评”含义的单词还有reproach。"
+      ],
+      "etymology": "1630s,from French réprimande(16c.),from Middle French reprimende \"reproof,\"from Latin reprimenda “that is to be repressed”(as in reprimenda culpa “fault to be checked”),fem.singular of reprimendus, gerundive of reprimere “hold back,curb,\"figuratively \"check,confine, restrain,refrain”.(from PIE root *per-(4)“to strike”).Spelling influenced in French by mander \"to summon.\" 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 笔 记 区",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reproach",
+      "phonetic": "rrproutfʃ",
+      "pos": "n.",
+      "definition": "责备；批评；批评的言辞；(使……)丢脸的人(或 事 ) vt. 批评；自责",
+      "frequency": 19268,
+      "mnemonic": "re-(=opposite of: 相 反 ) +proach(=prope =near: 靠近的) →bring near to: 使接近→现代含义引申为get in(someone’s)face: 贴近某\n人的脸→为了责备/批评某人；丢脸",
+      "collocations": [
+        "reproach to sb/sth: (给 … … )带来羞辱的人(或事);(使 … … )",
+        "reproach oneself: 自 责\n选20000词汇巅峰\n选\nbeyond/above reproach: 无可指责笔 记 区\nbeyond/above reproach: 无可指责\n笔 记 区",
+        "approach sb(for sth/for doing sth)/approach sb(with sth/with doing sth): 因某事责备/批评某人",
+        "bring reproach upon herself: 使她很丢面子",
+        "Print 的基本含义为“印；印刷”。"
+      ],
+      "etymology": "Proto-Indo-European root meaning \"to strike,\"an extended sense from root*per-(1)\"forward,through.\"",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "print",
+      "phonetic": "print",
+      "pos": "vt.",
+      "definition": "印刷；发表；刊登；印(数字、字母或图案);冲印；用印 刷体书写 n. 印刷；印花布料；印花；冲印出的照片；版画；印刷字； 脚印；指印adj.印刷的(媒体)2228",
+      "frequency": null,
+      "mnemonic": "print (印刷)+-ed ( 形容词后缀) → 印刷的；已印好的",
+      "collocations": [
+        "print his own posters: 印刷自己的宣传海报",
+        "a printing and publishing company: 一家印刷出版公司",
+        "the print media: 印刷媒体\nin print/get into print: ( 在书刊或报纸上)发表；刊登",
+        "in print: ( 书)仍在出版",
+        "out of print: ( 书)已经停印",
+        "study the fine print of his contract: 研读合同细则\n由print组成的单词有printer,printout,imprint,reprint,newsprint,fingerprint, footprint ,reprimand 等 。\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 printed ['printrd] adj.印刷的；已印好的7240",
+        "printed materials: 印刷材料"
+      ],
+      "etymology": "c.1300,“impression,mark”(as by a stamp or seal),from Old French preinte \"impression,\"noun use of fem.past participle of preindre “to press,crush,\"altered from prembre,from Latin premere “to press,hold fast,cover,crowd,compress”(from PIE root *per-(4)“to strike”).The Old French word also was borrowed into Middle Dutch (prente,Dutch prent) and other Germanic languages. 拉丁语动词premere ( 按；压)在古法语中派生的过去分词preindre, 形成了名词preinte ( 压印),为英语print的词源。后来引申义有刊 登；印花；版画；脚印；印刷的等",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "printer",
+      "phonetic": "'printə",
+      "pos": "n.",
+      "definition": "打印机；印刷工人；印刷公司",
+      "frequency": 5954,
+      "mnemonic": "print ( 印刷)+-er ( 名词后缀)→打印机；印刷工人；印刷公司",
+      "collocations": [
+        "laser printer: 激光印刷机",
+        "inkjet printer: 喷墨式打印机",
+        "send off to the printers: 已经寄给印刷厂了"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "printing",
+      "phonetic": "'printiŋ",
+      "pos": "n.",
+      "definition": "印刷(术);(书籍的)一次印刷；印刷体(一种书 写方法)7335",
+      "frequency": null,
+      "mnemonic": "print (印刷)+ -ing ( 名词后缀) → 印刷术；(书籍的)一次印刷； 印刷体",
+      "collocations": [
+        "first printing: 首 印",
+        "the invention of printing: 印刷术的发明",
+        "the printing industry: 印刷业"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "printout",
+      "phonetic": "'printaut",
+      "pos": "n.",
+      "definition": "打印件",
+      "frequency": 14644,
+      "mnemonic": "print (印刷)+-out ( 从里面往外；出来) →在印刷中从(打印机) 里面出来的文件资料→打印件",
+      "collocations": [
+        "a computer printout of various financial projections: 各种财政计划的计 算机打印资料"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "imprint",
+      "phonetic": "m'print",
+      "pos": "n.",
+      "definition": "深远影响；印痕 vt. 铭刻；压印",
+      "frequency": 10542,
+      "mnemonic": "im-(=into,in: 进入；使)+print(=to press: 按；压) → 引申词义印\n在里面的→深远影响；铭刻；压印 搭配：an indelible imprint: 不可磨灭的影响\nimprint sth.on/in/onto sth.: 在……上压印\nimprint sth.on your mind/memory/brain etc.: 铭记在心；留在脑海里 imprint with message or logo: 印上信息或标识",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reprint",
+      "phonetic": "ri:'print ",
+      "pos": "vt.",
+      "definition": "重印；再版n. 重印；再版；重印本；再版本",
+      "frequency": 9450,
+      "mnemonic": "re-(=back,again: 再；重新)+print ( 印刷；出版) → 重印；再版； 重印本",
+      "collocations": [
+        "reprint in 1918: 1918 年再版",
+        "a reprint ofa 1962 novel:1962年小说的重印本"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "newsprint",
+      "phonetic": "'nju:zprint",
+      "pos": "n.",
+      "definition": "新闻纸；报纸上的文字；印刷油墨",
+      "frequency": 17353,
+      "mnemonic": "news ( 新 闻 ) +print ( 打印) → 用来打印新闻的纸张；(为了报道新 闻)在报纸上打印出来的文字；打印新闻用的墨水→新闻纸；报纸上 的文字；印刷油墨",
+      "collocations": [
+        "a newsprint warehouse: 一个新闻纸货仓",
+        "the acres of newsprint devoted to somebody: 有关某人的大量的文字报道",
+        "get their hands covered in newsprint: 手上沾满了油墨"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "fingerprint",
+      "phonetic": "'fingəprint",
+      "pos": "n.",
+      "definition": "指纹 vt. 提取……的指纹；提取在……上的指纹",
+      "frequency": 7396,
+      "mnemonic": "finger(手指)+print(印痕；印迹) →表示指印；指纹",
+      "collocations": [
+        "his fingerprint on the murder weapon: 他留在凶器上的指纹 take someone's fingerprints: 让某人按手印",
+        "fingerprint the canoe: 提取独木舟上的指纹"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "footprint",
+      "phonetic": "'futprint",
+      "pos": "n.",
+      "definition": "脚印，足迹；(某物的)占位面积；(通信卫星)覆 盖区",
+      "frequency": 8583,
+      "mnemonic": "foot ( 脚 ) +print ( 印痕；印迹) →脚印；足迹",
+      "collocations": [
+        "the footprints of a deer: 一头鹿的足迹",
+        "carbon footprint: 碳足迹；碳排放量\na 50% smaller footprint: 占位面积小50%的\n自 词根“count” 表示“计算；数”,同样表示“计算；数”的词根还有 “calc-,-ckon,-quant”。",
+        "Intransitive sense \"be of value or worth\"is from 1857.Related: Counted;counting.To count on \"rely or depend upon\"is from 1640s. To count against (transitive)“to be to the disadvantage of”is by 1888. To count(someone)in “consider(someone)a participant or supporter” is from 1857;count(someone)out in the opposite sense “leave out off consideration”is from 1854."
+      ],
+      "etymology": "late 14c.,\"to enumerate,assign numerals to successively and in order; repeat the numerals in order,\"also \"to reckon among,include,\"from Old French conter \"to count,add up,\"also \"tell a story,\"from Latin computare \"to count,sum up,reckon together,\"from com “with,together”(see com-) +putare “to reckon,\"originally “to prune,\"from PIE root *pau-(2)“to cut, strike,stamp.\"",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "count",
+      "phonetic": "kaun t",
+      "pos": "vi.",
+      "definition": "数数；有价值 vt. 数……的数目；把……计算在内 vt.&vi 看作( count/count as)n. 点数；数目；罪状；伯爵",
+      "frequency": 1338,
+      "mnemonic": "来自拉丁语computare, 含义为“数数，计算……的总数，一起估 算”。\ncom-(=with ,together: 一起；总共)+ put-(= to reckon: 计算) → 加 起来计算，数算总数→计算；把……计算在内；数目+e→引申义为有 价值；看作",
+      "collocations": [
+        "count 表示伯爵。来源于法语counte 。在古罗马帝国时期，罗马皇帝身 边的亲信往往能得到皇帝的宠爱，掌管帝国的军政大权，有时还会出 任地方官吏，最常见的是担任某行省的总督。欧洲大陆部分国家的伯 爵爵位名称就出自拉丁文的comes, 意为“侍从”。例如，法语中表 示“伯爵”的单词为counte, 出自拉丁文comitem, 即comes 的宾格， 意思就是“伙伴，侍从”,进入英语后演变为英语单词count, 表示 欧洲大陆地区的伯爵。\n笔 记 区\n笔 记 区",
+        "count on: 指望；依赖(=depend on)",
+        "count as: 算是；看作",
+        "keep count of/lose count of: 计其数/无法计其数"
+      ],
+      "etymology": "count表示计算。来源于拉丁语computare ( 计算),传入古法语变为 conter,其”加起来报账”的含义后来被引申为”讲故事”,这个意义在 派生词account和recount中有所体现。",
+      "examples": [
+        "When labeling games as violent or non-violent,should a hero eating a ghost really be counted as a violent event?\n当标签游戏作为暴力或者非暴力，一个英雄把幽灵吃掉应不应该算得 上是一个暴力事件?\n单词 count的派生词有 discount,recount,counting,countless, counter 等 。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "discount",
+      "phonetic": "'diskaunt",
+      "pos": "n.",
+      "definition": "折扣 vt. 对……打折；不理会",
+      "frequency": 4554,
+      "mnemonic": null,
+      "collocations": [
+        "discount the rumor: 不理会这个传闻"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "recount",
+      "phonetic": "r'kaunt",
+      "pos": "vt.",
+      "definition": "叙述；描述n. 重新计票",
+      "frequency": 5557,
+      "mnemonic": null,
+      "collocations": [
+        "recount the story: 叙述故事",
+        "want a recount: 要求重新计票"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counting",
+      "phonetic": "'kauntiŋ",
+      "pos": "prep.",
+      "definition": "算上；把……计算在内",
+      "frequency": 9659,
+      "mnemonic": null,
+      "collocations": [
+        "not counting administrative expenses: 不算行政开支",
+        "and counting: 数量继续增长",
+        "more than 100 feet tall and counting: 高100多英尺并在继续长高"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "countless",
+      "phonetic": "'kauntlis",
+      "pos": "adj.",
+      "definition": "数不清的",
+      "frequency": 5115,
+      "mnemonic": null,
+      "collocations": [
+        "countless people: 无数人"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counter",
+      "phonetic": "'kauntə",
+      "pos": "n.",
+      "definition": "柜台；(尤指厨房的)工作台； 抵消物 vt.&v i. 反驳； 抵消；抗衡",
+      "frequency": 2851,
+      "mnemonic": null,
+      "collocations": [
+        "at the checkout counter: 在结账台",
+        "counter staff: 柜台职员",
+        "over the counter: ( 买药)不用处方",
+        "over-the-counter: 不通过交易所的",
+        "as a counter to: 作为……的抵消物；遏制力量"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "countertop",
+      "phonetic": "'kauntstap",
+      "pos": "n.",
+      "definition": "( 厨房的)工作台面",
+      "frequency": 13028,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "countdown",
+      "phonetic": "'kauntdaun",
+      "pos": "n.",
+      "definition": "倒数计秒；倒计时阶段[+to]15156",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "the countdown to the World Cup世界杯的倒计时阶段"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "account",
+      "phonetic": "ə 'kaunt",
+      "pos": "n.",
+      "definition": "账户；客户；账目；报道",
+      "frequency": 1075,
+      "mnemonic": "ac- (加强语气)+count ( 数目) →账户；账目(记录钱的数量)\nac+count ( 计算；数) → 计算(所占数量) → 占……比例；考虑 (“把……计算在内”即“考虑在内”)\nac+count ( 起作用；有价值) →解释；说明(“某原因起了作用”即 “该原因能解释说明问题”)",
+      "collocations": [
+        "take sth into account/consideration: 将……考虑在内",
+        "on no account: 绝对不",
+        "on account of: 因为",
+        "credit-card accounts: 信用卡账户",
+        "major accounts: 大客户",
+        "by all accounts/from all accounts: 据说",
+        "of no account/of little account: 无足轻重的on account: 以赊账方式 on someone's account: 为某人的缘故(而 … )",
+        "someone is brought to account for sth: 因某事而追究某人",
+        "someone give a good account of themselves: 某人表现很好",
+        "According to/By the latest statistics,English learning accounts for/makes up 50 percent of the spare time among college students.This accounts in part for why those who are willing to read classics/classsical works are becoming less and less.\n单词account 的派生词有accountability,accountable,accountant, accounting 等 。"
+      ],
+      "etymology": null,
+      "examples": [
+        "1)In the US,these groups account for an increasing percentage of the population.\n在美国，这些人群数量占总人口比例在急剧增加。",
+        "根据最新的统计数据，学英文占据了大学生50%的课外时间，这 就部分上解释了为什么读经典著作的人越来越少。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "accountability",
+      "phonetic": "ə ,kaunta'bilt",
+      "pos": "n.",
+      "definition": "有责任",
+      "frequency": 4855,
+      "mnemonic": null,
+      "collocations": [
+        "the accountability of a company's directors to the shareholders: 公司董 事向股东所负之责"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "accountable",
+      "phonetic": "ə'kauntəb(a)l",
+      "pos": "adj.",
+      "definition": "有有责任的；应作解释的",
+      "frequency": 5795,
+      "mnemonic": null,
+      "collocations": [
+        "should be accountable to their customers: 应该对它们的顾客负责"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "accountant",
+      "phonetic": "'kaunt(a)nt",
+      "pos": "n.",
+      "definition": "会计人员",
+      "frequency": 6036,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "CPA",
+      "phonetic": " ,sipi'e",
+      "pos": "abbr",
+      "definition": ": 注册会计师( Certified Public Accountant)20000词汇巅峰速0 趣课多20000词汇巅峰速",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "accounting",
+      "phonetic": "ə 'kauntɪŋ",
+      "pos": "n.",
+      "definition": "会计；记账",
+      "frequency": 3960,
+      "mnemonic": null,
+      "collocations": [
+        "the accounting firm: 会计事务所",
+        "a career in accounting: 会计职业\n自 词根“counter- ”表示“对抗；作对；对面的；对方的”",
+        "counter 的派生词或合成词有counterpart,counteract,encounter,counterattack,",
+        "counterbalance,counterculture,counterpoint,countertop,counterweight."
+      ],
+      "etymology": "counter(v.)“go against,come against,engage in combat,”late 14c., short for acountren,encountren.In boxing,\"to give a return blow while receiving or parrying a blow from one's opponent,\"by 1861.Related: Countered;countering. counter(adv.)\"contrary,in opposition,in an opposite direction,\"mid-15c., from counter-or from Anglo-French and Old French contre \"against,\"both ultimately from Latin contra(see contra (prep.,adv.)).As a preposition, \"contrary to,opposite,against,\"mid-15c. counter(adj.)1590s,\"acting in opposition,\"from counter(adv.)or counter-.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "encounter",
+      "phonetic": "in'kauntɔ;en-",
+      "pos": "vt.",
+      "definition": "遭遇；邂逅n. 邂逅；特殊经历",
+      "frequency": 2736,
+      "mnemonic": "encounter major and minor stresses: 遇到或大或小的压力",
+      "collocations": [
+        "a remarkable encounter with: 与……的惊人邂逅"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counterpart",
+      "phonetic": "'kauntəpa:t",
+      "pos": "n.",
+      "definition": "职务相当的人；作用相当的事物",
+      "frequency": 3853,
+      "mnemonic": null,
+      "collocations": [
+        "international counterparts: 国际上的同龄人；国际同行"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counteract",
+      "phonetic": "kaunta'ræekt",
+      "pos": "vt.",
+      "definition": "抵消；对抗；中和",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "counteract the effect: 抵消该影响",
+        "counteract his withdrawal symptoms: 消除他的脱瘾症\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counterattack",
+      "phonetic": "'kauntor,tæk",
+      "pos": "n.",
+      "definition": "反击；反攻",
+      "frequency": 17580,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counterbalance",
+      "phonetic": "'kaunts,bæl(ə)ns",
+      "pos": "vt.",
+      "definition": "平衡；抵消 n. 平衡因素；制衡力",
+      "frequency": 18511,
+      "mnemonic": null,
+      "collocations": [
+        "add honey to counterbalance the acidity: 加点蜂蜜以调和酸味",
+        "counterweight=counterbalance .['kauntəwet ] n. 平衡的行动；平衡的建议",
+        "as a useful counterweight to: 相对……来说，可作为一个有益的平衡"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counterculture",
+      "phonetic": "'kauntokaltʃə",
+      "pos": "n.",
+      "definition": "反主流文化",
+      "frequency": 19604,
+      "mnemonic": null,
+      "collocations": [
+        "the counterculture revolution of the late 1960s: 20 世纪60年代末的反正 统文化革命"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "counterpoint",
+      "phonetic": "'kauntappint",
+      "pos": "n.",
+      "definition": "( 音乐)对位法；旋律配合；有趣的对比， 惬意的对照[+to]14391",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a counterpoint to a professional judgement: 与专家的意见作了有趣 的对照",
+        "the perfect counterpoint to the peace and quiet of Reims: 与兰斯的平和 宁静相比简直是另一番景象\ncompute” 表示“计算”。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "compute",
+      "phonetic": "kɔm'pju:t",
+      "pos": "vt.",
+      "definition": "&vi.计算(结果、答案、总数等)7968",
+      "frequency": null,
+      "mnemonic": "com-(=with,together : 一起；总共)+-put-(=to reckon: 计 算 ) +e→\n加起来计算，数算总数→计算",
+      "collocations": [
+        "be computed at &5 million: 估算为500万英镑",
+        "computer-generated,computing,computation,computational,computerized等。"
+      ],
+      "etymology": "来自拉丁语computare。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computer",
+      "phonetic": "kəm'pju:tə",
+      "pos": "n.",
+      "definition": "计算机；电脑",
+      "frequency": 590,
+      "mnemonic": null,
+      "collocations": [
+        "on computer: 在电脑里",
+        "by computer: 通过电脑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "supercomputer",
+      "phonetic": "'supəkompjutə",
+      "pos": "n",
+      "definition": ".超级计算机",
+      "frequency": 17469,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computer-based",
+      "phonetic": "kɔm'pju:to beist",
+      "pos": "adj.",
+      "definition": "基于计算机的",
+      "frequency": 17905,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computer-generated",
+      "phonetic": "kom'pju:ta 'dʒen,rertrd",
+      "pos": "adj.",
+      "definition": "由计算机生成的",
+      "frequency": 16313,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computing",
+      "phonetic": "kəm'pju:trŋ",
+      "pos": "n.",
+      "definition": "计算机应用adj.与计算机有关的",
+      "frequency": 7987,
+      "mnemonic": null,
+      "collocations": [
+        "computing industries: 计算机行业"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computation",
+      "phonetic": "kpmpju'terʃ(o)n",
+      "pos": "n.",
+      "definition": "计算；计算的结果",
+      "frequency": 13387,
+      "mnemonic": null,
+      "collocations": [
+        "different methods of computation: 不同的计算方法"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computational",
+      "phonetic": "kompju'terʃənl",
+      "pos": "adj.",
+      "definition": "使用计算机的",
+      "frequency": 13609,
+      "mnemonic": null,
+      "collocations": [
+        "computational linguistics: 计算机语言学"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "computerized",
+      "phonetic": "kəm'pjutɔ,rarzd",
+      "pos": "adj.",
+      "definition": "计算机化的；计算机存储的",
+      "frequency": 8194,
+      "mnemonic": "calc-(=count: 数，计算)+ul ( 连接符号)+-ate ( 动词后缀) → 计 算；推测",
+      "collocations": [
+        "computerized databases: 计算机存储数据库",
+        "a computerized system: 计算机化系统\n同样表示“计算；数”的词根还有“calc-,-ckon”。\n笔 记 区calculate ['kælkjulert] vi. 计算；估计；推测3064\n笔 记 区",
+        "calculate how much/how many etc.: 计算多少(数量)",
+        "calculate on an hourly basis: 按小时计算",
+        "calculate that/how/what/whether etc.: 预测；估计……",
+        "calculate的派生词有calculated,calculation, miscalculation,calculator, calculus等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "calculated",
+      "phonetic": "'kælkjulertid",
+      "pos": "adj",
+      "definition": ".蓄意的；精心策划的；处心积虑的〔含贬义〕",
+      "frequency": 12821,
+      "mnemonic": null,
+      "collocations": [
+        "be calculated to do sth: 旨在做某事，用意在于某事",
+        "a question calculated to embarrass him: 故意要让他难堪的一个问题",
+        "a calculated risk: 预料到的奉献"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "calculation",
+      "phonetic": "kælkju'lerʃ(an",
+      "pos": "n.",
+      "definition": "计算",
+      "frequency": 4695,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "miscalculation",
+      "phonetic": ",miskælkjə'lefən",
+      "pos": "n.",
+      "definition": "算错；误算；(对局势的)错误判断",
+      "frequency": 18082,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "calculator",
+      "phonetic": "'kælkjulertə",
+      "pos": "n.",
+      "definition": "计算器",
+      "frequency": 11809,
+      "mnemonic": null,
+      "collocations": [
+        "a pocket calculator: 一个袖珍计算器"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "calculus",
+      "phonetic": "'kælkjuləs",
+      "pos": "n.",
+      "definition": "微积分学",
+      "frequency": 13102,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reckon",
+      "phonetic": "'rek(a)n",
+      "pos": "vt.",
+      "definition": "料想；以为；估算；认为",
+      "frequency": 8695,
+      "mnemonic": "re- ( 反复)+-ckon(=count: 认为；计算)→反复认为；计算→认 为；估计\nreckon的派生词有reckoning等。reckoning ['rek(ə)nɪŋ] n. 估算；最后审判日，算总账；报应14505搭配：in/into/out of the reckoning: (尤指体育比赛中)有/没有获胜的可能自 词根“qual-, quan-,quo -”也表示询问数量或程度，一般表示“质量；数量”,隐引申义为“品质；特性；才能”等。quantity ['kwpntitr] n. 数量[+of]; 大量4100词源：出现于14世纪早期，来自古法语quantite,cantite(12 世纪现代法语 quantité), 直接来自拉丁语quantitatem ( 主格为quantitas), 表示 relative greatness or extent: 相对的巨大或程度。来自拉丁语quantus of what size?how much?how great? what amount?表示什么大小?多少? 多大?多少数量?助记：quant-(量；数量)+-ity(名词后缀) →数量；大量搭配：huge quantities of oil: 大量石油in quantity: 大量；许多a large/small/vast etc. quantity of sth: 很多/很少/大量的某物in large/small/sufficient etc. quantities: 大量/少量/充足的量 比较：quantity表示数量，quality表示质量；品质。例句：Melina Kunar of the University of Warwick,and Todd Horowitz of Harvard Medical School ran a series of experiments in which two groups of volunteers had to pay attention and respond to a series of moving tasks on a computer screen that were reckoned equivalent in difficulty to driving. 华威大学的Melina Kunar和哈佛大学医学院的Todd Horowitz做了一些 列实验，在试验中两组志愿者要集中精力观察电脑屏幕上的一系列的 目标并且做出回应，这被认为与驾驶的困难相同。",
+      "collocations": [
+        "reckon的派生词有reckoning等。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reckoning",
+      "phonetic": "'rek(ə)nɪŋ",
+      "pos": "n.",
+      "definition": "估算；最后审判日，算总账；报应",
+      "frequency": 14505,
+      "mnemonic": null,
+      "collocations": [
+        "in/into/out of the reckoning: (尤指体育比赛中)有/没有获胜的可能"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quantity",
+      "phonetic": "'kwpntitr",
+      "pos": "n.",
+      "definition": "数量[+of]; 大量",
+      "frequency": 4100,
+      "mnemonic": "quant-(量；数量)+-ity(名词后缀) →数量；大量",
+      "collocations": [
+        "huge quantities of oil: 大量石油",
+        "in quantity: 大量；许多\na large/small/vast etc. quantity of sth: 很多/很少/大量的某物\nin large/small/sufficient etc. quantities: 大量/少量/充足的量 比较：quantity表示数量，quality表示质量；品质。"
+      ],
+      "etymology": "出现于14世纪早期，来自古法语quantite,cantite(12 世纪现代法语 quantité), 直接来自拉丁语quantitatem ( 主格为quantitas), 表示 relative greatness or extent: 相对的巨大或程度。来自拉丁语quantus of what size?how much?how great? what amount?表示什么大小?多少? 多大?多少数量?",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quality",
+      "phonetic": "'kwplətr",
+      "pos": "n.",
+      "definition": "质量；优质；优良品质；个性；特性",
+      "frequency": 765,
+      "mnemonic": "qual- (性质；特征；种类 ) + -ity ( 名词后缀)→质量；个性；特征 →引申义为优质；优良品质",
+      "collocations": [
+        "a college of quality: 一所优质学院",
+        "the quality of life: 生活质量",
+        "a childlike quality: 孩子般的个性",
+        "quantity 的派生词有quantify,quantitative,quandar y,quantum 等 。"
+      ],
+      "etymology": "c.1300,temperament,character,disposition. 来自古法语qualite=nature, characteristic: 本质；特性。来自拉丁语qualitatem=a quality,property; nature: 质量；性质；本性；种类。来自qualis=what kind of a: 什么 种类；类型。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quantify",
+      "phonetic": "'kwontrfai",
+      "pos": "vt.",
+      "definition": "&vi. 确定……的数量；量化",
+      "frequency": 9951,
+      "mnemonic": null,
+      "collocations": [
+        "difficult/impossible to quantify: 难以量化/不可能进行量化",
+        "quantify the region's economic decline: 对该地区经济衰退进行量化"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quantitative",
+      "phonetic": "'kwontr,tativ;-,tertiv",
+      "pos": "adj.",
+      "definition": "( 数)量的；定量的",
+      "frequency": 7803,
+      "mnemonic": null,
+      "collocations": [
+        "quantitative analysis: 定量分析",
+        "quantitative research: 定量研究"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quandary",
+      "phonetic": "'kwond(a)ri",
+      "pos": "n.",
+      "definition": "窘境；进退两难",
+      "frequency": 16185,
+      "mnemonic": "来自拉丁语quando: 何时；什么时候；哪天→表示犹豫，不确定→ 引 申词义困境；进退两难",
+      "collocations": [
+        "in a quandary: 左右为难"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quantum",
+      "phonetic": "'kwpntom",
+      "pos": "n.",
+      "definition": "量子adj .量子的",
+      "frequency": 5768,
+      "mnemonic": null,
+      "collocations": [
+        "quantum mechanics: 量子力学",
+        "a quantum leap/quantum jump: ( 大小、数量的)猛然剧增；(质量 的)突飞猛进\n笔 记 区趣课多\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quota",
+      "phonetic": "'kwəutə",
+      "pos": "n.",
+      "definition": "配额；定量[+of][+for]: ( 公正的、正确的或正常的) 份额[+of]",
+      "frequency": null,
+      "mnemonic": "quot-(=count )+ a ( 一个； 一定) →一定的数量 → 定额；配额",
+      "collocations": [
+        "sales/production quota: 销售指标",
+        "meet/make/achieve a quota: 完成定额",
+        "more than its quota of problems: 特别多的问题",
+        "quality 的派生词有qualify,qualifier ,qualifie d,qualification ,qualifying, qualitative, qualitatively 等 。"
+      ],
+      "etymology": "来自拉丁语quot, 多少。用于指战士或士兵的供给定额或配额，后词 义通用化。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualify",
+      "phonetic": "'kwplifar",
+      "pos": "vt.",
+      "definition": "( 通过增加细节、解释)使语气缓和；修饰；限定 vi 取得下一轮比赛资格；取得资格(文凭)vt.&vi. 使 … … 符合(某物的 全部特征);可算作( qualify as); ( 使)有资格拥有n. 通过预赛者",
+      "frequency": 3075,
+      "mnemonic": null,
+      "collocations": [
+        "to qualify for maternity: 有资格休产假",
+        "qualify his opinion: 补充说明他的观点\nqualify sb/sth for sth: 使某人有权做……/有资格拥有……"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualifier",
+      "phonetic": "'kwplifarə(r)",
+      "pos": "n.",
+      "definition": "取得参赛资格的人；资格赛；修饰语",
+      "frequency": 16156,
+      "mnemonic": null,
+      "collocations": [
+        "the World Cup qualifier against the Netherlands: 对阵荷兰的世界杯预选赛 host the U.S.-Mexico qualifier: 举行了美国对墨西哥的预选赛"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualified",
+      "phonetic": "'kwplifard",
+      "pos": "adj.",
+      "definition": "有资格的；有限度的",
+      "frequency": 6064,
+      "mnemonic": null,
+      "collocations": [
+        "qualified success: 局部成功"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualification",
+      "phonetic": ",kwplifi'kerʃ(ə)n",
+      "pos": "n.",
+      "definition": "资格；学历；资格取得；技能；限制条件；(已通过的)资格考试",
+      "frequency": 6940,
+      "mnemonic": null,
+      "collocations": [
+        "necessary qualifications: 必需的素质",
+        "be subject to many qualifications: 有许多限制条件\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualifying",
+      "phonetic": "'kwpli,faŋ",
+      "pos": "adj.",
+      "definition": "使具有资格的；预赛的",
+      "frequency": 14704,
+      "mnemonic": null,
+      "collocations": [
+        "qualifying performances: 排位赛成绩",
+        "the qualifying competition: 预选赛"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualitative",
+      "phonetic": "'kwplitəti v",
+      "pos": "adj.",
+      "definition": "质量的；定性的；性质的",
+      "frequency": 7214,
+      "mnemonic": null,
+      "collocations": [
+        "a qualitative analysis/study: 定性分析/研究"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "qualitatively",
+      "phonetic": "'kwalə,tetivli",
+      "pos": "adv.",
+      "definition": "实质上的",
+      "frequency": 18815,
+      "mnemonic": null,
+      "collocations": [
+        "qualitatively different: 实质上的差别",
+        "It forms all or part of:account;amputate;amputation;anapest;berate; compute;count(v.);depute;deputy;dispute;impute;pave;pavement;pit"
+      ],
+      "etymology": "Proto-Indo-European root meaning \"to cut,strike,stamp.\" (n.1)“hole,cavity;\"putative;rate(v.1)“to scold;”reputation;repute.",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "amputate",
+      "phonetic": "'æmpjutert",
+      "pos": "vt.",
+      "definition": "切除；截(肢)17705",
+      "frequency": null,
+      "mnemonic": "am-(=ambi-=around: 周围的)+-put-(=to cut,prune,trim: 切；修 剪；切除)+-ate ( 动词后缀) →在周围切除；修剪 → 原指给树木剪 枝，后指医学上人体截肢",
+      "collocations": [
+        "amputate his legs: 截去了他的双腿",
+        "amputate 的派生词或合成词有amputation,amputee 等 。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "amputee",
+      "phonetic": "æmpju'ti:",
+      "pos": "n.",
+      "definition": "n. 被截肢者17640自 词根“put-” 也表示“思考；考虑”deputy ['depjutr] n. 副职；议员；〔美国〕县行政司法官助理；代理人 / n. 被截肢者",
+      "frequency": 17640,
+      "mnemonic": "de-(=away: 离开)+ -put-(=to think,count,consider: 考 虑 ) + -y (名词后缀) → 离开某地(代表……)进行考虑的人 → 代理人(代表 当事人处理事务);副职(代表正职考虑);议员(代表某地民众思 考如何治理国家)\ndis-(=separately,apart: 分离地；与众不同的)+-put-(=to count,consider: 考虑)+e→各人想法不一样，各抒己见→引申义争论",
+      "collocations": [
+        "the deputy head of a school: 副校长the Deputy Secretary of State: 助理国务卿dispute [di'spju:t;'dispju:t] n. 争论 vt. 反驳；争夺(控制权、所有权)2726",
+        "somebody/something in dispute: 人/组织/事物有争议的dispute the allegations: 驳斥了这些无根据的指控pay disputes: 工资纠纷be beyond dispute: 无可争辩，确定无疑be open to dispute: 可商榷；有争议amputation [,ampju'terʃən] n. 截肢13065"
+      ],
+      "etymology": "c.1400,\"subordinate officer,one given the full power of an officer without holding the office,\"from Anglo-French deputé,noun use of past-participle of Old French députer“appoint,assign”. 来自盎格鲁-法语deputé。来源 于拉丁语putare ( 计算；考虑)的复合词deputare ( 分配；指派)。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "deputy",
+      "phonetic": "'depjutr",
+      "pos": "n.",
+      "definition": "副职；议员；〔美国〕县行政司法官助理；代理人",
+      "frequency": 2591,
+      "mnemonic": "de-(=away: 离开)+ -put-(=to think,count,consider: 考 虑 ) + -y (名词后缀) → 离开某地(代表……)进行考虑的人 → 代理人(代表 当事人处理事务);副职(代表正职考虑);议员(代表某地民众思 考如何治理国家)",
+      "collocations": [
+        "the deputy head of a school: 副校长",
+        "the Deputy Secretary of State: 助理国务卿"
+      ],
+      "etymology": "c.1400,\"subordinate officer,one given the full power of an officer without holding the office,\"from Anglo-French deputé,noun use of past-participle of Old French députer“appoint,assign”. 来自盎格鲁-法语deputé。来源 于拉丁语putare ( 计算；考虑)的复合词deputare ( 分配；指派)。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "dispute",
+      "phonetic": "di'spju:t;'dispju:t",
+      "pos": "n.",
+      "definition": "争论 vt. 反驳；争夺(控制权、所有权)2726",
+      "frequency": null,
+      "mnemonic": "dis-(=separately,apart: 分离地；与众不同的)+-put-(=to count,\nconsider: 考虑)+e→各人想法不一样，各抒己见→引申义争论 搭配：somebody/something in dispute: 人/组织/事物有争议的",
+      "collocations": [
+        "dispute the allegations: 驳斥了这些无根据的指控",
+        "pay disputes: 工资纠纷",
+        "be beyond dispute: 无可争辩，确定无疑",
+        "be open to dispute: 可商榷；有争议",
+        "disputed adj.有争议的12169\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "undisputed",
+      "phonetic": "ʌ ndi'spju:tid",
+      "pos": "adj.",
+      "definition": "( 事实、观点等)无需争议的；公认的；无异议的(领袖、冠军等)16354",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "his undisputed genius: 他那无需争议的天才",
+        "the undisputed leader : 公认的领袖"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "putative",
+      "phonetic": "'pju:tativ",
+      "pos": "adj.",
+      "definition": "公认的；推定的",
+      "frequency": 17077,
+      "mnemonic": null,
+      "collocations": [
+        "the putative father of this child: 这孩子的推定的父亲"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "repute",
+      "phonetic": "ri'pju:t",
+      "pos": "n.",
+      "definition": "名声；名望；美名",
+      "frequency": 19741,
+      "mnemonic": null,
+      "collocations": [
+        "of repute/of high repute: 名声好的；颇有名望的"
+      ],
+      "etymology": "来自拉丁语reputare “to count over,reckon;think over: 仔细思考；计 算；反复考虑。助记：re-(=repeatedly: 反复地)+-put-(=to judge, suppose ,believe, suspect: 判断；假定；认为；猜想)+e→ 反复考虑 的→一个人美好的名声引得众人反复思考他/她的品格→ 引申词义名 声；声望；美名",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reputable",
+      "phonetic": "'repjutob(a)l",
+      "pos": "adj.",
+      "definition": "声誉好的；有声望的",
+      "frequency": 14291,
+      "mnemonic": null,
+      "collocations": [
+        "a reputable firm/company: 一家声誉好的公司"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "reputation",
+      "phonetic": "repju'teɪʃ(an",
+      "pos": "n.",
+      "definition": "名誉；名望[+for][+as]2432",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "gain a reputation as a hard worker: 赢得了勤奋的好口碑"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pave",
+      "phonetic": "peiv",
+      "pos": "vt.",
+      "definition": "〔 用石块或混凝土板〕铺〔路、地面等〕7205",
+      "frequency": null,
+      "mnemonic": null,
+      "collocations": [
+        "a paved courtyard: 地面铺砌过的院子",
+        "pave the way for sth: 为……铺平道路；为……创造条件",
+        "the streets are paved with gold: 遍地是黄金〔表示在某地能迅速发财〕",
+        "pave的派生词有paving,pavement 等。"
+      ],
+      "etymology": "early 14c.,\"to cover(a street)with stones or other material\"。14 世纪早 期 ，pave 就有用石头或其他材料铺街道的含义。来自古法语paver=to pave, 铺路。来自拉丁语pavire=to beat,ram,tread down, 击打，踩， 践踏。来自词根pau-, 砍，击。",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "paving",
+      "phonetic": "'peivIŋ",
+      "pos": "n.",
+      "definition": "铺路材料",
+      "frequency": 18713,
+      "mnemonic": null,
+      "collocations": [
+        "concrete paving: 混凝土铺路材料"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "pavement",
+      "phonetic": "'peivm(a)nt",
+      "pos": "n.",
+      "definition": "路面；人行道",
+      "frequency": 6642,
+      "mnemonic": "pit=hole,cavity (洞；凹处)",
+      "collocations": [
+        "a pavement café: 路边咖啡馆",
+        "hit the pavement: 撞在了路面上",
+        "pi t [prt] n. 矿井；大坑；(赛车道旁的)检修加油站；核 vt. 使对立；除去 (水果的)核3894",
+        "pit one's wits against: 与……斗智",
+        "in the pit of one's stomach: ( 因恐惧或焦虑而生的)异于平常的感觉\nrate ”表示“怒斥”。"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "rate",
+      "phonetic": "rert",
+      "pos": "vt.",
+      "definition": "责骂；怒斥",
+      "frequency": 458,
+      "mnemonic": "rate →谐音“擂他”→责骂",
+      "collocations": [],
+      "etymology": "古法语reter ( 指责；归咎),来自(缩写自)拉丁语 reputare, 思 考，反思→ 中古英语rate ( 责骂) →rate ( 引申词义责骂，怒斥。常见 于复合词berate, 责备)",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "berate",
+      "phonetic": "br'rert",
+      "pos": "vt.",
+      "definition": "[+for] 训斥；严厉指责",
+      "frequency": 16426,
+      "mnemonic": "berate→ 谐音“必擂他”→必须要擂他一顿→痛骂\nbe-(= thoroughly: 彻底地)+rate(=to scold: 责骂) → 严厉斥责",
+      "collocations": [
+        "berate Joe for the noise he made: 指责乔制造的噪声",
+        "a calculated attempt to seduce Snow White to eat the poison apple 白雪公主的后母处心积虑诱惑她吃毒苹果\n\"qu-” 开头的单词一般表示“who,which,how,why,where,in what respect, to what extent”, 即英文中的特殊疑问词，如“what,when,whence,where, whether,which,whither,who,whoever,whom,whose,why,how” 等单词都是源 于“qu-” 这个词根。\nquery” 表示“提问”,“quest” 表示“探求；寻求”"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "query",
+      "phonetic": "'kwIəri",
+      "pos": "n.",
+      "definition": "疑 问vt. 对……提出疑问；询问",
+      "frequency": 10092,
+      "mnemonic": null,
+      "collocations": [
+        "have any queries: 有任何疑问"
+      ],
+      "etymology": "1530s,quaere “a question,\"from Latin quaere“ask,”imperative of quaerere “to seek,look for;strive,endeavor,strive to gain;ask,require, demand;\"figurativel y“seek mentally,seek to learn,make inquiry”.来 自拉丁语quaere=a question,ask: 疑问；询问；查问 搭配：query your bill: 对账单提出质疑",
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "quest",
+      "phonetic": "kwest",
+      "pos": "n.",
+      "definition": "( 长久而艰难的)搜寻；探求vi. 搜寻；探求",
+      "frequency": 4108,
+      "mnemonic": "quest(=seek: 寻求；搜索) → 寻求；搜寻",
+      "collocations": [
+        "judicial inquiries or hounds seeking game),from Old French queste “search, quest, chase, hunt, pursuit; inquest, inquiry\" (12c., Modern French quête), properly \"the act of seeking,\"and directly from Medieval Latin questa \"search,inquiry,\"alteration of Latin quaesitus(fem.quaesita)“sought-out, select,\"past participle of quaerere “seek,gain,ask”.",
+        "in quest of something: 寻找某物",
+        "the quest for a better bank: 搜寻一家更好的银行",
+        "his questing mind and boundless enthusiasm: 他的探索型头脑和无限 的热情",
+        "quest的派生词有request,question,unquestioned,questionable,unquestionably, questioner,questioning ,questionnaire 等。"
+      ],
+      "etymology": null,
+      "examples": [
+        "Job-hunting tasks gain added meaning as you sense their importance in your quest for a more meaningful work life.\n找工作能获得更多的意义，因为你在寻求一个更有意义的工作生活时 意识到了他们的重要性。"
+      ],
+      "rootHint": "ev"
+    },
+    {
+      "word": "request",
+      "phonetic": "rr'kwest",
+      "pos": "vt.",
+      "definition": "请求；正式要求n. 请求",
+      "frequency": 2134,
+      "mnemonic": "re-(=repeatedly: 反 复 地 ) +quest ( 探求) →反复地探求 →请求；正 式要求",
+      "collocations": [
+        "at someone's request: 应某人的要求",
+        "on request: 应要求",
+        "at the request of: 应……的邀请，应……的要求",
+        "request for: 要求"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "question",
+      "phonetic": "'kwestʃ(a)n",
+      "pos": "n.",
+      "definition": "问题；询问；疑问；(需考虑的)问题；试题 vt. 询问；怀疑",
+      "frequency": 197,
+      "mnemonic": null,
+      "collocations": [
+        "in question: 正被提及的；有关的",
+        "out of the question: 完全不可能的",
+        "pop the question: 求婚",
+        "there is no question of:…… 是不可能的笔 记 区",
+        "there is no question of:…… 是不可能的\n笔 记 区"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "unquestioned",
+      "phonetic": "ʌn'kwestʃ(a)nd",
+      "pos": "adj.",
+      "definition": "无可置疑的；无可争议的；不加质询的",
+      "frequency": 19163,
+      "mnemonic": null,
+      "collocations": [
+        "the unquestioned ruler of: …… 无可争议的领导者",
+        "give unquestioned obedience to authority: 对权威不加质询地顺从"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "questionable",
+      "phonetic": "'kwestʃ(ə)nb(a)l",
+      "pos": "adj.",
+      "definition": "可疑的；不合理的",
+      "frequency": 6337,
+      "mnemonic": null,
+      "collocations": [
+        "questionable business practices: 可疑的商业行为"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "unquestionably",
+      "phonetic": "ʌn'kwestʃənabli",
+      "pos": "adv.",
+      "definition": "毫无疑问地，无可置疑地，肯定地",
+      "frequency": 13696,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "questioner",
+      "phonetic": "'kwestʃənə",
+      "pos": "n.",
+      "definition": "提问者",
+      "frequency": 18594,
+      "mnemonic": null,
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "questioning",
+      "phonetic": "'kwestʃənŋ",
+      "pos": "n.",
+      "definition": "怀疑的；询问的",
+      "frequency": 7918,
+      "mnemonic": null,
+      "collocations": [
+        "give Ruth a questioning look: 怀疑地看了露丝一眼"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "questionnaire",
+      "phonetic": ",kwestʃə'neə(r)",
+      "pos": "n.",
+      "definition": "( 用以收集资料的)问卷；调查表",
+      "frequency": 3643,
+      "mnemonic": null,
+      "collocations": [
+        "fill in/fill out/complete a questionnaire: 填写/完成调查表"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "ev"
+    },
+    {
+      "word": "cue",
+      "phonetic": "kju:",
+      "pos": "n.",
+      "definition": "( 戏剧中暗示下一位演员接言或出场的)尾白，提示；提示； 暗示[+for]; 触发事件 vt. ( 尤指在表演中)提示",
+      "frequency": 4929,
+      "mnemonic": null,
+      "collocations": [
+        "( right/as if)on cue: 恰好；正好",
+        "cue ball: 撞球台上的白色球；母球"
+      ],
+      "etymology": "在16和17世纪时，在西方戏剧的脚本上，往往有表示提醒演员说话 或上场的提示符号Q,Q 是拉丁单词quando(= 英语中的when) 的缩 写。后来，这个符号逐渐演变为单词cue, 其发音跟Q一样。词义也 逐渐扩展，不仅可以用来表示戏剧中的提示，还可以表示任何“提 示”,泛指“暗示”。",
+      "examples": [],
+      "rootHint": "ev"
+    }
+  ]
+}

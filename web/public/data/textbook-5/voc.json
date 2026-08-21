@@ -1,0 +1,824 @@
+{
+  "chapter": "5",
+  "chapterOrder": 105,
+  "id": "voc",
+  "meaningZh": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
+  "roots": [
+    "voc"
+  ],
+  "semanticLabel": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
+  "source": "textbook-5",
+  "titleZh": "说压缩自单词voice（因为 i 字母发音很弱，而 e",
+  "words": [
+    {
+      "collocations": [
+        "give voice to：大声表达",
+        "keep voice down：放低嗓门\nraise / lower voice：提高嗓门 / 压低嗓门\nlose voice：失声",
+        "at the top of one’s voice：用最大的音量"
+      ],
+      "definition": "表达 n. 嗓音；意见",
+      "etymology": "Late 13c., “sound made by the human mouth,” from Old French voiz “voice, speech; word, saying, rumor, report” (Modern French voix).",
+      "examples": [],
+      "frequency": 466,
+      "mnemonic": "voic（=sound, speak：声音；说）+-e→嗓音；意见；表达",
+      "phonetic": "vɒɪs",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "voice"
+    },
+    {
+      "collocations": [
+        "German vocabulary：德语词汇",
+        "the vocabulary of natural science：自然科学词汇"
+      ],
+      "definition": "词汇量；（某学科的）专门词汇",
+      "etymology": "1530s，“list of words with explanations=带有解释的单词列表”，来自 中世纪拉丁语vocabularium“a list of words=单词一览表”，来自拉丁 语vocabulum“word, name, noun=单词，名称，名词”，来自vocare “to name, call=命名；称呼”，与vox “voice=声音”有关。来自词根 20000 词汇巅峰 速 记 笔 记 区 *wekw-“to speak=讲话”。",
+      "examples": [],
+      "frequency": 5640,
+      "mnemonic": "vocab-（=word, noun：单词；名词）+ ul + -ary（名词词缀）→单词\n的集合→词汇量；专业词汇",
+      "phonetic": "vəˈkæbjələri",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "vocabulary"
+    },
+    {
+      "collocations": [
+        "vocal orders：口头命令",
+        "vocal music：声乐",
+        "vocal cord：声带"
+      ],
+      "definition": "嗓音的；发声的；大声表达的；直言不讳的 n. （乐曲中的）歌唱部分；声乐部分",
+      "examples": [],
+      "frequency": 4539,
+      "mnemonic": "voc-（=sound, speak：声音；说话）+ -al（形容词后缀）→嗓音的；",
+      "phonetic": "ˈvəʊk(ə)l",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "vocal"
+    },
+    {
+      "collocations": [
+        "a lead / guest / backing vocalist：领唱 / 特邀 / 伴唱歌手"
+      ],
+      "definition": "（尤指流行音乐或爵士乐队的）歌手；歌唱者",
+      "examples": [],
+      "frequency": 15233,
+      "mnemonic": "vocal（发声的）+ -ist（名词后缀，表示专家，从事某种职业的人）\n→发声歌唱的人→歌手；歌唱者",
+      "phonetic": "ˈvəʊkəlɪst",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "vocalist"
+    },
+    {
+      "collocations": [
+        "a real vocation：真正的使命感",
+        "vocation training：职业训练"
+      ],
+      "definition": "（认为特别适合自己的）工作，职业，生活方式；信心，使命感",
+      "examples": [],
+      "frequency": 10139,
+      "mnemonic": "voc-（=call：呼喊；呼叫）+ -ation（名词后缀）→神召唤去做的事情\n→工作；职业；使命感",
+      "phonetic": "vəʊˈkeɪʃn",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "vocation"
+    },
+    {
+      "collocations": [
+        "vocational training in engineering：工程学职业培训"
+      ],
+      "definition": "职业的；职业技术的",
+      "examples": [],
+      "frequency": 8439,
+      "mnemonic": "vocation（职业）+ -al（形容词后缀）→职业的；职业技术的",
+      "phonetic": "vəʊˈkeɪʃənl",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "vocational"
+    },
+    {
+      "collocations": [
+        "Vowed; vowing.",
+        "(Modern French vœu).",
+        "make a silent vow：默默发誓",
+        "marriage vows：结婚誓词",
+        "exchange vows：交换誓言\n笔 记 区"
+      ],
+      "definition": "发誓 n. 誓言；誓约",
+      "etymology": "(v.)“promise solemnly,” c. 1300, from Old French voer, from voe. Related: (n.)“solemn promise,” c. 1300, from Anglo-French and Old French voe",
+      "examples": [],
+      "frequency": 5536,
+      "phonetic": "vaʊ",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "vow"
+    },
+    {
+      "collocations": [
+        "vocalis, in littera vocalis, literally “vocal letter,” from vox (genitive vocis)",
+        "has a different vowel system：有不同的元音系统"
+      ],
+      "definition": "元音；元音字母",
+      "etymology": "c. 1300, from Old French voieul (Modern French voyelle), from Latin “voice,” from PIE root *wekw-“to speak.”",
+      "examples": [],
+      "frequency": 14006,
+      "phonetic": "ˈvaʊəl",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "vowel"
+    },
+    {
+      "collocations": [
+        "freedom-of-speech advocates：言论自由的鼓吹者",
+        "devil’s advocate：故意唱反调的人",
+        "understand universal principles of effectiveness, and he highlights how",
+        "vital it is for leaders to first personally manage themselves if they are to",
+        "enjoy any hope of outstanding success in their work environments.\n和这些观点不同，Covey主张领导者必须理解效能的普遍原则，他强\n调，如果他们想要在工作环境中去享受杰出的成功，最重要的是加强\n自我管理。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition": "拥护；支持；提倡 n. 倡导者；为（某团体）谋利益者；辩护律师",
+      "etymology": "advocate原本表示古罗马的律师，负责在法庭上为委托人进行辩护， 听到法官的喊声后上前发言，因此被称为advocate。由于advocate替 委托人争取利益，因而衍生出“拥护者；支持者；提倡者”的含义。",
+      "examples": [
+        "In contrast to each of these ideas, Covey advocates that leaders need to"
+      ],
+      "frequency": 2646,
+      "mnemonic": "ad-（=to）+ -voc-（=call：呼吁）+ -ate（动词后缀）→本意是指\n“（为某人）在法庭上呼吁”→后来演变为拥护；支持；提倡",
+      "phonetic": "ˈædvəkeɪt;-ət",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "advocate"
+    },
+    {
+      "collocations": [
+        "advocacy of free trade：自由贸易倡议"
+      ],
+      "definition": "（对某思想、行动方针、信念的）拥护，支持，提倡；游说（组织）",
+      "examples": [],
+      "frequency": 5139,
+      "mnemonic": "advoca（=advocate：拥护；支持；提倡）+ -cy（名词后缀）→拥",
+      "phonetic": "ˈædvəkəsɪ",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "advocacy"
+    },
+    {
+      "collocations": [
+        "provoke debate / discussion：激起辩论 / 讨论",
+        "provoke widespread criticism：引起广泛批评\nprovoke sb. into (doing) sth.：激怒 / 激起某人做某事"
+      ],
+      "definition": "激起；激怒；挑衅",
+      "examples": [],
+      "frequency": 4872,
+      "mnemonic": "pro-（per-=forth：向前）+ -vok（=to call：叫喊）+ e→call forth,\nchallenge：站在别人面前（公开的）叫喊→挑衅；激起；激怒（比如",
+      "phonetic": "prəˈvəʊk",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "provoke"
+    },
+    {
+      "collocations": [
+        "deliberate provocation：故意挑衅",
+        "at the slightest provocation：稍一招惹"
+      ],
+      "definition": "激怒；挑衅；挑衅性事件",
+      "examples": [
+        "He denies murder on the grounds of provocation.\n他以受到了挑衅为理由而否认谋杀。"
+      ],
+      "frequency": 12974,
+      "mnemonic": "provoc（=provoke：激怒；挑衅）+ -ation（名词后缀）→激怒；挑",
+      "phonetic": "ˌprɒvəˈkeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "provocation"
+    },
+    {
+      "collocations": [
+        "a provocative act：挑衅行为",
+        "provocative comment / remark / statement：挑动性言论",
+        "provocative images of young girls：少女们撩人的形象"
+      ],
+      "definition": "挑衅的；挑逗性的",
+      "examples": [],
+      "frequency": 7344,
+      "mnemonic": "provoc（=provoke：挑衅）+ -ative（形容词后缀）→挑衅的；挑逗性",
+      "phonetic": "prəˈvɒkətɪv",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "provocative"
+    },
+    {
+      "collocations": [
+        "evoke a negative image：引起一种消极的印象",
+        "arouse sympathy：激起同情",
+        "arouse concern：引起担心\n笔 记 区\nraise：表示“激起；唤起”",
+        "The article raised my interest in the study of phychology.\n这篇文章激起了我研究历史的兴趣。",
+        "the scene evoking memories of those old movies：唤起对那些老电影的",
+        "evoke memories of her youth：勾起了她对青年时代的回忆",
+        "evoke public sympathy：引起公众的同情"
+      ],
+      "definition": "vt. 引起，唤起（感情、记忆或形象）",
+      "etymology": "来自拉丁语动词evocare，由ex（out）+vocare（呼喊）构成，意思就 20000 词汇巅峰 速 记 是call out, rouse, summon（唤起；激起；召唤）。该词来自古罗马军 队在攻打敌方城市时的一种仪式。在攻打敌方城市时，为了避免招致 对方城市守护神的愤怒，古罗马人会举行一种仪式，请求对方的守护 神放弃对敌人的庇佑，离开敌方城市。为了争取神灵，古罗马人会在 仪式上承诺为神灵修建比敌方更好的神庙或其他更优惠的条件。这 种请求敌方守护神离开敌方城市的做法就是evoke，字面就是就“大 声呼喊、请求离开”。后来， evoke的神秘含义已经消失，仅仅表示 “唤起、引起”感情、记忆或形象等。",
+      "examples": [],
+      "frequency": 5078,
+      "mnemonic": "e-（=ex：出来）+ -vok-（喊；叫）+ -e→叫出来→引起；唤起\na-（加强语气=to：去）+ -rouse（=raise：唤起，激起；首尾辅音均相\n同，中间元音发生变化是合理现象，二者同源）→激起；激发\ne-（=out：向外）+ -vok-（=to call：叫喊）+ -e→call out：大声呼\n叫，大声说（以吸引注意力）→引起；唤起（感情、记忆或形象）",
+      "phonetic": "ɪˈvəʊk",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "evoke"
+    },
+    {
+      "collocations": [
+        "(from PIE root *en “in”)+vocare “to call,” related to noun vox (genitive",
+        "invoke a vision of：描绘出……的景象",
+        "invoke the atmosphere of the wide open spaces of the prairies：使人想起\n了那种辽阔草原的氛围"
+      ],
+      "definition": "使唤起，引起（感情或想象）；援用（法律、规则等作为行动理由）；援引（某人、某理论、实例等作为支持）",
+      "etymology": "Late 15c., from Old French invoquer, envoquer, envochier “invoke, implore” (12c.), from Latin invocare “call upon, implore,” from in- “upon” vocis) “voice” (from PIE root *wekw- “to speak”). Related: Invoked; invoking.",
+      "examples": [
+        "The judge invoked an international law that protects refugees."
+      ],
+      "frequency": 5483,
+      "mnemonic": "in-（=upon）+ vok（=voc：呼喊）+ e→call upon：召唤→使唤起；",
+      "phonetic": "ɪnˈvəʊk",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "invoke"
+    },
+    {
+      "collocations": [
+        "an invocation for divine guidance：求神引导的一个祷告"
+      ],
+      "definition": "祈求；开场祈祷",
+      "examples": [],
+      "frequency": 15738,
+      "mnemonic": "invoc（=invoke：唤起；引起）+ -ation（名词后缀）→祈求；开场祈",
+      "phonetic": "ˌɪnvəˈkeɪʃn",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "invocation"
+    },
+    {
+      "collocations": [
+        "revoke her husband’s licence：撤销了她丈夫的许可证"
+      ],
+      "definition": "撤销；废除",
+      "examples": [],
+      "frequency": 12938,
+      "mnemonic": "re-（=back：向后；往回）+ -vok（=to call：叫喊）+ -e→call back：\n喊回去→引申词义撤销；废除",
+      "phonetic": "rɪˈvəʊk",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "revoke"
+    },
+    {
+      "collocations": [
+        "an irrevocable decision / step：最后的决定 / 一步",
+        "irrevocably committed：义无反顾地献身"
+      ],
+      "definition": "不能撤回地",
+      "examples": [],
+      "frequency": 18535,
+      "mnemonic": "ir-（=not：不；无）+ revoc（=revoke：撤销；废除）+ -able（形容词\n后缀，能够……的）+ -ly（副词后缀）→不能撤回地",
+      "phonetic": "ɪˈrɛvəkəbli",
+      "pos": "adv.",
+      "rootHint": "voc",
+      "word": "irrevocably"
+    },
+    {
+      "collocations": [
+        "a brilliant evocation of childhood：对童年生活美好回忆的唤起",
+        "a perfect evocation of the period：该时代的一个完美的重现\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition": "（形象）重现",
+      "examples": [],
+      "frequency": 17629,
+      "mnemonic": "evoc（=evoke：引起；唤起）+ -ation（名词后缀）→唤起→（形象）",
+      "phonetic": "ˌiːvəʊˈkeɪʃn",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "evocation"
+    },
+    {
+      "collocations": [
+        "evocative smells / sounds / music：引起回忆的气味 / 声音 / 音乐"
+      ],
+      "definition": "唤起回忆的；引起共鸣的",
+      "examples": [],
+      "frequency": 13948,
+      "mnemonic": "evoc（=evoke：引起；唤起）+ -ative（复合形容词后缀）→唤起（感",
+      "phonetic": "ɪˈvɒkətɪv",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "evocative"
+    },
+    {
+      "collocations": [
+        "unequivocal commitment：明确承诺"
+      ],
+      "definition": "表达明确的；毫不含糊的",
+      "examples": [],
+      "frequency": 16284,
+      "mnemonic": "un-（=not：不）+ equi-（=equal：相等的）+ voc（=sound：声音）+\n-al（形容词后缀）→not of identical sound, not of equal voice：声音不\n一样的→表达明确的；毫不含糊的",
+      "phonetic": "ˌʌnɪˈkwɪvəkl",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "unequivocal"
+    },
+    {
+      "collocations": [
+        "state unequivocally：明确表示"
+      ],
+      "definition": "明确地；毫不含糊地",
+      "examples": [],
+      "frequency": 5215,
+      "mnemonic": "unequivocal （表达明确的；毫不含糊的）+ -ly（副词后缀）→明确",
+      "phonetic": "ˌʌnɪˈkwɪvəkəli",
+      "pos": "adv.",
+      "rootHint": "voc",
+      "word": "unequivocally"
+    },
+    {
+      "collocations": [
+        "voucher, Old French vocher “to call, summon, invoke, claim”. Meaning",
+        "vouch for sb. / sth.：替……担保（或保证）",
+        "vouch for sth.：（因有证据而）为……作证",
+        "vouch for her ability to work hard：保证她能够努力工作"
+      ],
+      "definition": "担保；保证；作证",
+      "etymology": "Early 14c., “summon into court to prove a title,” from Anglo-French “guarantee to be true or accurate” is first attested 1590s. Related: Vouched; vouching. 原指召唤到法庭出庭证明一项权利，引申词义担保，保 证……正确。",
+      "examples": [],
+      "frequency": 18936,
+      "phonetic": "vaʊtʃ",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "vouch"
+    },
+    {
+      "collocations": [
+        "a voucher for a free meal：免费用餐券",
+        "a travel voucher：旅游券",
+        "the discount voucher：优惠券\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "gift voucher：礼券\n单词 tempt 含义为 to try out，即“尝试；努力”的意思。"
+      ],
+      "definition": "代币券；购物券",
+      "etymology": "来自拉丁语temptare “to feel, try out, attempt to influence, test,” a variant of tentare “handle, touch, try, test.” Related: Tempted; tempting.",
+      "examples": [],
+      "frequency": 7381,
+      "mnemonic": "vouch：担保→引申词义担保兑现的凭据，用于指票券",
+      "phonetic": "ˈvaʊtʃə",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "voucher"
+    },
+    {
+      "collocations": [
+        "be tempted by sth.：被……吸引了",
+        "tempt drivers to speed：引诱司机超速行驶"
+      ],
+      "definition": "引诱；吸引；诱使",
+      "examples": [],
+      "frequency": 5665,
+      "mnemonic": "tempt（=try out：尝试；努力）→吸引；引诱（因为对你有“诱惑",
+      "phonetic": "tem(p)t",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "tempt"
+    },
+    {
+      "collocations": [
+        "in an attempt to：尝试去……",
+        "attempt to do sth.：尝试做某事",
+        "attempted murder：谋杀未遂\n（阅读，写作）例句：Attempts to prevent pollution by legislation, economic",
+        "incentives and friendly persuasion have been netted by lawsuits, personal",
+        "and industrial denial and long delays—not only in accepting responsibility,",
+        "but more importantly, in doing something about it.\n尝试通过立法，经济刺激和友好劝说的方式去阻止污染已经被诉讼，\n个人和企业拒绝和长时间的拖延束缚住了——不仅仅是在接受这种义\n务方面，刚重要的是，在做出一些行动方面。\n阅读难点：economic incentives：经济刺激\nnet：被网住，束缚",
+        "Attempts to prevent piracy by legislation, economic incentives and friendly",
+        "persuasion have been netted by weak legal consciousness, personal and\n20000 词汇巅峰\n速\n记",
+        "industrial denial and long delays.\n笔 记 区"
+      ],
+      "definition": "试图（尤指做困难的事） n. （常指不成功的）企图；（杀人）企图",
+      "examples": [
+        "尝试通过立法，经济刺激和友好劝说的方式去阻止盗版已经被法\n律意识淡薄，个人和企业拒绝，以及长时间的拖延束缚住了。"
+      ],
+      "frequency": 1232,
+      "mnemonic": "at-（=ad-：to）+tempt（=try out：尝试）→试图；企图",
+      "phonetic": "əˈtempt",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "attempt"
+    },
+    {
+      "collocations": [
+        "a case of attempted murder：一起谋杀未遂案件"
+      ],
+      "definition": "（犯罪或非法行为）未遂的",
+      "examples": [],
+      "frequency": 8185,
+      "phonetic": "əˈtɛmptɪd",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "attempted"
+    },
+    {
+      "collocations": [
+        "resist temptation：抵抗诱惑",
+        "to give way to / yield to temptation：经不住诱惑"
+      ],
+      "definition": "引诱；诱惑",
+      "examples": [],
+      "frequency": 5991,
+      "mnemonic": "tempt（引诱）+-ation（名词后缀）→引诱；诱惑",
+      "phonetic": "tempˈteɪʃn",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "temptation"
+    },
+    {
+      "collocations": [
+        "turn down the tempting offer of the Palm Beach trip：拒绝了去棕榈海滩",
+        "the temptingly low price：低得诱人的价格"
+      ],
+      "definition": "吸引人的；诱人的；有吸引力的",
+      "examples": [],
+      "frequency": 8736,
+      "mnemonic": "tempt（吸引）+ -ing（形容词后缀）→吸引人的；诱人的",
+      "phonetic": "ˈtemptɪŋ",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "tempting"
+    },
+    {
+      "collocations": [
+        "Related: Taunted; taunting.",
+        "taunt a disabled man：羞辱了一个残疾人",
+        "suffer racist taunts：遭到了种族主义者的羞辱\n单词 cross 原始含义为“十字架”，因此有叉形记号 （X）的含义。动\n词含义有穿过；横跨；交叉等。",
+        "Christianity” (mid-10c.), probably from Old Norse or another Scandinavian\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "source, picked up by the Norse from Old Irish cros, from Latin crux",
+        "(accusative crucem, genitive crucis) “stake, cross” on which criminals",
+        "were impaled or hanged (originally a tall, round pole); hence, figuratively,",
+        "French croix, Spanish and Portuguese cruz, Dutch kruis, German Kreuz."
+      ],
+      "definition": "嘲笑；羞辱 n. 嘲笑；羞辱",
+      "etymology": "Old English cros “instrument of Christ’s crucifixion; symbol of “torture, trouble, misery;” see crux. Also from Latin crux are Italian croce,",
+      "examples": [],
+      "frequency": 10918,
+      "mnemonic": "来自法语tant pour tant,，来自tant。引申词义嘲笑，奚落。",
+      "phonetic": "tɔːnt",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "taunt"
+    },
+    {
+      "collocations": [
+        "to cross the sea / mountains：越过大海；翻越高山",
+        "red cross：红十字",
+        "cross just outside the town：正好在城外交叉",
+        "to cross your arms / legs （=place one arm or leg over the other）：交叉\n两臂 / 双腿",
+        "be crossed in love：被所爱的人背叛\ncross sb. / sth. off sth.：（从名单或清单上）画掉，删掉\ncross sth. out / through：画掉，删掉（错字）",
+        "cross over to mass appeal：转变为大众喜爱的\nhave a （heavy） cross to bear：有本难念的经；有苦难要忍受"
+      ],
+      "definition": "&vi. 穿越；横穿；交叉；反对，反驳（某人或计划、意愿）adj. 恼怒的；十分愤怒的；生气的 n. 十字形记号；（旧时用以处死人的）十字架；（耶稣钉死在上面的）十字架",
+      "etymology": "来源于拉丁语名词crux, crucis, 十字架/十字形。",
+      "examples": [],
+      "frequency": 1398,
+      "mnemonic": "cruc-：十字→cross：十字",
+      "phonetic": "krɒs",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "cross"
+    },
+    {
+      "collocations": [
+        "look across at me：从那边朝我看过来",
+        "measure about 50 feet across：宽约50英尺",
+        "walk across the field：走过田地",
+        "across the street：街对面",
+        "scatter across the country：散居全国各地",
+        "across the board：全面地；包括一切地\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition": "横过；在……对面；遍及 adv. 横过；从……的一边到另一边；在对面",
+      "examples": [],
+      "frequency": 378,
+      "mnemonic": "a-（=in-）+ cross（十字）→in the shape of a cross：以十字的形状→",
+      "phonetic": "əˈkrɒs",
+      "pos": "prep.",
+      "rootHint": "voc",
+      "word": "across"
+    },
+    {
+      "collocations": [
+        "stop at the crossing：在人行横道线停车",
+        "the first Atlantic crossing：首次横渡大西洋",
+        "attempted crossings of the border：穿越边境未遂\n笔 记 区"
+      ],
+      "definition": "横渡；人行横道；十字（交叉）路口；横穿",
+      "examples": [],
+      "frequency": 6393,
+      "phonetic": "ˈkrɒsɪŋ",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crossing"
+    },
+    {
+      "collocations": [
+        "cross-country running：越野跑",
+        "cross-country train journeys：穿越全国的火车旅行",
+        "ski across country：越野滑雪运动"
+      ],
+      "definition": "&adv. 越野（的）；（尤指通过越野）横越全国（的） n. 越野赛跑；越野滑雪比赛",
+      "examples": [
+        "We rode cross-country.\n我们驾车越野前行。"
+      ],
+      "frequency": 9088,
+      "mnemonic": "cross（穿越）+ country（国家）→穿越国家的→越野（的）；横越全",
+      "phonetic": "ˈkrɔ:sˈkʌntri",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "cross-country"
+    },
+    {
+      "collocations": [
+        "turn right at the first crossroads：在第一个十字路口向右转",
+        "clearly at a crossroads：显然正处于紧要关头"
+      ],
+      "definition": "十字路口；紧要关头",
+      "examples": [],
+      "frequency": 9330,
+      "mnemonic": "cross（交叉；十字）+ roads（路口）→交叉路口→引申义为紧要关头",
+      "phonetic": "ˈkrɒsrəʊdz",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crossroads"
+    },
+    {
+      "collocations": [
+        "cross-cultural conflict：跨文化冲突",
+        "cross-cultural communication：跨文化交际"
+      ],
+      "definition": "跨文化的",
+      "examples": [],
+      "frequency": 11610,
+      "mnemonic": "cross（穿越）+ cultural（文化的）→穿越文化的→跨文化的",
+      "phonetic": "ˌkrɔsˈkʌltʃərəl",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "cross-cultural"
+    },
+    {
+      "collocations": [
+        "the contemporary crossover of pop, jazz and funk：流行乐、爵士乐和乡",
+        "the crossover from actress to singer：从女演员到歌手的转型\n20000 词汇巅峰\n速\n记\n笔 记 区\ncrossover：跨界/跨界音乐"
+      ],
+      "definition": "混合；（活动范围或风格的）改变；转型",
+      "examples": [],
+      "frequency": 12840,
+      "mnemonic": "cross（横跨）+ over（越过；（部分或全部地覆盖）在……之上）→",
+      "phonetic": "ˈkrɒsəʊvə",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crossover"
+    },
+    {
+      "collocations": [
+        "do the Times crossword in 15 minutes：在15分钟之内做完《泰晤士报》"
+      ],
+      "definition": "纵横字谜（等于cross puzzle）",
+      "examples": [],
+      "frequency": 16012,
+      "mnemonic": "cross（交叉）+ word（单词）→单词交叉的（游戏）→纵横字谜",
+      "phonetic": "ˈkrɒswɜːd",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crossword"
+    },
+    {
+      "collocations": [
+        "be surprised at the cross-section of people there：对那里人的典型性类型",
+        "a cross-section of an aeroplane：一架飞机的截面图"
+      ],
+      "definition": "典型；截面图；横断面",
+      "examples": [],
+      "frequency": 16628,
+      "mnemonic": "cross（交叉）+ section（部分；断面图）→交叉部分；共同特征→典",
+      "phonetic": "ˌkrɔsˈsɛkʃən",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "cross-section"
+    },
+    {
+      "collocations": [
+        "cross-sectional area：横切面面积"
+      ],
+      "definition": "截面的；断面的",
+      "examples": [],
+      "frequency": 16407,
+      "phonetic": "krɔsˈsɛkʃənl",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "cross-sectional"
+    },
+    {
+      "collocations": [
+        "under a stressful cross-examination：在紧张的盘问下"
+      ],
+      "definition": "盘问",
+      "examples": [],
+      "frequency": 16779,
+      "mnemonic": "cross（交互的）+ examination（查问）→交互查问→盘问",
+      "phonetic": "ˈkrɔsigˌzæmiˈneiʃn",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "cross-examination"
+    },
+    {
+      "collocations": [
+        "sit cross-legged on the floor：盘着腿坐在地板上"
+      ],
+      "definition": "盘腿坐的 adv. 盘腿坐地",
+      "examples": [],
+      "frequency": 17296,
+      "mnemonic": "cross（交叉）+leg（腿，双写g）+-ed（形容词后缀）→双腿交叉的\n→盘腿打坐的",
+      "phonetic": "ˈkrɔ:sˈleɡid",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "cross-legged"
+    },
+    {
+      "collocations": [
+        "be caught in the crossfire：被卷入争端"
+      ],
+      "definition": "交叉火力",
+      "examples": [],
+      "frequency": 17359,
+      "mnemonic": "cross（交叉）+ fire（火力）→交叉火力",
+      "phonetic": "ˈkrɔsfaɪɚ",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crossfire"
+    },
+    {
+      "collocations": [
+        "of a communications system as a result of a transfer of energy from one or",
+        "more other channels."
+      ],
+      "definition": "电信频道之间的串话干扰",
+      "examples": [],
+      "frequency": 17479,
+      "mnemonic": "cross（交叉；相交）+ talk（通话）→交叉通话→（通讯系统的）串",
+      "phonetic": "ˈkrɔsˌtɔk",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crosstalk"
+    },
+    {
+      "collocations": [
+        "slice ... crosswise：把……斜切成片",
+        "cut the fabric crosswise：把那块布对角剪开"
+      ],
+      "definition": "对角横穿地",
+      "examples": [],
+      "frequency": 17751,
+      "mnemonic": "cross（十字）+ wise（副词后缀，表方向）→沿着十字方向的，\n在……上构成十字形图案→对角横穿地",
+      "phonetic": "ˈkrɒswaɪz",
+      "pos": "adv.",
+      "rootHint": "voc",
+      "word": "crosswise"
+    },
+    {
+      "collocations": [
+        "the crux of the matter：问题的症结"
+      ],
+      "definition": "（难题或问题的）关键；最难点；症结",
+      "examples": [],
+      "frequency": 15861,
+      "mnemonic": "cross：十字，分叉→crux：交叉点",
+      "phonetic": "krʌks",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crux"
+    },
+    {
+      "collocations": [
+        "one crucial aspect：一个重要方面",
+        "a crucial factor / issue / decision：关键性的因素 / 问题 / 决定\n（写作，阅读）重点：“重要的”表达方式\n20000 词汇巅峰\n速\n记\n笔 记 区\n比较：crucial 与 important, vital, critical, essential 的区别。"
+      ],
+      "definition": "至关重要的；关键性的（即：站在十字路口的）",
+      "examples": [],
+      "frequency": 2419,
+      "mnemonic": "cruc-（=cross：十字架，十字路口）+-ial（形容词后缀）→至关重要",
+      "phonetic": "ˈkruːʃ(ə)l",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "crucial"
+    },
+    {
+      "collocations": [
+        "an important decision / factor：重要决定/因素",
+        "an important figure in the media world：一位传媒界有势力的人物"
+      ],
+      "definition": "重要的；有势力的；权威的",
+      "examples": [],
+      "frequency": 267,
+      "phonetic": "ɪmˈpɔːt(ə)nt",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "important"
+    },
+    {
+      "collocations": [
+        "the vital organs：活命器官",
+        "the vitamins that are vital for health：保持健康必不可少的维生素"
+      ],
+      "definition": "对……极重要的；维持生命所必需的",
+      "examples": [],
+      "frequency": 2939,
+      "phonetic": "ˈvaɪt(ə)l",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "vital"
+    },
+    {
+      "collocations": [
+        "the essential difference：根本区别",
+        "the essential character：主要特色",
+        "the essentials of everyday life, such as eating and exercise：饮食、运动\n等日常生活要素"
+      ],
+      "definition": "至关重要的；必不可少的 n. 必需品；要点",
+      "examples": [],
+      "frequency": 1963,
+      "phonetic": "ɪˈsenʃ(ə)l",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "essential"
+    },
+    {
+      "collocations": [
+        "from Old French crucifer crucefiier (12c., Modern French crucifier). 来自\n后期拉丁语crucifigere “to fasten to a cross,” cruci（=crux=cross：十字\n架）+ figere（to fasten, fix：使固定）→把某人钉死在十字架上。",
+        "the day that Christ was crucified：耶酥被钉死在十字架上的那天"
+      ],
+      "definition": "把……钉死在十字架；严厉批评；折磨",
+      "etymology": "Mid-14c., “to put to death by nailing or otherwise affixing to a cross,”",
+      "examples": [],
+      "frequency": 17775,
+      "mnemonic": "cruci（=cross：十字架）+-fy（=fix：使固定）→把人钉死 / 固定在十\n字架上以处死某人→把……钉死在十字架；严厉批评；折磨",
+      "phonetic": "ˈkruːsɪfaɪ",
+      "pos": "vt.",
+      "rootHint": "voc",
+      "word": "crucify"
+    },
+    {
+      "collocations": [
+        "cruci（=cross：十字）+ -fix（固定）→固定在十字架上的那一位→基"
+      ],
+      "definition": "基督受难十字架像；十字架",
+      "etymology": "来自拉丁语cruci fixus “(one) fixed to the cross”→被钉死在十字架上的 刑。被判处这种刑罚的囚犯，要背着十字架走向刑场。基督教《圣 经》称：耶稣被钉死在十字架上。后来基督教便以此作为信仰的标 记，称为“苦难像”。迄今，西方文学中一般用十字架比喻苦难。",
+      "examples": [],
+      "frequency": 15175,
+      "mnemonic": "那一位→耶稣受难像。将人钉死在十字架上是古罗马帝国的一种酷",
+      "phonetic": "ˈkruːsɪfɪks",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crucifix"
+    },
+    {
+      "collocations": [
+        "in excruciating pain：处于极度痛苦之中",
+        "the excruciating embarrassment：极度困窘"
+      ],
+      "definition": "极痛苦的",
+      "examples": [],
+      "frequency": 13556,
+      "mnemonic": "ex-（=thoroughly：完全地）+ -cruci（=crucify：给某人造成痛苦；折\n磨）+ -ating（-ate+-ing）→使人极度痛苦的",
+      "phonetic": "ɪkˈskruːʃɪeɪtɪŋ",
+      "pos": "adj.",
+      "rootHint": "voc",
+      "word": "excruciating"
+    },
+    {
+      "collocations": [
+        "to lead a crusade against crime：领导长期打击犯罪活动的运动",
+        "crusade against the country’s cocaine traffickers：打击本国可卡因走私犯"
+      ],
+      "definition": "（长期而坚定的）努力奋斗；（中世纪的）十字军东征 vi. （为推进某一事业而）奋斗",
+      "etymology": "“military expedition under the banner of the cross”，1706。因战士携带 十字架而得名。十字军东征（拉丁文：Cruciata，1096年－1291年） 是一系列在罗马天主教教皇的准许下进行的、持续近200年的、有名 的宗教性军事行动，由西欧的封建领主和骑士以收复阿拉伯穆斯林入 侵占领的土地的名义对地中海东岸国家发动的战争，前后共计九次。 十字架是基督教的象征，因此每个参加出征的人胸前和臂上都佩戴 “十”字标记，故称“十字军”。 近义词：campaign：运动（为社会、商业或政治目的而进行的一系列有计划 的活动）；战役",
+      "examples": [],
+      "frequency": 7439,
+      "phonetic": "kruːˈseɪd",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crusade"
+    },
+    {
+      "collocations": [
+        "moral crusaders：提倡道德运动的志士",
+        "a crusader for higher press and broadcasting standards：为取得更高的新\n闻和广播原则而奋战的斗士"
+      ],
+      "definition": "十字军战士；（支持某项事业的）斗士",
+      "examples": [],
+      "frequency": 14820,
+      "phonetic": "kruːˈseɪdə",
+      "pos": "n.",
+      "rootHint": "voc",
+      "word": "crusader"
+    }
+  ]
+}

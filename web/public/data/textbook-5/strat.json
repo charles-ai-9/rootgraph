@@ -1,0 +1,144 @@
+{
+  "chapter" : "37",
+  "chapterOrder" : 137,
+  "id" : "strat",
+  "meaningEn" : "to spread out",
+  "meaningZh" : "铺开。",
+  "roots" : [
+    "strat",
+    "strato"
+  ],
+  "semanticLabel" : "铺开。",
+  "source" : "textbook-5",
+  "titleZh" : "铺开。",
+  "words" : [
+    {
+      "collocations" : [
+        "economic strategy：经济策略",
+        "marketing strategy：营销策划",
+        "military strategy：军事战略"
+      ],
+      "definition" : "策略；战略；策划",
+      "etymology" : "直接来自希腊语strategia“office or command of a general：将军的办公 室或指令”。引申义为策略，策划，战略部署。",
+      "examples" : [
+
+      ],
+      "frequency" : 847,
+      "mnemonic" : "s（加强语气）+trateg（=tactic）+y→策略，战略",
+      "phonetic" : "ˈstrætədʒɪ",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "strategy"
+    },
+    {
+      "collocations" : [
+        "different lobbying tactics：不同的游说策略"
+      ],
+      "definition" : "策略；战术；手段",
+      "examples" : [
+
+      ],
+      "mnemonic" : "tact（=set：安放；安排）+ -ics（学说；术；方法）→策略；战术",
+      "phonetic" : "ˈtæktiks",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "tactics"
+    },
+    {
+      "collocations" : [
+        "strategic planning：全局性规划",
+        "the new strategic thinking：新的战略思维"
+      ],
+      "definition" : "根据全局而安排的；战略上的",
+      "examples" : [
+
+      ],
+      "frequency" : 2728,
+      "mnemonic" : "strategy（策略；策划）+-ic（形容词后缀）→根据全局而安排的；战",
+      "phonetic" : "strəˈtiːdʒɪk",
+      "pos" : "adj.",
+      "rootHint" : "strat",
+      "word" : "strategic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "战略家；善于筹划部署的人",
+      "examples" : [
+        "Military strategists had devised a plan that guaranteed a series of stunning\nvictories. 军事战略家们设计了一个保证了一系列惊人胜利的计划。"
+      ],
+      "frequency" : 6889,
+      "mnemonic" : "strateg（=strategy：战略；策略）+ -ist（名词后缀，表示人）→战略",
+      "phonetic" : "ˈstrætədʒɪst",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "strategist"
+    },
+    {
+      "collocations" : [
+        "strategically important roads, bridges and buildings："
+      ],
+      "definition" : "战略上的；巧妙地",
+      "examples" : [
+        "We had kept its presence hidden with a strategically placed chair.\n我们用一把巧妙放置的椅子把它隐藏起来"
+      ],
+      "frequency" : 10497,
+      "phonetic" : "strəˈtiːdʒɪkəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "strat",
+      "word" : "strategically"
+    },
+    {
+      "collocations" : [
+        "affect every stratum of society：影响到社会各阶层",
+        "the rock strata：岩层"
+      ],
+      "definition" : "社会阶层；岩层",
+      "examples" : [
+
+      ],
+      "frequency" : 12268,
+      "mnemonic" : "strat-（铺开；展开）+ -um（名词后缀）→社会、岩石中铺开、展开\n的阶层→社会阶层；岩层\n近义词组：horizontal layer：水平分层；水平层状→社会阶层；岩层",
+      "phonetic" : "ˈstrɑːtəm;ˈstreɪtəm",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "stratum"
+    },
+    {
+      "collocations" : [
+        "ceramic substrate：陶瓷基板",
+        "substrate culture：基质栽培\n释义：（technical 术语） 底物；底层；基底；基层 A substance or layer which",
+        "is under sth. or on which sth. happens, for example the surface on which a",
+        "living thing grows and feeds."
+      ],
+      "definition" : "基质；基底；基层（等于substratum）",
+      "etymology" : "来自拉丁语动词substernere“to spread underneath：在下面铺开”的名 词形式substratum。来自原始印欧语词根stere-“to spread：铺开；伸 展开”。",
+      "examples" : [
+
+      ],
+      "frequency" : 14106,
+      "mnemonic" : "sub-（=underneath：在……底下）+ -strat-（=spread out：铺开）\n+e→to spread underneath：在底下铺开→基质；基底；基层",
+      "phonetic" : "ˈsʌbstreɪt",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "substrate"
+    },
+    {
+      "collocations" : [
+        "in \/ into the stratosphere：在（到）极高水平",
+        "The technology boom sent share prices into the stratosphere.\n科技热潮使得股价飙升到极高的水平。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "平流层；同温层；最高水平；顶峰",
+      "examples" : [
+        "This was enough to launch their careers into the stratosphere.\n这足够将他们的事业推上顶峰了。"
+      ],
+      "frequency" : 17042,
+      "mnemonic" : "strato-（=stratus：展开；铺开）+ -sphere（（包围地球等的大气的）\n层）→平流层；同温层；最高水平，顶峰",
+      "phonetic" : "ˈstrætəˌsfɪə",
+      "pos" : "n.",
+      "rootHint" : "strat",
+      "word" : "stratosphere"
+    }
+  ]
+}

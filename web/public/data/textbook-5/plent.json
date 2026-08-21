@@ -1,0 +1,237 @@
+{
+  "chapter" : "21",
+  "chapterOrder" : 121,
+  "id" : "plent",
+  "meaningEn" : "full, 表示“大量的；丰盛的”。",
+  "roots" : [
+    "plent",
+    "plen",
+    "plet"
+  ],
+  "semanticLabel" : "full, 表示大量的；丰盛的。",
+  "source" : "textbook-5",
+  "titleZh" : "full, 表示大量的；丰盛的。",
+  "words" : [
+    {
+      "collocations" : [
+        "plentee, earlier plentet “abundance, profusion”，来自拉丁语plenitatem",
+        "abundant, abounding; complete”.",
+        "plenty of time：充裕的时间",
+        "face plenty of competition：面临大量的竞争",
+        "plenty lonely：非常寂寞",
+        "in times of plenty：在富足的岁月里"
+      ],
+      "definition" : "大量的；充裕的 pron. 充裕 adv. 大量；非常 n. 富裕；充裕",
+      "etymology" : "13世纪中期，含义为“as much as one could desire,”来自古法语 “fullness,” from plenus “full, filled, greatly crowded; stout, pregnant;",
+      "examples" : [
+
+      ],
+      "frequency" : 2061,
+      "mnemonic" : "plent-（=full：全体的；全部的）+ -y→引申词义大量的；充裕；大",
+      "phonetic" : "ˈplentɪ",
+      "pos" : "quant.",
+      "rootHint" : "plent",
+      "word" : "plenty"
+    },
+    {
+      "collocations" : [
+        "a plentiful supply of food：充足的食物供应"
+      ],
+      "definition" : "大量的；丰富的；富足的",
+      "examples" : [
+
+      ],
+      "frequency" : 9816,
+      "phonetic" : "ˈplentɪfʊl;-f(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "plent",
+      "word" : "plentiful"
+    },
+    {
+      "collocations" : [
+        "replenish stocks：重新装满仓库",
+        "to replenish food and water supplies：补充食物和水的供应"
+      ],
+      "definition" : "补充；重新装满",
+      "examples" : [
+
+      ],
+      "frequency" : 12491,
+      "mnemonic" : "re-（再；重新）+ -plen-（=fill up：装满）+ -ish（动词后缀）→重新",
+      "phonetic" : "rɪˈplenɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "plen",
+      "word" : "replenish"
+    },
+    {
+      "collocations" : [
+        "muchness, overfullness in any respect” is first recorded 1700. Related:\nPlethoric.",
+        "a plethora of new operators：过多的新经营者"
+      ],
+      "definition" : "过多；过量；过剩",
+      "etymology" : "来自希腊语plethore “fullness”，时机成熟时；最终。来自plethein “be full” (from PIE root *pele- (1) “to fill”). Figurative meaning “too- 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 14022,
+      "mnemonic" : "pleth（=plenty：多的）+-ora（名词后缀）→过多；过量；过剩",
+      "phonetic" : "ˈpleθ(ə)rə",
+      "pos" : "n.",
+      "rootHint" : "plet",
+      "word" : "plethora"
+    },
+    {
+      "collocations" : [
+        "complere的过去分词“to fill up”，“装满”。",
+        "a complete dinner service：一整套餐具",
+        "the Complete Works of William Shakespeare：威廉·莎士比亚全集",
+        "complete her degree：修完了她的学位"
+      ],
+      "definition" : "使齐全；完成；填写 adj. 完全的；完整的；全部的；完成了的",
+      "etymology" : "来自古法语complet “full,”“满的”。或者直接来自拉丁语completus,",
+      "examples" : [
+
+      ],
+      "frequency" : 1211,
+      "mnemonic" : "com-（强调前缀）+-plet-（to fill up, full：填满；满的）+e→完成；",
+      "phonetic" : "kəmˈpliːt",
+      "pos" : "vt.",
+      "rootHint" : "plet",
+      "word" : "complete"
+    },
+    {
+      "collocations" : [
+        "projects completed：已完工程"
+      ],
+      "definition" : "完成的",
+      "examples" : [
+
+      ],
+      "frequency" : 10711,
+      "phonetic" : "kəmˈplitɪd",
+      "pos" : "adj.",
+      "rootHint" : "plet",
+      "word" : "completed"
+    },
+    {
+      "collocations" : [
+        "completely different：截然不同",
+        "completely and utterly broke：彻底破产"
+      ],
+      "definition" : "完全地；彻底地；完整地",
+      "examples" : [
+
+      ],
+      "frequency" : 1173,
+      "phonetic" : "kəmˈpliːtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "plet",
+      "word" : "completely"
+    },
+    {
+      "collocations" : [
+        "be due for completion in the spring：预定在明年春季竣工",
+        "near completion：快要完工了",
+        "the date of completion：竣工日期"
+      ],
+      "definition" : "完成；结束",
+      "examples" : [
+
+      ],
+      "frequency" : 5081,
+      "phonetic" : "kəmˈpliːʃn",
+      "pos" : "n.",
+      "rootHint" : "plet",
+      "word" : "completion"
+    },
+    {
+      "collocations" : [
+        "an incomplete set of figures：一组不完整的数字"
+      ],
+      "definition" : "不完整的；不完全的 n. （学业成绩评分）未修毕；未完成",
+      "examples" : [
+
+      ],
+      "frequency" : 7041,
+      "phonetic" : "ɪnkəmˈpliːt",
+      "pos" : "adj.",
+      "rootHint" : "plet",
+      "word" : "incomplete"
+    },
+    {
+      "collocations" : [
+        "replete with drama and excitement：充满紧张刺激情节"
+      ],
+      "definition" : "充满的；装满的；吃饱喝足的",
+      "examples" : [
+        "The harbor was replete with boats. 港口里满是船只。"
+      ],
+      "frequency" : 13603,
+      "mnemonic" : "re-（再；重新）+ -plet（=to fill：装满）+ e→refill, fill again：再次装\n满的→充满的；装满的；吃饱喝足的",
+      "phonetic" : "rɪˈpliːt",
+      "pos" : "adj.",
+      "rootHint" : "plet",
+      "word" : "replete"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "咒骂语",
+      "examples" : [
+
+      ],
+      "frequency" : 16763,
+      "phonetic" : "ɪkˈspliːtɪv;ek-",
+      "pos" : "n",
+      "rootHint" : "plet",
+      "word" : "expletive"
+    },
+    {
+      "collocations" : [
+        "(of blood-letting, purgatives), 来自拉丁语deplere “to empty,” literally “to",
+        "substances that deplete the ozone layer：消耗臭氧层的物质"
+      ],
+      "definition" : "大量减少；耗尽；使枯竭",
+      "examples" : [
+        "Food supplies were severely depleted.\n食物供应已严重不足。"
+      ],
+      "frequency" : 10456,
+      "mnemonic" : "“empty, reduce, or exhaust by drawing away,” 1807, originally in medicine\nun-fill”.\nde-（=off, away：表相反）+ -plet-（=to fill：装满）+ e→把满的倒空\n→大量减少；耗尽；使枯竭",
+      "phonetic" : "dɪˈpliːt",
+      "pos" : "vt.",
+      "rootHint" : "plet",
+      "word" : "deplete"
+    },
+    {
+      "collocations" : [
+        "ozone depletion：臭氧耗损",
+        "the depletion of fish stocks：鱼的存货消耗殆尽",
+        "depletion stage：采竭阶段"
+      ],
+      "definition" : "损耗；耗尽",
+      "examples" : [
+
+      ],
+      "frequency" : 11959,
+      "phonetic" : "dɪˈpliːʃn",
+      "pos" : "n.",
+      "rootHint" : "plet",
+      "word" : "depletion"
+    },
+    {
+      "collocations" : [
+        "worn and depleted army：精疲力竭的军队"
+      ],
+      "definition" : "耗尽的",
+      "examples" : [
+
+      ],
+      "frequency" : 17317,
+      "phonetic" : "diˈplitid",
+      "pos" : "adj.",
+      "rootHint" : "plet",
+      "word" : "depleted"
+    }
+  ]
+}

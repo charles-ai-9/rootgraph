@@ -1,0 +1,1779 @@
+{
+  "chapter": "1",
+  "chapterOrder": 101,
+  "id": "mot",
+  "meaningEn": "move",
+  "meaningZh": "动；移动；变换位置",
+  "roots": [
+    "mot",
+    "mat",
+    "mob",
+    "mig"
+  ],
+  "semanticLabel": "动；移动；变换位置",
+  "source": "textbook-2",
+  "titleZh": "动；移动；变换位置",
+  "words": [
+    {
+      "collocations": [
+        "promote growth/prosperity(考)：促进增长/繁荣",
+        "get promoted(考)：晋升",
+        "promote the mechanization of agriculture(考)：促进农业机械化",
+        "promise of his advertisement.\n没有哪家正规的广告商敢推销与广告承诺不符的产品。(研真95)\n阅读难点：live up to：不辜负、做到",
+        "fail to live up to：没能做到",
+        "It is illegal to promote a product that fail to live up to the promise of its",
+        "effect in the advertisement."
+      ],
+      "definition": "促进；提升；发扬；推销",
+      "examples": [
+        "No regular advertiser dare promote a product that fails to live up to the",
+        "没能做到广告中承诺的效果的推销是非法的。(1995.1作文：非法\n广告)"
+      ],
+      "frequency": 1335,
+      "mnemonic": "pro(向前)+mot(动)+e→使之向前动→促进、提升、促销",
+      "phonetic": "prəˈməʊt",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "promote"
+    },
+    {
+      "collocations": [],
+      "definition": "发起人；促进者；助长者",
+      "examples": [],
+      "frequency": 8582,
+      "phonetic": "prəˈməʊtə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "promoter"
+    },
+    {
+      "collocations": [],
+      "definition": "促进；提升，晋升；推销，促销；发扬，振兴",
+      "examples": [],
+      "frequency": 3823,
+      "phonetic": "prəˈməʊʃn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "promotion"
+    },
+    {
+      "collocations": [],
+      "definition": "增进的；奖励的；促销的",
+      "examples": [],
+      "frequency": 9782,
+      "phonetic": "prəˈməʊʃənl",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "promotional"
+    },
+    {
+      "collocations": [],
+      "definition": "情感；情绪",
+      "examples": [],
+      "frequency": 2135,
+      "mnemonic": "e(=ex：向外)+mot(=move：感动、动)→动情→情绪、情感",
+      "phonetic": "ɪˈməʊʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "emotion"
+    },
+    {
+      "collocations": [],
+      "definition": "情绪的；易激动的；感动人的",
+      "examples": [],
+      "frequency": 1625,
+      "phonetic": "ɪˈməʊʃ(ə)n(ə)l",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "emotional"
+    },
+    {
+      "collocations": [],
+      "definition": "感情上；情绪上；令人激动地；情绪冲动地",
+      "examples": [],
+      "frequency": 4704,
+      "phonetic": "ɪˈməʊʃənəli",
+      "pos": "adv.",
+      "rootHint": "mot",
+      "word": "emotionally"
+    },
+    {
+      "collocations": [],
+      "definition": "移动，迁移；开除；调动",
+      "examples": [],
+      "frequency": 879,
+      "mnemonic": "re(又、再)+move(移动)→再移动→移动、移除",
+      "phonetic": "rɪˈmuːv",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "remove"
+    },
+    {
+      "collocations": [],
+      "definition": "可移动的；可去掉的；可免职的",
+      "examples": [],
+      "frequency": 15229,
+      "phonetic": "rɪˈmuːvəbl",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "removable"
+    },
+    {
+      "collocations": [],
+      "definition": "移动；免职；排除；搬迁",
+      "examples": [],
+      "frequency": 4763,
+      "phonetic": "rɪˈmuːv(ə)l",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "removal"
+    },
+    {
+      "collocations": [
+        "mobile telephone(考)：移动电话"
+      ],
+      "definition": "可以动的",
+      "examples": [],
+      "mnemonic": "mob(=move：动)+ile(=ible：可以、能)→可以动的→移动的、移动",
+      "phonetic": "ˈməubail",
+      "pos": "a.",
+      "rootHint": "mob",
+      "word": "mobile"
+    },
+    {
+      "collocations": [],
+      "definition": "动员、组织、调动",
+      "examples": [],
+      "mnemonic": "mob(动)+ilize(=ile+ize：复合使动词后缀)→使动起来→调动、动员、",
+      "phonetic": "ˈməubilaiz",
+      "pos": "v.",
+      "rootHint": "mob",
+      "word": "mobilize"
+    },
+    {
+      "collocations": [],
+      "definition": "固定的；不变的；稳定的",
+      "examples": [],
+      "frequency": 17253,
+      "phonetic": "ɪˈməʊbaɪl",
+      "pos": "adj.",
+      "rootHint": "mob",
+      "word": "immobile"
+    },
+    {
+      "collocations": [],
+      "definition": "使不动；使固定；使停止流通",
+      "examples": [],
+      "frequency": 17376,
+      "phonetic": "ɪˈməʊbɪlaɪz",
+      "pos": "vt.",
+      "rootHint": "mob",
+      "word": "immobilize"
+    },
+    {
+      "collocations": [],
+      "definition": "汽车",
+      "examples": [],
+      "frequency": 4042,
+      "phonetic": "ˈɔːtəməbiːl",
+      "pos": "n.",
+      "rootHint": "mob",
+      "word": "automobile"
+    },
+    {
+      "collocations": [],
+      "definition": "雪上汽车；机动雪橇",
+      "examples": [],
+      "frequency": 14152,
+      "phonetic": "ˈsnəʊməbiːl",
+      "pos": "n.",
+      "rootHint": "mob",
+      "word": "snowmobile"
+    },
+    {
+      "collocations": [
+        "motion sickness(考)：晕动病(指晕船、晕车等)"
+      ],
+      "definition": "动作；请求；手势；移动；意向",
+      "examples": [],
+      "frequency": 1836,
+      "mnemonic": "mot(动)+ion(名词后缀)→移动、运动",
+      "phonetic": "ˈməʊʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motion"
+    },
+    {
+      "collocations": [],
+      "definition": "静止的；不运动的",
+      "examples": [],
+      "frequency": 9709,
+      "phonetic": "ˈməʊʃnləs",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "motionless"
+    },
+    {
+      "collocations": [
+        "people in a healthy and competitive way.\n然而，适当的斗争水平能够激发创造性，并且以一种健康和竞争的方\n式激励人。(2000.1)\n同义：spark [spa:k] n. 火花 v. 触发、激发",
+        "spark plugs(考)：火花塞",
+        "A debate has been sparked/triggered. Some hold that certificates are",
+        "valuable, others, totally valueless.",
+        "One of the cause for piracy is that many people are motivated/sparked by",
+        "the huge profits from pirated products.\n笔 记 区"
+      ],
+      "definition": "刺激；使有动机；激发……的积极性",
+      "examples": [
+        "Moderate levels of conflict, however, can spark creativity and motivate",
+        "一场论战被触发了。有人认为证书很有价值，其他人则认为毫无\n价值。(2011.6作文：证书热)",
+        "造成盗版现象的原因之一是很多人被盗版产品的暴利所激励了。\n(2005.6作文：盗版现象)"
+      ],
+      "frequency": 3570,
+      "mnemonic": "mot(动)+ivate(复合动词后缀：使)→使……动起来、使有动力→激\nSpark English：星火英语→火花；触发、激发",
+      "phonetic": "ˈməʊtɪveɪt",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "motivate"
+    },
+    {
+      "collocations": [],
+      "definition": "有动机的；有积极性的",
+      "examples": [],
+      "frequency": 9924,
+      "phonetic": "ˈmotɪvetɪd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "motivated"
+    },
+    {
+      "collocations": [],
+      "definition": "动机；推动；积极性",
+      "examples": [],
+      "frequency": 3151,
+      "phonetic": "məʊtɪˈveɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motivation"
+    },
+    {
+      "collocations": [],
+      "definition": "动机的；激发性的；有关动机的；[法]动机说明",
+      "examples": [],
+      "frequency": 9417,
+      "phonetic": "ˌməʊtɪˈveɪʃənəl",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "motivational"
+    },
+    {
+      "collocations": [],
+      "definition": "激起行为(或行动)的人(或事物)；激发因素",
+      "examples": [],
+      "frequency": 15821,
+      "phonetic": "ˈməʊtɪveɪtə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motivator"
+    },
+    {
+      "collocations": [
+        "democratic motive(考)：民主动机",
+        "oppression and economic hardship—provided the chief motives for the",
+        "mass migrations to America.\n然而，可以说三个最大的动力——宗教迫害、政治压迫和经济困\n难——是大规模往美国移民的主要动因。(2006.12)"
+      ],
+      "definition": "动机，目的；主题",
+      "examples": [
+        "Yet it can be said that three large forces—religious persecution, political"
+      ],
+      "frequency": 3615,
+      "phonetic": "ˈməʊtɪv",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motive"
+    },
+    {
+      "collocations": [
+        "motor vehicle(考)：机动车辆"
+      ],
+      "definition": "发动机，马达；汽车",
+      "examples": [],
+      "frequency": 3162,
+      "mnemonic": "mot(动)+or(名词后缀)→发动机；汽车",
+      "phonetic": "ˈməʊtə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motor"
+    },
+    {
+      "collocations": [],
+      "definition": "汽车旅馆",
+      "examples": [],
+      "frequency": 5321,
+      "phonetic": "məʊˈtel",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motel"
+    },
+    {
+      "collocations": [
+        "cars carrying important people, usually as part of a public ceremony."
+      ],
+      "definition": "(载有重要人物的)车队，汽车行列",
+      "etymology": "“procession of motorcars,” 1909, from motor-+suffix from cavalcade(骑马 队伍). (载有重要人物的)车队，汽车行列 A motorcade is a line of slow-moving",
+      "examples": [],
+      "frequency": 17263,
+      "phonetic": "ˈməʊtəkeɪd",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motorcade"
+    },
+    {
+      "collocations": [],
+      "definition": "摩托车；机动车",
+      "examples": [],
+      "frequency": 6146,
+      "phonetic": "ˈməʊtəsaɪk(ə)l",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motorcycle"
+    },
+    {
+      "collocations": [],
+      "definition": "驾车旅行的人，开汽车的人",
+      "examples": [],
+      "frequency": 9639,
+      "phonetic": "ˈməʊt(ə)rɪst",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "motorist"
+    },
+    {
+      "collocations": [],
+      "definition": "摩托化的；机动化的",
+      "examples": [],
+      "frequency": 16303,
+      "phonetic": "ˈmotəraɪzd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "motorized"
+    },
+    {
+      "collocations": [
+        "irresistible momentum of individualism(考)：不可阻挡的个人主义势头"
+      ],
+      "definition": "势头、动量、动力",
+      "examples": [],
+      "mnemonic": "mom(=move：动)+entum(=ent+um：复合名词后缀)→动力、动量、",
+      "phonetic": "məuˈmentəm",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "momentum"
+    },
+    {
+      "collocations": [
+        "a remote hosting company(考)：一个远程托管公司"
+      ],
+      "definition": "遥远的；偏僻的；疏远的",
+      "examples": [],
+      "frequency": 2802,
+      "mnemonic": "re(又、再)+mot(移动)+e→再往(远处)移动→遥远的、疏远的",
+      "phonetic": "rɪˈməʊt",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "remote"
+    },
+    {
+      "collocations": [],
+      "definition": "遥远地；偏僻地",
+      "examples": [],
+      "frequency": 9849,
+      "phonetic": "rɪˈməʊtlɪ",
+      "pos": "adv.",
+      "rootHint": "mot",
+      "word": "remotely"
+    },
+    {
+      "collocations": [
+        "mutual respect/influence(考)：相互尊重/影响"
+      ],
+      "definition": "相互的，彼此的；共同的",
+      "examples": [],
+      "frequency": 2821,
+      "mnemonic": "mut(=move：移动、变换位置、改变)+u(连接符号)+al(形容词后缀：\n的)→相互变换位置的→相互的、共同的",
+      "phonetic": "ˈmjuːtʃʊəl;-tjʊəl",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "mutual"
+    },
+    {
+      "collocations": [],
+      "definition": "互相地；互助",
+      "examples": [],
+      "frequency": 8151,
+      "phonetic": "ˈmjuːtʃuəli",
+      "pos": "adv.",
+      "rootHint": "mot",
+      "word": "mutually"
+    },
+    {
+      "collocations": [
+        "commute time(考)：通勤时间(上下班时间)"
+      ],
+      "definition": "交换；减刑；用……交换；使……变成",
+      "examples": [],
+      "frequency": 6971,
+      "mnemonic": "com(加强语气)+mute(=move：改变、变换位置)→交换、通勤；乘公",
+      "phonetic": "kəˈmjuːt",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "commute"
+    },
+    {
+      "collocations": [],
+      "definition": "通勤者，经常乘公共车辆往返者；月季票乘客",
+      "examples": [],
+      "frequency": 6952,
+      "phonetic": "kəˈmjuːtə(r)",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "commuter"
+    },
+    {
+      "collocations": [],
+      "definition": "移动；随季节而移居；移往",
+      "examples": [],
+      "frequency": 6607,
+      "mnemonic": "mig(=move：移动)+ate(使动词)→使……移动→迁移、迁徙",
+      "phonetic": "maɪˈgreɪt;ˈmaɪgreɪt",
+      "pos": "vi.",
+      "rootHint": "mig",
+      "word": "migrate"
+    },
+    {
+      "collocations": [
+        "massive3 migration(考)：大规模迁移"
+      ],
+      "definition": "移动；迁移；移民",
+      "examples": [],
+      "frequency": 4558,
+      "phonetic": "maɪˈgreɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mig",
+      "word": "migration"
+    },
+    {
+      "collocations": [],
+      "definition": "移居者；候鸟；随季节迁移的民工",
+      "examples": [],
+      "frequency": 5250,
+      "phonetic": "ˈmaɪgr(ə)nt",
+      "pos": "n.",
+      "rootHint": "mig",
+      "word": "migrant"
+    },
+    {
+      "collocations": [],
+      "definition": "迁移的；流浪的",
+      "examples": [],
+      "frequency": 12510,
+      "phonetic": "ˈmaɪgrət(ə)rɪ;maˈgret(ə)r",
+      "pos": "adj.",
+      "rootHint": "mig",
+      "word": "migratory"
+    },
+    {
+      "collocations": [
+        "illegal immigration(考)：非法移民"
+      ],
+      "definition": "n. 移入、移民 / n. 外来移民；移居",
+      "examples": [],
+      "phonetic": ",imiˈgreiʃən / ɪmɪˈɡreɪʃn",
+      "pos": "n.",
+      "rootHint": "mig",
+      "word": "immigration",
+      "frequency": 2452
+    },
+    {
+      "collocations": [
+        "immigrant community(考)：移民社区"
+      ],
+      "definition": "移民的；迁入的 n. 移民、侨民(外国进来的)",
+      "examples": [],
+      "frequency": 2085,
+      "phonetic": "ˈɪmɪgr(ə)nt",
+      "pos": "adj.",
+      "rootHint": "mig",
+      "word": "immigrant"
+    },
+    {
+      "collocations": [],
+      "definition": "移入",
+      "examples": [],
+      "frequency": 14297,
+      "phonetic": "ˈɪmɪgreɪt",
+      "pos": "vi.",
+      "rootHint": "mig",
+      "word": "immigrate"
+    },
+    {
+      "collocations": [],
+      "definition": "移居；移居外国",
+      "examples": [],
+      "frequency": 10925,
+      "mnemonic": "e(=ex：外、出去)+migrate(移动)→移居国外",
+      "phonetic": "ˈemɪgreɪt",
+      "pos": "vi.",
+      "rootHint": "mig",
+      "word": "emigrate"
+    },
+    {
+      "collocations": [],
+      "definition": "移民；侨民",
+      "examples": [],
+      "frequency": 17582,
+      "phonetic": "ˈemɪgr(ə)nt",
+      "pos": "n.",
+      "rootHint": "mig",
+      "word": "emigrant"
+    },
+    {
+      "collocations": [],
+      "definition": "移民；移民出境；移居外国",
+      "examples": [],
+      "frequency": 12790,
+      "phonetic": ",emɪˈgreɪʃn",
+      "pos": "n.",
+      "rootHint": "mig",
+      "word": "emigration"
+    },
+    {
+      "collocations": [],
+      "definition": "自动的；无意识的；必然的",
+      "examples": [],
+      "frequency": 4084,
+      "mnemonic": "auto(自己)+mat(动)+ic(的)→自动的(=automated：自动化的、自动的)",
+      "phonetic": "ɔːtəˈmætɪk",
+      "pos": "adj.",
+      "rootHint": "mat",
+      "word": "automatic"
+    },
+    {
+      "collocations": [],
+      "definition": "自动地；机械地；无意识地",
+      "examples": [],
+      "frequency": 3983,
+      "phonetic": "ɔːtəˈmætɪklɪ",
+      "pos": "adv.",
+      "rootHint": "mat",
+      "word": "automatically"
+    },
+    {
+      "collocations": [],
+      "definition": "自动化；自动操作",
+      "examples": [],
+      "frequency": 14015,
+      "mnemonic": "auto(自)+motion(动、移动)→自动化",
+      "phonetic": "ɔːtəˈmeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mat",
+      "word": "automation"
+    },
+    {
+      "collocations": [],
+      "definition": "使自动化，使自动操作",
+      "examples": [],
+      "frequency": 17918,
+      "phonetic": "ˈɔːtəmeɪt",
+      "pos": "vt.",
+      "rootHint": "mat",
+      "word": "automate"
+    },
+    {
+      "collocations": [],
+      "definition": "自动化的；机械化的",
+      "examples": [],
+      "frequency": 8249,
+      "phonetic": "ˈɔːtəˌmeɪtɪd",
+      "pos": "adj.",
+      "rootHint": "mat",
+      "word": "automated"
+    },
+    {
+      "collocations": [],
+      "definition": "汽车的；自动的",
+      "examples": [],
+      "frequency": 8896,
+      "phonetic": ",ɔːtəˈməʊtɪv",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "automotive"
+    },
+    {
+      "collocations": [],
+      "definition": "自治的；自主的；[植]自发的",
+      "examples": [],
+      "frequency": 7623,
+      "mnemonic": "auto(自己)+nom(=law：法律)+ous(形容词后缀)→自己有自己的法律的\n→自治的、自主的",
+      "phonetic": "ɔːˈtɒnəməs",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "autonomous"
+    },
+    {
+      "collocations": [],
+      "definition": "自治，自治权",
+      "examples": [],
+      "frequency": 4764,
+      "phonetic": "ɔːˈtɒnəmɪ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "autonomy"
+    },
+    {
+      "collocations": [],
+      "definition": "自动；[美口]汽车(等于automobile)",
+      "examples": [],
+      "frequency": 3159,
+      "phonetic": "ˈɔːtəʊ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "auto"
+    },
+    {
+      "collocations": [],
+      "definition": "自传的；自传体的",
+      "examples": [],
+      "frequency": 11823,
+      "phonetic": "ɔːtəbaɪəˈgræfɪk(ə)l",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "autobiographical"
+    },
+    {
+      "collocations": [],
+      "definition": "自传；自传文学",
+      "examples": [],
+      "frequency": 7122,
+      "phonetic": "ɔːtəbaɪˈɒgrəfɪ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "autobiography"
+    },
+    {
+      "collocations": [],
+      "definition": "专制的；独裁的，专横的",
+      "examples": [],
+      "frequency": 16657,
+      "phonetic": "ɔːtəˈkrætɪk",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "autocratic"
+    },
+    {
+      "collocations": [],
+      "definition": "亲笔签名；亲笔，手稿",
+      "examples": [],
+      "frequency": 9125,
+      "phonetic": "ˈɔːtəgrɑːf",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "autograph"
+    },
+    {
+      "collocations": [],
+      "definition": "自身免疫的",
+      "examples": [],
+      "frequency": 17388,
+      "phonetic": ",ɔːtəʊɪˈmjuːn",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "autoimmune"
+    },
+    {
+      "collocations": [],
+      "definition": "汽车制造商",
+      "examples": [],
+      "frequency": 7785,
+      "phonetic": "ˈɔ:təu,meikə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "automaker"
+    },
+    {
+      "collocations": [
+        "Old French commocion “violent motion, agitation” (12c., Modern French",
+        "commotion) and directly from Latin commotionem (nominative commotio)\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition": "暴乱；骚动",
+      "etymology": "late 14c., “violent movement or agitation, emotional disturbance,” from “violent motion, agitation,” noun of action from past participle stem of commovere “to move, disturb,” from com “with, together,” perhaps here “thoroughly” (see com-)+movere “to move” (from PIE root *meue- “to push away”). 笔 记 区",
+      "examples": [],
+      "frequency": 11945,
+      "phonetic": "kəˈməʊʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "commotion"
+    },
+    {
+      "collocations": [
+        "give you a lower rank or a less important position than you already have,",
+        "often as a punishment.\n2. (VERB) 使(球队等)降级 If a team in a sports league is demoted, that",
+        "team has to compete in the next competition in a lower division, because it",
+        "was one of the least successful teams in the higher division."
+      ],
+      "definition": "使降职；使降级",
+      "examples": [],
+      "frequency": 19080,
+      "phonetic": "diˈmət",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "demote"
+    },
+    {
+      "collocations": [
+        "释义和用法：(N-COUNT) 机车；火车头 A locomotive is a large vehicle that",
+        "pulls a railway train."
+      ],
+      "definition": "机车；火车头",
+      "etymology": "1610s, “pertaining to movement,” from French locomotif, from Latin loco “from a place” (ablative of locus “place;” see locus)+Late Latin motivus “moving” (see motive).",
+      "examples": [],
+      "frequency": 12067,
+      "phonetic": "ləʊkəˈməʊtɪv",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "locomotive"
+    },
+    {
+      "collocations": [
+        "Italian piloto, supposed to be an alteration of Old Italian pedoto, which",
+        "usually is said to be from Medieval Greek *pedotes “rudder, helmsman,”",
+        "from Greek pedon “steering oar,” related to pous (genitive podos) “foot,”",
+        "from PIE root *ped- “foot.” Change of -d- to -l- in Latin (“Sabine -l-”)",
+        "parallels that in odor/olfactory; see lachrymose."
+      ],
+      "definition": "自动驾驶仪",
+      "etymology": "1510s, “one who steers a ship,” from Middle French pillote (16c.), from",
+      "examples": [],
+      "frequency": 19457,
+      "phonetic": "ˈɔːtəʊ,paɪlət",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "autopilot"
+    },
+    {
+      "collocations": [],
+      "definition": "绳；排；路线，航线",
+      "examples": [],
+      "frequency": 277,
+      "phonetic": "laɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "line"
+    },
+    {
+      "collocations": [
+        "early Modern English, apparently by some combined influence of line (n.)\nand lineal."
+      ],
+      "definition": "血统；家系，世系",
+      "etymology": "late 17c., from Middle English linage “line of descent; an ancestor” (c. 1300), from Old French lignage “descent, extraction, race” (11c.), from 20000 词 汇巅峰 速 记 笔 记 区 ligne “line,” from Latin linea “line of descent,” literally “string, line, thread” (see line (n.)). The word altered in spelling and pronunciation in",
+      "examples": [],
+      "frequency": 9244,
+      "phonetic": "ˈlɪnɪɪdʒ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "lineage"
+    },
+    {
+      "collocations": [],
+      "definition": "线的，(过程或发展)线性的；直线的，线状的",
+      "examples": [],
+      "frequency": 5881,
+      "phonetic": "ˈlɪnɪə",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "linear"
+    },
+    {
+      "collocations": [
+        "释义和用法：(N-COUNT)(美式橄榄球中的)线卫，中后卫 In American",
+        "football, a linebacker is a player who tries to stop members of the other",
+        "team from scoring by tackling them."
+      ],
+      "definition": "(美式橄榄球中的)线卫，中后卫",
+      "examples": [],
+      "frequency": 6731,
+      "phonetic": "ˈlaɪnbækə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "linebacker"
+    },
+    {
+      "collocations": [
+        "1)有皱纹的 If someone’s face or skin is lined, it has lines on it as a",
+        "result of old age, tiredness, worry, or illness.\n2)(of clothes 衣服) having a lining inside them 有衬里的；有内衬的"
+      ],
+      "definition": "有内衬的；有皱纹的",
+      "examples": [],
+      "frequency": 17618,
+      "phonetic": "laɪnd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "lined"
+    },
+    {
+      "collocations": [],
+      "definition": "衬里；内层；衬套",
+      "examples": [],
+      "frequency": 9641,
+      "phonetic": "ˈlaɪnɪŋ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "lining"
+    },
+    {
+      "collocations": [],
+      "definition": "(美式足球的)前锋；线上的队员；电线架设工人",
+      "examples": [],
+      "frequency": 9457,
+      "phonetic": "ˈlaɪnmən",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "lineman"
+    },
+    {
+      "collocations": [],
+      "definition": "亚麻布，亚麻线；亚麻制品",
+      "examples": [],
+      "frequency": 6094,
+      "phonetic": "ˈlɪnɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "linen"
+    },
+    {
+      "collocations": [
+        "1)(尤指度假时乘坐的)邮轮，客轮 A liner is a large ship in which",
+        "people travel long distances, especially on holiday.\n2)(especially in compounds 尤用于构成复合词) a piece of material used",
+        "to cover the inside surface of sth 衬里；内衬"
+      ],
+      "definition": "邮轮，客轮；衬里；内衬",
+      "examples": [],
+      "frequency": 7628,
+      "phonetic": "ˈlaɪnə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "liner"
+    },
+    {
+      "collocations": [
+        "1)一组人；一批东西 A line-up is a group of people or a series of",
+        "things that have been gathered together to be part of a particular event.\n2)(为识别嫌疑犯)警方安排有待辨认的一列人 At a line-up, a witness to a\n20000 词 汇巅峰\n速\n记",
+        "crime tries to identify the criminal from among a line of people.\n笔 记 区"
+      ],
+      "definition": "一组人；阵容；电视节目时间表",
+      "examples": [],
+      "frequency": 5966,
+      "phonetic": "ˈlaɪnʌp",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "lineup"
+    },
+    {
+      "collocations": [],
+      "definition": "航空公司；航线",
+      "examples": [],
+      "frequency": 2147,
+      "phonetic": "ˈeəlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "airline"
+    },
+    {
+      "collocations": [],
+      "definition": "班机；大型客机",
+      "examples": [],
+      "frequency": 12244,
+      "phonetic": "ˈeəlaɪnə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "airliner"
+    },
+    {
+      "collocations": [],
+      "definition": "基线；[体]底线",
+      "examples": [],
+      "frequency": 6053,
+      "phonetic": "ˈbeɪslaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "baseline"
+    },
+    {
+      "collocations": [],
+      "definition": "海岸线",
+      "examples": [],
+      "frequency": 10471,
+      "phonetic": "ˈkəʊs(t)laɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "coastline"
+    },
+    {
+      "collocations": [],
+      "definition": "前线",
+      "examples": [],
+      "frequency": 14367,
+      "phonetic": "ˈfrʌntlain",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "frontline"
+    },
+    {
+      "collocations": [],
+      "definition": "前线的",
+      "examples": [],
+      "frequency": 19610,
+      "phonetic": "ˈfrʌntˈlain",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "front-line"
+    },
+    {
+      "collocations": [],
+      "definition": "指导方针",
+      "examples": [],
+      "frequency": 3089,
+      "phonetic": "ˈgaɪdlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "guideline"
+    },
+    {
+      "collocations": [],
+      "definition": "极细的线；发际线；细缝",
+      "examples": [],
+      "frequency": 16306,
+      "phonetic": "ˈheəlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "hairline"
+    },
+    {
+      "collocations": [],
+      "definition": "主张采取强硬路线的，毫不妥协的，采强硬态度的",
+      "examples": [],
+      "frequency": 12093,
+      "phonetic": "ˈhɑ:dlain",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "hard-line"
+    },
+    {
+      "collocations": [],
+      "definition": "主张采取强硬路线的人；不妥协者",
+      "examples": [],
+      "frequency": 12787,
+      "phonetic": "ˈhɑ:dˈlainə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "hard-liner"
+    },
+    {
+      "collocations": [],
+      "definition": "大标题；内容提要；栏外标题；头版头条新闻",
+      "examples": [],
+      "frequency": 3320,
+      "phonetic": "ˈhedlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "headline"
+    },
+    {
+      "collocations": [
+        "释义和用法：(N-COUNT)(演出中的)主要演员，主角 A headliner is the main",
+        "performer or group of performers in a show."
+      ],
+      "definition": "(演出中的)主要演员，主角；写标题的记者",
+      "examples": [],
+      "frequency": 20030,
+      "phonetic": "ˈhedlaɪnə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "headliner"
+    },
+    {
+      "collocations": [],
+      "definition": "热线电话，咨询电话；热线",
+      "examples": [],
+      "frequency": 13842,
+      "phonetic": "ˈhɑtlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "hotline"
+    },
+    {
+      "collocations": [],
+      "definition": "大型喷气式飞机(尤指客机)",
+      "examples": [],
+      "frequency": 19859,
+      "phonetic": "ˈdʒetlaɪnə",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "jetliner"
+    },
+    {
+      "collocations": [],
+      "definition": "生命线；救生索",
+      "examples": [],
+      "frequency": 14318,
+      "phonetic": "ˈlaɪflaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "lifeline"
+    },
+    {
+      "collocations": [],
+      "definition": "[电]非线性的",
+      "examples": [],
+      "frequency": 14277,
+      "phonetic": "nɒnˈlɪnɪə",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "nonlinear"
+    },
+    {
+      "collocations": [],
+      "definition": "[计]在线；联机",
+      "examples": [],
+      "frequency": 2277,
+      "phonetic": "ɒnˈlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "online"
+    },
+    {
+      "collocations": [],
+      "definition": "轮廓；大纲；概要；略图",
+      "examples": [],
+      "frequency": 4478,
+      "mnemonic": "out(外面、突出)+line(行、线、轮廓)→最突出的几行→提纲、概要、",
+      "phonetic": "ˈaʊtlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "outline"
+    },
+    {
+      "collocations": [],
+      "definition": "管道；传递途径；输油管",
+      "examples": [],
+      "frequency": 5242,
+      "phonetic": "ˈpaɪplaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "pipeline"
+    },
+    {
+      "collocations": [],
+      "definition": "海岸线；湖滨线；河岸线",
+      "examples": [],
+      "frequency": 9503,
+      "phonetic": "ˈʃɔːlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "shoreline"
+    },
+    {
+      "collocations": [],
+      "definition": "球场边线；副业；局外人的观点",
+      "examples": [],
+      "frequency": 7404,
+      "phonetic": "ˈsaɪdlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "sideline"
+    },
+    {
+      "collocations": [],
+      "definition": "地平线；空中轮廓线；架空索",
+      "examples": [],
+      "frequency": 9737,
+      "phonetic": "ˈskaɪlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "skyline"
+    },
+    {
+      "collocations": [],
+      "definition": "使合理化；使成流线型",
+      "examples": [],
+      "frequency": 11991,
+      "phonetic": "ˈstriːmlaɪn",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "streamline"
+    },
+    {
+      "collocations": [],
+      "definition": "流线型的；最新型的；改进的",
+      "examples": [],
+      "frequency": 15115,
+      "phonetic": "ˈstriːmlaɪnd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "streamlined"
+    },
+    {
+      "collocations": [],
+      "definition": "时间轴；(尤指历史事件)年表",
+      "examples": [],
+      "frequency": 12645,
+      "phonetic": "ˈtaɪmlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "timeline"
+    },
+    {
+      "collocations": [],
+      "definition": "旁边(或两旁)有树的；绿树成荫的",
+      "examples": [],
+      "frequency": 18574,
+      "phonetic": "ˈtri:laind",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "tree-lined"
+    },
+    {
+      "collocations": [],
+      "definition": "强调；在……下面划线；预告",
+      "examples": [],
+      "frequency": 9914,
+      "phonetic": "ˌʌndəˈlaɪn",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "underline"
+    },
+    {
+      "collocations": [],
+      "definition": "静脉注射；主线",
+      "examples": [],
+      "frequency": 14441,
+      "phonetic": "ˈmeɪn,laɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "mainline"
+    },
+    {
+      "collocations": [],
+      "definition": "领口，领圈",
+      "examples": [],
+      "frequency": 19410,
+      "phonetic": "ˈneklaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "neckline"
+    },
+    {
+      "collocations": [],
+      "definition": "晾衣绳",
+      "examples": [],
+      "frequency": 17507,
+      "phonetic": "ˈkloz,laɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "clothesline"
+    },
+    {
+      "collocations": [],
+      "definition": "截止期限，最后期限",
+      "examples": [],
+      "frequency": 4072,
+      "phonetic": "ˈdedlaɪn",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "deadline"
+    },
+    {
+      "collocations": [
+        "Latin limitem (nominative limes) “a boundary, limit, border, embankment",
+        "between fields,” which is probably related to limen “threshold,” and",
+        "possibly from the base of limus “transverse, oblique,” which is of uncertain"
+      ],
+      "definition": "限度；限制；界线",
+      "etymology": "c. 1400, “boundary, frontier,” from Old French limite “a boundary,” from origin. Originally of territory; general sense from early 15c. Colloquial sense of “the very extreme, the greatest degree imaginable” is from 1904. 20000 词 汇巅峰 速 记",
+      "examples": [],
+      "frequency": 1355,
+      "phonetic": "ˈlɪmɪt",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "limit"
+    },
+    {
+      "collocations": [],
+      "definition": "有限的",
+      "examples": [],
+      "frequency": 1995,
+      "phonetic": "ˈlɪmɪtɪd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "limited"
+    },
+    {
+      "collocations": [],
+      "definition": "无限制的；无条件的；无限量的",
+      "examples": [],
+      "frequency": 6843,
+      "phonetic": "ʌnˈlɪmɪtɪd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "unlimited"
+    },
+    {
+      "collocations": [],
+      "definition": "限制的；限制性的",
+      "examples": [],
+      "frequency": 9753,
+      "phonetic": "ˈlɪmɪtɪŋ",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "limiting"
+    },
+    {
+      "collocations": [],
+      "definition": "无界限的；无限制的",
+      "examples": [],
+      "frequency": 13986,
+      "phonetic": "ˈlɪmɪtlɪs",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "limitless"
+    },
+    {
+      "collocations": [
+        "1)~ (to sb) (of a place 地方) where people are not allowed to go 不\n准进入的；禁止入内的\n2)not allowed to be discussed 不许谈论的；禁止探讨的"
+      ],
+      "definition": "禁止进入的；不许讨论的",
+      "examples": [],
+      "frequency": 14872,
+      "phonetic": "ɔfˈlimits",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "off-limits"
+    },
+    {
+      "collocations": [],
+      "definition": "限制；限度；极限；[律]追诉时效；有效期限",
+      "examples": [],
+      "frequency": 3045,
+      "mnemonic": "limit(限制)+ation(=ate+ion：复合名词后缀)→限度，限制",
+      "phonetic": "lɪmɪˈteɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "limitation"
+    },
+    {
+      "collocations": [
+        "bid up and some consumers will be eliminated from the market.\n如果商品供不应求，那么价格就会提升，部分消费者就会被排除在市\n场之外。(研真94)",
+        "Since the price of digital products is relatively high, many customers who",
+        "can not afford it are eliminated from the market."
+      ],
+      "definition": "消除；排除",
+      "examples": [
+        "If the product is in short supply relative to the demand, the price will be",
+        "因为数字化产品价格一般较高，很多不具备消费能力的消费者就\n被排除在市场外。(2007.12作文：数字化产品)"
+      ],
+      "frequency": 1852,
+      "mnemonic": "e(=ex：向外)+lim(=limit：限制，门槛)+inate(使动词)→使……在门槛\n外→排除，消除",
+      "phonetic": "ɪˈlɪmɪneɪt",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "eliminate"
+    },
+    {
+      "collocations": [],
+      "definition": "除去；消除；淘汰",
+      "examples": [],
+      "frequency": 7461,
+      "phonetic": "ɪ,lɪmɪˈneɪʃən",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "elimination"
+    },
+    {
+      "collocations": [
+        "preliminary assurances(考)：初步保证"
+      ],
+      "definition": "预备的；初步的；准备工作；初步行动；预赛",
+      "examples": [],
+      "frequency": 4453,
+      "mnemonic": "pre(前)+lim(=limit：限制；门槛)+inary(=ine+ary：复合形容词后缀)→\n在(准入)门槛前→预备的，初步的；预备工作",
+      "phonetic": "prɪˈlɪmɪn(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "preliminary"
+    },
+    {
+      "collocations": [
+        "to another, not one’s own, foreign, strange,” also, as a noun, “a stranger,\nforeigner,” adjective from alius (adv.) “another, other, different,” from PIE",
+        "first recorded 1920. An alien priory (c. 1500) is one owing obedience to a",
+        "mother abbey in a foreign country.",
+        "be alien to sb(考)：对某人是陌生的/不熟悉的"
+      ],
+      "definition": "外国的；相异的，性质不同的 n. 外国人；外星人",
+      "etymology": "c. 1300, “strange, foreign,” from Old French alien “strange, foreign;” as a noun, “an alien, stranger, foreigner,” from Latin alienus “of or belonging root *al- (1) “beyond.” Meaning “residing in a country not of one’s birth” is from mid-15c. Sense of “wholly different in nature” is from 1670s. Meaning “not of this Earth”",
+      "examples": [],
+      "frequency": 4016,
+      "mnemonic": "al(外)+ien(名词后缀)→外国的；异乡的；性质不同的；不相容的",
+      "phonetic": "ˈeɪlɪən",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "alien"
+    },
+    {
+      "collocations": [],
+      "definition": "使疏远；离间；让与",
+      "examples": [],
+      "frequency": 8301,
+      "phonetic": "ˈeɪlɪəneɪt",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "alienate"
+    },
+    {
+      "collocations": [],
+      "definition": "疏远的；被疏远的",
+      "examples": [],
+      "frequency": 17102,
+      "phonetic": "ˈeljənetɪd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "alienated"
+    },
+    {
+      "collocations": [],
+      "definition": "异化的；疏远的",
+      "examples": [],
+      "frequency": 18454,
+      "phonetic": "ˈeiljəneitɪŋ",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "alienating"
+    },
+    {
+      "collocations": [],
+      "definition": "疏远；转让；精神错乱；[哲]异化；[戏]间离效果(alienation effect)",
+      "examples": [],
+      "frequency": 9852,
+      "phonetic": "eɪlɪəˈneɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "alienation"
+    },
+    {
+      "collocations": [
+        "another similar to it in some way,” late 14c., from Old French allegorie",
+        "description of one thing under the image of another,” literally “a speaking",
+        "about something else,” from allos “another, different” (from PIE root *al-\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition": "寓言",
+      "etymology": "“figurative treatment of an unmentioned subject under the guise of (12c.), from Latin allegoria, from Greek allegoria “figurative language, (1) “beyond”)+agoreuein “speak openly, speak in the assembly,” from agora “assembly” (see agora). Related: Allegorist.",
+      "examples": [],
+      "frequency": 14125,
+      "mnemonic": "al(外)+leg(说)→说的是另外一个含义→寓言",
+      "phonetic": "ˈælɪg(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "allegory"
+    },
+    {
+      "collocations": [],
+      "definition": "过敏症；[口]反感；厌恶",
+      "etymology": "1911, from German Allergie, coined 1906 by Austrian pediatrician Clemens E. von Pirquet (1874-1929) as an abstract noun from Greek allos “other, different, strange” (from PIE root *al- (1) “beyond”)+ergon “activity,” from PIE root *werg- “to do.”",
+      "examples": [],
+      "frequency": 7343,
+      "mnemonic": "all(外)+erg(=act：活动)+y(后缀)→(皮肤)外面的活动→过敏",
+      "phonetic": "ˈælədʒɪ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "allergy"
+    },
+    {
+      "collocations": [],
+      "definition": "对……过敏的；对……极讨厌的",
+      "examples": [],
+      "frequency": 9339,
+      "phonetic": "əˈlɜːdʒɪk",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "allergic"
+    },
+    {
+      "collocations": [
+        "(N-UNCOUNT) 利他主义；利他；无私 Altruism is unselfish",
+        "concern for other people’s happiness and welfare."
+      ],
+      "definition": "利他；利他主义",
+      "examples": [],
+      "frequency": 16167,
+      "phonetic": "ˈæltrʊɪz(ə)m",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "altruism"
+    },
+    {
+      "collocations": [],
+      "definition": "利他的；无私心的",
+      "examples": [],
+      "frequency": 16248,
+      "phonetic": "æltrʊˈɪstɪk",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "altruistic"
+    },
+    {
+      "collocations": [
+        "ultimate weapon(考)：最终武器",
+        "from attaining their ideals11.\n经常是缺乏行动最终阻碍人们达到他们的理想。(2007.6)"
+      ],
+      "definition": "最终的；根本的；极限的",
+      "examples": [
+        "All too often, it is the lack of action that ultimately holds people back"
+      ],
+      "frequency": 2625,
+      "mnemonic": "ult(=alt=out：外)+m(=most)+ate(形容词后缀)→最外面的；最后的；",
+      "phonetic": "ˈʌltɪmət",
+      "pos": "adj.",
+      "rootHint": "mat",
+      "word": "ultimate"
+    },
+    {
+      "collocations": [],
+      "definition": "最后；根本；基本上",
+      "examples": [],
+      "frequency": 1787,
+      "phonetic": "ˈʌltɪmətlɪ",
+      "pos": "adv.",
+      "rootHint": "mat",
+      "word": "ultimately"
+    },
+    {
+      "collocations": [],
+      "definition": "最后通牒",
+      "examples": [],
+      "frequency": 14437,
+      "phonetic": "ʌltɪˈmeɪtəm",
+      "pos": "n.",
+      "rootHint": "mat",
+      "word": "ultimatum"
+    },
+    {
+      "collocations": [],
+      "definition": "平行线；类似情况 adj. 类似的；平行的",
+      "examples": [],
+      "frequency": 5932,
+      "mnemonic": "para(旁边)+al(=other：另外)→旁边的另外一个→平行的；类似的；平",
+      "phonetic": "ˈpærəlel",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "parallel"
+    },
+    {
+      "collocations": [],
+      "definition": "无比的；空前的；无双的；绝无仅有的",
+      "examples": [],
+      "frequency": 14409,
+      "phonetic": "ʌnˈpærəleld",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "unparalleled"
+    },
+    {
+      "collocations": [
+        "Old French alterer “to change, alter,” from Medieval Latin alterare “to",
+        "become otherwise” first recorded 1580s. Related: Altered; altering.",
+        "immune response was discovered by chance.\n关于大脑如何改变免疫反应的最令人吃惊的例子之一是偶然发现的。",
+        "politics and economics.\n冷战的结束从根本上改变了世界政治和经济的性质。(2005.12)",
+        "The emergence/appearance of E-books radically altered people’s habit of"
+      ],
+      "definition": "改变，更改",
+      "etymology": "late 14c., “to change (something), make different in some way,” from change,” from Latin alter “the other (of the two),” from PIE root *al- (1) “beyond”+comparative suffix -ter (as in other). Intransitive sense “to",
+      "examples": [
+        "1) One of the most startling examples of how the mind can alter the\n(1999.6)\n2) The end of the Cold War radically altered the very nature of the world’s",
+        "仿写例句2)：电子图书的出现从根本上改变了人们的阅读习惯。(2008.6作文\n电子书)\nreading."
+      ],
+      "frequency": 2910,
+      "mnemonic": "al(外)+ter(=other：其他，另一个)→改变、变化(即：成“另外一个”)",
+      "phonetic": "ˈɔːltə;ˈɒl-",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "alter"
+    },
+    {
+      "collocations": [],
+      "definition": "改变的",
+      "examples": [],
+      "frequency": 10177,
+      "phonetic": "ˈɔːltəd",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "altered"
+    },
+    {
+      "collocations": [],
+      "definition": "变更；修改，改变",
+      "examples": [],
+      "frequency": 9194,
+      "phonetic": "ɔːltəˈreɪʃ(ə)n;ˈɒl-",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "alteration"
+    },
+    {
+      "collocations": [
+        "alternate day and night work(考)：日夜交替轮流工作"
+      ],
+      "definition": "交替；轮流",
+      "examples": [],
+      "frequency": 7518,
+      "mnemonic": "altern(=alter=other：另外；而且tern部分还在可以模仿单词“turn：转\n变”)+ate→转变(turn)成另外(other)一个→交替、轮流；交替的、轮",
+      "phonetic": "ˈɔ:ltəneɪt; (for adj.)ɔ:lˈtɜ:nət",
+      "pos": "vi.",
+      "rootHint": "mot",
+      "word": "alternate"
+    },
+    {
+      "collocations": [],
+      "definition": "交替地；轮流地；隔一个地",
+      "examples": [],
+      "frequency": 11193,
+      "phonetic": "ɔːlˈtɜːnɪtlɪ",
+      "pos": "adv.",
+      "rootHint": "mot",
+      "word": "alternately"
+    },
+    {
+      "collocations": [
+        "an alternative solution(考)：一个可选择方案 alternative careers(考)：另",
+        "The food industry should modify some long-accepted practices or turn to",
+        "less hazardous alternatives.(1999.1)"
+      ],
+      "definition": "供选择的；选择性的；交替的",
+      "examples": [
+        "食品行业应该改变一些被长期接受的做法，或者转向危害更小的替代\n选择。(食品安全问题)"
+      ],
+      "frequency": 2089,
+      "mnemonic": "altern(=alter：改变)+ative(复合形容词后缀：的)→可改变的、可变成\n另一个的→二者选一的，可选择的，可改变的",
+      "phonetic": "ɔːlˈtɜːnətɪv;ɒl-",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "alternative"
+    },
+    {
+      "collocations": [],
+      "definition": "非此即彼；二者择一地；作为一种选择",
+      "examples": [],
+      "frequency": 10782,
+      "phonetic": "ɔːlˈtɜːnətɪvlɪ",
+      "pos": "adv.",
+      "rootHint": "mot",
+      "word": "alternatively"
+    },
+    {
+      "collocations": [],
+      "definition": "交互的；交替的",
+      "examples": [],
+      "frequency": 14207,
+      "phonetic": "ˈɔːltəneɪtɪŋ",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "alternating"
+    },
+    {
+      "collocations": [
+        "altercatio) “a dispute, debate, discussion,” noun of action from past-",
+        "participle stem of altercari “to dispute (with another),” from alter “the",
+        "释义和用法：(N-COUNT) 争论；争吵 An altercation is a noisy argument or",
+        "disagreement.\n词根“-al”还可以表示“to grow, nourish：生长，长大；滋养，培养”"
+      ],
+      "definition": "争论；争吵",
+      "etymology": "late 14c., “angry contention with words,” from Old French altercacion “altercation” (12c.) and directly from Latin altercationem (nominative other” (see alter). The notion perhaps is of “speaking alternately.”",
+      "examples": [],
+      "frequency": 19950,
+      "phonetic": "ɒltəˈkeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "altercation"
+    },
+    {
+      "collocations": [],
+      "definition": "废除，废止；取消，革除",
+      "examples": [],
+      "frequency": 7618,
+      "mnemonic": "ab(表否定)+ol(=al：长大、成长)+ish(动词后缀)→不让(某事物)长大、\n生长→废除、废止、取消",
+      "phonetic": "əˈbɒlɪʃ",
+      "pos": "vt.",
+      "rootHint": "mot",
+      "word": "abolish"
+    },
+    {
+      "collocations": [],
+      "definition": "废除；废止",
+      "examples": [],
+      "frequency": 14133,
+      "mnemonic": "ab(表否定)+or(=al：长大、生长)+ion(名词后缀)→不让(某事物)生长\n大→(制度、习俗等的)废除，废止",
+      "phonetic": "æbəˈlɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "abolition"
+    },
+    {
+      "collocations": [],
+      "definition": "废奴主义者；废除主义者",
+      "examples": [],
+      "frequency": 17930,
+      "phonetic": "æbəˈlɪʃ(ə)nɪst",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "abolitionist"
+    },
+    {
+      "collocations": [],
+      "definition": "流产；夭折；发育不全；堕胎",
+      "examples": [],
+      "frequency": 12760,
+      "mnemonic": "ab(相反)+bor(=born：出生；出现)→不让生下来→流产；夭折",
+      "phonetic": "əˈbɔːt",
+      "pos": "vi.",
+      "rootHint": "mot",
+      "word": "abort"
+    },
+    {
+      "collocations": [],
+      "definition": "流产，小产；流产的胎儿",
+      "examples": [],
+      "frequency": 1983,
+      "phonetic": "əˈbɔːʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "abortion"
+    },
+    {
+      "collocations": [],
+      "definition": "成熟的；成年的 n. 成年人；成年动物",
+      "examples": [],
+      "frequency": 972,
+      "phonetic": "ˈædʌlt; əˈdʌlt",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "adult"
+    },
+    {
+      "collocations": [
+        "French avouterie (12c., later adulterie, Modern French adult’re), noun of",
+        "condition from avoutre, from Latin adulterare “commit adultery; corrupt,”\nfrom ad “to” (see ad-)+alterare “to alter” (see alter). Compare adulteration.",
+        "The spelling was corrected toward Latin from early 15c. in English,",
+        "following French (see ad-).",
+        "In Middle English, also “sex between husband and wife for recreational",
+        "purposes; idolatry, perversion, heresy.” As a crime, formerly classified as",
+        "single adultery (with an unmarried person) and double adultery (with a",
+        "married person). The Old English word was æwbryce “breach of law(ful\nmarriage)” (similar formation in German Ehebruch). In translations of the",
+        "any kind, in act or thought.\n释义和用法：(N-UNCOUNT) 通奸；婚外性行为 If a married person commits",
+        "adultery, they have sex with someone that they are not married to."
+      ],
+      "definition": "通奸，通奸行为",
+      "etymology": "“voluntary violation of the marriage bed,” c. 1300, avoutrie, from Old 7th Commandment it is understood to mean “lewdness or unchastity” of",
+      "examples": [],
+      "frequency": 11231,
+      "phonetic": "əˈdʌlt(ə)rɪ",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "adultery"
+    },
+    {
+      "collocations": [],
+      "definition": "成年；成人期",
+      "examples": [],
+      "frequency": 7917,
+      "phonetic": "ˈædʌlthʊd",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "adulthood"
+    },
+    {
+      "collocations": [
+        "Saxon ruler, prince, chief; chief officer of a shire,” from aldor, ealder",
+        "Presumably originally of elders of the clan or tribe, but already in Old",
+        "English used for king’s viceroys, regardless of age. In later Old English",
+        "a more specific title, “chief magistrate of a county,” having both civic",
+        "and military duties. The word yielded under Canute to eorl (see earl), and",
+        "after the Norman Conquest to count (n.). Having lost its specific sense,",
+        "alderman was then applied to any head man; meaning “headman of a",
+        "became identified with municipal government. Related: Aldermancy;\naldermanic.\n笔 记 区"
+      ],
+      "definition": "总督；市议员；市府参事；高级市政官",
+      "etymology": "Old English aldormonn (Mercian), ealdormann (West Saxon) “Anglo- “patriarch” (comparative of ald “old;” see old)+monn, mann “man” (from 20000 词 汇巅峰 速 记 PIE root *man- (1) “man”). guild” (early 12c.) passed to “magistrate of a city” (c. 1200) as the guilds",
+      "examples": [],
+      "frequency": 18149,
+      "phonetic": "ˈɔːldəmən",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "alderman"
+    },
+    {
+      "collocations": [],
+      "definition": "青春期的；未成熟的 n. 青少年",
+      "examples": [],
+      "frequency": 3414,
+      "mnemonic": "ad(=to：去)+ol(=old：长大、成熟；d无意义)+escent(复合形容词或名词\n后缀)→去长大、成熟，即：还未成熟的→青春期的；青少年",
+      "phonetic": "ædəˈles(ə)nt",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "adolescent"
+    },
+    {
+      "collocations": [],
+      "definition": "青春期",
+      "examples": [],
+      "frequency": 7012,
+      "phonetic": "ædəˈles(ə)ns",
+      "pos": "n.",
+      "rootHint": "mot",
+      "word": "adolescence"
+    },
+    {
+      "collocations": [],
+      "definition": "成熟 a. 成熟的；到期的",
+      "examples": [],
+      "mnemonic": "mat(=ripe：成熟的；)+ure(少见的形容词或动词后缀)→成熟的，到期",
+      "phonetic": "məˈtjuə",
+      "pos": "v.",
+      "rootHint": "mat",
+      "word": "mature"
+    },
+    {
+      "collocations": [
+        "form of com- “together” (see co-)+alescere “be nourished,” hence,",
+        "(VERB) 联合；合并 If two or more things coalesce, they come",
+        "together and form a larger group or system."
+      ],
+      "definition": "联合；合并；结合",
+      "etymology": "1540s, “grow together, unite by growing into one body,” from Latin coalescere “unite, grow together, become one in growth,” from assimilated “increase, grow up,” inchoative of alere “to suckle, nourish,” from PIE root *al- (2) “to grow, nourish.” Related: Coalesced; coalescing; coalescence; coalescent.",
+      "examples": [],
+      "frequency": 13101,
+      "mnemonic": "co(共同，一起)+al(长)+esce(后缀)→长到一起→联合；合并",
+      "phonetic": ",kəʊəˈles",
+      "pos": "vi.",
+      "rootHint": "mot",
+      "word": "coalesce"
+    },
+    {
+      "collocations": [],
+      "definition": "多产的；作品丰富的",
+      "examples": [],
+      "frequency": 11273,
+      "mnemonic": "pro(向前)+ol(生)+fic(=make：制造)→能向前制造出，生出很多的→",
+      "phonetic": "prəˈlɪfɪk",
+      "pos": "adj.",
+      "rootHint": "mot",
+      "word": "prolific"
+    }
+  ]
+}

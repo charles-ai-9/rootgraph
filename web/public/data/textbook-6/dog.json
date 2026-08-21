@@ -1,0 +1,50 @@
+{
+  "chapter" : "34",
+  "chapterOrder" : 134,
+  "id" : "dog",
+  "meaningEn" : "doc-=to teach",
+  "meaningZh" : "教；教导",
+  "roots" : [
+    "dog"
+  ],
+  "semanticLabel" : "教；教导",
+  "source" : "textbook-6",
+  "titleZh" : "教；教导",
+  "words" : [
+    {
+      "collocations" : [
+        "(in plural dogmata), from Latin dogma “philosophical tenet,” from Greek",
+        "dogma (genitive dogmatos) “opinion, tenet,” literally “that which one",
+        "thinks is true”.",
+        "political\/religious\/party dogma：政治\/宗教\/政党信条",
+        "central dogma：核心教义"
+      ],
+      "definition" : "教义；信条；教条",
+      "etymology" : "“a settled opinion, a principle held as being firmly established,” c. 1600",
+      "examples" : [
+
+      ],
+      "frequency" : 12106,
+      "mnemonic" : "dog-（=doc-：教）+ -ma（表行为结果的名词后缀）→教导的结果→",
+      "phonetic" : "ˈdɒgmə",
+      "pos" : "n.",
+      "rootHint" : "dog",
+      "word" : "dogma"
+    },
+    {
+      "collocations" : [
+        "a dogmatic approach：武断的方法"
+      ],
+      "definition" : "自以为是的；教条的；武断的",
+      "examples" : [
+        "There is a danger of becoming too dogmatic about teaching methods.\n在教学方法上存在着过分教条主义的危险。"
+      ],
+      "frequency" : 17104,
+      "mnemonic" : "dogma（教条）+ -atic（形容词后缀）→教条的；武断的",
+      "phonetic" : "dɒgˈmætɪk",
+      "pos" : "adj.",
+      "rootHint" : "dog",
+      "word" : "dogmatic"
+    }
+  ]
+}

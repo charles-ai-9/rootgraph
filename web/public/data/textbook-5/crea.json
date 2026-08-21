@@ -1,0 +1,1070 @@
+{
+  "chapter" : "18",
+  "chapterOrder" : 118,
+  "id" : "crea",
+  "meaningZh" : "生长，增加。",
+  "roots" : [
+    "crea"
+  ],
+  "semanticLabel" : "生长，增加。",
+  "source" : "textbook-5",
+  "titleZh" : "生长，增加。",
+  "words" : [
+    {
+      "collocations" : [
+        "Ceres and to crescere “arise, be born, increase, grow,” from PIE root *ker-",
+        "create more jobs：创造更多的就业机会",
+        "create a young energetic image：塑造一个充满活力的年轻形象"
+      ],
+      "definition" : "创造；引起；设计",
+      "etymology" : "“to bring into being,” early 15c., from Latin creatus, past participle of creare “to make, bring forth, produce, procreate, beget, cause,” related to (2) “to grow.”",
+      "examples" : [
+
+      ],
+      "frequency" : 333,
+      "mnemonic" : "crea（=grow：长出来；出现；形成）+ t（无意义）+ e→创造（即：",
+      "phonetic" : "kriːˈeɪt",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "create"
+    },
+    {
+      "collocations" : [
+        "newly created folk songs：新创作的民歌"
+      ],
+      "definition" : "创造的",
+      "examples" : [
+
+      ],
+      "frequency" : 16025,
+      "phonetic" : "krɪˈeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "created"
+    },
+    {
+      "collocations" : [
+        "wealth creation：财富的创造",
+        "a literary creation：文学作品"
+      ],
+      "definition" : "创造；作品；（尤指《圣经》所述由上帝）创造天地；全宇宙",
+      "examples" : [
+
+      ],
+      "frequency" : 2132,
+      "phonetic" : "kriːˈeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "creation"
+    },
+    {
+      "collocations" : [
+        "creative thinking：创造性思维",
+        "the paintings of local creatives：当地画家的作品"
+      ],
+      "definition" : "创造（性）的；有创造力的 n. 富于创造力的人；创意",
+      "examples" : [
+
+      ],
+      "frequency" : 2067,
+      "phonetic" : "kriːˈeɪtɪv",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "creative"
+    },
+    {
+      "collocations" : [
+        "respect for all living creatures：对所有有生命物的尊重",
+        "a creature of habit：严守生活习惯的人\na\/the creature of sb. \/ sb.’s creature：某人的傀儡"
+      ],
+      "definition" : "生物；动物；（具有某种特征的）人",
+      "examples" : [
+
+      ],
+      "frequency" : 2375,
+      "mnemonic" : "creat（创造）+ -ure（名词后缀）→生物；动物；（具有某种特征",
+      "phonetic" : "ˈkriːtʃə",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "creature"
+    },
+    {
+      "collocations" : [
+        "bring out the creativity in you：培养出你的创造力"
+      ],
+      "definition" : "创造力",
+      "examples" : [
+
+      ],
+      "frequency" : 4308,
+      "mnemonic" : "creative（创造的）+ -ity（名词后缀）→创造力",
+      "phonetic" : "ˌkriːeɪˈtɪvəti",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "creativity"
+    },
+    {
+      "collocations" : [
+        "Walt Disney, the creator of Mickey Mouse：沃尔特·迪斯尼—米老鼠的"
+      ],
+      "definition" : "创作者；造物主",
+      "examples" : [
+
+      ],
+      "frequency" : 5147,
+      "phonetic" : "kriːˈeɪtə",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "creator"
+    },
+    {
+      "collocations" : [
+        "recreate the atmosphere of the castle’s medieval heyday：重新营造出该"
+      ],
+      "definition" : "重新创作；改造",
+      "examples" : [
+
+      ],
+      "frequency" : 6622,
+      "phonetic" : "ˌrikriˈeɪt",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "re-create"
+    },
+    {
+      "collocations" : [
+        "facilities for leisure and recreation：改进消遣娱乐设施",
+        "recreations such as golf, football and shooting：诸如打高尔夫球、踢足\n球和射击等的娱乐活动",
+        "a faithful recreation of the original frontier town：和原来边境城镇一模\n一样的复制品"
+      ],
+      "definition" : "娱乐；重现；重建",
+      "examples" : [
+
+      ],
+      "frequency" : 5984,
+      "phonetic" : "ˌrekrɪˈeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "recreation"
+    },
+    {
+      "collocations" : [
+        "parks and other recreational facilities：公园及其它娱乐设施"
+      ],
+      "definition" : "娱乐的；消遣的",
+      "examples" : [
+
+      ],
+      "frequency" : 6020,
+      "phonetic" : "rekrɪˈeɪʃənl",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "recreational"
+    },
+    {
+      "collocations" : [
+        "solve problems creatively：创造性地解决问题"
+      ],
+      "definition" : "创造性地；有创造力地",
+      "examples" : [
+
+      ],
+      "frequency" : 13335,
+      "phonetic" : "kriˈeɪtɪvli",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "creatively"
+    },
+    {
+      "collocations" : [
+        "account of the creation of the universe in the Bible is true, and that the",
+        "theory of evolution is incorrect."
+      ],
+      "definition" : "创造论（认为万物皆由上帝创造）19315",
+      "examples" : [
+
+      ],
+      "phonetic" : "kriːˈeɪʃ(ə)nɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "creationism"
+    },
+    {
+      "collocations" : [
+        "on the increase：正在增长"
+      ],
+      "definition" : "&vi. 使增加；增加 n. 增加",
+      "examples" : [
+
+      ],
+      "frequency" : 660,
+      "mnemonic" : "in-（里面）+ crease（=to grow）→（里面）增加，增长→增加",
+      "phonetic" : "ɪnˈkriːs",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "increase"
+    },
+    {
+      "collocations" : [
+        "increased spending：增加的支出"
+      ],
+      "definition" : "增强的；增加的",
+      "examples" : [
+
+      ],
+      "frequency" : 1999,
+      "phonetic" : "ɪnˈkriːst",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "increased"
+    },
+    {
+      "collocations" : [
+        "an increasing number of people：越来越多的人"
+      ],
+      "definition" : "越来越多的；渐增的",
+      "examples" : [
+
+      ],
+      "frequency" : 2387,
+      "phonetic" : "ɪnˈkriːsɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "increasing"
+    },
+    {
+      "collocations" : [
+        "increasingly difficult \/ important \/ popular：越来越困难\/重要\/普及",
+        "increasingly rely on Japanese capital：越来越依赖日本资本"
+      ],
+      "definition" : "越来越多地；不断增加地",
+      "examples" : [
+
+      ],
+      "frequency" : 1594,
+      "phonetic" : "ɪnˈkriːsɪŋlɪ",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "increasingly"
+    },
+    {
+      "collocations" : [
+        "decrease by 1.4% each year：每年下降1.4%",
+        "decrease in size：规模缩小"
+      ],
+      "definition" : "&vi. 使降低；降低 n. 减少；降低",
+      "examples" : [
+
+      ],
+      "frequency" : 3400,
+      "mnemonic" : "de（=down）+ crea-（=grow：增长）+ s（无意义）+ e→往下长\n（即：负增长）→减少\nc（k），g读音相似，可以相互变化",
+      "phonetic" : "dɪˈkriːs",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "decrease"
+    },
+    {
+      "collocations" : [
+        "decreased sediment loads：泥沙量的减少"
+      ],
+      "definition" : "减少的",
+      "examples" : [
+
+      ],
+      "frequency" : 12602,
+      "phonetic" : "dɪˈkriːst",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "decreased"
+    },
+    {
+      "collocations" : [
+        "a decreasing population：逐渐减少的人口",
+        "decreasing interest rates：不断降低的利率"
+      ],
+      "definition" : "渐减的",
+      "examples" : [
+
+      ],
+      "frequency" : 12870,
+      "phonetic" : "dɪˈkriːsɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "decreasing"
+    },
+    {
+      "collocations" : [
+        "formed by continued growth from without,” from Latin accretionem “an",
+        "increasing, a growing larger” (as of the waxing moon).",
+        "A coral reef is built by the accretion of tiny, identical organisms.\n珊瑚礁是由相同的微生物累积形成的。\n笔 记 区"
+      ],
+      "definition" : "增加物；累积",
+      "etymology" : "1610s, “act of growing by organic enlargement;” 1650s as “that which is",
+      "examples" : [
+        "The script has been gathering editorial accretions for years.\n该剧本经历了多年的修改加工。"
+      ],
+      "frequency" : 18321,
+      "mnemonic" : "accret（e）（增大生长）+ -ion（名词后缀）→增大生长的产物→增",
+      "phonetic" : "əˈkriːʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "accretion"
+    },
+    {
+      "collocations" : [
+        "increase; an addition,” from stem of increscere “to grow in or upon” (see\nincrease (v.)). Meaning “amount of increase” first attested 1630s.",
+        "a salary of￡25 K with annual increments：薪酬25, 000英镑，并逐年",
+        "rate of increment：增长率"
+      ],
+      "definition" : "增加；增量；定期加薪",
+      "etymology" : "Mid-15c., “act or process of increasing,” from Latin incrementum “growth,",
+      "examples" : [
+
+      ],
+      "frequency" : 13648,
+      "mnemonic" : "in-（=in, upon）+ -cre-（=to grow：生长；增加）+ -ment（名词后\n缀）→growth \/ increase in or upon：在……基础上的增加量→增加；",
+      "phonetic" : "ˈɪŋkrəmənt",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "increment"
+    },
+    {
+      "collocations" : [
+        "incremental costs：增加的成本",
+        "incremental learning：逐步积累的学习"
+      ],
+      "definition" : "递增的",
+      "examples" : [
+
+      ],
+      "frequency" : 10695,
+      "phonetic" : "ˌɪnkrɪˈmentəl",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "incremental"
+    },
+    {
+      "collocations" : [
+        "reinforcement,” from fem. past participle of creistre “to grow,” from Latin\ncrescere “to arise, grow”.",
+        "rescue crew：救援队",
+        "repair crews：修理人员",
+        "crew members：全体机务人员\na film \/ camera crew：电影摄制组；摄制组\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "（轮船、飞机等上面的）全体工作人员；一组技术人员团队vt.&vi. 当船员",
+      "etymology" : "Mid-15c., “group of soldiers sent as reinforcements” (a sense now obsolete), 来自古法语crue, creue “an increase, recruit, military",
+      "examples" : [
+
+      ],
+      "frequency" : 1718,
+      "mnemonic" : "cre-=to grow（成长）+ w→尤其指轮船、飞机等上面的工作人员；摄\ncrew（=group：组；群；团体）→团体；全体（成员）；全体船员",
+      "phonetic" : "kruː",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "crew"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "乘务员，船员（通常为男性）",
+      "examples" : [
+        "Here are some assorted tips to help out a new vehicle crewman.\n这里有一些帮助新车辆乘务人员的建议。"
+      ],
+      "frequency" : 16984,
+      "mnemonic" : "crew（机组、轮船上的工作人员）+ man（男性）→乘务员；船员",
+      "phonetic" : "ˈkruːmən",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "crewman"
+    },
+    {
+      "collocations" : [
+        "Italian crescendo “increasing,” from Latin crescendo, ablative of gerund of\ncrescere “to increase, grow”.",
+        "speak in a crescendo：嗓门越来越高地喊道",
+        "a crescendo of press criticism：媒体的批评逐渐升温",
+        "The advertising campaign reached a crescendo just before Christmas.\n圣诞节前夕，广告攻势达到了高潮。\n反义词：diminuendo：减弱"
+      ],
+      "definition" : "逐渐增强的响声；声音最响的一点；渐强；顶点",
+      "etymology" : "“A gradual increasing in force or loudness,” 1776 as a musical term, from",
+      "examples" : [
+        "Voices rose in a crescendo and drowned him out.\n人们讲话的声音越来越大，盖过了他的声音。"
+      ],
+      "frequency" : 17298,
+      "mnemonic" : "cresc-（=cre-：增加；增强）+ -endo→逐渐增强的响声；渐强",
+      "phonetic" : "krəˈʃendəʊ",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "crescendo"
+    },
+    {
+      "collocations" : [
+        "a crescent moon：新月"
+      ],
+      "definition" : "新月（伊斯兰教最重要的标志）；新月形；月牙形",
+      "examples" : [
+
+      ],
+      "frequency" : 12668,
+      "mnemonic" : "cresc（=-cret-：生长）+ -ent（名词后缀）→逐渐增长的月亮→新月",
+      "phonetic" : "ˈkresnt;ˈkreznt",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "crescent"
+    },
+    {
+      "collocations" : [
+        "coffee and croissants：咖啡和牛角面包"
+      ],
+      "definition" : "羊角面包（法式）",
+      "etymology" : "“buttery, flaky puff-pastry roll named for its crescent shape,” 1899, see 包；羊角面包",
+      "examples" : [
+
+      ],
+      "frequency" : 19344,
+      "mnemonic" : "crescent. 因形似新月而得名。Crescent：新月形→croissant：新月形面",
+      "phonetic" : "ˈkwæsɒ̃ˌkrəˈsɑːnt",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "croissant"
+    },
+    {
+      "collocations" : [
+        "concrete evidence：明确而具体的证据",
+        "concrete the floors：给地板浇上了混凝土",
+        "sit on the concrete floor：坐在混凝土地板上"
+      ],
+      "definition" : "明确具体的；实物的 n. 混凝土 vt. 给（道路等）浇混凝土",
+      "examples" : [
+
+      ],
+      "frequency" : 3338,
+      "mnemonic" : "con-（=com-=together）+ -cret（=cre-：grow）+ e→长到一起的，聚\n合成块的→混凝土；给……浇混凝土→引申义为长到一块的一个实\n物：individual, particular, solid→明确具体的；实物的",
+      "phonetic" : "ˈkɒŋkriːt",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "concrete"
+    },
+    {
+      "collocations" : [
+        "sincerus, of things, “whole, clean, pure, uninjured, unmixed,” figuratively",
+        "a sincere apology：诚恳的道歉"
+      ],
+      "definition" : "（感情、信念或行为）真诚的；诚挚的；诚实的；坦率的",
+      "etymology" : "1530s, “pure, unmixed,” from Middle French sincere (16c.), from Latin “sound, genuine, pure, true, candid, truthful”.",
+      "examples" : [
+
+      ],
+      "frequency" : 6980,
+      "mnemonic" : "sin-（=one：一个）+ cere（=cre-：grow）→of one growth：从一个源\n头生长出来的→纯粹的，不搀假的→真诚的；真挚的；诚实的；坦率",
+      "phonetic" : "sɪnˈsɪə",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "sincere"
+    },
+    {
+      "collocations" : [
+        "sincerely believe：由衷地认为",
+        "Yours sincerely：（正式信函署名前的套语）谨上"
+      ],
+      "definition" : "真诚地；诚恳地；由衷地",
+      "examples" : [
+
+      ],
+      "frequency" : 10447,
+      "phonetic" : "sɪnˈsɪəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "sincerely"
+    },
+    {
+      "collocations" : [
+        "in all sincerity：非常真诚地；衷心地"
+      ],
+      "definition" : "真实；诚挚",
+      "examples" : [
+
+      ],
+      "frequency" : 11216,
+      "mnemonic" : "sincer（=sincere：真诚的；诚挚的）+ -ity（名词后缀）→真实；诚挚",
+      "phonetic" : "sɪnˈserətɪ",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "sincerity"
+    },
+    {
+      "collocations" : [
+        "a bowl of cereal：一碗麦片粥",
+        "the cereal-growing districts：生产谷类植物的地区"
+      ],
+      "definition" : "麦片；（小麦、高粱、米等）谷类植物",
+      "etymology" : "罗马神话中，刻瑞斯（Ceres）是神王朱庇特的姐姐和第四个妻子， 掌管农业、谷物和丰产，被称为谷物女神。她等同于希腊神话中的德 墨忒尔（Demeter）。科瑞斯有个女儿，名叫普洛塞庇娜，长得非常 漂亮，是科瑞斯的掌上明珠。冥王普鲁托爱上了她，将其劫掠至冥府 作了冥后。因为失去女儿，科瑞斯无心过问农事，导致大地失去生 机，庄稼死亡，饥馑遍地，人们再也没有祭品来供奉神灵。于是众神 之王朱庇特命令冥王释放普洛塞庇娜。冥王不敢违命，但又不甘心， 就在普洛塞庇娜离开之际，偷偷让她吃下石榴籽，使得她无法断绝与 冥府的联系。因此，普洛塞庇娜每年有8个月时间在人间陪伴母亲，4 个月时间重返冥府陪伴冥王。在有女儿陪伴的时期，谷物女神心情愉 快，世间万物蓬勃生长；而在女儿离开的4个月中，谷物女神心情低 落，万物枯竭，这就是人间的冬天。就这样，人间出现枯荣轮回，人 类也不能再像黄金时代那样不劳而获，坐等庄稼自己长出来，而是需 要去播种耕耘。英语单词cereal（谷物）就来自谷物女神刻瑞斯的拉 丁名字Ceres，字面意思就是“刻瑞斯的”。",
+      "examples" : [
+
+      ],
+      "frequency" : 6207,
+      "phonetic" : "ˈsɪərɪəl",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "cereal"
+    },
+    {
+      "collocations" : [
+        "Creole cookery：克里奥尔式烹饪方法"
+      ],
+      "definition" : "克里奥尔人；克里奥耳语",
+      "examples" : [
+
+      ],
+      "frequency" : 13990,
+      "phonetic" : "ˈkri:əul",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "Creole"
+    },
+    {
+      "collocations" : [
+        "recruit volunteers：招募志愿者",
+        "recruit new staff：招聘新员工",
+        "be responsible for recruiting at all levels：负责各级征募工作\n笔 记 区"
+      ],
+      "definition" : "吸收（新成员）；征募（新兵） n. 新兵，新成员",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re-（又；再）+ crui-（=grow：增加）+ t（无意义）→招聘；征收",
+      "phonetic" : "riˈkru:t",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "recruit"
+    },
+    {
+      "collocations" : [
+        "a professional recruiter：专业的招聘人员"
+      ],
+      "definition" : "招聘人员；征兵人员",
+      "examples" : [
+
+      ],
+      "frequency" : 11017,
+      "phonetic" : "rɪˈkruːtə",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "recruiter"
+    },
+    {
+      "collocations" : [
+        "an army recruiting office：一个征兵办公室"
+      ],
+      "definition" : "招收；招募",
+      "examples" : [
+
+      ],
+      "frequency" : 8053,
+      "phonetic" : "rɪˈkrʊtɪŋ",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "recruiting"
+    },
+    {
+      "collocations" : [
+        "the recruitment of civil servants：公务员招聘"
+      ],
+      "definition" : "招聘",
+      "examples" : [
+
+      ],
+      "frequency" : 6474,
+      "phonetic" : "rɪˈkruːtm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "recruitment"
+    },
+    {
+      "collocations" : [
+        "economic benefits accruing to the country from tourism：旅游业为该国",
+        "accrue debts of over $6m：积累了600多万元的债务",
+        "accrued interest：累积的利息\n单词 super 表示“在……之上；极好的”含义",
+        "especially in words from Anglo-French and Old French, from Old French",
+        "sour-, sor-, sur-, from Latin super “above, over,” from PIE root *uper"
+      ],
+      "definition" : "&vi. （逐渐）增长，增加；（使钱款、债务）积累",
+      "etymology" : "word-forming element meaning “over, above, beyond, in addition,” “over.” 20000 词汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 12487,
+      "mnemonic" : "ac-（=ad：去）+ -crue（=to grow：生长）→增大；增加；（使钱",
+      "phonetic" : "əˈkruː",
+      "pos" : "vt",
+      "rootHint" : "crea",
+      "word" : "accrue"
+    },
+    {
+      "collocations" : [
+        "super slim：超级苗条",
+        "a super time：一段超好的时光"
+      ],
+      "definition" : "超级的；超好的 adv. 超级地",
+      "etymology" : "“First-rate, excellent”, 1837,“一流的；极好的；优秀的”。来自 superfine （1680s）的前缀，表示“highest grade of goods”，即“好 的最高级形式”。来自拉丁语super “above, over, beyond”，含义为 “在……之上，超越”。",
+      "examples" : [
+
+      ],
+      "frequency" : 2674,
+      "phonetic" : "ˈsuːpə;ˈsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "super"
+    },
+    {
+      "collocations" : [
+        "superb form：极好的（竞技）状态",
+        "a superb player：一名杰出的运动员"
+      ],
+      "definition" : "极佳的；卓越的；质量极高的",
+      "examples" : [
+
+      ],
+      "frequency" : 7027,
+      "mnemonic" : "super（极好的，特级的）+ b（=be：成为）→（成为）极好的；质量",
+      "phonetic" : "suːˈpɜːb;sjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "superb"
+    },
+    {
+      "collocations" : [
+        "a superbly prepared and served dinner：一次最上等准备和制作地宴会"
+      ],
+      "definition" : "] adv. 最上等地",
+      "examples" : [
+
+      ],
+      "frequency" : 19199,
+      "phonetic" : "suːˈpɜːbli",
+      "rootHint" : "crea",
+      "word" : "superbly"
+    },
+    {
+      "collocations" : [
+        "superheroes like Batman and Superman：像蝙蝠侠和超人那样的超级英雄"
+      ],
+      "definition" : "（动画片或电影中的）超级英雄",
+      "examples" : [
+
+      ],
+      "frequency" : 18437,
+      "mnemonic" : "super-（超级）+hero（英雄）→超级英雄",
+      "phonetic" : "ˈsuːpəhɪərəʊ;ˈsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superhero"
+    },
+    {
+      "collocations" : [
+        "the eight-lane superhighway：八车道的高速公路",
+        "information superhighway：信息高速公路"
+      ],
+      "definition" : "高速公路；（信息）高速公路",
+      "examples" : [
+
+      ],
+      "frequency" : 19406,
+      "mnemonic" : "super（超级的）+ highway（公路）→高速公路",
+      "phonetic" : "ˈsuːpəhaɪweɪ;ˈsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superhighway"
+    },
+    {
+      "collocations" : [
+        "superior to：高于，超过……",
+        "their superiors：他们的上级\n笔 记 区"
+      ],
+      "definition" : "比……好的；上好的；上级的；有优越感的 n. 优越；上级",
+      "examples" : [
+
+      ],
+      "frequency" : 3441,
+      "mnemonic" : "super（极好的；高级的）+-ior（形容词或名词后缀）→上好的，高",
+      "phonetic" : "suːˈpɪərɪə",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "superior"
+    },
+    {
+      "collocations" : [
+        "to have naval \/ air superiority （=more ships \/ planes than the enemy）：",
+        "an air of superiority：神气活现的样子\n反义词：inferiority：低等；劣势",
+        "feeling of inferiority：自卑感"
+      ],
+      "definition" : "优越（性）；优势；优越感；神气活现的样子",
+      "examples" : [
+
+      ],
+      "frequency" : 7913,
+      "mnemonic" : "superior（有优越感的，比……好的）+ -ity（名词后缀）→优势；优",
+      "phonetic" : "suːˌpɪərɪˈɒrɪtɪ;sjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superiority"
+    },
+    {
+      "collocations" : [
+        "inferior in：在……方面低劣",
+        "inferior products：劣质的产品"
+      ],
+      "definition" : "较差的；低等的；次要的 n. （能力或地位）低于他人者；部下；自卑",
+      "examples" : [
+
+      ],
+      "frequency" : 7654,
+      "mnemonic" : "infer-（=below or beneath：在下面的）+ -ior（形容词或名词后缀）→",
+      "phonetic" : "ɪnˈfɪərɪə",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "inferior"
+    },
+    {
+      "collocations" : [
+        "a sense of inferiority：自卑感",
+        "social inferiority：社会地位低下"
+      ],
+      "definition" : "低等；劣势；自卑",
+      "examples" : [
+
+      ],
+      "frequency" : 15714,
+      "mnemonic" : "inferior（较差的；低等的；自卑）+ -ity（名词后缀）→低等；劣",
+      "phonetic" : "ɪnˌfɪərɪˈɒrɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "inferiority"
+    },
+    {
+      "collocations" : [
+        "large supermarket：大型超市"
+      ],
+      "definition" : "超市",
+      "examples" : [
+
+      ],
+      "frequency" : 4737,
+      "mnemonic" : "super-（超级）+ market（市场）→超市",
+      "phonetic" : "ˈsuːpəmɑːkɪt;ˈsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "supermarket"
+    },
+    {
+      "collocations" : [
+        "British supermodel Naomi Campbell：英国超级名模娜奥米·坎贝尔"
+      ],
+      "definition" : "超级名模",
+      "examples" : [
+
+      ],
+      "frequency" : 18609,
+      "mnemonic" : "super-（超级）+ model（模特）→超级名模",
+      "phonetic" : "ˈsuːpəˌmɒdəl",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "supermodel"
+    },
+    {
+      "collocations" : [
+        "supernova remnant：超新星遗迹"
+      ],
+      "definition" : "[天]超新星",
+      "examples" : [
+
+      ],
+      "frequency" : 9997,
+      "mnemonic" : "super（超级）+ nova（新星）→超新星",
+      "phonetic" : "ˌsuːpəˈnəʊvə;ˌsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "supernova"
+    },
+    {
+      "collocations" : [
+        "country, usually one that is rich and has nuclear weapons."
+      ],
+      "definition" : "超级大国",
+      "examples" : [
+
+      ],
+      "frequency" : 8469,
+      "mnemonic" : "super（超级）+ power（力量；权力）→拥有超级力量的国家→超级",
+      "phonetic" : "ˈsuːpəpaʊə;ˈsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superpower"
+    },
+    {
+      "collocations" : [
+        "a basketball superstar：一个篮球超级明星"
+      ],
+      "definition" : "超级明星",
+      "examples" : [
+
+      ],
+      "frequency" : 7127,
+      "mnemonic" : "super-（超级）+ star（明星）→超级明星",
+      "phonetic" : "ˈsuːpəstɑː;ˈsjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superstar"
+    },
+    {
+      "collocations" : [
+        "superficial differences \/ similarities：表面的相异 \/ 相似之处",
+        "a superficial injury：皮外伤",
+        "a superficial friendship：浅薄的交情"
+      ],
+      "definition" : "（人）肤浅的；（行动、感情、关系等）浅表的；表面上的；表皮的 （伤、损坏）",
+      "examples" : [
+
+      ],
+      "frequency" : 8445,
+      "mnemonic" : "super-（=over：在……之上）+ -fic（=face：脸；表面）+ -ial（形容\n词后缀）→表面上的→肤浅的；表面上的；表皮的",
+      "phonetic" : "ˌsuːpəˈfɪʃ(ə)l;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "superficial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "表面地；浅薄地",
+      "examples" : [
+        "They love so sweet, even if only superficially, but also envy the warm sun.\n他们的爱情那么甜美，即便只是表面，也羡煞了暖阳。"
+      ],
+      "frequency" : 20040,
+      "phonetic" : "ˌsuːpəˈfɪʃ(ə)lɪ;ˌsjuː-",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "superficially"
+    },
+    {
+      "collocations" : [
+        "make words superfluous：无需多言了"
+      ],
+      "definition" : "过剩的；多余的",
+      "examples" : [
+
+      ],
+      "frequency" : 16828,
+      "mnemonic" : "super-（=over：在……之上；超过）+ -flu-（流）+ -ous（形容词后\n缀）→overflowing：溢出的→过剩的；多余的",
+      "phonetic" : "suːˈpɜːflʊəs;sjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "superfluous"
+    },
+    {
+      "collocations" : [
+        "superhuman strength：非凡的力量"
+      ],
+      "definition" : "超出常人的；非凡的",
+      "examples" : [
+
+      ],
+      "frequency" : 19425,
+      "mnemonic" : "super-（超过）+ human（人类的）→超过人类的→超出常人的；非凡",
+      "phonetic" : "ˌsuːpəˈhjuːmən;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "superhuman"
+    },
+    {
+      "collocations" : [
+        "become superintendent of the bank：成为该银行的主管",
+        "a park superintendent：公园负责人"
+      ],
+      "definition" : "负责人；主管；警长",
+      "examples" : [
+
+      ],
+      "frequency" : 5572,
+      "mnemonic" : "super（=above：在……之上）+ intend（=direct：管理）+ -ent（名词\n后缀，表示人）→在……之上进行管理的人→负责人；主管；警长",
+      "phonetic" : "suːp(ə)rɪnˈtend(ə)nt;sjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "superintendent"
+    },
+    {
+      "collocations" : [
+        "supernatural powers：超自然力量"
+      ],
+      "definition" : "（生物、力量、事件等）超自然的 n. 超自然物",
+      "examples" : [
+
+      ],
+      "frequency" : 8785,
+      "mnemonic" : "super（=above：在……之上）+ natural（自然的）→超自然的；超自",
+      "phonetic" : "ˌsuːpəˈnætʃ(ə)r(ə)l;ˌsjuː-",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "supernatural"
+    },
+    {
+      "collocations" : [
+        "the Supreme Court：最高法庭",
+        "supreme virtue：最高美德",
+        "of supreme importance：极其重要的",
+        "a supreme effort：最大的努力\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "（级别或地位）最高的，至高无上的；（程度）最大的",
+      "examples" : [
+
+      ],
+      "frequency" : 1627,
+      "mnemonic" : "supre（=above：在上面）+ m（=most：最）+ e→最高的，至高无上的",
+      "phonetic" : "suːˈpriːm",
+      "pos" : "adj.",
+      "rootHint" : "crea",
+      "word" : "supreme"
+    },
+    {
+      "collocations" : [
+        "the battle for supremacy in the region：争夺地区霸权的较量",
+        "establish total supremacy over its rivals：奠定了对竞争对手的绝对优势"
+      ],
+      "definition" : "至高无上；最高权威；优势",
+      "examples" : [
+
+      ],
+      "frequency" : 11870,
+      "mnemonic" : "supreme（至高无上的）+ -acy（名词后缀）→至高无上；最高权威；",
+      "phonetic" : "s(j)uːˈpreməsɪ",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "supremacy"
+    },
+    {
+      "collocations" : [
+        "supremely confident：信心十足",
+        "manage it all supremely well：干得极其出色"
+      ],
+      "definition" : "极其；极为",
+      "examples" : [
+
+      ],
+      "frequency" : 17720,
+      "phonetic" : "suˈprimli",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "supremely"
+    },
+    {
+      "collocations" : [
+        "a white supremacist：白人至上主义者"
+      ],
+      "definition" : "（尤指白人的）种族优越论者",
+      "examples" : [
+
+      ],
+      "frequency" : 17923,
+      "mnemonic" : "supremacy（至高无上）+ -ist（人）→种族优越论者",
+      "phonetic" : "suːˈpreməsɪst;sjuː-",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "supremacist"
+    },
+    {
+      "collocations" : [
+        "above \/ below ground：在地面上 \/ 下",
+        "gain ground \/ lose ground：获得优势 \/ 丧失优势",
+        "seem very grounded and down-to-earth：看上去非常现实，注重实际"
+      ],
+      "definition" : "以……为根据 n. 地面；优势；场地 adj. 现实的",
+      "examples" : [
+
+      ],
+      "frequency" : 523,
+      "phonetic" : "graʊnd",
+      "pos" : "vt.",
+      "rootHint" : "crea",
+      "word" : "ground"
+    },
+    {
+      "collocations" : [
+        "working-class background：工人阶级出身",
+        "roses patterned on a blue background：印在蓝色背景上的玫瑰"
+      ],
+      "definition" : "（家庭、职业）出身；背景；背景声音；（图画、布景等的）背景",
+      "examples" : [
+
+      ],
+      "frequency" : 1409,
+      "mnemonic" : "back（背；后）+ ground（土地，底，底子）→背后的底子（家底）\n→背景；出身",
+      "phonetic" : "ˈbækgraʊnd",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "background"
+    },
+    {
+      "collocations" : [
+        "go underground：转入地下",
+        "an underground parking garage：地下停车库",
+        "deep underground：地下深处\n笔 记 区"
+      ],
+      "definition" : "秘密地；在地下 adj. 秘密的；地下的 n. 地铁",
+      "examples" : [
+
+      ],
+      "frequency" : 5410,
+      "mnemonic" : "under（下）+ ground（地面）→在地面之下的→秘密的（地）；地下",
+      "phonetic" : "ʌndəˈgraʊnd",
+      "pos" : "adv.",
+      "rootHint" : "crea",
+      "word" : "underground"
+    },
+    {
+      "collocations" : [
+        "play in a school playground：在学校操场上玩耍"
+      ],
+      "definition" : "（尤指学校或公园中的）游戏场；操场；（某些集体聚会游乐的）活动场所",
+      "examples" : [
+
+      ],
+      "frequency" : 5876,
+      "mnemonic" : "play（玩耍）+ ground（场地）→玩耍的场地→游戏场；操场；活动",
+      "phonetic" : "ˈpleɪgraʊnd",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "playground"
+    },
+    {
+      "collocations" : [
+        "the domestic battlefield of family life：家庭生活的内部问题",
+        "on the battleground：在战场上"
+      ],
+      "definition" : "战场",
+      "examples" : [
+
+      ],
+      "frequency" : 12414,
+      "mnemonic" : "battle（战役；斗争）+ ground（场地）→战斗场所→战场",
+      "phonetic" : "ˈbætlɡraund",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "battleground"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "露营场所；野营地",
+      "examples" : [
+
+      ],
+      "frequency" : 12494,
+      "mnemonic" : "camp（露营；野营）+ ground（场所）→露营场所；野营地",
+      "phonetic" : "ˈkæmpɡraʊnd",
+      "pos" : "n.",
+      "rootHint" : "crea",
+      "word" : "campground"
+    }
+  ]
+}

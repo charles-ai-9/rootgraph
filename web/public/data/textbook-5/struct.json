@@ -1,0 +1,504 @@
+{
+  "chapter" : "34",
+  "chapterOrder" : 134,
+  "id" : "struct",
+  "meaningEn" : "build",
+  "meaningZh" : "建造；构造等含义。",
+  "roots" : [
+    "struct",
+    "stroy",
+    "stru"
+  ],
+  "semanticLabel" : "建造；构造等含义。",
+  "source" : "textbook-5",
+  "titleZh" : "建造；构造等含义。",
+  "words" : [
+    {
+      "collocations" : [
+        "a salary structure：工资结构",
+        "a stone \/ brick \/ wooden structure：石 \/ 砖 \/ 木结构建筑物",
+        "structure the course：精心安排进程"
+      ],
+      "definition" : "结构；构造；（尤指）建筑物；精心组织 vt. 精心安排；系统组织",
+      "examples" : [
+        "The exhibition is structured around the themes of work and leisure.\n展览是围绕工作与休闲的主题来布置的。"
+      ],
+      "frequency" : 953,
+      "mnemonic" : "struct-（=a build, arrange：构造；建筑；安排）+-ure（名词后缀，表\n示行为及结果）→结构；构造；建筑物；精心安排",
+      "phonetic" : "ˈstrʌktʃə",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "structure"
+    },
+    {
+      "collocations" : [
+        "structural damage：结构上的破坏",
+        "structural changes：结构上的变化"
+      ],
+      "definition" : "结构（或构造）上的",
+      "examples" : [
+
+      ],
+      "frequency" : 3865,
+      "phonetic" : "ˈstrʌktʃ(ə)r(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "structural"
+    },
+    {
+      "collocations" : [
+        "structured finance：结构性融资"
+      ],
+      "definition" : "（构造）有型的；有结构的",
+      "examples" : [
+
+      ],
+      "frequency" : 8548,
+      "phonetic" : "ˈstrʌktʃəd",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "structured"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "在结构上",
+      "examples" : [
+        "The building is structurally sound. 这座房子结构完好。"
+      ],
+      "frequency" : 16448,
+      "phonetic" : "ˈstrʌktʃərəli",
+      "pos" : "adv.",
+      "rootHint" : "struct",
+      "word" : "structurally"
+    },
+    {
+      "collocations" : [
+        "restructure American education：重新建构美国的教育"
+      ],
+      "definition" : "重新建构",
+      "examples" : [
+
+      ],
+      "frequency" : 8295,
+      "mnemonic" : "re-（=again：重新）+ structure（建构）→重新建构",
+      "phonetic" : "riːˈstrʌktʃə",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "restructure"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重新建构；改组",
+      "examples" : [
+        "The company is to lay off 1,520 workers as part of a restructuring.\n作为改组的一部分，这家公司将解雇1520名工人。"
+      ],
+      "frequency" : 7403,
+      "phonetic" : "riːˈstrʌktʃərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "restructuring"
+    },
+    {
+      "collocations" : [
+        "construct an office building：建造了一座办公楼",
+        "construct a huge business empire：构建了一个庞大的商业王国"
+      ],
+      "definition" : "建造；构建",
+      "examples" : [
+
+      ],
+      "frequency" : 2499,
+      "mnemonic" : "con-（=with, together：共同）+ -struct（=build：建造）→建造；构建",
+      "phonetic" : "kənˈstrʌkt",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "construct"
+    },
+    {
+      "collocations" : [
+        "the construction of those types of equipment：制造那种设备",
+        "ships of steel construction：钢结构船",
+        "the construction of a new theory：新理论的创立\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "建造；（交通工具、机器等的）制造；创立；构造；建筑物",
+      "examples" : [
+        "Jim now works in construction. 吉姆现在从事建造业。"
+      ],
+      "frequency" : 1422,
+      "phonetic" : "kənˈstrʌkʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "construction"
+    },
+    {
+      "collocations" : [
+        "constructive criticism \/ suggestions \/ advice：建设性的批评 \/ 提议 \/ 忠告"
+      ],
+      "definition" : "建设性的；有助益的；积极的",
+      "examples" : [
+
+      ],
+      "frequency" : 7584,
+      "phonetic" : "kənˈstrʌktɪv",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "constructive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "建构主义者",
+      "examples" : [
+
+      ],
+      "frequency" : 17865,
+      "mnemonic" : "constructive（建造的；构造的）+ -ist（主义者）→建构主义者",
+      "phonetic" : "kənˈstrʌktɪvɪst",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "constructivist"
+    },
+    {
+      "collocations" : [
+        "reconstruct the shattered economy：重建垮掉的经济",
+        "reconstruct the state：改造这个国家"
+      ],
+      "definition" : "重建；修复；改造；使再现",
+      "examples" : [
+        "He began to reconstruct the events of December 21, 1988, when flight 103\ndisappeared.\n他开始重现1988年12月21日103航班失踪时所发生的事情。"
+      ],
+      "frequency" : 7454,
+      "mnemonic" : "re-（=back, again：再次）+ construct（建造；构建）→重建；改造；",
+      "phonetic" : "riːkənˈstrʌkt",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "reconstruct"
+    },
+    {
+      "collocations" : [
+        "the postwar reconstruction of Germany：战后德国重建",
+        "the reconstruction of the road：重修这条路"
+      ],
+      "definition" : "（战后国家的）重建；重修（建筑、道路等）；（犯罪过程的）再现",
+      "examples" : [
+
+      ],
+      "frequency" : 5276,
+      "phonetic" : "riːkənˈstrʌkʃn",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "reconstruction"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重建的；重新塑造的",
+      "examples" : [
+        "I needed reconstructive surgery to give me a new nose.\n我需要外科改造术来给我一个新鼻子。"
+      ],
+      "frequency" : 19247,
+      "phonetic" : "ˌrikənˈstrʌktɪv",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "reconstructive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摧毁；破坏（尤其火箭或导弹） n. 故意的毁坏",
+      "examples" : [
+
+      ],
+      "mnemonic" : "de-（表负面或相反）+ -struct（建造）→建造的反面→摧毁；破坏",
+      "phonetic" : "diˈstrʌkt",
+      "pos" : "v.",
+      "rootHint" : "struct",
+      "word" : "destruct"
+    },
+    {
+      "collocations" : [
+        "destroy the economy：摧毁经济",
+        "destroy all the evidence：销毁了一切证据\n笔 记 区"
+      ],
+      "definition" : "摧毁；毁掉；宰杀",
+      "examples" : [
+
+      ],
+      "frequency" : 1425,
+      "mnemonic" : "de-（=un-：表相反）+ -stroy（=to build：建造）→建造的反面→摧",
+      "phonetic" : "dɪˈstrɔɪ",
+      "pos" : "vt.",
+      "rootHint" : "stroy",
+      "word" : "destroy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "驱逐舰；破坏者；毁灭者",
+      "examples" : [
+        "Sugar is the destroyer of healthy teeth. 糖可以危害健全的牙齿。"
+      ],
+      "frequency" : 11786,
+      "phonetic" : "dɪˈstrɒɪə",
+      "pos" : "n.",
+      "rootHint" : "stroy",
+      "word" : "destroyer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "被毁的；遭破坏的",
+      "examples" : [
+
+      ],
+      "frequency" : 19403,
+      "phonetic" : "dɪˈstrɔi",
+      "pos" : "adj.",
+      "rootHint" : "stroy",
+      "word" : "destroyed"
+    },
+    {
+      "collocations" : [
+        "the destruction of the rainforests：对热带雨林的破坏",
+        "a tidal wave bringing death and destruction in its wake：\n海啸以及随之而来的死亡与破坏"
+      ],
+      "definition" : "摧毁；毁灭；破坏",
+      "examples" : [
+
+      ],
+      "frequency" : 2708,
+      "phonetic" : "dɪˈstrʌkʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "destruction"
+    },
+    {
+      "collocations" : [
+        "the destructive power：毁灭性力量",
+        "the destructive effects of anxiety：焦虑的破坏性影响"
+      ],
+      "definition" : "破坏（或毁灭）性的",
+      "examples" : [
+
+      ],
+      "frequency" : 5900,
+      "phonetic" : "dɪˈstrʌktɪv",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "destructive"
+    },
+    {
+      "collocations" : [
+        "construction of, take to pieces；解开、拆开建造的文本→解构；拆析",
+        "categories of film.\n她构建了一个缜密的智识框架来解构各种类型的电影。\n释义：（VERB） （哲学和文学评论中）解构，拆析（观点或文本） In",
+        "philosophy and literary criticism, to deconstruct an idea or text means to",
+        "show the contradictions in its meaning, and to show how it does not fully",
+        "explain what it claims to explain.\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "（哲学和文学评论中）解构，拆析（观点或文本）",
+      "examples" : [
+        "She sets up a rigorous intellectual framework to deconstruct various"
+      ],
+      "frequency" : 16461,
+      "mnemonic" : "de-（=undo：解开；拆散）+construct（建造；构建）→undo the",
+      "phonetic" : "ˈdikənˈstrʌkt",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "deconstruct"
+    },
+    {
+      "collocations" : [
+        "a deconstruction of the nature–culture opposition："
+      ],
+      "definition" : "（哲学和文学评论中）解构，拆析（观点或文本）",
+      "examples" : [
+
+      ],
+      "frequency" : 16921,
+      "phonetic" : "ˌdikənˈstrʌkʃən",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "deconstruction"
+    },
+    {
+      "collocations" : [
+        "infrastructural development：基础建设的发展"
+      ],
+      "definition" : "（国家、社会、组织赖以行使职能的）基础设施",
+      "examples" : [
+
+      ],
+      "frequency" : 3645,
+      "mnemonic" : "infra-（=below：在下面）+structure（结构）→在下面（底部）的结\n构→基础结构；基础设施",
+      "phonetic" : "ˈɪnfrəstrʌktʃə",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "infrastructure"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "指令，命令；教授，传授（技能等）",
+      "examples" : [
+        "A doctor will often instruct patients to exercise.\n医生将经常嘱咐病人要锻炼身体。"
+      ],
+      "frequency" : 4286,
+      "mnemonic" : "in-（内部，内心）+-struct（培养；构造）→在内心构造；培养→指",
+      "phonetic" : "ɪnˈstrʌkt",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "instruct"
+    },
+    {
+      "collocations" : [
+        "give instruction in safety：给予安全指导",
+        "gives instructions for making：给出了……的制作说明"
+      ],
+      "definition" : "指示；讲授，指导；用法说明",
+      "examples" : [
+
+      ],
+      "frequency" : 1572,
+      "phonetic" : "ɪnˈstrʌkʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "instruction"
+    },
+    {
+      "collocations" : [
+        "a driving instructor：驾驶教练",
+        "a fitness instructor：一位健身教练"
+      ],
+      "definition" : "教练；导师",
+      "examples" : [
+
+      ],
+      "frequency" : 3239,
+      "phonetic" : "ɪnˈstrʌktə",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "instructor"
+    },
+    {
+      "collocations" : [
+        "a most instructive experience：获益良多的经历",
+        "an entertaining and instructive documentary：\n一部既有趣又能增长知识的纪录片\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "富有教益的；增长知识的",
+      "examples" : [
+
+      ],
+      "frequency" : 11931,
+      "phonetic" : "ɪnˈstrʌktɪv",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "instructive"
+    },
+    {
+      "collocations" : [
+        "instructional materials：教材"
+      ],
+      "definition" : "教育的；指导的",
+      "examples" : [
+
+      ],
+      "frequency" : 4369,
+      "phonetic" : "ɪnˈstrʌkʃənəl",
+      "pos" : "adj.",
+      "rootHint" : "struct",
+      "word" : "instructional"
+    },
+    {
+      "collocations" : [
+        "musical \/ optical \/ medical instrument：乐器 \/ 光学仪器 \/ 医疗器械",
+        "the flight instruments：飞行仪表",
+        "an instrument of change：促成变革的措施",
+        "musical instruments"
+      ],
+      "definition" : "器械；仪器；乐器；促成某事的人（或事物）；手段",
+      "examples" : [
+
+      ],
+      "frequency" : 1621,
+      "mnemonic" : "in-（进入；使）+-stru-（建造）+-ment（名词后缀）→建造里要用的\n东西→器械；仪器；乐器",
+      "phonetic" : "ˈɪnstrʊm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "stru",
+      "word" : "instrument"
+    },
+    {
+      "collocations" : [
+        "instrumental music：器乐曲",
+        "a couple of brief instrumentals：几首简短的器乐曲",
+        "be instrumental in raising the company’s wider profile：\n在提升公司形象方面发挥了作用"
+      ],
+      "definition" : "起重要作用的；用器乐演奏的 n. 器乐曲",
+      "examples" : [
+
+      ],
+      "frequency" : 5730,
+      "phonetic" : "ɪnstrʊˈment(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "stru",
+      "word" : "instrumental"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "仪器，仪表",
+      "examples" : [
+        "Basic flight instrumentation was similar on both planes.\n两架飞机的基本飞行仪表是相似的。"
+      ],
+      "frequency" : 12468,
+      "phonetic" : "ˌɪnstrʊmenˈteɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "stru",
+      "word" : "instrumentation"
+    },
+    {
+      "collocations" : [
+        "obstruct the intersection：阻塞了那个十字路口",
+        "obstruct trucks loaded with logs：阻拦装有原木的卡车",
+        "obstruct a United Nations investigation：阻挠一次联合国调查",
+        "obstruct David’s line of sight：挡住戴维的视线"
+      ],
+      "definition" : "阻塞；阻拦；阻挠；阻挡",
+      "etymology" : "1610s, “to block or stop up with obstacles or impediments”.",
+      "examples" : [
+
+      ],
+      "frequency" : 10949,
+      "mnemonic" : "ob-（=in the way of：妨碍）+ -struct（=to build：建造）→妨碍建造\n→引申词义阻塞；阻拦；阻挠；阻挡",
+      "phonetic" : "əbˈstrʌkt",
+      "pos" : "vt.",
+      "rootHint" : "struct",
+      "word" : "obstruct"
+    },
+    {
+      "collocations" : [
+        "the obstruction of justice：妨碍司法公正",
+        "obstruction of the factory gates：对工厂大门的堵塞"
+      ],
+      "definition" : "阻挡；阻碍；堵塞（通道等）；障碍物",
+      "examples" : [
+        "It is my job to make sure that all pathways are clear of obstructions.\n保证所有的道路通畅是我的职责。"
+      ],
+      "frequency" : 9203,
+      "phonetic" : "əbˈstrʌkʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "struct",
+      "word" : "obstruction"
+    }
+  ]
+}

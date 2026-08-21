@@ -1,0 +1,2213 @@
+{
+  "chapter" : "四",
+  "chapterOrder" : 4,
+  "id" : "ver",
+  "meaningEn" : "to turn 转",
+  "roots" : [
+    "ver",
+    "vers",
+    "vert",
+    "vol",
+    "var"
+  ],
+  "semanticLabel" : "to turn 转",
+  "source" : "textbook-1",
+  "titleZh" : "to turn 转",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相反的，逆向的；颠倒的； v. 交谈",
+      "examples" : [
+
+      ],
+      "frequency" : 11755,
+      "mnemonic" : "con (加强语气) +vers (转，反转) +e→反转→相反的，逆向的",
+      "phonetic" : "kənˈvə:s",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "converse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相反地",
+      "examples" : [
+
+      ],
+      "frequency" : 8223,
+      "phonetic" : "ˈkɒnvɜ:slɪ; kənˈvɜ:slɪ",
+      "pos" : "adv.",
+      "rootHint" : "ver",
+      "word" : "conversely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "会话；交谈；社交",
+      "examples" : [
+
+      ],
+      "frequency" : 1168,
+      "phonetic" : "kɒnvəˈseɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "conversation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对话的；健谈的",
+      "examples" : [
+
+      ],
+      "frequency" : 13936,
+      "phonetic" : "kɒnvəˈseɪʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "conversational"
+    },
+    {
+      "collocations" : [
+        "lead to controversy (考)：导致争端\/争议"
+      ],
+      "definition" : "争端，争议",
+      "examples" : [
+
+      ],
+      "frequency" : 2898,
+      "mnemonic" : "contro (=contra：相反) +vers (转) +y→转向相反面→ (引发) 争端，争论",
+      "phonetic" : "ˈkɔntrəˌvə:si",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "controversy"
+    },
+    {
+      "collocations" : [
+        "become a highly controversial and sharply political issue since the",
+        "passage of the Endangered Species Act in 1973.\n在美国，自从濒危物种法案在1973年通过以来，保护动物和植物的需\n要就成了一个有高度争议的和尖锐的政治问题。",
+        "Whether college ranking is reliable or not is a highly controversial issue."
+      ],
+      "definition" : "有争议的",
+      "examples" : [
+        "In the United States, the need to protect plant and animal species has",
+        "大学排名可不可靠一直都是一个有高度争议的话题。"
+      ],
+      "frequency" : 3115,
+      "phonetic" : "ˌkɔntrəˈvə:ʃəl",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "controversial"
+    },
+    {
+      "collocations" : [
+        "divert attention (考)：转移注意力",
+        "Subway said that it worked hard to the impact of litter on",
+        "communities, but it was “still down to the individual customer to dispose",
+        "of their litter responsibly”."
+      ],
+      "definition" : "转移；转向",
+      "examples" : [
+
+      ],
+      "frequency" : 5750,
+      "mnemonic" : "dis (不同) +vert (转，转移) →转向不同 (方向) →转移，转向",
+      "phonetic" : "daiˈvə:t",
+      "pos" : "v.",
+      "rootHint" : "ver",
+      "word" : "divert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "转移；消遣；分散注意力",
+      "examples" : [
+
+      ],
+      "frequency" : 7651,
+      "phonetic" : "daɪˈvɜ:ʃ(ə)n; dɪ-",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "diversion"
+    },
+    {
+      "collocations" : [
+        "diverse coalition (考)：多样化联盟",
+        "diverse courses (考)：多样的课程",
+        "diverse market segments (考)：不同的细分市场"
+      ],
+      "definition" : "不同的；变化多的；多种多样的",
+      "examples" : [
+
+      ],
+      "frequency" : 2837,
+      "mnemonic" : "di (=dis：不同) +vers (转) →可以转向不同 (情况的) →变化多的，多",
+      "phonetic" : "daɪˈvɜ:s; ˈdaɪvɜ:s",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "diverse"
+    },
+    {
+      "collocations" : [
+        "diversify energy supply (考)：使能源供应多样化"
+      ],
+      "definition" : "使多样化，使变化；增加产品种类以扩大",
+      "examples" : [
+
+      ],
+      "frequency" : 8719,
+      "mnemonic" : "divers (多样的，不同的) +ify (动词后缀，一般可翻译成“使”) →使",
+      "phonetic" : "daɪˈvɜ:sɪˌfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "diversify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多样化的；各种的",
+      "examples" : [
+
+      ],
+      "frequency" : 15602,
+      "phonetic" : "daɪˈvɜ:sɪfaɪd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "diversified"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多样化；变化",
+      "examples" : [
+
+      ],
+      "frequency" : 13880,
+      "phonetic" : "daɪˌvɜ:sɪfɪˈkeɪʃən",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "diversification"
+    },
+    {
+      "collocations" : [
+        "diversity of religious belief (考)：宗教信仰的多样化",
+        "succeed, to create a class which also contains diversity of attitude and\napproach—arguably the only diversity that, in a business context, really",
+        "But schools rarely dig down to find out what really makes a student",
+        "succeed, to create a class which also contains diversity of attitude and\napproach—arguably the only thing that, in a business context, really"
+      ],
+      "definition" : "多样性；差异",
+      "examples" : [
+        "But schools rarely dig down to find out what really makes an applicant\nmatters.\n学校几乎从不去探究真正让一名申请者成功的原因，去创造一种包含\n多样性态度和方法的课堂——可以说，在商业背景下，这是唯一重要\n的多样化。",
+        "学校几乎从不去探究真正让一名学生成功的原因，去创造一种包\n含多样性态度和方法的课堂——可以说，在商业背景下，这是唯一重\n要的东西。\nmatters."
+      ],
+      "frequency" : 2553,
+      "phonetic" : "daɪˈvɜ:sɪtɪ; dɪ-",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "diversity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分歧；分叉；偏离；离题",
+      "examples" : [
+
+      ],
+      "frequency" : 14341,
+      "mnemonic" : "dis (=apart分开，不同方向) +verg (=-vert转) +e (后缀) →转向另一个方\n向去了→偏离，偏题；分叉",
+      "phonetic" : "daɪˈvɜ:dʒ; dɪ-",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "diverge"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分歧；离题；分叉",
+      "examples" : [
+
+      ],
+      "frequency" : 15140,
+      "phonetic" : "daɪˈvɜ:dʒ(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "divergence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相异的，分歧的；散开的",
+      "examples" : [
+
+      ],
+      "frequency" : 11455,
+      "phonetic" : "daɪˈvɜ:dʒ(ə)nt; dɪ-",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "divergent"
+    },
+    {
+      "collocations" : [
+        "printed versions (考)：印刷版本",
+        "understood something about green cards, because I had one (the American",
+        "American搭配使用正合题意。选项A．heritage意为“遗产，传统”，\n选项B．revision意思是“修改，修订版，复习”，选项C．notion意\n为“概念，看法，意图”，此三项与题意不符。"
+      ],
+      "definition" : "译本，版本",
+      "examples" : [
+
+      ],
+      "frequency" : 1133,
+      "mnemonic" : "ver (转) +ion (名词后缀) → (用另外一种语言) 转译出来的东西→版",
+      "phonetic" : "ˈvə:ʃən",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "version"
+    },
+    {
+      "collocations" : [
+        "translate A into B (考)：把A 转变成\/翻译成 B",
+        "Whether a good name will translate\/ turn\/ transform\/ change\/convert",
+        "into the success in life is still unknown.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "翻译，转变为",
+      "examples" : [
+        "Whether all that attention has translated into sufficient action is another\nquestion.\n是否这些关注已经转变成了足够的行动又是另外一个问题。",
+        "是否一个好的名字能转变成人生的成功是一个未知问题。"
+      ],
+      "frequency" : 2753,
+      "phonetic" : "ˈtrænsˈleit",
+      "pos" : "v.",
+      "rootHint" : "ver",
+      "word" : "translate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "翻译；译文；转化；调任",
+      "examples" : [
+
+      ],
+      "frequency" : 4335,
+      "phonetic" : "trænsˈleɪʃ(ə)n; trɑ:ns-; -nz-",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "translation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "译者；翻译器",
+      "examples" : [
+
+      ],
+      "frequency" : 6888,
+      "phonetic" : "trænsˈleɪtə; trɑ:ns-; -nz-",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "translator"
+    },
+    {
+      "collocations" : [
+        "astronomical universe (考)：天文学领域"
+      ],
+      "definition" : "宇宙；世界；领域",
+      "examples" : [
+
+      ],
+      "frequency" : 2138,
+      "mnemonic" : "uni (=one：一) +vers (转) +e→一个不停在转的东西→宇宙",
+      "phonetic" : "ˈju:nɪvɜ:s",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "universe"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "通用的；宇宙的；普遍的；全世界的",
+      "examples" : [
+
+      ],
+      "frequency" : 2665,
+      "phonetic" : "ju:nɪˈvɜ:s(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "universal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "普遍性；一般性；广泛性；多方面性",
+      "examples" : [
+
+      ],
+      "frequency" : 17038,
+      "phonetic" : "ˌju:nɪvɜ:ˈsælətɪ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "universality"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "普遍地；到处；人人",
+      "examples" : [
+
+      ],
+      "frequency" : 9140,
+      "phonetic" : "ju:nɪˈvɜ:səlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ver",
+      "word" : "universally"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大学；综合性大学；大学校舍",
+      "examples" : [
+
+      ],
+      "frequency" : 1229,
+      "phonetic" : "ju:nɪˈvɜ:sɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "university"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "变化；违反；[生]变异",
+      "examples" : [
+
+      ],
+      "frequency" : 2391,
+      "mnemonic" : "var (=ver：转，转变) +y →转变，改变；不同",
+      "phonetic" : "ˈveərɪ",
+      "pos" : "vi.",
+      "rootHint" : "var",
+      "word" : "vary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "变化的；不同的",
+      "examples" : [
+
+      ],
+      "frequency" : 5952,
+      "phonetic" : "ˈvɛəriŋ",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "varying"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "易变的，多变的；可变的；[生]变异的，畸变的",
+      "examples" : [
+
+      ],
+      "frequency" : 1876,
+      "phonetic" : "ˈveərɪəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "variable"
+    },
+    {
+      "collocations" : [
+        "the person is rated.\n几乎不变地是，照片里的人越好看，他的评价也就越高。"
+      ],
+      "definition" : "不变地；总是；一定地",
+      "examples" : [
+        "Almost invariably, the better looking the person in the picture, the higher"
+      ],
+      "frequency" : 7219,
+      "phonetic" : "ɪnˈveərɪəblɪ",
+      "pos" : "adv.",
+      "rootHint" : "var",
+      "word" : "invariably"
+    },
+    {
+      "collocations" : [
+        "genetic variation (考)：基因变异"
+      ],
+      "definition" : "变异，变种；变化",
+      "examples" : [
+
+      ],
+      "frequency" : 2950,
+      "phonetic" : "veərɪˈeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "var",
+      "word" : "variation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "各种各样的；多方面的",
+      "examples" : [
+
+      ],
+      "frequency" : 862,
+      "phonetic" : "ˈveərɪəs",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "various"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不同地；多方面地；个别地；多彩地",
+      "examples" : [
+
+      ],
+      "frequency" : 13479,
+      "phonetic" : "ˈvɛrɪəsli",
+      "pos" : "adv.",
+      "rootHint" : "var",
+      "word" : "variously"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可变性，变化性；变异性",
+      "examples" : [
+
+      ],
+      "frequency" : 8581,
+      "phonetic" : "ˌveərɪəˈbɪlətɪ",
+      "pos" : "n.",
+      "rootHint" : "var",
+      "word" : "variability"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "变异；变化；不一致；分歧；[数]方差",
+      "examples" : [
+
+      ],
+      "frequency" : 5092,
+      "phonetic" : "ˈveərɪəns",
+      "pos" : "n.",
+      "rootHint" : "var",
+      "word" : "variance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不同的；多样的 n. 变体；变种",
+      "examples" : [
+
+      ],
+      "frequency" : 9062,
+      "phonetic" : "ˈveərɪənt",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "variant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多变的；杂色的；各式各样的；形形色色的",
+      "examples" : [
+
+      ],
+      "frequency" : 6481,
+      "phonetic" : "ˈveərɪd",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "varied"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "种类；多样；杂耍",
+      "examples" : [
+
+      ],
+      "frequency" : 1175,
+      "phonetic" : "vəˈraɪətɪ",
+      "pos" : "n.",
+      "rootHint" : "var",
+      "word" : "variety"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "斑驳的；杂色的；富于变化的",
+      "examples" : [
+
+      ],
+      "frequency" : 19773,
+      "mnemonic" : "vari (改变) +eg (=ag：做) +ated (形容词后缀) →做出外形上 (尤其指颜\n色上) 的改变→色彩斑驳的；形形色色的；富于变化的",
+      "phonetic" : "ˈveərɪgeɪtɪd; ˈveərɪə-",
+      "pos" : "adj.",
+      "rootHint" : "var",
+      "word" : "variegated"
+    },
+    {
+      "collocations" : [
+        "convert A into B (考)：把A转变成B"
+      ],
+      "definition" : "使转变；转换；使……改变信仰",
+      "examples" : [
+        "They fail to convert knowledge into money.\n他们没能把知识转变成钱。"
+      ],
+      "frequency" : 2918,
+      "mnemonic" : "con (加强语气) +vert (转) →转变，转化",
+      "phonetic" : "kənˈvɜ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "convert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "转换；变换；改变信仰；兑换",
+      "examples" : [
+
+      ],
+      "frequency" : 4717,
+      "phonetic" : "kənˈvɜ:ʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "conversion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "修改的；改变信仰的",
+      "examples" : [
+
+      ],
+      "frequency" : 14662,
+      "phonetic" : "kənˈvɜ:tɪd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "converted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "变流器，整流器；转化器",
+      "examples" : [
+
+      ],
+      "frequency" : 15893,
+      "phonetic" : "kənˈvɜ:tə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "converter"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可改变的；同意义的；可交换的 n. 敞篷车",
+      "examples" : [
+
+      ],
+      "frequency" : 10610,
+      "phonetic" : "kənˈvɜ:tɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "convertible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "集中于一点；聚合",
+      "examples" : [
+
+      ],
+      "frequency" : 8337,
+      "mnemonic" : "con (共同，一起) +verg (转) +e (后缀) →转到一起→汇聚，聚合",
+      "phonetic" : "kənˈvɜ:dʒ",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "converge"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "会聚，集合",
+      "examples" : [
+
+      ],
+      "frequency" : 10253,
+      "phonetic" : "kənˈvɜ:dʒəns",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "convergence"
+    },
+    {
+      "collocations" : [
+        "divorce rate (考)：离婚率"
+      ],
+      "definition" : "使离婚，使分离；与……离婚",
+      "examples" : [
+
+      ],
+      "frequency" : 3003,
+      "mnemonic" : "di (两个) +vorc (=vers：转) +e (后缀) →转向两个方向→离婚 (即“夫",
+      "phonetic" : "dɪˈvɔ:s",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "divorce"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "离婚的",
+      "examples" : [
+
+      ],
+      "frequency" : 8244,
+      "phonetic" : "dɪˈvɔrst",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "divorced"
+    },
+    {
+      "collocations" : [
+        "bothering to ask.\n谷歌已经颠覆了这个做法——没问一句就复制了所有这些作品。",
+        "The emergence\/appearance of E-books has reversed traditional\/",
+        "conventional way of reading."
+      ],
+      "definition" : "背面；相反；倒退；失败 vt. 颠倒；倒转 adj. 反面的；颠倒的",
+      "examples" : [
+        "Google has reversed this – it has simply copied all these works without",
+        "电子书的出现已经颠覆了人们传统的阅读方式。"
+      ],
+      "frequency" : 3529,
+      "mnemonic" : "re (相反) +verse (转) →反转，颠倒 (v.) 相反 (n.)",
+      "phonetic" : "rɪˈvɜ:s",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "reverse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反转；逆转；（角色）交换；失败",
+      "examples" : [
+
+      ],
+      "frequency" : 7347,
+      "phonetic" : "rɪˈvɜ:s(ə)l",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "reversal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可逆的；可撤消的；可反转的",
+      "examples" : [
+
+      ],
+      "frequency" : 17922,
+      "phonetic" : "rɪˈvɜ:sɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "reversible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恢复（到以前的状态）；重提；返祖遗传；归还",
+      "examples" : [
+
+      ],
+      "frequency" : 10316,
+      "mnemonic" : "re (返回) +vert (转) →转回到以前 (的状态) →恢复；回复；重提",
+      "phonetic" : "rɪˈvɜ:t",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "revert"
+    },
+    {
+      "collocations" : [
+        "adverse reactions (考)：不利的回应",
+        "adverse effect (考)：不利的影响"
+      ],
+      "definition" : "不利的；相反的；敌对的",
+      "examples" : [
+
+      ],
+      "frequency" : 6396,
+      "mnemonic" : "ad (=to：去) +vers (转，反转) +e→反转 (立场等) →相反的，敌对的，",
+      "phonetic" : "ˈædvɜ:s",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "adverse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "逆地；反对地；不利地",
+      "examples" : [
+
+      ],
+      "frequency" : 12961,
+      "phonetic" : "ədˈvɜ:slɪ",
+      "pos" : "adv.",
+      "rootHint" : "ver",
+      "word" : "adversely"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对立的；敌对的",
+      "examples" : [
+
+      ],
+      "frequency" : 15682,
+      "phonetic" : "ˌædvəˈseərɪəl",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "adversarial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对手；敌手",
+      "examples" : [
+
+      ],
+      "frequency" : 7378,
+      "phonetic" : "ˈædvəs(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "adversary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "逆境；不幸；灾祸；灾难",
+      "examples" : [
+
+      ],
+      "frequency" : 11635,
+      "phonetic" : "ədˈvɜ:sɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "adversity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对；与……相对；对抗",
+      "examples" : [
+
+      ],
+      "frequency" : 3187,
+      "mnemonic" : "vers (反转) +us (后缀) →反转立场，调转矛头→对抗，相对",
+      "phonetic" : "ˈvɜ:səs",
+      "pos" : "prep.",
+      "rootHint" : "ver",
+      "word" : "versus"
+    },
+    {
+      "collocations" : [
+        "Late Old English (replacing Old English fers, an early West Germanic",
+        "borrowing directly from Latin), “line or section of a psalm or canticle,”",
+        "line of writing,” from PIE root *wer- (2) “to turn, bend.” The metaphor is",
+        "of plowing, of “turning” from one line to another (vertere = “to turn”) as a",
+        "plowman does."
+      ],
+      "definition" : "诗，诗篇；韵文；诗节",
+      "etymology" : "later “line of poetry”(late 14c.), from Anglo-French and Old French vers “line of verse; rhyme, song,” from Latin versus “a line, row, line of verse,",
+      "examples" : [
+
+      ],
+      "frequency" : 5516,
+      "phonetic" : "vɜ:s",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "verse"
+    },
+    {
+      "collocations" : [
+        "from prosa, fem. of prosus, earlier prorsus “straightforward, direct,” from",
+        "Old Latin provorsus “(moving) straight ahead,” from pro “forward”(from\nPIE root *per- (1) “forward”)+vorsus “turned,” past participle of vertere “to"
+      ],
+      "definition" : "散文；白话文；单调",
+      "etymology" : "c. 1300, “story, narration,” from Old French prose (13c.), from Latin prosa oratio “straightforward or direct speech”(without the ornaments of verse), turn”(from PIE root *wer- (2) “to turn, bend”).",
+      "examples" : [
+
+      ],
+      "frequency" : 7588,
+      "phonetic" : "prəʊz",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "prose"
+    },
+    {
+      "collocations" : [
+        "a very versatile person (考)：一个多才多艺的人"
+      ],
+      "definition" : "多才多艺的；通用的，万能的；多面手的",
+      "examples" : [
+
+      ],
+      "frequency" : 8910,
+      "mnemonic" : "vers (转) +atile (=ate+ile：复合形容词后缀，ile表“可以，容易”) →\n可以转向多个领域的→多才多艺的",
+      "phonetic" : "ˈvɜ:sətaɪl",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "versatile"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多才多艺；用途广泛；多功能性",
+      "examples" : [
+
+      ],
+      "frequency" : 12703,
+      "phonetic" : "ˌvɜ:səˈtɪləti:",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "versatility"
+    },
+    {
+      "collocations" : [
+        "A new trend of getting certificate blindly has swept the society with",
+        "unsurpassed might, and many people get themselves involved in it.",
+        "One student took the lead in dealing with a difficult landlord and so _____",
+        "negotiation skills."
+      ],
+      "definition" : "包含；牵涉；使陷于；潜心于",
+      "examples" : [
+        "一个盲目考证的趋势以一种前所未有的力量席卷了整个社会，很\n多人都包含到了其中。\nA．demonstrated B．determined C．operated D．involved"
+      ],
+      "frequency" : 657,
+      "mnemonic" : "in (向内) +volv (=vol=ver=roll：转，卷；) +e→转\/卷向内→卷入，包含",
+      "phonetic" : "ɪnˈvɒlv",
+      "pos" : "vt.",
+      "rootHint" : "vol",
+      "word" : "involve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "卷入的；有关的；复杂的",
+      "examples" : [
+
+      ],
+      "frequency" : 1178,
+      "phonetic" : "ɪnˈvɒlvd",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "involved"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "牵连；混乱；包含；财政困难",
+      "examples" : [
+
+      ],
+      "frequency" : 2331,
+      "phonetic" : "ɪnˈvɒlvm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "vol",
+      "word" : "involvement"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "旋转；循环出现；反复考虑",
+      "examples" : [
+        "Copernicus established that the Earth revolves around the sun.\n哥白尼证实地球围绕太阳旋转。"
+      ],
+      "frequency" : 7521,
+      "mnemonic" : "re (反复) +volv (=ver=roll：转) +e→旋转，转动",
+      "phonetic" : "rɪˈvɒlv",
+      "pos" : "vi.",
+      "rootHint" : "vol",
+      "word" : "revolve"
+    },
+    {
+      "collocations" : [
+        "industrial revolution (考)：工业革命"
+      ],
+      "definition" : "革命；旋转；运行；循环",
+      "examples" : [
+
+      ],
+      "frequency" : 2781,
+      "mnemonic" : "revolu (=revolve：旋转，反转) +t (无意义) +ion (名词后缀) →旋转，",
+      "phonetic" : "revəˈlu:ʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "vol",
+      "word" : "revolution"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "革命的；旋转的；大变革的",
+      "examples" : [
+
+      ],
+      "frequency" : 4054,
+      "phonetic" : "revəˈlu:ʃ(ə)n(ə)rɪ",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "revolutionary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使发生巨大变革；给……带来革命性剧变",
+      "examples" : [
+
+      ],
+      "frequency" : 11331,
+      "phonetic" : "ˈrɛvəˈlʊʃəˈnaɪz",
+      "pos" : "v.",
+      "rootHint" : "vol",
+      "word" : "revolutionize"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "左轮手枪；旋转器",
+      "examples" : [
+
+      ],
+      "frequency" : 11305,
+      "phonetic" : "rɪˈvɒlvə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "revolver"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "旋转的",
+      "examples" : [
+
+      ],
+      "frequency" : 12868,
+      "phonetic" : "rɪˈvɒlvɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "revolving"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反抗；反叛；拒绝服从",
+      "examples" : [
+
+      ],
+      "frequency" : 9161,
+      "phonetic" : "rɪˈvəʊlt",
+      "pos" : "vi.",
+      "rootHint" : "vol",
+      "word" : "revolt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "发展，进化；进化；使逐步形成；推断出",
+      "examples" : [
+
+      ],
+      "frequency" : 2845,
+      "mnemonic" : "e (=ex向外，出来) +volve (转) → (新物种) 转出来→进化，发展",
+      "phonetic" : "ɪˈvɒlv",
+      "pos" : "vt.",
+      "rootHint" : "vol",
+      "word" : "evolve"
+    },
+    {
+      "collocations" : [
+        "evolution of the human species (考)：人类的进化"
+      ],
+      "definition" : "进展；演变；进化论",
+      "examples" : [
+
+      ],
+      "frequency" : 2969,
+      "phonetic" : "ˌi:vəˈlu:ʃ(ə)n; ˈev-",
+      "pos" : "n.",
+      "rootHint" : "vol",
+      "word" : "evolution"
+    },
+    {
+      "collocations" : [
+        "capuchins and humans, or whether it stems from the common ancestor that",
+        "the species had 35 million years ago, is, as yet, an unanswered question.\n然而，是否这样的一种公平感是在卷尾猴和人类中独立进化的，或者\n是否它来源于这些物种在3500万年前共有的祖先，仍然还是一个未知\n问题。\n阅读难点：sense of fairness：公平感\nstem from：源于",
+        "However, whether such a behavior roots in making adequate preparation",
+        "for the future or it just stems from drifting with the stream, is, as yet, an",
+        "unanswered question."
+      ],
+      "definition" : "进化的；发展的；渐进的",
+      "examples" : [
+        "However, whether such a sense of fairness evolved independently in",
+        "然而，这样的一种行为是源于对未来的充分准备还是只是盲目的\n随大溜，仍然还是一个未知问题。"
+      ],
+      "frequency" : 5471,
+      "phonetic" : "ˌi:vəˈlu:ʃənərɪ",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "evolutionary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "进化了的",
+      "examples" : [
+
+      ],
+      "frequency" : 19437,
+      "phonetic" : "ɪˈvɒlvd",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "evolved"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "展开的；进化的",
+      "examples" : [
+
+      ],
+      "frequency" : 13711,
+      "phonetic" : "ɪˈvɒlvɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "evolving"
+    },
+    {
+      "collocations" : [
+        "shift work (考)：轮班，倒班",
+        "shift the gaze away (考)：转移视线，转移注意力",
+        "industry has shifted—have become more energy-intensive, and so could",
+        "be more seriously squeezed.\n另一方面，重工业转移到的石油进口新兴国家已经变得越来越能源集\n中，因此可能被严重挤压。\n20000 词 汇巅峰\n速\n记\n笔 记 区",
+        "When it comes to drunk driving, people will naturally shift the blame",
+        "to the the person concerned, and relatively few may ever think of the",
+        "inadequate supervision of the government."
+      ],
+      "definition" : "轮班 vt. 移动；变化",
+      "examples" : [
+        "On the other hand, oil importing emerging economies—to which heavy",
+        "每当提到酒后驾车，人们总会很自然地把责任转移到那些相关的\n个人身上，很少有人会想到其实政府也有监管不力的责任。"
+      ],
+      "frequency" : 1690,
+      "phonetic" : "ʃɪft",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "shift"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "移动装置；搬移东西者",
+      "examples" : [
+
+      ],
+      "frequency" : 18274,
+      "phonetic" : "ˈʃɪftɚ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "shifter"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不断移动的；流动的 n. 狡猾；移位",
+      "examples" : [
+
+      ],
+      "frequency" : 7507,
+      "phonetic" : "ˈʃɪftɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "shifting"
+    },
+    {
+      "collocations" : [
+        "switch to (考)：转向，转变成",
+        "switch their phones off (考)：关闭他们的手机",
+        "shippers who have the option of switching to trucks or other forms of",
+        "transportation would do so, leaving remaining customers to shoulder the",
+        "cost of keeping up the line.\n他们认为，如果铁路向所有的顾客要价相同，那么有选择转向卡车或\n者其他交通运输的托运人就会这么做，留给剩余的顾客去肩负维持铁\n路运营的成本。\n阅读难点：charge：索要\nrate：价格，费用",
+        "keep up the line：保持，维持运营线路",
+        "If authentic products charge customers too much, I argue, consumers who",
+        "have the option of switching to pirated products will do so, leaving those",
+        "well-off customers to shoulder the cost of purchasing authentic ones.\n20000 词 汇巅峰\n速\n记",
+        "The Pentagon built the network for military contractors and universities",
+        "doing military research to ____ information."
+      ],
+      "definition" : "转换；用鞭子等抽打 vi. 转换；抽打 n. 开关；转换",
+      "examples" : [
+        "If railroads charged all customers the same average rate, they argue,",
+        "我认为，如果正版产品向顾客要价太高，那么有选择权的顾客就\n会转而购买盗版产品，留给那些经济宽裕的人去负担购买正版产品的\n花销。\nA．exchange B．bypass C．switch D．interact"
+      ],
+      "frequency" : 2626,
+      "mnemonic" : "swi (=swing摇摆；转；改变) +tch (无意义) →转换，转变；开关 (即",
+      "phonetic" : "swɪtʃ",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "switch"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扭曲；曲解；使失真",
+      "examples" : [
+
+      ],
+      "frequency" : 6724,
+      "mnemonic" : "dis (=de：表彻底) +tort (=twist：扭曲，弯曲) →歪曲，曲解",
+      "phonetic" : "dɪˈstɔ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "distort"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "变形；扭曲；曲解；失真",
+      "examples" : [
+        "We must express our views clearly to prevent media distortion and public\nconfusion.\n我们必须清楚地表达我们的观点，以防媒体扭曲，公众混淆。"
+      ],
+      "frequency" : 7640,
+      "phonetic" : "dɪˈstɔ:ʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "distortion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "歪曲的；受到曲解的",
+      "examples" : [
+
+      ],
+      "frequency" : 11064,
+      "phonetic" : "dɪˈstɔ:tɪd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "distorted"
+    },
+    {
+      "collocations" : [
+        "with one twist (考)：用一个新奇的手法 (方式)",
+        "twists and turns (考)：迂回曲折",
+        "twisted ankle (考)：扭伤的脚踝",
+        "supporters, ages 19 to 34, will blog about life across mainstream America,",
+        "with one twist: by tying all of their ideas and experiences to the new",
+        "president and his administration.\n接下来的三个月，Michelle Kremer和其他11位奥巴马的支持者——他\n们的年龄介于19到34岁之间——将会用一种新的方式用博客记录美国\n主流社会的生活：将他们的所有观点和经历与这位新总统及其政权相\n结合。\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "捻；拧；扭伤；扭曲；使苦恼 n. 新奇的手法；转折；拐点",
+      "examples" : [
+        "1. For the next three months, Michelle Kremer and 11 other Obama\n2. That could turn out to be the cruelest of all the twists to the Obama\neffect.\n那可能会是对于奥巴马效应所有转折点中最残忍的一个。"
+      ],
+      "frequency" : 3795,
+      "mnemonic" : "twis (=two：两个) +→把两个转到一起→拧，扭，扭曲；折磨 (即：",
+      "phonetic" : "twɪst",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "twist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扭曲的",
+      "examples" : [
+
+      ],
+      "frequency" : 8173,
+      "phonetic" : "ˈtwɪstɪd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "twisted"
+    },
+    {
+      "collocations" : [
+        "tumble over (考)：翻转，打筋斗"
+      ],
+      "definition" : "倒塌；滚动；摔倒；打滚；仓惶地行动",
+      "examples" : [
+
+      ],
+      "frequency" : 5548,
+      "mnemonic" : "tum (=turn：翻转，滚翻) +ble (后缀) →摔倒，跌倒，滚翻 (“摔倒，",
+      "phonetic" : "ˈtʌmb(ə)l",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "tumble"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "杂技演员；翻筋斗者；一杯的容量；不倒翁（玩具）",
+      "examples" : [
+
+      ],
+      "frequency" : 17939,
+      "phonetic" : "ˈtʌmblə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "tumbler"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "翻筋斗；摔跤",
+      "examples" : [
+
+      ],
+      "frequency" : 18831,
+      "phonetic" : "ˈtʌmblɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "tumbling"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "周年纪念日",
+      "examples" : [
+
+      ],
+      "frequency" : 3403,
+      "mnemonic" : "anni (=year：年) +vers (转) +ary (名词后缀) →每年转到那一天→周年",
+      "phonetic" : "ænɪˈvɜ:s(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "anniversary"
+    },
+    {
+      "collocations" : [
+        "Old High German wurt “fate,” Old Norse urðr “fate, one of the three",
+        "werden, Old English weorðan “to become”), from root *wer- (2) “to turn,",
+        "phrase turn into “become.”\nThe sense “uncanny, supernatural” developed from Middle English use",
+        "of weird sisters for the three fates or Norns (in Germanic mythology), the",
+        "goddesses who controlled human destiny. They were portrayed as odd",
+        "or frightening in appearance, as in “Macbeth”(and especially in 18th and",
+        "looking, uncanny”(1815); “odd, strange, disturbingly different”(1820).",
+        "Related: Weirdly; weirdness."
+      ],
+      "definition" : "怪异的；不可思议的；超自然的",
+      "etymology" : "笔 记 区 c. 1400, having power to control fate, from wierd (n.), from Old English wyrd “fate, chance, fortune; destiny; the Fates,” literally “that which comes,” from Proto-Germanic *wurthiz (source also of Old Saxon wurd, Norns”), from PIE *wert- “to turn, to wind,”(source also of German bend.” For sense development from “turning” to “becoming,” compare 19th century productions of it), which led to the adjectival meaning “odd-",
+      "examples" : [
+
+      ],
+      "frequency" : 3731,
+      "phonetic" : "wɪəd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "weird"
+    },
+    {
+      "collocations" : [
+        "Old English wurm, variant of wyrm “serpent, snake, dragon, reptile,” also",
+        "in later Old English “earthworm,” from Proto-Germanic *wurmiz (source",
+        "also of Old Saxon, Old High German, German wurm, Old Frisian and",
+        "Dutch worm, Old Norse ormr, Gothic waurms “serpent, worm”), from PIE",
+        "Russian vermie “insects,” Lithuanian varmas “insect, gnat”), from PIE"
+      ],
+      "definition" : "虫，蠕虫；蜗杆；螺纹；小人物",
+      "etymology" : "*wrmi- “worm”(source also of Greek rhomos, Latin vermis “worm,” Old *wrmi- “worm,” from root *wer- (2) “to turn, bend.”",
+      "examples" : [
+
+      ],
+      "frequency" : 5051,
+      "phonetic" : "wɜ:m",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "worm"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "包；隐藏；缠绕；掩护",
+      "examples" : [
+
+      ],
+      "frequency" : 2107,
+      "phonetic" : "ræp",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "wrap"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "包装材料；包装纸；书皮",
+      "examples" : [
+
+      ],
+      "frequency" : 10981,
+      "phonetic" : "ˈræpə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrapper"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "包装纸，包装材料",
+      "examples" : [
+
+      ],
+      "frequency" : 14458,
+      "phonetic" : "ˈræpɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrapping"
+    },
+    {
+      "collocations" : [
+        "Old English wriða “fillet, bandage, band”(literally “that which is wound",
+        "Danish vride, Old High German ridan “to turn, twist,” Old Saxon, Old",
+        "Frisian wreth “angry,” Dutch wreed “rough, harsh, cruel,” Old High",
+        "German reid “twisted,” Old Norse reiða “angry”), from PIE *wreit- “to\nturn, bend”(source also of Old English wriða “band,” wriðan “to twist,\ntorture,” wraþ “angry”), from root *wer- (2) “to turn, bend.” Meaning “ring",
+        "or garland of flowers or vines” is first recorded 1560s."
+      ],
+      "definition" : "花冠；圈状物",
+      "etymology" : "around”), from Proto-Germanic *writh- (source also of Old Norse riða,",
+      "examples" : [
+
+      ],
+      "frequency" : 10068,
+      "phonetic" : "ri:θ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wreath"
+    },
+    {
+      "collocations" : [
+        "Old French volume “scroll, book; work, volume; girth, size”(13c.) and",
+        "directly from Latin volumen (genitive voluminis) “roll (of a manuscript);",
+        "coil, wreath,” literally “that which is rolled,” from volvere “to turn around,",
+        "part of a set” is 1520s in English, from that sense in French. Generalized\nsense of “bulk, mass, quantity”(1620s) developed from that of “bulk or",
+        "size of a book”(1520s), again following the sense evolution in the French"
+      ],
+      "definition" : "体积；卷；册；音量；大量；量",
+      "etymology" : "Late 14c., “roll of parchment containing writing; a bound book,” from roll,” from PIE root *wel- (3) “to turn, revolve.” Meaning “book forming word.",
+      "examples" : [
+
+      ],
+      "frequency" : 1931,
+      "phonetic" : "ˈvɒlju:m",
+      "pos" : "n.",
+      "rootHint" : "vol",
+      "word" : "volume"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多卷的，长篇的；大量的；著书多的",
+      "examples" : [
+
+      ],
+      "frequency" : 16136,
+      "phonetic" : "vəˈlju:mɪnəs",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "voluminous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "倒转；相反的事情 adj. 相反的；成反比的",
+      "examples" : [
+
+      ],
+      "frequency" : 17286,
+      "phonetic" : "ˈɪnvɜ:s; ɪnˈvɜ:s",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "inverse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "倒置；倒转；反向",
+      "examples" : [
+
+      ],
+      "frequency" : 14971,
+      "phonetic" : "ɪnˈvɜ:ʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "inversion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使……反向；使……颠倒；使……反转；使……前后倒置",
+      "examples" : [
+
+      ],
+      "frequency" : 16606,
+      "mnemonic" : "in (=en：使动词) +vert (转，反转) →使反转，使颠倒",
+      "phonetic" : "ɪnˈvɜ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "invert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "倒转的，反向的",
+      "examples" : [
+
+      ],
+      "frequency" : 14127,
+      "phonetic" : "ɪnˈvɜ:tɪd",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "inverted"
+    },
+    {
+      "collocations" : [
+        "of the body, joint of the spine”(plural vertebræ), perhaps from vertere “to",
+        "The notion would be the spine as the “hinge” of the body."
+      ],
+      "definition" : "脊椎；椎骨；脊柱",
+      "etymology" : "“bone of the spine,” early 15c., from Latin vertebra “joint or articulation turn”(from PIE root *wer- (2) “to turn, bend”)+instrumental suffix -bra.",
+      "examples" : [
+
+      ],
+      "frequency" : 14764,
+      "phonetic" : "ˈvɜ:tɪbrə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "vertebra"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "有脊椎的；脊椎动物的",
+      "examples" : [
+
+      ],
+      "frequency" : 18919,
+      "phonetic" : "ˈvɜ:tɪˌbreɪt",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "vertebrate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无脊椎的；无骨气的",
+      "examples" : [
+
+      ],
+      "frequency" : 18918,
+      "phonetic" : "ɪnˈvɜ:tɪbrət",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "invertebrate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "避免，防止；转移（目光）",
+      "examples" : [
+
+      ],
+      "frequency" : 7692,
+      "mnemonic" : "a (=away：远离) +vert (转) →转了远离 (某事) →避免，防止；转移\n(目光)",
+      "phonetic" : "əˈvɜ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "avert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "厌恶；讨厌的人",
+      "examples" : [
+
+      ],
+      "frequency" : 13100,
+      "mnemonic" : "a (=away：远离) +vert (转) →转了远离 (某人) →厌恶；讨厌；反感",
+      "phonetic" : "əˈvɜ:ʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "aversion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扭曲；歪曲；歪斜地；出差错地",
+      "examples" : [
+
+      ],
+      "frequency" : 15205,
+      "mnemonic" : "a (=on：上；处于……中) +wry (=-ver：转；扭) →扭曲地；歪曲地；",
+      "phonetic" : "əˈraɪ",
+      "pos" : "adv.",
+      "rootHint" : "ver",
+      "word" : "awry"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扭歪的；歪曲的；（话语或文章）挖苦的；讽刺的；揶揄的",
+      "examples" : [
+
+      ],
+      "frequency" : 12656,
+      "phonetic" : "raɪ",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "wry"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使(眼皮，肠或身体其它部位等)外翻",
+      "examples" : [
+
+      ],
+      "frequency" : 241,
+      "phonetic" : "ɪˈvɜ:t",
+      "pos" : "v.",
+      "rootHint" : "ver",
+      "word" : "evert"
+    },
+    {
+      "collocations" : [
+        "from German Extravert, from extra “outside”(see extra-)+Latin vertere",
+        "in English by doctors and scientists in various literal senses since 1600s,",
+        "but popularized in a psychological sense early 20c. by Carl Jung. Related:\nExtroverted."
+      ],
+      "definition" : "外向的；活泼友好的",
+      "etymology" : "1916, extravert (spelled with -o- after 1918, by influence of introvert), “to turn”(from PIE root *wer- (2) “to turn, bend”). Used (with introvert)",
+      "examples" : [
+
+      ],
+      "frequency" : 130,
+      "phonetic" : "ˈekstrəvɜ:t",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "extrovert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "性格内向的人；不爱交际的人",
+      "examples" : [
+
+      ],
+      "frequency" : 195,
+      "phonetic" : "ˈɪntrəvɜ:t",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "introvert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（政府机关等的）腐败行为；渎职；贪污；盗用",
+      "examples" : [
+
+      ],
+      "frequency" : 3,
+      "mnemonic" : "mal (=ill=wrong：坏的，不对的) +vers (=turn：转变) → (政府机关) 变\n坏了→腐败行为；贪污；渎职；",
+      "phonetic" : "ˌmælvɜ:ˈseɪʃən",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "malversation"
+    },
+    {
+      "collocations" : [
+        "pervert the course of justice：妨碍司法公正"
+      ],
+      "definition" : "破坏；颠覆；使走样；误导",
+      "examples" : [
+
+      ],
+      "frequency" : 478,
+      "mnemonic" : "per (彻底) +vert (反转) → (彻底) 反转；颠覆；破坏；妨碍",
+      "phonetic" : "pəˈvɜ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "pervert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使回响；使反射；使弹回",
+      "examples" : [
+
+      ],
+      "frequency" : 12949,
+      "mnemonic" : "re (返回) +verb (转，声音) +erate (复合使动词后缀) →返回来的声音\n→回响；回荡；(思想等) 产生重大反响；引起轰动",
+      "phonetic" : "rɪˈvɜ:bəreɪt",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "reverberate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "坚定的；忠实的 n.（某政党的）忠实拥护者",
+      "examples" : [
+
+      ],
+      "frequency" : 18243,
+      "mnemonic" : "stal (=stand：站，站在……一边) +wart (无含义) →站在……一边→坚",
+      "phonetic" : "ˈstɔ:lwət; ˈstæl-",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "stalwart"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "推翻；颠覆；破坏",
+      "examples" : [
+
+      ],
+      "frequency" : 11710,
+      "mnemonic" : "sub (=under：下) +vert (转) → (让某政权\/某事) 转下去→推翻，颠覆",
+      "phonetic" : "səbˈvɜ:t",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "subvert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "颠覆；破坏",
+      "examples" : [
+
+      ],
+      "frequency" : 16934,
+      "phonetic" : "səbˈvɜ:ʃən",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "subversion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "破坏性的；从事颠覆的",
+      "examples" : [
+
+      ],
+      "frequency" : 11583,
+      "phonetic" : "səbˈvɜ:sɪv",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "subversive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "横的；横向的；横断的；横切的",
+      "examples" : [
+
+      ],
+      "frequency" : 503,
+      "mnemonic" : "trans (=across：穿过) +vers (转) +e→转过去，穿过去→横穿的；横向的",
+      "phonetic" : "ˈtrænzvɜ:s",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "transverse"
+    },
+    {
+      "collocations" : [
+        "on the verge of：接近于；濒临"
+      ],
+      "definition" : "濒临，接近；处在边缘 n. 边缘",
+      "examples" : [
+
+      ],
+      "frequency" : 6741,
+      "phonetic" : "vɜ:dʒ",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "verge"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "最高点；顶点；[数]（三角形，圆锥体等与底相对的）顶",
+      "examples" : [
+
+      ],
+      "frequency" : 163,
+      "mnemonic" : "vert (转) +ex (名词后缀) → (原指) 转折点，后面引申为“最高点”(因",
+      "phonetic" : "ˈvɜ:teks",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "vertex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "晕头转向，眩晕",
+      "examples" : [
+
+      ],
+      "frequency" : 14733,
+      "mnemonic" : "vert (转) +go (走) →转着走→晕头转向；眩晕",
+      "phonetic" : "ˈvɜ:tɪgəʊ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "vertigo"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "涡流；漩涡；旋风；（动乱，争论等的）中心",
+      "examples" : [
+
+      ],
+      "frequency" : 14893,
+      "mnemonic" : "vort (转，旋转) +ex (名词后缀)，且vortex发音整体很像water：水→水\n的旋转→ (产生) 旋涡；(引申为) 旋风；动乱中心",
+      "phonetic" : "ˈvɔ:teks",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "vortex"
+    },
+    {
+      "collocations" : [
+        "warp someone’s character：扭曲某人价值观",
+        "a warp in time or space：扭曲时空"
+      ],
+      "definition" : "(尤指因受热，受潮而)(使)翘曲；(使)变形；扭曲；摧毁；不利于",
+      "examples" : [
+
+      ],
+      "frequency" : 1321,
+      "mnemonic" : "war (=ver=turn：变，转) +p→变弯；变形；扭曲；摧毁",
+      "phonetic" : "wɔ:p",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "warp"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "愤怒；激怒",
+      "examples" : [
+
+      ],
+      "frequency" : 10128,
+      "mnemonic" : "wra (=turn=twist：转，拧，扭) +th→被扭\/拧，被曲解→愤怒",
+      "phonetic" : "rɒθ; rɔ:θ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrath"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扳手，扳钳；扭伤；痛苦 v. 猛扭；扭伤",
+      "examples" : [
+
+      ],
+      "frequency" : 10649,
+      "mnemonic" : "wren (=turn=twist：拧，扭) +ch→扭伤；痛苦；扳手 (用来扭的东西)",
+      "phonetic" : "ren(t)ʃ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrench"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "用力拧；抢夺",
+      "examples" : [
+
+      ],
+      "frequency" : 15584,
+      "mnemonic" : "wrest (=twist：拧，扭，扭曲) → (用力) 拧；抢夺",
+      "phonetic" : "rest",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "wrest"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摔跤；斗争；搏斗",
+      "examples" : [
+
+      ],
+      "frequency" : 6508,
+      "phonetic" : "ˈres(ə)l",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrestle"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摔跤选手，搏斗者",
+      "examples" : [
+
+      ],
+      "frequency" : 11605,
+      "phonetic" : "ˈreslə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrestler"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "[体]摔跤；[体]扭斗",
+      "examples" : [
+
+      ],
+      "frequency" : 7003,
+      "phonetic" : "ˈreslɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrestling"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "绞；拧；紧握；使痛苦；折磨",
+      "examples" : [
+
+      ],
+      "frequency" : 10753,
+      "phonetic" : "rɪŋ",
+      "pos" : "vt.",
+      "rootHint" : "ver",
+      "word" : "wring"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扭动；蠕动；蜿蜒而行",
+      "examples" : [
+
+      ],
+      "frequency" : 14148,
+      "mnemonic" : "wrig (=turn：扭，扭动) +le (后缀) →扭动；蠕动",
+      "phonetic" : "ˈrɪg(ə)l",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "wriggle"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "腕关节；手腕",
+      "examples" : [
+
+      ],
+      "frequency" : 3658,
+      "mnemonic" : "wris (=turn：转) +t→the turning joint 可以转的关节→腕关节；手腕",
+      "phonetic" : "rɪst",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrist"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "腕表；手表",
+      "examples" : [
+
+      ],
+      "frequency" : 17940,
+      "phonetic" : "ˈrɪs(t)wɒtʃ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wristwatch"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "皱纹",
+      "examples" : [
+
+      ],
+      "frequency" : 7969,
+      "mnemonic" : "wrink (wind：弯曲，迂回) +le (后缀) →皱纹；褶皱 (本质就是出现了",
+      "phonetic" : "ˈrɪŋkl",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "wrinkle"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "具皱的，有皱纹的",
+      "examples" : [
+
+      ],
+      "frequency" : 11080,
+      "phonetic" : "ˈrɪŋkld",
+      "pos" : "adj.",
+      "rootHint" : "ver",
+      "word" : "wrinkled"
+    },
+    {
+      "collocations" : [
+        "If you writhe, your body twists and turns violently backwards and",
+        "forwards, usually because you are in great pain or discomfort.\n如果你翻滚，身体向前向后剧烈扭转或翻转，通常由于你很疼或很不\n舒服。"
+      ],
+      "definition" : "（通常指由于剧痛或不适而）扭动，翻滚",
+      "examples" : [
+
+      ],
+      "frequency" : 13547,
+      "phonetic" : "raɪð",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "writhe"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "旋转",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˌsɜ:kəmˈvɒlv",
+      "pos" : "vi.",
+      "rootHint" : "vol",
+      "word" : "circumvolve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复杂的；费解的；难懂的",
+      "examples" : [
+
+      ],
+      "frequency" : 19179,
+      "mnemonic" : "con (一起) +vol (=roll：卷，绕) → (想法\/系统) 卷\/绕到一起→复杂",
+      "phonetic" : "ˌkɒnvəˈl(j)u:tɪd",
+      "pos" : "adj.",
+      "rootHint" : "vol",
+      "word" : "convoluted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（权力，职责等）下放；移交；衰落",
+      "examples" : [
+
+      ],
+      "frequency" : 19062,
+      "mnemonic" : "de (下) +volv (=roll=turn：转，滚) → (权力等) 往下转→下放，移交；",
+      "phonetic" : "dɪˈvɒlv",
+      "pos" : "v.",
+      "rootHint" : "vol",
+      "word" : "devolve"
+    },
+    {
+      "collocations" : [
+        "perpendicularly,” thus “flying machine propelled by screws.” From Greek",
+        "helix(genitive helikos) “spiral”(see helix)+pteron “wing”(from PIE root"
+      ],
+      "definition" : "直升飞机",
+      "etymology" : "1861, from French hélicoptère “device for enabling airplanes to rise *pet-“to rush, to fly”). 20000 词 汇巅峰 速 记 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 3126,
+      "phonetic" : "ˈhelɪkɒptə",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "helicopter"
+    },
+    {
+      "collocations" : [
+        "bodily fluids;” 1650s to “mechanical device that works like an anatomical"
+      ],
+      "definition" : "[机]阀；[机]活门；[电子]真空管；[解]瓣膜",
+      "etymology" : "Late 14c., “one of the halves of a folding door,” from Latin valva (plural valvae) “section of a folding or revolving door,” literally “that which turns,” related to volvere “to roll,” from PIE root *wel- (3) “to turn, revolve.” Sense extended 1610s to “membranous fold regulating flow of valve;” and 1660s in zoology to “halves of a hinged shell.” Related: Valved.",
+      "examples" : [
+
+      ],
+      "frequency" : 6034,
+      "phonetic" : "vælv",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "valve"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "拱顶；穹窿；地下室；撑竿跳",
+      "examples" : [
+
+      ],
+      "frequency" : 8600,
+      "mnemonic" : "vaul (=roll=turn：转，翻转) →一个翻转过去的弧线感 (的东西) →撑",
+      "phonetic" : "vɔ:lt",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "vault"
+    },
+    {
+      "collocations" : [
+        "wallow in water or mud：在水或泥浆里打滚",
+        "wallow in an unpleasant situation：沉溺于不愉快的境况"
+      ],
+      "definition" : "打滚；颠簸；沉迷",
+      "examples" : [
+
+      ],
+      "frequency" : 15516,
+      "mnemonic" : "wall (=roll=turn：打滚) +ow (名词后缀) →打滚；沉溺",
+      "phonetic" : "ˈwɒləʊ",
+      "pos" : "vi.",
+      "rootHint" : "ver",
+      "word" : "wallow"
+    },
+    {
+      "collocations" : [
+        "Old English welig “willow,” from Proto-Germanic *we-(source also of",
+        "Old Saxon wilgia, Middle Dutch wilghe, Dutch wilg), probably from\nPIE root*wel-(3) “to turn, revolve,” with derivatives referring to curved,",
+        "enclosing objects. The change in form to -ow(14c.) paralleled that of",
+        "bellow and fellow. The more typical Germanic word for the tree is",
+        "represented by withy."
+      ],
+      "definition" : "柳木制品；柳树",
+      "etymology" : "笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 10274,
+      "phonetic" : "ˈwɪləʊ",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "willow"
+    },
+    {
+      "collocations" : [
+        "Round dance performed to music in triple time, extraordinarily popular as",
+        "a fashionable dance from late 18c. to late 19c., the dance itself probably",
+        "of Bohemian origin, 1781, from German Waltzer, from walzen “to roll,",
+        "Used in the Arts and Sciences”].\n笔 记 区\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "华尔兹舞；华尔兹舞曲",
+      "examples" : [
+
+      ],
+      "frequency" : 1237,
+      "phonetic" : "wɔ:ls",
+      "pos" : "n.",
+      "rootHint" : "ver",
+      "word" : "waltz"
+    }
+  ]
+}

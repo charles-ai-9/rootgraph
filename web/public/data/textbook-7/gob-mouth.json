@@ -1,0 +1,152 @@
+{
+  "chapter" : "18",
+  "chapterOrder" : 118,
+  "id" : "gob-mouth",
+  "meaningZh" : "口；嘴；一满口（的量）。",
+  "roots" : [
+    "gob：mouth",
+    "a mouthful"
+  ],
+  "semanticLabel" : "口；嘴；一满口（的量）。",
+  "source" : "textbook-7",
+  "titleZh" : "口；嘴；一满口（的量）。",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "狼吞虎咽地吃；贪婪地吃",
+      "examples" : [
+        "They gobbled down all the sandwiches.\n他们狼吞虎咽地就把三明治全吃光了。"
+      ],
+      "frequency" : 11114,
+      "mnemonic" : "gobb（=gob-：嘴，双写b）+ -le（表反复或连续动作）→反复用口吃\n掉事物→狼吞虎咽地吃；贪婪地吃",
+      "phonetic" : "ˈgɒbl",
+      "pos" : "vt.",
+      "rootHint" : "gob：mouth",
+      "word" : "gobble"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "狼吞虎咽的人",
+      "examples" : [
+
+      ],
+      "frequency" : 17527,
+      "mnemonic" : "gobble（狼吞虎咽地吃）+-er（名词后缀，表人）→狼吞虎咽的人",
+      "phonetic" : "gɒblə",
+      "pos" : "n.",
+      "rootHint" : "gob：mouth",
+      "word" : "gobbler"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（玻璃或金属制）高脚酒杯",
+      "examples" : [
+
+      ],
+      "frequency" : 17022,
+      "mnemonic" : "gob-（嘴）+ -let（名词后缀，表示小）→杯口小的酒杯→高脚酒杯",
+      "phonetic" : "ˈɡɒblət",
+      "pos" : "n.",
+      "rootHint" : "gob：mouth",
+      "word" : "goblet"
+    },
+    {
+      "collocations" : [
+        "get \/ lose a job：找到 \/ 丢掉工作"
+      ],
+      "definition" : "工作；职业；任务，职责",
+      "examples" : [
+        "Their main job is to preserve health rather than treat illness.\n他们的主要职责是保健而不是治病。"
+      ],
+      "frequency" : 244,
+      "mnemonic" : "job来源于gob（嘴），表示可以糊口的东西→工作",
+      "phonetic" : "dʒɒb",
+      "pos" : "n.",
+      "rootHint" : "gob：mouth",
+      "word" : "job"
+    },
+    {
+      "collocations" : [
+        "the jobless：失业者"
+      ],
+      "definition" : "失业的",
+      "examples" : [
+
+      ],
+      "frequency" : 15190,
+      "mnemonic" : "job（工作）+ -less（=lacking：没有）→没有工作的→失业的",
+      "phonetic" : "ˈdʒɒbləs",
+      "pos" : "adj.",
+      "rootHint" : "gob：mouth",
+      "word" : "jobless"
+    },
+    {
+      "collocations" : [
+        "on-the-job training：在职培训"
+      ],
+      "definition" : "在职的",
+      "examples" : [
+
+      ],
+      "frequency" : 19779,
+      "mnemonic" : "on（表持续性）+ the（定冠词）+ job（工作）→在连续工作的→在",
+      "phonetic" : "ˈɔnðəˈdʒɔb, ˈɔːn-",
+      "pos" : "adj.",
+      "rootHint" : "gob：mouth",
+      "word" : "on-the-job"
+    },
+    {
+      "collocations" : [
+        "greedy bosses：贪婪的老板们"
+      ],
+      "definition" : "贪吃的；渴望的；贪婪的",
+      "etymology" : "“voracious, hungry,” also “covetous, eager to obtain”.",
+      "examples" : [
+
+      ],
+      "frequency" : 9096,
+      "mnemonic" : "greed（=hunger, want：饥饿；想要）+ -y（形容词后缀）→贪吃的；",
+      "phonetic" : "ˈgriːdɪ",
+      "pos" : "adj.",
+      "rootHint" : "gob：mouth",
+      "word" : "greedy"
+    },
+    {
+      "collocations" : [
+        "I had another helping of ice cream out of pure greed.\n我纯粹是因为嘴馋贪吃，又吃了一份冰激凌。\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "贪婪；贪吃",
+      "etymology" : "excessively eager desire to possess, c. 1600.",
+      "examples" : [
+        "Nothing would satisfy her greed for power.\n没有什么可以满足她对权力的贪婪（她对权力贪得无厌）。"
+      ],
+      "frequency" : 6854,
+      "phonetic" : "griːd",
+      "pos" : "n.",
+      "rootHint" : "gob：mouth",
+      "word" : "greed"
+    },
+    {
+      "collocations" : [
+        "feed the corn to the hogs：喂猪玉米",
+        "to hog the road (= to drive so that other vehicles cannot pass)：占着马路\n中间开车"
+      ],
+      "definition" : "（尤指喂肥供食用的）猪 vt. 多占；独占；霸占",
+      "etymology" : "来自古英语hogg：猪。来自PIE*kau：击，砍。引申词义阉割，后用 来指阉割以育肥食用的猪。",
+      "examples" : [
+        "Are you done hogging the bathroom?\n你要霸占浴室到什么时候？"
+      ],
+      "frequency" : 7998,
+      "phonetic" : "hɒg",
+      "pos" : "n.",
+      "rootHint" : "gob：mouth",
+      "word" : "hog"
+    }
+  ]
+}

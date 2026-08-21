@@ -1,0 +1,947 @@
+{
+  "chapter" : "六",
+  "chapterOrder" : 6,
+  "id" : "pens",
+  "meaningEn" : "pay",
+  "meaningZh" : "付钱；hang：悬挂",
+  "roots" : [
+    "pens",
+    "(s)pend",
+    "(s)pon"
+  ],
+  "semanticLabel" : "付钱；hang：悬挂",
+  "source" : "textbook-1",
+  "titleZh" : "付钱；hang：悬挂",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "花费；度过，消磨（时光）；用尽；浪费",
+      "examples" : [
+
+      ],
+      "frequency" : 343,
+      "phonetic" : "spend",
+      "pos" : "vt.",
+      "rootHint" : "(s)pend",
+      "word" : "spend"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "挥金如土的人；挥霍者；用钱的人",
+      "examples" : [
+
+      ],
+      "frequency" : 19858,
+      "phonetic" : "ˈspendə",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "spender"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "开销；花费",
+      "examples" : [
+
+      ],
+      "frequency" : 2358,
+      "phonetic" : "ˈspendɪŋ",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "spending"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "耗尽了的；精疲力尽的",
+      "examples" : [
+
+      ],
+      "frequency" : 14463,
+      "phonetic" : "spent",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "spent"
+    },
+    {
+      "collocations" : [
+        "at the expense of (考)：以……为代价",
+        "expense of abandoning honesty and integrity."
+      ],
+      "definition" : "开支；消费；损失，代价",
+      "examples" : [
+        "以丢失诚信为代价来赚钱的做法是不可取的。\n1. The practice of making money at the expense of losing credit is not\nadvisable\/favorable\/preferable\/agreeable.\n2. It is not advisable\/favorable\/preferable\/agreeable to make a profit at the"
+      ],
+      "frequency" : 2156,
+      "mnemonic" : "ex (向外，出去) +pens (钱，付钱) +e→付出去的钱→花费，开支",
+      "phonetic" : "ɪkˈspens; ek-",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "expense"
+    },
+    {
+      "collocations" : [
+        "public expenditure (考)：公共开支"
+      ],
+      "definition" : "支出，花费；经费，消费额",
+      "examples" : [
+
+      ],
+      "frequency" : 5240,
+      "mnemonic" : "ex (出去) +pend (钱) +iture (=ite+ure复合名词后缀) →花出去的钱→开",
+      "phonetic" : "ɪkˈspendɪtʃə; ek-",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "expenditure"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "花费；用光；消耗；耗尽",
+      "examples" : [
+
+      ],
+      "frequency" : 10905,
+      "phonetic" : "ɪkˈspend; ek-",
+      "pos" : "vt.",
+      "rootHint" : "(s)pend",
+      "word" : "expend"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可消费的；排出的；不重复使用的；可牺牲的",
+      "examples" : [
+
+      ],
+      "frequency" : 19381,
+      "phonetic" : "ɪkˈspendəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "expendable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "昂贵的；花钱的",
+      "examples" : [
+
+      ],
+      "frequency" : 1674,
+      "phonetic" : "ɪkˈspensɪv",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "expensive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "便宜的",
+      "examples" : [
+
+      ],
+      "frequency" : 5911,
+      "phonetic" : "ɪnɪkˈspensɪv; ɪnek-",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "inexpensive"
+    },
+    {
+      "collocations" : [
+        "pension arrangement (考)：退休金安排，抚恤金安排"
+      ],
+      "definition" : "津贴；退休金，抚恤金；膳宿费",
+      "examples" : [
+
+      ],
+      "frequency" : 3818,
+      "mnemonic" : "pens (钱) +ion (名词后缀) →养老金，抚恤金 (即：“养老金，抚恤",
+      "phonetic" : "ˈpenʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "pension"
+    },
+    {
+      "collocations" : [
+        "compensate sb. for sth (考)：为……补偿某人"
+      ],
+      "definition" : "补偿，赔偿；抵消",
+      "examples" : [
+
+      ],
+      "frequency" : 5099,
+      "mnemonic" : "com (共同，大家) +pens (钱) +ate (使动词) →使钱发给大家→补偿，",
+      "phonetic" : "ˈkɒmpenseɪt",
+      "pos" : "vi.",
+      "rootHint" : "pens",
+      "word" : "compensate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "补偿；赔偿金；报酬",
+      "examples" : [
+
+      ],
+      "frequency" : 3833,
+      "phonetic" : "kɒmpenˈseɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "compensation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "补偿的，赔偿的",
+      "examples" : [
+
+      ],
+      "frequency" : 14755,
+      "phonetic" : "kɒmpenˈseɪtərɪ",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "compensatory"
+    },
+    {
+      "collocations" : [
+        "dispense with (考)：免除，省掉",
+        "altogether, following the realization that it just didn’t need them any more.\n在了解到 (远程办公) 再也不需要办公场所之后，该公司完全免去了\n商用办公场所的开支。"
+      ],
+      "definition" : "分配，分发；执行；免除",
+      "examples" : [
+        "It has enabled the company to dispense with its business premises"
+      ],
+      "frequency" : 8502,
+      "mnemonic" : "dis (分开) +pens (钱) +e→ 把钱分给不同的人→分配，分发\ndis (表相反) +pens (钱) +e→不需要花钱→免除，免掉",
+      "phonetic" : "dɪˈspens",
+      "pos" : "vt.",
+      "rootHint" : "pens",
+      "word" : "dispense"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自动售货机；自动分发器；分发着；分配者",
+      "examples" : [
+
+      ],
+      "frequency" : 16538,
+      "phonetic" : "dɪˈspensə",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "dispenser"
+    },
+    {
+      "collocations" : [
+        "be indispensable to sth (考)：对……而言是不可或缺的",
+        "It is well-known that persistence is the indispensable condition for"
+      ],
+      "definition" : "不可缺少的；绝对必要的",
+      "examples" : [
+
+      ],
+      "frequency" : 9151,
+      "mnemonic" : "in (表否定) +dispens (分开) +able (可以，能的) →不能分开的→必不",
+      "phonetic" : "ɪndɪˈspensəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "indispensable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可有可无的；非必要的",
+      "examples" : [
+
+      ],
+      "frequency" : 7489,
+      "phonetic" : "dɪˈspɛnsəbəl",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "dispensable"
+    },
+    {
+      "collocations" : [
+        "sponsor trade fairs (考)：赞助贸易展销会",
+        "corporate sponsors (考)：企业赞助商"
+      ],
+      "definition" : "保证人；赞助者；主办者",
+      "examples" : [
+
+      ],
+      "frequency" : 3484,
+      "mnemonic" : "s (加强语气) +pon (钱，付钱) +or (表人) →付钱的人，出钱的人→赞",
+      "phonetic" : "ˈspɒnsə",
+      "pos" : "n.",
+      "rootHint" : "(s)pon",
+      "word" : "sponsor"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "(活动或比赛)为慈善筹款而发起的",
+      "examples" : [
+
+      ],
+      "frequency" : 15656,
+      "phonetic" : "ˈspɔnsəd",
+      "pos" : "adj.",
+      "rootHint" : "(s)pon",
+      "word" : "sponsored"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "保证人的地位；发起；赞助；教父母身份",
+      "examples" : [
+
+      ],
+      "frequency" : 9495,
+      "phonetic" : "ˈspɒnsəʃɪp",
+      "pos" : "n.",
+      "rootHint" : "(s)pon",
+      "word" : "sponsorship"
+    },
+    {
+      "collocations" : [
+        "admission fee (考)：入场费，学费"
+      ],
+      "definition" : "费用，酬金",
+      "examples" : [
+
+      ],
+      "frequency" : 12711,
+      "mnemonic" : "谐音“费”→费用，小费，酬金",
+      "phonetic" : "fi:",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "fee"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "钱的，货币的，金融的",
+      "examples" : [
+
+      ],
+      "frequency" : 7055,
+      "mnemonic" : "mone (=money：钱) +t (无意义) +ary (形容词后缀) →钱的，货币的，",
+      "phonetic" : "ˈmʌnitəri",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "monetary"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "依赖，依靠；相信，信赖；取决于",
+      "examples" : [
+
+      ],
+      "frequency" : 1483,
+      "mnemonic" : "de (下) +pend (挂) →挂靠在……之下→依赖，依靠",
+      "phonetic" : "dɪˈpend",
+      "pos" : "vi.",
+      "rootHint" : "(s)pend",
+      "word" : "depend"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "依靠的；从属的；取决于……的",
+      "examples" : [
+
+      ],
+      "frequency" : 3231,
+      "phonetic" : "dɪˈpɛndənt",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "dependent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可靠的，可信赖的；可信任的",
+      "examples" : [
+
+      ],
+      "frequency" : 13277,
+      "phonetic" : "dɪˈpendəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "dependable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "依靠；依赖；信赖；信任",
+      "examples" : [
+
+      ],
+      "frequency" : 5899,
+      "phonetic" : "dɪˈpend(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "dependence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "互相依赖",
+      "examples" : [
+
+      ],
+      "frequency" : 12463,
+      "phonetic" : "ˌɪntədɪˈpendəns",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "interdependence"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相互依赖的；互助的",
+      "examples" : [
+
+      ],
+      "frequency" : 15278,
+      "phonetic" : "ɪntədɪˈpendənt",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "interdependent"
+    },
+    {
+      "collocations" : [
+        "A dependency is a country which is controlled by another country. 附属国",
+        "You talk about someone’s dependency when they have a deep emotional,",
+        "physical, or financial need for a particular person or thing, especially one",
+        "that you consider excessive or undesirable.\n某人的依赖\/瘾\/癖指的是对某人或某物有着深层次的精神、身体或者\n资金上的需要，尤其被认为是过度的或不想要的。"
+      ],
+      "definition" : "从属；从属物；属国；依赖",
+      "examples" : [
+
+      ],
+      "frequency" : 8008,
+      "phonetic" : "dɪˈpend(ə)nsɪ",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "dependency"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "依赖；信任（depend的ing形式）",
+      "examples" : [
+
+      ],
+      "frequency" : 2995,
+      "phonetic" : "diˈpendiŋ",
+      "pos" : "v.",
+      "rootHint" : "(s)pend",
+      "word" : "depending"
+    },
+    {
+      "collocations" : [
+        "depend on\/upon (考)：依赖……",
+        "be dependent on\/upon sb\/sth (考)：依赖某人\/某物",
+        "Declaration of Independence (考)：《独立宣言》\n（写作，阅读）重点：“依赖，依靠”的表达方式：\ndepend on\/ rely on\/ be dependant on\/ live on one’s own\/lean on",
+        "We have been used to depending upon\/relying on\/leaning on our parents",
+        "and teacher, now we have to be dependant on ourselves\/live on our own.",
+        "The future prosperity of a nation depends largely on\/to a large extent, the",
+        "future prosperity of a country relies on (一个国家未来的繁荣在很大程度\n上有赖于) the quality of education of its people.\n笔 记 区",
+        "Human behavior is mostly a product of learning， (而动物的行为主要依\n靠本能) while animal behavior depends largely\/mainly on their instinct."
+      ],
+      "definition" : "独立的；单独的；不受约束的；无党派的",
+      "examples" : [
+        "我们以前习惯于依靠父母和老师，现在我们要依靠自己。\n—How long does a jacket like this last me?\n—It all depends on how often you wear it. (这要看你多长时间穿一次)."
+      ],
+      "frequency" : 1271,
+      "mnemonic" : "in (表否定) +dependent (依赖的) →不依赖的→独立的",
+      "phonetic" : "ˌɪndɪˈpendənt",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "independent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "独立地；自立地",
+      "examples" : [
+
+      ],
+      "frequency" : 5729,
+      "phonetic" : "ˌɪndɪˈpend(ə)ntlɪ",
+      "pos" : "adv.",
+      "rootHint" : "(s)pend",
+      "word" : "independently"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "独立性，自立性；自主",
+      "examples" : [
+
+      ],
+      "frequency" : 2311,
+      "phonetic" : "ɪndɪˈpend(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "independence"
+    },
+    {
+      "collocations" : [
+        "suspend oil export (考)：暂停石油出口",
+        "Its parent company, the New York Times Company, has 15 papers, but\na loss of $70 million in the nine months to September and recently\naccepted a $250 million loan from a Mexican billionaire, Carlos Slim, to",
+        "strengthen its balance sheet."
+      ],
+      "definition" : "延缓，推迟；使暂停；使悬浮 vi. 悬浮",
+      "examples" : [
+        "The oil price was given another push up this week when Iraq suspended\noil exports.\n本周，当伊拉克暂停了石油出口的时候，油价被又一次推高了。\nA．targeted B．suspended C．suffered D．tolerated"
+      ],
+      "frequency" : 3812,
+      "mnemonic" : "sus (=sub：下) +pend (挂) →暂时挂 (悬) 一下→暂停；悬挂；使有悬念",
+      "phonetic" : "səˈspend",
+      "pos" : "vt.",
+      "rootHint" : "(s)pend",
+      "word" : "suspend"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "悬浮的；暂停的，缓期的（宣判）",
+      "examples" : [
+
+      ],
+      "frequency" : 10175,
+      "phonetic" : "səˈspendid",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "suspended"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "吊裤带；裤子背带（suspender的复数）",
+      "examples" : [
+
+      ],
+      "frequency" : 19485,
+      "phonetic" : "səˈspɛndɚz",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "suspenders"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "悬念；焦虑；悬疑；悬而不决",
+      "examples" : [
+
+      ],
+      "frequency" : 12422,
+      "phonetic" : "səˈspens",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "suspense"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "暂停；悬浮；停职",
+      "examples" : [
+
+      ],
+      "frequency" : 5095,
+      "phonetic" : "səˈspenʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "suspension"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "刑事的；刑罚的",
+      "examples" : [
+
+      ],
+      "frequency" : 14196,
+      "phonetic" : "ˈpi:n(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "penal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "处罚；处刑；使不利",
+      "examples" : [
+
+      ],
+      "frequency" : 11597,
+      "phonetic" : "ˈpi:nəlaɪz",
+      "pos" : "vt.",
+      "rootHint" : "pens",
+      "word" : "penalize"
+    },
+    {
+      "collocations" : [
+        "death penalty (考)：死刑"
+      ],
+      "definition" : "处罚；罚款，罚金",
+      "examples" : [
+
+      ],
+      "frequency" : 2703,
+      "mnemonic" : "pen (=-pen=fine：罚款，惩罚) +alty (=al+ty：复合名词后缀) →惩罚，",
+      "phonetic" : "ˈpen(ə)ltɪ",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "penalty"
+    },
+    {
+      "collocations" : [
+        "Those who do not follow\/abide by the traffic laws and drive a car after",
+        "drinking will be ultimately\/finally punished."
+      ],
+      "definition" : "严厉对待；惩罚；[口]贪婪地吃喝",
+      "examples" : [
+        "那些不遵循交通法规，酒后驾车的人最终都会受到惩罚。"
+      ],
+      "frequency" : 3897,
+      "mnemonic" : "pun (= - pen：罚款) +ish (动词后缀) →罚款，惩罚",
+      "phonetic" : "ˈpʌnɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "pens",
+      "word" : "punish"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "打击沉重的；严厉的；精疲力尽的",
+      "examples" : [
+
+      ],
+      "frequency" : 15043,
+      "phonetic" : "ˈpʌnɪʃɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "punishing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "惩罚；严厉对待，虐待",
+      "examples" : [
+
+      ],
+      "frequency" : 3135,
+      "phonetic" : "ˈpʌnɪʃm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "punishment"
+    },
+    {
+      "collocations" : [
+        "If you do penance for something wrong that you have done, you do",
+        "something that you find unpleasant to show that you are sorry. 赎罪；悔\n罪；忏悔\n高难度词汇："
+      ],
+      "definition" : "使……以苦行赎罪",
+      "examples" : [
+
+      ],
+      "frequency" : 17414,
+      "phonetic" : "ˈpenəns",
+      "pos" : "vt.",
+      "rootHint" : "pens",
+      "word" : "penance"
+    },
+    {
+      "collocations" : [
+        "When you append something to something else, especially a piece of",
+        "writing, you attach it or add it to the end of it. 附加；添加附件"
+      ],
+      "definition" : "附加；添加",
+      "examples" : [
+
+      ],
+      "frequency" : 72,
+      "mnemonic" : "ap (=to：去) +pend (挂，悬) → 附加；附属",
+      "phonetic" : "əˈpend",
+      "pos" : "v.",
+      "rootHint" : "(s)pend",
+      "word" : "append"
+    },
+    {
+      "collocations" : [
+        "An appendage is something that is joined to or connected with something",
+        "larger or more important. 附件；附属物\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "附属物；附加物",
+      "examples" : [
+
+      ],
+      "frequency" : 16265,
+      "mnemonic" : "append (添加) +age (名词后缀) → 附加物；附件 (attachment)",
+      "phonetic" : "əˈpendɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "appendage"
+    },
+    {
+      "collocations" : [
+        "to your digestive system. 阑尾",
+        "of the main text. 附录\n笔 记 区"
+      ],
+      "definition" : "阑尾；附录",
+      "examples" : [
+
+      ],
+      "frequency" : 14423,
+      "phonetic" : "əˈpendɪks",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "appendix"
+    },
+    {
+      "collocations" : [
+        "A compendium is a short but detailed collection of information, usually in\na book. 汇编，概要\nimpend v. 悬在头上；马上要发生（命悬一线） 3"
+      ],
+      "definition" : "纲要；概略；汇编",
+      "examples" : [
+
+      ],
+      "frequency" : 19147,
+      "mnemonic" : "com (共同，一起) +pend (悬，挂) +ium (名词后缀) → (主要信息，图\n片等) 挂在一起，放在一起→纲要；概要；汇编",
+      "phonetic" : "kəmˈpendɪəm",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "compendium"
+    },
+    {
+      "collocations" : [
+        "An impending event is one that is going to happen very soon. 即将发生的"
+      ],
+      "definition" : "即将发生的；命悬一线的；迫切的",
+      "examples" : [
+
+      ],
+      "frequency" : 8475,
+      "phonetic" : "ɪmˈpendɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "impending"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "悬挂物；吊坠",
+      "examples" : [
+
+      ],
+      "frequency" : 13757,
+      "mnemonic" : "pend (悬，挂) +ant (名词后缀) →悬挂物；吊坠",
+      "phonetic" : "ˈpend(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "pendant"
+    },
+    {
+      "collocations" : [
+        "If something such as a legal procedure is pending, it is waiting to be dealt",
+        "with or settled. 待处理的"
+      ],
+      "definition" : "待处理的；未决定的；悬而未决的",
+      "examples" : [
+
+      ],
+      "frequency" : 12636,
+      "mnemonic" : "pend (悬) +ing (形容词后缀) →还没有处理的；决定的；悬着的；悬",
+      "phonetic" : "ˈpendɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "pending"
+    },
+    {
+      "collocations" : [
+        "The pendulum of a clock is a rod (杆) with a weight at the end which\nswings (摇摆) from side to side in order to make the clock work. 钟摆"
+      ],
+      "definition" : "钟摆；摇锤；摇摆不定的事态",
+      "examples" : [
+
+      ],
+      "frequency" : 12948,
+      "mnemonic" : "pend (悬，挂) +ul (连字符) +um (名词后缀) →钟摆；摇摆不定的事情",
+      "phonetic" : "ˈpendjʊləm",
+      "pos" : "n.",
+      "rootHint" : "(s)pend",
+      "word" : "pendulum"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "摆动的；钟表式的；摇摆的",
+      "examples" : [
+
+      ],
+      "frequency" : 6,
+      "phonetic" : "ˈpɛndjʊlə",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "pendular"
+    },
+    {
+      "collocations" : [
+        "Something that is pendulous hangs downward and moves loosely, usually",
+        "in an unattractive way. 悬垂摆动的；松垂的"
+      ],
+      "definition" : "松垂的",
+      "examples" : [
+
+      ],
+      "frequency" : 145,
+      "mnemonic" : "pend (悬，挂，垂) +ul (链接符号) +ous (大，多) →松垂的；松弛的",
+      "phonetic" : "ˈpendjʊləs",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "pendulous"
+    },
+    {
+      "collocations" : [
+        "If you are pensive, you are thinking deeply about something, especially",
+        "something that worries you slightly. 沉思的，忧郁的"
+      ],
+      "definition" : "沉思的，忧郁的；悲伤的，哀愁的",
+      "examples" : [
+
+      ],
+      "frequency" : 19636,
+      "mnemonic" : "pens (垂) +ive (形容词后缀) →思考的；沉思的；悲伤的；忧郁的",
+      "phonetic" : "ˈpensɪv",
+      "pos" : "adj.",
+      "rootHint" : "pens",
+      "word" : "pensive"
+    },
+    {
+      "collocations" : [
+        "A penthouse or a penthouse apartment or suite (套房) is a luxurious",
+        "apartment or set of rooms at the top of a tall building. 顶层豪华公寓；顶\n层豪华套间\n20000 词 汇巅峰\n速\n记",
+        "Pendize, early 14c., from Anglo-French pentiz, a shortening of Old French\napentis “attached building, appendage,” from Medieval Latin appendicium,",
+        "from Latin appendere “to hang”(see append). Modern spelling is from c.",
+        "English house (the meaning at that time was “attached building with a",
+        "sloping roof or awning”). Originally a simple structure (Middle English",
+        "homilies describe Jesus’ birthplace in the manger as a “penthouse”);\nmeaning “apartment or small house built on the roof of a skyscraper” first",
+        "recorded 1921, from which time dates its association with luxury."
+      ],
+      "definition" : "阁楼；顶层公寓，屋顶房间",
+      "etymology" : "笔 记 区 1530, by folk etymology influence of Middle French pente “slope,” and",
+      "examples" : [
+
+      ],
+      "frequency" : 15080,
+      "mnemonic" : "pent (悬，挂) +house (房子) →顶楼；阁楼；顶层 (豪华) 公寓",
+      "phonetic" : "ˈpenthaʊs",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "penthouse"
+    },
+    {
+      "collocations" : [
+        "A perpendicular line or surface points straight up, rather than being sloping",
+        "or horizontal. 垂直的"
+      ],
+      "definition" : "垂直的；直立的；陡峭的",
+      "examples" : [
+
+      ],
+      "frequency" : 14364,
+      "mnemonic" : "per (彻底) +pend (垂) +icular (复合形容词后缀) →垂直的；直立的；",
+      "phonetic" : "ˌpɜ:p(ə)nˈdɪkjʊlə",
+      "pos" : "adj.",
+      "rootHint" : "(s)pend",
+      "word" : "perpendicular"
+    },
+    {
+      "collocations" : [
+        "A propensity to do something or a propensity for something is a natural",
+        "tendency to behave in a particular way. (行为) 倾向"
+      ],
+      "definition" : "（自然；先天的）倾向，习性；癖好，偏爱",
+      "examples" : [
+
+      ],
+      "frequency" : 11188,
+      "mnemonic" : "pro (向前) +pens (悬，挂) +ity (名词) →偏爱；癖好；倾向",
+      "phonetic" : "prəˈpensɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "propensity"
+    },
+    {
+      "collocations" : [
+        "If someone has a penchant for something, they have a special liking for it",
+        "or a tendency (倾向) to do it. 特别的喜好"
+      ],
+      "definition" : "嗜好；倾向",
+      "examples" : [
+
+      ],
+      "frequency" : 11728,
+      "mnemonic" : "pench (悬，挂) +ant→挂在心理的东西 (即：喜爱，在意的东西) →嗜",
+      "phonetic" : "ˈpentʃənt",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "penchant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "蜘蛛",
+      "examples" : [
+
+      ],
+      "frequency" : 5627,
+      "mnemonic" : "织布；→一种挂着可以织网的动物→蜘蛛",
+      "phonetic" : "ˈspaɪdə",
+      "pos" : "n.",
+      "rootHint" : "pens",
+      "word" : "spider"
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "chapter" : "27",
+  "chapterOrder" : 127,
+  "id" : "li",
+  "meaningEn" : "tie, bind",
+  "meaningZh" : "系，捆，绑 =bind。",
+  "roots" : [
+    "li",
+    "lig"
+  ],
+  "semanticLabel" : "系，捆，绑 =bind。",
+  "source" : "textbook-6",
+  "titleZh" : "系，捆，绑 =bind。",
+  "words" : [
+    {
+      "collocations" : [
+        "ally oneself with：与……结盟",
+        "the Allies：（第一次世界大战中的）协约国；（第二次世界大战中",
+        "fought together in the First and Second World Wars）"
+      ],
+      "definition" : "同盟国；盟友，支持者 vt. 与……结盟",
+      "etymology" : "ally（联合）：通过婚姻结成同盟。婚姻是两大家族结盟的最常用 方式，表示“联合、结盟”的单词ally的本意就是“通过婚姻结成同 盟”。它来自拉丁语alligare（结合），与alloy（合金）同源。15世纪 之后，该词的词义扩大，可以表示通过缔结条约等其他方式形成的 同盟。",
+      "examples" : [
+        "He will have no choice but to ally himself with the new movement.\n他将别无选择，只能与这个新运动结盟。"
+      ],
+      "frequency" : 2430,
+      "mnemonic" : "al（=all：所有人）+ -ly（=to bind：捆；约束）→所有人捆在一起→",
+      "phonetic" : "ˈælaɪ",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "ally"
+    },
+    {
+      "collocations" : [
+        "allied forces：同盟国军队",
+        "allied nations：结盟的国家",
+        "lectures on subjects allied to health, beauty and fitness：与健康、美丽和\n健身主题相关的讲座"
+      ],
+      "definition" : "同盟的；结盟的；相关的，有关联的",
+      "examples" : [
+
+      ],
+      "frequency" : 5983,
+      "mnemonic" : "ally（盟友；结盟，变y为i）+ -ed（形容词后缀）→同盟的；结盟",
+      "phonetic" : "ˈælaɪd",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "allied"
+    },
+    {
+      "collocations" : [
+        "to form\/make an alliance：结成\/缔结同盟",
+        "in alliance with...：与……结成联盟"
+      ],
+      "definition" : "（国家、政党等的）结盟，联盟，同盟；结盟团体",
+      "examples" : [
+
+      ],
+      "frequency" : 3405,
+      "mnemonic" : "al（=all：所有人）+ li-（=tie：绑；栓；系）+ -ance（名词后缀）→\n将所有人绑在一起→结盟；联盟；同盟",
+      "phonetic" : "əˈlaɪəns",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "alliance"
+    },
+    {
+      "collocations" : [
+        "rely on\/upon sb.\/sth.：依赖，依靠；信任，信赖",
+        "You can rely on me to keep your secret.\n你可以相信我一定会为你保守秘密。"
+      ],
+      "definition" : "依赖，依靠；信任，信赖",
+      "examples" : [
+        "As babies, we rely entirely on others for food.\n在婴儿时期，我们完全依赖别人喂食。"
+      ],
+      "frequency" : 1872,
+      "mnemonic" : "re-（强调前缀）+ -ly（=to tie, bind：系；捆；绑）→fasten, bind\nfast：系牢；绑紧→引申词义依赖，信任（depend, trust）",
+      "phonetic" : "rɪˈlaɪ",
+      "pos" : "vi.",
+      "rootHint" : "li",
+      "word" : "rely"
+    },
+    {
+      "collocations" : [
+        "a reliable friend：可信赖的朋友",
+        "a reliable source：来源可靠",
+        "a reliable witness：可信的目击证人"
+      ],
+      "definition" : "可信赖的，可依靠的；真实可信的，可靠的",
+      "examples" : [
+
+      ],
+      "frequency" : 3535,
+      "mnemonic" : "reli-（=rely：依靠；信赖）+ -able（形容词后缀）→可依靠的；真实",
+      "phonetic" : "rɪˈlaɪəbl",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "reliable"
+    },
+    {
+      "collocations" : [
+        "unreliable information：不可靠消息"
+      ],
+      "definition" : "不可靠的；不能信赖的",
+      "examples" : [
+        "The trains are notoriously unreliable.\n火车不准点（不可靠）是出了名的。"
+      ],
+      "frequency" : 10985,
+      "mnemonic" : "un-（=not：不）+ reliable（可靠的；可信赖的）→不可靠的；不能信",
+      "phonetic" : "ʌnrɪˈlaɪəbl",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "unreliable"
+    },
+    {
+      "collocations" : [
+        "work reliably：可靠地运转",
+        "be reliably informed：得到可靠消息"
+      ],
+      "definition" : "可靠地",
+      "examples" : [
+
+      ],
+      "frequency" : 11970,
+      "phonetic" : "riˈlaiəbli",
+      "pos" : "adv.",
+      "rootHint" : "li",
+      "word" : "reliably"
+    },
+    {
+      "collocations" : [
+        "The reliability of these results has been questioned.\n20000 词汇巅峰\n速\n记\n这些结果的可信程度已受到质疑。\n笔 记 区"
+      ],
+      "definition" : "可靠性；可信程度",
+      "examples" : [
+        "The incident cast doubt on her motives and reliability.\n这件事使人怀疑她有何动机，以及她是否可靠。"
+      ],
+      "frequency" : 4241,
+      "mnemonic" : "reliable（可靠的；可信赖的）+ -ity（名词后缀，表性质）→可靠",
+      "phonetic" : "rɪˌlaɪəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "reliability"
+    },
+    {
+      "collocations" : [
+        "self-reliance：自力更生",
+        "place reliance on：依靠；信任",
+        "heavy reliance on one client：过分依赖某一个客户\nthe country’s increasing reliance on foreign aid：这个国家日益依赖外来\n援助"
+      ],
+      "definition" : "依赖；依靠；信任",
+      "examples" : [
+
+      ],
+      "frequency" : 7053,
+      "mnemonic" : "reli（=rely：依靠；信任）+ -ance（名词后缀）→依赖；依靠；信任",
+      "phonetic" : "rɪˈlaɪəns",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "reliance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "依赖性的；依靠的",
+      "examples" : [
+        "These people are not wholly reliant on Western charity.\n这些人并非完全依赖西方的施舍。"
+      ],
+      "frequency" : 16107,
+      "mnemonic" : "reli（=rely：依赖；依靠）+ -ant（形容词后缀）→依赖性的；依靠的",
+      "phonetic" : "rɪˈlaɪənt",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "reliant"
+    },
+    {
+      "collocations" : [
+        "to attend\/hold a rally：参加\/召集大会",
+        "rally together：集合到一起",
+        "a long rally：一阵长时间的连续对打",
+        "rally driving：公路赛车",
+        "He never really rallied after the operation.\n手术后，他根本没有真正康复。",
+        "After a brief rally the shares returned to $2.15.\n短暂的反弹之后，股票回到了$2.15。",
+        "From that battle Dunant determined to form a body of people who would",
+        "rally together in times of war and attend to the needs of wounded and\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "阅读难点：in times of：在……时候",
+        "attend to sb.：照顾某人"
+      ],
+      "definition" : "&vi. 一致支持；团结起来；集合 vi. 复原，恢复健康，振作精神；价格回升（反 弹） n. 集会；恢复健康，好转；（网球、羽毛球、壁球中的）连续对打；（汽车、摩托车等的）拉力赛",
+      "examples" : [
+        "Many national newspapers rallied to his support.\n许多全国性报纸一致对他表示支持。\ndying.\n从那次战役后，Dunant就决定去组织一批人，这些人能在战时集合到\n一起，去照顾受伤者和将死之人的需求。"
+      ],
+      "frequency" : 4675,
+      "mnemonic" : "r（=re：又；再）+ al（=all：所有）+ -ly（=tie：系；捆）→又一次将大\n家捆绑在一起→集合，团结起来；复原；价格回升；集会；恢复好转",
+      "phonetic" : "ˈrælɪ",
+      "pos" : "vt.",
+      "rootHint" : "li",
+      "word" : "rally"
+    },
+    {
+      "collocations" : [
+        "the rallying of students：学生的集合"
+      ],
+      "definition" : "集合；公路汽车拉力赛",
+      "examples" : [
+
+      ],
+      "frequency" : 17992,
+      "phonetic" : "ˈræliɪŋ",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "rallying"
+    },
+    {
+      "collocations" : [
+        "oblige sb. to do sth.：强迫某人做……",
+        "be obliged to do sth.：有责任做\/不得不做……",
+        "oblige to sb.：感激某人",
+        "It is really kind of you to give me so much help; I really feel obliged to",
+        "They are obliged to view customers’ safety as their first concern."
+      ],
+      "definition" : "（以法律、义务等）强迫，迫使；（根据要求或需要）帮忙，效劳",
+      "examples" : [
+        "1) 你真好，给了我那么多帮助，我真是太感激你了。\nyou.\n2) 写作例句：他们有责任把消费者的安全当作头等大事。\n3) Call me if you need any help—I’d be happy to oblige.\n若有需要，尽管给我打电话。我很乐意帮忙。"
+      ],
+      "frequency" : 6792,
+      "mnemonic" : "ob-（to）+ lig-（=tie：系；绑）+ e→被绑去做事→强迫，迫使；责",
+      "phonetic" : "əˈblaɪdʒ",
+      "pos" : "vt.",
+      "rootHint" : "lig",
+      "word" : "oblige"
+    },
+    {
+      "collocations" : [
+        "legal\/professional\/financial obligations：履行法律\/职业\/财务责任",
+        "feel an obligation to do sth.：感觉做……是一种义务"
+      ],
+      "definition" : "义务；职责；（已承诺的或法律等规定的）义务，责任",
+      "examples" : [
+
+      ],
+      "frequency" : 3013,
+      "mnemonic" : "ob-（=to：去）+ lig-（捆；约束）+ -ation（=-ate+ -ion：复合名词后\n缀）→绑在你身上的东西→义务；职责；责任",
+      "phonetic" : "ɒblɪˈgeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "lig",
+      "word" : "obligation"
+    },
+    {
+      "collocations" : [
+        "a year for life.\n根据分居协议，他必须每年向前妻支付5万英镑。\n笔 记 区"
+      ],
+      "definition" : "强迫；迫使",
+      "examples" : [
+        "Under a separation agreement, he was obligated to pay his ex-wife £50,000"
+      ],
+      "frequency" : 11615,
+      "mnemonic" : "ob-（=to：去）+ lig-（捆；约束）+ -ate（使动词后缀）→=to bind,\nfasten：去捆绑；比喻义为把某人置于……义务之下→强迫；迫使",
+      "phonetic" : "ˈɒblɪgeɪt",
+      "pos" : "vt.",
+      "rootHint" : "lig",
+      "word" : "obligate"
+    },
+    {
+      "collocations" : [
+        "obligatory course：必修课",
+        "She was wearing the obligatory sweater and pearl necklace.\n她穿着那件经常穿的毛衣，戴着那串惯常戴的珍珠项链。\n近义词：compulsory：（因法律或规则而）必须做的，强制的，强迫的\n反义词：optional：可选择的；选修的",
+        "optional course：选修课"
+      ],
+      "definition" : "（按照规定或法律）必须履行的，强制性的；习惯性的，礼节性的，随大溜的",
+      "examples" : [
+        "It is obligatory for all employees to wear protective clothing.\n所有员工必须穿防护服装。"
+      ],
+      "frequency" : 14377,
+      "mnemonic" : "ob-（=to：去）+ -lig-（捆；约束）+ -atory（-ate+ -ory，形容词后缀）\n→去捆绑、约束的→必须履行的，强制性的；习惯性的，礼节性的",
+      "phonetic" : "əˈblɪgətrɪ",
+      "pos" : "adj.",
+      "rootHint" : "lig",
+      "word" : "obligatory"
+    },
+    {
+      "collocations" : [
+        "be liable to：易于……；有……的倾向",
+        "be liable for their customers’ misfortunes：为消费者的不幸负责",
+        "When a man is in adversity, he is liable to give up. But if he can persist for\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "a while, maybe he will embrace success."
+      ],
+      "definition" : "必须按法律做（某事），负有……责任的；有……倾向的，易于……的；易受……影响的",
+      "examples" : [
+        "Technology is liable to error.\n科学容易出错。",
+        "当一个人身处逆境时，很容易想到放弃，但是只要再坚持一下，\n说不定就可以迎来成功。"
+      ],
+      "frequency" : 8470,
+      "mnemonic" : "li-（=tie：系，捆，绑=bind）+ -able（形容词后缀）→负有……责任\nli-（=lean：依靠，倾）+ -able（形容词后缀）→有……倾向的；容",
+      "phonetic" : "ˈlaɪəbl",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "liable"
+    },
+    {
+      "collocations" : [
+        "of responsibility, he will shoulder more liability\/obligation of supporting\nhis parents.\n的义务。\n人们完全有理由相信，人一旦有了责任感，就会肩负起更多赡养老人",
+        "Since his injury, Jones has become more of a liability than an asset to the",
+        "managerial career.\n在管理事业中，一个人的事物资产和负债都不是那么的重要。\n阅读难点：count v. 有价值，有重要意义"
+      ],
+      "definition" : "（法律上对某事物的）责任，义务；惹麻烦的人（或事）；负债，债务",
+      "examples" : [
+        "It is entirely reasonable for people to believe that once a man has a sense\nteam.\n琼斯负伤以来，与其说他是全队的骨干倒不如说他已成为队里的累赘。\nOne’s physical assets and liabilities don’t count all that much in a"
+      ],
+      "frequency" : 4164,
+      "mnemonic" : "liable（负有责任的）+ -ity（名词后缀）→责任，义务；负债；惹麻",
+      "phonetic" : "ˌlaɪəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "liability"
+    },
+    {
+      "collocations" : [
+        "in close liaison with：与……密切配合",
+        "liaison office：联络处",
+        "She acts as a liaison between patients and staff.\n她担当病人和医务人员之间的联络员。\n带有-ison后缀的单词：\ngarrison：gar-（=原始日耳曼语词根war-=to protect, guard：保护；防\n20000 词汇巅峰\n速\n记\n卫；警戒）+ -ison（名词后缀）→保卫国家、城池的人→驻军；卫戍\n笔 记 区\n部队\ncomparison：com-（=with, together：一起）+ par-（=equal：平等的）\n+ -ison（名词后缀）→把两个事物放在一起，把他们看作平等的，进\n行比较→比较；对比"
+      ],
+      "definition" : "联络，联系；联络员，联系人；（尤指一方或双方已婚的）私通，通奸",
+      "examples" : [
+        "Liaison between police forces and the art world is vital to combat art\ncrime.\n警方和艺术界之间的联络对于打击艺术犯罪是至关重要的。"
+      ],
+      "frequency" : 8369,
+      "mnemonic" : "lia-（捆）+ ison（名词后缀）→一捆在一起→a union, a binding\ntogether：联系；联络员",
+      "phonetic" : "lɪˈeɪzn",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "liaison"
+    },
+    {
+      "collocations" : [
+        "A ligament is a band of strong tissue in a person’s body which connects"
+      ],
+      "definition" : "韧带",
+      "examples" : [
+        "I’ve torn a ligament.\n我的韧带撕裂了。\n释义：（N-COUNT）韧带\nbones."
+      ],
+      "frequency" : 11878,
+      "mnemonic" : "lig-（=to tie, bind：绑定；连接）+ -a- + -ment（名词后缀）→连接骨\n头的组织→韧带",
+      "phonetic" : "ˈlɪgəmənt",
+      "pos" : "n.",
+      "rootHint" : "lig",
+      "word" : "ligament"
+    },
+    {
+      "collocations" : [
+        "in a different league from：与……不属同一个级别",
+        "in a league of one’s own：独领风骚",
+        "major-league baseball：棒球大联赛",
+        "in league with sb.：（与……）秘密串通，勾结",
+        "Her success has taken her out of my league.\n她的成功使她和我不再处于同一个等级上了。"
+      ],
+      "definition" : "联盟，同盟；（质量、能力等的）级别，水平；（体育运动队的）联合会，联赛",
+      "examples" : [
+        "A house like that is out of our league (= too expensive for us).\n那样的房子不是我们这号人买得起的。"
+      ],
+      "frequency" : 1965,
+      "mnemonic" : "leag（=to tie, bind：系；捆绑；约束）+ -ue（名词后缀）→捆绑，约\n束在一起的人或事物（如队伍）→引申词义联盟，同盟；级别，水",
+      "phonetic" : "liːg",
+      "pos" : "n.",
+      "rootHint" : "li",
+      "word" : "league"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "围攻；包围 n. 围攻，包围，被围攻的营地；（联盟、联合会等的）盟员，会员",
+      "examples" : [
+
+      ],
+      "frequency" : 16750,
+      "mnemonic" : "league（联盟；同盟）+ -r（名词后缀）→盟员；会员\nleague（联盟；同盟）+ -r（名词后缀）→结成（军事联盟）去攻打\n→围攻；包围；被围攻的营地",
+      "phonetic" : "ˈliːgə",
+      "pos" : "vt.",
+      "rootHint" : "li",
+      "word" : "leaguer"
+    },
+    {
+      "collocations" : [
+        "the beleaguered party leader：那位饱受批评的政党领导人",
+        "supplies for the beleaguered city：给受围困城市的供给品"
+      ],
+      "definition" : "饱受批评的；处于困境的；受到围困（或围攻）的",
+      "examples" : [
+        "There have been seven coup attempts against the beleaguered government.\n已有过7次政变企图要颠覆这个饱经风霜的政府。"
+      ],
+      "frequency" : 13088,
+      "mnemonic" : "be-（=around：在……四周）+ leaguer（包围；围攻）+ -ed（形容词\n后缀）→在……四周包围、围攻某人的→饱受批评的；处于困境的；",
+      "phonetic" : "bɪˈliːɡərd",
+      "pos" : "adj.",
+      "rootHint" : "li",
+      "word" : "beleaguered"
+    },
+    {
+      "collocations" : [
+        "aluminium alloy：铝合金"
+      ],
+      "definition" : "把……铸成合金（尤指掺入一种价值低的金属） n. 合金",
+      "examples" : [
+        "Bronze is an alloy of copper and tin.\n青铜是一种铜锡合金。"
+      ],
+      "frequency" : 12103,
+      "mnemonic" : "al-（=to）+ loy（=-ly-=tie, bind：捆；绑；约束）→把多种元素捆在\n一起→合金，特指把贵金属和贱金属合在一起冶炼",
+      "phonetic" : "ˈælɒɪ",
+      "pos" : "vt.",
+      "rootHint" : "li",
+      "word" : "alloy"
+    }
+  ]
+}

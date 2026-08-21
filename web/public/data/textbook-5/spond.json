@@ -1,0 +1,703 @@
+{
+  "chapter" : "32",
+  "chapterOrder" : 132,
+  "id" : "spond",
+  "meaningEn" : "make answer, give a reply in words，其含义是“回",
+  "roots" : [
+    "spond",
+    "spons"
+  ],
+  "semanticLabel" : "make answer, give a reply in words，其含义是回",
+  "source" : "textbook-5",
+  "titleZh" : "make answer, give a reply in words，其含义是回",
+  "words" : [
+    {
+      "collocations" : [
+        "respounden, from Old French respondere “respond, correspond” and",
+        "directly from Latin respondere “respond, answer to, promise in return”.",
+        "Related: Responded; responding.",
+        "respond to：回应……"
+      ],
+      "definition" : "&vi. 回应 vi. 应对；做出反映",
+      "etymology" : "“Make answer, give a reply in words; make a liturgical response,” c. 1300,",
+      "examples" : [
+
+      ],
+      "frequency" : 923,
+      "mnemonic" : "re-（=back：回复）+ spond-（回应；回答）→做出回应→回应；应",
+      "phonetic" : "rɪˈspɒnd",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "respond"
+    },
+    {
+      "collocations" : [
+        "in response to：作为……的回应",
+        "in response：作为回应",
+        "a positive response：积极的反应",
+        "the price has risen and, in response, people have looked for new sources of",
+        "supply, tried to find ways to use less of the material, or looked for a new\nsubstitute.\n所发生的事情是，每次一种物质似乎要用尽的时候，价格就会上升。\n于是，人们已经寻找新的供应源，试图找到方法尽量去少用该物质，\n或者找一个新的替代品。"
+      ],
+      "definition" : "反应；回答",
+      "examples" : [
+        "What has happened is that every time a material seems to be running short,"
+      ],
+      "frequency" : 726,
+      "mnemonic" : "re-（=back：回复）+ -spons-（回应；回答）+ -e→允诺给予回复→",
+      "phonetic" : "rɪˈspɒns",
+      "pos" : "n.",
+      "rootHint" : "spons",
+      "word" : "response"
+    },
+    {
+      "collocations" : [
+        "a responsible position：一个责任重大的职位"
+      ],
+      "definition" : "负责的；向……汇报的；有责任心的；责任重大的",
+      "examples" : [
+        "I’m responsible to my board of directors.\n我向我的董事会汇报。"
+      ],
+      "frequency" : 1372,
+      "mnemonic" : "respons（=respond：回应；应对）+ -ible（可以；能）→可以做出回\n应的→负责的；有责任心的",
+      "phonetic" : "rɪˈspɒnsɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "spons",
+      "word" : "responsible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不负责任的；不可靠的",
+      "examples" : [
+
+      ],
+      "frequency" : 8123,
+      "mnemonic" : "ir-（=not：不，表相反）+ responsible（负责的）→不负责任的；不",
+      "phonetic" : "ˌɪrɪˈspɒnsəbl",
+      "pos" : "adj.",
+      "rootHint" : "spons",
+      "word" : "irresponsible"
+    },
+    {
+      "collocations" : [
+        "be responsible for：为……负责",
+        "take one’s responsibility：负责任",
+        "sense of responsibility：责任感；责任心",
+        "have a responsibility to her fellow creatures：对她的同胞们负有义务"
+      ],
+      "definition" : "责任；职责；职权；义务1071",
+      "examples" : [
+
+      ],
+      "mnemonic" : "responsibil（=responsible：负责的）+ ity（名词后缀）→责任；职",
+      "phonetic" : "rɪˌspɒnsəˈbɪlətɪ",
+      "pos" : "n.",
+      "rootHint" : "spons",
+      "word" : "responsibility"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "回答问题的人；（尤指）调查对象",
+      "examples" : [
+        "Sixty percent of the respondents said they disapproved of the president’s"
+      ],
+      "frequency" : 2561,
+      "mnemonic" : "respond（=answer：回答）+ -ent（表示人）→回答问题的人；（尤",
+      "phonetic" : "rɪˈspɒnd(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "respondent"
+    },
+    {
+      "collocations" : [
+        "an easy, responsive little girl：一个随和、敏感的小姑娘",
+        "not responsive to treatment：治疗无效",
+        "a responsive and enthusiastic audience：反应热烈又热情的观众"
+      ],
+      "definition" : "反应敏捷的；反应积极的；反应热烈的",
+      "examples" : [
+
+      ],
+      "frequency" : 7025,
+      "mnemonic" : "respons（=response：反应；回答）+ -ive（形容词后缀）→反应敏捷",
+      "phonetic" : "rɪˈspɒnsɪv",
+      "pos" : "adj.",
+      "rootHint" : "spons",
+      "word" : "responsive"
+    },
+    {
+      "collocations" : [
+        "to act responsibly：办事认真负责"
+      ],
+      "definition" : "认真负责地；可信赖地",
+      "examples" : [
+
+      ],
+      "frequency" : 13854,
+      "phonetic" : "rɪˈspɒnsəbli",
+      "pos" : "adv.",
+      "rootHint" : "spons",
+      "word" : "responsibly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "敏感；迅速积极的反应",
+      "examples" : [
+        "Such responsiveness to public pressure is extraordinary.\n对公众压力如此快速积极的反应是非凡的。"
+      ],
+      "frequency" : 14393,
+      "phonetic" : "rɪˈspɑnsɪvnɪs",
+      "pos" : "n.",
+      "rootHint" : "spons",
+      "word" : "responsiveness"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "响应器；回答者",
+      "examples" : [
+
+      ],
+      "frequency" : 16589,
+      "mnemonic" : "respond（反应；回答）+ -er（名词后缀）→响应器；回答者",
+      "phonetic" : "rɪˈspɒndə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "responder"
+    },
+    {
+      "collocations" : [
+        "communication with→相一致；相当于；通信",
+        "correspond to sth.：与……一致",
+        "The British job of Lecturer corresponds roughly to the US Associate\nProfessor. 英国的讲师职位大致相当于美国的副教授。\n近义词：agree, equivalent：同意；赞成；相等的\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "-recip （相互动词）.相一致；相当于；通信",
+      "examples" : [
+        "Your account and hers do not correspond. 你说的情况与她说的不相符。"
+      ],
+      "frequency" : 5489,
+      "mnemonic" : "cor-（=con-=com-：共同）+ respond（=to answer：回应）→共同\n回应，彼此回应→to be in agreement, to be in harmony with, to hold",
+      "phonetic" : "kɒrɪˈspɒnd",
+      "pos" : "v",
+      "rootHint" : "spond",
+      "word" : "correspond"
+    },
+    {
+      "collocations" : [
+        "be in correspondence with sb.：与……一致；和……通信",
+        "personal \/ private correspondence：私人来往信件",
+        "enter into any correspondence with someone：与……通信联系",
+        "him for several years.\n我从未见过那个教授，尽管我已经和他通信有好几年了。",
+        "There is a close correspondence between the two extracts.\n这两段摘录如出一辙。"
+      ],
+      "definition" : "通信；信件；一致",
+      "examples" : [
+        "I have never met the professor though I have been in correspondence with"
+      ],
+      "frequency" : 6047,
+      "phonetic" : "kɒrɪˈspɒnd(ə)ns",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "correspondence"
+    },
+    {
+      "collocations" : [
+        "a foreign \/ war \/ sports, etc. correspondent：驻外、战地、体育等记者",
+        "a poor correspondent：懒于写信的人"
+      ],
+      "definition" : "（尤指对某一专题进行报道的）记者；通信者",
+      "examples" : [
+
+      ],
+      "frequency" : 2957,
+      "phonetic" : "kɒrɪˈspɒnd(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "correspondent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "符合的；相应的；相关的",
+      "examples" : [
+        "A change in the money supply brings a corresponding change in expenditure.\n货币供应量的改变随即引起支出的相应改变。\n近义词：equivalent：（价值、数量、意义、重要性等）相等的，相同的"
+      ],
+      "frequency" : 7567,
+      "phonetic" : "ˌkɒrɪˈspɒndɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "corresponding"
+    },
+    {
+      "collocations" : [
+        "a period of high demand and correspondingly high prices："
+      ],
+      "definition" : "相应地；相对地",
+      "examples" : [
+
+      ],
+      "frequency" : 19031,
+      "phonetic" : "ˌkɔrəˈspɑndɪŋli",
+      "pos" : "adv.",
+      "rootHint" : "spond",
+      "word" : "correspondingly"
+    },
+    {
+      "collocations" : [
+        "become increasingly despondent：越来越失望"
+      ],
+      "definition" : "沮丧的；失望的",
+      "etymology" : "“losing courage, falling into dejection,” 1690s.",
+      "examples" : [
+        "He was despondent over the breakup of his marriage."
+      ],
+      "frequency" : 19880,
+      "mnemonic" : "de-（=away：离开）+ spond（回应；回答）+-ent（形容词后缀）→\n没有回应的→沮丧的；失望的",
+      "phonetic" : "dɪˈspɒnd(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "despondent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "配偶",
+      "etymology" : "古希腊人在签订协议时都喜欢请神灵来做见证，方式就是在签订协 议的同时祭奠神灵，最常用的祭奠方式就是奠酒，即把酒洒在地上 请神灵享用。在希腊语中表示“奠酒”的单词是sponde，该词因而衍 生出“承诺、立约”的含义。Sponde进入拉丁语后演变为spondere， 立约人则称为sponsus。古人结婚其实就是签订婚约然后举行婚礼， 所以签订婚约的人也被称为sponsus。英语单词spouse（配偶）就来 自拉丁语sponsus，本意就是“签订了婚约的人”。与它同源的单词 是sponsor（赞助者、举办者），本意就是“承诺赞助或举办活动的 人”。",
+      "examples" : [
+        "You, or your spouse, must be at least 60 to participate.\n你或你的配偶至少要有60岁才能加入。"
+      ],
+      "frequency" : 3816,
+      "mnemonic" : "spouse = a husband or wife：配偶（指丈夫或妻子）",
+      "phonetic" : "spaʊz;-s",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "spouse"
+    },
+    {
+      "collocations" : [
+        "the spousal benefits：配偶福利"
+      ],
+      "definition" : "婚姻的；配偶的",
+      "examples" : [
+
+      ],
+      "frequency" : 17915,
+      "mnemonic" : "spouse（配偶）+ -al（形容词后缀）→婚姻的；配偶的",
+      "phonetic" : "ˈspaʊz(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "spousal"
+    },
+    {
+      "collocations" : [
+        "marriage, join in marriage”，引申含义为“adopt, embrace：采取；接\n受”。",
+        "current of air：移动空气；制造一股气流。"
+      ],
+      "definition" : "拥护；支持；赞成（信仰、政策等）",
+      "etymology" : "bhle- bhlē-, Proto-Indo-European root meaning “to blow,” possibly a variant of PIE root *bhel- (2) “to blow, swell.”",
+      "examples" : [
+        "They espoused the notion of equal opportunity for all in education.\n他们赞同在教育方面人人机会均等的观念。"
+      ],
+      "frequency" : 10211,
+      "mnemonic" : "e-（缓音字母）+ spouse（配偶）→比喻义相互扶持，相互支持→拥",
+      "phonetic" : "ɪˈspaʊz;e-",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "espouse"
+    },
+    {
+      "collocations" : [
+        "blow on his fingers to warm them：向他的手指上呵气来暖手",
+        "blow the whole deal：使整笔交易告吹",
+        "The whistle blew and the train slid forward. 汽笛吹响，火车向前滑动。"
+      ],
+      "definition" : "把……吹到；吹；使（机会）告吹 vi. 刮风；呵气 vt.&vi. 吹（口哨、喇叭） n. 击打；打击",
+      "etymology" : "blow = move air, produce a current of air：移动空气；制造一股气流",
+      "examples" : [
+        "A chill wind blew at the top of the hill. 山顶上刮了一阵凉飕飕的风。"
+      ],
+      "frequency" : 1421,
+      "phonetic" : "bləʊ",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "blow"
+    },
+    {
+      "collocations" : [
+        "automobile tire）\nblowout = abundant feast：大餐；盛宴",
+        "a four-course blowout：有四道菜的大餐",
+        "to have a blowout：车胎爆裂"
+      ],
+      "definition" : "大餐；盛宴；（机动车行驶过程中的）爆胎",
+      "examples" : [
+
+      ],
+      "frequency" : 17661,
+      "mnemonic" : "blowout = outburst：爆发，破裂，引申义爆胎（a bursting of an",
+      "phonetic" : "ˈbləʊaʊt",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "blowout"
+    },
+    {
+      "collocations" : [
+        "blow-ups of James Dean：詹姆斯·迪恩放大照片",
+        "head for a major blowup：要大吵一架"
+      ],
+      "definition" : "照片（或图画、图案等）的放大；发脾气，突然的争吵",
+      "etymology" : "blow-up的原始含义有“explode：爆炸”，“inflate：使充气”，以及比 喻义“lose one’s temper：发脾气”。",
+      "examples" : [
+
+      ],
+      "frequency" : 19960,
+      "mnemonic" : "blow-up：enlargement from a photograph：照片、图画的放大\nblow-up：outburst, quarrel：突然的争吵，发脾气",
+      "phonetic" : "ˈbloʊʌp",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "blow-up"
+    },
+    {
+      "collocations" : [
+        "blast their way into the house using explosives：",
+        "blast his father to death：开枪打死了其父亲",
+        "a shotgun blast to the face：猎枪击中面部"
+      ],
+      "definition" : "（尤指炸弹引起的）大爆炸；枪击 vt. 由爆炸生成；用炸药20000 词汇巅峰速记炸；向……射击；借助射击或爆炸打开（通道）",
+      "examples" : [
+        "250 people were killed in the blast.\n250人在这次大爆炸中丧生。"
+      ],
+      "frequency" : 4794,
+      "mnemonic" : "blast=explosion, to blow up by explosion→大爆炸；借由爆炸打开；枪击",
+      "phonetic" : "blɑːst",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "blast"
+    },
+    {
+      "collocations" : [
+        "a hot-air blower：热风机 air blower：鼓风机"
+      ],
+      "definition" : "鼓风机，吹风机",
+      "examples" : [
+
+      ],
+      "frequency" : 15303,
+      "mnemonic" : "blow（吹）+ -er（名词后缀）→吹起风的机器→鼓风机，吹风机",
+      "phonetic" : "ˈbləʊə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "blower"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（公司等处）检举揭发舞弊内情的人；告密者",
+      "examples" : [
+        "An FBI whistle-blower testified to Congress about problems in the agency.\n一位联邦调查局的检举者就机构内的问题对国会作了证。"
+      ],
+      "frequency" : 18587,
+      "mnemonic" : "whistle（吹口哨）+ blower（鼓风机；吹风机）→向有关领导吹口\n哨，像鼓风机一样把掩藏的真相吹起来的人→检举揭发舞弊内情的人",
+      "phonetic" : "ˈwɪslbləʊə(r)",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "whistle-blower"
+    },
+    {
+      "collocations" : [
+        "a full-blown flower：一朵盛开的花"
+      ],
+      "definition" : "吹制的；膨胀的；开花的（也是blow的过去分词形式）",
+      "examples" : [
+
+      ],
+      "frequency" : 18636,
+      "phonetic" : "bləʊn",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "blown"
+    },
+    {
+      "collocations" : [
+        "inflate the life raft：给救生筏充气",
+        "inflate a film’s final cost：抬高影片的最终成本\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "Food prices are no longer inflating at the same rate as last year.\n食物价格的上涨率已不再像去年那样高了。",
+        "They inflated their clients’ medical injuries and treatment to defraud",
+        "insurance companies.\n他们夸大了客户受伤及治疗的情况以欺骗保险公司。"
+      ],
+      "definition" : "&vi. 使充气；抬高（物价）；涨高 vt. 夸大 adj. 高涨的",
+      "examples" : [
+        "The life jacket failed to inflate. 救生衣未能充气。"
+      ],
+      "frequency" : 9058,
+      "mnemonic" : "in-（=into：进入里面）+ fla-（=blow：吹气，使……膨胀）+ e + t（无意\n义）→把气体吹进……里面，使其膨胀→使充气；抬高；夸大；高涨的",
+      "phonetic" : "ɪnˈfleɪt",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "inflate"
+    },
+    {
+      "collocations" : [
+        "double-digit inflation：两位数的通货膨胀",
+        "general commodity-price inflation：一般商品价格通胀"
+      ],
+      "definition" : "通货膨胀；膨胀；夸张；自命不凡",
+      "examples" : [
+
+      ],
+      "frequency" : 3225,
+      "mnemonic" : "in（里面）+ fla-（=blow：吹气，使……膨胀）+t（无意义）+ion→",
+      "phonetic" : "ɪnˈfleɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "inflation"
+    },
+    {
+      "collocations" : [
+        "buy at inflated prices：以高价购买"
+      ],
+      "definition" : "充了气的；通货膨胀的；价格飞涨的",
+      "examples" : [
+
+      ],
+      "frequency" : 13091,
+      "phonetic" : "ɪnˈfleɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "inflated"
+    },
+    {
+      "collocations" : [
+        "play on the inflatable castle：在充气城堡上玩",
+        "inflatable boat：充气艇",
+        "floats, tubes and other inflatables：救生艇、轮胎和其他可充气物品"
+      ],
+      "definition" : "可充气的 n. 可充气物品",
+      "examples" : [
+
+      ],
+      "frequency" : 15109,
+      "mnemonic" : "inflat（=inflate：充气）+ -able（能够……的）→能够充气的→可充气",
+      "phonetic" : "ɪnˈfleɪtəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "inflatable"
+    },
+    {
+      "collocations" : [
+        "the inflationary effects of price rises：物价上涨引起的通货膨胀",
+        "continuing situation in which an increase in one causes an increase in the\nother）. 我们的经济处于工资和物价交互上涨的循环中。"
+      ],
+      "definition" : "通货膨胀的；引起通胀的",
+      "examples" : [
+        "Our economy is in an inflationary spiral of wage and price increases （=a"
+      ],
+      "frequency" : 16368,
+      "phonetic" : "ɪnˈfleɪʃənrɪ",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "inflationary"
+    },
+    {
+      "collocations" : [
+        "deflate one’s ego：伤害某人的自尊",
+        "the tyre deflate：轮胎漏气了"
+      ],
+      "definition" : "使泄气；挫败……的锐气 vi. 放气；漏气；紧缩（通货）adj. 泄气的（deflated）",
+      "examples" : [
+        "When she refused I felt deflated. 她拒绝时，我感到很沮丧。"
+      ],
+      "frequency" : 14075,
+      "mnemonic" : "de-（做相反的动作）+ -flat（膨胀；鼓气）+e→膨胀、鼓起的反面→",
+      "phonetic" : "dɪˈfleɪt",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "deflate"
+    },
+    {
+      "collocations" : [
+        "on Sundays, The New York Times is the third bestselling American",
+        "newspaper, behind the Wall Street Journal and USA Today.\n《纽约时报》是美国发行量排名第三的报纸，仅次于《华尔街日报》\n和《今日美国》，它吹嘘说工作日可以发售995000份报纸，周日可以\n发售140万份。",
+        "She is always boasting about how wonderful her children are.\n她总是夸耀她的孩子们多么出色。",
+        "The hotel also boasts two swimming pools and a golf course.\n那家宾馆还拥有两个游泳池和一个高尔夫球场。"
+      ],
+      "definition" : "&vi. 吹嘘；自吹自擂 vt. 取得（成功）；拥有 n. 吹嘘；夸口",
+      "examples" : [
+        "Boasting a print circulation of 995,000 on weekdays and 1.4 million"
+      ],
+      "frequency" : 4584,
+      "mnemonic" : "boa（=blow：吹）+ st（无意义）→吹嘘；夸耀",
+      "phonetic" : "bəʊst",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "boast"
+    },
+    {
+      "collocations" : [
+        "boost tax revenues：提高税收",
+        "boost fuel efficiency：提高燃料效率",
+        "boost the economy：促进经济发展",
+        "By some studies, sending children to art classes do boost \/ enhance \/\nstrengthen \/ heighten \/ improve their competitiveness in the future.\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "促进；增强（信心、士气） n. 推动力；（信心、士气的）增强",
+      "examples" : [
+        "It did give me a boost to win such a big event.\n赢了这么一场大型比赛，的确使我士气大振。",
+        "根据一些研究，送孩子去参加艺术班确实增强了孩子未来的竞争力。"
+      ],
+      "frequency" : 3726,
+      "mnemonic" : "可能与boast同源（boast：夸耀，吹嘘；也就是把事情说“大”，把\n程度“提高”）→促进；（信心、士气）增强；推动力",
+      "phonetic" : "buːst",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "boost"
+    },
+    {
+      "collocations" : [
+        "fire the booster：点燃助推器",
+        "the project’s boosters：这个项目的支持者"
+      ],
+      "definition" : "产生提升作用的事物；助推器；狂热支持者",
+      "examples" : [
+        "Praise is a great confidence booster.\n表扬是一个很好的自信提升剂。"
+      ],
+      "frequency" : 8298,
+      "phonetic" : "ˈbuːstə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "booster"
+    },
+    {
+      "collocations" : [
+        "flavor chicken dishes：给鸡肉调味",
+        "flavor enhancer：香味增强剂"
+      ],
+      "definition" : "味道 vt. 给（食物或饮料）调味",
+      "examples" : [
+        "I always add some paprika for extra flavor. 我总是加一些辣椒粉来提味。"
+      ],
+      "frequency" : 3164,
+      "mnemonic" : "来自古法语flaor“smell, odor：气味；味道”。",
+      "phonetic" : "ˈfleɪvə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "flavor"
+    },
+    {
+      "collocations" : [
+        "an incredibly flavorful dish：一道极为美味的菜"
+      ],
+      "definition" : "美味的",
+      "examples" : [
+        "The steak was flavorful and cooked as ordered.\n这个牛排很美味，是按要求烹调的。\n单词 blaze 表示“大肆宣扬”，来自 bla-=blow：吹。此外，blaze 还表示\n“大火，闪耀，熊熊燃烧”等含义。"
+      ],
+      "frequency" : 15403,
+      "mnemonic" : "flavor（味道）+ -ful（形容词后缀，表示充满……的）→充满香味的\n→美味的",
+      "phonetic" : "ˈfleɪvəfʊl",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "flavorful"
+    },
+    {
+      "collocations" : [
+        "a blaze of color：五彩缤纷",
+        "a blaze of publicity：铺天盖地的报道",
+        "The gardens blazed with color. 公园里色彩缤纷，艳丽夺目。",
+        "The story was blazed all over the daily papers.\n20000 词汇巅峰\n速\n记\n那个传闻被各家报纸炒得沸沸扬扬。\n笔 记 区"
+      ],
+      "definition" : "大肆宣扬 vi. 熊熊燃烧；闪耀 n. 大火；灿烂；大量",
+      "etymology" : "blaze（=to blow：吹）→make public：大肆宣扬 blaze：bright flame, fire：大火 熊熊燃烧（来自词根blas-：shine）",
+      "examples" : [
+        "The log fire was blazing merrily. 篝火正在欢快地熊熊燃烧着。"
+      ],
+      "frequency" : 8217,
+      "mnemonic" : "blaze：to shine, to burst into flame, burn brightly or vigorously→闪耀；",
+      "phonetic" : "bleɪz",
+      "pos" : "vt.",
+      "rootHint" : "spond",
+      "word" : "blaze"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（常带有俱乐部、学校、运动队等的颜色或徽章的）运动夹克；运动上衣",
+      "examples" : [
+
+      ],
+      "frequency" : 13321,
+      "phonetic" : "ˈbleɪzə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "blazer"
+    },
+    {
+      "collocations" : [
+        "blazing heat：十分炎热"
+      ],
+      "definition" : "酷热的；炽热的；极其愤怒的；感情强烈的",
+      "examples" : [
+        "She had a blazing row with Eddie and stormed out of the house.\n她和伊迪大吵一架后怒气冲冲地夺门而出。"
+      ],
+      "frequency" : 15742,
+      "mnemonic" : "blaz-（=fire：火）+ -ing（形容词后缀）→火一样的→酷热的；炽热",
+      "phonetic" : "ˈbleɪzɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "blazing"
+    },
+    {
+      "collocations" : [
+        "be ablaze with light：灯火辉煌"
+      ],
+      "definition" : "熊熊燃烧的；光彩夺目的",
+      "examples" : [
+        "Stores, houses, and vehicles were set ablaze.\n商店、房子和车辆被大火烧着了。"
+      ],
+      "frequency" : 17648,
+      "mnemonic" : "a-（=on）+ blaze（fire）→on fire：熊熊燃烧的；光彩夺目的",
+      "phonetic" : "əˈbleɪz",
+      "pos" : "adj.",
+      "rootHint" : "spond",
+      "word" : "ablaze"
+    },
+    {
+      "collocations" : [
+        "an opportunity to empty a full bladder：将涨满的膀胱排空的机会"
+      ],
+      "definition" : "膀胱；气囊（如球胆）",
+      "etymology" : "来自古英语blædre，来自原始日耳曼语blodram“something inflated： 鼓起的某物”。",
+      "examples" : [
+
+      ],
+      "frequency" : 9238,
+      "mnemonic" : "bla-（=blow：膨胀；鼓起）+ dder→膀胱；气囊",
+      "phonetic" : "ˈblædə",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "bladder"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "听诊中听到的吹风声或低沉、连续不清的声音；蛋奶酥",
+      "examples" : [
+
+      ],
+      "frequency" : 19035,
+      "mnemonic" : "souf（=sub-=under：在下面）+ fle（=to blow：吹）→从下面吹，发\n出响声→听诊中听到的吹风声或低沉、连续不清的声音；蛋奶酥\n来自souffler“to puff up：使肿胀”→蛋奶酥",
+      "phonetic" : "ˈsuːf(ə)l",
+      "pos" : "n.",
+      "rootHint" : "spond",
+      "word" : "souffle"
+    }
+  ]
+}

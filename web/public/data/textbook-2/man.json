@@ -1,0 +1,600 @@
+{
+  "chapter": "6",
+  "chapterOrder": 106,
+  "id": "man",
+  "meaningEn": "hand",
+  "meaningZh": "手",
+  "roots": [
+    "man",
+    "mani",
+    "men"
+  ],
+  "semanticLabel": "hand",
+  "source": "textbook-2",
+  "titleZh": "hand",
+  "words": [
+    {
+      "collocations": [
+        "manufacture process：制造工艺 steel manufacture：钢铁工业"
+      ],
+      "definition": "制造；制造业；产品 v. 生产；制造；捏造",
+      "examples": [],
+      "frequency": 5197,
+      "mnemonic": "man(=hand：手)+u(连接符号，无意义)+fact(做、制造)+ure(名词或动\n词后缀)→n. 手工制造(业)；v. 捏造",
+      "phonetic": "mænjʊˈfæktʃə",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manufacture"
+    },
+    {
+      "collocations": [
+        "manual labor：体力劳动，手工"
+      ],
+      "definition": "手工的；体力的 n. 手册；指南",
+      "examples": [],
+      "frequency": 4993,
+      "mnemonic": "man(=hand：手)+u(连接符号)+al(形容词或名词后缀)→手工的；手册",
+      "phonetic": "ˈmænjʊ(ə)l",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "manual"
+    },
+    {
+      "collocations": [
+        "green manure: 绿肥"
+      ],
+      "definition": "施肥于；耕种 n. 肥料；粪肥",
+      "examples": [],
+      "frequency": 10033,
+      "mnemonic": "man(=hand：手)+ure, 来自古法语manovrer；maneuver的词根-euver-，",
+      "phonetic": "məˈnjʊə",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "manure"
+    },
+    {
+      "collocations": [
+        "maneuver the 3-D image on the computer screen：在电脑屏幕上操纵3D",
+        "something into or out of an awkward position, you skilfully move it there.\n2. (VERB) 操纵；控制；耍花招 If you manoeuvre a situation, you",
+        "change it in a clever and skilful way so that you can benefit from it.\n3. (N-PLURAL) 军事演习 Military manoeuvres are training exercises",
+        "which involve the movement of soldiers and equipment over a large area."
+      ],
+      "definition": "操纵；移动；演习；调遣 n. 移动；操控手段；军事演习",
+      "examples": [],
+      "frequency": 7320,
+      "mnemonic": "man(手)+u(连接符号)+ver(=work：操作、工作)→用手操作→操纵；",
+      "phonetic": "məˈnʊvə",
+      "pos": "v.",
+      "rootHint": "man",
+      "word": "maneuver"
+    },
+    {
+      "collocations": [
+        "eye maneuvering：目光移动congressional maneuverings(考)：国会操纵"
+      ],
+      "definition": "移动；操纵",
+      "examples": [],
+      "frequency": 17006,
+      "mnemonic": "maneuver(移动，操纵)+ing(名词后缀)→移动；操纵",
+      "phonetic": "məˈnu:vəriŋ",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "maneuvering"
+    },
+    {
+      "collocations": [
+        "Biblical manuscript 圣经手抄本"
+      ],
+      "definition": "原稿；手稿",
+      "examples": [],
+      "frequency": 5176,
+      "mnemonic": "man(手)+u(连接符号)+script(写)→用手亲自书写的稿件→手稿",
+      "phonetic": "ˈmænjʊskrɪpt",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manuscript"
+    },
+    {
+      "collocations": [
+        "mandate letter：委任书"
+      ],
+      "definition": "授权，任期，委托书 v. 强制执行，授权",
+      "examples": [],
+      "frequency": 3759,
+      "mnemonic": "man-(手)+-dat(=-dit给；如edit：编辑；字面义“对外给出，公之于\n众”，编辑的目的是出版)→亲手给出，给出权力即“授权”，给出\n要求即“命令”→授权，任期，强制执行",
+      "phonetic": "ˈmændeɪt",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "mandate"
+    },
+    {
+      "collocations": [
+        "mandated benefits：法定福利"
+      ],
+      "definition": "获得授权的，委托统治的 v. 授权，命令，强制执行",
+      "examples": [],
+      "frequency": 17269,
+      "mnemonic": "mandate(命令，掌控)+-d(形容词后缀，过去式和过去分词后缀)→进\n行授权的，进行委托的→获得授权的，委托通知的，授权，命令",
+      "phonetic": "ˈmændetɪd",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "mandated"
+    },
+    {
+      "collocations": [
+        "mandatory requirement：强制性要求"
+      ],
+      "definition": "命令的；强制的；托管的",
+      "examples": [],
+      "frequency": 5182,
+      "mnemonic": "mandate(命令，掌控)+-ory(形容词后缀)→命令的，强制的，托管的",
+      "phonetic": "ˈmændət(ə)rɪ",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "mandatory"
+    },
+    {
+      "collocations": [
+        "command English with skills：用技巧熟练运用英语"
+      ],
+      "definition": "命令，完全控制，熟练地运用 n. 命令，掌握",
+      "examples": [],
+      "frequency": 2399,
+      "mnemonic": "com-(加强意义)+-man (=hand：手)→完全在手掌之中→完全掌控；",
+      "phonetic": "kəˈmɑːnd",
+      "pos": "vi.",
+      "rootHint": "man",
+      "word": "command"
+    },
+    {
+      "collocations": [],
+      "definition": "指挥官；司令官",
+      "examples": [],
+      "frequency": 2376,
+      "mnemonic": "command(命令，掌控)+-er(表示人或物，动作行为施动者)→发出命令\n的人→指挥官；司令官",
+      "phonetic": "kəˈmɑːndə",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "commander"
+    },
+    {
+      "collocations": [],
+      "definition": "司令，总指挥，最高统帅",
+      "examples": [],
+      "frequency": 17733,
+      "mnemonic": "command(命令，掌控)+in-chief(主要地，尤其；在首席地位)→主要\n地、在首席地位发出命令、进行指挥的人→总司令，总指挥，最高",
+      "phonetic": "kəˈma:ndə in tˈi:f",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "commander-in-chief"
+    },
+    {
+      "collocations": [
+        "controlling importance,” present-participle adjective from command (v.).\nMeaning “nobly dignified, compelling respect, characteristic of one fitted\nfor command” is from 1590s. Meaning “dominant by virtue of size or\nposition” is from 1630s. Related: Commandingly (mid-15c.) “imperiously.”",
+        "commanding height: 制高点"
+      ],
+      "definition": "指挥的；居高临下的；权威的；居领先地位的 v. 指挥；统帅；负责",
+      "etymology": "late 15c., “ruling, controlling, directing with authority, of great or",
+      "examples": [],
+      "frequency": 8577,
+      "mnemonic": "command(命令，掌控)+-ing(行为的产生)→指挥的，居高临下的，权",
+      "phonetic": "kəˈmɑːndɪŋ",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "commanding"
+    },
+    {
+      "collocations": [
+        "rules of behaviour which, according to the Old Testament of the Bible,",
+        "people should obey.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition": "戒条；戒律",
+      "examples": [],
+      "frequency": 15180,
+      "mnemonic": "command(命令)+-ment(名词后缀)→来自于圣经里，人们要服从的命\n令→诫命；法令",
+      "phonetic": "kəˈmɑːndmənt",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "commandment"
+    },
+    {
+      "collocations": [
+        "Boers against the natives for personal ends,” also the name of the leader",
+        "of the raid and the permission given for it, from Afrikaans commando, “a",
+        "troop under a commander,” from Portuguese commando, literally “party\ncommanded” (see command (v.)).\n英语单词commando来自南非荷兰语，字面意思是“有指挥的一群\n人”。这个单词原本指的是南非布尔人的一种民兵组织。布尔人是住\n在南非的荷兰移民后裔与少量德国人、法国人通婚后产生的白人民\n族，是南非的主要殖民者。17世纪时，荷兰人在南非建立殖民地之\n处，为了对付当地土著，殖民当局颁发《commando law》，强制要\n求所有殖民者在殖民地受到攻击时都必须武装起来，至少配备一匹马\n和一把枪。这些武装民兵的基本单位就是commando，而这种做法则\n被称为commandeer。在19世纪，荷兰殖民者大量涌入南非，殖民地\n快速扩张，与非洲土著人的冲突日益频繁。为了保障安全，已经获得\n自由的南非布尔人自愿恢复commando制度，组织起来，与非洲土著\n人展开武装斗争。在与人数超过己方的非洲土著人的战斗中，布尔人\n组织的commando逐渐掌握了各种突击和游记战术。英国殖民者自从\n18世纪末期登陆南非后，与已经扎根南非的布尔人之间展开了长达百\n年的争夺，先后爆发了两次战争，史称“布尔战争”(1880-1881年、\n1899-1902年)。在战争中，布尔人利用自己的commando制度，与占\n人数优势的英国军队展开了游击战。分成小股的布尔人commando利\n用自己的机动性、枪法和对地形的了解，对英国军队屡屡展开偷袭并\n得手。英国军队最后不得不依赖碉堡战术、焦土政策和残暴的集中营\n来对付布尔人。在两次布尔战争中，布尔人的commando给英国人乃\n至全世界留下了深刻印象，该词也因而进入了英语。"
+      ],
+      "definition": "n. 突击队，突击队员",
+      "etymology": "1791, in a South African context, “private military raid undertaken by the",
+      "examples": [],
+      "frequency": 11824,
+      "phonetic": "kəˈmɑːndəʊ",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "commando"
+    },
+    {
+      "collocations": [
+        "in commando, desperado, tornado, and other words of Spanish and",
+        "Portuguese origin, “person or group participating in an action,” from Latin\n-atus, past participle suffix of verbs of the first conjugation (see -ade).\n笔 记 区",
+        "Afrikaans) kommandeeren “to command” (for military service), from",
+        "French commander “to order” (see command (v.)). General sense “take",
+        "arbitrary possession of” is from 1900.",
+        "or building owned by someone else, they officially take charge of it so that",
+        "they can use it.\n2. (VERB) 强占；强取 To commandeer something owned by someone",
+        "else means to take charge of it so that you can use it."
+      ],
+      "definition": "vt. 征用，征募，强制入伍，霸占 / vt. 征募，霸占，没收；强征",
+      "examples": [],
+      "mnemonic": "command (命令，控制，拥有)+-ando (参与某行动的人或组织)→奉命\n去参与某行动的人→突击队\ncommand(命令，完全拥有，控制)+-eer(动词后缀)→(为军事目的)命\n令强行占有、控制→征募，霸占，强征",
+      "phonetic": "ˌkɒmənˈdɪə",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "commandeer",
+      "etymology": "1881, “to seize or force into military service,” from Dutch (especially",
+      "frequency": 19233
+    },
+    {
+      "collocations": [
+        "from the legal authority (patria potestas) of the pater familias, to make his",
+        "or her own way in the world; from assimilated form of ex- “out, away” (see",
+        "from PIE root *kap- “to grasp.” Related: Emancipated; emancipating.",
+        "emancipation proclamation: 解放黑奴宣言",
+        "from unpleasant or unfair social, political, or legal restrictions.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition": "解放，释放，脱离，解脱",
+      "etymology": "1620s, “set free from control,” from Latin emancipatus, past participle of emancipare “put (a son) out of paternal authority, declare (someone) free, give up one’s authority over,” in Roman law, the freeing of a son or wife ex-)+mancipare “deliver, transfer or sell,” from mancipum “ownership,” from manus “hand” (from PIE root *man- (2) “hand”)+capere “to take,”",
+      "examples": [],
+      "frequency": 16064,
+      "mnemonic": "e-(出来，离开out, away)+man-(手)+cip (=to take 带着；带领)+-ation(名\n词后缀)→带领(妻儿/奴隶)离开(父亲/奴隶主)之手→解放，释放，脱",
+      "phonetic": "ɪˌmænsɪˈpeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "emancipation"
+    },
+    {
+      "collocations": [
+        "to commit to writing;” hence “to set off, render agreeable, praise,” from",
+        "com-, here probably an intensive prefix (see com-),+mandare “to commit",
+        "praise them formally.\n2. (VERB) 推荐；举荐 If someone commends a person or thing to you,",
+        "they tell you that you will find them good or useful.\n3. (VERB) 被接受；得到认可 If something commends itself to you, you",
+        "approve of it."
+      ],
+      "definition": "推荐；称赞；把……委托",
+      "etymology": "mid-14c., “comenden, praise, mention approvingly,” from Latin commendare “to commit to the care or keeping (of someone), to entrust to; to one’s charge” (see mandate (n.)). A doublet of command.",
+      "examples": [],
+      "frequency": 10813,
+      "mnemonic": "com-加强意义+-men (=hand)+d (do, to give)→亲手交给某人→推荐，",
+      "phonetic": "kəˈmend",
+      "pos": "vt.",
+      "rootHint": "men",
+      "word": "commend"
+    },
+    {
+      "collocations": [
+        "recommend for：推荐，由于……而称赞"
+      ],
+      "definition": "推荐；建议；使……受欢迎1699",
+      "examples": [],
+      "mnemonic": "re(加强语气)+commend(推荐)→推荐，建议，介绍，使……受欢迎",
+      "phonetic": "rekəˈmend",
+      "pos": "vt.",
+      "rootHint": "men",
+      "word": "recommend"
+    },
+    {
+      "collocations": [
+        "on the recommendation of：通过……的推荐"
+      ],
+      "definition": "推荐；推荐信；建议",
+      "examples": [],
+      "frequency": 2792,
+      "mnemonic": "recommend (推荐，建议)+-ation (名词后缀)→推荐，建议，推荐信",
+      "phonetic": "ˌrekəmenˈdeɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "men",
+      "word": "recommendation"
+    },
+    {
+      "collocations": [
+        "highly recommended：重点推荐"
+      ],
+      "definition": "推荐，建议 adj. 被推荐的",
+      "examples": [],
+      "frequency": 8516,
+      "mnemonic": "recommend(推荐，建议)+-ed(过去分词后缀；形容词后缀，表示\n“已……的”、“被……的”、“……了的”)→被推荐的",
+      "phonetic": "ˌrekəˈmendɪd",
+      "pos": "v.",
+      "rootHint": "men",
+      "word": "recommended"
+    },
+    {
+      "collocations": [],
+      "definition": "强烈要求；需要；查询 n. (坚决或困难的)要求，(顾客的)需求",
+      "examples": [],
+      "frequency": 1293,
+      "mnemonic": "de-(强调，表完全彻底)+-man(手)+d (=to give：给)→强烈需要给到手\n里→强烈要求，(坚决或困难的)要求。",
+      "phonetic": "dɪˈmɑːnd",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "demand"
+    },
+    {
+      "collocations": [
+        "physically demanding: 需要有很好的体力",
+        "job or task requires a lot of your time, energy, or attention.\n2. (ADJ-GRADED) 难伺候；难取悦的；挑剔的；苛刻的 People who",
+        "are demanding are not easily satisfied or pleased."
+      ],
+      "definition": "(工作)要求高的，吃力的；(人)要求极严的，难以满足的 v. 强烈要求，逼问(command的现在分词)",
+      "examples": [],
+      "frequency": 9293,
+      "mnemonic": "demand (强烈要求)+-ing (分词后缀；形容词后缀)→要求极为严厉\n→(工作)要求高的，(人)苛求的",
+      "phonetic": "dɪˈmɑːndɪŋ",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "demanding"
+    },
+    {
+      "collocations": [
+        "concerns, on which one may at all times keep his hand: as, to manage a",
+        "house; to manage a theater. Its essential idea is that of constant attention to",
+        "details: as, only a combination of great abilities with a genius for industry",
+        "can manage the affairs of an empire.",
+        "managed to do something：设法做成某事"
+      ],
+      "definition": "管理；经营；设法；控制",
+      "etymology": "Manage literally implies handling, and hence primarily belongs to smaller",
+      "examples": [],
+      "frequency": 948,
+      "phonetic": "ˈmænɪdʒ",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "manage"
+    },
+    {
+      "collocations": [
+        "manageable hair：易于梳理的头发"
+      ],
+      "definition": "便于管理的；易控制的；易办的",
+      "examples": [],
+      "frequency": 10863,
+      "mnemonic": "mandate(命令，掌控)+-able(形容词后缀，表示“可以……的；容\n易……的”)→易管理的，易控制的",
+      "phonetic": "ˈmænɪdʒəb(ə)l",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "manageable"
+    },
+    {
+      "collocations": [
+        "managed care：管理式医疗"
+      ],
+      "definition": "经营，管理，设法做到 adj. 妥善照看的；受监管的",
+      "examples": [],
+      "frequency": 9867,
+      "mnemonic": "manage(经营，管理)+-d(过去式和过去分词后缀，形容词后缀)→经",
+      "phonetic": "ˈmænɪdʒd",
+      "pos": "v.",
+      "rootHint": "man",
+      "word": "managed"
+    },
+    {
+      "collocations": [
+        "project management: 项目管理",
+        "control and organizing of a business or other organization.\n2. (N-VAR-COLL) 资方；管理部门；经营者 You can refer to the",
+        "people who control and organize a business or other organization as the\nmanagement ."
+      ],
+      "definition": "管理；管理部门；经营手段；管理人员；操纵",
+      "examples": [],
+      "frequency": 909,
+      "mnemonic": "manage(经营，管理)+-ment(名词后缀)→经营管理的行为、手段或结\n果，进行管理的人或物→管理，管理部门，经营手段",
+      "phonetic": "ˈmænɪdʒm(ə)nt",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "management"
+    },
+    {
+      "collocations": [
+        "mismanagement areas：管理误区"
+      ],
+      "definition": "管理不善；处置失当",
+      "examples": [],
+      "frequency": 13640,
+      "mnemonic": "mis-(否定前缀)+manage(经营，管理)+-ment(名词后缀)→管理行为出\n现错误或管理失当→管理不善，处置失当",
+      "phonetic": "mɪsˈmænɪdʒmənt",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "mismanagement"
+    },
+    {
+      "collocations": [
+        "football manager：足球经理"
+      ],
+      "definition": "经理；管理人员",
+      "examples": [],
+      "frequency": 880,
+      "mnemonic": "manage(经营，管理)+-r(名词后缀，表示人)→参与经营、管理的人→",
+      "phonetic": "ˈmænɪdʒə",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manager"
+    },
+    {
+      "collocations": [
+        "managerial experience：管理经验"
+      ],
+      "definition": "管理的；经理的10100",
+      "examples": [],
+      "mnemonic": "manage(经营，管理)+-ial(形容词后缀，属于……的，有……性质\n的，具有……的)→具备经营、管理性质的，属于管理的→管理的，",
+      "phonetic": "mænəˈdʒiːrɪəl",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "managerial"
+    },
+    {
+      "collocations": [
+        "managing director：总经理，常务董事"
+      ],
+      "definition": "主管的，节省的",
+      "examples": [],
+      "frequency": 4962,
+      "mnemonic": "manage(管理)+-ing(形容词后缀)→管理的，主管的",
+      "phonetic": "ˈmænɪdʒɪŋ",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "managing"
+    },
+    {
+      "collocations": [
+        "French maniere “fashion, method, manner, way; appearance, bearing;",
+        "way of doing; way of conducting oneself toward others” are from c. 1300.\nMeaning “specific nature, form, way something happens” is mid-14c.",
+        "in this manner: 以这种方式"
+      ],
+      "definition": "方式，举止，态度，礼貌，风俗",
+      "etymology": "c. 1200, manere, “kind, sort, variety,” from Anglo-French manere, Old custom” (12c., Modern French manière), from Vulgar Latin *manaria, from fem. of Latin manuarius “belonging to the hand,” from manus “hand” (from PIE root *man- (2) “hand”). Meaning “customary practice” is from c. 1300. Senses of “way of doing something; a personal habit or",
+      "examples": [],
+      "frequency": 1831,
+      "mnemonic": "man-(手)+-er(抽象名词词尾)→手的姿势→举手投足，举止，方式",
+      "phonetic": "ˈmænə",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manner"
+    },
+    {
+      "collocations": [
+        "nervous/odd/irritating mannerisms 紧张的/古怪的/令人不快的习惯",
+        "释义：(N-COUNT) (某人特有的说话或动作的)习性，习气，习惯 Someone’s",
+        "mannerisms are the gestures or ways of speaking which are very",
+        "characteristic of them, and which they often use."
+      ],
+      "definition": "言谈举止，(绘画、写作中)过分的独立风格，风格主义",
+      "examples": [],
+      "frequency": 18813,
+      "mnemonic": "manner(举止，风格，习性)+-ism(名词后缀，表示行为，风格，主\n义)→言谈举止；风格注意",
+      "phonetic": "ˈmænərɪz(ə)m",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "mannerism"
+    },
+    {
+      "collocations": [
+        "from manicure (n.). Related: Manicured; manicuring.",
+        "manicure set: 美甲套装"
+      ],
+      "definition": "修剪(指甲)，护理(手) n. 指甲护理",
+      "etymology": "“apply manicure treatment to, care for (the hands and fingernails),” 1885,",
+      "examples": [],
+      "frequency": 16914,
+      "mnemonic": "mani(手)+cure(=care：护理)→给手(或手上的指甲)做护理→护理手，",
+      "phonetic": "ˈmænɪkjʊə",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "manicure"
+    },
+    {
+      "collocations": [
+        "short neatly cut grass."
+      ],
+      "definition": "(手或指甲)精心护理的，花园、草坪修剪整齐的",
+      "examples": [],
+      "frequency": 15668,
+      "mnemonic": "manicure(修剪、护理)+-d(形容词后缀)→精心护理的手、指甲；精心",
+      "phonetic": "ˈmænɪkjʊrd",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "manicured"
+    },
+    {
+      "collocations": [
+        "manifest itself 显现",
+        "manifested in the fact that the American auto industry had lost part of its",
+        "domestic market.\n美国在20世纪80年代在世界经济中失去主导地位表现在其国内汽车产\n业失去了部分国内市场这一事实中。(研真00)",
+        "The negligence for learning Chinese is manifested in the fact that there is",
+        "little time for Chinese learning in college."
+      ],
+      "definition": "表明(情感、态度或品质)，显现，证明 adj. 显然的，明显的",
+      "examples": [
+        "The loss of U.S. predominance in the world economy in the 1980s is",
+        "对中文的忽视表现在大学中几乎没有学习中文的时间这一事实\n中。(2010.6作文：忽视中文)"
+      ],
+      "frequency": 6017,
+      "mnemonic": "mani(手)+fest(击，打，抓住)→被现场抓住了→显而易见的，显然",
+      "phonetic": "ˈmænɪfest",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "manifest"
+    },
+    {
+      "collocations": [],
+      "definition": "表达，显示；表现；示威运动",
+      "examples": [],
+      "frequency": 6686,
+      "mnemonic": "manifest(表明，展现)+ation(名词后缀，表行为)→展现出来的行为→",
+      "phonetic": "ˌmænɪfeˈsteɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manifestation"
+    },
+    {
+      "collocations": [
+        "done or planned,” 1640s, from Italian manifesto “public declaration",
+        "explaining past actions and announcing the motive for forthcoming ones,”\noriginally “proof,” from Latin manifestus “plainly apprehensible, clear,",
+        "apparent, evident” (see manifest (adj.)), also used as a noun, “obvious",
+        "facts, palpable things.”",
+        "释义：(N-COUNT) (尤指政党或政府的)宣言，声明 A manifesto is a statement",
+        "published by a person or group of people, especially a political party, or a",
+        "government, in which they say what their aims and policies are.\n笔 记 区"
+      ],
+      "definition": "宣言；声明；告示",
+      "etymology": "“public declaration explaining reasons or motives for a course of actions",
+      "examples": [],
+      "frequency": 12944,
+      "mnemonic": "manifest(表达)+-o (名词后缀)→(公开)表达出来的话→宣言，声明，",
+      "phonetic": "mænɪˈfestəʊ",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manifesto"
+    },
+    {
+      "collocations": [
+        "people, you disapprove of them because they skilfully force or persuade",
+        "people to do what they want.\n2. (VERB) 摆布，操纵，处理(事件或局势) If you say that someone",
+        "manipulates an event or situation, you disapprove of them because they",
+        "use or control it for their own benefit, or cause it to develop in the way\nthey want.\n3. (VERB) 操作; 使用 If you manipulate something that requires skill,",
+        "such as a complicated piece of equipment or a difficult idea, you operate it",
+        "or process it."
+      ],
+      "definition": "操纵；控制；(熟练地)操作；巧妙地；处理；篡改",
+      "examples": [],
+      "frequency": 4291,
+      "mnemonic": "mani(=-man：手，由“手”引申为用手来“操纵、控制”)+pul(=full：\n充满，完全)+-ate(动词后缀)→完全控制，操纵→操纵，熟练操作，",
+      "phonetic": "məˈnɪpjʊleɪt",
+      "pos": "vt.",
+      "rootHint": "man",
+      "word": "manipulate"
+    },
+    {
+      "collocations": [],
+      "definition": "操作；操控；处理；篡改",
+      "examples": [],
+      "frequency": 5835,
+      "mnemonic": "manipulate(操作，操控)+ation(名词后缀)→操作，操控，处理，篡改",
+      "phonetic": "məˌnɪpjʊˈleɪʃ(ə)n",
+      "pos": "n.",
+      "rootHint": "man",
+      "word": "manipulation"
+    },
+    {
+      "collocations": [
+        "someone as manipulative, you disapprove of them because they skilfully",
+        "force or persuade people to act in the way that they want.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition": "善于摆布他人的；操纵的；控制的",
+      "examples": [],
+      "frequency": 14447,
+      "mnemonic": "manipulate(操作，操控)+ative(ate+ive：复合形容词后缀“表达“大，\n多”)→很会操作，控制别人的→善于摆布他人的；操纵的；控制的",
+      "phonetic": "məˈnɪpjʊlətɪv",
+      "pos": "adj.",
+      "rootHint": "man",
+      "word": "manipulative"
+    }
+  ]
+}

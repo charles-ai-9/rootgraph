@@ -1,0 +1,1860 @@
+{
+  "chapter" : "41",
+  "chapterOrder" : 141,
+  "id" : "ceiv",
+  "meaningZh" : "抓住；拿到。",
+  "roots" : [
+    "ceiv",
+    "cept"
+  ],
+  "semanticLabel" : "抓住；拿到。",
+  "source" : "textbook-5",
+  "titleZh" : "抓住；拿到。",
+  "words" : [
+    {
+      "collocations" : [
+        "receive awards：接受奖励",
+        "receive the blame：受到指责",
+        "receive the signal：接收信号"
+      ],
+      "definition" : "接到；受到；接待；接收（信号）",
+      "examples" : [
+
+      ],
+      "frequency" : 499,
+      "mnemonic" : "re-（=back：向后）+ -ceiv（=to take：抓住；拿到）+ e→拿回来→接",
+      "phonetic" : "rɪˈsiːv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "receive"
+    },
+    {
+      "collocations" : [
+        "a satellite receiver：卫星信号接收机"
+      ],
+      "definition" : "电话听筒；无线电接收机；（破产公司的）财产管理人；接收者",
+      "examples" : [
+        "Molly’s more of a giver than a receiver. 莫莉更乐于给予而不是接受。"
+      ],
+      "frequency" : 3432,
+      "phonetic" : "rɪˈsiːvə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "receiver"
+    },
+    {
+      "collocations" : [
+        "net \/ gross receipts：净收入；总收入",
+        "in receipt of：已收到；定期收到",
+        "on receipt of：在收到……后"
+      ],
+      "definition" : "收据；接收；（企业、银行、政府等）收到的款项，收入",
+      "examples" : [
+
+      ],
+      "frequency" : 6621,
+      "mnemonic" : "re-（再；又）+ -ceipt（-cept-：拿；取）→接收到的行为→接收；",
+      "phonetic" : "rɪˈsiːt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "receipt"
+    },
+    {
+      "collocations" : [
+        "receiving side：接球一方",
+        "be on the receiving end\/at the receiving end of something unpleasant：\n成为（不愉快事件的）承受方"
+      ],
+      "definition" : "接受的",
+      "examples" : [
+
+      ],
+      "frequency" : 11949,
+      "phonetic" : "rɪˈsi:vɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "receiving"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "被广为接受的；被一致认可的",
+      "examples" : [
+        "The received wisdom is that they cannot win.\n大家一致认为他们不会赢。"
+      ],
+      "frequency" : 16041,
+      "phonetic" : "rɪˈsiːvd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "received"
+    },
+    {
+      "collocations" : [
+        "the reception desk：服务台",
+        "a wedding reception：结婚喜筵",
+        "a warm reception：热烈欢迎\ngood \/ bad reception：良好的 \/ 差的接收效果\n笔 记 区"
+      ],
+      "definition" : "招待会；（酒店）接待处；（办公室或医院的）服务台；接待；接收效果",
+      "examples" : [
+
+      ],
+      "frequency" : 3981,
+      "mnemonic" : "recep（=receive：接待；接受）+ t（无意义）+ -ion（名词后缀）→",
+      "phonetic" : "rɪˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "reception"
+    },
+    {
+      "collocations" : [
+        "recipe缩写为Rx中得以存留。到了17世纪时逐渐用来表示“食谱”，\n更常用prescription来表示“处方”。",
+        "a traditional recipe：一个传统烹饪法",
+        "a recipe for chicken soup：鸡汤的做法"
+      ],
+      "definition" : "食谱；处方",
+      "etymology" : "来自拉丁语recipe“take!”古代西方医生在开处方时，第一个字通常 是拉丁语recipe，意思是take（服用），后来缩写为Rx，并且R的最后 一笔和x的第一笔重合。原始含义“处方”仅在药剂师在开处方时将",
+      "examples" : [
+        "Large-scale inflation is a recipe for disaster.\n大规模的通货膨胀有可能导致灾难。"
+      ],
+      "frequency" : 2532,
+      "phonetic" : "ˈresɪpɪ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "recipe"
+    },
+    {
+      "collocations" : [
+        "recipients of awards：领奖者",
+        "the largest recipient of U.S. foreign aid：最大的美国对外援助接受方"
+      ],
+      "definition" : "接受者",
+      "examples" : [
+
+      ],
+      "frequency" : 3957,
+      "mnemonic" : "re-（=back）+ -cip-（拿；取）+ -i- + -ent（名词后缀）→往回拿的人\n→接受者",
+      "phonetic" : "rɪˈsɪpɪənt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "recipient"
+    },
+    {
+      "collocations" : [
+        "the information receptors in our brain：我们大脑中的信息感受器"
+      ],
+      "definition" : "感受器",
+      "examples" : [
+
+      ],
+      "frequency" : 9981,
+      "mnemonic" : "recept（接受）+ -or（名词后缀）→感受器",
+      "phonetic" : "rɪˈseptə",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "receptor"
+    },
+    {
+      "collocations" : [
+        "receptive to his ideas：接受他的想法",
+        "not receptive to treatment：对治疗没反应"
+      ],
+      "definition" : "（对新思想或建议）乐于接受的；（对治疗）有反20000 词汇巅峰速记笔 记 区映的",
+      "examples" : [
+
+      ],
+      "frequency" : 9999,
+      "mnemonic" : "recept（接受）+ -ive（形容词后缀，有……特性、倾向的）→有接受\n倾向的→（对新思想或建议）乐于接受的；（对治疗）有反映的",
+      "phonetic" : "rɪˈseptɪv",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "receptive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "接待员",
+      "examples" : [
+
+      ],
+      "frequency" : 10522,
+      "mnemonic" : "reception（接待处）+ -ist（名词后缀，表示人）→接待员",
+      "phonetic" : "rɪˈsepʃ(ə)nɪst",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "receptionist"
+    },
+    {
+      "collocations" : [
+        "receptaculum “place to receive and store things”。",
+        "receptacle n. 容器（recept-：接受） manacle n. 手铐（man-手）\ntentacle n. 触角（tent-触，摸）pinnacle n. 尖塔（pinn-尖 + -acle）\nobstacle n. 障碍（ob-在+ sta-=stand：站立 + acle→站在中间的物品→\n障碍）\ndebacle n. 解冻；崩溃 （de-去掉 + bacle[=block] + -acle→去掉大块东西→\n解冰块）"
+      ],
+      "definition" : "容器",
+      "etymology" : "14世纪晚期，来自古法语receptacle （14世纪） and directly from Latin",
+      "examples" : [
+        "The seas have been used as a receptacle for a range of industrial toxins.\n海洋成了各种有毒工业废料的大容器。\n后缀-acle 为名词后缀，表示“……物品，状态”"
+      ],
+      "frequency" : 18879,
+      "mnemonic" : "recept-（to hold, contain：容纳；含有）+ -acle（名词后缀，表示物\n品）→容纳东西的器皿→容器",
+      "phonetic" : "rɪˈseptək(ə)l",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "receptacle"
+    },
+    {
+      "collocations" : [
+        "respect for the rights of man.\n作为一个在自由中孕育的国家，它已经向世界坚持了尊重人权的承诺。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "&vi. 想像；相信；认为；怀孕 vt. 构想出",
+      "examples" : [
+        "As a nation conceived in liberty, it has held out to the world the promise of"
+      ],
+      "frequency" : 4208,
+      "mnemonic" : "con-（强调前缀）+ -ceive（拿）→将（seed：精子）拿入（womb：\n子宫）→怀孕；孕育（也叫构思，构想）；比如“孕育”一个想法",
+      "phonetic" : "kənˈsiːv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "conceive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可想像的；可相信的",
+      "examples" : [
+        "Without their support, the project would not have been conceivable.\n若没有他们的支持，这个项目是无法想像的。"
+      ],
+      "frequency" : 10664,
+      "mnemonic" : "conceive（想象；相信）+ -able（形容词后缀，能够……的）→能够\n想象的→可想像的；可相信的",
+      "phonetic" : "kənˈsiːvəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "conceivable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可以想象地；可相信地",
+      "examples" : [
+        "The disease could conceivably be transferred to humans.\n这种疾病可能会传染给人类。"
+      ],
+      "frequency" : 12315,
+      "phonetic" : "kənˈsiːvəblɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceiv",
+      "word" : "conceivably"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不可思议的",
+      "examples" : [
+
+      ],
+      "frequency" : 13702,
+      "mnemonic" : "It is inconceivable that：令人难以置信的是",
+      "phonetic" : "ɪnkənˈsiːvəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "inconceivable"
+    },
+    {
+      "collocations" : [
+        "have a clear concept of sth.：对……有清晰的概念"
+      ],
+      "definition" : "概念；观念",
+      "examples" : [
+
+      ],
+      "frequency" : 1160,
+      "mnemonic" : "concep（=conceive：孕育）+ t（无意义）→概念（概念都是“构想”",
+      "phonetic" : "ˈkɒnsept",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "concept"
+    },
+    {
+      "collocations" : [
+        "the moment of conception：受孕的一刻"
+      ],
+      "definition" : "（对某事物的）概念；受孕",
+      "examples" : [
+        "The plan was brilliant in its conception but failed because of lack of\nmoney. 尽管这计划构想绝妙，但终因资金不足而告流产。"
+      ],
+      "frequency" : 4686,
+      "mnemonic" : "concept（=conceive：构想；怀孕）+ -ion（名词后缀）→概念；受孕",
+      "phonetic" : "kənˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "conception"
+    },
+    {
+      "collocations" : [
+        "common misconceptions：错误认识",
+        "a popular misconception：很多人都有的错误观念"
+      ],
+      "definition" : "误解；错误观念",
+      "examples" : [
+
+      ],
+      "frequency" : 9660,
+      "mnemonic" : "mis-（=wrong：错误的）+ conception（概念）→错误观念；误解",
+      "phonetic" : "mɪskənˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "misconception"
+    },
+    {
+      "collocations" : [
+        "a conceptual framework：概念框架",
+        "a conceptual model：概念模式"
+      ],
+      "definition" : "概念（上）的；观念（上）的",
+      "examples" : [
+
+      ],
+      "frequency" : 5593,
+      "mnemonic" : "concept（概念）+ -ual（形容词后缀，表示与……有关的）→与概念\n有关的→概念上的",
+      "phonetic" : "kənˈseptjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "conceptual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使……形成概念",
+      "examples" : [
+        "Tiffany conceptualized herself as a mother, whose main task was to feed\nher baby. 蒂芬妮把自己定位为主要任务是养育孩子的一位母亲。"
+      ],
+      "frequency" : 11304,
+      "mnemonic" : "conceptual（概念上的）+ -ize（动词后缀，表示使……）→使……形",
+      "phonetic" : "kənˈseptjʊəlaɪz",
+      "pos" : "vt.",
+      "rootHint" : "cept",
+      "word" : "conceptualize"
+    },
+    {
+      "collocations" : [
+        "in the conceptualization stage still：仍处于概念开发阶段"
+      ],
+      "definition" : "概念化",
+      "examples" : [
+
+      ],
+      "frequency" : 13107,
+      "phonetic" : "kənˌseptjʊəlaɪˈzeɪʃən",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "conceptualization"
+    },
+    {
+      "collocations" : [
+        "conceptually similar \/ distinct：概念上相似 \/ 不同"
+      ],
+      "definition" : "概念上地",
+      "examples" : [
+
+      ],
+      "frequency" : 15279,
+      "phonetic" : "kənˈseptʃuəli",
+      "pos" : "adv.",
+      "rootHint" : "cept",
+      "word" : "conceptually"
+    },
+    {
+      "collocations" : [
+        "The ill-advised conceit of the guardian angel dooms the film from the start.\n对守护天使的蹩脚设计弄巧成拙，从一开始就注定这部电影要失败。",
+        "The idea of the wind singing is a romantic conceit.\n20000 词汇巅峰\n速\n记\n风儿在唱歌这一巧妙的比喻很有浪漫色彩。\n笔 记 区"
+      ],
+      "definition" : "自负；骄傲自大；别出心裁但不实用的效果；别出心裁的比喻（metaphor）",
+      "examples" : [
+        "Reyes emits confidence without conceit.\n罗伊斯表现出自信但不自负。"
+      ],
+      "frequency" : 18541,
+      "mnemonic" : "conceive（想象）→conceit （n.） 参照deceit \/ deceive, receipt \/ receive\nn1. 对某人自己心智能力的过分夸大：自负；骄傲自大\nn2. 构思出来的别出心裁、富于机智的想法：别出心裁但不实用的效",
+      "phonetic" : "kənˈsiːt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "conceit"
+    },
+    {
+      "collocations" : [
+        "preconceive a result：预先设想一个结果"
+      ],
+      "definition" : "预想",
+      "examples" : [
+
+      ],
+      "mnemonic" : "pre-（=before：在前）+ conceive（构思）→提前构思→预想",
+      "phonetic" : "pri:kənˈsi:v",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "preconceive"
+    },
+    {
+      "collocations" : [
+        "preconceived notions about art：对于艺术的先入之见",
+        "no preconceived ideas：毫无成见"
+      ],
+      "definition" : "（观点）事先形成的；先入为主的",
+      "examples" : [
+
+      ],
+      "frequency" : 19712,
+      "mnemonic" : "preconceive（预想）+ -d（-ed形容词后缀去e）→（观点）事先形成",
+      "phonetic" : "ˌpriːkənˈsiːvd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "preconceived"
+    },
+    {
+      "collocations" : [
+        "preconceptions about life in South Africa：对南非生活的成见"
+      ],
+      "definition" : "先入之见；成见",
+      "examples" : [
+
+      ],
+      "frequency" : 19479,
+      "mnemonic" : "pre-（=before：在前；预先）+ conception（观念；想法）→预先、在\n前的想法→先入之见；成见",
+      "phonetic" : "priːkənˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "preconception"
+    },
+    {
+      "collocations" : [
+        "deceived by the entertainment industry.\n于是，一些杞人忧天者因被娱乐业欺骗了而起诉批评家和新闻记者。\n阅读难点：accuse sb. of sth.：因……而起诉某人"
+      ],
+      "definition" : "欺骗；行骗",
+      "examples" : [
+        "In response, the alarmists accuse critics and news reporters of being"
+      ],
+      "frequency" : 8554,
+      "mnemonic" : "de-（不好的）+ -ceiv-（拿，拿走）+ e→用不正当方式拿走→欺骗；",
+      "phonetic" : "dɪˈsiːv",
+      "pos" : "v.",
+      "rootHint" : "ceiv",
+      "word" : "deceive"
+    },
+    {
+      "collocations" : [
+        "a drama full of lies and deception：充满谎言和欺骗的一出戏"
+      ],
+      "definition" : "欺骗；受骗；诡计",
+      "examples" : [
+        "He admitted conspiring to obtain property by deception.\n他承认曾密谋通过欺骗获取财产。"
+      ],
+      "frequency" : 8347,
+      "mnemonic" : "de-（=from）+ -cept-（=to take, grasp：拿；握）+ -ion（名词词缀）\n→to take from：拿走（带某人偏离正确的道路）→欺骗（误导；谎",
+      "phonetic" : "dɪˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "deception"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "欺骗，欺诈（行为）；诡计",
+      "examples" : [
+        "He was accused of lies and deceit. 他被指控撒谎和欺诈。\n近义词：deception：欺骗；受骗"
+      ],
+      "frequency" : 16373,
+      "mnemonic" : "de-（=from）+ ceit（=-ceiv-：拿；取；抓）→引申义拿走→欺骗，",
+      "phonetic" : "dɪˈsiːt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "deceit"
+    },
+    {
+      "collocations" : [
+        "deceptive practices：欺骗性的做法",
+        "deceptive appearances：骗人的表象"
+      ],
+      "definition" : "欺骗性的；误导的；骗人的",
+      "examples" : [
+
+      ],
+      "frequency" : 11794,
+      "phonetic" : "dɪˈseptɪv",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "deceptive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "骗人地",
+      "examples" : [
+
+      ],
+      "frequency" : 16562,
+      "phonetic" : "dɪˈsɛptɪvli",
+      "pos" : "adv.",
+      "rootHint" : "cept",
+      "word" : "deceptively"
+    },
+    {
+      "collocations" : [
+        "except \/ except for：除了……",
+        "Children under five are excepted from the survey.\n五岁以下的儿童不在调查之列。"
+      ],
+      "definition" : "除……之外 conj. 除了…… vt. 不包括；把……除外",
+      "examples" : [
+        "He hadn’t eaten a thing except for one forkful of salad.\n除了一口沙拉，他什么都没吃。"
+      ],
+      "frequency" : 1850,
+      "mnemonic" : "ex-（=out：外面）+ -cept（=to take：拿）→to take out：拿到外面→",
+      "phonetic" : "ɪkˈsept",
+      "pos" : "prep.",
+      "rootHint" : "cept",
+      "word" : "except"
+    },
+    {
+      "collocations" : [
+        "with the exception of：除外",
+        "no exception：无例外",
+        "take exception to：厌恶；反感",
+        "without exception：无例外地",
+        "The law makes no exceptions.\n法律不搞例外。\n笔 记 区"
+      ],
+      "definition" : "例外",
+      "examples" : [
+        "He also took exception to having been spied on.\n他也厌恶被暗中监视。"
+      ],
+      "frequency" : 2423,
+      "phonetic" : "ɪkˈsepʃ(ə)n;ek-",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "exception"
+    },
+    {
+      "collocations" : [
+        "exceptional diligence：异常勤奋",
+        "exceptional achievement \/ talent：杰出的成就 \/ 人才\n近义词：outstanding, excellent：优秀的；杰出的\n反义词：unexceptional, unremarkable：不突出的；普通的"
+      ],
+      "definition" : "非凡的；例外的",
+      "examples" : [
+
+      ],
+      "frequency" : 6086,
+      "phonetic" : "ɪkˈsepʃ(ə)n(ə)l;ek-",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "exceptional"
+    },
+    {
+      "collocations" : [
+        "an exceptionally talented dancer：一位非凡有天赋的舞蹈家"
+      ],
+      "definition" : "非凡地；例外地8874",
+      "examples" : [
+        "Exceptionally, in times of emergency, we may send a team of experts.\n紧急情况下我们可以破例派遣一个专家队。"
+      ],
+      "phonetic" : "ɪkˈsepʃ(ə)nəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "cept",
+      "word" : "exceptionally"
+    },
+    {
+      "collocations" : [
+        "perceive risks：感知危险",
+        "plainer men; effort and ability were thought to account for their success.\n比起长相一般的人，英俊的男性管理者被认为更加的正直，努力和能\n力解释了他们的成功。",
+        "I perceived a change in his behaviour.\n我注意到他举止有些改变。",
+        "The patient was perceived to have difficulty in breathing.\n病人被发现呼吸困难。"
+      ],
+      "definition" : "感知到；觉察到；将……理解为；认为",
+      "examples" : [
+        "Handsome male executives were perceived as having more integrity than"
+      ],
+      "frequency" : 2184,
+      "mnemonic" : "per-（=thoroughly：彻底地）+ ceiv-（=to grasp, take：抓住；理解；\n领会）+ e→（彻底）感知；察觉；理解；认为",
+      "phonetic" : "pəˈsiːv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "perceive"
+    },
+    {
+      "collocations" : [
+        "visual perception：视觉感知",
+        "show great perception：显示出敏锐的洞察力",
+        "a general public perception：公众普遍认为"
+      ],
+      "definition" : "理解；看法；洞察力；（尤指通过视觉的）感知",
+      "examples" : [
+
+      ],
+      "frequency" : 1880,
+      "mnemonic" : "percept（理解；认知）+ -ion（名词后缀）→理解；看法；洞察力；",
+      "phonetic" : "pəˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "perception"
+    },
+    {
+      "collocations" : [
+        "weakness in translating new knowledge into new products and services.\n对英国大学界反复出现批评的是它在将新知识转化为新产品和服务方\n面的可见的弱点。"
+      ],
+      "definition" : "感知到的",
+      "examples" : [
+        "A recurring criticism of the UK’s university sector is its perceived"
+      ],
+      "frequency" : 4586,
+      "phonetic" : "pəˈsiːvd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "perceived"
+    },
+    {
+      "collocations" : [
+        "a perceptible change \/ increase \/ decline \/ impact：",
+        "the perceptible world：可感知的世界\n近义词：noticeable：显著的；显而易见的",
+        "a noticeable improvement：显而易见的改进\n反义词：imperceptible：（小得）无法察觉的，感觉不到的"
+      ],
+      "definition" : "可察觉到的；看得出的；可感知的",
+      "examples" : [
+
+      ],
+      "frequency" : 19843,
+      "mnemonic" : "percept（察觉；认知）+ -ible（能够…的）→可察觉到的；可感知的",
+      "phonetic" : "pəˈseptɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "perceptible"
+    },
+    {
+      "collocations" : [
+        "a highly perceptive comment：见地高明的评论",
+        "our innate perceptive abilities：我们天生的五官感觉能力"
+      ],
+      "definition" : "有洞察力的；感觉的，知觉的",
+      "examples" : [
+
+      ],
+      "frequency" : 15923,
+      "mnemonic" : "percept（=perceive：感知；觉察）+ -ive（形容词后缀）→有洞察力",
+      "phonetic" : "pəˈseptɪv",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "perceptive"
+    },
+    {
+      "collocations" : [
+        "perceptual skills：感知技能",
+        "perceptual knowledge：感性认识"
+      ],
+      "definition" : "理解的；感知的",
+      "examples" : [
+
+      ],
+      "frequency" : 12026,
+      "mnemonic" : "percept（感知；认识）+ -ual（形容词后缀）→理解的；感知的",
+      "phonetic" : "pəˈseptjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "perceptual"
+    },
+    {
+      "collocations" : [
+        "common misperception：普遍的错误观点"
+      ],
+      "definition" : "误解；错误想法",
+      "examples" : [
+
+      ],
+      "frequency" : 18967,
+      "mnemonic" : "mis-（=bad, wrong：不好的；错误的）+ perception（理解；看法）→\n错误的理解、看法→误解；错误想法",
+      "phonetic" : "ˌmɪspəˈsepʃən",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "misperception"
+    },
+    {
+      "collocations" : [
+        "be susceptible to（doing）sth.：易受……影响；容易……",
+        "She was both charming and susceptible. 她迷人而多情。",
+        "Walking with weights makes the shoulders very susceptible to injury.\n负重行走使肩膀很容易受伤。\n（写作，阅读）例句：与男性相比，女性在与应对压力的时候更容易患上郁\n抑症和焦虑症。",
+        "Women are particularly susceptible to developing depression and anxiety",
+        "disorders in response to stress compared to men.\n阅读难点：in response to：回应，应对"
+      ],
+      "definition" : "易受影响的；易受（伤）的，易患（病）的；感情丰富的；容许……的",
+      "examples" : [
+        "He’s highly susceptible to flattery. 他爱听恭维话。"
+      ],
+      "frequency" : 7140,
+      "mnemonic" : "sus-（=sub-：up from under：从下往上）+ -cept-（拿；抓住）+-ible\n（形容词后缀）→从上往下被抓住的，心情被占据的→易受影响的；",
+      "phonetic" : "səˈseptɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "cept",
+      "word" : "susceptible"
+    },
+    {
+      "collocations" : [
+        "susceptibility to disease：易患病的体质",
+        "the susceptibilities of the bereaved family：死者家人的感受",
+        "control his sensibility：控制自己敏锐的情感"
+      ],
+      "definition" : "易受影响（或损害）的状况；敏感性；感情的脆弱点",
+      "examples" : [
+        "I am well aware that in saying this I shall outrage a few susceptibilities.\n我十分清楚这样说会戳到一些人的痛处。\n近义词：sensibilities：敏感性"
+      ],
+      "frequency" : 14522,
+      "mnemonic" : "susceptibil（=susceptible：易受影响的）+ -ity（名词后缀）→易受影",
+      "phonetic" : "səˌseptɪˈbɪlɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "susceptibility"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "开始；开端",
+      "examples" : [
+        "The club has grown rapidly since its inception in 1990.\n这个俱乐部自从1990年成立以来发展迅速。"
+      ],
+      "frequency" : 10592,
+      "mnemonic" : "in-（=in）+ -cept（=-cip：to take, seize：抓住）+ -ion（名词后缀）\n→take in hand, begin：抓在手里→开始；开端",
+      "phonetic" : "ɪnˈsepʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "inception"
+    },
+    {
+      "collocations" : [
+        "an incipient economic recovery：一种初期的经济复苏",
+        "signs of incipient unrest：动乱的初期迹象"
+      ],
+      "definition" : "开始发生的；正在发展的",
+      "examples" : [
+
+      ],
+      "frequency" : 18033,
+      "mnemonic" : "in-（=in）+ -cip（=to take, seize：抓住）+ i + -ent（形容词后缀）→\n开始抓住的→开始发生的；正在发展的",
+      "phonetic" : "ɪnˈsɪpɪənt",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "incipient"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "拦截；截住",
+      "examples" : [
+        "The letter was intercepted. 信被截查了。"
+      ],
+      "frequency" : 7184,
+      "mnemonic" : "inter-（=between：在中间）+ -cept（=to take, catch：拿；抓住）→引",
+      "phonetic" : "ˌɪntəˈsept",
+      "pos" : "vt.",
+      "rootHint" : "cept",
+      "word" : "intercept"
+    },
+    {
+      "collocations" : [
+        "the interception of enemy radio signals：侦听敌方无线电信号"
+      ],
+      "definition" : "拦截；侦听",
+      "examples" : [
+
+      ],
+      "frequency" : 8417,
+      "mnemonic" : "interception：a seizing, taking away：抓住；夺走→拦截；侦听",
+      "phonetic" : "ˌɪntəˈsepʃən",
+      "pos" : "n.",
+      "rootHint" : "cept",
+      "word" : "interception"
+    },
+    {
+      "collocations" : [
+        "stressful situation, such as a job interview, or a court appearance.\n或许当你预料到一个有压力处境，比如求职面试或者出席法庭，你已\n经使用服装来增加自信。\n笔 记 区"
+      ],
+      "definition" : "预期；预先准备",
+      "examples" : [
+        "Perhaps you have used clothing to gain confidence when you anticipated a"
+      ],
+      "frequency" : 3215,
+      "mnemonic" : "anti-（前提，前）+ -cip-（拿）+-ate（动词后缀）→提前拿了→占\nanti-（前）+-cip-（=-pec=vis-）+-ate（动词后缀）→往前看→期望",
+      "phonetic" : "ænˈtɪsɪpeɪt",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "anticipate"
+    },
+    {
+      "collocations" : [
+        "the most eagerly anticipated rock event of the year："
+      ],
+      "definition" : "预期的；期望的",
+      "examples" : [
+
+      ],
+      "frequency" : 8950,
+      "phonetic" : "ænˈtɪsəˌpeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "anticipated"
+    },
+    {
+      "collocations" : [
+        "in anticipation of：预期某事的发生",
+        "happy \/ eager \/ excited anticipation：愉快的 \/ 殷切的 \/ 激动的期盼"
+      ],
+      "definition" : "预料；期盼",
+      "examples" : [
+
+      ],
+      "frequency" : 6273,
+      "phonetic" : "æntɪsɪˈpeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "anticipation"
+    },
+    {
+      "collocations" : [
+        "unanticipated costs：预料之外的费用"
+      ],
+      "definition" : "出乎意料的；未预见到的",
+      "examples" : [
+
+      ],
+      "frequency" : 16733,
+      "phonetic" : "ˌʌnænˈtɪsɪpetɪd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "unanticipated"
+    },
+    {
+      "collocations" : [
+        "humanistic disciplines：人文学科",
+        "strict discipline：严格的纪律约束"
+      ],
+      "definition" : "处罚；训练；自我控制 n. 纪律；自律；训练；（大学里的）学科",
+      "examples" : [
+        "He disciplined himself to exercise at least three times a week.\n他规定自己每周至少锻炼三次。"
+      ],
+      "frequency" : 2298,
+      "mnemonic" : "dis-（分开）+ -cip-（抓）+ l + -ine（名词后缀）→分别抓住进行惩\n罚，施行管教→处罚；纪律；自律\ndis-（分开）+ -cip-（获得；习得）+ l + -ine（名词后缀）→分别获\n得，习得→训练；学科",
+      "phonetic" : "ˈdɪsɪplɪn",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "discipline"
+    },
+    {
+      "collocations" : [
+        "take disciplined action against：对……进行纪律惩罚"
+      ],
+      "definition" : "有关纪律的；惩戒性的",
+      "examples" : [
+
+      ],
+      "frequency" : 8283,
+      "phonetic" : "ˈdɪsɪplɪn(ə)rɪ;ˌdɪsɪˈplɪn-",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "disciplinary"
+    },
+    {
+      "collocations" : [
+        "a discipline approach to management：一种训练有素的管理方法"
+      ],
+      "definition" : "（行为、工作方式）训练有素的",
+      "examples" : [
+
+      ],
+      "frequency" : 10880,
+      "phonetic" : "ˈdɪsɪplɪnd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "disciplined"
+    },
+    {
+      "collocations" : [
+        "interdisciplinary courses：跨学科课程",
+        "interdisciplinary research：跨学科研究"
+      ],
+      "definition" : "跨学科的",
+      "examples" : [
+
+      ],
+      "frequency" : 9329,
+      "mnemonic" : "inter-（=between：在…中间）+ disciplin（=discipline：学科）+ -ary\n（形容词后缀）→在多门学科之间的→跨学科的",
+      "phonetic" : "ɪntəˈdɪsɪplɪn(ə)rɪ;ˌɪntədɪsɪˈplɪn(ə)rɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "interdisciplinary"
+    },
+    {
+      "collocations" : [
+        "a disciple of the economist John Maynard Keynes：经济学家约翰·梅纳"
+      ],
+      "definition" : "信徒；追随者",
+      "etymology" : "来自拉丁语discipulus “pupil, student, follower”. 来自discere “to learn”.",
+      "examples" : [
+
+      ],
+      "frequency" : 8226,
+      "mnemonic" : "dis-（=to learn：学习）+ -cip-（=to take：抓住）+ -le（名词后缀，表\n人）→抓住……学习的人→信徒；追随者",
+      "phonetic" : "dɪˈsaɪp(ə)l",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "disciple"
+    },
+    {
+      "collocations" : [
+        "the principal reason：最重要原因",
+        "principal source of earnings：最重要的收入来源",
+        "principal of a loan：（贷款的）本金",
+        "principal and interest：本金及利息"
+      ],
+      "definition" : "最重要的 n. （中小学、大学）校长；学院院长；本金",
+      "examples" : [
+
+      ],
+      "frequency" : 3149,
+      "mnemonic" : "prin-（=prime：首要的）+ -cip-（=capere：拿）+ -al（形容词后缀）\n→that takes first:第一个拿的（人）→最重要的；校长→引申义为本金",
+      "phonetic" : "ˈprɪnsəp(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "principal"
+    },
+    {
+      "collocations" : [
+        "be controlled principally by：主要受制于"
+      ],
+      "definition" : "主要地；最重要地",
+      "examples" : [
+
+      ],
+      "frequency" : 10745,
+      "mnemonic" : "principal（主要的；最重要的）+ -ly（副词后缀）→主要地；首要地",
+      "phonetic" : "ˈprɪnsɪp(ə)lɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceiv",
+      "word" : "principally"
+    },
+    {
+      "collocations" : [
+        "against his principles：违背某人的原则",
+        "scientific principles：科学原理",
+        "the basic principles of Marxism：马克思主义基本原理",
+        "in principle：原则上；在理论上",
+        "on principle：依据原则\n笔 记 区"
+      ],
+      "definition" : "（道德）原则；（理论或哲学）原理；（科学）定律",
+      "examples" : [
+
+      ],
+      "frequency" : 1348,
+      "mnemonic" : "来自principal（主要的；最重要的）+ -le（名词后缀，表示物）→事\n物最基本的元素和基础→引申词义原则；科学原理等",
+      "phonetic" : "ˈprɪnsɪp(ə)l",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "principle"
+    },
+    {
+      "collocations" : [
+        "a strong, principled woman：一个坚强而有原则的女人",
+        "take a principled stand：讲原则\n释义：（ADJ-GRADED） 原则性强的；坚持操守的 If you describe someone",
+        "as principled, you approve of them because they have strong moral\nprinciples."
+      ],
+      "definition" : "原则性强的；坚持操守的",
+      "examples" : [
+
+      ],
+      "frequency" : 16891,
+      "mnemonic" : "principle（原则）+ -d（形容词后缀-ed去e变-d）→原则性强的；坚持",
+      "phonetic" : "ˈprɪnsɪp(ə)ld",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "principled"
+    },
+    {
+      "collocations" : [
+        "be occupied with：被……占据",
+        "occupy a part of the country：占领着该国的一部分地区"
+      ],
+      "definition" : "占用（某建筑、座位等）；占领；占有（某位置）",
+      "examples" : [
+        "They are fully occupied with their own business.\n他们完全被自己的生意占据了。"
+      ],
+      "frequency" : 2732,
+      "mnemonic" : "oc-（加强语气）+ -cup-（抓；拿；取得）+ y→取得（某地，某人的\n心）→占用；占领；占有（某地，某人的心）",
+      "phonetic" : "ˈɒkjʊpaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "occupy"
+    },
+    {
+      "collocations" : [
+        "look for an occupation：寻找一份职业",
+        "a dangerous occupation：一种危险的消遣",
+        "the occupation of Poland：对波兰的占领"
+      ],
+      "definition" : "职业；消遣；占领",
+      "examples" : [
+
+      ],
+      "frequency" : 3364,
+      "mnemonic" : "occup（占据；占有）+ -ation（=-ate + -ion：复合名词后缀）→占",
+      "phonetic" : "ɒkjʊˈpeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "occupation"
+    },
+    {
+      "collocations" : [
+        "the previous occupants：原住户"
+      ],
+      "definition" : "（建筑、房间的）居用者；（房间、车辆、床的）乘坐者；占用者",
+      "examples" : [
+
+      ],
+      "frequency" : 8493,
+      "phonetic" : "ˈɒkjʊp(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "occupant"
+    },
+    {
+      "collocations" : [
+        "owner-occupied：房主自用的",
+        "occupied doing sth \/ in doing sth \/ in sth.：忙于",
+        "occupied with sth \/ with doing sth.：忙于",
+        "occupied Europe：被占领的欧洲"
+      ],
+      "definition" : "使用中；忙于；（国家等）被占领的",
+      "examples" : [
+        "Keep the brain occupied. 不让脑子闲下来。"
+      ],
+      "frequency" : 9961,
+      "phonetic" : "ˈɒkjʊpaɪd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "occupied"
+    },
+    {
+      "collocations" : [
+        "an unoccupied house：闲置的房屋",
+        "unoccupied territory：未沦陷的领土"
+      ],
+      "definition" : "（房屋）无人住的；空置的；未沦陷的",
+      "examples" : [
+
+      ],
+      "frequency" : 20043,
+      "phonetic" : "ʌnˈɒkjʊpaɪd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "unoccupied"
+    },
+    {
+      "collocations" : [
+        "occupancy of areas：占地面积"
+      ],
+      "definition" : "（房屋、土地等的）占用；居住",
+      "examples" : [
+
+      ],
+      "frequency" : 11927,
+      "mnemonic" : "occup（=occupy：占用）+ -ancy（名词后缀）→占用；居住",
+      "phonetic" : "ˈɒkjəpənsɪ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "occupancy"
+    },
+    {
+      "collocations" : [
+        "occupational health：职业健康问题",
+        "an occupational pension scheme：职业退休金计划",
+        "substantial occupational assistance：大量的职业援助"
+      ],
+      "definition" : "职业的",
+      "examples" : [
+
+      ],
+      "frequency" : 6589,
+      "mnemonic" : "occupation（职业）+ -al（形容词后缀）→职业的",
+      "phonetic" : "ɒkjʊˈpeɪʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "occupational"
+    },
+    {
+      "collocations" : [
+        "capital occupying：资金占用"
+      ],
+      "definition" : "占领（occupy的ing形式）",
+      "examples" : [
+
+      ],
+      "frequency" : 18737,
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "occupying"
+    },
+    {
+      "collocations" : [
+        "preoccupied with：全神贯注于；沉浸在"
+      ],
+      "definition" : "全神贯注的；心事重重的",
+      "examples" : [
+
+      ],
+      "frequency" : 9043,
+      "mnemonic" : "pre-（=before：预先）+occupy（占据）+ -ed（形容词后缀，变y为i\n加-ed）→全神贯注的；入神的",
+      "phonetic" : "priːˈɒkjʊpaɪd",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "preoccupied"
+    },
+    {
+      "collocations" : [
+        "profound preoccupation with：对……深深的执着",
+        "in a state of preoccupation：显得心事重重"
+      ],
+      "definition" : "全神贯注；心事重重；盘算；长久思考的事情",
+      "examples" : [
+        "His current preoccupation is the appointment of the new manager.\n他目前操心的是新经理的任命。"
+      ],
+      "frequency" : 8979,
+      "mnemonic" : "pre-（=before：在前的）+ occup-（=occupy=seize：占据）+ -ation（复\n合名词后缀）→state of occupying beforehand, a seizing beforehand：预先\n抓住（注意力、情感等）；占用（精神、注意力等的）状态→全神贯",
+      "phonetic" : "prɪˌɒkjʊˈpeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "preoccupation"
+    },
+    {
+      "collocations" : [
+        "recuperate losses：挽回损失",
+        "recuperate from operation：手术恢复中\n近义词：recover, revive：康复；复原；找回\n除“occupation”之外，其余表示“职业；事业”的单词有：profession,",
+        "career, vocation。\n1)profession [prəˈfeʃ(ə)n] n. 职业；同行；声明 2909",
+        "the medical \/ legal \/ teaching \/ caring, etc. profession：医疗、法律、教"
+      ],
+      "definition" : "康复 vt. 挽回（损失）",
+      "examples" : [
+
+      ],
+      "frequency" : 16645,
+      "mnemonic" : "re-（=again：再次；重新）+ -cuper-（=to get：抓住；得到）+ -ate\n（动词后缀）→重新得到→引申词义康复（重新得到失去的健康）；\nprofess（宣称；信奉）+-ion（名词后缀）→职业；行业；声明",
+      "phonetic" : "rɪˈkuːpəreɪt",
+      "pos" : "vi.",
+      "rootHint" : "ceiv",
+      "word" : "recuperate"
+    },
+    {
+      "collocations" : [
+        "a professor of economics：经济学教授"
+      ],
+      "definition" : "教授；系主任",
+      "examples" : [
+
+      ],
+      "frequency" : 828,
+      "mnemonic" : "profess（宣称；信奉）+ -or（名词后缀，表示人）→字面意思指公开\n宣称自己在某领域是行家的人，经得起挑战和质问的人→后用于专指",
+      "phonetic" : "prəˈfesə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "professor"
+    },
+    {
+      "collocations" : [
+        "professional qualification：专业资质",
+        "professional practice：专业练习",
+        "a professional code of conduct：专业的行为准则"
+      ],
+      "definition" : "职业的；专业的；职业性的",
+      "examples" : [
+
+      ],
+      "frequency" : 1098,
+      "phonetic" : "prəˈfeʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "professional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "声称；表示（某感情、观点、信仰等）",
+      "examples" : [
+        "He professed his admiration for their work. 他表示钦佩他们的工作。"
+      ],
+      "frequency" : 10588,
+      "mnemonic" : "pro-（=forth：向前）+ -fess（=to speak, confess：说话；告知）→引",
+      "phonetic" : "prəˈfes",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "profess"
+    },
+    {
+      "collocations" : [
+        "market the products very professionally：讲究专业技巧地推销产品"
+      ],
+      "definition" : "在职业上；内行地",
+      "examples" : [
+
+      ],
+      "frequency" : 7725,
+      "phonetic" : "prəˈfɛʃənəli",
+      "pos" : "adv.",
+      "rootHint" : "ceiv",
+      "word" : "professionally"
+    },
+    {
+      "collocations" : [
+        "the professionalism of her performance：她表演的精湛技艺",
+        "a career as a fashion designer：时装设计这一行",
+        "career into a river：猛地冲进了河里\n20000 词汇巅峰\n速\n记\n3)vocation [və(ʊ)ˈkeɪʃ(ə)n] n. 职业；使命感 10139"
+      ],
+      "definition" : "专业素质；精湛的技艺；职业化（职业运动员）",
+      "examples" : [
+        "She is a doctor with a strong sense of vocation.\n她是一位具有强烈使命感的医生。"
+      ],
+      "frequency" : 11220,
+      "mnemonic" : "car（=carr-：车）+ -eer（名词后缀）→career原本表示“车的辙\nvoc-（=voice：声音，在这特指“神的召唤”）+ -ation（名词后\n缀）→指“上天在召唤你要干的事情”→职业；使命感（该单词与",
+      "phonetic" : "prəˈfeʃ(ə)n(ə)lɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "professionalism"
+    },
+    {
+      "collocations" : [
+        "chase you off their land：将你逐出他们的土地",
+        "in the chase for the championship：角逐冠军",
+        "cut to the chase：切入主题"
+      ],
+      "definition" : "&vi. 追赶；追求（事业、金钱等）；追求（异性） vt. 驱逐n. 追赶；（对事业、金钱等的）追求；（对异性的）追求",
+      "examples" : [
+
+      ],
+      "frequency" : 3341,
+      "mnemonic" : "chase：to hunt, try to seize→打猎，试图抓住→追赶；追求；驱逐",
+      "phonetic" : "tʃeɪs",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "chase"
+    },
+    {
+      "collocations" : [
+        "whisky with beer chasers：威士忌配啤酒"
+      ],
+      "definition" : "喝一种酒之后配合喝的酒精含量不同的酒；追逐者 \/ 物",
+      "examples" : [
+
+      ],
+      "frequency" : 18407,
+      "phonetic" : "ˈtʃeɪsə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "chaser"
+    },
+    {
+      "collocations" : [
+        "purchase of a new car：购买新车",
+        "gain \/ get a purchase on sth.：找到搭脚处"
+      ],
+      "definition" : "购买 n. 购买（的人 \/ 东西）；抓拿处，搭脚处，支点",
+      "examples" : [
+        "The ice made it impossible to get a purchase on the road.\n路上的冰让人走不稳。"
+      ],
+      "mnemonic" : "pur-（向前）+ chase（=try to seize：试图抓住）→向前抓住、获得某\n物→购买；抓拿处；支点",
+      "phonetic" : "ˈpɜ:tʃəs",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "purchase"
+    },
+    {
+      "collocations" : [
+        "purchasing power：购买力",
+        "purchasing department：采购部门\n近义词：procure：获得（尤指难以获得的东西）"
+      ],
+      "definition" : "购买；采购（purchase的ing形式）",
+      "examples" : [
+
+      ],
+      "frequency" : 10384,
+      "mnemonic" : "purchase（购买）+-ing（名词后缀）→购买；采购",
+      "phonetic" : "ˈpɝtʃəsɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "purchasing"
+    },
+    {
+      "collocations" : [
+        "defend and indemnify purchaser：对买方进行保护和赔偿"
+      ],
+      "definition" : "] n. 购买者",
+      "examples" : [
+
+      ],
+      "frequency" : 14385,
+      "mnemonic" : "purchase（购买）+ -r（名词后缀；表示人）→购买者",
+      "phonetic" : "ˈpɜːtʃəsə(r)",
+      "rootHint" : "ceiv",
+      "word" : "purchaser"
+    },
+    {
+      "collocations" : [
+        "hunt news：搜寻新闻",
+        "hunt for a job：找工作",
+        "in the hunt for：（参赛队或竞争者）有机会获得"
+      ],
+      "definition" : "&vi. 猎杀（野生动物）；打猎 vt. 追捕（罪犯、敌人等） vi.搜寻 n. 搜寻；追捕；打猎",
+      "examples" : [
+        "Six teams were still in the hunt for the team title.\n6支队伍仍然有机会获得团体冠军。"
+      ],
+      "mnemonic" : "hunt = chase game：追捕猎物",
+      "phonetic" : "hʌnt",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "hunt"
+    },
+    {
+      "collocations" : [
+        "bird\/beast of prey：食肉猛禽\/猛兽",
+        "be \/ fall prey to sb. \/ sth.：受某人 \/ 某事物所伤害[影响]",
+        "fall prey to drug dealers：落入毒贩的魔掌",
+        "be prey to nameless fear：陷入莫名的恐惧中\nprey on sth.：捕食；掠夺"
+      ],
+      "definition" : "猎物；（某人的）坑害对象 vi. 捕食；欺凌，坑害（尤指弱者）；不断困扰，使耿耿于怀",
+      "examples" : [
+
+      ],
+      "frequency" : 5574,
+      "mnemonic" : "pre-（=to grasp, seize：抓住；捕获）+ y→抓住、捕获某物→引申词",
+      "phonetic" : "preɪ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "prey"
+    },
+    {
+      "collocations" : [
+        "a shopping \/ spending spree：狂购一气；痛痛快快花一通钱",
+        "kick off a selling spree of：开始抛售……（放纵地卖）"
+      ],
+      "definition" : "（常指过分）玩乐；放纵",
+      "examples" : [
+        "He’s out on a spree. 他到外面潇洒去了"
+      ],
+      "frequency" : 11517,
+      "mnemonic" : "来自拉丁语 praeda“plunder, booty：抢夺；战利品”→购物过多就如\n同抢夺商品一样→（常指过分）玩乐；放纵",
+      "phonetic" : "spriː",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "spree"
+    },
+    {
+      "collocations" : [
+        "natural predators：天然食肉动物",
+        "takeovers by various predators：被各种虎视眈眈的集团收购"
+      ],
+      "definition" : "捕食性动物；掠夺成性的人（或组织）",
+      "examples" : [
+
+      ],
+      "frequency" : 4753,
+      "mnemonic" : "pre-（=prey：捕食；掠夺）+ d（无意义）+ -ator（复合名词后缀）→",
+      "phonetic" : "ˈpredətə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "predator"
+    },
+    {
+      "collocations" : [
+        "a predatory insurance salesman：敛财的保险推销员",
+        "predatory pricing：掠夺性定价\n释义：（ADJ）（动物）捕食性的 Predatory animals live by killing other",
+        "animals for food.\n（ADJ-GRADED） 掠夺性的；弱肉强食的；损人利己的 Predatory",
+        "people or organizations are eager to gain something out of someone else’s",
+        "weakness or suffering."
+      ],
+      "definition" : "掠食的，捕食其他动物为生的；（在金钱等关系上）掠夺性的；弱肉强食的",
+      "examples" : [
+
+      ],
+      "frequency" : 11289,
+      "mnemonic" : "predator（捕食性动物；掠夺成性的人或组织）+ -y（形容词后缀）→",
+      "phonetic" : "ˈpredət(ə)rɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "predatory"
+    },
+    {
+      "collocations" : [
+        "spectacular dramas of predation：壮观的捕食大戏",
+        "species of animal in a community, in which one （the predator） hunts,",
+        "kills, and eats the other （the prey）."
+      ],
+      "definition" : "（动物的）捕食；捕猎行为",
+      "examples" : [
+
+      ],
+      "frequency" : 15981,
+      "mnemonic" : "pre-（=prey：捕食；掠夺）+ d（无意义）+ -ation（复合名词后缀）\n→（动物的）捕食；捕猎行为",
+      "phonetic" : "prɪˈdeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "predation"
+    },
+    {
+      "collocations" : [
+        "in search of prey：秘密地搜寻猎物",
+        "prowl through the undergrowth：悄然穿过矮树丛",
+        "prowl restlessly around the room：不安地在房间里踱来踱去\n表示“获得；取得”的单词还有 procure。"
+      ],
+      "definition" : "&vi. 潜行（为捕猎等）；潜行（图谋不轨等）；（因无聊、焦躁等）徘徊",
+      "etymology" : "来自14世纪中古英语prollen，move about in search of something：走来",
+      "examples" : [
+
+      ],
+      "frequency" : 13545,
+      "mnemonic" : "走去为寻找某物→后来演变为18世纪的读音prôll，含义为go stealthily",
+      "phonetic" : "praʊl",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "prowl"
+    },
+    {
+      "collocations" : [
+        "procure weapons for terrorists：为恐怖分子采办武器"
+      ],
+      "definition" : "获得，取得（尤指难以得到的东西）；为（某人）介绍妓女，给……拉皮条",
+      "etymology" : "来自拉丁语procurare：关心；照看；管理；看护",
+      "examples" : [
+
+      ],
+      "frequency" : 13725,
+      "mnemonic" : "pro-（向前；代表）+ -cur（=care for：关切）+ e→现代引申词义获\n得，取得，特指费尽心力取得（take pains to get）→也有“给……拉",
+      "phonetic" : "prəˈkjʊə",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "procure"
+    },
+    {
+      "collocations" : [
+        "the procurement of raw materials from abroad：从国外购买原材料"
+      ],
+      "definition" : "（尤指为政府、军队其他或机构）采购；购买",
+      "examples" : [
+
+      ],
+      "frequency" : 11874,
+      "mnemonic" : "procure（获得；取得）+ -ment（名词后缀）→采购；购买",
+      "phonetic" : "prəˈkjʊəmənt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "procurement"
+    },
+    {
+      "collocations" : [
+        "letter of power of attorney,” contraction of Anglo-French procuracie",
+        "vote by proxy：请人代投票",
+        "act as proxy for his wife：作为他的妻子的代表",
+        "a good proxy for：……的可靠指标",
+        "a proxy vote：由他人代投的选票\nproxy war：代理人战争\n笔 记 区"
+      ],
+      "definition" : "代理权；（由个人委托的）代理人[+for]；（用于度量某物的）指标[+for] adj. 代表的",
+      "etymology" : "early 15c., proccy, prokecye, “agency of one who acts instead of another; (c. 1300), from Medieval Latin procuratia “administration,” from Latin procuratio “a caring for, management,” from procurare “manage” (see procure). Also compare proctor (n.). Meaning “person who acts in place of another” is from 1610s. 理权 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "frequency" : 9400,
+      "mnemonic" : "趣记：proxy来源于procure：采购；购买→代购的人及其权利→代理人；代",
+      "phonetic" : "ˈprɒksɪ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "proxy"
+    },
+    {
+      "collocations" : [
+        "cater to an exclusive clientele：满足一个特殊客户群的需求",
+        "cater to all levels of fitness：照顾到各种健康状况",
+        "cater large events：承办大型活动"
+      ],
+      "definition" : "满足……需要；迎合；考虑 vt. （在婚礼、派对等场合）提供餐饮服务",
+      "etymology" : "来自拉丁语captare（拿，获得），本意是“采办、准备食品”。cater 的核心含义就是为别人采办、准备食品。",
+      "examples" : [
+
+      ],
+      "frequency" : 7050,
+      "phonetic" : "ˈkeɪtə",
+      "pos" : "vi.",
+      "rootHint" : "ceiv",
+      "word" : "cater"
+    },
+    {
+      "collocations" : [
+        "chef接私活，下班后去客户家上门承办酒宴，他就又变成了caterer。"
+      ],
+      "definition" : "（为办公、婚礼、派对等的）餐饮供应者；酒席承办者",
+      "examples" : [
+        "The caterers were already laying out the tables for lunch.\n酒宴承办者已经在摆午餐的饭桌了。"
+      ],
+      "frequency" : 16627,
+      "mnemonic" : "提供上门承办酒席服务的人就是caterer（备办食品者、酒宴承办",
+      "phonetic" : "ˈkeɪtərə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "caterer"
+    },
+    {
+      "collocations" : [
+        "catering business：酒席承办生意"
+      ],
+      "definition" : "（婚礼、派对等的）餐饮供应；酒席承办",
+      "examples" : [
+
+      ],
+      "frequency" : 15903,
+      "phonetic" : "ˈkeɪtərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "catering"
+    },
+    {
+      "collocations" : [
+        "have beautiful eyes：有美丽的眼睛",
+        "have her by the arm：抓住她的胳膊",
+        "have my ticket：得到我的票\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "拥有；抓住（某人身体的某部位）；得到",
+      "examples" : [
+
+      ],
+      "frequency" : 8,
+      "mnemonic" : "来自词根-cap-：拿；取→have：拥有；抓住；得到",
+      "phonetic" : "həv;hæv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "have"
+    },
+    {
+      "collocations" : [
+        "the have-not：贫民"
+      ],
+      "definition" : "穷人",
+      "examples" : [
+
+      ],
+      "frequency" : 19709,
+      "mnemonic" : "have（拥有）+not（不）→不拥有财产的人→穷人",
+      "phonetic" : "ˈhævnɔt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "have-not"
+    },
+    {
+      "collocations" : [
+        "a haven of peace and tranquility：一处安宁的去处",
+        "a freshwater haven：一个淡水栖息地",
+        "a haven for wildlife：野生动物的自然栖息地"
+      ],
+      "definition" : "安全的地方；保护区；避难所",
+      "etymology" : "来自古英语hæfen“port: 港口”→place that “holds” ships：保留船只的",
+      "examples" : [
+
+      ],
+      "frequency" : 5779,
+      "mnemonic" : "地方→安全的地方；保护区；避难所",
+      "phonetic" : "ˈheɪv(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "haven"
+    },
+    {
+      "collocations" : [
+        "“Good heavens!” \/ “Heavens!”：（表示惊奇等）天哪",
+        "Heaven help someone：（表示担心某人将有难）老天帮帮某人吧",
+        "Heaven knows：天知道；确实",
+        "the heavens open：突然下起倾盆大雨"
+      ],
+      "definition" : "天堂；极好的地方（或情况）",
+      "examples" : [
+
+      ],
+      "frequency" : 2649,
+      "mnemonic" : "heaven来自古英语heofon，最初的本意就是“天空”（sky），指的是",
+      "phonetic" : "ˈhev(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "heaven"
+    },
+    {
+      "collocations" : [
+        "the heavenly kingdom：天国",
+        "heavenly bodies：天体",
+        "a heavenly morning：愉快的早晨"
+      ],
+      "definition" : "天国的；天空的；极美好的",
+      "examples" : [
+
+      ],
+      "frequency" : 9557,
+      "phonetic" : "ˈhev(ə)nlɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "heavenly"
+    },
+    {
+      "collocations" : [
+        "heave a sigh of relief：如释重负地舒了一口气",
+        "heave with laughter：笑得抖动",
+        "the steady heave of the sea：大海汹涌不断的波涛",
+        "heave into sight \/ view：从远处出现；进入视野\n笔 记 区"
+      ],
+      "definition" : "（用力）举起，拖，拉，抛；（强烈而有节奏地）起伏 n.举；拖；拉；抛；起伏",
+      "etymology" : "来自古英语hebban “to lift, raise; lift up, exalt”。来自词根kap- “to grasp.”词义由“to take, take hold of：抓住；扛着”演变为“lift：举 20000 词汇巅峰 速 记 起；拿起；抬起”的含义。",
+      "examples" : [
+
+      ],
+      "frequency" : 9360,
+      "phonetic" : "hiːv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "heave"
+    },
+    {
+      "collocations" : [
+        "heavy frost \/ rain \/ snow：严重霜冻；暴雨；大雪",
+        "hang \/ lie heavy：（感情或空气中的东西）明显地悬浮于；明显积郁",
+        "The crime lay heavy on her conscience.\n那件罪行使她内疚不安。"
+      ],
+      "definition" : "沉重的；（在数量、程度等方面）超出一般的",
+      "etymology" : "来自古英语hefig：重的，沉重的。来自古词根kap-：抓住，抓起。",
+      "examples" : [
+        "Smoke lay heavy on the far side of the water.\n水面对岸悬浮着黑沉沉的烟雾。"
+      ],
+      "frequency" : 1008,
+      "phonetic" : "ˈhevɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "heavy"
+    },
+    {
+      "collocations" : [
+        "a heavily pregnant woman：临产的孕妇",
+        "fall heavily to the ground：重重地摔倒在地",
+        "breathe heavily：喘着粗气"
+      ],
+      "definition" : "大量地；沉重地；缓慢又高声地",
+      "examples" : [
+
+      ],
+      "frequency" : 2384,
+      "phonetic" : "ˈhevɪlɪ",
+      "pos" : "adv.",
+      "rootHint" : "ceiv",
+      "word" : "heavily"
+    },
+    {
+      "collocations" : [
+        "a heavy-duty carpet：耐磨的地毯",
+        "a heavy-duty plastic bag：一个耐用的塑料袋",
+        "some heavy-duty advice：一些有分量的意见",
+        "heavy-duty tractor：重型拖拉机"
+      ],
+      "definition" : "结实耐用的；严重的；重型的",
+      "examples" : [
+
+      ],
+      "frequency" : 13971,
+      "mnemonic" : "heavy（重的）+ duty（职责；责任）→责任重的→结实耐用的",
+      "phonetic" : "ˌhevɪˈdju:tɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "heavy-duty"
+    },
+    {
+      "collocations" : [
+        "a heavy-handed approach：冷酷无情的方法",
+        "heavy-handed methods：高压手段",
+        "too heavy-handed with the salt：放太多的盐"
+      ],
+      "definition" : "冷酷的；暴虐的；用某物过多的，大手大脚的",
+      "examples" : [
+
+      ],
+      "frequency" : 19038,
+      "mnemonic" : "heavy（重的）+ hand（手）+ -ed（形容词后缀）→手重的→高压的；",
+      "phonetic" : "ˈheviˈhændid",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "heavy-handed"
+    },
+    {
+      "collocations" : [
+        "a heavyweight champion：重量级拳击冠军",
+        "a political heavyweight：一位政界要人"
+      ],
+      "definition" : "重量级拳击手；极具影响力的人（或组织）",
+      "examples" : [
+
+      ],
+      "frequency" : 8753,
+      "mnemonic" : "heavy（重的）+ weight（重量）→在重量上重的→重量级拳击手→引",
+      "phonetic" : "ˈhevɪweɪt",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "heavyweight"
+    },
+    {
+      "collocations" : [
+        "heft the heavy camera up onto his shoulder：",
+        "add heft to his argument：给他的辩论增加分量"
+      ],
+      "definition" : "提、举起、抗（重物） n. 重量；（观点、辩论等的）分量；影响力",
+      "examples" : [
+
+      ],
+      "frequency" : 17458,
+      "mnemonic" : "heave：举起（vt.）→heft：举起；重量；分量（n.）",
+      "phonetic" : "heft",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "heft"
+    },
+    {
+      "collocations" : [
+        "give him a hefty push：给他猛的一推"
+      ],
+      "definition" : "庞大的；沉重的；有力地",
+      "examples" : [
+
+      ],
+      "frequency" : 8651,
+      "mnemonic" : "heft（重量）+ -y（形容词后缀，充满……的）→重量很大的→庞大",
+      "phonetic" : "ˈheftɪ",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "hefty"
+    },
+    {
+      "collocations" : [
+        "to seize plunder，与haver“to seize, grasp：抓住；夺取；紧握”有关。\n后来演变为havoc，表示大破坏。",
+        "play havoc with another \/ wreak havoc on：破坏；打乱",
+        "These insects can wreak havoc on crops.\n20000 词汇巅峰\n速\n记\n这些昆虫可严重危害农作物。",
+        "The weather played havoc with airline schedules.\n天气状况打乱了航空公司的时刻表。\n笔 记 区"
+      ],
+      "definition" : "大破坏；灾害；祸患；浩劫",
+      "etymology" : "Havok, 原指给士兵发出的准许抢劫掠物的信号，the signal to soldiers",
+      "examples" : [
+        "Continuing strikes are beginning to play havoc with the national economy.\n持续的罢工开始严重破坏国家经济。"
+      ],
+      "frequency" : 9762,
+      "phonetic" : "ˈhævək",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "havoc"
+    },
+    {
+      "collocations" : [
+        "well- \/ badly-behaved children：表现好 \/ 差的孩子"
+      ],
+      "definition" : "&vi. 使……规矩；规矩地行事 vi. 行为；表现",
+      "examples" : [
+        "You have to behave. 你得守规矩。\n反义词：misbehave：行为不端"
+      ],
+      "frequency" : 3694,
+      "mnemonic" : "be-（强调前缀）+ have（拥有；做；拿）→把自己拿在手里→控制自\n己的行为→使……规矩；行为；表现",
+      "phonetic" : "bɪˈheɪv",
+      "pos" : "vt.",
+      "rootHint" : "ceiv",
+      "word" : "behave"
+    },
+    {
+      "collocations" : [
+        "on one’s best behavior：尽全力好好表现",
+        "good behavior：品行良好"
+      ],
+      "definition" : "行为；（科学领域）运动表现",
+      "examples" : [
+
+      ],
+      "frequency" : 674,
+      "phonetic" : "bɪˈheɪvjə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "behavior"
+    },
+    {
+      "collocations" : [
+        "with much accuracy.\n要高精确度地预测飓风的表现尚需要许多年。"
+      ],
+      "definition" : "行为；（科学领域）运动表现（等于behavior）",
+      "examples" : [
+        "It will be many years before anyone can predict a hurricane’s behaviour"
+      ],
+      "frequency" : 12134,
+      "phonetic" : "bɪˈheɪvjə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "behaviour"
+    },
+    {
+      "collocations" : [
+        "emotional and behavioral problems：情感与行为上的问题"
+      ],
+      "definition" : "行为方面的；行为科学的",
+      "examples" : [
+
+      ],
+      "frequency" : 3789,
+      "phonetic" : "bɪˈhevjərəl",
+      "pos" : "adj.",
+      "rootHint" : "ceiv",
+      "word" : "behavioral"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "行为不端",
+      "examples" : [
+        "When the children misbehaved she was unable to cope.\n当孩子们捣乱时，她无能为力。"
+      ],
+      "frequency" : 18195,
+      "mnemonic" : "mis-（坏的；错的）+ behave（表现；行为）→表现不好→行为不端",
+      "phonetic" : "ˌmɪsbɪˈheɪv",
+      "pos" : "vi.",
+      "rootHint" : "ceiv",
+      "word" : "misbehave"
+    },
+    {
+      "collocations" : [
+        "scold the children for their misbehavior：因孩子行为不端而斥责他们"
+      ],
+      "definition" : "行为不端",
+      "examples" : [
+
+      ],
+      "frequency" : 18072,
+      "mnemonic" : "mis-（坏的；错的）+ behavior（行为）→不好的行为表现→行为不",
+      "phonetic" : "ˌmɪsbɪˈheɪvjə",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "misbehavior"
+    },
+    {
+      "collocations" : [
+        "watch someone like a hawk：用鹰一样锐利的目光紧盯着某人；密切监视"
+      ],
+      "definition" : "鹰；（主张使用武力或强硬手段的）鹰派人物 vt. （沿街）兜售；放鹰行猎",
+      "etymology" : "来自中古英语havek，来自cap-：抓住，后用于指（有利爪的）猛禽 鹰或隼。",
+      "examples" : [
+
+      ],
+      "frequency" : 8074,
+      "phonetic" : "hɔːk",
+      "pos" : "n.",
+      "rootHint" : "ceiv",
+      "word" : "hawk"
+    }
+  ]
+}

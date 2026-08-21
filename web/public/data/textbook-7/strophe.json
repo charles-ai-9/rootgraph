@@ -1,0 +1,391 @@
+{
+  "chapter" : "16",
+  "chapterOrder" : 116,
+  "id" : "strophe",
+  "meaningZh" : "to wind, turn",
+  "roots" : [
+    "strophe",
+    "streb"
+  ],
+  "semanticLabel" : "to wind, turn",
+  "source" : "textbook-7",
+  "titleZh" : "to wind, turn",
+  "words" : [
+    {
+      "collocations" : [
+        "an environment catastrophe：环境大灾难"
+      ],
+      "definition" : "灾难；灾祸；不幸事件，困难，困境",
+      "etymology" : "原本是一个希腊戏剧术语，表示“颠覆”。希腊古典戏剧通常由四 部分组成：冲突产 生、冲突发展、高潮和结局。其中，结局要求要 出乎意料，主人公一般会突然沦入与开始时完全不同的境地，这种结 局就叫做catastrophe。词根cata=down，表示向下，strophe=turn，表 示翻转。这个词进入英语后，应用范围逐渐拓展，除了指戏剧的结尾 外，还可以引申为各种事情的解决，并且又倾向于指不好的结局，即 从顺境急转直下堕入极其糟糕的境地，所以也就具有了“大灾难，大 祸”的含义。",
+      "examples" : [
+        "The attempt to expand the business was a catastrophe for the firm.\n扩展业务的尝试使这家公司陷入困境。"
+      ],
+      "frequency" : 6755,
+      "mnemonic" : "cata-（=down：向下）+ -strophe（=to turn：翻转）→彻底翻转、颠\n覆；急转而下→天翻地覆→灾难；灾祸；困难\n-astr-（=star：星星）+ -ophy（名词后缀）→星星掉下来→（预示）\nsurvive the catastrophe：活过灾难",
+      "phonetic" : "kəˈtæstrəfɪ",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "catastrophe"
+    },
+    {
+      "collocations" : [
+        "catastrophic effects\/losses\/results：灾难性的影响\/损失\/结果",
+        "a catastrophic earthquake：灾难性的地震",
+        "catastrophic mismanagement of the economy：对经济极不成功的管理\n20000 词汇巅峰\n速\n记",
+        "catastrophe 和 catastrophic 的近义词分别为 disaster 和 disastrous：\n笔 记 区"
+      ],
+      "definition" : "灾难性的；极不幸的，极不成功的",
+      "examples" : [
+
+      ],
+      "frequency" : 7709,
+      "mnemonic" : "catastrophe（灾难；灾祸；不幸事件）+ -ic（形容词后缀，与……有\n关的）→灾难性的；极不幸的，极不成功的",
+      "phonetic" : "kætəˈstrɒfɪk",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "catastrophic"
+    },
+    {
+      "collocations" : [
+        "an air disaster：空难",
+        "a natural disaster：自然灾害",
+        "financial disaster：财政灾难",
+        "a recipe for disaster：造成灾难的因素（祸端）"
+      ],
+      "definition" : "灾难，灾祸；不幸，祸患；彻底失败的人（或事）",
+      "etymology" : "古人认为星象蕴含了能启示吉凶的信息，所以常常会观察星象，借 以卜算吉凶。如果古人发现星星所处的位置不正常，就认为表示凶 兆，会有大灾难发生。Disaster就反映了这种迷信思想。disaster由dis- （表否定）+ aster-（星星）构成，字面意思就是“星位不正常”。由 于星位不正常就代表灾祸，所以disaster自然就衍生出了“灾祸”的 含义。",
+      "examples" : [
+        "Losing your job doesn’t have to be such a disaster.\n丢了工作不一定就是祸患来临（大难临头）。\nThe play’s first night was a total disaster.\n这出戏头一晚就彻底失败（演砸）了。"
+      ],
+      "frequency" : 2341,
+      "mnemonic" : "dis-（不，表相反）+ aster-（=star：星星）→星星不在了，掉下来了\n→（预示）灾难",
+      "phonetic" : "dɪˈzɑːstə",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "disaster"
+    },
+    {
+      "collocations" : [
+        "a disastrous harvest \/ fire \/ result \/ impact：极糟糕的收成；灾难性的火"
+      ],
+      "definition" : "极糟糕的；灾难性的；完全失败的",
+      "examples" : [
+        "Lowering interest rates could have disastrous consequences for the\neconomy.\n降低利率可能给经济带来灾难性后果。"
+      ],
+      "frequency" : 7375,
+      "mnemonic" : "disastr（=disaster：灾难；彻底失败的人或事）+ -ous（形容词后缀）\n→灾难性的；极糟糕的；完全失败的",
+      "phonetic" : "dɪˈzɑːstrəs",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "disastrous"
+    },
+    {
+      "collocations" : [
+        "a leather strap：皮带",
+        "I have to keep my leg strapped up for six weeks.\n我的腿必须打六星期绷带。"
+      ],
+      "definition" : "带子 vt. 用带子系（或捆、扎、扣）好；包扎；给……打绷带",
+      "etymology" : "streb-（=to wind：缠绕）→strap：（缠绕的）带子；用带子系； 给……打绷带（缠绕带子）",
+      "examples" : [
+        "Are you strapped in (= wearing a seat belt in a car, plane, etc.)?\n您系好安全带了吗？"
+      ],
+      "frequency" : 5998,
+      "phonetic" : "stræp",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "strap"
+    },
+    {
+      "collocations" : [
+        "a strapping fellow：一个高大健壮的小伙子",
+        "strapping machine：捆扎机\n词根 astro-, aster-, stella, ster- 都与“star：星星”有关。",
+        "Proto-Indo-European root meaning “star.” Buck and others doubt the old",
+        "suggestion that it is a borrowing from Akkadian istar “venus.” The source",
+        "of the common Balto-Slavic word for “star” (Lithuanian žvaigždė, Old",
+        "Church Slavonic zvezda, Polish gwiazda, Russian zvezda) is not explained.",
+        "It is the hypothetical source of \/ evidence for its existence is provided by:",
+        "Sanskrit star-; Hittite shittar, Greek aster “star,” with derivative astron;",
+        "Latin stella, Breton sterenn, Welsh seren “star.”\n希腊神话中，星辰之神叫做“阿斯特赖俄斯”（Astraeus），是十二\n泰坦神之一的克利俄斯与女海神欧律比亚的儿子。他掌管星辰，和黎\n明女神厄俄斯生下了四位风神和大量星辰之神。他的名字Astraeus在\n希腊语中就是“星辰升起”之意，英语中表示“星星”的词根astro-\n和aster-都来自他的名字。古人相信星相能预兆吉凶，研究星相的学\n问就是astrology（占星术），字面意思就是“研究星星的学问”。而\n研究星星的现代科学则是astronomy（天文学），字面意思就是“星\n星的规律”。\n20000 词汇巅峰\n速\n记\n笔 记 区\nAstraeus：阿斯特赖俄斯"
+      ],
+      "definition" : "高大健壮的；捆扎的",
+      "etymology" : "*ster- (2)",
+      "examples" : [
+
+      ],
+      "frequency" : 19361,
+      "mnemonic" : "strap（用带子系、捆，双写p）+ -ing（形容词后缀）→捆扎的；引申",
+      "phonetic" : "ˈstræpɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "strapping"
+    },
+    {
+      "collocations" : [
+        "the brightest star in the sky：天空中最亮的一颗星",
+        "a four-star general：四星上将\nthree-\/four-\/five-star hotels：三星级\/四星级\/五星级饭店\npop\/rock\/Hollywood, etc. stars 流行音乐歌星、摇滚歌星、好莱坞影\n星等",
+        "the star role\/part：主角",
+        "a movie starring Tom Cruise：由汤姆·克鲁斯主演的电影"
+      ],
+      "definition" : "星，恒星；星形物；（尤指旅馆或餐馆的）星级；歌唱（或表演）明星；（电影、戏剧等的）主角，主演 vi. & vt. 由……担任主角",
+      "etymology" : "来自古英语 steorra，星星。来自词根ster-：星星。",
+      "examples" : [
+
+      ],
+      "frequency" : 539,
+      "phonetic" : "stɑː",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "star"
+    },
+    {
+      "collocations" : [
+        "an all-star cast：全明星阵容"
+      ],
+      "definition" : "全明星（或演员、运动员等）组成的",
+      "examples" : [
+
+      ],
+      "frequency" : 6169,
+      "mnemonic" : "all（全体）+ star（明星）→全体阵容都是由明星组成的→全明星组",
+      "phonetic" : "ˈɔːl stɑː(r)",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "all-star"
+    },
+    {
+      "collocations" : [
+        "a new movie in which ... co-stars with ...：",
+        "a new movie co-starring ... and ...：\n由……与……联袂主演的一部新电影"
+      ],
+      "definition" : "（电影或戏剧中的）联合主演的明星 vi. （在电影或戏剧中）与其他明星联合主演 vt. （电影或戏剧）（由明星演员）联袂主演，合演",
+      "examples" : [
+
+      ],
+      "frequency" : 11174,
+      "mnemonic" : "co-（=together, with：共同；与……一起）+ star（明星）→与……一",
+      "phonetic" : "ˈkoʊ stɑːr",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "co-star"
+    },
+    {
+      "collocations" : [
+        "a beautiful starry night：布满星星的美丽夜晚",
+        "starry flowers：像星星似的花朵\nstarry-eyed：幻想的；过分乐观的（眼睛闪闪发光的）"
+      ],
+      "definition" : "布满星星的；像星星似的；（眼睛）闪闪发光的",
+      "examples" : [
+
+      ],
+      "frequency" : 16514,
+      "mnemonic" : "star（星星，双写r）+ -y（形容词后缀）→布满星星的；像星星似的",
+      "phonetic" : "ˈstɑːrɪ",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "starry"
+    },
+    {
+      "collocations" : [
+        "a five-star hotel：五星级酒店",
+        "a five-star general：五星上将"
+      ],
+      "definition" : "五星级的（表示最优质）；（军阶）五星级的",
+      "examples" : [
+
+      ],
+      "frequency" : 19061,
+      "mnemonic" : "five（五）+ star（星）→五颗星的→五星级的（酒店 \/ 军阶）",
+      "phonetic" : "ˈfaɪv stɑː(r)",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "five-star"
+    },
+    {
+      "collocations" : [
+        "a four-star hotel：四星级酒店",
+        "a four-star general：四星上将"
+      ],
+      "definition" : "四星级的（表示优质）；（军阶）四星级的",
+      "examples" : [
+
+      ],
+      "frequency" : 19469,
+      "mnemonic" : "four（四）+ star（星）→四颗星的→四星级的（酒店 \/ 军阶）",
+      "phonetic" : "ˈfɔː stɑː(r)",
+      "rootHint" : "strophe",
+      "word" : "four-star"
+    },
+    {
+      "collocations" : [
+        "radio astronomy：射电天文学",
+        "physics and astronomy：物理学和天文学\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "天文学",
+      "etymology" : "Tcientific study of heavenly bodies such as the sun, moon, stars, planets, etc.",
+      "examples" : [
+
+      ],
+      "frequency" : 6564,
+      "mnemonic" : "astro-（=ster-=star：星星）+ -nom-（=arranging; rule, law：布置；规\n律）+ -y（名词后缀）→研究日月星辰等天体在宇宙间的分布、运行\n规律的科学→天文学",
+      "phonetic" : "əˈstrɒnəmɪ",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "astronomy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "天文学家",
+      "examples" : [
+
+      ],
+      "frequency" : 3779,
+      "mnemonic" : "astronom（=astronomy：天文学）+-er（名词后缀，表人）→研究天\n文学的科学家→天文学家",
+      "phonetic" : "əˈstrɒnəmə(r)",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "astronomer"
+    },
+    {
+      "collocations" : [
+        "astronomical observations：天文观测",
+        "astronomical telescope：天文望远镜",
+        "Interest rates are astronomically high.\n利率如天文数字般（极高）。"
+      ],
+      "definition" : "天文的，天文学的；（数量、价格等）天文数字般的，极其巨大的",
+      "examples" : [
+        "Houses in the subdivision are going for astronomical prices.\n该小区里的房子在以天文数字般的价格（天价）出售。"
+      ],
+      "frequency" : 7170,
+      "mnemonic" : "astronomy（天文学，变y为i）+ -ical（形容词后缀）→天文学的；天\n文数字般的（数量、价格）→天文学的；极其巨大的",
+      "phonetic" : "ˌæstrəˈnɒmɪkl",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "astronomical"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "宇航员；航天员",
+      "examples" : [
+
+      ],
+      "frequency" : 5736,
+      "mnemonic" : "astro-（星）+ -naut（=sailor：水手，海员，nau-=boat：船）→在星星\n（浩瀚宇宙）中航行的人→宇航员；航天员",
+      "phonetic" : "ˈæstrənɔːt",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "astronaut"
+    },
+    {
+      "collocations" : [
+        "famous astrophysicist Stephen Hawking：著名的天体物理学家斯蒂"
+      ],
+      "definition" : "天体物理学家",
+      "examples" : [
+
+      ],
+      "frequency" : 16832,
+      "mnemonic" : "astro-（星星；天体）+physicist（物理学家）→研究天体物理学的专\n家→天体物理学家",
+      "phonetic" : "ˌæstrəʊˈfɪzɪsɪst",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "astrophysicist"
+    },
+    {
+      "collocations" : [
+        "A transparent dome on the top of an aircraft, through which observations",
+        "can be made, esp. of the stars.\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "飞行器中的天体观测舱",
+      "examples" : [
+
+      ],
+      "frequency" : 18933,
+      "mnemonic" : "astro-（星星；天体）+dome（圆顶状物；穹状物）→飞行器中的天",
+      "phonetic" : "ˈæstrədəʊm",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "astrodome"
+    },
+    {
+      "collocations" : [
+        "asteroid belt：小行星带（小行星带是太阳系内介于火星和木星轨道之"
+      ],
+      "definition" : "（火星和木星间运行的）小行星6267",
+      "examples" : [
+
+      ],
+      "mnemonic" : "aster-（=star：星星）+ -oid（=form, shape：呈……形状的事物；\n像……的）→呈星星形状的事物；像星星的→小行星（太阳系内类似",
+      "phonetic" : "ˈæstərɒɪd",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "asteroid"
+    },
+    {
+      "collocations" : [
+        "place an asterisk next to the tasks：在任务旁边标上了星号",
+        "asterisk the tasks：在任务旁边标上了星号"
+      ],
+      "definition" : "星号（*，置于词语旁以引起注意或另有注释） vt. 标上星号",
+      "examples" : [
+
+      ],
+      "frequency" : 19333,
+      "mnemonic" : "aster-（星星）+ -isk（名词后缀，表示小）→小星星→星号",
+      "phonetic" : "ˈæstərɪsk",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "asterisk"
+    },
+    {
+      "collocations" : [
+        "a stellar wind：恒星风",
+        "a stellar performance：精彩的演出"
+      ],
+      "definition" : "星的，恒星的；杰出的，精彩的，（人或事物）非常好的",
+      "examples" : [
+        "The French companies are registering stellar profits.\n法国各家公司都获得非常好的利润回报（获利丰厚）。"
+      ],
+      "frequency" : 8061,
+      "mnemonic" : "stell-（=star：星；恒星）+ -ar（形容词后缀，表示与……有关的）→\n与星星有关的；像恒星一样闪耀的→星的，恒星的；杰出的",
+      "phonetic" : "ˈstelə",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "stellar"
+    },
+    {
+      "collocations" : [
+        "interstellar space：星际空间"
+      ],
+      "definition" : "星际的",
+      "examples" : [
+
+      ],
+      "frequency" : 12058,
+      "mnemonic" : "inter-（=between：在……之间）+ -stell-（星；恒星）+ -ar（形容词\n后缀）→在星星之间的→星际的",
+      "phonetic" : "ˌɪntəˈstelə(r)",
+      "pos" : "adj.",
+      "rootHint" : "strophe",
+      "word" : "interstellar"
+    },
+    {
+      "collocations" : [
+        "in the constellation of...：在……星座内",
+        "a constellation of Hollywood talent：一群好莱坞天才\n笔 记 区"
+      ],
+      "definition" : "星座；一系列（相关的想法、事物）；一群（相关的人）",
+      "examples" : [
+
+      ],
+      "frequency" : 7323,
+      "mnemonic" : "con-（=with, together：与……一起；共同）+ -stell-（=star：星星）+\n-ation（名词后缀）→聚集在一起的星星→星座；一系列，一群（相",
+      "phonetic" : "ˌkɒnstəˈleɪʃn",
+      "pos" : "n.",
+      "rootHint" : "strophe",
+      "word" : "constellation"
+    }
+  ]
+}

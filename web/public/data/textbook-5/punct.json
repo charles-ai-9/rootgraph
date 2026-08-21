@@ -1,0 +1,1069 @@
+{
+  "chapter" : "26",
+  "chapterOrder" : 126,
+  "id" : "punct",
+  "meaningZh" : "刺穿；扎；戳及刺出来的点。",
+  "roots" : [
+    "punct"
+  ],
+  "semanticLabel" : "刺穿；扎；戳及刺出来的点。",
+  "source" : "textbook-5",
+  "titleZh" : "刺穿；扎；戳及刺出来的点。",
+  "words" : [
+    {
+      "collocations" : [
+        "or stops indicated”."
+      ],
+      "definition" : "不时打断；给…加标点符号",
+      "etymology" : "1630s, “to point out,” 来自拉丁语pungere “to prick, pierce”, 来自词根 peuk- “to prick”. 在文本中使用时，表示停顿或中断，“to have pauses",
+      "examples" : [
+        "Her speech was punctuated by bursts of applause.\n她的讲演不时被阵阵掌声打断。"
+      ],
+      "frequency" : 9404,
+      "mnemonic" : "punct-（to have pauses or stops：停顿或中断）+ u + -ate（动词后缀）\n→不时打断；给……加标点符号（表示停顿的点）\n来自拉丁语punctum，点，刺点，来自pungere，刺，击",
+      "phonetic" : "ˈpʌŋ(k)tʃʊeɪt",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "punctuate"
+    },
+    {
+      "collocations" : [
+        "punctuation mark：标点符号"
+      ],
+      "definition" : "标点符号的使用；标点符号",
+      "examples" : [
+
+      ],
+      "frequency" : 16520,
+      "phonetic" : "pʌŋ(k)tʃʊˈeɪʃ(ə)n;-tjʊ-",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "punctuation"
+    },
+    {
+      "collocations" : [
+        "mend the puncture：补了（车胎上的）洞",
+        "puncture wound：穿刺伤\n笔 记 区\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "刺破 vt.&vi. 扎破 n. （车胎上的）刺孔；（皮肤上的）扎孔",
+      "examples" : [
+        "The bullet punctured the skull. 子弹射穿了头骨。\nHis bike’s rear tyre punctured. 他的自行车的后胎被扎破了。"
+      ],
+      "frequency" : 15260,
+      "mnemonic" : "punct-（=prick：刺；点）+ -ure（名词或动词后缀）→刺破；扎破；",
+      "phonetic" : "ˈpʌŋ(k)tʃə",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "puncture"
+    },
+    {
+      "collocations" : [
+        "have acupuncture in my lower back：在我的后腰上做了针灸",
+        "acupuncture point：穴位，穴道"
+      ],
+      "definition" : "针灸；针刺疗法",
+      "examples" : [
+
+      ],
+      "frequency" : 15892,
+      "mnemonic" : "acu-（=ak-：be sharp, pierce：尖；刺）+ -puncture（皮肤上的扎孔）\n→因针刺而在皮肤上留下扎孔→针灸；针刺疗法",
+      "phonetic" : "ˈækjʊˌpʌŋ(k)tʃə",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "acupuncture"
+    },
+    {
+      "collocations" : [
+        "as well as things that affect the feelings), 来自古法语poignant “sharp,\npointed” (13c.), poindre “to prick, sting”的现在分词形式，来自拉丁\n语pungere “to prick, pierce, sting,” figuratively, “to vex, grieve, trouble,",
+        "poignant satire：尖刻的讽刺",
+        "a poignant love story：一个令人感伤的爱情故事"
+      ],
+      "definition" : "尖刻的（cutting）；辛酸的（piercing\/touching）；切中要害的（being to the point）",
+      "etymology" : "Late 14c., “painful to physical or mental feeling” (of sauce, spice, wine afflict” (from suffixed form of PIE root *peuk- “to prick”). Related: Poignantly.",
+      "examples" : [
+
+      ],
+      "frequency" : 9901,
+      "mnemonic" : "poign-（=pung-：刺穿）+ -ant（形容词后缀）→感情上被刺穿的→\npoign-（=pung-：刺穿）+ -ant（形容词后缀）→旨在留下深刻印象\n的，直中要害的→尖刻的；切中要害的",
+      "phonetic" : "ˈpɒɪnjənt",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "poignant"
+    },
+    {
+      "collocations" : [
+        "the pungent smell：刺鼻的气味",
+        "pungent criticism：一针见血的批评"
+      ],
+      "definition" : "刺鼻的；刺激味觉的；一针见血的",
+      "examples" : [
+
+      ],
+      "frequency" : 13444,
+      "mnemonic" : "pung-（to pierce, prick：刺穿；扎；戳）+ -ent（形容词后缀）→刺穿\n的→刺激感官、味觉的（刺鼻的；辛辣的）；一针见血的",
+      "phonetic" : "ˈpʌn(d)ʒ(ə)nt",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "pungent"
+    },
+    {
+      "collocations" : [
+        "pounce on the photographer：猛扑向那个摄影师",
+        "like a tiger pouncing on its prey：宛如老虎扑猎物"
+      ],
+      "definition" : "（向某人）猛扑；（对某事）抓住不放；（动物、鸟等）猛扑（以捕杀） n. 猛扑；爪20000 词汇巅峰速记",
+      "etymology" : "n. pounce：claw of a bird of prey→猛禽的爪子→引申为猛扑",
+      "examples" : [
+        "The Democrats were ready to pounce on any Republican failings or\nmistakes. 民主党人准备要抓住共和党人的瑕疵或错误不放。"
+      ],
+      "mnemonic" : "vi. pounce：to jump or fall upon suddenly→猛扑；抓住不放",
+      "phonetic" : "paʊns",
+      "pos" : "vi.",
+      "rootHint" : "punct",
+      "word" : "pounce"
+    },
+    {
+      "collocations" : [
+        "Everything about the affair was repugnant to her.",
+        "pele- 含义为“flat, to spread：平的，铺开，伸展开”。",
+        "It is the hypothetical source of \/ evidence for its existence is provided by:",
+        "Greek plassein “to mold,” plasma “something molded or created;” Latin"
+      ],
+      "definition" : "让人反感的；不相容的；前后矛盾的",
+      "etymology" : "pele- (2) *pelə-, Proto-Indo-European root meaning “flat; to spread.” planus “flat, level, even, plain, clear;” Lithuanian plonas “thin;” Celtic *lanon “plain;” Old Church Slavonic polje “flat land, field,” Russian polyi “open;” Old English feld, Middle Dutch veld “field.”",
+      "examples" : [
+
+      ],
+      "frequency" : 18910,
+      "mnemonic" : "re-（=back：往回）+ -pugn（=to fight：与……打架）+-ant（形容词\n后缀）→打回去的→让人反感的；令人厌恶的→引申义为不相容的；",
+      "phonetic" : "rɪˈpʌgnənt",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "repugnant"
+    },
+    {
+      "collocations" : [
+        "take place：发生；进行",
+        "place 2nd and 3rd：取得第二、第三名",
+        "place an order for：订购……",
+        "place an advertisement in：在……登广告",
+        "all over the place：到处"
+      ],
+      "definition" : "地方；（常处的、应在的）位置；座位；地位；排名；位置vt. （小心地、稳妥地或从容地）放置；使处于（某种状态）；取得名次",
+      "etymology" : "13世纪的含义是“空间，尺寸范围，房间，面积”，来自古法语“地 方，地点”（12世纪），直接来自中世纪拉丁语placea“地方，地 点”，来自拉丁语platea“庭院，开放空间；广阔的道路，大道，” 笔 记 区 20000 词汇巅峰 速 记 来自希腊语plateia（hodos）“宽广的（道路）”。来自词根plat-“to spread：铺开；伸展开”。",
+      "examples" : [
+
+      ],
+      "frequency" : 181,
+      "phonetic" : "pleɪs",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "place"
+    },
+    {
+      "collocations" : [
+        "a job placement service：职业介绍所",
+        "placement with a foster family：安置到寄养家庭",
+        "a six-month work placement with the Japanese government：在日本政府\n6个月的实习工作"
+      ],
+      "definition" : "（物的）安放；（人的）安排；（对某人工作、家庭或学校的）安置；实习职位",
+      "examples" : [
+
+      ],
+      "frequency" : 4441,
+      "phonetic" : "ˈpleɪsmənt",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "placement"
+    },
+    {
+      "collocations" : [
+        "replace Robert as chairman of the company：取代罗伯特成为公司主席",
+        "replace it with oil：以油替换它",
+        "replace the caps on the bottle：把瓶盖盖回到瓶子上"
+      ],
+      "definition" : "代替；取代；用……代替；换上（新的）；把……放回原处",
+      "examples" : [
+
+      ],
+      "frequency" : 1186,
+      "mnemonic" : "re-（再；重新）+ place（放置）→重新放置→替换；取代；用……代",
+      "phonetic" : "rɪˈpleɪs",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "replace"
+    },
+    {
+      "collocations" : [
+        "the replacement of damaged or lost books：受损或遗失书籍的更换"
+      ],
+      "definition" : "代替；取代；接替者",
+      "examples" : [
+        "Taylor has nominated Adams as his replacement.\n泰勒已经提名亚当斯为接替者。"
+      ],
+      "frequency" : 3693,
+      "phonetic" : "rɪˈpleɪsm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "replacement"
+    },
+    {
+      "collocations" : [
+        "global marketplace：全球市场",
+        "the education marketplace：教育市场\n笔 记 区"
+      ],
+      "definition" : "市场交易；集市",
+      "examples" : [
+
+      ],
+      "frequency" : 4540,
+      "mnemonic" : "market（市场）+ place（地方）→市场所在地→市场交易；集市",
+      "phonetic" : "ˈmɑːkɪtpleɪs",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "marketplace"
+    },
+    {
+      "collocations" : [
+        "the difficulties facing women in the workplace：妇女在工作场所中面临"
+      ],
+      "definition" : "工作场所",
+      "examples" : [
+
+      ],
+      "frequency" : 4325,
+      "mnemonic" : "market（工作）+ place（场所）→工作场所",
+      "phonetic" : "ˈwɜːkpleɪs",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "workplace"
+    },
+    {
+      "collocations" : [
+        "gather around the fireplace：聚集在壁炉周围"
+      ],
+      "definition" : "壁炉",
+      "examples" : [
+
+      ],
+      "frequency" : 5603,
+      "mnemonic" : "fire（火）+ place（地方）→房间中有火的地方→壁炉",
+      "phonetic" : "ˈfaɪəpleɪs",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "fireplace"
+    },
+    {
+      "collocations" : [
+        "find someplace to live：找个住的地方"
+      ],
+      "definition" : "某地；在某处",
+      "examples" : [
+
+      ],
+      "frequency" : 7250,
+      "mnemonic" : "some（某个）+ place（地方）→某地；某处",
+      "phonetic" : "ˈsʌmpleɪs",
+      "pos" : "adv.",
+      "rootHint" : "punct",
+      "word" : "someplace"
+    },
+    {
+      "collocations" : [
+        "The motives of some immigrants were commonplace.\n一些移民的动机都是老生常谈了。"
+      ],
+      "definition" : "平凡的；普通的 n. 老生常谈，司空见惯的事",
+      "examples" : [
+        "Computers are now commonplace in primary classrooms.\n计算机如今在小学教室里很普遍。"
+      ],
+      "frequency" : 8846,
+      "mnemonic" : "common（常见的，寻常的）+ place（说到的地方）→经常说到的地\n方→老生常谈，司空见惯的事",
+      "phonetic" : "ˈkɒmənpleɪs",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "commonplace"
+    },
+    {
+      "collocations" : [
+        "foreign exchange.\n这些工厂已经取代了旅游业而成为该国最大的外汇来源。\n20000 词汇巅峰\n速\n记\n笔 记 区",
+        "More than 600,000 people were displaced by the tsunami.\n超过60万人被海啸搞得背井离乡。"
+      ],
+      "definition" : "取代；使背井离乡",
+      "examples" : [
+        "These factories have displaced tourism as the country’s largest source of"
+      ],
+      "frequency" : 6895,
+      "mnemonic" : "dis-（=apart, away：分离；分开）+ place（位置）→使……从一个位\n置分离，放在别的地方→取代；使背井离乡",
+      "phonetic" : "dɪsˈpleɪs",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "displace"
+    },
+    {
+      "collocations" : [
+        "displaced person：难民；因战争（或政治迫害）逃离家园的人"
+      ],
+      "definition" : "流离失所的",
+      "examples" : [
+
+      ],
+      "frequency" : 1027,
+      "phonetic" : "dɪsˈpleɪst",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "displaced"
+    },
+    {
+      "collocations" : [
+        "the displacement of traditional agriculture by industrial crops：经济作物",
+        "the largest displacement of civilian population：最大规模的平民迁移"
+      ],
+      "definition" : "替代；迁移；逐出家园",
+      "examples" : [
+
+      ],
+      "frequency" : 9327,
+      "phonetic" : "dɪsˈpleɪsm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "displacement"
+    },
+    {
+      "collocations" : [
+        "misplace the keys：把钥匙放错地方",
+        "his trust had been misplaced：他错误地信任了某人"
+      ],
+      "definition" : "放错地方；错误地信任某人",
+      "examples" : [
+
+      ],
+      "frequency" : 15143,
+      "mnemonic" : "mis-（错误地）+ place（放置）→错误地放置→放错地方；错误地信",
+      "phonetic" : "mɪsˈpleɪs",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "misplace"
+    },
+    {
+      "collocations" : [
+        "misplaced confidence \/ optimism\/fear：不应有的信心 \/ 乐观精神 \/ 恐惧",
+        "misplaced loyalty：无谓的忠诚"
+      ],
+      "definition" : "不合时宜的；不适宜的；（爱情、信任等）给错对象的；不该给的",
+      "examples" : [
+
+      ],
+      "frequency" : 16605,
+      "phonetic" : "ˌmɪsˈplest",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "misplaced"
+    },
+    {
+      "collocations" : [
+        "She didn’t have anyplace to go. 她没有任何地方可去"
+      ],
+      "definition" : "任何地方",
+      "examples" : [
+
+      ],
+      "frequency" : 15270,
+      "mnemonic" : "any（任何）+ place（地方）→任何地方",
+      "phonetic" : "ˈenɪpleɪs",
+      "pos" : "adv.",
+      "rootHint" : "punct",
+      "word" : "anyplace"
+    },
+    {
+      "collocations" : [
+        "a rare and irreplaceable jewel：一种罕见的不可替代的珠宝"
+      ],
+      "definition" : "（因贵重或独特而）不可替代的",
+      "examples" : [
+
+      ],
+      "frequency" : 18961,
+      "phonetic" : "ɪrɪˈpleɪsəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "irreplaceable"
+    },
+    {
+      "collocations" : [
+        "sketch, or diagram of any object,” from French plan “ground plan, map,”\nliterally “plane surface” (mid-16c.), from Latin planum “level or flat\nsurface,” noun use of adjective planus “level, flat” (from PIE root *pele- (2)\n“flat; to spread”). 1670年代，plan含义为透视图中的技术术语；1706\n年，其含义为“任何对象的绘图，草图或图解”，来自法语plan“地\n平面图，地图”，字面意思为“平面”（16世纪中期），来自拉丁\n语planum“水平或平面”，形容词planus的名词用法“水平的；平坦\n的”（来自词根*pele-（2）“平坦；展开”）。",
+        "work out a peace plan：制定出了一份和平计划",
+        "plan an 18-hole golf course on a 120-acre site：规划一个占地120公顷、\n拥有18洞的高尔夫球场",
+        "a plan of the garden：这个花园的设计图"
+      ],
+      "definition" : "计划；方案；安排；设计图 vt.&vi. 计划；规划",
+      "etymology" : "1670s as a technical term in perspective drawing; 1706 as “drawing,",
+      "examples" : [
+        "If you plan what you’re going to eat, you reduce your chances of overeating.\n如果你对要吃的东西加以计划，饮食过度的几率就会减少。"
+      ],
+      "frequency" : 414,
+      "phonetic" : "plæn",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "plan"
+    },
+    {
+      "collocations" : [
+        "New York City’s Planning Commissions rejected the builder’s proposals.\n纽约市市政规划委员会拒绝了那个建筑商的提案。"
+      ],
+      "definition" : "计划；市政规划",
+      "examples" : [
+        "The trip needs careful planning. 这次旅行需要认真计划。"
+      ],
+      "frequency" : 2188,
+      "phonetic" : "ˈplænɪŋ",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "planning"
+    },
+    {
+      "collocations" : [
+        "city planners：城市规划者",
+        "curriculum planners：课程规划人员"
+      ],
+      "definition" : "规划者；设计者",
+      "examples" : [
+
+      ],
+      "frequency" : 4550,
+      "phonetic" : "ˈplænə",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "planner"
+    },
+    {
+      "collocations" : [
+        "well planned：计划周详的",
+        "planned economy：计划经济",
+        "planned parenthood：计划生育\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "根据计划的；有计划的",
+      "examples" : [
+
+      ],
+      "frequency" : 5704,
+      "phonetic" : "plænd",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "planned"
+    },
+    {
+      "collocations" : [
+        "an unplanned baby：计划之外的孩子"
+      ],
+      "definition" : "计划之外的；意外的",
+      "examples" : [
+
+      ],
+      "frequency" : 18103,
+      "phonetic" : "ˌʌnˈplænd",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "unplanned"
+    },
+    {
+      "collocations" : [
+        "a plane surface：平面",
+        "the horizontal \/ vertical plane：水平 \/ 垂直平面",
+        "a plane crash：飞机坠毁"
+      ],
+      "definition" : "平的；平坦的 n. （飞机；平面；思想、存在或发展的）水平，程度",
+      "etymology" : "“flat surface,” c. 1600, 来自拉丁语planum “flat surface, plane, level, plain”.",
+      "examples" : [
+
+      ],
+      "frequency" : 1153,
+      "phonetic" : "pleɪn",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "plane"
+    },
+    {
+      "collocations" : [
+        "fly an airplane：开飞机"
+      ],
+      "definition" : "飞机",
+      "examples" : [
+
+      ],
+      "frequency" : 3551,
+      "mnemonic" : "air（空气）+ plane（飞机）→飞机",
+      "phonetic" : "ˈeəpleɪn",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "airplane"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "战斗机",
+      "examples" : [
+
+      ],
+      "frequency" : 15945,
+      "mnemonic" : "war（战争）+ plane（飞机）→战争中使用的飞机→战斗机",
+      "phonetic" : "ˈwɔːpleɪn",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "warplane"
+    },
+    {
+      "collocations" : [
+        "red planet：火星",
+        "the planets of our solar system：太阳系的行星",
+        "the battle to save the planet：拯救地球的战斗",
+        "to be on another planet \/ what planet is sb. on：指某人的想法完全不切\n实际；天真的\n笔 记 区\n太阳系行星轨道平面"
+      ],
+      "definition" : "行星1601",
+      "etymology" : "来自古英语planete, 来自古法语planete （现代法语planète）, 来自希腊 语planetes, 来自（asteres） planetai，含义为“wandering （stars）：四 处漫游的星星”。来自planasthai “to wander”，含义为“四处漫游”。 天上的繁星中，有些保持恒定位置，有些却在不停地运动。在希腊 语中，人们将那些不停运动的星星称为planetes，来自形容词planetai （四处漫游的）和动词planasthai（四处漫游）。来自希腊语asteres planetes，移动的星星，行星，来自planesthai，移动的，漫游的。 20000 词汇巅峰 速 记",
+      "examples" : [
+
+      ],
+      "mnemonic" : "邪记：plane（平面）+ t→太阳系中的行星轨道几乎在一个平面→行星",
+      "phonetic" : "ˈplænɪt",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "planet"
+    },
+    {
+      "collocations" : [
+        "a planetary system：行星系"
+      ],
+      "definition" : "行星的",
+      "examples" : [
+
+      ],
+      "frequency" : 7062,
+      "mnemonic" : "planet（行星）+-ary（形容词后缀）→行星的",
+      "phonetic" : "ˈplænɪt(ə)rɪ",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "planetary"
+    },
+    {
+      "collocations" : [
+        "Europe’s largest planetarium：欧洲最大的天文馆"
+      ],
+      "definition" : "天文馆；天象馆",
+      "examples" : [
+
+      ],
+      "frequency" : 18562,
+      "mnemonic" : "planet（行星）+ -arium（表地点）→即看星星的地方→引申词义天文",
+      "phonetic" : "ˌplænɪˈteərɪəm",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "planetarium"
+    },
+    {
+      "collocations" : [
+        "in the palm of one’s hand：在某人的掌控之中",
+        "bear the palm：获奖；获胜\npalm oil：棕榈油",
+        "Hold infinity in the palm of your hand，And eternity in an hour.\n一粒沙子看出世界，一朵野花里见天国。\n笔 记 区\n20000 词汇巅峰\n速\n记\n在你掌里盛住无限，一时间里便是永远。——William Blake"
+      ],
+      "definition" : "手掌；棕榈树 vt. 将…藏于掌中",
+      "etymology" : "palm：flat of the hand = 手的平面→手掌；将……藏于掌中",
+      "examples" : [
+        "To see a world in a grain of sand，And a heaven in a wild flower,"
+      ],
+      "frequency" : 3015,
+      "phonetic" : "pɑːm",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "palm"
+    },
+    {
+      "collocations" : [
+        "someone has the floor：某人开始发言",
+        "take to the floor：开始跳舞",
+        "wipe the floor with someone：彻底击败某人"
+      ],
+      "definition" : "地板；楼层；（海洋、山谷等的）底 vt. （因惊讶而）不知所措",
+      "examples" : [
+        "He was floored by the announcement.\n他被这个通告震惊得不知所措。"
+      ],
+      "frequency" : 640,
+      "phonetic" : "flɔː",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "floor"
+    },
+    {
+      "collocations" : [
+        "bare \/ polished floorboards：素面 \/ 打了蜡的地板"
+      ],
+      "definition" : "地板板材",
+      "examples" : [
+
+      ],
+      "frequency" : 14713,
+      "mnemonic" : "floor（地板）+ board（板）→地板板材",
+      "phonetic" : "ˈflɔːbɔːd",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "floorboard"
+    },
+    {
+      "collocations" : [
+        "wooden flooring：木地板 kitchen \/ bathroom flooring：厨房 \/ 浴室地砖"
+      ],
+      "definition" : "铺室内地面的材料",
+      "examples" : [
+
+      ],
+      "frequency" : 14981,
+      "phonetic" : "ˈflɔːrɪŋ",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "flooring"
+    },
+    {
+      "collocations" : [
+        "unflagging, 蓬勃的，不松懈的，不减弱的，不倦的。",
+        "flag the paragraphs：用特殊记号标出……段落",
+        "national flag：国旗",
+        "flagging support \/ enthusiasm：日益减少的支持；渐渐低落的热情",
+        "flag up the dangers of under-age drinking：\n引起大众对未成年人饮酒危害的关注",
+        "unflagging energy：无穷的精力"
+      ],
+      "definition" : "标示（重要处） vi. 疲乏；变弱；热情衰减 n. 旗帜；信号旗",
+      "examples" : [
+        "Her confidence had never flagged. 她的信心从未减弱。"
+      ],
+      "frequency" : 2465,
+      "mnemonic" : "来自fl，扑腾，拍打，拟声词，同flap, flutter，拍动，飘动。即模仿",
+      "phonetic" : "flæg",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "flag"
+    },
+    {
+      "collocations" : [
+        "open a flagship shop：开一家旗舰店 flagship product：龙头产品"
+      ],
+      "definition" : "旗舰；王牌产品",
+      "examples" : [
+
+      ],
+      "frequency" : 11673,
+      "mnemonic" : "flag（旗帜）+ ship（旗；舰）→旗舰；王牌产品· 286 ·",
+      "phonetic" : "ˈflægʃɪp",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "flagship"
+    },
+    {
+      "collocations" : [
+        "field an exciting and younger team：选派一支令人振奋的较年轻队伍上场",
+        "field questions：答复问题",
+        "conduct a field study：进行一项实地调查",
+        "an extensive natural gas field in Alaska：阿拉斯加的一个巨大的天然气田",
+        "in the field of：在……方面 \/ 领域"
+      ],
+      "definition" : "使参赛；成功应对 vi. 防守 n. 草地；田地；领域；旷野 adj.现场的；实地的",
+      "examples" : [
+        "When we are fielding, the umpires keep looking at the ball.\n当我们在防守时，裁判们都盯紧了球。"
+      ],
+      "frequency" : 440,
+      "mnemonic" : "释义：v. to go out to fight：进行战斗→使参赛；成功应对；防守\nn. earth, land, pasture, plain→土地，草地，平原，旷野",
+      "phonetic" : "fiːld",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "field"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "守场员；外野手",
+      "examples" : [
+
+      ],
+      "frequency" : 11148,
+      "phonetic" : "ˈfiːldə",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "fielder"
+    },
+    {
+      "collocations" : [
+        "anthropological fieldwork：人类学实地考察"
+      ],
+      "definition" : "实地研究；野外考察",
+      "examples" : [
+
+      ],
+      "frequency" : 11590,
+      "mnemonic" : "field（现场的）+ work（工作）→现场的工作→实地考察；现场调查",
+      "phonetic" : "ˈfiːldwɜːk",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "fieldwork"
+    },
+    {
+      "collocations" : [
+        "America’s Civil War battlefields：美国内战战场",
+        "the domestic battlefield of family life：家庭生活的内部问题"
+      ],
+      "definition" : "战场；斗争的领域；争论的问题",
+      "examples" : [
+
+      ],
+      "frequency" : 6101,
+      "mnemonic" : "battle（战斗）+ field（场地）→战场；争论的问题",
+      "phonetic" : "ˈbæt(ə)lfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "battlefield"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "飞机场；停机坪",
+      "examples" : [
+
+      ],
+      "frequency" : 13089,
+      "mnemonic" : "air（=aircraft：飞机）+ land（场地）→飞机起落的场地→飞机场；停机坪",
+      "phonetic" : "ˈeəfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "airfield"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "小麦田；玉米田",
+      "examples" : [
+
+      ],
+      "frequency" : 14070,
+      "mnemonic" : "corn（小麦、玉米等谷物）+ field（田地）→小麦田；玉米田",
+      "phonetic" : "ˈkɔːnfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "cornfield"
+    },
+    {
+      "collocations" : [
+        "dodge infield：向内场闪躲"
+      ],
+      "definition" : "（棒球、板球等场地的）内场 adv. 在（或向）场中心（移动）",
+      "examples" : [
+        "He put six fielders on the right side of the infield.\n他将6名接球手安排在内场的右侧。"
+      ],
+      "frequency" : 14980,
+      "mnemonic" : "in-（在内部）+ field（场地）→内场",
+      "phonetic" : "ˈɪnfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "infield"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "地雷区；水雷区；充满隐伏危险的事物",
+      "examples" : [
+        "The whole subject is a political minefield.\n整个话题成了一个政治雷区。"
+      ],
+      "frequency" : 18231,
+      "mnemonic" : "mine（地雷）+ field（场）→地雷场→雷区",
+      "phonetic" : "ˈmaɪnfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "minefield"
+    },
+    {
+      "collocations" : [
+        "far afield：远离家乡；去远处；在远方",
+        "further afield \/ farther afield：在更远处"
+      ],
+      "definition" : "去野外；在远处",
+      "examples" : [
+        "Journalists came from as far afield as China.\n新闻记者来自中国等遥远的地方。"
+      ],
+      "frequency" : 17993,
+      "mnemonic" : "a-（=away：远离）+ field（=land：场所）→远离……场所→去野外；",
+      "phonetic" : "əˈfiːld",
+      "pos" : "adv.",
+      "rootHint" : "punct",
+      "word" : "afield"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（棒球、板球等体育运动的）外场 adv. 在外场；向外场",
+      "examples" : [
+
+      ],
+      "frequency" : 14792,
+      "mnemonic" : "out（在外，向外）+ field（场）→外场；在外场；向外场",
+      "phonetic" : "ˈaʊtfiːld",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "outfield"
+    },
+    {
+      "collocations" : [
+        "center \/ right \/ left outfielder：中 \/ 右 \/ 左外场员"
+      ],
+      "definition" : "外场手；外场员",
+      "examples" : [
+
+      ],
+      "frequency" : 11066,
+      "phonetic" : "ˈaʊtfiːldə",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "outfielder"
+    },
+    {
+      "collocations" : [
+        "on the ground;” mid-14c., “level, all in one plane; even, smooth”.",
+        "on the ground;” mid-14c., “level, all in one plane; even, smooth”.",
+        "one vehicle with a flat tyre：一辆轮胎瘪掉的汽车",
+        "flat shoes：平底鞋",
+        "the flat and fertile farmlands：平坦肥沃的农田\nflat out：彻底的",
+        "a flat-out lie：彻底的谎言",
+        "do something flat out：竭尽全力地；全速地",
+        "work flat out：竭尽全力地工作"
+      ],
+      "definition" : "平的；水平的；平坦的；平底的 n. 平面；平底鞋；公寓套房adv. 断然；直截了当地；平直地 vi. 合住公寓",
+      "etymology" : "adv. 1550s, “absolutely, downright;” 1570s, “plainly, positively”. n. c. 1300, “stretched out (on a surface), prostrate, lying the whole length adj. c. 1300, “stretched out (on a surface), prostrate, lying the whole length",
+      "examples" : [
+        "He slammed the counter with the flat of his hand.\n他用手掌猛击柜台。"
+      ],
+      "frequency" : 2592,
+      "phonetic" : "flæt",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flat"
+    },
+    {
+      "collocations" : [
+        "to flatly deny \/ reject \/ oppose sth.：断然否认 \/ 拒绝 \/ 反对某事"
+      ],
+      "definition" : "断然；斩钉截铁地；枯燥地；缺乏热情地",
+      "examples" : [
+
+      ],
+      "frequency" : 11223,
+      "mnemonic" : "flat（平的）+ -ly（副词后缀）→即直接了当的，不拐弯抹角的→断\nflat（平的）+ -ly（副词后缀）→平淡无趣地；缺乏热情地",
+      "phonetic" : "ˈflætli",
+      "pos" : "adv.",
+      "rootHint" : "punct",
+      "word" : "flatly"
+    },
+    {
+      "collocations" : [
+        "flatten out：使变平；使自己贴着",
+        "flatten yourself against sth.：使自己贴着（以免挡道或被看见）",
+        "flatten someone：把人击倒"
+      ],
+      "definition" : "&vi. 使变平 vt. 夷平（建筑物、城镇或植物）；击倒",
+      "examples" : [
+        "The city has been flattened by heavy artillery bombardments.\n城市已被猛烈的炮火夷为平地。"
+      ],
+      "frequency" : 7565,
+      "mnemonic" : "flat（t双写，平的）+ -en（使变为）→使变平；引申词义夷平；击倒；",
+      "phonetic" : "ˈflæt(ə)n",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "flatten"
+    },
+    {
+      "collocations" : [
+        "a flattened disc：一张扁平的圆盘",
+        "flattened houses：被夷为平地的房屋",
+        "flattened bottom：平坦的底座"
+      ],
+      "definition" : "扁平的；被夷为平地的；没精打采的",
+      "examples" : [
+
+      ],
+      "frequency" : 15523,
+      "phonetic" : "ˈflætnd",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flattened"
+    },
+    {
+      "collocations" : [
+        "flatter oneself：自以为是；自鸣得意",
+        "be \/ feel flattered：被奉承得高兴；感到荣幸",
+        "flatter to deceive：显得比实际好；看似比实际成功\n释义：（V-T）奉承 If someone flatters you, they praise you in an exaggerated",
+        "way that is not sincere, because they want to please you or to persuade you",
+        "to do something."
+      ],
+      "definition" : "奉承；讨好；向……谄媚",
+      "examples" : [
+
+      ],
+      "frequency" : 10176,
+      "mnemonic" : "flat（平的，t双写）+ -er（表反复）→引申词义俯伏在地，拜倒→奉",
+      "phonetic" : "ˈflætə",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "flatter"
+    },
+    {
+      "collocations" : [
+        "flattering remarks：奉承话"
+      ],
+      "definition" : "使更漂亮的；恭维的；使人感到荣幸的",
+      "examples" : [
+        "It wasn’t a very flattering photograph.\n这张照片照得不如本人好看。"
+      ],
+      "frequency" : 14984,
+      "phonetic" : "ˈflætərɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flattering"
+    },
+    {
+      "collocations" : [
+        "moderate flattery：适度的捧场",
+        "Flattery will get you everywhere\/nowhere：\n阿谀奉承将会使你如愿以偿（或无济于事）"
+      ],
+      "definition" : "奉承；恭维",
+      "examples" : [
+        "You’re too intelligent to fall for his flattery.\n你很聪明，不会受他的阿谀奉承所惑。"
+      ],
+      "frequency" : 19801,
+      "phonetic" : "ˈflæt(ə)rɪ",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "flattery"
+    },
+    {
+      "collocations" : [
+        "oneself in flashy clothes：炫耀漂亮的衣服。→flaunt：炫耀；卖弄",
+        "flaunt his wealth：摆阔"
+      ],
+      "definition" : "炫耀；卖弄",
+      "examples" : [
+        "If you’ve got it, flaunt it.\n有什么能耐施出来瞧瞧。"
+      ],
+      "frequency" : 13806,
+      "mnemonic" : "也许来自flutter：挥动，fl-表示拍打→flaunt：炫耀。原义为to display",
+      "phonetic" : "flɔːnt",
+      "pos" : "vt.",
+      "rootHint" : "punct",
+      "word" : "flaunt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "陷入困境；不知所措；（在水或泥浆中）挣扎",
+      "etymology" : "struggle awkwardly and impotently：笨拙无力地挣扎",
+      "examples" : [
+        "What a pity that his career was left to flounder.\n真遗憾，他的事业陷入了困境。"
+      ],
+      "frequency" : 16987,
+      "mnemonic" : "flounder=to flop about：扑腾，拍打→引申词义挣扎，陷入困境，不知",
+      "phonetic" : "ˈflaʊndə",
+      "pos" : "vi.",
+      "rootHint" : "punct",
+      "word" : "flounder"
+    },
+    {
+      "collocations" : [
+        "a flaw in the character：性格上的缺点",
+        "fatal flaws：致命缺陷"
+      ],
+      "definition" : "（理论或论点中的）欠缺；（性格中的）缺点；瑕疵 v. 使有缺陷",
+      "examples" : [
+
+      ],
+      "frequency" : 5468,
+      "mnemonic" : "邪记：fla-（=flat：平面的）+ w（w形状代表凹陷）→平面上有凹陷，表示",
+      "phonetic" : "flɔː",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "flaw"
+    },
+    {
+      "collocations" : [
+        "seriously \/ fundamentally \/ fatally flawed：有严重\/根本\/致命缺点",
+        "a flawed argument：有错误的论点"
+      ],
+      "definition" : "有缺陷的",
+      "examples" : [
+
+      ],
+      "frequency" : 6819,
+      "phonetic" : "flɔd",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flawed"
+    },
+    {
+      "collocations" : [
+        "a flawless complexion \/ performance：无瑕疵的面容；完美的表演"
+      ],
+      "definition" : "完美的；无瑕的",
+      "examples" : [
+
+      ],
+      "frequency" : 11986,
+      "phonetic" : "ˈflɔːləs",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flawless"
+    },
+    {
+      "collocations" : [
+        "flake off：剥落",
+        "flakes of snow \/ paint：雪花；剥落的片片油漆"
+      ],
+      "definition" : "（油漆等）剥落 n. 小薄片（尤指碎片）；不可靠的人",
+      "examples" : [
+
+      ],
+      "frequency" : 7896,
+      "phonetic" : "fleɪk",
+      "pos" : "vi.",
+      "rootHint" : "punct",
+      "word" : "flake"
+    },
+    {
+      "collocations" : [
+        "flaky pastry：酥饼"
+      ],
+      "definition" : "易碎成小薄片的；易剥落的；不可靠的",
+      "examples" : [
+
+      ],
+      "frequency" : 18408,
+      "phonetic" : "ˈfleɪkɪ",
+      "pos" : "adj.",
+      "rootHint" : "punct",
+      "word" : "flaky"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "雪花；雪片",
+      "examples" : [
+
+      ],
+      "frequency" : 12723,
+      "mnemonic" : "snow（雪花）+ flake：剥落；小薄片→雪花；雪片",
+      "phonetic" : "ˈsnəʊfleɪk",
+      "pos" : "n.",
+      "rootHint" : "punct",
+      "word" : "snowflake"
+    }
+  ]
+}

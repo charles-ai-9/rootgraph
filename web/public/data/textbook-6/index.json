@@ -1,0 +1,577 @@
+[
+  {
+    "chapter" : "1",
+    "chapterOrder" : 101,
+    "file" : "ser.json",
+    "id" : "ser",
+    "meaningEn" : "",
+    "meaningZh" : "排列；排成行；加入；顺序等含义。",
+    "roots" : [
+      "ser"
+    ],
+    "semanticLabel" : "排列；排成行；加入；顺序等含义。",
+    "source" : "textbook-6",
+    "titleZh" : "排列；排成行；加入；顺序等含义。",
+    "wordCount" : 70
+  },
+  {
+    "chapter" : "2",
+    "chapterOrder" : 102,
+    "file" : "mis.json",
+    "id" : "mis",
+    "meaningEn" : "",
+    "meaningZh" : "送，派，来自拉丁语词根 mittere to release",
+    "roots" : [
+      "mis",
+      "mit"
+    ],
+    "semanticLabel" : "送，派，来自拉丁语词根 mittere to release",
+    "source" : "textbook-6",
+    "titleZh" : "送，派，来自拉丁语词根 mittere to release",
+    "wordCount" : 79
+  },
+  {
+    "chapter" : "3",
+    "chapterOrder" : 103,
+    "file" : "mut.json",
+    "id" : "mut",
+    "meaningEn" : "to change",
+    "meaningZh" : "改变。",
+    "roots" : [
+      "mut"
+    ],
+    "semanticLabel" : "改变。",
+    "source" : "textbook-6",
+    "titleZh" : "改变。",
+    "wordCount" : 10
+  },
+  {
+    "chapter" : "4",
+    "chapterOrder" : 104,
+    "file" : "mis-2.json",
+    "id" : "mis-2",
+    "meaningEn" : "change",
+    "meaningZh" : "改变。",
+    "roots" : [
+      "mis"
+    ],
+    "semanticLabel" : "改变。",
+    "source" : "textbook-6",
+    "titleZh" : "改变。",
+    "wordCount" : 126
+  },
+  {
+    "chapter" : "5",
+    "chapterOrder" : 105,
+    "file" : "pag.json",
+    "id" : "pag",
+    "meaningEn" : "fasten",
+    "meaningZh" : "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "roots" : [
+      "pag"
+    ],
+    "semanticLabel" : "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "source" : "textbook-6",
+    "titleZh" : "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "wordCount" : 66
+  },
+  {
+    "chapter" : "6",
+    "chapterOrder" : 106,
+    "file" : "mens.json",
+    "id" : "mens",
+    "meaningEn" : "measure”的含义为“测量”。",
+    "meaningZh" : "",
+    "roots" : [
+      "mens",
+      "meter"
+    ],
+    "semanticLabel" : "measure的",
+    "source" : "textbook-6",
+    "titleZh" : "measure的",
+    "wordCount" : 38
+  },
+  {
+    "chapter" : "7",
+    "chapterOrder" : 107,
+    "file" : "mod.json",
+    "id" : "mod",
+    "meaningEn" : "",
+    "meaningZh" : "take appropriate",
+    "roots" : [
+      "mod"
+    ],
+    "semanticLabel" : "take appropriate",
+    "source" : "textbook-6",
+    "titleZh" : "take appropriate",
+    "wordCount" : 54
+  },
+  {
+    "chapter" : "8",
+    "chapterOrder" : 108,
+    "file" : "mid.json",
+    "id" : "mid",
+    "meaningEn" : "",
+    "meaningZh" : "中间的。",
+    "roots" : [
+      "mid",
+      "med"
+    ],
+    "semanticLabel" : "中间的。",
+    "source" : "textbook-6",
+    "titleZh" : "中间的。",
+    "wordCount" : 213
+  },
+  {
+    "chapter" : "9",
+    "chapterOrder" : 109,
+    "file" : "cur.json",
+    "id" : "cur",
+    "meaningEn" : "to run, flow, move quickly",
+    "meaningZh" : "跑；流；快速移动。由此引",
+    "roots" : [
+      "cur",
+      "curr"
+    ],
+    "semanticLabel" : "跑；流；快速移动。",
+    "source" : "textbook-6",
+    "titleZh" : "跑；流；快速移动。",
+    "wordCount" : 36
+  },
+  {
+    "chapter" : "10",
+    "chapterOrder" : 110,
+    "file" : "car.json",
+    "id" : "car",
+    "meaningEn" : "",
+    "meaningZh" : "车；负载。",
+    "roots" : [
+      "car",
+      "carr",
+      "char"
+    ],
+    "semanticLabel" : "车；负载。",
+    "source" : "textbook-6",
+    "titleZh" : "车；负载。",
+    "wordCount" : 262
+  },
+  {
+    "chapter" : "11",
+    "chapterOrder" : 111,
+    "file" : "lun.json",
+    "id" : "lun",
+    "meaningEn" : "",
+    "meaningZh" : "月亮。",
+    "roots" : [
+      "lun"
+    ],
+    "semanticLabel" : "月亮。",
+    "source" : "textbook-6",
+    "titleZh" : "月亮。",
+    "wordCount" : 2
+  },
+  {
+    "chapter" : "12",
+    "chapterOrder" : 112,
+    "file" : "lus.json",
+    "id" : "lus",
+    "meaningEn" : "",
+    "meaningZh" : "光。",
+    "roots" : [
+      "lus",
+      "lust"
+    ],
+    "semanticLabel" : "光。",
+    "source" : "textbook-6",
+    "titleZh" : "光。",
+    "wordCount" : 11
+  },
+  {
+    "chapter" : "13",
+    "chapterOrder" : 113,
+    "file" : "lumin.json",
+    "id" : "lumin",
+    "meaningEn" : "light, shine，表示“光；发亮；照射”。",
+    "meaningZh" : "",
+    "roots" : [
+      "lumin"
+    ],
+    "semanticLabel" : "light, shine，表示光；发亮；照射。",
+    "source" : "textbook-6",
+    "titleZh" : "light, shine，表示光；发亮；照射。",
+    "wordCount" : 43
+  },
+  {
+    "chapter" : "14",
+    "chapterOrder" : 114,
+    "file" : "solv.json",
+    "id" : "solv",
+    "meaningEn" : "",
+    "meaningZh" : "松开，使放松，分开，割裂",
+    "roots" : [
+      "solv",
+      "solut",
+      "lyz",
+      "lysis",
+      "lytic"
+    ],
+    "semanticLabel" : "松开，使放松，分开，割裂",
+    "source" : "textbook-6",
+    "titleZh" : "松开，使放松，分开，割裂",
+    "wordCount" : 11
+  },
+  {
+    "chapter" : "15",
+    "chapterOrder" : 115,
+    "file" : "solv-2.json",
+    "id" : "solv-2",
+    "meaningEn" : "",
+    "meaningZh" : "松开，使放松，分开，割裂",
+    "roots" : [
+      "solv",
+      "solut",
+      "lyz",
+      "lysis",
+      "lytic"
+    ],
+    "semanticLabel" : "松开，使放松，分开，割裂",
+    "source" : "textbook-6",
+    "titleZh" : "松开，使放松，分开，割裂",
+    "wordCount" : 18
+  },
+  {
+    "chapter" : "16",
+    "chapterOrder" : 116,
+    "file" : "lyz.json",
+    "id" : "lyz",
+    "meaningEn" : "to loose, untie, a loosening",
+    "meaningZh" : "解开；松开",
+    "roots" : [
+      "lyz",
+      "lyst",
+      "lysis",
+      "lytic"
+    ],
+    "semanticLabel" : "解开；松开",
+    "source" : "textbook-6",
+    "titleZh" : "解开；松开",
+    "wordCount" : 12
+  },
+  {
+    "chapter" : "17",
+    "chapterOrder" : 117,
+    "file" : "lyze.json",
+    "id" : "lyze",
+    "meaningEn" : "松开，解开，是与单词loose",
+    "meaningZh" : "松开的，解开的",
+    "roots" : [
+      "lyze"
+    ],
+    "semanticLabel" : "松开的，解开的",
+    "source" : "textbook-6",
+    "titleZh" : "松开的，解开的",
+    "wordCount" : 26
+  },
+  {
+    "chapter" : "18",
+    "chapterOrder" : 118,
+    "file" : "publ.json",
+    "id" : "publ",
+    "meaningEn" : "public",
+    "meaningZh" : "公开的；公众的",
+    "roots" : [
+      "publ"
+    ],
+    "semanticLabel" : "公开的；公众的",
+    "source" : "textbook-6",
+    "titleZh" : "公开的；公众的",
+    "wordCount" : 53
+  },
+  {
+    "chapter" : "19",
+    "chapterOrder" : 119,
+    "file" : "reg.json",
+    "id" : "reg",
+    "meaningEn" : "统治，是与单词reign",
+    "meaningZh" : "统治；支配有关（n",
+    "roots" : [
+      "reg",
+      "rig"
+    ],
+    "semanticLabel" : "统治；支配有关（n",
+    "source" : "textbook-6",
+    "titleZh" : "统治；支配有关（n",
+    "wordCount" : 21
+  },
+  {
+    "chapter" : "20",
+    "chapterOrder" : 120,
+    "file" : "reg-2.json",
+    "id" : "reg-2",
+    "meaningEn" : "to rule",
+    "meaningZh" : "管理；监管；支配；控制。",
+    "roots" : [
+      "reg"
+    ],
+    "semanticLabel" : "管理；监管；支配；控制。",
+    "source" : "textbook-6",
+    "titleZh" : "管理；监管；支配；控制。",
+    "wordCount" : 8
+  },
+  {
+    "chapter" : "21",
+    "chapterOrder" : 121,
+    "file" : "reg-3.json",
+    "id" : "reg-3",
+    "meaningEn" : "rule, 表示“习惯，常规，规则”。",
+    "meaningZh" : "",
+    "roots" : [
+      "reg"
+    ],
+    "semanticLabel" : "rule, 表示习惯，常规，规则。",
+    "source" : "textbook-6",
+    "titleZh" : "rule, 表示习惯，常规，规则。",
+    "wordCount" : 8
+  },
+  {
+    "chapter" : "22",
+    "chapterOrder" : 122,
+    "file" : "rog.json",
+    "id" : "rog",
+    "meaningEn" : "reg-，表示",
+    "meaningZh" : "move in straight line：横着走。",
+    "roots" : [
+      "rog"
+    ],
+    "semanticLabel" : "move in straight line：横着走。",
+    "source" : "textbook-6",
+    "titleZh" : "move in straight line：横着走。",
+    "wordCount" : 2
+  },
+  {
+    "chapter" : "23",
+    "chapterOrder" : 123,
+    "file" : "rog-2.json",
+    "id" : "rog-2",
+    "meaningEn" : "to ask, question, entreat, request",
+    "meaningZh" : "询问；请求；要求。",
+    "roots" : [
+      "rog"
+    ],
+    "semanticLabel" : "询问；请求；要求。",
+    "source" : "textbook-6",
+    "titleZh" : "询问；请求；要求。",
+    "wordCount" : 61
+  },
+  {
+    "chapter" : "25",
+    "chapterOrder" : 125,
+    "file" : "rect.json",
+    "id" : "rect",
+    "meaningEn" : "right，表示“纠正；矫正；改正”。",
+    "meaningZh" : "",
+    "roots" : [
+      "rect"
+    ],
+    "semanticLabel" : "right，表示纠正；矫正；改正。",
+    "source" : "textbook-6",
+    "titleZh" : "right，表示纠正；矫正；改正。",
+    "wordCount" : 16
+  },
+  {
+    "chapter" : "26",
+    "chapterOrder" : 126,
+    "file" : "isol.json",
+    "id" : "isol",
+    "meaningEn" : "isle",
+    "meaningZh" : "岛屿，因此 isolate 的含义为使孤立、隔离（即使岛屿孤立）",
+    "roots" : [
+      "isol"
+    ],
+    "semanticLabel" : "岛屿",
+    "source" : "textbook-6",
+    "titleZh" : "岛屿",
+    "wordCount" : 26
+  },
+  {
+    "chapter" : "27",
+    "chapterOrder" : 127,
+    "file" : "li.json",
+    "id" : "li",
+    "meaningEn" : "tie, bind",
+    "meaningZh" : "系，捆，绑 =bind。",
+    "roots" : [
+      "li",
+      "lig"
+    ],
+    "semanticLabel" : "系，捆，绑 =bind。",
+    "source" : "textbook-6",
+    "titleZh" : "系，捆，绑 =bind。",
+    "wordCount" : 24
+  },
+  {
+    "chapter" : "28",
+    "chapterOrder" : 128,
+    "file" : "chall.json",
+    "id" : "chall",
+    "meaningEn" : "call”表示“呼喊；叫嚣；挑衅”。",
+    "meaningZh" : "",
+    "roots" : [
+      "chall"
+    ],
+    "semanticLabel" : "call表示呼喊；叫嚣；挑衅。",
+    "source" : "textbook-6",
+    "titleZh" : "call表示呼喊；叫嚣；挑衅。",
+    "wordCount" : 19
+  },
+  {
+    "chapter" : "29",
+    "chapterOrder" : 129,
+    "file" : "scend.json",
+    "id" : "scend",
+    "meaningEn" : "to climb",
+    "meaningZh" : "爬；攀登等含义。",
+    "roots" : [
+      "scend"
+    ],
+    "semanticLabel" : "爬；攀登等含义。",
+    "source" : "textbook-6",
+    "titleZh" : "爬；攀登等含义。",
+    "wordCount" : 48
+  },
+  {
+    "chapter" : "30",
+    "chapterOrder" : 130,
+    "file" : "dec.json",
+    "id" : "dec",
+    "meaningEn" : "fit, proper, suit",
+    "meaningZh" : "合适；得体；合宜",
+    "roots" : [
+      "dec"
+    ],
+    "semanticLabel" : "合适；得体；合宜",
+    "source" : "textbook-6",
+    "titleZh" : "合适；得体；合宜",
+    "wordCount" : 4
+  },
+  {
+    "chapter" : "31",
+    "chapterOrder" : 131,
+    "file" : "dec-2.json",
+    "id" : "dec-2",
+    "meaningEn" : "ornament",
+    "meaningZh" : "装饰",
+    "roots" : [
+      "dec"
+    ],
+    "semanticLabel" : "装饰",
+    "source" : "textbook-6",
+    "titleZh" : "装饰",
+    "wordCount" : 18
+  },
+  {
+    "chapter" : "32",
+    "chapterOrder" : 132,
+    "file" : "dain.json",
+    "id" : "dain",
+    "meaningEn" : "dignity",
+    "meaningZh" : "尊贵；漂亮；文雅",
+    "roots" : [
+      "dain"
+    ],
+    "semanticLabel" : "尊贵；漂亮；文雅",
+    "source" : "textbook-6",
+    "titleZh" : "尊贵；漂亮；文雅",
+    "wordCount" : 2
+  },
+  {
+    "chapter" : "33",
+    "chapterOrder" : 133,
+    "file" : "doc.json",
+    "id" : "doc",
+    "meaningEn" : "to teach",
+    "meaningZh" : "教，教授。",
+    "roots" : [
+      "doc"
+    ],
+    "semanticLabel" : "教，教授。",
+    "source" : "textbook-6",
+    "titleZh" : "教，教授。",
+    "wordCount" : 13
+  },
+  {
+    "chapter" : "34",
+    "chapterOrder" : 134,
+    "file" : "dog.json",
+    "id" : "dog",
+    "meaningEn" : "doc-=to teach",
+    "meaningZh" : "教；教导",
+    "roots" : [
+      "dog"
+    ],
+    "semanticLabel" : "教；教导",
+    "source" : "textbook-6",
+    "titleZh" : "教；教导",
+    "wordCount" : 2
+  },
+  {
+    "chapter" : "35",
+    "chapterOrder" : 135,
+    "file" : "dox.json",
+    "id" : "dox",
+    "meaningEn" : "doc-，含义为“教”。",
+    "meaningZh" : "",
+    "roots" : [
+      "dox"
+    ],
+    "semanticLabel" : "doc-",
+    "source" : "textbook-6",
+    "titleZh" : "doc-",
+    "wordCount" : 49
+  },
+  {
+    "chapter" : "36",
+    "chapterOrder" : 136,
+    "file" : "ger.json",
+    "id" : "ger",
+    "meaningEn" : "hand",
+    "meaningZh" : "手",
+    "roots" : [
+      "ger"
+    ],
+    "semanticLabel" : "hand",
+    "source" : "textbook-6",
+    "titleZh" : "hand",
+    "wordCount" : 1
+  },
+  {
+    "chapter" : "37",
+    "chapterOrder" : 137,
+    "file" : "urg-y.json",
+    "id" : "urg-y",
+    "meaningEn" : "制作",
+    "meaningZh" : "",
+    "roots" : [
+      "urg（y）"
+    ],
+    "semanticLabel" : "制作",
+    "source" : "textbook-6",
+    "titleZh" : "制作",
+    "wordCount" : 12
+  },
+  {
+    "chapter" : "38",
+    "chapterOrder" : 138,
+    "file" : "im.json",
+    "id" : "im",
+    "meaningEn" : "to copy",
+    "meaningZh" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制；",
+    "roots" : [
+      "im"
+    ],
+    "semanticLabel" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制",
+    "source" : "textbook-6",
+    "titleZh" : "像；模仿；仿造；临摹；imit-=to copy, portray：复制",
+    "wordCount" : 76
+  }
+]

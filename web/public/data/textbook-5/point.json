@@ -1,0 +1,337 @@
+{
+  "chapter" : "25",
+  "chapterOrder" : 125,
+  "id" : "point",
+  "meaningZh" : "扎；戳；刺。",
+  "roots" : [
+    "point",
+    "pun",
+    "punc"
+  ],
+  "semanticLabel" : "扎；戳；刺。",
+  "source" : "textbook-5",
+  "titleZh" : "扎；戳；刺。",
+  "words" : [
+    {
+      "collocations" : [
+        "neuter past participle punctum was used as a noun, meaning “small hole",
+        "beside the point：不相关的",
+        "to the point：中肯的",
+        "come to the point \/ get to the point：谈正题；言归正传\n笔 记 区\n20000 词汇巅峰\n速\n记\nmake one’s point or prove one’s point：证明自己的论点",
+        "point of view：观点；立场"
+      ],
+      "definition" : "论点；重点；意图 vi. 指向；表明 vt. 对准",
+      "etymology" : "c. 1200, “minute amount, single item in a whole; sharp end of a sword, etc.,” a merger of two words, both ultimately from Latin pungere “to prick, pierce,” from nasalized form of PIE root *peuk- “to prick.” The Latin",
+      "examples" : [
+
+      ],
+      "frequency" : 212,
+      "mnemonic" : "made by pricking”. 来自prick：扎；戳→扎、戳出来的小洞：point。\npunct- \/ pung-：刺，击→刺出来的小洞：point",
+      "phonetic" : "pɒɪnt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "point"
+    },
+    {
+      "collocations" : [
+        "a pointed comment \/ remark：一针见血的评论 \/ 说话"
+      ],
+      "definition" : "尖的；（批评等）尖锐的",
+      "examples" : [
+
+      ],
+      "frequency" : 228,
+      "phonetic" : "ˈpɒɪntɪd",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "pointed"
+    },
+    {
+      "collocations" : [
+        "be pointedly absent from the news conference：有意缺席了那场新闻发布会",
+        "look pointedly at her watch：刻意地看了看手表"
+      ],
+      "definition" : "明确地；尖锐地；直言不讳地",
+      "examples" : [
+
+      ],
+      "frequency" : 13060,
+      "phonetic" : "ˈpɔɪntɪdli",
+      "pos" : "adv.",
+      "rootHint" : "point",
+      "word" : "pointedly"
+    },
+    {
+      "collocations" : [
+        "offer you some useful pointers：给你提供一些有用的线索"
+      ],
+      "definition" : "建议；线索；（钟表、仪表等的）指针；教鞭",
+      "examples" : [
+
+      ],
+      "frequency" : 10924,
+      "phonetic" : "ˈpɒɪntə",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "pointer"
+    },
+    {
+      "collocations" : [
+        "be pointless to continue：继续下去也枉然"
+      ],
+      "definition" : "无意义的；不值得做的",
+      "examples" : [
+
+      ],
+      "frequency" : 11739,
+      "phonetic" : "ˈpɒɪntlɪs",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "pointless"
+    },
+    {
+      "collocations" : [
+        "a pointy little beard：一撮尖尖的小胡子"
+      ],
+      "definition" : "尖的；有尖头的",
+      "examples" : [
+
+      ],
+      "frequency" : 19620,
+      "phonetic" : "ˈpɒɪntɪ",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "pointy"
+    },
+    {
+      "collocations" : [
+        "the midpoint between New York and Chicago：纽约与芝加哥之间的中",
+        "reach the midpoint of her life：达到人生历程的一半"
+      ],
+      "definition" : "中点；中心位置；（事件进程的）中间",
+      "examples" : [
+
+      ],
+      "frequency" : 16807,
+      "mnemonic" : "mid-（=middle：中间）+ point（点）→中点；中间",
+      "phonetic" : "ˈmɪdpɒɪnt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "midpoint"
+    },
+    {
+      "collocations" : [
+        "pinpoint the cause of death：确定死因",
+        "pinpoint his precise location on a map：在地图上指出他的确切位置\n笔 记 区"
+      ],
+      "definition" : "准确指出（原因）；给……准确定位",
+      "examples" : [
+
+      ],
+      "frequency" : 8311,
+      "mnemonic" : "pin（大头针）+ point（点；指出）→the point of pin：大头针的针尖\n→比喻准确指出（像用大头针的针尖指出一样明确）；给……准确定",
+      "phonetic" : "ˈpɪnpɒɪnt",
+      "pos" : "vt.",
+      "rootHint" : "point",
+      "word" : "pinpoint"
+    },
+    {
+      "collocations" : [
+        "three-pointer on the buzzer：压哨三分球"
+      ],
+      "definition" : "三分球",
+      "examples" : [
+
+      ],
+      "frequency" : 19436,
+      "phonetic" : "θriːˈpɔɪntər",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "three-pointer"
+    },
+    {
+      "collocations" : [
+        "an army checkpoint：军队检查站"
+      ],
+      "definition" : "检查站；边防关卡",
+      "examples" : [
+
+      ],
+      "frequency" : 9979,
+      "mnemonic" : "check（检查）+ point（地点）→检查站",
+      "phonetic" : "ˈtʃekpɒɪnt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "checkpoint"
+    },
+    {
+      "collocations" : [
+        "at gunpoint：用枪威胁；在枪口威胁下"
+      ],
+      "definition" : "枪口",
+      "examples" : [
+        "The driver was robbed at gunpoint.\n司机遭持枪抢劫。"
+      ],
+      "frequency" : 17059,
+      "mnemonic" : "gun（枪）+ point（尖端；尖头）→枪的尖端→枪口",
+      "phonetic" : "ˈgʌnpɒɪnt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "gunpoint"
+    },
+    {
+      "collocations" : [
+        "appoint him （as） captain of the English team：任命他为英格兰队队长"
+      ],
+      "definition" : "任命；委任；安排，确定（时间、地点）",
+      "examples" : [
+        "Has anybody been appointed to take his place.\n有人被派去取代他的位置吗？"
+      ],
+      "frequency" : 3200,
+      "mnemonic" : "ap（=ad：去）+ point（点）→到指定地点去→任命；委派；确定",
+      "phonetic" : "əˈpɒɪnt",
+      "pos" : "vt.",
+      "rootHint" : "point",
+      "word" : "appoint"
+    },
+    {
+      "collocations" : [
+        "get a dental appointment at 3 o’clock：约了3点看牙医",
+        "have \/ make an appointment with sb.：和某人有约",
+        "his appointment as principal：他担任校长的任命",
+        "a permanent \/ first appointment：固定职位；第一次任职"
+      ],
+      "definition" : "任命；约定；任命的职位",
+      "examples" : [
+
+      ],
+      "frequency" : 3048,
+      "phonetic" : "əˈpɔɪntmənt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "appointment"
+    },
+    {
+      "collocations" : [
+        "the appointed hour of the ceremony：该仪式的指定时间"
+      ],
+      "definition" : "指定的",
+      "examples" : [
+
+      ],
+      "frequency" : 13218,
+      "phonetic" : "əˈpɒɪntɪd",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "appointed"
+    },
+    {
+      "collocations" : [
+        "the new appointee to the post：新委任此职务者"
+      ],
+      "definition" : "被任命者；被委任者",
+      "examples" : [
+
+      ],
+      "frequency" : 10323,
+      "phonetic" : "əˌpɒɪnˈtiː",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "appointee"
+    },
+    {
+      "collocations" : [
+        "disappoint her fans：使她的歌迷失望",
+        "disappoint the hopes of many of its supporters：使许多支持者的希望破\n灭了"
+      ],
+      "definition" : "使失望；使破灭",
+      "examples" : [
+
+      ],
+      "frequency" : 8361,
+      "mnemonic" : "dis-（使相反）+ appoint（指定）→即没有指定，任命→引申义为使",
+      "phonetic" : "dɪsəˈpɒɪnt",
+      "pos" : "vt.",
+      "rootHint" : "point",
+      "word" : "disappoint"
+    },
+    {
+      "collocations" : [
+        "be bitterly disappointed at：对……极为失望"
+      ],
+      "definition" : "失望的；沮丧的；失意的",
+      "examples" : [
+
+      ],
+      "frequency" : 4027,
+      "phonetic" : "dɪsəˈpɒɪntɪd",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "disappointed"
+    },
+    {
+      "collocations" : [
+        "a disappointing result \/ performance：令人失望的结果 \/ 演出"
+      ],
+      "definition" : "令人失望的；令人沮丧的",
+      "examples" : [
+
+      ],
+      "frequency" : 7350,
+      "phonetic" : "dɪsəˈpɒɪntɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "point",
+      "word" : "disappointing"
+    },
+    {
+      "collocations" : [
+        "to our great disappointment：令我们大失所望的是",
+        "a bitter \/ major disappointment：令人极度失望 \/ 大失所望的事"
+      ],
+      "definition" : "失望；沮丧；使人失望的人（或事物）；令人扫兴的人（或事物）",
+      "examples" : [
+
+      ],
+      "frequency" : 4617,
+      "phonetic" : "dɪsəˈpɒɪntm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "disappointment"
+    },
+    {
+      "collocations" : [
+        "be bright pink with embarrassment：尴尬得满脸绯红"
+      ],
+      "definition" : "粉红色 adj. 粉红色的 v. 用剑轻刺",
+      "examples" : [
+
+      ],
+      "frequency" : 2512,
+      "mnemonic" : "拉丁语pungere “to prick, pierce, stab”：刺；戳→pink：用剑轻刺",
+      "phonetic" : "pɪŋk",
+      "pos" : "n.",
+      "rootHint" : "point",
+      "word" : "pink"
+    },
+    {
+      "collocations" : [
+        "stab, puncture” is from mid-15c.",
+        "punch out：用拳猛击",
+        "punch him on the chin：对准他的下巴猛击一拳",
+        "punch a hole in the carton：在纸板箱上戳了个孔",
+        "without sufficient punch：不够有力\npunch in \/ out：用记时卡登录（上、下班）时间；刷记时卡\n笔 记 区"
+      ],
+      "definition" : "用拳猛击；按（键或钮）；在……上打孔 n. 一拳；力量；效力",
+      "etymology" : "“to thrust, push; jostle;” also, “prod, to drive (cattle, etc.) by poking and 20000 词汇巅峰 速 记 prodding,” late 14c., from Old French ponchonner “to punch, prick, stamp,” from ponchon “pointed tool, piercing weapon” (see punch (n.1)). Meaning “to pierce, emboss with a tool” is from early 15c.; meaning “to",
+      "examples" : [
+
+      ],
+      "frequency" : 4393,
+      "mnemonic" : "-punct-：刺，戳→punch：用拳猛击；按键；打孔；力量",
+      "phonetic" : "pʌn(t)ʃ",
+      "pos" : "vt.",
+      "rootHint" : "pun",
+      "word" : "punch"
+    }
+  ]
+}

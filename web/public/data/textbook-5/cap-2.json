@@ -1,0 +1,264 @@
+{
+  "chapter" : "39",
+  "chapterOrder" : 139,
+  "id" : "cap-2",
+  "meaningZh" : "抓；拿。",
+  "roots" : [
+    "cap"
+  ],
+  "semanticLabel" : "抓；拿。",
+  "source" : "textbook-5",
+  "titleZh" : "抓；拿。",
+  "words" : [
+    {
+      "collocations" : [
+        "capture the pilot：俘虏了飞行员",
+        "capture of the town：夺取该镇",
+        "capture the historian’s attention：吸引历史学家的注意",
+        "captured criminals：被抓获的罪犯"
+      ],
+      "definition" : "俘虏；捕获；充分体现；吸引；拍摄 n. 占领",
+      "examples" : [
+        "The images were captured by TV crews filming outside the base.\n这些镜头被正在基地外拍摄的电视台工作人员捕捉到了。"
+      ],
+      "frequency" : 1727,
+      "mnemonic" : "cap-（抓；拿）+ -ture（名词后缀，表示行为、状态）→俘获；捕",
+      "phonetic" : "ˈkæptʃə",
+      "pos" : "vt.",
+      "rootHint" : "cap",
+      "word" : "capture"
+    },
+    {
+      "collocations" : [
+        "recapture the area：重新占领这个地区",
+        "recapture the center vote：夺回中间选票"
+      ],
+      "definition" : "重新占领；（从竞争对手处）夺回；抓回 n. 重新占领",
+      "examples" : [
+
+      ],
+      "frequency" : 11071,
+      "mnemonic" : "re-（=again：再次）+ capture（占领）→再次占领→夺回；重新占领",
+      "phonetic" : "riːˈkæptʃə",
+      "pos" : "vt.",
+      "rootHint" : "cap",
+      "word" : "recapture"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（图片或卡通的）说明文字 vt. 给（图片、照片等）加说明文字",
+      "examples" : [
+        "The photograph is captioned ’People Power’\n.\n配图文字为“人民的力量”。"
+      ],
+      "frequency" : 9308,
+      "mnemonic" : "cap-（=catch, seize, take：抓；拿；握）+ -ion（名词后缀）→便于抓\n住的东西，即便于接受和理解的文字→（图片或卡通的）说明文字；",
+      "phonetic" : "ˈkæpʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "caption"
+    },
+    {
+      "collocations" : [
+        "take someone captive \/ hold someone captive：囚禁某人"
+      ],
+      "definition" : "被监禁的；（观众）不能随意离开的；（市场）被垄断的 n. 囚徒；俘虏",
+      "examples" : [
+
+      ],
+      "frequency" : 9433,
+      "mnemonic" : "capt-（=seize, take：抓；拿）+ -ive（形容词 \/ 名词后缀）→taken,\nseized：被抓住的人→被监禁的；不能随意离开的；囚徒",
+      "phonetic" : "ˈkæptɪv",
+      "pos" : "adj.",
+      "rootHint" : "cap",
+      "word" : "captive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "监禁；关押；困住",
+      "examples" : [
+        "The bird had escaped from captivity. 那只鸟已经逃离樊笼。"
+      ],
+      "frequency" : 10853,
+      "phonetic" : "kæpˈtɪvɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "captivity"
+    },
+    {
+      "collocations" : [
+        "person or an animal and keeps them as a prisoner"
+      ],
+      "definition" : "捕获者",
+      "examples" : [
+
+      ],
+      "frequency" : 12908,
+      "mnemonic" : "capt-（=to take, catch：捕捉）+ -or（名词后缀，表示人）→捕捉的\n人→捕获者",
+      "phonetic" : "ˈkæptə",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "captor"
+    },
+    {
+      "collocations" : [
+        "The children were captivated by her stories. 孩子们被她的故事迷住了。\n近义词：enchant：使着迷；使陶醉"
+      ],
+      "definition" : "迷住；使着迷",
+      "examples" : [
+        "I was captivated by her brilliant mind. 我为她的聪慧所迷。"
+      ],
+      "frequency" : 13041,
+      "mnemonic" : "captive（俘虏）+ -ate（动词后缀，使……）→使……成为俘虏→引",
+      "phonetic" : "ˈkæptɪveɪt",
+      "pos" : "vt.",
+      "rootHint" : "cap",
+      "word" : "captivate"
+    },
+    {
+      "collocations" : [
+        "... her captivating smile and alluring looks："
+      ],
+      "definition" : "迷人的；有魅力的；有吸引力的",
+      "etymology" : "“fascinating, bewitching, having power to hold the regard or affections,” 1670s.",
+      "examples" : [
+        "He found her captivating. 他发觉她很迷人。\n近义词：enchanting：迷人的；令人陶醉的；使人喜悦的"
+      ],
+      "frequency" : 18988,
+      "mnemonic" : "captivat（=captivate：使着迷）+ -ing（形容词后缀）→迷人的；有吸",
+      "phonetic" : "ˈkæptɪveɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "cap",
+      "word" : "captivating"
+    },
+    {
+      "collocations" : [
+        "a very capable speaker：一位非常有能力的演说者"
+      ],
+      "definition" : "有能力的；能力强的",
+      "examples" : [
+
+      ],
+      "frequency" : 2414,
+      "mnemonic" : "cap-（=grasp, take, catch：抓住；掌控）+ -able（形容词后缀，能……\n的）→能掌控（局面）的→有能力的；能力强的",
+      "phonetic" : "ˈkeɪpəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "cap",
+      "word" : "capable"
+    },
+    {
+      "collocations" : [
+        "earning capacity：收益能力",
+        "a seating capacity of about 50,000：大约5万座席",
+        "work at full capacity：满负荷进行生产",
+        "a maximum capacity of：最大容量",
+        "Representative of UNICEF.\n哈利韦尔女士以联合国儿童基金会特使的身份访问了菲律宾。",
+        "Her mental capacity and temperament are as remarkable as his.\n她的智慧和气质与他的同样出众。\n笔 记 区"
+      ],
+      "definition" : "能力；容量；产量；身份；容纳力 adj. 满座的",
+      "examples" : [
+        "Ms. Halliwell visited the Philippines in her capacity as a Special"
+      ],
+      "frequency" : 1790,
+      "mnemonic" : "capac（=capable：有能力的）+ -ity（名词后缀）→能力；容量；产",
+      "phonetic" : "kəˈpæsɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "capacity"
+    },
+    {
+      "collocations" : [
+        "military capability：军事力量",
+        "physical and mental capability：体能和智能"
+      ],
+      "definition" : "能力；才能；军事力量",
+      "examples" : [
+
+      ],
+      "frequency" : 2983,
+      "mnemonic" : "capabil（=capable：有能力的）+ -ity（名词后缀）→能力；才能；军",
+      "phonetic" : "ˌkeɪpəˈbɪləti",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "capability"
+    },
+    {
+      "collocations" : [
+        "incapable of speech：不会说话"
+      ],
+      "definition" : "没有能力的（做某事）；不能克制自己的",
+      "examples" : [
+        "He was found lying in the road, drunk and incapable.\n他被发现躺在路上，烂醉如泥。"
+      ],
+      "frequency" : 7920,
+      "mnemonic" : "in-（=not：不）+ capable（有能力的）→没有能力的；不能克制自己",
+      "phonetic" : "ɪnˈkeɪpəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "cap",
+      "word" : "incapable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使失去正常生活（或工作）能力；使伤残",
+      "examples" : [
+        "A serious fall incapacitated the 68-year-old congressman.\n一次严重跌伤使这位68岁的国会议员丧失了行动能力。"
+      ],
+      "frequency" : 20185,
+      "mnemonic" : "incapacit（=incapacity：无能力）+ -ate（动词后缀，使……）→",
+      "phonetic" : "ˌɪnkəˈpæsɪteɪt",
+      "pos" : "vt.",
+      "rootHint" : "cap",
+      "word" : "incapacitate"
+    },
+    {
+      "collocations" : [
+        "overhead \/ underground cables：高架 \/ 地下电缆",
+        "run commercials on cable systems：在有线电视上做广告\n词根 cop-=cap-，也表示“抓；握”。"
+      ],
+      "definition" : "缆绳；电缆；有线电视",
+      "examples" : [
+
+      ],
+      "frequency" : 2017,
+      "mnemonic" : "cab-（=cap-=to take, seize：抓住）+ -le（名词后缀）→缆绳（使船舶“抓",
+      "phonetic" : "ˈkeɪb(ə)l",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "cable"
+    },
+    {
+      "collocations" : [
+        "He copped all the hassle after the accident.\n他在事故发生后各种的罪都受了。"
+      ],
+      "definition" : "遭受；忍受 n. 警察（policeman）",
+      "examples" : [
+        "Somebody call the cops! 去个人报警啊！"
+      ],
+      "frequency" : 2220,
+      "mnemonic" : "cop-=to seize, take：抓，握→警察（抓嫌疑人的人）；遭受（被苦难",
+      "phonetic" : "kɒp",
+      "pos" : "vt.",
+      "rootHint" : "cap",
+      "word" : "cop"
+    },
+    {
+      "collocations" : [
+        "the world’s largest producer of copper：世界上最大的产铜国"
+      ],
+      "definition" : "铜；警察（经常缩写为cop） adj. 铜色的",
+      "examples" : [
+
+      ],
+      "frequency" : 5117,
+      "phonetic" : "ˈkɒpə",
+      "pos" : "n.",
+      "rootHint" : "cap",
+      "word" : "copper"
+    }
+  ]
+}

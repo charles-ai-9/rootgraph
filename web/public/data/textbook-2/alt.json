@@ -1,0 +1,2040 @@
+{
+  "chapter" : "2",
+  "chapterOrder" : 102,
+  "id" : "alt",
+  "meaningZh" : "高，长高",
+  "roots" : [
+    "alt"
+  ],
+  "semanticLabel" : "高，长高",
+  "source" : "textbook-2",
+  "titleZh" : "高，长高",
+  "words" : [
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "年长者；长辈；老人；父辈 adj. (两者中)年龄较大的，年长的",
+      "examples" : [
+
+      ],
+      "frequency" : 4096,
+      "phonetic" : "ˈeldə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "elder"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过了中年的；稍老的；上了年纪的",
+      "examples" : [
+
+      ],
+      "frequency" : 2930,
+      "phonetic" : "ˈeldəlɪ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "elderly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "最年长的；年事最高的(old的最高级)",
+      "examples" : [
+
+      ],
+      "frequency" : 9751,
+      "phonetic" : "ˈeldɪst",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "eldest"
+    },
+    {
+      "collocations" : [
+        "enhance consumer confidence(考)：增强消费者信心",
+        "By some studies, sending children to art classes do enhance\/strengthen\/"
+      ],
+      "definition" : "提高；增加；加强",
+      "examples" : [
+        "By some studies, selective schools do enhance their graduates’ lifetime\nearnings.\n根 据 一 些 研 究 ， 精 英 学 校 确 实 增 加 了 他 们 毕 业 生 一 生 的 收 入 。\n(2008.6)\n( 写 作、 阅 读 boost\/heighten\/improve\n) 重 点：“ 增 强、 提 高” 的 表 达 方 式：enhance\/strengthen\/",
+        "根据一些研究，送孩子去参加艺术班确实增强了孩子未来的竞争\n力。(2009.12作文：送孩子参加艺术班)"
+      ],
+      "frequency" : 2351,
+      "mnemonic" : "en(使动词)+hance(=-alt=old：长，长高；)→使变高→提高，增强\nchallenge：v. 挑战：(-chall=call：叫嚣、挑衅；h无意义；-enge为后缀→挑\near：耳朵→hear：听(耳朵是听的工具，二者很相关；h无意义)",
+      "phonetic" : "ɪnˈhɑːns; -hæns; en-",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "enhance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "增大的；加强的",
+      "examples" : [
+
+      ],
+      "frequency" : 7752,
+      "phonetic" : "ɪnˈhɑːnst",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "enhanced"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "增加；放大",
+      "examples" : [
+
+      ],
+      "frequency" : 7988,
+      "phonetic" : "ɪnˈhɑːnsm(ə)nt;en-",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "enhancement"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "高度；高地；(等级和地位等的)高级",
+      "examples" : [
+
+      ],
+      "frequency" : 6464,
+      "mnemonic" : "alt(=old：老、高；l相同，尾辅音t、d音似)+itude(度)→高度、海拔",
+      "phonetic" : "ˈæltɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "altitude"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "提升；提拔；赞扬；使得意",
+      "examples" : [
+
+      ],
+      "frequency" : 17989,
+      "mnemonic" : "ex(外；出来)+alt(高)→(使)高出来→提升；提高；高度赞扬",
+      "phonetic" : "ɪgˈzɔːlt;eg-",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "exalt"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "高贵的；高尚的；兴奋的",
+      "examples" : [
+
+      ],
+      "frequency" : 17513,
+      "phonetic" : "ɪgˈzɔːltɪd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "exalted"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分开；划分；除；使产生分歧",
+      "examples" : [
+
+      ],
+      "frequency" : 1956,
+      "phonetic" : "dɪˈvaɪd",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "divide"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分开的；分裂的；有分歧的",
+      "examples" : [
+
+      ],
+      "frequency" : 8421,
+      "phonetic" : "dɪˈvaɪdɪd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "divided"
+    },
+    {
+      "collocations" : [
+        "yield huge dividends(考)：产生巨额红利",
+        "cut the stockholdersˈdividends(考)：减少股东分红"
+      ],
+      "definition" : "股息；被除数；奖金",
+      "examples" : [
+
+      ],
+      "frequency" : 5905,
+      "mnemonic" : "divi(=divide：分)+dend(可能在模仿“cent：钱”)→分钱→分红，",
+      "phonetic" : "ˈdɪvɪdend",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "dividend"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "除法；部门；分割；师(军队)",
+      "examples" : [
+
+      ],
+      "frequency" : 1863,
+      "phonetic" : "dɪˈvɪʒ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "division"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分割的；分区的",
+      "examples" : [
+
+      ],
+      "frequency" : 19919,
+      "phonetic" : "dəˈvɪʒənl",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "divisional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分裂的；区分的；造成不和的",
+      "examples" : [
+
+      ],
+      "frequency" : 10121,
+      "phonetic" : "dɪˈvaɪsɪv",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "divisive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分隔物；除法器；圆规",
+      "examples" : [
+
+      ],
+      "frequency" : 19370,
+      "phonetic" : "dɪˈvaɪdə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "divider"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "细分，再分",
+      "examples" : [
+
+      ],
+      "frequency" : 17912,
+      "mnemonic" : "sub(下)+divide(分)→往下再分→细分；再分",
+      "phonetic" : "sʌbdɪˈvaɪd",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "subdivide"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "细分；分部；分割成的小块土地(供开发住房)",
+      "examples" : [
+
+      ],
+      "frequency" : 8368,
+      "phonetic" : "ˈsʌbdɪvɪʒ(ə)n;sʌbdɪˈvɪʒ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "subdivision"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "个别的；个人的；独特的 n. 个体",
+      "examples" : [
+
+      ],
+      "frequency" : 763,
+      "mnemonic" : "in(表否定)+divid(=divide：切分)+u(连接符)+al→不能再切分的→一个",
+      "phonetic" : "ˌɪndɪˈvɪdʒʊəl",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "individual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "个人主义；个人特征；利己主义",
+      "examples" : [
+
+      ],
+      "frequency" : 10809,
+      "mnemonic" : "以后缀-ism结尾，一般表示“……主义”(比如：socialism：社会主\n义；humanism：人道主义)→个人主义",
+      "phonetic" : "ɪndɪˈvɪdjʊ(ə)lɪz(ə)m",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "individualism"
+    },
+    {
+      "collocations" : [
+        "强调个人独特性的；奉行个人主义的 If you say that someone is",
+        "individualistic, you mean that they like to think and do things in their own",
+        "way, rather than imitating other people. You can also say that a society is",
+        "individualistic if it encourages people to behave in this way."
+      ],
+      "definition" : "强调个人独特性的；奉行个人主义的",
+      "examples" : [
+
+      ],
+      "frequency" : 15379,
+      "phonetic" : "ˌɪndɪvɪdjʊəˈlɪstɪk",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "individualistic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "个性；个人；个人特征；个人的嗜好(通常复数)",
+      "examples" : [
+
+      ],
+      "frequency" : 10852,
+      "phonetic" : "ˌɪndɪvɪdjʊˈælɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "individuality"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使具有个性的；使具备个人特色的",
+      "examples" : [
+
+      ],
+      "frequency" : 13039,
+      "phonetic" : "ˈɪndəˈvɪdʒʊəˈlaɪzd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "individualized"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "个别地，单独地",
+      "examples" : [
+
+      ],
+      "frequency" : 6174,
+      "phonetic" : "ɪndɪˈvɪdjʊ(ə)lɪ",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "individually"
+    },
+    {
+      "collocations" : [
+        "detection devices(考)：侦查设备 electronic devices(考)：电子设备"
+      ],
+      "definition" : "装置；设备；仪器；策略",
+      "examples" : [
+
+      ],
+      "frequency" : 1516,
+      "mnemonic" : "devic(=devis：设计)→设计出来的东西→设施；设备",
+      "phonetic" : "dɪˈvaɪs",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "device"
+    },
+    {
+      "collocations" : [
+        "cunning tools to cope with work that is dangerous, boring, burdensome, or",
+        "just plain nasty.\n从人类的创造性启蒙以来，人们已经设计出了更加巧妙的工具来从事\n危险、枯燥、繁重或肮脏的工作。\n笔 记 区",
+        "Since the dawn of human ingenuity, people have devised ever more tools",
+        "to improve interpersonal communication, among which is the Internet."
+      ],
+      "definition" : "设计；发明；想出；图谋",
+      "examples" : [
+        "Since the dawn of human ingenuity, people have devised ever more",
+        "自从人类的创造性启蒙以来，人们已经设计出了越来越多的工具\n去改善人际间的交流，互联网便是其中之一。"
+      ],
+      "frequency" : 5011,
+      "phonetic" : "dɪˈvaɪz",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "devise"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "结束；越过；从头到尾",
+      "examples" : [
+
+      ],
+      "frequency" : 124,
+      "phonetic" : "ˈəʊvə",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "over"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过度地；极度地",
+      "examples" : [
+
+      ],
+      "frequency" : 6168,
+      "phonetic" : "ˈəʊvəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "全部的；全体的；一切在内的",
+      "examples" : [
+
+      ],
+      "frequency" : 1955,
+      "phonetic" : "ˈəʊvərɔːl",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overall"
+    },
+    {
+      "collocations" : [
+        "(ADJ) You use overarching to indicate that you are talking about",
+        "something that includes or affects everything or everyone."
+      ],
+      "definition" : "包罗万象的；影响一切的",
+      "examples" : [
+
+      ],
+      "frequency" : 15855,
+      "phonetic" : ",əʊvərˈɑːtʃɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overarching"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "傲慢的；压倒一切的",
+      "examples" : [
+
+      ],
+      "frequency" : 19991,
+      "phonetic" : "əʊvəˈbeərɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overbearing"
+    },
+    {
+      "collocations" : [
+        "Something that is overblown makes something seem larger, more",
+        "important, or more significant than it really is."
+      ],
+      "definition" : "夸张的；过分的；夸大其词的",
+      "examples" : [
+
+      ],
+      "frequency" : 17550,
+      "phonetic" : "əʊvəˈbləʊn",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overblown"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自船上落下；向船外",
+      "examples" : [
+
+      ],
+      "frequency" : 11057,
+      "phonetic" : "ˈəʊvəbɔːd",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overboard"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "阴暗的；愁闷的；阴天的",
+      "examples" : [
+
+      ],
+      "frequency" : 17935,
+      "phonetic" : "ˈəʊvəkɑːst",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overcast"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大衣，外套",
+      "examples" : [
+
+      ],
+      "frequency" : 13081,
+      "phonetic" : "ˈəʊvəkəʊt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overcoat"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "克服；胜过",
+      "examples" : [
+
+      ],
+      "frequency" : 2730,
+      "phonetic" : "əʊvəˈkʌm",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overcome"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "(地方)过度拥挤的",
+      "examples" : [
+
+      ],
+      "frequency" : 13549,
+      "phonetic" : ",əuvəˈkraudid",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overcrowded"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "把……做得过分；使过于疲劳；对……表演过火；夸张",
+      "examples" : [
+
+      ],
+      "frequency" : 14612,
+      "phonetic" : "əʊvəˈduː",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overdo"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "配药过量；使过分沉溺",
+      "examples" : [
+
+      ],
+      "frequency" : 13582,
+      "phonetic" : "ˈəʊvədəʊs",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overdose"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "驱使过度；虐待；工作过度",
+      "examples" : [
+
+      ],
+      "frequency" : 19695,
+      "phonetic" : "ˈəʊvədraɪv",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overdrive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "迟到的；过期的；未兑的",
+      "examples" : [
+
+      ],
+      "frequency" : 11259,
+      "phonetic" : "əʊvəˈdjuː",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overdue"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使吃过量",
+      "examples" : [
+
+      ],
+      "frequency" : 18658,
+      "phonetic" : "əʊvərˈiːt",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overeat"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对……评价过高；对……估计过高",
+      "examples" : [
+
+      ],
+      "frequency" : 13361,
+      "phonetic" : "əʊvərˈɛstɪmeɪt;(for n.)əʊvərˈɛstɪmət",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overestimate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "溢出；泛滥；充溢",
+      "examples" : [
+
+      ],
+      "frequency" : 9489,
+      "phonetic" : "əʊvəˈfləʊ",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "overflow"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "长满，长得超过，长得过大",
+      "examples" : [
+
+      ],
+      "frequency" : 18531,
+      "phonetic" : "əʊvəˈgrəʊ",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overgrow"
+    },
+    {
+      "collocations" : [
+        "covered with a lot of untidy plants because it has not been looked after.\n2)(成年人)不成熟的，孩子气的 If you describe an adult as an overgrown",
+        "child, you mean that their behaviour and attitudes are like those of a child,",
+        "and that you dislike this."
+      ],
+      "definition" : "杂草丛生的；植被蔓生的；(成年人)不成熟的，孩子气的",
+      "examples" : [
+
+      ],
+      "frequency" : 16120,
+      "phonetic" : "əʊvəˈgrəʊn;ˈəʊvəgrəʊn",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overgrown"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "悬垂；逼近",
+      "examples" : [
+
+      ],
+      "frequency" : 16647,
+      "phonetic" : "əʊvəˈhæŋ",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "overhang"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "分解检查，大修；追上并超过",
+      "examples" : [
+
+      ],
+      "frequency" : 11266,
+      "phonetic" : "əʊvəˈhɔːl",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overhaul"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "在头顶上；在空中；在高处",
+      "examples" : [
+
+      ],
+      "frequency" : 5599,
+      "phonetic" : "əʊvəˈhed",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overhead"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无意中听到；偷听",
+      "examples" : [
+
+      ],
+      "frequency" : 8697,
+      "phonetic" : "əʊvəˈhɪə",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overhear"
+    },
+    {
+      "collocations" : [
+        "Someone who is overheated is very angry about something."
+      ],
+      "definition" : "十分愤怒的；过于激烈的",
+      "examples" : [
+
+      ],
+      "frequency" : 17769,
+      "phonetic" : ",ovɚˈhitɪd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overheated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "狂喜的；极度高兴的",
+      "examples" : [
+
+      ],
+      "frequency" : 19601,
+      "phonetic" : "əʊvəˈdʒɒɪd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overjoyed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重叠；重复",
+      "examples" : [
+
+      ],
+      "frequency" : 9056,
+      "phonetic" : "əʊvəˈlæp",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overlap"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "重叠；覆盖",
+      "examples" : [
+
+      ],
+      "frequency" : 11330,
+      "phonetic" : ",əʊvəˈlæpɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overlapping"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "覆盖物；覆盖图",
+      "examples" : [
+
+      ],
+      "frequency" : 15263,
+      "phonetic" : "əʊvəˈleɪ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overlay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "超载，超过负荷",
+      "examples" : [
+
+      ],
+      "frequency" : 14800,
+      "phonetic" : "əʊvəˈləʊd",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overload"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "俯瞰；忽略；远眺；检查；高耸于……之上",
+      "examples" : [
+
+      ],
+      "frequency" : 3165,
+      "phonetic" : "əʊvəˈlʊk",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overlook"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "通宵；昨晚；突然",
+      "examples" : [
+
+      ],
+      "frequency" : 4796,
+      "phonetic" : "əʊvəˈnaɪt",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overnight"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "压倒；克服；使无法忍受",
+      "examples" : [
+
+      ],
+      "frequency" : 12638,
+      "phonetic" : "əʊvəˈpaʊə",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overpower"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "(情感等)强烈得令人难以承受的，不可抗拒的；(气味、声音等)盖过一切的，过于强烈的",
+      "examples" : [
+
+      ],
+      "frequency" : 18316,
+      "phonetic" : "ˈovɚˈpaʊərɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overpowering"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "价格过高的；定价太高的",
+      "examples" : [
+
+      ],
+      "frequency" : 18092,
+      "phonetic" : "ˈovɚˈpraɪst",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overpriced"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "对……评价过高；高估",
+      "examples" : [
+
+      ],
+      "frequency" : 19865,
+      "phonetic" : "ˌəʊvəˈreɪt",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overrate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反应过火；反应过激",
+      "examples" : [
+
+      ],
+      "frequency" : 14827,
+      "phonetic" : "əʊvərɪˈækt",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "overreact"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "推翻；不顾；践踏",
+      "examples" : [
+
+      ],
+      "frequency" : 9695,
+      "phonetic" : "əʊvəˈraɪd",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "override"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "高于一切的，最重要的",
+      "examples" : [
+
+      ],
+      "frequency" : 12823,
+      "phonetic" : "əʊvəˈraɪdɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overriding"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "否决；统治；对……施加影响",
+      "examples" : [
+
+      ],
+      "frequency" : 12550,
+      "phonetic" : "əʊvəˈruːl",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overrule"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "泛滥成灾；超出限度",
+      "examples" : [
+
+      ],
+      "frequency" : 11537,
+      "phonetic" : "əʊvəˈrʌn",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overrun"
+    },
+    {
+      "collocations" : [
+        "overseas suppliers(考)：海外供应商 competition from overseas(考)：来"
+      ],
+      "definition" : "在海外，海外",
+      "examples" : [
+
+      ],
+      "frequency" : 5008,
+      "mnemonic" : "over(越过)+seas(海洋)→越过海洋→海外的、国外的",
+      "phonetic" : "əʊvəˈsiːz",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overseas"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "监督；俯瞰；审查；偷看到，无意中看到",
+      "examples" : [
+
+      ],
+      "frequency" : 4094,
+      "phonetic" : "əʊvəˈsiː",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "oversee"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "监督；工头",
+      "examples" : [
+
+      ],
+      "frequency" : 16511,
+      "phonetic" : "ˈəʊvəsɪə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overseer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使阴暗；使失色；遮阴；夺去……的光彩",
+      "examples" : [
+
+      ],
+      "frequency" : 9752,
+      "phonetic" : "əʊvəˈʃædəʊ",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overshadow"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "监督，照管；疏忽",
+      "examples" : [
+
+      ],
+      "frequency" : 6156,
+      "phonetic" : "ˈəʊvəsaɪt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "oversight"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过大的；超大的",
+      "examples" : [
+
+      ],
+      "frequency" : 15997,
+      "phonetic" : "ˈəʊvəˈsaɪz",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "oversize"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过大的，极大的",
+      "examples" : [
+
+      ],
+      "frequency" : 11109,
+      "phonetic" : "ˈovɚsaɪzd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "oversized"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "夸张；夸大的叙述",
+      "examples" : [
+
+      ],
+      "frequency" : 10933,
+      "phonetic" : "əʊvəˈsteɪt",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overstate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "赶上；压倒；突然来袭",
+      "examples" : [
+
+      ],
+      "frequency" : 9082,
+      "phonetic" : "əʊvəˈteɪk",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overtake"
+    },
+    {
+      "collocations" : [
+        "1)(of drugs and medicines 药品) that can be obtained without a",
+        "prescription (= a written order from a doctor) 无需处方可买到的；非处\n方的\n2)(North Amercian English,business 商) (of stocks and shares 股票及证券)",
+        "not appearing in an official stock exchange list 场外交易的"
+      ],
+      "definition" : "无需处方可买到的；非处方的；场外交易的",
+      "examples" : [
+
+      ],
+      "frequency" : 13448,
+      "phonetic" : "ˈəuvəðəˈkauntə",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "over-the-counter"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "推翻；倾覆；瓦解",
+      "examples" : [
+
+      ],
+      "frequency" : 8721,
+      "phonetic" : "əʊvəˈθrəʊ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overthrow"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "加班时间；延长时间；[体]加时赛 adj. 超时的；加班的 vt. 使超过时间 adv. 加班地",
+      "examples" : [
+
+      ],
+      "frequency" : 8486,
+      "phonetic" : "ˈəʊvətaɪm",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overtime"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "明显地；公开地，公然地",
+      "examples" : [
+
+      ],
+      "frequency" : 13030,
+      "phonetic" : "ˈovɚtli",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overtly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "泛音；暗示，寓意；弦外之音",
+      "examples" : [
+
+      ],
+      "frequency" : 14475,
+      "phonetic" : "ˈəʊvətəʊn",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overtone"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "前奏曲；提案；序幕",
+      "examples" : [
+
+      ],
+      "frequency" : 13826,
+      "phonetic" : "ˈəʊvətj(ʊ)ə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overture"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "推翻；倾覆；破坏",
+      "examples" : [
+
+      ],
+      "frequency" : 6288,
+      "phonetic" : "əʊvəˈtɜːn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overturn"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过度使用",
+      "examples" : [
+
+      ],
+      "frequency" : 19838,
+      "phonetic" : "əʊvəˈjuːz",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overuse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "概观；综述",
+      "examples" : [
+
+      ],
+      "frequency" : 7091,
+      "phonetic" : "ˈəʊvəvjuː",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "overview"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "超重的；过重的",
+      "examples" : [
+
+      ],
+      "frequency" : 6726,
+      "phonetic" : "ˌəʊvəˈweɪt",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overweight"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "压倒；淹没；受打击",
+      "examples" : [
+
+      ],
+      "frequency" : 4856,
+      "phonetic" : "əʊvəˈwelm",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "overwhelm"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "压倒性的；势不可挡的",
+      "examples" : [
+
+      ],
+      "frequency" : 3608,
+      "phonetic" : "ˌovɚˈwɛlmɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overwhelming"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "压倒性地；不可抵抗地",
+      "examples" : [
+
+      ],
+      "frequency" : 6991,
+      "phonetic" : "ˌovɚˈhwɛlmɪŋli",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "overwhelmingly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "工作过度的；劳累过度的",
+      "examples" : [
+
+      ],
+      "frequency" : 15376,
+      "phonetic" : "ˌovɚˈwɝkt",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overworked"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "过分热心的",
+      "examples" : [
+
+      ],
+      "frequency" : 19451,
+      "phonetic" : "ˌovɚˈzɛləs",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "overzealous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "持有，获得；保存，留存；支持，持续；认为；抓住，拿住1) 词根 -tain=hold 表示“维持、支持、持续”时：核心词汇：",
+      "examples" : [
+
+      ],
+      "phonetic" : "həuld",
+      "pos" : "v.",
+      "rootHint" : "alt",
+      "word" : "hold"
+    },
+    {
+      "collocations" : [
+        "maintain their living standard(考)：维持他们的生活标准"
+      ],
+      "definition" : "维持；维修；供养；继续；主张",
+      "examples" : [
+
+      ],
+      "frequency" : 925,
+      "mnemonic" : "main(=-man：手)+tain(=hold：维持；拿着；认为)→拿在手里\/维持在\n手里→维持；维修；认为",
+      "phonetic" : "meɪnˈteɪn;mənˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "maintain"
+    },
+    {
+      "collocations" : [
+        "a maintenance man(考)：一个维修工人"
+      ],
+      "definition" : "维护，维修；保持；生活费用",
+      "examples" : [
+
+      ],
+      "frequency" : 3091,
+      "mnemonic" : "mainten(=maintain：维持、维修)+ance(名词后缀)→维修；保养",
+      "phonetic" : "ˈmeɪntənəns",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "maintenance"
+    },
+    {
+      "collocations" : [
+        "sustained roar(考)：持续的咆哮声",
+        "for global economic integration will be more difficult in the United States",
+        "because of what has happened to the distribution of income and economic\ninsecurity.\n笔 记 区\n20000 词 汇巅峰\n速\n记\n他们真正担心的是，由于收入分配不均和经济不稳定，继续支持全球\n经济一体化的政治挑战在美国将会更加艰难。"
+      ],
+      "definition" : "支撑；持续；维持；忍受",
+      "examples" : [
+        "No, what they fear was that the political challenges of sustaining support"
+      ],
+      "frequency" : 3011,
+      "mnemonic" : "sus(=sub：从下往上)+tain(=hold：维持、持续)→(向上)维持、支持；",
+      "phonetic" : "səˈsteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "sustain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "持续性",
+      "examples" : [
+
+      ],
+      "frequency" : 9275,
+      "phonetic" : "səˈsteɪnəbɪlətɪ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "sustainability"
+    },
+    {
+      "collocations" : [
+        "sustainable competitive advantage(考)：可持续的竞争优势",
+        "arrangements in most countries were unsustainable.\n在一个标题为“避免老年危机”的报道中，认为大多数国家的养老金\n安排都是不可持续的。(2010.12)",
+        "A favorale environment is a vital\/crucial\/critical\/important\/essential"
+      ],
+      "definition" : "可持续的；足可支撑的",
+      "examples" : [
+        "In a report entitled “Averting the Old Age Crisis”, it argued that pension",
+        "节约资源是经济得以可持续发展的一个重要因素。(2003.12作\n文：浪费资源)\nelement\/factor for the sustainable development of the economy."
+      ],
+      "frequency" : 4955,
+      "mnemonic" : "sustain(持续)+able(可以……的)→可以持续的",
+      "phonetic" : "səˈsteɪnəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "sustainable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "持久的；持续的；持久不变的",
+      "examples" : [
+
+      ],
+      "frequency" : 6608,
+      "phonetic" : "səˈsteɪnd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "sustained"
+    },
+    {
+      "collocations" : [
+        "(N-UNCOUNT) 食物；营养；养料 Sustenance is food or drink",
+        "which a person, animal, or plant needs to remain alive and healthy."
+      ],
+      "definition" : "食物；营养；养料",
+      "examples" : [
+
+      ],
+      "frequency" : 14664,
+      "mnemonic" : "susten(=sustain：维持)+ence(名词后缀)→维持生命的东西→食物；营",
+      "phonetic" : "ˈsʌst(ə)nəns;-tɪn-",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "sustenance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不可持续的；无法维持的",
+      "examples" : [
+
+      ],
+      "frequency" : 17844,
+      "phonetic" : "ʌnsəˈsteɪnəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "unsustainable"
+    },
+    {
+      "collocations" : [
+        "retain it for his children.\n如果他自己没能实现一个更好生活的梦想，他仍然能为他的孩子保留\n着该梦想。",
+        "Scenic spots with beautiful landscape can always retain a large body of\ntourists.\n笔 记 区"
+      ],
+      "definition" : "保持；雇；记住",
+      "examples" : [
+        "If he failed to achieve the dream of a better life for himself, he could still",
+        "环境优美的景点总是能够留住大量游客。"
+      ],
+      "frequency" : 2748,
+      "mnemonic" : "re(返回)+tain(=hold：保存，留存)→拿回家(放好)→保留，保存",
+      "phonetic" : "rɪˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "retain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "保持者；家臣；定金；预付费用",
+      "examples" : [
+
+      ],
+      "frequency" : 17907,
+      "phonetic" : "rɪˈteɪnə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "retainer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "扣留，滞留；保留；记忆力",
+      "examples" : [
+
+      ],
+      "frequency" : 6633,
+      "phonetic" : "rɪˈtenʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "retention"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "拘留；留住；耽搁",
+      "examples" : [
+
+      ],
+      "frequency" : 7694,
+      "mnemonic" : "de(加强语气)+tain(=hold：保存，留存)→强行留下→拘留",
+      "phonetic" : "dɪˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "detain"
+    },
+    {
+      "collocations" : [
+        "(N-COUNT) (因其政治观点或活动而)被拘留者，被扣押者 A detainee",
+        "is someone who is held prisoner by a government because of his or her",
+        "political views or activities.\n3)hold 表示“持有；获得；拿着”时："
+      ],
+      "definition" : "(因其政治观点或活动而)被拘留者，被扣押者",
+      "examples" : [
+
+      ],
+      "frequency" : 8160,
+      "phonetic" : "ˌdɪteɪˈniː;ˌdiː-",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "detainee"
+    },
+    {
+      "collocations" : [
+        "copyright holders(考)：版权拥有者"
+      ],
+      "definition" : "所有人；持有人；(台、架等)支持物",
+      "examples" : [
+
+      ],
+      "frequency" : 5511,
+      "phonetic" : "ˈhəʊldə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "holder"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "股份；举办；收藏品",
+      "examples" : [
+
+      ],
+      "frequency" : 5395,
+      "phonetic" : "ˈhəʊldɪŋ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "holding"
+    },
+    {
+      "collocations" : [
+        "拒不退让者；拒不合作者；拒不参加者 A holdout is someone",
+        "who refuses to agree or act with other people in a particular situation and",
+        "by doing so stops the situation from progressing or being resolved."
+      ],
+      "definition" : "拒不退让者；拒不合作者；拒不参加者",
+      "examples" : [
+
+      ],
+      "frequency" : 18253,
+      "phonetic" : "ˈhəʊldaʊt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "holdout"
+    },
+    {
+      "collocations" : [
+        "household expenses(考)：家庭开支 stockholder(考)：股票持有人"
+      ],
+      "definition" : "家庭的；日常的；王室的 n. 家庭",
+      "examples" : [
+
+      ],
+      "frequency" : 1981,
+      "mnemonic" : "house+hold(持有、拥有)→每家都有的→家庭的、家喻户晓的",
+      "phonetic" : "ˈhaʊshəʊld",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "household"
+    },
+    {
+      "collocations" : [
+        "obtain American citizenship(考)：获得美国国籍",
+        "obtain funding from the government(考)：从政府获得资助",
+        "are constantly changing and the methods we use to obtain information are",
+        "often imprecise.\n了解一个人是一项无止境的任务，主要是因为人们一直在变，我们获\n取信息的方法通常也不精确。(1995.1)",
+        "The result of college ranking is usually controversial, largely because there",
+        "are multitudes of factors involved in it and the methods researchers use to",
+        "obtain information are often imprecise."
+      ],
+      "definition" : "获得；流行",
+      "examples" : [
+        "Getting to know someone is a never-ending task, largely because people",
+        "大学排名的结果通常都会引起争议，主要是因为包含的因素太\n多，研究者获取信息的方法也不够准确。(2010.12作文：大学排名)"
+      ],
+      "frequency" : 1604,
+      "mnemonic" : "ob(加强语气=to：去)+tain(=hold：获得、持有)→获得、取得",
+      "phonetic" : "əbˈteɪn",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "obtain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "包含；容纳；控制；牵制(敌军)",
+      "examples" : [
+
+      ],
+      "frequency" : 935,
+      "phonetic" : "kənˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "contain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "容器；集装箱",
+      "examples" : [
+
+      ],
+      "frequency" : 3390,
+      "phonetic" : "kənˈteɪnə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "container"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "包含；牵制；容量；密闭度",
+      "examples" : [
+
+      ],
+      "frequency" : 9786,
+      "phonetic" : "kənˈteɪnm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "containment"
+    },
+    {
+      "collocations" : [
+        "engaged young people continue to support the president and his agenda,",
+        "or will they gradually drift away?\n伴随着这个国家进一步进入到奥巴马政权，参政的年轻人会继续去支\n持他和他的计划，还是会渐渐远离？(2010.6)\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "仍旧，连续；继续，延续",
+      "examples" : [
+        "As the nation moves further into the Obama presidency, will politically"
+      ],
+      "frequency" : 294,
+      "mnemonic" : "contin(=contain：含有、有)+ue(动词后缀)→继续、延续(即：还有)",
+      "phonetic" : "kənˈtɪnjuː",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "continue"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "继续的；持久的",
+      "examples" : [
+
+      ],
+      "frequency" : 3296,
+      "phonetic" : "kənˈtɪnjuːd",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "continued"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连续的；持续的；继续的",
+      "examples" : [
+
+      ],
+      "frequency" : 3682,
+      "phonetic" : "kənˈtɪnjʊɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "continuing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连续性；一连串；分镜头剧本",
+      "examples" : [
+
+      ],
+      "frequency" : 6528,
+      "phonetic" : "ˌkɒntɪˈnjuːɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "continuity"
+    },
+    {
+      "collocations" : [
+        "continuous exploration(考)：持续不断的探索 continuous innovation(考)："
+      ],
+      "definition" : "连续的，持续的；继续的；连绵不断的",
+      "examples" : [
+
+      ],
+      "frequency" : 3452,
+      "phonetic" : "kənˈtɪnjʊəs",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "continuous"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "连续不断地",
+      "examples" : [
+
+      ],
+      "frequency" : 7052,
+      "phonetic" : "kənˈtɪnjʊəsli",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "continuously"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "频繁的；持续不断的",
+      "examples" : [
+
+      ],
+      "frequency" : 10291,
+      "mnemonic" : "continu(=continue：继续)+al(的)→不间断的、继续的",
+      "phonetic" : "kənˈtɪnjʊəl",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "continual"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "频繁地；不断地",
+      "examples" : [
+
+      ],
+      "frequency" : 5582,
+      "phonetic" : "kənˈtɪnjʊəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "alt",
+      "word" : "continually"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "继续；续集；延长；附加部分；扩建物",
+      "examples" : [
+
+      ],
+      "frequency" : 9022,
+      "phonetic" : "kəntɪnjʊˈeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "continuation"
+    },
+    {
+      "collocations" : [
+        "释义和用法：(N-COUNT) 统一体；连续体 A continuum is a set of things on a",
+        "scale, which have a particular characteristic to different degrees.",
+        "(N-COUNT) 连续发生的事情 A continuum is a continuous series of",
+        "closely connected events."
+      ],
+      "definition" : "连续统；连续统一体；连续发生的事情",
+      "examples" : [
+
+      ],
+      "frequency" : 8712,
+      "phonetic" : "kənˈtɪnjʊəm",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "continuum"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "适合；属于；关于",
+      "examples" : [
+
+      ],
+      "frequency" : 12558,
+      "mnemonic" : "per(=through：穿过去)+tain(=hold：拿)→拿过去(给另一个)→适合",
+      "phonetic" : "pəˈteɪn",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "pertain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "附属的；与……有关的",
+      "examples" : [
+
+      ],
+      "frequency" : 11511,
+      "phonetic" : "pɜːˈteɪnɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "pertaining"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相关的，相干的；中肯的；切题的",
+      "examples" : [
+
+      ],
+      "frequency" : 10127,
+      "phonetic" : "ˈpɜːtɪnənt",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "pertinent"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "招待；娱乐；怀抱；容纳",
+      "examples" : [
+
+      ],
+      "frequency" : 5004,
+      "mnemonic" : "enter(=inter：在……之间、里面)+tain(=hold：拿、抓)→拿在……里\n面→容纳、怀抱；款待(即：把客人“拿”回家)",
+      "phonetic" : "entəˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "entertain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "演艺人员，表演者",
+      "examples" : [
+
+      ],
+      "frequency" : 8708,
+      "phonetic" : "entəˈteɪnə",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "entertainer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人愉快的",
+      "examples" : [
+
+      ],
+      "frequency" : 6579,
+      "phonetic" : "entəˈteɪnɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "entertaining"
+    },
+    {
+      "collocations" : [
+        "various forms of entertainments(考)：各种各样的娱乐形式",
+        "entertainment industry(考)：娱乐业"
+      ],
+      "definition" : "娱乐；款待；消遣",
+      "examples" : [
+
+      ],
+      "frequency" : 2372,
+      "phonetic" : "ˌentəˈteɪnmənt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "entertainment"
+    },
+    {
+      "collocations" : [
+        "amusement park(考)：游乐园 amuse the local tribes people(考)：娱乐当"
+      ],
+      "definition" : "娱乐、消遣",
+      "examples" : [
+
+      ],
+      "mnemonic" : "a(加强语气)+muse(=-vert：转移)→是(从工作中的紧张)转移出来→娱",
+      "phonetic" : "əˈmju:z",
+      "pos" : "v.",
+      "rootHint" : "alt",
+      "word" : "amuse"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "喜剧",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈkɔmidi",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "comedy"
+    },
+    {
+      "collocations" : [
+        "thrilling forms of recreation(考)：刺激的娱乐方式",
+        "recreation facilities(考)：娱乐设施"
+      ],
+      "definition" : "消遣、娱乐",
+      "examples" : [
+
+      ],
+      "mnemonic" : "recreat(=refresh：使……恢复精神、使振作精神)+ion(名词后缀)→使\n恢复精神、振作精神的东西→消遣、娱乐",
+      "phonetic" : "ˌrekriˈeiʃən",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "recreation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使……恢复精神、使……清新",
+      "examples" : [
+
+      ],
+      "mnemonic" : "re(又、再)+fresh(新鲜的、精神的、清新的)→又、再使……有精神→",
+      "phonetic" : "riˈfreʃ",
+      "pos" : "v.",
+      "rootHint" : "alt",
+      "word" : "refresh"
+    },
+    {
+      "collocations" : [
+        "attaining their ideals.\n20000 词 汇巅峰\n速\n记\n通常，正是缺乏行动最终阻止人们达到他们的理想。(2007.6)",
+        "All too often, it is the lack of action that ultimately holds people back from",
+        "attaining success.\n笔 记 区"
+      ],
+      "definition" : "达到，实现；获得；到达",
+      "examples" : [
+        "All too often, it is the lack of action that ultimately holds people back from",
+        "通常，正是缺乏行动最终阻止人们取得成功。(2011.12作文：成\n功之路)"
+      ],
+      "frequency" : 5390,
+      "phonetic" : "əˈteɪn",
+      "pos" : "vt.",
+      "rootHint" : "alt",
+      "word" : "attain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "可达到的；可到达的；可得到的",
+      "examples" : [
+
+      ],
+      "frequency" : 18444,
+      "phonetic" : "əˈteɪnəbl",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "attainable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "做不到的；难到达的",
+      "examples" : [
+
+      ],
+      "frequency" : 19948,
+      "phonetic" : "ʌnəˈteɪnəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "alt",
+      "word" : "unattainable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "达到；成就；学识",
+      "examples" : [
+
+      ],
+      "frequency" : 11076,
+      "phonetic" : "əˈteɪnm(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "attainment"
+    },
+    {
+      "collocations" : [
+        "1)戒绝；抑制 If you abstain from something, usually something",
+        "you want to do, you deliberately do not do it.\n2)(投票时)弃权 If you abstain during a vote, you do not use your vote."
+      ],
+      "definition" : "(投票时)放弃；抑制；戒除",
+      "examples" : [
+
+      ],
+      "frequency" : 14293,
+      "mnemonic" : "abs(=away：远离；相反)+tain(=hold：维持)→不再维持→放弃；抑",
+      "phonetic" : "əbˈsteɪn",
+      "pos" : "vi.",
+      "rootHint" : "alt",
+      "word" : "abstain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "节制；节欲；戒酒；禁食",
+      "examples" : [
+
+      ],
+      "frequency" : 11047,
+      "phonetic" : "ˈæbstɪnəns",
+      "pos" : "n.",
+      "rootHint" : "alt",
+      "word" : "abstinence"
+    }
+  ]
+}

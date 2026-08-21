@@ -1,0 +1,1482 @@
+{
+  "chapter" : "十一",
+  "chapterOrder" : 11,
+  "id" : "ply",
+  "roots" : [
+    "ply",
+    "ploy",
+    "ploit",
+    "pli",
+    "plic",
+    "plex",
+    "flex",
+    "play"
+  ],
+  "semanticLabel" : "ply\/ploy\/ploit",
+  "source" : "textbook-1",
+  "titleZh" : "ply\/ploy\/ploit",
+  "words" : [
+    {
+      "collocations" : [
+        "Old French aploiier “apply, use, attach”(12c., Modern French appliquer),",
+        "from Latin applicare “attach to, join, connect;” figuratively, “devote",
+        "(oneself) to, give attention,” from ad “to”(see ad-)+plicare “fold”(from PIE",
+        "The etymological sense is “bring things in contact with one another.” In",
+        "English, from c. 1400 as “use or employ” something for a certain purpose;",
+        "by-form applicate is recorded from 1530s.",
+        "apply for (考)：申请……",
+        "apply A to B (考)：将A运用于B",
+        "and Silicon Valley to apply their analytical skills to more practical—and\nrewarding—efforts.\n在科学领域没有太多工作给他们，因此他们去到华尔街或者是硅谷去\n把他们的分析技能运用在更加实用——回报也更丰厚——的工作上。",
+        "Nowadays, more and more digital products are applied to people’s daily"
+      ],
+      "definition" : "应用；申请；涂，敷",
+      "etymology" : "Late 14c., “join or combine (with); attach (to something), adhere,” from root *plek- “to plait”). “from early 15c. of lotions, plasters, etc.,” place in contact with the body, “also, of one’s mental powers or faculties,” put to work at a task or pursuit. “Meaning” seek a job by submitting an application for one is from 1851. A",
+      "examples" : [
+        "There aren’t many jobs in science for them, so they go to Wall Street",
+        "如今，越来越多的数字化产品被用在了人们的日常生活中。\nlife."
+      ],
+      "frequency" : 941,
+      "phonetic" : "əˈplaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "apply"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "应用；申请；敷用；应用程序",
+      "examples" : [
+
+      ],
+      "frequency" : 1528,
+      "mnemonic" : "applic (=apply：应用；申请；敷用；应用程序) +ion (名词性后缀) →",
+      "phonetic" : "ˌæplɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "application"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "申请人，申请者；请求者",
+      "examples" : [
+
+      ],
+      "frequency" : 5586,
+      "mnemonic" : "applic (=apply：申请) +ant (名词后缀：表“人”) → 申请人",
+      "phonetic" : "ˈæplɪk(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "applicant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "实用的；应用的",
+      "examples" : [
+
+      ],
+      "frequency" : 6561,
+      "mnemonic" : "apply (应用；申请；敷用) +ed (形容词性后缀) →实用的；应用的",
+      "phonetic" : "əˈplaɪd",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "applied"
+    },
+    {
+      "collocations" : [
+        "household appliances (考)：家用电器 (器械)",
+        "electrical appliances (考)：电器\n后缀 -ance 用法",
+        "word-forming element attached to verbs to form abstract nouns of process",
+        "or fact (convergence from converge), or of state or quality (absence from",
+        "absent); ultimately from Latin antia and -entia, which depended on the",
+        "vowel in the stem word, from PIE *-nt-, adjectival suffix.",
+        "As Old French evolved from Latin, these were leveled to-ance, but later",
+        "French borrowings from Latin (some of them subsequently passed to",
+        "English) used the appropriate Latin form of the ending, as did words",
+        "borrowed by English directly from Latin (diligence, absence).",
+        "English thus inherited a confused mass of words from French (crescent\/",
+        "croissant), and further confused it since c. 1500 by restoring–ence",
+        "selectively in some forms of these words to conform with Latin. Thus",
+        "dependant, but independence, etc."
+      ],
+      "definition" : "器具；器械；装置",
+      "examples" : [
+
+      ],
+      "frequency" : 6127,
+      "mnemonic" : "appli (=apply：用) +ance (名词后缀) →拿来用的东西→器具，器械",
+      "phonetic" : "əˈplaɪəns",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "appliance"
+    },
+    {
+      "collocations" : [
+        "be applicable to sb. \/ sth. (考)：适用于某人\/某物",
+        "which forms the basis of many skills applicable to both academic and",
+        "nonacademic tasks.\n它是在查找，理解和合成方面的一个经验，这种经验构成了很多技巧\n的基础，可同时适用于学术或非学术任务。\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "可应用的；可适用的；合适的",
+      "examples" : [
+        "It is an experience in searching out, understanding and synthesizing,"
+      ],
+      "frequency" : 7731,
+      "mnemonic" : "applic (=apply：运用) +able→可运用的，可适用的",
+      "phonetic" : "əˈplɪkəb(ə)l; ˈæplɪk-",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "applicable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "适应性；适用性",
+      "examples" : [
+
+      ],
+      "frequency" : 17228,
+      "mnemonic" : "applicable (可应用的；可适用的；合适的) +ility (名词后缀) → 适应",
+      "phonetic" : "ˌæplɪkəˈbɪlətɪ",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "applicability"
+    },
+    {
+      "collocations" : [
+        "If a person or company employs you, they pay you to work for them. 雇用",
+        "If you employ certain methods, materials, or expressions, you use them. 使\n用；采用"
+      ],
+      "definition" : "使用，采用；雇佣",
+      "examples" : [
+
+      ],
+      "frequency" : 1976,
+      "mnemonic" : "em (=in：进来) +ploy (使用) →招聘 (即：把人拿进来使用)",
+      "phonetic" : "ɪmˈplɒɪ; em-",
+      "pos" : "vt.",
+      "rootHint" : "ploy",
+      "word" : "employ"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "自雇的；个体经营的；自由职业的",
+      "examples" : [
+
+      ],
+      "frequency" : 14518,
+      "phonetic" : "ˈselfəmˈplɔid",
+      "pos" : "adj.",
+      "rootHint" : "ploy",
+      "word" : "self-employed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "失业的；未被利用的",
+      "examples" : [
+
+      ],
+      "frequency" : 6493,
+      "phonetic" : "ʌnɪmˈplɒɪd; -em-",
+      "pos" : "adj.",
+      "rootHint" : "ploy",
+      "word" : "unemployed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "失业；失业人数；失业率",
+      "examples" : [
+
+      ],
+      "frequency" : 3523,
+      "phonetic" : "ʌnɪmˈplɒɪm(ə)nt; -em-",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "unemployment"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "雇员；从业员工",
+      "examples" : [
+
+      ],
+      "frequency" : 933,
+      "phonetic" : "ɪmˈplɔɪi; ˌemplɔɪˈi:",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "employee"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "雇主，老板",
+      "examples" : [
+
+      ],
+      "frequency" : 2317,
+      "phonetic" : "ɪmˈplɒɪə; em-",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "employer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "雇用；职业；使用",
+      "examples" : [
+
+      ],
+      "frequency" : 2557,
+      "phonetic" : "ɪmˈplɒɪm(ə)nt; em-",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "employment"
+    },
+    {
+      "collocations" : [
+        "If you say that someone is exploiting you, you think that they are treating",
+        "you unfairly by using your work or ideas and giving you very little in\nreturn. 压榨；剥削；占……的便宜",
+        "If you exploit something, you use it well, and achieve something or gain",
+        "an advantage from it. 充分运用；发挥\n20000 词 汇巅峰\n速\n记\n笔 记 区",
+        "To exploit resources or raw materials means to develop them and use them",
+        "for industry or commercial activities. 开采；开发"
+      ],
+      "definition" : "剥削；利用；开发，开拓",
+      "examples" : [
+        "Critics claim he exploited black musicians for personal gain.\n批评家声称他压榨黑人音乐家谋求私利。",
+        "Cary is hoping to exploit new opportunities in Europe.\n卡里希望好好利用欧洲的新机遇。",
+        "I think we’re being very short sighted in not exploiting our own coal.\n我认为不开采我们自己的煤是非常短视的做法。"
+      ],
+      "frequency" : 4422,
+      "mnemonic" : "ex (外，出来) +ploit (=ploy=ply：使用) →用出来→剥削，开发 (即：",
+      "phonetic" : "ˈeksplɔɪt; ɪkˈsplɔɪt",
+      "pos" : "vt.",
+      "rootHint" : "ploit",
+      "word" : "exploit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "剥削；利用；开发，开采",
+      "examples" : [
+
+      ],
+      "frequency" : 6994,
+      "mnemonic" : "exploit (剥削；利用；开发，开拓) +ation (名词性后缀) → 剥削；利",
+      "phonetic" : "eksplɒɪˈteɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ploit",
+      "word" : "exploitation"
+    },
+    {
+      "collocations" : [
+        "If you explore a place, you travel around it to find out what it is like.\n在……探险；探测；勘察；考察",
+        "If you explore an idea or suggestion, you think about it or comment on it",
+        "in detail, in order to assess it carefully. 探讨，研究 (观点或建议)",
+        "If people explore an area for a substance such as oil or minerals, they study",
+        "the area and do tests on the land to see whether they can find it. 勘探",
+        "explored for oil and gas.\n当局允许在近海海域勘探石油和天然气。"
+      ],
+      "definition" : "被剥削的；被开发的；被利用的",
+      "examples" : [
+        "After exploring the old part of town there is a guided tour of the cathedral.\n游览完老城区之后，会由导游带队参观大教堂。",
+        "The secretary is expected to explore ideas for post-war reconstruction of\nthe area.\n部长预计将会探讨这个地区战后重建的意见。",
+        "The government is allowing the areas of inshore coastal waters to be"
+      ],
+      "frequency" : 20036,
+      "mnemonic" : "exploit (剥削；利用；开发，开拓) +ed (形容词性后缀表被动完成) →",
+      "phonetic" : "iksˈplɔitid",
+      "pos" : "adj.",
+      "rootHint" : "ploit",
+      "word" : "exploited"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "探测；探讨；勘探",
+      "examples" : [
+
+      ],
+      "frequency" : 3921,
+      "mnemonic" : "explore (探测；探讨；勘探) +ation (名词性后缀) → 探测；探讨；",
+      "phonetic" : "ekspləˈreɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "exploration"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "探测者，探测器；探险家",
+      "examples" : [
+
+      ],
+      "frequency" : 7912,
+      "mnemonic" : "explore (探测；勘探) +er (表示人或物的名词性后缀) →探测者，探测",
+      "phonetic" : "ekˈsplɔːrə(r)",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "explorer"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "探究的；勘探的；考察的",
+      "examples" : [
+
+      ],
+      "frequency" : 10677,
+      "mnemonic" : "explore (探测；勘探) +atory (形容词性后缀) → 探究的；勘探的；考",
+      "phonetic" : "ɪkˈsplɒrət(ə)rɪ; ek-",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "exploratory"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "未勘查过的",
+      "examples" : [
+
+      ],
+      "frequency" : 18317,
+      "mnemonic" : "un (否定性前缀) +explore (探测；勘探) +ed (形容词性后缀表被动完\n成) →未勘查过的",
+      "phonetic" : "ʌnɪkˈsplɔːd; ʌnek-",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "unexplored"
+    },
+    {
+      "collocations" : [
+        "had been formed in columns),” from French déployer “unroll, unfold,”",
+        "from Old French desploiier “unfold,” from Latin displicare “unfold,\nscatter,” from dis- (see dis-)+plicare “to fold”(from PIE root *plek- “to",
+        "Figurative use by 1829. Intransitive sense from 1796. Related: Deployed;\ndeploying.\n释义和用法：\n[动词+名词短语]",
+        "(technical) to move soldiers or weapons into a position where they are",
+        "ready for military action (术语) 部署，调度 (军队或武器)",
+        "to use sth effectively 有效地利用；调动\n20000 词 汇巅峰\n速\n记\n笔 记 区",
+        "例如：to deploy arguments\/resources\n利用论据 \/ 资源"
+      ],
+      "definition" : "部署，调度（军队或武器）；有效地利用；调动",
+      "etymology" : "1786 as a military word, “extend (troops) in a line, expand (a unit which plait”). “In its AFr. form regularly adopted in ME as desplay” [OED].",
+      "examples" : [
+        "At least 5 000 missiles were deployed along the border.\n沿边境至少部署了5 000枚导弹。"
+      ],
+      "frequency" : 4544,
+      "mnemonic" : "de (=dis分开) +ploy (=fold：折叠，重合) →把重合的 (军队) 分散开→",
+      "phonetic" : "dɪˈplɒɪ",
+      "pos" : "vt.",
+      "rootHint" : "ploy",
+      "word" : "deploy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "调度，部署",
+      "examples" : [
+
+      ],
+      "frequency" : 6521,
+      "mnemonic" : "deploy (调度，部署) +ment (名词性后缀) → 调度，部署",
+      "phonetic" : "diːˈplɒɪmənt",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "deployment"
+    },
+    {
+      "collocations" : [
+        "confused, intricate,” past participle of complicare “to involve,” literally",
+        "or intricate” is recorded from 1832, from earlier sense “to combine in a\ncomplex way”(17c.).",
+        "To complicate something means to make it more difficult to understand or\ndeal with. 使难以理解；使复杂化",
+        "peacekeeping forces.\n他说白天发生的事件只会使维和部队的任务更为复杂。"
+      ],
+      "definition" : "使难以理解；使复杂化",
+      "etymology" : "1620s, “to intertwine,” from Latin complicatus “folded together; “to fold together,” from com “with, together”(see com-)+plicare “to fold, weave”(from PIE root *plek- “to plait”). Meaning “to make more complex",
+      "examples" : [
+        "The day’s events, he said, would only complicate the task of the"
+      ],
+      "frequency" : 6068,
+      "mnemonic" : "com (全部) +plic (折叠) +ate (动词后缀) →全部重叠到一起→ (变) 复",
+      "phonetic" : "ˈkɒmplɪkeɪt",
+      "pos" : "vt.",
+      "rootHint" : "pli",
+      "word" : "complicate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "难懂的，复杂的",
+      "examples" : [
+
+      ],
+      "frequency" : 2775,
+      "mnemonic" : "com (全部) +plic (折叠) +ated (形容词后缀：的) →全部重叠到一起的\n→复杂的",
+      "phonetic" : "ˈkɒmplɪkeɪtɪd",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "complicated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "简单的；不复杂的",
+      "examples" : [
+
+      ],
+      "frequency" : 18538,
+      "mnemonic" : "un (否定性前缀) +complicate (使难以理解；使复杂化) +ed (形容词性\n后缀) → 简单的；不复杂的",
+      "phonetic" : "ʌnˈkɑmpləˈketɪd",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "uncomplicated"
+    },
+    {
+      "collocations" : [
+        "A complication is a problem or difficulty that makes a situation harder to\ndeal with. 使复杂化的难题 (或困难)",
+        "A complication is a medical problem that occurs as a result of another",
+        "illness or disease. 并发症"
+      ],
+      "definition" : "使复杂化的难题（或困难）；[医]并发症",
+      "examples" : [
+        "The age difference was a complication to the relationship.\n年龄差异使得双方交往更加困难。",
+        "He died of complications from a heart attack.\n他死于心脏病发作引起的并发症。"
+      ],
+      "frequency" : 5055,
+      "mnemonic" : "complicate (使难以理解；使复杂化) +ion (名词性后缀) →使复杂化的",
+      "phonetic" : "kɒmplɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "complication"
+    },
+    {
+      "collocations" : [
+        "Something that is complex has many different parts, and is therefore often",
+        "difficult to understand. 复杂的；错综的",
+        "例如：in-depth coverage of today’s complex issues\n对时下一些复杂问题的深度报道",
+        "A complex is a group of buildings designed for a particular purpose, or one",
+        "large building divided into several smaller areas. 综合建筑群；综合大楼",
+        "例如：plans for constructing a new stadium and leisure complex\n修建新体育场和休闲中心的计划",
+        "If someone has a complex about something, they have a mental or",
+        "emotional problem relating to it, often because of an unpleasant experience\nin the past. (通常指由于过去不愉快的经历而形成的) 情结"
+      ],
+      "definition" : "复杂的 n. 综合建筑群；情节",
+      "examples" : [
+        "I have never had a complex about my height.\n我从来没有担心过自己的身高。"
+      ],
+      "frequency" : 1607,
+      "mnemonic" : "com (全部) +plex (编制，折叠) → 全部编织\/折叠在一起→复杂的",
+      "phonetic" : "ˈkɒmpleks",
+      "pos" : "adj.",
+      "rootHint" : "plex",
+      "word" : "complex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复杂，复杂性；复杂错综的事物",
+      "examples" : [
+
+      ],
+      "frequency" : 3796,
+      "mnemonic" : "complex (复杂的) +ity (名词性后缀) → 复杂，复杂性；复杂错综的",
+      "phonetic" : "kəmˈpleksətɪ",
+      "pos" : "n.",
+      "rootHint" : "plex",
+      "word" : "complexity"
+    },
+    {
+      "collocations" : [
+        "The Middle English sense is from the old medicine notion of bodily",
+        "constitution or general nature resulting from blending of the four primary",
+        "qualities (hot, cold, dry, moist) or humors (blood, phlegm, choler, black",
+        "developed by mid-15c. In medieval physiology, the color of the face was",
+        "believed to indicate temperament or health. The word rarely is used in the\nsense of “state of being complex.”"
+      ],
+      "definition" : "性质；特性；面色；肤色",
+      "etymology" : "choler). The specific meaning “color or hue of the skin of the face”",
+      "examples" : [
+
+      ],
+      "frequency" : 10640,
+      "mnemonic" : "com (一起) +plex (重合) +ion (名词后缀) →指身体里的体液等合到一",
+      "phonetic" : "kəmˈplekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "plex",
+      "word" : "complexion"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使困惑，使为难；使复杂化",
+      "examples" : [
+
+      ],
+      "frequency" : 15957,
+      "mnemonic" : "per (彻底，贯穿，完全) +plex (折叠) →全部重叠到一起→使……变复",
+      "phonetic" : "pəˈpleks",
+      "pos" : "vt.",
+      "rootHint" : "plex",
+      "word" : "perplex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "困惑的；不知所措的",
+      "examples" : [
+
+      ],
+      "frequency" : 19725,
+      "mnemonic" : "perplex (使困惑，使为难；使复杂化)+ed (形容词性后缀：表示人困惑\n的，不知所措的状态) → 困惑的；不知所措的",
+      "phonetic" : "pəˈplekst",
+      "pos" : "adj.",
+      "rootHint" : "plex",
+      "word" : "perplexed"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "令人困惑的；复杂的，令人费解的",
+      "examples" : [
+
+      ],
+      "frequency" : 17444,
+      "mnemonic" : "perplex (使困惑，使为难；使复杂化)+ing (形容词性后缀：表示事物\n令人困惑的，费解的) → 令人困惑的；复杂的，令人费解的",
+      "phonetic" : "pəˈpleksɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "plex",
+      "word" : "perplexing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "二倍的，双重的",
+      "examples" : [
+
+      ],
+      "frequency" : 19256,
+      "mnemonic" : "du (=two 两个，双) +plex (折叠；重合；倍) →二倍的，双重的",
+      "phonetic" : "ˈdjuːpleks",
+      "pos" : "adj.",
+      "rootHint" : "plex",
+      "word" : "duplex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复制；使加倍",
+      "examples" : [
+
+      ],
+      "frequency" : 9442,
+      "mnemonic" : "du (=two 两个，双) +plic (倍) → 使成两倍 → 复制；使加倍",
+      "phonetic" : "ˈdjuːplɪkeɪt",
+      "pos" : "vt.",
+      "rootHint" : "pli",
+      "word" : "duplicate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复制；副本；成倍",
+      "examples" : [
+
+      ],
+      "frequency" : 17302,
+      "mnemonic" : "duplicate (复制；使加倍) +ion (名词性后缀) → 复制；副本；成倍",
+      "phonetic" : "djuːplɪˈkeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "duplication"
+    },
+    {
+      "collocations" : [
+        "satisfy the multiplying wants of their citizens (考)： 满足市民成倍的需求"
+      ],
+      "definition" : "乘；使相乘；使增加；使繁殖",
+      "examples" : [
+
+      ],
+      "frequency" : 6239,
+      "mnemonic" : "multi (=many：多；n，l音似) +ply (=ple：折，倍) →多 (折) 倍→使相",
+      "phonetic" : "ˈmʌltɪplaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "multiply"
+    },
+    {
+      "collocations" : [
+        "multiple roles (考)：多重角色"
+      ],
+      "definition" : "多样的；许多的；多重的",
+      "examples" : [
+
+      ],
+      "frequency" : 1962,
+      "mnemonic" : "multi (多) +ple (倍；重) →多种多样的，多重的",
+      "phonetic" : "ˈmʌltɪpl",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multiple"
+    },
+    {
+      "collocations" : [
+        "multitudes of premiums (考)：众多奖励",
+        "multitudes of messages (考)：大量信息",
+        "development of health-related behaviors, and it is beyond the scope of this",
+        "text to discuss all these factors as they may affect any given individual.\n大量的因素，包括遗传的和环境的，都影响力与健康相关的行为的发\n展，但讨论这些已经超越了本文的范围，因为他们可能会影响任何一\n个个体。",
+        "A multitude of factors, both inherited and environmental, influence a",
+        "Before vowels mult-, word-forming element meaning “many, many times,",
+        "forming Latin compounds in classical times and after (such as multianimis",
+        "(multinational, etc.) are 20c. coinages.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "群众；多数",
+      "etymology" : "much,” from combining form of Latin multus “much, many,” from PIE *ml-to-, from root *mel-(2) “strong, great, numerous.” It was much-used in “having much courage,” multibibus “much-drinking,” multicomus “having much hair,” multiloquus “talkative”). Many English words that use it",
+      "examples" : [
+        "A multitude of factors, both inherited and environmental, influence the",
+        "大量的因素，包括遗传的和环境的，都会影响学生的心理健康。\nstudent’s psychological health.\n前缀 multi- 表示“多；多倍”"
+      ],
+      "frequency" : 8598,
+      "mnemonic" : "multi (多，大) +tude (名词后缀) →大量，众多",
+      "phonetic" : "ˈmʌltɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "multitude"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "融合或具有多种文化的；多种文化的",
+      "examples" : [
+
+      ],
+      "frequency" : 6903,
+      "phonetic" : "mʌltɪˈkʌltʃ(ə)r(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multicultural"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多元文化论",
+      "examples" : [
+
+      ],
+      "frequency" : 11351,
+      "phonetic" : "ˌmʌltɪˈkʌltʃərəlɪzm",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "multiculturalism"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多种民族的",
+      "examples" : [
+
+      ],
+      "frequency" : 14690,
+      "phonetic" : "ˌmʌltiˈeθnik",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multiethnic"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多国的；多边的",
+      "examples" : [
+
+      ],
+      "frequency" : 9540,
+      "phonetic" : "mʌltɪˈlæt(ə)r(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multilateral"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多媒体",
+      "examples" : [
+
+      ],
+      "frequency" : 7499,
+      "phonetic" : "ˈmʌltɪmiːdɪə",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "multimedia"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "大富豪",
+      "examples" : [
+
+      ],
+      "frequency" : 18358,
+      "phonetic" : "ˌmʌltɪmɪljəˈneə",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "multimillionaire"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多国的；跨国公司的",
+      "examples" : [
+
+      ],
+      "frequency" : 7844,
+      "phonetic" : "mʌltɪˈnæʃ(ə)n(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multinational"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多党的；包括多党的",
+      "examples" : [
+
+      ],
+      "frequency" : 15398,
+      "phonetic" : "mʌltɪˈpɑːtɪ",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multiparty"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "乘法；增加",
+      "examples" : [
+
+      ],
+      "frequency" : 17173,
+      "phonetic" : "ˌmʌltɪplɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "multiplication"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多样性；多重性",
+      "examples" : [
+
+      ],
+      "frequency" : 14888,
+      "phonetic" : "ˌmʌltɪˈplɪsɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "multiplicity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多用途的；多功能的",
+      "examples" : [
+
+      ],
+      "frequency" : 19397,
+      "phonetic" : "mʌltɪˈpɝpəs",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multipurpose"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多民族的",
+      "examples" : [
+
+      ],
+      "frequency" : 16776,
+      "phonetic" : "ˈmʌltɪˈreʃəl",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multiracial"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "多元的，多变量的",
+      "examples" : [
+
+      ],
+      "frequency" : 12784,
+      "phonetic" : "ˌmʌltɪˈveərɪət",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "multivariate"
+    },
+    {
+      "collocations" : [
+        "Middle French flexible or directly from Latin flexibilis “that may be bent,",
+        "pliant, flexible, yielding;” figuratively “tractable, inconstant,” from flex-,",
+        "past participle stem of flectere “to bend,” which is of uncertain origin.",
+        "Flexile (1630s) and flexive (1620s) have become rare. Related: Flexibly.",
+        "double meaning.”\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "灵活的；柔韧的；易弯曲的",
+      "etymology" : "Early 15c., “capable of being bent; mentally or spiritually pliant,” from Coles’ dictionary (1717) has flexiloquent “speaking words of doubtful or",
+      "examples" : [
+
+      ],
+      "frequency" : 4267,
+      "mnemonic" : "flex (=bend：弯曲) +ible (容易) →容易弯曲的→灵活的，易弯曲的",
+      "phonetic" : "ˈfleksɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "flex",
+      "word" : "flexible"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "弹性；适应性；灵活性",
+      "examples" : [
+
+      ],
+      "frequency" : 4368,
+      "mnemonic" : "flexib (=flexible：灵活的) +ility (名词后缀) →灵活性；弹性",
+      "phonetic" : "ˌfleksɪˈbɪlɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "flex",
+      "word" : "flexibility"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "顽固的；不可弯曲的；不屈挠的；不能转变的",
+      "examples" : [
+
+      ],
+      "frequency" : 17838,
+      "phonetic" : "ɪnˈfleksɪb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "flex",
+      "word" : "inflexible"
+    },
+    {
+      "collocations" : [
+        "reflect on (考)：仔细思考，反省",
+        "Not until a disaster falls do human beings get to reflect on their behaviors",
+        "which hurt the environment so badly."
+      ],
+      "definition" : "反射，照出；反省；反映",
+      "examples" : [
+        "直到灾难降临的时候，人们才会开始反省自己的所作所为对于环\n境而言产生了多么严重的影响。"
+      ],
+      "frequency" : 1007,
+      "mnemonic" : "re (返回，反) +flect (=bend：弯曲；弯折) → (光等) 弯曲回去→反",
+      "phonetic" : "rɪˈflekt",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "reflect"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反射的；得自他人的",
+      "examples" : [
+
+      ],
+      "frequency" : 15526,
+      "phonetic" : "rɪˈflektɪd",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "reflected"
+    },
+    {
+      "collocations" : [
+        "from Late Latin reflexionem (nominative reflexio) “a reflection,” literally",
+        "influence of the verb."
+      ],
+      "definition" : "反射；映象；沉思",
+      "etymology" : "Late 14c., reflexion, in reference to surfaces throwing back light or heat, “a bending back,” noun of action from past participle stem of Latin reflectere “to bend back, bend backwards, turn away,” from re- “back”(see re-)+flectere “to bend”(see flexible). Of the mind, from 1670s. Meaning “remark made after turning back one’s thought on some subject” is from 1640s. Spelling with -ct- recorded from late 14c., established 18c., by",
+      "examples" : [
+        "Most education system neglect exploration, understanding and reflection.\n大多数的教育体制忽视了探究，理解和反思。"
+      ],
+      "frequency" : 2780,
+      "phonetic" : "rɪˈflekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "reflection"
+    },
+    {
+      "collocations" : [
+        "深思的",
+        "If you are reflective, you are thinking deeply about something. 沉思的；\n笔 记 区\n20000 词 汇巅峰\n速\n记",
+        "A reflective surface or material sends back light or heat. 反射的；反光的"
+      ],
+      "definition" : "沉思的；反射的；反映的",
+      "examples" : [
+
+      ],
+      "frequency" : 6963,
+      "phonetic" : "rɪˈflektɪv",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "reflective"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "反射物，反射镜",
+      "examples" : [
+
+      ],
+      "frequency" : 13242,
+      "phonetic" : "rɪˈflektə",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "reflector"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "三倍的 v.（使）成三倍",
+      "examples" : [
+
+      ],
+      "mnemonic" : "tri (=three：读音相似，e→i是最合理的变化) +ple (倍，折) →三倍",
+      "phonetic" : "ˈtripl",
+      "pos" : "adj.",
+      "rootHint" : "ply",
+      "word" : "triple"
+    },
+    {
+      "collocations" : [
+        "If you display something that you want people to see, you put it in a",
+        "particular place, so that people can see it easily. 展览；陈列",
+        "If you display something, you show it to people. 展现；展示",
+        "If you display a characteristic, quality, or emotion, you behave in a way",
+        "which shows that you have it. 显示，显露，表现 (特性或情感)",
+        "A display is an arrangement of things that have been put in a particular",
+        "place, so that people can see them easily. 展示；展览；陈列",
+        "A display is a public performance or other event which is intended to",
+        "entertain people. 表演",
+        "例如：the firework display\n烟火表演\n20000 词 汇巅峰\n速\n记"
+      ],
+      "definition" : "展览；展现；显示 n. 展览；表演",
+      "examples" : [
+        "The cabinets display seventeenth-century blue-and-white porcelain.\n展柜中陈列着17世纪的青花瓷。",
+        "The chart can then display the links connecting these groups.\n这张图就会显示出这些群体之间的关联。",
+        "He has displayed remarkable courage in his efforts to reform the party.\n在政党改革中，他表现出了非凡的勇气。",
+        "She was leaning against a display case of prints of Paris.\n她正倚靠在一个展示巴黎照片的陈列柜上。"
+      ],
+      "frequency" : 2207,
+      "mnemonic" : "dis (=apart：分开) +play (=ply：折叠) → 把重叠的东西分开 (给人看)\n→展示，显示",
+      "phonetic" : "dɪˈspleɪ",
+      "pos" : "vt.",
+      "rootHint" : "play",
+      "word" : "display"
+    },
+    {
+      "collocations" : [
+        "comply with (考)：与……重合，遵守",
+        "No matter how distinctive a person’s character may be, once he enters into",
+        "the workplace, he must comply with the norms of the industry.\n笔 记 区"
+      ],
+      "definition" : "答应；遵守；顺从，遵从",
+      "examples" : [
+        "不管一个人的个性有多么的与众不同，一旦进入到职场中，他就\n必须遵从该行业的规则。"
+      ],
+      "frequency" : 4689,
+      "mnemonic" : "com (加强语气) +ply (重合) →服从，遵从 (即：和别人的行为“重",
+      "phonetic" : "kəmˈplaɪ",
+      "pos" : "vi.",
+      "rootHint" : "ply",
+      "word" : "comply"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "顺从，服从；承诺",
+      "examples" : [
+
+      ],
+      "frequency" : 4599,
+      "mnemonic" : "compli (服从，顺从) +ance (名词后缀) →顺从，服从",
+      "phonetic" : "kəmˈplaɪəns",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "compliance"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "顺从的；应允的；服从的",
+      "examples" : [
+
+      ],
+      "frequency" : 15653,
+      "mnemonic" : "compli (顺从) +ant (形容词后缀) →顺从的；服从的",
+      "phonetic" : "kəmˈplaɪənt",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "compliant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "打开；呈现",
+      "examples" : [
+
+      ],
+      "frequency" : 4590,
+      "mnemonic" : "un (表否定) +fold (重合，折叠；) →不折叠→打开，展现，显露",
+      "phonetic" : "ʌnˈfəʊld",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "unfold"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "暗示；意味；隐含",
+      "examples" : [
+
+      ],
+      "frequency" : 2819,
+      "mnemonic" : "im (=in：里面) +ply (=fold：折叠) →折叠在里面 (不显露在表面) 的含\n义→按时；隐含",
+      "phonetic" : "ɪmˈplaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "imply"
+    },
+    {
+      "collocations" : [
+        "profound implications (考)：深远的意义"
+      ],
+      "definition" : "暗示；含义；可能引发的后果",
+      "examples" : [
+
+      ],
+      "frequency" : 2456,
+      "phonetic" : "ɪmplɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "implication"
+    },
+    {
+      "collocations" : [
+        "participle of implicare “to involve, entwine, entangle, embrace,” from",
+        "assimilated form of in- “into, in, on, upon”(from PIE root *en “in”)+plicare",
+        "(someone) to be involved” is from 1797.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "使涉及到；使牵连其中；含有……的意思",
+      "etymology" : "Early 15c., “to convey (truth) in a fable,” from Latin implicatus, past “to fold”(from PIE root *plek- “to plait”). From c. 1600 as “intertwine, wreathe.” Meaning “involve (someone) in a crime, charge, etc.; show",
+      "examples" : [
+
+      ],
+      "frequency" : 7846,
+      "mnemonic" : "im (=in：里面) +plic (折叠) +ate (动词后缀) →使 (某人) 折到里面去了\n→使涉及到；使牵连其中",
+      "phonetic" : "ˈɪmplɪkeɪt",
+      "pos" : "vt.",
+      "rootHint" : "pli",
+      "word" : "implicate"
+    },
+    {
+      "collocations" : [
+        "and directly from Latin implicitus, later variant of implicatus “entangled,",
+        "confused, involved,” past participle of implicare “entangle, involve,” from",
+        "assimilated form of in- “into, in, on, upon”(from PIE root *en “in”)+plicare",
+        "perfect confidence (in authority), unquestioning”(especially of faith).",
+        "implicit bias (考)：隐含的偏见"
+      ],
+      "definition" : "暗示的；盲从的；含蓄的",
+      "etymology" : "1590s, “implied, resting on inference,” from Middle French implicite “to fold”(from PIE root *plek- “to plait”). From c. 1600 as “resulting from",
+      "examples" : [
+
+      ],
+      "frequency" : 6842,
+      "mnemonic" : "impli (=imply：暗示) +it (形容词后缀) →暗示的；含蓄的\nimplic (=imply：暗示) →暗示的，含蓄的 (不直接表达的)，内含的",
+      "phonetic" : "ɪmˈplɪsɪt",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "implicit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "含蓄地；暗中地",
+      "examples" : [
+
+      ],
+      "frequency" : 9879,
+      "phonetic" : "ɪmˈplɪsɪtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "pli",
+      "word" : "implicitly"
+    },
+    {
+      "collocations" : [
+        "Medical Leave Act, passed in 1993.\n美国确实有一个明确的家庭政策——家庭和病假法令，该法令在1993\n年通过。"
+      ],
+      "definition" : "清楚的；明确的；直率的；详述的",
+      "examples" : [
+        "The United States does have one explicit family policy, the Family and"
+      ],
+      "frequency" : 4878,
+      "mnemonic" : "explicit为implicit的反义词，故翻译为“清楚的；明确的；直率的”",
+      "phonetic" : "ɪkˈsplɪsɪt; ek-",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "explicit"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "明确地；明白地",
+      "examples" : [
+
+      ],
+      "frequency" : 5285,
+      "phonetic" : "ɪkˈsplɪsɪtli",
+      "pos" : "adv.",
+      "rootHint" : "pli",
+      "word" : "explicitly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无法说明的；费解的；不能解释",
+      "examples" : [
+
+      ],
+      "frequency" : 13405,
+      "mnemonic" : "in (相反) +explic (清楚的，明确的) +able (可以) →不可以清楚明确说\n出来的→无法说明的，不能解释的，费解的",
+      "phonetic" : "ˌɪnɪkˈsplɪkəb(ə)l; ˌɪnek-; ɪnˈeksplɪ-",
+      "pos" : "adj.",
+      "rootHint" : "pli",
+      "word" : "inexplicable"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "无法说明地；难以理解地",
+      "examples" : [
+
+      ],
+      "frequency" : 15246,
+      "phonetic" : "ɪnˈɛksplɪkəbli",
+      "pos" : "adv.",
+      "rootHint" : "pli",
+      "word" : "inexplicably"
+    },
+    {
+      "collocations" : [
+        "back, fold over, bend back,” from re- “back, again”(see re-)+plicare “to",
+        "is attested from mid-15c. in English but is not now used. Modern French"
+      ],
+      "definition" : "回答；回击；答辩 n. 回复；回信",
+      "etymology" : "笔 记 区 Late 14c., “to make an answer,” from Old French replier “to reply, turn back,” from Late Latin replicare “to reply, repeat,” in classical Latin “fold fold”(from PIE root *plek- “to plait”). Latin literal sense of “to fold back” répliquer (Middle French replier) is directly from Late Latin.",
+      "examples" : [
+
+      ],
+      "frequency" : 2239,
+      "mnemonic" : "re (回来) +ply (折) →折回来的东西→回应；回复；回信",
+      "phonetic" : "rɪˈplaɪ",
+      "pos" : "vi.",
+      "rootHint" : "ply",
+      "word" : "reply"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复制品，复制物",
+      "examples" : [
+
+      ],
+      "frequency" : 9477,
+      "phonetic" : "ˈreplɪkə",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "replica"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复制；重做；复现",
+      "examples" : [
+
+      ],
+      "frequency" : 6727,
+      "mnemonic" : "re (又，再) +plic (=fold：重合) +ate (东西后缀) →重复 (别人的) 再做\n一次→复制；复现；重做",
+      "phonetic" : "ˈreplɪkeɪt",
+      "pos" : "vt.",
+      "rootHint" : "pli",
+      "word" : "replicate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "复制；重做；复现",
+      "examples" : [
+
+      ],
+      "frequency" : 13330,
+      "mnemonic" : "replicat (复制；复现) +ion (名词后缀) →复制；复现；重做",
+      "phonetic" : "replɪˈkeɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "replication"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使用，不住地使用；折，弯；从事",
+      "examples" : [
+
+      ],
+      "frequency" : 13573,
+      "phonetic" : "plaɪ",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "ply"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "夹板，胶合板",
+      "examples" : [
+
+      ],
+      "frequency" : 9126,
+      "phonetic" : "ˈplaɪwʊd",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "plywood"
+    },
+    {
+      "collocations" : [
+        "England dialect, possibly a shortened form of employ or deploy.",
+        "Popularized in the sense “move or gambit made to gain advantage” by",
+        "British humorist Stephen Potter (1900-1969)."
+      ],
+      "definition" : "策略；活动；工作",
+      "etymology" : "1722, “anything with which one amuses oneself,” Scottish and northern",
+      "examples" : [
+
+      ],
+      "frequency" : 11775,
+      "phonetic" : "plɒɪ",
+      "pos" : "n.",
+      "rootHint" : "ploy",
+      "word" : "ploy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "共谋；串通；共犯关系",
+      "examples" : [
+
+      ],
+      "frequency" : 13997,
+      "mnemonic" : "com (一起，共同) +plic (=fold：折叠；重合) → (几个人) 合到一起→",
+      "phonetic" : "kəmˈplɪsɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "pli",
+      "word" : "complicity"
+    },
+    {
+      "collocations" : [
+        "If you flex your muscles or parts of your body, you bend, move, or stretch",
+        "them for a short time in order to exercise them. 活动，屈伸 (肌肉或身体\n某一部分)"
+      ],
+      "definition" : "折曲；伸曲；使收缩",
+      "etymology" : "1520s, “to bend,” usually of muscles, probably a back-formation from flexible. 释义和用法：",
+      "examples" : [
+        "He slowly flexed his muscles and tried to stand.\n他缓慢地活动了一下肌肉，想尽量站起来。"
+      ],
+      "frequency" : 9035,
+      "phonetic" : "fleks",
+      "pos" : "vt.",
+      "rootHint" : "flex",
+      "word" : "flex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "弯曲",
+      "examples" : [
+
+      ],
+      "frequency" : 19916,
+      "phonetic" : "ˈflekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "flex",
+      "word" : "flexion"
+    },
+    {
+      "collocations" : [
+        "If a word inflects, its ending (结尾) or form changes in order to show. Its",
+        "grammatical function (语法功能). If a language inflects, it has words in it",
+        "that inflect. (词形，语言) 有屈折变化"
+      ],
+      "definition" : "弯曲，变形；音调变化",
+      "examples" : [
+
+      ],
+      "frequency" : 17004,
+      "mnemonic" : "in (向内) +flect (=bend：弯) +ion (名词后缀) →向内弯→弯曲；变形；",
+      "phonetic" : "ɪnˈflekʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "ply",
+      "word" : "inflection"
+    },
+    {
+      "collocations" : [
+        "A reflex or a reflex action is something that you do automatically (自动地)",
+        "and without thinking, as a habit or as a reaction to something. 本能反应；\n习惯性动作",
+        "A reflex or a reflex action is a normal, uncontrollable reaction (无法控制\n的反应) of your body to something that you feel, see, or experience. 条件\n反射；反射性动作"
+      ],
+      "definition" : "反射；反映；条件反射",
+      "examples" : [
+
+      ],
+      "frequency" : 10511,
+      "phonetic" : "ˈriːfleks",
+      "pos" : "n.",
+      "rootHint" : "flex",
+      "word" : "reflex"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "条件反射式地",
+      "examples" : [
+
+      ],
+      "frequency" : 20063,
+      "phonetic" : "rɪˈflektɪvlɪ",
+      "pos" : "adv.",
+      "rootHint" : "flex",
+      "word" : "reflexively"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "张开；展开",
+      "examples" : [
+
+      ],
+      "frequency" : 17555,
+      "mnemonic" : "splay是display的简写版，dis (相反) +play (折叠，重合) →把折叠\/合\n在一起的东西变得相反→展开；张开",
+      "phonetic" : "spleɪ",
+      "pos" : "vt.",
+      "rootHint" : "play",
+      "word" : "splay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不予重视；将……轻描淡写",
+      "examples" : [
+
+      ],
+      "frequency" : 10142,
+      "mnemonic" : "down (低) +play (演奏) →原指音乐或戏剧里演奏低沉的部分→轻描淡",
+      "phonetic" : "daʊnˈpleɪ",
+      "pos" : "vt.",
+      "rootHint" : "play",
+      "word" : "downplay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "相互影响，相互作用",
+      "examples" : [
+
+      ],
+      "frequency" : 12098,
+      "mnemonic" : "inter (彼此间) +play (影响) →彼此间影响→相互影响，相互作用",
+      "phonetic" : "ˈɪntəpleɪ",
+      "pos" : "n.",
+      "rootHint" : "play",
+      "word" : "interplay"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使偏斜；使转向；使弯曲",
+      "examples" : [
+
+      ],
+      "frequency" : 9812,
+      "mnemonic" : "de (=away：远离) +flect (=bend：弯) →弯了偏离 (正轨) →使偏斜；使",
+      "phonetic" : "dɪˈflekt",
+      "pos" : "vt.",
+      "rootHint" : "ply",
+      "word" : "deflect"
+    }
+  ]
+}

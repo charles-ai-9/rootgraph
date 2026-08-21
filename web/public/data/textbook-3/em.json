@@ -1,0 +1,504 @@
+{
+  "id": "em",
+  "source": "textbook-3",
+  "chapter": "5",
+  "chapterOrder": 105,
+  "titleZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+  "semanticLabel": "to take,obtain,buy , 拿，获取，买。 其变形为 mp",
+  "meaningEn": null,
+  "meaningZh": "to take,obtain,buy , 拿，获取，买。 其变形为 mpt 等。",
+  "roots": [
+    "em",
+    "empt",
+    "mpt"
+  ],
+  "words": [
+    {
+      "word": "assume",
+      "phonetic": "ə 'sju:m",
+      "pos": "vt.",
+      "definition": "假设；掌管，取得(权力);承担(责任);呈现，显 露(某种特质);做出(某种样子)1095",
+      "frequency": null,
+      "mnemonic": "a(=ad: toward,up to)+ssume( =sumere: 支撑，承受)→去承担\n(责任),采取(某种行为方式) →接受权利；责任 搭配：assume an air of calm: 表现出一副平静的样子",
+      "collocations": [
+        "assumes power or responsibility: 接受权利或责任"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "assumed",
+      "phonetic": "ə 'sju:md",
+      "pos": "adj.",
+      "definition": "假装的；假设的",
+      "frequency": 16638,
+      "mnemonic": "assume (假定)+-d ( 形容词后缀-ed去e)→ 假设的；假装的",
+      "collocations": [
+        "assumed name: 笔 名"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "assumption",
+      "phonetic": "ə 'sʌm(p)5(ə)n",
+      "pos": "n.",
+      "definition": "假定；承担；获得；采取",
+      "frequency": 2629,
+      "mnemonic": "assump (假定)+-tion ( 名词后缀) →假定；设想\ncon-(=com: 表强调)+-sum-(=sumere:to take,to buy)+-e→“to destroy by separating into parts which cannot be reunited,as by burning or eating,\"hence “destroy the substance of,annihilate”,\"to engage the full attention and energy of”→消耗；消费；充满强烈的感情；被火烧毁",
+      "collocations": [
+        "on the assumption that: 假设",
+        "make an assumption: 做出假设",
+        "an underlying/implicit assumption: 设想；含蓄的假定",
+        "the assumption of power/control取得权力/控制\nconsum e [kən'sju:m] vt. 消耗，耗费(燃料、能量、时间等);吃喝，饮\n用；使充满(强烈的感情);(火)烧毁，吞没，吞噬3031",
+        "consume sb(with sth): 某人被……感情所充满",
+        "propensity to consume: 消费倾向"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "consumer",
+      "phonetic": "kən'sju:mə",
+      "pos": "n.",
+      "definition": "用户，顾客；消费者",
+      "frequency": 1056,
+      "mnemonic": "con-(=com: 表强调)+ -sum-(=to buy,take: 拿，买)+ -er ( 名 词\n后缀，表人) →共同拿或买的人 → 消费者",
+      "collocations": [
+        "consumer demand/choice/rights: 消费者的需求/选择/权利 a consumer society: 消费社会"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "consumerism",
+      "phonetic": "kən'sju:məriz(a)m",
+      "pos": "n.",
+      "definition": "保护消费者利益运动；用户至上主义",
+      "frequency": 15782,
+      "mnemonic": "consumer ( 消费者)+-ism ( 名词后缀，表主义)→消费者保护主义 搭配：media consumerism: 传媒消费主义 consumerism society: 消费社会",
+      "collocations": [
+        "Consumerism is the belief that it is good to buy and use a lot of goods.\n(N-UNCOUNT)消费者权益保护",
+        "Consumerism is the protection of the rights and interests of consumers"
+      ],
+      "etymology": "1922,“protection of the consumer's interest,”from consumer+-ism. It also was used mid-20c.as an alternative to capitalism to describe the Western consumer-driven economic system as a contrast to state-centered Soviet communism.By 1960 it had shaded into “encouragement of consumption as an economic policy.”Related:Consumerist(1965,n.; 1969,adj.).",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "conumption",
+      "phonetic": "kon'sʌm(p)ʃ(ə)n",
+      "pos": "n.",
+      "definition": "( 燃料、自然资源的)消耗量，消费量；吃喝；饮用；消费；供(某人或某个群体)使用，享用；肺结核",
+      "frequency": 3172,
+      "mnemonic": "con- (共同)+ -sumpt-(=sumere: 拿，买)+-ion ( 名词后缀) →共\n同拿，买→消耗；使用",
+      "collocations": [
+        "power consumption: 能量功耗",
+        "energy consumption: 能量损耗"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "example",
+      "phonetic": "ig'za:mp(a)l;eg-",
+      "pos": "n.",
+      "definition": "例子；范例；榜样",
+      "frequency": 855,
+      "mnemonic": "ex-(=out: 拿出来)+ am(=-em-: 拿 ) +-ple ( 名词后缀) → 把范\n例、样本拿出来作为参考→例子；范例；榜样 搭配：make an example of: 严惩(某人)以警告他人",
+      "collocations": [
+        "set an example: 树立榜样"
+      ],
+      "etymology": "来源于拉丁语中由前缀ex- ( 出)和基本动词emere (拿)组成的复合 动词eximere ( 拿出)的派生词exemplum, 经由古法语example进入 英语。",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "exemplary",
+      "phonetic": "ig'zempləri; eg-",
+      "pos": "adj.",
+      "definition": "典范的；可作榜样的；惩戒性的；儆戒性 的",
+      "frequency": 10425,
+      "mnemonic": "exempl(=example: 例子，范例)+-ary ( 形容词后缀) → 可以拿出\n来做榜样的→典范的；可作榜样的；惩戒性的 搭配：exemplary sentences: 惩罚性判决",
+      "collocations": [
+        "examplary cases: 专案\n释义：(ADJ-GRADED)典范的；可作榜样的",
+        "If you describe someone or something as exemplary,you think they are extremely good.\n(ADJ) 惩戒性的；儆戒性的",
+        "An exemplary punishment is unusually harsh and is intended to stop other people from committing similar crimes."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "exemplify",
+      "phonetic": "ig'zemplrfar;eg-",
+      "pos": "vt.",
+      "definition": "作为……的例证；是……的典范",
+      "frequency": 7936,
+      "mnemonic": "exempl(=example: 例子，范例)+-ify ( 动词后缀) → 拿出来 作……的例证或典范",
+      "collocations": [
+        "exemplify the ideal of: 是……理想的典范"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "exempt",
+      "phonetic": "rg'zem(p)t;eg-",
+      "pos": "vt.",
+      "definition": "免除、豁免(规则、职责、义务等)adj.被免除 的；被豁免的",
+      "frequency": 9745,
+      "mnemonic": "ex- ( 出 ) +empt(=em- : to take, 拿出) → 被(从责任或限制中)拿\n出来的→被拿出；豁免 搭配：exempt from tax: 免税",
+      "collocations": [],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "empt"
+    },
+    {
+      "word": "tax-exempt",
+      "phonetic": "'tæksig'zempt",
+      "pos": "adj.",
+      "definition": "免税的",
+      "frequency": 16775,
+      "mnemonic": "tax (税收的)+exempt ( 免除的，豁免的)→税收免除的→免税的",
+      "collocations": [
+        "tax-exempt securities: 免税证券"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "empt"
+    },
+    {
+      "word": "exemption",
+      "phonetic": "1g'zempʃn",
+      "pos": "n.",
+      "definition": "免除，豁免；免税",
+      "frequency": 7229,
+      "mnemonic": "ex- ( 出 ) + empt(=em: 拿 ) +-ion ( 名词后缀) → (税收、责任、 义务等)被拿出；豁免",
+      "collocations": [
+        "exemption of taxation: 税项免除",
+        "exemption clause: 免责条款"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "empt"
+    },
+    {
+      "word": "prompt",
+      "phonetic": "prpm(p)t",
+      "pos": "vt.",
+      "definition": "促使；推动；鼓励；提示(说话者);给(演员)提 词 adj.敏捷的；迅速的；即刻的",
+      "frequency": 3142,
+      "mnemonic": "pro-(=forward: 向 前 ) + -mpt(=em: 拿 ， 带 ，to take and to\ndistribute )→ to bring forth,拿到舞台前面，用于戏剧用语，给演员 提词，提醒→引申词义促使；推动；鼓励；方便的；迅速的",
+      "collocations": [
+        "prompt delivery: 限时专送"
+      ],
+      "etymology": "mid-14c.,prompten,from Latin promptus,past participle of promere “to bring forth”.Theatrical sense of \"to assist a speaker with lines\"is first recorded early 15c.Related:Prompted;prompting.",
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "promptly",
+      "phonetic": "'prom(p)tli",
+      "pos": "adv.",
+      "definition": "立即；马上；及时；准时的",
+      "frequency": 6770,
+      "mnemonic": "prompt (迅速的，立即的)+-ly ( 副词后缀) →立即；马上",
+      "collocations": [
+        "promptly reply: 及时回复"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "impromptu",
+      "phonetic": "im'prom(p)tju:",
+      "pos": "adj.",
+      "definition": "即兴的；事先无准备的 n. 即兴曲；即席演 出",
+      "frequency": 13693,
+      "mnemonic": "in-(=into,in on,upon: 进入)+prompu (来自拉丁语promptu, 表示\n准备好的，提出来的，阐明陈述的) →现词义很大程度受到im-的\n否定词义的影响，表示not,opposite of,不，非→事先无准备的； 即兴的",
+      "collocations": [
+        "an impromptu speech: 即兴讲演",
+        "fantasy impromptu: 幻想即兴曲"
+      ],
+      "etymology": "来自法语impromptu, 准备好的，随时进入状态的，来自拉丁语in promptu, 立即，马上→现词义很大程度受到im-的否定词义的影响， 不，非→事先无准备的；即兴的",
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "pre-emptive",
+      "phonetic": "pri'emptiv",
+      "pos": "adj.",
+      "definition": "有优先购买权的；抢先的；先发制人的",
+      "frequency": 13189,
+      "mnemonic": "pre-(=before: 在前)+-empt(=emption:purchase, 购买)+-ive\n(形容词后缀)→有优先购买权的→抢先的；先发制人的 搭配：pre-emptive strategy: 先发制人战略",
+      "collocations": [
+        "preemptive right: 优先购买权",
+        "a preemptive strike: 先发制人的攻击 释义：(ADJ) 先发制人的",
+        "A preemptive attack or strike is intended to weaken or damage an enemy or opponent,for example,by destroying their weapons before they can do any harm."
+      ],
+      "etymology": "emption:late 15c.,\"purchase,\"from Latin emptionem (nominative",
+      "examples": [],
+      "rootHint": "empt"
+    },
+    {
+      "word": "premium",
+      "phonetic": "'pri:mrom",
+      "pos": "n.",
+      "definition": "保险费；额外费用adj. 优质的；高端的",
+      "frequency": 4854,
+      "mnemonic": "pre-(=before: 在前)+mium(=em: 拿，获得) →在前面、优先于 别人获得的→ 因为某种行为而获得奖励，尤指在战场上获得的战利品 →奖品；额外费用；引申为优质的；高端的",
+      "collocations": [
+        "at a premium: 稀缺的；难以得到的；求之难得",
+        "buy or sell something at a premium: 超出平常价，以高价(买进或售出)",
+        "insurance premium: 保险费",
+        "place a high premium on: 高度重视"
+      ],
+      "etymology": "来自拉丁语praemium, 奖励，奖品，战利品。后用于形容词词义优 质的，高端的，即额外的奖品。由该形容词词义又用于指经济学术语 加价，溢价，保险费等。",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "presume",
+      "phonetic": "pri'zju:m",
+      "pos": "vt.",
+      "definition": "推测；擅自行动；放肆；假定为真",
+      "frequency": 5819,
+      "mnemonic": "pre-(=before: 在前，早于，预先)+-sum ( 认为，获得)+e→预先 认为，提前行动(没有经过批准，越过级别)→推测；擅自行动；假 定为真",
+      "collocations": [
+        "presume on sb/sth: 利用……做过分的要求",
+        "If you presume that something is the case,you think that it is the case, although you are not certain\n(VERB) 冒昧；擅自主张；妄行",
+        "If you say that someone presumes to do something,you mean that they do it even though they have no right to do it.\n(VERB) 假设；假定",
+        "If an idea,theory,or plan presumes certain facts,it regards them as true so that they can be used as a basis for further ideas and theories."
+      ],
+      "etymology": "late 14c.,\"to take upon oneself,to take liberty,\"also \"to take for granted, presuppose,\"especially overconfidently,from Old French presumer (12c.)and directly from Latin praesumere \"anticipate,\"in Late Latin, \"assume”.“To presume is to base a tentative or provisional opinion on such knowledge as one has,to be held until it is modified or overthrown by further information”.[Century Dictionary] .Related:Presumed; presumedly;presuming.",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "presumed",
+      "phonetic": "prrzju:md",
+      "pos": "adj.",
+      "definition": "假定的；推测的vt. 推测；擅自；假定",
+      "frequency": 14940,
+      "mnemonic": "presume ( 推测，假定)+-d ( 形容词后缀-ed去e)→ 推测的；假定的",
+      "collocations": [
+        "be presumed innocent: 推定无罪",
+        "presumed guilty: 推定有罪\n20000词汇巅峰"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "presumption",
+      "phonetic": "pri'zʌm(p)ʃ(a)n",
+      "pos": "n.",
+      "definition": "推测；设想；放肆；傲慢",
+      "frequency": 10134,
+      "mnemonic": "presum(=presume: 推测，擅自行动，放肆)+-ption ( 名词后缀) →to take beforehand,在事情没有发生之前预测或行动，超越位份的 放肆或傲慢行为→预先推测或越级行动→推测；设想；放肆；傲慢",
+      "collocations": [
+        "presumption of innocence: 无罪推定",
+        "a general presumption: 一般人都认为 释义：(N-COUNT) 假定；假设",
+        "A presumption is something that is accepted as true but is not certain to be true.\n(N-UNCOUNT)擅自；放肆；冒昧",
+        "If you describe someone's behaviour as presumption,you disapprove of it because they are doing something that they have no right to do."
+      ],
+      "etymology": "mid-13c.,\"seizure and occupation without right,\"also \"taking upon oneself more than is warranted,\"from Old French presumcion(12c., Modern French présomption)and directly from Late Latin praesumptionem (nominative praesumptio)“confidence,audacity,\"in classical Latin,“a taking for granted,anticipation,\"noun of action from past-participle stem of praesumere “to take beforehand”.",
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "presumably",
+      "phonetic": "pr'zju:məbli",
+      "pos": "adv.",
+      "definition": "很可能；推测起来",
+      "frequency": 4333,
+      "mnemonic": "presum(=presume: 推测；假定)+-ably(=-able 去e加y)→probably,as one would presume→很可能；推测起来",
+      "collocations": [
+        "presumably the murder weapon: 很可能是凶器"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "ransom",
+      "phonetic": "'ræns(a)m",
+      "pos": "vt.",
+      "definition": "赎价；赎出 n. 勒索赎金[宗]救赎",
+      "frequency": 12233,
+      "mnemonic": null,
+      "collocations": [
+        "hold sb to ransom: 绑票，勒索",
+        "extort ransom: 勒索赎金",
+        "a ransom demand/note: 索要赎金的要求/通知"
+      ],
+      "etymology": "c.1200,\"sum paid for the release of a prisoner or captured man,\"from Old French ranson(Modern French rancon),earlier raenson \"ransom, redemption,\"from Latin redemptionem(nominative redemptio)“a redeeming,\"from redimere“to redeem,buy back”. 来自古法语 ranson, 含义为赎金，救赎，缩写自拉丁语 redemptionem, 有拯救，救赎之 意，同redeem,redemption。 趣保多一 + Bee 一20000词汇巅峰 趣保多 一 + Bee 一",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "resume",
+      "phonetic": "rɪ'zju:m; 'rezjumer",
+      "pos": "vt.",
+      "definition": "&vi. 重新开始，继续； vt. 恢 复 ( 席 位 ，地 位 或职位),重返n. 摘要；履历；个人简历",
+      "frequency": null,
+      "mnemonic": "re-(=again ,再，重新)+sum(=em:to take,obtain: 拿起，获得) +e→重新拿起，获得→重新开始，继续，小结等→简历；履历(简历 是对某人某一人生经历的总结)",
+      "collocations": [
+        "a brief résumé of events so far: 到目前为止事件的概述"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "resumption",
+      "phonetic": "r'zum(p)ʃ(ə)n",
+      "pos": "n.",
+      "definition": "恢复；重新开始；收回土地；重新获取",
+      "frequency": 19203,
+      "mnemonic": "re-(back, 拿 回 ) +sum(=em:to take,obtain, 拿 起 ，获 得 ) +-ption\n(名词后缀) → 重新获得 → 恢复；重新开始 搭配：resumption payment: 收回土地付款",
+      "collocations": [
+        "the resumption of the fishery: 恢复渔业生产",
+        "the resumption of negotiations: 恢复谈判"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "redeem",
+      "phonetic": "ri'di:m",
+      "pos": "vt.",
+      "definition": "挽回声誉；改善形象；弥补；补救；偿还(债务或 钱);救赎",
+      "frequency": 9458,
+      "mnemonic": "red-(=re-:back)+eem(=em:to take,buy,gain,procure)→再 次 拿 回，取回，获得→赎回；取回",
+      "collocations": [
+        "redeeming feature: 可取之处",
+        "to redeem a loan/mortgage: 清偿贷款/按揭贷款",
+        "redeem a pledge/promise: 履行，遵守(诺言)",
+        "redeem watch from the pawnshop: 从当铺赎回手表"
+      ],
+      "etymology": "来源于拉丁语redimere( 买 回 ) ,red-即前缀re- “往回”,古拉丁语 中，前缀re-后接元音时习惯变为red-; 词根-em-指“取，拿”;字面 义“取回”,引申为“赎回”。同根词如exempt ( 免除，将你从兵役 队伍里“拿出”,你就被“免除”服兵役了)。 20000词汇巅峰返",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "redemption",
+      "phonetic": "r'dem(p)ʃ(a)n",
+      "pos": "n.",
+      "definition": "拯救；救赎；赎回(股票等)8405",
+      "frequency": null,
+      "mnemonic": "red(=re-:back, 拿 回 ) +em-(to take,buy,gain,procure)+-ption\n(名词后缀) →拯救的；救赎的",
+      "collocations": [
+        "the redemption of the world from sin: 将世界从罪恶中拯救出来 ….redemption of the loan: 贷款的偿还",
+        "beyond redemption: 无可挽回的，不可救药的",
+        "redemption fund: 偿债基金"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "empt"
+    },
+    {
+      "word": "sample",
+      "phonetic": "'sa:mpl",
+      "pos": "n.",
+      "definition": "样品；(用于检验、分析的)试样；抽样 vt. 品尝；体验",
+      "frequency": 1318,
+      "mnemonic": "s-(=ex-:out, 出 ) + am(=-em-,to take,obtain, 拿 ) + -ple ( 名\n词后缀) →拿出一部分作为整体的代表 →样品；试样；品尝 搭配：a blood sample: 血样",
+      "collocations": [
+        "a sample survey: 抽样调查",
+        "a free sample of shampoo: 免费试用的洗发剂"
+      ],
+      "etymology": "来源于拉丁语eximere ( 拿出),进入古法语为essample,13 世纪被英 语借用为asample, 现代英语为sample。",
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "sampler",
+      "phonetic": "'sa:mplə",
+      "pos": "n.",
+      "definition": "刺绣样本；(尤指乐曲的)集锦，荟萃取样器；取样 员；采样器",
+      "frequency": 16393,
+      "mnemonic": "sample(样品，样本)+-r ( 名词后缀-er去e)→ ( 刺绣)样本；(乐 曲)集锦；采样器",
+      "collocations": [
+        "automatic sampler:自动采样器"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "sampling",
+      "phonetic": "'sa:mplŋ",
+      "pos": "n.",
+      "definition": "n. 抽样；取样；(乐曲的)节录，选录",
+      "frequency": 6233,
+      "mnemonic": "sample (抽样，取样)+-ing ( 动名词后缀) →抽样；取样；节录",
+      "collocations": [
+        "statistical sampling: 统计抽样",
+        "sampling distribution: 抽样分布",
+        "random sampling: 随机抽样",
+        "sampling investigation: 抽样调查"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "subsume",
+      "phonetic": "səb'sju:m",
+      "pos": "vt.",
+      "definition": "将……归入，将……纳入(更大的组织或范畴)15765",
+      "frequency": null,
+      "mnemonic": "sub-(=under: 在下)+-sum(=to take)+- e→ 拿起某物放在……下\n面 ，to take under...→引申词义将纳入更大的组织或范畴 搭配：be subsumed into/by: 被归入 ……",
+      "collocations": [
+        "If something is subsumed within a larger group or class,it is included within it,rather than being considered as something separate."
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "em"
+    },
+    {
+      "word": "sumptuous",
+      "phonetic": "s'ʌm(p)tjuəs",
+      "pos": "adj.",
+      "definition": "华贵的，豪华的；奢侈的",
+      "frequency": 15165,
+      "mnemonic": "sumpt(=to take,to buy)+-uous (形容词后缀) →购买的，花销的， 吃喝的→引申词义华贵的；豪华的；奢侈的",
+      "collocations": [
+        ".a sumptuous feast: 一场奢华的盛会",
+        "sumptuous surroundings: 富丽堂皇的环境",
+        "sumptuous boutique: 豪华精品店"
+      ],
+      "etymology": "late 15c.,from Old French sumptueux or directly from Latin sumptuosus \"costly,very expensive;lavish,wasteful,\"from sumptus,past participle of sumere “to borrow,buy,spend,eat,drink,consume,employ,take,take up,\"contraction of*sub-emere.Related:Sumptuously;sumptuousness.",
+      "examples": [],
+      "rootHint": "mpt"
+    },
+    {
+      "word": "vintage",
+      "phonetic": "'vintrdʒ",
+      "pos": "n.",
+      "definition": "( 某优质葡萄酒的)产地和年份；特定年份酿的葡萄酒 adj. (葡萄酒)优质的，上等的，佳酿的；(汽车或飞机)老式的，古 色古香的；最佳的；典型的；优质的",
+      "frequency": 6462,
+      "mnemonic": "来自拉丁语vindemia,vin-(=wine, 葡萄)+de- ( 向下，取下)+-em (拿，带)+ia(名词后缀)→取下葡萄，酿成葡萄酒→特定年份收割的 葡萄，上等葡萄酒→经典的；优质的",
+      "collocations": [
+        "grapes,yield of grapes.\"Sense shifted to “age or year of a particular wine” (1746),then to a general adjectival sense of \"being of an earlier time“ (1883).Used of cars since 1928.",
+        "the 1999 vintage: 1999年酿制的葡萄酒",
+        "vintage wine: 佳酿；精制葡萄酒",
+        "vintage car: 老式汽车",
+        "vintage clothes: 复古的衣裳，老式经典服装"
+      ],
+      "etymology": "early 15c.,\"harvest of grapes,yield of wine from a vineyard,\"from Anglo- French vintage(mid-14c.),from Old French vendage,vendenge “vine- harvest,yield from a vineyard,\"from Latin vindemia“a gathering of 20000词汇巅峰返",
+      "examples": [],
+      "rootHint": "em"
+    }
+  ]
+}

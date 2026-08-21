@@ -1,0 +1,136 @@
+{
+  "id": "quick",
+  "source": "textbook-3",
+  "chapter": "14",
+  "chapterOrder": 114,
+  "titleZh": "quick",
+  "semanticLabel": "quick",
+  "meaningEn": null,
+  "meaningZh": null,
+  "roots": [
+    "quick"
+  ],
+  "words": [
+    {
+      "word": "quick",
+      "phonetic": "kwik",
+      "pos": "adj.",
+      "definition": "快的；迅速的；时间短暂的；敏捷的；立竿见影的 adv.迅 速地；快速地；敏捷地 n. ( 指甲下的)活肉",
+      "frequency": 1309,
+      "mnemonic": null,
+      "collocations": [
+        "Of persons,\"mentally active,\"from late 15c.Also in Middle English used of soft soils,gravel pits,etc.where the ground is shifting and yielding (mid-14c.,compare quicksand).As an adverb from c.1300.To be quick about something is from 1937.Quick buck is from 1946,American English.Quick-change artist(1886)originally was an actor expert in playing different roles in the same performance of a show.Quick-witted is from 1520s.",
+        "cut sb to the quick: (以恶意的言行)深深伤害；把……伤害到家 quick wits: 急智",
+        "to have a quick temper: 性子急；容易发脾气",
+        "quick and dirty: 权宜处理；机动安排",
+        "quick profit: 暴利",
+        "quick-thinking: 才思敏捷的",
+        "quick-growing: 生长迅速的"
+      ],
+      "etymology": "来自古英语cwic, 活的，有生命的，来自PIE*gweie, 存活，生命， 同zoo,vival. 引申词义快速的，敏捷的。当说I am hurt to the quick (我的心被深深刺伤了),你是在使用quick的原义，就如圣 经中的一个短语the quick and the dead ( 生者与死者)的quick一样。 quick一词在古英语里拼作cwicu, 原义是living /alive ( 活着的，活 的),所以在从前livestock ( 牲畜)叫做quickstock 。mercury ( 水 银)称quicksilver, 因为它好像是有生命的；而hedge ( 树篱)叫做 quick fence, 有别于stone fence ( 石栏)和wooden fence ( 木 栏 ) , 那是因为hedge会生长的缘故。quick lime是“生石灰”,quick wine 是“冒泡闪亮的酒”,the quick则指“(有感觉的)活肉”,尤指 “(指甲下的)嫩肉”。此外， quick的原义还反映在quick with child (感到胎动)一语中。以后，quick的词义从living /alive逐渐转为 lively (充满生气的，活泼的),到了13世纪才转为表示swift ( 迅速 的)。这一变化过程是比较自然的，正如人们今天在口语中也常常用 短语look alive/lively,step lively等叫人行动敏捷点一样。一般认为， 早先列车员或公共汽车售票员常爱对乘客说“Step lively” 或“Be quick” 是促成这一词义变化的因素之",
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quickly",
+      "phonetic": "'kwiklr",
+      "pos": "adv.",
+      "definition": "很快地；迅速地；不久；立即",
+      "frequency": 680,
+      "mnemonic": "quick(快的；迅速的；敏捷的)+-ly(副词后缀)→迅速地；立即",
+      "collocations": [
+        "as quickly as possible: 尽 快"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quicken",
+      "phonetic": "'kwik(a)n",
+      "pos": "vi.",
+      "definition": "( 使)加快，加速；使更活跃",
+      "frequency": 11729,
+      "mnemonic": "quick (有生命的；快速的)+-en ( 使……)→使加快；使加速；使 更活跃",
+      "collocations": [
+        "quicken up: 加 速",
+        "quicken the pace: 加快步伐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quicker",
+      "phonetic": "'kwikor",
+      "pos": "adj.",
+      "definition": "快些( quick的形容词比较级)11655",
+      "frequency": null,
+      "mnemonic": "quick (快速的)+-er ( 形容词比较级) →快些",
+      "collocations": [
+        "breathe quicker: 快点呼吸"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quickest",
+      "phonetic": "kwikist",
+      "pos": "adj.",
+      "definition": "最快的",
+      "frequency": 15332,
+      "mnemonic": "quick (快速的)+-est ( 形容词最高级) →最快地",
+      "collocations": [
+        "quickest speed: 最快速度"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quickness",
+      "phonetic": "'kwiknəs",
+      "pos": "n.",
+      "definition": "机智；敏捷；迅速",
+      "frequency": 16356,
+      "mnemonic": "quick (有生命力的；敏捷的)+-ness ( 名词后缀) → 机智；敏捷； 迅速",
+      "collocations": [
+        "the quickness of her wit: 头脑灵活",
+        "quickness and eagerness to learn: 敏思好学"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quiver",
+      "phonetic": "'kwivə",
+      "pos": "vi.",
+      "definition": "颤动；抖动；(人或声音由于愤怒、激动等)颤抖 n. 颤 抖；箭袋",
+      "frequency": 11790,
+      "mnemonic": "来 自qu- 所表示的拟声词，模仿松软，颤动或颤抖的声音，词源同 quake,quiver",
+      "collocations": [
+        "quiver with: 战 栗 ；颤动"
+      ],
+      "etymology": "\"to tremble,\"late 15c.,perhaps imitative,or possibly an alteration of quaveren(see quaver),or from Old English cwifer-(in cwiferlice “zealously”),which is perhaps related to cwic “alive”(see quick (adj.). Related:Quivered;quivering.As a noun in this sense from 1715,from the verb.",
+      "examples": [],
+      "rootHint": "quick"
+    },
+    {
+      "word": "quivering",
+      "phonetic": "'kwivəriŋ",
+      "pos": "adj.",
+      "definition": "颤抖的 vi. 轻微颤动；抖动( quiver 的现在分词)",
+      "frequency": 19244,
+      "mnemonic": "quiver(颤抖)+ -ing(形容词后缀) →颤抖的；轻微颤动",
+      "collocations": [
+        "quivering accent: 颤抖的音调",
+        "quivering soundtrack: 颤抖配乐"
+      ],
+      "etymology": null,
+      "examples": [],
+      "rootHint": "quick"
+    }
+  ]
+}
