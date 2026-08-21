@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "prebuild": "rm -rf public/data && cp -r ../data public/data",
+    "prebuild": "rm -rf public/data && mkdir -p public/data && rsync -a --exclude '*.db' ../data/ public/data/",
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",

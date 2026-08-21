@@ -5,13 +5,16 @@
 1. cern 族 26 个 -ics 学科词 → textbook-1/ics.json 专题族（roots: ics）
 2. 错标词清理：voc/critical、cern/policy、fin/battery、van/ancestor 删除错误归属
 3. 解析噪声词改名：intact2→intact、age-0ld→age-old、c0-opt→co-opt
+4. 恢复手动创建的族（scripts/manual-data/，如 textbook-8/s-pend）
 """
 from __future__ import annotations
 
 import json
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
+MANUAL_DATA = ROOT / "scripts" / "manual-data"
 
 ICS_ROOT_HINT = "ics"
 
@@ -140,10 +143,47 @@ def rename_noise_words() -> None:
             print(f"  post-fix: {tb}/{fid}/{old} → {new}")
 
 
+def restore_manual_families() -> None:
+    """全量重导会清空/覆盖手动创建的族（如 textbook-8/s-pend、pend），从 scripts/manual-data/ 恢复"""
+    for src in sorted(MANUAL_DATA.glob("*.json")):
+        m = re.match(r"^(textbook-\d+)-(.*)$", src.stem)
+        if not m:
+            continue
+        tb, fid = m.group(1), m.group(2)
+        fam = json.loads(src.read_text(encoding="utf-8"))
+        target = ROOT / "data" / tb / f"{fid}.json"
+        if target.exists():
+            existing = json.loads(target.read_text(encoding="utf-8"))
+            if len(existing.get("words", [])) == len(fam.get("words", [])):
+                continue
+        target.parent.mkdir(parents=True, exist_ok=True)
+        target.write_text(src.read_text(encoding="utf-8"), encoding="utf-8")
+
+        idx_path = ROOT / "data" / tb / "index.json"
+        idx = json.loads(idx_path.read_text(encoding="utf-8")) if idx_path.exists() else []
+        if not any(e.get("id") == fid for e in idx):
+            idx.append({
+                "id": fid,
+                "file": f"{fid}.json",
+                "chapter": fam.get("chapter", ""),
+                "chapterOrder": fam.get("chapterOrder"),
+                "titleZh": fam.get("titleZh", ""),
+                "semanticLabel": fam.get("semanticLabel", ""),
+                "meaningEn": fam.get("meaningEn", "") or "",
+                "meaningZh": fam.get("meaningZh", "") or "",
+                "roots": fam.get("roots", []),
+                "wordCount": len(fam.get("words", [])),
+                "source": tb,
+            })
+            idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  post-fix: 恢复手动族 {tb}/{fid}（{len(fam.get('words', []))} 词）")
+
+
 def main() -> None:
     ensure_ics_family()
     remove_misclassified()
     rename_noise_words()
+    restore_manual_families()
     print("post-fix 完成")
 
 

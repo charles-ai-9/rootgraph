@@ -129,9 +129,12 @@ npx wrangler pages deployment list --project-name=rootgraph
 }
 ```
 
-#### 2. 更新 catalog.json（如果是新词根族）
+#### 2. 新词根族（重要：不要手改 catalog.json）
 
-如果是全新的词根族，需要在 `data/catalog.json` 添加元数据：
+`data/catalog.json` 是 **`parse-all.sh` 自动重建的派生文件**，手动修改会被下次重导覆盖。正确做法：
+
+- **手动创建的族**（教材外补充、如 `textbook-8/s-pend`）放到 `scripts/manual-data/` 目录，文件名 `{教材}-{族id}.json`（如 `textbook-8-s-pend.json`）——`post-fix-data.py` 会在每次重导后自动恢复该族及其 index 条目，**重导不丢**
+- 修改解析出的族：直接改 `data/textbook-{N}/{id}.json` 后跑 `python3 scripts/post-fix-data.py`（如改动会被重导覆盖，请把修正逻辑加入该脚本）
 
 ```json
 {
@@ -200,7 +203,12 @@ git push origin main
 
 **重要**：用户笔记和进度保存在浏览器 localStorage，换设备会丢失。
 
-**建议定期导出**（后续可添加"导出笔记"功能）：
+**数据文件备份**（重导前后建议执行）：
+```bash
+./scripts/backup-data.sh   # 打包 data/ 到 backups/（保留 10 份）
+```
+
+**用户笔记备份**（localStorage，后续可添加"导出笔记"功能）：
 - 打开浏览器开发者工具（F12）
 - Application → Local Storage → https://rootgraph.pages.dev
 - 复制以下 key 的值保存为 JSON 文件：
@@ -276,13 +284,13 @@ git push origin main
 ```json
 {
   "scripts": {
-    "prebuild": "rm -rf public/data && cp -r ../data public/data",
+    "prebuild": "rm -rf public/data && mkdir -p public/data && rsync -a --exclude '*.db' ../data/ public/data/",
     "build": "tsc -b && vite build"
   }
 }
 ```
 
-**说明**：`prebuild` 脚本在构建前自动将 `../data/` 复制到 `web/public/data/`，确保数据文件被 Vite 打包到 `dist/`。
+**说明**：`prebuild` 脚本在构建前自动将 `../data/` 同步到 `web/public/data/`（`--exclude '*.db'` 排除 SQLite 分析库，避免打包 4.8MB 无用文件），确保数据文件被 Vite 打包到 `dist/`。
 
 **web/vite.config.ts**：
 ```typescript
