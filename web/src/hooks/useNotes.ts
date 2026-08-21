@@ -6,6 +6,7 @@ import { safeSetItem } from '../utils/storage';
 export interface WordFieldOverrides {
   mnemonic?: string;
   collocations?: string;
+  examples?: string; // 用户自定义例句（JSON 字符串数组）
 }
 
 /** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
@@ -230,6 +231,31 @@ export function useNotes() {
     }));
   }, []);
 
+  const getWordExamples = useCallback(
+    (key: string, seed: string[] = []) => {
+      const hit = store.wordFields[key]?.examples;
+      if (hit !== undefined) {
+        try {
+          return JSON.parse(hit) as string[];
+        } catch {
+          return seed;
+        }
+      }
+      return seed;
+    },
+    [store],
+  );
+
+  const setWordExamples = useCallback((key: string, examples: string[]) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], examples: JSON.stringify(examples) },
+      },
+    }));
+  }, []);
+
   /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2） */
   const migrateKeys = useCallback((renames: Record<string, string>) => {
     setStore((prev) => {
@@ -274,6 +300,8 @@ export function useNotes() {
     setWordMnemonic,
     getWordCollocations,
     setWordCollocations,
+    getWordExamples,
+    setWordExamples,
     migrateKeys,
   };
 }

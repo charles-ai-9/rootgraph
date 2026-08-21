@@ -17,6 +17,7 @@ export interface WordCardProps {
   personalNote: string;
   mnemonicNote: string;
   collocationsNote: string;
+  examplesNote: string[]; // 用户自定义例句
   affixNotes: WordAffixNotes;
   items: AffixItem[];
   getItem: (id: string) => AffixItem | undefined;
@@ -31,6 +32,7 @@ export interface WordCardProps {
   onNote: (text: string) => void;
   onMnemonicNote: (text: string) => void;
   onCollocationsNote: (text: string) => void;
+  onExamplesNote: (examples: string[]) => void;
   onAffixNote: (kind: WordAffixKind, note: AffixNoteData) => void;
 }
 
@@ -67,6 +69,7 @@ export function WordCard({
   personalNote,
   mnemonicNote,
   collocationsNote,
+  examplesNote,
   affixNotes,
   items,
   getItem,
@@ -79,6 +82,7 @@ export function WordCard({
   onNote,
   onMnemonicNote,
   onCollocationsNote,
+  onExamplesNote,
   onAffixNote,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
@@ -94,13 +98,14 @@ export function WordCard({
   const rootAnalysis = analyzeWordRoots(familyRoots, word.word, word.rootHint, mnemonicNote);
   const hasMnemonic = Boolean(mnemonicNote.trim());
   const hasCollocations = Boolean(collocationsNote.trim());
+  const hasExamples = examplesNote.length > 0;
   const hasPersonalNote = Boolean(personalNote.trim());
   const hasAffixNote = Boolean(affixNotes.prefix.libraryRef || affixNotes.suffix.libraryRef
     || affixNotes.prefix.current.trim() || affixNotes.suffix.current.trim());
   const hasExtra = Boolean(
     hasMnemonic
       || hasCollocations
-      || word.examples.length
+      || hasExamples
       || word.etymology,
   );
   const hasAnyNote = hasPersonalNote || hasExtra || hasAffixNote;
@@ -236,22 +241,18 @@ export function WordCard({
                 />
               </section>
 
-              {word.examples.length > 0 && (
-                <section>
-                  <h4>例句</h4>
-                  <ul className="plain-list example-list">
-                    {word.examples.map((ex) => (
-                      <li key={ex} className="example-block">
-                        {ex.split('\n').map((line) => (
-                          <span key={line} className="example-line">
-                            {line}
-                          </span>
-                        ))}
-                      </li>
-                    ))}
-                  </ul>
-                </section>
-              )}
+              <section className="word-card-notes editable-note-block">
+                <h4>例句</h4>
+                <NoteEditor
+                  value={examplesNote.join('\n')}
+                  placeholder={MD_PLACEHOLDER}
+                  onChange={(text) => {
+                    const lines = text.split('\n').filter((line) => line.trim());
+                    onExamplesNote(lines);
+                  }}
+                  minRows={2}
+                />
+              </section>
 
               {word.etymology && (
                 <section>

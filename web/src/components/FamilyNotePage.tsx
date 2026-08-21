@@ -30,6 +30,8 @@ interface FamilyNotePageProps {
   setWordMnemonic: (key: string, text: string) => void;
   getWordCollocations: (key: string, seed?: string[]) => string;
   setWordCollocations: (key: string, text: string) => void;
+  getWordExamples: (key: string, seed?: string[]) => string[];
+  setWordExamples: (key: string, examples: string[]) => void;
   getWordAffixNotes: (key: string) => WordAffixNotes;
   setWordAffixNote: (key: string, kind: WordAffixKind, note: AffixNoteData) => void;
   items: AffixItem[];
@@ -55,6 +57,8 @@ export function FamilyNotePage({
   setWordMnemonic,
   getWordCollocations,
   setWordCollocations,
+  getWordExamples,
+  setWordExamples,
   getWordAffixNotes,
   setWordAffixNote,
   items,
@@ -230,6 +234,7 @@ export function FamilyNotePage({
       personalNote: getWordNote(wKey),
       mnemonicNote: getWordMnemonic(wKey, w.mnemonic),
       collocationsNote: getWordCollocations(wKey, w.collocations),
+      examplesNote: getWordExamples(wKey, w.examples),
       affixNotes: getWordAffixNotes(wKey),
       items,
       getItem,
@@ -239,6 +244,7 @@ export function FamilyNotePage({
       onNote: (text) => setWordNote(wKey, text),
       onMnemonicNote: (text) => setWordMnemonic(wKey, text),
       onCollocationsNote: (text) => setWordCollocations(wKey, text),
+      onExamplesNote: (examples) => setWordExamples(wKey, examples),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
     };
   };

@@ -68,7 +68,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
 
   // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
@@ -121,6 +121,8 @@ function App() {
         setWordMnemonic={setWordMnemonic}
         getWordCollocations={getWordCollocations}
         setWordCollocations={setWordCollocations}
+        getWordExamples={getWordExamples}
+        setWordExamples={setWordExamples}
         getWordAffixNotes={getWordAffixNotes}
         setWordAffixNote={setWordAffixNote}
         items={affixLibrary.items}
