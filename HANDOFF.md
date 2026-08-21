@@ -401,6 +401,7 @@ App.tsx
 
 - **概览 Tab**：摘要、变体对照、家族笔记、关系图
 - **视频编号**：顶部徽标显示/编辑词根族对应的视频课程编号（localStorage，首页卡片同步显示 🎬）
+- **词根编辑（✎ 词根）**：按教程手动修正词根变体（保留教材写法如 `(s)pend`）与语义标签，localStorage 持久化（重导不丢），首页卡片同步
 - **变体 Tab**（如 cern / crim / cert）：仅显示该变体下的单词卡
 - 底部 `VariantStepper` 切换变体
 - 从搜索进入时 `focusWord` 自动切 Tab 并滚动定位
@@ -438,7 +439,7 @@ App.tsx
 
 | Key | Hook | 内容 |
 |-----|------|------|
-| `rootgraph-notes-v2` | useNotes | `{ families, words, affixNotes, wordFields, videoMap }`（videoMap: 族 → 视频编号） |
+| `rootgraph-notes-v2` | useNotes | `{ families, words, affixNotes, wordFields, videoMap, familyMeta }`（videoMap: 族→视频编号；familyMeta: 族→手动修正的 roots/semantic） |
 | `rootgraph-notes-v1` | useNotes | 只读 legacy，部分迁移 |
 | `rootgraph-affix-library-v5` | useAffixLibrary | `AffixItem[]` |
 | `rootgraph-affix-library-seed-version` | useAffixLibrary | 如 `'docx-v12'` |
@@ -541,7 +542,8 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 | **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `web/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空）；解析器改为「先写后删」 |
 | 健壮性加固（2026-09） | `validate-data.py` 一致性校验、`backup-data.sh` 数据备份、ErrorBoundary + fetch 错误态/重试、localStorage 写入 try/catch（safeSetItem）、`legacyId` 笔记迁移机制；catalog 已提交 git 基线（450536a） |
 | docx 释义混入「词频 助记/词源/搭配」文本（TB3/4 共 72 处） | `parse-docx.py` 释义解析加行内标签截断（数字可选）+ 词频提取，重导 TB3/4 后清零；顺带修复 intact2→intact、age-0ld→age-old、c0-opt→co-opt 三个解析噪声词 |
-| cern 族 26 个 `-ics` 学科词误归 | 移出 cern → 新建 `textbook-1/ics.json`「-ics 学科词」专题族（roots: ics，26 词不丢）；错标词清理：voc/critical、cern/policy、fin/battery、van/ancestor 删除错误归属（保留合理归属：cern/critical、dict/policy、dox/battery、ceed/ancestor）；被删词条备份于 `/tmp/removed-words.json` |
+| 教材变体 `(s)` 写法丢失（-(s)pend 只提取到 pens） | `parse-pdf.swift`/`parse-docx.py` 词根提取允许 `(` 开头并保留原写法；前端展示忠于教材（`pens · (s)pend · (s)pon`），匹配层归一化（`normalizeRootForm`）；另提供 ✎ 词根手动编辑（familyMeta）兜底 |
+| cern 族 26 个 `-ics` 学科词误归 | 移出 cern → 新建 `textbook-1/ics.json`「-ics 学科词」专题族（roots: ics，26 词不丢）；错标词清理：voc/critical、cern/policy、fin/battery、van/ancestor 删除错误归属（保留合理归属：cern/critical、dict/policy、dox/battery、ceed/ancestor）；被删词条备份于 `/tmp/removed-words.json`；修正由 `post-fix-data.py` 重导后自动重放 |
 
 ### 11.2 未解决 / 数据层
 
