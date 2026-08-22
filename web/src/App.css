@@ -1266,11 +1266,12 @@ textarea {
 }
 
 .word-head-word {
-  font-weight: 700;
-  font-size: 1.05rem;
+  font-weight: 600;
+  font-size: 0.98rem;
+  color: var(--text-muted);
   cursor: pointer;
   border-radius: 4px;
-  line-height: 1.3;
+  line-height: 1.4;
 }
 
 .word-head-word:hover {
@@ -4598,20 +4599,7 @@ textarea {
   flex-shrink: 0;
 }
 
-.word-head-word {
-  font-size: 1.16rem;
-  font-weight: 800;
-}
 
-.word-root-meaning {
-  margin: 0;
-  padding: 8px 14px;
-  font-size: 0.84rem;
-  color: var(--text);
-  background: var(--accent-soft);
-  border-bottom: 1px solid var(--border-light);
-  line-height: 1.7;
-}
 
 .word-root-meaning-label {
   display: inline-block;
