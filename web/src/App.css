@@ -4702,3 +4702,45 @@ textarea {
     padding: 8px 12px 9px;
   }
 }
+
+/* ══ 悬浮词根条：移动端可拖动 ══ */
+.variant-root-follow {
+  touch-action: none; /* 拖动时不触发页面滚动 */
+}
+
+.variant-root-follow.is-dragged {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 30;
+  box-shadow: 0 6px 20px rgba(15, 23, 42, 0.14);
+  cursor: grab;
+}
+
+.follow-reset-btn {
+  flex-shrink: 0;
+  margin-left: auto;
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text-muted);
+  border-radius: 6px;
+  padding: 2px 9px;
+  cursor: pointer;
+  font-size: 0.82rem;
+  line-height: 1.5;
+}
+
+.follow-reset-btn:active {
+  transform: scale(0.95);
+}
+
+/* 拖动把手提示（仅触屏设备） */
+@media (hover: none) {
+  .variant-root-follow::before {
+    content: '⠿';
+    color: var(--text-light);
+    font-size: 0.85rem;
+    line-height: 1;
+    align-self: center;
+  }
+}

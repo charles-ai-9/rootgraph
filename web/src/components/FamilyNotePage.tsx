@@ -8,6 +8,7 @@ import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
 import { useProgress } from '../hooks/useProgress';
 import { FamilyVariantNav, OVERVIEW_PANEL, VariantStepper, type VariantTab } from './FamilyVariantNav';
+import { DraggableFollowBar } from './DraggableFollowBar';
 import { MiniRelationGraph } from './MiniRelationGraph';
 import { NoteEditor } from './NoteEditor';
 import { VariantMap } from './VariantMap';
@@ -545,12 +546,10 @@ export function FamilyNotePage({
           {showVariantNav && activePanel !== OVERVIEW_PANEL && (
             <section key={activePanel} className="root-group root-group-panel">
               {followMeaning && (
-                <div className="variant-root-follow">
-                  <span className="word-root-meaning-label">词根</span>
-                  <span className="variant-root-follow-roots">{followRoots}</span>
-                  <span className="variant-root-follow-eq">=</span>
-                  <span className="variant-root-follow-meaning">{followMeaning}</span>
-                </div>
+                <DraggableFollowBar
+                  followRoots={followRoots}
+                  followMeaning={followMeaning}
+                />
               )}
               <header className="variant-panel-head">
                 <div>
