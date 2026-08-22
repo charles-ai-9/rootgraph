@@ -251,8 +251,10 @@ export function FamilyNotePage({
 
   /** 悬浮条：词根链（如 -val · -vail）+ 中文语义优先（如 强壮） */
   const followRoots = useMemo(
-    () => (family ? family.roots.map((r) => `-${r.replace(/^-+/, '')}`).join(' · ') : ''),
-    [family],
+    () => (effectiveRoots && effectiveRoots.length
+      ? effectiveRoots.map((r) => `-${r.replace(/^-+/, '')}`).join(' · ')
+      : ''),
+    [effectiveRoots],
   );
   const followMeaning = useMemo(
     () =>
