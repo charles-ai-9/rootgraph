@@ -90,6 +90,18 @@ export function FamilyNotePage({
   const [metaSemanticText, setMetaSemanticText] = useState('');
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
+  const lastTopTapRef = useRef(0);
+
+  /** 双击顶栏空白区域回到页面顶部（App 习惯） */
+  const handleTopbarTap = () => {
+    const now = Date.now();
+    if (now - lastTopTapRef.current < 350) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      lastTopTapRef.current = 0;
+    } else {
+      lastTopTapRef.current = now;
+    }
+  };
   const searchInputRef = useRef<HTMLInputElement>(null);
 
   const fKey = familyStorageKey(entry.textbook, entry.id);
@@ -286,7 +298,14 @@ export function FamilyNotePage({
             <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
           </div>
         ) : (
-          <p>加载中…</p>
+          <div className="page-skeleton">
+            <div className="skeleton-line w60" />
+            <div className="skeleton-line w40" />
+            <div className="skeleton-card" />
+            <div className="skeleton-card" />
+            <div className="skeleton-card" />
+            <div className="skeleton-card" />
+          </div>
         )}
       </div>
     );
@@ -310,7 +329,7 @@ export function FamilyNotePage({
 
   return (
     <div className="note-page">
-      <header className="note-topbar">
+      <header className="note-topbar" onClick={handleTopbarTap}>
         <div className="note-topbar-inner">
           <button type="button" className="back-link" onClick={onBack}>
             ← 返回知识库

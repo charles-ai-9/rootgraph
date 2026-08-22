@@ -1,6 +1,7 @@
 import { useEffect, useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordAffixNotes, WordEntry } from '../types';
 import { copyText } from '../utils/clipboard';
+import { haptic } from '../utils/haptics';
 import { analyzeWordRoots, rootsForWord } from '../utils/rootHighlight';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { AffixModal, affixButtonHasDot, affixButtonLabel } from './AffixModal';
@@ -150,7 +151,10 @@ export function WordCard({
           className="word-card-head"
           role="button"
           aria-expanded={expanded}
-          onClick={() => setExpanded((v) => !v)}
+          onClick={() => {
+            setExpanded((v) => !v);
+            haptic(6);
+          }}
           title={expanded ? '点击收起' : '点击展开'}
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
@@ -214,7 +218,7 @@ export function WordCard({
         </header>
 
         {expanded && (
-          <>
+          <div className="word-card-body">
             {(word.pos || word.definition) && (
               <div className="word-card-def">
                 {word.pos && <span className="pos-tag">{word.pos}</span>}
@@ -276,7 +280,7 @@ export function WordCard({
                 </section>
               )}
             </div>
-          </>
+          </div>
         )}
       </article>
 

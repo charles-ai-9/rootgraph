@@ -4432,3 +4432,154 @@ textarea {
     max-height: 40vh;
   }
 }
+
+/* ══ App 化动效 ══ */
+
+/* 弹窗：背景淡入 + 内容上浮 */
+.affix-modal-backdrop {
+  animation: rootgraph-backdrop-in 0.18s ease-out;
+}
+
+.affix-modal-backdrop > .affix-modal,
+.affix-modal-backdrop > .affix-lib-overlay,
+.affix-modal-backdrop > .word-review-modal,
+.affix-modal-backdrop > .affix-item-modal-compact {
+  animation: rootgraph-sheet-in 0.24s cubic-bezier(0.32, 0.72, 0, 1);
+}
+
+@keyframes rootgraph-backdrop-in {
+  from { opacity: 0; }
+}
+
+@keyframes rootgraph-sheet-in {
+  from { transform: translateY(20px); opacity: 0; }
+}
+
+/* 页面切换过渡 */
+.page-enter {
+  animation: rootgraph-page-in 0.18s ease-out;
+}
+
+@keyframes rootgraph-page-in {
+  from { opacity: 0; transform: translateY(6px); }
+}
+
+/* 词卡：展开内容淡入 + 列表 stagger 进入 */
+.word-card-body {
+  animation: rootgraph-body-in 0.18s ease-out;
+}
+
+.word-card {
+  animation: rootgraph-card-in 0.22s ease-out both;
+}
+
+.word-card:nth-child(2) { animation-delay: 0.02s; }
+.word-card:nth-child(3) { animation-delay: 0.04s; }
+.word-card:nth-child(4) { animation-delay: 0.06s; }
+.word-card:nth-child(5) { animation-delay: 0.08s; }
+.word-card:nth-child(6) { animation-delay: 0.1s; }
+.word-card:nth-child(7) { animation-delay: 0.12s; }
+.word-card:nth-child(8) { animation-delay: 0.14s; }
+.word-card:nth-child(9) { animation-delay: 0.16s; }
+.word-card:nth-child(10) { animation-delay: 0.18s; }
+
+@keyframes rootgraph-body-in {
+  from { opacity: 0; transform: translateY(-4px); }
+}
+
+@keyframes rootgraph-card-in {
+  from { opacity: 0; transform: translateY(6px); }
+}
+
+/* 触屏按压反馈（仅无 hover 设备，桌面不受影响） */
+@media (hover: none) {
+  button:active,
+  .library-row:active,
+  .word-card-head:active,
+  .family-variant-tab:active {
+    transform: scale(0.98);
+  }
+}
+
+/* ══ 骨架屏 ══ */
+.skeleton-line,
+.skeleton-card {
+  background: linear-gradient(90deg, #f3f3f3 25%, #ececec 37%, #f3f3f3 63%);
+  background-size: 400% 100%;
+  animation: rootgraph-shimmer 1.3s ease infinite;
+  border-radius: 6px;
+}
+
+@keyframes rootgraph-shimmer {
+  0% { background-position: 100% 0; }
+  100% { background-position: 0 0; }
+}
+
+.page-skeleton {
+  max-width: var(--doc-width);
+  margin: 0 auto;
+  padding: 32px 24px 80px;
+}
+
+.skeleton-line {
+  height: 14px;
+  margin-bottom: 12px;
+}
+
+.skeleton-line.w60 { width: 60%; }
+.skeleton-line.w40 { width: 40%; }
+
+.skeleton-card {
+  height: 64px;
+  margin: 14px 0;
+}
+
+.library-skeleton {
+  padding: 8px 0;
+}
+
+/* ══ 更新 / 离线提示浮层 ══ */
+.app-toast {
+  position: fixed;
+  left: 50%;
+  bottom: calc(24px + env(safe-area-inset-bottom));
+  transform: translateX(-50%);
+  z-index: 100;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 10px 16px;
+  border-radius: 10px;
+  background: #1f2328;
+  color: #fff;
+  font-size: 0.85rem;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.18);
+  animation: rootgraph-sheet-in 0.24s ease-out;
+  max-width: calc(100vw - 32px);
+}
+
+.app-toast button {
+  flex-shrink: 0;
+  padding: 5px 12px;
+  border: none;
+  border-radius: 6px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+/* 主页面底部安全区（iPhone 横条） */
+@media (max-width: 768px) {
+  .library {
+    padding-bottom: calc(60px + env(safe-area-inset-bottom));
+  }
+
+  .note-page {
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  .affix-admin {
+    padding-bottom: calc(60px + env(safe-area-inset-bottom));
+  }
+}

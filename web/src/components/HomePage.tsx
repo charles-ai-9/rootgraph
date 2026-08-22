@@ -27,6 +27,18 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [backupMsg, setBackupMsg] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
+  const lastTopTapRef = useRef(0);
+
+  /** 双击 hero 回到页面顶部（App 习惯） */
+  const handleHeroTap = () => {
+    const now = Date.now();
+    if (now - lastTopTapRef.current < 350) {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      lastTopTapRef.current = 0;
+    } else {
+      lastTopTapRef.current = now;
+    }
+  };
 
   const handleImportFile = (file: File) => {
     const reader = new FileReader();
@@ -140,7 +152,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
 
   return (
     <div className="library">
-      <header className="library-hero">
+      <header className="library-hero" onClick={handleHeroTap}>
         <p className="eyebrow">RootGraph · 词根笔记</p>
         <h1 className="hero-enjoy-title">
           <span>享受英语</span>
@@ -250,7 +262,16 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
         ),
       )}
 
-      {filtered.length === 0 && !hasFilter && !catalogError && (
+      {catalog.length === 0 && !catalogError && (
+        <div className="library-skeleton">
+          <div className="skeleton-line w60" />
+          {[0, 1, 2, 3, 4, 5, 6, 7].map((i) => (
+            <div key={i} className="skeleton-card" />
+          ))}
+        </div>
+      )}
+
+      {filtered.length === 0 && !hasFilter && !catalogError && catalog.length > 0 && (
         <p className="empty-hint">没有匹配的词根族，试试换个筛选条件</p>
       )}
 

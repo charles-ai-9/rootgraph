@@ -1,4 +1,5 @@
 import type { WordStatus } from '../types';
+import { haptic } from '../utils/haptics';
 import { WordCard, type WordCardProps } from './WordCard';
 
 interface WordCardModalProps {
@@ -31,14 +32,20 @@ export function WordCardModal({ wordCardProps, status, onSetStatus, onClose }: W
           <button
             type="button"
             className={`word-review-mark is-review ${status === 'review' ? 'active' : ''}`}
-            onClick={() => onSetStatus('review')}
+            onClick={() => {
+              onSetStatus('review');
+              haptic([12, 40, 12]);
+            }}
           >
             😕 模糊，稍后再看
           </button>
           <button
             type="button"
             className={`word-review-mark is-understood ${status === 'understood' ? 'active' : ''}`}
-            onClick={() => onSetStatus('understood')}
+            onClick={() => {
+              onSetStatus('understood');
+              haptic(8);
+            }}
           >
             ✓ 想起来了
           </button>

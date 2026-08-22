@@ -94,55 +94,109 @@ function App() {
     );
   }
 
-  if (view.kind === 'affix-library') {
-    return (
-      <AffixLibraryPage
-        items={affixLibrary.items}
-        onBack={() => applyView({ kind: 'home' })}
-        onSaveGroup={affixLibrary.saveGroup}
-      />
-    );
-  }
+  const [updateAvailable, setUpdateAvailable] = useState(false);
+  const [offline, setOffline] = useState(false);
 
-  if (view.kind === 'family') {
-    return (
-      <FamilyNotePage
-        entry={view.entry}
-        focusWord={view.focusWord}
-        getFamilyNote={getFamilyNote}
-        setFamilyNote={setFamilyNote}
-        getVideoId={getVideoId}
-        setVideoId={setVideoId}
-        getFamilyMeta={getFamilyMeta}
-        setFamilyMeta={setFamilyMeta}
-        getWordNote={getWordNote}
-        setWordNote={setWordNote}
-        getWordMnemonic={getWordMnemonic}
-        setWordMnemonic={setWordMnemonic}
-        getWordCollocations={getWordCollocations}
-        setWordCollocations={setWordCollocations}
-        getWordExamples={getWordExamples}
-        setWordExamples={setWordExamples}
-        getWordAffixNotes={getWordAffixNotes}
-        setWordAffixNote={setWordAffixNote}
-        items={affixLibrary.items}
-        getItem={affixLibrary.getItem}
-        onSaveToLibrary={affixLibrary.upsertItemFromNote}
-        onSaveGroup={affixLibrary.saveGroup}
-        onSearchOpen={(e: CatalogEntry, word?: string) => applyView({ kind: 'family', entry: e, focusWord: word })}
-        onBack={() => applyView({ kind: 'home' })}
-      />
+  // Service Worker 新版本检测（App 感：发现新版本提示刷新）
+  useEffect(() => {
+    if (!('serviceWorker' in navigator)) return;
+    navigator.serviceWorker.ready
+      .then((reg) => {
+        reg.addEventListener('updatefound', () => {
+          const newWorker = reg.installing;
+          newWorker?.addEventListener('statechange', () => {
+            if (newWorker.state === 'installed' && navigator.serviceWorker.controller) {
+              setUpdateAvailable(true);
+            }
+          });
+        });
+      })
+      .catch(console.error);
+  }, []);
+
+  // 离线状态提示
+  useEffect(() => {
+    const onOffline = () => setOffline(true);
+    const onOnline = () => setOffline(false);
+    window.addEventListener('offline', onOffline);
+    window.addEventListener('online', onOnline);
+    return () => {
+      window.removeEventListener('offline', onOffline);
+      window.removeEventListener('online', onOnline);
+    };
+  }, []);
+
+  let page: React.ReactNode;
+  if (view.kind === 'affix-library') {
+    page = (
+      <div key="affix-library" className="page-enter">
+        <AffixLibraryPage
+          items={affixLibrary.items}
+          onBack={() => applyView({ kind: 'home' })}
+          onSaveGroup={affixLibrary.saveGroup}
+        />
+      </div>
+    );
+  } else if (view.kind === 'family') {
+    page = (
+      <div key={`family-${view.entry.textbook}-${view.entry.id}`} className="page-enter">
+        <FamilyNotePage
+          entry={view.entry}
+          focusWord={view.focusWord}
+          getFamilyNote={getFamilyNote}
+          setFamilyNote={setFamilyNote}
+          getVideoId={getVideoId}
+          setVideoId={setVideoId}
+          getFamilyMeta={getFamilyMeta}
+          setFamilyMeta={setFamilyMeta}
+          getWordNote={getWordNote}
+          setWordNote={setWordNote}
+          getWordMnemonic={getWordMnemonic}
+          setWordMnemonic={setWordMnemonic}
+          getWordCollocations={getWordCollocations}
+          setWordCollocations={setWordCollocations}
+          getWordExamples={getWordExamples}
+          setWordExamples={setWordExamples}
+          getWordAffixNotes={getWordAffixNotes}
+          setWordAffixNote={setWordAffixNote}
+          items={affixLibrary.items}
+          getItem={affixLibrary.getItem}
+          onSaveToLibrary={affixLibrary.upsertItemFromNote}
+          onSaveGroup={affixLibrary.saveGroup}
+          onSearchOpen={(e: CatalogEntry, word?: string) => applyView({ kind: 'family', entry: e, focusWord: word })}
+          onBack={() => applyView({ kind: 'home' })}
+        />
+      </div>
+    );
+  } else {
+    page = (
+      <div key="home" className="page-enter">
+        <HomePage
+          onOpenFamily={(entry, word) => applyView({ kind: 'family', entry, focusWord: word })}
+          affixItems={affixLibrary.items}
+          onSaveAffixGroup={affixLibrary.saveGroup}
+          getVideoId={getVideoId}
+          getFamilyMeta={getFamilyMeta}
+        />
+      </div>
     );
   }
 
   return (
-    <HomePage
-      onOpenFamily={(entry, word) => applyView({ kind: 'family', entry, focusWord: word })}
-      affixItems={affixLibrary.items}
-      onSaveAffixGroup={affixLibrary.saveGroup}
-      getVideoId={getVideoId}
-      getFamilyMeta={getFamilyMeta}
-    />
+    <>
+      {page}
+      {updateAvailable && (
+        <div className="app-toast">
+          <span>发现新版本</span>
+          <button type="button" onClick={() => window.location.reload()}>立即刷新</button>
+        </div>
+      )}
+      {offline && (
+        <div className="app-toast">
+          <span>已离线，当前为缓存数据</span>
+        </div>
+      )}
+    </>
   );
 }
 
