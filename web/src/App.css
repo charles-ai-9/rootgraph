@@ -881,7 +881,7 @@ textarea {
 .note-doc {
   max-width: var(--doc-width);
   margin: 0 auto;
-  padding: 32px 24px 100px;
+  padding: 20px 24px 80px;
 }
 
 .doc-title {
@@ -905,7 +905,7 @@ textarea {
 }
 
 .doc-subtitle {
-  margin: 0 0 20px;
+  margin: 0 0 10px;
   color: var(--text-muted);
   font-size: 0.95rem;
 }
@@ -926,17 +926,17 @@ textarea {
 }
 
 .progress-text {
-  margin: 0 0 28px;
+  margin: 0 0 10px;
   font-size: 0.85rem;
   color: var(--text-muted);
 }
 
 .doc-section {
-  margin-bottom: 32px;
+  margin-bottom: 16px;
 }
 
 .doc-section h2 {
-  margin: 0 0 12px;
+  margin: 0 0 6px;
   font-size: 0.8rem;
   font-weight: 600;
   text-transform: uppercase;
@@ -1250,7 +1250,7 @@ textarea {
   align-items: center;
   flex-wrap: wrap;
   gap: 6px 10px;
-  padding: 12px 14px;
+  padding: 9px 14px;
   cursor: pointer;
   user-select: none;
 }
@@ -1385,7 +1385,7 @@ textarea {
 }
 
 .word-card-def {
-  padding: 4px 14px 10px;
+  padding: 4px 14px 8px;
   background: transparent;
   border-bottom: 1px solid var(--border-light);
   line-height: 1.6;
@@ -1397,7 +1397,7 @@ textarea {
 }
 
 .word-card-notes {
-  padding: 12px 14px 14px;
+  padding: 8px 14px 10px;
   background: transparent;
   border-bottom: 1px solid var(--border-light);
 }
@@ -1407,7 +1407,7 @@ textarea {
 }
 
 .word-card-extra {
-  padding: 12px 14px 14px;
+  padding: 6px 14px 10px;
   background: transparent;
 }
 
@@ -1724,7 +1724,7 @@ textarea {
 .note-editable {
   cursor: text;
   border-radius: var(--radius);
-  padding: 14px 16px;
+  padding: 9px 12px;
   border: 1px dashed var(--border);
   background: var(--border-light);
   transition: border-color 0.15s, background 0.15s;
@@ -4935,4 +4935,26 @@ textarea {
   .affix-modal-close {
     order: -1;
   }
+}
+
+/* ══ 家族笔记空折叠入口 ══ */
+.family-note-empty {
+  display: block;
+  width: 100%;
+  margin: 2px 0 10px;
+  padding: 9px 12px;
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  background: none;
+  color: var(--text-light);
+  font-size: 0.85rem;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.12s, border-color 0.12s, background 0.12s;
+}
+
+.family-note-empty:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
 }

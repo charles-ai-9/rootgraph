@@ -87,6 +87,7 @@ export function FamilyNotePage({
   const [reviewWord, setReviewWord] = useState<string | null>(null);
   const [editingVideo, setEditingVideo] = useState(false);
   const [metaEditOpen, setMetaEditOpen] = useState(false);
+  const [familyNoteEdit, setFamilyNoteEdit] = useState(false);
   const [metaRootsText, setMetaRootsText] = useState('');
   const [metaSemanticText, setMetaSemanticText] = useState('');
   const [metaMeaningZhText, setMetaMeaningZhText] = useState('');
@@ -338,6 +339,7 @@ export function FamilyNotePage({
     semantic,
   });
   const familyNote = getFamilyNote(fKey);
+  const hasFamilyNote = Boolean(familyNote.trim());
   const videoId = getVideoId(fKey);
   const activeWords = activePanel !== OVERVIEW_PANEL ? groups.get(activePanel) ?? [] : [];
   const familyStats = statsForKeys(family.words.map((w) => wordKey(entry.textbook, family.id, w.word)));
@@ -543,22 +545,24 @@ export function FamilyNotePage({
         <div className="family-variant-content">
           {(!showVariantNav || activePanel === OVERVIEW_PANEL) && (
             <>
-              <section className="doc-section summary-section">
-                <h2>词根族摘要</h2>
-                <pre className="summary-pre">{summary}</pre>
-              </section>
-
               <VariantMap roots={effectiveRoots ?? []} />
 
-              <section className="doc-section">
-                <h2>我的词根理解</h2>
-                <NoteEditor
-                  value={familyNote}
-                  placeholder="点击这里写下你对整个词根族的理解（支持 **粗体** *斜体* - 列表）"
-                  onChange={(text) => setFamilyNote(fKey, text)}
-                  minRows={4}
-                />
-              </section>
+              {hasFamilyNote || familyNoteEdit ? (
+                <section className="doc-section">
+                  <h2>我的词根理解</h2>
+                  <NoteEditor
+                    value={familyNote}
+                    placeholder="点击这里写下你对整个词根族的理解（支持 **粗体** *斜体* - 列表）"
+                    onChange={(text) => setFamilyNote(fKey, text)}
+                    minRows={4}
+                    autoEdit={!hasFamilyNote}
+                  />
+                </section>
+              ) : (
+                <button type="button" className="family-note-empty" onClick={() => setFamilyNoteEdit(true)}>
+                  ＋ 写下你对整个词根族的理解
+                </button>
+              )}
 
               <MiniRelationGraph
                 title={(effectiveRoots ?? []).join(' · ')}
