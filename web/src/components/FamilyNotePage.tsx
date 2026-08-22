@@ -245,16 +245,7 @@ export function FamilyNotePage({
     });
   };
 
-  /** 词根链 + 完整含义（词卡展开区用） */
-  const familyRootMeaning = useMemo(() => {
-    if (!family) return '';
-    return [
-      family.roots.map((r) => `-${r.replace(/^-+/, '')}`).join('，'),
-      [family.meaningEn, family.meaningZh].filter(Boolean).join(' · '),
-    ].filter(Boolean).join(' = ');
-  }, [family]);
-
-  /** 悬浮条含义：中文语义优先（如 val → 强壮），无中文才用英文 */
+  /** 悬浮条：词根链（如 -val · -vail）+ 中文语义优先（如 强壮） */
   const followRoots = useMemo(
     () => (family ? family.roots.map((r) => `-${r.replace(/^-+/, '')}`).join(' · ') : ''),
     [family],
@@ -270,7 +261,6 @@ export function FamilyNotePage({
       cardDomId: `word-${w.word}-${index}`,
       word: w,
       familyRoots: family!.roots,
-      rootMeaning: familyRootMeaning,
       textbook: entry.textbook,
       familyId: family!.id,
       personalNote: getWordNote(wKey),

@@ -27,8 +27,6 @@ export interface WordCardProps {
   onOpenAffixLibrary: () => void;
   /** 初始折叠（笔记风默认折叠，点击词行展开）；false = 初始展开（复习弹窗/深链） */
   defaultCollapsed?: boolean;
-  /** 词根含义（族级，如「-val · -vail = worth 价值；strong 强壮」），展开时展示 */
-  rootMeaning?: string;
   /** 深链定位高亮 */
   highlighted?: boolean;
   cardDomId?: string;
@@ -80,7 +78,6 @@ export function WordCard({
   onSaveGroup,
   onOpenAffixLibrary,
   defaultCollapsed = true,
-  rootMeaning,
   highlighted = false,
   cardDomId,
   onNote,
@@ -226,13 +223,6 @@ export function WordCard({
 
         {expanded && (
           <div className="word-card-body">
-            {rootMeaning && (
-              <p className="word-root-meaning">
-                <span className="word-root-meaning-label">词根</span>
-                {rootMeaning}
-              </p>
-            )}
-
             {(word.pos || word.definition) && (
               <div className="word-card-def">
                 {word.pos && <span className="pos-tag">{word.pos}</span>}
