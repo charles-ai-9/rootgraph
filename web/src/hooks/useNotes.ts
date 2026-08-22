@@ -198,8 +198,8 @@ export function useNotes() {
   const getWordMnemonic = useCallback(
     (key: string, seed = '') => {
       const hit = store.wordFields[key]?.mnemonic;
-      // null/undefined 都回退种子值（历史数据可能写入过 null）
-      return hit != null ? hit : seed;
+      // null/undefined 都回退；seed 也可能是数据层的 null，一律兜底为字符串
+      return hit != null ? hit : (seed ?? '');
     },
     [store],
   );

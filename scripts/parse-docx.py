@@ -43,18 +43,22 @@ class WordEntry:
     root_hint: str | None = None
 
     def to_dict(self) -> dict[str, Any]:
-        return {
-            "word": self.word,
-            "phonetic": self.phonetic,
-            "pos": self.pos,
-            "definition": self.definition,
-            "frequency": self.frequency,
-            "mnemonic": self.mnemonic,
-            "collocations": self.collocations,
-            "etymology": self.etymology,
-            "examples": self.examples,
-            "rootHint": self.root_hint,
-        }
+        d: dict[str, Any] = {"word": self.word}
+        # 只输出非 None 字段（避免 JSON 里显式 null，前端可安全使用）
+        for key, val in (
+            ("phonetic", self.phonetic),
+            ("pos", self.pos),
+            ("definition", self.definition),
+            ("frequency", self.frequency),
+            ("mnemonic", self.mnemonic),
+            ("collocations", self.collocations),
+            ("etymology", self.etymology),
+            ("examples", self.examples),
+            ("rootHint", self.root_hint),
+        ):
+            if val is not None:
+                d[key] = val
+        return d
 
 
 @dataclass

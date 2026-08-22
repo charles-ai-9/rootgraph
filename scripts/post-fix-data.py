@@ -6,6 +6,7 @@
 2. 错标词清理：voc/critical、cern/policy、fin/battery、van/ancestor 删除错误归属
 3. 解析噪声词改名：intact2→intact、age-0ld→age-old、c0-opt→co-opt
 4. 恢复手动创建的族（scripts/manual-data/，如 textbook-8/s-pend）
+5. 清洗词条显式 null 字段（docx 旧解析产物，前端 .trim() 等会崩）
 """
 from __future__ import annotations
 
@@ -179,11 +180,31 @@ def restore_manual_families() -> None:
         print(f"  post-fix: 恢复手动族 {tb}/{fid}（{len(fam.get('words', []))} 词）")
 
 
+def remove_null_fields() -> None:
+    """删除词条里值为 null 的字段（docx 旧解析输出过 mnemonic/etymology 等 null）"""
+    removed = 0
+    for p in sorted((ROOT / "data").glob("textbook-*/*.json")):
+        if p.name == "index.json":
+            continue
+        fam = load(p)
+        changed = False
+        for w in fam.get("words", []):
+            for k in [k for k, v in w.items() if v is None]:
+                del w[k]
+                removed += 1
+                changed = True
+        if changed:
+            save(p, fam)
+    if removed:
+        print(f"  post-fix: 清洗 {removed} 个 null 字段")
+
+
 def main() -> None:
     ensure_ics_family()
     remove_misclassified()
     rename_noise_words()
     restore_manual_families()
+    remove_null_fields()
     print("post-fix 完成")
 
 
