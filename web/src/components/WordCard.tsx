@@ -88,9 +88,19 @@ export function WordCard({
   onAffixNote,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
+  const [openSections, setOpenSections] = useState<Set<string>>(new Set());
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
+
+  const toggleSection = (key: string) => {
+    setOpenSections((prev) => {
+      const next = new Set(prev);
+      if (next.has(key)) next.delete(key);
+      else next.add(key);
+      return next;
+    });
+  };
 
   /** 深链/搜索定位聚焦时自动展开详情（同页点击不重挂载，需显式展开） */
   useEffect(() => {
@@ -248,47 +258,71 @@ export function WordCard({
             )}
 
             <section className="word-card-notes personal-note-block">
-              <h4>我的笔记</h4>
-              <NoteEditor
-                value={personalNote}
-                placeholder={MD_PLACEHOLDER}
-                onChange={onNote}
-                minRows={2}
-              />
+              {hasPersonalNote || openSections.has('note') ? (
+                <NoteEditor
+                  value={personalNote}
+                  placeholder={MD_PLACEHOLDER}
+                  onChange={onNote}
+                  minRows={2}
+                  autoEdit={!hasPersonalNote}
+                />
+              ) : (
+                <button type="button" className="empty-note-row" onClick={() => toggleSection('note')}>
+                  <span className="empty-note-plus">＋</span> 我的笔记
+                </button>
+              )}
             </section>
 
             <div className="word-card-extra">
               <section className="word-card-notes editable-note-block">
-                <h4>推理链</h4>
-                <NoteEditor
-                  value={mnemonicNote}
-                  placeholder={MD_PLACEHOLDER}
-                  onChange={onMnemonicNote}
-                  minRows={2}
-                />
+                {hasMnemonic || openSections.has('chain') ? (
+                  <NoteEditor
+                    value={mnemonicNote}
+                    placeholder={MD_PLACEHOLDER}
+                    onChange={onMnemonicNote}
+                    minRows={2}
+                    autoEdit={!hasMnemonic}
+                  />
+                ) : (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('chain')}>
+                    <span className="empty-note-plus">＋</span> 推理链
+                  </button>
+                )}
               </section>
 
               <section className="word-card-notes editable-note-block">
-                <h4>搭配</h4>
-                <NoteEditor
-                  value={collocationsNote}
-                  placeholder={MD_PLACEHOLDER}
-                  onChange={onCollocationsNote}
-                  minRows={2}
-                />
+                {hasCollocations || openSections.has('colloc') ? (
+                  <NoteEditor
+                    value={collocationsNote}
+                    placeholder={MD_PLACEHOLDER}
+                    onChange={onCollocationsNote}
+                    minRows={2}
+                    autoEdit={!hasCollocations}
+                  />
+                ) : (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('colloc')}>
+                    <span className="empty-note-plus">＋</span> 搭配
+                  </button>
+                )}
               </section>
 
               <section className="word-card-notes editable-note-block">
-                <h4>例句</h4>
-                <NoteEditor
-                  value={examplesNote.join('\n')}
-                  placeholder={MD_PLACEHOLDER}
-                  onChange={(text) => {
-                    const lines = text.split('\n').filter((line) => line.trim());
-                    onExamplesNote(lines);
-                  }}
-                  minRows={2}
-                />
+                {hasExamples || openSections.has('examples') ? (
+                  <NoteEditor
+                    value={examplesNote.join('\n')}
+                    placeholder={MD_PLACEHOLDER}
+                    onChange={(text) => {
+                      const lines = text.split('\n').filter((line) => line.trim());
+                      onExamplesNote(lines);
+                    }}
+                    minRows={2}
+                    autoEdit={!hasExamples}
+                  />
+                ) : (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('examples')}>
+                    <span className="empty-note-plus">＋</span> 例句
+                  </button>
+                )}
               </section>
 
               {word.etymology && (

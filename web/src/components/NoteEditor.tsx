@@ -8,10 +8,12 @@ interface NoteEditorProps {
   minRows?: number;
   /** 自定义只读预览（默认 markdown） */
   renderPreview?: (value: string) => ReactNode;
+  /** 初始直接进入编辑态（空内容展开编辑用） */
+  autoEdit?: boolean;
 }
 
-export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview }: NoteEditorProps) {
-  const [editing, setEditing] = useState(false);
+export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview, autoEdit = false }: NoteEditorProps) {
+  const [editing, setEditing] = useState(autoEdit);
   const areaRef = useRef<HTMLTextAreaElement>(null);
 
   useEffect(() => {

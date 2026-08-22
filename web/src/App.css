@@ -4811,3 +4811,31 @@ textarea {
   padding: 0 3px;
   vertical-align: baseline;
 }
+
+/* ══ 空内容折叠行（点击展开编辑） ══ */
+.empty-note-row {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+  padding: 7px 2px;
+  border: none;
+  border-bottom: 1px dashed var(--border-light);
+  background: none;
+  color: var(--text-light);
+  font-size: 0.82rem;
+  text-align: left;
+  cursor: pointer;
+  transition: color 0.12s;
+}
+
+.empty-note-row:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.empty-note-plus {
+  font-size: 0.78rem;
+  color: var(--accent);
+  font-weight: 600;
+}
