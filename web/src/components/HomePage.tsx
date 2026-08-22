@@ -129,7 +129,7 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
   const renderCard = (entry: CatalogEntry) => {
     const meta = getFamilyMeta(catalogEntryKey(entry));
     const roots = meta?.roots?.length ? meta.roots.join(' · ') : displayRoots(entry);
-    const semantic = meta?.semantic?.trim() || displaySemantic(entry);
+    const semantic = meta?.meaningZh?.trim() || meta?.semantic?.trim() || displaySemantic(entry);
     const videoId = getVideoId(catalogEntryKey(entry));
 
     return (

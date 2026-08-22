@@ -89,6 +89,8 @@ export function FamilyNotePage({
   const [metaEditOpen, setMetaEditOpen] = useState(false);
   const [metaRootsText, setMetaRootsText] = useState('');
   const [metaSemanticText, setMetaSemanticText] = useState('');
+  const [metaMeaningZhText, setMetaMeaningZhText] = useState('');
+  const [metaMeaningEnText, setMetaMeaningEnText] = useState('');
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const lastTopTapRef = useRef(0);
@@ -252,8 +254,14 @@ export function FamilyNotePage({
     [family],
   );
   const followMeaning = useMemo(
-    () => family?.meaningZh?.trim() || family?.semanticLabel?.trim() || family?.meaningEn?.trim() || '',
-    [family],
+    () =>
+      familyMeta?.meaningZh?.trim()
+      || familyMeta?.semantic?.trim()
+      || family?.meaningZh?.trim()
+      || family?.semanticLabel?.trim()
+      || family?.meaningEn?.trim()
+      || '',
+    [family, familyMeta],
   );
 
   const wordCardPropsFor = (w: WordEntry, index: number): WordCardProps => {
@@ -322,7 +330,9 @@ export function FamilyNotePage({
     );
   }
 
-  const semantic = familyMeta?.semantic?.trim() || displaySemantic(entry);
+  const semantic = familyMeta?.semantic?.trim()
+    || familyMeta?.meaningZh?.trim()
+    || displaySemantic(entry);
   const summary = familySummary(family, entry, {
     roots: effectiveRoots,
     semantic,
@@ -334,7 +344,9 @@ export function FamilyNotePage({
 
   const openMetaEditor = () => {
     setMetaRootsText((effectiveRoots ?? []).join('，'));
-    setMetaSemanticText(familyMeta?.semantic ?? displaySemantic(entry) ?? '');
+    setMetaSemanticText(familyMeta?.semantic ?? family?.semanticLabel ?? '');
+    setMetaMeaningZhText(familyMeta?.meaningZh ?? family?.meaningZh ?? '');
+    setMetaMeaningEnText(familyMeta?.meaningEn ?? family?.meaningEn ?? '');
     setMetaEditOpen(true);
   };
 
@@ -465,6 +477,26 @@ export function FamilyNotePage({
               />
             </div>
             <div className="family-meta-field">
+              <label htmlFor="meta-meaning-zh">中文释义</label>
+              <input
+                id="meta-meaning-zh"
+                className="family-meta-input"
+                value={metaMeaningZhText}
+                onChange={(e) => setMetaMeaningZhText(e.target.value)}
+                placeholder="折叠；重合；倍"
+              />
+            </div>
+            <div className="family-meta-field">
+              <label htmlFor="meta-meaning-en">英文含义</label>
+              <input
+                id="meta-meaning-en"
+                className="family-meta-input"
+                value={metaMeaningEnText}
+                onChange={(e) => setMetaMeaningEnText(e.target.value)}
+                placeholder="fold"
+              />
+            </div>
+            <div className="family-meta-field">
               <label htmlFor="meta-semantic">语义标签</label>
               <input
                 id="meta-semantic"
@@ -482,6 +514,8 @@ export function FamilyNotePage({
                   const roots = metaRootsText.split(/[，,、]/).map((s) => s.trim()).filter(Boolean);
                   const meta: FamilyMeta = {};
                   if (roots.length) meta.roots = roots;
+                  if (metaMeaningZhText.trim()) meta.meaningZh = metaMeaningZhText.trim();
+                  if (metaMeaningEnText.trim()) meta.meaningEn = metaMeaningEnText.trim();
                   if (metaSemanticText.trim()) meta.semantic = metaSemanticText.trim();
                   setFamilyMeta(fKey, meta);
                   setMetaEditOpen(false);

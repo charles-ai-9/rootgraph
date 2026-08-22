@@ -13,8 +13,12 @@ export interface WordFieldOverrides {
 export interface FamilyMeta {
   /** 词根变体（教材原写法，如 ['pens', '(s)pend', '(s)pon']）；缺省用数据默认 */
   roots?: string[];
-  /** 语义标签覆盖 */
+  /** 语义标签覆盖（semanticLabel） */
   semantic?: string;
+  /** 英文含义覆盖（meaningEn） */
+  meaningEn?: string;
+  /** 中文释义覆盖（meaningZh） */
+  meaningZh?: string;
 }
 
 interface NotesStore {
