@@ -170,8 +170,25 @@ export function WordCard({
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
 
-          {/* 顺序：正常单词 → 拆分高亮 → 音标/词性/释义 → 前缀/后缀（最右） */}
-          <span className="word-plain" title={`${word.word}（正常拼写）`}>{word.word}</span>
+          {/* 顺序：正常单词（点击朗读）→ 拆分高亮（点击复制）→ 音标/词性/释义 → 前缀/后缀（最右） */}
+          <span
+            className="word-plain"
+            title="点击朗读"
+            role="button"
+            tabIndex={0}
+            onClick={(e) => {
+              e.stopPropagation();
+              speakWord(word.word);
+            }}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.stopPropagation();
+                speakWord(word.word);
+              }
+            }}
+          >
+            {word.word}
+          </span>
 
           <button
             type="button"

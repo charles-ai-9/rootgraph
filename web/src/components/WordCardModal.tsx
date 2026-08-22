@@ -1,5 +1,6 @@
 import type { WordStatus } from '../types';
 import { haptic } from '../utils/haptics';
+import { speakWord } from '../utils/speech';
 import { WordCard, type WordCardProps } from './WordCard';
 
 interface WordCardModalProps {
@@ -21,6 +22,15 @@ export function WordCardModal({ wordCardProps, status, onSetStatus, onClose }: W
       >
         <header className="word-review-modal-head">
           <span className="word-review-modal-kind">复习</span>
+          <button
+            type="button"
+            className="word-review-speak"
+            onClick={() => speakWord(wordCardProps.word.word)}
+            title="朗读"
+            aria-label={`朗读 ${wordCardProps.word.word}`}
+          >
+            🔊 朗读
+          </button>
           <button type="button" className="affix-modal-close" onClick={onClose} aria-label="关闭">×</button>
         </header>
 

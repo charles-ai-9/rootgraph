@@ -4853,3 +4853,41 @@ textarea {
   color: var(--accent);
   font-weight: 600;
 }
+
+/* ══ 复习弹窗朗读按钮 ══ */
+.word-review-speak {
+  margin-left: auto;
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 7px 14px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--surface);
+  color: var(--accent);
+  font-size: 0.88rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: border-color 0.12s, background 0.12s;
+}
+
+.word-review-speak:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+/* 正常词点击朗读（大目标） */
+.word-plain {
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.word-plain:hover {
+  background: var(--accent-soft);
+}
+
+@media (hover: none) {
+  .word-review-speak {
+    padding: 10px 16px; /* 触控目标 ≥44px */
+  }
+}
