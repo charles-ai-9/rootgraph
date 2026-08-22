@@ -534,6 +534,13 @@ export function FamilyNotePage({
                 statusFor={(w) => getStatus(wordKey(entry.textbook, family.id, w))}
               />
 
+              {!showVariantNav && followMeaning && (
+                <DraggableFollowBar
+                  followRoots={followRoots}
+                  followMeaning={followMeaning}
+                />
+              )}
+
               {!showVariantNav && [...groups.entries()].map(([root, words]) => (
                 <section key={root} className="root-group">
                   <h2 className="root-group-title">{root}</h2>
