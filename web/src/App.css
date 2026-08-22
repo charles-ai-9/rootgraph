@@ -4338,3 +4338,97 @@ textarea {
     margin: 0 14px;
   }
 }
+
+/* ══ 词缀库页 & 弹窗 & 编辑控件 移动端适配 ══ */
+
+@media (max-width: 768px) {
+  .affix-admin {
+    padding: 16px 12px 60px;
+  }
+
+  .affix-admin-toolbar {
+    padding: 12px 14px;
+    gap: 8px;
+  }
+
+  .affix-admin-title {
+    font-size: 1.2rem;
+  }
+
+  .affix-kind-tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+    max-width: 100%;
+  }
+
+  .affix-kind-tab {
+    flex-shrink: 0;
+    padding: 8px 12px;
+  }
+
+  .affix-admin-search {
+    width: 100%;
+    font-size: 16px; /* 防 iOS 聚焦缩放 */
+  }
+
+  .affix-admin-table {
+    font-size: 0.78rem;
+  }
+
+  .affix-admin-table th,
+  .affix-admin-table td {
+    padding: 9px 8px; /* 触控目标 */
+  }
+
+  .affix-admin-table-xlsx .col-forms {
+    width: 32%;
+    min-width: 110px;
+  }
+
+  .affix-admin-forms {
+    font-size: 0.78rem;
+  }
+
+  /* 词缀条目弹窗：底部弹层全屏化 */
+  .affix-item-modal-compact {
+    width: 100%;
+    max-height: 92vh;
+    border-radius: 16px 16px 0 0;
+    overflow-y: auto;
+    padding-bottom: env(safe-area-inset-bottom);
+  }
+
+  /* 编辑控件字号（防 iOS 聚焦自动缩放） */
+  .family-meta-input,
+  .video-id-input {
+    font-size: 16px;
+  }
+
+  .family-meta-editor-actions button {
+    flex: 1;
+    padding: 10px 8px;
+  }
+}
+
+@media (max-width: 480px) {
+  .affix-admin-search + .affix-admin-btn {
+    width: 100%;
+  }
+}
+
+/* 词缀库浮层 Tab 移动端横向滚动 */
+@media (max-width: 768px) {
+  .affix-lib-overlay-tabs {
+    overflow-x: auto;
+    flex-wrap: nowrap;
+  }
+
+  .affix-lib-overlay-tab {
+    flex-shrink: 0;
+    padding: 8px 14px;
+  }
+
+  .affix-ref-picker {
+    max-height: 40vh;
+  }
+}
