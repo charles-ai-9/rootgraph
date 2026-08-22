@@ -162,20 +162,8 @@ export function WordCard({
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
 
-          <div className="affix-open-group">
-            <AffixKindButton
-              kind="prefix"
-              note={affixNotes.prefix}
-              word={word}
-              onOpen={() => setPrefixOpen(true)}
-            />
-            <AffixKindButton
-              kind="suffix"
-              note={affixNotes.suffix}
-              word={word}
-              onOpen={() => setSuffixOpen(true)}
-            />
-          </div>
+          {/* 顺序：正常单词 → 拆分高亮 → 音标/词性/释义 → 前缀/后缀（最右） */}
+          <span className="word-plain" title={`${word.word}（正常拼写）`}>{word.word}</span>
 
           <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
             <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
@@ -214,8 +202,20 @@ export function WordCard({
             <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{word.definition}</span>
           )}
 
-          {/* 右侧：正常拼写（阅读舒适），左侧拆分高亮（记忆用） */}
-          <span className="word-plain" title={`${word.word}（正常拼写）`}>{word.word}</span>
+          <div className="affix-open-group">
+            <AffixKindButton
+              kind="prefix"
+              note={affixNotes.prefix}
+              word={word}
+              onOpen={() => setPrefixOpen(true)}
+            />
+            <AffixKindButton
+              kind="suffix"
+              note={affixNotes.suffix}
+              word={word}
+              onOpen={() => setSuffixOpen(true)}
+            />
+          </div>
 
           {hasAnyNote && (
             <span className="word-has-note-dot" title="有笔记/词缀记录">●</span>

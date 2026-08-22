@@ -1491,6 +1491,7 @@ textarea {
   display: flex;
   align-items: center;
   gap: 4px;
+  margin-left: auto;
 }
 
 .word-name {
@@ -4590,7 +4591,6 @@ textarea {
 
 /* ══ 词卡：右侧正常词 + 词根含义行 + 醒目词体 ══ */
 .word-plain {
-  margin-left: auto;
   font-size: 1.22rem;
   font-weight: 800;
   letter-spacing: -0.01em;
@@ -4663,4 +4663,38 @@ textarea {
   font-variant-numeric: tabular-nums;
   color: var(--text);
   font-weight: 600;
+}
+
+/* ══ 滑动悬浮：当前词的词根释义条 ══ */
+.variant-root-follow {
+  position: sticky;
+  top: 116px;
+  z-index: 7;
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  padding: 8px 14px;
+  background: rgba(255, 255, 255, 0.96);
+  backdrop-filter: blur(6px);
+  border-bottom: 1px solid var(--border-light);
+  font-size: 0.85rem;
+  color: var(--text);
+}
+
+.variant-root-follow-word {
+  font-weight: 700;
+  color: var(--accent);
+}
+
+.variant-root-follow-meaning {
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 768px) {
+  .variant-root-follow {
+    top: 158px; /* 移动端顶栏两行 + 变体导航更高 */
+  }
 }
