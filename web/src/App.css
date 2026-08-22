@@ -1230,6 +1230,18 @@ textarea {
 .word-card.is-highlighted {
   background: var(--accent-soft);
   border-bottom-color: #dbeafe;
+  animation: rootgraph-focus-pulse 1.6s ease-out;
+}
+
+@keyframes rootgraph-focus-pulse {
+  0% {
+    background: #dbeafe;
+    box-shadow: 0 0 0 3px rgba(147, 197, 253, 0.35);
+  }
+  100% {
+    background: var(--accent-soft);
+    box-shadow: none;
+  }
 }
 
 .word-card-head {

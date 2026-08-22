@@ -203,12 +203,22 @@ export function FamilyNotePage({
 
   useEffect(() => {
     if (!family || !focusedWord) return;
-    window.requestAnimationFrame(() => {
+    // 多帧重试：Tab 切换/词卡展开后 DOM 可能尚未就绪，最多等 6 帧
+    let tries = 0;
+    const tryScroll = () => {
       const el =
         document.getElementById(`word-${focusedWord}`)
         ?? document.querySelector(`[id^="word-${CSS.escape(focusedWord)}-"]`);
-      el?.scrollIntoView({ behavior: 'smooth', block: 'start' });
-    });
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
+      if (tries < 6) {
+        tries += 1;
+        window.requestAnimationFrame(tryScroll);
+      }
+    };
+    tryScroll();
   }, [family, focusedWord, activePanel]);
 
   /** 路由深链变化时同步本地聚焦词 */
@@ -253,7 +263,7 @@ export function FamilyNotePage({
     <div className="word-list">
       {words.map((w, index) => (
         <WordCard
-          key={`${panelKey}-${w.word}-${index}`}
+          key={`${panelKey}-${w.word}-${index}${focusedWord === w.word ? '-focus' : ''}`}
           {...wordCardPropsFor(w, index)}
           defaultCollapsed={focusedWord !== w.word}
           highlighted={focusedWord === w.word}

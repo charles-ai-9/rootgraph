@@ -120,7 +120,22 @@ export function WordCard({
   };
 
   const jumpToWord = (target: string) => {
-    document.getElementById(`word-${target}`)?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    // 多帧重试 + 居中定位（弹窗关闭后目标卡可能尚未就绪）
+    let tries = 0;
+    const tryScroll = () => {
+      const el =
+        document.getElementById(`word-${target}`)
+        ?? document.querySelector(`[id^="word-${CSS.escape(target)}-"]`);
+      if (el) {
+        el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        return;
+      }
+      if (tries < 6) {
+        tries += 1;
+        window.requestAnimationFrame(tryScroll);
+      }
+    };
+    tryScroll();
   };
 
   const variant = rootAnalysis.primary?.isVariant ? rootAnalysis.primary : null;
