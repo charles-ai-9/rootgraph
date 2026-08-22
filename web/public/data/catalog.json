@@ -186,8 +186,8 @@
     "chapterOrder": 11,
     "file": "ply.json",
     "id": "ply",
-    "meaningEn": "",
-    "meaningZh": "",
+    "meaningEn": "fold",
+    "meaningZh": "折叠；重合；倍",
     "roots": [
       "ply",
       "ploy",
@@ -198,9 +198,9 @@
       "flex",
       "play"
     ],
-    "semanticLabel": "ply/ploy/ploit",
+    "semanticLabel": "fold 折叠；重合；倍",
     "source": "textbook-1",
-    "titleZh": "ply/ploy/ploit",
+    "titleZh": "折叠；重合；倍",
     "wordCount": 92,
     "textbook": "textbook-1"
   },

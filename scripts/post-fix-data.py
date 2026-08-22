@@ -7,6 +7,7 @@
 3. 解析噪声词改名：intact2→intact、age-0ld→age-old、c0-opt→co-opt
 4. 恢复手动创建的族（scripts/manual-data/，如 textbook-8/s-pend）
 5. 清洗词条显式 null 字段（docx 旧解析产物，前端 .trim() 等会崩）
+6. 补全族元数据（解析器提取不到的中文释义，如 ply = fold 折叠；重合；倍）
 """
 from __future__ import annotations
 
@@ -199,6 +200,47 @@ def remove_null_fields() -> None:
         print(f"  post-fix: 清洗 {removed} 个 null 字段")
 
 
+
+# (教材, 族id) → 需要补全的元数据（重导后解析器可能提取为空，这里补全）
+FAMILY_METADATA: dict[tuple[str, str], dict[str, str]] = {
+    ("textbook-1", "ply"): {
+        "titleZh": "折叠；重合；倍",
+        "semanticLabel": "fold 折叠；重合；倍",
+        "meaningEn": "fold",
+        "meaningZh": "折叠；重合；倍",
+    },
+}
+
+
+def ensure_family_metadata() -> None:
+    """补全族级元数据（中文释义等），重导后自动重放（幂等）"""
+    for (tb, fid), meta in FAMILY_METADATA.items():
+        fam_path = ROOT / "data" / tb / f"{fid}.json"
+        idx_path = ROOT / "data" / tb / "index.json"
+        changed = False
+        if fam_path.exists():
+            fam = json.loads(fam_path.read_text(encoding="utf-8"))
+            for k, v in meta.items():
+                if fam.get(k) != v:
+                    fam[k] = v
+                    changed = True
+            if changed:
+                fam_path.write_text(json.dumps(fam, ensure_ascii=False, indent=2), encoding="utf-8")
+        if idx_path.exists():
+            idx = json.loads(idx_path.read_text(encoding="utf-8"))
+            for e in idx:
+                if e.get("id") == fid:
+                    for k, v in meta.items():
+                        if e.get(k) != v:
+                            e[k] = v
+                            changed = True
+            if changed:
+                idx_path.write_text(json.dumps(idx, ensure_ascii=False, indent=2), encoding="utf-8")
+        if changed:
+            print(f"  post-fix: 补全元数据 {tb}/{fid} → {meta.get('meaningZh', '')}")
+
+
+
 def split_trib_from_forc() -> None:
     """trib 词根族拆分：恢复 trib 族后，把 forc 族中的 trib 词移除（重导后重新出现则再移）"""
     src = MANUAL_DATA / "textbook-1-trib.json"
@@ -222,6 +264,7 @@ def main() -> None:
     rename_noise_words()
     restore_manual_families()
     split_trib_from_forc()
+    ensure_family_metadata()
     remove_null_fields()
     print("post-fix 完成")
 
