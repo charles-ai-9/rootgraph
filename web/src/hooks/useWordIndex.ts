@@ -10,6 +10,7 @@ export interface IndexedWord {
   pos?: string;
   definition?: string;
   mnemonic?: string;
+  frequency?: number;
 }
 
 let cache: IndexedWord[] | null = null;
@@ -32,6 +33,7 @@ export async function loadWordIndex(): Promise<IndexedWord[]> {
           pos?: string;
           definition?: string;
           mnemonic?: string;
+          frequency?: number;
         }[]) {
           rows.push({
             word: w.word,
@@ -42,6 +44,7 @@ export async function loadWordIndex(): Promise<IndexedWord[]> {
             pos: w.pos,
             definition: w.definition,
             mnemonic: w.mnemonic,
+            frequency: w.frequency,
           });
         }
       }),
@@ -82,6 +85,7 @@ export function searchWords(
   const q = query.trim().toLowerCase();
   if (!q) return [];
 
+  // 相关性排序：完全匹配 > 词首匹配 > 词内包含 > 仅释义/助记命中；同分按词频降序
   return index
     .filter((row) => {
       if (textbook && row.textbook !== textbook) return false;
@@ -91,7 +95,23 @@ export function searchWords(
         .toLowerCase();
       return row.word.toLowerCase().includes(q) || hay.includes(q);
     })
-    .slice(0, limit);
+    .map((row) => {
+      const w = row.word.toLowerCase();
+      let score: number;
+      if (w === q) score = 100;
+      else if (w.startsWith(q)) score = 80;
+      else if (w.includes(q)) score = 60;
+      else score = 40;
+      return { row, score };
+    })
+    .sort(
+      (a, b) =>
+        b.score - a.score
+        || (b.row.frequency ?? 0) - (a.row.frequency ?? 0)
+        || a.row.word.localeCompare(b.row.word),
+    )
+    .slice(0, limit)
+    .map((x) => x.row);
 }
 
 export type AffixScope = 'family' | 'textbook' | 'all';
