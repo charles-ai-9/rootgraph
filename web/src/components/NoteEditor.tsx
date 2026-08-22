@@ -18,6 +18,15 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
     if (editing) areaRef.current?.focus();
   }, [editing]);
 
+  // 编辑框高度自适应内容：进入编辑时与显示内容等高，输入时自动长高
+  useEffect(() => {
+    if (!editing) return;
+    const ta = areaRef.current;
+    if (!ta) return;
+    ta.style.height = 'auto';
+    ta.style.height = `${ta.scrollHeight}px`;
+  }, [editing, value]);
+
   const finish = () => setEditing(false);
 
   if (editing) {
