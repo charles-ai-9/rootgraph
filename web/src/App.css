@@ -1739,6 +1739,10 @@ textarea {
 
 .note-input-block {
   width: 100%;
+  min-height: 60px;
+  max-height: 70vh; /* 内容超长时限制高度，内部滚动 */
+  overflow-y: auto;
+  resize: vertical; /* 仍可手动拖大 */
 }
 
 .note-markdown {
