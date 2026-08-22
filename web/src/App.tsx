@@ -86,14 +86,6 @@ function App() {
       .catch(console.error);
   }, [migrateKeys]);
 
-  if (booting) {
-    return (
-      <div className="page-loading">
-        <p>加载中…</p>
-      </div>
-    );
-  }
-
   const [updateAvailable, setUpdateAvailable] = useState(false);
   const [offline, setOffline] = useState(false);
 
@@ -125,6 +117,14 @@ function App() {
       window.removeEventListener('online', onOnline);
     };
   }, []);
+
+  if (booting) {
+    return (
+      <div className="page-loading">
+        <p>加载中…</p>
+      </div>
+    );
+  }
 
   let page: React.ReactNode;
   if (view.kind === 'affix-library') {
