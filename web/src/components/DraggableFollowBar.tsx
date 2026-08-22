@@ -3,6 +3,8 @@ import { useRef, useState } from 'react';
 interface DraggableFollowBarProps {
   followRoots: string;
   followMeaning: string;
+  /** 临时浮层（如搜索列表）打开时隐藏悬浮条 */
+  hidden?: boolean;
 }
 
 const STORAGE_KEY = 'rootgraph-follow-bar-top';
@@ -26,7 +28,7 @@ function loadSavedTop(): number | null {
 }
 
 /** 可拖动的悬浮词根条（鼠标/触摸通用）：按住上下拖动自由定位（位置持久化），↺ 恢复默认（sticky） */
-export function DraggableFollowBar({ followRoots, followMeaning }: DraggableFollowBarProps) {
+export function DraggableFollowBar({ followRoots, followMeaning, hidden = false }: DraggableFollowBarProps) {
   const ref = useRef<HTMLDivElement>(null);
   const [top, setTop] = useState<number | null>(loadSavedTop);
   const topRef = useRef<number | null>(top);
@@ -79,7 +81,7 @@ export function DraggableFollowBar({ followRoots, followMeaning }: DraggableFoll
   return (
     <div
       ref={ref}
-      className={`variant-root-follow ${top != null ? 'is-dragged' : ''}`}
+      className={`variant-root-follow ${top != null ? 'is-dragged' : ''} ${hidden ? 'is-hidden' : ''}`}
       style={top != null ? { top } : undefined}
       onPointerDown={onPointerDown}
       onPointerMove={onPointerMove}

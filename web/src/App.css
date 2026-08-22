@@ -635,6 +635,7 @@ textarea {
   top: calc(100% + 6px);
   left: 0;
   right: 0;
+  z-index: 50; /* 临时浮层，永远在悬浮条之上 */
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
@@ -4663,12 +4664,21 @@ textarea {
   flex-wrap: wrap;
   gap: 4px 10px;
   padding: 9px 14px 10px;
-  background: rgba(255, 255, 255, 0.97);
-  backdrop-filter: blur(6px);
+  background: rgba(255, 255, 255, 0.78); /* 半透明毛玻璃，不遮挡下方内容 */
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   border-bottom: 1px solid var(--border-light);
   box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
   font-size: 0.88rem;
   color: var(--text);
+}
+
+/* 搜索展开时隐藏悬浮条（让路临时浮层） */
+.variant-root-follow.is-hidden {
+  opacity: 0;
+  visibility: hidden;
+  pointer-events: none;
+  transition: opacity 0.15s ease, visibility 0.15s ease;
 }
 
 .variant-root-follow .word-root-meaning-label {

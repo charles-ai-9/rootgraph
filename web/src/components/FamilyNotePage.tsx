@@ -572,6 +572,7 @@ export function FamilyNotePage({
                 <DraggableFollowBar
                   followRoots={followRoots}
                   followMeaning={followMeaning}
+                  hidden={showSearch && Boolean(searchQuery.trim())}
                 />
               )}
 
@@ -590,6 +591,7 @@ export function FamilyNotePage({
                 <DraggableFollowBar
                   followRoots={followRoots}
                   followMeaning={followMeaning}
+                  hidden={showSearch && Boolean(searchQuery.trim())}
                 />
               )}
               <header className="variant-panel-head">
