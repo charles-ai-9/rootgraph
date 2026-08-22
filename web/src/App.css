@@ -1248,8 +1248,8 @@ textarea {
   display: flex;
   align-items: center;
   flex-wrap: wrap;
-  gap: 8px 12px;
-  padding: 11px 14px;
+  gap: 6px 10px;
+  padding: 12px 14px;
   cursor: pointer;
   user-select: none;
 }
@@ -4605,12 +4605,12 @@ textarea {
 
 .word-root-meaning {
   margin: 0;
-  padding: 6px 14px;
-  font-size: 0.82rem;
-  color: var(--accent);
+  padding: 8px 14px;
+  font-size: 0.84rem;
+  color: var(--text);
   background: var(--accent-soft);
   border-bottom: 1px solid var(--border-light);
-  line-height: 1.6;
+  line-height: 1.7;
 }
 
 .word-root-meaning-label {
@@ -4672,29 +4672,45 @@ textarea {
   z-index: 7;
   display: flex;
   align-items: baseline;
-  gap: 8px;
-  padding: 8px 14px;
-  background: rgba(255, 255, 255, 0.96);
+  flex-wrap: wrap;
+  gap: 4px 10px;
+  padding: 9px 14px 10px;
+  background: rgba(255, 255, 255, 0.97);
   backdrop-filter: blur(6px);
   border-bottom: 1px solid var(--border-light);
-  font-size: 0.85rem;
+  box-shadow: 0 2px 8px rgba(15, 23, 42, 0.04);
+  font-size: 0.88rem;
   color: var(--text);
 }
 
-.variant-root-follow-word {
+.variant-root-follow .word-root-meaning-label {
+  align-self: center;
+}
+
+.variant-root-follow-roots {
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
   font-weight: 700;
+  font-size: 0.92rem;
   color: var(--accent);
+  letter-spacing: -0.01em;
+}
+
+.variant-root-follow-eq {
+  color: var(--text-light);
+  font-weight: 600;
 }
 
 .variant-root-follow-meaning {
-  color: var(--text-muted);
-  overflow: hidden;
-  text-overflow: ellipsis;
-  white-space: nowrap;
+  color: var(--text);
+  font-weight: 600;
+  flex: 1;
+  min-width: 120px;
+  line-height: 1.6;
 }
 
 @media (max-width: 768px) {
   .variant-root-follow {
     top: 158px; /* 移动端顶栏两行 + 变体导航更高 */
+    padding: 8px 12px 9px;
   }
 }

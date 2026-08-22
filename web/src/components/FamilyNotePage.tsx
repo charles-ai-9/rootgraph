@@ -76,8 +76,6 @@ export function FamilyNotePage({
   const lastFocusWord = useRef<string | undefined>(undefined);
   /** 当前聚焦词（路由深链 ?word= 或本页搜索点击），驱动展开/高亮/锚定 */
   const [focusedWord, setFocusedWord] = useState<string | undefined>(focusWord);
-  const [viewportWord, setViewportWord] = useState<string | null>(null);
-  const viewportRafRef = useRef<number | null>(null);
 
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
@@ -240,33 +238,6 @@ export function FamilyNotePage({
     setFocusedWord(focusWord);
   }, [focusWord]);
 
-  /** 滑动列表时检测视口内第一个词卡，用于悬浮显示词根释义 */
-  useEffect(() => {
-    const onScroll = () => {
-      if (viewportRafRef.current != null) return;
-      viewportRafRef.current = window.requestAnimationFrame(() => {
-        viewportRafRef.current = null;
-        const cards = document.querySelectorAll('.root-group .word-card');
-        const threshold = showVariantNav ? 175 : 130;
-        let found: string | null = null;
-        for (const card of cards) {
-          const rect = card.getBoundingClientRect();
-          if (rect.bottom > threshold && rect.top < window.innerHeight * 0.7) {
-            found = card.id.replace(/^word-/, '').replace(/-\d+$/, '');
-            break;
-          }
-        }
-        setViewportWord(found);
-      });
-    };
-    onScroll();
-    window.addEventListener('scroll', onScroll, { passive: true });
-    return () => {
-      window.removeEventListener('scroll', onScroll);
-      if (viewportRafRef.current != null) window.cancelAnimationFrame(viewportRafRef.current);
-    };
-  }, [showVariantNav, activePanel, family]);
-
   const handlePanelChange = (panel: string) => {
     setActivePanel(panel);
     window.requestAnimationFrame(() => {
@@ -274,6 +245,7 @@ export function FamilyNotePage({
     });
   };
 
+  /** 词根链 + 完整含义（词卡展开区用） */
   const familyRootMeaning = useMemo(() => {
     if (!family) return '';
     return [
@@ -281,6 +253,16 @@ export function FamilyNotePage({
       [family.meaningEn, family.meaningZh].filter(Boolean).join(' · '),
     ].filter(Boolean).join(' = ');
   }, [family]);
+
+  /** 悬浮条含义：中文语义优先（如 val → 强壮），无中文才用英文 */
+  const followRoots = useMemo(
+    () => (family ? family.roots.map((r) => `-${r.replace(/^-+/, '')}`).join(' · ') : ''),
+    [family],
+  );
+  const followMeaning = useMemo(
+    () => family?.meaningZh?.trim() || family?.semanticLabel?.trim() || family?.meaningEn?.trim() || '',
+    [family],
+  );
 
   const wordCardPropsFor = (w: WordEntry, index: number): WordCardProps => {
     const wKey = wordKey(entry.textbook, family!.id, w.word);
@@ -572,11 +554,12 @@ export function FamilyNotePage({
 
           {showVariantNav && activePanel !== OVERVIEW_PANEL && (
             <section key={activePanel} className="root-group root-group-panel">
-              {viewportWord && familyRootMeaning && (
+              {followMeaning && (
                 <div className="variant-root-follow">
                   <span className="word-root-meaning-label">词根</span>
-                  <span className="variant-root-follow-word">{viewportWord}</span>
-                  <span className="variant-root-follow-meaning">{familyRootMeaning}</span>
+                  <span className="variant-root-follow-roots">{followRoots}</span>
+                  <span className="variant-root-follow-eq">=</span>
+                  <span className="variant-root-follow-meaning">{followMeaning}</span>
                 </div>
               )}
               <header className="variant-panel-head">
