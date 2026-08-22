@@ -89,6 +89,7 @@ export function WordCard({
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   const [openSections, setOpenSections] = useState<Set<string>>(new Set());
+  const [showAddRow, setShowAddRow] = useState(false);
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -121,6 +122,7 @@ export function WordCard({
       || word.etymology,
   );
   const hasAnyNote = hasPersonalNote || hasExtra || hasAffixNote;
+  const hasAnyEmpty = !hasPersonalNote || !hasMnemonic || !hasCollocations || !hasExamples;
 
   const handleCopyWord = async (e: React.MouseEvent) => {
     e.stopPropagation();
@@ -274,57 +276,47 @@ export function WordCard({
               </div>
             )}
 
-            <section className="word-card-notes personal-note-block">
-              {hasPersonalNote || openSections.has('note') ? (
+            {/* 有啥显示啥：只有有内容的区块才展示；空白统一收敛到「＋ 添加」入口 */}
+            {hasPersonalNote && (
+              <section className="word-card-notes personal-note-block">
+                <h4>我的笔记</h4>
                 <NoteEditor
                   value={personalNote}
                   placeholder={MD_PLACEHOLDER}
                   onChange={onNote}
                   minRows={2}
-                  autoEdit={!hasPersonalNote}
                 />
-              ) : (
-                <button type="button" className="empty-note-row" onClick={() => toggleSection('note')}>
-                  <span className="empty-note-plus">＋</span> 我的笔记
-                </button>
-              )}
-            </section>
+              </section>
+            )}
 
             <div className="word-card-extra">
-              <section className="word-card-notes editable-note-block">
-                {hasMnemonic || openSections.has('chain') ? (
+              {hasMnemonic && (
+                <section className="word-card-notes editable-note-block">
+                  <h4>推理链</h4>
                   <NoteEditor
                     value={mnemonicNote}
                     placeholder={MD_PLACEHOLDER}
                     onChange={onMnemonicNote}
                     minRows={2}
-                    autoEdit={!hasMnemonic}
                   />
-                ) : (
-                  <button type="button" className="empty-note-row" onClick={() => toggleSection('chain')}>
-                    <span className="empty-note-plus">＋</span> 推理链
-                  </button>
-                )}
-              </section>
+                </section>
+              )}
 
-              <section className="word-card-notes editable-note-block">
-                {hasCollocations || openSections.has('colloc') ? (
+              {hasCollocations && (
+                <section className="word-card-notes editable-note-block">
+                  <h4>搭配</h4>
                   <NoteEditor
                     value={collocationsNote}
                     placeholder={MD_PLACEHOLDER}
                     onChange={onCollocationsNote}
                     minRows={2}
-                    autoEdit={!hasCollocations}
                   />
-                ) : (
-                  <button type="button" className="empty-note-row" onClick={() => toggleSection('colloc')}>
-                    <span className="empty-note-plus">＋</span> 搭配
-                  </button>
-                )}
-              </section>
+                </section>
+              )}
 
-              <section className="word-card-notes editable-note-block">
-                {hasExamples || openSections.has('examples') ? (
+              {hasExamples && (
+                <section className="word-card-notes editable-note-block">
+                  <h4>例句</h4>
                   <NoteEditor
                     value={examplesNote.join('\n')}
                     placeholder={MD_PLACEHOLDER}
@@ -333,14 +325,9 @@ export function WordCard({
                       onExamplesNote(lines);
                     }}
                     minRows={2}
-                    autoEdit={!hasExamples}
                   />
-                ) : (
-                  <button type="button" className="empty-note-row" onClick={() => toggleSection('examples')}>
-                    <span className="empty-note-plus">＋</span> 例句
-                  </button>
-                )}
-              </section>
+                </section>
+              )}
 
               {word.etymology && (
                 <section>
@@ -349,6 +336,73 @@ export function WordCard({
                 </section>
               )}
             </div>
+
+            {/* 空白区块：统一入口，点击展开可添加项 */}
+            {hasAnyEmpty && !showAddRow && (
+              <button type="button" className="word-add-btn" onClick={() => setShowAddRow(true)}>
+                ＋ 添加
+              </button>
+            )}
+
+            {hasAnyEmpty && showAddRow && (
+              <div className="word-card-add-row">
+                {(!hasPersonalNote && !openSections.has('note')) && (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('note')}>
+                    <span className="empty-note-plus">＋</span> 我的笔记
+                  </button>
+                )}
+                {(!hasMnemonic && !openSections.has('chain')) && (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('chain')}>
+                    <span className="empty-note-plus">＋</span> 推理链
+                  </button>
+                )}
+                {(!hasCollocations && !openSections.has('colloc')) && (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('colloc')}>
+                    <span className="empty-note-plus">＋</span> 搭配
+                  </button>
+                )}
+                {(!hasExamples && !openSections.has('examples')) && (
+                  <button type="button" className="empty-note-row" onClick={() => toggleSection('examples')}>
+                    <span className="empty-note-plus">＋</span> 例句
+                  </button>
+                )}
+              </div>
+            )}
+
+            {/* 编辑中的空白区块（从 ＋ 行进入） */}
+            {openSections.has('note') && !hasPersonalNote && (
+              <section className="word-card-notes personal-note-block">
+                <h4>我的笔记</h4>
+                <NoteEditor value={personalNote} placeholder={MD_PLACEHOLDER} onChange={onNote} minRows={2} autoEdit />
+              </section>
+            )}
+            {openSections.has('chain') && !hasMnemonic && (
+              <section className="word-card-notes editable-note-block">
+                <h4>推理链</h4>
+                <NoteEditor value={mnemonicNote} placeholder={MD_PLACEHOLDER} onChange={onMnemonicNote} minRows={2} autoEdit />
+              </section>
+            )}
+            {openSections.has('colloc') && !hasCollocations && (
+              <section className="word-card-notes editable-note-block">
+                <h4>搭配</h4>
+                <NoteEditor value={collocationsNote} placeholder={MD_PLACEHOLDER} onChange={onCollocationsNote} minRows={2} autoEdit />
+              </section>
+            )}
+            {openSections.has('examples') && !hasExamples && (
+              <section className="word-card-notes editable-note-block">
+                <h4>例句</h4>
+                <NoteEditor
+                  value=""
+                  placeholder={MD_PLACEHOLDER}
+                  onChange={(text) => {
+                    const lines = text.split('\n').filter((line) => line.trim());
+                    onExamplesNote(lines);
+                  }}
+                  minRows={2}
+                  autoEdit
+                />
+              </section>
+            )}
           </div>
         )}
       </article>

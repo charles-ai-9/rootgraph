@@ -4891,3 +4891,48 @@ textarea {
     padding: 10px 16px; /* 触控目标 ≥44px */
   }
 }
+
+/* ══ 词卡「＋ 添加」统一入口 ══ */
+.word-add-btn {
+  display: block;
+  margin: 4px 14px 12px;
+  padding: 7px 10px;
+  border: 1px dashed var(--border);
+  border-radius: 6px;
+  background: none;
+  color: var(--text-light);
+  font-size: 0.8rem;
+  cursor: pointer;
+  transition: color 0.12s, border-color 0.12s, background 0.12s;
+}
+
+.word-add-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.word-card-add-row {
+  padding: 2px 14px 6px;
+}
+
+/* ══ 移动端：弹窗关闭按钮移到左侧（左撇子友好） ══ */
+@media (max-width: 768px) {
+  .affix-modal-header,
+  .affix-modal-header.compact,
+  .word-review-modal-head,
+  .affix-lib-overlay-head,
+  .affix-item-modal-head {
+    flex-direction: row-reverse;
+    justify-content: flex-start;
+  }
+
+  .affix-modal-header-actions {
+    margin-left: 0;
+    margin-right: auto;
+  }
+
+  .affix-modal-close {
+    order: -1;
+  }
+}
