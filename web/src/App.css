@@ -4812,6 +4812,20 @@ textarea {
   vertical-align: baseline;
 }
 
+/* 触屏设备：加大点击目标（≥44px 触控标准），视觉保持小巧 */
+@media (hover: none) {
+  .word-speak-btn {
+    padding: 12px 10px;
+    margin: -9px 0;
+    font-size: 1.05rem;
+  }
+
+  .word-speak-btn.inline {
+    padding: 10px 8px;
+    margin: -8px -2px -8px 0;
+  }
+}
+
 /* ══ 空内容折叠行（点击展开编辑） ══ */
 .empty-note-row {
   display: flex;
