@@ -3,6 +3,7 @@ import type { CatalogEntry } from '../types';
 import type { IndexedWord } from '../hooks/useWordIndex';
 import { loadWordIndex, searchWords } from '../hooks/useWordIndex';
 import { textbookLabel } from '../catalog';
+import { speakWord } from '../utils/speech';
 
 interface WordSearchResultsProps {
   query: string;
@@ -67,6 +68,18 @@ export function WordSearchResults({
               onClick={() => entry && onOpenWord(entry, hit.word)}
             >
               <span className="word-search-hit-word">{hit.word}</span>
+              <button
+                type="button"
+                className="word-speak-btn inline"
+                title="朗读"
+                aria-label={`朗读 ${hit.word}`}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  speakWord(hit.word);
+                }}
+              >
+                🔊
+              </button>
               {hit.phonetic && <span className="word-search-hit-phonetic">/{hit.phonetic}/</span>}
               <span className="word-search-hit-meta">
                 {entry ? `${textbookLabel(hit.textbook)} · ${entry.roots.join('/')}` : textbookLabel(hit.textbook)}

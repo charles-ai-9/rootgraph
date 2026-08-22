@@ -20,6 +20,7 @@ import {
 } from '../utils/affixNote';
 import { parseAffixHints } from '../utils/affixHint';
 import { normalizeAffixForm, parseAffixFormsLine } from '../utils/affixFormDisplay';
+import { speakWord } from '../utils/speech';
 import { AffixGroupFields } from './AffixGroupFields';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import { NoteEditor } from './NoteEditor';
@@ -455,6 +456,18 @@ export function AffixModal({
                         <span key={`${m.textbook}-${m.familyId}-${m.word}`}>
                           {i > 0 && '、'}
                           <button type="button" className={`affix-chalk-word-link ${m.word === word.word ? 'is-current' : ''}`} onClick={() => { onJumpWord(m.word); onClose(); }}>{m.word}</button>
+                          <button
+                            type="button"
+                            className="word-speak-btn inline"
+                            title="朗读"
+                            aria-label={`朗读 ${m.word}`}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              speakWord(m.word);
+                            }}
+                          >
+                            🔊
+                          </button>
                         </span>
                       ))}
                     </p>
@@ -467,6 +480,18 @@ export function AffixModal({
                           <span key={`${m.textbook}-${m.familyId}-${m.word}`}>
                             {i > 0 && '、'}
                             <button type="button" className={`affix-chalk-word-link ${m.word === word.word ? 'is-current' : ''}`} onClick={() => { onJumpWord(m.word); onClose(); }}>{m.word}</button>
+                          <button
+                            type="button"
+                            className="word-speak-btn inline"
+                            title="朗读"
+                            aria-label={`朗读 ${m.word}`}
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              speakWord(m.word);
+                            }}
+                          >
+                            🔊
+                          </button>
                           </span>
                         ))}
                       </p>

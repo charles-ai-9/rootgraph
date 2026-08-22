@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordAffixNotes, WordEntry } from '../types';
 import { copyText } from '../utils/clipboard';
 import { haptic } from '../utils/haptics';
+import { speakWord } from '../utils/speech';
 import { analyzeWordRoots, rootsForWord } from '../utils/rootHighlight';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { AffixModal, affixButtonHasDot, affixButtonLabel } from './AffixModal';
@@ -161,6 +162,19 @@ export function WordCard({
 
           {/* 顺序：正常单词 → 拆分高亮 → 音标/词性/释义 → 前缀/后缀（最右） */}
           <span className="word-plain" title={`${word.word}（正常拼写）`}>{word.word}</span>
+
+          <button
+            type="button"
+            className="word-speak-btn"
+            title="朗读"
+            aria-label={`朗读 ${word.word}`}
+            onClick={(e) => {
+              e.stopPropagation();
+              speakWord(word.word);
+            }}
+          >
+            🔊
+          </button>
 
           <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
             <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />

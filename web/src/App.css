@@ -4782,3 +4782,32 @@ textarea {
     align-self: center;
   }
 }
+
+/* ══ 朗读按钮 ══ */
+.word-speak-btn {
+  flex-shrink: 0;
+  border: none;
+  background: none;
+  padding: 2px 4px;
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+  border-radius: 4px;
+  opacity: 0.75;
+  transition: opacity 0.12s, transform 0.12s;
+}
+
+.word-speak-btn:hover {
+  opacity: 1;
+  transform: scale(1.12);
+}
+
+.word-speak-btn:active {
+  transform: scale(0.94);
+}
+
+.word-speak-btn.inline {
+  font-size: 0.8rem;
+  padding: 0 3px;
+  vertical-align: baseline;
+}
