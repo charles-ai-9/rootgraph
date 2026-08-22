@@ -2,7 +2,7 @@ import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { AffixItem, AffixKind, AffixNoteData, CatalogEntry, RootFamily, WordAffixKind, WordEntry, WordAffixNotes } from '../types';
 import { cleanRoots, displaySemantic, displayRoots, normalizeRootForm, wordKey } from '../types';
 import { familyStorageKey, textbookLabel } from '../catalog';
-import { familySummary, groupWordsByRoot } from '../utils/family';
+import { groupWordsByRoot } from '../utils/family';
 import type { FamilyMeta } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
@@ -334,10 +334,6 @@ export function FamilyNotePage({
   const semantic = familyMeta?.semantic?.trim()
     || familyMeta?.meaningZh?.trim()
     || displaySemantic(entry);
-  const summary = familySummary(family, entry, {
-    roots: effectiveRoots,
-    semantic,
-  });
   const familyNote = getFamilyNote(fKey);
   const hasFamilyNote = Boolean(familyNote.trim());
   const videoId = getVideoId(fKey);
