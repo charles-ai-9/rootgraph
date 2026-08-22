@@ -568,12 +568,31 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ## 11.5 笔记安全规则（红线，务必遵守）
 
-用户笔记只存浏览器 localStorage（`rootgraph-notes-v2` / `rootgraph-progress-v1` / `rootgraph-affix-library-v5`），是用户唯一的学习资产：
+**用户编辑的内容是唯一不可再生的资产**（写了几百条笔记后丢失=巨大损失）。所有支持编辑的入口，任何改动不得覆盖、删除用户已编辑的内容：
 
-1. **任何代码改动不得删除、清空或覆盖用户笔记字段**；数据结构变更必须向后兼容（新字段用 `?? 默认值` 兜底）
+**编辑入口清单（10 类，全部存 localStorage）：**
+
+| 入口 | 存储位置（rootgraph-notes-v2 内） | 触发 |
+|---|---|---|
+| 家族笔记 | `families[key]` | 族页「我的词根理解」 |
+| 单词笔记 | `words[key]` | 词卡「我的笔记」 |
+| 推理链覆盖 | `wordFields[key].mnemonic` | 词卡「推理链」 |
+| 搭配覆盖 | `wordFields[key].collocations` | 词卡「搭配」 |
+| 例句编辑 | `wordFields[key].examples` | 词卡「例句」 |
+| 词缀笔记 | `affixNotes[key]` | 词缀弹窗 |
+| 词缀库 CRUD | `rootgraph-affix-library-v5` | 词缀库页/弹窗保存 |
+| 视频编号 | `videoMap[key]` | 🎬 徽标 |
+| 词根/语义编辑 | `familyMeta[key]` | ✎ 词根 |
+| 复习进度 | `rootgraph-progress-v1` | 复习弹窗标记 |
+
+**铁律：**
+
+1. **任何代码改动不得删除、清空或覆盖上述任一字段**；数据结构变更必须向后兼容（新字段 `?? 默认值` 兜底）；`setStore` 一律用 spread 不可变更新，禁止整体替换
 2. **迁移前必须快照**：`migrateKeys` 等重排 key 的逻辑，执行前先把整个 store 写入 `rootgraph-notes-backup-auto-*`
-3. 数据重导 / 部署不会触碰 localStorage；`legacyId` 机制只在 catalog 含 legacyId 条目时迁移（当前为 0）
-4. 用户可随时「导出笔记 / 导入笔记」（首页 hero 区按钮，utils/backup.ts）——导入前自动快照现有数据
+3. **seed / storage 版本变更前必须征求用户同意**（如词缀库 docx 版本、notes-v2 → v3）；merge 逻辑必须保留用户编辑与新增条目（`upsertItemFromNote` 已有条目时返回 existing 不覆盖，`applyStoredOverridesById` 保留用户覆盖）
+4. 数据重导 / 部署 / 解析脚本只动 `data/` JSON，不触碰 localStorage；`legacyId` 机制只在 catalog 含 legacyId 条目时迁移（当前为 0）
+5. 用户可随时「导出笔记 / 导入笔记」（首页 hero 区按钮，utils/backup.ts）——导入前自动快照现有数据
+6. **改动任何编辑入口相关代码前**：先读本清单，确认新逻辑在「用户已有内容」场景下的行为，并补逻辑测试（参考 useNotes/useAffixLibrary 的既有防御模式）
 
 ---
 
