@@ -8,30 +8,33 @@ interface DraggableFollowBarProps {
 const MIN_TOP = 88; // 顶栏下方最小位置
 const MAX_TOP_RATIO = 0.7; // 最大可拖到视口 70%
 
-/** 移动端可拖动的悬浮词根条：触摸上下拖动决定停留位置，↺ 恢复默认（sticky） */
+/** 可拖动的悬浮词根条（鼠标/触摸通用）：按住上下拖动决定停留位置，↺ 恢复默认（sticky） */
 export function DraggableFollowBar({ followRoots, followMeaning }: DraggableFollowBarProps) {
   const ref = useRef<HTMLDivElement>(null);
   const [top, setTop] = useState<number | null>(null);
   const dragRef = useRef<{ startY: number; startTop: number } | null>(null);
 
-  const onTouchStart = (e: React.TouchEvent) => {
-    if (e.touches.length !== 1) return;
-    const t = e.touches[0];
+  const onPointerDown = (e: React.PointerEvent) => {
+    if (e.button !== 0 && e.pointerType === 'mouse') return; // 仅主键
     const startTop = ref.current?.getBoundingClientRect().top ?? 158;
-    dragRef.current = { startY: t.clientY, startTop };
+    dragRef.current = { startY: e.clientY, startTop };
+    ref.current?.setPointerCapture(e.pointerId);
   };
 
-  const onTouchMove = (e: React.TouchEvent) => {
-    if (!dragRef.current || e.touches.length !== 1) return;
-    const t = e.touches[0];
-    const delta = t.clientY - dragRef.current.startY;
+  const onPointerMove = (e: React.PointerEvent) => {
+    if (!dragRef.current) return;
+    const delta = e.clientY - dragRef.current.startY;
     const maxTop = window.innerHeight * MAX_TOP_RATIO;
     const next = Math.min(Math.max(dragRef.current.startTop + delta, MIN_TOP), maxTop);
     setTop(next);
   };
 
-  const endDrag = () => {
+  const endDrag = (e: React.PointerEvent) => {
+    if (!dragRef.current) return;
     dragRef.current = null;
+    if (ref.current?.hasPointerCapture(e.pointerId)) {
+      ref.current.releasePointerCapture(e.pointerId);
+    }
   };
 
   return (
@@ -39,10 +42,10 @@ export function DraggableFollowBar({ followRoots, followMeaning }: DraggableFoll
       ref={ref}
       className={`variant-root-follow ${top != null ? 'is-dragged' : ''}`}
       style={top != null ? { top } : undefined}
-      onTouchStart={onTouchStart}
-      onTouchMove={onTouchMove}
-      onTouchEnd={endDrag}
-      onTouchCancel={endDrag}
+      onPointerDown={onPointerDown}
+      onPointerMove={onPointerMove}
+      onPointerUp={endDrag}
+      onPointerCancel={endDrag}
     >
       <span className="word-root-meaning-label">词根</span>
       <span className="variant-root-follow-roots">{followRoots}</span>

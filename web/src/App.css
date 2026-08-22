@@ -4734,7 +4734,25 @@ textarea {
   transform: scale(0.95);
 }
 
-/* 拖动把手提示（仅触屏设备） */
+/* 拖动把手提示：触屏常显，桌面 hover 显示 */
+.variant-root-follow {
+  cursor: grab;
+}
+
+.variant-root-follow.is-dragged {
+  cursor: grabbing;
+}
+
+@media (hover: hover) {
+  .variant-root-follow:hover::before {
+    content: '⠿';
+    color: var(--text-light);
+    font-size: 0.85rem;
+    line-height: 1;
+    align-self: center;
+  }
+}
+
 @media (hover: none) {
   .variant-root-follow::before {
     content: '⠿';
