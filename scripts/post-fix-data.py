@@ -199,11 +199,29 @@ def remove_null_fields() -> None:
         print(f"  post-fix: 清洗 {removed} 个 null 字段")
 
 
+def split_trib_from_forc() -> None:
+    """trib 词根族拆分：恢复 trib 族后，把 forc 族中的 trib 词移除（重导后重新出现则再移）"""
+    src = MANUAL_DATA / "textbook-1-trib.json"
+    if not src.exists():
+        return
+    trib_words = {w["word"] for w in json.loads(src.read_text(encoding="utf-8")).get("words", [])}
+    forc_path = ROOT / "data" / "textbook-1" / "forc.json"
+    if not forc_path.exists():
+        return
+    forc = json.loads(forc_path.read_text(encoding="utf-8"))
+    before = len(forc.get("words", []))
+    forc["words"] = [w for w in forc.get("words", []) if w.get("word") not in trib_words]
+    if len(forc["words"]) != before:
+        forc_path.write_text(json.dumps(forc, ensure_ascii=False, indent=2), encoding="utf-8")
+        print(f"  post-fix: forc 族移除 {before - len(forc['words'])} 个 trib 词")
+
+
 def main() -> None:
     ensure_ics_family()
     remove_misclassified()
     rename_noise_words()
     restore_manual_families()
+    split_trib_from_forc()
     remove_null_fields()
     print("post-fix 完成")
 
