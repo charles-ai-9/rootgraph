@@ -27,6 +27,8 @@ export interface WordCardProps {
   onOpenAffixLibrary: () => void;
   /** 初始折叠（笔记风默认折叠，点击词行展开）；false = 初始展开（复习弹窗/深链） */
   defaultCollapsed?: boolean;
+  /** 词根含义（族级，如「-val · -vail = worth 价值；strong 强壮」），展开时展示 */
+  rootMeaning?: string;
   /** 深链定位高亮 */
   highlighted?: boolean;
   cardDomId?: string;
@@ -78,6 +80,7 @@ export function WordCard({
   onSaveGroup,
   onOpenAffixLibrary,
   defaultCollapsed = true,
+  rootMeaning,
   highlighted = false,
   cardDomId,
   onNote,
@@ -158,6 +161,22 @@ export function WordCard({
           title={expanded ? '点击收起' : '点击展开'}
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
+
+          <div className="affix-open-group">
+            <AffixKindButton
+              kind="prefix"
+              note={affixNotes.prefix}
+              word={word}
+              onOpen={() => setPrefixOpen(true)}
+            />
+            <AffixKindButton
+              kind="suffix"
+              note={affixNotes.suffix}
+              word={word}
+              onOpen={() => setSuffixOpen(true)}
+            />
+          </div>
+
           <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
             <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
           </span>
@@ -195,20 +214,8 @@ export function WordCard({
             <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{word.definition}</span>
           )}
 
-          <div className="affix-open-group">
-            <AffixKindButton
-              kind="prefix"
-              note={affixNotes.prefix}
-              word={word}
-              onOpen={() => setPrefixOpen(true)}
-            />
-            <AffixKindButton
-              kind="suffix"
-              note={affixNotes.suffix}
-              word={word}
-              onOpen={() => setSuffixOpen(true)}
-            />
-          </div>
+          {/* 右侧：正常拼写（阅读舒适），左侧拆分高亮（记忆用） */}
+          <span className="word-plain" title={`${word.word}（正常拼写）`}>{word.word}</span>
 
           {hasAnyNote && (
             <span className="word-has-note-dot" title="有笔记/词缀记录">●</span>
@@ -219,6 +226,13 @@ export function WordCard({
 
         {expanded && (
           <div className="word-card-body">
+            {rootMeaning && (
+              <p className="word-root-meaning">
+                <span className="word-root-meaning-label">词根</span>
+                {rootMeaning}
+              </p>
+            )}
+
             {(word.pos || word.definition) && (
               <div className="word-card-def">
                 {word.pos && <span className="pos-tag">{word.pos}</span>}

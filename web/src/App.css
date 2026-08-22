@@ -4587,3 +4587,80 @@ textarea {
     padding-bottom: calc(60px + env(safe-area-inset-bottom));
   }
 }
+
+/* ══ 词卡：右侧正常词 + 词根含义行 + 醒目词体 ══ */
+.word-plain {
+  margin-left: auto;
+  font-size: 1.22rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  flex-shrink: 0;
+}
+
+.word-head-word {
+  font-size: 1.16rem;
+  font-weight: 800;
+}
+
+.word-root-meaning {
+  margin: 0;
+  padding: 6px 14px;
+  font-size: 0.82rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border-bottom: 1px solid var(--border-light);
+  line-height: 1.6;
+}
+
+.word-root-meaning-label {
+  display: inline-block;
+  margin-right: 6px;
+  padding: 0 6px;
+  border-radius: 4px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.72rem;
+  font-weight: 600;
+}
+
+/* ══ 首页：目录行换行 + 搜索悬浮 ══ */
+.library-row-roots {
+  white-space: normal;
+  word-break: break-word;
+  flex-shrink: 1;
+  min-width: 96px;
+  max-width: 42%;
+}
+
+.library-toolbar {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  background: var(--bg);
+  padding: 10px 0 12px;
+  margin-bottom: 8px;
+  border-bottom: 1px solid var(--border-light);
+}
+
+/* ══ 变体切换器：与正文区分 ══ */
+.variant-stepper {
+  border: 1px solid var(--border-light);
+  border-radius: 12px;
+  background: var(--surface-muted);
+  padding: 12px 14px;
+  margin-top: 20px;
+}
+
+.variant-stepper-btn {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  font-weight: 600;
+}
+
+.variant-stepper-pos {
+  font-variant-numeric: tabular-nums;
+  color: var(--text);
+  font-weight: 600;
+}

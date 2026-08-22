@@ -247,10 +247,15 @@ export function FamilyNotePage({
 
   const wordCardPropsFor = (w: WordEntry, index: number): WordCardProps => {
     const wKey = wordKey(entry.textbook, family!.id, w.word);
+    const rootMeaning = [
+      family!.roots.map((r) => `-${r.replace(/^-+/, '')}`).join('，'),
+      [family!.meaningEn, family!.meaningZh].filter(Boolean).join(' · '),
+    ].filter(Boolean).join(' = ');
     return {
       cardDomId: `word-${w.word}-${index}`,
       word: w,
       familyRoots: family!.roots,
+      rootMeaning,
       textbook: entry.textbook,
       familyId: family!.id,
       personalNote: getWordNote(wKey),
