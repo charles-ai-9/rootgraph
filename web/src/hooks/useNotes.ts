@@ -198,7 +198,8 @@ export function useNotes() {
   const getWordMnemonic = useCallback(
     (key: string, seed = '') => {
       const hit = store.wordFields[key]?.mnemonic;
-      return hit !== undefined ? hit : seed;
+      // null/undefined 都回退种子值（历史数据可能写入过 null）
+      return hit != null ? hit : seed;
     },
     [store],
   );
@@ -216,7 +217,7 @@ export function useNotes() {
   const getWordCollocations = useCallback(
     (key: string, seed: string[] = []) => {
       const hit = store.wordFields[key]?.collocations;
-      return hit !== undefined ? hit : collocationsToText(seed);
+      return hit != null ? hit : collocationsToText(seed);
     },
     [store],
   );
@@ -234,9 +235,10 @@ export function useNotes() {
   const getWordExamples = useCallback(
     (key: string, seed: string[] = []) => {
       const hit = store.wordFields[key]?.examples;
-      if (hit !== undefined) {
+      if (hit != null) {
         try {
-          return JSON.parse(hit) as string[];
+          const parsed = JSON.parse(hit) as unknown;
+          return Array.isArray(parsed) ? (parsed as string[]) : seed;
         } catch {
           return seed;
         }
