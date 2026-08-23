@@ -168,20 +168,29 @@ export function WordCard({
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
 
-          {/* 顺序：正常单词（点击朗读）→ 拆分高亮（点击复制）→ 音标/词性/释义 → 前缀/后缀（最右） */}
+          {/* 顺序：正常单词（点击=复制+展开）→ 🔊 → 拆分高亮（点击=朗读+展开）→ 音标/词性/释义 → 前缀/后缀（最右） */}
           <span
             className="word-plain"
-            title="点击朗读"
+            title="点击复制并展开"
             role="button"
             tabIndex={0}
-            onClick={(e) => {
-              e.stopPropagation();
-              speakWord(word.word);
+            onClick={async () => {
+              // 不阻止冒泡：复制之外，点击同时触发行级展开/收起
+              const ok = await copyText(word.word);
+              if (ok) {
+                setCopied(true);
+                window.setTimeout(() => setCopied(false), 1200);
+              }
             }}
-            onKeyDown={(e) => {
+            onKeyDown={async (e) => {
               if (e.key === 'Enter' || e.key === ' ') {
-                e.stopPropagation();
-                speakWord(word.word);
+                e.preventDefault();
+                setExpanded((v) => !v);
+                const ok = await copyText(word.word);
+                if (ok) {
+                  setCopied(true);
+                  window.setTimeout(() => setCopied(false), 1200);
+                }
               }
             }}
           >
@@ -201,7 +210,14 @@ export function WordCard({
             🔊
           </button>
 
-          <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
+          <span
+            className={`word-head-word ${copied ? 'word-copied' : ''}`}
+            title="点击朗读并展开"
+            onClick={() => {
+              // 不阻止冒泡：朗读之外，点击同时触发行级展开/收起
+              speakWord(word.word);
+            }}
+          >
             <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
           </span>
           <button
