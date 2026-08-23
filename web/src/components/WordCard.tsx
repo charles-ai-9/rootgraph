@@ -168,9 +168,24 @@ export function WordCard({
         >
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
 
-          {/* 单一单词展示（词根高亮）：点击=展开/收起；朗读统一用 🔊 按钮 */}
-          <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
-            <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
+          {/* 顺序：正常单词（点击朗读）→ 拆分高亮（点击复制）→ 音标/词性/释义 → 前缀/后缀（最右） */}
+          <span
+            className="word-plain"
+            title="点击朗读"
+            role="button"
+            tabIndex={0}
+            onClick={(e) => {
+              e.stopPropagation();
+              speakWord(word.word);
+            }}
+            onKeyDown={(e) => {
+              if (e.key === 'Enter' || e.key === ' ') {
+                e.stopPropagation();
+                speakWord(word.word);
+              }
+            }}
+          >
+            {word.word}
           </span>
 
           <button
@@ -186,6 +201,9 @@ export function WordCard({
             🔊
           </button>
 
+          <span className={`word-head-word ${copied ? 'word-copied' : ''}`}>
+            <RootText text={word.word} catalogRoots={familyRoots} matchRoots={highlightRoots} />
+          </span>
           <button
             type="button"
             className={`word-copy-btn ${copied ? 'is-copied' : ''}`}

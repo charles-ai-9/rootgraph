@@ -1267,13 +1267,12 @@ textarea {
 }
 
 .word-head-word {
-  font-weight: 700;
-  font-size: 1.15rem;
-  color: var(--text);
+  font-weight: 600;
+  font-size: 0.98rem;
+  color: var(--text-muted);
   cursor: pointer;
   border-radius: 4px;
   line-height: 1.4;
-  letter-spacing: -0.01em;
 }
 
 .word-head-word:hover {
@@ -4592,6 +4591,17 @@ textarea {
   }
 }
 
+/* ══ 词卡：右侧正常词 + 词根含义行 + 醒目词体 ══ */
+.word-plain {
+  font-size: 1.22rem;
+  font-weight: 800;
+  letter-spacing: -0.01em;
+  color: var(--text);
+  flex-shrink: 0;
+}
+
+
+
 .word-root-meaning-label {
   display: inline-block;
   margin-right: 6px;
@@ -4836,6 +4846,16 @@ textarea {
 
 .word-review-speak:hover {
   border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+/* 正常词点击朗读（大目标） */
+.word-plain {
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+.word-plain:hover {
   background: var(--accent-soft);
 }
 
