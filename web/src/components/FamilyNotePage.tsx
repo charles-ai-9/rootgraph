@@ -130,28 +130,9 @@ export function FamilyNotePage({
 
   const fKey = familyStorageKey(entry.textbook, entry.id);
 
+  /** 系统词根族：静态 JSON，仅在条目/重试变化时加载（不依赖笔记 store，避免打字触发重取） */
   useEffect(() => {
-    if (entry.textbook === 'user') {
-      // 用户自建词根族：从 localStorage 渲染
-      const uf = userFamilies[entry.id];
-      if (uf) {
-        setFamily({
-          id: uf.id,
-          source: 'user',
-          chapter: '我的',
-          chapterOrder: 999,
-          titleZh: uf.meaningZh,
-          semanticLabel: uf.meaningZh,
-          meaningEn: uf.meaningEn,
-          meaningZh: uf.meaningZh,
-          roots: uf.roots,
-          words: getUserFamilyWords(uf.id) as WordEntry[],
-        });
-      } else {
-        setFamilyError(true);
-      }
-      return;
-    }
+    if (entry.textbook === 'user') return;
     setFamilyError(false);
     fetch(`/data/${entry.textbook}/${entry.file}`)
       .then((r) => {
@@ -161,7 +142,30 @@ export function FamilyNotePage({
       .then(setFamily)
       .catch(() => setFamilyError(true));
     // eslint-disable-next-line react-hooks/exhaustive-deps
-  }, [entry, retryTick, userFamilies, getUserFamilyWords]);
+  }, [entry, retryTick]);
+
+  /** 用户自建词根族：localStorage 实时派生 */
+  useEffect(() => {
+    if (entry.textbook !== 'user') return;
+    setFamilyError(false);
+    const uf = userFamilies[entry.id];
+    if (uf) {
+      setFamily({
+        id: uf.id,
+        source: 'user',
+        chapter: '我的',
+        chapterOrder: 999,
+        titleZh: uf.meaningZh,
+        semanticLabel: uf.meaningZh,
+        meaningEn: uf.meaningEn,
+        meaningZh: uf.meaningZh,
+        roots: uf.roots,
+        words: getUserFamilyWords(uf.id) as WordEntry[],
+      });
+    } else {
+      setFamilyError(true);
+    }
+  }, [entry, userFamilies, getUserFamilyWords]);
 
   useEffect(() => {
     loadWordIndex().then(setWordIndex);
@@ -291,7 +295,8 @@ export function FamilyNotePage({
       }
     };
     tryScroll();
-  }, [family, focusedWord, activePanel]);
+    // 仅词根族切换 / 聚焦词 / 面板切换时锚定；编辑笔记不改变 family?.id，不触发滚动
+  }, [family?.id, focusedWord, activePanel]);
 
   /** 路由深链变化时同步本地聚焦词 */
   useEffect(() => {
