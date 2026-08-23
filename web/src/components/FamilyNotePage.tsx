@@ -46,7 +46,6 @@ interface FamilyNotePageProps {
   onBack: () => void;
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => void;
-  moveWordToUserFamily: (familyId: string, word: WordEntry, from?: { textbook: string; familyId: string }) => void;
   moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
@@ -81,7 +80,6 @@ export function FamilyNotePage({
   onBack,
   userFamilies,
   createUserFamily,
-  moveWordToUserFamily,
   moveWordsToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
@@ -350,28 +348,6 @@ export function FamilyNotePage({
       onExamplesNote: (examples) => setWordExamples(wKey, examples),
       onEtymologyNote: (text) => setWordEtymology(wKey, text),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
-      moveTargets: Object.values(userFamilies).map((uf) => ({
-        id: uf.id,
-        label: `${uf.roots.join(' · ')}${uf.meaningZh ? `（${uf.meaningZh}）` : ''}`,
-      })),
-      onMoveWord: (word, targetId) =>
-        moveWordToUserFamily(targetId, word, { textbook: entry.textbook, familyId: family!.id }),
-      onRemoveFromFamily:
-        entry.textbook === 'user'
-          ? (word) => removeWordFromUserFamily(entry.id, word)
-          : undefined,
-      onCreateAndMove: (rootName, word) => {
-        const roots = rootName
-          .split(/[，,、]/)
-          .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
-          .filter(Boolean);
-        if (!roots.length) return;
-        const id = roots[0];
-        if (!userFamilies[id]) {
-          createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
-        }
-        moveWordToUserFamily(id, word, { textbook: entry.textbook, familyId: family!.id });
-      },
     };
   };
 

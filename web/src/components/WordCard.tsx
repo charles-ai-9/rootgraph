@@ -38,14 +38,7 @@ export interface WordCardProps {
   onExamplesNote: (examples: string[]) => void;
   onEtymologyNote: (text: string) => void;
   onAffixNote: (kind: WordAffixKind, note: AffixNoteData) => void;
-  /** 可移入的用户词根族（「我的词根」） */
-  moveTargets?: { id: string; label: string }[];
-  onMoveWord?: (word: WordEntry, targetId: string) => void;
-  /** 从用户词根族移出（user 族页） */
-  onRemoveFromFamily?: (word: string) => void;
-  /** 没有目标词根族时：输入词根名创建并挂入 */
-  onCreateAndMove?: (rootName: string, word: WordEntry) => void;
-  /** 批量挂载模式：头部显示复选框，隐藏单项移动入口 */
+  /** 批量挂载模式：头部显示复选框 */
   batchMode?: boolean;
   selected?: boolean;
   onToggleSelect?: (word: string) => void;
@@ -101,10 +94,6 @@ export function WordCard({
   onExamplesNote,
   onEtymologyNote,
   onAffixNote,
-  moveTargets,
-  onMoveWord,
-  onRemoveFromFamily,
-  onCreateAndMove,
   batchMode,
   selected,
   onToggleSelect,
@@ -112,9 +101,6 @@ export function WordCard({
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
   const [showEmpty, setShowEmpty] = useState(false);
-  const [showMovePicker, setShowMovePicker] = useState(false);
-  const [moveCreateOpen, setMoveCreateOpen] = useState(false);
-  const [moveRootName, setMoveRootName] = useState('');
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -456,107 +442,6 @@ export function WordCard({
                     </section>
                   )}
                 </div>
-
-                {batchMode ? null : onMoveWord && (
-                  <div className="word-move-row">
-                    <span className="word-move-label">词根归属</span>
-                    <button
-                      type="button"
-                      className="word-move-btn"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        setShowMovePicker((v) => !v);
-                      }}
-                    >
-                      {showMovePicker ? '收起' : '移至我的词根…'}
-                    </button>
-                    {showMovePicker && (
-                      <div className="word-move-picker">
-                        {moveTargets && moveTargets.length > 0 && moveTargets.map((t) => (
-                          <button
-                            key={t.id}
-                            type="button"
-                            className="word-move-option"
-                            onClick={(e) => {
-                              e.stopPropagation();
-                              onMoveWord(word, t.id);
-                              setShowMovePicker(false);
-                            }}
-                          >
-                            {t.label}
-                          </button>
-                        ))}
-                        {onCreateAndMove && (
-                          moveCreateOpen ? (
-                            <div
-                              className="word-move-create"
-                              onClick={(e) => e.stopPropagation()}
-                            >
-                              <input
-                                value={moveRootName}
-                                onChange={(e) => setMoveRootName(e.target.value)}
-                                onKeyDown={(e) => {
-                                  if (e.key === 'Enter') {
-                                    onCreateAndMove(moveRootName, word);
-                                    setMoveCreateOpen(false);
-                                    setMoveRootName('');
-                                    setShowMovePicker(false);
-                                  }
-                                }}
-                                placeholder="eco，econ 新建词根"
-                                autoFocus
-                              />
-                              <button
-                                type="button"
-                                className="word-move-btn"
-                                disabled={!moveRootName.trim()}
-                                onClick={(e) => {
-                                  e.stopPropagation();
-                                  onCreateAndMove(moveRootName, word);
-                                  setMoveCreateOpen(false);
-                                  setMoveRootName('');
-                                  setShowMovePicker(false);
-                                }}
-                              >
-                                创建并挂入
-                              </button>
-                            </div>
-                          ) : (
-                            <button
-                              type="button"
-                              className="word-move-option"
-                              onClick={(e) => {
-                                e.stopPropagation();
-                                setMoveCreateOpen(true);
-                              }}
-                            >
-                              ＋ 新建词根并挂入
-                            </button>
-                          )
-                        )}
-                        {(!moveTargets || moveTargets.length === 0) && !onCreateAndMove && (
-                          <span className="word-move-label">还没有我的词根，请到首页「＋ 新建词根」</span>
-                        )}
-                      </div>
-                    )}
-                  </div>
-                )}
-
-                {batchMode ? null : onRemoveFromFamily && (
-                  <div className="word-move-row">
-                    <span className="word-move-label">词根归属</span>
-                    <button
-                      type="button"
-                      className="word-move-btn is-remove"
-                      onClick={(e) => {
-                        e.stopPropagation();
-                        onRemoveFromFamily(word.word);
-                      }}
-                    >
-                      移出本词根
-                    </button>
-                  </div>
-                )}
 
                 {/* 空白区块：极简 ＋ icon，点一下所有区块按上下顺序铺开 */}
                 {hasAnyEmpty && (
