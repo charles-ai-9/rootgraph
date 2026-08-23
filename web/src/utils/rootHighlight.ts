@@ -34,6 +34,8 @@ function variantClusterId(root: string): string | null {
   const r = normalizeRoot(root);
   if (['ceed', 'cede', 'cess', 'ced'].includes(r) || /eed$|ede$|ess$/.test(r)) return 'ceed';
   if (['gress', 'gred', 'grad', 'gre'].includes(r) || /gress$|gred$|grad$/.test(r)) return 'gress';
+  // 数据驱动的变体簇：由推理链「xx(=教材词根)」标记提取（见 mnemonicVariants）
+  if (['act', 'ag'].includes(r)) return 'act';
   return null;
 }
 
@@ -98,6 +100,34 @@ function usableRoots(roots: string[]): string[] {
   );
 }
 
+/** 推理链「xx(=ref)」标注对：如「ag(=act：做)」→ { form: 'ag', ref: 'act' } */
+export interface MnemonicVariantPair {
+  form: string;
+  ref: string;
+}
+
+/**
+ * 提取推理链里的变体标注对（数据驱动高亮）。
+ * 注意区分：「ag(=act)」是词根变体，「colle(=collect)」只是前缀释义，
+ * 由调用方按 ref 是否属于本族词根判断取舍。
+ */
+export function mnemonicVariantPairs(mnemonic?: string): MnemonicVariantPair[] {
+  if (!mnemonic) return [];
+  const out: MnemonicVariantPair[] = [];
+  const seen = new Set<string>();
+  const re = /\b([a-z]{2,})\s*[（(]\s*[=＝]\s*([a-z]{2,})/gi;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(mnemonic)) !== null) {
+    const form = m[1].toLowerCase();
+    const ref = m[2].toLowerCase();
+    const key = `${form}|${ref}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    out.push({ form, ref });
+  }
+  return out;
+}
+
 /** 词根族拼写变体对照表（用于章节摘要） */
 export function getVariantClusters(catalogRoots: string[]): VariantCluster[] {
   const groups = new Map<string, { catalog: Set<string>; all: Set<string> }>();
@@ -139,7 +169,11 @@ export function tokenizeRootText(
   catalogRoots: string[],
   matchRoots?: string[],
 ): RootToken[] {
-  const list = usableRoots(matchRoots ?? catalogRoots);
+  // matchRoots 是逐词推断结果（含推理链提取的短变体如 ag），不再按长度过滤；
+  // 长形式优先，避免短形式先截断重叠区段（如 ced 抢先于 cede）
+  const list = matchRoots
+    ? [...new Set(matchRoots.map(normalizeRoot).filter(Boolean))].sort((a, b) => b.length - a.length)
+    : usableRoots(catalogRoots);
   if (!list.length) return [{ kind: 'plain', text }];
 
   const pattern = new RegExp(`(${list.map(escapeRegex).join('|')})`, 'gi');
@@ -183,6 +217,21 @@ export function rootsForWord(
   const inWord = expanded.filter((r) => w.includes(r));
   if (inWord.length) {
     return [...new Set(inWord)].sort((a, b) => b.length - a.length);
+  }
+
+  // 数据驱动变体：标注「form(=ref)」且 ref 属于本族词根时才高亮 form（如 colleague 里的 ag）；
+  // colle(=collect) 这类前缀释义的 ref 不在族内，自动排除
+  const familyNorm = new Set(expanded);
+  const variants = mnemonicVariantPairs(mnemonic)
+    .filter(({ form, ref }) => {
+      if (!w.includes(form)) return false;
+      if (familyNorm.has(ref)) return true;
+      const refCluster = variantClusterId(ref);
+      return refCluster != null && expanded.some((f) => variantClusterId(f) === refCluster);
+    })
+    .map(({ form }) => form);
+  if (variants.length) {
+    return [...new Set(variants)].sort((a, b) => b.length - a.length);
   }
 
   if (mnemonic) {
