@@ -118,12 +118,6 @@ export function WordCard({
   const hasExamples = examplesNote.length > 0;
   const hasEtymology = Boolean(etymologyNote.trim());
   const hasPersonalNote = Boolean(personalNote.trim());
-  const hasExtra = Boolean(
-    hasMnemonic
-      || hasCollocations
-      || hasExamples
-      || hasEtymology,
-  );
   const hasAnyEmpty = !hasPersonalNote || !hasMnemonic || !hasCollocations || !hasExamples || !hasEtymology;
 
   const handleCopyWord = async (e: React.MouseEvent) => {
