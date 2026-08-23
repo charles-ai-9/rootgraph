@@ -5,7 +5,7 @@ import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
-import type { FamilyMeta } from '../hooks/useNotes';
+import type { FamilyMeta, UserFamily } from '../hooks/useNotes';
 import { downloadNotesBackup, importNotesBackup, parseBackupFile } from '../utils/backup';
 
 interface HomePageProps {
@@ -14,9 +14,23 @@ interface HomePageProps {
   onSaveAffixGroup: (draft: AffixGroupDraft) => void;
   getVideoId: (key: string) => string;
   getFamilyMeta: (key: string) => FamilyMeta | undefined;
+  userFamilies: Record<string, UserFamily>;
+  createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => UserFamily;
+  removeUserFamily: (id: string) => void;
+  getUserFamilyWords: (id: string) => import('../types').WordEntry[];
 }
 
-export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoId, getFamilyMeta }: HomePageProps) {
+export function HomePage({
+  onOpenFamily,
+  affixItems,
+  onSaveAffixGroup,
+  getVideoId,
+  getFamilyMeta,
+  userFamilies,
+  createUserFamily,
+  removeUserFamily,
+  getUserFamilyWords,
+}: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [catalogError, setCatalogError] = useState(false);
   const [retryTick, setRetryTick] = useState(0);
@@ -26,8 +40,45 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [backupMsg, setBackupMsg] = useState('');
+  const [createOpen, setCreateOpen] = useState(false);
+  const [newRootName, setNewRootName] = useState('');
+  const [newRootZh, setNewRootZh] = useState('');
+  const [newRootEn, setNewRootEn] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
   const lastTopTapRef = useRef(0);
+
+  const openUserFamily = (f: UserFamily) => {
+    const entry: CatalogEntry = {
+      id: f.id,
+      file: '',
+      chapter: '我的',
+      chapterOrder: 999,
+      titleZh: f.meaningZh,
+      semanticLabel: f.meaningZh,
+      meaningEn: f.meaningEn,
+      meaningZh: f.meaningZh,
+      roots: f.roots,
+      wordCount: 0,
+      source: 'user',
+      textbook: 'user',
+    };
+    onOpenFamily(entry);
+  };
+
+  const handleCreateFamily = () => {
+    const roots = newRootName.split(/[，,、]/).map((x) => x.trim().toLowerCase().replace(/^-+/, '')).filter(Boolean);
+    if (!roots.length) return;
+    const id = roots[0];
+    if (userFamilies[id]) {
+      setBackupMsg(`词根 ${id} 已存在`);
+      return;
+    }
+    createUserFamily({ id, roots, meaningZh: newRootZh.trim(), meaningEn: newRootEn.trim() });
+    setNewRootName('');
+    setNewRootZh('');
+    setNewRootEn('');
+    setCreateOpen(false);
+  };
 
   /** 双击 hero 回到页面顶部（App 习惯） */
   const handleHeroTap = () => {
@@ -167,6 +218,9 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
           <button type="button" className="hero-action" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
+          <button type="button" className="hero-action" onClick={() => setCreateOpen(true)}>
+            ＋ 新建词根
+          </button>
           <button type="button" className="hero-action subtle" onClick={downloadNotesBackup}>
             导出笔记
           </button>
@@ -271,8 +325,91 @@ export function HomePage({ onOpenFamily, affixItems, onSaveAffixGroup, getVideoI
         </div>
       )}
 
+      {Object.keys(userFamilies).length > 0 && (
+        <section className="topic-section">
+          <h2 className="topic-section-title">我的词根</h2>
+          <div className="library-list">
+            {Object.values(userFamilies).map((f) => (
+              <div key={f.id} className="library-row user-family-row">
+                <button type="button" className="library-row-main" onClick={() => openUserFamily(f)}>
+                  <span className="library-row-chapter">我的</span>
+                  <span className="library-row-roots">{f.roots.join(' · ')}</span>
+                  {f.meaningZh && <span className="library-row-semantic">{f.meaningZh}</span>}
+                  <span className="library-row-meta">{getUserFamilyWords(f.id).length} 词</span>
+                </button>
+                <button
+                  type="button"
+                  className="user-family-del"
+                  title="删除词根"
+                  aria-label={`删除 ${f.id}`}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    if (window.confirm(`删除词根 ${f.roots.join(' · ')}？其挂入的词会回到原词根族。`)) {
+                      removeUserFamily(f.id);
+                    }
+                  }}
+                >
+                  ✕
+                </button>
+              </div>
+            ))}
+          </div>
+        </section>
+      )}
+
       {filtered.length === 0 && !hasFilter && !catalogError && catalog.length > 0 && (
         <p className="empty-hint">没有匹配的词根族，试试换个筛选条件</p>
+      )}
+
+      {createOpen && (
+        <div className="affix-modal-backdrop" onClick={() => setCreateOpen(false)} role="presentation">
+          <div className="user-family-create" role="dialog" aria-modal="true" onClick={(e) => e.stopPropagation()}>
+            <h3 className="user-family-create-title">新建词根</h3>
+            <div className="family-meta-field">
+              <label htmlFor="new-root-name">词根（逗号分隔多个变体，如 eco，econ）</label>
+              <input
+                id="new-root-name"
+                className="family-meta-input"
+                value={newRootName}
+                onChange={(e) => setNewRootName(e.target.value)}
+                placeholder="eco，econ"
+              />
+            </div>
+            <div className="family-meta-field">
+              <label htmlFor="new-root-zh">中文释义</label>
+              <input
+                id="new-root-zh"
+                className="family-meta-input"
+                value={newRootZh}
+                onChange={(e) => setNewRootZh(e.target.value)}
+                placeholder="经济；家"
+              />
+            </div>
+            <div className="family-meta-field">
+              <label htmlFor="new-root-en">英文含义</label>
+              <input
+                id="new-root-en"
+                className="family-meta-input"
+                value={newRootEn}
+                onChange={(e) => setNewRootEn(e.target.value)}
+                placeholder="house; economy"
+              />
+            </div>
+            <div className="family-meta-editor-actions">
+              <button
+                type="button"
+                className="family-meta-save"
+                onClick={handleCreateFamily}
+                disabled={!newRootName.trim()}
+              >
+                创建
+              </button>
+              <button type="button" className="family-meta-cancel" onClick={() => setCreateOpen(false)}>
+                取消
+              </button>
+            </div>
+          </div>
+        </div>
       )}
 
       {affixOverlayOpen && (

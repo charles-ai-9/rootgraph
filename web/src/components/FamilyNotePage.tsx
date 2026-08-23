@@ -3,7 +3,7 @@ import type { AffixItem, AffixKind, AffixNoteData, CatalogEntry, RootFamily, Wor
 import { cleanRoots, displaySemantic, displayRoots, normalizeRootForm, wordKey } from '../types';
 import { familyStorageKey, textbookLabel } from '../catalog';
 import { groupWordsByRoot } from '../utils/family';
-import type { FamilyMeta } from '../hooks/useNotes';
+import type { FamilyMeta, UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
 import { useProgress } from '../hooks/useProgress';
@@ -43,6 +43,10 @@ interface FamilyNotePageProps {
   onSaveGroup: (draft: AffixGroupDraft) => void;
   onSearchOpen: (entry: CatalogEntry, focusWord?: string) => void;
   onBack: () => void;
+  userFamilies: Record<string, UserFamily>;
+  moveWordToUserFamily: (familyId: string, word: WordEntry, from?: { textbook: string; familyId: string }) => void;
+  removeWordFromUserFamily: (familyId: string, word: string) => void;
+  getUserFamilyWords: (familyId: string) => UserFamilyWord[];
 }
 
 export function FamilyNotePage({
@@ -72,6 +76,10 @@ export function FamilyNotePage({
   onSaveGroup,
   onSearchOpen,
   onBack,
+  userFamilies,
+  moveWordToUserFamily,
+  removeWordFromUserFamily,
+  getUserFamilyWords,
 }: FamilyNotePageProps) {
   const [family, setFamily] = useState<RootFamily | null>(null);
   const [familyError, setFamilyError] = useState(false);
@@ -115,6 +123,27 @@ export function FamilyNotePage({
   const fKey = familyStorageKey(entry.textbook, entry.id);
 
   useEffect(() => {
+    if (entry.textbook === 'user') {
+      // 用户自建词根族：从 localStorage 渲染
+      const uf = userFamilies[entry.id];
+      if (uf) {
+        setFamily({
+          id: uf.id,
+          source: 'user',
+          chapter: '我的',
+          chapterOrder: 999,
+          titleZh: uf.meaningZh,
+          semanticLabel: uf.meaningZh,
+          meaningEn: uf.meaningEn,
+          meaningZh: uf.meaningZh,
+          roots: uf.roots,
+          words: getUserFamilyWords(uf.id) as WordEntry[],
+        });
+      } else {
+        setFamilyError(true);
+      }
+      return;
+    }
     setFamilyError(false);
     fetch(`/data/${entry.textbook}/${entry.file}`)
       .then((r) => {
@@ -123,7 +152,8 @@ export function FamilyNotePage({
       })
       .then(setFamily)
       .catch(() => setFamilyError(true));
-  }, [entry, retryTick]);
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [entry, retryTick, userFamilies, getUserFamilyWords]);
 
   useEffect(() => {
     loadWordIndex().then(setWordIndex);
@@ -156,10 +186,24 @@ export function FamilyNotePage({
   const familyMeta = getFamilyMeta(fKey);
   const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
 
+  /** 本族被挂入用户词根族的词（不再显示在本族） */
+  const movedWords = useMemo(() => {
+    const set = new Set<string>();
+    for (const id of Object.keys(userFamilies)) {
+      for (const w of getUserFamilyWords(id)) {
+        if (w._from?.textbook === entry.textbook && w._from?.familyId === entry.id) {
+          set.add(w.word);
+        }
+      }
+    }
+    return set;
+  }, [userFamilies, entry, getUserFamilyWords]);
+
   const groups = useMemo((): Map<string, WordEntry[]> => {
     if (!family || !effectiveRoots) return new Map<string, WordEntry[]>();
-    return groupWordsByRoot(family.words, effectiveRoots);
-  }, [family, effectiveRoots]);
+    const visible = family.words.filter((w) => !movedWords.has(w.word));
+    return groupWordsByRoot(visible, effectiveRoots);
+  }, [family, effectiveRoots, movedWords]);
 
   const variantTabs = useMemo((): VariantTab[] => {
     if (!family || !effectiveRoots) return [];
@@ -296,6 +340,16 @@ export function FamilyNotePage({
       onExamplesNote: (examples) => setWordExamples(wKey, examples),
       onEtymologyNote: (text) => setWordEtymology(wKey, text),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
+      moveTargets: Object.values(userFamilies).map((uf) => ({
+        id: uf.id,
+        label: `${uf.roots.join(' · ')}${uf.meaningZh ? `（${uf.meaningZh}）` : ''}`,
+      })),
+      onMoveWord: (word, targetId) =>
+        moveWordToUserFamily(targetId, word, { textbook: entry.textbook, familyId: family!.id }),
+      onRemoveFromFamily:
+        entry.textbook === 'user'
+          ? (word) => removeWordFromUserFamily(entry.id, word)
+          : undefined,
     };
   };
 

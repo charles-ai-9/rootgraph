@@ -1,5 +1,5 @@
 import { useCallback, useEffect, useState } from 'react';
-import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes } from '../types';
+import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes, type WordEntry } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { safeSetItem } from '../utils/storage';
 
@@ -22,6 +22,19 @@ export interface FamilyMeta {
   meaningZh?: string;
 }
 
+/** 用户自建的词根族（显示在首页「我的词根」分组，localStorage 持久化） */
+export interface UserFamily {
+  /** 词根 id（如 'eco'），与 roots[0] 一致 */
+  id: string;
+  /** 词根变体（如 ['eco', 'econ']） */
+  roots: string[];
+  /** 中文释义 */
+  meaningZh: string;
+  /** 英文含义 */
+  meaningEn: string;
+  createdAt: number;
+}
+
 interface NotesStore {
   families: Record<string, string>;
   words: Record<string, string>;
@@ -31,6 +44,15 @@ interface NotesStore {
   videoMap: Record<string, string>;
   /** 词根族元数据手动覆盖（familyKey → 修正后的 roots / semantic） */
   familyMeta: Record<string, FamilyMeta>;
+  /** 用户自建词根族（id → 元数据） */
+  userFamilies: Record<string, UserFamily>;
+  /** 用户词根族挂入的词（userFamilyId → 词条快照数组） */
+  userFamilyWords: Record<string, UserFamilyWord[]>;
+}
+
+/** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
+export interface UserFamilyWord extends WordEntry {
+  _from?: { textbook: string; familyId: string };
 }
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
@@ -43,6 +65,8 @@ const empty: NotesStore = {
   wordFields: {},
   videoMap: {},
   familyMeta: {},
+  userFamilies: {},
+  userFamilyWords: {},
 };
 
 export function collocationsToText(items: string[]): string {
@@ -115,6 +139,8 @@ function load(): NotesStore {
         wordFields: parsed.wordFields ?? {},
         videoMap: parsed.videoMap ?? {},
         familyMeta: parsed.familyMeta ?? {},
+        userFamilies: parsed.userFamilies ?? {},
+        userFamilyWords: parsed.userFamilyWords ?? {},
       };
     }
 
@@ -128,6 +154,8 @@ function load(): NotesStore {
         wordFields: {},
         videoMap: {},
         familyMeta: {},
+        userFamilies: {},
+        userFamilyWords: {},
       };
     }
   } catch {
@@ -169,6 +197,60 @@ export function useNotes() {
       familyMeta: { ...prev.familyMeta, [key]: meta },
     }));
   }, []);
+
+  const getUserFamilies = useCallback(() => store.userFamilies, [store]);
+
+  const createUserFamily = useCallback((data: Omit<UserFamily, 'createdAt'>) => {
+    const family: UserFamily = { ...data, createdAt: Date.now() };
+    setStore((prev) => ({
+      ...prev,
+      userFamilies: { ...prev.userFamilies, [family.id]: family },
+      userFamilyWords: { ...prev.userFamilyWords, [family.id]: prev.userFamilyWords[family.id] ?? [] },
+    }));
+    return family;
+  }, []);
+
+  const removeUserFamily = useCallback((id: string) => {
+    setStore((prev) => {
+      const next: NotesStore = {
+        ...prev,
+        userFamilies: { ...prev.userFamilies },
+        userFamilyWords: { ...prev.userFamilyWords },
+      };
+      delete next.userFamilies[id];
+      delete next.userFamilyWords[id];
+      return next;
+    });
+  }, []);
+
+  /** 把词挂入用户词根族（词条快照 + 来源标记，从原族排除显示） */
+  const moveWordToUserFamily = useCallback(
+    (familyId: string, word: WordEntry, from?: { textbook: string; familyId: string }) => {
+    setStore((prev) => {
+      const list = [...(prev.userFamilyWords[familyId] ?? [])];
+      const exists = list.some((w) => w.word === word.word);
+      if (!exists) list.push({ ...word, _from: from });
+      return {
+        ...prev,
+        userFamilyWords: { ...prev.userFamilyWords, [familyId]: list },
+      };
+    });
+  }, []);
+
+  const removeWordFromUserFamily = useCallback((familyId: string, word: string) => {
+    setStore((prev) => {
+      const list = (prev.userFamilyWords[familyId] ?? []).filter((w) => w.word !== word);
+      return {
+        ...prev,
+        userFamilyWords: { ...prev.userFamilyWords, [familyId]: list },
+      };
+    });
+  }, []);
+
+  const getUserFamilyWords = useCallback(
+    (familyId: string): UserFamilyWord[] => store.userFamilyWords[familyId] ?? [],
+    [store],
+  );
 
   const getWordNote = useCallback((key: string) => store.words[key] ?? '', [store]);
 
@@ -300,6 +382,8 @@ export function useNotes() {
         wordFields: { ...prev.wordFields },
         videoMap: { ...prev.videoMap },
         familyMeta: { ...prev.familyMeta },
+        userFamilies: { ...prev.userFamilies },
+        userFamilyWords: { ...prev.userFamilyWords },
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
@@ -326,6 +410,12 @@ export function useNotes() {
     setVideoId,
     getFamilyMeta,
     setFamilyMeta,
+    getUserFamilies,
+    createUserFamily,
+    removeUserFamily,
+    moveWordToUserFamily,
+    removeWordFromUserFamily,
+    getUserFamilyWords,
     getWordNote,
     setWordNote,
     getWordAffixNotes,

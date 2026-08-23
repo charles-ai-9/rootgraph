@@ -38,6 +38,11 @@ export interface WordCardProps {
   onExamplesNote: (examples: string[]) => void;
   onEtymologyNote: (text: string) => void;
   onAffixNote: (kind: WordAffixKind, note: AffixNoteData) => void;
+  /** 可移入的用户词根族（「我的词根」） */
+  moveTargets?: { id: string; label: string }[];
+  onMoveWord?: (word: WordEntry, targetId: string) => void;
+  /** 从用户词根族移出（user 族页） */
+  onRemoveFromFamily?: (word: string) => void;
 }
 
 function AffixKindButton({
@@ -90,10 +95,14 @@ export function WordCard({
   onExamplesNote,
   onEtymologyNote,
   onAffixNote,
+  moveTargets,
+  onMoveWord,
+  onRemoveFromFamily,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
   const [showEmpty, setShowEmpty] = useState(false);
+  const [showMovePicker, setShowMovePicker] = useState(false);
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -412,6 +421,56 @@ export function WordCard({
                     </section>
                   )}
                 </div>
+
+                {(moveTargets && moveTargets.length > 0 && onMoveWord) && (
+                  <div className="word-move-row">
+                    <span className="word-move-label">词根归属</span>
+                    <button
+                      type="button"
+                      className="word-move-btn"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        setShowMovePicker((v) => !v);
+                      }}
+                    >
+                      {showMovePicker ? '收起' : '移至我的词根…'}
+                    </button>
+                    {showMovePicker && (
+                      <div className="word-move-picker">
+                        {moveTargets.map((t) => (
+                          <button
+                            key={t.id}
+                            type="button"
+                            className="word-move-option"
+                            onClick={(e) => {
+                              e.stopPropagation();
+                              onMoveWord(word, t.id);
+                              setShowMovePicker(false);
+                            }}
+                          >
+                            {t.label}
+                          </button>
+                        ))}
+                      </div>
+                    )}
+                  </div>
+                )}
+
+                {onRemoveFromFamily && (
+                  <div className="word-move-row">
+                    <span className="word-move-label">词根归属</span>
+                    <button
+                      type="button"
+                      className="word-move-btn is-remove"
+                      onClick={(e) => {
+                        e.stopPropagation();
+                        onRemoveFromFamily(word.word);
+                      }}
+                    >
+                      移出本词根
+                    </button>
+                  </div>
+                )}
 
                 {/* 空白区块：极简 ＋ icon，点一下所有区块按上下顺序铺开 */}
                 {hasAnyEmpty && (

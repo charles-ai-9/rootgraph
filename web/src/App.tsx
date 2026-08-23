@@ -68,7 +68,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, removeUserFamily, moveWordToUserFamily, removeWordFromUserFamily, getUserFamilyWords, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
 
   // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
@@ -149,6 +149,10 @@ function App() {
           setVideoId={setVideoId}
           getFamilyMeta={getFamilyMeta}
           setFamilyMeta={setFamilyMeta}
+          userFamilies={getUserFamilies()}
+          moveWordToUserFamily={moveWordToUserFamily}
+          removeWordFromUserFamily={removeWordFromUserFamily}
+          getUserFamilyWords={getUserFamilyWords}
           getWordNote={getWordNote}
           setWordNote={setWordNote}
           getWordMnemonic={getWordMnemonic}
@@ -179,6 +183,10 @@ function App() {
           onSaveAffixGroup={affixLibrary.saveGroup}
           getVideoId={getVideoId}
           getFamilyMeta={getFamilyMeta}
+          userFamilies={getUserFamilies()}
+          createUserFamily={createUserFamily}
+          removeUserFamily={removeUserFamily}
+          getUserFamilyWords={getUserFamilyWords}
         />
       </div>
     );
