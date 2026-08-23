@@ -388,7 +388,12 @@ export function FamilyNotePage({
       .map((name) => family.words.find((w) => w.word === name))
       .filter((w): w is WordEntry => Boolean(w));
     if (!words.length) return;
-    moveWordsToUserFamily(familyId, words, { textbook: entry.textbook, familyId: family.id });
+    // 从用户词根族转出时不传 from，保留词自带的原数据族归属（否则原族会重新显示该词，破坏一词一归）
+    moveWordsToUserFamily(
+      familyId,
+      words,
+      entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+    );
     // 在「我的词根」页内挂载到其他词根时，同时从当前族移除（保持一词一归）
     if (entry.textbook === 'user') {
       words.forEach((w) => removeWordFromUserFamily(entry.id, w.word));

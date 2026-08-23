@@ -228,7 +228,8 @@ export function useNotes() {
     (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => {
     setStore((prev) => {
       const existing = new Set((prev.userFamilyWords[familyId] ?? []).map((w) => w.word));
-      const added = words.filter((w) => !existing.has(w.word)).map((w) => ({ ...w, _from: from }));
+      // from 缺省（用户词根族间转移）时保留词自带的 _from，避免丢失原数据族归属
+      const added = words.filter((w) => !existing.has(w.word)).map((w) => (from ? { ...w, _from: from } : w));
       if (!added.length) return prev;
       return {
         ...prev,
