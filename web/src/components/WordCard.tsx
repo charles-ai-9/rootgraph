@@ -272,21 +272,20 @@ export function WordCard({
               </div>
             )}
 
-            {/* 有啥显示啥：只有有内容的区块才展示；空白统一收敛到「＋ 添加」入口 */}
-            {hasPersonalNote && (
-              <section className="word-card-notes personal-note-block">
-                <h4>我的笔记</h4>
-                <NoteEditor
-                  value={personalNote}
-                  placeholder={MD_PLACEHOLDER}
-                  onChange={onNote}
-                  minRows={2}
-                />
-              </section>
-            )}
+            {showEmpty ? (
+              /* 展开态：五个区块固定顺序铺开；输入时原地保存，
+                 不能随内容有无条件渲染（否则输入首字符即重挂载失焦） */
+              <div className="word-card-extra">
+                <section className="word-card-notes personal-note-block">
+                  <h4>我的笔记</h4>
+                  <NoteEditor
+                    value={personalNote}
+                    placeholder={MD_PLACEHOLDER}
+                    onChange={onNote}
+                    minRows={2}
+                  />
+                </section>
 
-            <div className="word-card-extra">
-              {hasMnemonic && (
                 <section className="word-card-notes editable-note-block">
                   <h4>推理链</h4>
                   <NoteEditor
@@ -296,9 +295,7 @@ export function WordCard({
                     minRows={2}
                   />
                 </section>
-              )}
 
-              {hasCollocations && (
                 <section className="word-card-notes editable-note-block">
                   <h4>搭配</h4>
                   <NoteEditor
@@ -308,9 +305,7 @@ export function WordCard({
                     minRows={2}
                   />
                 </section>
-              )}
 
-              {hasExamples && (
                 <section className="word-card-notes editable-note-block">
                   <h4>例句</h4>
                   <NoteEditor
@@ -323,9 +318,7 @@ export function WordCard({
                     minRows={2}
                   />
                 </section>
-              )}
 
-              {hasEtymology && (
                 <section className="word-card-notes editable-note-block">
                   <h4>词源</h4>
                   <NoteEditor
@@ -335,65 +328,90 @@ export function WordCard({
                     minRows={2}
                   />
                 </section>
-              )}
-            </div>
-
-            {/* 空白区块：极简 ＋ icon，点一下所有空白项按上下顺序铺开 */}
-            {hasAnyEmpty && !showEmpty && (
-              <button
-                type="button"
-                className="word-add-icon"
-                title="展开全部空白项"
-                aria-label="展开全部空白项"
-                onClick={() => setShowEmpty(true)}
-              >
-                <svg viewBox="0 0 16 16" width="12" height="12" aria-hidden="true">
-                  <path d="M8 3v10M3 8h10" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
-                </svg>
-              </button>
-            )}
-
-            {showEmpty && (
-              <div className="word-card-extra">
-                {!hasPersonalNote && (
+              </div>
+            ) : (
+              <>
+                {/* 有啥显示啥：只有有内容的区块才展示；空白统一收敛到极简 ＋ icon */}
+                {hasPersonalNote && (
                   <section className="word-card-notes personal-note-block">
                     <h4>我的笔记</h4>
-                    <NoteEditor value={personalNote} placeholder={MD_PLACEHOLDER} onChange={onNote} minRows={2} />
-                  </section>
-                )}
-                {!hasMnemonic && (
-                  <section className="word-card-notes editable-note-block">
-                    <h4>推理链</h4>
-                    <NoteEditor value={mnemonicNote} placeholder={MD_PLACEHOLDER} onChange={onMnemonicNote} minRows={2} />
-                  </section>
-                )}
-                {!hasCollocations && (
-                  <section className="word-card-notes editable-note-block">
-                    <h4>搭配</h4>
-                    <NoteEditor value={collocationsNote} placeholder={MD_PLACEHOLDER} onChange={onCollocationsNote} minRows={2} />
-                  </section>
-                )}
-                {!hasExamples && (
-                  <section className="word-card-notes editable-note-block">
-                    <h4>例句</h4>
                     <NoteEditor
-                      value=""
+                      value={personalNote}
                       placeholder={MD_PLACEHOLDER}
-                      onChange={(text) => {
-                        const lines = text.split('\n').filter((line) => line.trim());
-                        onExamplesNote(lines);
-                      }}
+                      onChange={onNote}
                       minRows={2}
                     />
                   </section>
                 )}
-                {!hasEtymology && (
-                  <section className="word-card-notes editable-note-block">
-                    <h4>词源</h4>
-                    <NoteEditor value={etymologyNote} placeholder={MD_PLACEHOLDER} onChange={onEtymologyNote} minRows={2} />
-                  </section>
+
+                <div className="word-card-extra">
+                  {hasMnemonic && (
+                    <section className="word-card-notes editable-note-block">
+                      <h4>推理链</h4>
+                      <NoteEditor
+                        value={mnemonicNote}
+                        placeholder={MD_PLACEHOLDER}
+                        onChange={onMnemonicNote}
+                        minRows={2}
+                      />
+                    </section>
+                  )}
+
+                  {hasCollocations && (
+                    <section className="word-card-notes editable-note-block">
+                      <h4>搭配</h4>
+                      <NoteEditor
+                        value={collocationsNote}
+                        placeholder={MD_PLACEHOLDER}
+                        onChange={onCollocationsNote}
+                        minRows={2}
+                      />
+                    </section>
+                  )}
+
+                  {hasExamples && (
+                    <section className="word-card-notes editable-note-block">
+                      <h4>例句</h4>
+                      <NoteEditor
+                        value={examplesNote.join('\n')}
+                        placeholder={MD_PLACEHOLDER}
+                        onChange={(text) => {
+                          const lines = text.split('\n').filter((line) => line.trim());
+                          onExamplesNote(lines);
+                        }}
+                        minRows={2}
+                      />
+                    </section>
+                  )}
+
+                  {hasEtymology && (
+                    <section className="word-card-notes editable-note-block">
+                      <h4>词源</h4>
+                      <NoteEditor
+                        value={etymologyNote}
+                        placeholder={MD_PLACEHOLDER}
+                        onChange={onEtymologyNote}
+                        minRows={2}
+                      />
+                    </section>
+                  )}
+                </div>
+
+                {/* 空白区块：极简 ＋ icon，点一下所有区块按上下顺序铺开 */}
+                {hasAnyEmpty && (
+                  <button
+                    type="button"
+                    className="word-add-icon"
+                    title="展开全部空白项"
+                    aria-label="展开全部空白项"
+                    onClick={() => setShowEmpty(true)}
+                  >
+                    <svg viewBox="0 0 16 16" width="12" height="12" aria-hidden="true">
+                      <path d="M8 3v10M3 8h10" fill="none" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" />
+                    </svg>
+                  </button>
                 )}
-              </div>
+              </>
             )}
           </div>
         )}
