@@ -12,6 +12,18 @@ export type ParsedRoute =
 
 let catalogCache: CatalogEntry[] | null = null;
 
+/**
+ * 用户自建词根族解析器（由 useNotes 注册）。
+ * 自建族存在 localStorage 而非静态 catalog，resolveRoute 需经此构造 entry。
+ */
+let userFamilyResolver: ((textbook: string, id: string) => CatalogEntry | undefined) | null = null;
+
+export function registerUserFamilyResolver(
+  resolver: (textbook: string, id: string) => CatalogEntry | undefined,
+): void {
+  userFamilyResolver = resolver;
+}
+
 export async function loadCatalog(): Promise<CatalogEntry[]> {
   if (catalogCache) return catalogCache;
   const res = await fetch('/data/catalog.json');
@@ -53,6 +65,12 @@ export function routeNeedsCatalog(route: ParsedRoute): boolean {
 export async function resolveRoute(route: ParsedRoute): Promise<AppView> {
   if (route.kind === 'home') return { kind: 'home' };
   if (route.kind === 'affix-library') return { kind: 'affix-library' };
+
+  // 用户自建词根族：不查 catalog，直接由注册的解析器从 localStorage 构造
+  if (route.textbook === 'user') {
+    const userEntry = userFamilyResolver?.(route.textbook, route.id);
+    return userEntry ? { kind: 'family', entry: userEntry, focusWord: route.focusWord } : { kind: 'home' };
+  }
 
   const catalog = await loadCatalog();
   const entry = catalog.find((e) => e.textbook === route.textbook && e.id === route.id);

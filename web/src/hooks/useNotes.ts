@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes, type WordEntry } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
+import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
 
 export interface WordFieldOverrides {
@@ -68,6 +69,32 @@ const empty: NotesStore = {
   userFamilies: {},
   userFamilyWords: {},
 };
+
+// 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
+registerUserFamilyResolver((textbook, id) => {
+  if (textbook !== 'user') return undefined;
+  try {
+    const raw = window.localStorage.getItem(STORAGE_KEY);
+    const uf = raw ? (JSON.parse(raw)?.userFamilies?.[id] as UserFamily | undefined) : undefined;
+    if (!uf) return undefined;
+    return {
+      id: uf.id,
+      file: '',
+      chapter: '我的',
+      chapterOrder: 999,
+      titleZh: uf.meaningZh,
+      semanticLabel: uf.meaningZh,
+      meaningEn: uf.meaningEn,
+      meaningZh: uf.meaningZh,
+      roots: uf.roots,
+      wordCount: 0,
+      source: 'user',
+      textbook: 'user',
+    };
+  } catch {
+    return undefined;
+  }
+});
 
 export function collocationsToText(items: string[]): string {
   return items.join('\n');
