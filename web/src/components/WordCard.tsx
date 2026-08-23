@@ -43,6 +43,8 @@ export interface WordCardProps {
   onMoveWord?: (word: WordEntry, targetId: string) => void;
   /** 从用户词根族移出（user 族页） */
   onRemoveFromFamily?: (word: string) => void;
+  /** 没有目标词根族时：输入词根名创建并挂入 */
+  onCreateAndMove?: (rootName: string, word: WordEntry) => void;
 }
 
 function AffixKindButton({
@@ -98,11 +100,14 @@ export function WordCard({
   moveTargets,
   onMoveWord,
   onRemoveFromFamily,
+  onCreateAndMove,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
   const [showEmpty, setShowEmpty] = useState(false);
   const [showMovePicker, setShowMovePicker] = useState(false);
+  const [moveCreateOpen, setMoveCreateOpen] = useState(false);
+  const [moveRootName, setMoveRootName] = useState('');
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -422,7 +427,7 @@ export function WordCard({
                   )}
                 </div>
 
-                {(moveTargets && moveTargets.length > 0 && onMoveWord) && (
+                {onMoveWord && (
                   <div className="word-move-row">
                     <span className="word-move-label">词根归属</span>
                     <button
@@ -437,7 +442,7 @@ export function WordCard({
                     </button>
                     {showMovePicker && (
                       <div className="word-move-picker">
-                        {moveTargets.map((t) => (
+                        {moveTargets && moveTargets.length > 0 && moveTargets.map((t) => (
                           <button
                             key={t.id}
                             type="button"
@@ -451,6 +456,57 @@ export function WordCard({
                             {t.label}
                           </button>
                         ))}
+                        {onCreateAndMove && (
+                          moveCreateOpen ? (
+                            <div
+                              className="word-move-create"
+                              onClick={(e) => e.stopPropagation()}
+                            >
+                              <input
+                                value={moveRootName}
+                                onChange={(e) => setMoveRootName(e.target.value)}
+                                onKeyDown={(e) => {
+                                  if (e.key === 'Enter') {
+                                    onCreateAndMove(moveRootName, word);
+                                    setMoveCreateOpen(false);
+                                    setMoveRootName('');
+                                    setShowMovePicker(false);
+                                  }
+                                }}
+                                placeholder="eco，econ 新建词根"
+                                autoFocus
+                              />
+                              <button
+                                type="button"
+                                className="word-move-btn"
+                                disabled={!moveRootName.trim()}
+                                onClick={(e) => {
+                                  e.stopPropagation();
+                                  onCreateAndMove(moveRootName, word);
+                                  setMoveCreateOpen(false);
+                                  setMoveRootName('');
+                                  setShowMovePicker(false);
+                                }}
+                              >
+                                创建并挂入
+                              </button>
+                            </div>
+                          ) : (
+                            <button
+                              type="button"
+                              className="word-move-option"
+                              onClick={(e) => {
+                                e.stopPropagation();
+                                setMoveCreateOpen(true);
+                              }}
+                            >
+                              ＋ 新建词根并挂入
+                            </button>
+                          )
+                        )}
+                        {(!moveTargets || moveTargets.length === 0) && !onCreateAndMove && (
+                          <span className="word-move-label">还没有我的词根，请到首页「＋ 新建词根」</span>
+                        )}
                       </div>
                     )}
                   </div>

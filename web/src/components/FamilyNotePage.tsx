@@ -44,6 +44,7 @@ interface FamilyNotePageProps {
   onSearchOpen: (entry: CatalogEntry, focusWord?: string) => void;
   onBack: () => void;
   userFamilies: Record<string, UserFamily>;
+  createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => void;
   moveWordToUserFamily: (familyId: string, word: WordEntry, from?: { textbook: string; familyId: string }) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
@@ -77,6 +78,7 @@ export function FamilyNotePage({
   onSearchOpen,
   onBack,
   userFamilies,
+  createUserFamily,
   moveWordToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
@@ -350,6 +352,18 @@ export function FamilyNotePage({
         entry.textbook === 'user'
           ? (word) => removeWordFromUserFamily(entry.id, word)
           : undefined,
+      onCreateAndMove: (rootName, word) => {
+        const roots = rootName
+          .split(/[，,、]/)
+          .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
+          .filter(Boolean);
+        if (!roots.length) return;
+        const id = roots[0];
+        if (!userFamilies[id]) {
+          createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+        }
+        moveWordToUserFamily(id, word, { textbook: entry.textbook, familyId: family!.id });
+      },
     };
   };
 

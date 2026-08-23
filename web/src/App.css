@@ -5071,6 +5071,35 @@ textarea {
   color: var(--accent);
 }
 
+.word-move-create {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  width: 100%;
+  margin-top: 6px;
+}
+
+.word-move-create input {
+  flex: 1;
+  min-width: 0;
+  box-sizing: border-box;
+  padding: 7px 10px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 0.85rem;
+  background: var(--bg, #fff);
+  color: var(--text);
+  outline: none;
+}
+
+.word-move-create input:focus {
+  border-color: var(--accent);
+}
+
+.word-move-create .word-move-btn {
+  flex-shrink: 0;
+}
+
 @media (hover: none) {
   .word-move-btn,
   .word-move-option,
