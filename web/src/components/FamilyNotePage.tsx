@@ -15,6 +15,7 @@ import { VariantMap } from './VariantMap';
 import { WordCard, type WordCardProps } from './WordCard';
 import { WordCardModal } from './WordCardModal';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
+import { BatchMoveModal } from './BatchMoveModal';
 
 interface FamilyNotePageProps {
   entry: CatalogEntry;
@@ -46,6 +47,7 @@ interface FamilyNotePageProps {
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => void;
   moveWordToUserFamily: (familyId: string, word: WordEntry, from?: { textbook: string; familyId: string }) => void;
+  moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
 }
@@ -80,6 +82,7 @@ export function FamilyNotePage({
   userFamilies,
   createUserFamily,
   moveWordToUserFamily,
+  moveWordsToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
 }: FamilyNotePageProps) {
@@ -99,6 +102,11 @@ export function FamilyNotePage({
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [reviewWord, setReviewWord] = useState<string | null>(null);
+  /** 批量挂载模式 */
+  const [batchMode, setBatchMode] = useState(false);
+  const [batchSelected, setBatchSelected] = useState<Set<string>>(new Set());
+  const [batchMoveOpen, setBatchMoveOpen] = useState(false);
+  const [batchToast, setBatchToast] = useState('');
   const [editingVideo, setEditingVideo] = useState(false);
   const [metaEditOpen, setMetaEditOpen] = useState(false);
   const [familyNoteEdit, setFamilyNoteEdit] = useState(false);
@@ -367,6 +375,61 @@ export function FamilyNotePage({
     };
   };
 
+  /** 当前面板可见的词（全选的范围） */
+  const batchVisibleWords = useMemo(() => {
+    if (!family) return [] as WordEntry[];
+    if (showVariantNav && activePanel !== OVERVIEW_PANEL) {
+      return groups.get(activePanel) ?? [];
+    }
+    return [...groups.values()].flat();
+  }, [family, showVariantNav, activePanel, groups]);
+
+  const toggleBatchSelect = (word: string) => {
+    setBatchSelected((prev) => {
+      const next = new Set(prev);
+      if (next.has(word)) next.delete(word);
+      else next.add(word);
+      return next;
+    });
+  };
+
+  const toggleSelectAll = () => {
+    setBatchSelected((prev) => {
+      const all = batchVisibleWords.map((w) => w.word);
+      const allSelected = all.length > 0 && all.every((w) => prev.has(w));
+      return allSelected ? new Set<string>() : new Set(all);
+    });
+  };
+
+  const executeBatchMove = (familyId: string) => {
+    if (!family) return;
+    const words = [...batchSelected]
+      .map((name) => family.words.find((w) => w.word === name))
+      .filter((w): w is WordEntry => Boolean(w));
+    if (!words.length) return;
+    moveWordsToUserFamily(familyId, words, { textbook: entry.textbook, familyId: family.id });
+    // 在「我的词根」页内挂载到其他词根时，同时从当前族移除（保持一词一归）
+    if (entry.textbook === 'user') {
+      words.forEach((w) => removeWordFromUserFamily(entry.id, w.word));
+    }
+    const target = userFamilies[familyId];
+    const label = target ? target.roots.join(' · ') : familyId;
+    setBatchToast(`已挂载 ${words.length} 词到 ${label}`);
+    setBatchMoveOpen(false);
+    setBatchSelected(new Set());
+    setBatchMode(false);
+    window.setTimeout(() => setBatchToast(''), 2600);
+  };
+
+  const batchCreateAndMove = (roots: string[]) => {
+    if (!roots.length) return;
+    const id = roots[0];
+    if (!userFamilies[id]) {
+      createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+    }
+    executeBatchMove(id);
+  };
+
   const renderWordCards = (words: WordEntry[], panelKey: string) => (
     <div className="word-list">
       {words.map((w, index) => (
@@ -375,6 +438,9 @@ export function FamilyNotePage({
           {...wordCardPropsFor(w, index)}
           defaultCollapsed={focusedWord !== w.word}
           highlighted={focusedWord === w.word}
+          batchMode={batchMode}
+          selected={batchSelected.has(w.word)}
+          onToggleSelect={toggleBatchSelect}
         />
       ))}
     </div>
@@ -470,6 +536,17 @@ export function FamilyNotePage({
               </div>
             )}
           </div>
+          <button
+            type="button"
+            className={`note-topbar-batch-btn ${batchMode ? 'is-active' : ''}`}
+            onClick={() => {
+              setBatchMode((v) => !v);
+              setBatchSelected(new Set());
+            }}
+            title="批量选择单词，挂载到我的词根"
+          >
+            {batchMode ? '完成' : '☑ 批量'}
+          </button>
           <button type="button" className="note-topbar-affix-btn" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
@@ -702,6 +779,49 @@ export function FamilyNotePage({
           />
         );
       })()}
+
+      {batchMode && (
+        <div className="batch-bar">
+          <div className="batch-bar-inner">
+            <span className="batch-bar-count">
+              已选 <b>{batchSelected.size}</b> 词
+            </span>
+            <button
+              type="button"
+              className="batch-bar-btn"
+              onClick={toggleSelectAll}
+              disabled={batchVisibleWords.length === 0}
+            >
+              {batchVisibleWords.length > 0 && batchVisibleWords.every((w) => batchSelected.has(w.word))
+                ? '取消全选'
+                : '全选'}
+            </button>
+            <button
+              type="button"
+              className="batch-bar-btn primary"
+              disabled={batchSelected.size === 0}
+              onClick={() => setBatchMoveOpen(true)}
+            >
+              挂载到词根
+            </button>
+          </div>
+        </div>
+      )}
+
+      {batchMoveOpen && (
+        <BatchMoveModal
+          count={batchSelected.size}
+          targets={Object.values(userFamilies)}
+          counts={Object.fromEntries(
+            Object.keys(userFamilies).map((id) => [id, getUserFamilyWords(id).length]),
+          )}
+          onClose={() => setBatchMoveOpen(false)}
+          onMove={executeBatchMove}
+          onCreateAndMove={batchCreateAndMove}
+        />
+      )}
+
+      {batchToast && <div className="family-toast" role="status">{batchToast}</div>}
 
       {affixOverlayOpen && (
         <AffixLibraryOverlay

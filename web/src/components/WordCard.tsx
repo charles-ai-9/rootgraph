@@ -45,6 +45,10 @@ export interface WordCardProps {
   onRemoveFromFamily?: (word: string) => void;
   /** 没有目标词根族时：输入词根名创建并挂入 */
   onCreateAndMove?: (rootName: string, word: WordEntry) => void;
+  /** 批量挂载模式：头部显示复选框，隐藏单项移动入口 */
+  batchMode?: boolean;
+  selected?: boolean;
+  onToggleSelect?: (word: string) => void;
 }
 
 function AffixKindButton({
@@ -101,6 +105,9 @@ export function WordCard({
   onMoveWord,
   onRemoveFromFamily,
   onCreateAndMove,
+  batchMode,
+  selected,
+  onToggleSelect,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
@@ -180,6 +187,29 @@ export function WordCard({
           }}
           title={expanded ? '点击收起' : '点击展开'}
         >
+          {batchMode && (
+            <span
+              className={`word-check ${selected ? 'is-on' : ''}`}
+              role="checkbox"
+              aria-checked={Boolean(selected)}
+              tabIndex={0}
+              onClick={(e) => {
+                e.stopPropagation();
+                onToggleSelect?.(word.word);
+                haptic(8);
+              }}
+              onKeyDown={(e) => {
+                if (e.key === 'Enter' || e.key === ' ') {
+                  e.preventDefault();
+                  e.stopPropagation();
+                  onToggleSelect?.(word.word);
+                }
+              }}
+              title={selected ? '取消选中' : '选中'}
+            >
+              {selected ? '✓' : ''}
+            </span>
+          )}
           <span className={`word-card-toggle ${expanded ? 'open' : ''}`}>{expanded ? '▾' : '▸'}</span>
 
           {/* 顺序：正常单词（点击=复制+展开）→ 🔊 → 拆分高亮（点击=朗读+展开）→ 音标/词性/释义 → 前缀/后缀（最右） */}
@@ -427,7 +457,7 @@ export function WordCard({
                   )}
                 </div>
 
-                {onMoveWord && (
+                {batchMode ? null : onMoveWord && (
                   <div className="word-move-row">
                     <span className="word-move-label">词根归属</span>
                     <button
@@ -512,7 +542,7 @@ export function WordCard({
                   </div>
                 )}
 
-                {onRemoveFromFamily && (
+                {batchMode ? null : onRemoveFromFamily && (
                   <div className="word-move-row">
                     <span className="word-move-label">词根归属</span>
                     <button

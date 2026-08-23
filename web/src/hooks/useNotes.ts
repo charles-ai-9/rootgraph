@@ -237,6 +237,23 @@ export function useNotes() {
     });
   }, []);
 
+  /** 批量把词挂入用户词根族（词条快照 + 来源标记，从原族排除显示） */
+  const moveWordsToUserFamily = useCallback(
+    (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => {
+    setStore((prev) => {
+      const existing = new Set((prev.userFamilyWords[familyId] ?? []).map((w) => w.word));
+      const added = words.filter((w) => !existing.has(w.word)).map((w) => ({ ...w, _from: from }));
+      if (!added.length) return prev;
+      return {
+        ...prev,
+        userFamilyWords: {
+          ...prev.userFamilyWords,
+          [familyId]: [...(prev.userFamilyWords[familyId] ?? []), ...added],
+        },
+      };
+    });
+  }, []);
+
   const removeWordFromUserFamily = useCallback((familyId: string, word: string) => {
     setStore((prev) => {
       const list = (prev.userFamilyWords[familyId] ?? []).filter((w) => w.word !== word);
@@ -414,6 +431,7 @@ export function useNotes() {
     createUserFamily,
     removeUserFamily,
     moveWordToUserFamily,
+    moveWordsToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
     getWordNote,
