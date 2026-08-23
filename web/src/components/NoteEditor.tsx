@@ -20,14 +20,18 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
     if (editing) areaRef.current?.focus();
   }, [editing]);
 
-  // 编辑框高度自适应内容：进入编辑时与显示内容等高，输入时自动长高
+  // 编辑框高度：进入编辑时按当前内容一次性设定，输入过程中保持固定（内部滚动）。
+  // 之前随输入自动增高，在部分移动浏览器（如 MIUI 浏览器）会因布局变化自动滚动焦点元素，
+  // 导致"每次输入页面就滑动"；固定高度后输入期间布局零变化。
   useEffect(() => {
     if (!editing) return;
     const ta = areaRef.current;
     if (!ta) return;
     ta.style.height = 'auto';
     ta.style.height = `${ta.scrollHeight}px`;
-  }, [editing, value]);
+    // 仅进入编辑时设定一次；不依赖 value，输入不再改变高度
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [editing]);
 
   const finish = () => setEditing(false);
 
