@@ -4826,33 +4826,6 @@ textarea {
   }
 }
 
-/* ══ 空内容折叠行（点击展开编辑） ══ */
-.empty-note-row {
-  display: flex;
-  align-items: center;
-  gap: 6px;
-  width: 100%;
-  padding: 7px 2px;
-  border: none;
-  border-bottom: 1px dashed var(--border-light);
-  background: none;
-  color: var(--text-light);
-  font-size: 0.82rem;
-  text-align: left;
-  cursor: pointer;
-  transition: color 0.12s;
-}
-
-.empty-note-row:hover {
-  color: var(--accent);
-  border-bottom-color: var(--accent);
-}
-
-.empty-note-plus {
-  font-size: 0.78rem;
-  color: var(--accent);
-  font-weight: 600;
-}
 
 /* ══ 复习弹窗朗读按钮 ══ */
 .word-review-speak {
@@ -4892,28 +4865,27 @@ textarea {
   }
 }
 
-/* ══ 词卡「＋ 添加」统一入口 ══ */
-.word-add-btn {
-  display: block;
-  margin: 4px 14px 12px;
-  padding: 7px 10px;
-  border: 1px dashed var(--border);
-  border-radius: 6px;
+/* ══ 极简 ＋ icon：点一下展开全部空白项 ══ */
+.word-add-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  margin: 2px 0 8px 14px;
+  padding: 0;
+  border: 1px solid var(--border-light);
+  border-radius: 50%;
   background: none;
   color: var(--text-light);
-  font-size: 0.8rem;
   cursor: pointer;
   transition: color 0.12s, border-color 0.12s, background 0.12s;
 }
 
-.word-add-btn:hover {
+.word-add-icon:hover {
   color: var(--accent);
   border-color: var(--accent);
   background: var(--accent-soft);
-}
-
-.word-card-add-row {
-  padding: 2px 14px 6px;
 }
 
 /* ══ 移动端：弹窗关闭按钮移到左侧（左撇子友好） ══ */

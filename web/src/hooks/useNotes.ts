@@ -7,6 +7,7 @@ export interface WordFieldOverrides {
   mnemonic?: string;
   collocations?: string;
   examples?: string; // 用户自定义例句（JSON 字符串数组）
+  etymology?: string; // 用户自定义词源（覆盖数据层词源）
 }
 
 /** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
@@ -262,6 +263,24 @@ export function useNotes() {
     }));
   }, []);
 
+  const getWordEtymology = useCallback(
+    (key: string, seed = '') => {
+      const hit = store.wordFields[key]?.etymology;
+      return hit != null ? hit : (seed ?? '');
+    },
+    [store],
+  );
+
+  const setWordEtymology = useCallback((key: string, text: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], etymology: text },
+      },
+    }));
+  }, []);
+
   /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2）。
    *  安全：迁移前先把整个 store 快照到 rootgraph-notes-backup-auto-*，即使迁移异常也可恢复。 */
   const migrateKeys = useCallback((renames: Record<string, string>) => {
@@ -317,6 +336,8 @@ export function useNotes() {
     setWordCollocations,
     getWordExamples,
     setWordExamples,
+    getWordEtymology,
+    setWordEtymology,
     migrateKeys,
   };
 }
