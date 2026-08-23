@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { AffixItem, AffixKind, AffixNoteData, CatalogEntry, RootFamily, WordAffixKind, WordEntry, WordAffixNotes } from '../types';
 import { cleanRoots, displaySemantic, displayRoots, normalizeRootForm, wordKey } from '../types';
-import { familyStorageKey, textbookLabel } from '../catalog';
+import { familyStorageKey } from '../catalog';
 import { groupWordsByRoot } from '../utils/family';
 import type { FamilyMeta, UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
@@ -108,7 +108,8 @@ export function FamilyNotePage({
   const [editingVideo, setEditingVideo] = useState(false);
   const [metaEditOpen, setMetaEditOpen] = useState(false);
   const [familyNoteEdit, setFamilyNoteEdit] = useState(false);
-  const [metaRootsText, setMetaRootsText] = useState('');
+  const [metaRootsList, setMetaRootsList] = useState<string[]>([]);
+  const [newRootText, setNewRootText] = useState('');
   const [metaSemanticText, setMetaSemanticText] = useState('');
   const [metaMeaningZhText, setMetaMeaningZhText] = useState('');
   const [metaMeaningEnText, setMetaMeaningEnText] = useState('');
@@ -469,11 +470,22 @@ export function FamilyNotePage({
   const familyStats = statsForKeys(family.words.map((w) => wordKey(entry.textbook, family.id, w.word)));
 
   const openMetaEditor = () => {
-    setMetaRootsText((effectiveRoots ?? []).join('，'));
+    setMetaRootsList([...(effectiveRoots ?? [])]);
+    setNewRootText('');
     setMetaSemanticText(familyMeta?.semantic ?? family?.semanticLabel ?? '');
     setMetaMeaningZhText(familyMeta?.meaningZh ?? family?.meaningZh ?? '');
     setMetaMeaningEnText(familyMeta?.meaningEn ?? family?.meaningEn ?? '');
     setMetaEditOpen(true);
+  };
+
+  /** chip 编辑器：把输入框内容追加为新词根变体（去重，保留教材写法） */
+  const commitNewRoot = () => {
+    const v = newRootText.trim();
+    if (!v) return;
+    if (!metaRootsList.some((r) => r.toLowerCase() === v.toLowerCase())) {
+      setMetaRootsList((prev) => [...prev, v]);
+    }
+    setNewRootText('');
   };
 
   return (
@@ -537,8 +549,6 @@ export function FamilyNotePage({
             词根词缀库
           </button>
           <div className="note-topbar-meta">
-            <span className="badge">{textbookLabel(entry.textbook)}</span>
-            <span className="badge muted-badge">第{entry.chapter}章</span>
             <span className="badge muted-badge">{family.words.length} 词</span>
             {editingVideo ? (
               <input
@@ -604,14 +614,41 @@ export function FamilyNotePage({
         {metaEditOpen && (
           <div className="family-meta-editor">
             <div className="family-meta-field">
-              <label htmlFor="meta-roots">词根变体（逗号分隔，保留教材写法如 (s)pend）</label>
-              <input
-                id="meta-roots"
-                className="family-meta-input"
-                value={metaRootsText}
-                onChange={(e) => setMetaRootsText(e.target.value)}
-                placeholder="pens，(s)pend，(s)pon"
-              />
+              <label htmlFor="meta-new-root">词根变体（点 × 移除，输入后回车添加）</label>
+              <div className="meta-root-chips">
+                {metaRootsList.map((r) => (
+                  <span key={r} className="meta-root-chip">
+                    {r}
+                    <button
+                      type="button"
+                      className="meta-root-chip-del"
+                      title={`移除 ${r}`}
+                      aria-label={`移除词根 ${r}`}
+                      onClick={() => setMetaRootsList((prev) => prev.filter((x) => x !== r))}
+                    >
+                      ×
+                    </button>
+                  </span>
+                ))}
+                <input
+                  id="meta-new-root"
+                  className="meta-root-add-input"
+                  value={newRootText}
+                  onChange={(e) => setNewRootText(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      e.preventDefault();
+                      commitNewRoot();
+                    }
+                    // 退格删空输入框时，退回移除最后一个 chip
+                    if (e.key === 'Backspace' && !newRootText) {
+                      setMetaRootsList((prev) => prev.slice(0, -1));
+                    }
+                  }}
+                  onBlur={() => { if (newRootText.trim()) commitNewRoot(); }}
+                  placeholder="＋ 新增词根"
+                />
+              </div>
             </div>
             <div className="family-meta-field">
               <label htmlFor="meta-meaning-zh">中文释义</label>
@@ -648,7 +685,12 @@ export function FamilyNotePage({
                 type="button"
                 className="family-meta-save"
                 onClick={() => {
-                  const roots = metaRootsText.split(/[，,、]/).map((s) => s.trim()).filter(Boolean);
+                  // 输入框里尚未回车的词根也一并收录，避免直接点保存时丢失
+                  const pending = newRootText.trim();
+                  const roots =
+                    pending && !metaRootsList.some((r) => r.toLowerCase() === pending.toLowerCase())
+                      ? [...metaRootsList, pending]
+                      : metaRootsList;
                   const meta: FamilyMeta = {};
                   if (roots.length) meta.roots = roots;
                   if (metaMeaningZhText.trim()) meta.meaningZh = metaMeaningZhText.trim();

@@ -101,6 +101,8 @@ export function WordCard({
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
   const [showEmpty, setShowEmpty] = useState(false);
+  /** 正在编辑的区块标识：编辑中即使内容被清空，区块也不卸载（输入框原地保留） */
+  const [editingBlock, setEditingBlock] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
   const [prefixOpen, setPrefixOpen] = useState(false);
   const [suffixOpen, setSuffixOpen] = useState(false);
@@ -378,44 +380,47 @@ export function WordCard({
             ) : (
               <>
                 {/* 有啥显示啥：只有有内容的区块才展示；空白统一收敛到极简 ＋ icon */}
-                {hasPersonalNote && (
+                {(hasPersonalNote || editingBlock === 'note') && (
                   <section className="word-card-notes personal-note-block">
                     <h4>我的笔记</h4>
                     <NoteEditor
                       value={personalNote}
                       placeholder={MD_PLACEHOLDER}
                       onChange={onNote}
+                      onEditingChange={(e) => setEditingBlock(e ? 'note' : null)}
                       minRows={2}
                     />
                   </section>
                 )}
 
                 <div className="word-card-extra">
-                  {hasMnemonic && (
+                  {(hasMnemonic || editingBlock === 'mnemonic') && (
                     <section className="word-card-notes editable-note-block">
                       <h4>推理链</h4>
                       <NoteEditor
                         value={mnemonicNote}
                         placeholder={MD_PLACEHOLDER}
                         onChange={onMnemonicNote}
+                        onEditingChange={(e) => setEditingBlock(e ? 'mnemonic' : null)}
                         minRows={2}
                       />
                     </section>
                   )}
 
-                  {hasCollocations && (
+                  {(hasCollocations || editingBlock === 'collocations') && (
                     <section className="word-card-notes editable-note-block">
                       <h4>搭配</h4>
                       <NoteEditor
                         value={collocationsNote}
                         placeholder={MD_PLACEHOLDER}
                         onChange={onCollocationsNote}
+                        onEditingChange={(e) => setEditingBlock(e ? 'collocations' : null)}
                         minRows={2}
                       />
                     </section>
                   )}
 
-                  {hasExamples && (
+                  {(hasExamples || editingBlock === 'examples') && (
                     <section className="word-card-notes editable-note-block">
                       <h4>例句</h4>
                       <NoteEditor
@@ -425,26 +430,28 @@ export function WordCard({
                           const lines = text.split('\n').filter((line) => line.trim());
                           onExamplesNote(lines);
                         }}
+                        onEditingChange={(e) => setEditingBlock(e ? 'examples' : null)}
                         minRows={2}
                       />
                     </section>
                   )}
 
-                  {hasEtymology && (
+                  {(hasEtymology || editingBlock === 'etymology') && (
                     <section className="word-card-notes editable-note-block">
                       <h4>词源</h4>
                       <NoteEditor
                         value={etymologyNote}
                         placeholder={MD_PLACEHOLDER}
                         onChange={onEtymologyNote}
+                        onEditingChange={(e) => setEditingBlock(e ? 'etymology' : null)}
                         minRows={2}
                       />
                     </section>
                   )}
                 </div>
 
-                {/* 空白区块：极简 ＋ icon，点一下所有区块按上下顺序铺开 */}
-                {hasAnyEmpty && (
+                {/* 空白区块：极简 ＋ icon，点一下所有区块按上下顺序铺开（编辑中不出现，避免布局抽动） */}
+                {hasAnyEmpty && !editingBlock && (
                   <button
                     type="button"
                     className="word-add-icon"

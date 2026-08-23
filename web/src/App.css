@@ -400,6 +400,62 @@ textarea {
   font-size: 0.88rem;
 }
 
+/* ══ 词根变体 chip 编辑器 ══ */
+.meta-root-chips {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  padding: 6px 8px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  background: var(--surface);
+}
+
+.meta-root-chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  padding: 3px 6px 3px 10px;
+  border-radius: 999px;
+  background: var(--accent-soft);
+  color: var(--text);
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.meta-root-chip-del {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 16px;
+  height: 16px;
+  padding: 0;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.meta-root-chip-del:hover {
+  color: #fff;
+  background: var(--text-muted);
+}
+
+.meta-root-add-input {
+  flex: 1;
+  min-width: 90px;
+  padding: 3px 4px;
+  border: none;
+  background: none;
+  color: var(--text);
+  font-size: 0.88rem;
+  outline: none;
+}
+
 .family-meta-editor-actions {
   display: flex;
   gap: 8px;
@@ -611,15 +667,15 @@ textarea {
 .detail-search-wrap {
   position: relative;
   flex: 1;
-  max-width: 280px;
+  max-width: 480px;
 }
 
 .detail-search-input {
   width: 100%;
-  padding: 6px 12px;
+  padding: 8px 14px;
   border: 1px solid var(--border);
   border-radius: 8px;
-  font-size: 0.88rem;
+  font-size: 0.95rem;
   background: var(--surface);
   outline: none;
   transition: border-color 0.15s;

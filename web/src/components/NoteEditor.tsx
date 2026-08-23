@@ -10,11 +10,23 @@ interface NoteEditorProps {
   renderPreview?: (value: string) => ReactNode;
   /** 初始直接进入编辑态（空内容展开编辑用） */
   autoEdit?: boolean;
+  /** 编辑态变化回调（父级用于“编辑中不随内容清空而卸载区块”） */
+  onEditingChange?: (editing: boolean) => void;
 }
 
-export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview, autoEdit = false }: NoteEditorProps) {
+export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview, autoEdit = false, onEditingChange }: NoteEditorProps) {
   const [editing, setEditing] = useState(autoEdit);
   const areaRef = useRef<HTMLTextAreaElement>(null);
+
+  const startEdit = () => {
+    setEditing(true);
+    onEditingChange?.(true);
+  };
+
+  const finish = () => {
+    setEditing(false);
+    onEditingChange?.(false);
+  };
 
   useEffect(() => {
     if (editing) areaRef.current?.focus();
@@ -32,8 +44,6 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
     // 仅进入编辑时设定一次；不依赖 value，输入不再改变高度
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [editing]);
-
-  const finish = () => setEditing(false);
 
   if (editing) {
     return (
@@ -61,9 +71,9 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
       className={`note-editable ${value ? 'has-content' : 'is-empty'}`}
       role="button"
       tabIndex={0}
-      onClick={() => setEditing(true)}
+      onClick={startEdit}
       onKeyDown={(e) => {
-        if (e.key === 'Enter' || e.key === ' ') setEditing(true);
+        if (e.key === 'Enter' || e.key === ' ') startEdit();
       }}
     >
       {value ? (
