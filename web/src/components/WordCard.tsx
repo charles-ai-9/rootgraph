@@ -118,15 +118,12 @@ export function WordCard({
   const hasExamples = examplesNote.length > 0;
   const hasEtymology = Boolean(etymologyNote.trim());
   const hasPersonalNote = Boolean(personalNote.trim());
-  const hasAffixNote = Boolean(affixNotes.prefix.libraryRef || affixNotes.suffix.libraryRef
-    || affixNotes.prefix.current.trim() || affixNotes.suffix.current.trim());
   const hasExtra = Boolean(
     hasMnemonic
       || hasCollocations
       || hasExamples
       || hasEtymology,
   );
-  const hasAnyNote = hasPersonalNote || hasExtra || hasAffixNote;
   const hasAnyEmpty = !hasPersonalNote || !hasMnemonic || !hasCollocations || !hasExamples || !hasEtymology;
 
   const handleCopyWord = async (e: React.MouseEvent) => {
@@ -300,10 +297,6 @@ export function WordCard({
               onOpen={() => setSuffixOpen(true)}
             />
           </div>
-
-          {hasAnyNote && (
-            <span className="word-has-note-dot" title="有笔记/词缀记录">●</span>
-          )}
 
           {copied && <span className="copy-hint">已复制</span>}
         </header>

@@ -1396,13 +1396,6 @@ textarea {
   display: none;
 }
 
-.word-has-note-dot {
-  flex-shrink: 0;
-  font-size: 0.6rem;
-  color: var(--amber);
-  line-height: 1;
-}
-
 .word-head-actions {
   display: flex;
   align-items: center;
