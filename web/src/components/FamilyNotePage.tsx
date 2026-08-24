@@ -1,7 +1,7 @@
 import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import type { AffixItem, AffixKind, AffixNoteData, CatalogEntry, RootFamily, WordAffixKind, WordEntry, WordAffixNotes } from '../types';
 import { cleanRoots, displaySemantic, displayRoots, normalizeRootForm, wordKey } from '../types';
-import { familyStorageKey } from '../catalog';
+import { familyStorageKey, textbookLabel } from '../catalog';
 import { groupWordsByRoot } from '../utils/family';
 import type { FamilyMeta, UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
@@ -17,6 +17,7 @@ import { WordCard, type WordCardProps } from './WordCard';
 import { WordCardModal } from './WordCardModal';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import { BatchMoveModal } from './BatchMoveModal';
+import { AttributionModal } from './AttributionModal';
 
 interface FamilyNotePageProps {
   entry: CatalogEntry;
@@ -106,6 +107,8 @@ export function FamilyNotePage({
   const [batchSelected, setBatchSelected] = useState<Set<string>>(new Set());
   const [batchMoveOpen, setBatchMoveOpen] = useState(false);
   const [batchToast, setBatchToast] = useState('');
+  /** 单点归属修正面板（归入词根…） */
+  const [attributionWord, setAttributionWord] = useState<WordEntry | null>(null);
   const [editingVideo, setEditingVideo] = useState(false);
   const [metaEditOpen, setMetaEditOpen] = useState(false);
   const [familyNoteEdit, setFamilyNoteEdit] = useState(false);
@@ -359,6 +362,15 @@ export function FamilyNotePage({
       onEtymologyNote: (text) => setWordEtymology(wKey, text),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
       familyFrom: (w as UserFamilyWord)._from,
+      onAttribution: (word) => setAttributionWord(word),
+      onMoveBack:
+        entry.textbook === 'user'
+          ? (word) => {
+              removeWordFromUserFamily(entry.id, word);
+              setBatchToast(`已移回原族 ${word}`);
+              window.setTimeout(() => setBatchToast(''), 2600);
+            }
+          : undefined,
     };
   };
 
@@ -910,6 +922,49 @@ export function FamilyNotePage({
           onMoveViaCatalog={batchMoveViaCatalog}
         />
       )}
+
+      {attributionWord && family && (() => {
+        const w = attributionWord;
+        const fromLabel =
+          entry.textbook === 'user'
+            ? '我的词根'
+            : `${textbookLabel(entry.textbook)} · ${(effectiveRoots ?? []).join('/') || family.id} 族`;
+        return (
+          <AttributionModal
+            word={w}
+            fromLabel={fromLabel}
+            catalog={catalog}
+            userFamilies={userFamilies}
+            getUserFamilyWords={getUserFamilyWords}
+            onClose={() => setAttributionWord(null)}
+            onMove={(familyId) => {
+              moveWordsToUserFamily(
+                familyId,
+                [w],
+                entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+              );
+              if (entry.textbook === 'user') removeWordFromUserFamily(entry.id, w.word);
+              const label = userFamilies[familyId]?.roots.join(' · ') ?? familyId;
+              setBatchToast(`已归入 ${label}`);
+              setAttributionWord(null);
+              window.setTimeout(() => setBatchToast(''), 2600);
+            }}
+            onCreateAndMove={(roots) => {
+              const id = roots[0];
+              if (!userFamilies[id]) createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+              moveWordsToUserFamily(
+                id,
+                [w],
+                entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+              );
+              if (entry.textbook === 'user') removeWordFromUserFamily(entry.id, w.word);
+              setBatchToast(`已创建并归入 ${roots.join(' · ')}`);
+              setAttributionWord(null);
+              window.setTimeout(() => setBatchToast(''), 2600);
+            }}
+          />
+        );
+      })()}
 
       {batchToast && <div className="family-toast" role="status">{batchToast}</div>}
 

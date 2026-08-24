@@ -5,6 +5,8 @@ import type { UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import { loadWordIndex, searchWords } from '../hooks/useWordIndex';
 import { textbookLabel } from '../catalog';
 import { speakWord } from '../utils/speech';
+import { AttributionModal } from './AttributionModal';
+import type { WordEntry } from '../types';
 
 interface WordSearchResultsProps {
   query: string;
@@ -15,6 +17,8 @@ interface WordSearchResultsProps {
   onOpenWord: (entry: CatalogEntry, word: string) => void;
   /** 打开我的词根族（挂载词直达） */
   onOpenUserFamily: (f: UserFamily) => void;
+  moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
+  createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => void;
 }
 
 export function WordSearchResults({
@@ -25,10 +29,15 @@ export function WordSearchResults({
   getUserFamilyWords,
   onOpenWord,
   onOpenUserFamily,
+  moveWordsToUserFamily,
+  createUserFamily,
 }: WordSearchResultsProps) {
   const [index, setIndex] = useState<IndexedWord[]>([]);
   const [ready, setReady] = useState(false);
   const [error, setError] = useState(false);
+  /** 正在修正归属的搜索结果词条 */
+  const [attributionHit, setAttributionHit] = useState<IndexedWord | null>(null);
+  const [toast, setToast] = useState('');
 
   useEffect(() => {
     loadWordIndex()
@@ -103,6 +112,18 @@ export function WordSearchResults({
               >
                 🔊
               </button>
+              <button
+                type="button"
+                className="word-attribution-btn"
+                title="归入正确词根"
+                aria-label={`归入词根 ${hit.word}`}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  setAttributionHit(hit);
+                }}
+              >
+                归入词根
+              </button>
               {hit.phonetic && <span className="word-search-hit-phonetic">/{hit.phonetic}/</span>}
               <span className="word-search-hit-meta">
                 {myFamily ? (
@@ -126,6 +147,50 @@ export function WordSearchResults({
           );
         })}
       </div>
+
+      {attributionHit && (() => {
+        const hit = attributionHit;
+        const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
+        const fromLabel = `${textbookLabel(hit.textbook)} · ${entry?.roots?.join('/') ?? hit.familyId} 族`;
+        const wordEntry: WordEntry = {
+          word: hit.word,
+          phonetic: hit.phonetic,
+          pos: hit.pos,
+          definition: hit.definition,
+          mnemonic: hit.mnemonic,
+          frequency: hit.frequency,
+          collocations: [],
+          examples: [],
+        };
+        const from = { textbook: hit.textbook, familyId: hit.familyId };
+        return (
+          <AttributionModal
+            word={wordEntry}
+            fromLabel={fromLabel}
+            catalog={catalog}
+            userFamilies={userFamilies}
+            getUserFamilyWords={getUserFamilyWords}
+            onClose={() => setAttributionHit(null)}
+            onMove={(familyId) => {
+              moveWordsToUserFamily(familyId, [wordEntry], from);
+              const label = userFamilies[familyId]?.roots.join(' · ') ?? familyId;
+              setToast(`已归入 ${label}`);
+              setAttributionHit(null);
+              window.setTimeout(() => setToast(''), 2600);
+            }}
+            onCreateAndMove={(roots) => {
+              const id = roots[0];
+              if (!userFamilies[id]) createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+              moveWordsToUserFamily(id, [wordEntry], from);
+              setToast(`已创建并归入 ${roots.join(' · ')}`);
+              setAttributionHit(null);
+              window.setTimeout(() => setToast(''), 2600);
+            }}
+          />
+        );
+      })()}
+
+      {toast && <div className="family-toast" role="status">{toast}</div>}
     </section>
   );
 }

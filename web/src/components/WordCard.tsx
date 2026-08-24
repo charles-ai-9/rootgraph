@@ -43,6 +43,10 @@ export interface WordCardProps {
   batchMode?: boolean;
   /** 词条来源（用户词根族内展示：来自哪个教材/族） */
   familyFrom?: { textbook: string; familyId: string };
+  /** 打开归属修正面板（单点：归入正确词根） */
+  onAttribution?: (word: WordEntry) => void;
+  /** 从我的词根移回原族（单词级可逆） */
+  onMoveBack?: (word: string) => void;
   selected?: boolean;
   onToggleSelect?: (word: string) => void;
 }
@@ -101,6 +105,8 @@ export function WordCard({
   selected,
   onToggleSelect,
   familyFrom,
+  onAttribution,
+  onMoveBack,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
@@ -301,11 +307,37 @@ export function WordCard({
 
         {expanded && (
           <div className="word-card-body">
-            {familyFrom && (
-              <div className="word-from-hint">
-                来自 {familyFrom.textbook === 'user' ? '我的词根' : `${textbookLabel(familyFrom.textbook)} · ${familyFrom.familyId} 族`}
-              </div>
-            )}
+            <div className="word-attribution-row">
+              {familyFrom && (
+                <span className="word-from-hint">
+                  来自 {familyFrom.textbook === 'user' ? '我的词根' : `${textbookLabel(familyFrom.textbook)} · ${familyFrom.familyId} 族`}
+                </span>
+              )}
+              {onAttribution && (
+                <button
+                  type="button"
+                  className="word-attribution-btn"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onAttribution(word);
+                  }}
+                >
+                  归入词根…
+                </button>
+              )}
+              {onMoveBack && (
+                <button
+                  type="button"
+                  className="word-attribution-btn is-moveback"
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    onMoveBack(word.word);
+                  }}
+                >
+                  移回原族
+                </button>
+              )}
+            </div>
 
             {(word.pos || word.definition) && (
               <div className="word-card-def">

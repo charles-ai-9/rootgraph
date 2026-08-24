@@ -5549,3 +5549,250 @@ textarea {
     min-height: 36px;
   }
 }
+
+/* ══ 归属修正面板（归入词根） ══ */
+.attribution-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 210;
+  background: rgba(15, 23, 42, 0.35);
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  animation: rootgraph-backdrop-in 0.18s ease-out;
+}
+
+.attribution-modal {
+  width: min(520px, 100vw);
+  max-height: 80vh;
+  display: flex;
+  flex-direction: column;
+  background: #fff;
+  border-radius: 16px 16px 0 0;
+  box-shadow: 0 -8px 40px rgba(15, 23, 42, 0.18);
+  animation: rootgraph-sheet-in 0.26s cubic-bezier(0.32, 0.72, 0, 1);
+  overflow: hidden;
+}
+
+.attribution-head {
+  padding: 16px 18px 10px;
+}
+
+.attribution-title-row {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.attribution-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 650;
+}
+
+.attribution-close {
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--text-light);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.attribution-close:hover {
+  background: var(--bg-soft, rgba(0, 0, 0, 0.05));
+  color: var(--text);
+}
+
+.attribution-current {
+  margin: 8px 0 0;
+  font-size: 0.88rem;
+  color: var(--text);
+}
+
+.attribution-current-phonetic {
+  margin-left: 6px;
+  color: var(--text-muted);
+  font-size: 0.82rem;
+}
+
+.attribution-current-from {
+  display: block;
+  margin-top: 3px;
+  font-size: 0.78rem;
+  color: var(--text-light);
+}
+
+.attribution-search {
+  padding: 2px 18px 10px;
+}
+
+.attribution-input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 11px 14px;
+  border: 1.5px solid var(--border);
+  border-radius: 10px;
+  font-size: 0.95rem;
+  background: var(--bg-soft, #f8fafc);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.attribution-input:focus {
+  border-color: var(--accent);
+  background: #fff;
+}
+
+.attribution-list {
+  flex: 1;
+  min-height: 60px;
+  overflow-y: auto;
+  padding: 2px 12px 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+}
+
+.attribution-group-label {
+  margin: 6px 4px 0;
+  font-size: 0.75rem;
+  color: var(--text-light);
+}
+
+.attribution-option {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: 100%;
+  padding: 12px 14px;
+  border: 1px solid var(--border-light);
+  border-radius: 10px;
+  background: #fff;
+  text-align: left;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s;
+}
+
+.attribution-option:hover {
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.attribution-option.is-disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.attribution-option.is-disabled:hover {
+  border-color: var(--border-light);
+  background: #fff;
+}
+
+.attribution-option-roots {
+  font-size: 0.95rem;
+  font-weight: 600;
+  color: var(--text);
+  white-space: nowrap;
+}
+
+.attribution-option-meaning {
+  flex: 1;
+  min-width: 0;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.attribution-option-count {
+  flex-shrink: 0;
+  font-size: 0.8rem;
+  color: var(--text-light);
+}
+
+.attribution-create {
+  padding: 13px 14px;
+  border: 1.5px dashed var(--accent);
+  border-radius: 10px;
+  background: var(--accent-soft);
+  color: var(--accent);
+  font-size: 0.92rem;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.attribution-create:hover {
+  background: #e4efff;
+}
+
+.attribution-empty {
+  margin: 8px 4px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+
+.attribution-foot {
+  padding: 10px 18px calc(14px + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--border-light);
+}
+
+.attribution-foot p {
+  margin: 0;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+/* ══ 归入词根 / 移回原族 按钮（搜索词条 + 词卡通用） ══ */
+.word-attribution-btn {
+  flex-shrink: 0;
+  padding: 4px 10px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: none;
+  color: var(--text-muted);
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: border-color 0.12s, color 0.12s, background 0.12s;
+}
+
+.word-attribution-btn:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.word-attribution-btn.is-moveback {
+  color: var(--danger, #d33);
+}
+
+.word-attribution-btn.is-moveback:hover {
+  border-color: var(--danger, #d33);
+  background: var(--danger-soft, rgba(221, 51, 51, 0.08));
+}
+
+.word-attribution-row {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  margin: 0 0 10px;
+}
+
+.word-attribution-row .word-from-hint {
+  margin: 0;
+}
+
+@media (hover: none) {
+  .word-attribution-btn {
+    min-height: 38px;
+    padding: 6px 12px;
+  }
+}

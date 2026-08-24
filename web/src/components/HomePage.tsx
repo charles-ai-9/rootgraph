@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { AffixItem, AffixKind, CatalogEntry } from '../types';
+import type { AffixItem, AffixKind, CatalogEntry, WordEntry } from '../types';
 import { catalogEntryKey, displayRoots, displaySemantic } from '../types';
 import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
@@ -16,6 +16,7 @@ interface HomePageProps {
   getFamilyMeta: (key: string) => FamilyMeta | undefined;
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => UserFamily;
+  moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
 }
@@ -28,6 +29,7 @@ export function HomePage({
   getFamilyMeta,
   userFamilies,
   createUserFamily,
+  moveWordsToUserFamily,
   removeUserFamily,
   getUserFamilyWords,
 }: HomePageProps) {
@@ -133,7 +135,7 @@ export function HomePage({
 
   const filtered = useMemo(() => {
     const q = filter.trim().toLowerCase();
-    return catalog.filter((entry) => {
+    const system = catalog.filter((entry) => {
       if (textbook !== 'all' && entry.textbook !== textbook) return false;
       if (chapterKey !== 'all' && catalogEntryKey(entry) !== chapterKey) return false;
       if (!q) return true;
@@ -151,7 +153,30 @@ export function HomePage({
         .toLowerCase();
       return hay.includes(q);
     });
-  }, [catalog, filter, textbook, chapterKey]);
+    // 搜索词根名时同时命中「我的词根」（textbook:'user' 条目，grouped 显示为「我的词根」组）
+    if (!q) return system;
+    const my = Object.values(userFamilies)
+      .filter(
+        (f) =>
+          f.roots.some((r) => r.toLowerCase().includes(q)) ||
+          (f.meaningZh ?? '').toLowerCase().includes(q),
+      )
+      .map((f) => ({
+        id: f.id,
+        file: '',
+        chapter: '我的',
+        chapterOrder: 999,
+        titleZh: f.meaningZh ?? '',
+        semanticLabel: f.meaningZh ?? '',
+        meaningEn: f.meaningEn ?? '',
+        meaningZh: f.meaningZh ?? '',
+        roots: f.roots,
+        wordCount: getUserFamilyWords(f.id).length,
+        source: 'user' as const,
+        textbook: 'user' as const,
+      }));
+    return [...system, ...my];
+  }, [catalog, filter, textbook, chapterKey, userFamilies, getUserFamilyWords]);
 
   const grouped = useMemo(() => {
     const items = [...filtered].sort((a, b) => {
@@ -167,7 +192,7 @@ export function HomePage({
 
     const map = new Map<string, CatalogEntry[]>();
     for (const item of items) {
-      const key = textbookLabel(item.textbook);
+      const key = item.textbook === 'user' ? '我的词根' : textbookLabel(item.textbook);
       if (!map.has(key)) map.set(key, []);
       map.get(key)!.push(item);
     }
@@ -188,7 +213,14 @@ export function HomePage({
         key={catalogEntryKey(entry)}
         type="button"
         className="library-row"
-        onClick={() => onOpenFamily(entry)}
+        onClick={() => {
+          if (entry.textbook === 'user') {
+            const f = userFamilies[entry.id];
+            if (f) openUserFamily(f);
+          } else {
+            onOpenFamily(entry);
+          }
+        }}
       >
         <span className="library-row-chapter">第{entry.chapter}章</span>
         <span className="library-row-roots">{roots}</span>
@@ -273,6 +305,8 @@ export function HomePage({
         getUserFamilyWords={getUserFamilyWords}
         onOpenWord={(entry, word) => onOpenFamily(entry, word)}
         onOpenUserFamily={openUserFamily}
+        moveWordsToUserFamily={moveWordsToUserFamily}
+        createUserFamily={createUserFamily}
       />
 
       <div className="filter-hint">
@@ -328,7 +362,7 @@ export function HomePage({
         </div>
       )}
 
-      {Object.keys(userFamilies).length > 0 && (
+      {!hasFilter && Object.keys(userFamilies).length > 0 && (
         <section className="topic-section">
           <h2 className="topic-section-title">我的词根</h2>
           <div className="library-list">

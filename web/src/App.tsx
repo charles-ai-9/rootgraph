@@ -190,6 +190,7 @@ function App() {
           getFamilyMeta={getFamilyMeta}
           userFamilies={getUserFamilies()}
           createUserFamily={createUserFamily}
+          moveWordsToUserFamily={moveWordsToUserFamily}
           removeUserFamily={removeUserFamily}
           getUserFamilyWords={getUserFamilyWords}
         />
