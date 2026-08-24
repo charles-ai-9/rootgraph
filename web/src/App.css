@@ -27,6 +27,89 @@
   box-sizing: border-box;
 }
 
+/* 密码锁屏：首次访问拦截，解锁后当前设备永久免密 */
+.unlock-screen {
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  background: var(--surface-muted);
+}
+
+.unlock-card {
+  width: 100%;
+  max-width: 340px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 12px;
+  box-shadow: var(--shadow-md);
+  padding: 32px 28px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.unlock-title {
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  text-align: center;
+}
+
+.unlock-sub {
+  font-size: 0.82rem;
+  color: var(--text-muted);
+  text-align: center;
+  margin-bottom: 8px;
+}
+
+.unlock-input {
+  width: 100%;
+  padding: 10px 14px;
+  font-size: 1rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.unlock-input:focus {
+  border-color: var(--accent);
+}
+
+.unlock-btn {
+  width: 100%;
+  padding: 10px 0;
+  font-size: 0.95rem;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+}
+
+.unlock-btn:disabled {
+  opacity: 0.5;
+  cursor: default;
+}
+
+.unlock-hint {
+  font-size: 0.82rem;
+  color: #dc2626;
+  text-align: center;
+}
+
+.unlock-error {
+  animation: unlock-shake 0.3s;
+}
+
+@keyframes unlock-shake {
+  0%, 100% { transform: translateX(0); }
+  25% { transform: translateX(-6px); }
+  75% { transform: translateX(6px); }
+}
+
 body {
   margin: 0;
   font-family: var(--font);

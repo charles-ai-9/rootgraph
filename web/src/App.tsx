@@ -5,6 +5,8 @@ import { useAffixLibrary } from './hooks/useAffixLibrary';
 import { HomePage } from './components/HomePage';
 import { FamilyNotePage } from './components/FamilyNotePage';
 import { AffixLibraryPage } from './components/AffixLibraryPage';
+import { PasswordGate } from './components/PasswordGate';
+import { isUnlocked } from './utils/unlock';
 import {
   loadCatalog,
   parseRouteHash,
@@ -15,6 +17,8 @@ import {
 import './App.css';
 
 function App() {
+  // 密码锁：未解锁的设备先展示锁屏，正确密码后永久解锁（见 utils/unlock.ts）
+  const [unlocked, setUnlocked] = useState(isUnlocked);
   const [view, setView] = useState<AppView>({ kind: 'home' });
   const [booting, setBooting] = useState(() => {
     const route = parseRouteHash(window.location.hash);
@@ -191,6 +195,10 @@ function App() {
         />
       </div>
     );
+  }
+
+  if (!unlocked) {
+    return <PasswordGate onUnlock={() => setUnlocked(true)} />;
   }
 
   return (
