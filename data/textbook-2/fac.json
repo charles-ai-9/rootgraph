@@ -43,7 +43,7 @@
       ],
       "frequency" : 9162,
       "mnemonic" : "fact(做)+u(连接符号)+al(形容词词尾)→事实的；真实的",
-      "phonetic" : "ˈfæktʃʊəl;-tjʊəl",
+      "phonetic" : "ˈfæk(t)ʃuəl",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "factual"
@@ -72,7 +72,7 @@
 
       ],
       "mnemonic" : "matter-of-fact(实事求是的)+ly (……地)→实事求是地",
-      "phonetic" : "ˌmætərəfˈfæktli",
+      "phonetic" : "ˈmætəɹ əv ˈfækt.li",
       "rootHint" : "fac",
       "word" : "matter-of-factly"
     },
@@ -86,7 +86,7 @@
 
       ],
       "frequency" : 5714,
-      "phonetic" : "ˈfækʃ(ə)n",
+      "phonetic" : "ˈfæk.ʃn̩",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "faction"
@@ -104,7 +104,7 @@
       ],
       "frequency" : 730,
       "mnemonic" : "fact(做)+or(表人或物)→",
-      "phonetic" : "ˈfæktə",
+      "phonetic" : "ˈfæktɚ",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "factor"
@@ -119,7 +119,7 @@
       ],
       "frequency" : 2151,
       "mnemonic" : "fact(做，作)+ory(名词词尾，表场所)→工作的地方→工厂；制造厂",
-      "phonetic" : "ˈfækt(ə)rɪ",
+      "phonetic" : "ˈfæktəɹi",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "factory"
@@ -137,7 +137,7 @@
       ],
       "frequency" : 1998,
       "mnemonic" : "fac(做)+ul(连接符号)+-ty(名词词尾)→做事情的能力\/做事情的人→能",
-      "phonetic" : "ˈfæk(ə)ltɪ",
+      "phonetic" : "ˈfæ.kəl.ti",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "faculty"
@@ -151,7 +151,7 @@
 
       ],
       "mnemonic" : "拉丁文写作“facilis”，其中，faci(=fact：做)+is(=easy：容易；因为easy\n原本写作“aise”，其读音和“-is”是一样的)→容易做的；容易的",
-      "phonetic" : "ˈfæsail",
+      "phonetic" : "ˈfa.sʌɪl",
       "pos" : "a.",
       "rootHint" : "fac",
       "word" : "facile"
@@ -166,7 +166,7 @@
       ],
       "frequency" : 1304,
       "mnemonic" : "facil(=facile：容易的)+ity(名词后缀)→容易\nfac(做)+ility(名词后缀：东西)→(用来)做事情的东西→设施、设备",
-      "phonetic" : "fəˈsɪləti",
+      "phonetic" : "fəˈsɪlɪti",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "facility"
@@ -182,7 +182,7 @@
       ],
       "frequency" : 3604,
       "mnemonic" : "facilit(=facility：容易)+ate(使动词)→使容易、使促进",
-      "phonetic" : "fəˈsɪlɪteɪt",
+      "phonetic" : "fəˈsɪləteɪt",
       "pos" : "vt.",
       "rootHint" : "fac",
       "word" : "facilitate"
@@ -215,7 +215,7 @@
       ],
       "frequency" : 7730,
       "mnemonic" : "feas(=fact：做)+ible(可以、能)→可以做的→可行的",
-      "phonetic" : "ˈfiːzɪb(ə)l",
+      "phonetic" : "ˈfiːzəbəl",
       "pos" : "adj.",
       "rootHint" : "feas",
       "word" : "feasible"
@@ -260,7 +260,7 @@
       ],
       "frequency" : 5197,
       "mnemonic" : "manu(手)+fact(做)+-ure(名词后缀)→人工做的→制造",
-      "phonetic" : "mænjʊˈfæktʃə",
+      "phonetic" : "ˌmænjʊˈfæktʃə",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "manufacture"
@@ -275,7 +275,7 @@
       ],
       "frequency" : 2271,
       "mnemonic" : "manufacture (制造)+er(人)→制造商",
-      "phonetic" : "ˌmænjʊˈfæktʃ(ə)rə(r)",
+      "phonetic" : "ˌmænjuˈfæktʃɚ(ɹ)ɚ",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "manufacturer"
@@ -290,7 +290,7 @@
       ],
       "frequency" : 3188,
       "mnemonic" : "manufacture(制造)+ing(名词后缀)→制造业的",
-      "phonetic" : "ˌmænjʊˈfæktʃərɪŋ",
+      "phonetic" : "ˌmænjʊˈfækt͡ʃəɹɪŋ",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "manufacturing"
@@ -305,7 +305,7 @@
       ],
       "frequency" : 11798,
       "mnemonic" : "manufacture(制造)+ed(……的)→制造的",
-      "phonetic" : "ˌmænjəˈfæktʃɚ",
+      "phonetic" : "ˌmænjəˈfæktʃɚd",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "manufactured"
@@ -335,7 +335,7 @@
       ],
       "frequency" : 1697,
       "mnemonic" : "difficult+y(名词词尾，表状态)→不容易的状态→困难；困境",
-      "phonetic" : "ˈdɪfɪk(ə)ltɪ",
+      "phonetic" : "ˈdɪfɪkəlti",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "difficulty"
@@ -353,7 +353,7 @@
 
       ],
       "frequency" : 1936,
-      "phonetic" : "ˈfæʃ(ə)n",
+      "phonetic" : "ˈfæʃən",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "fashion"
@@ -368,7 +368,7 @@
       ],
       "frequency" : 7797,
       "mnemonic" : "fashion(时尚)+able(形容词后缀)→时尚的，流行的，时髦的",
-      "phonetic" : "ˈfæʃ(ə)nəb(ə)l",
+      "phonetic" : "ˈfæʃənəbl̩",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "fashionable"
@@ -386,7 +386,7 @@
       ],
       "frequency" : 966,
       "mnemonic" : "af(=ad=to)+fect(=do：做；影响)→影响(v.)",
-      "phonetic" : "əˈfekt",
+      "phonetic" : "əˈfɛkt",
       "pos" : "vt.",
       "rootHint" : "fect",
       "word" : "affect"
@@ -401,7 +401,7 @@
       ],
       "frequency" : 9229,
       "mnemonic" : "affect(影响；假装)+ed(……的，被……的)→被影响的→受到影响的；",
-      "phonetic" : "əˈfektɪd",
+      "phonetic" : "əˈfɛktɪd",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "affected"
@@ -431,7 +431,7 @@
       ],
       "frequency" : 17744,
       "mnemonic" : "dis (不)+affect (感染)+ed(……的)→不受某权威或政党感染→不忠的，",
-      "phonetic" : "ˌdɪsəˈfɛktɪd",
+      "phonetic" : "dɪsəˈfɛktɪd",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "disaffected"
@@ -446,7 +446,7 @@
       ],
       "frequency" : 5200,
       "mnemonic" : "affect(影响)+ion(名词后缀)→影响、喜爱(“喜爱”什么，就是受到其",
-      "phonetic" : "əˈfekʃ(ə)n",
+      "phonetic" : "əˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "affection"
@@ -461,7 +461,7 @@
       ],
       "frequency" : 12472,
       "mnemonic" : "affection(喜爱)+-ate(形容词后缀)→对某人喜爱→深情的",
-      "phonetic" : "əˈfekʃ(ə)nət",
+      "phonetic" : "əˈfɛkʃənət",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "affectionate"
@@ -476,7 +476,7 @@
       ],
       "frequency" : 14896,
       "mnemonic" : "affectionate+ly(……地)→充满深情地；深情地",
-      "phonetic" : "əˈfekʃənətlɪ",
+      "phonetic" : "əˈfɛkʃənətli",
       "pos" : "adv.",
       "rootHint" : "fect",
       "word" : "affectionately"
@@ -491,7 +491,7 @@
       ],
       "frequency" : 8774,
       "mnemonic" : "affect(感动)+ive(……的)→令人感动的",
-      "phonetic" : "əˈfektɪv",
+      "phonetic" : "əˈfɛktɪv",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "affective"
@@ -506,7 +506,7 @@
       ],
       "frequency" : 5268,
       "mnemonic" : "in(里面)+fect(做、作)→(病毒等)在体内作怪→感染、传染",
-      "phonetic" : "ɪnˈfekt",
+      "phonetic" : "ɪnˈfɛkt",
       "pos" : "vt.",
       "rootHint" : "fect",
       "word" : "infect"
@@ -521,7 +521,7 @@
       ],
       "frequency" : 2715,
       "mnemonic" : "infect(感染，传染)+ion (名词后缀)→感染；传染",
-      "phonetic" : "ɪnˈfekʃ(ə)n",
+      "phonetic" : "ɪnˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "infection"
@@ -566,7 +566,7 @@
       ],
       "frequency" : 17967,
       "mnemonic" : "dis (不)+infect(传染)+ant (名词后缀，表“剂”)→使不受感染→消毒剂",
-      "phonetic" : "dɪsɪnˈfekt(ə)nt",
+      "phonetic" : "dɪs.ɪnˈfɛktənt",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "disinfectant"
@@ -596,7 +596,7 @@
       ],
       "frequency" : 14314,
       "mnemonic" : "defect(背叛；变节)+ion (名词后缀)→背叛；变节",
-      "phonetic" : "dɪˈfekʃn",
+      "phonetic" : "dɪˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "defection"
@@ -611,7 +611,7 @@
       ],
       "frequency" : 11287,
       "mnemonic" : "defect(缺点；缺陷)+ive (形容词后缀)→有缺点的；有缺陷的",
-      "phonetic" : "dɪˈfektɪv",
+      "phonetic" : "dɪˈfɛktɪv",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "defective"
@@ -626,7 +626,7 @@
       ],
       "frequency" : 16489,
       "mnemonic" : "defect(背叛；变节)+or (人)→背叛其国家、政党、团体等的人→背叛",
-      "phonetic" : "dɪˈfektə",
+      "phonetic" : "dɪˈfɛktə(ɹ)",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "defector"
@@ -641,7 +641,7 @@
       ],
       "frequency" : 428,
       "mnemonic" : "ef (=ex向外)+fect(做)→做出事情后会产生一定的影响→影响；效果",
-      "phonetic" : "ɪˈfekt",
+      "phonetic" : "əˈfɛkt",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "effect"
@@ -656,7 +656,7 @@
       ],
       "frequency" : 1136,
       "mnemonic" : "effect(效果；作用)+ive(形容词尾，表多或大)→效果大的→有效的",
-      "phonetic" : "ɪˈfektɪv",
+      "phonetic" : "əˈfɛktɪv",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "effective"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 18120,
       "mnemonic" : "in (表否定)+effect(效果；作用)+ual(……的)→没有效果的→无效的",
-      "phonetic" : "ɪnɪˈfektʃʊəl;-tjʊəl",
+      "phonetic" : "ɪnɪˈfektʃʊrl;-tʃʊrl",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "ineffectual"
@@ -746,7 +746,7 @@
       ],
       "frequency" : 1163,
       "mnemonic" : "per(彻底)+fect(做)→做的彻底→完美的；使完美",
-      "phonetic" : "ˈpɜ:fɪkt;(for v.) pəˈfekt",
+      "phonetic" : "ˈpɝfɪkt",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "perfect"
@@ -761,7 +761,7 @@
       ],
       "frequency" : 2457,
       "mnemonic" : "perfect (完美的)+ly (……地)→完美地",
-      "phonetic" : "ˈpɜːfɪk(t)lɪ",
+      "phonetic" : "ˈpɝfɪktli",
       "pos" : "adv.",
       "rootHint" : "fect",
       "word" : "perfectly"
@@ -776,7 +776,7 @@
       ],
       "frequency" : 6604,
       "mnemonic" : "perfect(完美的)+-ion (名词后缀)→完美",
-      "phonetic" : "pəˈfekʃ(ə)n",
+      "phonetic" : "pɚˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "perfection"
@@ -821,7 +821,7 @@
       ],
       "frequency" : 10294,
       "mnemonic" : "im (不)+perfect (完美的)→不完美地→有缺点的",
-      "phonetic" : "ɪmˈpɜːfɪkt",
+      "phonetic" : "ɪmˈpɝfɪkt",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "imperfect"
@@ -836,7 +836,7 @@
       ],
       "frequency" : 13347,
       "mnemonic" : "imperfect (不完美的)+ion(名词后缀)→不完美；缺点；瑕疵",
-      "phonetic" : "ɪmpəˈfekʃ(ə)n",
+      "phonetic" : "ɪmpɚˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "imperfection"
@@ -851,7 +851,7 @@
       ],
       "frequency" : 3023,
       "mnemonic" : "ef(=ex：出来)+fic(做)+ient(形容词后缀：……的)→做得出来的→有效",
-      "phonetic" : "ɪˈfɪʃ(ə)nt",
+      "phonetic" : "əˈfɪʃənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "efficient"
@@ -869,7 +869,7 @@
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "energy-efficient",
-      "phonetic" : "ˌenərdʒiɪˈfɪʃ(ə)nt"
+      "phonetic" : "ˌenədʒi ɪˈfɪʃnt"
     },
     {
       "collocations" : [
@@ -881,7 +881,7 @@
       ],
       "frequency" : 6054,
       "mnemonic" : "co (一起；共同)+efficient(有效率的)→共同有效率的因素→协同因",
-      "phonetic" : "ˌkəʊɪˈfɪʃ(ə)nt",
+      "phonetic" : "ˌkoʊ.iˈfɪʃn̩t",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "coefficient"
@@ -911,7 +911,7 @@
       ],
       "frequency" : 9878,
       "mnemonic" : "in (表否定)+efficient (有效率的)→无效率的",
-      "phonetic" : "ɪnɪˈfɪʃ(ə)nt",
+      "phonetic" : "ɪnɪˈfɪʃənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "inefficient"
@@ -926,7 +926,7 @@
       ],
       "frequency" : 3073,
       "mnemonic" : "efficient(有效率的)+cy(名词词尾)→效率；功效",
-      "phonetic" : "ɪˈfɪʃ(ə)nsɪ",
+      "phonetic" : "ɪˈfɪʃn̩si",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "efficiency"
@@ -956,7 +956,7 @@
       ],
       "frequency" : 6385,
       "mnemonic" : "ef (=ex出；向外)+fic(做)+-acy(名词后缀，表状态)→向外做出(成\n果)→(展现出)功效；效力",
-      "phonetic" : "ˈefɪkəsɪ",
+      "phonetic" : "ˈɛf.ɪ.kə.si",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "efficacy"
@@ -971,7 +971,7 @@
       ],
       "frequency" : 13161,
       "mnemonic" : "de(表相反)+fic(做)+ient(的)→做的不够、做的不好→(有)缺陷、不",
-      "phonetic" : "dɪˈfɪʃ(ə)nt",
+      "phonetic" : "dɪˈfɪʃənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "deficient"
@@ -986,7 +986,7 @@
       ],
       "frequency" : 6452,
       "mnemonic" : "deficient(有缺陷的)+cy(名词词尾)→缺陷",
-      "phonetic" : "dɪˈfɪʃ(ə)nsɪ",
+      "phonetic" : "dɪˈfɪʃənsi",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "deficiency"
@@ -1001,7 +1001,7 @@
       ],
       "frequency" : 2425,
       "mnemonic" : "de(表相反、不够)+fic(做)+it(后缀)→在(财政上)做得不够→赤字、",
-      "phonetic" : "ˈdefɪsɪt;ˈdiː-",
+      "phonetic" : "ˈdɛfɪsɪt",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "deficit"
@@ -1016,7 +1016,7 @@
       ],
       "frequency" : 4043,
       "mnemonic" : "arti(人工)+fic(做、制造)+ial(……的)→人工造出来的→人造的、非天",
-      "phonetic" : "ɑːtɪˈfɪʃ(ə)l",
+      "phonetic" : "ɑ(ɹ)təˈfɪʃəl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "artificial"
@@ -1046,7 +1046,7 @@
       ],
       "frequency" : 4608,
       "mnemonic" : "arti(人工)+fact(制作)→人工制作的产品→人工制品",
-      "phonetic" : "ˈɑ:təˌfækt",
+      "phonetic" : "ˈɑɹtɪfækt",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "artifact"
@@ -1060,7 +1060,7 @@
 
       ],
       "mnemonic" : "arti(技巧)+fic(做)+e→使用技巧做→巧妙的办法",
-      "phonetic" : "ˈɑːtɪfɪs",
+      "phonetic" : "ˈɑ(ɹ)tɪfɪs",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "artifice"
@@ -1075,7 +1075,7 @@
       ],
       "frequency" : 720,
       "mnemonic" : "sign(标记)+i+fic(做)+ant(形容词词缀；……的)→做标记的地方→值得",
-      "phonetic" : "sɪgˈnɪfɪk(ə)nt",
+      "phonetic" : "sɪɡˈnɪ.fɪ.kənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "significant"
@@ -1090,7 +1090,7 @@
       ],
       "frequency" : 9077,
       "mnemonic" : "in (不)+significant(重要的)→不重要的→无关紧要的",
-      "phonetic" : "ɪnsɪgˈnɪfɪk(ə)nt",
+      "phonetic" : "ˌɪnsɪɡˈnɪfɪkənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "insignificant"
@@ -1119,7 +1119,7 @@
       ],
       "frequency" : 2960,
       "mnemonic" : "significant(重要的)+ance (名词后缀)→重要性",
-      "phonetic" : "sɪgˈnɪfɪk(ə)ns",
+      "phonetic" : "sɪɡˈnɪfɪkəns",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "significance"
@@ -1134,7 +1134,7 @@
       ],
       "frequency" : 2786,
       "mnemonic" : "fict(做、作；另外还在模仿单词form：形成、塑造；此时：首辅音均\n为f，尾辅音t、m音似)+ion(名词后缀)→做(塑造)出来的东西→小说；",
-      "phonetic" : "ˈfɪkʃ(ə)n",
+      "phonetic" : "ˈfɪk.ʃən",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "fiction"
@@ -1149,7 +1149,7 @@
       ],
       "frequency" : 6444,
       "mnemonic" : "fiction(小说)+al (……的)→小说的",
-      "phonetic" : "ˈfɪkʃənl",
+      "phonetic" : "ˈfɪkʃənəl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "fictional"
@@ -1166,7 +1166,7 @@
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "science-fiction",
-      "phonetic" : "ˌsaɪənsˈfɪkʃ(ə)n"
+      "phonetic" : "ˌsaɪənsˈfɪkʃn"
     },
     {
       "collocations" : [
@@ -1193,7 +1193,7 @@
       ],
       "frequency" : 1194,
       "mnemonic" : "feat(=face脸)→容貌、面貌；特征、特点(因为“脸部”是一个人最大\nfeat(做)+ure(名词后缀)→专题片(“做”出来有“特色”的节目)",
-      "phonetic" : "ˈfiːtʃə",
+      "phonetic" : "ˈfitʃɚ",
       "pos" : "n.",
       "rootHint" : "feat",
       "word" : "feature"
@@ -1254,7 +1254,7 @@
       ],
       "frequency" : 10854,
       "mnemonic" : "defeat(击败)+ed(……的；被……的)→被击败的，受挫的",
-      "phonetic" : "dɪˈfiːtɪd",
+      "phonetic" : "dɪˈfiːtəd",
       "pos" : "vt.",
       "rootHint" : "feat",
       "word" : "defeated"
@@ -1288,7 +1288,7 @@
       ],
       "frequency" : 815,
       "mnemonic" : "源)+fit(=do：做；)→做好事→有益于……好处、利益(n.)",
-      "phonetic" : "ˈbenɪfɪt",
+      "phonetic" : "ˈbɛn.ə.fɪt",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "benefit"
@@ -1319,7 +1319,7 @@
       ],
       "frequency" : 5052,
       "mnemonic" : "benefit(好处、益处)+ial(形容词后缀：的)→有益的、有好处的",
-      "phonetic" : "benɪˈfɪʃ(ə)l",
+      "phonetic" : "ˌbɛnəˈfɪʃəl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "beneficial"
@@ -1334,7 +1334,7 @@
       ],
       "frequency" : 14108,
       "mnemonic" : "bene(好)+fact(做)+or(人)→做好事的人→恩人；捐助者；施主",
-      "phonetic" : "ˈbenɪfæktə",
+      "phonetic" : "ˈbɛnəˌfæktɚ",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "benefactor"
@@ -1349,7 +1349,7 @@
       ],
       "frequency" : 6651,
       "mnemonic" : "bene(好)+fici(做, 作)+-ary(名词词尾)→从某事中获得好处的人",
-      "phonetic" : "benɪˈfɪʃ(ə)rɪ",
+      "phonetic" : "ˌbɛn.əˈfɪʃ.əɹ.i",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "beneficiary"
@@ -1365,7 +1365,7 @@
       ],
       "frequency" : 1716,
       "mnemonic" : "pro(向前)+fit(做)→向前做、做的超前→(有)好处、(能获)利益",
-      "phonetic" : "ˈprɑfɪt",
+      "phonetic" : "ˈpɹɑfɪt",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "profit"
@@ -1380,7 +1380,7 @@
       ],
       "frequency" : 5420,
       "mnemonic" : "profit(利润；利益)+able(能……的)→能有利润的→有利可图的",
-      "phonetic" : "ˈprɒfɪtəb(ə)l",
+      "phonetic" : "ˈpɹɑfɪtəbl̩",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "profitable"
@@ -1395,7 +1395,7 @@
       ],
       "frequency" : 19663,
       "mnemonic" : "un (不)+profitable (有利可图的)→没有利润的；无益的",
-      "phonetic" : "ʌnˈprɒfɪtəb(ə)l",
+      "phonetic" : "ʌnˈprɑfɪtəb(ə)l",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "unprofitable"
@@ -1455,7 +1455,7 @@
       ],
       "frequency" : 12467,
       "mnemonic" : "pro(向前)+fic(做)+ient(形容词后缀)→做的向前、超前的→熟练的、",
-      "phonetic" : "prəˈfɪʃ(ə)nt",
+      "phonetic" : "pɹoʊˈfɪʃ.ənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "proficient"
@@ -1470,7 +1470,7 @@
       ],
       "frequency" : 10455,
       "mnemonic" : "proficient(熟练的)+cy(名词后缀)→熟练",
-      "phonetic" : "prəˈfɪʃ(ə)nsɪ",
+      "phonetic" : "pɹəˈfɪʃənsi",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "proficiency"
@@ -1485,7 +1485,7 @@
       ],
       "frequency" : 342,
       "mnemonic" : "of(=op，工作)+fic(做)→做工作的地方→办公室",
-      "phonetic" : "ˈɒfɪs",
+      "phonetic" : "ˈɔfɪs",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "office"
@@ -1500,7 +1500,7 @@
       ],
       "frequency" : 671,
       "mnemonic" : "office(办公室；政府机关)+er (人)→坐办公室的人→公务员；官员",
-      "phonetic" : "ˈɒfɪsə",
+      "phonetic" : "ˈɔfɪsɚ",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "officer"
@@ -1514,7 +1514,7 @@
 
       ],
       "frequency" : 2510,
-      "phonetic" : "ˌsi:i:ˈəʊ",
+      "phonetic" : "ˌsi:i:ˈoʊ",
       "pos" : "abbr.",
       "rootHint" : "fac",
       "word" : "CEO"
@@ -1529,7 +1529,7 @@
       ],
       "frequency" : 527,
       "mnemonic" : "office(办公室；政府机关)+ial (……的)→办公室的；政府机关的→官",
-      "phonetic" : "əˈfɪʃ(ə)l",
+      "phonetic" : "əˈfɪʃəl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "official"
@@ -1544,7 +1544,7 @@
       ],
       "frequency" : 4113,
       "mnemonic" : "official (正式的；官方的)+ly(……地)→官方地；正式地",
-      "phonetic" : "əˈfɪʃəlɪ",
+      "phonetic" : "əˈfɪʃəli",
       "pos" : "adv.",
       "rootHint" : "fic",
       "word" : "officially"
@@ -1574,7 +1574,7 @@
       ],
       "frequency" : 17807,
       "mnemonic" : "office(办公室；政府机关)+ate(使)→使办公室履行职责→行使(职务)",
-      "phonetic" : "əˈfɪʃɪeɪt",
+      "phonetic" : "əˈfiʃ.i.eɪt",
       "pos" : "vt.",
       "rootHint" : "fic",
       "word" : "officiate"
@@ -1605,7 +1605,7 @@
       ],
       "frequency" : 4109,
       "mnemonic" : "sacri(神圣的)+fic(做)+-e→为神做的事→供奉；祭品",
-      "phonetic" : "ˈsækrɪfaɪs",
+      "phonetic" : "ˈsækɹɪfaɪs",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "sacrifice"
@@ -1620,7 +1620,7 @@
       ],
       "frequency" : 16484,
       "mnemonic" : "sacrifice (牺牲；祭品)+ial(……的)→牺牲的；献祭的",
-      "phonetic" : "sækrəˈfɪʃ(ə)l",
+      "phonetic" : "ˈsæk.ɹə.fɪʃ.əl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "sacrificial"
@@ -1650,7 +1650,7 @@
       ],
       "frequency" : 3123,
       "mnemonic" : "suffice (使足够)+ent (……的)→足够的；充分的",
-      "phonetic" : "səˈfɪʃ(ə)nt",
+      "phonetic" : "səˈfɪʃənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "sufficient"
@@ -1665,7 +1665,7 @@
       ],
       "frequency" : 6031,
       "mnemonic" : "sufficient(足够的；充分的)+ly (……地)→足够地；",
-      "phonetic" : "səˈfɪʃəntlɪ",
+      "phonetic" : "səˈfɪʃəntli",
       "pos" : "adv.",
       "rootHint" : "fic",
       "word" : "sufficiently"
@@ -1680,7 +1680,7 @@
       ],
       "frequency" : 7235,
       "mnemonic" : "in (不)+sufficient(足够的；充分的)→不足够；不充分的",
-      "phonetic" : "ɪnsəˈfɪʃ(ə)nt",
+      "phonetic" : "ɪnsəˈfɪʃənt",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "insufficient"
@@ -1695,7 +1695,7 @@
       ],
       "frequency" : 982,
       "mnemonic" : "speci(=species；种类，类别)+fic(做)→按照类别做→明确的；具体的",
-      "phonetic" : "spəˈsɪfɪk",
+      "phonetic" : "spəˈsɪf.ɪk",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "specific"
@@ -1710,7 +1710,7 @@
       ],
       "frequency" : 1972,
       "mnemonic" : "specific(明确的)+al (……的)+ly (……地)→明确地；特别地",
-      "phonetic" : "spɪˈsɪfɪkəlɪ",
+      "phonetic" : "spəˈsɪf.ɪk.li",
       "pos" : "adv.",
       "rootHint" : "fic",
       "word" : "specifically"
@@ -1740,7 +1740,7 @@
       ],
       "frequency" : 4911,
       "mnemonic" : "specific(明确的)+fy (使)→使明确→详细说明；列举",
-      "phonetic" : "ˈspesɪfaɪ",
+      "phonetic" : "ˈspɛsɪfaɪ",
       "pos" : "vt.",
       "rootHint" : "fac",
       "word" : "specify"
@@ -1755,7 +1755,7 @@
       ],
       "frequency" : 11319,
       "mnemonic" : "specific(明确的)+ity(名词后缀，表性质)→明确性",
-      "phonetic" : "ˌspesɪˈfɪsətɪ",
+      "phonetic" : "spɛsɪˈfɪsɪti",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "specificity"
@@ -1770,7 +1770,7 @@
       ],
       "frequency" : 172,
       "mnemonic" : "tra(转移)+fic (做)→做转移→运输；贸易\n(毒品、赃物等的)非法买卖，非法交易\nthem.",
-      "phonetic" : "ˈtræfɪk",
+      "phonetic" : "ˈtɹæfɪk",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "traffic"
@@ -1802,7 +1802,7 @@
       ],
       "frequency" : 19296,
       "mnemonic" : "fac(做)+simil(相同)+e→做相同的事情→复制→传真；复制本",
-      "phonetic" : "fækˈsɪmɪlɪ",
+      "phonetic" : "fækˈsɪm.ə.li",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "facsimile"
@@ -1820,7 +1820,7 @@
       ],
       "frequency" : 13038,
       "mnemonic" : "for (在外面；超过)+feit(=fac；做)→做过头的，越界(超出正确的范\n围)→罚金；没收物",
-      "phonetic" : "ˈfɔːfɪt",
+      "phonetic" : "ˈfɔɹ.fɪt",
       "pos" : "n.",
       "rootHint" : "feit",
       "word" : "forfeit"
@@ -1836,7 +1836,7 @@
       ],
       "frequency" : 18014,
       "mnemonic" : "counter (=against：对照；对比)+feit(=fac；做)→对照着做→伪造；",
-      "phonetic" : "ˈkaʊntəfɪt;-fiːt",
+      "phonetic" : "ˈkaʊn.tɚˌfɪt",
       "pos" : "vt.",
       "rootHint" : "feit",
       "word" : "counterfeit"
@@ -1853,7 +1853,7 @@
 
       ],
       "frequency" : 16609,
-      "phonetic" : "ˈfetɪʃ",
+      "phonetic" : "ˈfiː.tɪʃ",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "fetish"
@@ -1874,7 +1874,7 @@
 
       ],
       "frequency" : 1479,
-      "phonetic" : "əˌfɪsjəˈnɑːdəʊ;-ˌfɪʃjə-",
+      "phonetic" : "əfɪsjəˈnɑdoʊ",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "aficionado"
@@ -1891,7 +1891,7 @@
       ],
       "frequency" : 20165,
       "mnemonic" : "con(一起)+fect(=make：制作)→把不同的原料做到一起(甚至还加\n糖)→甜点；精制工艺品",
-      "phonetic" : "kənˈfekʃ(ə)n",
+      "phonetic" : "kənˈfɛkʃən",
       "pos" : "n.",
       "rootHint" : "fect",
       "word" : "confection"
@@ -1920,7 +1920,7 @@
 
       ],
       "frequency" : 15196,
-      "phonetic" : "ˈedɪfɪs",
+      "phonetic" : "ˈɛd.ɪ.fɪs",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "edifice"
