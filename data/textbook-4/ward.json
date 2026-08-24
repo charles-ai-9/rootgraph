@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "ward",
-      "phonetic": "wɔ:d",
+      "phonetic": "wɔɹd",
       "pos": "n.",
       "definition": "病房；选区；被监护人〔尤指儿童〕 vi.5 防止；抵挡〔疾病、危险或攻击等]127",
       "mnemonic": "ward(=guard: 保卫；防止) →避免；防止；抵挡",
@@ -30,7 +30,7 @@
     },
     {
       "word": "warden",
-      "phonetic": "'wɔ:d(a)n",
+      "phonetic": "ˈwɔːdən",
       "pos": "n.",
       "definition": "管理人[+of]; 典狱官；(法律、法规)督察员",
       "frequency": 9548,
@@ -43,7 +43,7 @@
     },
     {
       "word": "warn",
-      "phonetic": "wɔ:n",
+      "phonetic": "wɔːn",
       "pos": "vt.",
       "definition": "&vi. 警告；提醒；告诫",
       "frequency": 1786,
@@ -57,7 +57,7 @@
     },
     {
       "word": "warning",
-      "phonetic": "'wɔ:niŋ ",
+      "phonetic": "ˈwɔɹnɪŋ",
       "pos": "n.",
       "definition": "警告；预告adj. 警告性的",
       "frequency": 2120,
@@ -67,7 +67,7 @@
     },
     {
       "word": "cover",
-      "phonetic": "'kʌvə",
+      "phonetic": "ˈkʌvɚ",
       "pos": "vt.",
       "definition": "盖住；覆盖；铺盖；走过(一段距离);保险； 适用于； 论及；足够支付 vi. 包庇；代替 n. 套子；封面；掩护；掩蔽处 n. ( 保 险)保障；掩护；床上盖具",
       "frequency": 561,
@@ -85,7 +85,7 @@
     },
     {
       "word": "uncover",
-      "phonetic": "ʌ n'kʌvə",
+      "phonetic": "ʌnˈkʌvə(ɹ)",
       "pos": "vt.",
       "definition": "揭开盖子；揭露；发现",
       "frequency": 4482,
@@ -99,7 +99,7 @@
     },
     {
       "word": "coverage",
-      "phonetic": "'kʌv(a)ridʒ",
+      "phonetic": "ˈkʌv.əɹ.ɪdʒ",
       "pos": "n.",
       "definition": "新闻报道；保险范围；(书、节目、课程等的)内 容范围[+ of]1890",
       "mnemonic": "cover ( 盖 ) + -age ( 名词后缀) →覆盖范围 → 引申为新闻报道；保险 范围；内容范围",
@@ -112,7 +112,7 @@
     },
     {
       "word": "recover",
-      "phonetic": "rɪ'kʌvə",
+      "phonetic": "ɹɪˈkʌvɚ",
       "pos": "vi.",
       "definition": "恢复健康[+from]; 恢复常态[+from]; 重新获得",
       "frequency": 2150,
@@ -125,7 +125,7 @@
     },
     {
       "word": "recovery",
-      "phonetic": "r'kʌv(a)ri",
+      "phonetic": "ɹəˈkʌvəɹi",
       "pos": "n.",
       "definition": "康复[+from]; 恢复；复得，找回[+of]2466",
       "collocations": [
@@ -137,7 +137,7 @@
     },
     {
       "word": "undercover",
-      "phonetic": "ʌndə'kʌvə;'Andə -",
+      "phonetic": "ˌʌndəˈkʌvər",
       "pos": "adj.",
       "definition": "秘密的adv. 秘密地",
       "frequency": 7668,
@@ -170,7 +170,7 @@
     },
     {
       "word": "covered",
-      "phonetic": "'kʌvəd",
+      "phonetic": "ˈkʌvə(ɹ)d",
       "pos": "adj.",
       "definition": "有屋顶的；覆盖有……的",
       "frequency": 9425,
@@ -194,7 +194,7 @@
     },
     {
       "word": "covering",
-      "phonetic": "'kav(a)rn",
+      "phonetic": "ˈkʌvəɹɪŋ",
       "pos": "n.",
       "definition": "覆盖物；覆盖层(复数)13585",
       "collocations": [
@@ -206,7 +206,7 @@
     },
     {
       "word": "covert",
-      "phonetic": "'kʌvət;'kəuv3:t",
+      "phonetic": "ˈkəʊvəːt",
       "pos": "adj.",
       "definition": "秘密的；隐藏的n.〔动物藏身的〕树丛",
       "frequency": 8952,
@@ -240,7 +240,7 @@
     },
     {
       "word": "curfew",
-      "phonetic": "'ks:fju:",
+      "phonetic": "ˈkɜː.fjuː",
       "pos": "n.",
       "definition": "宵禁；熄灯令；〔父母规定的〕儿童晚上必须回家[睡觉] 的时间",
       "frequency": 10715,
@@ -254,7 +254,7 @@
     },
     {
       "word": "discover",
-      "phonetic": "d'skʌvə",
+      "phonetic": "dɪsˈkʌvɚ",
       "pos": "vt.",
       "definition": "( 首次)发现；发觉",
       "frequency": 959,
@@ -267,7 +267,7 @@
     },
     {
       "word": "discovery",
-      "phonetic": "d'skʌv(a)ri",
+      "phonetic": "dɪsˈkʌvəɹi",
       "pos": "n.",
       "definition": "被发现的事实[事物][+about]; 发现[+of]2247",
       "collocations": [
@@ -300,7 +300,7 @@
     },
     {
       "word": "mask",
-      "phonetic": "ma:sk",
+      "phonetic": "mæsk",
       "pos": "n.",
       "definition": "面具；伪装；面膜 vt.掩饰；遮盖；盖住(气味、味道、声 音等)2917",
       "mnemonic": "mask(=cover: 盖子，遮盖物；同时，单词mask可能还在刻意模仿单\n词“face: 脸”)→盖在脸上的遮掩物→面具；伪装；掩饰；遮掩 搭配：mask of detachment: 超然的伪装",
@@ -320,7 +320,7 @@
     },
     {
       "word": "masked",
-      "phonetic": "ma:skt",
+      "phonetic": "mɑːskt",
       "pos": "adj.",
       "definition": "戴面具的",
       "frequency": 12441,
@@ -342,7 +342,7 @@
     },
     {
       "word": "unmask",
-      "phonetic": "ʌ n'ma:sk",
+      "phonetic": "ʌnˈmæsk",
       "pos": "vt.",
       "definition": "撕下……的假面具；揭露；揭穿〔真相〕19701",
       "collocations": [],
@@ -351,7 +351,7 @@
     },
     {
       "word": "detect",
-      "phonetic": "dr'tekt",
+      "phonetic": "dɪˈtɛkt",
       "pos": "vt.",
       "definition": "察觉〔尤指不易觉察到的事物〕;探测",
       "frequency": 2787,
@@ -378,7 +378,7 @@
     },
     {
       "word": "detector",
-      "phonetic": "dr'tektə",
+      "phonetic": "dɪˈtɛktə(ɹ)",
       "pos": "n.",
       "definition": "探测器",
       "frequency": 5550,
@@ -393,7 +393,7 @@
     },
     {
       "word": "detectable",
-      "phonetic": "dr'tektəbl",
+      "phonetic": "dɪˈtɛktəbəɫ",
       "pos": "adj.",
       "definition": "可觉察的；可发现的",
       "frequency": 15927,
@@ -405,7 +405,7 @@
     },
     {
       "word": "detection",
-      "phonetic": "dr'tekʃ(a)n",
+      "phonetic": "dəˈtɛkʃən",
       "pos": "n.",
       "definition": "察觉，发现；侦察[+of]6",
       "frequency": 308,
@@ -417,7 +417,7 @@
     },
     {
       "word": "protect",
-      "phonetic": "prə'tekt",
+      "phonetic": "pɹəˈtɛkt",
       "pos": "vt.",
       "definition": "&vi. 保护；防护 vt. 为 … … 提供保险(一般用作被动语态);(通过征收关税或限制进口商品)保护(国内工商业)750",
       "mnemonic": "来自pro-(=in front of: 在前面)+ -tect(=-teg=to cover: 遮盖；覆 盖) →to protect,cover in front: 保护；在前面盖住→保护；防护→扩 展含义为……提供保险；(通过征收关税或限制进口商品)保护(国 内工商业)",
@@ -434,7 +434,7 @@
     },
     {
       "word": "protector",
-      "phonetic": "prə'tektə",
+      "phonetic": "pɹəˈtɛktɚ",
       "pos": "n.",
       "definition": "保护人；保护装置",
       "frequency": 9877,
@@ -447,7 +447,7 @@
     },
     {
       "word": "protected",
-      "phonetic": "prə'tektid",
+      "phonetic": "pɹəˈtɛktɪd",
       "pos": "adj.",
       "definition": "受保护的",
       "frequency": 6468,
@@ -460,7 +460,7 @@
     },
     {
       "word": "protective",
-      "phonetic": "prə'tektiv",
+      "phonetic": "pɹoʊtɛktɪv",
       "pos": "adj.",
       "definition": "起保护作用的；爱护备至的",
       "frequency": 4153,
@@ -488,7 +488,7 @@
     },
     {
       "word": "protection",
-      "phonetic": "prə'tekʃ(o)n",
+      "phonetic": "pɹəˈtɛkʃən",
       "pos": "n.",
       "definition": "保护；(保险单提供的)保险；保护法；贸易保 护；(歹徒索取保护费后提供的)保护",
       "frequency": 1322,
@@ -521,7 +521,7 @@
     },
     {
       "word": "protectionism",
-      "phonetic": "prə'tekfənizəm",
+      "phonetic": "pɹəˈtekʃənɪzəm",
       "pos": "n.",
       "definition": "贸易保护主义",
       "frequency": 16702,
@@ -535,7 +535,7 @@
     },
     {
       "word": "protégé",
-      "phonetic": "'prptoʒer",
+      "phonetic": "ˈpɹɒt.ə.ʒeɪ",
       "pos": "n.",
       "definition": "门徒；受提携的后进者",
       "frequency": 14624,
@@ -549,7 +549,7 @@
     },
     {
       "word": "obscure",
-      "phonetic": "əb'skjuə",
+      "phonetic": "əbˈskjɝ",
       "pos": "adj.",
       "definition": "鲜为人知的；复杂难懂的；不清楚的 vt. 遮掩；使……使难懂",
       "frequency": 5938,
@@ -568,7 +568,7 @@
     },
     {
       "word": "obscurity",
-      "phonetic": "əb'skjuəriti",
+      "phonetic": "əbˈskjɔːɹɪti",
       "pos": "n.",
       "definition": "默默无闻；难懂之物",
       "frequency": 12804,
@@ -581,7 +581,7 @@
     },
     {
       "word": "shell",
-      "phonetic": "fel",
+      "phonetic": "ʃɛl",
       "pos": "n.",
       "definition": "( 坚果或蛋的)壳；壳料；(动物的)甲壳；贝壳；矜持；框架；炮弹；炮击 vt.剥……的壳；炮击",
       "frequency": 2582,
@@ -602,7 +602,7 @@
     },
     {
       "word": "shellfish",
-      "phonetic": "'Selfiʃ",
+      "phonetic": "ˈʃɛlˌfɪʃ",
       "pos": "n.",
       "definition": "有壳的水生动物；甲壳类动物",
       "frequency": 13497,
@@ -612,7 +612,7 @@
     },
     {
       "word": "shelling",
-      "phonetic": "'Jeliŋ",
+      "phonetic": "ˈʃɛlɪŋ",
       "pos": "n.",
       "definition": "炮击；炮轰[+of]17425",
       "mnemonic": "炮 击( shelling) 的时候炮弹皮( shell) 到处飞。",
@@ -624,7 +624,7 @@
     },
     {
       "word": "bombshell",
-      "phonetic": "'bomfel",
+      "phonetic": "ˈbɑmʃel",
       "pos": "n.",
       "definition": "令人震惊的消息",
       "frequency": 17100,
@@ -637,7 +637,7 @@
     },
     {
       "word": "nutshell",
-      "phonetic": "'nʌtfel",
+      "phonetic": "ˈnʌtʃel",
       "pos": "n.",
       "definition": "坚果的外壳",
       "frequency": 16841,
@@ -649,7 +649,7 @@
     },
     {
       "word": "shield",
-      "phonetic": "ʃi:ld",
+      "phonetic": "ʃiːld",
       "pos": "n.",
       "definition": "防护物；保护人；盾；盾形奖章 vt. 保护；遮挡",
       "frequency": 5678,
@@ -663,7 +663,7 @@
     },
     {
       "word": "windshield",
-      "phonetic": "'win(d)fi:ld",
+      "phonetic": "ˈwɪndʃiːld",
       "pos": "n.",
       "definition": "n. 挡风玻璃",
       "frequency": 7130,
@@ -673,7 +673,7 @@
     },
     {
       "word": "shelter",
-      "phonetic": "'feltə",
+      "phonetic": "ˈʃɛltɚ",
       "pos": "n.",
       "definition": "躲避处；遮蔽；庇护；收容所vi.躲避 vt. 遮蔽；庇护",
       "frequency": 2896,
@@ -688,7 +688,7 @@
     },
     {
       "word": "sheltered",
-      "phonetic": "'Seltad",
+      "phonetic": "ˈʃɛltɚd",
       "pos": "adj.",
       "definition": "( 地方)受掩护的，免遭恶劣天气影响的；收呵护的；福利性的(住所或工作)13665",
       "collocations": [
@@ -702,7 +702,7 @@
     },
     {
       "word": "inward",
-      "phonetic": "'inwəd",
+      "phonetic": "ˈɪnwəd",
       "pos": "adj.",
       "definition": "内心的；向内的adv. 向内地",
       "frequency": 11469,
@@ -716,7 +716,7 @@
     },
     {
       "word": "inwardly",
-      "phonetic": "'nwədli",
+      "phonetic": "ˈɪnwədli",
       "pos": "adv",
       "definition": ".(思想、情感或行为)在内心；在心灵深处",
       "frequency": 17959,
@@ -728,7 +728,7 @@
     },
     {
       "word": "onward",
-      "phonetic": "'bnwəd",
+      "phonetic": "ˈɒnwəd",
       "pos": "adj.",
       "definition": "向前的；(旅程)继续进行的；发展的adv. 向前地；(旅程)继续进行地；发展地；从……以后( outwards)12466",
       "mnemonic": "on ( 在上；向上)+-ward ( 朝 向 ) →move on or forward→向前的；继 续进行的",
@@ -741,7 +741,7 @@
     },
     {
       "word": "outward",
-      "phonetic": "'autwəd",
+      "phonetic": "ˈaʊt.wɚd",
       "pos": "adj.",
       "definition": "表面看起来的；外在的；外出的adv. 向 外 ( 移 动 ) 地；(面)向外地；向外(看)地",
       "frequency": 8761,
@@ -756,7 +756,7 @@
     },
     {
       "word": "outwardly",
-      "phonetic": "'autwadli",
+      "phonetic": "ˈaʊtwədli",
       "pos": "adv.",
       "definition": "表面上",
       "frequency": 17894,
@@ -768,7 +768,7 @@
     },
     {
       "word": "toward",
-      "phonetic": "ta'wɔ:d",
+      "phonetic": "tʊ.ˈwɔɹd",
       "pos": "prep.",
       "definition": "向；趋向；对于 … ;接近(时间);靠近；(钱)用 于",
       "frequency": 385,
@@ -783,7 +783,7 @@
     },
     {
       "word": "towards",
-      "phonetic": "ta'wɔ:dz;twɔ:dz;'tɔ:dz",
+      "phonetic": "tʊˈwɔɹdz",
       "pos": "prep.",
       "definition": "朝，向；接近；关于；以……为目标 (或目的);用于",
       "frequency": 2018,
@@ -796,7 +796,7 @@
     },
     {
       "word": "upward",
-      "phonetic": "'ʌpwad",
+      "phonetic": "ˈʌpwɜː(ɹ)d",
       "pos": "adj.",
       "definition": "向上的；朝上的；(数量、价格)上升的；上涨的； 增长的",
       "frequency": 6240,
@@ -810,7 +810,7 @@
     },
     {
       "word": "upwards",
-      "phonetic": "'Apwodz",
+      "phonetic": "ˈʌpwədz",
       "pos": "adv.",
       "definition": "向上；向高处；(数量、价格)上涨；超过(~of sth)11275",
       "collocations": [
@@ -821,7 +821,7 @@
     },
     {
       "word": "downward",
-      "phonetic": "'daunwəd",
+      "phonetic": "ˈdaʊnwəd",
       "pos": "adj.",
       "definition": "下降的；向下的；逐渐下降的；日趋恶化的adv. 朝下地；下降地；往下地",
       "frequency": 8419,
@@ -837,7 +837,7 @@
     },
     {
       "word": "eastward",
-      "phonetic": "'istwəd",
+      "phonetic": "ˈistwɚd",
       "pos": "adj.",
       "definition": "向东的adv. 向东地",
       "frequency": 14709,
@@ -851,7 +851,7 @@
     },
     {
       "word": "westward",
-      "phonetic": "'westwad",
+      "phonetic": "ˈwɛstwəd",
       "pos": "adj.",
       "definition": "向西的adv. 向西",
       "frequency": 12923,
@@ -867,7 +867,7 @@
     },
     {
       "word": "northward",
-      "phonetic": "'nɔ:θwad",
+      "phonetic": "ˈnɔɹθwɚd",
       "pos": "adj.",
       "definition": "向北的adv.向北",
       "frequency": 14631,
@@ -881,7 +881,7 @@
     },
     {
       "word": "afterward",
-      "phonetic": "'a:ftawad",
+      "phonetic": "ˈæf.tɚ.wɚd",
       "pos": "adv.",
       "definition": "( 某事件、某时间)之后",
       "frequency": 4235,
@@ -893,7 +893,7 @@
     },
     {
       "word": "afterwards",
-      "phonetic": "'a:ftowadz",
+      "phonetic": "ˈæf.tɚ.wɚdz",
       "pos": "adv.",
       "definition": "随后；后来",
       "frequency": 5728,
@@ -906,7 +906,7 @@
     },
     {
       "word": "backward",
-      "phonetic": "'bækwəd",
+      "phonetic": "ˈbæk.wə(ɹ)d",
       "pos": "adj.",
       "definition": "向后的；退步的；落后的；(后进的)学习adv.向后；倒着地；倒退地",
       "frequency": 5270,
@@ -920,7 +920,7 @@
     },
     {
       "word": "backwards",
-      "phonetic": "'bækwədz",
+      "phonetic": "ˈbæk.wə(ɹ)dz",
       "pos": "adv.",
       "definition": "朝后；往回，往前面；前后反过来",
       "frequency": 6821,
@@ -933,7 +933,7 @@
     },
     {
       "word": "forward",
-      "phonetic": "'fɔ:wəd",
+      "phonetic": "ˈfɔɹ.wɚd",
       "pos": "adv.",
       "definition": "向前；进展；向将来 adj. 向前的 vt. 转寄；发送；促 进n. ( 足球、篮球等运动的)前锋",
       "frequency": 818,
@@ -949,7 +949,7 @@
     },
     {
       "word": "forwards",
-      "phonetic": "'fo:wədz",
+      "phonetic": "ˈfɔːwədz",
       "pos": "adv.",
       "definition": "向前；进展；向将来",
       "frequency": 15886,
@@ -959,7 +959,7 @@
     },
     {
       "word": "skyward",
-      "phonetic": "'skaiwad",
+      "phonetic": "ˈskaɪwəd",
       "pos": "adv.",
       "definition": "朝向天空",
       "frequency": 15939,
@@ -972,7 +972,7 @@
     },
     {
       "word": "wayward",
-      "phonetic": "'werwəd",
+      "phonetic": "ˈweɪwɚd",
       "pos": "adj.",
       "definition": "任性的；倔强的",
       "frequency": 14754,
@@ -983,7 +983,7 @@
     },
     {
       "word": "coward",
-      "phonetic": "'kauad",
+      "phonetic": "ˈkaʊəd",
       "pos": "n.",
       "definition": "胆小鬼，懦夫；胆小的",
       "mnemonic": "co(=tail : 尾巴)+ward ( 向) → (遇到事情)就走向(某人)尾巴 后面→胆小的；胆小鬼",
@@ -993,7 +993,7 @@
     },
     {
       "word": "awkward",
-      "phonetic": "'ɔ:kwəd",
+      "phonetic": "ˈɔkwɚd",
       "pos": "adj.",
       "definition": "令人尴尬的；(使用)不便的；棘手的(工作);笨拙的；难为情的",
       "frequency": 5053,
@@ -1036,7 +1036,7 @@
     },
     {
       "word": "reward",
-      "phonetic": "ri'wɔ:d",
+      "phonetic": "ɹiˈwɔɹd",
       "pos": "n.",
       "definition": "回报；报酬；奖赏；悬赏金[+of] vt. 酬谢；奖赏；获得 奖励",
       "frequency": 3420,
@@ -1066,7 +1066,7 @@
     },
     {
       "word": "award",
-      "phonetic": "ə 'wɔ:d",
+      "phonetic": "əˈwɔɹd",
       "pos": "vt.",
       "definition": "被授予；给予 n. 奖；(赔偿金等的)裁定额",
       "frequency": 2596,
@@ -1094,7 +1094,7 @@
     },
     {
       "word": "premium",
-      "phonetic": "'pri:miom",
+      "phonetic": "ˈpɹimiəm",
       "pos": "n.",
       "definition": "保险费；额外费用adj. 优质的；高端的；以高价 (买、卖)",
       "collocations": [
@@ -1117,7 +1117,7 @@
     },
     {
       "word": "cure",
-      "phonetic": "kjuɔ;kjɔ:",
+      "phonetic": "kjɝ",
       "pos": "vt.",
       "definition": "治愈(疾病、病人);解决；加工处理n. ( 有治愈效果 的)药物、疗法；解决方法[+for]4633",
       "mnemonic": "来自拉丁语cura,含义为“医疗，照顾”,名词有“治疗方法，成功 的治疗方法，医疗护理”等。",
@@ -1133,7 +1133,7 @@
     },
     {
       "word": "incurable",
-      "phonetic": "ɪn'kjuərab(a)l",
+      "phonetic": "ˌɪnˈkjʊəɹəbl",
       "pos": "adj.",
       "definition": "无法治愈的；无可救药的",
       "frequency": 17938,
@@ -1147,7 +1147,7 @@
     },
     {
       "word": "secure",
-      "phonetic": "sr'kjuə;si’kjɔ:",
+      "phonetic": "səˈkjɔɹ",
       "pos": "vt.",
       "definition": "( 尤指经过努力)获得；保护；牢靠地固定 adj.严密保护的；牢固的；(工作等)稳定的；(感觉)安全的",
       "frequency": 2511,
@@ -1164,7 +1164,7 @@
     },
     {
       "word": "securely",
-      "phonetic": "sɪ'kjuəli",
+      "phonetic": "səˈkjɝli",
       "pos": "adv.",
       "definition": "严密保护地；牢固地",
       "frequency": 12817,
@@ -1177,7 +1177,7 @@
     },
     {
       "word": "security",
-      "phonetic": "si'kjuərəti",
+      "phonetic": "səˈkjɔɹ.ɪˌti",
       "pos": "n.",
       "definition": "安全措施；安全感；抵押品；有价证券",
       "frequency": 661,
@@ -1191,7 +1191,7 @@
     },
     {
       "word": "insecure",
-      "phonetic": ",insɪ'kjuə(r)",
+      "phonetic": "ˌɪnsɪˈkjʊrr",
       "pos": "adj.",
       "definition": "不自信的；缺乏安全感的；无保障的",
       "frequency": 10795,
@@ -1203,7 +1203,7 @@
     },
     {
       "word": "insecurity",
-      "phonetic": ",inst'kjuəroti",
+      "phonetic": "ˌɪnsɪˈkjʊrrətɪ",
       "pos": "n.",
       "definition": "不自信；缺乏安全感",
       "frequency": 8425,
@@ -1215,7 +1215,7 @@
     },
     {
       "word": "accurate",
-      "phonetic": "'ækjərət",
+      "phonetic": "ˈæk.jə.ɹɪt",
       "pos": "adj.",
       "definition": "精确的；准确的",
       "frequency": 2754,
@@ -1228,7 +1228,7 @@
     },
     {
       "word": "accurately",
-      "phonetic": "'ækjərətli",
+      "phonetic": "ˈæk.jə.ɹɪt.li",
       "pos": "adv.",
       "definition": "精确地；准确地",
       "frequency": 4950,
@@ -1238,7 +1238,7 @@
     },
     {
       "word": "inaccurate",
-      "phonetic": "in'ækjurət",
+      "phonetic": "ɪnˈæ.kjʊ.ɹət",
       "pos": "adj.",
       "definition": "错误的",
       "frequency": 8868,
@@ -1248,7 +1248,7 @@
     },
     {
       "word": "accuracy",
-      "phonetic": "'ækjurəsr",
+      "phonetic": "ˈæk.jɚ.ə.si",
       "pos": "n.",
       "definition": "精确；准确",
       "frequency": 4111,
@@ -1271,7 +1271,7 @@
     },
     {
       "word": "curious",
-      "phonetic": "'kjuərios",
+      "phonetic": "ˈkjɝ.i.əs",
       "pos": "adj.",
       "definition": "好奇的；求知欲强的；不寻常的",
       "frequency": 3139,
@@ -1282,7 +1282,7 @@
     },
     {
       "word": "curiosity",
-      "phonetic": "kjuər'bsitr",
+      "phonetic": "ˌkjʊəɹɪˈɒsɪti",
       "pos": "n.",
       "definition": "好奇心；求知欲；奇物；珍品",
       "frequency": 4570,
@@ -1293,7 +1293,7 @@
     },
     {
       "word": "curiously",
-      "phonetic": "'kjuəriəsli",
+      "phonetic": "ˈkjɔːɹi.əsli",
       "pos": "adv.",
       "definition": "好奇地",
       "frequency": 8670,
@@ -1316,7 +1316,7 @@
     },
     {
       "word": "scour",
-      "phonetic": "'skavə",
+      "phonetic": "skaʊɹ",
       "pos": "vt.",
       "definition": "四处搜索；(费力地)擦洗n. 擦洗",
       "frequency": 9727,
@@ -1329,7 +1329,7 @@
     },
     {
       "word": "caution",
-      "phonetic": "'kɔ:ʃ(a)n",
+      "phonetic": "ˈkɑːʃ(ə)n",
       "pos": "n.",
       "definition": "小心，谨慎；警告vt.&vi. 警告；告诫",
       "frequency": 5354,
@@ -1346,7 +1346,7 @@
     },
     {
       "word": "cautious",
-      "phonetic": "'kɔ:ʃəs",
+      "phonetic": "ˈkɔːʃəs",
       "pos": "adj.",
       "definition": "谨慎的；十分小心的",
       "frequency": 5299,
@@ -1360,7 +1360,7 @@
     },
     {
       "word": "cautiously",
-      "phonetic": "'kofəsli",
+      "phonetic": "ˈkɑʃəsli",
       "pos": "adv.",
       "definition": "adv. 谨慎地7580precaution [pr'kɔ:ʃ(an] n. 预防措施；防范行动 / adv. 谨慎地",
       "frequency": 7580,
@@ -1375,7 +1375,7 @@
     },
     {
       "word": "precaution",
-      "phonetic": "pr'kɔ:ʃ(an",
+      "phonetic": "pɹiːˈkɔːʃən",
       "pos": "n.",
       "definition": "预防措施；防范行动",
       "frequency": 7209,
@@ -1401,7 +1401,7 @@
     },
     {
       "word": "show",
-      "phonetic": "ʃə u",
+      "phonetic": "ʃoʊ",
       "pos": "vt.",
       "definition": "显示；表明；(图画、图表、文章等)表示；拿给……看； 表现",
       "frequency": 177,
@@ -1415,7 +1415,7 @@
     },
     {
       "word": "shower",
-      "phonetic": "'Sauə",
+      "phonetic": "ˈʃaʊ.ə(ɹ)",
       "pos": "n.",
       "definition": "演出者；展示物品；淋浴；阵雨 vt. 抛撒 vi. 洗澡",
       "collocations": [
@@ -1428,7 +1428,7 @@
     },
     {
       "word": "showcase",
-      "phonetic": "'Səukers",
+      "phonetic": "ˈʃoʊˌkeɪs",
       "pos": "n.",
       "definition": "玻璃陈列柜；展示场合 vt. 展示",
       "frequency": 7426,
@@ -1455,7 +1455,7 @@
     },
     {
       "word": "showing",
-      "phonetic": "'Jəurn",
+      "phonetic": "ˈʃoʊɪŋ",
       "pos": "n.",
       "definition": "放映；表现；展览",
       "frequency": 10180,
@@ -1469,7 +1469,7 @@
     },
     {
       "word": "showroom",
-      "phonetic": "'Səuru:m;-rum",
+      "phonetic": "ˈʃoʊˌɹum",
       "pos": "n.",
       "definition": "(汽车、电器或煤气用具的)展销店",
       "frequency": 11402,
@@ -1482,7 +1482,7 @@
     },
     {
       "word": "showy",
-      "phonetic": "'Səuɪ",
+      "phonetic": "ˈʃəʊ.i",
       "pos": "adj.",
       "definition": "引人注目的；显眼的",
       "frequency": 18629,
@@ -1508,7 +1508,7 @@
     },
     {
       "word": "sheen",
-      "phonetic": "ʃ i:n",
+      "phonetic": "ʃiːn",
       "pos": "n.",
       "definition": "光泽；光彩",
       "frequency": 13114,
@@ -1521,7 +1521,7 @@
     },
     {
       "word": "caveat",
-      "phonetic": "'kæviæt;'ke1-",
+      "phonetic": "-æt",
       "pos": "n.",
       "definition": "警告；告诫",
       "frequency": 11701,
@@ -1533,7 +1533,7 @@
     },
     {
       "word": "scavenge",
-      "phonetic": "'skævin(d)3",
+      "phonetic": "ˈskæv.ɪndʒ",
       "pos": "vt.",
       "definition": "&vi. (在垃圾或废物中)捡拾",
       "frequency": 18279,
@@ -1546,7 +1546,7 @@
     },
     {
       "word": "scavenger",
-      "phonetic": "'skævin(d)3ə",
+      "phonetic": "ˈskæv.ən.dʒə(ɹ)",
       "pos": "n.",
       "definition": "捡破烂的人；食腐动物",
       "frequency": 15842,
@@ -1561,7 +1561,7 @@
     },
     {
       "word": "sure",
-      "phonetic": "ʃɔ:(r)",
+      "phonetic": "ʃɔɹ",
       "pos": "adj.",
       "definition": "确定地；肯定地；可靠的；务必的",
       "frequency": 348,
@@ -1577,7 +1577,7 @@
     },
     {
       "word": "surely",
-      "phonetic": "'fuəlr; 'Sɔ:li",
+      "phonetic": "ˈʃɔɹli",
       "pos": "adv.",
       "definition": "肯定地； 必定地",
       "frequency": 2434,
@@ -1603,7 +1603,7 @@
     },
     {
       "word": "sugar",
-      "phonetic": "'fugə",
+      "phonetic": "ˈʃʊɡɚ",
       "pos": "n.",
       "definition": "糖；食用糖； 一块糖",
       "frequency": 1600,
@@ -1613,7 +1613,7 @@
     },
     {
       "word": "sugary",
-      "phonetic": "'Sug(a)rɪ",
+      "phonetic": "ˈʃʊgəri",
       "pos": "adj.",
       "definition": "含糖的；(态度等)甜腻腻的；甜言蜜语的",
       "frequency": 19548,
@@ -1630,7 +1630,7 @@
     },
     {
       "word": "assure",
-      "phonetic": "ə'Sua;a'Sɔ:",
+      "phonetic": "əˈʃɝ",
       "pos": "vt.",
       "definition": "vt. 保证；确保得到",
       "frequency": 2594,
@@ -1649,7 +1649,7 @@
     },
     {
       "word": "assurance",
-      "phonetic": "ə 'Suər(a)ns",
+      "phonetic": "əˈʃɝəns",
       "pos": "n.",
       "definition": "保 证( guarantee,promise); 信 心( confidence)",
       "frequency": 5784,
@@ -1661,7 +1661,7 @@
     },
     {
       "word": "assured",
-      "phonetic": "ə 'fuəd",
+      "phonetic": "əˈʃɝd",
       "pos": "adj.",
       "definition": "确定的；自信的；有把握得到的",
       "frequency": 12542,
@@ -1673,7 +1673,7 @@
     },
     {
       "word": "reassure",
-      "phonetic": ",ri:ə'Sɔ:(r)",
+      "phonetic": "ɹiəˈʃʊə(ɹ)",
       "pos": "vt.",
       "definition": "使……安心；打消……的疑虑( set sb's mind at rest)5481",
       "mnemonic": "re-(back,again: 再次)+assure ( 保证) →再次保证；使某人恢复信 心→使……安心",
@@ -1685,7 +1685,7 @@
     },
     {
       "word": "reassuring",
-      "phonetic": ",ri:a'Suəriŋ",
+      "phonetic": "ɹiːəˈʃɔːɹɪŋ",
       "pos": "adj.",
       "definition": "令人感到宽慰的；令人放心的",
       "frequency": 11390,
@@ -1699,7 +1699,7 @@
     },
     {
       "word": "reassurance",
-      "phonetic": "ri:a'Juərəns",
+      "phonetic": "ˌriəˈʃʊrrəns",
       "pos": "n.",
       "definition": "( 能消除疑虑等的)肯定；保证",
       "frequency": 10856,
@@ -1712,7 +1712,7 @@
     },
     {
       "word": "insure",
-      "phonetic": "in'Sɔ:;in'fuə",
+      "phonetic": "ɪnˈʃʊɚ",
       "pos": "vt.",
       "definition": "确保，保证；给……保险",
       "frequency": 6275,
@@ -1725,7 +1725,7 @@
     },
     {
       "word": "insurer",
-      "phonetic": "in'fuərə",
+      "phonetic": "ɪnˈʃʊɹ.ɚ",
       "pos": "n.",
       "definition": "承保人；保险公司",
       "frequency": 6150,
@@ -1735,7 +1735,7 @@
     },
     {
       "word": "insurance",
-      "phonetic": "in'fuər(a)ns",
+      "phonetic": "ɪn.ˈʃɝ.əns",
       "pos": "n.",
       "definition": "保险；保险业；保险费；预防措施",
       "frequency": 1201,

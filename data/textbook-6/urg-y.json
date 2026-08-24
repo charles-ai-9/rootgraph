@@ -18,7 +18,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "metal：金属，l双写；-urgy：制作→冶炼",
+      "phonetic" : "mɛˈtælədʒi",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "metallurgy"
@@ -31,7 +31,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "drama：剧本，戏剧；-urgy：制作",
+      "phonetic" : "ˈdɹæməˌtɜː(ɹ)d͡ʒi",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "dramaturgy"
@@ -48,7 +48,7 @@
       ],
       "frequency" : 5378,
       "mnemonic" : "surg（=surgery：外科手术）+ -ical（形容词后缀）→外科的；外科手",
-      "phonetic" : "ˈsɜːdʒɪkl",
+      "phonetic" : "ˈsɝdʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "urg（y）",
       "word" : "surgical"
@@ -77,7 +77,7 @@
 
       ],
       "mnemonic" : "surge（=surgery：外科手术）+ -on（名词后缀，表人）→做外科手术\n的人→外科医生",
-      "phonetic" : "ˈsəːdʒən",
+      "phonetic" : "ˈsɜːdʒən",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "surgeon"
@@ -113,7 +113,7 @@
 
       ],
       "frequency" : 18192,
-      "phonetic" : "ˈkaɪərəʊpræktə(r)",
+      "phonetic" : "ˈkaɪ.ɹəˌpɹæk.tə(ɹ)",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "chiropractor"
@@ -131,7 +131,7 @@
       ],
       "frequency" : 4722,
       "mnemonic" : "邪解：har：谐音“哈”（笑声）+ -mony（=many：多）→欢笑很多→和谐",
-      "phonetic" : "ˈhɑːmənɪ",
+      "phonetic" : "ˈhɑɹməni",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "harmony"
@@ -163,7 +163,7 @@
       ],
       "frequency" : 15457,
       "mnemonic" : "harmony（协调；和声）+ -ize（使动词后缀）→使协调；使……统",
-      "phonetic" : "ˈhɑːmənaɪz",
+      "phonetic" : "ˈhɑɹmənaɪz",
       "pos" : "vt.",
       "rootHint" : "urg（y）",
       "word" : "harmonize"
@@ -178,7 +178,7 @@
       ],
       "frequency" : 15039,
       "mnemonic" : "harmony（和声）+ -ic（形容词\/名词后缀）→和声的；和声",
-      "phonetic" : "hɑːˈmɒnɪk",
+      "phonetic" : "hɑː(ɹ)ˈmɒnɪk",
       "pos" : "adj.",
       "rootHint" : "urg（y）",
       "word" : "harmonic"
@@ -193,7 +193,7 @@
       ],
       "frequency" : 17598,
       "mnemonic" : "harmon-（=harmony：和声）+ -ic（形容词后缀）+ -a（名词后缀）→\n能发出和声的乐器→口琴",
-      "phonetic" : "hɑːˈmɒnɪkə",
+      "phonetic" : "ˌhɑɹ.ˈmɒ.nɪ.kə",
       "pos" : "n.",
       "rootHint" : "urg（y）",
       "word" : "harmonica"

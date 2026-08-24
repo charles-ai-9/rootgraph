@@ -14,7 +14,7 @@
   "words": [
     {
       "word": "acquire",
-      "phonetic": "ə 'kwarə",
+      "phonetic": "əˈkwaɪəɹ",
       "pos": "vt.",
       "definition": "购得；获得；学到(知识、技能)2079",
       "mnemonic": "ac-(=ad- : 去；表强调)+-quir-(=to seek to obtain: 寻求获得)+ e→gain ,earn,procure: 获得；得到；赚得；购买→购得；获得；学到",
@@ -32,7 +32,7 @@
     },
     {
       "word": "acquired",
-      "phonetic": "ə 'kwarod",
+      "phonetic": "əˈkwaɪɹd",
       "pos": "adj.",
       "definition": "后天获得(习得)的",
       "frequency": 15638,
@@ -45,7 +45,7 @@
     },
     {
       "word": "acquisition",
-      "phonetic": ",aækwi'ziʃ(ə)n",
+      "phonetic": "æ.kwɪ.ˈzɪ.ʃən",
       "pos": "n.",
       "definition": "收购；获得；习得",
       "frequency": 3893,
@@ -59,7 +59,7 @@
     },
     {
       "word": "conquer",
-      "phonetic": "'kpŋkə",
+      "phonetic": "ˈkɑŋkɚ",
       "pos": "vt.",
       "definition": "征服；攻占；克服",
       "frequency": 6840,
@@ -88,7 +88,7 @@
     },
     {
       "word": "conqueror",
-      "phonetic": "'kpŋk(a)rə(r)",
+      "phonetic": "ˈkɒŋkəɹə",
       "pos": "n.",
       "definition": "征服者",
       "frequency": 16654,
@@ -100,7 +100,7 @@
     },
     {
       "word": "conquest",
-      "phonetic": "'kbŋkwest",
+      "phonetic": "ˈkɑnkwəst",
       "pos": "n.",
       "definition": "征服；克服",
       "frequency": 7790,

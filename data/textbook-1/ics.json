@@ -23,7 +23,7 @@
       "examples": [],
       "frequency": 12552,
       "mnemonic": "aero (=air：空气) +bi (生活) +ics (学) →依靠氧气来生活/活动→有氧",
-      "phonetic": "eəˈrəʊbɪks",
+      "phonetic": "əˈɹoʊbɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "aerobics"
@@ -33,7 +33,7 @@
       "definition": "美学；美的哲学",
       "examples": [],
       "frequency": 9507,
-      "phonetic": "i:sˈθetɪks; es-",
+      "phonetic": "ɛsˈθɛt.ɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "aesthetics"
@@ -43,7 +43,7 @@
       "definition": "体育运动；竞技（athletic的复数形式）",
       "examples": [],
       "frequency": 8720,
-      "phonetic": "æθˈletɪks",
+      "phonetic": "æθˈlɛtɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "athletics"
@@ -85,7 +85,8 @@
       "frequency": 8881,
       "pos": "n.",
       "rootHint": "ics",
-      "word": "demographics"
+      "word": "demographics",
+      "phonetic": "dɛməˈɡɹæfɪks"
     },
     {
       "collocations": [],
@@ -112,7 +113,7 @@
       "definition": "经济学",
       "examples": [],
       "frequency": 13759,
-      "phonetic": "ˌi:kəˈnɔmiks",
+      "phonetic": "ˌikəˈnɑmɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "economics"
@@ -132,7 +133,7 @@
       "definition": "伦理学；伦理观；道德标准",
       "examples": [],
       "frequency": 3259,
-      "phonetic": "ˈeθɪks",
+      "phonetic": "ˈɛθ.ɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "ethics"
@@ -142,7 +143,7 @@
       "definition": "遗传学",
       "examples": [],
       "frequency": 7789,
-      "phonetic": "dʒɪˈnetɪks",
+      "phonetic": "dʒɛˈnɛ.tɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "genetics"
@@ -152,7 +153,7 @@
       "definition": "体操；体育；体操运动",
       "examples": [],
       "frequency": 10709,
-      "phonetic": "dʒɪmˈnæstɪks",
+      "phonetic": "dʒɪmˈnæs.tɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "gymnastics"
@@ -177,7 +178,7 @@
       "definition": "语言学",
       "examples": [],
       "frequency": 16221,
-      "phonetic": "lɪŋˈgwɪstɪks",
+      "phonetic": "liŋˈɡwɪstɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "linguistics"
@@ -207,7 +208,7 @@
       "definition": "玄学，形而上学",
       "examples": [],
       "frequency": 15591,
-      "phonetic": "metəˈfɪzɪks",
+      "phonetic": "mɛtəˈfɪzɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "metaphysics"
@@ -237,7 +238,7 @@
       "definition": "物理学；物理现象",
       "examples": [],
       "frequency": 3446,
-      "phonetic": "ˈfɪzɪks",
+      "phonetic": "ˈfɪz.ɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "physics"
@@ -257,7 +258,7 @@
       "definition": "政治，政治学；政治活动；政纲",
       "examples": [],
       "frequency": 954,
-      "phonetic": "ˈpɒlətɪks",
+      "phonetic": "ˈpɑl.ɪˌtɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "politics"
@@ -267,7 +268,7 @@
       "definition": "机器人学（robotic的复数）",
       "examples": [],
       "frequency": 17488,
-      "phonetic": "rəʊˈbɒtɪks",
+      "phonetic": "ɹəʊˈbɒt.ɪks",
       "pos": "n.",
       "rootHint": "ics",
       "word": "robotics"

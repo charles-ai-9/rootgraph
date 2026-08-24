@@ -21,7 +21,7 @@
       ],
       "frequency" : 15008,
       "mnemonic" : "scrib(写)+e(=person who，表示人)→抄写员",
-      "phonetic" : "skraɪb",
+      "phonetic" : "skɹaɪb",
       "pos" : "n.",
       "rootHint" : "scribe",
       "word" : "scribe"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 10075,
       "mnemonic" : "scrib(写)+le(反复或连续动作、动作的小幅度重复，如dawdle, dwindle,\nsquabble)→写字或画画等动作反复、连续重复(不太有规则地写或\n画)→乱写乱画，涂鸦；潦草写成的字、文章或图画",
-      "phonetic" : "ˈskrɪb(ə)l",
+      "phonetic" : "ˈskɹɪbəl",
       "pos" : "v.",
       "rootHint" : "scribe",
       "word" : "scribble"
@@ -51,7 +51,7 @@
       ],
       "frequency" : 3315,
       "mnemonic" : "script(写)→脚本；剧本；手稿；写剧本",
-      "phonetic" : "skrɪpt",
+      "phonetic" : "skɹɪpt",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "script"
@@ -70,7 +70,7 @@
       ],
       "frequency" : 10771,
       "mnemonic" : "script(写)+-ure(名词后缀)→写下来的经文，经典→《圣经》；《圣",
-      "phonetic" : "ˈskrɪptʃə",
+      "phonetic" : "ˈskɹɪptʃɚ",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "scripture"
@@ -103,7 +103,7 @@
       ],
       "frequency" : 11210,
       "mnemonic" : "a(=ad，含义为to，去)+scribe(写)→把(功劳)写\/记在你账上→归因于\n(“把功劳记在你账上”就是“把功劳归因于你”)",
-      "phonetic" : "əˈskraɪb",
+      "phonetic" : "əˈskɹaɪb",
       "pos" : "vt.",
       "rootHint" : "scribe",
       "word" : "ascribe"
@@ -123,7 +123,7 @@
       ],
       "frequency" : 19825,
       "mnemonic" : "con (=com, together)+script(写)→共同被写入(征募士兵的册子)→应征",
-      "phonetic" : "kənˈskrɪpt",
+      "phonetic" : "ˈkɑnskɹɪpt",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "conscript"
@@ -139,7 +139,7 @@
       ],
       "frequency" : 5176,
       "mnemonic" : "man(=hand，手)+u(连接符号)+script(=scribe写，来源于单词“write：\n写”)→用手亲自书写的稿件→手稿",
-      "phonetic" : "ˈmænjʊskrɪpt",
+      "phonetic" : "ˈmænjəˌskɹɪpt",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "manuscript"
@@ -157,7 +157,7 @@
       ],
       "frequency" : 5449,
       "mnemonic" : "pre(提前)+scribe(写)→提前写下来→规定、指导；开处方(即：指医生",
-      "phonetic" : "prɪˈskraɪb",
+      "phonetic" : "pɹɪˈskɹaɪb",
       "pos" : "vt",
       "rootHint" : "scribe",
       "word" : "prescribe"
@@ -172,7 +172,7 @@
       ],
       "frequency" : 9936,
       "mnemonic" : "pre(提前)+scribe(写)+d (形容词后缀)→规定的",
-      "phonetic" : "prɪˈskraɪbd",
+      "phonetic" : "pɹəˈskɹaɪbd",
       "pos" : "adj.",
       "rootHint" : "scribe",
       "word" : "prescribed"
@@ -191,7 +191,7 @@
       ],
       "frequency" : 3339,
       "mnemonic" : "pre(提前)+script(写)+ion(名词后缀)→提前写下来的(然后根据处方配\n药)，提前写下来的规则→处方；规定(方案)",
-      "phonetic" : "prɪˈskrɪpʃ(ə)n",
+      "phonetic" : "pɝˈskɹɪpʃən",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "prescription"
@@ -209,7 +209,7 @@
       ],
       "frequency" : 9707,
       "mnemonic" : "trans(转变，转换)+-scrib(=write，写)+-e→把思想、言语、笔记等转\n换方式，整理成文字→转录；抄写；整理；打印",
-      "phonetic" : "trænˈskraɪb;trɑːn-",
+      "phonetic" : "trænˈskɹaɪb",
       "pos" : "vt.",
       "rootHint" : "scribe",
       "word" : "transcribe"
@@ -224,7 +224,7 @@
       ],
       "frequency" : 6293,
       "mnemonic" : "trans(转变，转换)+-scrib(=write，写)→录音、言语、笔记等整理成另\n外一种形式的书面文字→文字本；成绩单；抄本，转录物",
-      "phonetic" : "ˈtrænskrɪpt;ˈtrɑːn-",
+      "phonetic" : "ˈtɹænskɹɪpt",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "transcript"
@@ -239,7 +239,7 @@
       ],
       "frequency" : 14633,
       "mnemonic" : "trans(转变，转换)+-script(写)+-ion→抄写；抄本；誊写",
-      "phonetic" : "trænˈskrɪpʃ(ə)n;trɑːn-",
+      "phonetic" : "tɹænˈskɹɪpʃən",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "transcription"
@@ -259,7 +259,7 @@
       ],
       "frequency" : 17559,
       "mnemonic" : "circum(=around，圈；周围)+scribe(写)→在……周围画圈圈(划定界\n限)→限制，限 定；在……周围画线",
-      "phonetic" : "ˈsɜːkəmskraɪb",
+      "phonetic" : "ˈsɝ.kəm.skɹaɪb",
       "pos" : "vt.",
       "rootHint" : "scribe",
       "word" : "circumscribe"
@@ -283,7 +283,7 @@
       ],
       "frequency" : 8132,
       "mnemonic" : "sub(=under，下)+scrib(写)+e(动词词尾)→在文件下面写下(名字)，表\n示订购、捐款、同意、赞成→(签署名字)订阅；捐款；预定；同意、",
-      "phonetic" : "səbˈskraib",
+      "phonetic" : "səbˈskɹaɪb",
       "pos" : "vi.",
       "rootHint" : "scribe",
       "word" : "subscribe"
@@ -298,7 +298,7 @@
       ],
       "frequency" : 7333,
       "mnemonic" : "sub(=under，下)+scrib(写)+er(名词后缀，表示人)→在文件下面签署\n名字的人(以承诺定期做某事)→订阅者；定期捐款者；用户",
-      "phonetic" : "səbˈskraibə",
+      "phonetic" : "səbˈskɹaɪbəɹ",
       "pos" : "n.",
       "rootHint" : "scribe",
       "word" : "subscriber"
@@ -328,7 +328,7 @@
       ],
       "frequency" : 569,
       "mnemonic" : "de(=down：下)+scribe(写)→写下(文字等)→“记”叙、描述",
-      "phonetic" : "dɪˈskraɪb",
+      "phonetic" : "dəˈskɹaɪb",
       "pos" : "vt.",
       "rootHint" : "scribe",
       "word" : "describe"
@@ -343,7 +343,7 @@
       ],
       "frequency" : 2190,
       "mnemonic" : "de(下)+script(写)+ion(名词后缀)→描述，描写，说明",
-      "phonetic" : "dɪˈskrɪpʃ(ə)n",
+      "phonetic" : "dɪˈskɹɪpʃən",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "description"
@@ -358,7 +358,7 @@
       ],
       "frequency" : 7022,
       "mnemonic" : "de(下)+script(写)+ive(形容词后缀)→描写的",
-      "phonetic" : "dɪˈskrɪptɪv",
+      "phonetic" : "dɪˈskɹɪptɪv",
       "pos" : "adj.",
       "rootHint" : "script",
       "word" : "descriptive"
@@ -373,7 +373,7 @@
       ],
       "frequency" : 19739,
       "mnemonic" : "de(=down：下)+scrib(写)+e(动词词汇)→写下(文字等)→“记”叙、",
-      "phonetic" : "dɪˈskrɪptə",
+      "phonetic" : "dɪˈskɹɪptə(ɹ)",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "descriptor"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 15178,
       "mnemonic" : "non(=no，不)+de(下)+script(写)→不能描绘、形容、描写的人或物→",
-      "phonetic" : "ˈnɒndɪskrɪpt",
+      "phonetic" : "nɑndəsˈkɹɪpt",
       "pos" : "adj.",
       "rootHint" : "script",
       "word" : "nondescript"
@@ -403,7 +403,7 @@
       ],
       "frequency" : 9397,
       "mnemonic" : "in-(进)+-scribe(写)→写在、刻在(碑文、金属、纸上)上面的字→题",
-      "phonetic" : "ɪnˈskraɪb",
+      "phonetic" : "ɪnˈskɹaɪb",
       "pos" : "vt.",
       "rootHint" : "scribe",
       "word" : "inscribe"
@@ -418,7 +418,7 @@
       ],
       "frequency" : 19999,
       "mnemonic" : "inscribe(题写；铭记；雕刻)+-d(形容词后缀)→题写的；铭刻的；雕刻",
-      "phonetic" : "ɪnˈskraɪbd",
+      "phonetic" : "ɪnˈskɹaɪbd",
       "pos" : "adj.",
       "rootHint" : "scribe",
       "word" : "inscribed"
@@ -433,7 +433,7 @@
       ],
       "frequency" : 9175,
       "mnemonic" : "in-(进，在里面)+script(写)+ion(名词后缀)→题词；铭记；雕刻",
-      "phonetic" : "ɪnˈskrɪpʃ(ə)n",
+      "phonetic" : "ɪnˈskɹɪpʃən",
       "pos" : "n.",
       "rootHint" : "script",
       "word" : "inscription"

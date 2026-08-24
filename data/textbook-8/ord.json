@@ -34,7 +34,7 @@
         "The house had been kept in good order.\n房子保持得很有条理（井井有条）。"
       ],
       "frequency" : 685,
-      "phonetic" : "ˈɔːdə(r)",
+      "phonetic" : "ˈɔɹdɚ",
       "pos" : "n.",
       "rootHint" : "ord",
       "word" : "order"
@@ -50,7 +50,7 @@
 
       ],
       "frequency" : 16971,
-      "phonetic" : "ˈɔːdəd",
+      "phonetic" : "ˈɔɹdɚd",
       "pos" : "adj.",
       "rootHint" : "ord",
       "word" : "ordered"
@@ -82,7 +82,7 @@
       ],
       "frequency" : 7888,
       "mnemonic" : "order（顺序；条理；秩序）+-ly（形容词后缀）→整齐的；有秩序",
-      "phonetic" : "ˈɔːdəli",
+      "phonetic" : "ˈɔɹdɚli",
       "pos" : "adj.",
       "rootHint" : "ord",
       "word" : "orderly"
@@ -116,7 +116,7 @@
       ],
       "frequency" : 2388,
       "mnemonic" : "dis-（=not：使相反）+ order（秩序；条理）→没有秩序，条理→混",
-      "phonetic" : "dɪsˈɔːdə(r)",
+      "phonetic" : "dɪsˈɔːɹdɚ",
       "pos" : "n.",
       "rootHint" : "ord",
       "word" : "disorder"
@@ -197,7 +197,7 @@
       ],
       "frequency" : 6149,
       "mnemonic" : "coordinate（协调；搭配；配合）+ -ion（名词后缀）→协调，搭配，",
-      "phonetic" : "kəʊˌɔːdɪˈneɪʃn",
+      "phonetic" : "koʊˌɔɹdɪˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "ord",
       "word" : "coordination"
@@ -229,7 +229,7 @@
       ],
       "frequency" : 2289,
       "mnemonic" : "ordin-（=order：秩序）+ -ary（形容词后缀）→遵从一般秩序的→普",
-      "phonetic" : "ˈɔːdnri",
+      "phonetic" : "ˈɔɹdɪnɛ(ə)ɹi",
       "pos" : "adj.",
       "rootHint" : "ord",
       "word" : "ordinary"
@@ -243,7 +243,7 @@
         "We do not ordinarily carry out this type of work.\n我们通常不会实际去做这类工作。"
       ],
       "frequency" : 9613,
-      "phonetic" : "ˈɔːdnrəli",
+      "phonetic" : "ɔːdɪˈnæɹɪli",
       "pos" : "adv.",
       "rootHint" : "ord",
       "word" : "ordinarily"
@@ -259,7 +259,7 @@
       ],
       "frequency" : 2648,
       "mnemonic" : "extra-（超过的）+ ordinary（普通的；平常的）→超过平常的，普通\n的→意想不到的；卓越的；特别的",
-      "phonetic" : "ɪkˈstrɔːdnri",
+      "phonetic" : "ɪksˈtɹɔː(ɹ)dɪnəɹi",
       "pos" : "adj.",
       "rootHint" : "ord",
       "word" : "extraordinary"
@@ -310,7 +310,7 @@
       ],
       "frequency" : 17248,
       "mnemonic" : "subordinate（使附属于；从属的）+ -ion（名词后缀）→附属；从属",
-      "phonetic" : "səˌbɔːdɪˈneɪʃn",
+      "phonetic" : "səˌbɔːdɪˈneɪʃn̩",
       "pos" : "n.",
       "rootHint" : "ord",
       "word" : "subordination"
@@ -342,7 +342,7 @@
       ],
       "frequency" : 8070,
       "mnemonic" : "ordin（=ordain：规定；命令）+ -ance（名词后缀）→法规；指示，",
-      "phonetic" : "ˈɔːdɪnəns",
+      "phonetic" : "ˈɔɹ.dɪ.nəns",
       "pos" : "n.",
       "rootHint" : "ord",
       "word" : "ordinance"
@@ -403,7 +403,7 @@
       ],
       "frequency" : 18136,
       "mnemonic" : "in-（=not, opposite of：不；表相反）+ ordinate（排列，秩序；限度）\n→超过了限度的、秩序的→引申词义过度的；过分的；超乎预料的",
-      "phonetic" : "ɪˈnɔːdɪnət",
+      "phonetic" : "ɪnˈɔːdɪnɪt",
       "pos" : "adj.",
       "rootHint" : "ord",
       "word" : "inordinate"

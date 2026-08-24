@@ -14,7 +14,7 @@
   "words": [
     {
       "word": "myth",
-      "phonetic": "miθ",
+      "phonetic": "mɪθ",
       "pos": "n.",
       "definition": "神话；虚构的东西；荒诞的说法",
       "frequency": 3101,
@@ -28,7 +28,7 @@
     },
     {
       "word": "mythic",
-      "phonetic": "'miθik",
+      "phonetic": "ˈmɪθɪk",
       "pos": "adj.",
       "definition": "神话的；很著名的；很重要的",
       "frequency": 12389,
@@ -41,7 +41,7 @@
     },
     {
       "word": "mythical",
-      "phonetic": "'miθikəl",
+      "phonetic": "ˈmɪθɪkəl",
       "pos": "adj.",
       "definition": "神话中的；虚构的",
       "frequency": 11246,
@@ -55,7 +55,7 @@
     },
     {
       "word": "mystery",
-      "phonetic": "'mist(a)ri",
+      "phonetic": "ˈmɪstəɹi",
       "pos": "n.",
       "definition": "谜；神秘；悬疑(推理)故事adj. 来历不明的",
       "frequency": 2352,
@@ -66,7 +66,7 @@
     },
     {
       "word": "mysterious",
-      "phonetic": "mɪ'stroriəs ",
+      "phonetic": "məˈstɪɹi.əs",
       "pos": "adj.",
       "definition": "神秘的；难以理解的",
       "frequency": 4132,
@@ -79,7 +79,7 @@
     },
     {
       "word": "mystic",
-      "phonetic": "'mistik",
+      "phonetic": "ˈmɪstɪk",
       "pos": "adj.",
       "definition": "神秘的；难以理解的 n. 神秘主义者",
       "frequency": 14760,
@@ -92,7 +92,7 @@
     },
     {
       "word": "mystical",
-      "phonetic": "m'rstik(ə)l",
+      "phonetic": "ˈmɪstɪkl̩",
       "pos": "adj.",
       "definition": "神秘的；神秘主义的",
       "frequency": 8681,
@@ -105,7 +105,7 @@
     },
     {
       "word": "mysticism",
-      "phonetic": "'mistisIz(a)m",
+      "phonetic": "ˈmɪs.tɪˌsɪz.əm̩",
       "pos": "n.",
       "definition": "神秘主义(一种通过冥想和祷告寻求真理、知识",
       "collocations": [],
@@ -114,7 +114,7 @@
     },
     {
       "word": "mystify",
-      "phonetic": "'mistifar",
+      "phonetic": "ˈmɪstɪfaɪ",
       "pos": "vt.",
       "definition": "使困惑不解",
       "frequency": 18567,
@@ -127,7 +127,7 @@
     },
     {
       "word": "mystique",
-      "phonetic": "mɪ'sti:k",
+      "phonetic": "mɪˈstiːk",
       "pos": "n.",
       "definition": "神秘性",
       "frequency": 13340,
@@ -145,7 +145,7 @@
     },
     {
       "word": "muted",
-      "phonetic": "'mju:trd",
+      "phonetic": "ˈmjuːtɪd",
       "pos": "adj.",
       "definition": "( 声音)减轻的；(颜色)柔和的；(情感、意见等)表达不 明确的",
       "frequency": 9571,
@@ -160,7 +160,7 @@
     },
     {
       "word": "long",
-      "phonetic": "loŋ",
+      "phonetic": "ˈlɔːŋ",
       "pos": "adj.",
       "definition": "长时间的；长久的；(篇幅)长的；长的(时间)adv.长时间地； 长久地",
       "frequency": 255,
@@ -185,7 +185,7 @@
     },
     {
       "word": "long-awaited",
-      "phonetic": "'lono,wetrd",
+      "phonetic": "ˌlɔŋəˈweɪtəd",
       "pos": "adj.",
       "definition": "等待已久的",
       "frequency": 16782,
@@ -196,7 +196,7 @@
     },
     {
       "word": "long-term",
-      "phonetic": ",lon't3:m",
+      "phonetic": "lɑŋ tɜrm",
       "pos": "adj.",
       "definition": "长期的",
       "frequency": 1774,
@@ -207,7 +207,7 @@
     },
     {
       "word": "long-term-care",
-      "phonetic": ",lon'ts:mkeə(r)",
+      "phonetic": "ˌlɔːŋtɜrmˈker",
       "pos": "a",
       "definition": "dj. 长期护理的",
       "frequency": 18990,
@@ -218,7 +218,7 @@
     },
     {
       "word": "long-held",
-      "phonetic": "'lonheld",
+      "phonetic": "ˌlɔːŋˈheld",
       "pos": "adj.",
       "definition": "长期持有的",
       "frequency": 19853,
@@ -229,7 +229,7 @@
     },
     {
       "word": "longing",
-      "phonetic": "'loniŋ",
+      "phonetic": "ˈlɔːŋɪŋ",
       "pos": "n.",
       "definition": "( 对……的)渴望，热望 adj. 渴望的；热望的",
       "frequency": 8297,
@@ -255,7 +255,7 @@
     },
     {
       "word": "long-lived",
-      "phonetic": "'lon'livd",
+      "phonetic": "ˈlɒŋˈlaɪvd",
       "pos": "adj.",
       "definition": "长寿的；持久的",
       "frequency": 20069,
@@ -344,7 +344,7 @@
     },
     {
       "word": "along",
-      "phonetic": "ə 'loŋ",
+      "phonetic": "əˈlɔŋ",
       "pos": "prep.",
       "definition": "沿着；在……边上adv. 向前地； 一直地；一起",
       "frequency": 448,
@@ -360,7 +360,7 @@
     },
     {
       "word": "alongside",
-      "phonetic": "əlon'sard",
+      "phonetic": "ə.lɔŋˈsaɪd",
       "pos": "prep.",
       "definition": "在……旁边；与……并肩(工作)adv.在旁边",
       "frequency": 4243,
@@ -374,7 +374,7 @@
     },
     {
       "word": "prolong",
-      "phonetic": "prə'lbŋ",
+      "phonetic": "pɹoʊˈlɑŋ",
       "pos": "vt.",
       "definition": "延长；拉长；拖长(感觉或活动)967020000词汇巅峰",
       "mnemonic": "pro-(向前)+long(长的)→ 向前拉；向前延伸→延长；拉长；拖长(感觉 或活动)",
@@ -387,7 +387,7 @@
     },
     {
       "word": "prolonged",
-      "phonetic": "pr'lord",
+      "phonetic": "pɹoʊˈlɑŋd",
       "pos": "adj.",
       "definition": "持续很久的；长期的",
       "frequency": 7504,
@@ -415,7 +415,7 @@
     },
     {
       "word": "belong",
-      "phonetic": "br'loŋ",
+      "phonetic": "bɪˈlɔŋ",
       "pos": "vi.",
       "definition": "属于(某一类别、类型、群);有权拥有",
       "frequency": 1648,
@@ -440,7 +440,7 @@
     },
     {
       "word": "headlong",
-      "phonetic": "'hedlbŋ",
+      "phonetic": "ˈhɛdlɔŋ",
       "pos": "adv.",
       "definition": "adv. 头朝前地；迅猛地；轻率地adj . 轻率的",
       "frequency": 19265,
@@ -458,7 +458,7 @@
     },
     {
       "word": "linger",
-      "phonetic": "'lingə",
+      "phonetic": "ˈlɪŋɡə",
       "pos": "vi.",
       "definition": "徘徊；继续逗留；(想法、感觉、疾病)继续存留",
       "frequency": 5804,
@@ -486,7 +486,7 @@
     },
     {
       "word": "private",
-      "phonetic": "'praivit",
+      "phonetic": "ˈpɹaɪvət",
       "pos": "adj.",
       "definition": "私有的；私人的；私下的",
       "frequency": 672,
@@ -504,7 +504,7 @@
     },
     {
       "word": "privacy",
-      "phonetic": "'privəsI;'prar-",
+      "phonetic": "ˈpɹaɪv.ə.sɪ",
       "pos": "n.",
       "definition": "隐私；私人空间",
       "frequency": 3084,
@@ -517,7 +517,7 @@
     },
     {
       "word": "privately",
-      "phonetic": "'prarvitli",
+      "phonetic": "ˈpɹaɪvətli",
       "pos": "adv.",
       "definition": "私下地(买、卖)4773",
       "mnemonic": "private(私下的)+-1y(副词后缀)→私下地(买、卖)\nprivate (私人的)+sector (部分)→ (经济的)私营部分",
@@ -531,7 +531,7 @@
     },
     {
       "word": "privatize",
-      "phonetic": "'praiv,taiz",
+      "phonetic": "ˈpɹaɪvətaɪz",
       "pos": "vt.",
       "definition": "使私有化",
       "frequency": 11163,
@@ -544,7 +544,7 @@
     },
     {
       "word": "privatization",
-      "phonetic": ",prarvətar'zerʃən",
+      "phonetic": "ˌpraɪvətaɪˈzeɪʃn",
       "pos": "n.",
       "definition": "私有化",
       "frequency": 6749,
@@ -557,7 +557,7 @@
     },
     {
       "word": "privy",
-      "phonetic": "'privi",
+      "phonetic": "ˈpɹɪv.i",
       "pos": "adj.",
       "definition": "了解某事的内情；私下知晓某事 n. ( 尤指室外的)厕所",
       "frequency": 14428,
@@ -569,7 +569,7 @@
     },
     {
       "word": "deprive",
-      "phonetic": "di'praiv",
+      "phonetic": "dɪˈpɹaɪv",
       "pos": "v.",
       "definition": "v. 剥夺；使丧失；使不能享有",
       "frequency": 6290,
@@ -586,7 +586,7 @@
     },
     {
       "word": "deprived",
-      "phonetic": "drprarvd",
+      "phonetic": "dɪˈpɹaɪvd",
       "pos": "adj.",
       "definition": "贫困的；穷苦的",
       "frequency": 17651,
@@ -599,7 +599,7 @@
     },
     {
       "word": "deprivation",
-      "phonetic": "depri'veɪʃ(ə)n",
+      "phonetic": "dɛp.ɹɪ.veɪʃən",
       "pos": "n.",
       "definition": "剥夺；贫困；匮乏",
       "frequency": 9398,
@@ -612,7 +612,7 @@
     },
     {
       "word": "proper",
-      "phonetic": "'prppə",
+      "phonetic": "ˈpɹɑ.pɚ",
       "pos": "adj.",
       "definition": "像样的；正规的；适宜的；严格意义上的adv. 完全地； 彻底地；适当地",
       "frequency": 2075,
@@ -624,7 +624,7 @@
     },
     {
       "word": "properly",
-      "phonetic": "'prpp(ə)li",
+      "phonetic": "ˈpɹɑ.pɚ.li",
       "pos": "adv.",
       "definition": "适当地；得体地；真正地",
       "frequency": 2902,
@@ -637,7 +637,7 @@
     },
     {
       "word": "improper",
-      "phonetic": "m'prppə",
+      "phonetic": "ɪmˈpɹɔp.ə",
       "pos": "adj.",
       "definition": "不诚实的；不合法的；不恰当的；错误的",
       "frequency": 8408,
@@ -663,7 +663,7 @@
     },
     {
       "word": "property",
-      "phonetic": "p'rppəti",
+      "phonetic": "ˈpɹɑp.ɚt.i",
       "pos": "n.",
       "definition": "财产；房地产；(物质、物体的)特性",
       "frequency": 996,
@@ -678,7 +678,7 @@
     },
     {
       "word": "propriety",
-      "phonetic": "prə'prarəti",
+      "phonetic": "pɹəˈpɹaɪəti",
       "pos": "n.",
       "definition": "n. ( 行为的)得体；礼仪",
       "frequency": 14138,
@@ -692,7 +692,7 @@
     },
     {
       "word": "impropriety",
-      "phonetic": ",imprə'prarotr",
+      "phonetic": "ˌɪmprəˈpraɪrti",
       "pos": "n.",
       "definition": "不正当的行为[行动];不得体的举止",
       "frequency": 16068,
@@ -705,7 +705,7 @@
     },
     {
       "word": "proprietor",
-      "phonetic": "prə'prartə",
+      "phonetic": "pɹəˈpɹaɪətɚ",
       "pos": "n.",
       "definition": "所有人；业主",
       "frequency": 11139,
@@ -718,7 +718,7 @@
     },
     {
       "word": "proprietary",
-      "phonetic": "prə'prarət(a)ri",
+      "phonetic": "pɹəˈpɹɑɪətɛɹi",
       "pos": "n.",
       "definition": "专营的；专利的；所有的",
       "frequency": 10070,
@@ -743,7 +743,7 @@
     },
     {
       "word": "appropriation",
-      "phonetic": "əp,rəuprɪ'erʃ(o)n",
+      "phonetic": "əˌpɹoʊpɹiˈeɪʃən",
       "pos": "n.",
       "definition": "拨款；挪用",
       "frequency": 6632,
@@ -782,7 +782,7 @@
     },
     {
       "word": "inappropriate",
-      "phonetic": "in'prəupriət",
+      "phonetic": "ˌɪnəˈpɹəʊpɹi.ət",
       "pos": "adj.",
       "definition": "(对特定目的或情况)不合适的",
       "frequency": 5107,
@@ -798,7 +798,7 @@
     },
     {
       "word": "inappropriately",
-      "phonetic": ",inə'prəupri:itli",
+      "phonetic": "ˌɪnəˈproʊprɪrtlɪ",
       "pos": "adv.",
       "definition": "不适当地",
       "frequency": 16816,
@@ -812,7 +812,7 @@
     },
     {
       "word": "price",
-      "phonetic": "prars",
+      "phonetic": "pɹaɪs",
       "pos": "n.",
       "definition": "价格；代价；定价 vt. 将……定价",
       "frequency": 476,
@@ -828,7 +828,7 @@
     },
     {
       "word": "priceless",
-      "phonetic": "'prarslis",
+      "phonetic": "ˈpɹaɪsləs",
       "pos": "adj.",
       "definition": "极其贵重的；无价的；(品质或技能)极其重要的；极 其有用的",
       "frequency": 12829,
@@ -844,7 +844,7 @@
     },
     {
       "word": "pricey",
-      "phonetic": "'praisI",
+      "phonetic": "ˈpɹaɪsi",
       "pos": "adj.",
       "definition": "价格高的；昂贵的",
       "frequency": 11472,
@@ -857,7 +857,7 @@
     },
     {
       "word": "pricing",
-      "phonetic": "'praisiŋ",
+      "phonetic": "ˈpɹaɪsɪŋ",
       "pos": "n.",
       "definition": "定价；作价；计价",
       "frequency": 8348,
@@ -870,7 +870,7 @@
     },
     {
       "word": "high-priced",
-      "phonetic": "'hai praist",
+      "phonetic": "ˈhaiˈpraist",
       "pos": "adj.",
       "definition": "高价的；昂贵的",
       "frequency": 15542,
@@ -902,7 +902,7 @@
     },
     {
       "word": "praise",
-      "phonetic": "prerz",
+      "phonetic": "pɹeɪz",
       "pos": "vt.",
       "definition": "(尤指公开地)赞扬；(尤指在教堂唱赞美诗)赞美(上帝)n. 赞 扬，赞美；(对上帝的)崇拜，赞颂",
       "frequency": 3754,
@@ -917,7 +917,7 @@
     },
     {
       "word": "appraise",
-      "phonetic": "ə 'prerz",
+      "phonetic": "əˈpɹeɪz",
       "pos": "vt.",
       "definition": "评价；估价",
       "frequency": 13542,
@@ -933,7 +933,7 @@
     },
     {
       "word": "appraisal",
-      "phonetic": "ə'preiz(ə)l",
+      "phonetic": "əˈpɹeɪzəl",
       "pos": "n.",
       "definition": "评价；估价；鉴定；(官方或正式的常带考核性质 的)评定，评价",
       "frequency": 7899,
@@ -963,7 +963,7 @@
     },
     {
       "word": "appreciate",
-      "phonetic": "ə'pri:frert;-SI-",
+      "phonetic": "əˈpɹiː.si.eɪt",
       "pos": "vt.",
       "definition": "欣赏；理解；感激； 增值",
       "frequency": 1751,
@@ -996,7 +996,7 @@
     },
     {
       "word": "depreciate",
-      "phonetic": "dr'pri:fiert",
+      "phonetic": "dɪˈpɹiːʃɪeɪt",
       "pos": "vi.",
       "definition": "贬值，跌价；使折旧 vt.贬低(重要性);轻视",
       "mnemonic": "de-(=down: 向下；减少)+-prec-(=prce: 价值)+-i+-ate(动词后缀)→使 价值减少→贬值；使折旧；贬低(重要性)",
@@ -1010,7 +1010,7 @@
     },
     {
       "word": "depreciation",
-      "phonetic": "dr,pri:fi'erʃ(ə)n;-si'er-",
+      "phonetic": "dɪˌpɹiːʃɪˈeɪʃən",
       "pos": "n.",
       "definition": "(使)(货币等)贬值；(使)跌价",
       "frequency": 15810,
@@ -1026,7 +1026,7 @@
     },
     {
       "word": "interpret",
-      "phonetic": "in'ts:prit ",
+      "phonetic": "ɪnˈtɝ.pɹɪt",
       "pos": "vt.",
       "definition": "&vi. 口译 vt. 把……理解[解释]为；阐释",
       "frequency": 2783,
@@ -1041,7 +1041,7 @@
     },
     {
       "word": "interpretation",
-      "phonetic": "ints:pri'terʃ(ən",
+      "phonetic": "ɪntəpɹəˈteɪʃən",
       "pos": "n.",
       "definition": "解释，说明；(对戏剧、音乐作品等的)表 演，演绎",
       "frequency": 2401,
@@ -1057,7 +1057,7 @@
     },
     {
       "word": "interpreter",
-      "phonetic": "in'ts:pritə",
+      "phonetic": "ɪnˈtɜːpɹɪtə",
       "pos": "n.",
       "definition": "口译者；表演者；(计算机的)解释程序",
       "frequency": 5701,
@@ -1086,7 +1086,7 @@
     },
     {
       "word": "pornography",
-      "phonetic": "pɔ:'npgrəfi",
+      "phonetic": "pɔː(ɹ)ˈnɒɡ.ɹə.fi",
       "pos": "n.",
       "definition": "色情作品(杂志，电影等)7284",
       "mnemonic": "porno-(=per-:to traffic,to sell: 做交易；买卖)+graph (写；画)+y(名 词后缀)→将描写妓女的图画或文字进行交易买卖→后引申为进行交 易、买卖的色情作品如杂志、电影等→色情作品(杂志，电影等)",
@@ -1100,7 +1100,7 @@
     },
     {
       "word": "pornographic",
-      "phonetic": ",pɔ:na'græfik",
+      "phonetic": "ˌpɔːnəˈgræfɪk",
       "pos": "adj.",
       "definition": "色情的",
       "frequency": 13649,

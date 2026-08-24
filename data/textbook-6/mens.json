@@ -40,7 +40,7 @@
       ],
       "frequency" : 8097,
       "mnemonic" : "moon（月亮）+ light（光）→月光；兼职（月光下的工作，不为外人",
-      "phonetic" : "ˈmuːnlaɪt",
+      "phonetic" : "ˈmunˌlaɪt",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "moonlight"
@@ -55,7 +55,7 @@
       ],
       "frequency" : 19044,
       "mnemonic" : "moon（月亮）+ lit（light照亮、照耀的过去分词）→月光照耀的",
-      "phonetic" : "ˈmuːnlɪt",
+      "phonetic" : "ˈmuːnˌlɪt",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "moonlit"
@@ -73,7 +73,7 @@
       ],
       "frequency" : 8275,
       "mnemonic" : "honey（蜜）+ moon（=month：月）→蜜月；和谐时期；度蜜月",
-      "phonetic" : "ˈhʌnɪmuːn",
+      "phonetic" : "ˈhʌn.iˌmun",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "honeymoon"
@@ -106,7 +106,7 @@
 
       ],
       "frequency" : 3552,
-      "phonetic" : "ˈmʌnθlɪ",
+      "phonetic" : "ˈmʌnθli",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "monthly"
@@ -152,7 +152,7 @@
       ],
       "frequency" : 5541,
       "mnemonic" : "se（=six：六个）+ mester（=mestris=month：月份) →六个月→在德",
-      "phonetic" : "sɪˈmestə",
+      "phonetic" : "sɪˈmɛstə",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "semester"
@@ -167,7 +167,7 @@
       ],
       "frequency" : 18781,
       "mnemonic" : "tri-（=three：三）+ mester（=month：月）→三个月时间→妊娠期；",
-      "phonetic" : "traɪˈmestə",
+      "phonetic" : "tɹaɪˈmɛs.təɹ",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "trimester"
@@ -181,7 +181,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "miːl",
+      "phonetic" : "[miːʟ̩]",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "meal"
@@ -226,7 +226,7 @@
 
       ],
       "frequency" : 3050,
-      "phonetic" : "ˈmiːtə(r)",
+      "phonetic" : "ˈmitəɹ",
       "pos" : "n.",
       "rootHint" : "meter",
       "word" : "meter"
@@ -271,7 +271,7 @@
       ],
       "frequency" : 5323,
       "mnemonic" : "dia-（=across, through：通过；穿过）+ -meter（测量；仪表）→穿过\n圆或球体中心的直线的长度→直径",
-      "phonetic" : "daɪˈæmɪtə",
+      "phonetic" : "daɪˈæmɪtɚ",
       "pos" : "n.",
       "rootHint" : "meter",
       "word" : "diameter"
@@ -287,7 +287,7 @@
       ],
       "frequency" : 10417,
       "mnemonic" : "metr-（=meter：米；公尺）+ -ic（形容词后缀）→米制的；公制的；",
-      "phonetic" : "ˈmetrɪk",
+      "phonetic" : "ˈmɛt.ɹɪk",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "metric"
@@ -303,7 +303,7 @@
       ],
       "frequency" : 7991,
       "mnemonic" : "geo-（=earth, land：地球；大地）+ -metr（=meter：测量）+ -y（名\n词后缀）→测量土地→几何学产生于田地的测量。古埃及修建尼罗河\n水利工程，曾进行测地工作，后逐渐发展为几何学→几何学；几何图",
-      "phonetic" : "dʒɪˈɒmɪtrɪ",
+      "phonetic" : "dʒiˈɑmətɹi",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "geometry"
@@ -319,7 +319,7 @@
       ],
       "frequency" : 10063,
       "mnemonic" : "geometr（=geometry：几何学；几何图形）+ -ic（形容词后缀，表示\n与……有关的）→几何（学）的；几何图形的",
-      "phonetic" : "ˌdʒiːəˈmetrɪk",
+      "phonetic" : "ˌdʒi.əˈmɛt.ɹɪk",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "geometric"
@@ -336,7 +336,7 @@
       ],
       "frequency" : 10432,
       "mnemonic" : "sym-（=together：一致）+ -metry（测量）→测量的尺寸、规模一致\n→对称；均等",
-      "phonetic" : "ˈsɪmɪtrɪ",
+      "phonetic" : "ˈsɪmɪtɹi",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "symmetry"
@@ -351,7 +351,7 @@
       ],
       "frequency" : 14165,
       "mnemonic" : "symmetr（=symmetry：对称）+ -ical（形容词后缀）→对称的",
-      "phonetic" : "sɪˈmetrɪkl",
+      "phonetic" : "sɪˈmɛtɹɪkəl",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "symmetrical"
@@ -366,7 +366,7 @@
       ],
       "frequency" : 15515,
       "mnemonic" : "a-（=not：不）+ symmetry（对称）→不对称",
-      "phonetic" : "ˌeɪˈsɪmətri",
+      "phonetic" : "eɪˈsɪmɪtɹi",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "asymmetry"
@@ -396,7 +396,7 @@
       ],
       "frequency" : 9884,
       "mnemonic" : "thermo-（=hot, heat：热度；温度）+ -meter（=measure：测量）→测\n量温度的仪表→温度计；寒暑表",
-      "phonetic" : "θəˈmɒmɪtə",
+      "phonetic" : "θɚˈmɑmɪtɚ",
       "pos" : "n.",
       "rootHint" : "meter",
       "word" : "thermometer"
@@ -411,7 +411,7 @@
       ],
       "frequency" : 16997,
       "mnemonic" : "baro-（=weight：重力）+ meter（仪表）→测量大气压强（由于大气\n所受重力而产生）的仪表→气压计；晴雨表（决定天气阴晴的因素是",
-      "phonetic" : "bəˈrɒmɪtə",
+      "phonetic" : "bəˈɹɑməɾɚ",
       "pos" : "n.",
       "rootHint" : "meter",
       "word" : "barometer"
@@ -433,7 +433,7 @@
       ],
       "frequency" : 43,
       "mnemonic" : "meas-（测量）+ -ure（名词后缀）→测量；量度为→引申义为估量；",
-      "phonetic" : "ˈmeʒə",
+      "phonetic" : "ˈmɛʒɚ",
       "pos" : "vt.",
       "rootHint" : "mens",
       "word" : "measure"
@@ -449,7 +449,7 @@
       ],
       "frequency" : 10828,
       "mnemonic" : "measure（测量；衡量）+ -ed（形容词后缀，e省略）→引申义为慎重",
-      "phonetic" : "ˈmeʒəd",
+      "phonetic" : "ˈmɛʒəd",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "measured"
@@ -465,7 +465,7 @@
       ],
       "frequency" : 3255,
       "mnemonic" : "measure（测量；估量；尺寸）+ -ment（名词后缀）→测量；评估；",
-      "phonetic" : "ˈmeʒəmənt",
+      "phonetic" : "ˈmeʒ.ə.mənt",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "measurement"
@@ -481,7 +481,7 @@
       ],
       "frequency" : 11717,
       "mnemonic" : "measure（测量）+ -able（形容词后缀，能够..的）→可测量的；显著",
-      "phonetic" : "ˈmeʒərəbl",
+      "phonetic" : "ˈmɛʒəɹəbəl",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "measurable"
@@ -495,7 +495,7 @@
 
       ],
       "frequency" : 15465,
-      "phonetic" : "ˈmeʒərɪŋ",
+      "phonetic" : "ˈmɛʒ.ə.ɹɪŋ",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "measuring"
@@ -512,7 +512,7 @@
       ],
       "frequency" : 2440,
       "mnemonic" : "di-（=dis-=apart, away：分离地；分开）+ mens-（=measure：测量）\n+ -ion（名词后缀）→分开测量→维，尺寸；规模，范围；方面",
-      "phonetic" : "daɪˈmenʃn",
+      "phonetic" : "daɪˈmɛnʃən",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "dimension"
@@ -527,7 +527,7 @@
 
       ],
       "frequency" : 19630,
-      "phonetic" : "daɪmenʃənl",
+      "phonetic" : "-ʃnəl",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "dimensional"
@@ -607,7 +607,7 @@
 
       ],
       "frequency" : 14416,
-      "phonetic" : "ˈmenstrʊəl",
+      "phonetic" : "ˈmɛn.stɹu.əl",
       "pos" : "adj.",
       "rootHint" : "mens",
       "word" : "menstrual"

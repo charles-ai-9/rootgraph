@@ -31,7 +31,7 @@
       ],
       "frequency" : 2980,
       "mnemonic" : "vulner（=to wound, injure：受伤；伤害）+ -able（形容词后缀，能\n被……的）→能被伤害的→易受……伤害的，脆弱的；容易患……",
-      "phonetic" : "ˈvʌlnərəbl",
+      "phonetic" : "ˈvʌln(ə)ɹəbl̩",
       "pos" : "adj.",
       "rootHint" : "vul",
       "word" : "vulnerable"
@@ -48,7 +48,7 @@
       ],
       "frequency" : 6038,
       "mnemonic" : "vulnerabil（=vulnerable：脆弱的；易受伤害的）+ -ity（名词后缀，\n表具备……性质）→脆弱；弱点；易损性",
-      "phonetic" : "ˌvʌlnərəˈbɪləti",
+      "phonetic" : "ˌvʌlnəɹəˈbɪlɪti",
       "pos" : "n.",
       "rootHint" : "vul",
       "word" : "vulnerability"
@@ -68,7 +68,7 @@
       ],
       "frequency" : 6245,
       "mnemonic" : "velv-（=hair, down：（鸟的）绒羽，绒毛）+ -et（名词后缀）→在织",
-      "phonetic" : "ˈvelvɪt",
+      "phonetic" : "ˈvɛlvət",
       "pos" : "n.",
       "rootHint" : "vel",
       "word" : "velvet"
@@ -83,7 +83,7 @@
       ],
       "frequency" : 17846,
       "mnemonic" : "velvet（丝绒；天鹅绒）+ -y（形容词后缀）→天鹅绒般的→光滑柔",
-      "phonetic" : "ˈvelvəti",
+      "phonetic" : "ˈvɛlvəti",
       "pos" : "adj.",
       "rootHint" : "vel",
       "word" : "velvety"
@@ -98,7 +98,7 @@
       ],
       "frequency" : 13401,
       "mnemonic" : "vult（=vul-=to pluck, tear：拔出；撕开）+ -ure（名词后缀）→把[猎\n物，主要为大型动物的尸体]撕开者→秃鹫；趁火打劫的人",
-      "phonetic" : "ˈvʌltʃə(r)",
+      "phonetic" : "ˈvʌltʃɚ",
       "pos" : "n.",
       "rootHint" : "vul",
       "word" : "vulture"
@@ -114,7 +114,7 @@
       ],
       "frequency" : 16381,
       "mnemonic" : "re-（=away：离开）+ vuls-（=to pull：拉；拔；撕开）+ -ion（名词\n后缀）→（猛烈、暴力地）拔出、撕开的行为→深恶痛绝；惊恐",
-      "phonetic" : "rɪˈvʌlʃn",
+      "phonetic" : "ɹəvʌˈlʃən",
       "pos" : "n.",
       "rootHint" : "vul",
       "word" : "revulsion"
@@ -129,7 +129,7 @@
       ],
       "frequency" : 17679,
       "mnemonic" : "con-（强调前缀）+ vuls-（=to pluck, pull, tear：拔出；撕开）+ -ion\n（名词后缀）→猛烈地（暴力地）撕开、拔出某物→痉挛，抽搐；",
-      "phonetic" : "kənˈvʌlʃn",
+      "phonetic" : "kənˈvʌlʃən",
       "pos" : "n.",
       "rootHint" : "vul",
       "word" : "convulsion"

@@ -26,7 +26,7 @@
       ],
       "frequency" : 556,
       "mnemonic" : "image来源于拉丁语imago.\nim-（=to copy；像；模仿）+ -age（名词后缀）→存在于真实的人或\n物之外的、模仿真人外貌或特征的另一个形象→形象；印象；画像；",
-      "phonetic" : "ˈɪmɪdʒ",
+      "phonetic" : "ˈɪmɪd͡ʒ",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "image"
@@ -58,7 +58,7 @@
       ],
       "frequency" : 5260,
       "mnemonic" : "image（画像；图像；形象）+ -ery（名词后缀）→像；画像；图像",
-      "phonetic" : "ˈɪmɪdʒərɪ",
+      "phonetic" : "-ədʒɹi",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "imagery"
@@ -73,7 +73,7 @@
       ],
       "frequency" : 912,
       "mnemonic" : "image（形象；印象；画面）+ -ine（动词后缀）→对形象、画面等的\n想象、幻想、猜测→引申词义想象；幻想；猜测等",
-      "phonetic" : "ɪˈmædʒɪn",
+      "phonetic" : "ɪˈmædʒ.ɪn",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "imagine"
@@ -102,7 +102,7 @@
       ],
       "frequency" : 11547,
       "mnemonic" : "imagine（想象）+ -able（能够……的）→所能想象的；可想象的",
-      "phonetic" : "ɪˈmædʒɪnəbl",
+      "phonetic" : "-nəbəl",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "imaginable"
@@ -132,7 +132,7 @@
       ],
       "frequency" : 6612,
       "mnemonic" : "imagin（=imagine：想象）+ -ary（形容词后缀，……的）→想象的；",
-      "phonetic" : "ɪˈmædʒɪnərɪ",
+      "phonetic" : "ɪˈmædʒɪˌnɛɹi",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "imaginary"
@@ -149,7 +149,7 @@
       ],
       "frequency" : 2915,
       "mnemonic" : "imagine（想象，e略）+ -ation（复合名词后缀，-ate+ -ion）→想象",
-      "phonetic" : "ɪˌmædʒɪˈneɪʃn",
+      "phonetic" : "ɪˌmædʒəˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "imagination"
@@ -165,7 +165,7 @@
       ],
       "frequency" : 8075,
       "mnemonic" : "imagin（想象力）+ -ative（形容词后缀：表“大或多”）→想象力多",
-      "phonetic" : "ɪˈmædʒɪnətɪv",
+      "phonetic" : "-ənətɪv",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "imaginative"
@@ -197,7 +197,7 @@
       ],
       "frequency" : 7508,
       "mnemonic" : "imit-（=to copy：复制；模仿）+ -ation（名词后缀）→仿制品；（言",
-      "phonetic" : "ˌɪmɪˈteɪʃn",
+      "phonetic" : "ɪmɪˈteɪʃən",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "imitation"
@@ -214,7 +214,7 @@
       ],
       "frequency" : 9217,
       "mnemonic" : "em-（=im：像）+ ul+ -ate（动词后缀）→因钦慕而试图与……相像\n→模仿；仿效\nemul（=to rival：与……相匹敌；比得上）+ -ate（动词后缀）→努力",
-      "phonetic" : "ˈemjʊleɪt",
+      "phonetic" : "ˈɛm.jə.leɪt",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "emulate"
@@ -245,7 +245,7 @@
       ],
       "frequency" : 9669,
       "mnemonic" : "hast（=haste：急速；匆忙；仓促）+ -en（使动词后缀）→使急忙，\n急速→催促；加速",
-      "phonetic" : "ˈheɪsn",
+      "phonetic" : "ˈheɪ.sən",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "hasten"
@@ -262,7 +262,7 @@
       ],
       "frequency" : 13066,
       "mnemonic" : "haste（匆忙，仓促；e略）+ -y（形容词后缀）→匆忙的；草率的",
-      "phonetic" : "ˈheɪstɪ",
+      "phonetic" : "ˈheɪsti",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "hasty"
@@ -277,7 +277,7 @@
       ],
       "frequency" : 9541,
       "mnemonic" : "hasti（=hasty：匆忙的, 仓促的, 草率的，变y为i）+ -ly（副词后缀）\n→匆忙地；仓促地；草率地",
-      "phonetic" : "ˈheɪstɪlɪ",
+      "phonetic" : "ˈheɪstɪli",
       "pos" : "adv.",
       "rootHint" : "im",
       "word" : "hastily"
@@ -298,7 +298,7 @@
         "Suddenly the car accelerated.\n突然车加速了。\n（2002.12）真题：Hill slopes are cleared of forests to make way for"
       ],
       "mnemonic" : "+ celerare “hasten,” from celer “swift,” which is perhaps from PIE *keli-\nac-（to）+ -celer-（=hasten：加快）+ -ate（使动词）→使加速；使加快",
-      "phonetic" : "əkˈseləreɪt",
+      "phonetic" : "æk.ˈsɛl.ə.ˌɹeɪt",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "accelerate"
@@ -349,7 +349,7 @@
       ],
       "frequency" : 8159,
       "mnemonic" : "accelerate（加速；加快）+ -ion（名词后缀）→加速，加快；加速能力",
-      "phonetic" : "əkseləˈreɪʃn",
+      "phonetic" : "æk.ˌsɛl.ə.ˈɹeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "acceleration"
@@ -368,7 +368,7 @@
       ],
       "frequency" : 11748,
       "mnemonic" : "accelerate（加速；加快）+ -or（名词后缀）→加速装置，油门",
-      "phonetic" : "əkˈseləreɪtə",
+      "phonetic" : "æk.ˈsɛl.ə.ˌɹeɪ.tɚ",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "accelerator"
@@ -385,7 +385,7 @@
       ],
       "frequency" : 2037,
       "mnemonic" : "celebr（=celeber-=assemble to honor, praise：聚集为表示对……的敬\n意，赞美）+ -ate（动词后缀）→庆祝，庆贺；赞美，歌颂",
-      "phonetic" : "ˈselɪbreɪt",
+      "phonetic" : "ˈsɛl.ə.bɹeɪt",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "celebrate"
@@ -400,7 +400,7 @@
 
       ],
       "frequency" : 8060,
-      "phonetic" : "ˈselɪbreɪtɪd",
+      "phonetic" : "ˈsɛl.ɪ.bɹeɪ.tɪd",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "celebrated"
@@ -415,7 +415,7 @@
       ],
       "frequency" : 2985,
       "mnemonic" : "celebr-（被很多人提及和赞美）+ -ity（名词后缀）→名人；名望",
-      "phonetic" : "səˈlebrəti",
+      "phonetic" : "sɪˈlɛbɹɪti",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "celebrity"
@@ -431,7 +431,7 @@
       ],
       "frequency" : 3022,
       "mnemonic" : "celebrate（庆祝；颂扬）+ -ion（名词后缀）→庆祝活动；颂扬",
-      "phonetic" : "ˌselɪˈbreɪʃn",
+      "phonetic" : "ˌsɛlɪˈbɹeiʃən",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "celebration"
@@ -447,7 +447,7 @@
       ],
       "frequency" : 16083,
       "mnemonic" : "celebrate（庆祝；庆贺）+ -ory（形容词后缀）→庆祝的；庆典的；",
-      "phonetic" : "ˌseləˈbreɪtəri",
+      "phonetic" : "ˈsɛləbɹəˌtɔːɹi",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "celebratory"
@@ -468,7 +468,7 @@
 
       ],
       "frequency" : 679,
-      "phonetic" : "tɒp",
+      "phonetic" : "tɑp",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "top"
@@ -483,7 +483,7 @@
       ],
       "frequency" : 1873,
       "mnemonic" : "top（顶部；首位）+ -ic（名词后缀）→（文章、谈话的）最顶部，\n首位→题目；主题；话题",
-      "phonetic" : "ˈtɒpɪk",
+      "phonetic" : "ˈtɑpɪk",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "topic"
@@ -514,7 +514,7 @@
       ],
       "frequency" : 11852,
       "mnemonic" : "them（=theme：主题）+ -atic（形容词后缀）→主题的；专题的",
-      "phonetic" : "θɪˈmætɪk",
+      "phonetic" : "θɛˈmætɪk",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "thematic"
@@ -530,7 +530,7 @@
       ],
       "frequency" : 11925,
       "mnemonic" : "topic（话题）+ -al（形容词后缀）→热门话题的；有关时事的\ntop（表面）+ -ical（复合形容词后缀，-ic + -al）→表面的；局部的",
-      "phonetic" : "ˈtɒpɪkl",
+      "phonetic" : "ˈtɒp.ɪ.kəl",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "topical"
@@ -560,7 +560,7 @@
       ],
       "frequency" : 7646,
       "mnemonic" : "top（顶端，头部；双写p）+ -le（动词后缀）→特殊用法或比喻用\n法，引申词义从顶部坠落→倒塌；打倒；推翻；颠覆",
-      "phonetic" : "ˈtɒpl",
+      "phonetic" : "ˈtɒpl̩",
       "pos" : "vi.",
       "rootHint" : "im",
       "word" : "topple"
@@ -682,7 +682,7 @@
       ],
       "frequency" : 13476,
       "mnemonic" : "topo（地方，地区；与topic主题同源）+ -graphy（写；记录）→一个\n地区（总体地貌）特征的记录→地形；地貌",
-      "phonetic" : "təˈpɒɡrəfi",
+      "phonetic" : "təˈpɒɡɹəfi",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "topography"
@@ -698,7 +698,7 @@
       ],
       "frequency" : 15900,
       "mnemonic" : "iso-（等；同）+ -top（位置；地方）+ e→即同等位置的→引申词义",
-      "phonetic" : "ˈaɪsətəʊp",
+      "phonetic" : "ˈaɪ.sə.toʊp",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "isotope"
@@ -722,7 +722,7 @@
       ],
       "frequency" : 395,
       "mnemonic" : "con-（=with, together：一道；集群）+ -sider（源自sideris，星星）→\n古义仔细观察群星，并通过星辰移位来思考预测人间万事→后来词义",
-      "phonetic" : "kənˈsɪdə",
+      "phonetic" : "kənˈsɪdɚ",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "consider"
@@ -751,7 +751,7 @@
       ],
       "frequency" : 2878,
       "mnemonic" : "consider（考虑）+ -able（可以……的）→某事物多到、重要到可以\n给予考虑的→相当重大的；相当重要的",
-      "phonetic" : "kənˈsɪdərəbl",
+      "phonetic" : "kənˈsɪdəɹəbl̩",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "considerable"
@@ -765,7 +765,7 @@
         "The need for sleep varies considerably from person to person.\n不同的人对睡眠的需要差异相当大。"
       ],
       "frequency" : 4696,
-      "phonetic" : "kənˈsɪdərəblɪ",
+      "phonetic" : "kənˈsɪdəɹəbli",
       "pos" : "adv.",
       "rootHint" : "im",
       "word" : "considerably"
@@ -779,7 +779,7 @@
         "She’s very active, considering her age.\n就她的年龄来说，她是十分活跃的。"
       ],
       "frequency" : 5021,
-      "phonetic" : "kənˈsɪdərɪŋ",
+      "phonetic" : "kənˈsɪdəɹɪŋ",
       "pos" : "prep.",
       "rootHint" : "im",
       "word" : "considering"
@@ -795,7 +795,7 @@
       ],
       "frequency" : 17832,
       "mnemonic" : "consider（考虑）+ -ate（形容词后缀：的）→（为人）着想的；体贴的",
-      "phonetic" : "kənˈsɪdərət",
+      "phonetic" : "kənˈsɪdəɹət",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "considerate"
@@ -819,7 +819,7 @@
       ],
       "frequency" : 2509,
       "mnemonic" : "consider（仔细考虑；顾及别人）+ -ation（复合名词后缀）→仔细考",
-      "phonetic" : "kənsɪdəˈreɪʃn",
+      "phonetic" : "kənˌsɪdəˈɹeɪʃən",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "consideration"
@@ -862,7 +862,7 @@
       ],
       "frequency" : 2277,
       "mnemonic" : "on（在……上）+ line（线）→在线上的，在网络上的，在线地",
-      "phonetic" : "ˌɒnˈlaɪn",
+      "phonetic" : "ɒnˈlaɪn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "online"
@@ -878,7 +878,7 @@
       ],
       "frequency" : 3320,
       "mnemonic" : "head（头；头部）+ line（行）→在报纸头部的一行字→引申词义标题",
-      "phonetic" : "ˈhedlaɪn",
+      "phonetic" : "ˈhɛd.laɪn",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "headline"
@@ -893,7 +893,7 @@
       ],
       "frequency" : 20030,
       "mnemonic" : "headline（报纸头版标题）+ -er（名词后缀，表人）→写报纸大标题\nhead（头部）+ line（行业）+ -er（表人）→站在戏剧行业前端的人\n→主角",
-      "phonetic" : "ˈhedlaɪnə",
+      "phonetic" : "ˈhɛdˌlaɪnɚ",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "headliner"
@@ -908,7 +908,7 @@
       ],
       "frequency" : 4072,
       "mnemonic" : "dead（死）+ line（线；界限）→快到死亡的期限→最后期限",
-      "phonetic" : "ˈdedlaɪn",
+      "phonetic" : "ˈdɛdˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "deadline"
@@ -973,7 +973,7 @@
       ],
       "frequency" : 5242,
       "mnemonic" : "pipe（管道）+ line（线）→管道；管线",
-      "phonetic" : "ˈpaɪplaɪn",
+      "phonetic" : "ˈpaɪpˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "pipeline"
@@ -1007,7 +1007,7 @@
       ],
       "frequency" : 9737,
       "mnemonic" : "sky（天空）+ line（线）→天空映衬下某物的线条→轮廓线",
-      "phonetic" : "ˈskaɪlaɪn",
+      "phonetic" : "ˈskaɪˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "skyline"
@@ -1023,7 +1023,7 @@
       ],
       "frequency" : 10812,
       "mnemonic" : "de-（表强调）+ line（线，线条）+ -ate（动词后缀）→画出线条→描",
-      "phonetic" : "dɪˈlɪnɪeɪt",
+      "phonetic" : "dɪˈlɪniːeɪt",
       "pos" : "vt.",
       "rootHint" : "im",
       "word" : "delineate"
@@ -1053,7 +1053,7 @@
       ],
       "frequency" : 12093,
       "mnemonic" : "hard（强硬的；坚固的）+ line（线；界线）→界线坚固的→比喻态",
-      "phonetic" : "ˈhɑːdlain",
+      "phonetic" : "ˈhɑː(ɹ)dlaɪn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "hardline"
@@ -1083,7 +1083,7 @@
       ],
       "frequency" : 12645,
       "mnemonic" : "time（时间）+ ‎ line（线）→时间线；年表",
-      "phonetic" : "ˈtaɪmlaɪn",
+      "phonetic" : "ˈtaɪmˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "timeline"
@@ -1098,7 +1098,7 @@
       ],
       "frequency" : 14318,
       "mnemonic" : "life（生命）+ line（线）→生命线；命脉",
-      "phonetic" : "ˈlaɪflaɪn",
+      "phonetic" : "ˈlaɪfˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "lifeline"
@@ -1161,7 +1161,7 @@
       ],
       "frequency" : 16306,
       "mnemonic" : "hair（头发）+ line（线）→头发形成的线，像头发一样细的（线）→",
-      "phonetic" : "ˈheəlaɪn",
+      "phonetic" : "ˈhɛɹˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "hairline"
@@ -1176,7 +1176,7 @@
       ],
       "frequency" : 17507,
       "mnemonic" : "clothes（衣服）+ line（绳）→晾晒衣服的绳→晒衣绳",
-      "phonetic" : "ˈklozˌlaɪn",
+      "phonetic" : "ˈkləʊðzlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "clothesline"
@@ -1191,7 +1191,7 @@
       ],
       "frequency" : 14441,
       "mnemonic" : "main（主要的）+ line（线）→主要的线→主流的；静脉注射（静脉",
-      "phonetic" : "ˈmeɪnlaɪn",
+      "phonetic" : "ˈmeɪnˌlaɪn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "mainline"
@@ -1206,7 +1206,7 @@
       ],
       "frequency" : 19410,
       "mnemonic" : "neck（衣领）+ line（线）→衣领周围的线→领口；开领",
-      "phonetic" : "ˈneklaɪn",
+      "phonetic" : "ˈnɛkˌlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "neckline"

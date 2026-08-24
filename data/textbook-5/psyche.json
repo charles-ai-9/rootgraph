@@ -22,7 +22,7 @@
       ],
       "frequency" : 7934,
       "mnemonic" : "来自希腊语psykhe，精神，灵魂，心理。",
-      "phonetic" : "ˈsaɪkɪ",
+      "phonetic" : "ˈsaɪ.ki",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psyche"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 2997,
       "mnemonic" : "psycho-（心理；精神）+ -logy（名词后缀，表示某学科，……学）\n→心理学；心理",
-      "phonetic" : "saɪˈkɒlədʒi",
+      "phonetic" : "saɪˈkɑlədʒi",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychology"
@@ -55,7 +55,7 @@
       ],
       "frequency" : 10203,
       "mnemonic" : "psyche（=mind：精神）+ -iatry（=healing：治疗）→精神治疗学；精",
-      "phonetic" : "saɪˈkaɪətrɪ",
+      "phonetic" : "saɪˈkaɪ.əˌtɹi",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychiatry"
@@ -72,7 +72,7 @@
       ],
       "frequency" : 5552,
       "mnemonic" : "psychiatry（精神病学；精神病治疗学）+ -ic（形容词后缀）→治疗精",
-      "phonetic" : "ˌsaɪkɪˈætrɪk",
+      "phonetic" : "ˌsaɪ.ki.ˈæt.ɹɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychiatric"
@@ -87,7 +87,7 @@
       ],
       "frequency" : 5244,
       "mnemonic" : "psychiatry（精神病学；精神病治疗学）+ -ist（名词后缀，表示从事\n某种职业的人，专家）→精神病学家；精神科医生",
-      "phonetic" : "saɪˈkaɪətrɪst",
+      "phonetic" : "ˌsaɪˈkaɪ.ə.tɹɪst",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychiatrist"
@@ -133,7 +133,7 @@
       ],
       "frequency" : 12828,
       "mnemonic" : "psycho-（精神；心理）+ therapy（治疗）→心理治疗→心理疗法",
-      "phonetic" : "saɪkə(ʊ)ˈθerəpɪ",
+      "phonetic" : "ˌsaɪkoʊˈθɛɹəpi",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychotherapy"
@@ -224,7 +224,7 @@
       ],
       "frequency" : 20050,
       "mnemonic" : "psycho-（精神；心理）+ -path（=suffering, disorder：疾病。词源同\npathology）→精神病患者；精神变态者",
-      "phonetic" : "ˈsaɪkəpæθ",
+      "phonetic" : "ˈsaɪkoʊˌpæθ",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychopath"
@@ -255,7 +255,7 @@
       ],
       "frequency" : 13680,
       "mnemonic" : "psycho-（精神；心理）+ -otic（形容词后缀）→精神错乱的；精神失",
-      "phonetic" : "saɪˈkɒtɪk",
+      "phonetic" : "ˌsaɪˈkɒtɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychotic"
@@ -271,7 +271,7 @@
       ],
       "frequency" : 17773,
       "mnemonic" : "根据希腊语创造出来的一个词。psyche（来自希腊语psykhē=mind：\n的）→精神里的东西变地清晰明显的→形容人产生幻觉的状态→引起",
-      "phonetic" : "ˌsaɪkəˈdelɪk;-ˈdiːlɪk",
+      "phonetic" : "ˈsaɪ.kəˌdɛl.ɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychedelic"
@@ -326,7 +326,7 @@
       ],
       "frequency" : 4516,
       "mnemonic" : "eye（眼睛）+ brow（眉毛）→眉毛",
-      "phonetic" : "ˈaɪbraʊ",
+      "phonetic" : "ˈaɪˌbɹaʊ",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "eyebrow"
@@ -356,7 +356,7 @@
       ],
       "frequency" : 2137,
       "mnemonic" : "drama（戏剧）+ t（无意义）+ -ic（形容词后缀）→戏剧般的跌宕起\n伏→引人注目的；紧张刺激的",
-      "phonetic" : "drəˈmætɪk",
+      "phonetic" : "dɹəˈmætɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "dramatic"
@@ -387,7 +387,7 @@
 
       ],
       "frequency" : 2654,
-      "phonetic" : "ˈdrɑːmə",
+      "phonetic" : "ˈdɹɑmə",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "drama"
@@ -417,7 +417,7 @@
       ],
       "frequency" : 14238,
       "mnemonic" : "melo（=melody：旋律；乐曲）+ drama（戏剧）→歌舞剧；情节剧；",
-      "phonetic" : "ˈmelə(ʊ)drɑːmə",
+      "phonetic" : "ˈmɛləˌdɹɑːmə",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "melodrama"
@@ -431,7 +431,7 @@
 
       ],
       "frequency" : 18053,
-      "phonetic" : "melədrəˈmætɪk",
+      "phonetic" : "ˌmɛl.ə.dɹəˈmæt.ɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "melodramatic"
@@ -446,7 +446,7 @@
       ],
       "frequency" : 15047,
       "mnemonic" : "eye（眼睛）+ glass（给某物加玻璃）→给眼睛上加玻璃→镜片",
-      "phonetic" : "ˈaɪglɑːs",
+      "phonetic" : "ˈaɪˌɡlæs",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "eyeglass"
@@ -478,7 +478,7 @@
       ],
       "frequency" : 8820,
       "mnemonic" : "eye（眼睛）+ lid（盖子；眼皮）→盖住眼睛的东西→眼皮",
-      "phonetic" : "ˈaɪlɪd",
+      "phonetic" : "ˈaɪ.lɪd",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "eyelid"

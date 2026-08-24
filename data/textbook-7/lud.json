@@ -23,7 +23,7 @@
       ],
       "frequency" : 12157,
       "mnemonic" : "pre-（=before：在前；早于）+ -lude（=to play：演奏）→在正式演奏\n之前的→前奏；序曲→引申义为序幕；开端",
-      "phonetic" : "ˈpreljuːd",
+      "phonetic" : "ˈpɹeɪl(j)uːd",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "prelude"
@@ -87,7 +87,7 @@
       ],
       "frequency" : 4362,
       "mnemonic" : "il-（=in-=at, upon：进入；在里面）+ -lus-（=to play：玩乐；玩耍）+\n-ion（名词后缀）→进入玩乐、虚幻、错觉里面→幻想；假象；错觉\n邪解：il-（表相反）+ -lusion（=vision：想象）→不切实际的想象→幻想；",
-      "phonetic" : "ɪˈluːʒn",
+      "phonetic" : "[ɪˈluː.ʒən]",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "illusion"
@@ -102,7 +102,7 @@
       ],
       "frequency" : 16811,
       "mnemonic" : "illus-（=illusion：幻想；假象）+ -ory（形容词后缀）→陷入幻想、\n假象里面的→虚假的；虚幻的；迷惑人的",
-      "phonetic" : "ɪˈluːsəri",
+      "phonetic" : "ɪˈluːs(ə)ɹi",
       "pos" : "adj.",
       "rootHint" : "lud",
       "word" : "illusory"
@@ -117,7 +117,7 @@
       ],
       "frequency" : 18196,
       "mnemonic" : "de-（=to one’s detriment：给某人造成伤害）+-lud-（=to play：玩弄；\n欺骗）+ -e→玩弄某人以致给他人造成伤害→欺骗；哄骗",
-      "phonetic" : "dɪˈluːd",
+      "phonetic" : "dəˈluːd",
       "pos" : "vt.",
       "rootHint" : "lud",
       "word" : "delude"
@@ -132,7 +132,7 @@
       ],
       "frequency" : 11204,
       "mnemonic" : "delus（=delude：欺骗）+ -ion（名词后缀）→错觉；妄想；欺骗",
-      "phonetic" : "dɪˈluːʒn",
+      "phonetic" : "dɪˈl(j)uːzjən",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "delusion"
@@ -163,7 +163,7 @@
       ],
       "frequency" : 15880,
       "mnemonic" : "dis-（=not：不；非；使相反）+ illusion（幻想）→使不再抱幻想；",
-      "phonetic" : "ˌdɪsɪˈluːʒn",
+      "phonetic" : "dɪs.ɪˈluːʒən",
       "pos" : "vt.",
       "rootHint" : "lud",
       "word" : "disillusion"
@@ -178,7 +178,7 @@
       ],
       "frequency" : 16642,
       "mnemonic" : "disillusion（使不再抱幻想；使醒悟）+ -ment（名词后缀）→不再抱",
-      "phonetic" : "ˌdɪsɪˈluːʒnmənt",
+      "phonetic" : "dɪsɪˈljuʒənmənt",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "disillusionment"
@@ -210,7 +210,7 @@
       ],
       "frequency" : 11452,
       "mnemonic" : "allus-（=allud-：间接提到；暗指；影射）+ -ion（名词后缀）→间接",
-      "phonetic" : "əˈluːʒn",
+      "phonetic" : "əˈlu.ʒən",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "allusion"
@@ -227,7 +227,7 @@
       ],
       "frequency" : 11294,
       "mnemonic" : "lud-（=to play：游戏；玩乐）+ -icrous（复合后缀：-ic+-er+-ous）→\n开玩笑的；不能当真的→滑稽的；荒唐的；荒谬的",
-      "phonetic" : "ˈluːdɪkrəs",
+      "phonetic" : "ˈluː.dɪ.kɹəs",
       "pos" : "adj.",
       "rootHint" : "lud",
       "word" : "ludicrous"
@@ -245,7 +245,7 @@
       ],
       "frequency" : 17096,
       "mnemonic" : "col-（=con-：共同）+ -lus-（=to play：玩弄（阴谋））+ -ion（名词\n后缀）→共同玩弄阴谋→密谋；串通；勾结",
-      "phonetic" : "kəˈluːʒn",
+      "phonetic" : "kəˈluːʒən",
       "pos" : "n.",
       "rootHint" : "lud",
       "word" : "collusion"

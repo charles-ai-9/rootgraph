@@ -42,7 +42,7 @@
       ],
       "frequency" : 5569,
       "mnemonic" : "op-（=eye：眼睛；以前的眼睛是写作“ege”）+ t（无意义）+ -ical\n（复合形容词后缀）→视力的；光学的",
-      "phonetic" : "ˈɒptɪk(ə)l",
+      "phonetic" : "ˈɒptɪkəl",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "optical"
@@ -60,7 +60,7 @@
       ],
       "frequency" : 608,
       "mnemonic" : "to open \/ close the window：打开 \/ 关上窗户",
-      "phonetic" : "ˈwɪndəʊ",
+      "phonetic" : "ˈwɪndoʊ",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "window"
@@ -90,7 +90,7 @@
       ],
       "frequency" : 14714,
       "mnemonic" : "window（窗户）+ sill（窗台；门槛）→窗沿；窗台",
-      "phonetic" : "ˈwɪndəʊsɪl",
+      "phonetic" : "ˈwɪndoʊˌsɪl",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "windowsill"
@@ -126,7 +126,7 @@
       ],
       "frequency" : 7919,
       "mnemonic" : "auto-（=self：自己的；亲自的）+ ops-（=a sight：看见）+ -y（名词\n后缀）→为查明死因，自己亲自查看尸体→验尸；尸体解剖",
-      "phonetic" : "ˈɔːtɒpsɪ;ɔːˈtɒpsɪ",
+      "phonetic" : "ˈɔːtɒpsiː",
       "pos" : "n.",
       "rootHint" : "ops",
       "word" : "autopsy"
@@ -144,7 +144,7 @@
       ],
       "frequency" : 11486,
       "mnemonic" : "fer-（=wild：狂暴的；野生的）+ -oci（=looking, appearing：看起\n来）+ -ous（形容词后缀，充满……的）→看起来狂暴的；野生的→",
-      "phonetic" : "fəˈrəʊʃəs",
+      "phonetic" : "fəˈɹəʊʃəs",
       "pos" : "adj.",
       "rootHint" : "oci",
       "word" : "ferocious"
@@ -178,7 +178,7 @@
 
       ],
       "frequency" : 12791,
-      "phonetic" : "ˈdeɪzɪ",
+      "phonetic" : "ˈdeɪ.zi",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "daisy"
@@ -196,7 +196,7 @@
       ],
       "frequency" : 12476,
       "mnemonic" : "late 14c., “first tine or branch of the horns of a deer,” from Anglo-French\n→在眼睛前边的角→鹿角",
-      "phonetic" : "ˈæntlə",
+      "phonetic" : "ˈænt.lɚ",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "antler"
@@ -211,7 +211,7 @@
       ],
       "frequency" : 18821,
       "mnemonic" : "in-（=in：进入）+ -ocul（=bud, eye：芽；苞；眼睛）+ -ate（动词后\n缀）→把一种植物的芽孢种植到另外一种植物中→植入一种疾病的致\n病菌以产生免疫力→给……预防接种；打预防针",
-      "phonetic" : "ɪˈnɒkjʊleɪt",
+      "phonetic" : "ɪˈnɒkjuleɪt",
       "pos" : "vt.",
       "rootHint" : "opt",
       "word" : "inoculate"
@@ -230,7 +230,7 @@
       ],
       "frequency" : 19885,
       "mnemonic" : "syn- （=altogether：整个）+ -opsis（=sight, appearance：看见；外\n表）→整体来看，全视图，概貌→概要；大纲",
-      "phonetic" : "sɪˈnɒpsɪs",
+      "phonetic" : "sɪˈnɑpsɪs",
       "pos" : "n.",
       "rootHint" : "ops",
       "word" : "synopsis"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 7747,
       "mnemonic" : "fore-（=before：之前）+see（看见）→在看见之前就已经知道……会\n发生→预知；预见",
-      "phonetic" : "fɔːˈsiː",
+      "phonetic" : "fɔɹˈsi",
       "pos" : "vt.",
       "rootHint" : "opt",
       "word" : "foresee"
@@ -362,7 +362,7 @@
 
       ],
       "frequency" : 19239,
-      "phonetic" : "ˈsaɪtɪd",
+      "phonetic" : "ˈsaɪtəd",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "sighted"
@@ -408,7 +408,7 @@
 
       ],
       "frequency" : 13036,
-      "phonetic" : "ˈɪnsaɪtf(ʊ)l",
+      "phonetic" : "ɪnˈsaɪt.f(ə)l",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "insightful"
@@ -439,7 +439,7 @@
       ],
       "frequency" : 15144,
       "mnemonic" : "eye（眼睛）+ sight（视力；看见）→眼睛能看见的能力→视力；目",
-      "phonetic" : "ˈaɪsaɪt",
+      "phonetic" : "ˈaɪˌsaɪt",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "eyesight"
@@ -538,7 +538,7 @@
       ],
       "frequency" : 6167,
       "mnemonic" : "view（观看）+ point（点）→观看的点→观点；视角",
-      "phonetic" : "ˈvjuːpɒɪnt",
+      "phonetic" : "ˈvjuː.pɔɪnt",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "viewpoint"
@@ -556,7 +556,7 @@
       ],
       "frequency" : 7665,
       "mnemonic" : "pre-（=before：早于；预先）+ view（看）→预先看，比观众看到的\n早→预演；预告；预看",
-      "phonetic" : "ˈpriːvjuː",
+      "phonetic" : "ˈpɹiːvjʉː",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "preview"
@@ -571,7 +571,7 @@
       ],
       "frequency" : 947,
       "mnemonic" : "inter-（=between：相互）+ view（看到）→相互看→面试；采访",
-      "phonetic" : "ˈɪntəvjuː",
+      "phonetic" : "ˈɪntɚvjuː",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "interview"
@@ -586,7 +586,7 @@
       ],
       "frequency" : 15133,
       "mnemonic" : "interview（面试；采访）+ -ee（名词后缀，表示动作的承受者）→被\n面试的人→参加面试者；接受采访者",
-      "phonetic" : "ˌɪntəvjuːˈiː",
+      "phonetic" : "ˌɪn.tə.vjuːˈiː",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "interviewee"
@@ -601,7 +601,7 @@
       ],
       "frequency" : 7964,
       "mnemonic" : "interview（面试；采访）+ -er（名词后缀，表示动作的主动者）→进",
-      "phonetic" : "ˈɪntəvjuːər",
+      "phonetic" : "ˈɪntəvjuːə",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "interviewer"
@@ -633,7 +633,7 @@
       ],
       "frequency" : 1391,
       "mnemonic" : "re-（再）+ view（看）→再看一遍→复习；评论；审查",
-      "phonetic" : "rɪˈvjuː",
+      "phonetic" : "ɹɪˈvjuː",
       "pos" : "vt.",
       "rootHint" : "opt",
       "word" : "review"

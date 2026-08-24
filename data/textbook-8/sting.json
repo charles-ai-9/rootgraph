@@ -73,7 +73,7 @@
       ],
       "frequency" : 9567,
       "mnemonic" : "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→\n邪解：ex-（出去）+ -tinct（刺）→一剑（倚天剑）刺出去→灭绝的；绝种",
-      "phonetic" : "ɪkˈstɪŋkt",
+      "phonetic" : "ɛkˈstɪŋkt",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "extinct"
@@ -91,7 +91,7 @@
       ],
       "frequency" : 7089,
       "mnemonic" : "extinct（绝种的；消亡的）+ -ion（名词后缀）→灭绝；消亡",
-      "phonetic" : "ɪkˈstɪŋkʃn",
+      "phonetic" : "ɪkˈstɪŋkʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "extinction"
@@ -107,7 +107,7 @@
       ],
       "frequency" : 12227,
       "mnemonic" : "ex-（=out）+ -ting（=quench：熄灭）+ u（连接符号）+ -ish（动词后\n缀）→扑灭；消灭",
-      "phonetic" : "ɪkˈstɪŋɡwɪʃ",
+      "phonetic" : "ɪkˈstɪŋ.ɡwɪʃ",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "extinguish"
@@ -146,7 +146,7 @@
       ],
       "frequency" : 3273,
       "mnemonic" : "dis-（分开）+ -ting（刺）+ u（无意义）+ -ish（动词后缀）→通过刺\n的长短来区分→辨别，区分；有别于，辨别出；使著名（与平庸之辈",
-      "phonetic" : "dɪˈstɪŋɡwɪʃ",
+      "phonetic" : "dɪsˈtɪŋɡwɪʃ",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "distinguish"
@@ -163,7 +163,7 @@
       ],
       "frequency" : 5639,
       "mnemonic" : "distinguish（区分）+ -ed（形容词后缀）→引申词义与众不同的→卓",
-      "phonetic" : "dɪˈstɪŋgwɪʃt",
+      "phonetic" : "dɪsˈtɪŋɡwɪʃt",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "distinguished"
@@ -210,7 +210,7 @@
       ],
       "frequency" : 3280,
       "mnemonic" : "dis-（分离）+ -tinct（有刺的）→以刺的记号加以区分的→清楚的；",
-      "phonetic" : "dɪˈstɪŋkt",
+      "phonetic" : "dɪsˈtɪŋkt",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "distinct"
@@ -241,7 +241,7 @@
 
       ],
       "frequency" : 8183,
-      "phonetic" : "dɪˈstɪŋktlɪ",
+      "phonetic" : "dɪsˈtɪŋktli",
       "pos" : "adv.",
       "rootHint" : "sting",
       "word" : "distinctly"
@@ -262,7 +262,7 @@
       ],
       "frequency" : 2944,
       "mnemonic" : "distinct（有区别的）+ -ion（名词后缀）→区别，不同；荣誉",
-      "phonetic" : "dɪˈstɪŋkʃn",
+      "phonetic" : "dɪˈstɪŋkʃən",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "distinction"
@@ -310,7 +310,7 @@
       ],
       "frequency" : 4280,
       "mnemonic" : "in-（内心）+ -stinct（刺；刻）→生下来就“刺，刻”在内心的东西\n→本能，天性；天分；直觉",
-      "phonetic" : "ˈɪnstɪŋkt",
+      "phonetic" : "ˈɪn.stɪŋkt",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "instinct"
@@ -340,7 +340,7 @@
         "He knew instinctively that something was wrong.\n他凭直觉知道出事了。"
       ],
       "frequency" : 9408,
-      "phonetic" : "inˈstiŋktivli",
+      "phonetic" : "ɪnˈstɪŋktɪvli",
       "pos" : "adv.",
       "rootHint" : "sting",
       "word" : "instinctively"
@@ -358,7 +358,7 @@
       ],
       "frequency" : 4489,
       "mnemonic" : "stim-（=stin-：刺激）+ ul（连接符号）+ -ate（使动词）→使刺一下\n→刺激；激励",
-      "phonetic" : "ˈstɪmjuleɪt",
+      "phonetic" : "ˈstɪmjʊleɪt",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "stimulate"
@@ -373,7 +373,7 @@
       ],
       "frequency" : 4573,
       "mnemonic" : "stim-（刺激）+ ul（连接符号）+ -us（名词后缀）→刺激物，刺激，",
-      "phonetic" : "ˈstɪmjələs",
+      "phonetic" : "ˈstɪm.jə.ləs",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "stimulus"
@@ -433,7 +433,7 @@
       ],
       "frequency" : 8683,
       "mnemonic" : "stig-（=stick：粘罪犯的皮肤，刺上让人羞耻的记号）+ -ma（名词后\n缀，表行为的结果）→在罪犯皮肤上刺上烙印的结果→耻辱；羞耻",
-      "phonetic" : "ˈstɪgmə",
+      "phonetic" : "ˈstɪɡmə",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "stigma"
@@ -481,7 +481,7 @@
       ],
       "frequency" : 2750,
       "mnemonic" : "incent（=incite：刺激）+ -ive（名词后缀，很少见）→用来当做刺激\n东西→刺激（物）；激励（物）",
-      "phonetic" : "ɪnˈsentɪv",
+      "phonetic" : "ɪnˈsɛntɪv",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "incentive"
@@ -497,7 +497,7 @@
       ],
       "frequency" : 16245,
       "mnemonic" : "in-（使）+ -stig（=stick：刺，棍；刺激）+ -ate（使动词后缀）→刺\n激……发生→实施；煽动，鼓励",
-      "phonetic" : "ˈɪnstɪgeɪt",
+      "phonetic" : "ˈɪnstəɡeɪt",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "instigate"
@@ -514,7 +514,7 @@
       ],
       "frequency" : 8635,
       "mnemonic" : "irrit-（=incite：刺激，激怒；前缀ir-=in-）+ -ate（使动词后缀）→使",
-      "phonetic" : "ˈɪrɪteɪt",
+      "phonetic" : "ˈɪɹɪteɪt",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "irritate"
@@ -531,7 +531,7 @@
       ],
       "frequency" : 9376,
       "mnemonic" : "irritate（使烦恼；刺激）+ -ion（名词后缀）→让人恼怒的事情；恼",
-      "phonetic" : "ɪrɪˈteɪʃn",
+      "phonetic" : "ˌɪɹɪˈteɪʃən",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "irritation"
@@ -560,7 +560,7 @@
 
       ],
       "frequency" : 16557,
-      "phonetic" : "ˈɪrɪteɪtɪd",
+      "phonetic" : "ˈɪɹɪteɪtɪd",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "irritated"
@@ -576,7 +576,7 @@
       ],
       "frequency" : 14747,
       "mnemonic" : "irrit-（=irritate：使烦恼；激怒）+ -able（表示易于……的）→易怒",
-      "phonetic" : "ˈɪrɪtəbl",
+      "phonetic" : "ˈɪɹɪtəbl",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "irritable"
@@ -592,7 +592,7 @@
       ],
       "frequency" : 18999,
       "mnemonic" : "irrit（=irritate：使烦恼）+ -ant（名词后缀，表事物）→令人烦恼的",
-      "phonetic" : "ˈɪrɪtənt",
+      "phonetic" : "ˈɪɹɪtənt",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "irritant"
@@ -607,7 +607,7 @@
       ],
       "frequency" : 20041,
       "mnemonic" : "irritable（易怒的）+ -ity（名词后缀，指具备某种性质）→易怒",
-      "phonetic" : "ˌɪrɪtəˈbɪləti",
+      "phonetic" : "ˌɪɹɪtəˈbɪlɪti",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "irritability"
@@ -623,7 +623,7 @@
       ],
       "frequency" : 10084,
       "mnemonic" : "anno（=irrit：激怒；刺激）+ -oy（动词后缀）→使恼怒；使心烦\n趣记：an-（=ad：去）+ noy（谐音“闹”）→去闹→使心烦",
-      "phonetic" : "əˈnɒɪ",
+      "phonetic" : "əˈnɔɪ",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "annoy"
@@ -638,7 +638,7 @@
       ],
       "frequency" : 8843,
       "mnemonic" : "annoy（使恼怒）+ -ed（形容词后缀）→恼怒的",
-      "phonetic" : "əˈnɒɪd",
+      "phonetic" : "əˈnɔɪd",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "annoyed"
@@ -668,7 +668,7 @@
       ],
       "frequency" : 10789,
       "mnemonic" : "annoy（使烦恼；使心烦）+ -ance（名词后缀）→烦恼、生气；让人",
-      "phonetic" : "əˈnɒɪəns",
+      "phonetic" : "əˈnɔɪəns",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "annoyance"
@@ -686,7 +686,7 @@
       ],
       "frequency" : 6550,
       "mnemonic" : "s（加强语气）+ p（无意义）+ ur（=urge：鼓励；推动；催促）→鼓",
-      "phonetic" : "spɜː",
+      "phonetic" : "spɝ",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "spur"
@@ -707,7 +707,7 @@
 
       ],
       "frequency" : 314,
-      "phonetic" : "ˈbɒdɪ",
+      "phonetic" : "ˈbɑdi",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "body"
@@ -723,7 +723,7 @@
       ],
       "frequency" : 8580,
       "mnemonic" : "body（身体，变y为i）+ -ly（形容词 \/ 副词后缀）→身体的；移动全\n身地→引申义为用力地；整个地，完全地",
-      "phonetic" : "ˈbɒdɪlɪ",
+      "phonetic" : "ˈbɑdɪli",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "bodily"
@@ -738,7 +738,7 @@
       ],
       "frequency" : 1003,
       "mnemonic" : "some（某些；有的）+ body（人）→某些人；引申义为大人物",
-      "phonetic" : "ˈsʌmbədɪ",
+      "phonetic" : "ˈsʌmbɑdi",
       "pos" : "pron.",
       "rootHint" : "sting",
       "word" : "somebody"
@@ -753,7 +753,7 @@
       ],
       "frequency" : 1154,
       "mnemonic" : "no（没有）+ body（人）→没有人；比喻义为小人物",
-      "phonetic" : "ˈnəʊbədɪ",
+      "phonetic" : "ˈnoʊ.bɑ.di",
       "pos" : "pron.",
       "rootHint" : "sting",
       "word" : "nobody"
@@ -768,7 +768,7 @@
       ],
       "frequency" : 1387,
       "mnemonic" : "any（任何的）+ body（人）→任何人；比喻义为重要人物（用于否",
-      "phonetic" : "ˈenɪbɒdɪ",
+      "phonetic" : "ˈɛn.i.bɑd.i",
       "pos" : "pron.",
       "rootHint" : "sting",
       "word" : "anybody"
@@ -783,7 +783,7 @@
       ],
       "frequency" : 8255,
       "mnemonic" : "body（身体）+ guard（警戒；保护）→保护人身安全，警戒侵犯的\n人→保镖；警卫",
-      "phonetic" : "ˈbɒdɪgɑːd",
+      "phonetic" : "ˈbɒdiɡɑːd",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "bodyguard"
@@ -845,7 +845,7 @@
       ],
       "frequency" : 19581,
       "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed\n（形容词后缀）→脱离人体存在的→即脱离肉体的；从看不到的人",
-      "phonetic" : "ˌdɪsɪmˈbɒdid",
+      "phonetic" : "dɪsɪmˈbɒdiːd",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "disembodied"

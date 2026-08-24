@@ -22,7 +22,7 @@
       ],
       "frequency" : 1960,
       "mnemonic" : "con-（共同）+ -temp-（=time：（一段）时间）+ -orary（=-or+ -ary：\n复合名词后缀）→共同在某一段时间生活的→同代人；同一时代的；",
-      "phonetic" : "kənˈtemp(ə)r(ər)ɪ",
+      "phonetic" : "kənˈtɛm.pəˌɹɛɹ.i",
       "pos" : "n.",
       "rootHint" : "temp",
       "word" : "contemporary"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 3175,
       "mnemonic" : "temp-（=time：时间）+ -or-（名词后缀）+ -ary（形容词后缀）→持\n续一段时间的→引申词义短暂的；暂时的",
-      "phonetic" : "ˈtɛmp(ə)rəri",
+      "phonetic" : "ˈtɛmpəˌɹɛɹi",
       "pos" : "adj.",
       "rootHint" : "temp",
       "word" : "temporary"
@@ -60,7 +60,7 @@
       ],
       "frequency" : 6978,
       "mnemonic" : "temp-（=earthly, time：尘世的；时间）+ -or（名词后缀）+ -al（形容\n词后缀）→世俗的；时间的",
-      "phonetic" : "ˈtemp(ə)r(ə)l",
+      "phonetic" : "ˈtɛm.pəɹ.əl",
       "pos" : "adj.",
       "rootHint" : "temp",
       "word" : "temporal"
@@ -77,7 +77,7 @@
       ],
       "frequency" : 5279,
       "mnemonic" : "temporari（=temporary：短暂的）+ -ly（副词后缀）→临时地；暂时",
-      "phonetic" : "ˈtemprərəli",
+      "phonetic" : "ˈtɛmp(ə)ɹəɹəli",
       "pos" : "adv.",
       "rootHint" : "temp",
       "word" : "temporarily"
@@ -94,7 +94,7 @@
       ],
       "frequency" : 10233,
       "mnemonic" : "temp-（=time：时间）+ -o（名词后缀）→时间的节奏→速度；节奏",
-      "phonetic" : "ˈtempəʊ",
+      "phonetic" : "ˈtɛm.pəʊ",
       "pos" : "n.",
       "rootHint" : "temp",
       "word" : "tempo"
@@ -113,7 +113,7 @@
       ],
       "frequency" : 1631,
       "mnemonic" : "temper（混合；使温和）+ -ate（形容词后缀，e略）+ -ure（名词后\n缀）→混合（空气；体温）成适当比例的某物→温度；体温；氛围",
-      "phonetic" : "temprətʃə(r)",
+      "phonetic" : "ˈtɛmp(ə)ɹətʃə(ɹ)",
       "pos" : "n.",
       "rootHint" : "temp",
       "word" : "temperature"
@@ -131,7 +131,7 @@
       ],
       "frequency" : 6527,
       "mnemonic" : "v. 来自拉丁语temperare：to moderate→使缓和；使温和\nn. 来自拉丁语temperare：be moderate, restrain oneself：克制自己，\n温和平静的性情特征→后来特指易怒的性情，有……脾气的，性",
-      "phonetic" : "ˈtempə",
+      "phonetic" : "ˈtɛmpɚ",
       "pos" : "n.",
       "rootHint" : "temp",
       "word" : "temper"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 8602,
       "mnemonic" : "tempera（=temper：性情，脾气）+-ment（名词后缀）→气质；性",
-      "phonetic" : "ˈtemprəmənt",
+      "phonetic" : "ˈtɛmpəɹmənt",
       "pos" : "n.",
       "rootHint" : "temp",
       "word" : "temperament"
@@ -167,7 +167,7 @@
       ],
       "frequency" : 12838,
       "mnemonic" : "temper（=moderate, self-restrained：温和的；自我克制的）+-ate（形\n容词后缀）→气候温和的；自我克制的→温带的；性情温和的",
-      "phonetic" : "ˈtempərət",
+      "phonetic" : "ˈtɛmpəɹət",
       "pos" : "adj.",
       "rootHint" : "temp",
       "word" : "temperate"
@@ -199,7 +199,7 @@
 
       ],
       "frequency" : 12258,
-      "phonetic" : "ˈtæmpə",
+      "phonetic" : "ˈtæm.pə(ɹ)",
       "pos" : "vi.",
       "rootHint" : "temp",
       "word" : "tamper"

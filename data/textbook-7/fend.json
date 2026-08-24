@@ -29,7 +29,7 @@
       ],
       "frequency" : 1762,
       "mnemonic" : "de-（=away：离开）+ -fend（=to strike, hit：打击）→躲避打击→防",
-      "phonetic" : "dɪˈfend",
+      "phonetic" : "diˈfɛnd",
       "pos" : "vt.",
       "rootHint" : "fend",
       "word" : "defend"
@@ -44,7 +44,7 @@
       ],
       "frequency" : 3384,
       "mnemonic" : "defend（辩护）+ -ant（名词后缀）→被告（即：为自己辩护的人）",
-      "phonetic" : "dɪˈfendənt",
+      "phonetic" : "dɪˈfɛnd.ənt",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "defendant"
@@ -60,7 +60,7 @@
       ],
       "frequency" : 4876,
       "mnemonic" : "defend（防守；保护；捍卫）+ -er（名词后缀，人）→防守队员；保",
-      "phonetic" : "dɪˈfendə(r)",
+      "phonetic" : "dɪˈfɛndə(ɹ)",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "defender"
@@ -75,7 +75,7 @@
       ],
       "frequency" : 12373,
       "mnemonic" : "defend（防守；卫冕）+ -ing（形容词后缀）→防守的；卫冕的",
-      "phonetic" : "dɪˈfendɪŋ",
+      "phonetic" : "dəˈfɛndɪŋ",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "defending"
@@ -93,7 +93,7 @@
       ],
       "frequency" : 658,
       "mnemonic" : "defens（=defend：保护；防御；辩护）+ -e（名词后缀）→保卫；防",
-      "phonetic" : "dɪˈfens",
+      "phonetic" : "dɪˈfɛns",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "defense"
@@ -109,7 +109,7 @@
       ],
       "frequency" : 2904,
       "mnemonic" : "defens（=defense：防御；保护）+ -ive（形容词 \/ 名词后缀）→防御",
-      "phonetic" : "dɪˈfensɪv",
+      "phonetic" : "dɪˈfɛnsɪv",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "defensive"
@@ -123,7 +123,7 @@
         "We must tighten up defensively.\n我们必须严密防守。"
       ],
       "frequency" : 13461,
-      "phonetic" : "diˈfensivli",
+      "phonetic" : "dɪˈfɛnsɪvli",
       "pos" : "adv.",
       "rootHint" : "fend",
       "word" : "defensively"
@@ -138,7 +138,7 @@
       ],
       "frequency" : 16537,
       "mnemonic" : "defense（防御）+ -less（形容词后缀，没有的）→无防御能力的",
-      "phonetic" : "dɪˈfenslɪs",
+      "phonetic" : "dɪˈfɛnsləs",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "defenseless"
@@ -154,7 +154,7 @@
       ],
       "frequency" : 18233,
       "mnemonic" : "defens（=defend：辩解；防御）+ -ible（能够……的）→能辩解的，",
-      "phonetic" : "dɪˈfensəbl",
+      "phonetic" : "[dɪˈfɛnsɪbəɫ]",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "defensible"
@@ -187,7 +187,7 @@
       ],
       "frequency" : 9216,
       "mnemonic" : "来源于defend的缩写。defend：躲避打击→fend：抵挡，避开（攻",
-      "phonetic" : "fend",
+      "phonetic" : "fɛnd",
       "pos" : "vt.",
       "rootHint" : "fend",
       "word" : "fend"
@@ -202,7 +202,7 @@
       ],
       "frequency" : 12403,
       "mnemonic" : "fend（抵挡；避开）+ -er（表物）→抵挡、避开……的物品→（汽车",
-      "phonetic" : "ˈfendə(r)",
+      "phonetic" : "ˈfɛnd.ə(ɹ)",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "fender"
@@ -217,7 +217,7 @@
         "His property is fenced with barbed wire.\n他的房地产四周围有带刺的铁丝网。\n比较：unfenced：无护栏的；无围栏的"
       ],
       "frequency" : 2676,
-      "phonetic" : "fens",
+      "phonetic" : "fɛns",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "fence"
@@ -233,7 +233,7 @@
       ],
       "frequency" : 12182,
       "mnemonic" : "fence（剑术；栅栏，篱笆）+ -ing（名词后缀）→击剑；栅栏，篱笆",
-      "phonetic" : "ˈfensɪŋ",
+      "phonetic" : "ˈfɛnsɪŋ",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "fencing"
@@ -250,7 +250,7 @@
       ],
       "frequency" : 5272,
       "mnemonic" : "of-（=toward：朝向）+ -fend（=to hit, strike：攻击）→to strike\ntoward：朝向……进行攻击→冒犯，得罪；犯罪",
-      "phonetic" : "əˈfend",
+      "phonetic" : "əˈfɛnd",
       "pos" : "vt.",
       "rootHint" : "fend",
       "word" : "offend"
@@ -284,7 +284,7 @@
       ],
       "frequency" : 14374,
       "mnemonic" : "offend（冒犯；制造麻烦、问题）+ -ing（形容词 \/ 名词后缀）→惹麻\noffend（犯罪）+ -ing（形容词 \/ 名词后缀）→违法的；犯罪行为",
-      "phonetic" : "əˈfendiŋ",
+      "phonetic" : "əˈfɛndɪŋ",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "offending"
@@ -300,7 +300,7 @@
       ],
       "frequency" : 2850,
       "mnemonic" : "offens（=offend：冒犯；犯罪）+ -e（名词后缀）→冒犯行为；犯罪",
-      "phonetic" : "əˈfens",
+      "phonetic" : "əˈfɛns",
       "pos" : "n.",
       "rootHint" : "fend",
       "word" : "offense"
@@ -318,7 +318,7 @@
       ],
       "frequency" : 3195,
       "mnemonic" : "offens（=offend：冒犯；攻击）+ -ive（形容词后缀）→冒犯的；进",
-      "phonetic" : "əˈfensɪv",
+      "phonetic" : "əˈfɛnsɪv",
       "pos" : "adj.",
       "rootHint" : "fend",
       "word" : "offensive"

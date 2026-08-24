@@ -42,7 +42,7 @@
         "Admission is free. 免门票。"
       ],
       "frequency" : 3057,
-      "phonetic" : "ədˈmɪʃ(ə)n",
+      "phonetic" : "ædˈmɪʃ.ən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "admission"
@@ -86,7 +86,7 @@
       ],
       "frequency" : 2127,
       "mnemonic" : "per-（彻底）+ -mit（允许；可以）→许可，允许；许可证",
-      "phonetic" : "pəˈmɪt",
+      "phonetic" : "ˈpɝmɪt",
       "pos" : "vt.",
       "rootHint" : "mit",
       "word" : "permit"
@@ -102,7 +102,7 @@
       ],
       "frequency" : 3261,
       "mnemonic" : "permiss（=permit：准许）+ -ion（名词后缀）→准许；许可；批准",
-      "phonetic" : "pəˈmɪʃn",
+      "phonetic" : "pɚˈmɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "permission"
@@ -152,7 +152,7 @@
       ],
       "frequency" : 713,
       "mnemonic" : "com-（=together：一起）+ -mon（shared by all：共有的；共享的）→\n一起共有的，全体共享的→常见的；共同的；普通的；普遍的",
-      "phonetic" : "ˈkɒmən",
+      "phonetic" : "ˈkɑmən",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "common"
@@ -167,7 +167,7 @@
 
       ],
       "frequency" : 3792,
-      "phonetic" : "ˈkɒmənlɪ",
+      "phonetic" : "ˈkɑmənli",
       "pos" : "adv.",
       "rootHint" : "mis",
       "word" : "commonly"
@@ -198,7 +198,7 @@
       ],
       "frequency" : 14917,
       "mnemonic" : "common（共同的）+ -ality（名词后缀，-al + -ity）→共同点；共同之处",
-      "phonetic" : "kɒməˈnælɪtɪ",
+      "phonetic" : "kɒməˈnalɪti",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commonality"
@@ -215,7 +215,7 @@
       ],
       "frequency" : 19571,
       "mnemonic" : "common（普通的）+ -er（名词后缀，表示人）→普通的人→平民",
-      "phonetic" : "ˈkɒmənə",
+      "phonetic" : "ˈkɒmənə(ɹ)",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commoner"
@@ -230,7 +230,7 @@
 
       ],
       "frequency" : 16151,
-      "phonetic" : "ˈkɒmənz",
+      "phonetic" : "ˈkɑmənz",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commons"
@@ -247,7 +247,7 @@
       ],
       "frequency" : 16671,
       "mnemonic" : "common（共同的）+ wealth（财产；福利）→有着共同利益的人群集\n合→后用于指英联邦国家；联邦；联合体",
-      "phonetic" : "ˈkɒmənwelθ",
+      "phonetic" : "ˈkɑmənˌwɛlθ",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commonwealth"
@@ -266,7 +266,7 @@
       ],
       "frequency" : 297,
       "mnemonic" : "commun-（=common：共同的）+ -ity（名词后缀）→大家共同的地\n方→社区；共同体\ncom-（共同）+ -mod（=mode=model：方式；模式）+ -ity（名词后\n缀）→用共同的模式造出来的东西→商品；有使用价值的事物",
-      "phonetic" : "kəˈmjuːnɪtɪ",
+      "phonetic" : "k(ə)ˈmjunəti",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "community"
@@ -282,7 +282,7 @@
       ],
       "frequency" : 14640,
       "mnemonic" : "commun（=common：共同的；公共的）+ e→to make common,\nshare：使共有、分享、交流（的群体）→交流；亲密的交谈；群体",
-      "phonetic" : "ˈkɒmjuːn",
+      "phonetic" : "ˈkɑmjuːn",
       "pos" : "vi.",
       "rootHint" : "mis",
       "word" : "commune"
@@ -298,7 +298,7 @@
       ],
       "frequency" : 6494,
       "mnemonic" : "commune（群体；团体）+ -al（形容词后缀，表示……的）→团体共\n有的，有关各群体的→共享的；不同群体的",
-      "phonetic" : "kəˈmjuːnl",
+      "phonetic" : "kəˈmju.nəl",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "communal"
@@ -313,7 +313,7 @@
       ],
       "frequency" : 7207,
       "mnemonic" : "commun（共同生活、分担责任、共享财产等的群体、公社）+ -ism\n（名词后缀，表示主义）→共产主义",
-      "phonetic" : "ˈkɒmjʊnɪzəm",
+      "phonetic" : "ˈkɒm.juˌnɪzm̩",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "communism"
@@ -330,7 +330,7 @@
       ],
       "frequency" : 6431,
       "mnemonic" : "commune（共产的群体）+ -ist（名词\/形容词后缀，主义者；主义\n的）→共产主义者；共产主义的",
-      "phonetic" : "ˈkɒmjʊnɪst",
+      "phonetic" : "ˈkɒ.mjʊ.nɪst",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "communist"
@@ -410,7 +410,7 @@
       ],
       "frequency" : 1256,
       "mnemonic" : "communicat（=communicate：交流；沟通）+ -ion（名词后缀）→交\n流、沟通及交流、沟通的内容→交流，沟通；通信；信息",
-      "phonetic" : "kəˌmjuːnɪˈkeɪʃn",
+      "phonetic" : "kəˌmjuːnɪˈkeɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "communication"
@@ -493,7 +493,7 @@
       ],
       "frequency" : 4719,
       "mnemonic" : "muni-（=mun-=common duty：团体共同承担的任务、职责）+ -cip-\n（=grasp：拿；抓）+ -al（形容词后缀）→（市、区）团体共担任\n务、职责的→市政的；地方政府的",
-      "phonetic" : "mjʊˈnɪsɪp(ə)l",
+      "phonetic" : "mjuˈnɪsɪpəl",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "municipal"
@@ -508,7 +508,7 @@
       ],
       "frequency" : 8864,
       "mnemonic" : "municipal（市政的；地方政府的）+ -ity（名词后缀）→市政当局；",
-      "phonetic" : "mjuːˌnɪsɪˈpæləti",
+      "phonetic" : "mjʊˌnɪsɪˈpælɪti",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "municipality"

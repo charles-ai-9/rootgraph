@@ -53,7 +53,7 @@
       ],
       "frequency" : 18112,
       "mnemonic" : "lumin-（光亮；光线）+ -ary（名词后缀）→引申词义发光的人→专",
-      "phonetic" : "ˈluːmɪnəri",
+      "phonetic" : "ˈluməˌnɛɹi",
       "pos" : "n.",
       "rootHint" : "lumin",
       "word" : "luminary"
@@ -70,7 +70,7 @@
       ],
       "frequency" : 5459,
       "mnemonic" : "il-（=in-：进入）+ lumin-（光）+ -ate（使动词后缀）→使光进入→",
-      "phonetic" : "ɪˈluːmɪneɪt",
+      "phonetic" : "ɪlˈl(j)uməneɪt",
       "pos" : "vt.",
       "rootHint" : "lumin",
       "word" : "illuminate"
@@ -84,7 +84,7 @@
 
       ],
       "frequency" : 16322,
-      "phonetic" : "ɪˈluːmɪneɪtɪd",
+      "phonetic" : "ɪˈl(j)uːmɪneɪtɪd",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "illuminated"
@@ -98,7 +98,7 @@
 
       ],
       "frequency" : 18343,
-      "phonetic" : "ɪˈluːmɪneɪtɪŋ",
+      "phonetic" : "ɪˈl(j)uːmɪneɪtɪŋ",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "illuminating"
@@ -134,7 +134,7 @@
       ],
       "frequency" : 11251,
       "mnemonic" : "leuk-（=light, bright：光；亮→白）+ -emia（=blood：血）→以血液\n中白细胞不正常聚集为特征的病→白血病",
-      "phonetic" : "luːˈkiːmɪə",
+      "phonetic" : "luːˈkiːmi.ə",
       "pos" : "n.",
       "rootHint" : "lumin",
       "word" : "leukemia"
@@ -157,7 +157,7 @@
 
       ],
       "frequency" : 465,
-      "phonetic" : "laɪt",
+      "phonetic" : "[ɫɐɪ̯ʔ]",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "light"
@@ -172,7 +172,7 @@
 
       ],
       "frequency" : 3424,
-      "phonetic" : "ˈlaɪtlɪ",
+      "phonetic" : "ˈlaɪtli",
       "pos" : "adv.",
       "rootHint" : "lumin",
       "word" : "lightly"
@@ -188,7 +188,7 @@
       ],
       "frequency" : 8756,
       "mnemonic" : "light（减轻工作、情绪等负担；光）+ -en（动词后缀）→减轻；缓",
-      "phonetic" : "ˈlaɪtn",
+      "phonetic" : "ˈlaɪ.tən",
       "pos" : "vt.",
       "rootHint" : "lumin",
       "word" : "lighten"
@@ -235,7 +235,7 @@
       ],
       "frequency" : 4946,
       "mnemonic" : "de-（表强调）+ light（愉快）→高兴；愉快；使愉快",
-      "phonetic" : "dɪˈlaɪt",
+      "phonetic" : "dəˈlaɪt",
       "pos" : "n.",
       "rootHint" : "lumin",
       "word" : "delight"
@@ -249,7 +249,7 @@
         "I was delighted with my presents.\n我对我收到的礼物很满意。"
       ],
       "frequency" : 6710,
-      "phonetic" : "dɪˈlaɪtɪd",
+      "phonetic" : "dɪˈlaɪtəd",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "delighted"
@@ -263,7 +263,7 @@
 
       ],
       "frequency" : 8946,
-      "phonetic" : "dɪˈlaɪtfl",
+      "phonetic" : "[dəˈlaɪ̯t̚.fəɫ]",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "delightful"
@@ -297,7 +297,7 @@
       ],
       "frequency" : 3276,
       "mnemonic" : "lung cancer：肺癌",
-      "phonetic" : "lʌŋ",
+      "phonetic" : "ˈlʌŋ",
       "pos" : "n.",
       "rootHint" : "lumin",
       "word" : "lung"
@@ -332,7 +332,7 @@
       ],
       "frequency" : 3007,
       "mnemonic" : "邪解：s（加强语气）+ light（轻）→轻微的；瘦小的；无需重视的；冷落，",
-      "phonetic" : "slaɪt",
+      "phonetic" : "[sl̥l͡ɐɪʔ̚]",
       "pos" : "adj.",
       "rootHint" : "lumin",
       "word" : "slight"
@@ -347,7 +347,7 @@
 
       ],
       "frequency" : 1415,
-      "phonetic" : "ˈslaɪtlɪ",
+      "phonetic" : "ˈslaɪtli",
       "pos" : "adv.",
       "rootHint" : "lumin",
       "word" : "slightly"

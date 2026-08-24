@@ -26,7 +26,7 @@
       ],
       "frequency" : 7258,
       "mnemonic" : "con (加强语气) +fer (=carry：带来，带给) →带给，给予，授予",
-      "phonetic" : "kənˈfə:",
+      "phonetic" : "kənˈfɜː",
       "pos" : "v.",
       "rootHint" : "fer",
       "word" : "confer"
@@ -40,7 +40,7 @@
 
       ],
       "frequency" : 968,
-      "phonetic" : "ˈkɒnf(ə)r(ə)ns",
+      "phonetic" : "ˈkɒn.fə.ɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "conference"
@@ -60,7 +60,7 @@
       ],
       "frequency" : 2335,
       "mnemonic" : "trans (转) +fer (=carry：带，带给) →带了转向另外一个地方→转移，",
-      "phonetic" : "trænsˈfə:",
+      "phonetic" : "ˈtɹænsfɝ",
       "pos" : "v.",
       "rootHint" : "fer",
       "word" : "transfer"
@@ -73,7 +73,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "trænsˈfɜ:rəbl",
+      "phonetic" : "trænsˈfɜːrəbl̩",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "transferable"
@@ -88,7 +88,7 @@
       ],
       "frequency" : 7585,
       "mnemonic" : "fer (=carry=bear：产出) +t (无意义) +ile (形容词后缀，表“容易”) →\n容易产出的→多产的，肥沃的",
-      "phonetic" : "ˈfə:tail",
+      "phonetic" : "ˈfɝːtaɪl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "fertile"
@@ -102,7 +102,7 @@
 
       ],
       "frequency" : 6199,
-      "phonetic" : "fəˈtɪlɪtɪ; fɜ:ˈtɪlɪtɪ",
+      "phonetic" : "fɚːˈtɪləti",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "fertility"
@@ -116,7 +116,7 @@
 
       ],
       "frequency" : 13876,
-      "phonetic" : "ˈfɜ:tɪlaɪz",
+      "phonetic" : "ˈfɜː(ɹ)tɪlaɪz",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "fertilize"
@@ -131,7 +131,7 @@
       ],
       "frequency" : 6460,
       "mnemonic" : "fertiliz (使肥沃) +er (名词后缀) →使 (土地) 肥沃的东西→肥料",
-      "phonetic" : "ˈfə:tilaizə",
+      "phonetic" : "ˈfɜːtəlaɪzə",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "fertilizer"
@@ -160,7 +160,7 @@
       ],
       "frequency" : 1159,
       "mnemonic" : "re (返回) +fer (=carry 带) →带着 (问题) 回去→参考，查阅；涉及，涉及",
-      "phonetic" : "riˈfə:",
+      "phonetic" : "ɹɪˈfɝ",
       "pos" : "v.",
       "rootHint" : "fer",
       "word" : "refer"
@@ -175,7 +175,7 @@
       ],
       "frequency" : 8690,
       "mnemonic" : "refer (参考) +ee (名词后缀) → (比赛中) 要参考的人→裁判",
-      "phonetic" : "ˌrefəˈri:",
+      "phonetic" : "ˌɹɛfəˈɹiː",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "referee"
@@ -190,7 +190,7 @@
       ],
       "frequency" : 1918,
       "mnemonic" : "refer (提及，参考) +ence (名词后缀) →参考；证明书 (人)，推荐信",
-      "phonetic" : "ˈrefərəns",
+      "phonetic" : "ˈɹɛf.(ə)ɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "reference"
@@ -204,7 +204,7 @@
 
       ],
       "frequency" : 6866,
-      "phonetic" : "ˌrefəˈrendəm",
+      "phonetic" : "ˌɹɛfəˈɹɛndəm",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "referendum"
@@ -218,7 +218,7 @@
 
       ],
       "frequency" : 18017,
-      "phonetic" : "ˈref(ə)r(ə)nt",
+      "phonetic" : "ˈɹɛf(ə)ɹənt",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "referent"
@@ -232,7 +232,7 @@
 
       ],
       "frequency" : 6603,
-      "phonetic" : "rɪˈfɜ:r(ə)l",
+      "phonetic" : "ɹɪˈfɜːɹəl",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "referral"
@@ -246,7 +246,7 @@
 
       ],
       "frequency" : 8873,
-      "phonetic" : "dɪˈfɜ:",
+      "phonetic" : "dɪˈfɜː(ɹ)",
       "pos" : "vi.",
       "rootHint" : "fer",
       "word" : "defer"
@@ -260,7 +260,7 @@
 
       ],
       "frequency" : 11627,
-      "phonetic" : "ˈdef(ə)r(ə)ns",
+      "phonetic" : "ˈdɛ.fɚ.əns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "deference"
@@ -274,7 +274,7 @@
 
       ],
       "frequency" : 15894,
-      "phonetic" : "dɪˈfɜ:d",
+      "phonetic" : "dɪˈfɜːd",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "deferred"
@@ -294,7 +294,7 @@
       ],
       "frequency" : 3016,
       "mnemonic" : "different：不同的→ differ：不同",
-      "phonetic" : "ˈdɪfə",
+      "phonetic" : "ˈdɪfɚ",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "differ"
@@ -308,7 +308,7 @@
 
       ],
       "frequency" : 497,
-      "phonetic" : "ˈdɪf(ə)r(ə)ns",
+      "phonetic" : "ˈdɪfəɹən(t)s",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "difference"
@@ -322,7 +322,7 @@
 
       ],
       "frequency" : 238,
-      "phonetic" : "ˈdɪfrənt",
+      "phonetic" : "ˈdɪf.(ə)ɹ.ənt",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "different"
@@ -336,7 +336,7 @@
 
       ],
       "frequency" : 9007,
-      "phonetic" : "ˌdɪfəˈrenʃ(ə)l",
+      "phonetic" : "[dɪfəˈɹənʃəɫ]",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "differential"
@@ -354,7 +354,7 @@
       ],
       "frequency" : 6479,
       "mnemonic" : "diferent (不同的) +iate (使动词) →使不同，使有差异",
-      "phonetic" : "ˌdɪfəˈrenʃɪeɪt",
+      "phonetic" : "ˌdɪ.fəˈɹɛnt.ʃi.eɪt",
       "pos" : "vi.",
       "rootHint" : "fer",
       "word" : "differentiate"
@@ -382,7 +382,7 @@
 
       ],
       "frequency" : 3158,
-      "phonetic" : "ˈdɪfərəntlɪ",
+      "phonetic" : "ˈdifəɹəntli",
       "pos" : "adv.",
       "rootHint" : "fer",
       "word" : "differently"
@@ -396,7 +396,7 @@
 
       ],
       "frequency" : 8175,
-      "phonetic" : "ɪnˈdɪf(ə)r(ə)ns",
+      "phonetic" : "ɪnˈdɪf.ə.ɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "indifference"
@@ -414,7 +414,7 @@
       ],
       "frequency" : 8537,
       "mnemonic" : "in (表否定) +different→不 (关注) 不同的→冷漠的",
-      "phonetic" : "ɪnˈdɪf(ə)r(ə)nt",
+      "phonetic" : "ɪnˈdɪf.ə.ɹənt",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "indifferent"
@@ -428,7 +428,7 @@
 
       ],
       "frequency" : 9444,
-      "phonetic" : "ɪnˈfɜ:",
+      "phonetic" : "ɪnˈfɝ",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "infer"
@@ -442,7 +442,7 @@
 
       ],
       "frequency" : 9771,
-      "phonetic" : "ˈɪnf(ə)r(ə)ns",
+      "phonetic" : "ˈɪn.fə.ɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "inference"
@@ -456,7 +456,7 @@
 
       ],
       "frequency" : 2109,
-      "phonetic" : "ˈɒfə",
+      "phonetic" : "ˈɔfɚ",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "offer"
@@ -470,7 +470,7 @@
 
       ],
       "frequency" : 19552,
-      "phonetic" : "ˈɔfəd",
+      "phonetic" : "ˈɔfɚd",
       "pos" : "v.",
       "rootHint" : "fer",
       "word" : "offered"
@@ -484,7 +484,7 @@
 
       ],
       "frequency" : 4022,
-      "phonetic" : "ˈɒf(ə)rɪŋ",
+      "phonetic" : "ˈɔfəɹɪŋ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "offering"
@@ -498,7 +498,7 @@
 
       ],
       "frequency" : 1728,
-      "phonetic" : "prɪˈfɜ:",
+      "phonetic" : "pɹɪˈfɝ",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "prefer"
@@ -512,7 +512,7 @@
 
       ],
       "frequency" : 5988,
-      "phonetic" : "prɪˈfɜ:d",
+      "phonetic" : "pɹɪˈfɝd",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "preferred"
@@ -532,7 +532,7 @@
       ],
       "frequency" : 10849,
       "mnemonic" : "prefer (更喜欢，宁愿) +able (可以……的) → 更喜欢的，更好的",
-      "phonetic" : "ˈpref(ə)rəb(ə)l",
+      "phonetic" : "pɹəˈfɜːɹəb(ə)l",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "preferable"
@@ -562,7 +562,7 @@
       ],
       "frequency" : 3049,
       "mnemonic" : "prefer (喜欢) +ence (名词后缀) →喜欢，偏好",
-      "phonetic" : "ˈpref(ə)r(ə)ns",
+      "phonetic" : "ˈpɹɛf(ə)ɹ(ə)ns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "preference"
@@ -576,7 +576,7 @@
 
       ],
       "frequency" : 12384,
-      "phonetic" : "ˌprefəˈrenʃ(ə)l",
+      "phonetic" : "ˈpɹɛf.ɜː(ɹ)ˌɛn.ʃəl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "preferential"
@@ -590,7 +590,7 @@
 
       ],
       "frequency" : 1103,
-      "phonetic" : "ˈsʌfə",
+      "phonetic" : "ˈsʌfɚ",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "suffer"
@@ -618,7 +618,7 @@
 
       ],
       "frequency" : 3970,
-      "phonetic" : "ˈsʌf(ə)rɪŋ",
+      "phonetic" : "ˈsʌfəɹɪŋ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "suffering"
@@ -632,7 +632,7 @@
 
       ],
       "frequency" : 1508,
-      "phonetic" : "bɜ:θ",
+      "phonetic" : "bɝθ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "birth"
@@ -646,7 +646,7 @@
 
       ],
       "frequency" : 2455,
-      "phonetic" : "ˈbɜ:θdeɪ",
+      "phonetic" : "ˈbɝθˌdeɪ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "birthday"
@@ -660,7 +660,7 @@
 
       ],
       "frequency" : 11858,
-      "phonetic" : "ˈbɜ:θpleɪs",
+      "phonetic" : "ˈbɝθˌpleɪs",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "birthplace"
@@ -697,7 +697,7 @@
       ],
       "frequency" : 2688,
       "mnemonic" : "bur (=bear：忍受，承受，负荷，承受……的重担；首尾辅音均相\n同，二者同源) +d (无意义) +en (名词后缀) →负担，负荷",
-      "phonetic" : "ˈbɜ:d(ə)n",
+      "phonetic" : "ˈbɝdn",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "burden"
@@ -712,7 +712,7 @@
       ],
       "frequency" : 16938,
       "mnemonic" : "burden (负担，累赘) +some (形容词后缀) →累赘的，负担重的，恼人的",
-      "phonetic" : "ˈbɜ:dns(ə)m",
+      "phonetic" : "ˈbəː.dən.səm",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "burdensome"
@@ -727,7 +727,7 @@
       ],
       "frequency" : 4732,
       "mnemonic" : "tol (=bear：忍受；首辅音t，b音似，尾辅音均为l，r音似) +erate\n(=ery+ate：复合使动词) →使去忍受→忍受，容忍",
-      "phonetic" : "ˈtɔləreit",
+      "phonetic" : "ˈtɑl.ə.ɹeɪt",
       "pos" : "v.",
       "rootHint" : "fer",
       "word" : "tolerate"
@@ -742,7 +742,7 @@
 
       ],
       "frequency" : 7008,
-      "phonetic" : "ˈtɔlərəns",
+      "phonetic" : "ˈtɒləɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "tolerance"
@@ -756,7 +756,7 @@
 
       ],
       "frequency" : 2354,
-      "phonetic" : "ˈtɔlərənt",
+      "phonetic" : "ˈtɒləɹənt",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "tolerant"
@@ -770,7 +770,7 @@
 
       ],
       "frequency" : 13965,
-      "phonetic" : "ˈækwɪfə",
+      "phonetic" : "ˈækwɪfɝ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "aquifer"
@@ -784,7 +784,7 @@
 
       ],
       "frequency" : 16404,
-      "phonetic" : "səˈkʌmf(ə)r(ə)ns",
+      "phonetic" : "sɝːˈkʌm.fɹəns",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "circumference"
@@ -812,7 +812,7 @@
 
       ],
       "frequency" : 15612,
-      "phonetic" : "ˈju:fəmɪz(ə)m",
+      "phonetic" : "ˈjuː.fəˌmɪ.z(ə)m",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "euphemism"
@@ -826,7 +826,7 @@
 
       ],
       "frequency" : 12962,
-      "phonetic" : "ju:ˈfɔ:rɪə",
+      "phonetic" : "juːˈfɔːɹi.ə",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "euphoria"
@@ -868,7 +868,7 @@
 
       ],
       "frequency" : 10289,
-      "phonetic" : "pəˈrɪf(ə)rɪ",
+      "phonetic" : "pəˈɹɪfəɹi",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "periphery"
@@ -882,7 +882,7 @@
 
       ],
       "frequency" : 8531,
-      "phonetic" : "pəˈrɪf(ə)r(ə)l",
+      "phonetic" : "pəˈɹɪf(ə)ɹ(ə)l",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "peripheral"
@@ -896,7 +896,7 @@
 
       ],
       "frequency" : 12,
-      "phonetic" : "pesˈtɪfərəs",
+      "phonetic" : "ˌpɛsˈtɪfəɹəs",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "pestiferous"
@@ -910,7 +910,7 @@
 
       ],
       "frequency" : 14826,
-      "phonetic" : "ˈfɒsf(ə)rəs",
+      "phonetic" : "ˈfɑsfɚəs",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "phosphorus"
@@ -924,7 +924,7 @@
 
       ],
       "frequency" : 16127,
-      "phonetic" : "ˈprɒfə",
+      "phonetic" : "ˈpɹɑfɚ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "proffer"
@@ -938,7 +938,7 @@
 
       ],
       "frequency" : 12557,
-      "phonetic" : "prəˈlɪfəreɪt",
+      "phonetic" : "pɹəˈlɪf.əɹ.eɪt",
       "pos" : "vi.",
       "rootHint" : "fer",
       "word" : "proliferate"
@@ -952,7 +952,7 @@
 
       ],
       "frequency" : 6685,
-      "phonetic" : "proˌlɪfəˈreʃən; prəʊˌlɪfəˈreɪʃn",
+      "phonetic" : "pɹəˌlɪfəˈɹeɪʃən",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "proliferation"
@@ -966,7 +966,7 @@
 
       ],
       "frequency" : 3964,
-      "phonetic" : "ˈmetəfə; -fɔ:",
+      "phonetic" : "ˈme.tə.fɚ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "metaphor"
@@ -980,7 +980,7 @@
 
       ],
       "frequency" : 12901,
-      "phonetic" : "ˌmetəˈfɒrɪkl",
+      "phonetic" : "ˌmɛtəˈfɒɹɪkəl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "metaphorical"

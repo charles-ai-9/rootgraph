@@ -22,7 +22,7 @@
       ],
       "frequency" : 17199,
       "mnemonic" : "publ（=people：人；群众）+ -ic（形容词后缀，…的）→群众的→公",
-      "phonetic" : "ˈpʌblɪk",
+      "phonetic" : "ˈpjuːbɪk",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "pubic"
@@ -38,7 +38,7 @@
       ],
       "frequency" : 3053,
       "mnemonic" : "public（政府的；公开的）+ -ly（副词后缀）→政府地；公开地",
-      "phonetic" : "ˈpʌblɪklɪ",
+      "phonetic" : "ˈpʌblɪkli",
       "pos" : "adv.",
       "rootHint" : "publ",
       "word" : "publicly"
@@ -69,7 +69,7 @@
       ],
       "frequency" : 2481,
       "mnemonic" : "public（公开的；公众的）+ -ation（名词后缀）→引申义为出版；出",
-      "phonetic" : "pʌblɪˈkeɪʃn",
+      "phonetic" : "ˌpʌblɪˈkeɪʃən",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "publication"
@@ -117,7 +117,7 @@
       ],
       "frequency" : 10016,
       "mnemonic" : "public（公开的）+ -ize（使动词后缀）→使……公开→宣传；推广；",
-      "phonetic" : "ˈpʌblɪsaɪz",
+      "phonetic" : "ˈpʌblɪˌsaɪz",
       "pos" : "vt.",
       "rootHint" : "publ",
       "word" : "publicize"
@@ -176,7 +176,7 @@
         "The publishers planned to produce the journal on a weekly basis.\n出版社计划将这份杂志做成周刊。"
       ],
       "frequency" : 3097,
-      "phonetic" : "ˈpʌblɪʃə",
+      "phonetic" : "ˈpʌblɪʃɚ",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "publisher"
@@ -204,7 +204,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "rɪˈpʌblɪk",
+      "phonetic" : "[ɹɪˈpʌblɪk]",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "republic"
@@ -219,7 +219,7 @@
       ],
       "frequency" : 595,
       "mnemonic" : "republic（共和的；共和党人）+ -an（名词\/形容词后缀）→共和的；",
-      "phonetic" : "rɪˈpʌblɪkən",
+      "phonetic" : "ɹɪˈpʌblɪkən",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "republican"
@@ -235,7 +235,7 @@
       ],
       "frequency" : 906,
       "mnemonic" : "demo-（人民）+ -crat（管理者；统治者）→（主张）由人民选举产\n生统治者→民主党人；民主主义者",
-      "phonetic" : "ˈdeməkræt",
+      "phonetic" : "ˈdɛməkɹæt",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "Democrat"
@@ -250,7 +250,7 @@
       ],
       "frequency" : 1511,
       "mnemonic" : "demo-（人民）+ -cracy（管理；统治）→由人民进行管理、统治→民",
-      "phonetic" : "dɪˈmɒkrəsɪ",
+      "phonetic" : "dɪˈmɒkɹəsi",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "democracy"
@@ -266,7 +266,7 @@
       ],
       "frequency" : 856,
       "mnemonic" : "democra（=democracy：民主）+ -tic（与……有关的）→民主的；民",
-      "phonetic" : "deməˈkrætɪk",
+      "phonetic" : "dɛməˈkɹætɪk",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "democratic"
@@ -296,7 +296,7 @@
 
       ],
       "frequency" : 14739,
-      "phonetic" : "ˌdeməˈkrætɪkli",
+      "phonetic" : "dɛməˈkɹætɪkəli",
       "pos" : "adv.",
       "rootHint" : "publ",
       "word" : "democratically"
@@ -311,7 +311,7 @@
       ],
       "frequency" : 18694,
       "mnemonic" : "democrat（=democratic：民主的）+ -ize（使动词后缀）→使（国家",
-      "phonetic" : "dɪˈmɒkrətaɪz",
+      "phonetic" : "dɪˈmɒkɹətaɪz",
       "pos" : "vt.",
       "rootHint" : "publ",
       "word" : "democratize"
@@ -357,7 +357,7 @@
 
       ],
       "frequency" : 9117,
-      "phonetic" : "səˌfɪstɪˈkeɪʃn",
+      "phonetic" : "səˌfɪs.tɪˈkeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "sophistication"
@@ -389,7 +389,7 @@
 
       ],
       "frequency" : 4652,
-      "phonetic" : "təʊl",
+      "phonetic" : "toʊl",
       "pos" : "vt.",
       "rootHint" : "publ",
       "word" : "toll"
@@ -448,7 +448,7 @@
 
       ],
       "frequency" : 11699,
-      "phonetic" : "ˈkʌstəmaɪz",
+      "phonetic" : "ˈkʌst.ə.maɪ̯z",
       "pos" : "vt.",
       "rootHint" : "publ",
       "word" : "customize"
@@ -477,7 +477,7 @@
       ],
       "frequency" : 8674,
       "mnemonic" : "custom（习惯）+ -ary（形容词后缀）→通常的；习惯的\ncustom（定做的）+ -ary（形容词后缀）→为某人所定做的一样→特",
-      "phonetic" : "ˈkʌstəmərɪ",
+      "phonetic" : "ˈkʌstəm(ə)ɹi",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "customary"
@@ -509,7 +509,7 @@
       ],
       "frequency" : 8692,
       "mnemonic" : "accustom（使习惯于）+ -ed（形容词后缀）→习惯于；通常的",
-      "phonetic" : "əˈkʌstəmd",
+      "phonetic" : "ə.ˈkʌs.təmd",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "accustomed"
@@ -540,7 +540,7 @@
       ],
       "frequency" : 4191,
       "mnemonic" : "邪记：custom：习惯→costume：（代表）某个时期习惯穿的服装→戏装；",
-      "phonetic" : "ˈkɒstjuːm",
+      "phonetic" : "ˈkɒs.tjuːm",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "costume"
@@ -572,7 +572,7 @@
 
       ],
       "frequency" : 306,
-      "phonetic" : "riːl",
+      "phonetic" : "ɹiːl",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "real"
@@ -587,7 +587,7 @@
       ],
       "frequency" : 12915,
       "mnemonic" : "un-（=not：不）+ real（真实的）→不真实的，虚幻的；奇异的",
-      "phonetic" : "ʌnˈrɪəl",
+      "phonetic" : "ʌnˈɹi.əl",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "unreal"
@@ -604,7 +604,7 @@
       ],
       "frequency" : 1035,
       "mnemonic" : "real（真实的）+ -ity（名词后缀）→现实；真实情形；真实存在",
-      "phonetic" : "rɪˈælɪtɪ",
+      "phonetic" : "ɹiˈæləti",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "reality"
@@ -634,7 +634,7 @@
         "Tell me what really happened.\n告诉我究竟（真正）发生了什么事。"
       ],
       "frequency" : 142,
-      "phonetic" : "ˈrɪəlɪ",
+      "phonetic" : "ˈɹi.əli",
       "pos" : "adv.",
       "rootHint" : "publ",
       "word" : "really"
@@ -650,7 +650,7 @@
       ],
       "frequency" : 7303,
       "mnemonic" : "real（真实的；现实的）+ -ism（名词后缀，主义；思想）→现实主",
-      "phonetic" : "ˈriːəlɪzəm",
+      "phonetic" : "ɹi.əlɪzm",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "realism"
@@ -665,7 +665,7 @@
       ],
       "frequency" : 10202,
       "mnemonic" : "real（真实的，现实的）+ -ist（人）→现实的人→现实主义者；现实",
-      "phonetic" : "ˈriːəlɪst",
+      "phonetic" : "ˈɹɪəlɪst",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "realist"
@@ -681,7 +681,7 @@
       ],
       "frequency" : 4032,
       "mnemonic" : "real（现实的；真实的）+ -istic（形容词后缀，-ist+ -ic）→现实的；",
-      "phonetic" : "ˌriːəˈlɪstɪk",
+      "phonetic" : "ˌɹiːjəˈlɪstɪk",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "realistic"
@@ -755,7 +755,7 @@
       ],
       "frequency" : 12514,
       "mnemonic" : "real（真实的）+ time（时间）→在真实时间的发生的→实时的",
-      "phonetic" : "ˌriːəl ˈtaɪm",
+      "phonetic" : "ˈɹiːltaɪm",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "real-time"
@@ -772,7 +772,7 @@
       ],
       "frequency" : 621,
       "mnemonic" : "real-（现实）+ -ize（使动词后缀）→使成为现实；认识；赚取",
-      "phonetic" : "ˈrɪəlaɪz",
+      "phonetic" : "ˈɹi.ə.laɪz",
       "pos" : "vt.",
       "rootHint" : "publ",
       "word" : "realize"
@@ -789,7 +789,7 @@
       ],
       "frequency" : 5692,
       "mnemonic" : "realize（认识；变成现实；赚取）+ -ation（复合名词后缀）→认识；",
-      "phonetic" : "riːəlaɪˈzeɪʃn",
+      "phonetic" : "-laɪˈzeɪʃən",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "realization"
@@ -805,7 +805,7 @@
       ],
       "frequency" : 15930,
       "mnemonic" : "ether（=sky：天空）+ -eal（形容词后缀，……的）→即像天空一样\n的→优雅的；轻飘的；超凡的\n邪记：ether（天空）+ real（现实）→在天空中超越现实的→轻飘的；超凡",
-      "phonetic" : "ɪˈθɪərɪəl",
+      "phonetic" : "əˈθɪɹ.i.əl",
       "pos" : "adj.",
       "rootHint" : "publ",
       "word" : "ethereal"
@@ -819,7 +819,7 @@
 
       ],
       "frequency" : 19795,
-      "phonetic" : "ˈrɪəltə",
+      "phonetic" : "ˈɹi(ə)l.tɔɹ",
       "pos" : "n.",
       "rootHint" : "publ",
       "word" : "realtor"

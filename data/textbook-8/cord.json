@@ -23,7 +23,7 @@
       ],
       "frequency" : 6159,
       "mnemonic" : "ac-（=to：来；趋向）+ -cord-（心（脏））→心与心靠近，心在一起\n→ 与……符合，一致；协议，条约\nac-（=to）+ -cord（=cred-：认可）→给予……认可→给予；赋予；",
-      "phonetic" : "əˈkɔːd",
+      "phonetic" : "ə.ˈkɔɹd",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "accord"
@@ -38,7 +38,7 @@
       ],
       "frequency" : 479,
       "mnemonic" : "accord（与……一致；符合）+ -ing（形容词后缀）→相符的；一",
-      "phonetic" : "əˈkɔːdɪŋ",
+      "phonetic" : "ə.ˈkɔɹd.ɪŋ",
       "pos" : "adj.",
       "rootHint" : "cord",
       "word" : "according"
@@ -54,7 +54,7 @@
       ],
       "frequency" : 5656,
       "mnemonic" : "according（相符的；一致的）+ -ly（副词后缀）→根据……，与……\n相符、一致的结果→因此；相应地",
-      "phonetic" : "əˈkɔːdɪŋlɪ",
+      "phonetic" : "ə.ˈkɔɹ.dɪŋ.li",
       "pos" : "adv.",
       "rootHint" : "cord",
       "word" : "accordingly"
@@ -69,7 +69,7 @@
       ],
       "frequency" : 8254,
       "mnemonic" : "accord（与……一致；相符合）+ -ance（名词后缀）→一致；和谐",
-      "phonetic" : "əˈkɔːdns",
+      "phonetic" : "ə.ˈkɔɹd.əns",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "accordance"
@@ -84,7 +84,7 @@
       ],
       "frequency" : 15142,
       "mnemonic" : "accord（和谐；一致）+ -ion（名词后缀）→发出和谐、一致乐音的\n乐器→手风琴",
-      "phonetic" : "əˈkɔːdɪən",
+      "phonetic" : "ə.ˈkɔɹ.di.ən",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "accordion"
@@ -100,7 +100,7 @@
       ],
       "frequency" : 14954,
       "mnemonic" : "cord-（心）+ -ial（形容词后缀）→由心发出的热情、友善的感情→",
-      "phonetic" : "ˈkɔːdɪəl",
+      "phonetic" : "ˈkɔɹ.djəl",
       "pos" : "adj.",
       "rootHint" : "cord",
       "word" : "cordial"
@@ -117,7 +117,7 @@
       ],
       "frequency" : 15267,
       "mnemonic" : "dis-（=apart：分离的）+ -cord（心）→心与心远离→不一致；不和；",
-      "phonetic" : "ˈdɪskɔːd",
+      "phonetic" : "ˈdɪskɔɹd",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "discord"
@@ -140,7 +140,7 @@
       ],
       "frequency" : 517,
       "mnemonic" : "re-（再次）+ cord（心）→使回到心中→能让人回想起来的，重复\n听、读等动作以至于可以再次使某物回到心里→记录，记载；唱片；",
-      "phonetic" : "ˈrekɔːd",
+      "phonetic" : "ˈɹɛkɚd",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "record"
@@ -154,7 +154,7 @@
 
       ],
       "frequency" : 8908,
-      "phonetic" : "rɪˈkɔːdɪd",
+      "phonetic" : "-əd",
       "pos" : "adj.",
       "rootHint" : "cord",
       "word" : "recorded"
@@ -202,7 +202,7 @@
       ],
       "frequency" : 13261,
       "mnemonic" : "cam-（camera：摄像机）+ corder（=recorder：录像机）→便携式摄",
-      "phonetic" : "ˈkæmkɔːdə(r)",
+      "phonetic" : "ˈkæmˌkɔɹdɚ",
       "pos" : "n.",
       "rootHint" : "cord",
       "word" : "camcorder"

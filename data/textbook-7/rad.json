@@ -23,7 +23,7 @@
       ],
       "frequency" : 2952,
       "mnemonic" : "rad-（根）+ -ical（=-ic+-al：复合形容词后缀）→根的，根本的；激",
-      "phonetic" : "ˈrædɪkl",
+      "phonetic" : "ˈɹædɪkəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "radical"
@@ -68,7 +68,7 @@
       ],
       "frequency" : 9324,
       "mnemonic" : "e-（=out：出来）+ -radic-（=root：根）+ -ate（动词后缀）→root\nout：连根拔起；根除，消灭，杜绝",
-      "phonetic" : "ɪˈrædɪkeɪt",
+      "phonetic" : "ɪˈɹæd.ɪ.keɪt",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "eradicate"
@@ -98,7 +98,7 @@
       ],
       "frequency" : 15495,
       "mnemonic" : "rad-（=root：根）+-ish（名词后缀）→有根的植物→萝卜",
-      "phonetic" : "ˈrædɪʃ",
+      "phonetic" : "ˈɹædɪʃ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radish"
@@ -115,7 +115,7 @@
       ],
       "frequency" : 19811,
       "mnemonic" : "up（向上）+root（根）→把根向上拔起→将……连根拔起→（使）",
-      "phonetic" : "ʌpˈruːt",
+      "phonetic" : "ʌpˈɹuːt",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "uproot"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 907,
       "mnemonic" : "radi-（放射；射线）+ o→radio：无线电广播，通信；（用无线电）",
-      "phonetic" : "ˈreɪdɪəʊ",
+      "phonetic" : "ˈɹeɪdiˌoʊ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radio"
@@ -165,7 +165,7 @@
       ],
       "frequency" : 18627,
       "mnemonic" : "radio（放射的）+logy（学）+-ist（表示人）→从事放射医疗的人→",
-      "phonetic" : "ˌreɪdiˈɒlədʒɪst",
+      "phonetic" : "ˌɹeɪ.diːˈɒl.ə.dʒɪst",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radiologist"
@@ -181,7 +181,7 @@
       ],
       "frequency" : 4836,
       "mnemonic" : "ra(dio) + d(etecting) + -ar(ranging)：无线电探测和测距的首字母合",
-      "phonetic" : "ˈreɪdɑː",
+      "phonetic" : "ˈɹeɪdɚ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radar"
@@ -198,7 +198,7 @@
       ],
       "frequency" : 5110,
       "mnemonic" : "radi-（放射；射线）→ray：光线；射线",
-      "phonetic" : "reɪ",
+      "phonetic" : "ɹeɪ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "ray"
@@ -213,7 +213,7 @@
       ],
       "frequency" : 3686,
       "mnemonic" : "radi-（辐射；放射；发散光、热、能量等的）+ -ation（复合名词后\n缀，-ate+-ion）→辐射；放射线；放射热、能等",
-      "phonetic" : "reɪdɪˈeɪʃn",
+      "phonetic" : "ɹaɪ.di.ˈaɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radiation"
@@ -229,7 +229,7 @@
       ],
       "frequency" : 8664,
       "mnemonic" : "radi（放射；辐射；发散）+ -ate（使动词）→辐射，发散（即：像\n→引申义为“显出，流露”",
-      "phonetic" : "ˈreɪdɪeɪt",
+      "phonetic" : "ˈɹeɪdi.ət",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "radiate"
@@ -245,7 +245,7 @@
       ],
       "frequency" : 9964,
       "mnemonic" : "radi-（放射；发散）+ -ant（形容词词缀）→（周身；太阳等）散发\n光芒的；发射的→荣光焕发的；光芒四射的；辐射的，放射的",
-      "phonetic" : "ˈreɪdɪənt",
+      "phonetic" : "ˈɹeɪdi.ənt",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "radiant"
@@ -262,7 +262,7 @@
       ],
       "frequency" : 13764,
       "mnemonic" : "radiate（使热、光、能量放射，发散）+ -or（表物体）→用于发散热\n量的设备→散热器；暖气片；水箱",
-      "phonetic" : "ˈreɪdɪeɪtə",
+      "phonetic" : "ˈɹeɪ.diˌeɪ.tɚ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radiator"
@@ -277,7 +277,7 @@
       ],
       "frequency" : 17080,
       "mnemonic" : "rad-（放射；辐射）+ -ial（形容词\/名词后缀）→放射状的；辐射状的",
-      "phonetic" : "ˈreɪdɪəl",
+      "phonetic" : "ˈɹeɪdi.əl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "radial"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 17872,
       "mnemonic" : "radi-（=radiant：容光焕发的；散发光辉的）+ -ance（名词后缀）→",
-      "phonetic" : "ˈreɪdɪəns",
+      "phonetic" : "ˈɹeɪdi.əns",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radiance"
@@ -312,7 +312,7 @@
       ],
       "frequency" : 9631,
       "mnemonic" : "radi-（放射；辐射）+ -us（名词后缀）→从圆心向外辐射的范围→范",
-      "phonetic" : "ˈreɪdɪəs",
+      "phonetic" : "ˈɹeɪ.di.əs",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radius"
@@ -331,7 +331,7 @@
       ],
       "frequency" : 4582,
       "mnemonic" : "sphere（=ball：球）→球，球（体）\nsphere（=range：范围；领域）→范围；领域",
-      "phonetic" : "sfɪə",
+      "phonetic" : "sfɪɹ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "sphere"
@@ -347,7 +347,7 @@
       ],
       "frequency" : 15194,
       "mnemonic" : "sphere（球；球体）+-ical（形容词后缀，……的）→球形的；球状的",
-      "phonetic" : "ˈsferɪkl",
+      "phonetic" : "sfiːɹɪkəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "spherical"
@@ -364,7 +364,7 @@
       ],
       "frequency" : 2237,
       "mnemonic" : "atmo（=air：气体；大气）+ sphere（=ball：球体；地球）→在地球\n周围的气体→大气；空气；气氛",
-      "phonetic" : "ˈætməsfɪə",
+      "phonetic" : "ˈætməsˌfɪɹ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "atmosphere"
@@ -401,7 +401,7 @@
       ],
       "frequency" : 8764,
       "mnemonic" : "hemi（=semi=half：半）+ sphere（球）→（北\/南）半球，大脑半球",
-      "phonetic" : "ˈhemɪsfɪə",
+      "phonetic" : "ˈhɛmɪsfɪəɹ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "hemisphere"
@@ -417,7 +417,7 @@
         "70% of our globe’s surface is water.\n我们地球表面的70%是水。"
       ],
       "frequency" : 4787,
-      "phonetic" : "gləʊb",
+      "phonetic" : "ɡloːb",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "globe"
@@ -437,7 +437,7 @@
       ],
       "frequency" : 1114,
       "mnemonic" : "globe（地球）+-al（形容词后缀）→全球的→引申义为“全面的；统",
-      "phonetic" : "ˈgləʊbl",
+      "phonetic" : "ˈɡləʊbəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "global"
@@ -481,7 +481,7 @@
       ],
       "frequency" : 16314,
       "mnemonic" : "globe（球形；球体）+-ular（形容词后缀，似……形状的）→球形",
-      "phonetic" : "ˈglɒbjʊlə",
+      "phonetic" : "ˈɡlɑb.jə.lɚ",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "globular"
@@ -496,7 +496,7 @@
       ],
       "frequency" : 10520,
       "mnemonic" : "con-（=with, together：一起）+-glomer（=to gather into a ball, collect：\n聚集成球；收集）+-ate（名词后缀）→聚集在一起的物体→企业集",
-      "phonetic" : "kənˈɡlɒmərət",
+      "phonetic" : "kənˈɡlɒm(ə)ɹət",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "conglomerate"
@@ -549,7 +549,7 @@
         "The moon’s round orb would shine high in the sky, casting its velvety light"
       ],
       "frequency" : 18283,
-      "phonetic" : "ɔːb",
+      "phonetic" : "ɔː(ɹ)b",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "orb"
@@ -565,7 +565,7 @@
       ],
       "frequency" : 4217,
       "mnemonic" : "orb-（在模仿globe中的“obe：部分”，造出“球，天体”的含义）\n+it（走；运行）→围绕天体运行→绕轨道运行；轨道",
-      "phonetic" : "ˈɔːbɪt",
+      "phonetic" : "ˈɔː(ɹ)bɪt",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "orbit"
@@ -618,7 +618,7 @@
       ],
       "frequency" : 17267,
       "mnemonic" : "ex-（=out of：出去；脱离；离开）+ orbit（轨道）+ -ant（形容词后\n缀）→脱离正常轨道的→引申义价格高得离谱的",
-      "phonetic" : "ɪɡˈzɔːbɪtənt",
+      "phonetic" : "ɛɡˈzɔːbɪtənt",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "exorbitant"
@@ -635,7 +635,7 @@
       ],
       "frequency" : 3388,
       "mnemonic" : "grave（=heavy：重的）→严重的，重大的\ngrave（=cave：洞穴）→坟墓（即：一个“洞穴”）",
-      "phonetic" : "greɪv",
+      "phonetic" : "ɡɹeɪv",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "grave"
@@ -649,7 +649,7 @@
         "She is gravely ill.\n她病势沉重。"
       ],
       "frequency" : 13491,
-      "phonetic" : "ˈgreɪvli",
+      "phonetic" : "ˈɡɹeɪvli",
       "pos" : "adv.",
       "rootHint" : "rad",
       "word" : "gravely"
@@ -668,7 +668,7 @@
       ],
       "frequency" : 3993,
       "mnemonic" : "grav（=grave：重的；严重的，严肃的）+ -ity（名词后缀）→重力，",
-      "phonetic" : "ˈgrævətɪ",
+      "phonetic" : "ˈɡɹævɪti",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "gravity"
@@ -683,7 +683,7 @@
       ],
       "frequency" : 10216,
       "mnemonic" : "grave（坟墓）+ yard（场地）→墓地",
-      "phonetic" : "ˈgreɪvjɑːd",
+      "phonetic" : "ˈɡɹeɪvˌjɑɹd",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "graveyard"
@@ -714,7 +714,7 @@
       ],
       "frequency" : 12924,
       "mnemonic" : "gravit（=gravity：万有引力）+ -ate（使动词后缀）→使……感受到\n（吸）引力→受引力作用；被吸引",
-      "phonetic" : "ˈgrævɪteɪt",
+      "phonetic" : "ˈɡɹævɪteit",
       "pos" : "vi.",
       "rootHint" : "rad",
       "word" : "gravitate"
@@ -730,7 +730,7 @@
       ],
       "frequency" : 9559,
       "mnemonic" : "gravitate（受引力作用）+ -ional（=-ion+-al）→引力的；重力引起的",
-      "phonetic" : "ˌɡrævɪˈteɪʃənl",
+      "phonetic" : "ˌɡɹævɪˈteɪʃənəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "gravitational"
@@ -747,7 +747,7 @@
       ],
       "frequency" : 12652,
       "mnemonic" : "en-（=in：进入）+ grav-（=cut, carve：刻；雕刻）+ -e→to cut\/carve\nin：在……上雕刻",
-      "phonetic" : "ɪnˈɡreɪv",
+      "phonetic" : "ɪnˈɡɹeɪv",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "engrave"
@@ -762,7 +762,7 @@
       ],
       "frequency" : 19973,
       "mnemonic" : "engrave（在……上雕刻）+ -ed（形容词后缀）→刻在心中、头脑中\n的→铭记于心的；刻在脑海中的",
-      "phonetic" : "ɪnˈgrevd",
+      "phonetic" : "ɪnˈɡɹeɪvd",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "engraved"
@@ -800,7 +800,7 @@
       ],
       "frequency" : 10056,
       "mnemonic" : "ag-（=ad-：to）+ grav-（=grave=heavy：重的；严重的）+ -ate（使动\n词）→to make heavy,",
-      "phonetic" : "ˈægrəveɪt",
+      "phonetic" : "ˈæɡ.ɹə.veɪ̯t",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "aggravate"
@@ -832,7 +832,7 @@
       ],
       "frequency" : 4131,
       "mnemonic" : "grav-（重；压迫）→grief：悲痛；伤心事（沉重的事情压在心里）",
-      "phonetic" : "griːf",
+      "phonetic" : "ɡɹiːf",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "grief"
@@ -864,7 +864,7 @@
       ],
       "frequency" : 9993,
       "mnemonic" : "griev（=grave：坟墓；重的）+ -e（后缀）→在坟墓前→（心情）沉",
-      "phonetic" : "griːv",
+      "phonetic" : "ɡɹiːv",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "grieve"
@@ -878,7 +878,7 @@
         "He’s grieving over his dead wife and son.\n他因丧妻失子而悲痛不已。"
       ],
       "frequency" : 10657,
-      "phonetic" : "ɡriːvɪŋ",
+      "phonetic" : "ˈɡɹiːvɪŋ",
       "pos" : "vi.",
       "rootHint" : "rad",
       "word" : "grieving"
@@ -911,7 +911,7 @@
 
       ],
       "frequency" : 12228,
-      "phonetic" : "bruːt",
+      "phonetic" : "bɹut",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "brute"
@@ -926,7 +926,7 @@
       ],
       "frequency" : 4752,
       "mnemonic" : "brut（=brute：残暴的；赤裸裸的）+ -al（形容词后缀）→残暴的；",
-      "phonetic" : "ˈbruːtl",
+      "phonetic" : "ˈbɹuːtəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "brutal"
@@ -987,7 +987,7 @@
       ],
       "frequency" : 9497,
       "mnemonic" : "brig（=to fight：争斗；击打）+-ade（名词后缀）→军事用语指",
-      "phonetic" : "brɪˈgeɪd",
+      "phonetic" : "bɹɪˈɡeɪd",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "brigade"
@@ -1004,7 +1004,7 @@
 
       ],
       "frequency" : 9430,
-      "phonetic" : "ˈgʊruː",
+      "phonetic" : "ɡʊˈɹuː",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "guru"

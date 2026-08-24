@@ -69,7 +69,7 @@
 
       ],
       "frequency" : 1224,
-      "phonetic" : "səˈluːʃn",
+      "phonetic" : "səˈl(j)uːʃən",
       "pos" : "n.",
       "rootHint" : "solut",
       "word" : "solution"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 11919,
       "mnemonic" : "solve（解决）+ -ent（形容词后缀）→即可溶解的→用于经济学术语",
-      "phonetic" : "ˈsɒlvənt",
+      "phonetic" : "[ˈsɒlvənt]",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "solvent"
@@ -101,7 +101,7 @@
       ],
       "frequency" : 19272,
       "mnemonic" : "solu-（u、v可互换，-solv-：溶解）+ -able（形容词后缀）→可溶解",
-      "phonetic" : "ˈsɒljəbl",
+      "phonetic" : "[ˈsɔɫ.jʊ.bəɫ]",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "soluble"
@@ -120,7 +120,7 @@
       ],
       "frequency" : 2262,
       "mnemonic" : "re-（加强意义）+ -solv-（松开；解释）+ -e→解开难题→解决（解决",
-      "phonetic" : "rɪˈzɒlv",
+      "phonetic" : "ɹɪˈzɑlv",
       "pos" : "vt.",
       "rootHint" : "solv",
       "word" : "resolve"
@@ -152,7 +152,7 @@
       ],
       "frequency" : 1980,
       "mnemonic" : "re-（加强意义）+ solut-（u、v可互换, -solv-：溶解；解决）+ -ion\n（名词后缀）→决议；解决；决定",
-      "phonetic" : "ˌrezəˈluːʃn",
+      "phonetic" : "ˌɹɛzəˈl(j)uʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "solut",
       "word" : "resolution"
@@ -185,7 +185,7 @@
       ],
       "frequency" : 12407,
       "mnemonic" : "dissolve：解散；解除 →dissolution：（组织、议会等的）解散；（婚",
-      "phonetic" : "ˌdɪsəˈluːʃn",
+      "phonetic" : "ˌdɪsəˈluʃən",
       "pos" : "n.",
       "rootHint" : "solut",
       "word" : "dissolution"
@@ -200,7 +200,7 @@
       ],
       "frequency" : 15504,
       "mnemonic" : "resol（=resolve：解决；决心）+ -ute（形容词后缀）→坚定的；有决",
-      "phonetic" : "ˈrezəluːt",
+      "phonetic" : "ˈɹɛ.zəˌl(j)uːt",
       "pos" : "adj.",
       "rootHint" : "solut",
       "word" : "resolute"
@@ -213,7 +213,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "ˈrezəluːtlɪ",
+      "phonetic" : "ˈɹɛz.əˌlutli",
       "pos" : "adv.",
       "rootHint" : "solut",
       "word" : "resolutely"
@@ -243,7 +243,7 @@
       ],
       "frequency" : 17761,
       "mnemonic" : "ab-（=off, away from：分离）+ -solv-（解开；松开）+ -e→此处用于\n法律用语，松开某人罪的捆绑，与“罪”分离→宣告……无罪；赦",
-      "phonetic" : "əbˈzɒlv",
+      "phonetic" : "æbˈsɑlv",
       "pos" : "vt.",
       "rootHint" : "solv",
       "word" : "absolve"
@@ -261,7 +261,7 @@
       ],
       "frequency" : 3192,
       "mnemonic" : "ab-（=away from：离开）+ solute（松开）→不受任何束缚的，无限\n制的→完全的；确凿的；绝对的；独裁的",
-      "phonetic" : "ˈæbsəluːt",
+      "phonetic" : "ˈæb.səˌlut",
       "pos" : "adj.",
       "rootHint" : "solut",
       "word" : "absolute"
@@ -275,7 +275,7 @@
 
       ],
       "frequency" : 1152,
-      "phonetic" : "ˈæbsəluːtlɪ",
+      "phonetic" : "ˈæb.səˌlut.li",
       "pos" : "adv.",
       "rootHint" : "solut",
       "word" : "absolutely"
@@ -290,7 +290,7 @@
       ],
       "frequency" : 15490,
       "mnemonic" : "for-（=completely：完全的）+ lorn（=to lose：失去）→完全丧失的，\n完全失去希望的→孤苦伶仃的；凄凉的；难以实现的",
-      "phonetic" : "fəˈlɔːn",
+      "phonetic" : "fɔɹˈlɔɹn",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "forlorn"

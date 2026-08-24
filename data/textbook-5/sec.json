@@ -23,7 +23,7 @@
       ],
       "frequency" : 382,
       "mnemonic" : "sec-（=follow：跟随）+ on（one：一）+ d→跟随在一之后→第二；\nsec-（=second：二）+ on（=one：一）+ d→一小时除以二次→秒",
-      "phonetic" : "ˈsek(ə)nd",
+      "phonetic" : "ˈsɛk.(ə)nd",
       "pos" : "vt.",
       "rootHint" : "sec",
       "word" : "second"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 3486,
       "mnemonic" : "second（第二；其次）+ -ary（形容词后缀）→次要的；继发性的；",
-      "phonetic" : "ˈsekəndri",
+      "phonetic" : "ˈsɛkənˌdɛɹi",
       "pos" : "adj.",
       "rootHint" : "sec",
       "word" : "secondary"
@@ -54,7 +54,7 @@
         "Firstly, it’s expensive, and secondly, it’s too slow.\n首先是价格贵，其次，速度太慢。"
       ],
       "frequency" : 7001,
-      "phonetic" : "ˈsekəndli",
+      "phonetic" : "ˈsɛkəndli",
       "pos" : "adv.",
       "rootHint" : "sec",
       "word" : "secondly"

@@ -24,7 +24,7 @@
       ],
       "frequency" : 2336,
       "mnemonic" : "ana-（=throughout：从头到尾；彻底）+ -lyz（=loose：解开；松开）\n→从头到尾解开→分析；分解（比如：“分析”一个问题，就是把该",
-      "phonetic" : "ˈænəlaɪz",
+      "phonetic" : "ˈæn.ə.laɪz",
       "pos" : "vt.",
       "rootHint" : "lyz",
       "word" : "analyze"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 814,
       "mnemonic" : "ana-（从头到尾；彻底）+ -lysis（=a loosening：松开；解开）→从头\n到尾解开→分析；分析结果",
-      "phonetic" : "əˈnæləsɪs",
+      "phonetic" : "əˈnælɪsɪs",
       "pos" : "n.",
       "rootHint" : "lysis",
       "word" : "analysis"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 12379,
       "mnemonic" : "analy（=analyze：分析；解析）+ -tic（形容词后缀，与……有关的）\n→分析的；解析的",
-      "phonetic" : "ænəˈlɪtɪk",
+      "phonetic" : "ˌænəˈlɪtɪk",
       "pos" : "adj.",
       "rootHint" : "lytic",
       "word" : "analytic"
@@ -137,7 +137,7 @@
       ],
       "frequency" : 10238,
       "mnemonic" : "paraly-（=paralyze：使瘫痪；使丧失活动能力）+ -sis（名词后缀，表\n状态）→比喻麻木，无能力的状态→麻痹；瘫痪",
-      "phonetic" : "pəˈræləsɪs",
+      "phonetic" : "pəˈɹæləsəs",
       "pos" : "n.",
       "rootHint" : "lysis",
       "word" : "paralysis"
@@ -170,7 +170,7 @@
       ],
       "frequency" : 8064,
       "mnemonic" : "cata-（完全地）+ -lyst（解开的人或物）→完全解开……的人或物→",
-      "phonetic" : "ˈkætəlɪst",
+      "phonetic" : "ˈkæt.əl.ɪst",
       "pos" : "n.",
       "rootHint" : "lyst",
       "word" : "catalyst"
@@ -201,7 +201,7 @@
       ],
       "frequency" : 15500,
       "mnemonic" : "dia-（=apart：分离）+ -ly-（解开；分开）+ -sis（名词后缀）→用于",
-      "phonetic" : "ˌdaɪˈæləsɪs",
+      "phonetic" : "daɪˈælɪsɪs",
       "pos" : "n.",
       "rootHint" : "lysis",
       "word" : "dialysis"

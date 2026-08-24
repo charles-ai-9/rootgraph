@@ -27,7 +27,7 @@
       ],
       "frequency" : 2327,
       "mnemonic" : "hab-（=to have, hold：拥有；持有）+-it（抽象名词后缀）→经常拥\n有、做的行为→习惯；习性；嗜好，瘾",
-      "phonetic" : "ˈhæbɪt",
+      "phonetic" : "ˈhæbət",
       "pos" : "n.",
       "rootHint" : "hab",
       "word" : "habit"
@@ -42,7 +42,7 @@
       ],
       "frequency" : 19316,
       "mnemonic" : "habit（居住）+ -able（能够……的）→可居住的；适合居住的",
-      "phonetic" : "ˈhæbɪtəbl",
+      "phonetic" : "ˈhæbɪtəbəl",
       "pos" : "adj.",
       "rootHint" : "hab",
       "word" : "habitable"
@@ -72,7 +72,7 @@
       ],
       "frequency" : 18662,
       "mnemonic" : "habitat（居住的环境）+-ion（名词后缀）→居住；住所，聚居地",
-      "phonetic" : "hæbɪˈteɪʃn",
+      "phonetic" : "ˌhæb.ɪˈteɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "hab",
       "word" : "habitation"
@@ -91,7 +91,7 @@
       ],
       "frequency" : 13861,
       "mnemonic" : "habit（惯常行为；嗜好，瘾）+-ual（形容词后缀，……的）→惯常",
-      "phonetic" : "həˈbɪtʃuəl",
+      "phonetic" : "həˈbɪ.tʃ(w)əl",
       "pos" : "adj.",
       "rootHint" : "hab",
       "word" : "habitual"
@@ -136,7 +136,7 @@
       ],
       "frequency" : 5997,
       "mnemonic" : "inhabit（居住；栖息）+-ant（名词后缀，表人）→居民；栖息动物",
-      "phonetic" : "ɪnˈhæbɪtənt",
+      "phonetic" : "ɪnˈhæ.bɪ.tənt",
       "pos" : "n.",
       "rootHint" : "hab",
       "word" : "inhabitant"
@@ -153,7 +153,7 @@
       ],
       "frequency" : 11492,
       "mnemonic" : "re-（=again：再；重新）+-hab（=make fit：使健康；适合的）\n+-ilitate（复合动词后缀，-ile+名-ity+-ate）→使……健康；使……适\n合→使康复；使恢复正常生活；修复→使……恢复名誉",
-      "phonetic" : "ˌriːhəˈbɪlɪteɪt",
+      "phonetic" : "ɹiː(h)əˈbɪlɪteɪt",
       "pos" : "vt.",
       "rootHint" : "hab",
       "word" : "rehabilitate"
@@ -187,7 +187,7 @@
       ],
       "frequency" : 10206,
       "mnemonic" : "rehabilitation的简写。",
-      "phonetic" : "ˈriːhæb",
+      "phonetic" : "ˈɹiːhæb",
       "pos" : "n.",
       "rootHint" : "hab",
       "word" : "rehab"
@@ -203,7 +203,7 @@
       ],
       "frequency" : 3330,
       "mnemonic" : "ex-（向外）+ hib-（=hold：拿）+ -it（动词或名词后缀）→将东西拿\n出去→展览；出示；展出",
-      "phonetic" : "ɪɡˈzɪbɪt",
+      "phonetic" : "ɛɡ-",
       "pos" : "vt.",
       "rootHint" : "hib",
       "word" : "exhibit"
@@ -220,7 +220,7 @@
       ],
       "frequency" : 2498,
       "mnemonic" : "exhibit（展览；表现出；展示） +-ion（名词后缀）→展览；表现；显示",
-      "phonetic" : "ˌeksɪˈbɪʃn",
+      "phonetic" : "ɛksɪˈbɪʃən",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "exhibition"
@@ -300,7 +300,7 @@
       ],
       "frequency" : 4029,
       "mnemonic" : "pro-（=forth：向前）+-hibit（hinder：阻碍；阻止）→阻碍；阻\n止……向前→引申比喻义禁止；阻止（to hold back, restrain, hinder,\nprevent）",
-      "phonetic" : "prəˈhɪbɪt",
+      "phonetic" : "pɹoʊˈhɪbɪt",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "prohibit"
@@ -315,7 +315,7 @@
       ],
       "frequency" : 17765,
       "mnemonic" : "prohibit（禁止）+-ed（形容词后缀）→被禁止的",
-      "phonetic" : "prə(ʊ)ˈhɪbɪtɪd",
+      "phonetic" : "pɹoʊˈhɪbɪtɪd",
       "pos" : "adj.",
       "rootHint" : "hib",
       "word" : "prohibited"
@@ -332,7 +332,7 @@
       ],
       "frequency" : 6908,
       "mnemonic" : "prohibit（尤指以法令禁止）+-ion（名词后缀）→（法律）禁止；",
-      "phonetic" : "ˌprəʊɪˈbɪʃn",
+      "phonetic" : "ˌpɹoʊ(h)ɪˈbɪʃən",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "prohibition"
@@ -369,7 +369,7 @@
         "They say it’s better to give than to receive.\n人们说施（给予）比受有福。"
       ],
       "frequency" : 98,
-      "phonetic" : "gɪv",
+      "phonetic" : "ɡɪv",
       "pos" : "vt.",
       "rootHint" : "hib",
       "word" : "give"
@@ -430,7 +430,7 @@
       ],
       "frequency" : 3629,
       "mnemonic" : "for-（完全地）+give（给予；施予）→完全地给予原谅、谅解→原\n谅；宽恕→引申义为免除（债务、义务等）",
-      "phonetic" : "fəˈgɪv",
+      "phonetic" : "fɚˈɡɪv",
       "pos" : "vt.",
       "rootHint" : "hib",
       "word" : "forgive"
@@ -445,7 +445,7 @@
       ],
       "frequency" : 7093,
       "mnemonic" : "forgive（原谅；宽恕）+ -ness（名词后缀）→原谅；宽恕",
-      "phonetic" : "fəˈɡɪvnəs",
+      "phonetic" : "fɚˈɡɪvnəs",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "forgiveness"
@@ -478,7 +478,7 @@
         "They gifted a goal to their opponents.\n他们白送给对方一分。"
       ],
       "frequency" : 1389,
-      "phonetic" : "gɪft",
+      "phonetic" : "ɡɪft",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "gift"
@@ -495,7 +495,7 @@
       ],
       "frequency" : 3267,
       "mnemonic" : "gift（天赋）+-ed（形容词后缀）→有天才的；有天赋的",
-      "phonetic" : "ˈgɪftɪd",
+      "phonetic" : "ˈɡɪftɪd",
       "pos" : "adj.",
       "rootHint" : "hib",
       "word" : "gifted"
@@ -529,7 +529,7 @@
       ],
       "frequency" : 1885,
       "mnemonic" : "来自de-（=away：离开）+ -hab（持；握；拥有）→“keep something\ndeb-（欠）+ t→亏钱别人的东西→借款；负债情况；情义",
-      "phonetic" : "det",
+      "phonetic" : "dɛt",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "debt"
@@ -544,7 +544,7 @@
       ],
       "frequency" : 13785,
       "mnemonic" : "debt（借款）+-or（名词后缀，表人）→借款的一方→债务人；借方",
-      "phonetic" : "ˈdetə",
+      "phonetic" : "ˈdet.ə",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "debtor"
@@ -563,7 +563,7 @@
       ],
       "frequency" : 1812,
       "mnemonic" : "来自deb-：欠。因此引申义为由于；预期（预计的还未达到，因此为",
-      "phonetic" : "djuː",
+      "phonetic" : "duː",
       "pos" : "adj.",
       "rootHint" : "hib",
       "word" : "due"
@@ -595,7 +595,7 @@
       ],
       "frequency" : 14818,
       "mnemonic" : "due（适当的；到……时候）+-ly（副词后缀）→适当地；准时地",
-      "phonetic" : "ˈdjuːlɪ",
+      "phonetic" : "ˈduli",
       "pos" : "adv.",
       "rootHint" : "hib",
       "word" : "duly"
@@ -613,7 +613,7 @@
       ],
       "frequency" : 1765,
       "mnemonic" : "due：（欠债）到期的，应支付的（责任、义务、税）→duty：due+-\nty（名词后缀）：责任；上班；职责；税",
-      "phonetic" : "ˈdjuːtɪ",
+      "phonetic" : "duːti",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "duty"
@@ -661,7 +661,7 @@
       ],
       "frequency" : 6252,
       "mnemonic" : "en-（=in：进入；里面）+ deavor（=duty：责任，义务；职责）→put",
-      "phonetic" : "ɪnˈdevə",
+      "phonetic" : "ɛnˈdɛv.ɚ",
       "pos" : "n.",
       "rootHint" : "hib",
       "word" : "endeavor"

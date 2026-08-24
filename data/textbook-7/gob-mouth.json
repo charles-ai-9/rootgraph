@@ -21,7 +21,7 @@
       ],
       "frequency" : 11114,
       "mnemonic" : "gobb（=gob-：嘴，双写b）+ -le（表反复或连续动作）→反复用口吃\n掉事物→狼吞虎咽地吃；贪婪地吃",
-      "phonetic" : "ˈgɒbl",
+      "phonetic" : "ˈɡɑbl̩",
       "pos" : "vt.",
       "rootHint" : "gob：mouth",
       "word" : "gobble"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 17527,
       "mnemonic" : "gobble（狼吞虎咽地吃）+-er（名词后缀，表人）→狼吞虎咽的人",
-      "phonetic" : "gɒblə",
+      "phonetic" : "ˈɡɒblə",
       "pos" : "n.",
       "rootHint" : "gob：mouth",
       "word" : "gobbler"
@@ -66,7 +66,7 @@
       ],
       "frequency" : 244,
       "mnemonic" : "job来源于gob（嘴），表示可以糊口的东西→工作",
-      "phonetic" : "dʒɒb",
+      "phonetic" : "d͡ʒɑb",
       "pos" : "n.",
       "rootHint" : "gob：mouth",
       "word" : "job"
@@ -96,7 +96,7 @@
       ],
       "frequency" : 19779,
       "mnemonic" : "on（表持续性）+ the（定冠词）+ job（工作）→在连续工作的→在",
-      "phonetic" : "ˈɔnðəˈdʒɔb, ˈɔːn-",
+      "phonetic" : "ˈɔnðəˈdʒɔbˌ ˈɔːn-",
       "pos" : "adj.",
       "rootHint" : "gob：mouth",
       "word" : "on-the-job"
@@ -112,7 +112,7 @@
       ],
       "frequency" : 9096,
       "mnemonic" : "greed（=hunger, want：饥饿；想要）+ -y（形容词后缀）→贪吃的；",
-      "phonetic" : "ˈgriːdɪ",
+      "phonetic" : "ˈɡɹiːdi",
       "pos" : "adj.",
       "rootHint" : "gob：mouth",
       "word" : "greedy"
@@ -127,7 +127,7 @@
         "Nothing would satisfy her greed for power.\n没有什么可以满足她对权力的贪婪（她对权力贪得无厌）。"
       ],
       "frequency" : 6854,
-      "phonetic" : "griːd",
+      "phonetic" : "ɡɹid",
       "pos" : "n.",
       "rootHint" : "gob：mouth",
       "word" : "greed"
@@ -143,7 +143,7 @@
         "Are you done hogging the bathroom?\n你要霸占浴室到什么时候？"
       ],
       "frequency" : 7998,
-      "phonetic" : "hɒg",
+      "phonetic" : "hɑɡ",
       "pos" : "n.",
       "rootHint" : "gob：mouth",
       "word" : "hog"

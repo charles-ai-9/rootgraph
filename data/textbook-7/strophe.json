@@ -22,7 +22,7 @@
       ],
       "frequency" : 6755,
       "mnemonic" : "cata-（=down：向下）+ -strophe（=to turn：翻转）→彻底翻转、颠\n覆；急转而下→天翻地覆→灾难；灾祸；困难\n-astr-（=star：星星）+ -ophy（名词后缀）→星星掉下来→（预示）\nsurvive the catastrophe：活过灾难",
-      "phonetic" : "kəˈtæstrəfɪ",
+      "phonetic" : "kəˈtæstɹəfi",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "catastrophe"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 7709,
       "mnemonic" : "catastrophe（灾难；灾祸；不幸事件）+ -ic（形容词后缀，与……有\n关的）→灾难性的；极不幸的，极不成功的",
-      "phonetic" : "kætəˈstrɒfɪk",
+      "phonetic" : "kætəˈstɹɒfɪk",
       "pos" : "adj.",
       "rootHint" : "strophe",
       "word" : "catastrophic"
@@ -59,7 +59,7 @@
       ],
       "frequency" : 2341,
       "mnemonic" : "dis-（不，表相反）+ aster-（=star：星星）→星星不在了，掉下来了\n→（预示）灾难",
-      "phonetic" : "dɪˈzɑːstə",
+      "phonetic" : "dɪˈzæs.tɚ",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "disaster"
@@ -74,7 +74,7 @@
       ],
       "frequency" : 7375,
       "mnemonic" : "disastr（=disaster：灾难；彻底失败的人或事）+ -ous（形容词后缀）\n→灾难性的；极糟糕的；完全失败的",
-      "phonetic" : "dɪˈzɑːstrəs",
+      "phonetic" : "dɪˈzɑːstɹəs",
       "pos" : "adj.",
       "rootHint" : "strophe",
       "word" : "disastrous"
@@ -90,7 +90,7 @@
         "Are you strapped in (= wearing a seat belt in a car, plane, etc.)?\n您系好安全带了吗？"
       ],
       "frequency" : 5998,
-      "phonetic" : "stræp",
+      "phonetic" : "stɹæp",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "strap"
@@ -132,7 +132,7 @@
 
       ],
       "frequency" : 539,
-      "phonetic" : "stɑː",
+      "phonetic" : "stɑɹ",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "star"
@@ -179,7 +179,7 @@
       ],
       "frequency" : 16514,
       "mnemonic" : "star（星星，双写r）+ -y（形容词后缀）→布满星星的；像星星似的",
-      "phonetic" : "ˈstɑːrɪ",
+      "phonetic" : "ˈstɑː.ɹi",
       "pos" : "adj.",
       "rootHint" : "strophe",
       "word" : "starry"
@@ -227,7 +227,7 @@
       ],
       "frequency" : 6564,
       "mnemonic" : "astro-（=ster-=star：星星）+ -nom-（=arranging; rule, law：布置；规\n律）+ -y（名词后缀）→研究日月星辰等天体在宇宙间的分布、运行\n规律的科学→天文学",
-      "phonetic" : "əˈstrɒnəmɪ",
+      "phonetic" : "æˈstɹɑnəˌmi",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "astronomy"
@@ -242,7 +242,7 @@
       ],
       "frequency" : 3779,
       "mnemonic" : "astronom（=astronomy：天文学）+-er（名词后缀，表人）→研究天\n文学的科学家→天文学家",
-      "phonetic" : "əˈstrɒnəmə(r)",
+      "phonetic" : "ə.ˈstɹɒ.nə.mɚ",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "astronomer"
@@ -259,7 +259,7 @@
       ],
       "frequency" : 7170,
       "mnemonic" : "astronomy（天文学，变y为i）+ -ical（形容词后缀）→天文学的；天\n文数字般的（数量、价格）→天文学的；极其巨大的",
-      "phonetic" : "ˌæstrəˈnɒmɪkl",
+      "phonetic" : "ˌæstɹəˈnɑːmɪkəl",
       "pos" : "adj.",
       "rootHint" : "strophe",
       "word" : "astronomical"
@@ -274,7 +274,7 @@
       ],
       "frequency" : 5736,
       "mnemonic" : "astro-（星）+ -naut（=sailor：水手，海员，nau-=boat：船）→在星星\n（浩瀚宇宙）中航行的人→宇航员；航天员",
-      "phonetic" : "ˈæstrənɔːt",
+      "phonetic" : "ˈæstɹəˌnɒt",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "astronaut"
@@ -319,7 +319,7 @@
 
       ],
       "mnemonic" : "aster-（=star：星星）+ -oid（=form, shape：呈……形状的事物；\n像……的）→呈星星形状的事物；像星星的→小行星（太阳系内类似",
-      "phonetic" : "ˈæstərɒɪd",
+      "phonetic" : "ˈæstəɹoɪd",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "asteroid"
@@ -335,7 +335,7 @@
       ],
       "frequency" : 19333,
       "mnemonic" : "aster-（星星）+ -isk（名词后缀，表示小）→小星星→星号",
-      "phonetic" : "ˈæstərɪsk",
+      "phonetic" : "ˈæstəɹɪsk",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "asterisk"
@@ -351,7 +351,7 @@
       ],
       "frequency" : 8061,
       "mnemonic" : "stell-（=star：星；恒星）+ -ar（形容词后缀，表示与……有关的）→\n与星星有关的；像恒星一样闪耀的→星的，恒星的；杰出的",
-      "phonetic" : "ˈstelə",
+      "phonetic" : "ˈstɛlə",
       "pos" : "adj.",
       "rootHint" : "strophe",
       "word" : "stellar"
@@ -382,7 +382,7 @@
       ],
       "frequency" : 7323,
       "mnemonic" : "con-（=with, together：与……一起；共同）+ -stell-（=star：星星）+\n-ation（名词后缀）→聚集在一起的星星→星座；一系列，一群（相",
-      "phonetic" : "ˌkɒnstəˈleɪʃn",
+      "phonetic" : "ˌkɒn.stəˈleɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "strophe",
       "word" : "constellation"

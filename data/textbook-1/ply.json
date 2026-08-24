@@ -47,7 +47,7 @@
       "examples": [],
       "frequency": 1528,
       "mnemonic": "applic (=apply：应用；申请；敷用；应用程序) +ion (名词性后缀) →",
-      "phonetic": "ˌæplɪˈkeɪʃ(ə)n",
+      "phonetic": "ˌæpləˈkeɪʃən",
       "pos": "n.",
       "rootHint": "pli",
       "word": "application"
@@ -58,7 +58,7 @@
       "examples": [],
       "frequency": 5586,
       "mnemonic": "applic (=apply：申请) +ant (名词后缀：表“人”) → 申请人",
-      "phonetic": "ˈæplɪk(ə)nt",
+      "phonetic": "ˈæp.lə.kɪnt",
       "pos": "n.",
       "rootHint": "pli",
       "word": "applicant"
@@ -112,7 +112,7 @@
       ],
       "frequency": 7731,
       "mnemonic": "applic (=apply：运用) +able→可运用的，可适用的",
-      "phonetic": "əˈplɪkəb(ə)l; ˈæplɪk-",
+      "phonetic": "əˈplɪkəbəl",
       "pos": "adj.",
       "rootHint": "pli",
       "word": "applicable"
@@ -137,7 +137,7 @@
       "examples": [],
       "frequency": 1976,
       "mnemonic": "em (=in：进来) +ploy (使用) →招聘 (即：把人拿进来使用)",
-      "phonetic": "ɪmˈplɒɪ; em-",
+      "phonetic": "ɛmˈplɔɪ",
       "pos": "vt.",
       "rootHint": "ploy",
       "word": "employ"
@@ -167,7 +167,7 @@
       "definition": "失业；失业人数；失业率",
       "examples": [],
       "frequency": 3523,
-      "phonetic": "ʌnɪmˈplɒɪm(ə)nt; -em-",
+      "phonetic": "ʌn.ɪmˈplɔɪ.mənt",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "unemployment"
@@ -177,7 +177,7 @@
       "definition": "雇员；从业员工",
       "examples": [],
       "frequency": 933,
-      "phonetic": "ɪmˈplɔɪi; ˌemplɔɪˈi:",
+      "phonetic": "(ˌ)ɪm-",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "employee"
@@ -187,7 +187,7 @@
       "definition": "雇主，老板",
       "examples": [],
       "frequency": 2317,
-      "phonetic": "ɪmˈplɒɪə; em-",
+      "phonetic": "ɛmplɔɪˈə",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "employer"
@@ -197,7 +197,7 @@
       "definition": "雇用；职业；使用",
       "examples": [],
       "frequency": 2557,
-      "phonetic": "ɪmˈplɒɪm(ə)nt; em-",
+      "phonetic": "ɛmˈplɔɪmənt",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "employment"
@@ -230,7 +230,7 @@
       "examples": [],
       "frequency": 6994,
       "mnemonic": "exploit (剥削；利用；开发，开拓) +ation (名词性后缀) → 剥削；利",
-      "phonetic": "eksplɒɪˈteɪʃ(ə)n",
+      "phonetic": "ˌɛksplɔɪˈteɪʃn̩",
       "pos": "n.",
       "rootHint": "ploit",
       "word": "exploitation"
@@ -263,7 +263,7 @@
       "examples": [],
       "frequency": 3921,
       "mnemonic": "explore (探测；探讨；勘探) +ation (名词性后缀) → 探测；探讨；",
-      "phonetic": "ekspləˈreɪʃ(ə)n",
+      "phonetic": "ˌɛkspləˈɹeɪʃən",
       "pos": "n.",
       "rootHint": "ply",
       "word": "exploration"
@@ -274,7 +274,7 @@
       "examples": [],
       "frequency": 7912,
       "mnemonic": "explore (探测；勘探) +er (表示人或物的名词性后缀) →探测者，探测",
-      "phonetic": "ekˈsplɔːrə(r)",
+      "phonetic": "ɛkˈsplɔːɹə(ɹ)",
       "pos": "n.",
       "rootHint": "ply",
       "word": "explorer"
@@ -318,7 +318,7 @@
       ],
       "frequency": 4544,
       "mnemonic": "de (=dis分开) +ploy (=fold：折叠，重合) →把重合的 (军队) 分散开→",
-      "phonetic": "dɪˈplɒɪ",
+      "phonetic": "dɪˈplɔɪ",
       "pos": "vt.",
       "rootHint": "ploy",
       "word": "deploy"
@@ -329,7 +329,7 @@
       "examples": [],
       "frequency": 6521,
       "mnemonic": "deploy (调度，部署) +ment (名词性后缀) → 调度，部署",
-      "phonetic": "diːˈplɒɪmənt",
+      "phonetic": "dɪˈplɔɪmənt",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "deployment"
@@ -359,7 +359,7 @@
       "examples": [],
       "frequency": 2775,
       "mnemonic": "com (全部) +plic (折叠) +ated (形容词后缀：的) →全部重叠到一起的\n→复杂的",
-      "phonetic": "ˈkɒmplɪkeɪtɪd",
+      "phonetic": "ˈkɑmplɪkeɪtɪd",
       "pos": "adj.",
       "rootHint": "pli",
       "word": "complicated"
@@ -421,7 +421,7 @@
       "examples": [],
       "frequency": 3796,
       "mnemonic": "complex (复杂的) +ity (名词性后缀) → 复杂，复杂性；复杂错综的",
-      "phonetic": "kəmˈpleksətɪ",
+      "phonetic": "kəmˈplɛk.sɪ.ti",
       "pos": "n.",
       "rootHint": "plex",
       "word": "complexity"
@@ -439,7 +439,7 @@
       "examples": [],
       "frequency": 10640,
       "mnemonic": "com (一起) +plex (重合) +ion (名词后缀) →指身体里的体液等合到一",
-      "phonetic": "kəmˈplekʃ(ə)n",
+      "phonetic": "kəmˈplɛkʃən",
       "pos": "n.",
       "rootHint": "plex",
       "word": "complexion"
@@ -450,7 +450,7 @@
       "examples": [],
       "frequency": 15957,
       "mnemonic": "per (彻底，贯穿，完全) +plex (折叠) →全部重叠到一起→使……变复",
-      "phonetic": "pəˈpleks",
+      "phonetic": "pɚˈplɛks",
       "pos": "vt.",
       "rootHint": "plex",
       "word": "perplex"
@@ -461,7 +461,7 @@
       "examples": [],
       "frequency": 19725,
       "mnemonic": "perplex (使困惑，使为难；使复杂化)+ed (形容词性后缀：表示人困惑\n的，不知所措的状态) → 困惑的；不知所措的",
-      "phonetic": "pəˈplekst",
+      "phonetic": "pɚˈplɛkst",
       "pos": "adj.",
       "rootHint": "plex",
       "word": "perplexed"
@@ -472,7 +472,7 @@
       "examples": [],
       "frequency": 17444,
       "mnemonic": "perplex (使困惑，使为难；使复杂化)+ing (形容词性后缀：表示事物\n令人困惑的，费解的) → 令人困惑的；复杂的，令人费解的",
-      "phonetic": "pəˈpleksɪŋ",
+      "phonetic": "pɚˈplɛksɪŋ",
       "pos": "adj.",
       "rootHint": "plex",
       "word": "perplexing"
@@ -483,7 +483,7 @@
       "examples": [],
       "frequency": 19256,
       "mnemonic": "du (=two 两个，双) +plex (折叠；重合；倍) →二倍的，双重的",
-      "phonetic": "ˈdjuːpleks",
+      "phonetic": "ˈduplɛks",
       "pos": "adj.",
       "rootHint": "plex",
       "word": "duplex"
@@ -494,7 +494,7 @@
       "examples": [],
       "frequency": 9442,
       "mnemonic": "du (=two 两个，双) +plic (倍) → 使成两倍 → 复制；使加倍",
-      "phonetic": "ˈdjuːplɪkeɪt",
+      "phonetic": "ˈdjuː.plɪ.kət",
       "pos": "vt.",
       "rootHint": "pli",
       "word": "duplicate"
@@ -505,7 +505,7 @@
       "examples": [],
       "frequency": 17302,
       "mnemonic": "duplicate (复制；使加倍) +ion (名词性后缀) → 复制；副本；成倍",
-      "phonetic": "djuːplɪˈkeɪʃn",
+      "phonetic": "djuː.plɪ.ˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "pli",
       "word": "duplication"
@@ -531,7 +531,7 @@
       "examples": [],
       "frequency": 1962,
       "mnemonic": "multi (多) +ple (倍；重) →多种多样的，多重的",
-      "phonetic": "ˈmʌltɪpl",
+      "phonetic": "ˈmʌltɪpl̩",
       "pos": "adj.",
       "rootHint": "ply",
       "word": "multiple"
@@ -555,7 +555,7 @@
       ],
       "frequency": 8598,
       "mnemonic": "multi (多，大) +tude (名词后缀) →大量，众多",
-      "phonetic": "ˈmʌltɪtjuːd",
+      "phonetic": "ˈməl-",
       "pos": "n.",
       "rootHint": "ply",
       "word": "multitude"
@@ -565,7 +565,7 @@
       "definition": "融合或具有多种文化的；多种文化的",
       "examples": [],
       "frequency": 6903,
-      "phonetic": "mʌltɪˈkʌltʃ(ə)r(ə)l",
+      "phonetic": "ˌmʌltiˈkʌltʃəɹəl",
       "pos": "adj.",
       "rootHint": "ply",
       "word": "multicultural"
@@ -575,7 +575,7 @@
       "definition": "多元文化论",
       "examples": [],
       "frequency": 11351,
-      "phonetic": "ˌmʌltɪˈkʌltʃərəlɪzm",
+      "phonetic": "ˌmʌltɪˈkʌltʃəɹəˌlɪz(ə)m",
       "pos": "n.",
       "rootHint": "ply",
       "word": "multiculturalism"
@@ -605,7 +605,7 @@
       "definition": "多媒体",
       "examples": [],
       "frequency": 7499,
-      "phonetic": "ˈmʌltɪmiːdɪə",
+      "phonetic": "mʌltiˈmiːdi.ə",
       "pos": "n.",
       "rootHint": "ply",
       "word": "multimedia"
@@ -645,7 +645,7 @@
       "definition": "乘法；增加",
       "examples": [],
       "frequency": 17173,
-      "phonetic": "ˌmʌltɪplɪˈkeɪʃ(ə)n",
+      "phonetic": "ˌmʌltɪplɪˈkeɪʃən",
       "pos": "n.",
       "rootHint": "pli",
       "word": "multiplication"
@@ -675,7 +675,7 @@
       "definition": "多民族的",
       "examples": [],
       "frequency": 16776,
-      "phonetic": "ˈmʌltɪˈreʃəl",
+      "phonetic": "ˌmʌltiˈɹeɪʃəl",
       "pos": "adj.",
       "rootHint": "ply",
       "word": "multiracial"
@@ -703,7 +703,7 @@
       "examples": [],
       "frequency": 4267,
       "mnemonic": "flex (=bend：弯曲) +ible (容易) →容易弯曲的→灵活的，易弯曲的",
-      "phonetic": "ˈfleksɪb(ə)l",
+      "phonetic": "ˈflɛk.sə.bəl",
       "pos": "adj.",
       "rootHint": "flex",
       "word": "flexible"
@@ -724,7 +724,7 @@
       "definition": "顽固的；不可弯曲的；不屈挠的；不能转变的",
       "examples": [],
       "frequency": 17838,
-      "phonetic": "ɪnˈfleksɪb(ə)l",
+      "phonetic": "ɪnˈflɛksəbl̩",
       "pos": "adj.",
       "rootHint": "flex",
       "word": "inflexible"
@@ -741,7 +741,7 @@
       ],
       "frequency": 1007,
       "mnemonic": "re (返回，反) +flect (=bend：弯曲；弯折) → (光等) 弯曲回去→反",
-      "phonetic": "rɪˈflekt",
+      "phonetic": "ɹɪˈflɛkt",
       "pos": "vt.",
       "rootHint": "ply",
       "word": "reflect"
@@ -751,7 +751,7 @@
       "definition": "反射的；得自他人的",
       "examples": [],
       "frequency": 15526,
-      "phonetic": "rɪˈflektɪd",
+      "phonetic": "ɹɪˈflɛktɪd",
       "pos": "adj.",
       "rootHint": "ply",
       "word": "reflected"
@@ -767,7 +767,7 @@
         "Most education system neglect exploration, understanding and reflection.\n大多数的教育体制忽视了探究，理解和反思。"
       ],
       "frequency": 2780,
-      "phonetic": "rɪˈflekʃ(ə)n",
+      "phonetic": "ɹɪˈflɛkʃən",
       "pos": "n.",
       "rootHint": "ply",
       "word": "reflection"
@@ -791,7 +791,7 @@
       "definition": "反射物，反射镜",
       "examples": [],
       "frequency": 13242,
-      "phonetic": "rɪˈflektə",
+      "phonetic": "ɹɪˈflɛktə(ɹ)",
       "pos": "n.",
       "rootHint": "ply",
       "word": "reflector"
@@ -801,7 +801,7 @@
       "definition": "三倍的 v.（使）成三倍",
       "examples": [],
       "mnemonic": "tri (=three：读音相似，e→i是最合理的变化) +ple (倍，折) →三倍",
-      "phonetic": "ˈtripl",
+      "phonetic": "ˈtɹɪpl",
       "pos": "adj.",
       "rootHint": "ply",
       "word": "triple"
@@ -828,7 +828,7 @@
       ],
       "frequency": 2207,
       "mnemonic": "dis (=apart：分开) +play (=ply：折叠) → 把重叠的东西分开 (给人看)\n→展示，显示",
-      "phonetic": "dɪˈspleɪ",
+      "phonetic": "dɪsˈpleɪ",
       "pos": "vt.",
       "rootHint": "play",
       "word": "display"
@@ -867,7 +867,7 @@
       "examples": [],
       "frequency": 15653,
       "mnemonic": "compli (顺从) +ant (形容词后缀) →顺从的；服从的",
-      "phonetic": "kəmˈplaɪənt",
+      "phonetic": "kəmˈplʌɪənt",
       "pos": "adj.",
       "rootHint": "pli",
       "word": "compliant"
@@ -901,7 +901,7 @@
       "definition": "暗示；含义；可能引发的后果",
       "examples": [],
       "frequency": 2456,
-      "phonetic": "ɪmplɪˈkeɪʃ(ə)n",
+      "phonetic": "ˌɪmpləˈkeɪʃən",
       "pos": "n.",
       "rootHint": "pli",
       "word": "implication"
@@ -917,7 +917,7 @@
       "examples": [],
       "frequency": 7846,
       "mnemonic": "im (=in：里面) +plic (折叠) +ate (动词后缀) →使 (某人) 折到里面去了\n→使涉及到；使牵连其中",
-      "phonetic": "ˈɪmplɪkeɪt",
+      "phonetic": "ˈɪmplɪkət",
       "pos": "vt.",
       "rootHint": "pli",
       "word": "implicate"
@@ -960,7 +960,7 @@
       ],
       "frequency": 4878,
       "mnemonic": "explicit为implicit的反义词，故翻译为“清楚的；明确的；直率的”",
-      "phonetic": "ɪkˈsplɪsɪt; ek-",
+      "phonetic": "ɪkˈsplɪsɪt",
       "pos": "adj.",
       "rootHint": "pli",
       "word": "explicit"
@@ -981,7 +981,7 @@
       "examples": [],
       "frequency": 13405,
       "mnemonic": "in (相反) +explic (清楚的，明确的) +able (可以) →不可以清楚明确说\n出来的→无法说明的，不能解释的，费解的",
-      "phonetic": "ˌɪnɪkˈsplɪkəb(ə)l; ˌɪnek-; ɪnˈeksplɪ-",
+      "phonetic": "ɪnˈɛk.splɪ.kə.bəl",
       "pos": "adj.",
       "rootHint": "pli",
       "word": "inexplicable"
@@ -1006,7 +1006,7 @@
       "examples": [],
       "frequency": 2239,
       "mnemonic": "re (回来) +ply (折) →折回来的东西→回应；回复；回信",
-      "phonetic": "rɪˈplaɪ",
+      "phonetic": "ɹɪˈplaɪ",
       "pos": "vi.",
       "rootHint": "ply",
       "word": "reply"
@@ -1016,7 +1016,7 @@
       "definition": "复制品，复制物",
       "examples": [],
       "frequency": 9477,
-      "phonetic": "ˈreplɪkə",
+      "phonetic": "ˈɹɛplɪkə",
       "pos": "n.",
       "rootHint": "pli",
       "word": "replica"
@@ -1027,7 +1027,7 @@
       "examples": [],
       "frequency": 6727,
       "mnemonic": "re (又，再) +plic (=fold：重合) +ate (东西后缀) →重复 (别人的) 再做\n一次→复制；复现；重做",
-      "phonetic": "ˈreplɪkeɪt",
+      "phonetic": "ˈɹɛpləˌkeɪt",
       "pos": "vt.",
       "rootHint": "pli",
       "word": "replicate"
@@ -1038,7 +1038,7 @@
       "examples": [],
       "frequency": 13330,
       "mnemonic": "replicat (复制；复现) +ion (名词后缀) →复制；复现；重做",
-      "phonetic": "replɪˈkeɪʃ(ə)n",
+      "phonetic": "ɹɛplɪˈkeɪʃən",
       "pos": "n.",
       "rootHint": "pli",
       "word": "replication"
@@ -1073,7 +1073,7 @@
       "etymology": "1722, “anything with which one amuses oneself,” Scottish and northern",
       "examples": [],
       "frequency": 11775,
-      "phonetic": "plɒɪ",
+      "phonetic": "plɔɪ",
       "pos": "n.",
       "rootHint": "ploy",
       "word": "ploy"
@@ -1100,7 +1100,7 @@
         "He slowly flexed his muscles and tried to stand.\n他缓慢地活动了一下肌肉，想尽量站起来。"
       ],
       "frequency": 9035,
-      "phonetic": "fleks",
+      "phonetic": "flɛks",
       "pos": "vt.",
       "rootHint": "flex",
       "word": "flex"
@@ -1110,7 +1110,7 @@
       "definition": "弯曲",
       "examples": [],
       "frequency": 19916,
-      "phonetic": "ˈflekʃ(ə)n",
+      "phonetic": "ˈflɛk.ʃən",
       "pos": "n.",
       "rootHint": "flex",
       "word": "flexion"
@@ -1125,7 +1125,7 @@
       "examples": [],
       "frequency": 17004,
       "mnemonic": "in (向内) +flect (=bend：弯) +ion (名词后缀) →向内弯→弯曲；变形；",
-      "phonetic": "ɪnˈflekʃ(ə)n",
+      "phonetic": "ɪnˈflɛkʃən",
       "pos": "n.",
       "rootHint": "ply",
       "word": "inflection"
@@ -1193,7 +1193,7 @@
       "examples": [],
       "frequency": 9812,
       "mnemonic": "de (=away：远离) +flect (=bend：弯) →弯了偏离 (正轨) →使偏斜；使",
-      "phonetic": "dɪˈflekt",
+      "phonetic": "dɪˈflɛkt",
       "pos": "vt.",
       "rootHint": "ply",
       "word": "deflect"

@@ -64,7 +64,7 @@
       ],
       "frequency" : 14683,
       "mnemonic" : "weight（重量）+ -ed（形容词后缀）→将重量侧向一边的→侧重于；",
-      "phonetic" : "ˈweɪtɪd",
+      "phonetic" : "ˈweɪt.ɪd",
       "pos" : "adj.",
       "rootHint" : "pend",
       "word" : "weighted"
@@ -95,7 +95,7 @@
       ],
       "frequency" : 14375,
       "mnemonic" : "weight（重量）+ -y（形容词后缀）→重的；严重的，重要的",
-      "phonetic" : "ˈweɪtɪ",
+      "phonetic" : "ˈweɪti",
       "pos" : "adj.",
       "rootHint" : "pend",
       "word" : "weighty"
@@ -114,7 +114,7 @@
       ],
       "frequency" : 6066,
       "mnemonic" : "pond-（=weigh：权衡；斟酌）+ -er（动词后缀）→仔细考虑；衡",
-      "phonetic" : "ˈpɒndə",
+      "phonetic" : "ˈpɑn.dɚ",
       "pos" : "vt.",
       "rootHint" : "pond",
       "word" : "ponder"
@@ -167,7 +167,7 @@
       ],
       "frequency" : 16369,
       "mnemonic" : "pre-（=before：在先) + ponder（=to weigh：称重）+ -ance（名词后\n缀）→to weigh more than, outweigh：比……重；在数量上超过→（数",
-      "phonetic" : "prɪˈpɒndərəns",
+      "phonetic" : "pɹɪˈpɒnd(ə)ɹəns",
       "pos" : "n.",
       "rootHint" : "pond",
       "word" : "preponderance"
@@ -199,7 +199,7 @@
         "She’s been deliberately ignoring him all day.\n她故意整天都不理他。"
       ],
       "frequency" : 4645,
-      "phonetic" : "dɪˈlɪbərətli",
+      "phonetic" : "dəˈlɪb(ə)ɹətli",
       "pos" : "adv.",
       "rootHint" : "pend",
       "word" : "deliberately"
@@ -216,7 +216,7 @@
       ],
       "frequency" : 8115,
       "mnemonic" : "deliberate（仔细考虑；慢慢的，从容谨慎的）+ -ion（名词后缀）→",
-      "phonetic" : "dɪˌlɪbəˈreɪʃn",
+      "phonetic" : "dɪˌlɪbəˈɹeɪʃən",
       "pos" : "n.",
       "rootHint" : "pend",
       "word" : "deliberation"

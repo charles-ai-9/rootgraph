@@ -26,7 +26,7 @@
       ],
       "frequency" : 560,
       "mnemonic" : "dat-（=to give：给予）+ -a（复数后缀）→给予、提供、展示的东西\n→数据；资料",
-      "phonetic" : "ˈdeɪtə",
+      "phonetic" : "ˈdætə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "data"
@@ -74,7 +74,7 @@
       ],
       "frequency" : 6923,
       "mnemonic" : "date（约会）+ -ing（动名词 \/ 形容词后缀）→约会；介绍婚姻的（婚",
-      "phonetic" : "ˈdeɪtɪŋ",
+      "phonetic" : "ˈdeɪt.ɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "dating"
@@ -90,7 +90,7 @@
       ],
       "frequency" : 10469,
       "mnemonic" : "out-（超过）+ date（日期）→超过一定日期的→过时的；陈旧的",
-      "phonetic" : "ˌaʊtˈdeɪtɪd",
+      "phonetic" : "aʊtˈdeɪtɪd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "outdated"
@@ -153,7 +153,7 @@
       ],
       "frequency" : 4295,
       "mnemonic" : "e-（=out：向外）+ -dit（=to give：给予）→给出去→编辑，校对；",
-      "phonetic" : "ˈedɪt",
+      "phonetic" : "ˈɛdɪt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "edit"
@@ -169,7 +169,7 @@
       ],
       "frequency" : 9529,
       "mnemonic" : "edit（编辑；校订；剪辑）+ -ing（动名词后缀）→编辑；校订；（电",
-      "phonetic" : "ˈedɪtɪŋ",
+      "phonetic" : "ˈɛdɪtɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "editing"
@@ -184,7 +184,7 @@
       ],
       "frequency" : 1392,
       "mnemonic" : "edit（编辑；校订）+ -or（名词后缀）→编辑；校订者",
-      "phonetic" : "ˈedɪtə",
+      "phonetic" : "ˈɛdɪtəɹ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "editor"
@@ -199,7 +199,7 @@
       ],
       "frequency" : 5068,
       "mnemonic" : "editor（编辑）+ -ial（形容词后缀）→编辑的；社论的（文章）→社",
-      "phonetic" : "ˌedɪˈtɔːriəl",
+      "phonetic" : "ˌɛdɪˈtɔɹiəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "editorial"
@@ -229,7 +229,7 @@
       ],
       "frequency" : 3181,
       "mnemonic" : "e-（=out）+ -dit（=to give：给予）+ -ion（名词后缀）→给予、生产\n出来的东西→版本；班次；一份，一期",
-      "phonetic" : "ɪˈdɪʃn",
+      "phonetic" : "əˈdɪʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "edition"
@@ -247,7 +247,7 @@
       ],
       "frequency" : 1249,
       "mnemonic" : "tra-（=trans-=over：转移）+ -dit（=to give：给予）+ -ion（名词后\n缀）→hand over：将传统转移，移交给下一代→传统；传统的信仰",
-      "phonetic" : "trəˈdɪʃn",
+      "phonetic" : "tɹəˈdɪʃn̩",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "tradition"
@@ -263,7 +263,7 @@
       ],
       "frequency" : 928,
       "mnemonic" : "tradition（传统）+ -al（形容词后缀）→传统的；守旧的",
-      "phonetic" : "trəˈdɪʃənl",
+      "phonetic" : "tɹəˈdɪʃnəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "traditional"
@@ -292,7 +292,7 @@
         "The festival is traditionally held in May.\n这个节日按照传统是在五月份过的。"
       ],
       "frequency" : 3741,
-      "phonetic" : "trəˈdɪʃənəli",
+      "phonetic" : "tɹəˈdɪʃənli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "traditionally"
@@ -323,7 +323,7 @@
       ],
       "frequency" : 10194,
       "mnemonic" : "tra-（=trans-：穿过，由此及彼）+ -it-（=dit-：给予）+ -or（人）→\n由内向外、由此及彼给出信息的人→背叛者；叛徒，卖国贼",
-      "phonetic" : "ˈtreɪtə(r)",
+      "phonetic" : "ˈtɹeɪtɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "traitor"
@@ -342,7 +342,7 @@
       ],
       "frequency" : 5029,
       "mnemonic" : "give：交出；移交）→tray\n卖、背叛→出卖；辜负；背叛；流露",
-      "phonetic" : "bɪˈtreɪ",
+      "phonetic" : "bəˈtɹeɪ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "betray"
@@ -357,7 +357,7 @@
       ],
       "frequency" : 7416,
       "mnemonic" : "betray（背叛；出卖；辜负）+ -al（名词后缀）→背叛；出卖；辜负",
-      "phonetic" : "bɪˈtreɪəl",
+      "phonetic" : "bɪˈtɹeɪəl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "betrayal"
@@ -371,7 +371,7 @@
         "Employees felt betrayed.\n雇员感觉被出卖了。"
       ],
       "frequency" : 17026,
-      "phonetic" : "bɪˈtreɪd",
+      "phonetic" : "bɪˈtɹeɪd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "betrayed"
@@ -387,7 +387,7 @@
       ],
       "frequency" : 13325,
       "mnemonic" : "treas-（=trad-=trans-+do(=to give：给予)：移交机密等）+ -on（名词\n后缀）→叛国罪",
-      "phonetic" : "ˈtriːzn",
+      "phonetic" : "ˈtɹiː.zən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "treason"
@@ -402,7 +402,7 @@
       ],
       "frequency" : 18068,
       "mnemonic" : "treach（=to cheat, deceive：欺骗）+ -ery（表行为）→欺骗的行为→",
-      "phonetic" : "ˈtretʃərɪ",
+      "phonetic" : "ˈtɹɛtʃəɹi",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "treachery"
@@ -417,7 +417,7 @@
       ],
       "frequency" : 11237,
       "mnemonic" : "treachery（背叛；欺骗）+ -ous（形容词后缀）→背叛的，奸诈的；",
-      "phonetic" : "ˈtretʃərəs",
+      "phonetic" : "ˈtɹɛtʃəɹəs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "treacherous"
@@ -436,7 +436,7 @@
 
       ],
       "frequency" : 3093,
-      "phonetic" : "trɪk",
+      "phonetic" : "tɹɪk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "trick"
@@ -451,7 +451,7 @@
       ],
       "frequency" : 6485,
       "mnemonic" : "trick（花招；把戏）+ -y（形容词后缀）→难对付的；狡猾的，诡计",
-      "phonetic" : "ˈtrɪkɪ",
+      "phonetic" : "tɹɪki",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "tricky"
@@ -466,7 +466,7 @@
       ],
       "frequency" : 18914,
       "mnemonic" : "wil-（=wile=trick：诡计；花招）+ -y（形容词后缀）→狡猾的；诡计",
-      "phonetic" : "ˈwaɪlɪ",
+      "phonetic" : "waɪ.li",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "wily"
@@ -481,7 +481,7 @@
       ],
       "frequency" : 18527,
       "mnemonic" : "trick（把戏，戏法）+ -et（表示小）→引申词义小装饰物，小物品等",
-      "phonetic" : "ˈtrɪŋkɪt",
+      "phonetic" : "ˈtɹɪŋkɪt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "trinket"
@@ -497,7 +497,7 @@
       ],
       "frequency" : 7380,
       "mnemonic" : "in-（里面；内部）+ tric（=trick：诡计；花招）+ -ate（形容词后缀，\n的）→里面充满很多诡计的→错综复杂的",
-      "phonetic" : "ˈɪntrɪkət",
+      "phonetic" : "ˈɪn.tɹɪ.kət",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "intricate"
@@ -576,7 +576,7 @@
       ],
       "frequency" : 5977,
       "mnemonic" : "intrigue（阴谋诡计；激起……兴趣）+ -ing（形容词后缀）→非常有\nintrigue（复杂情节）+ -ing（形容词后缀）→复杂的；不能解开的",
-      "phonetic" : "ɪnˈtriːɡɪŋ",
+      "phonetic" : "ɪnˈtɹiːɡɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "intriguing"
@@ -592,7 +592,7 @@
       ],
       "frequency" : 3884,
       "mnemonic" : "don-（给予）+ -or（名词后缀，表人）→给予（器官、血液、金钱）\n的（人）→捐献者；捐赠者；捐献",
-      "phonetic" : "ˈdəʊnə(r)",
+      "phonetic" : "ˈdoʊnɚ",
       "pos" : "n.",
       "rootHint" : "don",
       "word" : "donor"
@@ -608,7 +608,7 @@
       ],
       "frequency" : 4134,
       "mnemonic" : "don-（=dot-=give：给，捐赠）+ -ate（动词后缀）→捐赠；捐款；",
-      "phonetic" : "dəʊˈneɪt",
+      "phonetic" : "doʊˈneɪt",
       "pos" : "vt.",
       "rootHint" : "don",
       "word" : "donate"
@@ -624,7 +624,7 @@
       ],
       "frequency" : 4380,
       "mnemonic" : "donate（捐赠；捐献）+ -ion（名词后缀）→捐赠；捐献",
-      "phonetic" : "dəʊˈneɪʃn",
+      "phonetic" : "doʊˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "don",
       "word" : "donation"
@@ -675,7 +675,7 @@
       ],
       "frequency" : 10148,
       "mnemonic" : "en-（进入；使）+ -dow（=to give：给予）→给予（特质或品质），\n使之具有→天生赋有；赋予；资助",
-      "phonetic" : "ɪnˈdaʊ",
+      "phonetic" : "ɛn-",
       "pos" : "vt.",
       "rootHint" : "dow",
       "word" : "endow"
@@ -690,7 +690,7 @@
       ],
       "frequency" : 10688,
       "mnemonic" : "endow（捐赠；天赋）+ -ment（名词后缀）→捐赠，资助；天赋，",
-      "phonetic" : "ɪnˈdaʊmənt",
+      "phonetic" : "ɛnˈdaʊmənt",
       "pos" : "n.",
       "rootHint" : "dow",
       "word" : "endowment"
@@ -706,7 +706,7 @@
       ],
       "frequency" : 18478,
       "mnemonic" : "dow-（=to give：给予）+ -ry（名词后缀）→娘家送给男方或新婚夫\n妇的陪嫁礼物→（新娘的）嫁妆",
-      "phonetic" : "ˈdaʊri",
+      "phonetic" : "ˈdaʊəɹi",
       "pos" : "n.",
       "rootHint" : "dow",
       "word" : "dowry"
@@ -721,7 +721,7 @@
       ],
       "frequency" : 3858,
       "mnemonic" : "doll（=gift：玩具；礼物）→玩具；玩偶",
-      "phonetic" : "dɒl",
+      "phonetic" : "dɑl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "doll"
@@ -737,7 +737,7 @@
       ],
       "frequency" : 9116,
       "mnemonic" : "an-（=in-：没有）+ ec-（=ex：出来）+ dot-（=give：给出）+ -e→未\n向外给出、公布的事情；未经发表的，还是小道消息→趣闻；轶事",
-      "phonetic" : "ˈænɪkdəʊt",
+      "phonetic" : "ˈæ.nɪk.doʊt",
       "pos" : "n.",
       "rootHint" : "dot",
       "word" : "anecdote"
@@ -752,7 +752,7 @@
       ],
       "frequency" : 10575,
       "mnemonic" : "anecdote（轶闻趣事）+-al（形容词后缀）→轶闻趣事的；传闻的",
-      "phonetic" : "ˌænɪkˈdəʊtl",
+      "phonetic" : "ˌænɪkˈdoʊtl̩",
       "pos" : "adj.",
       "rootHint" : "dot",
       "word" : "anecdotal"
@@ -768,7 +768,7 @@
       ],
       "frequency" : 11817,
       "mnemonic" : "anti-（相反）+ dote（药剂）→作用相反的药剂→解毒药→引申义为",
-      "phonetic" : "ˈæntɪdəʊt",
+      "phonetic" : "ˈæn.tə.dot",
       "pos" : "n.",
       "rootHint" : "dot",
       "word" : "antidote"
@@ -808,7 +808,7 @@
       ],
       "frequency" : 3571,
       "mnemonic" : "rend-（=re-=back：向后）+ -der（=to give：给予）→给予；回报；提\n供→引申义为使处于某种状态；表演，表现（给予观众表演）",
-      "phonetic" : "ˈrendə(r)",
+      "phonetic" : "ˈɹɛn.dɚ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "render"
@@ -858,7 +858,7 @@
       ],
       "frequency" : 11083,
       "mnemonic" : "render（表演；使变为另外一种语言）+ -ing（动名词后缀）→表演；",
-      "phonetic" : "ˈrendərɪŋ",
+      "phonetic" : "ˈɹɛndəɹɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rendering"
@@ -878,7 +878,7 @@
       ],
       "frequency" : 5085,
       "mnemonic" : "sur-（=over：向上）+ render（=to give：给予；给回）→to give up,",
-      "phonetic" : "səˈrendə(r)",
+      "phonetic" : "səˈɹɛndəɹ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "surrender"
@@ -894,7 +894,7 @@
       ],
       "frequency" : 10720,
       "mnemonic" : "rend-（=render：表达；表演）+ -ition（名词后缀，-ite + -ion）→表",
-      "phonetic" : "renˈdɪʃn",
+      "phonetic" : "ɹɛnˈdɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rendition"
@@ -911,7 +911,7 @@
       ],
       "frequency" : 13379,
       "mnemonic" : "rendez（=present：呈现）+ vous（你）→呈现你自己→约会；约会地",
-      "phonetic" : "ˈrɒndeɪvuː",
+      "phonetic" : "ˈɹɑndeɪ̯ˌvu",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rendezvous"
@@ -928,7 +928,7 @@
 
       ],
       "frequency" : 3464,
-      "phonetic" : "rent",
+      "phonetic" : "ɹɛnt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rent"
@@ -945,7 +945,7 @@
       ],
       "frequency" : 4798,
       "mnemonic" : "rent（出租）+ -al（名词后缀）→出租得到的金钱；出租的行为；出\n租的东西→租金；出租，租赁；租用的房屋等",
-      "phonetic" : "ˈrentl",
+      "phonetic" : "ˈɹɛntəl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rental"
@@ -1001,7 +1001,7 @@
       ],
       "frequency" : 396,
       "mnemonic" : "ap-（=ad-=to）+ pear（=par-：出现）→显得；出现；起源（开始出",
-      "phonetic" : "əˈpɪə(r)",
+      "phonetic" : "əˈpiɹ",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "appear"
@@ -1017,7 +1017,7 @@
       ],
       "frequency" : 1695,
       "mnemonic" : "appear（出现）+ -ance（名词后缀）→外貌（出现的面容）；出现，",
-      "phonetic" : "əˈpɪərəns",
+      "phonetic" : "əˈpɪɹəns",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "appearance"
@@ -1047,7 +1047,7 @@
       ],
       "frequency" : 1587,
       "mnemonic" : "dis-（表相反）+ appear（出现）→出现的反面→消失；不复存在",
-      "phonetic" : "ˌdɪsəˈpɪə(r)",
+      "phonetic" : "dɪsəˈpɪɹ",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "disappear"
@@ -1064,7 +1064,7 @@
       ],
       "frequency" : 6634,
       "mnemonic" : "dis-（表相反）+ appearance（出现）→出现的反面→失踪；丢失；不",
-      "phonetic" : "ˌdɪsəˈpɪərəns",
+      "phonetic" : "dɪsəˈpɪəɹəns",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "disappearance"
@@ -1105,7 +1105,7 @@
       ],
       "frequency" : 2526,
       "mnemonic" : "appar（=appear：出现）+ -ent（形容词后缀：的）→单词整体还在模\n仿appearance：外表，表面（二者极度相似）→出现在表面上的，显\n现在外表上的→明显的",
-      "phonetic" : "əˈpærənt",
+      "phonetic" : "əˈpæ.ɹənt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "apparent"
@@ -1120,7 +1120,7 @@
       ],
       "frequency" : 1414,
       "mnemonic" : "apparent（显然的；貌似的）+ -ly（副词后缀）→显然；貌似",
-      "phonetic" : "əˈpærəntlɪ",
+      "phonetic" : "əˈpæɹ.ɨnt.li",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "apparently"
@@ -1136,7 +1136,7 @@
       ],
       "frequency" : 13115,
       "mnemonic" : "ap-（加强意义）+ -par-（出现）+ -ition（名词后缀）→鬼魂显现→幽灵",
-      "phonetic" : "ˌæpəˈrɪʃn",
+      "phonetic" : "ˌæp.əɹˈɪʃn̩",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "apparition"
@@ -1151,7 +1151,7 @@
       ],
       "frequency" : 13080,
       "mnemonic" : "epi-（=to）+ phan-（=appear：出现）+ -y（名词后缀）→神的出现→",
-      "phonetic" : "ɪˈpɪfəni",
+      "phonetic" : "ɛˈpɪf.ə.ni",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "epiphany"
@@ -1168,7 +1168,7 @@
       ],
       "frequency" : 5969,
       "mnemonic" : "trans-（穿过；横过）+ -par-（出现）+ -ent（形容词后缀）→穿\n过……出现的→显然的，透明的，引申义为易识破的",
-      "phonetic" : "trænsˈpærənt",
+      "phonetic" : "tɹæn(t)sˈpæɹənt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "transparent"
@@ -1184,7 +1184,7 @@
       ],
       "frequency" : 8710,
       "mnemonic" : "transparent（透明的）+-cy（名词后缀）→透明度；幻灯片；显而",
-      "phonetic" : "trænsˈpærənsi",
+      "phonetic" : "tɹænsˈpæɹənsi",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "transparency"
@@ -1200,7 +1200,7 @@
       ],
       "frequency" : 2446,
       "mnemonic" : "单词appear（出现）的简略版本，“出现”就是能被“看”到→\npeer：费力地看；盯着\n看拉丁语par：对等，等同→引申词义同辈；同龄人；同等地位的人",
-      "phonetic" : "pɪə",
+      "phonetic" : "piɹ",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "peer"
@@ -1216,7 +1216,7 @@
       ],
       "frequency" : 2488,
       "mnemonic" : "pheno（=appear：出现）+ men-（冒；突出来）+ -on（名词后缀）→",
-      "phonetic" : "fəˈnɒmɪnən",
+      "phonetic" : "fɪˈnɒmənɒn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "phenomenon"
@@ -1245,7 +1245,7 @@
 
       ],
       "mnemonic" : "phenomenon的复数",
-      "phonetic" : "fəˈnɒmɪnə",
+      "phonetic" : "fɪˈnɑmənə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "phenomena"
@@ -1278,7 +1278,7 @@
       ],
       "frequency" : 2367,
       "mnemonic" : "em-（=en-：使动词前缀）+ pha-（=phen-：出现，突出）+ -sis（名词\n后缀）→使突出强调的部分→重点；强调；重音",
-      "phonetic" : "ˈemfəsɪs",
+      "phonetic" : "ˈɛmfəsɪs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "emphasis"
@@ -1293,7 +1293,7 @@
       ],
       "frequency" : 2003,
       "mnemonic" : "emphas（= emphasis：重点；强调；突出）+ -ize（使动词后缀）→使\n重点突出→强调；重视；使突出，使明显",
-      "phonetic" : "ˈemfəsaɪz",
+      "phonetic" : "ˈɛm.fə.saɪz",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "emphasize"
@@ -1308,7 +1308,7 @@
       ],
       "frequency" : 14586,
       "mnemonic" : "empha-（=emphasis：强调；（重点）突出）+ -tic（形容词后缀）→",
-      "phonetic" : "ɪmˈfætɪk",
+      "phonetic" : "əmˈfætək",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "emphatic"
@@ -1341,7 +1341,7 @@
       ],
       "frequency" : 2989,
       "mnemonic" : "fan-（=phen：出现）+ t（无意义）+ -asy（名词后缀）→凭空出现的\n东西→想象；幻想",
-      "phonetic" : "ˈfæntəsɪ",
+      "phonetic" : "ˈfæntəsi",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fantasy"
@@ -1358,7 +1358,7 @@
       ],
       "frequency" : 5181,
       "mnemonic" : "fan-（出现）+ -cy（名词后缀）→凭空出现的东西→想象的事物；想",
-      "phonetic" : "ˈfænsɪ",
+      "phonetic" : "ˈfæn.si",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fancy"
@@ -1373,7 +1373,7 @@
       ],
       "frequency" : 14019,
       "mnemonic" : "fanci（=fancy：想象）+-ful（形容词后缀）→想象的；异想天开的",
-      "phonetic" : "ˈfænsɪfl",
+      "phonetic" : "ˈfænsɪfəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fanciful"
@@ -1405,7 +1405,7 @@
       ],
       "frequency" : 12184,
       "mnemonic" : "fantasy（幻想；想象）+ -ize（使动词后缀）→幻想；想象",
-      "phonetic" : "ˈfæntəsaɪz",
+      "phonetic" : "ˈfæntəˌsaɪz",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "fantasize"
@@ -1421,7 +1421,7 @@
       ],
       "frequency" : 6673,
       "mnemonic" : "容词后缀）→随时间自己出现的→自己发生的→自发的，自然的",
-      "phonetic" : "spɒnˈteɪnɪəs",
+      "phonetic" : "spɑnˈteɪ.ni.əs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "spontaneous"
@@ -1435,7 +1435,7 @@
         "Many people spontaneously stood up and cheered.\n许多人自发地站起来欢呼。"
       ],
       "frequency" : 11397,
-      "phonetic" : "spɒnˈteɪnɪəsli",
+      "phonetic" : "spɒnˈteɪ.ni.əs.li",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "spontaneously"
@@ -1455,7 +1455,7 @@
       ],
       "frequency" : 15219,
       "mnemonic" : "spontane（=spontaneous：自然的；自发的）+ -ity（名词后缀）→自",
-      "phonetic" : "ˌspɒntəˈneɪəti",
+      "phonetic" : "ˈspɒn.tə.neɪ.ə.ti",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "spontaneity"
@@ -1472,7 +1472,7 @@
       ],
       "frequency" : 698,
       "mnemonic" : "col-（=to cover：覆盖）+ -or（名词后缀）→覆盖在上的颜色→颜",
-      "phonetic" : "ˈkʌlə(r)",
+      "phonetic" : "ˈkʌl.ɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "color"
@@ -1503,7 +1503,7 @@
       ],
       "frequency" : 4509,
       "mnemonic" : "color（颜色）+ -ful（形容词后缀，表示充满……的）→颜色鲜艳",
-      "phonetic" : "ˈkʌləfl",
+      "phonetic" : "ˈkʌləfəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "colorful"
@@ -1566,7 +1566,7 @@
       ],
       "frequency" : 898,
       "mnemonic" : "cell（=cel-：隐藏）→即隐藏的小室，细胞因其小室状结构而得名。",
-      "phonetic" : "sel",
+      "phonetic" : "sɛl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "cell"
@@ -1597,7 +1597,7 @@
       ],
       "frequency" : 7808,
       "mnemonic" : "cell（小房间；储藏室）+ -ar（名词后缀）→地窖；地下室；酒窖",
-      "phonetic" : "ˈselə(r)",
+      "phonetic" : "ˈsɛlə(ɹ)",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "cellar"
@@ -1612,7 +1612,7 @@
       ],
       "frequency" : 10731,
       "mnemonic" : "cell phone=cellular phone",
-      "phonetic" : "ˈselˌfəʊn",
+      "phonetic" : "ˈsɛlfəʊn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "cellphone"
@@ -1643,7 +1643,7 @@
       ],
       "frequency" : 4347,
       "mnemonic" : "helm（=to save：保护）+ -et（名词后缀）→起保护作用的防护物→",
-      "phonetic" : "ˈhelmɪt",
+      "phonetic" : "ˈhɛlmət",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "helmet"
@@ -1662,7 +1662,7 @@
       ],
       "frequency" : 9241,
       "mnemonic" : "hamper（=helmet：头盔；引申为“限制，束缚”，即：“束缚”住\n头的东西）→限制；束缚；妨碍",
-      "phonetic" : "ˈhæmpə(r)",
+      "phonetic" : "ˈhæmpɚ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "hamper"
@@ -1679,7 +1679,7 @@
 
       ],
       "frequency" : 1854,
-      "phonetic" : "hɔːl",
+      "phonetic" : "hɔl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hall"
@@ -1714,7 +1714,7 @@
       ],
       "frequency" : 7548,
       "mnemonic" : "hol-（=hole：洞）+ low→空洞的；空心的；凹陷处；使凹陷→引申",
-      "phonetic" : "ˈhɒləʊ",
+      "phonetic" : "hɑlɚ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hollow"
@@ -1760,7 +1760,7 @@
       ],
       "frequency" : 19067,
       "mnemonic" : "hell（地狱）+ -ish（形容词后缀，像……一样的）→像地狱一样的→",
-      "phonetic" : "ˈhelɪʃ",
+      "phonetic" : "ˈhɛlɪʃ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hellish"
@@ -1790,7 +1790,7 @@
       ],
       "frequency" : 19851,
       "mnemonic" : "oc-（=ob-=over：在上）+ cult（=cul-：隐藏；覆盖）→在上面有覆盖\n的，真相仍有所隐藏的→神秘的",
-      "phonetic" : "ˈɒkʌlt; əˈkʌlt",
+      "phonetic" : "əˈkʌlt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "occult"
@@ -1874,7 +1874,7 @@
       ],
       "frequency" : 13271,
       "mnemonic" : "apocalyp（= apocalypse：世界末世；大动乱，大灾变）+ -tic（形容词\n后缀，与……相关的）→预示（未来）大灾变的；像世界末世的；末",
-      "phonetic" : "əˌpɒkəˈlɪptɪk",
+      "phonetic" : "əˈpɒ.kə.lɪp.tɪk",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "apocalyptic"
@@ -1894,7 +1894,7 @@
 
       ],
       "frequency" : 258,
-      "phonetic" : "haʊs",
+      "phonetic" : "hʌʊs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "house"
@@ -1910,7 +1910,7 @@
       ],
       "frequency" : 2166,
       "mnemonic" : "house（房屋；住宅）+ -ing（集合名词后缀）→住房，住宅；住房",
-      "phonetic" : "haʊzɪŋ",
+      "phonetic" : "ˈhaʊzɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "housing"
@@ -1941,7 +1941,7 @@
       ],
       "frequency" : 5236,
       "mnemonic" : "green（绿色的）+ house（室）→种植绿色植物的房子→温室；温室\n的→引申义为造成温室效应的（温室里比户外正常温度要高，形容全",
-      "phonetic" : "ˈgriːnhaʊs",
+      "phonetic" : "ˈɡɹiːnˌhaʊs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "greenhouse"
@@ -2031,7 +2031,7 @@
       ],
       "frequency" : 11426,
       "mnemonic" : "house（房屋）+keeper（看守人；保管人）→房屋的看守人→管家",
-      "phonetic" : "ˈhaʊskiːpə(r)",
+      "phonetic" : "ˈhaʊskipɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "housekeeper"
@@ -2107,7 +2107,7 @@
       ],
       "frequency" : 12792,
       "mnemonic" : "sky（天空）+rocket（火箭）→像火箭飞向天空一样的速度增长→剧",
-      "phonetic" : "ˈskaɪrɒkɪt",
+      "phonetic" : "ˈskaɪˌɹɒk.ɪt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "skyrocket"
@@ -2140,7 +2140,7 @@
       ],
       "frequency" : 4034,
       "mnemonic" : "hide的过去分词形式。",
-      "phonetic" : "ˈhɪdn",
+      "phonetic" : "ˈhɪd(ə)n",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hidden"
@@ -2156,7 +2156,7 @@
       ],
       "frequency" : 11205,
       "mnemonic" : "hide（兽皮）+ -ous（形容词后缀）→兽皮一般的→十分丑陋的；非",
-      "phonetic" : "ˈhɪdɪəs",
+      "phonetic" : "ˈhɪd.i.əs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hideous"
@@ -2187,7 +2187,7 @@
       ],
       "frequency" : 18324,
       "mnemonic" : "hide（躲藏；隐蔽）+ away（离开）→离开人群的藏身之地→隐蔽",
-      "phonetic" : "ˈhaɪdəweɪ",
+      "phonetic" : "ˈhaɪdəˌweɪ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hideaway"
@@ -2202,7 +2202,7 @@
       ],
       "frequency" : 19446,
       "mnemonic" : "hide（隐藏）+ out（出去）→出去隐藏→藏身处；隐蔽处",
-      "phonetic" : "ˈhaɪdaʊt",
+      "phonetic" : "ˈhaɪdˌaʊt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hideout"
@@ -2251,7 +2251,7 @@
       ],
       "frequency" : 7321,
       "mnemonic" : "hud-（=to cover, conceal：遮蔽；隐藏，双写d）+ -le（表反复）→寻\n求遮蔽、隐藏的人一般蜷缩在一角→引申词义蜷缩、挤在一起",
-      "phonetic" : "ˈhʌdl",
+      "phonetic" : "ˈhʌdəl",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "huddle"
@@ -2268,7 +2268,7 @@
 
       ],
       "frequency" : 15256,
-      "phonetic" : "hɔːd",
+      "phonetic" : "hɔɹd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hoard"
@@ -2284,7 +2284,7 @@
       ],
       "frequency" : 4470,
       "mnemonic" : "custod-（=guard, watch, keep：监视；保管；看守）+ -y（名词后缀）\n→监护权；保管权；拘留",
-      "phonetic" : "ˈkʌstədɪ",
+      "phonetic" : "ˈkʌstədiː",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "custody"
@@ -2315,7 +2315,7 @@
       ],
       "frequency" : 19759,
       "mnemonic" : "cuti（=skin：皮肤）+ -cle（指小东西）→皮肤外层，表皮；角质层",
-      "phonetic" : "ˈkjuːtɪkl",
+      "phonetic" : "ˈkjuːtɪkəl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "cuticle"
@@ -2375,7 +2375,7 @@
         "My watch has broken.\n我的表坏了。"
       ],
       "frequency" : 495,
-      "phonetic" : "breɪk",
+      "phonetic" : "bɹeɪk",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "break"
@@ -2392,7 +2392,7 @@
 
       ],
       "frequency" : 2717,
-      "phonetic" : "ˈbrəʊkən",
+      "phonetic" : "ˈbɹəʊkən",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "broken"
@@ -2408,7 +2408,7 @@
       ],
       "frequency" : 13976,
       "mnemonic" : "un-（表相反）+ broken（不连续的；打破的）→连续的；未被打破的",
-      "phonetic" : "ʌnˈbrəʊkən",
+      "phonetic" : "ʌnˈbɹoʊkn̩",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "unbroken"
@@ -2425,7 +2425,7 @@
       ],
       "frequency" : 4746,
       "mnemonic" : "brake（=break：休息，中断；二者发音相似）→刹车，制动器（即：\n使车“中断”，“休息”，“停”下来），减速→引申义为阻碍",
-      "phonetic" : "breɪk",
+      "phonetic" : "bɹeɪk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "brake"
@@ -2439,7 +2439,7 @@
         "I’m always broke by the end of the month.\n我总是一到月底就没钱花了。"
       ],
       "frequency" : 10403,
-      "phonetic" : "brəʊk",
+      "phonetic" : "bɹoʊk",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "broke"
@@ -2457,7 +2457,7 @@
       ],
       "frequency" : 12107,
       "mnemonic" : "break（打破；打碎）+ -er（名词后缀）→在岸边拍碎的波浪；打",
-      "phonetic" : "ˈbreɪkə(r)",
+      "phonetic" : "ˈbɹeɪkə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breaker"
@@ -2474,7 +2474,7 @@
       ],
       "frequency" : 2402,
       "mnemonic" : "break（打破）+ fast（禁食）→打破禁食的第一餐→早餐",
-      "phonetic" : "ˈbrekfəst",
+      "phonetic" : "ˈbɹɛkfəst",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breakfast"
@@ -2503,7 +2503,7 @@
 
       ],
       "frequency" : 9844,
-      "phonetic" : "ˈbrekɪŋ",
+      "phonetic" : "ˈbɹeɪkɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breaking"
@@ -2534,7 +2534,7 @@
       ],
       "frequency" : 7823,
       "mnemonic" : "break（打断；中断）+ up（=over：结束）→中断……使之结束→破",
-      "phonetic" : "ˈbreɪkʌp",
+      "phonetic" : "ˈbɹeɪkʌp",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breakup"
@@ -2567,7 +2567,7 @@
       ],
       "frequency" : 5210,
       "mnemonic" : "break（弄坏；中断）+ down（向下）→失败；故障；精神崩溃\nbreak（打破；破碎）+ down（向下）→打破一个完整事件，进行细\n分→细目列表",
-      "phonetic" : "ˈbreɪkdaʊn",
+      "phonetic" : "ˈbɹeɪkdaʊn",
       "pos" : "n.",
       "rootHint" : "dow",
       "word" : "breakdown"
@@ -2585,7 +2585,7 @@
       ],
       "frequency" : 5379,
       "mnemonic" : "break（破）+ through（通过；穿过）→打破并穿过去→突破",
-      "phonetic" : "ˈbreɪkθruː",
+      "phonetic" : "ˈbɹeɪkθɹuː",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breakthrough"
@@ -2602,7 +2602,7 @@
       ],
       "frequency" : 5415,
       "mnemonic" : "out-（向外）+ break（破裂；打破）→（暴力、疾病等的）爆发；突",
-      "phonetic" : "ˈaʊtbreɪk",
+      "phonetic" : "ˈaʊtbɹeɪk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "outbreak"
@@ -2620,7 +2620,7 @@
       ],
       "frequency" : 9805,
       "mnemonic" : "out（向外）+ burst（使爆裂，胀开；爆满；突然出现）→向外爆\n裂，胀开→爆发；高涨；激化",
-      "phonetic" : "ˈaʊtbɜːst",
+      "phonetic" : "ˈaʊtˌbɜːst",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "outburst"
@@ -2635,7 +2635,7 @@
       ],
       "frequency" : 19788,
       "mnemonic" : "day（白天）+ break（打破）→打破白天→破晓；黎明",
-      "phonetic" : "ˈdeɪbreɪk",
+      "phonetic" : "ˈdeɪbɹeɪk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "daybreak"
@@ -2650,7 +2650,7 @@
       ],
       "frequency" : 19990,
       "mnemonic" : "wind（风）+ breaker（打破）→使……可以破风前行的衣服→防风",
-      "phonetic" : "ˈwɪn(d)breɪkə",
+      "phonetic" : "ˈwɪndbɹeɪkə(ɹ)",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "windbreaker"
@@ -2671,7 +2671,7 @@
 
       ],
       "frequency" : 8002,
-      "phonetic" : "briːtʃ",
+      "phonetic" : "[bɹiːtʃ]",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "breach"
@@ -2686,7 +2686,7 @@
       ],
       "frequency" : 14011,
       "mnemonic" : "趣记：break：打破，破碎→brash：自以为可以破碎一切的→盛气凌人的；",
-      "phonetic" : "bræʃ",
+      "phonetic" : "bɹæʃ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "brash"
@@ -2702,7 +2702,7 @@
       ],
       "frequency" : 2934,
       "mnemonic" : "viol（=break：打破；侵害）+ -ate（动词后缀）→打破（私生活的",
-      "phonetic" : "ˈvaɪəleɪt",
+      "phonetic" : "ˈvaɪəˌleɪt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "violate"
@@ -2718,7 +2718,7 @@
       ],
       "frequency" : 2892,
       "mnemonic" : "violate（违反；违背；侵犯）+ -ion（名词后缀）→违反；违背；",
-      "phonetic" : "ˌvaɪəˈleɪʃn",
+      "phonetic" : "ˌvaɪəˈleɪʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "violation"
@@ -2750,7 +2750,7 @@
       ],
       "frequency" : 1041,
       "mnemonic" : "viol（=break：打破；破坏）+ -ence（名词后缀）→暴力，暴行；狂",
-      "phonetic" : "ˈvaɪələns",
+      "phonetic" : "ˈvaɪləns",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "violence"
@@ -2767,7 +2767,7 @@
       ],
       "frequency" : 2178,
       "mnemonic" : "viol-（暴力；激情）+ -ent（形容词后缀）→暴力的；激情的；猛烈的",
-      "phonetic" : "ˈvaɪələnt",
+      "phonetic" : "ˈvaɪ(ə)lənt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "violent"
@@ -2784,7 +2784,7 @@
 
       ],
       "frequency" : 7959,
-      "phonetic" : "ˈvaɪələntli",
+      "phonetic" : "ˈvaɪ(ə)ləntli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "violently"
@@ -2803,7 +2803,7 @@
       ],
       "frequency" : 4788,
       "mnemonic" : "frag-（=break：弄坏；打碎）+ -ile（容易……的）→容易碎，坏的→",
-      "phonetic" : "ˈfrædʒaɪl",
+      "phonetic" : "ˈfɹædʒəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fragile"
@@ -2819,7 +2819,7 @@
       ],
       "frequency" : 16486,
       "mnemonic" : "fragile（脆弱的）+ -ity（名词后缀，表性质）→脆弱",
-      "phonetic" : "frəˈdʒɪləti",
+      "phonetic" : "fɹəˈd͡ʒɪlɪti",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fragility"
@@ -2835,7 +2835,7 @@
       ],
       "frequency" : 4800,
       "mnemonic" : "frag-（=break：打破；打碎）+ -ment（名词后缀）→打破，破碎（的\n部分）→碎片；片段；碎裂，分裂",
-      "phonetic" : "ˈfrægmənt",
+      "phonetic" : "ˈfɹæɡmənt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fragment"
@@ -2897,7 +2897,7 @@
       ],
       "frequency" : 6215,
       "mnemonic" : "frac-（=break：破；断）+ t（无意义）+ -ure（名词后缀）→断裂；",
-      "phonetic" : "ˈfræktʃə(r)",
+      "phonetic" : "ˈfɹæk.tjə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fracture"
@@ -2927,7 +2927,7 @@
       ],
       "frequency" : 4774,
       "mnemonic" : "fract-（=break：打破；打碎）+ -ion（名词后缀）→弄碎的部分→\n（成）碎片，片段，小部分→少量；分数",
-      "phonetic" : "ˈfrækʃən",
+      "phonetic" : "ˈfɹæk.ʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fraction"
@@ -2944,7 +2944,7 @@
       ],
       "frequency" : 15335,
       "mnemonic" : "in-（使）+ -fract-（打破；打碎）+ -ion（名词后缀）→引申词义破坏",
-      "phonetic" : "ɪnˈfrækʃn",
+      "phonetic" : "ɪnˈfɹakʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "infraction"
@@ -2976,7 +2976,7 @@
       ],
       "frequency" : 15385,
       "mnemonic" : "in-（入；向内）+ fring-（= -frag-：打破；打碎）+ -e→向内打破规\n则、法律、权利等→违背；侵犯",
-      "phonetic" : "ɪnˈfrɪndʒ",
+      "phonetic" : "ɪnˈfɹɪndʒ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "infringe"
@@ -2992,7 +2992,7 @@
       ],
       "frequency" : 16268,
       "mnemonic" : "infringe（侵犯；违反）+ -ment（名词后缀）→侵犯；违反",
-      "phonetic" : "ɪnˈfrɪndʒmənt",
+      "phonetic" : "ɪnˈfɹɪndʒmənt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "infringement"
@@ -3008,7 +3008,7 @@
       ],
       "frequency" : 9225,
       "mnemonic" : "re-（back：向后）+ -frain（=用绳子勒住：克制；控制）→向后勒住\n→忍住；克制；避免\nre-（=again：重复）+-frain（=break：破开；中断）→其原义为中断\n歌声后再重新开始、重复的部分→副歌；一再重复的话",
-      "phonetic" : "rɪˈfreɪn",
+      "phonetic" : "ɹɪˈfɹeɪn",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "refrain"
@@ -3023,7 +3023,7 @@
       ],
       "frequency" : 9131,
       "mnemonic" : "fra-（=-frag-=break：打破；打碎）+ -il（倾向于的；容易的）\n→easily broken：容易被打破的→虚弱的；易碎的；脆弱的",
-      "phonetic" : "freɪl",
+      "phonetic" : "fɹeɪl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "frail"
@@ -3054,7 +3054,7 @@
       ],
       "frequency" : 17190,
       "mnemonic" : "suf-（=under：在下）+ -frag（=break：碎开；碎片）+ -e→来自古希\n腊古罗马时期用碎瓦片碎骨片进行投票的方法→选举权；投票权",
-      "phonetic" : "ˈsʌfrɪdʒ",
+      "phonetic" : "ˈsʌfɹɪdʒ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "suffrage"
@@ -3072,7 +3072,7 @@
       ],
       "frequency" : 5929,
       "mnemonic" : "cor-（=com-：强调前缀）+ -rupt（=break：弄破；弄坏）→使变坏；\n使堕落→腐败的，堕落的；使腐化；破坏",
-      "phonetic" : "kəˈrʌpt",
+      "phonetic" : "kəˈɹʌpt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "corrupt"
@@ -3090,7 +3090,7 @@
       ],
       "frequency" : 3780,
       "mnemonic" : "corrupt（腐败的；贪污的）+ -ion（名词后缀）→腐败；贪污",
-      "phonetic" : "kəˈrʌpʃn",
+      "phonetic" : "kəˈɹʌpʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "corruption"
@@ -3108,7 +3108,7 @@
       ],
       "frequency" : 14418,
       "mnemonic" : "rupt（=break：断，破）+ -ure（名词后缀）→断裂，折断，破裂",
-      "phonetic" : "ˈrʌptʃə(r)",
+      "phonetic" : "ˈɹʌptʃə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rupture"
@@ -3124,7 +3124,7 @@
       ],
       "frequency" : 5374,
       "mnemonic" : "dis-（=apart：分离；分开）+ -rupt（=break：断）→弄断，分开→扰",
-      "phonetic" : "dɪsˈrʌpt",
+      "phonetic" : "dɪsˈɹʌpt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "disrupt"
@@ -3139,7 +3139,7 @@
       ],
       "frequency" : 6891,
       "mnemonic" : "disrupt（扰乱；妨碍）+ -ion（名词后缀）→扰乱；妨碍",
-      "phonetic" : "dɪsˈrʌpʃn",
+      "phonetic" : "dɪsˈɹʌpʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "disruption"
@@ -3154,7 +3154,7 @@
       ],
       "frequency" : 8604,
       "mnemonic" : "disrupt（扰乱；妨碍；破坏）+ -ive（形容词后缀）→扰乱的；妨碍",
-      "phonetic" : "dɪsˈrʌptɪv",
+      "phonetic" : "dɪsˈɹʌptɪv",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "disruptive"
@@ -3170,7 +3170,7 @@
       ],
       "frequency" : 8880,
       "mnemonic" : "ab-（加强语气）+ -rupt（=break：弄坏，断开；突然结束）→突然",
-      "phonetic" : "əˈbrʌpt",
+      "phonetic" : "aˈbɹʌpt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "abrupt"
@@ -3187,7 +3187,7 @@
       ],
       "frequency" : 5311,
       "mnemonic" : "abrupt（突然的；唐突的）+ -ly（副词后缀）→突然地；唐突地",
-      "phonetic" : "əˈbrʌptli",
+      "phonetic" : "ə.ˈbɹʌpt.li",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "abruptly"
@@ -3204,7 +3204,7 @@
       ],
       "frequency" : 5360,
       "mnemonic" : "e-（=out：向外）+ -rupt（=break）→erupt=break out：爆发，喷出",
-      "phonetic" : "ɪˈrʌpt",
+      "phonetic" : "ɪˈɹʌpt",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "erupt"
@@ -3220,7 +3220,7 @@
       ],
       "frequency" : 8829,
       "mnemonic" : "erupt（爆发；喷出；突然发生）+ -ion（名词后缀）→爆发，喷发；",
-      "phonetic" : "ɪˈrʌpʃn",
+      "phonetic" : "ɪˈɹʌpʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "eruption"
@@ -3237,7 +3237,7 @@
       ],
       "frequency" : 3435,
       "mnemonic" : "inter-（内部；中间）+ -rupt（=to break：打断；破坏）→从中间断开\n→引申词义打扰；打断（中断）；遮住（破坏……的连续性）",
-      "phonetic" : "ˌɪntəˈrʌpt",
+      "phonetic" : "ˌɪntəˈɹʌpt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "interrupt"
@@ -3254,7 +3254,7 @@
       ],
       "frequency" : 9199,
       "mnemonic" : "interrupt（使中断；遮住）+ -ion（名词后缀）→阻断物；中断；打岔",
-      "phonetic" : "ˌɪntəˈrʌpʃn",
+      "phonetic" : "ˌɪntəˈɹʌpʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "interruption"
@@ -3289,7 +3289,7 @@
       ],
       "frequency" : 9076,
       "mnemonic" : "bank（银行）+ -rupt（=break：折断；破碎）→银行破碎的→破产",
-      "phonetic" : "ˈbæŋkrʌpt",
+      "phonetic" : "ˈbæŋ.kɹəpt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "bankrupt"
@@ -3305,7 +3305,7 @@
       ],
       "frequency" : 4211,
       "mnemonic" : "bankrupt（破产的）+ -cy（名词后缀）→破产",
-      "phonetic" : "ˈbæŋkrʌptsi",
+      "phonetic" : "ˈbæŋkɹʌptsɪ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "bankruptcy"
@@ -3321,7 +3321,7 @@
       ],
       "frequency" : 12176,
       "mnemonic" : "rout（=to break, a breaking off：打破；使分开）→击破；击败……使\n之被分开，陷入混乱逃跑之中→溃败；彻底失败；一举击败",
-      "phonetic" : "raʊt",
+      "phonetic" : "ɹaʊt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rout"
@@ -3338,7 +3338,7 @@
       ],
       "frequency" : 1961,
       "mnemonic" : "route（=rupt-：破裂；比较两者发音，去掉rupt-中的-p-音）→route本\n义是“破”，路是“破”开来的→路线，固定线路，途径；按某路线",
-      "phonetic" : "ruːt",
+      "phonetic" : "ɹaʊt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "route"
@@ -3353,7 +3353,7 @@
       ],
       "frequency" : 16570,
       "mnemonic" : "rout（=route：路线）+ -er（表物）→引申词义路由器",
-      "phonetic" : "ˈruːtə(r)",
+      "phonetic" : "ˈɹaʊtɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "router"
@@ -3373,7 +3373,7 @@
       ],
       "frequency" : 2608,
       "mnemonic" : "rout（=route：路线）+ -ine（形容词后缀）→引申词义常规的，平淡",
-      "phonetic" : "ruːˈtiːn",
+      "phonetic" : "ɹuːˈtiːn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "routine"
@@ -3388,7 +3388,7 @@
       ],
       "frequency" : 4779,
       "mnemonic" : "routine（常规的）+ -ly（副词后缀）→例行地；常规性地；照例地",
-      "phonetic" : "ruːˈtiːnli",
+      "phonetic" : "ɹuːˈtiːnli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "routinely"
@@ -3404,7 +3404,7 @@
       ],
       "frequency" : 11585,
       "mnemonic" : "来自route的缩写：路线；线路→引申词义车辙，一成不变状态",
-      "phonetic" : "rʌt",
+      "phonetic" : "ɹʌt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rut"
@@ -3438,7 +3438,7 @@
         "But a look at the strange variations in tuition reveals that the choice about"
       ],
       "frequency" : 2001,
-      "phonetic" : "ˈmɪəlɪ",
+      "phonetic" : "ˈmɪɹli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "merely"
@@ -3456,7 +3456,7 @@
       ],
       "frequency" : 1987,
       "mnemonic" : "barely（=merely：仅仅）→仅仅，几乎不",
-      "phonetic" : "ˈbeəlɪ",
+      "phonetic" : "ˈbɛə(ɹ).li",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "barely"
@@ -3475,7 +3475,7 @@
         "The fridge was completely bare.\n电冰箱里是空的。"
       ],
       "frequency" : 3462,
-      "phonetic" : "beə(r)",
+      "phonetic" : "bɛəɹ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "bare"
@@ -3490,7 +3490,7 @@
       ],
       "frequency" : 9611,
       "mnemonic" : "bare（裸露的）+ foot（脚）→裸露着脚的→赤脚的",
-      "phonetic" : "ˈbeəfʊt",
+      "phonetic" : "ˈbɛɹfʊt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "barefoot"
@@ -3506,7 +3506,7 @@
       ],
       "frequency" : 20045,
       "mnemonic" : "thread（线）+ bare（裸露的）→线条裸露的→穿旧的，磨薄的；引申",
-      "phonetic" : "ˈθredbeə(r)",
+      "phonetic" : "ˈθɹɛdbɛə(ɹ)",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "threadbare"
@@ -3524,7 +3524,7 @@
       ],
       "frequency" : 2291,
       "mnemonic" : "rarely（=merely=barely：仅仅，几乎不）→几乎不，很少，罕见地",
-      "phonetic" : "ˈreəlɪ",
+      "phonetic" : "ˈɹɛːli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "rarely"
@@ -3540,7 +3540,7 @@
 
       ],
       "frequency" : 1886,
-      "phonetic" : "reə",
+      "phonetic" : "ɹɛəɹ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "rare"
@@ -3555,7 +3555,7 @@
       ],
       "frequency" : 12458,
       "mnemonic" : "rare（稀少的；稀罕的；珍贵的）+ -ity（名词后缀）→珍品；稀有；",
-      "phonetic" : "ˈreərəti",
+      "phonetic" : "ˈɹɛɹ.ə.ti",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "rarity"
@@ -3577,7 +3577,7 @@
         "随着其他国家日益强盛，英语的优势地位逐渐缩小是不可避免的。"
       ],
       "frequency" : 2023,
-      "phonetic" : "ˈnærəʊ",
+      "phonetic" : "ˈnæɹoʊ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "narrow"
@@ -3594,7 +3594,7 @@
         "The car narrowly missed a cyclist.\n汽车差点儿撞上一位骑自行车的人。"
       ],
       "frequency" : 8224,
-      "phonetic" : "ˈnærəʊlɪ",
+      "phonetic" : "ˈnɛɹoʊli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "narrowly"
@@ -3660,7 +3660,7 @@
       ],
       "frequency" : 11867,
       "mnemonic" : "haz（=haze：薄雾，烟雾；使模糊；迷糊）+ -y（形容词后缀）→薄",
-      "phonetic" : "ˈheɪzɪ",
+      "phonetic" : "ˈheɪzi",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hazy"
@@ -3696,7 +3696,7 @@
       ],
       "frequency" : 5432,
       "mnemonic" : "hazard（危险；危害）+ -ous（形容词后缀）→危险的；有危害的",
-      "phonetic" : "ˈhæzədəs",
+      "phonetic" : "ˈhæzəɹdəs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "hazardous"
@@ -3714,7 +3714,7 @@
       ],
       "frequency" : 16803,
       "mnemonic" : "hap（发生；运气；机会）+ hazard（风险；危害）→即运气不好的，\n处于危险的→引申词义杂乱无章的；无计划的",
-      "phonetic" : "hæpˈhæzəd",
+      "phonetic" : "ˌhæpˈhæz.ɚd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "haphazard"
@@ -3733,7 +3733,7 @@
       ],
       "frequency" : 1429,
       "mnemonic" : "burn=be on fire, destroy with fire, burn in cooking等，表示与“烧火”有",
-      "phonetic" : "bɜːn",
+      "phonetic" : "bɝn",
       "pos" : "v.",
       "rootHint" : "dit",
       "word" : "burn"
@@ -3747,7 +3747,7 @@
 
       ],
       "frequency" : 13565,
-      "phonetic" : "bərnd",
+      "phonetic" : "ˈbɜː(ɹ)nd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "burned"
@@ -3763,7 +3763,7 @@
 
       ],
       "frequency" : 4080,
-      "phonetic" : "ˈbɜːnɪŋ",
+      "phonetic" : "bɝnɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "burning"
@@ -3778,7 +3778,7 @@
 
       ],
       "frequency" : 8386,
-      "phonetic" : "ˈbɜːnə(r)",
+      "phonetic" : "ˈbɜːnə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "burner"
@@ -3793,7 +3793,7 @@
       ],
       "frequency" : 12314,
       "mnemonic" : "burn的过去式和过去分词。",
-      "phonetic" : "bɜːnt",
+      "phonetic" : "ˈbɜɹnt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "burnt"
@@ -3838,7 +3838,7 @@
       ],
       "frequency" : 19389,
       "mnemonic" : "趣记：au + burn（晒伤）→想象一下被太阳暴晒下皮肤的颜色→红褐色的",
-      "phonetic" : "ˈɔːbən",
+      "phonetic" : "ˈɔ.bɚn",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "auburn"
@@ -3858,7 +3858,7 @@
       ],
       "frequency" : 10045,
       "mnemonic" : "com-（加强语气）+ bust（=burn：燃烧）+ -ion（名词后缀）→燃",
-      "phonetic" : "kəmˈbʌstʃən",
+      "phonetic" : "kəmˈbʌs.tʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "combustion"
@@ -3881,7 +3881,7 @@
       ],
       "frequency" : 5776,
       "mnemonic" : "会身体发热→breed：引申义为与孵化有关的词汇：繁殖；饲养；孕\nbreed（=birth：出生；繁殖；孕育）→出生；繁殖；孕育；饲养\n趣记：brood（孵、一窝），与brood一起记：brood = br+oo（两个蛋）+d→\n孵、一窝；breed = br+ee（两个蛋变成两个幼崽）+d→产仔；繁殖",
-      "phonetic" : "briːd",
+      "phonetic" : "bɹiːd",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "breed"
@@ -3896,7 +3896,7 @@
       ],
       "frequency" : 15040,
       "mnemonic" : "brood = br+oo（两个蛋）+ d→孵；一窝→原指母鸡孵蛋过程中的暴\n躁症状→后指担忧",
-      "phonetic" : "bruːd",
+      "phonetic" : "bɹuːd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "brood"
@@ -3912,7 +3912,7 @@
       ],
       "frequency" : 13730,
       "mnemonic" : "brood：焦虑；担忧→brooding：幽怨的；忧思的\nbrood：孵蛋→有威胁的事情正在酝酿→brooding：森然的；险要的",
-      "phonetic" : "ˈbrudɪŋ",
+      "phonetic" : "ˈbɹuːdɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "brooding"
@@ -3927,7 +3927,7 @@
       ],
       "frequency" : 10956,
       "mnemonic" : "breed（饲养；培育）+ -er（名词后缀）→饲养员；培育者",
-      "phonetic" : "ˈbriːdə(r)",
+      "phonetic" : "ˈbɹiːdə(ɹ)",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breeder"
@@ -3943,7 +3943,7 @@
 
       ],
       "frequency" : 5979,
-      "phonetic" : "ˈbriːdɪŋ",
+      "phonetic" : "ˈbɹiːdɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breeding"
@@ -3960,7 +3960,7 @@
       ],
       "frequency" : 2131,
       "mnemonic" : "炭火进行烤制的东西→面包",
-      "phonetic" : "bred",
+      "phonetic" : "bɹɛd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "bread"
@@ -3976,7 +3976,7 @@
       ],
       "frequency" : 20033,
       "mnemonic" : "bread（面包；钱）+ winner（赢得、赚取……的人）→赢得金钱的人\n→挣钱养家的人",
-      "phonetic" : "ˈbredwɪnə(r)",
+      "phonetic" : "ˈbɹɛdˌwɪnɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "breadwinner"
@@ -3993,7 +3993,7 @@
       ],
       "frequency" : 15963,
       "mnemonic" : "ginger（姜）+ bread（饼）→姜饼；姜味饼干（一般在圣诞节时制作）",
-      "phonetic" : "ˈdʒɪndʒəbred",
+      "phonetic" : "ˈd͡ʒɪnd͡ʒɚbɹɛd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "gingerbread"
@@ -4009,7 +4009,7 @@
       ],
       "frequency" : 4931,
       "mnemonic" : "brewing：烹调、酿制→bride：新娘婚后会做的家务工作\n趣记：bread：面包→bride：新娘（婚后会做类似烤面包之类的家务劳动）",
-      "phonetic" : "braɪd",
+      "phonetic" : "bɹaɪd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "bride"
@@ -4025,7 +4025,7 @@
       ],
       "frequency" : 15284,
       "mnemonic" : "bride（新娘）+ -al（形容词后缀）→新娘的；婚礼的",
-      "phonetic" : "ˈbraɪdl",
+      "phonetic" : "ˈbraɪ.dl̩",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "bridal"
@@ -4040,7 +4040,7 @@
       ],
       "frequency" : 18828,
       "mnemonic" : "bride（新娘）+ s + maid（少女）→婚礼上陪伴新娘的未婚少女→伴娘",
-      "phonetic" : "ˈbraɪdzmeɪd",
+      "phonetic" : "ˈbɹaɪdzˌmeɪd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "bridesmaid"
@@ -4057,7 +4057,7 @@
       ],
       "frequency" : 10674,
       "mnemonic" : "发酵→酿制；沏茶；煮；酝酿",
-      "phonetic" : "bruː",
+      "phonetic" : "bɹuː",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "brew"
@@ -4072,7 +4072,7 @@
       ],
       "frequency" : 19866,
       "mnemonic" : "brew（酿制啤酒）+ -er（人）→啤酒酿造者或公司",
-      "phonetic" : "ˈbruːə(r)",
+      "phonetic" : "ˈbɹuː.ə(ɹ)",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "brewer"
@@ -4087,7 +4087,7 @@
       ],
       "frequency" : 15712,
       "mnemonic" : "brew（酿啤酒）+ -ery（名词后缀，表地点）→酿造啤酒的地点→啤",
-      "phonetic" : "ˈbruːəri",
+      "phonetic" : "ˈbɹuːəɹi",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "brewery"
@@ -4102,7 +4102,7 @@
 
       ],
       "frequency" : 14596,
-      "phonetic" : "ˈbruːɪŋ",
+      "phonetic" : "ˈbɹuːɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "brewing"
@@ -4118,7 +4118,7 @@
 
       ],
       "frequency" : 5777,
-      "phonetic" : "brɒθ",
+      "phonetic" : "bɹɔθ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "broth"
@@ -4133,7 +4133,7 @@
       ],
       "frequency" : 14619,
       "mnemonic" : "broil（=to burn, to roast：燃烧；烘烤）→原指通过直接加热进行烹\n调，烤，焙→引申义为使变得灼热，受炙热",
-      "phonetic" : "brɒɪl",
+      "phonetic" : "bɹɔɪl",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "broil"
@@ -4148,7 +4148,7 @@
       ],
       "frequency" : 16101,
       "mnemonic" : "broil（烘；烤）+ -er（名词后缀）→与烘烤有关的东西→烘烤工具；",
-      "phonetic" : "ˈbrɔɪlə(r)",
+      "phonetic" : "ˈbɹɔɪlə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "broiler"
@@ -4181,7 +4181,7 @@
       ],
       "frequency" : 14648,
       "mnemonic" : "ferv-（=to boil, glow：煮沸；发热）+ -ent（形容词后缀）→沸腾的，\n灼热的→比喻感情、愿望等热情的，热诚的，热烈的",
-      "phonetic" : "ˈfɜːvənt",
+      "phonetic" : "ˈfɜː.vənt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fervent"
@@ -4213,7 +4213,7 @@
       ],
       "frequency" : 11323,
       "mnemonic" : "ferv-（=to boil, be hot：沸腾；热的）+ -or（名词后缀）→热情；热",
-      "phonetic" : "ˈfɜːvə",
+      "phonetic" : "ˈfɝvɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fervor"
@@ -4293,7 +4293,7 @@
       ],
       "frequency" : 3829,
       "mnemonic" : "hook（=bent：弯曲）→弯曲的物体→钩，钩状物；钩住",
-      "phonetic" : "hʊk",
+      "phonetic" : "huːk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hook"
@@ -4308,7 +4308,7 @@
       ],
       "frequency" : 13704,
       "mnemonic" : "hook（钩）+ -er（表人或物）→妓女（总是主动地挽住顾客的手臂，",
-      "phonetic" : "ˈhʊkə(r)",
+      "phonetic" : "ˈhʊk.ɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hooker"
@@ -4353,7 +4353,7 @@
       ],
       "frequency" : 19078,
       "mnemonic" : "bay：海湾→bayou：河道直流",
-      "phonetic" : "ˈbaɪuː",
+      "phonetic" : "ˈbaɪ.oʊ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "bayou"
@@ -4386,7 +4386,7 @@
 
       ],
       "frequency" : 11065,
-      "phonetic" : "fəˈnætɪk",
+      "phonetic" : "fəˈnæt.ɪk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fanatic"
@@ -4403,7 +4403,7 @@
       ],
       "frequency" : 16835,
       "mnemonic" : "fanatic（狂热分子；入迷的）+ -al（形容词后缀）→狂热的；痴迷",
-      "phonetic" : "fəˈnætɪkl",
+      "phonetic" : "fəˈnætɪkəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fanatical"
@@ -4450,7 +4450,7 @@
       ],
       "frequency" : 4246,
       "mnemonic" : "fascinate（深深吸引；迷住）+ -ing（形容词后缀）→极有吸引力的；",
-      "phonetic" : "ˈfæsɪneɪtɪŋ",
+      "phonetic" : "ˈfæsɪˌneɪtɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fascinating"
@@ -4466,7 +4466,7 @@
       ],
       "frequency" : 6786,
       "mnemonic" : "fascinate（深深吸引；使着迷）+ -ion（名词后缀）→极大的吸引力；",
-      "phonetic" : "ˌfæsɪˈneɪʃn",
+      "phonetic" : "fæsɪˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "fascination"
@@ -4547,7 +4547,7 @@
         "The interview went smoothly.\n面谈进展顺利。"
       ],
       "frequency" : 6257,
-      "phonetic" : "ˈsmuːðlɪ",
+      "phonetic" : "ˈsmuːðli",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "smoothly"
@@ -4630,7 +4630,7 @@
       ],
       "frequency" : 12679,
       "mnemonic" : "ob-（=over）+ -liv-（=smooth：变平）+ -ion（名词后缀）→smooth\nover：使平坦→使人的身体、记忆变平，使地面变平坦→沉睡，神志",
-      "phonetic" : "əˈblɪviən",
+      "phonetic" : "əˈblɪvɪən",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "oblivion"
@@ -4645,7 +4645,7 @@
       ],
       "frequency" : 8589,
       "mnemonic" : "oblivi（=oblivion=forgetful：不注意的；不留心的）+ -ous（形容词后\n缀）→没意识到的；没有注意的；未察觉的",
-      "phonetic" : "əˈblɪvɪəs",
+      "phonetic" : "əˈblɪ.vi.əs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "oblivious"
@@ -4662,7 +4662,7 @@
       ],
       "frequency" : 6507,
       "mnemonic" : "邪解：sp + oil（油）→由“油”引申出：“油腻，溺爱，宠坏，破坏”；战",
-      "phonetic" : "spɒɪl",
+      "phonetic" : "spɔɪl",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "spoil"
@@ -4744,7 +4744,7 @@
         "An eagle was gliding high overhead.\n一只鹰在头顶上翱翔。"
       ],
       "frequency" : 7204,
-      "phonetic" : "glaɪd",
+      "phonetic" : "ˈɡlaɪd",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "glide"
@@ -4758,7 +4758,7 @@
 
       ],
       "frequency" : 17128,
-      "phonetic" : "ˈglaɪdə",
+      "phonetic" : "ˈɡlaɪdə(ɹ)",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "glider"
@@ -4829,7 +4829,7 @@
       ],
       "frequency" : 15808,
       "mnemonic" : "slide（滑动）+ -er（名词后缀，表物）→滑杆，滑动器；滚动条滑块",
-      "phonetic" : "ˈslaɪdə(r)",
+      "phonetic" : "ˈslaɪdɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "slider"
@@ -4861,7 +4861,7 @@
       ],
       "frequency" : 11589,
       "mnemonic" : "land（土地）+ slide（滑落）→土地滑落→滑坡；山崩→比喻压倒性",
-      "phonetic" : "ˈlændslaɪd",
+      "phonetic" : "ˈlænd.slaɪd",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "landslide"
@@ -4896,7 +4896,7 @@
       ],
       "frequency" : 13025,
       "mnemonic" : "glitch=a slip：差错；纰漏→小故障；小差错",
-      "phonetic" : "glɪtʃ",
+      "phonetic" : "ɡlɪtʃ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "glitch"
@@ -4912,7 +4912,7 @@
       ],
       "frequency" : 7858,
       "mnemonic" : "slip（滑倒，双写p）+ -ery（形容词后缀）→引申比喻义滑的；油滑的",
-      "phonetic" : "ˈslɪpəri",
+      "phonetic" : "ˈslɪpəɹi",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "slippery"
@@ -4944,7 +4944,7 @@
       ],
       "frequency" : 3463,
       "mnemonic" : "slope=to slip：滑动；滑倒；倾斜→斜坡；坡度；倾斜，溜",
-      "phonetic" : "sləʊp",
+      "phonetic" : "sloʊp",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "slope"
@@ -4960,7 +4960,7 @@
 
       ],
       "frequency" : 14202,
-      "phonetic" : "ˈslopɪŋ",
+      "phonetic" : "ˈsləʊpɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "sloping"
@@ -5021,7 +5021,7 @@
       ],
       "frequency" : 17032,
       "mnemonic" : "lubric（=lubricate：使润滑）+ -ant（名词后缀）→起润滑作用的东西\n→润滑油；润滑剂",
-      "phonetic" : "ˈluːbrɪkənt",
+      "phonetic" : "ˈlubɹəkənt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "lubricant"
@@ -5070,7 +5070,7 @@
       ],
       "frequency" : 15830,
       "mnemonic" : "slime（污泥，泥浆；黏液）+ -y（形容词后缀）→似泥浆的；黏的",
-      "phonetic" : "ˈslaɪmɪ",
+      "phonetic" : "ˈslaɪ.mi",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "slimy"
@@ -5139,7 +5139,7 @@
       ],
       "frequency" : 6585,
       "mnemonic" : "mud（泥，双写d）+ -y（形容词后缀）→泥泞的；含泥的；使沾上泥",
-      "phonetic" : "ˈmʌdɪ",
+      "phonetic" : "[ˈmʌdi]",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "muddy"
@@ -5156,7 +5156,7 @@
       ],
       "frequency" : 19860,
       "mnemonic" : "mud（泥浆，双写d）+ -le（动词后缀，表反复）→反复搅动泥浆→",
-      "phonetic" : "ˈmʌdl",
+      "phonetic" : "ˈmʌdəl",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "muddle"
@@ -5220,7 +5220,7 @@
       ],
       "frequency" : 6643,
       "mnemonic" : "moist=wet：湿润的；潮湿的",
-      "phonetic" : "mɒɪst",
+      "phonetic" : "mɔɪst",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "moist"
@@ -5235,7 +5235,7 @@
       ],
       "frequency" : 15687,
       "mnemonic" : "moist（潮湿的）+ -en（动词后缀）→使潮湿；使湿润",
-      "phonetic" : "ˈmɒɪsn",
+      "phonetic" : "ˈmɔɪsən",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "moisten"
@@ -5251,7 +5251,7 @@
       ],
       "frequency" : 5517,
       "mnemonic" : "moist（潮湿的）+ -ure（名词后缀）→潮湿；水分",
-      "phonetic" : "ˈmɔɪstʃə(r)",
+      "phonetic" : "ˈmɔɪstʃɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "moisture"
@@ -5284,7 +5284,7 @@
       ],
       "frequency" : 8204,
       "mnemonic" : "de-（=away：离开）+ -let（=slime：污泥）+ -e→通过涂抹污泥使离\n开，擦掉→删除",
-      "phonetic" : "dɪˈliːt",
+      "phonetic" : "diˈliːt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "delete"
@@ -5299,7 +5299,7 @@
       ],
       "frequency" : 18385,
       "mnemonic" : "deleter（=injure, hurt：伤害）+ -ious（形容词后缀）→造成伤害的→",
-      "phonetic" : "ˌdeləˈtɪəriəs",
+      "phonetic" : "ˌdɛləˈtɪɹi.əs",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "deleterious"
@@ -5315,7 +5315,7 @@
       ],
       "frequency" : 16020,
       "mnemonic" : "in-（不；非）+ -del-（=delete：破坏；完全消除）+ -ible（能……\n的）→不能完全消除的，引申词义难以磨灭的",
-      "phonetic" : "ɪnˈdelɪbəl",
+      "phonetic" : "ɪnˈdɛləbl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "indelible"
@@ -5332,7 +5332,7 @@
       ],
       "frequency" : 14654,
       "mnemonic" : "slith-（=to slide, slip：滑动）+ -er（表反复）→蜿蜒滑行；跌跌撞撞",
-      "phonetic" : "ˈslɪðə(r)",
+      "phonetic" : "ˈslɪð.ə(ɹ)",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "slither"
@@ -5410,7 +5410,7 @@
       ],
       "frequency" : 12252,
       "mnemonic" : "sludge=mud",
-      "phonetic" : "ˈslʌdʒ",
+      "phonetic" : "slʌdʒ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "sludge"
@@ -5461,7 +5461,7 @@
       ],
       "frequency" : 16433,
       "mnemonic" : "re-（=again：再次）+ -laps-（滑落；陷入）+ -e→再次陷入不好的景\n况中→旧病复发；退回原状；（好转后）再倒退",
-      "phonetic" : "rɪˈlæps",
+      "phonetic" : "ɹɪˈlæps",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "relapse"
@@ -5549,7 +5549,7 @@
       ],
       "frequency" : 380,
       "mnemonic" : "re-（=again：再次）+ mem-（=be mindful of：记得）+ ber→再次记\n得→回想起；记起；把……牢记在心\nremember to do sth.：记得要做某事",
-      "phonetic" : "rɪˈmembə(r)",
+      "phonetic" : "ɹɪˈmɛmbɚ",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "remember"
@@ -5565,7 +5565,7 @@
       ],
       "frequency" : 11073,
       "mnemonic" : "remember（记得；记起）+ -ance（名词后缀）→纪念，回忆；纪念",
-      "phonetic" : "rɪˈmembrəns",
+      "phonetic" : "ɹɪ.ˈmɛm.bɹəns",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "remembrance"
@@ -5582,7 +5582,7 @@
       ],
       "frequency" : 894,
       "mnemonic" : "memor-（记忆）+ -y（名词后缀）→记忆力；回忆，记忆；内存",
-      "phonetic" : "ˈmeməri",
+      "phonetic" : "ˈmɛm(ə)ɹi",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memory"
@@ -5595,7 +5595,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "prɒm",
+      "phonetic" : "pɹɒm",
       "pos" : "abbr.",
       "rootHint" : "dit",
       "word" : "PROM"
@@ -5609,7 +5609,7 @@
 
       ],
       "frequency" : 12396,
-      "phonetic" : "ræm",
+      "phonetic" : "ɹæm",
       "pos" : "abbr.",
       "rootHint" : "dit",
       "word" : "RAM"
@@ -5625,7 +5625,7 @@
       ],
       "frequency" : 5192,
       "mnemonic" : "缩写自memorandum。-memor-：记忆 → memo：备忘录；简报",
-      "phonetic" : "ˈmeməʊ",
+      "phonetic" : "ˈmɛməʊ̯",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memo"
@@ -5656,7 +5656,7 @@
 
       ],
       "frequency" : 5644,
-      "phonetic" : "ˈmemwɑː(r)",
+      "phonetic" : "ˈmɛmˌwɑː",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memoir"
@@ -5672,7 +5672,7 @@
       ],
       "frequency" : 5265,
       "mnemonic" : "memor-（记忆）+ -ial（名词 \/ 形容词后缀）→与回忆、纪念有关的\n（物品）→纪念碑；纪念品；纪念的，悼念的",
-      "phonetic" : "məˈmɔːrɪəl",
+      "phonetic" : "məˈmoʊɹi.əl",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memorial"
@@ -5688,7 +5688,7 @@
       ],
       "frequency" : 6093,
       "mnemonic" : "memor-（记忆）+ -able（能被……的）→能被留在记忆里的→值得纪",
-      "phonetic" : "ˈmemərəbl",
+      "phonetic" : "ˈmɛm(ə)ɹəbl̩",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "memorable"
@@ -5704,7 +5704,7 @@
       ],
       "frequency" : 8436,
       "mnemonic" : "memor-（=memory：记忆）+ -ize（使动词后缀）→使能记起来→记",
-      "phonetic" : "ˈmeməraɪz",
+      "phonetic" : "ˈmɛm.əɹˌaɪ̯z",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "memorize"
@@ -5734,7 +5734,7 @@
       ],
       "frequency" : 8869,
       "mnemonic" : "com-（加强语气）+ memor-（使想起）+ -ate（使动词后缀）→使人\n想起→纪念",
-      "phonetic" : "kəˈmeməreɪt",
+      "phonetic" : "kəˈmɛməˌɹeɪt",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "commemorate"
@@ -5814,7 +5814,7 @@
       ],
       "frequency" : 9429,
       "mnemonic" : "mourn（哀悼）+ -ing（动名词后缀）→哀悼",
-      "phonetic" : "ˈmɔːnɪŋ",
+      "phonetic" : "ˈmɔɹnɪŋ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "mourning"
@@ -5845,7 +5845,7 @@
       ],
       "frequency" : 16410,
       "mnemonic" : "mourn（哀伤；伤感）+ -ful（充满……的）→忧伤的；伤感的",
-      "phonetic" : "ˈmɔːnfl",
+      "phonetic" : "ˈmɔɹnfəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "mournful"
@@ -5861,7 +5861,7 @@
       ],
       "frequency" : 15505,
       "mnemonic" : "a-（否定）+ mne-（记忆）+ -sia（病，症）→丧失记忆的病→健忘症",
-      "phonetic" : "æmˈniːzɪə",
+      "phonetic" : "ˌæmˈniʒə",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "amnesia"
@@ -5879,7 +5879,7 @@
       ],
       "frequency" : 10810,
       "mnemonic" : "a-（否定）+ -mnes-（记忆）+ -ty（名词后缀）→不再记得，既往不\n咎→赦免；特赦",
-      "phonetic" : "ˈæmnəsti",
+      "phonetic" : "ˈæm.nɪ.sti",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "amnesty"
@@ -5913,7 +5913,7 @@
       ],
       "frequency" : 3756,
       "mnemonic" : "wild（野生的）+ der（=deer：鹿）+ -ness（名词后缀）→野生的鹿出\n没的地方→未开发的地区，荒野；荒芜的地方",
-      "phonetic" : "ˈwɪldənəs",
+      "phonetic" : "ˈwɪl.dəɹ.nəs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "wilderness"
@@ -5974,7 +5974,7 @@
         "It would have amazed the brightest minds of the 18th century"
       ],
       "mnemonic" : "be-（=de-：表彻底）+ wild（狂野；疯狂）+ -er（动词后缀）→使迷惑",
-      "phonetic" : "bɪˈwɪldə(r)",
+      "phonetic" : "bɪˈwɪldə(ɹ)",
       "pos" : "v.",
       "rootHint" : "dit",
       "word" : "bewilder"
@@ -5988,7 +5988,7 @@
         "He looked at her with a bewildered expression.\n他用困惑的表情看着他。"
       ],
       "frequency" : 10842,
-      "phonetic" : "bɪˈwɪldəd",
+      "phonetic" : "bəˈwɪldəd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "bewildered"
@@ -6003,7 +6003,7 @@
 
       ],
       "frequency" : 16250,
-      "phonetic" : "bɪˈwɪldərɪŋ",
+      "phonetic" : "bɪˈwɪldəɹɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "bewildering"

@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "biology",
-      "phonetic": "bar'plad₃i",
+      "phonetic": "baɪˈɑlədʒi",
       "pos": "n.",
       "definition": "生物学；(一个地区全部的)生物；(机体、细胞 的)作用方式",
       "frequency": 4266,
@@ -29,7 +29,7 @@
     },
     {
       "word": "biography",
-      "phonetic": "bar’bgrəfi",
+      "phonetic": "baɪˈɑːɡɹəfi",
       "pos": "n.",
       "definition": "( 人物)传记；传记文学或体裁",
       "frequency": 4932,
@@ -71,8 +71,8 @@
       "rootHint": "bio"
     },
     {
-      "word": "blochemlcal",
-      "phonetic": ",barsu'kemik(a)1",
+      "word": "biochemical",
+      "phonetic": "ˌbaɪoʊˈkemɪkl",
       "pos": "adj.",
       "definition": "生物化学的；生化的",
       "frequency": 14773,
@@ -102,7 +102,7 @@
     },
     {
       "word": "biodiversity",
-      "phonetic": ",barə(u)dar'vs:sitI",
+      "phonetic": "ˌbaɪoʊdɑɪˈvɚsəti",
       "pos": "n.",
       "definition": "生物多样性",
       "frequency": 7909,
@@ -118,7 +118,7 @@
     },
     {
       "word": "biomass",
-      "phonetic": "'barə(u)mæs",
+      "phonetic": "ˈbaɪ.ə(ʊ)ˌmæs",
       "pos": "n.",
       "definition": "n. 生物数量(以生境面积或容积表示);(提供动 力或能量的)生物量",
       "frequency": 10737,
@@ -135,7 +135,7 @@
     },
     {
       "word": "biomedical",
-      "phonetic": "barə(u)'medrk(a)l",
+      "phonetic": "ˌbaɪəʊˈmedɪkl",
       "pos": "adj.",
       "definition": "生物医学的",
       "frequency": 12459,
@@ -151,7 +151,7 @@
     },
     {
       "word": "biopsy",
-      "phonetic": "'barppsI",
+      "phonetic": "ˈbaɪɑpsi",
       "pos": "n.",
       "definition": "活组织检查(从身体取下细胞或组织进行检验);活检",
       "frequency": 1067,
@@ -191,7 +191,7 @@
     },
     {
       "word": "biotech",
-      "phonetic": "'baroutek",
+      "phonetic": "ˈbaɪoʊtek",
       "pos": "n.",
       "definition": "同biotechnology 生物技术",
       "frequency": 11438,
@@ -205,7 +205,7 @@
     },
     {
       "word": "antibiotic",
-      "phonetic": ",æntrbar'ptrk",
+      "phonetic": "ˌæn.taɪ.baɪˈɒt.ɪk",
       "pos": "adj.",
       "definition": "抗生的；抗菌的 n. 抗菌素；抗生素(如青霉 素)5143",
       "mnemonic": "anti-(=against : 反对；违反)+biotic(=of or related to living things:\n生物的；生命的→与生物、生命对抗的→抗生的；抗生素 搭配：an antibiotic drug: 抗菌素药",
@@ -219,7 +219,7 @@
     },
     {
       "word": "symbiotic",
-      "phonetic": "simbar'ptrk",
+      "phonetic": "ˌsɪm.baɪˈɑt.ɪk",
       "pos": "adj.",
       "definition": "共生的；共栖的",
       "frequency": 17688,
@@ -233,7 +233,7 @@
     },
     {
       "word": "microbe",
-      "phonetic": "'markrəub",
+      "phonetic": "ˈmaɪkɹoʊb",
       "pos": "n.",
       "definition": "微生物",
       "frequency": 10376,
@@ -248,7 +248,7 @@
     },
     {
       "word": "microbial",
-      "phonetic": "mar'krəubrol",
+      "phonetic": "maɪˈkɹoʊb.i.əl",
       "pos": "adj.",
       "definition": "微生物的；由细菌引起的",
       "frequency": 13199,
@@ -264,7 +264,7 @@
     },
     {
       "word": "microbiologist",
-      "phonetic": ",markrobar'aladʒIst",
+      "phonetic": "ˌmaɪkroʊbaɪˈɑlədʒɪst",
       "pos": "n.",
       "definition": "微生物学家",
       "frequency": 19459,
@@ -275,7 +275,7 @@
     },
     {
       "word": "aerobic",
-      "phonetic": "ea'rəubik",
+      "phonetic": "əˈɹoʊbɪk",
       "pos": "adj.",
       "definition": "需氧的；好氧的；有氧的；增强心肺功能的",
       "frequency": 8954,
@@ -290,7 +290,7 @@
     },
     {
       "word": "anaerobic",
-      "phonetic": ",æneə'rəubrk",
+      "phonetic": "ˌænəˈɹoʊbik",
       "pos": "adj.",
       "definition": "厌氧的；由厌氧菌引起的；(锻炼)无氧的 (不专为改善心肺功能)17400",
       "mnemonic": "an-(=without: 没有)+aero- ( 氧气；空气)+b(=bio-: 生物)+-ic (形容词后缀)→无需氧气而能生的→厌氧的；无氧的",
@@ -305,7 +305,7 @@
     },
     {
       "word": "amphibian",
-      "phonetic": "æm'fibron",
+      "phonetic": "æmˈfɪbɪən",
       "pos": "n.",
       "definition": "两栖动物；水陆两用车；水陆两用飞机",
       "mnemonic": "amphi-(=of both kinds: 双重类型的)+bi-(o)(= 生 物 )+-an ( 名 词后缀)→双重类型的生物→两栖动物",
@@ -319,7 +319,7 @@
     },
     {
       "word": "amphibious",
-      "phonetic": "æm'fibrəs",
+      "phonetic": "[æmˈfɪbi.əs]",
       "pos": "adj.",
       "definition": "( 陆军、海军)从海上发起进攻的；(交通工 具)水陆两用的；(动物)水陆两栖的",
       "frequency": 18680,
@@ -333,7 +333,7 @@
     },
     {
       "word": "whiskey",
-      "phonetic": "'hwiski",
+      "phonetic": "ˈwɪski",
       "pos": "n.",
       "definition": "威士忌酒(尤指产于美国和爱尔兰，由大麦或 黑麦等酿成的烈性酒);一杯威士忌酒",
       "frequency": 7136,

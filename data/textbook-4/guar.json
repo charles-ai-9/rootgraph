@@ -14,7 +14,7 @@
   "words": [
     {
       "word": "guard",
-      "phonetic": "ga:d",
+      "phonetic": "ɡɑɹd",
       "pos": "n.",
       "definition": "守卫；保护；看守 n. 卫兵；防护装置；列车员",
       "frequency": 1291,
@@ -36,7 +36,7 @@
     },
     {
       "word": "ward",
-      "phonetic": "wɔ:d",
+      "phonetic": "wɔɹd",
       "pos": "n.",
       "definition": "病房；选区；被监护人〔尤指儿童〕 vi.5 防止；抵挡〔疾 病、危险或攻击等]127",
       "collocations": [
@@ -48,7 +48,7 @@
     },
     {
       "word": "guarded",
-      "phonetic": "'ga:did",
+      "phonetic": "ˈɡɑɹdɪd",
       "pos": "adj.",
       "definition": "谨慎的；有保留的；提防的",
       "frequency": 13827,
@@ -58,7 +58,7 @@
     },
     {
       "word": "safeguard",
-      "phonetic": "'serfga:d",
+      "phonetic": "ˈseɪfgɑːd",
       "pos": "n.",
       "definition": "保护；保卫；保护措施",
       "frequency": 9317,
@@ -71,7 +71,7 @@
     },
     {
       "word": "regard",
-      "phonetic": "ri'ga:d",
+      "phonetic": "ɹɪˈɡɑɹd",
       "pos": "n.",
       "definition": "注意；关心[+for]; 尊敬[+ for]; 表良好祝愿(复数) vt. 认为，看作；(以某种方式)注视",
       "frequency": 2101,
@@ -90,7 +90,7 @@
     },
     {
       "word": "disregard",
-      "phonetic": "disrɪ'ga:d",
+      "phonetic": "dɪsɹɪˈɡɑːd",
       "pos": "vt.",
       "definition": "对……置之不理 n. 忽视",
       "frequency": 9386,
@@ -103,7 +103,7 @@
     },
     {
       "word": "regardless",
-      "phonetic": "rɪ'ga:dlis",
+      "phonetic": "ɹɪˈɡɑːd.lɪs",
       "pos": "adv.",
       "definition": "不顾一切地",
       "frequency": 2922,
@@ -120,7 +120,7 @@
     },
     {
       "word": "regarding",
-      "phonetic": "rɪ'ga:dŋ ",
+      "phonetic": "ɹɪˈɡɑɹdɪŋ",
       "pos": "prep.",
       "definition": "关于〔尤用于信函或演说中〕2172",
       "mnemonic": "regard (与 … … 有关)+ing→关于；就……而言",
@@ -132,7 +132,7 @@
     },
     {
       "word": "guarantee",
-      "phonetic": ",gæron'ti:",
+      "phonetic": "ˌɡæɹənˈtiː",
       "pos": "vt.",
       "definition": "确保；保证……必定发生；担保 n. 保证；保修 单；担保物",
       "frequency": 2798,
@@ -163,7 +163,7 @@
     },
     {
       "word": "warrant",
-      "phonetic": "'worənt, ",
+      "phonetic": "ˈwɑɹənt",
       "pos": "vt.",
       "definition": "保证；保护；使……显得必要/适当 n. 搜查令；拘捕 令",
       "frequency": 6154,
@@ -177,7 +177,7 @@
     },
     {
       "word": "warranty",
-      "phonetic": "'wor(a)nti",
+      "phonetic": "ˈwɒ.ɹən.ti",
       "pos": "n.",
       "definition": "( 产品的)保用证；保修单",
       "frequency": 9807,
@@ -206,7 +206,7 @@
     },
     {
       "word": "garage",
-      "phonetic": "'gaæra:3,'gæridʒ",
+      "phonetic": "ɡəˈɹɑː(d)ʒ",
       "pos": "n.",
       "definition": "车库；汽车修理厂 vt.将(汽车)开进[停放在]车 库",
       "frequency": 3237,
@@ -219,7 +219,7 @@
     },
     {
       "word": "garment",
-      "phonetic": "'ga:m(ə)nt",
+      "phonetic": "ˈɡɑː.mənt",
       "pos": "n.",
       "definition": "衣服(尤用于衣服生产和销售的领域)6195",
       "mnemonic": "gar-(=wer-: 保护；遮蔽)+-ment ( 名词后缀) → 其保护遮蔽作用 的衣服",
@@ -232,7 +232,7 @@
     },
     {
       "word": "garnish",
-      "phonetic": "'ga:ntʃ",
+      "phonetic": "ˈɡɑːnɪʃ",
       "pos": "n.",
       "definition": "装饰菜 vt. 加饰菜于",
       "frequency": 9691,
@@ -246,7 +246,7 @@
     },
     {
       "word": "garrison",
-      "phonetic": "'gæris(a)n",
+      "phonetic": "ˈɡæɹɪsən",
       "pos": "n.",
       "definition": "卫戍部队；卫戍区 vt. 派兵驻守",
       "frequency": 14498,

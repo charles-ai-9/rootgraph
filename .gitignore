@@ -22,3 +22,4 @@ data/rootgraph.db
 .ocr-tmp-test/
 # 数据备份
 backups/
+scripts/us-phonetics-cache.json
