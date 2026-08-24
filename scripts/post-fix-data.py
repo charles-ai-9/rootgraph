@@ -258,6 +258,45 @@ def split_trib_from_forc() -> None:
         print(f"  post-fix: forc 族移除 {before - len(forc['words'])} 个 trib 词")
 
 
+def recover_missing_words() -> None:
+    """幂等补录解析漏检的词条（scripts/manual-data/missing-words.json）。
+
+    结构：{教材: {族id: [词条...]}}。每次重导后把表中词条合并进对应族；
+    词条已存在则跳过。新增补录只需在表里加条目，无需改代码（可复用）。
+    """
+    src = MANUAL_DATA / "missing-words.json"
+    if not src.exists():
+        return
+    table = json.loads(src.read_text(encoding="utf-8"))
+    for tb, families in table.items():
+        if not isinstance(families, dict):
+            continue
+        for fid, entries in families.items():
+            if not isinstance(entries, list):
+                continue
+            target = ROOT / "data" / tb / f"{fid}.json"
+            if not target.exists():
+                continue
+            fam = load(target)
+            existing = {w.get("word", "").lower() for w in fam.get("words", [])}
+            added = [e for e in entries if e.get("word", "").lower() not in existing]
+            if added:
+                fam.setdefault("words", []).extend(added)
+                save(target, fam)
+                print(f"  post-fix: 补录 {tb}/{fid} {[e['word'] for e in added]}")
+            # 同步 index.json 的 wordCount
+            idx_path = ROOT / "data" / tb / "index.json"
+            if idx_path.exists():
+                idx = load(idx_path)
+                changed = False
+                for item in idx:
+                    if item.get("id") == fid and item.get("file", "").startswith(fid):
+                        item["wordCount"] = len(fam.get("words", []))
+                        changed = True
+                if changed:
+                    save(idx_path, idx)
+
+
 def apply_american_phonetics() -> None:
     """全库音标替换为美式 IPA（scripts/manual-data/phonetic-american.json，AI 生成，幂等重放）"""
     table_path = MANUAL_DATA / "phonetic-american.json"
@@ -293,6 +332,7 @@ def main() -> None:
     split_trib_from_forc()
     ensure_family_metadata()
     remove_null_fields()
+    recover_missing_words()
     apply_american_phonetics()
     print("post-fix 完成")
 

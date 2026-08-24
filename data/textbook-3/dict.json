@@ -1262,6 +1262,34 @@
       ],
       "examples": [],
       "rootHint": "dict"
+    },
+    {
+      "word": "didactic",
+      "phonetic": "daɪ.ˈdæk.tɪk",
+      "pos": "adj.",
+      "definition": "教诲的；道德说教的；好教训人的",
+      "frequency": 17675,
+      "mnemonic": "didact(=teach;教导)+-ic(形容词后缀)→教诲的；好教训人的",
+      "collocations": [
+        "didactic art: 道德说教艺术"
+      ],
+      "etymology": "来自希腊语 didaktos, 教导，教学艺术。后词义贬义化。",
+      "examples": [],
+      "rootHint": "dict"
+    },
+    {
+      "word": "judge",
+      "phonetic": "dʒʌdʒ",
+      "pos": "n.",
+      "definition": "法官；裁判员；鉴定人；评判；判断；估计",
+      "frequency": 1119,
+      "mnemonic": "来自古法语 jugier，判断，审判，来自拉丁语 iudicare，词源同 just, justice。dicere，说，词源同 dictate。即依法进行判断，审理。",
+      "collocations": [
+        "judging by, judging from: 根据……判断"
+      ],
+      "etymology": "来自古法语 jugier, 判断，审判，来自拉丁语 iudicare, 判断，审判，来自 ius, 正义、公理、法律，词源同 just, justice。dicere, 说，词源同 dictate, diction。",
+      "examples": [],
+      "rootHint": "dict"
     }
   ]
 }
