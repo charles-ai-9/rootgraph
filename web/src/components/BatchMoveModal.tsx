@@ -160,6 +160,9 @@ export function BatchMoveModal({
             }}
             placeholder="搜索首页词根 / 我的词根，或输入新词根名创建…"
             aria-label="搜索或新建词根"
+            spellCheck={false}
+            autoCorrect="off"
+            autoCapitalize="off"
           />
         </div>
 

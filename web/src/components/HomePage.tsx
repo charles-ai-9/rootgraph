@@ -16,6 +16,7 @@ interface HomePageProps {
   getFamilyMeta: (key: string) => FamilyMeta | undefined;
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => UserFamily;
+  updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn'>>) => void;
   moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
@@ -29,6 +30,7 @@ export function HomePage({
   getFamilyMeta,
   userFamilies,
   createUserFamily,
+  updateUserFamily,
   moveWordsToUserFamily,
   removeUserFamily,
   getUserFamilyWords,
@@ -46,6 +48,10 @@ export function HomePage({
   const [newRootName, setNewRootName] = useState('');
   const [newRootZh, setNewRootZh] = useState('');
   const [newRootEn, setNewRootEn] = useState('');
+  /** 编辑我的词根（如修正输入法自动纠错的词根名） */
+  const [editFamily, setEditFamily] = useState<UserFamily | null>(null);
+  const [editRootsText, setEditRootsText] = useState('');
+  const [editZh, setEditZh] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
   const lastTopTapRef = useRef(0);
 
@@ -376,6 +382,20 @@ export function HomePage({
                 </button>
                 <button
                   type="button"
+                  className="user-family-edit"
+                  title="编辑词根"
+                  aria-label={`编辑 ${f.id}`}
+                  onClick={(e) => {
+                    e.stopPropagation();
+                    setEditFamily(f);
+                    setEditRootsText(f.roots.join('，'));
+                    setEditZh(f.meaningZh ?? '');
+                  }}
+                >
+                  ✎
+                </button>
+                <button
+                  type="button"
                   className="user-family-del"
                   title="删除词根"
                   aria-label={`删除 ${f.id}`}
@@ -410,6 +430,9 @@ export function HomePage({
                 value={newRootName}
                 onChange={(e) => setNewRootName(e.target.value)}
                 placeholder="eco，econ"
+                spellCheck={false}
+                autoCorrect="off"
+                autoCapitalize="off"
               />
             </div>
             <div className="family-meta-field">
@@ -442,6 +465,58 @@ export function HomePage({
                 创建
               </button>
               <button type="button" className="family-meta-cancel" onClick={() => setCreateOpen(false)}>
+                取消
+              </button>
+            </div>
+          </div>
+        </div>
+      )}
+
+      {editFamily && (
+        <div className="affix-modal-backdrop" onClick={() => setEditFamily(null)} role="presentation">
+          <div className="user-family-create" role="dialog" aria-modal="true" onClick={(e) => e.stopPropagation()}>
+            <h3 className="user-family-create-title">编辑词根</h3>
+            <div className="family-meta-field">
+              <label htmlFor="edit-root-name">词根（逗号分隔多个变体，如 jus，jud）</label>
+              <input
+                id="edit-root-name"
+                className="family-meta-input"
+                value={editRootsText}
+                onChange={(e) => setEditRootsText(e.target.value)}
+                placeholder="jus，jud"
+                spellCheck={false}
+                autoCorrect="off"
+                autoCapitalize="off"
+              />
+            </div>
+            <div className="family-meta-field">
+              <label htmlFor="edit-root-zh">中文释义</label>
+              <input
+                id="edit-root-zh"
+                className="family-meta-input"
+                value={editZh}
+                onChange={(e) => setEditZh(e.target.value)}
+                placeholder="法律；公正"
+              />
+            </div>
+            <div className="family-meta-editor-actions">
+              <button
+                type="button"
+                className="family-meta-save"
+                onClick={() => {
+                  const roots = editRootsText
+                    .split(/[，,、]/)
+                    .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
+                    .filter(Boolean);
+                  if (roots.length && editFamily) {
+                    updateUserFamily(editFamily.id, { roots, meaningZh: editZh.trim() });
+                  }
+                  setEditFamily(null);
+                }}
+              >
+                保存
+              </button>
+              <button type="button" className="family-meta-cancel" onClick={() => setEditFamily(null)}>
                 取消
               </button>
             </div>

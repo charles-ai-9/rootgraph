@@ -122,6 +122,9 @@ export function AttributionModal({
             }}
             placeholder="输入词根名，如 jus · jud；或选已有词根"
             aria-label="搜索或新建词根"
+            spellCheck={false}
+            autoCorrect="off"
+            autoCapitalize="off"
           />
         </div>
 

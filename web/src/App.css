@@ -5103,6 +5103,25 @@ textarea {
   white-space: nowrap;
 }
 
+.user-family-edit {
+  flex-shrink: 0;
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--text-light);
+  font-size: 0.95rem;
+  line-height: 1;
+  cursor: pointer;
+  transition: color 0.12s, background 0.12s;
+}
+
+.user-family-edit:hover {
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
 .user-family-del {
   flex-shrink: 0;
   width: 32px;
@@ -5123,7 +5142,8 @@ textarea {
 }
 
 @media (hover: none) {
-  .user-family-del {
+  .user-family-del,
+  .user-family-edit {
     min-height: 44px;
     min-width: 44px;
   }

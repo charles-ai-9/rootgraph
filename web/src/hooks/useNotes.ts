@@ -250,6 +250,24 @@ export function useNotes() {
     });
   }, []);
 
+  /** 编辑我的词根（词根名/释义；保留 id，笔记与挂载词不受影响） */
+  const updateUserFamily = useCallback(
+    (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn'>>) => {
+      setStore((prev) => {
+        const cur = prev.userFamilies[id];
+        if (!cur) return prev;
+        return {
+          ...prev,
+          userFamilies: {
+            ...prev.userFamilies,
+            [id]: { ...cur, ...data },
+          },
+        };
+      });
+    },
+    [],
+  );
+
   /** 批量把词挂入用户词根族（词条快照 + 来源标记，从原族排除显示） */
   const moveWordsToUserFamily = useCallback(
     (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => {
@@ -443,6 +461,7 @@ export function useNotes() {
     setFamilyMeta,
     getUserFamilies,
     createUserFamily,
+    updateUserFamily,
     removeUserFamily,
     moveWordsToUserFamily,
     removeWordFromUserFamily,
