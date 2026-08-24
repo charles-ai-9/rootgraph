@@ -287,7 +287,7 @@
     "semanticLabel": "接触；触摸",
     "source": "textbook-2",
     "titleZh": "接触；触摸",
-    "wordCount": 22,
+    "wordCount": 23,
     "textbook": "textbook-2"
   },
   {
@@ -448,7 +448,7 @@
     "semanticLabel": "遗传、生，还引申表示粘、黏的含义，因为遗",
     "source": "textbook-2",
     "titleZh": "遗传、生，还引申表示粘、黏的含义，因为遗",
-    "wordCount": 139,
+    "wordCount": 16,
     "textbook": "textbook-2"
   },
   {
@@ -456,15 +456,15 @@
     "chapterOrder": 113,
     "file": "leg.json",
     "id": "leg",
-    "meaningEn": "law",
-    "meaningZh": "法律",
+    "meaningEn": "",
+    "meaningZh": "",
     "roots": [
       "leg"
     ],
-    "semanticLabel": "法律",
+    "semanticLabel": "",
     "source": "textbook-2",
-    "titleZh": "法律",
-    "wordCount": 59,
+    "titleZh": "",
+    "wordCount": 182,
     "textbook": "textbook-2"
   },
   {
@@ -2113,8 +2113,7 @@
     "source": "textbook-6",
     "titleZh": "松开，使放松，分开，割裂",
     "wordCount": 11,
-    "textbook": "textbook-6",
-    "legacyId": "solv-2"
+    "textbook": "textbook-6"
   },
   {
     "chapter": "18",
@@ -2218,8 +2217,7 @@
     "source": "textbook-6",
     "titleZh": "管理；监管；支配；控制。",
     "wordCount": 8,
-    "textbook": "textbook-6",
-    "legacyId": "reg-3"
+    "textbook": "textbook-6"
   },
   {
     "chapter": "24",
@@ -2251,8 +2249,7 @@
     "source": "textbook-6",
     "titleZh": "move in straight line：横着走。",
     "wordCount": 2,
-    "textbook": "textbook-6",
-    "legacyId": "rog-2"
+    "textbook": "textbook-6"
   },
   {
     "chapter": "26",
@@ -2381,8 +2378,7 @@
     "source": "textbook-6",
     "titleZh": "合适；得体；合宜",
     "wordCount": 4,
-    "textbook": "textbook-6",
-    "legacyId": "dec-2"
+    "textbook": "textbook-6"
   },
   {
     "chapter": "36",

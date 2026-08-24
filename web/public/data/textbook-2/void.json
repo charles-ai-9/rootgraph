@@ -25,7 +25,7 @@
 
       ],
       "frequency" : 6918,
-      "phonetic" : "vɔɪd",
+      "phonetic" : "vɒɪd",
       "pos" : "adj.",
       "rootHint" : "void",
       "word" : "void"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 9989,
       "mnemonic" : "de(加强语气)+void(空)→完全空的→缺乏的；全无的",
-      "phonetic" : "dɪˈvɔɪd",
+      "phonetic" : "dɪˈvɒɪd",
       "pos" : "adj.",
       "rootHint" : "void",
       "word" : "devoid"
@@ -57,7 +57,7 @@
       ],
       "frequency" : 911,
       "mnemonic" : "a(加强语气)+void(空)→使……成空→消失；避开，避免(即“使……",
-      "phonetic" : "əˈvɔɪd",
+      "phonetic" : "əˈvɒɪd",
       "pos" : "vt.",
       "rootHint" : "void",
       "word" : "avoid"
@@ -72,7 +72,7 @@
       ],
       "frequency" : 9369,
       "mnemonic" : "avoid(避免)+ance(名词后缀)→避免；逃避；",
-      "phonetic" : "əˈvɑɪdəns",
+      "phonetic" : "əˈvɒɪdəns",
       "pos" : "n.",
       "rootHint" : "void",
       "word" : "avoidance"
@@ -87,7 +87,7 @@
       ],
       "frequency" : 11885,
       "mnemonic" : "un(表否定)+avoid(避免)+able(可以……的)→不可避免的",
-      "phonetic" : "ʌnəˈvɑɪdəb(ə)l",
+      "phonetic" : "ʌnəˈvɒɪdəb(ə)l",
       "pos" : "adj.",
       "rootHint" : "void",
       "word" : "unavoidable"
@@ -105,7 +105,7 @@
       ],
       "frequency" : 3597,
       "mnemonic" : "in(表否定)+evit(=avoid：避免；元音a→e是最合理变化，首辅音均是\nv，尾辅音t、d音似，二者含义相同)+able(能……的)→不能避免的→",
-      "phonetic" : "ɪnˈɛvɪtəbəl",
+      "phonetic" : "ɪnˈevɪtəb(ə)l",
       "pos" : "adj.",
       "rootHint" : "void",
       "word" : "inevitable"
@@ -120,7 +120,7 @@
       ],
       "frequency" : 14573,
       "mnemonic" : "in(表否定)+evit(=avoid：避免)+able(能……的)+ity (表性质)→不能避\n免→必然性；不可逃避",
-      "phonetic" : "ɪˌnɛvɪtəˈbɪlɪti",
+      "phonetic" : "ɪnˌevɪtəˈbɪlətɪ",
       "pos" : "n.",
       "rootHint" : "void",
       "word" : "inevitability"
@@ -135,7 +135,7 @@
       ],
       "frequency" : 4701,
       "mnemonic" : "inevitable+ly(表副词“……地”)",
-      "phonetic" : "ɪˈnɛvətəbli",
+      "phonetic" : "ɪˈnevɪtəblɪ;ɪnˈevɪtəblɪ",
       "pos" : "adv.",
       "rootHint" : "void",
       "word" : "inevitably"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 6858,
       "mnemonic" : "vac(空)+ant(形容词后缀)→空的；空缺的",
-      "phonetic" : "ˈveɪkənt",
+      "phonetic" : "ˈveɪk(ə)nt",
       "pos" : "adj.",
       "rootHint" : "vac",
       "word" : "vacant"
@@ -181,7 +181,7 @@
       ],
       "frequency" : 10539,
       "mnemonic" : "vac(空)+ancy(名词后缀)→空缺；空白；空缺职位(=opening：空缺；",
-      "phonetic" : "ˈveɪkənsi",
+      "phonetic" : "ˈveɪk(ə)nsɪ",
       "pos" : "n.",
       "rootHint" : "vac",
       "word" : "vacancy"
@@ -196,7 +196,7 @@
       ],
       "frequency" : 2645,
       "mnemonic" : "vac(空)+ation(=ate+ion：复合名词后缀)→空闲、假期",
-      "phonetic" : "veɪˈkeɪʃən",
+      "phonetic" : "vəˈkeɪʃn",
       "pos" : "n.",
       "rootHint" : "vac",
       "word" : "vacation"
@@ -211,7 +211,7 @@
       ],
       "frequency" : 18710,
       "mnemonic" : "vacation(度假)+er (人)→度假的人→度假者，休假者",
-      "phonetic" : "vəˈkeɪ.ʃən.ə(ɹ)",
+      "phonetic" : "vəˈkeiʃnə(r)",
       "pos" : "n.",
       "rootHint" : "vac",
       "word" : "vacationer"
@@ -226,7 +226,7 @@
       ],
       "frequency" : 4987,
       "mnemonic" : "vacu(空)+um(名词后缀)→真空、真空吸尘器；用真空吸尘器清扫",
-      "phonetic" : "ˈvæ.kjuː.əm",
+      "phonetic" : "ˈvækjʊəm",
       "pos" : "n.",
       "rootHint" : "vac",
       "word" : "vacuum"
@@ -241,7 +241,7 @@
       ],
       "frequency" : 7028,
       "mnemonic" : "e(出来)+vacu(空)+ate(使动词)→使空出来→排空、撤退(“撤退”后，",
-      "phonetic" : "ɪˈvæk.ju.eɪt",
+      "phonetic" : "ɪˈvækjʊeɪt",
       "pos" : "vt.",
       "rootHint" : "vac",
       "word" : "evacuate"
@@ -319,7 +319,7 @@
       ],
       "frequency" : 9726,
       "mnemonic" : "van(空)+-ity(名词后缀)→空虚；无价值的东西",
-      "phonetic" : "ˈvæ.nɪ.ti",
+      "phonetic" : "ˈvænəti",
       "pos" : "n.",
       "rootHint" : "van",
       "word" : "vanity"

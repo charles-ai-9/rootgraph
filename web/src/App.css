@@ -5337,6 +5337,16 @@ textarea {
   white-space: nowrap;
 }
 
+.batch-modal-option-badge {
+  flex-shrink: 0;
+  font-size: 0.72rem;
+  font-weight: 600;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: var(--surface-2, rgba(127, 127, 127, 0.12));
+  color: var(--text-muted);
+}
+
 .batch-modal-option-meaning {
   flex: 1;
   min-width: 0;

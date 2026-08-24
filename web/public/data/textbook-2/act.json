@@ -21,7 +21,7 @@
 
       ],
       "frequency" : 840,
-      "phonetic" : "æk",
+      "phonetic" : "ækt",
       "pos" : "vt.",
       "rootHint" : "act",
       "word" : "act"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 503,
       "mnemonic" : "act(做；行动)+ion (名词后缀；)→行动",
-      "phonetic" : "ˈæk.ʃən",
+      "phonetic" : "ˈækʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "action"
@@ -51,7 +51,7 @@
       ],
       "frequency" : 14928,
       "mnemonic" : "in(不)+action(活动)→不活动;",
-      "phonetic" : "ɪnˈækʃən",
+      "phonetic" : "ɪnˈækʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "inaction"
@@ -66,7 +66,7 @@
       ],
       "frequency" : 1451,
       "mnemonic" : "act(做；行动)+ive (形容词后缀，表示“大，多”)→行动很多的→主",
-      "phonetic" : "ˈæk.tɪv",
+      "phonetic" : "ˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "active"
@@ -111,7 +111,7 @@
       ],
       "frequency" : 7215,
       "mnemonic" : "active(积极的)+ism(主义)→积极主义→行动主义",
-      "phonetic" : "ˈæk.tɪ.vɪ.zəm̩",
+      "phonetic" : "ˈæktɪvɪz(ə)m",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "activism"
@@ -126,7 +126,7 @@
       ],
       "frequency" : 2618,
       "mnemonic" : "active(积极的)+ist(人)→积极的人→积极分子",
-      "phonetic" : "ˈæk.tɪ.vɪst",
+      "phonetic" : "ˈæktɪvɪst",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "activist"
@@ -141,7 +141,7 @@
       ],
       "frequency" : 538,
       "mnemonic" : "active(积极的)+ity(名词后缀)→积极；活跃；活动",
-      "phonetic" : "ækˈtɪ.və.ti",
+      "phonetic" : "ækˈtɪvətɪ",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "activity"
@@ -171,7 +171,7 @@
 
       ],
       "mnemonic" : "act(做；行动)+ing (……的\/名词后缀)→行动",
-      "phonetic" : "ˈæk.tɪŋ",
+      "phonetic" : "ˈæktɪŋ",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "acting"
@@ -186,7 +186,7 @@
       ],
       "frequency" : 1507,
       "mnemonic" : "act(表演；行动)+or (人)→表演的人→演员；行动者",
-      "phonetic" : "ˈæk.tɚ",
+      "phonetic" : "ˈæktə",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "actor"
@@ -201,7 +201,7 @@
       ],
       "frequency" : 3263,
       "mnemonic" : "act(表演；行动)+ress (名词后缀；表女性)→表演的女性→女演员",
-      "phonetic" : "ˈak.tɹəs",
+      "phonetic" : "ˈæktrɪs",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "actress"
@@ -216,7 +216,7 @@
       ],
       "frequency" : 1752,
       "mnemonic" : "act(活动；行动)+ual(……的)→正在活动的事情→真实的",
-      "phonetic" : "ˈæk(t)ʃ(əw)əl",
+      "phonetic" : "ˈæktʃʊəl;-tjʊəl",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "actual"
@@ -231,7 +231,7 @@
       ],
       "frequency" : 397,
       "mnemonic" : "actual(真实的；实际的)+ly(……地)→真实地；实际地",
-      "phonetic" : "ˈæk.(t)ʃu.ə.li",
+      "phonetic" : "ˈæktʃuəli",
       "pos" : "adv.",
       "rootHint" : "act",
       "word" : "actually"
@@ -246,7 +246,7 @@
       ],
       "frequency" : 15663,
       "mnemonic" : "actual(真实的；实际的)+ity(名词后缀)→现实；事实",
-      "phonetic" : "ˌæktjuˈælɪti",
+      "phonetic" : "æktjʊˈælɪtɪ;-tʃʊ-",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "actuality"
@@ -261,7 +261,7 @@
       ],
       "frequency" : 4388,
       "mnemonic" : "inter(在……之间)+act(做；影响=act on)→相互间的作用、影响→相互",
-      "phonetic" : "ɪntəɹˈækt",
+      "phonetic" : "ɪntərˈækt",
       "pos" : "vi.",
       "rootHint" : "act",
       "word" : "interact"
@@ -276,7 +276,7 @@
       ],
       "frequency" : 2090,
       "mnemonic" : "interact(相互作用)+ion(名词后缀)→相互作用",
-      "phonetic" : "ˌɪntəɹˈækʃən",
+      "phonetic" : "ɪntərˈækʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "interaction"
@@ -291,7 +291,7 @@
       ],
       "frequency" : 5036,
       "mnemonic" : "interact(相互作用)+ive(……的)→相互作用的",
-      "phonetic" : "ɪntɚˈæktɪv",
+      "phonetic" : "ɪntərˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "interactive"
@@ -308,7 +308,7 @@
       ],
       "frequency" : 1023,
       "mnemonic" : "ag(=act：做)+ent(人)→帮其他人做事情的人→代理人",
-      "phonetic" : "ˈeɪ.dʒənt",
+      "phonetic" : "ˈeɪdʒ(ə)nt",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "agent"
@@ -323,7 +323,7 @@
       ],
       "frequency" : 695,
       "mnemonic" : "ag(=act：做)+ency(名词后缀)→帮其他人做事情的机构→代理商、",
-      "phonetic" : "ˈeɪ.dʒən.si",
+      "phonetic" : "ˈeɪdʒ(ə)nsɪ",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "agency"
@@ -338,7 +338,7 @@
       ],
       "frequency" : 1527,
       "mnemonic" : "colle(=collect：聚集、集合)+ag(=act：做)+ue(名词后缀)→聚集在一起\n做事情的人→同事、同僚",
-      "phonetic" : "ˈkɑliɡ",
+      "phonetic" : "ˈkɒliːg",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "colleague"
@@ -353,7 +353,7 @@
       ],
       "frequency" : 2149,
       "mnemonic" : "ag(=act：做)+enda(名词后缀)→(特指会议上)要做的事情→议程",
-      "phonetic" : "əˈdʒɛn.də",
+      "phonetic" : "əˈdʒendə",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "agenda"
@@ -368,7 +368,7 @@
       ],
       "frequency" : 4862,
       "mnemonic" : "fat(肥的；丰富的；很多的)+ig(=ag：做)+ue(名词后缀)→做的事情太\n多→劳累、疲劳",
-      "phonetic" : "fəˈtiːɡ",
+      "phonetic" : "fəˈtiːg",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "fatigue"
@@ -382,7 +382,7 @@
 
       ],
       "mnemonic" : "trans(穿、转)+act(做、做事)+ion(名词后缀)→做转手(买卖)→交易",
-      "phonetic" : "tɹænˈzækʃən",
+      "phonetic" : "trænˈzækʃ(ə)n;trɑːn-;-ˈsæk-",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "transaction"
@@ -397,7 +397,7 @@
       ],
       "frequency" : 6202,
       "mnemonic" : "active(积极的)+ate (使)→使积极的→使活动；激活",
-      "phonetic" : "ˈæktɪˌveɪt",
+      "phonetic" : "ˈæktɪveɪt",
       "pos" : "vt.",
       "rootHint" : "act",
       "word" : "activate"
@@ -412,7 +412,7 @@
       ],
       "frequency" : 13492,
       "mnemonic" : "activate(激活)+ion (名词后缀)→激活",
-      "phonetic" : "æktɪˈveɪʃən",
+      "phonetic" : "ˌæktɪˈveɪʃən",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "activation"
@@ -427,7 +427,7 @@
       ],
       "frequency" : 10309,
       "mnemonic" : "pro(在前；向前)+active(积极的)→积极在事前行动→预先采取行动的",
-      "phonetic" : "proʊˈæktɪv",
+      "phonetic" : "prəʊˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "proactive"
@@ -442,7 +442,7 @@
       ],
       "frequency" : 18290,
       "mnemonic" : "hyper(超过的；多的)+active(积极的；主动的)→积极的过头→过分活",
-      "phonetic" : "ˈhaɪp.ə(ɹ)ˌæk.tɪv",
+      "phonetic" : "haɪpərˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "hyperactive"
@@ -473,7 +473,7 @@
       ],
       "frequency" : 8054,
       "mnemonic" : "radi(=radiate辐射的)+active(活性的；起作用的)→辐射起作用的→有",
-      "phonetic" : "ˌɹeɪdioʊˈaktɪv",
+      "phonetic" : "ˌreɪdɪəʊˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "radioactive"
@@ -488,7 +488,7 @@
       ],
       "frequency" : 20145,
       "mnemonic" : "retro(向后；往回)+active(起作用的)→往回还起作用的→有追溯效力",
-      "phonetic" : "ˌɹɛ.tɹoʊˈæk.tɪv",
+      "phonetic" : "retrəʊˈæktɪv",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "retroactive"
@@ -503,7 +503,7 @@
       ],
       "frequency" : 2689,
       "mnemonic" : "re (回)+act(做；行动)→行动做出回应→回应；反应；反抗；起反",
-      "phonetic" : "ɹiːˈækt",
+      "phonetic" : "rɪˈækt",
       "pos" : "vi.",
       "rootHint" : "act",
       "word" : "react"
@@ -533,7 +533,7 @@
       ],
       "frequency" : 1416,
       "mnemonic" : "react (反应；反作用)+ion(名词后缀)→反应；反作用",
-      "phonetic" : "ɹiˈækʃən",
+      "phonetic" : "rɪˈækʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "reaction"
@@ -548,7 +548,7 @@
       ],
       "frequency" : 14325,
       "mnemonic" : "reaction (反动)+ary(……的或名词后缀，表“人”)→反动的；反动",
-      "phonetic" : "ɹiˈækʃən(ə)ɹi",
+      "phonetic" : "rɪˈækʃ(ə)n(ə)rɪ",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "reactionary"
@@ -563,7 +563,7 @@
       ],
       "frequency" : 6408,
       "mnemonic" : "react (反应；反作用)+or(人\/物)→反应者→起反应的人；反应器",
-      "phonetic" : "ɹiːˈæktə",
+      "phonetic" : "rɪˈæktə",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "reactor"
@@ -578,7 +578,7 @@
       ],
       "frequency" : 18029,
       "mnemonic" : "actuat(=actuate：激励；驱动)+or→激励者；驱动器",
-      "phonetic" : "ˈæk.tjuː.eɪt.ə(ɹ)",
+      "phonetic" : "ˈæktjʊeɪtə",
       "pos" : "n.",
       "rootHint" : "act",
       "word" : "actuator"
@@ -594,8 +594,7 @@
       "frequency" : 16675,
       "pos" : "n.",
       "rootHint" : "act",
-      "word" : "class-action",
-      "phonetic" : "ˌklæsˈækʃn"
+      "word" : "class-action"
     },
     {
       "collocations" : [
@@ -654,8 +653,7 @@
       "mnemonic" : "re (又；再)+enactment (制定)→重新制定",
       "pos" : "n.",
       "rootHint" : "act",
-      "word" : "re-enactment",
-      "phonetic" : "ˌriːɪˈnæktmənt"
+      "word" : "re-enactment"
     },
     {
       "collocations" : [
@@ -667,7 +665,7 @@
       ],
       "frequency" : 12480,
       "mnemonic" : "counter(相反；相对)+act(做)→相对的行为→抵消；阻碍",
-      "phonetic" : "ˈkaʊntəɹˌækt",
+      "phonetic" : "kaʊntərˈækt",
       "pos" : "vt.",
       "rootHint" : "act",
       "word" : "counteract"
@@ -683,7 +681,7 @@
       ],
       "frequency" : 3372,
       "mnemonic" : "ex(加强)+act(做)→不断地做就会越来越精确→精确的",
-      "phonetic" : "ɪɡˈzækt",
+      "phonetic" : "ɪgˈzækt;eg-",
       "pos" : "adj.",
       "rootHint" : "act",
       "word" : "exact"
@@ -698,7 +696,7 @@
       ],
       "frequency" : 749,
       "mnemonic" : "exact(精确的)+ly (……地)→精确地",
-      "phonetic" : "ɪɡˈzæk(t)li",
+      "phonetic" : "ɪgˈzæk(t)lɪ",
       "pos" : "adv.",
       "rootHint" : "act",
       "word" : "exactly"

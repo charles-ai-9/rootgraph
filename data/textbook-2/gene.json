@@ -51,7 +51,7 @@
       ],
       "frequency" : 1838,
       "mnemonic" : "gen(=birth, 基因)+d(无意义)+er(名词后缀)→从出生起有带有的差异→",
-      "phonetic" : "ˈdʒɛndə",
+      "phonetic" : "ˈdʒendə",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "gender"
@@ -98,7 +98,7 @@
       ],
       "frequency" : 2744,
       "mnemonic" : "gene(基因、遗传因子)+tic(形容词后缀：的)→基因的、遗传的",
-      "phonetic" : "[d͡ʒəˈnɛtɪk]",
+      "phonetic" : "dʒɪˈnetɪk",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "genetic"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 15154,
       "mnemonic" : "gene(=to give birth, beget，出生)+a+logy(学说)→系谱学(study of family\ntrees)；宗谱；血统",
-      "phonetic" : "ˌdʒiːniˈælədʒi",
+      "phonetic" : "dʒiːnɪˈælədʒɪ;dʒen-",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genealogy"
@@ -165,7 +165,7 @@
       ],
       "frequency" : 806,
       "mnemonic" : "gener(生育)+-al(形容词后缀)→普遍适用，包括全部，与具体的相反\n→大体的；普遍的；整体的；(引申义为)将军(因为将军统帅军队，统",
-      "phonetic" : "ˈd͡ʒɛnəɹəl",
+      "phonetic" : "ˈdʒen(ə)r(ə)l",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "general"
@@ -259,7 +259,7 @@
       ],
       "frequency" : 1206,
       "mnemonic" : "general(大体的，普遍的)+-ly(副词后缀)→笼统地；",
-      "phonetic" : "d͡ʒɛn.əɹ.ə.li",
+      "phonetic" : "ˈdʒen(ə)rəlɪ",
       "pos" : "adv.",
       "rootHint" : "*gene",
       "word" : "generally"
@@ -275,7 +275,7 @@
       ],
       "frequency" : 1704,
       "mnemonic" : "gener(=birth，生、产生)+-ate(复合动词后缀)→产生、发生",
-      "phonetic" : "ˈdʒɛn.ə.ɹeɪt",
+      "phonetic" : "ˈdʒenəreɪt",
       "pos" : "vt.",
       "rootHint" : "*gene",
       "word" : "generate"
@@ -365,7 +365,7 @@
       ],
       "frequency" : 17072,
       "mnemonic" : "degenerate(恶化，堕落)+-ion(名词后缀)→变质，堕落，退化",
-      "phonetic" : "dɪˌdʒɛnəˈɹeɪʃən",
+      "phonetic" : "dɪˌdʒenəˈreɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "degeneration"
@@ -380,7 +380,7 @@
       ],
       "frequency" : 19481,
       "mnemonic" : "degenerate(恶化，堕落)+-ive(形容词后缀)→变性的，退化的",
-      "phonetic" : "dɪˈdʒɛn(ə)ɹətɪv",
+      "phonetic" : "dɪˈdʒen(ə)rətɪv",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "degenerative"
@@ -395,7 +395,7 @@
       ],
       "frequency" : 1029,
       "mnemonic" : "gener(=birth，生、产生)+-ation(动词后缀)→(因为生育、家庭、学",
-      "phonetic" : "ˌd͡ʒɛnəˈɹeɪʃən",
+      "phonetic" : "dʒenəˈreɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "generation"
@@ -437,7 +437,7 @@
 
       ],
       "frequency" : 19422,
-      "phonetic" : "ˈθɝdˌdʒenəˈreʃən",
+      "phonetic" : "ˈθɜːdˌdʒenəˈreʃən",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "third-generation"
@@ -482,7 +482,7 @@
       ],
       "frequency" : 17643,
       "mnemonic" : "pro-(=forth，向前，朝向)+-gen(=gene, to produce, beget生育)+-y(名词\n后缀)子孙→向前生育了很多(孩子)→后裔，后代，成果",
-      "phonetic" : "ˈpɹɑdʒəni",
+      "phonetic" : "ˈprɒdʒənɪ",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "progeny"
@@ -513,7 +513,7 @@
       ],
       "frequency" : 9493,
       "mnemonic" : "en-(=enter，进入)+-gene(生育)+-er(动词后缀)→使产生；使引起",
-      "phonetic" : "ɛnˈdʒɛn.dɚ",
+      "phonetic" : "ɪnˈdʒendə;en-",
       "pos" : "vt.",
       "rootHint" : "*gene",
       "word" : "engender"
@@ -528,7 +528,7 @@
       ],
       "frequency" : 1578,
       "mnemonic" : "engine来自拉丁语ingenium，由in(内在)+gen(产生)+ium(名词后缀)",
-      "phonetic" : "ˈɛnd͡ʒɪn",
+      "phonetic" : "ˈendʒɪn",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "engine"
@@ -543,7 +543,7 @@
       ],
       "frequency" : 2011,
       "mnemonic" : "engine(引擎，发动机)+er(名词后缀)→工程师；设计师；机械师",
-      "phonetic" : "ˌɛnd͡ʒɪˈnɪɹ",
+      "phonetic" : "endʒɪˈnɪə",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "engineer"
@@ -575,7 +575,7 @@
       ],
       "frequency" : 2405,
       "mnemonic" : "engineer(设计，制造)+-ing(名词后缀)→有关设计、制造的学问→工",
-      "phonetic" : "ˌen.dʒɪˈnɪə.ɹɪŋ",
+      "phonetic" : "endʒɪˈnɪərɪŋ",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "engineering"
@@ -591,7 +591,7 @@
       ],
       "frequency" : 8021,
       "mnemonic" : "estro-(=estrus，发情)+-gen(产生)→使发情产生的物质→雌性激素，女",
-      "phonetic" : "ˈiːstɹəd͡ʒən",
+      "phonetic" : "ˈestrədʒən",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "estrogen"
@@ -610,7 +610,7 @@
       ],
       "frequency" : 6544,
       "mnemonic" : "gene(生育，产生)+-ic→非特殊的，没有商标品牌的，包装普通、便\n宜的→通用的，非注册商标的(药等产品)",
-      "phonetic" : "dʒɪˈnɛɹɪk",
+      "phonetic" : "dʒɪˈnerɪk",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "generic"
@@ -633,7 +633,7 @@
       ],
       "frequency" : 3922,
       "mnemonic" : "gener(不自私的，丰富的)+-ous(形容词后缀)→慷慨的，宽厚的，充",
-      "phonetic" : "ˈdʒɛn(ə)ɹəs",
+      "phonetic" : "ˈdʒen(ə)rəs",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "generous"
@@ -648,7 +648,7 @@
       ],
       "frequency" : 8101,
       "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-osity(名词后缀，表多的状态)→\n很多的慷慨→慷慨；宽宏大量；大方",
-      "phonetic" : "ˌd͡ʒɛnəˈɹɑsəti",
+      "phonetic" : "dʒenəˈrɒsətɪ",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "generosity"
@@ -687,7 +687,7 @@
       ],
       "frequency" : 16350,
       "mnemonic" : "gen (=to give birth，产生，起源)+-esis(名词后缀)→万物的起源，发\n生，创始→(事物的)开端，诞生，创始；创世纪",
-      "phonetic" : "ˈd͡ʒɛn.ə.sɪs",
+      "phonetic" : "ˈdʒenɪsɪs",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genesis"
@@ -702,7 +702,7 @@
       ],
       "frequency" : 18074,
       "mnemonic" : "gen(出生)+-ial(形容词后缀)→亲切的；友好的；和蔼的",
-      "phonetic" : "-ni.əl",
+      "phonetic" : "ˈdʒiːnɪəl",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "genial"
@@ -721,7 +721,7 @@
 
       ],
       "frequency" : 19261,
-      "phonetic" : "ˈdʒiː.ni",
+      "phonetic" : "ˈdʒiːnɪ",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genie"
@@ -735,7 +735,7 @@
 
       ],
       "frequency" : 14569,
-      "phonetic" : "ˈdʒɛnətəl",
+      "phonetic" : "ˈdʒenɪt(ə)l",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "genital"
@@ -750,7 +750,7 @@
       ],
       "frequency" : 4105,
       "mnemonic" : "gen(生)+ius(名词后缀)→生下来就有的东西→天赋、天才\ntal(=gen：生、出生)+ent(=ant：名词后缀)→天生下来就有的东西→天",
-      "phonetic" : "ˈdʒi.ni.əs",
+      "phonetic" : "ˈdʒiːnɪəs",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genius"
@@ -765,7 +765,7 @@
       ],
       "frequency" : 7698,
       "mnemonic" : "geno(=gene, 生)+-cide(杀)→把某(群)人活生生的杀害、灭绝了→大",
-      "phonetic" : "ˈd͡ʒɛnəsaɪd",
+      "phonetic" : "ˈdʒenəsaɪd",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genocide"
@@ -785,7 +785,7 @@
       ],
       "frequency" : 7513,
       "mnemonic" : "gen(e)-(=to give birth, beget，生)+-ome(from“chromosome”染色体)→\n出生时就带有的染色体的组合，将一种生物与其他有机体区分开来→",
-      "phonetic" : "dʒɨˈnoʊm",
+      "phonetic" : "ˈdʒiːnəʊm",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genome"
@@ -802,7 +802,7 @@
 
       ],
       "frequency" : 4547,
-      "phonetic" : "(d)ʒɑn.ɹə",
+      "phonetic" : "ˈʒɒnrə",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genre"
@@ -817,7 +817,7 @@
       ],
       "frequency" : 3784,
       "mnemonic" : "gen(出生，基因)+u(连接符号)+ine(形容词后缀)→出生下来就有的→\narti-(工艺、技艺)+fic-(做、制造)+-ial(的)→用人的技艺造出来的→人",
-      "phonetic" : "ˈdʒɛnjuːˌaɪn",
+      "phonetic" : "ˈdʒenjʊɪn",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "genuine"
@@ -834,7 +834,7 @@
       ],
       "frequency" : 11089,
       "mnemonic" : "gen-(基因，遗传)+-us(名词后缀)→具有共同基因特征的动植物→(尤",
-      "phonetic" : "ˈdʒiːnəs",
+      "phonetic" : "ˈdʒiːnəs;ˈdʒenəs",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genus"
@@ -865,7 +865,7 @@
       ],
       "frequency" : 11844,
       "mnemonic" : "in(加强语气)+gen(生产、产生、创造)+ous(形容词后缀，表“大、\n多”)→有很多创造力的，(内心)创造力丰富的→有创造性的、心灵手",
-      "phonetic" : "ɪnˈdʒiːniəs",
+      "phonetic" : "ɪnˈdʒiːnɪəs",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "ingenious"
@@ -880,7 +880,7 @@
 
       ],
       "mnemonic" : "in-(=in，从内心)+gen-(=birth，生)(ingenu=ingenious独创的;灵活的)+-\nity(名词后缀)→从内心生出很多奇思妙想→善于创新；足智多谋",
-      "phonetic" : "ˌɪndʒəˈn(j)uːəti",
+      "phonetic" : "ˌɪndʒɪˈnjuːɪtɪ",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "ingenuity"
@@ -895,7 +895,7 @@
       ],
       "frequency" : 20102,
       "mnemonic" : "gent=gentleman，与gentle同源，绅士都很温柔",
-      "phonetic" : "dʒɛnt",
+      "phonetic" : "dʒent",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "gent"
@@ -913,7 +913,7 @@
       ],
       "frequency" : 16507,
       "mnemonic" : "gent(绅士)+-eel名词后缀→有绅士风格的→有教养的",
-      "phonetic" : "dʒɛnˈtiːl",
+      "phonetic" : "dʒenˈtiːl",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "genteel"
@@ -933,7 +933,7 @@
       ],
       "frequency" : 3421,
       "mnemonic" : "gen-(=to give birth，生)+-tle(形容词后缀)→与生俱来就性情温柔的→",
-      "phonetic" : "ˈdʒɛntl̩",
+      "phonetic" : "ˈdʒent(ə)l",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "gentle"
@@ -948,7 +948,7 @@
       ],
       "frequency" : 2469,
       "mnemonic" : "gentle(温柔的)+man(先生)→性格温柔的先生→绅士",
-      "phonetic" : "[ˈdʒɛɾ̃.ɫ̩.mən]",
+      "phonetic" : "ˈdʒent(ə)lmən",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "gentleman"
@@ -963,7 +963,7 @@
       ],
       "frequency" : 18665,
       "mnemonic" : "gentle(温柔的)+-ness(名词后缀)→温柔",
-      "phonetic" : "ˈd͡ʒɛntl̩nəs",
+      "phonetic" : "ˈdʒɛntlnɪs",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "gentleness"
@@ -978,7 +978,7 @@
       ],
       "frequency" : 2776,
       "mnemonic" : "gent(=gentle)+-ly(副词后缀)→温柔地",
-      "phonetic" : "ˈdʒɛntli",
+      "phonetic" : "ˈdʒentlɪ",
       "pos" : "adv.",
       "rootHint" : "*gene",
       "word" : "gently"
@@ -998,7 +998,7 @@
       ],
       "frequency" : 9465,
       "mnemonic" : "ger-(=gen，生育，萌芽)+m→微生物是生命的最初萌芽形态→细菌，",
-      "phonetic" : "d͡ʒɝm",
+      "phonetic" : "dʒɜːm",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "germ"
@@ -1016,7 +1016,7 @@
       ],
       "frequency" : 8828,
       "mnemonic" : "patho-(=disease，疾病的)+-gen(产生)→产生疾病的(根源)→病原体",
-      "phonetic" : "ˈpæθədʒn̩",
+      "phonetic" : "ˈpæθədʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "pathogen"
@@ -1033,7 +1033,7 @@
       ],
       "frequency" : 18250,
       "mnemonic" : "germin(=a sprout or bud，芽)+ate(动词后缀)→使发芽，形成",
-      "phonetic" : "ˈdʒɝmɪneɪt",
+      "phonetic" : "ˈdʒɜːmɪneɪt",
       "pos" : "vt.",
       "rootHint" : "*gene",
       "word" : "germinate"
@@ -1053,7 +1053,7 @@
       ],
       "frequency" : 16787,
       "mnemonic" : "dis-(否定前缀)+in(=in，在里面，内部出生的)+gen-(生)+-uous(形容词\n后缀)→从里面、心灵内部生出的(意念)是不真诚、不诚实的→不真诚",
-      "phonetic" : "ˌdɪs.ɪn.ˈdʒɛn.ju.əs",
+      "phonetic" : "ˌdɪsɪnˈdʒenjʊəs",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "disingenuous"
@@ -1069,7 +1069,7 @@
       ],
       "frequency" : 11504,
       "mnemonic" : "homo-(=same，同，同一)+-gene-(类型，种属)+-ous(形容词后缀)→生\n来就属于同一种类的→同质的，同种的",
-      "phonetic" : "ˌhoʊ.moʊˈdʒiː.njəs",
+      "phonetic" : "ˌhɒmə(ʊ)ˈdʒiːnɪəs;-ˈdʒen-",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "homogeneous"
@@ -1084,7 +1084,7 @@
       ],
       "frequency" : 16164,
       "mnemonic" : "homogeneous(类型，种属)+-ity(名词后缀)→生来就属于同一种类→同",
-      "phonetic" : "ˌhoʊ.mə.dʒəˈneɪ.ə.ti",
+      "phonetic" : "ˌhɒmə(ʊ)dʒɪˈneɪɪtɪ;-dʒɪˈniːɪtɪ;ˌhəʊm-",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "homogeneity"
@@ -1099,7 +1099,7 @@
       ],
       "frequency" : 13634,
       "mnemonic" : "hetero-(=different，不同的)+-gene-(类型，种属)+-ous(形容词后缀)→\n生来就属于同一种类→同质，同种",
-      "phonetic" : "hɛ.tə.ɹə.ˈdʒiː.niː.əs",
+      "phonetic" : "ˌhet(ə)rə(ʊ)ˈdʒiːnɪəs;-ˈdʒen-",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "heterogeneous"
@@ -1128,7 +1128,7 @@
       ],
       "frequency" : 3875,
       "mnemonic" : "oxy-(=acid，sharp)+-gen(产生的东西)→能强烈地帮助气体燃烧→氧气",
-      "phonetic" : "ˈɑksɪdʒən",
+      "phonetic" : "ˈɒksɪdʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "oxygen"
@@ -1145,7 +1145,7 @@
       ],
       "frequency" : 5967,
       "mnemonic" : "nitro-(用于指硝石，因研究硝石化学性质时认识这种气体而得名)+-\ngen(产生)→在研究硝石的过程中产生的气体",
-      "phonetic" : "ˈnaɪ.tɹə.dʒən",
+      "phonetic" : "ˈnaɪtrədʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "nitrogen"
@@ -1160,7 +1160,7 @@
       ],
       "frequency" : 5167,
       "mnemonic" : "hydro-(水)+-gen(生成)→产生水的，因氢接触氧气生成水而得名→",
-      "phonetic" : "ˈhaɪdɹədʒən",
+      "phonetic" : "ˈhaɪdrədʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "hydrogen"
@@ -1175,7 +1175,7 @@
       ],
       "frequency" : 10443,
       "mnemonic" : "in-(进入)+-nat(=to be born，from root *gene- “give birth, beget”)+e→出",
-      "phonetic" : "ɪˈneɪt",
+      "phonetic" : "ɪˈneɪt;ˈɪneɪt",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "innate"
@@ -1193,7 +1193,7 @@
 
       ],
       "frequency" : 19506,
-      "phonetic" : "ˈdʒɑn.ti",
+      "phonetic" : "ˈdʒɔːntɪ",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "jaunty"

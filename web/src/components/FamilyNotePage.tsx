@@ -6,6 +6,7 @@ import { groupWordsByRoot } from '../utils/family';
 import type { FamilyMeta, UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
+import { loadCatalog } from '../appRoute';
 import { useProgress } from '../hooks/useProgress';
 import { FamilyVariantNav, OVERVIEW_PANEL, VariantStepper, type VariantTab } from './FamilyVariantNav';
 import { DraggableFollowBar } from './DraggableFollowBar';
@@ -131,6 +132,11 @@ export function FamilyNotePage({
 
   const fKey = familyStorageKey(entry.textbook, entry.id);
 
+  useEffect(() => {
+    loadWordIndex().then(setWordIndex);
+    loadCatalog().then(setCatalog).catch(() => setCatalog([]));
+  }, []);
+
   /** 系统词根族：静态 JSON，仅在条目/重试变化时加载（不依赖笔记 store，避免打字触发重取） */
   useEffect(() => {
     if (entry.textbook === 'user') return;
@@ -167,11 +173,6 @@ export function FamilyNotePage({
       setFamilyError(true);
     }
   }, [entry, userFamilies, getUserFamilyWords]);
-
-  useEffect(() => {
-    loadWordIndex().then(setWordIndex);
-    fetch('/data/catalog.json').then((r) => r.json()).then(setCatalog).catch(console.error);
-  }, []);
 
   useEffect(() => {
     if (!showSearch) return;
@@ -413,6 +414,19 @@ export function FamilyNotePage({
     const id = roots[0];
     if (!userFamilies[id]) {
       createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+    }
+    executeBatchMove(id);
+  };
+
+  const batchMoveViaCatalog = (target: CatalogEntry) => {
+    const id = target.id;
+    if (!userFamilies[id]) {
+      createUserFamily({
+        id,
+        roots: target.roots.length ? target.roots : [id],
+        meaningZh: target.meaningZh ?? target.semanticLabel ?? target.titleZh ?? '',
+        meaningEn: target.meaningEn ?? '',
+      });
     }
     executeBatchMove(id);
   };
@@ -839,13 +853,15 @@ export function FamilyNotePage({
       {batchMoveOpen && (
         <BatchMoveModal
           count={batchSelected.size}
-          targets={Object.values(userFamilies)}
-          counts={Object.fromEntries(
+          catalog={catalog}
+          userFamilies={userFamilies}
+          userCounts={Object.fromEntries(
             Object.keys(userFamilies).map((id) => [id, getUserFamilyWords(id).length]),
           )}
           onClose={() => setBatchMoveOpen(false)}
           onMove={executeBatchMove}
           onCreateAndMove={batchCreateAndMove}
+          onMoveViaCatalog={batchMoveViaCatalog}
         />
       )}
 

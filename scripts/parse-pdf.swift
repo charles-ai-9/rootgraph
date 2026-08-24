@@ -140,7 +140,13 @@ func chineseChapterOrder(_ chapter: String) -> Int {
 
 func isSubsectionChapterHeader(_ line: String) -> String? {
     let t = normalizeSpaces(line)
-    // 教材2：leg- 在目录为独立词族（p.139），正文中以「词根"leg-"也有法律…」补充标题出现在 -her 章内
+    // 教材2：leg-/lect- 汇总说明（p.112）— collect / college 等「聚集」义在此节开头
+    if (t.contains("leg-") || t.contains("lect-")),
+       (t.contains("gather") || t.contains("collect") || t.contains("聚集")),
+       t.contains("有") {
+        return "leg"
+    }
+    // 教材2：leg- 法律义（p.139）— legal / legislate 等
     if t.hasPrefix("词根"), t.contains("leg-"), t.contains("也有"), t.contains("法律") {
         return "leg"
     }
@@ -551,8 +557,12 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
         }
 
         if let subRoot = isSubsectionChapterHeader(line) {
-            startChapter(with: line)
-            currentRoots = [subRoot]
+            let inSame = currentRoots.contains(subRoot)
+                || slugify(currentRoots.first ?? "") == subRoot
+            if !inSame {
+                startChapter(with: line)
+                currentRoots = [subRoot]
+            }
             i += 1
             continue
         }
