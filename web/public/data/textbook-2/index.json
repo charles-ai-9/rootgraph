@@ -48,7 +48,7 @@
     "semanticLabel": "接触；触摸",
     "source": "textbook-2",
     "titleZh": "接触；触摸",
-    "wordCount": 22
+    "wordCount": 23
   },
   {
     "chapter": "4",
@@ -200,6 +200,21 @@
     "semanticLabel": "遗传、生，还引申表示粘、黏的含义，因为遗",
     "source": "textbook-2",
     "titleZh": "遗传、生，还引申表示粘、黏的含义，因为遗",
-    "wordCount": 198
+    "wordCount": 139
+  },
+  {
+    "chapter": "13",
+    "chapterOrder": 113,
+    "file": "leg.json",
+    "id": "leg",
+    "meaningEn": "law",
+    "meaningZh": "法律",
+    "roots": [
+      "leg"
+    ],
+    "semanticLabel": "法律",
+    "source": "textbook-2",
+    "titleZh": "法律",
+    "wordCount": 59
   }
 ]

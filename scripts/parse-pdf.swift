@@ -138,6 +138,15 @@ func chineseChapterOrder(_ chapter: String) -> Int {
     return 999
 }
 
+func isSubsectionChapterHeader(_ line: String) -> String? {
+    let t = normalizeSpaces(line)
+    // 教材2：leg- 在目录为独立词族（p.139），正文中以「词根"leg-"也有法律…」补充标题出现在 -her 章内
+    if t.hasPrefix("词根"), t.contains("leg-"), t.contains("也有"), t.contains("法律") {
+        return "leg"
+    }
+    return nil
+}
+
 func isSupplementaryHeader(_ t: String) -> Bool {
     if t.contains("····") { return true }
     if t.contains("还可以表示") { return true }
@@ -187,6 +196,17 @@ func extractMeanings(from header: String) -> (en: String?, zh: String?) {
             zh = normalizeSpaces(zhPart)
         } else {
             en = normalizeSpaces(after)
+        }
+    } else if let also = cleaned.range(of: "也有") {
+        var tail = String(cleaned[also.upperBound...])
+        tail = tail.replacingOccurrences(of: "的含义", with: "").replacingOccurrences(of: "。", with: "")
+        tail = tail.replacingOccurrences(of: "\u{201C}", with: "").replacingOccurrences(of: "\u{201D}", with: "")
+            .replacingOccurrences(of: "\"", with: "")
+        if let law = tail.range(of: "law") {
+            en = "law"
+            zh = normalizeSpaces(String(tail[..<law.lowerBound]))
+        } else {
+            zh = trimLabel(tail)
         }
     } else if let sep = cleaned.range(of: "均表示") ?? cleaned.range(of: "表示") {
         var zhPart = String(cleaned[sep.upperBound...])
@@ -526,6 +546,13 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
 
         if isChapterHeader(line) {
             startChapter(with: line)
+            i += 1
+            continue
+        }
+
+        if let subRoot = isSubsectionChapterHeader(line) {
+            startChapter(with: line)
+            currentRoots = [subRoot]
             i += 1
             continue
         }
