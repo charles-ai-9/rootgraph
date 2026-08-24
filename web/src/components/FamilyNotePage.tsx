@@ -200,17 +200,20 @@ export function FamilyNotePage({
   const familyMeta = getFamilyMeta(fKey);
   const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
 
-  /** 本族被挂入用户词根族的词（不再显示在本族） */
+  /** 本族被挂入用户词根族的词（word → 目标我的词根），不再显示在本族但可跳转查看 */
   const movedWords = useMemo(() => {
-    const set = new Set<string>();
-    for (const id of Object.keys(userFamilies)) {
+    const map = new Map<string, { id: string; label: string }>();
+    for (const [id, uf] of Object.entries(userFamilies)) {
       for (const w of getUserFamilyWords(id)) {
         if (w._from?.textbook === entry.textbook && w._from?.familyId === entry.id) {
-          set.add(w.word);
+          map.set(w.word, {
+            id,
+            label: `${uf.roots.join(' · ')}${uf.meaningZh ? `（${uf.meaningZh}）` : ''}`,
+          });
         }
       }
     }
-    return set;
+    return map;
   }, [userFamilies, entry, getUserFamilyWords]);
 
   const groups = useMemo((): Map<string, WordEntry[]> => {
@@ -355,6 +358,7 @@ export function FamilyNotePage({
       onExamplesNote: (examples) => setWordExamples(wKey, examples),
       onEtymologyNote: (text) => setWordEtymology(wKey, text),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
+      familyFrom: (w as UserFamilyWord)._from,
     };
   };
 
@@ -429,6 +433,29 @@ export function FamilyNotePage({
       });
     }
     executeBatchMove(id);
+  };
+
+  /** 从原族提示条跳转到目标我的词根族 */
+  const openUserFamilyById = (id: string) => {
+    const uf = userFamilies[id];
+    if (!uf) return;
+    onSearchOpen(
+      {
+        id: uf.id,
+        file: '',
+        chapter: '我的',
+        chapterOrder: 999,
+        titleZh: uf.meaningZh ?? '',
+        semanticLabel: uf.meaningZh ?? '',
+        meaningEn: uf.meaningEn ?? '',
+        meaningZh: uf.meaningZh ?? '',
+        roots: uf.roots,
+        wordCount: 0,
+        source: 'user',
+        textbook: 'user',
+      },
+      undefined,
+    );
   };
 
   const renderWordCards = (words: WordEntry[], panelKey: string) => (
@@ -769,6 +796,25 @@ export function FamilyNotePage({
                   followMeaning={followMeaning}
                   hidden={showSearch && Boolean(searchQuery.trim())}
                 />
+              )}
+
+              {!showVariantNav && movedWords.size > 0 && (
+                <div className="family-moved-hint">
+                  <span className="family-moved-hint-label">
+                    已移入你的词根 {movedWords.size} 词：
+                  </span>
+                  {[...movedWords.entries()].map(([word, t]) => (
+                    <button
+                      key={word}
+                      type="button"
+                      className="family-moved-hint-word"
+                      onClick={() => openUserFamilyById(t.id)}
+                      title={`查看我的词根 ${t.label}`}
+                    >
+                      {word} → {t.label}
+                    </button>
+                  ))}
+                </div>
               )}
 
               {!showVariantNav && [...groups.entries()].map(([root, words]) => (

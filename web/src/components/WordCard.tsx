@@ -2,6 +2,7 @@ import { useEffect, useState } from 'react';
 import type { AffixItem, AffixNoteData, WordAffixKind, WordAffixNotes, WordEntry } from '../types';
 import { copyText } from '../utils/clipboard';
 import { haptic } from '../utils/haptics';
+import { textbookLabel } from '../catalog';
 import { speakWord } from '../utils/speech';
 import { analyzeWordRoots, rootsForWord } from '../utils/rootHighlight';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
@@ -40,6 +41,8 @@ export interface WordCardProps {
   onAffixNote: (kind: WordAffixKind, note: AffixNoteData) => void;
   /** 批量挂载模式：头部显示复选框 */
   batchMode?: boolean;
+  /** 词条来源（用户词根族内展示：来自哪个教材/族） */
+  familyFrom?: { textbook: string; familyId: string };
   selected?: boolean;
   onToggleSelect?: (word: string) => void;
 }
@@ -97,6 +100,7 @@ export function WordCard({
   batchMode,
   selected,
   onToggleSelect,
+  familyFrom,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
@@ -297,6 +301,12 @@ export function WordCard({
 
         {expanded && (
           <div className="word-card-body">
+            {familyFrom && (
+              <div className="word-from-hint">
+                来自 {familyFrom.textbook === 'user' ? '我的词根' : `${textbookLabel(familyFrom.textbook)} · ${familyFrom.familyId} 族`}
+              </div>
+            )}
+
             {(word.pos || word.definition) && (
               <div className="word-card-def">
                 {word.pos && <span className="pos-tag">{word.pos}</span>}

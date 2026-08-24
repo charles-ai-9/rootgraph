@@ -5497,3 +5497,55 @@ textarea {
     font-size: 0.85rem;
   }
 }
+
+/* ══ 归属修正感知：搜索徽标 / 原族提示条 / 来源标注 ══ */
+.word-search-hit-my {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+/* 原族：已移入我的词根的提示条 */
+.family-moved-hint {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin: 4px 0 12px;
+  padding: 9px 12px;
+  border: 1px dashed var(--accent);
+  border-radius: 8px;
+  background: var(--accent-soft);
+  font-size: 0.83rem;
+}
+
+.family-moved-hint-label {
+  color: var(--text-muted);
+}
+
+.family-moved-hint-word {
+  padding: 3px 9px;
+  border: none;
+  border-radius: 999px;
+  background: #fff;
+  color: var(--accent);
+  font-size: 0.82rem;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.family-moved-hint-word:hover {
+  background: #e4efff;
+}
+
+/* 我的词根族内：词条来源标注 */
+.word-from-hint {
+  margin: 0 0 8px;
+  font-size: 0.78rem;
+  color: var(--text-light);
+}
+
+@media (hover: none) {
+  .family-moved-hint-word {
+    min-height: 36px;
+  }
+}

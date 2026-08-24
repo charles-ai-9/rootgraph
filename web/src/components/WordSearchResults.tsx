@@ -1,6 +1,7 @@
 import { useEffect, useMemo, useState } from 'react';
 import type { CatalogEntry } from '../types';
 import type { IndexedWord } from '../hooks/useWordIndex';
+import type { UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import { loadWordIndex, searchWords } from '../hooks/useWordIndex';
 import { textbookLabel } from '../catalog';
 import { speakWord } from '../utils/speech';
@@ -9,14 +10,21 @@ interface WordSearchResultsProps {
   query: string;
   textbook: string;
   catalog: CatalogEntry[];
+  userFamilies: Record<string, UserFamily>;
+  getUserFamilyWords: (id: string) => UserFamilyWord[];
   onOpenWord: (entry: CatalogEntry, word: string) => void;
+  /** 打开我的词根族（挂载词直达） */
+  onOpenUserFamily: (f: UserFamily) => void;
 }
 
 export function WordSearchResults({
   query,
   textbook,
   catalog,
+  userFamilies,
+  getUserFamilyWords,
   onOpenWord,
+  onOpenUserFamily,
 }: WordSearchResultsProps) {
   const [index, setIndex] = useState<IndexedWord[]>([]);
   const [ready, setReady] = useState(false);
@@ -35,6 +43,17 @@ export function WordSearchResults({
     () => searchWords(index, query, textbook === 'all' ? undefined : textbook, 24),
     [index, query, textbook],
   );
+
+  /** 词 → 所属我的词根（已挂载的词搜索时直达） */
+  const userFamilyByWord = useMemo(() => {
+    const map = new Map<string, UserFamily>();
+    for (const f of Object.values(userFamilies)) {
+      for (const w of getUserFamilyWords(f.id)) {
+        if (!map.has(w.word)) map.set(w.word, f);
+      }
+    }
+    return map;
+  }, [userFamilies, getUserFamilyWords]);
 
   const catalogByKey = useMemo(() => {
     const map = new Map<string, CatalogEntry>();
@@ -60,12 +79,16 @@ export function WordSearchResults({
       <div className="word-search-list">
         {hits.map((hit) => {
           const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
+          const myFamily = userFamilyByWord.get(hit.word);
           return (
             <button
               key={`${hit.textbook}-${hit.familyId}-${hit.word}`}
               type="button"
               className="word-search-hit"
-              onClick={() => entry && onOpenWord(entry, hit.word)}
+              onClick={() => {
+                if (myFamily) onOpenUserFamily(myFamily);
+                else if (entry) onOpenWord(entry, hit.word);
+              }}
             >
               <span className="word-search-hit-word">{hit.word}</span>
               <button
@@ -82,7 +105,16 @@ export function WordSearchResults({
               </button>
               {hit.phonetic && <span className="word-search-hit-phonetic">/{hit.phonetic}/</span>}
               <span className="word-search-hit-meta">
-                {entry ? `${textbookLabel(hit.textbook)} · ${entry.roots.join('/')}` : textbookLabel(hit.textbook)}
+                {myFamily ? (
+                  <span className="word-search-hit-my">
+                    我的词根 · {myFamily.roots.join('/')}
+                    {myFamily.meaningZh ? `（${myFamily.meaningZh}）` : ''}
+                  </span>
+                ) : entry ? (
+                  `${textbookLabel(hit.textbook)} · ${entry.roots.join('/')}`
+                ) : (
+                  textbookLabel(hit.textbook)
+                )}
               </span>
               {hit.definition && (
                 <span className="word-search-hit-def">

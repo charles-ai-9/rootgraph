@@ -269,7 +269,10 @@ export function HomePage({
         query={filter}
         textbook={textbook}
         catalog={catalog}
+        userFamilies={userFamilies}
+        getUserFamilyWords={getUserFamilyWords}
         onOpenWord={(entry, word) => onOpenFamily(entry, word)}
+        onOpenUserFamily={openUserFamily}
       />
 
       <div className="filter-hint">
