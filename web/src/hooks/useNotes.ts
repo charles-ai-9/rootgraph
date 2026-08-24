@@ -51,6 +51,8 @@ interface NotesStore {
   userFamilies: Record<string, UserFamily>;
   /** 用户词根族挂入的词（userFamilyId → 词条快照数组） */
   userFamilyWords: Record<string, UserFamilyWord[]>;
+  /** 首页词根顺序（教材/我的 → 词根 id 有序列表；缺省按目录顺序） */
+  familyOrder: Record<string, string[]>;
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -70,6 +72,7 @@ const empty: NotesStore = {
   familyMeta: {},
   userFamilies: {},
   userFamilyWords: {},
+  familyOrder: {},
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -170,6 +173,7 @@ function load(): NotesStore {
         familyMeta: parsed.familyMeta ?? {},
         userFamilies: parsed.userFamilies ?? {},
         userFamilyWords: parsed.userFamilyWords ?? {},
+        familyOrder: parsed.familyOrder ?? {},
       };
     }
 
@@ -185,6 +189,7 @@ function load(): NotesStore {
         familyMeta: {},
         userFamilies: {},
         userFamilyWords: {},
+        familyOrder: {},
       };
     }
   } catch {
@@ -229,6 +234,16 @@ export function useNotes() {
 
   const getUserFamilies = useCallback(() => store.userFamilies, [store]);
 
+  const getFamilyOrder = useCallback((): Record<string, string[]> => store.familyOrder, [store]);
+
+  /** 保存某教材（或我的词根 'user'）的词根顺序（首页拖动排序） */
+  const setFamilyOrder = useCallback((groupKey: string, ids: string[]) => {
+    setStore((prev) => ({
+      ...prev,
+      familyOrder: { ...prev.familyOrder, [groupKey]: ids },
+    }));
+  }, []);
+
   const createUserFamily = useCallback((data: Omit<UserFamily, 'createdAt'>) => {
     const family: UserFamily = { ...data, createdAt: Date.now() };
     setStore((prev) => ({
@@ -245,6 +260,7 @@ export function useNotes() {
         ...prev,
         userFamilies: { ...prev.userFamilies },
         userFamilyWords: { ...prev.userFamilyWords },
+        familyOrder: { ...prev.familyOrder },
       };
       delete next.userFamilies[id];
       delete next.userFamilyWords[id];
@@ -435,6 +451,7 @@ export function useNotes() {
         familyMeta: { ...prev.familyMeta },
         userFamilies: { ...prev.userFamilies },
         userFamilyWords: { ...prev.userFamilyWords },
+        familyOrder: { ...prev.familyOrder },
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
@@ -468,6 +485,8 @@ export function useNotes() {
     moveWordsToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
+    getFamilyOrder,
+    setFamilyOrder,
     getWordNote,
     setWordNote,
     getWordAffixNotes,

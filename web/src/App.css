@@ -5848,3 +5848,55 @@ textarea {
   color: var(--text);
   cursor: pointer;
 }
+
+/* ══ 首页词根行：拖动排序把手 ══ */
+.library-row-wrap {
+  display: flex;
+  align-items: stretch;
+  gap: 0;
+  border-radius: 8px;
+  transition: box-shadow 0.15s, transform 0.15s;
+}
+
+.library-row-wrap .library-row {
+  flex: 1;
+  min-width: 0;
+  border-radius: 8px 0 0 8px;
+}
+
+.library-row-wrap.is-dragging {
+  box-shadow: 0 8px 24px rgba(15, 23, 42, 0.16);
+  transform: scale(1.01);
+  z-index: 5;
+}
+
+.row-drag-handle {
+  flex-shrink: 0;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 36px;
+  min-height: 44px;
+  margin: 0 0 0 2px;
+  border-radius: 0 8px 8px 0;
+  color: var(--text-light);
+  font-size: 1.05rem;
+  cursor: grab;
+  user-select: none;
+  touch-action: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.row-drag-handle:active {
+  cursor: grabbing;
+  color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.library-row-wrap .user-family-edit,
+.library-row-wrap .user-family-del {
+  flex-shrink: 0;
+  align-self: center;
+  width: 38px;
+  height: 38px;
+}

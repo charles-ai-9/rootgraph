@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { AffixItem, AffixKind, CatalogEntry, WordEntry } from '../types';
+import type { AffixItem, AffixKind, CatalogEntry } from '../types';
 import { catalogEntryKey, displayRoots, displaySemantic } from '../types';
 import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
@@ -17,9 +17,11 @@ interface HomePageProps {
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => UserFamily;
   updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => void;
-  moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
+  /** 词根顺序（教材/我的 → id 列表；首页拖动排序） */
+  familyOrder: Record<string, string[]>;
+  setFamilyOrder: (groupKey: string, ids: string[]) => void;
 }
 
 export function HomePage({
@@ -31,9 +33,10 @@ export function HomePage({
   userFamilies,
   createUserFamily,
   updateUserFamily,
-  moveWordsToUserFamily,
   removeUserFamily,
   getUserFamilyWords,
+  familyOrder,
+  setFamilyOrder,
 }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [catalogError, setCatalogError] = useState(false);
@@ -56,6 +59,11 @@ export function HomePage({
   const [editZh, setEditZh] = useState('');
   const [editTextbook, setEditTextbook] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
+  /** 拖动排序：拖动中的临时顺序（groupKey → id 列表），松手持久化 */
+  const [draftOrder, setDraftOrder] = useState<Record<string, string[]>>({});
+  const [dragState, setDragState] = useState<{ group: string; id: string } | null>(null);
+  const dragGroupRef = useRef<string | null>(null);
+  const dragIdRef = useRef<string | null>(null);
   const lastTopTapRef = useRef(0);
 
   const openUserFamily = (f: UserFamily) => {
@@ -229,8 +237,18 @@ export function HomePage({
     // 3. 同 (教材, id) 去重：教材词根（后加入）覆盖系统族
     const byKey = new Map<string, CatalogEntry>();
     for (const item of items) byKey.set(`${item.textbook}:${item.id}`, item);
+    // 有效顺序：拖动中的临时顺序优先，其次已保存顺序，缺省按目录 chapterOrder
+    const orderIndex = (tb: string, id: string) => {
+      const list = draftOrder[tb] ?? familyOrder[tb];
+      if (!list) return -1;
+      const i = list.indexOf(id);
+      return i < 0 ? 9999 : i;
+    };
     const merged = [...byKey.values()].sort((a, b) => {
       if (a.textbook !== b.textbook) return a.textbook.localeCompare(b.textbook);
+      const oa = orderIndex(a.textbook, a.id);
+      const ob = orderIndex(b.textbook, b.id);
+      if (oa !== ob) return oa - ob;
       return (a.chapterOrder ?? 999) - (b.chapterOrder ?? 999);
     });
 
@@ -245,39 +263,141 @@ export function HomePage({
       map.get(key)!.push(item);
     }
     return [...map.entries()].map(([key, groupItems]) => ({ key, items: groupItems }));
-  }, [filtered, textbook]);
+  }, [filtered, textbook, chapterKey, userFamilies, getUserFamilyWords, draftOrder, familyOrder]);
 
   const totalWords = catalog.reduce((n, c) => n + c.wordCount, 0);
   const hasFilter = filter.trim().length > 0;
 
-  const renderCard = (entry: CatalogEntry) => {
+  /** 拖动排序：拖动把手按下后，跟随指针重排当前分组 */
+  const onDragHandleDown = (e: React.PointerEvent, group: string, id: string) => {
+    e.preventDefault();
+    e.stopPropagation();
+    dragGroupRef.current = group;
+    dragIdRef.current = id;
+    setDragState({ group, id });
+    (e.currentTarget as HTMLElement).setPointerCapture?.(e.pointerId);
+  };
+
+  const onDragHandleMove = (e: React.PointerEvent) => {
+    const group = dragGroupRef.current;
+    const id = dragIdRef.current;
+    if (!group || !id) return;
+    const rows = Array.from(
+      document.querySelectorAll(`[data-row-group="${CSS.escape(group)}"]`),
+    ) as HTMLElement[];
+    if (rows.length < 2) return;
+    let targetId = id;
+    for (const el of rows) {
+      const r = el.getBoundingClientRect();
+      if (e.clientY < r.top + r.height / 2) {
+        targetId = el.dataset.rowId ?? id;
+        break;
+      }
+    }
+    const cur = draftOrder[group] ?? familyOrder[group] ?? rows.map((el) => el.dataset.rowId ?? '');
+    const from = cur.indexOf(id);
+    const to = cur.indexOf(targetId);
+    if (from >= 0 && to >= 0 && from !== to) {
+      const next = [...cur];
+      next.splice(from, 1);
+      next.splice(to, 0, id);
+      setDraftOrder((d) => ({ ...d, [group]: next }));
+    }
+  };
+
+  const onDragHandleUp = () => {
+    const group = dragGroupRef.current;
+    if (group) {
+      const ids = draftOrder[group] ?? familyOrder[group];
+      if (ids && ids.length) setFamilyOrder(group, ids);
+    }
+    dragGroupRef.current = null;
+    dragIdRef.current = null;
+    setDragState(null);
+  };
+
+  const renderCard = (entry: CatalogEntry, groupKey: string) => {
     const meta = getFamilyMeta(catalogEntryKey(entry));
     const roots = meta?.roots?.length ? meta.roots.join(' · ') : displayRoots(entry);
     const semantic = meta?.meaningZh?.trim() || meta?.semantic?.trim() || displaySemantic(entry);
     const videoId = getVideoId(catalogEntryKey(entry));
+    const isUser = entry.source === 'user';
+    const isDragging = dragState?.group === groupKey && dragState.id === entry.id;
 
     return (
-      <button
+      <div
         key={catalogEntryKey(entry)}
-        type="button"
-        className="library-row"
-        onClick={() => {
-          if (entry.source === 'user') {
-            const f = userFamilies[entry.id];
-            if (f) openUserFamily(f);
-          } else {
-            onOpenFamily(entry);
-          }
-        }}
+        className={`library-row-wrap${isDragging ? ' is-dragging' : ''}`}
+        data-row-group={groupKey}
+        data-row-id={entry.id}
       >
-        <span className="library-row-chapter">第{entry.chapter}章</span>
-        <span className="library-row-roots">{roots}</span>
-        {semantic && <span className="library-row-semantic">{semantic}</span>}
-        <span className="library-row-meta">
-          <span>{entry.wordCount} 词</span>
-          {videoId && <span className="video-chip">🎬 {videoId}</span>}
+        <button
+          type="button"
+          className="library-row"
+          onClick={() => {
+            if (isUser) {
+              const f = userFamilies[entry.id];
+              if (f) openUserFamily(f);
+            } else {
+              onOpenFamily(entry);
+            }
+          }}
+        >
+          <span className="library-row-chapter">第{entry.chapter}章</span>
+          <span className="library-row-roots">{roots}</span>
+          {semantic && <span className="library-row-semantic">{semantic}</span>}
+          <span className="library-row-meta">
+            <span>{entry.wordCount} 词</span>
+            {videoId && <span className="video-chip">🎬 {videoId}</span>}
+          </span>
+        </button>
+        {isUser && (
+          <button
+            type="button"
+            className="user-family-edit"
+            title="编辑词根"
+            aria-label={`编辑 ${entry.id}`}
+            onClick={(e) => {
+              e.stopPropagation();
+              const f = userFamilies[entry.id];
+              if (!f) return;
+              setEditFamily(f);
+              setEditRootsText(f.roots.join('，'));
+              setEditZh(f.meaningZh ?? '');
+              setEditTextbook(f.textbook ?? '');
+            }}
+          >
+            ✎
+          </button>
+        )}
+        {isUser && (
+          <button
+            type="button"
+            className="user-family-del"
+            title="删除词根"
+            aria-label={`删除 ${entry.id}`}
+            onClick={(e) => {
+              e.stopPropagation();
+              if (window.confirm(`删除词根 ${roots}？其挂入的词会回到原词根族。`)) {
+                removeUserFamily(entry.id);
+              }
+            }}
+          >
+            ✕
+          </button>
+        )}
+        <span
+          className="row-drag-handle"
+          title="按住拖动排序"
+          aria-label={`拖动排序 ${roots}`}
+          onPointerDown={(e) => onDragHandleDown(e, groupKey, entry.id)}
+          onPointerMove={onDragHandleMove}
+          onPointerUp={onDragHandleUp}
+          onPointerCancel={onDragHandleUp}
+        >
+          ≡
         </span>
-      </button>
+      </div>
     );
   };
 
@@ -353,8 +473,6 @@ export function HomePage({
         getUserFamilyWords={getUserFamilyWords}
         onOpenWord={(entry, word) => onOpenFamily(entry, word)}
         onOpenUserFamily={openUserFamily}
-        moveWordsToUserFamily={moveWordsToUserFamily}
-        createUserFamily={createUserFamily}
       />
 
       <div className="filter-hint">
@@ -395,7 +513,7 @@ export function HomePage({
           <section key={key} className="topic-section">
             {textbook === 'all' && !hasFilter && <h2 className="topic-section-title">{key}</h2>}
             <div className="library-list">
-              {items.map((entry) => renderCard(entry))}
+              {items.map((entry) => renderCard(entry, entry.textbook))}
             </div>
           </section>
         ),
@@ -410,52 +528,40 @@ export function HomePage({
         </div>
       )}
 
-      {!hasFilter && Object.values(userFamilies).some((f) => !f.textbook) && (
-        <section className="topic-section">
-          <h2 className="topic-section-title">我的词根</h2>
-          <div className="library-list">
-            {Object.values(userFamilies).filter((f) => !f.textbook).map((f) => (
-              <div key={f.id} className="library-row user-family-row">
-                <button type="button" className="library-row-main" onClick={() => openUserFamily(f)}>
-                  <span className="library-row-chapter">我的</span>
-                  <span className="library-row-roots">{f.roots.join(' · ')}</span>
-                  {f.meaningZh && <span className="library-row-semantic">{f.meaningZh}</span>}
-                  <span className="library-row-meta">{getUserFamilyWords(f.id).length} 词</span>
-                </button>
-                <button
-                  type="button"
-                  className="user-family-edit"
-                  title="编辑词根"
-                  aria-label={`编辑 ${f.id}`}
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    setEditFamily(f);
-                    setEditRootsText(f.roots.join('，'));
-                    setEditZh(f.meaningZh ?? '');
-                    setEditTextbook(f.textbook ?? '');
-                  }}
-                >
-                  ✎
-                </button>
-                <button
-                  type="button"
-                  className="user-family-del"
-                  title="删除词根"
-                  aria-label={`删除 ${f.id}`}
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    if (window.confirm(`删除词根 ${f.roots.join(' · ')}？其挂入的词会回到原词根族。`)) {
-                      removeUserFamily(f.id);
-                    }
-                  }}
-                >
-                  ✕
-                </button>
-              </div>
-            ))}
-          </div>
-        </section>
-      )}
+      {!hasFilter && Object.values(userFamilies).some((f) => !f.textbook) && (() => {
+        const myEntries = Object.values(userFamilies)
+          .filter((f) => !f.textbook)
+          .map((f) => ({
+            id: f.id,
+            file: '',
+            chapter: '我的',
+            chapterOrder: 999,
+            titleZh: f.meaningZh ?? '',
+            semanticLabel: f.meaningZh ?? '',
+            meaningEn: f.meaningEn ?? '',
+            meaningZh: f.meaningZh ?? '',
+            roots: f.roots,
+            wordCount: getUserFamilyWords(f.id).length,
+            source: 'user' as const,
+            textbook: 'user' as const,
+          }));
+        const order = draftOrder['user'] ?? familyOrder['user'];
+        if (order) {
+          myEntries.sort((a, b) => {
+            const ia = order.indexOf(a.id);
+            const ib = order.indexOf(b.id);
+            return (ia < 0 ? 9999 : ia) - (ib < 0 ? 9999 : ib);
+          });
+        }
+        return (
+          <section className="topic-section">
+            <h2 className="topic-section-title">我的词根</h2>
+            <div className="library-list">
+              {myEntries.map((entry) => renderCard(entry, 'user'))}
+            </div>
+          </section>
+        );
+      })()}
 
       {filtered.length === 0 && !hasFilter && !catalogError && catalog.length > 0 && (
         <p className="empty-hint">没有匹配的词根族，试试换个筛选条件</p>

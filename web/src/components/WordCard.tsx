@@ -43,8 +43,6 @@ export interface WordCardProps {
   batchMode?: boolean;
   /** 词条来源（用户词根族内展示：来自哪个教材/族） */
   familyFrom?: { textbook: string; familyId: string };
-  /** 打开归属修正面板（单点：归入正确词根） */
-  onAttribution?: (word: WordEntry) => void;
   /** 从我的词根移回原族（单词级可逆） */
   onMoveBack?: (word: string) => void;
   selected?: boolean;
@@ -105,7 +103,6 @@ export function WordCard({
   selected,
   onToggleSelect,
   familyFrom,
-  onAttribution,
   onMoveBack,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
@@ -312,18 +309,6 @@ export function WordCard({
                 <span className="word-from-hint">
                   来自 {familyFrom.textbook === 'user' ? '我的词根' : `${textbookLabel(familyFrom.textbook)} · ${familyFrom.familyId} 族`}
                 </span>
-              )}
-              {onAttribution && (
-                <button
-                  type="button"
-                  className="word-attribution-btn"
-                  onClick={(e) => {
-                    e.stopPropagation();
-                    onAttribution(word);
-                  }}
-                >
-                  归入词根…
-                </button>
               )}
               {onMoveBack && (
                 <button
