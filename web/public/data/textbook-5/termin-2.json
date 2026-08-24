@@ -1,0 +1,97 @@
+{
+  "chapter" : "9",
+  "chapterOrder" : 109,
+  "id" : "termin-2",
+  "meaningEn" : "末端，终点，死亡等含义时，词汇如下",
+  "meaningZh" : "",
+  "roots" : [
+    "termin"
+  ],
+  "semanticLabel" : "末端，终点，死亡等含义时",
+  "source" : "textbook-5",
+  "titleZh" : "末端，终点，死亡等含义时",
+  "words" : [
+    {
+      "collocations" : [
+        "terminal building：（机场）航站楼",
+        "a railway \/ bus \/ ferry terminal：铁路 \/ 公共汽车终点站；渡船码头",
+        "a terminal patient：晚期病人",
+        "in terminal decline：每况愈下；一蹶不振\n比较：eternal [iˈtə:nəl] adj. 永恒的；无休止的",
+        "the promise of eternal life in heaven：在天国永生的许诺",
+        "eternal arguments：没完没了的争论"
+      ],
+      "definition" : "（疾病）晚期的；致命的；无可挽回的 n. 航空站；终点站；（计算机）终端",
+      "examples" : [
+
+      ],
+      "frequency" : 5864,
+      "mnemonic" : "termin-（=end, final, boundary line：末尾；死亡；终点）+-al（形容词\n后缀）→末端的，终点的→（疾病）晚期的；无可挽回的；航空站；\ne-（出去；远离）+ tern（=term=to + end）+ -al（形容词后缀）→远\n离终结的，不会终结→永恒的；无休止的",
+      "phonetic" : "ˈtɜːmɪn(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "terminal"
+    },
+    {
+      "collocations" : [
+        "terminally ill：病入膏肓"
+      ],
+      "definition" : "致命地",
+      "examples" : [
+
+      ],
+      "frequency" : 14745,
+      "phonetic" : "ˈtə:minəli",
+      "pos" : "adv.",
+      "rootHint" : "termin",
+      "word" : "terminally"
+    },
+    {
+      "collocations" : [
+        "terminate the conversation：结束谈话",
+        "terminate the pregnancy：终止妊娠",
+        "terminate at Lamy：终点站是拉米"
+      ],
+      "definition" : "&vi. 终止；终止（妊娠） vi. （火车或公共汽车）到达终点",
+      "examples" : [
+
+      ],
+      "frequency" : 7311,
+      "mnemonic" : "termin-（=terminal：末端的；终点的）+ -ate（使动词）→使结束，\n使终结→终止；到达终点",
+      "phonetic" : "ˈtɜːmɪneɪt",
+      "pos" : "vt.",
+      "rootHint" : "termin",
+      "word" : "terminate"
+    },
+    {
+      "collocations" : [
+        "lead to the abrupt termination of trade：导致贸易突然终止",
+        "after the termination of a pregnancy：终止妊娠后"
+      ],
+      "definition" : "结束；终止；终止妊娠",
+      "examples" : [
+
+      ],
+      "frequency" : 10241,
+      "phonetic" : "tɜːmɪˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "termin",
+      "word" : "termination"
+    },
+    {
+      "collocations" : [
+        "an interminable speech \/ wait \/ discussion：无休止的讲话 \/ 等待 \/ 讨论",
+        "an interminable meeting：一次没完没了的会议\n笔 记 区"
+      ],
+      "definition" : "冗长的；无休止的",
+      "examples" : [
+
+      ],
+      "frequency" : 17627,
+      "mnemonic" : "in-（不；非）+ termin-（末端；终点）+ -able（形容词后缀）→没有\n终点的→冗长的；无休止的",
+      "phonetic" : "ɪnˈtɜːmɪnəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "termin",
+      "word" : "interminable"
+    }
+  ]
+}

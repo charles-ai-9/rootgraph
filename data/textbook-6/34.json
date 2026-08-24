@@ -1,0 +1,342 @@
+{
+  "chapter" : "34",
+  "chapterOrder" : 134,
+  "id" : "34",
+  "meaningEn" : "切割，是源于单词cut",
+  "meaningZh" : "切割。",
+  "roots" : [
+
+  ],
+  "semanticLabel" : "切割。",
+  "source" : "textbook-6",
+  "titleZh" : "切割。",
+  "words" : [
+    {
+      "collocations" : [
+        "precise details\/instructions：确切的细节；明确的指令",
+        "at that precise moment：恰好在这个时候",
+        "precise worker：认真的工人",
+        "to be more precise：确切地说；准确地说"
+      ],
+      "definition" : "确切的，精确的；（强调时间或方式等）就，恰好；细致的，精细的，认真的，一丝不苟的",
+      "examples" : [
+        "She’s rather prim and precise.\n她拘谨严肃，一丝不苟。"
+      ],
+      "frequency" : 3863,
+      "mnemonic" : "pre-（预先）+ -cis-（=to cut：剪；切）+ -e →预先裁剪过的→确切",
+      "phonetic" : "prɪˈsaɪs",
+      "pos" : "adj.",
+      "word" : "precise"
+    },
+    {
+      "collocations" : [
+        "Children come to zoos precisely to see captive animals.\n孩子们到动物园来正是为了看那些被关起来的动物。"
+      ],
+      "definition" : "精确地；正是；正是地",
+      "examples" : [
+        "The first bell rang at precisely 10:29 a.m.\n第一遍铃声在上午10：29准时响起。"
+      ],
+      "frequency" : 2602,
+      "phonetic" : "prɪˈsaɪslɪ",
+      "pos" : "adv.",
+      "word" : "precisely"
+    },
+    {
+      "collocations" : [
+        "precision instruments\/tools：精密仪器\/工具",
+        "done with mathematical precision：以数学般的精确完成的"
+      ],
+      "definition" : "精确；准确；细致",
+      "examples" : [
+        "He chose his words with precision.\n他用词确切。"
+      ],
+      "frequency" : 5538,
+      "mnemonic" : "precis（=precise：精确的；细致的）+ -ion（名词后缀）→精确；准",
+      "phonetic" : "prɪˈsɪʒn",
+      "pos" : "n.",
+      "word" : "precision"
+    },
+    {
+      "collocations" : [
+        "a concise summary 简明扼要的总结",
+        "clear concise instructions：言简意赅的说明",
+        "a concise dictionary：简明词典"
+      ],
+      "definition" : "简明的，简洁的；简略的",
+      "examples" : [
+
+      ],
+      "frequency" : 16558,
+      "mnemonic" : "con（加强语气）+ -cis-（=cut：切割，削减）+ e→削减之后→精简",
+      "phonetic" : "kənˈsaɪs",
+      "pos" : "adj.",
+      "word" : "concise"
+    },
+    {
+      "collocations" : [
+        "the rise in excise duties：消费税的提高",
+        "an excise tax on wine and tobacco：烟酒的消费税",
+        "excised goods：征税商品",
+        "excised tissue：切除的组织\n笔 记 区"
+      ],
+      "definition" : "切除（器官、组织或部位等） n. 消费税；国内货物税",
+      "examples" : [
+
+      ],
+      "frequency" : 18306,
+      "mnemonic" : "ex-（=out）+ -cis-（=to cut：减少；删节）+ e→to cut out：切除；删",
+      "phonetic" : "ˈeksaɪz",
+      "pos" : "vt.",
+      "word" : "excise"
+    },
+    {
+      "collocations" : [
+        "The act or procedure of removing by or as if by cutting out.",
+        "Especially: surgical removal or resection."
+      ],
+      "definition" : "切除；删除；切除物",
+      "examples" : [
+
+      ],
+      "frequency" : 18668,
+      "mnemonic" : "ex-（=out）+ -cis-（=to cut：减少；删节）+ -ion（名词后缀）→to\ncut out：切除；删除；切除物",
+      "phonetic" : "ɪkˈsɪʒn",
+      "pos" : "n.",
+      "word" : "excision"
+    },
+    {
+      "collocations" : [
+        "decide their destiny：决定他们的命运",
+        "decide her sentence：裁定她的判决",
+        "decide between A and B\/decide against sth.：在A与B之间决定；对……\n作出抉择",
+        "decide between the two candidates：在这两个候选人之间决定取舍\ndecide on\/upon sth.：决定；选定",
+        "decide on a venue：选定一个会场"
+      ],
+      "definition" : "&vi. 决定；影响（或决定）……的结果 vt. 裁定；判决~（for\/against sb.）；断定；成为（某人）做某事的原因",
+      "examples" : [
+        "They decided against taking legal action.\n他们决定不提起诉讼。\nWe’re still trying to decide on a venue.\n我们仍然在设法选定一个会场。"
+      ],
+      "frequency" : 457,
+      "mnemonic" : "de-（=off：离开）+ -cid-（=to cut：切）+ -e →作决定就是“切去”\n不需要的部分→决定；裁定；判决；断定",
+      "phonetic" : "dɪˈsaɪd",
+      "pos" : "vt.",
+      "word" : "decide"
+    },
+    {
+      "collocations" : [
+        "decisive victory：决定性胜利",
+        "decisive factor：决定性因素",
+        "decisive leader：果断的领导者"
+      ],
+      "definition" : "决定性的；果断的",
+      "examples" : [
+
+      ],
+      "frequency" : 6410,
+      "mnemonic" : "de-（=off）+ -cis-（=to cut：切）+ -ive（形容词后缀）→切去的，一\n刀两断的→决定性的；果断的",
+      "phonetic" : "dɪˈsaɪsɪv",
+      "pos" : "adj.",
+      "word" : "decisive"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "决定性地；果断地",
+      "examples" : [
+        "The plan was decisively rejected by Congress three weeks ago.\n这个计划三周前被国会决定性地否决了。"
+      ],
+      "frequency" : 12553,
+      "phonetic" : "dɪˈsaɪsɪvli",
+      "pos" : "adv.",
+      "word" : "decisively"
+    },
+    {
+      "collocations" : [
+        "The venue for the World Cup remains undecided.\n世界杯的举办地点尚未确定。"
+      ],
+      "definition" : "未拿定主意的，犹豫不决的；尚未被确定的，悬而未决的",
+      "examples" : [
+        "After college she was still undecided as to what career she wanted to\npursue.\n大学毕业后她仍无法决定自己要追求什么事业。"
+      ],
+      "frequency" : 10723,
+      "mnemonic" : "un-（=not：不；未）+ decided（决定的）→未决定的→犹豫不决",
+      "phonetic" : "ʌndɪˈsaɪdɪd",
+      "pos" : "adj.",
+      "word" : "undecided"
+    },
+    {
+      "collocations" : [
+        "decidedly uncomfortable：明显不舒服",
+        "say decidedly：果断地说"
+      ],
+      "definition" : "确切，肯定，显然；果断地，坚决地，坚定地",
+      "examples" : [
+        "Amy was looking decidedly worried.\n埃米看上去显然是忧心忡忡。"
+      ],
+      "frequency" : 8380,
+      "phonetic" : "dɪˈsaɪdɪdlɪ",
+      "pos" : "adv.",
+      "word" : "decidedly"
+    },
+    {
+      "collocations" : [
+        "the deciding factor：决定性因素"
+      ],
+      "definition" : "无疑的；决定性的",
+      "examples" : [
+
+      ],
+      "frequency" : 19623,
+      "phonetic" : "dɪˈsaɪdɪŋ",
+      "pos" : "adj.",
+      "word" : "deciding"
+    },
+    {
+      "collocations" : [
+        "make the wrong decision：做出错误的决定",
+        "the moment of decision：作决定的时刻",
+        "a man of decision：很果断的人\n笔 记 区"
+      ],
+      "definition" : "决定；作决定；果断",
+      "examples" : [
+
+      ],
+      "frequency" : 480,
+      "mnemonic" : "de-（离开）+ -cis-（切）+ -ion（名词后缀）→切断，与……分离→",
+      "phonetic" : "dɪˈsɪʒn",
+      "pos" : "n.",
+      "word" : "decision"
+    },
+    {
+      "collocations" : [
+        "Russia’s key decision-maker：俄罗斯的关键决策者"
+      ],
+      "definition" : "决策人",
+      "examples" : [
+
+      ],
+      "frequency" : 14230,
+      "mnemonic" : "decision（决定）+ maker（制造人）→作决策的人→决策人",
+      "phonetic" : "diˈsiʒənˈmeikə",
+      "pos" : "n.",
+      "word" : "decision-maker"
+    },
+    {
+      "collocations" : [
+        "decision-making power：决策权",
+        "decision-making process：决策程序"
+      ],
+      "definition" : "决策",
+      "examples" : [
+
+      ],
+      "frequency" : 8766,
+      "mnemonic" : "decision（决定）+ making（做）→做决定→决策",
+      "phonetic" : "dɪˈsɪʒn meɪkɪŋ",
+      "pos" : "n.",
+      "word" : "decision-making"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "优柔寡断；犹豫不决",
+      "examples" : [
+        "After months of indecision, the government gave the plan the go-ahead on\nMonday.\n经过几个月的犹豫不决，政府在周一批准了这项计划。"
+      ],
+      "frequency" : 18357,
+      "mnemonic" : "in-（=not：不）+ decision（决定）→没有决定→优柔寡断；犹豫不决",
+      "phonetic" : "ɪndɪˈsɪʒn",
+      "pos" : "n.",
+      "word" : "indecision"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "割口；（尤指手术的）切口；切开",
+      "examples" : [
+        "The technique involves making a tiny incision in the skin.\n该技术需要在皮肤上切个小口。"
+      ],
+      "frequency" : 12836,
+      "mnemonic" : "in-（进入；向内）+ -cis-（=to cut：切）+ -ion（名词后缀）→向内切\n→切口；切开",
+      "phonetic" : "ɪnˈsɪʒn",
+      "pos" : "n.",
+      "word" : "incision"
+    },
+    {
+      "collocations" : [
+        "commit suicide：自杀",
+        "a case of attempted suicide：一个自杀未遂的案子",
+        "political suicide：自毁政治前程\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "自杀；自毁；自取灭亡的行为",
+      "examples" : [
+
+      ],
+      "frequency" : 2294,
+      "mnemonic" : "sui（=of oneself：自己）+ -cid-（杀）+ e→把自己割了→自杀",
+      "phonetic" : "ˈsuːɪsaɪd",
+      "pos" : "n.",
+      "word" : "suicide"
+    },
+    {
+      "collocations" : [
+        "suicidal tendencies：自杀倾向",
+        "The new economic policies could prove suicidal for the party.\n新经济政策可能给该党带来灾难性的后果。"
+      ],
+      "definition" : "有自杀倾向的；有致命危险的，毁灭性的；灾难性的",
+      "examples" : [
+        "It would be suicidal to risk going out in this weather.\n在这种天气冒险出去，真是不要命了。"
+      ],
+      "frequency" : 8985,
+      "mnemonic" : "suicide（自杀）+ -al（形容词后缀）→有自杀倾向的→有致命危险",
+      "phonetic" : "ˌsuːɪˈsaɪdl",
+      "pos" : "adj.",
+      "word" : "suicidal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "杀人；（蓄意）杀人罪",
+      "examples" : [
+        "The police arrived at the scene of the homicide.\n警察赶到了杀人现场。"
+      ],
+      "frequency" : 5233,
+      "mnemonic" : "homi-（=homo-：人）+ -cid-（杀）+ e→杀人；（蓄意）杀人罪",
+      "phonetic" : "ˈhɒmɪsaɪd",
+      "pos" : "n.",
+      "word" : "homicide"
+    },
+    {
+      "collocations" : [
+        "vegetables grown without the use of pesticides：未用杀虫剂种植的蔬菜",
+        "crops sprayed with pesticide：喷洒过杀虫剂的庄稼"
+      ],
+      "definition" : "杀虫剂；除害药物",
+      "examples" : [
+
+      ],
+      "frequency" : 5295,
+      "mnemonic" : "pest（害虫）+ i+ -cide（=killer：致命的事物）→除灭害虫的东西→",
+      "phonetic" : "ˈpestɪsaɪd",
+      "pos" : "n.",
+      "word" : "pesticide"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "除草剂14355",
+      "examples" : [
+
+      ],
+      "mnemonic" : "herb-（草）+ i+ -cide（=killer：致命的事物）→除灭草的东西→除草剂",
+      "phonetic" : "ˈhɜːbɪsaɪd",
+      "pos" : "n.",
+      "word" : "herbicide"
+    }
+  ]
+}

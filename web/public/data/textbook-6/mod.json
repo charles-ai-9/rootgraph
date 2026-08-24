@@ -1,10 +1,11 @@
 {
-  "chapter" : "7",
-  "chapterOrder" : 107,
+  "chapter" : "8",
+  "chapterOrder" : 108,
   "id" : "mod",
   "meaningZh" : "take appropriate",
   "roots" : [
-    "mod"
+    "mod",
+    "med 都"
   ],
   "semanticLabel" : "take appropriate",
   "source" : "textbook-6",

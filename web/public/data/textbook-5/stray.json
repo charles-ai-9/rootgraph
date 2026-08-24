@@ -1,0 +1,132 @@
+{
+  "chapter" : "49",
+  "chapterOrder" : 149,
+  "id" : "stray",
+  "meaningEn" : "to spread out",
+  "meaningZh" : "铺开的含义。",
+  "roots" : [
+    "stray",
+    "straw strew",
+    "strat"
+  ],
+  "semanticLabel" : "铺开的含义。",
+  "source" : "textbook-5",
+  "titleZh" : "铺开的含义。",
+  "words" : [
+    {
+      "collocations" : [
+        "get the homeless off the streets：使无家可归者不再流浪街头",
+        "a street map \/ plan of York：约克街道地图 \/ 平面图\n（out）on the streets \/ street：无家可归；流落街头"
+      ],
+      "definition" : "大街；街道；街头",
+      "etymology" : "来自拉丁语sternere“lay down, spread out, pave：铺设；铺开；铺",
+      "examples" : [
+        "The streets are paved with gold：（表示在某地挣钱容易）遍地都是黄金"
+      ],
+      "frequency" : 555,
+      "mnemonic" : "路”→大街；街道",
+      "phonetic" : "striːt",
+      "pos" : "n.",
+      "rootHint" : "stray",
+      "word" : "street"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "街灯；路灯",
+      "examples" : [
+
+      ],
+      "frequency" : 14825,
+      "mnemonic" : "street（街道）+ light（灯）→街灯",
+      "phonetic" : "ˈstritˌlaɪt",
+      "pos" : "n.",
+      "rootHint" : "stray",
+      "word" : "streetlight"
+    },
+    {
+      "collocations" : [
+        "a tram route：有轨电车路线"
+      ],
+      "definition" : "市内有轨电车（等于tram）",
+      "examples" : [
+
+      ],
+      "frequency" : 16384,
+      "mnemonic" : "street（街道）+ car（汽车）→室内有轨电车",
+      "phonetic" : "ˈstriːtkɑː",
+      "pos" : "n.",
+      "rootHint" : "stray",
+      "word" : "streetcar"
+    },
+    {
+      "collocations" : [
+        "a stray bullet：一颗流弹",
+        "find my mind straying：发现我的思想无法集中"
+      ],
+      "definition" : "走失；（思想或视线）不集中 adj. 走失的（狗或猫）；离群的 n. 走失的宠物",
+      "examples" : [
+        "Tourists often get lost and stray into dangerous areas.\n旅游者们经常迷路走进一些危险区域。"
+      ],
+      "frequency" : 9469,
+      "mnemonic" : "stra-（=street：大街；街道）+ -y（动词后缀）→在大街上走失→走\nstra-（=street：大街；街道）+ -y（形容词后缀）→在大街上游走的\n→走失的；离群的\nstra-（=street：大街；街道）+ -y（名词后缀）→在街上走的动物→\nstray：domestic animal found wandering→走失的（狗或猫）；走失的宠",
+      "phonetic" : "streɪ",
+      "pos" : "vi.",
+      "rootHint" : "stray",
+      "word" : "stray"
+    },
+    {
+      "collocations" : [
+        "be led astray by：引某人偏离正道",
+        "lead someone astray：引某人偏离真相\ngo astray：走失；被盗；误入歧途"
+      ],
+      "definition" : "迷路地；误入歧途地",
+      "etymology" : "14世纪早期, o strai, \"away from home; lost, wandering\" （of cattle）。",
+      "examples" : [
+
+      ],
+      "frequency" : 17485,
+      "mnemonic" : "a（处于……状态下的）+ stray（迷路的）→迷路地",
+      "phonetic" : "əˈstreɪ",
+      "pos" : "adv.",
+      "rootHint" : "stray",
+      "word" : "astray"
+    },
+    {
+      "collocations" : [
+        "is of dried grain stalks strewn on a floor as carpeting or bedding. 这个概念\n也许是将干谷秆撒在地板上作为地毯或被褥。\n吸管：19世纪时，人们用天然麦秆（straw）来吸引，后来，因为天\n然麦秆容易折断，且不够卫生，于是又从卷烟中得到启发，使用打蜡\n的纸做成了喝饮料的吸管（drinking straw），简写成straw。",
+        "bales of straw：成捆的麦秆",
+        "a bottle of lemonade with a straw in it：一瓶插着吸管的柠檬汽水",
+        "clutch at straws\/grasping at straws：抓救命稻草",
+        "the last straw or the straw that broke the camel’s back：压死骆驼的最后\n一根稻草（使人一忍再忍的一系列事件的最后一件）",
+        "draw the short straw：下下签"
+      ],
+      "definition" : "麦杆；稻草；吸管 adj. 无价值的；无实质的",
+      "etymology" : "Straw来自印欧语词根stere- “to spread”，表示铺开。The notion perhaps",
+      "examples" : [
+
+      ],
+      "frequency" : 4783,
+      "phonetic" : "strɔː",
+      "pos" : "n.",
+      "rootHint" : "stray",
+      "word" : "straw"
+    },
+    {
+      "collocations" : [
+        "Leaves strewed the path. 树叶落满小径。"
+      ],
+      "definition" : "把……布满（或撒满）",
+      "examples" : [
+        "Clothes were strewn across the floor. 衣服扔得满地都是。"
+      ],
+      "frequency" : 10237,
+      "mnemonic" : "straw：麦秆→strew：把麦秆铺开→把……布满（或撒满）（scatter：",
+      "phonetic" : "struː",
+      "pos" : "vt.",
+      "rootHint" : "stray",
+      "word" : "strew"
+    }
+  ]
+}

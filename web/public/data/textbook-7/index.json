@@ -42,13 +42,28 @@
     "semanticLabel": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
     "source": "textbook-7",
     "titleZh": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-    "wordCount": 14
+    "wordCount": 8
   },
   {
     "chapter": "4",
     "chapterOrder": 104,
-    "file": "4.json",
-    "id": "4",
+    "file": "grat-2.json",
+    "id": "grat-2",
+    "meaningEn": "",
+    "meaningZh": "满意，满足之外，还可表示感谢，感激",
+    "roots": [
+      "grat"
+    ],
+    "semanticLabel": "满意，满足之外，还可表示感谢，感激",
+    "source": "textbook-7",
+    "titleZh": "满意，满足之外，还可表示感谢，感激",
+    "wordCount": 6
+  },
+  {
+    "chapter": "5",
+    "chapterOrder": 105,
+    "file": "5.json",
+    "id": "5",
     "meaningEn": "to flow, run",
     "meaningZh": "流动；跑",
     "roots": [],
@@ -58,8 +73,8 @@
     "wordCount": 35
   },
   {
-    "chapter": "5",
-    "chapterOrder": 105,
+    "chapter": "6",
+    "chapterOrder": 106,
     "file": "hib.json",
     "id": "hib",
     "meaningEn": "",
@@ -74,8 +89,8 @@
     "wordCount": 40
   },
   {
-    "chapter": "6",
-    "chapterOrder": 106,
+    "chapter": "7",
+    "chapterOrder": 107,
     "file": "rad.json",
     "id": "rad",
     "meaningEn": "",
@@ -89,8 +104,8 @@
     "wordCount": 61
   },
   {
-    "chapter": "7",
-    "chapterOrder": 107,
+    "chapter": "8",
+    "chapterOrder": 108,
     "file": "pul.json",
     "id": "pul",
     "meaningEn": "",
@@ -107,8 +122,8 @@
     "wordCount": 3
   },
   {
-    "chapter": "8",
-    "chapterOrder": 108,
+    "chapter": "9",
+    "chapterOrder": 109,
     "file": "pel.json",
     "id": "pel",
     "meaningEn": "to push, drive",
@@ -124,8 +139,8 @@
     "wordCount": 23
   },
   {
-    "chapter": "9",
-    "chapterOrder": 109,
+    "chapter": "10",
+    "chapterOrder": 110,
     "file": "peal.json",
     "id": "peal",
     "meaningEn": "call",
@@ -139,8 +154,8 @@
     "wordCount": 9
   },
   {
-    "chapter": "10",
-    "chapterOrder": 110,
+    "chapter": "11",
+    "chapterOrder": 111,
     "file": "suad.json",
     "id": "suad",
     "meaningEn": "to urge",
@@ -154,10 +169,10 @@
     "wordCount": 3
   },
   {
-    "chapter": "11",
-    "chapterOrder": 111,
-    "file": "11.json",
-    "id": "11",
+    "chapter": "12",
+    "chapterOrder": 112,
+    "file": "12.json",
+    "id": "12",
     "meaningEn": "to drive",
     "meaningZh": "推，可以理解为把液体推过滤网",
     "roots": [],
@@ -167,8 +182,8 @@
     "wordCount": 11
   },
   {
-    "chapter": "12",
-    "chapterOrder": 112,
+    "chapter": "13",
+    "chapterOrder": 113,
     "file": "ten.json",
     "id": "ten",
     "meaningEn": "",
@@ -183,11 +198,29 @@
     "semanticLabel": "延伸",
     "source": "textbook-7",
     "titleZh": "延伸",
-    "wordCount": 93
+    "wordCount": 73
   },
   {
-    "chapter": "13",
-    "chapterOrder": 113,
+    "chapter": "14",
+    "chapterOrder": 114,
+    "file": "ten-2.json",
+    "id": "ten-2",
+    "meaningEn": "",
+    "meaningZh": "拿着；持有；握住；抓住；容纳；包含等。",
+    "roots": [
+      "ten",
+      "grasp",
+      "keep",
+      "maintain等 含义"
+    ],
+    "semanticLabel": "拿着；持有；握住；抓住；容纳；包含等。",
+    "source": "textbook-7",
+    "titleZh": "拿着；持有；握住；抓住；容纳；包含等。",
+    "wordCount": 20
+  },
+  {
+    "chapter": "15",
+    "chapterOrder": 115,
     "file": "lud.json",
     "id": "lud",
     "meaningEn": "",
@@ -201,8 +234,8 @@
     "wordCount": 15
   },
   {
-    "chapter": "14",
-    "chapterOrder": 114,
+    "chapter": "16",
+    "chapterOrder": 116,
     "file": "painful.json",
     "id": "painful",
     "meaningEn": "",
@@ -216,8 +249,8 @@
     "wordCount": 9
   },
   {
-    "chapter": "15",
-    "chapterOrder": 115,
+    "chapter": "17",
+    "chapterOrder": 117,
     "file": "wretched.json",
     "id": "wretched",
     "meaningEn": "",
@@ -232,8 +265,8 @@
     "wordCount": 35
   },
   {
-    "chapter": "16",
-    "chapterOrder": 116,
+    "chapter": "18",
+    "chapterOrder": 118,
     "file": "strophe.json",
     "id": "strophe",
     "meaningEn": "",
@@ -248,8 +281,8 @@
     "wordCount": 23
   },
   {
-    "chapter": "17",
-    "chapterOrder": 117,
+    "chapter": "19",
+    "chapterOrder": 119,
     "file": "cata.json",
     "id": "cata",
     "meaningEn": "",
@@ -265,8 +298,8 @@
     "wordCount": 166
   },
   {
-    "chapter": "18",
-    "chapterOrder": 118,
+    "chapter": "20",
+    "chapterOrder": 120,
     "file": "gob-mouth.json",
     "id": "gob-mouth",
     "meaningEn": "",
@@ -281,8 +314,8 @@
     "wordCount": 9
   },
   {
-    "chapter": "19",
-    "chapterOrder": 119,
+    "chapter": "21",
+    "chapterOrder": 121,
     "file": "vel.json",
     "id": "vel",
     "meaningEn": "",
@@ -299,8 +332,8 @@
     "wordCount": 7
   },
   {
-    "chapter": "20",
-    "chapterOrder": 120,
+    "chapter": "22",
+    "chapterOrder": 122,
     "file": "fend.json",
     "id": "fend",
     "meaningEn": "",
@@ -313,6 +346,39 @@
     "semanticLabel": "碰撞；打击；推动",
     "source": "textbook-7",
     "titleZh": "碰撞；打击；推动",
-    "wordCount": 79
+    "wordCount": 20
+  },
+  {
+    "chapter": "23",
+    "chapterOrder": 123,
+    "file": "nurs.json",
+    "id": "nurs",
+    "meaningEn": "",
+    "meaningZh": "供给食物和水，照顾；喂养（奶）",
+    "roots": [
+      "nurs",
+      "nurtr(i)",
+      "nour(ish)",
+      "nurture"
+    ],
+    "semanticLabel": "供给食物和水，照顾；喂养（奶）",
+    "source": "textbook-7",
+    "titleZh": "供给食物和水，照顾；喂养（奶）",
+    "wordCount": 49
+  },
+  {
+    "chapter": "24",
+    "chapterOrder": 124,
+    "file": "vir-含义为-man.json",
+    "id": "vir-含义为-man",
+    "meaningEn": "",
+    "meaningZh": "男人等含义，引申义为道德；优点",
+    "roots": [
+      "vir 含义为 man"
+    ],
+    "semanticLabel": "男人等含义，引申义为道德；优点",
+    "source": "textbook-7",
+    "titleZh": "男人等含义，引申义为道德；优点",
+    "wordCount": 10
   }
 ]

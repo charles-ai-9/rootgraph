@@ -1,0 +1,187 @@
+{
+  "chapter" : "24",
+  "chapterOrder" : 124,
+  "id" : "vir-含义为-man",
+  "meaningZh" : "男人等含义，引申义为道德；优点",
+  "roots" : [
+    "vir 含义为 man"
+  ],
+  "semanticLabel" : "男人等含义，引申义为道德；优点",
+  "source" : "textbook-7",
+  "titleZh" : "男人等含义，引申义为道德；优点",
+  "words" : [
+    {
+      "collocations" : [
+        "from Anglo-French and Old French vertu “force, strength, vigor; moral",
+        "strength; qualities, abilities” (10c. in Old French), from Latin virtutem",
+        "(nominative virtus) “moral strength, high character, goodness; manliness;",
+        "valor, bravery, courage (in war); excellence, worth,” from vir “man”.\n来自拉丁语vir-：男人，引申词义男人应有的品行和美德，具体为7种\n基本品行：justice, prudence, temperance, fortitude, hope, faith, charity。\n后来词义通用化，也用来指女人的美德，贞洁（忠诚于男性的道\n德）等。\n重男轻女的思想自古就有，中外概莫能免。英语单词virtue就反映了\n这种思想。它来自拉丁语virtus，词根是vir-（男人），同根词有virile\n（男性的；有男子气概的）。virtue的基本含义是“男人具有的能力\n和功效”。其隐含之意就是男性是世界的创造者，男人创造世界凭\n借的就是这种virtue。英语短语by virtue of（凭借）用的正是virtue的\n本意，即“功效”。除了“功效”外，virtue一词还往往被译为“美\n德”、“德性”，主要指“英勇、勇敢、刚毅”等与男人气概相关的\n道德品质，其实归根到底还是指男人气概的“功效”。virtue还可以\n用来表示女性的美德，但主要指“贞操”，即“忠诚于男性”这一美\n德。所以不妨可以把virtue理解为“男德”。在古罗马，有一个广受\n崇拜的神祗维尔图斯（Virtus），其实就是virtue的人格化和神化。",
+        "by virtue of：凭借；通过（=by means of）",
+        "Patience is not one of her virtues.\n她不具有耐心这样的美德。（她没有耐性。）",
+        "They could see no virtue in discussing it further.\n他们看不到再讨论下去有什么用处。",
+        "Chinese but also a duty\/responsibility that is deeply rooted in our culture.",
+        "Chinese but also a responsibility that is deeply rooted in our culture.",
+        "but also a duty that is deeply rooted in our culture.\n笔 记 区\n区别：virtue 和 virtual"
+      ],
+      "definition" : "高尚的道德；美德，良好的习惯；优点，用处",
+      "etymology" : "c. 1200, vertu, “moral life and conduct; a particular moral excellence,”",
+      "examples" : [
+        "He led a life of virtue.\n他过着高尚的生活。",
+        "做……不仅仅是一个被中华民族所珍视的传统美德\/习俗\/价值\n观，而且也是一个深深根植于我们文化中的义务\/责任。（大部分文\n章都可套用）",
+        "例句一：Being filial to parents is not only a traditional virtue cherished by",
+        "例句二：Saving resources is not only a traditional custom cherished by Chinese"
+      ],
+      "frequency" : 3391,
+      "mnemonic" : "vir-（=moral：道德）+ t（无意义）+ -ue（名词后缀）→美德；高尚",
+      "phonetic" : "ˈvɜːtʃuː",
+      "pos" : "n.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "virtue"
+    },
+    {
+      "collocations" : [
+        "virtual指的是“虽然并不客观存在，但却能产生一样的功效，从功效\n上看相当于存在一样”。最常见的就是网络上的虚拟人物、虚拟物\n品、虚拟场景。",
+        "virtual environment：虚拟环境",
+        "virtual reality：虚拟现实",
+        "virtual library：虚拟图书馆"
+      ],
+      "definition" : "几乎……的，事实上的，实际上的；（通过计算机软件，如在互联网上）模拟的，虚拟的",
+      "etymology" : "由virtue衍生出来的单词virtual（虚拟的）更能体现virtue的本意。",
+      "examples" : [
+        "The country was sliding into a state of virtual civil war.\n这个国家实际上正逐渐进入内战状态。"
+      ],
+      "frequency" : 3708,
+      "mnemonic" : "virtu（=virtue：（男人应有的）美德；用处）+ -al（形容词后缀）→\n样→事实上的，实际上的；虚拟的",
+      "phonetic" : "ˈvəːtʃuəl",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "virtual"
+    },
+    {
+      "collocations" : [
+        "to be virtually impossible 几乎是不可能的"
+      ],
+      "definition" : "几乎；事实上，实质上；虚拟地",
+      "examples" : [
+        "There’s virtually no limit to how much of that can be saved，as prototype\n“zero-energy homes” in Switzerland and Germany have shown.\n正如瑞士和德国的零耗能家庭显示的，节省能源几乎\/事实上是没有\n底线的。"
+      ],
+      "frequency" : 2063,
+      "phonetic" : "ˈvəːtʃʊəli",
+      "pos" : "adv.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "virtually"
+    },
+    {
+      "collocations" : [
+        "a virtuous family man：一个品德高尚的顾家男人",
+        "He was feeling virtuous because he had finished and they hadn’t.\n因为他完成了而他们没有，所以他自鸣得意。"
+      ],
+      "definition" : "品行端正的，品德高尚的；自鸣得意的，自命不凡的",
+      "examples" : [
+        "She lived an entirely virtuous life.\n她一生品行端正。"
+      ],
+      "frequency" : 12768,
+      "mnemonic" : "virtu（=virtue：高尚的道德）+ -ous（形容词后缀）→品行端正的\nvirtu（=virtue：高尚的道德）+ -ous（形容词后缀）→自以为比其他\n人道德水平更高的→自鸣得意的，自命不凡的",
+      "phonetic" : "ˈvɜːtʃuəs",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "virtuous"
+    },
+    {
+      "collocations" : [
+        "a piano virtuoso：钢琴演奏家",
+        "a virtuoso performance：技艺精湛的表演"
+      ],
+      "definition" : "技艺超群的人；（尤指）演奏家 adj.技艺精湛的；技巧超群的",
+      "etymology" : "来自意大利语virtuoso (plural virtuosi), noun use of adjective meaning “skilled, learned, of exceptional worth”。来自拉丁语virtus excellence, worth。",
+      "examples" : [
+
+      ],
+      "frequency" : 16935,
+      "mnemonic" : "virtu（=excellence, worth：杰出；价值）+ -oso（名词 \/ 形容词后缀）\n→记忆超群的人，演奏家；技艺精湛的",
+      "phonetic" : "ˌvɜːtʃuˈəʊsəʊ; ˌvɜːtʃuˈəʊzəʊ",
+      "pos" : "n.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "virtuoso"
+    },
+    {
+      "collocations" : [
+        "a map of the world：世界地图",
+        "the Arab world：阿拉伯世界",
+        "the publishing world：出版界",
+        "the natural \/ animal \/ plant \/ insect world：自然\/动物\/植物\/昆虫界"
+      ],
+      "definition" : "世界；世界（指某些国家或时期）；界；（某生物）界adj. 世界性的",
+      "examples" : [
+
+      ],
+      "frequency" : 123,
+      "mnemonic" : "wor-（=vir-：人；男人）+ ld（=age：时代）→男人的时代，人的存\n在。后引申词义人的一生，今生，→人类的活动与事务，世界；世界",
+      "phonetic" : "wɜːld",
+      "pos" : "n.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "world"
+    },
+    {
+      "collocations" : [
+        "a world-class player：一名世界级选手"
+      ],
+      "definition" : "世界级的；世界一流的",
+      "examples" : [
+
+      ],
+      "frequency" : 9535,
+      "mnemonic" : "world（世界）+ class（等级；级别）→世界级的；世界一流的",
+      "phonetic" : "ˌwɜːld ˈklɑːs",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "world-class"
+    },
+    {
+      "collocations" : [
+        "a world-famous scientist 世界著名的科学家"
+      ],
+      "definition" : "举世闻名的；世界著名的",
+      "examples" : [
+
+      ],
+      "frequency" : 18052,
+      "mnemonic" : "world（世界的）+ famous（著名的）→在世界上著名的→举世闻",
+      "phonetic" : "ˌwɜːld ˈfeɪməs",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "world-famous"
+    },
+    {
+      "collocations" : [
+        "worldly success：世俗的成就",
+        "worldly goods：物质上的财产"
+      ],
+      "definition" : "世俗的；物质上的；生活经验丰富的，懂得人情世故的",
+      "examples" : [
+        "At 15, he was more worldly than his older cousins who lived in the\ncountry.\n他15岁时就比他那些居住在乡村的表兄们懂得人情世故了。"
+      ],
+      "frequency" : 10982,
+      "mnemonic" : "world（世界）+ -ly（形容词后缀）→与世界、尘世有关的→世俗",
+      "phonetic" : "ˈwɜːldlɪ",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "worldly"
+    },
+    {
+      "collocations" : [
+        "an increase in worldwide sales：全世界销售额的增长"
+      ],
+      "definition" : "（影响）全世界的；世界各地的 adv. 在全世界",
+      "examples" : [
+        "Doctors are fearing a worldwide epidemic.\n医生们在担心一次影响全世界性的流行病。"
+      ],
+      "frequency" : 4505,
+      "mnemonic" : "world（世界）+ wide（广泛的；范围大的）→在世界范围内产生广\n泛影响的→全世界的，世界各地的；在全世界",
+      "phonetic" : "ˌwɜːldˈwaɪd",
+      "pos" : "adj.",
+      "rootHint" : "vir 含义为 man",
+      "word" : "worldwide"
+    }
+  ]
+}

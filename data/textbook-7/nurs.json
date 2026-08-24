@@ -1,0 +1,799 @@
+{
+  "chapter" : "23",
+  "chapterOrder" : 123,
+  "id" : "nurs",
+  "meaningZh" : "供给食物和水，照顾；喂养（奶）",
+  "roots" : [
+    "nurs",
+    "nurtr(i)",
+    "nour(ish)",
+    "nurture"
+  ],
+  "semanticLabel" : "供给食物和水，照顾；喂养（奶）",
+  "source" : "textbook-7",
+  "titleZh" : "供给食物和水，照顾；喂养（奶）",
+  "words" : [
+    {
+      "collocations" : [
+        "a qualified \/ registered nurse：一位合格的\/有执照的护士",
+        "nurse a shoulder injury：调养肩伤",
+        "nurse an ambition：心怀壮志",
+        "nurse tender young plants：悉心照料嫩苗",
+        "a nursing mother：一位正在喂奶的母亲",
+        "The lioness is still nursing her cubs.\n这只母狮还在给它的幼崽喂奶。"
+      ],
+      "definition" : "护士；保姆 vt. 看护，照料（病人或伤者）；调养（伤病）；怀有；悉心照料；（妇女或雌性动物）喂奶",
+      "etymology" : "v. 1530s, “to suckle (an infant), nourish at the breast;” 1520s in the passive sense, “to bring up” (a child); alteration of Middle English nurshen, norishen “to supply with food and drink, feed; bring up, nurture”. n. from Old French norrice “foster-mother, wet-nurse, nanny”.",
+      "examples" : [
+        "She nursed her daughter back to health.\n她悉心照料女儿，使她恢复了健康。"
+      ],
+      "frequency" : 1889,
+      "mnemonic" : "nurs-（=母乳喂养；养育；供给食物和水）+ -e→看护；照料；喂奶\nnurs-（=养母；保姆）+ -e→护士（即：“照顾”病人的人）；保姆",
+      "phonetic" : "nɜːs",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nurse"
+    },
+    {
+      "collocations" : [
+        "at nursery：上托儿所",
+        "a nursery teacher：幼儿教师"
+      ],
+      "definition" : "育儿室；托儿所 adj. 幼儿教育的",
+      "examples" : [
+
+      ],
+      "frequency" : 5711,
+      "mnemonic" : "nurs-（哺育；养育）+ -ery（名词 \/ 形容词后缀）→养育幼儿（的地\n方）→托儿所；幼儿教育的",
+      "phonetic" : "ˈnɜːsərɪ",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nursery"
+    },
+    {
+      "collocations" : [
+        "a career in nursing：护理生涯",
+        "nursing care：看护"
+      ],
+      "definition" : "护理；看护",
+      "examples" : [
+
+      ],
+      "frequency" : 5324,
+      "mnemonic" : "nurs-（=nurse：喂奶；看护，照料）+ -ing（名词后缀）→喂奶；护",
+      "phonetic" : "ˈnɜːsɪŋ",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nursing"
+    },
+    {
+      "collocations" : [
+        "from Late Latin nutritia “a nursing, suckling”, from Latin nutrire “to\nnourish（滋养；养育）, suckle（给……喂奶；给……哺乳）”",
+        "children nurtured by loving parents：受到慈爱的父母养育的孩子",
+        "Besides cloning a great dog, the project may contribute insight into the old",
+        "question of nature vs, nurture.\n除了克隆一只超级狗，这个计划可能有助于深刻理解先天本性和后天\n培养的这个古老问题。\n（写作，阅读）例句：High achievers owe their success mostly to nurture.\n高成就者把他们的成功大部分归因于后天培养。",
+        "Top performers attribute their success mostly to nurture rather than nature.",
+        "Prominent figures ascribe their success mostly to nurture instead of nature."
+      ],
+      "definition" : "养育；培养；滋生 n. 养育；培养",
+      "etymology" : "c. 1300, norture, “upbringing, the act or responsibility of rearing a child” , 。",
+      "examples" : [
+        "She secretly nurtured a hope of becoming famous.\n她暗暗滋生出成名的愿望",
+        "顶尖人物大多把自己的成功归因于后天培养而不是先天造就。"
+      ],
+      "frequency" : 5605,
+      "mnemonic" : "nurt（=nurs-：培养；养育）+ -ure（动词 \/ 名词后缀）→养育；培养",
+      "phonetic" : "ˈnɜːtʃə",
+      "pos" : "vt.",
+      "rootHint" : "nurture",
+      "word" : "nurture"
+    },
+    {
+      "collocations" : [
+        "the nurturing of this awareness：对这种意识的培养",
+        "the importance of nurturing trust：培养信任的重要性\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "培养",
+      "examples" : [
+
+      ],
+      "frequency" : 13062,
+      "phonetic" : "ˈnɜːtʃəriŋ",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nurturing"
+    },
+    {
+      "collocations" : [
+        "be well nourished：营养良好",
+        "nourish the talents of our children：培养孩子们的才能\n笔 记 区"
+      ],
+      "definition" : "为……提供营养；培养，助长（情绪、观点、才能等）",
+      "examples" : [
+
+      ],
+      "frequency" : 10492,
+      "mnemonic" : "nourish（=nurse：养育；培养）→为……提供营养；培养",
+      "phonetic" : "ˈnʌrɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "nourish"
+    },
+    {
+      "collocations" : [
+        "obtain adequate nourishment：获得足够的养分",
+        "Sugar gives quick relief to hunger but provides no lasting nourishment.\n糖能快速缓解饥饿感，但不提供持久的营养（供给）。"
+      ],
+      "definition" : "营养；养分；营养的供给",
+      "examples" : [
+        "As a child, she was starved of intellectual nourishment.\n作为一个孩子，她渴望吸取知识的养分。"
+      ],
+      "frequency" : 15258,
+      "mnemonic" : "nourish（为……提供营养）+ -ment（抽象名词后缀）→营养；养",
+      "phonetic" : "ˈnʌrɪʃmənt",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nourishment"
+    },
+    {
+      "collocations" : [
+        "a lack of essential nutrients：基本营养的缺乏",
+        "draw nutrients from the soil：从土壤中吸取养分"
+      ],
+      "definition" : "营养；养分",
+      "examples" : [
+
+      ],
+      "frequency" : 4904,
+      "mnemonic" : "nutri-（=nourish：营养；养分）+ -ent（=-ant：名词后缀）→用于养\n育、喂养某人（或其他生物）的物质→营养；养分",
+      "phonetic" : "ˈnjuːtrɪənt",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nutrient"
+    },
+    {
+      "collocations" : [
+        "advice on diet and nutrition：有关饮食和营养补给的建议",
+        "study food science and nutrition：研究食物科学和营养"
+      ],
+      "definition" : "营养；滋养；营养补给",
+      "examples" : [
+
+      ],
+      "frequency" : 5635,
+      "mnemonic" : "nutr-（营养）+ -ition（复合名词后缀，-ite + -ion）→营养；滋养；营",
+      "phonetic" : "njʊˈtrɪʃn",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nutrition"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "营养不良",
+      "examples" : [
+        "Infections are more likely in those suffering from malnutrition.\n感染更有可能发生在那些营养不良的人身上。"
+      ],
+      "frequency" : 14324,
+      "mnemonic" : "mal-（=bad：不好的；劣质的）+ nutrition（营养）→不好的营养→",
+      "phonetic" : "ˌmælnjuˈtrɪʃn",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "malnutrition"
+    },
+    {
+      "collocations" : [
+        "the nutritional content of foods：食物的营养成分"
+      ],
+      "definition" : "营养的；滋养的",
+      "examples" : [
+
+      ],
+      "frequency" : 7503,
+      "mnemonic" : "nutrition（营养的）+ -al（形容词后缀）→营养的；滋养的",
+      "phonetic" : "njuːˈtrɪʃənl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "nutritional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "营养学家",
+      "examples" : [
+
+      ],
+      "frequency" : 13690,
+      "mnemonic" : "nutrition（营养）+ -ist（表专家，从事某种研究的人）→营养学家",
+      "phonetic" : "njuˈtrɪʃənɪst",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "nutritionist"
+    },
+    {
+      "collocations" : [
+        "tasty and nutritious meals：既可口又有营养的饭菜"
+      ],
+      "definition" : "（食物）有营养的；营养丰富的",
+      "examples" : [
+
+      ],
+      "frequency" : 13688,
+      "mnemonic" : "nutr-（=nourish：为……提供营养）+ -itious（复合形容词后缀）→有",
+      "phonetic" : "njuˈtrɪʃəs",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "nutritious"
+    },
+    {
+      "collocations" : [
+        "from Proto-Germanic *thunraz, from PIE *(s)tene- “to resound, thunder”",
+        "(source also of Sanskrit tanayitnuh “thundering,” Persian tundar “thunder,”",
+        "Latin tonare “to thunder”).",
+        "thunder and lightening：雷电",
+        "the thunder of the sea：大海发出的轰隆声"
+      ],
+      "definition" : "雷，雷声；雷鸣般的响声 vi. 打雷；发出雷鸣般响声；轰隆隆地（快速移动）",
+      "etymology" : "Mid-13c., from Old English þunor “thunder, thunderclap; the god Thor,”",
+      "examples" : [
+        "The horses thundered across the valley floor.\n马群轰隆隆地从谷底奔跑而过。"
+      ],
+      "frequency" : 8237,
+      "phonetic" : "ˈθʌndə",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "thunder"
+    },
+    {
+      "collocations" : [
+        "thunderous applause：雷鸣般的掌声",
+        "his thunderous expression：他那怒气冲冲的表情\n笔 记 区"
+      ],
+      "definition" : "雷鸣般的；声音很大的；怒气冲冲的",
+      "examples" : [
+
+      ],
+      "frequency" : 17254,
+      "mnemonic" : "thunder（打雷；发出雷鸣般响声）+ -ous（形容词后缀）→雷鸣般",
+      "phonetic" : "ˈθʌndərəs",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "thunderous"
+    },
+    {
+      "collocations" : [
+        "thunderstorm：雷雨交加"
+      ],
+      "definition" : "雷雨；雷暴；雷雨交加",
+      "examples" : [
+
+      ],
+      "frequency" : 10893,
+      "mnemonic" : "thunder（打雷）+storm（暴风雨；雷暴）→雷雨；雷暴；雷雨交加",
+      "phonetic" : "ˈθʌndəstɔːm",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "thunderstorm"
+    },
+    {
+      "collocations" : [
+        "tropical Atlantic, probably a mangled borrowing from Spanish tronada\n“thunderstorm”, from tronar “to thunder：打雷” from Latin tonare “to\nthunder：打雷”. Metathesis of -o- and -r- in modern spelling influenced",
+        "by Spanish tornar “to twist, turn”"
+      ],
+      "definition" : "龙卷风；旋风",
+      "etymology" : "1550s, ternado, navigator’s word for violent windy thunderstorm in the . From Latin tornare “to twist, turn.” 来源于拉丁语tonare（打雷）；与西班牙语tornado（旋转的）混合 后tronada转变成了tornado，在16世纪，其意义已转变为“旋转的 风”。",
+      "examples" : [
+
+      ],
+      "frequency" : 7056,
+      "mnemonic" : "torn（=to thunder, to turn：打雷；旋转）+ -ado（名词后缀，表动作实\n施物）→伴有打雷、极度强烈的旋风→龙卷风；旋风",
+      "phonetic" : "tɔːˈneɪdəʊ",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "tornado"
+    },
+    {
+      "collocations" : [
+        "detonate its first nuclear device：引爆它的第一个核装置"
+      ],
+      "definition" : "使爆炸；引爆",
+      "examples" : [
+        "Two other bombs failed to detonate.\n另外两枚炸弹未引爆。"
+      ],
+      "frequency" : 13011,
+      "mnemonic" : "de-（=down：向下）+ -ton（=to thunder：打雷；爆炸）+ -ate（使动\n词后缀）→使爆炸；引爆",
+      "phonetic" : "ˈdetəneɪt",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "detonate"
+    },
+    {
+      "collocations" : [
+        "accidental detonation of nuclear weapons：核武器的意外引爆"
+      ],
+      "definition" : "爆炸；引爆",
+      "examples" : [
+
+      ],
+      "frequency" : 19417,
+      "mnemonic" : "detonat（=detonate：爆炸；引爆）+ -ion（名词后缀）→爆炸；引爆",
+      "phonetic" : "ˌdetəˈneɪʃn",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "detonation"
+    },
+    {
+      "collocations" : [
+        "emotion, etc.), probably a shortening of Old French estoner “to stun”",
+        "They were stunned by the view from the summit.\n在峰顶看到的景色使他们惊叹不已。\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "使昏迷，（尤指）打昏；使震惊；使惊叹，给（某人）以深刻印象",
+      "etymology" : "14世纪早期，“to daze or render unconscious” (from a blow, powerful",
+      "examples" : [
+        "The fall stunned me for a moment.\n那一下摔得我昏迷了片刻。\nHe’s stunned by today’s resignation of his longtime ally.\n他被自己的长期助手今天的辞职所震惊。"
+      ],
+      "frequency" : 5194,
+      "mnemonic" : "s-（ex-, es-变体）+ -tun（=to thunder：雷鸣）→打雷时常使人感到\n“震”和“惊”→使昏迷；使震惊；使惊叹",
+      "phonetic" : "stʌn",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "stun"
+    },
+    {
+      "collocations" : [
+        "the stunned audience：受惊的观众",
+        "a stunned silence：震惊的沉默\n笔 记 区"
+      ],
+      "definition" : "受惊的；震惊的",
+      "examples" : [
+
+      ],
+      "frequency" : 9059,
+      "phonetic" : "stʌnd",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "stunned"
+    },
+    {
+      "collocations" : [
+        "stunning speed：惊人的速度",
+        "a stunning performance：非常精彩的表演",
+        "a stunning defeat：令人震惊的失败",
+        "a stunning view of the lake：无比优美的湖光水色"
+      ],
+      "definition" : "惊人的，绝妙（精彩）的；优美漂亮的；令人震惊的",
+      "examples" : [
+
+      ],
+      "frequency" : 5103,
+      "mnemonic" : "stun（使震惊；使惊叹，双写n）+ -ing（形容词后缀）→惊人的；精",
+      "phonetic" : "ˈstʌnɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "stunning"
+    },
+    {
+      "collocations" : [
+        "a stunningly effective means：一个绝妙也有效的方法",
+        "a stunningly one-sided result：一个令人震惊地一边倒结果"
+      ],
+      "definition" : "绝妙地；令人震惊地",
+      "examples" : [
+        "These diseases are stunningly widespread.\n这种疾病传播之广令人震惊。"
+      ],
+      "frequency" : 18519,
+      "phonetic" : "ˈstʌniŋli",
+      "pos" : "adv.",
+      "rootHint" : "nurs",
+      "word" : "stunningly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使吃惊；使十分惊讶",
+      "examples" : [
+        "The news astonished everyone.\n这消息使大家十分惊讶。"
+      ],
+      "frequency" : 12905,
+      "mnemonic" : "as-（=out：出来）+ ton-（=tun-：震惊）+ -ish（动词后缀）→使吃",
+      "phonetic" : "əˈstɒnɪʃ",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "astonish"
+    },
+    {
+      "collocations" : [
+        "the astonishing distrust：令人惊叹的不信任",
+        "an astonishing display of physical strength：令人惊讶的体力展现\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "令人十分惊讶的；令人惊叹的",
+      "examples" : [
+
+      ],
+      "frequency" : 6601,
+      "mnemonic" : "astonish（使吃惊；使十分惊讶）+ -ing（形容词后缀，令人……的）\n→令人十分惊讶的",
+      "phonetic" : "əˈstɒnɪʃɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "astonishing"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "感到十分惊讶的",
+      "examples" : [
+        "She seemed astonished (that) I had never been to Paris.\n我从未去过巴黎，她似乎很惊讶。"
+      ],
+      "frequency" : 11344,
+      "mnemonic" : "astonish（使十分惊讶）+ -ed（形容词后缀）→感到十分惊讶的",
+      "phonetic" : "əˈstɒnɪʃt",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "astonished"
+    },
+    {
+      "collocations" : [
+        "to my astonishment：让我惊讶的是"
+      ],
+      "definition" : "惊讶；惊异",
+      "examples" : [
+
+      ],
+      "frequency" : 11559,
+      "mnemonic" : "astonish（惊讶）+-ment（名词后缀）→惊讶；惊异",
+      "phonetic" : "əˈstɒnɪʃmənt",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "astonishment"
+    },
+    {
+      "collocations" : [
+        "his astonishingly rapid recovery：他惊人的恢复速度"
+      ],
+      "definition" : "令人惊讶地",
+      "examples" : [
+
+      ],
+      "frequency" : 15996,
+      "phonetic" : "əˈstɔniʃiŋli",
+      "pos" : "adv.",
+      "rootHint" : "nurs",
+      "word" : "astonishingly"
+    },
+    {
+      "collocations" : [
+        "She was astounded by his arrogance.\n他的傲慢使她震惊"
+      ],
+      "definition" : "使震惊",
+      "examples" : [
+        "His arrogance astounded her.\n他的傲慢使她震惊。"
+      ],
+      "frequency" : 13202,
+      "mnemonic" : "as-（=ex-=out：出来）+ -toun-（=tun-：雷击）+ -d→被雷击得魂魄出\n窍→使震惊",
+      "phonetic" : "əˈstaʊnd",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "astound"
+    },
+    {
+      "collocations" : [
+        "an astounded expression：大吃一惊的表情",
+        "I was astounded by its beauty.\n我被它的美丽震撼了。"
+      ],
+      "definition" : "感到震惊（震撼）的；大吃一惊的",
+      "examples" : [
+        "The doctors were astounded (that) he survived.\n医生们感到震惊的是他竟活过来了。"
+      ],
+      "frequency" : 17047,
+      "phonetic" : "əˈstaʊndɪd",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "astounded"
+    },
+    {
+      "collocations" : [
+        "from Old French moral (14c.) and directly from Latin moralis “proper",
+        "behavior of a person in society,” literally “pertaining to manners,” coined\nby Cicero (“De Fato,” II.i) to translate Greek ethikos (see ethics) from",
+        "Latin mos (genitive moris) “one’s disposition,” in plural, “mores, customs,",
+        "manners, morals.”"
+      ],
+      "definition" : "令人震惊的",
+      "etymology" : "Mid-14c., “associated with or characterized by right behavior,” also “associated with or concerning conduct or moral principles” (good or bad),",
+      "examples" : [
+        "The results are quite astounding.\n这些结果非常令人震惊。"
+      ],
+      "frequency" : 16042,
+      "mnemonic" : "astound（使震惊）+ -ing（形容词后缀，令人……的）→令人震惊的",
+      "phonetic" : "əˈstaʊndɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "astounding"
+    },
+    {
+      "collocations" : [
+        "traditional moral values：传统的道德观念",
+        "moral responsibility\/duty：道义上的责任\/义务",
+        "a very moral person：品行非常端正的人",
+        "Young people these days have no morals.\n现在的年轻人没有道德。"
+      ],
+      "definition" : "道德的；道义上的；品行端正的；能辨别是非的 n. 品行；道德（尤指性关系方面）",
+      "examples" : [
+        "Children are not naturally moral beings.\n儿童并非天生就能分辨是非。"
+      ],
+      "frequency" : 1467,
+      "mnemonic" : "mor-（=manners：礼貌；品行）+ -al（形容词后缀）→有道德的",
+      "phonetic" : "ˈmɒrəl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "moral"
+    },
+    {
+      "collocations" : [
+        "a debate on the morality of abortion：有关堕胎是否道德的辩论"
+      ],
+      "definition" : "道德，道义；合乎道德的程度（是否道德）",
+      "examples" : [
+
+      ],
+      "frequency" : 5183,
+      "mnemonic" : "moral（道德的；道义上的；品行）+ -ity（名词后缀）→道德；品",
+      "phonetic" : "məˈræləti",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "morality"
+    },
+    {
+      "collocations" : [
+        "to act morally：按道义而行（循规蹈矩）",
+        "morally right \/ wrong \/ justified \/ unacceptable：从道义上讲是正确的\/错\n误的\/正当的\/不可接受的\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "道义上；道德上",
+      "examples" : [
+
+      ],
+      "frequency" : 6491,
+      "phonetic" : "ˈmɒrəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "nurs",
+      "word" : "morally"
+    },
+    {
+      "collocations" : [
+        "an immoral act \/ life \/ person：放荡的举动\/生活\/人"
+      ],
+      "definition" : "不道德的；放荡的",
+      "examples" : [
+        "It’s immoral to steal.\n偷盗是不道德的。"
+      ],
+      "frequency" : 9992,
+      "mnemonic" : "im-（=not：不；非）+ moral（道德的；（性关系方面的）品行）→",
+      "phonetic" : "ɪˈmɒrəl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "immoral"
+    },
+    {
+      "collocations" : [
+        "to boost \/ raise \/ improve morale：鼓舞\/提高\/增强士气（斗志）"
+      ],
+      "definition" : "士气；斗志",
+      "etymology" : "mental condition as regards confidence, courage, hope, etc.",
+      "examples" : [
+        "Staff are suffering from low morale.\n员工士气低落。"
+      ],
+      "frequency" : 7637,
+      "mnemonic" : "来自moral（道义上的）+ -e（名词后缀）→道义力量→用于军事行话",
+      "phonetic" : "məˈrɑːl",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "morale"
+    },
+    {
+      "collocations" : [
+        "demoralize the enemy troops：使敌军士气低落"
+      ],
+      "definition" : "使意志消沉；使士气低落",
+      "examples" : [
+        "Constant criticism is enough to demoralize anybody.\n不断的批评足以使任何人意志消沉。"
+      ],
+      "frequency" : 17257,
+      "mnemonic" : "de-（使相反）+ moral（=morale：士气；斗志）+ -ize（动词后缀）→",
+      "phonetic" : "dˈmɔrəlaɪz",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "demoralize"
+    },
+    {
+      "collocations" : [
+        "professional \/ business \/ medical ethics：职业\/商业道德；医德",
+        "work ethic：职业道德（行为准则）"
+      ],
+      "definition" : "道德准则；行为准则；伦理",
+      "etymology" : "来自希腊语ēthos “moral character”.",
+      "examples" : [
+
+      ],
+      "frequency" : 7254,
+      "phonetic" : "ˈeθɪk",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "ethic"
+    },
+    {
+      "collocations" : [
+        "ethical issues \/ standards \/ questions：有关道德的问题；道德标准\/问题"
+      ],
+      "definition" : "（有关）道德的；伦理的；合乎道德的",
+      "examples" : [
+        "Is it ethical to promote cigarettes through advertising?\n通过广告推销香烟合乎道德吗？"
+      ],
+      "frequency" : 3485,
+      "mnemonic" : "ethic（道德；伦理）+ -al（形容词后缀）→道德的；伦理的；合乎道",
+      "phonetic" : "ˈeθɪkl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "ethical"
+    },
+    {
+      "collocations" : [
+        "unethical behavior：不道德行为"
+      ],
+      "definition" : "不道德的",
+      "examples" : [
+
+      ],
+      "frequency" : 13128,
+      "mnemonic" : "un-（=not：不）+ ethical（道德的）→不道德的",
+      "phonetic" : "ʌnˈeθɪkl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "unethical"
+    },
+    {
+      "collocations" : [
+        "be ethically challenged：承受着道德的挑战",
+        "ethically acceptable：道德上可接受的"
+      ],
+      "definition" : "道德上",
+      "examples" : [
+
+      ],
+      "frequency" : 14504,
+      "phonetic" : "ˈeθɪkli",
+      "pos" : "adv.",
+      "rootHint" : "nurs",
+      "word" : "ethically"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "道德家；伦理学家",
+      "etymology" : "在罗马神话中，死神叫做墨尓斯（Mors），对应于古希腊神话中的 桑纳托斯（Thanatos）。在西方文化中，墨尓斯常被描绘为身着黑色 长袍，手持长柄镰刀的阴森老人。墨尓斯的名字Mors在拉丁语中就 是“死亡”的意思，英语中表示“死亡”的词根mor- \/ mort-就来源 于此。",
+      "examples" : [
+
+      ],
+      "frequency" : 17131,
+      "mnemonic" : "ethic（道德）+ -ist（名词后缀，…学家）→道德家；伦理学家",
+      "phonetic" : "ˈeθɪsɪst",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "ethicist"
+    },
+    {
+      "collocations" : [
+        "a mortal blow \/ wound：致命的一击\/伤口",
+        "ordinary mortal：普通凡人（大众）",
+        "mortal enemies：不共戴天的敌人",
+        "live in mortal dread：生活在极度的恐惧中",
+        "A man is deliberately designed to be mortal. He grows, he ages, and he"
+      ],
+      "definition" : "终有一死的；致命的；不共戴天的（你死我活的）；（恐惧等）极度的 n. 凡人",
+      "examples" : [
+        "For all men are mortal.\n人终有一死。\ndies.\n人是被故意设计成终归一死的。成长，变老，然后死去。"
+      ],
+      "frequency" : 9747,
+      "mnemonic" : "mort-（=die：死亡）+ -al（形容词后缀，……的）→终有一死的；致",
+      "phonetic" : "ˈmɔːtl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "mortal"
+    },
+    {
+      "collocations" : [
+        "mortality rates：死亡率",
+        "the infant mortality：婴儿死亡率",
+        "hospital mortalities (= deaths in hospital) ：医院里的死亡（数字）"
+      ],
+      "definition" : "生命的有限；死亡数量，死亡率；死亡",
+      "examples" : [
+        "After her mother’s death, she became acutely aware of her own mortality.\n她母亲去世后，她开始强烈意识到自己的生命是有限的。"
+      ],
+      "frequency" : 4715,
+      "mnemonic" : "mortal（终有一死的）+ -ity（名词后缀）→生命的有限；死亡\nmort-（=die：死亡）+ -al（名词后缀）+ -ity（名词后缀）→死亡数",
+      "phonetic" : "mɔːˈtæləti",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "mortality"
+    },
+    {
+      "collocations" : [
+        "the immortal words：不朽的名言"
+      ],
+      "definition" : "永生的，不朽的；流芳百世的，名垂千古的 n. 流芳百世的人物；神，永生不灭者",
+      "examples" : [
+        "The soul is immortal.\n灵魂是不朽的。"
+      ],
+      "frequency" : 11663,
+      "mnemonic" : "im-（=not：不；表相反）+ mort-（=die：死亡）+ -al（形容词后缀）\n→永不死亡的→长生的，不朽的；流芳百世的\nim-（=not：不；表相反）+ mortal（凡人）→与（终有一死的）凡人\n相反→流芳百世的人物；神",
+      "phonetic" : "ɪˈmɔːtl",
+      "pos" : "adj.",
+      "rootHint" : "nurs",
+      "word" : "immortal"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "永生；不朽；流芳百世",
+      "examples" : [
+        "He is well on his way to show business immortality.\n他很快就会成为娱乐界永世流芳的人物。"
+      ],
+      "frequency" : 13284,
+      "mnemonic" : "immortal（永生的；流芳百世的）+ -ity（名词后缀）→永生；流芳",
+      "phonetic" : "ˌɪmɔːˈtæləti",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "immortality"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使不朽；使名垂千古（尤指通过文学艺术作品等）",
+      "examples" : [
+        "The poet fell in love with her and immortalized her in his verse.\n诗人爱上了她，并以诗歌使她名垂千古。"
+      ],
+      "frequency" : 18880,
+      "mnemonic" : "immortal（不朽的；名垂千古的）+ -ize（使动词后缀）→使不朽；使",
+      "phonetic" : "ɪˈmɔːtəlaɪz",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "immortalize"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "使羞愧；使……感屈辱",
+      "examples" : [
+        "She was mortified to realize he had heard every word she said.\n她意识到他已经听到了她说的每一个字，这使她感到羞愧。\n近义词：humiliate [hjuːˈmɪlieɪt] vt. 羞辱；使丧失尊严"
+      ],
+      "frequency" : 19101,
+      "mnemonic" : "mort-（死亡）+ -ify（使动词后缀）→使感觉要死的→引申词义“使",
+      "phonetic" : "ˈmɔːtɪfaɪ",
+      "pos" : "vt.",
+      "rootHint" : "nurs",
+      "word" : "mortify"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "太平间；停尸房",
+      "examples" : [
+
+      ],
+      "frequency" : 19009,
+      "mnemonic" : "mort-（死亡）+ -u- + -ary（名词后缀，表场所）→停放死人的地方→",
+      "phonetic" : "ˈmɔːtʃəri",
+      "pos" : "n.",
+      "rootHint" : "nurs",
+      "word" : "mortuary"
+    }
+  ]
+}

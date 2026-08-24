@@ -1,6 +1,6 @@
 {
-  "chapter" : "39",
-  "chapterOrder" : 139,
+  "chapter" : "52",
+  "chapterOrder" : 152,
   "id" : "cap-2",
   "meaningZh" : "抓；拿。",
   "roots" : [
@@ -218,7 +218,7 @@
     {
       "collocations" : [
         "overhead \/ underground cables：高架 \/ 地下电缆",
-        "run commercials on cable systems：在有线电视上做广告\n词根 cop-=cap-，也表示“抓；握”。"
+        "run commercials on cable systems：在有线电视上做广告"
       ],
       "definition" : "缆绳；电缆；有线电视",
       "examples" : [
@@ -230,35 +230,6 @@
       "pos" : "n.",
       "rootHint" : "cap",
       "word" : "cable"
-    },
-    {
-      "collocations" : [
-        "He copped all the hassle after the accident.\n他在事故发生后各种的罪都受了。"
-      ],
-      "definition" : "遭受；忍受 n. 警察（policeman）",
-      "examples" : [
-        "Somebody call the cops! 去个人报警啊！"
-      ],
-      "frequency" : 2220,
-      "mnemonic" : "cop-=to seize, take：抓，握→警察（抓嫌疑人的人）；遭受（被苦难",
-      "phonetic" : "kɒp",
-      "pos" : "vt.",
-      "rootHint" : "cap",
-      "word" : "cop"
-    },
-    {
-      "collocations" : [
-        "the world’s largest producer of copper：世界上最大的产铜国"
-      ],
-      "definition" : "铜；警察（经常缩写为cop） adj. 铜色的",
-      "examples" : [
-
-      ],
-      "frequency" : 5117,
-      "phonetic" : "ˈkɒpə",
-      "pos" : "n.",
-      "rootHint" : "cap",
-      "word" : "copper"
     }
   ]
 }

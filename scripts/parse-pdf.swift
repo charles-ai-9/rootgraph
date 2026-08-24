@@ -58,12 +58,17 @@ func extractRoots(from header: String) -> [String] {
     if let eq = tail.range(of: "=") {
         tail = String(tail[..<eq.lowerBound])
     }
-    if let allIdx = tail.range(of: "全部表示") ?? tail.range(of: "均表示") ?? tail.range(of: "表示") {
+    if let fromIdx = tail.range(of: "来源于") {
+        tail = String(tail[..<fromIdx.lowerBound])
+    }
+    if let variantIdx = tail.range(of: "及其变体") {
+        tail = String(tail[..<variantIdx.lowerBound])
+    }
+    if let allIdx = tail.range(of: "全部表示") ?? tail.range(of: "均表示") ?? tail.range(of: "除了") ?? tail.range(of: "表示") {
         tail = String(tail[..<allIdx.lowerBound])
     }
     let parts = tail.components(separatedBy: CharacterSet(charactersIn: "，,、"))
-        // 保留教材变体原写法（-(s)pend / -(s)pon），展示忠于教材；匹配时前端归一化
-        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "")) }
+        .map { normalizeSpaces($0.replacingOccurrences(of: "-", with: "").replacingOccurrences(of: "\"", with: "").replacingOccurrences(of: "\u{201C}", with: "").replacingOccurrences(of: "\u{201D}", with: "")) }
         .filter { part in
             guard !part.isEmpty, part.count >= 2, part.count <= 12 else { return false }
             guard part.range(of: #"^[a-zA-Z*(]"#, options: .regularExpression) != nil else { return false }
@@ -134,11 +139,32 @@ func chineseChapterOrder(_ chapter: String) -> Int {
 }
 
 func isSupplementaryHeader(_ t: String) -> Bool {
-    let bad = ["除了", "还可以", "也可以", "例如", "词汇如下", "变体有", "是源于单词", "是来源于", "是压缩自", "因此包括", "相关词汇", "引申义为", "派生出", "作动词表示", "作名词", "也表示", "还可以表示", "还可以进一步", "还可以进一步引申", "均表示\"to", "……"]
-    if bad.contains(where: { t.contains($0) }) { return true }
     if t.contains("····") { return true }
+    if t.contains("还可以表示") { return true }
+    if t.contains("也可以表示"), let also = t.range(of: "也可以表示"), let first = t.range(of: "表示"), also.lowerBound > first.lowerBound {
+        return true
+    }
+    if t.hasPrefix("词根") && t.count <= 160 {
+        if t.contains("表示") || t.contains("=") { return false }
+        if t.contains("\"") || t.contains("\u{201C}") || t.contains("\u{201D}") { return false }
+        if t.range(of: #"词根\s*[-*“\"'][a-zA-Z]"#, options: .regularExpression) != nil { return false }
+    }
+    let bad = ["还可以", "也可以", "例如", "词汇如下", "变体有", "是源于单词", "是来源于", "是压缩自", "因此包括", "相关词汇", "引申义为", "派生出", "作动词表示", "作名词", "还可以表示", "还可以进一步", "还可以进一步引申", "均表示\"to", "……"]
+    if bad.contains(where: { t.contains($0) }) { return true }
     if t.hasPrefix("词根\"") && !t.contains("=") { return true }
     return false
+}
+
+func isChapterHeaderStart(_ line: String) -> Bool {
+    let t = normalizeSpaces(line)
+    guard t.hasPrefix("词根") else { return false }
+    if isSupplementaryHeader(t) { return false }
+    return true
+}
+
+func completesChapterHeader(_ line: String) -> Bool {
+    let t = normalizeSpaces(line)
+    return t.contains("表示") || t.contains("=") || t.hasPrefix("来源于")
 }
 
 func extractMeanings(from header: String) -> (en: String?, zh: String?) {
@@ -287,6 +313,7 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
     var collectingFrequency = false
     var collectingInlineExample = false
     var inlineExampleBuffer = ""
+    var pendingChapterHeaderLine: String?
 
     func resetWordCollectors() {
         collectingDefinition = false
@@ -468,23 +495,43 @@ func parsePDF(at path: String, sourceLabel: String) -> [RootFamily] {
         families.append(family)
     }
 
+    func startChapter(with header: String) {
+        flushFamily()
+        currentHeader = header
+        if let m = header.range(of: #"^[一二三四五六七八九十]+、"#, options: .regularExpression) {
+            currentChapter = String(header[m].dropLast())
+        } else {
+            chapterCounter += 1
+            currentChapter = "\(chapterCounter)"
+        }
+        currentRoots = extractRoots(from: header)
+        currentWords = []
+        currentWordIdx = nil
+        resetWordCollectors()
+    }
+
     var i = 0
     while i < lines.count {
         let line = lines[i]
 
-        if isChapterHeader(line) {
-            flushFamily()
-            currentHeader = line
-            if let m = line.range(of: #"^[一二三四五六七八九十]+、"#, options: .regularExpression) {
-                currentChapter = String(line[m].dropLast())
-            } else {
-                chapterCounter += 1
-                currentChapter = "\(chapterCounter)"
+        if let pending = pendingChapterHeaderLine {
+            if completesChapterHeader(line) {
+                startChapter(with: normalizeSpaces(pending + " " + line))
+                pendingChapterHeaderLine = nil
+                i += 1
+                continue
             }
-            currentRoots = extractRoots(from: line)
-            currentWords = []
-            currentWordIdx = nil
-            resetWordCollectors()
+            pendingChapterHeaderLine = nil
+        }
+
+        if isChapterHeader(line) {
+            startChapter(with: line)
+            i += 1
+            continue
+        }
+
+        if isChapterHeaderStart(line) && !completesChapterHeader(line) {
+            pendingChapterHeaderLine = line
             i += 1
             continue
         }

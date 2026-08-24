@@ -1,0 +1,106 @@
+{
+  "chapter" : "4",
+  "chapterOrder" : 104,
+  "id" : "grat-2",
+  "meaningZh" : "满意，满足之外，还可表示感谢，感激",
+  "roots" : [
+    "grat"
+  ],
+  "semanticLabel" : "满意，满足之外，还可表示感谢，感激",
+  "source" : "textbook-7",
+  "titleZh" : "满意，满足之外，还可表示感谢，感激",
+  "words" : [
+    {
+      "collocations" : [
+        "I am so grateful for your hospitality and warm reception that I would like",
+        "to invite you to come to China."
+      ],
+      "definition" : "感激的；表示感谢的",
+      "examples" : [
+        "She was grateful to him for being so good to her.\n她很感激他对她这么好。",
+        "我是如此的感激你们的热情款待，以至于我想邀请你们到中国\n来。（感谢信）"
+      ],
+      "frequency" : 3706,
+      "mnemonic" : "grate（=grace=thanks：感谢；感激）+-ful（形容词后缀：的）→感激",
+      "phonetic" : "ˈɡreɪtfl",
+      "pos" : "adj.",
+      "rootHint" : "grat",
+      "word" : "grateful"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "感激地；感谢地",
+      "examples" : [
+        "All donations will be gratefully received.\n如蒙捐助，定将报以衷心的感谢。"
+      ],
+      "frequency" : 14771,
+      "phonetic" : "ˈɡreɪtfəli",
+      "pos" : "adv.",
+      "rootHint" : "grat",
+      "word" : "gratefully"
+    },
+    {
+      "collocations" : [
+        "show gratitude to sb.：向某人表达感激",
+        "With all that attention paid to turtles, you’d think these creatures would at",
+        "least have the gratitude not to go extinct.\n基于对海龟的所有关注，你会认为这些动物至少会对没有灭绝心存\n感激。\n笔 记 区"
+      ],
+      "definition" : "感激之情；感谢",
+      "examples" : [
+        "She was presented with the gift in gratitude for her long service.\n这礼物赠送给她以表达对她长期服务的感激之情。"
+      ],
+      "frequency" : 7175,
+      "mnemonic" : "grat（感激；感谢）+-itude（名词后缀）→感激之情；感谢",
+      "phonetic" : "ˈgrætɪtjuːd",
+      "pos" : "n.",
+      "rootHint" : "grat",
+      "word" : "gratitude"
+    },
+    {
+      "collocations" : [
+        "congratulate him on the birth of his son：对他儿子的出生表示祝贺"
+      ],
+      "definition" : "祝贺，称赞；（为成就或成功）感到自豪 n.祝贺",
+      "examples" : [
+        "You can congratulate yourself on having done an excellent job.\n你应该为你出色的工作感到自豪。"
+      ],
+      "frequency" : 8520,
+      "mnemonic" : "con-（=together, with：共同；一起）+ -grat-（感谢；感激）+ -ul（名\n词后缀，e略）+ -ate（动词后缀）→祝贺，称赞；祝贺",
+      "phonetic" : "kənˈgrætjʊleɪt",
+      "pos" : "vt.",
+      "rootHint" : "grat",
+      "word" : "congratulate"
+    },
+    {
+      "collocations" : [
+        "offer congratulations：表示祝贺"
+      ],
+      "definition" : "祝贺；恭喜",
+      "examples" : [
+
+      ],
+      "frequency" : 10258,
+      "phonetic" : "kənˌgrætʃəˈleʃənz",
+      "pos" : "n.",
+      "rootHint" : "grat",
+      "word" : "congratulations"
+    },
+    {
+      "collocations" : [
+        "gratuitous violence on television：电视节目里无谓的暴力镜头"
+      ],
+      "definition" : "无正当理由（或目的）的，无端的；不必要的",
+      "examples" : [
+
+      ],
+      "frequency" : 17471,
+      "mnemonic" : "grat-（感谢）+ -u- + -itous（形容词后缀）→原指表达感谢，免费给\n予→后词义贬义化，表示“无缘无故的，莫名其妙的”→“无端的；",
+      "phonetic" : "grəˈtjuːɪtəs",
+      "pos" : "adj.",
+      "rootHint" : "grat",
+      "word" : "gratuitous"
+    }
+  ]
+}

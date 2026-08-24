@@ -32,7 +32,20 @@
     "semanticLabel": "come，go 来，走来",
     "source": "textbook-1",
     "titleZh": "come，go 来，走来",
-    "wordCount": 71
+    "wordCount": 29
+  },
+  {
+    "chapter": "1",
+    "chapterOrder": 101,
+    "file": "1.json",
+    "id": "1",
+    "meaningEn": "前，前面，例如",
+    "meaningZh": "",
+    "roots": [],
+    "semanticLabel": "前，前面",
+    "source": "textbook-1",
+    "titleZh": "前，前面",
+    "wordCount": 43
   },
   {
     "chapter": "三",
@@ -120,7 +133,22 @@
     "semanticLabel": "限制，约束，范围",
     "source": "textbook-1",
     "titleZh": "限制，约束，范围",
-    "wordCount": 121
+    "wordCount": 104
+  },
+  {
+    "chapter": "2",
+    "chapterOrder": 102,
+    "file": "fin-2.json",
+    "id": "fin-2",
+    "meaningEn": "",
+    "meaningZh": "限制，约束",
+    "roots": [
+      "fin"
+    ],
+    "semanticLabel": "限制，约束",
+    "source": "textbook-1",
+    "titleZh": "限制，约束",
+    "wordCount": 17
   },
   {
     "chapter": "八",
@@ -172,6 +200,21 @@
     "wordCount": 30
   },
   {
+    "chapter": "3",
+    "chapterOrder": 103,
+    "file": "trib.json",
+    "id": "trib",
+    "meaningEn": "给的含义，是源于单词give",
+    "meaningZh": "给（g，t 音似，b",
+    "roots": [
+      "trib"
+    ],
+    "semanticLabel": "给（g，t 音似，b",
+    "source": "textbook-1",
+    "titleZh": "给（g，t 音似，b",
+    "wordCount": 20
+  },
+  {
     "chapter": "十一",
     "chapterOrder": 11,
     "file": "ply.json",
@@ -206,21 +249,6 @@
       "ics"
     ],
     "wordCount": 27,
-    "source": "textbook-1"
-  },
-  {
-    "id": "trib",
-    "file": "trib.json",
-    "chapter": "补",
-    "chapterOrder": 98,
-    "titleZh": "批准、授权、给与；给予",
-    "semanticLabel": "grant 批准、授权、给与；give 给予",
-    "meaningEn": "grant; give",
-    "meaningZh": "批准、授权、给与；给予",
-    "roots": [
-      "trib"
-    ],
-    "wordCount": 20,
     "source": "textbook-1"
   }
 ]

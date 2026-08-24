@@ -1,0 +1,2027 @@
+{
+  "chapter" : "5",
+  "chapterOrder" : 105,
+  "id" : "mis-3",
+  "meaningEn" : "change",
+  "meaningZh" : "改变。",
+  "roots" : [
+    "mis"
+  ],
+  "semanticLabel" : "改变。",
+  "source" : "textbook-6",
+  "titleZh" : "改变。",
+  "words" : [
+    {
+      "collocations" : [
+        "wouldn’t miss it for the world：说什么也不能错过",
+        "narrowly missed：差一点打中\n20000 词汇巅峰\n速\n记\nmiss sb.\/sth. out：不包括……在内；遗漏",
+        "He completely missed the joke.\n这个笑话他一点也没听懂。",
+        "The sale prices were too good to miss.\n那次价格优惠真的不可错过。",
+        "She will be greatly missed when she leaves.\n她走了以后，人们会非常思念她的。",
+        "When did you first miss the necklace?\n你最早发觉项链不见了是什么时候？\n笔 记 区"
+      ],
+      "definition" : "未击中；不闻，不见；不懂；错过（机会）；思念；发觉某物不在",
+      "etymology" : "来自古英语missan “fail to hit, miss (a mark)：打偏；偏离目标”。来自 德语missa- “in a changed manner：方式改变的”，因此有“abnormally, wrongly：不正常地；错误地”含义。引申词义未击中；没听见，没 听懂；错过，并引申词义思念，发觉某物不在。",
+      "examples" : [
+        "I missed her name.\n我没听清她的名字。"
+      ],
+      "frequency" : 836,
+      "phonetic" : "mɪs",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "miss"
+    },
+    {
+      "collocations" : [
+        "missing in action：（士兵）在战斗中失踪的",
+        "missing buttons：缺失了的纽扣。",
+        "missing from...：在……中漏掉的"
+      ],
+      "definition" : "找不到的；缺失的；遗漏的；失踪的",
+      "examples" : [
+        "Our cat’s gone missing again.\n我们的猫又找不到了。"
+      ],
+      "frequency" : 3530,
+      "mnemonic" : "miss（不见；发觉某物不在）+ -ing（形容词后缀）→找不到的；缺",
+      "phonetic" : "ˈmɪsɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "missing"
+    },
+    {
+      "collocations" : [
+        "missed call：未接（错过的）电话",
+        "missed shot：漏击，击球投偏的"
+      ],
+      "definition" : "错过的；投偏的；丢失的",
+      "examples" : [
+
+      ],
+      "frequency" : 12765,
+      "phonetic" : "mɪst",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "missed"
+    },
+    {
+      "collocations" : [
+        "there is no mistaking...：……不会弄错"
+      ],
+      "definition" : "错误；错事 vt. 误认为；误解",
+      "examples" : [
+
+      ],
+      "frequency" : 1436,
+      "mnemonic" : "mis-（=badly, wrong：错误地）+ take（拿；获取；理解）→错误地\n拿、获取、理解的事情→错误；错事；误解",
+      "phonetic" : "mɪˈsteɪk",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "mistake"
+    },
+    {
+      "collocations" : [
+        "be mistaken for：被误认为……；被误解为",
+        "If I’m not mistaken...\/unless I’m very much mistaken：如果我没搞错的"
+      ],
+      "definition" : "弄错的；（信念或观点）错误的",
+      "examples" : [
+
+      ],
+      "frequency" : 13103,
+      "mnemonic" : "mistake（错误；失误）+ -en（构成过去分词）→过去分词变为形容",
+      "phonetic" : "mɪˈsteɪk(ə)n",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "mistaken"
+    },
+    {
+      "collocations" : [
+        "mistakenly believe...：错误地认为"
+      ],
+      "definition" : "错误地",
+      "examples" : [
+
+      ],
+      "frequency" : 11364,
+      "phonetic" : "mɪˈstekənli",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "mistakenly"
+    },
+    {
+      "collocations" : [
+        "the unmistakable sound of gunfire：清清楚楚的枪炮声"
+      ],
+      "definition" : "不会弄错的；明显的",
+      "examples" : [
+        "Her accent was unmistakable.\n她的口音是很明显的。"
+      ],
+      "frequency" : 10120,
+      "mnemonic" : "un-（=not：不）+ mistake（错误）+ -able（形容词后缀，能够……\n的）→不会有错误的→不会弄错的；明显的",
+      "phonetic" : "ˌʌnmɪˈsteɪkəb(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "unmistakable"
+    },
+    {
+      "collocations" : [
+        "an unmistakably British accent：明显的英国口音"
+      ],
+      "definition" : "不会弄错地；明显地",
+      "examples" : [
+
+      ],
+      "frequency" : 16826,
+      "phonetic" : "ˌʌnmɪˈsteɪkəbli",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "unmistakably"
+    },
+    {
+      "collocations" : [
+        "mutual mistrust：互不信任",
+        "mistrust all journalists：不信任所有的记者",
+        "a climate of mistrust and fear：充满猜疑和恐惧的氛围"
+      ],
+      "definition" : "猜疑；不信任 n. 不信任",
+      "examples" : [
+
+      ],
+      "frequency" : 14309,
+      "mnemonic" : "mis-（表相反）+ trust（信任）→信任的反面→不信任",
+      "phonetic" : "ˌmɪsˈtrʌst",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "mistrust"
+    },
+    {
+      "collocations" : [
+        "She bore her misfortunes bravely.\n她勇敢地承受不幸的遭遇。\n笔 记 区"
+      ],
+      "definition" : "不幸；不幸的事件",
+      "examples" : [
+        "We had the misfortune to run into a violent storm.\n我们不幸遭遇了猛烈的暴风雨。"
+      ],
+      "frequency" : 10574,
+      "mnemonic" : "mis-（坏的，表否定）+ fortune（运气）→不好的运气→不幸；不幸",
+      "phonetic" : "ˌmɪsˈfɔːtʃuːn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misfortune"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "疑虑",
+      "examples" : [
+        "I had grave misgivings about making the trip.\n对于这次旅行我有过极大的顾虑。"
+      ],
+      "frequency" : 13773,
+      "mnemonic" : "mis-（不好的）+ give（=suggest：暗示；想法，e省略）+ -ing（名词\n后缀）→即心中不好的想法→感到怀疑，顾虑",
+      "phonetic" : "mɪsˈgɪvɪŋ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misgiving"
+    },
+    {
+      "collocations" : [
+        "mishandle an important project：对一件重要项目处理不当"
+      ],
+      "definition" : "对……处理不当",
+      "examples" : [
+
+      ],
+      "frequency" : 19814,
+      "mnemonic" : "mis-（不好的）+ handle（处理）→处理不好→对……处理不当",
+      "phonetic" : "ˌmɪsˈhændl",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "mishandle"
+    },
+    {
+      "collocations" : [
+        "a deliberate piece of misinformation：一条故意提供的虚假消息"
+      ],
+      "definition" : "（常指故意提供的）虚假消息",
+      "examples" : [
+
+      ],
+      "frequency" : 15351,
+      "mnemonic" : "mis-（错误的）+ information（消息）→错误的消息→（故意提供",
+      "phonetic" : "ˌmɪsɪnfəˈmeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misinformation"
+    },
+    {
+      "collocations" : [
+        "misjudge the distance：对距离判断错误"
+      ],
+      "definition" : "对……判断错误",
+      "examples" : [
+
+      ],
+      "frequency" : 19125,
+      "mnemonic" : "mis-（错误的）+ judge（判断）→对……判断错误",
+      "phonetic" : "mɪsˈdʒʌdʒ",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "misjudge"
+    },
+    {
+      "collocations" : [
+        "mislead the public：误导了公众"
+      ],
+      "definition" : "误导；引入歧途",
+      "examples" : [
+
+      ],
+      "frequency" : 8847,
+      "mnemonic" : "mis-（错误）+ lead（引导）→错误引导→误导；引入歧途",
+      "phonetic" : "mɪsˈliːd",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "mislead"
+    },
+    {
+      "collocations" : [
+        "misleading information\/advertisements：使人产生误解的信息\/广告",
+        "a deceptive advertisement：虚假广告"
+      ],
+      "definition" : "误导的；引入歧途的",
+      "examples" : [
+
+      ],
+      "frequency" : 6679,
+      "phonetic" : "mɪsˈliːdɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "misleading"
+    },
+    {
+      "collocations" : [
+        "gross mismanagement：处理事务的严重不当"
+      ],
+      "definition" : "处理不当",
+      "examples" : [
+
+      ],
+      "frequency" : 13640,
+      "mnemonic" : "mis-（不当的）+ management（处理方法、能力）→处理方法不当→",
+      "phonetic" : "mɪsˈmænɪdʒmənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "mismanagement"
+    },
+    {
+      "collocations" : [
+        "mismatch of styles：风格搭配的不协调"
+      ],
+      "definition" : "使（人或事物）错配 n. 不匹配；不协调",
+      "examples" : [
+        "She was deliberately mismatching articles of clothing.\n她故意把衣服混搭（搭配不协调）。"
+      ],
+      "frequency" : 16611,
+      "mnemonic" : "mis-（错误的）+ match（匹配）→错误的搭配→使错配；不匹配，不",
+      "phonetic" : "ˈmɪsmætʃ",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "mismatch"
+    },
+    {
+      "collocations" : [
+        "misread the mood：误解了情绪",
+        "misread his route：看错了他的路线"
+      ],
+      "definition" : "误解；误读，看错",
+      "examples" : [
+
+      ],
+      "frequency" : 16432,
+      "mnemonic" : "mis-（错误的）+ read（理解；读）→理解错误，读错→误解；误",
+      "phonetic" : "mɪsˈriːd",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "misread"
+    },
+    {
+      "collocations" : [
+        "a social misfit：与社会格格不入的人"
+      ],
+      "definition" : "与别人合不来的人",
+      "examples" : [
+
+      ],
+      "frequency" : 19229,
+      "mnemonic" : "mis-（不好的）+ fit（合适的；适合）→不能与别人适合良好的→与",
+      "phonetic" : "ˈmɪsfɪt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misfit"
+    },
+    {
+      "collocations" : [
+        "a string of costly missteps：一连串代价昂贵的差错"
+      ],
+      "definition" : "差错；失误",
+      "examples" : [
+
+      ],
+      "frequency" : 15588,
+      "mnemonic" : "mis-（错的）+ step（步伐）→步伐错误的→引申词义差错；失误",
+      "phonetic" : "mɪsˈstep",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misstep"
+    },
+    {
+      "collocations" : [
+        "have a miscarriage：经历过一次小产"
+      ],
+      "definition" : "流产；小产",
+      "examples" : [
+        "The pregnancy ended in miscarriage at 11 weeks.\n怀孕到第11周便流产了。"
+      ],
+      "frequency" : 13449,
+      "mnemonic" : "mis-（不好的）+ carri（=carry：携带）+ -age（名词后缀）→（胎\n儿）没有携带好，丢失或遭破坏→流产；小产",
+      "phonetic" : "mɪsˈkærɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "miscarriage"
+    },
+    {
+      "collocations" : [
+        "keep out of mischief：不搞恶作剧",
+        "up to mischief：搞恶作剧",
+        "make mischief：搬弄是非；挑拨离间；制造事端",
+        "Watch how you use those scissors—you could do yourself a mischief!\n看你那是怎么用剪刀啊—你会弄伤自己的！"
+      ],
+      "definition" : "恶作剧；恶意；伤害；制造麻烦",
+      "examples" : [
+        "Her eyes were full of mischief.\n她眼睛里满是恶意。"
+      ],
+      "frequency" : 12141,
+      "mnemonic" : "mis-（=badly：坏的；不好的）+ -chief（=happen, come to a head：发\n生；降临到头上）→比喻不好的事情发生，露头→即坏事发生的苗\n头，恶意，伤害，事端→后词义弱化为指小孩淘气，恶作剧",
+      "phonetic" : "ˈmɪstʃɪf",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "mischief"
+    },
+    {
+      "collocations" : [
+        "a mischievous boy：顽皮的男孩",
+        "mischievous lies\/gossip：招惹是非的谎言\/闲言碎语"
+      ],
+      "definition" : "顽皮的；捣蛋的（naughty）；招惹是非的；恶意的",
+      "examples" : [
+
+      ],
+      "frequency" : 14372,
+      "mnemonic" : "mischiev（=mischief：恶作剧；制造麻烦；伤害）+ -ous（形容词后\n缀，具有……的，充满……的）→恶作剧的；制造麻烦、伤害的→顽",
+      "phonetic" : "ˈmɪstʃɪvəs",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "mischievous"
+    },
+    {
+      "collocations" : [
+        "financial misdeeds of government：政府在财政方面行为不端",
+        "reciprocally, “to get in return”); It is the hypothetical source of\/evidence",
+        "for its existence is provided by: Sanskrit purtam “reward;” Hittite\nparshiya- “fraction, part;” Greek peprotai “it has been granted;” Latin",
+        "partem (nominative pars) “a part, piece,” portio “share, portion.”"
+      ],
+      "definition" : "不端行为；恶行18320",
+      "etymology" : "pere- *perə-, Proto-Indo-European root meaning “to grant, allot” (and",
+      "examples" : [
+
+      ],
+      "mnemonic" : "mis-（坏的；不好的）+ deed（行为）→不好的行为→不端行为；恶行",
+      "phonetic" : "mɪsˈdiːd",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "misdeed"
+    },
+    {
+      "collocations" : [
+        "part of the in-crowd：小圈子的一员",
+        "spare parts：备用零件",
+        "in part：某种程度上",
+        "play a large or important part in：起很大的\/很重要的作用",
+        "take part in：参加",
+        "Perry spent part of his childhood in Canada.\n佩里在加拿大度过了童年的部分时光。"
+      ],
+      "definition" : "&vi. 分开 v-recip：分手；被分开 n. 部分；零件；角色；参与；成员 adv. 一半",
+      "examples" : [
+        "He gave me the envelope and we parted.\n他把信封给我，我们就分手了。"
+      ],
+      "frequency" : 178,
+      "mnemonic" : "part来自故此跟pere-，含义为“to grant, allot：授予；分配”，得到分",
+      "phonetic" : "pɑːt",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "part"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "在一定程度上；部分地",
+      "examples" : [
+        "Some people are unwilling to attend the classes partly because of the cost\ninvolved.\n有些人不愿来上课，部分原因是所需的费用问题。"
+      ],
+      "frequency" : 2847,
+      "phonetic" : "ˈpɑːtlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "partly"
+    },
+    {
+      "collocations" : [
+        "be rather partial to pink：对粉红色相当偏爱",
+        "be accused of being partial：被人指责是偏袒的\n笔 记 区"
+      ],
+      "definition" : "部分的；偏爱的；偏袒的",
+      "examples" : [
+
+      ],
+      "frequency" : 4596,
+      "mnemonic" : "part-（部分）+ -ial（……的）→部分的；偏爱的；偏袒的（即：偏向",
+      "phonetic" : "ˈpɑːʃl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "partial"
+    },
+    {
+      "collocations" : [
+        "partially sighted：弱视者",
+        "Partly and partially both mean ‘not completely’",
+        "partly和partially均指部分：",
+        "His mother is partially blind.\n他的母亲失去了部分视力。"
+      ],
+      "definition" : "在一定程度上地；部分地；偏袒地",
+      "examples" : [
+        "The road is partly\/partially finished.\n道路完工了一部分。\n1）partly尤用以说明原因，其后常跟because或due to：\nI didn’t enjoy the trip very much, partly because of the weather.\n我旅行过得不太愉快，部分是因为天气的缘故。\n2）指身体状况时应用partially："
+      ],
+      "frequency" : 4426,
+      "phonetic" : "ˈpɑːʃəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "partially"
+    },
+    {
+      "collocations" : [
+        "a dancing\/tennis, etc. partner：舞伴、网球搭档等",
+        "a trading partner：贸易伙伴",
+        "offer to partner me at tennis：提出和我搭档打网球"
+      ],
+      "definition" : "配偶；合伙人；搭档 vt. 与……搭挡",
+      "examples" : [
+
+      ],
+      "frequency" : 1052,
+      "mnemonic" : "part（部分；成员；参与）+ -ner（名词后缀，表示人）→成为其中的\n一部分、成员→引申词义配偶；合伙人；搭档",
+      "phonetic" : "ˈpɑːtnə",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "partner"
+    },
+    {
+      "collocations" : [
+        "to be in\/to go into partnership：结成合作关系",
+        "an equal partnership：平等的伴侣关系",
+        "in partnership with：和……合伙(或合作)\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "伙伴关系；合作关系；合伙企业",
+      "examples" : [
+
+      ],
+      "frequency" : 2935,
+      "mnemonic" : "partner（合伙人）+ -ship（表关系或状态）→伙伴关系；合作关系；",
+      "phonetic" : "ˈpɑːtnəʃɪp",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "partnership"
+    },
+    {
+      "collocations" : [
+        "part-time work：兼职工作"
+      ],
+      "definition" : "部分时间的；兼职的 adv. 部分时间地；兼职地",
+      "examples" : [
+
+      ],
+      "frequency" : 5292,
+      "mnemonic" : "part（部分的）+ time（时间）→部分时间的；兼职的",
+      "phonetic" : "ˌpɑːt ˈtaɪm",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "part-time"
+    },
+    {
+      "collocations" : [
+        "this two-part series：这个两部分系列"
+      ],
+      "definition" : "两部分",
+      "examples" : [
+
+      ],
+      "frequency" : 16898,
+      "mnemonic" : "two（两个）+ part（部分）→两部分",
+      "phonetic" : "ˈtuːpɑːt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "two-part"
+    },
+    {
+      "collocations" : [
+        "a three-part process：过程包括三部分"
+      ],
+      "definition" : "三部分的",
+      "examples" : [
+
+      ],
+      "frequency" : 19225,
+      "mnemonic" : "three（三个）+ part（部分）→三部分的",
+      "phonetic" : "ˈθriːpɑːt",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "three-part"
+    },
+    {
+      "collocations" : [
+        "a party of sightseers：一群游客",
+        "come to party：来尽情欢乐",
+        "the injured party：受害方",
+        "be a party to\/be party to：参与"
+      ],
+      "definition" : "尽情欢乐 n. 政党；派对；群；组；（契约或争论的）一方",
+      "examples" : [
+
+      ],
+      "frequency" : 352,
+      "mnemonic" : "part（部分；成员；参与）+ -y（名词后缀）→即其中的一部分，参\n与者；成员→引申词义政党，党派；也指一伙人的聚会，宴会；以及",
+      "phonetic" : "ˈpɑːtɪ",
+      "pos" : "vi.",
+      "rootHint" : "mis",
+      "word" : "party"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "一方当事人",
+      "examples" : [
+
+      ],
+      "frequency" : 18991,
+      "phonetic" : "ˈwʌn ˈpɑːti",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "one-party"
+    },
+    {
+      "collocations" : [
+        "your account.\n你可以通知银行，允许第三方从你的账户取款。\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "（商业协议、法律案件中的）第三方",
+      "examples" : [
+        "You can instruct your bank to allow a third party to remove money from"
+      ],
+      "frequency" : 11419,
+      "mnemonic" : "third（第三）+ party（一方）→第三方",
+      "phonetic" : "ˌθɜːrd ˈpɑːrti",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "third-party"
+    },
+    {
+      "collocations" : [
+        "sub-atomic particles：亚原子粒子",
+        "a particle of hot metal：热金属微粒"
+      ],
+      "definition" : "微粒；极小量；粒子",
+      "examples" : [
+        "There is a particle of truth in his statement.\n在他的声明中只有极少的事实。"
+      ],
+      "frequency" : 3719,
+      "mnemonic" : "part-（部分）+ -icle（=-ic + -le：复合名词后缀）→小的部分→微",
+      "phonetic" : "ˈpɑːtɪkl",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "particle"
+    },
+    {
+      "collocations" : [
+        "impart knowledge：传授知识",
+        "impart great elegance to the dress：为自己的衣着增添几分优雅"
+      ],
+      "definition" : "传授；告知；给予（特定品质）",
+      "examples" : [
+
+      ],
+      "frequency" : 9896,
+      "mnemonic" : "im-（=into, in：进入）+ part（部分）→进入……，使……知道部分\n（信息、知识）→传授；告知；给予",
+      "phonetic" : "ɪmˈpɑːt",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "impart"
+    },
+    {
+      "collocations" : [
+        "an impartial inquiry\/observer：公正的调查\/观察者",
+        "to give impartial advice：提出不偏不倚的建议",
+        "remain impartial：保持中立"
+      ],
+      "definition" : "公正的；不偏不倚的；中立的",
+      "examples" : [
+
+      ],
+      "frequency" : 12629,
+      "mnemonic" : "im-（不；表相反）+ part（=party：一方）+ -ial（形容词后缀）→不\n偏向一方的，即不偏袒的→公正的；不偏不倚的；中立的",
+      "phonetic" : "ɪmˈpɑːʃl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "impartial"
+    },
+    {
+      "collocations" : [
+        "partake of our feast：享用我们的丰盛大餐",
+        "partake in very vigorous sports：参加非常剧烈的体育运动"
+      ],
+      "definition" : "吃；喝；享用（尤指给予的东西）；参与",
+      "examples" : [
+        "Would you care to partake of some refreshment?\n你想吃些东西吗？"
+      ],
+      "frequency" : 16145,
+      "mnemonic" : "par（=part：部分）+ take（拿走）→拿走一部分→吃；喝；享用；参",
+      "phonetic" : "pɑːˈteɪk",
+      "pos" : "vi.",
+      "rootHint" : "mis",
+      "word" : "partake"
+    },
+    {
+      "collocations" : [
+        "parting words：离别的话语",
+        "the moment of parting：离别的时刻\na\/the parting of the ways：岔路口；分道扬镳处；分手时刻"
+      ],
+      "definition" : "离别；（头发的）分缝 adj. 离别的",
+      "examples" : [
+        "Parting from any one of you for even a short time is hard.\n与你们当中的任何一个人离别，即使是很短的时间，也很令人难过。"
+      ],
+      "frequency" : 14149,
+      "mnemonic" : "part（分开） + -ing（名词\/形容词后缀）→（头发）分开；离别；离别的",
+      "phonetic" : "ˈpɑːtɪŋ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "parting"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（对某个人、团体或思想）过分支持的，偏护的，盲目拥护的 n. 坚定的支持者；铁杆拥护者",
+      "examples" : [
+        "He is clearly too partisan to be a referee.\n他显然过于偏袒，不适合担任裁判。"
+      ],
+      "frequency" : 6313,
+      "mnemonic" : "parti（=party：分支；党派）+ -san（名词后缀，表示人）→党羽的；\n支持某党派的人→过分支持的；偏袒的；坚定的支持者（=a steadfast\nfollower）",
+      "phonetic" : "ˈpɑːtɪzæn",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "partisan"
+    },
+    {
+      "collocations" : [
+        "political partisanship：政治上的盲目支持"
+      ],
+      "definition" : "盲目支持",
+      "examples" : [
+
+      ],
+      "frequency" : 14034,
+      "mnemonic" : "partisan（盲目拥护的）+ -ship（名词后缀，表某种关系或状态）→盲",
+      "phonetic" : "ˈpɑːtɪzænʃɪp",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "partisanship"
+    },
+    {
+      "collocations" : [
+        "glass partitions：玻璃隔板",
+        "the partition of India：印度分裂",
+        "partition the German state：分割德国"
+      ],
+      "definition" : "（用隔断）隔开；分割 n. 隔断；分裂",
+      "examples" : [
+        "Bedrooms have again been created by partitioning a single larger room.\n通过用隔断分隔一间大房，几间卧室又被创造出来。"
+      ],
+      "frequency" : 9939,
+      "mnemonic" : "part（分开；隔开）+ -ition（复合名词后缀）→引申词义隔开；分",
+      "phonetic" : "pɑːˈtɪʃn",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "partition"
+    },
+    {
+      "collocations" : [
+        "apartment complex：公寓大楼"
+      ],
+      "definition" : "（通常指在同一楼层的）公寓套房",
+      "examples" : [
+
+      ],
+      "frequency" : 1280,
+      "mnemonic" : "a-（加强语气）+ part（部分）+ -ment（名词后缀）→每家一分部；\n非独门独栋→公寓",
+      "phonetic" : "əˈpɑːtmənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "apartment"
+    },
+    {
+      "collocations" : [
+        "a handy storage compartment：便利的橱柜",
+        "first class compartment：头等车厢"
+      ],
+      "definition" : "（铁路客车车厢分隔成的）隔间；（家具或设备等的）分隔间，隔层",
+      "examples" : [
+        "The desk has a secret compartment.\n这书桌有一个暗格。\n隔间；分隔间，隔层"
+      ],
+      "frequency" : 6669,
+      "mnemonic" : "com-（强调前缀）+ -part-（部分；分隔）+ -ment（名词后缀）→分\n隔出来的部分→（火车）隔间；（家具）隔层",
+      "phonetic" : "kəmˈpɑːtmənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "compartment"
+    },
+    {
+      "collocations" : [
+        "apart from：除……之外",
+        "set A apart from B：使A和B分离开，区分开\ncannot tell...apart：不能区分",
+        "start falling apart：开始分崩离析\n25 miles apart from each other：彼此相隔25英里",
+        "achievements, what sets them apart is hope.\n当你对比有同等智力和过往学术成绩的学生，使他们区别开的是希望。",
+        "When you compare winners and losers, apart from intelligence, what sets",
+        "them apart is more of persistence."
+      ],
+      "definition" : "分开地；分离的；破裂地；区分开地 adj. 有分歧的",
+      "examples" : [
+        "When you compare students of equivalent intelligence and past academic",
+        "当你对比成功者和失败者的时候，除了智力之外，将他们区别开\n的更多是坚持。"
+      ],
+      "frequency" : 1984,
+      "mnemonic" : "a-（加强语气）+ part（分开）→分开地；分离地；破裂的；有分歧的",
+      "phonetic" : "əˈpɑːt",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "apart"
+    },
+    {
+      "collocations" : [
+        "the struggle against apartheid：反对种族隔离制的斗争"
+      ],
+      "definition" : "（南非的）种族隔离制",
+      "etymology" : "特指1948年至1991年间在南非共和国实行的一种种族隔离制度，这个 制度对白人与非白人（包括黑人、印度人、马来人及其他混血人种） 进行分隔并在政治经济等各方面给予歧别待遇。",
+      "examples" : [
+
+      ],
+      "frequency" : 7082,
+      "mnemonic" : "apart（分离；隔离）+ heid（=hood：表状态）→（南非的）种族隔",
+      "phonetic" : "əˈpɑːtaɪt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "apartheid"
+    },
+    {
+      "collocations" : [
+        "depart from good educational sense：偏离了良好的教育观念",
+        "depart for Sydney：起程去悉尼"
+      ],
+      "definition" : "&vi. 离开；起程 vi. 偏离；违背",
+      "examples" : [
+
+      ],
+      "frequency" : 4886,
+      "mnemonic" : "de-（=from：从……）+ part（=to part, divide：离开；分开）→part\nfrom：与……分开→离开；起程；偏离",
+      "phonetic" : "dɪˈpɑːt",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "depart"
+    },
+    {
+      "collocations" : [
+        "the U.S. Department of Health：美国健康部",
+        "state department：（美国）国务院"
+      ],
+      "definition" : "（政府、企业等机构的）部；（大学的）系；（大型商店的）部门1202",
+      "examples" : [
+
+      ],
+      "mnemonic" : "depart（分开；离开）+ -ment（名词后缀）→引申词义部门；系",
+      "phonetic" : "dɪˈpɑːtmənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "department"
+    },
+    {
+      "collocations" : [
+        "seek a bigger departmental budget：寻求更多的部门预算"
+      ],
+      "definition" : "部门的",
+      "examples" : [
+
+      ],
+      "frequency" : 16140,
+      "phonetic" : "ˌdiːpɑːtˈmentl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "departmental"
+    },
+    {
+      "collocations" : [
+        "arrivals and departures：到站和离站班次",
+        "the president’s departure for...：总统前往……",
+        "a startling departure from tradition：对传统习俗惊人的背离"
+      ],
+      "definition" : "离开；背离；违反",
+      "examples" : [
+
+      ],
+      "frequency" : 3903,
+      "mnemonic" : "depart（离开；违背）+ -ure（名词后缀）→离开；背离；违反",
+      "phonetic" : "dɪˈpɑːtʃə(r)",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "departure"
+    },
+    {
+      "collocations" : [
+        "departed friends：已故的友人",
+        "the departed：亡故者\n笔 记 区"
+      ],
+      "definition" : "已故的",
+      "examples" : [
+
+      ],
+      "frequency" : 19110,
+      "mnemonic" : "depart（离开）+ -ed（形容词后缀）→离开的，引申义为已故的",
+      "phonetic" : "dɪˈpɑːtɪd",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "departed"
+    },
+    {
+      "collocations" : [
+        "participate in international exchange programs：参加国际交流项目",
+        "the ideas of others, they cannot fully participate in our democracy.\n如果他们不能批判性的思考，不能为自己的观点辩护，不能理解他人\n的想法，他们就不能充分的参与我们的民主制度。\n（写作，阅读）重点：“参加；参与”的表达方式：participate in\/take",
+        "If each of us can take part in\/participate in\/join\/involve in the cause of",
+        "anti-piracy, the climate of creativity of the whole society will be strikingly\/",
+        "markedly different."
+      ],
+      "definition" : "参加；参与",
+      "examples" : [
+        "Without the ability to think critically, to defend their ideas and understand\npart in\/join\/involve in",
+        "如果我们每个人都能参与到反盗版的事业当中，整个社会创新的氛围\n将会有显著不同。"
+      ],
+      "frequency" : 1491,
+      "mnemonic" : "parti-（部分）+ -cip-（承担；抓住）+ -ate（使）→即承担、抓住一\n部分，成为其中的一部分→参加（比如“参军”）；参与",
+      "phonetic" : "pɑːˈtɪsɪpeɪt",
+      "pos" : "vi.",
+      "rootHint" : "mis",
+      "word" : "participate"
+    },
+    {
+      "collocations" : [
+        "the course participants：参加课程学习的人"
+      ],
+      "definition" : "参与者；参加者",
+      "examples" : [
+
+      ],
+      "frequency" : 1107,
+      "mnemonic" : "particip（=participate：参加）+ -ant（名词后缀，表人）→参与者",
+      "phonetic" : "pɑːˈtɪsɪpənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "participant"
+    },
+    {
+      "collocations" : [
+        "a show with lots of audience participation：观众热烈参与的演出"
+      ],
+      "definition" : "参加；参与",
+      "examples" : [
+
+      ],
+      "frequency" : 2235,
+      "mnemonic" : "participate（参加；参与）+ -ation（复合名词后缀）→参加；参与",
+      "phonetic" : "pɑːˌtɪsɪˈpeɪʃn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "participation"
+    },
+    {
+      "collocations" : [
+        "participating business：分红业务",
+        "participating awareness：参与意识\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "由多人一起参加的；（股票等）持有人有权分享利益的9142",
+      "examples" : [
+
+      ],
+      "phonetic" : "pɑːˈtɪsɪpeɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "participating"
+    },
+    {
+      "collocations" : [
+        "participatory management styles：参与式的管理风格。"
+      ],
+      "definition" : "参与式的",
+      "examples" : [
+
+      ],
+      "frequency" : 13413,
+      "mnemonic" : "participate（参加；参与）+ -ory（形容词后缀）→参与式的",
+      "phonetic" : "pɑːˌtɪsɪˈpeɪtərɪ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "participatory"
+    },
+    {
+      "collocations" : [
+        "a significant portion of：……重要的一部分",
+        "cut the cake into six small portions：把蛋糕切成了六小份"
+      ],
+      "definition" : "部分；（食物的）一份；分享的部分；分担的责任（=share） vt. 把……分成若干份（或部分）",
+      "examples" : [
+        "You must accept a portion of the blame for this crisis.\n你必须承担这次危机的一部分责任。"
+      ],
+      "frequency" : 2197,
+      "mnemonic" : "port-（=part, share：部分；分享）+ -ion（名词后缀）→部分；一",
+      "phonetic" : "ˈpɔːʃn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "portion"
+    },
+    {
+      "collocations" : [
+        "a proportion of the rent：一部分租金",
+        "a substantial\/large proportion of classical music：大量的古典音乐",
+        "a proportion of fat to water：脂肪与水的比例",
+        "in proportion to：(与……) 成比例地；与……相比较",
+        "out of all proportion to：(与……) 完全不成比例"
+      ],
+      "definition" : "部分；比例；比值；（通常指极其巨大的事物的）大小；（艺术品或设计的各部分之间的）比例",
+      "examples" : [
+
+      ],
+      "frequency" : 3088,
+      "mnemonic" : "pro-（根据；按照）+ -port-（=a part, a share：部分）+ -ion（名词后\n缀）→按照各部分的大小计算→部分；比例；比值",
+      "phonetic" : "prəˈpɔːʃn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "proportion"
+    },
+    {
+      "collocations" : [
+        "be directly proportional to：与……直接成比例",
+        "inversely proportional：成反比例的"
+      ],
+      "definition" : "与……成比例的",
+      "examples" : [
+
+      ],
+      "frequency" : 10749,
+      "mnemonic" : "proportion（比例）+ -al（形容词后缀）→与……成比例的",
+      "phonetic" : "prəˈpɔːʃənl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "proportional"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不成比例的10527",
+      "examples" : [
+        "A disproportionate amount of time was devoted to one topic.\n不成比例的时间被用在一个话题上。"
+      ],
+      "mnemonic" : "dis-（=not：不）+ proportion（比例）+ -ate（形容词后缀）→不成比",
+      "phonetic" : "ˌdɪsprəˈpɔːʃənət",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "disproportionate"
+    },
+    {
+      "collocations" : [
+        "a disproportionately high suicide rate among prisoners：犯人中自杀率高"
+      ],
+      "definition" : "不成比例地",
+      "examples" : [
+
+      ],
+      "frequency" : 12644,
+      "phonetic" : "ˌdɪsprəˈpɔːʃənətlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "disproportionately"
+    },
+    {
+      "collocations" : [
+        "in particular：特别",
+        "particular case：特定情况",
+        "be very particular about her clothes：对衣着特别挑剔",
+        "be of particular interest：让人尤其感兴趣"
+      ],
+      "definition" : "专指的；非同寻常的；挑剔的 n. 细节；详细资料（particulars）",
+      "examples" : [
+
+      ],
+      "frequency" : 951,
+      "mnemonic" : "n. a part or section of a whole：整体的一部分→细节；详细资料\nparti（=part：部分）+ -cular（-cul + -ar，形容词后缀）→一部分的；\n有关一小部分→专指的；非同寻常的；挑剔的",
+      "phonetic" : "pəˈtɪkjələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "particular"
+    },
+    {
+      "collocations" : [
+        "be particularly disappointing：尤其令人失望",
+        "particularly good\/important\/useful：特别好\/重要\/有用"
+      ],
+      "definition" : "特别；尤其；格外",
+      "examples" : [
+
+      ],
+      "frequency" : 781,
+      "phonetic" : "pəˈtɪkjələli",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "particularly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "细节；详情（particular的复数）",
+      "examples" : [
+        "You will find all the particulars in Chapter 9.\n你将在第9章里读到所有的细节。"
+      ],
+      "frequency" : 12590,
+      "phonetic" : "pəˈtɪkuːləz",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "particulars"
+    },
+    {
+      "collocations" : [
+        "particulate pollution：颗粒物污染",
+        "particulate matter：微粒物质\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "微粒（形式）的；颗粒（状）的 n. 微粒；颗粒",
+      "examples" : [
+
+      ],
+      "frequency" : 16114,
+      "mnemonic" : "parti（部分）+ -culate（形容词后缀，-cul + -ate）→微粒；颗粒；颗",
+      "phonetic" : "pɑːˈtɪkjələt",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "particulate"
+    },
+    {
+      "collocations" : [
+        "the particularity of each human being：每个人的独特个性"
+      ],
+      "definition" : "细节；特征；独特性",
+      "examples" : [
+
+      ],
+      "frequency" : 18806,
+      "mnemonic" : "particular（特殊的；细节）+ -ity（名词后缀）→特征；细节；独特性",
+      "phonetic" : "pəˌtɪkjuˈlærəti",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "particularity"
+    },
+    {
+      "collocations" : [
+        "parse tree：句法分析树形图",
+        "In grammar, if you parse a sentence, you examine each word and clause in",
+        "order to work out their grammatical type."
+      ],
+      "definition" : "做语法分析",
+      "examples" : [
+
+      ],
+      "frequency" : 19588,
+      "phonetic" : "pɑːz",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "parse"
+    },
+    {
+      "collocations" : [
+        "split up A into B：把A分裂成B",
+        "a 50-50 split in the profits：利润对半分成",
+        "relationships.\n个体成员的流动性和家庭组群往往分裂家庭关系。",
+        "The committee split over government subsidies.\n在政府补贴的问题上，委员会出现了相互对立的意见。",
+        "Her dress had split along the seam.\n她的连衣裙顺着接缝裂开了。",
+        "thigh-high split dress in white：白色开叉裙\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "分裂；分开；分摊；撕裂 n. 分离；划分；裂口",
+      "examples" : [
+        "Mobility of individual members and family groups tends to split up family"
+      ],
+      "frequency" : 2933,
+      "mnemonic" : "s-（加强语气）+ -plit（=part：裂开，分开）→分裂；分离；分摊；",
+      "phonetic" : "splɪt",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "split"
+    },
+    {
+      "collocations" : [
+        "A splitting headache is a very severe and painful one.\n笔 记 区"
+      ],
+      "definition" : "（头痛）欲裂的",
+      "examples" : [
+
+      ],
+      "frequency" : 17786,
+      "phonetic" : "ˈsplɪtɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "splitting"
+    },
+    {
+      "collocations" : [
+        "a large slice of：大部分",
+        "slice up：把 (食物) 切成薄片",
+        "slice up an onion：把洋葱切成了片",
+        "take up a large slice of the publishing market：占出版市场的一大部分",
+        "to a large slice of the growing pie.\n由于工人赔偿金系统里增加了这么多钱，医生和律师们在这不断增长\n的蛋糕里为自己争取更大的份额就不足为怪了。"
+      ],
+      "definition" : "把（食物）切成薄片 n.（切下的食物）薄片；（情况或活动的）部分",
+      "examples" : [
+        "And with so much more money floating in the workers’ compensation\nsystem, it’s not surprising that doctors and lawyers have helped themselves"
+      ],
+      "frequency" : 3363,
+      "mnemonic" : "slice（=split：分裂，劈开，坎开；p无意义）→被坎开；劈开后→",
+      "phonetic" : "slaɪs",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "slice"
+    },
+    {
+      "collocations" : [
+        "a sliced white loaf：一条切片白面包"
+      ],
+      "definition" : "已切成片的",
+      "examples" : [
+
+      ],
+      "frequency" : 905,
+      "phonetic" : "slaɪst",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "sliced"
+    },
+    {
+      "collocations" : [
+        "slash prices：大幅度降价",
+        "slash his wrists：割腕"
+      ],
+      "definition" : "砍；劈；大幅度削减 vi. 挥舞（刀等）击打 n. 劈砍；砍击",
+      "examples" : [
+        "Make deep slashes in the meat and push in the spice paste.\n把肉剁透，然后挤入调料酱。"
+      ],
+      "frequency" : 6042,
+      "mnemonic" : "slash（=slice=split：裂开；劈开；坎开）→劈；砍；大幅度削减",
+      "phonetic" : "slæʃ",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "slash"
+    },
+    {
+      "collocations" : [
+        "in jeopardy：处于危险境地；受到威胁"
+      ],
+      "definition" : "处于险境",
+      "examples" : [
+        "A series of setbacks have put the whole project in jeopardy.\n一系列的挫折已经使整个项目陷入险境。"
+      ],
+      "frequency" : 8568,
+      "mnemonic" : "jeo（=game：比赛）+ pard（=part：部分）+ -y（名词后缀）→因此\n该词的字面意思就是比赛双方各据一方，势均力敌→由于双方都有或",
+      "phonetic" : "ˈdʒepədɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "jeopardy"
+    },
+    {
+      "collocations" : [
+        "jeopardize his career：有损于他的事业",
+        "jeopardize his future career：损害了他的前程\n释义：（V-T）损害；危及",
+        "To jeopardize a situation or activity means to do something that may",
+        "destroy it or cause it to fail."
+      ],
+      "definition" : "损害；危及",
+      "examples" : [
+
+      ],
+      "frequency" : 8130,
+      "mnemonic" : "jeopardy（危害）+ -ize（动词后缀，表示使……）→使危害；危及",
+      "phonetic" : "ˈdʒepədaɪz",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "jeopardize"
+    },
+    {
+      "collocations" : [
+        "is equal, equality,” of unknown origin. Watkins suggests perhaps from PIE",
+        "on a par with：与……同样",
+        "below par\/under par：低于预期标准的",
+        "to be redeemed at par：以面值兑换"
+      ],
+      "definition" : "标准；（高尔夫球的）标准杆数；面值5890",
+      "etymology" : "1620s, “equality,” also “value of one currency in terms of another,” from Latin par “equal, equal-sized, well-matched,” also as a noun, “that which root *pere- (2) “to grant, allot,” with suggestion of reciprocity.",
+      "examples" : [
+        "The water park will be on a par with some of the best public swim facilities\naround.\n这个水上公园将与周围那些最好的公共游泳场所一样好。"
+      ],
+      "mnemonic" : "par=equal, well-matched：相等的；平等的；相配的",
+      "phonetic" : "pɑː",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "par"
+    },
+    {
+      "collocations" : [
+        "a pair of socks：一双袜子",
+        "be paired with...：与……配对\n笔 记 区"
+      ],
+      "definition" : "双；对；副；条（裤子） vt. 把……配对",
+      "etymology" : "13世纪中期, 形式。",
+      "examples" : [
+
+      ],
+      "frequency" : 1494,
+      "mnemonic" : "来自拉丁语par=equal, well-matched：对等；双；对",
+      "phonetic" : "peə",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "pair"
+    },
+    {
+      "collocations" : [
+        "a Chinese pairing：一对中国选手"
+      ],
+      "definition" : "结对的两个人（或物）；配对；搭档12739",
+      "examples" : [
+        "The two actors are an unlikely pairing.\n这二位演员不大可能是搭档。"
+      ],
+      "phonetic" : "ˈpeərɪŋ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "pairing"
+    },
+    {
+      "collocations" : [
+        "peer at a computer print-out：费力地看一份电脑打印稿",
+        "peer closely at the photograph：聚精会神地端详着相片",
+        "peer pressure：来自同龄人的压力"
+      ],
+      "definition" : "费力地看；端详 n. 同龄人；身份（或地位）相同的人",
+      "examples" : [
+
+      ],
+      "frequency" : 2446,
+      "mnemonic" : "peer（=equal：相等；e为前缀）→同龄人；同等地位的人",
+      "phonetic" : "pɪə",
+      "pos" : "vi.",
+      "rootHint" : "mis",
+      "word" : "peer"
+    },
+    {
+      "collocations" : [
+        "compare A with B：与……类似（或相似）",
+        "compare A to B：把A比作B\nbeyond\/without compare：无与伦比；举世无双",
+        "Older adults who have a high level of daily activities have more energy",
+        "and a lower death rate compared with relatively inactive people\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "比较；对比",
+      "examples" : [
+        "This house doesn’t compare with our previous one (= it is not as good) .\n这房子比不上我们以前的。",
+        "保持高水平日常运动的老年人更有活力并且与那些不活动的人相比，\n死亡率更低。"
+      ],
+      "frequency" : 834,
+      "mnemonic" : "com-（一起；共同）+ -pare（=equal：平等的）→把……看作平等的\n→比较；对比\n邪解：com-（一起；共同）+ -pare（音似“pair：一对”）→把一对放一起\n→比较；对比",
+      "phonetic" : "kəmˈpeə",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "compare"
+    },
+    {
+      "collocations" : [
+        "make a comparison：作比较（即：比较相同点）",
+        "in comparison with\/in comparison to\/by comparison with：相比之下\nby\/in comparison with sb.\/sth.：（与……）相比较\nthere’s no comparison：（强调比较之下的差别）无法相比，根本不能\n相提并论"
+      ],
+      "definition" : "比较；对比；相比",
+      "examples" : [
+
+      ],
+      "frequency" : 2185,
+      "mnemonic" : "compar（=compare：比较；对比）+ -ison（名词后缀）→比较；对",
+      "phonetic" : "kəmˈpærɪsn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "comparison"
+    },
+    {
+      "collocations" : [
+        "A is comparable to B：A可以和B相比",
+        "In other comparable countries, real wages increased much more rapidly.\n在其他可比的国家里实际工资增长快得多。"
+      ],
+      "definition" : "（数量、重要性等）相当的；类似的；可比较的",
+      "examples" : [
+        "Farmers were supposed to get an income comparable to that of\ntownspeople.\n农民应该获得与城镇人相当的收入。"
+      ],
+      "frequency" : 4692,
+      "mnemonic" : "compare（比较；对比）+ -able（形容词后缀，可以……的）→可比",
+      "phonetic" : "ˈkɒmpərəbl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "comparable"
+    },
+    {
+      "collocations" : [
+        "a comparative study：比较研究",
+        "a comparative newcomer to the software market：就软件市场来说，相\n对而言是新手",
+        "with his own life at a previous time).\n他那时生活相对舒适。"
+      ],
+      "definition" : "比较的；相对的（=relative）；比较级的",
+      "examples" : [
+        "Then he was living in comparative comfort (= compared with others or"
+      ],
+      "frequency" : 6368,
+      "mnemonic" : "compare（比较；对比） + -ative（复合形容词后缀）→比较的；相对的",
+      "phonetic" : "kəmˈpærətɪv",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "comparative"
+    },
+    {
+      "collocations" : [
+        "a comparatively small nation：一个比较小的国家",
+        "Pretty的比较级是prettier。\n笔 记 区"
+      ],
+      "definition" : "比较地 n. 比较级",
+      "examples" : [
+        "The comparative of “pretty” is “prettier.”"
+      ],
+      "frequency" : 10306,
+      "phonetic" : "kəmˈpærətɪvlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "comparatively"
+    },
+    {
+      "collocations" : [
+        "an area of incomparable beauty：一处美景无以伦比的地区。",
+        "matchless beauty\/skill：绝色；绝技\n区别：contrast [ˈkɒntrɑːst] vt. 对比 n. 对比；对照；明显不同的人（或事\n物）1776",
+        "by contrast：相比之下",
+        "contrast with：与……形成对比"
+      ],
+      "definition" : "非常好的；印象非常深刻的；无以伦比的",
+      "examples" : [
+
+      ],
+      "frequency" : 19614,
+      "mnemonic" : "in-（不）+ comparable（可比较的）→不可与之比较的→无比伦比的\ncontra-（=counter：相反；反对）+ -st（=stand：站）→站在对面→对",
+      "phonetic" : "ɪnˈkɒmprəbl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "incomparable"
+    },
+    {
+      "collocations" : [
+        "contrary to...：与……相反",
+        "on the contrary：恰恰相反",
+        "to the contrary：相反（用于否定前面的陈述）",
+        "contrary, it helps farmers and improves forest soils.\n低层次的刀耕火种的农业并没有伤害热带雨林，相反，它帮助了农\n民，并且改善了雨林的土壤。\n阅读难点：slash [slæʃ] n.\/v. 猛砍，砍掉，削减",
+        "heavy burden."
+      ],
+      "definition" : "（观点、态度、反应）相对立的",
+      "examples" : [
+        "Low-level slash-and-burn farming doesn’t harm rainforest. On the",
+        "送孩子去过多的艺术班并没有能帮助孩子提升个人素质，相反，\n它给孩子们增加了沉重的负担。\nSending\/Committing children to excessive art classes doesn’t help to\nimprove\/develop their personal qualities. On the contrary, it brings them"
+      ],
+      "frequency" : 5566,
+      "mnemonic" : "contra-（=counter：相反）+ -ry（形容词或名词后缀）→相反的",
+      "phonetic" : "ˈkɒntrərɪ",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "contrary"
+    },
+    {
+      "collocations" : [
+        "disparage your achievements：贬低你的成就",
+        "disparage literature：诋毁文学\n同义词：belittle：贬低；小看"
+      ],
+      "definition" : "贬低；轻视；诋毁",
+      "examples" : [
+
+      ],
+      "frequency" : 18035,
+      "mnemonic" : "dis-（表否定）+ -par-（=rank：（相等）级别）+ -age（名词后缀）\n→即不在相等级别内→贬低；轻视；诋毁",
+      "phonetic" : "dɪˈspærɪdʒ",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "disparage"
+    },
+    {
+      "collocations" : [
+        "a disparate group of individuals：三教九流的一帮人",
+        "pull together disparate ideas：把各种迥然不同的观点汇集起来",
+        "a very disparate nation：一个多元化的国家"
+      ],
+      "definition" : "迥然不同的；由不同的人（或事物）组成的，多元的",
+      "etymology" : "17世纪, “unlike in kind, essentially different, having no common ground” .",
+      "examples" : [
+
+      ],
+      "frequency" : 9100,
+      "mnemonic" : "dis-（=apart：分离；区分开的）+ -par-（=equal, like：相同；类似）\n+ -ate（形容词后缀）→与相同、类似区分开的→迥然不同的；（人",
+      "phonetic" : "ˈdɪspərət",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "disparate"
+    },
+    {
+      "collocations" : [
+        "demand pay parity with：要求与……同工同酬",
+        "to achieve parity with the dollar：取得与美元的平价"
+      ],
+      "definition" : "（尤指薪金或地位）平等，对等；（两国货币的）平价",
+      "examples" : [
+
+      ],
+      "frequency" : 12423,
+      "mnemonic" : "par-（平等；对等；面值）+ -ity（名词后缀）→平等；对等；平价",
+      "phonetic" : "ˈpærɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "parity"
+    },
+    {
+      "collocations" : [
+        "the health disparities between...and...：……与……之间明显的健康差异"
+      ],
+      "definition" : "（尤指因不公正对待引起的）明显差异",
+      "examples" : [
+
+      ],
+      "frequency" : 7182,
+      "mnemonic" : "dis-（=not：不）+ parity（平等；对等）→不平等；不对等→明显差异",
+      "phonetic" : "dɪˈspærɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "disparity"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（在体育比赛或竞赛中）担任裁判 n.（体育比赛或竞赛的）裁判",
+      "etymology" : "来自古法语nonper “not even：不平等”，指代 a third person to arbitrate between two：第三方在两者之间做仲裁、公断，来自 non-（=not： 20000 词汇巅峰 速 记 不) + per-（=par=equal：平等）。后来词义演变为担任裁判、裁判。",
+      "examples" : [
+        "He umpired baseball games.\n他过去担任棒球比赛的裁判。\nThe umpire’s decision is final.\n裁判的判决是不可更改的。"
+      ],
+      "frequency" : 10098,
+      "mnemonic" : "um-（=not：不）+ pire（=par-=equal：平等的）→在（比分）不平等\n的两方之间做判断，后指在第三方之间做仲裁、公断→担任裁判；",
+      "phonetic" : "ˈʌmpaɪə",
+      "pos" : "vi.",
+      "rootHint" : "mis",
+      "word" : "umpire"
+    },
+    {
+      "collocations" : [
+        "and sleep less afterwards.\n众所周知，肥胖会破坏睡眠。因此，或许人们是先变胖，然后才导致\n睡眠减少的。"
+      ],
+      "definition" : "损害；削弱",
+      "examples" : [
+        "It’s well known that obesity impairs sleep, so perhaps people get fat first"
+      ],
+      "frequency" : 7577,
+      "mnemonic" : "im-（加强语气）+ -pair（=worse：更糟糕）→使（情况）更加糟糕\n→损害；削弱\n邪解：im-（表相反）+ pair（双；对）→不让（你们）成双成对→损害",
+      "phonetic" : "ɪmˈpeə",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "impair"
+    },
+    {
+      "collocations" : [
+        "impaired hearing：听力损伤"
+      ],
+      "definition" : "受损的",
+      "examples" : [
+
+      ],
+      "frequency" : 10108,
+      "phonetic" : "ɪmˈpeəd",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "impaired"
+    },
+    {
+      "collocations" : [
+        "impairment of the functions of the kidney：肾功能障碍",
+        "visual\/hearing impairments：视力\/听觉损伤"
+      ],
+      "definition" : "（身体或智力方面的）损伤",
+      "examples" : [
+
+      ],
+      "frequency" : 5846,
+      "mnemonic" : "impair（损伤）+ -ment（名词后缀）→损害；削弱",
+      "phonetic" : "ɪmˈpeəmənt",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "impairment"
+    },
+    {
+      "collocations" : [
+        "adequate funding：足够的资助",
+        "adequate compensation：足够的补偿",
+        "an adequate supply of hot water：热水供应充足"
+      ],
+      "definition" : "足够的；合格的；合乎需要的",
+      "etymology" : "1610s, “equal to what is needed or desired, sufficient” .",
+      "examples" : [
+
+      ],
+      "frequency" : 3326,
+      "mnemonic" : "ad-（=to）+ equ-（=equal：相等的）+ -ate（形容词后缀）→to make\nequal to：等于需要（requirement）的数量的→足够的；合格的；合乎",
+      "phonetic" : "ˈædɪkwət",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "adequate"
+    },
+    {
+      "collocations" : [
+        "be adequately prepared for：为……做足准备"
+      ],
+      "definition" : "充分地；适当地；足够地",
+      "examples" : [
+
+      ],
+      "frequency" : 6172,
+      "phonetic" : "ˈædɪkwətli",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "adequately"
+    },
+    {
+      "collocations" : [
+        "concern over the adequacy of the diet：对膳食质量（是否恰当）的担忧",
+        "the adequacy of Britain’s race laws：英国种族法律的适当性\n释义：(N-UNCOUNT) 适当；恰当；足够",
+        "Adequacy is the quality of being good enough or great enough in amount",
+        "to be acceptable."
+      ],
+      "definition" : "适当；恰当；足够",
+      "examples" : [
+
+      ],
+      "frequency" : 15090,
+      "mnemonic" : "adequate（合格的；足够的）+ -cy（名词后缀）→适当；恰当；足够",
+      "phonetic" : "ˈædɪkwəsɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "adequacy"
+    },
+    {
+      "collocations" : [
+        "inadequate supply：供应不足"
+      ],
+      "definition" : "不足够的；能力不足的",
+      "examples" : [
+        "I still feel inadequate, useless and mixed up.\n我仍旧感到能力不足，毫无用处，混淆不清。"
+      ],
+      "frequency" : 5066,
+      "mnemonic" : "in-（=not：不）+ adequate（足够的）→不足够的；能力不足的",
+      "phonetic" : "ɪnˈædɪkwət",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "inadequate"
+    },
+    {
+      "collocations" : [
+        "the inadequacy of our resources 我们的资源的贫乏（不足够）",
+        "a feeling\/sense of inadequacy：不胜任之感",
+        "his own inadequacies as a father：他作为父亲的不足"
+      ],
+      "definition" : "不足够，某事物的缺乏；不胜任；弱点，缺陷",
+      "examples" : [
+
+      ],
+      "frequency" : 12013,
+      "mnemonic" : "inadequate（不足够的；能力不足的）+ -cy（名词后缀）→不足够；",
+      "phonetic" : "ɪnˈædɪkwəsɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "inadequacy"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "不足地；不够好地",
+      "examples" : [
+        "The projects were inadequately funded.\n这些项目资助不足。"
+      ],
+      "frequency" : 19733,
+      "phonetic" : "ɪnˈædɪkwətlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "inadequately"
+    },
+    {
+      "collocations" : [
+        "sufficient condition：充分条件"
+      ],
+      "definition" : "足够的；充足的",
+      "examples" : [
+
+      ],
+      "frequency" : 3123,
+      "mnemonic" : "suf-（=sur-：超过）+ fic-（做）+ -ient（形容词后缀）→做的超过的\n→充足的\nsufficient=adequate：足够的；充足的",
+      "phonetic" : "səˈfɪʃnt",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "sufficient"
+    },
+    {
+      "collocations" : [
+        "plenty of eggs\/money\/time：充裕的鸡蛋\/钱\/时间",
+        "in times of plenty：在富足的岁月里"
+      ],
+      "definition" : "大量；充足 adv. 大量 n. 富足；充裕",
+      "examples" : [
+
+      ],
+      "frequency" : 2061,
+      "mnemonic" : "plen-（=full：满的；足够的）+ -ty（名词后缀）→充足；大量；富足",
+      "phonetic" : "ˈplentɪ",
+      "pos" : "pron.",
+      "rootHint" : "mis",
+      "word" : "plenty"
+    },
+    {
+      "collocations" : [
+        "acquire ample natural resources：获得足够的自然资源"
+      ],
+      "definition" : "充足的；大量的",
+      "examples" : [
+
+      ],
+      "frequency" : 6379,
+      "mnemonic" : "ample=plenty of：大量的；充足的",
+      "phonetic" : "ˈæmp(ə)l",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "ample"
+    },
+    {
+      "collocations" : [
+        "equal rights\/pay\/opportunities：平等的权利；同酬：机会均等",
+        "other things being equal\/all things being equal：同等条件下；如无意外\n情况发生",
+        "be without equal\/have no equal：无与伦比；无敌",
+        "some (people, members, etc.) are more equal than others：有些（人、成\n员等）比其他的更平等。来自乔治·奥威尔所著的《动物庄园》中一\n头猪所说的话：“所有的动物都平等，但有些动物比其他的动物更平\n等。”",
+        "This achievement is unlikely ever to be equaled.\n这一成就可能任何时候都没有能与之匹敌的。"
+      ],
+      "definition" : "（大小、数量、价值等）相等的；平等的；（力气、勇气、能力等）能胜任的 n. (能力、地位或权利等) 同等的人；相等物 vt.（大小、数量、价值等）与……相等；比得上",
+      "examples" : [
+        "I hope that he proves equal to the challenge.\n我希望他最后能应付这一挑战。"
+      ],
+      "frequency" : 1844,
+      "phonetic" : "ˈiːkwəl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "equal"
+    },
+    {
+      "collocations" : [
+        "equalize wage rates between countries：使各国的工资水平均等"
+      ],
+      "definition" : "使……平等；使……均等 vi.（尤指足球）扳平比分",
+      "examples" : [
+
+      ],
+      "frequency" : 18518,
+      "mnemonic" : "equal（平等的）+ -ize（使动词后缀）→使……平等；使……均等",
+      "phonetic" : "ˈiːkwəlaɪz",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "equalize"
+    },
+    {
+      "collocations" : [
+        "treat...equally：平等对待",
+        "equally effective：同等有效"
+      ],
+      "definition" : "相等地；相等程度地；同样地（用于引出同一话题的另议）2390",
+      "examples" : [
+
+      ],
+      "phonetic" : "ˈiːkwəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "equally"
+    },
+    {
+      "collocations" : [
+        "social justice and equity：社会正义和公平"
+      ],
+      "definition" : "公平；公正；资产净值",
+      "examples" : [
+        "To capture his equity, Murphy must either sell or refinance.\n要获取他的资产净值，墨菲必须出售或重新融资。"
+      ],
+      "frequency" : 3900,
+      "mnemonic" : "equi-（=equal：平等的，公平的）+ -ty（名词后缀）→公平；公正",
+      "phonetic" : "ˈekwɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "equity"
+    },
+    {
+      "collocations" : [
+        "inequity of income：收入不公平",
+        "a burning sense of injustice：强烈感觉到遭受不公正待遇\n笔 记 区"
+      ],
+      "definition" : "不公平；不公正",
+      "examples" : [
+
+      ],
+      "frequency" : 12444,
+      "mnemonic" : "in-（=not：不；非）+ equity（公平；公正）→不公平；不公正",
+      "phonetic" : "ɪnˈekwɪtɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "inequity"
+    },
+    {
+      "collocations" : [
+        "come to an equitable compromise：达成公平合理的妥协"
+      ],
+      "definition" : "公平合理的；公正的",
+      "examples" : [
+
+      ],
+      "frequency" : 10149,
+      "mnemonic" : "equit（=equity：公平；公正）+ -able（形容词后缀）→公平合理的；",
+      "phonetic" : "ˈekwɪtəbl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "equitable"
+    },
+    {
+      "collocations" : [
+        "racial\/social\/sexual equality：种族\/社会\/男女平等",
+        "equality of opportunity：机会均等"
+      ],
+      "definition" : "平等；均等",
+      "examples" : [
+
+      ],
+      "frequency" : 4642,
+      "mnemonic" : "equal（平等的）+ -ity（名词后缀）→平等；均等",
+      "phonetic" : "iˈkwɒləti",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "equality"
+    },
+    {
+      "collocations" : [
+        "racial inequality：种族不平等",
+        "economic inequalities：经济不平衡",
+        "income inequality：收入不均"
+      ],
+      "definition" : "不平等；不平衡；不平均",
+      "examples" : [
+
+      ],
+      "frequency" : 7108,
+      "mnemonic" : "in-（=not：不）+ equality（平等；均等）→不平等；不平均",
+      "phonetic" : "ˌɪnɪˈkwɒləti",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "inequality"
+    },
+    {
+      "collocations" : [
+        "an unequal contest：不公平竞争",
+        "feel unequal to the job：感到不能胜任这份工作",
+        "unequal length.\n埃及人很可能用不同长度的24小时来计量他们的一天。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+      ],
+      "definition" : "（体制、情况）不公平的（=unfair）；不胜任的；（大小、强度或数量）不相等的",
+      "examples" : [
+        "The Egyptians probably measured their day in twenty-four hours of"
+      ],
+      "frequency" : 10994,
+      "mnemonic" : "un-（=not：不）+ equal（相等的；能胜任的）→不公平的；不胜任",
+      "phonetic" : "ʌnˈiːkwəl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "unequal"
+    },
+    {
+      "collocations" : [
+        "abstract equations：抽象的等式\/方程式",
+        "alter the equation：改变等式",
+        "When children enter the equation, further tensions may arise within a\nmarriage.\n有了孩子以后，婚姻中可能出现新的矛盾。",
+        "The Equation of Marriage：婚姻方程式"
+      ],
+      "definition" : "方程式，等式；制衡局面，（多种因素的）平衡",
+      "examples" : [
+        "The party fears the equation between higher spending and higher taxes.\n该党害怕增加开支和增高税收之间的相互制衡。"
+      ],
+      "frequency" : 4019,
+      "mnemonic" : "equa-（=equal：对等；（实力、能力）相等）+ t（无意义）+ -ion\n（名词后缀）→等式；制衡局面（实力平衡）",
+      "phonetic" : "ɪˈkweɪʒn",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "equation"
+    },
+    {
+      "collocations" : [
+        "equate to sth.：相当于；等于"
+      ],
+      "definition" : "将……等同于",
+      "examples" : [
+        "Some parents equate education with exam success.\n有些父母认为教育就是考试成绩优秀。"
+      ],
+      "frequency" : 8162,
+      "mnemonic" : "equ-（=equal：相等的）+ -ate（动词后缀，使…）→使……等同于",
+      "phonetic" : "ɪˈkweɪt",
+      "pos" : "vt.",
+      "rootHint" : "mis",
+      "word" : "equate"
+    },
+    {
+      "collocations" : [
+        "The equator is an imaginary line around the middle of the earth at an equal",
+        "distance from the North Pole and the South Pole.\n20000 词汇巅峰\n速\n记"
+      ],
+      "definition" : "赤道",
+      "examples" : [
+
+      ],
+      "frequency" : 13127,
+      "mnemonic" : "equ-（均；等）+ -ator（名词后缀，表示物）→到南北极的距离相等\n→赤道",
+      "phonetic" : "ɪˈkweɪtə(r)",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "equator"
+    },
+    {
+      "collocations" : [
+        "equatorial rainforests：赤道地区的雨林",
+        "an equatorial climate：赤道气候\n笔 记 区"
+      ],
+      "definition" : "赤道的；赤道附近的14088",
+      "examples" : [
+
+      ],
+      "mnemonic" : "equator（赤道）+ -ial（形容词后缀，表示……的）→赤道的；赤道",
+      "phonetic" : "ˌekwəˈtɔːriəl",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "equatorial"
+    },
+    {
+      "collocations" : [
+        "recover one’s equilibrium：恢复平静"
+      ],
+      "definition" : "平衡；（心情、情绪）平静",
+      "examples" : [
+        "Any disturbance to the body’s state of equilibrium can produce stress.\n对身体平衡状态的任何干扰都可能产生压力。"
+      ],
+      "frequency" : 9260,
+      "mnemonic" : "equ-（=equal：平等的）+ libr-（=libra=a balance：天平；秤）+ -ium\n（名词后缀）→even balanced：平衡的状态→平衡；平静",
+      "phonetic" : "ˌiːkwɪˈlɪbriəm",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "equilibrium"
+    },
+    {
+      "collocations" : [
+        "also of objects, places, etc.); beautiful, handsome, attractive,” of weather,\n“bright, clear, pleasant; not rainy,” 同样在古英语中，含义为“morally",
+        "all’s fair in love and war：在情场和战场上可以不择手段",
+        "fair enough：（指想法、建议）有道理；说得对；行",
+        "(more than) your fair share of sth.：（超过）合理的数量，恰当的数量\nthe county\/state fair：县\/州农畜产品集市 job\/careers fair：职业介绍会"
+      ],
+      "definition" : "公平的；（数量、大小）相当大的；合理的；不错的 adv. 公平合理地 n. 露天游乐场；（评比农畜产品的）集市",
+      "etymology" : "来自古法语fæger “pleasing to the sight (of persons and body features, good,”",
+      "examples" : [
+
+      ],
+      "frequency" : 1493,
+      "mnemonic" : "fair=equal：公平的",
+      "phonetic" : "feə",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "fair"
+    },
+    {
+      "collocations" : [
+        "a fairly easy book：一本相当浅易的书",
+        "treat somebody very fairly：对待某人很公正"
+      ],
+      "definition" : "相当地；公平合理地",
+      "examples" : [
+
+      ],
+      "frequency" : 2176,
+      "phonetic" : "ˈfeəlɪ",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "fairly"
+    },
+    {
+      "collocations" : [
+        "unfair dismissal：不公平的解雇",
+        "unfair criticism：不公正的批评"
+      ],
+      "definition" : "不公平的；不公正的",
+      "examples" : [
+
+      ],
+      "frequency" : 4542,
+      "mnemonic" : "un-（=not：不）+ fair（公平的；公正的）→不公平的；不公正的",
+      "phonetic" : "ʌnˈfeə",
+      "pos" : "adj.",
+      "rootHint" : "mis",
+      "word" : "unfair"
+    },
+    {
+      "collocations" : [
+        "treat unfairly：不公平对待"
+      ],
+      "definition" : "不公平地；不公正地",
+      "examples" : [
+
+      ],
+      "frequency" : 10244,
+      "phonetic" : "ˌʌnˈfeəli",
+      "pos" : "adv.",
+      "rootHint" : "mis",
+      "word" : "unfairly"
+    },
+    {
+      "collocations" : [
+        "the fairness of the election：竞选公正性",
+        "judicial fairness：司法公正",
+        "in (all) fairness (to somebody)：要公正对待；不能怪（某人）"
+      ],
+      "definition" : "合理；公正；公平",
+      "examples" : [
+
+      ],
+      "frequency" : 6037,
+      "mnemonic" : "fair（公平；合理；公正）+ -ness（名词后缀）→公平；合理；公正",
+      "phonetic" : "ˈfeənɪs",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "fairness"
+    },
+    {
+      "collocations" : [
+        "the unfairness of life：人生的不公平"
+      ],
+      "definition" : "不公平；不公正",
+      "examples" : [
+
+      ],
+      "frequency" : 18446,
+      "phonetic" : "ˌʌnˈfeənəs",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "unfairness"
+    },
+    {
+      "collocations" : [
+        "The fairway on a golf course is the long strip of short grass between each",
+        "tee and green."
+      ],
+      "definition" : "航路；水上飞机升降用的水面跑道；（高尔夫球场上的）平坦球道",
+      "examples" : [
+
+      ],
+      "frequency" : 9666,
+      "phonetic" : "ˈfeəweɪ",
+      "pos" : "n.",
+      "rootHint" : "mis",
+      "word" : "fairway"
+    }
+  ]
+}

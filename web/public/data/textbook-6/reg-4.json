@@ -1,0 +1,140 @@
+{
+  "chapter" : "26",
+  "chapterOrder" : 126,
+  "id" : "reg-4",
+  "meaningEn" : "rule, 表示“习惯，常规，规则”。",
+  "roots" : [
+    "reg"
+  ],
+  "semanticLabel" : "rule, 表示习惯，常规，规则。",
+  "source" : "textbook-6",
+  "titleZh" : "rule, 表示习惯，常规，规则。",
+  "words" : [
+    {
+      "collocations" : [
+        "take regular exercises：经常锻炼",
+        "regular customers：老主顾",
+        "my regular doctor：平常给我看病的医生",
+        "a regular income：固定的收入"
+      ],
+      "definition" : "有规律的；常做的；平常的；固定的 n. 常客",
+      "examples" : [
+
+      ],
+      "frequency" : 1377,
+      "mnemonic" : "reg-（=rule：习惯；常规）+ -ular（形容词后缀）→有规律的；常做",
+      "phonetic" : "ˈreɡjələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "regular"
+    },
+    {
+      "collocations" : [
+        "irregular heartbeat：心律不齐",
+        "irregular business practices：不合常规的商务活动"
+      ],
+      "definition" : "不规律的；不规则的；不合常规的",
+      "examples" : [
+
+      ],
+      "frequency" : 8578,
+      "mnemonic" : "ir-（=not：不；表相反）+ regular（规律的；规则的）→不规律的；",
+      "phonetic" : "ɪˈreɡjələ(r)",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "irregular"
+    },
+    {
+      "collocations" : [
+        "write regularly for：经常为……写稿"
+      ],
+      "definition" : "定期地；经常地",
+      "examples" : [
+        "Foxes are regularly seen here.\n这里经常看得到狐狸。"
+      ],
+      "frequency" : 2842,
+      "phonetic" : "ˈreɡjələli",
+      "pos" : "adv.",
+      "rootHint" : "reg",
+      "word" : "regularly"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "常规赛",
+      "examples" : [
+
+      ],
+      "frequency" : 13973,
+      "mnemonic" : "regular（常规的）+ season（赛季）→常规赛",
+      "phonetic" : "ˈreɡjələ(r)ˈsiːzn",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "regular-season"
+    },
+    {
+      "collocations" : [
+        "seek out regularities：找出规律",
+        "the regularity of features：五官端正",
+        "regularities in the behavior：习性（有规律的行为习惯）"
+      ],
+      "definition" : "规律，经常性；匀称，有规则地分布；有规则（规律）的东西",
+      "examples" : [
+
+      ],
+      "frequency" : 12589,
+      "mnemonic" : "regular（有规律的；有规则的）+ -ity（名词后缀）→规律；匀称；有",
+      "phonetic" : "ˌreɡjuˈlærəti",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "regularity"
+    },
+    {
+      "collocations" : [
+        "financial irregularity：财务违规（不合常规）",
+        "a slight irregularity in heartbeat：略微的心律不齐（不规则的）",
+        "cover any irregularity：遮住不平整的地方"
+      ],
+      "definition" : "不合乎常规的行为；不规则（或无规律）的事物；不整齐、平整的事物",
+      "examples" : [
+
+      ],
+      "frequency" : 12910,
+      "mnemonic" : "ir-（=not：不，表相反）+ regularity（规律；常规；匀称）→不合常",
+      "phonetic" : "ɪˌreɡjəˈlærəti",
+      "pos" : "n.",
+      "rootHint" : "reg",
+      "word" : "irregularity"
+    },
+    {
+      "collocations" : [
+        "reckless driving：莽撞驾驶"
+      ],
+      "definition" : "鲁莽的；不顾后果的",
+      "examples" : [
+
+      ],
+      "frequency" : 8733,
+      "mnemonic" : "reck（=reg-=rule：规则）+ -less（无；没有）→没有规则的→鲁莽",
+      "phonetic" : "ˈreklɪs",
+      "pos" : "adj.",
+      "rootHint" : "reg",
+      "word" : "reckless"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "鲁莽地；不计后果地",
+      "examples" : [
+        "He was leaning recklessly out of the open window.\n他鲁莽地从开着的窗户探出身子"
+      ],
+      "frequency" : 18174,
+      "phonetic" : "ˈreklɪsli",
+      "pos" : "adv.",
+      "rootHint" : "reg",
+      "word" : "recklessly"
+    }
+  ]
+}

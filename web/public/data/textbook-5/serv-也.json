@@ -1,0 +1,236 @@
+{
+  "chapter" : "59",
+  "chapterOrder" : 159,
+  "id" : "serv-也",
+  "meaningZh" : "服务。",
+  "roots" : [
+    "serv 也"
+  ],
+  "semanticLabel" : "服务。",
+  "source" : "textbook-5",
+  "titleZh" : "服务。",
+  "words" : [
+    {
+      "collocations" : [
+        "table, serve at table; offer, provide with,” from Latin servire “be a servant,",
+        "be in service, be enslaved;” figuratively “be devoted; be governed by;",
+        "comply with; conform; flatter,” originally “be a slave,” related to servus",
+        "serve the country：效力国家",
+        "serve as her office：做她的办公室",
+        "serve useful purpose：起作用",
+        "serve the interests of all the people：符合全体民众的利益"
+      ],
+      "definition" : "&vi. 对……有用；上（菜、饮料） vt. 为……服务；提供；满足，对……有益 vi. 任职",
+      "etymology" : "Late 12c., “to render habitual obedience to,” also “minister, give aid, give help,” from Old French servir “to do duty toward, show devotion to; set “slave,” which is of uncertain origin.",
+      "examples" : [
+        "Serve the cakes warm. 烤饼要趁热端上来"
+      ],
+      "frequency" : 402,
+      "mnemonic" : "serve：give help, do duty toward, serve at table, provide with→对……有",
+      "phonetic" : "sɜːv",
+      "pos" : "vt.",
+      "rootHint" : "serv 也",
+      "word" : "serve"
+    },
+    {
+      "collocations" : [
+        "the local bus service：当地的公交线路",
+        "customer service：客户服务",
+        "obtain the services of a top photographer：得到了一位顶级摄影师的服务"
+      ],
+      "definition" : "服务；效力；交通线路；公共服务机构",
+      "examples" : [
+        "Mining rose by 9.1%, manufacturing by 9.4% and services by 4.3%.\n采矿业增长了9.1%，制造业增长了9.4%，服务业增长了4.3%。"
+      ],
+      "frequency" : 264,
+      "mnemonic" : "serv-（服务）+ -ice（名词后缀）→服务；效力；交通线路；服务机",
+      "phonetic" : "ˈsɜːvɪs",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "service"
+    },
+    {
+      "collocations" : [
+        "prepare several servings of soup：准备几份汤"
+      ],
+      "definition" : "（供一个人吃的）一份食物 adj. 上菜用的",
+      "examples" : [
+        "Pile the potatoes into a warm serving dish.\n把土豆堆在一只上菜的热盘子里。"
+      ],
+      "frequency" : 3466,
+      "phonetic" : "ˈsɜːvɪŋ",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "serving"
+    },
+    {
+      "collocations" : [
+        "a large Victorian family with several servants：",
+        "public servants：公务员"
+      ],
+      "definition" : "仆人，佣人",
+      "examples" : [
+
+      ],
+      "frequency" : 3975,
+      "phonetic" : "ˈsɜːv(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "servant"
+    },
+    {
+      "collocations" : [
+        "salad servers：分色拉用的叉匙",
+        "the fastest server in tennis：最快的网球发球手"
+      ],
+      "definition" : "服务器；侍者；（网球、羽毛球等的）发球员",
+      "examples" : [
+
+      ],
+      "frequency" : 6354,
+      "phonetic" : "ˈsɜːvə",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "server"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（男）军人",
+      "examples" : [
+
+      ],
+      "frequency" : 12318,
+      "mnemonic" : "service（服兵役）+ man（男人）→服兵役的男人→（男）军人",
+      "phonetic" : "ˈsɜːvɪsmən",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "serviceman"
+    },
+    {
+      "collocations" : [
+        "in-service courses：在职学习课程"
+      ],
+      "definition" : "在职期间进行的",
+      "examples" : [
+
+      ],
+      "frequency" : 15924,
+      "mnemonic" : "in-（在……期间内）+ service（供职）→在供职期间的→在职期间进",
+      "phonetic" : "ˈinˈsə:vis",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "in-service"
+    },
+    {
+      "collocations" : [
+        "do a disservice to the nation：对国家造成危害"
+      ],
+      "definition" : "伤害；危害",
+      "examples" : [
+
+      ],
+      "frequency" : 15722,
+      "mnemonic" : "dis-（使相反）+service（服务；效劳）→即服务造成伤害而不是益处\n→引申词义伤害，危害",
+      "phonetic" : "dɪ(s)ˈsɜːvɪs",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "disservice"
+    },
+    {
+      "collocations" : [
+        "merit, be worthy of：值得；应得",
+        "deserve a rest：该休息一下了",
+        "deserve a mention：值得表扬"
+      ],
+      "definition" : "应得；值得",
+      "examples" : [
+
+      ],
+      "frequency" : 2244,
+      "mnemonic" : "de-（加强语气）+serve（服务）→因热情服务而得到某项权利→to",
+      "phonetic" : "dɪˈzɜːv",
+      "pos" : "vi.",
+      "rootHint" : "serv 也",
+      "word" : "deserve"
+    },
+    {
+      "collocations" : [
+        "to give money to a deserving cause：把钱捐给值得赞助的事业",
+        "an issue deserving of attention：值得注意的问题\n反义词：undeserving：不够格的；不该得到的"
+      ],
+      "definition" : "值得的；值得帮助的",
+      "examples" : [
+        "He was undeserving of her affections. 他不配得到她的爱。"
+      ],
+      "frequency" : 11642,
+      "phonetic" : "dɪˈzɜːvɪŋ",
+      "pos" : "adj.",
+      "rootHint" : "serv 也",
+      "word" : "deserving"
+    },
+    {
+      "collocations" : [
+        "underserved areas：服务匮乏的地区",
+        "be underserved by capital：资金匮乏"
+      ],
+      "definition" : "服务不周到的；服务匮乏的",
+      "examples" : [
+
+      ],
+      "frequency" : 19586,
+      "mnemonic" : "under-（=below：低于）+serve（服务）+-d→低于服务水平的→服务",
+      "phonetic" : "ˌʌndəˈsə:vd",
+      "pos" : "adj.",
+      "rootHint" : "serv 也",
+      "word" : "underserved"
+    },
+    {
+      "collocations" : [
+        "a dessert wine：餐末甜酒 the dessert trolley：（餐厅内）送甜点的手推"
+      ],
+      "definition" : "餐后甜点",
+      "examples" : [
+
+      ],
+      "frequency" : 4311,
+      "mnemonic" : "des-（=remove：移走）+-sert（=serve：服务）→停止正餐服务、收\n拾餐桌后吃的→餐后甜点",
+      "phonetic" : "dɪˈzɜːt",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "dessert"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "中士；警官",
+      "etymology" : "13世纪，含义为“servant：仆人”，来自古法语sergent, serjant “（domestic） servant, valet; court official; soldier”：家仆，宫廷官 员，士兵\"。后用于指军事衔级中士，警官。 笔 记 区",
+      "examples" : [
+        "A police sergeant patrolling the area spotted flames at the shop.\n在该地区巡逻的一名警官发现那家商店失火了。"
+      ],
+      "frequency" : 6744,
+      "phonetic" : "ˈsɑːdʒ(ə)nt",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "sergeant"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（尤指法国公寓等处的）看门人；（宾馆中负责提供信息、订票等的）服务台职员",
+      "etymology" : "来自拉丁语conservus “fellow slave：仆人同伴”。",
+      "examples" : [
+        "When I asked for the key to the room, the concierge handed me several\nmessages. 当我要房间钥匙的时候，旅馆服务员递给我几张便条。"
+      ],
+      "frequency" : 16154,
+      "mnemonic" : "con-（=together：一起）+-cierge（=slave：奴隶，来自serv-：服务）\n→一起做仆人，服务别人的人→看门人；服务台职员",
+      "phonetic" : "ˈkɒnsɪeəʒ",
+      "pos" : "n.",
+      "rootHint" : "serv 也",
+      "word" : "concierge"
+    }
+  ]
+}
