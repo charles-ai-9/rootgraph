@@ -355,7 +355,7 @@
       ],
       "frequency" : 13632,
       "mnemonic" : "man（人）+slaughter（屠杀；宰杀）→用于法律术语过失杀人",
-      "phonetic" : "ˈmænslɔːtə",
+      "phonetic" : "ˈmænslɔtə",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "manslaughter"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 19793,
       "mnemonic" : "patrol（巡逻；巡查）+man（人）→巡逻的人→巡警",
-      "phonetic" : "pəˈtrəʊlmən",
+      "phonetic" : "pəˈtroʊlmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "patrolman"
@@ -463,7 +463,7 @@
       ],
       "frequency" : 2747,
       "mnemonic" : "spoke（speak：发言的过去式）+s+man（人）→发言人",
-      "phonetic" : "ˈspəʊksmən",
+      "phonetic" : "ˈspoʊksmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "spokesman"
@@ -478,7 +478,7 @@
       ],
       "frequency" : 13105,
       "mnemonic" : "work（工作）+man（人）→工作的人→工人；工匠",
-      "phonetic" : "ˈwɜːkmən",
+      "phonetic" : "ˈwɝkmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "workman"
@@ -509,7 +509,7 @@
       ],
       "frequency" : 18149,
       "mnemonic" : "ealdormann，由ealdor（elder：长老）+mann（man：人）构成→指古\n时候部落宗族都由老人当政→对应的官衔：在8世纪时相当于国王派",
-      "phonetic" : "ˈɔːldəmən",
+      "phonetic" : "ˈɔldəmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "alderman"
@@ -554,7 +554,7 @@
       ],
       "frequency" : 15875,
       "mnemonic" : "clergy（（统称）神职人员）+man（人）→神职人员；男牧师",
-      "phonetic" : "ˈklɜːdʒimən",
+      "phonetic" : "ˈklɝdʒimən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "clergyman"
@@ -599,7 +599,7 @@
       ],
       "frequency" : 11201,
       "mnemonic" : "crafts（工艺）+man（人）→有制作工艺的人→工匠；手艺人",
-      "phonetic" : "ˈkrɑːftsmən",
+      "phonetic" : "ˈkrɑftsmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "craftsman"
@@ -618,7 +618,7 @@
       ],
       "frequency" : 15739,
       "mnemonic" : "craftsman（工匠；手艺人）+-ship（表示某种技能）→手艺人的技艺\n→工匠；技艺",
-      "phonetic" : "ˈkrɑːftsmənʃɪp",
+      "phonetic" : "ˈkrɑftsmənʃɪp",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "craftsmanship"
@@ -633,7 +633,7 @@
       ],
       "frequency" : 15198,
       "mnemonic" : "door（门）+man（人）→看门的人；门厅侍者",
-      "phonetic" : "ˈdɔːmən",
+      "phonetic" : "ˈdɔmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "doorman"
@@ -648,7 +648,7 @@
       ],
       "frequency" : 9280,
       "mnemonic" : "fire（火）+man（人）→扑灭火的人→消防队员",
-      "phonetic" : "ˈfaɪəmən",
+      "phonetic" : "ˈfaɪɹmən",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "fireman"
@@ -783,7 +783,7 @@
 
       ],
       "frequency" : 1837,
-      "phonetic" : "ˈd͡ʒɜː.mən",
+      "phonetic" : "ˈd͡ʒɝ.mən",
       "pos" : "adj.",
       "rootHint" : "milit",
       "word" : "German"
@@ -1414,7 +1414,7 @@
       ],
       "frequency" : 5383,
       "mnemonic" : "desire（渴望，欲望；热心）+-able（形容词后缀：可以的）→可以让\n人有欲望的→向往的；可取的；值得拥有的；值得做的",
-      "phonetic" : "dɪˈzaɪəɹəbəl",
+      "phonetic" : "dɪˈzaɪɹəbəl",
       "pos" : "adj.",
       "rootHint" : "milit",
       "word" : "desirable"
@@ -1430,7 +1430,7 @@
       ],
       "frequency" : 11233,
       "mnemonic" : "un-（=not：不；表相反）+desirable（想要的）→不想要的；不愿意",
-      "phonetic" : "ˌʌndɪˈzaɪərəbl",
+      "phonetic" : "ˌʌndɪˈzaɪrəbl",
       "pos" : "adj.",
       "rootHint" : "milit",
       "word" : "undesirable"
@@ -1448,7 +1448,7 @@
       ],
       "frequency" : 15136,
       "mnemonic" : "desirable（想要的；值得拥有的）+-ity（名词后缀）→愿望；有利条",
-      "phonetic" : "dɪˌzaɪərəˈbɪlɪtɪ",
+      "phonetic" : "dɪˌzaɪrəˈbɪlɪtɪ",
       "pos" : "n.",
       "rootHint" : "milit",
       "word" : "desirability"

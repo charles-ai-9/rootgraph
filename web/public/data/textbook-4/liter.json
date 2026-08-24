@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "lettering",
-      "phonetic": "'let(ə)r ŋ",
+      "phonetic": "ˈletərɪŋ",
       "pos": "n.",
       "definition": "字母，字；写字；印字",
       "frequency": 16764,
@@ -25,7 +25,7 @@
     },
     {
       "word": "newsletter",
-      "phonetic": "'nju:zletə",
+      "phonetic": "ˈnjuːzˌlɛtə",
       "pos": "n.",
       "definition": "( 组织)内部通讯",
       "frequency": 6236,
@@ -37,7 +37,7 @@
     },
     {
       "word": "literal",
-      "phonetic": "'lt(ə)r(ə)l",
+      "phonetic": "ˈlɪt(ə)ɹəl",
       "pos": "adj.",
       "definition": "字面上的；按字面意思的",
       "frequency": 7855,
@@ -51,7 +51,7 @@
     },
     {
       "word": "literally",
-      "phonetic": "'lrt(a)rəli",
+      "phonetic": "ˈlɪ.ɾɚ.ə.li",
       "pos": "adv.",
       "definition": "按字面；(强调事实可能令人惊讶)真正地，确实地",
       "frequency": 2492,
@@ -64,7 +64,7 @@
     },
     {
       "word": "literate",
-      "phonetic": "'lit()rət",
+      "phonetic": "ˈlɪtəɹət",
       "pos": "adj.",
       "definition": "有读写能力的；有文化的；熟悉文学的",
       "frequency": 12413,
@@ -75,7 +75,7 @@
     },
     {
       "word": "literacy",
-      "phonetic": "'lrt(a)rəsi",
+      "phonetic": "ˈlɪt.əɹ.ə.si",
       "pos": "n.",
       "definition": "n. 有读写能力；有文化",
       "frequency": 5225,
@@ -93,7 +93,7 @@
     },
     {
       "word": "literary",
-      "phonetic": "'lrt()(rə)ri",
+      "phonetic": "ˈlɪtəɹɛ(ə)ɹi",
       "pos": "adj.",
       "definition": "文学的；书面的；爱好文学的",
       "frequency": 2723,
@@ -106,7 +106,7 @@
     },
     {
       "word": "literature",
-      "phonetic": "'lt(ə)rətʃə",
+      "phonetic": "ˈlɪ.tə.ɹɪ.tʃə(ɹ)",
       "pos": "n.",
       "definition": "文学；文献；著作",
       "frequency": 1558,
@@ -119,7 +119,7 @@
     },
     {
       "word": "illiterate",
-      "phonetic": "r'lit(a)rət",
+      "phonetic": "ɪˈlɪtəɹət",
       "pos": "adj.",
       "definition": "文盲的n. 文盲",
       "frequency": 12600,
@@ -132,7 +132,7 @@
     },
     {
       "word": "illiteracy",
-      "phonetic": "i'lt(a)rəsi",
+      "phonetic": "ɪˈlɪt(ʃ)ɹəsi",
       "pos": "n.",
       "definition": "文盲",
       "frequency": 17177,
@@ -143,7 +143,7 @@
     },
     {
       "word": "obliterate",
-      "phonetic": "ə'blitərert",
+      "phonetic": "əbˈlɪtəɹeɪt",
       "pos": "vt.",
       "definition": "毁掉；覆盖；清除",
       "frequency": 10665,
@@ -157,7 +157,7 @@
     },
     {
       "word": "patent",
-      "phonetic": "'pæt(ə)nt;'pert(ə)nt",
+      "phonetic": "ˈpeɪtənt",
       "pos": "n.",
       "definition": "专利权adj. 有专利的；显而易见的v.取得……的专利权；授予专利",
       "frequency": 4454,
@@ -171,7 +171,7 @@
     },
     {
       "word": "patented",
-      "phonetic": "'pertəntid",
+      "phonetic": "ˈpætntɪd",
       "pos": "adj.",
       "definition": "专利的",
       "frequency": 18219,
@@ -183,7 +183,7 @@
     },
     {
       "word": "patently",
-      "phonetic": "'pert(a)ntli",
+      "phonetic": "ˈpeɪtəntli",
       "pos": "adv.",
       "definition": "毫无疑问；显然",
       "frequency": 17067,
@@ -196,7 +196,7 @@
     },
     {
       "word": "sing",
-      "phonetic": "stŋ",
+      "phonetic": "sɪŋ",
       "pos": "vt.",
       "definition": "&vi. 唱(歌);演唱；鸣；啼",
       "frequency": 1016,
@@ -210,7 +210,7 @@
     },
     {
       "word": "singer",
-      "phonetic": "'sinə(r)",
+      "phonetic": "ˈsɪŋɚ",
       "pos": "n.",
       "definition": "歌手；歌唱家",
       "frequency": 2844,
@@ -222,7 +222,7 @@
     },
     {
       "word": "singing",
-      "phonetic": "'siniŋ",
+      "phonetic": "ˈsɪŋɪŋ",
       "pos": "n.",
       "definition": "唱歌；歌唱",
       "frequency": 6587,
@@ -235,7 +235,7 @@
     },
     {
       "word": "song",
-      "phonetic": "sDŋ",
+      "phonetic": "sɑŋ",
       "pos": "n.",
       "definition": "歌曲；歌唱；鸟鸣声",
       "frequency": 854,
@@ -249,7 +249,7 @@
     },
     {
       "word": "songbird",
-      "phonetic": "'spŋbs:d",
+      "phonetic": "ˈsɔŋˌbɝd",
       "pos": "n.",
       "definition": "鸣鸟",
       "frequency": 17362,
@@ -260,7 +260,7 @@
     },
     {
       "word": "songwriter",
-      "phonetic": "'spŋrartə",
+      "phonetic": "ˈsɑŋraɪtər",
       "pos": "n.",
       "definition": "词(曲)作者",
       "frequency": 11741,
@@ -273,7 +273,7 @@
     },
     {
       "word": "songwriting",
-      "phonetic": "'sɔŋrartɪŋ",
+      "phonetic": "ˈsɔŋraɪtɪŋ",
       "pos": "n.",
       "definition": "歌曲创作",
       "frequency": 19764,
@@ -288,7 +288,7 @@
     },
     {
       "word": "chant",
-      "phonetic": "tfa:nt",
+      "phonetic": "tʃænt",
       "pos": "n.",
       "definition": "重复的话语；圣歌；赞美诗 vt.&vi.反复唱；反复呼喊",
       "frequency": 6988,
@@ -301,7 +301,7 @@
     },
     {
       "word": "enchant",
-      "phonetic": "in'tfa:nt;en -",
+      "phonetic": "ɛnˈtʃænt",
       "pos": "vt.",
       "definition": "使陶醉；施魔法于",
       "frequency": 18216,
@@ -313,7 +313,7 @@
     },
     {
       "word": "enchanted",
-      "phonetic": "in'tfa:ntid ",
+      "phonetic": "ɛnˈt͡ʃæntɪd",
       "pos": "adj.",
       "definition": "被施魔法的；有魔法的",
       "frequency": 15555,
@@ -323,7 +323,7 @@
     },
     {
       "word": "enchanting",
-      "phonetic": "in'tfa:ntiŋ",
+      "phonetic": "ɪnˈtʃɑntɪŋ",
       "pos": "adj.",
       "definition": "迷人的",
       "frequency": 18134,
@@ -338,7 +338,7 @@
     },
     {
       "word": "disenchanted",
-      "phonetic": ",drsin'tfæntid",
+      "phonetic": "ˌdɪsɪnˈtʃɑntɪd",
       "pos": "adj.",
       "definition": "不再抱幻想的",
       "frequency": 18978,
@@ -349,7 +349,7 @@
     },
     {
       "word": "accent",
-      "phonetic": "'æks(ə)nt;- sent",
+      "phonetic": "ˈak.sənt",
       "pos": "n.",
       "definition": "n. 口音；强调；重音v.着重；强调",
       "frequency": 4181,
@@ -369,7 +369,7 @@
     },
     {
       "word": "accentuate",
-      "phonetic": "ək'sentfuert;-tju-",
+      "phonetic": "ækˈsen.tʃuˌeɪt",
       "pos": "vt.",
       "definition": "着重；强调；使突出",
       "frequency": 11144,
@@ -382,7 +382,7 @@
     },
     {
       "word": "incentive",
-      "phonetic": "in'sentiv",
+      "phonetic": "ɪnˈsɛntɪv",
       "pos": "n.",
       "definition": "激励；鼓励",
       "frequency": 2750,
@@ -395,7 +395,7 @@
     },
     {
       "word": "charm",
-      "phonetic": "tfa:m",
+      "phonetic": "tʃɑɹm",
       "pos": "n.",
       "definition": "魅力；符咒 vt. (用魅力)取悦",
       "frequency": 4822,
@@ -409,7 +409,7 @@
     },
     {
       "word": "charming",
-      "phonetic": "'tfa:miŋ",
+      "phonetic": "ˈtʃɑ(ɹ).mɪŋ",
       "pos": "adj.",
       "definition": "迷人的；惹人喜欢的",
       "frequency": 5252,
@@ -421,7 +421,7 @@
     },
     {
       "word": "hen",
-      "phonetic": "hen",
+      "phonetic": "hɛn",
       "pos": "n.",
       "definition": "母鸡；雌禽",
       "frequency": 8085,
@@ -434,7 +434,7 @@
     },
     {
       "word": "cantaloupe",
-      "phonetic": "'kæntɔlu:p",
+      "phonetic": "ˈkæn.tə.loʊp",
       "pos": "n.",
       "definition": "罗马甜瓜",
       "frequency": 18412,
@@ -449,7 +449,7 @@
     },
     {
       "word": "sound",
-      "phonetic": "saund",
+      "phonetic": "saʊnd",
       "pos": "n.",
       "definition": "声音；响声；音乐风格 vt. 宣告；听起来 adj. 健康的；可 靠的；正确的的adv.酣睡",
       "frequency": 703,
@@ -463,7 +463,7 @@
     },
     {
       "word": "sounding",
-      "phonetic": "'saundiŋ",
+      "phonetic": "ˈsaʊndɪŋ",
       "pos": "n.",
       "definition": "( 铃或号的)发声；对某人意见的征询；(测量水深或检 测水底的)探通 adj. 回响的；回荡的",
       "frequency": 17090,
@@ -475,7 +475,7 @@
     },
     {
       "word": "soundly",
-      "phonetic": "'saundli",
+      "phonetic": "ˈsaʊnd.lɪ",
       "pos": "adv.",
       "definition": "彻底地；可靠地；酣(睡)地",
       "frequency": 16469,
@@ -489,7 +489,7 @@
     },
     {
       "word": "soundbite",
-      "phonetic": "'saund,bait",
+      "phonetic": "ˈsaʊndbaɪt",
       "pos": "n.",
       "definition": "(新闻节目中对政治人物讲话的)简短引述",
       "frequency": 18419,
@@ -500,7 +500,7 @@
     },
     {
       "word": "soundtrack",
-      "phonetic": "'saun(d)træk",
+      "phonetic": "ˈsaʊndtræk",
       "pos": "n.",
       "definition": "(电影的)配音；电影音乐磁带(或唱片)10124",
       "mnemonic": "sound(声音)+track (录音磁带；光盘)→声音磁带；电影配音",
@@ -512,7 +512,7 @@
     },
     {
       "word": "ultrasound",
-      "phonetic": "'altrəsaund",
+      "phonetic": "ˈʌltrəsaʊnd",
       "pos": "n.",
       "definition": "超声波；超声波扫描检查",
       "frequency": 12543,
@@ -523,7 +523,7 @@
     },
     {
       "word": "sonic",
-      "phonetic": "'spnk",
+      "phonetic": "ˈsɑnɪk",
       "pos": "adj.",
       "definition": "声音的；声速的",
       "frequency": 13726,
@@ -539,7 +539,7 @@
     },
     {
       "word": "supersonic",
-      "phonetic": "su:pə'spnik;sju:- ",
+      "phonetic": "ˌsuːpəˈsɑnɪk",
       "pos": "adj.",
       "definition": "超音速的",
       "frequency": 18185,
@@ -553,7 +553,7 @@
     },
     {
       "word": "resound",
-      "phonetic": "rɪ'zaund",
+      "phonetic": "ˌɹiːˈsaʊnd",
       "pos": "vi.",
       "definition": "回响；鸣响；充满；回荡着(声音)20022",
       "mnemonic": "re-(=back,again : 回；再次)+sound(=to sound: 发出声音)→声音再次 出现→ 回响；回荡；(声音)充满",
@@ -566,7 +566,7 @@
     },
     {
       "word": "resounding",
-      "phonetic": "ri'zaundŋ",
+      "phonetic": "ɹɪˈzaʊn.dɪŋ",
       "pos": "adj.",
       "definition": "响亮清晰的；彻底的",
       "frequency": 15979,
@@ -579,7 +579,7 @@
     },
     {
       "word": "resonance",
-      "phonetic": "'rez(a)nəns",
+      "phonetic": "ˈɹɛzənəns",
       "pos": "n.",
       "definition": "共鸣；洪亮",
       "frequency": 8095,
@@ -593,7 +593,7 @@
     },
     {
       "word": "resonant",
-      "phonetic": "'rez(ə)nənt",
+      "phonetic": "ˈɹɛzənənt",
       "pos": "adj.",
       "definition": "嘹亮的；回响的；共鸣的；引起联想的",
       "frequency": 14499,
@@ -606,7 +606,7 @@
     },
     {
       "word": "resonate",
-      "phonetic": "'rez(ə)nert",
+      "phonetic": "ˈɹɛz.əˌneɪt",
       "pos": "vt.",
       "definition": "产生共鸣；发出回响；(使)回响；使产生联想；引起共鸣",
       "frequency": 8012,
@@ -618,7 +618,7 @@
     },
     {
       "word": "consonant",
-      "phonetic": "'kons(ə)nant",
+      "phonetic": "ˈkɑn.sə.nənt",
       "pos": "n.",
       "definition": "辅音adj.(与……)一致的，相同的",
       "frequency": 18173,
@@ -629,7 +629,7 @@
     },
     {
       "word": "dissonance",
-      "phonetic": "'dis(ə)nəns",
+      "phonetic": "ˈdɪsənəns",
       "pos": "n.",
       "definition": "不和谐；不协调；不一致",
       "frequency": 17027,
@@ -642,7 +642,7 @@
     },
     {
       "word": "sonnet",
-      "phonetic": "'spnit",
+      "phonetic": "ˈsɑnɪt",
       "pos": "n.",
       "definition": "十四行诗",
       "frequency": 15537,
@@ -653,7 +653,7 @@
     },
     {
       "word": "sonar",
-      "phonetic": "'səuna:",
+      "phonetic": "ˈsoʊnɑːr",
       "pos": "n.",
       "definition": "声呐(利用声波探测水下物体的装置或系统)15428",
       "mnemonic": "利用声波水下探测装置。1946,来自“so(und)+na(vigation)+r(anging)”",
@@ -663,7 +663,7 @@
     },
     {
       "word": "unison",
-      "phonetic": "'ju:nis(a)n",
+      "phonetic": "ˈjunɨsən",
       "pos": "n.",
       "definition": "一起； 一致地；协调的(in unison)9638",
       "mnemonic": "uni-(one, unique: 独特的；唯一的)+-son(=sound: 声音)→发出同一个 声音→引申词义一致地，协调地",
@@ -675,7 +675,7 @@
     },
     {
       "word": "swan",
-      "phonetic": "swon",
+      "phonetic": "swɑn",
       "pos": "n.",
       "definition": "天鹅 vi. 悠游；悠然闲逛[+adv./prep. ]11869",
       "mnemonic": "笔 记 区make sound=发出声音”。因此它与古英语geswin “melody,song=美 妙的音乐，歌曲”及swinsian “to make melody=发出每妙的音乐”有 关。可能是因为传说中天鹅在临死之前会发出美妙的歌声而联想： swim(游泳)→swan(在水里游的美丽洁白的动物，天鹅)",
@@ -690,7 +690,7 @@
     },
     {
       "word": "person",
-      "phonetic": "'pss(a)n",
+      "phonetic": "ˈpɝsən",
       "pos": "n.",
       "definition": "人；[复数形式]用于正式、法律、技术文体中；人品；喜欢(不喜欢)……的人；身体",
       "frequency": 346,
@@ -707,7 +707,7 @@
     },
     {
       "word": "personal",
-      "phonetic": "'pss(a)n(a)l",
+      "phonetic": "ˈpɜɹ.sən.əl",
       "pos": "adj.",
       "definition": "个人的；人际的；私人的；亲自做的；个别的；针对个人的；人身的personals ( 报纸广告栏内的)私人广告",
       "frequency": 581,
@@ -722,7 +722,7 @@
     },
     {
       "word": "personality",
-      "phonetic": "ps:sa'næliti",
+      "phonetic": "ˌpɜrsəˈnæləti",
       "pos": "n.",
       "definition": "性格；个性鲜明的人；(尤指娱乐、广播、体育 界)名人",
       "frequency": 2092,
@@ -737,7 +737,7 @@
     },
     {
       "word": "personally",
-      "phonetic": "'ps:s(3)n(ə)li",
+      "phonetic": "ˈpɝsnəli",
       "pos": "adv.",
       "definition": "在个人看来；亲自；个别地；无礼地；私人 地",
       "frequency": 2656,
@@ -751,7 +751,7 @@
     },
     {
       "word": "personnel",
-      "phonetic": "ps:s'nel",
+      "phonetic": "pɝ.səˈnɛl",
       "pos": "n.",
       "definition": "(组织或军队中的)全体人员；人事部门",
       "frequency": 2448,
@@ -764,7 +764,7 @@
     },
     {
       "word": "persona",
-      "phonetic": "pə'səunə;p3:-",
+      "phonetic": "pɝˈsoʊnə",
       "pos": "n.",
       "definition": "(同本人真实品性不一致的)表面形象",
       "frequency": 7663,
@@ -781,7 +781,7 @@
     },
     {
       "word": "impersonate",
-      "phonetic": " m'ps:s(ə)nert",
+      "phonetic": "ɪmˈpɝsəneɪt",
       "pos": "vt.",
       "definition": "假扮(为了行骗);(尤指为逗人发笑而)模仿 (某人的言语、动作)19379",
       "mnemonic": "im-(=into, in: 进入)+person(人)+-ate(动词后缀)→represent in bodily form,assume the person or character of: 即变成另一个人的(样貌；性 格)→假扮；模仿",
@@ -794,7 +794,7 @@
     },
     {
       "word": "personalize",
-      "phonetic": "'p3:s(a)n(a)larz ",
+      "phonetic": "ˈpɜrsənəlaɪz",
       "pos": "vt.",
       "definition": "在……上标出个人的姓名[姓名的首字母]; 使个性化；为个人特制(或专设);针对个人",
       "frequency": 13899,
@@ -811,7 +811,7 @@
     },
     {
       "word": "personify",
-      "phonetic": "pə'sbnrfar",
+      "phonetic": "pəˈsɑnɪfaɪ",
       "pos": "vt.",
       "definition": "是……的化身[典型];把……拟人化[人格化]14606拟人化[人格化]",
       "mnemonic": "person(人)+i+fy(动词后缀，使成为)→to represent,embody: 代表；体 现→使人成为……的代表，体现……→是……的化身[典型];把……",
@@ -825,7 +825,7 @@
     },
     {
       "word": "personification",
-      "phonetic": "pə,spnifi'kerʃ(ə)n",
+      "phonetic": "pəˌsɑnɪfɪˈkeɪʃn",
       "pos": "n.",
       "definition": "典型；(文学或艺术中的)拟人化，人格 化[+of]17963",
       "mnemonic": "personify ( 是……的典型；把……拟人化)+-ication (复合名词后 缀)→embodiment ofa quality in a person→典型；拟人化",
@@ -838,7 +838,7 @@
     },
     {
       "word": "personable",
-      "phonetic": "'ps:s(ə)nab(3)l",
+      "phonetic": "ˈpɝsənəbəl",
       "pos": "adj.",
       "definition": "品貌兼优的；英俊潇洒的",
       "frequency": 20070,
@@ -857,7 +857,7 @@
     },
     {
       "word": "nearly",
-      "phonetic": "'nioli",
+      "phonetic": "ˈnɪɹli",
       "pos": "adv.",
       "definition": "几乎；即将",
       "frequency": 599,
@@ -871,7 +871,7 @@
     },
     {
       "word": "nearby",
-      "phonetic": "'nrobar",
+      "phonetic": "ˌnɪrˈbaɪ",
       "pos": "adv.",
       "definition": "在附近adj. 附近的",
       "frequency": 2445,
@@ -885,7 +885,7 @@
     },
     {
       "word": "nearest",
-      "phonetic": "'niərist",
+      "phonetic": "ˈnɪɹɪst",
       "pos": "adj.",
       "definition": "最近的(near 的最高级)5822",
       "mnemonic": "near (离……近)+-est (形容词最高级) →最近的",
@@ -897,7 +897,7 @@
     },
     {
       "word": "next",
-      "phonetic": "nekst",
+      "phonetic": "nɛkst",
       "pos": "ord.",
       "definition": "下一个的det.下一(年、月、星期等)pron.下一个adj.下 一 (年、月、星期等)的；紧邻的adv.紧接着；再次；仅次于",
       "frequency": 218,
@@ -911,7 +911,7 @@
     },
     {
       "word": "next-door",
-      "phonetic": ",nekst'do",
+      "phonetic": "ˈnekstdɔ",
       "pos": "adv.",
       "definition": "adv. 在隔壁adj. 隔壁的",
       "frequency": 17600,
@@ -930,7 +930,7 @@
     },
     {
       "word": "neighbor",
-      "phonetic": "'nerbə",
+      "phonetic": "ˈneɪbə",
       "pos": "n.",
       "definition": "邻居；临近的人；邻近的同类物",
       "frequency": 1446,
@@ -941,7 +941,7 @@
     },
     {
       "word": "neighborhood",
-      "phonetic": "'nerbə,hud",
+      "phonetic": "ˈneɪbɚˌhʊd",
       "pos": "n.",
       "definition": "居住区；附近",
       "frequency": 1137,
@@ -955,7 +955,7 @@
     },
     {
       "word": "neighboring",
-      "phonetic": "'neibəriŋ",
+      "phonetic": "ˈneɪbəɹɪŋ",
       "pos": "adj.",
       "definition": "邻近的(等于neighbouring)4889",
       "collocations": [
@@ -969,7 +969,7 @@
     },
     {
       "word": "dwell",
-      "phonetic": "dwel",
+      "phonetic": "dwɛl",
       "pos": "vi.",
       "definition": "居住；栖身；细想；详述",
       "frequency": 7296,
@@ -985,7 +985,7 @@
     },
     {
       "word": "dweller",
-      "phonetic": "'dwelə",
+      "phonetic": "dwɛləɹ",
       "pos": "n.",
       "definition": "居民；居住者",
       "frequency": 11104,
@@ -997,7 +997,7 @@
     },
     {
       "word": "dwelling",
-      "phonetic": "'dweliŋ",
+      "phonetic": "ˈdwɛ.lɪŋ",
       "pos": "n.",
       "definition": "住宅；住所；居住地",
       "frequency": 8371,
@@ -1009,7 +1009,7 @@
     },
     {
       "word": "fume",
-      "phonetic": "fju:m",
+      "phonetic": "fjuːm",
       "pos": "vt.",
       "definition": "&vi.表达气愤 n. ( 难闻且常有害的)烟气",
       "frequency": 9831,
@@ -1024,7 +1024,7 @@
     },
     {
       "word": "perfume",
-      "phonetic": "'ps:fju:m",
+      "phonetic": "pɚˈfjuːm",
       "pos": "n.",
       "definition": "香水；香料；芳香 vt. 使香气弥漫；为……增加香味",
       "frequency": 6693,
@@ -1041,7 +1041,7 @@
     },
     {
       "word": "funk",
-      "phonetic": "fank",
+      "phonetic": "fʌŋk",
       "pos": "n.",
       "definition": "( 伴奏现代舞蹈的)乡土爵士乐；放克音乐；忧愁；强烈的臭 气 v.(因畏惧而)逃避，回避",
       "frequency": 13762,
@@ -1054,7 +1054,7 @@
     },
     {
       "word": "funky",
-      "phonetic": "'fʌnki",
+      "phonetic": "fʌŋki",
       "pos": "adj.",
       "definition": "音低节奏强的(爵士、布鲁斯、流行乐);时髦别致的；恶 臭的",
       "frequency": 10896,
@@ -1094,7 +1094,7 @@
     },
     {
       "word": "dumbbell",
-      "phonetic": "'dʌmbel",
+      "phonetic": "ˈdʌm.bɛl",
       "pos": "n.",
       "definition": "哑铃；笨蛋",
       "frequency": 12651,
@@ -1105,7 +1105,7 @@
     },
     {
       "word": "dummy",
-      "phonetic": "'dʌmɪ",
+      "phonetic": "ˈdʌmi",
       "pos": "n.",
       "definition": "人体模型；仿真品；笨蛋；傻瓜",
       "frequency": 11581,
@@ -1117,7 +1117,7 @@
     },
     {
       "word": "approach",
-      "phonetic": "ə'proutʃ",
+      "phonetic": "əˈpɹoʊt͡ʃ",
       "pos": "vt.",
       "definition": "&vi. (在距离或时间上)靠近；接洽；(在数额、水平或 质量上)接近n.(待人接物或思考问题的)方式；(距离和时间上的)靠近； 接洽；道路",
       "frequency": 751,
@@ -1140,7 +1140,7 @@
     },
     {
       "word": "approaching",
-      "phonetic": "ə'protʃ",
+      "phonetic": "əˈpɹoʊtʃɪŋ",
       "pos": "adj.",
       "definition": "逼近的；接近的",
       "frequency": 13367,
@@ -1155,7 +1155,7 @@
     },
     {
       "word": "rapprochement",
-      "phonetic": ",ra:prpf'mpŋ",
+      "phonetic": "ɹæ-",
       "pos": "n.",
       "definition": "重归于好；和解",
       "frequency": 19982,
@@ -1168,7 +1168,7 @@
     },
     {
       "word": "proximity",
-      "phonetic": "prpk'simrt",
+      "phonetic": "pɹɑkˈsɪ.mɪ.ti",
       "pos": "n.",
       "definition": "(时间或空间)接近；邻近；靠近",
       "frequency": 6690,
@@ -1183,7 +1183,7 @@
     },
     {
       "word": "proximal",
-      "phonetic": "'prpksm(3)l",
+      "phonetic": "ˈpɹɑksɪməl",
       "pos": "adj.",
       "definition": "近中心的；近身体中心的",
       "frequency": 18834,
@@ -1196,7 +1196,7 @@
     },
     {
       "word": "approximate",
-      "phonetic": "ə'prpksimət",
+      "phonetic": "əˈprɑksɪmət",
       "pos": "adj.",
       "definition": "大概的(数字、时间或方位等);大概的(观点或描述等);近似的 vt.&vi. 接近(某数字);类似，接近",
       "frequency": 12205,
@@ -1212,7 +1212,7 @@
     },
     {
       "word": "approximately",
-      "phonetic": "ə'prpksmətli",
+      "phonetic": "əˈpɹɑk.sɪ.mət.li",
       "pos": "adv.",
       "definition": "大概；大约；约莫",
       "frequency": 2386,
@@ -1226,7 +1226,7 @@
     },
     {
       "word": "approximation",
-      "phonetic": "ə ,prpkst'meiʃn",
+      "phonetic": "əˌpɹɑksɪˈmeɪʃn",
       "pos": "n.",
       "definition": "接近；近似；近似值；粗略估计",
       "frequency": 14071,
@@ -1245,7 +1245,7 @@
     },
     {
       "word": "perimeter",
-      "phonetic": "pə'rimitə",
+      "phonetic": "pəˈɹɪmɪtə(ɹ)",
       "pos": "n.",
       "definition": "(军营等地的)四周[+of]; 周长[+of]6692",
       "mnemonic": "peri-(=around: 在周围)+-meter(=measure: 测量)→引申词义外缘； 周长",
@@ -1258,7 +1258,7 @@
     },
     {
       "word": "period",
-      "phonetic": "'prərrd",
+      "phonetic": "ˈpɪɹɪəd",
       "pos": "n.",
       "definition": "一段时间；(某人生活或历史上的)时期；月经；句号",
       "frequency": 617,
@@ -1273,7 +1273,7 @@
     },
     {
       "word": "periodic",
-      "phonetic": ",piərɪ'ddik",
+      "phonetic": "ˌpɪɹiˈɑdɪk",
       "pos": "adj.",
       "definition": "周期(性)的；定期的",
       "frequency": 7847,
@@ -1286,7 +1286,7 @@
     },
     {
       "word": "periodical",
-      "phonetic": "prori'pdik( ə)l",
+      "phonetic": "ˌpɪrriˈɑdɪkl",
       "pos": "n.",
       "definition": "(尤指内容严肃或学术性的)期刊 adj. 定期的",
       "frequency": 13429,
@@ -1300,7 +1300,7 @@
     },
     {
       "word": "periodically",
-      "phonetic": ",prəri'bdrkəli",
+      "phonetic": "ˌpɪrrɪˈɑdɪklɪ",
       "pos": "adv.",
       "definition": "定期地",
       "frequency": 7163,
@@ -1314,7 +1314,7 @@
     },
     {
       "word": "parameter",
-      "phonetic": "pə'ræmitə",
+      "phonetic": "pəˈɹæm.ɪ.tə",
       "pos": "n.",
       "definition": "参数；界限；范围",
       "frequency": 5462,
@@ -1329,7 +1329,7 @@
     },
     {
       "word": "paradise",
-      "phonetic": "'pærədars",
+      "phonetic": "ˈpæ.ɹə.daɪs",
       "pos": "n.",
       "definition": "(某些宗教所指的)天堂；乐园(指美好的环境);(某类 活动或某类人的)完美去处；极乐；伊甸园",
       "frequency": 6927,
@@ -1346,7 +1346,7 @@
     },
     {
       "word": "paranoia",
-      "phonetic": ",pærə'npiə",
+      "phonetic": "ˌpæɹ.əˈnɔɪ.ə",
       "pos": "n.",
       "definition": "多疑；恐惧；偏执狂；妄想狂",
       "frequency": 10791,
@@ -1360,7 +1360,7 @@
     },
     {
       "word": "paranoid",
-      "phonetic": "'pærəndid",
+      "phonetic": "ˈpæɹ.ə.ˌnɔɪd",
       "pos": "adj.",
       "definition": "多疑的；恐惧的；患偏执狂的；患妄想狂的 n. 偏 执狂；妄想狂",
       "frequency": 8822,
@@ -1375,7 +1375,7 @@
     },
     {
       "word": "parasite",
-      "phonetic": "'pærssart",
+      "phonetic": "ˈpæɹəˌsaɪt",
       "pos": "n.",
       "definition": "寄生虫；寄生植物；靠他人为生的人；寄生虫",
       "frequency": 8637,
@@ -1392,7 +1392,7 @@
     },
     {
       "word": "paramedic",
-      "phonetic": ",pær'medik",
+      "phonetic": "ˌpærəˈmedɪk",
       "pos": "n.",
       "definition": "(非医生或护士的)医疗护理人员；医务辅助人员",
       "frequency": 10648,
@@ -1408,7 +1408,7 @@
     },
     {
       "word": "paramilitary",
-      "phonetic": ",pærə'mrlt(ə)ri",
+      "phonetic": "ˌpɛɹəˈmɪlɪˌtɛɹi",
       "pos": "adj.",
       "definition": "(组织)准军事性的；非法军事组织的 n. 准军事组织成员；非法军事组织成员",
       "frequency": 12285,
@@ -1423,7 +1423,7 @@
     },
     {
       "word": "paragon",
-      "phonetic": "'pærəg(ən",
+      "phonetic": "ˈpæɹəɡən",
       "pos": "n.",
       "definition": "完人；杰出典范",
       "frequency": 20076,
@@ -1439,7 +1439,7 @@
     },
     {
       "word": "parachute",
-      "phonetic": "'pærəfu:t",
+      "phonetic": "ˈpæɹəʃuːt",
       "pos": "n.",
       "definition": "降落伞 vt.&vi.使空降；跳伞 parachute into.…突然派到(某机构以帮助该机构)vt. 空投",
       "frequency": 9898,
@@ -1455,7 +1455,7 @@
     },
     {
       "word": "paratrooper",
-      "phonetic": "'pærətru:pə",
+      "phonetic": "ˈpærətruːpər",
       "pos": "n.",
       "definition": "伞兵；空降兵",
       "frequency": 17856,
@@ -1469,7 +1469,7 @@
     },
     {
       "word": "file",
-      "phonetic": "farl",
+      "phonetic": "faɪl",
       "pos": "n.",
       "definition": "文件；卷宗vt.&vi.提起 vt.提交；使归档 vi.排成纵列行进",
       "frequency": 1758,
@@ -1484,7 +1484,7 @@
     },
     {
       "word": "profile",
-      "phonetic": "'prəufarl",
+      "phonetic": "ˈpɹoʊfaɪl",
       "pos": "n.",
       "definition": "侧面轮廓；人物简介；(书面的)描述 vt. 对……作介绍； 作传",
       "frequency": 2699,
@@ -1507,7 +1507,7 @@
     },
     {
       "word": "filament",
-      "phonetic": "'filəm(ə)nt",
+      "phonetic": "ˈfɪləmənt",
       "pos": "n.",
       "definition": "细丝；(电灯泡的)灯丝",
       "frequency": 14292,
@@ -1520,7 +1520,7 @@
     },
     {
       "word": "fillet",
-      "phonetic": "'filit",
+      "phonetic": "fɪˈleɪ",
       "pos": "n.",
       "definition": "无骨肉片；去骨鱼片 vt. 剔去(鱼、肉的)骨头；把(鱼、肉)切 成片",
       "frequency": 10984,
@@ -1535,7 +1535,7 @@
     },
     {
       "word": "filet",
-      "phonetic": "'fi:ler;'filt",
+      "phonetic": "ˈfɪleɪ",
       "pos": "n.",
       "definition": "肉片；鱼片；(猪、牛等的)里脊",
       "frequency": 18772,
@@ -1562,7 +1562,7 @@
     },
     {
       "word": "testing",
-      "phonetic": "'testiŋ",
+      "phonetic": "ˈtɛstɪŋ",
       "pos": "adj.",
       "definition": "考验人的n. 检测",
       "frequency": 2524,
@@ -1575,7 +1575,7 @@
     },
     {
       "word": "testify",
-      "phonetic": "'testifar",
+      "phonetic": "ˈtɛstɪfaɪ",
       "pos": "vt.",
       "definition": "&vi.(在法庭上)作证 vt.证实；证明",
       "frequency": 2816,
@@ -1588,7 +1588,7 @@
     },
     {
       "word": "testimony",
-      "phonetic": "'testiməni",
+      "phonetic": "ˈtɛstɪmoʊni",
       "pos": "n.",
       "definition": "证据；证词",
       "frequency": 2683,
@@ -1605,7 +1605,7 @@
     },
     {
       "word": "testimonial",
-      "phonetic": ",testr'məunə l",
+      "phonetic": "ˌtestɪˈmoʊniəl",
       "pos": "n.",
       "definition": "( 常指雇主证明某人品德和能力的)证明书；奖 品；表彰会",
       "frequency": 16296,
@@ -1618,7 +1618,7 @@
     },
     {
       "word": "protest",
-      "phonetic": "prə'test;'prəutest",
+      "phonetic": "ˈpɹoʊ.tɛst",
       "pos": "vt.",
       "definition": "&vi. 抗议；申辩 vi. 断言(断然否认)n. 抗议；声 明",
       "frequency": 2858,
@@ -1633,7 +1633,7 @@
     },
     {
       "word": "protester",
-      "phonetic": "prə'testə(r)",
+      "phonetic": "pɹəˈtestəɹ",
       "pos": "n.",
       "definition": "(公开)抗议者；反对者",
       "frequency": 6282,
@@ -1646,7 +1646,7 @@
     },
     {
       "word": "protestant",
-      "phonetic": "'prptistont",
+      "phonetic": "ˈprɑtistәnt",
       "pos": "n.",
       "definition": "新教徒(16世纪脱离天主教的基督教教派成员)adj.新教的；新教徒的",
       "frequency": 6220,
@@ -1660,7 +1660,7 @@
     },
     {
       "word": "protestantism",
-      "phonetic": "'pratistont,izm ",
+      "phonetic": "ˈprɑtistәntizm",
       "pos": "n.",
       "definition": "新教；新教教义",
       "frequency": 16395,
@@ -1673,7 +1673,7 @@
     },
     {
       "word": "contest",
-      "phonetic": "'kontest ",
+      "phonetic": "ˈkɑn.tɛst",
       "pos": "vt.",
       "definition": "对……提出抗辩；参加(竞选或比赛)n. 竞赛；争夺",
       "frequency": 3087,
@@ -1688,7 +1688,7 @@
     },
     {
       "word": "contestant",
-      "phonetic": "kən'test(a)nt",
+      "phonetic": "kənˈtɛstənt",
       "pos": "n.",
       "definition": "参赛者；竞争者",
       "frequency": 8934,
@@ -1700,7 +1700,7 @@
     },
     {
       "word": "contested",
-      "phonetic": "'kontest",
+      "phonetic": "kənˈtestid",
       "pos": "adj.",
       "definition": "争夺的；有争议的",
       "frequency": 12736,
@@ -1715,7 +1715,7 @@
     },
     {
       "word": "attest",
-      "phonetic": "ə 'test",
+      "phonetic": "əˈtɛst",
       "pos": "vt.",
       "definition": "&vi. 证明 vi. 证实[+to]8795",
       "mnemonic": "at(=ad: 去)+test(bear witness to,give proof to: 证明)→证明；证实",
@@ -1728,7 +1728,7 @@
     },
     {
       "word": "detest",
-      "phonetic": "dr'test",
+      "phonetic": "dɪˈtɛst",
       "pos": "vt.",
       "definition": "憎恨；厌恶",
       "frequency": 16929,
@@ -1740,7 +1740,7 @@
     },
     {
       "word": "test-retest",
-      "phonetic": "'test,ri:test",
+      "phonetic": "ˌtestriːˈtest",
       "pos": "n.",
       "definition": "再测；重测信度",
       "frequency": 17738,
@@ -1752,7 +1752,7 @@
     },
     {
       "word": "untested",
-      "phonetic": "ʌ n'testid",
+      "phonetic": "ˌʌnˈtestɪd",
       "definition": "(物/药物)未经实验的；(人)未经考验的",
       "frequency": 17246,
       "collocations": [
@@ -1764,7 +1764,7 @@
     },
     {
       "word": "tested",
-      "phonetic": "t'estid",
+      "phonetic": "ˈtɛstɪd",
       "pos": "adj.",
       "definition": "经受过考验的；经实验的",
       "frequency": 19252,
@@ -1776,7 +1776,7 @@
     },
     {
       "word": "subtest",
-      "phonetic": "sAb'test",
+      "phonetic": "sʌbˈtest",
       "pos": "n.",
       "definition": "分测验",
       "frequency": 15404,
@@ -1788,7 +1788,7 @@
     },
     {
       "word": "tentative",
-      "phonetic": "'tentətrv",
+      "phonetic": "ˈtɛntətɪv",
       "pos": "adj.",
       "definition": "不确定的；初步的；犹豫的",
       "frequency": 7868,
@@ -1802,7 +1802,7 @@
     },
     {
       "word": "tentatively",
-      "phonetic": "'tentstrvli",
+      "phonetic": "ˈtɛntətɪvli",
       "pos": "adv.",
       "definition": "初步地；犹豫地",
       "frequency": 10865,

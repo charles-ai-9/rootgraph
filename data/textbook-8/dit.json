@@ -640,7 +640,7 @@
       ],
       "frequency" : 3554,
       "mnemonic" : "dos-（=to give：给予）+ -e（名词 \/ 动词后缀）→给予的药的量→",
-      "phonetic" : "dəʊs",
+      "phonetic" : "doʊs",
       "pos" : "n.",
       "rootHint" : "dos",
       "word" : "dose"
@@ -657,7 +657,7 @@
       ],
       "frequency" : 12733,
       "mnemonic" : "dos-（=dose：药的一剂）+ -age（名词后缀）→剂量",
-      "phonetic" : "ˈdəʊsɪdʒ",
+      "phonetic" : "ˈdoʊsɪdʒ",
       "pos" : "n.",
       "rootHint" : "dos",
       "word" : "dosage"
@@ -706,7 +706,7 @@
       ],
       "frequency" : 18478,
       "mnemonic" : "dow-（=to give：给予）+ -ry（名词后缀）→娘家送给男方或新婚夫\n妇的陪嫁礼物→（新娘的）嫁妆",
-      "phonetic" : "ˈdaʊəɹi",
+      "phonetic" : "ˈdaʊɹi",
       "pos" : "n.",
       "rootHint" : "dow",
       "word" : "dowry"
@@ -787,7 +787,7 @@
       ],
       "frequency" : 11485,
       "mnemonic" : "con-（强调）+ -don（=to give：给予）+-e→完全给予，放弃追究权\n利→宽恕；容忍；纵容",
-      "phonetic" : "kənˈdəʊn",
+      "phonetic" : "kənˈdoʊn",
       "pos" : "vt.",
       "rootHint" : "don",
       "word" : "condone"
@@ -1032,7 +1032,7 @@
       ],
       "frequency" : 9245,
       "mnemonic" : "re-（=again；再次）+appear（出现；露面）→再次出现；重新露面",
-      "phonetic" : "ˌriːəˈpɪə(r)",
+      "phonetic" : "ˌriːəˈpɪr",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "reappear"
@@ -1064,7 +1064,7 @@
       ],
       "frequency" : 6634,
       "mnemonic" : "dis-（表相反）+ appearance（出现）→出现的反面→失踪；丢失；不",
-      "phonetic" : "dɪsəˈpɪəɹəns",
+      "phonetic" : "dɪsəˈpɪɹəns",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "disappearance"
@@ -1078,7 +1078,7 @@
 
       ],
       "frequency" : 15497,
-      "phonetic" : "ˌdɪsəˈpɪə(r)ɪŋ",
+      "phonetic" : "ˌdɪsəˈpɪrɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "disappearing"
@@ -1216,7 +1216,7 @@
       ],
       "frequency" : 2488,
       "mnemonic" : "pheno（=appear：出现）+ men-（冒；突出来）+ -on（名词后缀）→",
-      "phonetic" : "fɪˈnɒmənɒn",
+      "phonetic" : "fɪˈnɑmənɑn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "phenomenon"
@@ -1231,7 +1231,7 @@
       ],
       "frequency" : 9273,
       "mnemonic" : "phenomen（=phenomenon：杰出的人；非凡的人）+ -al（形容词后\n缀）→杰出的；非凡的",
-      "phonetic" : "fəˈnɒmɪnl",
+      "phonetic" : "fəˈnɑmɪnl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "phenomenal"
@@ -1435,7 +1435,7 @@
         "Many people spontaneously stood up and cheered.\n许多人自发地站起来欢呼。"
       ],
       "frequency" : 11397,
-      "phonetic" : "spɒnˈteɪ.ni.əs.li",
+      "phonetic" : "spɑnˈteɪ.ni.əs.li",
       "pos" : "adv.",
       "rootHint" : "dit",
       "word" : "spontaneously"
@@ -1455,7 +1455,7 @@
       ],
       "frequency" : 15219,
       "mnemonic" : "spontane（=spontaneous：自然的；自发的）+ -ity（名词后缀）→自",
-      "phonetic" : "ˈspɒn.tə.neɪ.ə.ti",
+      "phonetic" : "ˈspɑn.tə.neɪ.ə.ti",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "spontaneity"
@@ -1612,7 +1612,7 @@
       ],
       "frequency" : 10731,
       "mnemonic" : "cell phone=cellular phone",
-      "phonetic" : "ˈsɛlfəʊn",
+      "phonetic" : "ˈsɛlfoʊn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "cellphone"
@@ -1695,7 +1695,7 @@
       ],
       "frequency" : 8448,
       "mnemonic" : "hall（鉴定纯度的金匠大厦）+ mark（金银纯度印记）→给……打印",
-      "phonetic" : "ˈhɔːlmɑːk",
+      "phonetic" : "ˈhɔlmɑɹk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hallmark"
@@ -1729,7 +1729,7 @@
       ],
       "frequency" : 13390,
       "mnemonic" : "hol-（隐藏；保护）+ -ster（名词后缀）→用于隐藏、保护手枪的皮\n套→手枪皮套",
-      "phonetic" : "ˈhəʊlstə(r)",
+      "phonetic" : "ˈhoʊlstər",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "holster"
@@ -1853,7 +1853,7 @@
       ],
       "frequency" : 19353,
       "mnemonic" : "apo-（=off：去掉）+ calyp-（=cover：隐藏；掩盖）+ -se（名词后\n缀）→去掉、揭示隐藏的东西→revelation：启示；揭示→世界末世",
-      "phonetic" : "əˈpɒkəlɪps",
+      "phonetic" : "əˈpɑkəlɪps",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "apocalypse"
@@ -1874,7 +1874,7 @@
       ],
       "frequency" : 13271,
       "mnemonic" : "apocalyp（= apocalypse：世界末世；大动乱，大灾变）+ -tic（形容词\n后缀，与……相关的）→预示（未来）大灾变的；像世界末世的；末",
-      "phonetic" : "əˈpɒ.kə.lɪp.tɪk",
+      "phonetic" : "əˈpɑ.kə.lɪp.tɪk",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "apocalyptic"
@@ -1925,7 +1925,7 @@
       ],
       "frequency" : 4976,
       "mnemonic" : "ware（物品；货物）+ house（房子）→储存货物的房子→仓库；",
-      "phonetic" : "ˈweəhaʊs",
+      "phonetic" : "ˈwɛrhaʊs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "warehouse"
@@ -1986,7 +1986,7 @@
       ],
       "frequency" : 19037,
       "mnemonic" : "coffee（咖啡）+ house（房屋）→咖啡屋；咖啡馆",
-      "phonetic" : "ˈkɒfɪhaʊs",
+      "phonetic" : "ˈkɑfɪhaʊs",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "coffeehouse"
@@ -2061,7 +2061,7 @@
       ],
       "frequency" : 16414,
       "mnemonic" : "house（家庭）+ work（工作；劳动）→家庭里的劳动→家务劳动",
-      "phonetic" : "ˈhaʊswɜːk",
+      "phonetic" : "ˈhaʊswɝk",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "housework"
@@ -2107,7 +2107,7 @@
       ],
       "frequency" : 12792,
       "mnemonic" : "sky（天空）+rocket（火箭）→像火箭飞向天空一样的速度增长→剧",
-      "phonetic" : "ˈskaɪˌɹɒk.ɪt",
+      "phonetic" : "ˈskaɪˌɹɑk.ɪt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "skyrocket"
@@ -2235,7 +2235,7 @@
         "Firemen hosed the burning car.\n消防队员用水龙带向燃烧的汽车喷水。"
       ],
       "frequency" : 6316,
-      "phonetic" : "həʊz",
+      "phonetic" : "hoʊz",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "hose"
@@ -2300,7 +2300,7 @@
       ],
       "frequency" : 18671,
       "mnemonic" : "custody（拘留；监护权；看护，变y为i）+ -al（形容词后缀）→监禁",
-      "phonetic" : "kʌˈstəʊdiəl",
+      "phonetic" : "kʌˈstoʊdiəl",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "custodial"
@@ -2392,7 +2392,7 @@
 
       ],
       "frequency" : 2717,
-      "phonetic" : "ˈbɹəʊkən",
+      "phonetic" : "ˈbɹoʊkən",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "broken"
@@ -2620,7 +2620,7 @@
       ],
       "frequency" : 9805,
       "mnemonic" : "out（向外）+ burst（使爆裂，胀开；爆满；突然出现）→向外爆\n裂，胀开→爆发；高涨；激化",
-      "phonetic" : "ˈaʊtˌbɜːst",
+      "phonetic" : "ˈaʊtˌbɝst",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "outburst"
@@ -2733,7 +2733,7 @@
       ],
       "frequency" : 16050,
       "mnemonic" : "violate（违反；违背）+ -or（人）→违反者；违背者",
-      "phonetic" : "ˈvaɪəleɪtə(r)",
+      "phonetic" : "ˈvaɪəleɪtər",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "violator"
@@ -3423,7 +3423,7 @@
       ],
       "frequency" : 2948,
       "mnemonic" : "mere（=pure：纯的，清白的，仅仅）→仅仅的；单单的；只不过的",
-      "phonetic" : "mɪə",
+      "phonetic" : "mɪr",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "mere"
@@ -3747,7 +3747,7 @@
 
       ],
       "frequency" : 13565,
-      "phonetic" : "ˈbɜː(ɹ)nd",
+      "phonetic" : "ˈbɝnd",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "burned"
@@ -3778,7 +3778,7 @@
 
       ],
       "frequency" : 8386,
-      "phonetic" : "ˈbɜːnə",
+      "phonetic" : "ˈbɝnɚ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "burner"
@@ -3808,7 +3808,7 @@
       ],
       "frequency" : 12555,
       "mnemonic" : "burn（燃烧）+ out（完全）→精力完全烧尽了→精疲力竭",
-      "phonetic" : "ˈbɜːnaʊt",
+      "phonetic" : "ˈbɝnaʊt",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "burnout"
@@ -3823,7 +3823,7 @@
       ],
       "frequency" : 17522,
       "mnemonic" : "sun（太阳）+ burn（晒伤）→因在太阳下暴晒而晒伤→晒伤；晒斑",
-      "phonetic" : "ˈsʌnbɜːn",
+      "phonetic" : "ˈsʌnbɝn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "sunburn"
@@ -4165,7 +4165,7 @@
       ],
       "frequency" : 16149,
       "mnemonic" : "em-（使）+ -broil（烤；焙）→原指各种原料炖成一锅→引申义为卷",
-      "phonetic" : "ɪmˈbrɒɪl",
+      "phonetic" : "ɪmˈbɹɔɪl",
       "pos" : "vt.",
       "rootHint" : "dit",
       "word" : "embroil"
@@ -4181,7 +4181,7 @@
       ],
       "frequency" : 14648,
       "mnemonic" : "ferv-（=to boil, glow：煮沸；发热）+ -ent（形容词后缀）→沸腾的，\n灼热的→比喻感情、愿望等热情的，热诚的，热烈的",
-      "phonetic" : "ˈfɜː.vənt",
+      "phonetic" : "ˈfɝ.vənt",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "fervent"
@@ -4960,7 +4960,7 @@
 
       ],
       "frequency" : 14202,
-      "phonetic" : "ˈsləʊpɪŋ",
+      "phonetic" : "ˈsloʊpɪŋ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "sloping"
@@ -5102,7 +5102,7 @@
       ],
       "frequency" : 9409,
       "mnemonic" : "lime（石灰）+ stone（岩石）→石灰岩",
-      "phonetic" : "ˈlaɪmstəʊn",
+      "phonetic" : "ˈlaɪmstoʊn",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "limestone"
@@ -5363,7 +5363,7 @@
       ],
       "frequency" : 9687,
       "mnemonic" : "slop（泥浆，双写p） + -y（形容词后缀）→引申比喻义马虎的，草率的",
-      "phonetic" : "ˈslɒpɪ",
+      "phonetic" : "ˈslɑpɪ",
       "pos" : "adj.",
       "rootHint" : "dit",
       "word" : "sloppy"
@@ -5380,7 +5380,7 @@
         "The water was sloshing around under our feet.\n水在我们脚下哗啦哗啦地流动。"
       ],
       "frequency" : 16444,
-      "phonetic" : "slɒʃ",
+      "phonetic" : "slɑʃ",
       "pos" : "vi.",
       "rootHint" : "dit",
       "word" : "slosh"
@@ -5595,7 +5595,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "pɹɒm",
+      "phonetic" : "pɹɑm",
       "pos" : "abbr.",
       "rootHint" : "dit",
       "word" : "PROM"
@@ -5625,7 +5625,7 @@
       ],
       "frequency" : 5192,
       "mnemonic" : "缩写自memorandum。-memor-：记忆 → memo：备忘录；简报",
-      "phonetic" : "ˈmɛməʊ̯",
+      "phonetic" : "ˈmɛmoʊ̯",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memo"
@@ -5656,7 +5656,7 @@
 
       ],
       "frequency" : 5644,
-      "phonetic" : "ˈmɛmˌwɑː",
+      "phonetic" : "ˈmɛmˌwɑɹ",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "memoir"
@@ -5798,7 +5798,7 @@
       ],
       "frequency" : 6877,
       "mnemonic" : "mourn：为（失去……而）哀悼，悲伤；悼念",
-      "phonetic" : "mɔːn",
+      "phonetic" : "mɔn",
       "pos" : "v.",
       "rootHint" : "dit",
       "word" : "mourn"
@@ -5829,7 +5829,7 @@
       ],
       "frequency" : 13090,
       "mnemonic" : "mourn（哀悼；悼念）+ -er（名词后缀）→哀悼者",
-      "phonetic" : "ˈmɔːnə(r)",
+      "phonetic" : "ˈmɔnər",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "mourner"
@@ -5959,7 +5959,7 @@
       ],
       "frequency" : 12927,
       "mnemonic" : "wild（野的）+ fire（火）→野火",
-      "phonetic" : "ˈwaɪldfaɪə(r)",
+      "phonetic" : "ˈwaɪldfaɪr",
       "pos" : "n.",
       "rootHint" : "dit",
       "word" : "wildfire"

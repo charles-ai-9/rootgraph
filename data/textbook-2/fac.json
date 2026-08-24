@@ -731,7 +731,7 @@
       ],
       "frequency" : 18120,
       "mnemonic" : "in (表否定)+effect(效果；作用)+ual(……的)→没有效果的→无效的",
-      "phonetic" : "ɪnɪˈfektʃʊəl;-tjʊəl",
+      "phonetic" : "ɪnɪˈfektʃʊrl;-tʃʊrl",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "ineffectual"
@@ -821,7 +821,7 @@
       ],
       "frequency" : 10294,
       "mnemonic" : "im (不)+perfect (完美的)→不完美地→有缺点的",
-      "phonetic" : "ɪmˈpɜːfɪkt",
+      "phonetic" : "ɪmˈpɝfɪkt",
       "pos" : "adj.",
       "rootHint" : "fect",
       "word" : "imperfect"
@@ -881,7 +881,7 @@
       ],
       "frequency" : 6054,
       "mnemonic" : "co (一起；共同)+efficient(有效率的)→共同有效率的因素→协同因",
-      "phonetic" : "ˌkəʊ.iˈfɪʃn̩t",
+      "phonetic" : "ˌkoʊ.iˈfɪʃn̩t",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "coefficient"
@@ -1016,7 +1016,7 @@
       ],
       "frequency" : 4043,
       "mnemonic" : "arti(人工)+fic(做、制造)+ial(……的)→人工造出来的→人造的、非天",
-      "phonetic" : "ɑː(ɹ)təˈfɪʃəl",
+      "phonetic" : "ɑ(ɹ)təˈfɪʃəl",
       "pos" : "adj.",
       "rootHint" : "fic",
       "word" : "artificial"
@@ -1046,7 +1046,7 @@
       ],
       "frequency" : 4608,
       "mnemonic" : "arti(人工)+fact(制作)→人工制作的产品→人工制品",
-      "phonetic" : "ˈɑːtɪfækt",
+      "phonetic" : "ˈɑɹtɪfækt",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "artifact"
@@ -1060,7 +1060,7 @@
 
       ],
       "mnemonic" : "arti(技巧)+fic(做)+e→使用技巧做→巧妙的办法",
-      "phonetic" : "ˈɑː(ɹ)tɪfɪs",
+      "phonetic" : "ˈɑ(ɹ)tɪfɪs",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "artifice"
@@ -1395,7 +1395,7 @@
       ],
       "frequency" : 19663,
       "mnemonic" : "un (不)+profitable (有利可图的)→没有利润的；无益的",
-      "phonetic" : "ʌnˈprɒfɪtəb(ə)l",
+      "phonetic" : "ʌnˈprɑfɪtəb(ə)l",
       "pos" : "adj.",
       "rootHint" : "fac",
       "word" : "unprofitable"
@@ -1514,7 +1514,7 @@
 
       ],
       "frequency" : 2510,
-      "phonetic" : "ˌsi:i:ˈəʊ",
+      "phonetic" : "ˌsi:i:ˈoʊ",
       "pos" : "abbr.",
       "rootHint" : "fac",
       "word" : "CEO"
@@ -1874,7 +1874,7 @@
 
       ],
       "frequency" : 1479,
-      "phonetic" : "əfɪsjəˈnɑːdəʊ",
+      "phonetic" : "əfɪsjəˈnɑdoʊ",
       "pos" : "n.",
       "rootHint" : "fic",
       "word" : "aficionado"

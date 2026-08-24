@@ -21,7 +21,7 @@
       ],
       "frequency" : 810,
       "mnemonic" : "mess（=-miss-，i→e：送；派）+ -age（名词后缀）→被送出或派出\n的东西→发短信；留言；信息",
-      "phonetic" : "ˈmesɪdʒ",
+      "phonetic" : "ˈmɛsɪd͡ʒ",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "message"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 6639,
       "mnemonic" : "messeng（=message：发短信；留言）+ -er（表示人）→送信人；信使",
-      "phonetic" : "ˈmesɪn(d)ʒə",
+      "phonetic" : "ˈmɛs.n̩.d͡ʒɚ",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "messenger"
@@ -81,7 +81,7 @@
         "I’ve made such a mess of my life.\n我把自己的生活弄得一团糟。"
       ],
       "frequency" : 3410,
-      "phonetic" : "mes",
+      "phonetic" : "mɛs",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "mess"
@@ -96,7 +96,7 @@
 
       ],
       "frequency" : 6753,
-      "phonetic" : "ˈmesɪ",
+      "phonetic" : "ˈmɛsi",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "messy"
@@ -118,7 +118,7 @@
       ],
       "frequency" : 1099,
       "mnemonic" : "miss-（派）+ -ion（名词后缀）→派（送）出去→使命；任务",
-      "phonetic" : "ˈmɪʃ(ə)n",
+      "phonetic" : "ˈmɪʃn̩",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "mission"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 4972,
       "mnemonic" : "mission（使命）+ -ary（名词后缀，表示人）→即有使命的人，用于",
-      "phonetic" : "ˈmɪʃ(ə)n(ə)rɪ",
+      "phonetic" : "ˈmɪʃəˌnɛɹɪ",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "missionary"
@@ -166,7 +166,7 @@
       ],
       "frequency" : 12604,
       "mnemonic" : "inter-（在内，在中间）+ -mitt（送走；离开）+ -ent（形容词后缀）\n→引申词义在中间空出来的→间歇的；断断续续的",
-      "phonetic" : "ˌɪntəˈmɪt(ə)nt",
+      "phonetic" : "ˌɪntəˈmɪtn̩t",
       "pos" : "adj.",
       "rootHint" : "mit",
       "word" : "intermittent"
@@ -180,7 +180,7 @@
         "The talks went on intermittently for three years.\n会谈断断续续地进行了3年。"
       ],
       "frequency" : 16266,
-      "phonetic" : "ˌɪntəˈmɪtəntlɪ",
+      "phonetic" : "ɪn.təˈmɪt.ənt.lɪ",
       "pos" : "adv.",
       "rootHint" : "mit",
       "word" : "intermittently"
@@ -195,7 +195,7 @@
       ],
       "frequency" : 19593,
       "mnemonic" : "inter-（中间；中场）+ -miss-（送；派）+ -ion（名词后缀）→在中场\n的时候出来→幕间休息；中间休息；间歇",
-      "phonetic" : "ɪntəˈmɪʃ(ə)n",
+      "phonetic" : "ɪntɚˈmɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "intermission"
@@ -275,7 +275,7 @@
       ],
       "frequency" : 2400,
       "mnemonic" : "commis（=commit：委托）+ -ion（名词后缀）→委员会；佣金",
-      "phonetic" : "kəˈmɪʃ(ə)n",
+      "phonetic" : "kəˈmɪʃən",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "commission"
@@ -291,7 +291,7 @@
       ],
       "frequency" : 4366,
       "mnemonic" : "commission（委员会）+ -er（名词后缀，表示人）→委员会的委员；",
-      "phonetic" : "kəˈmɪʃ(ə)nə",
+      "phonetic" : "kəˈmɪʃənə",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commissioner"
@@ -307,7 +307,7 @@
       ],
       "frequency" : 5624,
       "mnemonic" : "ob-（强调语气）+ -mit（=let go, send：送；派）→放走……→忽略；",
-      "phonetic" : "ə(ʊ)ˈmɪt",
+      "phonetic" : "oʊˈmɪt",
       "pos" : "vt.",
       "rootHint" : "mit",
       "word" : "omit"
@@ -321,7 +321,7 @@
         "The play was shortened by the omission of two scenes.\n此剧删减了两场戏。"
       ],
       "frequency" : 10774,
-      "phonetic" : "ə(ʊ)ˈmɪʃ(ə)n",
+      "phonetic" : "oʊˈmɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "omission"
@@ -336,7 +336,7 @@
       ],
       "frequency" : 15601,
       "mnemonic" : "re-（=back：往回）+ miss-（送出）+ -ion（名词后缀）→往回送出，\n表示减少、缓解→slacken, allow to be unpaid：缓解；减刑；免除（费",
-      "phonetic" : "rɪˈmɪʃ(ə)n",
+      "phonetic" : "ɹɪˈmɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "remission"
@@ -368,7 +368,7 @@
       ],
       "frequency" : 4605,
       "mnemonic" : "pre-（前面）+ mis-（=matter：问题）+ e→提前就提出的问题→前\n都是有关“房子、经营场所”等归属问题）→引出，预先提出；作",
-      "phonetic" : "ˈpremɪs",
+      "phonetic" : "ˈpɹɛ.mɪs",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "premise"
@@ -404,7 +404,7 @@
 
       ],
       "frequency" : 9124,
-      "phonetic" : "dɪsˈmɪsl",
+      "phonetic" : "[dɪsˈmɪsəɫ]",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "dismissal"
@@ -418,7 +418,7 @@
 
       ],
       "frequency" : 15502,
-      "phonetic" : "dɪsˈmɪsɪv",
+      "phonetic" : "dɪsˈmɪs.ɪv",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "dismissive"
@@ -450,7 +450,7 @@
       ],
       "frequency" : 6361,
       "mnemonic" : "e-（=ex-=out：向外）+ -mit（=to send：发送）→send forth：向外发\n出，散发→发出；散发",
-      "phonetic" : "ɪˈmɪt",
+      "phonetic" : "iˈmɪt",
       "pos" : "vt.",
       "rootHint" : "mit",
       "word" : "emit"
@@ -467,7 +467,7 @@
       ],
       "frequency" : 2937,
       "mnemonic" : "e-（向外）+ -miss-（发出）+ -ion（名词后缀）→向外发出→（光、",
-      "phonetic" : "ɪˈmɪʃ(ə)n",
+      "phonetic" : "ɪˈmɪʃn̩",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "emission"
@@ -482,7 +482,7 @@
       ],
       "frequency" : 17158,
       "mnemonic" : "e-（=out：出去）+ -miss-（送；派）+ -ary（名词后缀，表示人）→\n向外派出的人→使者；特使；密使",
-      "phonetic" : "ˈemɪs(ə)rɪ",
+      "phonetic" : "ˈɛmɪˌsɛɹi",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "emissary"
@@ -531,7 +531,7 @@
       ],
       "frequency" : 8273,
       "mnemonic" : "submiss（=submit：屈从；顺从）+ -ion（名词后缀）→屈服；提交文",
-      "phonetic" : "səbˈmɪʃ(ə)n",
+      "phonetic" : "səbˈmɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "submission"
@@ -552,7 +552,7 @@
       ],
       "frequency" : 4893,
       "mnemonic" : "trans-（=across：由此到彼→穿过）+ -mit（送）→传送、传播过去→",
-      "phonetic" : "trænzˈmɪt",
+      "phonetic" : "tɹænsˈmɪt",
       "pos" : "vt.",
       "rootHint" : "mit",
       "word" : "transmit"
@@ -569,7 +569,7 @@
       ],
       "frequency" : 3701,
       "mnemonic" : "transmiss（=transmit：传播；播送）+ -ion（名词后缀）→传送；传",
-      "phonetic" : "trænzˈmɪʃ(ə)n",
+      "phonetic" : "tɹænsˈmɪʃən",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "transmission"
@@ -602,7 +602,7 @@
 
       ],
       "frequency" : 12839,
-      "phonetic" : "trænzˈmɪtɪd",
+      "phonetic" : "tɹænsˈmɪtɪd",
       "pos" : "adj.",
       "rootHint" : "mit",
       "word" : "transmitted"
@@ -618,7 +618,7 @@
       ],
       "frequency" : 18566,
       "mnemonic" : "neuro-（神经）+ transmitter（传递者）→神经传递质",
-      "phonetic" : "ˌnjʊərəʊtrænzˈmɪtə",
+      "phonetic" : "ˌnjʊroʊtrænzˈmɪtə",
       "pos" : "n.",
       "rootHint" : "mit",
       "word" : "neurotransmitter"
@@ -633,7 +633,7 @@
       ],
       "frequency" : 13942,
       "mnemonic" : "sur-（=upon：在……上）+ -mis-（=发送）+ e→基于……之上猜测→",
-      "phonetic" : "səˈmaɪz",
+      "phonetic" : "sɚˈmaɪz",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "surmise"
@@ -651,7 +651,7 @@
       ],
       "frequency" : 1444,
       "mnemonic" : "pro-（向前）+ mis-（=-mit-=-miss：送出；派）+ -e→向前送出→承",
-      "phonetic" : "ˈprɒmɪs",
+      "phonetic" : "ˈpɹɑmɪs",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "promise"
@@ -667,7 +667,7 @@
       ],
       "frequency" : 10247,
       "mnemonic" : "promise（承诺给予）+ -ed（形容词后缀）→承诺给予的",
-      "phonetic" : "ˈprɒmɪst",
+      "phonetic" : "ˈpɹɑ.mɪst",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "promised"
@@ -684,7 +684,7 @@
       ],
       "frequency" : 3881,
       "mnemonic" : "promise（保证；希望）+ -ing（形容词后缀）→有保证的；有希望的\n→大有希望的；很有前途的",
-      "phonetic" : "ˈprɒmɪsɪŋ",
+      "phonetic" : "ˈpɹɑmɪsɪŋ",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "promising"
@@ -708,7 +708,7 @@
       ],
       "frequency" : 3787,
       "mnemonic" : "com-（共同）+ promise（保证）→相互保证，担保→妥协；折中→",
-      "phonetic" : "ˈkɒmprəmaɪz",
+      "phonetic" : "ˈkɑmpɹəˌmaɪz",
       "pos" : "vt.",
       "rootHint" : "mis",
       "word" : "compromise"
@@ -722,7 +722,7 @@
 
       ],
       "frequency" : 19217,
-      "phonetic" : "ˈkɒmprəˌmaɪzd",
+      "phonetic" : "ˈkɑmprəˌmaɪzd",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "compromised"

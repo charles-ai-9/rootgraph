@@ -41,7 +41,7 @@
       ],
       "frequency" : 4398,
       "mnemonic" : "suppli（=supply：供应；补给）+ -er（名词后缀，表示人）→供应",
-      "phonetic" : "səˈplaɪə",
+      "phonetic" : "səˈplaɪr",
       "pos" : "n.",
       "rootHint" : "ply",
       "word" : "supplier"
@@ -120,7 +120,7 @@
       ],
       "frequency" : 6859,
       "mnemonic" : "com-（强调前缀）+ -ple-（=to fill：充满）+ -ment（名词后缀）→补\n充填满（之物）→衬托；补充；使完美；补充物",
-      "phonetic" : "ˈkɒmpləmənt",
+      "phonetic" : "ˈkɑmpləmənt",
       "pos" : "vt.",
       "rootHint" : "ple",
       "word" : "complement"
@@ -134,7 +134,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "ˌkɒmplɪ̈ˈmɛnt(ə)ɹi",
+      "phonetic" : "ˌkɑmplɪ̈ˈmɛnt(ə)ɹi",
       "pos" : "adj.",
       "rootHint" : "ple",
       "word" : "complementary"

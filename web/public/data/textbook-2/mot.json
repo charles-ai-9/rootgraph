@@ -31,7 +31,7 @@
       ],
       "frequency": 1335,
       "mnemonic": "pro(向前)+mot(动)+e→使之向前动→促进、提升、促销",
-      "phonetic": "prəˈməʊt",
+      "phonetic": "pɹəˈmoʊt",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "promote"
@@ -41,7 +41,7 @@
       "definition": "发起人；促进者；助长者",
       "examples": [],
       "frequency": 8582,
-      "phonetic": "prəˈməʊtə",
+      "phonetic": "prəˈmoʊtə",
       "pos": "n.",
       "rootHint": "mot",
       "word": "promoter"
@@ -51,7 +51,7 @@
       "definition": "促进；提升，晋升；推销，促销；发扬，振兴",
       "examples": [],
       "frequency": 3823,
-      "phonetic": "prəˈməʊʃn",
+      "phonetic": "pɹəˈmoʊʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "promotion"
@@ -61,7 +61,7 @@
       "definition": "增进的；奖励的；促销的",
       "examples": [],
       "frequency": 9782,
-      "phonetic": "prəˈməʊʃənl",
+      "phonetic": "pɹəˈmoʊʃənəl",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "promotional"
@@ -72,7 +72,7 @@
       "examples": [],
       "frequency": 2135,
       "mnemonic": "e(=ex：向外)+mot(=move：感动、动)→动情→情绪、情感",
-      "phonetic": "ɪˈməʊʃ(ə)n",
+      "phonetic": "iˈmoʊʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "emotion"
@@ -82,7 +82,7 @@
       "definition": "情绪的；易激动的；感动人的",
       "examples": [],
       "frequency": 1625,
-      "phonetic": "ɪˈməʊʃ(ə)n(ə)l",
+      "phonetic": "iˈmoʊʃənəl",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "emotional"
@@ -92,7 +92,7 @@
       "definition": "感情上；情绪上；令人激动地；情绪冲动地",
       "examples": [],
       "frequency": 4704,
-      "phonetic": "ɪˈməʊʃənəli",
+      "phonetic": "iˈmoʊʃənəli",
       "pos": "adv.",
       "rootHint": "mot",
       "word": "emotionally"
@@ -103,7 +103,7 @@
       "examples": [],
       "frequency": 879,
       "mnemonic": "re(又、再)+move(移动)→再移动→移动、移除",
-      "phonetic": "rɪˈmuːv",
+      "phonetic": "ɹɪˈmuːv",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "remove"
@@ -123,7 +123,7 @@
       "definition": "移动；免职；排除；搬迁",
       "examples": [],
       "frequency": 4763,
-      "phonetic": "rɪˈmuːv(ə)l",
+      "phonetic": "ɹəˈmuːvəl",
       "pos": "n.",
       "rootHint": "mot",
       "word": "removal"
@@ -135,7 +135,7 @@
       "definition": "可以动的",
       "examples": [],
       "mnemonic": "mob(=move：动)+ile(=ible：可以、能)→可以动的→移动的、移动",
-      "phonetic": "ˈməubail",
+      "phonetic": "ˈmoʊbaɪl",
       "pos": "a.",
       "rootHint": "mob",
       "word": "mobile"
@@ -155,7 +155,7 @@
       "definition": "固定的；不变的；稳定的",
       "examples": [],
       "frequency": 17253,
-      "phonetic": "ɪˈməʊbaɪl",
+      "phonetic": "ɪˈmoʊbaɪl",
       "pos": "adj.",
       "rootHint": "mob",
       "word": "immobile"
@@ -165,7 +165,7 @@
       "definition": "使不动；使固定；使停止流通",
       "examples": [],
       "frequency": 17376,
-      "phonetic": "ɪˈməʊbɪlaɪz",
+      "phonetic": "ɪˈmoʊbɪlaɪz",
       "pos": "vt.",
       "rootHint": "mob",
       "word": "immobilize"
@@ -175,7 +175,7 @@
       "definition": "汽车",
       "examples": [],
       "frequency": 4042,
-      "phonetic": "ˈɔːtəməbiːl",
+      "phonetic": "ˈɔ.tə.moʊˌbil",
       "pos": "n.",
       "rootHint": "mob",
       "word": "automobile"
@@ -185,7 +185,7 @@
       "definition": "雪上汽车；机动雪橇",
       "examples": [],
       "frequency": 14152,
-      "phonetic": "ˈsnəʊməbiːl",
+      "phonetic": "ˈsnoʊməbiːl",
       "pos": "n.",
       "rootHint": "mob",
       "word": "snowmobile"
@@ -198,7 +198,7 @@
       "examples": [],
       "frequency": 1836,
       "mnemonic": "mot(动)+ion(名词后缀)→移动、运动",
-      "phonetic": "ˈməʊʃ(ə)n",
+      "phonetic": "ˈmoʊʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motion"
@@ -208,7 +208,7 @@
       "definition": "静止的；不运动的",
       "examples": [],
       "frequency": 9709,
-      "phonetic": "ˈməʊʃnləs",
+      "phonetic": "ˈmoʊʃənlɛs",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "motionless"
@@ -230,7 +230,7 @@
       ],
       "frequency": 3570,
       "mnemonic": "mot(动)+ivate(复合动词后缀：使)→使……动起来、使有动力→激\nSpark English：星火英语→火花；触发、激发",
-      "phonetic": "ˈməʊtɪveɪt",
+      "phonetic": "ˈmoʊtɪveɪt",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "motivate"
@@ -250,7 +250,7 @@
       "definition": "动机；推动；积极性",
       "examples": [],
       "frequency": 3151,
-      "phonetic": "məʊtɪˈveɪʃ(ə)n",
+      "phonetic": "moʊtɪˈveɪʃ(ə)n",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motivation"
@@ -260,7 +260,7 @@
       "definition": "动机的；激发性的；有关动机的；[法]动机说明",
       "examples": [],
       "frequency": 9417,
-      "phonetic": "ˌməʊtɪˈveɪʃənəl",
+      "phonetic": "ˌmoʊtɪˈveɪʃənəl",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "motivational"
@@ -270,7 +270,7 @@
       "definition": "激起行为(或行动)的人(或事物)；激发因素",
       "examples": [],
       "frequency": 15821,
-      "phonetic": "ˈməʊtɪveɪtə",
+      "phonetic": "ˈmoʊtɪveɪtə",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motivator"
@@ -286,7 +286,7 @@
         "Yet it can be said that three large forces—religious persecution, political"
       ],
       "frequency": 3615,
-      "phonetic": "ˈməʊtɪv",
+      "phonetic": "ˈmoʊtɪv",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motive"
@@ -299,7 +299,7 @@
       "examples": [],
       "frequency": 3162,
       "mnemonic": "mot(动)+or(名词后缀)→发动机；汽车",
-      "phonetic": "ˈməʊtə",
+      "phonetic": "ˈmoʊtɚ",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motor"
@@ -309,7 +309,7 @@
       "definition": "汽车旅馆",
       "examples": [],
       "frequency": 5321,
-      "phonetic": "məʊˈtel",
+      "phonetic": "moʊˈtɛl",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motel"
@@ -322,7 +322,7 @@
       "etymology": "“procession of motorcars,” 1909, from motor-+suffix from cavalcade(骑马 队伍). (载有重要人物的)车队，汽车行列 A motorcade is a line of slow-moving",
       "examples": [],
       "frequency": 17263,
-      "phonetic": "ˈməʊtəkeɪd",
+      "phonetic": "ˈmoʊtə(ɹ)ˌkeɪd",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motorcade"
@@ -332,7 +332,7 @@
       "definition": "摩托车；机动车",
       "examples": [],
       "frequency": 6146,
-      "phonetic": "ˈməʊtəsaɪk(ə)l",
+      "phonetic": "ˈmoʊtɚˌsaɪkəl",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motorcycle"
@@ -342,7 +342,7 @@
       "definition": "驾车旅行的人，开汽车的人",
       "examples": [],
       "frequency": 9639,
-      "phonetic": "ˈməʊt(ə)rɪst",
+      "phonetic": "ˈmoʊt(ə)rɪst",
       "pos": "n.",
       "rootHint": "mot",
       "word": "motorist"
@@ -364,7 +364,7 @@
       "definition": "势头、动量、动力",
       "examples": [],
       "mnemonic": "mom(=move：动)+entum(=ent+um：复合名词后缀)→动力、动量、",
-      "phonetic": "məuˈmentəm",
+      "phonetic": "ˌmoʊˈmɛntəm",
       "pos": "n.",
       "rootHint": "mot",
       "word": "momentum"
@@ -377,7 +377,7 @@
       "examples": [],
       "frequency": 2802,
       "mnemonic": "re(又、再)+mot(移动)+e→再往(远处)移动→遥远的、疏远的",
-      "phonetic": "rɪˈməʊt",
+      "phonetic": "[ɹɪˈmoʊt]",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "remote"
@@ -387,7 +387,7 @@
       "definition": "遥远地；偏僻地",
       "examples": [],
       "frequency": 9849,
-      "phonetic": "rɪˈməʊtlɪ",
+      "phonetic": "ɹɪˈmoʊtli",
       "pos": "adv.",
       "rootHint": "mot",
       "word": "remotely"
@@ -400,7 +400,7 @@
       "examples": [],
       "frequency": 2821,
       "mnemonic": "mut(=move：移动、变换位置、改变)+u(连接符号)+al(形容词后缀：\n的)→相互变换位置的→相互的、共同的",
-      "phonetic": "ˈmjuːtʃʊəl;-tjʊəl",
+      "phonetic": "ˈmjuːt͡ʃuəl",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "mutual"
@@ -410,7 +410,7 @@
       "definition": "互相地；互助",
       "examples": [],
       "frequency": 8151,
-      "phonetic": "ˈmjuːtʃuəli",
+      "phonetic": "-lɪ",
       "pos": "adv.",
       "rootHint": "mot",
       "word": "mutually"
@@ -444,7 +444,7 @@
       "examples": [],
       "frequency": 6607,
       "mnemonic": "mig(=move：移动)+ate(使动词)→使……移动→迁移、迁徙",
-      "phonetic": "maɪˈgreɪt;ˈmaɪgreɪt",
+      "phonetic": "maɪ.ˈɡɹeɪt",
       "pos": "vi.",
       "rootHint": "mig",
       "word": "migrate"
@@ -456,7 +456,7 @@
       "definition": "移动；迁移；移民",
       "examples": [],
       "frequency": 4558,
-      "phonetic": "maɪˈgreɪʃ(ə)n",
+      "phonetic": "maɪˈɡɹeɪʃ(ə)n",
       "pos": "n.",
       "rootHint": "mig",
       "word": "migration"
@@ -466,7 +466,7 @@
       "definition": "移居者；候鸟；随季节迁移的民工",
       "examples": [],
       "frequency": 5250,
-      "phonetic": "ˈmaɪgr(ə)nt",
+      "phonetic": "ˈmaɪɡɹənt",
       "pos": "n.",
       "rootHint": "mig",
       "word": "migrant"
@@ -476,7 +476,7 @@
       "definition": "迁移的；流浪的",
       "examples": [],
       "frequency": 12510,
-      "phonetic": "ˈmaɪgrət(ə)rɪ;maˈgret(ə)r",
+      "phonetic": "ˈmaɪ.ɡɹəˌtɔ.ɹi",
       "pos": "adj.",
       "rootHint": "mig",
       "word": "migratory"
@@ -487,7 +487,7 @@
       ],
       "definition": "n. 移入、移民 / n. 外来移民；移居",
       "examples": [],
-      "phonetic": ",imiˈgreiʃən / ɪmɪˈɡreɪʃn",
+      "phonetic": "ɪmɪˈɡɹeɪʃn",
       "pos": "n.",
       "rootHint": "mig",
       "word": "immigration",
@@ -500,7 +500,7 @@
       "definition": "移民的；迁入的 n. 移民、侨民(外国进来的)",
       "examples": [],
       "frequency": 2085,
-      "phonetic": "ˈɪmɪgr(ə)nt",
+      "phonetic": "ˈɪmɪɡɹənt",
       "pos": "adj.",
       "rootHint": "mig",
       "word": "immigrant"
@@ -510,7 +510,7 @@
       "definition": "移入",
       "examples": [],
       "frequency": 14297,
-      "phonetic": "ˈɪmɪgreɪt",
+      "phonetic": "ˈɪmɪɡɹeɪt",
       "pos": "vi.",
       "rootHint": "mig",
       "word": "immigrate"
@@ -521,7 +521,7 @@
       "examples": [],
       "frequency": 10925,
       "mnemonic": "e(=ex：外、出去)+migrate(移动)→移居国外",
-      "phonetic": "ˈemɪgreɪt",
+      "phonetic": "ˈɛmɪɡɹeɪt",
       "pos": "vi.",
       "rootHint": "mig",
       "word": "emigrate"
@@ -531,7 +531,7 @@
       "definition": "移民；侨民",
       "examples": [],
       "frequency": 17582,
-      "phonetic": "ˈemɪgr(ə)nt",
+      "phonetic": "ˈɛmɪɡɹənt",
       "pos": "n.",
       "rootHint": "mig",
       "word": "emigrant"
@@ -541,7 +541,7 @@
       "definition": "移民；移民出境；移居外国",
       "examples": [],
       "frequency": 12790,
-      "phonetic": ",emɪˈgreɪʃn",
+      "phonetic": "ˌemɪˈgreɪʃn",
       "pos": "n.",
       "rootHint": "mig",
       "word": "emigration"
@@ -552,7 +552,7 @@
       "examples": [],
       "frequency": 4084,
       "mnemonic": "auto(自己)+mat(动)+ic(的)→自动的(=automated：自动化的、自动的)",
-      "phonetic": "ɔːtəˈmætɪk",
+      "phonetic": "ˌɔtəˈmætɪk",
       "pos": "adj.",
       "rootHint": "mat",
       "word": "automatic"
@@ -562,7 +562,7 @@
       "definition": "自动地；机械地；无意识地",
       "examples": [],
       "frequency": 3983,
-      "phonetic": "ɔːtəˈmætɪklɪ",
+      "phonetic": "ˈɔtoʊˌmæt.ɪk(.ə)li",
       "pos": "adv.",
       "rootHint": "mat",
       "word": "automatically"
@@ -573,7 +573,7 @@
       "examples": [],
       "frequency": 14015,
       "mnemonic": "auto(自)+motion(动、移动)→自动化",
-      "phonetic": "ɔːtəˈmeɪʃ(ə)n",
+      "phonetic": "ɔtəˈmeɪʃ(ə)n",
       "pos": "n.",
       "rootHint": "mat",
       "word": "automation"
@@ -583,7 +583,7 @@
       "definition": "使自动化，使自动操作",
       "examples": [],
       "frequency": 17918,
-      "phonetic": "ˈɔːtəmeɪt",
+      "phonetic": "ˈɔtoʊˌmeɪt",
       "pos": "vt.",
       "rootHint": "mat",
       "word": "automate"
@@ -593,7 +593,7 @@
       "definition": "自动化的；机械化的",
       "examples": [],
       "frequency": 8249,
-      "phonetic": "ˈɔːtəˌmeɪtɪd",
+      "phonetic": "ˈɔtəˌmeɪtɪd",
       "pos": "adj.",
       "rootHint": "mat",
       "word": "automated"
@@ -603,7 +603,7 @@
       "definition": "汽车的；自动的",
       "examples": [],
       "frequency": 8896,
-      "phonetic": ",ɔːtəˈməʊtɪv",
+      "phonetic": "ˌɔtəˈmoʊtɪv",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "automotive"
@@ -614,7 +614,7 @@
       "examples": [],
       "frequency": 7623,
       "mnemonic": "auto(自己)+nom(=law：法律)+ous(形容词后缀)→自己有自己的法律的\n→自治的、自主的",
-      "phonetic": "ɔːˈtɒnəməs",
+      "phonetic": "ɔˈtɑnəməs",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "autonomous"
@@ -624,7 +624,7 @@
       "definition": "自治，自治权",
       "examples": [],
       "frequency": 4764,
-      "phonetic": "ɔːˈtɒnəmɪ",
+      "phonetic": "ɔˈtɑnəmi",
       "pos": "n.",
       "rootHint": "mot",
       "word": "autonomy"
@@ -634,7 +634,7 @@
       "definition": "自动；[美口]汽车(等于automobile)",
       "examples": [],
       "frequency": 3159,
-      "phonetic": "ˈɔːtəʊ",
+      "phonetic": "ˈɑtoʊ",
       "pos": "n.",
       "rootHint": "mot",
       "word": "auto"
@@ -644,7 +644,7 @@
       "definition": "自传的；自传体的",
       "examples": [],
       "frequency": 11823,
-      "phonetic": "ɔːtəbaɪəˈgræfɪk(ə)l",
+      "phonetic": "ˌɑtoʊˌbaɪəˈɡɹæfəkəl",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "autobiographical"
@@ -654,7 +654,7 @@
       "definition": "自传；自传文学",
       "examples": [],
       "frequency": 7122,
-      "phonetic": "ɔːtəbaɪˈɒgrəfɪ",
+      "phonetic": "ˌɔ.tə.baɪˈɑɡ.ɹə.fi",
       "pos": "n.",
       "rootHint": "mot",
       "word": "autobiography"
@@ -664,7 +664,7 @@
       "definition": "专制的；独裁的，专横的",
       "examples": [],
       "frequency": 16657,
-      "phonetic": "ɔːtəˈkrætɪk",
+      "phonetic": "ɔtəˈkrætɪk",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "autocratic"
@@ -674,7 +674,7 @@
       "definition": "亲笔签名；亲笔，手稿",
       "examples": [],
       "frequency": 9125,
-      "phonetic": "ˈɔːtəgrɑːf",
+      "phonetic": "ˈɔtəgrɑf",
       "pos": "n.",
       "rootHint": "mot",
       "word": "autograph"
@@ -684,7 +684,7 @@
       "definition": "自身免疫的",
       "examples": [],
       "frequency": 17388,
-      "phonetic": ",ɔːtəʊɪˈmjuːn",
+      "phonetic": "ˌɔtoʊɪˈmjuːn",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "autoimmune"
@@ -694,7 +694,7 @@
       "definition": "汽车制造商",
       "examples": [],
       "frequency": 7785,
-      "phonetic": "ˈɔ:təu,meikə",
+      "phonetic": "ˈɔ:təuˌmeikə",
       "pos": "n.",
       "rootHint": "mot",
       "word": "automaker"
@@ -708,7 +708,7 @@
       "etymology": "late 14c., “violent movement or agitation, emotional disturbance,” from “violent motion, agitation,” noun of action from past participle stem of commovere “to move, disturb,” from com “with, together,” perhaps here “thoroughly” (see com-)+movere “to move” (from PIE root *meue- “to push away”). 笔 记 区",
       "examples": [],
       "frequency": 11945,
-      "phonetic": "kəˈməʊʃ(ə)n",
+      "phonetic": "kəˈmoʊ.ʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "commotion"
@@ -723,7 +723,7 @@
       "definition": "使降职；使降级",
       "examples": [],
       "frequency": 19080,
-      "phonetic": "diˈmət",
+      "phonetic": "dɪˈmoʊt",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "demote"
@@ -737,7 +737,7 @@
       "etymology": "1610s, “pertaining to movement,” from French locomotif, from Latin loco “from a place” (ablative of locus “place;” see locus)+Late Latin motivus “moving” (see motive).",
       "examples": [],
       "frequency": 12067,
-      "phonetic": "ləʊkəˈməʊtɪv",
+      "phonetic": "ˌloʊkəˈmoʊtiv",
       "pos": "n.",
       "rootHint": "mot",
       "word": "locomotive"
@@ -754,7 +754,7 @@
       "etymology": "1510s, “one who steers a ship,” from Middle French pillote (16c.), from",
       "examples": [],
       "frequency": 19457,
-      "phonetic": "ˈɔːtəʊ,paɪlət",
+      "phonetic": "ˈɔtoʊˌpaɪlət",
       "pos": "n.",
       "rootHint": "mot",
       "word": "autopilot"
@@ -777,7 +777,7 @@
       "etymology": "late 17c., from Middle English linage “line of descent; an ancestor” (c. 1300), from Old French lignage “descent, extraction, race” (11c.), from 20000 词 汇巅峰 速 记 笔 记 区 ligne “line,” from Latin linea “line of descent,” literally “string, line, thread” (see line (n.)). The word altered in spelling and pronunciation in",
       "examples": [],
       "frequency": 9244,
-      "phonetic": "ˈlɪnɪɪdʒ",
+      "phonetic": "ˈlɪ.ni.ɪdʒ",
       "pos": "n.",
       "rootHint": "mot",
       "word": "lineage"
@@ -787,7 +787,7 @@
       "definition": "线的，(过程或发展)线性的；直线的，线状的",
       "examples": [],
       "frequency": 5881,
-      "phonetic": "ˈlɪnɪə",
+      "phonetic": "ˈlɪn.i.ɚ",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "linear"
@@ -872,7 +872,7 @@
       "definition": "一组人；阵容；电视节目时间表",
       "examples": [],
       "frequency": 5966,
-      "phonetic": "ˈlaɪnʌp",
+      "phonetic": "ˈlaɪn.ʌp",
       "pos": "n.",
       "rootHint": "mot",
       "word": "lineup"
@@ -882,7 +882,7 @@
       "definition": "航空公司；航线",
       "examples": [],
       "frequency": 2147,
-      "phonetic": "ˈeəlaɪn",
+      "phonetic": "ˈɛrlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "airline"
@@ -892,7 +892,7 @@
       "definition": "班机；大型客机",
       "examples": [],
       "frequency": 12244,
-      "phonetic": "ˈeəlaɪnə",
+      "phonetic": "ˈɛrlaɪnə",
       "pos": "n.",
       "rootHint": "mot",
       "word": "airliner"
@@ -912,7 +912,7 @@
       "definition": "海岸线",
       "examples": [],
       "frequency": 10471,
-      "phonetic": "ˈkəʊs(t)laɪn",
+      "phonetic": "ˈkoʊs(t)laɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "coastline"
@@ -952,7 +952,7 @@
       "definition": "极细的线；发际线；细缝",
       "examples": [],
       "frequency": 16306,
-      "phonetic": "ˈheəlaɪn",
+      "phonetic": "ˈhɛɹˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "hairline"
@@ -982,7 +982,7 @@
       "definition": "大标题；内容提要；栏外标题；头版头条新闻",
       "examples": [],
       "frequency": 3320,
-      "phonetic": "ˈhedlaɪn",
+      "phonetic": "ˈhɛd.laɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "headline"
@@ -995,7 +995,7 @@
       "definition": "(演出中的)主要演员，主角；写标题的记者",
       "examples": [],
       "frequency": 20030,
-      "phonetic": "ˈhedlaɪnə",
+      "phonetic": "ˈhɛdˌlaɪnɚ",
       "pos": "n.",
       "rootHint": "mot",
       "word": "headliner"
@@ -1015,7 +1015,7 @@
       "definition": "大型喷气式飞机(尤指客机)",
       "examples": [],
       "frequency": 19859,
-      "phonetic": "ˈdʒetlaɪnə",
+      "phonetic": "ˈdʒetlaɪnər",
       "pos": "n.",
       "rootHint": "mot",
       "word": "jetliner"
@@ -1025,7 +1025,7 @@
       "definition": "生命线；救生索",
       "examples": [],
       "frequency": 14318,
-      "phonetic": "ˈlaɪflaɪn",
+      "phonetic": "ˈlaɪfˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "lifeline"
@@ -1035,7 +1035,7 @@
       "definition": "[电]非线性的",
       "examples": [],
       "frequency": 14277,
-      "phonetic": "nɒnˈlɪnɪə",
+      "phonetic": "nɑnˈlɪnɪr",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "nonlinear"
@@ -1045,7 +1045,7 @@
       "definition": "[计]在线；联机",
       "examples": [],
       "frequency": 2277,
-      "phonetic": "ɒnˈlaɪn",
+      "phonetic": "ɑnˈlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "online"
@@ -1066,7 +1066,7 @@
       "definition": "管道；传递途径；输油管",
       "examples": [],
       "frequency": 5242,
-      "phonetic": "ˈpaɪplaɪn",
+      "phonetic": "ˈpaɪpˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "pipeline"
@@ -1076,7 +1076,7 @@
       "definition": "海岸线；湖滨线；河岸线",
       "examples": [],
       "frequency": 9503,
-      "phonetic": "ˈʃɔːlaɪn",
+      "phonetic": "ˈʃɔlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "shoreline"
@@ -1096,7 +1096,7 @@
       "definition": "地平线；空中轮廓线；架空索",
       "examples": [],
       "frequency": 9737,
-      "phonetic": "ˈskaɪlaɪn",
+      "phonetic": "ˈskaɪˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "skyline"
@@ -1126,7 +1126,7 @@
       "definition": "时间轴；(尤指历史事件)年表",
       "examples": [],
       "frequency": 12645,
-      "phonetic": "ˈtaɪmlaɪn",
+      "phonetic": "ˈtaɪmˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "timeline"
@@ -1146,7 +1146,7 @@
       "definition": "强调；在……下面划线；预告",
       "examples": [],
       "frequency": 9914,
-      "phonetic": "ˌʌndəˈlaɪn",
+      "phonetic": "ˈʌndɚˌlaɪn",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "underline"
@@ -1156,7 +1156,7 @@
       "definition": "静脉注射；主线",
       "examples": [],
       "frequency": 14441,
-      "phonetic": "ˈmeɪn,laɪn",
+      "phonetic": "ˈmeɪnˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "mainline"
@@ -1166,7 +1166,7 @@
       "definition": "领口，领圈",
       "examples": [],
       "frequency": 19410,
-      "phonetic": "ˈneklaɪn",
+      "phonetic": "ˈnɛkˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "neckline"
@@ -1176,7 +1176,7 @@
       "definition": "晾衣绳",
       "examples": [],
       "frequency": 17507,
-      "phonetic": "ˈkloz,laɪn",
+      "phonetic": "ˈkloʊðzlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "clothesline"
@@ -1186,7 +1186,7 @@
       "definition": "截止期限，最后期限",
       "examples": [],
       "frequency": 4072,
-      "phonetic": "ˈdedlaɪn",
+      "phonetic": "ˈdɛdˌlaɪn",
       "pos": "n.",
       "rootHint": "mot",
       "word": "deadline"
@@ -1264,7 +1264,7 @@
       "examples": [],
       "frequency": 3045,
       "mnemonic": "limit(限制)+ation(=ate+ion：复合名词后缀)→限度，限制",
-      "phonetic": "lɪmɪˈteɪʃ(ə)n",
+      "phonetic": "lɪmɪˈteɪʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "limitation"
@@ -1282,7 +1282,7 @@
       ],
       "frequency": 1852,
       "mnemonic": "e(=ex：向外)+lim(=limit：限制，门槛)+inate(使动词)→使……在门槛\n外→排除，消除",
-      "phonetic": "ɪˈlɪmɪneɪt",
+      "phonetic": "ɪˈlɪməneɪt",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "eliminate"
@@ -1292,7 +1292,7 @@
       "definition": "除去；消除；淘汰",
       "examples": [],
       "frequency": 7461,
-      "phonetic": "ɪ,lɪmɪˈneɪʃən",
+      "phonetic": "ɪˌlɪmɪˈneɪʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "elimination"
@@ -1305,7 +1305,7 @@
       "examples": [],
       "frequency": 4453,
       "mnemonic": "pre(前)+lim(=limit：限制；门槛)+inary(=ine+ary：复合形容词后缀)→\n在(准入)门槛前→预备的，初步的；预备工作",
-      "phonetic": "prɪˈlɪmɪn(ə)rɪ",
+      "phonetic": "pɹɪˈlɪmɪnəɹi",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "preliminary"
@@ -1322,7 +1322,7 @@
       "examples": [],
       "frequency": 4016,
       "mnemonic": "al(外)+ien(名词后缀)→外国的；异乡的；性质不同的；不相容的",
-      "phonetic": "ˈeɪlɪən",
+      "phonetic": "ˈeɪ.li.ən",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "alien"
@@ -1332,7 +1332,7 @@
       "definition": "使疏远；离间；让与",
       "examples": [],
       "frequency": 8301,
-      "phonetic": "ˈeɪlɪəneɪt",
+      "phonetic": "ˈeɪ.li.ə.neɪt",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "alienate"
@@ -1362,7 +1362,7 @@
       "definition": "疏远；转让；精神错乱；[哲]异化；[戏]间离效果(alienation effect)",
       "examples": [],
       "frequency": 9852,
-      "phonetic": "eɪlɪəˈneɪʃ(ə)n",
+      "phonetic": "[ˌeɪli.əˈneɪʃən]",
       "pos": "n.",
       "rootHint": "mot",
       "word": "alienation"
@@ -1378,7 +1378,7 @@
       "examples": [],
       "frequency": 14125,
       "mnemonic": "al(外)+leg(说)→说的是另外一个含义→寓言",
-      "phonetic": "ˈælɪg(ə)rɪ",
+      "phonetic": "ˈæl.ɘˌɡoʊɹ.i",
       "pos": "n.",
       "rootHint": "mot",
       "word": "allegory"
@@ -1390,7 +1390,7 @@
       "examples": [],
       "frequency": 7343,
       "mnemonic": "all(外)+erg(=act：活动)+y(后缀)→(皮肤)外面的活动→过敏",
-      "phonetic": "ˈælədʒɪ",
+      "phonetic": "[ˈæl.ə.dʒi]",
       "pos": "n.",
       "rootHint": "mot",
       "word": "allergy"
@@ -1400,7 +1400,7 @@
       "definition": "对……过敏的；对……极讨厌的",
       "examples": [],
       "frequency": 9339,
-      "phonetic": "əˈlɜːdʒɪk",
+      "phonetic": "[ə.ˈlɝ.dʒɪk]",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "allergic"
@@ -1423,7 +1423,7 @@
       "definition": "利他的；无私心的",
       "examples": [],
       "frequency": 16248,
-      "phonetic": "æltrʊˈɪstɪk",
+      "phonetic": "ˌɑl.tɹuˈɪs.tɪk",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "altruistic"
@@ -1439,7 +1439,7 @@
       ],
       "frequency": 2625,
       "mnemonic": "ult(=alt=out：外)+m(=most)+ate(形容词后缀)→最外面的；最后的；",
-      "phonetic": "ˈʌltɪmət",
+      "phonetic": "ˈʌltɪmɪt",
       "pos": "adj.",
       "rootHint": "mat",
       "word": "ultimate"
@@ -1449,7 +1449,7 @@
       "definition": "最后；根本；基本上",
       "examples": [],
       "frequency": 1787,
-      "phonetic": "ˈʌltɪmətlɪ",
+      "phonetic": "ˈʌltɪmətli",
       "pos": "adv.",
       "rootHint": "mat",
       "word": "ultimately"
@@ -1459,7 +1459,7 @@
       "definition": "最后通牒",
       "examples": [],
       "frequency": 14437,
-      "phonetic": "ʌltɪˈmeɪtəm",
+      "phonetic": "ˌʌl.tɪˈmeɪ.təm",
       "pos": "n.",
       "rootHint": "mat",
       "word": "ultimatum"
@@ -1470,7 +1470,7 @@
       "examples": [],
       "frequency": 5932,
       "mnemonic": "para(旁边)+al(=other：另外)→旁边的另外一个→平行的；类似的；平",
-      "phonetic": "ˈpærəlel",
+      "phonetic": "ˈpæɹəˌlɛl",
       "pos": "n.",
       "rootHint": "mot",
       "word": "parallel"
@@ -1501,7 +1501,7 @@
       ],
       "frequency": 2910,
       "mnemonic": "al(外)+ter(=other：其他，另一个)→改变、变化(即：成“另外一个”)",
-      "phonetic": "ˈɔːltə;ˈɒl-",
+      "phonetic": "ˈɔl.tɚ",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "alter"
@@ -1511,7 +1511,7 @@
       "definition": "改变的",
       "examples": [],
       "frequency": 10177,
-      "phonetic": "ˈɔːltəd",
+      "phonetic": "ˈɔl.tɚd",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "altered"
@@ -1521,7 +1521,7 @@
       "definition": "变更；修改，改变",
       "examples": [],
       "frequency": 9194,
-      "phonetic": "ɔːltəˈreɪʃ(ə)n;ˈɒl-",
+      "phonetic": "ɔl.tɚˈeɪ.ʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "alteration"
@@ -1544,7 +1544,7 @@
       "definition": "交替地；轮流地；隔一个地",
       "examples": [],
       "frequency": 11193,
-      "phonetic": "ɔːlˈtɜːnɪtlɪ",
+      "phonetic": "ˈɔl.tɚ.nət.li",
       "pos": "adv.",
       "rootHint": "mot",
       "word": "alternately"
@@ -1561,7 +1561,7 @@
       ],
       "frequency": 2089,
       "mnemonic": "altern(=alter：改变)+ative(复合形容词后缀：的)→可改变的、可变成\n另一个的→二者选一的，可选择的，可改变的",
-      "phonetic": "ɔːlˈtɜːnətɪv;ɒl-",
+      "phonetic": "ɔl.ˈtɝ.nə.tɪv",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "alternative"
@@ -1571,7 +1571,7 @@
       "definition": "非此即彼；二者择一地；作为一种选择",
       "examples": [],
       "frequency": 10782,
-      "phonetic": "ɔːlˈtɜːnətɪvlɪ",
+      "phonetic": "ɔlˈtɝnətɪvlɪ",
       "pos": "adv.",
       "rootHint": "mot",
       "word": "alternatively"
@@ -1581,7 +1581,7 @@
       "definition": "交互的；交替的",
       "examples": [],
       "frequency": 14207,
-      "phonetic": "ˈɔːltəneɪtɪŋ",
+      "phonetic": "ˈɔltəneɪtɪŋ",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "alternating"
@@ -1597,7 +1597,7 @@
       "etymology": "late 14c., “angry contention with words,” from Old French altercacion “altercation” (12c.) and directly from Latin altercationem (nominative other” (see alter). The notion perhaps is of “speaking alternately.”",
       "examples": [],
       "frequency": 19950,
-      "phonetic": "ɒltəˈkeɪʃ(ə)n",
+      "phonetic": "ɔl.tɚˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "altercation"
@@ -1608,7 +1608,7 @@
       "examples": [],
       "frequency": 7618,
       "mnemonic": "ab(表否定)+ol(=al：长大、成长)+ish(动词后缀)→不让(某事物)长大、\n生长→废除、废止、取消",
-      "phonetic": "əˈbɒlɪʃ",
+      "phonetic": "əˈbɑl.əʃ",
       "pos": "vt.",
       "rootHint": "mot",
       "word": "abolish"
@@ -1619,7 +1619,7 @@
       "examples": [],
       "frequency": 14133,
       "mnemonic": "ab(表否定)+or(=al：长大、生长)+ion(名词后缀)→不让(某事物)生长\n大→(制度、习俗等的)废除，废止",
-      "phonetic": "æbəˈlɪʃ(ə)n",
+      "phonetic": "ˌæb.əˈlɪʃ.n̩",
       "pos": "n.",
       "rootHint": "mot",
       "word": "abolition"
@@ -1629,7 +1629,7 @@
       "definition": "废奴主义者；废除主义者",
       "examples": [],
       "frequency": 17930,
-      "phonetic": "æbəˈlɪʃ(ə)nɪst",
+      "phonetic": "ˌæ.bə.ˈlɪʃ.n̩.ɪst",
       "pos": "n.",
       "rootHint": "mot",
       "word": "abolitionist"
@@ -1640,7 +1640,7 @@
       "examples": [],
       "frequency": 12760,
       "mnemonic": "ab(相反)+bor(=born：出生；出现)→不让生下来→流产；夭折",
-      "phonetic": "əˈbɔːt",
+      "phonetic": "əˈbɔɹt",
       "pos": "vi.",
       "rootHint": "mot",
       "word": "abort"
@@ -1650,7 +1650,7 @@
       "definition": "流产，小产；流产的胎儿",
       "examples": [],
       "frequency": 1983,
-      "phonetic": "əˈbɔːʃ(ə)n",
+      "phonetic": "əˈbɔɹ.ʃn̩",
       "pos": "n.",
       "rootHint": "mot",
       "word": "abortion"
@@ -1660,7 +1660,7 @@
       "definition": "成熟的；成年的 n. 成年人；成年动物",
       "examples": [],
       "frequency": 972,
-      "phonetic": "ˈædʌlt; əˈdʌlt",
+      "phonetic": "əˈdʌlt",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "adult"
@@ -1682,7 +1682,7 @@
       "etymology": "“voluntary violation of the marriage bed,” c. 1300, avoutrie, from Old 7th Commandment it is understood to mean “lewdness or unchastity” of",
       "examples": [],
       "frequency": 11231,
-      "phonetic": "əˈdʌlt(ə)rɪ",
+      "phonetic": "əˈdʌltəɹi",
       "pos": "n.",
       "rootHint": "mot",
       "word": "adultery"
@@ -1712,7 +1712,7 @@
       "etymology": "Old English aldormonn (Mercian), ealdormann (West Saxon) “Anglo- “patriarch” (comparative of ald “old;” see old)+monn, mann “man” (from 20000 词 汇巅峰 速 记 PIE root *man- (1) “man”). guild” (early 12c.) passed to “magistrate of a city” (c. 1200) as the guilds",
       "examples": [],
       "frequency": 18149,
-      "phonetic": "ˈɔːldəmən",
+      "phonetic": "ˈɔldəmən",
       "pos": "n.",
       "rootHint": "mot",
       "word": "alderman"
@@ -1723,7 +1723,7 @@
       "examples": [],
       "frequency": 3414,
       "mnemonic": "ad(=to：去)+ol(=old：长大、成熟；d无意义)+escent(复合形容词或名词\n后缀)→去长大、成熟，即：还未成熟的→青春期的；青少年",
-      "phonetic": "ædəˈles(ə)nt",
+      "phonetic": "ˌædəˈlɛsənt",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "adolescent"
@@ -1733,7 +1733,7 @@
       "definition": "青春期",
       "examples": [],
       "frequency": 7012,
-      "phonetic": "ædəˈles(ə)ns",
+      "phonetic": "ˌædəˈlɛsəns",
       "pos": "n.",
       "rootHint": "mot",
       "word": "adolescence"
@@ -1743,7 +1743,7 @@
       "definition": "成熟 a. 成熟的；到期的",
       "examples": [],
       "mnemonic": "mat(=ripe：成熟的；)+ure(少见的形容词或动词后缀)→成熟的，到期",
-      "phonetic": "məˈtjuə",
+      "phonetic": "məˈtʃʊr",
       "pos": "v.",
       "rootHint": "mat",
       "word": "mature"
@@ -1759,7 +1759,7 @@
       "examples": [],
       "frequency": 13101,
       "mnemonic": "co(共同，一起)+al(长)+esce(后缀)→长到一起→联合；合并",
-      "phonetic": ",kəʊəˈles",
+      "phonetic": "koʊ.əˈlɛs",
       "pos": "vi.",
       "rootHint": "mot",
       "word": "coalesce"
@@ -1770,7 +1770,7 @@
       "examples": [],
       "frequency": 11273,
       "mnemonic": "pro(向前)+ol(生)+fic(=make：制造)→能向前制造出，生出很多的→",
-      "phonetic": "prəˈlɪfɪk",
+      "phonetic": "ˌpɹoʊˈlɪf.ɪk",
       "pos": "adj.",
       "rootHint": "mot",
       "word": "prolific"

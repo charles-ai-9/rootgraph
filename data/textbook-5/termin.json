@@ -46,7 +46,7 @@
       ],
       "frequency" : 9521,
       "mnemonic" : "termin-（文字；表达）+ o + -logy（学说；论述）→有关文字表达的\n学说、论述→学科术语；专门用语",
-      "phonetic" : "ˌtɜːməˈnɒləd͡ʒi",
+      "phonetic" : "ˌtɚməˈnɑləd͡ʒi",
       "pos" : "n.",
       "rootHint" : "termin",
       "word" : "terminology"
@@ -97,7 +97,7 @@
       ],
       "frequency" : 7311,
       "mnemonic" : "termin-（=terminal：末端的；终点的）+ -ate（使动词）→使结束，\n使终结→终止；到达终点",
-      "phonetic" : "ˈtɜːmɪneɪt",
+      "phonetic" : "ˈtɝmɪneɪt",
       "pos" : "vt.",
       "rootHint" : "termin",
       "word" : "terminate"
@@ -128,7 +128,7 @@
       ],
       "frequency" : 17627,
       "mnemonic" : "in-（不；非）+ termin-（末端；终点）+ -able（形容词后缀）→没有\n终点的→冗长的；无休止的",
-      "phonetic" : "ɪnˈtɜː(ɹ).mɪn.ə.bəl",
+      "phonetic" : "ɪnˈtɝ.mɪn.ə.bəl",
       "pos" : "adj.",
       "rootHint" : "termin",
       "word" : "interminable"
@@ -161,7 +161,7 @@
 
       ],
       "frequency" : 3883,
-      "phonetic" : "dɪˌtɜːmɪˈneɪʃən",
+      "phonetic" : "dɪˌtɝmɪˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "termin",
       "word" : "determination"
@@ -190,7 +190,7 @@
 
       ],
       "frequency" : 11307,
-      "phonetic" : "dɪˈtɜːmɪnənt",
+      "phonetic" : "dɪˈtɝmɪnənt",
       "pos" : "adj.",
       "rootHint" : "termin",
       "word" : "determinant"
@@ -205,7 +205,7 @@
       ],
       "frequency" : 16777,
       "mnemonic" : "in-（=not：不）+ determinate（确定的）→不确定的→模糊的；难以",
-      "phonetic" : "ɪndɪˈtɜː(ɹ)mɪnət",
+      "phonetic" : "ɪndɪˈtɝmɪnət",
       "pos" : "adj.",
       "rootHint" : "termin",
       "word" : "indeterminate"
@@ -236,7 +236,7 @@
 
       ],
       "frequency" : 19504,
-      "phonetic" : "dɪˈtɜːmɪnɪzəm",
+      "phonetic" : "dɪˈtɝmɪnɪzəm",
       "pos" : "n.",
       "rootHint" : "termin",
       "word" : "determinism"
@@ -267,7 +267,7 @@
 
       ],
       "frequency" : 19516,
-      "phonetic" : "ɪkˌstɜːmɪˈneɪʃn",
+      "phonetic" : "ɪkˌstɝmɪˈneɪʃn",
       "pos" : "n.",
       "rootHint" : "termin",
       "word" : "extermination"

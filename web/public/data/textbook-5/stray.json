@@ -25,7 +25,7 @@
       ],
       "frequency" : 555,
       "mnemonic" : "路”→大街；街道",
-      "phonetic" : "striːt",
+      "phonetic" : "ʃtɹiːt",
       "pos" : "n.",
       "rootHint" : "stray",
       "word" : "street"
@@ -55,7 +55,7 @@
       ],
       "frequency" : 16384,
       "mnemonic" : "street（街道）+ car（汽车）→室内有轨电车",
-      "phonetic" : "ˈstriːtkɑː",
+      "phonetic" : "ˈstriːtkɑ",
       "pos" : "n.",
       "rootHint" : "stray",
       "word" : "streetcar"
@@ -71,7 +71,7 @@
       ],
       "frequency" : 9469,
       "mnemonic" : "stra-（=street：大街；街道）+ -y（动词后缀）→在大街上走失→走\nstra-（=street：大街；街道）+ -y（形容词后缀）→在大街上游走的\n→走失的；离群的\nstra-（=street：大街；街道）+ -y（名词后缀）→在街上走的动物→\nstray：domestic animal found wandering→走失的（狗或猫）；走失的宠",
-      "phonetic" : "streɪ",
+      "phonetic" : "stɹeɪ",
       "pos" : "vi.",
       "rootHint" : "stray",
       "word" : "stray"
@@ -88,7 +88,7 @@
       ],
       "frequency" : 17485,
       "mnemonic" : "a（处于……状态下的）+ stray（迷路的）→迷路地",
-      "phonetic" : "əˈstreɪ",
+      "phonetic" : "əˈstɹeɪ",
       "pos" : "adv.",
       "rootHint" : "stray",
       "word" : "astray"
@@ -108,7 +108,7 @@
 
       ],
       "frequency" : 4783,
-      "phonetic" : "strɔː",
+      "phonetic" : "stɹɔ",
       "pos" : "n.",
       "rootHint" : "stray",
       "word" : "straw"
@@ -123,7 +123,7 @@
       ],
       "frequency" : 10237,
       "mnemonic" : "straw：麦秆→strew：把麦秆铺开→把……布满（或撒满）（scatter：",
-      "phonetic" : "struː",
+      "phonetic" : "stɹuː",
       "pos" : "vt.",
       "rootHint" : "stray",
       "word" : "strew"

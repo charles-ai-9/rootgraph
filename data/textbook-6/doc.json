@@ -45,7 +45,7 @@
       ],
       "frequency" : 8078,
       "mnemonic" : "doctor（博士）+ -al（形容词后缀）→博士的；博士学位的",
-      "phonetic" : "ˈdɒktəɹəl",
+      "phonetic" : "ˈdɑktəɹəl",
       "pos" : "adj.",
       "rootHint" : "doc",
       "word" : "doctoral"
@@ -59,7 +59,7 @@
         "He’s studying for her doctorate.\n她正在攻读博士学位。"
       ],
       "mnemonic" : "doctor（博士）+ -ate（名词后缀）→博士学位",
-      "phonetic" : "ˈdɒk.tə.ɹeɪt",
+      "phonetic" : "ˈdɑk.təɹ.eɪt",
       "pos" : "n.",
       "rootHint" : "doc",
       "word" : "doctorate"
@@ -105,7 +105,7 @@
       ],
       "frequency" : 14063,
       "mnemonic" : "doctrine（教义；主义；学说）+ -al（形容词后缀）→教义的；主义",
-      "phonetic" : "dɒkˈtɹaɪnəl",
+      "phonetic" : "dɑkˈtɹaɪnəl",
       "pos" : "adj.",
       "rootHint" : "doc",
       "word" : "doctrinal"
@@ -120,7 +120,7 @@
       ],
       "frequency" : 18942,
       "mnemonic" : "in-（进入，使）+ -doctrine（信条；学说）+ -ation（复合名词后缀）\n→使信条或学说强行进入……→引申词义强行灌输",
-      "phonetic" : "ɪnˌdɑːktrɪˈneɪʃn",
+      "phonetic" : "ɪnˌdɑktrɪˈneɪʃn",
       "pos" : "n.",
       "rootHint" : "doc",
       "word" : "indoctrination"
@@ -136,7 +136,7 @@
       ],
       "frequency" : 19876,
       "mnemonic" : "doc-（教）+ -ile（形容词后缀）→引申词义可教导的→驯服的；易管",
-      "phonetic" : "ˈdɑː.saɪl",
+      "phonetic" : "ˈdɑ.saɪl",
       "pos" : "adj.",
       "rootHint" : "doc",
       "word" : "docile"
@@ -170,7 +170,7 @@
       ],
       "frequency" : 4264,
       "mnemonic" : "document（文件；记录）+ -ary（名词\/形容词后缀）→纪实影片，广",
-      "phonetic" : "ˌdɒk.jəˈmɛn.tɹi",
+      "phonetic" : "ˌdɑ.kjəˈmɛn.(tɚ.)ɹi",
       "pos" : "n.",
       "rootHint" : "doc",
       "word" : "documentary"
@@ -186,7 +186,7 @@
       ],
       "frequency" : 6900,
       "mnemonic" : "document（文件；记载）+ -ation（复合名词后缀）→证明文件；文",
-      "phonetic" : "ˌdɒkjʊmənˈteɪʃən",
+      "phonetic" : "ˌdɑkjəmənˈteɪʃən",
       "pos" : "n.",
       "rootHint" : "doc",
       "word" : "documentation"
@@ -200,7 +200,7 @@
 
       ],
       "frequency" : 15294,
-      "phonetic" : "ˈdɒkjʊm(ə)ntɪd",
+      "phonetic" : "ˈdɑkjʊm(ə)ntɪd",
       "pos" : "adj.",
       "rootHint" : "doc",
       "word" : "documented"
@@ -215,7 +215,7 @@
       ],
       "frequency" : 11568,
       "mnemonic" : "un-（=not：未；没有）+ documented（备有证明文件的，登记注册过\n的）→无证明文件的；非法的，五证的",
-      "phonetic" : "ʌnˈdɒkjʊmentɪd",
+      "phonetic" : "ʌnˈdɑkjʊmentɪd",
       "pos" : "adj.",
       "rootHint" : "doc",
       "word" : "undocumented"

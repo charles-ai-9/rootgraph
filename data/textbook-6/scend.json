@@ -269,7 +269,7 @@
       ],
       "frequency" : 5072,
       "mnemonic" : "merger表“兼并，合并”源于“merge：吞没”（即：“吞没”其他\nmerg-（合并；融入）+ -er（名词后缀）→合并；兼并；融合",
-      "phonetic" : "ˈmɜːdʒə",
+      "phonetic" : "ˈmɝdʒɚ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "merger"
@@ -284,7 +284,7 @@
       ],
       "frequency" : 20127,
       "mnemonic" : "merg-（合并；融入）+ -ing（名词后缀）→合并；融合；融入",
-      "phonetic" : "ˈmɜːdʒɪŋ",
+      "phonetic" : "ˈmɝdʒɪŋ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "merging"
@@ -302,7 +302,7 @@
       ],
       "frequency" : 1307,
       "mnemonic" : "e-（=ex-=out：出现；出来）+ merge（沉入；浸没）→从沉没中出来\n→出现，浮现；暴露；显现；（从困境或苦难经历中）摆脱出来",
-      "phonetic" : "iˈmɜːd͡ʒ",
+      "phonetic" : "iˈmɝd͡ʒ",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "emerge"
@@ -317,7 +317,7 @@
       ],
       "frequency" : 16122,
       "mnemonic" : "re-（=again：再次）+ emerge（出现）→再次出现→重现",
-      "phonetic" : "ˌriː iˈmɜːrdʒ",
+      "phonetic" : "ˌriː iˈmɝrdʒ",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "re-emerge"
@@ -334,7 +334,7 @@
       ],
       "frequency" : 4528,
       "mnemonic" : "emerg（=emerge：出现；显露）+ -ing（形容词后缀）→正在出现\n的；渐渐显露实力的→新兴的；渐渐显露头角的",
-      "phonetic" : "ɪˈmɜːdʒɪŋ",
+      "phonetic" : "ɪˈmɝdʒɪŋ",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "emerging"
@@ -350,7 +350,7 @@
       ],
       "frequency" : 5799,
       "mnemonic" : "emerg（=emerge：出现；浮现；露出）+ -ence（名词后缀）→出现；",
-      "phonetic" : "ɪˈmɜːdʒ(ə)ns",
+      "phonetic" : "ɪˈmɝdʒ(ə)ns",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "emergence"
@@ -382,7 +382,7 @@
       ],
       "frequency" : 14316,
       "mnemonic" : "emerge（出现；露出）+ -ent（形容词后缀）→刚出现的→新兴的",
-      "phonetic" : "ɪ.ˈmɜː.dʒənt",
+      "phonetic" : "ɪ.ˈmɝ.dʒənt",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "emergent"
@@ -397,7 +397,7 @@
       ],
       "frequency" : 11414,
       "mnemonic" : "sub-（=sup-：向下）+ merge（沉没；浸入）→没下去→浸没；掩盖",
-      "phonetic" : "sʌbˈmɜːdʒ",
+      "phonetic" : "sʌbˈmɝdʒ",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "submerge"
@@ -412,7 +412,7 @@
       ],
       "frequency" : 15564,
       "mnemonic" : "sub-（向下）+ merge（没入）+ -ed（形容词后缀）→向下没入水中\n的→水面下的",
-      "phonetic" : "səbˈmɜːdʒd",
+      "phonetic" : "səbˈmɝdʒd",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "submerged"
@@ -428,7 +428,7 @@
       ],
       "frequency" : 8258,
       "mnemonic" : "im-（=in-：里面）+ mers-（=merg-：沉没）+ e→沉没到水里面→浸",
-      "phonetic" : "ɪˈmɜː(ɹ)s",
+      "phonetic" : "ɪˈmɝs",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "immerse"

@@ -16,7 +16,7 @@
   "words": [
     {
       "word": "diploma",
-      "phonetic": "dɪˈpləʊmə",
+      "phonetic": "dɪˈploʊmə",
       "pos": "n.",
       "definition": "结业证书，考试证书[+ in]; 毕业文凭，学位证书",
       "frequency": 8618,
@@ -33,7 +33,7 @@
     },
     {
       "word": "diplomacy",
-      "phonetic": "dɪˈpləʊməsi",
+      "phonetic": "dɪˈploʊməsi",
       "pos": "n.",
       "definition": "外交；外交手腕",
       "frequency": 5715,
@@ -88,7 +88,7 @@
     },
     {
       "word": "double-digit",
-      "phonetic": "'dabl'didʒit",
+      "phonetic": "ˈdʌblˈdidʒit",
       "pos": "adj.",
       "definition": "两位数的",
       "frequency": 14604,
@@ -213,7 +213,7 @@
     },
     {
       "word": "dualism",
-      "phonetic": "d'ju:slrz(ə)m",
+      "phonetic": "ˈdjuːəlɪzəm",
       "pos": "n.",
       "definition": "二元论",
       "frequency": 19463,
@@ -248,7 +248,7 @@
     },
     {
       "word": "duo",
-      "phonetic": "ˈdjuː.əʊ",
+      "phonetic": "ˈdju.oʊ",
       "pos": "n.",
       "definition": "( 在一起表演的)一对艺人，搭档；形影不离的两个人；二重奏(曲);二重唱(曲)9208",
       "collocations": [
@@ -363,7 +363,7 @@
     },
     {
       "word": "recycling",
-      "phonetic": "ri:'sarkliŋ",
+      "phonetic": "ˌriːˈsaɪklɪŋ",
       "pos": "n.",
       "definition": "( 资源、垃圾的)回收利用",
       "frequency": 6075,
@@ -375,7 +375,7 @@
     },
     {
       "word": "recyclable",
-      "phonetic": "ri:'sarkləbl",
+      "phonetic": "ˌriːˈsaɪkləbl",
       "pos": "adj.",
       "definition": "可再生的",
       "frequency": 20198,
@@ -399,7 +399,7 @@
     },
     {
       "word": "collarbone",
-      "phonetic": "'kplabəun",
+      "phonetic": "ˈkɑləboʊn",
       "pos": "n.",
       "definition": "锁骨",
       "frequency": 18164,
@@ -412,7 +412,7 @@
     },
     {
       "word": "white-collar",
-      "phonetic": "'wait'kolə",
+      "phonetic": "hwaɪtˈkɔlə",
       "pos": "n.",
       "definition": "白领阶层",
       "frequency": 12693,
@@ -422,7 +422,7 @@
     },
     {
       "word": "blue-collar",
-      "phonetic": "'blu:'kɔlə",
+      "phonetic": "ˈbluːˌkɔlə",
       "pos": "n.",
       "definition": "蓝领阶层",
       "frequency": 10807,
@@ -512,7 +512,7 @@
     },
     {
       "word": "enclosed",
-      "phonetic": "ənˈkləʊzd",
+      "phonetic": "ənˈkloʊzd",
       "pos": "adj.",
       "definition": "(用墙等)围住的；随函附上的；与外界隔绝的",
       "frequency": 12175,
@@ -588,7 +588,7 @@
     },
     {
       "word": "circuitry",
-      "phonetic": "ˈsɜːkɪtɹi",
+      "phonetic": "ˈsɝkətɹi",
       "pos": "n.",
       "definition": "电路系统；电路",
       "frequency": 16269,
@@ -726,7 +726,7 @@
     },
     {
       "word": "curb",
-      "phonetic": "kɜːb",
+      "phonetic": "kɝb",
       "pos": "vt.",
       "definition": "抑制；控制(脾气、行为等)n. 控制；限制",
       "frequency": 6836,
@@ -773,7 +773,7 @@
     },
     {
       "word": "curly",
-      "phonetic": "ˈkɜːli",
+      "phonetic": "ˈkɝli",
       "pos": "adj.",
       "definition": "卷曲的；弯曲的",
       "frequency": 9438,
@@ -799,7 +799,7 @@
     },
     {
       "word": "curved",
-      "phonetic": "kɜːvd",
+      "phonetic": "kɝːvd",
       "pos": "adj.",
       "definition": "弧形的",
       "frequency": 8494,
@@ -811,7 +811,7 @@
     },
     {
       "word": "curving",
-      "phonetic": "'kə:viŋ",
+      "phonetic": "ˈkɜrvɪɪŋ",
       "pos": "adj.",
       "definition": "弯曲的",
       "frequency": 19251,
@@ -852,7 +852,7 @@
     },
     {
       "word": "wheelbarrow",
-      "phonetic": "'wi:lbærəu",
+      "phonetic": "ˈwiːlbæroʊ",
       "definition": "(园艺用)手推车",
       "frequency": 17474,
       "mnemonic": "wheel(车轮)+barrow(手推车)→带车轮的手推车→ (园艺用)手推车",
@@ -873,7 +873,7 @@
     },
     {
       "word": "four-wheel",
-      "phonetic": "'fə:'wi:l",
+      "phonetic": "ˈfɔːrwˈiːl",
       "pos": "adj.",
       "definition": "四轮的；使用四轮驱动的",
       "frequency": 19276,
@@ -901,7 +901,7 @@
     },
     {
       "word": "polar",
-      "phonetic": "ˈpəʊ̯lə(ɹ)",
+      "phonetic": "ˈpoʊ̯lɚ",
       "pos": "adj.",
       "definition": "极地的；(性格、质量或类型)正好相反的",
       "frequency": 6905,
@@ -1037,7 +1037,7 @@
     },
     {
       "word": "roundup",
-      "phonetic": "'raundʌp",
+      "phonetic": "ˈraʊndˌʌp",
       "pos": "n.",
       "definition": "( 新闻)综述",
       "frequency": 15435,
@@ -1158,7 +1158,7 @@
     },
     {
       "word": "succinctly",
-      "phonetic": "sɔk'siŋktli",
+      "phonetic": "səkˈsɪŋktlɪ",
       "pos": "adv.",
       "definition": "简明地",
       "frequency": 16437,
@@ -1285,7 +1285,7 @@
     },
     {
       "word": "waterfowl",
-      "phonetic": "'wɔ:təfaul",
+      "phonetic": "ˈwɔtəfaʊl",
       "pos": "n.",
       "definition": "水禽(尤指鸭、鹅和天鹅)16594",
       "mnemonic": "water(水)+fowl(家禽)→水里的家禽→水禽",
@@ -1295,7 +1295,7 @@
     },
     {
       "word": "waterfront",
-      "phonetic": "'wɔ:tofrʌn t",
+      "phonetic": "ˈwɔtəfrʌnt",
       "pos": "n.",
       "definition": "滨水地区；水边土地",
       "frequency": 10163,
@@ -1310,7 +1310,7 @@
     },
     {
       "word": "watering",
-      "phonetic": "'wɔ:təriŋ",
+      "phonetic": "ˈwɔtərɪŋ",
       "pos": "adj.",
       "definition": "灌溉的；浇水用的",
       "frequency": 12926,
@@ -1350,7 +1350,7 @@
     },
     {
       "word": "waterway",
-      "phonetic": "'wɔ:təwer",
+      "phonetic": "ˈwɔtəweɪ",
       "pos": "n.",
       "definition": "n. 水路；航道",
       "frequency": 9739,
@@ -1377,7 +1377,7 @@
     },
     {
       "word": "backwater",
-      "phonetic": "'bækwɔ:tə",
+      "phonetic": "ˈbækwɔtər",
       "pos": "n.",
       "definition": "闭塞落后的地方(含贬义);(河流的)死水；停滞不 进的状态或地方",
       "frequency": 16228,
@@ -1391,7 +1391,7 @@
     },
     {
       "word": "deep-water",
-      "phonetic": "'di:p-wɔ:tə",
+      "phonetic": "ˈdiːpwɔtər",
       "pos": "adj.",
       "definition": "深水的",
       "frequency": 20077,
@@ -1402,7 +1402,7 @@
     },
     {
       "word": "floodwaters",
-      "phonetic": "'flʌdwɔtəz",
+      "phonetic": "ˈflʌdwɔtərz",
       "pos": "n.",
       "definition": "洪水",
       "frequency": 18847,
@@ -1413,7 +1413,7 @@
     },
     {
       "word": "freshwater",
-      "phonetic": "'freʃwɔ:tə",
+      "phonetic": "ˈfreʃwɔtər",
       "pos": "adj.",
       "definition": "淡水的",
       "frequency": 9734,
@@ -1426,7 +1426,7 @@
     },
     {
       "word": "saltwater",
-      "phonetic": "'sɔ:lt'wɔ:tə",
+      "phonetic": "ˈsɔltˌwɔtəˌ -ˌwɔtə",
       "pos": "n.",
       "definition": "咸水adj. 咸水的",
       "frequency": 18548,
@@ -1451,7 +1451,7 @@
     },
     {
       "word": "seawater",
-      "phonetic": "'si,wotas;'si,watə",
+      "phonetic": "ˈsiːwɑtə",
       "pos": "n.",
       "definition": "海水",
       "frequency": 15113,
@@ -1463,7 +1463,7 @@
     },
     {
       "word": "underwater",
-      "phonetic": "ʌndə'wɔ:tə",
+      "phonetic": "ˌʌndəˈwɔtər",
       "pos": "adv.",
       "definition": "在水面下 adj .在水下的；水下用的",
       "frequency": 9325,
@@ -1476,7 +1476,7 @@
     },
     {
       "word": "wastewater",
-      "phonetic": "'weist,wɔ:to",
+      "phonetic": "ˈweɪstwɔtər",
       "pos": "n.",
       "definition": "废水",
       "frequency": 13839,
@@ -1487,7 +1487,7 @@
     },
     {
       "word": "rainwater",
-      "phonetic": "'reinwɔ:tə",
+      "phonetic": "ˈreɪnwɔtər",
       "pos": "n.",
       "definition": "雨水",
       "frequency": 14637,
@@ -1571,7 +1571,7 @@
     },
     {
       "word": "washcloth",
-      "phonetic": "ˈwɒʃklɒθ",
+      "phonetic": "ˈwɔʃklɔθ",
       "pos": "n.",
       "definition": "( 洗脸、洗手用的)毛巾",
       "frequency": 19178,
@@ -1592,7 +1592,7 @@
     },
     {
       "word": "washer",
-      "phonetic": "'wpjə",
+      "phonetic": "ˈwɑʃər",
       "pos": "n.",
       "definition": "清洗机",
       "frequency": 11688,
@@ -1604,7 +1604,7 @@
     },
     {
       "word": "washing",
-      "phonetic": "ˈwɒʃɪŋ",
+      "phonetic": "ˈwɔʃɪŋ",
       "pos": "n.",
       "definition": "洗涤；要洗的(正洗的，刚洗过的)衣物",
       "frequency": 9158,
@@ -1617,7 +1617,7 @@
     },
     {
       "word": "awash",
-      "phonetic": "əˈwɒʃ",
+      "phonetic": "əˈwɑʃ",
       "pos": "adj.",
       "definition": "有大量……的；被水覆盖的",
       "frequency": 14261,
@@ -1632,7 +1632,7 @@
     },
     {
       "word": "brainwash",
-      "phonetic": "ˈbɹeɪnwɒʃ",
+      "phonetic": "ˈbɹeɪnwɑʃ",
       "pos": "vt.",
       "definition": "给……洗脑；强行灌输",
       "frequency": 18098,
@@ -1692,7 +1692,7 @@
     },
     {
       "word": "hydrocarbon",
-      "phonetic": "ˌhaɪdrəˈkɑːbən",
+      "phonetic": "ˌhaɪdrəˈkɑbən",
       "pos": "n.",
       "definition": "碳氢化合物",
       "frequency": 14042,
@@ -1716,7 +1716,7 @@
     },
     {
       "word": "hydroelectric",
-      "phonetic": "hardrəur'lektrik",
+      "phonetic": "ˌhaɪdroʊɪˈlektrɪk",
       "pos": "adj.",
       "definition": "水力发电的",
       "frequency": 16812,
@@ -1730,7 +1730,7 @@
     },
     {
       "word": "hydraulic",
-      "phonetic": "haɪˈdɹɔːlɪk",
+      "phonetic": "haɪˈdɹɔlɪk",
       "pos": "adj.",
       "definition": "液压的；水力的",
       "frequency": 10825,
@@ -1781,7 +1781,7 @@
     },
     {
       "word": "lava",
-      "phonetic": "ˈlɑːvə",
+      "phonetic": "ˈlɑvə",
       "pos": "n.",
       "definition": "(火山喷出的)熔岩；岩浆",
       "frequency": 9269,
@@ -1837,7 +1837,7 @@
     },
     {
       "word": "laundering",
-      "phonetic": "'lo:ndəriŋ",
+      "phonetic": "ˈlɔndərɪŋ",
       "pos": "n.",
       "definition": "洗烫；洗黑钱",
       "frequency": 15645,
@@ -1849,7 +1849,7 @@
     },
     {
       "word": "laundry",
-      "phonetic": "ˈlɔːn.dɹi",
+      "phonetic": "ˈlɔn.dɹi",
       "pos": "n.",
       "definition": "(待洗、正在洗或刚洗过的)衣物；洗衣店",
       "frequency": 4992,

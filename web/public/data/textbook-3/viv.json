@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "survive",
-      "phonetic": "sə'varv",
+      "phonetic": "sɚˈvaɪv",
       "pos": "vt.",
       "definition": "存活；挺过；幸存；比……活得长",
       "frequency": 1349,
@@ -30,7 +30,7 @@
     },
     {
       "word": "survivor",
-      "phonetic": "sə'varvə",
+      "phonetic": "sɚˈvaɪvɚ",
       "pos": "n.",
       "definition": "幸存者；经受过(苦难)的人；(死者的)尚在世的家人； 能在艰苦环境中生存的人；留存至今的事物",
       "frequency": 3036,
@@ -45,7 +45,7 @@
     },
     {
       "word": "survival",
-      "phonetic": "sa'varv(a)l",
+      "phonetic": "sɚˈvaɪvəl",
       "pos": "n.",
       "definition": "(在困境中的)生存；存活；幸存",
       "frequency": 2679,
@@ -60,7 +60,7 @@
     },
     {
       "word": "surviving",
-      "phonetic": "sə'varv",
+      "phonetic": "səˈvaɪvɪŋ",
       "pos": "adj.",
       "definition": "继续存在的；未死的；依然健在的",
       "frequency": 7190,
@@ -73,7 +73,7 @@
     },
     {
       "word": "vivid",
-      "phonetic": "'vivid",
+      "phonetic": "ˈvɪvɪd",
       "pos": "adj.",
       "definition": "(记忆和描写)清晰的；生动逼真的；(颜色)鲜艳的",
       "frequency": 5609,
@@ -90,7 +90,7 @@
     },
     {
       "word": "vividly",
-      "phonetic": "'vIvIdli",
+      "phonetic": "ˈvɪvɪdli",
       "pos": "adv.",
       "definition": "生动逼真地；鲜明地",
       "frequency": 9569,
@@ -103,7 +103,7 @@
     },
     {
       "word": "vital",
-      "phonetic": "'vart(a)l",
+      "phonetic": "ˈvaɪt̬əl",
       "pos": "adj.",
       "definition": "必要的；至关重要的；必不可少的；充满活力的；生气 勃勃的",
       "frequency": 2939,
@@ -116,7 +116,7 @@
     },
     {
       "word": "vitally",
-      "phonetic": "'vartəli",
+      "phonetic": "ˈvaɪtəli",
       "pos": "adv.",
       "definition": "极其；绝对；充满活力地",
       "frequency": 19388,
@@ -129,7 +129,7 @@
     },
     {
       "word": "vitality",
-      "phonetic": "var'tæliti",
+      "phonetic": "vaɪˈtæləti",
       "pos": "n.",
       "definition": "活力；生命力；热情",
       "frequency": 8614,
@@ -144,7 +144,7 @@
     },
     {
       "word": "revive",
-      "phonetic": "r'varv",
+      "phonetic": "ɹɪˈvaɪv",
       "pos": "vi.",
       "definition": "恢复；复兴；重新上演(作品的新版，戏剧、歌剧或芭蕾等);(使)苏醒；(使)清醒",
       "frequency": 5347,
@@ -159,7 +159,7 @@
     },
     {
       "word": "revival",
-      "phonetic": "r'varv(a)l",
+      "phonetic": "ɹɪˈvaɪvəl",
       "pos": "n.",
       "definition": "再流行；复兴；新版演出；奋兴(布道会)5488",
       "mnemonic": "reviv(=revive: 复兴；重新上演；苏醒)+-al ( 名词后缀) →再流 行；新版演出→使心灵苏醒→奋兴(布道会)",
@@ -174,7 +174,7 @@
     },
     {
       "word": "revitalize",
-      "phonetic": ",rivartəlarz",
+      "phonetic": "ˌrivartəlarz",
       "pos": "vt.",
       "definition": "使新生；使复兴；使恢复活力(或健康)10860",
       "mnemonic": "re-(=back,again: 回来；再一次)+ vital ( 充满活力的；生机勃勃 的 ) +ize ( 动词后缀)→使再次充满活力的→使新生；使复兴；使恢 复元气",
@@ -186,7 +186,7 @@
     },
     {
       "word": "revitalization",
-      "phonetic": "ri;vartalar'zerən",
+      "phonetic": "ˌriːˌvaɪtəlaɪˈzeɪʃn",
       "pos": "n.",
       "definition": "新生；复兴；复苏",
       "frequency": 15030,
@@ -200,7 +200,7 @@
     },
     {
       "word": "viable",
-      "phonetic": "'varobl",
+      "phonetic": "ˈvaɪəbəl",
       "pos": "adj.",
       "definition": "切实可行的；能办到的；能存活的；能生长发育的",
       "frequency": 5109,
@@ -217,7 +217,7 @@
     },
     {
       "word": "viability",
-      "phonetic": ",varə'biləti",
+      "phonetic": "ˌvaɪəˈbɪlɪti",
       "pos": "n.",
       "definition": "生存能力，发育能力；可行性",
       "frequency": 11043,
@@ -232,7 +232,7 @@
     },
     {
       "word": "vitamin",
-      "phonetic": "'vitəmn;'vart-",
+      "phonetic": "ˈvaɪ.tə.mɪn",
       "pos": "n.",
       "definition": "维生素；维他命",
       "frequency": 3751,
@@ -247,7 +247,7 @@
     },
     {
       "word": "vigor",
-      "phonetic": "'vigə",
+      "phonetic": "ˈvɪɡɚ",
       "pos": "n.",
       "definition": "精力；力量；活力；热情",
       "frequency": 10003,
@@ -261,7 +261,7 @@
     },
     {
       "word": "vigorous",
-      "phonetic": "'vɪg(ə)rəs",
+      "phonetic": "ˈvɪɡəɹəs",
       "pos": "adj.",
       "definition": "充满活力的；果断的；精力充沛的；强壮的；强健 的",
       "frequency": 6330,
@@ -278,7 +278,7 @@
     },
     {
       "word": "vigorously",
-      "phonetic": "'vɪg(ə)rəsl i",
+      "phonetic": "ˈvɪɡəɹəsli",
       "pos": "adv.",
       "definition": "精神旺盛地；活泼地",
       "frequency": 7145,
@@ -291,7 +291,7 @@
     },
     {
       "word": "invigorate",
-      "phonetic": "in'vig,rert",
+      "phonetic": "ɪnˈvɪɡəɹeɪt",
       "pos": "vt.",
       "definition": "鼓舞；增加活力；刺激；激励",
       "mnemonic": "in- ( 使……)+ vigor (力量；活力)+-ate ( 动词后缀)→使……有力 量、活力→鼓舞；增加活力；激励",
@@ -303,7 +303,7 @@
     },
     {
       "word": "invigorating",
-      "phonetic": "n'vigəretun",
+      "phonetic": "ɪnˈvɪɡəreɪtɪŋ",
       "pos": "adj.",
       "definition": "令人充满生气的；令人精力充沛的；振奋精 神的",
       "frequency": 19279,
@@ -316,7 +316,7 @@
     },
     {
       "word": "reinvigorate",
-      "phonetic": "ri:n'vigərert",
+      "phonetic": "ˌriːɪnˈvɪgəreɪt",
       "pos": "vt.",
       "definition": "给 … … 增添精力(或力量);使再振作；使 (某事)再复兴",
       "frequency": 18370,
@@ -329,7 +329,7 @@
     },
     {
       "word": "vegetable",
-      "phonetic": "'vedʒtobl",
+      "phonetic": "ˈvɛd͡ʒtəbəl",
       "pos": "n.",
       "definition": "蔬菜；植物人adj. 植物的",
       "frequency": 1948,
@@ -342,7 +342,7 @@
     },
     {
       "word": "vegetation",
-      "phonetic": "vedʒi'terʃ(a) n",
+      "phonetic": "ˌvɛd͡ʒəˈteɪʃən",
       "pos": "n.",
       "definition": "( 统称)植物；(尤指某地或环境的)植被； 植物群落；草木",
       "frequency": 6367,
@@ -355,7 +355,7 @@
     },
     {
       "word": "vegetative",
-      "phonetic": "'ved₃itatIv;- tertiv",
+      "phonetic": "ˈvɛdʒəteɪtɪv",
       "pos": "adj.",
       "definition": "植物人状态的；植物的；植物生长的",
       "frequency": 17390,
@@ -370,7 +370,7 @@
     },
     {
       "word": "vegan",
-      "phonetic": "'vi:g(ə)n",
+      "phonetic": "ˈviːɡən",
       "pos": "n.",
       "definition": "( 英)严格的素食主义者(不吃肉、奶、蛋等，有的不 用动物产品)adj.严格的素食主义的",
       "frequency": 19591,
@@ -383,7 +383,7 @@
     },
     {
       "word": "veggie",
-      "phonetic": "'ved31",
+      "phonetic": "ˈvɛdʒi",
       "definition": "同 vegetarian adj. 素食的 n. 素食主义者； vegetable 的缩写",
       "frequency": 11325,
       "mnemonic": "同vegetarian, 素食的",

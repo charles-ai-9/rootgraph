@@ -530,7 +530,7 @@
       ],
       "frequency" : 11925,
       "mnemonic" : "topic（话题）+ -al（形容词后缀）→热门话题的；有关时事的\ntop（表面）+ -ical（复合形容词后缀，-ic + -al）→表面的；局部的",
-      "phonetic" : "ˈtɒp.ɪ.kəl",
+      "phonetic" : "ˈtɑp.ɪ.kəl",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "topical"
@@ -545,7 +545,7 @@
       ],
       "frequency" : 11471,
       "mnemonic" : "top（顶端；加顶）+ -ing（动名词后缀）→后用于指给菜肴浇汁、加",
-      "phonetic" : "ˈtɒpɪŋ",
+      "phonetic" : "ˈtɑpɪŋ",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "topping"
@@ -560,7 +560,7 @@
       ],
       "frequency" : 7646,
       "mnemonic" : "top（顶端，头部；双写p）+ -le（动词后缀）→特殊用法或比喻用\n法，引申词义从顶部坠落→倒塌；打倒；推翻；颠覆",
-      "phonetic" : "ˈtɒpl̩",
+      "phonetic" : "ˈtɑpl̩",
       "pos" : "vi.",
       "rootHint" : "im",
       "word" : "topple"
@@ -576,7 +576,7 @@
       ],
       "frequency" : 17040,
       "mnemonic" : "top（上衣）+ -less（无，没有）→不穿上衣的；裸露上身的",
-      "phonetic" : "ˈtɒplɪs",
+      "phonetic" : "ˈtɑplɪs",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "topless"
@@ -591,7 +591,7 @@
       ],
       "frequency" : 16551,
       "mnemonic" : "top（顶端；上面）+ down（向下）→从顶端向下的→自上而下的；",
-      "phonetic" : "ˌtɒp ˈdaʊn",
+      "phonetic" : "ˌtɑp ˈdaʊn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "top-down"
@@ -606,7 +606,7 @@
       ],
       "frequency" : 8755,
       "mnemonic" : "roof（屋顶）+ top（顶）→屋顶",
-      "phonetic" : "ˈruːftɒp",
+      "phonetic" : "ˈruːftɑp",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "rooftop"
@@ -621,7 +621,7 @@
       ],
       "frequency" : 13164,
       "mnemonic" : "table（桌子）+ top（表面）→桌子表面→桌面；台面",
-      "phonetic" : "ˈteɪbltɒp",
+      "phonetic" : "ˈteɪbltɑp",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "tabletop"
@@ -636,7 +636,7 @@
       ],
       "frequency" : 16396,
       "mnemonic" : "top（（位置、级别或程度）最高的；极棒的）+ notch（等级）→级\n别最高的→最好的；第一流的",
-      "phonetic" : "ˌtɒp ˈnɒtʃ",
+      "phonetic" : "ˌtɑp ˈnɑtʃ",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "top-notch"
@@ -666,7 +666,7 @@
       ],
       "frequency" : 17691,
       "mnemonic" : "top（表面；顶部）+ soil（土壤）→表面的、顶部的土壤→表土层；",
-      "phonetic" : "ˈtɒpsɔɪl",
+      "phonetic" : "ˈtɑpsɔɪl",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "topsoil"
@@ -682,7 +682,7 @@
       ],
       "frequency" : 13476,
       "mnemonic" : "topo（地方，地区；与topic主题同源）+ -graphy（写；记录）→一个\n地区（总体地貌）特征的记录→地形；地貌",
-      "phonetic" : "təˈpɒɡɹəfi",
+      "phonetic" : "təˈpɑɡɹəfi",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "topography"
@@ -862,7 +862,7 @@
       ],
       "frequency" : 2277,
       "mnemonic" : "on（在……上）+ line（线）→在线上的，在网络上的，在线地",
-      "phonetic" : "ɒnˈlaɪn",
+      "phonetic" : "ɑnˈlaɪn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "online"
@@ -924,7 +924,7 @@
       ],
       "frequency" : 2147,
       "mnemonic" : "air（空气；航空）+ line（线；线路）→航空公司",
-      "phonetic" : "ˈeəlaɪn",
+      "phonetic" : "ˈɛrlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "airline"
@@ -939,7 +939,7 @@
       ],
       "frequency" : 12244,
       "mnemonic" : "air（空气）+ -liner（班机）→在空中飞行的班机→大型客机；班机",
-      "phonetic" : "ˈeəlaɪnə",
+      "phonetic" : "ˈɛrlaɪnə",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "airliner"
@@ -1038,7 +1038,7 @@
       ],
       "frequency" : 10471,
       "mnemonic" : "coast（海岸；海滨）+ line（线；轮廓）→海岸线；海岸轮廓",
-      "phonetic" : "ˈkəʊstlaɪn",
+      "phonetic" : "ˈkoʊstlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "coastline"
@@ -1053,7 +1053,7 @@
       ],
       "frequency" : 12093,
       "mnemonic" : "hard（强硬的；坚固的）+ line（线；界线）→界线坚固的→比喻态",
-      "phonetic" : "ˈhɑː(ɹ)dlaɪn",
+      "phonetic" : "ˈhɑ(ɹ)dlaɪn",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "hardline"
@@ -1068,7 +1068,7 @@
       ],
       "frequency" : 12787,
       "mnemonic" : "hardline（强硬的）+ -er（表人）→强硬的人→强硬派",
-      "phonetic" : "ˈhɑːdˈlainə",
+      "phonetic" : "ˈhɑdˈlainə",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "hard-liner"
@@ -1176,7 +1176,7 @@
       ],
       "frequency" : 17507,
       "mnemonic" : "clothes（衣服）+ line（绳）→晾晒衣服的绳→晒衣绳",
-      "phonetic" : "ˈkləʊðzlaɪn",
+      "phonetic" : "ˈkloʊðzlaɪn",
       "pos" : "n.",
       "rootHint" : "im",
       "word" : "clothesline"
@@ -1221,7 +1221,7 @@
       ],
       "frequency" : 14277,
       "mnemonic" : "non-（=not：不；非）+ line（线）+ -ar（形容词后缀）→非线性的",
-      "phonetic" : "nɒnˈlɪnɪə",
+      "phonetic" : "nɑnˈlɪnɪr",
       "pos" : "adj.",
       "rootHint" : "im",
       "word" : "nonlinear"

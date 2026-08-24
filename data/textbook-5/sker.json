@@ -23,7 +23,7 @@
       ],
       "frequency" : 5083,
       "mnemonic" : "share（分享）和sharp（锋利的）都包含shar-， shar-的本义是\n“切”→将shar-进行h、c音变→scar（伤疤；在……留下伤疤）",
-      "phonetic" : "skɑː(ɹ)",
+      "phonetic" : "skɑɹ",
       "pos" : "vt.",
       "rootHint" : "sker",
       "word" : "scar"
@@ -40,7 +40,7 @@
 
       ],
       "frequency" : 19057,
-      "phonetic" : "skɑː(ɹ)d",
+      "phonetic" : "skɑ(ɹ)d",
       "pos" : "adj.",
       "rootHint" : "sker",
       "word" : "scarred"
@@ -54,7 +54,7 @@
 
       ],
       "frequency" : 6226,
-      "phonetic" : "skɑːf",
+      "phonetic" : "skɑːɹf",
       "pos" : "n.",
       "rootHint" : "sker",
       "word" : "scarf"
@@ -87,7 +87,7 @@
       ],
       "frequency" : 5927,
       "mnemonic" : "under-（在下面）+ score（划线于；刻痕于）→在……下面划线；强",
-      "phonetic" : "ˈʌn.də(ɹ)ˌskɔː(ɹ)",
+      "phonetic" : "ˈʌn.də(ɹ)ˌskɔ(ɹ)",
       "pos" : "vt.",
       "rootHint" : "sker",
       "word" : "underscore"
@@ -130,7 +130,7 @@
       ],
       "frequency" : 16159,
       "mnemonic" : "score（记分）+board（板）→记分板",
-      "phonetic" : "ˈskɔːbɔːd",
+      "phonetic" : "ˈskɔbɔd",
       "pos" : "n.",
       "rootHint" : "sker",
       "word" : "scoreboard"
@@ -145,7 +145,7 @@
       ],
       "frequency" : 18769,
       "mnemonic" : "score（记分）+card（卡片）→记分卡",
-      "phonetic" : "ˈskɔːkɑːd",
+      "phonetic" : "ˈskɔkɑd",
       "pos" : "n.",
       "rootHint" : "sker",
       "word" : "scorecard"
@@ -160,7 +160,7 @@
       ],
       "frequency" : 18725,
       "mnemonic" : "outscore：to score more than→得分超过对手",
-      "phonetic" : "aʊtˈskɔː(r)",
+      "phonetic" : "aʊtˈskɔr",
       "pos" : "vt.",
       "rootHint" : "sker",
       "word" : "outscore"

@@ -36,7 +36,7 @@
       ],
       "frequency" : 10410,
       "mnemonic" : "orthodox（正统的；普遍接受的；正统信仰的）+ -y（名词后缀）→",
-      "phonetic" : "ˈɔːθədɒksi",
+      "phonetic" : "ˈɔθədɑksi",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "orthodoxy"
@@ -51,7 +51,7 @@
       ],
       "frequency" : 15051,
       "mnemonic" : "un-（=not：不；非）+ orthodox（正统的；传统的，规范的）→非正",
-      "phonetic" : "ʌnˈɔːθədɒks",
+      "phonetic" : "ʌnˈɔɹθədɑks",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "unorthodox"
@@ -81,7 +81,7 @@
       ],
       "frequency" : 12706,
       "mnemonic" : "paradox（自相矛盾；悖论；似非而是的论点）+ -ical（形容词后缀）\n→自相矛盾的；似矛盾而（可能）正确的",
-      "phonetic" : "ˌpɛɹəˈdɑːksɪkəl",
+      "phonetic" : "ˌpɛɹəˈdɑksɪkəl",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "paradoxical"
@@ -96,7 +96,7 @@
       ],
       "frequency" : 10819,
       "mnemonic" : "paradoxical（自相矛盾的）+ -ly（副词后缀）→自相矛盾的；反常地",
-      "phonetic" : "ˌpærəˈdɒksɪklɪ",
+      "phonetic" : "ˌpærəˈdɑksɪklɪ",
       "pos" : "adv.",
       "rootHint" : "dox",
       "word" : "paradoxically"
@@ -188,7 +188,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "səˈbɜːbɪ.ə",
+      "phonetic" : "səˈbɝbɪ.ə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "suburbia"
@@ -404,7 +404,7 @@
       ],
       "frequency" : 16886,
       "mnemonic" : "combat（战斗）+ -ive（形容词后缀）→好战的；好斗的",
-      "phonetic" : "ˈkɒm.bə.tɪv",
+      "phonetic" : "ˈkɑm.bə.tɪv",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "combative"
@@ -472,7 +472,7 @@
       ],
       "frequency" : 8747,
       "mnemonic" : "bacteria（细菌）+ -al（形容词后缀）→细菌的",
-      "phonetic" : "[bækˈtɪəɹɪəɫ]",
+      "phonetic" : "[bækˈtɪɹɪəɫ]",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "bacterial"
@@ -665,7 +665,7 @@
       ],
       "frequency" : 10502,
       "mnemonic" : "barr-（棒，栏杆；barrier：障碍物；屏障）+ -age（物品）→用来阻拦\n的物品→水坝；拦河坝（用来阻挡洪水）→火力网（用以阻挡地方炮\n火来进行掩护）→连珠炮似的提问（用来质问或指责等）；不断骚扰",
-      "phonetic" : "bəˈɹɑːʒ",
+      "phonetic" : "bəˈɹɑʒ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "barrage"
@@ -680,7 +680,7 @@
       ],
       "frequency" : 12699,
       "mnemonic" : "handle（柄；把）+ bar（（金属）棒）→用来抓、拿的金属棒→把手",
-      "phonetic" : "ˈhændəlbɑː",
+      "phonetic" : "ˈhændəlbɑːɹ",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "handlebar"
@@ -760,7 +760,7 @@
       ],
       "frequency" : 6441,
       "mnemonic" : "em-(=into：进入；向内) + -bar-（栅栏；障碍）+ go(走)→进入运入内\n部→禁运；禁止……的贸易",
-      "phonetic" : "ɪmˈbɑːɡəʊ",
+      "phonetic" : "ɪmˈbɑɹɡoʊ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "embargo"
@@ -813,7 +813,7 @@
 
       ],
       "mnemonic" : "column（报刊的专栏）+ -ist（名词后缀，表示人）→给报刊写专栏\n的人→专栏作家",
-      "phonetic" : "ˈkɒ.lə.mɪst",
+      "phonetic" : "ˈkɑ.lə.mɪst",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "columnist"

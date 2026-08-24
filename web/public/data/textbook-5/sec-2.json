@@ -24,7 +24,7 @@
       ],
       "frequency" : 4896,
       "mnemonic" : "con-（一起；共同）+ -secu-（跟随）+ t（无意义）+ -ive（形容词后\n缀）→一个接着一个跟随的→连续不断的",
-      "phonetic" : "kənˈsekjʊtɪv",
+      "phonetic" : "kɑnsɛkjʊtɪv",
       "pos" : "adj.",
       "rootHint" : "sec",
       "word" : "consecutive"
@@ -59,7 +59,7 @@
       ],
       "frequency" : 3676,
       "mnemonic" : "ex-（出来）+ sec-（跟着；接着）+ -ute（动词后缀）→紧接着（审\n判）而来的→执行；实施；死刑（即：砍头）",
-      "phonetic" : "ˈeksɪkjuːt",
+      "phonetic" : "ˈɛksɪˌkjuːt",
       "pos" : "vt.",
       "rootHint" : "sec",
       "word" : "execute"
@@ -75,7 +75,7 @@
 
       ],
       "frequency" : 866,
-      "phonetic" : "ɪgˈzekjʊtɪv",
+      "phonetic" : "ɛɡˈzɛkjʊtɪv",
       "pos" : "adj.",
       "rootHint" : "sec",
       "word" : "executive"
@@ -91,7 +91,7 @@
 
       ],
       "frequency" : 4274,
-      "phonetic" : "ˌeksɪˈkjuːʃn",
+      "phonetic" : "ˌek.sɪˈkjuː.ʃən",
       "pos" : "n.",
       "rootHint" : "sec",
       "word" : "execution"
@@ -126,7 +126,7 @@
       ],
       "frequency" : 13298,
       "mnemonic" : "per-（=through：贯穿；通过）+ -secut-（=follow：跟随）+ e→“从\n骚扰，纠缠之意→引申词义（尤因宗教或政治信仰不同）而遭到迫",
-      "phonetic" : "ˈpɜːsɪkjuːt",
+      "phonetic" : "ˈpəːsɪkjuːt",
       "pos" : "vt.",
       "rootHint" : "sec",
       "word" : "persecute"
@@ -144,7 +144,7 @@
       ],
       "frequency" : 9040,
       "mnemonic" : "persecut（=persecute：迫害）+ -ion（名词后缀）→（尤指因宗教、",
-      "phonetic" : "pɜːsɪˈkjuːʃn",
+      "phonetic" : "ˌpɝsəˈkjuʃən",
       "pos" : "n.",
       "rootHint" : "sec",
       "word" : "persecution"
@@ -164,7 +164,7 @@
       ],
       "frequency" : 5152,
       "mnemonic" : "pro-（=forward：向前）+ -secut-（=sequi=follow：跟随）+ e→向前跟\n随（某人\/某事）→继续从事（或参与）\npro-（向前）+ -secut-（follow：跟随）+ e→bring to a court of law；跟\n随（某人\/某事）把其带到法庭上→对……提起公诉；继续从事或参",
-      "phonetic" : "ˈprɒsɪkjuːt",
+      "phonetic" : "ˈpɹɑsɪkjuːt",
       "pos" : "vt.",
       "rootHint" : "sec",
       "word" : "prosecute"
@@ -181,7 +181,7 @@
       ],
       "frequency" : 2142,
       "mnemonic" : "prosecut（=prosecute：起诉；控告）+ -or（名词后缀）→检察官；原",
-      "phonetic" : "ˈprɒsɪkjuːtə",
+      "phonetic" : "ˈpɹɑsəˌkjuːtəɹ",
       "rootHint" : "sec",
       "word" : "prosecutor"
     },
@@ -198,7 +198,7 @@
       ],
       "frequency" : 3637,
       "mnemonic" : "prosecut（=prosecute：起诉；控告）+ -ion（名词后缀）→起诉；检",
-      "phonetic" : "prɒsɪˈkjuːʃ(ə)n",
+      "phonetic" : "ˌpɹɑ.səˈkju.ʃən",
       "pos" : "n.",
       "rootHint" : "sec",
       "word" : "prosecution"

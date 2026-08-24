@@ -25,7 +25,7 @@
       ],
       "frequency" : 953,
       "mnemonic" : "struct-（=a build, arrange：构造；建筑；安排）+-ure（名词后缀，表\n示行为及结果）→结构；构造；建筑物；精心安排",
-      "phonetic" : "ˈstrʌktʃə",
+      "phonetic" : "ˈstɹʌktʃɚ",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "structure"
@@ -113,7 +113,7 @@
       ],
       "frequency" : 2499,
       "mnemonic" : "con-（=with, together：共同）+ -struct（=build：建造）→建造；构建",
-      "phonetic" : "kənˈstrʌkt",
+      "phonetic" : "ˈkɑn.stɹʌkt",
       "pos" : "vt.",
       "rootHint" : "struct",
       "word" : "construct"
@@ -129,7 +129,7 @@
         "Jim now works in construction. 吉姆现在从事建造业。"
       ],
       "frequency" : 1422,
-      "phonetic" : "kənˈstrʌkʃ(ə)n",
+      "phonetic" : "kənˈstɹʌkʃən",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "construction"
@@ -143,7 +143,7 @@
 
       ],
       "frequency" : 7584,
-      "phonetic" : "kənˈstrʌktɪv",
+      "phonetic" : "kənˈstɹʌktɪv",
       "pos" : "adj.",
       "rootHint" : "struct",
       "word" : "constructive"
@@ -233,7 +233,7 @@
       ],
       "frequency" : 1425,
       "mnemonic" : "de-（=un-：表相反）+ -stroy（=to build：建造）→建造的反面→摧",
-      "phonetic" : "dɪˈstrɔɪ",
+      "phonetic" : "dɪˈstɹɔɪ",
       "pos" : "vt.",
       "rootHint" : "stroy",
       "word" : "destroy"
@@ -247,7 +247,7 @@
         "Sugar is the destroyer of healthy teeth. 糖可以危害健全的牙齿。"
       ],
       "frequency" : 11786,
-      "phonetic" : "dɪˈstrɒɪə",
+      "phonetic" : "dɪˈstrɑɪr",
       "pos" : "n.",
       "rootHint" : "stroy",
       "word" : "destroyer"
@@ -261,7 +261,7 @@
 
       ],
       "frequency" : 19403,
-      "phonetic" : "dɪˈstrɔi",
+      "phonetic" : "dɪˈstɹɔɪd",
       "pos" : "adj.",
       "rootHint" : "stroy",
       "word" : "destroyed"
@@ -276,7 +276,7 @@
 
       ],
       "frequency" : 2708,
-      "phonetic" : "dɪˈstrʌkʃ(ə)n",
+      "phonetic" : "ˌdɪsˈtɹʌkʃən",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "destruction"
@@ -291,7 +291,7 @@
 
       ],
       "frequency" : 5900,
-      "phonetic" : "dɪˈstrʌktɪv",
+      "phonetic" : "dɪˈstɹʊktɪv",
       "pos" : "adj.",
       "rootHint" : "struct",
       "word" : "destructive"
@@ -310,7 +310,7 @@
       ],
       "frequency" : 16461,
       "mnemonic" : "de-（=undo：解开；拆散）+construct（建造；构建）→undo the",
-      "phonetic" : "ˈdikənˈstrʌkt",
+      "phonetic" : "diːkənˈstɹʊkt",
       "pos" : "vt.",
       "rootHint" : "struct",
       "word" : "deconstruct"
@@ -324,7 +324,7 @@
 
       ],
       "frequency" : 16921,
-      "phonetic" : "ˌdikənˈstrʌkʃən",
+      "phonetic" : "diːkənˈstɹʊkʃən",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "deconstruction"
@@ -339,7 +339,7 @@
       ],
       "frequency" : 3645,
       "mnemonic" : "infra-（=below：在下面）+structure（结构）→在下面（底部）的结\n构→基础结构；基础设施",
-      "phonetic" : "ˈɪnfrəstrʌktʃə",
+      "phonetic" : "ˈɪnfɹəˌstɹʌk(t)ʃɚ",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "infrastructure"
@@ -354,7 +354,7 @@
       ],
       "frequency" : 4286,
       "mnemonic" : "in-（内部，内心）+-struct（培养；构造）→在内心构造；培养→指",
-      "phonetic" : "ɪnˈstrʌkt",
+      "phonetic" : "ˌɪnˈstɹʌkt",
       "pos" : "vt.",
       "rootHint" : "struct",
       "word" : "instruct"
@@ -369,7 +369,7 @@
 
       ],
       "frequency" : 1572,
-      "phonetic" : "ɪnˈstrʌkʃ(ə)n",
+      "phonetic" : "ɪnˈstɹʌkʃən",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "instruction"
@@ -399,7 +399,7 @@
 
       ],
       "frequency" : 11931,
-      "phonetic" : "ɪnˈstrʌktɪv",
+      "phonetic" : "ɪnˈstɹʌktɪv",
       "pos" : "adj.",
       "rootHint" : "struct",
       "word" : "instructive"
@@ -431,7 +431,7 @@
       ],
       "frequency" : 1621,
       "mnemonic" : "in-（进入；使）+-stru-（建造）+-ment（名词后缀）→建造里要用的\n东西→器械；仪器；乐器",
-      "phonetic" : "ˈɪnstrʊm(ə)nt",
+      "phonetic" : "ˈɪnstɹəmənt",
       "pos" : "n.",
       "rootHint" : "stru",
       "word" : "instrument"
@@ -447,7 +447,7 @@
 
       ],
       "frequency" : 5730,
-      "phonetic" : "ɪnstrʊˈment(ə)l",
+      "phonetic" : "ɪnstɹəˈmɛntəl",
       "pos" : "adj.",
       "rootHint" : "stru",
       "word" : "instrumental"
@@ -480,7 +480,7 @@
       ],
       "frequency" : 10949,
       "mnemonic" : "ob-（=in the way of：妨碍）+ -struct（=to build：建造）→妨碍建造\n→引申词义阻塞；阻拦；阻挠；阻挡",
-      "phonetic" : "əbˈstrʌkt",
+      "phonetic" : "əbˈstɹʌkt",
       "pos" : "vt.",
       "rootHint" : "struct",
       "word" : "obstruct"
@@ -495,7 +495,7 @@
         "It is my job to make sure that all pathways are clear of obstructions.\n保证所有的道路通畅是我的职责。"
       ],
       "frequency" : 9203,
-      "phonetic" : "əbˈstrʌkʃ(ə)n",
+      "phonetic" : "əbˈstɹʌk.ʃən",
       "pos" : "n.",
       "rootHint" : "struct",
       "word" : "obstruction"

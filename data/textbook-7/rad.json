@@ -165,7 +165,7 @@
       ],
       "frequency" : 18627,
       "mnemonic" : "radio（放射的）+logy（学）+-ist（表示人）→从事放射医疗的人→",
-      "phonetic" : "ˌɹeɪ.diːˈɒl.ə.dʒɪst",
+      "phonetic" : "ˌɹeɪ.diːˈɑl.ə.dʒɪst",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "radiologist"
@@ -401,7 +401,7 @@
       ],
       "frequency" : 8764,
       "mnemonic" : "hemi（=semi=half：半）+ sphere（球）→（北\/南）半球，大脑半球",
-      "phonetic" : "ˈhɛmɪsfɪəɹ",
+      "phonetic" : "ˈhɛmɪsfɪɹ",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "hemisphere"
@@ -437,7 +437,7 @@
       ],
       "frequency" : 1114,
       "mnemonic" : "globe（地球）+-al（形容词后缀）→全球的→引申义为“全面的；统",
-      "phonetic" : "ˈɡləʊbəl",
+      "phonetic" : "ˈɡloʊbəl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "global"
@@ -451,7 +451,7 @@
         "Globally, the movie has brought in $ 275 million.\n这部电影在全球的票房收入已达2.75亿美元。"
       ],
       "frequency" : 10567,
-      "phonetic" : "ˈɡləʊbəli",
+      "phonetic" : "ˈɡloʊbəli",
       "pos" : "adv.",
       "rootHint" : "rad",
       "word" : "globally"
@@ -496,7 +496,7 @@
       ],
       "frequency" : 10520,
       "mnemonic" : "con-（=with, together：一起）+-glomer（=to gather into a ball, collect：\n聚集成球；收集）+-ate（名词后缀）→聚集在一起的物体→企业集",
-      "phonetic" : "kənˈɡlɒm(ə)ɹət",
+      "phonetic" : "kənˈɡlɑm(ə)ɹət",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "conglomerate"
@@ -549,7 +549,7 @@
         "The moon’s round orb would shine high in the sky, casting its velvety light"
       ],
       "frequency" : 18283,
-      "phonetic" : "ɔː(ɹ)b",
+      "phonetic" : "oɹb",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "orb"
@@ -565,7 +565,7 @@
       ],
       "frequency" : 4217,
       "mnemonic" : "orb-（在模仿globe中的“obe：部分”，造出“球，天体”的含义）\n+it（走；运行）→围绕天体运行→绕轨道运行；轨道",
-      "phonetic" : "ˈɔː(ɹ)bɪt",
+      "phonetic" : "ˈɔ(ɹ)bɪt",
       "pos" : "vt.",
       "rootHint" : "rad",
       "word" : "orbit"
@@ -580,7 +580,7 @@
       ],
       "frequency" : 9960,
       "mnemonic" : "orbit（天体轨道；环绕……运行）+-al（形容词后缀，……的）→轨",
-      "phonetic" : "ˈɔːbɪtl",
+      "phonetic" : "ˈɔbɪtl",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "orbital"
@@ -595,7 +595,7 @@
       ],
       "frequency" : 17502,
       "mnemonic" : "orbit（轨道）+ -er（表物体）→引申词义轨道飞行器；宇宙飞船",
-      "phonetic" : "ˈɔːbɪtə",
+      "phonetic" : "ˈɔbɪtə",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "orbiter"
@@ -618,7 +618,7 @@
       ],
       "frequency" : 17267,
       "mnemonic" : "ex-（=out of：出去；脱离；离开）+ orbit（轨道）+ -ant（形容词后\n缀）→脱离正常轨道的→引申义价格高得离谱的",
-      "phonetic" : "ɛɡˈzɔːbɪtənt",
+      "phonetic" : "ɛɡˈzɔbɪtənt",
       "pos" : "adj.",
       "rootHint" : "rad",
       "word" : "exorbitant"
@@ -698,7 +698,7 @@
       ],
       "frequency" : 19468,
       "mnemonic" : "grave（坟墓）+stone（石头）→坟墓上的石头→墓碑",
-      "phonetic" : "ˈgreɪvstəʊn",
+      "phonetic" : "ˈgreɪvstoʊn",
       "pos" : "n.",
       "rootHint" : "rad",
       "word" : "gravestone"

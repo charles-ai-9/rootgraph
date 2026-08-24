@@ -196,7 +196,7 @@
       ],
       "frequency" : 11228,
       "mnemonic" : "oat（燕麦）+ meal（谷物粗粉）→燕麦片；燕麦粥",
-      "phonetic" : "ˈəʊtmiːl",
+      "phonetic" : "ˈoʊtmil",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "oatmeal"
@@ -211,7 +211,7 @@
       ],
       "frequency" : 13275,
       "mnemonic" : "corn（玉米）+ meal（谷物粗粉）→玉米面；玉米粉",
-      "phonetic" : "ˈkɔːnmiːl",
+      "phonetic" : "ˈkɔnmiːl",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "cornmeal"
@@ -590,7 +590,7 @@
       ],
       "frequency" : 10875,
       "mnemonic" : "meno（=monthly courses of females：女性的月经）+ pause（暂停）→\n女性月经的暂停、停止→（女性的）更年期",
-      "phonetic" : "ˈmenəpɔːz",
+      "phonetic" : "ˈmenəpɔz",
       "pos" : "n.",
       "rootHint" : "mens",
       "word" : "menopause"

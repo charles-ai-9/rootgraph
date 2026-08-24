@@ -21,7 +21,7 @@
       ],
       "frequency" : 9404,
       "mnemonic" : "punct-（to have pauses or stops：停顿或中断）+ u + -ate（动词后缀）\n→不时打断；给……加标点符号（表示停顿的点）\n来自拉丁语punctum，点，刺点，来自pungere，刺，击",
-      "phonetic" : "ˈpʌŋ(k)tʃʊeɪt",
+      "phonetic" : "ˈpʌŋktjuːeɪt",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "punctuate"
@@ -35,7 +35,7 @@
 
       ],
       "frequency" : 16520,
-      "phonetic" : "pʌŋ(k)tʃʊˈeɪʃ(ə)n;-tjʊ-",
+      "phonetic" : "pʌŋk.tʃuˈeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "punctuation"
@@ -51,7 +51,7 @@
       ],
       "frequency" : 15260,
       "mnemonic" : "punct-（=prick：刺；点）+ -ure（名词或动词后缀）→刺破；扎破；",
-      "phonetic" : "ˈpʌŋ(k)tʃə",
+      "phonetic" : "ˈpʌŋktʃɚ",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "puncture"
@@ -67,7 +67,7 @@
       ],
       "frequency" : 15892,
       "mnemonic" : "acu-（=ak-：be sharp, pierce：尖；刺）+ -puncture（皮肤上的扎孔）\n→因针刺而在皮肤上留下扎孔→针灸；针刺疗法",
-      "phonetic" : "ˈækjʊˌpʌŋ(k)tʃə",
+      "phonetic" : "ˈæ.kju.ˌpʌŋk.t͡ʃɝ",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "acupuncture"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 9901,
       "mnemonic" : "poign-（=pung-：刺穿）+ -ant（形容词后缀）→感情上被刺穿的→\npoign-（=pung-：刺穿）+ -ant（形容词后缀）→旨在留下深刻印象\n的，直中要害的→尖刻的；切中要害的",
-      "phonetic" : "ˈpɒɪnjənt",
+      "phonetic" : "ˈpɔɪn.jənt",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "poignant"
@@ -101,7 +101,7 @@
       ],
       "frequency" : 13444,
       "mnemonic" : "pung-（to pierce, prick：刺穿；扎；戳）+ -ent（形容词后缀）→刺穿\n的→刺激感官、味觉的（刺鼻的；辛辣的）；一针见血的",
-      "phonetic" : "ˈpʌn(d)ʒ(ə)nt",
+      "phonetic" : "ˈpʌndʒənt",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "pungent"
@@ -136,7 +136,7 @@
       ],
       "frequency" : 18910,
       "mnemonic" : "re-（=back：往回）+ -pugn（=to fight：与……打架）+-ant（形容词\n后缀）→打回去的→让人反感的；令人厌恶的→引申义为不相容的；",
-      "phonetic" : "rɪˈpʌgnənt",
+      "phonetic" : "ɹɪˈpʌɡnənt",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "repugnant"
@@ -188,7 +188,7 @@
       ],
       "frequency" : 1186,
       "mnemonic" : "re-（再；重新）+ place（放置）→重新放置→替换；取代；用……代",
-      "phonetic" : "rɪˈpleɪs",
+      "phonetic" : "ɹɪˈpleɪs",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "replace"
@@ -202,7 +202,7 @@
         "Taylor has nominated Adams as his replacement.\n泰勒已经提名亚当斯为接替者。"
       ],
       "frequency" : 3693,
-      "phonetic" : "rɪˈpleɪsm(ə)nt",
+      "phonetic" : "ɹɪˈpleɪsmənt",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "replacement"
@@ -218,7 +218,7 @@
       ],
       "frequency" : 4540,
       "mnemonic" : "market（市场）+ place（地方）→市场所在地→市场交易；集市",
-      "phonetic" : "ˈmɑːkɪtpleɪs",
+      "phonetic" : "ˈmɑkɪtpleɪs",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "marketplace"
@@ -233,7 +233,7 @@
       ],
       "frequency" : 4325,
       "mnemonic" : "market（工作）+ place（场所）→工作场所",
-      "phonetic" : "ˈwɜːkpleɪs",
+      "phonetic" : "ˈwɝkpleɪs",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "workplace"
@@ -248,7 +248,7 @@
       ],
       "frequency" : 5603,
       "mnemonic" : "fire（火）+ place（地方）→房间中有火的地方→壁炉",
-      "phonetic" : "ˈfaɪəpleɪs",
+      "phonetic" : "ˈfaɪɹpleɪs",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "fireplace"
@@ -263,7 +263,7 @@
       ],
       "frequency" : 7250,
       "mnemonic" : "some（某个）+ place（地方）→某地；某处",
-      "phonetic" : "ˈsʌmpleɪs",
+      "phonetic" : "ˈsʌmˌpleɪs",
       "pos" : "adv.",
       "rootHint" : "punct",
       "word" : "someplace"
@@ -278,7 +278,7 @@
       ],
       "frequency" : 8846,
       "mnemonic" : "common（常见的，寻常的）+ place（说到的地方）→经常说到的地\n方→老生常谈，司空见惯的事",
-      "phonetic" : "ˈkɒmənpleɪs",
+      "phonetic" : "ˈkɑmənˌpleɪs",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "commonplace"
@@ -323,7 +323,7 @@
 
       ],
       "frequency" : 9327,
-      "phonetic" : "dɪsˈpleɪsm(ə)nt",
+      "phonetic" : "dɪsˈpleɪsmɪnt",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "displacement"
@@ -430,7 +430,7 @@
 
       ],
       "frequency" : 4550,
-      "phonetic" : "ˈplænə",
+      "phonetic" : "ˈplænɚ",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "planner"
@@ -492,7 +492,7 @@
       ],
       "frequency" : 3551,
       "mnemonic" : "air（空气）+ plane（飞机）→飞机",
-      "phonetic" : "ˈeəpleɪn",
+      "phonetic" : "ˈɛəɹˌpleɪ̯n",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "airplane"
@@ -507,7 +507,7 @@
       ],
       "frequency" : 15945,
       "mnemonic" : "war（战争）+ plane（飞机）→战争中使用的飞机→战斗机",
-      "phonetic" : "ˈwɔːpleɪn",
+      "phonetic" : "ˈwɔpleɪn",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "warplane"
@@ -540,7 +540,7 @@
       ],
       "frequency" : 7062,
       "mnemonic" : "planet（行星）+-ary（形容词后缀）→行星的",
-      "phonetic" : "ˈplænɪt(ə)rɪ",
+      "phonetic" : "ˈplæ.nə.ˌtɛr.i",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "planetary"
@@ -555,7 +555,7 @@
       ],
       "frequency" : 18562,
       "mnemonic" : "planet（行星）+ -arium（表地点）→即看星星的地方→引申词义天文",
-      "phonetic" : "ˌplænɪˈteərɪəm",
+      "phonetic" : "plænəˈtɛriəm",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "planetarium"
@@ -572,7 +572,7 @@
         "To see a world in a grain of sand，And a heaven in a wild flower,"
       ],
       "frequency" : 3015,
-      "phonetic" : "pɑːm",
+      "phonetic" : "pɑlm",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "palm"
@@ -588,7 +588,7 @@
         "He was floored by the announcement.\n他被这个通告震惊得不知所措。"
       ],
       "frequency" : 640,
-      "phonetic" : "flɔː",
+      "phonetic" : "flɔɹ",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "floor"
@@ -603,7 +603,7 @@
       ],
       "frequency" : 14713,
       "mnemonic" : "floor（地板）+ board（板）→地板板材",
-      "phonetic" : "ˈflɔːbɔːd",
+      "phonetic" : "ˈflɔbɔd",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "floorboard"
@@ -637,7 +637,7 @@
       ],
       "frequency" : 2465,
       "mnemonic" : "来自fl，扑腾，拍打，拟声词，同flap, flutter，拍动，飘动。即模仿",
-      "phonetic" : "flæg",
+      "phonetic" : "flæɡ",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "flag"
@@ -652,7 +652,7 @@
       ],
       "frequency" : 11673,
       "mnemonic" : "flag（旗帜）+ ship（旗；舰）→旗舰；王牌产品· 286 ·",
-      "phonetic" : "ˈflægʃɪp",
+      "phonetic" : "ˈflæɡʃɪp",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "flagship"
@@ -700,7 +700,7 @@
       ],
       "frequency" : 11590,
       "mnemonic" : "field（现场的）+ work（工作）→现场的工作→实地考察；现场调查",
-      "phonetic" : "ˈfiːldwɜːk",
+      "phonetic" : "ˈfildwɝk",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "fieldwork"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 13089,
       "mnemonic" : "air（=aircraft：飞机）+ land（场地）→飞机起落的场地→飞机场；停机坪",
-      "phonetic" : "ˈeəfiːld",
+      "phonetic" : "ˈɛrfiːld",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "airfield"
@@ -746,7 +746,7 @@
       ],
       "frequency" : 14070,
       "mnemonic" : "corn（小麦、玉米等谷物）+ field（田地）→小麦田；玉米田",
-      "phonetic" : "ˈkɔːnfiːld",
+      "phonetic" : "ˈkɔɹnˌfild",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "cornfield"
@@ -875,7 +875,7 @@
       ],
       "frequency" : 7565,
       "mnemonic" : "flat（t双写，平的）+ -en（使变为）→使变平；引申词义夷平；击倒；",
-      "phonetic" : "ˈflæt(ə)n",
+      "phonetic" : "ˈflætən",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "flatten"
@@ -910,7 +910,7 @@
       ],
       "frequency" : 10176,
       "mnemonic" : "flat（平的，t双写）+ -er（表反复）→引申词义俯伏在地，拜倒→奉",
-      "phonetic" : "ˈflætə",
+      "phonetic" : "ˈflætɚ",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "flatter"
@@ -924,7 +924,7 @@
         "It wasn’t a very flattering photograph.\n这张照片照得不如本人好看。"
       ],
       "frequency" : 14984,
-      "phonetic" : "ˈflætərɪŋ",
+      "phonetic" : "ˈflætəɹɪŋ",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "flattering"
@@ -939,7 +939,7 @@
         "You’re too intelligent to fall for his flattery.\n你很聪明，不会受他的阿谀奉承所惑。"
       ],
       "frequency" : 19801,
-      "phonetic" : "ˈflæt(ə)rɪ",
+      "phonetic" : "ˈflætəɹi",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "flattery"
@@ -955,7 +955,7 @@
       ],
       "frequency" : 13806,
       "mnemonic" : "也许来自flutter：挥动，fl-表示拍打→flaunt：炫耀。原义为to display",
-      "phonetic" : "flɔːnt",
+      "phonetic" : "flɔnt",
       "pos" : "vt.",
       "rootHint" : "punct",
       "word" : "flaunt"
@@ -971,7 +971,7 @@
       ],
       "frequency" : 16987,
       "mnemonic" : "flounder=to flop about：扑腾，拍打→引申词义挣扎，陷入困境，不知",
-      "phonetic" : "ˈflaʊndə",
+      "phonetic" : "ˈflaʊndɚ",
       "pos" : "vi.",
       "rootHint" : "punct",
       "word" : "flounder"
@@ -987,7 +987,7 @@
       ],
       "frequency" : 5468,
       "mnemonic" : "邪记：fla-（=flat：平面的）+ w（w形状代表凹陷）→平面上有凹陷，表示",
-      "phonetic" : "flɔː",
+      "phonetic" : "ˈflɔ",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "flaw"
@@ -1016,7 +1016,7 @@
 
       ],
       "frequency" : 11986,
-      "phonetic" : "ˈflɔːləs",
+      "phonetic" : "ˈflɔləs",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "flawless"
@@ -1045,7 +1045,7 @@
 
       ],
       "frequency" : 18408,
-      "phonetic" : "ˈfleɪkɪ",
+      "phonetic" : "ˈfleɪkiː",
       "pos" : "adj.",
       "rootHint" : "punct",
       "word" : "flaky"
@@ -1060,7 +1060,7 @@
       ],
       "frequency" : 12723,
       "mnemonic" : "snow（雪花）+ flake：剥落；小薄片→雪花；雪片",
-      "phonetic" : "ˈsnəʊfleɪk",
+      "phonetic" : "ˈsnoʊ.fleɪk",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "snowflake"

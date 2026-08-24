@@ -26,7 +26,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "get",
+      "phonetic" : "ɡɛt",
       "pos" : "v",
       "rootHint" : "hend",
       "word" : "get"
@@ -59,7 +59,7 @@
       ],
       "frequency" : 875,
       "mnemonic" : "for-（=away：表相反、否定）+get（=to grasp：抓住）→记忆中没有\n抓住→忘记 （某事物、做某事）",
-      "phonetic" : "fəˈget",
+      "phonetic" : "fɚˈɡɛt",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "forget"
@@ -73,7 +73,7 @@
 
       ],
       "frequency" : 10116,
-      "phonetic" : "fəˈɡɒtn",
+      "phonetic" : "fəˈɡʌt.n̩",
       "pos" : "vt",
       "rootHint" : "hend",
       "word" : "forgotten"
@@ -92,7 +92,7 @@
         "The author’s intention is to keep everyone guessing until the bitter end.\n这位作者的意图是在最终结尾前让所有人都猜不透。"
       ],
       "frequency" : 865,
-      "phonetic" : "ges",
+      "phonetic" : "ɡɛs",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "guess"
@@ -107,7 +107,7 @@
       ],
       "frequency" : 7008,
       "mnemonic" : "com-（=completely：完全地）+-prehend（=to seize, take：获得；理\n解）→完全理解、抓住→理解；包含",
-      "phonetic" : "kɒmprɪˈhend",
+      "phonetic" : "kɑmpɹɪˈhɛnd",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "comprehend"
@@ -122,7 +122,7 @@
       ],
       "frequency" : 2919,
       "mnemonic" : "comprehen（包含）+-ive（形容词后缀：表“大”或“多”）→包含多\n的→广泛的，综合的",
-      "phonetic" : "kɒmprɪˈhensɪv",
+      "phonetic" : "ˌkɑm.pɹəˈhɛn.sɪv",
       "pos" : "adj.",
       "rootHint" : "pre",
       "word" : "comprehensive"
@@ -137,7 +137,7 @@
 
       ],
       "frequency" : 7967,
-      "phonetic" : "kɒmprɪˈhenʃ(ə)n",
+      "phonetic" : "kɑmpɹɪˈhɛnʃn̩",
       "pos" : "n.",
       "rootHint" : "pre",
       "word" : "comprehension"
@@ -151,7 +151,7 @@
 
       ],
       "frequency" : 20186,
-      "phonetic" : "kɒmprɪˈhensɪb(ə)l",
+      "phonetic" : "kɑmpɹəˈhɛnsɪbəl",
       "pos" : "adj.",
       "rootHint" : "pre",
       "word" : "comprehensible"
@@ -165,7 +165,7 @@
 
       ],
       "frequency" : 11978,
-      "phonetic" : "ˌɪnkɒmprɪˈhensɪb(ə)l",
+      "phonetic" : "ˌɪnkɑmpɹəˈhɛnsɪbəl",
       "pos" : "adj.",
       "rootHint" : "pre",
       "word" : "incomprehensible"
@@ -196,7 +196,7 @@
       ],
       "frequency" : 17614,
       "mnemonic" : "住）→抓回\nre-（=back：往回）+prieve-（抓住）→抓回监狱，送回监狱→后引申",
-      "phonetic" : "rɪˈpriːv",
+      "phonetic" : "ɹɪˈpɹiːv",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "reprieve"
@@ -213,7 +213,7 @@
       ],
       "frequency" : 4438,
       "mnemonic" : "hold of... together→to include：包括。\ncom-（=together：一起）+-prise（=to take, seize：抓住）→to take",
-      "phonetic" : "kəmˈpraɪz",
+      "phonetic" : "kəmˈpɹaɪz",
       "pos" : "vt.",
       "rootHint" : "pris",
       "word" : "comprise"
@@ -231,7 +231,7 @@
       ],
       "frequency" : 2522,
       "mnemonic" : "抓住）→an undertaking：事业。\nenter-（=between：在……之间）+-pris-（=to take, undertake：拿；承\n担）+-e→把事情拿在手里，抓住……事业→从事，承担，负责的事\n情→企业；开拓精神",
-      "phonetic" : "ˈentəpraɪz",
+      "phonetic" : "ˈɛntɚˌpɹaɪz",
       "pos" : "n.",
       "rootHint" : "pris",
       "word" : "enterprise"
@@ -261,7 +261,7 @@
       ],
       "frequency" : 4321,
       "mnemonic" : "entrepren（=enterprise：企业；事业）+-eur（名词后缀）→创业者；",
-      "phonetic" : "ˌɒntrəprəˈnɜː(r)",
+      "phonetic" : "ˌɑn.trə.prəˈnɝ",
       "pos" : "n.",
       "rootHint" : "pre",
       "word" : "entrepreneur"
@@ -277,7 +277,7 @@
       ],
       "frequency" : 8780,
       "mnemonic" : "entrepreneur（创业者；企业家）+ -ial（形容词后缀）→具有创业素",
-      "phonetic" : "ˌɒntrəprəˈnɜːrɪəl;-ˈnjʊərɪəl",
+      "phonetic" : "ˌɑntɹəpɹəˈnɝɹi.əl",
       "pos" : "adj.",
       "rootHint" : "pre",
       "word" : "entrepreneurial"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 14707,
       "mnemonic" : "The MSc Entrepreneurship：企业管理硕士（Master of Business Admini-\nstration）",
-      "phonetic" : "ˌɒntrəprəˈnɜːʃɪp",
+      "phonetic" : "ˌɑntrəprəˈnɝʃɪp",
       "pos" : "n.",
       "rootHint" : "pre",
       "word" : "entrepreneurship"
@@ -311,7 +311,7 @@
       ],
       "frequency" : 11938,
       "mnemonic" : "ap-（=ad-=to：去）+ pre-（=before：在前；预先）+-hend（=to seize,\ntake：抓住；理解；逮捕）→抓住某人或其感觉、理智、思想（通常\n不是积极肯定的）→引申义为逮捕（依法抓住某人）；意识到（在思",
-      "phonetic" : "æprɪˈhend",
+      "phonetic" : "æ.pɹiˈhɛnd",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "apprehend"
@@ -329,7 +329,7 @@
       ],
       "frequency" : 9683,
       "mnemonic" : "apprehens（=apprehend：忧虑；逮捕；理解，d变s）+-ion（名词后\n缀）→（对未来的）忧虑，担心；逮捕；理解",
-      "phonetic" : "æprɪˈhenʃ(ə)n",
+      "phonetic" : "æp.ɹɪˈhɛn.ʃən",
       "pos" : "n.",
       "rootHint" : "pre",
       "word" : "apprehension"
@@ -364,7 +364,7 @@
       ],
       "frequency" : 8759,
       "mnemonic" : "ap-（=ad：去）+ prent-（=to grasp, learn：抓住；学习）+-ice（名词\n后缀）→还在学习的人→学徒；使……当学徒",
-      "phonetic" : "əˈprentɪs",
+      "phonetic" : "əˈpɹɛntɪs",
       "pos" : "n.",
       "rootHint" : "pre",
       "word" : "apprentice"
@@ -396,7 +396,7 @@
       ],
       "frequency" : 15450,
       "mnemonic" : "re-（=back：往回）+ -pris（=take：抓住）+ -al（名词后缀）→take\nback：为了报复自己承受的损失而夺取其他国家或民族的财务或人民\n→报复",
-      "phonetic" : "rɪˈpraɪz(ə)l",
+      "phonetic" : "ɹɪˈpɹaɪzəl",
       "pos" : "n.",
       "rootHint" : "pris",
       "word" : "reprisal"
@@ -410,7 +410,7 @@
 
       ],
       "frequency" : 8654,
-      "phonetic" : "praɪ",
+      "phonetic" : "pɹaɪ",
       "pos" : "vt.",
       "rootHint" : "hend",
       "word" : "pry"

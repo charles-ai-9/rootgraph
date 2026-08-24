@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "assess",
-      "phonetic": "a'ses",
+      "phonetic": "əˈsɛs",
       "pos": "vt.",
       "definition": "评估；估算",
       "frequency": 2059,
@@ -28,7 +28,7 @@
     },
     {
       "word": "assessor",
-      "phonetic": "ə 'sesə",
+      "phonetic": "əˈsɛsɚ",
       "pos": "n.",
       "definition": "顾问；(财产、费用等的)估价员；(考试等的)考核人",
       "frequency": 18015,
@@ -40,7 +40,7 @@
     },
     {
       "word": "assessment",
-      "phonetic": "ə 'sesmənt",
+      "phonetic": "əˈsesmənt",
       "pos": "n.",
       "definition": "评估；估算",
       "frequency": 1561,
@@ -53,7 +53,7 @@
     },
     {
       "word": "reassess",
-      "phonetic": "ri:a'ses",
+      "phonetic": "ˌriəˈses",
       "pos": "vt.",
       "definition": "重新评价",
       "frequency": 14601,
@@ -65,7 +65,7 @@
     },
     {
       "word": "reassessment",
-      "phonetic": ",riə'sesmənt",
+      "phonetic": "ˌriəˈsesmənt",
       "pos": "n.",
       "definition": "重新评价",
       "frequency": 19846,
@@ -77,7 +77,7 @@
     },
     {
       "word": "obsess",
-      "phonetic": "əb'ses",
+      "phonetic": "əbˈsɛs",
       "pos": "vt.",
       "definition": "&vi. 使迷恋；困扰；心神不宁",
       "frequency": 15696,
@@ -93,7 +93,7 @@
     },
     {
       "word": "obsessed",
-      "phonetic": "ə b'sest",
+      "phonetic": "əbˈsɛst",
       "pos": "adj.",
       "definition": "受困扰的；对……痴迷的",
       "frequency": 6535,
@@ -105,7 +105,7 @@
     },
     {
       "word": "obsession",
-      "phonetic": "əb'seʃ(o)n",
+      "phonetic": "əbˈsɛʃən",
       "pos": "n.",
       "definition": "迷恋；使人痴迷的人(或物)5628",
       "collocations": [
@@ -116,7 +116,7 @@
     },
     {
       "word": "obsessive",
-      "phonetic": "əb'sesiv",
+      "phonetic": "əbˈsɛsɪv",
       "pos": "adj.",
       "definition": "痴迷的 n. 痴迷者",
       "frequency": 10446,
@@ -128,7 +128,7 @@
     },
     {
       "word": "obsessively",
-      "phonetic": "əb'sesivli",
+      "phonetic": "əbˈsesɪvlɪ",
       "pos": "adv.",
       "definition": "过分地；着迷地，着魔似地",
       "frequency": 18638,
@@ -140,7 +140,7 @@
     },
     {
       "word": "possess",
-      "phonetic": "pə'zes",
+      "phonetic": "pəˈzɛs",
       "pos": "vt.",
       "definition": "拥有；具有(特质);支配",
       "frequency": 2864,
@@ -160,7 +160,7 @@
     },
     {
       "word": "session",
-      "phonetic": "'seʃ(a)n",
+      "phonetic": "ˈsɛʃən",
       "pos": "n.",
       "definition": "开庭；会议； 一场(活动)1553",
       "mnemonic": "sess-(=sit: 坐下)+-ion(名词后缀)→在一段时间内坐下参加某活动→开 庭；会议；一场(活动)",
@@ -173,7 +173,7 @@
     },
     {
       "word": "cathedral",
-      "phonetic": "kə'θi:dr(a)l",
+      "phonetic": "kəˈθiː.dɹəl",
       "pos": "n.",
       "definition": "大教堂；主教座堂",
       "frequency": 7511,
@@ -185,7 +185,7 @@
     },
     {
       "word": "site",
-      "phonetic": "sart",
+      "phonetic": "saɪt",
       "pos": "n.",
       "definition": "地点；场所；网站vt. 使坐落于",
       "frequency": 533,
@@ -198,7 +198,7 @@
     },
     {
       "word": "on-site",
-      "phonetic": "pn-sart",
+      "phonetic": "ɑn sɑɪt",
       "pos": "adj.",
       "definition": "现场的",
       "frequency": 9258,
@@ -210,7 +210,7 @@
     },
     {
       "word": "website",
-      "phonetic": "'websart",
+      "phonetic": "ˈwɛbˌsaɪt",
       "pos": "n.",
       "definition": "网站",
       "frequency": 5003,
@@ -223,7 +223,7 @@
     },
     {
       "word": "campsite",
-      "phonetic": "'kæmpsart",
+      "phonetic": "ˈkæmpsaɪt",
       "pos": "n.",
       "definition": "露营地",
       "frequency": 11684,
@@ -234,7 +234,7 @@
     },
     {
       "word": "situate",
-      "phonetic": "'sitfuert;- tju-",
+      "phonetic": "ˈsɪt͡ʃueɪt",
       "pos": "vt.",
       "definition": "使位于；使坐落于",
       "frequency": 6501,
@@ -247,7 +247,7 @@
     },
     {
       "word": "situation",
-      "phonetic": "srtju'erʃ(an",
+      "phonetic": "sɪtjuːˈeɪʃən",
       "pos": "n.",
       "definition": "情况；形势",
       "frequency": 549,
@@ -260,7 +260,7 @@
     },
     {
       "word": "situational",
-      "phonetic": "sitju'erʃənəl",
+      "phonetic": "sɪtjuːˈeɪʃənəl",
       "pos": "adj.",
       "definition": "情景的",
       "frequency": 12090,
@@ -272,7 +272,7 @@
     },
     {
       "word": "sitcom",
-      "phonetic": "'srtkom",
+      "phonetic": "ˈsɪtkɑm",
       "pos": "abbr",
       "definition": ": 情景喜剧",
       "frequency": 7787,
@@ -285,7 +285,7 @@
     },
     {
       "word": "provost",
-      "phonetic": "'prpvəst",
+      "phonetic": "ˈpɹoʊvoʊst",
       "pos": "n.",
       "definition": "大学院长；大学教务长；(苏格兰的)市长， 镇长",
       "frequency": 20101,
@@ -299,7 +299,7 @@
     },
     {
       "word": "chair",
-      "phonetic": "tfeə",
+      "phonetic": "t͡ʃɛəɹ",
       "pos": "n.",
       "definition": "椅子；大学教授；主席 vt.担任(会议、委员会)主席",
       "frequency": 949,
@@ -314,7 +314,7 @@
     },
     {
       "word": "chairman",
-      "phonetic": "'tfeəmən",
+      "phonetic": "ˈtʃɛːmən",
       "pos": "n.",
       "definition": "( 委员会、组织机构、公司的)主席；(会议、辩论的) 主持人",
       "frequency": 1379,
@@ -327,7 +327,7 @@
     },
     {
       "word": "chairmanship",
-      "phonetic": "'tfermənfip",
+      "phonetic": "ˈtʃermənʃɪp",
       "pos": "n.",
       "definition": "主席职位；主席任期",
       "frequency": 18606,
@@ -339,7 +339,7 @@
     },
     {
       "word": "chairperson",
-      "phonetic": "'tfeaps:s(3)n",
+      "phonetic": "ˈtʃerpɜrsn",
       "pos": "n.",
       "definition": "(会议)主持人；(委员会、组织的)主席",
       "frequency": 17494,
@@ -351,7 +351,7 @@
     },
     {
       "word": "size",
-      "phonetic": "sarz",
+      "phonetic": "saɪz",
       "pos": "n.",
       "definition": "大小；尺寸；巨大v.按大小排列",
       "frequency": 753,
@@ -366,7 +366,7 @@
     },
     {
       "word": "sizable",
-      "phonetic": "'sarzəbl",
+      "phonetic": "ˈsaɪzəbəl",
       "pos": "adj.",
       "definition": "相当大的",
       "frequency": 8762,
@@ -378,7 +378,7 @@
     },
     {
       "word": "downsize",
-      "phonetic": "'daunsarz",
+      "phonetic": "ˈdaʊnsaɪz",
       "pos": "vt.",
       "definition": "&vi. 使缩小规模",
       "frequency": 10838,
@@ -391,7 +391,7 @@
     },
     {
       "word": "downsizing",
-      "phonetic": "'daun,sarziŋ",
+      "phonetic": "ˈdaʊnsaɪzɪŋ",
       "pos": "n.",
       "definition": "缩小规模",
       "frequency": 18137,
@@ -405,7 +405,7 @@
     },
     {
       "word": "life-size",
-      "phonetic": "'laifsaiz",
+      "phonetic": "ˈlaɪfˈsaɪz",
       "pos": "adj.",
       "definition": "与真人(或实物)一样大小的",
       "frequency": 16097,
@@ -420,7 +420,7 @@
     },
     {
       "word": "medium-sized",
-      "phonetic": "'mi:diam'saizd",
+      "phonetic": "ˈmiːdiəmˈsaizd",
       "pos": "adj.",
       "definition": "中型的；中等大小的",
       "frequency": 13583,
@@ -432,7 +432,7 @@
     },
     {
       "word": "mid-size",
-      "phonetic": "'midsarz",
+      "phonetic": "ˈmɪdsaɪz",
       "pos": "adj.",
       "definition": "中等大小的",
       "frequency": 15621,
@@ -445,7 +445,7 @@
     },
     {
       "word": "soil",
-      "phonetic": "soil",
+      "phonetic": "sɔɪl",
       "pos": "n.",
       "definition": "土壤；领土v.弄 脏",
       "collocations": [
@@ -457,7 +457,7 @@
     },
     {
       "word": "soot",
-      "phonetic": "sut",
+      "phonetic": "suːt",
       "pos": "n.",
       "definition": "煤烟灰",
       "frequency": 15123,
@@ -469,7 +469,7 @@
     },
     {
       "word": "supersede",
-      "phonetic": ",su:pə'si:d;sju:-",
+      "phonetic": "ˌsuːpəˈsiːd",
       "pos": "vt.",
       "definition": "取代；替代(已非最佳选择或已过时的事物)",
       "frequency": 14693,
@@ -482,7 +482,7 @@
     },
     {
       "word": "nest",
-      "phonetic": "nest",
+      "phonetic": "nɛst",
       "pos": "n.",
       "definition": "(鸟类的)巢 vi. 筑巢 n.(昆虫或其他动物的)巢穴",
       "frequency": 4174,
@@ -497,7 +497,7 @@
     },
     {
       "word": "nestle",
-      "phonetic": "'nes(a)l",
+      "phonetic": "ˈnɛsəl",
       "pos": "vt.",
       "definition": "&vi. 舒服地靠在；依偎 vi. 位处，坐落(于安全、隐蔽之处)",
       "frequency": 8890,
@@ -511,7 +511,7 @@
     },
     {
       "word": "niche",
-      "phonetic": "ni:[;nitʃ ",
+      "phonetic": "niʃ",
       "pos": "n.",
       "definition": "( 有特定的要求、顾客群和产品的)专营市场 adj. 专营市场 的；合适的职位",
       "frequency": 5902,
@@ -522,7 +522,7 @@
     },
     {
       "word": "nick",
-      "phonetic": "nik",
+      "phonetic": "nɪk",
       "pos": "vt.",
       "definition": "划伤n. 划痕；别名",
       "frequency": 18744,

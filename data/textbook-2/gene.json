@@ -437,7 +437,7 @@
 
       ],
       "frequency" : 19422,
-      "phonetic" : "ˈθɜːdˌdʒenəˈreʃən",
+      "phonetic" : "ˈθɝdˌdʒenəˈreʃən",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "third-generation"
@@ -482,7 +482,7 @@
       ],
       "frequency" : 17643,
       "mnemonic" : "pro-(=forth，向前，朝向)+-gen(=gene, to produce, beget生育)+-y(名词\n后缀)子孙→向前生育了很多(孩子)→后裔，后代，成果",
-      "phonetic" : "ˈpɹɒdʒəni",
+      "phonetic" : "ˈpɹɑdʒəni",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "progeny"
@@ -648,7 +648,7 @@
       ],
       "frequency" : 8101,
       "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-osity(名词后缀，表多的状态)→\n很多的慷慨→慷慨；宽宏大量；大方",
-      "phonetic" : "ˌd͡ʒɛnəˈɹɒsɪti",
+      "phonetic" : "ˌd͡ʒɛnəˈɹɑsəti",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "generosity"
@@ -785,7 +785,7 @@
       ],
       "frequency" : 7513,
       "mnemonic" : "gen(e)-(=to give birth, beget，生)+-ome(from“chromosome”染色体)→\n出生时就带有的染色体的组合，将一种生物与其他有机体区分开来→",
-      "phonetic" : "ˈdʒiː.nəʊm",
+      "phonetic" : "dʒɨˈnoʊm",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "genome"
@@ -1033,7 +1033,7 @@
       ],
       "frequency" : 18250,
       "mnemonic" : "germin(=a sprout or bud，芽)+ate(动词后缀)→使发芽，形成",
-      "phonetic" : "ˈdʒɜːmɪneɪt",
+      "phonetic" : "ˈdʒɝmɪneɪt",
       "pos" : "vt.",
       "rootHint" : "*gene",
       "word" : "germinate"
@@ -1069,7 +1069,7 @@
       ],
       "frequency" : 11504,
       "mnemonic" : "homo-(=same，同，同一)+-gene-(类型，种属)+-ous(形容词后缀)→生\n来就属于同一种类的→同质的，同种的",
-      "phonetic" : "ˌhɒ.mə(ʊ)ˈdʒiː.nɪəs",
+      "phonetic" : "ˌhoʊ.moʊˈdʒiː.njəs",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "homogeneous"
@@ -1084,7 +1084,7 @@
       ],
       "frequency" : 16164,
       "mnemonic" : "homogeneous(类型，种属)+-ity(名词后缀)→生来就属于同一种类→同",
-      "phonetic" : "ˌhɒ.mə(ʊ).dʒəˈneɪ.ə.ti",
+      "phonetic" : "ˌhoʊ.mə.dʒəˈneɪ.ə.ti",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "homogeneity"
@@ -1128,7 +1128,7 @@
       ],
       "frequency" : 3875,
       "mnemonic" : "oxy-(=acid，sharp)+-gen(产生的东西)→能强烈地帮助气体燃烧→氧气",
-      "phonetic" : "ˈɒksɪdʒən",
+      "phonetic" : "ˈɑksɪdʒən",
       "pos" : "n.",
       "rootHint" : "*gene",
       "word" : "oxygen"
@@ -1193,7 +1193,7 @@
 
       ],
       "frequency" : 19506,
-      "phonetic" : "ˈdʒɑːn.ti",
+      "phonetic" : "ˈdʒɑn.ti",
       "pos" : "adj.",
       "rootHint" : "*gene",
       "word" : "jaunty"

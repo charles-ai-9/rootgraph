@@ -24,7 +24,7 @@
       ],
       "frequency" : 6389,
       "mnemonic" : "pot-（=powerful：强有力的）+ -ent（形容词后缀）→强有力的；有",
-      "phonetic" : "ˈpəʊt(ə)nt",
+      "phonetic" : "ˈpoʊt(ə)nt",
       "pos" : "adj.",
       "rootHint" : "pot",
       "word" : "potent"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 13892,
       "mnemonic" : "poten（=potent：强大的；有强效的）+ -cy（名词后缀）→影响力",
-      "phonetic" : "ˈpəʊtnsɪ",
+      "phonetic" : "ˈpoʊtnsɪ",
       "pos" : "n.",
       "rootHint" : "pot",
       "word" : "potency"
@@ -56,7 +56,7 @@
       ],
       "frequency" : 16129,
       "mnemonic" : "im-（=not：表反义）+ potent（powerful）→无能为力的",
-      "phonetic" : "ˈɪmpət(ə)nt",
+      "phonetic" : "ˈɪm.pə.tənt",
       "pos" : "adj.",
       "rootHint" : "pot",
       "word" : "impotent"
@@ -90,7 +90,7 @@
       ],
       "frequency" : 1266,
       "mnemonic" : "potent（=possible：可能的，潜在的；-ent和-ible均为后缀）+ial（名\n词或形容词后缀）→潜在的（adj.）；潜力，潜质（n.）",
-      "phonetic" : "pəˈtenʃl",
+      "phonetic" : "po(ʊ)ˈtɛnʃəl",
       "pos" : "adj.",
       "rootHint" : "pot",
       "word" : "potential"
@@ -104,7 +104,7 @@
         "Clearly this is a potentially dangerous situation.\n显然这是一种具有潜在危险的局势。"
       ],
       "frequency" : 2854,
-      "phonetic" : "pəˈtɛnʃəli",
+      "phonetic" : "pəˈtɛnʃ(ə)li",
       "pos" : "adv.",
       "rootHint" : "pot",
       "word" : "potentially"

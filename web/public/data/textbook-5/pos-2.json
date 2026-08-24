@@ -22,7 +22,7 @@
       ],
       "frequency" : 460,
       "mnemonic" : "poss-（能；能够）+ -ible（形容词后缀）→可能的；可能的人（或",
-      "phonetic" : "ˈpɒsɪb(ə)l",
+      "phonetic" : "ˈpɑsəbl̩",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "possible"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 1199,
       "mnemonic" : "possib（=possible：可能的）+-ility（名词后缀）→可能性",
-      "phonetic" : "ˌpɒsɪˈbɪlɪtɪ",
+      "phonetic" : "ˌpɑsɪˈbɪliti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "possibility"
@@ -53,7 +53,7 @@
         "They were casually dressed, possibly students.\n他们穿着随意，可能是学生。"
       ],
       "frequency" : 1708,
-      "phonetic" : "ˈpɒsɪblɪ",
+      "phonetic" : "ˈpɑsəbli",
       "pos" : "adv.",
       "rootHint" : "pos",
       "word" : "possibly"
@@ -71,7 +71,7 @@
       ],
       "frequency" : 1615,
       "mnemonic" : "im-（=in-：not）+ possible（可能的）→不可能的；极难应付的；难以",
-      "phonetic" : "ɪmˈpɒsɪb(ə)l",
+      "phonetic" : "ɪmˈpɑ.səbl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "impossible"
@@ -99,7 +99,7 @@
 
       ],
       "frequency" : 13232,
-      "phonetic" : "ɪmˌpɒsɪˈbɪlɪtɪ",
+      "phonetic" : "ɪmˌpɑsɪˈbɪliti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "impossibility"
@@ -118,7 +118,7 @@
       ],
       "frequency" : 17556,
       "mnemonic" : "关郡县的）→民防团；一群",
-      "phonetic" : "ˈpɒsɪ",
+      "phonetic" : "ˈpɑ.si",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "posse"
@@ -133,7 +133,7 @@
 
       ],
       "frequency" : 1916,
-      "phonetic" : "bɪə",
+      "phonetic" : "bɪɹ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "beer"
@@ -149,7 +149,7 @@
       ],
       "frequency" : 6938,
       "mnemonic" : "拉丁语bibere（喝）→bever（喝）+ -age（名词后缀，表物品）→喝\n的东西→饮料",
-      "phonetic" : "ˈbev(ə)rɪdʒ",
+      "phonetic" : "ˈbevəɹɪdʒ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "beverage"
@@ -164,7 +164,7 @@
       ],
       "frequency" : 15761,
       "mnemonic" : "pot-（饮；喝）+ -ion（名词后缀）→饮剂",
-      "phonetic" : "ˈpəʊʃ(ə)n",
+      "phonetic" : "ˈpoʊ.ʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "potion"
@@ -182,7 +182,7 @@
         "What’s your poison? （不正式地，幽默地用于问别人想喝什么酒）"
       ],
       "frequency" : 5614,
-      "phonetic" : "ˈpɒɪz(ə)n",
+      "phonetic" : "ˈpɔɪz(ə)n",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "poison"
@@ -196,7 +196,7 @@
         "The police suspected poisoning. 警方怀疑有人下毒。"
       ],
       "frequency" : 9814,
-      "phonetic" : "ˈpɒɪzənɪŋ",
+      "phonetic" : "ˈpɑɪzənɪŋ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "poisoning"
@@ -211,7 +211,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "ˈpɒɪzənəs",
+      "phonetic" : "ˈpɔɪznəs",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "poisonous"
@@ -225,7 +225,7 @@
 
       ],
       "frequency" : 19135,
-      "phonetic" : "ˈpɔiznd",
+      "phonetic" : "ˈpɔɪzn̩d",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "poisoned"
@@ -243,7 +243,7 @@
       ],
       "frequency" : 4128,
       "mnemonic" : "tox（=poison：毒）+ -ic（形容词后缀）→有毒的（资产）",
-      "phonetic" : "ˈtɒksɪk",
+      "phonetic" : "ˈtɑk.sɪk",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "toxic"
@@ -258,7 +258,7 @@
       ],
       "frequency" : 12661,
       "mnemonic" : "toxic（有毒的）+ -ity（名词后缀）→毒性；毒力；毒性反应",
-      "phonetic" : "tɒkˈsɪsətɪ",
+      "phonetic" : "tɑkˈsɪsəti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "toxicity"
@@ -275,7 +275,7 @@
       ],
       "frequency" : 8751,
       "mnemonic" : "tox-（=toxic：有毒的）+ -in（化学名词后缀）→毒素",
-      "phonetic" : "ˈtɒksɪn",
+      "phonetic" : "ˈtɑksɪn",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "toxin"
@@ -291,7 +291,7 @@
       ],
       "frequency" : 17287,
       "mnemonic" : "助 记 ： in-（ 使 ） + toxic（ 毒 药 ； 毒 剂 ） + -ate（ 动 词 后 缀 ） → 使 喝 醉",
-      "phonetic" : "ɪnˈtɒksɪkeɪt",
+      "phonetic" : "ɪnˈtɑksɪkeɪt",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "intoxicate"
@@ -306,7 +306,7 @@
 
       ],
       "frequency" : 18726,
-      "phonetic" : "ɪnˈtɒksɪˌkeɪtɪŋ",
+      "phonetic" : "ɪnˈtɑksɪˌkeɪtɪŋ",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "intoxicating"
@@ -324,7 +324,7 @@
         "Intoxication interferes with memory and thinking, speech and coordination.\n醉酒影响记忆、思考，讲话和协调性。\n单词 host 基本含义为“主人，主办，主持”等。"
       ],
       "frequency" : 18751,
-      "phonetic" : "ɪnˌtɒksɪˈkeɪʃn",
+      "phonetic" : "ɪnˌtɑksɪˈkeɪʃn",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "intoxication"
@@ -342,7 +342,7 @@
 
       ],
       "frequency" : 1853,
-      "phonetic" : "həʊst",
+      "phonetic" : "hoʊst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "host"
@@ -358,7 +358,7 @@
       ],
       "frequency" : 1317,
       "mnemonic" : "host：主人→guest：客人",
-      "phonetic" : "gest",
+      "phonetic" : "ɡɛst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "guest"
@@ -373,7 +373,7 @@
       ],
       "frequency" : 10581,
       "mnemonic" : "host（主人；房东；主持人）+ -ess（表阴性）→女主人；女房东；女",
-      "phonetic" : "ˈhəʊstɪs;-es;həʊˈstes",
+      "phonetic" : "ˈhoʊstəs",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hostess"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 17680,
       "mnemonic" : "co-（=together with：和……一起；共同；联合）+ host（主办；主持\n人）→共同主办；搭档主持人",
-      "phonetic" : "ˈkoˌhost",
+      "phonetic" : "koʊˈhoʊst",
       "pos" : "v.",
       "rootHint" : "pos",
       "word" : "co-host"
@@ -403,7 +403,7 @@
       ],
       "frequency" : 1005,
       "mnemonic" : "1640s, “public official residence; large private residence,” 来自法语hôtel",
-      "phonetic" : "həʊˈtel",
+      "phonetic" : "hoʊˈtɛl",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hotel"
@@ -421,7 +421,7 @@
       ],
       "frequency" : 16692,
       "mnemonic" : "host(客人)+-el(名词后缀) →客人住的地方→宿舍，招待所；收容所",
-      "phonetic" : "ˈhɒst(ə)l",
+      "phonetic" : "ˈhɑstəl",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hostel"
@@ -438,7 +438,7 @@
       ],
       "frequency" : 648,
       "mnemonic" : "hospital：guest-house：为客人或有需要的人提供住宿的地方→医院",
-      "phonetic" : "ˈhɒspɪt(ə)l",
+      "phonetic" : "ˈhɑs.pɪ.tl̩",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hospital"
@@ -453,7 +453,7 @@
       ],
       "frequency" : 15010,
       "mnemonic" : "hospit（=guest：客人）+ -able（形容词后缀）→客人感到舒服愉快的\n→好客的；殷勤周到的；引申义为（气候、环境等）适宜（人居住）",
-      "phonetic" : "hɒˈspɪtəb(ə)l;ˈhɒspɪt-",
+      "phonetic" : "hɑsˈpɪtəbl̩",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "hospitable"
@@ -468,7 +468,7 @@
       ],
       "frequency" : 19558,
       "mnemonic" : "in-（=not：不）+hospitable（殷勤周到的；宜居的）→不殷勤好客",
-      "phonetic" : "ˌɪnhɒˈspɪtəb(ə)l;ɪnˈhɒspɪt-",
+      "phonetic" : "ˌɪnhɑsˈpɪtəbəl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "inhospitable"
@@ -487,7 +487,7 @@
       ],
       "frequency" : 8528,
       "mnemonic" : "hospit（=guest：客人）+ -ality（名词后缀）→对客人友好；款待",
-      "phonetic" : "hɒspɪˈtælɪtɪ",
+      "phonetic" : "hɑs.pɪˈtæl.ɪ.ti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hospitality"
@@ -502,7 +502,7 @@
       ],
       "frequency" : 10325,
       "mnemonic" : "hospital（医院）+ -ize（动词后缀，使……）→送……住院治疗",
-      "phonetic" : "ˈhɒspɪt(ə)laɪz",
+      "phonetic" : "ˈhɑspɪt(ə)laɪz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "hospitalize"
@@ -516,7 +516,7 @@
         "Occasionally hospitalization is required to combat dehydration.\n治疗脱水有时需要住院。"
       ],
       "frequency" : 11720,
-      "phonetic" : "ˌhɒspɪtəlaɪˈzeɪʃən",
+      "phonetic" : "ˌhɑspɪtəlaɪˈzeɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hospitalization"
@@ -535,7 +535,7 @@
 
       ],
       "frequency" : 10564,
-      "phonetic" : "ˈhɒspɪs",
+      "phonetic" : "ˈhɑspɪs",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hospice"
@@ -553,7 +553,7 @@
       ],
       "frequency" : 4012,
       "mnemonic" : "hostage：person given as security→被当作抵押品的人，即人质",
-      "phonetic" : "ˈhɒstɪdʒ",
+      "phonetic" : "ˈhɑstɪdʒ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hostage"
@@ -575,7 +575,7 @@
       ],
       "frequency" : 4206,
       "mnemonic" : "host-（an enemy）+ -ile（形容词后缀，易于…的）→易于成为敌人的\n→敌对的；恶意的；敌方的",
-      "phonetic" : "ˈhɒstaɪl",
+      "phonetic" : "ˈhɑstaɪl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "hostile"
@@ -598,7 +598,7 @@
       ],
       "frequency" : 5278,
       "mnemonic" : "hostil（=hostile：敌对的；反对的）+ -ity（名词后缀）→敌意；敌",
-      "phonetic" : "hɒˈstɪlɪtɪ",
+      "phonetic" : "hɑˈstɪlɪti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "hostility"
@@ -616,7 +616,7 @@
       ],
       "frequency" : 2198,
       "mnemonic" : "territ-（=terr-=earth, land：土地）+ -ory（=-ary：名词后缀，可表地\n方），原指领主管辖区域→引申词义为领土；属地；领域；地盘",
-      "phonetic" : "ˈteritəri",
+      "phonetic" : "ˈtɛɹɪt(ə)ɹi",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "territory"
@@ -631,7 +631,7 @@
       ],
       "frequency" : 6885,
       "mnemonic" : "territor（=territory：领土）+ -ial（形容词后缀）→领土的；有地盘意",
-      "phonetic" : "ˌterəˈtɔːriəl",
+      "phonetic" : "ˌtɛ.ɹɪˈtɔ.ɹi.əl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "territorial"
@@ -646,7 +646,7 @@
       ],
       "frequency" : 4543,
       "mnemonic" : "terr-（土地；陆地）+ -ain（名词后缀）→地形，地势；地带",
-      "phonetic" : "təˈreɪn",
+      "phonetic" : "tə.ˈreɪn",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "terrain"
@@ -664,7 +664,7 @@
       ],
       "frequency" : 6523,
       "mnemonic" : "terr-（土地；陆地）+ -ace（名词后缀）→原指在土地上所修建的平\n台或平整土地使成平台状→引申为露台；草坪；梯田",
-      "phonetic" : "ˈterəs",
+      "phonetic" : "ˈtɛɹəs",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "terrace"
@@ -696,7 +696,7 @@
       ],
       "frequency" : 9834,
       "mnemonic" : "terrestri-（=earthly, on land：地球的；在陆地上）+ -al（形容词后缀）\n→（动植物）陆生的；地球的",
-      "phonetic" : "təˈrestrɪəl",
+      "phonetic" : "təˈɹɛstɹi.əl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "terrestrial"
@@ -713,7 +713,7 @@
       ],
       "frequency" : 16273,
       "mnemonic" : "extra-（=outside：在……之外）+ terrestrial（陆生的；地球的）即地\n球之外的→地球外的；外星人",
-      "phonetic" : "ˌekstrətəˈrestrɪəl",
+      "phonetic" : "ˌɛkstɹətɚˈɛstɹi.əl",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "extraterrestrial"
@@ -745,7 +745,7 @@
       ],
       "frequency" : 12055,
       "mnemonic" : "torr-（=burn, dry：燃烧，使干燥）+ -ent（名词后缀）→后用于指激",
-      "phonetic" : "ˈtɒr(ə)nt",
+      "phonetic" : "ˈtɑɹ.ənt",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "torrent"
@@ -760,7 +760,7 @@
       ],
       "frequency" : 16165,
       "mnemonic" : "terr-=earth：土。terrier=earth dog：一种小型猎狗，因喜欢把猎物赶到",
-      "phonetic" : "ˈterɪə",
+      "phonetic" : "ˈterɪr",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "terrier"
@@ -776,7 +776,7 @@
 
       ],
       "frequency" : 11084,
-      "phonetic" : "θɜːst",
+      "phonetic" : "θɝst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "thirst"
@@ -791,7 +791,7 @@
       ],
       "frequency" : 10573,
       "mnemonic" : "thirst（口渴；干渴；渴望）+ -y（形容词后缀）→口渴的；渴望的；",
-      "phonetic" : "ˈθɜːstɪ",
+      "phonetic" : "ˈθɝst.i",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "thirsty"
@@ -809,7 +809,7 @@
         "Toast the bread lightly on both sides.\n把面包的两面稍微烤一下。"
       ],
       "frequency" : 6251,
-      "phonetic" : "təʊst",
+      "phonetic" : "toʊst",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "toast"
@@ -823,7 +823,7 @@
 
       ],
       "frequency" : 11777,
-      "phonetic" : "tost",
+      "phonetic" : "təustid",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "toasted"
@@ -837,7 +837,7 @@
 
       ],
       "frequency" : 15511,
-      "phonetic" : "ˈtəʊstə",
+      "phonetic" : "ˈtoʊstɚ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "toaster"

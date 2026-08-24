@@ -25,7 +25,7 @@
       ],
       "frequency" : 9743,
       "mnemonic" : "a（=to）+ -scend（=climb：爬；攀登）→攀登；上升",
-      "phonetic" : "əˈsend",
+      "phonetic" : "əˈsɛnd",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "ascend"
@@ -41,7 +41,7 @@
       ],
       "frequency" : 10561,
       "mnemonic" : "ascend：vt.&vi. 上升；登高→ascent：n. 上升；登高；攀登；进步",
-      "phonetic" : "əˈsent",
+      "phonetic" : "əˈsɛnt",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "ascent"
@@ -56,7 +56,7 @@
       ],
       "frequency" : 15482,
       "mnemonic" : "ascend（上升）+ -ing（形容词后缀）→升序的",
-      "phonetic" : "əˈsendɪŋ",
+      "phonetic" : "əˈsɛndɪŋ",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "ascending"
@@ -106,7 +106,7 @@
       ],
       "frequency" : 4046,
       "mnemonic" : "de-（向下）+ -scend（=climb：爬；攀）→向下爬，延续→下降；下",
-      "phonetic" : "dɪˈsend",
+      "phonetic" : "dɪˈsɛnd",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "descend"
@@ -123,7 +123,7 @@
       ],
       "frequency" : 5527,
       "mnemonic" : "descend：vt.&vi. 下降；下斜→descent：n. 下降；斜坡；沦落；血统",
-      "phonetic" : "dɪˈsent",
+      "phonetic" : "dɪˈsɛnt",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "descent"
@@ -138,7 +138,7 @@
       ],
       "frequency" : 14880,
       "mnemonic" : "descend（下降）+ -ing（形容词后缀）→递降的",
-      "phonetic" : "dɪˈsendɪŋ",
+      "phonetic" : "dɪˈsɛndɪŋ",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "descending"
@@ -153,7 +153,7 @@
       ],
       "frequency" : 6224,
       "mnemonic" : "descend（下降）+ -ant（名词后缀，表人）→向下延续的人→后代，",
-      "phonetic" : "dɪˈsendənt",
+      "phonetic" : "dɪˈsɛndənt",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "descendant"
@@ -168,7 +168,7 @@
       ],
       "frequency" : 6761,
       "mnemonic" : "trans-（=across, beyond：横过；超过）+ -scend（攀爬（s因重复而\n略））→攀越过去，超出→超出；超越",
-      "phonetic" : "trænˈsend",
+      "phonetic" : "tɹæn(t)ˈsɛnd",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "transcend"
@@ -183,7 +183,7 @@
       ],
       "frequency" : 13478,
       "mnemonic" : "transcend（超出；超越）+ -ent（形容词后缀）→引申词义超越的；",
-      "phonetic" : "trænˈsendənt",
+      "phonetic" : "tɹæn(t)ˈsɛndənt",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "transcendent"
@@ -201,7 +201,7 @@
       ],
       "frequency" : 17237,
       "mnemonic" : "transcendent（超越的）+ -al（形容词后缀）→超越理性理解范围的→",
-      "phonetic" : "ˌtrænsenˈdentl",
+      "phonetic" : "ˌtɹænsɛnˈdɛntəl",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "transcendental"
@@ -217,7 +217,7 @@
       ],
       "frequency" : 14176,
       "mnemonic" : "transcend（=transcendent：超越的）+ -ence（名词后缀）→超越",
-      "phonetic" : "trænˈsendəns",
+      "phonetic" : "tɹæn(t)ˈsɛndəns",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "transcendence"
@@ -232,7 +232,7 @@
       ],
       "frequency" : 15946,
       "mnemonic" : "con-（强调）+ descend（下降）+ -ing（形容词后缀）→即上面下来\n的→居高临下的；高人一等的",
-      "phonetic" : "kɒndɪˈsendɪŋ",
+      "phonetic" : "ˌkɑndəˈsɛndɪŋ",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "condescending"
@@ -253,7 +253,7 @@
       ],
       "frequency" : 5435,
       "mnemonic" : "merg-（沉入；浸入）+ -e→合并；融入\n邪解：merge：读音很像中文“没之” →吞没，淹没；消失，合并（合并即",
-      "phonetic" : "mɜːdʒ",
+      "phonetic" : "mɝdʒ",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "merge"
@@ -269,7 +269,7 @@
       ],
       "frequency" : 5072,
       "mnemonic" : "merger表“兼并，合并”源于“merge：吞没”（即：“吞没”其他\nmerg-（合并；融入）+ -er（名词后缀）→合并；兼并；融合",
-      "phonetic" : "ˈmɜːdʒə",
+      "phonetic" : "ˈmɝdʒɚ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "merger"
@@ -284,7 +284,7 @@
       ],
       "frequency" : 20127,
       "mnemonic" : "merg-（合并；融入）+ -ing（名词后缀）→合并；融合；融入",
-      "phonetic" : "ˈmɜːdʒɪŋ",
+      "phonetic" : "ˈmɝdʒɪŋ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "merging"
@@ -302,7 +302,7 @@
       ],
       "frequency" : 1307,
       "mnemonic" : "e-（=ex-=out：出现；出来）+ merge（沉入；浸没）→从沉没中出来\n→出现，浮现；暴露；显现；（从困境或苦难经历中）摆脱出来",
-      "phonetic" : "ɪˈmɜːdʒ",
+      "phonetic" : "iˈmɝd͡ʒ",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "emerge"
@@ -317,7 +317,7 @@
       ],
       "frequency" : 16122,
       "mnemonic" : "re-（=again：再次）+ emerge（出现）→再次出现→重现",
-      "phonetic" : "ˌriː iˈmɜːrdʒ",
+      "phonetic" : "ˌriː iˈmɝrdʒ",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "re-emerge"
@@ -334,7 +334,7 @@
       ],
       "frequency" : 4528,
       "mnemonic" : "emerg（=emerge：出现；显露）+ -ing（形容词后缀）→正在出现\n的；渐渐显露实力的→新兴的；渐渐显露头角的",
-      "phonetic" : "ɪˈmɜːdʒɪŋ",
+      "phonetic" : "ɪˈmɝdʒɪŋ",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "emerging"
@@ -350,7 +350,7 @@
       ],
       "frequency" : 5799,
       "mnemonic" : "emerg（=emerge：出现；浮现；露出）+ -ence（名词后缀）→出现；",
-      "phonetic" : "ɪˈmɜːdʒəns",
+      "phonetic" : "ɪˈmɝdʒ(ə)ns",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "emergence"
@@ -367,7 +367,7 @@
       ],
       "frequency" : 1738,
       "mnemonic" : "emerge（出现；始料不及的情况）+ -ency（名词后缀）→突然出现的\n事情→紧急情况；紧急的，应急的",
-      "phonetic" : "ɪˈmɜːdʒənsɪ",
+      "phonetic" : "ɪˈmɝ.dʒən.si",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "emergency"
@@ -382,7 +382,7 @@
       ],
       "frequency" : 14316,
       "mnemonic" : "emerge（出现；露出）+ -ent（形容词后缀）→刚出现的→新兴的",
-      "phonetic" : "ɪˈmɜːdʒənt",
+      "phonetic" : "ɪ.ˈmɝ.dʒənt",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "emergent"
@@ -397,7 +397,7 @@
       ],
       "frequency" : 11414,
       "mnemonic" : "sub-（=sup-：向下）+ merge（沉没；浸入）→没下去→浸没；掩盖",
-      "phonetic" : "səbˈmɜːdʒ",
+      "phonetic" : "sʌbˈmɝdʒ",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "submerge"
@@ -412,7 +412,7 @@
       ],
       "frequency" : 15564,
       "mnemonic" : "sub-（向下）+ merge（没入）+ -ed（形容词后缀）→向下没入水中\n的→水面下的",
-      "phonetic" : "səbˈmɜːdʒd",
+      "phonetic" : "səbˈmɝdʒd",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "submerged"
@@ -428,7 +428,7 @@
       ],
       "frequency" : 8258,
       "mnemonic" : "im-（=in-：里面）+ mers-（=merg-：沉没）+ e→沉没到水里面→浸",
-      "phonetic" : "ɪˈmɜːs",
+      "phonetic" : "ɪˈmɝs",
       "pos" : "vt.",
       "rootHint" : "scend",
       "word" : "immerse"
@@ -445,7 +445,7 @@
       ],
       "frequency" : 12786,
       "mnemonic" : "immerse（浸没；使专心于）+ -ion（名词后缀）→浸没；沉浸；潜心",
-      "phonetic" : "ɪˈmɜːʃn",
+      "phonetic" : "ɪˈmɝʒən",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "immersion"
@@ -504,7 +504,7 @@
       ],
       "frequency" : 2141,
       "mnemonic" : "deep（深的；睡熟地；深陷的；深入的）+ -ly（副词后缀）→深地；",
-      "phonetic" : "ˈdiːplɪ",
+      "phonetic" : "ˈdiːpli",
       "pos" : "adv.",
       "rootHint" : "scend",
       "word" : "deeply"
@@ -519,7 +519,7 @@
       ],
       "frequency" : 7189,
       "mnemonic" : "deep（深的）+ -est（形容词最高级）→最深的",
-      "phonetic" : "dipɪst",
+      "phonetic" : "ˈdiːpɪst",
       "pos" : "adj.",
       "rootHint" : "scend",
       "word" : "deepest"
@@ -600,7 +600,7 @@
       ],
       "frequency" : 2579,
       "mnemonic" : "deep（深的）+ -th（名词后缀）→深度；厚度；强烈程度；深度；渊",
-      "phonetic" : "depθ",
+      "phonetic" : "dɛpθ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "depth"
@@ -636,7 +636,7 @@
         "Stock prices took a dive.\n股票价格暴跌。"
       ],
       "frequency" : 5184,
-      "phonetic" : "daɪv",
+      "phonetic" : "ˈdaɪv",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "dive"
@@ -652,7 +652,7 @@
       ],
       "frequency" : 8399,
       "mnemonic" : "dive（潜水）+ -r（表人）→潜水的人→潜水员",
-      "phonetic" : "ˈdaɪvə",
+      "phonetic" : "ˈdaɪ̯vəɹ",
       "pos" : "n.",
       "rootHint" : "scend",
       "word" : "diver"
@@ -820,7 +820,7 @@
       ],
       "frequency" : 7830,
       "mnemonic" : "plum（=plom：铅，双写m）+ -et（名词后缀）→铅垂或铅垂线→引\n申义为“骤然跌落”或“垂直落下”→暴跌；速降",
-      "phonetic" : "ˈplʌmɪt",
+      "phonetic" : "ˈplʌm.ət",
       "pos" : "vi.",
       "rootHint" : "scend",
       "word" : "plummet"

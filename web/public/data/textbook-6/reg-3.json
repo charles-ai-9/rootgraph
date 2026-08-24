@@ -23,7 +23,7 @@
       ],
       "frequency" : 1377,
       "mnemonic" : "reg-（=rule：习惯；常规）+ -ular（形容词后缀）→有规律的；常做",
-      "phonetic" : "ˈreɡjələ(r)",
+      "phonetic" : "ˈɹɛɡjəlɚ",
       "pos" : "adj.",
       "rootHint" : "reg",
       "word" : "regular"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 8578,
       "mnemonic" : "ir-（=not：不；表相反）+ regular（规律的；规则的）→不规律的；",
-      "phonetic" : "ɪˈreɡjələ(r)",
+      "phonetic" : "ɪˈɹɛɡjəlɚ",
       "pos" : "adj.",
       "rootHint" : "reg",
       "word" : "irregular"
@@ -53,7 +53,7 @@
         "Foxes are regularly seen here.\n这里经常看得到狐狸。"
       ],
       "frequency" : 2842,
-      "phonetic" : "ˈreɡjələli",
+      "phonetic" : "ˈɹɛɡjəlɚli",
       "pos" : "adv.",
       "rootHint" : "reg",
       "word" : "regularly"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 12589,
       "mnemonic" : "regular（有规律的；有规则的）+ -ity（名词后缀）→规律；匀称；有",
-      "phonetic" : "ˌreɡjuˈlærəti",
+      "phonetic" : "ˌɹɛɡjuˈlæɹəti",
       "pos" : "n.",
       "rootHint" : "reg",
       "word" : "regularity"
@@ -102,7 +102,7 @@
       ],
       "frequency" : 12910,
       "mnemonic" : "ir-（=not：不，表相反）+ regularity（规律；常规；匀称）→不合常",
-      "phonetic" : "ɪˌreɡjəˈlærəti",
+      "phonetic" : "ɪ.ˌrɛ.ɡjə.ˈlæ.rə.ti",
       "pos" : "n.",
       "rootHint" : "reg",
       "word" : "irregularity"
@@ -117,7 +117,7 @@
       ],
       "frequency" : 8733,
       "mnemonic" : "reck（=reg-=rule：规则）+ -less（无；没有）→没有规则的→鲁莽",
-      "phonetic" : "ˈreklɪs",
+      "phonetic" : "ˈɹɛkləs",
       "pos" : "adj.",
       "rootHint" : "reg",
       "word" : "reckless"

@@ -20,7 +20,7 @@
       ],
       "frequency" : 13535,
       "mnemonic" : "ves-（=trace：踪迹，痕迹）+t（无意义）+-ige（=-age：名词后缀）\n→残留部分；遗迹；丝毫",
-      "phonetic" : "ˈvestɪdʒ",
+      "phonetic" : "ˈvɛ.stɪd͡ʒ",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "vestige"
@@ -35,7 +35,7 @@
       ],
       "frequency" : 1816,
       "mnemonic" : "in-（加强语气）+ vestig（痕迹）+ -ate（动词后缀）→寻找痕迹（蛛\n丝马迹）→调查；研究",
-      "phonetic" : "ɪnˈvestɪgeɪt",
+      "phonetic" : "[ɪn.ˈves.tɪ.ɡeɪ̯t]",
       "pos" : "v.",
       "rootHint" : "ves",
       "word" : "investigate"
@@ -49,7 +49,7 @@
 
       ],
       "frequency" : 1179,
-      "phonetic" : "ɪnˌvestɪˈgeɪʃ(ə)n",
+      "phonetic" : "ɪnˌvɛstəˈɡeɪʃən",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "investigation"
@@ -64,7 +64,7 @@
 
       ],
       "frequency" : 6961,
-      "phonetic" : "ɪnˈvestɪgətɪv;-geɪtɪv",
+      "phonetic" : "ɪnˈvɛstɪɡeɪtɪv",
       "pos" : "adj.",
       "rootHint" : "ves",
       "word" : "investigative"
@@ -96,7 +96,7 @@
       ],
       "frequency" : 2593,
       "mnemonic" : "bran-（=burn：火烧，烙印，r字母颠倒了位置）+ d（无意义）→品",
-      "phonetic" : "brænd",
+      "phonetic" : "bɹand",
       "pos" : "vt.",
       "rootHint" : "ves",
       "word" : "brand"
@@ -128,7 +128,7 @@
       ],
       "frequency" : 10630,
       "mnemonic" : "brand（蒸馏；燃烧）+ -y（名词后缀）→蒸馏而成的酒→白兰地酒",
-      "phonetic" : "ˈbrændɪ",
+      "phonetic" : "ˈbɹændi",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "brandy"
@@ -145,7 +145,7 @@
       ],
       "frequency" : 14098,
       "mnemonic" : "brand（=to flourish a sword：挥舞武器）+-ish（动词后缀，表示造\n成……）→挥舞（尤指武器）",
-      "phonetic" : "ˈbrændɪʃ",
+      "phonetic" : "ˈbɹændɪʃ",
       "pos" : "vt.",
       "rootHint" : "ves",
       "word" : "brandish"
@@ -229,7 +229,7 @@
       ],
       "frequency" : 8648,
       "mnemonic" : "hair（头发）+cut（剪）→剪头发→理发；发型",
-      "phonetic" : "ˈheəkʌt",
+      "phonetic" : "ˈhɛrkʌt",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "haircut"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 11352,
       "mnemonic" : "short（短的；近的）+ cut（抄近路）→近路；捷径；快捷方式",
-      "phonetic" : "ˈʃɔːtkʌt",
+      "phonetic" : "ˈʃɔtkʌt",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "shortcut"
@@ -338,7 +338,7 @@
       ],
       "frequency" : 19639,
       "mnemonic" : "cut（切割）+ throat（喉咙）→切喉咙的→形容竞争激烈的；残酷无",
-      "phonetic" : "ˈkʌtˌθrəʊt",
+      "phonetic" : "ˈkʌtˌθroʊt",
       "pos" : "adj.",
       "rootHint" : "ves",
       "word" : "cutthroat"
@@ -386,7 +386,7 @@
       ],
       "frequency" : 13925,
       "mnemonic" : "clip（夹）+ board（板）→带夹写字板\nclip（剪切；剪下）+ board（板）→剪贴板",
-      "phonetic" : "ˈklɪpbɔːd",
+      "phonetic" : "ˈklɪpbɔd",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "clipboard"
@@ -415,7 +415,7 @@
       ],
       "frequency" : 7762,
       "mnemonic" : "邪记：e-（=out：外）+ clip（剪下）+ se→从外面把某物剪下一块→把太\n阳、月亮剪下一块，使其变暗→遮住……的光；使相形见绌；日食；",
-      "phonetic" : "ɪˈklɪps",
+      "phonetic" : "iˈklɪps",
       "pos" : "vt.",
       "rootHint" : "ves",
       "word" : "eclipse"

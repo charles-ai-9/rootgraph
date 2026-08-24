@@ -51,7 +51,7 @@
       "examples": [],
       "frequency": 4539,
       "mnemonic": "voc-（=sound, speak：声音；说话）+ -al（形容词后缀）→嗓音的；",
-      "phonetic": "ˈvəʊ.kəl",
+      "phonetic": "ˈvoʊ.kəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "vocal"
@@ -91,7 +91,7 @@
       "examples": [],
       "frequency": 8439,
       "mnemonic": "vocation（职业）+ -al（形容词后缀）→职业的；职业技术的",
-      "phonetic": "vəʊˈkeɪʃənl",
+      "phonetic": "voʊˈkeɪʃənl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "vocational"
@@ -185,7 +185,7 @@
       ],
       "frequency": 12974,
       "mnemonic": "provoc（=provoke：激怒；挑衅）+ -ation（名词后缀）→激怒；挑",
-      "phonetic": "ˌpɹɒvəˈkeɪʃən",
+      "phonetic": "ˌpɹɑvəˈkeɪʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "provocation"
@@ -200,7 +200,7 @@
       "examples": [],
       "frequency": 7344,
       "mnemonic": "provoc（=provoke：挑衅）+ -ative（形容词后缀）→挑衅的；挑逗性",
-      "phonetic": "pɹəˈvɒk.ə.tɪv",
+      "phonetic": "pɹəˈvɑk.ə.tɪv",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "provocative"
@@ -264,7 +264,7 @@
       "examples": [],
       "frequency": 12938,
       "mnemonic": "re-（=back：向后；往回）+ -vok（=to call：叫喊）+ -e→call back：\n喊回去→引申词义撤销；废除",
-      "phonetic": "rɪˈvəʊk",
+      "phonetic": "rɪˈvoʊk",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "revoke"
@@ -292,7 +292,7 @@
       "examples": [],
       "frequency": 17629,
       "mnemonic": "evoc（=evoke：引起；唤起）+ -ation（名词后缀）→唤起→（形象）",
-      "phonetic": "ˌiːvəʊˈkeɪʃn",
+      "phonetic": "ˌiːvoʊˈkeɪʃn",
       "pos": "n.",
       "rootHint": "voc",
       "word": "evocation"
@@ -305,7 +305,7 @@
       "examples": [],
       "frequency": 13948,
       "mnemonic": "evoc（=evoke：引起；唤起）+ -ative（复合形容词后缀）→唤起（感",
-      "phonetic": "ɪˈvɒkətɪv",
+      "phonetic": "ɪˈvɑkətɪv",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "evocative"
@@ -462,7 +462,7 @@
       "examples": [],
       "frequency": 10918,
       "mnemonic": "来自法语tant pour tant,，来自tant。引申词义嘲笑，奚落。",
-      "phonetic": "tɔːnt",
+      "phonetic": "tɔnt",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "taunt"
@@ -544,7 +544,7 @@
       "examples": [],
       "frequency": 9330,
       "mnemonic": "cross（交叉；十字）+ roads（路口）→交叉路口→引申义为紧要关头",
-      "phonetic": "ˈkrɒsrəʊdz",
+      "phonetic": "ˈkrɑsroʊdz",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossroads"
@@ -572,7 +572,7 @@
       "examples": [],
       "frequency": 12840,
       "mnemonic": "cross（横跨）+ over（越过；（部分或全部地覆盖）在……之上）→",
-      "phonetic": "ˈkrɒsəʊvə",
+      "phonetic": "ˈkrɑsoʊvə",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossover"
@@ -585,7 +585,7 @@
       "examples": [],
       "frequency": 16012,
       "mnemonic": "cross（交叉）+ word（单词）→单词交叉的（游戏）→纵横字谜",
-      "phonetic": "ˈkrɒswɜːd",
+      "phonetic": "ˈkrɑswɝd",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossword"
@@ -650,7 +650,7 @@
       "examples": [],
       "frequency": 17359,
       "mnemonic": "cross（交叉）+ fire（火力）→交叉火力",
-      "phonetic": "ˈkɹɒsfaɪə",
+      "phonetic": "ˈkɹɑsfaɪr",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossfire"
@@ -678,7 +678,7 @@
       "examples": [],
       "frequency": 17751,
       "mnemonic": "cross（十字）+ wise（副词后缀，表方向）→沿着十字方向的，\n在……上构成十字形图案→对角横穿地",
-      "phonetic": "ˈkrɒswaɪz",
+      "phonetic": "ˈkrɑswaɪz",
       "pos": "adv.",
       "rootHint": "voc",
       "word": "crosswise"

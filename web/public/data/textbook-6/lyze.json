@@ -38,7 +38,7 @@
       ],
       "frequency" : 2883,
       "mnemonic" : "re-（再次）+ -lax（=loose：放松；松弛）→再次放松→使放松，休\n息；松开；→放宽（限制等）；使放心",
-      "phonetic" : "rɪˈlæks",
+      "phonetic" : "ɹɪˈlæks",
       "pos" : "vt.",
       "rootHint" : "lyze",
       "word" : "relax"
@@ -53,7 +53,7 @@
 
       ],
       "frequency" : 6191,
-      "phonetic" : "rɪˈlækst",
+      "phonetic" : "ɹɪˈlækst",
       "pos" : "adj.",
       "rootHint" : "lyze",
       "word" : "relaxed"
@@ -69,7 +69,7 @@
       ],
       "frequency" : 8218,
       "mnemonic" : "relax-（放松；休息；放宽）+ -ation（名词后缀）→放松；休息；休",
-      "phonetic" : "ˌriːlækˈseɪʃn",
+      "phonetic" : "ˌɹilækˈseɪʃən",
       "pos" : "n.",
       "rootHint" : "lyze",
       "word" : "relaxation"
@@ -114,7 +114,7 @@
 
       ],
       "frequency" : 17262,
-      "phonetic" : "ˈliːsɪŋ",
+      "phonetic" : "ˈliːzɪŋ",
       "pos" : "n.",
       "rootHint" : "lyze",
       "word" : "leasing"
@@ -133,7 +133,7 @@
       ],
       "frequency" : 1124,
       "mnemonic" : "re-（又；再）+ lease（=loose：放开；松开）→再次放出，解放→释",
-      "phonetic" : "rɪˈliːs",
+      "phonetic" : "ɹɪˈliːs",
       "pos" : "vt.",
       "rootHint" : "lyze",
       "word" : "release"
@@ -147,7 +147,7 @@
 
       ],
       "frequency" : 17346,
-      "phonetic" : "rɪˈliːst",
+      "phonetic" : "ɹɪˈliːst",
       "pos" : "vt.",
       "rootHint" : "lyze",
       "word" : "released"
@@ -180,7 +180,7 @@
       "examples" : [
         "人们总是在开始阶段努力一段时间，在达到一个平稳期后，就松\n懈下来。"
       ],
-      "phonetic" : "ˈplætəʊ",
+      "phonetic" : "plæˈtoʊ",
       "pos" : "n.",
       "rootHint" : "lyze",
       "word" : "plateau"
@@ -244,7 +244,7 @@
       ],
       "frequency" : 7551,
       "mnemonic" : "sleep（睡觉）+ -y（形容词后缀）→困倦的；寂静的",
-      "phonetic" : "ˈsliːpɪ",
+      "phonetic" : "ˈsliːpi",
       "pos" : "adj.",
       "rootHint" : "lyze",
       "word" : "sleepy"
@@ -339,7 +339,7 @@
       ],
       "frequency" : 5650,
       "mnemonic" : "lux-（=lush：豪华的；奢侈的）+ -ury（名词后缀）→奢侈；奢侈",
-      "phonetic" : "ˈlʌkʃərɪ",
+      "phonetic" : "ˈlʌkʃəɹi",
       "pos" : "n.",
       "rootHint" : "lyze",
       "word" : "luxury"
@@ -355,7 +355,7 @@
       ],
       "frequency" : 9257,
       "mnemonic" : "luxur（=luxury：豪华）+ -i- + -ous（形容词后缀）→豪华的",
-      "phonetic" : "lʌɡˈʒʊəriəs",
+      "phonetic" : "lʌkˈsjʊɹ.i.əs",
       "pos" : "adj.",
       "rootHint" : "lyze",
       "word" : "luxurious"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 8835,
       "mnemonic" : "re-（回）+ -lish（=taste：品味）→再回去品味一下→享受；从……",
-      "phonetic" : "ˈrelɪʃ",
+      "phonetic" : "ˈɹɛ.lɪʃ",
       "pos" : "vt.",
       "rootHint" : "lyze",
       "word" : "relish"
@@ -403,7 +403,7 @@
       ],
       "frequency" : 11971,
       "mnemonic" : "langu（=loose：松弛的）+ -ish（动词后缀，造成……）→变得衰弱\n→因此长期受苦",
-      "phonetic" : "ˈlæŋgwɪʃ",
+      "phonetic" : "ˈlæŋ.ɡwɪʃ",
       "pos" : "vi.",
       "rootHint" : "lyze",
       "word" : "languish"
@@ -419,7 +419,7 @@
       ],
       "frequency" : 19638,
       "mnemonic" : "langu（=loose：松弛的）+ -id（形容词后缀）→慢悠悠的；慵懒的",
-      "phonetic" : "ˈlæŋgwɪd",
+      "phonetic" : "ˈlæŋ.ɡwɪd",
       "pos" : "adj.",
       "rootHint" : "lyze",
       "word" : "languid"

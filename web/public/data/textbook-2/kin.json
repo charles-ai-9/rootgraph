@@ -69,7 +69,7 @@
       ],
       "frequency" : 6206,
       "mnemonic" : "kind(来自德语Kinder-Garten，字面意思是儿童的花园)，这种实施幼",
-      "phonetic" : "ˈkɪndəˌgɑːt(ə)n",
+      "phonetic" : "ˈkɪndəɹˌɡɑːɹd(ə)n",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "kindergarten"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 17206,
       "mnemonic" : "kind(=nature)+-le(动词后缀，表反复)(c. 1200, cundel, “to set fire to, to",
-      "phonetic" : "ˈkɪnd(ə)l",
+      "phonetic" : "ˈkɪndl",
       "pos" : "vt.",
       "rootHint" : "kin",
       "word" : "kindle"
@@ -100,7 +100,7 @@
       ],
       "frequency" : 10938,
       "mnemonic" : "kind(仁慈的，良善的)+-ly(副词后缀)→亲切地；温和地",
-      "phonetic" : "ˈkaɪndlɪ",
+      "phonetic" : "ˈkaɪndli",
       "pos" : "adv.",
       "rootHint" : "kin",
       "word" : "kindly"
@@ -115,7 +115,7 @@
       ],
       "frequency" : 7835,
       "mnemonic" : "kind(仁慈的)+-ness(名词后缀)→仁慈；善良体贴",
-      "phonetic" : "ˈkaɪn(d)nɪs",
+      "phonetic" : "ˈkaɪndnəs",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "kindness"
@@ -130,7 +130,7 @@
       ],
       "frequency" : 19717,
       "mnemonic" : "kind(= kin家属，亲属)+-red(名词后缀)→家人，血缘关系，相近的",
-      "phonetic" : "ˈkɪndrɪd",
+      "phonetic" : "ˈkɪndɹəd",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "kindred"
@@ -145,7 +145,7 @@
       ],
       "frequency" : 2359,
       "mnemonic" : "在现代英语中，单词king往往被翻译为“国王”，表示“一国之",
-      "phonetic" : "kɪŋ",
+      "phonetic" : "kiŋ",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "king"
@@ -190,7 +190,7 @@
       ],
       "frequency" : 12622,
       "mnemonic" : "mal-(“badly”)+gnant(=-gnus “born” from gignere “to bear, beget,” from\nPIE root *gene- “give birth, beget)→不好的事情发生，产生→恶性的，",
-      "phonetic" : "məˈlɪgnənt",
+      "phonetic" : "məˈlɪɡnənt",
       "pos" : "adj.",
       "rootHint" : "kin",
       "word" : "malignant"
@@ -205,7 +205,7 @@
       ],
       "frequency" : 19690,
       "mnemonic" : "malignant(恶意的)+-cy(名词后缀)→恶性(肿瘤)，恶意",
-      "phonetic" : "məˈlɪgnənsɪ",
+      "phonetic" : "məˈlɪɡ.nən.si",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "malignancy"
@@ -221,7 +221,7 @@
 
       ],
       "frequency" : 13666,
-      "phonetic" : "ˈnæs(ə)nt;ˈneɪ-",
+      "phonetic" : "ˈneɪ.sənt",
       "pos" : "adj.",
       "rootHint" : "nasc",
       "word" : "nascent"
@@ -236,7 +236,7 @@
       ],
       "frequency" : 413,
       "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ion名词词尾→国家；民族",
-      "phonetic" : "ˈneɪʃ(ə)n",
+      "phonetic" : "ˈneɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "nat",
       "word" : "nation"
@@ -251,7 +251,7 @@
       ],
       "frequency" : 232,
       "mnemonic" : "nation(国家，民族)+-al(形容词后缀)→国家的，民族的",
-      "phonetic" : "ˈnæʃ(ə)n(ə)l",
+      "phonetic" : "ˈnæʃ(ə)nəl",
       "pos" : "adj.",
       "rootHint" : "nat",
       "word" : "national"
@@ -266,7 +266,7 @@
       ],
       "frequency" : 5695,
       "mnemonic" : "national(国家的，民族的)+-ism(名词后缀)→国家主义，民族主义",
-      "phonetic" : "ˈnæʃ(ə)n(ə)lɪz(ə)m",
+      "phonetic" : "ˈnæʃənəlɪzəm",
       "pos" : "n.",
       "rootHint" : "nat",
       "word" : "nationalism"
@@ -311,7 +311,7 @@
       ],
       "frequency" : 7892,
       "mnemonic" : "national(国家的，国民的)+-ity→成为一国国民的标志就是拥有一国国\n籍→国籍，民族",
-      "phonetic" : "ˌnæʃəˈnælətɪ",
+      "phonetic" : "-ˈnæl.ti",
       "pos" : "n.",
       "rootHint" : "nat",
       "word" : "nationality"
@@ -326,7 +326,7 @@
       ],
       "frequency" : 19642,
       "mnemonic" : "national(国家的，民族的)+-ize(动词后缀，使……)→使……归国家",
-      "phonetic" : "ˈnæʃnəlaɪz",
+      "phonetic" : "ˈnæʃənəlaɪz",
       "pos" : "vt.",
       "rootHint" : "nat",
       "word" : "nationalize"
@@ -386,7 +386,7 @@
       ],
       "frequency" : 4983,
       "mnemonic" : "nation(国家)+wide(广阔的)→遍及全国的",
-      "phonetic" : "ˈneɪʃ(ə)nwaɪd;-ˈwaɪd",
+      "phonetic" : "ˌneɪ.ʃənˈwaɪd",
       "pos" : "adj.",
       "rootHint" : "nat",
       "word" : "nationwide"
@@ -403,7 +403,7 @@
 
       ],
       "frequency" : 1410,
-      "phonetic" : "ˈneɪtɪv",
+      "phonetic" : "ˈneɪtəv",
       "pos" : "adj.",
       "rootHint" : "nat",
       "word" : "native"
@@ -418,7 +418,7 @@
       ],
       "frequency" : 697,
       "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ure(名词后缀)→自然界是\n类)→自然，基本特征，性格，种类",
-      "phonetic" : "ˈneɪtʃə",
+      "phonetic" : "ˈneɪtʃɚ",
       "pos" : "n.",
       "rootHint" : "nat",
       "word" : "nature"
@@ -433,7 +433,7 @@
       ],
       "frequency" : 716,
       "mnemonic" : "nature(自然，本质)+-al(形容词后缀)→自然的，天生的",
-      "phonetic" : "ˈnætʃrəl",
+      "phonetic" : "-ɚəl",
       "pos" : "adj.",
       "rootHint" : "nat",
       "word" : "natural"
@@ -522,7 +522,7 @@
       ],
       "frequency" : 2820,
       "mnemonic" : "natural(自然的)+-ly(副词后缀)→自然发生的，自然的行为，本性如此\n的→自然而然地，大方地，天生地\nna(=-gna=bear：出生)+ive(的)→刚生出来的→天真的、幼稚的",
-      "phonetic" : "ˈnætʃ(ə)rəlɪ",
+      "phonetic" : "ˈnætʃ(ə)ɹəli",
       "pos" : "adv.",
       "rootHint" : "nat",
       "word" : "naturally"
@@ -541,7 +541,7 @@
       ],
       "frequency" : 2652,
       "mnemonic" : "pre-(=before，前)+gnant(=\nroot of gnasci \"to be born\")→在出生之前的→怀孕的",
-      "phonetic" : "ˈpregnənt",
+      "phonetic" : "ˈpɹɛɡnənt",
       "pos" : "adj.",
       "rootHint" : "kin",
       "word" : "pregnant"
@@ -588,7 +588,7 @@
       ],
       "frequency" : 16452,
       "mnemonic" : "来自古法语puisne(=afterward，hereafter，from puis在此之后)+ny(=né\/\nnasci，“to be born”出生，来自古法语，来自词根gene-“give\nbirth，beget”)最后出生的，Sense of “small, weak, insignificant”",
-      "phonetic" : "ˈpjuːnɪ",
+      "phonetic" : "pjuːni",
       "pos" : "adj.",
       "rootHint" : "kin",
       "word" : "puny"
@@ -607,7 +607,7 @@
       ],
       "frequency" : 12946,
       "mnemonic" : "re-(=again，再次，重新)+naiss(=nasci，古拉丁语为gnasci，生育，出\n生)+-ance(名词后缀)→再次出生、更新、复兴的事物→(艺术等的)新",
-      "phonetic" : "rɪˈneɪsns",
+      "phonetic" : "ˈɹɛnəˌsɑns",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "renaissance"
@@ -621,7 +621,7 @@
 
       ],
       "mnemonic" : "heri(遗传)+t(无意义)+age(名词后缀)→遗传下来的东西→遗产、继",
-      "phonetic" : "ˈheritidʒ",
+      "phonetic" : "ˈhɛɹɪtɪd͡ʒ",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "heritage"
@@ -635,7 +635,7 @@
 
       ],
       "mnemonic" : "heredity(=古拉丁语hereditatem heirship, inheritance，继承，继承权，\n来自词根heres“heir，heiress”)+-ary(形容词后缀)→遗传的，世袭",
-      "phonetic" : "hɪˈredɪt(ə)rɪ",
+      "phonetic" : "həˈɹɛdɪˌtɛɹi",
       "pos" : "adj.",
       "rootHint" : "kin",
       "word" : "hereditary"
@@ -651,7 +651,7 @@
       ],
       "frequency" : 4519,
       "mnemonic" : "in-(加强语气)+her-(遗传、继承)+-it(动词后缀)→继承、成为继承人",
-      "phonetic" : "inˈherit",
+      "phonetic" : "ɪnˈhɛɹɪt",
       "pos" : "v.",
       "rootHint" : "kin",
       "word" : "inherit"
@@ -666,7 +666,7 @@
       ],
       "frequency" : 7801,
       "mnemonic" : "inherit(继承)+-ance(名词后缀)→由继承而得的东西→继承物，遗产",
-      "phonetic" : "ɪnˈherɪt(ə)ns",
+      "phonetic" : "ɪnˈhɛɹətəns",
       "pos" : "n.",
       "rootHint" : "kin",
       "word" : "inheritance"
@@ -680,7 +680,7 @@
 
       ],
       "mnemonic" : "inherit(继承)+-ed(形容词后缀)→继承的，遗传的",
-      "phonetic" : "ɪnˈherɪtɪd",
+      "phonetic" : "ɪnˈhɛɹɪtɪd",
       "pos" : "adj.",
       "rootHint" : "kin",
       "word" : "inherited"

@@ -24,7 +24,7 @@
       ],
       "frequency" : 2146,
       "mnemonic" : "drag=draw by force, pull, haul→使劲而吃力地拖，拉；缓慢而费力地",
-      "phonetic" : "dræg",
+      "phonetic" : "dɹæɡ",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "drag"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 10231,
       "mnemonic" : "tract（牵引）+ -ion（名词后缀）→牵引；拖拉",
-      "phonetic" : "ˈtrækʃ(ə)n",
+      "phonetic" : "ˈtɹæk.ʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "traction"
@@ -53,7 +53,7 @@
 
       ],
       "frequency" : 6645,
-      "phonetic" : "ˈtræktə",
+      "phonetic" : "ˈtɹæktɚ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "tractor"
@@ -68,7 +68,7 @@
       ],
       "frequency" : 1881,
       "mnemonic" : "at-（=to）+ -tract（=to draw, pull：拖；拉动）→吸引（被“吸引”即",
-      "phonetic" : "əˈtrækt",
+      "phonetic" : "əˈtɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "attract"
@@ -99,7 +99,7 @@
       ],
       "frequency" : 3836,
       "mnemonic" : "attract（吸引）+ -ion（名词后缀）→吸引；吸引力",
-      "phonetic" : "əˈtrækʃ(ə)n",
+      "phonetic" : "əˈtɹækʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "attraction"
@@ -114,7 +114,7 @@
 
       ],
       "frequency" : 2835,
-      "phonetic" : "əˈtræktɪv",
+      "phonetic" : "əˈtɹæktɪv",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "attractive"
@@ -161,7 +161,7 @@
       ],
       "frequency" : 4045,
       "mnemonic" : "abs-（=off, away from：分离；离开）+ -tract（抽；拉）→从文章中\n“抽”出来的部分→摘要；“抽”象的",
-      "phonetic" : "ˈæbstrækt",
+      "phonetic" : "ˈæbˌstɹækt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "abstract"
@@ -175,7 +175,7 @@
 
       ],
       "frequency" : 8576,
-      "phonetic" : "æbˈstrækʃn",
+      "phonetic" : "æbˈstɹæk.ʃn̩",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "abstraction"
@@ -198,7 +198,7 @@
       ],
       "frequency" : 1276,
       "mnemonic" : "con-（一起）+ -tract（拉）→把（甲乙双方）拉到一起→引申义：确\n立条款，签订合同→签约；收缩（拉到一起）；感染（细菌感染到身",
-      "phonetic" : "ˈkɒntrækt",
+      "phonetic" : "ˈkɑntɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "contract"
@@ -228,7 +228,7 @@
         "The contractions started coming every five minutes."
       ],
       "frequency" : 8858,
-      "phonetic" : "kənˈtrækʃ(ə)n",
+      "phonetic" : "kənˈtɹæk.ʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "contraction"
@@ -242,7 +242,7 @@
 
       ],
       "frequency" : 3781,
-      "phonetic" : "kənˈtræktə",
+      "phonetic" : "ˈkɑnˌtɹæk.tə(ɹ)",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "contractor"
@@ -288,7 +288,7 @@
       ],
       "frequency" : 4548,
       "mnemonic" : "dis-（=away：朝另一个方向）+ -tract（拉；拽）→朝另一个方向\n拉，拽→转移（注意力）；分散（思想）；使分心",
-      "phonetic" : "dɪˈstrækt",
+      "phonetic" : "dɪsˈtɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "distract"
@@ -303,7 +303,7 @@
 
       ],
       "frequency" : 6259,
-      "phonetic" : "dɪˈstrækʃ(ə)n",
+      "phonetic" : "dɪsˈtɹækʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "distraction"
@@ -318,7 +318,7 @@
       ],
       "frequency" : 12201,
       "mnemonic" : "来自distract, 分心。-ght，拼写模仿caught, bought, taught, brought。即",
-      "phonetic" : "dɪˈstrɔːt",
+      "phonetic" : "dɪsˈtɹɔt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "distraught"
@@ -352,7 +352,7 @@
 
       ],
       "frequency" : 10741,
-      "phonetic" : "ɪkˈstrækʃ(ə)n",
+      "phonetic" : "ɪkˈstɹækʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "extraction"
@@ -367,7 +367,7 @@
       ],
       "frequency" : 10488,
       "mnemonic" : "sub-（下；下面）+ -tract（抽；拉）→从下面抽掉→减去",
-      "phonetic" : "səbˈtrækt",
+      "phonetic" : "səbˈtɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "subtract"
@@ -383,7 +383,7 @@
       ],
       "frequency" : 14892,
       "mnemonic" : "de-（=down：向下）+ -tract（=to pull：拉）→to take down, pull down,\ndisparage：即向下拉；减损；贬低",
-      "phonetic" : "dɪˈtrækt",
+      "phonetic" : "dɪˈtɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "detract"
@@ -428,7 +428,7 @@
       ],
       "frequency" : 14366,
       "mnemonic" : "re-（向后；往回）+ -tract（拉）→to draw back, take back：往回拉、\n向后拉→收回；撤回说出的话；缩回",
-      "phonetic" : "rɪˈtrækt",
+      "phonetic" : "ɹəˈtɹækt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "retract"
@@ -447,7 +447,7 @@
 
       ],
       "frequency" : 1525,
-      "phonetic" : "treɪn",
+      "phonetic" : "tɹeɪn",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "train"
@@ -460,7 +460,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "treɪnd",
+      "phonetic" : "tɹeɪnd",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "trained"
@@ -475,7 +475,7 @@
 
       ],
       "frequency" : 11178,
-      "phonetic" : "treɪˈniː",
+      "phonetic" : "tɹeɪˈni",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "trainee"
@@ -490,7 +490,7 @@
 
       ],
       "frequency" : 4512,
-      "phonetic" : "ˈtreɪnə",
+      "phonetic" : "ˈtɹeɪnə",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "trainer"
@@ -506,7 +506,7 @@
 
       ],
       "frequency" : 798,
-      "phonetic" : "ˈtreɪnɪŋ",
+      "phonetic" : "ˈtɹeɪnɪŋ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "training"
@@ -568,7 +568,7 @@
 
       ],
       "frequency" : 963,
-      "phonetic" : "triːt",
+      "phonetic" : "tɹiːt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "treat"
@@ -583,7 +583,7 @@
         "We don’t want any special treatment.\n我们不需要任何特殊待遇。"
       ],
       "frequency" : 746,
-      "phonetic" : "ˈtriːtm(ə)nt",
+      "phonetic" : "ˈtɹiːtmənt",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "treatment"
@@ -601,7 +601,7 @@
       ],
       "frequency" : 1828,
       "mnemonic" : "treat（set forth in speech or writing：在演讲或写作中阐明、陈述）\n+-ise（名词后缀）→引申义：论文；论述",
-      "phonetic" : "ˈtriːtɪs;-ɪz",
+      "phonetic" : "ˈtɹiːtɪs",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "treatise"
@@ -618,7 +618,7 @@
       ],
       "frequency" : 2861,
       "mnemonic" : "treat（to negotiate, handle：谈判；处理）+-y（名词后缀）→谈判之后\n达成的一致约定→（国家之间的）条约；协定",
-      "phonetic" : "ˈtriːtɪ",
+      "phonetic" : "ˈtɹiːti",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "treaty"
@@ -635,7 +635,7 @@
       ],
       "frequency" : 4844,
       "mnemonic" : "re-（回）+ treat（拉；拖）→拖回来，拉回来→撤退；退却；退缩；",
-      "phonetic" : "rɪˈtriːt",
+      "phonetic" : "ɹəˈtɹiːt",
       "pos" : "vi.",
       "rootHint" : "tract",
       "word" : "retreat"
@@ -698,7 +698,7 @@
 
       ],
       "frequency" : 16466,
-      "phonetic" : "tri:tid",
+      "phonetic" : "ˈtɹiːtɪd",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "treated"
@@ -743,7 +743,7 @@
       ],
       "frequency" : 2321,
       "mnemonic" : "retire（=retreat：退回）→（从工作岗位上）退回来→退休；退役；\n邪解：re-（反复）+ tire（=tired：累）→太累了→退休（套用一句歌词：你",
-      "phonetic" : "rɪˈtaɪə",
+      "phonetic" : "ɹəˈtaɪɹ",
       "pos" : "vi.",
       "rootHint" : "tract",
       "word" : "retire"
@@ -757,7 +757,7 @@
 
       ],
       "frequency" : 3703,
-      "phonetic" : "rɪˈtaɪəd",
+      "phonetic" : "ɹɪˈtʌɪəd",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "retired"
@@ -772,7 +772,7 @@
 
       ],
       "frequency" : 7349,
-      "phonetic" : "rɪˌtaɪəˈriː",
+      "phonetic" : "ɹəˈtaɪ.ə(ɹ)ˌiː",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "retiree"
@@ -789,7 +789,7 @@
 
       ],
       "frequency" : 2464,
-      "phonetic" : "rɪˈtaɪəm(ə)nt",
+      "phonetic" : "ɹəˈtaɪr.mənt",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "retirement"
@@ -803,7 +803,7 @@
 
       ],
       "frequency" : 16074,
-      "phonetic" : "rɪˈtaɪərɪŋ",
+      "phonetic" : "ɹəˈtaɪ(ə)ɹɪŋ",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "retiring"
@@ -820,7 +820,7 @@
 
       ],
       "frequency" : 17517,
-      "phonetic" : "taɪˈreɪd",
+      "phonetic" : "ˈtaɪɹeɪd",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "tirade"
@@ -837,7 +837,7 @@
       ],
       "frequency" : 3290,
       "mnemonic" : "por-（=pro-：向前）+ -tray（=draw：绘画；描绘）→depict in words,\ndescribe：描绘；刻画；扮演",
-      "phonetic" : "pɔːˈtreɪ",
+      "phonetic" : "pɔɹˈtɹeɪ",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "portray"
@@ -855,7 +855,7 @@
       ],
       "frequency" : 8091,
       "mnemonic" : "portray（扮演；描绘；刻画）+ -al（名词后缀）→绘画；扮演；刻",
-      "phonetic" : "pɔːˈtreɪəl",
+      "phonetic" : "ˌpɔɹˈtɹeɪ.əl",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "portrayal"
@@ -872,7 +872,7 @@
       ],
       "frequency" : 2677,
       "mnemonic" : "depict→描绘；描画，特指人物的肖像画\ntrahere→拉出；显露\npor-（pro-：向前）+ trait（=-tract-：拉）→向前拉出；显露→引申义",
-      "phonetic" : "ˈpɔːtreɪt",
+      "phonetic" : "ˈpɔɹtɹeɪt",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "portrait"
@@ -888,7 +888,7 @@
       ],
       "frequency" : 20095,
       "mnemonic" : "portrait（画像）+ -ure（名词后缀）→人像艺术；肖像画法",
-      "phonetic" : "ˈpɔːtrɪtʃə",
+      "phonetic" : "ˈpɔ(ɹ)tɹɪtʃʊr",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "portraiture"
@@ -908,7 +908,7 @@
         "一些人遇到困难就显得脆弱不堪的品性可以追溯到他们小时候，\n那时他们受到了太多的溺爱。\nSome people’s fragile trait \/ character while getting in trouble can be"
       ],
       "frequency" : 3047,
-      "phonetic" : "treɪs",
+      "phonetic" : "tɹeɪs",
       "pos" : "vi.",
       "rootHint" : "tract",
       "word" : "trace"
@@ -939,7 +939,7 @@
 
       ],
       "frequency" : 19378,
-      "phonetic" : "ˈtreɪsə",
+      "phonetic" : "ˈtɹeɪsə(ɹ)",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "tracer"
@@ -955,7 +955,7 @@
       ],
       "frequency" : 1655,
       "mnemonic" : "trail（=trace：追踪；踪迹）→追踪；踪迹",
-      "phonetic" : "treɪl",
+      "phonetic" : "tɹeɪl",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "trail"
@@ -970,7 +970,7 @@
 
       ],
       "frequency" : 4101,
-      "phonetic" : "ˈtreɪlə",
+      "phonetic" : "ˈtɹeɪlə(ɹ)",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "trailer"
@@ -1021,7 +1021,7 @@
       ],
       "frequency" : 1146,
       "mnemonic" : "track（=trace：痕迹，轨道，追踪）→追踪；痕迹，轨道",
-      "phonetic" : "træk",
+      "phonetic" : "tɹæk",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "track"
@@ -1035,7 +1035,7 @@
 
       ],
       "frequency" : 7997,
-      "phonetic" : "ˈtrækɪŋ",
+      "phonetic" : "ˈtɹækɪŋ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "tracking"
@@ -1053,7 +1053,7 @@
 
       ],
       "frequency" : 9304,
-      "phonetic" : "trek",
+      "phonetic" : "tɹɛk",
       "pos" : "vi.",
       "rootHint" : "tract",
       "word" : "trek"
@@ -1068,7 +1068,7 @@
 
       ],
       "frequency" : 15697,
-      "phonetic" : "ˈˈreɪstræk",
+      "phonetic" : "ˈɹeɪsˌtɹæk",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "racetrack"
@@ -1098,7 +1098,7 @@
       ],
       "frequency" : 18132,
       "mnemonic" : "backtrack=retrace：沿原路返回；折返；回顾→引申义为（屈于压力",
-      "phonetic" : "ˈbæktræk",
+      "phonetic" : "ˈbæk.tɹæk",
       "pos" : "vi.",
       "rootHint" : "tract",
       "word" : "backtrack"
@@ -1120,7 +1120,7 @@
       ],
       "frequency" : 6217,
       "mnemonic" : "tract=track：（崎岖不平的） 小路；course：路线",
-      "phonetic" : "trækt",
+      "phonetic" : "tɹækt",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "tract"
@@ -1138,7 +1138,7 @@
 
       ],
       "frequency" : 1554,
-      "phonetic" : "ˈdeɪndʒə(r)",
+      "phonetic" : "ˈdeɪndʒɚ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "danger"
@@ -1154,7 +1154,7 @@
       ],
       "frequency" : 1465,
       "mnemonic" : "danger（危险）+ -ous（形容词后缀）→有危险的；不安全的",
-      "phonetic" : "ˈdeɪndʒərəs",
+      "phonetic" : "ˈdeɪnd͡ʒəɹəs",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "dangerous"
@@ -1183,7 +1183,7 @@
       ],
       "frequency" : 7262,
       "mnemonic" : "en-（=make, put into：使；置于）+ danger（危险）→置于危险之中\n→使遭到危险；危害",
-      "phonetic" : "ɪnˈdeɪndʒə(r)",
+      "phonetic" : "ənˈdeɪndʒə",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "endanger"
@@ -1216,7 +1216,7 @@
       ],
       "frequency" : 3662,
       "mnemonic" : "dom-（领土；财产；住宅）+ -ain（名词后缀）→领土、财产、住宅\n所在的疆界、范围→引申义为（知识、活动的）领域；范畴",
-      "phonetic" : "də(ʊ)ˈmeɪn",
+      "phonetic" : "doʊˈmeɪn",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "domain"
@@ -1234,7 +1234,7 @@
       ],
       "frequency" : 5065,
       "mnemonic" : "dom-（=house, housetop：房屋；屋顶）+ -e（名词后缀）→圆屋顶；",
-      "phonetic" : "dəʊm",
+      "phonetic" : "doʊm",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "dome"
@@ -1248,7 +1248,7 @@
 
       ],
       "frequency" : 19609,
-      "phonetic" : "dəʊmd",
+      "phonetic" : "doʊmd",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "domed"
@@ -1266,7 +1266,7 @@
       ],
       "frequency" : 1556,
       "mnemonic" : "dom-（=home：家）+ es + -tic（形容词后缀）→家里的→引申义为家",
-      "phonetic" : "dəˈmestɪk",
+      "phonetic" : "dəˈmɛstɪk",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "domestic"
@@ -1310,7 +1310,7 @@
       ],
       "frequency" : 10126,
       "mnemonic" : "con-（=with, together：一起）+ domin-（=house：住宅）+ -ium（名\n词后缀，表场所、地点）→住房都在一起的地方→公寓楼；（公寓",
-      "phonetic" : "ˌkɒndəˈmɪnɪəm",
+      "phonetic" : "kɑn.dəˈmɪn.i.əm",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "condominium"
@@ -1324,7 +1324,7 @@
 
       ],
       "frequency" : 7414,
-      "phonetic" : "ˈkɒndəʊ",
+      "phonetic" : "ˈkɑndoʊ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "condo"
@@ -1355,7 +1355,7 @@
       ],
       "frequency" : 17078,
       "mnemonic" : "domin-（=rule, power：统治）+ -ion（名词后缀）→统治权→引申义",
-      "phonetic" : "dəˈmɪnjən",
+      "phonetic" : "doʊˈmɪnjən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "dominion"
@@ -1376,7 +1376,7 @@
       ],
       "frequency" : 2332,
       "mnemonic" : "dom-：家→domin-：使（重要性）像家一样→to rule, to control, to\ngovern：占……重要地位，统治，控制，支配（一“家”之主）\ndomin-（=rule, master：统治；控制）+ -ate（动词后缀）→控制；占",
-      "phonetic" : "ˈdɒmɪneɪt",
+      "phonetic" : "ˈdɑməˌneɪt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "dominate"
@@ -1391,7 +1391,7 @@
       ],
       "frequency" : 3204,
       "mnemonic" : "domin-（支配；控制）+ -ant（形容词后缀）→首要的；占支配地位",
-      "phonetic" : "ˈdɒmɪnənt",
+      "phonetic" : "ˈdɑmənənt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "dominant"
@@ -1405,7 +1405,7 @@
 
       ],
       "frequency" : 6377,
-      "phonetic" : "ˈdɒmɪnəns",
+      "phonetic" : "ˈdɑmɪnəns",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "dominance"
@@ -1419,7 +1419,7 @@
 
       ],
       "frequency" : 7486,
-      "phonetic" : "ˌdɒmɪˈneɪʃn",
+      "phonetic" : "ˌdɑməˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "domination"
@@ -1454,7 +1454,7 @@
       ],
       "frequency" : 14448,
       "mnemonic" : "pre-（=before：在前）+ domin-（=to rule, dominate, to govern：统治；\n处于支配地位）+ -ate（动词后缀）→（在数量上）占优势；占主导",
-      "phonetic" : "prɪˈdɒmɪneɪt",
+      "phonetic" : "prɪˈdɑmɪneɪt",
       "pos" : "vt.",
       "rootHint" : "tract",
       "word" : "predominate"
@@ -1471,7 +1471,7 @@
       ],
       "frequency" : 11930,
       "mnemonic" : "pre-（在前；在先）+ -domin-（统治；支配）+ -ant（形容词后缀）→\n在前面占据统治、支配地位的→占主导地位的；显著的；流行的",
-      "phonetic" : "prɪˈdɒmɪnənt",
+      "phonetic" : "prɪˈdɑmɪnənt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "predominant"
@@ -1487,7 +1487,7 @@
       ],
       "frequency" : 6026,
       "mnemonic" : "predominant（占主导地位的；占支配地位的）+-ly（副词后缀）→最",
-      "phonetic" : "prɪˈdɒmɪnəntlɪ",
+      "phonetic" : "prɪˈdɑmɪnəntlɪ",
       "pos" : "adv.",
       "rootHint" : "tract",
       "word" : "predominantly"
@@ -1503,7 +1503,7 @@
         "Burma would be in no position for defense. On April 7, 1954, the President\nlike “falling dominoes.”\n缅甸将无力防御。1954年4月7日，总统仍警告说，如果印度支那\n（Indochina）陷落，整个东南亚地区将像“多米诺骨牌倒塌”一样崩\n溃。"
       ],
       "frequency" : 14636,
-      "phonetic" : "ˈdɒmɪnəʊ",
+      "phonetic" : "ˈdɑmɪnoʊ",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "domino"
@@ -1518,7 +1518,7 @@
 
       ],
       "frequency" : 6297,
-      "phonetic" : "dɒn",
+      "phonetic" : "dɑn",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "don"
@@ -1548,7 +1548,7 @@
 
       ],
       "frequency" : 7563,
-      "phonetic" : "mɑːˈdɑːm",
+      "phonetic" : "mæˈdæm",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "Madame"
@@ -1562,7 +1562,7 @@
         "Can I help you, madam?\n要帮忙吗，夫人？"
       ],
       "frequency" : 17599,
-      "phonetic" : "ˈmædəm",
+      "phonetic" : "ˈmæd.əm",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "madam"
@@ -1577,7 +1577,7 @@
       ],
       "frequency" : 17904,
       "mnemonic" : "来自拉丁语dominus “master” (of the castle) 城堡领主→castle keep：城\n堡→引申词义为隐蔽的地牢或土牢",
-      "phonetic" : "ˈdʌndʒən",
+      "phonetic" : "ˈdʌn.dʒən",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "dungeon"
@@ -1644,7 +1644,7 @@
 
       ],
       "frequency" : 14376,
-      "phonetic" : "ˈmaʊθpiːs",
+      "phonetic" : "ˈmaʊθˌpiːs",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "mouthpiece"
@@ -1702,7 +1702,7 @@
       ],
       "frequency" : 1246,
       "mnemonic" : "mount（山）+ -ain（名词后缀）→字面意思即小山，在18世纪前，该\n词都用来指高度非常低的小山→后来指代高山；山脉；许多；大量",
-      "phonetic" : "ˈmaʊntən",
+      "phonetic" : "ˈmaʊntn̩",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "mountain"
@@ -1748,7 +1748,7 @@
       ],
       "frequency" : 14584,
       "mnemonic" : "mountain（高山）+ top（顶部）→高山的顶部→山顶",
-      "phonetic" : "ˈmaʊnt(ə)ntɒp",
+      "phonetic" : "ˈmaʊnt(ə)ntɑp",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "mountaintop"
@@ -1846,7 +1846,7 @@
       ],
       "frequency" : 2920,
       "mnemonic" : "pro-（=forward：向前）+ -min（=project, jut out：突出；伸出）+ -ent\n（形容词后缀）→jut or stand out, overhang：向前突出的→引申义为",
-      "phonetic" : "ˈprɒmɪnənt",
+      "phonetic" : "ˈpɹɑmɪnənt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "prominent"
@@ -1861,7 +1861,7 @@
       ],
       "frequency" : 9880,
       "mnemonic" : "prominent（显著的）+ -ly（副词后缀）→显著地",
-      "phonetic" : "ˈprɔminəntli",
+      "phonetic" : "ˈpɹɑmɪnəntli",
       "pos" : "adv.",
       "rootHint" : "tract",
       "word" : "prominently"
@@ -1879,7 +1879,7 @@
       ],
       "frequency" : 8595,
       "mnemonic" : "pro-（=forward：向前）+ -min（=project, jut out：突出；伸出）+\n-ence（名词后缀）→向前突出，伸出→重要；杰出；著名",
-      "phonetic" : "ˈprɒmɪnəns",
+      "phonetic" : "ˈprɑmɪnəns",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "prominence"
@@ -1898,7 +1898,7 @@
       ],
       "frequency" : 9502,
       "mnemonic" : "par-（=through：通过（障碍）；一直到底）+ amount（=upward：向\n上）→一直向上，直到山顶→至为重要的；首要的（到达最重要的位",
-      "phonetic" : "ˈpærəmaʊnt",
+      "phonetic" : "ˈpa.ɹə.maʊnt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "paramount"
@@ -1933,7 +1933,7 @@
       ],
       "frequency" : 9522,
       "mnemonic" : "men-=projecting points：突出的点（如果一国军事力量特别突出，\n则对他国构成威胁）+-ace（名词后缀）→构成威胁→威胁；烦人之",
-      "phonetic" : "ˈmenəs",
+      "phonetic" : "ˈmɛnɪs",
       "pos" : "n.",
       "rootHint" : "tract",
       "word" : "menace"
@@ -1963,7 +1963,7 @@
       ],
       "frequency" : 11412,
       "mnemonic" : "e-（=ex-：向外）+ min（=-men：突出）+ -ent（形容词后缀）→突出\n来的→杰出的；卓越的",
-      "phonetic" : "ˈemɪnənt",
+      "phonetic" : "ˈɛmɪnənt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "eminent"
@@ -1978,7 +1978,7 @@
 
       ],
       "frequency" : 16878,
-      "phonetic" : "ˈemɪnəntli",
+      "phonetic" : "ˈɛmɪnəntli",
       "pos" : "adv.",
       "rootHint" : "tract",
       "word" : "eminently"
@@ -1995,7 +1995,7 @@
 
       ],
       "frequency" : 15660,
-      "phonetic" : "ˈtæntəmaʊnt",
+      "phonetic" : "ˈtæntəˌmaʊnt",
       "pos" : "adj.",
       "rootHint" : "tract",
       "word" : "tantamount"

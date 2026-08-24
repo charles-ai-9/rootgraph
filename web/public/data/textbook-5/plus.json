@@ -49,7 +49,7 @@
       ],
       "frequency" : 1504,
       "mnemonic" : "full（充分的）+ -ly（副词后缀）→完全地；彻底地；充分地",
-      "phonetic" : "ˈfʊlɪ",
+      "phonetic" : "ˈfʊli",
       "pos" : "adv.",
       "rootHint" : "plus",
       "word" : "fully"
@@ -81,7 +81,7 @@
       ],
       "frequency" : 14077,
       "mnemonic" : "full（满的）+ -ness（名词后缀）→丰满；完美；完全",
-      "phonetic" : "ˈfʊlnɪs",
+      "phonetic" : "ˈfʊlnəs",
       "pos" : "n.",
       "rootHint" : "plus",
       "word" : "fullness"
@@ -226,7 +226,7 @@
       ],
       "frequency" : 5501,
       "mnemonic" : "ful（=full：满）+ fill（装满）→填满；使充满→引申义为完成，履",
-      "phonetic" : "fulˈfil",
+      "phonetic" : "fəˈfɪl",
       "pos" : "vt.",
       "rootHint" : "plus",
       "word" : "fulfill"
@@ -275,7 +275,7 @@
       ],
       "frequency" : 6966,
       "mnemonic" : "land（土地）+ fill（装满）→使土地装满→用于指垃圾填埋场",
-      "phonetic" : "ˈlæn(d)fɪl",
+      "phonetic" : "ˈlænd.fɪl",
       "pos" : "n.",
       "rootHint" : "plus",
       "word" : "landfill"
@@ -291,7 +291,7 @@
       ],
       "frequency" : 7377,
       "mnemonic" : "fill（填充）+ -ing（名词或形容词后缀）→填充之物→填料；馅；",
-      "phonetic" : "ˈfɪlɪŋ",
+      "phonetic" : "[ˈfɪɫlɪŋ]",
       "pos" : "n.",
       "rootHint" : "plus",
       "word" : "filling"
@@ -306,7 +306,7 @@
       ],
       "frequency" : 13253,
       "mnemonic" : "re-（重新）+ fill（装满）→重新装满",
-      "phonetic" : "(for v.) riːˈfɪl; (for n.)ˈriːfɪl",
+      "phonetic" : "ˈɹiː.fɪl",
       "pos" : "vt.",
       "rootHint" : "plus",
       "word" : "refill"
@@ -322,7 +322,7 @@
       ],
       "frequency" : 15240,
       "mnemonic" : "fill（填满）+ -er（名词后缀，形容人或物）→填充物；补空物",
-      "phonetic" : "ˈfɪlə",
+      "phonetic" : "ˈfɪl.ə(ɹ)",
       "pos" : "n.",
       "rootHint" : "plus",
       "word" : "filler"

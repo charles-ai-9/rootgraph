@@ -21,7 +21,7 @@
       ],
       "frequency" : 3840,
       "mnemonic" : "carv-（=cut：切割，雕刻）+ e→切；雕刻",
-      "phonetic" : "kɑːv",
+      "phonetic" : "kɑɹv",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "carve"
@@ -36,7 +36,7 @@
 
       ],
       "frequency" : 8299,
-      "phonetic" : "karvd",
+      "phonetic" : "kɑɹvd",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "carved"
@@ -50,7 +50,7 @@
 
       ],
       "frequency" : 16163,
-      "phonetic" : "ˈkɑrvɚ",
+      "phonetic" : "ˈkɑɹvɚ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carver"
@@ -65,7 +65,7 @@
 
       ],
       "frequency" : 8375,
-      "phonetic" : "ˈkɑːvɪŋ",
+      "phonetic" : "[ˈkɑɹvɪŋ]",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carving"
@@ -81,7 +81,7 @@
 
       ],
       "frequency" : 5163,
-      "phonetic" : "kræb",
+      "phonetic" : "kɹæb",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "crab"
@@ -97,7 +97,7 @@
 
       ],
       "mnemonic" : "crab：螃蟹→crawl：爬行；缓慢爬行",
-      "phonetic" : "krɔːl",
+      "phonetic" : "kɹɔl",
       "pos" : "vi.",
       "rootHint" : "carv",
       "word" : "crawl"
@@ -113,7 +113,7 @@
       ],
       "frequency" : 14332,
       "mnemonic" : "crawl：爬行→scrawl：字在纸上爬行：潦草地写；潦草的字迹",
-      "phonetic" : "skrɔːl",
+      "phonetic" : "skɹɔl",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "scrawl"
@@ -131,7 +131,7 @@
       ],
       "frequency" : 16423,
       "mnemonic" : "gash=cut：切口",
-      "phonetic" : "gæʃ",
+      "phonetic" : "ɡæʃ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "gash"
@@ -150,7 +150,7 @@
       ],
       "frequency" : 787,
       "mnemonic" : "char（=carve：雕刻，刻）+ act（行为）+ -er（名词后缀）→刻进去\n的行为→性格，品质，特征（这些像是“深深刻在人心里的行为准\nchar（刻）+ acter（=actor：角色）→刻进人心里的角色→（深入人心",
-      "phonetic" : "ˈkærəktə",
+      "phonetic" : "ˈkæɹəktɚ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "character"
@@ -166,7 +166,7 @@
       ],
       "frequency" : 2049,
       "mnemonic" : "character（特征）+ -istic（复合名词或形容词后缀）→特有的；典型",
-      "phonetic" : "kærəktəˈrɪstɪk",
+      "phonetic" : "ˌkæɹəktəˈɹɪstɪk",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "characteristic"
@@ -214,7 +214,7 @@
       ],
       "frequency" : 2907,
       "mnemonic" : "character（特征）+ -ize（使动词后缀）→以……为特征；使……具有",
-      "phonetic" : "ˈkærəktəˈraɪz",
+      "phonetic" : "ˈkæɹəktəɹaɪz",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "characterize"
@@ -243,7 +243,7 @@
       ],
       "frequency" : 5007,
       "mnemonic" : "bizarr（=beard：胡须）+ e→长满胡须的→奇形怪状的，怪诞的（原",
-      "phonetic" : "bɪˈzɑː",
+      "phonetic" : "bəˈzɑɹ",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "bizarre"
@@ -278,7 +278,7 @@
 
       ],
       "frequency" : 3773,
-      "phonetic" : "treɪt",
+      "phonetic" : "tɹeɪ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "trait"
@@ -309,7 +309,7 @@
       ],
       "frequency" : 8323,
       "mnemonic" : "sculpt（雕塑）+ -or（名词后缀，表示人）→雕塑家",
-      "phonetic" : "ˈskʌlptə",
+      "phonetic" : "ˈskʌlptɚ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "sculptor"
@@ -325,7 +325,7 @@
       ],
       "frequency" : 3457,
       "mnemonic" : "sculpt（=carve：雕刻）+ -ure（名词后缀）→雕塑；雕刻",
-      "phonetic" : "ˈskʌlptʃə",
+      "phonetic" : "ˈskʌlpt͡ʃɚ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "sculpture"
@@ -371,7 +371,7 @@
       ],
       "frequency" : 15746,
       "mnemonic" : "scalp（=sculp：to carve, cut：刻；切）+ el（表示小）→小的用于做\n手术的刀→外科手术刀",
-      "phonetic" : "ˈskælp(ə)l",
+      "phonetic" : "ˈskælpəl",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scalpel"
@@ -433,7 +433,7 @@
 
       ],
       "frequency" : 12646,
-      "phonetic" : "ˈskɪlfəl",
+      "phonetic" : "ˈskɪl.fəl",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "skillful"
@@ -532,7 +532,7 @@
 
       ],
       "frequency" : 20125,
-      "phonetic" : "ˈskelɪŋ",
+      "phonetic" : "ˈskeɪlɪŋ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scaling"
@@ -548,7 +548,7 @@
 
       ],
       "frequency" : 548,
-      "phonetic" : "hɑːf",
+      "phonetic" : "hɑf",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "half"
@@ -565,7 +565,7 @@
       ],
       "frequency" : 4640,
       "mnemonic" : "half（一半的）+ way（路；道路）→道路走到一半的→在中途地；在",
-      "phonetic" : "hɑːfˈweɪ;ˈhɑːfweɪ",
+      "phonetic" : "hæfweɪ",
       "pos" : "adv.",
       "rootHint" : "carv",
       "word" : "halfway"
@@ -582,7 +582,7 @@
       ],
       "frequency" : 4483,
       "mnemonic" : "be-（=by：附近）+half（一半）→在另一边的，代表另一方利益的→",
-      "phonetic" : "bɪˈhɑːf",
+      "phonetic" : "bɪˈhɑf",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "behalf"
@@ -612,7 +612,7 @@
       ],
       "frequency" : 9591,
       "mnemonic" : "one（一）+ half（半）→一半；二分之一",
-      "phonetic" : "wʌnhɑːf",
+      "phonetic" : "wʌnhɑf",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "one-half"
@@ -628,7 +628,7 @@
       ],
       "frequency" : 10324,
       "mnemonic" : "half：一半→halve：使减半；对半分开",
-      "phonetic" : "hɑːv",
+      "phonetic" : "hæv",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "halve"
@@ -658,7 +658,7 @@
       ],
       "frequency" : 17114,
       "mnemonic" : "half（一半）+mile（英里）→半英里",
-      "phonetic" : "hɑːfmaɪl",
+      "phonetic" : "hɑfmaɪl",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "half-mile"
@@ -674,7 +674,7 @@
       ],
       "frequency" : 19297,
       "mnemonic" : "half（一半）+hearted（有……之心的）→有一半心情的→不热心的",
-      "phonetic" : "ˈhɑːfha:tidˈha:f-",
+      "phonetic" : "ˈhɑfha:tidˈha:f-",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "half-hearted"
@@ -692,7 +692,7 @@
       ],
       "frequency" : 19977,
       "mnemonic" : "half（一半）+million（一百万）→五十万",
-      "phonetic" : "hɑːfˈmɪljən",
+      "phonetic" : "hɑfˈmɪljən",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "half-million"
@@ -752,7 +752,7 @@
       ],
       "frequency" : 11408,
       "mnemonic" : "school（学校）+ child（孩子）→小学生",
-      "phonetic" : "ˈskuːltʃaɪld",
+      "phonetic" : "ˈsku.əltʃaɪld",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "schoolchild"
@@ -797,7 +797,7 @@
       ],
       "frequency" : 16545,
       "mnemonic" : "school（学校）+ girl（女孩）→学校里的女孩→女学生",
-      "phonetic" : "ˈskuːlgɜːl",
+      "phonetic" : "ˈskuːlgɝl",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "schoolgirl"
@@ -812,7 +812,7 @@
       ],
       "frequency" : 16955,
       "mnemonic" : "school（学校）+ yard（场地；院子）→学校里的场地→操场",
-      "phonetic" : "ˈskuːljɑːd",
+      "phonetic" : "ˈskuːljɑd",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "schoolyard"
@@ -827,7 +827,7 @@
       ],
       "frequency" : 17652,
       "mnemonic" : "school（学校）+ work（功课）→学校的功课→学校作业",
-      "phonetic" : "ˈskuːlwɜːk",
+      "phonetic" : "ˈskulˌwɝk",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "schoolwork"
@@ -857,7 +857,7 @@
       ],
       "frequency" : 17098,
       "mnemonic" : "school（学校）+ boy（男孩）→学校里的男孩→男学生",
-      "phonetic" : "ˈskuːlbɒɪ",
+      "phonetic" : "ˈskuːlbɑɪ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "schoolboy"
@@ -901,7 +901,7 @@
 
       ],
       "frequency" : 19082,
-      "phonetic" : "əʊldskʊl",
+      "phonetic" : "oʊldskʊl",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "old-school"
@@ -919,7 +919,7 @@
       ],
       "frequency" : 2119,
       "mnemonic" : "schol（=school：学校）+ -ar（人）→引申词义学者；奖学金获得者",
-      "phonetic" : "ˈskɒlə",
+      "phonetic" : "ˈskɑlɚ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scholar"
@@ -935,7 +935,7 @@
       ],
       "frequency" : 3071,
       "mnemonic" : "scholar（学者）+ ship（表状态名词）→奖学金；学问成就",
-      "phonetic" : "ˈskɒləʃɪp",
+      "phonetic" : "ˈskɑləʃɪp",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scholarship"
@@ -952,7 +952,7 @@
       ],
       "frequency" : 6398,
       "mnemonic" : "scholar（学者）+ -ly（形容词后缀）→跟学者有关的→好学的；学术",
-      "phonetic" : "ˈskɒləlɪ",
+      "phonetic" : "ˈskɑləlɪ",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "scholarly"
@@ -983,7 +983,7 @@
 
       ],
       "frequency" : 2972,
-      "phonetic" : "ʃelf",
+      "phonetic" : "ʃɛlf",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "shelf"
@@ -998,7 +998,7 @@
       ],
       "frequency" : 16392,
       "mnemonic" : "put on a shelf：放在架子上→引申义为搁置；停止（计划）",
-      "phonetic" : "ʃelv",
+      "phonetic" : "ʃɛlv",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "shelve"
@@ -1013,7 +1013,7 @@
       ],
       "frequency" : 11480,
       "mnemonic" : "book（书）+ shelf（架）→书架",
-      "phonetic" : "ˈbʊkʃelf",
+      "phonetic" : "ˈbʊkˌʃɛlf",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "bookshelf"
@@ -1051,7 +1051,7 @@
 
       ],
       "frequency" : 12759,
-      "phonetic" : "ˈskɒləp;ˈskæləp",
+      "phonetic" : "ˈskæləp",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scallop"
@@ -1071,7 +1071,7 @@
       ],
       "frequency" : 821,
       "mnemonic" : "sect-（=cut：切割）+-ion（名词后缀）→切割出来的东西→分；部",
-      "phonetic" : "ˈsekʃn",
+      "phonetic" : "ˈsɛkʃən",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "section"
@@ -1088,7 +1088,7 @@
       ],
       "frequency" : 18486,
       "mnemonic" : "section（部分）+ -al（形容词后缀）→某一部分的；由部分构成的→",
-      "phonetic" : "ˈsekʃənl",
+      "phonetic" : "ˈsɛkʃənəl",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "sectional"
@@ -1104,7 +1104,7 @@
       ],
       "frequency" : 1988,
       "mnemonic" : "sect（=cut：切割）+ -or（名词后缀）→切割出来的东西→部分；部",
-      "phonetic" : "ˈsektə",
+      "phonetic" : "ˈsɛk.təɹ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "sector"
@@ -1120,7 +1120,7 @@
       ],
       "frequency" : 3434,
       "mnemonic" : "in-（入；向内）+ -sect（切割）→昆虫的身体和纹理看上去是一段一\n段的，像被“切割”过一般→昆虫",
-      "phonetic" : "ˈɪnsekt",
+      "phonetic" : "ˈɪnsɛkt",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "insect"
@@ -1150,7 +1150,7 @@
       ],
       "frequency" : 11198,
       "mnemonic" : "inter-（=between：在中间）+ -sect（切）→即中间切开→引申词义相",
-      "phonetic" : "ɪntəˈsekt",
+      "phonetic" : "ɪntəˈsɛkt",
       "pos" : "vi.",
       "rootHint" : "carv",
       "word" : "intersect"
@@ -1165,7 +1165,7 @@
       ],
       "frequency" : 5842,
       "mnemonic" : "inter-（两者之间）+ sect-（=cut：切割）+ -ion（名词后缀）→两者间\n相互切割的地方→交点；十字路口，交叉路口",
-      "phonetic" : "ɪntəˈsekʃ(ə)n",
+      "phonetic" : "ˈɪntəɹˌsɛkʃən",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "intersection"
@@ -1181,7 +1181,7 @@
       ],
       "frequency" : 12165,
       "mnemonic" : "dis-（=apart：分开）+ sect（=to cut：分开）→cut apart：解剖；剖",
-      "phonetic" : "dɪˈsekt",
+      "phonetic" : "dɪˈsɛkt",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "dissect"
@@ -1195,7 +1195,7 @@
 
       ],
       "frequency" : 16323,
-      "phonetic" : "dɪˈsekʃn",
+      "phonetic" : "daɪˈsɛkʃən",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "dissection"
@@ -1227,7 +1227,7 @@
 
       ],
       "frequency" : 7553,
-      "phonetic" : "sɔː",
+      "phonetic" : "sɔ",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "saw"
@@ -1242,7 +1242,7 @@
       ],
       "frequency" : 14628,
       "mnemonic" : "saw（锯）+ dust（粉末）→锯东西留下的末→锯末",
-      "phonetic" : "ˈsɔːdʌst",
+      "phonetic" : "ˈsɔˌdʌst",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "sawdust"
@@ -1259,7 +1259,7 @@
       ],
       "frequency" : 16358,
       "mnemonic" : "jig（快速地上下移动）+ saw（锯子）→像锯齿一样快速上下移动→",
-      "phonetic" : "ˈdʒɪgsɔː",
+      "phonetic" : "ˈdʒɪgsɔ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "jigsaw"
@@ -1274,7 +1274,7 @@
       ],
       "frequency" : 19424,
       "mnemonic" : "chain（链子）+ saw（锯）→链锯",
-      "phonetic" : "ˈtʃeɪnsɔː",
+      "phonetic" : "ˈt͡ʃeɪn.ˌsɔ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "chainsaw"
@@ -1292,7 +1292,7 @@
       ],
       "frequency" : 19570,
       "mnemonic" : "Anglo（=angle：角，指盎格鲁人（原日耳曼民族）原先居住的土地\n形如牛角）+ Saxon（=warriors with knives：剑客）→英式的；盎格",
-      "phonetic" : "ˌæŋɡləʊˈsæksn",
+      "phonetic" : "ˌæŋɡloʊˈsæksn",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "Anglo-Saxon"
@@ -1323,7 +1323,7 @@
       ],
       "frequency" : 17242,
       "mnemonic" : "skin（皮肤）+head（头）→头上只有皮肤，没有头发的→（有暴力",
-      "phonetic" : "ˈskɪnhed",
+      "phonetic" : "ˈskɪnhɛd",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "skinhead"
@@ -1361,7 +1361,7 @@
       ],
       "frequency" : 5474,
       "mnemonic" : "skin（皮肤，双写n）+ -y（形容词后缀）→收到只有皮肤的→瘦得皮",
-      "phonetic" : "ˈskɪnɪ",
+      "phonetic" : "ˈskɪni",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "skinny"
@@ -1377,7 +1377,7 @@
       ],
       "frequency" : 9832,
       "mnemonic" : "shear (sheep)”→用锋利的工具剪；（给羊）剪毛\nsharp：锋利的，share：分享，因此shar-表示“切”→shear：剪",
-      "phonetic" : "ʃɪə",
+      "phonetic" : "ʃiɹ",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "shear"
@@ -1396,7 +1396,7 @@
         "Shorn of his power, the deposed king went into exile.\n权力被褫夺后，遭废黜的国王流亡国外。"
       ],
       "frequency" : 9114,
-      "phonetic" : "ˈsɪzəz",
+      "phonetic" : "ˈsɪzɚz",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scissors"
@@ -1414,7 +1414,7 @@
       ],
       "frequency" : 8898,
       "mnemonic" : "v. 来自古英语screadian “to peel, prune, cut off ”→切碎；撕碎",
-      "phonetic" : "ʃred",
+      "phonetic" : "ʃɹɛd",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "shred"
@@ -1446,7 +1446,7 @@
       ],
       "frequency" : 5568,
       "mnemonic" : "scrape=erase：擦掉；抹掉\nscrape=gather by great effort, collect with difficulty：艰难获取",
-      "phonetic" : "skreɪp",
+      "phonetic" : "skɹeɪp",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "scrape"
@@ -1461,7 +1461,7 @@
       ],
       "frequency" : 10892,
       "mnemonic" : "sky（天）+ scrape（摩；擦）+ -er（表物体）→摩擦天空的物体→摩",
-      "phonetic" : "ˈskaɪskreɪpə",
+      "phonetic" : "ˈskaɪˌskɹeɪp.ə(ɹ)",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "skyscraper"
@@ -1480,7 +1480,7 @@
         "His pen scratched away on the paper.\n他的笔在纸上沙沙作响。"
       ],
       "frequency" : 4698,
-      "phonetic" : "skrætʃ",
+      "phonetic" : "skɹætʃ",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "scratch"
@@ -1496,7 +1496,8 @@
       "frequency" : 18552,
       "pos" : "v.",
       "rootHint" : "carv",
-      "word" : "scratching"
+      "word" : "scratching",
+      "phonetic" : "ˈskɹætʃɪŋ"
     },
     {
       "collocations" : [
@@ -1508,7 +1509,7 @@
       ],
       "frequency" : 19561,
       "mnemonic" : "scratch（抓；挠）+ -y（形容词后缀）→引申词义为刺痒的，扎人",
-      "phonetic" : "ˈskrætʃɪ",
+      "phonetic" : "ˈskɹætʃi",
       "pos" : "adj.",
       "rootHint" : "carv",
       "word" : "scratchy"
@@ -1527,7 +1528,7 @@
       ],
       "frequency" : 5664,
       "mnemonic" : "scrape：刮，擦，磨→scrap：碎片；废料；废弃；废弃的",
-      "phonetic" : "skræp",
+      "phonetic" : "skɹæp",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scrap"
@@ -1559,7 +1560,7 @@
       ],
       "frequency" : 9237,
       "mnemonic" : "cur-（=court：short）+ tail（尾巴）→cut short, cut the end of：缩短；\n切断尾巴→缩短；限制（缩短尾巴或“后备力量”，行动就会受到限",
-      "phonetic" : "kɜːˈteɪl",
+      "phonetic" : "kɚˈteɪl",
       "pos" : "vt.",
       "rootHint" : "carv",
       "word" : "curtail"
@@ -1578,7 +1579,7 @@
       ],
       "frequency" : 3659,
       "mnemonic" : "curt（=cut：切开）+ -ain（表示物）→把房间内外切开的物体→窗",
-      "phonetic" : "ˈkɜːt(ə)n",
+      "phonetic" : "ˈkɝtn̩",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "curtain"
@@ -1624,7 +1625,7 @@
       ],
       "frequency" : 10770,
       "mnemonic" : "“to write down in a scroll：在卷轴上写下”→引申义为（在计算机",
-      "phonetic" : "skrəʊl",
+      "phonetic" : "skɹoʊl",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scroll"
@@ -1642,7 +1643,7 @@
       ],
       "frequency" : 11805,
       "mnemonic" : "carn-（切肉）+ -age（名词词尾）→把肉切下→大屠杀",
-      "phonetic" : "ˈkɑːnɪdʒ",
+      "phonetic" : "ˈkɑɹ.nɪdʒ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carnage"
@@ -1658,7 +1659,7 @@
       ],
       "frequency" : 19359,
       "mnemonic" : "carn-（=flesh：肉）+ -ation（名词后缀）→flesh-colored：肉色原始意\n义为“粉红色，肉色”→（粉红色的）康乃馨（花）\n音记：[kɑːˈneɪʃ(ə)n]→康乃馨",
-      "phonetic" : "kɑːˈneɪʃ(ə)n",
+      "phonetic" : "kɑɹˈneɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carnation"
@@ -1675,7 +1676,7 @@
       ],
       "frequency" : 12867,
       "mnemonic" : "carni-（肉）+-val（-ive + -al）→谢肉节→狂欢节；嘉年华",
-      "phonetic" : "ˈkɑːnɪv(ə)l",
+      "phonetic" : "kɑɹnəˈvɑl",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carnival"
@@ -1690,7 +1691,7 @@
       ],
       "frequency" : 15689,
       "mnemonic" : "carni-（=flesh：肉）+ -vore（=eat：吃）→吃肉的动物→食肉动物；",
-      "phonetic" : "ˈkɑːnɪvɔː",
+      "phonetic" : "ˈkɑnɪvɔ",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "carnivore"
@@ -1706,7 +1707,7 @@
       ],
       "frequency" : 9824,
       "mnemonic" : "in-（=in）+ carn-（=flesh：肉）+ -ation（名词后缀）→变成肉身→",
-      "phonetic" : "ɪnkɑːˈneɪʃ(ə)n",
+      "phonetic" : "ˌɪŋkɑ(ɹ)ˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "incarnation"
@@ -1721,7 +1722,7 @@
       ],
       "frequency" : 18458,
       "mnemonic" : "re-（再次）+ incarnation（变为肉身）→再次变为肉身→转世再生",
-      "phonetic" : "ˌriːɪnkɑːˈneɪʃ(ə)n",
+      "phonetic" : "ˌriːɪnkɑˈneɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "reincarnation"
@@ -1736,7 +1737,7 @@
 
       ],
       "frequency" : 14306,
-      "phonetic" : "ˈkɔːteks",
+      "phonetic" : "ˈkɔɹtɛks",
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "cortex"

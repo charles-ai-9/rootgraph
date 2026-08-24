@@ -24,7 +24,7 @@
       ],
       "frequency" : 8308,
       "mnemonic" : "ana-（=up）+ -tomy（=to cut：切）→a cutting up：切开→结构；解",
-      "phonetic" : "əˈnætəmɪ",
+      "phonetic" : "əˈnætəmi",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "anatomy"
@@ -39,7 +39,7 @@
       ],
       "frequency" : 14024,
       "mnemonic" : "anatom（anatomy：人体；结构）+ -ical（形容词后缀）→身体结构的",
-      "phonetic" : "ænəˈtɒmɪk(ə)l",
+      "phonetic" : "æ.nə.ˈtɑ.mɪ.kəl",
       "pos" : "adj.",
       "rootHint" : "tom 也",
       "word" : "anatomical"
@@ -55,7 +55,7 @@
       ],
       "frequency" : 5246,
       "mnemonic" : "a-（=not：不）+ -tom（a cutting）→不能再分割的物质→原子",
-      "phonetic" : "ˈætəm",
+      "phonetic" : "ˈatəm",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "atom"
@@ -72,7 +72,7 @@
       ],
       "frequency" : 5504,
       "mnemonic" : "atom（原子）+ -ic（形容词后缀）→原子的；原子能的",
-      "phonetic" : "əˈtɒmɪk",
+      "phonetic" : "əˈtɑ.mɪk",
       "pos" : "adj.",
       "rootHint" : "tom 也",
       "word" : "atomic"
@@ -87,7 +87,7 @@
       ],
       "frequency" : 11554,
       "mnemonic" : "dicho-（=in two：二个，来自di-的希腊语形式）+ -tomy（=a cutting：\n切）→a cutting in two：即切成两半的，分成两个级别的→二分法；",
-      "phonetic" : "daɪˈkɒtəmɪ",
+      "phonetic" : "daɪˈkɑt.ə.mi",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "dichotomy"
@@ -101,7 +101,7 @@
 
       ],
       "frequency" : 19597,
-      "phonetic" : "daɪˈkɒtəməs;dɪ-",
+      "phonetic" : "daɪˈkɑt.ə.məs",
       "pos" : "adj.",
       "rootHint" : "tom 也",
       "word" : "dichotomous"
@@ -119,7 +119,7 @@
       ],
       "frequency" : 16379,
       "mnemonic" : "epi-（=among：从里面）+ -tome（=to cut：切）→从里面切出来→",
-      "phonetic" : "ɪˈpɪtəmɪ;e-",
+      "phonetic" : "əˈpɪt.ə.mi",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "epitome"
@@ -134,7 +134,7 @@
       ],
       "frequency" : 12841,
       "mnemonic" : "epitom（=epitomy：典型）+ -ize（动词后缀，使……）→typify,\nembody：成为……的典范（或典型）",
-      "phonetic" : "ɪˈpɪtəmaɪz",
+      "phonetic" : "əˈpɪt.əˌmaɪz",
       "pos" : "vt.",
       "rootHint" : "tom 也",
       "word" : "epitomize"
@@ -150,7 +150,7 @@
 
       ],
       "frequency" : 15733,
-      "phonetic" : "təʊm",
+      "phonetic" : "toʊm",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "tome"
@@ -199,7 +199,7 @@
       ],
       "frequency" : 5955,
       "mnemonic" : "spa（=space：空间）+ t +-ial（形容词后缀）→空间的；感悟空间的",
-      "phonetic" : "ˈspeɪʃ(ə)l",
+      "phonetic" : "ˈspeɪʃəl",
       "pos" : "adj.",
       "rootHint" : "tom 也",
       "word" : "spatial"
@@ -229,7 +229,7 @@
       ],
       "frequency" : 6539,
       "mnemonic" : "space（太空）+ craft（航天器）→宇宙飞船；航天器",
-      "phonetic" : "ˈspeɪskrɑːft",
+      "phonetic" : "ˈspeɪskrɑft",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "spacecraft"
@@ -294,7 +294,7 @@
       ],
       "frequency" : 8977,
       "mnemonic" : "aero-（=atmosphere：大气）+ space（外太空）→大气层之外的外太\n空领域的→航空航天",
-      "phonetic" : "ˈeərəspeɪs",
+      "phonetic" : "ˈɛrəspeɪs",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "aerospace"
@@ -309,7 +309,7 @@
       ],
       "frequency" : 12086,
       "mnemonic" : "cyber（网络的）+ space（空间）→网络空间",
-      "phonetic" : "ˈsaɪbəspeɪs",
+      "phonetic" : "ˈsaɪ.bə(ɹ)ˌspeɪs",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "cyberspace"
@@ -325,7 +325,7 @@
       ],
       "frequency" : 16912,
       "mnemonic" : "air（空中）+ space（空间）→空中的领域→空域；领空",
-      "phonetic" : "ˈeəspeɪs",
+      "phonetic" : "ˈɛrspeɪs",
       "pos" : "n.",
       "rootHint" : "tom 也",
       "word" : "airspace"

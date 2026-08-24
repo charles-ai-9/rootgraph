@@ -21,7 +21,7 @@
       ],
       "frequency" : 5411,
       "mnemonic" : "ortho-（=right, true：正确的）+ -dox（=-doc-：教→opinion：观念；\n思想）→正确的、正统的思想→正统的；正统信仰的；东正教派的",
-      "phonetic" : "ˈɔːθədɒks",
+      "phonetic" : "ˈɔːɹθədɑks",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "orthodox"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 10410,
       "mnemonic" : "orthodox（正统的；普遍接受的；正统信仰的）+ -y（名词后缀）→",
-      "phonetic" : "ˈɔːθədɒksɪ",
+      "phonetic" : "ˈɔθədɑksi",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "orthodoxy"
@@ -51,7 +51,7 @@
       ],
       "frequency" : 15051,
       "mnemonic" : "un-（=not：不；非）+ orthodox（正统的；传统的，规范的）→非正",
-      "phonetic" : "ʌnˈɔːθədɒks",
+      "phonetic" : "ʌnˈɔɹθədɑks",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "unorthodox"
@@ -66,7 +66,7 @@
       ],
       "frequency" : 6871,
       "mnemonic" : "para-（=contrary to：与……相反）+ -dox（=doxa=opinion：观点）→\n相反的观点→引申词义矛盾；悖论",
-      "phonetic" : "ˈpærədɒks",
+      "phonetic" : "ˈpæɹədɑks",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "paradox"
@@ -81,7 +81,7 @@
       ],
       "frequency" : 12706,
       "mnemonic" : "paradox（自相矛盾；悖论；似非而是的论点）+ -ical（形容词后缀）\n→自相矛盾的；似矛盾而（可能）正确的",
-      "phonetic" : "ˌpærəˈdɒksɪkl",
+      "phonetic" : "ˌpɛɹəˈdɑksɪkəl",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "paradoxical"
@@ -96,7 +96,7 @@
       ],
       "frequency" : 10819,
       "mnemonic" : "paradoxical（自相矛盾的）+ -ly（副词后缀）→自相矛盾的；反常地",
-      "phonetic" : "ˌpærəˈdɒksɪklɪ",
+      "phonetic" : "ˌpærəˈdɑksɪklɪ",
       "pos" : "adv.",
       "rootHint" : "dox",
       "word" : "paradoxically"
@@ -113,7 +113,7 @@
 
       ],
       "frequency" : 5670,
-      "phonetic" : "əˈkædəmɪ",
+      "phonetic" : "əˈkæd.ə.mi",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "academy"
@@ -131,7 +131,7 @@
       ],
       "frequency" : 1473,
       "mnemonic" : "academ（=academy：学院；研究院）+ -ic（形容词后缀）→学院",
-      "phonetic" : "ækəˈdemɪk",
+      "phonetic" : "ˌækəˈdɛmɪk",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "academic"
@@ -145,7 +145,7 @@
         "He is academically gifted.\n他在学术方面有天份。"
       ],
       "frequency" : 9527,
-      "phonetic" : "ˌækəˈdemɪkli",
+      "phonetic" : "ˌæk.əˈdɛm.ɪk.li",
       "pos" : "adv.",
       "rootHint" : "dox",
       "word" : "academically"
@@ -162,7 +162,7 @@
       ],
       "frequency" : 11593,
       "mnemonic" : "academ（=academy：学院；高校；研究院）+ -ia（集合名词后缀）\n→学院、高校、研究院的集合→学术界",
-      "phonetic" : "ˌækəˈdiːmiə",
+      "phonetic" : "ˌæ.kəˈdiː.mɪ.ə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "academia"
@@ -175,7 +175,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "milit：士兵+ -ia名词后缀→",
+      "phonetic" : "məˈlɪʃə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "militia"
@@ -188,7 +188,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "sub-次+ urb-：城市 + -ia名词后缀→",
+      "phonetic" : "səˈbɝbɪ.ə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "suburbia"
@@ -201,7 +201,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "battal =battle：战斗 + -ia名词后缀→",
+      "phonetic" : "bəˈteiljə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "battalia"
@@ -251,7 +251,7 @@
       ],
       "frequency" : 12683,
       "mnemonic" : "bat（球棒）+ -on（名词后缀）→短小结实的棍棒→指挥棒；接力",
-      "phonetic" : "ˈbætɒn",
+      "phonetic" : "bəˈtɑn",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "baton"
@@ -269,7 +269,7 @@
       ],
       "frequency" : 1203,
       "mnemonic" : "batt-（打；击）+ -le（名词后缀，表反复）→反复击打→与……作斗",
-      "phonetic" : "ˈbætl",
+      "phonetic" : "ˈbætl̩",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "battle"
@@ -285,7 +285,7 @@
       ],
       "frequency" : 16679,
       "mnemonic" : "em-（使处于……境地）+ battle（战斗）+ -ed（e重复，略）→使处\n于战斗境地→处于困境的；卷入战争的",
-      "phonetic" : "ɪmˈbætld",
+      "phonetic" : "ɛmˈbæt.əld",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "embattled"
@@ -320,7 +320,7 @@
       ],
       "frequency" : 7352,
       "mnemonic" : "batt-（打；击）+ -er（动词后缀）→反复击打→连续猛击；袭击；击",
-      "phonetic" : "ˈbætə",
+      "phonetic" : "ˈbætəɹ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "batter"
@@ -356,7 +356,7 @@
       ],
       "frequency" : 3221,
       "mnemonic" : "batt-（打；击）+ -ery（名词后缀）→持续的打击，形容电池放电过\n程中的电流的持续运动→电池；殴打罪",
-      "phonetic" : "ˈbætri",
+      "phonetic" : "ˈbætəɹi",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "battery"
@@ -374,7 +374,7 @@
       ],
       "frequency" : 3442,
       "mnemonic" : "com-（强调）+ -bat（击；打）→战斗；与……搏斗；防止（战斗的",
-      "phonetic" : "ˈkɒmbæt",
+      "phonetic" : "kəmˈbæt",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "combat"
@@ -389,7 +389,7 @@
       ],
       "frequency" : 11062,
       "mnemonic" : "combat（战斗）+ -ant（名词后缀）→参与战斗的人→参战者；战斗",
-      "phonetic" : "ˈkɒmbətənt",
+      "phonetic" : "kəm.ˈbæ.tənt",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "combatant"
@@ -404,7 +404,7 @@
       ],
       "frequency" : 16886,
       "mnemonic" : "combat（战斗）+ -ive（形容词后缀）→好战的；好斗的",
-      "phonetic" : "ˈkɒmbətɪv",
+      "phonetic" : "ˈkɑm.bə.tɪv",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "combative"
@@ -435,7 +435,7 @@
       ],
       "frequency" : 17727,
       "mnemonic" : "debat（=debate：争辩；争论）+ -able（能够……的）→能引起争辩\n的→可争辩的；有争议的",
-      "phonetic" : "dɪˈbeɪtəbl",
+      "phonetic" : "[dɪˈbeɪtəbəɫ]",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "debatable"
@@ -457,7 +457,7 @@
       ],
       "frequency" : 3642,
       "mnemonic" : "bact（=bat：棒；杆）+ -eria（-ery+ -ia：复合名词后缀）→细菌（因",
-      "phonetic" : "bækˈtɪərɪə",
+      "phonetic" : "bækˈtɪɹ.i.ə",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "bacteria"
@@ -472,7 +472,7 @@
       ],
       "frequency" : 8747,
       "mnemonic" : "bacteria（细菌）+ -al（形容词后缀）→细菌的",
-      "phonetic" : "bækˈtɪərɪəl",
+      "phonetic" : "[bækˈtɪɹɪəɫ]",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "bacterial"
@@ -503,7 +503,7 @@
       ],
       "frequency" : 16906,
       "mnemonic" : "abate（=reduce：减少）+ -ment（名词后缀）→减少；减轻",
-      "phonetic" : "əˈbeɪtmənt",
+      "phonetic" : "əˈbeɪt.mənt",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "abatement"
@@ -520,7 +520,7 @@
       ],
       "frequency" : 10785,
       "mnemonic" : "re-（向后）+ bate（=abate：减轻，减少）→向后减少→引申词义退",
-      "phonetic" : "ˈriːbeɪt",
+      "phonetic" : "ɹəˈbeɪt",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "rebate"
@@ -544,7 +544,7 @@
       ],
       "frequency" : 994,
       "mnemonic" : "bar-栅栏；障碍→律师（律师义来自旧时将法官席与其它部分用“隔\n栏”隔开）→引申义为障碍，羁绊。",
-      "phonetic" : "bɑː(r)",
+      "phonetic" : "bɑɹ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "bar"
@@ -559,7 +559,7 @@
       ],
       "frequency" : 14715,
       "mnemonic" : "bar（棒；栏杆）+ -ing→原指挡在外面的，后指除……之外",
-      "phonetic" : "ˈbɑːrɪŋ",
+      "phonetic" : "ˈbɑːɹɪŋ(ɡ)",
       "pos" : "prep.",
       "rootHint" : "dox",
       "word" : "barring"
@@ -576,7 +576,7 @@
       ],
       "frequency" : 3109,
       "mnemonic" : "barr（木条；木头；木棒）+ -el（名词后缀）→桶（也是用“木头”",
-      "phonetic" : "ˈbærəl",
+      "phonetic" : "ˈbæɹəl",
       "rootHint" : "dox",
       "word" : "barrel"
     },
@@ -594,7 +594,7 @@
       ],
       "frequency" : 2632,
       "mnemonic" : "bar（木条；木棒）+ -ier（名词后缀）→栅栏；阻碍物，屏障（即：",
-      "phonetic" : "ˈbærɪə",
+      "phonetic" : "ˈbæɹi.əɹ",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "barrier"
@@ -612,7 +612,7 @@
       ],
       "frequency" : 11574,
       "mnemonic" : "barric（=barrel：桶）+ -ade（物品）→很多桶→路障；街垒；在……",
-      "phonetic" : "ˈbærɪkeɪd",
+      "phonetic" : "ˌbæɹɪˈkeɪd",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "barricade"
@@ -630,7 +630,7 @@
       ],
       "frequency" : 8984,
       "mnemonic" : "邪记：bar（酒吧）+ ren（人）→天天泡酒吧的人→饮酒过度→不能生育",
-      "phonetic" : "ˈbærən",
+      "phonetic" : "ˈbæɹən",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "barren"
@@ -649,7 +649,7 @@
       ],
       "frequency" : 9023,
       "mnemonic" : "barro，泥土，指用泥土搭建的简易土坯房。或同bar，杆，棍，指用",
-      "phonetic" : "ˈbærəks",
+      "phonetic" : "ˈbæɹəks",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "barracks"
@@ -665,7 +665,7 @@
       ],
       "frequency" : 10502,
       "mnemonic" : "barr-（棒，栏杆；barrier：障碍物；屏障）+ -age（物品）→用来阻拦\n的物品→水坝；拦河坝（用来阻挡洪水）→火力网（用以阻挡地方炮\n火来进行掩护）→连珠炮似的提问（用来质问或指责等）；不断骚扰",
-      "phonetic" : "ˈbærɑːʒ",
+      "phonetic" : "bəˈɹɑʒ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "barrage"
@@ -680,7 +680,7 @@
       ],
       "frequency" : 12699,
       "mnemonic" : "handle（柄；把）+ bar（（金属）棒）→用来抓、拿的金属棒→把手",
-      "phonetic" : "ˈhændlbɑː",
+      "phonetic" : "ˈhændəlbɑːɹ",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "handlebar"
@@ -696,7 +696,7 @@
       ],
       "frequency" : 7263,
       "mnemonic" : "邪解：em-（=in）+ barr-（=barrier：栅栏；障碍）+ ass（驴）→困在栅栏里\n的驴→使窘迫，使尴尬；使陷入困境",
-      "phonetic" : "ɪmˈbærəs",
+      "phonetic" : "ɪmˈbæ.ɹəs",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "embarrass"
@@ -712,7 +712,7 @@
       ],
       "frequency" : 4654,
       "mnemonic" : "embarrass（使窘迫；使尴尬）+ -ed（形容词后缀）→窘迫的；尴尬的",
-      "phonetic" : "ɪmˈbærəst",
+      "phonetic" : "ɪmˈbæɹ.əst",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "embarrassed"
@@ -727,7 +727,7 @@
       ],
       "frequency" : 5742,
       "mnemonic" : "embarrass（使害羞；使尴尬）+ -ing（形容词后缀，使……）→使人",
-      "phonetic" : "ɪmˈbærəsɪŋ",
+      "phonetic" : "ɪmˈbæɹəsɪŋ",
       "pos" : "adj.",
       "rootHint" : "dox",
       "word" : "embarrassing"
@@ -744,7 +744,7 @@
       ],
       "frequency" : 5878,
       "mnemonic" : "embarrass（害羞；难堪）+ -ment（名词后缀）→害羞，难堪；使人",
-      "phonetic" : "ɪmˈbærəsmənt",
+      "phonetic" : "ɪmˈbæɹəsmənt",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "embarrassment"
@@ -760,7 +760,7 @@
       ],
       "frequency" : 6441,
       "mnemonic" : "em-(=into：进入；向内) + -bar-（栅栏；障碍）+ go(走)→进入运入内\n部→禁运；禁止……的贸易",
-      "phonetic" : "ɪmˈbɑːgəʊ",
+      "phonetic" : "ɪmˈbɑɹɡoʊ",
       "pos" : "vt.",
       "rootHint" : "dox",
       "word" : "embargo"
@@ -780,7 +780,7 @@
       ],
       "frequency" : 6619,
       "mnemonic" : "pillar（=barrier：栅栏，阻碍物）→（特指）“石”栏；柱子→引申",
-      "phonetic" : "ˈpɪlə",
+      "phonetic" : "ˈpɪlɚ",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "pillar"
@@ -799,7 +799,7 @@
       ],
       "frequency" : 2091,
       "mnemonic" : "colum（=pillar：柱子；栏）+ n（不发音，增减合理）→柱子；专栏",
-      "phonetic" : "ˈkɒləm",
+      "phonetic" : "ˈkɑljəm",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "column"
@@ -813,7 +813,7 @@
 
       ],
       "mnemonic" : "column（报刊的专栏）+ -ist（名词后缀，表示人）→给报刊写专栏\n的人→专栏作家",
-      "phonetic" : "ˈkɒləmnɪst",
+      "phonetic" : "ˈkɑ.lə.mɪst",
       "pos" : "n.",
       "rootHint" : "dox",
       "word" : "columnist"

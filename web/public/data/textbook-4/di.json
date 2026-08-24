@@ -16,7 +16,7 @@
   "words": [
     {
       "word": "diploma",
-      "phonetic": "dr'pləumə",
+      "phonetic": "dɪˈploʊmə",
       "pos": "n.",
       "definition": "结业证书，考试证书[+ in]; 毕业文凭，学位证书",
       "frequency": 8618,
@@ -33,7 +33,7 @@
     },
     {
       "word": "diplomacy",
-      "phonetic": "dr'pləuməsɪ",
+      "phonetic": "dɪˈploʊməsi",
       "pos": "n.",
       "definition": "外交；外交手腕",
       "frequency": 5715,
@@ -45,7 +45,7 @@
     },
     {
       "word": "diplomat",
-      "phonetic": "'drpləmæt",
+      "phonetic": "ˈdɪ.plə.mæt",
       "pos": "n.",
       "definition": "外交官；处事圆滑机敏的人",
       "frequency": 4968,
@@ -57,7 +57,7 @@
     },
     {
       "word": "diplomatic",
-      "phonetic": "drpla'mætik",
+      "phonetic": "ˌdɪpləˈmætɪk",
       "pos": "adj.",
       "definition": "外交的；圆通得体的",
       "frequency": 3978,
@@ -69,7 +69,7 @@
     },
     {
       "word": "diplomatically",
-      "phonetic": ",drplə'mætikli ",
+      "phonetic": "ˌdɪpləˈmætɪklɪ",
       "pos": "adv.",
       "definition": "外交地",
       "frequency": 18140,
@@ -88,7 +88,7 @@
     },
     {
       "word": "double-digit",
-      "phonetic": "'dabl'didʒit",
+      "phonetic": "ˈdʌblˈdidʒit",
       "pos": "adj.",
       "definition": "两位数的",
       "frequency": 14604,
@@ -100,7 +100,7 @@
     },
     {
       "word": "double-edged",
-      "phonetic": "'dʌbl'ed3d",
+      "phonetic": "ˈdʌbəlˈedʒd",
       "pos": "adj.",
       "definition": "有利有弊的，双刃剑；有两方面的；意义双 关的",
       "frequency": 19556,
@@ -114,7 +114,7 @@
     },
     {
       "word": "doubly",
-      "phonetic": "'dʌbli",
+      "phonetic": "ˈdʌb.li",
       "pos": "adv.",
       "definition": "双重地；加倍地",
       "frequency": 13743,
@@ -127,7 +127,7 @@
     },
     {
       "word": "doubt",
-      "phonetic": "daut",
+      "phonetic": "daʊt",
       "pos": "n.",
       "definition": "怀疑 vt.怀疑",
       "frequency": 1920,
@@ -141,7 +141,7 @@
     },
     {
       "word": "doubtful",
-      "phonetic": "'dautful;-f(ə)l",
+      "phonetic": "ˈdaʊtfəl",
       "pos": "adj.",
       "definition": "不大可能的；不能肯定的；有问题的；不太可 能的",
       "frequency": 9222,
@@ -154,7 +154,7 @@
     },
     {
       "word": "doubtless",
-      "phonetic": "'dautlis",
+      "phonetic": "ˈdaʊ̯tləs",
       "pos": "adv.",
       "definition": "无疑地；肯定地",
       "frequency": 12594,
@@ -166,7 +166,7 @@
     },
     {
       "word": "undoubtedly",
-      "phonetic": "ʌ n'dautrdli",
+      "phonetic": "ʌnˈdaʊtɪdli",
       "pos": "adv.",
       "definition": "毫无疑问地",
       "frequency": 5618,
@@ -176,7 +176,7 @@
     },
     {
       "word": "dubious",
-      "phonetic": "'dju:brəs",
+      "phonetic": "ˈdu.bi.əs",
       "pos": "adj.",
       "definition": "可疑的；无把握的[+about]7744",
       "collocations": [
@@ -187,7 +187,7 @@
     },
     {
       "word": "dozen",
-      "phonetic": "'dʌz(ə)n",
+      "phonetic": "ˈdʌzən",
       "pos": "n.",
       "definition": "一打(十二个);许多",
       "frequency": 1198,
@@ -199,7 +199,7 @@
     },
     {
       "word": "dual",
-      "phonetic": "'dju:əl",
+      "phonetic": "ˈdjuː.əl",
       "pos": "adj.",
       "definition": "双重的",
       "frequency": 5676,
@@ -213,7 +213,7 @@
     },
     {
       "word": "dualism",
-      "phonetic": "d'ju:slrz(ə)m",
+      "phonetic": "ˈdjuːəlɪzəm",
       "pos": "n.",
       "definition": "二元论",
       "frequency": 19463,
@@ -226,7 +226,7 @@
     },
     {
       "word": "duality",
-      "phonetic": "dju:'æltr",
+      "phonetic": "d(j)uːˈælɪti",
       "pos": "n.",
       "definition": "二元性；双重性",
       "frequency": 16952,
@@ -236,7 +236,7 @@
     },
     {
       "word": "duet",
-      "phonetic": "dju:'et",
+      "phonetic": "djuˈet",
       "pos": "n.",
       "definition": "二重唱；二重奏",
       "frequency": 12485,
@@ -248,7 +248,7 @@
     },
     {
       "word": "duo",
-      "phonetic": "'dju:au",
+      "phonetic": "ˈdju.oʊ",
       "pos": "n.",
       "definition": "( 在一起表演的)一对艺人，搭档；形影不离的两个人；二重奏(曲);二重唱(曲)9208",
       "collocations": [
@@ -259,7 +259,7 @@
     },
     {
       "word": "dyad",
-      "phonetic": "'daræd",
+      "phonetic": "ˈdaɪ.æd",
       "pos": "n.",
       "definition": "二分体；二联体；并矢；并向矢量",
       "frequency": 19688,
@@ -274,7 +274,7 @@
     },
     {
       "word": "cycle",
-      "phonetic": "'sark(ə)l",
+      "phonetic": "ˈsaɪkəl",
       "pos": "vi.",
       "definition": "骑自行车n. 周期；圈；自行车；骑自行车",
       "frequency": 2240,
@@ -290,7 +290,7 @@
     },
     {
       "word": "cyclical",
-      "phonetic": "'siklik(ə)l",
+      "phonetic": "ˈsaɪklɪkəl",
       "pos": "adj.",
       "definition": "周期的；(乐曲)循环的",
       "frequency": 12890,
@@ -302,7 +302,7 @@
     },
     {
       "word": "cycling",
-      "phonetic": "'sarkliŋ",
+      "phonetic": "ˈsaɪk(ə)lɪŋ",
       "pos": "n.",
       "definition": "骑自行车运动(或活动)8359",
       "collocations": [
@@ -313,7 +313,7 @@
     },
     {
       "word": "cyclist",
-      "phonetic": "'saiklist",
+      "phonetic": "ˈsaɪ.klɪst",
       "pos": "n.",
       "definition": "骑自行车的人",
       "frequency": 9882,
@@ -325,7 +325,7 @@
     },
     {
       "word": "bicycle",
-      "phonetic": "'baisikl",
+      "phonetic": "ˈbaɪsɪkl̩",
       "pos": "n.",
       "definition": "自行车 vi. 骑自行车[单车](去某处)[always+adv/prep]",
       "frequency": 4413,
@@ -338,7 +338,7 @@
     },
     {
       "word": "recycle",
-      "phonetic": "ri'sark(ə)l",
+      "phonetic": "ɹiˈsaɪkəl",
       "pos": "vt.",
       "definition": "&vi. 回收利用；循环使用 vt. 再次应用；重新使用(观点、文章等)n. 循环使用",
       "frequency": 5892,
@@ -351,7 +351,7 @@
     },
     {
       "word": "recycled",
-      "phonetic": "ri:'sarkld",
+      "phonetic": "ˌriːˈsaikld",
       "pos": "adj.",
       "definition": "再生的；循环的",
       "frequency": 9081,
@@ -363,7 +363,7 @@
     },
     {
       "word": "recycling",
-      "phonetic": "ri:'sarkliŋ",
+      "phonetic": "ˌriːˈsaɪklɪŋ",
       "pos": "n.",
       "definition": "( 资源、垃圾的)回收利用",
       "frequency": 6075,
@@ -375,7 +375,7 @@
     },
     {
       "word": "recyclable",
-      "phonetic": "ri:'sarkləbl",
+      "phonetic": "ˌriːˈsaɪkləbl",
       "pos": "adj.",
       "definition": "可再生的",
       "frequency": 20198,
@@ -387,7 +387,7 @@
     },
     {
       "word": "collar",
-      "phonetic": "'kplə",
+      "phonetic": "ˈkɑ.lɚ",
       "pos": "n.",
       "definition": "衣领；(狗或猫的)项圈；(支撑受伤脖子的)护颈",
       "frequency": 4597,
@@ -399,7 +399,7 @@
     },
     {
       "word": "collarbone",
-      "phonetic": "'kplabəun",
+      "phonetic": "ˈkɑləboʊn",
       "pos": "n.",
       "definition": "锁骨",
       "frequency": 18164,
@@ -412,7 +412,7 @@
     },
     {
       "word": "white-collar",
-      "phonetic": "'wait'kolə",
+      "phonetic": "hwaɪtˈkɔlə",
       "pos": "n.",
       "definition": "白领阶层",
       "frequency": 12693,
@@ -422,7 +422,7 @@
     },
     {
       "word": "blue-collar",
-      "phonetic": "'blu:'kɔlə",
+      "phonetic": "ˈbluːˌkɔlə",
       "pos": "n.",
       "definition": "蓝领阶层",
       "frequency": 10807,
@@ -432,7 +432,7 @@
     },
     {
       "word": "accolade",
-      "phonetic": "'ækolerd;ækə'lerd",
+      "phonetic": "ˈæk.ə.ˌleɪd",
       "pos": "n.",
       "definition": "赞扬；嘉奖；荣誉",
       "frequency": 15754,
@@ -445,7 +445,7 @@
     },
     {
       "word": "cyclone",
-      "phonetic": "'sarkləun",
+      "phonetic": "ˈsaɪ.kloʊn",
       "pos": "n.",
       "definition": "气旋；旋风",
       "frequency": 18738,
@@ -458,7 +458,7 @@
     },
     {
       "word": "encyclopedia",
-      "phonetic": "in,sarklə'pi:diə",
+      "phonetic": "ɪnˌsaɪ.kləˈpi(ː).di.ə",
       "pos": "n.",
       "definition": "百科全书",
       "frequency": 10727,
@@ -472,7 +472,7 @@
     },
     {
       "word": "circle",
-      "phonetic": "'ss:k(a)l",
+      "phonetic": "[ˈsɝ.kəɫ]",
       "pos": "vt.",
       "definition": "&vi. 环绕；围着……转圈；盘旋 vt. 把……圈出来 n. 圆圈；圆盘状物；圈；(相同兴趣、职业等的人形成的)圈子",
       "frequency": 1515,
@@ -485,7 +485,7 @@
     },
     {
       "word": "encircle",
-      "phonetic": "in'ss:k(a)l;en-",
+      "phonetic": "ɛnˈsɜɹkəl",
       "pos": "vt.",
       "definition": "环绕；围绕",
       "frequency": 10822,
@@ -498,7 +498,7 @@
     },
     {
       "word": "enclose",
-      "phonetic": "in'kləuz;en-",
+      "phonetic": "ənˈkloʊz",
       "pos": "vt.",
       "definition": "围绕；包围；(用墙、篱笆等)把……围起来；(随 信)附上",
       "frequency": 8625,
@@ -512,7 +512,7 @@
     },
     {
       "word": "enclosed",
-      "phonetic": "in'klozd",
+      "phonetic": "ənˈkloʊzd",
       "pos": "adj.",
       "definition": "(用墙等)围住的；随函附上的；与外界隔绝的",
       "frequency": 12175,
@@ -524,7 +524,7 @@
     },
     {
       "word": "enclosure",
-      "phonetic": "in'klau33;en-",
+      "phonetic": "ɘnˈklɐʉʒɘ",
       "pos": "n.",
       "definition": "圈用地；围场；(信中)附件",
       "frequency": 10072,
@@ -539,7 +539,7 @@
     },
     {
       "word": "circulate",
-      "phonetic": "'ss:kjulert",
+      "phonetic": "ˈsɚˌkju.leɪt",
       "pos": "vt",
       "definition": "&vi. 散发；流传 vi. 循环；(在聚会上)往来应酬 n. 流 传；循环",
       "frequency": 5973,
@@ -550,7 +550,7 @@
     },
     {
       "word": "circulation",
-      "phonetic": "s3:kju'lerʃ(ə)n",
+      "phonetic": "ˌsɝkjʊˈleɪʃən",
       "pos": "n.",
       "definition": "发行量；血液循环",
       "frequency": 5453,
@@ -563,7 +563,7 @@
     },
     {
       "word": "circus",
-      "phonetic": "'ss:kss",
+      "phonetic": "ˈsɝkəs",
       "pos": "n.",
       "definition": "马戏团；闹剧",
       "frequency": 6131,
@@ -574,7 +574,7 @@
     },
     {
       "word": "circuit",
-      "phonetic": "'s3:kit",
+      "phonetic": "[ˈsɝ.kət]",
       "pos": "n.",
       "definition": "环形道路；环行；电路",
       "frequency": 4063,
@@ -588,7 +588,7 @@
     },
     {
       "word": "circuitry",
-      "phonetic": "'ss:kitri",
+      "phonetic": "ˈsɝkətɹi",
       "pos": "n.",
       "definition": "电路系统；电路",
       "frequency": 16269,
@@ -598,7 +598,7 @@
     },
     {
       "word": "circumcision",
-      "phonetic": "ss:kɔm'si33n",
+      "phonetic": "ˌsɜrkəmˈsɪʒn",
       "definition": "( 宗)割礼；(医)包皮环割术",
       "frequency": 19136,
       "mnemonic": "circum-=about,around;through, 有环绕；围绕；圆圈之意。\ncircum-( 圈；周围)+-cis-(to cut: 切)+-ion(名词后缀)→沿着圆圈切除→ 割礼；环割术",
@@ -608,7 +608,7 @@
     },
     {
       "word": "ring",
-      "phonetic": "riŋ",
+      "phonetic": "ɹɪŋ",
       "pos": "n.",
       "definition": "戒指，指环；环状物 vt.&vi. 给……打电话；使(铃)响；(铃)响vi. (电话)响铃；(撞击金属时)叮叮响；(优美的声音)回荡 n. (电话)响铃 声；(铃的)响声；感觉",
       "frequency": 1688,
@@ -621,7 +621,7 @@
     },
     {
       "word": "ringer",
-      "phonetic": "'rinə",
+      "phonetic": "ˈɹɪŋə(ɹ)",
       "pos": "n.",
       "definition": "( 教堂的)打钟人；鸣声器；(比赛中谎称自己没有某种技能的)违规参赛者",
       "frequency": 19854,
@@ -633,7 +633,7 @@
     },
     {
       "word": "ringing",
-      "phonetic": "'rɪniŋ",
+      "phonetic": "ˈɹɪŋɪŋ",
       "pos": "adj.",
       "definition": "响亮的；清脆的",
       "frequency": 10319,
@@ -645,7 +645,7 @@
     },
     {
       "word": "rink",
-      "phonetic": "rɪŋk",
+      "phonetic": "ɹɪŋk",
       "pos": "n.",
       "definition": "溜冰场；旱冰场",
       "frequency": 10814,
@@ -657,7 +657,7 @@
     },
     {
       "word": "prune",
-      "phonetic": "pru:n",
+      "phonetic": "pɹuːn",
       "pos": "n.",
       "definition": "梅干 vt.&vi.修剪(树枝)vt. 删除；删节",
       "frequency": 14717,
@@ -673,7 +673,7 @@
     },
     {
       "word": "pruning",
-      "phonetic": "'pru:nrŋ ",
+      "phonetic": "ˈpɹuːnɪŋ",
       "pos": "n.",
       "definition": "修剪；剪枝adj. 修剪的",
       "frequency": 16417,
@@ -687,7 +687,7 @@
     },
     {
       "word": "preen",
-      "phonetic": "pri:n",
+      "phonetic": "pɹiːn",
       "pos": "vt.",
       "definition": "&vi. 精心打扮；沾沾自喜；(鸟)用喙整理(羽毛)20079",
       "mnemonic": "原指trim the feather with the beak: 鸟类用喙整理羽毛 →后来指代to\ntrim,to dress up: 修剪；打扮 助记：preen=prune: 修剪 →精心打扮",
@@ -700,7 +700,7 @@
     },
     {
       "word": "ancillary",
-      "phonetic": "æn'siləri",
+      "phonetic": "ˈænsəˌleɹiː",
       "pos": "adj.",
       "definition": "辅助的；从属的",
       "frequency": 17903,
@@ -712,7 +712,7 @@
     },
     {
       "word": "bazaar",
-      "phonetic": "bə'za:",
+      "phonetic": "bəˈzɑɹ",
       "pos": "n.",
       "definition": "(中东、印度等地的)集市；义卖会",
       "frequency": 16232,
@@ -726,7 +726,7 @@
     },
     {
       "word": "curb",
-      "phonetic": "k3:b",
+      "phonetic": "kɝb",
       "pos": "vt.",
       "definition": "抑制；控制(脾气、行为等)n. 控制；限制",
       "frequency": 6836,
@@ -740,7 +740,7 @@
     },
     {
       "word": "curbside",
-      "phonetic": "'k3:bsaid",
+      "phonetic": "ˈkɜrbsaɪd",
       "pos": "n.",
       "definition": "人行道靠近路缘的部分",
       "frequency": 16903,
@@ -750,7 +750,7 @@
     },
     {
       "word": "curl",
-      "phonetic": "k3:l",
+      "phonetic": "kɝl",
       "pos": "vt.",
       "definition": "&vi. 卷曲；使卷曲；弯曲；使弯曲；缭绕；使缠绕 vi. 蜷作 一 团；蜷作一团 n. 卷发；卷曲状或螺旋状；卷曲",
       "frequency": 5216,
@@ -763,7 +763,7 @@
     },
     {
       "word": "curling",
-      "phonetic": "'ks:liŋ",
+      "phonetic": "ˈkəɹlɪŋ",
       "pos": "n.",
       "definition": "冰壶运动；冰上溜石游戏",
       "frequency": 19013,
@@ -773,7 +773,7 @@
     },
     {
       "word": "curly",
-      "phonetic": "'ks:li",
+      "phonetic": "ˈkɝli",
       "pos": "adj.",
       "definition": "卷曲的；弯曲的",
       "frequency": 9438,
@@ -786,7 +786,7 @@
     },
     {
       "word": "curve",
-      "phonetic": "k3:v",
+      "phonetic": "kɝv",
       "pos": "vt.",
       "definition": "&vi. 使弯曲；变弯 vi.沿曲线运动 n. 曲线；(图表中的)曲线",
       "frequency": 3493,
@@ -799,7 +799,7 @@
     },
     {
       "word": "curved",
-      "phonetic": "k3:vd",
+      "phonetic": "kɝːvd",
       "pos": "adj.",
       "definition": "弧形的",
       "frequency": 8494,
@@ -811,7 +811,7 @@
     },
     {
       "word": "curving",
-      "phonetic": "'kə:viŋ",
+      "phonetic": "ˈkɜrvɪɪŋ",
       "pos": "adj.",
       "definition": "弯曲的",
       "frequency": 19251,
@@ -823,7 +823,7 @@
     },
     {
       "word": "curvature",
-      "phonetic": "'k3:vətʃə",
+      "phonetic": "ˈkɝ.və.tʃɚ",
       "pos": "n.",
       "definition": "圆弧",
       "frequency": 19724,
@@ -836,7 +836,7 @@
     },
     {
       "word": "wheel",
-      "phonetic": "wi:l",
+      "phonetic": "wiːl",
       "pos": "vt.",
       "definition": "推(带轮子的物体)n. 车轮；机轮；方向盘；(组织或系统的) 运作方式",
       "frequency": 2012,
@@ -852,7 +852,7 @@
     },
     {
       "word": "wheelbarrow",
-      "phonetic": "'wi:lbærəu",
+      "phonetic": "ˈwiːlbæroʊ",
       "definition": "(园艺用)手推车",
       "frequency": 17474,
       "mnemonic": "wheel(车轮)+barrow(手推车)→带车轮的手推车→ (园艺用)手推车",
@@ -862,7 +862,7 @@
     },
     {
       "word": "wheelchair",
-      "phonetic": "'wi:ltfeə",
+      "phonetic": "ˈ(h)wilt͡ʃɛɹ",
       "pos": "n.",
       "definition": "轮椅",
       "frequency": 4660,
@@ -873,7 +873,7 @@
     },
     {
       "word": "four-wheel",
-      "phonetic": "'fə:'wi:l",
+      "phonetic": "ˈfɔːrwˈiːl",
       "pos": "adj.",
       "definition": "四轮的；使用四轮驱动的",
       "frequency": 19276,
@@ -887,7 +887,7 @@
     },
     {
       "word": "polemic",
-      "phonetic": "pə'lemik",
+      "phonetic": "pəˈlɛmɪk",
       "pos": "n.",
       "definition": "(口头或书面的)猛烈抨击；辩护；辩论术",
       "frequency": 18411,
@@ -901,7 +901,7 @@
     },
     {
       "word": "polar",
-      "phonetic": "'pəulə",
+      "phonetic": "ˈpoʊ̯lɚ",
       "pos": "adj.",
       "definition": "极地的；(性格、质量或类型)正好相反的",
       "frequency": 6905,
@@ -914,7 +914,7 @@
     },
     {
       "word": "polarity",
-      "phonetic": "pə(u)'laerti",
+      "phonetic": "pəˈlærɪti",
       "pos": "n.",
       "definition": "完全相反",
       "frequency": 19185,
@@ -926,7 +926,7 @@
     },
     {
       "word": "polarize",
-      "phonetic": "'pola'rarz",
+      "phonetic": "ˈpoʊləɹaɪz",
       "pos": "vt.",
       "definition": "&vi. 使两级分化n. 分化",
       "frequency": 12517,
@@ -938,7 +938,7 @@
     },
     {
       "word": "polarized",
-      "phonetic": "'polo rarz",
+      "phonetic": "ˈpoʊləraɪzd",
       "pos": "adj.",
       "definition": "偏振的",
       "frequency": 19810,
@@ -950,7 +950,7 @@
     },
     {
       "word": "polarization",
-      "phonetic": ",pəulərar'zerʃən",
+      "phonetic": "ˌpoʊlərɪˈzeɪʃən",
       "pos": "n.",
       "definition": "分化",
       "frequency": 13096,
@@ -962,7 +962,7 @@
     },
     {
       "word": "pulley",
-      "phonetic": "'puli",
+      "phonetic": "ˈpʊli",
       "pos": "n.",
       "definition": "滑轮；滑车；皮带轮",
       "frequency": 16476,
@@ -973,7 +973,7 @@
     },
     {
       "word": "round",
-      "phonetic": "raund",
+      "phonetic": "ˈɹaʊnd",
       "pos": "adv.",
       "definition": "&prep. 围绕；大约adj. 圆形的 n. (比赛的)轮[+of] vt. 环绕……而行",
       "frequency": 2393,
@@ -992,7 +992,7 @@
     },
     {
       "word": "around",
-      "phonetic": "ə'raund",
+      "phonetic": "əˈɹaʊnd",
       "pos": "adv.",
       "definition": "&prep.环绕，到处；无所事事地；解决",
       "frequency": 265,
@@ -1007,7 +1007,7 @@
     },
     {
       "word": "rounded",
-      "phonetic": "'raundid",
+      "phonetic": "ˈɹaʊndɪd",
       "pos": "adj.",
       "definition": "adj. 圆形的；全面的；完善的",
       "frequency": 10160,
@@ -1025,7 +1025,7 @@
     },
     {
       "word": "round-trip",
-      "phonetic": "'raund'tri p",
+      "phonetic": "ˈraundˈtrip",
       "pos": "n.",
       "definition": "往返旅程adj. (票)往返的；双程的",
       "frequency": 17368,
@@ -1037,7 +1037,7 @@
     },
     {
       "word": "roundup",
-      "phonetic": "'raundʌp",
+      "phonetic": "ˈraʊndˌʌp",
       "pos": "n.",
       "definition": "( 新闻)综述",
       "frequency": 15435,
@@ -1049,7 +1049,7 @@
     },
     {
       "word": "well-rounded",
-      "phonetic": "'wel'raundid",
+      "phonetic": "ˌwɛlˈɹaʊndɪd",
       "pos": "adj.",
       "definition": "人格完满的；全面的",
       "frequency": 19281,
@@ -1063,7 +1063,7 @@
     },
     {
       "word": "roundabout",
-      "phonetic": "'raund,baut",
+      "phonetic": "ˈɹaʊndəˌbaʊt",
       "pos": "adj.",
       "definition": "迂回的；拐弯抹角的",
       "mnemonic": "round(圆)+about( 附近；周围)→在圆圈周围的，不直接靠近的→迂回的",
@@ -1076,7 +1076,7 @@
     },
     {
       "word": "year-round",
-      "phonetic": "'jie'raund",
+      "phonetic": "ˈjəːˈraund",
       "pos": "adj.",
       "definition": "整年的adv. 全年的",
       "frequency": 7632,
@@ -1086,7 +1086,7 @@
     },
     {
       "word": "second-round",
-      "phonetic": "'sek(a)nd-raund",
+      "phonetic": "ˌsekəndˈraʊnd",
       "pos": "n.",
       "definition": "第二轮",
       "frequency": 19258,
@@ -1096,7 +1096,7 @@
     },
     {
       "word": "turnaround",
-      "phonetic": "'t3:nəraund",
+      "phonetic": "ˈtɜrnəraʊnd",
       "pos": "n.",
       "definition": "(观点、态度或方法的)彻底转变；(尤指生意或",
       "collocations": [],
@@ -1105,7 +1105,7 @@
     },
     {
       "word": "surround",
-      "phonetic": "sə'raund",
+      "phonetic": "səˈɹaʊnd",
       "pos": "vt.",
       "definition": "&vi. 围绕 vt. 包围；与……紧密联系",
       "frequency": 1608,
@@ -1121,7 +1121,7 @@
     },
     {
       "word": "surrounding",
-      "phonetic": "sə'raundŋ",
+      "phonetic": "səˈɹaʊndɪŋ",
       "pos": "adj.",
       "definition": "周围的；附近的",
       "frequency": 4447,
@@ -1133,7 +1133,7 @@
     },
     {
       "word": "surroundings",
-      "phonetic": "sə'raundiŋz",
+      "phonetic": "səˈɹaʊndɪŋz",
       "pos": "n.",
       "definition": "环境",
       "frequency": 6343,
@@ -1145,7 +1145,7 @@
     },
     {
       "word": "precinct",
-      "phonetic": "'prisIn(k)t",
+      "phonetic": "ˈpɹisɪŋkt",
       "pos": "n.",
       "definition": "购物区/步行区；警区；(机构的)境域，界域",
       "frequency": 7268,
@@ -1158,7 +1158,7 @@
     },
     {
       "word": "succinctly",
-      "phonetic": "sɔk'siŋktli",
+      "phonetic": "səkˈsɪŋktlɪ",
       "pos": "adv.",
       "definition": "简明地",
       "frequency": 16437,
@@ -1173,7 +1173,7 @@
     },
     {
       "word": "shingle",
-      "phonetic": "'Sing(ə)l",
+      "phonetic": "ˈʃɪŋ.ɡəl",
       "pos": "n.",
       "definition": "(海边或河边的)碎石滩；瓦板；(医生或律师等的)小招牌",
       "frequency": 11387,
@@ -1187,7 +1187,7 @@
     },
     {
       "word": "abound",
-      "phonetic": "ə 'baund",
+      "phonetic": "əˈbaʊnd",
       "pos": "vi.",
       "definition": "充满；大量存在",
       "frequency": 7817,
@@ -1200,7 +1200,7 @@
     },
     {
       "word": "abundant",
-      "phonetic": "ə 'bʌndənt",
+      "phonetic": "əˈbn̩.dn̩t",
       "pos": "adj.",
       "definition": "大量的；丰盛的",
       "frequency": 6318,
@@ -1215,7 +1215,7 @@
     },
     {
       "word": "abundance",
-      "phonetic": "ə 'bʌnd(ə)ns",
+      "phonetic": "əˈbn̩.dn̩s",
       "pos": "n.",
       "definition": "充裕；丰富[+of]5495",
       "collocations": [
@@ -1226,7 +1226,7 @@
     },
     {
       "word": "abundantly",
-      "phonetic": "ə 'bʌnd(ə)ntli",
+      "phonetic": "əˈbn̩.dn̩t.li",
       "pos": "adv.",
       "definition": "十分地；大量的",
       "frequency": 16665,
@@ -1239,7 +1239,7 @@
     },
     {
       "word": "inundate",
-      "phonetic": "'inʌndert",
+      "phonetic": "ˈɪn.ən.deɪt",
       "pos": "vt.",
       "definition": "被(大量信件或请求等)淹没；淹没",
       "frequency": 13417,
@@ -1253,7 +1253,7 @@
     },
     {
       "word": "water",
-      "phonetic": "w' ɔ:tə",
+      "phonetic": "ˈwɔtəɹ",
       "pos": "n.",
       "definition": "水；海域；(尤指)领海 vt. 浇水 vi. 流泪；流口水",
       "frequency": 227,
@@ -1269,7 +1269,7 @@
     },
     {
       "word": "waterfall",
-      "phonetic": "'wɔ:təfɔ:l",
+      "phonetic": "ˈwɔtɚfɔl",
       "pos": "n.",
       "definition": "n. 瀑布",
       "frequency": 8246,
@@ -1285,7 +1285,7 @@
     },
     {
       "word": "waterfowl",
-      "phonetic": "'wɔ:təfaul",
+      "phonetic": "ˈwɔtəfaʊl",
       "pos": "n.",
       "definition": "水禽(尤指鸭、鹅和天鹅)16594",
       "mnemonic": "water(水)+fowl(家禽)→水里的家禽→水禽",
@@ -1295,7 +1295,7 @@
     },
     {
       "word": "waterfront",
-      "phonetic": "'wɔ:tofrʌn t",
+      "phonetic": "ˈwɔtəfrʌnt",
       "pos": "n.",
       "definition": "滨水地区；水边土地",
       "frequency": 10163,
@@ -1310,7 +1310,7 @@
     },
     {
       "word": "watering",
-      "phonetic": "'wɔ:təriŋ",
+      "phonetic": "ˈwɔtərɪŋ",
       "pos": "adj.",
       "definition": "灌溉的；浇水用的",
       "frequency": 12926,
@@ -1323,7 +1323,7 @@
     },
     {
       "word": "watermelon",
-      "phonetic": "'wɔ:təmelən",
+      "phonetic": "ˈwɔtəɹˌmɛlən",
       "pos": "n.",
       "definition": "西瓜",
       "frequency": 11230,
@@ -1336,7 +1336,7 @@
     },
     {
       "word": "watershed",
-      "phonetic": "'wɔ:təfed",
+      "phonetic": "ˈwɔtɚʃɛd",
       "pos": "n.",
       "definition": "转折点~[+in] ( 标志着重大变化的事件或时期);分 水线；(英国)儿童不宜节目可在电视上播放的起始时间",
       "frequency": 7837,
@@ -1350,7 +1350,7 @@
     },
     {
       "word": "waterway",
-      "phonetic": "'wɔ:təwer",
+      "phonetic": "ˈwɔtəweɪ",
       "pos": "n.",
       "definition": "n. 水路；航道",
       "frequency": 9739,
@@ -1363,7 +1363,7 @@
     },
     {
       "word": "watery",
-      "phonetic": "'wɔ:t(a)r",
+      "phonetic": "ˈwɑtəɹi",
       "pos": "adj.",
       "definition": "微弱的；淡而无味的；充满水的",
       "frequency": 10836,
@@ -1377,7 +1377,7 @@
     },
     {
       "word": "backwater",
-      "phonetic": "'bækwɔ:tə",
+      "phonetic": "ˈbækwɔtər",
       "pos": "n.",
       "definition": "闭塞落后的地方(含贬义);(河流的)死水；停滞不 进的状态或地方",
       "frequency": 16228,
@@ -1391,7 +1391,7 @@
     },
     {
       "word": "deep-water",
-      "phonetic": "'di:p-wɔ:tə",
+      "phonetic": "ˈdiːpwɔtər",
       "pos": "adj.",
       "definition": "深水的",
       "frequency": 20077,
@@ -1402,7 +1402,7 @@
     },
     {
       "word": "floodwaters",
-      "phonetic": "'flʌdwɔtəz",
+      "phonetic": "ˈflʌdwɔtərz",
       "pos": "n.",
       "definition": "洪水",
       "frequency": 18847,
@@ -1413,7 +1413,7 @@
     },
     {
       "word": "freshwater",
-      "phonetic": "'freʃwɔ:tə",
+      "phonetic": "ˈfreʃwɔtər",
       "pos": "adj.",
       "definition": "淡水的",
       "frequency": 9734,
@@ -1426,7 +1426,7 @@
     },
     {
       "word": "saltwater",
-      "phonetic": "'sɔ:lt'wɔ:tə",
+      "phonetic": "ˈsɔltˌwɔtəˌ -ˌwɔtə",
       "pos": "n.",
       "definition": "咸水adj. 咸水的",
       "frequency": 18548,
@@ -1438,7 +1438,7 @@
     },
     {
       "word": "headwaters",
-      "phonetic": "'hedwɔ:təz",
+      "phonetic": "ˈhɛdˌwɑtɝz",
       "pos": "n.",
       "definition": "(河流的)源流；上游",
       "frequency": 19458,
@@ -1451,7 +1451,7 @@
     },
     {
       "word": "seawater",
-      "phonetic": "'si,wotas;'si,watə",
+      "phonetic": "ˈsiːwɑtə",
       "pos": "n.",
       "definition": "海水",
       "frequency": 15113,
@@ -1463,7 +1463,7 @@
     },
     {
       "word": "underwater",
-      "phonetic": "ʌndə'wɔ:tə",
+      "phonetic": "ˌʌndəˈwɔtər",
       "pos": "adv.",
       "definition": "在水面下 adj .在水下的；水下用的",
       "frequency": 9325,
@@ -1476,7 +1476,7 @@
     },
     {
       "word": "wastewater",
-      "phonetic": "'weist,wɔ:to",
+      "phonetic": "ˈweɪstwɔtər",
       "pos": "n.",
       "definition": "废水",
       "frequency": 13839,
@@ -1487,7 +1487,7 @@
     },
     {
       "word": "rainwater",
-      "phonetic": "'reinwɔ:tə",
+      "phonetic": "ˈreɪnwɔtər",
       "pos": "n.",
       "definition": "雨水",
       "frequency": 14637,
@@ -1498,7 +1498,7 @@
     },
     {
       "word": "vodka",
-      "phonetic": "'vpdkə",
+      "phonetic": "ˈvɑdkə",
       "pos": "n.",
       "definition": "伏特加(俄罗斯出产的烈酒)8557",
       "mnemonic": "vodka 是一种用麦、马铃薯或玉米等酿制的烈性烧酒，汉语将它音 译为“伏特加(酒)”。该酒源于14世纪的俄国，来自俄语vodka, 小 水，精致的水。俄语之所以这样命名，可能是因为这种酒无色透明， 样子很像水，也可能是因为俄国人一度认为它和水一样是生命中不可 缺少之物。\nvod(=water: 水)+-ka(小词后缀)→小水，精致的水→伏特加(像水一样 在生命中不可或缺)",
@@ -1508,7 +1508,7 @@
     },
     {
       "word": "wet",
-      "phonetic": "wet",
+      "phonetic": "wɛt",
       "pos": "adj.",
       "definition": "湿的；(油漆、墨水、水泥等)未干的 vt. 弄湿；(尤指孩子)尿湿 n. 雨天",
       "frequency": 2491,
@@ -1521,7 +1521,7 @@
     },
     {
       "word": "wetland",
-      "phonetic": "'wetlond",
+      "phonetic": "ˈwetlənd",
       "pos": "n.",
       "definition": "n. 湿地",
       "frequency": 5875,
@@ -1533,7 +1533,7 @@
     },
     {
       "word": "winter",
-      "phonetic": "'wintə",
+      "phonetic": "ˈwɪntɚ",
       "pos": "n.",
       "definition": "冬 季vi. ( 在某处)过冬[+adv/prep]1250",
       "collocations": [
@@ -1544,7 +1544,7 @@
     },
     {
       "word": "wintry",
-      "phonetic": "'wintri",
+      "phonetic": "ˈwɪnt(ə)ɹɪ",
       "pos": "adj.",
       "definition": "寒冷的，冬天的；(笑容或表情)冷冰冰的",
       "frequency": 20105,
@@ -1557,7 +1557,7 @@
     },
     {
       "word": "wash",
-      "phonetic": "wDʃ",
+      "phonetic": "wɑʃ",
       "pos": "vt.",
       "definition": "&vi. 洗 vt. 洗涤 vi.(情绪)冲击 n. 清洗的衣服；洗面奶",
       "frequency": 2162,
@@ -1571,7 +1571,7 @@
     },
     {
       "word": "washcloth",
-      "phonetic": "'wDʃkloθ",
+      "phonetic": "ˈwɔʃklɔθ",
       "pos": "n.",
       "definition": "( 洗脸、洗手用的)毛巾",
       "frequency": 19178,
@@ -1592,7 +1592,7 @@
     },
     {
       "word": "washer",
-      "phonetic": "'wpjə",
+      "phonetic": "ˈwɑʃər",
       "pos": "n.",
       "definition": "清洗机",
       "frequency": 11688,
@@ -1604,7 +1604,7 @@
     },
     {
       "word": "washing",
-      "phonetic": "'wDʃiŋ",
+      "phonetic": "ˈwɔʃɪŋ",
       "pos": "n.",
       "definition": "洗涤；要洗的(正洗的，刚洗过的)衣物",
       "frequency": 9158,
@@ -1617,7 +1617,7 @@
     },
     {
       "word": "awash",
-      "phonetic": "ə'wpʃ",
+      "phonetic": "əˈwɑʃ",
       "pos": "adj.",
       "definition": "有大量……的；被水覆盖的",
       "frequency": 14261,
@@ -1632,7 +1632,7 @@
     },
     {
       "word": "brainwash",
-      "phonetic": "'breinwDʃ",
+      "phonetic": "ˈbɹeɪnwɑʃ",
       "pos": "vt.",
       "definition": "给……洗脑；强行灌输",
       "frequency": 18098,
@@ -1645,7 +1645,7 @@
     },
     {
       "word": "dishwasher",
-      "phonetic": "'drʃwDʃə",
+      "phonetic": "ˈdɪʃˌwɑʃɚ",
       "pos": "n.",
       "definition": "洗碗机；洗碗工",
       "frequency": 12043,
@@ -1655,7 +1655,7 @@
     },
     {
       "word": "hydrate",
-      "phonetic": "'hardrert",
+      "phonetic": "ˈhaɪdɹeɪt",
       "pos": "vt.",
       "definition": "给……供给水分n.水合物",
       "mnemonic": "hydr-(水)-ate(动词后缀，表示使)→给……供给水分",
@@ -1667,7 +1667,7 @@
     },
     {
       "word": "dehydrate",
-      "phonetic": "di:har'drert;di:'hardrert",
+      "phonetic": "diːhaɪdˈɹeɪt",
       "pos": "vt.",
       "definition": "使脱水 vt.&vi. 使脱水；(指人)脱水",
       "frequency": 18000,
@@ -1680,7 +1680,7 @@
     },
     {
       "word": "dehydration",
-      "phonetic": ",di:har'drerʃən",
+      "phonetic": "diːhaɪˈdɹeɪʃən",
       "pos": "n.",
       "definition": "脱水",
       "frequency": 15135,
@@ -1692,7 +1692,7 @@
     },
     {
       "word": "hydrocarbon",
-      "phonetic": ",hardrə(u)'ka:b(a)n",
+      "phonetic": "ˌhaɪdrəˈkɑbən",
       "pos": "n.",
       "definition": "碳氢化合物",
       "frequency": 14042,
@@ -1704,7 +1704,7 @@
     },
     {
       "word": "carbohydrate",
-      "phonetic": "ka:ba'hardrert",
+      "phonetic": "kɑːɹboʊˈhaɪdɹeɪt",
       "pos": "n.",
       "definition": "( 为身体提供热量的)碳水化合物；糖类；含",
       "mnemonic": "碳水化合物的食品(如米饭、面包、马铃薯等)3869 助记：carbo(碳)+hydr(水)+-ate(名词后缀)→碳水化合物",
@@ -1716,7 +1716,7 @@
     },
     {
       "word": "hydroelectric",
-      "phonetic": "hardrəur'lektrik",
+      "phonetic": "ˌhaɪdroʊɪˈlektrɪk",
       "pos": "adj.",
       "definition": "水力发电的",
       "frequency": 16812,
@@ -1730,7 +1730,7 @@
     },
     {
       "word": "hydraulic",
-      "phonetic": "har'dro:lik;har'drplik",
+      "phonetic": "haɪˈdɹɔlɪk",
       "pos": "adj.",
       "definition": "液压的；水力的",
       "frequency": 10825,
@@ -1746,7 +1746,7 @@
     },
     {
       "word": "dilute",
-      "phonetic": "dar'l(j)u:t;di-",
+      "phonetic": "daɪˈljuːt",
       "pos": "vt.",
       "definition": "&vi. 稀释；变淡 vt.削弱adj.稀释的",
       "frequency": 9729,
@@ -1757,7 +1757,7 @@
     },
     {
       "word": "dilution",
-      "phonetic": "dar'lu:ʃn",
+      "phonetic": "daɪˈljuːʃən",
       "pos": "n.",
       "definition": "稀释液",
       "frequency": 19557,
@@ -1767,7 +1767,7 @@
     },
     {
       "word": "deluge",
-      "phonetic": "'delju:dʒ",
+      "phonetic": "dəˈlu(d)ʒ",
       "pos": "n.",
       "definition": "纷至沓来的事物(如信件、问题等)[+of]; 洪水；暴雨期vt. 使(大量的信件、问题等同时)涌向(某人);淹没",
       "frequency": 16908,
@@ -1781,7 +1781,7 @@
     },
     {
       "word": "lava",
-      "phonetic": "'la:və",
+      "phonetic": "ˈlɑvə",
       "pos": "n.",
       "definition": "(火山喷出的)熔岩；岩浆",
       "frequency": 9269,
@@ -1796,7 +1796,7 @@
     },
     {
       "word": "lavish",
-      "phonetic": "' læviʃ",
+      "phonetic": "ˈlævɪʃ",
       "pos": "adj.",
       "definition": "盛大奢华的；挥霍的 vt. 为……花很多钱；对……大加赞 赏",
       "frequency": 9220,
@@ -1811,7 +1811,7 @@
     },
     {
       "word": "lavishly",
-      "phonetic": "'læviʃli",
+      "phonetic": "ˈlævɪʃli",
       "pos": "adv.",
       "definition": "盛大奢华地；慷慨地",
       "frequency": 17657,
@@ -1823,7 +1823,7 @@
     },
     {
       "word": "launder",
-      "phonetic": "'lɔ:ndə",
+      "phonetic": "ˈlɔndɚ",
       "pos": "vt.",
       "definition": "洗(钱);洗熨",
       "frequency": 16134,
@@ -1837,7 +1837,7 @@
     },
     {
       "word": "laundering",
-      "phonetic": "'lo:ndəriŋ",
+      "phonetic": "ˈlɔndərɪŋ",
       "pos": "n.",
       "definition": "洗烫；洗黑钱",
       "frequency": 15645,
@@ -1849,7 +1849,7 @@
     },
     {
       "word": "laundry",
-      "phonetic": "'lɔ:ndri",
+      "phonetic": "ˈlɔn.dɹi",
       "pos": "n.",
       "definition": "(待洗、正在洗或刚洗过的)衣物；洗衣店",
       "frequency": 4992,
@@ -1861,7 +1861,7 @@
     },
     {
       "word": "lotion",
-      "phonetic": "'lauʃ(ən",
+      "phonetic": "ˈloʊʃən",
       "pos": "n.",
       "definition": "润肤乳",
       "frequency": 10830,

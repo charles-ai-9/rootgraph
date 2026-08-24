@@ -29,7 +29,7 @@
       ],
       "frequency" : 1889,
       "mnemonic" : "nurs-（=母乳喂养；养育；供给食物和水）+ -e→看护；照料；喂奶\nnurs-（=养母；保姆）+ -e→护士（即：“照顾”病人的人）；保姆",
-      "phonetic" : "nɜːs",
+      "phonetic" : "nɝs",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nurse"
@@ -45,7 +45,7 @@
       ],
       "frequency" : 5711,
       "mnemonic" : "nurs-（哺育；养育）+ -ery（名词 \/ 形容词后缀）→养育幼儿（的地\n方）→托儿所；幼儿教育的",
-      "phonetic" : "ˈnɜːsərɪ",
+      "phonetic" : "ˈnɝsəɹi",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nursery"
@@ -61,7 +61,7 @@
       ],
       "frequency" : 5324,
       "mnemonic" : "nurs-（=nurse：喂奶；看护，照料）+ -ing（名词后缀）→喂奶；护",
-      "phonetic" : "ˈnɜːsɪŋ",
+      "phonetic" : "ˈnɝsɪŋ",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nursing"
@@ -83,7 +83,7 @@
       ],
       "frequency" : 5605,
       "mnemonic" : "nurt（=nurs-：培养；养育）+ -ure（动词 \/ 名词后缀）→养育；培养",
-      "phonetic" : "ˈnɜːtʃə",
+      "phonetic" : "ˈnɝɹ.tʃəɹ",
       "pos" : "vt.",
       "rootHint" : "nurture",
       "word" : "nurture"
@@ -98,7 +98,7 @@
 
       ],
       "frequency" : 13062,
-      "phonetic" : "ˈnɜːtʃəriŋ",
+      "phonetic" : "ˈnɝtʃəriŋ",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nurturing"
@@ -114,7 +114,7 @@
       ],
       "frequency" : 10492,
       "mnemonic" : "nourish（=nurse：养育；培养）→为……提供营养；培养",
-      "phonetic" : "ˈnʌrɪʃ",
+      "phonetic" : "ˈnɝ.ɪʃ",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "nourish"
@@ -130,7 +130,7 @@
       ],
       "frequency" : 15258,
       "mnemonic" : "nourish（为……提供营养）+ -ment（抽象名词后缀）→营养；养",
-      "phonetic" : "ˈnʌrɪʃmənt",
+      "phonetic" : "ˈnʌɹɪʃmənt",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nourishment"
@@ -146,7 +146,7 @@
       ],
       "frequency" : 4904,
       "mnemonic" : "nutri-（=nourish：营养；养分）+ -ent（=-ant：名词后缀）→用于养\n育、喂养某人（或其他生物）的物质→营养；养分",
-      "phonetic" : "ˈnjuːtrɪənt",
+      "phonetic" : "ˈnjuː.tɹi.ənt",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nutrient"
@@ -162,7 +162,7 @@
       ],
       "frequency" : 5635,
       "mnemonic" : "nutr-（营养）+ -ition（复合名词后缀，-ite + -ion）→营养；滋养；营",
-      "phonetic" : "njʊˈtrɪʃn",
+      "phonetic" : "nuˈtɹɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "nutrition"
@@ -222,7 +222,7 @@
       ],
       "frequency" : 13688,
       "mnemonic" : "nutr-（=nourish：为……提供营养）+ -itious（复合形容词后缀）→有",
-      "phonetic" : "njuˈtrɪʃəs",
+      "phonetic" : "njuːˈtɹɪʃəs",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "nutritious"
@@ -241,7 +241,7 @@
         "The horses thundered across the valley floor.\n马群轰隆隆地从谷底奔跑而过。"
       ],
       "frequency" : 8237,
-      "phonetic" : "ˈθʌndə",
+      "phonetic" : "ˈθʌndɚ",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "thunder"
@@ -257,7 +257,7 @@
       ],
       "frequency" : 17254,
       "mnemonic" : "thunder（打雷；发出雷鸣般响声）+ -ous（形容词后缀）→雷鸣般",
-      "phonetic" : "ˈθʌndərəs",
+      "phonetic" : "ˈθʌn.dəɹ.əs",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "thunderous"
@@ -272,7 +272,7 @@
       ],
       "frequency" : 10893,
       "mnemonic" : "thunder（打雷）+storm（暴风雨；雷暴）→雷雨；雷暴；雷雨交加",
-      "phonetic" : "ˈθʌndəstɔːm",
+      "phonetic" : "ˈθʌn.də(ɹ)ˌstɔ(ɹ)m",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "thunderstorm"
@@ -289,7 +289,7 @@
       ],
       "frequency" : 7056,
       "mnemonic" : "torn（=to thunder, to turn：打雷；旋转）+ -ado（名词后缀，表动作实\n施物）→伴有打雷、极度强烈的旋风→龙卷风；旋风",
-      "phonetic" : "tɔːˈneɪdəʊ",
+      "phonetic" : "tɔ(ɹ)ˈneɪ.doʊ",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "tornado"
@@ -304,7 +304,7 @@
       ],
       "frequency" : 13011,
       "mnemonic" : "de-（=down：向下）+ -ton（=to thunder：打雷；爆炸）+ -ate（使动\n词后缀）→使爆炸；引爆",
-      "phonetic" : "ˈdetəneɪt",
+      "phonetic" : "ˈdɛtəneɪt",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "detonate"
@@ -319,7 +319,7 @@
       ],
       "frequency" : 19417,
       "mnemonic" : "detonat（=detonate：爆炸；引爆）+ -ion（名词后缀）→爆炸；引爆",
-      "phonetic" : "ˌdetəˈneɪʃn",
+      "phonetic" : "dɛtəˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "detonation"
@@ -399,7 +399,7 @@
       ],
       "frequency" : 12905,
       "mnemonic" : "as-（=out：出来）+ ton-（=tun-：震惊）+ -ish（动词后缀）→使吃",
-      "phonetic" : "əˈstɒnɪʃ",
+      "phonetic" : "əˈstɑnɪʃ",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "astonish"
@@ -415,7 +415,7 @@
       ],
       "frequency" : 6601,
       "mnemonic" : "astonish（使吃惊；使十分惊讶）+ -ing（形容词后缀，令人……的）\n→令人十分惊讶的",
-      "phonetic" : "əˈstɒnɪʃɪŋ",
+      "phonetic" : "əˈstɑnɪʃɪŋ",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "astonishing"
@@ -430,7 +430,7 @@
       ],
       "frequency" : 11344,
       "mnemonic" : "astonish（使十分惊讶）+ -ed（形容词后缀）→感到十分惊讶的",
-      "phonetic" : "əˈstɒnɪʃt",
+      "phonetic" : "əˈstɑnɪʃt",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "astonished"
@@ -445,7 +445,7 @@
       ],
       "frequency" : 11559,
       "mnemonic" : "astonish（惊讶）+-ment（名词后缀）→惊讶；惊异",
-      "phonetic" : "əˈstɒnɪʃmənt",
+      "phonetic" : "əˈstɑnɪʃmənt",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "astonishment"
@@ -526,7 +526,7 @@
       ],
       "frequency" : 1467,
       "mnemonic" : "mor-（=manners：礼貌；品行）+ -al（形容词后缀）→有道德的",
-      "phonetic" : "ˈmɒrəl",
+      "phonetic" : "ˈmɑɹəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "moral"
@@ -541,7 +541,7 @@
       ],
       "frequency" : 5183,
       "mnemonic" : "moral（道德的；道义上的；品行）+ -ity（名词后缀）→道德；品",
-      "phonetic" : "məˈræləti",
+      "phonetic" : "məˈɹælɪti",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "morality"
@@ -556,7 +556,7 @@
 
       ],
       "frequency" : 6491,
-      "phonetic" : "ˈmɒrəlɪ",
+      "phonetic" : "ˈmɑɹəli",
       "pos" : "adv.",
       "rootHint" : "nurs",
       "word" : "morally"
@@ -571,7 +571,7 @@
       ],
       "frequency" : 9992,
       "mnemonic" : "im-（=not：不；非）+ moral（道德的；（性关系方面的）品行）→",
-      "phonetic" : "ɪˈmɒrəl",
+      "phonetic" : "ɪˈmɑrəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "immoral"
@@ -587,7 +587,7 @@
       ],
       "frequency" : 7637,
       "mnemonic" : "来自moral（道义上的）+ -e（名词后缀）→道义力量→用于军事行话",
-      "phonetic" : "məˈrɑːl",
+      "phonetic" : "məˈɹæl",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "morale"
@@ -602,7 +602,7 @@
       ],
       "frequency" : 17257,
       "mnemonic" : "de-（使相反）+ moral（=morale：士气；斗志）+ -ize（动词后缀）→",
-      "phonetic" : "dˈmɔrəlaɪz",
+      "phonetic" : "dɪˈmɑɹəlaɪz",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "demoralize"
@@ -618,7 +618,7 @@
 
       ],
       "frequency" : 7254,
-      "phonetic" : "ˈeθɪk",
+      "phonetic" : "ˈɛθɪk",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "ethic"
@@ -633,7 +633,7 @@
       ],
       "frequency" : 3485,
       "mnemonic" : "ethic（道德；伦理）+ -al（形容词后缀）→道德的；伦理的；合乎道",
-      "phonetic" : "ˈeθɪkl",
+      "phonetic" : "ˈɛθɪkəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "ethical"
@@ -698,7 +698,7 @@
       ],
       "frequency" : 9747,
       "mnemonic" : "mort-（=die：死亡）+ -al（形容词后缀，……的）→终有一死的；致",
-      "phonetic" : "ˈmɔːtl",
+      "phonetic" : "ˈmɔtəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "mortal"
@@ -715,7 +715,7 @@
       ],
       "frequency" : 4715,
       "mnemonic" : "mortal（终有一死的）+ -ity（名词后缀）→生命的有限；死亡\nmort-（=die：死亡）+ -al（名词后缀）+ -ity（名词后缀）→死亡数",
-      "phonetic" : "mɔːˈtæləti",
+      "phonetic" : "mɔɹˈtælɪti",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "mortality"
@@ -730,7 +730,7 @@
       ],
       "frequency" : 11663,
       "mnemonic" : "im-（=not：不；表相反）+ mort-（=die：死亡）+ -al（形容词后缀）\n→永不死亡的→长生的，不朽的；流芳百世的\nim-（=not：不；表相反）+ mortal（凡人）→与（终有一死的）凡人\n相反→流芳百世的人物；神",
-      "phonetic" : "ɪˈmɔːtl",
+      "phonetic" : "ɪˈmɔɹtəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "immortal"
@@ -745,7 +745,7 @@
       ],
       "frequency" : 13284,
       "mnemonic" : "immortal（永生的；流芳百世的）+ -ity（名词后缀）→永生；流芳",
-      "phonetic" : "ˌɪmɔːˈtæləti",
+      "phonetic" : "ˌɪmɔːɹˈtæləti",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "immortality"
@@ -760,7 +760,7 @@
       ],
       "frequency" : 18880,
       "mnemonic" : "immortal（不朽的；名垂千古的）+ -ize（使动词后缀）→使不朽；使",
-      "phonetic" : "ɪˈmɔːtəlaɪz",
+      "phonetic" : "ɪ.ˈmɔ(ɹ).tə.ˌlaɪz",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "immortalize"
@@ -775,7 +775,7 @@
       ],
       "frequency" : 19101,
       "mnemonic" : "mort-（死亡）+ -ify（使动词后缀）→使感觉要死的→引申词义“使",
-      "phonetic" : "ˈmɔːtɪfaɪ",
+      "phonetic" : "ˈmɔɹtɪfaɪ",
       "pos" : "vt.",
       "rootHint" : "nurs",
       "word" : "mortify"
@@ -793,7 +793,7 @@
       ],
       "frequency" : 19009,
       "mnemonic" : "mort-（死亡）+ -u- + -ary（名词后缀，表场所）→停放死人的地方→",
-      "phonetic" : "ˈmɔːtʃəri",
+      "phonetic" : "ˈmɔtʃəri",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "mortuary"
@@ -821,7 +821,7 @@
       ],
       "frequency" : 3391,
       "mnemonic" : "vir-（=moral：道德）+ t（无意义）+ -ue（名词后缀）→美德；高尚",
-      "phonetic" : "ˈvɜːtʃuː",
+      "phonetic" : "ˈvɝtʃu",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "virtue"
@@ -840,7 +840,7 @@
       ],
       "frequency" : 3708,
       "mnemonic" : "virtu（=virtue：（男人应有的）美德；用处）+ -al（形容词后缀）→\n样→事实上的，实际上的；虚拟的",
-      "phonetic" : "ˈvəːtʃuəl",
+      "phonetic" : "ˈvɵːtʃuəl",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "virtual"
@@ -854,7 +854,7 @@
         "There’s virtually no limit to how much of that can be saved，as prototype\n“zero-energy homes” in Switzerland and Germany have shown.\n正如瑞士和德国的零耗能家庭显示的，节省能源几乎\/事实上是没有\n底线的。"
       ],
       "frequency" : 2063,
-      "phonetic" : "ˈvəːtʃʊəli",
+      "phonetic" : "[ˈvɝt͡ʃuəɫi]",
       "pos" : "adv.",
       "rootHint" : "nurs",
       "word" : "virtually"
@@ -870,7 +870,7 @@
       ],
       "frequency" : 12768,
       "mnemonic" : "virtu（=virtue：高尚的道德）+ -ous（形容词后缀）→品行端正的\nvirtu（=virtue：高尚的道德）+ -ous（形容词后缀）→自以为比其他\n人道德水平更高的→自鸣得意的，自命不凡的",
-      "phonetic" : "ˈvɜːtʃuəs",
+      "phonetic" : "ˈvɝt͡ʃuəs",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "virtuous"
@@ -887,7 +887,7 @@
       ],
       "frequency" : 16935,
       "mnemonic" : "virtu（=excellence, worth：杰出；价值）+ -oso（名词 \/ 形容词后缀）\n→记忆超群的人，演奏家；技艺精湛的",
-      "phonetic" : "ˌvɜːtʃuˈəʊsəʊ; ˌvɜːtʃuˈəʊzəʊ",
+      "phonetic" : "ˌvɝ.tʃuˈoʊ.soʊ",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "virtuoso"
@@ -905,7 +905,7 @@
       ],
       "frequency" : 123,
       "mnemonic" : "wor-（=vir-：人；男人）+ ld（=age：时代）→男人的时代，人的存\n在。后引申词义人的一生，今生，→人类的活动与事务，世界；世界",
-      "phonetic" : "wɜːld",
+      "phonetic" : "wɝld",
       "pos" : "n.",
       "rootHint" : "nurs",
       "word" : "world"
@@ -920,7 +920,7 @@
       ],
       "frequency" : 9535,
       "mnemonic" : "world（世界）+ class（等级；级别）→世界级的；世界一流的",
-      "phonetic" : "ˌwɜːld ˈklɑːs",
+      "phonetic" : "wɝldˈklæs",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "world-class"
@@ -935,7 +935,7 @@
       ],
       "frequency" : 18052,
       "mnemonic" : "world（世界的）+ famous（著名的）→在世界上著名的→举世闻",
-      "phonetic" : "ˌwɜːld ˈfeɪməs",
+      "phonetic" : "ˌwɝld ˈfeɪməs",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "world-famous"
@@ -951,7 +951,7 @@
       ],
       "frequency" : 10982,
       "mnemonic" : "world（世界）+ -ly（形容词后缀）→与世界、尘世有关的→世俗",
-      "phonetic" : "ˈwɜːldlɪ",
+      "phonetic" : "ˈwɝldli",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "worldly"
@@ -966,7 +966,7 @@
       ],
       "frequency" : 4505,
       "mnemonic" : "world（世界）+ wide（广泛的；范围大的）→在世界范围内产生广\n泛影响的→全世界的，世界各地的；在全世界",
-      "phonetic" : "ˌwɜːldˈwaɪd",
+      "phonetic" : "ˈwɝldˌwaɪd",
       "pos" : "adj.",
       "rootHint" : "nurs",
       "word" : "worldwide"

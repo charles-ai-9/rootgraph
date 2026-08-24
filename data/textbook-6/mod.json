@@ -39,7 +39,7 @@
       ],
       "frequency" : 18170,
       "mnemonic" : "out（=away：远离）+ mode（风格；时尚）+ -ed（形容词后缀，e省\n略）→远离风格、时尚的→过时的",
-      "phonetic" : "aʊtˈməʊdɪd",
+      "phonetic" : "aʊtˈmoʊdɪd",
       "pos" : "adj.",
       "rootHint" : "mod",
       "word" : "outmoded"
@@ -73,7 +73,7 @@
       ],
       "frequency" : 11646,
       "mnemonic" : "re-（重新）+ model（模型）→重新做模型→重建；改造",
-      "phonetic" : "ˌriːˈmɒdl",
+      "phonetic" : "ˌriːˈmɑdl",
       "pos" : "vt.",
       "rootHint" : "mod",
       "word" : "remodel"
@@ -87,7 +87,7 @@
 
       ],
       "frequency" : 6803,
-      "phonetic" : "ˈmɒdəlɪŋ",
+      "phonetic" : "ˈmɑdəlɪŋ",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modeling"
@@ -102,7 +102,7 @@
       ],
       "frequency" : 13146,
       "mnemonic" : "mod-（形式；方式）+ -al（形容词后缀）+ -ity（名词后缀）→形",
-      "phonetic" : "məʊˈdæləti",
+      "phonetic" : "moʊˈdæləti",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modality"
@@ -133,7 +133,7 @@
 
       ],
       "frequency" : 7033,
-      "phonetic" : "ˈmɒdɪfaɪd",
+      "phonetic" : "ˈmɑdɪfaɪd",
       "pos" : "adj.",
       "rootHint" : "mod",
       "word" : "modified"
@@ -186,7 +186,7 @@
 
       ],
       "frequency" : 8289,
-      "phonetic" : "ˈmɒdərətlɪ",
+      "phonetic" : "ˈmɑdərətlɪ",
       "pos" : "adv.",
       "rootHint" : "mod",
       "word" : "moderately"
@@ -202,7 +202,7 @@
       ],
       "frequency" : 11242,
       "mnemonic" : "moderat（=moderate：（数量或程度）适中的）+ -ion（名词后缀）→",
-      "phonetic" : "ˌmɒdəˈɹeɪʃən",
+      "phonetic" : "ˌmɑdəˈɹeɪʃən",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "moderation"
@@ -217,7 +217,7 @@
       ],
       "frequency" : 12824,
       "mnemonic" : "moderate（主持（讨论、辩论等））+ -or（名词后缀，表示人）→辩\n论、谈判地主持人→主持人；调解人；仲裁人",
-      "phonetic" : "ˈmɒdəˌɹeɪtə(ɹ)",
+      "phonetic" : "ˈmɑdəˌɹeɪtə(ɹ)",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "moderator"
@@ -266,7 +266,7 @@
 
       ],
       "mnemonic" : "modern（音似“摩登”）+ -ize（使动词后缀）→ 使……现代化",
-      "phonetic" : "ˈmɒdənaɪz",
+      "phonetic" : "ˈmɑdɚnaɪz",
       "pos" : "vt.",
       "rootHint" : "mod",
       "word" : "modernize"
@@ -281,7 +281,7 @@
       ],
       "frequency" : 8534,
       "mnemonic" : "moderniz（=modernize：使……现代化） + -ation（名词后缀）→现代化",
-      "phonetic" : "ˌmɒdənaɪˈzeɪʃn̩",
+      "phonetic" : "ˌmɑdɚnaɪˈzeɪʃn̩",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modernization"
@@ -296,7 +296,7 @@
       ],
       "frequency" : 8474,
       "mnemonic" : "modern（现代的）+ -ity（名词后缀，指具备某种性质）→现代性\nduplicity n. 欺骗；口是心非（du-：二个+ plic-：重叠→口和心不一",
-      "phonetic" : "məˈdɜː(ɹ)n.ɪ.ti",
+      "phonetic" : "məˈdɝn.ɪ.ti",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modernity"
@@ -311,7 +311,7 @@
 
       ],
       "frequency" : 9846,
-      "phonetic" : "ˈmɒdənɪst",
+      "phonetic" : "ˈmɑdənɪst",
       "pos" : "adj.",
       "rootHint" : "mod",
       "word" : "modernist"
@@ -325,7 +325,7 @@
 
       ],
       "frequency" : 10404,
-      "phonetic" : "ˈmɒdənɪzəm",
+      "phonetic" : "ˈmɑdənɪzəm",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modernism"
@@ -355,7 +355,7 @@
 
       ],
       "frequency" : 11765,
-      "phonetic" : "ˈmɒdɪstlɪ",
+      "phonetic" : "ˈmɑdɪstlɪ",
       "pos" : "adv.",
       "rootHint" : "mod",
       "word" : "modestly"
@@ -371,7 +371,7 @@
       ],
       "frequency" : 12180,
       "mnemonic" : "modest（谦虚的；较小的；端庄的）+ -y（名词后缀）→谦虚；（某",
-      "phonetic" : "ˈmɒd.ə.sti",
+      "phonetic" : "ˈmɑd.ə.sti",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modesty"
@@ -407,7 +407,7 @@
       ],
       "frequency" : 16748,
       "mnemonic" : "molding=moulding",
-      "phonetic" : "ˈməʊl.dɪŋ",
+      "phonetic" : "ˈmoʊl.dɪŋ",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "molding"
@@ -437,7 +437,7 @@
       ],
       "frequency" : 6375,
       "mnemonic" : "mod-（模式；模型）+ -ule（名词后缀，表示小）即小模型→引申词",
-      "phonetic" : "ˈmɒdjuːl",
+      "phonetic" : "ˈmɑdʒuːl",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "module"
@@ -453,7 +453,7 @@
       ],
       "frequency" : 15125,
       "mnemonic" : "modul（=module：组件；单元）+ -ar（形容词后缀）→由组件、单\n元合成的→组件的；组合式的",
-      "phonetic" : "ˈmɒdjʊlə",
+      "phonetic" : "ˈmɑdjʊlə",
       "pos" : "adj.",
       "rootHint" : "mod",
       "word" : "modular"
@@ -469,7 +469,7 @@
       ],
       "frequency" : 17073,
       "mnemonic" : "modul（=module：模块；单元）+ -ate（动词后缀，使…）→使模块\n化，单元化→引申词义调节；改变；调整",
-      "phonetic" : "ˈmɑː.dʒə.ˌleɪt",
+      "phonetic" : "ˈmɑ.dʒə.ˌleɪt",
       "pos" : "vt.",
       "rootHint" : "mod",
       "word" : "modulate"
@@ -483,7 +483,7 @@
         "He sent his work to his publishers by modem.\n他通过调制解调器把作品发给他的出版商。"
       ],
       "mnemonic" : "mod-（=modulator：调制器）+ em（demodulator：解调器）→调制解",
-      "phonetic" : "ˈməʊdəm",
+      "phonetic" : "ˈmoʊdəm",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "modem"
@@ -724,7 +724,7 @@
       ],
       "frequency" : 10696,
       "mnemonic" : "remed（=remedy：纠正；补救；解决方法）+ -ial（形容词后缀，表\n示有……性质的）→旨在解决问题的；补救的；纠正的；补习的",
-      "phonetic" : "ɹɪˈmiːdɪəl",
+      "phonetic" : "ɹɪˈmidi.əl",
       "pos" : "adj.",
       "rootHint" : "mod",
       "word" : "remedial"
@@ -777,7 +777,7 @@
       ],
       "frequency" : 5439,
       "mnemonic" : "accommodate（居住）+ -ion（名词后缀）→住处；住宿\nac-（=to）+ com-（加强语气）+ -mod-（=measure：方法）+ -ate（使\n动词）+ -ion（名词后缀）→to take appropriate measure：采取合适的\n方法（缓解矛盾）→和解",
-      "phonetic" : "ə.ˌkɒm.ə.ˈdeɪ.ʃən",
+      "phonetic" : "ə.ˌkɑm.ə.ˈdeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "mod",
       "word" : "accommodation"

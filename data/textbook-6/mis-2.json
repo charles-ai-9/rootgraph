@@ -183,7 +183,7 @@
       ],
       "frequency" : 6825,
       "mnemonic" : "un-（=not：不）+ common（常见的）→不常见的；罕见的→引申义",
-      "phonetic" : "ʌnˈkɒmən",
+      "phonetic" : "ʌnˈkɑmən",
       "pos" : "adj.",
       "rootHint" : "mis",
       "word" : "uncommon"
@@ -198,7 +198,7 @@
       ],
       "frequency" : 14917,
       "mnemonic" : "common（共同的）+ -ality（名词后缀，-al + -ity）→共同点；共同之处",
-      "phonetic" : "kɒməˈnalɪti",
+      "phonetic" : "kɑməˈnalɪti",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commonality"
@@ -215,7 +215,7 @@
       ],
       "frequency" : 19571,
       "mnemonic" : "common（普通的）+ -er（名词后缀，表示人）→普通的人→平民",
-      "phonetic" : "ˈkɒmənə(ɹ)",
+      "phonetic" : "ˈkɑmənə(ɹ)",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "commoner"
@@ -313,7 +313,7 @@
       ],
       "frequency" : 7207,
       "mnemonic" : "commun（共同生活、分担责任、共享财产等的群体、公社）+ -ism\n（名词后缀，表示主义）→共产主义",
-      "phonetic" : "ˈkɒm.juˌnɪzm̩",
+      "phonetic" : "ˈkɑm.juˌnɪzm̩",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "communism"
@@ -330,7 +330,7 @@
       ],
       "frequency" : 6431,
       "mnemonic" : "commune（共产的群体）+ -ist（名词\/形容词后缀，主义者；主义\n的）→共产主义者；共产主义的",
-      "phonetic" : "ˈkɒ.mjʊ.nɪst",
+      "phonetic" : "ˈkɑ.mjʊ.nɪst",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "communist"
@@ -474,7 +474,7 @@
       ],
       "frequency" : 16230,
       "mnemonic" : "telecommunication的简写。",
-      "phonetic" : "ˈtelɪkɒm",
+      "phonetic" : "ˈtelɪkɑm",
       "pos" : "n.",
       "rootHint" : "mis",
       "word" : "telecom"

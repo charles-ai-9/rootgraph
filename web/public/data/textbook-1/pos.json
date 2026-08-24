@@ -27,7 +27,7 @@
       ],
       "frequency" : 3408,
       "mnemonic" : "com (一起) +pose (=put：放) → (把各部分) 放在一起→组成；作文\n(把文字放到一起) ；作曲 (把音符放到一起)",
-      "phonetic" : "kəmˈpəʊz",
+      "phonetic" : "kəmˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "compose"
@@ -41,7 +41,7 @@
 
       ],
       "frequency" : 5058,
-      "phonetic" : "kəmˈpəʊzə",
+      "phonetic" : "kəmˈpoʊzə",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "composer"
@@ -55,7 +55,7 @@
 
       ],
       "frequency" : 3025,
-      "phonetic" : "ˌkɒmpəˈzɪʃn",
+      "phonetic" : "ˌkɑmpəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "composition"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 1772,
       "mnemonic" : "com (共同，一起) +pon (=pose：放) +ent (名词后缀) →放在一起 (构\n成新物体) 的东西→成分，要素",
-      "phonetic" : "kəmˈpəʊnənt",
+      "phonetic" : "kʌmˈpoʊnənt",
       "pos" : "adj.",
       "rootHint" : "pon",
       "word" : "component"
@@ -99,7 +99,7 @@
 
       ],
       "frequency" : 20736,
-      "phonetic" : "ˌeliˈmentəri",
+      "phonetic" : "(ˌ)ɛlɪ̈ˈmɛnt(ə)ɹɪ",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "elementary"
@@ -114,7 +114,7 @@
 
       ],
       "frequency" : 16329,
-      "phonetic" : "di:kəmˈpəʊz",
+      "phonetic" : "ˌdiːkəmˈpoʊz",
       "pos" : "vi.",
       "rootHint" : "pos",
       "word" : "decompose"
@@ -128,7 +128,7 @@
 
       ],
       "frequency" : 16032,
-      "phonetic" : "ˌdi:kɒmpəˈzɪʃn",
+      "phonetic" : "diːˌkɑmpəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "decomposition"
@@ -145,7 +145,7 @@
       ],
       "frequency" : 3458,
       "mnemonic" : "com (共同，一起) +pound (=put：放) →放到一起→合成，化合；化合",
-      "phonetic" : "ˈkɒmpaʊnd",
+      "phonetic" : "kəmˈpaʊnd",
       "pos" : "vt.",
       "rootHint" : "pound",
       "word" : "compound"
@@ -163,7 +163,7 @@
 
       ],
       "frequency" : 6838,
-      "phonetic" : "ˈkɒmpəzɪt",
+      "phonetic" : "kəmˈpɑzɪt",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "composite"
@@ -178,7 +178,7 @@
 
       ],
       "frequency" : 6250,
-      "phonetic" : "ˈkɒmpɒst",
+      "phonetic" : "ˈkɑmpoʊst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "compost"
@@ -193,7 +193,7 @@
 
       ],
       "frequency" : 13124,
-      "phonetic" : "kəmˈpəʊʒə",
+      "phonetic" : "kəmˈpoʊʒɚ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "composure"
@@ -210,7 +210,7 @@
       ],
       "frequency" : 6649,
       "mnemonic" : "post (后) +pon (=-pos：放) →往后放→后延，延期，推迟",
-      "phonetic" : "pəʊs(t)ˈpəʊn; pəˈspəʊn",
+      "phonetic" : "poʊstˈpoʊn",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "postpone"
@@ -233,7 +233,7 @@
       ],
       "frequency" : 4744,
       "mnemonic" : "de (=away) +pos (=lay放) +it (动词和名词后缀) →lay away储藏；储蓄\n→存款\nde (=down：下) +pos (放) +it (动词或名词后缀) →放下；存放；沉淀",
-      "phonetic" : "dɪˈpɒzɪt",
+      "phonetic" : "dɨˈpɑzɪt",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "deposit"
@@ -249,7 +249,7 @@
 
       ],
       "frequency" : 7444,
-      "phonetic" : "ˌdepəˈzɪʃ(ə)n; di:-",
+      "phonetic" : "dɛpəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "deposition"
@@ -263,7 +263,7 @@
 
       ],
       "frequency" : 17637,
-      "phonetic" : "dɪˈpɒzɪtə",
+      "phonetic" : "dɪˈpɑzɪtə",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "depositor"
@@ -284,7 +284,7 @@
       ],
       "frequency" : 2810,
       "mnemonic" : "with (=back：回) +draw (拉) →拉回来→撤退，撤销；收回 (货币)，",
-      "phonetic" : "wɪðˈdrɔ:",
+      "phonetic" : "wɪðˈdɹɔ",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "withdraw"
@@ -298,7 +298,7 @@
 
       ],
       "frequency" : 4172,
-      "phonetic" : "wɪðˈdrɔ:(ə)l",
+      "phonetic" : "wɪðˈdɹɔəl",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "withdrawal"
@@ -321,7 +321,7 @@
       ],
       "frequency" : 2250,
       "mnemonic" : "pose (=put：放，摆) →摆造型，提出",
-      "phonetic" : "pəʊz",
+      "phonetic" : "poʊz",
       "pos" : "v.",
       "rootHint" : "pos",
       "word" : "pose"
@@ -336,7 +336,7 @@
 
       ],
       "frequency" : 5475,
-      "phonetic" : "ˈpɒstʃə",
+      "phonetic" : "ˈpɑstʃə",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "posture"
@@ -353,7 +353,7 @@
       ],
       "frequency" : 7004,
       "mnemonic" : "dis (分开) +pose (放) →分开放→安排；安置；处理",
-      "phonetic" : "dɪˈspəʊz",
+      "phonetic" : "dɪsˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "dispose"
@@ -373,7 +373,7 @@
       ],
       "frequency" : 5654,
       "mnemonic" : "dispos (=dispose：处理) +al (名词后缀) →处理，安排，支配",
-      "phonetic" : "dɪˈspəʊz(ə)l",
+      "phonetic" : "[dɪsˈpoʊzəɫ]",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "disposal"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 7351,
       "mnemonic" : "dispose (倾向) +ition (=ite+ion：复合名词后缀) →倾向；性情\nSomeone’s disposition is the way that they tend to behave or feel. 性情；",
-      "phonetic" : "dɪspəˈzɪʃ(ə)n",
+      "phonetic" : "ˌdɪs.pəˈzɪ.ʃɪn",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "disposition"
@@ -404,7 +404,7 @@
 
       ],
       "frequency" : 10073,
-      "phonetic" : "dɪˈspəʊzəb(ə)l",
+      "phonetic" : "dɪsˈpoʊzəbl̩",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "disposable"
@@ -429,7 +429,7 @@
       ],
       "frequency" : 2019,
       "mnemonic" : "ex (外面) +pose (=put) →把……放于外面，放在大庭广众之下→ 暴",
-      "phonetic" : "ɪkˈspəʊz; ek-",
+      "phonetic" : "ɛkˈspoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "expose"
@@ -443,7 +443,7 @@
 
       ],
       "frequency" : 7232,
-      "phonetic" : "ɪkˈspəʊzd",
+      "phonetic" : "ɪkˈspoʊzd",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "exposed"
@@ -457,7 +457,7 @@
 
       ],
       "frequency" : 2249,
-      "phonetic" : "ɪkˈspəʊʒə; ek-",
+      "phonetic" : "ɪkˈspoʊʒɚ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "exposure"
@@ -471,7 +471,7 @@
 
       ],
       "frequency" : 14794,
-      "phonetic" : "ekspəˈzɪʃ(ə)n",
+      "phonetic" : "ɛkspəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "exposition"
@@ -492,7 +492,7 @@
       ],
       "frequency" : 2353,
       "mnemonic" : "im (=in：加强语气) +pose (=put：放) →强行放……上→强加，施加\n(影响)",
-      "phonetic" : "ɪmˈpəʊz",
+      "phonetic" : "ɪmˈpoʊz",
       "pos" : "vi.",
       "rootHint" : "pos",
       "word" : "impose"
@@ -507,7 +507,7 @@
 
       ],
       "frequency" : 9282,
-      "phonetic" : "ɪmˈpəʊzɪŋ",
+      "phonetic" : "ɪmˈpoʊzɪŋ",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "imposing"
@@ -521,7 +521,7 @@
 
       ],
       "frequency" : 11436,
-      "phonetic" : "ɪmpəˈzɪʃ(ə)n",
+      "phonetic" : "ɪm.pəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "imposition"
@@ -551,7 +551,7 @@
 
       ],
       "frequency" : 14607,
-      "phonetic" : "ˌsu:p(ə)rɪmˈpəʊz; ˌsju:-",
+      "phonetic" : "ˌsu:p(ə)rɪmˈpoʊz;ˌsju:-",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "superimpose"
@@ -571,7 +571,7 @@
       ],
       "frequency" : 1959,
       "mnemonic" : "op (=ob=against：相反) +pose (=put：放，摆；姿态) →摆出相反姿态\n→反对",
-      "phonetic" : "əˈpəʊz",
+      "phonetic" : "əˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "oppose"
@@ -585,7 +585,7 @@
 
       ],
       "frequency" : 4216,
-      "phonetic" : "əˈpəʊzd",
+      "phonetic" : "əˈpoʊzd",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "opposed"
@@ -599,7 +599,7 @@
 
       ],
       "frequency" : 6665,
-      "phonetic" : "əˈpəʊzɪŋ",
+      "phonetic" : "əˈpoʊzɪŋ",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "opposing"
@@ -618,7 +618,7 @@
 
       ],
       "frequency" : 2241,
-      "phonetic" : "ˈɒpəzɪt; -sɪt",
+      "phonetic" : "ˈɑp(ə)sɪt",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "opposite"
@@ -632,7 +632,7 @@
 
       ],
       "frequency" : 1891,
-      "phonetic" : "ɒpəˈzɪʃ(ə)n",
+      "phonetic" : "ɑpəˈzɪʃn̩",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "opposition"
@@ -647,7 +647,7 @@
       ],
       "frequency" : 2200,
       "mnemonic" : "oppon (=oppose：反对) +ent (=ant：表人) →对手，反对者",
-      "phonetic" : "əˈpəʊnənt",
+      "phonetic" : "ɑpoʊnənt",
       "pos" : "n.",
       "rootHint" : "pon",
       "word" : "opponent"
@@ -681,7 +681,7 @@
       ],
       "frequency" : 1706,
       "mnemonic" : "pro (=forth：向前) +pose (=put：提出，放出) →向前放出，提出→提",
-      "phonetic" : "prəˈpəʊz",
+      "phonetic" : "pɹəˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "propose"
@@ -695,7 +695,7 @@
 
       ],
       "frequency" : 3100,
-      "phonetic" : "prəˈpəʊzd",
+      "phonetic" : "pɹəˈpoʊzd",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "proposed"
@@ -709,7 +709,7 @@
 
       ],
       "frequency" : 1634,
-      "phonetic" : "prəˈpəʊz(ə)l",
+      "phonetic" : "pɹəˈpoʊzəl",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "proposal"
@@ -725,7 +725,7 @@
 
       ],
       "frequency" : 5497,
-      "phonetic" : "prɒpəˈzɪʃ(ə)n",
+      "phonetic" : "ˌpɹɑpəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "proposition"
@@ -739,7 +739,7 @@
 
       ],
       "frequency" : 5827,
-      "phonetic" : "prəˈpəʊnənt",
+      "phonetic" : "pɹəˈpoʊnənt",
       "pos" : "n.",
       "rootHint" : "pon",
       "word" : "proponent"
@@ -754,7 +754,7 @@
 
       ],
       "frequency" : 11622,
-      "phonetic" : "sɪmˈpəʊzɪəm",
+      "phonetic" : "sɪm.ˈpoʊ.zi.əm",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "symposium"
@@ -768,7 +768,7 @@
 
       ],
       "frequency" : 513,
-      "phonetic" : "pəˈzɪʃən",
+      "phonetic" : "pəˈzɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "position"
@@ -796,7 +796,7 @@
 
       ],
       "frequency" : 1053,
-      "phonetic" : "ˈpɒzətɪv",
+      "phonetic" : "ˈpɑzɪ̈tɪv",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "positive"
@@ -810,7 +810,7 @@
 
       ],
       "frequency" : 5251,
-      "phonetic" : "ˈpɒzətɪvlɪ",
+      "phonetic" : "ˈpɑzɪtɪvli",
       "pos" : "adv.",
       "rootHint" : "pos",
       "word" : "positively"
@@ -825,7 +825,7 @@
 
       ],
       "frequency" : 9612,
-      "phonetic" : "ˈpɒzɪt",
+      "phonetic" : "ˈpɑzɪt",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "posit"
@@ -842,7 +842,7 @@
 
       ],
       "frequency" : 2180,
-      "phonetic" : "səˈpəʊz",
+      "phonetic" : "səˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "suppose"
@@ -860,7 +860,7 @@
 
       ],
       "frequency" : 1248,
-      "phonetic" : "səˈpəʊzd",
+      "phonetic" : "səˈpoʊzd",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "supposed"
@@ -874,7 +874,7 @@
 
       ],
       "frequency" : 4601,
-      "phonetic" : "səˈpəʊzɪdlɪ",
+      "phonetic" : "səˈpoʊzɪdlɪ",
       "pos" : "adv.",
       "rootHint" : "pos",
       "word" : "supposedly"
@@ -888,7 +888,7 @@
 
       ],
       "frequency" : 18871,
-      "phonetic" : "ˌsʌpəˈzɪʃ(ə)n",
+      "phonetic" : "ˌsʌpəˈzɪʃən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "supposition"
@@ -903,7 +903,7 @@
 
       ],
       "frequency" : 14453,
-      "phonetic" : "pri:səˈpəʊz",
+      "phonetic" : "pri:səˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "presuppose"
@@ -917,7 +917,7 @@
 
       ],
       "frequency" : 1018,
-      "phonetic" : "ˈpɜ:pəs",
+      "phonetic" : "ˈpɝpəs",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "purpose"
@@ -959,7 +959,7 @@
 
       ],
       "frequency" : 12708,
-      "phonetic" : "ˈpɜ:pəslɪ",
+      "phonetic" : "ˈpɝpəsli",
       "pos" : "adv.",
       "rootHint" : "pos",
       "word" : "purposely"
@@ -990,7 +990,7 @@
 
       ],
       "frequency" : 9432,
-      "phonetic" : "ˈaʊtpəʊst",
+      "phonetic" : "ˈaʊtˌpoʊst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "outpost"
@@ -1007,7 +1007,7 @@
 
       ],
       "frequency" : 2167,
-      "phonetic" : "pəʊst",
+      "phonetic" : "poʊst",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "post"
@@ -1021,7 +1021,7 @@
 
       ],
       "frequency" : 13727,
-      "phonetic" : "ˈpəʊstɪdʒ",
+      "phonetic" : "ˈpoʊstɪdʒ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "postage"
@@ -1035,7 +1035,7 @@
 
       ],
       "frequency" : 7185,
-      "phonetic" : "ˈpəʊst(ə)l",
+      "phonetic" : "[ˈpoʊstl̩]",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "postal"
@@ -1049,7 +1049,7 @@
 
       ],
       "frequency" : 7032,
-      "phonetic" : "ˈpəʊs(t)kɑ:d",
+      "phonetic" : "ˈpoʊstˌkɑɹd",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "postcard"
@@ -1063,7 +1063,7 @@
 
       ],
       "frequency" : 3871,
-      "phonetic" : "ˈpəʊstə",
+      "phonetic" : "ˈpoʊstɚ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "poster"
@@ -1077,7 +1077,7 @@
 
       ],
       "frequency" : 14650,
-      "phonetic" : "pɒˈstɪərɪə",
+      "phonetic" : "pɑsˈtɪriər",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "posterior"
@@ -1091,7 +1091,7 @@
 
       ],
       "frequency" : 17165,
-      "phonetic" : "pɒˈsterɪtɪ",
+      "phonetic" : "pɑˈstɛɹɪti",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "posterity"
@@ -1106,7 +1106,7 @@
 
       ],
       "frequency" : 20117,
-      "phonetic" : "ˈpɒstjʊməs",
+      "phonetic" : "ˈpɑs.tʃə.məs",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "posthumous"
@@ -1123,7 +1123,7 @@
 
       ],
       "frequency" : 14093,
-      "phonetic" : "ˈpəʊstɪŋ",
+      "phonetic" : "ˈpoʊstɪŋ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "posting"
@@ -1137,7 +1137,7 @@
 
       ],
       "frequency" : 8200,
-      "phonetic" : "pəʊstˈmɒdn",
+      "phonetic" : "poʊstˈmɑdn",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "postmodern"
@@ -1151,7 +1151,7 @@
 
       ],
       "frequency" : 13883,
-      "phonetic" : "pəʊstˈmɒdənɪzəm",
+      "phonetic" : "poʊstˈmɑdɚnɪzəm",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "postmodernism"
@@ -1168,7 +1168,7 @@
 
       ],
       "frequency" : 19940,
-      "phonetic" : "pəʊs(t)ˈmɔ:təm",
+      "phonetic" : "poʊs(t)ˈmɔ:təm",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "post-mortem"
@@ -1182,7 +1182,7 @@
 
       ],
       "frequency" : 12325,
-      "phonetic" : "pəʊstˈɒpərətɪv",
+      "phonetic" : "poʊstˈɑpəɹətɪv",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "postoperative"
@@ -1196,7 +1196,7 @@
 
       ],
       "frequency" : 17612,
-      "phonetic" : "ˈpəʊstˈpɑ:təm",
+      "phonetic" : "ˈpoʊstˈpɑ:təm",
       "pos" : "adj.",
       "rootHint" : "pos",
       "word" : "postpartum"
@@ -1210,7 +1210,7 @@
 
       ],
       "frequency" : 9952,
-      "phonetic" : "pəʊstˈsi:zn",
+      "phonetic" : "poʊstˈsi:zn",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "postseason"
@@ -1241,7 +1241,7 @@
 
       ],
       "frequency" : 13427,
-      "phonetic" : "ˈpɒstjʊleɪt",
+      "phonetic" : "ˈpɑstjʊleɪt",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "postulate"
@@ -1257,7 +1257,7 @@
       ],
       "frequency" : 20161,
       "mnemonic" : "re (反复) +pos (pause：停下来) →停下来；休息",
-      "phonetic" : "rɪˈpəʊz",
+      "phonetic" : "ɹɪˈpoʊz",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "repose"
@@ -1289,7 +1289,7 @@
 
       ],
       "frequency" : 11365,
-      "phonetic" : "rɪˈpɒzɪt(ə)rɪ",
+      "phonetic" : "rɪˈpɑzɪt(ə)rɪ",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "repository"
@@ -1304,7 +1304,7 @@
       ],
       "frequency" : 16634,
       "mnemonic" : "de (=down：下)",
-      "phonetic" : "dɪˈpəʊz",
+      "phonetic" : "diˈpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "depose"
@@ -1320,7 +1320,7 @@
 
       ],
       "frequency" : 13824,
-      "phonetic" : "ˌdʒʌkstəˈpəʊz",
+      "phonetic" : "ˈd͡ʒʌkstəpoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "juxtapose"
@@ -1336,7 +1336,7 @@
 
       ],
       "frequency" : 12748,
-      "phonetic" : "ˌdʒʌkstəpəˈzɪʃ(ə)n",
+      "phonetic" : "ˌdʒʌk.stə.pəˈzɪʃ.ən",
       "pos" : "n.",
       "rootHint" : "pos",
       "word" : "juxtaposition"
@@ -1367,7 +1367,7 @@
 
       ],
       "frequency" : 13431,
-      "phonetic" : "ˌpri:dɪˈspəʊz",
+      "phonetic" : "ˌpri:dɪˈspoʊz",
       "pos" : "vt.",
       "rootHint" : "pos",
       "word" : "predispose"
@@ -1382,7 +1382,7 @@
 
       ],
       "frequency" : 17070,
-      "phonetic" : "ɪkˈspaʊnd; ek-",
+      "phonetic" : "ɪkˈspaʊnd",
       "pos" : "vt.",
       "rootHint" : "pound",
       "word" : "expound"
@@ -1396,7 +1396,7 @@
 
       ],
       "frequency" : 18569,
-      "phonetic" : "ˌekspəˈnenʃ(ə)l",
+      "phonetic" : "ˌɛk.spoʊ.ˈnɛn.tʃəl",
       "pos" : "adj.",
       "rootHint" : "pon",
       "word" : "exponential"
@@ -1414,7 +1414,7 @@
 
       ],
       "frequency" : 426,
-      "phonetic" : "ɪkˈspəʊnənt",
+      "phonetic" : "ˈɛkspoʊnənt",
       "pos" : "n.",
       "rootHint" : "pon",
       "word" : "exponent"
@@ -1428,7 +1428,7 @@
 
       ],
       "frequency" : 15775,
-      "phonetic" : "ˌekspəʊˈnenʃəlɪ",
+      "phonetic" : "ɛkspə(ʊ)ˈnɛnʃəli",
       "pos" : "adv.",
       "rootHint" : "pon",
       "word" : "exponentially"

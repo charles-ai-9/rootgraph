@@ -218,7 +218,7 @@
       ],
       "frequency" : 4540,
       "mnemonic" : "market（市场）+ place（地方）→市场所在地→市场交易；集市",
-      "phonetic" : "ˈmɑːkɪtpleɪs",
+      "phonetic" : "ˈmɑkɪtpleɪs",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "marketplace"
@@ -233,7 +233,7 @@
       ],
       "frequency" : 4325,
       "mnemonic" : "market（工作）+ place（场所）→工作场所",
-      "phonetic" : "ˈwɜːkpleɪs",
+      "phonetic" : "ˈwɝkpleɪs",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "workplace"
@@ -507,7 +507,7 @@
       ],
       "frequency" : 15945,
       "mnemonic" : "war（战争）+ plane（飞机）→战争中使用的飞机→战斗机",
-      "phonetic" : "ˈwɔːpleɪn",
+      "phonetic" : "ˈwɔpleɪn",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "warplane"
@@ -555,7 +555,7 @@
       ],
       "frequency" : 18562,
       "mnemonic" : "planet（行星）+ -arium（表地点）→即看星星的地方→引申词义天文",
-      "phonetic" : "plænɪˈtɛːɹɪəm",
+      "phonetic" : "plænəˈtɛriəm",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "planetarium"
@@ -603,7 +603,7 @@
       ],
       "frequency" : 14713,
       "mnemonic" : "floor（地板）+ board（板）→地板板材",
-      "phonetic" : "ˈflɔːbɔːd",
+      "phonetic" : "ˈflɔbɔd",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "floorboard"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 13089,
       "mnemonic" : "air（=aircraft：飞机）+ land（场地）→飞机起落的场地→飞机场；停机坪",
-      "phonetic" : "ˈeəfiːld",
+      "phonetic" : "ˈɛrfiːld",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "airfield"
@@ -746,7 +746,7 @@
       ],
       "frequency" : 14070,
       "mnemonic" : "corn（小麦、玉米等谷物）+ field（田地）→小麦田；玉米田",
-      "phonetic" : "ˈkɔːnfiːld",
+      "phonetic" : "ˈkɔɹnˌfild",
       "pos" : "n.",
       "rootHint" : "punct",
       "word" : "cornfield"

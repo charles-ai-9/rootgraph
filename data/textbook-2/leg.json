@@ -487,7 +487,7 @@
       ],
       "frequency" : 14958,
       "mnemonic" : "log(=log：理由，想法，语言)+-istic(复合形容词后缀，-ist+-ic)→在组",
-      "phonetic" : "lɒdʒˈɪs.tɪk",
+      "phonetic" : "loʊˈdʒɪs.tɪk",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "logistic"
@@ -678,7 +678,7 @@
       ],
       "frequency" : 20092,
       "mnemonic" : "pro-(=before：在前，公开)+-logu-(说话)+-e→在正式开场之前说话→",
-      "phonetic" : "ˈpɹəʊlɒɡ",
+      "phonetic" : "ˈpɹoʊlɑɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "prologue"
@@ -716,7 +716,7 @@
       ],
       "frequency" : 6001,
       "mnemonic" : "可能缩写自logogram，代表字词的标记，图标，logo-(字，词)，词源",
-      "phonetic" : "ˈləʊɡəʊ",
+      "phonetic" : "ˈloʊɡoʊ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "logo"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 10598,
       "mnemonic" : "mono-(=single，alone：单个的，单独地)+-logue(对话)→单独地、独\n自地说话→独白，独角戏",
-      "phonetic" : "ˈmɒn(ə)lɒg",
+      "phonetic" : "ˈmɑn(ə)lɑg",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "monologue"
@@ -831,7 +831,7 @@
       ],
       "frequency" : 4999,
       "mnemonic" : "apo-(=away from, off：远离)+-logy(=speech：说，演讲)→a speech in\ndefence：为了远离过错，使看起来情有可原的演讲→道歉，辩护，",
-      "phonetic" : "əˈpɒl.ə.dʒi",
+      "phonetic" : "əˈpɑl.ə.dʒi",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "apology"
@@ -846,7 +846,7 @@
       ],
       "frequency" : 19889,
       "mnemonic" : "apology(道歉，辩护)+-ist(名词后缀，表专家)→辩解的专家→辩解者",
-      "phonetic" : "əˈpɒl.ə.dʒɪst",
+      "phonetic" : "əˈpɑl.ə.dʒɪst",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "apologist"
@@ -875,7 +875,7 @@
 
       ],
       "mnemonic" : "apology(道歉，谢罪)+-etic(形容词后缀)→道歉的，谢罪的，愧疚的",
-      "phonetic" : "əˌpɒləˈdʒɛtɪk",
+      "phonetic" : "əˌpɑləˈdʒɛtɪk",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "apologetic"
@@ -905,7 +905,7 @@
       ],
       "frequency" : 4494,
       "mnemonic" : "cata-(=down, completely：下去，彻底)+-log(=to say, account：说)→全\n部彻底的罗列出来→列表，目录",
-      "phonetic" : "ˈkætəlɒɡ",
+      "phonetic" : "ˈkætəlɑɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "catalog"

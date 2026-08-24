@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "quick",
-      "phonetic": "kwik",
+      "phonetic": "kwɪk",
       "pos": "adj.",
       "definition": "快的；迅速的；时间短暂的；敏捷的；立竿见影的 adv.迅 速地；快速地；敏捷地 n. ( 指甲下的)活肉",
       "frequency": 1309,
@@ -32,7 +32,7 @@
     },
     {
       "word": "quickly",
-      "phonetic": "'kwiklr",
+      "phonetic": "ˈkwɪkli",
       "pos": "adv.",
       "definition": "很快地；迅速地；不久；立即",
       "frequency": 680,
@@ -45,7 +45,7 @@
     },
     {
       "word": "quicken",
-      "phonetic": "'kwik(a)n",
+      "phonetic": "ˈkwɪkən",
       "pos": "vi.",
       "definition": "( 使)加快，加速；使更活跃",
       "frequency": 11729,
@@ -59,7 +59,7 @@
     },
     {
       "word": "quicker",
-      "phonetic": "'kwikor",
+      "phonetic": "ˈkwɪkə",
       "pos": "adj.",
       "definition": "快些( quick的形容词比较级)11655",
       "mnemonic": "quick (快速的)+-er ( 形容词比较级) →快些",
@@ -71,7 +71,7 @@
     },
     {
       "word": "quickest",
-      "phonetic": "kwikist",
+      "phonetic": "kwɪkɪst",
       "pos": "adj.",
       "definition": "最快的",
       "frequency": 15332,
@@ -84,7 +84,7 @@
     },
     {
       "word": "quickness",
-      "phonetic": "'kwiknəs",
+      "phonetic": "ˈkwɪknəs",
       "pos": "n.",
       "definition": "机智；敏捷；迅速",
       "frequency": 16356,
@@ -98,7 +98,7 @@
     },
     {
       "word": "quiver",
-      "phonetic": "'kwivə",
+      "phonetic": "ˈkwɪvəɹ",
       "pos": "vi.",
       "definition": "颤动；抖动；(人或声音由于愤怒、激动等)颤抖 n. 颤 抖；箭袋",
       "frequency": 11790,
@@ -112,7 +112,7 @@
     },
     {
       "word": "quivering",
-      "phonetic": "'kwivəriŋ",
+      "phonetic": "ˈkwɪvəɹɪŋ",
       "pos": "adj.",
       "definition": "颤抖的 vi. 轻微颤动；抖动( quiver 的现在分词)",
       "frequency": 19244,

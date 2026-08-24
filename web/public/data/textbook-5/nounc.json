@@ -38,7 +38,7 @@
       ],
       "frequency" : 3639,
       "mnemonic" : "announce（宣布；声明）+ -ment（名词后缀）→公告；通告；宣布",
-      "phonetic" : "əˈnaʊnsmənt",
+      "phonetic" : "əˈnaʊns.mɛnt",
       "pos" : "n.",
       "rootHint" : "nounc",
       "word" : "announcement"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 6070,
       "mnemonic" : "de-（=down：向下）+ -nounce（=to shout：呼喊）→即（站在道德制\n高点）向下呼喊→引申词义谴责；指责；告发",
-      "phonetic" : "dɪˈnaʊns",
+      "phonetic" : "diˈnaʊns",
       "pos" : "vt.",
       "rootHint" : "nounc",
       "word" : "denounce"
@@ -101,7 +101,7 @@
       ],
       "frequency" : 17048,
       "mnemonic" : "denunci（=denounce：谴责；告发）+ -ation（复合名词后缀）→公开",
-      "phonetic" : "dɪˌnʌnsɪˈeɪʃ(ə)n",
+      "phonetic" : "dɪˌnʊnsiˈeɪʃən",
       "pos" : "n.",
       "rootHint" : "nounc",
       "word" : "denunciation"
@@ -119,7 +119,7 @@
       ],
       "frequency" : 5402,
       "mnemonic" : "pro-（=forth, out, in public：向前；公开）+ -nounc-（=to shout：呼\n喊）+ -e→公开呼喊发音（发音需要一字一词清楚地表达）；公开宣",
-      "phonetic" : "prəˈnaʊns",
+      "phonetic" : "pɹəˈnaʊns",
       "pos" : "vt.",
       "rootHint" : "nounc",
       "word" : "pronounce"
@@ -135,7 +135,7 @@
       ],
       "frequency" : 7840,
       "mnemonic" : "pronounce（正式宣布，去e）+ -d（-ed形容词后缀去e）→正式宣布的\n说明是明确表达的，不含糊的→明显的；显著的；表达明确的",
-      "phonetic" : "prəˈnaʊnst",
+      "phonetic" : "pɹəˈnaʊnst",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "pronounced"
@@ -168,7 +168,7 @@
       ],
       "frequency" : 15986,
       "mnemonic" : "pro-（向前；公开）+ -nunci-（=-nounc-=to speak：说）+-ation（名词\n后缀）→公开说出来→发音；读法",
-      "phonetic" : "prəˌnʌnsɪˈeɪʃ(ə)n",
+      "phonetic" : "pɹəˌnaʊn.siˈeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "nounc",
       "word" : "pronunciation"
@@ -185,7 +185,7 @@
       ],
       "frequency" : 10920,
       "mnemonic" : "re-（=against：反对；违反）+ -nounc（说话）+ e→give up, bring back\nword：与之前说过的话相违背，即收回已经说过的话→引申词义宣",
-      "phonetic" : "rɪˈnaʊns",
+      "phonetic" : "ɹɪˈnaʊns",
       "pos" : "vt.",
       "rootHint" : "nounc",
       "word" : "renounce"
@@ -205,7 +205,7 @@
       ],
       "frequency" : 17608,
       "mnemonic" : "e-（=ex-：向外）+ nunci（-nounc-：说话）+ -ate（动词后缀）→向外\n面说话→引申义清晰的发音；清楚地表明",
-      "phonetic" : "ɪˈnʌnsɪeɪt",
+      "phonetic" : "ɪˈnʌnsiˌeɪt",
       "pos" : "vt.",
       "rootHint" : "nounc",
       "word" : "enunciate"
@@ -224,7 +224,7 @@
 
       ],
       "frequency" : 1340,
-      "phonetic" : "ˈmærɪ",
+      "phonetic" : "ˈmeɹi",
       "pos" : "v",
       "rootHint" : "nounc",
       "word" : "marry"
@@ -240,7 +240,7 @@
       ],
       "frequency" : 1014,
       "mnemonic" : "marri（=marry：结婚）+ -age（名词后缀）→婚姻；结婚；婚礼",
-      "phonetic" : "ˈmærɪdʒ",
+      "phonetic" : "ˈmæɹɪdʒ",
       "pos" : "n.",
       "rootHint" : "nounc",
       "word" : "marriage"
@@ -256,7 +256,7 @@
       ],
       "frequency" : 1619,
       "mnemonic" : "marri（=marry：结婚）+ -ed（形容词后缀）→已婚的；婚姻的；夫",
-      "phonetic" : "ˈmærɪd",
+      "phonetic" : "ˈmæɹ.id",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "married"
@@ -271,7 +271,7 @@
 
       ],
       "frequency" : 9692,
-      "phonetic" : "ʌnˈmærɪd",
+      "phonetic" : "ʌnˈmɛɹid",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "unmarried"
@@ -286,7 +286,7 @@
       ],
       "frequency" : 11226,
       "mnemonic" : "re-（=back, again：再次）+ marry（结婚）→再婚",
-      "phonetic" : "ˌriˈmæri",
+      "phonetic" : "ɹiːˈmæɹi",
       "pos" : "vt",
       "rootHint" : "nounc",
       "word" : "remarry"
@@ -303,7 +303,7 @@
       ],
       "frequency" : 6333,
       "mnemonic" : "marit（=husband：丈夫）+ -al（形容词后缀）→与丈夫有关的→婚姻",
-      "phonetic" : "ˈmærɪt(ə)l",
+      "phonetic" : "ˈmaɹɪtəl",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "marital"
@@ -354,7 +354,7 @@
 
       ],
       "frequency" : 5201,
-      "phonetic" : "məˈtʃʊə",
+      "phonetic" : "məˈtʃʊr",
       "pos" : "vi.",
       "rootHint" : "nounc",
       "word" : "mature"
@@ -371,7 +371,7 @@
       ],
       "frequency" : 6505,
       "mnemonic" : "matur（=mature；成熟的）+ -ity（名词后缀）→发育成熟；（性格、",
-      "phonetic" : "məˈtʃʊərətɪ",
+      "phonetic" : "məˈtʊɹəti",
       "pos" : "n.",
       "rootHint" : "nounc",
       "word" : "maturity"
@@ -387,7 +387,7 @@
       ],
       "frequency" : 6985,
       "mnemonic" : "pre-（前；先）+ mature（成熟的）→在成熟之前的→不成熟的→引",
-      "phonetic" : "ˈpremətʃə(r)",
+      "phonetic" : "ˈpɹɛ.mə.tjə",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "premature"
@@ -403,7 +403,7 @@
       ],
       "frequency" : 11993,
       "mnemonic" : "premature（过早的）+ -ly（副词后缀）→过早地",
-      "phonetic" : "preməˈtʃʊəli",
+      "phonetic" : "preməˈtʃʊrli",
       "pos" : "adv.",
       "rootHint" : "nounc",
       "word" : "prematurely"
@@ -419,7 +419,7 @@
       ],
       "frequency" : 12016,
       "mnemonic" : "im-（=not, opposite of：不；反面的）+mature（=ripe, timely：成熟\n的；适时的）→成熟的反面，不适时的→未发育完全的；不成熟的；",
-      "phonetic" : "ˌɪməˈtjʊə(r)",
+      "phonetic" : "ɪməˈtʃʊr",
       "pos" : "adj.",
       "rootHint" : "nounc",
       "word" : "immature"

@@ -118,7 +118,7 @@
       ],
       "frequency" : 10329,
       "mnemonic" : "pyscho-（精神的）+ social（社会的）→社会心理的",
-      "phonetic" : "saɪkəʊˈsəʊʃ(ə)l",
+      "phonetic" : "saɪkoʊˈsoʊʃ(ə)l",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychosocial"
@@ -148,7 +148,7 @@
       ],
       "frequency" : 14975,
       "mnemonic" : "psychotherapy（心理疗法）+ -ist（名词后缀，表示从事某种职业的\n人）→心理治疗师",
-      "phonetic" : "ˌsaɪkəʊˈθerəpɪst",
+      "phonetic" : "ˌsaɪkoʊˈθerəpɪst",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychotherapist"
@@ -163,7 +163,7 @@
       ],
       "frequency" : 16684,
       "mnemonic" : "psychological和psychopathic的简写",
-      "phonetic" : "ˈsaɪkəʊ",
+      "phonetic" : "ˈsaɪkoʊ",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psycho"
@@ -178,7 +178,7 @@
       ],
       "frequency" : 14776,
       "mnemonic" : "psycho-（精神；心理）+ analysis（分析）→精神分析",
-      "phonetic" : "ˌsaɪkəʊəˈnælɪsɪs",
+      "phonetic" : "ˌsaɪkoʊəˈnælɪsɪs",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychoanalysis"
@@ -194,7 +194,7 @@
       ],
       "frequency" : 16394,
       "mnemonic" : "psychoanaly（=psychoanalysis：精神分析）+ -tic（形容词后缀）→",
-      "phonetic" : "ˌsaɪkəʊˌænəˈlɪtɪk",
+      "phonetic" : "ˌsaɪkoʊˌænəˈlɪtɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychoanalytic"
@@ -239,7 +239,7 @@
       ],
       "frequency" : 18835,
       "mnemonic" : "psyche（精神；心理）+ -osis（=abnormal condition：异常情况）→精\n神、心理上的异常情况→精神病；精神错乱",
-      "phonetic" : "saɪˈkəʊsɪs",
+      "phonetic" : "saɪˈkoʊsɪs",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "psychosis"
@@ -255,7 +255,7 @@
       ],
       "frequency" : 13680,
       "mnemonic" : "psycho-（精神；心理）+ -otic（形容词后缀）→精神错乱的；精神失",
-      "phonetic" : "ˌsaɪˈkɒtɪk",
+      "phonetic" : "ˌsaɪˈkɑtɪk",
       "pos" : "adj.",
       "rootHint" : "psyche",
       "word" : "psychotic"
@@ -309,7 +309,7 @@
       ],
       "frequency" : 11200,
       "mnemonic" : "eye（眼睛）+ ball（球）→眼球；盯着看",
-      "phonetic" : "ˈaɪbɔːl",
+      "phonetic" : "ˈaɪbɔl",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "eyeball"
@@ -417,7 +417,7 @@
       ],
       "frequency" : 14238,
       "mnemonic" : "melo（=melody：旋律；乐曲）+ drama（戏剧）→歌舞剧；情节剧；",
-      "phonetic" : "ˈmɛləˌdɹɑːmə",
+      "phonetic" : "ˈmɛləˌdɹɑmə",
       "pos" : "n.",
       "rootHint" : "psyche",
       "word" : "melodrama"

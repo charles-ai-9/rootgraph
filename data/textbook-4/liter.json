@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "lettering",
-      "phonetic": "'let(ə)r ŋ",
+      "phonetic": "ˈletərɪŋ",
       "pos": "n.",
       "definition": "字母，字；写字；印字",
       "frequency": 16764,
@@ -171,7 +171,7 @@
     },
     {
       "word": "patented",
-      "phonetic": "'pertəntid",
+      "phonetic": "ˈpætntɪd",
       "pos": "adj.",
       "definition": "专利的",
       "frequency": 18219,
@@ -249,7 +249,7 @@
     },
     {
       "word": "songbird",
-      "phonetic": "ˈsɒŋˌbɜːd",
+      "phonetic": "ˈsɔŋˌbɝd",
       "pos": "n.",
       "definition": "鸣鸟",
       "frequency": 17362,
@@ -260,7 +260,7 @@
     },
     {
       "word": "songwriter",
-      "phonetic": "'spŋrartə",
+      "phonetic": "ˈsɑŋraɪtər",
       "pos": "n.",
       "definition": "词(曲)作者",
       "frequency": 11741,
@@ -273,7 +273,7 @@
     },
     {
       "word": "songwriting",
-      "phonetic": "'sɔŋrartɪŋ",
+      "phonetic": "ˈsɔŋraɪtɪŋ",
       "pos": "n.",
       "definition": "歌曲创作",
       "frequency": 19764,
@@ -323,7 +323,7 @@
     },
     {
       "word": "enchanting",
-      "phonetic": "in'tfa:ntiŋ",
+      "phonetic": "ɪnˈtʃɑntɪŋ",
       "pos": "adj.",
       "definition": "迷人的",
       "frequency": 18134,
@@ -338,7 +338,7 @@
     },
     {
       "word": "disenchanted",
-      "phonetic": "ˌdɪsɪnˈtʃɑːntɪd",
+      "phonetic": "ˌdɪsɪnˈtʃɑntɪd",
       "pos": "adj.",
       "definition": "不再抱幻想的",
       "frequency": 18978,
@@ -409,7 +409,7 @@
     },
     {
       "word": "charming",
-      "phonetic": "ˈtʃɑː(ɹ).mɪŋ",
+      "phonetic": "ˈtʃɑ(ɹ).mɪŋ",
       "pos": "adj.",
       "definition": "迷人的；惹人喜欢的",
       "frequency": 5252,
@@ -500,7 +500,7 @@
     },
     {
       "word": "soundtrack",
-      "phonetic": "'saun(d)træk",
+      "phonetic": "ˈsaʊndtræk",
       "pos": "n.",
       "definition": "(电影的)配音；电影音乐磁带(或唱片)10124",
       "mnemonic": "sound(声音)+track (录音磁带；光盘)→声音磁带；电影配音",
@@ -512,7 +512,7 @@
     },
     {
       "word": "ultrasound",
-      "phonetic": "'altrəsaund",
+      "phonetic": "ˈʌltrəsaʊnd",
       "pos": "n.",
       "definition": "超声波；超声波扫描检查",
       "frequency": 12543,
@@ -523,7 +523,7 @@
     },
     {
       "word": "sonic",
-      "phonetic": "ˈsɒnɪk",
+      "phonetic": "ˈsɑnɪk",
       "pos": "adj.",
       "definition": "声音的；声速的",
       "frequency": 13726,
@@ -539,7 +539,7 @@
     },
     {
       "word": "supersonic",
-      "phonetic": "su:pə'spnik;sju:- ",
+      "phonetic": "ˌsuːpəˈsɑnɪk",
       "pos": "adj.",
       "definition": "超音速的",
       "frequency": 18185,
@@ -642,7 +642,7 @@
     },
     {
       "word": "sonnet",
-      "phonetic": "ˈsɒnɪt",
+      "phonetic": "ˈsɑnɪt",
       "pos": "n.",
       "definition": "十四行诗",
       "frequency": 15537,
@@ -653,7 +653,7 @@
     },
     {
       "word": "sonar",
-      "phonetic": "'səuna:",
+      "phonetic": "ˈsoʊnɑːr",
       "pos": "n.",
       "definition": "声呐(利用声波探测水下物体的装置或系统)15428",
       "mnemonic": "利用声波水下探测装置。1946,来自“so(und)+na(vigation)+r(anging)”",
@@ -737,7 +737,7 @@
     },
     {
       "word": "personally",
-      "phonetic": "ˈpɜːsnəli",
+      "phonetic": "ˈpɝsnəli",
       "pos": "adv.",
       "definition": "在个人看来；亲自；个别地；无礼地；私人 地",
       "frequency": 2656,
@@ -764,7 +764,7 @@
     },
     {
       "word": "persona",
-      "phonetic": "pə(ɹ)ˈsəʊnə",
+      "phonetic": "pɝˈsoʊnə",
       "pos": "n.",
       "definition": "(同本人真实品性不一致的)表面形象",
       "frequency": 7663,
@@ -781,7 +781,7 @@
     },
     {
       "word": "impersonate",
-      "phonetic": "ɪmˈpɜːsəneɪt",
+      "phonetic": "ɪmˈpɝsəneɪt",
       "pos": "vt.",
       "definition": "假扮(为了行骗);(尤指为逗人发笑而)模仿 (某人的言语、动作)19379",
       "mnemonic": "im-(=into, in: 进入)+person(人)+-ate(动词后缀)→represent in bodily form,assume the person or character of: 即变成另一个人的(样貌；性 格)→假扮；模仿",
@@ -811,7 +811,7 @@
     },
     {
       "word": "personify",
-      "phonetic": "pə'sbnrfar",
+      "phonetic": "pəˈsɑnɪfaɪ",
       "pos": "vt.",
       "definition": "是……的化身[典型];把……拟人化[人格化]14606拟人化[人格化]",
       "mnemonic": "person(人)+i+fy(动词后缀，使成为)→to represent,embody: 代表；体 现→使人成为……的代表，体现……→是……的化身[典型];把……",
@@ -825,7 +825,7 @@
     },
     {
       "word": "personification",
-      "phonetic": "pə,spnifi'kerʃ(ə)n",
+      "phonetic": "pəˌsɑnɪfɪˈkeɪʃn",
       "pos": "n.",
       "definition": "典型；(文学或艺术中的)拟人化，人格 化[+of]17963",
       "mnemonic": "personify ( 是……的典型；把……拟人化)+-ication (复合名词后 缀)→embodiment ofa quality in a person→典型；拟人化",
@@ -838,7 +838,7 @@
     },
     {
       "word": "personable",
-      "phonetic": "ˈpɜː(ɹ)sənəbəl",
+      "phonetic": "ˈpɝsənəbəl",
       "pos": "adj.",
       "definition": "品貌兼优的；英俊潇洒的",
       "frequency": 20070,
@@ -911,7 +911,7 @@
     },
     {
       "word": "next-door",
-      "phonetic": "ˈnekstdɔː",
+      "phonetic": "ˈnekstdɔ",
       "pos": "adv.",
       "definition": "adv. 在隔壁adj. 隔壁的",
       "frequency": 17600,
@@ -930,7 +930,7 @@
     },
     {
       "word": "neighbor",
-      "phonetic": "'nerbə",
+      "phonetic": "ˈneɪbə",
       "pos": "n.",
       "definition": "邻居；临近的人；邻近的同类物",
       "frequency": 1446,
@@ -1024,7 +1024,7 @@
     },
     {
       "word": "perfume",
-      "phonetic": "ˈpɜːfjuːm",
+      "phonetic": "pɚˈfjuːm",
       "pos": "n.",
       "definition": "香水；香料；芳香 vt. 使香气弥漫；为……增加香味",
       "frequency": 6693,
@@ -1054,7 +1054,7 @@
     },
     {
       "word": "funky",
-      "phonetic": "'fʌnki",
+      "phonetic": "fʌŋki",
       "pos": "adj.",
       "definition": "音低节奏强的(爵士、布鲁斯、流行乐);时髦别致的；恶 臭的",
       "frequency": 10896,
@@ -1183,7 +1183,7 @@
     },
     {
       "word": "proximal",
-      "phonetic": "ˈpɹɒksɪməl",
+      "phonetic": "ˈpɹɑksɪməl",
       "pos": "adj.",
       "definition": "近中心的；近身体中心的",
       "frequency": 18834,
@@ -1196,7 +1196,7 @@
     },
     {
       "word": "approximate",
-      "phonetic": "ə'prpksimət",
+      "phonetic": "əˈprɑksɪmət",
       "pos": "adj.",
       "definition": "大概的(数字、时间或方位等);大概的(观点或描述等);近似的 vt.&vi. 接近(某数字);类似，接近",
       "frequency": 12205,
@@ -1212,7 +1212,7 @@
     },
     {
       "word": "approximately",
-      "phonetic": "əˈpɹɒk.sɪ.mət.li",
+      "phonetic": "əˈpɹɑk.sɪ.mət.li",
       "pos": "adv.",
       "definition": "大概；大约；约莫",
       "frequency": 2386,
@@ -1226,7 +1226,7 @@
     },
     {
       "word": "approximation",
-      "phonetic": "əˌpɹɒksɪˈmeɪʃn",
+      "phonetic": "əˌpɹɑksɪˈmeɪʃn",
       "pos": "n.",
       "definition": "接近；近似；近似值；粗略估计",
       "frequency": 14071,
@@ -1258,7 +1258,7 @@
     },
     {
       "word": "period",
-      "phonetic": "ˈpɪəɹɪəd",
+      "phonetic": "ˈpɪɹɪəd",
       "pos": "n.",
       "definition": "一段时间；(某人生活或历史上的)时期；月经；句号",
       "frequency": 617,
@@ -1286,7 +1286,7 @@
     },
     {
       "word": "periodical",
-      "phonetic": "prori'pdik( ə)l",
+      "phonetic": "ˌpɪrriˈɑdɪkl",
       "pos": "n.",
       "definition": "(尤指内容严肃或学术性的)期刊 adj. 定期的",
       "frequency": 13429,
@@ -1455,7 +1455,7 @@
     },
     {
       "word": "paratrooper",
-      "phonetic": "'pærətru:pə",
+      "phonetic": "ˈpærətruːpər",
       "pos": "n.",
       "definition": "伞兵；空降兵",
       "frequency": 17856,
@@ -1484,7 +1484,7 @@
     },
     {
       "word": "profile",
-      "phonetic": "ˈpɹəʊfaɪl",
+      "phonetic": "ˈpɹoʊfaɪl",
       "pos": "n.",
       "definition": "侧面轮廓；人物简介；(书面的)描述 vt. 对……作介绍； 作传",
       "frequency": 2699,
@@ -1752,7 +1752,7 @@
     },
     {
       "word": "untested",
-      "phonetic": "ʌ n'testid",
+      "phonetic": "ˌʌnˈtestɪd",
       "definition": "(物/药物)未经实验的；(人)未经考验的",
       "frequency": 17246,
       "collocations": [

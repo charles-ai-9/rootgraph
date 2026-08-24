@@ -16,7 +16,7 @@
   "words": [
     {
       "word": "innocent",
-      "phonetic": "'inəs(a)nt",
+      "phonetic": "ˈɪnəsn̩t",
       "pos": "adj.",
       "definition": "清白的；天真的；无辜受害的；无恶意的 n. 阅 历浅的人；天真的人",
       "frequency": 2799,
@@ -31,7 +31,7 @@
     },
     {
       "word": "innocence",
-      "phonetic": "'inəsəns",
+      "phonetic": "ˈɪnəsn̩s",
       "pos": "n.",
       "definition": "天真；清白",
       "frequency": 5469,
@@ -43,7 +43,7 @@
     },
     {
       "word": "innocently",
-      "phonetic": "'inəsontli",
+      "phonetic": "ˈɪnəsəntli",
       "pos": "adv.",
       "definition": "故作无知地；故作天真地",
       "frequency": 16061,
@@ -55,7 +55,7 @@
     },
     {
       "word": "innocuous",
-      "phonetic": "i'npkjuas",
+      "phonetic": "ɪˈnɑkjuəs",
       "pos": "adj.",
       "definition": "无害的；无意冒犯的",
       "frequency": 14552,
@@ -66,7 +66,7 @@
     },
     {
       "word": "nectar",
-      "phonetic": "'nektə",
+      "phonetic": "ˈnɛk.tə",
       "pos": "n.",
       "definition": "花蜜；果汁饮料",
       "frequency": 15496,
@@ -80,7 +80,7 @@
     },
     {
       "word": "noxious",
-      "phonetic": "'nokfəs",
+      "phonetic": "ˈnɑkʃəs",
       "pos": "adj.",
       "definition": "有毒的；有害的；令人厌恶的",
       "frequency": 15912,
@@ -96,7 +96,7 @@
     },
     {
       "word": "obnoxious",
-      "phonetic": "əb'nokfəs",
+      "phonetic": "əbˈnɑkʃəs",
       "pos": "adj.",
       "definition": "令人讨厌的；可憎的",
       "frequency": 14303,
@@ -109,7 +109,7 @@
     },
     {
       "word": "pernicious",
-      "phonetic": "pə'nʃos",
+      "phonetic": "pəˈnɪʃəs",
       "pos": "adj.",
       "definition": "极为有害的；恶性的(尤指潜移默化地)16590",
       "mnemonic": "per-(=completely: 完全地)+-nic-(=harm,injury: 伤害；损害) +-ious ( 形容词后缀)→彻底有损害的→极为有害的；恶性的",
@@ -125,7 +125,7 @@
     },
     {
       "word": "nuisance",
-      "phonetic": "'nju:s(a)ns",
+      "phonetic": "ˈn(j)uːsəns",
       "pos": "n.",
       "definition": "麻烦事；讨厌的人(或东西);妨害行为",
       "frequency": 8901,
@@ -142,7 +142,7 @@
     },
     {
       "word": "pierce",
-      "phonetic": "prəs",
+      "phonetic": "pɪɹs",
       "pos": "vt.",
       "definition": "刺穿，刺破；穿孔，穿洞；(声或光)穿过，透入",
       "frequency": 6949,
@@ -160,7 +160,7 @@
     },
     {
       "word": "piercing",
-      "phonetic": "'piəsiŋ",
+      "phonetic": "ˈpɪɹsɪŋ",
       "pos": "adj",
       "definition": ". (声音)刺耳的；尖厉的；(目光)敏锐的，有洞 察力的；(感情等)深切的，直入肺腑的；(风)刺骨的，凛冽的",
       "frequency": 13113,
@@ -175,7 +175,7 @@
     },
     {
       "word": "perforation",
-      "phonetic": ",ps:fə'rerʃn",
+      "phonetic": "ˌpɜrfəˈreɪʃn",
       "pos": "n.",
       "definition": "孔(尤指孔眼线上的孔); 穿孔；打齿孔；打眼",
       "frequency": 19818,
@@ -188,7 +188,7 @@
     },
     {
       "word": "frame",
-      "phonetic": "frerm",
+      "phonetic": "fɹeɪm",
       "pos": "n.",
       "definition": "框架；构架；眼镜框；(电影的)画面，镜头；身躯；人 口抽样底册 vt.给(图画或照片)配框；环绕；诬陷；表达；制定(规 则、计划或体系)adj. ( 建筑)木制的；木结构的",
       "frequency": 1848,
@@ -212,7 +212,7 @@
     },
     {
       "word": "framed",
-      "phonetic": "freimd",
+      "phonetic": "fɹeɪmd",
       "pos": "adj.",
       "definition": "有边框的",
       "frequency": 9644,
@@ -225,7 +225,7 @@
     },
     {
       "word": "framer",
-      "phonetic": "'fremə",
+      "phonetic": "ˈfreɪmə",
       "pos": "n.",
       "definition": "创作者；制定者",
       "frequency": 17543,
@@ -238,7 +238,7 @@
     },
     {
       "word": "framework",
-      "phonetic": "'fremw3:k",
+      "phonetic": "ˈfɹeɪm.wɝk",
       "pos": "n.",
       "definition": "体系；构架",
       "frequency": 2993,
@@ -251,7 +251,7 @@
     },
     {
       "word": "framing",
-      "phonetic": "'fremiŋ",
+      "phonetic": "ˈfɹeɪmɪŋ",
       "pos": "n.",
       "definition": "设计；框架",
       "frequency": 20007,
@@ -264,7 +264,7 @@
     },
     {
       "word": "mainframe",
-      "phonetic": "'meinfrem",
+      "phonetic": "ˈmeɪnfreɪm",
       "pos": "n.",
       "definition": "主机(指可同时供多人使用的大型计算机)",
       "frequency": 15365,
@@ -278,7 +278,7 @@
     },
     {
       "word": "far",
-      "phonetic": "fa:",
+      "phonetic": "fɑɹ",
       "pos": "adv.",
       "definition": "很远地；(距离)远至；久远地；到 … … 程度；(进展) 到……程度；(人或行为)极端到……程度；adj. 较远一端的；(离 中心)最大距离的",
       "frequency": 253,
@@ -297,7 +297,7 @@
     },
     {
       "word": "faraway",
-      "phonetic": "'fa:rəwer;fa:rə'wer",
+      "phonetic": "ˈfɑːrəweɪ",
       "pos": "adj.",
       "definition": "遥远的；思绪飘远的；心不在焉的",
       "frequency": 12665,
@@ -311,7 +311,7 @@
     },
     {
       "word": "afar",
-      "phonetic": "ə 'fa:",
+      "phonetic": "ʌˈfaɹ",
       "pos": "adv.",
       "definition": "在远处；从远处",
       "frequency": 13543,
@@ -325,7 +325,7 @@
     },
     {
       "word": "far-fetched",
-      "phonetic": "'fa:'fetʃt",
+      "phonetic": "ˈfɑˈfetʃt",
       "definition": "穿凿附会的；不切实际的；牵强的",
       "frequency": 15646,
       "mnemonic": "far ( 遥 远 的 ) +fetched(=brought: 取来；接来) →brought from\nafar: 从很远的地方接来，取来→不切实际的；引申义为牵强附会的 搭配：too far-fetched storyline: 故事情节太牵强",
@@ -335,7 +335,7 @@
     },
     {
       "word": "far-flung",
-      "phonetic": "'fa:'flʌŋ",
+      "phonetic": "ˈfɑˈflʌŋ",
       "pos": "adj.",
       "definition": "遥远的；偏僻的；庞大的；涉及广泛的",
       "frequency": 14509,
@@ -351,7 +351,7 @@
     },
     {
       "word": "far-off",
-      "phonetic": "'fa:rɔf",
+      "phonetic": "ˈfɑˈɔf",
       "pos": "adj.",
       "definition": "久远的；(距离)遥远的adv. 遥远地",
       "frequency": 18763,
@@ -366,7 +366,7 @@
     },
     {
       "word": "far-reaching",
-      "phonetic": "'fa:'ri:tiŋ",
+      "phonetic": "fɑ ˈriːtʃɪŋ",
       "pos": "adj.",
       "definition": "影响深远的；意义重大的",
       "frequency": 11248,
@@ -377,7 +377,7 @@
     },
     {
       "word": "insofar",
-      "phonetic": "insə(u)'fa:",
+      "phonetic": "ˌɪnsoʊˈfɑ",
       "pos": "adv.",
       "definition": "adv. 在这个范围；到这个程度",
       "frequency": 10133,
@@ -398,7 +398,7 @@
     },
     {
       "word": "further",
-      "phonetic": "'f3:δə",
+      "phonetic": "fɝðə(ɹ)",
       "pos": "adv.",
       "definition": "在更大程度上；更进一步地；更深入地；距离上更远 地 ；(时间上往前或往后)更远地adj.更多的 vt. 推进",
       "frequency": 11556,
@@ -415,7 +415,7 @@
     },
     {
       "word": "furthermore",
-      "phonetic": "f3:ðə'mɔ:",
+      "phonetic": "ˈfɝ.ðə(ɹ).mɔ(ɹ)",
       "pos": "adv.",
       "definition": "此外；而且；再者",
       "frequency": 3242,
@@ -429,7 +429,7 @@
     },
     {
       "word": "first",
-      "phonetic": "fs:st",
+      "phonetic": "fɝst",
       "definition": "(ORD) 最早的；首次的；(一列中)最前面的；首要的；头 等的；(用于工作或职位的头衔中)最高的adv.最先； ( N-SING) 首 例；最初；(强调不愿意做某事)宁可，宁愿；(用于列举条目)第 一；英国大学的)优等学位， 一级荣誉学位( PRON) 首次",
       "frequency": 86,
       "mnemonic": "来自词源per-=forward, 含义为向前的，因此first有in front of,before, first,chief 在前面；第一；首位；最初等的含义\nfirst (第一 的；头等的)+class ( 分类；等级) →第一等级的 → 一流 的；优等的",
@@ -455,7 +455,7 @@
     },
     {
       "word": "first-degree",
-      "phonetic": "'fə:stdi'gri:",
+      "phonetic": "fəːst diˈɡriː",
       "pos": "adj.",
       "definition": "一度的；第一等级的",
       "frequency": 16664,
@@ -469,7 +469,7 @@
     },
     {
       "word": "first-ever",
-      "phonetic": "'fəst'evə",
+      "phonetic": "fəːst ˈevə",
       "pos": "adj.",
       "definition": "首次的；史无前例",
       "frequency": 15548,
@@ -484,7 +484,7 @@
     },
     {
       "word": "firsthand",
-      "phonetic": "'f3:st'hænd",
+      "phonetic": "ˈfɜrstˈhænd",
       "pos": "adj.",
       "definition": "直接来源的；第一手的adv. 直接地",
       "frequency": 9482,
@@ -506,7 +506,7 @@
     },
     {
       "word": "first-rate",
-      "phonetic": "'fs:st'rert",
+      "phonetic": "fɜrst reɪt",
       "pos": "adj.",
       "definition": "第一流的；质量最优的；优等的",
       "frequency": 13460,
@@ -519,7 +519,7 @@
     },
     {
       "word": "first-round",
-      "phonetic": "'f3:st'raund",
+      "phonetic": "ˌfɜrstˈraʊnd",
       "pos": "adj.",
       "definition": "第一轮的；首轮比赛",
       "frequency": 10477,
@@ -533,7 +533,7 @@
     },
     {
       "word": "first-time",
-      "phonetic": "'fo:sttaim",
+      "phonetic": "ˈfəːsttaim",
       "pos": "adj.",
       "definition": "首次的；第一次的",
       "frequency": 9041,
@@ -546,7 +546,7 @@
     },
     {
       "word": "first-year",
-      "phonetic": "'fə:st jiə",
+      "phonetic": "ˌfɜrstˈjɪr",
       "pos": "adj.",
       "definition": "第一年的",
       "frequency": 11785,
@@ -559,7 +559,7 @@
     },
     {
       "word": "prince",
-      "phonetic": "prins",
+      "phonetic": "pɹɪns",
       "pos": "n.",
       "definition": "王子；亲王；(小国的)君王；大师；巨匠",
       "frequency": 5533,
@@ -574,7 +574,7 @@
     },
     {
       "word": "princess",
-      "phonetic": "prin'ses",
+      "phonetic": "ˈpɹɪnsɛs",
       "pos": "n.",
       "definition": "公主；王妃",
       "frequency": 7007,
@@ -587,7 +587,7 @@
     },
     {
       "word": "premier",
-      "phonetic": "'premrə; 'pri:-",
+      "phonetic": "ˈpɹemjə",
       "pos": "n.",
       "definition": "总理；首相adj.最好的；首要的",
       "frequency": 7760,
@@ -602,7 +602,7 @@
     },
     {
       "word": "premiere",
-      "phonetic": "'premreə",
+      "phonetic": "ˈpɹɛmjɛə",
       "pos": "n.",
       "definition": "首映；首次公演 adj. 首映；首演；初次公演",
       "frequency": 6935,
@@ -618,7 +618,7 @@
     },
     {
       "word": "prime",
-      "phonetic": "pram",
+      "phonetic": "pɹaɪ̯m",
       "pos": "adj.",
       "definition": "主要的；最佳的；最典型的 n. 鼎盛时期vt.事先交代(某 人做某事);事先准备(炸弹、枪)1677",
       "mnemonic": "late 14c.,\"first in order,\"from Latin primus \"first,the first,first part,\" figuratively “chief,principal;excellent,distinguished,noble”(source also of Italian and Spanish primo),from pre-Italic*prismos,superlative of PIE",
@@ -637,7 +637,7 @@
     },
     {
       "word": "primer",
-      "phonetic": "'praimə",
+      "phonetic": "ˈpɹaɪmɚ",
       "pos": "n.",
       "definition": "底漆；底层涂料；入门书；(教儿童阅读的)初级读物；(爆炸物的)引信；装填工；装填物",
       "frequency": 11151,
@@ -651,7 +651,7 @@
     },
     {
       "word": "prima",
-      "phonetic": "'pri:mə",
+      "phonetic": "ˈpriːmə",
       "pos": "adj.",
       "definition": "(意)第 一 的；主要的",
       "frequency": 19831,
@@ -666,7 +666,7 @@
     },
     {
       "word": "primacy",
-      "phonetic": "'praməst",
+      "phonetic": "ˈpɹaɪ.mə.si",
       "pos": "n.",
       "definition": "首要；首位；总主教职位",
       "frequency": 13185,
@@ -680,7 +680,7 @@
     },
     {
       "word": "primal",
-      "phonetic": "'praim(a)l",
+      "phonetic": "ˈpɹaɪməl",
       "pos": "adj.",
       "definition": "最初的；原始的；本能的",
       "frequency": 12061,
@@ -695,7 +695,7 @@
     },
     {
       "word": "primary",
-      "phonetic": "'pram(a)ri",
+      "phonetic": "ˈpɹaɪməɹi",
       "pos": "adj.",
       "definition": "首要的；初级的；最初的；(美国)初选， 预 选",
       "frequency": 1513,
@@ -711,7 +711,7 @@
     },
     {
       "word": "primarily",
-      "phonetic": "'pram(a)rilr;prar'mer-",
+      "phonetic": "pɹaɪˈmɛɹəli",
       "pos": "adv.",
       "definition": "主要地",
       "frequency": 2153,
@@ -726,7 +726,7 @@
     },
     {
       "word": "primate",
-      "phonetic": "'pramert;-mət",
+      "phonetic": "ˈpɹaɪmeɪt",
       "pos": "n.",
       "definition": "灵长类动物(包括人和猴子等);大主教 vt. 事先交代(某人做某事);事先准备(炸弹、枪)11660",
       "mnemonic": "prim-(=prime=first: 主要的；第一 的)+-ate ( 名词后缀) →the \"highest \" order of mammals→哺乳动物最高等级→灵长类动物；也用 于指church primate, 大主教",
@@ -739,7 +739,7 @@
     },
     {
       "word": "primitive",
-      "phonetic": "'primitiv",
+      "phonetic": "ˈpɹɪmɪtɪv",
       "pos": "adj.",
       "definition": "原始的(社会);原始的(动物、植物);简陋 的；旧式的",
       "frequency": 5883,
@@ -755,7 +755,7 @@
     },
     {
       "word": "primordial",
-      "phonetic": "prar'mɔ:drəl",
+      "phonetic": "pɹaɪˈmɔɹ.di.əl",
       "pos": "adj.",
       "definition": "原始的；远古的；人类最初的",
       "frequency": 13627,
@@ -768,7 +768,7 @@
     },
     {
       "word": "protocol",
-      "phonetic": "'proutəkpl",
+      "phonetic": "ˈpɹoʊtəˌkoʊl",
       "pos": "n.",
       "definition": "礼节；(计算机间交换信息的)协议；议定书；医疗方案；科学试验计划",
       "frequency": 4537,
@@ -792,7 +792,7 @@
     },
     {
       "word": "protein",
-      "phonetic": "'prəuti:n",
+      "phonetic": "ˈpɹoʊtiːn",
       "pos": "n.",
       "definition": "蛋白质",
       "frequency": 2545,
@@ -810,7 +810,7 @@
     },
     {
       "word": "proton",
-      "phonetic": "'prəutbn",
+      "phonetic": "ˈpɹoʊ.tɑn",
       "pos": "n.",
       "definition": "质子",
       "frequency": 12536,

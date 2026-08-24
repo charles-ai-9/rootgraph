@@ -25,7 +25,7 @@
       ],
       "frequency": 1489,
       "mnemonic": "con(共同)+tact(=touch：接触)→接触、联系",
-      "phonetic": "ˈkɒntækt",
+      "phonetic": "ˈkɑntækt",
       "pos": "n.",
       "rootHint": "tact",
       "word": "contact"
@@ -35,7 +35,7 @@
       "definition": "触染；蔓延；传染病",
       "examples": [],
       "frequency": 19660,
-      "phonetic": "kənˈteɪdʒ(ə)n",
+      "phonetic": "kənˈteɪdʒən",
       "pos": "n.",
       "rootHint": "tag",
       "word": "contagion"
@@ -96,7 +96,7 @@
       "definition": "adj. 完整的；原封不动的；未受损伤的 / a. 完整的、完好的、没有被碰过的",
       "examples": [],
       "frequency": 4679,
-      "phonetic": "ɪnˈtækt / inˈtækt",
+      "phonetic": "ɪnˈtækt",
       "pos": "adj. / a.",
       "rootHint": "tact",
       "word": "intact",
@@ -160,7 +160,7 @@
       "definition": "无形的，触摸不到的；难以理解的",
       "examples": [],
       "frequency": 14351,
-      "phonetic": "ɪnˈtæn(d)ʒɪb(ə)l",
+      "phonetic": "ɪnˈtandʒɪbl",
       "pos": "adj.",
       "rootHint": "tang",
       "word": "intangible"
@@ -173,7 +173,7 @@
       "examples": [],
       "frequency": 5970,
       "mnemonic": "in(表否定)+tegr(=touch：触碰；r增减无影响)+al(的)→没被碰过的→",
-      "phonetic": "ˈɪntɪɡrəl",
+      "phonetic": "ˈɪntɪɡɹəl",
       "pos": "adj.",
       "rootHint": "teg",
       "word": "integral"
@@ -195,7 +195,7 @@
       ],
       "frequency": 3459,
       "mnemonic": "integr(=integral：完整的)+ate(使动词后缀)→使完整、使成整体、整合",
-      "phonetic": "ˈɪntɪgreɪt",
+      "phonetic": "ˈɪntəɡɹeɪt",
       "pos": "vt.",
       "rootHint": "teg",
       "word": "integrate"
@@ -215,7 +215,7 @@
       "definition": "综合；集成",
       "examples": [],
       "frequency": 3609,
-      "phonetic": "ɪntɪˈgreɪʃ(ə)n",
+      "phonetic": "ɪntəˈɡɹeɪʃən",
       "pos": "n.",
       "rootHint": "teg",
       "word": "integration"
@@ -238,7 +238,7 @@
       "examples": [],
       "frequency": 3494,
       "mnemonic": "integr(=integral：完整的)+ity→完整、正直、诚实(不管是正直、清",
-      "phonetic": "ɪnˈtegrɪtɪ",
+      "phonetic": "ɪnˈtɛɡɹəti",
       "pos": "n.",
       "rootHint": "teg",
       "word": "integrity"
@@ -253,7 +253,7 @@
       "examples": [],
       "frequency": 10662,
       "mnemonic": "dis(表相反)+integrate(整合、合并)→使不完整→分解、瓦解\n(写作、阅读)例句：死亡是正常的；我们生来就被基因设定成会瓦解和毁",
-      "phonetic": "dɪsˈɪntɪgreɪt",
+      "phonetic": "dɪsˈɪntɪɡɹeɪt",
       "pos": "vt.",
       "rootHint": "teg",
       "word": "disintegrate"
@@ -263,7 +263,7 @@
       "definition": "分解；瓦解，崩溃",
       "examples": [],
       "frequency": 12436,
-      "phonetic": "dɪsˌɪntɪˈgreɪʃ(ə)n",
+      "phonetic": "dɪs.ɪn.tɪˈɡɹeɪʃən",
       "pos": "n.",
       "rootHint": "teg",
       "word": "disintegration"

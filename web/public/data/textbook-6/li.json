@@ -25,7 +25,7 @@
       ],
       "frequency" : 2430,
       "mnemonic" : "al（=all：所有人）+ -ly（=to bind：捆；约束）→所有人捆在一起→",
-      "phonetic" : "ˈælaɪ",
+      "phonetic" : "ˈæli",
       "pos" : "n.",
       "rootHint" : "li",
       "word" : "ally"
@@ -42,7 +42,7 @@
       ],
       "frequency" : 5983,
       "mnemonic" : "ally（盟友；结盟，变y为i）+ -ed（形容词后缀）→同盟的；结盟",
-      "phonetic" : "ˈælaɪd",
+      "phonetic" : "əˈlaɪd",
       "pos" : "adj.",
       "rootHint" : "li",
       "word" : "allied"
@@ -58,7 +58,7 @@
       ],
       "frequency" : 3405,
       "mnemonic" : "al（=all：所有人）+ li-（=tie：绑；栓；系）+ -ance（名词后缀）→\n将所有人绑在一起→结盟；联盟；同盟",
-      "phonetic" : "əˈlaɪəns",
+      "phonetic" : "əˈlaɪ.əns",
       "pos" : "n.",
       "rootHint" : "li",
       "word" : "alliance"
@@ -74,7 +74,7 @@
       ],
       "frequency" : 1872,
       "mnemonic" : "re-（强调前缀）+ -ly（=to tie, bind：系；捆；绑）→fasten, bind\nfast：系牢；绑紧→引申词义依赖，信任（depend, trust）",
-      "phonetic" : "rɪˈlaɪ",
+      "phonetic" : "ɹɪˈlaɪ",
       "pos" : "vi.",
       "rootHint" : "li",
       "word" : "rely"
@@ -91,7 +91,7 @@
       ],
       "frequency" : 3535,
       "mnemonic" : "reli-（=rely：依靠；信赖）+ -able（形容词后缀）→可依靠的；真实",
-      "phonetic" : "rɪˈlaɪəbl",
+      "phonetic" : "ɹɪˈlaɪəbəl",
       "pos" : "adj.",
       "rootHint" : "li",
       "word" : "reliable"
@@ -153,7 +153,7 @@
       ],
       "frequency" : 7053,
       "mnemonic" : "reli（=rely：依靠；信任）+ -ance（名词后缀）→依赖；依靠；信任",
-      "phonetic" : "rɪˈlaɪəns",
+      "phonetic" : "ɹɪˈlaɪəns",
       "pos" : "n.",
       "rootHint" : "li",
       "word" : "reliance"
@@ -192,7 +192,7 @@
       ],
       "frequency" : 4675,
       "mnemonic" : "r（=re：又；再）+ al（=all：所有）+ -ly（=tie：系；捆）→又一次将大\n家捆绑在一起→集合，团结起来；复原；价格回升；集会；恢复好转",
-      "phonetic" : "ˈrælɪ",
+      "phonetic" : "ˈɹæ.li",
       "pos" : "vt.",
       "rootHint" : "li",
       "word" : "rally"
@@ -241,7 +241,7 @@
       ],
       "frequency" : 3013,
       "mnemonic" : "ob-（=to：去）+ lig-（捆；约束）+ -ation（=-ate+ -ion：复合名词后\n缀）→绑在你身上的东西→义务；职责；责任",
-      "phonetic" : "ɒblɪˈgeɪʃn",
+      "phonetic" : "ɑb.ləˈɡeɪ.ʃən",
       "pos" : "n.",
       "rootHint" : "lig",
       "word" : "obligation"
@@ -256,7 +256,7 @@
       ],
       "frequency" : 11615,
       "mnemonic" : "ob-（=to：去）+ lig-（捆；约束）+ -ate（使动词后缀）→=to bind,\nfasten：去捆绑；比喻义为把某人置于……义务之下→强迫；迫使",
-      "phonetic" : "ˈɒblɪgeɪt",
+      "phonetic" : "ˈɑblɪgeɪt",
       "pos" : "vt.",
       "rootHint" : "lig",
       "word" : "obligate"
@@ -273,7 +273,7 @@
       ],
       "frequency" : 14377,
       "mnemonic" : "ob-（=to：去）+ -lig-（捆；约束）+ -atory（-ate+ -ory，形容词后缀）\n→去捆绑、约束的→必须履行的，强制性的；习惯性的，礼节性的",
-      "phonetic" : "əˈblɪgətrɪ",
+      "phonetic" : "əˈblɪɡət(ə)ɹi",
       "pos" : "adj.",
       "rootHint" : "lig",
       "word" : "obligatory"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 8470,
       "mnemonic" : "li-（=tie：系，捆，绑=bind）+ -able（形容词后缀）→负有……责任\nli-（=lean：依靠，倾）+ -able（形容词后缀）→有……倾向的；容",
-      "phonetic" : "ˈlaɪəbl",
+      "phonetic" : "ˈlaɪ̯əbəl",
       "pos" : "adj.",
       "rootHint" : "li",
       "word" : "liable"
@@ -309,7 +309,7 @@
       ],
       "frequency" : 4164,
       "mnemonic" : "liable（负有责任的）+ -ity（名词后缀）→责任，义务；负债；惹麻",
-      "phonetic" : "ˌlaɪəˈbɪləti",
+      "phonetic" : "laɪəˈbɪlɪti",
       "pos" : "n.",
       "rootHint" : "li",
       "word" : "liability"
@@ -341,7 +341,7 @@
       ],
       "frequency" : 11878,
       "mnemonic" : "lig-（=to tie, bind：绑定；连接）+ -a- + -ment（名词后缀）→连接骨\n头的组织→韧带",
-      "phonetic" : "ˈlɪgəmənt",
+      "phonetic" : "ˈlɪɡəmənt",
       "pos" : "n.",
       "rootHint" : "lig",
       "word" : "ligament"
@@ -360,7 +360,7 @@
       ],
       "frequency" : 1965,
       "mnemonic" : "leag（=to tie, bind：系；捆绑；约束）+ -ue（名词后缀）→捆绑，约\n束在一起的人或事物（如队伍）→引申词义联盟，同盟；级别，水",
-      "phonetic" : "liːg",
+      "phonetic" : "liːɡ",
       "pos" : "n.",
       "rootHint" : "li",
       "word" : "league"
@@ -391,7 +391,7 @@
       ],
       "frequency" : 13088,
       "mnemonic" : "be-（=around：在……四周）+ leaguer（包围；围攻）+ -ed（形容词\n后缀）→在……四周包围、围攻某人的→饱受批评的；处于困境的；",
-      "phonetic" : "bɪˈliːɡərd",
+      "phonetic" : "bɪˈliːɡəd",
       "pos" : "adj.",
       "rootHint" : "li",
       "word" : "beleaguered"
@@ -406,7 +406,7 @@
       ],
       "frequency" : 12103,
       "mnemonic" : "al-（=to）+ loy（=-ly-=tie, bind：捆；绑；约束）→把多种元素捆在\n一起→合金，特指把贵金属和贱金属合在一起冶炼",
-      "phonetic" : "ˈælɒɪ",
+      "phonetic" : "ˈælɑɪ",
       "pos" : "vt.",
       "rootHint" : "li",
       "word" : "alloy"

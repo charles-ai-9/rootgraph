@@ -27,7 +27,7 @@
     },
     {
       "word": "assumed",
-      "phonetic": "ə 'sju:md",
+      "phonetic": "əˈsjuːmd",
       "pos": "adj.",
       "definition": "假装的；假设的",
       "frequency": 16638,
@@ -71,7 +71,7 @@
     },
     {
       "word": "consumerism",
-      "phonetic": "kən'sju:məriz(a)m",
+      "phonetic": "kənˈsjuːmərɪzəm",
       "pos": "n.",
       "definition": "保护消费者利益运动；用户至上主义",
       "frequency": 15782,
@@ -85,8 +85,8 @@
       "rootHint": "em"
     },
     {
-      "word": "conumption",
-      "phonetic": "kon'sʌm(p)ʃ(ə)n",
+      "word": "consumption",
+      "phonetic": "kənˈsʌmpʃn",
       "pos": "n.",
       "definition": "( 燃料、自然资源的)消耗量，消费量；吃喝；饮用；消费；供(某人或某个群体)使用，享用；肺结核",
       "frequency": 3172,
@@ -153,7 +153,7 @@
     },
     {
       "word": "tax-exempt",
-      "phonetic": "'tæksig'zempt",
+      "phonetic": "tæks ɪɡˈzempt",
       "pos": "adj.",
       "definition": "免税的",
       "frequency": 16775,
@@ -180,7 +180,7 @@
     },
     {
       "word": "prompt",
-      "phonetic": "pɹɒmpt",
+      "phonetic": "pɹɑmpt",
       "pos": "vt.",
       "definition": "促使；推动；鼓励；提示(说话者);给(演员)提 词 adj.敏捷的；迅速的；即刻的",
       "frequency": 3142,
@@ -207,7 +207,7 @@
     },
     {
       "word": "impromptu",
-      "phonetic": "ɪmˈpɹɒmptju",
+      "phonetic": "ɪmˈpɹɑmpt(j)u",
       "pos": "adj.",
       "definition": "即兴的；事先无准备的 n. 即兴曲；即席演 出",
       "frequency": 13693,
@@ -286,7 +286,7 @@
     },
     {
       "word": "presumption",
-      "phonetic": "pri'zʌm(p)ʃ(a)n",
+      "phonetic": "prɪˈzʌmpʃn",
       "pos": "n.",
       "definition": "推测；设想；放肆；傲慢",
       "frequency": 10134,
@@ -343,7 +343,7 @@
     },
     {
       "word": "resumption",
-      "phonetic": "r'zum(p)ʃ(ə)n",
+      "phonetic": "rɪˈzʌmpʃn",
       "pos": "n.",
       "definition": "恢复；重新开始；收回土地；重新获取",
       "frequency": 19203,
@@ -416,7 +416,7 @@
     },
     {
       "word": "sampling",
-      "phonetic": "'sa:mplŋ",
+      "phonetic": "ˈsɑmplɪŋ",
       "pos": "n.",
       "definition": "n. 抽样；取样；(乐曲的)节录，选录",
       "frequency": 6233,

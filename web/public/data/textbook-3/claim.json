@@ -15,7 +15,7 @@
   "words": [
     {
       "word": "claim",
-      "phonetic": "klerm",
+      "phonetic": "kleɪm",
       "pos": "vt.",
       "definition": "声称；断言；声称(对某事负责或应得荣誉);索取；赢 得；需要；夺走(生命); vt.&vi.索赔；索要 n. 声称；断言；索赔；索 要；索求权",
       "frequency": 877,
@@ -38,7 +38,7 @@
     },
     {
       "word": "clamor",
-      "phonetic": "'klæmə",
+      "phonetic": "ˈklæm.ɚ",
       "pos": "vi.",
       "definition": "强烈要求；大声叫喊 n. 嘈杂声；吵闹；(一大批人的) 强烈要求，大声呼吁(尤用于新闻报道)12366",
       "mnemonic": "clam-(=to cry out,shout: 大声呼喊)+-or ( 名词后缀，状况/行为) →强烈要求；大声喊叫",
@@ -51,7 +51,7 @@
     },
     {
       "word": "claimant",
-      "phonetic": "'klem(a)nt",
+      "phonetic": "ˈkleɪmənt",
       "pos": "n.",
       "definition": "领取失业救济金的人；靠救济金为生的人；申请人；要求者；索要者",
       "frequency": 17976,
@@ -62,7 +62,7 @@
     },
     {
       "word": "acclaim",
-      "phonetic": "ə 'klerm",
+      "phonetic": "ə.ˈkleɪm",
       "pos": ".vt.",
       "definition": "热烈称赞；称誉某人/事物(为……);给予高度评价n. ( 尤指对艺术成就的)称誉，高度评价",
       "frequency": 12788,
@@ -75,7 +75,7 @@
     },
     {
       "word": "acclaimed",
-      "phonetic": "a'klermd",
+      "phonetic": "əˈkleɪmd",
       "pos": "adj.",
       "definition": "备受推崇的；广受欢迎的",
       "frequency": 11782,
@@ -88,7 +88,7 @@
     },
     {
       "word": "disclaimer",
-      "phonetic": "drs'klermə",
+      "phonetic": "dɪsˈkleɪm.ɚ",
       "pos": "n.",
       "definition": "免责声明；弃权声明",
       "frequency": 17715,
@@ -101,7 +101,7 @@
     },
     {
       "word": "proclaim",
-      "phonetic": "prə'klerm",
+      "phonetic": "pɹoʊˈkleɪm",
       "pos": "vt.",
       "definition": "宣布；声明；明确表示",
       "frequency": 4504,
@@ -114,7 +114,7 @@
     },
     {
       "word": "proclamation",
-      "phonetic": "prpkl'merʃn",
+      "phonetic": "ˌpɹɑkləˈmeɪʃən",
       "pos": "n.",
       "definition": "宣言；公告；声明",
       "frequency": 10964,
@@ -129,7 +129,7 @@
     },
     {
       "word": "reclaim",
-      "phonetic": "r'klerm",
+      "phonetic": "rɪˈkleɪm",
       "pos": "vt.",
       "definition": "要求归还(或恢复);收回；申请退(税);开垦 (荒地);开拓(耕地或建筑用地);使(农田、建筑用地)重新变 成(沙漠、森林或海洋)7587",
       "mnemonic": "re-(=opposite,against: 与……相反；反对)+ claim( =to cry out: 喊 叫)→ to call upon,cry out against,contradict,protest,appeal→请求；呼 吁；大声反对；反驳；抗议；恳求→使某事改变现状，要求改变→要 求归还；收回；申请退税→ 因此有将……制服；使……顺服→开拓； 使……重新变成(沙漠、森林或海洋)",
@@ -144,7 +144,7 @@
     },
     {
       "word": "exclaim",
-      "phonetic": "ik'sklem;ek-",
+      "phonetic": "ɛkˈskleɪm",
       "pos": "vi.",
       "definition": "( 由于激动、震惊、愤怒等)突然呼喊；惊叫； 大声喊",
       "frequency": 6390,
@@ -157,7 +157,7 @@
     },
     {
       "word": "exclamation",
-      "phonetic": "ekskla'merʃ(ə)n",
+      "phonetic": "ˌɛkskləˈmeɪʃ(ə)n",
       "pos": "n.",
       "definition": "惊叫；感叹；感叹词；感叹句",
       "frequency": 14313,
@@ -171,7 +171,7 @@
     },
     {
       "word": "clarity",
-      "phonetic": "'klæerti",
+      "phonetic": "ˈklæɹ.ə.ti",
       "pos": "n.",
       "definition": "( 书、论点等的)清晰易懂；(轮廓、声音的)清楚，清晰； (液体、玻璃或空气的)清澈度",
       "frequency": 5513,
@@ -186,7 +186,7 @@
     },
     {
       "word": "clarinet",
-      "phonetic": "klærr'net",
+      "phonetic": "ˌklæɹɪˈnɛt",
       "pos": "n.",
       "definition": "[乐]单簧管；黑管",
       "frequency": 16242,
@@ -200,7 +200,7 @@
     },
     {
       "word": "clear",
-      "phonetic": "kliə",
+      "phonetic": "klɪɹ",
       "pos": "adj.",
       "definition": "清楚的；明白易懂的；明显的；彻底明白的；(头脑)清醒 的；透明的；开阔的；晴朗的；(眼睛)明亮的；(皮肤)光洁的； 不与……接触的；不与……靠近的 vt. 使清醒；清空 vi. ( 烟 雾 等 ) 消 散",
       "frequency": 564,
@@ -213,7 +213,7 @@
     },
     {
       "word": "clearly",
-      "phonetic": "'klrəli",
+      "phonetic": "ˈklɪɹli",
       "pos": "adv.",
       "definition": "毫无疑问，显然；清楚地；明智地，清醒地",
       "frequency": 849,
@@ -227,7 +227,7 @@
     },
     {
       "word": "clearance",
-      "phonetic": "'kliər(a)ns",
+      "phonetic": "ˈklɪrrəns",
       "pos": "n.",
       "definition": "清除；清理；(官方的)批准，许可；(路面、河面与 上方桥梁之间的)净空，间隙",
       "frequency": 9156,
@@ -241,7 +241,7 @@
     },
     {
       "word": "clear-cut",
-      "phonetic": "'kliə'kat",
+      "phonetic": "klɪrr kʌt",
       "pos": "adj.",
       "definition": "清晰的；容易识别的",
       "frequency": 12452,
@@ -258,7 +258,7 @@
     },
     {
       "word": "clearinghouse",
-      "phonetic": "'kliərinhaus",
+      "phonetic": "ˈklɪrɪŋˌhaʊs",
       "pos": "n.",
       "definition": "专门信息搜集所；(银行之间的)结算所",
       "frequency": 19254,
@@ -271,7 +271,7 @@
     },
     {
       "word": "declare",
-      "phonetic": "drkleə",
+      "phonetic": "dəˈklɛɚ",
       "pos": "vt.",
       "definition": "声明；宣告；申报(在国外所购之物或收入等)1749",
       "mnemonic": "de- ( 强调前缀)+ clare(=to clarify: 澄清；使清楚。来自clarus “ 清 楚的”) →声明；宣告；申报",
@@ -288,7 +288,7 @@
     },
     {
       "word": "declared",
-      "phonetic": "dr'klead",
+      "phonetic": "dɪˈklɛɹd",
       "pos": "adj.",
       "definition": "公开宣布(或声明、表态)的",
       "frequency": 18810,
@@ -301,7 +301,7 @@
     },
     {
       "word": "declaration",
-      "phonetic": "deklə'reɪʃ(3)n",
+      "phonetic": "ˌdɛkləˈɹeɪʃən",
       "pos": "n.",
       "definition": "官方声明；宣言；(可用作法庭证据的)书 面声明；(纳税品等的)申报",
       "frequency": 5668,
@@ -316,7 +316,7 @@
     },
     {
       "word": "calendar",
-      "phonetic": "'kælində",
+      "phonetic": "ˈkæl.ən.dɚ",
       "pos": "n.",
       "definition": "日历；历法；(某一组织、团体或个人的)日程表；纪事表；大事一览表",
       "frequency": 4742,
@@ -331,7 +331,7 @@
     },
     {
       "word": "reconcile",
-      "phonetic": "'rek(a)nsarl",
+      "phonetic": "ˈɹɛkənsaɪl",
       "pos": "vt.",
       "definition": "调和，协调(两种信仰、事实或要求);使和解；使和好如初；顺从；接受",
       "frequency": 6662,
@@ -345,7 +345,7 @@
     },
     {
       "word": "reconciliation",
-      "phonetic": ",rek(a)nsilr'erʃ(a)n",
+      "phonetic": "ˌɹɛkənˌsɪliˈeɪʃən",
       "pos": "n.",
       "definition": "( 两个人或国家等的)和解；修好；(两种貌似对立的信仰、事实或要求的)和谐，调和， 一致",
       "frequency": 5845,
@@ -361,7 +361,7 @@
     },
     {
       "word": "council",
-      "phonetic": "'kauns (a)1;-sil",
+      "phonetic": "ˈkaʊn.səl",
       "pos": "n.",
       "definition": "市政委员会；地方议会；(房屋或公寓)地方 政府出租的；(用于组织名称)委员会；(组织的)管理者，委员； (特定人群参加的正式)会议",
       "frequency": 2979,
@@ -378,7 +378,7 @@
     },
     {
       "word": "councilman",
-      "phonetic": "'kauns(a)Imən;-sl-",
+      "phonetic": "ˈkaʊnslmən",
       "pos": "n.",
       "definition": "尤指(美国的)市议会男议员",
       "frequency": 17706,
@@ -391,7 +391,7 @@
     },
     {
       "word": "counsel",
-      "phonetic": "'kauns(a)1",
+      "phonetic": "ˈkaʊn.səl",
       "pos": "n.",
       "definition": "劝告；建议，提议；给……提供建议；辩护律师",
       "frequency": 3448,
@@ -407,7 +407,7 @@
     },
     {
       "word": "counseling",
-      "phonetic": "'kaunsliŋ",
+      "phonetic": "ˈkaʊnsəlɪŋ",
       "pos": "n.",
       "definition": "咨询服务",
       "frequency": 3430,
@@ -421,7 +421,7 @@
     },
     {
       "word": "counselor",
-      "phonetic": "'kaunslə",
+      "phonetic": "ˈkaʊnsələ(ɹ)",
       "pos": "n.",
       "definition": "顾问；<律>律师；(使馆等的)参赞；(协助学生解决问题的)指导老师(等于counsellor)2999",
       "mnemonic": "counsel ( 建议；忠告)+-or ( 名词后缀，表示人) →提供建议、忠告\n的人→顾问；律师；参赞；指导老师 搭配：college counselor: 大学升学顾问",
@@ -434,7 +434,7 @@
     },
     {
       "word": "haul",
-      "phonetic": "hɔ:l",
+      "phonetic": "hɔl",
       "pos": "n.",
       "definition": "( 用力地)拉，拖；使出庭受审；使去见掌权者；(警方或海 关查获的)一批赃物， 一批违禁品；费时费力的事；耗时累人的行程",
       "frequency": 4231,
@@ -453,7 +453,7 @@
     },
     {
       "word": "hauler",
-      "phonetic": "'hɔ:lə",
+      "phonetic": "ˈhɔlər",
       "pos": "n.",
       "definition": "搬运工；运输工",
       "frequency": 19583,
@@ -466,7 +466,7 @@
     },
     {
       "word": "low",
-      "phonetic": "ləu",
+      "phonetic": "loʊ",
       "pos": "vi. / adj.",
       "definition": "vi. ( 牛)哞哞叫 / adj. 低矮的；接近地面的；接近海平面的；接近底部的；水位浅 的；数量少的；(级别等)低微的；(品质)差的；(水平)低的；含量 低的；(评价)很差的；消沉的；低沉的；轻声的；暗淡的；(收音机 音量、烤箱温度或灯光亮度调成)低的；不足的；情绪低落的 n. 最低 点；牛叫声",
       "collocations": [
@@ -479,7 +479,7 @@
     },
     {
       "word": "lowly",
-      "phonetic": "'ləuli",
+      "phonetic": "ˈloʊli",
       "pos": "adj.",
       "definition": "卑微的；低级的；无足轻重的",
       "frequency": 14064,
@@ -491,7 +491,7 @@
     },
     {
       "word": "lower",
-      "phonetic": "'ləuə",
+      "phonetic": "ˈloʊɚ",
       "pos": "adj.",
       "definition": "( 成对物中)下方的，下面的；底端的；较低级的 vt. (缓慢地)降下，放下；降低；减少；垂下(头或眼睛);降低，贬 低(身份);压低，放低(声音)2068",
       "collocations": [
@@ -505,7 +505,7 @@
     },
     {
       "word": "lowering",
-      "phonetic": "'loərŋ",
+      "phonetic": "ˈloʊ(ə)rɪŋ",
       "pos": "adj.",
       "definition": "使低劣的；昏暗的；减少体力的 vt. 使降低；使减少",
       "frequency": 17364,
@@ -518,7 +518,7 @@
     },
     {
       "word": "low-fat",
-      "phonetic": ",lou'fet",
+      "phonetic": "ləu fæt",
       "pos": "adj.",
       "definition": "低脂肪的",
       "frequency": 7828,
@@ -531,7 +531,7 @@
     },
     {
       "word": "low-income",
-      "phonetic": ",ləu 'nkʌm",
+      "phonetic": "ˌloʊˈɪnkʌm",
       "pos": "adj.",
       "definition": "低收入的",
       "frequency": 6556,
@@ -555,7 +555,7 @@
     },
     {
       "word": "low-key",
-      "phonetic": "'ləu'ki:",
+      "phonetic": "ˈloʊki",
       "pos": "adj.",
       "definition": "低调的；不招摇的",
       "frequency": 12032,
@@ -567,7 +567,7 @@
     },
     {
       "word": "lowland",
-      "phonetic": "'ləulənd",
+      "phonetic": "ˈloʊlənd",
       "pos": "n.",
       "definition": "低地；苏格兰低地",
       "frequency": 13195,
@@ -579,7 +579,7 @@
     },
     {
       "word": "low-level",
-      "phonetic": "'ləu'levəl",
+      "phonetic": "loʊ ˈlevl",
       "pos": "adj.",
       "definition": "低水平；低能级",
       "frequency": 1948,
@@ -592,7 +592,7 @@
     },
     {
       "word": "low-lying",
-      "phonetic": "'ləu'laiiŋ",
+      "phonetic": "ˈloʊˌlaɪɪŋ",
       "pos": "adj.",
       "definition": "低洼的；与海平面相齐的；近于(或低于)海平面 的",
       "frequency": 18771,
@@ -606,7 +606,7 @@
     },
     {
       "word": "ecclesiastical",
-      "phonetic": "i,kli:z¹æstrk(ə)l",
+      "phonetic": "əˌkli.ziˈæ.stə.kəl",
       "pos": "adj.",
       "definition": "基督教教会的",
       "frequency": 14868,
@@ -622,7 +622,7 @@
     },
     {
       "word": "class",
-      "phonetic": "kla:s",
+      "phonetic": "klɛrs",
       "pos": "n.",
       "definition": "班级；课程；课堂；(学校的)……届毕业生；社会等级；种 类；优雅 vt.把……归类；把……视为adj. 出类拔萃的",
       "frequency": 432,
@@ -636,7 +636,7 @@
     },
     {
       "word": "classic",
-      "phonetic": "'klæesik",
+      "phonetic": "ˈklæ.sɪk",
       "pos": "adj.",
       "definition": "典型的；(电影、著作、音乐)经典的；典范的；最优 秀的 n. 文学经典；名著;(尤指对古希腊、古罗马的语言、文学、哲 学的)古典文化研究 adj. ( 风格)传统的；古朴的；(尤指)老式的",
       "frequency": 2639,
@@ -652,7 +652,7 @@
     },
     {
       "word": "classical",
-      "phonetic": "'klæsik(a)l",
+      "phonetic": "ˈklæsɪkl̩",
       "pos": "adj.",
       "definition": "(形式、风格或内容)传统的，古典的；(音乐)古典 的，严肃的；古典文化的；古希腊(或古罗马)文明的；古文的；文言 的",
       "frequency": 3519,
@@ -665,7 +665,7 @@
     },
     {
       "word": "classically",
-      "phonetic": "'klæsikli",
+      "phonetic": "ˈklæsɪklɪ",
       "pos": "adv.",
       "definition": "( 在艺术、音乐、芭蕾舞等方面的训练)正规地，传 统地；(设计)传统/典雅地；典型地；最常见地",
       "frequency": 17583,
@@ -679,7 +679,7 @@
     },
     {
       "word": "classify",
-      "phonetic": "'klæsrfar",
+      "phonetic": "ˈklæsɪfaɪ",
       "pos": "vt.",
       "definition": "把……分类；把……归类",
       "frequency": 4563,
@@ -693,7 +693,7 @@
     },
     {
       "word": "classified",
-      "phonetic": "'klæsifard",
+      "phonetic": "ˈklæsɪfaɪd",
       "pos": "adj.",
       "definition": "分类的；类别的；机密的",
       "frequency": 8852,
@@ -707,7 +707,7 @@
     },
     {
       "word": "classification",
-      "phonetic": ",klæsf'keɪʃ(ə)n",
+      "phonetic": "ˌklæsɪfɪˈkeɪʃən",
       "pos": "n.",
       "definition": "分类；类别，等级",
       "frequency": 5978,

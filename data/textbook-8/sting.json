@@ -653,7 +653,7 @@
       ],
       "frequency" : 8443,
       "mnemonic" : "annoy（使烦恼；使心烦）+ -ing（令人……的）→令人恼怒的；让人",
-      "phonetic" : "əˈnɒɪɪŋ",
+      "phonetic" : "əˈnɑɪɪŋ",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "annoying"
@@ -783,7 +783,7 @@
       ],
       "frequency" : 8255,
       "mnemonic" : "body（身体）+ guard（警戒；保护）→保护人身安全，警戒侵犯的\n人→保镖；警卫",
-      "phonetic" : "ˈbɒdiɡɑːd",
+      "phonetic" : "ˈbɑdiɡɑd",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "bodyguard"
@@ -798,7 +798,7 @@
       ],
       "frequency" : 8980,
       "mnemonic" : "anti-（=against：反对；对抗）+ body（身体）→对抗某些物质进入身\n体的物质→抗体",
-      "phonetic" : "ˈæntɪbɒdɪ",
+      "phonetic" : "ˈæntɪbɑdɪ",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "antibody"
@@ -814,7 +814,7 @@
       ],
       "frequency" : 5153,
       "mnemonic" : "em-（=en-=in-：里面）+ body（身体）→在体内→“体”现（比如：",
-      "phonetic" : "ɪmˈbɒdi",
+      "phonetic" : "ɪmˈbɑdi",
       "pos" : "vt.",
       "rootHint" : "sting",
       "word" : "embody"
@@ -829,7 +829,7 @@
       ],
       "frequency" : 11250,
       "mnemonic" : "embody（体现；代表，变y为i）+ -ment（名词后缀）→……的体\n现，代表→典型；化身",
-      "phonetic" : "ɪmˈbɒdɪmənt",
+      "phonetic" : "ɪmˈbɑdɪmənt",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "embodiment"
@@ -845,7 +845,7 @@
       ],
       "frequency" : 19581,
       "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed\n（形容词后缀）→脱离人体存在的→即脱离肉体的；从看不到的人",
-      "phonetic" : "dɪsɪmˈbɒdiːd",
+      "phonetic" : "dɪsɪmˈbɑdiːd",
       "pos" : "adj.",
       "rootHint" : "sting",
       "word" : "disembodied"
@@ -860,7 +860,7 @@
       ],
       "frequency" : 19964,
       "mnemonic" : "body（上半身）+ -ice（名词后缀）→连衣裙的上身部分",
-      "phonetic" : "ˈbɒdɪs",
+      "phonetic" : "ˈbɑdɪs",
       "pos" : "n.",
       "rootHint" : "sting",
       "word" : "bodice"

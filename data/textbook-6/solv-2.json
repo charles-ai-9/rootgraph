@@ -25,7 +25,7 @@
       ],
       "frequency" : 1839,
       "mnemonic" : "solv-（解开；松开）+ -e→引申义为解决；处理；解答",
-      "phonetic" : "sɒlv",
+      "phonetic" : "sɑlv",
       "pos" : "vt.",
       "rootHint" : "solv",
       "word" : "solve"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 14146,
       "mnemonic" : "un-（=not：没有）+ solved（解决了的）→没有解决了的→为解决",
-      "phonetic" : "ˌʌnˈsɒlvd",
+      "phonetic" : "ˌʌnˈsɑlvd",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "unsolved"
@@ -54,7 +54,7 @@
 
       ],
       "frequency" : 9665,
-      "phonetic" : "ˈsɒlvɪŋ",
+      "phonetic" : "ˈsɑlvɪŋ",
       "pos" : "vt.",
       "rootHint" : "solv",
       "word" : "solving"
@@ -85,7 +85,7 @@
       ],
       "frequency" : 11919,
       "mnemonic" : "solve（解决）+ -ent（形容词后缀）→即可溶解的→用于经济学术语",
-      "phonetic" : "[ˈsɒlvənt]",
+      "phonetic" : "[ˈsɑlvənt]",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "solvent"
@@ -135,7 +135,7 @@
       ],
       "frequency" : 10463,
       "mnemonic" : "un-（=not：没有）+ resolved（解决的）→尚未解决的",
-      "phonetic" : "ʌnrɪˈzɒlvd",
+      "phonetic" : "ʌnrɪˈzɑlvd",
       "pos" : "adj.",
       "rootHint" : "solv",
       "word" : "unresolved"
@@ -169,7 +169,7 @@
       ],
       "frequency" : 4337,
       "mnemonic" : "dis-（=apart：分开；散开）+ -solv-（解开；放松；溶解）+ -e→松\n开，散开→引申词义液体溶解；解除；使消失",
-      "phonetic" : "dɪˈzɒlv",
+      "phonetic" : "dɪˈzɑlv",
       "pos" : "vt.",
       "rootHint" : "solv",
       "word" : "dissolve"

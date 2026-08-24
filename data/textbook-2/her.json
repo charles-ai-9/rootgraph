@@ -66,7 +66,7 @@
       ],
       "frequency" : 10236,
       "mnemonic" : "adhere(遵守，黏附，坚持)+-ence(名词后缀)→遵守，坚持，依附",
-      "phonetic" : "ədˈhɪərəns",
+      "phonetic" : "ədˈhɪrəns",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "adherence"
@@ -81,7 +81,7 @@
       ],
       "frequency" : 13050,
       "mnemonic" : "ad(=to：加强语气)+-her-(粘住，引申为跟随、依附)+ent(名词后缀)→\n人跟随某个政党、思想或领袖→拥护者，追随者",
-      "phonetic" : "ædˈ(h)ɪəɹənt",
+      "phonetic" : "ædˈ(h)ɪɹənt",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "adherent"
@@ -140,7 +140,7 @@
       ],
       "frequency" : 16715,
       "mnemonic" : "in-(否定前缀)+coherent(合乎逻辑的，有条理的，连贯的)→语无伦次",
-      "phonetic" : "ɪnkə(ʊ)ˈhɪər(ə)nt",
+      "phonetic" : "ɪnkə(ʊ)ˈhɪr(ə)nt",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "incoherent"
@@ -155,7 +155,7 @@
       ],
       "frequency" : 11792,
       "mnemonic" : "coherent(连贯的，有条理的)+-ce(名词后缀)→连贯性，条理性",
-      "phonetic" : "kə(ʊ)ˈhɪər(ə)ns;kə(ʊ)ˈhɪərəns",
+      "phonetic" : "kə(ʊ)ˈhɪr(ə)ns;kə(ʊ)ˈhɪrəns",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "coherence"
@@ -375,7 +375,7 @@
       ],
       "frequency" : 10536,
       "mnemonic" : "antho-(=anthos：花)+-logy(=to collect，gather：收集)→花的集合",
-      "phonetic" : "ænˈθɒlədʒɪ",
+      "phonetic" : "ænˈθɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "anthology"
@@ -908,7 +908,7 @@
       ],
       "frequency" : 2880,
       "mnemonic" : "intellect(智力，理解能力)+-ual(形容词后缀)→智力的，理智的",
-      "phonetic" : "ˌɪntəˈlɛk(t)ʃʊəl",
+      "phonetic" : "ˌɪntəˈlɛk(t)ʃʊrl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "intellectual"
@@ -923,7 +923,7 @@
       ],
       "frequency" : 9065,
       "mnemonic" : "intellectual(智力的)+-ly(副词后缀)→智力上，理智地",
-      "phonetic" : "ˌɪntɪˈlektʃʊəli",
+      "phonetic" : "ˌɪntɪˈlektʃʊrli",
       "pos" : "adv.",
       "rootHint" : "her",
       "word" : "intellectually"
@@ -1000,7 +1000,7 @@
       ],
       "frequency" : 18814,
       "mnemonic" : "intelligent(智慧的，聪明的)+-sia(名词后缀，表示……的总称，\n如……界)→智慧聪明人的圈子→知识分子，知识界",
-      "phonetic" : "ɪntɛlɪˈd͡ʒɛntsɪə",
+      "phonetic" : "ɪntɛlɪˈd͡ʒɛntsɪr",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "intelligentsia"
@@ -1152,7 +1152,7 @@
       ],
       "frequency" : 15137,
       "mnemonic" : "relig(=religion：宗教)+-osity(名词后缀，表多的状态)→对宗教极为投\n入的状态→笃信宗教",
-      "phonetic" : "ɹɪˌlɪd͡ʒɪˈɒsɪti",
+      "phonetic" : "ɹɪˌlɪd͡ʒɪˈɑsəti",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "religiosity"
@@ -1210,7 +1210,7 @@
       ],
       "frequency" : 6831,
       "mnemonic" : "anthropo-(人类)+-logy(学科)→研究人类的学科→人类学",
-      "phonetic" : "ˌænθɹəˈpɑːlədʒi",
+      "phonetic" : "ˌænθɹəˈpɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "anthropology"
@@ -1273,7 +1273,7 @@
       ],
       "frequency" : 6342,
       "mnemonic" : "archaeology(考古学)+-ist(名词后缀，……学家)→考古学家",
-      "phonetic" : "ˌɑːkɪˈɒlədʒɪst",
+      "phonetic" : "ˌɑkɪˈɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "archaeologist"
@@ -1320,7 +1320,7 @@
       ],
       "frequency" : 5149,
       "mnemonic" : "biology(生物学)+ist(名词后缀，……学家)→生物学家",
-      "phonetic" : "baɪˈɒlədʒɪst",
+      "phonetic" : "baɪˈɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "biologist"
@@ -1335,7 +1335,7 @@
       ],
       "frequency" : 2588,
       "mnemonic" : "biology(生物学)+-ical(形容词后缀)→生物学的",
-      "phonetic" : "ˌbaɪə(ʊ)ˈlɒdʒɪkəl",
+      "phonetic" : "ˌbaɪə(ʊ)ˈlɑdʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "biological"
@@ -1366,7 +1366,7 @@
       ],
       "frequency" : 9720,
       "mnemonic" : "bio-(生物学的)+technology(技术)→生物技术",
-      "phonetic" : "ˈbaɪəʊˌtɛk.nɒl.əʊ.dʒi",
+      "phonetic" : "ˈbaɪoʊˌtɛk.nɑl.oʊ.dʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "biotechnology"
@@ -1384,7 +1384,7 @@
       ],
       "frequency" : 13070,
       "mnemonic" : "chrono-(时间)+-logy(学科，知识)→有关时间的学科或知识→年代",
-      "phonetic" : "kɹəˈnɒl.ə.dʒi",
+      "phonetic" : "kɹəˈnɑl.ə.dʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "chronology"
@@ -1400,7 +1400,7 @@
       ],
       "frequency" : 13838,
       "mnemonic" : "chrono-(时间的)+-logical(……学的)→按照时间顺序的",
-      "phonetic" : "ˌkɹɒnəˈlɒd͡ʒɪkəl",
+      "phonetic" : "ˌkɹɑnəˈlɑd͡ʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "chronological"
@@ -1415,7 +1415,7 @@
       ],
       "frequency" : 12166,
       "mnemonic" : "cosmo-(宇宙)+-logy(学科)→宇宙学",
-      "phonetic" : "kɒzˈmɒlədʒɪ",
+      "phonetic" : "kɑzˈmɑlədʒɪ",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "cosmology"
@@ -1446,7 +1446,7 @@
       ],
       "frequency" : 6520,
       "mnemonic" : "eco-(生态)+-logy(学科)→生态学",
-      "phonetic" : "ɛˈkɒlədʒi",
+      "phonetic" : "i.ˈkɑ.lə.dʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "ecology"
@@ -1477,7 +1477,7 @@
       ],
       "frequency" : 4448,
       "mnemonic" : "ecology(生态)+-ical(形容词后缀)→生态的，关注生态环境的",
-      "phonetic" : "ˌiːkəˈlɒd͡ʒɪkl̩",
+      "phonetic" : "ˌiːkəˈlɑd͡ʒɪkl̩",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "ecological"
@@ -1513,7 +1513,7 @@
       ],
       "frequency" : 15432,
       "mnemonic" : "epi-(=among，upon：在……之间)+demio(=dēmos，people，\ndistrict，人群，地区)+-logy(学科)→有关在一个社区\/群体里广泛流行\n的疾病的学科→流行病学",
-      "phonetic" : "ˈɛp.ɪ.diːm.iː.ɒl.ə.dʒi",
+      "phonetic" : "ˈɛp.ɪ.diːm.iː.ɑl.ə.dʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "epidemiology"
@@ -1528,7 +1528,7 @@
       ],
       "frequency" : 16196,
       "mnemonic" : "epidemiology(流行病学)+-ist(名词后缀，表人)→流行病学家",
-      "phonetic" : "ˌepɪˈdiːmɪˈɒlədʒɪst",
+      "phonetic" : "ˌepɪˈdiːmɪˈɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "epidemiologist"
@@ -1576,7 +1576,7 @@
       ],
       "frequency" : 13963,
       "mnemonic" : "epistemology(认知学)+-ical(形容词后缀)→认识论的",
-      "phonetic" : "ɪˌpɪstəməˈlɒd͡ʒɪkəl",
+      "phonetic" : "ɪˌpɪstəməˈlɑd͡ʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "epistemological"
@@ -1595,7 +1595,7 @@
 
       ],
       "mnemonic" : "etio-(=aitia-：cause，原因)+-logy(研究)→说出(某个问题)原由的学科\n→原因论→后来引申为研究某种疾病的成因，即病因论，病原学",
-      "phonetic" : "ˌiːtɪˈɒlədʒɪ",
+      "phonetic" : "ˌiːtɪˈɑlədʒɪ",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "etiology"
@@ -1643,7 +1643,7 @@
       ],
       "frequency" : 17030,
       "mnemonic" : "geology(地质学)+-ic(形容词后缀)→地质学上的",
-      "phonetic" : "ˌdʒiː.əˈlɒdʒ.ɪk",
+      "phonetic" : "ˌdʒi.əˈlɑdʒ.ɪk",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "geologic"
@@ -1658,7 +1658,7 @@
       ],
       "frequency" : 8982,
       "mnemonic" : "geologic(地质学上的)+-al(形容词后缀，……的)→地质学的",
-      "phonetic" : "ˌdʒiː.əˈlɒdʒ.ɪk.əl",
+      "phonetic" : "ˌdʒi.əˈlɑdʒ.ɪk.əl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "geological"
@@ -1673,7 +1673,7 @@
       ],
       "frequency" : 9928,
       "mnemonic" : "geology(地质学)+-ist(名词后缀，表人)→地质学家",
-      "phonetic" : "dʒiˈɒlədʒɪst",
+      "phonetic" : "dʒiˈɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "geologist"
@@ -1718,7 +1718,7 @@
       ],
       "frequency" : 4256,
       "mnemonic" : "idea(思想，省略a)+-ology(学科)+ical(形容词后缀)→思想学科的→思",
-      "phonetic" : "ˌaɪdɪəʊˈlɒdʒɪkəl",
+      "phonetic" : "ˌaɪdɪoʊˈlɑdʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "ideological"
@@ -1732,7 +1732,7 @@
 
       ],
       "mnemonic" : "ideological(思想上的，意识形态的)+-ly(副词后缀)→思想上地，意识",
-      "phonetic" : "ˌaɪdiəˈlɒdʒɪkəli",
+      "phonetic" : "ˌaɪdiəˈlɑdʒɪkəli",
       "pos" : "adv.",
       "rootHint" : "her",
       "word" : "ideologically"
@@ -1747,7 +1747,7 @@
       ],
       "frequency" : 5757,
       "mnemonic" : "method(方法)+-ology(学说)→方法学，方法论",
-      "phonetic" : "meθəˈdɒlədʒi",
+      "phonetic" : "ˌmɜθəˈdɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "methodology"
@@ -1762,7 +1762,7 @@
       ],
       "frequency" : 11203,
       "mnemonic" : "methodology(方法学)+-ical(形容词后缀)→方法学的",
-      "phonetic" : "ˌmeθədəˈlɒdʒɪkəl",
+      "phonetic" : "ˌmeθədəˈlɑdʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "methodological"
@@ -1810,7 +1810,7 @@
       ],
       "frequency" : 16767,
       "mnemonic" : "mythology(神话)+-ical(形容词后缀)→神话的",
-      "phonetic" : "ˌmɪθəˈlɒd͡ʒɪkəl",
+      "phonetic" : "ˌmɪθəˈlɑd͡ʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "mythological"
@@ -1827,7 +1827,7 @@
       ],
       "frequency" : 16607,
       "mnemonic" : "nano-(纳米)+techn-(=art，skill，craft in work：技术、科技、艺术)+-\nology(科学)→纳米技术",
-      "phonetic" : "ˌnænə(ʊ)tekˈnɒlədʒɪ",
+      "phonetic" : "ˌnænə(ʊ)tekˈnɑlədʒɪ",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "nanotechnology"
@@ -1842,7 +1842,7 @@
       ],
       "frequency" : 19395,
       "mnemonic" : "onco-(=tumor，肿瘤，来自希腊语onkos，大块，肿块)+-logy(=science\nor study of，学说)→肿瘤学",
-      "phonetic" : "ɒŋˈkɒlədʒi",
+      "phonetic" : "ɑŋˈkɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "oncology"
@@ -1857,7 +1857,7 @@
       ],
       "frequency" : 17092,
       "mnemonic" : "oncology(肿瘤学)+-ist(学家)→肿瘤学家",
-      "phonetic" : "ɒnˈkɒlədʒɪst",
+      "phonetic" : "ɑnˈkɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "oncologist"
@@ -1872,7 +1872,7 @@
 
       ],
       "mnemonic" : "patho-(疾病的)+-logy(学科)→有关疾病的学科→病理学",
-      "phonetic" : "pəˈθɒlədʒi",
+      "phonetic" : "pəˈθɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "pathology"
@@ -1906,7 +1906,7 @@
 
       ],
       "mnemonic" : "pathology(病理学)+-ical(形容词后缀)→病态的，病理的",
-      "phonetic" : "pæθəˈlɒdʒɪk(ə)l",
+      "phonetic" : "pæθəˈlɑdʒɪk(ə)l",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "pathological"
@@ -1955,7 +1955,7 @@
       ],
       "frequency" : 2383,
       "mnemonic" : "psychology(心理学)+-ical(形容词后缀)→心理的，精神上的",
-      "phonetic" : "ˌsaɪkəˈlɒdʒɪkl",
+      "phonetic" : "ˌsaɪkəˈlɑdʒɪkl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "psychological"
@@ -1970,7 +1970,7 @@
       ],
       "frequency" : 9294,
       "mnemonic" : "psychology(心理，精神)+-ical(形容词后缀)+-ly(副词后缀)→心理上",
-      "phonetic" : "saɪˈkɒlədʒɪklɪ",
+      "phonetic" : "saɪˈkɑlədʒɪklɪ",
       "pos" : "adv.",
       "rootHint" : "her",
       "word" : "psychologically"
@@ -1985,7 +1985,7 @@
       ],
       "frequency" : 11208,
       "mnemonic" : "physio-(身体，生理)+-logy(学科)→对身体、生理的研究→生理学",
-      "phonetic" : "ˌfɪziˈɒləd͡ʒi",
+      "phonetic" : "ˌfɪziˈɑ.lə.d͡ʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "physiology"
@@ -2031,7 +2031,7 @@
       ],
       "frequency" : 19762,
       "mnemonic" : "psycho-(精神的)+pathology(病理学)→精神病理学",
-      "phonetic" : "ˌsaɪkɒpəˈθɒlədʒɪ",
+      "phonetic" : "ˌsaɪkɑpəˈθɑlədʒɪ",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "psychopathology"
@@ -2046,7 +2046,7 @@
       ],
       "frequency" : 8145,
       "mnemonic" : "socio-(社会的)+-logy(学说)→社会学",
-      "phonetic" : "ˌsəʊsiːˈɒlədʒiː",
+      "phonetic" : "ˌsoʊsiːˈɑlədʒiː",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "sociology"
@@ -2061,7 +2061,7 @@
       ],
       "frequency" : 8694,
       "mnemonic" : "sociology(社会学)+-ist(学家)→社会学家",
-      "phonetic" : "ˌsəʊsɪˈɒlədʒɪst",
+      "phonetic" : "ˌsoʊsɪˈɑlədʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "sociologist"
@@ -2077,7 +2077,7 @@
       ],
       "frequency" : 11508,
       "mnemonic" : "sociology(社会学)+-ical(形容词后缀)→社会学的",
-      "phonetic" : "ˌsəʊsɪəˈlɒdʒɪkəl",
+      "phonetic" : "ˌsoʊsɪəˈlɑdʒɪkəl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "sociological"
@@ -2092,7 +2092,7 @@
       ],
       "frequency" : 586,
       "mnemonic" : "techn-(技术，科技)+-ology(学说)→科技",
-      "phonetic" : "tɛkˈnɒlədʒi",
+      "phonetic" : "tɛkˈnɑlədʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "technology"
@@ -2107,7 +2107,7 @@
       ],
       "frequency" : 20190,
       "mnemonic" : "technology(技术)+-ist(专家，学家)→技术专家",
-      "phonetic" : "tɛkˈnɒləd͡ʒɪst",
+      "phonetic" : "tɛkˈnɑləd͡ʒɪst",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "technologist"
@@ -2122,7 +2122,7 @@
       ],
       "frequency" : 3808,
       "mnemonic" : "technology(技术)+-ical(形容词后缀)→技术的",
-      "phonetic" : "teknəˈlɒdʒɪk(ə)l",
+      "phonetic" : "teknəˈlɑdʒɪk(ə)l",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "technological"
@@ -2153,7 +2153,7 @@
       ],
       "frequency" : 9521,
       "mnemonic" : "termin-(=terminus，word，expression，文字，表达)+-ology(学说)→专",
-      "phonetic" : "ˌtɜːməˈnɒləd͡ʒi",
+      "phonetic" : "ˌtɚməˈnɑləd͡ʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "terminology"
@@ -2167,7 +2167,7 @@
 
       ],
       "mnemonic" : "theo-(神)+-logy(学科)→与神有关的学科→神学",
-      "phonetic" : "θi.ˈɒ.lə.dʒi",
+      "phonetic" : "θi.ˈɑ.lə.dʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "theology"
@@ -2182,7 +2182,7 @@
       ],
       "frequency" : 4784,
       "mnemonic" : "theology(神学)+-ical(形容词后缀)→神学的",
-      "phonetic" : "θɪəˈlɒd͡ʒɪkl",
+      "phonetic" : "θi.əˈlɑd͡ʒɪkl",
       "pos" : "adj.",
       "rootHint" : "her",
       "word" : "theological"
@@ -2227,7 +2227,7 @@
       ],
       "frequency" : 17434,
       "mnemonic" : "typo-(类型)+-logy(学说)→类型学",
-      "phonetic" : "taɪˈpɒl.ə.d͡ʒi",
+      "phonetic" : "taɪˈpɑl.ə.d͡ʒi",
       "pos" : "n.",
       "rootHint" : "her",
       "word" : "typology"

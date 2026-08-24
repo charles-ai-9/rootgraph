@@ -453,7 +453,7 @@
       ],
       "frequency" : 13416,
       "mnemonic" : "fast（快速的）+ growing（成长的）→生长迅速的；快速发展的",
-      "phonetic" : "fɑ:stˈɡrəʊɪŋ",
+      "phonetic" : "fɑ:stˈɡroʊɪŋ",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "fast-growing"
@@ -468,7 +468,7 @@
       ],
       "frequency" : 12056,
       "mnemonic" : "fastest（最快的）+ growing（成长的）→成长最快的",
-      "phonetic" : "fɑ:stɪstˈɡrəʊɪŋ",
+      "phonetic" : "fɑ:stɪstˈɡroʊɪŋ",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "fastest-growing"
@@ -485,7 +485,7 @@
       ],
       "frequency" : 14118,
       "mnemonic" : "out-（超过）+ grow（生长；增长）→长大而穿不下（衣服）；长",
-      "phonetic" : "ˌaʊtˈɡɹəʊ",
+      "phonetic" : "ˌɑʊtˈɡɹoʊ",
       "pos" : "vt.",
       "rootHint" : "men",
       "word" : "outgrow"
@@ -515,7 +515,7 @@
       ],
       "frequency" : 17529,
       "mnemonic" : "old（古老的）+ growth（发育；生长）→古老的；老龄的",
-      "phonetic" : "əʊldɡrəʊθ",
+      "phonetic" : "oʊldɡroʊθ",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "old-growth"
@@ -532,7 +532,7 @@
 
       ],
       "frequency" : 2031,
-      "phonetic" : "[ɡɹ̠eəs]",
+      "phonetic" : "[ɡɹ̠ɛrs]",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "grass"
@@ -577,7 +577,7 @@
       ],
       "frequency" : 12203,
       "mnemonic" : "grass（青草）+ land（土地）→长满青草的土地→牧场；草地",
-      "phonetic" : "ˈgrɑːslænd",
+      "phonetic" : "ˈgrɑslænd",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "grassland"
@@ -606,7 +606,7 @@
 
       ],
       "mnemonic" : "blue（蓝色）+ grass（草）→蓝草音乐",
-      "phonetic" : "ˈbluːgrɑːs",
+      "phonetic" : "ˈbluːgrɑs",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "bluegrass"
@@ -671,7 +671,7 @@
 
       ],
       "frequency" : 16900,
-      "phonetic" : "ˈɔːθəʃɪp",
+      "phonetic" : "ˈɔθəʃɪp",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "authorship"
@@ -685,7 +685,7 @@
 
       ],
       "frequency" : 18832,
-      "phonetic" : "ɔːˈθɔːriəl",
+      "phonetic" : "ɔˈθɔriəl",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "authorial"
@@ -736,7 +736,7 @@
       ],
       "frequency" : 9371,
       "mnemonic" : "authorit（=authority：权威）+ -ative（形容词后缀）→命令式的；有",
-      "phonetic" : "ɔːˈθɒɹɪtətɪv",
+      "phonetic" : "ɔˈθɑɹɪtətɪv",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "authoritative"
@@ -751,7 +751,7 @@
 
       ],
       "frequency" : 9980,
-      "phonetic" : "ɔːθəraɪˈzeɪʃ(ə)n",
+      "phonetic" : "ɔθəraɪˈzeɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "authorization"
@@ -780,7 +780,7 @@
 
       ],
       "frequency" : 11222,
-      "phonetic" : "ʌnˈɔːθəraɪzd",
+      "phonetic" : "ʌnˈɔθəraɪzd",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "unauthorized"
@@ -813,7 +813,7 @@
       ],
       "frequency" : 5061,
       "mnemonic" : "authority：根据一己之见行事→可靠的（信赖自己的）\n来自希腊语authentikos：original, genuine→逼真的（原作的；真迹\naut（=auto：自己）+ -hen（=done：做）+ t（无意义）+ -ic（形容词\n后缀）→自己做的→真实的；逼真的；可靠的；正宗的",
-      "phonetic" : "ɒ.ˈθɛn.tɪk",
+      "phonetic" : "ɑ.ˈθɛn.tɪk",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "authentic"
@@ -844,7 +844,7 @@
 
       ],
       "frequency" : 4687,
-      "phonetic" : "ˈɔːkʃən",
+      "phonetic" : "ˈɔkʃən",
       "pos" : "vt.",
       "rootHint" : "men",
       "word" : "auction"
@@ -858,7 +858,7 @@
 
       ],
       "mnemonic" : "auction（拍卖）+ -eer（名词后缀，表示从事……的人）→从事拍卖\n的人→拍卖师",
-      "phonetic" : "ɔːkʃəˈnɪə",
+      "phonetic" : "ɔkʃəˈnɪr",
       "pos" : "n.",
       "rootHint" : "men",
       "word" : "auctioneer"
@@ -889,7 +889,7 @@
       ],
       "frequency" : 14469,
       "mnemonic" : "auxili（=-aug-：增加）+ -ary（形容词后缀）→增加的→备用的；后",
-      "phonetic" : "ɔːkˈsɪli.əɹi",
+      "phonetic" : "ɔɡˈzɪliɛɹi",
       "pos" : "adj.",
       "rootHint" : "men",
       "word" : "auxiliary"

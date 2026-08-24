@@ -74,7 +74,7 @@
 
       ],
       "frequency" : 15833,
-      "phonetic" : "ˈpʌlsɑː(r)",
+      "phonetic" : "ˈpʌlsɑr",
       "pos" : "n.",
       "rootHint" : "puls",
       "word" : "pulsar"
@@ -92,7 +92,7 @@
       ],
       "frequency" : 4499,
       "mnemonic" : "com-（加强语气）+-pel（强迫）→强迫，使必须；引起（反应）",
-      "phonetic" : "kəmˈpel",
+      "phonetic" : "kəmˈpɛl",
       "pos" : "vt.",
       "rootHint" : "pel",
       "word" : "compel"
@@ -109,7 +109,7 @@
       ],
       "frequency" : 4934,
       "mnemonic" : "compel（强迫，迫使；使吸引；双写l）+ -ing（形容词后缀）→让人\n产生强迫感的；吸引人的→引人入胜的；非常强烈的；令人信服的",
-      "phonetic" : "kəmˈpelɪŋ",
+      "phonetic" : "kəmˈpɛlɪŋ",
       "pos" : "adj.",
       "rootHint" : "pel",
       "word" : "compelling"
@@ -125,7 +125,7 @@
       ],
       "frequency" : 12401,
       "mnemonic" : "com-（加强意义）+ -puls-（推动）+ -ion（名词后缀）→强迫推动→",
-      "phonetic" : "kəmˈpʌlʃn",
+      "phonetic" : "kəmˈpʌl.ʃən",
       "pos" : "n.",
       "rootHint" : "puls",
       "word" : "compulsion"
@@ -158,7 +158,7 @@
       ],
       "frequency" : 13139,
       "mnemonic" : "compuls（=compulsion：强迫；强制）+ -ory（形容词后缀，……\n的）→强制的；强迫的；必须做的",
-      "phonetic" : "kəmˈpʌlsərɪ",
+      "phonetic" : "kəmˈpʌlsəri",
       "pos" : "adj.",
       "rootHint" : "puls",
       "word" : "compulsory"
@@ -175,7 +175,7 @@
       ],
       "frequency" : 6722,
       "mnemonic" : "pro-（向前）+ -pel（=to push, drive：推动；驱动）→向前推动→推",
-      "phonetic" : "prəˈpel",
+      "phonetic" : "pɹəˈpɛl",
       "pos" : "vt.",
       "rootHint" : "pel",
       "word" : "propel"
@@ -206,7 +206,7 @@
       ],
       "frequency" : 11051,
       "mnemonic" : "pro-（=forward：向前）+ -puls-（=pel-：推动）+ -ion（名词后缀）\n→act of driving forward, propulsive force→向前推动的行为，推进力→",
-      "phonetic" : "prəˈpʌlʃn",
+      "phonetic" : "pɹəˈpʌlʃən",
       "pos" : "n.",
       "rootHint" : "puls",
       "word" : "propulsion"
@@ -222,7 +222,7 @@
       ],
       "frequency" : 7087,
       "mnemonic" : "ex-（=out：向外；离开）+ pel-（=to drive：推；强迫）→to drive out\/\naway：强迫离开（国土）→开除；驱逐；排出",
-      "phonetic" : "ɪkˈspel",
+      "phonetic" : "ɪkˈspɛl",
       "pos" : "vt.",
       "rootHint" : "pel",
       "word" : "expel"
@@ -238,7 +238,7 @@
       ],
       "frequency" : 11567,
       "mnemonic" : "expuls-（=expel：把……开除；驱逐；排出）+ -ion（名词后缀）→",
-      "phonetic" : "ɪkˈspʌlʃn",
+      "phonetic" : "ɪkˈspʌlʃən",
       "pos" : "n.",
       "rootHint" : "puls",
       "word" : "expulsion"
@@ -255,7 +255,7 @@
       ],
       "frequency" : 11479,
       "mnemonic" : "re-（=back：回；返回）+ -pel（=to drive, strike：推；击打）→to\ndrive back：推回去，打回去→击退，驱逐；厌恶；排斥",
-      "phonetic" : "rɪˈpel",
+      "phonetic" : "ɹɪˈpɛl",
       "pos" : "vt.",
       "rootHint" : "pel",
       "word" : "repel"
@@ -272,7 +272,7 @@
       ],
       "frequency" : 17399,
       "mnemonic" : "repel（使厌恶；驱除，双写l）+ -ent（形容词后缀）→让人很不愉",
-      "phonetic" : "rɪˈpelənt",
+      "phonetic" : "ɹəˈpɛlənt",
       "pos" : "adj.",
       "rootHint" : "pel",
       "word" : "repellent"
@@ -288,7 +288,7 @@
       ],
       "frequency" : 19086,
       "mnemonic" : "repulse=repel：驱逐；使厌恶；拒绝接受（排斥）",
-      "phonetic" : "rɪˈpʌls",
+      "phonetic" : "ɹɪˈpʌls",
       "pos" : "vt.",
       "rootHint" : "puls",
       "word" : "repulse"
@@ -319,7 +319,7 @@
       ],
       "frequency" : 10909,
       "mnemonic" : "dis-（=apart, away：分开；离开）+ -pel（=to drive, push：驱动）→驱\n动使……分开→驱散；消除",
-      "phonetic" : "dɪˈspel",
+      "phonetic" : "[dɪˈspɛɫ]",
       "pos" : "vt.",
       "rootHint" : "pel",
       "word" : "dispel"
@@ -336,7 +336,7 @@
       ],
       "frequency" : 3813,
       "mnemonic" : "re-（=against：反对）+ -bel（=wage war：发动战争）→对……发动\n战争→造反；叛逆；叛乱者",
-      "phonetic" : "ˈrebl",
+      "phonetic" : "ˈɹɛbəl",
       "pos" : "vi.",
       "rootHint" : "bel",
       "word" : "rebel"
@@ -354,7 +354,7 @@
       ],
       "frequency" : 6425,
       "mnemonic" : "rebel（叛乱；反抗；叛逆，双写l）+ -ion（名词后缀）→叛乱；反",
-      "phonetic" : "rɪˈbeljən",
+      "phonetic" : "ɹɪˈbɛl.i.ən",
       "pos" : "n.",
       "rootHint" : "bel",
       "word" : "rebellion"
@@ -370,7 +370,7 @@
       ],
       "frequency" : 11444,
       "mnemonic" : "rebel（叛逆；造反，双写l）+ -ious（形容词后缀，……的）→叛逆",
-      "phonetic" : "rɪˈbeljəs",
+      "phonetic" : "ɹəˈbɛliəs",
       "pos" : "adj.",
       "rootHint" : "bel",
       "word" : "rebellious"
@@ -387,7 +387,7 @@
       ],
       "frequency" : 9580,
       "mnemonic" : "im-（=in-：进）+ -pet-（=push：推）+ -us（名词后缀）→动力；推",
-      "phonetic" : "ˈɪmpɪtəs",
+      "phonetic" : "ˈɪm.pə.təs",
       "pos" : "n.",
       "rootHint" : "pel",
       "word" : "impetus"

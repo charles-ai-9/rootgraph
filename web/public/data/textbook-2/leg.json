@@ -21,7 +21,7 @@
       ],
       "frequency" : 886,
       "mnemonic" : "leg(=law：法律)+al(形容词后缀，表示……的)→法律的，合法的",
-      "phonetic" : "ˈli:gəl",
+      "phonetic" : "ˈliɡəl",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "legal"
@@ -36,7 +36,7 @@
       ],
       "frequency" : 4615,
       "mnemonic" : "legal(合法的)+-ly(副词后缀)→合法地",
-      "phonetic" : "ˈli:gəli",
+      "phonetic" : "ˈliːɡəli",
       "pos" : "adv.",
       "rootHint" : "leg",
       "word" : "legally"
@@ -66,7 +66,7 @@
       ],
       "frequency" : 11033,
       "mnemonic" : "leg-(=law：法律)+-al(形容词后缀)+-ize(动词后缀，使……)→使合",
-      "phonetic" : "ˈliɡəlaɪz",
+      "phonetic" : "ˈliːɡəlaɪz",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "legalize"
@@ -96,7 +96,7 @@
       ],
       "frequency" : 2087,
       "mnemonic" : "il-(=not，opposite of：否定前缀)+legal(合法的)→非法的，(移民)非法",
-      "phonetic" : "ɪˈliːg(ə)l",
+      "phonetic" : "ɪˈliːɡəl",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "illegal"
@@ -111,7 +111,7 @@
       ],
       "frequency" : 6947,
       "mnemonic" : "illegal(非法地)+-ly(副词后缀)→非法的，违法的",
-      "phonetic" : "ɪˈligəli",
+      "phonetic" : "ɪˈliːɡəli",
       "pos" : "adv.",
       "rootHint" : "leg",
       "word" : "illegally"
@@ -127,7 +127,7 @@
       ],
       "frequency" : 12309,
       "mnemonic" : "il-(=not：不，非)+legitim(使合法)+-ate(形容词后缀)→legitimate来自\n拉丁语legitimus，表示合法的→不合法的",
-      "phonetic" : "ˌɪlɪˈdʒɪtɪmət",
+      "phonetic" : "ɘlɘˈdʒɘtɘmɘt",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "illegitimate"
@@ -142,7 +142,7 @@
       ],
       "frequency" : 12853,
       "mnemonic" : "legis(=law：法律)+-late(=propose, make=制定，提出)→to make laws：\n制定、提出法律→立法",
-      "phonetic" : "ˈledʒɪsleɪt",
+      "phonetic" : "ˈlɛdʒɪsˌleɪt",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "legislate"
@@ -157,7 +157,7 @@
       ],
       "frequency" : 2034,
       "mnemonic" : "legislate(制定法律)+-ion(名词后缀，表示……的行为或结果)→立法行\n为或其结果→立法，法律",
-      "phonetic" : "ledʒɪsˈleɪʃ(ə)n",
+      "phonetic" : "ˌlɛd͡ʒɪsˈleɪʃən",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "legislation"
@@ -172,7 +172,7 @@
       ],
       "frequency" : 3577,
       "mnemonic" : "legislate(制定法律)+-ive(形容词后缀)→立法的",
-      "phonetic" : "ˈledʒɪslətɪv",
+      "phonetic" : "ˈlɛ.dʒɪˌsleɪ.tɪv",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "legislative"
@@ -202,7 +202,7 @@
       ],
       "frequency" : 4407,
       "mnemonic" : "legislate(立法)+-ure(名词后缀)→立法机构；议会",
-      "phonetic" : "ˈledʒɪslətʃə",
+      "phonetic" : "ˈlɛdʒɪsˌleɪtʃɚ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "legislature"
@@ -254,7 +254,7 @@
       ],
       "frequency" : 11819,
       "mnemonic" : "legitimate(=lawful)+-ize(动词后缀，表示使……)→to make...lawful：",
-      "phonetic" : "lɪˈdʒɪtɪmaɪz",
+      "phonetic" : "ləˈdʒɪtɪmaɪz",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "legitimize"
@@ -269,7 +269,7 @@
       ],
       "frequency" : 5837,
       "mnemonic" : "legitimate(合法地)+-cy(名词后缀)→合法，合理",
-      "phonetic" : "lɪˈdʒɪtɪməsɪ",
+      "phonetic" : "ləˈdʒɪtɪməsi",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "legitimacy"
@@ -290,7 +290,7 @@
       ],
       "frequency" : 3647,
       "mnemonic" : "priv-(来源于拉丁语中由privus，表示单独的，个体的)私人的)+i+leg-\n(=law：法律)+e →享有私人的法律→(有)特权、权利",
-      "phonetic" : "ˈprivilidʒ",
+      "phonetic" : "ˈpɹɪv(ɪ)lɪdʒ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "privilege"
@@ -305,7 +305,7 @@
       ],
       "frequency" : 6635,
       "mnemonic" : "privilege(特权，优惠)+-d(形容词后缀)→有特权的",
-      "phonetic" : "ˈprɪvəlɪdʒd",
+      "phonetic" : "ˈpɹɪv(ɪ)lɪdʒd",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "privileged"
@@ -320,7 +320,7 @@
       ],
       "frequency" : 4824,
       "mnemonic" : "loy(=law：法律)+al(形容词后缀，表示……的)→(对法律)信守的，忠",
-      "phonetic" : "ˈlɔiəl",
+      "phonetic" : "ˈlɔɪəl",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "loyal"
@@ -335,7 +335,7 @@
       ],
       "frequency" : 14507,
       "mnemonic" : "loyal(忠诚的)+-ist(名词后缀，表人)→对统治者、政府忠诚的人",
-      "phonetic" : "ˈlɒɪəlɪst",
+      "phonetic" : "ˈlɔɪəlɪst",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "loyalist"
@@ -351,7 +351,7 @@
       ],
       "frequency" : 4116,
       "mnemonic" : "loyal(忠诚的)+-ty(名词后缀，表性质、状态、程度)→忠心，忠诚",
-      "phonetic" : "ˈlɒɪəltɪ",
+      "phonetic" : "ˈlɔɪəlti",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "loyalty"
@@ -367,7 +367,7 @@
       ],
       "frequency" : 5296,
       "mnemonic" : "de-(=from，away：离开)+leg-(=law：法律)→字面义为 to engage by\ncontract，related to contract\/law，与订立合同，法律有关→引申义为to",
-      "phonetic" : "ˈdɛlɪˌɡeɪt; -ɡɪt; (for v.,) ˈdɛlɪˌɡeɪt",
+      "phonetic" : "ˈdɛlɪˌɡeɪt; -ɡɪt; (for v.ˌ) ˈdɛlɪˌɡeɪt",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "delegate"
@@ -383,7 +383,7 @@
       ],
       "frequency" : 5778,
       "mnemonic" : "delegate(委托)+-ion(名词后缀)→代表团，委托",
-      "phonetic" : "delɪˈgeɪʃ(ə)n",
+      "phonetic" : "dɛlɪˈɡeɪʃən",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "delegation"
@@ -401,7 +401,7 @@
       ],
       "frequency" : 9922,
       "mnemonic" : "re-(=back：向后，往回)+-leg(=to send with a commission：因为某项委\n任而送走某人)→古代有流放、撤职、撇开、调动等含义，现在的含\n义为放在一个次等的位置→降级，贬职",
-      "phonetic" : "ˈrelɪgeɪt",
+      "phonetic" : "ˈɹɛlɪɡeɪt",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "relegate"
@@ -424,7 +424,7 @@
 
       ],
       "frequency" : 3217,
-      "phonetic" : "ˈlegəsɪ",
+      "phonetic" : "ˈleɪɡəsi",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "legacy"
@@ -442,7 +442,7 @@
       ],
       "frequency" : 3497,
       "mnemonic" : "mid-14c., logike, “branch of philosophy that treats of forms of thinking;",
-      "phonetic" : "ˈlɒdʒɪk",
+      "phonetic" : "ˈlɑdʒɪk",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "logic"
@@ -457,7 +457,7 @@
       ],
       "frequency" : 4625,
       "mnemonic" : "logic(逻辑)+-ic(形容词后缀)→逻辑的观点或推理方式",
-      "phonetic" : "ˈlɒdʒɪk(ə)l",
+      "phonetic" : "ˈlɑdʒɪkəɫ",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "logical"
@@ -487,7 +487,7 @@
       ],
       "frequency" : 14958,
       "mnemonic" : "log(=log：理由，想法，语言)+-istic(复合形容词后缀，-ist+-ic)→在组",
-      "phonetic" : "ləˈdʒɪstɪk",
+      "phonetic" : "loʊˈdʒɪs.tɪk",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "logistic"
@@ -519,7 +519,7 @@
       ],
       "frequency" : 19464,
       "mnemonic" : "pre-(在前)+dilect(=choose，love：选择，喜爱)+-ion(名词后缀)→相比\n于其他更喜欢的东西，在其他东西之前挑选出来→偏爱，钟爱",
-      "phonetic" : "ˈprɛdlˈɛkʃən",
+      "phonetic" : "ˌpɹiː.dəˈlɛk.ʃn̩",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "predilection"
@@ -545,7 +545,7 @@
       ],
       "frequency" : 16509,
       "mnemonic" : "syn- (=together：一起，共同)+dic- (=dict：judgment, justice, usage,\ncustom，判断，裁判，惯例)+-ate (名词后缀)→一起做判断、裁判，\n定下惯例→资本家或公司的组合共同组成大型商业机构→企业联合，",
-      "phonetic" : "ˈsɪndɪkət",
+      "phonetic" : "ˈsɪndɪkeɪt",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "syndicate"
@@ -585,7 +585,7 @@
       ],
       "frequency" : 16099,
       "mnemonic" : "syn-(=together：共同)+chron(=chronous：simultaneous，同时发生)+-\nize(动词后缀)→事情同时发生，使同步，在时间上一致",
-      "phonetic" : "ˈsɪŋkrənaɪz",
+      "phonetic" : "ˈsɪŋ.kɹə.naɪːz",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "synchronize"
@@ -601,7 +601,7 @@
       ],
       "frequency" : 3558,
       "mnemonic" : "lect-(=leg-：speak，to pick out words)+-ure(名词后缀，表行为)→说\n→挑剔地说，进行训诫，批评(instruct by oral discourse，to address",
-      "phonetic" : "ˈlektʃə",
+      "phonetic" : "ˈlɛk.t͡ʃɚ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "lecture"
@@ -616,7 +616,7 @@
       ],
       "frequency" : 10601,
       "mnemonic" : "lect-(=leg-：speak，to pick out words)+-ure(名词后缀，省略e)+-er(名\n词后缀，表人)→讲课者，演讲者",
-      "phonetic" : "ˈlektʃ(ə)rə",
+      "phonetic" : "ˈlɛktʃəɹə",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "lecturer"
@@ -631,7 +631,7 @@
       ],
       "frequency" : 1332,
       "mnemonic" : "lesson(来自拉丁语legere“to read”)→课，教训",
-      "phonetic" : "ˈles(ə)n",
+      "phonetic" : "ˈlɛsn̩",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "lesson"
@@ -648,7 +648,7 @@
       ],
       "frequency" : 3412,
       "mnemonic" : "leg-(=to speak：诵读)+-end(名词后缀)→被诵读的东西→传说，传奇\n(故事或人物)",
-      "phonetic" : "ˈledʒ(ə)nd",
+      "phonetic" : "ˈlɛdʒ.ənd",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "legend"
@@ -678,7 +678,7 @@
       ],
       "frequency" : 20092,
       "mnemonic" : "pro-(=before：在前，公开)+-logu-(说话)+-e→在正式开场之前说话→",
-      "phonetic" : "ˈprəʊlɒg",
+      "phonetic" : "ˈpɹoʊlɑɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "prologue"
@@ -696,7 +696,7 @@
       ],
       "frequency" : 16650,
       "mnemonic" : "lexicon (from lexis “a word, a phrase; reason; diction”)→全部词汇，词",
-      "phonetic" : "ˈleksɪk(ə)n",
+      "phonetic" : "ˈlɛk.sɪ.kɑn",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "lexicon"
@@ -716,7 +716,7 @@
       ],
       "frequency" : 6001,
       "mnemonic" : "可能缩写自logogram，代表字词的标记，图标，logo-(字，词)，词源",
-      "phonetic" : "ˈlɒgəʊ;ˈləʊgəʊ",
+      "phonetic" : "ˈloʊɡoʊ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "logo"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 10598,
       "mnemonic" : "mono-(=single，alone：单个的，单独地)+-logue(对话)→单独地、独\n自地说话→独白，独角戏",
-      "phonetic" : "ˈmɒn(ə)lɒg",
+      "phonetic" : "ˈmɑn(ə)lɑg",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "monologue"
@@ -746,7 +746,7 @@
       ],
       "frequency" : 11007,
       "mnemonic" : "dia-(=across, between：从一边到另一边，在……之间)+-lect(=speak：\n说)→即人与人之的对话交流，后用来指区域性的语言，即方言→方",
-      "phonetic" : "ˈdaɪəlekt",
+      "phonetic" : "ˈdaɪ.əˌlɛkt",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "dialect"
@@ -770,7 +770,7 @@
       ],
       "frequency" : 14248,
       "mnemonic" : "dia-(从一边到另一边，在……之间)+-lect-(诵读)+-ic(形容词后缀)→与\n地看待事物→辩证的，辨明真理的",
-      "phonetic" : "ˌdaɪəˈlektɪk",
+      "phonetic" : "ˌdaɪəˈlɛktɪk",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "dialectic"
@@ -800,7 +800,7 @@
       ],
       "frequency" : 16947,
       "mnemonic" : "dia-(=across，between：在……之间)+-log-(=speak：说话)→交互之间\n或在两人之间的说话→对话，会话",
-      "phonetic" : "ˈdaɪəlɒɡ",
+      "phonetic" : "ˈdaɪəlɑɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "dialog"
@@ -815,7 +815,7 @@
       ],
       "frequency" : 2818,
       "mnemonic" : "dia-(=across，between：在……之间)+logue(说)→交互之间或在两人\n之间的说话→对话，对白",
-      "phonetic" : "ˈdaɪəlɒg",
+      "phonetic" : "ˈdaɪəlɔɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "dialogue"
@@ -831,7 +831,7 @@
       ],
       "frequency" : 4999,
       "mnemonic" : "apo-(=away from, off：远离)+-logy(=speech：说，演讲)→a speech in\ndefence：为了远离过错，使看起来情有可原的演讲→道歉，辩护，",
-      "phonetic" : "əˈpɒlədʒɪ",
+      "phonetic" : "əˈpɑl.ə.dʒi",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "apology"
@@ -846,7 +846,7 @@
       ],
       "frequency" : 19889,
       "mnemonic" : "apology(道歉，辩护)+-ist(名词后缀，表专家)→辩解的专家→辩解者",
-      "phonetic" : "əˈpɒlədʒɪst",
+      "phonetic" : "əˈpɑl.ə.dʒɪst",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "apologist"
@@ -861,7 +861,7 @@
       ],
       "frequency" : 3782,
       "mnemonic" : "apology(道歉，辩护)+-ize(动词后缀)→自己证明有利，为自己进行辩\n护，申辩(defense，excuse, justification)→道歉，辩解",
-      "phonetic" : "əˈpɒlədʒaɪz",
+      "phonetic" : "əˈpɑləd͡ʒaɪz",
       "pos" : "vi.",
       "rootHint" : "leg",
       "word" : "apologize"
@@ -875,7 +875,7 @@
 
       ],
       "mnemonic" : "apology(道歉，谢罪)+-etic(形容词后缀)→道歉的，谢罪的，愧疚的",
-      "phonetic" : "əpɒləˈdʒetɪk",
+      "phonetic" : "əˌpɑləˈdʒɛtɪk",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "apologetic"
@@ -905,7 +905,7 @@
       ],
       "frequency" : 4494,
       "mnemonic" : "cata-(=down, completely：下去，彻底)+-log(=to say, account：说)→全\n部彻底的罗列出来→列表，目录",
-      "phonetic" : "ˈkætəlɒɡ",
+      "phonetic" : "ˈkætəlɑɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "catalog"
@@ -920,7 +920,7 @@
       ],
       "frequency" : 6899,
       "mnemonic" : "cata-(=down, completely：在下面，完全彻底)+-logue(=leg：to say,\naccount：说话)→在下面分述→目录，列举(尤指坏事)",
-      "phonetic" : "ˈkæt(ə)lɒg",
+      "phonetic" : "ˈkætəlɔɡ",
       "pos" : "vt.",
       "rootHint" : "leg",
       "word" : "catalogue"
@@ -938,7 +938,7 @@
       ],
       "frequency" : 10210,
       "mnemonic" : "ana-(=ana：upon, according to, 根据)+-log(=ratio, proportion)→根据\nanalogue)→说明两个物体有相似之处→相似物，类似物，模拟的",
-      "phonetic" : "ˈænəlɒɡ",
+      "phonetic" : "ˈæ.nə.lɔɡ",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "analog"
@@ -953,7 +953,7 @@
       ],
       "frequency" : 10475,
       "mnemonic" : "analog(类似物)+-ous(形容词后缀)→类似的",
-      "phonetic" : "əˈnæləgəs",
+      "phonetic" : "əˈnæl.ə.ɡəs",
       "pos" : "adj.",
       "rootHint" : "leg",
       "word" : "analogous"
@@ -970,7 +970,7 @@
       ],
       "frequency" : 5995,
       "mnemonic" : "ana-(根据)+-logy(=proportion：比例)→依据事物之间的相似度或比例\n→类似",
-      "phonetic" : "əˈnælədʒɪ",
+      "phonetic" : "əˈnæləd͡ʒi",
       "pos" : "n.",
       "rootHint" : "leg",
       "word" : "analogy"

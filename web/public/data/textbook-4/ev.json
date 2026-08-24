@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "ever-changing",
-      "phonetic": "'eva tfendʒŋ",
+      "phonetic": "ˈevərtʃˈeɪndʒɪŋ",
       "pos": "adj.",
       "definition": "adj. 千变万化的",
       "frequency": 15647,
@@ -30,7 +30,7 @@
     },
     {
       "word": "evergreen",
-      "phonetic": "'evəgri:n",
+      "phonetic": "ˈɛvəɡɹiːn",
       "pos": "n.",
       "definition": "常青树；常绿植物adj. 常绿的",
       "frequency": 11010,
@@ -44,7 +44,7 @@
     },
     {
       "word": "ever-increasing",
-      "phonetic": "'evs in'krisiŋ",
+      "phonetic": "ˈevə ɪnˈkriːsɪŋ",
       "pos": "adj.",
       "definition": "不断增长的",
       "frequency": 16652,
@@ -57,7 +57,7 @@
     },
     {
       "word": "everlasting",
-      "phonetic": "evə'la:strŋ",
+      "phonetic": "ˌɛvɚˈlæstɪŋ",
       "pos": "adj.",
       "definition": "永久的；永恒的；持续过长的",
       "frequency": 17745,
@@ -70,7 +70,7 @@
     },
     {
       "word": "ever-present",
-      "phonetic": "'evə,prezənt",
+      "phonetic": "ˈevəˌprezənt",
       "pos": "adj.",
       "definition": "无处不在的；无时无刻不在的",
       "frequency": 16294,
@@ -83,7 +83,7 @@
     },
     {
       "word": "never",
-      "phonetic": "'nevə",
+      "phonetic": "ˈnɛ.vɚ",
       "pos": "adv.",
       "definition": "从不；永不；决不；没有",
       "frequency": 138,
@@ -97,7 +97,7 @@
     },
     {
       "word": "nevertheless",
-      "phonetic": "nevəðə'les",
+      "phonetic": "ˈnɛvəðəlɛs",
       "pos": "adv.",
       "definition": "尽管如此；不过；然而",
       "frequency": 2605,
@@ -110,7 +110,7 @@
     },
     {
       "word": "age",
-      "phonetic": "eid3",
+      "phonetic": "eɪd͡ʒ",
       "pos": "vt.",
       "definition": "&vi.使显老n. ( 人的)年龄；(物的)年代；时代",
       "frequency": 387,
@@ -123,7 +123,7 @@
     },
     {
       "word": "aged",
-      "phonetic": "'erd31d",
+      "phonetic": "eɪdʒd",
       "pos": "adj.",
       "definition": "岁数为……的；年迈的n. 老年人",
       "frequency": 8644,
@@ -135,7 +135,7 @@
     },
     {
       "word": "age-old",
-      "phonetic": "'eidʒəuld",
+      "phonetic": "ˈeɪdʒˈoʊld",
       "pos": "adj.",
       "definition": "( 故事、传统、问题等)存在了数世纪的",
       "frequency": 13868,
@@ -147,7 +147,7 @@
     },
     {
       "word": "age-related",
-      "phonetic": "erd3 r'lertid",
+      "phonetic": "ˌeɪdʒrɪˈleɪtɪd",
       "pos": "adj.",
       "definition": "与年龄相关的",
       "frequency": 19047,
@@ -160,7 +160,7 @@
     },
     {
       "word": "eon",
-      "phonetic": "'i:an",
+      "phonetic": "ˈiː.ɑn",
       "pos": "n.",
       "definition": "漫长的时期；千万年",
       "frequency": 17818,
@@ -174,7 +174,7 @@
     },
     {
       "word": "eternal",
-      "phonetic": "r't3:n(ə)l;i:-",
+      "phonetic": "ɪˈtɝnəl",
       "pos": "adj.",
       "definition": "永恒的；无休止的",
       "frequency": 5700,
@@ -188,7 +188,7 @@
     },
     {
       "word": "eternally",
-      "phonetic": "i'ts:n(a)I ; I-",
+      "phonetic": "ɪˈtɜrnəlɪ",
       "definition": "永恒地",
       "frequency": 16049,
       "collocations": [
@@ -199,7 +199,7 @@
     },
     {
       "word": "eternity",
-      "phonetic": " i'ts:nti",
+      "phonetic": "ɪˈtɝnɪti",
       "pos": "n.",
       "definition": "永恒；永存；极长的时间",
       "frequency": 8533,
@@ -211,7 +211,7 @@
     },
     {
       "word": "longevity",
-      "phonetic": "lon'dʒevit",
+      "phonetic": "lɑnˈdʒɛ.vɪ.ti",
       "pos": "n.",
       "definition": "寿命；长寿，长命",
       "frequency": 9055,
@@ -224,7 +224,7 @@
     },
     {
       "word": "primeval",
-      "phonetic": "prar'mi:v(a)l",
+      "phonetic": "ˈpɹaɪˌmi.vəl",
       "pos": "adj.",
       "definition": "太古的；原始的；远古的；(情感)原始的；基本的；不假思索的(等于primaeval)19306",
       "mnemonic": "prim-(=first: 最初的)+-ev-(=an age: 时代)+-al ( 形容词后缀)\n→early in life: 原始的；远古的→ 引申义为原始的，基本的情感 搭配：the dense primaeval forests: 茂密的原始森林",
@@ -237,7 +237,7 @@
     },
     {
       "word": "medieval",
-      "phonetic": ",medr'ivl",
+      "phonetic": "mɪd.ˈiː.vəl",
       "pos": "adj.",
       "definition": "中世纪的(约公元1000到1450年)5130",
       "mnemonic": "medi-(=mid-: 中间)+-ev- (时期；年代)+-al ( 形容词后缀) → 中\n间时代的→ 中世纪的",
@@ -250,7 +250,7 @@
     },
     {
       "word": "utopia",
-      "phonetic": "ju:'toupiə",
+      "phonetic": "juˈtoʊ.pi.ə",
       "pos": "n.",
       "definition": "理想社会；乌托邦(理想中最美好的社会)14956",
       "mnemonic": "希腊文ou ‘not,no' ( 没 有 ) 和topos ‘place' ( 地方)两字组成的，意 思是no place或nowhere, 即“乌有之乡”,汉语一般音译为“乌托 邦”,常作为“空想”的同义语或喻指\"理想国”、\"理想的社 会”、“空想的社会改良计划”等。",
@@ -261,7 +261,7 @@
     },
     {
       "word": "hygiene",
-      "phonetic": "'hardzi:n",
+      "phonetic": "ˈhaɪˌdʒiːn",
       "pos": "n.",
       "definition": "卫生",
       "frequency": 11094,
@@ -275,7 +275,7 @@
     },
     {
       "word": "no",
-      "phonetic": "nəu",
+      "phonetic": "noʊ",
       "pos": "adv.",
       "definition": "(用于否定回答)不；没有；(用于拒绝建议、请求或许可) 不行；(表示禁止)不要",
       "frequency": 93,
@@ -300,7 +300,7 @@
     },
     {
       "word": "nay",
-      "phonetic": "ner",
+      "phonetic": "neɪ",
       "pos": "adv.",
       "definition": "否决；反对；不",
       "frequency": 19010,
@@ -310,7 +310,7 @@
     },
     {
       "word": "naysayer",
-      "phonetic": "'neiserə",
+      "phonetic": "ˈneɪ.ˌseɪ.ɚ",
       "pos": "n.",
       "definition": "否定者；老是唱反调的人",
       "frequency": 20188,
@@ -320,7 +320,7 @@
     },
     {
       "word": "every",
-      "phonetic": "'evri",
+      "phonetic": "ˈevri",
       "pos": "adj.",
       "definition": "&det.每个；每个的；(时间段)每隔……的；(一定数目 中)每……之中的；全部的",
       "frequency": 172,
@@ -351,7 +351,7 @@
     },
     {
       "word": "everyday",
-      "phonetic": "'evrider;-'der",
+      "phonetic": "ˈɛvɹiˌdeɪ",
       "pos": "adj.",
       "definition": "日常的",
       "frequency": 3319,
@@ -363,7 +363,7 @@
     },
     {
       "word": "everyone",
-      "phonetic": "'evriwʌn",
+      "phonetic": "ˈɛv.ɹi.wʌn",
       "pos": "pron.",
       "definition": "(某群体中的)所有人；人人",
       "frequency": 530,
@@ -373,7 +373,7 @@
     },
     {
       "word": "everywhere",
-      "phonetic": "'evriweə",
+      "phonetic": "ɛv.ɹi.(h)wɛɹ",
       "pos": "adv",
       "definition": "adv . (某区域内的)所有地方；到处；遍地(强调在 某地数量之多)1953",
       "collocations": [
@@ -386,7 +386,7 @@
     },
     {
       "word": "each",
-      "phonetic": "i:tʃ",
+      "phonetic": "it͡ʃ",
       "pos": "pron.",
       "definition": "&adv.&quant 每；每个；每个地；每一个",
       "frequency": 192,
@@ -401,7 +401,7 @@
     },
     {
       "word": "prove",
-      "phonetic": "pru:v",
+      "phonetic": "pɹuːv",
       "pos": "vt.",
       "definition": "证明；证实；显示出是",
       "frequency": 869,
@@ -416,7 +416,7 @@
     },
     {
       "word": "proven",
-      "phonetic": "'pru:vən",
+      "phonetic": "ˈpɹuːvən",
       "pos": "v.",
       "definition": "被证实的；经验证的",
       "frequency": 7860,
@@ -430,7 +430,7 @@
     },
     {
       "word": "proof",
-      "phonetic": "pru:f",
+      "phonetic": "pɹuf",
       "pos": "n.",
       "definition": "证明；证据；校样；(数学)验算；验证 adj. 能抵抗/防御 某物 vt.把(某材料)作防水[油]处理；校对，校阅",
       "frequency": 2887,
@@ -445,7 +445,7 @@
     },
     {
       "word": "waterproof",
-      "phonetic": "'wɔ:topru:f",
+      "phonetic": "ˈwɔtəpruːf",
       "pos": "adj.",
       "definition": "防水的；不透水的n. 防水衣物；雨衣",
       "frequency": 12307,
@@ -460,7 +460,7 @@
     },
     {
       "word": "foolproof",
-      "phonetic": "'fu:lpru:f",
+      "phonetic": "ˈfuːl ˌpɹuːf",
       "pos": "adj.",
       "definition": "( 方法、计划、系统等)十分简单的；容易操作 的；万无一失的",
       "frequency": 19321,
@@ -473,7 +473,7 @@
     },
     {
       "word": "approve",
-      "phonetic": "ə'pru:v",
+      "phonetic": "əˈpɹuːv",
       "pos": "vt.",
       "definition": "批准；认可 vi. 赞成；同意 vt. 使(废品或公共土地)升值",
       "frequency": 2070,
@@ -492,7 +492,7 @@
     },
     {
       "word": "approval",
-      "phonetic": "ə 'pru:v(a)l",
+      "phonetic": "əˈpɹuvəl",
       "pos": "n.",
       "definition": "赞同；赞赏；批准",
       "frequency": 2572,
@@ -508,7 +508,7 @@
     },
     {
       "word": "approved",
-      "phonetic": "ə'pru:vd",
+      "phonetic": "əˈpɹuːvd",
       "pos": "adj.",
       "definition": "(方法或行为)被正式认可的；核准的",
       "frequency": 10334,
@@ -522,7 +522,7 @@
     },
     {
       "word": "approvingly",
-      "phonetic": "əp'ruvinli",
+      "phonetic": "əˈpruːvɪŋlɪ",
       "pos": "adv.",
       "definition": "( 反应、话语等)表示赞许地；表示嘉许地",
       "frequency": 19285,
@@ -535,7 +535,7 @@
     },
     {
       "word": "disprove",
-      "phonetic": "dis'pru:v",
+      "phonetic": "dɪsˈpɹuːv",
       "pos": "vt.",
       "definition": "证明(想法、信念或理论)为误",
       "frequency": 16496,
@@ -548,7 +548,7 @@
     },
     {
       "word": "disapprove",
-      "phonetic": "drsə'pru:v",
+      "phonetic": "dɪsəˈpɹuːv",
       "pos": "vt.",
       "definition": "不赞同；反对",
       "frequency": 10937,
@@ -561,7 +561,7 @@
     },
     {
       "word": "disapproving",
-      "phonetic": ",diso'pru:viŋ",
+      "phonetic": "ˌdɪsəˈpruːvɪŋ",
       "pos": "adj.",
       "definition": "不赞同的；不喜欢的",
       "frequency": 19409,
@@ -572,7 +572,7 @@
     },
     {
       "word": "disapproval",
-      "phonetic": "disə'pru:vl",
+      "phonetic": "[dɪsəˈpɹuːvəɫ]",
       "pos": "n.",
       "definition": "n. 不赞成；反对",
       "frequency": 10617,
@@ -589,7 +589,7 @@
     },
     {
       "word": "probe",
-      "phonetic": "prəub",
+      "phonetic": "pɹoʊb",
       "pos": "vt.",
       "definition": "调查；搜索vi. 用探针探查 n. 调查；探针",
       "frequency": 5241,
@@ -607,7 +607,7 @@
     },
     {
       "word": "probing",
-      "phonetic": "'prəubɪŋ",
+      "phonetic": "ˈproʊbɪŋ",
       "pos": "adj.",
       "definition": "探究的；追根究底的；(观察)专注敏锐的；仔细观察的",
       "frequency": 12305,
@@ -623,7 +623,7 @@
     },
     {
       "word": "probation",
-      "phonetic": "prə'beɪʃ(ən",
+      "phonetic": "ˌpɹoʊˈbeɪʃən",
       "pos": "n.",
       "definition": "缓刑期；试用期",
       "frequency": 7315,
@@ -637,7 +637,7 @@
     },
     {
       "word": "probable",
-      "phonetic": "'probəb(a)l",
+      "phonetic": "ˈpɹɑbəbl̩",
       "pos": "adj.",
       "definition": "可能存在的；大概的 n. 很有可能入选的人；很有可能获胜的人",
       "frequency": 6881,
@@ -651,7 +651,7 @@
     },
     {
       "word": "probably",
-      "phonetic": "'prpbəbli",
+      "phonetic": "ˈpɹɑbli",
       "pos": "adv.",
       "definition": "可能(为事实)地；可能(用以缓和语气)399",
       "mnemonic": "probable (可能存在的；大概的)+-ly ( 副词后缀) → 可能(为事 实)地；可能(用以缓和语气)",
@@ -663,7 +663,7 @@
     },
     {
       "word": "probability",
-      "phonetic": "probə'brlitr",
+      "phonetic": "pɹɑbəˈbɪlɪɾi",
       "pos": "n.",
       "definition": "可能性；很可能发生的事；概率",
       "frequency": 5170,
@@ -677,7 +677,7 @@
     },
     {
       "word": "expert",
-      "phonetic": "e'ksps:t",
+      "phonetic": "ˈɛkspɚt",
       "pos": "n.",
       "definition": "专家adj. 技术娴熟的；行家的；专业的",
       "frequency": 902,
@@ -691,7 +691,7 @@
     },
     {
       "word": "expertly",
-      "phonetic": "'ekspətli",
+      "phonetic": "ˈekspɜrtlɪ",
       "pos": "adv.",
       "definition": "熟练地",
       "frequency": 15897,
@@ -704,7 +704,7 @@
     },
     {
       "word": "expertise",
-      "phonetic": ",eksps:'ti:z",
+      "phonetic": "ˌɛkspɚˈtiːs",
       "pos": "n.",
       "definition": "专业技能；专业知识",
       "frequency": 3936,
@@ -718,7 +718,7 @@
     },
     {
       "word": "experience",
-      "phonetic": "ik'sprərrons",
+      "phonetic": "ɪkˈspɪɹ.i.əns",
       "pos": "n.",
       "definition": "经验；阅历；感受vt.经历；感受",
       "frequency": 421,
@@ -732,7 +732,7 @@
     },
     {
       "word": "experienced",
-      "phonetic": "ik'sprərionst",
+      "phonetic": "ɪkˈspɪɹ.i.ənst",
       "pos": "adj.",
       "definition": "有经验的；老练的",
       "frequency": 4379,
@@ -745,7 +745,7 @@
     },
     {
       "word": "inexperience",
-      "phonetic": "inik'spiəriəns;inek-",
+      "phonetic": "ˌɪnɪkˈspɪrriəns",
       "pos": "n.",
       "definition": "缺乏经验",
       "frequency": 18160,
@@ -758,7 +758,7 @@
     },
     {
       "word": "inexperienced",
-      "phonetic": "inrk'spironst",
+      "phonetic": "ɪnəkˈspɪɹi.ənst",
       "pos": "adj.",
       "definition": "缺乏经验的",
       "frequency": 10895,
@@ -771,7 +771,7 @@
     },
     {
       "word": "experiential",
-      "phonetic": "ik,sprorr'entʃ(a)l;ek-",
+      "phonetic": "ɪkˌspɪɹiˈɛnʃəl",
       "pos": "adj.",
       "definition": "经验的；来自经验的",
       "frequency": 14212,
@@ -784,7 +784,7 @@
     },
     {
       "word": "empirical",
-      "phonetic": "em'pirik(a)l;im- ",
+      "phonetic": "ɪmˈpɪɹɪkəl",
       "pos": "adj.",
       "definition": "以经验为依据的；根据经验的",
       "frequency": 5356,
@@ -799,7 +799,7 @@
     },
     {
       "word": "empirically",
-      "phonetic": "m'prrikli",
+      "phonetic": "ɪmˈpɪrɪklɪ",
       "pos": "adv.",
       "definition": "以经验为主地",
       "frequency": 13229,
@@ -812,7 +812,7 @@
     },
     {
       "word": "experiment",
-      "phonetic": "ik'sperim(a)nt;ek-",
+      "phonetic": "ɪk.ˈspɛɹ.ə.mənt",
       "pos": "n.",
       "definition": "实验；尝试 vi.做实验； 尝试",
       "frequency": 2004,
@@ -828,7 +828,7 @@
     },
     {
       "word": "experimentally",
-      "phonetic": "rk,sperə'mentli",
+      "phonetic": "ɪkˌsperɪˈmentəlɪ",
       "pos": "adv.",
       "definition": "实验(性)地；作为试验地；试探 (性)地",
       "frequency": 16977,
@@ -842,7 +842,7 @@
     },
     {
       "word": "experimentation",
-      "phonetic": "ik,sperimen'terʃən",
+      "phonetic": "ɪkˌsperɪmenˈteɪʃn",
       "pos": "n.",
       "definition": "实验；试验；(性体验或吸毒等的) 尝试",
       "frequency": 9205,
@@ -856,7 +856,7 @@
     },
     {
       "word": "experimenter",
-      "phonetic": "ik'sperɔ,ments",
+      "phonetic": "ɪkˈsperɪməntər",
       "pos": "n.",
       "definition": "实验者；试验者",
       "frequency": 13059,
@@ -870,7 +870,7 @@
     },
     {
       "word": "fear",
-      "phonetic": "fiə",
+      "phonetic": "fɪɹ",
       "pos": "n.",
       "definition": "害怕；担忧；(发生坏事的)可能性 vt. 害怕；担心 vi. 担心",
       "frequency": 988,
@@ -886,7 +886,7 @@
     },
     {
       "word": "fearful",
-      "phonetic": "'fiaful;-f(a)l",
+      "phonetic": "ˈfɪɹfəl",
       "pos": "adj.",
       "definition": "害怕的；极严重的；极糟糕的",
       "frequency": 6291,
@@ -901,7 +901,7 @@
     },
     {
       "word": "fearless",
-      "phonetic": "'fiəlis",
+      "phonetic": "ˈfɪɹləs",
       "pos": "adj.",
       "definition": "无畏的",
       "frequency": 11796,
@@ -915,7 +915,7 @@
     },
     {
       "word": "fearsome",
-      "phonetic": "'fios(a)m",
+      "phonetic": "ˈfɪrsəm",
       "pos": "adj.",
       "definition": "可怕的；骇人的；令人生畏的",
       "frequency": 15290,
@@ -928,7 +928,7 @@
     },
     {
       "word": "formidable",
-      "phonetic": "'fɔ:midab(a)l;fɔ:'mid-",
+      "phonetic": "fɔːɹˈmɪdəbəl",
       "pos": "adj.",
       "definition": "可怕的；令人敬畏的；难对付的",
       "frequency": 6323,
@@ -945,7 +945,7 @@
     },
     {
       "word": "peril",
-      "phonetic": "'perl;-r(a)l",
+      "phonetic": "ˈpɛɹəl",
       "pos": "n.",
       "definition": "极大危险",
       "frequency": 7761,
@@ -962,7 +962,7 @@
     },
     {
       "word": "perilous",
-      "phonetic": "'periləs",
+      "phonetic": "pɛɹ.l̩.əs",
       "pos": "adj.",
       "definition": "险恶的；非常危险的",
       "frequency": 13169,
@@ -973,7 +973,7 @@
     },
     {
       "word": "imperil",
-      "phonetic": "m'peril; -r(a)l",
+      "phonetic": "ɪmˈpɛɹ əl",
       "pos": "vt.",
       "definition": "使陷于危险；危及",
       "frequency": 18257,
@@ -986,7 +986,7 @@
     },
     {
       "word": "panic",
-      "phonetic": "'pænik",
+      "phonetic": "ˈpænɪk",
       "pos": "n.",
       "definition": "恐慌，惊慌；大恐慌adj.恐慌的",
       "frequency": 4353,
@@ -999,7 +999,7 @@
     },
     {
       "word": "panicky",
-      "phonetic": "'pæniki",
+      "phonetic": "ˈpænɪki",
       "pos": "adj.",
       "definition": "恐惧的；惊惶的，紧张不安的",
       "frequency": 19864,
@@ -1011,7 +1011,7 @@
     },
     {
       "word": "pirate",
-      "phonetic": "'parərət",
+      "phonetic": "ˈpaɪ̯(ə)ɹət",
       "pos": "n.",
       "definition": "海盗 vt. 盗版( CD 、DVD 、书籍、计算机程序等) adj. 盗版的",
       "frequency": 7322,
@@ -1025,7 +1025,7 @@
     },
     {
       "word": "piracy",
-      "phonetic": "'parəs",
+      "phonetic": "ˈpaɪɹəsi",
       "pos": "n.",
       "definition": "海盗行为；盗版行为",
       "frequency": 14050,
@@ -1046,7 +1046,7 @@
     },
     {
       "word": "harbor",
-      "phonetic": "'ha:bə",
+      "phonetic": "ˈhɑɹbɚ",
       "pos": "vt.",
       "definition": "长期怀有；窝藏 n. 港口",
       "frequency": 5865,
@@ -1062,7 +1062,7 @@
     },
     {
       "word": "porch",
-      "phonetic": "pɔ:tʃ",
+      "phonetic": "pɔɹtʃ",
       "pos": "n.",
       "definition": "( 房子或教堂前门外有顶的)入口处，门廊；(房屋前后 的)游廊，走廊；阳台",
       "frequency": 3067,
@@ -1077,7 +1077,7 @@
     },
     {
       "word": "opportunity",
-      "phonetic": ",ppə'tju:nətr",
+      "phonetic": "ˌɑpɚˈtunəti",
       "pos": "n.",
       "definition": "机会；时机",
       "frequency": 626,
@@ -1093,7 +1093,7 @@
     },
     {
       "word": "opportunistic",
-      "phonetic": "ppətju:'nistik",
+      "phonetic": "ˌɑpəɹˌtuːˈnɪstɪk",
       "pos": "adj.",
       "definition": "(某人的行为)机会主义的；投机取巧的；机会致病性的(对免疫系统差的人有害)15421",
       "mnemonic": "opportuni(=opportunity: 机会)+-ist ( 名词后缀，表示人)+ic ( 形 容词后缀)→与机会主义者有关的→机会主义的；投机取巧的；机会 致病性的(对免疫系统差的人有害)",
@@ -1108,7 +1108,7 @@
     },
     {
       "word": "export",
-      "phonetic": "'ekspɔ:t;Ik'-",
+      "phonetic": "ˈɛks.pɔɹt",
       "pos": "vt.",
       "definition": "出口；输出；(在计算机中)导出 n. 出口商品",
       "frequency": 3488,
@@ -1122,7 +1122,7 @@
     },
     {
       "word": "exporter",
-      "phonetic": "ik'spɔ:tə",
+      "phonetic": "ekˈspɔtər",
       "pos": "n.",
       "definition": "出口国；出口公司；出口商",
       "frequency": 11166,
@@ -1135,7 +1135,7 @@
     },
     {
       "word": "import",
-      "phonetic": "m'pɔ:t;'im-",
+      "phonetic": "ˈɪm.pɔɹt",
       "pos": "vt.",
       "definition": "&vi. 进口 vt. 导 入n. 进口；进口商品；重要性",
       "frequency": 4087,
@@ -1151,7 +1151,7 @@
     },
     {
       "word": "importer",
-      "phonetic": " m'pərts",
+      "phonetic": "ɪmˈpɔtər",
       "pos": "n.",
       "definition": "进口国；进口公司；进口商",
       "frequency": 14290,
@@ -1165,7 +1165,7 @@
     },
     {
       "word": "importation",
-      "phonetic": ",impɔ:'terʃən",
+      "phonetic": "ˌɪmpɔˈteɪʃn",
       "pos": "n.",
       "definition": "〔 对新鲜事物的〕引进；舶来品，从外国引进的事物；(商业性质的)进口；输入",
       "frequency": 17925,
@@ -1182,7 +1182,7 @@
     },
     {
       "word": "imported",
-      "phonetic": "im'pɔ:t;'im-1d",
+      "phonetic": "ɪmˈpɔɹtɪd",
       "pos": "adj.",
       "definition": "进口的；输入的",
       "frequency": 7938,
@@ -1196,7 +1196,7 @@
     },
     {
       "word": "important",
-      "phonetic": " m'pɔ:t(o)nt",
+      "phonetic": "ɪmˈpɔɹtənt",
       "pos": "adj.",
       "definition": "重要的；有势力的；有地位的",
       "frequency": 267,
@@ -1210,7 +1210,7 @@
     },
     {
       "word": "importance",
-      "phonetic": "m'pɔ:t(a)ns",
+      "phonetic": "ɪmˈpɔɹtəns",
       "pos": "n.",
       "definition": "重要；重要地位；名望",
       "frequency": 1582,
@@ -1223,7 +1223,7 @@
     },
     {
       "word": "importantly",
-      "phonetic": "im'pɔ:t(ə)ntli",
+      "phonetic": "ɪmˈpɔtntli",
       "pos": "adv.",
       "definition": "重要的是；煞有介事地；自以为了不起地",
       "frequency": 4916,
@@ -1238,7 +1238,7 @@
     },
     {
       "word": "unimportant",
-      "phonetic": "ʌnim'pɔ:t(a)nt",
+      "phonetic": "ˌʌnɪmˈpɔtnt",
       "pos": "adj.",
       "definition": "不重要的；无意义的；微不足道的",
       "frequency": 13147,
@@ -1255,7 +1255,7 @@
     },
     {
       "word": "all-important",
-      "phonetic": "ɔ:lim'pɔ:tənt ",
+      "phonetic": "ˈɔlimˈpɔtənt",
       "pos": "adj.",
       "definition": "生死攸关的；至关紧要的",
       "frequency": 17087,
@@ -1269,7 +1269,7 @@
     },
     {
       "word": "deport",
-      "phonetic": "dr'pɔ:t",
+      "phonetic": "dɪˈpɔɹt",
       "pos": "vt.",
       "definition": "把(违法者或无合法居留权的人)驱逐出境；递解出境",
       "frequency": 11103,
@@ -1284,7 +1284,7 @@
     },
     {
       "word": "deportation",
-      "phonetic": "di:pɔ'terʃ(o)n",
+      "phonetic": "diːˌpɔˈteɪʃən",
       "pos": "n.",
       "definition": "驱逐出境",
       "frequency": 12006,
@@ -1299,7 +1299,7 @@
     },
     {
       "word": "passport",
-      "phonetic": "'pa:spɔ:t",
+      "phonetic": "ˈpæspɔɹt",
       "pos": "n.",
       "definition": "护照；进身之阶；(获取成功或幸福的)途径，手段",
       "frequency": 6332,
@@ -1313,7 +1313,7 @@
     },
     {
       "word": "portable",
-      "phonetic": "'pɔ:təb(a)l",
+      "phonetic": "ˈpɔɹtəbl̩",
       "pos": "adj.",
       "definition": "便携式的 n. 便携式设备(如笔记本电脑)5507",
       "mnemonic": "port-(=to carry,transport: 携带；运输)+-able ( 形容词词缀) → 便 于携带的；手提式的\nport- (运输；携带)+ folio(=leaf,sheet: 树叶；纸张) →携带、运 输纸张(的工具) →文件夹；公事包；文件的组合 →代表作品集 → 引 申义为持有的有价证券组合；政府的官方文件→投资组合；(部长或 大臣的)职责；系列产品",
@@ -1330,7 +1330,7 @@
     },
     {
       "word": "sport",
-      "phonetic": "spɔ:t",
+      "phonetic": "spɔɹt",
       "pos": "n.",
       "definition": "运动；野外运动〔尤指打猎或钓鱼〕;乐于助人者，开朗大 度的人 vt. 炫耀某物；卖弄某物 vi.: 嬉戏；玩耍",
       "frequency": 666,
@@ -1346,7 +1346,7 @@
     },
     {
       "word": "sporty",
-      "phonetic": "'spɔ:ti",
+      "phonetic": "ˈspɔɹti",
       "pos": "adj.",
       "definition": "爱好(或擅长)体育运动的；(衣服)漂亮的，潇洒 的；车形优美速度快的",
       "frequency": 14808,
@@ -1361,7 +1361,7 @@
     },
     {
       "word": "sporting",
-      "phonetic": "'spɔ:tŋ",
+      "phonetic": "ˈspɔtɪŋ",
       "pos": "adj.",
       "definition": "体育运动的；有良好体育风尚的",
       "frequency": 6637,
@@ -1374,7 +1374,7 @@
     },
     {
       "word": "sportsman",
-      "phonetic": "'spɔ:tsmən",
+      "phonetic": "ˈspɔtsmən",
       "pos": "n.",
       "definition": "运动员；参加体育运动者；户外运动爱好者(如 爱好打猎、钓鱼的人)14989",
       "mnemonic": "sports (体育运动)+man ( 人) →运动员；参加体育运动者",
@@ -1387,7 +1387,7 @@
     },
     {
       "word": "sportsmanship",
-      "phonetic": "'spɔ:tsmənʃip",
+      "phonetic": "ˈspɔtsmənʃɪp",
       "pos": "n.",
       "definition": "运动员风范；体育精神",
       "frequency": 19445,
@@ -1402,7 +1402,7 @@
     },
     {
       "word": "sportswriter",
-      "phonetic": "'spɔ:ts,rartə",
+      "phonetic": "ˈspɔtsˌraɪtə",
       "pos": "n.",
       "definition": "体育(新闻)记者； 体育专栏记者",
       "frequency": 17371,
@@ -1415,7 +1415,7 @@
     },
     {
       "word": "report",
-      "phonetic": "ri'pɔ:t",
+      "phonetic": "ɹɪˈpɔɹt",
       "pos": "vt.",
       "definition": "报告；告发 vi. ( 工作或职责上)汇报；报到；隶属；被……领导 n. ( 报刊或广播电视上的)报道；(调查)报告；告知； 传闻；成绩单",
       "frequency": 451,
@@ -1429,7 +1429,7 @@
     },
     {
       "word": "reported",
-      "phonetic": "ri'pɔ:trd",
+      "phonetic": "ɹɪˈpɔɹtɪd",
       "pos": "adj.",
       "definition": "报道的",
       "frequency": 6397,
@@ -1442,7 +1442,7 @@
     },
     {
       "word": "reportedly",
-      "phonetic": "ri'pɔ:tidli",
+      "phonetic": "ɹɪˈpɔtɪdli",
       "pos": "adv.",
       "definition": "据说；据报道",
       "frequency": 4445,
@@ -1456,7 +1456,7 @@
     },
     {
       "word": "reporter",
-      "phonetic": "rɪ'pɔ:tə",
+      "phonetic": "ɹɪˈpɔɹtɚ",
       "pos": "n.",
       "definition": "记者",
       "frequency": 1294,
@@ -1474,7 +1474,7 @@
     },
     {
       "word": "transport",
-      "phonetic": "træn'spɔ:t; tra:n-",
+      "phonetic": "ˈtrænspɔt",
       "pos": "n.",
       "definition": "交通运输系统；运输方式；(货物的)运 输；运送； (运送士兵或供给品的)运输船；运输机 vt. 运输，运送 (货物、人等)4693",
       "mnemonic": "trans-(=beyond,across: 越过；横过；穿过)+ port(=to carry: 运\n输；携带) →carry or convey across,carry from one place to another: 从一个地方运输到另一个地方→交通运输系统；运输方式；运输机； 运输(货物、人等)",
@@ -1491,7 +1491,7 @@
     },
     {
       "word": "transportation",
-      "phonetic": "trænspɔ:'terʃ(o)n;tra:ns -",
+      "phonetic": "tɹænspɚˈteɪʃən",
       "pos": "n.",
       "definition": "交通运输系统；运输方式；(货 物的)运输；运送",
       "frequency": 2395,
@@ -1506,7 +1506,7 @@
     },
     {
       "word": "support",
-      "phonetic": "sə'pɔ:t",
+      "phonetic": "səˈpɔɹt",
       "pos": "vt.",
       "definition": "支持；资助；供养；证实；支撑；倚着；支持(运动队 等 )n. 支持；(给处境困难或不幸者的)帮助；(给组织的)资助； 证明；支撑物；倚靠",
       "frequency": 525,
@@ -1528,7 +1528,7 @@
     },
     {
       "word": "supporter",
-      "phonetic": "sə'pɔ:tə",
+      "phonetic": "-ɾɚ",
       "pos": "n.",
       "definition": "支持者；拥护者",
       "frequency": 2459,
@@ -1539,7 +1539,7 @@
     },
     {
       "word": "supporting",
-      "phonetic": "sə'pɔ:trŋ",
+      "phonetic": "səˈpɔɹtɪŋ",
       "pos": "adj.",
       "definition": "adj. (演员、角色)配角的；能确证的；支撑的；承 重的",
       "frequency": 5581,
@@ -1559,7 +1559,7 @@
     },
     {
       "word": "supportive",
-      "phonetic": "sə'pɔ:tiv",
+      "phonetic": "səˈpɔɹtɪv",
       "pos": "adj.",
       "definition": "支持的；给予帮助[鼓励]的(含褒义)4569",
       "mnemonic": "support (支持；帮助)+-ive ( 形容词后缀) →支持的；给予帮助[鼓 励]的(含褒义)",
@@ -1572,7 +1572,7 @@
     },
     {
       "word": "purport",
-      "phonetic": "pə'pɔ:t",
+      "phonetic": "ˈpɚpɔɹt",
       "pos": "vt.",
       "definition": "声称；据称；(某人言论的)大意；主旨",
       "frequency": 11634,
@@ -1588,7 +1588,7 @@
     },
     {
       "word": "purported",
-      "phonetic": "pə'portid ",
+      "phonetic": "pəɹˈpoʊɹ.tɪd",
       "pos": "adj.",
       "definition": "据称的；传言的",
       "frequency": 16621,
@@ -1599,7 +1599,7 @@
     },
     {
       "word": "purportedly",
-      "phonetic": "'pspɔtrdli",
+      "phonetic": "pə(ɹ)ˈpɔ(ɹ).təd.li",
       "definition": "据称；据传",
       "frequency": 16858,
       "collocations": [
@@ -1611,7 +1611,7 @@
     },
     {
       "word": "rapport",
-      "phonetic": "ræ'p ɔ:",
+      "phonetic": "ɹæˈpoʊɹ",
       "pos": "n.",
       "definition": "和睦；融洽；友善",
       "frequency": 12398,
@@ -1625,7 +1625,7 @@
     },
     {
       "word": "ferry",
-      "phonetic": "'feri",
+      "phonetic": "ˈfɛɹi",
       "pos": "n.",
       "definition": "渡船；轮船 vt. ( 通常指定时往返两地间)渡运；摆渡",
       "frequency": 6592,
@@ -1641,7 +1641,7 @@
     },
     {
       "word": "portal",
-      "phonetic": "'pɔ:t(ə)l",
+      "phonetic": "ˈpɔːɹtəl",
       "pos": "n.",
       "definition": "门户网站；( 一 般用复数)(建筑物高大壮观的)大 门；正门",
       "frequency": 9413,
@@ -1655,7 +1655,7 @@
     },
     {
       "word": "porter",
-      "phonetic": "'pɔ:tə",
+      "phonetic": "ˈpɔɹtɚ",
       "pos": "n.",
       "definition": "门卫；(尤指火车站、机场或旅馆)行李员，搬运工；(医院里护送病人的)护工；(尤指卧铺车厢的)列车服务员",
       "frequency": 13409,
@@ -1670,7 +1670,7 @@
     },
     {
       "word": "pore",
-      "phonetic": "pɔ:",
+      "phonetic": "pɔɹ",
       "pos": "n.",
       "definition": "( 皮肤的)毛孔；(植物表面的)气孔；细孔 vi. 仔细阅读；凝 视，注视",
       "frequency": 11871,
@@ -1684,7 +1684,7 @@
     },
     {
       "word": "porous",
-      "phonetic": "'pɔ:rəs",
+      "phonetic": "ˈpɔːɹəs",
       "pos": "adj.",
       "definition": "多孔的；能渗透的，透水[气]的；多漏洞的；松懈的",
       "frequency": 14033,
@@ -1698,7 +1698,7 @@
     },
     {
       "word": "fare",
-      "phonetic": "feə",
+      "phonetic": "feɚ",
       "pos": "n.",
       "definition": "( 公共汽车；火车；飞机等的)票价；〔尤指餐厅或特殊场合吃的〕饭菜；出租车乘客vi. 进展",
       "frequency": 4830,
@@ -1714,7 +1714,7 @@
     },
     {
       "word": "airfare",
-      "phonetic": "'eəfea(r)",
+      "phonetic": "ˈerferr",
       "pos": "n.",
       "definition": "飞机票价",
       "frequency": 16401,
@@ -1727,7 +1727,7 @@
     },
     {
       "word": "farewell",
-      "phonetic": "fea'wel",
+      "phonetic": "fɛəɹˈwɛl",
       "pos": "n.",
       "definition": "告别；辞行",
       "frequency": 8277,
@@ -1741,7 +1741,7 @@
     },
     {
       "word": "warfare",
-      "phonetic": "'wɔ:feə",
+      "phonetic": "ˈwɔɹfɛɹ",
       "pos": "n.",
       "definition": "战争；冲突",
       "frequency": 5128,
@@ -1756,7 +1756,7 @@
     },
     {
       "word": "welfare",
-      "phonetic": "'welfeə",
+      "phonetic": "ˈwɛlˌfɛə",
       "pos": "n.",
       "definition": "幸福，健康；(政府给予的)福利；(政府向穷人或失 业者发放的)救济金adj. 福利的",
       "frequency": 1947,
@@ -1772,7 +1772,7 @@
     },
     {
       "word": "thoroughfare",
-      "phonetic": "'θArəfeə",
+      "phonetic": "ˈθʌɹəfɛː",
       "pos": "n.",
       "definition": "大街；大道",
       "frequency": 15642,
@@ -1785,7 +1785,7 @@
     },
     {
       "word": "fanfare",
-      "phonetic": "'fænfeə ",
+      "phonetic": "ˈfænfɛəɹ",
       "pos": "n.",
       "definition": "( 宣告特别事件时演奏的)响亮短曲；大张旗鼓的宣传",
       "frequency": 13674,
@@ -1800,7 +1800,7 @@
     },
     {
       "word": "fern",
-      "phonetic": "f3:n",
+      "phonetic": "fɝn",
       "pos": "n.",
       "definition": "蕨类植物",
       "frequency": 9167,
@@ -1814,7 +1814,7 @@
     },
     {
       "word": "press",
-      "phonetic": "pres",
+      "phonetic": "pɹɛs",
       "pos": "vt.",
       "definition": "推；挤；按压；极力劝说；有力陈述；硬塞；熨 vt.&vi. 用力 按；(对男人)强征服兵役 vi.press for竭力争取 n. 按压；压力机；报 纸；新闻工作者；印刷机；抓丁入伍",
       "frequency": 1182,
@@ -1835,7 +1835,7 @@
     },
     {
       "word": "pressing",
-      "phonetic": "'presiŋ",
+      "phonetic": "ˈpɹɛsɪŋ",
       "pos": "adj.",
       "definition": "紧迫的；紧急的",
       "frequency": 7276,
@@ -1849,7 +1849,7 @@
     },
     {
       "word": "hard-pressed",
-      "phonetic": "'ha:dprest",
+      "phonetic": "ˌhɑdˈprest",
       "pos": "adj.",
       "definition": "(经济上)处于困境的；遭遇巨大压力的；很 难做到的",
       "frequency": 15865,
@@ -1863,7 +1863,7 @@
     },
     {
       "word": "pressure",
-      "phonetic": "'prefə",
+      "phonetic": "[ˈpɹɛʃ.ɚ]",
       "pos": "n.",
       "definition": "( 利用影响、辩论或威胁施加的)压力；(工作或生活 中的)压力；(尤指经济或政治的)压力 vt. 对……施加压力；强迫",
       "frequency": 766,
@@ -1879,7 +1879,7 @@
     },
     {
       "word": "high-pressure",
-      "phonetic": ",har'preʃə",
+      "phonetic": "ˈhaɪˈpreʃə",
       "pos": "adj.",
       "definition": "强力劝说的；非常紧张的；压力大的；受到高压的(气体或液体)18302",
       "mnemonic": "high ( 高 的 ) +pressure ( 压力) → 压力大的；受到高压的 → 引申为 (给某人)强力劝说的；压力大的",
@@ -1893,7 +1893,7 @@
     },
     {
       "word": "express",
-      "phonetic": "ik'spres; ek-",
+      "phonetic": "ɛk.ˈspɹɛs",
       "pos": "vt.",
       "definition": "表达；(想法、情感)流露；呈现 adj. 明确陈述 的(命令、指令);特定的(意图、目的);快递的adv.快递地 n. 快 速列车",
       "frequency": 1279,
@@ -1911,7 +1911,7 @@
     },
     {
       "word": "expression",
-      "phonetic": "ik'spreʃn",
+      "phonetic": "ɪkˈspɹɛʃ.ən",
       "pos": "n.",
       "definition": "(用口头、书面或行动的)表达；表露；表情；神色；(艺术表演中的)情感表现；字词；措辞",
       "frequency": 1542,
@@ -1925,7 +1925,7 @@
     },
     {
       "word": "expressionless",
-      "phonetic": "ik'spref(ə)nlis",
+      "phonetic": "ɪkˈspreʃənləs",
       "pos": "adj.",
       "definition": "面无表情的",
       "frequency": 18904,
@@ -1938,7 +1938,7 @@
     },
     {
       "word": "expressive",
-      "phonetic": "ik'spresIv;ek-",
+      "phonetic": "ɪkˈspɹɛsɪv",
       "pos": "adj.",
       "definition": "富于表情的；富于表现力的；表达……的； 表现的",
       "frequency": 8146,
@@ -1956,7 +1956,7 @@
     },
     {
       "word": "expressly",
-      "phonetic": "ik'spreslr; ek-",
+      "phonetic": "ɪkˈspɹɛsli",
       "pos": "adv.",
       "definition": "明确地；确切地；特意地；专程",
       "frequency": 14068,
@@ -1970,7 +1970,7 @@
     },
     {
       "word": "expresso",
-      "phonetic": "e'spresəu",
+      "phonetic": "ɛkˈspɹɛsoʊ",
       "pos": "n.",
       "definition": "( 蒸汽加压煮出的)浓咖啡(同espresso)13093",
       "mnemonic": "助力：ex- ( 向 外 ) +presso(press out: 压出来) → 向外压出来 → (蒸汽加压 煮出的)浓咖啡",
@@ -1982,7 +1982,7 @@
     },
     {
       "word": "compress",
-      "phonetic": "kəm'pres",
+      "phonetic": "kəmˈpɹɛs",
       "pos": "vt.",
       "definition": "&vi. 使压紧；缩短(时间);压缩(计算机文件) vt. 压缩〔文字或话语〕;使简练 n. ( 用以止血或止痛的)敷布，压布",
       "frequency": 9746,
@@ -2000,7 +2000,7 @@
     },
     {
       "word": "compressed",
-      "phonetic": "kəm'pres t",
+      "phonetic": "kəmˈpɹɛst",
       "pos": "adj.",
       "definition": "( 空气或气体)压缩的",
       "frequency": 13145,
@@ -2014,7 +2014,7 @@
     },
     {
       "word": "compression",
-      "phonetic": "kom'preʃ(ə)n",
+      "phonetic": "kɑm.pɹɛʃ.ən",
       "pos": "n.",
       "definition": "压缩(行为；过程；结果；状态);压缩内 燃机气缸燃料混合物地过程；植物化石经压缩后的遗迹；为了减少空 间占用和所需带宽而压缩转换数据、数据文件和通信信号",
       "frequency": 8540,
@@ -2025,7 +2025,7 @@
     },
     {
       "word": "compressor",
-      "phonetic": "kəm'presə",
+      "phonetic": "kəmˈpresər",
       "pos": "n.",
       "definition": "n. 压缩机",
       "frequency": 15238,
@@ -2042,7 +2042,7 @@
     },
     {
       "word": "impress",
-      "phonetic": "m'pres",
+      "phonetic": "ˈɪmpɹɛs",
       "pos": "vt.",
       "definition": "&vi. 给……留下深刻印象；使钦佩 vt. 使明白(重要性或程度);使铭记在心；压印；横征暴敛；强征入伍",
       "frequency": 3081,
@@ -2058,7 +2058,7 @@
     },
     {
       "word": "impressed",
-      "phonetic": " m'prest",
+      "phonetic": "ɪmˈpɹɛst",
       "pos": "adj.",
       "definition": "对……钦佩；敬仰；有深刻的好印象",
       "frequency": 16490,
@@ -2073,7 +2073,7 @@
     },
     {
       "word": "unimpressed",
-      "phonetic": "ʌnm'pre st",
+      "phonetic": "ˌʌnɪmˈprest",
       "pos": "adj.",
       "definition": "没有留下深刻印象的；不以为然的",
       "frequency": 19128,
@@ -2088,7 +2088,7 @@
     },
     {
       "word": "impressive",
-      "phonetic": "m'presiv",
+      "phonetic": "ɪmˈpɹɛsɪv",
       "pos": "adj.",
       "definition": "令人敬佩的；让人印象深刻的",
       "frequency": 3286,
@@ -2102,7 +2102,7 @@
     },
     {
       "word": "impressively",
-      "phonetic": "im'presivli",
+      "phonetic": "ɪmˈpresɪvlɪ",
       "pos": "adv.",
       "definition": "令人印象深刻地",
       "frequency": 19288,
@@ -2115,7 +2115,7 @@
     },
     {
       "word": "impression",
-      "phonetic": "im'pref(a)n",
+      "phonetic": "ɪmˈpɹɛʃən",
       "pos": "n.",
       "definition": "印象；(通常有悖事实的)感觉，假象；(通常指对名人的)滑稽模仿；压印",
       "frequency": 2559,
@@ -2132,7 +2132,7 @@
     },
     {
       "word": "impressionist",
-      "phonetic": "m'prefənist",
+      "phonetic": "ɪmˈpreʃənɪst",
       "pos": "n.",
       "definition": "n. 印象派画家；用滑稽方式模仿名流的艺人",
       "frequency": 17480,
@@ -2151,7 +2151,7 @@
     },
     {
       "word": "oppress",
-      "phonetic": "ə 'pres",
+      "phonetic": "əˈpɹɛs",
       "pos": "vt.",
       "definition": "压迫；压制；使心情沉重；使压抑",
       "frequency": 13412,
@@ -2173,7 +2173,7 @@
     },
     {
       "word": "oppression",
-      "phonetic": "ə 'preʃ(a)n",
+      "phonetic": "əˈpɹɛʃən",
       "pos": "n.",
       "definition": "压迫；压制",
       "frequency": 6945,
@@ -2191,7 +2191,7 @@
     },
     {
       "word": "oppressor",
-      "phonetic": "ə 'pres(r)",
+      "phonetic": "əˈpresər",
       "pos": "n.",
       "definition": "压迫者；暴君",
       "frequency": 18754,
@@ -2204,7 +2204,7 @@
     },
     {
       "word": "repress",
-      "phonetic": "ri'pres",
+      "phonetic": "rɪˈpres",
       "pos": "vt.",
       "definition": "压抑，克制(情感);忍住(笑、叹气或呻吟);压制，限制(自由)1343920000词汇巅峰速趣课多20000词汇巅峰速",
       "mnemonic": "笔 记 区 助记：re- ( 向后；往回)+press ( 按；压) → 往回按压 →to check,restrain:\n制约；限制 → 引申词义克制(情感);忍住；压制等 搭配：repress their emotions: 压制情感\ncouldn’t repress a sigh of admiration: 忍不住发出一声赞叹",
@@ -2216,7 +2216,7 @@
     },
     {
       "word": "repressed",
-      "phonetic": "rr'prest",
+      "phonetic": "ɹɨˈpɹɛst",
       "pos": "adj.",
       "definition": "( 感情、欲望等)受到压抑的",
       "frequency": 13813,
@@ -2229,7 +2229,7 @@
     },
     {
       "word": "repression",
-      "phonetic": "r'prefon",
+      "phonetic": "rɪˈpreʃn",
       "pos": "n.",
       "definition": "压制；镇压；(对感情、欲望等的)压抑",
       "frequency": 7818,
@@ -2244,7 +2244,7 @@
     },
     {
       "word": "repressive",
-      "phonetic": "rɪ'presrv",
+      "phonetic": "rɪˈpresɪv",
       "pos": "adj.",
       "definition": "( 政府或法律)残酷的；严苛的；(对感情、欲望等的)压抑的；克制的",
       "frequency": 11730,
@@ -2258,7 +2258,7 @@
     },
     {
       "word": "suppress",
-      "phonetic": "sə'pres",
+      "phonetic": "səˈpɹɛs",
       "pos": "vt.",
       "definition": "镇压；压制；抑制(身体功能或反应);抑制(情感 或反应);封锁；阻止(活动);抑制(过程)5018",
       "mnemonic": "sup-(=sub-: 向下)+ press ( 压)→压下去→对……进行压制；击打\n→镇压；抑制身体功能、情感或反应；封锁；阻止 搭配：suppress drug traffickers: 镇压毒贩子们",
@@ -2277,7 +2277,7 @@
     },
     {
       "word": "suppression",
-      "phonetic": "sə'preʃ(a)n",
+      "phonetic": "səˈpɹɛʃən",
       "pos": "n.",
       "definition": "镇压；压制；抑制",
       "frequency": 10395,
@@ -2301,7 +2301,7 @@
     },
     {
       "word": "depressing",
-      "phonetic": "dr'presŋ",
+      "phonetic": "dɪˈpɹɛsɪŋ(ɡ)",
       "pos": "adj.",
       "definition": "令人抑郁的；令人沮丧的；令人消沉的",
       "frequency": 9300,
@@ -2314,7 +2314,7 @@
     },
     {
       "word": "depression",
-      "phonetic": "dr’preʃ(ən",
+      "phonetic": "dəˈpɹɛʃ(ə)n",
       "pos": "n.",
       "definition": "抑郁症；经济萧条期，不景气时期",
       "frequency": 2113,
@@ -2329,7 +2329,7 @@
     },
     {
       "word": "depressive",
-      "phonetic": "dr'presiv",
+      "phonetic": "dɪˈpɹɛsɪv",
       "pos": "adj.",
       "definition": "抑郁的n. 抑郁症患者",
       "frequency": 11685,
@@ -2343,7 +2343,7 @@
     },
     {
       "word": "depressant",
-      "phonetic": "di'presənt",
+      "phonetic": "dɪˈpɹɛsənt",
       "pos": "n.",
       "definition": "镇静剂a. 有镇静作用的",
       "mnemonic": "depress (压制；抑制)+-ant (名词后缀) → 抑制情绪的东西 → 镇静剂\nanti-(against,opposed to: 与 … … 相反)+depress(deject,make\ngloomy,lower in feeling: 使沮丧；使忧愁；使抑郁)+-ant ( 名词后 缀) →对抗沮丧、忧愁、抑郁的情绪的事物 →抗抑郁药；使人放松 (或快乐)的事物；解忧良药\ns ( 加强语气)+queeze(=press: 压；挤) → 挤压",
@@ -2361,7 +2361,7 @@
     },
     {
       "word": "squelch",
-      "phonetic": "skweltʃ",
+      "phonetic": "ˈskwɛltʃ",
       "pos": "vt.",
       "definition": "压制；镇压vi. 发吧唧声；发扑哧声[+through/along/up]",
       "frequency": 19434,
@@ -2373,7 +2373,7 @@
     },
     {
       "word": "reprimand",
-      "phonetic": "'reprima:nd",
+      "phonetic": "ˈɹɛp.ɹɪˌmænd",
       "pos": "vt.",
       "definition": "训斥；谴责 n. 训斥；谴责",
       "frequency": 15361,
@@ -2388,7 +2388,7 @@
     },
     {
       "word": "reproach",
-      "phonetic": "rrproutfʃ",
+      "phonetic": "ɹɪˈpɹoʊtʃ",
       "pos": "n.",
       "definition": "责备；批评；批评的言辞；(使……)丢脸的人(或 事 ) vt. 批评；自责",
       "frequency": 19268,
@@ -2406,7 +2406,7 @@
     },
     {
       "word": "print",
-      "phonetic": "print",
+      "phonetic": "pɹɪnt",
       "pos": "vt.",
       "definition": "印刷；发表；刊登；印(数字、字母或图案);冲印；用印 刷体书写 n. 印刷；印花布料；印花；冲印出的照片；版画；印刷字； 脚印；指印adj.印刷的(媒体)2228",
       "mnemonic": "print (印刷)+-ed ( 形容词后缀) → 印刷的；已印好的",
@@ -2425,7 +2425,7 @@
     },
     {
       "word": "printer",
-      "phonetic": "'printə",
+      "phonetic": "ˈpɹɪntə(ɹ)",
       "pos": "n.",
       "definition": "打印机；印刷工人；印刷公司",
       "frequency": 5954,
@@ -2440,7 +2440,7 @@
     },
     {
       "word": "printing",
-      "phonetic": "'printiŋ",
+      "phonetic": "ˈpɹɪntɪŋ",
       "pos": "n.",
       "definition": "印刷(术);(书籍的)一次印刷；印刷体(一种书 写方法)7335",
       "mnemonic": "print (印刷)+ -ing ( 名词后缀) → 印刷术；(书籍的)一次印刷； 印刷体",
@@ -2454,7 +2454,7 @@
     },
     {
       "word": "printout",
-      "phonetic": "'printaut",
+      "phonetic": "ˈprɪntaʊt",
       "pos": "n.",
       "definition": "打印件",
       "frequency": 14644,
@@ -2467,7 +2467,7 @@
     },
     {
       "word": "imprint",
-      "phonetic": "m'print",
+      "phonetic": "ˈɪm.pɹɪnt",
       "pos": "n.",
       "definition": "深远影响；印痕 vt. 铭刻；压印",
       "frequency": 10542,
@@ -2478,7 +2478,7 @@
     },
     {
       "word": "reprint",
-      "phonetic": "ri:'print ",
+      "phonetic": "ˌriːˈprɪnt",
       "pos": "vt.",
       "definition": "重印；再版n. 重印；再版；重印本；再版本",
       "frequency": 9450,
@@ -2492,7 +2492,7 @@
     },
     {
       "word": "newsprint",
-      "phonetic": "'nju:zprint",
+      "phonetic": "ˈnjuːzprɪnt",
       "pos": "n.",
       "definition": "新闻纸；报纸上的文字；印刷油墨",
       "frequency": 17353,
@@ -2507,7 +2507,7 @@
     },
     {
       "word": "fingerprint",
-      "phonetic": "'fingəprint",
+      "phonetic": "ˈfɪŋɡɚˌpɹɪnt",
       "pos": "n.",
       "definition": "指纹 vt. 提取……的指纹；提取在……上的指纹",
       "frequency": 7396,
@@ -2521,7 +2521,7 @@
     },
     {
       "word": "footprint",
-      "phonetic": "'futprint",
+      "phonetic": "ˈfʊtpɹɪnt",
       "pos": "n.",
       "definition": "脚印，足迹；(某物的)占位面积；(通信卫星)覆 盖区",
       "frequency": 8583,
@@ -2537,7 +2537,7 @@
     },
     {
       "word": "count",
-      "phonetic": "kaun t",
+      "phonetic": "kaʊnt",
       "pos": "vi.",
       "definition": "数数；有价值 vt. 数……的数目；把……计算在内 vt.&vi 看作( count/count as)n. 点数；数目；罪状；伯爵",
       "frequency": 1338,
@@ -2556,7 +2556,7 @@
     },
     {
       "word": "discount",
-      "phonetic": "'diskaunt",
+      "phonetic": "dɪsˈkaʊnt",
       "pos": "n.",
       "definition": "折扣 vt. 对……打折；不理会",
       "frequency": 4554,
@@ -2568,7 +2568,7 @@
     },
     {
       "word": "recount",
-      "phonetic": "r'kaunt",
+      "phonetic": "rɪˈkaʊnt",
       "pos": "vt.",
       "definition": "叙述；描述n. 重新计票",
       "frequency": 5557,
@@ -2581,7 +2581,7 @@
     },
     {
       "word": "counting",
-      "phonetic": "'kauntiŋ",
+      "phonetic": "ˈkaʊntɪŋ",
       "pos": "prep.",
       "definition": "算上；把……计算在内",
       "frequency": 9659,
@@ -2595,7 +2595,7 @@
     },
     {
       "word": "countless",
-      "phonetic": "'kauntlis",
+      "phonetic": "ˈkaʊntləs",
       "pos": "adj.",
       "definition": "数不清的",
       "frequency": 5115,
@@ -2607,7 +2607,7 @@
     },
     {
       "word": "counter",
-      "phonetic": "'kauntə",
+      "phonetic": "ˈkaʊntə",
       "pos": "n.",
       "definition": "柜台；(尤指厨房的)工作台； 抵消物 vt.&v i. 反驳； 抵消；抗衡",
       "frequency": 2851,
@@ -2623,7 +2623,7 @@
     },
     {
       "word": "countertop",
-      "phonetic": "'kauntstap",
+      "phonetic": "ˈkaʊntətɑp",
       "pos": "n.",
       "definition": "( 厨房的)工作台面",
       "frequency": 13028,
@@ -2633,7 +2633,7 @@
     },
     {
       "word": "countdown",
-      "phonetic": "'kauntdaun",
+      "phonetic": "ˈkaʊntˌdaʊn",
       "pos": "n.",
       "definition": "倒数计秒；倒计时阶段[+to]15156",
       "collocations": [
@@ -2644,7 +2644,7 @@
     },
     {
       "word": "account",
-      "phonetic": "ə 'kaunt",
+      "phonetic": "ə.ˈkaʊnt",
       "pos": "n.",
       "definition": "账户；客户；账目；报道",
       "frequency": 1075,
@@ -2669,7 +2669,7 @@
     },
     {
       "word": "accountability",
-      "phonetic": "ə ,kaunta'bilt",
+      "phonetic": "ə.ˌkaʊn.tə.ˈbɪl.ət.i",
       "pos": "n.",
       "definition": "有责任",
       "frequency": 4855,
@@ -2681,7 +2681,7 @@
     },
     {
       "word": "accountable",
-      "phonetic": "ə'kauntəb(a)l",
+      "phonetic": "ə.ˈkaʊn.tə.bəl",
       "pos": "adj.",
       "definition": "有有责任的；应作解释的",
       "frequency": 5795,
@@ -2693,7 +2693,7 @@
     },
     {
       "word": "accountant",
-      "phonetic": "'kaunt(a)nt",
+      "phonetic": "ə.ˈkæʊn.(t)ən̩(t)",
       "pos": "n.",
       "definition": "会计人员",
       "frequency": 6036,
@@ -2703,7 +2703,7 @@
     },
     {
       "word": "CPA",
-      "phonetic": " ,sipi'e",
+      "phonetic": "ˌsiːpiːˈeɪ",
       "pos": "abbr",
       "definition": ": 注册会计师( Certified Public Accountant)20000词汇巅峰速0 趣课多20000词汇巅峰速",
       "collocations": [],
@@ -2712,7 +2712,7 @@
     },
     {
       "word": "accounting",
-      "phonetic": "ə 'kauntɪŋ",
+      "phonetic": "ə.ˈkaʊn.tɪŋ",
       "pos": "n.",
       "definition": "会计；记账",
       "frequency": 3960,
@@ -2728,7 +2728,7 @@
     },
     {
       "word": "encounter",
-      "phonetic": "in'kauntɔ;en-",
+      "phonetic": "ɪnˈkaʊntɚ",
       "pos": "vt.",
       "definition": "遭遇；邂逅n. 邂逅；特殊经历",
       "frequency": 2736,
@@ -2741,7 +2741,7 @@
     },
     {
       "word": "counterpart",
-      "phonetic": "'kauntəpa:t",
+      "phonetic": "ˈkaʊntɚˌpɑɹt",
       "pos": "n.",
       "definition": "职务相当的人；作用相当的事物",
       "frequency": 3853,
@@ -2753,7 +2753,7 @@
     },
     {
       "word": "counteract",
-      "phonetic": "kaunta'ræekt",
+      "phonetic": "ˈkaʊntəɹˌækt",
       "pos": "vt.",
       "definition": "抵消；对抗；中和",
       "collocations": [
@@ -2765,7 +2765,7 @@
     },
     {
       "word": "counterattack",
-      "phonetic": "'kauntor,tæk",
+      "phonetic": "ˈkaʊntərəˌtæk",
       "pos": "n.",
       "definition": "反击；反攻",
       "frequency": 17580,
@@ -2775,7 +2775,7 @@
     },
     {
       "word": "counterbalance",
-      "phonetic": "'kaunts,bæl(ə)ns",
+      "phonetic": "ˌkaʊntə(ɹ)ˈbæləns",
       "pos": "vt.",
       "definition": "平衡；抵消 n. 平衡因素；制衡力",
       "frequency": 18511,
@@ -2789,7 +2789,7 @@
     },
     {
       "word": "counterculture",
-      "phonetic": "'kauntokaltʃə",
+      "phonetic": "ˈkaʊntəkʌltʃər",
       "pos": "n.",
       "definition": "反主流文化",
       "frequency": 19604,
@@ -2801,7 +2801,7 @@
     },
     {
       "word": "counterpoint",
-      "phonetic": "'kauntappint",
+      "phonetic": "ˈkaʊntəpɔɪnt",
       "pos": "n.",
       "definition": "( 音乐)对位法；旋律配合；有趣的对比， 惬意的对照[+to]14391",
       "collocations": [
@@ -2813,7 +2813,7 @@
     },
     {
       "word": "compute",
-      "phonetic": "kɔm'pju:t",
+      "phonetic": "kəmˈpjuːt",
       "pos": "vt.",
       "definition": "&vi.计算(结果、答案、总数等)7968",
       "mnemonic": "com-(=with,together : 一起；总共)+-put-(=to reckon: 计 算 ) +e→\n加起来计算，数算总数→计算",
@@ -2827,7 +2827,7 @@
     },
     {
       "word": "computer",
-      "phonetic": "kəm'pju:tə",
+      "phonetic": "kəmˈpjutɚ",
       "pos": "n.",
       "definition": "计算机；电脑",
       "frequency": 590,
@@ -2840,7 +2840,7 @@
     },
     {
       "word": "supercomputer",
-      "phonetic": "'supəkompjutə",
+      "phonetic": "ˈsuːpəkəmpjuːtər",
       "pos": "n",
       "definition": ".超级计算机",
       "frequency": 17469,
@@ -2850,7 +2850,7 @@
     },
     {
       "word": "computer-based",
-      "phonetic": "kɔm'pju:to beist",
+      "phonetic": "kəmpˈjuːtəbˈeɪst",
       "pos": "adj.",
       "definition": "基于计算机的",
       "frequency": 17905,
@@ -2860,7 +2860,7 @@
     },
     {
       "word": "computer-generated",
-      "phonetic": "kom'pju:ta 'dʒen,rertrd",
+      "phonetic": "kəmˌpjuːtərˈdʒenəreɪtɪd",
       "pos": "adj.",
       "definition": "由计算机生成的",
       "frequency": 16313,
@@ -2870,7 +2870,7 @@
     },
     {
       "word": "computing",
-      "phonetic": "kəm'pju:trŋ",
+      "phonetic": "kəmˈpjuːtɪŋ",
       "pos": "n.",
       "definition": "计算机应用adj.与计算机有关的",
       "frequency": 7987,
@@ -2882,7 +2882,7 @@
     },
     {
       "word": "computation",
-      "phonetic": "kpmpju'terʃ(o)n",
+      "phonetic": "ˌkɑmpjuˈteɪʃn",
       "pos": "n.",
       "definition": "计算；计算的结果",
       "frequency": 13387,
@@ -2894,7 +2894,7 @@
     },
     {
       "word": "computational",
-      "phonetic": "kompju'terʃənl",
+      "phonetic": "ˌkɑmpjuˈteɪʃənl",
       "pos": "adj.",
       "definition": "使用计算机的",
       "frequency": 13609,
@@ -2906,7 +2906,7 @@
     },
     {
       "word": "computerized",
-      "phonetic": "kəm'pjutɔ,rarzd",
+      "phonetic": "kəmˈpjuːtəˌraɪzd",
       "pos": "adj.",
       "definition": "计算机化的；计算机存储的",
       "frequency": 8194,
@@ -2924,7 +2924,7 @@
     },
     {
       "word": "calculated",
-      "phonetic": "'kælkjulertid",
+      "phonetic": "ˈkælkjəleɪtɪd",
       "pos": "adj",
       "definition": ".蓄意的；精心策划的；处心积虑的〔含贬义〕",
       "frequency": 12821,
@@ -2938,7 +2938,7 @@
     },
     {
       "word": "calculation",
-      "phonetic": "kælkju'lerʃ(an",
+      "phonetic": "kælkjuˈleɪʃən",
       "pos": "n.",
       "definition": "计算",
       "frequency": 4695,
@@ -2948,7 +2948,7 @@
     },
     {
       "word": "miscalculation",
-      "phonetic": ",miskælkjə'lefən",
+      "phonetic": "ˌmɪskælkjʊˈleɪʃn",
       "pos": "n.",
       "definition": "算错；误算；(对局势的)错误判断",
       "frequency": 18082,
@@ -2958,7 +2958,7 @@
     },
     {
       "word": "calculator",
-      "phonetic": "'kælkjulertə",
+      "phonetic": "kæl.kjə.leɪ.təɹ",
       "pos": "n.",
       "definition": "计算器",
       "frequency": 11809,
@@ -2970,7 +2970,7 @@
     },
     {
       "word": "calculus",
-      "phonetic": "'kælkjuləs",
+      "phonetic": "ˈkæl.kjʊ.ləs",
       "pos": "n.",
       "definition": "微积分学",
       "frequency": 13102,
@@ -2980,7 +2980,7 @@
     },
     {
       "word": "reckon",
-      "phonetic": "'rek(a)n",
+      "phonetic": "ˈɹɛkən",
       "pos": "vt.",
       "definition": "料想；以为；估算；认为",
       "frequency": 8695,
@@ -2993,7 +2993,7 @@
     },
     {
       "word": "reckoning",
-      "phonetic": "'rek(ə)nɪŋ",
+      "phonetic": "ˈɹɛkənɪŋ",
       "pos": "n.",
       "definition": "估算；最后审判日，算总账；报应",
       "frequency": 14505,
@@ -3005,7 +3005,7 @@
     },
     {
       "word": "quantity",
-      "phonetic": "'kwpntitr",
+      "phonetic": "ˈkwɑn(t)ɨti",
       "pos": "n.",
       "definition": "数量[+of]; 大量",
       "frequency": 4100,
@@ -3020,7 +3020,7 @@
     },
     {
       "word": "quality",
-      "phonetic": "'kwplətr",
+      "phonetic": "ˈkwɑləti",
       "pos": "n.",
       "definition": "质量；优质；优良品质；个性；特性",
       "frequency": 765,
@@ -3037,7 +3037,7 @@
     },
     {
       "word": "quantify",
-      "phonetic": "'kwontrfai",
+      "phonetic": "ˈkwɑn.tə.faɪ",
       "pos": "vt.",
       "definition": "&vi. 确定……的数量；量化",
       "frequency": 9951,
@@ -3050,7 +3050,7 @@
     },
     {
       "word": "quantitative",
-      "phonetic": "'kwontr,tativ;-,tertiv",
+      "phonetic": "ˈkwɑntɪˌteɪtɪv",
       "pos": "adj.",
       "definition": "( 数)量的；定量的",
       "frequency": 7803,
@@ -3063,7 +3063,7 @@
     },
     {
       "word": "quandary",
-      "phonetic": "'kwond(a)ri",
+      "phonetic": "ˈkwɔn.də.ɹi",
       "pos": "n.",
       "definition": "窘境；进退两难",
       "frequency": 16185,
@@ -3076,7 +3076,7 @@
     },
     {
       "word": "quantum",
-      "phonetic": "'kwpntom",
+      "phonetic": "ˈkwɑntəm",
       "pos": "n.",
       "definition": "量子adj .量子的",
       "frequency": 5768,
@@ -3089,7 +3089,7 @@
     },
     {
       "word": "quota",
-      "phonetic": "'kwəutə",
+      "phonetic": "ˈkwoʊtə",
       "pos": "n.",
       "definition": "配额；定量[+of][+for]: ( 公正的、正确的或正常的) 份额[+of]",
       "mnemonic": "quot-(=count )+ a ( 一个； 一定) →一定的数量 → 定额；配额",
@@ -3105,7 +3105,7 @@
     },
     {
       "word": "qualify",
-      "phonetic": "'kwplifar",
+      "phonetic": "ˈkwɑl.ɪ.faɪ",
       "pos": "vt.",
       "definition": "( 通过增加细节、解释)使语气缓和；修饰；限定 vi 取得下一轮比赛资格；取得资格(文凭)vt.&vi. 使 … … 符合(某物的 全部特征);可算作( qualify as); ( 使)有资格拥有n. 通过预赛者",
       "frequency": 3075,
@@ -3118,7 +3118,7 @@
     },
     {
       "word": "qualifier",
-      "phonetic": "'kwplifarə(r)",
+      "phonetic": "ˈkwɑl.ɪ.faɪ.ɚ",
       "pos": "n.",
       "definition": "取得参赛资格的人；资格赛；修饰语",
       "frequency": 16156,
@@ -3130,7 +3130,7 @@
     },
     {
       "word": "qualified",
-      "phonetic": "'kwplifard",
+      "phonetic": "ˈkwɑl.ɪ.faɪd",
       "pos": "adj.",
       "definition": "有资格的；有限度的",
       "frequency": 6064,
@@ -3142,7 +3142,7 @@
     },
     {
       "word": "qualification",
-      "phonetic": ",kwplifi'kerʃ(ə)n",
+      "phonetic": "ˌkwɑlɪfɪˈkeɪʃən",
       "pos": "n.",
       "definition": "资格；学历；资格取得；技能；限制条件；(已通过的)资格考试",
       "frequency": 6940,
@@ -3155,7 +3155,7 @@
     },
     {
       "word": "qualifying",
-      "phonetic": "'kwpli,faŋ",
+      "phonetic": "kˈwɑlɪfaɪɪŋ",
       "pos": "adj.",
       "definition": "使具有资格的；预赛的",
       "frequency": 14704,
@@ -3168,7 +3168,7 @@
     },
     {
       "word": "qualitative",
-      "phonetic": "'kwplitəti v",
+      "phonetic": "ˈkwɑl.ɪˌteɪ.tɪv",
       "pos": "adj.",
       "definition": "质量的；定性的；性质的",
       "frequency": 7214,
@@ -3180,7 +3180,7 @@
     },
     {
       "word": "qualitatively",
-      "phonetic": "'kwalə,tetivli",
+      "phonetic": "ˈkwɑlɪtətɪvlɪ",
       "pos": "adv.",
       "definition": "实质上的",
       "frequency": 18815,
@@ -3194,7 +3194,7 @@
     },
     {
       "word": "amputate",
-      "phonetic": "'æmpjutert",
+      "phonetic": "ˈæmpjʊteɪt",
       "pos": "vt.",
       "definition": "切除；截(肢)17705",
       "mnemonic": "am-(=ambi-=around: 周围的)+-put-(=to cut,prune,trim: 切；修 剪；切除)+-ate ( 动词后缀) →在周围切除；修剪 → 原指给树木剪 枝，后指医学上人体截肢",
@@ -3207,7 +3207,7 @@
     },
     {
       "word": "amputee",
-      "phonetic": "æmpju'ti:",
+      "phonetic": "ˌæmpjuˈtiː",
       "pos": "n.",
       "definition": "n. 被截肢者17640自 词根“put-” 也表示“思考；考虑”deputy ['depjutr] n. 副职；议员；〔美国〕县行政司法官助理；代理人 / n. 被截肢者",
       "frequency": 17640,
@@ -3222,7 +3222,7 @@
     },
     {
       "word": "deputy",
-      "phonetic": "'depjutr",
+      "phonetic": "ˈdɛpjəti",
       "pos": "n.",
       "definition": "副职；议员；〔美国〕县行政司法官助理；代理人",
       "frequency": 2591,
@@ -3237,7 +3237,7 @@
     },
     {
       "word": "dispute",
-      "phonetic": "di'spju:t;'dispju:t",
+      "phonetic": "dɪsˈpjuːt",
       "pos": "n.",
       "definition": "争论 vt. 反驳；争夺(控制权、所有权)2726",
       "mnemonic": "dis-(=separately,apart: 分离地；与众不同的)+-put-(=to count,\nconsider: 考虑)+e→各人想法不一样，各抒己见→引申义争论 搭配：somebody/something in dispute: 人/组织/事物有争议的",
@@ -3253,7 +3253,7 @@
     },
     {
       "word": "undisputed",
-      "phonetic": "ʌ ndi'spju:tid",
+      "phonetic": "ˌʌndɪˈspjuːtɪd",
       "pos": "adj.",
       "definition": "( 事实、观点等)无需争议的；公认的；无异议的(领袖、冠军等)16354",
       "collocations": [
@@ -3265,7 +3265,7 @@
     },
     {
       "word": "putative",
-      "phonetic": "'pju:tativ",
+      "phonetic": "ˈpju.tə.tɪv",
       "pos": "adj.",
       "definition": "公认的；推定的",
       "frequency": 17077,
@@ -3277,7 +3277,7 @@
     },
     {
       "word": "repute",
-      "phonetic": "ri'pju:t",
+      "phonetic": "ɹɪˈpjuːt",
       "pos": "n.",
       "definition": "名声；名望；美名",
       "frequency": 19741,
@@ -3290,7 +3290,7 @@
     },
     {
       "word": "reputable",
-      "phonetic": "'repjutob(a)l",
+      "phonetic": "ˈɹɛpjʊtəbəl",
       "pos": "adj.",
       "definition": "声誉好的；有声望的",
       "frequency": 14291,
@@ -3302,7 +3302,7 @@
     },
     {
       "word": "reputation",
-      "phonetic": "repju'teɪʃ(an",
+      "phonetic": "ˌɹɛpjʊˈteɪʃən",
       "pos": "n.",
       "definition": "名誉；名望[+for][+as]2432",
       "collocations": [
@@ -3313,7 +3313,7 @@
     },
     {
       "word": "pave",
-      "phonetic": "peiv",
+      "phonetic": "peɪv",
       "pos": "vt.",
       "definition": "〔 用石块或混凝土板〕铺〔路、地面等〕7205",
       "collocations": [
@@ -3328,7 +3328,7 @@
     },
     {
       "word": "paving",
-      "phonetic": "'peivIŋ",
+      "phonetic": "ˈpeɪvɪŋ",
       "pos": "n.",
       "definition": "铺路材料",
       "frequency": 18713,
@@ -3340,7 +3340,7 @@
     },
     {
       "word": "pavement",
-      "phonetic": "'peivm(a)nt",
+      "phonetic": "ˈpeɪvmənt",
       "pos": "n.",
       "definition": "路面；人行道",
       "frequency": 6642,
@@ -3357,7 +3357,7 @@
     },
     {
       "word": "rate",
-      "phonetic": "rert",
+      "phonetic": "ɹeɪt",
       "pos": "vt.",
       "definition": "责骂；怒斥",
       "frequency": 458,
@@ -3369,7 +3369,7 @@
     },
     {
       "word": "berate",
-      "phonetic": "br'rert",
+      "phonetic": "bɪˈɹeɪt",
       "pos": "vt.",
       "definition": "[+for] 训斥；严厉指责",
       "frequency": 16426,
@@ -3383,7 +3383,7 @@
     },
     {
       "word": "query",
-      "phonetic": "'kwIəri",
+      "phonetic": "ˈkwɛ.ɹi",
       "pos": "n.",
       "definition": "疑 问vt. 对……提出疑问；询问",
       "frequency": 10092,
@@ -3396,7 +3396,7 @@
     },
     {
       "word": "quest",
-      "phonetic": "kwest",
+      "phonetic": "kwɛst",
       "pos": "n.",
       "definition": "( 长久而艰难的)搜寻；探求vi. 搜寻；探求",
       "frequency": 4108,
@@ -3415,7 +3415,7 @@
     },
     {
       "word": "request",
-      "phonetic": "rr'kwest",
+      "phonetic": "ɹɪˈkwɛst",
       "pos": "vt.",
       "definition": "请求；正式要求n. 请求",
       "frequency": 2134,
@@ -3431,7 +3431,7 @@
     },
     {
       "word": "question",
-      "phonetic": "'kwestʃ(a)n",
+      "phonetic": "ˈkwɛstjən",
       "pos": "n.",
       "definition": "问题；询问；疑问；(需考虑的)问题；试题 vt. 询问；怀疑",
       "frequency": 197,
@@ -3447,7 +3447,7 @@
     },
     {
       "word": "unquestioned",
-      "phonetic": "ʌn'kwestʃ(a)nd",
+      "phonetic": "ʌnˈkwestʃənd",
       "pos": "adj.",
       "definition": "无可置疑的；无可争议的；不加质询的",
       "frequency": 19163,
@@ -3460,7 +3460,7 @@
     },
     {
       "word": "questionable",
-      "phonetic": "'kwestʃ(ə)nb(a)l",
+      "phonetic": "ˈkwɛst͡ʃənəbl̩",
       "pos": "adj.",
       "definition": "可疑的；不合理的",
       "frequency": 6337,
@@ -3472,7 +3472,7 @@
     },
     {
       "word": "unquestionably",
-      "phonetic": "ʌn'kwestʃənabli",
+      "phonetic": "ʌnˈkwestʃənəblɪ",
       "pos": "adv.",
       "definition": "毫无疑问地，无可置疑地，肯定地",
       "frequency": 13696,
@@ -3482,7 +3482,7 @@
     },
     {
       "word": "questioner",
-      "phonetic": "'kwestʃənə",
+      "phonetic": "ˈkwestʃənər",
       "pos": "n.",
       "definition": "提问者",
       "frequency": 18594,
@@ -3492,7 +3492,7 @@
     },
     {
       "word": "questioning",
-      "phonetic": "'kwestʃənŋ",
+      "phonetic": "ˈkwɛst͡ʃənɪŋ",
       "pos": "n.",
       "definition": "怀疑的；询问的",
       "frequency": 7918,
@@ -3504,7 +3504,7 @@
     },
     {
       "word": "questionnaire",
-      "phonetic": ",kwestʃə'neə(r)",
+      "phonetic": "ˌk(w)estjəˈnɛə",
       "pos": "n.",
       "definition": "( 用以收集资料的)问卷；调查表",
       "frequency": 3643,
@@ -3516,7 +3516,7 @@
     },
     {
       "word": "cue",
-      "phonetic": "kju:",
+      "phonetic": "kjuː",
       "pos": "n.",
       "definition": "( 戏剧中暗示下一位演员接言或出场的)尾白，提示；提示； 暗示[+for]; 触发事件 vt. ( 尤指在表演中)提示",
       "frequency": 4929,

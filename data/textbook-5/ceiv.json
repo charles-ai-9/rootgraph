@@ -270,7 +270,7 @@
       ],
       "frequency" : 1160,
       "mnemonic" : "concep（=conceive：孕育）+ t（无意义）→概念（概念都是“构想”",
-      "phonetic" : "ˈkɒn.sɛpt",
+      "phonetic" : "ˈkɑn.sɛpt",
       "pos" : "n.",
       "rootHint" : "cept",
       "word" : "concept"
@@ -317,7 +317,7 @@
       ],
       "frequency" : 5593,
       "mnemonic" : "concept（概念）+ -ual（形容词后缀，表示与……有关的）→与概念\n有关的→概念上的",
-      "phonetic" : "kənˈsɛptjʊəl",
+      "phonetic" : "kənˈsɛptʃuəl",
       "pos" : "adj.",
       "rootHint" : "cept",
       "word" : "conceptual"
@@ -332,7 +332,7 @@
       ],
       "frequency" : 11304,
       "mnemonic" : "conceptual（概念上的）+ -ize（动词后缀，表示使……）→使……形",
-      "phonetic" : "kənˈseptjʊəlaɪz",
+      "phonetic" : "kənˈseptʃʊrlaɪz",
       "pos" : "vt.",
       "rootHint" : "cept",
       "word" : "conceptualize"
@@ -346,7 +346,7 @@
 
       ],
       "frequency" : 13107,
-      "phonetic" : "kənˌseptjʊəlaɪˈzeɪʃən",
+      "phonetic" : "kənˌseptʃʊrlaɪˈzeɪʃən",
       "pos" : "n.",
       "rootHint" : "cept",
       "word" : "conceptualization"
@@ -655,7 +655,7 @@
       ],
       "frequency" : 12026,
       "mnemonic" : "percept（感知；认识）+ -ual（形容词后缀）→理解的；感知的",
-      "phonetic" : "pəˈseptjʊəl",
+      "phonetic" : "pəˈseptʃʊrl",
       "pos" : "adj.",
       "rootHint" : "cept",
       "word" : "perceptual"
@@ -986,7 +986,7 @@
       ],
       "frequency" : 2732,
       "mnemonic" : "oc-（加强语气）+ -cup-（抓；拿；取得）+ y→取得（某地，某人的\n心）→占用；占领；占有（某地，某人的心）",
-      "phonetic" : "ˈɒkjʊpaɪ",
+      "phonetic" : "ˈɑkjəpaɪ",
       "pos" : "vt.",
       "rootHint" : "ceiv",
       "word" : "occupy"
@@ -1017,7 +1017,7 @@
 
       ],
       "frequency" : 8493,
-      "phonetic" : "ˈɒk.jʊ.pənt",
+      "phonetic" : "ˈɑk.jə.pənt",
       "pos" : "n.",
       "rootHint" : "ceiv",
       "word" : "occupant"
@@ -1049,7 +1049,7 @@
 
       ],
       "frequency" : 20043,
-      "phonetic" : "ʌnˈɒkjʊpaɪd",
+      "phonetic" : "ʌnˈɑkjʊpaɪd",
       "pos" : "adj.",
       "rootHint" : "ceiv",
       "word" : "unoccupied"
@@ -1064,7 +1064,7 @@
       ],
       "frequency" : 11927,
       "mnemonic" : "occup（=occupy：占用）+ -ancy（名词后缀）→占用；居住",
-      "phonetic" : "ˈɒkjəpənsɪ",
+      "phonetic" : "ˈɑkjəpənsɪ",
       "pos" : "n.",
       "rootHint" : "ceiv",
       "word" : "occupancy"
@@ -1081,7 +1081,7 @@
       ],
       "frequency" : 6589,
       "mnemonic" : "occupation（职业）+ -al（形容词后缀）→职业的",
-      "phonetic" : "ɒkjʊˈpeɪʃ(ə)n(ə)l",
+      "phonetic" : "ɑkjʊˈpeɪʃ(ə)n(ə)l",
       "pos" : "adj.",
       "rootHint" : "ceiv",
       "word" : "occupational"
@@ -1098,7 +1098,7 @@
       "pos" : "vt.",
       "rootHint" : "ceiv",
       "word" : "occupying",
-      "phonetic" : "ˈɒk.jʊ.paɪ.ɪŋ"
+      "phonetic" : "ˈɑk.jə.paɪ.ɪŋ"
     },
     {
       "collocations" : [
@@ -1110,7 +1110,7 @@
       ],
       "frequency" : 9043,
       "mnemonic" : "pre-（=before：预先）+occupy（占据）+ -ed（形容词后缀，变y为i\n加-ed）→全神贯注的；入神的",
-      "phonetic" : "priːˈɒkjʊpaɪd",
+      "phonetic" : "priːˈɑkjʊpaɪd",
       "pos" : "adj.",
       "rootHint" : "ceiv",
       "word" : "preoccupied"
@@ -1126,7 +1126,7 @@
       ],
       "frequency" : 8979,
       "mnemonic" : "pre-（=before：在前的）+ occup-（=occupy=seize：占据）+ -ation（复\n合名词后缀）→state of occupying beforehand, a seizing beforehand：预先\n抓住（注意力、情感等）；占用（精神、注意力等的）状态→全神贯",
-      "phonetic" : "prɪˌɒkjʊˈpeɪʃ(ə)n",
+      "phonetic" : "prɪˌɑkjʊˈpeɪʃ(ə)n",
       "pos" : "n.",
       "rootHint" : "ceiv",
       "word" : "preoccupation"
@@ -1298,7 +1298,7 @@
       ],
       "frequency" : 14385,
       "mnemonic" : "purchase（购买）+ -r（名词后缀；表示人）→购买者",
-      "phonetic" : "ˈpɜːtʃəsə(r)",
+      "phonetic" : "ˈpɝtʃəsər",
       "rootHint" : "ceiv",
       "word" : "purchaser"
     },
@@ -1448,7 +1448,7 @@
       ],
       "frequency" : 11874,
       "mnemonic" : "procure（获得；取得）+ -ment（名词后缀）→采购；购买",
-      "phonetic" : "pɹəˈkjʊə.mənt",
+      "phonetic" : "pɹəˈkju.mənt",
       "pos" : "n.",
       "rootHint" : "ceiv",
       "word" : "procurement"

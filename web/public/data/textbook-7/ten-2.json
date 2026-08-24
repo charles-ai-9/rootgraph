@@ -25,7 +25,7 @@
       ],
       "frequency" : 1745,
       "mnemonic" : "con-（=with, together：共同）+ -tent（=to hold：持有；握住）→共同\n持有的；包含于其中的→主题；内容；含量\ncon-（共同）+ -tent（持有；握住）→包含于其中的→满足的；满",
-      "phonetic" : "n. ˈkɒntent adj. kənˈtent",
+      "phonetic" : "ˈkɑn.tɛnt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "content"
@@ -40,7 +40,7 @@
       ],
       "frequency" : 9903,
       "mnemonic" : "dis-（表否定；相反）+ content（满足的；满意的）→不满；不满足",
-      "phonetic" : "dɪskənˈtent",
+      "phonetic" : "ˌdɪskənˈtɛnt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "discontent"
@@ -55,7 +55,7 @@
       ],
       "frequency" : 19897,
       "mnemonic" : "content（满足的；满意的）+ -ed（形容词后缀）→满意的；惬意",
-      "phonetic" : "kənˈtentɪd",
+      "phonetic" : "kənˈtɛntɪd",
       "pos" : "adj.",
       "rootHint" : "ten",
       "word" : "contented"
@@ -71,7 +71,7 @@
       ],
       "frequency" : 15665,
       "mnemonic" : "content（满足的；满意的）+ -ment（名词后缀）→满足；满意",
-      "phonetic" : "kənˈtentmənt",
+      "phonetic" : "kənˈtɛntmənt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "contentment"
@@ -89,7 +89,7 @@
       ],
       "frequency" : 4061,
       "mnemonic" : "con-（=with, together：一起；共同）+ -tin（=to hold：持，握）+ -ent\n（名词后缀）→hold together：连接为一体的，即一块未分割的土地\n→大陆；洲\ncon-（一起；共同）+ -tin-（=to hold：持有；握住）+ -ent（形容词后\n缀）→能持有、握住的→自制的；克制的",
-      "phonetic" : "ˈkɒntɪnənt",
+      "phonetic" : "ˈkɑntɪnənt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "continent"
@@ -105,7 +105,7 @@
       ],
       "frequency" : 9149,
       "mnemonic" : "continent（大陆；大洲）+-al（形容词后缀）→大陆的，大洲的；大",
-      "phonetic" : "kɒntɪˈnentl",
+      "phonetic" : "kɑntɪˈnentl",
       "pos" : "adj.",
       "rootHint" : "ten",
       "word" : "continental"
@@ -136,7 +136,7 @@
       ],
       "frequency" : 11998,
       "mnemonic" : "dis-（不，非，使相反）+ continue（继续）→不继续下去→停止，中",
-      "phonetic" : "dɪskənˈtɪnjuː",
+      "phonetic" : "dɪskənˈtɪnju",
       "pos" : "vt.",
       "rootHint" : "ten",
       "word" : "discontinue"
@@ -152,7 +152,7 @@
       ],
       "frequency" : 19386,
       "mnemonic" : "discontinue（停止；中断）+ -ity（名词后缀）→不连续；不连贯",
-      "phonetic" : "ˌdɪsˌkɒntɪˈnjuːəti",
+      "phonetic" : "ˌdɪskɑntɪˈnuːɪti",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "discontinuity"
@@ -168,7 +168,7 @@
       ],
       "frequency" : 18998,
       "mnemonic" : "coun（con-：共同）+ -ten-（持有；握住）+ -ance（名词后缀）→对\n内心情感的控制→面容；表情→后词义进一步褒义化，表示赞同，",
-      "phonetic" : "ˈkaʊntənəns",
+      "phonetic" : "ˈkaʊn.tən.əns",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "countenance"
@@ -183,7 +183,7 @@
       ],
       "frequency" : 6776,
       "mnemonic" : "de-（=back：向后）+ tent（=-ten-：持有；握住）+ -ion（名词后缀）\n→act of keeping back or withholding：（为了惩罚而）留下、保留、阻\n止（犯罪）的行为→拘留；课后留校",
-      "phonetic" : "dɪˈtenʃn",
+      "phonetic" : "dɪˈtɛnʃən",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "detention"
@@ -199,7 +199,7 @@
       ],
       "frequency" : 10035,
       "mnemonic" : "ten-（握住；持有）+ -et（= -it，名词后缀）→紧紧握住的东西→基",
-      "phonetic" : "ˈtenɪt",
+      "phonetic" : "ˈtɛnət",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "tenet"
@@ -216,7 +216,7 @@
       ],
       "frequency" : 14823,
       "mnemonic" : "tene-（持有；握住）+-ment（名词后缀）→经济公寓；廉租公寓",
-      "phonetic" : "ˈtenəmənt",
+      "phonetic" : "ˈtɛnɪmənt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "tenement"
@@ -234,7 +234,7 @@
       ],
       "frequency" : 3107,
       "mnemonic" : "tenetz：抓住；接住→tenn-（=to hold：抓住，拿住）+ -is→网球",
-      "phonetic" : "ˈtenɪs",
+      "phonetic" : "ˈtɛn.ɪs",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "tennis"
@@ -251,7 +251,7 @@
       ],
       "frequency" : 5062,
       "mnemonic" : "ten-（=to hold：持有；握住）+ -ure（名词后缀）→持有、握住某个\n地位、职位→任期；终身职位\nten-（=have possession：拥有；财产；所有物）+ -ure（名词后缀）→\n持有、拥有某种所有物→居住权；使用权",
-      "phonetic" : "ˈtenjə",
+      "phonetic" : "ˈtɛn.jə",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "tenure"
@@ -283,7 +283,7 @@
       ],
       "frequency" : 5622,
       "mnemonic" : "ten-（持有；握住）+ -ant（名词后缀，人）→暂时拿着、占着某物的\n人→房客；佃户；引申义为动词含义，即（作为租赁者）居住，工作",
-      "phonetic" : "ˈtenənt",
+      "phonetic" : "ˈtɛ.nənt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "tenant"
@@ -299,7 +299,7 @@
       ],
       "frequency" : 6139,
       "mnemonic" : "lieu（=place：地方）+ tenant（= holder：占用者）→placeholder：某\n一职位的占用者、替代者→引申词义为副职官员仅低于……官阶的官",
-      "phonetic" : "lefˈtenənt",
+      "phonetic" : "l(j)uˈtɛnənt",
       "pos" : "n.",
       "rootHint" : "ten",
       "word" : "lieutenant"
@@ -333,7 +333,7 @@
       ],
       "frequency" : 15146,
       "mnemonic" : "ten-（=to hold：持有；握住）+ -acious（形容词后缀，表示多……\n的，充满……的）→紧紧持有，握住……的",
-      "phonetic" : "tɪˈneɪʃəs",
+      "phonetic" : "təˈneɪʃəs",
       "pos" : "adj.",
       "rootHint" : "ten",
       "word" : "tenacious"

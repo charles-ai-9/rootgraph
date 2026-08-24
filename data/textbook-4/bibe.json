@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "bipolar",
-      "phonetic": "bar'pəulə",
+      "phonetic": "ˌbaɪˈpoʊlər",
       "pos": "adj.",
       "definition": "完全对立的",
       "frequency": 10872,
@@ -24,7 +24,7 @@
     },
     {
       "word": "binocular",
-      "phonetic": "bɪˈnɒkjʊlə(ɹ)",
+      "phonetic": "bɪˈnɑkjʊlə(ɹ)",
       "pos": "adj.",
       "definition": "双目并用的；双眼的",
       "frequency": 7757,
@@ -39,7 +39,7 @@
     },
     {
       "word": "bipartisan",
-      "phonetic": "ˈbaɪˌpɑː(ɹ)t.ɪ.zæn",
+      "phonetic": "baɪˈpɑɹt.ə.sən",
       "definition": "两党的；两派的",
       "frequency": 6743,
       "mnemonic": "bi- ( 两个)+parti-(=party: 党派)+-san ( 名词后缀，表人) →两个 党派的人→两党的；两派的",
@@ -51,7 +51,7 @@
     },
     {
       "word": "bipartisanship",
-      "phonetic": "ˈbaɪˌpɑː(ɹ)t.ɪ.zæn.ʃɪp",
+      "phonetic": "ˈbaɪˌpɑ(ɹ)t.ɪ.zæn.ʃɪp",
       "pos": "n.",
       "definition": "两党合作；两党制",
       "frequency": 19832,
@@ -150,7 +150,7 @@
     },
     {
       "word": "balancing",
-      "phonetic": "'bælənsŋ",
+      "phonetic": "ˈbælənsɪŋ",
       "pos": "adj.",
       "definition": "平衡的",
       "frequency": 11783,
@@ -162,7 +162,7 @@
     },
     {
       "word": "imbalance",
-      "phonetic": "m'bæl(ə)ns",
+      "phonetic": "ɪmˈbæləns",
       "pos": "n.",
       "definition": "不平衡；失调[+in][+between]8287",
       "collocations": [
@@ -173,7 +173,7 @@
     },
     {
       "word": "unbalanced",
-      "phonetic": "ʌn'bælənst",
+      "phonetic": "ˌʌnˈbælənst",
       "pos": "adj.",
       "definition": "精神有些失常的；〔报告、论点等〕有失公允 的；片面的",
       "frequency": 17662,
@@ -214,7 +214,7 @@
     },
     {
       "word": "precocious",
-      "phonetic": "pɹəˈkəʊʃəs",
+      "phonetic": "pɹəˈkoʊʃəs",
       "pos": "adj.",
       "definition": "早熟的；智慧超前的",
       "frequency": 16035,
@@ -296,7 +296,7 @@
     },
     {
       "word": "uncooked",
-      "phonetic": "ʌn'kukt",
+      "phonetic": "ˌʌnˈkʊkt",
       "pos": "adj.",
       "definition": "未烹煮的；(食物)生的",
       "frequency": 18180,
@@ -308,7 +308,7 @@
     },
     {
       "word": "concoct",
-      "phonetic": "kəŋˈkɒkt",
+      "phonetic": "kəŋˈkɑkt",
       "pos": "vt.",
       "definition": "虚构，杜撰(故事、借口等);调制(尤指食物或饮料)12756",
       "mnemonic": "com-(=together : 一 起)+ coct-(=to cook,prepare food,ripen: 烹 调；准备食物；使成熟) →to boil together,prepare: 放在一起煎煮的 →调制食物→ 引申义为编造借口等",
@@ -321,7 +321,7 @@
     },
     {
       "word": "concoction",
-      "phonetic": "kənˈkɒkʃən",
+      "phonetic": "kənˈkɑkʃɪn",
       "pos": "n.",
       "definition": "( 古怪或少见的)调合物，调配品(尤指饮料或 药物)14962",
       "collocations": [
@@ -404,7 +404,7 @@
     },
     {
       "word": "ricotta",
-      "phonetic": "ɹɪˈkɒtə",
+      "phonetic": "ɹəˈkɑtə",
       "pos": "n.",
       "definition": "羊奶乳清干酪",
       "frequency": 17985,

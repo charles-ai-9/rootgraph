@@ -229,7 +229,7 @@
       ],
       "frequency" : 8648,
       "mnemonic" : "hair（头发）+cut（剪）→剪头发→理发；发型",
-      "phonetic" : "ˈheəkʌt",
+      "phonetic" : "ˈhɛrkʌt",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "haircut"
@@ -292,7 +292,7 @@
       ],
       "frequency" : 11352,
       "mnemonic" : "short（短的；近的）+ cut（抄近路）→近路；捷径；快捷方式",
-      "phonetic" : "ˈʃɔːtkʌt",
+      "phonetic" : "ˈʃɔtkʌt",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "shortcut"
@@ -338,7 +338,7 @@
       ],
       "frequency" : 19639,
       "mnemonic" : "cut（切割）+ throat（喉咙）→切喉咙的→形容竞争激烈的；残酷无",
-      "phonetic" : "ˈkʌtˌθrəʊt",
+      "phonetic" : "ˈkʌtˌθroʊt",
       "pos" : "adj.",
       "rootHint" : "ves",
       "word" : "cutthroat"
@@ -386,7 +386,7 @@
       ],
       "frequency" : 13925,
       "mnemonic" : "clip（夹）+ board（板）→带夹写字板\nclip（剪切；剪下）+ board（板）→剪贴板",
-      "phonetic" : "ˈklɪpbɔːd",
+      "phonetic" : "ˈklɪpbɔd",
       "pos" : "n.",
       "rootHint" : "ves",
       "word" : "clipboard"

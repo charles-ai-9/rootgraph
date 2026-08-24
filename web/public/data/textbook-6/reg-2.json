@@ -22,7 +22,7 @@
       ],
       "frequency" : 3413,
       "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ate（使动词后缀）→控制；",
-      "phonetic" : "ˈregjʊleɪt",
+      "phonetic" : "ˈɹɛɡjəleɪt",
       "pos" : "vt.",
       "rootHint" : "reg",
       "word" : "regulate"
@@ -36,7 +36,7 @@
 
       ],
       "frequency" : 14682,
-      "phonetic" : "ˈreɡjʊˌleɪtɪd",
+      "phonetic" : "ˈɹɛɡjəleɪtɪd",
       "pos" : "vt.",
       "rootHint" : "reg",
       "word" : "regulated"
@@ -68,7 +68,7 @@
       ],
       "frequency" : 1685,
       "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ation（=-ate + -ion：复合名\n词后缀）→管理，控制；规则（即：用来“管理”的东西）",
-      "phonetic" : "regjʊˈleɪʃn",
+      "phonetic" : "ˌɹɛɡjʊˈleɪʃən",
       "pos" : "n.",
       "rootHint" : "reg",
       "word" : "regulation"
@@ -83,7 +83,7 @@
       ],
       "frequency" : 4782,
       "mnemonic" : "regulat（=regulate：监管）+ -or（表示人或物）→监管者；监管机构",
-      "phonetic" : "ˈregjʊleɪtə",
+      "phonetic" : "ɹɛɡ.juː.leɪt.ə",
       "pos" : "n.",
       "rootHint" : "reg",
       "word" : "regulator"
@@ -98,7 +98,7 @@
       ],
       "frequency" : 3977,
       "mnemonic" : "regulat（=regulate：监管）+ -ory（形容词后缀，……的）→监管的",
-      "phonetic" : "ˈreɡjələtəri",
+      "phonetic" : "ˈɹɛɡjələtɹi",
       "pos" : "adj.",
       "rootHint" : "reg",
       "word" : "regulatory"
@@ -113,7 +113,7 @@
       ],
       "frequency" : 17678,
       "mnemonic" : "de-（表相反）+ regulate（管制；控制）→不对……进行控制→撤销",
-      "phonetic" : "ˌdiːˈreɡjuleɪt",
+      "phonetic" : "diːˈɹɛɡjəleɪt",
       "pos" : "vt.",
       "rootHint" : "reg",
       "word" : "deregulate"

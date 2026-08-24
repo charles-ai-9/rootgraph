@@ -15,7 +15,7 @@
   "words": [
     {
       "word": "cultured",
-      "phonetic": "'kaltʃad",
+      "phonetic": "ˈkʌltʃəd",
       "pos": "adj.",
       "definition": "有修养的；文雅的；(of cells or bacteria 细胞或细菌) (为医学或科学研究)培养的；(of pearls 珍珠)人工养殖的",
       "frequency": 15976,
@@ -38,7 +38,7 @@
     },
     {
       "word": "culturally",
-      "phonetic": "'kaltʃərəli",
+      "phonetic": "ˈkʌltʃərəlɪ",
       "pos": "adv.",
       "definition": "从文化上；与文艺有关",
       "frequency": 5850,
@@ -76,7 +76,7 @@
     },
     {
       "word": "aquaculture",
-      "phonetic": "'ækwəkaltʃə",
+      "phonetic": "ˈækwəkʌltʃər",
       "pos": "n.",
       "definition": "水产养殖",
       "frequency": 17824,
@@ -88,7 +88,7 @@
     },
     {
       "word": "subculture",
-      "phonetic": "'sabkaltʃə",
+      "phonetic": "ˈsʌbkʌltʃər",
       "pos": "n.",
       "definition": "亚文化；(某群体特有的)亚文化行为观念，次文化",
       "frequency": 13179,
@@ -116,7 +116,7 @@
     },
     {
       "word": "colonial",
-      "phonetic": "kəˈləʊ.ni.əl",
+      "phonetic": "kəˈloʊ.ni.əl",
       "pos": "adj.",
       "definition": "殖民地的；殖民主义的；(17和18世纪美洲)殖民地",
       "collocations": [],
@@ -125,7 +125,7 @@
     },
     {
       "word": "colonialism",
-      "phonetic": "kəˈləʊ.ni.ə.lɪ.zəm",
+      "phonetic": "kəˈloʊ.ni.ə.lɪ.zəm",
       "pos": "n.",
       "definition": "殖民主义；殖民政策",
       "frequency": 11040,
@@ -135,7 +135,7 @@
     },
     {
       "word": "colonist",
-      "phonetic": "ˈkɒlənɪst",
+      "phonetic": "ˈkɑlənɪst",
       "pos": "n.",
       "definition": "殖民地开拓者；殖民地居民；移民",
       "frequency": 9784,
@@ -147,7 +147,7 @@
     },
     {
       "word": "colonize",
-      "phonetic": "ˈkɒlənaɪz",
+      "phonetic": "ˈkɑlənaɪz",
       "pos": "vt.",
       "definition": "把……变为殖民地；(动物)移居于；(植物)在……大量繁殖",
       "frequency": 13695,
@@ -169,7 +169,7 @@
     },
     {
       "word": "colonizer",
-      "phonetic": "'kolənaiz ə",
+      "phonetic": "ˈkɑlənaɪzər",
       "pos": "n.",
       "definition": "殖民地开拓者；殖民者；移民",
       "frequency": 20089,
@@ -209,7 +209,7 @@
     },
     {
       "word": "searcher",
-      "phonetic": "'sstʃə",
+      "phonetic": "ˈsɜrtʃər",
       "pos": "n.",
       "definition": "搜索者；探索者",
       "frequency": 19255,
@@ -234,7 +234,7 @@
     },
     {
       "word": "researcher",
-      "phonetic": "rɪ'ss:tʃə",
+      "phonetic": "rɪˈsɜrtʃər",
       "pos": "n.",
       "definition": "研究员",
       "frequency": 1181,
@@ -283,7 +283,7 @@
     },
     {
       "word": "coronary",
-      "phonetic": "ˈkɒɹən(ə)ɹi",
+      "phonetic": "ˈkɔɹənɛɹi",
       "pos": "adj.",
       "definition": "冠状动脉的；与心脏有关的 n. 冠状动脉病",
       "frequency": 10458,
@@ -295,7 +295,7 @@
     },
     {
       "word": "coronation",
-      "phonetic": "ˌkɒɹəˈneɪʃən",
+      "phonetic": "ˌkɔɹəˈneɪʃən",
       "pos": "n.",
       "definition": "(国王或女王的)加冕仪式",
       "frequency": 18622,
@@ -305,7 +305,7 @@
     },
     {
       "word": "coroner",
-      "phonetic": "ˈkɒ.ɹə.nə(ɹ)",
+      "phonetic": "ˈkɑ.ɹə.nə(ɹ)",
       "pos": "n.",
       "definition": "验尸官",
       "frequency": 10826,
@@ -392,7 +392,7 @@
     },
     {
       "word": "long-range",
-      "phonetic": "'lon'rendʒ",
+      "phonetic": "lɑŋ reɪndʒ",
       "pos": "adj.",
       "definition": "远程的；远大的；长期的(规划等)9171",
       "collocations": [
@@ -469,7 +469,7 @@
     },
     {
       "word": "ranching",
-      "phonetic": "'ræntiŋ",
+      "phonetic": "ˈrɑntʃɪŋ",
       "pos": "n.",
       "definition": "大农牧场的经营",
       "frequency": 14884,
@@ -479,7 +479,7 @@
     },
     {
       "word": "rancher",
-      "phonetic": "'ra:n(t) ʃə",
+      "phonetic": "ˈrɑntʃər",
       "pos": "n.",
       "definition": "农场主",
       "frequency": 7616,
@@ -581,7 +581,7 @@
     },
     {
       "word": "fund-raiser",
-      "phonetic": "'fand,reizə",
+      "phonetic": "ˈfʌndˌreɪzə",
       "pos": "n.",
       "definition": "募集资金的活动；募集资金者",
       "frequency": 6967,
@@ -595,7 +595,7 @@
     },
     {
       "word": "refund",
-      "phonetic": "'ri:fʌnd",
+      "phonetic": "ˈriːfʌnd",
       "pos": "vt.",
       "definition": "退 还n. 退款",
       "frequency": 11184,
@@ -671,7 +671,7 @@
     },
     {
       "word": "fundamentally",
-      "phonetic": "fandə'mentəli",
+      "phonetic": "ˌfʌndəˈmentəli",
       "pos": "adv.",
       "definition": "根本上；基本上",
       "frequency": 5666,
@@ -721,7 +721,7 @@
     },
     {
       "word": "unfounded",
-      "phonetic": "ʌ n'faundid",
+      "phonetic": "ʌnˈfaʊndɪd",
       "pos": "adj.",
       "definition": "没有事实根据的；无稽的",
       "frequency": 14618,
@@ -748,7 +748,7 @@
     },
     {
       "word": "foundational",
-      "phonetic": "faun'derʃənəl",
+      "phonetic": "faʊnˈdeɪʃənəl",
       "pos": "adj.",
       "definition": "基础的；基本的",
       "frequency": 17082,
@@ -760,7 +760,7 @@
     },
     {
       "word": "co-found",
-      "phonetic": "'kəu'faund",
+      "phonetic": "koʊˈfaʊndə",
       "pos": "vt.",
       "definition": "共同创立",
       "frequency": 18758,
@@ -773,7 +773,7 @@
     },
     {
       "word": "co-founder",
-      "phonetic": "'kəu'faundə(r)",
+      "phonetic": "ˈkoʊfˈaʊndər",
       "pos": "n.",
       "definition": "共同创始人",
       "frequency": 8411,
@@ -850,7 +850,7 @@
     },
     {
       "word": "bottomless",
-      "phonetic": "ˈbɒtm̩.ləs",
+      "phonetic": "ˈbaɾm̩lɨs",
       "pos": "adj.",
       "definition": "无穷无尽的；深不见底的",
       "frequency": 17291,
@@ -958,7 +958,7 @@
     },
     {
       "word": "baseman",
-      "phonetic": "'bersmən",
+      "phonetic": "ˈbeɪsmæn",
       "pos": "n.",
       "definition": "守垒员；垒手",
       "frequency": 8959,
@@ -986,7 +986,7 @@
     },
     {
       "word": "broad-based",
-      "phonetic": "'brɔ:dbeist",
+      "phonetic": "ˈbrɔdbeist",
       "pos": "adj.",
       "definition": "有广泛基础的；无限制的",
       "frequency": 14323,
@@ -999,7 +999,7 @@
     },
     {
       "word": "community-based",
-      "phonetic": "kə'mju:nətrbeist",
+      "phonetic": "kəˌmjuːnətiˈbeɪst",
       "pos": "adj.",
       "definition": "以社区为基础的",
       "frequency": 11496,
@@ -1060,7 +1060,7 @@
     },
     {
       "word": "groundwater",
-      "phonetic": "'graund'wɔtə",
+      "phonetic": "ˈgraʊndwɔtər",
       "pos": "n.",
       "definition": "地下水",
       "frequency": 9190,
@@ -1124,7 +1124,7 @@
     },
     {
       "word": "functionality",
-      "phonetic": "fankfə'næləti",
+      "phonetic": "ˌfʌŋkʃəˈnæləti",
       "pos": "n.",
       "definition": "(计算机、软件或设备的)功能",
       "frequency": 17118,
@@ -1137,7 +1137,7 @@
     },
     {
       "word": "functioning",
-      "phonetic": "'fankfənrŋ",
+      "phonetic": "ˈfʌŋkʃənɪŋ",
       "pos": "n.",
       "definition": "运行；功能(function 的动名词)813520000词汇巅峰速20000词汇巅峰",
       "collocations": [],
@@ -1205,7 +1205,7 @@
     },
     {
       "word": "dysfunctional",
-      "phonetic": "dis'fankfənl",
+      "phonetic": "dɪsˈfʌŋkʃənl",
       "pos": "adj.",
       "definition": "( 关系或行为)异常的",
       "frequency": 10115,

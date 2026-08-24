@@ -53,7 +53,7 @@
       ],
       "frequency" : 4315,
       "mnemonic" : "isol-(=isle：岛) + -ation（名词后缀）→向岛屿一样隔离、孤立→隔",
-      "phonetic" : "aɪsəˈleɪʃn",
+      "phonetic" : "ˌaɪsəˈleɪʃən",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "isolation"
@@ -91,7 +91,7 @@
       ],
       "frequency" : 3863,
       "mnemonic" : "pre-（预先）+ -cis-（=to cut：剪；切）+ -e →预先裁剪过的→确切",
-      "phonetic" : "prɪˈsaɪs",
+      "phonetic" : "pɹɪˈsaɪs",
       "pos" : "adj.",
       "rootHint" : "isol",
       "word" : "precise"
@@ -105,7 +105,7 @@
         "The first bell rang at precisely 10:29 a.m.\n第一遍铃声在上午10：29准时响起。"
       ],
       "frequency" : 2602,
-      "phonetic" : "prɪˈsaɪslɪ",
+      "phonetic" : "pɹɪˈsaɪsli",
       "pos" : "adv.",
       "rootHint" : "isol",
       "word" : "precisely"
@@ -121,7 +121,7 @@
       ],
       "frequency" : 5538,
       "mnemonic" : "precis（=precise：精确的；细致的）+ -ion（名词后缀）→精确；准",
-      "phonetic" : "prɪˈsɪʒn",
+      "phonetic" : "pɹɪˈsɪ.ʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "precision"
@@ -156,7 +156,7 @@
       ],
       "frequency" : 18306,
       "mnemonic" : "ex-（=out）+ -cis-（=to cut：减少；删节）+ e→to cut out：切除；删",
-      "phonetic" : "ˈeksaɪz",
+      "phonetic" : "ˈɛkˌsaɪz",
       "pos" : "vt.",
       "rootHint" : "isol",
       "word" : "excise"
@@ -172,7 +172,7 @@
       ],
       "frequency" : 18668,
       "mnemonic" : "ex-（=out）+ -cis-（=to cut：减少；删节）+ -ion（名词后缀）→to\ncut out：切除；删除；切除物",
-      "phonetic" : "ɪkˈsɪʒn",
+      "phonetic" : "ɪkˈsɪʒən",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "excision"
@@ -252,7 +252,7 @@
         "Amy was looking decidedly worried.\n埃米看上去显然是忧心忡忡。"
       ],
       "frequency" : 8380,
-      "phonetic" : "dɪˈsaɪdɪdlɪ",
+      "phonetic" : "dɪˈsaɪdɪdli",
       "pos" : "adv.",
       "rootHint" : "isol",
       "word" : "decidedly"
@@ -283,7 +283,7 @@
       ],
       "frequency" : 480,
       "mnemonic" : "de-（离开）+ -cis-（切）+ -ion（名词后缀）→切断，与……分离→",
-      "phonetic" : "dɪˈsɪʒn",
+      "phonetic" : "dɪˈsɪʒən",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "decision"
@@ -329,7 +329,7 @@
       ],
       "frequency" : 18357,
       "mnemonic" : "in-（=not：不）+ decision（决定）→没有决定→优柔寡断；犹豫不决",
-      "phonetic" : "ɪndɪˈsɪʒn",
+      "phonetic" : "ɪndɪˈsɪʒ(ə)n",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "indecision"
@@ -344,7 +344,7 @@
       ],
       "frequency" : 12836,
       "mnemonic" : "in-（进入；向内）+ -cis-（=to cut：切）+ -ion（名词后缀）→向内切\n→切口；切开",
-      "phonetic" : "ɪnˈsɪʒn",
+      "phonetic" : "ɪnˈsɪʒən",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "incision"
@@ -377,7 +377,7 @@
       ],
       "frequency" : 8985,
       "mnemonic" : "suicide（自杀）+ -al（形容词后缀）→有自杀倾向的→有致命危险",
-      "phonetic" : "ˌsuːɪˈsaɪdl",
+      "phonetic" : "ˌs(j)uːɪˈsaɪdl̩",
       "pos" : "adj.",
       "rootHint" : "isol",
       "word" : "suicidal"
@@ -392,7 +392,7 @@
       ],
       "frequency" : 5233,
       "mnemonic" : "homi-（=homo-：人）+ -cid-（杀）+ e→杀人；（蓄意）杀人罪",
-      "phonetic" : "ˈhɒmɪsaɪd",
+      "phonetic" : "ˈhoʊməsaɪd",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "homicide"
@@ -408,7 +408,7 @@
       ],
       "frequency" : 5295,
       "mnemonic" : "pest（害虫）+ i+ -cide（=killer：致命的事物）→除灭害虫的东西→",
-      "phonetic" : "ˈpestɪsaɪd",
+      "phonetic" : "ˈpɛstɨsaɪd",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "pesticide"
@@ -422,7 +422,7 @@
 
       ],
       "mnemonic" : "herb-（草）+ i+ -cide（=killer：致命的事物）→除灭草的东西→除草剂",
-      "phonetic" : "ˈhɜːbɪsaɪd",
+      "phonetic" : "ˈhɝbɪsaɪd",
       "pos" : "n.",
       "rootHint" : "isol",
       "word" : "herbicide"

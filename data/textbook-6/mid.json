@@ -85,7 +85,7 @@
       ],
       "frequency" : 16234,
       "mnemonic" : "mid-（中间）+ morning（上午）→上午中段时间；上午十点左右",
-      "phonetic" : "ˈmɪdˈmɔːnɪŋ",
+      "phonetic" : "ˈmɪdˈmɔnɪŋ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "mid-morning"
@@ -193,7 +193,7 @@
       ],
       "frequency" : 13220,
       "mnemonic" : "mid-（在中间）+ air（空气；天空）→在天空中→半空中；悬空",
-      "phonetic" : "ˌmɪd ˈeə(r)",
+      "phonetic" : "ˌmɪd ˈɛrr",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "mid-air"
@@ -285,7 +285,7 @@
       ],
       "frequency" : 4998,
       "mnemonic" : "middle（中间的）+ class（阶级）→中间的阶级→中产阶级→带有中",
-      "phonetic" : "mɪdlˈklɑːs",
+      "phonetic" : "mɪdlˈklɑs",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "middle-class"
@@ -395,7 +395,7 @@
       ],
       "frequency" : 17934,
       "mnemonic" : "medium（中等的；中等程度的）+ low（低的）→中低的",
-      "phonetic" : "ˈmiːdɪəm ləʊ",
+      "phonetic" : "ˈmiːdɪəm loʊ",
       "pos" : "adj.",
       "rootHint" : "med",
       "word" : "medium-low"
@@ -411,7 +411,7 @@
       ],
       "frequency" : 758,
       "mnemonic" : "medi-（中间；（传播信息的）媒介）+ -a（复数后缀）→变为复数形\n式→media：媒体",
-      "phonetic" : "ˈmiːdɪə",
+      "phonetic" : "ˈmiːdi.ə",
       "pos" : "n.",
       "rootHint" : "med",
       "word" : "media"
@@ -578,7 +578,7 @@
       ],
       "frequency" : 17212,
       "mnemonic" : "mediocr（=mediocre：平庸的；普通的）+ -ity（名词后缀，表示具备\n某种特征）→平庸；普通；平庸之人",
-      "phonetic" : "miːdɪˈɒkɹɪti",
+      "phonetic" : "miːdɪˈɑkɹɪti",
       "pos" : "n.",
       "rootHint" : "med",
       "word" : "mediocrity"
@@ -595,7 +595,7 @@
       ],
       "frequency" : 11894,
       "mnemonic" : "来自mi-（=middle：中间的）+ lieu（=place：地方）→人生活在其中\n的地方→社会环境",
-      "phonetic" : "mɪlˈjɜː",
+      "phonetic" : "mɪlˈju",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "milieu"
@@ -635,7 +635,7 @@
 
       ],
       "frequency" : 915,
-      "phonetic" : "bɔːl",
+      "phonetic" : "bɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "ball"
@@ -667,7 +667,7 @@
       ],
       "frequency" : 1813,
       "mnemonic" : "basket（篮；筐）+ ball（球）→把球投进篮筐中→篮球",
-      "phonetic" : "ˈbæs.kɪt.bɔːl",
+      "phonetic" : "ˈbæs.kɪt.bɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "basketball"
@@ -682,7 +682,7 @@
       ],
       "frequency" : 8305,
       "mnemonic" : "soft（软的）+ ball（球）→垒球（质地软的球）",
-      "phonetic" : "ˈsɒftbɔːl",
+      "phonetic" : "ˈsɑftbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "softball"
@@ -697,7 +697,7 @@
       ],
       "frequency" : 8047,
       "mnemonic" : "volley（=to fly：飞）+ ball（球）→在球处于飞行状态时击球，在球\n未着地之前回球→排球",
-      "phonetic" : "ˈvɒlibɔ(ː)l",
+      "phonetic" : "ˈvɑlibɔ(ː)l",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "volleyball"
@@ -712,7 +712,7 @@
       ],
       "frequency" : 11955,
       "mnemonic" : "fast（快的；迅速的）+ ball（球）→快速球",
-      "phonetic" : "ˈfaːstbɔːl",
+      "phonetic" : "ˈfaːstbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "fastball"
@@ -727,7 +727,7 @@
 
       ],
       "frequency" : 9271,
-      "phonetic" : "ˈbɔːlpɑːk",
+      "phonetic" : "ˈbɔlpɑk",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "ballpark"
@@ -742,7 +742,7 @@
       ],
       "frequency" : 15373,
       "mnemonic" : "ball（=baseball：棒球）+ player（运动员）→棒球运动员",
-      "phonetic" : "ˈbɔːlpleɪə(r)",
+      "phonetic" : "ˈbɔlpleɪr",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "ballplayer"
@@ -757,7 +757,7 @@
       ],
       "frequency" : 17933,
       "mnemonic" : "ball（=baseball：棒球）+ game（运动）→棒球运动",
-      "phonetic" : "ˈbɔːlgeim",
+      "phonetic" : "ˈbɔlgeim",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "ballgame"
@@ -787,7 +787,7 @@
       ],
       "frequency" : 15183,
       "mnemonic" : "fire（火）+ ball（球）→火球",
-      "phonetic" : "ˈfaɪə(ɹ)bɔːl",
+      "phonetic" : "ˈfaɪrbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "fireball"
@@ -801,7 +801,7 @@
         "I want us to play hardball on this issue.\n我希望我们在这个问题上采取强硬手段。"
       ],
       "frequency" : 17381,
-      "phonetic" : "ˈhɑːdbɔːl",
+      "phonetic" : "ˈhɑdbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "hardball"
@@ -815,7 +815,7 @@
 
       ],
       "mnemonic" : "meatball（肉）+ ball（圆形）→把肉捏成圆形→肉丸",
-      "phonetic" : "ˈmiːtbɔːl",
+      "phonetic" : "ˈmiːtbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "meatball"
@@ -831,7 +831,7 @@
       ],
       "frequency" : 19719,
       "mnemonic" : "odd（古怪的）+ ball（球）→古怪的球→形容行为古怪的人；行为古",
-      "phonetic" : "ˈɑːdˌbɔl",
+      "phonetic" : "ˈɑdˌbɔl",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "oddball"
@@ -862,7 +862,7 @@
       ],
       "frequency" : 9233,
       "mnemonic" : "ball（正式的舞会）+ room（房间）→跳舞的房间→舞厅",
-      "phonetic" : "ˈbɔːlɹuːm",
+      "phonetic" : "ˈbɔlɹuːm",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "ballroom"
@@ -978,7 +978,7 @@
 
       ],
       "frequency" : 10829,
-      "phonetic" : "ˈbəʊldli",
+      "phonetic" : "ˈboʊldli",
       "pos" : "adv.",
       "rootHint" : "mid",
       "word" : "boldly"
@@ -992,7 +992,7 @@
 
       ],
       "mnemonic" : "bold（大胆的）+ -ness（名词后缀）→大胆",
-      "phonetic" : "ˈbəʊldnəs",
+      "phonetic" : "ˈboʊldnəs",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "boldness"
@@ -1087,7 +1087,7 @@
         "I go bowling for relaxation.\n我玩保龄球放松自己。"
       ],
       "frequency" : 8105,
-      "phonetic" : "ˈbəʊlɪŋ",
+      "phonetic" : "ˈboʊliŋ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "bowling"
@@ -1280,7 +1280,7 @@
       ],
       "frequency" : 17448,
       "mnemonic" : "bull（公牛）+ doze（剂量）→原本指足以放到一头公牛（bull）的剂\n量（doze）→比喻采用鞭打、枪杀等野蛮手段来阻止黑人参加选举的",
-      "phonetic" : "ˈbʊldəʊz",
+      "phonetic" : "ˈbʊldoʊz",
       "pos" : "vt.",
       "rootHint" : "mid",
       "word" : "bulldoze"
@@ -1406,7 +1406,7 @@
       ],
       "frequency" : 6791,
       "mnemonic" : "起的物品，如垫子，枕头，护垫等→现在常用于抽象对象，如巩固经",
-      "phonetic" : "ˈbəʊlstə",
+      "phonetic" : "ˈboʊlstɚ",
       "pos" : "vt.",
       "rootHint" : "mid",
       "word" : "bolster"
@@ -1613,7 +1613,7 @@
       ],
       "frequency" : 13977,
       "mnemonic" : "con-（=together：一起）+ -flu-（=flow：流）+ -ence（名词后缀）→\n流在一起，特指两条或更多的溪流、河流流在一起的地方→（河流",
-      "phonetic" : "ˈkɒnfluəns",
+      "phonetic" : "ˈkɑnfluəns",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "confluence"
@@ -1808,7 +1808,7 @@
       ],
       "frequency" : 9279,
       "mnemonic" : "来自19世纪英国物理学家George Stokes, 因为他首先在氟中发现这种\nfluor（fluorine：氟）+ -escent（=beginning：开始的）→从氟中开始\n发现的荧光→发荧光的；强力发光的，发亮的\n趣记：fluor（=flow：流出）+ -escent（开始的）→从黑暗中流出光的→发荧",
-      "phonetic" : "ˌflʊəˈɹɛsənt",
+      "phonetic" : "flɔˈɹɛsɨnt",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "fluorescent"
@@ -2103,7 +2103,7 @@
 
       ],
       "frequency" : 12574,
-      "phonetic" : "ˈflaʊərɪŋ",
+      "phonetic" : "ˈflaʊrɪŋ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "flowering"
@@ -2118,7 +2118,7 @@
 
       ],
       "frequency" : 19559,
-      "phonetic" : "ˈflaʊərɪ",
+      "phonetic" : "ˈflaʊrɪ",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "flowery"
@@ -2133,7 +2133,7 @@
       ],
       "frequency" : 11550,
       "mnemonic" : "wild（动植物野生的）+ flower（花；花朵）→野花",
-      "phonetic" : "ˈwaɪldˌflaʊə",
+      "phonetic" : "ˈwaɪldˌflaʊr",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "wildflower"
@@ -2149,7 +2149,7 @@
       ],
       "frequency" : 12774,
       "mnemonic" : "sun（太阳）+ flower（花）→花序随太阳转动→向日葵；葵花",
-      "phonetic" : "ˈsʌnˌflaʊə",
+      "phonetic" : "ˈsʌnˌflaʊ.ɚ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "sunflower"
@@ -2180,7 +2180,7 @@
       "examples" : [
 
       ],
-      "phonetic" : "ˈflɔː.ɹə",
+      "phonetic" : "ˈflɔ.ɹə",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "flora"
@@ -2226,7 +2226,7 @@
       ],
       "frequency" : 7483,
       "mnemonic" : "foli-（=leaf：叶子）+ -age（名词后缀）→（植物的）叶；枝叶",
-      "phonetic" : "ˈfəʊliɪdʒ",
+      "phonetic" : "ˈfoʊliɪdʒ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "foliage"
@@ -2240,7 +2240,7 @@
         "Iron and folic acid supplements are frequently given to pregnant women.\n铁剂和叶酸片常被配给孕妇服用。"
       ],
       "frequency" : 19629,
-      "phonetic" : "ˈfəʊlik",
+      "phonetic" : "ˈfoʊlik",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "folic"
@@ -2256,7 +2256,7 @@
       ],
       "frequency" : 19963,
       "mnemonic" : "Florent（=Florence：佛罗伦萨（意大利都市名）+ -ine（形容词后\n缀，表示……的）→佛罗伦萨式的",
-      "phonetic" : "ˈflɒɹəntaɪn",
+      "phonetic" : "ˈflɑɹəntaɪn",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "Florentine"
@@ -2552,7 +2552,7 @@
       ],
       "frequency" : 19420,
       "mnemonic" : "unknowing（无意的；未察觉的；不知情的）+ -ly（副词后缀）→无",
-      "phonetic" : "ʌnˈnəʊ.ɪŋ.li",
+      "phonetic" : "ʌnˈnoʊ.ɪŋ.li",
       "pos" : "adv.",
       "rootHint" : "mid",
       "word" : "unknowingly"
@@ -2567,7 +2567,7 @@
       ],
       "frequency" : 13750,
       "mnemonic" : "know（知道）+ how（如何做）→知道如何做→专门知识；技能",
-      "phonetic" : "ˈnəʊ.haʊ",
+      "phonetic" : "ˈnoʊ.haʊ",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "know-how"
@@ -2582,7 +2582,7 @@
       ],
       "frequency" : 13697,
       "mnemonic" : "little（完全不）+ known（已知的）→完全不为人所知的→鲜为人知的",
-      "phonetic" : "ˈlɪtəl nəʊn",
+      "phonetic" : "ˈlɪtəl noʊn",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "little-known"
@@ -2665,7 +2665,7 @@
       ],
       "frequency" : 1664,
       "mnemonic" : "ac-（加强语气）+ know（知道；认识）+ -ledge（名词后缀）→被人\n知道、知悉、确知→承认；认可；确认受到；向……致意；感谢",
-      "phonetic" : "ækˈnɑː.lɪdʒ",
+      "phonetic" : "ækˈnɑ.lɪdʒ",
       "pos" : "vt.",
       "rootHint" : "mid",
       "word" : "acknowledge"
@@ -2679,7 +2679,7 @@
 
       ],
       "frequency" : 14576,
-      "phonetic" : "əkˈnɒlɪdʒd",
+      "phonetic" : "əkˈnɑlɪdʒd",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "acknowledged"
@@ -2813,7 +2813,7 @@
       ],
       "frequency" : 3370,
       "mnemonic" : "co-（共同）+ gn-（=know：知道）+ -itive（复合形容词后缀）→大\n家共同都知道的→认知的",
-      "phonetic" : "ˈkɒɡnɪtɪv",
+      "phonetic" : "ˈkɑɡnɪtɪv",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "cognitive"
@@ -2843,7 +2843,7 @@
       ],
       "frequency" : 19683,
       "mnemonic" : "co-（共同）+ gn-（=know：知道）+ -ize（使动词后缀）+ -ant（形\n容词后缀，……的）→有共同认知的→认知的；了解的（having",
-      "phonetic" : "ˈkɒnɪzənt",
+      "phonetic" : "ˈkɑnɪzənt",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "cognizant"
@@ -2859,7 +2859,7 @@
       ],
       "frequency" : 3868,
       "mnemonic" : "dia-（=thoroughly：彻底地）+ gno-（知道）+ s（无意义）+ e→（让\n医生）彻底知道（病情）→诊断（疾病）；判断（问题的原因）",
-      "phonetic" : "daɪəɡˈnəʊz",
+      "phonetic" : "daɪəɡˈnoʊz",
       "pos" : "vt.",
       "rootHint" : "mid",
       "word" : "diagnose"
@@ -2875,7 +2875,7 @@
       ],
       "frequency" : 3627,
       "mnemonic" : "diagno（=diagnose：诊断；判断）+ -sis（名词后缀，表示过程、活\n动）→诊断；判断",
-      "phonetic" : "daɪəɡˈnəʊsɪs",
+      "phonetic" : "daɪəɡˈnoʊsɪs",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "diagnosis"
@@ -2892,7 +2892,7 @@
       ],
       "frequency" : 6764,
       "mnemonic" : "diagnos（=diagnose：诊断；判断）+ -tic（形容词\/名词后缀）→诊断",
-      "phonetic" : "daɪəˈɡnɒstɪk",
+      "phonetic" : "daɪəˈɡnɑstɪk",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "diagnostic"
@@ -2961,7 +2961,7 @@
       ],
       "frequency" : 12001,
       "mnemonic" : "pro- (=before：以前的) + gno-（=to know：知道）+ -sis（抽象名词后\n缀）→come to know\nbeforehand：事情发生之前知道的；预测→对病情发展的预测；展",
-      "phonetic" : "pɹɒɡˈnəʊsɪs",
+      "phonetic" : "pɹɑɡˈnoʊsɪs",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "prognosis"
@@ -3172,7 +3172,7 @@
       ],
       "frequency" : 4477,
       "mnemonic" : "note（笔记）+ book（本子；簿子）→笔记本；笔记本电脑",
-      "phonetic" : "ˈnəʊtˌbʊk",
+      "phonetic" : "ˈnoʊtˌbʊk",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "notebook"
@@ -3203,7 +3203,7 @@
       ],
       "frequency" : 18545,
       "mnemonic" : "note（记录）+ pad（便签簿）→记录笔记的便签簿→记事本；笔记本",
-      "phonetic" : "ˈnəʊtpæd",
+      "phonetic" : "ˈnoʊtpæd",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "notepad"
@@ -3235,7 +3235,7 @@
       ],
       "frequency" : 12066,
       "mnemonic" : "notif（=notify：正式通知）+ -ication（由动词变化而来的抽象名词后\n后缀）→正式通知",
-      "phonetic" : "ˌnəʊtɪfɪˈkeɪʃən",
+      "phonetic" : "ˌnoʊtɪfɪˈkeɪʃən",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "notification"
@@ -3282,7 +3282,7 @@
       ],
       "frequency" : 5334,
       "mnemonic" : "not-（=note：注意）+ ably（=able（可以；能……的）+ -ly（副词后\n缀））→可以注意地，值得注意地→尤其；显著地",
-      "phonetic" : "ˈnəʊtəblɪ",
+      "phonetic" : "ˈnoʊtəblɪ",
       "pos" : "adv.",
       "rootHint" : "mid",
       "word" : "notably"
@@ -3329,7 +3329,7 @@
       ],
       "frequency" : 8652,
       "mnemonic" : "notice（注意）+ -able（形容词后缀，能……的）→能被注意到的→",
-      "phonetic" : "ˈnəʊtɪsəbl̩",
+      "phonetic" : "ˈnoʊtɪsəbl̩",
       "pos" : "adj.",
       "rootHint" : "mid",
       "word" : "noticeable"
@@ -3343,7 +3343,7 @@
         "Her hand was shaking noticeably.\n很明显她的手在颤抖。"
       ],
       "frequency" : 11667,
-      "phonetic" : "ˈnəʊtɪsəbli",
+      "phonetic" : "ˈnoʊtɪsəbli",
       "pos" : "adv.",
       "rootHint" : "mid",
       "word" : "noticeably"
@@ -3376,7 +3376,7 @@
       ],
       "frequency" : 12440,
       "mnemonic" : "nobil（=noble：贵族的；高尚的）+ -ity（名词后缀，具备某种特\n性）→贵族阶层；高尚品格",
-      "phonetic" : "nəʊˈbɪlɪti",
+      "phonetic" : "noʊˈbɪlɪti",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "nobility"
@@ -3407,7 +3407,7 @@
         "Mountain weather is notoriously difficult to predict.\n山地气候难以预料是人所共知的。"
       ],
       "frequency" : 10537,
-      "phonetic" : "nəˈtɔːɹɪəsli",
+      "phonetic" : "nəˈtɔɹɪəsli",
       "pos" : "adv.",
       "rootHint" : "mid",
       "word" : "notoriously"
@@ -3422,7 +3422,7 @@
       ],
       "frequency" : 13359,
       "mnemonic" : "notori（=notorious：声名狼藉的）+ -ety（名词后缀）→坏名声；声",
-      "phonetic" : "nəʊ.təˈɹaɪ.ə.ti",
+      "phonetic" : "noʊ.tɚ.aɪ.ə.ti",
       "pos" : "n.",
       "rootHint" : "mid",
       "word" : "notoriety"

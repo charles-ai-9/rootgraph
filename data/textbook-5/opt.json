@@ -26,7 +26,7 @@
       ],
       "frequency" : 15107,
       "mnemonic" : "op-（=eye：眼睛）+ t（无意义）+ -ic（形容词后缀）→视觉的；视",
-      "phonetic" : "ˈɒptɪk",
+      "phonetic" : "ˈɑptɪk",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "optic"
@@ -42,7 +42,7 @@
       ],
       "frequency" : 5569,
       "mnemonic" : "op-（=eye：眼睛；以前的眼睛是写作“ege”）+ t（无意义）+ -ical\n（复合形容词后缀）→视力的；光学的",
-      "phonetic" : "ˈɒptɪkəl",
+      "phonetic" : "ˈɑptɪkəl",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "optical"
@@ -107,7 +107,7 @@
       ],
       "frequency" : 8195,
       "mnemonic" : "atr-（=fire：火）+ -oc（=to see：看见）+ -ity（名词后缀）→燃烧般\n的、威胁性的行为→残暴行为",
-      "phonetic" : "əˈtrɒsɪtɪ",
+      "phonetic" : "əˈtrɑsɪtɪ",
       "pos" : "n.",
       "rootHint" : "oci",
       "word" : "atrocity"
@@ -126,7 +126,7 @@
       ],
       "frequency" : 7919,
       "mnemonic" : "auto-（=self：自己的；亲自的）+ ops-（=a sight：看见）+ -y（名词\n后缀）→为查明死因，自己亲自查看尸体→验尸；尸体解剖",
-      "phonetic" : "ˈɔːtɒpsiː",
+      "phonetic" : "ˈɔtɑpsi",
       "pos" : "n.",
       "rootHint" : "ops",
       "word" : "autopsy"
@@ -144,7 +144,7 @@
       ],
       "frequency" : 11486,
       "mnemonic" : "fer-（=wild：狂暴的；野生的）+ -oci（=looking, appearing：看起\n来）+ -ous（形容词后缀，充满……的）→看起来狂暴的；野生的→",
-      "phonetic" : "fəˈɹəʊʃəs",
+      "phonetic" : "fəˈɹoʊʃəs",
       "pos" : "adj.",
       "rootHint" : "oci",
       "word" : "ferocious"
@@ -159,7 +159,7 @@
       ],
       "frequency" : 16618,
       "mnemonic" : "feroc（=fierce：激烈的）+ -ity（名词后缀）→残暴；猛烈",
-      "phonetic" : "fəˈrɒsɪtɪ",
+      "phonetic" : "fəˈrɑsɪtɪ",
       "pos" : "n.",
       "rootHint" : "oci",
       "word" : "ferocity"
@@ -211,7 +211,7 @@
       ],
       "frequency" : 18821,
       "mnemonic" : "in-（=in：进入）+ -ocul（=bud, eye：芽；苞；眼睛）+ -ate（动词后\n缀）→把一种植物的芽孢种植到另外一种植物中→植入一种疾病的致\n病菌以产生免疫力→给……预防接种；打预防针",
-      "phonetic" : "ɪˈnɒkjuleɪt",
+      "phonetic" : "ɪˈnɑkjuleɪt",
       "pos" : "vt.",
       "rootHint" : "opt",
       "word" : "inoculate"
@@ -308,7 +308,7 @@
       ],
       "frequency" : 11928,
       "mnemonic" : "foresee（预知）+ -able（能够……的）→可预知的",
-      "phonetic" : "fɔːˈsiːəbl",
+      "phonetic" : "fɔˈsiːəbl",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "foreseeable"
@@ -324,7 +324,7 @@
       ],
       "frequency" : 15852,
       "mnemonic" : "un-（=not：不）+ foreseen（预见，foresee的过去分词形式）→为预",
-      "phonetic" : "ʌnfɔːˈsiːn",
+      "phonetic" : "ʌnfɔˈsiːn",
       "pos" : "adj.",
       "rootHint" : "opt",
       "word" : "unforeseen"
@@ -455,7 +455,7 @@
       ],
       "frequency" : 14847,
       "mnemonic" : "fore-（在前）+ sight（看；视野）→insight obtained beforehand：事情\n未发生之前获得的视野和看见→先见之明；深谋远虑",
-      "phonetic" : "ˈfɔːsaɪt",
+      "phonetic" : "ˈfɔsaɪt",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "foresight"
@@ -679,7 +679,7 @@
       ],
       "frequency" : 18275,
       "mnemonic" : "pur-（=pro-：向前）+ view（看）→向前看的范围，界限→视野；见\n识→引申义为（组织或活动的）范围，权限",
-      "phonetic" : "ˈpɜːvjuː",
+      "phonetic" : "ˈpɝvjuː",
       "pos" : "n.",
       "rootHint" : "opt",
       "word" : "purview"

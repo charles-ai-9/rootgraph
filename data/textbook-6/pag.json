@@ -64,7 +64,7 @@
       ],
       "frequency" : 5413,
       "mnemonic" : "pay（薪水）+ roll（名册；名单）→领取薪水的员工名册→在职员工\npay（薪水）+ roll（名册）→登记入册的发放薪水总额→发放工资总额",
-      "phonetic" : "ˈpeɪɹəʊl",
+      "phonetic" : "ˈpeɪɹoʊl",
       "pos" : "n.",
       "rootHint" : "pag",
       "word" : "payroll"
@@ -81,7 +81,7 @@
       ],
       "frequency" : 7792,
       "mnemonic" : "pay（支付；给……支付工薪）+ off（离开）→付款给某人；在员工\n离开的时候支付的工薪→辞退补偿金；收益；贿赂钱",
-      "phonetic" : "ˈpeɪɔːf",
+      "phonetic" : "ˈpeɪɔf",
       "pos" : "n.",
       "rootHint" : "pag",
       "word" : "payoff"
@@ -155,7 +155,7 @@
       ],
       "frequency" : 3147,
       "mnemonic" : "tax（税）+ payer（支付的人）→（向相关政府机关）支付、缴纳税\n款的人→纳税人",
-      "phonetic" : "ˈtækspeɪə",
+      "phonetic" : "ˈtækspeɪr",
       "pos" : "n.",
       "rootHint" : "pag",
       "word" : "taxpayer"
@@ -773,7 +773,7 @@
 
       ],
       "frequency" : 19350,
-      "phonetic" : "fɑːst peɪst",
+      "phonetic" : "fɑst peɪst",
       "pos" : "adj.",
       "rootHint" : "pag",
       "word" : "fast-paced"
@@ -874,7 +874,7 @@
       ],
       "frequency" : 15844,
       "mnemonic" : "condense（使（气体、蒸汽）冷凝；简缩）+ -ation（复合名词后缀）\n→凝结；简缩",
-      "phonetic" : "ˌkɒndenˈseɪʃn",
+      "phonetic" : "ˌkɑndenˈseɪʃn",
       "pos" : "n.",
       "rootHint" : "pag",
       "word" : "condensation"

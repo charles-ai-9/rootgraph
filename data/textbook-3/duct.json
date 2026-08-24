@@ -25,7 +25,7 @@
     },
     {
       "word": "conduct",
-      "phonetic": "ˈkɒndʌkt",
+      "phonetic": "kənˈdʌkt",
       "pos": "vi.",
       "definition": "进行；组织；实施；表现；指挥(管弦乐队或合唱 团);传导(热或电);陪伴；引导；带领 n. ( 任务或活动的)组织方式， 实施办法；行为；举止",
       "frequency": 1166,
@@ -42,7 +42,7 @@
     },
     {
       "word": "misconduct",
-      "phonetic": "mɪsˈkɒndʌkt",
+      "phonetic": "mɪskənˈdʌkt",
       "pos": "n.",
       "definition": "( 尤指雇员或专业人员的)渎职；不端行为；违规行为；管理不善；玩忽职守",
       "frequency": 9112,
@@ -80,7 +80,7 @@
     },
     {
       "word": "superconducting",
-      "phonetic": "'sjupəkən,dʌktrŋ",
+      "phonetic": "sjuːpəkənˈdʌktɪŋ",
       "pos": "adj.",
       "definition": "超导(电)的，无电阻率的，使用 无电阻物质的",
       "frequency": 19585,
@@ -94,7 +94,7 @@
     },
     {
       "word": "conduit",
-      "phonetic": "ˈkɒnd(j)ʊɪt",
+      "phonetic": "ˈkɑnd(j)ʊɪt",
       "pos": "n.",
       "definition": "( 液体、气体或电线的)管道，导管；[传递 想法、新闻、金钱、武器、毒品等的]渠道，通道",
       "frequency": 12418,
@@ -433,7 +433,7 @@
     },
     {
       "word": "product",
-      "phonetic": "ˈpɹɒd.əkt",
+      "phonetic": "ˈpɹɑd.əkt",
       "pos": "n.",
       "definition": "产品；产物；结果；(自然、化学或工业过程的)生 成物；乘积",
       "frequency": 570,
@@ -446,7 +446,7 @@
     },
     {
       "word": "by-product",
-      "phonetic": "'bar,pradəkt",
+      "phonetic": "baɪ ˈprɑdʌkt",
       "pos": "n.",
       "definition": "副产品；附带产生的结果",
       "frequency": 9215,
@@ -475,7 +475,7 @@
     },
     {
       "word": "unproductive",
-      "phonetic": "ʌnpr'daktrv",
+      "phonetic": "ˌʌnprəˈdʌktɪv",
       "pos": "adj.",
       "definition": "产量少的；效果不佳的；无益的",
       "frequency": 18089,
@@ -574,7 +574,7 @@
     },
     {
       "word": "reproduction",
-      "phonetic": "ri:prə'dʌkʃ(a)n",
+      "phonetic": "ˌriːprəˈdʌkʃn",
       "pos": "n.",
       "definition": "繁殖；复制；再版；(艺术品、 家具等 的)复制品",
       "frequency": 5739,
@@ -589,7 +589,7 @@
     },
     {
       "word": "reproductive",
-      "phonetic": "ri:prə'daktrv",
+      "phonetic": "ˌriːprəˈdʌktɪv",
       "pos": "adj.",
       "definition": "生殖的，繁殖的；翻印的，复制的",
       "frequency": 5951,
@@ -739,7 +739,7 @@
     },
     {
       "word": "transducer",
-      "phonetic": "træenz'dju:so; tra:nz-;-ns-",
+      "phonetic": "trænzˈdjuːsər",
       "pos": "n.",
       "definition": "换能器；变换器；传感器",
       "frequency": 17554,

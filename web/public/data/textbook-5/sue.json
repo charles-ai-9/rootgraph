@@ -23,7 +23,7 @@
       ],
       "frequency" : 9761,
       "mnemonic" : "en-（=upon：此后）+ -sue（=follow：跟随）→跟随在……之后→随",
-      "phonetic" : "ɪnˈsjuː;en-",
+      "phonetic" : "ɛnˈsjʉː",
       "pos" : "vi.",
       "rootHint" : "sue",
       "word" : "ensue"
@@ -57,7 +57,7 @@
       ],
       "frequency" : 1799,
       "mnemonic" : "pur-（=pro-=forward：向前）+ sue（-sequi-=follow：跟随）→to",
-      "phonetic" : "pəˈsjuː",
+      "phonetic" : "pɚˈsu",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "pursue"
@@ -91,7 +91,7 @@
       ],
       "frequency" : 3909,
       "mnemonic" : "pur-（=pro-：向前）+ suit（=follow：跟随）→向前跟随→追求；执",
-      "phonetic" : "pəˈsjuːt",
+      "phonetic" : "pɝˈsuːt",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "pursuit"
@@ -108,7 +108,7 @@
       ],
       "frequency" : 15921,
       "mnemonic" : "pursu（=pursue：执行）+ -ant（形容词后缀）→常见于法律术语",
-      "phonetic" : "pəˈsjuːənt",
+      "phonetic" : "pəˈsjuː.ənt",
       "pos" : "prep.",
       "rootHint" : "sue",
       "word" : "pursuant"
@@ -123,7 +123,7 @@
       ],
       "frequency" : 2681,
       "mnemonic" : "law（法律）+ suit（跟随）→在法律上跟随（某人或事）→诉讼；起",
-      "phonetic" : "ˈlɔːsuːt;-sjuːt",
+      "phonetic" : "ˈlɔˌs(j)ut",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "lawsuit"
@@ -173,7 +173,7 @@
 
       ],
       "frequency" : 1418,
-      "phonetic" : "sju:t;su:t",
+      "phonetic" : "suːt",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "suit"
@@ -188,7 +188,7 @@
       ],
       "frequency" : 5685,
       "mnemonic" : "suit（套装）+ case（箱子）→原指装套装的小箱子，后用于指手提",
-      "phonetic" : "ˈsuːtkeɪs",
+      "phonetic" : "ˈsutkeɪs",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "suitcase"
@@ -256,7 +256,7 @@
       ],
       "frequency" : 4811,
       "mnemonic" : "suit（合适）+-able（形容词后缀）→合适的；适宜的",
-      "phonetic" : "ˈsuːtəb(ə)l",
+      "phonetic" : "ˈsuːtəbl",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "suitable"
@@ -320,7 +320,7 @@
       ],
       "frequency" : 320,
       "mnemonic" : "soci-（群体的；社会的）+ -al（形容词后缀）→引申词义社交的；交",
-      "phonetic" : "ˈsəʊʃ(ə)l",
+      "phonetic" : "ˈsoʊ.ʃəl",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "social"
@@ -336,7 +336,7 @@
 
       ],
       "frequency" : 4628,
-      "phonetic" : "ˈsəʊʃəlɪ",
+      "phonetic" : "ˈsoʊʃəlɪ",
       "pos" : "adv.",
       "rootHint" : "sue",
       "word" : "socially"
@@ -356,7 +356,7 @@
       ],
       "frequency" : 508,
       "mnemonic" : "soci-（=companion：同伴）+ -ety（名词后缀）→友好地与他人联合\n的组织；伙伴关系→社会；社团；协会",
-      "phonetic" : "səˈsaɪətɪ",
+      "phonetic" : "səˈsaɪ.ə.ti",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "society"
@@ -372,7 +372,7 @@
       ],
       "frequency" : 7097,
       "mnemonic" : "societ（=society：社会）+ -al（形容词后缀）→社会的；社会组织方",
-      "phonetic" : "səˈsaɪətəl",
+      "phonetic" : "səˈsaɪətl",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "societal"
@@ -388,7 +388,7 @@
       ],
       "frequency" : 11343,
       "mnemonic" : "anti-（=against：反对）+ social（社会的）→反社会的；孤僻的",
-      "phonetic" : "æntɪˈsəʊʃ(ə)l",
+      "phonetic" : "ˌæntaɪˈsoʊʃəl",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "antisocial"
@@ -404,7 +404,7 @@
       ],
       "frequency" : 5662,
       "mnemonic" : "social（社会的）+ -ist（形容词 \/ 名词后缀，表示某种主义者或某种\n信仰者）→社会主义的；社会主义者",
-      "phonetic" : "ˈsəʊʃəlɪst",
+      "phonetic" : "ˈsoʊ.ʃə.lɪst",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "socialist"
@@ -419,7 +419,7 @@
       ],
       "frequency" : 7367,
       "mnemonic" : "social（社会的）+ -ism（主义；思想）→社会主义思想→社会主义",
-      "phonetic" : "ˈsəʊʃəlɪzəm",
+      "phonetic" : "ˈsoʊʃəlɪzəm",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "socialism"
@@ -435,7 +435,7 @@
       ],
       "frequency" : 8504,
       "mnemonic" : "social（社会的）+ -ize（动词后缀，使……）→使社会化，进行交往\n→社交；交往；使适应社会",
-      "phonetic" : "ˈsəʊʃəlaɪz",
+      "phonetic" : "ˈsoʊʃəlaɪz",
       "pos" : "vi.",
       "rootHint" : "sue",
       "word" : "socialize"
@@ -450,7 +450,7 @@
       ],
       "frequency" : 9554,
       "mnemonic" : "socialize（使适应社会）+ -ation（名词后缀）→社会化；社会主义化",
-      "phonetic" : "ˌsəʊʃəlaɪˈzeɪʃən",
+      "phonetic" : "ˌsoʊʃəlaɪˈzeɪʃən",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "socialization"
@@ -466,7 +466,7 @@
       ],
       "frequency" : 8145,
       "mnemonic" : "socio（=social：社会）+ -logy（名词后缀，表……学）→社会学",
-      "phonetic" : "səʊsɪˈɒlədʒɪ",
+      "phonetic" : "ˌsoʊsiːˈɑlədʒiː",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "sociology"
@@ -497,7 +497,7 @@
       ],
       "frequency" : 18602,
       "mnemonic" : "social（社交的）+ -ite（名词后缀，表示人或物）→后用于指社交名",
-      "phonetic" : "ˈsəʊʃəlaɪt",
+      "phonetic" : "ˈsoʊʃəˌlaɪt",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "socialite"
@@ -521,7 +521,7 @@
       ],
       "frequency" : 1361,
       "mnemonic" : "as-（=to）+ soci-（=unite with：联合起来；社会；交际）+ -ate（动\n词后缀）→to unite with：使……联系起来；使有关联；与……在一",
-      "phonetic" : "əˈsəʊʃɪeɪt;-sɪeɪt",
+      "phonetic" : "əˈsoʊsi.ət",
       "pos" : "vi.",
       "rootHint" : "sue",
       "word" : "associate"
@@ -538,7 +538,7 @@
       ],
       "frequency" : 4171,
       "mnemonic" : "associate（将……联系起来）+-d（形容词后缀）→相关联的；联合的",
-      "phonetic" : "əˈsəʊsieɪtɪd",
+      "phonetic" : "əˈsoʊsieɪtɪd",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "associated"
@@ -557,7 +557,7 @@
       ],
       "frequency" : 2103,
       "mnemonic" : "associat（=associate：使有关联；工作伙伴）+ -ion（名词后缀）→",
-      "phonetic" : "əˌsəʊʃiˈeɪʃn",
+      "phonetic" : "əˌsoʊsiˈeɪʃən",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "association"
@@ -624,7 +624,7 @@
       ],
       "frequency" : 3809,
       "mnemonic" : "sign-（签字）+ -ate（动词后缀，表示使……，e省略）+ -ure（名词\n后缀）→签字；签署→引申义为明显特征",
-      "phonetic" : "ˈsɪgnətʃə",
+      "phonetic" : "ˈsɪɡnətʃə",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "signature"
@@ -640,7 +640,7 @@
       ],
       "frequency" : 18091,
       "mnemonic" : "sign（签字；签署）+ -atory（名词后缀，-ate + -ory）→签署者；签署国",
-      "phonetic" : "ˈsɪgnət(ə)rɪ",
+      "phonetic" : "ˈsɪɡ.nə.tɔ.ɹi",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "signatory"
@@ -661,7 +661,7 @@
       ],
       "frequency" : 2093,
       "mnemonic" : "sign（标志）+-al（名词后缀）→信号；发信号；表示",
-      "phonetic" : "ˈsɪgn(ə)l",
+      "phonetic" : "ˈsɪɡnəl",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "signal"
@@ -677,7 +677,7 @@
       ],
       "frequency" : 6790,
       "mnemonic" : "sign（标志）+-ify（使动词）→使……成为标志；表示；意味着",
-      "phonetic" : "ˈsɪgnɪfaɪ",
+      "phonetic" : "ˈsɪɡnɪfaɪ",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "signify"
@@ -714,7 +714,7 @@
       ],
       "frequency" : 720,
       "mnemonic" : "signif（=signify：标志）+ -icant（复合形容词后缀，-ic + -ant）→标",
-      "phonetic" : "sigˈnifikənt",
+      "phonetic" : "sɪɡˈnɪ.fɪ.kənt",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "significant"
@@ -731,7 +731,7 @@
       ],
       "frequency" : 2960,
       "mnemonic" : "signif（=signify：标志）+ -icance（复合名词后缀，-ic + -ance）→重\n要标志→重要性，意义；含义",
-      "phonetic" : "sigˈnifikəns",
+      "phonetic" : "sɪɡˈnɪfɪkəns",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "significance"
@@ -749,7 +749,7 @@
       ],
       "frequency" : 16243,
       "mnemonic" : "in-（=in）+ sign（=identifying mark, sign：识别标记；标志）+ -ia\n（名词后缀）→引申词义标记；象征；徽章",
-      "phonetic" : "ɪnˈsɪgnɪə",
+      "phonetic" : "ɪnˈsɪɡ.ni.ə",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "insignia"
@@ -846,7 +846,7 @@
       ],
       "frequency" : 3419,
       "mnemonic" : "与“assign：任命；委派”反义，因为前缀re表相反→辞职；放弃",
-      "phonetic" : "rɪˈzaɪn",
+      "phonetic" : "ɹɪˈzaɪn",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "resign"
@@ -861,7 +861,7 @@
 
       ],
       "frequency" : 18027,
-      "phonetic" : "rɪˈzaɪnd",
+      "phonetic" : "ɹɪˈzaɪnd",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "resigned"
@@ -881,7 +881,7 @@
       ],
       "frequency" : 5841,
       "mnemonic" : "resign（辞职；使屈从）+ -ation（名词后缀）→辞职；无奈的顺从",
-      "phonetic" : "rezɪgˈneɪʃ(ə)n",
+      "phonetic" : "ɹɛzɪɡˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "resignation"
@@ -916,7 +916,7 @@
       ],
       "frequency" : 2447,
       "mnemonic" : "design（设计）+ -er（名词后缀，表示人）→设计的人→设计师；构",
-      "phonetic" : "dɪˈzaɪnə",
+      "phonetic" : "dɪˈzaɪnɚ",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "designer"
@@ -963,7 +963,7 @@
       ],
       "frequency" : 5310,
       "mnemonic" : "de-（=out：出来）+ sign（=to mark：标记）+ -ate（动词后缀）→标出\n来→命名；指定；指派",
-      "phonetic" : "ˈdezɪgneɪt",
+      "phonetic" : "ˈdɛzɪɡ.neɪt",
       "pos" : "vt.",
       "rootHint" : "sue",
       "word" : "designate"
@@ -994,7 +994,7 @@
       ],
       "frequency" : 8341,
       "mnemonic" : "designat（=designate：指定；指派）+ -ion（复合名词后缀）→指",
-      "phonetic" : "dezɪgˈneɪʃ(ə)n",
+      "phonetic" : "dɛzɪɡˈneɪʃən",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "designation"
@@ -1047,7 +1047,7 @@
       ],
       "frequency" : 2361,
       "mnemonic" : "sym-（=sign：符号；象征）+ b（无意义）+ -ol（名词后缀）→符\n可作为它们的代表→symbol：象征；符号",
-      "phonetic" : "ˈsɪmb(ə)l",
+      "phonetic" : "ˈsɪmbəl",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "symbol"
@@ -1065,7 +1065,7 @@
       ],
       "frequency" : 4199,
       "mnemonic" : "symbol（象征；符号）+ -ic（形容词后缀）→有象征意义的；符号的",
-      "phonetic" : "sɪmˈbɒlɪk",
+      "phonetic" : "sɪmˈbɑlɪk",
       "pos" : "adj.",
       "rootHint" : "sue",
       "word" : "symbolic"
@@ -1079,7 +1079,7 @@
 
       ],
       "frequency" : 12894,
-      "phonetic" : "simˈbɔlikəli",
+      "phonetic" : "ˌsɪmˈbɑlɪklɨ",
       "pos" : "adv.",
       "rootHint" : "sue",
       "word" : "symbolically"
@@ -1095,7 +1095,7 @@
       ],
       "frequency" : 9224,
       "mnemonic" : "symbol（象征）+ -ism（抽象名词后缀，表示主义）→象征手法；象",
-      "phonetic" : "ˈsɪmbəlɪzəm",
+      "phonetic" : "ˈsɪmbəˌlɪzəm",
       "pos" : "n.",
       "rootHint" : "sue",
       "word" : "symbolism"

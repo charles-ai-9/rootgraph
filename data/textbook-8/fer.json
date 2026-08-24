@@ -623,7 +623,7 @@
       ],
       "frequency" : 19921,
       "mnemonic" : "promiscu（=promiscuous：滥交的）+ -ity（名词后缀）→滥交；淫乱",
-      "phonetic" : "ˌprɒmɪsˈkjuːəti",
+      "phonetic" : "ˌprɑmɪsˈkjuːəti",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "promiscuity"
@@ -643,7 +643,7 @@
       ],
       "frequency" : 280,
       "mnemonic" : "a-（=in：在内）+ mong（=to mingle：使混合）→在……之中；",
-      "phonetic" : "əˈmɒŋ",
+      "phonetic" : "əˈmɑŋ",
       "pos" : "prep.",
       "rootHint" : "fer",
       "word" : "among"
@@ -714,7 +714,7 @@
       ],
       "frequency" : 4736,
       "mnemonic" : "law（法律）+ maker（制定）→制定法律的人→立法者",
-      "phonetic" : "ˈlɔːmeɪkə(r)",
+      "phonetic" : "ˈlɔmeɪkər",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "lawmaker"
@@ -759,7 +759,7 @@
       ],
       "frequency" : 14116,
       "mnemonic" : "home（家庭）+ maker（制造者）→料理家庭的人→家庭主妇；料理",
-      "phonetic" : "ˈhəʊmmeɪkə(r)",
+      "phonetic" : "ˈhoʊmmeɪkər",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "homemaker"
@@ -827,7 +827,7 @@
       ],
       "frequency" : 10772,
       "mnemonic" : "make（制作）+ over（翻转；转变）→在制作上的翻转→（外观的）",
-      "phonetic" : "ˈmeɪkəʊvə(r)",
+      "phonetic" : "ˈmeɪkoʊvər",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "makeover"
@@ -857,7 +857,7 @@
       ],
       "frequency" : 6339,
       "mnemonic" : "home（家）+ made（制作的）→在家里制作的→自家做的",
-      "phonetic" : "ˈhəʊmˈmeɪd",
+      "phonetic" : "ˈhoʊmˈmeɪd",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "homemade"
@@ -1134,7 +1134,7 @@
       ],
       "frequency" : 9181,
       "mnemonic" : "step-（=orphan：孤儿）+ father（父亲）→原义为孤儿的父亲→后引\n申义为通过婚姻关系成为一个孤儿的父亲→继父",
-      "phonetic" : "ˈstepfɑːðə(r)",
+      "phonetic" : "ˈstepfɑðər",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "stepfather"
@@ -1149,7 +1149,7 @@
       ],
       "frequency" : 14983,
       "mnemonic" : "father（父亲）+ -hood（表情况或状态）→父亲的地位（或身份）",
-      "phonetic" : "ˈfɑːðəhʊd",
+      "phonetic" : "ˈfɑ.ðɚˌhʊd",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "fatherhood"
@@ -1164,7 +1164,7 @@
       ],
       "frequency" : 13676,
       "mnemonic" : "father（父亲）+ in-law（法律意义上的）→法律意义上的父亲→公",
-      "phonetic" : "ˈfɑːðər ɪn lɔː",
+      "phonetic" : "ˈfɑðər ɪn lɔ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "father-in-law"
@@ -1257,7 +1257,7 @@
       ],
       "frequency" : 13056,
       "mnemonic" : "pater（父亲）+ n + -al（形容词后缀）→父亲的；父系的",
-      "phonetic" : "pəˈtɜː(ɹ)nəl",
+      "phonetic" : "pəˈtɝnəl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "paternal"
@@ -1272,7 +1272,7 @@
       ],
       "frequency" : 14413,
       "mnemonic" : "patern（=paternal：父亲的） + -ity（名词后缀）→父亲的身份（或地位）",
-      "phonetic" : "pəˈtɜːnəti",
+      "phonetic" : "pəˈtɝnəti",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "paternity"
@@ -1348,7 +1348,7 @@
       ],
       "frequency" : 11022,
       "mnemonic" : "patri-（父亲）+ -arch（=to rule：管理；统治）→像父亲一样进行管\n理、统治家庭、部落、教会或国家的人→（男性）家长，族长，酋",
-      "phonetic" : "ˈpeɪtɹɪɑːk",
+      "phonetic" : "ˈpeɪt(ʃ)ɹiɑɹk",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "patriarch"
@@ -1363,7 +1363,7 @@
       ],
       "frequency" : 10467,
       "mnemonic" : "patriarch（男性家长；族长）+-al（形容词后缀）→男权的；族长",
-      "phonetic" : "ˌpeɪtriˈɑːkl",
+      "phonetic" : "ˌpeɪtriˈɑkl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "patriarchal"
@@ -1427,7 +1427,7 @@
       ],
       "frequency" : 12237,
       "mnemonic" : "per-（=thoroughly：整个地；完全地）+ petr-（=pater=father：父亲；\n引申义为carry out：指性）+ -ate（动词后缀）→其字面意思可能是生\n下小孩，成为父亲。其原义并无感情色情→后用于比喻用法始作俑",
-      "phonetic" : "ˈpɜː(ɹ).pə.ˌtɹaɪt",
+      "phonetic" : "ˈpɝ.pə.ˌtɹaɪt",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "perpetrate"
@@ -1447,7 +1447,7 @@
       ],
       "frequency" : 8069,
       "mnemonic" : "perpetrate（犯罪；作恶，去e）+ -or（名词后缀，表示人）→犯罪、\n作恶的人→犯罪；做错事；干坏事",
-      "phonetic" : "ˈpɜː(ɹ).pɪ.ˌtɹeɪt.ə(ɹ)",
+      "phonetic" : "ˈpɝ.pɪ.ˌtɹeɪt.ə(ɹ)",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "perpetrator"
@@ -1521,7 +1521,7 @@
       ],
       "frequency" : 10912,
       "mnemonic" : "mother（母亲）+ in-law（法律意义上的）→法律意义上的母亲→婆",
-      "phonetic" : "ˈmʌ.ðəɹ.ɪnˌlɑː",
+      "phonetic" : "ˈmʌ.ðəɹ.ɪnˌlɑ",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "mother-in-law"
@@ -1551,7 +1551,7 @@
       ],
       "frequency" : 19766,
       "mnemonic" : "god（上帝；神）+ mother（母亲）→教母",
-      "phonetic" : "ˈɡɒdmʌðə",
+      "phonetic" : "ˈɡɑdmʌðə",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "godmother"
@@ -1581,7 +1581,7 @@
       ],
       "frequency" : 7156,
       "mnemonic" : "mater-（母亲）+ n + -al（形容词后缀）→母亲的；母系的",
-      "phonetic" : "məˈtɜːnəl",
+      "phonetic" : "məˈtɜɹnəl",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "maternal"
@@ -1598,7 +1598,7 @@
       ],
       "frequency" : 11672,
       "mnemonic" : "matern（=maternal：母亲的）+ -ity（名词后缀）→母亲身份；怀孕",
-      "phonetic" : "məˈtɜːnəti",
+      "phonetic" : "məˈtɝnəti",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "maternity"
@@ -1637,7 +1637,7 @@
       ],
       "frequency" : 642,
       "mnemonic" : "-mater-（母）+ -ial（形容词后缀）→母体的，物质和材料的来源",
-      "phonetic" : "məˈtɪəɹɪəl",
+      "phonetic" : "məˈtɪɹi.əl",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "material"
@@ -1652,7 +1652,7 @@
       ],
       "frequency" : 8571,
       "mnemonic" : "material（物质）+ -ize（使动词后缀）→即使成为客观的物质和事实\n→引申词义使实现，发生；成为现实；突然出现",
-      "phonetic" : "məˈtɪəriəlaɪz",
+      "phonetic" : "məˈtɪriəlaɪz",
       "pos" : "vt.",
       "rootHint" : "fer",
       "word" : "materialize"
@@ -1668,7 +1668,7 @@
       ],
       "frequency" : 13211,
       "mnemonic" : "material（物质）+ -ism（主义）→即物质主义，用于哲学术语指唯物",
-      "phonetic" : "məˈtɪəɹiəlɪzəm",
+      "phonetic" : "məˈtɪɹiəlɪzəm",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "materialism"
@@ -1683,7 +1683,7 @@
       ],
       "frequency" : 17782,
       "mnemonic" : "materialist（物质享乐主义者）+ -ic（形容词后缀）→物质享乐主义的",
-      "phonetic" : "məˌtɪəɹ.i.əˈlɪs.tɪk",
+      "phonetic" : "məˌtɪɹ.i.əˈlɪs.tɪk",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "materialistic"
@@ -1699,7 +1699,7 @@
       ],
       "frequency" : 18115,
       "mnemonic" : "material（实质性的；物质）+ -ly（副词后缀）→实质上地；重大",
-      "phonetic" : "məˈtɪərɪəlɪ",
+      "phonetic" : "məˈtɪrɪəlɪ",
       "pos" : "adv.",
       "rootHint" : "fer",
       "word" : "materially"
@@ -1747,7 +1747,7 @@
       ],
       "frequency" : 12469,
       "mnemonic" : "metro（-matr-：母）+ -polis（=city：城市）→母体城市，格局很大、\n包罗万象的城市→大都会，大城市；首都，首府",
-      "phonetic" : "mɪˈtɹɒpəlɪs",
+      "phonetic" : "mɪˈtɹɑpəlɪs",
       "pos" : "n.",
       "rootHint" : "fer",
       "word" : "metropolis"
@@ -1767,7 +1767,7 @@
       ],
       "frequency" : 4341,
       "mnemonic" : "metropoli（=metropolis：大都会，大都市）+ t + -an（形容词后缀）\n→大都会的，大都市的；本土的（母国的）",
-      "phonetic" : "mɛtɹəˈpɒlɪtən",
+      "phonetic" : "mɛtɹɵˈpɑlɨtən",
       "pos" : "adj.",
       "rootHint" : "fer",
       "word" : "metropolitan"

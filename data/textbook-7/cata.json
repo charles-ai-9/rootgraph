@@ -139,7 +139,7 @@
       ],
       "frequency" : 17148,
       "mnemonic" : "categorical（断然地）+ -ly（副词后缀）→断然地",
-      "phonetic" : "ˈkæt.ə.ɡɒ.ɹɪk.li",
+      "phonetic" : "ˈkæt.ə.ɡɑ.ɹɪk.li",
       "pos" : "adv.",
       "rootHint" : "cata",
       "word" : "categorically"
@@ -245,7 +245,7 @@
       ],
       "frequency" : 10383,
       "mnemonic" : "neutr-（中的；中性的）+ -on（物理名词后缀）→中子",
-      "phonetic" : "ˈn(j)uːtɹɒn",
+      "phonetic" : "ˈn(j)uːtɹɑn",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "neutron"
@@ -261,7 +261,7 @@
       ],
       "frequency" : 11623,
       "mnemonic" : "neutr（=neutron：中子）+ -ino（意大利语名词后缀，表示小，微\n小）→微中子",
-      "phonetic" : "njuːˈtɹiːnəʊ",
+      "phonetic" : "njuːˈtɹiːnoʊ",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "neutrino"
@@ -348,7 +348,7 @@
       ],
       "frequency" : 6909,
       "mnemonic" : "coco（似鬼脸的）+ nut（坚果）→鬼脸坚果→椰子",
-      "phonetic" : "ˈkəʊ.kə.nʌt",
+      "phonetic" : "ˈkoʊ.kə.nʌt",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "coconut"
@@ -840,7 +840,7 @@
       ],
       "frequency" : 19112,
       "mnemonic" : "well（情况良好的）+ off（=away from：离开）→经济状况良好，远\n离贫困的→富裕的",
-      "phonetic" : "ˈwelˈɔːf",
+      "phonetic" : "ˈwelˈɔf",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "well-off"
@@ -870,7 +870,7 @@
       ],
       "frequency" : 4446,
       "mnemonic" : "well（很）+ known（大家知道的）→大家都很清楚地知道的→著名",
-      "phonetic" : "ˌwɛlˈnəʊn",
+      "phonetic" : "ˌwɛlˈnoʊn",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "well-known"
@@ -977,7 +977,7 @@
       ],
       "frequency" : 18049,
       "mnemonic" : "well（很）+ worn（wear的过去分词，用旧的）→用得很旧的（话\n语、衣物、用品）→无新意的；用旧的",
-      "phonetic" : "ˌwel ˈwɔːn",
+      "phonetic" : "ˌwel ˈwɔn",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "well-worn"
@@ -992,7 +992,7 @@
       ],
       "frequency" : 11187,
       "mnemonic" : "stair（楼梯）+ well（井）→楼梯井",
-      "phonetic" : "ˈsteəwel",
+      "phonetic" : "ˈstɛrwel",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "stairwell"
@@ -1074,7 +1074,7 @@
       ],
       "frequency" : 11340,
       "mnemonic" : "in-（=not：不；非）+ voluntary（自愿的）→非自愿的；不由自主的",
-      "phonetic" : "ɪnˈvɒl.ən.tɹi",
+      "phonetic" : "ɪnˈvɑl.ənˌtɛ.ɹi",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "involuntary"
@@ -1089,7 +1089,7 @@
       ],
       "frequency" : 7470,
       "mnemonic" : "voluntary（自愿的；主动的；义务的）+-ly（副词后缀）→自愿地；",
-      "phonetic" : "ˈvɒləntɹɪli",
+      "phonetic" : "ˌvɑlənˈtɛɹɪli",
       "pos" : "adv.",
       "rootHint" : "cata",
       "word" : "voluntarily"
@@ -1104,7 +1104,7 @@
       ],
       "frequency" : 16086,
       "mnemonic" : "involuntary （不由自主的）+-ly（副词后缀）→不由自主地",
-      "phonetic" : "ɪnˈvɒləntɹɪli",
+      "phonetic" : "ɪnˌvɑlənˈtɛɹɪli",
       "pos" : "adv.",
       "rootHint" : "cata",
       "word" : "involuntarily"
@@ -1244,7 +1244,7 @@
       ],
       "frequency" : 15748,
       "mnemonic" : "under-（在下面）+class（阶层）→在下面的社会阶层→社会底层；",
-      "phonetic" : "ˈʌndəklɑːs",
+      "phonetic" : "ˈʌndəklɑs",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "underclass"
@@ -1276,7 +1276,7 @@
       ],
       "frequency" : 12773,
       "mnemonic" : "under（在下面）+ dog（狗）→在比赛中被斗败了的狗→引申义为处",
-      "phonetic" : "ˈʌndədɒg",
+      "phonetic" : "ˈʌndədɑg",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "underdog"
@@ -1325,7 +1325,7 @@
       ],
       "frequency" : 3167,
       "mnemonic" : "under（在……下面）+ go（走；经过）→从下面走过→经历；经受",
-      "phonetic" : "ˌʌndəˈɡəʊ",
+      "phonetic" : "ˌʌndɚˈɡoʊ",
       "pos" : "vt.",
       "rootHint" : "cata",
       "word" : "undergo"
@@ -1536,7 +1536,7 @@
       ],
       "frequency" : 19460,
       "mnemonic" : "under-（在下面）+ tone（语气；特征；氛围）→在说话语气下面蕴",
-      "phonetic" : "ˈʌndətəʊn",
+      "phonetic" : "ˈʌndətoʊn",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "undertone"
@@ -1580,7 +1580,7 @@
 
       ],
       "mnemonic" : "under-（在下面）+ world（世界）→在（正常社会）下面的世界→黑",
-      "phonetic" : "ˈʌndəwɜːld",
+      "phonetic" : "ˈʌndəwɝld",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "underworld"
@@ -1678,7 +1678,7 @@
       ],
       "frequency" : 8941,
       "mnemonic" : "ex-（=outside：外面的）+ t（无意义）+ -erior（=-eri+-or：复合名词\n或形容词后缀）→外部，外表；外面的，外表的\ninter-（=within：在内部）+ -ior（形容词或名词后缀）→内部，内",
-      "phonetic" : "ɛkˈstɪəɹɪə",
+      "phonetic" : "ɛkˈstɪɹiɚ",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "exterior"
@@ -1712,7 +1712,7 @@
         "The building has been restored externally and internally.\n这栋建筑内外均已修复。"
       ],
       "frequency" : 14898,
-      "phonetic" : "ɪkˈstɜːnəli",
+      "phonetic" : "ɪkˈstɝnəli",
       "pos" : "adv.",
       "rootHint" : "cata",
       "word" : "externally"
@@ -1727,7 +1727,7 @@
       ],
       "frequency" : 18853,
       "mnemonic" : "external（外部的）+ -ize（使……化）→使……外部化→（以言行）",
-      "phonetic" : "ɪkˈstɜːnəlaɪz",
+      "phonetic" : "ɪkˈstɝnəlaɪz",
       "pos" : "vt.",
       "rootHint" : "cata",
       "word" : "externalize"
@@ -1758,7 +1758,7 @@
       ],
       "frequency" : 4245,
       "mnemonic" : "exo-（=ex：外）+ t（无意义）+ -ic（形容词后缀：的）→异国的；",
-      "phonetic" : "ɪɡˈzɒtɪk",
+      "phonetic" : "ɪɡˈzɑtɪk",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "exotic"
@@ -1803,7 +1803,7 @@
       ],
       "frequency" : 16010,
       "mnemonic" : "oner-（=burden：重担）+ -ous（形容词后缀）→burdensome, heavy：\n繁重的；沉重的→引申词义费力的，艰巨的",
-      "phonetic" : "ˈɒnəɹəs",
+      "phonetic" : "ˈoʊnəɹəs",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "onerous"
@@ -1873,7 +1873,7 @@
       ],
       "frequency" : 8238,
       "mnemonic" : "intern（=interior：里面；内部）→送……到里面关押起来→关押；\nintern（=within：在内部）→在（医院、公司、组织）内部进行职业\n训练的学生→实习医生；实习学生",
-      "phonetic" : "ɪnˈtɜːn",
+      "phonetic" : "ɪnˈtɝn",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "intern"
@@ -1920,7 +1920,7 @@
         "The new posts were only advertised internally.\n新职位仅限于内部招聘。"
       ],
       "frequency" : 8981,
-      "phonetic" : "ɪnˈtɜːnəli",
+      "phonetic" : "ɪnˈtɝnəli",
       "pos" : "adv.",
       "rootHint" : "cata",
       "word" : "internally"
@@ -1950,7 +1950,7 @@
       ],
       "frequency" : 18252,
       "mnemonic" : "intern（=internal medicine：内科医学）+ -ist（名词后缀，表示从事某\n种职业的人，专家）→内科医学专家→内科医生",
-      "phonetic" : "ɪnˈtɜːnɪst",
+      "phonetic" : "ɪnˈtɝnɪst",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "internist"
@@ -1966,7 +1966,7 @@
       ],
       "frequency" : 19845,
       "mnemonic" : "intern（拘留）+ -ment（名词后缀）→拘留；收容",
-      "phonetic" : "ɪnˈtɜːnmənt",
+      "phonetic" : "ɪnˈtɝnmənt",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "internment"
@@ -2044,7 +2044,7 @@
       ],
       "frequency" : 13736,
       "mnemonic" : "intercommunication的缩写。\ninter-（在中间；相互）+ communication（交流；通信）→相互交",
-      "phonetic" : "ˈɪntəkɒm",
+      "phonetic" : "ˈɪntəkɑm",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "intercom"
@@ -2121,7 +2121,7 @@
       ],
       "frequency" : 18507,
       "mnemonic" : "inter-（相互）+ lock（锁上；锁住）+ -ing（形容词后缀）→相互之\n间锁上的→连锁的",
-      "phonetic" : "ˌɪntəˈlɒkɪŋ",
+      "phonetic" : "ˌɪntəˈlɑkɪŋ",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "interlocking"
@@ -2137,7 +2137,7 @@
       ],
       "frequency" : 19953,
       "mnemonic" : "inter-（=between：在中间；相互）+ -locut-（=to speak：说话）+ -or\n（名词后缀，表人）→speak between：在对话或谈话中间说话的人→",
-      "phonetic" : "ˌɪntəˈlɒkjʊtə",
+      "phonetic" : "ˌɪntəɹˈlɑkjətəɹ",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "interlocutor"
@@ -2202,7 +2202,7 @@
       ],
       "frequency" : 7150,
       "mnemonic" : "inter-（在之间；相互）+ personal（人际的）→在人与人之间相互交\n往的→人际关系的；人际的",
-      "phonetic" : "ˌɪntəˈpɜːsənl",
+      "phonetic" : "ˌɪntəˈpɝsənl",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "interpersonal"
@@ -2262,7 +2262,7 @@
       ],
       "frequency" : 14849,
       "mnemonic" : "inter-（=between：在中间）+ -spers-（=to scatter：散开）+ -e→撒在\n中间→引申词义“散布；点缀”",
-      "phonetic" : "ɪntə(ɹ)ˈspɜː(ɹ)s",
+      "phonetic" : "ɪntə(ɹ)ˈspɝs",
       "pos" : "vt.",
       "rootHint" : "cata",
       "word" : "intersperse"
@@ -2433,7 +2433,7 @@
       ],
       "frequency" : 15050,
       "mnemonic" : "con-（强调）+ -sum-（=top, highest：顶点；最高的，双写m）+ -ate\n（形容词后缀）→达到最高的，达到圆满的→引申义技艺高超的；完",
-      "phonetic" : "ˈkɒnsəˌmeɪt; ˈkɒnsəmɪt; kənˈsʌmɪt",
+      "phonetic" : "ˈkɑnsəˌmeɪt;ˈkɑnsəmɪt;kənˈsʌmɪt",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "consummate"
@@ -2469,7 +2469,7 @@
       ],
       "frequency" : 3913,
       "mnemonic" : "or-（=os-=mouth：口；嘴）+ -al（形容词 \/ 名词后缀）→口头的；口",
-      "phonetic" : "ˈɒɹəl",
+      "phonetic" : "ˈɑɹəl",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "oral"
@@ -2502,7 +2502,7 @@
       ],
       "frequency" : 18921,
       "mnemonic" : "orat-（=to speak：说；在众人面前演讲）+ -or（名词后缀，人）→演",
-      "phonetic" : "ˈɒ.ɹə.tə(ɹ)",
+      "phonetic" : "ˈɑ.ɹə.tə(ɹ)",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "orator"
@@ -2517,7 +2517,7 @@
       ],
       "frequency" : 19627,
       "mnemonic" : "orat-（在众人面前说）+ -ory（名词后缀）→演讲术",
-      "phonetic" : "ˈɒɹət(ə)ɹi",
+      "phonetic" : "ˈɔ.ɹə.tɔ.ɹi",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "oratory"
@@ -2633,7 +2633,7 @@
       ],
       "frequency" : 12474,
       "mnemonic" : "gorg-（=throat：喉咙）+ -e→像喉咙一样狭窄的通道，大口吞咽→峡",
-      "phonetic" : "gɔːdʒ",
+      "phonetic" : "gɔdʒ",
       "pos" : "n.",
       "rootHint" : "cata",
       "word" : "gorge"
@@ -2687,7 +2687,7 @@
       ],
       "frequency" : 17294,
       "mnemonic" : "vorac-（贪婪的；渴望的；狼吞虎咽的）+ -ious（形容词后缀）→贪",
-      "phonetic" : "vɔːˈɹeɪ.ʃəs",
+      "phonetic" : "vɔˈɹeɪ.ʃəs",
       "pos" : "adj.",
       "rootHint" : "cata",
       "word" : "voracious"

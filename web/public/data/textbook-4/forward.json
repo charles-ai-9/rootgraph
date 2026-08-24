@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "from",
-      "phonetic": "frpm;from",
+      "phonetic": "frəm",
       "pos": "prep.",
       "definition": "来自；为……工作；从(某处离开);(取)自； 从 …… (扣除); away from…absent from…从 …… (离开);从 …… (回来);从 …… (看到或听到);从 …… (垂下或伸出);离 …… ; 从 …… (到……);由 …… (制成);由 …… (变成);因为 …… ;根 据……;从(某时)起；从 …… (到……);(免)于……26",
       "mnemonic": "来源于原始印欧语pro ( 从前，前面),史前日耳曼语fora ( 前 ) , 日耳曼语for ( 前);进入古英语成为from或fram, 后缀-m使其含有 “前进；移开”的意义。",
@@ -35,7 +35,7 @@
     },
     {
       "word": "forth",
-      "phonetic": "fɔ:0",
+      "phonetic": "fɔɹθ",
       "pos": "adv.",
       "definition": "向外，往外(走);向前",
       "frequency": 1847,
@@ -53,7 +53,7 @@
     },
     {
       "word": "forthcoming",
-      "phonetic": "fɔ:θ'kʌmiŋ",
+      "phonetic": "fɔɹθˈkʌmɪŋ",
       "pos": "adj.",
       "definition": "即将发生的；会发生的；乐于提供信息的； 愿意提供帮助的",
       "frequency": 6848,
@@ -68,7 +68,7 @@
     },
     {
       "word": "forthright",
-      "phonetic": "'fɔ:θrait;fɔ:0'rart",
+      "phonetic": "ˈfɔθˌɹaɪt",
       "pos": "adj.",
       "definition": "直率的；直截了当的(含褒义);直抒己 见的",
       "frequency": 15772,
@@ -82,7 +82,7 @@
     },
     {
       "word": "prosaic",
-      "phonetic": "prə(u)'zenk",
+      "phonetic": "pɹoʊˈzeɪ.ɪk",
       "pos": "adj.",
       "definition": "平淡的；乏味的；没有诗意(或美感)的",
       "frequency": 20183,
@@ -95,7 +95,7 @@
     },
     {
       "word": "afford",
-      "phonetic": "ə 'fɔ:d",
+      "phonetic": "əˈfoɹd",
       "pos": "vt.",
       "definition": "vt. 支付得起；承担得起",
       "frequency": 1860,
@@ -115,7 +115,7 @@
     },
     {
       "word": "affordable",
-      "phonetic": "ə'fɔ:dəbəl",
+      "phonetic": "əˈfɔɹ.də.bəl",
       "pos": "adj.",
       "definition": "多数人支付得起的",
       "frequency": 5303,
@@ -128,7 +128,7 @@
     },
     {
       "word": "affordability",
-      "phonetic": "ə foda'biləti",
+      "phonetic": "əˌfɔdəˈbɪlətɪ",
       "pos": "n.",
       "definition": "承受能力；购买力",
       "frequency": 19302,
@@ -141,7 +141,7 @@
     },
     {
       "word": "fore",
-      "phonetic": "fo:",
+      "phonetic": "fɔɹ",
       "pos": "adj.",
       "definition": "( 动物、船只或飞行器)前部的adv. 在船头；在飞行器前部 prep. 在……之前",
       "frequency": 13855,
@@ -159,7 +159,7 @@
     },
     {
       "word": "forefinger",
-      "phonetic": "'fo:fingə",
+      "phonetic": "ˈfɔɹˌfɪŋ.ɡɚ",
       "pos": "n.",
       "definition": "食指",
       "frequency": 14107,
@@ -173,7 +173,7 @@
     },
     {
       "word": "forehead",
-      "phonetic": "'fo:hed;'forid",
+      "phonetic": "ˈfɑɹɪd",
       "pos": "n.",
       "definition": "n. 前额",
       "frequency": 3825,
@@ -187,7 +187,7 @@
     },
     {
       "word": "forearm",
-      "phonetic": "'fo:ra:m",
+      "phonetic": "ˈfɔɹˌɑɹm",
       "pos": "n.",
       "definition": "前臂；预先武装； 提前准备",
       "frequency": 8039,
@@ -198,7 +198,7 @@
     },
     {
       "word": "foreman",
-      "phonetic": "'fo:mən",
+      "phonetic": "ˈfɔ(ɹ)mən",
       "pos": "n.",
       "definition": "( 尤指男性)领班，工头；陪审团主席",
       "frequency": 11238,
@@ -213,7 +213,7 @@
     },
     {
       "word": "foreground",
-      "phonetic": "'fo:graund",
+      "phonetic": "ˈfɔ(ɹ)ˌɡɹaʊnd",
       "pos": "n.",
       "definition": "( 照片、景物等的)前景；瞩目地位；受到关注 vt. 强调；使突出",
       "frequency": 8739,
@@ -230,7 +230,7 @@
     },
     {
       "word": "pronoun",
-      "phonetic": "'prəunaun",
+      "phonetic": "ˈpɹoʊ.naʊn",
       "pos": "n.",
       "definition": "代词；代名词",
       "frequency": 17639,
@@ -243,7 +243,7 @@
     },
     {
       "word": "pro",
-      "phonetic": "prəu",
+      "phonetic": "pɹoʊ",
       "pos": "n.",
       "definition": "职业人员 adj. ( 运动员、体育运动)职业的prep. 赞成；支持",
       "frequency": 4097,
@@ -266,7 +266,7 @@
     },
     {
       "word": "reciprocal",
-      "phonetic": "rɪ'siprok(a)l",
+      "phonetic": "ɹɪˈsɪpɹək(ə)l",
       "pos": "adj.",
       "definition": "相互的；互惠的",
       "frequency": 10864,
@@ -282,7 +282,7 @@
     },
     {
       "word": "reciprocate",
-      "phonetic": "rɪ'siprokert",
+      "phonetic": "ɹɪˈsɪpɹəˌkeɪt",
       "pos": "vt.",
       "definition": "&vi. 同等回应；回报；沿直线往复移动",
       "frequency": 16171,
@@ -297,7 +297,7 @@
     },
     {
       "word": "reciprocity",
-      "phonetic": ",resi'prpsitɪ",
+      "phonetic": "ˌresɪˈprɑsəti",
       "pos": "n.",
       "definition": "互惠(复数reciprocities)14172",
       "mnemonic": "reciproc(=reciprocal: 互惠的)+-ity ( 名词后缀) → 互惠",
@@ -326,7 +326,7 @@
     },
     {
       "word": "pride",
-      "phonetic": "prard",
+      "phonetic": "pɹaɪd",
       "pos": "n.",
       "definition": "骄傲；尊严；傲慢；(狮)群vt. 以……而自豪",
       "frequency": 2825,
@@ -342,7 +342,7 @@
     },
     {
       "word": "proud",
-      "phonetic": "praud",
+      "phonetic": "pɹaʊd",
       "pos": "adj.",
       "definition": "自豪的；最值得夸耀的；自尊的；傲慢的；超出……之 外的",
       "frequency": 1996,
@@ -362,7 +362,7 @@
     },
     {
       "word": "prowess",
-      "phonetic": "'prauis",
+      "phonetic": "ˈpɹaʊɪs",
       "pos": "n.",
       "definition": "深厚的造诣；高超的技艺",
       "frequency": 11339,
@@ -381,7 +381,7 @@
     },
     {
       "word": "present",
-      "phonetic": "'prezənt",
+      "phonetic": "ˈpɹɛzənt",
       "pos": "adj.",
       "definition": "目前的 vt. 带来；(机会、问题)呈现出来；展示；正式介绍n. 现在；礼物",
       "frequency": 820,
@@ -402,7 +402,7 @@
     },
     {
       "word": "presently",
-      "phonetic": "'prez(a)ntli",
+      "phonetic": "ˈpɹɛzəntli",
       "pos": "adv.",
       "definition": "目前；之后不久；随即",
       "frequency": 7575,
@@ -416,7 +416,7 @@
     },
     {
       "word": "presenter",
-      "phonetic": "prɪ'zentə",
+      "phonetic": "pɹɪˈzɛntə(ɹ)",
       "pos": "n.",
       "definition": "(广播或电视节目的)主持人；发言人；(仪式上的)颁奖人",
       "frequency": 15658,
@@ -431,7 +431,7 @@
     },
     {
       "word": "presence",
-      "phonetic": "'prez(a)ns",
+      "phonetic": "ˈpɹɛzəns",
       "pos": "n.",
       "definition": "在场；风采；驻扎；存在",
       "frequency": 1270,
@@ -449,7 +449,7 @@
     },
     {
       "word": "presentation",
-      "phonetic": "prez(a)n'terʃ(o)n",
+      "phonetic": "ˌpɹizənˈteɪʃən",
       "pos": "n.",
       "definition": "外观；颁奖仪式；讲座；陈述",
       "frequency": 2921,
@@ -464,7 +464,7 @@
     },
     {
       "word": "present-day",
-      "phonetic": "'prezənt'dei",
+      "phonetic": "ˈprezəntˈdeɪ",
       "pos": "adj.",
       "definition": "当代的；现今的；当前的",
       "frequency": 10690,
@@ -478,7 +478,7 @@
     },
     {
       "word": "absent",
-      "phonetic": "'æbsənt;(for v.)əb'sent",
+      "phonetic": "ˈæb.sn̩t",
       "pos": "adj.",
       "definition": "缺席的；心不在焉的",
       "frequency": 5589,
@@ -491,7 +491,7 @@
     },
     {
       "word": "absentee",
-      "phonetic": ",aæbs(a)n'ti:",
+      "phonetic": "ˌæb.sn̩ˈti",
       "pos": "adj.",
       "definition": "缺席的；缺席投票的 n. 缺 席者",
       "frequency": 13498,
@@ -503,7 +503,7 @@
     },
     {
       "word": "absently",
-      "phonetic": "'æbs(a)ntli",
+      "phonetic": "ˈæb.sn̩t.li",
       "pos": "adv.",
       "definition": "心不在焉地；出神地",
       "frequency": 15074,
@@ -515,7 +515,7 @@
     },
     {
       "word": "absence",
-      "phonetic": "'æbs(a)ns",
+      "phonetic": "æbˈsɑns",
       "pos": "n.",
       "definition": "缺席；不存在",
       "frequency": 2547,
@@ -528,7 +528,7 @@
     },
     {
       "word": "represent",
-      "phonetic": "repri'zent",
+      "phonetic": "ɹɛp.ɹɪ.ˈzɛnt",
       "pos": "vt.",
       "definition": "代表；象征；描绘",
       "frequency": 688,
@@ -544,7 +544,7 @@
     },
     {
       "word": "representative",
-      "phonetic": "repri'zentotiv",
+      "phonetic": "ˌɹɛpɹɪˈzɛnt(ət)ɪv",
       "pos": "adj.",
       "definition": "有代表性的；代议制的 n. 代表；众议院议员(代表普通民众)1989",
       "mnemonic": "represent (代表)+-ative(=ate+ive: 复合形容词或名词后缀) →有代 表性的；代表",
@@ -557,7 +557,7 @@
     },
     {
       "word": "representation",
-      "phonetic": " reprizen'terʃ(o)n",
+      "phonetic": "ˌɹɛp.ɹə.zɛn.ˈteɪ.ʃən",
       "pos": "n.",
       "definition": "代表；描写；描绘",
       "frequency": 2931,
@@ -569,7 +569,7 @@
     },
     {
       "word": "representational",
-      "phonetic": ",reprizen'terʃ(ə)n(a)l",
+      "phonetic": "ˌreprɪzenˈteɪʃnl",
       "pos": "adj.",
       "definition": "(绘画)具象的；写实的",
       "frequency": 14967,
@@ -581,7 +581,7 @@
     },
     {
       "word": "misrepresent",
-      "phonetic": ",misreprɪ'zent",
+      "phonetic": "ˌmɪsˌreprɪˈzent",
       "pos": "vt.",
       "definition": "曲解",
       "frequency": 16897,
@@ -594,7 +594,7 @@
     },
     {
       "word": "essence",
-      "phonetic": "'es(a)ns",
+      "phonetic": "ˈɛsəns",
       "pos": "n.",
       "definition": "本质；精油",
       "frequency": 3498,
@@ -609,7 +609,7 @@
     },
     {
       "word": "essential",
-      "phonetic": "r'senʃ(ə)l",
+      "phonetic": "ɪˈsɛn.ʃəl",
       "pos": "adj.",
       "definition": "至关重要的；基本的 n. 必需品；要素(复数)1963",
       "collocations": [
@@ -621,7 +621,7 @@
     },
     {
       "word": "essentially",
-      "phonetic": "i'senʃ(a)li",
+      "phonetic": "ɪˈsɛnʃəli",
       "pos": "adv.",
       "definition": "本质上；基本上",
       "frequency": 2306,
@@ -633,7 +633,7 @@
     },
     {
       "word": "entity",
-      "phonetic": "'entitr",
+      "phonetic": "ˈen.tɪ.ti",
       "pos": "n.",
       "definition": "实体",
       "frequency": 3969,
@@ -648,7 +648,7 @@
     },
     {
       "word": "interest",
-      "phonetic": "'int(a)rist",
+      "phonetic": "ˈɪntəɹst",
       "pos": "n.",
       "definition": "兴趣；爱好；利益 vt. 使感兴趣；引起……的意愿",
       "frequency": 417,
@@ -663,7 +663,7 @@
     },
     {
       "word": "interesting",
-      "phonetic": "'intrəstrŋ",
+      "phonetic": "ˈɪnt(ʃ)ɹɛstɪŋ",
       "pos": "adj.",
       "definition": "有趣的",
       "frequency": 1076,
@@ -673,7 +673,7 @@
     },
     {
       "word": "interestingly",
-      "phonetic": "'intrəstinli",
+      "phonetic": "ˈintristiŋli",
       "pos": "adv.",
       "definition": "有趣地",
       "frequency": 6846,
@@ -685,7 +685,7 @@
     },
     {
       "word": "sin",
-      "phonetic": "sn",
+      "phonetic": "sɪn",
       "pos": "n.",
       "definition": "罪过；罪人；违背道德原则的行为 vi. 犯戒律",
       "frequency": 3313,
@@ -698,7 +698,7 @@
     },
     {
       "word": "sinful",
-      "phonetic": "'sinful;-f (a)l",
+      "phonetic": "ˈsɪnfəl",
       "pos": "adj.",
       "definition": "罪恶的 n. 罪恶",
       "frequency": 14062,
@@ -709,7 +709,7 @@
     },
     {
       "word": "soothe",
-      "phonetic": "su:ð",
+      "phonetic": "suːð",
       "pos": "vt.",
       "definition": "使镇定；缓和(疼痛或不适)9204",
       "collocations": [
@@ -721,7 +721,7 @@
     },
     {
       "word": "soothing",
-      "phonetic": "'su:orŋ",
+      "phonetic": "ˈsuːðɪŋ",
       "pos": "adj.",
       "definition": "抚慰的；缓和的",
       "frequency": 8845,
@@ -737,7 +737,7 @@
     },
     {
       "word": "eucharistic",
-      "phonetic": "ju:kə'ristik",
+      "phonetic": "ˌjuːkəˈristik",
       "pos": "adj.",
       "definition": "圣餐的",
       "frequency": 19142,
@@ -747,7 +747,7 @@
     },
     {
       "word": "euthanasia",
-      "phonetic": "ju:θa'nerzrə",
+      "phonetic": "juːθəˈneɪʒə",
       "pos": "n.",
       "definition": "安乐死",
       "frequency": 16172,
@@ -762,7 +762,7 @@
     },
     {
       "word": "former",
-      "phonetic": "'fɔ:mə",
+      "phonetic": "ˈfɔɹmɚ",
       "pos": "adj.",
       "definition": "前任的；(国家)已不存在的；疆界已变的；昔日的 pron. 前者 n. 形成者；样板",
       "frequency": 443,
@@ -777,7 +777,7 @@
     },
     {
       "word": "formerly",
-      "phonetic": "'fɔ:məli",
+      "phonetic": "ˈfɔɹmɚli",
       "pos": "adv.",
       "definition": "从前；原来",
       "frequency": 4732,
@@ -790,7 +790,7 @@
     },
     {
       "word": "heretofore",
-      "phonetic": "hrətu'fo:",
+      "phonetic": "ˈhɪɹtəfoɹ",
       "pos": "adv.",
       "definition": "此前；迄今",
       "frequency": 16814,
@@ -803,7 +803,7 @@
     },
     {
       "word": "forerunner",
-      "phonetic": "'forʌnə",
+      "phonetic": "ˈfɔːrʌnər",
       "pos": "n.",
       "definition": "先驱；前身；前兆",
       "frequency": 18504,
@@ -816,7 +816,7 @@
     },
     {
       "word": "forefather",
-      "phonetic": "'fɔ:fa:oə",
+      "phonetic": "ˈfɔˌfɑðə",
       "pos": "n.",
       "definition": "祖先；祖宗(尤指男性)19577",
       "mnemonic": "fore-(before in time: 现在之前的时间)+father ( 父辈) → 祖先；祖 宗(尤指男性)",
@@ -830,7 +830,7 @@
     },
     {
       "word": "forebear",
-      "phonetic": "'fɔ:beə",
+      "phonetic": "ˈfɔˌberˌ ˈfoʊr-",
       "pos": "n.",
       "definition": "祖先；祖宗",
       "frequency": 16535,
@@ -841,7 +841,7 @@
     },
     {
       "word": "aforementioned",
-      "phonetic": "əfo:'menfənd",
+      "phonetic": "əˈfɔɹˌmɛn.ʃənd",
       "pos": "adj.",
       "definition": "此前提及的；上述的",
       "frequency": 12502,
@@ -854,7 +854,7 @@
     },
     {
       "word": "forego",
-      "phonetic": "fs'gəu",
+      "phonetic": "fɔˈɡoʊ",
       "pos": "vt.",
       "definition": "摒绝；放弃美好的东西(想做的事或想得之物)vi. 走 在(时间、位置等)之前",
       "frequency": 18081,
@@ -869,7 +869,7 @@
     },
     {
       "word": "foregoing",
-      "phonetic": "'fɔ:gəuiŋ",
+      "phonetic": "ˌfɔ(ɹ)ˈɡoʊ.ɪŋ",
       "pos": "pron.",
       "definition": "前述内容adj.前面(提到)的",
       "frequency": 19248,
@@ -884,7 +884,7 @@
     },
     {
       "word": "before",
-      "phonetic": "br'fɔ:",
+      "phonetic": "biˈfɔɹ",
       "pos": "conj.",
       "definition": "在……以前；在……发生之前，以防；……之后才prep. (时间上)在……以前；(名单或次序上)较……为先，在……之 前；在……面前，当着……的面 adv. 先前，从前；( the day/week/ month etc)before: 前一天/一个星期/一个月等；在前面",
       "frequency": 220,
@@ -896,7 +896,7 @@
     },
     {
       "word": "beforehand",
-      "phonetic": "br'fo:hænd",
+      "phonetic": "bɪˈfɔɹhænd",
       "pos": "adv.",
       "definition": "adv. 事先；预先；提前",
       "frequency": 10747,
@@ -916,7 +916,7 @@
     },
     {
       "word": "pre-dawn",
-      "phonetic": "pri'dɔ:n",
+      "phonetic": "priːˈdɔn",
       "pos": "n.",
       "definition": "黎明前 adj .黎明前的",
       "frequency": 16131,
@@ -929,7 +929,7 @@
     },
     {
       "word": "preheat",
-      "phonetic": "pri:'hi:t",
+      "phonetic": "ˌpriːˈhiːt",
       "pos": "vt.",
       "definition": "预热",
       "frequency": 8274,
@@ -942,7 +942,7 @@
     },
     {
       "word": "prepaid",
-      "phonetic": "pri:'perd",
+      "phonetic": "pɹiːˈpeɪd",
       "pos": "adj.",
       "definition": "预付的",
       "frequency": 18558,
@@ -957,7 +957,7 @@
     },
     {
       "word": "preschool",
-      "phonetic": "'pri:sku:l",
+      "phonetic": "ˈpriːskuːl",
       "pos": "adj.",
       "definition": "学龄前的 adj. ( 美国二至五六岁孩子的)学前班",
       "frequency": 7123,
@@ -970,7 +970,7 @@
     },
     {
       "word": "preschooler",
-      "phonetic": ",pri'skulə",
+      "phonetic": "ˌpriːˈskuːlə",
       "pos": "n.",
       "definition": "学龄前儿童",
       "frequency": 12092,
@@ -981,7 +981,7 @@
     },
     {
       "word": "preseason",
-      "phonetic": "pri:'si:zən",
+      "phonetic": "ˌpriːˈsiːzn",
       "pos": "adj.",
       "definition": "赛季前的",
       "frequency": 10728,
@@ -994,7 +994,7 @@
     },
     {
       "word": "pre-service",
-      "phonetic": "pri:'ss:VIs",
+      "phonetic": "priːˈsɜrvɪs",
       "pos": "adj.",
       "definition": "( 尤指教师)上岗前的",
       "frequency": 13794,
@@ -1007,7 +1007,7 @@
     },
     {
       "word": "pre-war",
-      "phonetic": "'pri'wɔ:,wor",
+      "phonetic": "ˌpriːˈwɔ",
       "definition": "战前的；(尤指)第二次世界大战以前的",
       "frequency": 13783,
       "mnemonic": "pre-(=before: 之 前 )+war ( 战争) → 战前的",
@@ -1020,7 +1020,7 @@
     },
     {
       "word": "pristine",
-      "phonetic": "'pristi:n;- stan",
+      "phonetic": "pɹɪsˈtaɪn",
       "pos": "adj.",
       "definition": "极其新鲜的；非常洁净的；崭新的，簇新的； 未受损害的；处于原始状态的",
       "frequency": 8395,
@@ -1035,7 +1035,7 @@
     },
     {
       "word": "priest",
-      "phonetic": "prist",
+      "phonetic": "ˈpɹiːst",
       "pos": "n.",
       "definition": "( 圣公会教的)牧师；(天主教、东正教的)神父； ( 非 基督教的)祭司",
       "frequency": 2313,
@@ -1049,7 +1049,7 @@
     },
     {
       "word": "priestly",
-      "phonetic": "'pristli ",
+      "phonetic": "ˈpɹiːstli",
       "pos": "adj.",
       "definition": "( 像)神职人员[牧师；神父；教士]的",
       "frequency": 19040,
@@ -1064,7 +1064,7 @@
     },
     {
       "word": "priestess",
-      "phonetic": "'pri:strs",
+      "phonetic": "priːˈstɛs",
       "pos": "n.",
       "definition": "( 基督教之外一些宗教的)女教士，女祭司，女神职 人员",
       "frequency": 19891,
@@ -1077,7 +1077,7 @@
     },
     {
       "word": "priesthood",
-      "phonetic": "'pristhud",
+      "phonetic": "ˈpɹistˌhʊd",
       "pos": "n.",
       "definition": "神职人员的职位；担任神职的时期；(尤指某个基督教派的)全体教士",
       "frequency": 13153,
@@ -1103,7 +1103,7 @@
     },
     {
       "word": "happen",
-      "phonetic": "'hæp(an",
+      "phonetic": "ˈhæpən",
       "pos": "vt.",
       "definition": "碰巧 vi. ( 偶然地)发生；(尤指不愉快的事)发生 (在某人身上)217",
       "mnemonic": "hap (机会；运气，双写p)+-en ( 动词后缀) → 出于运气的 →碰巧； (偶然地)发生",
@@ -1116,7 +1116,7 @@
     },
     {
       "word": "happening",
-      "phonetic": "'haæp(anŋ",
+      "phonetic": "ˈhæpnɪŋ",
       "pos": "n.",
       "definition": "( 常指意外或难以解释的)事件 adj. 热闹的；时 髦的",
       "frequency": 6801,
@@ -1128,7 +1128,7 @@
     },
     {
       "word": "hapless",
-      "phonetic": "'hæplis",
+      "phonetic": "ˈhæplɪs",
       "pos": "adj.",
       "definition": "倒霉的；不幸的",
       "frequency": 14731,
@@ -1140,7 +1140,7 @@
     },
     {
       "word": "mishap",
-      "phonetic": "'mishæp",
+      "phonetic": "ˈmɪs.hæp",
       "pos": "n.",
       "definition": "小灾难",
       "frequency": 14537,
@@ -1154,7 +1154,7 @@
     },
     {
       "word": "perhaps",
-      "phonetic": "pə'hæps",
+      "phonetic": "pɚˈhæps",
       "pos": "adv.",
       "definition": "可能；(用以缓和语气或表示礼貌)也许；(用于 给出建议或在正式语体中提出请求)也许，或者；(委婉地表示不赞 同或不接受)也许，大概",
       "frequency": 436,
@@ -1168,7 +1168,7 @@
     },
     {
       "word": "use",
-      "phonetic": "ju:z",
+      "phonetic": "juːz",
       "pos": "n.",
       "definition": "使用；用光；吸食(药、毒品) n. 使用；用途",
       "frequency": 92,
@@ -1182,7 +1182,7 @@
     },
     {
       "word": "used",
-      "phonetic": "just",
+      "phonetic": "juːzd",
       "pos": "adj.",
       "definition": "习惯于；适应；用过的；二手的",
       "frequency": 1842,
@@ -1196,7 +1196,7 @@
     },
     {
       "word": "user",
-      "phonetic": "'ju:zə",
+      "phonetic": "ˈjuzɚ",
       "pos": "n.",
       "definition": "使用者；使用物",
       "frequency": 1827,
@@ -1209,7 +1209,7 @@
     },
     {
       "word": "useful",
-      "phonetic": "'jusful;-f(a)l",
+      "phonetic": "ˈjuːsfəl",
       "pos": "adj.",
       "definition": "有用的；有帮助的",
       "frequency": 2043,
@@ -1221,7 +1221,7 @@
     },
     {
       "word": "useless",
-      "phonetic": "'ju:sləs",
+      "phonetic": "ˈjuːs.ləs",
       "pos": "adj.",
       "definition": "无用的；无价值的",
       "frequency": 5738,
@@ -1233,7 +1233,7 @@
     },
     {
       "word": "usefulness",
-      "phonetic": "'jusf(u)lnas",
+      "phonetic": "ˈjuːsfəlnəs",
       "pos": "n.",
       "definition": "有用；可用性",
       "frequency": 10136,
@@ -1245,7 +1245,7 @@
     },
     {
       "word": "usable",
-      "phonetic": "'ju:zb(a)l",
+      "phonetic": "ˈjuː.zə.bəl",
       "pos": "adj.",
       "definition": "可用的；能用的(等于useable)1",
       "frequency": 1435,
@@ -1257,7 +1257,7 @@
     },
     {
       "word": "user-friendly",
-      "phonetic": "'ju:zə'frendli",
+      "phonetic": "ˈjuːzə ˈfrendlɪ",
       "pos": "adj.",
       "definition": "为用户着想的；好用的",
       "frequency": 17205,
@@ -1281,7 +1281,7 @@
     },
     {
       "word": "reuse",
-      "phonetic": "ri'ju:z",
+      "phonetic": "ɹiːˈjuːs",
       "pos": "vt.",
       "definition": "&n. 再使用；重复使用",
       "frequency": 13378,
@@ -1293,7 +1293,7 @@
     },
     {
       "word": "reusable",
-      "phonetic": "ri:'ju:zəbl",
+      "phonetic": "ˌriːˈjuːzəbl",
       "pos": "adj.",
       "definition": "可再度使用的；可多次使用的",
       "frequency": 18894,
@@ -1305,7 +1305,7 @@
     },
     {
       "word": "misuse",
-      "phonetic": "mis'ju:z",
+      "phonetic": "mɪsˈjuːs",
       "pos": "vt.",
       "definition": "误用；滥用n.误用；滥用",
       "frequency": 12387,
@@ -1318,7 +1318,7 @@
     },
     {
       "word": "unused",
-      "phonetic": ",ʌ n'ju:zd",
+      "phonetic": "ʌnˈjuːst",
       "pos": "adj.",
       "definition": "未用过的；不习惯的",
       "frequency": 10633,
@@ -1334,7 +1334,7 @@
     },
     {
       "word": "usually",
-      "phonetic": "'ju:ʒuəli",
+      "phonetic": "ˈjuːʒli",
       "pos": "adv.",
       "definition": "通常",
       "frequency": 725,
@@ -1347,7 +1347,7 @@
     },
     {
       "word": "unusual",
-      "phonetic": "ʌn'ju:ʒ1",
+      "phonetic": "ʌnˈjuːʒuəl",
       "pos": "adj.",
       "definition": "不寻常的；与众不同的",
       "frequency": 2054,
@@ -1360,7 +1360,7 @@
     },
     {
       "word": "unusually",
-      "phonetic": "an'ju:ʒuoli",
+      "phonetic": "ʌnˈjuːʒuəli",
       "pos": "adv.",
       "definition": "特别地，极其；不寻常地",
       "frequency": 6364,
@@ -1372,7 +1372,7 @@
     },
     {
       "word": "abuse",
-      "phonetic": "ə 'bju:z",
+      "phonetic": "əˈbjus",
       "pos": "vt.",
       "definition": "虐待；侮辱；滥用n. 虐待；辱骂；滥用",
       "frequency": 1548,
@@ -1385,7 +1385,7 @@
     },
     {
       "word": "abusive",
-      "phonetic": "ə'bjusIv",
+      "phonetic": "əˈbjuː.sɪv",
       "pos": "adj.",
       "definition": "( 言语或人)辱骂的；毁谤的；(行为)虐待的",
       "frequency": 7246,
@@ -1399,7 +1399,7 @@
     },
     {
       "word": "abuser",
-      "phonetic": "ə 'bju:zə",
+      "phonetic": "əˈbjuː.zɚ",
       "pos": "n.",
       "definition": "滥用者；施虐者",
       "frequency": 10563,
@@ -1409,7 +1409,7 @@
     },
     {
       "word": "peruse",
-      "phonetic": "pə'ru:z",
+      "phonetic": "pəˈɹuːz",
       "pos": "vt.",
       "definition": "读；(尤指)细读，精读",
       "frequency": 14960,
@@ -1422,7 +1422,7 @@
     },
     {
       "word": "usurp",
-      "phonetic": "ju'zs:p; ju'ss:p",
+      "phonetic": "juˈsɝp",
       "pos": "vt.",
       "definition": "篡夺；夺取",
       "frequency": 16095,
@@ -1435,7 +1435,7 @@
     },
     {
       "word": "utensil",
-      "phonetic": "ju:'tens(a)l",
+      "phonetic": "juˈtɛn.səl",
       "pos": "n.",
       "definition": "器皿；用具",
       "frequency": 13019,
@@ -1449,7 +1449,7 @@
     },
     {
       "word": "utility",
-      "phonetic": "ju:'trliti",
+      "phonetic": "juːˈtɪl.ɪ.ti",
       "pos": "n.",
       "definition": "效用；实用；公用事业adj.多用途的；多功能的",
       "frequency": 2601,
@@ -1463,7 +1463,7 @@
     },
     {
       "word": "utilize",
-      "phonetic": "'ju:tr larz",
+      "phonetic": "ˈjuːtɨlaɪz",
       "pos": "vt.",
       "definition": "使用；利用",
       "frequency": 4328,
@@ -1473,7 +1473,7 @@
     },
     {
       "word": "utilization",
-      "phonetic": "ju:trlar'zerʃən",
+      "phonetic": "ˌjuːtəlaɪˈzeɪʃn",
       "pos": "n.",
       "definition": "n. 利用",
       "frequency": 10155,
@@ -1492,7 +1492,7 @@
     },
     {
       "word": "brook",
-      "phonetic": "bruk",
+      "phonetic": "bɹʊk",
       "pos": "vt.",
       "definition": "允许 n. 小溪",
       "frequency": 16976,
@@ -1507,7 +1507,7 @@
     },
     {
       "word": "eat",
-      "phonetic": "i:t",
+      "phonetic": "iːt",
       "pos": "vt.",
       "definition": "&vi. 吃；吃饭 vt. 烦恼 vi. 饮食",
       "frequency": 544,
@@ -1521,7 +1521,7 @@
     },
     {
       "word": "eating",
-      "phonetic": "'i:tɪŋ",
+      "phonetic": "ˈitɪŋ",
       "pos": "n.",
       "definition": "饮食；食物 adj.可(生)食的",
       "frequency": 3941,
@@ -1535,7 +1535,7 @@
     },
     {
       "word": "edible",
-      "phonetic": "'edrb(a)l",
+      "phonetic": "ˈɛdɪbl",
       "pos": "adj.",
       "definition": "适宜食用的",
       "frequency": 10887,
@@ -1550,7 +1550,7 @@
     },
     {
       "word": "eater",
-      "phonetic": "'i tə",
+      "phonetic": "ˈiːtə",
       "pos": "n.",
       "definition": "吃 … … 的人",
       "frequency": 12541,
@@ -1562,7 +1562,7 @@
     },
     {
       "word": "eatery",
-      "phonetic": "'i:təri",
+      "phonetic": "ˈiːtəɹi",
       "pos": "adj.",
       "definition": "餐馆；饮食店",
       "frequency": 15491,
@@ -1574,7 +1574,7 @@
     },
     {
       "word": "obese",
-      "phonetic": "ə(u)'bi:s",
+      "phonetic": "oʊˈbis",
       "pos": "adj.",
       "definition": "肥胖的；过胖的",
       "frequency": 10580,
@@ -1586,7 +1586,7 @@
     },
     {
       "word": "obesity",
-      "phonetic": "ə(u)'bi:siti",
+      "phonetic": "oʊˈbiːsətɪ",
       "pos": "n.",
       "definition": "肥胖；过度肥胖",
       "frequency": 7290,
@@ -1599,7 +1599,7 @@
     },
     {
       "word": "etch",
-      "phonetic": "etfʃ",
+      "phonetic": "ɛtʃ",
       "pos": "vt.",
       "definition": "蚀刻；凿刻vt.铭刻(在记忆中)9037",
       "mnemonic": "et(=eat: 吃 ) +ch→ 用酸腐蚀(吃掉)表面以凿刻 →凿刻；铭刻",
@@ -1614,7 +1614,7 @@
     },
     {
       "word": "etching",
-      "phonetic": "'etʃrŋ",
+      "phonetic": "ˈetʃ.ɪŋ",
       "pos": "n.",
       "definition": "蚀刻版画",
       "frequency": 15364,

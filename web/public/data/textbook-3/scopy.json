@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "scope",
-      "phonetic": "skəup",
+      "phonetic": "ˈskoʊp",
       "pos": "n.",
       "definition": "机会；施展余地；(活动、话题或作品的)范围",
       "frequency": 3134,
@@ -30,7 +30,7 @@
     },
     {
       "word": "microscope",
-      "phonetic": "'markrəskaup",
+      "phonetic": "ˈmaɪkɹəˌskoʊp",
       "pos": "n.",
       "definition": "显微镜；(通常由于被认为存在问题)被仔细 研究",
       "frequency": 8463,
@@ -44,7 +44,7 @@
     },
     {
       "word": "microscopic",
-      "phonetic": "markrə'skppik",
+      "phonetic": "ˌmaɪkɹəˈskɑpɪk",
       "pos": "adj.",
       "definition": "极小的；微小的；微观的；极精细的；用 显微镜的；非常仔细的；一丝不苟的",
       "frequency": 9818,
@@ -61,7 +61,7 @@
     },
     {
       "word": "telescope",
-      "phonetic": "t'elrskoup",
+      "phonetic": "ˈtɛləˌskoʊp",
       "pos": "n.",
       "definition": "望远镜vt. ( 使)叠套缩短，叠缩",
       "frequency": 2779,
@@ -75,7 +75,7 @@
     },
     {
       "word": "telecommunication",
-      "phonetic": "'teliks,mju:ni'keifən",
+      "phonetic": "ˌtelɪkəˌmjuːnɪˈkeɪʃn",
       "pos": "n.",
       "definition": "电信；电讯；远程通信",
       "mnemonic": "tele-(=far off,afar,at or to a distance: 远距离)+communication ( 交 流，沟通) →远距离交流 → 电信；远程通信",
@@ -87,7 +87,7 @@
     },
     {
       "word": "telescopic",
-      "phonetic": "teli'skpprk",
+      "phonetic": "tɛlɪˈskɑpɪk",
       "pos": "adj.",
       "definition": "( 镜头、仪器)能望远的，望远镜的；能伸缩 的；套叠式的",
       "frequency": 20189,
@@ -100,7 +100,7 @@
     },
     {
       "word": "stethoscope",
-      "phonetic": "'steθəskəup",
+      "phonetic": "ˈstɛθəsˌkoʊp",
       "pos": "n.",
       "definition": "听诊器",
       "frequency": 18888,
@@ -114,7 +114,7 @@
     },
     {
       "word": "auspice",
-      "phonetic": "'ɔ :spis",
+      "phonetic": "ˈɔspɪs",
       "pos": "n.",
       "definition": "( 复数)(友好的)赞助，指导；预兆，尤指吉兆( a favorable omen); (古罗马以飞鸟行动为根据的)占卜",
       "frequency": 13399,
@@ -128,7 +128,7 @@
     },
     {
       "word": "bishop",
-      "phonetic": "'brʃəp",
+      "phonetic": "ˈbɪʃəp",
       "pos": "n.",
       "definition": "( 天主教、英国圣公会、东正教的)主教；(国际象棋中 的)象",
       "frequency": 3469,
@@ -145,7 +145,7 @@
     },
     {
       "word": "archbishop",
-      "phonetic": "a:tf'brʃop; 'a:tʃ-",
+      "phonetic": "ɑɹtʃ.bɪʃ.əp",
       "pos": "n.",
       "definition": "天主教、东正教和英国国教的)大主教，主 教长",
       "frequency": 13904,
@@ -158,7 +158,7 @@
     },
     {
       "word": "Episcopal",
-      "phonetic": "r'piskop(a)l;e-",
+      "phonetic": "əˈpɪs.kə.pl̩",
       "pos": "adj.",
       "definition": "( 苏格兰和美国的)新教圣公会的；主教的",
       "frequency": 8076,
@@ -175,7 +175,7 @@
     },
     {
       "word": "espionage",
-      "phonetic": "'espiəna:3;- Id3",
+      "phonetic": "ˈɛs.pi.ə.ˌnɑʒ",
       "pos": "n.",
       "definition": "间谍行为；谍报活动",
       "frequency": 11482,
