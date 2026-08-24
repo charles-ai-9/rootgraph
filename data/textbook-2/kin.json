@@ -1,510 +1,446 @@
 {
-  "chapter" : "11",
-  "chapterOrder" : 111,
-  "id" : "kin",
-  "meaningZh" : "基因的、遗传的、生",
-  "roots" : [
+  "chapter": "11",
+  "chapterOrder": 111,
+  "id": "kin",
+  "meaningZh": "基因的、遗传的、生",
+  "roots": [
     "kin",
     "nat",
     "nasc"
   ],
-  "semanticLabel" : "基因的、遗传的、生",
-  "source" : "textbook-2",
-  "titleZh" : "基因的、遗传的、生",
-  "words" : [
+  "semanticLabel": "基因的、遗传的、生",
+  "source": "textbook-2",
+  "titleZh": "基因的、遗传的、生",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "referring to procreation and familial and tribal groups.",
         "kith and kin：亲戚朋友 next of kin：最近的血亲"
       ],
-      "definition" : "亲戚；家族；同族",
-      "etymology" : "c. 1200, from Old English cynn “family; race; kind, sort, rank; nature” (also “gender, sex,” a sense obsolete since Middle English), from Proto- Germanic *kunja- “family” (source also of Old Frisian kenn, Old Saxon kunni “kin, kind, race, tribe,” Old Norse kyn, Old High German chunni “kin, race;” Danish kjön, Swedish kön, Middle Dutch, Dutch kunne “sex, gender;” Gothic kuni “family, race,” Old Norse kundr ’son,” German Kind “child”), from PIE root *gene- “give birth, beget,” with derivatives",
-      "examples" : [
-
-      ],
-      "frequency" : 7478,
-      "phonetic" : "kɪn",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kin"
+      "definition": "亲戚；家族；同族",
+      "etymology": "c. 1200, from Old English cynn “family; race; kind, sort, rank; nature” (also “gender, sex,” a sense obsolete since Middle English), from Proto- Germanic *kunja- “family” (source also of Old Frisian kenn, Old Saxon kunni “kin, kind, race, tribe,” Old Norse kyn, Old High German chunni “kin, race;” Danish kjön, Swedish kön, Middle Dutch, Dutch kunne “sex, gender;” Gothic kuni “family, race,” Old Norse kundr ’son,” German Kind “child”), from PIE root *gene- “give birth, beget,” with derivatives",
+      "examples": [],
+      "frequency": 7478,
+      "phonetic": "kɪn",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kin"
     },
     {
-      "collocations" : [
+      "collocations": [
         "one of a kind：独一无二的 all kinds of：各种各样的"
       ],
-      "definition" : "种类；性质 adj. 仁慈的；良善的",
-      "examples" : [
-
-      ],
-      "frequency" : 250,
-      "mnemonic" : "kind(=class，sort，variety，种类)→种类，性质",
-      "phonetic" : "kaɪnd",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kind"
+      "definition": "种类；性质 adj. 仁慈的；良善的",
+      "examples": [],
+      "frequency": 250,
+      "mnemonic": "kind(=class，sort，variety，种类)→种类，性质",
+      "phonetic": "kaɪnd",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kind"
     },
     {
-      "collocations" : [
+      "collocations": [
         "kinda invisible：有点像隐形人"
       ],
-      "definition" : "有几分；有一点",
-      "examples" : [
-
-      ],
-      "frequency" : 10078,
-      "mnemonic" : "1890, representing a casual pronunciation of kind of (see kind (n.)).",
-      "phonetic" : "ˈkaɪndə",
-      "pos" : "adv.",
-      "rootHint" : "kin",
-      "word" : "kinda"
+      "definition": "有几分；有一点",
+      "examples": [],
+      "frequency": 10078,
+      "mnemonic": "1890, representing a casual pronunciation of kind of (see kind (n.)).",
+      "phonetic": "ˈkaɪn.də",
+      "pos": "adv.",
+      "rootHint": "kin",
+      "word": "kinda"
     },
     {
-      "collocations" : [
+      "collocations": [
         "kindergarten，随后又开设训练班培训幼儿教师，并把kindergarten在\n整个德国推而广之。",
         "go to kindergarten：去幼儿园"
       ],
-      "definition" : "幼儿园；幼稚园",
-      "examples" : [
-
-      ],
-      "frequency" : 6206,
-      "mnemonic" : "kind(来自德语Kinder-Garten，字面意思是儿童的花园)，这种实施幼",
-      "phonetic" : "ˈkɪndəɹˌɡɑːɹd(ə)n",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kindergarten"
+      "definition": "幼儿园；幼稚园",
+      "examples": [],
+      "frequency": 6206,
+      "mnemonic": "kind(来自德语Kinder-Garten，字面意思是儿童的花园)，这种实施幼",
+      "phonetic": "ˈkɪn.dɚ.ɡɑɹ.tən",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kindergarten"
     },
     {
-      "collocations" : [
+      "collocations": [
         "start on fire”)→点燃火焰需要反复地钻木取火，木头属于自然界的植\n物→点燃(火焰)，激起",
-        "to kindle a fire\/flame：点火，点燃火焰"
+        "to kindle a fire/flame：点火，点燃火焰"
       ],
-      "definition" : "点燃；激起(兴趣、感情等)",
-      "examples" : [
-
-      ],
-      "frequency" : 17206,
-      "mnemonic" : "kind(=nature)+-le(动词后缀，表反复)(c. 1200, cundel, “to set fire to, to",
-      "phonetic" : "ˈkɪndl",
-      "pos" : "vt.",
-      "rootHint" : "kin",
-      "word" : "kindle"
+      "definition": "点燃；激起(兴趣、感情等)",
+      "examples": [],
+      "frequency": 17206,
+      "mnemonic": "kind(=nature)+-le(动词后缀，表反复)(c. 1200, cundel, “to set fire to, to",
+      "phonetic": "ˈkɪn.dəl",
+      "pos": "vt.",
+      "rootHint": "kin",
+      "word": "kindle"
     },
     {
-      "collocations" : [
-        "not take kindly to sth\/sb：不喜欢某事物\/人"
+      "collocations": [
+        "not take kindly to sth/sb：不喜欢某事物/人"
       ],
-      "definition" : "亲切地；温和地；仁慈地",
-      "examples" : [
-
-      ],
-      "frequency" : 10938,
-      "mnemonic" : "kind(仁慈的，良善的)+-ly(副词后缀)→亲切地；温和地",
-      "phonetic" : "ˈkaɪndli",
-      "pos" : "adv.",
-      "rootHint" : "kin",
-      "word" : "kindly"
+      "definition": "亲切地；温和地；仁慈地",
+      "examples": [],
+      "frequency": 10938,
+      "mnemonic": "kind(仁慈的，良善的)+-ly(副词后缀)→亲切地；温和地",
+      "phonetic": "ˈkaɪnd.li",
+      "pos": "adv.",
+      "rootHint": "kin",
+      "word": "kindly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "milk of human kindness：恻隐之心，人情"
       ],
-      "definition" : "仁慈；善良；友好的行为",
-      "examples" : [
-
-      ],
-      "frequency" : 7835,
-      "mnemonic" : "kind(仁慈的)+-ness(名词后缀)→仁慈；善良体贴",
-      "phonetic" : "ˈkaɪndnəs",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kindness"
+      "definition": "仁慈；善良；友好的行为",
+      "examples": [],
+      "frequency": 7835,
+      "mnemonic": "kind(仁慈的)+-ness(名词后缀)→仁慈；善良体贴",
+      "phonetic": "ˈkaɪnd.nəs",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kindness"
     },
     {
-      "collocations" : [
+      "collocations": [
         "ties of kindred：亲属关系 kindred spirit：志趣相投的人"
       ],
-      "definition" : "家人；亲属关系 adj. 血缘的；同族的；相近的",
-      "examples" : [
-
-      ],
-      "frequency" : 19717,
-      "mnemonic" : "kind(= kin家属，亲属)+-red(名词后缀)→家人，血缘关系，相近的",
-      "phonetic" : "ˈkɪndɹəd",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kindred"
+      "definition": "家人；亲属关系 adj. 血缘的；同族的；相近的",
+      "examples": [],
+      "frequency": 19717,
+      "mnemonic": "kind(= kin家属，亲属)+-red(名词后缀)→家人，血缘关系，相近的",
+      "phonetic": "ˈkɪn.dɹəd",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kindred"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the king of the jungle：丛林之王 a king penguin：帝王企鹅"
       ],
-      "definition" : "国王；佼佼者；……之最；王棋",
-      "examples" : [
-
-      ],
-      "frequency" : 2359,
-      "mnemonic" : "在现代英语中，单词king往往被翻译为“国王”，表示“一国之",
-      "phonetic" : "kiŋ",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "king"
+      "definition": "国王；佼佼者；……之最；王棋",
+      "examples": [],
+      "frequency": 2359,
+      "mnemonic": "在现代英语中，单词king往往被翻译为“国王”，表示“一国之",
+      "phonetic": "kɪŋ",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "king"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the animal kingdom：动物界"
       ],
-      "definition" : "王国；管辖范围；自然三界(动物、植物和矿物)之一；界(生物的五大类别之一)",
-      "examples" : [
-
-      ],
-      "frequency" : 4534,
-      "mnemonic" : "king(君)+-dom(抽象名词后缀，来自古英语 dom“法令，判决”)→君\n王下达法令和判决的地域范围→王国，管辖范围",
-      "phonetic" : "ˈkɪŋdəm",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kingdom"
+      "definition": "王国；管辖范围；自然三界(动物、植物和矿物)之一；界(生物的五大类别之一)",
+      "examples": [],
+      "frequency": 4534,
+      "mnemonic": "king(君)+-dom(抽象名词后缀，来自古英语 dom“法令，判决”)→君\n王下达法令和判决的地域范围→王国，管辖范围",
+      "phonetic": "ˈkɪŋ.dəm",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kingdom"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the ties of kindship：亲属关系"
       ],
-      "definition" : "亲属关系；(因出身或态度相似而产生的)亲切感",
-      "examples" : [
-
-      ],
-      "frequency" : 9063,
-      "mnemonic" : "kind(= kin家属，亲属)+-ship(抽象名词后缀)→亲属关系",
-      "phonetic" : "ˈkɪnʃɪp",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "kinship"
+      "definition": "亲属关系；(因出身或态度相似而产生的)亲切感",
+      "examples": [],
+      "frequency": 9063,
+      "mnemonic": "kind(= kin家属，亲属)+-ship(抽象名词后缀)→亲属关系",
+      "phonetic": "ˈkɪn.ʃɪp",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "kinship"
     },
     {
-      "collocations" : [
+      "collocations": [
         "malignant cells：恶性癌细胞"
       ],
-      "definition" : "恶性的；有恶意的；恶毒的",
-      "examples" : [
-
-      ],
-      "frequency" : 12622,
-      "mnemonic" : "mal-(“badly”)+gnant(=-gnus “born” from gignere “to bear, beget,” from\nPIE root *gene- “give birth, beget)→不好的事情发生，产生→恶性的，",
-      "phonetic" : "məˈlɪɡnənt",
-      "pos" : "adj.",
-      "rootHint" : "kin",
-      "word" : "malignant"
+      "definition": "恶性的；有恶意的；恶毒的",
+      "examples": [],
+      "frequency": 12622,
+      "mnemonic": "mal-(“badly”)+gnant(=-gnus “born” from gignere “to bear, beget,” from\nPIE root *gene- “give birth, beget)→不好的事情发生，产生→恶性的，",
+      "phonetic": "məˈlɪɡ.nənt",
+      "pos": "adj.",
+      "rootHint": "kin",
+      "word": "malignant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "malignancy formation：恶性病变"
       ],
-      "definition" : "恶性(肿瘤等)；恶意",
-      "examples" : [
-
-      ],
-      "frequency" : 19690,
-      "mnemonic" : "malignant(恶意的)+-cy(名词后缀)→恶性(肿瘤)，恶意",
-      "phonetic" : "məˈlɪɡ.nən.si",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "malignancy"
+      "definition": "恶性(肿瘤等)；恶意",
+      "examples": [],
+      "frequency": 19690,
+      "mnemonic": "malignant(恶意的)+-cy(名词后缀)→恶性(肿瘤)，恶意",
+      "phonetic": "məˈlɪɡ.nən.si",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "malignancy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to exist or grow, coming into being,” from Latin nascentem (nominative\nnascens) “arising young, immature,” present participle of nasci “to be",
         "nascent period：发育期 nascent state：新生态"
       ],
-      "definition" : "新生的；萌芽的；未成熟的",
-      "etymology" : "1620s, “in the act of being born;” 1706 in the figurative sense of “beginning born” (Old Latin gnasci), from PIE root *gene- “give birth, beget.”",
-      "examples" : [
-
-      ],
-      "frequency" : 13666,
-      "phonetic" : "ˈneɪ.sənt",
-      "pos" : "adj.",
-      "rootHint" : "nasc",
-      "word" : "nascent"
+      "definition": "新生的；萌芽的；未成熟的",
+      "etymology": "1620s, “in the act of being born;” 1706 in the figurative sense of “beginning born” (Old Latin gnasci), from PIE root *gene- “give birth, beget.”",
+      "examples": [],
+      "frequency": 13666,
+      "phonetic": "ˈneɪ.sənt",
+      "pos": "adj.",
+      "rootHint": "nasc",
+      "word": "nascent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "host nation：东道国"
       ],
-      "definition" : "国家；民族；国民",
-      "examples" : [
-
-      ],
-      "frequency" : 413,
-      "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ion名词词尾→国家；民族",
-      "phonetic" : "ˈneɪ.ʃən",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nation"
+      "definition": "国家；民族；国民",
+      "examples": [],
+      "frequency": 413,
+      "mnemonic": "nat-(生，来自native，出生的，本土的)+-ion名词词尾→国家；民族",
+      "phonetic": "ˈneɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "national and international news：国内和国际新闻"
       ],
-      "definition" : "国家的；民族的；全国的",
-      "examples" : [
-
-      ],
-      "frequency" : 232,
-      "mnemonic" : "nation(国家，民族)+-al(形容词后缀)→国家的，民族的",
-      "phonetic" : "ˈnæʃ(ə)nəl",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "national"
+      "definition": "国家的；民族的；全国的",
+      "examples": [],
+      "frequency": 232,
+      "mnemonic": "nation(国家，民族)+-al(形容词后缀)→国家的，民族的",
+      "phonetic": "ˈnæʃ.ə.nəl",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "national"
     },
     {
-      "collocations" : [
+      "collocations": [
         "economic nationalism：经济民族主义"
       ],
-      "definition" : "国家主义；民族主义；民族自豪感",
-      "examples" : [
-
-      ],
-      "frequency" : 5695,
-      "mnemonic" : "national(国家的，民族的)+-ism(名词后缀)→国家主义，民族主义",
-      "phonetic" : "ˈnæʃənəlɪzəm",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nationalism"
+      "definition": "国家主义；民族主义；民族自豪感",
+      "examples": [],
+      "frequency": 5695,
+      "mnemonic": "national(国家的，民族的)+-ism(名词后缀)→国家主义，民族主义",
+      "phonetic": "ˈnæʃ.ə.nə.lɪ.zəm",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nationalism"
     },
     {
-      "collocations" : [
+      "collocations": [
         "White Nationalist：白人民族主义者"
       ],
-      "definition" : "民族主义者；国家主义者；怀有本民族优越感者 adj. 民族主义的",
-      "examples" : [
-
-      ],
-      "frequency" : 7274,
-      "mnemonic" : "national(国家的，民族的)+-ist(名词后缀)→民族主义者，国家主义者",
-      "phonetic" : "ˈnæʃ(ə)n(ə)lɪst",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nationalist"
+      "definition": "民族主义者；国家主义者；怀有本民族优越感者 adj. 民族主义的",
+      "examples": [],
+      "frequency": 7274,
+      "mnemonic": "national(国家的，民族的)+-ist(名词后缀)→民族主义者，国家主义者",
+      "phonetic": "ˈnæʃ.ə.nə.lɪst",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nationalist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "nationalistic identity：国家认同"
       ],
-      "definition" : "民族主义的；国家主义的",
-      "examples" : [
-
-      ],
-      "frequency" : 15026,
-      "mnemonic" : "nationalist(民族主义者，国家主义者)+-ic(形容词后缀)→民族主义",
-      "phonetic" : "ˌnæʃnəˈlɪstɪk",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "nationalistic"
+      "definition": "民族主义的；国家主义的",
+      "examples": [],
+      "frequency": 15026,
+      "mnemonic": "nationalist(民族主义者，国家主义者)+-ic(形容词后缀)→民族主义",
+      "phonetic": "ˌnæʃ.ə.nə.ˈlɪs.tɪk",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "nationalistic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "dual nationality：双重国籍"
       ],
-      "definition" : "国籍；(构成国家一部分的)民族",
-      "examples" : [
-
-      ],
-      "frequency" : 7892,
-      "mnemonic" : "national(国家的，国民的)+-ity→成为一国国民的标志就是拥有一国国\n籍→国籍，民族",
-      "phonetic" : "-ˈnæl.ti",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nationality"
+      "definition": "国籍；(构成国家一部分的)民族",
+      "examples": [],
+      "frequency": 7892,
+      "mnemonic": "national(国家的，国民的)+-ity→成为一国国民的标志就是拥有一国国\n籍→国籍，民族",
+      "phonetic": "ˌnæʃ.əˈnæ.lə.ti",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nationality"
     },
     {
-      "collocations" : [
+      "collocations": [
         "nationalized industries：国有化企业"
       ],
-      "definition" : "将……国有化；使……收归国有",
-      "examples" : [
-
-      ],
-      "frequency" : 19642,
-      "mnemonic" : "national(国家的，民族的)+-ize(动词后缀，使……)→使……归国家",
-      "phonetic" : "ˈnæʃənəlaɪz",
-      "pos" : "vt.",
-      "rootHint" : "nat",
-      "word" : "nationalize"
+      "definition": "将……国有化；使……收归国有",
+      "examples": [],
+      "frequency": 19642,
+      "mnemonic": "national(国家的，民族的)+-ize(动词后缀，使……)→使……归国家",
+      "phonetic": "ˈnæʃ.ə.nə.laɪz",
+      "pos": "vt.",
+      "rootHint": "nat",
+      "word": "nationalize"
     },
     {
-      "collocations" : [
+      "collocations": [
         "nationally recognized：举国承认"
       ],
-      "definition" : "全国性地；举国一致地；以国民立场地",
-      "examples" : [
-
-      ],
-      "frequency" : 5359,
-      "mnemonic" : "national(国家的，民族的)+-ly(副词后缀)→全国性的，举国一致的",
-      "phonetic" : "ˈnæʃnəli",
-      "pos" : "adv.",
-      "rootHint" : "nat",
-      "word" : "nationally"
+      "definition": "全国性地；举国一致地；以国民立场地",
+      "examples": [],
+      "frequency": 5359,
+      "mnemonic": "national(国家的，民族的)+-ly(副词后缀)→全国性的，举国一致的",
+      "phonetic": "ˈnæʃ.ə.nə.li",
+      "pos": "adv.",
+      "rootHint": "nat",
+      "word": "nationally"
     },
     {
-      "collocations" : [
+      "collocations": [
         "nation-building party：建国政党"
       ],
-      "definition" : "国家建设",
-      "examples" : [
-
-      ],
-      "frequency" : 19708,
-      "mnemonic" : "nation(民族，国家)+building(建设)→国家建设",
-      "phonetic" : "ˈneɪʃ(ə)nˈbɪldɪŋ",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nation-building"
+      "definition": "国家建设",
+      "examples": [],
+      "frequency": 19708,
+      "mnemonic": "nation(民族，国家)+building(建设)→国家建设",
+      "phonetic": "ˈneɪ.ʃən.ˌbɪl.dɪŋ",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nation-building"
     },
     {
-      "collocations" : [
+      "collocations": [
         "territorial nation-state：地域性民族国家"
       ],
-      "definition" : "民族国家；单一民族独立国家",
-      "examples" : [
-
-      ],
-      "frequency" : 10781,
-      "mnemonic" : "nation(民族)+state(国家)→民族国家",
-      "phonetic" : "ˌneiʃənˈsteit",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nation-state"
+      "definition": "民族国家；单一民族独立国家",
+      "examples": [],
+      "frequency": 10781,
+      "mnemonic": "nation(民族)+state(国家)→民族国家",
+      "phonetic": "ˈneɪ.ʃən.ˌsteɪt",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nation-state"
     },
     {
-      "collocations" : [
+      "collocations": [
         "nation-wide polls：全国性的民意测验"
       ],
-      "definition" : "全国性的 adv. 遍及全国的",
-      "examples" : [
-
-      ],
-      "frequency" : 4983,
-      "mnemonic" : "nation(国家)+wide(广阔的)→遍及全国的",
-      "phonetic" : "ˌneɪ.ʃənˈwaɪd",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "nationwide"
+      "definition": "全国性的 adv. 遍及全国的",
+      "examples": [],
+      "frequency": 4983,
+      "mnemonic": "nation(国家)+wide(广阔的)→遍及全国的",
+      "phonetic": "ˈneɪ.ʃən.waɪd",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "nationwide"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a natural way,” from Old French natif “native, born in; raw, unspoiled”\n20000 词 汇巅峰\n速\n记",
         "natus, past participle of nasci (Old Latin gnasci) “be born,” related to\ngignere “beget,” from PIE root *gene- “give birth, beget. From early 15c.",
         "native species：当地的物种 native land：故乡 go native：入乡随俗"
       ],
-      "definition" : "出生地的；本地的；土著的；属于某地的；与生俱来的；天赋的",
-      "etymology" : "late 14c., natif, “natural, inborn, hereditary, connected with something in (14c.) and directly from Latin nativus “innate, produced by birth,” from as “born in a particular place, of indigenous origin or growth, not exotic or foreign,” also “of or pertaining to one by birth” (as in native land).",
-      "examples" : [
-
-      ],
-      "frequency" : 1410,
-      "phonetic" : "ˈneɪtəv",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "native"
+      "definition": "出生地的；本地的；土著的；属于某地的；与生俱来的；天赋的",
+      "etymology": "late 14c., natif, “natural, inborn, hereditary, connected with something in (14c.) and directly from Latin nativus “innate, produced by birth,” from as “born in a particular place, of indigenous origin or growth, not exotic or foreign,” also “of or pertaining to one by birth” (as in native land).",
+      "examples": [],
+      "frequency": 1410,
+      "phonetic": "ˈneɪ.tɪv",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "native"
     },
     {
-      "collocations" : [
+      "collocations": [
         "by nature：本质上 in the nature of something：……之类"
       ],
-      "definition" : "自然；基本特征；性格；种类",
-      "examples" : [
-
-      ],
-      "frequency" : 697,
-      "mnemonic" : "nat-(生，来自native，出生的，本土的)+-ure(名词后缀)→自然界是\n类)→自然，基本特征，性格，种类",
-      "phonetic" : "ˈneɪtʃɚ",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "nature"
+      "definition": "自然；基本特征；性格；种类",
+      "examples": [],
+      "frequency": 697,
+      "mnemonic": "nat-(生，来自native，出生的，本土的)+-ure(名词后缀)→自然界是\n类)→自然，基本特征，性格，种类",
+      "phonetic": "ˈneɪ.tʃɚ",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "nature"
     },
     {
-      "collocations" : [
-        "natural justice\/law：自然公道\/规律 natural yogurt：原味酸奶"
+      "collocations": [
+        "natural justice/law：自然公道/规律 natural yogurt：原味酸奶"
       ],
-      "definition" : "自然的；不做作的；天生的(行为)；天赋的(才能等) n. 天才",
-      "examples" : [
-
-      ],
-      "frequency" : 716,
-      "mnemonic" : "nature(自然，本质)+-al(形容词后缀)→自然的，天生的",
-      "phonetic" : "-ɚəl",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "natural"
+      "definition": "自然的；不做作的；天生的(行为)；天赋的(才能等) n. 天才",
+      "examples": [],
+      "frequency": 716,
+      "mnemonic": "nature(自然，本质)+-al(形容词后缀)→自然的，天生的",
+      "phonetic": "ˈnæ.tʃə.ɹəl",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "natural"
     },
     {
-      "collocations" : [
+      "collocations": [
         "atheistic naturalism：自然主义无神论",
         "life is based on natural causes and laws, and not on spiritual or supernatural",
         "(N-UNCOUNT) Naturalism is a theory in art and literature which states",
         "that people and things should be shown in a realistic way."
       ],
-      "definition" : "自然主义；写实主义",
-      "examples" : [
-
-      ],
-      "frequency" : 20197,
-      "mnemonic" : "natural(自然的)+-ism(名词后缀，表主义)→自然主义",
-      "phonetic" : "ˈnætʃ(ə)rəlɪz(ə)m",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "naturalism"
+      "definition": "自然主义；写实主义",
+      "examples": [],
+      "frequency": 20197,
+      "mnemonic": "natural(自然的)+-ism(名词后缀，表主义)→自然主义",
+      "phonetic": "ˈnæ.tʃə.ɹə.lɪ.zəm",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "naturalism"
     },
     {
-      "collocations" : [
+      "collocations": [
         "leading naturalist：领先的博物学家",
         "释义：(N-COUNT) A naturalist is a person who studies plants, animals, insects,",
         "and other living things."
       ],
-      "definition" : "博物学家；自然主义者(英)动物标本剥制者；买卖玩赏动物的商人 adj. 博物学的；自然主义的",
-      "examples" : [
-
-      ],
-      "frequency" : 11120,
-      "mnemonic" : "natural(自然的)+-ist(名词后缀，表……学家、专家)→研究自然界的专\n家→博物学家",
-      "phonetic" : "ˈnætʃ(ə)rəlɪst",
-      "pos" : "n.",
-      "rootHint" : "nat",
-      "word" : "naturalist"
+      "definition": "博物学家；自然主义者(英)动物标本剥制者；买卖玩赏动物的商人 adj. 博物学的；自然主义的",
+      "examples": [],
+      "frequency": 11120,
+      "mnemonic": "natural(自然的)+-ist(名词后缀，表……学家、专家)→研究自然界的专\n家→博物学家",
+      "phonetic": "ˈnæ.tʃə.ɹə.lɪst",
+      "pos": "n.",
+      "rootHint": "nat",
+      "word": "naturalist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "naturalistic explanations：自然主义的解释"
       ],
-      "definition" : "(艺术或写作)自然主义的；写实主义的；模仿自然的；根据自然的",
-      "examples" : [
-
-      ],
-      "frequency" : 15239,
-      "mnemonic" : "naturalist(博物学家)+-ic(形容词后缀)→自然主义的，写实的",
-      "phonetic" : "nætʃ(ə)rəˈlɪstɪk",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "naturalistic"
+      "definition": "(艺术或写作)自然主义的；写实主义的；模仿自然的；根据自然的",
+      "examples": [],
+      "frequency": 15239,
+      "mnemonic": "naturalist(博物学家)+-ic(形容词后缀)→自然主义的，写实的",
+      "phonetic": "ˌnæ.tʃə.ɹə.ˈlɪs.tɪk",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "naturalistic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "naturalize something：使……适应某地的生长环境"
       ],
-      "definition" : "&vi. 移植(植物)；(植物)适应异地生长环境 vt.使……加入国籍 adj. 归化的；入籍的；驯化的",
-      "examples" : [
-
-      ],
-      "frequency" : 8873,
-      "mnemonic" : "natural(自然的)+-ize(动词后缀，使……)+d(形容词后缀)→使……自然",
-      "phonetic" : "ˈnætʃərəlaɪzd",
-      "pos" : "vt.",
-      "rootHint" : "nat",
-      "word" : "naturalized"
+      "definition": "&vi. 移植(植物)；(植物)适应异地生长环境 vt.使……加入国籍 adj. 归化的；入籍的；驯化的",
+      "examples": [],
+      "frequency": 8873,
+      "mnemonic": "natural(自然的)+-ize(动词后缀，使……)+d(形容词后缀)→使……自然",
+      "phonetic": "ˈnæ.tʃə.ɹə.laɪzd",
+      "pos": "vt.",
+      "rootHint": "nat",
+      "word": "naturalized"
     },
     {
-      "collocations" : [
+      "collocations": [
         "comes naturally to：(对……而言)轻而易举 naturally preserved：常温",
         "innocent; unspoiled, unworked” (13c.), from Latin nativus “not artificial,”",
         "philosophy, “unreflecting, uncritical” (1895), used of non-philosophers.",
@@ -515,189 +451,171 @@
         "(ADJ) (approving) (of people and their behaviour) innocent and simple",
         "getting various certificates.\n期望通过考各种证书在未来竞争中占据优势的想法稍微有一些天真。\n笔 记 区"
       ],
-      "definition" : "自然而然地；自然地；大方地；天生地",
-      "etymology" : "1650s, “natural, simple, unsophisticated, artless,” from French naïve, fem. of naïf, from Old French naif “naive, natural, genuine; just born; foolish, also “native, rustic,” literally “born, innate, natural” (see native (adj.)). In",
-      "examples" : [
-        "It is somewhat naïve to expect to be in a dominant\/superior position by"
+      "definition": "自然而然地；自然地；大方地；天生地",
+      "etymology": "1650s, “natural, simple, unsophisticated, artless,” from French naïve, fem. of naïf, from Old French naif “naive, natural, genuine; just born; foolish, also “native, rustic,” literally “born, innate, natural” (see native (adj.)). In",
+      "examples": [
+        "It is somewhat naïve to expect to be in a dominant/superior position by"
       ],
-      "frequency" : 2820,
-      "mnemonic" : "natural(自然的)+-ly(副词后缀)→自然发生的，自然的行为，本性如此\n的→自然而然地，大方地，天生地\nna(=-gna=bear：出生)+ive(的)→刚生出来的→天真的、幼稚的",
-      "phonetic" : "ˈnætʃ(ə)ɹəli",
-      "pos" : "adv.",
-      "rootHint" : "nat",
-      "word" : "naturally"
+      "frequency": 2820,
+      "mnemonic": "natural(自然的)+-ly(副词后缀)→自然发生的，自然的行为，本性如此\n的→自然而然地，大方地，天生地\nna(=-gna=bear：出生)+ive(的)→刚生出来的→天真的、幼稚的",
+      "phonetic": "ˈnæ.tʃə.ɹə.li",
+      "pos": "adv.",
+      "rootHint": "nat",
+      "word": "naturally"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a pregnant pause：耐人寻味的停顿，心照不宣的沉默 pregnant",
         "with...：饱含；充溢着",
         "the sinking; its heroine is a pregnant young woman who survives the",
         "catastrophe only to say later: “Nobody wanted to hear about it, not here in",
         "the West (of Germany) and not at all in the East.”"
       ],
-      "definition" : "怀孕的；耐人寻味的",
-      "examples" : [
+      "definition": "怀孕的；耐人寻味的",
+      "examples": [
         "The book, which will be out in English next year, doesn’t dwell on"
       ],
-      "frequency" : 2652,
-      "mnemonic" : "pre-(=before，前)+gnant(=\nroot of gnasci \"to be born\")→在出生之前的→怀孕的",
-      "phonetic" : "ˈpɹɛɡnənt",
-      "pos" : "adj.",
-      "rootHint" : "kin",
-      "word" : "pregnant"
+      "frequency": 2652,
+      "mnemonic": "pre-(=before，前)+gnant(=\nroot of gnasci \"to be born\")→在出生之前的→怀孕的",
+      "phonetic": "ˈpɹɛɡ.nənt",
+      "pos": "adj.",
+      "rootHint": "kin",
+      "word": "pregnant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "pregnancy test：妊娠试验"
       ],
-      "definition" : "怀孕；妊娠；孕期",
-      "examples" : [
-
-      ],
-      "frequency" : 3356,
-      "mnemonic" : "pregnant(怀孕的)+-cy(名词后缀)→怀孕",
-      "phonetic" : "ˈpregnənsɪ",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "pregnancy"
+      "definition": "怀孕；妊娠；孕期",
+      "examples": [],
+      "frequency": 3356,
+      "mnemonic": "pregnant(怀孕的)+-cy(名词后缀)→怀孕",
+      "phonetic": "ˈpɹɛɡ.nən.si",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "pregnancy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "prenatal care：产前保健",
         "women during pregnancy.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "产前的，孕期的，胎儿期的",
-      "examples" : [
-
-      ],
-      "frequency" : 11483,
-      "mnemonic" : "pre-(在前，早于)+natal(nasci \"to be born\"的过去分词，古拉丁语为\ngnasci，来\n自词根 gene-)+-al( 形容词后缀 ) →在出生之前的→产前的，孕期的",
-      "phonetic" : "priːˈneɪt(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "nat",
-      "word" : "prenatal"
+      "definition": "产前的，孕期的，胎儿期的",
+      "examples": [],
+      "frequency": 11483,
+      "mnemonic": "pre-(在前，早于)+natal(nasci \"to be born\"的过去分词，古拉丁语为\ngnasci，来\n自词根 gene-)+-al( 形容词后缀 ) →在出生之前的→产前的，孕期的",
+      "phonetic": "ˌpɹiˈneɪ.təl",
+      "pos": "adj.",
+      "rootHint": "nat",
+      "word": "prenatal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "first recorded 1590s. Compare puisne. Related: Puniness.→弱小的，孱弱\n的；微不足道的",
-        "puny effort\/attempt：微不足道的努力"
+        "puny effort/attempt：微不足道的努力"
       ],
-      "definition" : "弱小的，孱弱的；不起眼的，微不足道的",
-      "examples" : [
-
-      ],
-      "frequency" : 16452,
-      "mnemonic" : "来自古法语puisne(=afterward，hereafter，from puis在此之后)+ny(=né\/\nnasci，“to be born”出生，来自古法语，来自词根gene-“give\nbirth，beget”)最后出生的，Sense of “small, weak, insignificant”",
-      "phonetic" : "pjuːni",
-      "pos" : "adj.",
-      "rootHint" : "kin",
-      "word" : "puny"
+      "definition": "弱小的，孱弱的；不起眼的，微不足道的",
+      "examples": [],
+      "frequency": 16452,
+      "mnemonic": "来自古法语puisne(=afterward，hereafter，from puis在此之后)+ny(=né/\nnasci，“to be born”出生，来自古法语，来自词根gene-“give\nbirth，beget”)最后出生的，Sense of “small, weak, insignificant”",
+      "phonetic": "ˈpju.ni",
+      "pos": "adj.",
+      "rootHint": "kin",
+      "word": "puny"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Renaissance music：文艺复兴音乐",
         "in the 14th, 15th, and 16th centuries, when there was a new interest in art,",
         "literature, science, and learning.",
         "(N-SING) If something experiences a renaissance, it becomes popular or",
         "successful again after a time when people were not interested in it.\n词根“gene-”表示“基因的，遗传的，生”，词根“her”也可以表示“遗\n传，生”"
       ],
-      "definition" : "(艺术等的)新生，复活；(Renaissance)文艺复兴",
-      "examples" : [
-
-      ],
-      "frequency" : 12946,
-      "mnemonic" : "re-(=again，再次，重新)+naiss(=nasci，古拉丁语为gnasci，生育，出\n生)+-ance(名词后缀)→再次出生、更新、复兴的事物→(艺术等的)新",
-      "phonetic" : "ˈɹɛnəˌsɑns",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "renaissance"
+      "definition": "(艺术等的)新生，复活；(Renaissance)文艺复兴",
+      "examples": [],
+      "frequency": 12946,
+      "mnemonic": "re-(=again，再次，重新)+naiss(=nasci，古拉丁语为gnasci，生育，出\n生)+-ance(名词后缀)→再次出生、更新、复兴的事物→(艺术等的)新",
+      "phonetic": "ˌɹɛn.əˈsɑns",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "renaissance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "social heritage：社会遗产"
       ],
-      "definition" : "遗产、继承物",
-      "examples" : [
-
-      ],
-      "mnemonic" : "heri(遗传)+t(无意义)+age(名词后缀)→遗传下来的东西→遗产、继",
-      "phonetic" : "ˈhɛɹɪtɪd͡ʒ",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "heritage"
+      "definition": "遗产、继承物",
+      "examples": [],
+      "mnemonic": "heri(遗传)+t(无意义)+age(名词后缀)→遗传下来的东西→遗产、继",
+      "phonetic": "ˈhɛɹ.ə.tɪdʒ",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "heritage"
     },
     {
-      "collocations" : [
+      "collocations": [
         "hereditary monarchy：世袭君主制"
       ],
-      "definition" : "遗传的；世袭的；世代相传的14286",
-      "examples" : [
-
-      ],
-      "mnemonic" : "heredity(=古拉丁语hereditatem heirship, inheritance，继承，继承权，\n来自词根heres“heir，heiress”)+-ary(形容词后缀)→遗传的，世袭",
-      "phonetic" : "həˈɹɛdɪˌtɛɹi",
-      "pos" : "adj.",
-      "rootHint" : "kin",
-      "word" : "hereditary"
+      "definition": "遗传的；世袭的；世代相传的14286",
+      "examples": [],
+      "mnemonic": "heredity(=古拉丁语hereditatem heirship, inheritance，继承，继承权，\n来自词根heres“heir，heiress”)+-ary(形容词后缀)→遗传的，世袭",
+      "phonetic": "həˈɹɛ.də.ˌtɛɹ.i",
+      "pos": "adj.",
+      "rootHint": "kin",
+      "word": "hereditary"
     },
     {
-      "collocations" : [
+      "collocations": [
         "inherit property：继承财产",
         "parents, grows up with a strong sense of purpose and sheds the image of\napathy they’ve inherited from Generation X."
       ],
-      "definition" : "继承(财产)；接任；经遗传而得(特征、品质等)",
-      "examples" : [
+      "definition": "继承(财产)；接任；经遗传而得(特征、品质等)",
+      "examples": [
         "The result could be a group of young people that, like their boomer"
       ],
-      "frequency" : 4519,
-      "mnemonic" : "in-(加强语气)+her-(遗传、继承)+-it(动词后缀)→继承、成为继承人",
-      "phonetic" : "ɪnˈhɛɹɪt",
-      "pos" : "v.",
-      "rootHint" : "kin",
-      "word" : "inherit"
+      "frequency": 4519,
+      "mnemonic": "in-(加强语气)+her-(遗传、继承)+-it(动词后缀)→继承、成为继承人",
+      "phonetic": "ɪnˈhɛ.ɹɪt",
+      "pos": "v.",
+      "rootHint": "kin",
+      "word": "inherit"
     },
     {
-      "collocations" : [
+      "collocations": [
         "inheritance tax：遗产税"
       ],
-      "definition" : "继承物；遗产；沿袭物；遗传特征",
-      "examples" : [
-
-      ],
-      "frequency" : 7801,
-      "mnemonic" : "inherit(继承)+-ance(名词后缀)→由继承而得的东西→继承物，遗产",
-      "phonetic" : "ɪnˈhɛɹətəns",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "inheritance"
+      "definition": "继承物；遗产；沿袭物；遗传特征",
+      "examples": [],
+      "frequency": 7801,
+      "mnemonic": "inherit(继承)+-ance(名词后缀)→由继承而得的东西→继承物，遗产",
+      "phonetic": "ɪnˈhɛ.ɹɪ.təns",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "inheritance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "inherited stability：遗传稳定性"
       ],
-      "definition" : "遗传的；继承权的；通过继承得到13732",
-      "examples" : [
-
-      ],
-      "mnemonic" : "inherit(继承)+-ed(形容词后缀)→继承的，遗传的",
-      "phonetic" : "ɪnˈhɛɹɪtɪd",
-      "pos" : "adj.",
-      "rootHint" : "kin",
-      "word" : "inherited"
+      "definition": "遗传的；继承权的；通过继承得到13732",
+      "examples": [],
+      "mnemonic": "inherit(继承)+-ed(形容词后缀)→继承的，遗传的",
+      "phonetic": "ɪnˈhɛ.ɹɪ.tɪd",
+      "pos": "adj.",
+      "rootHint": "kin",
+      "word": "inherited"
     },
     {
-      "collocations" : [
+      "collocations": [
         "legal inheritor：法定继承人"
       ],
-      "definition" : "继承人，后继者；遗产继承人",
-      "examples" : [
-
-      ],
-      "mnemonic" : "inherit(继承)+-or→继承人，后继者；遗产继承人",
-      "phonetic" : "inˈheritə",
-      "pos" : "n.",
-      "rootHint" : "kin",
-      "word" : "inheritor"
+      "definition": "继承人，后继者；遗产继承人",
+      "examples": [],
+      "mnemonic": "inherit(继承)+-or→继承人，后继者；遗产继承人",
+      "phonetic": "ɪnˈhɛ.ɹɪ.tɚ",
+      "pos": "n.",
+      "rootHint": "kin",
+      "word": "inheritor"
     }
   ]
 }

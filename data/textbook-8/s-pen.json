@@ -1,112 +1,96 @@
 {
-  "chapter" : "1",
-  "chapterOrder" : 101,
-  "id" : "s-pen",
-  "meaningEn" : "weigh",
-  "meaningZh" : "称重，进而引申为权衡；平衡",
-  "roots" : [
+  "chapter": "1",
+  "chapterOrder": 101,
+  "id": "s-pen",
+  "meaningEn": "weigh",
+  "meaningZh": "称重，进而引申为权衡；平衡",
+  "roots": [
     "(s)pen",
     "stretch",
     "(s)pond 都"
   ],
-  "semanticLabel" : "称重，进而引申为权衡；平衡",
-  "source" : "textbook-8",
-  "titleZh" : "称重，进而引申为权衡；平衡",
-  "words" : [
+  "semanticLabel": "称重，进而引申为权衡；平衡",
+  "source": "textbook-8",
+  "titleZh": "称重，进而引申为权衡；平衡",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a life span：寿命（从生到死的时间段）；使用期限（时间段）",
         "concentration span：注意力持续时间",
         "span 16 years：持续了16年",
         "span all aspects of music：包括了音乐的所有方面",
         "span a little stream：横跨一条小溪\n笔 记 区"
       ],
-      "definition" : "（两时间点之间的）时间段；（注意力的）持续时间 vt. 持续；包括；横跨",
-      "examples" : [
-
-      ],
-      "frequency" : 5800,
-      "mnemonic" : "词根spen-：stretch，含义为拉直，伸长→span：（时间、距离）拉\n长，伸展→时间段；持续时间；持续，横跨",
-      "phonetic" : "spæn",
-      "pos" : "n.",
-      "rootHint" : "(s)pen",
-      "word" : "span"
+      "definition": "（两时间点之间的）时间段；（注意力的）持续时间 vt. 持续；包括；横跨",
+      "examples": [],
+      "frequency": 5800,
+      "mnemonic": "词根spen-：stretch，含义为拉直，伸长→span：（时间、距离）拉\n长，伸展→时间段；持续时间；持续，横跨",
+      "phonetic": "spæn",
+      "pos": "n.",
+      "rootHint": "(s)pen",
+      "word": "span"
     },
     {
-      "collocations" : [
+      "collocations": [
         "spin the wheel：转动方向盘",
         "reduce wheel-spin in icy conditions：减少结冰情况下的车轮旋转",
         "spin from the wine：因喝了酒而感到眩晕"
       ],
-      "definition" : "&vi. 转动；（使球等快速）旋转 vt. 纺线 vi. 眩晕",
-      "etymology" : "draw out and twist fibers into thread→引申义为转动，旋转；纺线；眩 晕（天旋地转一般）",
-      "examples" : [
-
-      ],
-      "frequency" : 2666,
-      "phonetic" : "spɪn",
-      "pos" : "vt.",
-      "rootHint" : "(s)pen",
-      "word" : "spin"
+      "definition": "&vi. 转动；（使球等快速）旋转 vt. 纺线 vi. 眩晕",
+      "etymology": "draw out and twist fibers into thread→引申义为转动，旋转；纺线；眩 晕（天旋地转一般）",
+      "examples": [],
+      "frequency": 2666,
+      "phonetic": "spɪn",
+      "pos": "vt.",
+      "rootHint": "(s)pen",
+      "word": "spin"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "投旋转球的投球手；纺线者，纺纱工",
-      "examples" : [
-
-      ],
-      "frequency" : 15685,
-      "mnemonic" : "spin（使球等快速旋转，双写n）+ -er（表人）→投旋转球的投球",
-      "phonetic" : "ˈspɪnɚ",
-      "pos" : "n.",
-      "rootHint" : "(s)pen",
-      "word" : "spinner"
+      "collocations": [],
+      "definition": "投旋转球的投球手；纺线者，纺纱工",
+      "examples": [],
+      "frequency": 15685,
+      "mnemonic": "spin（使球等快速旋转，双写n）+ -er（表人）→投旋转球的投球",
+      "phonetic": "ˈspɪnɚ",
+      "pos": "n.",
+      "rootHint": "(s)pen",
+      "word": "spinner"
     },
     {
-      "collocations" : [
+      "collocations": [
         "spinning yarn（纱线）：纺纱"
       ],
-      "definition" : "纺线（手艺）；纺纱（手艺）；（通常有教练带领的）动感单车练习",
-      "examples" : [
-
-      ],
-      "frequency" : 15162,
-      "phonetic" : "ˈspɪnɪŋ",
-      "pos" : "n.",
-      "rootHint" : "(s)pen",
-      "word" : "spinning"
+      "definition": "纺线（手艺）；纺纱（手艺）；（通常有教练带领的）动感单车练习",
+      "examples": [],
+      "frequency": 15162,
+      "phonetic": "ˈspɪnɪŋ",
+      "pos": "n.",
+      "rootHint": "(s)pen",
+      "word": "spinning"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "轴；纺锤",
-      "examples" : [
-
-      ],
-      "frequency" : 18897,
-      "mnemonic" : "spin（纺线）+ d + -le（工具格后缀）→轴（机器中转动的部分）；",
-      "phonetic" : "ˈspɪndəl",
-      "pos" : "n.",
-      "rootHint" : "(s)pen",
-      "word" : "spindle"
+      "collocations": [],
+      "definition": "轴；纺锤",
+      "examples": [],
+      "frequency": 18897,
+      "mnemonic": "spin（纺线）+ d + -le（工具格后缀）→轴（机器中转动的部分）；",
+      "phonetic": "ˈspɪndəl",
+      "pos": "n.",
+      "rootHint": "(s)pen",
+      "word": "spindle"
     },
     {
-      "collocations" : [
+      "collocations": [
         "spindly legs：细长而纤弱的腿"
       ],
-      "definition" : "细长且纤弱的",
-      "examples" : [
-
-      ],
-      "frequency" : 18902,
-      "mnemonic" : "spindle（纺锤）+ -y（形容词后缀）→纺锤形的→细长且纤弱的",
-      "phonetic" : "ˈspɪndlɪ",
-      "pos" : "adj.",
-      "rootHint" : "(s)pen",
-      "word" : "spindly"
+      "definition": "细长且纤弱的",
+      "examples": [],
+      "frequency": 18902,
+      "mnemonic": "spindle（纺锤）+ -y（形容词后缀）→纺锤形的→细长且纤弱的",
+      "phonetic": "ˈspɪndli",
+      "pos": "adj.",
+      "rootHint": "(s)pen",
+      "word": "spindly"
     }
   ]
 }

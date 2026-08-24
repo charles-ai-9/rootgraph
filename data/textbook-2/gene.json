@@ -1,336 +1,294 @@
 {
-  "chapter" : "10",
-  "chapterOrder" : 110,
-  "id" : "gene",
-  "meaningZh" : "基因的，遗传的；出生，生育，产生",
-  "roots" : [
+  "chapter": "10",
+  "chapterOrder": 110,
+  "id": "gene",
+  "meaningZh": "基因的，遗传的；出生，生育，产生",
+  "roots": [
     "*gene",
     "*gen"
   ],
-  "semanticLabel" : "基因的，遗传的；出生，生育，产生",
-  "source" : "textbook-2",
-  "titleZh" : "基因的，遗传的；出生，生育，产生",
-  "words" : [
+  "semanticLabel": "基因的，遗传的；出生，生育，产生",
+  "source": "textbook-2",
+  "titleZh": "基因的，遗传的；出生，生育，产生",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a congenial colleague：意气相投的同事"
       ],
-      "definition" : "意气相投的；令人愉快的；适宜的；合适的",
-      "examples" : [
-
-      ],
-      "frequency" : 16829,
-      "mnemonic" : "con-(with，together，一同)+gene-(=birth，出生)+-ial(形容词后缀)→一\n同出生的，因此脾气秉性都一样→意气相投的，令人愉快的，适宜的",
-      "phonetic" : "kənˈdʒiːnɪəl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "congenial"
+      "definition": "意气相投的；令人愉快的；适宜的；合适的",
+      "examples": [],
+      "frequency": 16829,
+      "mnemonic": "con-(with，together，一同)+gene-(=birth，出生)+-ial(形容词后缀)→一\n同出生的，因此脾气秉性都一样→意气相投的，令人愉快的，适宜的",
+      "phonetic": "kənˈdʒinjəl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "congenial"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a congenital liar：生性好说谎的人 congenital heart disease：先天性心"
       ],
-      "definition" : "先天性的；天生的；生性的",
-      "examples" : [
-
-      ],
-      "frequency" : 16200,
-      "mnemonic" : "con-(with，together，一同)+gene-(=birth，出生)+-ital(it+al，复合的形\n容词后缀)→出生就带有的，先天就存在，不会改变的→先天性的，",
-      "phonetic" : "kənˈdʒenɪt(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "congenital"
+      "definition": "先天性的；天生的；生性的",
+      "examples": [],
+      "frequency": 16200,
+      "mnemonic": "con-(with，together，一同)+gene-(=birth，出生)+-ital(it+al，复合的形\n容词后缀)→出生就带有的，先天就存在，不会改变的→先天性的，",
+      "phonetic": "kənˈdʒɛnɪtəl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "congenital"
     },
     {
-      "collocations" : [
+      "collocations": [
         "gender gaps：性别差异"
       ],
-      "definition" : "性；性别；(语法上的)性",
-      "examples" : [
-
-      ],
-      "frequency" : 1838,
-      "mnemonic" : "gen(=birth, 基因)+d(无意义)+er(名词后缀)→从出生起有带有的差异→",
-      "phonetic" : "ˈdʒɛndə",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "gender"
+      "definition": "性；性别；(语法上的)性",
+      "examples": [],
+      "frequency": 1838,
+      "mnemonic": "gen(=birth, 基因)+d(无意义)+er(名词后缀)→从出生起有带有的差异→",
+      "phonetic": "ˈdʒɛn.dɚ",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "gender"
     },
     {
-      "collocations" : [
+      "collocations": [
         "gendered language characteristics 性别语言特征"
       ],
-      "definition" : "性别化；依照性别而分类的",
-      "examples" : [
-
-      ],
-      "frequency" : 17842,
-      "mnemonic" : "gender(性别)+-ed(形容词后缀)→性别化；依照性别而分类的",
-      "phonetic" : "ˈdʒendəd",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "gendered"
+      "definition": "性别化；依照性别而分类的",
+      "examples": [],
+      "frequency": 17842,
+      "mnemonic": "gender(性别)+-ed(形容词后缀)→性别化；依照性别而分类的",
+      "phonetic": "ˈdʒɛn.dɚd",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "gendered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Johannsen (1857- 1927), from Greek genea “generation, race,” from PIE",
         "Gene pool is attested from 1946.",
         "gene bank：基因文库；gene pool：基因库"
       ],
-      "definition" : "基因，遗传因子2307",
-      "etymology" : "1911, from German Gen, coined 1905 by Danish scientist Wilhelm Ludvig root *gene- “give birth, beget.” De Vries had earlier called them pangenes.",
-      "examples" : [
-
-      ],
-      "mnemonic" : "gene(=to give birth, beget)→从出生(从母体带来的)就有的→基因",
-      "phonetic" : "dʒiːn",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "gene"
+      "definition": "基因，遗传因子2307",
+      "etymology": "1911, from German Gen, coined 1905 by Danish scientist Wilhelm Ludvig root *gene- “give birth, beget.” De Vries had earlier called them pangenes.",
+      "examples": [],
+      "mnemonic": "gene(=to give birth, beget)→从出生(从母体带来的)就有的→基因",
+      "phonetic": "dʒin",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "gene"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genetic variation：基因变异 genetic modification：基因改造"
       ],
-      "definition" : "遗传的；起源的；基因的",
-      "examples" : [
-
-      ],
-      "frequency" : 2744,
-      "mnemonic" : "gene(基因、遗传因子)+tic(形容词后缀：的)→基因的、遗传的",
-      "phonetic" : "[d͡ʒəˈnɛtɪk]",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "genetic"
+      "definition": "遗传的；起源的；基因的",
+      "examples": [],
+      "frequency": 2744,
+      "mnemonic": "gene(基因、遗传因子)+tic(形容词后缀：的)→基因的、遗传的",
+      "phonetic": "dʒəˈnɛ.tɪk",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "genetic"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "遗传学家",
-      "examples" : [
-
-      ],
-      "frequency" : 13673,
-      "mnemonic" : "genetic (related to genes，遗传的，基因的)+-ist(名词后缀，……方面\n的专家)→遗传学家",
-      "phonetic" : "dʒɪˈnetɪsɪst",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "geneticist"
+      "collocations": [],
+      "definition": "遗传学家",
+      "examples": [],
+      "frequency": 13673,
+      "mnemonic": "genetic (related to genes，遗传的，基因的)+-ist(名词后缀，……方面\n的专家)→遗传学家",
+      "phonetic": "dʒəˈnɛ.tə.sɪst",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "geneticist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genetically modified：转基因的"
       ],
-      "definition" : "从遗传学角度；从基因方面",
-      "examples" : [
-
-      ],
-      "frequency" : 6847,
-      "mnemonic" : "genetic(遗传的，基因的)+-al(形容词后缀)+-ly副词后缀→从遗传学角",
-      "phonetic" : "dʒəˈnɛtɪklɪ",
-      "pos" : "adv.",
-      "rootHint" : "*gene",
-      "word" : "genetically"
+      "definition": "从遗传学角度；从基因方面",
+      "examples": [],
+      "frequency": 6847,
+      "mnemonic": "genetic(遗传的，基因的)+-al(形容词后缀)+-ly副词后缀→从遗传学角",
+      "phonetic": "dʒəˈnɛ.tɪ.kə.li",
+      "pos": "adv.",
+      "rootHint": "*gene",
+      "word": "genetically"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genealogie (12c.), from Late Latin genealogia “tracing of a family,” from",
         "Greek genealogia “the making of a pedigree,” from genea “generation,",
         "referring to procreation and familial and tribal groups)+-logia (see -logy).",
         "An Old English word for it was folctalu, literally “folk tale.” Meaning",
-        "a genealogical chart\/table\/tree：系谱图；家谱表；家系树状图",
+        "a genealogical chart/table/tree：系谱图；家谱表；家系树状图",
         "especially through studying historical documents to discover the",
         "relationships between particular people and their families."
       ],
-      "definition" : "宗谱；家系；血统；系谱学",
-      "etymology" : "early 14c., “line of descent, pedigree, descent,” from Old French descent” (from PIE root *gene- “give birth, beget,” with derivatives “study of family trees” is from 1768.",
-      "examples" : [
-
-      ],
-      "frequency" : 15154,
-      "mnemonic" : "gene(=to give birth, beget，出生)+a+logy(学说)→系谱学(study of family\ntrees)；宗谱；血统",
-      "phonetic" : "ˌdʒiːniˈælədʒi",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genealogy"
+      "definition": "宗谱；家系；血统；系谱学",
+      "etymology": "early 14c., “line of descent, pedigree, descent,” from Old French descent” (from PIE root *gene- “give birth, beget,” with derivatives “study of family trees” is from 1768.",
+      "examples": [],
+      "frequency": 15154,
+      "mnemonic": "gene(=to give birth, beget，出生)+a+logy(学说)→系谱学(study of family\ntrees)；宗谱；血统",
+      "phonetic": "ˌdʒi.niˈæ.lə.dʒi",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genealogy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "general practitioner：全科医生 in general：总之"
       ],
-      "definition" : "大体的；笼统地；普通的；整体的；总管的 n. 将军",
-      "examples" : [
-
-      ],
-      "frequency" : 806,
-      "mnemonic" : "gener(生育)+-al(形容词后缀)→普遍适用，包括全部，与具体的相反\n→大体的；普遍的；整体的；(引申义为)将军(因为将军统帅军队，统",
-      "phonetic" : "ˈd͡ʒɛnəɹəl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "general"
+      "definition": "大体的；笼统地；普通的；整体的；总管的 n. 将军",
+      "examples": [],
+      "frequency": 806,
+      "mnemonic": "gener(生育)+-al(形容词后缀)→普遍适用，包括全部，与具体的相反\n→大体的；普遍的；整体的；(引申义为)将军(因为将军统帅军队，统",
+      "phonetic": "ˈdʒɛn.ə.ɹəl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "general"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to speak in broad generalities：泛泛地说"
       ],
-      "definition" : "概述；一般性；普遍性；大部分",
-      "examples" : [
-
-      ],
-      "frequency" : 18188,
-      "mnemonic" : "general(普遍的，整体的)+-ity(名词后缀)→概述；普遍性",
-      "phonetic" : "dʒenəˈrælɪtɪ",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generality"
+      "definition": "概述；一般性；普遍性；大部分",
+      "examples": [],
+      "frequency": 18188,
+      "mnemonic": "general(普遍的，整体的)+-ity(名词后缀)→概述；普遍性",
+      "phonetic": "ˌdʒɛn.əˈɹæ.lə.ti",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generality"
     },
     {
-      "collocations" : [
+      "collocations": [
         "generalizability theory：概化理论"
       ],
-      "definition" : "普遍性，概括性",
-      "examples" : [
-
-      ],
-      "frequency" : 19772,
-      "mnemonic" : "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ability(名词后缀)→",
-      "phonetic" : "ˈdʒenərəˌlaizəˈbiləti",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generalizability"
+      "definition": "普遍性，概括性",
+      "examples": [],
+      "frequency": 19772,
+      "mnemonic": "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ability(名词后缀)→",
+      "phonetic": "ˌdʒɛn.ə.ɹə.laɪ.zəˈbɪ.lə.ti",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generalizability"
     },
     {
-      "collocations" : [
+      "collocations": [
         "making sweeping generalizations：进行全盘概括"
       ],
-      "definition" : "概括；归纳；泛论",
-      "examples" : [
-
-      ],
-      "frequency" : 8857,
-      "mnemonic" : "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ation(名词后缀)→概",
-      "phonetic" : "ˌdʒenrəlaɪˈzeɪʃn",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generalization"
+      "definition": "概括；归纳；泛论",
+      "examples": [],
+      "frequency": 8857,
+      "mnemonic": "general(大体的，普遍的)+-iz(e省略，动词后缀)+-ation(名词后缀)→概",
+      "phonetic": "ˌdʒɛn.ə.ɹə.ləˈzeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generalization"
     },
     {
-      "collocations" : [
+      "collocations": [
         "brand generalizing：品牌推广",
         "situations or for most people, but that may not be completely true in all",
         "(V-T) If you generalize something such as an idea, you apply it more",
         "widely than its original context, as if it was true in many other situations."
       ],
-      "definition" : "概括；归纳；笼统地讲 vt. 普及；扩大……地运用",
-      "examples" : [
-
-      ],
-      "frequency" : 11027,
-      "mnemonic" : "general(普遍的，一般地)+-ize(动词后缀)→笼统地讲；使……一般化\n→概括；普及",
-      "phonetic" : "ˈdʒɛnrəˌlaɪz",
-      "pos" : "vi.",
-      "rootHint" : "*gene",
-      "word" : "generalize"
+      "definition": "概括；归纳；笼统地讲 vt. 普及；扩大……地运用",
+      "examples": [],
+      "frequency": 11027,
+      "mnemonic": "general(普遍的，一般地)+-ize(动词后缀)→笼统地讲；使……一般化\n→概括；普及",
+      "phonetic": "ˈdʒɛn.ə.ɹə.laɪz",
+      "pos": "vi.",
+      "rootHint": "*gene",
+      "word": "generalize"
     },
     {
-      "collocations" : [
-        "a generalized discussion 笼统的讨论；a generalized disease\/rash (=",
-        "affecting the whole body) 全身性疾病\/疹子\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+      "collocations": [
+        "a generalized discussion 笼统的讨论；a generalized disease/rash (=",
+        "affecting the whole body) 全身性疾病/疹子\n20000 词 汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "广义的；普遍的；全面的；全身性的",
-      "examples" : [
-
-      ],
-      "frequency" : 11274,
-      "mnemonic" : "generalize(概括；普及)+-d(形容词后缀)→广义的；普遍的；全面的",
-      "phonetic" : "ˈdʒɛnrəlaɪzd",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "generalized"
+      "definition": "广义的；普遍的；全面的；全身性的",
+      "examples": [],
+      "frequency": 11274,
+      "mnemonic": "generalize(概括；普及)+-d(形容词后缀)→广义的；普遍的；全面的",
+      "phonetic": "ˈdʒɛn.ə.ɹə.laɪzd",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "generalized"
     },
     {
-      "collocations" : [
+      "collocations": [
         "generally true：通常是正确的"
       ],
-      "definition" : "笼统地；通常地；普遍地；广泛地",
-      "examples" : [
-
-      ],
-      "frequency" : 1206,
-      "mnemonic" : "general(大体的，普遍的)+-ly(副词后缀)→笼统地；",
-      "phonetic" : "d͡ʒɛn.əɹ.ə.li",
-      "pos" : "adv.",
-      "rootHint" : "*gene",
-      "word" : "generally"
+      "definition": "笼统地；通常地；普遍地；广泛地",
+      "examples": [],
+      "frequency": 1206,
+      "mnemonic": "general(大体的，普遍的)+-ly(副词后缀)→笼统地；",
+      "phonetic": "ˈdʒɛn.ə.ɹə.li",
+      "pos": "adv.",
+      "rootHint": "*gene",
+      "word": "generally"
     },
     {
-      "collocations" : [
-        "generate new jobs：带来新的工作；to generate electricity\/heat\/power 发",
+      "collocations": [
+        "generate new jobs：带来新的工作；to generate electricity/heat/power 发",
         "(V-T) To generate a form of energy or power means to produce it."
       ],
-      "definition" : "造成；产生(电等能量) vi. 生成；产生",
-      "examples" : [
-
-      ],
-      "frequency" : 1704,
-      "mnemonic" : "gener(=birth，生、产生)+-ate(复合动词后缀)→产生、发生",
-      "phonetic" : "ˈdʒɛn.ə.ɹeɪt",
-      "pos" : "vt.",
-      "rootHint" : "*gene",
-      "word" : "generate"
+      "definition": "造成；产生(电等能量) vi. 生成；产生",
+      "examples": [],
+      "frequency": 1704,
+      "mnemonic": "gener(=birth，生、产生)+-ate(复合动词后缀)→产生、发生",
+      "phonetic": "ˈdʒɛn.ə.ɹeɪt",
+      "pos": "vt.",
+      "rootHint": "*gene",
+      "word": "generate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "generating set：发电机组"
       ],
-      "definition" : "发生，产生 vt.&vi 生成 ( generate的现在分词)；(通过物理或化学过程)发生",
-      "examples" : [
-
-      ],
-      "frequency" : 9792,
-      "mnemonic" : "generate(省略e，发生，产生)+-ing(表现在分词形式，名词后缀)→发",
-      "phonetic" : "ˈdʒenəreɪtɪŋ",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generating"
+      "definition": "发生，产生 vt.&vi 生成 ( generate的现在分词)；(通过物理或化学过程)发生",
+      "examples": [],
+      "frequency": 9792,
+      "mnemonic": "generate(省略e，发生，产生)+-ing(表现在分词形式，名词后缀)→发",
+      "phonetic": "ˈdʒɛn.ə.ɹeɪ.tɪŋ",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generating"
     },
     {
-      "collocations" : [
+      "collocations": [
         "regenerate health：恢复健康",
         "they heal and grow again after they have been damaged.",
         "(V-T) To regenerate something means to develop and improve it to make it",
         "more active, successful, or important, especially after a period when it has",
         "been getting worse."
       ],
-      "definition" : "&vi. 使再生 vt. 重建；复兴",
-      "examples" : [
-
-      ],
-      "frequency" : 15408,
-      "mnemonic" : "re(=again，再)+generate(生成，产生)→再一次产生，使再次恢复活\n力，重新建造→使再生，重建",
-      "phonetic" : "rɪˈdʒenəreɪt",
-      "pos" : "vt.",
-      "rootHint" : "*gene",
-      "word" : "regenerate"
+      "definition": "&vi. 使再生 vt. 重建；复兴",
+      "examples": [],
+      "frequency": 15408,
+      "mnemonic": "re(=again，再)+generate(生成，产生)→再一次产生，使再次恢复活\n力，重新建造→使再生，重建",
+      "phonetic": "ɹɪˈdʒɛn.ə.ɹeɪt",
+      "pos": "vt.",
+      "rootHint": "*gene",
+      "word": "regenerate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "neural regeneration：神经再生"
       ],
-      "definition" : "再生，重生；重建",
-      "examples" : [
-
-      ],
-      "frequency" : 14419,
-      "mnemonic" : "regenerate(使再生，重建)+ion(名词后缀)→再生，重建",
-      "phonetic" : "rɪdʒenəˈreɪʃn",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "regeneration"
+      "definition": "再生，重生；重建",
+      "examples": [],
+      "frequency": 14419,
+      "mnemonic": "regenerate(使再生，重建)+ion(名词后缀)→再生，重建",
+      "phonetic": "ɹɪ.dʒɛn.əˈɹeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "regeneration"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Latin degeneratus, past participle of degenerare “to be inferior to one’s",
         "ancestors, to become unlike one’s race or kind, fall from ancestral quality,”",
         "used of physical as well as moral qualities, from phrase de genere, from",
@@ -342,281 +300,245 @@
         "disapprove of them because you think they have low standards of",
         "behaviour or morality."
       ],
-      "definition" : "恶化；退化；衰落；堕落 n. 退化；恶化 adj. 堕落的",
-      "etymology" : "1540s, “to lose or suffer impairment to the qualities proper to the race or kind,” also figurative, “decay in quality, pass to an inferior state,” from de “off, away from” (see de-)+genus (genitive generis) “birth, descent” decline” was in Latin. Related: Degenerated; degenerating.",
-      "examples" : [
-
-      ],
-      "frequency" : 16526,
-      "mnemonic" : "de(=down，表相反、向下、否定)+gener-(产生)+-ate(动词词尾)→与出\n祖训，有损祖先名声，后引申为堕落，恶化→恶化，退化，衰落",
-      "phonetic" : "dɪˈdʒen(ə)rət",
-      "pos" : "vi.",
-      "rootHint" : "*gene",
-      "word" : "degenerate"
+      "definition": "恶化；退化；衰落；堕落 n. 退化；恶化 adj. 堕落的",
+      "etymology": "1540s, “to lose or suffer impairment to the qualities proper to the race or kind,” also figurative, “decay in quality, pass to an inferior state,” from de “off, away from” (see de-)+genus (genitive generis) “birth, descent” decline” was in Latin. Related: Degenerated; degenerating.",
+      "examples": [],
+      "frequency": 16526,
+      "mnemonic": "de(=down，表相反、向下、否定)+gener-(产生)+-ate(动词词尾)→与出\n祖训，有损祖先名声，后引申为堕落，恶化→恶化，退化，衰落",
+      "phonetic": "dɪ.ˈdʒɛ.nə.ɹeɪt",
+      "pos": "vi.",
+      "rootHint": "*gene",
+      "word": "degenerate"
     },
     {
-      "collocations" : [
-        "severe degeneration of the land：土壤严重贫瘠化 social\/moral",
+      "collocations": [
+        "severe degeneration of the land：土壤严重贫瘠化 social/moral",
         "degeneration：社会倒退；道德沦丧"
       ],
-      "definition" : "恶化；堕落；变性；退化",
-      "examples" : [
-
-      ],
-      "frequency" : 17072,
-      "mnemonic" : "degenerate(恶化，堕落)+-ion(名词后缀)→变质，堕落，退化",
-      "phonetic" : "dɪˌdʒɛnəˈɹeɪʃən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "degeneration"
+      "definition": "恶化；堕落；变性；退化",
+      "examples": [],
+      "frequency": 17072,
+      "mnemonic": "degenerate(恶化，堕落)+-ion(名词后缀)→变质，堕落，退化",
+      "phonetic": "dɪ.ˌdʒɛ.nə.ˈɹeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "degeneration"
     },
     {
-      "collocations" : [
+      "collocations": [
         "...degenerative diseases of the brain：……大脑退化的疾病"
       ],
-      "definition" : "(随着时间的推移疾病)变性的，退化的；退步的；变质的",
-      "examples" : [
-
-      ],
-      "frequency" : 19481,
-      "mnemonic" : "degenerate(恶化，堕落)+-ive(形容词后缀)→变性的，退化的",
-      "phonetic" : "dɪˈdʒɛn(ə)ɹətɪv",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "degenerative"
+      "definition": "(随着时间的推移疾病)变性的，退化的；退步的；变质的",
+      "examples": [],
+      "frequency": 19481,
+      "mnemonic": "degenerate(恶化，堕落)+-ive(形容词后缀)→变性的，退化的",
+      "phonetic": "dɪ.ˈdʒɛ.nə.ɹə.tɪv",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "degenerative"
     },
     {
-      "collocations" : [
+      "collocations": [
         "generation gap：代沟；from generation to generaiton：代代相传"
       ],
-      "definition" : "(统称)一代人；一代(大约为30年)；家史中的)一代，一辈；一届；(尤指电、热等的)；(技术方面的)代；产生",
-      "examples" : [
-
-      ],
-      "frequency" : 1029,
-      "mnemonic" : "gener(=birth，生、产生)+-ation(动词后缀)→(因为生育、家庭、学",
-      "phonetic" : "ˌd͡ʒɛnəˈɹeɪʃən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generation"
+      "definition": "(统称)一代人；一代(大约为30年)；家史中的)一代，一辈；一届；(尤指电、热等的)；(技术方面的)代；产生",
+      "examples": [],
+      "frequency": 1029,
+      "mnemonic": "gener(=birth，生、产生)+-ation(动词后缀)→(因为生育、家庭、学",
+      "phonetic": "ˌdʒɛn.əˈɹeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "first-generation rocket 第一批火箭"
       ],
-      "definition" : "出生在美国的；第一代",
-      "examples" : [
-
-      ],
-      "frequency" : 17710,
-      "phonetic" : "ˈfə:stˌdʒenəˈreiʃən",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "first-generation"
+      "definition": "出生在美国的；第一代",
+      "examples": [],
+      "frequency": 17710,
+      "phonetic": "ˌfɝstdʒɛnəˈɹeɪʃən",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "first-generation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the second hydrocarbon-generation 二次生烃"
       ],
-      "definition" : "(移民后裔等)第二代的；(产品、技术等)第二代的；(家庭成员)第二代的",
-      "examples" : [
-
-      ],
-      "frequency" : 17837,
-      "phonetic" : "ˈsekəndˌdʒenəˈreʃən",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "second-generation"
+      "definition": "(移民后裔等)第二代的；(产品、技术等)第二代的；(家庭成员)第二代的",
+      "examples": [],
+      "frequency": 17837,
+      "phonetic": "ˌsɛkənd.ˌdʒɛnəˈɹeɪʃən",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "second-generation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "third-generation computer 第三代计算机第三代计算器"
       ],
-      "definition" : "第三代",
-      "examples" : [
-
-      ],
-      "frequency" : 19422,
-      "phonetic" : "ˈθɝdˌdʒenəˈreʃən",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "third-generation"
+      "definition": "第三代",
+      "examples": [],
+      "frequency": 19422,
+      "phonetic": "ˌθɝd.dʒɛnəˈɹeɪʃən",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "third-generation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "generational conflict：两代人之间的冲突"
       ],
-      "definition" : "一代的；代与代之间的",
-      "examples" : [
-
-      ],
-      "frequency" : 12152,
-      "mnemonic" : "generation(代)+-al(形容词后缀)",
-      "phonetic" : "ˌdʒɛnəˈreʃənl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "generational"
+      "definition": "一代的；代与代之间的",
+      "examples": [],
+      "frequency": 12152,
+      "mnemonic": "generation(代)+-al(形容词后缀)",
+      "phonetic": "ˌdʒɛn.əˈɹeɪ.ʃə.nəl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "generational"
     },
     {
-      "collocations" : [
+      "collocations": [
         "intergenerational communication 跨代交流"
       ],
-      "definition" : "影响几代人的；代与代之间的",
-      "examples" : [
-
-      ],
-      "frequency" : 17539,
-      "mnemonic" : "inter(之间)+generation(代)+-al(形容词后缀)→影响几代人的；代与代",
-      "phonetic" : "ˌɪntədʒenəˈreɪʃ(ə)n(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "intergenerational"
+      "definition": "影响几代人的；代与代之间的",
+      "examples": [],
+      "frequency": 17539,
+      "mnemonic": "inter(之间)+generation(代)+-al(形容词后缀)→影响几代人的；代与代",
+      "phonetic": "ˌɪn.tɚ.dʒɛn.əˈɹeɪ.ʃə.nəl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "intergenerational"
     },
     {
-      "collocations" : [
+      "collocations": [
         "numerous progeny：众多的子孙"
       ],
-      "definition" : "(人的)后裔；(动物的)后代；后裔；成果20000 词 汇巅峰速记",
-      "examples" : [
-
-      ],
-      "frequency" : 17643,
-      "mnemonic" : "pro-(=forth，向前，朝向)+-gen(=gene, to produce, beget生育)+-y(名词\n后缀)子孙→向前生育了很多(孩子)→后裔，后代，成果",
-      "phonetic" : "ˈpɹɑdʒəni",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "progeny"
+      "definition": "(人的)后裔；(动物的)后代；后裔；成果20000 词 汇巅峰速记",
+      "examples": [],
+      "frequency": 17643,
+      "mnemonic": "pro-(=forth，向前，朝向)+-gen(=gene, to produce, beget生育)+-y(名词\n后缀)子孙→向前生育了很多(孩子)→后裔，后代，成果",
+      "phonetic": "ˈpɹɑ.dʒə.ni",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "progeny"
     },
     {
-      "collocations" : [
+      "collocations": [
         "diesel generator：柴油发电机 cash generator：赚钱机器"
       ],
-      "definition" : "发电机；促使……发生的人或事物",
-      "examples" : [
-
-      ],
-      "frequency" : 919,
-      "mnemonic" : "gener(发生，产生)+ator(名词后缀)→发电机；产生器",
-      "phonetic" : "ˈdʒenəreɪtə",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generator"
+      "definition": "发电机；促使……发生的人或事物",
+      "examples": [],
+      "frequency": 919,
+      "mnemonic": "gener(发生，产生)+ator(名词后缀)→发电机；产生器",
+      "phonetic": "ˈdʒɛn.ə.ɹeɪ.tɚ",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generator"
     },
     {
-      "collocations" : [
+      "collocations": [
         "engender a sense of common humanity：引发一种共同的人道主义精神",
         "or situation, they cause it to occur."
       ],
-      "definition" : "产生；引起；酿成",
-      "examples" : [
-
-      ],
-      "frequency" : 9493,
-      "mnemonic" : "en-(=enter，进入)+-gene(生育)+-er(动词后缀)→使产生；使引起",
-      "phonetic" : "ɛnˈdʒɛn.dɚ",
-      "pos" : "vt.",
-      "rootHint" : "*gene",
-      "word" : "engender"
+      "definition": "产生；引起；酿成",
+      "examples": [],
+      "frequency": 9493,
+      "mnemonic": "en-(=enter，进入)+-gene(生育)+-er(动词后缀)→使产生；使引起",
+      "phonetic": "ɪn.ˈdʒɛn.dɚ",
+      "pos": "vt.",
+      "rootHint": "*gene",
+      "word": "engender"
     },
     {
-      "collocations" : [
-        "switched\/turned the engine off：关掉发动机"
+      "collocations": [
+        "switched/turned the engine off：关掉发动机"
       ],
-      "definition" : "引擎，发动机；机车，火车头；工具",
-      "examples" : [
-
-      ],
-      "frequency" : 1578,
-      "mnemonic" : "engine来自拉丁语ingenium，由in(内在)+gen(产生)+ium(名词后缀)",
-      "phonetic" : "ˈɛnd͡ʒɪn",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "engine"
+      "definition": "引擎，发动机；机车，火车头；工具",
+      "examples": [],
+      "frequency": 1578,
+      "mnemonic": "engine来自拉丁语ingenium，由in(内在)+gen(产生)+ium(名词后缀)",
+      "phonetic": "ˈɛn.dʒɪn",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "engine"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a flight engineer：空勤机械师"
       ],
-      "definition" : "工程师；设计师；机械师 v. 设计；制造；策划",
-      "examples" : [
-
-      ],
-      "frequency" : 2011,
-      "mnemonic" : "engine(引擎，发动机)+er(名词后缀)→工程师；设计师；机械师",
-      "phonetic" : "ˌɛnd͡ʒɪˈnɪɹ",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "engineer"
+      "definition": "工程师；设计师；机械师 v. 设计；制造；策划",
+      "examples": [],
+      "frequency": 2011,
+      "mnemonic": "engine(引擎，发动机)+er(名词后缀)→工程师；设计师；机械师",
+      "phonetic": "ˌɛn.dʒɪ.ˈnɪɹ",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "engineer"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be engineered by：由……制造",
         "constructed using scientific methods."
       ],
-      "definition" : "设计的，工程 vt. 设计；制造",
-      "examples" : [
-
-      ],
-      "frequency" : 12694,
-      "mnemonic" : "engineer(设计，策划)+-ed(分词后缀，形容词后缀)→设计的；设计，",
-      "phonetic" : "endʒɪˈnɪəd",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "engineered"
+      "definition": "设计的，工程 vt. 设计；制造",
+      "examples": [],
+      "frequency": 12694,
+      "mnemonic": "engineer(设计，策划)+-ed(分词后缀，形容词后缀)→设计的；设计，",
+      "phonetic": "ˌɛn.dʒɪ.ˈnɪɹd",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "engineered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "engineering degree：工程学学位",
         "constructing engines and machinery or structures such as roads and"
       ],
-      "definition" : "工程，工程学",
-      "examples" : [
-
-      ],
-      "frequency" : 2405,
-      "mnemonic" : "engineer(设计，制造)+-ing(名词后缀)→有关设计、制造的学问→工",
-      "phonetic" : "ˌen.dʒɪˈnɪə.ɹɪŋ",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "engineering"
+      "definition": "工程，工程学",
+      "examples": [],
+      "frequency": 2405,
+      "mnemonic": "engineer(设计，制造)+-ing(名词后缀)→有关设计、制造的学问→工",
+      "phonetic": "ˌɛn.dʒɪ.ˈnɪ.ɹɪŋ",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "engineering"
     },
     {
-      "collocations" : [
+      "collocations": [
         "estrogen test 雌激素试验"
       ],
-      "definition" : "雌性激素；女性荷尔蒙",
-      "etymology" : "coined 1927 from combining form of estrus+-gen. So called for the hormone’s ability to produce estrus.",
-      "examples" : [
-
-      ],
-      "frequency" : 8021,
-      "mnemonic" : "estro-(=estrus，发情)+-gen(产生)→使发情产生的物质→雌性激素，女",
-      "phonetic" : "ˈiːstɹəd͡ʒən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "estrogen"
+      "definition": "雌性激素；女性荷尔蒙",
+      "etymology": "coined 1927 from combining form of estrus+-gen. So called for the hormone’s ability to produce estrus.",
+      "examples": [],
+      "frequency": 8021,
+      "mnemonic": "estro-(=estrus，发情)+-gen(产生)→使发情产生的物质→雌性激素，女",
+      "phonetic": "ˈɛs.tɹə.dʒən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "estrogen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a generic term：通用名称 generic wine：普通餐酒 generic drug：非注",
         "whole class of similar things.",
         "(ADJ) A generic drug or other product is one that does not have",
         "a trademark and that is known by a general name, rather than the\n20000 词 汇巅峰\n速\n记",
         "manufacturer’s name.\n笔 记 区"
       ],
-      "definition" : "通用的；非注册商标的(药等产品) n. 非注册商标的药品",
-      "examples" : [
-
-      ],
-      "frequency" : 6544,
-      "mnemonic" : "gene(生育，产生)+-ic→非特殊的，没有商标品牌的，包装普通、便\n宜的→通用的，非注册商标的(药等产品)",
-      "phonetic" : "dʒɪˈnɛɹɪk",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "generic"
+      "definition": "通用的；非注册商标的(药等产品) n. 非注册商标的药品",
+      "examples": [],
+      "frequency": 6544,
+      "mnemonic": "gene(生育，产生)+-ic→非特殊的，没有商标品牌的，包装普通、便\n宜的→通用的，非注册商标的(药等产品)",
+      "phonetic": "dʒəˈnɛ.ɹɪk",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "generic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genus (genitive generis) “race, stock” (from PIE root *gene- “give birth,",
         "in English were present in French and in Latin. Related: Generously;",
         "generousness.",
@@ -626,50 +548,44 @@
         "qualities in someone or something.",
         "(ADJ) A generous amount of something is much larger than is usual or\nnecessary."
       ],
-      "definition" : "慷慨的；宽厚的；宽宏大量的，仁慈的；丰富的，充足的",
-      "etymology" : "1580s, “of noble birth,” from Middle French généreux (14c.), from Latin generosus “of noble birth,” figuratively “magnanimous, generous,” from beget,” with derivatives referring to procreation and familial and tribal groups). Secondary senses of “unselfish” (1690s) and “plentiful” (1610s)",
-      "examples" : [
-
-      ],
-      "frequency" : 3922,
-      "mnemonic" : "gener(不自私的，丰富的)+-ous(形容词后缀)→慷慨的，宽厚的，充",
-      "phonetic" : "ˈdʒɛn(ə)ɹəs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "generous"
+      "definition": "慷慨的；宽厚的；宽宏大量的，仁慈的；丰富的，充足的",
+      "etymology": "1580s, “of noble birth,” from Middle French généreux (14c.), from Latin generosus “of noble birth,” figuratively “magnanimous, generous,” from beget,” with derivatives referring to procreation and familial and tribal groups). Secondary senses of “unselfish” (1690s) and “plentiful” (1610s)",
+      "examples": [],
+      "frequency": 3922,
+      "mnemonic": "gener(不自私的，丰富的)+-ous(形容词后缀)→慷慨的，宽厚的，充",
+      "phonetic": "ˈdʒɛn.ə.ɹəs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "generous"
     },
     {
-      "collocations" : [
-        "generosity to\/towards sb：对……宽容大度、慷慨大方"
+      "collocations": [
+        "generosity to/towards sb：对……宽容大度、慷慨大方"
       ],
-      "definition" : "慷慨，大方；宽宏大量",
-      "examples" : [
-
-      ],
-      "frequency" : 8101,
-      "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-osity(名词后缀，表多的状态)→\n很多的慷慨→慷慨；宽宏大量；大方",
-      "phonetic" : "ˌd͡ʒɛnəˈɹɑsəti",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "generosity"
+      "definition": "慷慨，大方；宽宏大量",
+      "examples": [],
+      "frequency": 8101,
+      "mnemonic": "generous(慷慨的，宽厚的，充足的)+-osity(名词后缀，表多的状态)→\n很多的慷慨→慷慨；宽宏大量；大方",
+      "phonetic": "ˌdʒɛn.əˈɹɑ.sə.ti",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "generosity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "share generously：慷慨地分享"
       ],
-      "definition" : "宽大地；慷慨地；丰盛地",
-      "examples" : [
-
-      ],
-      "frequency" : 10824,
-      "mnemonic" : "generous(慷慨的，宽厚的，充足的)+-ly(副词后缀)→宽大地；慷慨",
-      "phonetic" : "ˈdʒenərəsli",
-      "pos" : "adv.",
-      "rootHint" : "*gene",
-      "word" : "generously"
+      "definition": "宽大地；慷慨地；丰盛地",
+      "examples": [],
+      "frequency": 10824,
+      "mnemonic": "generous(慷慨的，宽厚的，充足的)+-ly(副词后缀)→宽大地；慷慨",
+      "phonetic": "ˈdʒɛn.ə.ɹəs.li",
+      "pos": "adv.",
+      "rootHint": "*gene",
+      "word": "generously"
     },
     {
-      "collocations" : [
+      "collocations": [
         "other things of the creation of the world, from Latin genesis “generation,\nnativity,” in Late Latin taken as the title of first book of the Old Testament,",
         "from Greek genesis “origin, creation, generation,” from gignesthai “to be",
         "birth, beget,” with derivatives referring to procreation and familial and",
@@ -680,523 +596,459 @@
         "recorded in English c. 1600.",
         "the genesis of the universe：宇宙的起源"
       ],
-      "definition" : "(事物的)开端；诞生；创始；(大写)创世纪",
-      "etymology" : "Old English Genesis, first book of the Pentateuch, which tells among born,” related to genos “race, birth, descent”\" (from PIE root *gene- “give",
-      "examples" : [
-
-      ],
-      "frequency" : 16350,
-      "mnemonic" : "gen (=to give birth，产生，起源)+-esis(名词后缀)→万物的起源，发\n生，创始→(事物的)开端，诞生，创始；创世纪",
-      "phonetic" : "ˈd͡ʒɛn.ə.sɪs",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genesis"
+      "definition": "(事物的)开端；诞生；创始；(大写)创世纪",
+      "etymology": "Old English Genesis, first book of the Pentateuch, which tells among born,” related to genos “race, birth, descent”\" (from PIE root *gene- “give",
+      "examples": [],
+      "frequency": 16350,
+      "mnemonic": "gen (=to give birth，产生，起源)+-esis(名词后缀)→万物的起源，发\n生，创始→(事物的)开端，诞生，创始；创世纪",
+      "phonetic": "ˈdʒɛn.ə.sɪs",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genesis"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a genial smile：亲切的微笑"
       ],
-      "definition" : "亲切的，友好的；和蔼的；适宜的",
-      "examples" : [
-
-      ],
-      "frequency" : 18074,
-      "mnemonic" : "gen(出生)+-ial(形容词后缀)→亲切的；友好的；和蔼的",
-      "phonetic" : "-ni.əl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "genial"
+      "definition": "亲切的，友好的；和蔼的；适宜的",
+      "examples": [],
+      "frequency": 18074,
+      "mnemonic": "gen(出生)+-ial(形容词后缀)→亲切的；友好的；和蔼的",
+      "phonetic": "ˈdʒi.ni.əl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "genial"
     },
     {
-      "collocations" : [
+      "collocations": [
         "used in French translation of “Arabian Nights” to render Arabic jinni,",
         "singular of jinn, which it accidentally resembled, and attested in English",
         "with this sense from 1748.\n阿拉伯民间故事集《一千年零一夜》被法国人翻译作法语时，译者用\n20000 词 汇巅峰\n速\n记",
         "genie这个单词来翻译原文，即阿拉伯语中的“jinni”，是阿拉伯语单\n词jinn的单数形式，其含义为“神怪、神灵、精灵”，是伊斯兰神话\n中地位低于天使，能化成人或兽形的神或精灵。有趣的是，jinni不光\n意思也是恶魔、精灵、天使等，读音也和法语单词genie非常接近。\n所以，阿拉丁召唤神灯时出现的那个genie其实就是法语版的genius。",
         "let the genie out of the bottle：把精灵放出魔瓶〔指做某事造成了无法"
       ],
-      "definition" : "(阿拉伯和波斯神话故事中的)魔仆；精灵；妖怪",
-      "etymology" : "1650s, “tutelary spirit,” from French génie, from Latin genius (see genius);",
-      "examples" : [
-
-      ],
-      "frequency" : 19261,
-      "phonetic" : "ˈdʒiː.ni",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genie"
+      "definition": "(阿拉伯和波斯神话故事中的)魔仆；精灵；妖怪",
+      "etymology": "1650s, “tutelary spirit,” from French génie, from Latin genius (see genius);",
+      "examples": [],
+      "frequency": 19261,
+      "phonetic": "ˈdʒi.ni",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genie"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genital system：生殖系统"
       ],
-      "definition" : "生殖(器官)的 n. (复数)生器，外阴部",
-      "examples" : [
-
-      ],
-      "frequency" : 14569,
-      "phonetic" : "ˈdʒɛnətəl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "genital"
+      "definition": "生殖(器官)的 n. (复数)生器，外阴部",
+      "examples": [],
+      "frequency": 14569,
+      "phonetic": "ˈdʒɛ.nə.təl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "genital"
     },
     {
-      "collocations" : [
-        "~ for sth\/for doing sth：在……方面有特别的才能或本领"
+      "collocations": [
+        "~ for sth/for doing sth：在……方面有特别的才能或本领"
       ],
-      "definition" : "天才，天赋；精神",
-      "examples" : [
-
-      ],
-      "frequency" : 4105,
-      "mnemonic" : "gen(生)+ius(名词后缀)→生下来就有的东西→天赋、天才\ntal(=gen：生、出生)+ent(=ant：名词后缀)→天生下来就有的东西→天",
-      "phonetic" : "ˈdʒi.ni.əs",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genius"
+      "definition": "天才，天赋；精神",
+      "examples": [],
+      "frequency": 4105,
+      "mnemonic": "gen(生)+ius(名词后缀)→生下来就有的东西→天赋、天才\ntal(=gen：生、出生)+ent(=ant：名词后缀)→天生下来就有的东西→天",
+      "phonetic": "ˈdʒi.ni.əs",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genius"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cultural genocide：文化灭种"
       ],
-      "definition" : "大屠杀；种族灭绝",
-      "examples" : [
-
-      ],
-      "frequency" : 7698,
-      "mnemonic" : "geno(=gene, 生)+-cide(杀)→把某(群)人活生生的杀害、灭绝了→大",
-      "phonetic" : "ˈd͡ʒɛnəsaɪd",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genocide"
+      "definition": "大屠杀；种族灭绝",
+      "examples": [],
+      "frequency": 7698,
+      "mnemonic": "geno(=gene, 生)+-cide(杀)→把某(群)人活生生的杀害、灭绝了→大",
+      "phonetic": "ˈdʒɛ.nə.saɪd",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genocide"
     },
     {
-      "collocations" : [
+      "collocations": [
         "coined 1920 by German botanist Hans Winkler, from gen “gene” (see",
         "the mapping of the human genome：人类基因图谱。",
         "释义：(N-COUNT) In biology, a genome is the particular number and",
         "arrangement of chromosomes within the cells of an organism such as an",
         "animal or plant that distinguishes it from other types of organism."
       ],
-      "definition" : "[生]基因组；[生]染色体组",
-      "etymology" : "“sum total of genes in a set,” 1930, genom, modeled on German genom, gene)+(chromos)om “chromosome”).",
-      "examples" : [
-
-      ],
-      "frequency" : 7513,
-      "mnemonic" : "gen(e)-(=to give birth, beget，生)+-ome(from“chromosome”染色体)→\n出生时就带有的染色体的组合，将一种生物与其他有机体区分开来→",
-      "phonetic" : "dʒɨˈnoʊm",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genome"
+      "definition": "[生]基因组；[生]染色体组",
+      "etymology": "“sum total of genes in a set,” 1930, genom, modeled on German genom, gene)+(chromos)om “chromosome”).",
+      "examples": [],
+      "frequency": 7513,
+      "mnemonic": "gen(e)-(=to give birth, beget，生)+-ome(from“chromosome”染色体)→\n出生时就带有的染色体的组合，将一种生物与其他有机体区分开来→",
+      "phonetic": "ˈdʒi.noʊm",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genome"
     },
     {
-      "collocations" : [
+      "collocations": [
         "especially in French for “independent style.” In painting, as an adjective,",
         "compared to landscape, historical, etc.) from 1849.",
         "literary genre：文学体裁 genre painting：浮世绘"
       ],
-      "definition" : "(文学、绘画、音乐、电影等艺术作品的)体裁；类型；流派",
-      "etymology" : "1770, “particular style of art,” a French word in English (nativized from c. 1840), from French genre “kind, sort, style” (see gender (n.)). Used “depicting scenes of ordinary life” (a domestic interior or village scene, as",
-      "examples" : [
-
-      ],
-      "frequency" : 4547,
-      "phonetic" : "(d)ʒɑn.ɹə",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genre"
+      "definition": "(文学、绘画、音乐、电影等艺术作品的)体裁；类型；流派",
+      "etymology": "1770, “particular style of art,” a French word in English (nativized from c. 1840), from French genre “kind, sort, style” (see gender (n.)). Used “depicting scenes of ordinary life” (a domestic interior or village scene, as",
+      "examples": [],
+      "frequency": 4547,
+      "phonetic": "ˈʒɑn.ɹə",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genre"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genuine sympathy：真心的同情"
       ],
-      "definition" : "真实的，真正的；诚恳的",
-      "examples" : [
-
-      ],
-      "frequency" : 3784,
-      "mnemonic" : "gen(出生，基因)+u(连接符号)+ine(形容词后缀)→出生下来就有的→\narti-(工艺、技艺)+fic-(做、制造)+-ial(的)→用人的技艺造出来的→人",
-      "phonetic" : "ˈdʒɛnjuːˌaɪn",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "genuine"
+      "definition": "真实的，真正的；诚恳的",
+      "examples": [],
+      "frequency": 3784,
+      "mnemonic": "gen(出生，基因)+u(连接符号)+ine(形容词后缀)→出生下来就有的→\narti-(工艺、技艺)+fic-(做、制造)+-ial(的)→用人的技艺造出来的→人",
+      "phonetic": "ˈdʒɛn.ju.ɪn",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "genuine"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a spider genus：蛛属",
         "释义：(N-COUNT) A genus is a class of similar things, especially a group of",
         "animals or plants that includes several closely related species."
       ],
-      "definition" : "(尤指动植物的)属",
-      "examples" : [
-
-      ],
-      "frequency" : 11089,
-      "mnemonic" : "gen-(基因，遗传)+-us(名词后缀)→具有共同基因特征的动植物→(尤",
-      "phonetic" : "ˈdʒiːnəs",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "genus"
+      "definition": "(尤指动植物的)属",
+      "examples": [],
+      "frequency": 11089,
+      "mnemonic": "gen-(基因，遗传)+-us(名词后缀)→具有共同基因特征的动植物→(尤",
+      "phonetic": "ˈdʒi.nəs",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "genus"
     },
     {
-      "collocations" : [
+      "collocations": [
         "indigenous population：土著，土著居民"
       ],
-      "definition" : "本土的；当地的；土生土长的",
-      "examples" : [
-
-      ],
-      "frequency" : 3713,
-      "mnemonic" : "indi-(=in, within，在内，在里)+-gen(=to give birth，beget，生育，孕\n育)+-ous(形容词后缀)→在当地孕育生长的→本土的；本地产的",
-      "phonetic" : "ɪnˈdɪdʒɪnəs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "indigenous"
+      "definition": "本土的；当地的；土生土长的",
+      "examples": [],
+      "frequency": 3713,
+      "mnemonic": "indi-(=in, within，在内，在里)+-gen(=to give birth，beget，生育，孕\n育)+-ous(形容词后缀)→在当地孕育生长的→本土的；本地产的",
+      "phonetic": "ɪnˈdɪ.dʒə.nəs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "indigenous"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an ingenious cook：心灵手巧的厨师",
         "methods, or equipment."
       ],
-      "definition" : "(物体、计划、思想等)精巧的；新颖独特的；(人)心灵手巧的；机敏的；善于发明创造的",
-      "examples" : [
-
-      ],
-      "frequency" : 11844,
-      "mnemonic" : "in(加强语气)+gen(生产、产生、创造)+ous(形容词后缀，表“大、\n多”)→有很多创造力的，(内心)创造力丰富的→有创造性的、心灵手",
-      "phonetic" : "ɪnˈdʒiːniəs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "ingenious"
+      "definition": "(物体、计划、思想等)精巧的；新颖独特的；(人)心灵手巧的；机敏的；善于发明创造的",
+      "examples": [],
+      "frequency": 11844,
+      "mnemonic": "in(加强语气)+gen(生产、产生、创造)+ous(形容词后缀，表“大、\n多”)→有很多创造力的，(内心)创造力丰富的→有创造性的、心灵手",
+      "phonetic": "ɪnˈdʒin.jəs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "ingenious"
     },
     {
-      "collocations" : [
+      "collocations": [
         "require some ingenuity：需要一些巧妙地心思",
         "skill at inventing new things."
       ],
-      "definition" : "善于创新；足智多谋；心灵手巧11909",
-      "examples" : [
-
-      ],
-      "mnemonic" : "in-(=in，从内心)+gen-(=birth，生)(ingenu=ingenious独创的;灵活的)+-\nity(名词后缀)→从内心生出很多奇思妙想→善于创新；足智多谋",
-      "phonetic" : "ˌɪndʒəˈn(j)uːəti",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "ingenuity"
+      "definition": "善于创新；足智多谋；心灵手巧11909",
+      "examples": [],
+      "mnemonic": "in-(=in，从内心)+gen-(=birth，生)(ingenu=ingenious独创的;灵活的)+-\nity(名词后缀)→从内心生出很多奇思妙想→善于创新；足智多谋",
+      "phonetic": "ˌɪn.dʒəˈnu.ə.ti",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "ingenuity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a gent’s hairdresser：男宾理发师"
       ],
-      "definition" : "(非正式的用法，指)绅士；先生；男厕",
-      "examples" : [
-
-      ],
-      "frequency" : 20102,
-      "mnemonic" : "gent=gentleman，与gentle同源，绅士都很温柔",
-      "phonetic" : "dʒɛnt",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "gent"
+      "definition": "(非正式的用法，指)绅士；先生；男厕",
+      "examples": [],
+      "frequency": 20102,
+      "mnemonic": "gent=gentleman，与gentle同源，绅士都很温柔",
+      "phonetic": "dʒɛnt",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "gent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "genteel poverty：家境贫寒却虚摆场面",
         "seems to come from a high social class.",
         "(ADJ) A genteel place or area is quiet and traditional, but may also be old-",
         "fashioned and dull.\n20000 词 汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "(现在多为讽刺含义)有教养的；文雅的；安宁而古朴的；装体面的；假斯文的",
-      "examples" : [
-
-      ],
-      "frequency" : 16507,
-      "mnemonic" : "gent(绅士)+-eel名词后缀→有绅士风格的→有教养的",
-      "phonetic" : "dʒɛnˈtiːl",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "genteel"
+      "definition": "(现在多为讽刺含义)有教养的；文雅的；安宁而古朴的；装体面的；假斯文的",
+      "examples": [],
+      "frequency": 16507,
+      "mnemonic": "gent(绅士)+-eel名词后缀→有绅士风格的→有教养的",
+      "phonetic": "dʒɛnˈtil",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "genteel"
     },
     {
-      "collocations" : [
-        "French gentil\/jentil “high-born, worthy, noble, of good family; courageous,",
+      "collocations": [
+        "French gentil/jentil “high-born, worthy, noble, of good family; courageous,",
         "valiant; fine, good, fair” (11c., in Modern French “nice, graceful, pleasing;",
         "fine, pretty”) and directly from Latin gentilis “of the same family or clan,”",
-        "in Medieval Latin “of noble or good birth”.\n来源于古印欧语gen-(生育)在拉丁语中的派生词gentilis，进入古法语\n为gentil；gentilis的原始意义是“相同家庭的，好的家庭的”，进入\n英语后变为“出身好的，高贵的\/大方的\/有礼貌的”，16世纪后被\n“温柔的，纤弱的”所替代。",
+        "in Medieval Latin “of noble or good birth”.\n来源于古印欧语gen-(生育)在拉丁语中的派生词gentilis，进入古法语\n为gentil；gentilis的原始意义是“相同家庭的，好的家庭的”，进入\n英语后变为“出身好的，高贵的/大方的/有礼貌的”，16世纪后被\n“温柔的，纤弱的”所替代。",
         "gentle breeze：微风 gentle and soft：温柔"
       ],
-      "definition" : "温和的；轻柔的；动作和缓的",
-      "etymology" : "early 13c., gentile, gentle “well-born, of noble rank or family,” from Old",
-      "examples" : [
-
-      ],
-      "frequency" : 3421,
-      "mnemonic" : "gen-(=to give birth，生)+-tle(形容词后缀)→与生俱来就性情温柔的→",
-      "phonetic" : "ˈdʒɛntl̩",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "gentle"
+      "definition": "温和的；轻柔的；动作和缓的",
+      "etymology": "early 13c., gentile, gentle “well-born, of noble rank or family,” from Old",
+      "examples": [],
+      "frequency": 3421,
+      "mnemonic": "gen-(=to give birth，生)+-tle(形容词后缀)→与生俱来就性情温柔的→",
+      "phonetic": "ˈdʒɛn.təl",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "gentle"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a real gentleman：一个真正的君子"
       ],
-      "definition" : "有教养的；绅士；先生",
-      "examples" : [
-
-      ],
-      "frequency" : 2469,
-      "mnemonic" : "gentle(温柔的)+man(先生)→性格温柔的先生→绅士",
-      "phonetic" : "[ˈdʒɛɾ̃.ɫ̩.mən]",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "gentleman"
+      "definition": "有教养的；绅士；先生",
+      "examples": [],
+      "frequency": 2469,
+      "mnemonic": "gentle(温柔的)+man(先生)→性格温柔的先生→绅士",
+      "phonetic": "ˈdʒɛn.təl.mən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "gentleman"
     },
     {
-      "collocations" : [
+      "collocations": [
         "invincible gentleness：无敌的温柔"
       ],
-      "definition" : "温顺；亲切；高贵；彬彬有礼貌",
-      "examples" : [
-
-      ],
-      "frequency" : 18665,
-      "mnemonic" : "gentle(温柔的)+-ness(名词后缀)→温柔",
-      "phonetic" : "ˈd͡ʒɛntl̩nəs",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "gentleness"
+      "definition": "温顺；亲切；高贵；彬彬有礼貌",
+      "examples": [],
+      "frequency": 18665,
+      "mnemonic": "gentle(温柔的)+-ness(名词后缀)→温柔",
+      "phonetic": "ˈdʒɛn.təl.nəs",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "gentleness"
     },
     {
-      "collocations" : [
+      "collocations": [
         "gently but firmly：柔中带劲"
       ],
-      "definition" : "温柔地；温和地；平缓的",
-      "examples" : [
-
-      ],
-      "frequency" : 2776,
-      "mnemonic" : "gent(=gentle)+-ly(副词后缀)→温柔地",
-      "phonetic" : "ˈdʒɛntli",
-      "pos" : "adv.",
-      "rootHint" : "*gene",
-      "word" : "gently"
+      "definition": "温柔地；温和地；平缓的",
+      "examples": [],
+      "frequency": 2776,
+      "mnemonic": "gent(=gentle)+-ly(副词后缀)→温柔地",
+      "phonetic": "ˈdʒɛnt.li",
+      "pos": "adv.",
+      "rootHint": "*gene",
+      "word": "gently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "existing one,” from Middle French germe “germ (of egg); bud, seed, fruit;\noffering,” from Latin germen (genitive germinis) “spring, offshoot; sprout,",
         "in germ：处于萌芽状态",
         "释义：(N-COUNT) A germ is a very small organism that causes disease.",
         "(N-SING) The germ of something such as an idea is something which",
         "developed or might develop into that thing.\n笔 记 区"
       ],
-      "definition" : "细菌；微生物；起源；萌芽",
-      "etymology" : "mid-15c., “bud, sprout;” 1640s, “rudiment of a new organism in an bud” 20000 词 汇巅峰 速 记",
-      "examples" : [
-
-      ],
-      "frequency" : 9465,
-      "mnemonic" : "ger-(=gen，生育，萌芽)+m→微生物是生命的最初萌芽形态→细菌，",
-      "phonetic" : "d͡ʒɝm",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "germ"
+      "definition": "细菌；微生物；起源；萌芽",
+      "etymology": "mid-15c., “bud, sprout;” 1640s, “rudiment of a new organism in an bud” 20000 词 汇巅峰 速 记",
+      "examples": [],
+      "frequency": 9465,
+      "mnemonic": "ger-(=gen，生育，萌芽)+m→微生物是生命的最初萌芽形态→细菌，",
+      "phonetic": "dʒɝm",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "germ"
     },
     {
-      "collocations" : [
+      "collocations": [
         "conditioned pathogen：条件致病菌",
         "释义：(N-COUNT) A pathogen is any organism that can cause disease in a",
         "person, animal, or plant."
       ],
-      "definition" : "病原体；病菌",
-      "etymology" : "“producing disease,” 1836, from French pathogénique, from Greek pathos “disease” (from PIE root *kwent(h)- “to suffer”)+French -génique “producing” (see -gen). Related: Pathogenetic (1838); pathogenicity.",
-      "examples" : [
-
-      ],
-      "frequency" : 8828,
-      "mnemonic" : "patho-(=disease，疾病的)+-gen(产生)→产生疾病的(根源)→病原体",
-      "phonetic" : "ˈpæθədʒn̩",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "pathogen"
+      "definition": "病原体；病菌",
+      "etymology": "“producing disease,” 1836, from French pathogénique, from Greek pathos “disease” (from PIE root *kwent(h)- “to suffer”)+French -génique “producing” (see -gen). Related: Pathogenetic (1838); pathogenicity.",
+      "examples": [],
+      "frequency": 8828,
+      "mnemonic": "patho-(=disease，疾病的)+-gen(产生)→产生疾病的(根源)→病原体",
+      "phonetic": "ˈpæ.θə.dʒən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "pathogen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "germinate in mind：在头脑中萌发",
         "(V-I) If an idea, plan, or feeling germinates, it comes into existence and",
         "begins to develop."
       ],
-      "definition" : "&vi. 使发芽；开始生长 vi. 形成；酝酿",
-      "examples" : [
-
-      ],
-      "frequency" : 18250,
-      "mnemonic" : "germin(=a sprout or bud，芽)+ate(动词后缀)→使发芽，形成",
-      "phonetic" : "ˈdʒɝmɪneɪt",
-      "pos" : "vt.",
-      "rootHint" : "*gene",
-      "word" : "germinate"
+      "definition": "&vi. 使发芽；开始生长 vi. 形成；酝酿",
+      "examples": [],
+      "frequency": 18250,
+      "mnemonic": "germin(=a sprout or bud，芽)+ate(动词后缀)→使发芽，形成",
+      "phonetic": "ˈdʒɝ.mə.neɪt",
+      "pos": "vt.",
+      "rootHint": "*gene",
+      "word": "germinate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "disenginuity (1640s).",
         "disingenuous behavior：不诚实的行为",
         "what they say.\n对比：ingenuous [ɪnˈdʒenjʊəs] 单纯的；天真的；坦白的；朴实自然的",
         "an ingenuous smile：纯真的微笑",
         "innocent, trusting, and honest."
       ],
-      "definition" : "不真诚的；不诚实的；不坦率的；狡猾的",
-      "etymology" : "“lacking in candor, insincere; not open, frank, or candid,” 1650s, from dis- “opposite of”+ingenuous. Related: Disingenuously; disingenuousness;",
-      "examples" : [
-
-      ],
-      "frequency" : 16787,
-      "mnemonic" : "dis-(否定前缀)+in(=in，在里面，内部出生的)+gen-(生)+-uous(形容词\n后缀)→从里面、心灵内部生出的(意念)是不真诚、不诚实的→不真诚",
-      "phonetic" : "ˌdɪs.ɪn.ˈdʒɛn.ju.əs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "disingenuous"
+      "definition": "不真诚的；不诚实的；不坦率的；狡猾的",
+      "etymology": "“lacking in candor, insincere; not open, frank, or candid,” 1650s, from dis- “opposite of”+ingenuous. Related: Disingenuously; disingenuousness;",
+      "examples": [],
+      "frequency": 16787,
+      "mnemonic": "dis-(否定前缀)+in(=in，在里面，内部出生的)+gen-(生)+-uous(形容词\n后缀)→从里面、心灵内部生出的(意念)是不真诚、不诚实的→不真诚",
+      "phonetic": "ˌdɪs.ɪnˈdʒɛn.ju.əs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "disingenuous"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a homogeneous group：同一类人",
         "members or parts that are all the same."
       ],
-      "definition" : "同质的；同种的；均匀的",
-      "examples" : [
-
-      ],
-      "frequency" : 11504,
-      "mnemonic" : "homo-(=same，同，同一)+-gene-(类型，种属)+-ous(形容词后缀)→生\n来就属于同一种类的→同质的，同种的",
-      "phonetic" : "ˌhoʊ.moʊˈdʒiː.njəs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "homogeneous"
+      "definition": "同质的；同种的；均匀的",
+      "examples": [],
+      "frequency": 11504,
+      "mnemonic": "homo-(=same，同，同一)+-gene-(类型，种属)+-ous(形容词后缀)→生\n来就属于同一种类的→同质的，同种的",
+      "phonetic": "ˌhoʊ.məˈdʒi.ni.əs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "homogeneous"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cultural homogeneity：文化同质"
       ],
-      "definition" : "同种；同质",
-      "examples" : [
-
-      ],
-      "frequency" : 16164,
-      "mnemonic" : "homogeneous(类型，种属)+-ity(名词后缀)→生来就属于同一种类→同",
-      "phonetic" : "ˌhoʊ.mə.dʒəˈneɪ.ə.ti",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "homogeneity"
+      "definition": "同种；同质",
+      "examples": [],
+      "frequency": 16164,
+      "mnemonic": "homogeneous(类型，种属)+-ity(名词后缀)→生来就属于同一种类→同",
+      "phonetic": "ˌhoʊ.mə.dʒəˈni.ə.ti",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "homogeneity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a heterogeneous collection of studies：一系列种类繁多的研究"
       ],
-      "definition" : "由很多种类组成的；各种各样的",
-      "examples" : [
-
-      ],
-      "frequency" : 13634,
-      "mnemonic" : "hetero-(=different，不同的)+-gene-(类型，种属)+-ous(形容词后缀)→\n生来就属于同一种类→同质，同种",
-      "phonetic" : "hɛ.tə.ɹə.ˈdʒiː.niː.əs",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "heterogeneous"
+      "definition": "由很多种类组成的；各种各样的",
+      "examples": [],
+      "frequency": 13634,
+      "mnemonic": "hetero-(=different，不同的)+-gene-(类型，种属)+-ous(形容词后缀)→\n生来就属于同一种类→同质，同种",
+      "phonetic": "ˌhɛ.tə.ɹoʊˈdʒi.ni.əs",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "heterogeneous"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the heterogeneity of money demand：货币需求异质性"
       ],
-      "definition" : "[生物] 异质性 [化学] 不均匀性",
-      "examples" : [
-
-      ],
-      "frequency" : 17421,
-      "mnemonic" : "heterogeneous(异质的)+-ity(名词后缀)→异质性",
-      "phonetic" : "ˌhɛtərədʒəˈniəti",
-      "rootHint" : "*gene",
-      "word" : "heterogeneity"
+      "definition": "[生物] 异质性 [化学] 不均匀性",
+      "examples": [],
+      "frequency": 17421,
+      "mnemonic": "heterogeneous(异质的)+-ity(名词后缀)→异质性",
+      "phonetic": "ˌhɛ.tə.ɹoʊ.dʒəˈni.ə.ti",
+      "rootHint": "*gene",
+      "word": "heterogeneity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "oxygen cycle：氧循环 oxygen content：氧含量"
       ],
-      "definition" : "氧气；氧",
-      "examples" : [
-
-      ],
-      "frequency" : 3875,
-      "mnemonic" : "oxy-(=acid，sharp)+-gen(产生的东西)→能强烈地帮助气体燃烧→氧气",
-      "phonetic" : "ˈɑksɪdʒən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "oxygen"
+      "definition": "氧气；氧",
+      "examples": [],
+      "frequency": 3875,
+      "mnemonic": "oxy-(=acid，sharp)+-gen(产生的东西)→能强烈地帮助气体燃烧→氧气",
+      "phonetic": "ˈɑk.sɪ.dʒən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "oxygen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Nitrogen Oxide：氮氧化物",
         "and is usually found as a gas. It forms about 78 percent of the Earth’s",
         "atmosphere, and is found in all living things."
       ],
-      "definition" : "[化]氮气；氮",
-      "examples" : [
-
-      ],
-      "frequency" : 5967,
-      "mnemonic" : "nitro-(用于指硝石，因研究硝石化学性质时认识这种气体而得名)+-\ngen(产生)→在研究硝石的过程中产生的气体",
-      "phonetic" : "ˈnaɪ.tɹə.dʒən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "nitrogen"
+      "definition": "[化]氮气；氮",
+      "examples": [],
+      "frequency": 5967,
+      "mnemonic": "nitro-(用于指硝石，因研究硝石化学性质时认识这种气体而得名)+-\ngen(产生)→在研究硝石的过程中产生的气体",
+      "phonetic": "ˈnaɪ.tɹə.dʒən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "nitrogen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "hydrogen economy：氢能经济"
       ],
-      "definition" : "氢气；氢",
-      "examples" : [
-
-      ],
-      "frequency" : 5167,
-      "mnemonic" : "hydro-(水)+-gen(生成)→产生水的，因氢接触氧气生成水而得名→",
-      "phonetic" : "ˈhaɪdɹədʒən",
-      "pos" : "n.",
-      "rootHint" : "*gene",
-      "word" : "hydrogen"
+      "definition": "氢气；氢",
+      "examples": [],
+      "frequency": 5167,
+      "mnemonic": "hydro-(水)+-gen(生成)→产生水的，因氢接触氧气生成水而得名→",
+      "phonetic": "ˈhaɪ.dɹə.dʒən",
+      "pos": "n.",
+      "rootHint": "*gene",
+      "word": "hydrogen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "innate immune：先天免疫 innate character：本质"
       ],
-      "definition" : "先天的；固有的；与生俱来的",
-      "examples" : [
-
-      ],
-      "frequency" : 10443,
-      "mnemonic" : "in-(进入)+-nat(=to be born，from root *gene- “give birth, beget”)+e→出",
-      "phonetic" : "ɪˈneɪt",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "innate"
+      "definition": "先天的；固有的；与生俱来的",
+      "examples": [],
+      "frequency": 10443,
+      "mnemonic": "in-(进入)+-nat(=to be born，from root *gene- “give birth, beget”)+e→出",
+      "phonetic": "ɪˈneɪt",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "innate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "attempt to render into English the contemporary pronunciation of French",
         "and sprightly in manner” first attested 1670s. The same French word",
         "otherwise was Englished as genteel. Related: Jauntily; jauntiness.",
         "a jaunty tune：轻松活泼的曲子 a jaunty smile：得意扬扬的微笑"
       ],
-      "definition" : "充满信心和活力的；无忧无虑的；神气活现的；轻松活泼的",
-      "etymology" : "also janty, jantee, etc., 1660s, “elegant, stylish,” an imperfect or jocular gentil “nice, pleasing,” in Old French “noble” (see gentle). Meaning “easy",
-      "examples" : [
-
-      ],
-      "frequency" : 19506,
-      "phonetic" : "ˈdʒɑn.ti",
-      "pos" : "adj.",
-      "rootHint" : "*gene",
-      "word" : "jaunty"
+      "definition": "充满信心和活力的；无忧无虑的；神气活现的；轻松活泼的",
+      "etymology": "also janty, jantee, etc., 1660s, “elegant, stylish,” an imperfect or jocular gentil “nice, pleasing,” in Old French “noble” (see gentle). Meaning “easy",
+      "examples": [],
+      "frequency": 19506,
+      "phonetic": "ˈdʒɔn.ti",
+      "pos": "adj.",
+      "rootHint": "*gene",
+      "word": "jaunty"
     }
   ]
 }

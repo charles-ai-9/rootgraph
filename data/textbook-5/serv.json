@@ -1,120 +1,110 @@
 {
-  "chapter" : "50",
-  "chapterOrder" : 150,
-  "id" : "serv",
-  "meaningZh" : "保存，保护。",
-  "roots" : [
+  "chapter": "50",
+  "chapterOrder": 150,
+  "id": "serv",
+  "meaningZh": "保存，保护。",
+  "roots": [
     "serv"
   ],
-  "semanticLabel" : "保存，保护。",
-  "source" : "textbook-5",
-  "titleZh" : "保存，保护。",
-  "words" : [
+  "semanticLabel": "保存，保护。",
+  "source": "textbook-5",
+  "titleZh": "保存，保护。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "conserve energy：节省能源"
       ],
-      "definition" : "节省；保存 n. （含有大块或整块水果的）果酱，蜜饯",
-      "examples" : [
-
-      ],
-      "frequency" : 8084,
-      "mnemonic" : "con-（强调前缀）+ serv-（=to keep, preserve：保存）+ e→全部保留，\n保存→保存；节省；果酱",
-      "phonetic" : "kənˈsɝv",
-      "pos" : "vt.",
-      "rootHint" : "serv",
-      "word" : "conserve"
+      "definition": "节省；保存 n. （含有大块或整块水果的）果酱，蜜饯",
+      "examples": [],
+      "frequency": 8084,
+      "mnemonic": "con-（强调前缀）+ serv-（=to keep, preserve：保存）+ e→全部保留，\n保存→保存；节省；果酱",
+      "phonetic": "kənˈsɝv",
+      "pos": "vt.",
+      "rootHint": "serv",
+      "word": "conserve"
     },
     {
-      "collocations" : [
+      "collocations": [
         "energy conservation：能源节约",
         "elephant conservation：大象保护"
       ],
-      "definition" : "（对环境的）保护；（对历史文物、艺术品等的）保护；节约",
-      "examples" : [
-
-      ],
-      "frequency" : 4432,
-      "phonetic" : "ˌkɑnsə(ɹ)ˈveɪʃən",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "conservation"
+      "definition": "（对环境的）保护；（对历史文物、艺术品等的）保护；节约",
+      "examples": [],
+      "frequency": 4432,
+      "phonetic": "ˌkɑnsɚˈveɪʃən",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "conservation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a conservative estimate：一个保守估计",
         "as they get older. 人们在年轻时常常更开放，年纪越大就越保守。",
         "The girl was well dressed, as usual, though in a more conservative style.\n这个女孩像平常一样穿着得体，但式样则更守旧。"
       ],
-      "definition" : "（观点）保守的；保守的（估计、猜测）；（衣着）守旧的 n. 右倾人士；保守党",
-      "examples" : [
+      "definition": "（观点）保守的；保守的（估计、猜测）；（衣着）守旧的 n. 右倾人士；保守党",
+      "examples": [
         "People tend to be more liberal when they’re young and more conservative"
       ],
-      "frequency" : 1851,
-      "phonetic" : "kənˈsɝvətɪv",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "conservative"
+      "frequency": 1851,
+      "phonetic": "kənˈsɝvətɪv",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "conservative"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the innate conservatism of older people：老年人固有的保守性",
         "the conservatism of the literary establishment：文学界的守旧态度"
       ],
-      "definition" : "保守；守旧；（政治）保守主义",
-      "examples" : [
-
-      ],
-      "frequency" : 9449,
-      "phonetic" : "kənˈsɝvəˌtɪzəm",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "conservatism"
+      "definition": "保守；守旧；（政治）保守主义",
+      "examples": [],
+      "frequency": 9449,
+      "phonetic": "kənˈsɝvəˌtɪzəm",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "conservatism"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "环境保护主义者",
-      "examples" : [
+      "collocations": [],
+      "definition": "环境保护主义者",
+      "examples": [
         "Conservationists say the law must be strengthened.\n环保主义者称必须加强法制。"
       ],
-      "frequency" : 12322,
-      "phonetic" : "kɑnsəˈveɪʃ(ə)nɪst",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "conservationist"
+      "frequency": 12322,
+      "phonetic": "ˌkɑnsɚˈveɪʃənɪst",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "conservationist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be always conservatively dressed：总是穿得很保守"
       ],
-      "definition" : "保守地；保守地（估计、猜测）",
-      "examples" : [
+      "definition": "保守地；保守地（估计、猜测）",
+      "examples": [
         "The bequest is conservatively estimated at $30 million.\n这笔遗产被保守地估计为3000万美元。"
       ],
-      "frequency" : 18543,
-      "phonetic" : "kənˈsəvətɪvli",
-      "pos" : "adv.",
-      "rootHint" : "serv",
-      "word" : "conservatively"
+      "frequency": 18543,
+      "phonetic": "kənˈsɝvətɪvli",
+      "pos": "adv.",
+      "rootHint": "serv",
+      "word": "conservatively"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Conservatory of Music：音乐学院"
       ],
-      "definition" : "音乐学院；温室",
-      "examples" : [
-
-      ],
-      "frequency" : 19515,
-      "phonetic" : "kənˈsɝ.vəˌtɔ.ɹi",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "conservatory"
+      "definition": "音乐学院；温室",
+      "examples": [],
+      "frequency": 19515,
+      "phonetic": "kənˈsɝvəˌtɔɹi",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "conservatory"
     },
     {
-      "collocations" : [
+      "collocations": [
         "preserve peace：维护和平",
         "preserve the forest：保护森林",
         "preserve food：保藏食物",
@@ -122,284 +112,254 @@
         "the preserve of the president：总统的独揽之事",
         "wildlife preserves：野生动物保护区"
       ],
-      "definition" : "维护；保护；保藏食物 n. 保藏；果酱；独揽之事；保护区",
-      "examples" : [
-
-      ],
-      "frequency" : 2229,
-      "mnemonic" : "pre-（=before：在前）+ serv-（==save：保留，保存）+e→维护；保\n护；保存；保护区→引申为保藏；果酱（提前保藏食物使之免于腐",
-      "phonetic" : "pɹəˈzɝv",
-      "pos" : "vt.",
-      "rootHint" : "serv",
-      "word" : "preserve"
+      "definition": "维护；保护；保藏食物 n. 保藏；果酱；独揽之事；保护区",
+      "examples": [],
+      "frequency": 2229,
+      "mnemonic": "pre-（=before：在前）+ serv-（==save：保留，保存）+e→维护；保\n护；保存；保护区→引申为保藏；果酱（提前保藏食物使之免于腐",
+      "phonetic": "pɹɪˈzɝv",
+      "pos": "vt.",
+      "rootHint": "serv",
+      "word": "preserve"
     },
     {
-      "collocations" : [
+      "collocations": [
         "artificial preservatives：人造防腐剂",
         "preservative treatment：防腐处理\n笔 记 区"
       ],
-      "definition" : "防腐剂 adj. 保藏的",
-      "examples" : [
-
-      ],
-      "frequency" : 17970,
-      "mnemonic" : "preserv（=preserve：保藏）+ -ative（形容词后缀）→防腐剂；保藏的",
-      "phonetic" : "prɪˈzɝvətɪv",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "preservative"
+      "definition": "防腐剂 adj. 保藏的",
+      "examples": [],
+      "frequency": 17970,
+      "mnemonic": "preserv（=preserve：保藏）+ -ative（形容词后缀）→防腐剂；保藏的",
+      "phonetic": "pɹɪˈzɝ.və.tɪv",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "preservative"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the preservation of the status quo：现状的维护",
         "food preservation：保藏食物",
         "the preservation of buildings of architectural or historic interest：\n对具有建筑学或历史意义的建筑物的保护",
         "an exceptionally fine state of preservation：保存地非常完好"
       ],
-      "definition" : "维护；保护；保存的状况",
-      "examples" : [
-
-      ],
-      "frequency" : 5298,
-      "mnemonic" : "preserv（=preserve：维护；保护；保藏）+ -ation（名词后缀）→维",
-      "phonetic" : "pɹɛ.zɝˈveɪ.ʃən",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "preservation"
+      "definition": "维护；保护；保存的状况",
+      "examples": [],
+      "frequency": 5298,
+      "mnemonic": "preserv（=preserve：维护；保护；保藏）+ -ation（名词后缀）→维",
+      "phonetic": "ˌpɹɛ.zɚˈveɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "preservation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "architectural preservationist：历史建筑保护主义者",
         "preservationist is a supporter or advocate of the preservation of something,",
         "especially of historic buildings and artefacts."
       ],
-      "definition" : "（尤指对历史建筑、工艺品的）保护主义者",
-      "examples" : [
-
-      ],
-      "frequency" : 18986,
-      "mnemonic" : "preservation（维护；保护）+ -ist（名词后缀，表示人）→保护主义者",
-      "phonetic" : "prezəˈveɪʃ(ə)nɪst",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "preservationist"
+      "definition": "（尤指对历史建筑、工艺品的）保护主义者",
+      "examples": [],
+      "frequency": 18986,
+      "mnemonic": "preservation（维护；保护）+ -ist（名词后缀，表示人）→保护主义者",
+      "phonetic": "ˌpɹɛ.zɚˈveɪ.ʃə.nɪst",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "preservationist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be reserved for sth.：为……而保留下来",
         "in reserve：保留备用",
         "reserve a table for five：预订一个5人的餐位",
         "oil reserves：石油储备",
         "overcome your reserve：克服矜持"
       ],
-      "definition" : "预订（=book）；保留；拥有（某种权利） n. 储备；保护区；矜持",
-      "examples" : [
-
-      ],
-      "frequency" : 3776,
-      "mnemonic" : "re-（反复）+ -serv-（保留；保存）+ e→反复保留，保存→预订；保",
-      "phonetic" : "ɹɪˈzɝv",
-      "pos" : "vt.",
-      "rootHint" : "serv",
-      "word" : "reserve"
+      "definition": "预订（=book）；保留；拥有（某种权利） n. 储备；保护区；矜持",
+      "examples": [],
+      "frequency": 3776,
+      "mnemonic": "re-（反复）+ -serv-（保留；保存）+ e→反复保留，保存→预订；保",
+      "phonetic": "ɹɪ.ˈzɝv",
+      "pos": "vt.",
+      "rootHint": "serv",
+      "word": "reserve"
     },
     {
-      "collocations" : [
+      "collocations": [
         "make a reservation：做了预订",
         "without reservation：毫无保留地"
       ],
-      "definition" : "预约；保留意见；保留地",
-      "examples" : [
+      "definition": "预约；保留意见；保留地",
+      "examples": [
         "I have serious reservations about his ability to do the job.\n我非常怀疑他有没有能力胜任这项工作。"
       ],
-      "frequency" : 3072,
-      "phonetic" : "ˌɹɛzəˈveɪʃən",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "reservation"
+      "frequency": 3072,
+      "phonetic": "ˌɹɛ.zɚ.ˈveɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "reservation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "all rights reserved：版权所有",
         "unreserved apologies：诚恳的道歉"
       ],
-      "definition" : "寡言少语的；预订的；缄默的，冷淡的；包租的",
-      "examples" : [
-
-      ],
-      "frequency" : 9944,
-      "phonetic" : "ɹɪˈzɝvd",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "reserved"
+      "definition": "寡言少语的；预订的；缄默的，冷淡的；包租的",
+      "examples": [],
+      "frequency": 9944,
+      "phonetic": "ɹɪ.ˈzɝvd",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "reserved"
     },
     {
-      "collocations" : [
+      "collocations": [
         "in the regular army of a country, but who can be called to serve whenever",
         "they are needed."
       ],
-      "definition" : "预备役军人",
-      "examples" : [
-
-      ],
-      "frequency" : 14253,
-      "phonetic" : "rɪˈzɝvɪst",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "reservist"
+      "definition": "预备役军人",
+      "examples": [],
+      "frequency": 14253,
+      "phonetic": "ɹɪ.ˈzɝ.vɪst",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "reservist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "voir和wa二者读音非常接近，前者在模仿后者）→保存水的地方→水\n库；蓄水池；（大量的）储备",
         "gas reservoir：气藏；气田；天然气储层",
         "water reservoir：蓄水池"
       ],
-      "definition" : "水库；蓄水池；（大量的）储备，储藏",
-      "examples" : [
-
-      ],
-      "frequency" : 5992,
-      "mnemonic" : "reserv（保留；保存）+（v）oir（=water：水；t无意义，er为后缀；",
-      "phonetic" : "ˈɹɛz.ə(ɹ).vwɑɹ",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "reservoir"
+      "definition": "水库；蓄水池；（大量的）储备，储藏",
+      "examples": [],
+      "frequency": 5992,
+      "mnemonic": "reserv（保留；保存）+（v）oir（=water：水；t无意义，er为后缀；",
+      "phonetic": "ˈɹɛ.zɚ.vwɑɹ",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "reservoir"
     },
     {
-      "collocations" : [
+      "collocations": [
         "observe the behaviour of babies：观察婴儿的行为",
         "observe a ceasefire：遵守一项停火协议",
         "observe Thanksgiving：庆祝感恩节\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "观察；评述；遵从；庆祝",
-      "examples" : [
-
-      ],
-      "frequency" : 1301,
-      "mnemonic" : "ob-（=in front of：在前面）+-serve（=to watch：观察）→观察前面的\n行为方式→观察；评述\nob-（=in front of：在前面）+-serve（=to keep：保持）→保持（传统\n的）行为习惯→遵从；庆祝",
-      "phonetic" : "əbˈzɝv",
-      "pos" : "vt.",
-      "rootHint" : "serv",
-      "word" : "observe"
+      "definition": "观察；评述；遵从；庆祝",
+      "examples": [],
+      "frequency": 1301,
+      "mnemonic": "ob-（=in front of：在前面）+-serve（=to watch：观察）→观察前面的\n行为方式→观察；评述\nob-（=in front of：在前面）+-serve（=to keep：保持）→保持（传统\n的）行为习惯→遵从；庆祝",
+      "phonetic": "əbˈzɝv",
+      "pos": "vt.",
+      "rootHint": "serv",
+      "word": "observe"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a casual observer：一位不经意的目击者",
         "a UN observer：一名联合国观察员"
       ],
-      "definition" : "目击者；观察家；观察员",
-      "examples" : [
-
-      ],
-      "frequency" : 2478,
-      "phonetic" : "ɑb-",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "observer"
+      "definition": "目击者；观察家；观察员",
+      "examples": [],
+      "frequency": 2478,
+      "phonetic": "əbˈzɝ.vɚ",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "observer"
     },
     {
-      "collocations" : [
+      "collocations": [
         "careful observation：仔细观察",
         "good powers of observation：很强的观察力"
       ],
-      "definition" : "观察；观察结果；观察评论；观察力",
-      "examples" : [
+      "definition": "观察；观察结果；观察评论；观察力",
+      "examples": [
         "Is that a criticism or just an observation?\n那是一种批评呢，还是一种观察评论而已？"
       ],
-      "frequency" : 2123,
-      "phonetic" : "-ˈveɪʃn̩",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "observation"
+      "frequency": 2123,
+      "phonetic": "ˌɑb.zɚˈveɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "observation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "astronomical observatory：天文台",
         "meteorological observatory：气象台；气象观测所\n释义：（N-COUNT）天文台 An observatory is a building with a large telescope",
         "from which scientists study things such as the planets by watching them."
       ],
-      "definition" : "天文台；气象台",
-      "examples" : [
-
-      ],
-      "frequency" : 9008,
-      "mnemonic" : "observ（=observe：观察）+-atory（表示场所）→观察的场所→天文",
-      "phonetic" : "əbˈzəɹvətɔɹi",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "observatory"
+      "definition": "天文台；气象台",
+      "examples": [],
+      "frequency": 9008,
+      "mnemonic": "observ（=observe：观察）+-atory（表示场所）→观察的场所→天文",
+      "phonetic": "əbˈzɝ.və.ˌtɔɹ.i",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "observatory"
     },
     {
-      "collocations" : [
+      "collocations": [
         "observed data：观测数据"
       ],
-      "definition" : "观测的；观察的",
-      "examples" : [
-
-      ],
-      "frequency" : 10174,
-      "phonetic" : "əbˈzɝvd",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "observed"
+      "definition": "观测的；观察的",
+      "examples": [],
+      "frequency": 10174,
+      "phonetic": "əbˈzɝvd",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "observed"
     },
     {
-      "collocations" : [
+      "collocations": [
         "observational humor：可观察到的幽默",
         "observational work：观测工作"
       ],
-      "definition" : "（尤指为获取新信息）观察的",
-      "examples" : [
-
-      ],
-      "frequency" : 13584,
-      "phonetic" : "ˌɑbzɚˈveɪʃənəl",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "observational"
+      "definition": "（尤指为获取新信息）观察的",
+      "examples": [],
+      "frequency": 13584,
+      "phonetic": "ˌɑb.zɚˈveɪ.ʃə.nəl",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "observational"
     },
     {
-      "collocations" : [
+      "collocations": [
         "observable differences：可以察觉到的差异"
       ],
-      "definition" : "觉察得到的；看得见的",
-      "examples" : [
-
-      ],
-      "frequency" : 13957,
-      "phonetic" : "əbˈzɝvəbl",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "observable"
+      "definition": "觉察得到的；看得见的",
+      "examples": [],
+      "frequency": 13957,
+      "phonetic": "əbˈzɝ.və.bəl",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "observable"
     },
     {
-      "collocations" : [
+      "collocations": [
         "observance of the law：守法",
         "religious observances：宗教仪式\n反义词：non-observance：违反，不遵从（规章、习俗等）"
       ],
-      "definition" : "（对法律、习俗等的）遵守；（节日的）纪念20000 词汇巅峰速记笔 记 区",
-      "examples" : [
-
-      ],
-      "frequency" : 13701,
-      "phonetic" : "əbˈzɝvəns",
-      "pos" : "n.",
-      "rootHint" : "serv",
-      "word" : "observance"
+      "definition": "（对法律、习俗等的）遵守；（节日的）纪念20000 词汇巅峰速记笔 记 区",
+      "examples": [],
+      "frequency": 13701,
+      "phonetic": "əbˈzɝ.vəns",
+      "pos": "n.",
+      "rootHint": "serv",
+      "word": "observance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "How very observant of you! 你真有眼力！\n近义词：sharp-eyed：眼尖的；目光敏锐的"
       ],
-      "definition" : "善于观察的；观察力敏锐的",
-      "examples" : [
+      "definition": "善于观察的；观察力敏锐的",
+      "examples": [
         "Observant walkers may see red deer along this stretch of the road.\n观察敏锐的步行者可能在这一路段看到赤鹿。"
       ],
-      "frequency" : 16737,
-      "phonetic" : "əbˈzɝvənt",
-      "pos" : "adj.",
-      "rootHint" : "serv",
-      "word" : "observant"
+      "frequency": 16737,
+      "phonetic": "əbˈzɝ.vənt",
+      "pos": "adj.",
+      "rootHint": "serv",
+      "word": "observant"
     }
   ]
 }

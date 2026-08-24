@@ -1,164 +1,148 @@
 {
-  "chapter" : "10",
-  "chapterOrder" : 110,
-  "id" : "peal",
-  "meaningEn" : "call",
-  "meaningZh" : "呼吁；大声呼叫 -peal=-pel-=to push, drive：推动。",
-  "roots" : [
+  "chapter": "10",
+  "chapterOrder": 110,
+  "id": "peal",
+  "meaningEn": "call",
+  "meaningZh": "呼吁；大声呼叫 -peal=-pel-=to push, drive：推动。",
+  "roots": [
     "peal"
   ],
-  "semanticLabel" : "call",
-  "source" : "textbook-7",
-  "titleZh" : "call",
-  "words" : [
+  "semanticLabel": "call",
+  "source": "textbook-7",
+  "titleZh": "call",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "to file an appeal：提出上诉",
-        "mass\/wide\/popular appeal：对大众的\/广泛的\/普遍的吸引力",
-        "appeal (to sb.) (for sth.)\/appeal to sb. to do sth.：呼吁某人做某事\nappeal (sth.) (to sb.\/sth.)：向某（法庭）上诉某事",
+        "mass/wide/popular appeal：对大众的/广泛的/普遍的吸引力",
+        "appeal (to sb.) (for sth.)/appeal to sb. to do sth.：呼吁某人做某事\nappeal (sth.) (to sb./sth.)：向某（法庭）上诉某事",
         "appeal to all ages and social groups：雅俗共赏，老幼皆宜(吸引所有人)",
         "appeal for calm：呼吁保持冷静"
       ],
-      "definition" : "上诉；吸引力；呼吁，恳求 vi. 上诉；有吸引力；呼吁，恳求",
-      "examples" : [
-
-      ],
-      "frequency" : 1866,
-      "mnemonic" : "ap-（=ad-：to) + peal（=call：大声呼叫（以吸引注意力））→呼吁；\n公开请求 →上诉；呼吁，恳求\nap-（to) + peal（=pel-：to push, drive：推动）→推动某人做某事→吸",
-      "phonetic" : "əˈpiːl",
-      "pos" : "n.",
-      "rootHint" : "peal",
-      "word" : "appeal"
+      "definition": "上诉；吸引力；呼吁，恳求 vi. 上诉；有吸引力；呼吁，恳求",
+      "examples": [],
+      "frequency": 1866,
+      "mnemonic": "ap-（=ad-：to) + peal（=call：大声呼叫（以吸引注意力））→呼吁；\n公开请求 →上诉；呼吁，恳求\nap-（to) + peal（=pel-：to push, drive：推动）→推动某人做某事→吸",
+      "phonetic": "əˈpil",
+      "pos": "n.",
+      "rootHint": "peal",
+      "word": "appeal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an appealing sense of humor：很有吸引力的幽默感",
         "a soft appealing look：温柔恳求的表情\n笔 记 区"
       ],
-      "definition" : "有吸引力的，令人感兴趣的；恳求的（表情、语气）",
-      "examples" : [
-
-      ],
-      "frequency" : 7146,
-      "mnemonic" : "appeal（有吸引力；恳求）+ -ing（形容词后缀）→有吸引力的；恳",
-      "phonetic" : "əˈpiː.lɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "peal",
-      "word" : "appealing"
+      "definition": "有吸引力的，令人感兴趣的；恳求的（表情、语气）",
+      "examples": [],
+      "frequency": 7146,
+      "mnemonic": "appeal（有吸引力；恳求）+ -ing（形容词后缀）→有吸引力的；恳",
+      "phonetic": "əˈpilɪŋ",
+      "pos": "adj.",
+      "rootHint": "peal",
+      "word": "appealing"
     },
     {
-      "collocations" : [
+      "collocations": [
         "appellate court：上诉法院"
       ],
-      "definition" : "[律]（尤指法院）上诉的；受理上诉的",
-      "examples" : [
-
-      ],
-      "frequency" : 12063,
-      "mnemonic" : "appeall（=appeal：上诉）+ -ate（形容词后缀，……的）→上诉的；",
-      "phonetic" : "əˈpɛlət",
-      "pos" : "adj.",
-      "rootHint" : "peal",
-      "word" : "appellate"
+      "definition": "[律]（尤指法院）上诉的；受理上诉的",
+      "examples": [],
+      "frequency": 12063,
+      "mnemonic": "appeall（=appeal：上诉）+ -ate（形容词后缀，……的）→上诉的；",
+      "phonetic": "əˈpɛlət",
+      "pos": "adj.",
+      "rootHint": "peal",
+      "word": "appellate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "repeal the law：废除某项法令",
         "the repeal of Prohibition（禁酒令）：禁酒令废止\n同样表示“推；压；驱动”的单词还有 urge 及派生词。"
       ],
-      "definition" : "废除；撤销（法令） n. 撤销；（法令的）废止",
-      "examples" : [
-
-      ],
-      "frequency" : 9768,
-      "mnemonic" : "re-（=back：往回）+ -peal（=call：大声呼叫；召唤→call back：收回\n→废除，撤销（法令）",
-      "phonetic" : "ɹəˈpiːl",
-      "pos" : "vt.",
-      "rootHint" : "peal",
-      "word" : "repeal"
+      "definition": "废除；撤销（法令） n. 撤销；（法令的）废止",
+      "examples": [],
+      "frequency": 9768,
+      "mnemonic": "re-（=back：往回）+ -peal（=call：大声呼叫；召唤→call back：收回\n→废除，撤销（法令）",
+      "phonetic": "ɹɪˈpil",
+      "pos": "vt.",
+      "rootHint": "peal",
+      "word": "repeal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "drive, compel, stimulate：用力按压；推进；强迫，迫使；驱使；感到\n必须（做某事）；鼓励，激励，刺激”。",
         "be urged to do sth.：被迫做某事",
-        "urge sb. on：鼓励\/激励某人；为某人加油",
+        "urge sb. on：鼓励/激励某人；为某人加油",
         "to urge the middle class to protect their interests：敦促中产阶级去保护\n他们的利益",
         "The situation is dangerous, and the UN is urging caution.\n局势岌岌可危，联合国竭力主张谨慎行事。\n20000 词汇巅峰\n速\n记\n笔 记 区",
         "He urged his horse forward.\n他策马（驱赶）前行。",
-        "Like it or not, many children are urged \/ forced \/ compelled \/ obliged by",
-        "their parents to attend various art classes, which interferes with \/ intervenes\nin children’s right of free choice."
+        "Like it or not, many children are urged / forced / compelled / obliged by",
+        "their parents to attend various art classes, which interferes with / intervenes\nin children’s right of free choice."
       ],
-      "definition" : "敦促，催促，力劝；大力推荐，竭力主张；驱赶，鞭策",
-      "etymology" : "1550s, 来源于拉丁语动词urgere “to press hard, push forward, force,",
-      "examples" : [
+      "definition": "敦促，催促，力劝；大力推荐，竭力主张；驱赶，鞭策",
+      "etymology": "1550s, 来源于拉丁语动词urgere “to press hard, push forward, force,",
+      "examples": [
         "She urged him to stay.\n她力劝他留下。",
         "现在有不少孩子都被家长强迫去参加各种艺术班，而不管他们是\n否喜欢，这干涉了孩子的自由选择权。"
       ],
-      "frequency" : 2281,
-      "phonetic" : "ɝd͡ʒ",
-      "pos" : "vt.",
-      "rootHint" : "peal",
-      "word" : "urge"
+      "frequency": 2281,
+      "phonetic": "ɝdʒ",
+      "pos": "vt.",
+      "rootHint": "peal",
+      "word": "urge"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an urgent mission：一个紧急使命",
         "urgent need：迫切需要",
         "urgent voice：急切的声音"
       ],
-      "definition" : "紧急的，迫切的；催促的，急切的",
-      "examples" : [
-
-      ],
-      "frequency" : 5401,
-      "mnemonic" : "urg（=urge：催促；逼迫）+ -ent（形容词后缀：的）→紧急的；催促",
-      "phonetic" : "ˈɚdʒənt",
-      "pos" : "adj.",
-      "rootHint" : "peal",
-      "word" : "urgent"
+      "definition": "紧急的，迫切的；催促的，急切的",
+      "examples": [],
+      "frequency": 5401,
+      "mnemonic": "urg（=urge：催促；逼迫）+ -ent（形容词后缀：的）→紧急的；催促",
+      "phonetic": "ˈɝdʒənt",
+      "pos": "adj.",
+      "rootHint": "peal",
+      "word": "urgent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a matter of some urgency：相当紧迫的事"
       ],
-      "definition" : "紧迫；催促；紧急的事",
-      "examples" : [
-
-      ],
-      "frequency" : 6471,
-      "mnemonic" : "urgent（紧迫的；催促的）+-cy（名词后缀）→紧迫；催促；紧急",
-      "phonetic" : "ˈɝ.dʒən.si",
-      "pos" : "n.",
-      "rootHint" : "peal",
-      "word" : "urgency"
+      "definition": "紧迫；催促；紧急的事",
+      "examples": [],
+      "frequency": 6471,
+      "mnemonic": "urgent（紧迫的；催促的）+-cy（名词后缀）→紧迫；催促；紧急",
+      "phonetic": "ˈɝdʒənsi",
+      "pos": "n.",
+      "rootHint": "peal",
+      "word": "urgency"
     },
     {
-      "collocations" : [
+      "collocations": [
         "New equipment is urgently needed. 迫切需要新设备。"
       ],
-      "definition" : "紧急地；迫切地；急切地",
-      "examples" : [
-
-      ],
-      "frequency" : 11596,
-      "phonetic" : "ˈɝdʒəntli",
-      "pos" : "adv.",
-      "rootHint" : "peal",
-      "word" : "urgently"
+      "definition": "紧急地；迫切地；急切地",
+      "examples": [],
+      "frequency": 11596,
+      "phonetic": "ˈɝdʒəntli",
+      "pos": "adv.",
+      "rootHint": "peal",
+      "word": "urgently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "keep urging sb. to do sth.：不断催促某人做某事"
       ],
-      "definition" : "催促，力劝；竭力主张；激励，鞭策（urge的现在分词形式）",
-      "examples" : [
-
-      ],
-      "frequency" : 18702,
-      "phonetic" : "ˈɝd͡ʒɪŋ",
-      "pos" : "v.",
-      "rootHint" : "peal",
-      "word" : "urging"
+      "definition": "催促，力劝；竭力主张；激励，鞭策（urge的现在分词形式）",
+      "examples": [],
+      "frequency": 18702,
+      "phonetic": "ˈɝdʒɪŋ",
+      "pos": "v.",
+      "rootHint": "peal",
+      "word": "urging"
     }
   ]
 }

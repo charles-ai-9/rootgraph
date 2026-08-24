@@ -1,828 +1,730 @@
 {
-  "chapter" : "21",
-  "chapterOrder" : 121,
-  "id" : "publ",
-  "meaningEn" : "public",
-  "meaningZh" : "公开的；公众的",
-  "roots" : [
+  "chapter": "21",
+  "chapterOrder": 121,
+  "id": "publ",
+  "meaningEn": "public",
+  "meaningZh": "公开的；公众的",
+  "roots": [
     "publ"
   ],
-  "semanticLabel" : "公开的；公众的",
-  "source" : "textbook-6",
-  "titleZh" : "公开的；公众的",
-  "words" : [
+  "semanticLabel": "公开的；公众的",
+  "source": "textbook-6",
+  "titleZh": "公开的；公众的",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "the general public：人民大众",
         "public figures：公众人物\ngo public：上市\nin public：当众"
       ],
-      "definition" : "公众的；政府的；（建筑、服务、地方）公共的；（陈述、行为、事件）公开的 n. 公众；群体",
-      "examples" : [
-
-      ],
-      "frequency" : 17199,
-      "mnemonic" : "publ（=people：人；群众）+ -ic（形容词后缀，…的）→群众的→公",
-      "phonetic" : "ˈpjuːbɪk",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "pubic"
+      "definition": "公众的；政府的；（建筑、服务、地方）公共的；（陈述、行为、事件）公开的 n. 公众；群体",
+      "examples": [],
+      "frequency": 17199,
+      "mnemonic": "publ（=people：人；群众）+ -ic（形容词后缀，…的）→群众的→公",
+      "phonetic": "ˈpju.bɪk",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "pubic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "publicly funded...：政府资助的",
         "speak publicly about the affair：公开地谈论过此事"
       ],
-      "definition" : "政府地；公开地",
-      "examples" : [
-
-      ],
-      "frequency" : 3053,
-      "mnemonic" : "public（政府的；公开的）+ -ly（副词后缀）→政府地；公开地",
-      "phonetic" : "ˈpʌblɪkli",
-      "pos" : "adv.",
-      "rootHint" : "publ",
-      "word" : "publicly"
+      "definition": "政府地；公开地",
+      "examples": [],
+      "frequency": 3053,
+      "mnemonic": "public（政府的；公开的）+ -ly（副词后缀）→政府地；公开地",
+      "phonetic": "ˈpʌb.lɪk.li",
+      "pos": "adv.",
+      "rootHint": "publ",
+      "word": "publicly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a public relations exercise：一项公关活动"
       ],
-      "definition" : "公关工作；公共关系",
-      "examples" : [
-
-      ],
-      "frequency" : 19888,
-      "mnemonic" : "public（公共的）+ relations（关系）→公共关系",
-      "phonetic" : "ˈpʌblɪk rɪˈleɪʃ(ə)nz",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "public-relations"
+      "definition": "公关工作；公共关系",
+      "examples": [],
+      "frequency": 19888,
+      "mnemonic": "public（公共的）+ relations（关系）→公共关系",
+      "phonetic": "ˌpʌb.lɪk.ɹɪˈleɪ.ʃənz",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "public-relations"
     },
     {
-      "collocations" : [
+      "collocations": [
         "foreign-language publications：外语出版物",
         "publication date：出版日期"
       ],
-      "definition" : "出版；出版物；公开",
-      "examples" : [
-
-      ],
-      "frequency" : 2481,
-      "mnemonic" : "public（公开的；公众的）+ -ation（名词后缀）→引申义为出版；出",
-      "phonetic" : "ˌpʌblɪˈkeɪʃən",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "publication"
+      "definition": "出版；出版物；公开",
+      "examples": [],
+      "frequency": 2481,
+      "mnemonic": "public（公开的；公众的）+ -ation（名词后缀）→引申义为出版；出",
+      "phonetic": "ˌpʌb.lɪˈkeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "publication"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "推介人员；宣传员",
-      "examples" : [
-
-      ],
-      "frequency" : 11708,
-      "mnemonic" : "public（公众的；公开的）+ -ist（人）→公开推广……的人→推介人",
-      "phonetic" : "ˈpʌblɪsɪst",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "publicist"
+      "collocations": [],
+      "definition": "推介人员；宣传员",
+      "examples": [],
+      "frequency": 11708,
+      "mnemonic": "public（公众的；公开的）+ -ist（人）→公开推广……的人→推介人",
+      "phonetic": "ˈpʌb.lə.sɪst",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "publicist"
     },
     {
-      "collocations" : [
-        "good\/bad\/adverse publicity：有利的\/不利的\/反面的报道",
+      "collocations": [
+        "good/bad/adverse publicity：有利的/不利的/反面的报道",
         "publicity material：宣传材料",
         "In dealing with the issue and other things alike, in fact, not sufficient value",
-        "is placed upon publicity\/guidance and education\/supervision."
+        "is placed upon publicity/guidance and education/supervision."
       ],
-      "definition" : "（媒体的）关注，报道；广告宣传工作",
-      "examples" : [
-        "在处理这个问题和其他相似问题的时候，实际上，并没有足够重\n视宣传\/引导和教育\/监管。"
+      "definition": "（媒体的）关注，报道；广告宣传工作",
+      "examples": [
+        "在处理这个问题和其他相似问题的时候，实际上，并没有足够重\n视宣传/引导和教育/监管。"
       ],
-      "frequency" : 4588,
-      "mnemonic" : "public（公众的；公开的）+ -ity（名词后缀）→使……公开→报道；",
-      "phonetic" : "pʌbˈlɪsəti",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "publicity"
+      "frequency": 4588,
+      "mnemonic": "public（公众的；公开的）+ -ity（名词后缀）→使……公开→报道；",
+      "phonetic": "pʌbˈlɪs.ə.ti",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "publicity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "publicize the latest book：宣传新书"
       ],
-      "definition" : "宣传；推广；传播",
-      "examples" : [
-
-      ],
-      "frequency" : 10016,
-      "mnemonic" : "public（公开的）+ -ize（使动词后缀）→使……公开→宣传；推广；",
-      "phonetic" : "ˈpʌblɪˌsaɪz",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "publicize"
+      "definition": "宣传；推广；传播",
+      "examples": [],
+      "frequency": 10016,
+      "mnemonic": "public（公开的）+ -ize（使动词后缀）→使……公开→宣传；推广；",
+      "phonetic": "ˈpʌb.lə.saɪz",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "publicize"
     },
     {
-      "collocations" : [
-        "a much\/highly\/widely publicized speech：一篇受到大力\/高度\/广泛报道",
+      "collocations": [
+        "a much/highly/widely publicized speech：一篇受到大力/高度/广泛报道",
         "Medicine, isn’t the first to associate greenery with better health, but it does",
         "get us closer 68 identifying what works and why."
       ],
-      "definition" : "宣传；推广（publicize的过去分词）",
-      "examples" : [
+      "definition": "宣传；推广（publicize的过去分词）",
+      "examples": [
         "The new research, in the American Journal of Preventive\n67. A) published B) simulated C) illuminated D) circulated"
       ],
-      "frequency" : 13291,
-      "mnemonic" : "publ（=public：公开的；公众的）+ -ish（使动词后缀）→使……公\n之于众→出版；发表",
-      "phonetic" : "ˈpʌblɪsaɪzd",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "publicized"
+      "frequency": 13291,
+      "mnemonic": "publ（=public：公开的；公众的）+ -ish（使动词后缀）→使……公\n之于众→出版；发表",
+      "phonetic": "ˈpʌb.lə.saɪzd",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "publicized"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "已发布的",
-      "examples" : [
-
-      ],
-      "frequency" : 7440,
-      "phonetic" : "ˈpʌblɪʃt",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "published"
+      "collocations": [],
+      "definition": "已发布的",
+      "examples": [],
+      "frequency": 7440,
+      "phonetic": "ˈpʌb.lɪʃt",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "published"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an unpublished novel：未出版的小说"
       ],
-      "definition" : "未出版的；未发表的",
-      "examples" : [
-
-      ],
-      "frequency" : 11525,
-      "phonetic" : "ʌnˈpʌblɪʃt",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "unpublished"
+      "definition": "未出版的；未发表的",
+      "examples": [],
+      "frequency": 11525,
+      "phonetic": "ˌʌnˈpʌblɪʃt",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "unpublished"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "出版者；出版公司；发行人",
-      "examples" : [
+      "collocations": [],
+      "definition": "出版者；出版公司；发行人",
+      "examples": [
         "The publishers planned to produce the journal on a weekly basis.\n出版社计划将这份杂志做成周刊。"
       ],
-      "frequency" : 3097,
-      "phonetic" : "ˈpʌblɪʃɚ",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "publisher"
+      "frequency": 3097,
+      "phonetic": "ˈpʌb.lɪʃ.ɚ",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "publisher"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a publishing house (= company)：出版社"
       ],
-      "definition" : "出版（业）；发行（业）",
-      "examples" : [
-
-      ],
-      "frequency" : 6816,
-      "phonetic" : "ˈpʌblɪʃɪŋ",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "publishing"
+      "definition": "出版（业）；发行（业）",
+      "examples": [],
+      "frequency": 6816,
+      "phonetic": "ˈpʌb.lɪʃ.ɪŋ",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "publishing"
     },
     {
-      "collocations" : [
+      "collocations": [
         "DPRK（The Democratic People’s Republic of Korean）：朝鲜民主主义",
         "the Republic of Ireland：爱尔兰共和国"
       ],
-      "definition" : "共和国；共和政体4273",
-      "examples" : [
-
-      ],
-      "phonetic" : "[ɹɪˈpʌblɪk]",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "republic"
+      "definition": "共和国；共和政体4273",
+      "examples": [],
+      "phonetic": "ɹɪ.ˈpʌb.lɪk",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "republic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "republican party：共和党"
       ],
-      "definition" : "共和的；共和党的 n. 共和党人",
-      "examples" : [
-
-      ],
-      "frequency" : 595,
-      "mnemonic" : "republic（共和的；共和党人）+ -an（名词\/形容词后缀）→共和的；",
-      "phonetic" : "ɹɪˈpʌblɪkən",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "republican"
+      "definition": "共和的；共和党的 n. 共和党人",
+      "examples": [],
+      "frequency": 595,
+      "mnemonic": "republic（共和的；共和党人）+ -an（名词/形容词后缀）→共和的；",
+      "phonetic": "ɹɪ.ˈpʌb.lɪ.kən",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "republican"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the fight for justice and democracy：为正义和民主的斗争",
         "Democrat party：民主党\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "民主党人；民主主义者",
-      "examples" : [
-
-      ],
-      "frequency" : 906,
-      "mnemonic" : "demo-（人民）+ -crat（管理者；统治者）→（主张）由人民选举产\n生统治者→民主党人；民主主义者",
-      "phonetic" : "ˈdɛməkɹæt",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "Democrat"
+      "definition": "民主党人；民主主义者",
+      "examples": [],
+      "frequency": 906,
+      "mnemonic": "demo-（人民）+ -crat（管理者；统治者）→（主张）由人民选举产\n生统治者→民主党人；民主主义者",
+      "phonetic": "ˈdɛ.mə.kɹæt",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "Democrat"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Western democracies：西方民主国家"
       ],
-      "definition" : "民主政体；民主国家；民主精神、权利；民主",
-      "examples" : [
-
-      ],
-      "frequency" : 1511,
-      "mnemonic" : "demo-（人民）+ -cracy（管理；统治）→由人民进行管理、统治→民",
-      "phonetic" : "dɪˈmɑkɹəsi",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "democracy"
+      "definition": "民主政体；民主国家；民主精神、权利；民主",
+      "examples": [],
+      "frequency": 1511,
+      "mnemonic": "demo-（人民）+ -cracy（管理；统治）→由人民进行管理、统治→民",
+      "phonetic": "dɪ.ˈmɑ.kɹə.si",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "democracy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "democratic rule：民主统治",
         "a democratic society：民主社会"
       ],
-      "definition" : "民主的；民主精神的",
-      "examples" : [
-
-      ],
-      "frequency" : 856,
-      "mnemonic" : "democra（=democracy：民主）+ -tic（与……有关的）→民主的；民",
-      "phonetic" : "dɛməˈkɹætɪk",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "democratic"
+      "definition": "民主的；民主精神的",
+      "examples": [],
+      "frequency": 856,
+      "mnemonic": "democra（=democracy：民主）+ -tic（与……有关的）→民主的；民",
+      "phonetic": "ˌdɛ.mə.ˈkɹæ.tɪk",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "democratic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "undemocratic decisions：专制的决定",
         "an undemocratic regime：专制政权"
       ],
-      "definition" : "不民主的；专横的；霸道的",
-      "examples" : [
-
-      ],
-      "frequency" : 19924,
-      "mnemonic" : "un-（=not：不）+ democratic（民主的）→不民主的；专横的",
-      "phonetic" : "ˌʌndeməˈkrætɪk",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "undemocratic"
+      "definition": "不民主的；专横的；霸道的",
+      "examples": [],
+      "frequency": 19924,
+      "mnemonic": "un-（=not：不）+ democratic（民主的）→不民主的；专横的",
+      "phonetic": "ˌʌn.dɛməˈkɹætɪk",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "undemocratic"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "民主地；民主精神地",
-      "examples" : [
-
-      ],
-      "frequency" : 14739,
-      "phonetic" : "dɛməˈkɹætɪkəli",
-      "pos" : "adv.",
-      "rootHint" : "publ",
-      "word" : "democratically"
+      "collocations": [],
+      "definition": "民主地；民主精神地",
+      "examples": [],
+      "frequency": 14739,
+      "phonetic": "ˌdɛ.mə.ˈkɹæ.tɪk.li",
+      "pos": "adv.",
+      "rootHint": "publ",
+      "word": "democratically"
     },
     {
-      "collocations" : [
+      "collocations": [
         "democratize the life of society：使社会生活民主化"
       ],
-      "definition" : "使（国家或制度等）民主化",
-      "examples" : [
-
-      ],
-      "frequency" : 18694,
-      "mnemonic" : "democrat（=democratic：民主的）+ -ize（使动词后缀）→使（国家",
-      "phonetic" : "dɪˈmɑkɹətaɪz",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "democratize"
+      "definition": "使（国家或制度等）民主化",
+      "examples": [],
+      "frequency": 18694,
+      "mnemonic": "democrat（=democratic：民主的）+ -ize（使动词后缀）→使（国家",
+      "phonetic": "dɪ.ˈmɑ.kɹə.taɪz",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "democratize"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "民主化",
-      "examples" : [
-
-      ],
-      "frequency" : 8564,
-      "mnemonic" : "democratize（使民主化）+ -ation（复合名词后缀）→民主化",
-      "phonetic" : "dɪˌmɑkrətaɪˈzeɪʃn",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "democratization"
+      "collocations": [],
+      "definition": "民主化",
+      "examples": [],
+      "frequency": 8564,
+      "mnemonic": "democratize（使民主化）+ -ation（复合名词后缀）→民主化",
+      "phonetic": "dɪ.ˌmɑ.kɹə.tə.ˈzeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "democratization"
     },
     {
-      "collocations" : [
+      "collocations": [
         "offer sophisticated voice services：提供复杂的语音服务",
         "sophisticated verbal skills：老练的口语表达技能",
         "a sophisticated audience：水平高的（有鉴赏力的）观众"
       ],
-      "definition" : "（机器、装置等）高级、精密的；见多识广的；精明老练的",
-      "examples" : [
-
-      ],
-      "frequency" : 3102,
-      "mnemonic" : "sophist（诡辩家）+ -icated（= -ic + -ate + -d：复合形容词后缀）→像\n诡辩家一样的→老于世故的；老练的；复杂的",
-      "phonetic" : "səˈfɪstɪkeɪtɪd",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "sophisticated"
+      "definition": "（机器、装置等）高级、精密的；见多识广的；精明老练的",
+      "examples": [],
+      "frequency": 3102,
+      "mnemonic": "sophist（诡辩家）+ -icated（= -ic + -ate + -d：复合形容词后缀）→像\n诡辩家一样的→老于世故的；老练的；复杂的",
+      "phonetic": "səˈfɪstɪˌkeɪtɪd",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "sophisticated"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（机器、方法的）精密，复杂；（人的）高度文化修养；精明老练",
-      "examples" : [
-
-      ],
-      "frequency" : 9117,
-      "phonetic" : "səˌfɪs.tɪˈkeɪ.ʃən",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "sophistication"
+      "collocations": [],
+      "definition": "（机器、方法的）精密，复杂；（人的）高度文化修养；精明老练",
+      "examples": [],
+      "frequency": 9117,
+      "phonetic": "səˌfɪstɪˈkeɪʃən",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "sophistication"
     },
     {
-      "collocations" : [
+      "collocations": [
         "religious customs：宗教习俗",
         "a customs officer：海关官员\n20000 词汇巅峰\n速\n记\n笔 记 区",
         "the custom of giving presents at Christmas：在圣诞节赠送礼品的习俗"
       ],
-      "definition" : "风俗；习惯；（顾客对商店的）惠顾；海关（customs）adj. 定做的；量身设计的",
-      "etymology" : "Custom的本意是“习俗、惯例”，而它所包含“海关、关税”是因 为缴纳关税原本是一种惯例。外地商人向当地领主缴纳保护费的做法 是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商 贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典 城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品 征收一定比例的费用。在英国，外地商人进入某地进行商贸活动时， 需要向当地领主缴纳一项例行的入市费，称为customary tolls。因 此，英语单词custom便衍生了“关税”的含义，通常用其复数形式。 后来，custom又可以用来表示征收关税的场所，即海关。",
-      "examples" : [
-
-      ],
-      "frequency" : 3017,
-      "mnemonic" : "c（无意义）+ us（=used）+ to（=to）+ m→be used to：习惯→风俗；",
-      "phonetic" : "ˈkʌstəm",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "custom"
+      "definition": "风俗；习惯；（顾客对商店的）惠顾；海关（customs）adj. 定做的；量身设计的",
+      "etymology": "Custom的本意是“习俗、惯例”，而它所包含“海关、关税”是因 为缴纳关税原本是一种惯例。外地商人向当地领主缴纳保护费的做法 是一种历史悠长的惯例。早在古希腊时代，雅典成为爱琴海沿岸的商 贸中心。外地商人为了保障自己在当地的贸易权利和利益，就向雅典 城邦当局赠送礼物。后来，雅典以使用其港口为名，正式向来往商品 征收一定比例的费用。在英国，外地商人进入某地进行商贸活动时， 需要向当地领主缴纳一项例行的入市费，称为customary tolls。因 此，英语单词custom便衍生了“关税”的含义，通常用其复数形式。 后来，custom又可以用来表示征收关税的场所，即海关。",
+      "examples": [],
+      "frequency": 3017,
+      "mnemonic": "c（无意义）+ us（=used）+ to（=to）+ m→be used to：习惯→风俗；",
+      "phonetic": "ˈkʌs.təm",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "custom"
     },
     {
-      "collocations" : [
-        "take a heavy toll (on sb.\/sth.)\/take its toll (on sb.\/sth.)：产生恶果；造成"
+      "collocations": [
+        "take a heavy toll (on sb./sth.)/take its toll (on sb./sth.)：产生恶果；造成"
       ],
-      "definition" : "（道路、桥梁的）通行费；（战争、灾难等造成的）毁坏；伤亡人数",
-      "examples" : [
-
-      ],
-      "frequency" : 4652,
-      "phonetic" : "toʊl",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "toll"
+      "definition": "（道路、桥梁的）通行费；（战争、灾难等造成的）毁坏；伤亡人数",
+      "examples": [],
+      "frequency": 4652,
+      "phonetic": "toʊl",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "toll"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a toll-free number：免费电话号码"
       ],
-      "definition" : "免费的",
-      "examples" : [
-
-      ],
-      "frequency" : 15437,
-      "phonetic" : "ˈtəulˈfriː",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "toll-free"
+      "definition": "免费的",
+      "examples": [],
+      "frequency": 15437,
+      "phonetic": "ˌtoʊlˈfɹi",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "toll-free"
     },
     {
-      "collocations" : [
+      "collocations": [
         "custom（惠顾）+ -er（表人）→惠顾商店的人→顾客；客户",
         "customer service：客户服务",
         "customer first：客户至上\n单词 custom 表示“定做的；量身设计的”含义时，其派生词有："
       ],
-      "definition" : "顾客；客户",
-      "examples" : [
-
-      ],
-      "frequency" : 1102,
-      "phonetic" : "ˈkʌstəmə",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "customer"
+      "definition": "顾客；客户",
+      "examples": [],
+      "frequency": 1102,
+      "phonetic": "ˈkʌs.tə.mɚ",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "customer"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a custom-made suit：一套定做的套装"
       ],
-      "definition" : "定做的",
-      "examples" : [
-
-      ],
-      "frequency" : 18366,
-      "mnemonic" : "custom（定做的）+ made（制作的）→为客户量身定做的",
-      "phonetic" : "ˈkʌstəmˈmeid",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "custom-made"
+      "definition": "定做的",
+      "examples": [],
+      "frequency": 18366,
+      "mnemonic": "custom（定做的）+ made（制作的）→为客户量身定做的",
+      "phonetic": "ˌkʌs.təmˈmeɪd",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "custom-made"
     },
     {
-      "collocations" : [
+      "collocations": [
         "customize the camera’s basic settings：个性化设定（订制）相机基本设置"
       ],
-      "definition" : "订制；订做；改制（以满足顾主的需要）",
-      "examples" : [
-
-      ],
-      "frequency" : 11699,
-      "phonetic" : "ˈkʌst.ə.maɪ̯z",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "customize"
+      "definition": "订制；订做；改制（以满足顾主的需要）",
+      "examples": [],
+      "frequency": 11699,
+      "phonetic": "ˈkʌs.tə.maɪz",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "customize"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a customized car：按需要订制的汽车"
       ],
-      "definition" : "定制的；用户化的",
-      "examples" : [
-
-      ],
-      "frequency" : 15662,
-      "phonetic" : "ˈkʌstəmaɪzd",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "customized"
+      "definition": "定制的；用户化的",
+      "examples": [],
+      "frequency": 15662,
+      "phonetic": "ˈkʌs.tə.maɪzd",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "customized"
     },
     {
-      "collocations" : [
+      "collocations": [
         "She arranged everything with her customary efficiency.\n她以她特有的高效率把一切都已安排妥当。"
       ],
-      "definition" : "通常的；习惯的；特有的，独特的",
-      "examples" : [
+      "definition": "通常的；习惯的；特有的，独特的",
+      "examples": [
         "Is it customary to tip hairdressers in this country?\n这个国家兴给理发师小费吗？"
       ],
-      "frequency" : 8674,
-      "mnemonic" : "custom（习惯）+ -ary（形容词后缀）→通常的；习惯的\ncustom（定做的）+ -ary（形容词后缀）→为某人所定做的一样→特",
-      "phonetic" : "ˈkʌstəm(ə)ɹi",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "customary"
+      "frequency": 8674,
+      "mnemonic": "custom（习惯）+ -ary（形容词后缀）→通常的；习惯的\ncustom（定做的）+ -ary（形容词后缀）→为某人所定做的一样→特",
+      "phonetic": "ˈkʌs.tə.mɛɹ.i",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "customary"
     },
     {
-      "collocations" : [
-        "accustom oneself\/sb. to sth.：使习惯于……",
+      "collocations": [
+        "accustom oneself/sb. to sth.：使习惯于……",
         "What is worse, students seem to be quite accustomed to such waste and"
       ],
-      "definition" : "使习惯于",
-      "examples" : [
+      "definition": "使习惯于",
+      "examples": [
         "更加糟糕的是，学生似乎非常习惯于这种浪费，还不会感觉到有\n负罪感。\ndon’t have a feeling of guilt."
       ],
-      "frequency" : 7723,
-      "mnemonic" : "ac-（加强语气）+ custom（习惯）→使习惯于",
-      "phonetic" : "əˈkʌstəm",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "accustom"
+      "frequency": 7723,
+      "mnemonic": "ac-（加强语气）+ custom（习惯）→使习惯于",
+      "phonetic": "ə.ˈkʌs.təm",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "accustom"
     },
     {
-      "collocations" : [
-        "to become\/get accustomed to sth.：习惯于某事物",
+      "collocations": [
+        "to become/get accustomed to sth.：习惯于某事物",
         "accustomed seat：惯常坐的座位"
       ],
-      "definition" : "习惯于；通常的",
-      "examples" : [
-
-      ],
-      "frequency" : 8692,
-      "mnemonic" : "accustom（使习惯于）+ -ed（形容词后缀）→习惯于；通常的",
-      "phonetic" : "ə.ˈkʌs.təmd",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "accustomed"
+      "definition": "习惯于；通常的",
+      "examples": [],
+      "frequency": 8692,
+      "mnemonic": "accustom（使习惯于）+ -ed（形容词后缀）→习惯于；通常的",
+      "phonetic": "ə.ˈkʌs.təmd",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "accustomed"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The unaccustomed heat made him weary.\n反常的炎热令他虚弱无力。"
       ],
-      "definition" : "不习惯；不适应；反常的",
-      "examples" : [
+      "definition": "不习惯；不适应；反常的",
+      "examples": [
         "He was unaccustomed to hard work.\n他不习惯艰苦工作。"
       ],
-      "frequency" : 18227,
-      "phonetic" : "ˌʌnəˈkʌstəmd",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "unaccustomed"
+      "frequency": 18227,
+      "phonetic": "ˌʌnəˈkʌstəmd",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "unaccustomed"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a costume designer：戏装设计师",
         "national costume：（某一国家的）民族服装"
       ],
-      "definition" : "（戏剧或电影的）戏装；（某地或某历史时期的）服装",
-      "etymology" : "来自意大利语costume“fashion, habit：时尚；习惯”。 20000 词汇巅峰 速 记 笔 记 区 服装",
-      "examples" : [
-
-      ],
-      "frequency" : 4191,
-      "mnemonic" : "邪记：custom：习惯→costume：（代表）某个时期习惯穿的服装→戏装；",
-      "phonetic" : "ˈkɑs.təm",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "costume"
+      "definition": "（戏剧或电影的）戏装；（某地或某历史时期的）服装",
+      "etymology": "来自意大利语costume“fashion, habit：时尚；习惯”。 20000 词汇巅峰 速 记 笔 记 区 服装",
+      "examples": [],
+      "frequency": 4191,
+      "mnemonic": "邪记：custom：习惯→costume：（代表）某个时期习惯穿的服装→戏装；",
+      "phonetic": "ˈkɑs.tum",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "costume"
     },
     {
-      "collocations" : [
-        "the classical\/contemporary\/popular idiom：古典\/当代\/通俗风格"
+      "collocations": [
+        "the classical/contemporary/popular idiom：古典/当代/通俗风格"
       ],
-      "definition" : "习语；（写作、音乐、艺术等的）典型风格",
-      "etymology" : "来自希腊语idios，个人的，自己的。引申词义个人的生活习惯，个人 的说话方式，后抽象化为习语，习惯。",
-      "examples" : [
+      "definition": "习语；（写作、音乐、艺术等的）典型风格",
+      "etymology": "来自希腊语idios，个人的，自己的。引申词义个人的生活习惯，个人 的说话方式，后抽象化为习语，习惯。",
+      "examples": [
         "‘Let the cat out of the bag’ is an idiom meaning to tell a secret by mistake.\n“让猫从袋子里跑出来”是惯用语，意思是无意中泄露秘密。\n单词 real 的基本含义表示“真的，真实的”。"
       ],
-      "frequency" : 13104,
-      "phonetic" : "ˈɪdɪəm",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "idiom"
+      "frequency": 13104,
+      "phonetic": "ˈɪ.di.əm",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "idiom"
     },
     {
-      "collocations" : [
+      "collocations": [
         "real girlfriend：名副其实的女朋友",
         "real reason：真实的原因",
         "real leather：真皮",
         "a real problem：确实存在的问题\nfor real：确实地；真正地"
       ],
-      "definition" : "真实的；天然的；名副其实的；真切而严重的",
-      "examples" : [
-
-      ],
-      "frequency" : 306,
-      "phonetic" : "ɹiːl",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "real"
+      "definition": "真实的；天然的；名副其实的；真切而严重的",
+      "examples": [],
+      "frequency": 306,
+      "phonetic": "ˈɹi.əl",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "real"
     },
     {
-      "collocations" : [
+      "collocations": [
         "unreal expectations：不切实际的憧憬"
       ],
-      "definition" : "奇异的；不真实的，虚幻的",
-      "examples" : [
-
-      ],
-      "frequency" : 12915,
-      "mnemonic" : "un-（=not：不）+ real（真实的）→不真实的，虚幻的；奇异的",
-      "phonetic" : "ʌnˈɹi.əl",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "unreal"
+      "definition": "奇异的；不真实的，虚幻的",
+      "examples": [],
+      "frequency": 12915,
+      "mnemonic": "un-（=not：不）+ real（真实的）→不真实的，虚幻的；奇异的",
+      "phonetic": "ˌʌnˈɹiəl",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "unreal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "in reality：事实上；实际上",
         "the harsh reality：残酷现实\n20000 词汇巅峰\n速\n记",
         "become reality：变为现实\n笔 记 区"
       ],
-      "definition" : "现实；（尤指令人不快或难对付的）真实情形；真实存在",
-      "examples" : [
-
-      ],
-      "frequency" : 1035,
-      "mnemonic" : "real（真实的）+ -ity（名词后缀）→现实；真实情形；真实存在",
-      "phonetic" : "ɹiˈæləti",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "reality"
+      "definition": "现实；（尤指令人不快或难对付的）真实情形；真实存在",
+      "examples": [],
+      "frequency": 1035,
+      "mnemonic": "real（真实的）+ -ity（名词后缀）→现实；真实情形；真实存在",
+      "phonetic": "ɹiˈæ.lə.ti",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "reality"
     },
     {
-      "collocations" : [
+      "collocations": [
         "real-life events：真实事件",
         "a real-life horror story：一个现实生活中的恐怖故事"
       ],
-      "definition" : "现实生活 adj. 现实生活的",
-      "examples" : [
-
-      ],
-      "frequency" : 7672,
-      "mnemonic" : "real（现实的；真实的）+ life（生活）→现实生活的；现实生活",
-      "phonetic" : "ˈriːəlˈlaɪf",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "real-life"
+      "definition": "现实生活 adj. 现实生活的",
+      "examples": [],
+      "frequency": 7672,
+      "mnemonic": "real（现实的；真实的）+ life（生活）→现实生活的；现实生活",
+      "phonetic": "ˈɹi.əl.laɪf",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "real-life"
     },
     {
-      "collocations" : [
+      "collocations": [
         "I really and truly am in love this time.\n我这一次确确实实是恋爱了。"
       ],
-      "definition" : "事实上，真正地，真实地；（强调观点等）确实，的确",
-      "examples" : [
+      "definition": "事实上，真正地，真实地；（强调观点等）确实，的确",
+      "examples": [
         "Tell me what really happened.\n告诉我究竟（真正）发生了什么事。"
       ],
-      "frequency" : 142,
-      "phonetic" : "ˈɹi.əli",
-      "pos" : "adv.",
-      "rootHint" : "publ",
-      "word" : "really"
+      "frequency": 142,
+      "phonetic": "ˈɹi.ə.li",
+      "pos": "adv.",
+      "rootHint": "publ",
+      "word": "really"
     },
     {
-      "collocations" : [
+      "collocations": [
         "have an edge of realism：带有现实主义的色彩",
         "critical realism：批判现实主义"
       ],
-      "definition" : "现实态度；务实精神；（绘画、小说或电影中的）现实主义",
-      "examples" : [
-
-      ],
-      "frequency" : 7303,
-      "mnemonic" : "real（真实的；现实的）+ -ism（名词后缀，主义；思想）→现实主",
-      "phonetic" : "ɹi.əlɪzm",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "realism"
+      "definition": "现实态度；务实精神；（绘画、小说或电影中的）现实主义",
+      "examples": [],
+      "frequency": 7303,
+      "mnemonic": "real（真实的；现实的）+ -ism（名词后缀，主义；思想）→现实主",
+      "phonetic": "ˈɹi.ə.lɪ.zəm",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "realism"
     },
     {
-      "collocations" : [
+      "collocations": [
         "realist painter：现实主义画家"
       ],
-      "definition" : "现实主义者；务实的人 adj. 现实主义的（画家或作家）",
-      "examples" : [
-
-      ],
-      "frequency" : 10202,
-      "mnemonic" : "real（真实的，现实的）+ -ist（人）→现实的人→现实主义者；现实",
-      "phonetic" : "ˈɹɪəlɪst",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "realist"
+      "definition": "现实主义者；务实的人 adj. 现实主义的（画家或作家）",
+      "examples": [],
+      "frequency": 10202,
+      "mnemonic": "real（真实的，现实的）+ -ist（人）→现实的人→现实主义者；现实",
+      "phonetic": "ˈɹi.ə.lɪst",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "realist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a realistic figure：现实可行的数字",
         "realistic paintings：逼真的绘画"
       ],
-      "definition" : "现实的，务实的；现实可行的；逼真的",
-      "examples" : [
+      "definition": "现实的，务实的；现实可行的；逼真的",
+      "examples": [
         "Police have to be realistic about violent crime.\n警察对暴力犯罪不得不采取务实的态度"
       ],
-      "frequency" : 4032,
-      "mnemonic" : "real（现实的；真实的）+ -istic（形容词后缀，-ist+ -ic）→现实的；",
-      "phonetic" : "ˌɹiːjəˈlɪstɪk",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "realistic"
+      "frequency": 4032,
+      "mnemonic": "real（现实的；真实的）+ -istic（形容词后缀，-ist+ -ic）→现实的；",
+      "phonetic": "ˌɹi.əˈlɪs.tɪk",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "realistic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "unrealistic expectations：不切实际的期望"
       ],
-      "definition" : "不切实际的；不实事求是的",
-      "examples" : [
-
-      ],
-      "frequency" : 8866,
-      "mnemonic" : "un-（=not：不）+ realistic（现实的；务实的）→不切实际的；不实",
-      "phonetic" : "ˌʌnrɪəˈlɪstɪk",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "unrealistic"
+      "definition": "不切实际的；不实事求是的",
+      "examples": [],
+      "frequency": 8866,
+      "mnemonic": "un-（=not：不）+ realistic（现实的；务实的）→不切实际的；不实",
+      "phonetic": "ˌʌnɹiəˈlɪstɪk",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "unrealistic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The film starts off realistically and then develops into a ridiculous fantasy.\n电影开始的时候比较逼真，然后却发展成为荒谬的幻想。"
       ],
-      "definition" : "现实地；务实地；逼真地",
-      "examples" : [
+      "definition": "现实地；务实地；逼真地",
+      "examples": [
         "As an adult, you can assess the situation realistically.\n作为成年人，你可以现实地估量这个局势。"
       ],
-      "frequency" : 11415,
-      "phonetic" : "ˌriːəˈlɪstɪkli",
-      "pos" : "adv.",
-      "rootHint" : "publ",
-      "word" : "realistically"
+      "frequency": 11415,
+      "phonetic": "ˌɹi.əˈlɪs.tɪ.kli",
+      "pos": "adv.",
+      "rootHint": "publ",
+      "word": "realistically"
     },
     {
-      "collocations" : [
+      "collocations": [
         "surreal movies：离奇的电影"
       ],
-      "definition" : "离奇的；超现实的",
-      "examples" : [
-
-      ],
-      "frequency" : 10805,
-      "mnemonic" : "sur-（=over, beyond：超越）+ real（现实的）→超越现实的→离奇",
-      "phonetic" : "səˈriːəl",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "surreal"
+      "definition": "离奇的；超现实的",
+      "examples": [],
+      "frequency": 10805,
+      "mnemonic": "sur-（=over, beyond：超越）+ real（现实的）→超越现实的→离奇",
+      "phonetic": "səˈɹi.əl",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "surreal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "deal with the real-world：应付现实世界"
       ],
-      "definition" : "现实世界；现实生活",
-      "examples" : [
-
-      ],
-      "frequency" : 11996,
-      "mnemonic" : "real（现实的）+ world（世界）→现实世界；现实生活",
-      "phonetic" : "ˈriːəl wɝrld",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "real-world"
+      "definition": "现实世界；现实生活",
+      "examples": [],
+      "frequency": 11996,
+      "mnemonic": "real（现实的）+ world（世界）→现实世界；现实生活",
+      "phonetic": "ˈɹi.əl.wɝld",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "real-world"
     },
     {
-      "collocations" : [
+      "collocations": [
         "real-time language translations：实时语言转换"
       ],
-      "definition" : "（计算机数据处理）实时的",
-      "examples" : [
-
-      ],
-      "frequency" : 12514,
-      "mnemonic" : "real（真实的）+ time（时间）→在真实时间的发生的→实时的",
-      "phonetic" : "ˈɹiːltaɪm",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "real-time"
+      "definition": "（计算机数据处理）实时的",
+      "examples": [],
+      "frequency": 12514,
+      "mnemonic": "real（真实的）+ time（时间）→在真实时间的发生的→实时的",
+      "phonetic": "ˈɹi.əl.taɪm",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "real-time"
     },
     {
-      "collocations" : [
+      "collocations": [
         "come to realize：意识到",
         "realize potential：发挥潜能",
         "realize 2,000 dollars：赚了2000美元"
       ],
-      "definition" : "&vi. 意识到；（希望、渴望或恐惧）变成现实；使成为20000 词汇巅峰速记现实；发挥（潜能）；赚取（指通过出售某物赚钱）",
-      "examples" : [
+      "definition": "&vi. 意识到；（希望、渴望或恐惧）变成现实；使成为20000 词汇巅峰速记现实；发挥（潜能）；赚取（指通过出售某物赚钱）",
+      "examples": [
         "All his worst fears were realized.\n他最担心的事情都变成了现实。"
       ],
-      "frequency" : 621,
-      "mnemonic" : "real-（现实）+ -ize（使动词后缀）→使成为现实；认识；赚取",
-      "phonetic" : "ˈɹi.ə.laɪz",
-      "pos" : "vt.",
-      "rootHint" : "publ",
-      "word" : "realize"
+      "frequency": 621,
+      "mnemonic": "real-（现实）+ -ize（使动词后缀）→使成为现实；认识；赚取",
+      "phonetic": "ˈɹi.ə.laɪz",
+      "pos": "vt.",
+      "rootHint": "publ",
+      "word": "realize"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a growing realization：越来越认识到",
         "the realization of his worst fears：最害怕的事情成为了现实",
         "a total cash realization of：一共赚了……现金"
       ],
-      "definition" : "认识；成为现实；赚取",
-      "examples" : [
-
-      ],
-      "frequency" : 5692,
-      "mnemonic" : "realize（认识；变成现实；赚取）+ -ation（复合名词后缀）→认识；",
-      "phonetic" : "-laɪˈzeɪʃən",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "realization"
+      "definition": "认识；成为现实；赚取",
+      "examples": [],
+      "frequency": 5692,
+      "mnemonic": "realize（认识；变成现实；赚取）+ -ation（复合名词后缀）→认识；",
+      "phonetic": "ˌɹi.ə.ləˈzeɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "realization"
     },
     {
-      "collocations" : [
+      "collocations": [
         "ethereal music：优雅的音乐",
         "her ethereal beauty：她飘逸的美"
       ],
-      "definition" : "优雅的；轻飘的；超凡的",
-      "examples" : [
-
-      ],
-      "frequency" : 15930,
-      "mnemonic" : "ether（=sky：天空）+ -eal（形容词后缀，……的）→即像天空一样\n的→优雅的；轻飘的；超凡的\n邪记：ether（天空）+ real（现实）→在天空中超越现实的→轻飘的；超凡",
-      "phonetic" : "əˈθɪɹ.i.əl",
-      "pos" : "adj.",
-      "rootHint" : "publ",
-      "word" : "ethereal"
+      "definition": "优雅的；轻飘的；超凡的",
+      "examples": [],
+      "frequency": 15930,
+      "mnemonic": "ether（=sky：天空）+ -eal（形容词后缀，……的）→即像天空一样\n的→优雅的；轻飘的；超凡的\n邪记：ether（天空）+ real（现实）→在天空中超越现实的→轻飘的；超凡",
+      "phonetic": "ɪ.ˈθɪɹ.i.əl",
+      "pos": "adj.",
+      "rootHint": "publ",
+      "word": "ethereal"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "房地产经纪人",
-      "examples" : [
-
-      ],
-      "frequency" : 19795,
-      "phonetic" : "ˈɹi(ə)l.tɔɹ",
-      "pos" : "n.",
-      "rootHint" : "publ",
-      "word" : "realtor"
+      "collocations": [],
+      "definition": "房地产经纪人",
+      "examples": [],
+      "frequency": 19795,
+      "phonetic": "ˈɹi.əl.tɚ",
+      "pos": "n.",
+      "rootHint": "publ",
+      "word": "realtor"
     }
   ]
 }

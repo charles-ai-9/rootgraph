@@ -42,7 +42,7 @@
     },
     {
       "word": "misconduct",
-      "phonetic": "mɪskənˈdʌkt",
+      "phonetic": "mɪsˈkɑndʌkt",
       "pos": "n.",
       "definition": "( 尤指雇员或专业人员的)渎职；不端行为；违规行为；管理不善；玩忽职守",
       "frequency": 9112,
@@ -66,7 +66,7 @@
     },
     {
       "word": "semiconductor",
-      "phonetic": "ˌsemikənˈdʌktər",
+      "phonetic": "ˌsɛmikənˈdʌktɚ",
       "pos": "n.",
       "definition": "半导体",
       "frequency": 8921,
@@ -80,7 +80,7 @@
     },
     {
       "word": "superconducting",
-      "phonetic": "sjuːpəkənˈdʌktɪŋ",
+      "phonetic": "ˌsu.pɚ.kənˈdʌk.tɪŋ",
       "pos": "adj.",
       "definition": "超导(电)的，无电阻率的，使用 无电阻物质的",
       "frequency": 19585,
@@ -94,7 +94,7 @@
     },
     {
       "word": "conduit",
-      "phonetic": "ˈkɑnd(j)ʊɪt",
+      "phonetic": "ˈkɑnduɪt",
       "pos": "n.",
       "definition": "( 液体、气体或电线的)管道，导管；[传递 想法、新闻、金钱、武器、毒品等的]渠道，通道",
       "frequency": 12418,
@@ -108,7 +108,7 @@
     },
     {
       "word": "conducive",
-      "phonetic": "kənˈdjuːsɪv",
+      "phonetic": "kənˈdusɪv",
       "pos": "adj.",
       "definition": "有助于某事；有益于某事",
       "frequency": 11286,
@@ -122,7 +122,7 @@
     },
     {
       "word": "deduce",
-      "phonetic": "dɪˈduːs",
+      "phonetic": "dɪˈdus",
       "pos": "vt.",
       "definition": "推论，推断；演绎",
       "frequency": 13706,
@@ -137,7 +137,7 @@
     },
     {
       "word": "deduct",
-      "phonetic": "dɪˈdʊkt",
+      "phonetic": "dɪ.ˈdʌkt",
       "pos": "vt.",
       "definition": "扣除，减去；演绎",
       "frequency": 11591,
@@ -151,7 +151,7 @@
     },
     {
       "word": "deductible",
-      "phonetic": "[dɪˈdʊktəbəɫ]",
+      "phonetic": "dɪ.ˈdʌk.tə.bəl",
       "pos": "adj.",
       "definition": "可扣除的；可减免的；免赔额",
       "frequency": 14357,
@@ -166,7 +166,7 @@
     },
     {
       "word": "deduction",
-      "phonetic": "dɪˈdʌkʃən",
+      "phonetic": "dɪ.ˈdʌk.ʃən",
       "pos": "n.",
       "definition": "扣除额；推演出来的结论；演绎；推论",
       "frequency": 7141,
@@ -181,7 +181,7 @@
     },
     {
       "word": "duke",
-      "phonetic": "d(j)uːk",
+      "phonetic": "duk",
       "pos": "n.",
       "definition": "公爵；(尤指旧时欧洲部分地区小公国的)君主",
       "frequency": 13528,
@@ -194,7 +194,7 @@
     },
     {
       "word": "educate",
-      "phonetic": "ˈɛdʒəkeɪt",
+      "phonetic": "ˈɛ.dʒə.keɪt",
       "pos": "vt.",
       "definition": "( 在学校)教育；教导；教养；训练",
       "frequency": 3059,
@@ -218,7 +218,7 @@
     },
     {
       "word": "cultivation",
-      "phonetic": "ˌkʌltɪˈveɪʃən",
+      "phonetic": "ˌkʌl.təˈveɪ.ʃən",
       "pos": "n.",
       "definition": "开垦；耕作；栽培；种植；(某种素质或技能 的)培养",
       "frequency": 9600,
@@ -233,7 +233,7 @@
     },
     {
       "word": "educated",
-      "phonetic": "ˈɛdjuːkeɪtɪd",
+      "phonetic": "ˈɛ.dʒə.keɪ.tɪd",
       "pos": "adj.",
       "definition": "受过良好教育的；有教养的",
       "frequency": 6023,
@@ -246,7 +246,7 @@
     },
     {
       "word": "education",
-      "phonetic": "ˌɛdjʊˈkeɪʃn̩",
+      "phonetic": "ˌɛ.dʒəˈkeɪ.ʃən",
       "pos": "n.",
       "definition": "( 学校的)教育；(某 一 学科的)教育；教育机 构；教育界人士",
       "frequency": 377,
@@ -260,7 +260,7 @@
     },
     {
       "word": "educational",
-      "phonetic": "ˌɛdʒʊˈkeɪʃənəl",
+      "phonetic": "ˌɛ.dʒəˈkeɪ.ʃə.nəl",
       "pos": "adj.",
       "definition": "教育的；有教育意义的",
       "frequency": 1596,
@@ -273,7 +273,7 @@
     },
     {
       "word": "educator",
-      "phonetic": "ˈɛdjʊkeɪtə",
+      "phonetic": "ˈɛ.dʒə.keɪ.tɚ",
       "pos": "n.",
       "definition": "教育者；教育家",
       "frequency": 2450,
@@ -286,7 +286,7 @@
     },
     {
       "word": "induce",
-      "phonetic": "ɪnˈduːs",
+      "phonetic": "ɪnˈdus",
       "pos": "vt.",
       "definition": "引起；引诱；劝说；用人工方法引(产)5326",
       "mnemonic": "in-(=into: 人，向内)+-duce(=to lead: 引导；带领)→ 向里面引\n导、带领 → 引起；引诱；招致(即：“引狼入室”);诱因 搭配：induce sb to do sth: 引诱、劝说某人干……",
@@ -304,7 +304,7 @@
     },
     {
       "word": "inducement",
-      "phonetic": "ɪnˈdjuːsmənt",
+      "phonetic": "ɪnˈdus.mənt",
       "pos": "n.",
       "definition": "引诱；刺激；诱因",
       "frequency": 17568,
@@ -317,7 +317,7 @@
     },
     {
       "word": "abduct",
-      "phonetic": "æbˈdəkt",
+      "phonetic": "æb.ˈdʌkt",
       "pos": "vt.",
       "definition": "诱拐；劫持；绑架",
       "frequency": 11732,
@@ -331,7 +331,7 @@
     },
     {
       "word": "abductor",
-      "phonetic": "æbˈdʌk.tə",
+      "phonetic": "æb.ˈdʌk.tɚ",
       "pos": "n.",
       "definition": "诱拐者；劫持者；绑匪",
       "mnemonic": "abduct (诱拐；劫持；绑架)+-or ( 名词后缀，表示人)→诱拐者； 劫持者；绑匪",
@@ -343,7 +343,7 @@
     },
     {
       "word": "abduction",
-      "phonetic": "əbˈdʌk.ʃn̩",
+      "phonetic": "æb.ˈdʌk.ʃən",
       "pos": "n.",
       "definition": "绑架；拐骗；劫持",
       "frequency": 11329,
@@ -371,7 +371,7 @@
     },
     {
       "word": "induction",
-      "phonetic": "ɪnˈdʌkʃən",
+      "phonetic": "ɪnˈdʌk.ʃən",
       "pos": "n.",
       "definition": "入门；就职仪式；归纳；电磁感应现象",
       "frequency": 10979,
@@ -385,7 +385,7 @@
     },
     {
       "word": "introduce",
-      "phonetic": "ˌɪntɹəˈdus",
+      "phonetic": "ˌɪn.tɹəˈdus",
       "pos": "vt.",
       "definition": "引进；介绍；使初次接触；为(电视或广播节目) 作开场白；主持",
       "frequency": 1230,
@@ -405,7 +405,7 @@
     },
     {
       "word": "introduction",
-      "phonetic": "ˌɪntɹəˈdʌkʃən",
+      "phonetic": "ˌɪn.tɹəˈdʌk.ʃən",
       "pos": "n.",
       "definition": "采用；引进；(正式的)介绍，引见；初 次经历；首次体验；书；讲话；初级读物；入门课程；前奏",
       "frequency": 2926,
@@ -419,7 +419,7 @@
     },
     {
       "word": "Introductory",
-      "phonetic": "ˌɪntrəˈdʌktəri",
+      "phonetic": "ˌɪn.tɹəˈdʌk.tɚ.i",
       "pos": "adj.",
       "definition": "引言的；(新品)促销的，特惠的",
       "frequency": 9090,
@@ -433,7 +433,7 @@
     },
     {
       "word": "product",
-      "phonetic": "ˈpɹɑd.əkt",
+      "phonetic": "ˈpɹɑ.dəkt",
       "pos": "n.",
       "definition": "产品；产物；结果；(自然、化学或工业过程的)生 成物；乘积",
       "frequency": 570,
@@ -446,7 +446,7 @@
     },
     {
       "word": "by-product",
-      "phonetic": "baɪ ˈprɑdʌkt",
+      "phonetic": "ˈbaɪˌpɹɑdʌkt",
       "pos": "n.",
       "definition": "副产品；附带产生的结果",
       "frequency": 9215,
@@ -459,7 +459,7 @@
     },
     {
       "word": "productive",
-      "phonetic": "pɹəˈdʌktɪv",
+      "phonetic": "pɹəˈdʌk.tɪv",
       "pos": "adj.",
       "definition": "生产力高的；富有成效的；有益的；创造…… 的；生产……的",
       "frequency": 4006,
@@ -475,7 +475,7 @@
     },
     {
       "word": "unproductive",
-      "phonetic": "ˌʌnprəˈdʌktɪv",
+      "phonetic": "ˌʌnpɹəˈdʌktɪv",
       "pos": "adj.",
       "definition": "产量少的；效果不佳的；无益的",
       "frequency": 18089,
@@ -490,7 +490,7 @@
     },
     {
       "word": "counterproductive",
-      "phonetic": "ˌkaʊntəprəˈdʌktɪv",
+      "phonetic": "ˌkaʊn.tɚ.pɹəˈdʌk.tɪv",
       "pos": "adj.",
       "definition": "产生相反效果；事与愿违；适得 其反",
       "frequency": 11814,
@@ -503,7 +503,7 @@
     },
     {
       "word": "production",
-      "phonetic": "pɹəˈdʌkʃən",
+      "phonetic": "pɹəˈdʌk.ʃən",
       "pos": "n.",
       "definition": "生产；产量；生成；(戏剧、电影、节目等的) 制作；演出；凭某物的出示",
       "frequency": 962,
@@ -517,7 +517,7 @@
     },
     {
       "word": "productivity",
-      "phonetic": "ˌpɹoʊdʌkˈtɪvəti",
+      "phonetic": "ˌpɹoʊ.dəkˈtɪv.ə.ti",
       "pos": "n.",
       "definition": "生产力；生产率；生产能力",
       "frequency": 4197,
@@ -532,7 +532,7 @@
     },
     {
       "word": "produce",
-      "phonetic": "ˈpɹoʊ.dus",
+      "phonetic": "pɹəˈdus",
       "pos": "vt.",
       "definition": "生产；出产；繁育；(运用技巧)制 作；引起；展现；培养；制作，拍摄(电影、戏剧等);监督",
       "frequency": 543,
@@ -546,7 +546,7 @@
     },
     {
       "word": "producer",
-      "phonetic": "pɹəˈdjuːsə",
+      "phonetic": "pɹəˈdu.sɚ",
       "pos": "n.",
       "definition": "(戏剧、电影、节目、唱片等的)制作人；(食品、材 料等的)生产者；生产国",
       "frequency": 1859,
@@ -560,7 +560,7 @@
     },
     {
       "word": "reproduce",
-      "phonetic": "ˌɹi.pɹoʊˈdus",
+      "phonetic": "ˌɹi.pɹəˈdus",
       "pos": "vt.",
       "definition": "复制；再造；复印；重演；生育；繁殖",
       "frequency": 5044,
@@ -574,7 +574,7 @@
     },
     {
       "word": "reproduction",
-      "phonetic": "ˌriːprəˈdʌkʃn",
+      "phonetic": "ˌɹi.pɹəˈdʌk.ʃən",
       "pos": "n.",
       "definition": "繁殖；复制；再版；(艺术品、 家具等 的)复制品",
       "frequency": 5739,
@@ -589,7 +589,7 @@
     },
     {
       "word": "reproductive",
-      "phonetic": "ˌriːprəˈdʌktɪv",
+      "phonetic": "ˌɹi.pɹəˈdʌk.tɪv",
       "pos": "adj.",
       "definition": "生殖的，繁殖的；翻印的，复制的",
       "frequency": 5951,
@@ -602,7 +602,7 @@
     },
     {
       "word": "mass-produced",
-      "phonetic": ".mæs prəˈdjuːst",
+      "phonetic": "ˌmæs.pɹəˈdust",
       "pos": "adj.",
       "definition": "( 用机器)大规模生产的，大批量生产 的",
       "frequency": 18849,
@@ -615,7 +615,7 @@
     },
     {
       "word": "reduce",
-      "phonetic": "ɹɪˈduːs",
+      "phonetic": "ɹɪˈdus",
       "pos": "vt.",
       "definition": "使变小；使陷入；迫使；使变成；使简化为；使变稠；收汁；使……流泪",
       "frequency": 702,
@@ -631,7 +631,7 @@
     },
     {
       "word": "reduced",
-      "phonetic": "ɹɪˈdjust",
+      "phonetic": "ɹɪˈdust",
       "pos": "adj.",
       "definition": "减少的；简化的；缩减的",
       "frequency": 6114,
@@ -644,7 +644,7 @@
     },
     {
       "word": "reduction",
-      "phonetic": "ɹiˈdɑk.ʃən",
+      "phonetic": "ɹɪˈdʌk.ʃən",
       "pos": "n.",
       "definition": "减少；下降；(尺寸、数量或程度上的)削减",
       "frequency": 2290,
@@ -672,7 +672,7 @@
     },
     {
       "word": "subdue",
-      "phonetic": "səbˈdjuː",
+      "phonetic": "səbˈdu",
       "pos": "vt.",
       "definition": "制服；征服；克制(感情)12976",
       "mnemonic": "sub-(under,below; 在……以下；低于)+ due( =duc-=to lead: 引\n导)→引导……使其低于……→制服；征服；克制(感情)",
@@ -698,7 +698,7 @@
     },
     {
       "word": "seduce",
-      "phonetic": "sɪˈd(j)uːs",
+      "phonetic": "sɪˈdus",
       "pos": "vt.",
       "definition": "引诱；诱惑；诱奸；怂恿",
       "frequency": 8781,
@@ -709,7 +709,7 @@
     },
     {
       "word": "seduction",
-      "phonetic": "sɪˈdʌk.ʃn̩",
+      "phonetic": "sɪˈdʌkʃən",
       "pos": "n.",
       "definition": "诱奸；勾引；(常常对人产生不良影响的)诱 惑；吸引力",
       "frequency": 12718,
@@ -739,7 +739,7 @@
     },
     {
       "word": "transducer",
-      "phonetic": "trænzˈdjuːsər",
+      "phonetic": "tɹænzˈdusɚ",
       "pos": "n.",
       "definition": "换能器；变换器；传感器",
       "frequency": 17554,
@@ -771,7 +771,7 @@
     },
     {
       "word": "team",
-      "phonetic": "tiːm",
+      "phonetic": "tim",
       "pos": "n.",
       "definition": "( 游戏或体育运动的)队，小组；团队；工作组",
       "frequency": 308,
@@ -785,7 +785,7 @@
     },
     {
       "word": "teammate",
-      "phonetic": "ˈtiːmˌmeɪt",
+      "phonetic": "ˈtim.meɪt",
       "pos": "n.",
       "definition": "队友；同队队员",
       "frequency": 4281,
@@ -798,7 +798,7 @@
     },
     {
       "word": "teamwork",
-      "phonetic": "ˈtiːmwɜrk",
+      "phonetic": "ˈtim.wɝk",
       "pos": "n.",
       "definition": "协力；配合；团队协作能力",
       "frequency": 12135,
@@ -812,7 +812,7 @@
     },
     {
       "word": "teeming",
-      "phonetic": "ˈtiːmɪŋ",
+      "phonetic": "ˈti.mɪŋ",
       "pos": "adj.",
       "definition": "充满(移动着的人、动物等)的；拥挤的；万头攒动 的；(雨)倾盆而下的",
       "frequency": 14247,

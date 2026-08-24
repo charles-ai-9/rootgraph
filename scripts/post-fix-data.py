@@ -258,6 +258,33 @@ def split_trib_from_forc() -> None:
         print(f"  post-fix: forc 族移除 {before - len(forc['words'])} 个 trib 词")
 
 
+def apply_american_phonetics() -> None:
+    """全库音标替换为美式 IPA（scripts/manual-data/phonetic-american.json，AI 生成，幂等重放）"""
+    table_path = MANUAL_DATA / "phonetic-american.json"
+    if not table_path.exists():
+        return
+    table = json.loads(table_path.read_text(encoding="utf-8"))
+    if isinstance(table, list):
+        table = {e["word"]: e["ipa"] for e in table}
+    replaced = 0
+    for p in sorted((ROOT / "data").glob("textbook-*/*.json")):
+        if p.name == "index.json":
+            continue
+        fam = load(p)
+        changed = False
+        for w in fam.get("words", []):
+            key = w.get("word", "").strip().lower()
+            ipa = table.get(key)
+            if ipa and w.get("phonetic") != ipa:
+                w["phonetic"] = ipa
+                replaced += 1
+                changed = True
+        if changed:
+            save(p, fam)
+    if replaced:
+        print(f"  post-fix: 替换 {replaced} 个词条音标为美式 IPA")
+
+
 def main() -> None:
     ensure_ics_family()
     remove_misclassified()
@@ -266,6 +293,7 @@ def main() -> None:
     split_trib_from_forc()
     ensure_family_metadata()
     remove_null_fields()
+    apply_american_phonetics()
     print("post-fix 完成")
 
 

@@ -14,7 +14,7 @@
   "words": [
     {
       "word": "acquire",
-      "phonetic": "əˈkwaɪɹ",
+      "phonetic": "ə.ˈkwaɪɚ",
       "pos": "vt.",
       "definition": "购得；获得；学到(知识、技能)2079",
       "mnemonic": "ac-(=ad- : 去；表强调)+-quir-(=to seek to obtain: 寻求获得)+ e→gain ,earn,procure: 获得；得到；赚得；购买→购得；获得；学到",
@@ -32,7 +32,7 @@
     },
     {
       "word": "acquired",
-      "phonetic": "əˈkwaɪɹd",
+      "phonetic": "ə.ˈkwaɪɚd",
       "pos": "adj.",
       "definition": "后天获得(习得)的",
       "frequency": 15638,
@@ -45,7 +45,7 @@
     },
     {
       "word": "acquisition",
-      "phonetic": "æ.kwɪ.ˈzɪ.ʃən",
+      "phonetic": "ˌæk.wəˈzɪ.ʃən",
       "pos": "n.",
       "definition": "收购；获得；习得",
       "frequency": 3893,
@@ -75,7 +75,7 @@
     },
     {
       "word": "conquering",
-      "phonetic": "ˈkɔŋkərɪŋ",
+      "phonetic": "ˈkɑŋkɚɪŋ",
       "pos": "n.",
       "definition": "征服",
       "frequency": 20163,
@@ -100,7 +100,7 @@
     },
     {
       "word": "conquest",
-      "phonetic": "ˈkɑnkwəst",
+      "phonetic": "ˈkɑŋkwɛst",
       "pos": "n.",
       "definition": "征服；克服",
       "frequency": 7790,

@@ -1,45 +1,39 @@
 {
-  "chapter" : "25",
-  "chapterOrder" : 125,
-  "id" : "rog",
-  "meaningEn" : "reg-，表示",
-  "meaningZh" : "move in straight line：横着走。",
-  "roots" : [
+  "chapter": "25",
+  "chapterOrder": 125,
+  "id": "rog",
+  "meaningEn": "reg-，表示",
+  "meaningZh": "move in straight line：横着走。",
+  "roots": [
     "rog"
   ],
-  "semanticLabel" : "move in straight line：横着走。",
-  "source" : "textbook-6",
-  "titleZh" : "move in straight line：横着走。",
-  "words" : [
+  "semanticLabel": "move in straight line：横着走。",
+  "source": "textbook-6",
+  "titleZh": "move in straight line：横着走。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "sound arrogant：听起来很傲慢"
       ],
-      "definition" : "傲慢的；自大的",
-      "examples" : [
-
-      ],
-      "frequency" : 7741,
-      "mnemonic" : "ar-（=to）+ rog-（横着走）+ -ant（横着走的）→横着走路的→傲慢",
-      "phonetic" : "ˈæɹəɡənt",
-      "pos" : "adj.",
-      "rootHint" : "rog",
-      "word" : "arrogant"
+      "definition": "傲慢的；自大的",
+      "examples": [],
+      "frequency": 7741,
+      "mnemonic": "ar-（=to）+ rog-（横着走）+ -ant（横着走的）→横着走路的→傲慢",
+      "phonetic": "ˈæɹəɡənt",
+      "pos": "adj.",
+      "rootHint": "rog",
+      "word": "arrogant"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "傲慢；自大",
-      "examples" : [
-
-      ],
-      "frequency" : 8366,
-      "mnemonic" : "arrog（=arrogant：傲慢的）+ -ance（名词后缀）→傲慢；自大",
-      "phonetic" : "ˈæɹ.oʊ.ɡəns",
-      "pos" : "n.",
-      "rootHint" : "rog",
-      "word" : "arrogance"
+      "collocations": [],
+      "definition": "傲慢；自大",
+      "examples": [],
+      "frequency": 8366,
+      "mnemonic": "arrog（=arrogant：傲慢的）+ -ance（名词后缀）→傲慢；自大",
+      "phonetic": "ˈæɹəɡəns",
+      "pos": "n.",
+      "rootHint": "rog",
+      "word": "arrogance"
     }
   ]
 }

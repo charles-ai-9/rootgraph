@@ -57,7 +57,7 @@
       "examples": [],
       "frequency": 10841,
       "mnemonic": "force (力量；强力) +ful (形容词后缀) +ly (副词性后缀) →强有力地",
-      "phonetic": "ˈfɔrsfəli",
+      "phonetic": "ˈfɔɹsfəli",
       "pos": "adv.",
       "rootHint": "forc",
       "word": "forcefully"
@@ -68,7 +68,7 @@
       "examples": [],
       "frequency": 13723,
       "mnemonic": "force (力量；强力) +ible (能够……的) +ly (副词性后缀) →强制地；用",
-      "phonetic": "ˈfɔsəbli",
+      "phonetic": "ˈfɔɹsəbli",
       "pos": "adv.",
       "rootHint": "forc",
       "word": "forcibly"
@@ -87,7 +87,7 @@
       "examples": [],
       "frequency": 6718,
       "mnemonic": "work (工作，劳动) +force (力量) → 用于劳动的力量→劳动力；工人",
-      "phonetic": "ˈwɝkfɔs",
+      "phonetic": "ˈwɝk.fɔɹs",
       "pos": "n.",
       "rootHint": "forc",
       "word": "workforce"
@@ -102,7 +102,7 @@
       ],
       "frequency": 3360,
       "mnemonic": "re (又，再) +in (加入) +force (力量，部队) →又注入力量，部队→增",
-      "phonetic": "ˌɹiːɪnˈfɔ(ɹ)s",
+      "phonetic": "ˌɹi.ɪnˈfɔɹs",
       "pos": "vt.",
       "rootHint": "forc",
       "word": "reinforce"
@@ -113,7 +113,7 @@
       "examples": [],
       "frequency": 7639,
       "mnemonic": "re (又，再) +in (加入) +force (力量，部队) +ment (名词性后缀) →又注\n入力量，部队→增援，加强",
-      "phonetic": "ˌɹiːɪnˈfɔ(ɹ)smənt",
+      "phonetic": "ˌɹi.ɪnˈfɔɹs.mənt",
       "pos": "n.",
       "rootHint": "forc",
       "word": "reinforcement"
@@ -129,7 +129,7 @@
       ],
       "frequency": 3579,
       "mnemonic": "en (使动词) +force (力量，效力) →使 (法律等) 生效，实施",
-      "phonetic": "ɪnˈfɔɹs",
+      "phonetic": "ɪn.ˈfɔɹs",
       "pos": "vt.",
       "rootHint": "forc",
       "word": "enforce"
@@ -140,7 +140,7 @@
       "examples": [],
       "frequency": 19992,
       "mnemonic": "en (使动词) +force (力量，效力) +able (形容词性后缀，表示“可\n以……的，能……的”) → 能够实施的，能够产生效力的，可以执",
-      "phonetic": "ɪnˈforsəbl",
+      "phonetic": "ɪn.ˈfɔɹ.sə.bəl",
       "pos": "adj.",
       "rootHint": "forc",
       "word": "enforceable"
@@ -151,7 +151,7 @@
       "examples": [],
       "frequency": 18046,
       "mnemonic": "en (使动词) +force (力量，效力) +ed (表示动作完成的形容词性后缀)\n→强制执行的；实施的",
-      "phonetic": "ɪnˈfɔɹst",
+      "phonetic": "ɪn.ˈfɔɹst",
       "pos": "adj.",
       "rootHint": "forc",
       "word": "enforced"
@@ -162,7 +162,7 @@
       "examples": [],
       "frequency": 2308,
       "mnemonic": "en (使动词) +force (力量，效力) +ment (名词性后缀) → 执行，实施；",
-      "phonetic": "enˈfɔsm(ə)nt",
+      "phonetic": "ɪn.ˈfɔɹs.mənt",
       "pos": "n.",
       "rootHint": "forc",
       "word": "enforcement"
@@ -173,7 +173,7 @@
       "examples": [],
       "frequency": 17650,
       "mnemonic": "en (使动词) +force (力量，效力) +er (表示人的名词性后缀) →实施",
-      "phonetic": "ɪnˈfɔrsɚ",
+      "phonetic": "ɪn.ˈfɔɹ.sɚ",
       "pos": "n.",
       "rootHint": "forc",
       "word": "enforcer"
@@ -203,7 +203,7 @@
       "examples": [],
       "frequency": 13155,
       "mnemonic": "fort (=force：力量) +ify (使动词后缀) →使加强力量→加强；增强",
-      "phonetic": "ˈfɔɹtɪfaɪ",
+      "phonetic": "ˈfɔɹ.tə.faɪ",
       "pos": "vt.",
       "rootHint": "fort",
       "word": "fortify"
@@ -214,7 +214,7 @@
       "examples": [],
       "frequency": 16065,
       "mnemonic": "fort (力量) +ify (使动词后缀) +ed (表示动作完成的形容词性后缀) →\n使加强力量的→ 加强的",
-      "phonetic": "ˈfɔɹtɪfaɪd",
+      "phonetic": "ˈfɔɹ.tə.faɪd",
       "pos": "adj.",
       "rootHint": "fort",
       "word": "fortified"
@@ -225,7 +225,7 @@
       "examples": [],
       "frequency": 18263,
       "mnemonic": "fort (力量；堡垒；要塞) +ify (使动词后缀) +ic (无意义) +ation (名词\n性后缀) →加强；设防；防御工事",
-      "phonetic": "ˌfɔ(ɹ)tɪfəˈkeɪʃən",
+      "phonetic": "ˌfɔɹ.tə.fɪˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "fort",
       "word": "fortification"
@@ -254,7 +254,7 @@
       "examples": [],
       "frequency": 17924,
       "mnemonic": "fort (力量) +itude (表示状态的名词性后缀) → 表示人有力量的状态→",
-      "phonetic": "ˈfɔtɪtjuːd",
+      "phonetic": "ˈfɔɹ.tə.tud",
       "pos": "n.",
       "rootHint": "fort",
       "word": "fortitude"
@@ -273,7 +273,7 @@
       ],
       "frequency": 2951,
       "mnemonic": "com (加强语气) +fort (=force：力量；strong：坚强，强壮) →给你增\n加力量，变得更坚强→安慰，慰藉",
-      "phonetic": "ˈkʌm.fəɹt",
+      "phonetic": "ˈkʌmfɚt",
       "pos": "n.",
       "rootHint": "fort",
       "word": "comfort"
@@ -284,7 +284,7 @@
       "examples": [],
       "frequency": 17068,
       "mnemonic": "comfort (安慰，慰藉) +er (表示人或物的名词性后缀) → 安慰者；(美)",
-      "phonetic": "ˈkʌmfətə",
+      "phonetic": "ˈkʌmfɚtɚ",
       "pos": "n.",
       "rootHint": "fort",
       "word": "comforter"
@@ -295,7 +295,7 @@
       "examples": [],
       "frequency": 7893,
       "mnemonic": "comfort (安慰，慰藉) +ing (表示令人……的形容词性后缀) → 安慰",
-      "phonetic": "ˈkʌmfətɪŋ",
+      "phonetic": "ˈkʌmfɚtɪŋ",
       "pos": "adj.",
       "rootHint": "fort",
       "word": "comforting"
@@ -306,7 +306,7 @@
       "examples": [],
       "frequency": 1713,
       "mnemonic": "comfort (舒适，舒服) +able (形容词性后缀，表示“能够……的”) →",
-      "phonetic": "ˈkʌm.fə.tə.bəl",
+      "phonetic": "ˈkʌmftɚbəl",
       "pos": "adj.",
       "rootHint": "fort",
       "word": "comfortable"
@@ -317,7 +317,7 @@
       "examples": [],
       "frequency": 3674,
       "mnemonic": "un (否定性前缀) +comfortable (舒适的，舒服的) →不安的；不舒服的",
-      "phonetic": "ʌnˈkʌm.fɚ.tə.bəl",
+      "phonetic": "ʌnˈkʌmfɚtəbəl",
       "pos": "adj.",
       "rootHint": "fort",
       "word": "uncomfortable"
@@ -339,7 +339,7 @@
       "examples": [],
       "frequency": 13086,
       "mnemonic": "un (否定性前缀) +comfortably (舒服地；安乐地) →不舒服地；不安",
-      "phonetic": "ʌnˈkʌmftəbli",
+      "phonetic": "ʌnˈkʌmfɚtəbli",
       "pos": "adv.",
       "rootHint": "fort",
       "word": "uncomfortably"
@@ -350,7 +350,7 @@
       "examples": [],
       "frequency": 6552,
       "mnemonic": "dis (否定性前缀) +comfort (舒适，舒服) →不适，不安；不便之处",
-      "phonetic": "dɪsˈkʌmfət",
+      "phonetic": "dɪs.ˈkʌm.fɚt",
       "pos": "n.",
       "rootHint": "fort",
       "word": "discomfort"
@@ -369,7 +369,7 @@
       ],
       "frequency": 455,
       "mnemonic": "ef (=ex：出去) +fort (=force：力量) → (花) 出去了力量→ (付出了) 努",
-      "phonetic": "ˈɛfɚt",
+      "phonetic": "ˈɛ.fɚt",
       "pos": "n.",
       "rootHint": "fort",
       "word": "effort"
@@ -380,7 +380,7 @@
       "examples": [],
       "frequency": 15672,
       "mnemonic": "effort (努力) +less (否定后缀) → 没有付出努力的，不需要付出努力的\n→容易的；不费力气的",
-      "phonetic": "ˈefətlɪs",
+      "phonetic": "ˈɛ.fɚt.ləs",
       "pos": "adj.",
       "rootHint": "fort",
       "word": "effortless"
@@ -391,7 +391,7 @@
       "examples": [],
       "frequency": 13489,
       "mnemonic": "effortless (容易的；不费力的) +ly (副词性后缀) →容易地；不费力",
-      "phonetic": "ˈef.ət.ləs.li",
+      "phonetic": "ˈɛ.fɚt.ləs.li",
       "pos": "adv.",
       "rootHint": "fort",
       "word": "effortlessly"

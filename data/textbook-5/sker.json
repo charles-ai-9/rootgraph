@@ -1,169 +1,155 @@
 {
-  "chapter" : "17",
-  "chapterOrder" : 117,
-  "id" : "sker",
-  "meaningEn" : "to cut",
-  "meaningZh" : "切，一般在1741年之前，专门用于指大脑皮层。",
-  "roots" : [
+  "chapter": "17",
+  "chapterOrder": 117,
+  "id": "sker",
+  "meaningEn": "to cut",
+  "meaningZh": "切，一般在1741年之前，专门用于指大脑皮层。",
+  "roots": [
     "sker"
   ],
-  "semanticLabel" : "切，一般在1741年之前，专门用于指大脑皮层。",
-  "source" : "textbook-5",
-  "titleZh" : "切，一般在1741年之前，专门用于指大脑皮层。",
-  "words" : [
+  "semanticLabel": "切，一般在1741年之前，专门用于指大脑皮层。",
+  "source": "textbook-5",
+  "titleZh": "切，一般在1741年之前，专门用于指大脑皮层。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a scar on his forehead：前额上有个伤疤",
         "a deep scar：深深的创伤",
         "scar him forever：永远给他留下心灵创伤"
       ],
-      "definition" : "在……留下伤疤；留下损伤痕迹；给……留下精神创伤 n. 伤疤；断崖；（肉体或情感上的）创伤",
-      "examples" : [
+      "definition": "在……留下伤疤；留下损伤痕迹；给……留下精神创伤 n. 伤疤；断崖；（肉体或情感上的）创伤",
+      "examples": [
         "The arena was scarred by deep muddy ruts.\n竞技场上留下了深深的车辙泥痕。"
       ],
-      "frequency" : 5083,
-      "mnemonic" : "share（分享）和sharp（锋利的）都包含shar-， shar-的本义是\n“切”→将shar-进行h、c音变→scar（伤疤；在……留下伤疤）",
-      "phonetic" : "skɑɹ",
-      "pos" : "vt.",
-      "rootHint" : "sker",
-      "word" : "scar"
+      "frequency": 5083,
+      "mnemonic": "share（分享）和sharp（锋利的）都包含shar-， shar-的本义是\n“切”→将shar-进行h、c音变→scar（伤疤；在……留下伤疤）",
+      "phonetic": "ˈskɑɹ",
+      "pos": "vt.",
+      "rootHint": "sker",
+      "word": "scar"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a bullet-scarred bus：弹痕累累的公共汽车",
         "a lightning-scarred tree：遭雷击的树",
         "battle-scarred soldiers：留下战争创伤的战士们\n20000 词汇巅峰\n速\n记\n笔 记 区",
         "a war-scarred orphan：留下战争创伤的孤儿"
       ],
-      "definition" : "（用于bullet，fire等名词后构成形容词）表示“留下……伤痕的；被……损坏的”；（用于battle 或 drug 等名词后构成形容词）表示“留下……创伤的”",
-      "examples" : [
-
-      ],
-      "frequency" : 19057,
-      "phonetic" : "skɑ(ɹ)d",
-      "pos" : "adj.",
-      "rootHint" : "sker",
-      "word" : "scarred"
+      "definition": "（用于bullet，fire等名词后构成形容词）表示“留下……伤痕的；被……损坏的”；（用于battle 或 drug 等名词后构成形容词）表示“留下……创伤的”",
+      "examples": [],
+      "frequency": 19057,
+      "phonetic": "ˈskɑɹd",
+      "pos": "adj.",
+      "rootHint": "sker",
+      "word": "scarred"
     },
     {
-      "collocations" : [
-        "a woollen \/ silk scarf：羊毛 \/ 丝绸围巾"
+      "collocations": [
+        "a woollen / silk scarf：羊毛 / 丝绸围巾"
       ],
-      "definition" : "围巾；（木材，金属，皮革的）嵌接",
-      "examples" : [
-
-      ],
-      "frequency" : 6226,
-      "phonetic" : "skɑːɹf",
-      "pos" : "n.",
-      "rootHint" : "sker",
-      "word" : "scarf"
+      "definition": "围巾；（木材，金属，皮革的）嵌接",
+      "examples": [],
+      "frequency": 6226,
+      "phonetic": "ˈskɑɹf",
+      "pos": "n.",
+      "rootHint": "sker",
+      "word": "scarf"
     },
     {
-      "collocations" : [
+      "collocations": [
         "score many successes：赢得多次胜利",
         "score an average of 147：平均得分147分\nscores of：大量\nkeep score：计数",
         "know the score：了解实情",
         "original score：原创配乐"
       ],
-      "definition" : "&vi. （比赛中）得分；进球；（测试）得分；赢得；二十 vt.划线于；刻痕于 n. 得分；分数；比分；配乐",
-      "etymology" : "score（刻痕；得分）与scar（在………留下伤疤、痕迹）是同源单 词，都来此词根sker-，表示“to cut：切”，因而有“刻痕”之义， 人们最初用刻痕计分，所以引申为“得分”。",
-      "examples" : [
+      "definition": "&vi. （比赛中）得分；进球；（测试）得分；赢得；二十 vt.划线于；刻痕于 n. 得分；分数；比分；配乐",
+      "etymology": "score（刻痕；得分）与scar（在………留下伤疤、痕迹）是同源单 词，都来此词根sker-，表示“to cut：切”，因而有“刻痕”之义， 人们最初用刻痕计分，所以引申为“得分”。",
+      "examples": [
         "Lightly score the surface of the steaks with a sharp cook’s knife.\n用一把锋利的菜刀在牛排表面上轻轻打花刀。"
       ],
-      "frequency" : 1074,
-      "phonetic" : "skɔɹ",
-      "pos" : "vt.",
-      "rootHint" : "sker",
-      "word" : "score"
+      "frequency": 1074,
+      "phonetic": "ˈskɔɹ",
+      "pos": "vt.",
+      "rootHint": "sker",
+      "word": "score"
     },
     {
-      "collocations" : [
+      "collocations": [
         "underscore the shaky state of the economic recovery：突出显示了经济复"
       ],
-      "definition" : "突出显示；强调；在……下面划线",
-      "examples" : [
+      "definition": "突出显示；强调；在……下面划线",
+      "examples": [
         "He heavily underscored his note to Shelley.\n他在写给谢利的短笺下重重地划了线。"
       ],
-      "frequency" : 5927,
-      "mnemonic" : "under-（在下面）+ score（划线于；刻痕于）→在……下面划线；强",
-      "phonetic" : "ˈʌn.də(ɹ)ˌskɔ(ɹ)",
-      "pos" : "vt.",
-      "rootHint" : "sker",
-      "word" : "underscore"
+      "frequency": 5927,
+      "mnemonic": "under-（在下面）+ score（划线于；刻痕于）→在……下面划线；强",
+      "phonetic": "ˌʌndɚˈskɔɹ",
+      "pos": "vt.",
+      "rootHint": "sker",
+      "word": "underscore"
     },
     {
-      "collocations" : [
+      "collocations": [
         "scoring method：计分法"
       ],
-      "definition" : "得分；刻痕；[音]总谱",
-      "examples" : [
-
-      ],
-      "frequency" : 6811,
-      "phonetic" : "ˈskɔːrɪŋ",
-      "pos" : "n.",
-      "rootHint" : "sker",
-      "word" : "scoring"
+      "definition": "得分；刻痕；[音]总谱",
+      "examples": [],
+      "frequency": 6811,
+      "phonetic": "ˈskɔ.ɹɪŋ",
+      "pos": "n.",
+      "rootHint": "sker",
+      "word": "scoring"
     },
     {
-      "collocations" : [
+      "collocations": [
         "United’s top scorer：联队的头号得分手"
       ],
-      "definition" : "得分者；进球者；记分员",
-      "examples" : [
-
-      ],
-      "frequency" : 10118,
-      "phonetic" : "ˈskɔrɚ",
-      "pos" : "n.",
-      "rootHint" : "sker",
-      "word" : "scorer"
+      "definition": "得分者；进球者；记分员",
+      "examples": [],
+      "frequency": 10118,
+      "phonetic": "ˈskɔ.ɹɚ",
+      "pos": "n.",
+      "rootHint": "sker",
+      "word": "scorer"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "记分牌",
-      "examples" : [
+      "collocations": [],
+      "definition": "记分牌",
+      "examples": [
         "The figures flash up on the scoreboard.\n数字在记分牌上闪亮。"
       ],
-      "frequency" : 16159,
-      "mnemonic" : "score（记分）+board（板）→记分板",
-      "phonetic" : "ˈskɔbɔd",
-      "pos" : "n.",
-      "rootHint" : "sker",
-      "word" : "scoreboard"
+      "frequency": 16159,
+      "mnemonic": "score（记分）+board（板）→记分板",
+      "phonetic": "ˈskɔɹ.bɔɹd",
+      "pos": "n.",
+      "rootHint": "sker",
+      "word": "scoreboard"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "记分卡",
-      "examples" : [
+      "collocations": [],
+      "definition": "记分卡",
+      "examples": [
         "This commission would keep environmental scorecards on UN member\nnations.\n该委员会将对联合国的成员国采用环境记录卡制。"
       ],
-      "frequency" : 18769,
-      "mnemonic" : "score（记分）+card（卡片）→记分卡",
-      "phonetic" : "ˈskɔkɑd",
-      "pos" : "n.",
-      "rootHint" : "sker",
-      "word" : "scorecard"
+      "frequency": 18769,
+      "mnemonic": "score（记分）+card（卡片）→记分卡",
+      "phonetic": "ˈskɔɹ.kɑɹd",
+      "pos": "n.",
+      "rootHint": "sker",
+      "word": "scorecard"
     },
     {
-      "collocations" : [
+      "collocations": [
         "outscore opponents：超过对手的得分"
       ],
-      "definition" : "得分超过对手",
-      "examples" : [
-
-      ],
-      "frequency" : 18725,
-      "mnemonic" : "outscore：to score more than→得分超过对手",
-      "phonetic" : "aʊtˈskɔr",
-      "pos" : "vt.",
-      "rootHint" : "sker",
-      "word" : "outscore"
+      "definition": "得分超过对手",
+      "examples": [],
+      "frequency": 18725,
+      "mnemonic": "outscore：to score more than→得分超过对手",
+      "phonetic": "ˌaʊt.ˈskɔɹ",
+      "pos": "vt.",
+      "rootHint": "sker",
+      "word": "outscore"
     }
   ]
 }

@@ -1,589 +1,533 @@
 {
-  "chapter" : "10",
-  "chapterOrder" : 110,
-  "id" : "cur",
-  "meaningEn" : "to run, flow, move quickly",
-  "meaningZh" : "跑；流；快速移动。由此引",
-  "roots" : [
+  "chapter": "10",
+  "chapterOrder": 110,
+  "id": "cur",
+  "meaningEn": "to run, flow, move quickly",
+  "meaningZh": "跑；流；快速移动。由此引",
+  "roots": [
     "cur",
     "curr"
   ],
-  "semanticLabel" : "跑；流；快速移动。",
-  "source" : "textbook-6",
-  "titleZh" : "跑；流；快速移动。",
-  "words" : [
+  "semanticLabel": "跑；流；快速移动。",
+  "source": "textbook-6",
+  "titleZh": "跑；流；快速移动。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "ship; flow of a stream”；来自curs-",
         "in course of sth.：在……的过程中",
-        "in\/over the course of...：在……期间；在……的时候",
+        "in/over the course of...：在……期间；在……的时候",
         "in the course of time：总有一天；最后；终于",
         "in the ordinary, normal, etc. course of events, things, etc.：在一般情况\n下；通常",
-        "on course for sth.\/to do sth.：（因为已开始做而）很可能做成（或做）\nrun\/take its course：任其发展；听其自然\nof course（not）：当然（不）\n与 course 同样有“课程”含义的单词还有 curriculum, curricular 是其形\n容词形式。"
+        "on course for sth./to do sth.：（因为已开始做而）很可能做成（或做）\nrun/take its course：任其发展；听其自然\nof course（not）：当然（不）\n与 course 同样有“课程”含义的单词还有 curriculum, curricular 是其形\n容词形式。"
       ],
-      "definition" : "进程；（船或飞机的）航线；行动方向；进展；一道菜；课程",
-      "etymology" : "来自拉丁语cursus “a running; a journey; direction, track navigated by a “to run” .",
-      "examples" : [
-
-      ],
-      "frequency" : 419,
-      "mnemonic" : "cours（= -curs-：流；跑）+ -e→进程；航线；行动方向；进展",
-      "phonetic" : "kɔɹs",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "course"
+      "definition": "进程；（船或飞机的）航线；行动方向；进展；一道菜；课程",
+      "etymology": "来自拉丁语cursus “a running; a journey; direction, track navigated by a “to run” .",
+      "examples": [],
+      "frequency": 419,
+      "mnemonic": "cours（= -curs-：流；跑）+ -e→进程；航线；行动方向；进展",
+      "phonetic": "kɔɹs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "course"
     },
     {
-      "collocations" : [
+      "collocations": [
         "curriculum的字面意思就是“a little course”。古罗马战车（马）竞赛\n需要跑七圈，每一圈被称作curriculum。这样，生命中跑过的圈，就\n是你的简历，也就是CV，即curriculum vitae，course of one’s life：生\n命的过程。由此，curriculum也引申为“course：课程”。",
         "the history curriculum：历史课程",
         "the school curriculum：学校课程\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "（学校等的）全部课程",
-      "etymology" : "拉 丁 词根 cur-， curr-的 意 思 是 to run， 而 -culum是 指 小 后 缀 ，",
-      "examples" : [
-
-      ],
-      "frequency" : 2094,
-      "mnemonic" : "curr-（=course：课程）+ -i- + -culum（名词后缀）→全部课程",
-      "phonetic" : "kəˈɹɪkjələm",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "curriculum"
+      "definition": "（学校等的）全部课程",
+      "etymology": "拉 丁 词根 cur-， curr-的 意 思 是 to run， 而 -culum是 指 小 后 缀 ，",
+      "examples": [],
+      "frequency": 2094,
+      "mnemonic": "curr-（=course：课程）+ -i- + -culum（名词后缀）→全部课程",
+      "phonetic": "kəˈɹɪk.jə.ləm",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "curriculum"
     },
     {
-      "collocations" : [
+      "collocations": [
         "extra-curricular：课外的；课程以外的"
       ],
-      "definition" : "课程的；课外的",
-      "examples" : [
-
-      ],
-      "frequency" : 10487,
-      "mnemonic" : "curricul（=curriculum：全部课程）+ -ar（形容词后缀）→课程的；课",
-      "phonetic" : "kəˈrɪkjələ(r)",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "curricular"
+      "definition": "课程的；课外的",
+      "examples": [],
+      "frequency": 10487,
+      "mnemonic": "curricul（=curriculum：全部课程）+ -ar（形容词后缀）→课程的；课",
+      "phonetic": "kəˈɹɪk.jə.lɚ",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "curricular"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a subject in speech：在演讲、论文中围绕一个主题展开论述→论文；\n演讲；语篇；论述",
-        "discourse on\/upon sth.：讲述；论述"
+        "discourse on/upon sth.：讲述；论述"
       ],
-      "definition" : "论文；演讲；语篇 vi. 论述",
-      "examples" : [
-
-      ],
-      "frequency" : 3282,
-      "mnemonic" : "dis-（分开；不同方向）+ course（=running：跑步，引申义为展开论\n述）→a running over",
-      "phonetic" : "dɪsˈkɔ(ɹ)s",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "discourse"
+      "definition": "论文；演讲；语篇 vi. 论述",
+      "examples": [],
+      "frequency": 3282,
+      "mnemonic": "dis-（分开；不同方向）+ course（=running：跑步，引申义为展开论\n述）→a running over",
+      "phonetic": "ˈdɪs.kɔɹs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "discourse"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the discursive style of the novel：这部小说的散漫风格"
       ],
-      "definition" : "东拉西扯的；离题的；散漫的",
-      "examples" : [
-
-      ],
-      "frequency" : 13912,
-      "mnemonic" : "dis-（=apart：分开；散开）+ -curs-（跑）+ -ive（形容词后缀）→即\n往不同方向跑的→东拉西扯的；离题的；散漫的",
-      "phonetic" : "dɪsˈkɝsɪv",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "discursive"
+      "definition": "东拉西扯的；离题的；散漫的",
+      "examples": [],
+      "frequency": 13912,
+      "mnemonic": "dis-（=apart：分开；散开）+ -curs-（跑）+ -ive（形容词后缀）→即\n往不同方向跑的→东拉西扯的；离题的；散漫的",
+      "phonetic": "dɪsˈkɝ.sɪv",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "discursive"
     },
     {
-      "collocations" : [
+      "collocations": [
         "sexual intercourse：性交",
         "social intercourse：社会交往",
         "commercial intercourse：贸易往来；商业关系"
       ],
-      "definition" : "性交；交际",
-      "examples" : [
-
-      ],
-      "frequency" : 7867,
-      "mnemonic" : "inter-（在中间；相互）+ course（=running：跑）→即跑到一起、相\n互来往→引申词义性交；交际",
-      "phonetic" : "ˈɪn.tɚˌkoɹs",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "intercourse"
+      "definition": "性交；交际",
+      "examples": [],
+      "frequency": 7867,
+      "mnemonic": "inter-（在中间；相互）+ course（=running：跑）→即跑到一起、相\n互来往→引申词义性交；交际",
+      "phonetic": "ˈɪn.tɚ.kɔɹs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "intercourse"
     },
     {
-      "collocations" : [
+      "collocations": [
         "excursion into sth.：（短期的）涉足；涉猎",
         "a brief excursion into drama：短暂涉猎过戏剧"
       ],
-      "definition" : "（尤指集体）远足；短途旅行",
-      "examples" : [
+      "definition": "（尤指集体）远足；短途旅行",
+      "examples": [
         "They’ve gone on an excursion to York."
       ],
-      "frequency" : 8447,
-      "mnemonic" : "ex-（=out：向外）+ -curs-（流；跑）+ -ion（名词后缀）→向外跑→",
-      "phonetic" : "ɛks.kɝ.ʃən",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "excursion"
+      "frequency": 8447,
+      "mnemonic": "ex-（=out：向外）+ -curs-（流；跑）+ -ion（名词后缀）→向外跑→",
+      "phonetic": "ɪk.ˈskɝ.ʒən",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "excursion"
     },
     {
-      "collocations" : [
+      "collocations": [
         "recourse to war：依靠（诉诸）战争",
         "She made a complete recovery without recourse to surgery.\n她未依靠手术就完全恢复了健康。"
       ],
-      "definition" : "依靠；依赖；求助",
-      "examples" : [
+      "definition": "依靠；依赖；求助",
+      "examples": [
         "Your only recourse is legal action. 你的唯一依靠就是诉诸法律。"
       ],
-      "frequency" : 11631,
-      "mnemonic" : "re-（向后；往回）+ -cours-（跑）+ e→跑回来→引申词义依靠；依",
-      "phonetic" : "ˈɹiːkɔɹs",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "recourse"
+      "frequency": 11631,
+      "mnemonic": "re-（向后；往回）+ -cours-（跑）+ e→跑回来→引申词义依靠；依",
+      "phonetic": "ɹɪˈkɔɹs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "recourse"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the station concourse：车站大厅"
       ],
-      "definition" : "（尤指机场或火车站的）大厅；广场",
-      "examples" : [
-
-      ],
-      "frequency" : 20051,
-      "mnemonic" : "con-（=together：一起）+ cours（-curs-：流；跑）+ -e→跑到一起，\n聚集到一起的地方→大厅；广场",
-      "phonetic" : "ˈkɑŋkɔ(ɹ)s",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "concourse"
+      "definition": "（尤指机场或火车站的）大厅；广场",
+      "examples": [],
+      "frequency": 20051,
+      "mnemonic": "con-（=together：一起）+ cours（-curs-：流；跑）+ -e→跑到一起，\n聚集到一起的地方→大厅；广场",
+      "phonetic": "ˈkɑŋkɔɹs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "concourse"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（计入最终成绩的）课程作业",
-      "examples" : [
+      "collocations": [],
+      "definition": "（计入最终成绩的）课程作业",
+      "examples": [
         "Coursework accounts for 40% of the final marks.\n课程作业占最后总成绩的40%。"
       ],
-      "frequency" : 16548,
-      "mnemonic" : "course（课程）+ work（作业）→课程作业",
-      "phonetic" : "ˈkɔswɝk",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "coursework"
+      "frequency": 16548,
+      "mnemonic": "course（课程）+ work（作业）→课程作业",
+      "phonetic": "ˈkɔɹs.wɝk",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "coursework"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the Northeast corridor：东北走廊地带",
         "on both sides of the corridor：走廊的两侧",
         "the corridors of power：权力走廊（高层政治决策机构）"
       ],
-      "definition" : "走廊；走廊地带",
-      "examples" : [
-
-      ],
-      "frequency" : 3507,
-      "mnemonic" : "corr-（=run：跑）+ -idor（=-id：像……，与……有关 + -or：名词后\n缀）→与跑；移动有关的地方→走廊；走廊地带",
-      "phonetic" : "ˈkɔɹəˌdɔɹ",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "corridor"
+      "definition": "走廊；走廊地带",
+      "examples": [],
+      "frequency": 3507,
+      "mnemonic": "corr-（=run：跑）+ -idor（=-id：像……，与……有关 + -or：名词后\n缀）→与跑；移动有关的地方→走廊；走廊地带",
+      "phonetic": "ˈkɔɹ.ə.dɚ",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "corridor"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a motorcycle courier：一名骑摩托车的信使",
         "courier service：快递服务",
         "courier that letter：用快递送信\ncourier sth. to someplace：让信使把……送到某地"
       ],
-      "definition" : "（递送包裹或重要文件的）信使 vt. 用快递送",
-      "examples" : [
-
-      ],
-      "frequency" : 13521,
-      "mnemonic" : "cour（-curr-：流；跑）+ -ier（人）→跑步送……的人→信使；用快",
-      "phonetic" : "ˈkɜɹ.i.ɚ",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "courier"
+      "definition": "（递送包裹或重要文件的）信使 vt. 用快递送",
+      "examples": [],
+      "frequency": 13521,
+      "mnemonic": "cour（-curr-：流；跑）+ -ier（人）→跑步送……的人→信使；用快",
+      "phonetic": "ˈkʊɹ.i.ɚ",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "courier"
     },
     {
-      "collocations" : [
-        "a cursory glance\/examination\/inspection：匆匆的一瞥；粗略的审查\/检查"
+      "collocations": [
+        "a cursory glance/examination/inspection：匆匆的一瞥；粗略的审查/检查"
       ],
-      "definition" : "粗略的；仓促的",
-      "examples" : [
-
-      ],
-      "frequency" : 16261,
-      "mnemonic" : "curs-（流；跑）+ -ory（形容词后缀）→跑动的；快速的→粗略的；",
-      "phonetic" : "ˈkɵː.sɘ.ɹi",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "cursory"
+      "definition": "粗略的；仓促的",
+      "examples": [],
+      "frequency": 16261,
+      "mnemonic": "curs-（流；跑）+ -ory（形容词后缀）→跑动的；快速的→粗略的；",
+      "phonetic": "ˈkɝ.sə.ɹi",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "cursory"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a precursor of modern jazz：现代爵士乐的先驱"
       ],
-      "definition" : "前身；先驱；前兆",
-      "examples" : [
-
-      ],
-      "frequency" : 9902,
-      "mnemonic" : "pre-（=before：在前的) + curs-（=to run：跑步）+ -or（名词后缀，表\n示人）→跑在前面的人→forerunner：前身；先驱；前兆",
-      "phonetic" : "pɹɨˈkɜɹ.səɹ",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "precursor"
+      "definition": "前身；先驱；前兆",
+      "examples": [],
+      "frequency": 9902,
+      "mnemonic": "pre-（=before：在前的) + curs-（=to run：跑步）+ -or（名词后缀，表\n示人）→跑在前面的人→forerunner：前身；先驱；前兆",
+      "phonetic": "ˌpɹiˈkɝ.sɚ",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "precursor"
     },
     {
-      "collocations" : [
+      "collocations": [
         "current economic policies：当前经济政策",
         "current trend：当前趋势",
         "a strong current：急流",
         "electrical current：电流"
       ],
-      "definition" : "当前的；现在的；通用的；流行的 n. 水流；电流；气流；倾向",
-      "examples" : [
-
-      ],
-      "frequency" : 653,
-      "mnemonic" : "curr-（流；跑；移动）+ -ent（名词后缀）→水流；电流；气流；倾\ncurr-（发生）+ -ent（=-ant：形容词后缀，……的）→（正在）发生\n的→当前的；现在的；流行的",
-      "phonetic" : "ˈkɝɹənt",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "current"
+      "definition": "当前的；现在的；通用的；流行的 n. 水流；电流；气流；倾向",
+      "examples": [],
+      "frequency": 653,
+      "mnemonic": "curr-（流；跑；移动）+ -ent（名词后缀）→水流；电流；气流；倾\ncurr-（发生）+ -ent（=-ant：形容词后缀，……的）→（正在）发生\n的→当前的；现在的；流行的",
+      "phonetic": "ˈkɝ.ənt",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "current"
     },
     {
-      "collocations" : [
+      "collocations": [
         "All the options are currently available.\n所有的方案现在均可选择。\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "当前；现在",
-      "examples" : [
+      "definition": "当前；现在",
+      "examples": [
         "The hourly charge is currently￡35.\n现在每小时收费是35英镑。"
       ],
-      "frequency" : 1712,
-      "phonetic" : "ˈkʌɹəntli",
-      "pos" : "adv.",
-      "rootHint" : "cur",
-      "word" : "currently"
+      "frequency": 1712,
+      "phonetic": "ˈkɝ.ənt.li",
+      "pos": "adv.",
+      "rootHint": "cur",
+      "word": "currently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a single European currency：统一的欧洲货币",
         "wide currency：广泛流行",
         "gain currency：得到流行\n笔 记 区"
       ],
-      "definition" : "通货，货币；通用，流行",
-      "examples" : [
-
-      ],
-      "frequency" : 3774,
-      "mnemonic" : "curr-（流；跑）+ -ency（名词后缀）→流通的、通用的事物或状态→",
-      "phonetic" : "ˈkɝ.ən.si",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "currency"
+      "definition": "通货，货币；通用，流行",
+      "examples": [],
+      "frequency": 3774,
+      "mnemonic": "curr-（流；跑）+ -ency（名词后缀）→流通的、通用的事物或状态→",
+      "phonetic": "ˈkɝ.ən.si",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "currency"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The strong undercurrent swept them apart.\n强大的暗流把他们冲开了。"
       ],
-      "definition" : "潜在的情绪倾向（尤指负面的）；暗流",
-      "examples" : [
+      "definition": "潜在的情绪倾向（尤指负面的）；暗流",
+      "examples": [
         "I detect an undercurrent of resentment towards the new proposals.\n我察觉到对新提案有一股潜在的不满情绪。"
       ],
-      "frequency" : 16849,
-      "mnemonic" : "under-（在下面）+ current（水流）→地下的水流→暗流→引申义为",
-      "phonetic" : "ˈʌndɚˌkʌɹənt",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "undercurrent"
+      "frequency": 16849,
+      "mnemonic": "under-（在下面）+ current（水流）→地下的水流→暗流→引申义为",
+      "phonetic": "ˈʌndɚkɝənt",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "undercurrent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "huge cost incurred by sth.：由……引起的巨额成本",
         "You risk incurring bank charges if you exceed your overdraft limit.\n如果超出了透支限额，就会带来银行加收费用的风险。\n释义：（V-T）招致；蒙受",
         "If you incur something unpleasant, it happens to you because of something",
         "you have done."
       ],
-      "definition" : "招致；引起；带来（成本、花费等）",
-      "examples" : [
+      "definition": "招致；引起；带来（成本、花费等）",
+      "examples": [
         "She had incurred the wrath of her father by marrying without his consent\n她未经父亲同意就结婚，招致父亲的震怒。"
       ],
-      "frequency" : 8206,
-      "mnemonic" : "in-（进入）+ -cur（跑）→（不好的事情）跑进来→招致；引起；带来",
-      "phonetic" : "ɪnˈkɝ",
-      "pos" : "vt.",
-      "rootHint" : "cur",
-      "word" : "incur"
+      "frequency": 8206,
+      "mnemonic": "in-（进入）+ -cur（跑）→（不好的事情）跑进来→招致；引起；带来",
+      "phonetic": "ɪnˈkɝ",
+      "pos": "vt.",
+      "rootHint": "cur",
+      "word": "incur"
     },
     {
-      "collocations" : [
+      "collocations": [
         "armed incursions into...：武装入侵……"
       ],
-      "definition" : "突然入侵，袭击；（意外的）搅扰，介入",
-      "examples" : [
-
-      ],
-      "frequency" : 14472,
-      "mnemonic" : "in-（向内）+ curs-（向里面跑）+ -ion（名词后缀）→敌人突然跑进\n来→突然入侵；袭击；搅扰",
-      "phonetic" : "ɪnˈkɝʃn",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "incursion"
+      "definition": "突然入侵，袭击；（意外的）搅扰，介入",
+      "examples": [],
+      "frequency": 14472,
+      "mnemonic": "in-（向内）+ curs-（向里面跑）+ -ion（名词后缀）→敌人突然跑进\n来→突然入侵；袭击；搅扰",
+      "phonetic": "ɪnˈkɝ.ʒən",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "incursion"
     },
     {
-      "collocations" : [
+      "collocations": [
         "drive the ponies into a corral：把矮种马赶进了畜栏",
         "police corralled the three men：察捉住了三名男子",
         "appear, happen：到来；发生；出现”。"
       ],
-      "definition" : "（北美农牧场的）畜栏，围栏 vt. 捉住；把（马或牛）赶20000 词汇巅峰速记笔 记 区入围栏",
-      "etymology" : "来自西班牙语corral, from corro“ring：环状物；包围；环绕”。",
-      "examples" : [
-
-      ],
-      "frequency" : 15370,
-      "mnemonic" : "corr-（=curr-：跑）+ -al（名词后缀）→放置牛等动物跑出来→畜\n栏；围栏→引申义为捉住",
-      "phonetic" : "kəˈɹæl",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "corral"
+      "definition": "（北美农牧场的）畜栏，围栏 vt. 捉住；把（马或牛）赶20000 词汇巅峰速记笔 记 区入围栏",
+      "etymology": "来自西班牙语corral, from corro“ring：环状物；包围；环绕”。",
+      "examples": [],
+      "frequency": 15370,
+      "mnemonic": "corr-（=curr-：跑）+ -al（名词后缀）→放置牛等动物跑出来→畜\n栏；围栏→引申义为捉住",
+      "phonetic": "kəˈɹæl",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "corral"
     },
     {
-      "collocations" : [
+      "collocations": [
         "occur to sb.：（观念或想法）被想到；出现在头脑中"
       ],
-      "definition" : "发生；出现；（想法、主意在某人脑海中）突然出现",
-      "examples" : [
+      "definition": "发生；出现；（想法、主意在某人脑海中）突然出现",
+      "examples": [
         "It didn’t occur to him that his wife was having an affair.\n他没有想到自己的妻子有婚外情。"
       ],
-      "frequency" : 757,
-      "mnemonic" : "oc-（=toward：来）+ -cur（=run：跑）→跑过来遇见→出现；发生",
-      "phonetic" : "əˈkɝ",
-      "pos" : "vi.",
-      "rootHint" : "cur",
-      "word" : "occur"
+      "frequency": 757,
+      "mnemonic": "oc-（=toward：来）+ -cur（=run：跑）→跑过来遇见→出现；发生",
+      "phonetic": "əˈkɝ",
+      "pos": "vi.",
+      "rootHint": "cur",
+      "word": "occur"
     },
     {
-      "collocations" : [
-        "a common\/everyday\/frequent\/regular occurrence：司空见惯的\/每天发生",
+      "collocations": [
+        "a common/everyday/frequent/regular occurrence：司空见惯的/每天发生",
         "the occurrence of：……的发生；出现；存在"
       ],
-      "definition" : "发生的事情；（事物的）发生；出现；存在",
-      "examples" : [
-
-      ],
-      "frequency" : 6310,
-      "mnemonic" : "occur（发生；出现）+ -ence（名词后缀）→发生；出现",
-      "phonetic" : "əˈkɐɹən(t)s",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "occurrence"
+      "definition": "发生的事情；（事物的）发生；出现；存在",
+      "examples": [],
+      "frequency": 6310,
+      "mnemonic": "occur（发生；出现）+ -ence（名词后缀）→发生；出现",
+      "phonetic": "əˈkɝ.əns",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "occurrence"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "再次发生；反复出现",
-      "examples" : [
+      "collocations": [],
+      "definition": "再次发生；反复出现",
+      "examples": [
         "This theme recurs several times throughout the book.\n这一主题在整部书里出现了好几次。"
       ],
-      "frequency" : 13421,
-      "mnemonic" : "re-（又；再）+ -cur（发生；出现）→再次发生；反复出现",
-      "phonetic" : "ɹɪˈkɝ",
-      "pos" : "vi.",
-      "rootHint" : "cur",
-      "word" : "recur"
+      "frequency": 13421,
+      "mnemonic": "re-（又；再）+ -cur（发生；出现）→再次发生；反复出现",
+      "phonetic": "ɹɪˈkɝ",
+      "pos": "vi.",
+      "rootHint": "cur",
+      "word": "recur"
     },
     {
-      "collocations" : [
-        "a recurring illness\/problem\/nightmare, etc.：反复发作的疾病、反复出现"
+      "collocations": [
+        "a recurring illness/problem/nightmare, etc.：反复发作的疾病、反复出现"
       ],
-      "definition" : "反复出现的",
-      "examples" : [
-
-      ],
-      "frequency" : 9954,
-      "phonetic" : "rɪˈkɝɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "recurring"
+      "definition": "反复出现的",
+      "examples": [],
+      "frequency": 9954,
+      "phonetic": "ɹɪˈkɝ.ɪŋ",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "recurring"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a recurrent theme：一个反复出现的主题",
         "recurrent infections：重复感染"
       ],
-      "definition" : "（情感）反复出现的；（事情）重复发生的",
-      "examples" : [
-
-      ],
-      "frequency" : 11676,
-      "mnemonic" : "recurr（=recur：反复出现，双写r）+ -ent（形容词后缀）→反复出现的",
-      "phonetic" : "rɪˈkʌrənt",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "recurrent"
+      "definition": "（情感）反复出现的；（事情）重复发生的",
+      "examples": [],
+      "frequency": 11676,
+      "mnemonic": "recurr（=recur：反复出现，双写r）+ -ent（形容词后缀）→反复出现的",
+      "phonetic": "ɹɪˈkɝ.ənt",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "recurrent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a recurrence of the problem：问题再次发生"
       ],
-      "definition" : "重现；再次发生",
-      "examples" : [
-
-      ],
-      "frequency" : 11024,
-      "mnemonic" : "recur（再次出现，双写r）+ -ence（名词后缀）→重现；再次发生",
-      "phonetic" : "rɪˈkʌrəns",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "recurrence"
+      "definition": "重现；再次发生",
+      "examples": [],
+      "frequency": 11024,
+      "mnemonic": "recur（再次出现，双写r）+ -ence（名词后缀）→重现；再次发生",
+      "phonetic": "ɹɪˈkɝ.əns",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "recurrence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a frequent visitor：一位频繁的访问者"
       ],
-      "definition" : "频繁的；经常发生的 vt. 常去；常到（某处）",
-      "examples" : [
+      "definition": "频繁的；经常发生的 vt. 常去；常到（某处）",
+      "examples": [
         "We met in a local bar much frequented by students.\n我们在学生经常去的一家酒吧里相遇。"
       ],
-      "frequency" : 3300,
-      "mnemonic" : "邪解：f（无意义）+ requen（=recur：反复发生）+ t（无意义）→反复发生\n的→频繁的",
-      "phonetic" : "ˈfɹiː.kwənt",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "frequent"
+      "frequency": 3300,
+      "mnemonic": "邪解：f（无意义）+ requen（=recur：反复发生）+ t（无意义）→反复发生\n的→频繁的",
+      "phonetic": "ˈfɹi.kwənt",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "frequent"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "经常地",
-      "examples" : [
+      "collocations": [],
+      "definition": "经常地",
+      "examples": [
         "Iron and folic acid supplements are frequently given to pregnant women.\n铁和叶酸补充剂常给孕妇服用。"
       ],
-      "frequency" : 1824,
-      "phonetic" : "ˈfɹiː.kwənt.li",
-      "pos" : "adv.",
-      "rootHint" : "cur",
-      "word" : "frequently"
+      "frequency": 1824,
+      "phonetic": "ˈfɹi.kwənt.li",
+      "pos": "adv.",
+      "rootHint": "cur",
+      "word": "frequently"
     },
     {
-      "collocations" : [
-        "a high\/low frequency：发生率高\/低",
+      "collocations": [
+        "a high/low frequency：发生率高/低",
         "the alarming frequency of：……惊人的频繁出现",
         "broadcasting frequencies：广播频率\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "频繁；频率；发生率",
-      "examples" : [
-
-      ],
-      "frequency" : 3034,
-      "mnemonic" : "frequent（频繁的；经常发生的）+ -cy（名词后缀）→频繁；发生率",
-      "phonetic" : "ˈfɹiːkwənsi",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "frequency"
+      "definition": "频繁；频率；发生率",
+      "examples": [],
+      "frequency": 3034,
+      "mnemonic": "frequent（频繁的；经常发生的）+ -cy（名词后缀）→频繁；发生率",
+      "phonetic": "ˈfɹi.kwən.si",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "frequency"
     },
     {
-      "collocations" : [
+      "collocations": [
         "her infrequent visits home：她少有的探望家人"
       ],
-      "definition" : "罕见的；不常\/很少发生的",
-      "examples" : [
-
-      ],
-      "frequency" : 15224,
-      "mnemonic" : "in-（=not：不，表相反）+ frequent（经常发生的）→不经常发生的\n→罕见的；很少发生的",
-      "phonetic" : "ɪnˈfriːkwənt",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "infrequent"
+      "definition": "罕见的；不常/很少发生的",
+      "examples": [],
+      "frequency": 15224,
+      "mnemonic": "in-（=not：不，表相反）+ frequent（经常发生的）→不经常发生的\n→罕见的；很少发生的",
+      "phonetic": "ɪnˈfɹi.kwənt",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "infrequent"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "很少发生地",
-      "examples" : [
+      "collocations": [],
+      "definition": "很少发生地",
+      "examples": [
         "This happens not infrequently (= often).\n这种事常常发生。"
       ],
-      "frequency" : 14891,
-      "phonetic" : "ɪnˈfrikwəntli",
-      "pos" : "adv.",
-      "rootHint" : "cur",
-      "word" : "infrequently"
+      "frequency": 14891,
+      "phonetic": "ɪnˈfɹi.kwənt.li",
+      "pos": "adv.",
+      "rootHint": "cur",
+      "word": "infrequently"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "同意；赞同",
-      "examples" : [
+      "collocations": [],
+      "definition": "同意；赞同",
+      "examples": [
         "Historians have concurred with each other in this view.\n历史学家在这个观点上已取得一致意见。"
       ],
-      "frequency" : 9367,
-      "mnemonic" : "con-（=together：一起）+ -cur（发生）→（意见）同时发生的→同",
-      "phonetic" : "kənˈkɝ",
-      "pos" : "vi.",
-      "rootHint" : "cur",
-      "word" : "concur"
+      "frequency": 9367,
+      "mnemonic": "con-（=together：一起）+ -cur（发生）→（意见）同时发生的→同",
+      "phonetic": "kənˈkɝ",
+      "pos": "vi.",
+      "rootHint": "cur",
+      "word": "concur"
     },
     {
-      "collocations" : [
+      "collocations": [
         "hold three concurrent exhibitions：同时举办3场展览",
         "serve three concurrent five-year sentences：同期服3个5年的刑期"
       ],
-      "definition" : "同时发生的",
-      "examples" : [
-
-      ],
-      "frequency" : 12630,
-      "mnemonic" : "con-（=together：一起）+ -cur-（发生，双写r）+ -ent（形容词后\n缀）→同时发生的",
-      "phonetic" : "kəŋˈkɝɹənt",
-      "pos" : "adj.",
-      "rootHint" : "cur",
-      "word" : "concurrent"
+      "definition": "同时发生的",
+      "examples": [],
+      "frequency": 12630,
+      "mnemonic": "con-（=together：一起）+ -cur-（发生，双写r）+ -ent（形容词后\n缀）→同时发生的",
+      "phonetic": "kənˈkɝənt",
+      "pos": "adj.",
+      "rootHint": "cur",
+      "word": "concurrent"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "同时发生地",
-      "examples" : [
+      "collocations": [],
+      "definition": "同时发生地",
+      "examples": [
         "The prison sentences will run concurrently.\n所判的几个刑期合并执行。"
       ],
-      "frequency" : 16287,
-      "phonetic" : "kənˈkʌrəntli",
-      "pos" : "adv.",
-      "rootHint" : "cur",
-      "word" : "concurrently"
+      "frequency": 16287,
+      "phonetic": "kənˈkɝəntli",
+      "pos": "adv.",
+      "rootHint": "cur",
+      "word": "concurrently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "under a curse：受人诅咒",
         "curse one’s bad luck：咒骂某人运气不好",
         "be cursed by a witch：遭到了巫婆的诅咒",
         "be cursed with sth.：不断因……而遭殃；为……所苦；受……之害",
         "Noise is a curse of modern city life.\n噪音是现代城市生活的一大祸根。\n笔 记 区"
       ],
-      "definition" : "咒骂语；咒语；祸根 vi. 诅咒 vt. 咒骂；念咒语诅咒",
-      "examples" : [
+      "definition": "咒骂语；咒语；祸根 vi. 诅咒 vt. 咒骂；念咒语诅咒",
+      "examples": [
         "She seems cursed with bad luck.\n她好像被诅咒了不好的运气，连连遭殃。"
       ],
-      "frequency" : 5838,
-      "mnemonic" : "curs-（=cur-：带来）+ e→因带来祸害而咒骂，给……带来祸害→咒",
-      "phonetic" : "kɝs",
-      "pos" : "n.",
-      "rootHint" : "cur",
-      "word" : "curse"
+      "frequency": 5838,
+      "mnemonic": "curs-（=cur-：带来）+ e→因带来祸害而咒骂，给……带来祸害→咒",
+      "phonetic": "kɝs",
+      "pos": "n.",
+      "rootHint": "cur",
+      "word": "curse"
     }
   ]
 }

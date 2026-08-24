@@ -1,342 +1,314 @@
 {
-  "chapter" : "14",
-  "chapterOrder" : 114,
-  "id" : "ten-2",
-  "meaningZh" : "拿着；持有；握住；抓住；容纳；包含等。",
-  "roots" : [
+  "chapter": "14",
+  "chapterOrder": 114,
+  "id": "ten-2",
+  "meaningZh": "拿着；持有；握住；抓住；容纳；包含等。",
+  "roots": [
     "ten",
     "grasp",
     "keep",
     "maintain等 含义"
   ],
-  "semanticLabel" : "拿着；持有；握住；抓住；容纳；包含等。",
-  "source" : "textbook-7",
-  "titleZh" : "拿着；持有；握住；抓住；容纳；包含等。",
-  "words" : [
+  "semanticLabel": "拿着；持有；握住；抓住；容纳；包含等。",
+  "source": "textbook-7",
+  "titleZh": "拿着；持有；握住；抓住；容纳；包含等。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "the course content：课程的内容",
         "the alcohol content：酒精含量",
         "be content with：对……感到满足"
       ],
-      "definition" : "（书、讲话、节目等的）主题；内容；含量 adj. 满足的；满意的",
-      "examples" : [
-
-      ],
-      "frequency" : 1745,
-      "mnemonic" : "con-（=with, together：共同）+ -tent（=to hold：持有；握住）→共同\n持有的；包含于其中的→主题；内容；含量\ncon-（共同）+ -tent（持有；握住）→包含于其中的→满足的；满",
-      "phonetic" : "ˈkɑn.tɛnt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "content"
+      "definition": "（书、讲话、节目等的）主题；内容；含量 adj. 满足的；满意的",
+      "examples": [],
+      "frequency": 1745,
+      "mnemonic": "con-（=with, together：共同）+ -tent（=to hold：持有；握住）→共同\n持有的；包含于其中的→主题；内容；含量\ncon-（共同）+ -tent（持有；握住）→包含于其中的→满足的；满",
+      "phonetic": "ˈkɑntɛnt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "content"
     },
     {
-      "collocations" : [
+      "collocations": [
         "widespread discontent：普遍不满"
       ],
-      "definition" : "不满；不满足；不满的缘由",
-      "examples" : [
-
-      ],
-      "frequency" : 9903,
-      "mnemonic" : "dis-（表否定；相反）+ content（满足的；满意的）→不满；不满足",
-      "phonetic" : "ˌdɪskənˈtɛnt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "discontent"
+      "definition": "不满；不满足；不满的缘由",
+      "examples": [],
+      "frequency": 9903,
+      "mnemonic": "dis-（表否定；相反）+ content（满足的；满意的）→不满；不满足",
+      "phonetic": "ˌdɪs.kən.ˈtɛnt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "discontent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a contented smile：惬意的微笑"
       ],
-      "definition" : "（尤指因生活好而）满意的，惬意的，满足的",
-      "examples" : [
+      "definition": "（尤指因生活好而）满意的，惬意的，满足的",
+      "examples": [
         "He was a contented man.\n他是个心满意足的人。"
       ],
-      "frequency" : 19897,
-      "mnemonic" : "content（满足的；满意的）+ -ed（形容词后缀）→满意的；惬意",
-      "phonetic" : "kənˈtɛntɪd",
-      "pos" : "adj.",
-      "rootHint" : "ten",
-      "word" : "contented"
+      "frequency": 19897,
+      "mnemonic": "content（满足的；满意的）+ -ed（形容词后缀）→满意的；惬意",
+      "phonetic": "kənˈtɛntɪd",
+      "pos": "adj.",
+      "rootHint": "ten",
+      "word": "contented"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the feeling of contentment：满足感",
         "a sigh of contentment：满足地舒一口气"
       ],
-      "definition" : "满足；满意",
-      "examples" : [
-
-      ],
-      "frequency" : 15665,
-      "mnemonic" : "content（满足的；满意的）+ -ment（名词后缀）→满足；满意",
-      "phonetic" : "kənˈtɛntmənt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "contentment"
+      "definition": "满足；满意",
+      "examples": [],
+      "frequency": 15665,
+      "mnemonic": "content（满足的；满意的）+ -ment（名词后缀）→满足；满意",
+      "phonetic": "kənˈtɛntmənt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "contentment"
     },
     {
-      "collocations" : [
+      "collocations": [
         "continent 就来自拉丁语continens，是continere（hold together，连接为\n一体）的现在分词，原本是一个形容词，表示“连绵不断的”或“自\n制的”之意。作名词的continent其实是continent land的缩略形式。",
         "the Continent：欧洲大陆（不包括英国和爱尔兰）",
         "Antarctic continent：南极大陆；南极洲"
       ],
-      "definition" : "大陆，洲，陆地 adj. 自制的；克制的",
-      "etymology" : "古代人缺乏地理知识，以为所有的大地都是连接在一起的，所以在拉 丁语中将这个大地称为terra continens，在英语中写为continent land。",
-      "examples" : [
-
-      ],
-      "frequency" : 4061,
-      "mnemonic" : "con-（=with, together：一起；共同）+ -tin（=to hold：持，握）+ -ent\n（名词后缀）→hold together：连接为一体的，即一块未分割的土地\n→大陆；洲\ncon-（一起；共同）+ -tin-（=to hold：持有；握住）+ -ent（形容词后\n缀）→能持有、握住的→自制的；克制的",
-      "phonetic" : "ˈkɑntɪnənt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "continent"
+      "definition": "大陆，洲，陆地 adj. 自制的；克制的",
+      "etymology": "古代人缺乏地理知识，以为所有的大地都是连接在一起的，所以在拉 丁语中将这个大地称为terra continens，在英语中写为continent land。",
+      "examples": [],
+      "frequency": 4061,
+      "mnemonic": "con-（=with, together：一起；共同）+ -tin（=to hold：持，握）+ -ent\n（名词后缀）→hold together：连接为一体的，即一块未分割的土地\n→大陆；洲\ncon-（一起；共同）+ -tin-（=to hold：持有；握住）+ -ent（形容词后\n缀）→能持有、握住的→自制的；克制的",
+      "phonetic": "ˈkɑntənənt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "continent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Britain’s continental neighbors：英国的欧洲大陆邻国",
         "the continental United States：北美大陆（相对于夏威夷等岛屿地区\n来说）"
       ],
-      "definition" : "（欧洲、北美）大陆的；大洲的 n. （欧洲）大陆人",
-      "examples" : [
-
-      ],
-      "frequency" : 9149,
-      "mnemonic" : "continent（大陆；大洲）+-al（形容词后缀）→大陆的，大洲的；大",
-      "phonetic" : "kɑntɪˈnentl",
-      "pos" : "adj.",
-      "rootHint" : "ten",
-      "word" : "continental"
+      "definition": "（欧洲、北美）大陆的；大洲的 n. （欧洲）大陆人",
+      "examples": [],
+      "frequency": 9149,
+      "mnemonic": "continent（大陆；大洲）+-al（形容词后缀）→大陆的，大洲的；大",
+      "phonetic": "ˌkɑntənˈɛntəl",
+      "pos": "adj.",
+      "rootHint": "ten",
+      "word": "continental"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（大小便的）失禁",
-      "examples" : [
+      "collocations": [],
+      "definition": "（大小便的）失禁",
+      "examples": [
         "Incontinence is not just a condition of old age.\n大小便失禁不仅仅是一种老年病。"
       ],
-      "frequency" : 18948,
-      "mnemonic" : "in-（不，非，表反义）+ contin（=continent：控制的；克制的）+\n-ence（名词后缀）→即无法控制的→后多用于指人的大小便失禁",
-      "phonetic" : "ɪnˈkɑntɪnəns",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "incontinence"
+      "frequency": 18948,
+      "mnemonic": "in-（不，非，表反义）+ contin（=continent：控制的；克制的）+\n-ence（名词后缀）→即无法控制的→后多用于指人的大小便失禁",
+      "phonetic": "ɪnˈkɑn.tə.nəns",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "incontinence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "discontinue the treatment：中断治疗",
         "discontinued china：已停产的瓷器"
       ],
-      "definition" : "停止，中断；停产",
-      "examples" : [
-
-      ],
-      "frequency" : 11998,
-      "mnemonic" : "dis-（不，非，使相反）+ continue（继续）→不继续下去→停止，中",
-      "phonetic" : "dɪskənˈtɪnju",
-      "pos" : "vt.",
-      "rootHint" : "ten",
-      "word" : "discontinue"
+      "definition": "停止，中断；停产",
+      "examples": [],
+      "frequency": 11998,
+      "mnemonic": "dis-（不，非，使相反）+ continue（继续）→不继续下去→停止，中",
+      "phonetic": "ˌdɪs.kənˈtɪn.ju",
+      "pos": "vt.",
+      "rootHint": "ten",
+      "word": "discontinue"
     },
     {
-      "collocations" : [
+      "collocations": [
         "discontinuity in the children’s education：儿童教育的不连贯性",
         "discontinuities in policy：政策不连续（缺乏连续性）"
       ],
-      "definition" : "不连贯，不连续；中断",
-      "examples" : [
-
-      ],
-      "frequency" : 19386,
-      "mnemonic" : "discontinue（停止；中断）+ -ity（名词后缀）→不连续；不连贯",
-      "phonetic" : "ˌdɪskɑntɪˈnuːɪti",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "discontinuity"
+      "definition": "不连贯，不连续；中断",
+      "examples": [],
+      "frequency": 19386,
+      "mnemonic": "discontinue（停止；中断）+ -ity（名词后缀）→不连续；不连贯",
+      "phonetic": "ˌdɪs.kɑn.təˈnu.ə.ti",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "discontinuity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "harsh countenance：严厉的表情",
         "countenance his proposals：支持他的方案"
       ],
-      "definition" : "面容，表情 vt. 赞同；支持",
-      "examples" : [
-
-      ],
-      "frequency" : 18998,
-      "mnemonic" : "coun（con-：共同）+ -ten-（持有；握住）+ -ance（名词后缀）→对\n内心情感的控制→面容；表情→后词义进一步褒义化，表示赞同，",
-      "phonetic" : "ˈkaʊn.tən.əns",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "countenance"
+      "definition": "面容，表情 vt. 赞同；支持",
+      "examples": [],
+      "frequency": 18998,
+      "mnemonic": "coun（con-：共同）+ -ten-（持有；握住）+ -ance（名词后缀）→对\n内心情感的控制→面容；表情→后词义进一步褒义化，表示赞同，",
+      "phonetic": "ˈkaʊn.tə.nəns",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "countenance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "police powers of arrest and detention：警方的逮捕和拘留权"
       ],
-      "definition" : "拘留，监禁；（为惩罚学生的）课后留校",
-      "examples" : [
+      "definition": "拘留，监禁；（为惩罚学生的）课后留校",
+      "examples": [
         "The teacher kept the boys in detention after school.\n老师在放学后罚男孩们课后留校。"
       ],
-      "frequency" : 6776,
-      "mnemonic" : "de-（=back：向后）+ tent（=-ten-：持有；握住）+ -ion（名词后缀）\n→act of keeping back or withholding：（为了惩罚而）留下、保留、阻\n止（犯罪）的行为→拘留；课后留校",
-      "phonetic" : "dɪˈtɛnʃən",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "detention"
+      "frequency": 6776,
+      "mnemonic": "de-（=back：向后）+ tent（=-ten-：持有；握住）+ -ion（名词后缀）\n→act of keeping back or withholding：（为了惩罚而）留下、保留、阻\n止（犯罪）的行为→拘留；课后留校",
+      "phonetic": "dɪ.ˈtɛn.ʃən",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "detention"
     },
     {
-      "collocations" : [
-        "one of the basic \/ central tenets of：……的基本 \/ 主要信条之一",
+      "collocations": [
+        "one of the basic / central tenets of：……的基本 / 主要信条之一",
         "company tenet：企业宗旨"
       ],
-      "definition" : "（理论、信仰的）基本原则；信条；宗旨",
-      "examples" : [
+      "definition": "（理论、信仰的）基本原则；信条；宗旨",
+      "examples": [
         "Non-violence and patience are the central tenets of their faith.\n非暴力和忍耐是他们信仰的基本原则。"
       ],
-      "frequency" : 10035,
-      "mnemonic" : "ten-（握住；持有）+ -et（= -it，名词后缀）→紧紧握住的东西→基",
-      "phonetic" : "ˈtɛnət",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tenet"
+      "frequency": 10035,
+      "mnemonic": "ten-（握住；持有）+ -et（= -it，名词后缀）→紧紧握住的东西→基",
+      "phonetic": "ˈtɛn.ɪt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tenet"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a tenement block：经济住宅街区",
         "to pay the rent on his $88 a month tenement：支付他每月$88的公寓租金"
       ],
-      "definition" : "（尤指城市贫困区的）经济公寓，廉租公寓",
-      "etymology" : "c. 1300, “holding of immovable property” (such as land or buildings)，来 自古法语tenement “fief, land, possessions, property” (12世纪), 来自中世 纪拉丁语tenementum “a holding, fief”. “Dwelling place, residence”的含 义来自15世纪早期。",
-      "examples" : [
-
-      ],
-      "frequency" : 14823,
-      "mnemonic" : "tene-（持有；握住）+-ment（名词后缀）→经济公寓；廉租公寓",
-      "phonetic" : "ˈtɛnɪmənt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tenement"
+      "definition": "（尤指城市贫困区的）经济公寓，廉租公寓",
+      "etymology": "c. 1300, “holding of immovable property” (such as land or buildings)，来 自古法语tenement “fief, land, possessions, property” (12世纪), 来自中世 纪拉丁语tenementum “a holding, fief”. “Dwelling place, residence”的含 义来自15世纪早期。",
+      "examples": [],
+      "frequency": 14823,
+      "mnemonic": "tene-（持有；握住）+-ment（名词后缀）→经济公寓；廉租公寓",
+      "phonetic": "ˈtɛn.ə.mənt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tenement"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to play tennis：打网球",
         "table tennis：乒乓球",
-        "a tennis player \/ tournament \/ club \/ court：网球运动员 \/ 锦标赛 \/ 俱乐部\n\/ 场"
+        "a tennis player / tournament / club / court：网球运动员 / 锦标赛 / 俱乐部\n/ 场"
       ],
-      "definition" : "网球；网球（运动）",
-      "etymology" : "网球的前身是14世纪时流行于法国宫廷的一种叫做“掌球”的游戏， 两名游戏者隔着一条绳子，用手掌击打一个布球。后来，这种游戏不 断得到改良，绳子换成了球网，出现了木板做成的球拍，后来出现 了类似羽毛球拍的网球拍。发球者发球时向对手喊声“hold! receive! take!”，含义即为“接球！”，而这一喊声即是该词的起源。它源自 古法语tenez“抓住，接住”。后来，源于网球运动时发球者提醒对 方接球的叫声的法语单词tenetz被人们普遍接受，成为了网球运动的 通俗叫法。tennis就来源于此。",
-      "examples" : [
-
-      ],
-      "frequency" : 3107,
-      "mnemonic" : "tenetz：抓住；接住→tenn-（=to hold：抓住，拿住）+ -is→网球",
-      "phonetic" : "ˈtɛn.ɪs",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tennis"
+      "definition": "网球；网球（运动）",
+      "etymology": "网球的前身是14世纪时流行于法国宫廷的一种叫做“掌球”的游戏， 两名游戏者隔着一条绳子，用手掌击打一个布球。后来，这种游戏不 断得到改良，绳子换成了球网，出现了木板做成的球拍，后来出现 了类似羽毛球拍的网球拍。发球者发球时向对手喊声“hold! receive! take!”，含义即为“接球！”，而这一喊声即是该词的起源。它源自 古法语tenez“抓住，接住”。后来，源于网球运动时发球者提醒对 方接球的叫声的法语单词tenetz被人们普遍接受，成为了网球运动的 通俗叫法。tennis就来源于此。",
+      "examples": [],
+      "frequency": 3107,
+      "mnemonic": "tenetz：抓住；接住→tenn-（=to hold：抓住，拿住）+ -is→网球",
+      "phonetic": "ˈtɛn.ɪs",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tennis"
     },
     {
-      "collocations" : [
+      "collocations": [
         "his four-year tenure as President：他的四年总统任期",
         "during his tenure as chief executive office：在他首席执行官任期内\nland tenure：土地使用权",
         "Lack of security of tenure was a reason for many families becoming\nhomeless.\n居住权缺乏安全保障是许多家庭无家可归的一个原因。"
       ],
-      "definition" : "（尤指重要政治职务的）任期；（尤指大学教师的）终身职位；（房地产的）保有权，居住权；（土地的）使用权",
-      "examples" : [
+      "definition": "（尤指重要政治职务的）任期；（尤指大学教师的）终身职位；（房地产的）保有权，居住权；（土地的）使用权",
+      "examples": [
         "It’s still extremely difficult to get tenure.\n要取得终身职位仍然极其困难。"
       ],
-      "frequency" : 5062,
-      "mnemonic" : "ten-（=to hold：持有；握住）+ -ure（名词后缀）→持有、握住某个\n地位、职位→任期；终身职位\nten-（=have possession：拥有；财产；所有物）+ -ure（名词后缀）→\n持有、拥有某种所有物→居住权；使用权",
-      "phonetic" : "ˈtɛn.jə",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tenure"
+      "frequency": 5062,
+      "mnemonic": "ten-（=to hold：持有；握住）+ -ure（名词后缀）→持有、握住某个\n地位、职位→任期；终身职位\nten-（=have possession：拥有；财产；所有物）+ -ure（名词后缀）→\n持有、拥有某种所有物→居住权；使用权",
+      "phonetic": "ˈtɛn.jɚ",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tenure"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a tenured post：终身职位",
         "a tenured professor：终身教授"
       ],
-      "definition" : "终身的，长期保有的；获终身聘用的，享有终身职位的",
-      "examples" : [
-
-      ],
-      "frequency" : 19467,
-      "mnemonic" : "tenure（拥有，所有；终身职位）+ -d（形容词后缀）→长期保有",
-      "phonetic" : "ˈtenjəd",
-      "pos" : "adj.",
-      "rootHint" : "ten",
-      "word" : "tenured"
+      "definition": "终身的，长期保有的；获终身聘用的，享有终身职位的",
+      "examples": [],
+      "frequency": 19467,
+      "mnemonic": "tenure（拥有，所有；终身职位）+ -d（形容词后缀）→长期保有",
+      "phonetic": "ˈtɛn.jɚd",
+      "pos": "adj.",
+      "rootHint": "ten",
+      "word": "tenured"
     },
     {
-      "collocations" : [
+      "collocations": [
         "tenant farmers：佃农",
         "a tenanted farm：作为租赁者工作的（租种的）农场\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "房客；租户；佃户 vt. （作为租赁者）居住，工作",
-      "examples" : [
-
-      ],
-      "frequency" : 5622,
-      "mnemonic" : "ten-（持有；握住）+ -ant（名词后缀，人）→暂时拿着、占着某物的\n人→房客；佃户；引申义为动词含义，即（作为租赁者）居住，工作",
-      "phonetic" : "ˈtɛ.nənt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tenant"
+      "definition": "房客；租户；佃户 vt. （作为租赁者）居住，工作",
+      "examples": [],
+      "frequency": 5622,
+      "mnemonic": "ten-（持有；握住）+ -ant（名词后缀，人）→暂时拿着、占着某物的\n人→房客；佃户；引申义为动词含义，即（作为租赁者）居住，工作",
+      "phonetic": "ˈtɛn.ənt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tenant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a lieutenant colonel：陆军中校"
       ],
-      "definition" : "（陆军）中尉；（海军或空军）上尉；仅低于……官阶的官员；（美国警察的）一定级别的警官",
-      "etymology" : "来自中古法语lieu tenant：“substitute, deputy”，替代，副职。",
-      "examples" : [
-
-      ],
-      "frequency" : 6139,
-      "mnemonic" : "lieu（=place：地方）+ tenant（= holder：占用者）→placeholder：某\n一职位的占用者、替代者→引申词义为副职官员仅低于……官阶的官",
-      "phonetic" : "l(j)uˈtɛnənt",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "lieutenant"
+      "definition": "（陆军）中尉；（海军或空军）上尉；仅低于……官阶的官员；（美国警察的）一定级别的警官",
+      "etymology": "来自中古法语lieu tenant：“substitute, deputy”，替代，副职。",
+      "examples": [],
+      "frequency": 6139,
+      "mnemonic": "lieu（=place：地方）+ tenant（= holder：占用者）→placeholder：某\n一职位的占用者、替代者→引申词义为副职官员仅低于……官阶的官",
+      "phonetic": "luˈtɛn.ənt",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "lieutenant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "firm, steadfast.”",
         "high tenacity：高韧性；高韧度"
       ],
-      "definition" : "韧性；坚韧；执着",
-      "etymology" : "15世纪早期，源自中法语 ténacité (14c.)，直接源自拉丁语tenacitas “an act of holding fast,” 源自tenax，意为“holding fast, gripping, clingy;",
-      "examples" : [
+      "definition": "韧性；坚韧；执着",
+      "etymology": "15世纪早期，源自中法语 ténacité (14c.)，直接源自拉丁语tenacitas “an act of holding fast,” 源自tenax，意为“holding fast, gripping, clingy;",
+      "examples": [
         "Talent, hard work and sheer tenacity are all crucial to career success.\n才能、勤奋和百分之百的执著对事业成功都是至关重要的。"
       ],
-      "frequency" : 15147,
-      "mnemonic" : "ten-（=to hold：握住；掌握）+ -acity（名词后缀，表情况、状态）\n→an act of holding fast：牢牢抓住某事的行为→韧性；坚韧；执着",
-      "phonetic" : "təˈnæsəti",
-      "pos" : "n.",
-      "rootHint" : "ten",
-      "word" : "tenacity"
+      "frequency": 15147,
+      "mnemonic": "ten-（=to hold：握住；掌握）+ -acity（名词后缀，表情况、状态）\n→an act of holding fast：牢牢抓住某事的行为→韧性；坚韧；执着",
+      "phonetic": "təˈnæs.ə.ti",
+      "pos": "n.",
+      "rootHint": "ten",
+      "word": "tenacity"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a tenacious grip：紧握",
         "keep its tenacious hold on power：牢牢掌握大权",
         "He is regarded as a tenacious and persistent interviewer.\n他被认为是个执著坚毅的采访者。\n形容词后缀 -acious 属于复合后缀，是由 -aci + -ous 组合而成，表示\n“多……的，充满……的，有……倾向的，具有……的特点”，它与名\n词后缀 -acity 相对应\n20000 词汇巅峰\n速\n记\n笔 记 区\nrapacious：掠夺成性的（rape：掠夺；强奸）\nsagacious：睿智的（sage：智者）\ncapacious：宽敞的（cap-：能→的+ -acious；参考： capable：有能力的）\nfallacious：错误的（fall：错；参考：fallacy：谬误）\nvivacious：活泼的（viv-：活；参考：revive：复活）"
       ],
-      "definition" : "紧握的，掌握的；顽强的，坚毅的；执着的",
-      "examples" : [
+      "definition": "紧握的，掌握的；顽强的，坚毅的；执着的",
+      "examples": [
         "She’s a tenacious woman. She never gives up.\n她是个坚毅的人，从不放弃。"
       ],
-      "frequency" : 15146,
-      "mnemonic" : "ten-（=to hold：持有；握住）+ -acious（形容词后缀，表示多……\n的，充满……的）→紧紧持有，握住……的",
-      "phonetic" : "təˈneɪʃəs",
-      "pos" : "adj.",
-      "rootHint" : "ten",
-      "word" : "tenacious"
+      "frequency": 15146,
+      "mnemonic": "ten-（=to hold：持有；握住）+ -acious（形容词后缀，表示多……\n的，充满……的）→紧紧持有，握住……的",
+      "phonetic": "təˈneɪ.ʃəs",
+      "pos": "adj.",
+      "rootHint": "ten",
+      "word": "tenacious"
     }
   ]
 }

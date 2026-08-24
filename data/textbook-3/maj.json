@@ -33,7 +33,7 @@
     },
     {
       "word": "major-league",
-      "phonetic": "ˈmeidʒəˈliːɡ",
+      "phonetic": "ˌmeɪ.dʒɚ.ˈliɡ",
       "pos": "adj.",
       "definition": "( 尤指棒球)职业体育总会的；大联盟的； 非常重要的 n. 复数(尤指美国)职业棒球联合会；职业棒球大联盟",
       "frequency": 13889,
@@ -49,7 +49,7 @@
     },
     {
       "word": "majority",
-      "phonetic": "məˈd͡ʒɑɹɪti",
+      "phonetic": "məˈdʒɔɹ.ə.ti",
       "pos": "n.",
       "definition": "大多数；多数票；法定成年年龄(英国和美国大多 数州规定为18周岁)adj. ( 观点、决定、体制等)多数人支持的，多数 人拥护的",
       "frequency": 1089,
@@ -77,7 +77,7 @@
     },
     {
       "word": "majesty",
-      "phonetic": "ˈmædʒ.əs.ti",
+      "phonetic": "ˈmæ.dʒə.sti",
       "pos": "n.",
       "definition": "陛下(对国王或王后的尊称);雄伟壮观；庄严；威 严",
       "frequency": 14748,
@@ -91,7 +91,7 @@
     },
     {
       "word": "majestic",
-      "phonetic": "məˈdʒɛstɪk",
+      "phonetic": "məˈdʒɛs.tɪk",
       "pos": "adj.",
       "definition": "宏伟的；庄严的",
       "frequency": 10803,
@@ -118,7 +118,7 @@
     },
     {
       "word": "mayoral",
-      "phonetic": "meɪˈɔ.ɹəl",
+      "phonetic": "ˈmeɪ.ɚ.əl",
       "pos": "adj.",
       "definition": "市长的",
       "frequency": 14932,
@@ -133,7 +133,7 @@
     },
     {
       "word": "much",
-      "phonetic": "mʌt͡ʃ",
+      "phonetic": "mʌtʃ",
       "pos": "adv.",
       "definition": "非常；经常；很大程度上；大量",
       "frequency": 146,
@@ -150,7 +150,7 @@
     },
     {
       "word": "much-needed",
-      "phonetic": "ˌmʌtʃˈniːdɪd",
+      "phonetic": "ˌmʌtʃˈnidɪd",
       "pos": "adj.",
       "definition": "急需的；大量需要",
       "frequency": 13959,
@@ -164,7 +164,7 @@
     },
     {
       "word": "maxim",
-      "phonetic": "ˈmæk.səm",
+      "phonetic": "ˈmæk.sɪm",
       "pos": "n.",
       "definition": "格言；座右铭；准则",
       "frequency": 16343,
@@ -180,7 +180,7 @@
     },
     {
       "word": "maximum",
-      "phonetic": "ˈmæksɪməm",
+      "phonetic": "ˈmæk.sə.məm",
       "pos": "adj.",
       "definition": "最高的；最多的；最大极限的 n. 最大值 adv. 最多",
       "frequency": 3638,
@@ -195,7 +195,7 @@
     },
     {
       "word": "maximal",
-      "phonetic": "ˈmæksɪml",
+      "phonetic": "ˈmæk.sə.məl",
       "pos": "adj.",
       "definition": "最多的；最大的；最大限度的",
       "frequency": 17858,
@@ -208,7 +208,7 @@
     },
     {
       "word": "maximize",
-      "phonetic": "ˈmæksɪmaɪz",
+      "phonetic": "ˈmæk.sə.maɪz",
       "pos": "vt.",
       "definition": "使增加至最大限度；充分利用(或重视);使 (计算机屏幕上的窗口)最大化",
       "frequency": 6014,
@@ -223,7 +223,7 @@
     },
     {
       "word": "master",
-      "phonetic": "ˈmæstɚ",
+      "phonetic": "ˈmæs.tɚ",
       "pos": "n.",
       "definition": "主人；专家；控制者；男教师；(已故)著名画家； (电影、录音等)原始拷贝的；船长；长老(信徒对宗教法师或领袖 的称呼);(旧时的)少爷，小主人；君(现在用于信件中对男孩的 称 谓 ) adj. 精通的vt.掌握；精通；掌控",
       "frequency": 1897,
@@ -238,7 +238,7 @@
     },
     {
       "word": "mastery",
-      "phonetic": "ˈmæstəɹi",
+      "phonetic": "ˈmæs.tɚ.i",
       "pos": "n.",
       "definition": "精通；掌握；统治；控制",
       "frequency": 7733,
@@ -252,7 +252,7 @@
     },
     {
       "word": "headmaster",
-      "phonetic": "ˈhɛdˌmæstɚ",
+      "phonetic": "ˈhɛd.ˌmæ.stɚ",
       "pos": "n.",
       "definition": "( 尤指私立学校的)校长",
       "frequency": 17526,
@@ -277,7 +277,7 @@
     },
     {
       "word": "masterful",
-      "phonetic": "ˈmɑstəfl",
+      "phonetic": "ˈmæs.tɚ.fəl",
       "pos": "adj.",
       "definition": "善于掌控局势的；指挥若定的；技艺精湛 的；熟练的",
       "frequency": 15626,
@@ -291,7 +291,7 @@
     },
     {
       "word": "mastermind",
-      "phonetic": "ˈmæs.tɚˌmaɪnd",
+      "phonetic": "ˈmæs.tɚ.maɪnd",
       "pos": "vt.",
       "definition": "谋划；策划(艰难或复杂的行动) n. ( 常 指罪案)主谋；出谋划策的人；幕后操纵者",
       "frequency": 16635,
@@ -305,7 +305,7 @@
     },
     {
       "word": "masterpiece",
-      "phonetic": "ˈmæstɚˌpis",
+      "phonetic": "ˈmæs.tɚ.pis",
       "pos": "n.",
       "definition": "杰作；名著;(画家、作家或作曲家的)代表 作；典范",
       "frequency": 7824,
@@ -318,7 +318,7 @@
     },
     {
       "word": "mister",
-      "phonetic": "[ˈmɪstɚ]",
+      "phonetic": "ˈmɪstɚ",
       "pos": "n.",
       "definition": "( 儿童常用，称呼不知姓名的男子)先生",
       "frequency": 17731,
@@ -329,7 +329,7 @@
     },
     {
       "word": "mistress",
-      "phonetic": "ˈmɪstɹɪs",
+      "phonetic": "ˈmɪstɹəs",
       "pos": "n.",
       "definition": "情妇；女教师；主妇；(狗或其他动物的)女主人； 绝对控制……的女人；主宰……的女人",
       "frequency": 7317,
@@ -344,7 +344,7 @@
     },
     {
       "word": "maestro",
-      "phonetic": "ˈmaɪstɹoʊ",
+      "phonetic": "ˈmaɪ.stɹoʊ",
       "pos": "n.",
       "definition": "大师(尤指音乐大师);指挥名家",
       "frequency": 17861,
@@ -358,7 +358,7 @@
     },
     {
       "word": "mega",
-      "phonetic": "ˈmɛɡə",
+      "phonetic": "ˈmɛ.ɡə",
       "pos": "adj.",
       "definition": "巨大的；宏大的；优秀的；十分；极度n. 百万",
       "frequency": 18568,
@@ -373,7 +373,7 @@
     },
     {
       "word": "megawatt",
-      "phonetic": "ˈmegəwɑt",
+      "phonetic": "ˈmɛ.ɡə.wɑt",
       "pos": "n.",
       "definition": "兆瓦；百万瓦特(电能计量单位)16102",
       "mnemonic": "mega- ( 百万，兆)+watt ( 瓦 ) →megawatt ( 兆瓦；百万瓦特)。通常 缩写为MW, 用于发电量计算单位。",
@@ -385,7 +385,7 @@
     },
     {
       "word": "magnitude",
-      "phonetic": "ˈmæɡnɪtjuːd",
+      "phonetic": "ˈmæɡ.nə.tud",
       "pos": "n.",
       "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
       "frequency": 4010,
@@ -399,7 +399,7 @@
     },
     {
       "word": "magistrate",
-      "phonetic": "ˈmædʒɪstɹeɪt",
+      "phonetic": "ˈmæ.dʒə.stɹeɪt",
       "pos": "n.",
       "definition": "( 处理轻罪或纠纷的)地方法官；治安法 官",
       "frequency": 11356,
@@ -415,7 +415,7 @@
     },
     {
       "word": "magnify",
-      "phonetic": "ˈmaɡnɪfaɪ",
+      "phonetic": "ˈmæɡ.nə.faɪ",
       "pos": "vt.",
       "definition": "放大；加剧；夸大(重要性或严重性);夸张",
       "frequency": 9793,
@@ -429,7 +429,7 @@
     },
     {
       "word": "magnifying",
-      "phonetic": "ˈmægnɪfaɪɪŋ",
+      "phonetic": "ˈmæɡ.nə.faɪ.ɪŋ",
       "pos": "adj.",
       "definition": "放大的",
       "frequency": 19150,
@@ -442,7 +442,7 @@
     },
     {
       "word": "magnate",
-      "phonetic": "ˈmæɡneɪt",
+      "phonetic": "ˈmæɡ.neɪt",
       "pos": "n.",
       "definition": "权贵；要人；富豪；(尤指)产业大亨",
       "frequency": 16892,
@@ -455,7 +455,7 @@
     },
     {
       "word": "magnificent",
-      "phonetic": "mæɡˈnɪfəsənt",
+      "phonetic": "mæɡ.ˈnɪ.fə.sənt",
       "pos": "adj.",
       "definition": "壮丽的；宏伟的；值得赞扬的；令人印象 深刻的",
       "frequency": 5564,
@@ -470,7 +470,7 @@
     },
     {
       "word": "magnification",
-      "phonetic": "ˌmæɡnɪfɪˈkeɪʃən",
+      "phonetic": "ˌmæɡ.nə.fɪ.ˈkeɪ.ʃən",
       "pos": "n.",
       "definition": "放大；放大率；放大倍数",
       "frequency": 13243,

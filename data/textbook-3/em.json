@@ -15,7 +15,7 @@
   "words": [
     {
       "word": "assume",
-      "phonetic": "əˈsuːm",
+      "phonetic": "əˈsum",
       "pos": "vt.",
       "definition": "假设；掌管，取得(权力);承担(责任);呈现，显 露(某种特质);做出(某种样子)1095",
       "mnemonic": "a(=ad: toward,up to)+ssume( =sumere: 支撑，承受)→去承担\n(责任),采取(某种行为方式) →接受权利；责任 搭配：assume an air of calm: 表现出一副平静的样子",
@@ -27,7 +27,7 @@
     },
     {
       "word": "assumed",
-      "phonetic": "əˈsjuːmd",
+      "phonetic": "əˈsumd",
       "pos": "adj.",
       "definition": "假装的；假设的",
       "frequency": 16638,
@@ -40,7 +40,7 @@
     },
     {
       "word": "assumption",
-      "phonetic": "əˈsʌmp.ʃən",
+      "phonetic": "əˈsʌmpʃən",
       "pos": "n.",
       "definition": "假定；承担；获得；采取",
       "frequency": 2629,
@@ -58,7 +58,7 @@
     },
     {
       "word": "consumer",
-      "phonetic": "kənˈsjuːmə",
+      "phonetic": "kənˈsumɚ",
       "pos": "n.",
       "definition": "用户，顾客；消费者",
       "frequency": 1056,
@@ -71,7 +71,7 @@
     },
     {
       "word": "consumerism",
-      "phonetic": "kənˈsjuːmərɪzəm",
+      "phonetic": "kənˈsuməˌɹɪzəm",
       "pos": "n.",
       "definition": "保护消费者利益运动；用户至上主义",
       "frequency": 15782,
@@ -86,7 +86,7 @@
     },
     {
       "word": "consumption",
-      "phonetic": "kənˈsʌmpʃn",
+      "phonetic": "kənˈsʌmpʃən",
       "pos": "n.",
       "definition": "( 燃料、自然资源的)消耗量，消费量；吃喝；饮用；消费；供(某人或某个群体)使用，享用；肺结核",
       "frequency": 3172,
@@ -100,7 +100,7 @@
     },
     {
       "word": "example",
-      "phonetic": "əɡˈzæmpl̩",
+      "phonetic": "ɪɡ.ˈzæm.pəl",
       "pos": "n.",
       "definition": "例子；范例；榜样",
       "frequency": 855,
@@ -114,7 +114,7 @@
     },
     {
       "word": "exemplary",
-      "phonetic": "ɛɡˈzɛmpləɹi",
+      "phonetic": "ɪɡ.ˈzɛm.plə.ɹi",
       "pos": "adj.",
       "definition": "典范的；可作榜样的；惩戒性的；儆戒性 的",
       "frequency": 10425,
@@ -129,7 +129,7 @@
     },
     {
       "word": "exemplify",
-      "phonetic": "ɛɡˈzɛmplɪfaɪ",
+      "phonetic": "ɪɡ.ˈzɛm.plə.faɪ",
       "pos": "vt.",
       "definition": "作为……的例证；是……的典范",
       "frequency": 7936,
@@ -142,7 +142,7 @@
     },
     {
       "word": "exempt",
-      "phonetic": "ɛɡˈzɛm(p)t",
+      "phonetic": "ɪɡ.ˈzɛmpt",
       "pos": "vt.",
       "definition": "免除、豁免(规则、职责、义务等)adj.被免除 的；被豁免的",
       "frequency": 9745,
@@ -153,7 +153,7 @@
     },
     {
       "word": "tax-exempt",
-      "phonetic": "tæks ɪɡˈzempt",
+      "phonetic": "ˌtæks.ɪɡˈzɛmpt",
       "pos": "adj.",
       "definition": "免税的",
       "frequency": 16775,
@@ -166,7 +166,7 @@
     },
     {
       "word": "exemption",
-      "phonetic": "ɪgˈzempʃn",
+      "phonetic": "ɪɡ.ˈzɛmp.ʃən",
       "pos": "n.",
       "definition": "免除，豁免；免税",
       "frequency": 7229,
@@ -194,7 +194,7 @@
     },
     {
       "word": "promptly",
-      "phonetic": "ˈpɹɑmptli",
+      "phonetic": "ˈpɹɑmpt.li",
       "pos": "adv.",
       "definition": "立即；马上；及时；准时的",
       "frequency": 6770,
@@ -207,7 +207,7 @@
     },
     {
       "word": "impromptu",
-      "phonetic": "ɪmˈpɹɑmpt(j)u",
+      "phonetic": "ɪmˈpɹɑmp.tu",
       "pos": "adj.",
       "definition": "即兴的；事先无准备的 n. 即兴曲；即席演 出",
       "frequency": 13693,
@@ -222,7 +222,7 @@
     },
     {
       "word": "pre-emptive",
-      "phonetic": "priˈemptɪv",
+      "phonetic": "ˌpɹiˈɛmp.tɪv",
       "pos": "adj.",
       "definition": "有优先购买权的；抢先的；先发制人的",
       "frequency": 13189,
@@ -238,7 +238,7 @@
     },
     {
       "word": "premium",
-      "phonetic": "ˈpɹimiəm",
+      "phonetic": "ˈpɹi.mi.əm",
       "pos": "n.",
       "definition": "保险费；额外费用adj. 优质的；高端的",
       "frequency": 4854,
@@ -255,7 +255,7 @@
     },
     {
       "word": "presume",
-      "phonetic": "pɹiˈz(j)um",
+      "phonetic": "pɹɪˈzum",
       "pos": "vt.",
       "definition": "推测；擅自行动；放肆；假定为真",
       "frequency": 5819,
@@ -272,7 +272,7 @@
     },
     {
       "word": "presumed",
-      "phonetic": "prɪzˈjuːmd",
+      "phonetic": "pɹɪˈzumb",
       "pos": "adj.",
       "definition": "假定的；推测的vt. 推测；擅自；假定",
       "frequency": 14940,
@@ -286,7 +286,7 @@
     },
     {
       "word": "presumption",
-      "phonetic": "prɪˈzʌmpʃn",
+      "phonetic": "pɹɪˈzʌmp.ʃən",
       "pos": "n.",
       "definition": "推测；设想；放肆；傲慢",
       "frequency": 10134,
@@ -303,7 +303,7 @@
     },
     {
       "word": "presumably",
-      "phonetic": "pɹɪˈzuːməbli",
+      "phonetic": "pɹɪˈzu.mə.bli",
       "pos": "adv.",
       "definition": "很可能；推测起来",
       "frequency": 4333,
@@ -316,7 +316,7 @@
     },
     {
       "word": "ransom",
-      "phonetic": "ˈɹænsəm",
+      "phonetic": "ˈɹæn.səm",
       "pos": "vt.",
       "definition": "赎价；赎出 n. 勒索赎金[宗]救赎",
       "frequency": 12233,
@@ -331,7 +331,7 @@
     },
     {
       "word": "resume",
-      "phonetic": "ɹɪˈz(j)um",
+      "phonetic": "ɹɪ.ˈzum",
       "pos": "vt.",
       "definition": "&vi. 重新开始，继续； vt. 恢 复 ( 席 位 ，地 位 或职位),重返n. 摘要；履历；个人简历",
       "mnemonic": "re-(=again ,再，重新)+sum(=em:to take,obtain: 拿起，获得) +e→重新拿起，获得→重新开始，继续，小结等→简历；履历(简历 是对某人某一人生经历的总结)",
@@ -343,7 +343,7 @@
     },
     {
       "word": "resumption",
-      "phonetic": "rɪˈzʌmpʃn",
+      "phonetic": "ɹɪ.ˈzʌmp.ʃən",
       "pos": "n.",
       "definition": "恢复；重新开始；收回土地；重新获取",
       "frequency": 19203,
@@ -357,7 +357,7 @@
     },
     {
       "word": "redeem",
-      "phonetic": "ɹɪˈdiːm",
+      "phonetic": "ɹɪˈdim",
       "pos": "vt.",
       "definition": "挽回声誉；改善形象；弥补；补救；偿还(债务或 钱);救赎",
       "frequency": 9458,
@@ -374,7 +374,7 @@
     },
     {
       "word": "redemption",
-      "phonetic": "ɹɪˈdɛmpʃən",
+      "phonetic": "ɹɪˈdɛmp.ʃən",
       "pos": "n.",
       "definition": "拯救；救赎；赎回(股票等)8405",
       "mnemonic": "red(=re-:back, 拿 回 ) +em-(to take,buy,gain,procure)+-ption\n(名词后缀) →拯救的；救赎的",
@@ -388,7 +388,7 @@
     },
     {
       "word": "sample",
-      "phonetic": "sæːm.pəl",
+      "phonetic": "ˈsæm.pəl",
       "pos": "n.",
       "definition": "样品；(用于检验、分析的)试样；抽样 vt. 品尝；体验",
       "frequency": 1318,
@@ -403,7 +403,7 @@
     },
     {
       "word": "sampler",
-      "phonetic": "ˈsamplɚ",
+      "phonetic": "ˈsæm.plɚ",
       "pos": "n.",
       "definition": "刺绣样本；(尤指乐曲的)集锦，荟萃取样器；取样 员；采样器",
       "frequency": 16393,
@@ -416,7 +416,7 @@
     },
     {
       "word": "sampling",
-      "phonetic": "ˈsɑmplɪŋ",
+      "phonetic": "ˈsæm.plɪŋ",
       "pos": "n.",
       "definition": "n. 抽样；取样；(乐曲的)节录，选录",
       "frequency": 6233,
@@ -432,7 +432,7 @@
     },
     {
       "word": "subsume",
-      "phonetic": "səbˈsuːm",
+      "phonetic": "səbˈsum",
       "pos": "vt.",
       "definition": "将……归入，将……纳入(更大的组织或范畴)15765",
       "mnemonic": "sub-(=under: 在下)+-sum(=to take)+- e→ 拿起某物放在……下\n面 ，to take under...→引申词义将纳入更大的组织或范畴 搭配：be subsumed into/by: 被归入 ……",
@@ -444,7 +444,7 @@
     },
     {
       "word": "sumptuous",
-      "phonetic": "ˈsʌmpt͡ʃuəs",
+      "phonetic": "ˈsʌmp.tʃu.əs",
       "pos": "adj.",
       "definition": "华贵的，豪华的；奢侈的",
       "frequency": 15165,
@@ -460,7 +460,7 @@
     },
     {
       "word": "vintage",
-      "phonetic": "ˈvɪn.tɪdʒ",
+      "phonetic": "ˈvɪntɪdʒ",
       "pos": "n.",
       "definition": "( 某优质葡萄酒的)产地和年份；特定年份酿的葡萄酒 adj. (葡萄酒)优质的，上等的，佳酿的；(汽车或飞机)老式的，古 色古香的；最佳的；典型的；优质的",
       "frequency": 6462,

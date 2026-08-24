@@ -1,31 +1,29 @@
 {
-  "chapter" : "41",
-  "chapterOrder" : 141,
-  "id" : "ger",
-  "meaningEn" : "hand",
-  "meaningZh" : "手",
-  "roots" : [
+  "chapter": "41",
+  "chapterOrder": 141,
+  "id": "ger",
+  "meaningEn": "hand",
+  "meaningZh": "手",
+  "roots": [
     "ger"
   ],
-  "semanticLabel" : "hand",
-  "source" : "textbook-6",
-  "titleZh" : "hand",
-  "words" : [
+  "semanticLabel": "hand",
+  "source": "textbook-6",
+  "titleZh": "hand",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "perform a surgery：做一个手术",
-        "early-stage cancer surgery：早期癌症手术\nmajor\/minor surgery：大\/小手术\nmorning\/afternoon\/evening surgery：上午\/下午\/晚间应诊时间\na doctor’s\/dentist’s surgery：医生的\/牙医的诊室\n笔 记 区"
+        "early-stage cancer surgery：早期癌症手术\nmajor/minor surgery：大/小手术\nmorning/afternoon/evening surgery：上午/下午/晚间应诊时间\na doctor’s/dentist’s surgery：医生的/牙医的诊室\n笔 记 区"
       ],
-      "definition" : "外科手术，外科学；应诊时间；诊室，门诊处",
-      "examples" : [
-
-      ],
-      "frequency" : 1807,
-      "mnemonic" : "surger（=hand：手；ger-= work：做工；-urg-：工作，做工）+ -y（名\n词后缀）→（外科）手术（即：手上的工作）",
-      "phonetic" : "ˈsɝdʒəɹi",
-      "pos" : "n.",
-      "rootHint" : "ger",
-      "word" : "surgery"
+      "definition": "外科手术，外科学；应诊时间；诊室，门诊处",
+      "examples": [],
+      "frequency": 1807,
+      "mnemonic": "surger（=hand：手；ger-= work：做工；-urg-：工作，做工）+ -y（名\n词后缀）→（外科）手术（即：手上的工作）",
+      "phonetic": "ˈsɝ.dʒə.ɹi",
+      "pos": "n.",
+      "rootHint": "ger",
+      "word": "surgery"
     }
   ]
 }

@@ -1,47 +1,47 @@
 {
-  "chapter" : "37",
-  "chapterOrder" : 137,
-  "id" : "dain",
-  "meaningEn" : "dignity",
-  "meaningZh" : "尊贵；漂亮；文雅",
-  "roots" : [
+  "chapter": "37",
+  "chapterOrder": 137,
+  "id": "dain",
+  "meaningEn": "dignity",
+  "meaningZh": "尊贵；漂亮；文雅",
+  "roots": [
     "dain"
   ],
-  "semanticLabel" : "尊贵；漂亮；文雅",
-  "source" : "textbook-6",
-  "titleZh" : "尊贵；漂亮；文雅",
-  "words" : [
+  "semanticLabel": "尊贵；漂亮；文雅",
+  "source": "textbook-6",
+  "titleZh": "尊贵；漂亮；文雅",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "take a dainty little bite of the apple：文雅地咬了一小口苹果"
       ],
-      "definition" : "娇小的，精致的，漂亮的；文雅的，优雅的",
-      "etymology" : "c. 1300, deinte, “delightful, pleasing” (late 12c. as a surname), from dainty (n.); see below. Meaning evolved in Middle English to “choice, excellent” (late 14c.) to “delicately pretty, exhibiting exquisite taste or skill” (c. 1400). Sense of “fastidious, affectedly fine, weak, effeminate” is from 1570s. Related: Daintiness.",
-      "examples" : [
+      "definition": "娇小的，精致的，漂亮的；文雅的，优雅的",
+      "etymology": "c. 1300, deinte, “delightful, pleasing” (late 12c. as a surname), from dainty (n.); see below. Meaning evolved in Middle English to “choice, excellent” (late 14c.) to “delicately pretty, exhibiting exquisite taste or skill” (c. 1400). Sense of “fastidious, affectedly fine, weak, effeminate” is from 1570s. Related: Daintiness.",
+      "examples": [
         "The girls were dainty and feminine.\n这些女子们娇美而又温柔。"
       ],
-      "frequency" : 17571,
-      "mnemonic" : "daint-（=dignity：尊贵；漂亮；文雅；字母g脱落）+ -y（形容词后\n缀）→漂亮的；优雅的（想象贵族的行为举止）；娇小的（有女子",
-      "phonetic" : "ˈdeɪnti",
-      "pos" : "adj.",
-      "rootHint" : "dain",
-      "word" : "dainty"
+      "frequency": 17571,
+      "mnemonic": "daint-（=dignity：尊贵；漂亮；文雅；字母g脱落）+ -y（形容词后\n缀）→漂亮的；优雅的（想象贵族的行为举止）；娇小的（有女子",
+      "phonetic": "ˈdeɪn.ti",
+      "pos": "adj.",
+      "rootHint": "dain",
+      "word": "dainty"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to treat sb. with disdain：鄙视某人",
         "a disdain for the law：对法律的藐视",
         "He disdained to turn to his son for advice.\n他不屑于向自己的儿子请教。\n笔 记 区"
       ],
-      "definition" : "鄙视；蔑视；鄙弃 vt. 鄙视；蔑视；鄙弃 vi. 不屑（做某事）9890",
-      "examples" : [
+      "definition": "鄙视；蔑视；鄙弃 vt. 鄙视；蔑视；鄙弃 vi. 不屑（做某事）9890",
+      "examples": [
         "She disdained his offer of help.\n他提出要帮助，遭到她的鄙弃。"
       ],
-      "mnemonic" : "dis-（表相反）+ -dain（=-dign-：尊贵；值得尊重的）→使不尊贵；\n不重视……→鄙视；蔑视；鄙弃",
-      "phonetic" : "dɪsˈdeɪn",
-      "pos" : "n.",
-      "rootHint" : "dain",
-      "word" : "disdain"
+      "mnemonic": "dis-（表相反）+ -dain（=-dign-：尊贵；值得尊重的）→使不尊贵；\n不重视……→鄙视；蔑视；鄙弃",
+      "phonetic": "dɪsˈdeɪn",
+      "pos": "n.",
+      "rootHint": "dain",
+      "word": "disdain"
     }
   ]
 }

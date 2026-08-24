@@ -1,128 +1,112 @@
 {
-  "chapter" : "19",
-  "chapterOrder" : 119,
-  "id" : "lyz",
-  "meaningEn" : "to loose, untie, a loosening",
-  "meaningZh" : "解开；松开",
-  "roots" : [
+  "chapter": "19",
+  "chapterOrder": 119,
+  "id": "lyz",
+  "meaningEn": "to loose, untie, a loosening",
+  "meaningZh": "解开；松开",
+  "roots": [
     "lyz",
     "lyst",
     "lysis",
     "lytic"
   ],
-  "semanticLabel" : "解开；松开",
-  "source" : "textbook-6",
-  "titleZh" : "解开；松开",
-  "words" : [
+  "semanticLabel": "解开；松开",
+  "source": "textbook-6",
+  "titleZh": "解开；松开",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "analyze the data：分析数据"
       ],
-      "definition" : "对……进行分析；分解（等于analyse）",
-      "examples" : [
-
-      ],
-      "frequency" : 2336,
-      "mnemonic" : "ana-（=throughout：从头到尾；彻底）+ -lyz（=loose：解开；松开）\n→从头到尾解开→分析；分解（比如：“分析”一个问题，就是把该",
-      "phonetic" : "ˈæn.ə.laɪz",
-      "pos" : "vt.",
-      "rootHint" : "lyz",
-      "word" : "analyze"
+      "definition": "对……进行分析；分解（等于analyse）",
+      "examples": [],
+      "frequency": 2336,
+      "mnemonic": "ana-（=throughout：从头到尾；彻底）+ -lyz（=loose：解开；松开）\n→从头到尾解开→分析；分解（比如：“分析”一个问题，就是把该",
+      "phonetic": "ˈænəˌlaɪz",
+      "pos": "vt.",
+      "rootHint": "lyz",
+      "word": "analyze"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cautious analysis：谨慎的分析"
       ],
-      "definition" : "（对事物的）分析，分析结果；化验分析",
-      "examples" : [
-
-      ],
-      "frequency" : 814,
-      "mnemonic" : "ana-（从头到尾；彻底）+ -lysis（=a loosening：松开；解开）→从头\n到尾解开→分析；分析结果",
-      "phonetic" : "əˈnælɪsɪs",
-      "pos" : "n.",
-      "rootHint" : "lysis",
-      "word" : "analysis"
+      "definition": "（对事物的）分析，分析结果；化验分析",
+      "examples": [],
+      "frequency": 814,
+      "mnemonic": "ana-（从头到尾；彻底）+ -lysis（=a loosening：松开；解开）→从头\n到尾解开→分析；分析结果",
+      "phonetic": "əˈnæləsɪs",
+      "pos": "n.",
+      "rootHint": "lysis",
+      "word": "analysis"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "元分析",
-      "examples" : [
-
-      ],
-      "frequency" : 19478,
-      "mnemonic" : "meta-（=between：在……之间）+ analysis（分析）→分析两个变量\n间关系→元分析",
-      "phonetic" : "ˌmetə ənæləsɪs",
-      "pos" : "n.",
-      "rootHint" : "lysis",
-      "word" : "meta-analysis"
+      "collocations": [],
+      "definition": "元分析",
+      "examples": [],
+      "frequency": 19478,
+      "mnemonic": "meta-（=between：在……之间）+ analysis（分析）→分析两个变量\n间关系→元分析",
+      "phonetic": "ˌmɛtəˈnæləsɪs",
+      "pos": "n.",
+      "rootHint": "lysis",
+      "word": "meta-analysis"
     },
     {
-      "collocations" : [
-        "a political\/food analyst：政治分析家；食物化验员"
+      "collocations": [
+        "a political/food analyst：政治分析家；食物化验员"
       ],
-      "definition" : "分析者；化验员；心理分析师",
-      "examples" : [
-
-      ],
-      "frequency" : 1681,
-      "mnemonic" : "ana-（从头到尾；彻底）+ -lyst（解开的人）→从头到尾解开的人→",
-      "phonetic" : "ˈænəlɪst",
-      "pos" : "n.",
-      "rootHint" : "lyst",
-      "word" : "analyst"
+      "definition": "分析者；化验员；心理分析师",
+      "examples": [],
+      "frequency": 1681,
+      "mnemonic": "ana-（从头到尾；彻底）+ -lyst（解开的人）→从头到尾解开的人→",
+      "phonetic": "ˈænəlɪst",
+      "pos": "n.",
+      "rootHint": "lyst",
+      "word": "analyst"
     },
     {
-      "collocations" : [
+      "collocations": [
         "analytical skills：分析技巧",
         "analytical mind：善于分析的头脑"
       ],
-      "definition" : "分析的；解析的",
-      "examples" : [
-
-      ],
-      "frequency" : 12379,
-      "mnemonic" : "analy（=analyze：分析；解析）+ -tic（形容词后缀，与……有关的）\n→分析的；解析的",
-      "phonetic" : "ˌænəˈlɪtɪk",
-      "pos" : "adj.",
-      "rootHint" : "lytic",
-      "word" : "analytic"
+      "definition": "分析的；解析的",
+      "examples": [],
+      "frequency": 12379,
+      "mnemonic": "analy（=analyze：分析；解析）+ -tic（形容词后缀，与……有关的）\n→分析的；解析的",
+      "phonetic": "ˌænəˈlɪtɪk",
+      "pos": "adj.",
+      "rootHint": "lytic",
+      "word": "analytic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an oxygen analyzer：氧气分析仪"
       ],
-      "definition" : "分析仪；分析者",
-      "examples" : [
-
-      ],
-      "frequency" : 18883,
-      "mnemonic" : "analyz（=analyze：分析）+ -er（名词后缀，表示人或物）→分析",
-      "phonetic" : "ˈænəlaɪzə",
-      "pos" : "n.",
-      "rootHint" : "lyz",
-      "word" : "analyzer"
+      "definition": "分析仪；分析者",
+      "examples": [],
+      "frequency": 18883,
+      "mnemonic": "analyz（=analyze：分析）+ -er（名词后缀，表示人或物）→分析",
+      "phonetic": "ˈænəˌlaɪzɚ",
+      "pos": "n.",
+      "rootHint": "lyz",
+      "word": "analyzer"
     },
     {
-      "collocations" : [
+      "collocations": [
         "...be partly paralyzed in the crash：在撞车事故中……部分瘫痪",
         "paralyze the economy：使经济陷于瘫痪"
       ],
-      "definition" : "使瘫痪；使丧失活动能力（同paralyse）",
-      "examples" : [
-
-      ],
-      "frequency" : 7261,
-      "mnemonic" : "para-（=beside：旁；侧）+ -lyze（=loosen, untie：松开；解开）→瘫",
-      "phonetic" : "ˈpærəˌlaɪz",
-      "pos" : "vt.",
-      "rootHint" : "lyz",
-      "word" : "paralyze"
+      "definition": "使瘫痪；使丧失活动能力（同paralyse）",
+      "examples": [],
+      "frequency": 7261,
+      "mnemonic": "para-（=beside：旁；侧）+ -lyze（=loosen, untie：松开；解开）→瘫",
+      "phonetic": "ˈpɛɹ.ə.laɪz",
+      "pos": "vt.",
+      "rootHint": "lyz",
+      "word": "paralyze"
     },
     {
-      "collocations" : [
+      "collocations": [
         "paralysis of both legs：双腿瘫痪",
         "sleep paralysis：睡眠麻痹",
         "kind of mental paralysis：一种精神瘫痪状态",
@@ -131,80 +115,70 @@
         "Paralysis is the loss of the ability to move and feel in all or part of your",
         "Paralysis is the state of being unable to act or function properly.\n近义词：palsy [ˈpɔːlzi] n. 瘫痪；麻痹（尤指四肢颤动类） 15692"
       ],
-      "definition" : "麻痹；瘫痪；（活动、工作等）能力的完全丧失，瘫痪",
-      "examples" : [
-
-      ],
-      "frequency" : 10238,
-      "mnemonic" : "paraly-（=paralyze：使瘫痪；使丧失活动能力）+ -sis（名词后缀，表\n状态）→比喻麻木，无能力的状态→麻痹；瘫痪",
-      "phonetic" : "pəˈɹæləsəs",
-      "pos" : "n.",
-      "rootHint" : "lysis",
-      "word" : "paralysis"
+      "definition": "麻痹；瘫痪；（活动、工作等）能力的完全丧失，瘫痪",
+      "examples": [],
+      "frequency": 10238,
+      "mnemonic": "paraly-（=paralyze：使瘫痪；使丧失活动能力）+ -sis（名词后缀，表\n状态）→比喻麻木，无能力的状态→麻痹；瘫痪",
+      "phonetic": "pəˈɹæ.lə.sɪs",
+      "pos": "n.",
+      "rootHint": "lysis",
+      "word": "paralysis"
     },
     {
-      "collocations" : [
-        "paralyzed from the neck\/chest\/waist down：脖子以下\/胸部以下\/腰部以",
+      "collocations": [
+        "paralyzed from the neck/chest/waist down：脖子以下/胸部以下/腰部以",
         "stand paralyzed for a moment：站在那里一时呆若木鸡",
         "paralyzed by fear：吓得不知所措的",
         "paralyzed with shock：惊呆了的"
       ],
-      "definition" : "瘫痪的；丧失活动能力的（同paralysed）",
-      "examples" : [
-
-      ],
-      "frequency" : 18039,
-      "mnemonic" : "paralyze（使瘫痪；使丧失活动能力）+ -ed（形容词后缀，……的）\n→瘫痪的；丧失活动能力的",
-      "phonetic" : "ˈpærəlaɪzd",
-      "pos" : "adj.",
-      "rootHint" : "lyz",
-      "word" : "paralyzed"
+      "definition": "瘫痪的；丧失活动能力的（同paralysed）",
+      "examples": [],
+      "frequency": 18039,
+      "mnemonic": "paralyze（使瘫痪；使丧失活动能力）+ -ed（形容词后缀，……的）\n→瘫痪的；丧失活动能力的",
+      "phonetic": "ˈpɛɹ.ə.laɪzd",
+      "pos": "adj.",
+      "rootHint": "lyz",
+      "word": "paralyzed"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a catalyst for change：促成变革"
       ],
-      "definition" : "催化剂；促使变化的人；引发变化的因素",
-      "examples" : [
-
-      ],
-      "frequency" : 8064,
-      "mnemonic" : "cata-（完全地）+ -lyst（解开的人或物）→完全解开……的人或物→",
-      "phonetic" : "ˈkæt.əl.ɪst",
-      "pos" : "n.",
-      "rootHint" : "lyst",
-      "word" : "catalyst"
+      "definition": "催化剂；促使变化的人；引发变化的因素",
+      "examples": [],
+      "frequency": 8064,
+      "mnemonic": "cata-（完全地）+ -lyst（解开的人或物）→完全解开……的人或物→",
+      "phonetic": "ˈkætəlɪst",
+      "pos": "n.",
+      "rootHint": "lyst",
+      "word": "catalyst"
     },
     {
-      "collocations" : [
+      "collocations": [
         "have a catalytic role：扮演催化角色"
       ],
-      "definition" : "起催化作用的；促进发生的；加速发生的",
-      "examples" : [
-
-      ],
-      "frequency" : 18526,
-      "mnemonic" : "cataly-（=catalyze：催化；促进）+ -tic（形容词后缀，与……有关\n的）→起催化作用的；促进发生的",
-      "phonetic" : "ˌkætəˈlɪtɪk",
-      "pos" : "adj.",
-      "rootHint" : "lytic",
-      "word" : "catalytic"
+      "definition": "起催化作用的；促进发生的；加速发生的",
+      "examples": [],
+      "frequency": 18526,
+      "mnemonic": "cataly-（=catalyze：催化；促进）+ -tic（形容词后缀，与……有关\n的）→起催化作用的；促进发生的",
+      "phonetic": "ˌkætəˈlɪtɪk",
+      "pos": "adj.",
+      "rootHint": "lytic",
+      "word": "catalytic"
     },
     {
-      "collocations" : [
+      "collocations": [
         "kidney dialysis：肾透析",
         "a dialysis machine：透析机"
       ],
-      "definition" : "透析（尤指将废物从肾病病人的血液中分离出来）",
-      "examples" : [
-
-      ],
-      "frequency" : 15500,
-      "mnemonic" : "dia-（=apart：分离）+ -ly-（解开；分开）+ -sis（名词后缀）→用于",
-      "phonetic" : "daɪˈælɪsɪs",
-      "pos" : "n.",
-      "rootHint" : "lysis",
-      "word" : "dialysis"
+      "definition": "透析（尤指将废物从肾病病人的血液中分离出来）",
+      "examples": [],
+      "frequency": 15500,
+      "mnemonic": "dia-（=apart：分离）+ -ly-（解开；分开）+ -sis（名词后缀）→用于",
+      "phonetic": "daɪ.ˈæ.lɪ.sɪs",
+      "pos": "n.",
+      "rootHint": "lysis",
+      "word": "dialysis"
     }
   ]
 }
