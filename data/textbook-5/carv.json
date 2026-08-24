@@ -1,6 +1,6 @@
 {
-  "chapter" : "21",
-  "chapterOrder" : 121,
+  "chapter" : "16",
+  "chapterOrder" : 116,
   "id" : "carv",
   "meaningEn" : "cut，表示“切割，雕刻”。",
   "roots" : [
@@ -1546,6 +1546,200 @@
       "pos" : "n.",
       "rootHint" : "carv",
       "word" : "scrapbook"
+    },
+    {
+      "collocations" : [
+        "curtail the number of troops：缩减部队数量",
+        "The lecture was curtailed by the fire alarm going off.\n那次讲座被突然鸣响的火警中断了。"
+      ],
+      "definition" : "缩短；减缩；限制",
+      "etymology" : "来自15世纪末期，“restrict or limit：限制”，来自古法语courtault “made short,” From 1550s as “cut short, cut off the end of.”",
+      "examples" : [
+        "Spending on books has been severely curtailed.\n购书开支已被大大削减。"
+      ],
+      "frequency" : 9237,
+      "mnemonic" : "cur-（=court：short）+ tail（尾巴）→cut short, cut the end of：缩短；\n切断尾巴→缩短；限制（缩短尾巴或“后备力量”，行动就会受到限",
+      "phonetic" : "kɜːˈteɪl",
+      "pos" : "vt.",
+      "rootHint" : "carv",
+      "word" : "curtail"
+    },
+    {
+      "collocations" : [
+        "to draw \/ pull \/ close the curtains：把窗帘拉上",
+        "a shower curtain：淋浴帘",
+        "a curtain of rain \/ smoke：雨 \/ 烟幕",
+        "curtain sth off：用帘子隔开",
+        "bring down the curtain on sth. \/ bring the curtain down on sth.：结束；标\n志着……的终结（拉下窗帘，幕布，表示“……落幕；终结”）\n因为cur-还表示“限制”的含义，因此由curtain构成的词组还有“绝\n境”（受到“限制”的极限）的含义，be curtains （for sb.）：绝望\n的处境；无法摆脱的困境；完蛋"
+      ],
+      "definition" : "窗帘；（舞台上的）幕，幕布；覆盖物，防护物 vt. 给（窗户或房间）装上帘子",
+      "examples" : [
+        "We left just before the final curtain.\n我们刚好在演出结束前离开。\nIt’s time to face the final curtain （=the end; death）.\n人生的戏该落幕了。\n由-ain构成的单词表示人或物：\n（1）表示“人”，即“……地方的人、精通……的人、信奉……的\n人”"
+      ],
+      "frequency" : 3659,
+      "mnemonic" : "curt（=cut：切开）+ -ain（表示物）→把房间内外切开的物体→窗",
+      "phonetic" : "ˈkɜːt(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "curtain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "船长",
+      "examples" : [
+
+      ],
+      "frequency" : 3375,
+      "mnemonic" : "capt-（头）+ -ain（名词后缀）→船长；机长；首领；上尉；（海",
+      "phonetic" : "ˈkæptɪn",
+      "rootHint" : "carv",
+      "word" : "captain"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "恶棍\/流氓\/坏人",
+      "examples" : [
+
+      ],
+      "frequency" : 8098,
+      "mnemonic" : "villa田庄（a略）+ -ain（名词后缀，人）→乡村乃粗俗之地，坏人较\nmountain→山（mount表示山）fountain [ˈfaʊntən] 5346→泉水（fount",
+      "phonetic" : "ˈvɪlən",
+      "rootHint" : "carv",
+      "word" : "villain"
+    },
+    {
+      "collocations" : [
+        "ornament on furniture or in architecture, from 1610s. 在家具或建筑上卷\n20000 词汇巅峰\n速\n记\n轴形饰物的含义来自1610年。",
+        "死海古卷：The Dead Sea Scroll",
+        "scroll down：（在计算机屏幕上的文本中）向下滚动"
+      ],
+      "definition" : "（写有文字的）卷轴；卷轴形装饰 vi. （在计算机屏幕上的文本中）滚动",
+      "etymology" : "n. 15世纪，“roll of parchment or paper：羊皮纸或纸做的卷轴”。来 自古法语escroe “scrap, roll of parchment：碎片；羊皮纸卷”As an v. 屏幕上的文本中）滚动 笔 记 区",
+      "examples" : [
+
+      ],
+      "frequency" : 10770,
+      "mnemonic" : "“to write down in a scroll：在卷轴上写下”→引申义为（在计算机",
+      "phonetic" : "skrəʊl",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "scroll"
+    },
+    {
+      "collocations" : [
+        "a scene of carnage：大屠杀的场面",
+        "carnage in Kosovo：科索沃大屠杀\n近义词：slaughter：屠杀",
+        "cows taken for slaughter：待宰奶牛"
+      ],
+      "definition" : "大屠杀",
+      "etymology" : "“great destruction by bloody violence, massacre,” c. 1600. 大屠杀，血腥 暴力造成巨大破坏。来自词根sker- “to cut：切下” 。",
+      "examples" : [
+
+      ],
+      "frequency" : 11805,
+      "mnemonic" : "carn-（切肉）+ -age（名词词尾）→把肉切下→大屠杀",
+      "phonetic" : "ˈkɑːnɪdʒ",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnage"
+    },
+    {
+      "collocations" : [
+        "wear a carnation in his buttonhole：在扣眼里插了一朵康乃馨"
+      ],
+      "definition" : "康乃馨",
+      "etymology" : "来自coronation“加冕；加冕典礼”的拼写异化形式。因为此种花通 常被用作花冠，或者从齿状冠状花瓣的外观。或者也因其外表的粉红 色而来自中世纪法语carnation“ person’s color or complexion：人的颜 色或肤色”（15世纪）。",
+      "examples" : [
+
+      ],
+      "frequency" : 19359,
+      "mnemonic" : "carn-（=flesh：肉）+ -ation（名词后缀）→flesh-colored：肉色原始意\n义为“粉红色，肉色”→（粉红色的）康乃馨（花）\n音记：[kɑːˈneɪʃ(ə)n]→康乃馨",
+      "phonetic" : "kɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnation"
+    },
+    {
+      "collocations" : [
+        "the carnival in Rio：里约热内卢的狂欢节",
+        "a carnival atmosphere：狂欢节的气氛\ncarnival of：激动人心的事物组合；五彩缤纷事物的组合\nthis summer’s carnival of sport：今年夏季的体育盛会"
+      ],
+      "definition" : "狂欢节；嘉年华",
+      "etymology" : "“来自中世纪拉丁语carne vale “‘flesh, farewell!’”“再见了，肉”！ 从民间词源上讲，carnival演变如下：为基督教斋戒节前纵情狂欢的 “谢肉节”。“time of merrymaking before Lent（Lent指大斋期，从圣 20000 词汇巅峰 速 记 笔 记 区 灰日至基督复活节前一日，共40天）”。封斋节期间禁止食肉和娱 乐。因此，人们在封斋节开始前三天纵情享乐。一些主张宗教改革的 人如新教徒便借此举办各种狂欢活动，挑战天主教的权威。久而久 之，carnival成为“狂欢节”的代名词，而封斋节却逐渐被人遗忘。 荷兰画家Pieter Bruegel（彼得·布吕赫尔）的名画《狂欢者与斋戒者 的斗争》（Fight Between Carnival an Lent）便反映了两教派之间的斗 争。1590s后，引申为“feasting or revelry in general：盛宴或狂欢的总 称”。",
+      "examples" : [
+
+      ],
+      "frequency" : 12867,
+      "mnemonic" : "carni-（肉）+-val（-ive + -al）→谢肉节→狂欢节；嘉年华",
+      "phonetic" : "ˈkɑːnɪv(ə)l",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnival"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "食肉动物；肉食者",
+      "examples" : [
+        "This is a delicious vegetarian dish that even carnivores love.\n这是一道肉食者们都喜欢的美味素食。"
+      ],
+      "frequency" : 15689,
+      "mnemonic" : "carni-（=flesh：肉）+ -vore（=eat：吃）→吃肉的动物→食肉动物；",
+      "phonetic" : "ˈkɑːnɪvɔː",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "carnivore"
+    },
+    {
+      "collocations" : [
+        "the incarnation of evil：邪恶的化身"
+      ],
+      "definition" : "化身；典型；道成肉身（上帝化身为耶稣来到人间）",
+      "etymology" : "14世纪，“embodiment of God in the person of Christ,”指上帝化身耶稣 基督道成肉身来到人间。来自后期拉丁语incarnari “be made flesh”， “变成肉身”。后来引申义为“化身，典型”。",
+      "examples" : [
+
+      ],
+      "frequency" : 9824,
+      "mnemonic" : "in-（=in）+ carn-（=flesh：肉）+ -ation（名词后缀）→变成肉身→",
+      "phonetic" : "ɪnkɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "incarnation"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "转世再生；（灵魂转世的）化身",
+      "examples" : [
+        "Many African tribes believe in reincarnation.\n很多非洲部落相信转世再生。"
+      ],
+      "frequency" : 18458,
+      "mnemonic" : "re-（再次）+ incarnation（变为肉身）→再次变为肉身→转世再生",
+      "phonetic" : "ˌriːɪnkɑːˈneɪʃ(ə)n",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "reincarnation"
+    },
+    {
+      "collocations" : [
+        "structure resembling bark or rind,” from Latin cortex “bark of a tree, ”",
+        "from PIE root sker-“to cut.” Specifically of the brain, by 1741. 1650年代，\n指“外壳，外壳”；在植物学，动物学，解剖学中，指“类似于树皮\n或果皮的某些部分或结构”，来自拉丁语cortex“树的树皮”，来自"
+      ],
+      "definition" : "皮层",
+      "examples" : [
+
+      ],
+      "frequency" : 14306,
+      "phonetic" : "ˈkɔːteks",
+      "pos" : "n.",
+      "rootHint" : "carv",
+      "word" : "cortex"
     }
   ]
 }

@@ -149,17 +149,17 @@ func isSubsectionChapterHeader(_ line: String) -> String? {
 
 func isSupplementaryHeader(_ t: String) -> Bool {
     if t.contains("····") { return true }
-    if t.contains("还可以表示") { return true }
+    if t.contains("还可以表示") || t.contains("可以表示") { return true }
     if t.contains("也可以表示"), let also = t.range(of: "也可以表示"), let first = t.range(of: "表示"), also.lowerBound > first.lowerBound {
         return true
     }
+    let bad = ["还可以", "也可以", "例如", "词汇如下", "变体有", "是源于单词", "是来源于", "是压缩自", "因此包括", "相关词汇", "引申义为", "派生出", "作动词表示", "作名词", "还可以进一步", "还可以进一步引申", "均表示\"to", "……"]
+    if bad.contains(where: { t.contains($0) }) { return true }
     if t.hasPrefix("词根") && t.count <= 160 {
-        if t.contains("表示") || t.contains("=") { return false }
+        if t.contains("=") { return false }
         if t.contains("\"") || t.contains("\u{201C}") || t.contains("\u{201D}") { return false }
         if t.range(of: #"词根\s*[-*“\"'][a-zA-Z]"#, options: .regularExpression) != nil { return false }
     }
-    let bad = ["还可以", "也可以", "例如", "词汇如下", "变体有", "是源于单词", "是来源于", "是压缩自", "因此包括", "相关词汇", "引申义为", "派生出", "作动词表示", "作名词", "还可以表示", "还可以进一步", "还可以进一步引申", "均表示\"to", "……"]
-    if bad.contains(where: { t.contains($0) }) { return true }
     if t.hasPrefix("词根\"") && !t.contains("=") { return true }
     return false
 }

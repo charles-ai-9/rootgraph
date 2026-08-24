@@ -137,26 +137,11 @@
     "semanticLabel" : "中间的。",
     "source" : "textbook-6",
     "titleZh" : "中间的。",
-    "wordCount" : 154
+    "wordCount" : 213
   },
   {
     "chapter" : "10",
     "chapterOrder" : 110,
-    "file" : "gn.json",
-    "id" : "gn",
-    "meaningEn" : "知道是源于单词know",
-    "meaningZh" : "知道，在该单词中，ow",
-    "roots" : [
-      "gn"
-    ],
-    "semanticLabel" : "知道，在该单词中，ow",
-    "source" : "textbook-6",
-    "titleZh" : "知道，在该单词中，ow",
-    "wordCount" : 59
-  },
-  {
-    "chapter" : "11",
-    "chapterOrder" : 111,
     "file" : "cur.json",
     "id" : "cur",
     "meaningEn" : "to run, flow, move quickly",
@@ -171,8 +156,8 @@
     "wordCount" : 36
   },
   {
-    "chapter" : "12",
-    "chapterOrder" : 112,
+    "chapter" : "11",
+    "chapterOrder" : 111,
     "file" : "car.json",
     "id" : "car",
     "meaningEn" : "",
@@ -188,8 +173,8 @@
     "wordCount" : 178
   },
   {
-    "chapter" : "13",
-    "chapterOrder" : 113,
+    "chapter" : "12",
+    "chapterOrder" : 112,
     "file" : "morph-也.json",
     "id" : "morph-也",
     "meaningEn" : "form, shape, figure",
@@ -203,8 +188,8 @@
     "wordCount" : 84
   },
   {
-    "chapter" : "14",
-    "chapterOrder" : 114,
+    "chapter" : "13",
+    "chapterOrder" : 113,
     "file" : "lun.json",
     "id" : "lun",
     "meaningEn" : "",
@@ -218,8 +203,8 @@
     "wordCount" : 2
   },
   {
-    "chapter" : "15",
-    "chapterOrder" : 115,
+    "chapter" : "14",
+    "chapterOrder" : 114,
     "file" : "lus.json",
     "id" : "lus",
     "meaningEn" : "",
@@ -234,8 +219,8 @@
     "wordCount" : 11
   },
   {
-    "chapter" : "16",
-    "chapterOrder" : 116,
+    "chapter" : "15",
+    "chapterOrder" : 115,
     "file" : "lumin.json",
     "id" : "lumin",
     "meaningEn" : "light, shine，表示“光；发亮；照射”。",
@@ -249,8 +234,8 @@
     "wordCount" : 21
   },
   {
-    "chapter" : "17",
-    "chapterOrder" : 117,
+    "chapter" : "16",
+    "chapterOrder" : 116,
     "file" : "lev.json",
     "id" : "lev",
     "meaningEn" : "light, 也表示“to lift up, lighten",
@@ -266,8 +251,8 @@
     "wordCount" : 22
   },
   {
-    "chapter" : "18",
-    "chapterOrder" : 118,
+    "chapter" : "17",
+    "chapterOrder" : 117,
     "file" : "solv.json",
     "id" : "solv",
     "meaningEn" : "",
@@ -285,8 +270,8 @@
     "wordCount" : 11
   },
   {
-    "chapter" : "19",
-    "chapterOrder" : 119,
+    "chapter" : "18",
+    "chapterOrder" : 118,
     "file" : "solv-2.json",
     "id" : "solv-2",
     "meaningEn" : "",
@@ -304,8 +289,8 @@
     "wordCount" : 18
   },
   {
-    "chapter" : "20",
-    "chapterOrder" : 120,
+    "chapter" : "19",
+    "chapterOrder" : 119,
     "file" : "lyz.json",
     "id" : "lyz",
     "meaningEn" : "to loose, untie, a loosening",
@@ -322,8 +307,8 @@
     "wordCount" : 12
   },
   {
-    "chapter" : "21",
-    "chapterOrder" : 121,
+    "chapter" : "20",
+    "chapterOrder" : 120,
     "file" : "lyze.json",
     "id" : "lyze",
     "meaningEn" : "松开，解开，是与单词loose",
@@ -337,8 +322,8 @@
     "wordCount" : 26
   },
   {
-    "chapter" : "22",
-    "chapterOrder" : 122,
+    "chapter" : "21",
+    "chapterOrder" : 121,
     "file" : "publ.json",
     "id" : "publ",
     "meaningEn" : "public",
@@ -352,8 +337,8 @@
     "wordCount" : 53
   },
   {
-    "chapter" : "23",
-    "chapterOrder" : 123,
+    "chapter" : "22",
+    "chapterOrder" : 122,
     "file" : "reg.json",
     "id" : "reg",
     "meaningEn" : "统治，是与单词reign",
@@ -365,28 +350,13 @@
     "semanticLabel" : "统治；支配有关（n",
     "source" : "textbook-6",
     "titleZh" : "统治；支配有关（n",
-    "wordCount" : 3
+    "wordCount" : 21
   },
   {
-    "chapter" : "24",
-    "chapterOrder" : 124,
+    "chapter" : "23",
+    "chapterOrder" : 123,
     "file" : "reg-2.json",
     "id" : "reg-2",
-    "meaningEn" : "move in straight line",
-    "meaningZh" : "以直线移动，横着走。因此派生出to",
-    "roots" : [
-      "reg"
-    ],
-    "semanticLabel" : "以直线移动，横着走。",
-    "source" : "textbook-6",
-    "titleZh" : "以直线移动，横着走。",
-    "wordCount" : 18
-  },
-  {
-    "chapter" : "25",
-    "chapterOrder" : 125,
-    "file" : "reg-3.json",
-    "id" : "reg-3",
     "meaningEn" : "to rule",
     "meaningZh" : "管理；监管；支配；控制。",
     "roots" : [
@@ -398,10 +368,10 @@
     "wordCount" : 8
   },
   {
-    "chapter" : "26",
-    "chapterOrder" : 126,
-    "file" : "reg-4.json",
-    "id" : "reg-4",
+    "chapter" : "24",
+    "chapterOrder" : 124,
+    "file" : "reg-3.json",
+    "id" : "reg-3",
     "meaningEn" : "rule, 表示“习惯，常规，规则”。",
     "meaningZh" : "",
     "roots" : [
@@ -413,8 +383,8 @@
     "wordCount" : 8
   },
   {
-    "chapter" : "27",
-    "chapterOrder" : 127,
+    "chapter" : "25",
+    "chapterOrder" : 125,
     "file" : "rog.json",
     "id" : "rog",
     "meaningEn" : "reg-，表示",
@@ -428,8 +398,8 @@
     "wordCount" : 2
   },
   {
-    "chapter" : "28",
-    "chapterOrder" : 128,
+    "chapter" : "26",
+    "chapterOrder" : 126,
     "file" : "rog-2.json",
     "id" : "rog-2",
     "meaningEn" : "to ask, question, entreat, request",
@@ -440,26 +410,11 @@
     "semanticLabel" : "询问；请求；要求。",
     "source" : "textbook-6",
     "titleZh" : "询问；请求；要求。",
-    "wordCount" : 37
+    "wordCount" : 61
   },
   {
-    "chapter" : "29",
-    "chapterOrder" : 129,
-    "file" : "29.json",
-    "id" : "29",
-    "meaningEn" : "",
-    "meaningZh" : "矫正，纠正，作名",
-    "roots" : [
-
-    ],
-    "semanticLabel" : "矫正，纠正，作名",
-    "source" : "textbook-6",
-    "titleZh" : "矫正，纠正，作名",
-    "wordCount" : 24
-  },
-  {
-    "chapter" : "31",
-    "chapterOrder" : 131,
+    "chapter" : "28",
+    "chapterOrder" : 128,
     "file" : "rect.json",
     "id" : "rect",
     "meaningEn" : "right，表示“纠正；矫正；改正”。",
@@ -473,8 +428,8 @@
     "wordCount" : 3
   },
   {
-    "chapter" : "32",
-    "chapterOrder" : 132,
+    "chapter" : "29",
+    "chapterOrder" : 129,
     "file" : "surg-也与词根reg.json",
     "id" : "surg-也与词根reg",
     "meaningEn" : "to rise, arise, get up, mount up, ascend, attack",
@@ -488,8 +443,8 @@
     "wordCount" : 13
   },
   {
-    "chapter" : "33",
-    "chapterOrder" : 133,
+    "chapter" : "30",
+    "chapterOrder" : 130,
     "file" : "isol.json",
     "id" : "isol",
     "meaningEn" : "isle",
@@ -500,26 +455,11 @@
     "semanticLabel" : "岛屿",
     "source" : "textbook-6",
     "titleZh" : "岛屿",
-    "wordCount" : 4
+    "wordCount" : 26
   },
   {
-    "chapter" : "34",
-    "chapterOrder" : 134,
-    "file" : "34.json",
-    "id" : "34",
-    "meaningEn" : "切割，是源于单词cut",
-    "meaningZh" : "切割。",
-    "roots" : [
-
-    ],
-    "semanticLabel" : "切割。",
-    "source" : "textbook-6",
-    "titleZh" : "切割。",
-    "wordCount" : 22
-  },
-  {
-    "chapter" : "35",
-    "chapterOrder" : 135,
+    "chapter" : "31",
+    "chapterOrder" : 131,
     "file" : "li.json",
     "id" : "li",
     "meaningEn" : "tie, bind",
@@ -534,8 +474,8 @@
     "wordCount" : 24
   },
   {
-    "chapter" : "36",
-    "chapterOrder" : 136,
+    "chapter" : "32",
+    "chapterOrder" : 132,
     "file" : "chall.json",
     "id" : "chall",
     "meaningEn" : "call”表示“呼喊；叫嚣；挑衅”。",
@@ -549,8 +489,8 @@
     "wordCount" : 19
   },
   {
-    "chapter" : "37",
-    "chapterOrder" : 137,
+    "chapter" : "33",
+    "chapterOrder" : 133,
     "file" : "scend.json",
     "id" : "scend",
     "meaningEn" : "to climb",
@@ -564,8 +504,8 @@
     "wordCount" : 48
   },
   {
-    "chapter" : "39",
-    "chapterOrder" : 139,
+    "chapter" : "35",
+    "chapterOrder" : 135,
     "file" : "dec.json",
     "id" : "dec",
     "meaningEn" : "fit, proper, suit",
@@ -579,8 +519,8 @@
     "wordCount" : 4
   },
   {
-    "chapter" : "40",
-    "chapterOrder" : 140,
+    "chapter" : "36",
+    "chapterOrder" : 136,
     "file" : "dec-2.json",
     "id" : "dec-2",
     "meaningEn" : "ornament",
@@ -594,8 +534,8 @@
     "wordCount" : 18
   },
   {
-    "chapter" : "41",
-    "chapterOrder" : 141,
+    "chapter" : "37",
+    "chapterOrder" : 137,
     "file" : "dain.json",
     "id" : "dain",
     "meaningEn" : "dignity",
@@ -609,8 +549,8 @@
     "wordCount" : 2
   },
   {
-    "chapter" : "42",
-    "chapterOrder" : 142,
+    "chapter" : "38",
+    "chapterOrder" : 138,
     "file" : "doc.json",
     "id" : "doc",
     "meaningEn" : "to teach",
@@ -624,8 +564,8 @@
     "wordCount" : 13
   },
   {
-    "chapter" : "43",
-    "chapterOrder" : 143,
+    "chapter" : "39",
+    "chapterOrder" : 139,
     "file" : "dog.json",
     "id" : "dog",
     "meaningEn" : "doc-=to teach",
@@ -639,8 +579,8 @@
     "wordCount" : 2
   },
   {
-    "chapter" : "44",
-    "chapterOrder" : 144,
+    "chapter" : "40",
+    "chapterOrder" : 140,
     "file" : "dox.json",
     "id" : "dox",
     "meaningEn" : "doc-，含义为“教”。",
@@ -654,8 +594,8 @@
     "wordCount" : 49
   },
   {
-    "chapter" : "45",
-    "chapterOrder" : 145,
+    "chapter" : "41",
+    "chapterOrder" : 141,
     "file" : "ger.json",
     "id" : "ger",
     "meaningEn" : "hand",
@@ -669,8 +609,8 @@
     "wordCount" : 1
   },
   {
-    "chapter" : "46",
-    "chapterOrder" : 146,
+    "chapter" : "42",
+    "chapterOrder" : 142,
     "file" : "urg-y.json",
     "id" : "urg-y",
     "meaningEn" : "制作",
@@ -684,8 +624,8 @@
     "wordCount" : 12
   },
   {
-    "chapter" : "47",
-    "chapterOrder" : 147,
+    "chapter" : "43",
+    "chapterOrder" : 143,
     "file" : "im.json",
     "id" : "im",
     "meaningEn" : "to copy",

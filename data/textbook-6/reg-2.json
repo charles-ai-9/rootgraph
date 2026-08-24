@@ -1,302 +1,137 @@
 {
-  "chapter" : "24",
-  "chapterOrder" : 124,
+  "chapter" : "23",
+  "chapterOrder" : 123,
   "id" : "reg-2",
-  "meaningEn" : "move in straight line",
-  "meaningZh" : "以直线移动，横着走。因此派生出to",
+  "meaningEn" : "to rule",
+  "meaningZh" : "管理；监管；支配；控制。",
   "roots" : [
     "reg"
   ],
-  "semanticLabel" : "以直线移动，横着走。",
+  "semanticLabel" : "管理；监管；支配；控制。",
   "source" : "textbook-6",
-  "titleZh" : "以直线移动，横着走。",
+  "titleZh" : "管理；监管；支配；控制。",
   "words" : [
     {
       "collocations" : [
-        "developed regions and areas：发达地区",
-        "tropical regions：热带地区"
+        "the regulating authority：管理部门",
+        "regulate the flow of water：调节水流"
       ],
-      "definition" : "地区；区域；行政区；（身体）部位794",
+      "definition" : "（用规则条例）控制，管理，监管；调节，控制（速度、压力、温度等）",
       "examples" : [
 
       ],
-      "mnemonic" : "reg-（统治；管理）+ -ion（名词后缀）→统治的地方→区域；行政区",
-      "phonetic" : "ˈriːdʒən",
-      "pos" : "n.",
+      "frequency" : 3413,
+      "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ate（使动词后缀）→控制；",
+      "phonetic" : "ˈregjʊleɪt",
+      "pos" : "vt.",
       "rootHint" : "reg",
-      "word" : "region"
+      "word" : "regulate"
     },
     {
       "collocations" : [
-        "regional newspaper：地方报纸"
+
       ],
-      "definition" : "地区的；区域的；地方的",
+      "definition" : "控制；管理；规定（regulate的过去式和过去分词）",
       "examples" : [
 
       ],
-      "frequency" : 1654,
-      "phonetic" : "ˈriːdʒənl",
+      "frequency" : 14682,
+      "phonetic" : "ˈreɡjʊˌleɪtɪd",
+      "pos" : "vt.",
+      "rootHint" : "reg",
+      "word" : "regulated"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "未受控制的；未受管理的",
+      "examples" : [
+
+      ],
+      "frequency" : 13787,
+      "mnemonic" : "un-（=not：没有）+ regulated（控制；管理）→未受控制的；未受管",
+      "phonetic" : "ʌnˈregjʊleɪtɪd",
       "pos" : "adj.",
       "rootHint" : "reg",
-      "word" : "regional"
+      "word" : "unregulated"
     },
     {
       "collocations" : [
-        "regionally based television companies：地方性的电视公司"
+        "It is agreed that when morality and interests conflict with each other, self-",
+        "regulation does not work."
       ],
-      "definition" : "地域性地；地方地",
+      "definition" : "规则，法规；（运用规则条例的）管理，控制",
       "examples" : [
-
+        "Self-regulation doesn’t work.\n自我调控并不起作用。",
+        "人们普遍同意，当道德和利益发生冲突之时，自我调控并不能起\n到效果。"
       ],
-      "frequency" : 19527,
-      "phonetic" : "ˈriːdʒənəli",
-      "pos" : "adv.",
-      "rootHint" : "reg",
-      "word" : "regionally"
-    },
-    {
-      "collocations" : [
-        "a fascist\/military regime：法西斯、军事等政权",
-        "tax regime：税收体制",
-        "a new fitness regime：一套新的健康养生法（管理身体的方法）",
-        "dietary regime：饮食规则\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition" : "统治制度，政权，政体；（机构、公司或经济等的）管理体制；养生法",
-      "examples" : [
-
-      ],
-      "frequency" : 1862,
-      "mnemonic" : "reg-（统治；管理）+ -ime（=ine：名词后缀）→政权（即“统治",
-      "phonetic" : "reɪˈʒiːm",
+      "frequency" : 1685,
+      "mnemonic" : "reg-（管理；控制）+ ul（连接符号）+ -ation（=-ate + -ion：复合名\n词后缀）→管理，控制；规则（即：用来“管理”的东西）",
+      "phonetic" : "regjʊˈleɪʃn",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "regime"
+      "word" : "regulation"
     },
     {
       "collocations" : [
-        "A set of rules about food and exercise or medical treatment that you follow",
-        "in order to stay healthy or to improve your health."
+
       ],
-      "definition" : "养生法；生活规则",
+      "definition" : "（某行业等的）监管者；监管机构",
       "examples" : [
-        "Whatever regimen has been prescribed should be rigorously followed.\n不管制订的是什么样的养生计划，都要严格遵守。\n释义：（medical医）养生法"
+        "An independent regulator will be appointed to ensure fair competition.\n一个独立的监管机构将受委派来确保公平竞争。"
       ],
-      "frequency" : 8049,
-      "mnemonic" : "reg-（管理）+ i + -men→管理自己身体的方法→养生法",
-      "phonetic" : "ˈredʒɪmən",
+      "frequency" : 4782,
+      "mnemonic" : "regulat（=regulate：监管）+ -or（表示人或物）→监管者；监管机构",
+      "phonetic" : "ˈregjʊleɪtə",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "regimen"
+      "word" : "regulator"
     },
     {
       "collocations" : [
-        "a regiment of hungry customers：一大群饥饿的顾客"
+        "regulatory bodies\/authorities\/agencies：监管部门\/机构"
       ],
-      "definition" : "（军队的）团；一大群人（或事物）",
+      "definition" : "（对工商业）具有监管权的，监管的",
       "examples" : [
 
       ],
-      "frequency" : 10540,
-      "mnemonic" : "reg-（统治；管理）+ i + -ment（名词后缀）→（受到统治、管理\n的）军团→一大群人",
-      "phonetic" : "ˈredʒɪmənt",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "regiment"
-    },
-    {
-      "collocations" : [
-        "regal power：王权",
-        "the regal splendor of the palace：帝王宫殿之豪华气派"
-      ],
-      "definition" : "帝王的；王室的；豪华的",
-      "examples" : [
-
-      ],
-      "frequency" : 12534,
-      "mnemonic" : "reg-（统治）+ -al（形容词后缀）→居于统治地位的→帝王的；王室",
-      "phonetic" : "ˈriːgl",
+      "frequency" : 3977,
+      "mnemonic" : "regulat（=regulate：监管）+ -ory（形容词后缀，……的）→监管的",
+      "phonetic" : "ˈreɡjələtəri",
       "pos" : "adj.",
       "rootHint" : "reg",
-      "word" : "regal"
+      "word" : "regulatory"
     },
     {
       "collocations" : [
-        "officials in full regalia：全副盛装的官员"
+        "deregulate financial markets：放宽对金融市场的管制"
       ],
-      "definition" : "（国王或法官等在正式场合穿的）盛装，礼服",
+      "definition" : "撤销对（贸易、商业活动等）的管制；解除控制",
       "examples" : [
 
       ],
-      "frequency" : 19918,
-      "mnemonic" : "regal（王室的）+ -ia（名词后缀）→原指王室成员在特定场合穿戴的",
-      "phonetic" : "rɪˈgeɪlɪə",
+      "frequency" : 17678,
+      "mnemonic" : "de-（表相反）+ regulate（管制；控制）→不对……进行控制→撤销",
+      "phonetic" : "ˌdiːˈreɡjuleɪt",
+      "pos" : "vt.",
+      "rootHint" : "reg",
+      "word" : "deregulate"
+    },
+    {
+      "collocations" : [
+
+      ],
+      "definition" : "（在商贸领域）解除管制",
+      "examples" : [
+        "Since deregulation, banks are permitted to set their own interest rates."
+      ],
+      "frequency" : 8856,
+      "mnemonic" : "de-（表相反）+ regulat（=regulate：管制）+ -ion（名词后缀）→解除",
+      "phonetic" : "ˌdiːˌreɡjuˈleɪʃn",
       "pos" : "n.",
       "rootHint" : "reg",
-      "word" : "regalia"
-    },
-    {
-      "collocations" : [
-        "to act as regent：担任摄政王",
-        "the Prince Regent：摄政王\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition" : "摄政王；摄政者",
-      "examples" : [
-
-      ],
-      "frequency" : 16071,
-      "mnemonic" : "reg-（统治）+ -ent（人）→统治的人→摄政王；摄政者",
-      "phonetic" : "ˈriːdʒənt",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "regent"
-    },
-    {
-      "collocations" : [
-        "in the realm of literature：在文学领域内",
-        "beyond\/within the realms of possibility：超出\/在可能范围",
-        "the defense of the realm：王国的防卫\n笔 记 区"
-      ],
-      "definition" : "（活动、兴趣、思想的）领域，场所，范围；王国",
-      "examples" : [
-
-      ],
-      "frequency" : 3948,
-      "mnemonic" : "realm=kingdom：王国；管辖范围；领域",
-      "phonetic" : "relm",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "realm"
-    },
-    {
-      "collocations" : [
-
-      ],
-      "definition" : "（尤指年轻女子害怕肥胖而引起的）厌食，神经性厌食",
-      "examples" : [
-
-      ],
-      "frequency" : 17449,
-      "mnemonic" : "an-（=without：没有；缺乏）+ -orex（=reg-：以直线移动，引申为\n“伸出；想要；欲望”）+ -ia（名词后缀，表疾病名称）→没有（食\n物）欲望的病→厌食；神经性厌食症",
-      "phonetic" : "ˌænəˈreksiə",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "anorexia"
-    },
-    {
-      "collocations" : [
-        "in\/during the reign of：在……统治期间"
-      ],
-      "definition" : "统治时期；任期 vi. 统治；当政；成为最佳",
-      "examples" : [
-        "In the field of classical music, he still reigns supreme.\n在古典音乐领域，他仍然是最为杰出的。\n单词 reign 的近义词："
-      ],
-      "frequency" : 7768,
-      "mnemonic" : "reign（=rule：统治；支配）→（君主）统治（时期）→统治；任期\n→引申义为成为某领域的最佳（控制某领域）",
-      "phonetic" : "reɪn",
-      "pos" : "vi.",
-      "rootHint" : "reg",
-      "word" : "reign"
-    },
-    {
-      "collocations" : [
-        "hand over the reins of power：让权",
-        "take up the reins of office：走马上任\n笔 记 区\n20000 词汇巅峰\n速\n记\ngive\/allow sb.\/sth. free\/full rein give\/allow free\/full rein to sth.：对……不\n加约束；放任自由；充分表达（感情）\nrein sb.\/sth. back\/rein sth. in：严格控制；加强管理",
-        "We need to rein back public spending.\n我们需要严格控制公共开销。",
-        "She kept her emotions tightly reined in.\n她尽量克制着自己的感情。"
-      ],
-      "definition" : "控制；掌管；约束；缰绳 v. 严格控制；加强管理；用缰绳勒马",
-      "examples" : [
-        "The designer was given free rein.\n设计者可以自由发挥。"
-      ],
-      "frequency" : 8794,
-      "mnemonic" : "rein=control：控制；掌管；约束；管理",
-      "phonetic" : "reɪn",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "rein"
-    },
-    {
-      "collocations" : [
-        "the reigning monarch：当政的君主",
-        "the reigning world champion：本届世界冠军"
-      ],
-      "definition" : "统治的，在位的；（冠军）本届的",
-      "examples" : [
-
-      ],
-      "frequency" : 15017,
-      "mnemonic" : "reign（统治；成为最佳）+ -ing（形容词后缀）→统治的；（冠军）",
-      "phonetic" : "ˈreɪnɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "reg",
-      "word" : "reigning"
-    },
-    {
-      "collocations" : [
-        "a sovereign ruler：掌握全部权力的（最高）统治者",
-        "sovereign power：至高无上的权力",
-        "independent sovereign states：独立主权国家",
-        "British sovereign：英国君主"
-      ],
-      "definition" : "掌握全部权力的；有主权的，完全独立的 n. 君主；元首",
-      "examples" : [
-
-      ],
-      "frequency" : 8196,
-      "mnemonic" : "sover（=super-：在上；超过）+ reign（统治）→在上统治的，没有更\n高约束的→掌握全部权力的；有主权的；君主",
-      "phonetic" : "ˈsɒvrɪn",
-      "pos" : "adj.",
-      "rootHint" : "reg",
-      "word" : "sovereign"
-    },
-    {
-      "collocations" : [
-        "territorial sovereignty：领土主权",
-        "consumer sovereignty：消费者至上",
-        "full sovereignty：完全独立自主\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition" : "最高统治权，主权；独立自主",
-      "examples" : [
-
-      ],
-      "frequency" : 4907,
-      "mnemonic" : "sovereign（最高统治权的，主权的）+ -ty（名词后缀）→最高统治",
-      "phonetic" : "ˈsɒvrənti",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "sovereignty"
-    },
-    {
-      "collocations" : [
-        "a royal welcome：盛大的欢迎",
-        "the Royal Academy of Music：皇家音乐学院\n笔 记 区"
-      ],
-      "definition" : "皇家的；王室的；盛大的 n. 王室成员",
-      "etymology" : "来自拉丁语regalis=of a king, kingly：国王的，王室的。",
-      "examples" : [
-
-      ],
-      "frequency" : 4352,
-      "mnemonic" : "roy-（=reg-：王室的）+ -al（形容词后缀）→王室的；盛大的\nroy-（王室的）+ -al（名词后缀）→王室成员",
-      "phonetic" : "ˈrɒɪəl",
-      "pos" : "adj.",
-      "rootHint" : "reg",
-      "word" : "royal"
-    },
-    {
-      "collocations" : [
-        "The royalties enabled the inventor to re-establish himself in business.\n这些使用费使这名发明者能再次立足商界。"
-      ],
-      "definition" : "王室；版税；（发明、创意、财产等的）使用费",
-      "examples" : [
-        "I lived on about $5,000 a year from the royalties on my book.\n我靠的大约五千美元的出书版税生活。"
-      ],
-      "frequency" : 7017,
-      "mnemonic" : "royal（国王的，王室的）+ -ty（名词后缀）→引申词义王室成员→引",
-      "phonetic" : "ˈrɒɪəltɪ",
-      "pos" : "n.",
-      "rootHint" : "reg",
-      "word" : "royalty"
+      "word" : "deregulation"
     }
   ]
 }
