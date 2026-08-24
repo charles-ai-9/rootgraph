@@ -178,9 +178,11 @@ export function WordSearchResults({
               setAttributionHit(null);
               window.setTimeout(() => setToast(''), 2600);
             }}
-            onCreateAndMove={(roots) => {
+            onCreateAndMove={(roots, textbook) => {
               const id = roots[0];
-              if (!userFamilies[id]) createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+              if (!userFamilies[id]) {
+                createUserFamily({ id, roots, meaningZh: '', meaningEn: '', textbook });
+              }
               moveWordsToUserFamily(id, [wordEntry], from);
               setToast(`已创建并归入 ${roots.join(' · ')}`);
               setAttributionHit(null);

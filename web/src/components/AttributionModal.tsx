@@ -16,8 +16,8 @@ interface AttributionModalProps {
   getUserFamilyWords: (id: string) => UserFamilyWord[];
   /** 归入已有我的词根 */
   onMove: (familyId: string) => void;
-  /** 创建词根并归入（roots 已解析） */
-  onCreateAndMove: (roots: string[]) => void;
+  /** 创建词根并归入（roots 已解析；textbook 可选目标教材） */
+  onCreateAndMove: (roots: string[], textbook?: string) => void;
   onClose: () => void;
 }
 
@@ -37,6 +37,7 @@ export function AttributionModal({
   onClose,
 }: AttributionModalProps) {
   const [query, setQuery] = useState('');
+  const [createTextbook, setCreateTextbook] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -81,7 +82,7 @@ export function AttributionModal({
       .split(/[，,、]/)
       .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
       .filter(Boolean);
-    if (roots.length) onCreateAndMove(roots);
+    if (roots.length) onCreateAndMove(roots, createTextbook || undefined);
   };
 
   return (
@@ -167,10 +168,26 @@ export function AttributionModal({
           )}
 
           {showCreate && (
-            <button type="button" className="attribution-create" onClick={submitCreate}>
-              ＋ 创建词根「{query.trim().replace(/[，,、]/g, ' · ')}」并归入
-              {isBatch ? ` ${count} 词` : ` ${word.word}`}
-            </button>
+            <div className="attribution-create-block">
+              <button type="button" className="attribution-create" onClick={submitCreate}>
+                ＋ 创建词根「{query.trim().replace(/[，,、]/g, ' · ')}」并归入
+                {isBatch ? ` ${count} 词` : ` ${word.word}`}
+                {createTextbook ? `（${textbookLabel(createTextbook)}）` : ''}
+              </button>
+              <select
+                className="attribution-textbook-select"
+                value={createTextbook}
+                onChange={(e) => setCreateTextbook(e.target.value)}
+                aria-label="目标教材"
+              >
+                <option value="">我的词根（仅本机）</option>
+                {['textbook-1', 'textbook-2', 'textbook-3', 'textbook-4', 'textbook-5', 'textbook-6', 'textbook-7', 'textbook-8'].map((tb) => (
+                  <option key={tb} value={tb}>
+                    {textbookLabel(tb)}
+                  </option>
+                ))}
+              </select>
+            </div>
           )}
 
           {!q && myMatches.length === 0 && (

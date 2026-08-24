@@ -5816,3 +5816,35 @@ textarea {
     padding: 6px 12px;
   }
 }
+
+/* ══ 教材词根：教材选择下拉 / 创建块 / 提示 ══ */
+.family-meta-field select.family-meta-input {
+  appearance: auto;
+  -webkit-appearance: auto;
+  cursor: pointer;
+}
+
+.family-meta-hint {
+  margin: 6px 0 0;
+  font-size: 0.78rem;
+  color: var(--text-light);
+  line-height: 1.5;
+}
+
+.attribution-create-block {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.attribution-textbook-select {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px 12px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.85rem;
+  background: #fff;
+  color: var(--text);
+  cursor: pointer;
+}

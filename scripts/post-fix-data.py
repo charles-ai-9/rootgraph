@@ -297,6 +297,23 @@ def recover_missing_words() -> None:
                     save(idx_path, idx)
 
 
+def ensure_judge_in_jud() -> None:
+    """judge 词条归入教材3 的 jud 族（jus · jud）：从 dict 移除残留，确保 jud 族存在。
+
+    重导流程：parse 教材3（judge 原文段落被漏检，dict 不含 judge）→ recover_missing_words
+    （missing-words 已不含 judge）→ 本函数确保 dict 无 judge、jud 族由手动族恢复。
+    """
+    dict_path = ROOT / "data" / "textbook-3" / "dict.json"
+    if dict_path.exists():
+        fam = load(dict_path)
+        before = len(fam.get("words", []))
+        fam["words"] = [w for w in fam.get("words", []) if w.get("word") != "judge"]
+        if len(fam["words"]) != before:
+            save(dict_path, fam)
+            print(f"  post-fix: dict 族移除 judge（归入 jud 族）")
+    # jud 族由 restore_manual_families 从 scripts/manual-data/textbook-3-jud.json 恢复
+
+
 def apply_american_phonetics() -> None:
     """全库音标替换为美式 IPA（scripts/manual-data/phonetic-american.json，AI 生成，幂等重放）"""
     table_path = MANUAL_DATA / "phonetic-american.json"
@@ -333,6 +350,7 @@ def main() -> None:
     ensure_family_metadata()
     remove_null_fields()
     recover_missing_words()
+    ensure_judge_in_jud()
     apply_american_phonetics()
     print("post-fix 完成")
 

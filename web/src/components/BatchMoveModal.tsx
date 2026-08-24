@@ -20,8 +20,8 @@ interface BatchMoveModalProps {
   onClose: () => void;
   /** 挂载到已有词根（用户词根 id） */
   onMove: (familyId: string) => void;
-  /** 输入新词根名（已解析为 roots 数组）并挂载 */
-  onCreateAndMove: (roots: string[]) => void;
+  /** 输入新词根名（已解析为 roots 数组）并挂载；textbook 可选目标教材 */
+  onCreateAndMove: (roots: string[], textbook?: string) => void;
   /** 从 catalog 选中：若无同名用户词根则先创建再挂载 */
   onMoveViaCatalog: (entry: CatalogEntry) => void;
 }
@@ -54,6 +54,7 @@ export function BatchMoveModal({
   onMoveViaCatalog,
 }: BatchMoveModalProps) {
   const [query, setQuery] = useState('');
+  const [createTextbook, setCreateTextbook] = useState('');
   const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
@@ -118,7 +119,7 @@ export function BatchMoveModal({
       .split(/[，,、]/)
       .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
       .filter(Boolean);
-    if (roots.length) onCreateAndMove(roots);
+    if (roots.length) onCreateAndMove(roots, createTextbook || undefined);
   };
 
   const handleSelect = (target: BatchMoveTarget) => {
@@ -168,9 +169,25 @@ export function BatchMoveModal({
 
         <div className="batch-modal-list">
           {showCreate && (
-            <button type="button" className="batch-modal-create" onClick={submitCreate}>
-              ＋ 创建词根「{query.trim()}」并挂载 {count} 词
-            </button>
+            <div className="attribution-create-block">
+              <button type="button" className="batch-modal-create" onClick={submitCreate}>
+                ＋ 创建词根「{query.trim()}」并挂载 {count} 词
+                {createTextbook ? `（${textbookLabel(createTextbook)}）` : ''}
+              </button>
+              <select
+                className="attribution-textbook-select"
+                value={createTextbook}
+                onChange={(e) => setCreateTextbook(e.target.value)}
+                aria-label="目标教材"
+              >
+                <option value="">我的词根（仅本机）</option>
+                {['textbook-1', 'textbook-2', 'textbook-3', 'textbook-4', 'textbook-5', 'textbook-6', 'textbook-7', 'textbook-8'].map((tb) => (
+                  <option key={tb} value={tb}>
+                    {textbookLabel(tb)}
+                  </option>
+                ))}
+              </select>
+            </div>
           )}
           {filtered.length === 0 && !showCreate && (
             <p className="batch-modal-empty">

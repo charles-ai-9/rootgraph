@@ -142,7 +142,7 @@ export function FamilyNotePage({
 
   /** 系统词根族：静态 JSON，仅在条目/重试变化时加载（不依赖笔记 store，避免打字触发重取） */
   useEffect(() => {
-    if (entry.textbook === 'user') return;
+    if (entry.source === 'user') return;
     setFamilyError(false);
     fetch(`/data/${entry.textbook}/${entry.file}`)
       .then((r) => {
@@ -156,14 +156,14 @@ export function FamilyNotePage({
 
   /** 用户自建词根族：localStorage 实时派生 */
   useEffect(() => {
-    if (entry.textbook !== 'user') return;
+    if (entry.source !== 'user') return;
     setFamilyError(false);
     const uf = userFamilies[entry.id];
     if (uf) {
       setFamily({
         id: uf.id,
         source: 'user',
-        chapter: '我的',
+        chapter: entry.chapter || '我的',
         chapterOrder: 999,
         titleZh: uf.meaningZh,
         semanticLabel: uf.meaningZh,
@@ -206,9 +206,12 @@ export function FamilyNotePage({
   /** 本族被挂入用户词根族的词（word → 目标我的词根），不再显示在本族但可跳转查看 */
   const movedWords = useMemo(() => {
     const map = new Map<string, { id: string; label: string }>();
+    const familyWordSet = new Set((family?.words ?? []).map((x) => x.word));
     for (const [id, uf] of Object.entries(userFamilies)) {
       for (const w of getUserFamilyWords(id)) {
         if (w._from?.textbook === entry.textbook && w._from?.familyId === entry.id) {
+          // 仅收集本族数据中真实存在的词（旧挂载记录不污染提示条）
+          if (!familyWordSet.has(w.word)) continue;
           map.set(w.word, {
             id,
             label: `${uf.roots.join(' · ')}${uf.meaningZh ? `（${uf.meaningZh}）` : ''}`,
@@ -217,7 +220,7 @@ export function FamilyNotePage({
       }
     }
     return map;
-  }, [userFamilies, entry, getUserFamilyWords]);
+  }, [userFamilies, entry, getUserFamilyWords, family]);
 
   const groups = useMemo((): Map<string, WordEntry[]> => {
     if (!family || !effectiveRoots) return new Map<string, WordEntry[]>();
@@ -364,7 +367,7 @@ export function FamilyNotePage({
       familyFrom: (w as UserFamilyWord)._from,
       onAttribution: (word) => setAttributionWord(word),
       onMoveBack:
-        entry.textbook === 'user'
+        entry.source === 'user'
           ? (word) => {
               removeWordFromUserFamily(entry.id, word);
               setBatchToast(`已移回原族 ${word}`);
@@ -410,10 +413,10 @@ export function FamilyNotePage({
     moveWordsToUserFamily(
       familyId,
       words,
-      entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+      entry.source === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
     );
     // 在「我的词根」页内挂载到其他词根时，同时从当前族移除（保持一词一归）
-    if (entry.textbook === 'user') {
+    if (entry.source === 'user') {
       words.forEach((w) => removeWordFromUserFamily(entry.id, w.word));
     }
     const target = userFamilies[familyId];
@@ -425,11 +428,11 @@ export function FamilyNotePage({
     window.setTimeout(() => setBatchToast(''), 2600);
   };
 
-  const batchCreateAndMove = (roots: string[]) => {
+  const batchCreateAndMove = (roots: string[], textbook?: string) => {
     if (!roots.length) return;
     const id = roots[0];
     if (!userFamilies[id]) {
-      createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+      createUserFamily({ id, roots, meaningZh: '', meaningEn: '', textbook });
     }
     executeBatchMove(id);
   };
@@ -926,7 +929,7 @@ export function FamilyNotePage({
       {attributionWord && family && (() => {
         const w = attributionWord;
         const fromLabel =
-          entry.textbook === 'user'
+          entry.source === 'user' && entry.textbook === 'user'
             ? '我的词根'
             : `${textbookLabel(entry.textbook)} · ${(effectiveRoots ?? []).join('/') || family.id} 族`;
         return (
@@ -941,23 +944,25 @@ export function FamilyNotePage({
               moveWordsToUserFamily(
                 familyId,
                 [w],
-                entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+                entry.source === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
               );
-              if (entry.textbook === 'user') removeWordFromUserFamily(entry.id, w.word);
+              if (entry.source === 'user') removeWordFromUserFamily(entry.id, w.word);
               const label = userFamilies[familyId]?.roots.join(' · ') ?? familyId;
               setBatchToast(`已归入 ${label}`);
               setAttributionWord(null);
               window.setTimeout(() => setBatchToast(''), 2600);
             }}
-            onCreateAndMove={(roots) => {
+            onCreateAndMove={(roots, textbook) => {
               const id = roots[0];
-              if (!userFamilies[id]) createUserFamily({ id, roots, meaningZh: '', meaningEn: '' });
+              if (!userFamilies[id]) {
+                createUserFamily({ id, roots, meaningZh: '', meaningEn: '', textbook });
+              }
               moveWordsToUserFamily(
                 id,
                 [w],
-                entry.textbook === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
+                entry.source === 'user' ? undefined : { textbook: entry.textbook, familyId: family.id },
               );
-              if (entry.textbook === 'user') removeWordFromUserFamily(entry.id, w.word);
+              if (entry.source === 'user') removeWordFromUserFamily(entry.id, w.word);
               setBatchToast(`已创建并归入 ${roots.join(' · ')}`);
               setAttributionWord(null);
               window.setTimeout(() => setBatchToast(''), 2600);

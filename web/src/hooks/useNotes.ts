@@ -33,6 +33,8 @@ export interface UserFamily {
   meaningZh: string;
   /** 英文含义 */
   meaningEn: string;
+  /** 目标教材（如 textbook-3）。设置后该词根作为「教材词根」显示在对应教材底部；缺省为「我的词根」 */
+  textbook?: string;
   createdAt: number;
 }
 
@@ -250,9 +252,9 @@ export function useNotes() {
     });
   }, []);
 
-  /** 编辑我的词根（词根名/释义；保留 id，笔记与挂载词不受影响） */
+  /** 编辑我的词根（词根名/释义/目标教材；保留 id，笔记与挂载词不受影响） */
   const updateUserFamily = useCallback(
-    (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn'>>) => {
+    (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => {
       setStore((prev) => {
         const cur = prev.userFamilies[id];
         if (!cur) return prev;

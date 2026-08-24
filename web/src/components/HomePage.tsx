@@ -16,7 +16,7 @@ interface HomePageProps {
   getFamilyMeta: (key: string) => FamilyMeta | undefined;
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => UserFamily;
-  updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn'>>) => void;
+  updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => void;
   moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
@@ -48,10 +48,13 @@ export function HomePage({
   const [newRootName, setNewRootName] = useState('');
   const [newRootZh, setNewRootZh] = useState('');
   const [newRootEn, setNewRootEn] = useState('');
+  /** 新词根的目标教材（空 = 我的词根） */
+  const [newTextbook, setNewTextbook] = useState('');
   /** 编辑我的词根（如修正输入法自动纠错的词根名） */
   const [editFamily, setEditFamily] = useState<UserFamily | null>(null);
   const [editRootsText, setEditRootsText] = useState('');
   const [editZh, setEditZh] = useState('');
+  const [editTextbook, setEditTextbook] = useState('');
   const fileRef = useRef<HTMLInputElement>(null);
   const lastTopTapRef = useRef(0);
 
@@ -59,16 +62,16 @@ export function HomePage({
     const entry: CatalogEntry = {
       id: f.id,
       file: '',
-      chapter: '我的',
+      chapter: f.textbook ? '补充词根' : '我的',
       chapterOrder: 999,
       titleZh: f.meaningZh,
       semanticLabel: f.meaningZh,
       meaningEn: f.meaningEn,
       meaningZh: f.meaningZh,
       roots: f.roots,
-      wordCount: 0,
+      wordCount: getUserFamilyWords(f.id).length,
       source: 'user',
-      textbook: 'user',
+      textbook: f.textbook ?? 'user',
     };
     onOpenFamily(entry);
   };
@@ -81,10 +84,17 @@ export function HomePage({
       setBackupMsg(`词根 ${id} 已存在`);
       return;
     }
-    createUserFamily({ id, roots, meaningZh: newRootZh.trim(), meaningEn: newRootEn.trim() });
+    createUserFamily({
+      id,
+      roots,
+      meaningZh: newRootZh.trim(),
+      meaningEn: newRootEn.trim(),
+      textbook: newTextbook || undefined,
+    });
     setNewRootName('');
     setNewRootZh('');
     setNewRootEn('');
+    setNewTextbook('');
     setCreateOpen(false);
   };
 
@@ -162,6 +172,7 @@ export function HomePage({
     // 搜索词根名时同时命中「我的词根」（textbook:'user' 条目，grouped 显示为「我的词根」组）
     if (!q) return system;
     const my = Object.values(userFamilies)
+      .filter((f) => !f.textbook)
       .filter(
         (f) =>
           f.roots.some((r) => r.toLowerCase().includes(q)) ||
@@ -170,7 +181,7 @@ export function HomePage({
       .map((f) => ({
         id: f.id,
         file: '',
-        chapter: '我的',
+        chapter: f.textbook ? '补充词根' : '我的',
         chapterOrder: 999,
         titleZh: f.meaningZh ?? '',
         semanticLabel: f.meaningZh ?? '',
@@ -179,25 +190,56 @@ export function HomePage({
         roots: f.roots,
         wordCount: getUserFamilyWords(f.id).length,
         source: 'user' as const,
-        textbook: 'user' as const,
+        textbook: (f.textbook ?? 'user') as string,
       }));
     return [...system, ...my];
   }, [catalog, filter, textbook, chapterKey, userFamilies, getUserFamilyWords]);
 
   const grouped = useMemo(() => {
-    const items = [...filtered].sort((a, b) => {
-      if (a.textbook !== b.textbook) {
-        return a.textbook.localeCompare(b.textbook);
+    // 1. 基础条目：catalog 筛选 + 搜索混入的「我的词根」
+    const items = [...filtered];
+    // 2. 合并「教材词根」（用户创建时选了教材，显示在该教材底部；同 id 覆盖系统族）
+    const q = filter.trim().toLowerCase();
+    for (const f of Object.values(userFamilies)) {
+      if (!f.textbook) continue;
+      if (textbook !== 'all' && f.textbook !== textbook) continue;
+      if (chapterKey !== 'all') continue;
+      if (
+        q &&
+        !f.roots.some((r) => r.toLowerCase().includes(q)) &&
+        !(f.meaningZh ?? '').toLowerCase().includes(q)
+      ) {
+        continue;
       }
+      items.push({
+        id: f.id,
+        file: '',
+        chapter: '补充词根',
+        chapterOrder: 999,
+        titleZh: f.meaningZh ?? '',
+        semanticLabel: f.meaningZh ?? '',
+        meaningEn: f.meaningEn ?? '',
+        meaningZh: f.meaningZh ?? '',
+        roots: f.roots,
+        wordCount: getUserFamilyWords(f.id).length,
+        source: 'user',
+        textbook: f.textbook,
+      });
+    }
+    // 3. 同 (教材, id) 去重：教材词根（后加入）覆盖系统族
+    const byKey = new Map<string, CatalogEntry>();
+    for (const item of items) byKey.set(`${item.textbook}:${item.id}`, item);
+    const merged = [...byKey.values()].sort((a, b) => {
+      if (a.textbook !== b.textbook) return a.textbook.localeCompare(b.textbook);
       return (a.chapterOrder ?? 999) - (b.chapterOrder ?? 999);
     });
 
     if (textbook !== 'all') {
-      return [{ key: textbookLabel(textbook), items }];
+      return [{ key: textbookLabel(textbook), items: merged }];
     }
 
     const map = new Map<string, CatalogEntry[]>();
-    for (const item of items) {
+    for (const item of merged) {
       const key = item.textbook === 'user' ? '我的词根' : textbookLabel(item.textbook);
       if (!map.has(key)) map.set(key, []);
       map.get(key)!.push(item);
@@ -220,7 +262,7 @@ export function HomePage({
         type="button"
         className="library-row"
         onClick={() => {
-          if (entry.textbook === 'user') {
+          if (entry.source === 'user') {
             const f = userFamilies[entry.id];
             if (f) openUserFamily(f);
           } else {
@@ -368,11 +410,11 @@ export function HomePage({
         </div>
       )}
 
-      {!hasFilter && Object.keys(userFamilies).length > 0 && (
+      {!hasFilter && Object.values(userFamilies).some((f) => !f.textbook) && (
         <section className="topic-section">
           <h2 className="topic-section-title">我的词根</h2>
           <div className="library-list">
-            {Object.values(userFamilies).map((f) => (
+            {Object.values(userFamilies).filter((f) => !f.textbook).map((f) => (
               <div key={f.id} className="library-row user-family-row">
                 <button type="button" className="library-row-main" onClick={() => openUserFamily(f)}>
                   <span className="library-row-chapter">我的</span>
@@ -390,6 +432,7 @@ export function HomePage({
                     setEditFamily(f);
                     setEditRootsText(f.roots.join('，'));
                     setEditZh(f.meaningZh ?? '');
+                    setEditTextbook(f.textbook ?? '');
                   }}
                 >
                   ✎
@@ -455,6 +498,25 @@ export function HomePage({
                 placeholder="house; economy"
               />
             </div>
+            <div className="family-meta-field">
+              <label htmlFor="new-root-textbook">挂载到教材（可选）</label>
+              <select
+                id="new-root-textbook"
+                className="family-meta-input"
+                value={newTextbook}
+                onChange={(e) => setNewTextbook(e.target.value)}
+              >
+                <option value="">我的词根（仅本机）</option>
+                {['textbook-1', 'textbook-2', 'textbook-3', 'textbook-4', 'textbook-5', 'textbook-6', 'textbook-7', 'textbook-8'].map((tb) => (
+                  <option key={tb} value={tb}>
+                    {textbookLabel(tb)}（追加到最底部）
+                  </option>
+                ))}
+              </select>
+              <p className="family-meta-hint">
+                选择教材后，词根显示在该教材底部；导出修正清单后可固化进全站数据。
+              </p>
+            </div>
             <div className="family-meta-editor-actions">
               <button
                 type="button"
@@ -499,6 +561,22 @@ export function HomePage({
                 placeholder="法律；公正"
               />
             </div>
+            <div className="family-meta-field">
+              <label htmlFor="edit-root-textbook">挂载到教材（可选）</label>
+              <select
+                id="edit-root-textbook"
+                className="family-meta-input"
+                value={editTextbook}
+                onChange={(e) => setEditTextbook(e.target.value)}
+              >
+                <option value="">我的词根（仅本机）</option>
+                {['textbook-1', 'textbook-2', 'textbook-3', 'textbook-4', 'textbook-5', 'textbook-6', 'textbook-7', 'textbook-8'].map((tb) => (
+                  <option key={tb} value={tb}>
+                    {textbookLabel(tb)}（追加到最底部）
+                  </option>
+                ))}
+              </select>
+            </div>
             <div className="family-meta-editor-actions">
               <button
                 type="button"
@@ -509,7 +587,11 @@ export function HomePage({
                     .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
                     .filter(Boolean);
                   if (roots.length && editFamily) {
-                    updateUserFamily(editFamily.id, { roots, meaningZh: editZh.trim() });
+                    updateUserFamily(editFamily.id, {
+                      roots,
+                      meaningZh: editZh.trim(),
+                      textbook: editTextbook || undefined,
+                    });
                   }
                   setEditFamily(null);
                 }}
