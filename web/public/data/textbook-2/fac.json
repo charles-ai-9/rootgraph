@@ -868,7 +868,8 @@
       "mnemonic" : "energy (能源)+efficient(有效率的)→高效能的",
       "pos" : "adj.",
       "rootHint" : "fic",
-      "word" : "energy-efficient"
+      "word" : "energy-efficient",
+      "phonetic" : "ˌenərdʒiɪˈfɪʃ(ə)nt"
     },
     {
       "collocations" : [
@@ -1164,7 +1165,8 @@
       "frequency" : 20173,
       "pos" : "n.",
       "rootHint" : "fic",
-      "word" : "science-fiction"
+      "word" : "science-fiction",
+      "phonetic" : "ˌsaɪənsˈfɪkʃ(ə)n"
     },
     {
       "collocations" : [
@@ -1363,7 +1365,7 @@
       ],
       "frequency" : 1716,
       "mnemonic" : "pro(向前)+fit(做)→向前做、做的超前→(有)好处、(能获)利益",
-      "phonetic" : "ˈprɒfɪt",
+      "phonetic" : "ˈprɑfɪt",
       "pos" : "n.",
       "rootHint" : "fac",
       "word" : "profit"
@@ -1410,7 +1412,8 @@
       "mnemonic" : "for(为了)+profit(利润；利益)→以盈利为目的的",
       "pos" : "adj.",
       "rootHint" : "fac",
-      "word" : "for-profit"
+      "word" : "for-profit",
+      "phonetic" : "ˌfɔːrˈprɑfɪt"
     },
     {
       "collocations" : [
