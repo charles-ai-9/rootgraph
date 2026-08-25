@@ -1,949 +1,949 @@
 {
-  "chapter": "6",
-  "chapterOrder": 106,
-  "id": "pag",
-  "meaningEn": "fasten",
-  "meaningZh": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
-  "roots": [
-    "pag"
-  ],
-  "semanticLabel": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
-  "source": "textbook-6",
-  "titleZh": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
-  "words": [
-    {
-      "collocations": [
-        "to pay a bill/debt/fine/ransom, etc.：缴付账单、债款、罚金、赎金等",
-        "pay with their lives：付出了声明的代价\npay for：（为……）付出代价",
-        "pay money down：首付\npay a visit/pay attention：（与名词连用）进行访问；给予注意"
-      ],
-      "definition": "&vi. 支付；偿还；有好处 vt. 给……支付工薪；偿还 vi. 付代价n. 薪水",
-      "etymology": "来自古法语paier“to pay, pay up”。",
-      "examples": [],
-      "frequency": 287,
-      "mnemonic": "来自词根pag-=fasten：固定→“薪水，支付，偿还”都是数量固定的。",
-      "phonetic": "peɪ",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "pay"
-    },
-    {
-      "collocations": [
-        "on payment of something：付款后",
-        "payment in instalments/in advance/by cheque/in cash：分期/预先/支票/\n现金付款",
-        "a cash payment：现金付款",
-        "in payment for your kindness：报答厚爱\n比较：payment • premium • subscription • repayment • deposit • instalment\n1. payment：指款额、款项、付款",
-        "ten monthly payments of $50：每月付款50元，十次付清\n2. premium：指保险费、额外费用、附加费、溢价",
-        "an insurance premium：保险费",
-        "a premium for express delivery：快递附加费\n3. subscription：指（报刊、杂志等的）订阅费、订购款，（服务的）\n用户费",
-        "a subscription to ‘Newsweek’：《新闻周刊》的订阅费\n4. repayment：指按期偿还的款项、分期偿还额、偿还债务、归还借款",
-        "the repayments on the loan：贷款的分期偿还额\n5. deposit：指定金",
-        "put down a 5% deposit：支付了5%作为定金\n笔 记 区\n20000 词汇巅峰\n速\n记\n6. instalment：指分期付款的一期付款",
-        "pay for the car by/in instalments：以分期付款买了这辆车"
-      ],
-      "definition": "付款；（将付或应付的）款项；报答，报偿",
-      "examples": [],
-      "frequency": 2125,
-      "mnemonic": "pay（支付）+ -ment（名词后缀）→付款；款项；报答",
-      "phonetic": "ˈpeɪ.mənt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payment"
-    },
-    {
-      "collocations": [],
-      "definition": "在职人员工薪名册；（公司的）发放工资总额",
-      "examples": [
-        "We have 500 people on the payroll.\n我们在编员工有500人。"
-      ],
-      "frequency": 5413,
-      "mnemonic": "pay（薪水）+ roll（名册；名单）→领取薪水的员工名册→在职员工\npay（薪水）+ roll（名册）→登记入册的发放薪水总额→发放工资总额",
-      "phonetic": "ˈpeɪ.ɹoʊl",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payroll"
-    },
-    {
-      "collocations": [
-        "the payoffs from such a breakthrough：这一突破带来的收益",
-        "payoffs from drugs exporters：来自毒品出口贩的贿赂\nreceive a $1.5 million payoff：获得了一笔150万美元的辞退补偿金\n比较：pay off：还清；（某行动）取得成功；带来好结果",
-        "pay off that loan：还清那笔贷款"
-      ],
-      "definition": "（某行动的）收益；贿赂钱；辞退补偿金",
-      "examples": [],
-      "frequency": 7792,
-      "mnemonic": "pay（支付；给……支付工薪）+ off（离开）→付款给某人；在员工\n离开的时候支付的工薪→辞退补偿金；收益；贿赂钱",
-      "phonetic": "ˈpeɪ.ɔf",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payoff"
-    },
-    {
-      "collocations": [
-        "a small paycheck：一份微薄的薪资"
-      ],
-      "definition": "工资支票；工薪",
-      "examples": [],
-      "frequency": 7811,
-      "mnemonic": "paycheck=paycheque：pay（工资）+ cheque（支票）→工资支票；工薪",
-      "phonetic": "ˈpeɪ.tʃɛk",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "paycheck"
-    },
-    {
-      "collocations": [],
-      "definition": "发薪日",
-      "examples": [],
-      "frequency": 16491,
-      "mnemonic": "pay（薪水）+ day（日子）→发薪水的日子→发薪日",
-      "phonetic": "ˈpeɪ.deɪ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payday"
-    },
-    {
-      "collocations": [
-        "paying bank：付款银行"
-      ],
-      "definition": "支付的；付款的",
-      "examples": [],
-      "frequency": 14462,
-      "phonetic": "ˈpeɪ.ɪŋ",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "paying"
-    },
-    {
-      "collocations": [
-        "mortgage payers：抵押付款人",
-        "not very good payers：差的付款人\n笔 记 区"
-      ],
-      "definition": "支付人；付款人",
-      "examples": [],
-      "frequency": 15603,
-      "phonetic": "ˈpeɪ.ɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payer"
-    },
-    {
-      "collocations": [],
-      "definition": "纳税人",
-      "examples": [
-        "This is not going to cost the taxpayer anything.\n这不会花纳税人的钱。"
-      ],
-      "frequency": 3147,
-      "mnemonic": "tax（税）+ payer（支付的人）→（向相关政府机关）支付、缴纳税\n款的人→纳税人",
-      "phonetic": "ˈtæksˌpeɪ.ɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "taxpayer"
-    },
-    {
-      "collocations": [
-        "to repay a debt/loan/mortgage：偿还债务/贷款/按揭贷款",
-        "repay you for your generosity：报答你的慷慨"
-      ],
-      "definition": "偿还（贷款、债务）；酬报，报答；值得",
-      "examples": [
-        "The report repays careful reading.\n这份报告值得仔细阅读。"
-      ],
-      "frequency": 8122,
-      "mnemonic": "re-（=back：往回）+ pay（支付）→pay back, give in return：偿还；\n报答；作为回报给回去→偿还；报答；值得（反复投入你的注意力、",
-      "phonetic": "ɹɪˈpeɪ",
-      "pos": "vi.",
-      "rootHint": "pag",
-      "word": "repay"
-    },
-    {
-      "collocations": [
-        "paid holiday：带薪假期",
-        "a well-paid accountant：一名高薪的会计师",
-        "the worst paid：薪酬最低的"
-      ],
-      "definition": "有薪酬的；（假期）带薪的；薪水（高或低well/badly）的（pay）的过去式和过去分词",
-      "examples": [],
-      "frequency": 7873,
-      "phonetic": "peɪd",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "paid"
-    },
-    {
-      "collocations": [
-        "unpaid volunteers：没有薪酬的志愿者",
-        "unpaid taxes：未缴纳的税款",
-        "unpaid bills：未付的账单\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "无报酬的；（税收或帐单）未缴纳的；未支付的",
-      "examples": [],
-      "frequency": 10360,
-      "mnemonic": "un-（=not：不；没有）+ paid（有薪酬的；支付的）→无报酬的；未",
-      "phonetic": "ˌʌnˈpeɪd",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "unpaid"
-    },
-    {
-      "collocations": [
-        "an insurance payout：巨额保险偿付",
-        "a lottery payout：彩票大额奖金"
-      ],
-      "definition": "付出的巨款",
-      "examples": [],
-      "frequency": 13811,
-      "mnemonic": "pay（支付）+ out（出去）→支付出去的巨额款项→付出的巨款",
-      "phonetic": "ˈpeɪ.aʊt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payout"
-    },
-    {
-      "collocations": [
-        "a 10-year payback：10年的投资回收期",
-        "the payback period：偿付期",
-        "a substantial payback：一笔可观的收益",
-        "payback time：回报（好或坏）结果之时"
-      ],
-      "definition": "收益；投资的回收期；回报 adj. 偿付的；回报的",
-      "examples": [
-        "This was payback time. I’ve proved once and for all I can become\nchampion.\n这是回报之时。我已经一劳永逸地证明我能成为冠军。"
-      ],
-      "frequency": 14175,
-      "mnemonic": "pay（支付；偿还）+ back（取回；拿回）→支付、付出的再收回来\n→收益；投资的回收期；报偿；回报的",
-      "phonetic": "ˈpeɪ.bæk",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payback"
-    },
-    {
-      "collocations": [
-        "passenger payloads：客载量",
-        "carry a 1,000kg payload：承载1000千克的炸药量"
-      ],
-      "definition": "（飞机、飞船等的）载量；（导弹等武器的）炸药量",
-      "examples": [],
-      "frequency": 14822,
-      "mnemonic": "pay（支付）+ load（负荷；装载量）→原指飞机、轮船等的有酬载",
-      "phonetic": "ˈpeɪ.loʊd",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "payload"
-    },
-    {
-      "collocations": [
-        "repayment of a $114 million loan：偿还$1.14亿的贷款"
-      ],
-      "definition": "（债务的）分期还款；偿还债务",
-      "examples": [],
-      "frequency": 15250,
-      "mnemonic": "repay（偿还）+ -ment（名词后缀）→偿还债务；（债务的）分期还款",
-      "phonetic": "ɹɪˈpeɪ.mənt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "repayment"
-    },
-    {
-      "collocations": [
-        "make your cheque payable to...：把支票开给……"
-      ],
-      "definition": "应支付的，可支付的；应支付（给某人）的",
-      "examples": [
-        "A 10% deposit is payable in advance.\n须预付10%的押金。"
-      ],
-      "frequency": 19224,
-      "mnemonic": "pay（支付）+ -able（形容词后缀，能……的）→应支付的；可支付的",
-      "phonetic": "ˈpeɪ.ə.bəl",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "payable"
-    },
-    {
-      "collocations": [
-        "the sports pages：体育版",
-        "a glorious page of history：历史上光辉的篇章",
-        "on the same page：目标一致；就目标达成共识",
-        "turn the page：（经过困难后）翻开新的一页，开始新的生活"
-      ],
-      "definition": "（书刊或纸张的）页，面，张，版；历史篇章 vt.（在公共场合通过扬声器）呼叫",
-      "etymology": "来自古法语pagene“page, text：页面；文本”(12世纪)。来自词根 pag-=to fasten：固定。因为古代的书页都是“固定”成一本书的。",
-      "examples": [
-        "He was paged repeatedly as the flight was boarding.\n登机时，他被反复地呼叫着。"
-      ],
-      "frequency": 709,
-      "phonetic": "peɪdʒ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "page"
-    },
-    {
-      "collocations": [
-        "a front-page article：一篇头版文章"
-      ],
-      "definition": "头版的（文章、图片等）",
-      "examples": [],
-      "frequency": 12833,
-      "mnemonic": "front（前面的）+ page（版面）→报纸前面版面的→头版的（文章、",
-      "phonetic": "ˌfɹʌntˈpeɪdʒ",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "front-page"
-    },
-    {
-      "collocations": [
-        "a beauty pageant：选美比赛",
-        "life’s rich pageant：丰富的人生画卷",
-        "a historical pageant of kings and queens：一场历史上的国王和王后们的\n盛大庆典"
-      ],
-      "definition": "选美大赛；盛大华丽的情景；古代盛装游行（或庆典）9750",
-      "examples": [],
-      "mnemonic": "page（戏剧的舞台或场景；历史篇章）+ -ant（名词后缀）→比喻用",
-      "phonetic": "ˈpæ.dʒənt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pageant"
-    },
-    {
-      "collocations": [],
-      "definition": "寻呼机",
-      "examples": [],
-      "frequency": 14468,
-      "phonetic": "ˈpeɪ.dʒɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pager"
-    },
-    {
-      "collocations": [
-        "peasant farmers：个体农民",
-        "peasant household：庄户；农户"
-      ],
-      "definition": "（尤指昔日或贫穷国家的）农民；小农；佃农",
-      "etymology": "来自拉丁语pagus“country or rural district”，表示“乡下或农村地 区”。Peasant的原意就是居住在pagus的人，翻译为“乡下人”更合 适。与此相对，farmer表示的是一种职业，即农业工作者。",
-      "examples": [],
-      "frequency": 4733,
-      "phonetic": "ˈpɛ.zənt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peasant"
-    },
-    {
-      "collocations": [
-        "pagan ideas：异教思想",
-        "a pagan festival：异教节日"
-      ],
-      "definition": "异教徒（旧时的基督徒用以指非基督徒） adj. 异教徒的",
-      "etymology": "pagan与peasant一样，同样源自拉丁语pagus，本意与peasant很接近， 都是表示居住在农村的人。罗马立基督教为国家后，基督教首先在城 市中迅速发展，而在广大农村地区发展缓慢，居住在农村的人们依然 信仰以前的神祗。因此，基督教徒用“pagan”（异教徒）来称呼这 些尚未信仰基督的人。被基督教徒这样引用后便增加了“异教徒、未 开化者、堕落者”等负面含义。",
-      "examples": [],
-      "frequency": 12800,
-      "phonetic": "ˈpeɪ.ɡən",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pagan"
-    },
-    {
-      "collocations": [
-        "pack up/pack sth. up：打点行李",
-        "packing costs：打包/装箱费",
-        "a job packing boxes in a warehouse：一份在仓库装箱的工作",
-        "pack away the summer clothes：把夏装收藏起来\npack sb... in/pack sth... out：吸引（大批观众）",
-        "pack into the stadium：涌入了体育场",
-        "pack your bags：（尤指产生分歧后）永远离开",
-        "The show is still packing the people in.\n演出仍然吸引着大批观众。\n20000 词汇巅峰\n速\n记",
-        "The band can still pack out concert halls.\n这支乐队仍能使音乐厅爆满。\n笔 记 区"
-      ],
-      "definition": "&vi. 打点（行装）；挤满 vt. 把……装箱 n. 打包；装箱；包，盒；一群（尤指令人感到受到威胁的）",
-      "etymology": "来自13世纪早期，pak, pake, “a bundle or package (of cloth, merchandise, etc.),” also “a bag or purse for carrying things.",
-      "examples": [
-        "He thus avoided a pack of journalists eager to question him.\n他就这样避开了一群急于向他提问的记者。"
-      ],
-      "frequency": 2293,
-      "phonetic": "pæk",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "pack"
-    },
-    {
-      "collocations": [
-        "packed with sth./-packed：有大量……的；……极多的",
-        "a packed meeting：一个座无虚席的会议",
-        "pack tightly：紧密地压在一起\npacked snow：压实的雪地"
-      ],
-      "definition": "拥挤的；充满的8484",
-      "examples": [],
-      "mnemonic": "pack：挤满→packed：拥挤的；充满的",
-      "phonetic": "pækt",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "packed"
-    },
-    {
-      "collocations": [
-        "sugar packets：糖盒",
-        "a packet of biscuits：一包饼干",
-        "a training packet：一套培训材料"
-      ],
-      "definition": "小盒子，包装袋；小件包裹；（为某种用途的）一套文件，一套资料",
-      "examples": [],
-      "frequency": 6327,
-      "mnemonic": "pack（包；盒）+ -et（名词后缀，表示小东西）→小包；小盒→小盒",
-      "phonetic": "ˈpæ.kɪt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "packet"
-    },
-    {
-      "collocations": [
-        "finish packing：收拾好行李"
-      ],
-      "definition": "收拾行李；包装材料",
-      "examples": [
-        "The price includes postage and packing.\n本价格包括邮资和包装费。"
-      ],
-      "frequency": 10547,
-      "phonetic": "ˈpæ.kɪŋ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "packing"
-    },
-    {
-      "collocations": [
-        "backpack in Spain：背着背包在西班牙旅行"
-      ],
-      "definition": "（尤指登山者或远足者使用的）背包，旅行包 vi. 背包旅行",
-      "examples": [],
-      "frequency": 6554,
-      "mnemonic": "back（背部）+ pack（包）→背在后背（用以远足旅行）的包→（登",
-      "phonetic": "ˈbæk.pæk",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "backpack"
-    },
-    {
-      "collocations": [],
-      "definition": "背包客",
-      "examples": [],
-      "frequency": 19447,
-      "mnemonic": "backpack（背包）+ -er（名词后缀，表示人）→背包客",
-      "phonetic": "ˈbæk.pæk.ɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "backpacker"
-    },
-    {
-      "collocations": [
-        "a large package：一个大包裹",
-        "package up：包装好",
-        "package tours to Egypt：去埃及的包价旅游",
-        "a package of measures to help small businesses：扶助小商家的一整套措施",
-        "a benefits package：一套福利措施",
-        "package news as entertainment：把新闻包装成娱乐形式"
-      ],
-      "definition": "包裹；（必须整体接收的）一套东西，一套建议；一揽子交易；包价（旅游） vt. 包装（产品），（尤指为使某物吸引人而）包装",
-      "examples": [],
-      "frequency": 1696,
-      "mnemonic": "pack（装箱；包裹）+ -age（名词后缀）→包裹；包装；引申义为一",
-      "phonetic": "ˈpæ.kɪdʒ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "package"
-    },
-    {
-      "collocations": [
-        "attractive packaging：精美的包装",
-        "packaging service：包装服务"
-      ],
-      "definition": "包装材料；外包装；包装",
-      "examples": [],
-      "frequency": 7799,
-      "phonetic": "ˈpæ.kɪ.dʒɪŋ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "packaging"
-    },
-    {
-      "collocations": [
-        "packaged food/goods：包装好的食品/商品"
-      ],
-      "definition": "包装好的",
-      "examples": [],
-      "frequency": 16398,
-      "phonetic": "ˈpæ.kɪdʒd",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "packaged"
-    },
-    {
-      "collocations": [
-        "unpack all the clothes：打开箱子，取出所有衣服"
-      ],
-      "definition": "&vi. 打开（箱子或盒子）取出",
-      "examples": [],
-      "frequency": 11734,
-      "phonetic": "ʌnˈpæk",
-      "pos": "vt",
-      "rootHint": "pag",
-      "word": "unpack"
-    },
-    {
-      "collocations": [
-        "a six-pack of beer：一箱6瓶装的啤酒",
-        "a six-pack stomach：腹肌发达（六块腹肌）"
-      ],
-      "definition": "六瓶装；六罐装；发达的腹肌",
-      "examples": [],
-      "frequency": 17588,
-      "phonetic": "ˈsɪks.pæk",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "six-pack"
-    },
-    {
-      "collocations": [
-        "keep the peace：维持和平",
-        "peace of mind：心灵的平静",
-        "a wonderful feeling of peace：一种平和的美妙感觉\n笔 记 区"
-      ],
-      "definition": "和平；安宁；平和",
-      "examples": [],
-      "frequency": 936,
-      "mnemonic": "peac（-pac-：和平）+ -e→由固定引申为订立条约→引申词义和平；",
-      "phonetic": "pis",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peace"
-    },
-    {
-      "collocations": [
-        "a peaceful solution：和平的解决办法",
-        "peaceful sleep：安静的睡眠",
-        "a peaceful society：和谐的社会"
-      ],
-      "definition": "和平的；安静的；爱好和平的，和睦的",
-      "examples": [],
-      "frequency": 3689,
-      "phonetic": "ˈpis.fəl",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "peaceful"
-    },
-    {
-      "collocations": [],
-      "definition": "和平地；安静地",
-      "examples": [
-        "Except for traffic noise the night passed peacefully.\n除了交通噪音，那夜安宁地过去了。"
-      ],
-      "frequency": 9277,
-      "phonetic": "ˈpis.fə.li",
-      "pos": "adv.",
-      "rootHint": "pag",
-      "word": "peacefully"
-    },
-    {
-      "collocations": [
-        "UN peacekeepers：联合国维和士兵"
-      ],
-      "definition": "维和士兵；（国家或组织）维和者",
-      "examples": [],
-      "frequency": 11442,
-      "mnemonic": "peace（和平）+ keeper（维护者）→和平维护者→维和士兵",
-      "phonetic": "ˈpis.ki.pɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peacekeeper"
-    },
-    {
-      "collocations": [
-        "peacekeeping operations：维和行动",
-        "peacekeeping force：维持和平部队"
-      ],
-      "definition": "维护和平的 n. 维持和平",
-      "examples": [],
-      "frequency": 12075,
-      "phonetic": "ˈpis.ki.pɪŋ",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "peacekeeping"
-    },
-    {
-      "collocations": [],
-      "definition": "调解人",
-      "examples": [],
-      "frequency": 18065,
-      "mnemonic": "peace（和平）+ maker（制造者）→person who make peace：和平制\n造者；阻止打仗或争吵的人→调解人",
-      "phonetic": "ˈpis.meɪ.kɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peacemaker"
-    },
-    {
-      "collocations": [],
-      "definition": "和平时期",
-      "examples": [],
-      "frequency": 15620,
-      "mnemonic": "peace（和平）+ time（时期）→和平时期",
-      "phonetic": "ˈpis.taɪm",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peacetime"
-    },
-    {
-      "collocations": [
-        "pacify the baby：使婴儿平静下来",
-        "pacify the rebels：平定叛乱分子"
-      ],
-      "definition": "使平静；安抚；平定",
-      "examples": [],
-      "frequency": 19834,
-      "mnemonic": "pac-（=peace：和平）+ -ify（使动词后缀）→to make peace：使和",
-      "phonetic": "ˈpæ.sə.faɪ",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "pacify"
-    },
-    {
-      "collocations": [
-        "pacifist ideals：和平主义理想"
-      ],
-      "definition": "和平主义者；反战者 adj. 和平主义的；反战的",
-      "examples": [],
-      "frequency": 18060,
-      "mnemonic": "pacif（=pacify：使和平；安抚）+ -ist（名词后缀，表示人）→使实\n现和平的人→和平主义者；反战的",
-      "phonetic": "ˈpæ.sə.fɪst",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pacifist"
-    },
-    {
-      "collocations": [
-        "appease critics：安抚批评者",
-        "If you try to appease someone, you try to stop them from being angry by",
-        "giving them what they want."
-      ],
-      "definition": "安抚；抚慰；姑息",
-      "etymology": "来自古法语apaisier“to pacify, make peace：使平静；调解”（12世 纪），来自词组a paisier“bring to peace：带来和平”。",
-      "examples": [],
-      "frequency": 12789,
-      "mnemonic": "ap-（=ad-=to）+ pease（=peace：和平）→to make peace, pacify：\n使……和平→安抚；抚慰",
-      "phonetic": "əˈpiz",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "appease"
-    },
-    {
-      "collocations": [
-        "keep pace with：与……保持同步；与……并驾齐驱",
-        "at one’s own pace：按自己的速度",
-        "a different opinion).\n请琼斯教授原谅，证据表明……\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "（用于人名前，委婉提出不同意见）请……原谅 vt.&vi.（因焦虑或不耐烦）在……走来走去 vt. 放稳（自己）的步调 n. 速度；节奏；步速",
-      "examples": [
-        "The evidence suggests, pace Professor Jones, that... (= Professor Jones has"
-      ],
-      "frequency": 2556,
-      "mnemonic": "介词用法：pac-：peace→pace：用于委婉提出不同意见（表示友好的\n动词、名词用法：pace=a step, trace：脚步；痕迹→引申义为速度；",
-      "phonetic": "peɪs",
-      "pos": "prep.",
-      "rootHint": "pag",
-      "word": "pace"
-    },
-    {
-      "collocations": [
-        "cardiac pacemaker：心脏起搏器"
-      ],
-      "definition": "心脏起搏器；领跑人；（竞赛中的）领先者",
-      "examples": [],
-      "frequency": 19348,
-      "mnemonic": "pace（步伐）+ maker（制定者）→心脏起搏器（决定心脏搏起的速",
-      "phonetic": "ˈpeɪs.meɪ.kɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pacemaker"
-    },
-    {
-      "collocations": [
-        "outpace foreign rivals：超过外国竞争对手"
-      ],
-      "definition": "（在速度上）超过；比……快",
-      "examples": [],
-      "frequency": 15531,
-      "mnemonic": "out-（超过）+ pace（步伐；速度）→超过别人的步伐、速度→超",
-      "phonetic": "ˌaʊt.ˈpeɪs",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "outpace"
-    },
-    {
-      "collocations": [
-        "fast-paced business culture：快节奏的商业氛围"
-      ],
-      "definition": "快节奏的",
-      "examples": [],
-      "frequency": 19350,
-      "phonetic": "ˈfæstˌpeɪst",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "fast-paced"
-    },
-    {
-      "collocations": [
-        "make a pact with each other：彼此达成协议",
-        "trade pact：贸易条约"
-      ],
-      "definition": "条约；协议",
-      "etymology": "来自古法语pacte“agreement, treaty, compact：协议；条约；契 约”(14世纪)。词根pac-=to agree：同意；赞成。来自词根pag-=to",
-      "examples": [],
-      "frequency": 6783,
-      "mnemonic": "fasten→pact：双方都赞成的意见通过条约固定住。",
-      "phonetic": "pækt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "pact"
-    },
-    {
-      "collocations": [
-        "social/environmental impact：社会/环境影响",
-        "exert/impose/have impact on/upon sth.：对……施加影响",
-        "digital bookselling will have a significant impact on the book world in",
-        "the years to come.\n但有一点可以肯定，从某些方面看来，谷歌进入数字图书销售领域在\n未来几年内将会对图书界产生重大影响。",
-        "But what is certain is that, in some way or other, the appearance/emergence",
-        "of e-books will have /exert /impose a significant impact/effect/influence"
-      ],
-      "definition": "&vi. 对……造成影响；撞击n. 巨大影响；撞击；冲击力",
-      "examples": [
-        "But what is certain is that, in some way or other, Google’s entrance into",
-        "但可以肯定的是，在某些方面看来，电子书的出现将会在未来几\n年内内对传统书的销售产生重大影响。\non/upon the book world in the years to come."
-      ],
-      "frequency": 922,
-      "mnemonic": "im-（=into：向内）+ -pact（=push, drive, press：压紧；推进）→向内\n压紧；推进→对……造成影响；撞击",
-      "phonetic": "ɪmˈpækt",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "impact"
-    },
-    {
-      "collocations": [
-        "a layer of compacted snow：压紧的一层雪",
-        "a compact camera：袖珍照相机",
-        "a compact kitchen：一个空间小的厨房",
-        "a compact mass of earth：压得很结实的泥土\n与 compact 一样，同样有“把……紧压在一起，紧凑的”含义的单词有\ncondense。"
-      ],
-      "definition": "把……紧压在一起（或压实） adj. 袖珍的；体积小的；结实的 n. 协议；契约",
-      "examples": [],
-      "frequency": 6289,
-      "mnemonic": "com-（加强语气）+ pac-（=fasten：扣紧；抓牢）+ t→紧压在一起；",
-      "phonetic": "kəmˈpækt",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "compact"
-    },
-    {
-      "collocations": [
-        "condense the soup：把汤熬浓",
-        "condense an idea or argument into a sentence：把观念或论据简缩成一句"
-      ],
-      "definition": "简缩（尤指文字；信息；演讲稿）；（使）浓缩vt.&vi. 使（气体、蒸汽）冷凝",
-      "examples": [
-        "Water vapor condenses to form clouds.\n水蒸汽冷凝形成云。"
-      ],
-      "frequency": 14145,
-      "mnemonic": "con-（加强语气）+ dense（=make dense, thick：变厚；变浓）→\n（使）变浓→减缩；使浓缩；使冷凝",
-      "phonetic": "kənˈdɛns",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "condense"
-    },
-    {
-      "collocations": [
-        "a condensed version：一个缩编版",
-        "condensed mushroom soup：浓缩的蘑菇汤\n笔 记 区"
-      ],
-      "definition": "缩编的；浓缩的（液体）15787",
-      "examples": [],
-      "phonetic": "kənˈdɛnst",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "condensed"
-    },
-    {
-      "collocations": [
-        "wipe the condensation off the glass：擦去眼镜上凝结的水滴"
-      ],
-      "definition": "凝结液滴；（书等的）简缩",
-      "examples": [],
-      "frequency": 15844,
-      "mnemonic": "condense（使（气体、蒸汽）冷凝；简缩）+ -ation（复合名词后缀）\n→凝结；简缩",
-      "phonetic": "ˌkɑndənˈseɪʃən",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "condensation"
-    },
-    {
-      "collocations": [
-        "pale green：淡绿色",
-        "insignificance：相形见绌；显得逊色",
-        "beyond the pale：出格；出圈；越轨；令人不能容忍",
-        "His remarks were clearly beyond the pale.\n他的话显然出格了。"
-      ],
-      "definition": "苍白的；浅色的 vi. 显得逊色；相形见绌 n. 界限；边界",
-      "etymology": "/释义：n. 作名词时，来自pag-=to fasten：使固定→拉丁语palus：",
-      "examples": [
-        "Last year’s riots pale in comparison with this latest outburst of violence.\n去年的骚乱与最近这次暴乱相比，可说是小巫见大巫（显得逊色）。"
-      ],
-      "frequency": 2958,
-      "mnemonic": "stake, wooden post→木桩；木制的篱笆桩→引申义为界限；边界\nadj./vi. 作形容词、动词时，词源来自古法语paile = light-colored：浅色\n的→用作动词时，含义为使变为浅色→引申义为显得逊色；相形见绌",
-      "phonetic": "peɪl",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "pale"
-    },
-    {
-      "collocations": [
-        "He paints from a palette consisting almost exclusively of grey and mud"
-      ],
-      "definition": "调色板；（画家使用的）色彩范围",
-      "examples": [
-        "The painter’s right hand holds the brush, the left the palette.\n那位画家的右手握着画笔，左手拿着调色盘。\nbrown.\n他画画几乎只用包含灰色和土褐色的色调。"
-      ],
-      "frequency": 7506,
-      "phonetic": "ˈpæ.lɪt",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "palette"
-    },
-    {
-      "collocations": [
-        "sink fangs into his hand：将尖牙咬紧他的手"
-      ],
-      "definition": "（动物的）尖牙",
-      "etymology": "来自pag-：固定→后用演变为prey, a seizing or taking：猎物或捕获物→ 后来指catching- or grasping-tooth，即用来捕获猎物的（动物的）尖牙。",
-      "examples": [],
-      "frequency": 14805,
-      "phonetic": "fæŋ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "fang"
-    },
-    {
-      "collocations": [
-        "impinge on private life：妨碍私生活"
-      ],
-      "definition": "对……有重大影响；冲击；妨碍",
-      "etymology": "1530s, “fasten or fix forcibly,” from Latin impingere “drive into, strike against”.",
-      "examples": [],
-      "frequency": 19383,
-      "mnemonic": "im-（=into：在里面）+ -pinge（=to fix, fasten：固定）→把……（用\n强力/武力固定在……里面）→对……有重大影响；冲击；妨碍",
-      "phonetic": "ɪmˈpɪndʒ",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "impinge"
-    },
-    {
-      "collocations": [],
-      "definition": "露台；平台",
-      "etymology": "来自古普罗旺斯语patu, pati“untilled land, communal pasture：未开垦 20000 词汇巅峰 速 记",
-      "examples": [
-        "Let’s have lunch out on the patio. 咱们在外面平台上吃午饭吧。\npatio：露台；平台"
-      ],
-      "frequency": 6984,
-      "mnemonic": "的土地；公共的草场”→朝向天空的内院：露台；平台",
-      "phonetic": "ˈpæ.ti.oʊ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "patio"
-    },
-    {
-      "collocations": [
-        "peel作“面包师用的长柄木铲“含义时，等于spade, shovel：铁锹；铲\n子。来自词源pag-=to fasten：固定",
-        "to peel an orange/a banana：剥橙子/香蕉",
-        "orange/lemon peel：橙子/柠檬皮"
-      ],
-      "definition": "剥（水果、蔬菜等的）皮；去皮；剥掉 vi. 剥落 n.（某些水果、蔬菜的）外皮；果皮；（烤面包时用的）长柄铲",
-      "examples": [
-        "The wallpaper was beginning to peel.\n壁纸开始剥落了。"
-      ],
-      "frequency": 3955,
-      "mnemonic": "peel作“剥皮；剥落”含义时，等于“to strip off：脱去；剥落”；作",
-      "phonetic": "pil",
-      "pos": "vt.",
-      "rootHint": "pag",
-      "word": "peel"
-    },
-    {
-      "collocations": [
-        "peeled chestnuts：去皮的栗子",
-        "a peeled-off piece or strip：剥下的一块或一条"
-      ],
-      "definition": "剥去皮的",
-      "examples": [],
-      "frequency": 18213,
-      "phonetic": "pild",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "peeled"
-    },
-    {
-      "collocations": [
-        "abundance of peelings：大量的果皮、蔬菜皮"
-      ],
-      "definition": "剥下的（一块）皮；（生物）剥落，脱落 vi. 掉漆；脱皮",
-      "examples": [
-        "Its once-elegant white pillars are peeling.\n曾一度典雅的白色立柱在掉漆。"
-      ],
-      "frequency": 18498,
-      "phonetic": "ˈpi.lɪŋ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "peeling"
-    },
-    {
-      "collocations": [
-        "travel through water：在水中传播",
-        "air travel：空中旅行",
-        "travel abroad：在国外旅游",
-        "travel light：轻装旅行\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "&vi. 旅行 vt. 游历 vi.（光或声音）传播；（消息）流传 n.旅行；旅游",
-      "etymology": "travel=journey：旅行。原始来自travail，含义为“to toil, labor：艰辛 劳动；分娩之苦”。后来引申义为旅行。因为在中世纪时，交通很不 发达，因此长途旅行是一件非常令人痛苦并且危险的事情。",
-      "examples": [],
-      "frequency": 1085,
-      "phonetic": "ˈtɹævəl",
-      "pos": "vt",
-      "rootHint": "pag",
-      "word": "travel"
-    },
-    {
-      "collocations": [],
-      "definition": "旅行者；游客（等于traveller）3831",
-      "examples": [],
-      "mnemonic": "traveler=tourist：游客",
-      "phonetic": "ˈtɹævəlɚ",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "traveler"
-    },
-    {
-      "collocations": [],
-      "definition": "旅行（用）的；移动的 n. 旅行",
-      "examples": [],
-      "frequency": 9723,
-      "phonetic": "ˈtɹævəlɪŋ",
-      "pos": "adj.",
-      "rootHint": "pag",
-      "word": "traveling"
-    },
-    {
-      "collocations": [],
-      "definition": "艰苦劳动；痛苦；难题",
-      "examples": [
-        "The team, despite their recent travails, are still in the game.\n这支运动队，尽管近来遇到了难题，但还没有出局。"
-      ],
-      "frequency": 18391,
-      "phonetic": "tɹəˈveɪl",
-      "pos": "n.",
-      "rootHint": "pag",
-      "word": "travail"
-    }
-  ]
+    "chapter": "6",
+    "chapterOrder": 106,
+    "id": "pag",
+    "meaningEn": "fasten",
+    "meaningZh": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "roots": [
+        "pag"
+    ],
+    "semanticLabel": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "source": "textbook-6",
+    "titleZh": "固定。词根 pay-, pac- 来自词根 pag-，有固定的含义。",
+    "words": [
+        {
+            "collocations": [
+                "to pay a bill/debt/fine/ransom, etc.：缴付账单、债款、罚金、赎金等",
+                "pay with their lives：付出了声明的代价\npay for：（为……）付出代价",
+                "pay money down：首付\npay a visit/pay attention：（与名词连用）进行访问；给予注意"
+            ],
+            "definition": "&vi. 支付；偿还；有好处 vt. 给……支付工薪；偿还 vi. 付代价n. 薪水",
+            "etymology": "来自古法语paier“to pay, pay up”。",
+            "examples": [],
+            "frequency": 287,
+            "mnemonic": "来自词根pag-=fasten：固定→“薪水，支付，偿还”都是数量固定的。",
+            "phonetic": "peɪ",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "pay"
+        },
+        {
+            "collocations": [
+                "on payment of something：付款后",
+                "payment in instalments/in advance/by cheque/in cash：分期/预先/支票/\n现金付款",
+                "a cash payment：现金付款",
+                "in payment for your kindness：报答厚爱\n比较：payment • premium • subscription • repayment • deposit • instalment\n1. payment：指款额、款项、付款",
+                "ten monthly payments of $50：每月付款50元，十次付清\n2. premium：指保险费、额外费用、附加费、溢价",
+                "an insurance premium：保险费",
+                "a premium for express delivery：快递附加费\n3. subscription：指（报刊、杂志等的）订阅费、订购款，（服务的）\n用户费",
+                "a subscription to ‘Newsweek’：《新闻周刊》的订阅费\n4. repayment：指按期偿还的款项、分期偿还额、偿还债务、归还借款",
+                "the repayments on the loan：贷款的分期偿还额\n5. deposit：指定金",
+                "put down a 5% deposit：支付了5%作为定金\n笔 记 区\n20000 词汇巅峰\n速\n记\n6. instalment：指分期付款的一期付款",
+                "pay for the car by/in instalments：以分期付款买了这辆车"
+            ],
+            "definition": "付款；（将付或应付的）款项；报答，报偿",
+            "examples": [],
+            "frequency": 2125,
+            "mnemonic": "pay（支付）+ -ment（名词后缀）→付款；款项；报答",
+            "phonetic": "ˈpeɪ.mənt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payment"
+        },
+        {
+            "collocations": [],
+            "definition": "在职人员工薪名册；（公司的）发放工资总额",
+            "examples": [
+                "We have 500 people on the payroll.\n我们在编员工有500人。"
+            ],
+            "frequency": 5413,
+            "mnemonic": "pay（薪水）+ roll（名册；名单）→领取薪水的员工名册→在职员工\npay（薪水）+ roll（名册）→登记入册的发放薪水总额→发放工资总额",
+            "phonetic": "ˈpeɪ.roʊl",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payroll"
+        },
+        {
+            "collocations": [
+                "the payoffs from such a breakthrough：这一突破带来的收益",
+                "payoffs from drugs exporters：来自毒品出口贩的贿赂\nreceive a $1.5 million payoff：获得了一笔150万美元的辞退补偿金\n比较：pay off：还清；（某行动）取得成功；带来好结果",
+                "pay off that loan：还清那笔贷款"
+            ],
+            "definition": "（某行动的）收益；贿赂钱；辞退补偿金",
+            "examples": [],
+            "frequency": 7792,
+            "mnemonic": "pay（支付；给……支付工薪）+ off（离开）→付款给某人；在员工\n离开的时候支付的工薪→辞退补偿金；收益；贿赂钱",
+            "phonetic": "ˈpeɪ.ɔf",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payoff"
+        },
+        {
+            "collocations": [
+                "a small paycheck：一份微薄的薪资"
+            ],
+            "definition": "工资支票；工薪",
+            "examples": [],
+            "frequency": 7811,
+            "mnemonic": "paycheck=paycheque：pay（工资）+ cheque（支票）→工资支票；工薪",
+            "phonetic": "ˈpeɪ.tʃɛk",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "paycheck"
+        },
+        {
+            "collocations": [],
+            "definition": "发薪日",
+            "examples": [],
+            "frequency": 16491,
+            "mnemonic": "pay（薪水）+ day（日子）→发薪水的日子→发薪日",
+            "phonetic": "ˈpeɪ.deɪ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payday"
+        },
+        {
+            "collocations": [
+                "paying bank：付款银行"
+            ],
+            "definition": "支付的；付款的",
+            "examples": [],
+            "frequency": 14462,
+            "phonetic": "ˈpeɪ.ɪŋ",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "paying"
+        },
+        {
+            "collocations": [
+                "mortgage payers：抵押付款人",
+                "not very good payers：差的付款人\n笔 记 区"
+            ],
+            "definition": "支付人；付款人",
+            "examples": [],
+            "frequency": 15603,
+            "phonetic": "ˈpeɪ.ɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payer"
+        },
+        {
+            "collocations": [],
+            "definition": "纳税人",
+            "examples": [
+                "This is not going to cost the taxpayer anything.\n这不会花纳税人的钱。"
+            ],
+            "frequency": 3147,
+            "mnemonic": "tax（税）+ payer（支付的人）→（向相关政府机关）支付、缴纳税\n款的人→纳税人",
+            "phonetic": "ˈtæksˌpeɪ.ɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "taxpayer"
+        },
+        {
+            "collocations": [
+                "to repay a debt/loan/mortgage：偿还债务/贷款/按揭贷款",
+                "repay you for your generosity：报答你的慷慨"
+            ],
+            "definition": "偿还（贷款、债务）；酬报，报答；值得",
+            "examples": [
+                "The report repays careful reading.\n这份报告值得仔细阅读。"
+            ],
+            "frequency": 8122,
+            "mnemonic": "re-（=back：往回）+ pay（支付）→pay back, give in return：偿还；\n报答；作为回报给回去→偿还；报答；值得（反复投入你的注意力、",
+            "phonetic": "rɪˈpeɪ",
+            "pos": "vi.",
+            "rootHint": "pag",
+            "word": "repay"
+        },
+        {
+            "collocations": [
+                "paid holiday：带薪假期",
+                "a well-paid accountant：一名高薪的会计师",
+                "the worst paid：薪酬最低的"
+            ],
+            "definition": "有薪酬的；（假期）带薪的；薪水（高或低well/badly）的（pay）的过去式和过去分词",
+            "examples": [],
+            "frequency": 7873,
+            "phonetic": "peɪd",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "paid"
+        },
+        {
+            "collocations": [
+                "unpaid volunteers：没有薪酬的志愿者",
+                "unpaid taxes：未缴纳的税款",
+                "unpaid bills：未付的账单\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "无报酬的；（税收或帐单）未缴纳的；未支付的",
+            "examples": [],
+            "frequency": 10360,
+            "mnemonic": "un-（=not：不；没有）+ paid（有薪酬的；支付的）→无报酬的；未",
+            "phonetic": "ˌʌnˈpeɪd",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "unpaid"
+        },
+        {
+            "collocations": [
+                "an insurance payout：巨额保险偿付",
+                "a lottery payout：彩票大额奖金"
+            ],
+            "definition": "付出的巨款",
+            "examples": [],
+            "frequency": 13811,
+            "mnemonic": "pay（支付）+ out（出去）→支付出去的巨额款项→付出的巨款",
+            "phonetic": "ˈpeɪ.aʊt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payout"
+        },
+        {
+            "collocations": [
+                "a 10-year payback：10年的投资回收期",
+                "the payback period：偿付期",
+                "a substantial payback：一笔可观的收益",
+                "payback time：回报（好或坏）结果之时"
+            ],
+            "definition": "收益；投资的回收期；回报 adj. 偿付的；回报的",
+            "examples": [
+                "This was payback time. I’ve proved once and for all I can become\nchampion.\n这是回报之时。我已经一劳永逸地证明我能成为冠军。"
+            ],
+            "frequency": 14175,
+            "mnemonic": "pay（支付；偿还）+ back（取回；拿回）→支付、付出的再收回来\n→收益；投资的回收期；报偿；回报的",
+            "phonetic": "ˈpeɪ.bæk",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payback"
+        },
+        {
+            "collocations": [
+                "passenger payloads：客载量",
+                "carry a 1,000kg payload：承载1000千克的炸药量"
+            ],
+            "definition": "（飞机、飞船等的）载量；（导弹等武器的）炸药量",
+            "examples": [],
+            "frequency": 14822,
+            "mnemonic": "pay（支付）+ load（负荷；装载量）→原指飞机、轮船等的有酬载",
+            "phonetic": "ˈpeɪ.loʊd",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "payload"
+        },
+        {
+            "collocations": [
+                "repayment of a $114 million loan：偿还$1.14亿的贷款"
+            ],
+            "definition": "（债务的）分期还款；偿还债务",
+            "examples": [],
+            "frequency": 15250,
+            "mnemonic": "repay（偿还）+ -ment（名词后缀）→偿还债务；（债务的）分期还款",
+            "phonetic": "rɪˈpeɪ.mənt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "repayment"
+        },
+        {
+            "collocations": [
+                "make your cheque payable to...：把支票开给……"
+            ],
+            "definition": "应支付的，可支付的；应支付（给某人）的",
+            "examples": [
+                "A 10% deposit is payable in advance.\n须预付10%的押金。"
+            ],
+            "frequency": 19224,
+            "mnemonic": "pay（支付）+ -able（形容词后缀，能……的）→应支付的；可支付的",
+            "phonetic": "ˈpeɪ.ə.bəl",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "payable"
+        },
+        {
+            "collocations": [
+                "the sports pages：体育版",
+                "a glorious page of history：历史上光辉的篇章",
+                "on the same page：目标一致；就目标达成共识",
+                "turn the page：（经过困难后）翻开新的一页，开始新的生活"
+            ],
+            "definition": "（书刊或纸张的）页，面，张，版；历史篇章 vt.（在公共场合通过扬声器）呼叫",
+            "etymology": "来自古法语pagene“page, text：页面；文本”(12世纪)。来自词根 pag-=to fasten：固定。因为古代的书页都是“固定”成一本书的。",
+            "examples": [
+                "He was paged repeatedly as the flight was boarding.\n登机时，他被反复地呼叫着。"
+            ],
+            "frequency": 709,
+            "phonetic": "peɪdʒ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "page"
+        },
+        {
+            "collocations": [
+                "a front-page article：一篇头版文章"
+            ],
+            "definition": "头版的（文章、图片等）",
+            "examples": [],
+            "frequency": 12833,
+            "mnemonic": "front（前面的）+ page（版面）→报纸前面版面的→头版的（文章、",
+            "phonetic": "ˌfrʌntˈpeɪdʒ",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "front-page"
+        },
+        {
+            "collocations": [
+                "a beauty pageant：选美比赛",
+                "life’s rich pageant：丰富的人生画卷",
+                "a historical pageant of kings and queens：一场历史上的国王和王后们的\n盛大庆典"
+            ],
+            "definition": "选美大赛；盛大华丽的情景；古代盛装游行（或庆典）9750",
+            "examples": [],
+            "mnemonic": "page（戏剧的舞台或场景；历史篇章）+ -ant（名词后缀）→比喻用",
+            "phonetic": "ˈpæ.dʒənt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pageant"
+        },
+        {
+            "collocations": [],
+            "definition": "寻呼机",
+            "examples": [],
+            "frequency": 14468,
+            "phonetic": "ˈpeɪ.dʒɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pager"
+        },
+        {
+            "collocations": [
+                "peasant farmers：个体农民",
+                "peasant household：庄户；农户"
+            ],
+            "definition": "（尤指昔日或贫穷国家的）农民；小农；佃农",
+            "etymology": "来自拉丁语pagus“country or rural district”，表示“乡下或农村地 区”。Peasant的原意就是居住在pagus的人，翻译为“乡下人”更合 适。与此相对，farmer表示的是一种职业，即农业工作者。",
+            "examples": [],
+            "frequency": 4733,
+            "phonetic": "ˈpɛ.zənt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peasant"
+        },
+        {
+            "collocations": [
+                "pagan ideas：异教思想",
+                "a pagan festival：异教节日"
+            ],
+            "definition": "异教徒（旧时的基督徒用以指非基督徒） adj. 异教徒的",
+            "etymology": "pagan与peasant一样，同样源自拉丁语pagus，本意与peasant很接近， 都是表示居住在农村的人。罗马立基督教为国家后，基督教首先在城 市中迅速发展，而在广大农村地区发展缓慢，居住在农村的人们依然 信仰以前的神祗。因此，基督教徒用“pagan”（异教徒）来称呼这 些尚未信仰基督的人。被基督教徒这样引用后便增加了“异教徒、未 开化者、堕落者”等负面含义。",
+            "examples": [],
+            "frequency": 12800,
+            "phonetic": "ˈpeɪ.ɡən",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pagan"
+        },
+        {
+            "collocations": [
+                "pack up/pack sth. up：打点行李",
+                "packing costs：打包/装箱费",
+                "a job packing boxes in a warehouse：一份在仓库装箱的工作",
+                "pack away the summer clothes：把夏装收藏起来\npack sb... in/pack sth... out：吸引（大批观众）",
+                "pack into the stadium：涌入了体育场",
+                "pack your bags：（尤指产生分歧后）永远离开",
+                "The show is still packing the people in.\n演出仍然吸引着大批观众。\n20000 词汇巅峰\n速\n记",
+                "The band can still pack out concert halls.\n这支乐队仍能使音乐厅爆满。\n笔 记 区"
+            ],
+            "definition": "&vi. 打点（行装）；挤满 vt. 把……装箱 n. 打包；装箱；包，盒；一群（尤指令人感到受到威胁的）",
+            "etymology": "来自13世纪早期，pak, pake, “a bundle or package (of cloth, merchandise, etc.),” also “a bag or purse for carrying things.",
+            "examples": [
+                "He thus avoided a pack of journalists eager to question him.\n他就这样避开了一群急于向他提问的记者。"
+            ],
+            "frequency": 2293,
+            "phonetic": "pæk",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "pack"
+        },
+        {
+            "collocations": [
+                "packed with sth./-packed：有大量……的；……极多的",
+                "a packed meeting：一个座无虚席的会议",
+                "pack tightly：紧密地压在一起\npacked snow：压实的雪地"
+            ],
+            "definition": "拥挤的；充满的8484",
+            "examples": [],
+            "mnemonic": "pack：挤满→packed：拥挤的；充满的",
+            "phonetic": "pækt",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "packed"
+        },
+        {
+            "collocations": [
+                "sugar packets：糖盒",
+                "a packet of biscuits：一包饼干",
+                "a training packet：一套培训材料"
+            ],
+            "definition": "小盒子，包装袋；小件包裹；（为某种用途的）一套文件，一套资料",
+            "examples": [],
+            "frequency": 6327,
+            "mnemonic": "pack（包；盒）+ -et（名词后缀，表示小东西）→小包；小盒→小盒",
+            "phonetic": "ˈpæ.kɪt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "packet"
+        },
+        {
+            "collocations": [
+                "finish packing：收拾好行李"
+            ],
+            "definition": "收拾行李；包装材料",
+            "examples": [
+                "The price includes postage and packing.\n本价格包括邮资和包装费。"
+            ],
+            "frequency": 10547,
+            "phonetic": "ˈpæ.kɪŋ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "packing"
+        },
+        {
+            "collocations": [
+                "backpack in Spain：背着背包在西班牙旅行"
+            ],
+            "definition": "（尤指登山者或远足者使用的）背包，旅行包 vi. 背包旅行",
+            "examples": [],
+            "frequency": 6554,
+            "mnemonic": "back（背部）+ pack（包）→背在后背（用以远足旅行）的包→（登",
+            "phonetic": "ˈbæk.pæk",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "backpack"
+        },
+        {
+            "collocations": [],
+            "definition": "背包客",
+            "examples": [],
+            "frequency": 19447,
+            "mnemonic": "backpack（背包）+ -er（名词后缀，表示人）→背包客",
+            "phonetic": "ˈbæk.pæk.ɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "backpacker"
+        },
+        {
+            "collocations": [
+                "a large package：一个大包裹",
+                "package up：包装好",
+                "package tours to Egypt：去埃及的包价旅游",
+                "a package of measures to help small businesses：扶助小商家的一整套措施",
+                "a benefits package：一套福利措施",
+                "package news as entertainment：把新闻包装成娱乐形式"
+            ],
+            "definition": "包裹；（必须整体接收的）一套东西，一套建议；一揽子交易；包价（旅游） vt. 包装（产品），（尤指为使某物吸引人而）包装",
+            "examples": [],
+            "frequency": 1696,
+            "mnemonic": "pack（装箱；包裹）+ -age（名词后缀）→包裹；包装；引申义为一",
+            "phonetic": "ˈpæ.kɪdʒ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "package"
+        },
+        {
+            "collocations": [
+                "attractive packaging：精美的包装",
+                "packaging service：包装服务"
+            ],
+            "definition": "包装材料；外包装；包装",
+            "examples": [],
+            "frequency": 7799,
+            "phonetic": "ˈpæ.kɪ.dʒɪŋ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "packaging"
+        },
+        {
+            "collocations": [
+                "packaged food/goods：包装好的食品/商品"
+            ],
+            "definition": "包装好的",
+            "examples": [],
+            "frequency": 16398,
+            "phonetic": "ˈpæ.kɪdʒd",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "packaged"
+        },
+        {
+            "collocations": [
+                "unpack all the clothes：打开箱子，取出所有衣服"
+            ],
+            "definition": "&vi. 打开（箱子或盒子）取出",
+            "examples": [],
+            "frequency": 11734,
+            "phonetic": "ʌnˈpæk",
+            "pos": "vt",
+            "rootHint": "pag",
+            "word": "unpack"
+        },
+        {
+            "collocations": [
+                "a six-pack of beer：一箱6瓶装的啤酒",
+                "a six-pack stomach：腹肌发达（六块腹肌）"
+            ],
+            "definition": "六瓶装；六罐装；发达的腹肌",
+            "examples": [],
+            "frequency": 17588,
+            "phonetic": "ˈsɪks.pæk",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "six-pack"
+        },
+        {
+            "collocations": [
+                "keep the peace：维持和平",
+                "peace of mind：心灵的平静",
+                "a wonderful feeling of peace：一种平和的美妙感觉\n笔 记 区"
+            ],
+            "definition": "和平；安宁；平和",
+            "examples": [],
+            "frequency": 936,
+            "mnemonic": "peac（-pac-：和平）+ -e→由固定引申为订立条约→引申词义和平；",
+            "phonetic": "pis",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peace"
+        },
+        {
+            "collocations": [
+                "a peaceful solution：和平的解决办法",
+                "peaceful sleep：安静的睡眠",
+                "a peaceful society：和谐的社会"
+            ],
+            "definition": "和平的；安静的；爱好和平的，和睦的",
+            "examples": [],
+            "frequency": 3689,
+            "phonetic": "ˈpiːs.fəl",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "peaceful"
+        },
+        {
+            "collocations": [],
+            "definition": "和平地；安静地",
+            "examples": [
+                "Except for traffic noise the night passed peacefully.\n除了交通噪音，那夜安宁地过去了。"
+            ],
+            "frequency": 9277,
+            "phonetic": "ˈpiːs.fə.li",
+            "pos": "adv.",
+            "rootHint": "pag",
+            "word": "peacefully"
+        },
+        {
+            "collocations": [
+                "UN peacekeepers：联合国维和士兵"
+            ],
+            "definition": "维和士兵；（国家或组织）维和者",
+            "examples": [],
+            "frequency": 11442,
+            "mnemonic": "peace（和平）+ keeper（维护者）→和平维护者→维和士兵",
+            "phonetic": "ˈpiːs.ki.pɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peacekeeper"
+        },
+        {
+            "collocations": [
+                "peacekeeping operations：维和行动",
+                "peacekeeping force：维持和平部队"
+            ],
+            "definition": "维护和平的 n. 维持和平",
+            "examples": [],
+            "frequency": 12075,
+            "phonetic": "ˈpiːs.ki.pɪŋ",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "peacekeeping"
+        },
+        {
+            "collocations": [],
+            "definition": "调解人",
+            "examples": [],
+            "frequency": 18065,
+            "mnemonic": "peace（和平）+ maker（制造者）→person who make peace：和平制\n造者；阻止打仗或争吵的人→调解人",
+            "phonetic": "ˈpiːs.meɪ.kɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peacemaker"
+        },
+        {
+            "collocations": [],
+            "definition": "和平时期",
+            "examples": [],
+            "frequency": 15620,
+            "mnemonic": "peace（和平）+ time（时期）→和平时期",
+            "phonetic": "ˈpiːs.taɪm",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peacetime"
+        },
+        {
+            "collocations": [
+                "pacify the baby：使婴儿平静下来",
+                "pacify the rebels：平定叛乱分子"
+            ],
+            "definition": "使平静；安抚；平定",
+            "examples": [],
+            "frequency": 19834,
+            "mnemonic": "pac-（=peace：和平）+ -ify（使动词后缀）→to make peace：使和",
+            "phonetic": "ˈpæ.sə.faɪ",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "pacify"
+        },
+        {
+            "collocations": [
+                "pacifist ideals：和平主义理想"
+            ],
+            "definition": "和平主义者；反战者 adj. 和平主义的；反战的",
+            "examples": [],
+            "frequency": 18060,
+            "mnemonic": "pacif（=pacify：使和平；安抚）+ -ist（名词后缀，表示人）→使实\n现和平的人→和平主义者；反战的",
+            "phonetic": "ˈpæ.sə.fɪst",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pacifist"
+        },
+        {
+            "collocations": [
+                "appease critics：安抚批评者",
+                "If you try to appease someone, you try to stop them from being angry by",
+                "giving them what they want."
+            ],
+            "definition": "安抚；抚慰；姑息",
+            "etymology": "来自古法语apaisier“to pacify, make peace：使平静；调解”（12世 纪），来自词组a paisier“bring to peace：带来和平”。",
+            "examples": [],
+            "frequency": 12789,
+            "mnemonic": "ap-（=ad-=to）+ pease（=peace：和平）→to make peace, pacify：\n使……和平→安抚；抚慰",
+            "phonetic": "əˈpiːz",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "appease"
+        },
+        {
+            "collocations": [
+                "keep pace with：与……保持同步；与……并驾齐驱",
+                "at one’s own pace：按自己的速度",
+                "a different opinion).\n请琼斯教授原谅，证据表明……\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "（用于人名前，委婉提出不同意见）请……原谅 vt.&vi.（因焦虑或不耐烦）在……走来走去 vt. 放稳（自己）的步调 n. 速度；节奏；步速",
+            "examples": [
+                "The evidence suggests, pace Professor Jones, that... (= Professor Jones has"
+            ],
+            "frequency": 2556,
+            "mnemonic": "介词用法：pac-：peace→pace：用于委婉提出不同意见（表示友好的\n动词、名词用法：pace=a step, trace：脚步；痕迹→引申义为速度；",
+            "phonetic": "peɪs",
+            "pos": "prep.",
+            "rootHint": "pag",
+            "word": "pace"
+        },
+        {
+            "collocations": [
+                "cardiac pacemaker：心脏起搏器"
+            ],
+            "definition": "心脏起搏器；领跑人；（竞赛中的）领先者",
+            "examples": [],
+            "frequency": 19348,
+            "mnemonic": "pace（步伐）+ maker（制定者）→心脏起搏器（决定心脏搏起的速",
+            "phonetic": "ˈpeɪs.meɪ.kɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pacemaker"
+        },
+        {
+            "collocations": [
+                "outpace foreign rivals：超过外国竞争对手"
+            ],
+            "definition": "（在速度上）超过；比……快",
+            "examples": [],
+            "frequency": 15531,
+            "mnemonic": "out-（超过）+ pace（步伐；速度）→超过别人的步伐、速度→超",
+            "phonetic": "ˌaʊt.ˈpeɪs",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "outpace"
+        },
+        {
+            "collocations": [
+                "fast-paced business culture：快节奏的商业氛围"
+            ],
+            "definition": "快节奏的",
+            "examples": [],
+            "frequency": 19350,
+            "phonetic": "ˈfæstˌpeɪst",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "fast-paced"
+        },
+        {
+            "collocations": [
+                "make a pact with each other：彼此达成协议",
+                "trade pact：贸易条约"
+            ],
+            "definition": "条约；协议",
+            "etymology": "来自古法语pacte“agreement, treaty, compact：协议；条约；契 约”(14世纪)。词根pac-=to agree：同意；赞成。来自词根pag-=to",
+            "examples": [],
+            "frequency": 6783,
+            "mnemonic": "fasten→pact：双方都赞成的意见通过条约固定住。",
+            "phonetic": "pækt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "pact"
+        },
+        {
+            "collocations": [
+                "social/environmental impact：社会/环境影响",
+                "exert/impose/have impact on/upon sth.：对……施加影响",
+                "digital bookselling will have a significant impact on the book world in",
+                "the years to come.\n但有一点可以肯定，从某些方面看来，谷歌进入数字图书销售领域在\n未来几年内将会对图书界产生重大影响。",
+                "But what is certain is that, in some way or other, the appearance/emergence",
+                "of e-books will have /exert /impose a significant impact/effect/influence"
+            ],
+            "definition": "&vi. 对……造成影响；撞击n. 巨大影响；撞击；冲击力",
+            "examples": [
+                "But what is certain is that, in some way or other, Google’s entrance into",
+                "但可以肯定的是，在某些方面看来，电子书的出现将会在未来几\n年内内对传统书的销售产生重大影响。\non/upon the book world in the years to come."
+            ],
+            "frequency": 922,
+            "mnemonic": "im-（=into：向内）+ -pact（=push, drive, press：压紧；推进）→向内\n压紧；推进→对……造成影响；撞击",
+            "phonetic": "ɪmˈpækt",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "impact"
+        },
+        {
+            "collocations": [
+                "a layer of compacted snow：压紧的一层雪",
+                "a compact camera：袖珍照相机",
+                "a compact kitchen：一个空间小的厨房",
+                "a compact mass of earth：压得很结实的泥土\n与 compact 一样，同样有“把……紧压在一起，紧凑的”含义的单词有\ncondense。"
+            ],
+            "definition": "把……紧压在一起（或压实） adj. 袖珍的；体积小的；结实的 n. 协议；契约",
+            "examples": [],
+            "frequency": 6289,
+            "mnemonic": "com-（加强语气）+ pac-（=fasten：扣紧；抓牢）+ t→紧压在一起；",
+            "phonetic": "kəmˈpækt",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "compact"
+        },
+        {
+            "collocations": [
+                "condense the soup：把汤熬浓",
+                "condense an idea or argument into a sentence：把观念或论据简缩成一句"
+            ],
+            "definition": "简缩（尤指文字；信息；演讲稿）；（使）浓缩vt.&vi. 使（气体、蒸汽）冷凝",
+            "examples": [
+                "Water vapor condenses to form clouds.\n水蒸汽冷凝形成云。"
+            ],
+            "frequency": 14145,
+            "mnemonic": "con-（加强语气）+ dense（=make dense, thick：变厚；变浓）→\n（使）变浓→减缩；使浓缩；使冷凝",
+            "phonetic": "kənˈdɛns",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "condense"
+        },
+        {
+            "collocations": [
+                "a condensed version：一个缩编版",
+                "condensed mushroom soup：浓缩的蘑菇汤\n笔 记 区"
+            ],
+            "definition": "缩编的；浓缩的（液体）15787",
+            "examples": [],
+            "phonetic": "kənˈdɛnst",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "condensed"
+        },
+        {
+            "collocations": [
+                "wipe the condensation off the glass：擦去眼镜上凝结的水滴"
+            ],
+            "definition": "凝结液滴；（书等的）简缩",
+            "examples": [],
+            "frequency": 15844,
+            "mnemonic": "condense（使（气体、蒸汽）冷凝；简缩）+ -ation（复合名词后缀）\n→凝结；简缩",
+            "phonetic": "ˌkɑndənˈseɪʃən",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "condensation"
+        },
+        {
+            "collocations": [
+                "pale green：淡绿色",
+                "insignificance：相形见绌；显得逊色",
+                "beyond the pale：出格；出圈；越轨；令人不能容忍",
+                "His remarks were clearly beyond the pale.\n他的话显然出格了。"
+            ],
+            "definition": "苍白的；浅色的 vi. 显得逊色；相形见绌 n. 界限；边界",
+            "etymology": "/释义：n. 作名词时，来自pag-=to fasten：使固定→拉丁语palus：",
+            "examples": [
+                "Last year’s riots pale in comparison with this latest outburst of violence.\n去年的骚乱与最近这次暴乱相比，可说是小巫见大巫（显得逊色）。"
+            ],
+            "frequency": 2958,
+            "mnemonic": "stake, wooden post→木桩；木制的篱笆桩→引申义为界限；边界\nadj./vi. 作形容词、动词时，词源来自古法语paile = light-colored：浅色\n的→用作动词时，含义为使变为浅色→引申义为显得逊色；相形见绌",
+            "phonetic": "peɪl",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "pale"
+        },
+        {
+            "collocations": [
+                "He paints from a palette consisting almost exclusively of grey and mud"
+            ],
+            "definition": "调色板；（画家使用的）色彩范围",
+            "examples": [
+                "The painter’s right hand holds the brush, the left the palette.\n那位画家的右手握着画笔，左手拿着调色盘。\nbrown.\n他画画几乎只用包含灰色和土褐色的色调。"
+            ],
+            "frequency": 7506,
+            "phonetic": "ˈpæ.lɪt",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "palette"
+        },
+        {
+            "collocations": [
+                "sink fangs into his hand：将尖牙咬紧他的手"
+            ],
+            "definition": "（动物的）尖牙",
+            "etymology": "来自pag-：固定→后用演变为prey, a seizing or taking：猎物或捕获物→ 后来指catching- or grasping-tooth，即用来捕获猎物的（动物的）尖牙。",
+            "examples": [],
+            "frequency": 14805,
+            "phonetic": "fæŋ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "fang"
+        },
+        {
+            "collocations": [
+                "impinge on private life：妨碍私生活"
+            ],
+            "definition": "对……有重大影响；冲击；妨碍",
+            "etymology": "1530s, “fasten or fix forcibly,” from Latin impingere “drive into, strike against”.",
+            "examples": [],
+            "frequency": 19383,
+            "mnemonic": "im-（=into：在里面）+ -pinge（=to fix, fasten：固定）→把……（用\n强力/武力固定在……里面）→对……有重大影响；冲击；妨碍",
+            "phonetic": "ɪmˈpɪndʒ",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "impinge"
+        },
+        {
+            "collocations": [],
+            "definition": "露台；平台",
+            "etymology": "来自古普罗旺斯语patu, pati“untilled land, communal pasture：未开垦 20000 词汇巅峰 速 记",
+            "examples": [
+                "Let’s have lunch out on the patio. 咱们在外面平台上吃午饭吧。\npatio：露台；平台"
+            ],
+            "frequency": 6984,
+            "mnemonic": "的土地；公共的草场”→朝向天空的内院：露台；平台",
+            "phonetic": "ˈpæ.ti.oʊ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "patio"
+        },
+        {
+            "collocations": [
+                "peel作“面包师用的长柄木铲“含义时，等于spade, shovel：铁锹；铲\n子。来自词源pag-=to fasten：固定",
+                "to peel an orange/a banana：剥橙子/香蕉",
+                "orange/lemon peel：橙子/柠檬皮"
+            ],
+            "definition": "剥（水果、蔬菜等的）皮；去皮；剥掉 vi. 剥落 n.（某些水果、蔬菜的）外皮；果皮；（烤面包时用的）长柄铲",
+            "examples": [
+                "The wallpaper was beginning to peel.\n壁纸开始剥落了。"
+            ],
+            "frequency": 3955,
+            "mnemonic": "peel作“剥皮；剥落”含义时，等于“to strip off：脱去；剥落”；作",
+            "phonetic": "pil",
+            "pos": "vt.",
+            "rootHint": "pag",
+            "word": "peel"
+        },
+        {
+            "collocations": [
+                "peeled chestnuts：去皮的栗子",
+                "a peeled-off piece or strip：剥下的一块或一条"
+            ],
+            "definition": "剥去皮的",
+            "examples": [],
+            "frequency": 18213,
+            "phonetic": "pild",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "peeled"
+        },
+        {
+            "collocations": [
+                "abundance of peelings：大量的果皮、蔬菜皮"
+            ],
+            "definition": "剥下的（一块）皮；（生物）剥落，脱落 vi. 掉漆；脱皮",
+            "examples": [
+                "Its once-elegant white pillars are peeling.\n曾一度典雅的白色立柱在掉漆。"
+            ],
+            "frequency": 18498,
+            "phonetic": "ˈpiː.lɪŋ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "peeling"
+        },
+        {
+            "collocations": [
+                "travel through water：在水中传播",
+                "air travel：空中旅行",
+                "travel abroad：在国外旅游",
+                "travel light：轻装旅行\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "&vi. 旅行 vt. 游历 vi.（光或声音）传播；（消息）流传 n.旅行；旅游",
+            "etymology": "travel=journey：旅行。原始来自travail，含义为“to toil, labor：艰辛 劳动；分娩之苦”。后来引申义为旅行。因为在中世纪时，交通很不 发达，因此长途旅行是一件非常令人痛苦并且危险的事情。",
+            "examples": [],
+            "frequency": 1085,
+            "phonetic": "ˈtrævəl",
+            "pos": "vt",
+            "rootHint": "pag",
+            "word": "travel"
+        },
+        {
+            "collocations": [],
+            "definition": "旅行者；游客（等于traveller）3831",
+            "examples": [],
+            "mnemonic": "traveler=tourist：游客",
+            "phonetic": "ˈtrævəlɚ",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "traveler"
+        },
+        {
+            "collocations": [],
+            "definition": "旅行（用）的；移动的 n. 旅行",
+            "examples": [],
+            "frequency": 9723,
+            "phonetic": "ˈtrævəlɪŋ",
+            "pos": "adj.",
+            "rootHint": "pag",
+            "word": "traveling"
+        },
+        {
+            "collocations": [],
+            "definition": "艰苦劳动；痛苦；难题",
+            "examples": [
+                "The team, despite their recent travails, are still in the game.\n这支运动队，尽管近来遇到了难题，但还没有出局。"
+            ],
+            "frequency": 18391,
+            "phonetic": "trəˈveɪl",
+            "pos": "n.",
+            "rootHint": "pag",
+            "word": "travail"
+        }
+    ]
 }

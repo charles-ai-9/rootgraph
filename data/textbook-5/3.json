@@ -1,1617 +1,1617 @@
 {
-  "chapter": "3",
-  "chapterOrder": 103,
-  "id": "3",
-  "meaningEn": "to see",
-  "meaningZh": "看。",
-  "roots": [],
-  "semanticLabel": "看。",
-  "source": "textbook-5",
-  "titleZh": "看。",
-  "words": [
-    {
-      "collocations": [
-        "visit; inspect, examine”，出访，视察，检查，并直接来自拉丁语\nvisitare“to go to see, come to inspect”，表示去看，检查，监督。来\n自Visere 的反复动词，含义为“behold, visit”，表示注视，访问，\n参观某人或某地。来自videre 的过去分词词根，表示“to see, notice,\nobserve”，含义为“看；注意；观察”。来自词根 to see，表示看。\nn. 1620s，“friendly or formal call upon someone，”指对某人友好正\n式的拜访。来自法语visite （n.）.",
-        "pay sb. a visit：拜访某人",
-        "regular home visits：定期上门服务\nstate visit：国事访问\n单词 visit 的派生词为 visiting, visitor, revisit, visitation 等。"
-      ],
-      "definition": "&vi. 拜访；访问；浏览 vt. 上门服务（咨询） n. 拜访；访问；上门服务（咨询）",
-      "etymology": "v. 13世纪的含义为“come to （a person） to comfort or benefit，”为 了安慰或对其有益处而来到某人身边。13世纪，来自法语visiter“to",
-      "examples": [],
-      "frequency": 908,
-      "mnemonic": "vis-（看见）+ -it（名词后缀）→拜访；访问",
-      "phonetic": "ˈvɪzɪt",
-      "pos": "vt.",
-      "word": "visit"
-    },
-    {
-      "collocations": [
-        "visiting scholar：访问学者"
-      ],
-      "definition": "（指教授或讲师）客座的；访问的",
-      "examples": [],
-      "frequency": 5699,
-      "phonetic": "ˈvɪzɪtɪŋ",
-      "pos": "adj.",
-      "word": "visiting"
-    },
-    {
-      "collocations": [
-        "get visitors coming this weekend：本周末有客人来访"
-      ],
-      "definition": "访问者；参观者",
-      "examples": [],
-      "frequency": 1710,
-      "phonetic": "ˈvɪzɪtɚ",
-      "pos": "n.",
-      "word": "visitor"
-    },
-    {
-      "collocations": [
-        "revisit this lake at dawn：在黎明时分重游了这个湖",
-        "revisit the issue at their next meeting：在他们下次会议上重新讨论这个\n问题\n笔 记 区"
-      ],
-      "definition": "重游；重新讨论",
-      "examples": [],
-      "frequency": 8087,
-      "phonetic": "ˌɹi.ˈvɪ.zɪt",
-      "pos": "vt.",
-      "word": "revisit"
-    },
-    {
-      "collocations": [
-        "house-to-house visitation：挨家挨户的访问",
-        "seek more liberal visitation：寻求更自由的探视权"
-      ],
-      "definition": "（正式的）访问；（尤指权威人士的）视察，巡视；（上帝等神灵的）显现；（离婚父母对子女的）探视权",
-      "examples": [],
-      "frequency": 10668,
-      "phonetic": "ˌvɪzəˈteɪʃən",
-      "pos": "n.",
-      "word": "visitation"
-    },
-    {
-      "collocations": [
-        "visual defects：视觉缺陷",
-        "visual depiction：视觉描绘",
-        "Visual 的派生词为 visually, visualize, visualization 等。"
-      ],
-      "definition": "视觉的 n. 视觉资料（指说明性的图片、影片等）",
-      "examples": [],
-      "frequency": 2175,
-      "mnemonic": "vis-（看）+ u（连接符号）+ -al（形容词后缀）→视野的；视觉的",
-      "phonetic": "ˈvɪʒuəl",
-      "pos": "adj.",
-      "word": "visual"
-    },
-    {
-      "collocations": [
-        "visually handicapped boys and girls：有视力障碍的男孩女孩"
-      ],
-      "definition": "视觉地",
-      "examples": [],
-      "frequency": 6414,
-      "phonetic": "ˈvɪʒuəli",
-      "pos": "adv.",
-      "word": "visually"
-    },
-    {
-      "collocations": [],
-      "definition": "使形象化；想象；构思",
-      "examples": [
-        "We must visualize issues from every perspective to make the objective\ndecisions.\n我们必须从个每一个角度去想象问题，以做出客观的决定。"
-      ],
-      "frequency": 8918,
-      "mnemonic": "visual（视觉的）+ -ize（使动词）→使形象化；想象；构思",
-      "phonetic": "ˈvɪʒuəlaɪz",
-      "pos": "vt.",
-      "word": "visualize"
-    },
-    {
-      "collocations": [
-        "information visualization：信息可视化"
-      ],
-      "definition": "形象化；可视化",
-      "examples": [],
-      "frequency": 14411,
-      "phonetic": "ˌvɪʒuələˈzeɪʃən",
-      "pos": "n.",
-      "word": "visualization"
-    },
-    {
-      "collocations": [
-        "to achieve a desired vision：去实现一个渴望的愿景",
-        "cultivate a global vision：培养一种全球视野\n单词 vision 的派生词有 visionary, envision 等。"
-      ],
-      "definition": "视力；视野；想象；远见卓识；画面",
-      "examples": [],
-      "frequency": 1219,
-      "mnemonic": "vis-（看）+ -ion（名词后缀）→视力；视野；想象；远见卓识；画面",
-      "phonetic": "ˈvɪʒən",
-      "pos": "n.",
-      "word": "vision"
-    },
-    {
-      "collocations": [
-        "a visionary leader：有远见卓识的领袖",
-        "the visionary architecture；富有创见的建筑"
-      ],
-      "definition": "有远见卓识的；（尤指）宗教异象的 n. 有眼力的人；有远见卓识的人",
-      "examples": [],
-      "frequency": 9207,
-      "phonetic": "ˈvɪʒənɛɹi",
-      "pos": "adj.",
-      "word": "visionary"
-    },
-    {
-      "collocations": [
-        "envision an equal society：向往一个平等的社会"
-      ],
-      "definition": "想象；设想；展望",
-      "examples": [],
-      "frequency": 4532,
-      "mnemonic": "en-（make, put in：使；放入）+ vision（想象）→在头脑中放入想\n象，使设想→想象；设想；展望",
-      "phonetic": "ɪn.ˈvɪ.ʒən",
-      "pos": "vt.",
-      "word": "envision"
-    },
-    {
-      "collocations": [
-        "envisage the possibility of：设想……的可能性"
-      ],
-      "definition": "想象；设想",
-      "examples": [],
-      "frequency": 17209,
-      "mnemonic": "en-（=in）+ -vis（=face：脸）+ -age（名词后缀）→look in the face\nof：端详着某人的脸→理解；沉思→引申义为想象，设想",
-      "phonetic": "ɪn.ˈvɪ.zɪdʒ",
-      "pos": "vt.",
-      "word": "envisage"
-    },
-    {
-      "collocations": [
-        "clearly visible：清晰可见",
-        "visible sign：明显的迹象",
-        "visible light：可见光\n单词 visible 的派生词为 visibility, visibly, invisible, invisibility 等。\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "可见的；明显的",
-      "examples": [],
-      "frequency": 2323,
-      "mnemonic": "vis-（看见）+ -ible（形容词后缀，能够……的）→看得见的→可见",
-      "phonetic": "ˈvɪzəbəl",
-      "pos": "adj.",
-      "word": "visible"
-    },
-    {
-      "collocations": [
-        "be visibly wavering：显然犹疑不决",
-        "be visibly shocked：看得出……大为震惊的\n笔 记 区"
-      ],
-      "definition": "易察觉地；明显地",
-      "examples": [],
-      "frequency": 10022,
-      "phonetic": "ˈvɪzəbli",
-      "pos": "adv.",
-      "word": "visibly"
-    },
-    {
-      "collocations": [
-        "gain global visibility：受到了全球的关注"
-      ],
-      "definition": "能见度；关注程度",
-      "examples": [],
-      "frequency": 7400,
-      "phonetic": "ˌvɪzəˈbɪləti",
-      "pos": "n.",
-      "word": "visibility"
-    },
-    {
-      "collocations": [
-        "invisible earnings：无形收益"
-      ],
-      "definition": "看不见的；隐形的；无形的",
-      "examples": [],
-      "frequency": 3847,
-      "mnemonic": "in-（表否定）+ visible（看得见的）→看不见的；隐形的",
-      "phonetic": "ɪnˈvɪz.ə.bəl",
-      "pos": "adj.",
-      "word": "invisible"
-    },
-    {
-      "collocations": [
-        "fade to invisibility：退色看不见了"
-      ],
-      "definition": "隐形；看不见",
-      "examples": [],
-      "frequency": 17899,
-      "phonetic": "ɪn.vɪz.əˈbɪl.ə.ti",
-      "pos": "n.",
-      "word": "invisibility"
-    },
-    {
-      "collocations": [
-        "revise his opinion of the profession：修正自己对这一职业的看法",
-        "revise prices：调整价格",
-        "revise for exams：考前复习\n单词 revise 的派生词为 revised, revision, revisionist 等。"
-      ],
-      "definition": "修正；调整；修改；复习",
-      "examples": [],
-      "frequency": 5909,
-      "mnemonic": "re-（=again：再）+ -vis-（=to see：看见）+ -e（动词后缀）→再看一\n遍→修正；调整；复习",
-      "phonetic": "ɹɪ.ˈvaɪz",
-      "pos": "vt.",
-      "word": "revise"
-    },
-    {
-      "collocations": [
-        "revised edition：修订版"
-      ],
-      "definition": "改进的；修正的",
-      "examples": [],
-      "frequency": 8106,
-      "phonetic": "ɹɪ.ˈvaɪzd",
-      "pos": "adj.",
-      "word": "revised"
-    },
-    {
-      "collocations": [
-        "a system in need of revision：需要更新的系统",
-        "a revision of trading standards：贸易标准的修改"
-      ],
-      "definition": "修改；修正；复习",
-      "examples": [],
-      "frequency": 6080,
-      "mnemonic": "re-（反复）+ -vis-（看）+ -ion（名词后缀）→反复看→修改；修",
-      "phonetic": "ɹɪ.ˈvɪ.ʒən",
-      "pos": "n.",
-      "word": "revision"
-    },
-    {
-      "collocations": [
-        "the revisionist interpretation：修正性解释",
-        "historical revisionists：历史修正主义者",
-        "this revisionist thesis：这篇修正主义的论文",
-        "hardliners and revisionists：强硬派和修正主义者"
-      ],
-      "definition": "（对历史事件）持修正主义论的；（社会主义者的行动或观点）修正主义的 n. 修正主义者",
-      "examples": [],
-      "frequency": 14268,
-      "mnemonic": "revision（修正）+ -ist（名词 / 形容词后缀，表示……主义的）→修",
-      "phonetic": "ɹɪ.ˈvɪ.ʒə.nɪst",
-      "pos": "adj.",
-      "word": "revisionist"
-    },
-    {
-      "collocations": [
-        "advice on road safety：有关道路安全的建议",
-        "follow your doctor’s advice：要遵从医嘱"
-      ],
-      "definition": "劝告；忠告；建议",
-      "examples": [],
-      "frequency": 1650,
-      "mnemonic": "ad-（=to：去）+ -vic-（=see：看）（s←→c 互换）+ -e→去看一看，\n然后给出看法，意见，判断→劝告；忠告；建议",
-      "phonetic": "æd.ˈvaɪs",
-      "pos": "n.",
-      "word": "advice"
-    },
-    {
-      "collocations": [
-        "strongly advise：极力奉劝",
-        "Advise 的派生词为 adviser, advisor, advisory, advisable 等。"
-      ],
-      "definition": "建议；（就某话题向某人）提供咨询；正式告知",
-      "examples": [],
-      "frequency": 2575,
-      "mnemonic": "ad-（去）+ -vis-（看）+ -e（动词后缀）→去看→提出建议、咨询；",
-      "phonetic": "æd.ˈvaɪz",
-      "pos": "vt.",
-      "word": "advise"
-    },
-    {
-      "collocations": [
-        "a financial adviser：财务顾问",
-        "a special adviser：特别顾问",
-        "adviser to sb. on sth.：为某人在某事上提供意见"
-      ],
-      "definition": "顾问；提供意见者（advisor与adviser含义相同）",
-      "examples": [],
-      "frequency": 2745,
-      "phonetic": "æd.ˈvaɪ.zɚ",
-      "pos": "n.",
-      "word": "adviser"
-    },
-    {
-      "collocations": [
-        "an advisory committee / body / service：顾问委员会；咨询机构",
-        "a tornado advisory：龙卷风警报\n笔 记 区"
-      ],
-      "definition": "顾问的；咨询的 n. 警报",
-      "examples": [],
-      "frequency": 5172,
-      "phonetic": "æd.ˈvaɪ.zɚ.i",
-      "pos": "adj.",
-      "word": "advisory"
-    },
-    {
-      "collocations": [
-        "It is advisable to do sth.：做……是可取的"
-      ],
-      "definition": "明智的；可取的",
-      "examples": [],
-      "frequency": 19492,
-      "phonetic": "æd.ˈvaɪ.zə.bəl",
-      "pos": "adj.",
-      "word": "advisable"
-    },
-    {
-      "collocations": [
-        "to supervise building work：监理建筑工程",
-        "Supervise 的派生词为 supervisor, supervisory, supervision 等。"
-      ],
-      "definition": "监督；管理；指导",
-      "examples": [],
-      "frequency": 5677,
-      "mnemonic": "super-（=over：上面）+ -vis-（看）+ e→在上面（头上）看→监督；",
-      "phonetic": "ˈsu.pɚ.vaɪz",
-      "pos": "vt.",
-      "word": "supervise"
-    },
-    {
-      "collocations": [
-        "a full-time job as a supervisor：担任监督员的一项全职工作"
-      ],
-      "definition": "监督人；指导者；主管人",
-      "examples": [],
-      "frequency": 3623,
-      "phonetic": "ˈsu.pɚˌvaɪ.zɚ",
-      "pos": "n.",
-      "word": "supervisor"
-    },
-    {
-      "collocations": [
-        "supervisory boards：监事会",
-        "staff with a minor supervisory role：担任少量监督工作的职员"
-      ],
-      "definition": "监督的；管理的",
-      "examples": [],
-      "frequency": 14591,
-      "phonetic": "ˌsu.pɚˈvaɪ.zɚ.i",
-      "pos": "adj.",
-      "word": "supervisory"
-    },
-    {
-      "collocations": [
-        "under the supervision of：在……监督/管理下",
-        "tutorial supervision：教员监管",
-        "In dealing with the issue and other things alike, in fact, not sufficient value",
-        "is placed upon publicity / guidance and education / supervision, although",
-        "we may have come to realize the significance of （v+ing） sth.",
-        "In dealing with the issue and other things alike, in fact, not sufficient value",
-        "is placed upon education and supervision，although we may have come to\n20000 词汇巅峰\n速\n记\n笔 记 区",
-        "realize the significance of cracking down on pirated products."
-      ],
-      "definition": "监督，管理",
-      "examples": [
-        "在处理这个问题和其他类似问题的时候，实际上，并没有足够\n重视宣传 / 引导和教育 / 监管，尽管我们已经开始意识到……的重要\n性。"
-      ],
-      "frequency": 5688,
-      "phonetic": "ˌsu.pɚˈvɪ.ʒən",
-      "pos": "n.",
-      "word": "supervision"
-    },
-    {
-      "collocations": [
-        "from Modern Latin charta visa “verified paper,” literally “paper that has\nbeen seen”. 19世纪初来自法语visa，源自现代拉丁短语charta visa，含\n义为“paper that has been seen”，“verified paper”，即公文已验。",
-        "an exit visa：一张出境签证",
-        "student visa：学生签证"
-      ],
-      "definition": "（护照上的）签证",
-      "etymology": "1831, “official signature or endorsement on a passport,” from French visa,",
-      "examples": [],
-      "frequency": 5595,
-      "mnemonic": "vis-（看见）+ -a（名词后缀）→被官方“看见”或检查过→（护照",
-      "phonetic": "ˈvizə",
-      "pos": "n.",
-      "word": "visa"
-    },
-    {
-      "collocations": [
-        "a private tete-a-tete：两人之间的私下谈话",
-        "tete含义为头，来自古法语teste，头。",
-        "Britain’s role vis-à-vis the United States：英国对美国的作用",
-        "have an unfair advantage vis-à-vis smaller companies elsewhere：与其他\n地方的小公司相比占有不公平的优势"
-      ],
-      "definition": "对于；和……相比",
-      "examples": [],
-      "frequency": 14187,
-      "mnemonic": "vis-（=face：面容）→vis-à-vis：面对面的→对于；和……相比\ntete-a-tete→头对头→两人密谈；促膝谈心",
-      "phonetic": "ˌvizəˈvi",
-      "pos": "prep.",
-      "word": "vis-a-vis"
-    },
-    {
-      "collocations": [
-        "a crowded vista of hills and rooftops：远处密集的山峦和屋顶",
-        "open up whole new vistas：开辟全新的前景"
-      ],
-      "definition": "（尤指从高处看到的）景色；（未来可能发生的）一系列情景，一连串事情",
-      "etymology": "1650s, “a view or prospect,” from Italian vista “sight, view”.",
-      "examples": [],
-      "frequency": 10109,
-      "mnemonic": "vis-（看见）+ ta→看到的东西→景观；远景；展望",
-      "phonetic": "ˈvɪstə",
-      "pos": "n.",
-      "word": "vista"
-    },
-    {
-      "collocations": [
-        "milky-white innocent visage：雪白而天真的脸"
-      ],
-      "definition": "（人的）脸；面容",
-      "examples": [],
-      "frequency": 20060,
-      "mnemonic": "vis-（看；面容）+-age（名词后缀）→脸；面容",
-      "phonetic": "ˈvɪzɪdʒ",
-      "pos": "n.",
-      "word": "visage"
-    },
-    {
-      "collocations": [
-        "a job in television：电视行业的工作",
-        "watch very much television：看很多电视节目",
-        "network television：网络电视",
-        "cable television：有线电视",
-        "Television 的派生词为 TV, televised, televise 等。"
-      ],
-      "definition": "电视；电视节目；电视行业",
-      "examples": [],
-      "frequency": 795,
-      "mnemonic": "tele-（far, far off：遥远的）+ -vision（看；视野）→可以观看遥远的\n地方发生的事情的工具→电视；电视节目",
-      "phonetic": "ˈtɛ.lə.vɪ.ʒən",
-      "pos": "n.",
-      "word": "television"
-    },
-    {
-      "collocations": [
-        "a TV series / show / program：电视系列片 / 剧 / 节目",
-        "satellite / cable / digital TV：卫星 / 有线 / 数字电视",
-        "pay TV：收费电视"
-      ],
-      "definition": "电视（television）",
-      "examples": [],
-      "frequency": 797,
-      "phonetic": "ˌtiˈvi",
-      "pos": "abbr.",
-      "word": "TV"
-    },
-    {
-      "collocations": [
-        "be televised live：由电视直播"
-      ],
-      "definition": "用电视播送（通常用于被动形式）",
-      "examples": [
-        "His comeback fight will be televised on network TV.\n他的复出之战将在网络电视上播出。"
-      ],
-      "frequency": 17271,
-      "mnemonic": "tele-（远）+ -vis-（看见）+ -e +→看到很远的地方→用电视播送",
-      "phonetic": "ˈtɛ.lə.vaɪz",
-      "pos": "vt.",
-      "word": "televise"
-    },
-    {
-      "collocations": [
-        "a televised debate：电视播送的辩论"
-      ],
-      "definition": "在电视上播放（的）",
-      "examples": [],
-      "frequency": 9730,
-      "phonetic": "ˈtɛ.lə.vaɪzd",
-      "pos": "adj.",
-      "word": "televised"
-    },
-    {
-      "collocations": [
-        "a scratched visor：已有划痕的防护头盔",
-        "sun visor：（车辆驾驶室挡风玻璃上的）防晒板"
-      ],
-      "definition": "（头盔上的）面罩；（汽车内挡风玻璃上方的）遮阳板",
-      "examples": [],
-      "frequency": 14427,
-      "mnemonic": "vis-（看，面容）+ -or（名词后缀）→面罩；遮阳板（等于给面部加",
-      "phonetic": "ˈvaɪzɚ",
-      "pos": "n.",
-      "word": "visor"
-    },
-    {
-      "collocations": [
-        "of improvisus “not foreseen, unexpected”. Also partly from French\nimproviser.",
-        "improvise a harness：临时凑成了一套马具",
-        "improvise a prayer：即兴说了一段祷告",
-        "Improvise 的派生词为 improvisation, improvised 等。"
-      ],
-      "definition": "&vi. 临时拼凑；即兴演奏；即席演说",
-      "etymology": "1808, from Italian improvisare “to sing or speak extempore,” from Latin improviso “unforeseen; not studied or prepared beforehand,” ablative",
-      "examples": [],
-      "frequency": 8961,
-      "mnemonic": "im-（=in-=not, opposite of：不；与……相反）+ provise（=foreseen,\nprovided：已预见的；已准备的）→未预见到；未做事先准备→临时",
-      "phonetic": "ˈɪm.pɹə.vaɪz",
-      "pos": "vt.",
-      "word": "improvise"
-    },
-    {
-      "collocations": [
-        "the improvisation of the ebullition：激情迸发的即兴创作",
-        "jazz improvisation：爵士即兴创作"
-      ],
-      "definition": "临时准备；即兴创作",
-      "examples": [],
-      "frequency": 10219,
-      "mnemonic": "improvise（即兴的；临时准备的）+ -ation（名词后缀）→临时准",
-      "phonetic": "ɪmˌpɹɑ.vəˈzeɪ.ʃən",
-      "pos": "n.",
-      "word": "improvisation"
-    },
-    {
-      "collocations": [
-        "improvised news：即兴新闻",
-        "improvised installation：临时设施",
-        "improvised mine：简易地雷"
-      ],
-      "definition": "即兴的；临时准备的",
-      "examples": [],
-      "frequency": 17660,
-      "mnemonic": "improvise（临时拼凑）+ -d（-ed形容词后缀去e）→临时拼凑的→即",
-      "phonetic": "ˈɪm.pɹə.vaɪzd",
-      "pos": "adj.",
-      "word": "improvised"
-    },
-    {
-      "collocations": [
-        "digital audio：数字音频",
-        "audio signal：声频信号",
-        "sports and exercise videos：体育和运动录像带",
-        "watch the race on video：观看了比赛的录像",
-        "digital video：数字视频\nvideo game：视频游戏\n笔 记 区"
-      ],
-      "definition": "录电视节目；给……录像 n. 录像带；录像",
-      "examples": [],
-      "frequency": 1113,
-      "mnemonic": "vid-（=to see：看见）+ eo→录制；录像带（让人观看的动作或事\n+ eo→声音的；录音的",
-      "phonetic": "ˈvɪdioʊ",
-      "pos": "vt.",
-      "word": "video"
-    },
-    {
-      "collocations": [
-        "videotape the entire trip：录下了整个旅程",
-        "the use of videotape in：在……场合使用盒式录像带",
-        "videotape player：放影机"
-      ],
-      "definition": "录像带 vt. 录制",
-      "examples": [],
-      "frequency": 5032,
-      "mnemonic": "video（录制）+ tape（磁带；胶带）→录制的胶带→录像带；录制",
-      "phonetic": "ˈvɪdioʊˌteɪp",
-      "pos": "n.",
-      "word": "videotape"
-    },
-    {
-      "collocations": [],
-      "definition": "电子游戏",
-      "examples": [],
-      "frequency": 19164,
-      "mnemonic": "video（视频）+game（游戏）→视频游戏→电子游戏",
-      "phonetic": "ˈvɪdioʊˌɡeɪm",
-      "pos": "n.",
-      "word": "video-game"
-    },
-    {
-      "collocations": [
-        "clearly evident：明显看出"
-      ],
-      "definition": "清晰易见的；显然的",
-      "examples": [],
-      "frequency": 3496,
-      "mnemonic": "e-（=out, fully：向外，公开，还可以表“完全”）+ -vid-（=vis：\n看）+ -ent（形容词后缀）→完全看得（vid）出来（-ex）的→清晰易",
-      "phonetic": "ˈɛ.və.dənt",
-      "pos": "adj.",
-      "word": "evident"
-    },
-    {
-      "collocations": [
-        "evidently in pain：显然很痛苦"
-      ],
-      "definition": "毫无疑问地；明显地；显然",
-      "examples": [],
-      "frequency": 6436,
-      "phonetic": "ˈɛ.və.dənt.li",
-      "pos": "adv.",
-      "word": "evidently"
-    },
-    {
-      "collocations": [
-        "give evidence at the trial：出庭作证",
-        "be in evidence：显眼；显而易见\nturn King’s / Queen’s evidence：提供同犯的罪证，揭发其他案犯（以\n减轻所受惩罚）"
-      ],
-      "definition": "证明；证据 vt. 证明；表明；作为………的证据",
-      "examples": [],
-      "frequency": 607,
-      "mnemonic": "evid（=evident：明显的；明白的）+ -ence（名词后缀）→让事情变\n得明白的东西→证据\nprove [pru:v]：证明（v.）→proof [pru:f]：证据（n.）",
-      "phonetic": "ˈɛ.və.dəns",
-      "pos": "n.",
-      "word": "evidence"
-    },
-    {
-      "collocations": [
-        "evidence-based strategies：基于证据的战略"
-      ],
-      "definition": "基于证据的",
-      "examples": [],
-      "frequency": 20120,
-      "mnemonic": "evidence（证据）+ base（以……作基础）+ -d（形容词后缀）→以证\n据作基础的→基于证据的\n如：live：生活（v.）→ life：生命（n.） save：救（v）→ safe：安全（n.）\nthieve：偷窃（v.）→ thief：小偷→ theft：偷窃 give：给（v.）→ gift：",
-      "pos": "adj.",
-      "word": "evidence-based",
-      "phonetic": "ˌɛ.və.dəns.ˈbeɪst"
-    },
-    {
-      "collocations": [
-        "invidere的派生词invidia（恶意，怨恨，也是英语invidious的词源），\n进入古法语为envie，进入英语为envy。\n古代西方人相信有一种邪恶的巫术叫做“邪恶之眼”（evil eye）。\n据说巫师施展这种巫术后，可以通过目光来使人无法动弹或受伤或\n遭受厄运。拉丁语invidere指的就是巫师施展“邪恶之眼”，由 in\n（upon）+videre（to see）构成，字面意思就是“看一眼”。当一个\n人嫉妒他人时，就像极了巫师在施展“邪恶之眼”。",
-        "envy him his good looks：羡慕他的英俊",
-        "always envy my success：一直忌妒我的成功",
-        "green with envy：非常嫉妒的\n20000 词汇巅峰\n速\n记",
-        "be the envy of sb. / sth.：成为羡慕（或忌妒）的对象 / 东西\n笔 记 区"
-      ],
-      "definition": "羡慕；嫉妒 n. 羡慕；嫉妒",
-      "etymology": "envy的原始意义是“带着怨恨看着某人”，来源于拉丁语中由拉丁语",
-      "examples": [],
-      "frequency": 8649,
-      "mnemonic": "en-（=upon：在……之上）+ vy（=-vid-=to see：看见）→to look at\n（with malice）：带着恶意看某人→羡慕；嫉妒",
-      "phonetic": "ˈɛn.vi",
-      "pos": "vt.",
-      "word": "envy"
-    },
-    {
-      "collocations": [
-        "prepare, supply, act with foresight：提前看到；行动有预见性→引申词\n义准备；未雨绸缪（事情未发生之前就看到需要做相应预备）→后用\n于指提供；供应；规定",
-        "provide a copy：提供一个副本",
-        "the treaty provides that ...：本项条约规定……"
-      ],
-      "definition": "提供；（法律或协议）规定",
-      "examples": [],
-      "frequency": 263,
-      "mnemonic": "pro-（=ahead：在前面）+ -vid-（=to see：看见）+ e→look ahead,",
-      "phonetic": "pɹəˈvaɪd",
-      "pos": "vt.",
-      "word": "provide"
-    },
-    {
-      "collocations": [
-        "an Internet service provider：因特网服务供应商",
-        "a sole provider for the family：家里唯一养家糊口的人"
-      ],
-      "definition": "供应者；供养家庭的人",
-      "examples": [],
-      "frequency": 3129,
-      "mnemonic": "provide（提供；供应）+ -r（-er名词后缀去e）→供应者；供养家庭",
-      "phonetic": "pɹəˈvaɪ.dɚ",
-      "pos": "n.",
-      "word": "provider"
-    },
-    {
-      "collocations": [
-        "provided （that ...）：如果；假如；在……条件下"
-      ],
-      "definition": "只要；如果……的话",
-      "examples": [
-        "Provided that there is enough money, I would have married her.\n要是当年够有钱，早就抱得美人归。"
-      ],
-      "frequency": 3879,
-      "mnemonic": "provide（规定）+ -d（-ed省略e，构成连词）→即在某规定下的→引",
-      "phonetic": "pɹəˈvaɪ.dɪd",
-      "pos": "conj.",
-      "word": "provided"
-    },
-    {
-      "collocations": [],
-      "definition": "只要；如果……的话（=provided）",
-      "examples": [
-        "You can borrow the car, providing I can have it back by six o’clock.\n你可以借用我的车，只要6点钟以前还给我就行。"
-      ],
-      "frequency": 18359,
-      "mnemonic": "provide（规定）+ -ing（构成连词）→即在某规定下的→引申词义只",
-      "phonetic": "pɹəˈvaɪ.dɪŋ",
-      "pos": "conj.",
-      "word": "providing"
-    },
-    {
-      "collocations": [
-        "housing provision：住房供应",
-        "made provisions for：为……预先采取措施；为……作好准备（尤指经\n济准备）",
-        "under the provisions of the lease：按照契约规定",
-        "provision for people with disabilities：满足残疾人士的需要\n供应；食品供应"
-      ],
-      "definition": "提供；预备；（复数）（尤指为旅行储备的）粮食；（协议或法律中的）规定，条款 vt. （尤指为旅行）给……提供所需品20000 词汇巅峰速记笔 记 区",
-      "examples": [],
-      "frequency": 2634,
-      "mnemonic": "pro-（=ahead：在前的）+ -vis-（=-vid-=to see：看见）+ -ion（名词后\n缀）→提前看见所需要的东西→提供；预备；粮食；规定；给…提供",
-      "phonetic": "pɹəˈvɪʒ.ən",
-      "pos": "n.",
-      "word": "provision"
-    },
-    {
-      "collocations": [
-        "arrangement for the present：临时准备、安排的→临时的；暂定的",
-        "a provisional government：临时政府",
-        "provisional bookings：临时预约",
-        "provisional arrangements：暂时性安排"
-      ],
-      "definition": "临时的；暂定的",
-      "examples": [],
-      "frequency": 11095,
-      "mnemonic": "provision（提供；预备）+ -al（形容词后缀）→as a temporary",
-      "phonetic": "pɹəˈvɪʒ.ə.nəl",
-      "pos": "adj.",
-      "word": "provisional"
-    },
-    {
-      "collocations": [
-        "French porveoir “to provide, prepare, arrange” (Modern French pourvoir),",
-        "from Latin providere “look ahead, prepare, supply, act with foresight”.",
-        "Compare provide, which now usually replaces it. Related: Purveyed;\npurveying.",
-        "purveyors of gourmet foods：美味佳肴的提供者",
-        "purveyors of farmyard fresh poultry：农场鲜禽肉供应商\n释义：（N-COUNT） 供应者；提供者；供应公司 A purveyor of goods or",
-        "services is a person or company that provides them.\n笔 记 区\n供应者"
-      ],
-      "definition": "供应者；供应公司",
-      "etymology": "late 13c., from Anglo-French porveire, purveire and directly from Old",
-      "examples": [],
-      "frequency": 16087,
-      "mnemonic": "pro-（=ahead：在前的）+ -vey（-vid=to see：看见）+ -or（名词后\n缀，表示人）→person who looks ahead & acts with foresight：计划未\n来的人；带着预见行事的人→person who prepares & supplies：准备\n者；供应者→供应者；供应公司",
-      "phonetic": "pɚˈveɪ.ɚ",
-      "pos": "n.",
-      "word": "purveyor"
-    },
-    {
-      "collocations": [
-        "prudent house buyers：谨慎的购房者",
-        "a prudent businessman：精明的商人"
-      ],
-      "definition": "明智谨慎的；精明的",
-      "examples": [],
-      "frequency": 9013,
-      "mnemonic": "来自provident的缩写，缩写为pru（=pro-=head：在前；提前）+ -d\n（=-vid=-vis：看）+ -ent（形容词后缀）→提前看到的，引申义为有\n先见之明的→明智谨慎的；精明的",
-      "phonetic": "ˈpɹu.dənt",
-      "pos": "adj.",
-      "word": "prudent"
-    },
-    {
-      "collocations": [
-        "show remarkable prudence：表现出非同一般的深谋远虑",
-        "financial prudence：财务上的谨慎"
-      ],
-      "definition": "审慎；精明",
-      "examples": [],
-      "frequency": 15519,
-      "mnemonic": "pru-（=ahead：提前）+ -d（=vid：看）+ -ence（名词后缀）→审慎；",
-      "phonetic": "ˈpɹu.dəns",
-      "pos": "n.",
-      "word": "prudence"
-    },
-    {
-      "collocations": [
-        "survey 211 companies：调查了211家公司",
-        "geological survey：地质勘测",
-        "questionnaire survey：问卷调查"
-      ],
-      "definition": "调查；审视；勘测 n. 调查；勘测",
-      "etymology": "来自盎格鲁-法语surveier，古法语sorveoir“看待，注意；监视，观 察”。来自中世纪拉丁语supervidere，来自拉丁语 super（over：在上 盎格鲁-诺曼底语为surveier。",
-      "examples": [],
-      "frequency": 1247,
-      "mnemonic": "面）+videre（to see：看见）→从上面看→调查；审视；勘测。进入\nsur-（上；超过）+ -vey（=-vid-：看见）→字面含义为“在上面看”，\n调查就是为了从一个宏观的视角看待问题→引申词义测量，勘测",
-      "phonetic": "sɚˈveɪ",
-      "pos": "vt.",
-      "word": "survey"
-    },
-    {
-      "collocations": [
-        "surveillance cameras / equipment：监视摄像机 / 设备",
-        "surveillance radar：监视雷达\nkeep ... under constant surveillance：对……实施不间断监视",
-        "surveillance aircraft：侦察机"
-      ],
-      "definition": "监视；看守",
-      "examples": [],
-      "frequency": 4881,
-      "mnemonic": "sur-（=over：在上面）+ veill（=-vis：to see, to watch：看；观察）\n+-ance（名词后缀）→从上面进行看，观察→监视；看守",
-      "phonetic": "sɚˈveɪ.ləns",
-      "pos": "n.",
-      "word": "surveillance"
-    },
-    {
-      "collocations": [
-        "building surveyor：建筑测量师",
-        "the surveyor of public works：市政工程检验官\n另 外 一 个 与 provide 同 样 表 达 供 应， 提 供 含 义 的 单 词 还 有 furnish 的派生词有 furnished, furniture, furnishings, veneer 等。"
-      ],
-      "definition": "（土地的）测量员；勘测员；检察官",
-      "examples": [],
-      "frequency": 14725,
-      "mnemonic": "survey（调查；测绘）+ -or（人）→进行调查、测绘的人→测量员；",
-      "phonetic": "sɚˈveɪ.ɚ",
-      "pos": "n.",
-      "word": "surveyor"
-    },
-    {
-      "collocations": [
-        "furnish their hotels：装潢旅馆",
-        "furnish with：供给，提供；用……装饰",
-        "furnish more information on prehistoric man：提供更多有关史前人类的\n资料"
-      ],
-      "definition": "装潢布置；为（房间或建筑物）配备家具陈设；提供；供应",
-      "examples": [],
-      "frequency": 7465,
-      "mnemonic": "furnish=provide, equip：提供；供应；为（房间或建筑物）配备家具",
-      "phonetic": "ˈfɝ.nɪʃ",
-      "pos": "vt.",
-      "word": "furnish"
-    },
-    {
-      "collocations": [
-        "a furnished room：配有家具的房间",
-        "elegantly furnished rooms：布置讲究的房间",
-        "sparsely furnished house：少有陈设的房间\n笔 记 区"
-      ],
-      "definition": "（房屋、房间出租时）配有家具的；配有……家具的",
-      "examples": [],
-      "frequency": 19196,
-      "mnemonic": "furnish（配备家具陈设）+ -ed（形容词后缀）→房屋配有家具的；配",
-      "phonetic": "ˈfɝ.nɪʃt",
-      "pos": "adj.",
-      "word": "furnished"
-    },
-    {
-      "collocations": [
-        "each piece of furniture：每件家具",
-        "wood furniture：木制家具",
-        "part of the furniture：被认作当然的人（或事物）；习以为常的人（或\n事物）\n家具"
-      ],
-      "definition": "（椅子、桌子、床、橱柜等）家具",
-      "examples": [],
-      "frequency": 2691,
-      "phonetic": "ˈfɝ.nɪ.tʃɚ",
-      "pos": "n.",
-      "word": "furniture"
-    },
-    {
-      "collocations": [
-        "soft furnishings：织物制成的室内陈设",
-        "furnishing fabric：装饰织物；家具布",
-        "site furnishings：场地美化\n释义：（N-PLURAL） 家具陈设；室内陈设 The furnishings of a room or",
-        "house are the furniture, curtains, carpets, and decorations such as pictures.\n家具陈设；室内陈设\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "家具陈设；室内陈设8769",
-      "etymology": "Articles of furniture, c. 1600, plural verbal noun from furnish （v.）. 家具 陈设，furnish的动名词复数形式。",
-      "examples": [],
-      "phonetic": "ˈfɝ.nɪ.ʃɪŋz",
-      "pos": "n.",
-      "word": "furnishings"
-    },
-    {
-      "collocations": [
-        "outward show of some good quality：仅仅在表面上表现出优良的品质→\n（掩饰真实性格或感情的）彬彬有礼 / 世故等的伪装",
-        "veneer of politeness：彬彬有礼的伪装",
-        "veneer of education：对教育背景的伪装\nwalnut / maple / oak etc. veneer：胡桃木 / 槭木 / 橡木等饰面板\n单词 perform 有“执行；行使；演出；表现”等含义。"
-      ],
-      "definition": "（掩饰真实性格或感情的）彬彬有礼/世故等的伪装；饰面薄板",
-      "examples": [],
-      "frequency": 13836,
-      "mnemonic": "来自法语fornir：提供；装饰，词源同furnish→薄片镶饰→引申为mere",
-      "phonetic": "vəˈnɪɹ",
-      "pos": "n.",
-      "word": "veneer"
-    },
-    {
-      "collocations": [
-        "altered (by influence of Old French forme “form”) from Old French\nparfornir “to do, carry out, finish, accomplish,” from par- “completely” (see",
-        "perform a surgery：完成 / 做一个手术",
-        "perform highly refined analyses：做非常精确的分析",
-        "Perform 的派生词为 performance, high-performance, performer, performing,",
-        "outperform 等。"
-      ],
-      "definition": "执行（尤指复杂的任务或行动）；行使（某种功能）；演出，演奏；表现（好/不好）",
-      "etymology": "c. 1300, “carry into effect, fulfill, discharge,” via Anglo-French performer, per-) + fornir “to provide” (see furnish). Church Latin had a compound performo “to form thoroughly, to form.”",
-      "examples": [
-        "Gardiner has pursued relentlessly high standards in performing classical\nmusic.\n加德纳在演奏古典音乐方面始终不懈地追求高标准。"
-      ],
-      "frequency": 955,
-      "mnemonic": "per-（=completely：完全地）+ -form（=to provide, carry out：供应；\n执行）→完全地供应、执行→执行；行使；演出",
-      "phonetic": "pɚ.ˈfɔɹm",
-      "pos": "vt.",
-      "word": "perform"
-    },
-    {
-      "collocations": [
-        "college performance：大学表现",
-        "poor academic performance：糟糕的成绩\n笔 记 区"
-      ],
-      "definition": "表演；业绩，性能；执行，实施",
-      "examples": [],
-      "frequency": 676,
-      "mnemonic": "perform（表演；执行）+ -ance（名词后缀）→表演，业绩",
-      "phonetic": "pɚ.ˈfɔɹ.məns",
-      "pos": "n.",
-      "word": "performance"
-    },
-    {
-      "collocations": [
-        "high-performance cars / computers / tyres etc.：高性能汽车 / 电脑 / 轮胎等",
-        "the thrill of taking an expensive high-performance car to its limits：把一\n辆豪华高性能的汽车开到极限的那种刺激"
-      ],
-      "definition": "高性能的；高速的",
-      "examples": [],
-      "frequency": 14657,
-      "mnemonic": "high（高的）+ performance（性能）→高性能的；高速的",
-      "phonetic": "ˌhaɪ.pɚ.ˈfɔɹ.məns",
-      "pos": "adj.",
-      "word": "high-performance"
-    },
-    {
-      "collocations": [
-        "a brilliant / polished / seasoned performer：卓越的 / 优雅的 / 娴熟的表演者",
-        "circus performers：马戏演员\ngood / top / star / poor etc. performer：（工作或活动中）表现良好 / 出\n色 / 糟糕等的人；畅销 / 滞销产品；经营出色 / 很糟的生意",
-        "an outstanding performer in the British beer market：在英国啤酒市场很\n畅销（Newcastle Brown Ale：纽卡斯尔棕啤）"
-      ],
-      "definition": "表演者，演奏者，演员；表现地……人（或事物）",
-      "examples": [],
-      "frequency": 4001,
-      "mnemonic": "perform（表演）+-er（名词后缀，表人）→表演者",
-      "phonetic": "pɚ.ˈfɔɹ.mɚ",
-      "pos": "n.",
-      "word": "performer"
-    },
-    {
-      "collocations": [
-        "performing art：表演艺术"
-      ],
-      "definition": "表演的；执行的；（动物）受过训练会玩把戏的",
-      "examples": [],
-      "frequency": 8610,
-      "mnemonic": "perform（表演；执行）+ -ing（形容词后缀）→表演的；执行的",
-      "phonetic": "pɚ.ˈfɔɹ.mɪŋ",
-      "pos": "adj.",
-      "word": "performing"
-    },
-    {
-      "collocations": [
-        "outperform other investments：优于其它投资",
-        "another, the first is more successful or efficient than the second.\n20000 词汇巅峰\n速\n记\n笔 记 区\n1、第一个含义为“看（=-vis, -vid）”"
-      ],
-      "definition": "胜过；做得比……好",
-      "examples": [],
-      "frequency": 13097,
-      "mnemonic": "out-（超过）+ perform（履行，表现）→胜过；做得比……好",
-      "phonetic": "ˌaʊt.pɚ.ˈfɔɹm",
-      "pos": "vt.",
-      "word": "outperform"
-    },
-    {
-      "collocations": [
-        "ever witnessed.当今世界正经历着一场目睹过的最大的并购浪潮。",
-        "The world is going through the biggest wave of a rash / surge of digital",
-        "products ever witnessed."
-      ],
-      "definition": "目击者；证人；证据",
-      "examples": [
-        "The world is going through the biggest wave of mergers and acquisitions",
-        "世界正在经历着一场目睹过的最大规模的数字化产品激增浪潮。"
-      ],
-      "frequency": 1985,
-      "mnemonic": "wit-（=-vis=-vid：看）+ -ness（名词或动词后缀）→看见的人；见证\n→目击者；证人；见证（-ness或-ress表人的例子还有：waitress：服",
-      "phonetic": "ˈwɪt.nəs",
-      "pos": "n.",
-      "word": "witness"
-    },
-    {
-      "collocations": [
-        "an eyewitness account of：目击者对……的叙述"
-      ],
-      "definition": "目击者；见证人",
-      "examples": [],
-      "frequency": 8803,
-      "mnemonic": "eye（眼睛）+ witness（见证）→亲自见证的人→目击者；见证人\n2、第二个含义为由“看”引申出来的“智慧，机智（看见→洞察力→智慧）”。",
-      "phonetic": "ˈaɪˌwɪtnəs",
-      "pos": "n.",
-      "word": "eyewitness"
-    },
-    {
-      "collocations": [
-        "experienced; having the power of discerning and judging rightly,” from",
-        "past-participle adjective *wittos of PIE root *weid- “to see” (hence “to",
-        "be wise after the event：事后聪明；马后炮",
-        "a wise decision：明智的决定\nwise up （to sth.）：意识到，觉察（令人不愉快的实情）"
-      ],
-      "definition": "充满智慧的；（行动或决定）明智的",
-      "etymology": "Old English wis “learned, sagacious, cunning; sane; prudent, discreet; know”). Related to the source of Old English witan “to know, wit.”",
-      "examples": [],
-      "frequency": 3262,
-      "mnemonic": "wis（-vis-：看见）+ -e→看见；知道→智慧；才智→充满智慧的；明",
-      "phonetic": "waɪz",
-      "pos": "adj.",
-      "word": "wise"
-    },
-    {
-      "collocations": [
-        "a woman of great wisdom：才女",
-        "words of wisdom：至理名言",
-        "conventional / received wisdom：大多数人的看法；普遍信念\nin his / her / its etc. （infinite） wisdom：（表示不理解他人的无知）\n以其（无限的）智慧\n笔 记 区"
-      ],
-      "definition": "智慧；明智；（社会或文化长期积累的）知识，学问",
-      "examples": [],
-      "frequency": 2978,
-      "mnemonic": "wis（=wise：充满智慧的）+ -dom（抽象名词后缀）→智慧；明智；",
-      "phonetic": "ˈwɪz.dəm",
-      "pos": "n.",
-      "word": "wisdom"
-    },
-    {
-      "collocations": [
-        "choose wisely：明智地选择"
-      ],
-      "definition": "明智地；聪明地",
-      "examples": [],
-      "frequency": 9315,
-      "mnemonic": "wise（明智的）+ -ly（副词后缀）→明智地；聪明地",
-      "phonetic": "ˈwaɪz.li",
-      "pos": "adv.",
-      "word": "wisely"
-    },
-    {
-      "collocations": [
-        "an unwise investment：不明智的投资"
-      ],
-      "definition": "愚蠢的；不明智的；轻率的",
-      "examples": [],
-      "frequency": 15052,
-      "mnemonic": "un-（=not：不）+ wise（明智的）→不明智的；愚蠢的",
-      "phonetic": "ˌʌnˈwaɪz",
-      "pos": "adj.",
-      "word": "unwise"
-    },
-    {
-      "collocations": [
-        "from Proto-Germanic *wit-. From PIE root *weid- “to see,” metaphorically",
-        "use her wits：运用她的机智",
-        "at one’s wit’s end：不知所措；智穷力竭"
-      ],
-      "definition": "风趣；机智；才智",
-      "etymology": "“mental capacity,” Old English wit, witt, more commonly gewit “understanding, intellect, sense; knowledge, consciousness, conscience,” “to know.” Related to Old English witan “to know”.",
-      "examples": [],
-      "frequency": 5836,
-      "phonetic": "wɪt",
-      "pos": "n.",
-      "word": "wit"
-    },
-    {
-      "collocations": [
-        "a witty speaker：幽默的演讲人",
-        "a witty remark：机智的话\npoems witty：诗词使人灵秀（出自培根散文《论读书》）"
-      ],
-      "definition": "言辞诙谐的；机智的",
-      "examples": [],
-      "frequency": 10158,
-      "mnemonic": "wit（=intellect：智力，双写t）+ -y（形容词后缀）→机智的；诙谐的",
-      "phonetic": "ˈwɪ.ti",
-      "pos": "adj.",
-      "word": "witty"
-    },
-    {
-      "collocations": [
-        "the unwitting cause of the argument：无意中引起了这场争执"
-      ],
-      "definition": "不知情的；无意的",
-      "examples": [],
-      "frequency": 19292,
-      "mnemonic": "un-（=not：不）+ witting（=aware：意识到的）→没有意识到的→不",
-      "phonetic": "ʌnˈwɪtɪŋ",
-      "pos": "adj.",
-      "word": "unwitting"
-    },
-    {
-      "collocations": [
-        "break the law unwittingly：并非故意犯法"
-      ],
-      "definition": "糊里糊涂地；茫然；无意地",
-      "examples": [],
-      "frequency": 13190,
-      "phonetic": "ʌnˈwɪtɪŋli",
-      "pos": "adv.",
-      "word": "unwittingly"
-    },
-    {
-      "collocations": [
-        "or otherwise：或其他情况；或相反",
-        "and otherwise：等等"
-      ],
-      "definition": "否则；除此以外；以不同方式；用别的方法",
-      "examples": [],
-      "frequency": 1536,
-      "mnemonic": "other（另外的）+ -wise（way, manner：方式；方面）→in the other\nmanner：以另外的方式，用别的方法→否则；除此以外；在其他方面",
-      "phonetic": "ˈʌð.ɚ.waɪz",
-      "pos": "adv.",
-      "word": "otherwise"
-    },
-    {
-      "collocations": [],
-      "definition": "同样地；照样地",
-      "examples": [
-        "What is fair for homeowners likewise should be fair to businesses.\n对私房业主公平的，同样也该对商家公平。"
-      ],
-      "frequency": 4578,
-      "mnemonic": "like（=similar：相似的）+ -wise（=manner：方式）→in the same\nmanner：以同样的方式→同样地；照样地",
-      "phonetic": "ˈlaɪk.waɪz",
-      "pos": "adv.",
-      "word": "likewise"
-    },
-    {
-      "collocations": [
-        "start moving clockwise：开始按顺时针方向移动",
-        "in a clockwise direction：按顺时针方向",
-        "counter clockwise：逆时针方向"
-      ],
-      "definition": "顺时针方向地 adj. 顺时针的",
-      "examples": [],
-      "frequency": 11831,
-      "mnemonic": "clock（时钟）+ -wise（=way, manner：方向；方式）→顺着时钟前进\n的方向→顺时针的；顺时针方向地",
-      "phonetic": "ˈklɑkˌwaɪz",
-      "pos": "adv.",
-      "word": "clockwise"
-    },
-    {
-      "collocations": [
-        "fold them lengthwise：把它们纵向叠了起来"
-      ],
-      "definition": "纵向地",
-      "examples": [],
-      "frequency": 15103,
-      "mnemonic": "length（长度）+ -wise（=way：方向）→按长度方向地→纵向地",
-      "phonetic": "ˈlɛŋkθ.waɪz",
-      "pos": "adj.",
-      "word": "lengthwise"
-    },
-    {
-      "collocations": [
-        "Guy作“家伙；伙计们”含义时，等于“fellow”。来自17世纪初一\n位名叫盖伊·福克斯（Guy Fawkes）的天主教徒，他是“黑火药阴\n谋”（Gunpowder Plot）的领袖，企图炸死国王，炸毁国会大厦。然\n而，这个阴谋被揭发，国王和大臣幸免于难，盖伊及其同党被以叛\n国罪处死。为了纪念这一历史事件，11月5日这一天也成为了英国的\n一个传统节日“盖伊福克斯之夜”，也称为“篝火之夜”、“烟花\n节”。再到后来，guy一词就作为勇气，胆量的代名词，变成了对男\n人的一般称呼。后其含义为家伙，伙计们。",
-        "a big / nice / tough guy：大个子男人；好小伙子；结实粗野的家伙"
-      ],
-      "definition": "家伙；伙计们；（立竿子或架帐篷用的）拉绳；牵索",
-      "etymology": "Guy作“拉绳；牵索”含义时，等于“small rope, chain, wire”。来自 古法语guie“a guide：向导”，来自法兰克语 witan“show the way： 指示道路”，来自德语weisen“to show, point out：显示；指明”，来 自词根weid-“to see：看见”。",
-      "examples": [],
-      "frequency": 365,
-      "phonetic": "ɡaɪ",
-      "pos": "n.",
-      "word": "guy"
-    },
-    {
-      "collocations": [
-        "a similar Germanic source。来自原始日耳曼语witanan “to look after,",
-        "guard, ascribe to, reproach”，来自词根*weid- “to see.”日耳曼语系中的\nw在罗曼语系中会变为g（u）。guide来源于日耳曼语中的wit-（知\n道，英语wise, wit, witness的词源），wit-派生了witan，进入古法语\n（属于罗曼语系）为guider，并被英语借用。",
-        "let his instinct guide him：让直觉指导他的行动",
-        "guide them through a workout：指导他们完成锻炼\ntour guide：导游人员\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "给……领路；指导……的行动 n. 指南；向导；入门书",
-      "etymology": "Late 14c., “to lead, direct, conduct”。来自古法语guider “to guide, lead, conduct” (14c.), earlier guier。来自法兰克语*witan “show the way” or",
-      "examples": [],
-      "frequency": 1793,
-      "phonetic": "ɡaɪd",
-      "pos": "vt.",
-      "word": "guide"
-    },
-    {
-      "collocations": [
-        "issue clear guidelines on ... ：颁布明确的关于……的指导方针",
-        "draw up guidelines：制订了指导方针",
-        "a useful guideline：很有参考价值"
-      ],
-      "definition": "指导方针；参考",
-      "examples": [],
-      "frequency": 3089,
-      "mnemonic": "guide（指南）+ line（线）→在切割之前在平面上标出的线→指导",
-      "phonetic": "ˈɡaɪd.laɪn",
-      "pos": "n.",
-      "word": "guideline"
-    },
-    {
-      "collocations": [
-        "a guidance counselor：（学生）咨询顾问",
-        "guidance counselor （=sb. who advises students）：（学生）咨询顾问",
-        "under the guidance of：在专业教练的指导下"
-      ],
-      "definition": "指导；咨询；导航",
-      "examples": [],
-      "frequency": 3906,
-      "mnemonic": "guid（=guide：给……领路；指导……的行动）+-ance（名词后缀）\n→指导；导航；咨询",
-      "phonetic": "ˈɡaɪ.dəns",
-      "pos": "n.",
-      "word": "guidance"
-    },
-    {
-      "collocations": [
-        "a guiding force：有影响的力量",
-        "guiding system：导向系统",
-        "need a guiding hand：需要有人指导",
-        "guiding principle：指导原则"
-      ],
-      "definition": "给予指导的；有影响的",
-      "examples": [],
-      "frequency": 6497,
-      "mnemonic": "guid（=guide：指导）+ -ing（形容词后缀）→给予指导的；有影响的",
-      "phonetic": "ˈɡaɪ.dɪŋ",
-      "pos": "adj.",
-      "word": "guiding"
-    },
-    {
-      "collocations": [
-        "a guided tour / walk：有导游的观光 / 步行观光",
-        "guided missile：导弹"
-      ],
-      "definition": "有指导的；有向导的",
-      "examples": [],
-      "frequency": 8717,
-      "mnemonic": "guide（指导；向导）+-d（形容词后缀）→有指导的；有向导的",
-      "phonetic": "ˈɡaɪ.dɪd",
-      "pos": "adj.",
-      "word": "guided"
-    },
-    {
-      "collocations": [
-        "misguided policies：错误的政策"
-      ],
-      "definition": "（观点或计划）以错误观念为指导的；（人）误入歧途的",
-      "examples": [],
-      "frequency": 9797,
-      "mnemonic": "mis-（=badly, wrongly：错误地）+ guided（directed：指导的）→给\n予错误指导的；在行动或想法上把……引入歧途的→（观点或计划）",
-      "phonetic": "ˌmɪsˈɡaɪdɪd",
-      "pos": "adj.",
-      "word": "misguided"
-    },
-    {
-      "collocations": [
-        "conference guidebook：会议指南"
-      ],
-      "definition": "旅行指南",
-      "examples": [],
-      "frequency": 12140,
-      "mnemonic": "guide（指导）+ book（手册）→指导手册→旅行指南",
-      "phonetic": "ˈɡaɪd.bʊk",
-      "pos": "n.",
-      "word": "guidebook"
-    },
-    {
-      "collocations": [
-        "fashion, way”. Sense of “assumed appearance” is from 1660s, from earlier\nmeaning “mask, disguise” (c. 1500). 来自词根-weid，看，词源同\nvision，wise。古义装束，外表，后词义贬义化为伪装。",
-        "under the guise of：假借；以……为幌子",
-        "in the guise of：假借；以……为幌子",
-        "in the guise of a white rabbit：以白兔为装扮"
-      ],
-      "definition": "外貌；伪装",
-      "etymology": "Late 13c., “style or fashion of attire,” from Old French guise “manner,",
-      "examples": [],
-      "frequency": 10869,
-      "phonetic": "ɡaɪz",
-      "pos": "n.",
-      "word": "guise"
-    },
-    {
-      "collocations": [
-        "a blessing in disguise：塞翁失马",
-        "disguise herself as a man：女扮男装",
-        "in the disguise of：伪装；假扮成"
-      ],
-      "definition": "乔装；掩饰 n. 伪装",
-      "examples": [],
-      "frequency": 7490,
-      "mnemonic": "dis-（=away, off：离开；远离）+ guise（=style, appearance：风格；\n装束）→通过改变原来的装束或外表来改变身份→后词义贬义化，含",
-      "phonetic": "dɪsˈɡaɪz",
-      "pos": "vt.",
-      "word": "disguise"
-    },
-    {
-      "collocations": [
-        "a thinly disguised effort：一种几乎不加掩饰的努力"
-      ],
-      "definition": "假装的；掩饰的",
-      "examples": [],
-      "frequency": 19116,
-      "mnemonic": "disguise（乔装；掩饰）+ -d（形容词后缀）→假装的；掩饰的",
-      "phonetic": "dɪsˈɡaɪzd",
-      "pos": "adj.",
-      "word": "disguised"
-    },
-    {
-      "collocations": [
-        "shining的颜色， 所以是可见的visible, 来自词根weid：to see：看见）\n→羽毛可见为白色的动物→企鹅",
-        "king penguin：帝企鹅",
-        "Emperor Penguin：帝企鹅\n单词 idea 含义为“主意，想法”等。"
-      ],
-      "definition": "企鹅",
-      "etymology": "Obsolete English penguin great auk, perhaps from Welsh pen gwyn white head （applied to the bird in winter plumage）。来自威尔士语 pengwyn，Pen（=head：头）+ gwyn（=white：白色的。White即闪亮 20000 词汇巅峰 速 记 笔 记 区",
-      "examples": [],
-      "frequency": 11958,
-      "phonetic": "ˈpɛŋ.ɡwɪn",
-      "pos": "n.",
-      "word": "penguin"
-    },
-    {
-      "collocations": [
-        "image or picture”，即思想、精神中看到的图片或画面。",
-        "get the idea：明白意图",
-        "give sb. ideas / put ideas into sb.’s head：使某人抱有空想（或做不切实",
-        "have no idea / not have the faintest / first etc. idea：丝毫不知道",
-        "have the right idea：找到好的（或成功的）方式 / 找对路"
-      ],
-      "definition": "主意；想法；目的；意图",
-      "etymology": "来自希腊语idea “form; the look of a thing; a kind, sort, nature; mode, fashion,” in logic, “a class, kind, sort, species,” from idein “to see,” from PIE *wid-es-ya-, suffixed form of root *weid- “to see.” Idea指“mental",
-      "examples": [],
-      "frequency": 312,
-      "phonetic": "aɪˈdi.ə",
-      "pos": "n.",
-      "word": "idea"
-    },
-    {
-      "collocations": [
-        "the ideal candidate：最合适的人选",
-        "the search for ideal love：对理想中的爱的寻求",
-        "live up to his high ideals：达到他的高标准要求\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "完美的；想象的 n. 理想；看似完美的思想（或标准）；完美的人（或事物）",
-      "examples": [],
-      "frequency": 2839,
-      "mnemonic": "ide（=idea：想象；理想）+ -al（名词后缀）→想象的；完美的",
-      "phonetic": "aɪˈdi.əl",
-      "pos": "adj.",
-      "word": "ideal"
-    },
-    {
-      "collocations": [
-        "an ideally suited couple：天造地设的一对"
-      ],
-      "definition": "作为理想的做法；完美地",
-      "examples": [],
-      "frequency": 8005,
-      "mnemonic": "ideal（完美的；理想的）+ -ly（副词后缀）→作为理想的做法；完美",
-      "phonetic": "aɪˈdi.ə.li",
-      "pos": "adv.",
-      "word": "ideally"
-    },
-    {
-      "collocations": [
-        "full of youthful idealism：满脑子都是年轻人的理想主义"
-      ],
-      "definition": "理想主义",
-      "examples": [],
-      "frequency": 11309,
-      "mnemonic": "ideal（理想）+ -ism（主义）→理想主义",
-      "phonetic": "aɪˈdi.ə.lɪ.zəm",
-      "pos": "n.",
-      "word": "idealism"
-    },
-    {
-      "collocations": [
-        "hopeless idealist：没有希望的理想主义者"
-      ],
-      "definition": "理想主义者",
-      "examples": [],
-      "frequency": 18811,
-      "mnemonic": "ideal（理想）+ -ist（名词后缀，表示……主义者）→理想主义者",
-      "phonetic": "aɪˈdi.ə.lɪst",
-      "pos": "n.",
-      "word": "idealist"
-    },
-    {
-      "collocations": [
-        "idealistic young people：理想主义的年轻人"
-      ],
-      "definition": "理想主义的；空想的",
-      "examples": [],
-      "frequency": 12185,
-      "mnemonic": "idealist（理想主义者）+ -ic（形容词后缀）→理想主义的；空想的",
-      "phonetic": "ˌaɪ.di.əˈlɪs.tɪk",
-      "pos": "adj.",
-      "word": "idealistic"
-    },
-    {
-      "collocations": [
-        "idealize the past：把过去理想化"
-      ],
-      "definition": "把……理想化",
-      "examples": [],
-      "frequency": 18155,
-      "mnemonic": "ideal（理想）+ -ize（动词后缀）→把……理想化",
-      "phonetic": "aɪˈdi.ə.laɪz",
-      "pos": "vt.",
-      "word": "idealize"
-    },
-    {
-      "collocations": [
-        "escape into the idealized world：逃入理想世界"
-      ],
-      "definition": "理想化的",
-      "examples": [],
-      "frequency": 14819,
-      "phonetic": "aɪˈdi.ə.laɪzd",
-      "pos": "adj.",
-      "word": "idealized"
-    },
-    {
-      "collocations": [
-        "French idole “idol, graven image, pagan god” (11c.). From Latin idolum\n20000 词汇巅峰\n速\n记\n笔 记 区",
-        "and Greek eidolon. 在犹太教、基督教等一神教问世之前，大部分宗\n教都是多神教，每个神都掌管不同职责，有不同形象。古人敬拜这\n些根据神灵的形象制作出画像或雕像，这种画像或雕像就是idol。来\n自古法语idole, 拉丁语名词idolum和希腊语名词eidolon，本意是“形\n象”，因此idol一词就常常用来表示广受民众欢迎的名人、明星等。",
-        "catch sight of their idol：看见他们的偶像",
-        "pop idol：流行偶像"
-      ],
-      "definition": "偶像；神像",
-      "etymology": "Mid-13c., “image of a deity as an object of (pagan) worship,” from Old",
-      "examples": [],
-      "frequency": 9599,
-      "phonetic": "ˈaɪ.dəl",
-      "pos": "n.",
-      "word": "idol"
-    },
-    {
-      "collocations": [
-        "idolize their kids：溺爱自己的孩子",
-        "a pop star idolized by millions of fans：受数百万歌迷崇拜的流行音乐\n明星"
-      ],
-      "definition": "崇拜；热爱",
-      "examples": [],
-      "frequency": 19262,
-      "mnemonic": "idol（偶像；神像）+-ize（使）→即当成偶像崇拜→崇拜；热爱",
-      "phonetic": "ˈaɪ.də.laɪz",
-      "pos": "vt.",
-      "word": "idolize"
-    },
-    {
-      "collocations": [
-        "an idyllic setting for a summer romance：一个适合夏季恋曲的闲适环境"
-      ],
-      "definition": "平和美丽的；闲适恬静的",
-      "examples": [],
-      "frequency": 14283,
-      "mnemonic": "idyll（愉快恬静的地方）+ -ic（形容词后缀）→引申词义平和美丽",
-      "phonetic": "aɪˈdɪ.lɪk",
-      "pos": "adj.",
-      "word": "idyllic"
-    },
-    {
-      "collocations": [
-        "French estorie, estoire “story, chronicle, history,” from Late Latin storia,",
-        "shortened from Latin historia “history, account, tale, story”.",
-        "love story：爱情故事",
-        "short story：短篇小说"
-      ],
-      "definition": "（虚构的）故事；（尤指口头的）叙述；新闻报道",
-      "etymology": "“connected account or narration of some happening,” c. 1200, originally “narrative of important events or celebrated persons of the past,” from Old",
-      "examples": [],
-      "frequency": 234,
-      "phonetic": "ˈstɔɹi",
-      "pos": "n.",
-      "word": "story"
-    },
-    {
-      "collocations": [
-        "a picture in a storybook：故事书中的插图",
-        "storybook characters：童话中的人物",
-        "storybook adventures：故事书里那种神奇的历险\n笔 记 区"
-      ],
-      "definition": "儿童故事书；童话书",
-      "examples": [],
-      "frequency": 16916,
-      "mnemonic": "story（故事）+ book（书）→儿童故事书；童话书",
-      "phonetic": "ˈstɔɹibʊk",
-      "pos": "n.",
-      "word": "storybook"
-    },
-    {
-      "collocations": [
-        "the Celtic storytellers：凯尔特说书人"
-      ],
-      "definition": "说故事的人；小说作家",
-      "examples": [],
-      "frequency": 9966,
-      "mnemonic": "story（故事）+ teller（讲故事的人；叙述者）→说故事的人；小说作",
-      "phonetic": "ˈstɔɹiˌtɛlɚ",
-      "pos": "n.",
-      "word": "storyteller"
-    },
-    {
-      "collocations": [
-        "there is no telling：难以预料；很难说"
-      ],
-      "definition": "讲故事；写小说",
-      "examples": [],
-      "frequency": 9108,
-      "mnemonic": "story（故事）+ telling（讲述）→讲故事；写小说",
-      "phonetic": "ˈstɔɹiˌtɛlɪŋ",
-      "pos": "n.",
-      "word": "storytelling"
-    },
-    {
-      "collocations": [
-        "chronicle, history”, from Latin historia “narrative of past events, account,",
-        "tale, story,” from histōr “wise man, judge,” from PIE *wid-tor-, from root\n*weid- “to see.” 来自拉丁语historia，叙述，讲述过去发生的事。其原\n义更偏重于讲故事，含有个人的主观色彩，后来从14世纪开始才逐渐\n确立为对过去发生事件的真实记录，而于1842年才确立为一门学科，\n即我们现在所理解的历史学。",
-        "go down in history：载入史册",
-        "make history：创造历史"
-      ],
-      "definition": "历史；历史学；历史事件纪录",
-      "examples": [],
-      "frequency": 351,
-      "mnemonic": "Late 14c., “relation of incidents”, from Old French estoire, estorie “story;",
-      "phonetic": "ˈhɪ.stə.ɹi",
-      "pos": "n.",
-      "word": "history"
-    },
-    {
-      "collocations": [
-        "a historic building / monument：有历史意义的建筑 / 纪念碑",
-        "a historic occasion / decision / day / visit / victory：历史性的时刻 / 决定\n/ 日子 / 访问 / 胜利\n笔 记 区\n20000 词汇巅峰\n速\n记",
-        "historic site：古迹"
-      ],
-      "definition": "有重大历史意义的",
-      "examples": [],
-      "frequency": 2516,
-      "mnemonic": "histor（=history：历史）+ -ic（形容词后缀）→有重大历史意义的；",
-      "phonetic": "hɪˈstɔɹ.ɪk",
-      "pos": "adj.",
-      "word": "historic"
-    },
-    {
-      "collocations": [
-        "an important historical figure：一位重要的历史人物",
-        "historical records：史学记录",
-        "a historical novel：历史小说"
-      ],
-      "definition": "历史的；历史学的；历史题材的",
-      "examples": [],
-      "frequency": 1480,
-      "mnemonic": "histor（=history：历史）+ -ical（形容词后缀）→历史的；历史学",
-      "phonetic": "hɪˈstɔɹ.ɪ.kəl",
-      "pos": "adj.",
-      "word": "historical"
-    },
-    {
-      "collocations": [
-        "view historically：从历史上考虑",
-        "consider historically：从历史观点上说"
-      ],
-      "definition": "历史上地；从历史观点上说",
-      "examples": [],
-      "frequency": 3854,
-      "mnemonic": "historical（历史的）+ -ly（副词后缀）→历史上地",
-      "phonetic": "hɪˈstɔɹ.ɪ.kə.li",
-      "pos": "adv.",
-      "word": "historically"
-    },
-    {
-      "collocations": [
-        "the famous prehistoric cave paintings：著名的史前山洞壁画"
-      ],
-      "definition": "史前的；有文字记载以前的",
-      "examples": [],
-      "frequency": 10556,
-      "mnemonic": "pre-（=before：在前的）+ historic（有史时期的）→在有史时期之前\n的→史前的；有文字记载以前的",
-      "phonetic": "ˌpɹi.hɪˈstɔɹ.ɪk",
-      "pos": "adj.",
-      "word": "prehistoric"
-    },
-    {
-      "collocations": [
-        "writing history：编史；历史编纂学",
-        "Western historiography：西方历史学"
-      ],
-      "definition": "编史；历史编纂学",
-      "examples": [],
-      "frequency": 17984,
-      "mnemonic": "historio-（=historico-：历史）+ -graphy（写；记录）→the art of",
-      "phonetic": "ˌhɪ.stɔɹ.iˈɑ.ɡɹə.fi",
-      "pos": "n.",
-      "word": "historiography"
-    }
-  ]
+    "chapter": "3",
+    "chapterOrder": 103,
+    "id": "3",
+    "meaningEn": "to see",
+    "meaningZh": "看。",
+    "roots": [],
+    "semanticLabel": "看。",
+    "source": "textbook-5",
+    "titleZh": "看。",
+    "words": [
+        {
+            "collocations": [
+                "visit; inspect, examine”，出访，视察，检查，并直接来自拉丁语\nvisitare“to go to see, come to inspect”，表示去看，检查，监督。来\n自Visere 的反复动词，含义为“behold, visit”，表示注视，访问，\n参观某人或某地。来自videre 的过去分词词根，表示“to see, notice,\nobserve”，含义为“看；注意；观察”。来自词根 to see，表示看。\nn. 1620s，“friendly or formal call upon someone，”指对某人友好正\n式的拜访。来自法语visite （n.）.",
+                "pay sb. a visit：拜访某人",
+                "regular home visits：定期上门服务\nstate visit：国事访问\n单词 visit 的派生词为 visiting, visitor, revisit, visitation 等。"
+            ],
+            "definition": "&vi. 拜访；访问；浏览 vt. 上门服务（咨询） n. 拜访；访问；上门服务（咨询）",
+            "etymology": "v. 13世纪的含义为“come to （a person） to comfort or benefit，”为 了安慰或对其有益处而来到某人身边。13世纪，来自法语visiter“to",
+            "examples": [],
+            "frequency": 908,
+            "mnemonic": "vis-（看见）+ -it（名词后缀）→拜访；访问",
+            "phonetic": "ˈvɪzɪt",
+            "pos": "vt.",
+            "word": "visit"
+        },
+        {
+            "collocations": [
+                "visiting scholar：访问学者"
+            ],
+            "definition": "（指教授或讲师）客座的；访问的",
+            "examples": [],
+            "frequency": 5699,
+            "phonetic": "ˈvɪzɪtɪŋ",
+            "pos": "adj.",
+            "word": "visiting"
+        },
+        {
+            "collocations": [
+                "get visitors coming this weekend：本周末有客人来访"
+            ],
+            "definition": "访问者；参观者",
+            "examples": [],
+            "frequency": 1710,
+            "phonetic": "ˈvɪzɪtɚ",
+            "pos": "n.",
+            "word": "visitor"
+        },
+        {
+            "collocations": [
+                "revisit this lake at dawn：在黎明时分重游了这个湖",
+                "revisit the issue at their next meeting：在他们下次会议上重新讨论这个\n问题\n笔 记 区"
+            ],
+            "definition": "重游；重新讨论",
+            "examples": [],
+            "frequency": 8087,
+            "phonetic": "ˌriː.ˈvɪ.zɪt",
+            "pos": "vt.",
+            "word": "revisit"
+        },
+        {
+            "collocations": [
+                "house-to-house visitation：挨家挨户的访问",
+                "seek more liberal visitation：寻求更自由的探视权"
+            ],
+            "definition": "（正式的）访问；（尤指权威人士的）视察，巡视；（上帝等神灵的）显现；（离婚父母对子女的）探视权",
+            "examples": [],
+            "frequency": 10668,
+            "phonetic": "ˌvɪzəˈteɪʃən",
+            "pos": "n.",
+            "word": "visitation"
+        },
+        {
+            "collocations": [
+                "visual defects：视觉缺陷",
+                "visual depiction：视觉描绘",
+                "Visual 的派生词为 visually, visualize, visualization 等。"
+            ],
+            "definition": "视觉的 n. 视觉资料（指说明性的图片、影片等）",
+            "examples": [],
+            "frequency": 2175,
+            "mnemonic": "vis-（看）+ u（连接符号）+ -al（形容词后缀）→视野的；视觉的",
+            "phonetic": "ˈvɪʒuəl",
+            "pos": "adj.",
+            "word": "visual"
+        },
+        {
+            "collocations": [
+                "visually handicapped boys and girls：有视力障碍的男孩女孩"
+            ],
+            "definition": "视觉地",
+            "examples": [],
+            "frequency": 6414,
+            "phonetic": "ˈvɪʒuəliː",
+            "pos": "adv.",
+            "word": "visually"
+        },
+        {
+            "collocations": [],
+            "definition": "使形象化；想象；构思",
+            "examples": [
+                "We must visualize issues from every perspective to make the objective\ndecisions.\n我们必须从个每一个角度去想象问题，以做出客观的决定。"
+            ],
+            "frequency": 8918,
+            "mnemonic": "visual（视觉的）+ -ize（使动词）→使形象化；想象；构思",
+            "phonetic": "ˈvɪʒuəlaɪz",
+            "pos": "vt.",
+            "word": "visualize"
+        },
+        {
+            "collocations": [
+                "information visualization：信息可视化"
+            ],
+            "definition": "形象化；可视化",
+            "examples": [],
+            "frequency": 14411,
+            "phonetic": "ˌvɪʒuələˈzeɪʃən",
+            "pos": "n.",
+            "word": "visualization"
+        },
+        {
+            "collocations": [
+                "to achieve a desired vision：去实现一个渴望的愿景",
+                "cultivate a global vision：培养一种全球视野\n单词 vision 的派生词有 visionary, envision 等。"
+            ],
+            "definition": "视力；视野；想象；远见卓识；画面",
+            "examples": [],
+            "frequency": 1219,
+            "mnemonic": "vis-（看）+ -ion（名词后缀）→视力；视野；想象；远见卓识；画面",
+            "phonetic": "ˈvɪʒən",
+            "pos": "n.",
+            "word": "vision"
+        },
+        {
+            "collocations": [
+                "a visionary leader：有远见卓识的领袖",
+                "the visionary architecture；富有创见的建筑"
+            ],
+            "definition": "有远见卓识的；（尤指）宗教异象的 n. 有眼力的人；有远见卓识的人",
+            "examples": [],
+            "frequency": 9207,
+            "phonetic": "ˈvɪʒənɛriː",
+            "pos": "adj.",
+            "word": "visionary"
+        },
+        {
+            "collocations": [
+                "envision an equal society：向往一个平等的社会"
+            ],
+            "definition": "想象；设想；展望",
+            "examples": [],
+            "frequency": 4532,
+            "mnemonic": "en-（make, put in：使；放入）+ vision（想象）→在头脑中放入想\n象，使设想→想象；设想；展望",
+            "phonetic": "ɪn.ˈvɪ.ʒən",
+            "pos": "vt.",
+            "word": "envision"
+        },
+        {
+            "collocations": [
+                "envisage the possibility of：设想……的可能性"
+            ],
+            "definition": "想象；设想",
+            "examples": [],
+            "frequency": 17209,
+            "mnemonic": "en-（=in）+ -vis（=face：脸）+ -age（名词后缀）→look in the face\nof：端详着某人的脸→理解；沉思→引申义为想象，设想",
+            "phonetic": "ɪn.ˈvɪ.zɪdʒ",
+            "pos": "vt.",
+            "word": "envisage"
+        },
+        {
+            "collocations": [
+                "clearly visible：清晰可见",
+                "visible sign：明显的迹象",
+                "visible light：可见光\n单词 visible 的派生词为 visibility, visibly, invisible, invisibility 等。\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "可见的；明显的",
+            "examples": [],
+            "frequency": 2323,
+            "mnemonic": "vis-（看见）+ -ible（形容词后缀，能够……的）→看得见的→可见",
+            "phonetic": "ˈvɪzəbəl",
+            "pos": "adj.",
+            "word": "visible"
+        },
+        {
+            "collocations": [
+                "be visibly wavering：显然犹疑不决",
+                "be visibly shocked：看得出……大为震惊的\n笔 记 区"
+            ],
+            "definition": "易察觉地；明显地",
+            "examples": [],
+            "frequency": 10022,
+            "phonetic": "ˈvɪzəbliː",
+            "pos": "adv.",
+            "word": "visibly"
+        },
+        {
+            "collocations": [
+                "gain global visibility：受到了全球的关注"
+            ],
+            "definition": "能见度；关注程度",
+            "examples": [],
+            "frequency": 7400,
+            "phonetic": "ˌvɪzəˈbɪlətiː",
+            "pos": "n.",
+            "word": "visibility"
+        },
+        {
+            "collocations": [
+                "invisible earnings：无形收益"
+            ],
+            "definition": "看不见的；隐形的；无形的",
+            "examples": [],
+            "frequency": 3847,
+            "mnemonic": "in-（表否定）+ visible（看得见的）→看不见的；隐形的",
+            "phonetic": "ɪnˈvɪz.ə.bəl",
+            "pos": "adj.",
+            "word": "invisible"
+        },
+        {
+            "collocations": [
+                "fade to invisibility：退色看不见了"
+            ],
+            "definition": "隐形；看不见",
+            "examples": [],
+            "frequency": 17899,
+            "phonetic": "ɪn.vɪz.əˈbɪl.ə.ti",
+            "pos": "n.",
+            "word": "invisibility"
+        },
+        {
+            "collocations": [
+                "revise his opinion of the profession：修正自己对这一职业的看法",
+                "revise prices：调整价格",
+                "revise for exams：考前复习\n单词 revise 的派生词为 revised, revision, revisionist 等。"
+            ],
+            "definition": "修正；调整；修改；复习",
+            "examples": [],
+            "frequency": 5909,
+            "mnemonic": "re-（=again：再）+ -vis-（=to see：看见）+ -e（动词后缀）→再看一\n遍→修正；调整；复习",
+            "phonetic": "rɪ.ˈvaɪz",
+            "pos": "vt.",
+            "word": "revise"
+        },
+        {
+            "collocations": [
+                "revised edition：修订版"
+            ],
+            "definition": "改进的；修正的",
+            "examples": [],
+            "frequency": 8106,
+            "phonetic": "rɪ.ˈvaɪzd",
+            "pos": "adj.",
+            "word": "revised"
+        },
+        {
+            "collocations": [
+                "a system in need of revision：需要更新的系统",
+                "a revision of trading standards：贸易标准的修改"
+            ],
+            "definition": "修改；修正；复习",
+            "examples": [],
+            "frequency": 6080,
+            "mnemonic": "re-（反复）+ -vis-（看）+ -ion（名词后缀）→反复看→修改；修",
+            "phonetic": "rɪ.ˈvɪ.ʒən",
+            "pos": "n.",
+            "word": "revision"
+        },
+        {
+            "collocations": [
+                "the revisionist interpretation：修正性解释",
+                "historical revisionists：历史修正主义者",
+                "this revisionist thesis：这篇修正主义的论文",
+                "hardliners and revisionists：强硬派和修正主义者"
+            ],
+            "definition": "（对历史事件）持修正主义论的；（社会主义者的行动或观点）修正主义的 n. 修正主义者",
+            "examples": [],
+            "frequency": 14268,
+            "mnemonic": "revision（修正）+ -ist（名词 / 形容词后缀，表示……主义的）→修",
+            "phonetic": "rɪ.ˈvɪ.ʒə.nɪst",
+            "pos": "adj.",
+            "word": "revisionist"
+        },
+        {
+            "collocations": [
+                "advice on road safety：有关道路安全的建议",
+                "follow your doctor’s advice：要遵从医嘱"
+            ],
+            "definition": "劝告；忠告；建议",
+            "examples": [],
+            "frequency": 1650,
+            "mnemonic": "ad-（=to：去）+ -vic-（=see：看）（s←→c 互换）+ -e→去看一看，\n然后给出看法，意见，判断→劝告；忠告；建议",
+            "phonetic": "æd.ˈvaɪs",
+            "pos": "n.",
+            "word": "advice"
+        },
+        {
+            "collocations": [
+                "strongly advise：极力奉劝",
+                "Advise 的派生词为 adviser, advisor, advisory, advisable 等。"
+            ],
+            "definition": "建议；（就某话题向某人）提供咨询；正式告知",
+            "examples": [],
+            "frequency": 2575,
+            "mnemonic": "ad-（去）+ -vis-（看）+ -e（动词后缀）→去看→提出建议、咨询；",
+            "phonetic": "æd.ˈvaɪz",
+            "pos": "vt.",
+            "word": "advise"
+        },
+        {
+            "collocations": [
+                "a financial adviser：财务顾问",
+                "a special adviser：特别顾问",
+                "adviser to sb. on sth.：为某人在某事上提供意见"
+            ],
+            "definition": "顾问；提供意见者（advisor与adviser含义相同）",
+            "examples": [],
+            "frequency": 2745,
+            "phonetic": "æd.ˈvaɪ.zɚ",
+            "pos": "n.",
+            "word": "adviser"
+        },
+        {
+            "collocations": [
+                "an advisory committee / body / service：顾问委员会；咨询机构",
+                "a tornado advisory：龙卷风警报\n笔 记 区"
+            ],
+            "definition": "顾问的；咨询的 n. 警报",
+            "examples": [],
+            "frequency": 5172,
+            "phonetic": "æd.ˈvaɪ.zɚ.i",
+            "pos": "adj.",
+            "word": "advisory"
+        },
+        {
+            "collocations": [
+                "It is advisable to do sth.：做……是可取的"
+            ],
+            "definition": "明智的；可取的",
+            "examples": [],
+            "frequency": 19492,
+            "phonetic": "æd.ˈvaɪ.zə.bəl",
+            "pos": "adj.",
+            "word": "advisable"
+        },
+        {
+            "collocations": [
+                "to supervise building work：监理建筑工程",
+                "Supervise 的派生词为 supervisor, supervisory, supervision 等。"
+            ],
+            "definition": "监督；管理；指导",
+            "examples": [],
+            "frequency": 5677,
+            "mnemonic": "super-（=over：上面）+ -vis-（看）+ e→在上面（头上）看→监督；",
+            "phonetic": "ˈsu.pɚ.vaɪz",
+            "pos": "vt.",
+            "word": "supervise"
+        },
+        {
+            "collocations": [
+                "a full-time job as a supervisor：担任监督员的一项全职工作"
+            ],
+            "definition": "监督人；指导者；主管人",
+            "examples": [],
+            "frequency": 3623,
+            "phonetic": "ˈsu.pɚˌvaɪ.zɚ",
+            "pos": "n.",
+            "word": "supervisor"
+        },
+        {
+            "collocations": [
+                "supervisory boards：监事会",
+                "staff with a minor supervisory role：担任少量监督工作的职员"
+            ],
+            "definition": "监督的；管理的",
+            "examples": [],
+            "frequency": 14591,
+            "phonetic": "ˌsu.pɚˈvaɪ.zɚ.i",
+            "pos": "adj.",
+            "word": "supervisory"
+        },
+        {
+            "collocations": [
+                "under the supervision of：在……监督/管理下",
+                "tutorial supervision：教员监管",
+                "In dealing with the issue and other things alike, in fact, not sufficient value",
+                "is placed upon publicity / guidance and education / supervision, although",
+                "we may have come to realize the significance of （v+ing） sth.",
+                "In dealing with the issue and other things alike, in fact, not sufficient value",
+                "is placed upon education and supervision，although we may have come to\n20000 词汇巅峰\n速\n记\n笔 记 区",
+                "realize the significance of cracking down on pirated products."
+            ],
+            "definition": "监督，管理",
+            "examples": [
+                "在处理这个问题和其他类似问题的时候，实际上，并没有足够\n重视宣传 / 引导和教育 / 监管，尽管我们已经开始意识到……的重要\n性。"
+            ],
+            "frequency": 5688,
+            "phonetic": "ˌsu.pɚˈvɪ.ʒən",
+            "pos": "n.",
+            "word": "supervision"
+        },
+        {
+            "collocations": [
+                "from Modern Latin charta visa “verified paper,” literally “paper that has\nbeen seen”. 19世纪初来自法语visa，源自现代拉丁短语charta visa，含\n义为“paper that has been seen”，“verified paper”，即公文已验。",
+                "an exit visa：一张出境签证",
+                "student visa：学生签证"
+            ],
+            "definition": "（护照上的）签证",
+            "etymology": "1831, “official signature or endorsement on a passport,” from French visa,",
+            "examples": [],
+            "frequency": 5595,
+            "mnemonic": "vis-（看见）+ -a（名词后缀）→被官方“看见”或检查过→（护照",
+            "phonetic": "ˈviːzə",
+            "pos": "n.",
+            "word": "visa"
+        },
+        {
+            "collocations": [
+                "a private tete-a-tete：两人之间的私下谈话",
+                "tete含义为头，来自古法语teste，头。",
+                "Britain’s role vis-à-vis the United States：英国对美国的作用",
+                "have an unfair advantage vis-à-vis smaller companies elsewhere：与其他\n地方的小公司相比占有不公平的优势"
+            ],
+            "definition": "对于；和……相比",
+            "examples": [],
+            "frequency": 14187,
+            "mnemonic": "vis-（=face：面容）→vis-à-vis：面对面的→对于；和……相比\ntete-a-tete→头对头→两人密谈；促膝谈心",
+            "phonetic": "ˌviːzəˈviː",
+            "pos": "prep.",
+            "word": "vis-a-vis"
+        },
+        {
+            "collocations": [
+                "a crowded vista of hills and rooftops：远处密集的山峦和屋顶",
+                "open up whole new vistas：开辟全新的前景"
+            ],
+            "definition": "（尤指从高处看到的）景色；（未来可能发生的）一系列情景，一连串事情",
+            "etymology": "1650s, “a view or prospect,” from Italian vista “sight, view”.",
+            "examples": [],
+            "frequency": 10109,
+            "mnemonic": "vis-（看见）+ ta→看到的东西→景观；远景；展望",
+            "phonetic": "ˈvɪstə",
+            "pos": "n.",
+            "word": "vista"
+        },
+        {
+            "collocations": [
+                "milky-white innocent visage：雪白而天真的脸"
+            ],
+            "definition": "（人的）脸；面容",
+            "examples": [],
+            "frequency": 20060,
+            "mnemonic": "vis-（看；面容）+-age（名词后缀）→脸；面容",
+            "phonetic": "ˈvɪzɪdʒ",
+            "pos": "n.",
+            "word": "visage"
+        },
+        {
+            "collocations": [
+                "a job in television：电视行业的工作",
+                "watch very much television：看很多电视节目",
+                "network television：网络电视",
+                "cable television：有线电视",
+                "Television 的派生词为 TV, televised, televise 等。"
+            ],
+            "definition": "电视；电视节目；电视行业",
+            "examples": [],
+            "frequency": 795,
+            "mnemonic": "tele-（far, far off：遥远的）+ -vision（看；视野）→可以观看遥远的\n地方发生的事情的工具→电视；电视节目",
+            "phonetic": "ˈtɛ.lə.vɪ.ʒən",
+            "pos": "n.",
+            "word": "television"
+        },
+        {
+            "collocations": [
+                "a TV series / show / program：电视系列片 / 剧 / 节目",
+                "satellite / cable / digital TV：卫星 / 有线 / 数字电视",
+                "pay TV：收费电视"
+            ],
+            "definition": "电视（television）",
+            "examples": [],
+            "frequency": 797,
+            "phonetic": "ˌtiːˈviː",
+            "pos": "abbr.",
+            "word": "TV"
+        },
+        {
+            "collocations": [
+                "be televised live：由电视直播"
+            ],
+            "definition": "用电视播送（通常用于被动形式）",
+            "examples": [
+                "His comeback fight will be televised on network TV.\n他的复出之战将在网络电视上播出。"
+            ],
+            "frequency": 17271,
+            "mnemonic": "tele-（远）+ -vis-（看见）+ -e +→看到很远的地方→用电视播送",
+            "phonetic": "ˈtɛ.lə.vaɪz",
+            "pos": "vt.",
+            "word": "televise"
+        },
+        {
+            "collocations": [
+                "a televised debate：电视播送的辩论"
+            ],
+            "definition": "在电视上播放（的）",
+            "examples": [],
+            "frequency": 9730,
+            "phonetic": "ˈtɛ.lə.vaɪzd",
+            "pos": "adj.",
+            "word": "televised"
+        },
+        {
+            "collocations": [
+                "a scratched visor：已有划痕的防护头盔",
+                "sun visor：（车辆驾驶室挡风玻璃上的）防晒板"
+            ],
+            "definition": "（头盔上的）面罩；（汽车内挡风玻璃上方的）遮阳板",
+            "examples": [],
+            "frequency": 14427,
+            "mnemonic": "vis-（看，面容）+ -or（名词后缀）→面罩；遮阳板（等于给面部加",
+            "phonetic": "ˈvaɪzɚ",
+            "pos": "n.",
+            "word": "visor"
+        },
+        {
+            "collocations": [
+                "of improvisus “not foreseen, unexpected”. Also partly from French\nimproviser.",
+                "improvise a harness：临时凑成了一套马具",
+                "improvise a prayer：即兴说了一段祷告",
+                "Improvise 的派生词为 improvisation, improvised 等。"
+            ],
+            "definition": "&vi. 临时拼凑；即兴演奏；即席演说",
+            "etymology": "1808, from Italian improvisare “to sing or speak extempore,” from Latin improviso “unforeseen; not studied or prepared beforehand,” ablative",
+            "examples": [],
+            "frequency": 8961,
+            "mnemonic": "im-（=in-=not, opposite of：不；与……相反）+ provise（=foreseen,\nprovided：已预见的；已准备的）→未预见到；未做事先准备→临时",
+            "phonetic": "ˈɪm.prə.vaɪz",
+            "pos": "vt.",
+            "word": "improvise"
+        },
+        {
+            "collocations": [
+                "the improvisation of the ebullition：激情迸发的即兴创作",
+                "jazz improvisation：爵士即兴创作"
+            ],
+            "definition": "临时准备；即兴创作",
+            "examples": [],
+            "frequency": 10219,
+            "mnemonic": "improvise（即兴的；临时准备的）+ -ation（名词后缀）→临时准",
+            "phonetic": "ɪmˌprɑ.vəˈzeɪ.ʃən",
+            "pos": "n.",
+            "word": "improvisation"
+        },
+        {
+            "collocations": [
+                "improvised news：即兴新闻",
+                "improvised installation：临时设施",
+                "improvised mine：简易地雷"
+            ],
+            "definition": "即兴的；临时准备的",
+            "examples": [],
+            "frequency": 17660,
+            "mnemonic": "improvise（临时拼凑）+ -d（-ed形容词后缀去e）→临时拼凑的→即",
+            "phonetic": "ˈɪm.prə.vaɪzd",
+            "pos": "adj.",
+            "word": "improvised"
+        },
+        {
+            "collocations": [
+                "digital audio：数字音频",
+                "audio signal：声频信号",
+                "sports and exercise videos：体育和运动录像带",
+                "watch the race on video：观看了比赛的录像",
+                "digital video：数字视频\nvideo game：视频游戏\n笔 记 区"
+            ],
+            "definition": "录电视节目；给……录像 n. 录像带；录像",
+            "examples": [],
+            "frequency": 1113,
+            "mnemonic": "vid-（=to see：看见）+ eo→录制；录像带（让人观看的动作或事\n+ eo→声音的；录音的",
+            "phonetic": "ˈvɪdiːoʊ",
+            "pos": "vt.",
+            "word": "video"
+        },
+        {
+            "collocations": [
+                "videotape the entire trip：录下了整个旅程",
+                "the use of videotape in：在……场合使用盒式录像带",
+                "videotape player：放影机"
+            ],
+            "definition": "录像带 vt. 录制",
+            "examples": [],
+            "frequency": 5032,
+            "mnemonic": "video（录制）+ tape（磁带；胶带）→录制的胶带→录像带；录制",
+            "phonetic": "ˈvɪdiːoʊˌteɪp",
+            "pos": "n.",
+            "word": "videotape"
+        },
+        {
+            "collocations": [],
+            "definition": "电子游戏",
+            "examples": [],
+            "frequency": 19164,
+            "mnemonic": "video（视频）+game（游戏）→视频游戏→电子游戏",
+            "phonetic": "ˈvɪdiːoʊˌɡeɪm",
+            "pos": "n.",
+            "word": "video-game"
+        },
+        {
+            "collocations": [
+                "clearly evident：明显看出"
+            ],
+            "definition": "清晰易见的；显然的",
+            "examples": [],
+            "frequency": 3496,
+            "mnemonic": "e-（=out, fully：向外，公开，还可以表“完全”）+ -vid-（=vis：\n看）+ -ent（形容词后缀）→完全看得（vid）出来（-ex）的→清晰易",
+            "phonetic": "ˈɛ.və.dənt",
+            "pos": "adj.",
+            "word": "evident"
+        },
+        {
+            "collocations": [
+                "evidently in pain：显然很痛苦"
+            ],
+            "definition": "毫无疑问地；明显地；显然",
+            "examples": [],
+            "frequency": 6436,
+            "phonetic": "ˈɛ.və.dənt.li",
+            "pos": "adv.",
+            "word": "evidently"
+        },
+        {
+            "collocations": [
+                "give evidence at the trial：出庭作证",
+                "be in evidence：显眼；显而易见\nturn King’s / Queen’s evidence：提供同犯的罪证，揭发其他案犯（以\n减轻所受惩罚）"
+            ],
+            "definition": "证明；证据 vt. 证明；表明；作为………的证据",
+            "examples": [],
+            "frequency": 607,
+            "mnemonic": "evid（=evident：明显的；明白的）+ -ence（名词后缀）→让事情变\n得明白的东西→证据\nprove [pru:v]：证明（v.）→proof [pru:f]：证据（n.）",
+            "phonetic": "ˈɛ.və.dəns",
+            "pos": "n.",
+            "word": "evidence"
+        },
+        {
+            "collocations": [
+                "evidence-based strategies：基于证据的战略"
+            ],
+            "definition": "基于证据的",
+            "examples": [],
+            "frequency": 20120,
+            "mnemonic": "evidence（证据）+ base（以……作基础）+ -d（形容词后缀）→以证\n据作基础的→基于证据的\n如：live：生活（v.）→ life：生命（n.） save：救（v）→ safe：安全（n.）\nthieve：偷窃（v.）→ thief：小偷→ theft：偷窃 give：给（v.）→ gift：",
+            "pos": "adj.",
+            "word": "evidence-based",
+            "phonetic": "ˌɛ.və.dəns.ˈbeɪst"
+        },
+        {
+            "collocations": [
+                "invidere的派生词invidia（恶意，怨恨，也是英语invidious的词源），\n进入古法语为envie，进入英语为envy。\n古代西方人相信有一种邪恶的巫术叫做“邪恶之眼”（evil eye）。\n据说巫师施展这种巫术后，可以通过目光来使人无法动弹或受伤或\n遭受厄运。拉丁语invidere指的就是巫师施展“邪恶之眼”，由 in\n（upon）+videre（to see）构成，字面意思就是“看一眼”。当一个\n人嫉妒他人时，就像极了巫师在施展“邪恶之眼”。",
+                "envy him his good looks：羡慕他的英俊",
+                "always envy my success：一直忌妒我的成功",
+                "green with envy：非常嫉妒的\n20000 词汇巅峰\n速\n记",
+                "be the envy of sb. / sth.：成为羡慕（或忌妒）的对象 / 东西\n笔 记 区"
+            ],
+            "definition": "羡慕；嫉妒 n. 羡慕；嫉妒",
+            "etymology": "envy的原始意义是“带着怨恨看着某人”，来源于拉丁语中由拉丁语",
+            "examples": [],
+            "frequency": 8649,
+            "mnemonic": "en-（=upon：在……之上）+ vy（=-vid-=to see：看见）→to look at\n（with malice）：带着恶意看某人→羡慕；嫉妒",
+            "phonetic": "ˈɛn.vi",
+            "pos": "vt.",
+            "word": "envy"
+        },
+        {
+            "collocations": [
+                "prepare, supply, act with foresight：提前看到；行动有预见性→引申词\n义准备；未雨绸缪（事情未发生之前就看到需要做相应预备）→后用\n于指提供；供应；规定",
+                "provide a copy：提供一个副本",
+                "the treaty provides that ...：本项条约规定……"
+            ],
+            "definition": "提供；（法律或协议）规定",
+            "examples": [],
+            "frequency": 263,
+            "mnemonic": "pro-（=ahead：在前面）+ -vid-（=to see：看见）+ e→look ahead,",
+            "phonetic": "prəˈvaɪd",
+            "pos": "vt.",
+            "word": "provide"
+        },
+        {
+            "collocations": [
+                "an Internet service provider：因特网服务供应商",
+                "a sole provider for the family：家里唯一养家糊口的人"
+            ],
+            "definition": "供应者；供养家庭的人",
+            "examples": [],
+            "frequency": 3129,
+            "mnemonic": "provide（提供；供应）+ -r（-er名词后缀去e）→供应者；供养家庭",
+            "phonetic": "prəˈvaɪ.dɚ",
+            "pos": "n.",
+            "word": "provider"
+        },
+        {
+            "collocations": [
+                "provided （that ...）：如果；假如；在……条件下"
+            ],
+            "definition": "只要；如果……的话",
+            "examples": [
+                "Provided that there is enough money, I would have married her.\n要是当年够有钱，早就抱得美人归。"
+            ],
+            "frequency": 3879,
+            "mnemonic": "provide（规定）+ -d（-ed省略e，构成连词）→即在某规定下的→引",
+            "phonetic": "prəˈvaɪ.dɪd",
+            "pos": "conj.",
+            "word": "provided"
+        },
+        {
+            "collocations": [],
+            "definition": "只要；如果……的话（=provided）",
+            "examples": [
+                "You can borrow the car, providing I can have it back by six o’clock.\n你可以借用我的车，只要6点钟以前还给我就行。"
+            ],
+            "frequency": 18359,
+            "mnemonic": "provide（规定）+ -ing（构成连词）→即在某规定下的→引申词义只",
+            "phonetic": "prəˈvaɪ.dɪŋ",
+            "pos": "conj.",
+            "word": "providing"
+        },
+        {
+            "collocations": [
+                "housing provision：住房供应",
+                "made provisions for：为……预先采取措施；为……作好准备（尤指经\n济准备）",
+                "under the provisions of the lease：按照契约规定",
+                "provision for people with disabilities：满足残疾人士的需要\n供应；食品供应"
+            ],
+            "definition": "提供；预备；（复数）（尤指为旅行储备的）粮食；（协议或法律中的）规定，条款 vt. （尤指为旅行）给……提供所需品20000 词汇巅峰速记笔 记 区",
+            "examples": [],
+            "frequency": 2634,
+            "mnemonic": "pro-（=ahead：在前的）+ -vis-（=-vid-=to see：看见）+ -ion（名词后\n缀）→提前看见所需要的东西→提供；预备；粮食；规定；给…提供",
+            "phonetic": "prəˈvɪʒ.ən",
+            "pos": "n.",
+            "word": "provision"
+        },
+        {
+            "collocations": [
+                "arrangement for the present：临时准备、安排的→临时的；暂定的",
+                "a provisional government：临时政府",
+                "provisional bookings：临时预约",
+                "provisional arrangements：暂时性安排"
+            ],
+            "definition": "临时的；暂定的",
+            "examples": [],
+            "frequency": 11095,
+            "mnemonic": "provision（提供；预备）+ -al（形容词后缀）→as a temporary",
+            "phonetic": "prəˈvɪʒ.ə.nəl",
+            "pos": "adj.",
+            "word": "provisional"
+        },
+        {
+            "collocations": [
+                "French porveoir “to provide, prepare, arrange” (Modern French pourvoir),",
+                "from Latin providere “look ahead, prepare, supply, act with foresight”.",
+                "Compare provide, which now usually replaces it. Related: Purveyed;\npurveying.",
+                "purveyors of gourmet foods：美味佳肴的提供者",
+                "purveyors of farmyard fresh poultry：农场鲜禽肉供应商\n释义：（N-COUNT） 供应者；提供者；供应公司 A purveyor of goods or",
+                "services is a person or company that provides them.\n笔 记 区\n供应者"
+            ],
+            "definition": "供应者；供应公司",
+            "etymology": "late 13c., from Anglo-French porveire, purveire and directly from Old",
+            "examples": [],
+            "frequency": 16087,
+            "mnemonic": "pro-（=ahead：在前的）+ -vey（-vid=to see：看见）+ -or（名词后\n缀，表示人）→person who looks ahead & acts with foresight：计划未\n来的人；带着预见行事的人→person who prepares & supplies：准备\n者；供应者→供应者；供应公司",
+            "phonetic": "pɚˈveɪ.ɚ",
+            "pos": "n.",
+            "word": "purveyor"
+        },
+        {
+            "collocations": [
+                "prudent house buyers：谨慎的购房者",
+                "a prudent businessman：精明的商人"
+            ],
+            "definition": "明智谨慎的；精明的",
+            "examples": [],
+            "frequency": 9013,
+            "mnemonic": "来自provident的缩写，缩写为pru（=pro-=head：在前；提前）+ -d\n（=-vid=-vis：看）+ -ent（形容词后缀）→提前看到的，引申义为有\n先见之明的→明智谨慎的；精明的",
+            "phonetic": "ˈpru.dənt",
+            "pos": "adj.",
+            "word": "prudent"
+        },
+        {
+            "collocations": [
+                "show remarkable prudence：表现出非同一般的深谋远虑",
+                "financial prudence：财务上的谨慎"
+            ],
+            "definition": "审慎；精明",
+            "examples": [],
+            "frequency": 15519,
+            "mnemonic": "pru-（=ahead：提前）+ -d（=vid：看）+ -ence（名词后缀）→审慎；",
+            "phonetic": "ˈpru.dəns",
+            "pos": "n.",
+            "word": "prudence"
+        },
+        {
+            "collocations": [
+                "survey 211 companies：调查了211家公司",
+                "geological survey：地质勘测",
+                "questionnaire survey：问卷调查"
+            ],
+            "definition": "调查；审视；勘测 n. 调查；勘测",
+            "etymology": "来自盎格鲁-法语surveier，古法语sorveoir“看待，注意；监视，观 察”。来自中世纪拉丁语supervidere，来自拉丁语 super（over：在上 盎格鲁-诺曼底语为surveier。",
+            "examples": [],
+            "frequency": 1247,
+            "mnemonic": "面）+videre（to see：看见）→从上面看→调查；审视；勘测。进入\nsur-（上；超过）+ -vey（=-vid-：看见）→字面含义为“在上面看”，\n调查就是为了从一个宏观的视角看待问题→引申词义测量，勘测",
+            "phonetic": "sɚˈveɪ",
+            "pos": "vt.",
+            "word": "survey"
+        },
+        {
+            "collocations": [
+                "surveillance cameras / equipment：监视摄像机 / 设备",
+                "surveillance radar：监视雷达\nkeep ... under constant surveillance：对……实施不间断监视",
+                "surveillance aircraft：侦察机"
+            ],
+            "definition": "监视；看守",
+            "examples": [],
+            "frequency": 4881,
+            "mnemonic": "sur-（=over：在上面）+ veill（=-vis：to see, to watch：看；观察）\n+-ance（名词后缀）→从上面进行看，观察→监视；看守",
+            "phonetic": "sɚˈveɪ.ləns",
+            "pos": "n.",
+            "word": "surveillance"
+        },
+        {
+            "collocations": [
+                "building surveyor：建筑测量师",
+                "the surveyor of public works：市政工程检验官\n另 外 一 个 与 provide 同 样 表 达 供 应， 提 供 含 义 的 单 词 还 有 furnish 的派生词有 furnished, furniture, furnishings, veneer 等。"
+            ],
+            "definition": "（土地的）测量员；勘测员；检察官",
+            "examples": [],
+            "frequency": 14725,
+            "mnemonic": "survey（调查；测绘）+ -or（人）→进行调查、测绘的人→测量员；",
+            "phonetic": "sɚˈveɪ.ɚ",
+            "pos": "n.",
+            "word": "surveyor"
+        },
+        {
+            "collocations": [
+                "furnish their hotels：装潢旅馆",
+                "furnish with：供给，提供；用……装饰",
+                "furnish more information on prehistoric man：提供更多有关史前人类的\n资料"
+            ],
+            "definition": "装潢布置；为（房间或建筑物）配备家具陈设；提供；供应",
+            "examples": [],
+            "frequency": 7465,
+            "mnemonic": "furnish=provide, equip：提供；供应；为（房间或建筑物）配备家具",
+            "phonetic": "ˈfɝ.nɪʃ",
+            "pos": "vt.",
+            "word": "furnish"
+        },
+        {
+            "collocations": [
+                "a furnished room：配有家具的房间",
+                "elegantly furnished rooms：布置讲究的房间",
+                "sparsely furnished house：少有陈设的房间\n笔 记 区"
+            ],
+            "definition": "（房屋、房间出租时）配有家具的；配有……家具的",
+            "examples": [],
+            "frequency": 19196,
+            "mnemonic": "furnish（配备家具陈设）+ -ed（形容词后缀）→房屋配有家具的；配",
+            "phonetic": "ˈfɝ.nɪʃt",
+            "pos": "adj.",
+            "word": "furnished"
+        },
+        {
+            "collocations": [
+                "each piece of furniture：每件家具",
+                "wood furniture：木制家具",
+                "part of the furniture：被认作当然的人（或事物）；习以为常的人（或\n事物）\n家具"
+            ],
+            "definition": "（椅子、桌子、床、橱柜等）家具",
+            "examples": [],
+            "frequency": 2691,
+            "phonetic": "ˈfɝ.nɪ.tʃɚ",
+            "pos": "n.",
+            "word": "furniture"
+        },
+        {
+            "collocations": [
+                "soft furnishings：织物制成的室内陈设",
+                "furnishing fabric：装饰织物；家具布",
+                "site furnishings：场地美化\n释义：（N-PLURAL） 家具陈设；室内陈设 The furnishings of a room or",
+                "house are the furniture, curtains, carpets, and decorations such as pictures.\n家具陈设；室内陈设\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "家具陈设；室内陈设8769",
+            "etymology": "Articles of furniture, c. 1600, plural verbal noun from furnish （v.）. 家具 陈设，furnish的动名词复数形式。",
+            "examples": [],
+            "phonetic": "ˈfɝ.nɪ.ʃɪŋz",
+            "pos": "n.",
+            "word": "furnishings"
+        },
+        {
+            "collocations": [
+                "outward show of some good quality：仅仅在表面上表现出优良的品质→\n（掩饰真实性格或感情的）彬彬有礼 / 世故等的伪装",
+                "veneer of politeness：彬彬有礼的伪装",
+                "veneer of education：对教育背景的伪装\nwalnut / maple / oak etc. veneer：胡桃木 / 槭木 / 橡木等饰面板\n单词 perform 有“执行；行使；演出；表现”等含义。"
+            ],
+            "definition": "（掩饰真实性格或感情的）彬彬有礼/世故等的伪装；饰面薄板",
+            "examples": [],
+            "frequency": 13836,
+            "mnemonic": "来自法语fornir：提供；装饰，词源同furnish→薄片镶饰→引申为mere",
+            "phonetic": "vəˈnɪr",
+            "pos": "n.",
+            "word": "veneer"
+        },
+        {
+            "collocations": [
+                "altered (by influence of Old French forme “form”) from Old French\nparfornir “to do, carry out, finish, accomplish,” from par- “completely” (see",
+                "perform a surgery：完成 / 做一个手术",
+                "perform highly refined analyses：做非常精确的分析",
+                "Perform 的派生词为 performance, high-performance, performer, performing,",
+                "outperform 等。"
+            ],
+            "definition": "执行（尤指复杂的任务或行动）；行使（某种功能）；演出，演奏；表现（好/不好）",
+            "etymology": "c. 1300, “carry into effect, fulfill, discharge,” via Anglo-French performer, per-) + fornir “to provide” (see furnish). Church Latin had a compound performo “to form thoroughly, to form.”",
+            "examples": [
+                "Gardiner has pursued relentlessly high standards in performing classical\nmusic.\n加德纳在演奏古典音乐方面始终不懈地追求高标准。"
+            ],
+            "frequency": 955,
+            "mnemonic": "per-（=completely：完全地）+ -form（=to provide, carry out：供应；\n执行）→完全地供应、执行→执行；行使；演出",
+            "phonetic": "pɚ.ˈfɔrm",
+            "pos": "vt.",
+            "word": "perform"
+        },
+        {
+            "collocations": [
+                "college performance：大学表现",
+                "poor academic performance：糟糕的成绩\n笔 记 区"
+            ],
+            "definition": "表演；业绩，性能；执行，实施",
+            "examples": [],
+            "frequency": 676,
+            "mnemonic": "perform（表演；执行）+ -ance（名词后缀）→表演，业绩",
+            "phonetic": "pɚ.ˈfɔr.məns",
+            "pos": "n.",
+            "word": "performance"
+        },
+        {
+            "collocations": [
+                "high-performance cars / computers / tyres etc.：高性能汽车 / 电脑 / 轮胎等",
+                "the thrill of taking an expensive high-performance car to its limits：把一\n辆豪华高性能的汽车开到极限的那种刺激"
+            ],
+            "definition": "高性能的；高速的",
+            "examples": [],
+            "frequency": 14657,
+            "mnemonic": "high（高的）+ performance（性能）→高性能的；高速的",
+            "phonetic": "ˌhaɪ.pɚ.ˈfɔr.məns",
+            "pos": "adj.",
+            "word": "high-performance"
+        },
+        {
+            "collocations": [
+                "a brilliant / polished / seasoned performer：卓越的 / 优雅的 / 娴熟的表演者",
+                "circus performers：马戏演员\ngood / top / star / poor etc. performer：（工作或活动中）表现良好 / 出\n色 / 糟糕等的人；畅销 / 滞销产品；经营出色 / 很糟的生意",
+                "an outstanding performer in the British beer market：在英国啤酒市场很\n畅销（Newcastle Brown Ale：纽卡斯尔棕啤）"
+            ],
+            "definition": "表演者，演奏者，演员；表现地……人（或事物）",
+            "examples": [],
+            "frequency": 4001,
+            "mnemonic": "perform（表演）+-er（名词后缀，表人）→表演者",
+            "phonetic": "pɚ.ˈfɔr.mɚ",
+            "pos": "n.",
+            "word": "performer"
+        },
+        {
+            "collocations": [
+                "performing art：表演艺术"
+            ],
+            "definition": "表演的；执行的；（动物）受过训练会玩把戏的",
+            "examples": [],
+            "frequency": 8610,
+            "mnemonic": "perform（表演；执行）+ -ing（形容词后缀）→表演的；执行的",
+            "phonetic": "pɚ.ˈfɔr.mɪŋ",
+            "pos": "adj.",
+            "word": "performing"
+        },
+        {
+            "collocations": [
+                "outperform other investments：优于其它投资",
+                "another, the first is more successful or efficient than the second.\n20000 词汇巅峰\n速\n记\n笔 记 区\n1、第一个含义为“看（=-vis, -vid）”"
+            ],
+            "definition": "胜过；做得比……好",
+            "examples": [],
+            "frequency": 13097,
+            "mnemonic": "out-（超过）+ perform（履行，表现）→胜过；做得比……好",
+            "phonetic": "ˌaʊt.pɚ.ˈfɔrm",
+            "pos": "vt.",
+            "word": "outperform"
+        },
+        {
+            "collocations": [
+                "ever witnessed.当今世界正经历着一场目睹过的最大的并购浪潮。",
+                "The world is going through the biggest wave of a rash / surge of digital",
+                "products ever witnessed."
+            ],
+            "definition": "目击者；证人；证据",
+            "examples": [
+                "The world is going through the biggest wave of mergers and acquisitions",
+                "世界正在经历着一场目睹过的最大规模的数字化产品激增浪潮。"
+            ],
+            "frequency": 1985,
+            "mnemonic": "wit-（=-vis=-vid：看）+ -ness（名词或动词后缀）→看见的人；见证\n→目击者；证人；见证（-ness或-ress表人的例子还有：waitress：服",
+            "phonetic": "ˈwɪt.nəs",
+            "pos": "n.",
+            "word": "witness"
+        },
+        {
+            "collocations": [
+                "an eyewitness account of：目击者对……的叙述"
+            ],
+            "definition": "目击者；见证人",
+            "examples": [],
+            "frequency": 8803,
+            "mnemonic": "eye（眼睛）+ witness（见证）→亲自见证的人→目击者；见证人\n2、第二个含义为由“看”引申出来的“智慧，机智（看见→洞察力→智慧）”。",
+            "phonetic": "ˈaɪˌwɪtnəs",
+            "pos": "n.",
+            "word": "eyewitness"
+        },
+        {
+            "collocations": [
+                "experienced; having the power of discerning and judging rightly,” from",
+                "past-participle adjective *wittos of PIE root *weid- “to see” (hence “to",
+                "be wise after the event：事后聪明；马后炮",
+                "a wise decision：明智的决定\nwise up （to sth.）：意识到，觉察（令人不愉快的实情）"
+            ],
+            "definition": "充满智慧的；（行动或决定）明智的",
+            "etymology": "Old English wis “learned, sagacious, cunning; sane; prudent, discreet; know”). Related to the source of Old English witan “to know, wit.”",
+            "examples": [],
+            "frequency": 3262,
+            "mnemonic": "wis（-vis-：看见）+ -e→看见；知道→智慧；才智→充满智慧的；明",
+            "phonetic": "waɪz",
+            "pos": "adj.",
+            "word": "wise"
+        },
+        {
+            "collocations": [
+                "a woman of great wisdom：才女",
+                "words of wisdom：至理名言",
+                "conventional / received wisdom：大多数人的看法；普遍信念\nin his / her / its etc. （infinite） wisdom：（表示不理解他人的无知）\n以其（无限的）智慧\n笔 记 区"
+            ],
+            "definition": "智慧；明智；（社会或文化长期积累的）知识，学问",
+            "examples": [],
+            "frequency": 2978,
+            "mnemonic": "wis（=wise：充满智慧的）+ -dom（抽象名词后缀）→智慧；明智；",
+            "phonetic": "ˈwɪz.dəm",
+            "pos": "n.",
+            "word": "wisdom"
+        },
+        {
+            "collocations": [
+                "choose wisely：明智地选择"
+            ],
+            "definition": "明智地；聪明地",
+            "examples": [],
+            "frequency": 9315,
+            "mnemonic": "wise（明智的）+ -ly（副词后缀）→明智地；聪明地",
+            "phonetic": "ˈwaɪz.li",
+            "pos": "adv.",
+            "word": "wisely"
+        },
+        {
+            "collocations": [
+                "an unwise investment：不明智的投资"
+            ],
+            "definition": "愚蠢的；不明智的；轻率的",
+            "examples": [],
+            "frequency": 15052,
+            "mnemonic": "un-（=not：不）+ wise（明智的）→不明智的；愚蠢的",
+            "phonetic": "ˌʌnˈwaɪz",
+            "pos": "adj.",
+            "word": "unwise"
+        },
+        {
+            "collocations": [
+                "from Proto-Germanic *wit-. From PIE root *weid- “to see,” metaphorically",
+                "use her wits：运用她的机智",
+                "at one’s wit’s end：不知所措；智穷力竭"
+            ],
+            "definition": "风趣；机智；才智",
+            "etymology": "“mental capacity,” Old English wit, witt, more commonly gewit “understanding, intellect, sense; knowledge, consciousness, conscience,” “to know.” Related to Old English witan “to know”.",
+            "examples": [],
+            "frequency": 5836,
+            "phonetic": "wɪt",
+            "pos": "n.",
+            "word": "wit"
+        },
+        {
+            "collocations": [
+                "a witty speaker：幽默的演讲人",
+                "a witty remark：机智的话\npoems witty：诗词使人灵秀（出自培根散文《论读书》）"
+            ],
+            "definition": "言辞诙谐的；机智的",
+            "examples": [],
+            "frequency": 10158,
+            "mnemonic": "wit（=intellect：智力，双写t）+ -y（形容词后缀）→机智的；诙谐的",
+            "phonetic": "ˈwɪ.ti",
+            "pos": "adj.",
+            "word": "witty"
+        },
+        {
+            "collocations": [
+                "the unwitting cause of the argument：无意中引起了这场争执"
+            ],
+            "definition": "不知情的；无意的",
+            "examples": [],
+            "frequency": 19292,
+            "mnemonic": "un-（=not：不）+ witting（=aware：意识到的）→没有意识到的→不",
+            "phonetic": "ʌnˈwɪtɪŋ",
+            "pos": "adj.",
+            "word": "unwitting"
+        },
+        {
+            "collocations": [
+                "break the law unwittingly：并非故意犯法"
+            ],
+            "definition": "糊里糊涂地；茫然；无意地",
+            "examples": [],
+            "frequency": 13190,
+            "phonetic": "ʌnˈwɪtɪŋliː",
+            "pos": "adv.",
+            "word": "unwittingly"
+        },
+        {
+            "collocations": [
+                "or otherwise：或其他情况；或相反",
+                "and otherwise：等等"
+            ],
+            "definition": "否则；除此以外；以不同方式；用别的方法",
+            "examples": [],
+            "frequency": 1536,
+            "mnemonic": "other（另外的）+ -wise（way, manner：方式；方面）→in the other\nmanner：以另外的方式，用别的方法→否则；除此以外；在其他方面",
+            "phonetic": "ˈʌð.ɚ.waɪz",
+            "pos": "adv.",
+            "word": "otherwise"
+        },
+        {
+            "collocations": [],
+            "definition": "同样地；照样地",
+            "examples": [
+                "What is fair for homeowners likewise should be fair to businesses.\n对私房业主公平的，同样也该对商家公平。"
+            ],
+            "frequency": 4578,
+            "mnemonic": "like（=similar：相似的）+ -wise（=manner：方式）→in the same\nmanner：以同样的方式→同样地；照样地",
+            "phonetic": "ˈlaɪk.waɪz",
+            "pos": "adv.",
+            "word": "likewise"
+        },
+        {
+            "collocations": [
+                "start moving clockwise：开始按顺时针方向移动",
+                "in a clockwise direction：按顺时针方向",
+                "counter clockwise：逆时针方向"
+            ],
+            "definition": "顺时针方向地 adj. 顺时针的",
+            "examples": [],
+            "frequency": 11831,
+            "mnemonic": "clock（时钟）+ -wise（=way, manner：方向；方式）→顺着时钟前进\n的方向→顺时针的；顺时针方向地",
+            "phonetic": "ˈklɑkˌwaɪz",
+            "pos": "adv.",
+            "word": "clockwise"
+        },
+        {
+            "collocations": [
+                "fold them lengthwise：把它们纵向叠了起来"
+            ],
+            "definition": "纵向地",
+            "examples": [],
+            "frequency": 15103,
+            "mnemonic": "length（长度）+ -wise（=way：方向）→按长度方向地→纵向地",
+            "phonetic": "ˈlɛŋkθ.waɪz",
+            "pos": "adj.",
+            "word": "lengthwise"
+        },
+        {
+            "collocations": [
+                "Guy作“家伙；伙计们”含义时，等于“fellow”。来自17世纪初一\n位名叫盖伊·福克斯（Guy Fawkes）的天主教徒，他是“黑火药阴\n谋”（Gunpowder Plot）的领袖，企图炸死国王，炸毁国会大厦。然\n而，这个阴谋被揭发，国王和大臣幸免于难，盖伊及其同党被以叛\n国罪处死。为了纪念这一历史事件，11月5日这一天也成为了英国的\n一个传统节日“盖伊福克斯之夜”，也称为“篝火之夜”、“烟花\n节”。再到后来，guy一词就作为勇气，胆量的代名词，变成了对男\n人的一般称呼。后其含义为家伙，伙计们。",
+                "a big / nice / tough guy：大个子男人；好小伙子；结实粗野的家伙"
+            ],
+            "definition": "家伙；伙计们；（立竿子或架帐篷用的）拉绳；牵索",
+            "etymology": "Guy作“拉绳；牵索”含义时，等于“small rope, chain, wire”。来自 古法语guie“a guide：向导”，来自法兰克语 witan“show the way： 指示道路”，来自德语weisen“to show, point out：显示；指明”，来 自词根weid-“to see：看见”。",
+            "examples": [],
+            "frequency": 365,
+            "phonetic": "ɡaɪ",
+            "pos": "n.",
+            "word": "guy"
+        },
+        {
+            "collocations": [
+                "a similar Germanic source。来自原始日耳曼语witanan “to look after,",
+                "guard, ascribe to, reproach”，来自词根*weid- “to see.”日耳曼语系中的\nw在罗曼语系中会变为g（u）。guide来源于日耳曼语中的wit-（知\n道，英语wise, wit, witness的词源），wit-派生了witan，进入古法语\n（属于罗曼语系）为guider，并被英语借用。",
+                "let his instinct guide him：让直觉指导他的行动",
+                "guide them through a workout：指导他们完成锻炼\ntour guide：导游人员\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "给……领路；指导……的行动 n. 指南；向导；入门书",
+            "etymology": "Late 14c., “to lead, direct, conduct”。来自古法语guider “to guide, lead, conduct” (14c.), earlier guier。来自法兰克语*witan “show the way” or",
+            "examples": [],
+            "frequency": 1793,
+            "phonetic": "ɡaɪd",
+            "pos": "vt.",
+            "word": "guide"
+        },
+        {
+            "collocations": [
+                "issue clear guidelines on ... ：颁布明确的关于……的指导方针",
+                "draw up guidelines：制订了指导方针",
+                "a useful guideline：很有参考价值"
+            ],
+            "definition": "指导方针；参考",
+            "examples": [],
+            "frequency": 3089,
+            "mnemonic": "guide（指南）+ line（线）→在切割之前在平面上标出的线→指导",
+            "phonetic": "ˈɡaɪd.laɪn",
+            "pos": "n.",
+            "word": "guideline"
+        },
+        {
+            "collocations": [
+                "a guidance counselor：（学生）咨询顾问",
+                "guidance counselor （=sb. who advises students）：（学生）咨询顾问",
+                "under the guidance of：在专业教练的指导下"
+            ],
+            "definition": "指导；咨询；导航",
+            "examples": [],
+            "frequency": 3906,
+            "mnemonic": "guid（=guide：给……领路；指导……的行动）+-ance（名词后缀）\n→指导；导航；咨询",
+            "phonetic": "ˈɡaɪ.dəns",
+            "pos": "n.",
+            "word": "guidance"
+        },
+        {
+            "collocations": [
+                "a guiding force：有影响的力量",
+                "guiding system：导向系统",
+                "need a guiding hand：需要有人指导",
+                "guiding principle：指导原则"
+            ],
+            "definition": "给予指导的；有影响的",
+            "examples": [],
+            "frequency": 6497,
+            "mnemonic": "guid（=guide：指导）+ -ing（形容词后缀）→给予指导的；有影响的",
+            "phonetic": "ˈɡaɪ.dɪŋ",
+            "pos": "adj.",
+            "word": "guiding"
+        },
+        {
+            "collocations": [
+                "a guided tour / walk：有导游的观光 / 步行观光",
+                "guided missile：导弹"
+            ],
+            "definition": "有指导的；有向导的",
+            "examples": [],
+            "frequency": 8717,
+            "mnemonic": "guide（指导；向导）+-d（形容词后缀）→有指导的；有向导的",
+            "phonetic": "ˈɡaɪ.dɪd",
+            "pos": "adj.",
+            "word": "guided"
+        },
+        {
+            "collocations": [
+                "misguided policies：错误的政策"
+            ],
+            "definition": "（观点或计划）以错误观念为指导的；（人）误入歧途的",
+            "examples": [],
+            "frequency": 9797,
+            "mnemonic": "mis-（=badly, wrongly：错误地）+ guided（directed：指导的）→给\n予错误指导的；在行动或想法上把……引入歧途的→（观点或计划）",
+            "phonetic": "ˌmɪsˈɡaɪdɪd",
+            "pos": "adj.",
+            "word": "misguided"
+        },
+        {
+            "collocations": [
+                "conference guidebook：会议指南"
+            ],
+            "definition": "旅行指南",
+            "examples": [],
+            "frequency": 12140,
+            "mnemonic": "guide（指导）+ book（手册）→指导手册→旅行指南",
+            "phonetic": "ˈɡaɪd.bʊk",
+            "pos": "n.",
+            "word": "guidebook"
+        },
+        {
+            "collocations": [
+                "fashion, way”. Sense of “assumed appearance” is from 1660s, from earlier\nmeaning “mask, disguise” (c. 1500). 来自词根-weid，看，词源同\nvision，wise。古义装束，外表，后词义贬义化为伪装。",
+                "under the guise of：假借；以……为幌子",
+                "in the guise of：假借；以……为幌子",
+                "in the guise of a white rabbit：以白兔为装扮"
+            ],
+            "definition": "外貌；伪装",
+            "etymology": "Late 13c., “style or fashion of attire,” from Old French guise “manner,",
+            "examples": [],
+            "frequency": 10869,
+            "phonetic": "ɡaɪz",
+            "pos": "n.",
+            "word": "guise"
+        },
+        {
+            "collocations": [
+                "a blessing in disguise：塞翁失马",
+                "disguise herself as a man：女扮男装",
+                "in the disguise of：伪装；假扮成"
+            ],
+            "definition": "乔装；掩饰 n. 伪装",
+            "examples": [],
+            "frequency": 7490,
+            "mnemonic": "dis-（=away, off：离开；远离）+ guise（=style, appearance：风格；\n装束）→通过改变原来的装束或外表来改变身份→后词义贬义化，含",
+            "phonetic": "dɪsˈɡaɪz",
+            "pos": "vt.",
+            "word": "disguise"
+        },
+        {
+            "collocations": [
+                "a thinly disguised effort：一种几乎不加掩饰的努力"
+            ],
+            "definition": "假装的；掩饰的",
+            "examples": [],
+            "frequency": 19116,
+            "mnemonic": "disguise（乔装；掩饰）+ -d（形容词后缀）→假装的；掩饰的",
+            "phonetic": "dɪsˈɡaɪzd",
+            "pos": "adj.",
+            "word": "disguised"
+        },
+        {
+            "collocations": [
+                "shining的颜色， 所以是可见的visible, 来自词根weid：to see：看见）\n→羽毛可见为白色的动物→企鹅",
+                "king penguin：帝企鹅",
+                "Emperor Penguin：帝企鹅\n单词 idea 含义为“主意，想法”等。"
+            ],
+            "definition": "企鹅",
+            "etymology": "Obsolete English penguin great auk, perhaps from Welsh pen gwyn white head （applied to the bird in winter plumage）。来自威尔士语 pengwyn，Pen（=head：头）+ gwyn（=white：白色的。White即闪亮 20000 词汇巅峰 速 记 笔 记 区",
+            "examples": [],
+            "frequency": 11958,
+            "phonetic": "ˈpɛŋ.ɡwɪn",
+            "pos": "n.",
+            "word": "penguin"
+        },
+        {
+            "collocations": [
+                "image or picture”，即思想、精神中看到的图片或画面。",
+                "get the idea：明白意图",
+                "give sb. ideas / put ideas into sb.’s head：使某人抱有空想（或做不切实",
+                "have no idea / not have the faintest / first etc. idea：丝毫不知道",
+                "have the right idea：找到好的（或成功的）方式 / 找对路"
+            ],
+            "definition": "主意；想法；目的；意图",
+            "etymology": "来自希腊语idea “form; the look of a thing; a kind, sort, nature; mode, fashion,” in logic, “a class, kind, sort, species,” from idein “to see,” from PIE *wid-es-ya-, suffixed form of root *weid- “to see.” Idea指“mental",
+            "examples": [],
+            "frequency": 312,
+            "phonetic": "aɪˈdiː.ə",
+            "pos": "n.",
+            "word": "idea"
+        },
+        {
+            "collocations": [
+                "the ideal candidate：最合适的人选",
+                "the search for ideal love：对理想中的爱的寻求",
+                "live up to his high ideals：达到他的高标准要求\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "完美的；想象的 n. 理想；看似完美的思想（或标准）；完美的人（或事物）",
+            "examples": [],
+            "frequency": 2839,
+            "mnemonic": "ide（=idea：想象；理想）+ -al（名词后缀）→想象的；完美的",
+            "phonetic": "aɪˈdiː.əl",
+            "pos": "adj.",
+            "word": "ideal"
+        },
+        {
+            "collocations": [
+                "an ideally suited couple：天造地设的一对"
+            ],
+            "definition": "作为理想的做法；完美地",
+            "examples": [],
+            "frequency": 8005,
+            "mnemonic": "ideal（完美的；理想的）+ -ly（副词后缀）→作为理想的做法；完美",
+            "phonetic": "aɪˈdiː.ə.li",
+            "pos": "adv.",
+            "word": "ideally"
+        },
+        {
+            "collocations": [
+                "full of youthful idealism：满脑子都是年轻人的理想主义"
+            ],
+            "definition": "理想主义",
+            "examples": [],
+            "frequency": 11309,
+            "mnemonic": "ideal（理想）+ -ism（主义）→理想主义",
+            "phonetic": "aɪˈdiː.ə.lɪ.zəm",
+            "pos": "n.",
+            "word": "idealism"
+        },
+        {
+            "collocations": [
+                "hopeless idealist：没有希望的理想主义者"
+            ],
+            "definition": "理想主义者",
+            "examples": [],
+            "frequency": 18811,
+            "mnemonic": "ideal（理想）+ -ist（名词后缀，表示……主义者）→理想主义者",
+            "phonetic": "aɪˈdiː.ə.lɪst",
+            "pos": "n.",
+            "word": "idealist"
+        },
+        {
+            "collocations": [
+                "idealistic young people：理想主义的年轻人"
+            ],
+            "definition": "理想主义的；空想的",
+            "examples": [],
+            "frequency": 12185,
+            "mnemonic": "idealist（理想主义者）+ -ic（形容词后缀）→理想主义的；空想的",
+            "phonetic": "ˌaɪ.di.əˈlɪs.tɪk",
+            "pos": "adj.",
+            "word": "idealistic"
+        },
+        {
+            "collocations": [
+                "idealize the past：把过去理想化"
+            ],
+            "definition": "把……理想化",
+            "examples": [],
+            "frequency": 18155,
+            "mnemonic": "ideal（理想）+ -ize（动词后缀）→把……理想化",
+            "phonetic": "aɪˈdiː.ə.laɪz",
+            "pos": "vt.",
+            "word": "idealize"
+        },
+        {
+            "collocations": [
+                "escape into the idealized world：逃入理想世界"
+            ],
+            "definition": "理想化的",
+            "examples": [],
+            "frequency": 14819,
+            "phonetic": "aɪˈdiː.ə.laɪzd",
+            "pos": "adj.",
+            "word": "idealized"
+        },
+        {
+            "collocations": [
+                "French idole “idol, graven image, pagan god” (11c.). From Latin idolum\n20000 词汇巅峰\n速\n记\n笔 记 区",
+                "and Greek eidolon. 在犹太教、基督教等一神教问世之前，大部分宗\n教都是多神教，每个神都掌管不同职责，有不同形象。古人敬拜这\n些根据神灵的形象制作出画像或雕像，这种画像或雕像就是idol。来\n自古法语idole, 拉丁语名词idolum和希腊语名词eidolon，本意是“形\n象”，因此idol一词就常常用来表示广受民众欢迎的名人、明星等。",
+                "catch sight of their idol：看见他们的偶像",
+                "pop idol：流行偶像"
+            ],
+            "definition": "偶像；神像",
+            "etymology": "Mid-13c., “image of a deity as an object of (pagan) worship,” from Old",
+            "examples": [],
+            "frequency": 9599,
+            "phonetic": "ˈaɪ.dəl",
+            "pos": "n.",
+            "word": "idol"
+        },
+        {
+            "collocations": [
+                "idolize their kids：溺爱自己的孩子",
+                "a pop star idolized by millions of fans：受数百万歌迷崇拜的流行音乐\n明星"
+            ],
+            "definition": "崇拜；热爱",
+            "examples": [],
+            "frequency": 19262,
+            "mnemonic": "idol（偶像；神像）+-ize（使）→即当成偶像崇拜→崇拜；热爱",
+            "phonetic": "ˈaɪ.də.laɪz",
+            "pos": "vt.",
+            "word": "idolize"
+        },
+        {
+            "collocations": [
+                "an idyllic setting for a summer romance：一个适合夏季恋曲的闲适环境"
+            ],
+            "definition": "平和美丽的；闲适恬静的",
+            "examples": [],
+            "frequency": 14283,
+            "mnemonic": "idyll（愉快恬静的地方）+ -ic（形容词后缀）→引申词义平和美丽",
+            "phonetic": "aɪˈdɪ.lɪk",
+            "pos": "adj.",
+            "word": "idyllic"
+        },
+        {
+            "collocations": [
+                "French estorie, estoire “story, chronicle, history,” from Late Latin storia,",
+                "shortened from Latin historia “history, account, tale, story”.",
+                "love story：爱情故事",
+                "short story：短篇小说"
+            ],
+            "definition": "（虚构的）故事；（尤指口头的）叙述；新闻报道",
+            "etymology": "“connected account or narration of some happening,” c. 1200, originally “narrative of important events or celebrated persons of the past,” from Old",
+            "examples": [],
+            "frequency": 234,
+            "phonetic": "ˈstɔriː",
+            "pos": "n.",
+            "word": "story"
+        },
+        {
+            "collocations": [
+                "a picture in a storybook：故事书中的插图",
+                "storybook characters：童话中的人物",
+                "storybook adventures：故事书里那种神奇的历险\n笔 记 区"
+            ],
+            "definition": "儿童故事书；童话书",
+            "examples": [],
+            "frequency": 16916,
+            "mnemonic": "story（故事）+ book（书）→儿童故事书；童话书",
+            "phonetic": "ˈstɔriːbʊk",
+            "pos": "n.",
+            "word": "storybook"
+        },
+        {
+            "collocations": [
+                "the Celtic storytellers：凯尔特说书人"
+            ],
+            "definition": "说故事的人；小说作家",
+            "examples": [],
+            "frequency": 9966,
+            "mnemonic": "story（故事）+ teller（讲故事的人；叙述者）→说故事的人；小说作",
+            "phonetic": "ˈstɔriːˌtɛlɚ",
+            "pos": "n.",
+            "word": "storyteller"
+        },
+        {
+            "collocations": [
+                "there is no telling：难以预料；很难说"
+            ],
+            "definition": "讲故事；写小说",
+            "examples": [],
+            "frequency": 9108,
+            "mnemonic": "story（故事）+ telling（讲述）→讲故事；写小说",
+            "phonetic": "ˈstɔriːˌtɛlɪŋ",
+            "pos": "n.",
+            "word": "storytelling"
+        },
+        {
+            "collocations": [
+                "chronicle, history”, from Latin historia “narrative of past events, account,",
+                "tale, story,” from histōr “wise man, judge,” from PIE *wid-tor-, from root\n*weid- “to see.” 来自拉丁语historia，叙述，讲述过去发生的事。其原\n义更偏重于讲故事，含有个人的主观色彩，后来从14世纪开始才逐渐\n确立为对过去发生事件的真实记录，而于1842年才确立为一门学科，\n即我们现在所理解的历史学。",
+                "go down in history：载入史册",
+                "make history：创造历史"
+            ],
+            "definition": "历史；历史学；历史事件纪录",
+            "examples": [],
+            "frequency": 351,
+            "mnemonic": "Late 14c., “relation of incidents”, from Old French estoire, estorie “story;",
+            "phonetic": "ˈhɪ.stə.ri",
+            "pos": "n.",
+            "word": "history"
+        },
+        {
+            "collocations": [
+                "a historic building / monument：有历史意义的建筑 / 纪念碑",
+                "a historic occasion / decision / day / visit / victory：历史性的时刻 / 决定\n/ 日子 / 访问 / 胜利\n笔 记 区\n20000 词汇巅峰\n速\n记",
+                "historic site：古迹"
+            ],
+            "definition": "有重大历史意义的",
+            "examples": [],
+            "frequency": 2516,
+            "mnemonic": "histor（=history：历史）+ -ic（形容词后缀）→有重大历史意义的；",
+            "phonetic": "hɪˈstɔr.ɪk",
+            "pos": "adj.",
+            "word": "historic"
+        },
+        {
+            "collocations": [
+                "an important historical figure：一位重要的历史人物",
+                "historical records：史学记录",
+                "a historical novel：历史小说"
+            ],
+            "definition": "历史的；历史学的；历史题材的",
+            "examples": [],
+            "frequency": 1480,
+            "mnemonic": "histor（=history：历史）+ -ical（形容词后缀）→历史的；历史学",
+            "phonetic": "hɪˈstɔr.ɪ.kəl",
+            "pos": "adj.",
+            "word": "historical"
+        },
+        {
+            "collocations": [
+                "view historically：从历史上考虑",
+                "consider historically：从历史观点上说"
+            ],
+            "definition": "历史上地；从历史观点上说",
+            "examples": [],
+            "frequency": 3854,
+            "mnemonic": "historical（历史的）+ -ly（副词后缀）→历史上地",
+            "phonetic": "hɪˈstɔr.ɪ.kə.li",
+            "pos": "adv.",
+            "word": "historically"
+        },
+        {
+            "collocations": [
+                "the famous prehistoric cave paintings：著名的史前山洞壁画"
+            ],
+            "definition": "史前的；有文字记载以前的",
+            "examples": [],
+            "frequency": 10556,
+            "mnemonic": "pre-（=before：在前的）+ historic（有史时期的）→在有史时期之前\n的→史前的；有文字记载以前的",
+            "phonetic": "ˌpriː.hɪˈstɔr.ɪk",
+            "pos": "adj.",
+            "word": "prehistoric"
+        },
+        {
+            "collocations": [
+                "writing history：编史；历史编纂学",
+                "Western historiography：西方历史学"
+            ],
+            "definition": "编史；历史编纂学",
+            "examples": [],
+            "frequency": 17984,
+            "mnemonic": "historio-（=historico-：历史）+ -graphy（写；记录）→the art of",
+            "phonetic": "ˌhɪ.stɔr.iˈɑ.ɡrə.fi",
+            "pos": "n.",
+            "word": "historiography"
+        }
+    ]
 }

@@ -1,295 +1,295 @@
 {
-  "chapter": "23",
-  "chapterOrder": 123,
-  "id": "plus",
-  "meaningZh": "多（元）的，额外的，附加的。",
-  "roots": [
-    "plus",
-    "plur",
-    "plet",
-    "poly"
-  ],
-  "semanticLabel": "多（元）的，额外的，附加的。",
-  "source": "textbook-5",
-  "titleZh": "多（元）的，额外的，附加的。",
-  "words": [
-    {
-      "collocations": [
-        "to repletion; filled; perfect, entire, utter,” from Proto-Germanic *fullaz",
-        "German fol, German voll, Old Norse fullr, Gothic fulls), from PIE root",
-        "The adverb is Old English ful “very, fully, entirely, completely” and was",
-        "common in Middle English (full well, full many, etc.); sense of “quite,",
-        "exactly, precisely” is from 1580s.",
-        "be full of clothes：满是衣服",
-        "her arms full of packages：她的怀里抱满了包裹",
-        "feel full of confidence：感到充满信心",
-        "make full use of：充分利用\nfull moon：满月",
-        "a full bottle of wine：一满瓶葡萄酒"
-      ],
-      "definition": "满的；满是……的（full of ）；（感到）饱的；满（某种感情或品质）的；充分的",
-      "examples": [],
-      "frequency": 504,
-      "mnemonic": "Old English full “containing all that can be received; having eaten or drunk",
-      "phonetic": "fʊl",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full"
-    },
-    {
-      "collocations": [
-        "be fully aware of my thoughts：完全了解了我的想法",
-        "fully recover：彻底康复",
-        "testify fully and truthfully：毫无保留地、如实地作证"
-      ],
-      "definition": "完全地；彻底地；充分地；足足",
-      "examples": [],
-      "frequency": 1504,
-      "mnemonic": "full（充分的）+ -ly（副词后缀）→完全地；彻底地；充分地",
-      "phonetic": "ˈfʊ.li",
-      "pos": "adv.",
-      "rootHint": "plus",
-      "word": "fully"
-    },
-    {
-      "collocations": [
-        "a full-time employee：全职雇员",
-        "students in full-time education：全日制学生",
-        "full-time job：专职工作\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "全职的（工作、学习）",
-      "examples": [],
-      "frequency": 3971,
-      "mnemonic": "full（充分的）+ time（时间）→全时间（工作、学习的）的→全职的",
-      "phonetic": "ˌfʊlˈtaɪm",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "full-time"
-    },
-    {
-      "collocations": [
-        "in the fullness of time：在适当时候，时机成熟时（尤指久待之后）"
-      ],
-      "definition": "丰满；（颜色）深浓；（声音）圆润；（味道）浓郁；完美；完全",
-      "examples": [
-        "High fibre diets give the feeling of fullness.\n高纤维饮食给人饱腹感。"
-      ],
-      "frequency": 14077,
-      "mnemonic": "full（满的）+ -ness（名词后缀）→丰满；完美；完全",
-      "phonetic": "ˈfʊl.nəs",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "fullness"
-    },
-    {
-      "collocations": [
-        "full-page advertisement：整页（版）广告"
-      ],
-      "definition": "整版；全屏",
-      "examples": [],
-      "frequency": 19532,
-      "mnemonic": "full（完整的）+ page（页面）→整版；全屏",
-      "phonetic": "ˌfʊlˈpeɪdʒ",
-      "rootHint": "plus",
-      "word": "full-page"
-    },
-    {
-      "collocations": [
-        "a full-scale attack：全面攻击",
-        "a full-scale model：原尺寸模型"
-      ],
-      "definition": "全面的，彻底的；原尺寸的（图画、模型）",
-      "examples": [],
-      "frequency": 11553,
-      "mnemonic": "full（充分的；完全的）+ scale（规模；范围；尺寸）→规模、范围、\n尺寸充分的、完全的→全面的，彻底的；原尺寸的（图画、模型）",
-      "phonetic": "ˌfʊlˈskeɪl",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full-scale"
-    },
-    {
-      "collocations": [
-        "turn into a full-blown crisis：已演变成全面危机",
-        "a full-blown director：一名完全成熟的导演",
-        "full-blown blossom：盛开的花"
-      ],
-      "definition": "具有所有特征的；成熟的",
-      "examples": [],
-      "frequency": 13027,
-      "mnemonic": "full（完全的，全面的）+ blown（植物或花）开花；开放）→盛开的\n→引申义为complete, fully developed：完全的；充分发展的→具有所",
-      "phonetic": "ˌfʊlˈbloʊn",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full-blown"
-    },
-    {
-      "collocations": [
-        "full-length recording：标准长度的唱片",
-        "full-length novel：长篇小说",
-        "full-length curtains or other furnishings：及地的窗帘或家具",
-        "a full-length mirror：全身镜",
-        "stretch herself out full-length：四肢完全伸展开"
-      ],
-      "definition": "标准长度的（书籍、唱片、影片）；长及小腿或脚踝的（衣、裙）；及地的（窗帘等）；全身的（镜子或画像） adv.完全伸展开地",
-      "examples": [],
-      "frequency": 13383,
-      "mnemonic": "full（完整的）+ length（长度）→长度完整的→标准长度的；全身",
-      "phonetic": "ˌfʊlˈlɛŋθ",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full-length"
-    },
-    {
-      "collocations": [
-        "a full-fledged market economy：成熟的市场经济",
-        "a fully-fledged nurse：经过训练的护士",
-        "a full-fledged member of the teaching profession：完全合格的教师"
-      ],
-      "definition": "成熟的；充分发展的；完全合格的",
-      "examples": [],
-      "frequency": 13167,
-      "mnemonic": "full（完全的；满的）+fledged（养（小鸟）到能飞的）→羽翼丰满的\n→成熟的；充分发展的；完全合格的",
-      "phonetic": "ˌfʊlˈflɛdʒd",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full-fledged"
-    },
-    {
-      "collocations": [],
-      "definition": "（美式橄榄球）攻击后卫；（足球或英式橄榄球）边后卫",
-      "examples": [],
-      "frequency": 16894,
-      "phonetic": "ˈfʊl.bæk",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "fullback"
-    },
-    {
-      "collocations": [
-        "full-service provider：全方位服务提供者"
-      ],
-      "definition": "提供全面服务的 n. 全方位服务",
-      "examples": [],
-      "frequency": 18153,
-      "mnemonic": "full（全面的）+ service（服务）→提供全面服务的；全方位服务",
-      "phonetic": "ˌfʊlˈsɝ.vɪs",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "full-service"
-    },
-    {
-      "collocations": [
-        "fill up：装满",
-        "fill me with awe and curiosity：使我充满了敬畏和好奇",
-        "fill the enormous work area：占满了庞大工作区"
-      ],
-      "definition": "&vi. 装满 vi. 占满 vt. 填平；充满；使充满（感情）",
-      "examples": [],
-      "frequency": 687,
-      "mnemonic": "full：“满的”动词形式→fill：装满；填平；充满",
-      "phonetic": "fɪl",
-      "pos": "vt.",
-      "rootHint": "plus",
-      "word": "fill"
-    },
-    {
-      "collocations": [
-        "fulfill his potential：实现他的潜能",
-        "fulfill her dream：完成她的梦想\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "履行；实现；完成",
-      "examples": [],
-      "frequency": 5501,
-      "mnemonic": "ful（=full：满）+ fill（装满）→填满；使充满→引申义为完成，履",
-      "phonetic": "fʊlˈfɪl",
-      "pos": "vt.",
-      "rootHint": "plus",
-      "word": "fulfill"
-    },
-    {
-      "collocations": [
-        "multiple fulfillment centers：多个履行中心",
-        "fulfillment of their due responsibility：履行他们应尽的责任",
-        "seek fulfillment：追求满足感"
-      ],
-      "definition": "履行；满足感；成就感",
-      "examples": [],
-      "frequency": 8887,
-      "mnemonic": "fulfill（履行；实现）+ -ment（名词后缀）→履行→引申义为履行、",
-      "phonetic": "fʊlˈfɪl.mənt",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "fulfillment"
-    },
-    {
-      "collocations": [
-        "unfulfilled ambitions / hopes / promises, etc.：未实现的抱负、希望、诺",
-        "feel unfulfilled and unappreciated：有一种壮志难酬、怀才不遇的感觉"
-      ],
-      "definition": "（愿望、梦想等）未实现的；壮志未酬的",
-      "examples": [],
-      "frequency": 17520,
-      "mnemonic": "un-（=not：不）+ fulfill（实现；完成）+ -ed（形容词后缀）→没有\n实现的；没有完成的→引申义为（愿望、梦想等）未实现的；壮志未",
-      "phonetic": "ˌʌnfʊlˈfɪld",
-      "pos": "adj.",
-      "rootHint": "plus",
-      "word": "unfulfilled"
-    },
-    {
-      "collocations": [
-        "the environmental costs of landfill：垃圾填埋法对环境的损害",
-        "modern landfills：现代垃圾填埋场"
-      ],
-      "definition": "垃圾填埋法；垃圾填埋场",
-      "examples": [],
-      "frequency": 6966,
-      "mnemonic": "land（土地）+ fill（装满）→使土地装满→用于指垃圾填埋场",
-      "phonetic": "ˈlænd.fɪl",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "landfill"
-    },
-    {
-      "collocations": [
-        "spread some of the filling over each pancake：将一些馅摊在每个煎饼上",
-        "old-style foam fillings：旧式海绵芯"
-      ],
-      "definition": "（补牙用的）填料；（糕点里的）馅；（软家具或垫子的）芯 adj. （食物）易使人饱的",
-      "examples": [
-        "Crab is very filling. 螃蟹很容易让人饱。"
-      ],
-      "frequency": 7377,
-      "mnemonic": "fill（填充）+ -ing（名词或形容词后缀）→填充之物→填料；馅；",
-      "phonetic": "ˈfɪlɪŋ",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "filling"
-    },
-    {
-      "collocations": [
-        "refill our wine glasses：重新斟满了我们的酒杯"
-      ],
-      "definition": "重新装满 n. 重新装满；补充剂",
-      "examples": [],
-      "frequency": 13253,
-      "mnemonic": "re-（重新）+ fill（装满）→重新装满",
-      "phonetic": "ˌɹiˈfɪl",
-      "pos": "vt.",
-      "rootHint": "plus",
-      "word": "refill"
-    },
-    {
-      "collocations": [
-        "reinforcing filler：增强填充料",
-        "filler material：填充材料\nfiller wall：填充墙"
-      ],
-      "definition": "填充物；填补空白之物",
-      "examples": [],
-      "frequency": 15240,
-      "mnemonic": "fill（填满）+ -er（名词后缀，形容人或物）→填充物；补空物",
-      "phonetic": "ˈfɪlɚ",
-      "pos": "n.",
-      "rootHint": "plus",
-      "word": "filler"
-    }
-  ]
+    "chapter": "23",
+    "chapterOrder": 123,
+    "id": "plus",
+    "meaningZh": "多（元）的，额外的，附加的。",
+    "roots": [
+        "plus",
+        "plur",
+        "plet",
+        "poly"
+    ],
+    "semanticLabel": "多（元）的，额外的，附加的。",
+    "source": "textbook-5",
+    "titleZh": "多（元）的，额外的，附加的。",
+    "words": [
+        {
+            "collocations": [
+                "to repletion; filled; perfect, entire, utter,” from Proto-Germanic *fullaz",
+                "German fol, German voll, Old Norse fullr, Gothic fulls), from PIE root",
+                "The adverb is Old English ful “very, fully, entirely, completely” and was",
+                "common in Middle English (full well, full many, etc.); sense of “quite,",
+                "exactly, precisely” is from 1580s.",
+                "be full of clothes：满是衣服",
+                "her arms full of packages：她的怀里抱满了包裹",
+                "feel full of confidence：感到充满信心",
+                "make full use of：充分利用\nfull moon：满月",
+                "a full bottle of wine：一满瓶葡萄酒"
+            ],
+            "definition": "满的；满是……的（full of ）；（感到）饱的；满（某种感情或品质）的；充分的",
+            "examples": [],
+            "frequency": 504,
+            "mnemonic": "Old English full “containing all that can be received; having eaten or drunk",
+            "phonetic": "fʊl",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full"
+        },
+        {
+            "collocations": [
+                "be fully aware of my thoughts：完全了解了我的想法",
+                "fully recover：彻底康复",
+                "testify fully and truthfully：毫无保留地、如实地作证"
+            ],
+            "definition": "完全地；彻底地；充分地；足足",
+            "examples": [],
+            "frequency": 1504,
+            "mnemonic": "full（充分的）+ -ly（副词后缀）→完全地；彻底地；充分地",
+            "phonetic": "ˈfʊ.li",
+            "pos": "adv.",
+            "rootHint": "plus",
+            "word": "fully"
+        },
+        {
+            "collocations": [
+                "a full-time employee：全职雇员",
+                "students in full-time education：全日制学生",
+                "full-time job：专职工作\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "全职的（工作、学习）",
+            "examples": [],
+            "frequency": 3971,
+            "mnemonic": "full（充分的）+ time（时间）→全时间（工作、学习的）的→全职的",
+            "phonetic": "ˌfʊlˈtaɪm",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "full-time"
+        },
+        {
+            "collocations": [
+                "in the fullness of time：在适当时候，时机成熟时（尤指久待之后）"
+            ],
+            "definition": "丰满；（颜色）深浓；（声音）圆润；（味道）浓郁；完美；完全",
+            "examples": [
+                "High fibre diets give the feeling of fullness.\n高纤维饮食给人饱腹感。"
+            ],
+            "frequency": 14077,
+            "mnemonic": "full（满的）+ -ness（名词后缀）→丰满；完美；完全",
+            "phonetic": "ˈfʊl.nəs",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "fullness"
+        },
+        {
+            "collocations": [
+                "full-page advertisement：整页（版）广告"
+            ],
+            "definition": "整版；全屏",
+            "examples": [],
+            "frequency": 19532,
+            "mnemonic": "full（完整的）+ page（页面）→整版；全屏",
+            "phonetic": "ˌfʊlˈpeɪdʒ",
+            "rootHint": "plus",
+            "word": "full-page"
+        },
+        {
+            "collocations": [
+                "a full-scale attack：全面攻击",
+                "a full-scale model：原尺寸模型"
+            ],
+            "definition": "全面的，彻底的；原尺寸的（图画、模型）",
+            "examples": [],
+            "frequency": 11553,
+            "mnemonic": "full（充分的；完全的）+ scale（规模；范围；尺寸）→规模、范围、\n尺寸充分的、完全的→全面的，彻底的；原尺寸的（图画、模型）",
+            "phonetic": "ˌfʊlˈskeɪl",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full-scale"
+        },
+        {
+            "collocations": [
+                "turn into a full-blown crisis：已演变成全面危机",
+                "a full-blown director：一名完全成熟的导演",
+                "full-blown blossom：盛开的花"
+            ],
+            "definition": "具有所有特征的；成熟的",
+            "examples": [],
+            "frequency": 13027,
+            "mnemonic": "full（完全的，全面的）+ blown（植物或花）开花；开放）→盛开的\n→引申义为complete, fully developed：完全的；充分发展的→具有所",
+            "phonetic": "ˌfʊlˈbloʊn",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full-blown"
+        },
+        {
+            "collocations": [
+                "full-length recording：标准长度的唱片",
+                "full-length novel：长篇小说",
+                "full-length curtains or other furnishings：及地的窗帘或家具",
+                "a full-length mirror：全身镜",
+                "stretch herself out full-length：四肢完全伸展开"
+            ],
+            "definition": "标准长度的（书籍、唱片、影片）；长及小腿或脚踝的（衣、裙）；及地的（窗帘等）；全身的（镜子或画像） adv.完全伸展开地",
+            "examples": [],
+            "frequency": 13383,
+            "mnemonic": "full（完整的）+ length（长度）→长度完整的→标准长度的；全身",
+            "phonetic": "ˌfʊlˈlɛŋθ",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full-length"
+        },
+        {
+            "collocations": [
+                "a full-fledged market economy：成熟的市场经济",
+                "a fully-fledged nurse：经过训练的护士",
+                "a full-fledged member of the teaching profession：完全合格的教师"
+            ],
+            "definition": "成熟的；充分发展的；完全合格的",
+            "examples": [],
+            "frequency": 13167,
+            "mnemonic": "full（完全的；满的）+fledged（养（小鸟）到能飞的）→羽翼丰满的\n→成熟的；充分发展的；完全合格的",
+            "phonetic": "ˌfʊlˈflɛdʒd",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full-fledged"
+        },
+        {
+            "collocations": [],
+            "definition": "（美式橄榄球）攻击后卫；（足球或英式橄榄球）边后卫",
+            "examples": [],
+            "frequency": 16894,
+            "phonetic": "ˈfʊl.bæk",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "fullback"
+        },
+        {
+            "collocations": [
+                "full-service provider：全方位服务提供者"
+            ],
+            "definition": "提供全面服务的 n. 全方位服务",
+            "examples": [],
+            "frequency": 18153,
+            "mnemonic": "full（全面的）+ service（服务）→提供全面服务的；全方位服务",
+            "phonetic": "ˌfʊlˈsɝ.vɪs",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "full-service"
+        },
+        {
+            "collocations": [
+                "fill up：装满",
+                "fill me with awe and curiosity：使我充满了敬畏和好奇",
+                "fill the enormous work area：占满了庞大工作区"
+            ],
+            "definition": "&vi. 装满 vi. 占满 vt. 填平；充满；使充满（感情）",
+            "examples": [],
+            "frequency": 687,
+            "mnemonic": "full：“满的”动词形式→fill：装满；填平；充满",
+            "phonetic": "fɪl",
+            "pos": "vt.",
+            "rootHint": "plus",
+            "word": "fill"
+        },
+        {
+            "collocations": [
+                "fulfill his potential：实现他的潜能",
+                "fulfill her dream：完成她的梦想\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "履行；实现；完成",
+            "examples": [],
+            "frequency": 5501,
+            "mnemonic": "ful（=full：满）+ fill（装满）→填满；使充满→引申义为完成，履",
+            "phonetic": "fʊlˈfɪl",
+            "pos": "vt.",
+            "rootHint": "plus",
+            "word": "fulfill"
+        },
+        {
+            "collocations": [
+                "multiple fulfillment centers：多个履行中心",
+                "fulfillment of their due responsibility：履行他们应尽的责任",
+                "seek fulfillment：追求满足感"
+            ],
+            "definition": "履行；满足感；成就感",
+            "examples": [],
+            "frequency": 8887,
+            "mnemonic": "fulfill（履行；实现）+ -ment（名词后缀）→履行→引申义为履行、",
+            "phonetic": "fʊlˈfɪl.mənt",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "fulfillment"
+        },
+        {
+            "collocations": [
+                "unfulfilled ambitions / hopes / promises, etc.：未实现的抱负、希望、诺",
+                "feel unfulfilled and unappreciated：有一种壮志难酬、怀才不遇的感觉"
+            ],
+            "definition": "（愿望、梦想等）未实现的；壮志未酬的",
+            "examples": [],
+            "frequency": 17520,
+            "mnemonic": "un-（=not：不）+ fulfill（实现；完成）+ -ed（形容词后缀）→没有\n实现的；没有完成的→引申义为（愿望、梦想等）未实现的；壮志未",
+            "phonetic": "ˌʌnfʊlˈfɪld",
+            "pos": "adj.",
+            "rootHint": "plus",
+            "word": "unfulfilled"
+        },
+        {
+            "collocations": [
+                "the environmental costs of landfill：垃圾填埋法对环境的损害",
+                "modern landfills：现代垃圾填埋场"
+            ],
+            "definition": "垃圾填埋法；垃圾填埋场",
+            "examples": [],
+            "frequency": 6966,
+            "mnemonic": "land（土地）+ fill（装满）→使土地装满→用于指垃圾填埋场",
+            "phonetic": "ˈlænd.fɪl",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "landfill"
+        },
+        {
+            "collocations": [
+                "spread some of the filling over each pancake：将一些馅摊在每个煎饼上",
+                "old-style foam fillings：旧式海绵芯"
+            ],
+            "definition": "（补牙用的）填料；（糕点里的）馅；（软家具或垫子的）芯 adj. （食物）易使人饱的",
+            "examples": [
+                "Crab is very filling. 螃蟹很容易让人饱。"
+            ],
+            "frequency": 7377,
+            "mnemonic": "fill（填充）+ -ing（名词或形容词后缀）→填充之物→填料；馅；",
+            "phonetic": "ˈfɪlɪŋ",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "filling"
+        },
+        {
+            "collocations": [
+                "refill our wine glasses：重新斟满了我们的酒杯"
+            ],
+            "definition": "重新装满 n. 重新装满；补充剂",
+            "examples": [],
+            "frequency": 13253,
+            "mnemonic": "re-（重新）+ fill（装满）→重新装满",
+            "phonetic": "ˌriːˈfɪl",
+            "pos": "vt.",
+            "rootHint": "plus",
+            "word": "refill"
+        },
+        {
+            "collocations": [
+                "reinforcing filler：增强填充料",
+                "filler material：填充材料\nfiller wall：填充墙"
+            ],
+            "definition": "填充物；填补空白之物",
+            "examples": [],
+            "frequency": 15240,
+            "mnemonic": "fill（填满）+ -er（名词后缀，形容人或物）→填充物；补空物",
+            "phonetic": "ˈfɪlɚ",
+            "pos": "n.",
+            "rootHint": "plus",
+            "word": "filler"
+        }
+    ]
 }

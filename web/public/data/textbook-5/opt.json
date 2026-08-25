@@ -1,602 +1,602 @@
 {
-  "chapter": "2",
-  "chapterOrder": 102,
-  "id": "opt",
-  "meaningEn": "眼睛，看见。与 eye",
-  "roots": [
-    "opt",
-    "ops",
-    "oc",
-    "oci",
-    "to see"
-  ],
-  "semanticLabel": "眼睛，看见。与 eye",
-  "source": "textbook-5",
-  "titleZh": "眼睛，看见。与 eye",
-  "words": [
-    {
-      "collocations": [
-        "the optic nerve：视神经",
-        "optic cable：光缆"
-      ],
-      "definition": "视觉的；视力的",
-      "etymology": "late 14c., optik,“of or pertaining to the eye as the organ of vision=与眼睛 作为一种视觉器官有关”。来自古法语optique, obtique （c. 1300）， 并且直接来自中世纪拉丁语opticus“of sight or seeing=视力或看 见”。来自希腊语optikos“of or having to do with sight=与拥有视觉有 关”。来自optos“seen, visible=看得见的”。与ōps “ eye=眼睛”有 感。来自词根okw-“to see=看见”。",
-      "examples": [],
-      "frequency": 15107,
-      "mnemonic": "op-（=eye：眼睛）+ t（无意义）+ -ic（形容词后缀）→视觉的；视",
-      "phonetic": "ˈɑp.tɪk",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "optic"
-    },
-    {
-      "collocations": [
-        "optical instrument：光学仪器",
-        "optical experiment：光学实验"
-      ],
-      "definition": "视力的；光学的",
-      "examples": [],
-      "frequency": 5569,
-      "mnemonic": "op-（=eye：眼睛；以前的眼睛是写作“ege”）+ t（无意义）+ -ical\n（复合形容词后缀）→视力的；光学的",
-      "phonetic": "ˈɑp.tɪ.kəl",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "optical"
-    },
-    {
-      "collocations": [
-        "the bedroom / car / kitchen, etc. window：卧室、汽车、厨房等的窗户",
-        "has gone out of the window / be out the window：（计划或某种思维或",
-        "transfer window：转会市场\n笔 记 区"
-      ],
-      "definition": "窗；窗口；窗户",
-      "etymology": "该于古代斯堪的纳维亚语vindauga （vindr ‘wind’+auga ‘eye’）， 亦即opening for air to enter（空气入口）之意。古代北欧人的房子只 有出烟孔和入气口，而没有现代建筑的窗户。人们为了采光和通气， 会在屋顶和墙壁上开凿一些细长的缝隙。长是为了多进光线和空气， 20000 词汇巅峰 速 记 窄是为了抵御恶劣天气，还可以抵御敌人的进攻。然而这种长形的 “窗子”与其说便于进光线，倒不如说便于进风，完全成了一个进风 口。因此，在北欧语中，人们将这种细长的缝隙称为vindauga，字面 意思就是eye for the wind或wind eye，风眼。",
-      "examples": [],
-      "frequency": 608,
-      "mnemonic": "to open / close the window：打开 / 关上窗户",
-      "phonetic": "ˈwɪn.doʊ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "window"
-    },
-    {
-      "collocations": [
-        "a tiny, windowless cell：一间没有窗户的小房间"
-      ],
-      "definition": "无窗的",
-      "examples": [],
-      "frequency": 16691,
-      "mnemonic": "window（窗户）+ -less（lacking：缺少的）→缺少窗户的→无窗的",
-      "phonetic": "ˈwɪn.doʊ.ləs",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "windowless"
-    },
-    {
-      "collocations": [
-        "a sunny windowsill：一个阳光充足的窗台上"
-      ],
-      "definition": "窗沿；窗台",
-      "examples": [],
-      "frequency": 14714,
-      "mnemonic": "window（窗户）+ sill（窗台；门槛）→窗沿；窗台",
-      "phonetic": "ˈwɪn.doʊ.sɪl",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "windowsill"
-    },
-    {
-      "collocations": [
-        "from Latin atrocitatem (nominative atrocitas) “cruelty, fierceness,\nharshness,” noun of quality from atrox “fierce, cruel, frightful”，含义\n为激烈的，可怕的，恐怖的。来自词根atro-ek-, 来自词根ater- “fire”\n（火）+root *okw- “to see”（看见）；thus “of fiery or threatening\nappearance.” The meaning “an atrocious deed” is from 1793.",
-        "commit this atrocity：犯下此暴行"
-      ],
-      "definition": "（尤指战争中的）残暴行为",
-      "etymology": "1530s, “enormous wickedness,” from Middle French atrocité or directly",
-      "examples": [],
-      "frequency": 8195,
-      "mnemonic": "atr-（=fire：火）+ -oc（=to see：看见）+ -ity（名词后缀）→燃烧般\n的、威胁性的行为→残暴行为",
-      "phonetic": "əˈtɹɑsəti",
-      "pos": "n.",
-      "rootHint": "oci",
-      "word": "atrocity"
-    },
-    {
-      "collocations": [
-        "autopsia, from Greek autopsia “a seeing with one’s own eyes,” from autos-",
-        "Autopsic; autoptic. As a verb by 1895.",
-        "an autopsy report：验尸报告",
-        "to perform an autopsy：进行尸体剖验"
-      ],
-      "definition": "验尸；尸体解剖",
-      "etymology": "1650s, “an eye-witnessing, a seeing for oneself,” from Modern Latin 20000 词汇巅峰 速 记 笔 记 区 “self” (see auto-) + opsis “a sight” (from PIE root *okw- “to see”). Sense of “dissection of a body to determine cause of death” is first recorded 1670s, probably from the same sense in French autopsie (1570s). Related:",
-      "examples": [],
-      "frequency": 7919,
-      "mnemonic": "auto-（=self：自己的；亲自的）+ ops-（=a sight：看见）+ -y（名词\n后缀）→为查明死因，自己亲自查看尸体→验尸；尸体解剖",
-      "phonetic": "ˈɔˌtɑpsi",
-      "pos": "n.",
-      "rootHint": "ops",
-      "word": "autopsy"
-    },
-    {
-      "collocations": [
-        "is seldom seen. Related: Ferociously; ferociousness.",
-        "a ferocious beast / attack / storm：猛兽；猛烈的进攻；狂风暴雨",
-        "a man driven by ferocious determination：为强烈的决心所驱使的人"
-      ],
-      "definition": "凶猛的；残暴的；激烈的",
-      "etymology": "1640s, from Latin ferocis, oblique case of ferox “fierce, wild-looking,” from ferus “wild” (from PIE root *ghwer- “wild beast”)+-ox (genitive -ocis), a suffix meaning “looking or appearing” (cognate with Greek ōps “eye, sight;” from PIE root *okw- “to see”). Alternative ferocient (1650s)",
-      "examples": [],
-      "frequency": 11486,
-      "mnemonic": "fer-（=wild：狂暴的；野生的）+ -oci（=looking, appearing：看起\n来）+ -ous（形容词后缀，充满……的）→看起来狂暴的；野生的→",
-      "phonetic": "fəˈɹoʊʃəs",
-      "pos": "adj.",
-      "rootHint": "oci",
-      "word": "ferocious"
-    },
-    {
-      "collocations": [
-        "the ferocity of the attack：猛烈的进攻"
-      ],
-      "definition": "残暴；猛烈",
-      "examples": [],
-      "frequency": 16618,
-      "mnemonic": "feroc（=fierce：激烈的）+ -ity（名词后缀）→残暴；猛烈",
-      "phonetic": "fəˈɹɑsəti",
-      "pos": "n.",
-      "rootHint": "oci",
-      "word": "ferocity"
-    },
-    {
-      "collocations": [
-        "and cultivated in gardens, c. 1300, daiseie, from Old English dægesege,",
-        "and close at dusk. In Medieval Latin it was solis oculus “sun’s eye.” The",
-        "use of dais eye for “the sun” is attested from early 15c. 雏菊的花心像太\n20000 词汇巅峰\n速\n记\n阳，花瓣像太阳的光芒，因此又被称为小小向日葵。传说它的花瓣清\n晨绽放，傍晚闭合，因此人们称它为day’s eye（白天的眼睛），后来\n演变为daisy。",
-        "daisy chain：雏菊花环",
-        "African daisy：非洲雏菊\n笔 记 区\n雏菊"
-      ],
-      "definition": "雏菊",
-      "etymology": "Common wildflower of Europe, growing in pastures and on mountainsides from dæges eage “day’s eye;”. So called because the petals open at dawn",
-      "examples": [],
-      "frequency": 12791,
-      "phonetic": "ˈdeɪ.zi",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "daisy"
-    },
-    {
-      "collocations": [
-        "auntiler, Old French antoillier (14c., Modern French andouiller) “antler,”",
-        "which is perhaps from Gallo-Roman cornu *antoculare “horn in front of\nthe eyes”.",
-        "deer antler：鹿的叉角"
-      ],
-      "definition": "鹿角",
-      "etymology": "ant-（=before：前边）+-ler（=ocular=of the eyes：眼睛的；视觉的）",
-      "examples": [],
-      "frequency": 12476,
-      "mnemonic": "late 14c., “first tine or branch of the horns of a deer,” from Anglo-French\n→在眼睛前边的角→鹿角",
-      "phonetic": "ˈæntlɚ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "antler"
-    },
-    {
-      "collocations": [
-        "inoculate every child：给每个孩子接种疫苗"
-      ],
-      "definition": "给……预防接种；打预防针",
-      "examples": [],
-      "frequency": 18821,
-      "mnemonic": "in-（=in：进入）+ -ocul（=bud, eye：芽；苞；眼睛）+ -ate（动词后\n缀）→把一种植物的芽孢种植到另外一种植物中→植入一种疾病的致\n病菌以产生免疫力→给……预防接种；打预防针",
-      "phonetic": "ɪˈnɑ.kjə.leɪt",
-      "pos": "vt.",
-      "rootHint": "opt",
-      "word": "inoculate"
-    },
-    {
-      "collocations": [
-        "from Greek synopsis “a general view,” literally “a seeing altogether, a",
-        "seeing all at once”.",
-        "a brief synopsis of the book：一个该书的简短提要",
-        "see 表示“看见”"
-      ],
-      "definition": "概要，大纲",
-      "etymology": "1610s, “a general view, an outline,” from Late Latin synopsis “a synopsis,” 20000 词汇巅峰 速 记 笔 记 区",
-      "examples": [],
-      "frequency": 19885,
-      "mnemonic": "syn- （=altogether：整个）+ -opsis（=sight, appearance：看见；外\n表）→整体来看，全视图，概貌→概要；大纲",
-      "phonetic": "sɪˈnɑp.sɪs",
-      "pos": "n.",
-      "rootHint": "ops",
-      "word": "synopsis"
-    },
-    {
-      "collocations": [
-        "experience, visit, inspect” (contracted class V strong verb; past tense seah,",
-        "past participle sewen), from Proto-Germanic *sehwanan (source also of",
-        "Old Saxon, Old High German sehan, Middle High German, German sehen,",
-        "Old Frisian sia, Middle Dutch sien, Old Norse sja, Gothic saihwan), from\nPIE root *sekw- (2) “to see”.",
-        "can’t see colors at night：在夜间看不见颜色"
-      ],
-      "definition": "&vi. 看见；看出 vt. 观看；明白；认为",
-      "etymology": "Old English seon “to see, look, behold; observe, perceive, understand;",
-      "examples": [],
-      "frequency": 67,
-      "phonetic": "si",
-      "pos": "vt.",
-      "rootHint": "opt",
-      "word": "see"
-    },
-    {
-      "collocations": [
-        "seeing eye：导盲犬"
-      ],
-      "definition": "视觉；观看；看见",
-      "examples": [],
-      "frequency": 17987,
-      "phonetic": "ˈsiɪŋ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "seeing"
-    },
-    {
-      "collocations": [
-        "unseen forces：无形的力量 unseen dangers：未预见的危险"
-      ],
-      "definition": "久未见过的；看不见的",
-      "examples": [],
-      "frequency": 8164,
-      "phonetic": "ˌʌnˈsin",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "unseen"
-    },
-    {
-      "collocations": [
-        "could not have been foreseen：始料未及的"
-      ],
-      "definition": "预知；预见，预料",
-      "examples": [],
-      "frequency": 7747,
-      "mnemonic": "fore-（=before：之前）+see（看见）→在看见之前就已经知道……会\n发生→预知；预见",
-      "phonetic": "fɔɹˈsi",
-      "pos": "vt.",
-      "rootHint": "opt",
-      "word": "foresee"
-    },
-    {
-      "collocations": [
-        "for / in the foreseeable future：在可预见的将来",
-        "foreseeable risk：可预料的风险\n笔 记 区"
-      ],
-      "definition": "能预测的；可预知的",
-      "examples": [],
-      "frequency": 11928,
-      "mnemonic": "foresee（预知）+ -able（能够……的）→可预知的",
-      "phonetic": "fɔɹˈsiəbəl",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "foreseeable"
-    },
-    {
-      "collocations": [
-        "unforeseen circumstances / events / changes etc.：意料之外的情况 / 事件 /",
-        "unforeseen problems / difficulties / delays：未预见到的问题 / 困难 / 延误\n单词 sight 表示“看见”，与 see 同源。"
-      ],
-      "definition": "出乎意料的；未预见到的",
-      "examples": [],
-      "frequency": 15852,
-      "mnemonic": "un-（=not：不）+ foreseen（预见，foresee的过去分词形式）→为预",
-      "phonetic": "ˌʌnfɔɹˈsin",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "unforeseen"
-    },
-    {
-      "collocations": [
-        "vision; apparition.”",
-        "catch sight of：瞬间内突然看见某人",
-        "in sight / within sight：看得见 / 看不见",
-        "set sights on：以某事为奋斗目标",
-        "have something in sights / have someone in sights：志在取得某事；决意\n抓获、打败或征服某人",
-        "sight 的派生词有 sighted, sighting, insight, insightful, sightseeing, eyesight,",
-        "foresight, hindsight 等。"
-      ],
-      "definition": "视力；看见；景象；风景（复数） vt. （在一瞬间）突然看见",
-      "etymology": "Old English sihð, gesiht, gesihð “thing seen; faculty of sight; aspect;",
-      "examples": [],
-      "frequency": 1638,
-      "mnemonic": "来自古英语sihð, gesiht, gesihð，表示所见之物，视野，视觉。",
-      "phonetic": "saɪt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "sight"
-    },
-    {
-      "collocations": [
-        "partially sighted：有部分视力的",
-        "short-sighted：近视的",
-        "long-sighted：远视的"
-      ],
-      "definition": "看得见的；有视力的",
-      "examples": [],
-      "frequency": 19239,
-      "phonetic": "ˈsaɪtɪd",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "sighted"
-    },
-    {
-      "collocations": [
-        "the sighting of a rare sea bird at ...：在某地见到一种珍稀海鸟"
-      ],
-      "definition": "看见；目睹（不寻常或短暂出现的事物）",
-      "examples": [],
-      "frequency": 9288,
-      "phonetic": "ˈsaɪtɪŋ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "sighting"
-    },
-    {
-      "collocations": [
-        "keen insight into the nature of technology：对技术本质的敏锐洞察",
-        "considerable insight：非凡的洞察力",
-        "gain an insight into：看透，识破"
-      ],
-      "definition": "深刻见解；洞察力，洞悉",
-      "examples": [],
-      "frequency": 2863,
-      "mnemonic": "in-（向内；深入）+ sight（看；见解）→深入看（见解）→深刻见",
-      "phonetic": "ˈɪn.saɪt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "insight"
-    },
-    {
-      "collocations": [
-        "insightful observations：颇有见地的看法",
-        "insightful knowledge：有见地的知识"
-      ],
-      "definition": "有深刻见解的；富有洞察力的",
-      "examples": [],
-      "frequency": 13036,
-      "phonetic": "ˈɪn.saɪt.fəl",
-      "pos": "adj.",
-      "rootHint": "opt",
-      "word": "insightful"
-    },
-    {
-      "collocations": [
-        "go sightseeing：去观光"
-      ],
-      "definition": "观光；游览",
-      "examples": [],
-      "frequency": 16740,
-      "mnemonic": "sight（景象；风景）+ see（看）+ -ing（名词后缀）→看风景→观",
-      "phonetic": "ˈsaɪtˌsiɪŋ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "sightseeing"
-    },
-    {
-      "collocations": [
-        "to have good / bad / poor eyesight：视力好/不好/差",
-        "an eyesight test：视力测试"
-      ],
-      "definition": "视力；目力",
-      "examples": [],
-      "frequency": 15144,
-      "mnemonic": "eye（眼睛）+ sight（视力；看见）→眼睛能看见的能力→视力；目",
-      "phonetic": "ˈaɪsaɪt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "eyesight"
-    },
-    {
-      "collocations": [
-        "lack of foresight：缺乏远见",
-        "the foresight to invest in ...：投资……的远见\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "先见之明；预见；深谋远虑",
-      "examples": [],
-      "frequency": 14847,
-      "mnemonic": "fore-（在前）+ sight（看；视野）→insight obtained beforehand：事情\n未发生之前获得的视野和看见→先见之明；深谋远虑",
-      "phonetic": "ˈfɔɹsaɪt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "foresight"
-    },
-    {
-      "collocations": [
-        "hindsight effect：事后诸葛效应",
-        "on hindsight：赫然回想\n笔 记 区\n单词“view：看，观看”有关（-iew 组合发元音，和 -vis 中的 i 功能一样，s，\nd 无意义）。",
-        "Proto-Indo-European root meaning “to see.”",
-        "It is the hypothetical source of/evidence for its existence is provided by:",
-        "Sanskrit veda “I know;” Avestan vaeda “I know;” Greek oida, Doric woida"
-      ],
-      "definition": "事后聪明；事后的领悟",
-      "etymology": "*weid- “I know,” idein “to see;” Old Irish fis “vision,” find “white,” i.e. “clearly seen,” fiuss “knowledge;” Welsh gwyn, Gaulish vindos, Breton gwenn “white;” Gothic, Old Swedish, Old English witan “to know;” Gothic weitan “to see;” English wise, German wissen “to know;” Lithuanian vysti “to see;” Bulgarian vidya “I see;” Polish widzieć “to see,” wiedzieć “to know;” Russian videt’ “to see,” vest’ “news,” Old Russian vedat’ “to know.” 单词 view 表示“观点，景色，看到”。",
-      "examples": [],
-      "frequency": 11429,
-      "mnemonic": "hind（后面的）+ sight（看）→事情发生之后看见、领悟的→事后聪",
-      "phonetic": "ˈhaɪnd.saɪt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "hindsight"
-    },
-    {
-      "collocations": [
-        "brightness; look, appearance; eyesight, vision,” noun use of fem. past",
-        "participle of veoir “to see,” from Latin videre “to see” (from PIE root",
-        "in a certain way;” from 1935 as “to watch television.” Related: Viewed;",
-        "in my view：在我看来",
-        "in view of：鉴于；考虑到",
-        "with a view to：目的在于\non view：在展出"
-      ],
-      "definition": "观点；景色；看到 vt. 看待；察看；观看",
-      "etymology": "n. early 15c., “formal inspection or survey” (of land); mid-15c., “visual perception,” from Anglo-French vewe “view,” Old French veue “light, *weid- “to see”). Sense of “manner of regarding something” attested from early 15c. Meaning “sight or prospect of a landscape, etc.” is recorded from c. 1600. 20000 词汇巅峰 速 记 笔 记 区 v. 1520s, “inspect, examine,” from view （n.）. From 1765 as “to regard viewing.",
-      "examples": [],
-      "frequency": 486,
-      "phonetic": "vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "view"
-    },
-    {
-      "collocations": [
-        "the art object and the viewer：艺术品和观赏者"
-      ],
-      "definition": "电视观众；观赏者",
-      "examples": [],
-      "frequency": 2500,
-      "phonetic": "ˈvjuɚ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "viewer"
-    },
-    {
-      "collocations": [
-        "viewing window：观景窗"
-      ],
-      "definition": "观看；观景",
-      "examples": [],
-      "frequency": 6941,
-      "phonetic": "ˈvjuɪŋ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "viewing"
-    },
-    {
-      "collocations": [
-        "have her own viewpoint：有她自己的视角"
-      ],
-      "definition": "观点；视角",
-      "examples": [],
-      "frequency": 6167,
-      "mnemonic": "view（观看）+ point（点）→观看的点→观点；视角",
-      "phonetic": "ˈvjuˌpɔɪnt",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "viewpoint"
-    },
-    {
-      "collocations": [
-        "the press preview of the show：该节目的媒体试映",
-        "a sneak preview of the new fashions for autumn：秋季新时装的内部预展",
-        "preview the exhibition：参观预展",
-        "preview their new album：预演新专辑中的曲目"
-      ],
-      "definition": "（戏剧、电影等的）预演，预映；（电影、电视节目等的）预告（片） vt. 预看；预演",
-      "examples": [],
-      "frequency": 7665,
-      "mnemonic": "pre-（=before：早于；预先）+ view（看）→预先看，比观众看到的\n早→预演；预告；预看",
-      "phonetic": "ˈpɹi.vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "preview"
-    },
-    {
-      "collocations": [
-        "exclusive interview：独家采访"
-      ],
-      "definition": "面试；采访 vt. 对……面试；采访；询问",
-      "examples": [],
-      "frequency": 947,
-      "mnemonic": "inter-（=between：相互）+ view（看到）→相互看→面试；采访",
-      "phonetic": "ˈɪn.tɚ.vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "interview"
-    },
-    {
-      "collocations": [],
-      "definition": "参加面试者；接受采访者",
-      "examples": [],
-      "frequency": 15133,
-      "mnemonic": "interview（面试；采访）+ -ee（名词后缀，表示动作的承受者）→被\n面试的人→参加面试者；接受采访者",
-      "phonetic": "ˌɪn.tɚ.vjuˈi",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "interviewee"
-    },
-    {
-      "collocations": [],
-      "definition": "进行面试者；采访者",
-      "examples": [],
-      "frequency": 7964,
-      "mnemonic": "interview（面试；采访）+ -er（名词后缀，表示动作的主动者）→进",
-      "phonetic": "ˈɪn.tɚ.vju.ɚ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "interviewer"
-    },
-    {
-      "collocations": [
-        "rearview mirror：（车辆）后视镜"
-      ],
-      "definition": "后视镜",
-      "examples": [],
-      "frequency": 11244,
-      "mnemonic": "rear（后面）+ view（看）→可以看到后面的镜子→后视镜",
-      "phonetic": "ˈɹɪɹ.vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "rearview"
-    },
-    {
-      "collocations": [
-        "order a review of：下令对……进行一次审查",
-        "review the situation：审度了局势",
-        "literature review：文献综述"
-      ],
-      "definition": "&vi. 复习 vt. 对（新作品）作评论；审裁；审度 n. （上级的）审查；评论；复习",
-      "examples": [],
-      "frequency": 1391,
-      "mnemonic": "re-（再）+ view（看）→再看一遍→复习；评论；审查",
-      "phonetic": "ɹɪ.ˈvju",
-      "pos": "vt.",
-      "rootHint": "opt",
-      "word": "review"
-    },
-    {
-      "collocations": [
-        "outstanding reviewer：优秀审稿人"
-      ],
-      "definition": "评论员；评论家",
-      "examples": [],
-      "frequency": 8454,
-      "phonetic": "ɹɪ.ˈvju.ɚ",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "reviewer"
-    },
-    {
-      "collocations": [
-        "a complete worldview：完整的世界观"
-      ],
-      "definition": "世界观",
-      "examples": [],
-      "frequency": 10144,
-      "mnemonic": "world（世界）+ view（观点）→有关世界的观点→世界观",
-      "phonetic": "ˈwɝld.vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "worldview"
-    },
-    {
-      "collocations": [
-        "within / outside the purview of sb. / sth.：在某人 / 某物的范围（权限）",
-        "within the purview of the Department of Health：属于卫生部的管辖范围",
-        "beyond the purview of the court：超出了法庭的受理范畴"
-      ],
-      "definition": "（组织或活动的）范围，权限",
-      "examples": [],
-      "frequency": 18275,
-      "mnemonic": "pur-（=pro-：向前）+ view（看）→向前看的范围，界限→视野；见\n识→引申义为（组织或活动的）范围，权限",
-      "phonetic": "ˈpɝ.vju",
-      "pos": "n.",
-      "rootHint": "opt",
-      "word": "purview"
-    }
-  ]
+    "chapter": "2",
+    "chapterOrder": 102,
+    "id": "opt",
+    "meaningEn": "眼睛，看见。与 eye",
+    "roots": [
+        "opt",
+        "ops",
+        "oc",
+        "oci",
+        "to see"
+    ],
+    "semanticLabel": "眼睛，看见。与 eye",
+    "source": "textbook-5",
+    "titleZh": "眼睛，看见。与 eye",
+    "words": [
+        {
+            "collocations": [
+                "the optic nerve：视神经",
+                "optic cable：光缆"
+            ],
+            "definition": "视觉的；视力的",
+            "etymology": "late 14c., optik,“of or pertaining to the eye as the organ of vision=与眼睛 作为一种视觉器官有关”。来自古法语optique, obtique （c. 1300）， 并且直接来自中世纪拉丁语opticus“of sight or seeing=视力或看 见”。来自希腊语optikos“of or having to do with sight=与拥有视觉有 关”。来自optos“seen, visible=看得见的”。与ōps “ eye=眼睛”有 感。来自词根okw-“to see=看见”。",
+            "examples": [],
+            "frequency": 15107,
+            "mnemonic": "op-（=eye：眼睛）+ t（无意义）+ -ic（形容词后缀）→视觉的；视",
+            "phonetic": "ˈɑp.tɪk",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "optic"
+        },
+        {
+            "collocations": [
+                "optical instrument：光学仪器",
+                "optical experiment：光学实验"
+            ],
+            "definition": "视力的；光学的",
+            "examples": [],
+            "frequency": 5569,
+            "mnemonic": "op-（=eye：眼睛；以前的眼睛是写作“ege”）+ t（无意义）+ -ical\n（复合形容词后缀）→视力的；光学的",
+            "phonetic": "ˈɑp.tɪ.kəl",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "optical"
+        },
+        {
+            "collocations": [
+                "the bedroom / car / kitchen, etc. window：卧室、汽车、厨房等的窗户",
+                "has gone out of the window / be out the window：（计划或某种思维或",
+                "transfer window：转会市场\n笔 记 区"
+            ],
+            "definition": "窗；窗口；窗户",
+            "etymology": "该于古代斯堪的纳维亚语vindauga （vindr ‘wind’+auga ‘eye’）， 亦即opening for air to enter（空气入口）之意。古代北欧人的房子只 有出烟孔和入气口，而没有现代建筑的窗户。人们为了采光和通气， 会在屋顶和墙壁上开凿一些细长的缝隙。长是为了多进光线和空气， 20000 词汇巅峰 速 记 窄是为了抵御恶劣天气，还可以抵御敌人的进攻。然而这种长形的 “窗子”与其说便于进光线，倒不如说便于进风，完全成了一个进风 口。因此，在北欧语中，人们将这种细长的缝隙称为vindauga，字面 意思就是eye for the wind或wind eye，风眼。",
+            "examples": [],
+            "frequency": 608,
+            "mnemonic": "to open / close the window：打开 / 关上窗户",
+            "phonetic": "ˈwɪn.doʊ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "window"
+        },
+        {
+            "collocations": [
+                "a tiny, windowless cell：一间没有窗户的小房间"
+            ],
+            "definition": "无窗的",
+            "examples": [],
+            "frequency": 16691,
+            "mnemonic": "window（窗户）+ -less（lacking：缺少的）→缺少窗户的→无窗的",
+            "phonetic": "ˈwɪn.doʊ.ləs",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "windowless"
+        },
+        {
+            "collocations": [
+                "a sunny windowsill：一个阳光充足的窗台上"
+            ],
+            "definition": "窗沿；窗台",
+            "examples": [],
+            "frequency": 14714,
+            "mnemonic": "window（窗户）+ sill（窗台；门槛）→窗沿；窗台",
+            "phonetic": "ˈwɪn.doʊ.sɪl",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "windowsill"
+        },
+        {
+            "collocations": [
+                "from Latin atrocitatem (nominative atrocitas) “cruelty, fierceness,\nharshness,” noun of quality from atrox “fierce, cruel, frightful”，含义\n为激烈的，可怕的，恐怖的。来自词根atro-ek-, 来自词根ater- “fire”\n（火）+root *okw- “to see”（看见）；thus “of fiery or threatening\nappearance.” The meaning “an atrocious deed” is from 1793.",
+                "commit this atrocity：犯下此暴行"
+            ],
+            "definition": "（尤指战争中的）残暴行为",
+            "etymology": "1530s, “enormous wickedness,” from Middle French atrocité or directly",
+            "examples": [],
+            "frequency": 8195,
+            "mnemonic": "atr-（=fire：火）+ -oc（=to see：看见）+ -ity（名词后缀）→燃烧般\n的、威胁性的行为→残暴行为",
+            "phonetic": "əˈtrɑsətiː",
+            "pos": "n.",
+            "rootHint": "oci",
+            "word": "atrocity"
+        },
+        {
+            "collocations": [
+                "autopsia, from Greek autopsia “a seeing with one’s own eyes,” from autos-",
+                "Autopsic; autoptic. As a verb by 1895.",
+                "an autopsy report：验尸报告",
+                "to perform an autopsy：进行尸体剖验"
+            ],
+            "definition": "验尸；尸体解剖",
+            "etymology": "1650s, “an eye-witnessing, a seeing for oneself,” from Modern Latin 20000 词汇巅峰 速 记 笔 记 区 “self” (see auto-) + opsis “a sight” (from PIE root *okw- “to see”). Sense of “dissection of a body to determine cause of death” is first recorded 1670s, probably from the same sense in French autopsie (1570s). Related:",
+            "examples": [],
+            "frequency": 7919,
+            "mnemonic": "auto-（=self：自己的；亲自的）+ ops-（=a sight：看见）+ -y（名词\n后缀）→为查明死因，自己亲自查看尸体→验尸；尸体解剖",
+            "phonetic": "ˈɔˌtɑpsiː",
+            "pos": "n.",
+            "rootHint": "ops",
+            "word": "autopsy"
+        },
+        {
+            "collocations": [
+                "is seldom seen. Related: Ferociously; ferociousness.",
+                "a ferocious beast / attack / storm：猛兽；猛烈的进攻；狂风暴雨",
+                "a man driven by ferocious determination：为强烈的决心所驱使的人"
+            ],
+            "definition": "凶猛的；残暴的；激烈的",
+            "etymology": "1640s, from Latin ferocis, oblique case of ferox “fierce, wild-looking,” from ferus “wild” (from PIE root *ghwer- “wild beast”)+-ox (genitive -ocis), a suffix meaning “looking or appearing” (cognate with Greek ōps “eye, sight;” from PIE root *okw- “to see”). Alternative ferocient (1650s)",
+            "examples": [],
+            "frequency": 11486,
+            "mnemonic": "fer-（=wild：狂暴的；野生的）+ -oci（=looking, appearing：看起\n来）+ -ous（形容词后缀，充满……的）→看起来狂暴的；野生的→",
+            "phonetic": "fəˈroʊʃəs",
+            "pos": "adj.",
+            "rootHint": "oci",
+            "word": "ferocious"
+        },
+        {
+            "collocations": [
+                "the ferocity of the attack：猛烈的进攻"
+            ],
+            "definition": "残暴；猛烈",
+            "examples": [],
+            "frequency": 16618,
+            "mnemonic": "feroc（=fierce：激烈的）+ -ity（名词后缀）→残暴；猛烈",
+            "phonetic": "fəˈrɑsətiː",
+            "pos": "n.",
+            "rootHint": "oci",
+            "word": "ferocity"
+        },
+        {
+            "collocations": [
+                "and cultivated in gardens, c. 1300, daiseie, from Old English dægesege,",
+                "and close at dusk. In Medieval Latin it was solis oculus “sun’s eye.” The",
+                "use of dais eye for “the sun” is attested from early 15c. 雏菊的花心像太\n20000 词汇巅峰\n速\n记\n阳，花瓣像太阳的光芒，因此又被称为小小向日葵。传说它的花瓣清\n晨绽放，傍晚闭合，因此人们称它为day’s eye（白天的眼睛），后来\n演变为daisy。",
+                "daisy chain：雏菊花环",
+                "African daisy：非洲雏菊\n笔 记 区\n雏菊"
+            ],
+            "definition": "雏菊",
+            "etymology": "Common wildflower of Europe, growing in pastures and on mountainsides from dæges eage “day’s eye;”. So called because the petals open at dawn",
+            "examples": [],
+            "frequency": 12791,
+            "phonetic": "ˈdeɪ.zi",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "daisy"
+        },
+        {
+            "collocations": [
+                "auntiler, Old French antoillier (14c., Modern French andouiller) “antler,”",
+                "which is perhaps from Gallo-Roman cornu *antoculare “horn in front of\nthe eyes”.",
+                "deer antler：鹿的叉角"
+            ],
+            "definition": "鹿角",
+            "etymology": "ant-（=before：前边）+-ler（=ocular=of the eyes：眼睛的；视觉的）",
+            "examples": [],
+            "frequency": 12476,
+            "mnemonic": "late 14c., “first tine or branch of the horns of a deer,” from Anglo-French\n→在眼睛前边的角→鹿角",
+            "phonetic": "ˈæntlɚ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "antler"
+        },
+        {
+            "collocations": [
+                "inoculate every child：给每个孩子接种疫苗"
+            ],
+            "definition": "给……预防接种；打预防针",
+            "examples": [],
+            "frequency": 18821,
+            "mnemonic": "in-（=in：进入）+ -ocul（=bud, eye：芽；苞；眼睛）+ -ate（动词后\n缀）→把一种植物的芽孢种植到另外一种植物中→植入一种疾病的致\n病菌以产生免疫力→给……预防接种；打预防针",
+            "phonetic": "ɪˈnɑ.kjə.leɪt",
+            "pos": "vt.",
+            "rootHint": "opt",
+            "word": "inoculate"
+        },
+        {
+            "collocations": [
+                "from Greek synopsis “a general view,” literally “a seeing altogether, a",
+                "seeing all at once”.",
+                "a brief synopsis of the book：一个该书的简短提要",
+                "see 表示“看见”"
+            ],
+            "definition": "概要，大纲",
+            "etymology": "1610s, “a general view, an outline,” from Late Latin synopsis “a synopsis,” 20000 词汇巅峰 速 记 笔 记 区",
+            "examples": [],
+            "frequency": 19885,
+            "mnemonic": "syn- （=altogether：整个）+ -opsis（=sight, appearance：看见；外\n表）→整体来看，全视图，概貌→概要；大纲",
+            "phonetic": "sɪˈnɑp.sɪs",
+            "pos": "n.",
+            "rootHint": "ops",
+            "word": "synopsis"
+        },
+        {
+            "collocations": [
+                "experience, visit, inspect” (contracted class V strong verb; past tense seah,",
+                "past participle sewen), from Proto-Germanic *sehwanan (source also of",
+                "Old Saxon, Old High German sehan, Middle High German, German sehen,",
+                "Old Frisian sia, Middle Dutch sien, Old Norse sja, Gothic saihwan), from\nPIE root *sekw- (2) “to see”.",
+                "can’t see colors at night：在夜间看不见颜色"
+            ],
+            "definition": "&vi. 看见；看出 vt. 观看；明白；认为",
+            "etymology": "Old English seon “to see, look, behold; observe, perceive, understand;",
+            "examples": [],
+            "frequency": 67,
+            "phonetic": "si",
+            "pos": "vt.",
+            "rootHint": "opt",
+            "word": "see"
+        },
+        {
+            "collocations": [
+                "seeing eye：导盲犬"
+            ],
+            "definition": "视觉；观看；看见",
+            "examples": [],
+            "frequency": 17987,
+            "phonetic": "ˈsiːɪŋ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "seeing"
+        },
+        {
+            "collocations": [
+                "unseen forces：无形的力量 unseen dangers：未预见的危险"
+            ],
+            "definition": "久未见过的；看不见的",
+            "examples": [],
+            "frequency": 8164,
+            "phonetic": "ˌʌnˈsiːn",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "unseen"
+        },
+        {
+            "collocations": [
+                "could not have been foreseen：始料未及的"
+            ],
+            "definition": "预知；预见，预料",
+            "examples": [],
+            "frequency": 7747,
+            "mnemonic": "fore-（=before：之前）+see（看见）→在看见之前就已经知道……会\n发生→预知；预见",
+            "phonetic": "fɔrˈsiː",
+            "pos": "vt.",
+            "rootHint": "opt",
+            "word": "foresee"
+        },
+        {
+            "collocations": [
+                "for / in the foreseeable future：在可预见的将来",
+                "foreseeable risk：可预料的风险\n笔 记 区"
+            ],
+            "definition": "能预测的；可预知的",
+            "examples": [],
+            "frequency": 11928,
+            "mnemonic": "foresee（预知）+ -able（能够……的）→可预知的",
+            "phonetic": "fɔrˈsiːəbəl",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "foreseeable"
+        },
+        {
+            "collocations": [
+                "unforeseen circumstances / events / changes etc.：意料之外的情况 / 事件 /",
+                "unforeseen problems / difficulties / delays：未预见到的问题 / 困难 / 延误\n单词 sight 表示“看见”，与 see 同源。"
+            ],
+            "definition": "出乎意料的；未预见到的",
+            "examples": [],
+            "frequency": 15852,
+            "mnemonic": "un-（=not：不）+ foreseen（预见，foresee的过去分词形式）→为预",
+            "phonetic": "ˌʌnfɔrˈsiːn",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "unforeseen"
+        },
+        {
+            "collocations": [
+                "vision; apparition.”",
+                "catch sight of：瞬间内突然看见某人",
+                "in sight / within sight：看得见 / 看不见",
+                "set sights on：以某事为奋斗目标",
+                "have something in sights / have someone in sights：志在取得某事；决意\n抓获、打败或征服某人",
+                "sight 的派生词有 sighted, sighting, insight, insightful, sightseeing, eyesight,",
+                "foresight, hindsight 等。"
+            ],
+            "definition": "视力；看见；景象；风景（复数） vt. （在一瞬间）突然看见",
+            "etymology": "Old English sihð, gesiht, gesihð “thing seen; faculty of sight; aspect;",
+            "examples": [],
+            "frequency": 1638,
+            "mnemonic": "来自古英语sihð, gesiht, gesihð，表示所见之物，视野，视觉。",
+            "phonetic": "saɪt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "sight"
+        },
+        {
+            "collocations": [
+                "partially sighted：有部分视力的",
+                "short-sighted：近视的",
+                "long-sighted：远视的"
+            ],
+            "definition": "看得见的；有视力的",
+            "examples": [],
+            "frequency": 19239,
+            "phonetic": "ˈsaɪtɪd",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "sighted"
+        },
+        {
+            "collocations": [
+                "the sighting of a rare sea bird at ...：在某地见到一种珍稀海鸟"
+            ],
+            "definition": "看见；目睹（不寻常或短暂出现的事物）",
+            "examples": [],
+            "frequency": 9288,
+            "phonetic": "ˈsaɪtɪŋ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "sighting"
+        },
+        {
+            "collocations": [
+                "keen insight into the nature of technology：对技术本质的敏锐洞察",
+                "considerable insight：非凡的洞察力",
+                "gain an insight into：看透，识破"
+            ],
+            "definition": "深刻见解；洞察力，洞悉",
+            "examples": [],
+            "frequency": 2863,
+            "mnemonic": "in-（向内；深入）+ sight（看；见解）→深入看（见解）→深刻见",
+            "phonetic": "ˈɪn.saɪt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "insight"
+        },
+        {
+            "collocations": [
+                "insightful observations：颇有见地的看法",
+                "insightful knowledge：有见地的知识"
+            ],
+            "definition": "有深刻见解的；富有洞察力的",
+            "examples": [],
+            "frequency": 13036,
+            "phonetic": "ˈɪn.saɪt.fəl",
+            "pos": "adj.",
+            "rootHint": "opt",
+            "word": "insightful"
+        },
+        {
+            "collocations": [
+                "go sightseeing：去观光"
+            ],
+            "definition": "观光；游览",
+            "examples": [],
+            "frequency": 16740,
+            "mnemonic": "sight（景象；风景）+ see（看）+ -ing（名词后缀）→看风景→观",
+            "phonetic": "ˈsaɪtˌsiːɪŋ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "sightseeing"
+        },
+        {
+            "collocations": [
+                "to have good / bad / poor eyesight：视力好/不好/差",
+                "an eyesight test：视力测试"
+            ],
+            "definition": "视力；目力",
+            "examples": [],
+            "frequency": 15144,
+            "mnemonic": "eye（眼睛）+ sight（视力；看见）→眼睛能看见的能力→视力；目",
+            "phonetic": "ˈaɪsaɪt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "eyesight"
+        },
+        {
+            "collocations": [
+                "lack of foresight：缺乏远见",
+                "the foresight to invest in ...：投资……的远见\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "先见之明；预见；深谋远虑",
+            "examples": [],
+            "frequency": 14847,
+            "mnemonic": "fore-（在前）+ sight（看；视野）→insight obtained beforehand：事情\n未发生之前获得的视野和看见→先见之明；深谋远虑",
+            "phonetic": "ˈfɔrsaɪt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "foresight"
+        },
+        {
+            "collocations": [
+                "hindsight effect：事后诸葛效应",
+                "on hindsight：赫然回想\n笔 记 区\n单词“view：看，观看”有关（-iew 组合发元音，和 -vis 中的 i 功能一样，s，\nd 无意义）。",
+                "Proto-Indo-European root meaning “to see.”",
+                "It is the hypothetical source of/evidence for its existence is provided by:",
+                "Sanskrit veda “I know;” Avestan vaeda “I know;” Greek oida, Doric woida"
+            ],
+            "definition": "事后聪明；事后的领悟",
+            "etymology": "*weid- “I know,” idein “to see;” Old Irish fis “vision,” find “white,” i.e. “clearly seen,” fiuss “knowledge;” Welsh gwyn, Gaulish vindos, Breton gwenn “white;” Gothic, Old Swedish, Old English witan “to know;” Gothic weitan “to see;” English wise, German wissen “to know;” Lithuanian vysti “to see;” Bulgarian vidya “I see;” Polish widzieć “to see,” wiedzieć “to know;” Russian videt’ “to see,” vest’ “news,” Old Russian vedat’ “to know.” 单词 view 表示“观点，景色，看到”。",
+            "examples": [],
+            "frequency": 11429,
+            "mnemonic": "hind（后面的）+ sight（看）→事情发生之后看见、领悟的→事后聪",
+            "phonetic": "ˈhaɪnd.saɪt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "hindsight"
+        },
+        {
+            "collocations": [
+                "brightness; look, appearance; eyesight, vision,” noun use of fem. past",
+                "participle of veoir “to see,” from Latin videre “to see” (from PIE root",
+                "in a certain way;” from 1935 as “to watch television.” Related: Viewed;",
+                "in my view：在我看来",
+                "in view of：鉴于；考虑到",
+                "with a view to：目的在于\non view：在展出"
+            ],
+            "definition": "观点；景色；看到 vt. 看待；察看；观看",
+            "etymology": "n. early 15c., “formal inspection or survey” (of land); mid-15c., “visual perception,” from Anglo-French vewe “view,” Old French veue “light, *weid- “to see”). Sense of “manner of regarding something” attested from early 15c. Meaning “sight or prospect of a landscape, etc.” is recorded from c. 1600. 20000 词汇巅峰 速 记 笔 记 区 v. 1520s, “inspect, examine,” from view （n.）. From 1765 as “to regard viewing.",
+            "examples": [],
+            "frequency": 486,
+            "phonetic": "vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "view"
+        },
+        {
+            "collocations": [
+                "the art object and the viewer：艺术品和观赏者"
+            ],
+            "definition": "电视观众；观赏者",
+            "examples": [],
+            "frequency": 2500,
+            "phonetic": "ˈvjuɚ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "viewer"
+        },
+        {
+            "collocations": [
+                "viewing window：观景窗"
+            ],
+            "definition": "观看；观景",
+            "examples": [],
+            "frequency": 6941,
+            "phonetic": "ˈvjuɪŋ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "viewing"
+        },
+        {
+            "collocations": [
+                "have her own viewpoint：有她自己的视角"
+            ],
+            "definition": "观点；视角",
+            "examples": [],
+            "frequency": 6167,
+            "mnemonic": "view（观看）+ point（点）→观看的点→观点；视角",
+            "phonetic": "ˈvjuˌpɔɪnt",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "viewpoint"
+        },
+        {
+            "collocations": [
+                "the press preview of the show：该节目的媒体试映",
+                "a sneak preview of the new fashions for autumn：秋季新时装的内部预展",
+                "preview the exhibition：参观预展",
+                "preview their new album：预演新专辑中的曲目"
+            ],
+            "definition": "（戏剧、电影等的）预演，预映；（电影、电视节目等的）预告（片） vt. 预看；预演",
+            "examples": [],
+            "frequency": 7665,
+            "mnemonic": "pre-（=before：早于；预先）+ view（看）→预先看，比观众看到的\n早→预演；预告；预看",
+            "phonetic": "ˈpriː.vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "preview"
+        },
+        {
+            "collocations": [
+                "exclusive interview：独家采访"
+            ],
+            "definition": "面试；采访 vt. 对……面试；采访；询问",
+            "examples": [],
+            "frequency": 947,
+            "mnemonic": "inter-（=between：相互）+ view（看到）→相互看→面试；采访",
+            "phonetic": "ˈɪn.tɚ.vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "interview"
+        },
+        {
+            "collocations": [],
+            "definition": "参加面试者；接受采访者",
+            "examples": [],
+            "frequency": 15133,
+            "mnemonic": "interview（面试；采访）+ -ee（名词后缀，表示动作的承受者）→被\n面试的人→参加面试者；接受采访者",
+            "phonetic": "ˌɪn.tɚ.vjuˈiː",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "interviewee"
+        },
+        {
+            "collocations": [],
+            "definition": "进行面试者；采访者",
+            "examples": [],
+            "frequency": 7964,
+            "mnemonic": "interview（面试；采访）+ -er（名词后缀，表示动作的主动者）→进",
+            "phonetic": "ˈɪn.tɚ.vju.ɚ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "interviewer"
+        },
+        {
+            "collocations": [
+                "rearview mirror：（车辆）后视镜"
+            ],
+            "definition": "后视镜",
+            "examples": [],
+            "frequency": 11244,
+            "mnemonic": "rear（后面）+ view（看）→可以看到后面的镜子→后视镜",
+            "phonetic": "ˈrɪr.vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "rearview"
+        },
+        {
+            "collocations": [
+                "order a review of：下令对……进行一次审查",
+                "review the situation：审度了局势",
+                "literature review：文献综述"
+            ],
+            "definition": "&vi. 复习 vt. 对（新作品）作评论；审裁；审度 n. （上级的）审查；评论；复习",
+            "examples": [],
+            "frequency": 1391,
+            "mnemonic": "re-（再）+ view（看）→再看一遍→复习；评论；审查",
+            "phonetic": "rɪ.ˈvju",
+            "pos": "vt.",
+            "rootHint": "opt",
+            "word": "review"
+        },
+        {
+            "collocations": [
+                "outstanding reviewer：优秀审稿人"
+            ],
+            "definition": "评论员；评论家",
+            "examples": [],
+            "frequency": 8454,
+            "phonetic": "rɪ.ˈvju.ɚ",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "reviewer"
+        },
+        {
+            "collocations": [
+                "a complete worldview：完整的世界观"
+            ],
+            "definition": "世界观",
+            "examples": [],
+            "frequency": 10144,
+            "mnemonic": "world（世界）+ view（观点）→有关世界的观点→世界观",
+            "phonetic": "ˈwɝld.vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "worldview"
+        },
+        {
+            "collocations": [
+                "within / outside the purview of sb. / sth.：在某人 / 某物的范围（权限）",
+                "within the purview of the Department of Health：属于卫生部的管辖范围",
+                "beyond the purview of the court：超出了法庭的受理范畴"
+            ],
+            "definition": "（组织或活动的）范围，权限",
+            "examples": [],
+            "frequency": 18275,
+            "mnemonic": "pur-（=pro-：向前）+ view（看）→向前看的范围，界限→视野；见\n识→引申义为（组织或活动的）范围，权限",
+            "phonetic": "ˈpɝ.vju",
+            "pos": "n.",
+            "rootHint": "opt",
+            "word": "purview"
+        }
+    ]
 }

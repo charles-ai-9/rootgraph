@@ -1,177 +1,177 @@
 {
-  "id": "itude",
-  "source": "textbook-3",
-  "chapter": "3",
-  "chapterOrder": 103,
-  "titleZh": "度，状态",
-  "semanticLabel": "度，状态",
-  "meaningEn": null,
-  "meaningZh": "度，状态",
-  "roots": [
-    "itude"
-  ],
-  "words": [
-    {
-      "word": "attitude",
-      "phonetic": "ˈætəˌtud",
-      "pos": "n.",
-      "definition": "态度，看法，我行我素的作派，姿势",
-      "frequency": 1157,
-      "mnemonic": "att(=apt: 倾向)+ itude ( 度) → 倾向度 → 态度(问你的态度，即询\n邪解：att ( 加强语气)+-itude ( 度) → 态度\nattitud(=attitude: 态度)+-inal ( 复合形容词后缀) →态度的",
-      "collocations": [
-        "positive attitude: 积极态度",
-        "attitude to/towards sb/sth: 对某人/某事的态度",
-        "to have a good/bad/positive/negative attitude towards sb/sth: 对某人(或 事物)持好的/坏的/肯定的/否定的态度",
-        "attitudina l [,atr'tudnl] adj. 态度的；人生观的16321",
-        "attitudinal commitment: 态度性承诺"
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "aptitude",
-      "phonetic": "ˈæptəˌtud",
-      "pos": "n.",
-      "definition": "天资；天赋；自然倾向；适宜",
-      "frequency": 12785,
-      "mnemonic": "apt (有……倾向的，适合)+ itude (表度) → (天赋、才能、倾向 等)向……方向倾斜的度→天资；天赋",
-      "collocations": [
-        "aptitude test: 能力试验",
-        "have an aptitude for: 有……的才能",
-        "academic aptitude: 学术才能"
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "altitude",
-      "phonetic": "ˈæl.tə.tud",
-      "pos": "n.",
-      "definition": "海拔；(海拔高的)高处，高地",
-      "frequency": 6464,
-      "mnemonic": "alt- ( 高 ) + -itude (抽象名词后缀，表度，状态) →高度→海拔； (海拔高的)高处",
-      "collocations": [
-        "altitude sickness: 高原反应",
-        "high altitude: 高空\n笔 记 区\n笔 记 区"
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "amplitude",
-      "phonetic": "ˈæmpləˌtud",
-      "pos": "n.",
-      "definition": "( 声波或电流信号的)振幅；丰富；充足；广 阔；大量；(思想的)广度",
-      "frequency": 14669,
-      "mnemonic": "ampl(e) ( 丰富的，充足的，广阔的)+itude ( 抽象名称后缀，表度)\n→丰富、充足、广阔的状态→丰富；充足；广阔；大量 搭配：amplitude ratio: 幅度比率",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "gratitude",
-      "phonetic": "ˈɡɹæ.tə.tud",
-      "pos": "n.",
-      "definition": "感激；感谢",
-      "frequency": 7175,
-      "mnemonic": "*gwere-(2)\"to favor”).Meaning \"thankfulness\"is from 1560s. 助记：grat- (恩惠)+ -itude (表度) → 感激",
-      "collocations": [
-        "gratitude to sb for sth: 因……向某人表达感激之情",
-        "a deep sense of gratitude: 深深的谢意",
-        "express gratitude: 致谢",
-        "debt of gratitude: 人情债"
-      ],
-      "etymology": "mid-15c.,“good will,”from Middle French gratitude(15c.)or directly from Medieval Latin gratitudinem(nominative gratitudo)\"thankfulness,\" from Latin gratus “thankful,pleasing”(from suffixed form of PIE root",
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "latitude",
-      "phonetic": "ˈlæt.ə.tud",
-      "pos": "n.",
-      "definition": "纬度；活动范围；宽度； 界限",
-      "frequency": 8154,
-      "mnemonic": "lat-(=wide: 宽的)+itude (度) → 宽度；范围；纬度(“纬度”的",
-      "collocations": [
-        "wide latitude: 广泛的自由"
-      ],
-      "examples": [
-        "A teacher deserves wide latitude in selecting the method of grading that best promotes learning in her classroom;that is,after all,the prime function of grades.\n教师应有很大的自由去选择评分方法，只要该方法可以促进班里的学 习即可，毕竟、促进班级学习是打分的首要作用。"
-      ],
-      "rootHint": "itude"
-    },
-    {
-      "word": "longitude",
-      "phonetic": "ˈlɑn.dʒə.tud",
-      "pos": "n.",
-      "definition": "[ 地]经度；[地]经线adj. 经度的",
-      "frequency": 17460,
-      "mnemonic": "long ( 长的)+ -itude ( 表度) →沿着地球经线的度 →经度",
-      "collocations": [
-        "measure of the east-west distance of the dome of the sky or the surface of the earth,from Latin longitudo \"Iength,long duration,\"from longus “long” (see long(adj.)).For explanation of the geographical sense,see latitude.\n20000词汇巅峰速记",
-        "latitude and longitude: 经纬度",
-        "east longitude: 东经",
-        "west longitude: 西经"
-      ],
-      "etymology": "late 14c.,\"Iength;height,\"also “astronomical or geographic longitude,\"a",
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "longitudinal",
-      "phonetic": "ˌlɑn.dʒə.ˈtu.də.nəl",
-      "pos": "adj.",
-      "definition": "经线的；纵向的；长度的",
-      "frequency": 10040,
-      "mnemonic": "longitud(=longitude: 经线)+-inal(复合形容词后缀)→经线的",
-      "collocations": [
-        "longitudinal vibration: 纵向振动",
-        "longitudinal wave: 纵波"
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "magnitude",
-      "phonetic": "ˈmæɡ.nə.tud",
-      "pos": "n.",
-      "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
-      "frequency": 4010,
-      "mnemonic": "magn- ( 巨 大 ) + -itude ( 度)→ 巨大的度→ 巨大之物；重要性；同时 用于地震震级等多种科学术语",
-      "collocations": [
-        "earthquake magnitude: 地震震级",
-        "order of magnitude: 数量级"
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "servitude",
-      "phonetic": "ˈsɝvə.tud",
-      "pos": "n.",
-      "definition": "奴隶状态；劳役，奴役；地役权",
-      "frequency": 19780,
-      "mnemonic": "serv (来自奴仆，奴隶)+itude ( 表状态) →处于被奴役的状态 →奴 隶状态；奴役",
-      "collocations": [
-        "a life of servitude: 受奴役的一生"
-      ],
-      "etymology": "early 15c.,\"condition of being enslaved,\"from Old French servitude, servitute(13c.)and directly from Late Latin servitudo \"slavery,\"from Latin servus “a slave”(see serve(v.))+abstract noun suffix.",
-      "examples": [],
-      "rootHint": "itude"
-    },
-    {
-      "word": "solitude",
-      "phonetic": "ˈsɑləˌtud",
-      "pos": "n.",
-      "definition": "尤指平静愉快的)独居，独处",
-      "frequency": 8319,
-      "mnemonic": "sol- ( 单独的，独自的)+-itude ( 表度) →独处；独居",
-      "collocations": [
-        "enjoy solitude: 享受孤独",
-        "Solitude is the state of being alone,especially when this is peaceful and pleasant."
-      ],
-      "examples": [],
-      "rootHint": "itude"
-    }
-  ]
+    "id": "itude",
+    "source": "textbook-3",
+    "chapter": "3",
+    "chapterOrder": 103,
+    "titleZh": "度，状态",
+    "semanticLabel": "度，状态",
+    "meaningEn": null,
+    "meaningZh": "度，状态",
+    "roots": [
+        "itude"
+    ],
+    "words": [
+        {
+            "word": "attitude",
+            "phonetic": "ˈætəˌtud",
+            "pos": "n.",
+            "definition": "态度，看法，我行我素的作派，姿势",
+            "frequency": 1157,
+            "mnemonic": "att(=apt: 倾向)+ itude ( 度) → 倾向度 → 态度(问你的态度，即询\n邪解：att ( 加强语气)+-itude ( 度) → 态度\nattitud(=attitude: 态度)+-inal ( 复合形容词后缀) →态度的",
+            "collocations": [
+                "positive attitude: 积极态度",
+                "attitude to/towards sb/sth: 对某人/某事的态度",
+                "to have a good/bad/positive/negative attitude towards sb/sth: 对某人(或 事物)持好的/坏的/肯定的/否定的态度",
+                "attitudina l [,atr'tudnl] adj. 态度的；人生观的16321",
+                "attitudinal commitment: 态度性承诺"
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "aptitude",
+            "phonetic": "ˈæptəˌtud",
+            "pos": "n.",
+            "definition": "天资；天赋；自然倾向；适宜",
+            "frequency": 12785,
+            "mnemonic": "apt (有……倾向的，适合)+ itude (表度) → (天赋、才能、倾向 等)向……方向倾斜的度→天资；天赋",
+            "collocations": [
+                "aptitude test: 能力试验",
+                "have an aptitude for: 有……的才能",
+                "academic aptitude: 学术才能"
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "altitude",
+            "phonetic": "ˈæl.tə.tud",
+            "pos": "n.",
+            "definition": "海拔；(海拔高的)高处，高地",
+            "frequency": 6464,
+            "mnemonic": "alt- ( 高 ) + -itude (抽象名词后缀，表度，状态) →高度→海拔； (海拔高的)高处",
+            "collocations": [
+                "altitude sickness: 高原反应",
+                "high altitude: 高空\n笔 记 区\n笔 记 区"
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "amplitude",
+            "phonetic": "ˈæmpləˌtud",
+            "pos": "n.",
+            "definition": "( 声波或电流信号的)振幅；丰富；充足；广 阔；大量；(思想的)广度",
+            "frequency": 14669,
+            "mnemonic": "ampl(e) ( 丰富的，充足的，广阔的)+itude ( 抽象名称后缀，表度)\n→丰富、充足、广阔的状态→丰富；充足；广阔；大量 搭配：amplitude ratio: 幅度比率",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "gratitude",
+            "phonetic": "ˈɡræ.tə.tud",
+            "pos": "n.",
+            "definition": "感激；感谢",
+            "frequency": 7175,
+            "mnemonic": "*gwere-(2)\"to favor”).Meaning \"thankfulness\"is from 1560s. 助记：grat- (恩惠)+ -itude (表度) → 感激",
+            "collocations": [
+                "gratitude to sb for sth: 因……向某人表达感激之情",
+                "a deep sense of gratitude: 深深的谢意",
+                "express gratitude: 致谢",
+                "debt of gratitude: 人情债"
+            ],
+            "etymology": "mid-15c.,“good will,”from Middle French gratitude(15c.)or directly from Medieval Latin gratitudinem(nominative gratitudo)\"thankfulness,\" from Latin gratus “thankful,pleasing”(from suffixed form of PIE root",
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "latitude",
+            "phonetic": "ˈlæt.ə.tud",
+            "pos": "n.",
+            "definition": "纬度；活动范围；宽度； 界限",
+            "frequency": 8154,
+            "mnemonic": "lat-(=wide: 宽的)+itude (度) → 宽度；范围；纬度(“纬度”的",
+            "collocations": [
+                "wide latitude: 广泛的自由"
+            ],
+            "examples": [
+                "A teacher deserves wide latitude in selecting the method of grading that best promotes learning in her classroom;that is,after all,the prime function of grades.\n教师应有很大的自由去选择评分方法，只要该方法可以促进班里的学 习即可，毕竟、促进班级学习是打分的首要作用。"
+            ],
+            "rootHint": "itude"
+        },
+        {
+            "word": "longitude",
+            "phonetic": "ˈlɑn.dʒə.tud",
+            "pos": "n.",
+            "definition": "[ 地]经度；[地]经线adj. 经度的",
+            "frequency": 17460,
+            "mnemonic": "long ( 长的)+ -itude ( 表度) →沿着地球经线的度 →经度",
+            "collocations": [
+                "measure of the east-west distance of the dome of the sky or the surface of the earth,from Latin longitudo \"Iength,long duration,\"from longus “long” (see long(adj.)).For explanation of the geographical sense,see latitude.\n20000词汇巅峰速记",
+                "latitude and longitude: 经纬度",
+                "east longitude: 东经",
+                "west longitude: 西经"
+            ],
+            "etymology": "late 14c.,\"Iength;height,\"also “astronomical or geographic longitude,\"a",
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "longitudinal",
+            "phonetic": "ˌlɑn.dʒə.ˈtu.də.nəl",
+            "pos": "adj.",
+            "definition": "经线的；纵向的；长度的",
+            "frequency": 10040,
+            "mnemonic": "longitud(=longitude: 经线)+-inal(复合形容词后缀)→经线的",
+            "collocations": [
+                "longitudinal vibration: 纵向振动",
+                "longitudinal wave: 纵波"
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "magnitude",
+            "phonetic": "ˈmæɡ.nə.tud",
+            "pos": "n.",
+            "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
+            "frequency": 4010,
+            "mnemonic": "magn- ( 巨 大 ) + -itude ( 度)→ 巨大的度→ 巨大之物；重要性；同时 用于地震震级等多种科学术语",
+            "collocations": [
+                "earthquake magnitude: 地震震级",
+                "order of magnitude: 数量级"
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "servitude",
+            "phonetic": "ˈsɝvə.tud",
+            "pos": "n.",
+            "definition": "奴隶状态；劳役，奴役；地役权",
+            "frequency": 19780,
+            "mnemonic": "serv (来自奴仆，奴隶)+itude ( 表状态) →处于被奴役的状态 →奴 隶状态；奴役",
+            "collocations": [
+                "a life of servitude: 受奴役的一生"
+            ],
+            "etymology": "early 15c.,\"condition of being enslaved,\"from Old French servitude, servitute(13c.)and directly from Late Latin servitudo \"slavery,\"from Latin servus “a slave”(see serve(v.))+abstract noun suffix.",
+            "examples": [],
+            "rootHint": "itude"
+        },
+        {
+            "word": "solitude",
+            "phonetic": "ˈsɑləˌtud",
+            "pos": "n.",
+            "definition": "尤指平静愉快的)独居，独处",
+            "frequency": 8319,
+            "mnemonic": "sol- ( 单独的，独自的)+-itude ( 表度) →独处；独居",
+            "collocations": [
+                "enjoy solitude: 享受孤独",
+                "Solitude is the state of being alone,especially when this is peaceful and pleasant."
+            ],
+            "examples": [],
+            "rootHint": "itude"
+        }
+    ]
 }

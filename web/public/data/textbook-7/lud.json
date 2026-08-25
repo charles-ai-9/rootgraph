@@ -1,248 +1,248 @@
 {
-  "chapter": "15",
-  "chapterOrder": 115,
-  "id": "lud",
-  "meaningZh": "表演；演奏。",
-  "roots": [
-    "lud"
-  ],
-  "semanticLabel": "表演；演奏。",
-  "source": "textbook-7",
-  "titleZh": "表演；演奏。",
-  "words": [
-    {
-      "collocations": [
-        "voice or instrument” (16世纪30年代)，源自中世纪拉丁语preludium",
-        "a necessary prelude to sleep：入睡的必要前奏",
-        "the famous E minor prelude of Chopin：肖邦著名的E小调前奏曲"
-      ],
-      "definition": "序幕；开端；序曲；前奏曲",
-      "etymology": "“introductory performance; a preliminary to an action event or work,” 16 世纪60年代，源自中古法语prélude “notes sung or played to test the “prelude, preliminary”。",
-      "examples": [],
-      "frequency": 12157,
-      "mnemonic": "pre-（=before：在前；早于）+ -lude（=to play：演奏）→在正式演奏\n之前的→前奏；序曲→引申义为序幕；开端",
-      "phonetic": "ˈpɹeɪ.lud",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "prelude"
-    },
-    {
-      "collocations": [
-        "a short interlude：一段短时间的幕间休息",
-        "a musical interlude：幕间音乐插曲\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "（两事件之间的）间歇；插入事件；（戏剧、电影等的）幕间休息；幕间乐曲（或节目、表演）；插曲",
-      "examples": [
-        "Apart from a brief interlude of peace, the war lasted nine years.\n除了一段短暂的和平间歇期，那场战争持续了九年。"
-      ],
-      "frequency": 16993,
-      "mnemonic": "inter-（=between：在中间）+-lud（=to play：演奏）+ -e→在演奏中\n间进行的动作→引申词义间歇，幕间休息；插曲",
-      "phonetic": "ˈɪn.tɚ.lud",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "interlude"
-    },
-    {
-      "collocations": [
-        "manage to elude the police：设法躲避警方",
-        "Finally he remembered the tiny detail that had eluded him the night before.\n他终于想起了前一天晚上记不起来的细节。"
-      ],
-      "definition": "（尤指机敏地）避开，躲避；不为……所得，使不记得，使不理解",
-      "examples": [
-        "Sleep eluded her.\n她得不到睡眠（失眠了）。"
-      ],
-      "frequency": 9475,
-      "mnemonic": "e-（=away：离开）+ -lud-（=play：游戏；玩耍）+ -e→从游戏、玩\n耍中离开→引申义为避开，躲避→引申义为不为……所得，使不记得",
-      "phonetic": "ɪˈlud",
-      "pos": "vt.",
-      "rootHint": "lud",
-      "word": "elude"
-    },
-    {
-      "collocations": [
-        "elusive late-night taxis：很难找的深夜出租车",
-        "the elusive concept：难以解释的概念"
-      ],
-      "definition": "难找的；难以解释的；难以得到的",
-      "examples": [
-        "A solution to the problem of toxic waste is proving elusive.\n有毒废料这个问题的解决方案证明难以得到。"
-      ],
-      "frequency": 7034,
-      "mnemonic": "elus（=elud-：不为……所得；使不理解）+ -ive（形容词后缀）→难",
-      "phonetic": "ɪˈlu.sɪv",
-      "pos": "adj.",
-      "rootHint": "lud",
-      "word": "elusive"
-    },
-    {
-      "collocations": [
-        "distinguish between illusion and reality：分清幻想与现实",
-        "Mirrors in a room often give an illusion of space.\n房间里的镜子常给人一种空间增大的错觉。\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "幻想；假象；错觉",
-      "examples": [
-        "I have no illusions about her feelings for me.\n我对她跟我的感情不抱什么幻想。"
-      ],
-      "frequency": 4362,
-      "mnemonic": "il-（=in-=at, upon：进入；在里面）+ -lus-（=to play：玩乐；玩耍）+\n-ion（名词后缀）→进入玩乐、虚幻、错觉里面→幻想；假象；错觉\n邪解：il-（表相反）+ -lusion（=vision：想象）→不切实际的想象→幻想；",
-      "phonetic": "ɪˈlu.ʒən",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "illusion"
-    },
-    {
-      "collocations": [
-        "an illusory sense of freedom：虚幻的自由感"
-      ],
-      "definition": "虚假的；虚幻的；迷惑人的",
-      "examples": [],
-      "frequency": 16811,
-      "mnemonic": "illus-（=illusion：幻想；假象）+ -ory（形容词后缀）→陷入幻想、\n假象里面的→虚假的；虚幻的；迷惑人的",
-      "phonetic": "ɪˈlu.sə.ɹi",
-      "pos": "adj.",
-      "rootHint": "lud",
-      "word": "illusory"
-    },
-    {
-      "collocations": [
-        "Television deludes you into thinking you have experienced reality, when\nyou haven’t.\n近义词：deceive：欺骗；误导\n电视诱使你相信你体验到了你实际上并没有体验过的真情实景。"
-      ],
-      "definition": "欺骗；哄骗",
-      "examples": [
-        "She had been deluding herself that he loved her.\n她一直欺骗自己相信他爱着她。"
-      ],
-      "frequency": 18196,
-      "mnemonic": "de-（=to one’s detriment：给某人造成伤害）+-lud-（=to play：玩弄；\n欺骗）+ -e→玩弄某人以致给他人造成伤害→欺骗；哄骗",
-      "phonetic": "dɪ.ˈlud",
-      "pos": "vt.",
-      "rootHint": "lud",
-      "word": "delude"
-    },
-    {
-      "collocations": [
-        "the delusions of the mentally ill：精神病患者的妄想"
-      ],
-      "definition": "错觉；妄想；欺骗",
-      "examples": [
-        "I was under the delusion that he intended to marry me.\n我有一种错觉，他要娶我。"
-      ],
-      "frequency": 11204,
-      "mnemonic": "delus（=delude：欺骗）+ -ion（名词后缀）→错觉；妄想；欺骗",
-      "phonetic": "dɪ.ˈlu.ʒən",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "delusion"
-    },
-    {
-      "collocations": [
-        "get / become delusional：产生幻想"
-      ],
-      "definition": "妄想的；幻想的",
-      "examples": [],
-      "frequency": 18488,
-      "mnemonic": "delusion（错觉；妄想）+ -al（形容词后缀）→产生错觉的→妄想",
-      "phonetic": "dɪ.ˈlu.ʒə.nəl",
-      "pos": "adj.",
-      "rootHint": "lud",
-      "word": "delusional"
-    },
-    {
-      "collocations": [
-        "disillusion sb.：使某人不再抱幻想"
-      ],
-      "definition": "使醒悟；使不再抱幻想",
-      "etymology": "to free or be freed from illusion",
-      "examples": [
-        "He has deceived and disillusioned us all.\n他欺骗了我们所有人, 令我们所有人不再抱幻想。"
-      ],
-      "frequency": 15880,
-      "mnemonic": "dis-（=not：不；非；使相反）+ illusion（幻想）→使不再抱幻想；",
-      "phonetic": "ˌdɪs.ɪˈlu.ʒən",
-      "pos": "vt.",
-      "rootHint": "lud",
-      "word": "disillusion"
-    },
-    {
-      "collocations": [
-        "a growing disillusionment with：对……越来越失望"
-      ],
-      "definition": "不再抱幻想；失望；醒悟",
-      "examples": [
-        "There is widespread disillusionment with the present government.\n人们对现政府普遍不再抱幻想。"
-      ],
-      "frequency": 16642,
-      "mnemonic": "disillusion（使不再抱幻想；使醒悟）+ -ment（名词后缀）→不再抱",
-      "phonetic": "ˌdɪs.ɪˈlu.ʒən.mənt",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "disillusionment"
-    },
-    {
-      "collocations": [
-        "comments alluding to an earlier discussion：间接提到之前讨论的评论"
-      ],
-      "definition": "间接提到；暗指；影射",
-      "etymology": "源自拉丁语alludere “to play, make fun of, joke”。",
-      "examples": [
-        "She had a way of alluding to Jean but never saying her name.\n她有办法影射琼而不提及她的名字。"
-      ],
-      "frequency": 8763,
-      "mnemonic": "al-（=ad：去）+ -lude（=to play：开玩笑；嘲笑）→后引申义为间接",
-      "phonetic": "ə.ˈlud",
-      "pos": "vi.",
-      "rootHint": "lud",
-      "word": "allude"
-    },
-    {
-      "collocations": [
-        "literary allusion：文学典故",
-        "an allusion to the long-standing hostility between：对……之间长久敌意\n的一种影射"
-      ],
-      "definition": "间接提到；暗指；影射；典故",
-      "examples": [
-        "His statement was seen as an allusion to the recent drug-related killings.\n他的声明被视为暗指最近与毒品有关的多起凶杀案。"
-      ],
-      "frequency": 11452,
-      "mnemonic": "allus-（=allud-：间接提到；暗指；影射）+ -ion（名词后缀）→间接",
-      "phonetic": "ə.ˈlu.ʒən",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "allusion"
-    },
-    {
-      "collocations": [
-        "game, toy, source of amusement, joke”，源自ludere，意为“to play”。\n“ridiculous, apt to evoke ridicule or jest” 的意思自1782年就被证实了。\n20000 词汇巅峰\n速\n记\n笔 记 区",
-        "a ludicrous suggestion：荒谬的建议"
-      ],
-      "definition": "滑稽的；荒唐的；荒谬的",
-      "etymology": "17世纪10年代，“pertaining to play or sport”，源自拉丁语ludicrus， 意为“sportive” (源自古法语ludicre)，源自ludicrum，“amusement,",
-      "examples": [
-        "It was ludicrous to think that the plan could succeed.\n认为此计划会取得成功是荒唐的。"
-      ],
-      "frequency": 11294,
-      "mnemonic": "lud-（=to play：游戏；玩乐）+ -icrous（复合后缀：-ic+-er+-ous）→\n开玩笑的；不能当真的→滑稽的；荒唐的；荒谬的",
-      "phonetic": "ˈlu.dɪ.kɹəs",
-      "pos": "adj.",
-      "rootHint": "lud",
-      "word": "ludicrous"
-    },
-    {
-      "collocations": [
-        "fraud or underhandedness is essential to collusion” [Fowler].",
-        "in collusion with：与……串通、勾结",
-        "There was collusion between the two witnesses (= they gave the same false\nevidence).\n两个证人串通作伪证。"
-      ],
-      "definition": "（尤指国家或组织间之间秘密或非法的）密谋；串通；勾结",
-      "etymology": "14世纪晚期，意思是“secret agreement for fraudulent or harmful purposes”，源自古法语collusion，直接来自拉丁语collusionem，意为 “act of colluding”, from colludere, from assimilated form of com “with, together” (see com-) + ludere “to play” (see ludicrous). “The notion of",
-      "examples": [
-        "The police were corrupt and were operating in collusion with the drug\ndealers.\n警察腐败，与那伙毒品贩子内外勾结。"
-      ],
-      "frequency": 17096,
-      "mnemonic": "col-（=con-：共同）+ -lus-（=to play：玩弄（阴谋））+ -ion（名词\n后缀）→共同玩弄阴谋→密谋；串通；勾结",
-      "phonetic": "kəˈluʒən",
-      "pos": "n.",
-      "rootHint": "lud",
-      "word": "collusion"
-    }
-  ]
+    "chapter": "15",
+    "chapterOrder": 115,
+    "id": "lud",
+    "meaningZh": "表演；演奏。",
+    "roots": [
+        "lud"
+    ],
+    "semanticLabel": "表演；演奏。",
+    "source": "textbook-7",
+    "titleZh": "表演；演奏。",
+    "words": [
+        {
+            "collocations": [
+                "voice or instrument” (16世纪30年代)，源自中世纪拉丁语preludium",
+                "a necessary prelude to sleep：入睡的必要前奏",
+                "the famous E minor prelude of Chopin：肖邦著名的E小调前奏曲"
+            ],
+            "definition": "序幕；开端；序曲；前奏曲",
+            "etymology": "“introductory performance; a preliminary to an action event or work,” 16 世纪60年代，源自中古法语prélude “notes sung or played to test the “prelude, preliminary”。",
+            "examples": [],
+            "frequency": 12157,
+            "mnemonic": "pre-（=before：在前；早于）+ -lude（=to play：演奏）→在正式演奏\n之前的→前奏；序曲→引申义为序幕；开端",
+            "phonetic": "ˈpreɪ.lud",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "prelude"
+        },
+        {
+            "collocations": [
+                "a short interlude：一段短时间的幕间休息",
+                "a musical interlude：幕间音乐插曲\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "（两事件之间的）间歇；插入事件；（戏剧、电影等的）幕间休息；幕间乐曲（或节目、表演）；插曲",
+            "examples": [
+                "Apart from a brief interlude of peace, the war lasted nine years.\n除了一段短暂的和平间歇期，那场战争持续了九年。"
+            ],
+            "frequency": 16993,
+            "mnemonic": "inter-（=between：在中间）+-lud（=to play：演奏）+ -e→在演奏中\n间进行的动作→引申词义间歇，幕间休息；插曲",
+            "phonetic": "ˈɪn.tɚ.lud",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "interlude"
+        },
+        {
+            "collocations": [
+                "manage to elude the police：设法躲避警方",
+                "Finally he remembered the tiny detail that had eluded him the night before.\n他终于想起了前一天晚上记不起来的细节。"
+            ],
+            "definition": "（尤指机敏地）避开，躲避；不为……所得，使不记得，使不理解",
+            "examples": [
+                "Sleep eluded her.\n她得不到睡眠（失眠了）。"
+            ],
+            "frequency": 9475,
+            "mnemonic": "e-（=away：离开）+ -lud-（=play：游戏；玩耍）+ -e→从游戏、玩\n耍中离开→引申义为避开，躲避→引申义为不为……所得，使不记得",
+            "phonetic": "ɪˈlud",
+            "pos": "vt.",
+            "rootHint": "lud",
+            "word": "elude"
+        },
+        {
+            "collocations": [
+                "elusive late-night taxis：很难找的深夜出租车",
+                "the elusive concept：难以解释的概念"
+            ],
+            "definition": "难找的；难以解释的；难以得到的",
+            "examples": [
+                "A solution to the problem of toxic waste is proving elusive.\n有毒废料这个问题的解决方案证明难以得到。"
+            ],
+            "frequency": 7034,
+            "mnemonic": "elus（=elud-：不为……所得；使不理解）+ -ive（形容词后缀）→难",
+            "phonetic": "ɪˈlu.sɪv",
+            "pos": "adj.",
+            "rootHint": "lud",
+            "word": "elusive"
+        },
+        {
+            "collocations": [
+                "distinguish between illusion and reality：分清幻想与现实",
+                "Mirrors in a room often give an illusion of space.\n房间里的镜子常给人一种空间增大的错觉。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "幻想；假象；错觉",
+            "examples": [
+                "I have no illusions about her feelings for me.\n我对她跟我的感情不抱什么幻想。"
+            ],
+            "frequency": 4362,
+            "mnemonic": "il-（=in-=at, upon：进入；在里面）+ -lus-（=to play：玩乐；玩耍）+\n-ion（名词后缀）→进入玩乐、虚幻、错觉里面→幻想；假象；错觉\n邪解：il-（表相反）+ -lusion（=vision：想象）→不切实际的想象→幻想；",
+            "phonetic": "ɪˈlu.ʒən",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "illusion"
+        },
+        {
+            "collocations": [
+                "an illusory sense of freedom：虚幻的自由感"
+            ],
+            "definition": "虚假的；虚幻的；迷惑人的",
+            "examples": [],
+            "frequency": 16811,
+            "mnemonic": "illus-（=illusion：幻想；假象）+ -ory（形容词后缀）→陷入幻想、\n假象里面的→虚假的；虚幻的；迷惑人的",
+            "phonetic": "ɪˈlu.sə.ri",
+            "pos": "adj.",
+            "rootHint": "lud",
+            "word": "illusory"
+        },
+        {
+            "collocations": [
+                "Television deludes you into thinking you have experienced reality, when\nyou haven’t.\n近义词：deceive：欺骗；误导\n电视诱使你相信你体验到了你实际上并没有体验过的真情实景。"
+            ],
+            "definition": "欺骗；哄骗",
+            "examples": [
+                "She had been deluding herself that he loved her.\n她一直欺骗自己相信他爱着她。"
+            ],
+            "frequency": 18196,
+            "mnemonic": "de-（=to one’s detriment：给某人造成伤害）+-lud-（=to play：玩弄；\n欺骗）+ -e→玩弄某人以致给他人造成伤害→欺骗；哄骗",
+            "phonetic": "dɪ.ˈlud",
+            "pos": "vt.",
+            "rootHint": "lud",
+            "word": "delude"
+        },
+        {
+            "collocations": [
+                "the delusions of the mentally ill：精神病患者的妄想"
+            ],
+            "definition": "错觉；妄想；欺骗",
+            "examples": [
+                "I was under the delusion that he intended to marry me.\n我有一种错觉，他要娶我。"
+            ],
+            "frequency": 11204,
+            "mnemonic": "delus（=delude：欺骗）+ -ion（名词后缀）→错觉；妄想；欺骗",
+            "phonetic": "dɪ.ˈlu.ʒən",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "delusion"
+        },
+        {
+            "collocations": [
+                "get / become delusional：产生幻想"
+            ],
+            "definition": "妄想的；幻想的",
+            "examples": [],
+            "frequency": 18488,
+            "mnemonic": "delusion（错觉；妄想）+ -al（形容词后缀）→产生错觉的→妄想",
+            "phonetic": "dɪ.ˈlu.ʒə.nəl",
+            "pos": "adj.",
+            "rootHint": "lud",
+            "word": "delusional"
+        },
+        {
+            "collocations": [
+                "disillusion sb.：使某人不再抱幻想"
+            ],
+            "definition": "使醒悟；使不再抱幻想",
+            "etymology": "to free or be freed from illusion",
+            "examples": [
+                "He has deceived and disillusioned us all.\n他欺骗了我们所有人, 令我们所有人不再抱幻想。"
+            ],
+            "frequency": 15880,
+            "mnemonic": "dis-（=not：不；非；使相反）+ illusion（幻想）→使不再抱幻想；",
+            "phonetic": "ˌdɪs.ɪˈlu.ʒən",
+            "pos": "vt.",
+            "rootHint": "lud",
+            "word": "disillusion"
+        },
+        {
+            "collocations": [
+                "a growing disillusionment with：对……越来越失望"
+            ],
+            "definition": "不再抱幻想；失望；醒悟",
+            "examples": [
+                "There is widespread disillusionment with the present government.\n人们对现政府普遍不再抱幻想。"
+            ],
+            "frequency": 16642,
+            "mnemonic": "disillusion（使不再抱幻想；使醒悟）+ -ment（名词后缀）→不再抱",
+            "phonetic": "ˌdɪs.ɪˈlu.ʒən.mənt",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "disillusionment"
+        },
+        {
+            "collocations": [
+                "comments alluding to an earlier discussion：间接提到之前讨论的评论"
+            ],
+            "definition": "间接提到；暗指；影射",
+            "etymology": "源自拉丁语alludere “to play, make fun of, joke”。",
+            "examples": [
+                "She had a way of alluding to Jean but never saying her name.\n她有办法影射琼而不提及她的名字。"
+            ],
+            "frequency": 8763,
+            "mnemonic": "al-（=ad：去）+ -lude（=to play：开玩笑；嘲笑）→后引申义为间接",
+            "phonetic": "ə.ˈlud",
+            "pos": "vi.",
+            "rootHint": "lud",
+            "word": "allude"
+        },
+        {
+            "collocations": [
+                "literary allusion：文学典故",
+                "an allusion to the long-standing hostility between：对……之间长久敌意\n的一种影射"
+            ],
+            "definition": "间接提到；暗指；影射；典故",
+            "examples": [
+                "His statement was seen as an allusion to the recent drug-related killings.\n他的声明被视为暗指最近与毒品有关的多起凶杀案。"
+            ],
+            "frequency": 11452,
+            "mnemonic": "allus-（=allud-：间接提到；暗指；影射）+ -ion（名词后缀）→间接",
+            "phonetic": "ə.ˈlu.ʒən",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "allusion"
+        },
+        {
+            "collocations": [
+                "game, toy, source of amusement, joke”，源自ludere，意为“to play”。\n“ridiculous, apt to evoke ridicule or jest” 的意思自1782年就被证实了。\n20000 词汇巅峰\n速\n记\n笔 记 区",
+                "a ludicrous suggestion：荒谬的建议"
+            ],
+            "definition": "滑稽的；荒唐的；荒谬的",
+            "etymology": "17世纪10年代，“pertaining to play or sport”，源自拉丁语ludicrus， 意为“sportive” (源自古法语ludicre)，源自ludicrum，“amusement,",
+            "examples": [
+                "It was ludicrous to think that the plan could succeed.\n认为此计划会取得成功是荒唐的。"
+            ],
+            "frequency": 11294,
+            "mnemonic": "lud-（=to play：游戏；玩乐）+ -icrous（复合后缀：-ic+-er+-ous）→\n开玩笑的；不能当真的→滑稽的；荒唐的；荒谬的",
+            "phonetic": "ˈlu.dɪ.krəs",
+            "pos": "adj.",
+            "rootHint": "lud",
+            "word": "ludicrous"
+        },
+        {
+            "collocations": [
+                "fraud or underhandedness is essential to collusion” [Fowler].",
+                "in collusion with：与……串通、勾结",
+                "There was collusion between the two witnesses (= they gave the same false\nevidence).\n两个证人串通作伪证。"
+            ],
+            "definition": "（尤指国家或组织间之间秘密或非法的）密谋；串通；勾结",
+            "etymology": "14世纪晚期，意思是“secret agreement for fraudulent or harmful purposes”，源自古法语collusion，直接来自拉丁语collusionem，意为 “act of colluding”, from colludere, from assimilated form of com “with, together” (see com-) + ludere “to play” (see ludicrous). “The notion of",
+            "examples": [
+                "The police were corrupt and were operating in collusion with the drug\ndealers.\n警察腐败，与那伙毒品贩子内外勾结。"
+            ],
+            "frequency": 17096,
+            "mnemonic": "col-（=con-：共同）+ -lus-（=to play：玩弄（阴谋））+ -ion（名词\n后缀）→共同玩弄阴谋→密谋；串通；勾结",
+            "phonetic": "kəˈluʒən",
+            "pos": "n.",
+            "rootHint": "lud",
+            "word": "collusion"
+        }
+    ]
 }

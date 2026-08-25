@@ -1,637 +1,637 @@
 {
-  "id": "sid",
-  "source": "textbook-4",
-  "chapter": "17",
-  "chapterOrder": 117,
-  "titleZh": "sid",
-  "semanticLabel": "sid",
-  "meaningEn": null,
-  "meaningZh": "坐",
-  "roots": [
-    "sid"
-  ],
-  "words": [
-    {
-      "word": "preside",
-      "phonetic": "pɹɪˈzaɪd",
-      "pos": "vi.",
-      "definition": "主持(会议、仪式等);担任(会议)主席",
-      "frequency": 6892,
-      "mnemonic": "pre-(=before: 在前)+sid-(=to sit: 坐)+-e→坐在前面→ 引申义为主持； 指挥；担任主席",
-      "collocations": [
-        "preside over a meeting/seminar: 主持一个会议/研讨会 preside over sth: 负责(重要局面)",
-        "the presiding judge: 首席法官"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "president",
-      "phonetic": "ˈpɹɛ.zə.dənt",
-      "pos": "n.",
-      "definition": "总统；国家主席；(公司)董事长；(银行)行长；总 裁",
-      "frequency": 304,
-      "mnemonic": "pre-(前；先)+-sid-(=to sit: 坐)+-ent(名词后缀，表人)→坐在(会议等) 最前面的人(即：级别最高的人)→总统；国家主席；董事长",
-      "collocations": [
-        "President Bush: 布什总统",
-        "the president of General Motors: 通用汽车公司总裁"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "vice-president",
-      "phonetic": "ˌvaɪsˈpɹɛzɪdənt",
-      "pos": "n.",
-      "definition": "副总统；副主席；副总裁",
-      "frequency": 12306,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "presidential",
-      "phonetic": "ˌpɹɛ.zəˈdɛn.ʃəl",
-      "pos": "adj.",
-      "definition": "总统的；与总统有关的",
-      "frequency": 1624,
-      "mnemonic": "president(总统)+-ial(形容词后缀)→总统的；与总统有关的",
-      "collocations": [
-        "a presidential election: 总统大选",
-        "the party's presidential candidate: 该党的总统候选人"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "presidency",
-      "phonetic": "ˈpɹɛ.zə.dən.si",
-      "pos": "n.",
-      "definition": "总统(主席；总裁)的职位(任期))3465",
-      "mnemonic": "president(总统；主席；总裁)+-cy(去t变-cy, 名词后缀，表示职权)→ 总统(主席；总裁)的职位(任期)\nre-(back,again: 往后；反复)+-side(=sed-: 坐)→ 向后坐下，(可以)反 复休息，形容安顿下来→居住；定居；存在于",
-      "collocations": [
-        "the current holder of the EU presidency: 现任欧盟主席 during his presidency: 在他的总统任期内",
-        "reside with her mother in a Seattle suburb: 和她的妈妈住在西雅图郊区 reside in: 存在于……之中",
-        "reside的派生词有residency,residential, residual,residuals等。"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residence",
-      "phonetic": "ˈɹɛ.zɪ.dəns",
-      "pos": "n.",
-      "definition": "住宅；住所；居住",
-      "frequency": 3803,
-      "mnemonic": "re-( 反复)+-sid-(=sit: 坐落；栖息)+-ence (名词后缀)→一个可以反复栖\n息/休息地方→住所，居住地；居住 搭配：in residence in: 住在(某处)",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "resident",
-      "phonetic": "ˈɹɛ.zɪ.dənt",
-      "pos": "adj.",
-      "definition": "居住的n. 居民；住院医师",
-      "frequency": 1260,
-      "collocations": [
-        "urban residents: 城市居民",
-        "It began as a military communication system,which expanded into a government-funded research network."
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residency",
-      "phonetic": "ˈɹɛ.zɪ.dən.si",
-      "pos": "n.",
-      "definition": "居住；(医生的)实习期",
-      "frequency": 9585,
-      "collocations": [
-        "Canadian residency: 加拿大的居住权",
-        "complete his residency at the University Hospital: 在大学附属医院完成 了实习期"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residential",
-      "phonetic": "ˌɹɛ.zɪ.ˈdɛn.ʃəl",
-      "pos": "adj.",
-      "definition": "住宅的；寄宿制的",
-      "frequency": 3866,
-      "mnemonic": "resident(居住的)+-ial(形容词后缀)→住宅的；寄宿制的",
-      "collocations": [
-        "a posh residential area: 一个豪华住宅区",
-        "a two-year residential course: 两年的住校课程"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residue",
-      "phonetic": "ˈɹɛ.zə.du",
-      "pos": "n.",
-      "definition": "残留物",
-      "frequency": 7716,
-      "mnemonic": "re-(back : 后面)+-sid(坐)+-ue (名词后缀)→往后坐→remain behind,left over: 剩余，留下→残留物",
-      "collocations": [
-        "pesticide residues: 杀虫剂",
-        "the residue of the estate: 剩余遗产"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residual",
-      "phonetic": "ɹɪ.ˈzɪ.dʒu.əl",
-      "pos": "adj.",
-      "definition": "残留的",
-      "frequency": 7922,
-      "collocations": [
-        "a few residual problems: 一些残留问题"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "residuals",
-      "phonetic": "ɹɪ.ˈzɪ.dʒu.əlz",
-      "pos": "n.",
-      "definition": "残留物",
-      "frequency": 13885,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "subside",
-      "phonetic": "səbˈsaɪd",
-      "pos": "vi.",
-      "definition": "减弱；平息；下陷；(尤指洪水的水位)回落",
-      "frequency": 8967,
-      "mnemonic": "sub-(under,beneath: 向下)+-sid(坐)+e→sit down,sink,fall: 即坐下去 的，下陷，沉降→ 比喻义减弱；平息；下陷；回落",
-      "collocations": [
-        "cause the house to subside: 造成房子下陷"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "subsidy",
-      "phonetic": "ˈsʌb.sɪ.di",
-      "pos": "n.",
-      "definition": "津贴；补助金；补贴",
-      "frequency": 4299,
-      "mnemonic": "sub-(后面)+-sid (坐)+y→ 坐在你后面(即：背后有人“支持，援助”\n你)→帮助；补助；补贴",
-      "collocations": [
-        "provide subsidies: 提供津贴",
-        "subsidy的派生词有subsidize,subsidized,subsidiary 等。"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "subsidize",
-      "phonetic": "ˈsʌb.sɪ.daɪz",
-      "pos": "vt.",
-      "definition": "资助；补贴",
-      "frequency": 7374,
-      "collocations": [
-        "subsidize the housing projects: 补贴住房项目"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "subsidized",
-      "phonetic": "ˈsʌb.sɪ.daɪzd",
-      "pos": "adj.",
-      "definition": "被补贴了的",
-      "frequency": 13777,
-      "collocations": [
-        "heavily subsidized prices for: 受到高额补贴的……的价格"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "subsidiary",
-      "phonetic": "səbˈsɪ.diˌɛ.ɹi",
-      "pos": "n.",
-      "definition": "子公司adj. 辅助的",
-      "frequency": 7659,
-      "collocations": [
-        "play a subsidiary role to: 扮演……的辅助角色"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "insidious",
-      "phonetic": "ɪnˈsɪ.di.əs",
-      "pos": "adj.",
-      "definition": "潜伏的；暗中为害的",
-      "frequency": 12692,
-      "mnemonic": "in-(-in : 里面)+-sid (坐)+-ious (形容词后缀)→ 即坐在里边的→伏击等 待，意图使……陷入网罗→潜伏的；暗中为害的",
-      "collocations": [
-        "the insidious effects: 潜在恶果",
-        "insidious changes: 悄然发生的变化"
-      ],
-      "etymology": "1540s,from Middle French insidieux “insidious”(15c.)or directly from Latin insidiosus \"deceitful,cunning,artful,treacherous,\"from insidiae (plural)“plot,snare,ambush”.",
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "beside",
-      "phonetic": "bɪˈsaɪd",
-      "pos": "prep.",
-      "definition": "在旁边",
-      "frequency": 1992,
-      "mnemonic": "be-(=by: 在……旁边)+side(=sit: 坐)→坐在……旁边→在旁边",
-      "collocations": [
-        "beside yourself with(anger or excitement):…… ·生气/激动的要发狂了 beside an empty plate: 在空碟子旁边"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "besides",
-      "phonetic": "bɪˈsaɪdz",
-      "pos": "prep.",
-      "definition": "除了adv.此外；而且",
-      "frequency": 3037,
-      "mnemonic": "besides=moreover,in addition to",
-      "collocations": [
-        "have many good qualities besides being very beautiful: 除了非常漂亮之 外，还有许多好的品质",
-        "take home masses of cookies besides: 还能带许多饼干回家"
-      ],
-      "examples": [
-        "The house was out of our price range and too big anyway.Besides,I'd grown fond ofour little rented house.\n反正这个房子超出了我们的预算范围，而且也太大了。再说，我已经 渐渐喜欢上我们租的小房子了。"
-      ],
-      "rootHint": "sid"
-    },
-    {
-      "word": "siege",
-      "phonetic": "sidʒ",
-      "pos": "n.",
-      "definition": "围困；围攻",
-      "frequency": 6880,
-      "collocations": [
-        "lay siege to: 包 围",
-        "lift the siege: 解除包围"
-      ],
-      "etymology": "拉丁语sedere:to sit(坐)→古法语sege:seat,throne (座位；宝座)→通 笔 记 区 笔 记 区 俗拉丁语seat(座位)。13世纪早期的含义为“座位”,预言亚瑟王圆 桌旁的空位只注定留给找到圣杯的骑士。13世纪siege一词的军事含 义为在一个堡垒/要塞之外“坐着的”军队，即围攻堡垒、在要塞周 围安营扎寨的军队。因此有围攻的含义。",
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "besiege",
-      "phonetic": "bɪˈsidʒ",
-      "pos": "vt.",
-      "definition": "不断打扰；围攻",
-      "frequency": 15405,
-      "mnemonic": "be-(=by: 在周围)+siege(围攻)→在周围围攻→ 比喻义不断打扰",
-      "collocations": [
-        "be besieged by the press and the public: 不断被媒体和公众打扰 besiege the town: 围攻那个小镇"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "set",
-      "phonetic": "sɛt",
-      "pos": "vt.",
-      "definition": "放置；使……处于某种状况；确定 adj. 处于……的 n. 系列； 一 盘；布景",
-      "frequency": 295,
-      "collocations": [
-        "set the scene/set the stage for: 为……作好准备；为……创造条件 set the kitchen timer going: 启动厨房定时器",
-        "set a date: 确定日期\nset up: 建立a set of: 一套"
-      ],
-      "etymology": "来自古英语 settan:cause to sit,put in some place,build→使坐下，放 置，建造。",
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "beset",
-      "phonetic": "bɪˈsɛt",
-      "pos": "vt.",
-      "definition": "困扰",
-      "frequency": 13830,
-      "mnemonic": "be(on all sides,all about: 到处)+set(放置)→到处放置(问题、困难)→ 困扰",
-      "collocations": [
-        "beset by/with: 受……困扰；被包围",
-        "beset with difficulties: 困难重重"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "inset",
-      "phonetic": "ˈɪn.sɛt",
-      "pos": "adj.",
-      "definition": "镶嵌着……的n. 大图中插入的小图(画中画)16636",
-      "mnemonic": "in-(进入；使)+set( 放置)→在内部放置的→镶嵌着……的；画中画",
-      "collocations": [
-        "paint between 10 and 20 insets for my murals: 给我的壁画绘10到20张 画中画"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "reset",
-      "phonetic": "ˌɹi.ˈsɛt",
-      "pos": "vi.",
-      "definition": "重新设定",
-      "frequency": 13212,
-      "mnemonic": "re-(再；重新)+set(设置)→重新设置(机器或装置)",
-      "collocations": [
-        "reset the alarm: 重设了报警器"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "setback",
-      "phonetic": "ˈsɛt.bæk",
-      "pos": "n.",
-      "definition": "挫折；倒退",
-      "frequency": 7430,
-      "mnemonic": "set (安置；设置)+back(向后)→check to progress: 向后设置，进步的阻 碍→倒退；挫折",
-      "collocations": [
-        "suffer a major setback: 受到重挫"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "settee",
-      "phonetic": "sɛˈti",
-      "pos": "n.",
-      "definition": "软长椅(常带靠背与扶手);中型沙发",
-      "frequency": 19300,
-      "mnemonic": "settee=sofa,couch",
-      "collocations": [
-        "sofa settee: 长沙发",
-        "two-seater settee: 双人沙发椅"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "setting",
-      "phonetic": "ˈsɛtɪŋ",
-      "pos": "n.",
-      "definition": "(事件发生的)背景；地点",
-      "frequency": 1755,
-      "mnemonic": "set(放置；设置，双写t)+-ing(动名词后缀)→引申词义背景；地点",
-      "collocations": [
-        "setting sun: 落日",
-        "the perfect setting for romance: 浪漫的最佳地点"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "settle",
-      "phonetic": "ˈsɛtəl",
-      "pos": "vt.",
-      "definition": "&vi.定居；和解；结算 vt.解决(纠纷、问题等); 确定",
-      "frequency": 1323,
-      "mnemonic": "set(安装；安放)+le(动词后缀)→定居；解决，确定",
-      "collocations": [
-        "settle on Mars: 在火星上定居",
-        "settle disputes: 解决争端",
-        "settle down in the U.S.: 在美国定居",
-        "settle account: 结账；清算",
-        "settle 的 派 生 词 有 resettle,resettlement,settled,settlement,settler,unsettle, unsettled, unsettling 等 。"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "settled",
-      "phonetic": "ˈsɛtəld",
-      "pos": "adj.",
-      "definition": "安定的；习惯的；稳定不变的(形势或系统)16924a settled way of life安定的生活方式",
-      "collocations": [
-        "settled weather持续不变的天气"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "settler",
-      "phonetic": "ˈsɛtlɚ",
-      "pos": "n.",
-      "definition": "移民；殖民者",
-      "frequency": 5560,
-      "collocations": [
-        "white settlers in Africa: 非洲的白人移民",
-        "(写作，阅读)重点：“解决，处理”的表达方式：",
-        "deal with/handle/cope with/solve/resolve/dispose of/manage/settle/tackle 写作造句：解决盗版问题需要花费大量时间，金钱和努力。",
-        "It takes a great deal of time,money and efforts to deal with/handle/cope with/solve/dispose of/manage/settle/tackle the problem of piracy."
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "settlement",
-      "phonetic": "ˈsɛtəlmənt",
-      "pos": "n.",
-      "definition": "协议；和解；清偿；定居地",
-      "frequency": 2186,
-      "collocations": [
-        "secure a peace settlement: 确保达成一个和平协议",
-        "the settlement of debts: 债务清偿",
-        "out-of-court settlement: 庭外和解",
-        "a settlement of just fifty houses: 仅有50家住户的定居地"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "resettle",
-      "phonetic": "ˌɹi.ˈsɛ.təl",
-      "pos": "vt.",
-      "definition": "&vi. (政府或组织)使……重新定居",
-      "frequency": 17553,
-      "mnemonic": "re-(再，重新)+settle(定居)→重新定居/安置",
-      "collocations": [
-        "resettle in Britain and Canada: 重新定居在英国和加拿大"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "resettlement",
-      "phonetic": "ˌɹi.ˈsɛ.təl.mənt",
-      "pos": "n.",
-      "definition": "重新安置",
-      "frequency": 16793,
-      "collocations": [
-        "the resettlement of refugees: 难民的重新安置"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "unsettle",
-      "phonetic": "ʌnˈsɛtəl",
-      "pos": "vt.",
-      "definition": "使不安",
-      "frequency": 9789,
-      "mnemonic": "un-(opposite of: 相反)+settle (稳定)→使(心情)不稳定→使心神不宁； 使不安",
-      "collocations": [
-        "unsettle the kids: 让孩子心情不能安稳"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "unsettled",
-      "phonetic": "ʌnˈsɛtəld",
-      "pos": "adj.",
-      "definition": "动荡不安的；(因担忧)不能集中精力的；未解决",
-      "collocations": [
-        "unsettled issues: 为解决的问题",
-        "unsettled weather: 天气多变"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "unsettling",
-      "phonetic": "ʌnˈsɛtəlɪŋ",
-      "pos": "adj",
-      "definition": ".令人担忧的；令人不安的",
-      "frequency": 16056,
-      "collocations": [
-        "unsettling dreams: 令人不安的梦"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "seat",
-      "phonetic": "sit",
-      "pos": "n.",
-      "definition": "座位；(立法机构、董事会、委员会)的席位 vt. 使(自己)坐下； (建筑物、车等)提供(一定数量的)坐席",
-      "frequency": 897,
-      "mnemonic": "set-=to sit: 坐→seat: 座位",
-      "collocations": [
-        "take a back seat: 退居次位",
-        "seat oneself: 坐下",
-        "take a seat: 坐下",
-        "win a seat on the board: 在董事会谋得一席之地",
-        "seat 的派生词有seated,seating,unseat,backseat 等。"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "seated",
-      "phonetic": "ˈsitɪd",
-      "pos": "adj.",
-      "definition": "就座的",
-      "frequency": 11752,
-      "collocations": [
-        "deep seated: 根深蒂固的"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "seating",
-      "phonetic": "ˈsitɪŋ",
-      "pos": "n.",
-      "definition": "座席；(公共场所、正式场合的)座席安排",
-      "frequency": 8786,
-      "collocations": [
-        "be fitted with seating for: 装满了容纳……人的坐席"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "unseat",
-      "phonetic": "ʌnˈsit",
-      "pos": "vt.",
-      "definition": "剥夺(重要工作或地位)18429",
-      "mnemonic": "un-(opposite of: 相反)+seat (座位)→从座位上下来→剥夺(重要工作或 地位)",
-      "collocations": [
-        "unseat the president: 夺取总统权力"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "backseat",
-      "phonetic": "ˈbæk.sit",
-      "pos": "n.",
-      "definition": "后座",
-      "frequency": 11417,
-      "mnemonic": "back(后面的)+seat(座位)→后面的座位→后座",
-      "collocations": [
-        "backseat driver: 后座的司机"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "sedan",
-      "phonetic": "sɪˈdæn",
-      "pos": "n.",
-      "definition": "小轿车；(三厢)四门轿车",
-      "frequency": 7077,
-      "mnemonic": "sed-(to sit)+-an(名词后缀)→坐在椅子上的人→引申词义小轿车",
-      "collocations": [
-        "a five-seater family sedan: 五座家庭式轿车"
-      ],
-      "etymology": "来自意大利语sede, 椅子。来自拉丁语sedere, 坐。",
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "sedate",
-      "phonetic": "sɪˈdeɪt",
-      "pos": "adj.",
-      "definition": "镇静的；宁静的；严肃的 vt. ( 用镇静剂)使镇静",
-      "collocations": [
-        "a more sedate pace: 步调更加缓慢",
-        "a sedate country town: 宁静的乡间小镇"
-      ],
-      "etymology": "sedate=calm,quiet,from Latin past participle of sedare “to settle,calm”. 助记：sed(=to sit: 坐)+-ate(动词/形容词后缀)→坐着不动的→镇静的；宁静 的；严肃的",
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "sedative",
-      "phonetic": "ˈsɛdətɪv",
-      "pos": "n.",
-      "definition": "镇静剂adj. 镇静的",
-      "frequency": 19496,
-      "mnemonic": "sedate(使镇静)+-ive(名词/形容词后缀)→镇静剂；镇静的",
-      "collocations": [
-        "the sedative effect of the drug: 这药物的镇静效果"
-      ],
-      "examples": [],
-      "rootHint": "sid"
-    },
-    {
-      "word": "sedentary",
-      "phonetic": "ˈsɛdənˌtɛɹi",
-      "pos": "adj.",
-      "definition": "需要久坐的；惯于久坐不动的；定居的",
-      "frequency": 14228,
-      "mnemonic": "sedent-(remain in one place: 保持在一个位置，停在某处)+-ary ( 形容词 后缀)→ 固定、定居在一个地方的→久坐不动的；定居的",
-      "collocations": [
-        "and directly from Latin sedentarius “sitting,remaining in one place”.",
-        "a sedentary job/occupation/lifestyle: 倾向于久坐的工作/职业/生活方式 a sedentary population: 定居人口"
-      ],
-      "etymology": "1590s,\"remaining in one place,\"from Middle French sédentaire(16c.)",
-      "examples": [],
-      "rootHint": "sid"
-    }
-  ]
+    "id": "sid",
+    "source": "textbook-4",
+    "chapter": "17",
+    "chapterOrder": 117,
+    "titleZh": "sid",
+    "semanticLabel": "sid",
+    "meaningEn": null,
+    "meaningZh": "坐",
+    "roots": [
+        "sid"
+    ],
+    "words": [
+        {
+            "word": "preside",
+            "phonetic": "prɪˈzaɪd",
+            "pos": "vi.",
+            "definition": "主持(会议、仪式等);担任(会议)主席",
+            "frequency": 6892,
+            "mnemonic": "pre-(=before: 在前)+sid-(=to sit: 坐)+-e→坐在前面→ 引申义为主持； 指挥；担任主席",
+            "collocations": [
+                "preside over a meeting/seminar: 主持一个会议/研讨会 preside over sth: 负责(重要局面)",
+                "the presiding judge: 首席法官"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "president",
+            "phonetic": "ˈprɛ.zə.dənt",
+            "pos": "n.",
+            "definition": "总统；国家主席；(公司)董事长；(银行)行长；总 裁",
+            "frequency": 304,
+            "mnemonic": "pre-(前；先)+-sid-(=to sit: 坐)+-ent(名词后缀，表人)→坐在(会议等) 最前面的人(即：级别最高的人)→总统；国家主席；董事长",
+            "collocations": [
+                "President Bush: 布什总统",
+                "the president of General Motors: 通用汽车公司总裁"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "vice-president",
+            "phonetic": "ˌvaɪsˈprɛzɪdənt",
+            "pos": "n.",
+            "definition": "副总统；副主席；副总裁",
+            "frequency": 12306,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "presidential",
+            "phonetic": "ˌprɛ.zəˈdɛn.ʃəl",
+            "pos": "adj.",
+            "definition": "总统的；与总统有关的",
+            "frequency": 1624,
+            "mnemonic": "president(总统)+-ial(形容词后缀)→总统的；与总统有关的",
+            "collocations": [
+                "a presidential election: 总统大选",
+                "the party's presidential candidate: 该党的总统候选人"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "presidency",
+            "phonetic": "ˈprɛ.zə.dən.si",
+            "pos": "n.",
+            "definition": "总统(主席；总裁)的职位(任期))3465",
+            "mnemonic": "president(总统；主席；总裁)+-cy(去t变-cy, 名词后缀，表示职权)→ 总统(主席；总裁)的职位(任期)\nre-(back,again: 往后；反复)+-side(=sed-: 坐)→ 向后坐下，(可以)反 复休息，形容安顿下来→居住；定居；存在于",
+            "collocations": [
+                "the current holder of the EU presidency: 现任欧盟主席 during his presidency: 在他的总统任期内",
+                "reside with her mother in a Seattle suburb: 和她的妈妈住在西雅图郊区 reside in: 存在于……之中",
+                "reside的派生词有residency,residential, residual,residuals等。"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residence",
+            "phonetic": "ˈrɛ.zɪ.dəns",
+            "pos": "n.",
+            "definition": "住宅；住所；居住",
+            "frequency": 3803,
+            "mnemonic": "re-( 反复)+-sid-(=sit: 坐落；栖息)+-ence (名词后缀)→一个可以反复栖\n息/休息地方→住所，居住地；居住 搭配：in residence in: 住在(某处)",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "resident",
+            "phonetic": "ˈrɛ.zɪ.dənt",
+            "pos": "adj.",
+            "definition": "居住的n. 居民；住院医师",
+            "frequency": 1260,
+            "collocations": [
+                "urban residents: 城市居民",
+                "It began as a military communication system,which expanded into a government-funded research network."
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residency",
+            "phonetic": "ˈrɛ.zɪ.dən.si",
+            "pos": "n.",
+            "definition": "居住；(医生的)实习期",
+            "frequency": 9585,
+            "collocations": [
+                "Canadian residency: 加拿大的居住权",
+                "complete his residency at the University Hospital: 在大学附属医院完成 了实习期"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residential",
+            "phonetic": "ˌrɛ.zɪ.ˈdɛn.ʃəl",
+            "pos": "adj.",
+            "definition": "住宅的；寄宿制的",
+            "frequency": 3866,
+            "mnemonic": "resident(居住的)+-ial(形容词后缀)→住宅的；寄宿制的",
+            "collocations": [
+                "a posh residential area: 一个豪华住宅区",
+                "a two-year residential course: 两年的住校课程"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residue",
+            "phonetic": "ˈrɛ.zə.du",
+            "pos": "n.",
+            "definition": "残留物",
+            "frequency": 7716,
+            "mnemonic": "re-(back : 后面)+-sid(坐)+-ue (名词后缀)→往后坐→remain behind,left over: 剩余，留下→残留物",
+            "collocations": [
+                "pesticide residues: 杀虫剂",
+                "the residue of the estate: 剩余遗产"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residual",
+            "phonetic": "rɪ.ˈzɪ.dʒu.əl",
+            "pos": "adj.",
+            "definition": "残留的",
+            "frequency": 7922,
+            "collocations": [
+                "a few residual problems: 一些残留问题"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "residuals",
+            "phonetic": "rɪ.ˈzɪ.dʒu.əlz",
+            "pos": "n.",
+            "definition": "残留物",
+            "frequency": 13885,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "subside",
+            "phonetic": "səbˈsaɪd",
+            "pos": "vi.",
+            "definition": "减弱；平息；下陷；(尤指洪水的水位)回落",
+            "frequency": 8967,
+            "mnemonic": "sub-(under,beneath: 向下)+-sid(坐)+e→sit down,sink,fall: 即坐下去 的，下陷，沉降→ 比喻义减弱；平息；下陷；回落",
+            "collocations": [
+                "cause the house to subside: 造成房子下陷"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "subsidy",
+            "phonetic": "ˈsʌb.sɪ.di",
+            "pos": "n.",
+            "definition": "津贴；补助金；补贴",
+            "frequency": 4299,
+            "mnemonic": "sub-(后面)+-sid (坐)+y→ 坐在你后面(即：背后有人“支持，援助”\n你)→帮助；补助；补贴",
+            "collocations": [
+                "provide subsidies: 提供津贴",
+                "subsidy的派生词有subsidize,subsidized,subsidiary 等。"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "subsidize",
+            "phonetic": "ˈsʌb.sɪ.daɪz",
+            "pos": "vt.",
+            "definition": "资助；补贴",
+            "frequency": 7374,
+            "collocations": [
+                "subsidize the housing projects: 补贴住房项目"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "subsidized",
+            "phonetic": "ˈsʌb.sɪ.daɪzd",
+            "pos": "adj.",
+            "definition": "被补贴了的",
+            "frequency": 13777,
+            "collocations": [
+                "heavily subsidized prices for: 受到高额补贴的……的价格"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "subsidiary",
+            "phonetic": "səbˈsɪ.diˌɛ.ri",
+            "pos": "n.",
+            "definition": "子公司adj. 辅助的",
+            "frequency": 7659,
+            "collocations": [
+                "play a subsidiary role to: 扮演……的辅助角色"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "insidious",
+            "phonetic": "ɪnˈsɪ.di.əs",
+            "pos": "adj.",
+            "definition": "潜伏的；暗中为害的",
+            "frequency": 12692,
+            "mnemonic": "in-(-in : 里面)+-sid (坐)+-ious (形容词后缀)→ 即坐在里边的→伏击等 待，意图使……陷入网罗→潜伏的；暗中为害的",
+            "collocations": [
+                "the insidious effects: 潜在恶果",
+                "insidious changes: 悄然发生的变化"
+            ],
+            "etymology": "1540s,from Middle French insidieux “insidious”(15c.)or directly from Latin insidiosus \"deceitful,cunning,artful,treacherous,\"from insidiae (plural)“plot,snare,ambush”.",
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "beside",
+            "phonetic": "bɪˈsaɪd",
+            "pos": "prep.",
+            "definition": "在旁边",
+            "frequency": 1992,
+            "mnemonic": "be-(=by: 在……旁边)+side(=sit: 坐)→坐在……旁边→在旁边",
+            "collocations": [
+                "beside yourself with(anger or excitement):…… ·生气/激动的要发狂了 beside an empty plate: 在空碟子旁边"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "besides",
+            "phonetic": "bɪˈsaɪdz",
+            "pos": "prep.",
+            "definition": "除了adv.此外；而且",
+            "frequency": 3037,
+            "mnemonic": "besides=moreover,in addition to",
+            "collocations": [
+                "have many good qualities besides being very beautiful: 除了非常漂亮之 外，还有许多好的品质",
+                "take home masses of cookies besides: 还能带许多饼干回家"
+            ],
+            "examples": [
+                "The house was out of our price range and too big anyway.Besides,I'd grown fond ofour little rented house.\n反正这个房子超出了我们的预算范围，而且也太大了。再说，我已经 渐渐喜欢上我们租的小房子了。"
+            ],
+            "rootHint": "sid"
+        },
+        {
+            "word": "siege",
+            "phonetic": "sidʒ",
+            "pos": "n.",
+            "definition": "围困；围攻",
+            "frequency": 6880,
+            "collocations": [
+                "lay siege to: 包 围",
+                "lift the siege: 解除包围"
+            ],
+            "etymology": "拉丁语sedere:to sit(坐)→古法语sege:seat,throne (座位；宝座)→通 笔 记 区 笔 记 区 俗拉丁语seat(座位)。13世纪早期的含义为“座位”,预言亚瑟王圆 桌旁的空位只注定留给找到圣杯的骑士。13世纪siege一词的军事含 义为在一个堡垒/要塞之外“坐着的”军队，即围攻堡垒、在要塞周 围安营扎寨的军队。因此有围攻的含义。",
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "besiege",
+            "phonetic": "bɪˈsiːdʒ",
+            "pos": "vt.",
+            "definition": "不断打扰；围攻",
+            "frequency": 15405,
+            "mnemonic": "be-(=by: 在周围)+siege(围攻)→在周围围攻→ 比喻义不断打扰",
+            "collocations": [
+                "be besieged by the press and the public: 不断被媒体和公众打扰 besiege the town: 围攻那个小镇"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "set",
+            "phonetic": "sɛt",
+            "pos": "vt.",
+            "definition": "放置；使……处于某种状况；确定 adj. 处于……的 n. 系列； 一 盘；布景",
+            "frequency": 295,
+            "collocations": [
+                "set the scene/set the stage for: 为……作好准备；为……创造条件 set the kitchen timer going: 启动厨房定时器",
+                "set a date: 确定日期\nset up: 建立a set of: 一套"
+            ],
+            "etymology": "来自古英语 settan:cause to sit,put in some place,build→使坐下，放 置，建造。",
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "beset",
+            "phonetic": "bɪˈsɛt",
+            "pos": "vt.",
+            "definition": "困扰",
+            "frequency": 13830,
+            "mnemonic": "be(on all sides,all about: 到处)+set(放置)→到处放置(问题、困难)→ 困扰",
+            "collocations": [
+                "beset by/with: 受……困扰；被包围",
+                "beset with difficulties: 困难重重"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "inset",
+            "phonetic": "ˈɪn.sɛt",
+            "pos": "adj.",
+            "definition": "镶嵌着……的n. 大图中插入的小图(画中画)16636",
+            "mnemonic": "in-(进入；使)+set( 放置)→在内部放置的→镶嵌着……的；画中画",
+            "collocations": [
+                "paint between 10 and 20 insets for my murals: 给我的壁画绘10到20张 画中画"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "reset",
+            "phonetic": "ˌriː.ˈsɛt",
+            "pos": "vi.",
+            "definition": "重新设定",
+            "frequency": 13212,
+            "mnemonic": "re-(再；重新)+set(设置)→重新设置(机器或装置)",
+            "collocations": [
+                "reset the alarm: 重设了报警器"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "setback",
+            "phonetic": "ˈsɛt.bæk",
+            "pos": "n.",
+            "definition": "挫折；倒退",
+            "frequency": 7430,
+            "mnemonic": "set (安置；设置)+back(向后)→check to progress: 向后设置，进步的阻 碍→倒退；挫折",
+            "collocations": [
+                "suffer a major setback: 受到重挫"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "settee",
+            "phonetic": "sɛˈtiː",
+            "pos": "n.",
+            "definition": "软长椅(常带靠背与扶手);中型沙发",
+            "frequency": 19300,
+            "mnemonic": "settee=sofa,couch",
+            "collocations": [
+                "sofa settee: 长沙发",
+                "two-seater settee: 双人沙发椅"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "setting",
+            "phonetic": "ˈsɛtɪŋ",
+            "pos": "n.",
+            "definition": "(事件发生的)背景；地点",
+            "frequency": 1755,
+            "mnemonic": "set(放置；设置，双写t)+-ing(动名词后缀)→引申词义背景；地点",
+            "collocations": [
+                "setting sun: 落日",
+                "the perfect setting for romance: 浪漫的最佳地点"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "settle",
+            "phonetic": "ˈsɛtəl",
+            "pos": "vt.",
+            "definition": "&vi.定居；和解；结算 vt.解决(纠纷、问题等); 确定",
+            "frequency": 1323,
+            "mnemonic": "set(安装；安放)+le(动词后缀)→定居；解决，确定",
+            "collocations": [
+                "settle on Mars: 在火星上定居",
+                "settle disputes: 解决争端",
+                "settle down in the U.S.: 在美国定居",
+                "settle account: 结账；清算",
+                "settle 的 派 生 词 有 resettle,resettlement,settled,settlement,settler,unsettle, unsettled, unsettling 等 。"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "settled",
+            "phonetic": "ˈsɛtəld",
+            "pos": "adj.",
+            "definition": "安定的；习惯的；稳定不变的(形势或系统)16924a settled way of life安定的生活方式",
+            "collocations": [
+                "settled weather持续不变的天气"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "settler",
+            "phonetic": "ˈsɛtlɚ",
+            "pos": "n.",
+            "definition": "移民；殖民者",
+            "frequency": 5560,
+            "collocations": [
+                "white settlers in Africa: 非洲的白人移民",
+                "(写作，阅读)重点：“解决，处理”的表达方式：",
+                "deal with/handle/cope with/solve/resolve/dispose of/manage/settle/tackle 写作造句：解决盗版问题需要花费大量时间，金钱和努力。",
+                "It takes a great deal of time,money and efforts to deal with/handle/cope with/solve/dispose of/manage/settle/tackle the problem of piracy."
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "settlement",
+            "phonetic": "ˈsɛtəlmənt",
+            "pos": "n.",
+            "definition": "协议；和解；清偿；定居地",
+            "frequency": 2186,
+            "collocations": [
+                "secure a peace settlement: 确保达成一个和平协议",
+                "the settlement of debts: 债务清偿",
+                "out-of-court settlement: 庭外和解",
+                "a settlement of just fifty houses: 仅有50家住户的定居地"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "resettle",
+            "phonetic": "ˌriː.ˈsɛ.təl",
+            "pos": "vt.",
+            "definition": "&vi. (政府或组织)使……重新定居",
+            "frequency": 17553,
+            "mnemonic": "re-(再，重新)+settle(定居)→重新定居/安置",
+            "collocations": [
+                "resettle in Britain and Canada: 重新定居在英国和加拿大"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "resettlement",
+            "phonetic": "ˌriː.ˈsɛ.təl.mənt",
+            "pos": "n.",
+            "definition": "重新安置",
+            "frequency": 16793,
+            "collocations": [
+                "the resettlement of refugees: 难民的重新安置"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "unsettle",
+            "phonetic": "ʌnˈsɛtəl",
+            "pos": "vt.",
+            "definition": "使不安",
+            "frequency": 9789,
+            "mnemonic": "un-(opposite of: 相反)+settle (稳定)→使(心情)不稳定→使心神不宁； 使不安",
+            "collocations": [
+                "unsettle the kids: 让孩子心情不能安稳"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "unsettled",
+            "phonetic": "ʌnˈsɛtəld",
+            "pos": "adj.",
+            "definition": "动荡不安的；(因担忧)不能集中精力的；未解决",
+            "collocations": [
+                "unsettled issues: 为解决的问题",
+                "unsettled weather: 天气多变"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "unsettling",
+            "phonetic": "ʌnˈsɛtəlɪŋ",
+            "pos": "adj",
+            "definition": ".令人担忧的；令人不安的",
+            "frequency": 16056,
+            "collocations": [
+                "unsettling dreams: 令人不安的梦"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "seat",
+            "phonetic": "sit",
+            "pos": "n.",
+            "definition": "座位；(立法机构、董事会、委员会)的席位 vt. 使(自己)坐下； (建筑物、车等)提供(一定数量的)坐席",
+            "frequency": 897,
+            "mnemonic": "set-=to sit: 坐→seat: 座位",
+            "collocations": [
+                "take a back seat: 退居次位",
+                "seat oneself: 坐下",
+                "take a seat: 坐下",
+                "win a seat on the board: 在董事会谋得一席之地",
+                "seat 的派生词有seated,seating,unseat,backseat 等。"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "seated",
+            "phonetic": "ˈsiːtɪd",
+            "pos": "adj.",
+            "definition": "就座的",
+            "frequency": 11752,
+            "collocations": [
+                "deep seated: 根深蒂固的"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "seating",
+            "phonetic": "ˈsiːtɪŋ",
+            "pos": "n.",
+            "definition": "座席；(公共场所、正式场合的)座席安排",
+            "frequency": 8786,
+            "collocations": [
+                "be fitted with seating for: 装满了容纳……人的坐席"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "unseat",
+            "phonetic": "ʌnˈsiːt",
+            "pos": "vt.",
+            "definition": "剥夺(重要工作或地位)18429",
+            "mnemonic": "un-(opposite of: 相反)+seat (座位)→从座位上下来→剥夺(重要工作或 地位)",
+            "collocations": [
+                "unseat the president: 夺取总统权力"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "backseat",
+            "phonetic": "ˈbæk.sit",
+            "pos": "n.",
+            "definition": "后座",
+            "frequency": 11417,
+            "mnemonic": "back(后面的)+seat(座位)→后面的座位→后座",
+            "collocations": [
+                "backseat driver: 后座的司机"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "sedan",
+            "phonetic": "sɪˈdæn",
+            "pos": "n.",
+            "definition": "小轿车；(三厢)四门轿车",
+            "frequency": 7077,
+            "mnemonic": "sed-(to sit)+-an(名词后缀)→坐在椅子上的人→引申词义小轿车",
+            "collocations": [
+                "a five-seater family sedan: 五座家庭式轿车"
+            ],
+            "etymology": "来自意大利语sede, 椅子。来自拉丁语sedere, 坐。",
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "sedate",
+            "phonetic": "sɪˈdeɪt",
+            "pos": "adj.",
+            "definition": "镇静的；宁静的；严肃的 vt. ( 用镇静剂)使镇静",
+            "collocations": [
+                "a more sedate pace: 步调更加缓慢",
+                "a sedate country town: 宁静的乡间小镇"
+            ],
+            "etymology": "sedate=calm,quiet,from Latin past participle of sedare “to settle,calm”. 助记：sed(=to sit: 坐)+-ate(动词/形容词后缀)→坐着不动的→镇静的；宁静 的；严肃的",
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "sedative",
+            "phonetic": "ˈsɛdətɪv",
+            "pos": "n.",
+            "definition": "镇静剂adj. 镇静的",
+            "frequency": 19496,
+            "mnemonic": "sedate(使镇静)+-ive(名词/形容词后缀)→镇静剂；镇静的",
+            "collocations": [
+                "the sedative effect of the drug: 这药物的镇静效果"
+            ],
+            "examples": [],
+            "rootHint": "sid"
+        },
+        {
+            "word": "sedentary",
+            "phonetic": "ˈsɛdənˌtɛriː",
+            "pos": "adj.",
+            "definition": "需要久坐的；惯于久坐不动的；定居的",
+            "frequency": 14228,
+            "mnemonic": "sedent-(remain in one place: 保持在一个位置，停在某处)+-ary ( 形容词 后缀)→ 固定、定居在一个地方的→久坐不动的；定居的",
+            "collocations": [
+                "and directly from Latin sedentarius “sitting,remaining in one place”.",
+                "a sedentary job/occupation/lifestyle: 倾向于久坐的工作/职业/生活方式 a sedentary population: 定居人口"
+            ],
+            "etymology": "1590s,\"remaining in one place,\"from Middle French sédentaire(16c.)",
+            "examples": [],
+            "rootHint": "sid"
+        }
+    ]
 }

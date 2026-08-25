@@ -1,283 +1,283 @@
 {
-  "chapter": "43",
-  "chapterOrder": 143,
-  "id": "cap",
-  "meaningEn": "抓，掌控，是和单词grasp",
-  "meaningZh": "抓住，控制，理解",
-  "roots": [
-    "cap"
-  ],
-  "semanticLabel": "抓住，控制，理解",
-  "source": "textbook-5",
-  "titleZh": "抓住，控制，理解",
-  "words": [
-    {
-      "collocations": [
-        "accept an offer of marriage：接受了求婚",
-        "accept that view：相信那个观念",
-        "accept suffering：容忍苦难",
-        "accept the advertising：承接这则广告",
-        "accept orders：接受命令",
-        "accept responsibility for ...：承担……的责任"
-      ],
-      "definition": "&vi. 接受 vt. 相信；接受；容忍；接纳；承担（责任等）",
-      "etymology": "直接来自拉丁语acceptare “take or receive willingly”.",
-      "examples": [],
-      "frequency": 767,
-      "mnemonic": "ac-（=to）+ -cept（=to take, receive：拿起；接到）→接受；吸收",
-      "phonetic": "ək.ˈsɛpt",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "accept"
-    },
-    {
-      "collocations": [],
-      "definition": "可接受的；足够好的；相当好的",
-      "examples": [
-        "It is becoming more acceptable for women to drink.\n女性饮酒越来越为人接受。"
-      ],
-      "frequency": 3445,
-      "mnemonic": "accept（接受）+ -able（形容词后缀，能够……的）→能够被接受的\n→可接受的；足够好的",
-      "phonetic": "ək.ˈsɛp.tə.bəl",
-      "pos": "adj.",
-      "rootHint": "cap",
-      "word": "acceptable"
-    },
-    {
-      "collocations": [],
-      "definition": "不能接受（或允许、同意）的",
-      "examples": [
-        "Noise from the factory has reached an unacceptable level.\n工厂的噪声达到了难以容忍的地步。"
-      ],
-      "frequency": 6629,
-      "mnemonic": "un-（=not：不）+acceptable（可接受的）→不能接受的",
-      "phonetic": "ˌʌnəkˈsɛptəbəl",
-      "pos": "adj.",
-      "rootHint": "cap",
-      "word": "unacceptable"
-    },
-    {
-      "collocations": [
-        "his acceptance speech for the Nobel Peace Prize：",
-        "gain acceptance：得到承认",
-        "his calm acceptance of whatever comes his way：\n他对任何事情的从容接纳",
-        "achieve real acceptance and integration：获得真正的接纳与融入"
-      ],
-      "definition": "接受；承认；容忍；接纳",
-      "examples": [],
-      "frequency": 3473,
-      "mnemonic": "accept（接受；接纳）+ -ance（名词后缀）→接受；承认；容忍；接",
-      "phonetic": "ək.ˈsɛp.təns",
-      "pos": "n.",
-      "rootHint": "cap",
-      "word": "acceptance"
-    },
-    {
-      "collocations": [
-        "accepted definition of life：对生活公认的定义",
-        "It is accepted wisdom that ...：人们普遍认为……",
-        "accepted practice：习惯作法"
-      ],
-      "definition": "为公众所接受的；公认的",
-      "examples": [],
-      "frequency": 6833,
-      "phonetic": "ək.ˈsɛp.tɪd",
-      "pos": "adj.",
-      "rootHint": "cap",
-      "word": "accepted"
-    },
-    {
-      "collocations": [
-        "the social acceptability of divorce：社会对离婚的接纳"
-      ],
-      "definition": "可接受性",
-      "examples": [],
-      "frequency": 15753,
-      "mnemonic": "acceptabil（acceptable：可接受的）+ -ity（名词后缀，表示某种性\n质）→worthy of acceptance：值得接受→可接受性",
-      "phonetic": "ək.ˌsɛp.tə.ˈbɪ.lə.ti",
-      "pos": "n.",
-      "rootHint": "cap",
-      "word": "acceptability"
-    },
-    {
-      "collocations": [
-        "basic moral precepts：基本的道德准则"
-      ],
-      "definition": "（思想、行为的）准则；规范",
-      "examples": [],
-      "frequency": 14407,
-      "mnemonic": "pre-（=before：提前；预先）+ -cept（=to take, to grasp：拿，握，\n持有）→take beforehand：提前抓住；预先持有（行为规则）→（思",
-      "phonetic": "ˈpɹi.sɛpt",
-      "pos": "n.",
-      "rootHint": "cap",
-      "word": "precept"
-    },
-    {
-      "collocations": [
-        "catch the fish：捕到了这条鱼",
-        "catch his arm：抓住了他的胳膊",
-        "catch the light of the moon：映着月光闪闪发亮",
-        "be caught in a storm：遭遇暴风雨袭击"
-      ],
-      "definition": "抓住；握住；捕获；引起（注意、兴趣）；受（光）照射；遭遇（暴风雨、不幸） n. 锁扣；隐藏的困难；意料不到的情况",
-      "examples": [],
-      "frequency": 587,
-      "phonetic": "kætʃ",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "catch"
-    },
-    {
-      "collocations": [
-        "a rat catcher：捕鼠器"
-      ],
-      "definition": "接球手；捕捉者",
-      "examples": [],
-      "frequency": 7602,
-      "phonetic": "ˈkætʃɚ",
-      "pos": "n.",
-      "rootHint": "cap",
-      "word": "catcher"
-    },
-    {
-      "collocations": [],
-      "definition": "（乐曲、名字、广告）引人注意的；容易记住的",
-      "examples": [
-        "The songs were both catchy and cutting.\n这些歌曲易上口且尖刻。"
-      ],
-      "frequency": 18100,
-      "phonetic": "ˈkætʃi",
-      "pos": "adj.",
-      "rootHint": "cap",
-      "word": "catchy"
-    },
-    {
-      "collocations": [
-        "seize my arm：抓住我的胳膊",
-        "seize the airport：占领了机场",
-        "seize the opportunity to steal property：乘机窃取财物"
-      ],
-      "definition": "抓住；夺取；没收；逮捕；抓住（机会）",
-      "examples": [],
-      "frequency": 3258,
-      "mnemonic": "seize = to take by force：用武力抓住→抓住；夺取；没收；逮捕",
-      "phonetic": "siz",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "seize"
-    },
-    {
-      "collocations": [
-        "a scratch on the paintwork：漆面上的一道划痕",
-        "a scratch team：一支仓促组建的队伍",
-        "scratch the furniture：刮坏家具",
-        "inability to find a primary care physician just scratch the surface of the",
-        "problems that patients face daily.\n巨额的医疗保健费用，急诊室外长时间的等待和无法找到一个初级护\n理医师，这些都只触及到病人每天必须面对的一些表面问题。",
-        "Ashby Plant是众多利用奥巴马的候选资格来进行关于人物榜样影响力\n的假说测试心理学家之一。"
-      ],
-      "definition": "挠；划破，抓破（皮肤）；（尤指意外地）擦破 n. （皮肤或物体表面上的）划痕，划伤 adj. 仓促拼凑的",
-      "examples": [
-        "Does the cat scratch? 这只猫抓人吗？",
-        "1） Crippling health care bills, long emergency-room waits and the\n2） Ashby Plant is one of a number of psychologists who seized on\nObama’s candidacy to test hypotheses about the power of role models."
-      ],
-      "frequency": 4698,
-      "phonetic": "skɹætʃ",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "scratch"
-    },
-    {
-      "collocations": [
-        "a mild cardiac seizure：一次轻度心脏病发作",
-        "the seizure of territory through force：对领土的武装占领。",
-        "seizures of heroin：缴获海洛因"
-      ],
-      "definition": "（心脏病、脑部疾病等的）突然发作；占领，控制；缴获；没收",
-      "examples": [],
-      "frequency": 7501,
-      "mnemonic": "seiz（=seize：抓住；夺取）+ -ure（名词后缀）→引申词义疾病突然",
-      "phonetic": "ˈsiʒɚ",
-      "pos": "n.",
-      "rootHint": "cap",
-      "word": "seizure"
-    },
-    {
-      "collocations": [
-        "grasp opportunity：抓住机会",
-        "a good grasp of foreign languages：好地掌握了各门外语",
-        "within someone’s grasp：为某人所能及",
-        "His hand was taken in a warm, firm grasp.\n他的手被热情地、紧紧地握住了。"
-      ],
-      "definition": "抓牢；理解 n. 紧握；掌控；理解",
-      "examples": [
-        "She allowed victory to slip from her grasp.\n她听任胜利从手中溜走。"
-      ],
-      "frequency": 4218,
-      "mnemonic": "grasp=to seize：抓住→引申义为掌控；理解",
-      "phonetic": "ɡɹæsp",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "grasp"
-    },
-    {
-      "collocations": [
-        "in the grips of：控制在……手中",
-        "grip strength：握力",
-        "be gripped by the dramatic story：被这个戏剧性的故事所吸引",
-        "come to grips with：认真着手处理\nget a grip：控制；完善",
-        "in the grip of：在某事的强烈影响下\nlose grip：失去掌控",
-        "grip on reality：面对现实"
-      ],
-      "definition": "紧握；强烈地影响；吸引 n. 紧握；掌控；抓力",
-      "examples": [],
-      "frequency": 3730,
-      "mnemonic": "grip = seize：抓住",
-      "phonetic": "ɡɹɪp",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "grip"
-    },
-    {
-      "collocations": [],
-      "definition": "吸引人的",
-      "examples": [
-        "The film turned out to be a gripping thriller.\n这部电影原来是一部扣人心弦的惊险片。"
-      ],
-      "frequency": 15586,
-      "mnemonic": "grip（紧握；强烈影响，双写p）+ -ing（形容词后缀）→吸引人的",
-      "phonetic": "ˈɡɹɪ.pɪŋ",
-      "pos": "adj.",
-      "rootHint": "cap",
-      "word": "gripping"
-    },
-    {
-      "collocations": [],
-      "definition": "不停地抱怨；发牢骚 n. 抱怨；牢骚",
-      "examples": [
-        "My only gripe about the hotel was the food.\n我对这家旅馆唯一不满的是伙食。"
-      ],
-      "frequency": 18218,
-      "mnemonic": "to seize firmly, get hold of：紧紧抓住→比喻义麻烦缠身的，因此不停",
-      "phonetic": "ɡɹaɪp",
-      "pos": "vi.",
-      "rootHint": "cap",
-      "word": "gripe"
-    },
-    {
-      "collocations": [
-        "grab her hand：抓住了她的手",
-        "up for grabs：任何人都可竞购的\nGrab a beer. 快喝杯啤酒吧。"
-      ],
-      "definition": "抓住；引起……的注意 vi. （设法）抓住 n. 抓住",
-      "examples": [
-        "The famous Ritz hotel is up for grabs for $100 million.\n著名的里茨大饭店出价1亿美元供人竞购。"
-      ],
-      "frequency": 1486,
-      "mnemonic": "a sudden grasp or seizing：突然抓住；攫取",
-      "phonetic": "ɡɹæb",
-      "pos": "vt.",
-      "rootHint": "cap",
-      "word": "grab"
-    }
-  ]
+    "chapter": "43",
+    "chapterOrder": 143,
+    "id": "cap",
+    "meaningEn": "抓，掌控，是和单词grasp",
+    "meaningZh": "抓住，控制，理解",
+    "roots": [
+        "cap"
+    ],
+    "semanticLabel": "抓住，控制，理解",
+    "source": "textbook-5",
+    "titleZh": "抓住，控制，理解",
+    "words": [
+        {
+            "collocations": [
+                "accept an offer of marriage：接受了求婚",
+                "accept that view：相信那个观念",
+                "accept suffering：容忍苦难",
+                "accept the advertising：承接这则广告",
+                "accept orders：接受命令",
+                "accept responsibility for ...：承担……的责任"
+            ],
+            "definition": "&vi. 接受 vt. 相信；接受；容忍；接纳；承担（责任等）",
+            "etymology": "直接来自拉丁语acceptare “take or receive willingly”.",
+            "examples": [],
+            "frequency": 767,
+            "mnemonic": "ac-（=to）+ -cept（=to take, receive：拿起；接到）→接受；吸收",
+            "phonetic": "ək.ˈsɛpt",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "accept"
+        },
+        {
+            "collocations": [],
+            "definition": "可接受的；足够好的；相当好的",
+            "examples": [
+                "It is becoming more acceptable for women to drink.\n女性饮酒越来越为人接受。"
+            ],
+            "frequency": 3445,
+            "mnemonic": "accept（接受）+ -able（形容词后缀，能够……的）→能够被接受的\n→可接受的；足够好的",
+            "phonetic": "ək.ˈsɛp.tə.bəl",
+            "pos": "adj.",
+            "rootHint": "cap",
+            "word": "acceptable"
+        },
+        {
+            "collocations": [],
+            "definition": "不能接受（或允许、同意）的",
+            "examples": [
+                "Noise from the factory has reached an unacceptable level.\n工厂的噪声达到了难以容忍的地步。"
+            ],
+            "frequency": 6629,
+            "mnemonic": "un-（=not：不）+acceptable（可接受的）→不能接受的",
+            "phonetic": "ˌʌnəkˈsɛptəbəl",
+            "pos": "adj.",
+            "rootHint": "cap",
+            "word": "unacceptable"
+        },
+        {
+            "collocations": [
+                "his acceptance speech for the Nobel Peace Prize：",
+                "gain acceptance：得到承认",
+                "his calm acceptance of whatever comes his way：\n他对任何事情的从容接纳",
+                "achieve real acceptance and integration：获得真正的接纳与融入"
+            ],
+            "definition": "接受；承认；容忍；接纳",
+            "examples": [],
+            "frequency": 3473,
+            "mnemonic": "accept（接受；接纳）+ -ance（名词后缀）→接受；承认；容忍；接",
+            "phonetic": "ək.ˈsɛp.təns",
+            "pos": "n.",
+            "rootHint": "cap",
+            "word": "acceptance"
+        },
+        {
+            "collocations": [
+                "accepted definition of life：对生活公认的定义",
+                "It is accepted wisdom that ...：人们普遍认为……",
+                "accepted practice：习惯作法"
+            ],
+            "definition": "为公众所接受的；公认的",
+            "examples": [],
+            "frequency": 6833,
+            "phonetic": "ək.ˈsɛp.tɪd",
+            "pos": "adj.",
+            "rootHint": "cap",
+            "word": "accepted"
+        },
+        {
+            "collocations": [
+                "the social acceptability of divorce：社会对离婚的接纳"
+            ],
+            "definition": "可接受性",
+            "examples": [],
+            "frequency": 15753,
+            "mnemonic": "acceptabil（acceptable：可接受的）+ -ity（名词后缀，表示某种性\n质）→worthy of acceptance：值得接受→可接受性",
+            "phonetic": "ək.ˌsɛp.tə.ˈbɪ.lə.ti",
+            "pos": "n.",
+            "rootHint": "cap",
+            "word": "acceptability"
+        },
+        {
+            "collocations": [
+                "basic moral precepts：基本的道德准则"
+            ],
+            "definition": "（思想、行为的）准则；规范",
+            "examples": [],
+            "frequency": 14407,
+            "mnemonic": "pre-（=before：提前；预先）+ -cept（=to take, to grasp：拿，握，\n持有）→take beforehand：提前抓住；预先持有（行为规则）→（思",
+            "phonetic": "ˈpriː.sɛpt",
+            "pos": "n.",
+            "rootHint": "cap",
+            "word": "precept"
+        },
+        {
+            "collocations": [
+                "catch the fish：捕到了这条鱼",
+                "catch his arm：抓住了他的胳膊",
+                "catch the light of the moon：映着月光闪闪发亮",
+                "be caught in a storm：遭遇暴风雨袭击"
+            ],
+            "definition": "抓住；握住；捕获；引起（注意、兴趣）；受（光）照射；遭遇（暴风雨、不幸） n. 锁扣；隐藏的困难；意料不到的情况",
+            "examples": [],
+            "frequency": 587,
+            "phonetic": "kætʃ",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "catch"
+        },
+        {
+            "collocations": [
+                "a rat catcher：捕鼠器"
+            ],
+            "definition": "接球手；捕捉者",
+            "examples": [],
+            "frequency": 7602,
+            "phonetic": "ˈkætʃɚ",
+            "pos": "n.",
+            "rootHint": "cap",
+            "word": "catcher"
+        },
+        {
+            "collocations": [],
+            "definition": "（乐曲、名字、广告）引人注意的；容易记住的",
+            "examples": [
+                "The songs were both catchy and cutting.\n这些歌曲易上口且尖刻。"
+            ],
+            "frequency": 18100,
+            "phonetic": "ˈkætʃiː",
+            "pos": "adj.",
+            "rootHint": "cap",
+            "word": "catchy"
+        },
+        {
+            "collocations": [
+                "seize my arm：抓住我的胳膊",
+                "seize the airport：占领了机场",
+                "seize the opportunity to steal property：乘机窃取财物"
+            ],
+            "definition": "抓住；夺取；没收；逮捕；抓住（机会）",
+            "examples": [],
+            "frequency": 3258,
+            "mnemonic": "seize = to take by force：用武力抓住→抓住；夺取；没收；逮捕",
+            "phonetic": "siz",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "seize"
+        },
+        {
+            "collocations": [
+                "a scratch on the paintwork：漆面上的一道划痕",
+                "a scratch team：一支仓促组建的队伍",
+                "scratch the furniture：刮坏家具",
+                "inability to find a primary care physician just scratch the surface of the",
+                "problems that patients face daily.\n巨额的医疗保健费用，急诊室外长时间的等待和无法找到一个初级护\n理医师，这些都只触及到病人每天必须面对的一些表面问题。",
+                "Ashby Plant是众多利用奥巴马的候选资格来进行关于人物榜样影响力\n的假说测试心理学家之一。"
+            ],
+            "definition": "挠；划破，抓破（皮肤）；（尤指意外地）擦破 n. （皮肤或物体表面上的）划痕，划伤 adj. 仓促拼凑的",
+            "examples": [
+                "Does the cat scratch? 这只猫抓人吗？",
+                "1） Crippling health care bills, long emergency-room waits and the\n2） Ashby Plant is one of a number of psychologists who seized on\nObama’s candidacy to test hypotheses about the power of role models."
+            ],
+            "frequency": 4698,
+            "phonetic": "skrætʃ",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "scratch"
+        },
+        {
+            "collocations": [
+                "a mild cardiac seizure：一次轻度心脏病发作",
+                "the seizure of territory through force：对领土的武装占领。",
+                "seizures of heroin：缴获海洛因"
+            ],
+            "definition": "（心脏病、脑部疾病等的）突然发作；占领，控制；缴获；没收",
+            "examples": [],
+            "frequency": 7501,
+            "mnemonic": "seiz（=seize：抓住；夺取）+ -ure（名词后缀）→引申词义疾病突然",
+            "phonetic": "ˈsiːʒɚ",
+            "pos": "n.",
+            "rootHint": "cap",
+            "word": "seizure"
+        },
+        {
+            "collocations": [
+                "grasp opportunity：抓住机会",
+                "a good grasp of foreign languages：好地掌握了各门外语",
+                "within someone’s grasp：为某人所能及",
+                "His hand was taken in a warm, firm grasp.\n他的手被热情地、紧紧地握住了。"
+            ],
+            "definition": "抓牢；理解 n. 紧握；掌控；理解",
+            "examples": [
+                "She allowed victory to slip from her grasp.\n她听任胜利从手中溜走。"
+            ],
+            "frequency": 4218,
+            "mnemonic": "grasp=to seize：抓住→引申义为掌控；理解",
+            "phonetic": "ɡræsp",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "grasp"
+        },
+        {
+            "collocations": [
+                "in the grips of：控制在……手中",
+                "grip strength：握力",
+                "be gripped by the dramatic story：被这个戏剧性的故事所吸引",
+                "come to grips with：认真着手处理\nget a grip：控制；完善",
+                "in the grip of：在某事的强烈影响下\nlose grip：失去掌控",
+                "grip on reality：面对现实"
+            ],
+            "definition": "紧握；强烈地影响；吸引 n. 紧握；掌控；抓力",
+            "examples": [],
+            "frequency": 3730,
+            "mnemonic": "grip = seize：抓住",
+            "phonetic": "ɡrɪp",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "grip"
+        },
+        {
+            "collocations": [],
+            "definition": "吸引人的",
+            "examples": [
+                "The film turned out to be a gripping thriller.\n这部电影原来是一部扣人心弦的惊险片。"
+            ],
+            "frequency": 15586,
+            "mnemonic": "grip（紧握；强烈影响，双写p）+ -ing（形容词后缀）→吸引人的",
+            "phonetic": "ˈɡrɪ.pɪŋ",
+            "pos": "adj.",
+            "rootHint": "cap",
+            "word": "gripping"
+        },
+        {
+            "collocations": [],
+            "definition": "不停地抱怨；发牢骚 n. 抱怨；牢骚",
+            "examples": [
+                "My only gripe about the hotel was the food.\n我对这家旅馆唯一不满的是伙食。"
+            ],
+            "frequency": 18218,
+            "mnemonic": "to seize firmly, get hold of：紧紧抓住→比喻义麻烦缠身的，因此不停",
+            "phonetic": "ɡraɪp",
+            "pos": "vi.",
+            "rootHint": "cap",
+            "word": "gripe"
+        },
+        {
+            "collocations": [
+                "grab her hand：抓住了她的手",
+                "up for grabs：任何人都可竞购的\nGrab a beer. 快喝杯啤酒吧。"
+            ],
+            "definition": "抓住；引起……的注意 vi. （设法）抓住 n. 抓住",
+            "examples": [
+                "The famous Ritz hotel is up for grabs for $100 million.\n著名的里茨大饭店出价1亿美元供人竞购。"
+            ],
+            "frequency": 1486,
+            "mnemonic": "a sudden grasp or seizing：突然抓住；攫取",
+            "phonetic": "ɡræb",
+            "pos": "vt.",
+            "rootHint": "cap",
+            "word": "grab"
+        }
+    ]
 }

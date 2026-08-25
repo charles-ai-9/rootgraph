@@ -1,1193 +1,1193 @@
 {
-  "chapter": "八",
-  "chapterOrder": 8,
-  "id": "pos",
-  "meaningEn": "put",
-  "meaningZh": "放",
-  "roots": [
-    "pos",
-    "pon",
-    "pound"
-  ],
-  "semanticLabel": "put",
-  "source": "textbook-1",
-  "titleZh": "put",
-  "words": [
-    {
-      "collocations": [
-        "be composed of (考)：由……组成",
-        "introducing them into animal hosts(宿主), and allowing them to develop",
-        "into an organ (器官) in place of the animal’s own.\n这些器官将完全由人类细胞组成，让这些细胞在动物寄主内生长，让\n它们长成人类器官，而不是动物器官。",
-        "If you compose yourself or if you compose your features, you succeed in",
-        "becoming calm after you have been angry, excited, or upset. 使 (自己) 平\n静(或镇定)；使 (表情) 镇静下来"
-      ],
-      "definition": "构成；写作；使平静；排……的版",
-      "examples": [
-        "These organs would be entirely composed of human cells(细胞), grown by"
-      ],
-      "frequency": 3408,
-      "mnemonic": "com (一起) +pose (=put：放) → (把各部分) 放在一起→组成；作文\n(把文字放到一起) ；作曲 (把音符放到一起)",
-      "phonetic": "kəmˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "compose"
-    },
-    {
-      "collocations": [],
-      "definition": "作曲家；作家，著作者；设计者",
-      "examples": [],
-      "frequency": 5058,
-      "phonetic": "kəmˈpoʊzɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "composer"
-    },
-    {
-      "collocations": [],
-      "definition": "作文，作曲；构成；合成物",
-      "examples": [],
-      "frequency": 3025,
-      "phonetic": "ˌkɑmpəˈzɪʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "composition"
-    },
-    {
-      "collocations": [],
-      "definition": "组成的；创作的；作曲的",
-      "examples": [],
-      "frequency": 14670,
-      "phonetic": "ˌkɑmpəˈzɪʃənəl",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "compositional"
-    },
-    {
-      "collocations": [
-        "optional component (考)：可选成分",
-        "desirable element (考)：值得拥有的元素"
-      ],
-      "definition": "组成的，构成的 n. 成分；组成部分",
-      "examples": [],
-      "frequency": 1772,
-      "mnemonic": "com (共同，一起) +pon (=pose：放) +ent (名词后缀) →放在一起 (构\n成新物体) 的东西→成分，要素",
-      "phonetic": "kəmˈpoʊnənt",
-      "pos": "adj.",
-      "rootHint": "pon",
-      "word": "component"
-    },
-    {
-      "collocations": [
-        "elementary schools (考)：小学"
-      ],
-      "definition": "元素的；初级的，基本的",
-      "examples": [],
-      "frequency": 20736,
-      "phonetic": "ˌɛ.ləˈmɛn.tɚ.i",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "elementary"
-    },
-    {
-      "collocations": [
-        "When things such as dead plants or animals decompose, or when",
-        "something decomposes them, they change chemically and begin to decay.\n(死去的动植物) 腐烂；(使) 分解"
-      ],
-      "definition": "分解；使腐烂",
-      "examples": [],
-      "frequency": 16329,
-      "phonetic": "ˌdi.kəmˈpoʊz",
-      "pos": "vi.",
-      "rootHint": "pos",
-      "word": "decompose"
-    },
-    {
-      "collocations": [],
-      "definition": "分解，腐烂；变质",
-      "examples": [],
-      "frequency": 16032,
-      "phonetic": "ˌdi.kɑm.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "decomposition"
-    },
-    {
-      "collocations": [
-        "to mix sth together混合；掺和；拌和",
-        "In chemistry, a compound is a substance that consists of two or more\nelements. (化学中的) 化合物",
-        "If something is a compound of different things, it consists of those things.\n混合物；组合物"
-      ],
-      "definition": "混合；合成；和解妥协；搀合 n. 化合物",
-      "examples": [],
-      "frequency": 3458,
-      "mnemonic": "com (共同，一起) +pound (=put：放) →放到一起→合成，化合；化合",
-      "phonetic": "kəmˈpaʊnd",
-      "pos": "vt.",
-      "rootHint": "pound",
-      "word": "compound"
-    },
-    {
-      "collocations": [
-        "something made by putting together different parts or materials. 合成物；\n混合物；复合材料",
-        "例如：The document was a composite of information from various sources.\n这份文件是不同来源信息的综合。",
-        "A composite object or item is made up of several different things, parts, or\nsubstances. 拼成的；混合成的；复合的",
-        "例如：Galton devised a method of creating composite pictures in which the",
-        "features of different faces were superimposed over one another.\n高尔顿发明了一种把不同人的五官相互叠加在一起的制作合成照片的\n方法。"
-      ],
-      "definition": "合成物；复合材料 adj. 合成的；拼成的",
-      "examples": [],
-      "frequency": 6838,
-      "phonetic": "kəmˈpɑzɪt",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "composite"
-    },
-    {
-      "collocations": [
-        "Compost is a mixture of decayed plants and vegetable waste which is",
-        "added to the soil to help plants grow. 堆肥；混合肥料"
-      ],
-      "definition": "堆肥；混合肥料 v. 把……制成堆肥",
-      "examples": [],
-      "frequency": 6250,
-      "phonetic": "ˈkɑmpoʊst",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "compost"
-    },
-    {
-      "collocations": [
-        "Composure is the appearance or feeling of calm and the ability to control",
-        "your feelings. 冷静；镇定；沉着\n笔 记 区"
-      ],
-      "definition": "镇静；沉着",
-      "examples": [],
-      "frequency": 13124,
-      "phonetic": "kəmˈpoʊʒɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "composure"
-    },
-    {
-      "collocations": [
-        "postpone marriage (考)：推迟结婚",
-        "If you postpone an event, you delay it or arrange for it to take place at a",
-        "later time than was originally (原先, 原本) planned. 推迟；使延期；延缓"
-      ],
-      "definition": "使……延期；把……放在次要地位；把……放在后面",
-      "examples": [],
-      "frequency": 6649,
-      "mnemonic": "post (后) +pon (=-pos：放) →往后放→后延，延期，推迟",
-      "phonetic": "poʊstˈpoʊn",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "postpone"
-    },
-    {
-      "collocations": [
-        "A deposit is a sum of money which is part of the full price of something,",
-        "and which you pay when you agree to buy. 订金；保证金",
-        "A deposit is a sum of money which is in a bank account or savings",
-        "account, especially a sum which will be left there for some time. (尤指定\n期)存款",
-        "A deposit is an amount of a substance that has been left somewhere as a",
-        "result of a chemical or geological process. 沉淀物；沉积物",
-        "If you deposit something somewhere, you put it where it will be safe until",
-        "it is needed again. (动词) 存放；寄存",
-        "If you deposit a sum of money, you pay it into a bank account or savings\naccount. 将 (钱) 存入银行 (或储蓄) 账户"
-      ],
-      "definition": "存款；保证金；沉淀物 vt. & vi. 放下；存放；沉淀",
-      "examples": [],
-      "frequency": 4744,
-      "mnemonic": "de (=away) +pos (=lay放) +it (动词和名词后缀) →lay away储藏；储蓄\n→存款\nde (=down：下) +pos (放) +it (动词或名词后缀) →放下；存放；沉淀",
-      "phonetic": "dɪ.ˈpɑ.zɪt",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "deposit"
-    },
-    {
-      "collocations": [
-        "Deposition is a process in which layers of a substance are formed inside",
-        "something or on its surface over a period of time. 沉淀；沉积",
-        "The deposition of a political leader is the removal of him or her from\noffice. 罢免；废黜"
-      ],
-      "definition": "矿床；沉积物；革职；罢黜",
-      "examples": [],
-      "frequency": 7444,
-      "phonetic": "ˌdɛ.pə.ˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "deposition"
-    },
-    {
-      "collocations": [],
-      "definition": "存款人，存放者；寄托者",
-      "examples": [],
-      "frequency": 17637,
-      "phonetic": "dɪ.ˈpɑ.zɪ.tɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "depositor"
-    },
-    {
-      "collocations": [
-        "withdraw now would place his entire future in danger.\n他和他的女朋友玛利亚说话，玛利亚劝他呆在学校，因为现在退学会\n让他的整个未来处在危险中。",
-        "If you withdraw something from a place, you remove it or take it away. 撤\n走；拿走",
-        "When groups of people such as troops withdraw or when someone",
-        "withdraws them, they leave the place where they are fighting or where they",
-        "are based and return nearer home.\n(使) 撤退；(使) 撤回；(使) 撤离",
-        "If you withdraw money from a bank account, you take it out of that\naccount. 提，取(款)",
-        "If you withdraw from an activity or organization, you stop taking part in it.\n退出 (活动或组织)"
-      ],
-      "definition": "撤消；收回；撤退；退出；取（钱）",
-      "examples": [
-        "He speaks to his girlfriend Maria who urges him to remain in school since"
-      ],
-      "frequency": 2810,
-      "mnemonic": "with (=back：回) +draw (拉) →拉回来→撤退，撤销；收回 (货币)，",
-      "phonetic": "wɪðˈdɹɑ",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "withdraw"
-    },
-    {
-      "collocations": [],
-      "definition": "撤退，收回；退股；提款；取消",
-      "examples": [],
-      "frequency": 4172,
-      "phonetic": "wɪðˈdɹɑ.əl",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "withdrawal"
-    },
-    {
-      "collocations": [
-        "pose a real challenge (考)：提出一个真正的挑战",
-        "pose no threat to sth (考)：对……造成威胁",
-        "Indulging in virtual communication will pose a threat to the development",
-        "of youngsters.",
-        "If something poses a problem or a danger, it is the cause of that problem or\ndanger. 产生 (问题) ；造成 (威胁，危险等)",
-        "If you pose a question, you ask it. If you pose an issue that needs",
-        "considering, you mention the issue. 提出；陈述",
-        "If you pose for a photograph or painting, you stay in a particular position\n20000 词 汇巅峰\n速\n记",
-        "so that someone can photograph you or paint you. 摆姿势 (以供人摄影或\n笔 记 区\n绘画)"
-      ],
-      "definition": "摆姿势；装模作样；提出……讨论；造成，形成",
-      "examples": [
-        "沉迷于网络交际会对青少年的成长造成危害。"
-      ],
-      "frequency": 2250,
-      "mnemonic": "pose (=put：放，摆) →摆造型，提出",
-      "phonetic": "poʊz",
-      "pos": "v.",
-      "rootHint": "pos",
-      "word": "pose"
-    },
-    {
-      "collocations": [
-        "Your posture is the position in which you stand or sit. (坐，立的) 姿势，\n姿态",
-        "A posture is an attitude that you have towards something. 态度；立场"
-      ],
-      "definition": "姿势；情形；态度",
-      "examples": [],
-      "frequency": 5475,
-      "phonetic": "ˈpɑs.tʃɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "posture"
-    },
-    {
-      "collocations": [
-        "dispose of sth. (考)：解决/处理……",
-        "to arrange things or people in a particular way or position. 排列；布置；\n安排\n~ sb to/toward(s) sth to make sb behave in a particular way. 使倾向于；使\n有意于；使易于",
-        "例如：a drug that disposes the patient towards sleep.\n使病人想睡觉的药"
-      ],
-      "definition": "处理；处置；安排",
-      "examples": [],
-      "frequency": 7004,
-      "mnemonic": "dis (分开) +pose (放) →分开放→安排；安置；处理",
-      "phonetic": "dɪˈspoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "dispose"
-    },
-    {
-      "collocations": [
-        "waste disposal (考)：垃圾处理",
-        "Disposal is the act of getting rid of something that is no longer wanted or\nneeded. (废物等的)丢掉，清理，销毁，处理",
-        "If you have something at your disposal, you are able to use it whenever",
-        "you want, and for whatever purpose you want. If you say that you are at",
-        "Greggs said it recognized the “continuing challenge for us all”, despite",
-        "having already taken measures to help the issue."
-      ],
-      "definition": "清理；处理；支配；安排",
-      "examples": [],
-      "frequency": 5654,
-      "mnemonic": "dispos (=dispose：处理) +al (名词后缀) →处理，安排，支配",
-      "phonetic": "dɪˈspoʊ.zəl",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "disposal"
-    },
-    {
-      "collocations": [
-        "A disposition to do something is a willingness to do it. 倾向；意向"
-      ],
-      "definition": "性情；倾向；处置；部署",
-      "examples": [],
-      "frequency": 7351,
-      "mnemonic": "dispose (倾向) +ition (=ite+ion：复合名词后缀) →倾向；性情\nSomeone’s disposition is the way that they tend to behave or feel. 性情；",
-      "phonetic": "ˌdɪs.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "disposition"
-    },
-    {
-      "collocations": [
-        "A disposable product is designed to be thrown away after it has been used.\n用后即可丢弃的；一次性的",
-        "Your disposable income is the amount of income you have left after you",
-        "have paid income tax and social security charges. (收入) 可自由支配的，\n扣除税款后余下的"
-      ],
-      "definition": "可任意处理的；可自由使用的；用完即可丢弃的",
-      "examples": [],
-      "frequency": 10073,
-      "phonetic": "dɪˈspoʊ.zə.bəl",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "disposable"
-    },
-    {
-      "collocations": [
-        "To expose something that is usually hidden means to uncover it so that it\ncan be seen. 使暴露；使显露",
-        "To expose a person or situation means to reveal that they are bad or",
-        "immoral in some way. 揭发；揭露",
-        "be exposed to sth (考)：被暴露在……中；面临，接触",
-        "must all receive the same content at the same pace, that they are exposed",
-        "only to one teacher’s interpretation of subject matter which will certainly",
-        "be limited and that, anyway, few lectures rise above dullness.\n他们同样认为，学生没有机会问问题，并且必须以相同的速度接受相\n同的内容；他们只接触一个老师对于主题的解释，这无疑使有限的；\n总之，没有任何讲课能克服无聊。\n阅读难点：rise above：克服，不受……影响",
-        "Even though there are so many openings/vacancies, a large number",
-        "of college students are exposed to great mental stress imposed by the",
-        "difficulty in finding a proper job.\n笔 记 区"
-      ],
-      "definition": "使曝光；揭露，揭发；显示",
-      "examples": [
-        "They also maintain that students have no opportunity to ask questions and",
-        "尽管空缺的职位很多，很多大学生都面临着因为很难找到合适的\n工作而产生的巨大心理压力。"
-      ],
-      "frequency": 2019,
-      "mnemonic": "ex (外面) +pose (=put) →把……放于外面，放在大庭广众之下→ 暴",
-      "phonetic": "ɪk.ˈspoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "expose"
-    },
-    {
-      "collocations": [],
-      "definition": "暴露的，无掩蔽的",
-      "examples": [],
-      "frequency": 7232,
-      "phonetic": "ɪk.ˈspoʊzd",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "exposed"
-    },
-    {
-      "collocations": [
-        "mass index (体重指数) among adults."
-      ],
-      "definition": "暴露；曝光；陈列；揭露",
-      "examples": [],
-      "frequency": 2249,
-      "phonetic": "ɪk.ˈspoʊ.ʒɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "exposure"
-    },
-    {
-      "collocations": [],
-      "definition": "博览会；展览会；阐述",
-      "examples": [],
-      "frequency": 14794,
-      "phonetic": "ˌɛk.spə.ˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "exposition"
-    },
-    {
-      "collocations": [
-        "If you impose something on people, you use your authority (权威) to force",
-        "them to accept it. 强制实行；强加",
-        "If something imposes strain, pressure, or suffering on someone, it causes",
-        "them to experience it. 使遭受，使承受 (压力，痛苦等)",
-        "impose a complete ban on human cloning (考)： 发布禁令彻底禁止克隆人",
-        "our feet and back continue to struggle with bipedal posture and cannot",
-        "easily withstand repeated strain imposed by oversize limbs.\n此外，尽管人类直立行走已达百万年之久，我们的脚和背总是很费劲\n地保持两脚站立的姿势，难以承受过大的四肢反复施加的压力。\n阅读难点：imposed by oversize limbs为后置定语，用来限定和修饰strain，表\n明是“因四肢过大而施加的”压力"
-      ],
-      "definition": "强加；施加；使遭受；使承受",
-      "examples": [
-        "Moreover, even though humans have been upright for millions of years,"
-      ],
-      "frequency": 2353,
-      "mnemonic": "im (=in：加强语气) +pose (=put：放) →强行放……上→强加，施加\n(影响)",
-      "phonetic": "ɪmˈpoʊz",
-      "pos": "vi.",
-      "rootHint": "pos",
-      "word": "impose"
-    },
-    {
-      "collocations": [
-        "If you describe someone or something as imposing, you mean that they\n20000 词 汇巅峰\n速\n记\n笔 记 区",
-        "have an impressive appearance or manner. 使人难忘的；仪表堂堂的；\n壮观的"
-      ],
-      "definition": "（建筑物等）壮观的；给人深刻印象的",
-      "examples": [],
-      "frequency": 9282,
-      "phonetic": "ɪmˈpoʊ.zɪŋ",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "imposing"
-    },
-    {
-      "collocations": [],
-      "definition": "强加；征收；欺骗；不公平的负担",
-      "examples": [],
-      "frequency": 11436,
-      "phonetic": "ˌɪm.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "imposition"
-    },
-    {
-      "collocations": [
-        "A self-imposed restriction, task, or situation is one that you have",
-        "deliberately created or accepted for yourself. 自己强加的；自愿承担的；\n自己规定的"
-      ],
-      "definition": "自己强加的；自愿承担的；自己规定的",
-      "examples": [],
-      "frequency": 17609,
-      "phonetic": "ˌsɛlf.ɪmˈpoʊzd",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "self-imposed"
-    },
-    {
-      "collocations": [
-        "If one image is superimposed on another, it is put on top of it so that you",
-        "can see the second image through it. 使(一图像)叠映在(另一图像)上；\n使(图像)叠加"
-      ],
-      "definition": "添加；重叠；附加；安装",
-      "examples": [],
-      "frequency": 14607,
-      "phonetic": "ˌsu.pɚ.ɪmˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "superimpose"
-    },
-    {
-      "collocations": [
-        "If you oppose someone or oppose their plans or ideas, you disagree with",
-        "what they want to do and try to prevent them from doing it. 反对；阻挠",
-        "as opposed to sth (考)：与……截然相反",
-        "baby matures.\n随着婴儿的长大，这种对眼睛的吸引会继续，这和对鼻子或嘴的吸引\n是截然相反的。\n（写作，阅读）重点：“反对，不赞成”的表达方式：",
-        "disagree with the behavior of sending/committing children to excessive\n20000 词 汇巅峰\n速\n记",
-        "art classes, for fear that children may feel over-burdened and lose a happy\nchildhood.\n笔 记 区"
-      ],
-      "definition": "反对；对抗，抗争",
-      "examples": [
-        "This attraction to eyes as opposed to the nose or mouth continues as the\noppose/ be against/ object to/ be opposed to /fight against/ disagree with\n造句：我反对把孩子送到过多的艺术班的行为，担心孩子们会负担过重，失\n去童年的快乐。\nI oppose / am against / object to / am opposed to /fight against /"
-      ],
-      "frequency": 1959,
-      "mnemonic": "op (=ob=against：相反) +pose (=put：放，摆；姿态) →摆出相反姿态\n→反对",
-      "phonetic": "əˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "oppose"
-    },
-    {
-      "collocations": [
-        "If you are opposed to something, you disagree with it or disapprove of it.\n反对的；不赞成的"
-      ],
-      "definition": "反对的；不赞成的；相反的",
-      "examples": [],
-      "frequency": 4216,
-      "phonetic": "əˈpoʊzd",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "opposed"
-    },
-    {
-      "collocations": [
-        "Opposing ideas or tendencies are totally different from each other. (观点，\n倾向等) 对立的，截然相反的"
-      ],
-      "definition": "对立的；截然相反的；对立的；相反的",
-      "examples": [],
-      "frequency": 6665,
-      "phonetic": "əˈpoʊ.zɪŋ",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "opposing"
-    },
-    {
-      "collocations": [
-        "The opposite side or part of something is the side or part that is furthest",
-        "away from you. 另一边的；对面的",
-        "If one thing is opposite another, it is on the other side of a space from\nit.在……的对面",
-        "Opposite is used to describe things of the same kind which are completely",
-        "different in a particular way. For example, north and south are opposite",
-        "directions, and winning and losing are opposite results in a game. (同一类\n事物) 截然相反的，全然不同的"
-      ],
-      "definition": "对面的；另一边的；截然相反的 prep. 在……对面",
-      "examples": [],
-      "frequency": 2241,
-      "phonetic": "ˈɑ.pə.zɪt",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "opposite"
-    },
-    {
-      "collocations": [],
-      "definition": "反对；敌对；反对派；在野党",
-      "examples": [],
-      "frequency": 1891,
-      "phonetic": "ˌɑ.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "opposition"
-    },
-    {
-      "collocations": [],
-      "definition": "对手；敌手；反对者",
-      "examples": [],
-      "frequency": 2200,
-      "mnemonic": "oppon (=oppose：反对) +ent (=ant：表人) →对手，反对者",
-      "phonetic": "əˈpoʊ.nənt",
-      "pos": "n.",
-      "rootHint": "pon",
-      "word": "opponent"
-    },
-    {
-      "collocations": [],
-      "definition": "反对的；对抗的",
-      "examples": [],
-      "frequency": 17342,
-      "phonetic": "ˌɑ.pəˈzɪ.ʃə.nəl",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "oppositional"
-    },
-    {
-      "collocations": [
-        "If you propose something such as a plan or an idea, you suggest it for",
-        "people to think about and decide upon. 提出；建议；提议",
-        "If you propose to do something, you intend to do it. 打算；计划",
-        "If you propose to someone, or propose marriage to them, you ask them to\nmarry you.\n向……求婚\n笔 记 区\n20000 词 汇巅峰\n速\n记",
-        "propose marriage (考)：求婚",
-        "propose local initiatives (考)：提出本地方案"
-      ],
-      "definition": "建议；打算，计划；求婚",
-      "examples": [],
-      "frequency": 1706,
-      "mnemonic": "pro (=forth：向前) +pose (=put：提出，放出) →向前放出，提出→提",
-      "phonetic": "pɹəˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "propose"
-    },
-    {
-      "collocations": [],
-      "definition": "被提议的；所推荐的",
-      "examples": [],
-      "frequency": 3100,
-      "phonetic": "pɹəˈpoʊzd",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "proposed"
-    },
-    {
-      "collocations": [],
-      "definition": "提议，建议；求婚",
-      "examples": [],
-      "frequency": 1634,
-      "phonetic": "pɹəˈpoʊ.zəl",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "proposal"
-    },
-    {
-      "collocations": [
-        "an idea or a plan of action that is suggested, especially in business提议，\n建议 (尤指业务上的)",
-        "a thing that you intend to do; a problem or task to be dealt with 欲做的事；\n待处理的问题；任务",
-        "a statement that expresses an opinion 见解；主张；观点"
-      ],
-      "definition": "命题；提议；议题；[修辞]主题",
-      "examples": [],
-      "frequency": 5497,
-      "phonetic": "ˌpɹɑ.pəˈzɪʃ.ən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "proposition"
-    },
-    {
-      "collocations": [
-        "If you are a proponent of a particular idea or course of action, you actively\nsupport it. 支持者；拥护者；辩护者"
-      ],
-      "definition": "支持者；建议者",
-      "examples": [],
-      "frequency": 5827,
-      "phonetic": "pɹəˈpoʊ.nənt",
-      "pos": "n.",
-      "rootHint": "pon",
-      "word": "proponent"
-    },
-    {
-      "collocations": [
-        "A symposium is a conference in which experts or academics discuss a",
-        "particular subject. 专题讨论会；研讨会"
-      ],
-      "definition": "讨论会，座谈会；专题论文集；酒宴，宴会",
-      "examples": [],
-      "frequency": 11622,
-      "phonetic": "sɪmˈpoʊ.zi.əm",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "symposium"
-    },
-    {
-      "collocations": [],
-      "definition": "位置，方位；职位，工作；姿态；站位 vt. 安置；把……放在适当位置",
-      "examples": [],
-      "frequency": 513,
-      "phonetic": "pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "position"
-    },
-    {
-      "collocations": [],
-      "definition": "定位；配置，布置",
-      "examples": [],
-      "frequency": 11011,
-      "phonetic": "pəˈzɪ.ʃə.nɪŋ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "positioning"
-    },
-    {
-      "collocations": [],
-      "definition": "确定的，肯定的；积极的；正的，阳性的；绝对的；实际的，真实的",
-      "examples": [],
-      "frequency": 1053,
-      "phonetic": "ˈpɑ.zə.tɪv",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "positive"
-    },
-    {
-      "collocations": [],
-      "definition": "肯定地；明确地；断然地",
-      "examples": [],
-      "frequency": 5251,
-      "phonetic": "ˈpɑ.zə.tɪv.li",
-      "pos": "adv.",
-      "rootHint": "pos",
-      "word": "positively"
-    },
-    {
-      "collocations": [
-        "If you posit something, you suggest or assume it as the basis for an",
-        "argument or calculation. 假定；假设\n20000 词 汇巅峰\n速\n记"
-      ],
-      "definition": "假设；假定",
-      "examples": [],
-      "frequency": 9612,
-      "phonetic": "ˈpɑ.zɪt",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "posit"
-    },
-    {
-      "collocations": [
-        "You can use suppose or supposing before mentioning a possible situation\nor action. You usually then go on to consider the effects that this situation",
-        "or action might have. 假定；假设；设想",
-        "If you suppose that something is true, you believe that it is probably true,",
-        "because of other things that you know. (根据所知) 认为，推断，料想\n笔 记 区"
-      ],
-      "definition": "假设；认为；推想；让（虚拟语气）",
-      "examples": [],
-      "frequency": 2180,
-      "phonetic": "səˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "suppose"
-    },
-    {
-      "collocations": [
-        "If you say that something is supposed to happen, you mean that it is",
-        "planned or expected. Sometimes this use suggests that the thing does not",
-        "really happen in this way. (按计划或期望) 应当，应该，须",
-        "If you say that something is supposed to be true, you mean that people say",
-        "it is true but you do not know for certain that it is true. 认为；觉得；相信"
-      ],
-      "definition": "假定的；被信以为真的",
-      "examples": [],
-      "frequency": 1248,
-      "phonetic": "səˈpoʊzd",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "supposed"
-    },
-    {
-      "collocations": [],
-      "definition": "按照推测；恐怕；可能",
-      "examples": [],
-      "frequency": 4601,
-      "phonetic": "səˈpoʊ.zɪd.li",
-      "pos": "adv.",
-      "rootHint": "pos",
-      "word": "supposedly"
-    },
-    {
-      "collocations": [],
-      "definition": "假定；推测；想像；见解",
-      "examples": [],
-      "frequency": 18871,
-      "phonetic": "ˌsʌp.əˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "supposition"
-    },
-    {
-      "collocations": [
-        "If one thing presupposes another, the first thing cannot be true or exist",
-        "unless the second thing is true or exists. 预先假定；以……为前提；\n以……为先决条件"
-      ],
-      "definition": "预先假定；以……为前提；以……为先决条件",
-      "examples": [],
-      "frequency": 14453,
-      "phonetic": "ˌpɹi.səˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "presuppose"
-    },
-    {
-      "collocations": [],
-      "definition": "目的；用途；意志",
-      "examples": [],
-      "frequency": 1018,
-      "phonetic": "ˈpɝ.pəs",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "purpose"
-    },
-    {
-      "collocations": [],
-      "definition": "有目的的；有决心的",
-      "examples": [],
-      "frequency": 13125,
-      "phonetic": "ˈpɝ.pəs.fəl",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "purposeful"
-    },
-    {
-      "collocations": [],
-      "definition": "自觉地；有目的地",
-      "examples": [],
-      "frequency": 14587,
-      "phonetic": "ˈpɝ.pəs.fə.li",
-      "pos": "adv.",
-      "rootHint": "pos",
-      "word": "purposefully"
-    },
-    {
-      "collocations": [],
-      "definition": "故意地；蓄意地",
-      "examples": [],
-      "frequency": 12708,
-      "phonetic": "ˈpɝ.pəs.li",
-      "pos": "adv.",
-      "rootHint": "pos",
-      "word": "purposely"
-    },
-    {
-      "collocations": [
-        "You use all-purpose to refer to things that have lots of different uses or can",
-        "be used in lots of different situations. 通用的；多用途的\n20000 词 汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "通用的；多用途的",
-      "examples": [],
-      "frequency": 9030,
-      "phonetic": "ˌɔl.ˈpɝ.pəs",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "all-purpose"
-    },
-    {
-      "collocations": [
-        "An outpost is a small group of buildings used for trading or military (军\n事的) purposes, either in a distant part of your own country or in a foreign\ncountry. 贸易站；前哨基地；(设在国外的) 军事基地",
-        "of Empire (by 1895) in later use often echoes Kipling."
-      ],
-      "definition": "前哨基地；贸易战；（设在国外的）军事基地",
-      "etymology": "1757, “military position detached from the main body of troops,” from out+post (n.2). Originally in George Washington’s letters. Commercial sense of “trading settlement near a frontier” is from 1802. Phrase outpost",
-      "examples": [],
-      "frequency": 9432,
-      "phonetic": "ˈaʊt.poʊst",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "outpost"
-    },
-    {
-      "collocations": [
-        "You can use post to refer to the place where a soldier, guard, or other",
-        "person has been told to remain and to do his or her job. 岗位；哨位",
-        "If you post notices, signs, or other pieces of information somewhere, you",
-        "fix them to a wall or board (板) so that everyone can see them. 张贴，贴\n出 (通知，标牌等)"
-      ],
-      "definition": "职位；邮政；邮递；邮件；哨位；岗位 vt. 张贴；贴出",
-      "examples": [],
-      "frequency": 2167,
-      "phonetic": "poʊst",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "post"
-    },
-    {
-      "collocations": [],
-      "definition": "邮资，邮费",
-      "examples": [],
-      "frequency": 13727,
-      "phonetic": "ˈpoʊ.stɪdʒ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "postage"
-    },
-    {
-      "collocations": [],
-      "definition": "邮政的；邮局的",
-      "examples": [],
-      "frequency": 7185,
-      "phonetic": "ˈpoʊ.stəl",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "postal"
-    },
-    {
-      "collocations": [],
-      "definition": "明信片",
-      "examples": [],
-      "frequency": 7032,
-      "phonetic": "ˈpoʊst.kɑɹd",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "postcard"
-    },
-    {
-      "collocations": [],
-      "definition": "海报，广告；招贴",
-      "examples": [],
-      "frequency": 3871,
-      "phonetic": "ˈpoʊ.stɚ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "poster"
-    },
-    {
-      "collocations": [],
-      "definition": "背部的；后面的；臀部；屁股",
-      "examples": [],
-      "frequency": 14650,
-      "phonetic": "poʊˈstɪɹ.i.ɚ",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "posterior"
-    },
-    {
-      "collocations": [
-        "You can refer to everyone who will be alive in the future as posterity. 后\n裔；子孙；后代"
-      ],
-      "definition": "后代；子孙，后裔",
-      "examples": [],
-      "frequency": 17165,
-      "phonetic": "pɑˈstɛɹ.ə.ti",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "posterity"
-    },
-    {
-      "collocations": [
-        "Posthumous is used to describe something that happens after a person’s",
-        "death but relates to something they did before they died. 死后的；身后的\n20000 词 汇巅峰\n速\n记"
-      ],
-      "definition": "死后的；遗腹的；作者死后出版的",
-      "examples": [],
-      "frequency": 20117,
-      "phonetic": "ˈpɑs.tʃə.məs",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "posthumous"
-    },
-    {
-      "collocations": [
-        "If you get a posting to a different town or country, your employers send",
-        "you to work there, usually for several years. 派任；外派",
-        "If a member of an armed force gets a posting to a particular place, they are",
-        "sent to live and work there for a period. (军队的) 派驻，派遣\n笔 记 区"
-      ],
-      "definition": "派任；外派；（军队的）派驻，派遣",
-      "examples": [],
-      "frequency": 14093,
-      "phonetic": "ˈpoʊ.stɪŋ",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "posting"
-    },
-    {
-      "collocations": [],
-      "definition": "后现代的",
-      "examples": [],
-      "frequency": 8200,
-      "phonetic": "ˌpoʊstˈmɑ.dɚn",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "postmodern"
-    },
-    {
-      "collocations": [],
-      "definition": "后现代主义",
-      "examples": [],
-      "frequency": 13883,
-      "phonetic": "ˌpoʊstˈmɑ.dɚ.nɪ.zəm",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "postmodernism"
-    },
-    {
-      "collocations": [
-        "A post-mortem is a medical examination (医学检查) of a dead person’s",
-        "body in order to find out how they died. 验尸；尸体检验；尸体解剖",
-        "A post-mortem is an examination of something that has recently happened,",
-        "especially something that has failed or gone wrong. (尤指对失败或出差\n错的事情的) 事后分析；事后检讨"
-      ],
-      "definition": "验尸；尸体检验；（尤指对失败或出差错的事情的）事后分析；事后检讨",
-      "examples": [],
-      "frequency": 19940,
-      "phonetic": "ˌpoʊstˈmɔɹ.təm",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "post-mortem"
-    },
-    {
-      "collocations": [],
-      "definition": "手术后的",
-      "examples": [],
-      "frequency": 12325,
-      "phonetic": "ˌpoʊstˈɑ.pɚ.ə.tɪv",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "postoperative"
-    },
-    {
-      "collocations": [],
-      "definition": "产后的",
-      "examples": [],
-      "frequency": 17612,
-      "phonetic": "ˌpoʊstˈpɑɹ.təm",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "postpartum"
-    },
-    {
-      "collocations": [],
-      "definition": "季后赛",
-      "examples": [],
-      "frequency": 9952,
-      "phonetic": "ˈpoʊst.si.zən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "postseason"
-    },
-    {
-      "collocations": [],
-      "definition": "创伤后的；外伤后的",
-      "examples": [],
-      "frequency": 15288,
-      "phonetic": "ˌpoʊst.tɹəˈmæ.tɪk",
-      "pos": "adj.",
-      "rootHint": "pos",
-      "word": "post-traumatic"
-    },
-    {
-      "collocations": [
-        "If you postulate something, you suggest it as the basis for a theory,",
-        "argument, or calculation (计算), or assume that it is the basis. 假定；假设",
-        "A postulate is an idea that is suggested as or assumed to be the basis for a",
-        "theory, argument, or calculation. 假定；假设\n20000 词 汇巅峰\n速\n记\n笔 记 区\n高难度词汇："
-      ],
-      "definition": "/ n. 假定；假设",
-      "examples": [],
-      "frequency": 13427,
-      "phonetic": "ˈpɑs.tʃə.leɪt",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "postulate"
-    },
-    {
-      "collocations": [
-        "Repose is a state in which you are resting and feeling calm. 休息；休憩；\n闲适",
-        "If something reposes somewhere, it is there. 位于；安置于；坐落于"
-      ],
-      "definition": "休息；睡眠；静止 v. 位于；坐落于",
-      "examples": [],
-      "frequency": 20161,
-      "mnemonic": "re (反复) +pos (pause：停下来) →停下来；休息",
-      "phonetic": "ɹɪ.ˈpoʊz",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "repose"
-    },
-    {
-      "collocations": [
-        "To reposition something such as a product or service means to try to",
-        "interest more or different people in it, for example by changing certain",
-        "things about it or the way it is marketed. 重新定位(产品或服务)"
-      ],
-      "definition": "改变……的位置；重新放置；重新定位",
-      "examples": [],
-      "frequency": 16875,
-      "phonetic": "ˌɹi.pəˈzɪ.ʃən",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "reposition"
-    },
-    {
-      "collocations": [
-        "A repository is a place where something is kept safely. 贮存处；存放处；\n仓库",
-        "A repository of information is a person or group of people who know a lot",
-        "of information about a particular place or subject. 博学者；无所不知的人"
-      ],
-      "definition": "贮藏室，仓库；知识库；智囊团",
-      "examples": [],
-      "frequency": 11365,
-      "phonetic": "ɹɪ.ˈpɑ.zɪ.tɔɹ.i",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "repository"
-    },
-    {
-      "collocations": [
-        "If a ruler or political leader is deposed, they are forced to give up their\nposition. 罢免，废黜(统治者或政治领导人)"
-      ],
-      "definition": "免职；废黜",
-      "examples": [],
-      "frequency": 16634,
-      "mnemonic": "de (=down：下)",
-      "phonetic": "dɪ.ˈpoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "depose"
-    },
-    {
-      "collocations": [
-        "If you juxtapose two contrasting (对比的) objects, images, or ideas, you",
-        "place them together or describe them together, so that the differences",
-        "between them are emphasized. (为强调不同点) 把……并置，把……\n并列"
-      ],
-      "definition": "并置；并列",
-      "examples": [],
-      "frequency": 13824,
-      "phonetic": "ˈdʒʌk.stə.poʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "juxtapose"
-    },
-    {
-      "collocations": [
-        "near, close to, near at hand”+French position (see position (n.)). Latin iuxta",
-        "is a contraction of *iugista (adv.), superlative of adjective *iugos “closely\nconnected,” from PIE root *yeug- “to join.”"
-      ],
-      "definition": "并置，并列；毗邻",
-      "etymology": "笔 记 区 1660s, from French juxtaposition (17c.), from Latin iuxta “beside, very",
-      "examples": [],
-      "frequency": 12748,
-      "phonetic": "ˌdʒʌk.stə.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "juxtaposition"
-    },
-    {
-      "collocations": [],
-      "definition": "易染病体质；倾向",
-      "examples": [],
-      "frequency": 14844,
-      "phonetic": "ˌpɹi.dɪs.pəˈzɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "pos",
-      "word": "predisposition"
-    },
-    {
-      "collocations": [
-        "If something predisposes you to think or behave in a particular way, it",
-        "makes it likely that you will think or behave in that way. 使倾向于；使有\n意向",
-        "If something predisposes you to a disease or illness, it makes it likely that",
-        "you will suffer from that disease or illness. 易感染，使易患 (某种疾病)"
-      ],
-      "definition": "使倾向于；使有意向；使易患（某种疾病）",
-      "examples": [],
-      "frequency": 13431,
-      "phonetic": "ˌpɹi.dɪˈspoʊz",
-      "pos": "vt.",
-      "rootHint": "pos",
-      "word": "predispose"
-    },
-    {
-      "collocations": [
-        "If you expound an idea or opinion, you give a clear and detailed",
-        "explanation of it. 详述；阐述；详细说明"
-      ],
-      "definition": "解释；详细说明",
-      "examples": [],
-      "frequency": 17070,
-      "phonetic": "ɪk.ˈspaʊnd",
-      "pos": "vt.",
-      "rootHint": "pound",
-      "word": "expound"
-    },
-    {
-      "collocations": [
-        "Exponential means growing or increasing very rapidly. 迅速增长的；成\n指数倍增的"
-      ],
-      "definition": "迅速增长的；成指数倍增的",
-      "examples": [],
-      "frequency": 18569,
-      "phonetic": "ˌɛk.spoʊ.ˈnɛn.ʃəl",
-      "pos": "adj.",
-      "rootHint": "pon",
-      "word": "exponential"
-    },
-    {
-      "collocations": [
-        "(mathematics) a raised figure or symbol that shows how many times a",
-        "quantity must be multiplied (成倍增长) by itself, for example the figure 4\nin a^4. (数) 指数；幂",
-        "An exponent of an idea, theory, or plan is a person who supports and",
-        "explains it, and who tries to persuade (说服) other people that it is a good\nidea. 阐述者；拥护者；倡导者",
-        "An exponent of a particular skill or activity is a person who is good at it.\n擅长者；大师；行家"
-      ],
-      "definition": "阐述者；拥护者；大师；行家；指数；幂",
-      "examples": [],
-      "frequency": 426,
-      "phonetic": "ˈɛk.spoʊ.nənt",
-      "pos": "n.",
-      "rootHint": "pon",
-      "word": "exponent"
-    },
-    {
-      "collocations": [],
-      "definition": "以指数方式",
-      "examples": [],
-      "frequency": 15775,
-      "phonetic": "ˌɛk.spoʊ.ˈnɛn.ʃə.li",
-      "pos": "adv.",
-      "rootHint": "pon",
-      "word": "exponentially"
-    }
-  ]
+    "chapter": "八",
+    "chapterOrder": 8,
+    "id": "pos",
+    "meaningEn": "put",
+    "meaningZh": "放",
+    "roots": [
+        "pos",
+        "pon",
+        "pound"
+    ],
+    "semanticLabel": "put",
+    "source": "textbook-1",
+    "titleZh": "put",
+    "words": [
+        {
+            "collocations": [
+                "be composed of (考)：由……组成",
+                "introducing them into animal hosts(宿主), and allowing them to develop",
+                "into an organ (器官) in place of the animal’s own.\n这些器官将完全由人类细胞组成，让这些细胞在动物寄主内生长，让\n它们长成人类器官，而不是动物器官。",
+                "If you compose yourself or if you compose your features, you succeed in",
+                "becoming calm after you have been angry, excited, or upset. 使 (自己) 平\n静(或镇定)；使 (表情) 镇静下来"
+            ],
+            "definition": "构成；写作；使平静；排……的版",
+            "examples": [
+                "These organs would be entirely composed of human cells(细胞), grown by"
+            ],
+            "frequency": 3408,
+            "mnemonic": "com (一起) +pose (=put：放) → (把各部分) 放在一起→组成；作文\n(把文字放到一起) ；作曲 (把音符放到一起)",
+            "phonetic": "kəmˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "compose"
+        },
+        {
+            "collocations": [],
+            "definition": "作曲家；作家，著作者；设计者",
+            "examples": [],
+            "frequency": 5058,
+            "phonetic": "kəmˈpoʊzɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "composer"
+        },
+        {
+            "collocations": [],
+            "definition": "作文，作曲；构成；合成物",
+            "examples": [],
+            "frequency": 3025,
+            "phonetic": "ˌkɑmpəˈzɪʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "composition"
+        },
+        {
+            "collocations": [],
+            "definition": "组成的；创作的；作曲的",
+            "examples": [],
+            "frequency": 14670,
+            "phonetic": "ˌkɑmpəˈzɪʃənəl",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "compositional"
+        },
+        {
+            "collocations": [
+                "optional component (考)：可选成分",
+                "desirable element (考)：值得拥有的元素"
+            ],
+            "definition": "组成的，构成的 n. 成分；组成部分",
+            "examples": [],
+            "frequency": 1772,
+            "mnemonic": "com (共同，一起) +pon (=pose：放) +ent (名词后缀) →放在一起 (构\n成新物体) 的东西→成分，要素",
+            "phonetic": "kəmˈpoʊnənt",
+            "pos": "adj.",
+            "rootHint": "pon",
+            "word": "component"
+        },
+        {
+            "collocations": [
+                "elementary schools (考)：小学"
+            ],
+            "definition": "元素的；初级的，基本的",
+            "examples": [],
+            "frequency": 20736,
+            "phonetic": "ˌɛ.ləˈmɛn.tɚ.i",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "elementary"
+        },
+        {
+            "collocations": [
+                "When things such as dead plants or animals decompose, or when",
+                "something decomposes them, they change chemically and begin to decay.\n(死去的动植物) 腐烂；(使) 分解"
+            ],
+            "definition": "分解；使腐烂",
+            "examples": [],
+            "frequency": 16329,
+            "phonetic": "ˌdiː.kəmˈpoʊz",
+            "pos": "vi.",
+            "rootHint": "pos",
+            "word": "decompose"
+        },
+        {
+            "collocations": [],
+            "definition": "分解，腐烂；变质",
+            "examples": [],
+            "frequency": 16032,
+            "phonetic": "ˌdiː.kɑm.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "decomposition"
+        },
+        {
+            "collocations": [
+                "to mix sth together混合；掺和；拌和",
+                "In chemistry, a compound is a substance that consists of two or more\nelements. (化学中的) 化合物",
+                "If something is a compound of different things, it consists of those things.\n混合物；组合物"
+            ],
+            "definition": "混合；合成；和解妥协；搀合 n. 化合物",
+            "examples": [],
+            "frequency": 3458,
+            "mnemonic": "com (共同，一起) +pound (=put：放) →放到一起→合成，化合；化合",
+            "phonetic": "kəmˈpaʊnd",
+            "pos": "vt.",
+            "rootHint": "pound",
+            "word": "compound"
+        },
+        {
+            "collocations": [
+                "something made by putting together different parts or materials. 合成物；\n混合物；复合材料",
+                "例如：The document was a composite of information from various sources.\n这份文件是不同来源信息的综合。",
+                "A composite object or item is made up of several different things, parts, or\nsubstances. 拼成的；混合成的；复合的",
+                "例如：Galton devised a method of creating composite pictures in which the",
+                "features of different faces were superimposed over one another.\n高尔顿发明了一种把不同人的五官相互叠加在一起的制作合成照片的\n方法。"
+            ],
+            "definition": "合成物；复合材料 adj. 合成的；拼成的",
+            "examples": [],
+            "frequency": 6838,
+            "phonetic": "kəmˈpɑzɪt",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "composite"
+        },
+        {
+            "collocations": [
+                "Compost is a mixture of decayed plants and vegetable waste which is",
+                "added to the soil to help plants grow. 堆肥；混合肥料"
+            ],
+            "definition": "堆肥；混合肥料 v. 把……制成堆肥",
+            "examples": [],
+            "frequency": 6250,
+            "phonetic": "ˈkɑmpoʊst",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "compost"
+        },
+        {
+            "collocations": [
+                "Composure is the appearance or feeling of calm and the ability to control",
+                "your feelings. 冷静；镇定；沉着\n笔 记 区"
+            ],
+            "definition": "镇静；沉着",
+            "examples": [],
+            "frequency": 13124,
+            "phonetic": "kəmˈpoʊʒɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "composure"
+        },
+        {
+            "collocations": [
+                "postpone marriage (考)：推迟结婚",
+                "If you postpone an event, you delay it or arrange for it to take place at a",
+                "later time than was originally (原先, 原本) planned. 推迟；使延期；延缓"
+            ],
+            "definition": "使……延期；把……放在次要地位；把……放在后面",
+            "examples": [],
+            "frequency": 6649,
+            "mnemonic": "post (后) +pon (=-pos：放) →往后放→后延，延期，推迟",
+            "phonetic": "poʊstˈpoʊn",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "postpone"
+        },
+        {
+            "collocations": [
+                "A deposit is a sum of money which is part of the full price of something,",
+                "and which you pay when you agree to buy. 订金；保证金",
+                "A deposit is a sum of money which is in a bank account or savings",
+                "account, especially a sum which will be left there for some time. (尤指定\n期)存款",
+                "A deposit is an amount of a substance that has been left somewhere as a",
+                "result of a chemical or geological process. 沉淀物；沉积物",
+                "If you deposit something somewhere, you put it where it will be safe until",
+                "it is needed again. (动词) 存放；寄存",
+                "If you deposit a sum of money, you pay it into a bank account or savings\naccount. 将 (钱) 存入银行 (或储蓄) 账户"
+            ],
+            "definition": "存款；保证金；沉淀物 vt. & vi. 放下；存放；沉淀",
+            "examples": [],
+            "frequency": 4744,
+            "mnemonic": "de (=away) +pos (=lay放) +it (动词和名词后缀) →lay away储藏；储蓄\n→存款\nde (=down：下) +pos (放) +it (动词或名词后缀) →放下；存放；沉淀",
+            "phonetic": "dɪ.ˈpɑ.zɪt",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "deposit"
+        },
+        {
+            "collocations": [
+                "Deposition is a process in which layers of a substance are formed inside",
+                "something or on its surface over a period of time. 沉淀；沉积",
+                "The deposition of a political leader is the removal of him or her from\noffice. 罢免；废黜"
+            ],
+            "definition": "矿床；沉积物；革职；罢黜",
+            "examples": [],
+            "frequency": 7444,
+            "phonetic": "ˌdɛ.pə.ˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "deposition"
+        },
+        {
+            "collocations": [],
+            "definition": "存款人，存放者；寄托者",
+            "examples": [],
+            "frequency": 17637,
+            "phonetic": "dɪ.ˈpɑ.zɪ.tɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "depositor"
+        },
+        {
+            "collocations": [
+                "withdraw now would place his entire future in danger.\n他和他的女朋友玛利亚说话，玛利亚劝他呆在学校，因为现在退学会\n让他的整个未来处在危险中。",
+                "If you withdraw something from a place, you remove it or take it away. 撤\n走；拿走",
+                "When groups of people such as troops withdraw or when someone",
+                "withdraws them, they leave the place where they are fighting or where they",
+                "are based and return nearer home.\n(使) 撤退；(使) 撤回；(使) 撤离",
+                "If you withdraw money from a bank account, you take it out of that\naccount. 提，取(款)",
+                "If you withdraw from an activity or organization, you stop taking part in it.\n退出 (活动或组织)"
+            ],
+            "definition": "撤消；收回；撤退；退出；取（钱）",
+            "examples": [
+                "He speaks to his girlfriend Maria who urges him to remain in school since"
+            ],
+            "frequency": 2810,
+            "mnemonic": "with (=back：回) +draw (拉) →拉回来→撤退，撤销；收回 (货币)，",
+            "phonetic": "wɪðˈdrɑ",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "withdraw"
+        },
+        {
+            "collocations": [],
+            "definition": "撤退，收回；退股；提款；取消",
+            "examples": [],
+            "frequency": 4172,
+            "phonetic": "wɪðˈdrɑ.əl",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "withdrawal"
+        },
+        {
+            "collocations": [
+                "pose a real challenge (考)：提出一个真正的挑战",
+                "pose no threat to sth (考)：对……造成威胁",
+                "Indulging in virtual communication will pose a threat to the development",
+                "of youngsters.",
+                "If something poses a problem or a danger, it is the cause of that problem or\ndanger. 产生 (问题) ；造成 (威胁，危险等)",
+                "If you pose a question, you ask it. If you pose an issue that needs",
+                "considering, you mention the issue. 提出；陈述",
+                "If you pose for a photograph or painting, you stay in a particular position\n20000 词 汇巅峰\n速\n记",
+                "so that someone can photograph you or paint you. 摆姿势 (以供人摄影或\n笔 记 区\n绘画)"
+            ],
+            "definition": "摆姿势；装模作样；提出……讨论；造成，形成",
+            "examples": [
+                "沉迷于网络交际会对青少年的成长造成危害。"
+            ],
+            "frequency": 2250,
+            "mnemonic": "pose (=put：放，摆) →摆造型，提出",
+            "phonetic": "poʊz",
+            "pos": "v.",
+            "rootHint": "pos",
+            "word": "pose"
+        },
+        {
+            "collocations": [
+                "Your posture is the position in which you stand or sit. (坐，立的) 姿势，\n姿态",
+                "A posture is an attitude that you have towards something. 态度；立场"
+            ],
+            "definition": "姿势；情形；态度",
+            "examples": [],
+            "frequency": 5475,
+            "phonetic": "ˈpɑs.tʃɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "posture"
+        },
+        {
+            "collocations": [
+                "dispose of sth. (考)：解决/处理……",
+                "to arrange things or people in a particular way or position. 排列；布置；\n安排\n~ sb to/toward(s) sth to make sb behave in a particular way. 使倾向于；使\n有意于；使易于",
+                "例如：a drug that disposes the patient towards sleep.\n使病人想睡觉的药"
+            ],
+            "definition": "处理；处置；安排",
+            "examples": [],
+            "frequency": 7004,
+            "mnemonic": "dis (分开) +pose (放) →分开放→安排；安置；处理",
+            "phonetic": "dɪˈspoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "dispose"
+        },
+        {
+            "collocations": [
+                "waste disposal (考)：垃圾处理",
+                "Disposal is the act of getting rid of something that is no longer wanted or\nneeded. (废物等的)丢掉，清理，销毁，处理",
+                "If you have something at your disposal, you are able to use it whenever",
+                "you want, and for whatever purpose you want. If you say that you are at",
+                "Greggs said it recognized the “continuing challenge for us all”, despite",
+                "having already taken measures to help the issue."
+            ],
+            "definition": "清理；处理；支配；安排",
+            "examples": [],
+            "frequency": 5654,
+            "mnemonic": "dispos (=dispose：处理) +al (名词后缀) →处理，安排，支配",
+            "phonetic": "dɪˈspoʊ.zəl",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "disposal"
+        },
+        {
+            "collocations": [
+                "A disposition to do something is a willingness to do it. 倾向；意向"
+            ],
+            "definition": "性情；倾向；处置；部署",
+            "examples": [],
+            "frequency": 7351,
+            "mnemonic": "dispose (倾向) +ition (=ite+ion：复合名词后缀) →倾向；性情\nSomeone’s disposition is the way that they tend to behave or feel. 性情；",
+            "phonetic": "ˌdɪs.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "disposition"
+        },
+        {
+            "collocations": [
+                "A disposable product is designed to be thrown away after it has been used.\n用后即可丢弃的；一次性的",
+                "Your disposable income is the amount of income you have left after you",
+                "have paid income tax and social security charges. (收入) 可自由支配的，\n扣除税款后余下的"
+            ],
+            "definition": "可任意处理的；可自由使用的；用完即可丢弃的",
+            "examples": [],
+            "frequency": 10073,
+            "phonetic": "dɪˈspoʊ.zə.bəl",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "disposable"
+        },
+        {
+            "collocations": [
+                "To expose something that is usually hidden means to uncover it so that it\ncan be seen. 使暴露；使显露",
+                "To expose a person or situation means to reveal that they are bad or",
+                "immoral in some way. 揭发；揭露",
+                "be exposed to sth (考)：被暴露在……中；面临，接触",
+                "must all receive the same content at the same pace, that they are exposed",
+                "only to one teacher’s interpretation of subject matter which will certainly",
+                "be limited and that, anyway, few lectures rise above dullness.\n他们同样认为，学生没有机会问问题，并且必须以相同的速度接受相\n同的内容；他们只接触一个老师对于主题的解释，这无疑使有限的；\n总之，没有任何讲课能克服无聊。\n阅读难点：rise above：克服，不受……影响",
+                "Even though there are so many openings/vacancies, a large number",
+                "of college students are exposed to great mental stress imposed by the",
+                "difficulty in finding a proper job.\n笔 记 区"
+            ],
+            "definition": "使曝光；揭露，揭发；显示",
+            "examples": [
+                "They also maintain that students have no opportunity to ask questions and",
+                "尽管空缺的职位很多，很多大学生都面临着因为很难找到合适的\n工作而产生的巨大心理压力。"
+            ],
+            "frequency": 2019,
+            "mnemonic": "ex (外面) +pose (=put) →把……放于外面，放在大庭广众之下→ 暴",
+            "phonetic": "ɪk.ˈspoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "expose"
+        },
+        {
+            "collocations": [],
+            "definition": "暴露的，无掩蔽的",
+            "examples": [],
+            "frequency": 7232,
+            "phonetic": "ɪk.ˈspoʊzd",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "exposed"
+        },
+        {
+            "collocations": [
+                "mass index (体重指数) among adults."
+            ],
+            "definition": "暴露；曝光；陈列；揭露",
+            "examples": [],
+            "frequency": 2249,
+            "phonetic": "ɪk.ˈspoʊ.ʒɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "exposure"
+        },
+        {
+            "collocations": [],
+            "definition": "博览会；展览会；阐述",
+            "examples": [],
+            "frequency": 14794,
+            "phonetic": "ˌɛk.spə.ˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "exposition"
+        },
+        {
+            "collocations": [
+                "If you impose something on people, you use your authority (权威) to force",
+                "them to accept it. 强制实行；强加",
+                "If something imposes strain, pressure, or suffering on someone, it causes",
+                "them to experience it. 使遭受，使承受 (压力，痛苦等)",
+                "impose a complete ban on human cloning (考)： 发布禁令彻底禁止克隆人",
+                "our feet and back continue to struggle with bipedal posture and cannot",
+                "easily withstand repeated strain imposed by oversize limbs.\n此外，尽管人类直立行走已达百万年之久，我们的脚和背总是很费劲\n地保持两脚站立的姿势，难以承受过大的四肢反复施加的压力。\n阅读难点：imposed by oversize limbs为后置定语，用来限定和修饰strain，表\n明是“因四肢过大而施加的”压力"
+            ],
+            "definition": "强加；施加；使遭受；使承受",
+            "examples": [
+                "Moreover, even though humans have been upright for millions of years,"
+            ],
+            "frequency": 2353,
+            "mnemonic": "im (=in：加强语气) +pose (=put：放) →强行放……上→强加，施加\n(影响)",
+            "phonetic": "ɪmˈpoʊz",
+            "pos": "vi.",
+            "rootHint": "pos",
+            "word": "impose"
+        },
+        {
+            "collocations": [
+                "If you describe someone or something as imposing, you mean that they\n20000 词 汇巅峰\n速\n记\n笔 记 区",
+                "have an impressive appearance or manner. 使人难忘的；仪表堂堂的；\n壮观的"
+            ],
+            "definition": "（建筑物等）壮观的；给人深刻印象的",
+            "examples": [],
+            "frequency": 9282,
+            "phonetic": "ɪmˈpoʊ.zɪŋ",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "imposing"
+        },
+        {
+            "collocations": [],
+            "definition": "强加；征收；欺骗；不公平的负担",
+            "examples": [],
+            "frequency": 11436,
+            "phonetic": "ˌɪm.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "imposition"
+        },
+        {
+            "collocations": [
+                "A self-imposed restriction, task, or situation is one that you have",
+                "deliberately created or accepted for yourself. 自己强加的；自愿承担的；\n自己规定的"
+            ],
+            "definition": "自己强加的；自愿承担的；自己规定的",
+            "examples": [],
+            "frequency": 17609,
+            "phonetic": "ˌsɛlf.ɪmˈpoʊzd",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "self-imposed"
+        },
+        {
+            "collocations": [
+                "If one image is superimposed on another, it is put on top of it so that you",
+                "can see the second image through it. 使(一图像)叠映在(另一图像)上；\n使(图像)叠加"
+            ],
+            "definition": "添加；重叠；附加；安装",
+            "examples": [],
+            "frequency": 14607,
+            "phonetic": "ˌsu.pɚ.ɪmˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "superimpose"
+        },
+        {
+            "collocations": [
+                "If you oppose someone or oppose their plans or ideas, you disagree with",
+                "what they want to do and try to prevent them from doing it. 反对；阻挠",
+                "as opposed to sth (考)：与……截然相反",
+                "baby matures.\n随着婴儿的长大，这种对眼睛的吸引会继续，这和对鼻子或嘴的吸引\n是截然相反的。\n（写作，阅读）重点：“反对，不赞成”的表达方式：",
+                "disagree with the behavior of sending/committing children to excessive\n20000 词 汇巅峰\n速\n记",
+                "art classes, for fear that children may feel over-burdened and lose a happy\nchildhood.\n笔 记 区"
+            ],
+            "definition": "反对；对抗，抗争",
+            "examples": [
+                "This attraction to eyes as opposed to the nose or mouth continues as the\noppose/ be against/ object to/ be opposed to /fight against/ disagree with\n造句：我反对把孩子送到过多的艺术班的行为，担心孩子们会负担过重，失\n去童年的快乐。\nI oppose / am against / object to / am opposed to /fight against /"
+            ],
+            "frequency": 1959,
+            "mnemonic": "op (=ob=against：相反) +pose (=put：放，摆；姿态) →摆出相反姿态\n→反对",
+            "phonetic": "əˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "oppose"
+        },
+        {
+            "collocations": [
+                "If you are opposed to something, you disagree with it or disapprove of it.\n反对的；不赞成的"
+            ],
+            "definition": "反对的；不赞成的；相反的",
+            "examples": [],
+            "frequency": 4216,
+            "phonetic": "əˈpoʊzd",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "opposed"
+        },
+        {
+            "collocations": [
+                "Opposing ideas or tendencies are totally different from each other. (观点，\n倾向等) 对立的，截然相反的"
+            ],
+            "definition": "对立的；截然相反的；对立的；相反的",
+            "examples": [],
+            "frequency": 6665,
+            "phonetic": "əˈpoʊ.zɪŋ",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "opposing"
+        },
+        {
+            "collocations": [
+                "The opposite side or part of something is the side or part that is furthest",
+                "away from you. 另一边的；对面的",
+                "If one thing is opposite another, it is on the other side of a space from\nit.在……的对面",
+                "Opposite is used to describe things of the same kind which are completely",
+                "different in a particular way. For example, north and south are opposite",
+                "directions, and winning and losing are opposite results in a game. (同一类\n事物) 截然相反的，全然不同的"
+            ],
+            "definition": "对面的；另一边的；截然相反的 prep. 在……对面",
+            "examples": [],
+            "frequency": 2241,
+            "phonetic": "ˈɑ.pə.zɪt",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "opposite"
+        },
+        {
+            "collocations": [],
+            "definition": "反对；敌对；反对派；在野党",
+            "examples": [],
+            "frequency": 1891,
+            "phonetic": "ˌɑ.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "opposition"
+        },
+        {
+            "collocations": [],
+            "definition": "对手；敌手；反对者",
+            "examples": [],
+            "frequency": 2200,
+            "mnemonic": "oppon (=oppose：反对) +ent (=ant：表人) →对手，反对者",
+            "phonetic": "əˈpoʊ.nənt",
+            "pos": "n.",
+            "rootHint": "pon",
+            "word": "opponent"
+        },
+        {
+            "collocations": [],
+            "definition": "反对的；对抗的",
+            "examples": [],
+            "frequency": 17342,
+            "phonetic": "ˌɑ.pəˈzɪ.ʃə.nəl",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "oppositional"
+        },
+        {
+            "collocations": [
+                "If you propose something such as a plan or an idea, you suggest it for",
+                "people to think about and decide upon. 提出；建议；提议",
+                "If you propose to do something, you intend to do it. 打算；计划",
+                "If you propose to someone, or propose marriage to them, you ask them to\nmarry you.\n向……求婚\n笔 记 区\n20000 词 汇巅峰\n速\n记",
+                "propose marriage (考)：求婚",
+                "propose local initiatives (考)：提出本地方案"
+            ],
+            "definition": "建议；打算，计划；求婚",
+            "examples": [],
+            "frequency": 1706,
+            "mnemonic": "pro (=forth：向前) +pose (=put：提出，放出) →向前放出，提出→提",
+            "phonetic": "prəˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "propose"
+        },
+        {
+            "collocations": [],
+            "definition": "被提议的；所推荐的",
+            "examples": [],
+            "frequency": 3100,
+            "phonetic": "prəˈpoʊzd",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "proposed"
+        },
+        {
+            "collocations": [],
+            "definition": "提议，建议；求婚",
+            "examples": [],
+            "frequency": 1634,
+            "phonetic": "prəˈpoʊ.zəl",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "proposal"
+        },
+        {
+            "collocations": [
+                "an idea or a plan of action that is suggested, especially in business提议，\n建议 (尤指业务上的)",
+                "a thing that you intend to do; a problem or task to be dealt with 欲做的事；\n待处理的问题；任务",
+                "a statement that expresses an opinion 见解；主张；观点"
+            ],
+            "definition": "命题；提议；议题；[修辞]主题",
+            "examples": [],
+            "frequency": 5497,
+            "phonetic": "ˌprɑ.pəˈzɪʃ.ən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "proposition"
+        },
+        {
+            "collocations": [
+                "If you are a proponent of a particular idea or course of action, you actively\nsupport it. 支持者；拥护者；辩护者"
+            ],
+            "definition": "支持者；建议者",
+            "examples": [],
+            "frequency": 5827,
+            "phonetic": "prəˈpoʊ.nənt",
+            "pos": "n.",
+            "rootHint": "pon",
+            "word": "proponent"
+        },
+        {
+            "collocations": [
+                "A symposium is a conference in which experts or academics discuss a",
+                "particular subject. 专题讨论会；研讨会"
+            ],
+            "definition": "讨论会，座谈会；专题论文集；酒宴，宴会",
+            "examples": [],
+            "frequency": 11622,
+            "phonetic": "sɪmˈpoʊ.zi.əm",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "symposium"
+        },
+        {
+            "collocations": [],
+            "definition": "位置，方位；职位，工作；姿态；站位 vt. 安置；把……放在适当位置",
+            "examples": [],
+            "frequency": 513,
+            "phonetic": "pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "position"
+        },
+        {
+            "collocations": [],
+            "definition": "定位；配置，布置",
+            "examples": [],
+            "frequency": 11011,
+            "phonetic": "pəˈzɪ.ʃə.nɪŋ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "positioning"
+        },
+        {
+            "collocations": [],
+            "definition": "确定的，肯定的；积极的；正的，阳性的；绝对的；实际的，真实的",
+            "examples": [],
+            "frequency": 1053,
+            "phonetic": "ˈpɑ.zə.tɪv",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "positive"
+        },
+        {
+            "collocations": [],
+            "definition": "肯定地；明确地；断然地",
+            "examples": [],
+            "frequency": 5251,
+            "phonetic": "ˈpɑ.zə.tɪv.li",
+            "pos": "adv.",
+            "rootHint": "pos",
+            "word": "positively"
+        },
+        {
+            "collocations": [
+                "If you posit something, you suggest or assume it as the basis for an",
+                "argument or calculation. 假定；假设\n20000 词 汇巅峰\n速\n记"
+            ],
+            "definition": "假设；假定",
+            "examples": [],
+            "frequency": 9612,
+            "phonetic": "ˈpɑ.zɪt",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "posit"
+        },
+        {
+            "collocations": [
+                "You can use suppose or supposing before mentioning a possible situation\nor action. You usually then go on to consider the effects that this situation",
+                "or action might have. 假定；假设；设想",
+                "If you suppose that something is true, you believe that it is probably true,",
+                "because of other things that you know. (根据所知) 认为，推断，料想\n笔 记 区"
+            ],
+            "definition": "假设；认为；推想；让（虚拟语气）",
+            "examples": [],
+            "frequency": 2180,
+            "phonetic": "səˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "suppose"
+        },
+        {
+            "collocations": [
+                "If you say that something is supposed to happen, you mean that it is",
+                "planned or expected. Sometimes this use suggests that the thing does not",
+                "really happen in this way. (按计划或期望) 应当，应该，须",
+                "If you say that something is supposed to be true, you mean that people say",
+                "it is true but you do not know for certain that it is true. 认为；觉得；相信"
+            ],
+            "definition": "假定的；被信以为真的",
+            "examples": [],
+            "frequency": 1248,
+            "phonetic": "səˈpoʊzd",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "supposed"
+        },
+        {
+            "collocations": [],
+            "definition": "按照推测；恐怕；可能",
+            "examples": [],
+            "frequency": 4601,
+            "phonetic": "səˈpoʊ.zɪd.li",
+            "pos": "adv.",
+            "rootHint": "pos",
+            "word": "supposedly"
+        },
+        {
+            "collocations": [],
+            "definition": "假定；推测；想像；见解",
+            "examples": [],
+            "frequency": 18871,
+            "phonetic": "ˌsʌp.əˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "supposition"
+        },
+        {
+            "collocations": [
+                "If one thing presupposes another, the first thing cannot be true or exist",
+                "unless the second thing is true or exists. 预先假定；以……为前提；\n以……为先决条件"
+            ],
+            "definition": "预先假定；以……为前提；以……为先决条件",
+            "examples": [],
+            "frequency": 14453,
+            "phonetic": "ˌpriː.səˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "presuppose"
+        },
+        {
+            "collocations": [],
+            "definition": "目的；用途；意志",
+            "examples": [],
+            "frequency": 1018,
+            "phonetic": "ˈpɝ.pəs",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "purpose"
+        },
+        {
+            "collocations": [],
+            "definition": "有目的的；有决心的",
+            "examples": [],
+            "frequency": 13125,
+            "phonetic": "ˈpɝ.pəs.fəl",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "purposeful"
+        },
+        {
+            "collocations": [],
+            "definition": "自觉地；有目的地",
+            "examples": [],
+            "frequency": 14587,
+            "phonetic": "ˈpɝ.pəs.fə.li",
+            "pos": "adv.",
+            "rootHint": "pos",
+            "word": "purposefully"
+        },
+        {
+            "collocations": [],
+            "definition": "故意地；蓄意地",
+            "examples": [],
+            "frequency": 12708,
+            "phonetic": "ˈpɝ.pəs.li",
+            "pos": "adv.",
+            "rootHint": "pos",
+            "word": "purposely"
+        },
+        {
+            "collocations": [
+                "You use all-purpose to refer to things that have lots of different uses or can",
+                "be used in lots of different situations. 通用的；多用途的\n20000 词 汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "通用的；多用途的",
+            "examples": [],
+            "frequency": 9030,
+            "phonetic": "ˌɔl.ˈpɝ.pəs",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "all-purpose"
+        },
+        {
+            "collocations": [
+                "An outpost is a small group of buildings used for trading or military (军\n事的) purposes, either in a distant part of your own country or in a foreign\ncountry. 贸易站；前哨基地；(设在国外的) 军事基地",
+                "of Empire (by 1895) in later use often echoes Kipling."
+            ],
+            "definition": "前哨基地；贸易战；（设在国外的）军事基地",
+            "etymology": "1757, “military position detached from the main body of troops,” from out+post (n.2). Originally in George Washington’s letters. Commercial sense of “trading settlement near a frontier” is from 1802. Phrase outpost",
+            "examples": [],
+            "frequency": 9432,
+            "phonetic": "ˈaʊt.poʊst",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "outpost"
+        },
+        {
+            "collocations": [
+                "You can use post to refer to the place where a soldier, guard, or other",
+                "person has been told to remain and to do his or her job. 岗位；哨位",
+                "If you post notices, signs, or other pieces of information somewhere, you",
+                "fix them to a wall or board (板) so that everyone can see them. 张贴，贴\n出 (通知，标牌等)"
+            ],
+            "definition": "职位；邮政；邮递；邮件；哨位；岗位 vt. 张贴；贴出",
+            "examples": [],
+            "frequency": 2167,
+            "phonetic": "poʊst",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "post"
+        },
+        {
+            "collocations": [],
+            "definition": "邮资，邮费",
+            "examples": [],
+            "frequency": 13727,
+            "phonetic": "ˈpoʊ.stɪdʒ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "postage"
+        },
+        {
+            "collocations": [],
+            "definition": "邮政的；邮局的",
+            "examples": [],
+            "frequency": 7185,
+            "phonetic": "ˈpoʊ.stəl",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "postal"
+        },
+        {
+            "collocations": [],
+            "definition": "明信片",
+            "examples": [],
+            "frequency": 7032,
+            "phonetic": "ˈpoʊst.kɑrd",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "postcard"
+        },
+        {
+            "collocations": [],
+            "definition": "海报，广告；招贴",
+            "examples": [],
+            "frequency": 3871,
+            "phonetic": "ˈpoʊ.stɚ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "poster"
+        },
+        {
+            "collocations": [],
+            "definition": "背部的；后面的；臀部；屁股",
+            "examples": [],
+            "frequency": 14650,
+            "phonetic": "poʊˈstɪr.i.ɚ",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "posterior"
+        },
+        {
+            "collocations": [
+                "You can refer to everyone who will be alive in the future as posterity. 后\n裔；子孙；后代"
+            ],
+            "definition": "后代；子孙，后裔",
+            "examples": [],
+            "frequency": 17165,
+            "phonetic": "pɑˈstɛr.ə.ti",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "posterity"
+        },
+        {
+            "collocations": [
+                "Posthumous is used to describe something that happens after a person’s",
+                "death but relates to something they did before they died. 死后的；身后的\n20000 词 汇巅峰\n速\n记"
+            ],
+            "definition": "死后的；遗腹的；作者死后出版的",
+            "examples": [],
+            "frequency": 20117,
+            "phonetic": "ˈpɑs.tʃə.məs",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "posthumous"
+        },
+        {
+            "collocations": [
+                "If you get a posting to a different town or country, your employers send",
+                "you to work there, usually for several years. 派任；外派",
+                "If a member of an armed force gets a posting to a particular place, they are",
+                "sent to live and work there for a period. (军队的) 派驻，派遣\n笔 记 区"
+            ],
+            "definition": "派任；外派；（军队的）派驻，派遣",
+            "examples": [],
+            "frequency": 14093,
+            "phonetic": "ˈpoʊ.stɪŋ",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "posting"
+        },
+        {
+            "collocations": [],
+            "definition": "后现代的",
+            "examples": [],
+            "frequency": 8200,
+            "phonetic": "ˌpoʊstˈmɑ.dɚn",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "postmodern"
+        },
+        {
+            "collocations": [],
+            "definition": "后现代主义",
+            "examples": [],
+            "frequency": 13883,
+            "phonetic": "ˌpoʊstˈmɑ.dɚ.nɪ.zəm",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "postmodernism"
+        },
+        {
+            "collocations": [
+                "A post-mortem is a medical examination (医学检查) of a dead person’s",
+                "body in order to find out how they died. 验尸；尸体检验；尸体解剖",
+                "A post-mortem is an examination of something that has recently happened,",
+                "especially something that has failed or gone wrong. (尤指对失败或出差\n错的事情的) 事后分析；事后检讨"
+            ],
+            "definition": "验尸；尸体检验；（尤指对失败或出差错的事情的）事后分析；事后检讨",
+            "examples": [],
+            "frequency": 19940,
+            "phonetic": "ˌpoʊstˈmɔr.təm",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "post-mortem"
+        },
+        {
+            "collocations": [],
+            "definition": "手术后的",
+            "examples": [],
+            "frequency": 12325,
+            "phonetic": "ˌpoʊstˈɑ.pɚ.ə.tɪv",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "postoperative"
+        },
+        {
+            "collocations": [],
+            "definition": "产后的",
+            "examples": [],
+            "frequency": 17612,
+            "phonetic": "ˌpoʊstˈpɑr.təm",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "postpartum"
+        },
+        {
+            "collocations": [],
+            "definition": "季后赛",
+            "examples": [],
+            "frequency": 9952,
+            "phonetic": "ˈpoʊst.si.zən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "postseason"
+        },
+        {
+            "collocations": [],
+            "definition": "创伤后的；外伤后的",
+            "examples": [],
+            "frequency": 15288,
+            "phonetic": "ˌpoʊst.trəˈmæ.tɪk",
+            "pos": "adj.",
+            "rootHint": "pos",
+            "word": "post-traumatic"
+        },
+        {
+            "collocations": [
+                "If you postulate something, you suggest it as the basis for a theory,",
+                "argument, or calculation (计算), or assume that it is the basis. 假定；假设",
+                "A postulate is an idea that is suggested as or assumed to be the basis for a",
+                "theory, argument, or calculation. 假定；假设\n20000 词 汇巅峰\n速\n记\n笔 记 区\n高难度词汇："
+            ],
+            "definition": "/ n. 假定；假设",
+            "examples": [],
+            "frequency": 13427,
+            "phonetic": "ˈpɑs.tʃə.leɪt",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "postulate"
+        },
+        {
+            "collocations": [
+                "Repose is a state in which you are resting and feeling calm. 休息；休憩；\n闲适",
+                "If something reposes somewhere, it is there. 位于；安置于；坐落于"
+            ],
+            "definition": "休息；睡眠；静止 v. 位于；坐落于",
+            "examples": [],
+            "frequency": 20161,
+            "mnemonic": "re (反复) +pos (pause：停下来) →停下来；休息",
+            "phonetic": "rɪ.ˈpoʊz",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "repose"
+        },
+        {
+            "collocations": [
+                "To reposition something such as a product or service means to try to",
+                "interest more or different people in it, for example by changing certain",
+                "things about it or the way it is marketed. 重新定位(产品或服务)"
+            ],
+            "definition": "改变……的位置；重新放置；重新定位",
+            "examples": [],
+            "frequency": 16875,
+            "phonetic": "ˌriː.pəˈzɪ.ʃən",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "reposition"
+        },
+        {
+            "collocations": [
+                "A repository is a place where something is kept safely. 贮存处；存放处；\n仓库",
+                "A repository of information is a person or group of people who know a lot",
+                "of information about a particular place or subject. 博学者；无所不知的人"
+            ],
+            "definition": "贮藏室，仓库；知识库；智囊团",
+            "examples": [],
+            "frequency": 11365,
+            "phonetic": "rɪ.ˈpɑ.zɪ.tɔr.i",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "repository"
+        },
+        {
+            "collocations": [
+                "If a ruler or political leader is deposed, they are forced to give up their\nposition. 罢免，废黜(统治者或政治领导人)"
+            ],
+            "definition": "免职；废黜",
+            "examples": [],
+            "frequency": 16634,
+            "mnemonic": "de (=down：下)",
+            "phonetic": "dɪ.ˈpoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "depose"
+        },
+        {
+            "collocations": [
+                "If you juxtapose two contrasting (对比的) objects, images, or ideas, you",
+                "place them together or describe them together, so that the differences",
+                "between them are emphasized. (为强调不同点) 把……并置，把……\n并列"
+            ],
+            "definition": "并置；并列",
+            "examples": [],
+            "frequency": 13824,
+            "phonetic": "ˈdʒʌk.stə.poʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "juxtapose"
+        },
+        {
+            "collocations": [
+                "near, close to, near at hand”+French position (see position (n.)). Latin iuxta",
+                "is a contraction of *iugista (adv.), superlative of adjective *iugos “closely\nconnected,” from PIE root *yeug- “to join.”"
+            ],
+            "definition": "并置，并列；毗邻",
+            "etymology": "笔 记 区 1660s, from French juxtaposition (17c.), from Latin iuxta “beside, very",
+            "examples": [],
+            "frequency": 12748,
+            "phonetic": "ˌdʒʌk.stə.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "juxtaposition"
+        },
+        {
+            "collocations": [],
+            "definition": "易染病体质；倾向",
+            "examples": [],
+            "frequency": 14844,
+            "phonetic": "ˌpriː.dɪs.pəˈzɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "pos",
+            "word": "predisposition"
+        },
+        {
+            "collocations": [
+                "If something predisposes you to think or behave in a particular way, it",
+                "makes it likely that you will think or behave in that way. 使倾向于；使有\n意向",
+                "If something predisposes you to a disease or illness, it makes it likely that",
+                "you will suffer from that disease or illness. 易感染，使易患 (某种疾病)"
+            ],
+            "definition": "使倾向于；使有意向；使易患（某种疾病）",
+            "examples": [],
+            "frequency": 13431,
+            "phonetic": "ˌpriː.dɪˈspoʊz",
+            "pos": "vt.",
+            "rootHint": "pos",
+            "word": "predispose"
+        },
+        {
+            "collocations": [
+                "If you expound an idea or opinion, you give a clear and detailed",
+                "explanation of it. 详述；阐述；详细说明"
+            ],
+            "definition": "解释；详细说明",
+            "examples": [],
+            "frequency": 17070,
+            "phonetic": "ɪk.ˈspaʊnd",
+            "pos": "vt.",
+            "rootHint": "pound",
+            "word": "expound"
+        },
+        {
+            "collocations": [
+                "Exponential means growing or increasing very rapidly. 迅速增长的；成\n指数倍增的"
+            ],
+            "definition": "迅速增长的；成指数倍增的",
+            "examples": [],
+            "frequency": 18569,
+            "phonetic": "ˌɛk.spoʊ.ˈnɛn.ʃəl",
+            "pos": "adj.",
+            "rootHint": "pon",
+            "word": "exponential"
+        },
+        {
+            "collocations": [
+                "(mathematics) a raised figure or symbol that shows how many times a",
+                "quantity must be multiplied (成倍增长) by itself, for example the figure 4\nin a^4. (数) 指数；幂",
+                "An exponent of an idea, theory, or plan is a person who supports and",
+                "explains it, and who tries to persuade (说服) other people that it is a good\nidea. 阐述者；拥护者；倡导者",
+                "An exponent of a particular skill or activity is a person who is good at it.\n擅长者；大师；行家"
+            ],
+            "definition": "阐述者；拥护者；大师；行家；指数；幂",
+            "examples": [],
+            "frequency": 426,
+            "phonetic": "ˈɛk.spoʊ.nənt",
+            "pos": "n.",
+            "rootHint": "pon",
+            "word": "exponent"
+        },
+        {
+            "collocations": [],
+            "definition": "以指数方式",
+            "examples": [],
+            "frequency": 15775,
+            "phonetic": "ˌɛk.spoʊ.ˈnɛn.ʃə.li",
+            "pos": "adv.",
+            "rootHint": "pon",
+            "word": "exponentially"
+        }
+    ]
 }

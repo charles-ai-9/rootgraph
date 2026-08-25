@@ -1,263 +1,263 @@
 {
-  "id": "guar",
-  "source": "textbook-4",
-  "chapter": "9",
-  "chapterOrder": 109,
-  "titleZh": "guard=watch=ward ,",
-  "semanticLabel": "guard=watch=ward ,",
-  "meaningEn": "guard=watch=ward” , 含义为护卫；保护；留意。",
-  "meaningZh": null,
-  "roots": [
-    "guar",
-    "gard"
-  ],
-  "words": [
-    {
-      "word": "guard",
-      "phonetic": "ɡɑɹd",
-      "pos": "n.",
-      "definition": "守卫；保护；看守 n. 卫兵；防护装置；列车员",
-      "frequency": 1291,
-      "mnemonic": "guard(=watch: 守护；留意) →保卫；留意；警惕",
-      "collocations": [
-        "guard against: 防止；提防",
-        "guard their territory: 保卫他们的领土",
-        "catch sb off guard: 乘某人不备使其大吃一惊",
-        "lower your guard/let your guard down/drop your guard: 放松警惕 on one's guard or on guard: 警惕；值守",
-        "stand guard: 站岗",
-        "Intellectual property is an asset which needs to be guarded/protected as much as other tangible asset.\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
-        "guard 的同义词是ward:"
-      ],
-      "examples": [
-        "Data is becoming an asset which needs to be guarded as much as any other\nasset.\n数据正在变成一种资产，和其他资产一样需要被保护。",
-        "知识产权也是一种资产，和其他有形资产一样需要被保护。"
-      ],
-      "rootHint": "guar"
-    },
-    {
-      "word": "ward",
-      "phonetic": "wɔɹd",
-      "pos": "n.",
-      "definition": "病房；选区；被监护人〔尤指儿童〕 vi.5 防止；抵挡〔疾 病、危险或攻击等]127",
-      "collocations": [
-        "ward sth.off: 防止；抵挡某物",
-        "guard 的派生词有guarded,safeguard,regard,disregard,regardless, regarding 等 。"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "guarded",
-      "phonetic": "ˈɡɑɹ.dɪd",
-      "pos": "adj.",
-      "definition": "谨慎的；有保留的；提防的",
-      "frequency": 13827,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "safeguard",
-      "phonetic": "ˈseɪf.ɡɑɹd",
-      "pos": "n.",
-      "definition": "保护；保卫；保护措施",
-      "frequency": 9317,
-      "mnemonic": "safe ( 安全)+guard ( 保卫；保护)→保护…的安全；保护",
-      "collocations": [
-        "safeguard the interests of animals: 保护动物利益"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "regard",
-      "phonetic": "ɹɪˈɡɑɹd",
-      "pos": "n.",
-      "definition": "注意；关心[+for]; 尊敬[+ for]; 表良好祝愿(复数) vt. 认为，看作；(以某种方式)注视",
-      "frequency": 2101,
-      "mnemonic": "re- (表加强语气)+gard(=look,watch=heed: 注意；留心) → 注 意；关心；看作；注视",
-      "collocations": [
-        "regard A as B: 把A认作B",
-        "lightly regarded: 不被重视；不被留意",
-        "Jan's regard for his great talent: 简对他卓越才能的敬佩\nlittle/no/scant regard(for sb/sth): 对……关注很少",
-        "as regards to: 至于",
-        "with regard to/in regard to: 有关"
-      ],
-      "examples": [
-        "One feature of a good grading system is that those measured by it generally regard it as fair and reasonable—not the case here.\n一个良好的评分系统的特征之一是被评价的人普遍都将它看作是公平 的和合理的，而不是现在这个情况。"
-      ],
-      "rootHint": "gard"
-    },
-    {
-      "word": "disregard",
-      "phonetic": "ˌdɪs.ɹɪˈɡɑɹd",
-      "pos": "vt.",
-      "definition": "对……置之不理 n. 忽视",
-      "frequency": 9386,
-      "mnemonic": "dis-(=not,opposite of: 不；相反)+regard ( 关心；留意) → 不留\n意；不关心→对……置之不理；忽视",
-      "collocations": [
-        "disregard of water safety rules: 不管水质安全规定"
-      ],
-      "examples": [],
-      "rootHint": "gard"
-    },
-    {
-      "word": "regardless",
-      "phonetic": "ɹɪˈɡɑɹd.ləs",
-      "pos": "adv.",
-      "definition": "不顾一切地",
-      "frequency": 2922,
-      "mnemonic": "regard (关心；留 意 ) +-less ( 表否定) →不留意 →不顾一切地",
-      "collocations": [
-        "regardless of: 不管；无论",
-        "阅读难点：at any rate: 无论如何(=anyhow=in any case=on all accounts) acclaim [a'kleim] v.称颂；称赞；喝彩"
-      ],
-      "examples": [
-        "At any rate this change will ultimately be acclaimed by an ever-growing number of both domestic and international consumers regardless of how long the current consumer pattem will take hold.\n无论如何，不管现行的消费模式将会持续多久，这个变化最终都会被 不断增加的国内外消费者所称赞。",
-        "无论如何，不管互联网对交际的影响会持续多久，这个变革都值 得人们永远记住。\nAt any rate/Anyhow/In any case/On all accounts this revolutionary change deserves remembering forever regardless of how long its effect will take hold."
-      ],
-      "rootHint": "gard"
-    },
-    {
-      "word": "regarding",
-      "phonetic": "ɹɪˈɡɑɹ.dɪŋ",
-      "pos": "prep.",
-      "definition": "关于〔尤用于信函或演说中〕2172",
-      "mnemonic": "regard (与 … … 有关)+ing→关于；就……而言",
-      "collocations": [
-        "questions regarding job-hunting: 关于找工作的问题"
-      ],
-      "examples": [],
-      "rootHint": "gard"
-    },
-    {
-      "word": "guarantee",
-      "phonetic": "ˌɡæ.ɹənˈti",
-      "pos": "vt.",
-      "definition": "确保；保证……必定发生；担保 n. 保证；保修 单；担保物",
-      "frequency": 2798,
-      "mnemonic": "guar-(=guard: 保卫；守卫)+-ant ( 名词后缀)+-ee→保证；担保",
-      "collocations": [
-        "be far from guaranteed: 难以保障",
-        "guaranteed payment: 有保障的回报",
-        "a guarantee of quality: 保证质量\n20000词汇巅峰速笔 记 区趣课多\n20000词汇巅峰速\n笔 记 区",
-        "a guarantee of returning to do their military service: 作为回来服兵役 的担保"
-      ],
-      "examples": [
-        "Degrees of prestigious universities do not guarantee entry to graduate\nprograms.\n名校(本科)学历并不能确保进入到研究生计划。 仿写例句：大量的证书并不能确保进入到一个名企。\nA mass of/A great many/A large number of/Multitudes of/A large quantity of certificates do not guarantee entry to famous/prestigious companies/ corporations."
-      ],
-      "rootHint": "guar"
-    },
-    {
-      "word": "guaranteed",
-      "phonetic": "ˌɡæ.ɹənˈtid",
-      "pos": "adj.",
-      "definition": "肯定的；保证的",
-      "frequency": 9264,
-      "collocations": [
-        "be guaranteed to cause anxiety: 肯定会引起焦虑",
-        "guarantee 的同义词为warrant 和 pledge, 都有担保；保证的含义。"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "warrant",
-      "phonetic": "ˈwɔɹ.ənt",
-      "pos": "vt.",
-      "definition": "保证；保护；使……显得必要/适当 n. 搜查令；拘捕 令",
-      "frequency": 6154,
-      "mnemonic": "warrant(=guarant: 保护；保证) →safeguard,protect;guarantee,\npledge: 保证；保护→引申义为使……显得必要/适当；搜查令；拘捕 令(搜查、逮捕有法律保护)",
-      "collocations": [
-        "to warrant an investigation: 有必要进行一番调查",
-        "arrest warrant: 逮捕证"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "warranty",
-      "phonetic": "ˈwɔɹ.ən.ti",
-      "pos": "n.",
-      "definition": "( 产品的)保用证；保修单",
-      "frequency": 9807,
-      "collocations": [
-        "still under warranty: 还在保修期内"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "unwarranted",
-      "phonetic": "ʌnˈwɔɹəntɪd",
-      "pos": "adj.",
-      "definition": "不必要的；无端的",
-      "frequency": 15815,
-      "mnemonic": "pledg(=guard : 保证；保卫)+e→ 保证；许诺；誓言",
-      "collocations": [
-        "an unwarranted interference in the country's internal affairs: 对该国内政 的无端干涉",
-        "pledg e [pledʒ] vt. 保 证 ( 做 某 事 ) ; 保 证 给 予 ( 某 物 ) ; 承 诺 支 付 ( 一 笔 款 ) ; 抵 押n. 誓言；承诺拨款5262",
-        "pledge of the Declaration of Independence: 独立宣言的承诺",
-        "pledge $150 million in French aid: 承诺拨款1.5亿美元用于法国援助 pledge to support: 保证支持……",
-        "pledge himself to increase taxes for the rich: 保证增加富人税收"
-      ],
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "garage",
-      "phonetic": "ɡəˈɹɑʒ",
-      "pos": "n.",
-      "definition": "车库；汽车修理厂 vt.将(汽车)开进[停放在]车 库",
-      "frequency": 3237,
-      "collocations": [
-        "underground garage: 地下车库"
-      ],
-      "etymology": "日耳曼语族中的w在罗曼语系中会变为g(u)- 。史前日耳曼语war- ( 看 管，看护，与英语ward,warn,beware 同源)被古法语(属于罗曼语 系)借用为动词garer ( 停船于船坞，防护，保护),在法语中派生 了名词garage, 被英语和德语等借用为现代的意义。",
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "garment",
-      "phonetic": "ˈɡɑɹ.mənt",
-      "pos": "n.",
-      "definition": "衣服(尤用于衣服生产和销售的领域)6195",
-      "mnemonic": "gar-(=wer-: 保护；遮蔽)+-ment ( 名词后缀) → 其保护遮蔽作用 的衣服",
-      "collocations": [
-        "garment industry: 制衣业"
-      ],
-      "etymology": "来自词根wer-, 保护，隐藏。词源同warrant, 后指衣服。",
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "garnish",
-      "phonetic": "ˈɡɑɹ.nɪʃ",
-      "pos": "n.",
-      "definition": "装饰菜 vt. 加饰菜于",
-      "frequency": 9691,
-      "collocations": [
-        "a garnish of chopped raw onion,tomato,and fresh coriander: 剁碎的生 洋葱、西红柿和新鲜香菜做成的装饰菜",
-        "garnish the roast: 给烤肉配饰菜"
-      ],
-      "etymology": "来自法语。来自词根wer-, 保护，隐藏。同warrant。后指装饰。",
-      "examples": [],
-      "rootHint": "guar"
-    },
-    {
-      "word": "garrison",
-      "phonetic": "ˈɡæ.ɹə.sən",
-      "pos": "n.",
-      "definition": "卫戍部队；卫戍区 vt. 派兵驻守",
-      "frequency": 14498,
-      "collocations": [
-        "garrison the country: 驻守这个国家",
-        "自 词根“wer-=to cover”, 表示“保护；覆盖”。“wer-” 词根的变体有 “ward-=guar- : 保护”。",
-        "Sanskrit vatah \"enclosure,\"vrnoti “covers,wraps,shuts;\"Lithuanian užveriu, užverti \"to shut, to close;\" Old Persian *pari-varaka \"protective;\" Latin(op)erire “to cover,\"(ap)erire “open,uncover”(with ap-\"off, away”);Old Church Slavonic vora \"sealed,closed,\"vreti\"shut;\"Old Irish feronn \"field,\"properly“enclosed land;\"Old English wer “dam,fence, enclosure,\"German Wehr “defense,protection,”Gothic warjan “to defend, protect.\""
-      ],
-      "etymology": "耳曼语族中的w 在罗曼语系中会变为g(u) 。 来 自wer-, 保护，防 御，词源同warrant 。 原指城堡守卫，后指卫戍部队。史前日耳曼语 笔 记 区 war- (看管；看护)产生了warjan ( 保护；防护),被古法语(属于 罗曼语系)借用为garir, 派生了garison ( 保护；防护),被英语借用 为garrison。",
-      "examples": [],
-      "rootHint": "guar"
-    }
-  ]
+    "id": "guar",
+    "source": "textbook-4",
+    "chapter": "9",
+    "chapterOrder": 109,
+    "titleZh": "guard=watch=ward ,",
+    "semanticLabel": "guard=watch=ward ,",
+    "meaningEn": "guard=watch=ward” , 含义为护卫；保护；留意。",
+    "meaningZh": null,
+    "roots": [
+        "guar",
+        "gard"
+    ],
+    "words": [
+        {
+            "word": "guard",
+            "phonetic": "ɡɑrd",
+            "pos": "n.",
+            "definition": "守卫；保护；看守 n. 卫兵；防护装置；列车员",
+            "frequency": 1291,
+            "mnemonic": "guard(=watch: 守护；留意) →保卫；留意；警惕",
+            "collocations": [
+                "guard against: 防止；提防",
+                "guard their territory: 保卫他们的领土",
+                "catch sb off guard: 乘某人不备使其大吃一惊",
+                "lower your guard/let your guard down/drop your guard: 放松警惕 on one's guard or on guard: 警惕；值守",
+                "stand guard: 站岗",
+                "Intellectual property is an asset which needs to be guarded/protected as much as other tangible asset.\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
+                "guard 的同义词是ward:"
+            ],
+            "examples": [
+                "Data is becoming an asset which needs to be guarded as much as any other\nasset.\n数据正在变成一种资产，和其他资产一样需要被保护。",
+                "知识产权也是一种资产，和其他有形资产一样需要被保护。"
+            ],
+            "rootHint": "guar"
+        },
+        {
+            "word": "ward",
+            "phonetic": "wɔrd",
+            "pos": "n.",
+            "definition": "病房；选区；被监护人〔尤指儿童〕 vi.5 防止；抵挡〔疾 病、危险或攻击等]127",
+            "collocations": [
+                "ward sth.off: 防止；抵挡某物",
+                "guard 的派生词有guarded,safeguard,regard,disregard,regardless, regarding 等 。"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "guarded",
+            "phonetic": "ˈɡɑr.dɪd",
+            "pos": "adj.",
+            "definition": "谨慎的；有保留的；提防的",
+            "frequency": 13827,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "safeguard",
+            "phonetic": "ˈseɪf.ɡɑrd",
+            "pos": "n.",
+            "definition": "保护；保卫；保护措施",
+            "frequency": 9317,
+            "mnemonic": "safe ( 安全)+guard ( 保卫；保护)→保护…的安全；保护",
+            "collocations": [
+                "safeguard the interests of animals: 保护动物利益"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "regard",
+            "phonetic": "rɪˈɡɑrd",
+            "pos": "n.",
+            "definition": "注意；关心[+for]; 尊敬[+ for]; 表良好祝愿(复数) vt. 认为，看作；(以某种方式)注视",
+            "frequency": 2101,
+            "mnemonic": "re- (表加强语气)+gard(=look,watch=heed: 注意；留心) → 注 意；关心；看作；注视",
+            "collocations": [
+                "regard A as B: 把A认作B",
+                "lightly regarded: 不被重视；不被留意",
+                "Jan's regard for his great talent: 简对他卓越才能的敬佩\nlittle/no/scant regard(for sb/sth): 对……关注很少",
+                "as regards to: 至于",
+                "with regard to/in regard to: 有关"
+            ],
+            "examples": [
+                "One feature of a good grading system is that those measured by it generally regard it as fair and reasonable—not the case here.\n一个良好的评分系统的特征之一是被评价的人普遍都将它看作是公平 的和合理的，而不是现在这个情况。"
+            ],
+            "rootHint": "gard"
+        },
+        {
+            "word": "disregard",
+            "phonetic": "ˌdɪs.rɪˈɡɑrd",
+            "pos": "vt.",
+            "definition": "对……置之不理 n. 忽视",
+            "frequency": 9386,
+            "mnemonic": "dis-(=not,opposite of: 不；相反)+regard ( 关心；留意) → 不留\n意；不关心→对……置之不理；忽视",
+            "collocations": [
+                "disregard of water safety rules: 不管水质安全规定"
+            ],
+            "examples": [],
+            "rootHint": "gard"
+        },
+        {
+            "word": "regardless",
+            "phonetic": "rɪˈɡɑrd.ləs",
+            "pos": "adv.",
+            "definition": "不顾一切地",
+            "frequency": 2922,
+            "mnemonic": "regard (关心；留 意 ) +-less ( 表否定) →不留意 →不顾一切地",
+            "collocations": [
+                "regardless of: 不管；无论",
+                "阅读难点：at any rate: 无论如何(=anyhow=in any case=on all accounts) acclaim [a'kleim] v.称颂；称赞；喝彩"
+            ],
+            "examples": [
+                "At any rate this change will ultimately be acclaimed by an ever-growing number of both domestic and international consumers regardless of how long the current consumer pattem will take hold.\n无论如何，不管现行的消费模式将会持续多久，这个变化最终都会被 不断增加的国内外消费者所称赞。",
+                "无论如何，不管互联网对交际的影响会持续多久，这个变革都值 得人们永远记住。\nAt any rate/Anyhow/In any case/On all accounts this revolutionary change deserves remembering forever regardless of how long its effect will take hold."
+            ],
+            "rootHint": "gard"
+        },
+        {
+            "word": "regarding",
+            "phonetic": "rɪˈɡɑr.dɪŋ",
+            "pos": "prep.",
+            "definition": "关于〔尤用于信函或演说中〕2172",
+            "mnemonic": "regard (与 … … 有关)+ing→关于；就……而言",
+            "collocations": [
+                "questions regarding job-hunting: 关于找工作的问题"
+            ],
+            "examples": [],
+            "rootHint": "gard"
+        },
+        {
+            "word": "guarantee",
+            "phonetic": "ˌɡæ.rənˈtiː",
+            "pos": "vt.",
+            "definition": "确保；保证……必定发生；担保 n. 保证；保修 单；担保物",
+            "frequency": 2798,
+            "mnemonic": "guar-(=guard: 保卫；守卫)+-ant ( 名词后缀)+-ee→保证；担保",
+            "collocations": [
+                "be far from guaranteed: 难以保障",
+                "guaranteed payment: 有保障的回报",
+                "a guarantee of quality: 保证质量\n20000词汇巅峰速笔 记 区趣课多\n20000词汇巅峰速\n笔 记 区",
+                "a guarantee of returning to do their military service: 作为回来服兵役 的担保"
+            ],
+            "examples": [
+                "Degrees of prestigious universities do not guarantee entry to graduate\nprograms.\n名校(本科)学历并不能确保进入到研究生计划。 仿写例句：大量的证书并不能确保进入到一个名企。\nA mass of/A great many/A large number of/Multitudes of/A large quantity of certificates do not guarantee entry to famous/prestigious companies/ corporations."
+            ],
+            "rootHint": "guar"
+        },
+        {
+            "word": "guaranteed",
+            "phonetic": "ˌɡæ.rənˈtiːd",
+            "pos": "adj.",
+            "definition": "肯定的；保证的",
+            "frequency": 9264,
+            "collocations": [
+                "be guaranteed to cause anxiety: 肯定会引起焦虑",
+                "guarantee 的同义词为warrant 和 pledge, 都有担保；保证的含义。"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "warrant",
+            "phonetic": "ˈwɔr.ənt",
+            "pos": "vt.",
+            "definition": "保证；保护；使……显得必要/适当 n. 搜查令；拘捕 令",
+            "frequency": 6154,
+            "mnemonic": "warrant(=guarant: 保护；保证) →safeguard,protect;guarantee,\npledge: 保证；保护→引申义为使……显得必要/适当；搜查令；拘捕 令(搜查、逮捕有法律保护)",
+            "collocations": [
+                "to warrant an investigation: 有必要进行一番调查",
+                "arrest warrant: 逮捕证"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "warranty",
+            "phonetic": "ˈwɔr.ən.ti",
+            "pos": "n.",
+            "definition": "( 产品的)保用证；保修单",
+            "frequency": 9807,
+            "collocations": [
+                "still under warranty: 还在保修期内"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "unwarranted",
+            "phonetic": "ʌnˈwɔrəntɪd",
+            "pos": "adj.",
+            "definition": "不必要的；无端的",
+            "frequency": 15815,
+            "mnemonic": "pledg(=guard : 保证；保卫)+e→ 保证；许诺；誓言",
+            "collocations": [
+                "an unwarranted interference in the country's internal affairs: 对该国内政 的无端干涉",
+                "pledg e [pledʒ] vt. 保 证 ( 做 某 事 ) ; 保 证 给 予 ( 某 物 ) ; 承 诺 支 付 ( 一 笔 款 ) ; 抵 押n. 誓言；承诺拨款5262",
+                "pledge of the Declaration of Independence: 独立宣言的承诺",
+                "pledge $150 million in French aid: 承诺拨款1.5亿美元用于法国援助 pledge to support: 保证支持……",
+                "pledge himself to increase taxes for the rich: 保证增加富人税收"
+            ],
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "garage",
+            "phonetic": "ɡəˈrɑʒ",
+            "pos": "n.",
+            "definition": "车库；汽车修理厂 vt.将(汽车)开进[停放在]车 库",
+            "frequency": 3237,
+            "collocations": [
+                "underground garage: 地下车库"
+            ],
+            "etymology": "日耳曼语族中的w在罗曼语系中会变为g(u)- 。史前日耳曼语war- ( 看 管，看护，与英语ward,warn,beware 同源)被古法语(属于罗曼语 系)借用为动词garer ( 停船于船坞，防护，保护),在法语中派生 了名词garage, 被英语和德语等借用为现代的意义。",
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "garment",
+            "phonetic": "ˈɡɑr.mənt",
+            "pos": "n.",
+            "definition": "衣服(尤用于衣服生产和销售的领域)6195",
+            "mnemonic": "gar-(=wer-: 保护；遮蔽)+-ment ( 名词后缀) → 其保护遮蔽作用 的衣服",
+            "collocations": [
+                "garment industry: 制衣业"
+            ],
+            "etymology": "来自词根wer-, 保护，隐藏。词源同warrant, 后指衣服。",
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "garnish",
+            "phonetic": "ˈɡɑr.nɪʃ",
+            "pos": "n.",
+            "definition": "装饰菜 vt. 加饰菜于",
+            "frequency": 9691,
+            "collocations": [
+                "a garnish of chopped raw onion,tomato,and fresh coriander: 剁碎的生 洋葱、西红柿和新鲜香菜做成的装饰菜",
+                "garnish the roast: 给烤肉配饰菜"
+            ],
+            "etymology": "来自法语。来自词根wer-, 保护，隐藏。同warrant。后指装饰。",
+            "examples": [],
+            "rootHint": "guar"
+        },
+        {
+            "word": "garrison",
+            "phonetic": "ˈɡæ.rə.sən",
+            "pos": "n.",
+            "definition": "卫戍部队；卫戍区 vt. 派兵驻守",
+            "frequency": 14498,
+            "collocations": [
+                "garrison the country: 驻守这个国家",
+                "自 词根“wer-=to cover”, 表示“保护；覆盖”。“wer-” 词根的变体有 “ward-=guar- : 保护”。",
+                "Sanskrit vatah \"enclosure,\"vrnoti “covers,wraps,shuts;\"Lithuanian užveriu, užverti \"to shut, to close;\" Old Persian *pari-varaka \"protective;\" Latin(op)erire “to cover,\"(ap)erire “open,uncover”(with ap-\"off, away”);Old Church Slavonic vora \"sealed,closed,\"vreti\"shut;\"Old Irish feronn \"field,\"properly“enclosed land;\"Old English wer “dam,fence, enclosure,\"German Wehr “defense,protection,”Gothic warjan “to defend, protect.\""
+            ],
+            "etymology": "耳曼语族中的w 在罗曼语系中会变为g(u) 。 来 自wer-, 保护，防 御，词源同warrant 。 原指城堡守卫，后指卫戍部队。史前日耳曼语 笔 记 区 war- (看管；看护)产生了warjan ( 保护；防护),被古法语(属于 罗曼语系)借用为garir, 派生了garison ( 保护；防护),被英语借用 为garrison。",
+            "examples": [],
+            "rootHint": "guar"
+        }
+    ]
 }

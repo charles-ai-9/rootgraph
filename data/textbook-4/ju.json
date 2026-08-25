@@ -1,418 +1,418 @@
 {
-  "id": "ju",
-  "source": "textbook-4",
-  "chapter": "7",
-  "chapterOrder": 107,
-  "titleZh": "ju/jure/jury",
-  "semanticLabel": "ju/jure/jury",
-  "meaningEn": null,
-  "meaningZh": null,
-  "roots": [
-    "ju",
-    "jure",
-    "jury",
-    "just",
-    "law"
-  ],
-  "words": [
-    {
-      "word": "just",
-      "phonetic": "dʒʌst",
-      "pos": "adj.",
-      "definition": "正义的 adv. 刚刚；正要；正(表强调);只不过；只是； 仅仅；只会(造成不良后果);勉强地；也许；就是(加强表示感情 的语气);简直(表示能想象出)66",
-      "mnemonic": "单词just可以表示“公正的”是与单词“judge: 法官；审判”同源 (审判要求“公平；公正”)",
-      "collocations": [
-        "fight a just war: 打一场正义的战争",
-        "just bought a new house: 刚买了一个新房子\njust then: 正在那时",
-        "just a suggestion: 只是一个建议",
-        "just a minute/just a moment: 稍等",
-        "just a second/just a moment: 等一下，表插话用",
-        "just see or hear something: 简直(表示能想像出)\n20000词汇巅峰速笔 记 区趣课多\n20000词汇巅峰速\n笔 记 区",
-        "just like,just as...as,and just the same: 同……一样",
-        "just about the best golfer in the world: 算是世界上最优秀的高尔夫球手",
-        "just about tolerate it: 勉强可以接受它",
-        "just的派生词有unjust,justly,justice, injustice,justify, justified, justification, justifiable,justifiably等。"
-      ],
-      "etymology": "来自拉丁语iustus: 公正的；正直的。来自-ius: 法律；权利；正义。 来自古拉丁语ious: 神圣的语言。来自词根yewes-: 法规；法则。词 源同judge;jury 。 该词原为古代宗教仪式术语，宗教仪式有着固定的 程序和规则，以及繁琐的礼节并向天、地、神起誓的固定用语，因 此，引申出法律，发誓这两个主要词义。",
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "unjust",
-      "phonetic": "ʌnˈdʒʌst",
-      "pos": "adj.",
-      "definition": "不公正的",
-      "frequency": 11143,
-      "collocations": [
-        "unjust laws: 不公正的法律"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justly",
-      "phonetic": "ˈdʒʌst.li",
-      "pos": "adv.",
-      "definition": "理所应当地；正义的",
-      "frequency": 17739,
-      "collocations": [
-        "be justly proud of their native wildlife: 理应为他们本土的野生动植物 而自豪",
-        "be treated justly: 被公正地对待"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justice",
-      "phonetic": "ˈdʒʌs.tɪs",
-      "pos": "n.",
-      "definition": "司法制度；法律制裁；公正；正义",
-      "frequency": 1490,
-      "mnemonic": "just- (公平的；正义的)+-ice ( 名词后缀)→公正；正义；司法制 度；法律制裁",
-      "collocations": [
-        "the Justice Department: 司法部门",
-        "criminal justice system: 刑事司法体系"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "injustice",
-      "phonetic": "ɪnˈdʒʌs.tɪs",
-      "pos": "n.",
-      "definition": "不公正[+of][ +against]6136",
-      "collocations": [
-        "the injustice of slavery: 奴隶制的不公正",
-        "do sb an injustice: 冤枉某人",
-        "innumerable injustices against the black population: 对黑人难以计数的\n不公正行为"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justify",
-      "phonetic": "ˈdʒʌs.tə.faɪ",
-      "pos": "vi.",
-      "definition": "证明……有道理；为……辩护；是……的正当理由； 使排齐",
-      "frequency": 2857,
-      "mnemonic": "just (公平的；正义的)+-ify ( 使动词) →使……公平 →证明……有 道理；为……辩护；是……的正当理由",
-      "collocations": [
-        "justify doing sth: 解释做……是正当的",
-        "justify yourself(=prove that what you are doing is reasonable): 为自己辩解 justify text: 使文本排齐\n释义：( VERB) 证明(决定、行为或想法)正当；表明……必要",
-        "To justify a decision,action,or idea means to show or prove that it is reasonable or necessary.\n( VERB) 调整(打印文本);使齐行；使每行排齐",
-        "To justify printed text means to adjust the spaces between the words so that each line of type is exactly the same length."
-      ],
-      "examples": [
-        "As Yale law professor Anne Alstott argues,justifying parental support depends on defining the family as a social good that,in some sense,society must pay for.\n正如耶鲁大学法律教授Anne Alstott认为的，要证明父母的养育是合理 的取决于要把家庭定义为一个好的社会事物，从某些意义上来说，社 会必须有所付出。"
-      ],
-      "rootHint": "just"
-    },
-    {
-      "word": "justified",
-      "phonetic": "ˈdʒʌs.tə.faɪd",
-      "pos": "adj.",
-      "definition": "合理的；理所应当的",
-      "frequency": 15613,
-      "collocations": [
-        "justified concern: 合理的担心",
-        "be wholly justified:…… 是完全合理的",
-        "be absolutely justified in doing sth: 完全有理由做某事"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justification",
-      "phonetic": "ˌdʒʌs.tə.fəˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "正当的理由；为……辩护",
-      "frequency": 5898,
-      "collocations": [
-        "contrive various justifications: 设计出各种各样理由",
-        "no justification for(doin g)sth: 有/没有做……事情的理由 in justification(of sb/sth) : 为(某人/某事)辩解\n释义：( N-VAR)正当理由；合理的解释",
-        "A justification for something is an acceptable reason or explanation for it. 写作例句：有人认为要求回报是合理的，其依据是助人者会花费时间和精力。",
-        "Some justify requiring something in return on the ground that the benefactor will spend time and efforts in it.\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
-        "Some hold that asking for compensation is justified on the ground the benefactor willspend time and efforts in it.",
-        "Some offer justifications for asking something in return on the ground that the benefactor will spend time and efforts in it."
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justifiable",
-      "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bəl",
-      "pos": "adj.",
-      "definition": "(行为、反应、决定等)有道理的；可证 明是正当的；情有可原的",
-      "frequency": 15950,
-      "collocations": [
-        "justifiable anger: 情有可原的愤怒",
-        "justifiable pride: 无可非议的自豪感",
-        "economically/commercially justifiable: 经济上/商业上合理的 释义：(ADJ-GRADED ) 有理由的；无可非议的；情有可原的",
-        "An action,situation,emotion,or idea that is justifiable is acceptable or correct because there is a good reason for it."
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "justifiably",
-      "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bli",
-      "pos": "adv.",
-      "definition": "有理由地；无可非议地",
-      "frequency": 18390,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "jury",
-      "phonetic": "ˈdʒʊɹ.i",
-      "pos": "n.",
-      "definition": "陪审团；(竞赛的)评委会",
-      "frequency": 1660,
-      "mnemonic": "ju-(=judge : 审 判 ) +ry→ ( 法律)陪审团",
-      "collocations": [
-        "the jury is out/the jury is still out: 尚无定论",
-        "jury trial: 陪审团审案"
-      ],
-      "etymology": "来自拉丁语iurare: 发誓；誓言。来自ius: 法律。即以誓言保证公正 审判的人，引申词义陪审团。",
-      "examples": [],
-      "rootHint": "jury"
-    },
-    {
-      "word": "perjury",
-      "phonetic": "ˈpɝ.dʒɚ.i",
-      "pos": "n.",
-      "definition": "伪证；伪誓；伪证罪",
-      "frequency": 11385,
-      "mnemonic": "per-(=away: 离 开 ) +jury(=to swear: 发誓) →离开正确的誓言， 发错误的假誓→伪证；伪誓；伪证罪",
-      "collocations": [
-        "commit perjury: 犯伪证罪；发假誓",
-        "guilty of perjury: 伪证罪"
-      ],
-      "etymology": "来自盎格鲁-诺曼语perjurie, 来自拉丁语periurare(=swear falsely: 发假誓),来自拉丁语per-+jurare。 20000词汇巅峰 笔 记 区 笔 记 区",
-      "examples": [],
-      "rootHint": "jury"
-    },
-    {
-      "word": "jurist",
-      "phonetic": "ˈdʒʊɹ.ɪst",
-      "pos": "n.",
-      "definition": "法学家；法律专家",
-      "frequency": 17968,
-      "mnemonic": "来自jury ( 陪审团)+-ist ( 人)即陪审团成员；有法律知识的人 → 引 申词义法学家；法律专家",
-      "collocations": [
-        "civil jurist: 民法学家"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "juror",
-      "phonetic": "ˈdʒʊɹ.ɚ",
-      "pos": "n.",
-      "definition": "陪审员；陪审团成员",
-      "frequency": 4112,
-      "mnemonic": "a member ofjury",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "jurisprudence",
-      "phonetic": "ˌdʒʊɹ.ɪsˈpɹud.əns",
-      "pos": "n.",
-      "definition": "法学",
-      "frequency": 15389,
-      "mnemonic": "来自拉丁语iuris ( 法律的)+拉丁语prudentia ( 知识；实践智慧) →来自拉丁语iurisprudentia ( 法律的科学；法律的知识)→ 引申词 义法学",
-      "collocations": [
-        "medical jurisprudence: 法医学",
-        "criminal Jurisprudence: 刑法学"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "injure",
-      "phonetic": "ˈɪn.dʒɚ",
-      "pos": "vt.",
-      "definition": "使受伤；伤害",
-      "frequency": 3755,
-      "mnemonic": "in- ( 否定)+-jure ( 司法；法律) →不遵守法律 →干伤天害理的事情 →伤害；损害( v.)",
-      "collocations": [
-        "be badly/seriously/critically injured: 深受重伤",
-        "injure sb's pride/feelings etc.: 伤害某人的自尊/情感等\n在日常英语中，人们一般说hurt, 而 不 说injure 。如hurt the leg: 伤了 腿 ；hurt my feelings: 伤害了我的感情。"
-      ],
-      "examples": [],
-      "rootHint": "jure"
-    },
-    {
-      "word": "injury",
-      "phonetic": "ˈɪn.dʒɚ.i",
-      "pos": "r",
-      "definition": "i] n. ( 身体上的)损害[+to]; ( 对某人名誉、事业或情感的)伤害[+to]1562",
-      "collocations": [
-        "cause serious injury to his reputation: 使他的名誉受到了严重损害",
-        "the injured: 伤者",
-        "injured look/expression etc.: 委屈的样子/表情等"
-      ],
-      "examples": [],
-      "rootHint": "jury"
-    },
-    {
-      "word": "conjure",
-      "phonetic": "ˈkɑndʒɚ",
-      "pos": "vt.",
-      "definition": "vt. &vi. 变魔术vt. 使(某物)突然出现[发生]7876",
-      "mnemonic": "ad-(=to)+-just (刚好；合适)→去适合→使……适合；调整…… 以适应",
-      "collocations": [
-        "conjure a rabbit out of hat: 从帽子里变出一只兔子来conjure victories from bad situations: 从糟糕的环境中出人意料地取 得胜利conjure up: 使如变魔术般凭空出现；想起，使在脑海中显现 “adjust,adap t” 表示“调整；适应”。adjust [ə'd3ʌst] vt.&vi. 调整以适应vt. 调整；调节；适应2320",
-        "adjust A to B: 调整A 以适应B (=adapt A to B)adjust themselves to civil society: 进行自我调整以适应普通社会adjust its tax and labor laws: 调整了其税务及劳动法规adjust the mirror: 调节了后视镜adjust his vision to the faint starlight: 使眼睛适应昏暗的星光例句：1)Our kids need to adjust to that,but too much pushiness can bea look of injured pride:自尊心受伤的表情",
-        "conjure a rabbit out of hat: 从帽子里变出一只兔子来",
-        "conjure victories from bad situations: 从糟糕的环境中出人意料地取 得胜利",
-        "conjure up: 使如变魔术般凭空出现；想起，使在脑海中显现",
-        "adjust,adap t” 表示“调整；适应”。"
-      ],
-      "etymology": "从13世纪开始，这个词逐渐衍生出魔幻含义，意为“通过咒语召唤 神鬼、驱使神鬼”。人们认为，巫师或魔法师通过念咒的方式来召集 鬼魂，其实就是在与神鬼密谋，以发誓诅咒的方式请求神鬼的协助， 所以conjure一词产生了“念咒召唤神鬼”的意思。后来，逐渐演变处 “变魔术”,“凭空变出；想象出”的含义。",
-      "examples": [],
-      "rootHint": "jure"
-    },
-    {
-      "word": "adjust",
-      "phonetic": "ə.ˈdʒʌst",
-      "pos": "vt.",
-      "definition": "&vi. 调整以适应vt. 调整；调节；适应",
-      "frequency": 2320,
-      "mnemonic": "ad-(=to)+-just (刚好；合适)→去适合→使……适合；调整…… 以适应",
-      "collocations": [
-        "adjust A to B: 调整A 以适应B (=adapt A to B)",
-        "adjust themselves to civil society: 进行自我调整以适应普通社会",
-        "adjust its tax and labor laws: 调整了其税务及劳动法规",
-        "adjust the mirror: 调节了后视镜",
-        "adjust his vision to the faint starlight: 使眼睛适应昏暗的星光",
-        "adjust 的派生词有adjuster,adjusted,readjust,adjustable,adjustment 等 。"
-      ],
-      "examples": [
-        "1)Our kids need to adjust to that,but too much pushiness can be\ndestructive.\n我们的孩子必须去调整以适应那个，但是过多的逼迫可能会带来毁灭 性的后果。\n2)And global warming could wipe out species unable to quickly adapt to changing climate/circumstance/environment.\n选20000词汇巅峰\n选"
-      ],
-      "rootHint": "just"
-    },
-    {
-      "word": "adjuster",
-      "phonetic": "ə.ˈdʒʌs.tɚ",
-      "pos": "n.",
-      "definition": "调节器",
-      "frequency": 19658,
-      "collocations": [
-        "a seat belt adjuster: 一个座椅安全带调节器"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "adjusted",
-      "phonetic": "ə.ˈdʒʌs.tɪd",
-      "pos": "adj.",
-      "definition": "调整过的；调节了的",
-      "frequency": 14996,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "readjust",
-      "phonetic": "ˌɹi.əˈdʒʌst",
-      "pos": "vi.",
-      "definition": "重新适应[+to] vt. 调整；校准；重置",
-      "frequency": 18615,
-      "collocations": [
-        "readjust to life on earth: 重新适应地球上的生活",
-        "readjust your expectations: 调整你的期望值",
-        "readjust your watch: 校准你的手表"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "adjustable",
-      "phonetic": "ə.ˈdʒʌs.tə.bəl",
-      "pos": "adj.",
-      "definition": "(位置、大小等)可调整的；可调节的",
-      "frequency": 10270,
-      "collocations": [
-        "adjustable shoulder straps: 可调肩带"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "adjustment",
-      "phonetic": "ə.ˈdʒʌst.mənt",
-      "pos": "n.",
-      "definition": "( 对机器、做事方法等的)调整；(对行 为、思想等的)调整",
-      "frequency": 3146,
-      "collocations": [
-        "adjustments to taxation: 调 税",
-        "after adjustment for inflation: 在通货膨胀调整后",
-        "make major adjustments to his thinking: 对他的思维方式作大的调整",
-        "poor adjustment to seasonal change: 很差的调节适应季节变化的能力 写作例句：当不幸的事情发生时，我们应该及时调整心态去适应它。",
-        "When something unfortunate happens,we should adjust our mentality to it timely.",
-        "When something bad takes place,we should adapt ourselves to it in time. When something miserable occurs,we should make some adjustments to it immediately.\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 adapt [ə 'dæpt] vt.&vi. 使适应vt. 改 装vt. [ 一般用被动态]改编2954",
-        "adapt to the change: 适应变化",
-        "adapt the library for use as an office: 将这个图书馆改作一个办公室用",
-        "adapt 的派生词有adapter,adaptive,adaptable ,adaptation,adaptability 等 。 adapter [ə'dæptə] n.转接器，适配器；多头插头14069adaptive [ə'dæptiv] adj. 能适应的8426搭配：develop highly adaptive behavioral rules for survival: 建立有高度适应 性的行为准则adaptable [ə'dæptəb(a)l] adj. 能适应的15336搭配：make the workforce more adaptable and skilled: 使劳动力更具适应力并 且更具技能adaptation [ædəp'terʃ(ə)n] n. 改编；适应5258搭配：his screen adaptation of Shakespeare's Henry the Fifth: 他对莎士比亚的 《亨利五世》的荧幕改编be capable of adaptation: 能适应adaptability [,dæpta'brlətr] n. 适应性18124搭配：the adaptability of wool: 羊毛的适应性词根“opt-=to desire,choose,grab,take”, 含义为想要；选择；夺取； 获得。同样表达选择的词根还有“op-” 等。be adapted for television: 被改编成电视剧",
-        "adapt 的派生词有adapter,adaptive,adaptable ,adaptation,adaptability 等 。 adapter [ə'dæptə] n.转接器，适配器；多头插头14069"
-      ],
-      "examples": [],
-      "rootHint": "just"
-    },
-    {
-      "word": "adaptive",
-      "phonetic": "ə.ˈdæp.tɪv",
-      "pos": "adj.",
-      "definition": "能适应的",
-      "frequency": 8426,
-      "collocations": [
-        "develop highly adaptive behavioral rules for survival: 建立有高度适应 性的行为准则"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "adaptable",
-      "phonetic": "ə.ˈdæp.tə.bəl",
-      "pos": "adj.",
-      "definition": "能适应的",
-      "frequency": 15336,
-      "collocations": [
-        "make the workforce more adaptable and skilled: 使劳动力更具适应力并 且更具技能"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "adaptation",
-      "phonetic": "ˌæd.æp.ˈteɪ.ʃən",
-      "pos": "n.",
-      "definition": "改编；适应",
-      "frequency": 5258,
-      "collocations": [
-        "his screen adaptation of Shakespeare's Henry the Fifth: 他对莎士比亚的 《亨利五世》的荧幕改编",
-        "be capable of adaptation: 能适应"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    },
-    {
-      "word": "adaptability",
-      "phonetic": "ə.ˌdæp.təˈbɪ.lə.ti",
-      "pos": "n.",
-      "definition": "适应性",
-      "frequency": 18124,
-      "collocations": [
-        "the adaptability of wool: 羊毛的适应性"
-      ],
-      "examples": [],
-      "rootHint": "ju"
-    }
-  ]
+    "id": "ju",
+    "source": "textbook-4",
+    "chapter": "7",
+    "chapterOrder": 107,
+    "titleZh": "ju/jure/jury",
+    "semanticLabel": "ju/jure/jury",
+    "meaningEn": null,
+    "meaningZh": null,
+    "roots": [
+        "ju",
+        "jure",
+        "jury",
+        "just",
+        "law"
+    ],
+    "words": [
+        {
+            "word": "just",
+            "phonetic": "dʒʌst",
+            "pos": "adj.",
+            "definition": "正义的 adv. 刚刚；正要；正(表强调);只不过；只是； 仅仅；只会(造成不良后果);勉强地；也许；就是(加强表示感情 的语气);简直(表示能想象出)66",
+            "mnemonic": "单词just可以表示“公正的”是与单词“judge: 法官；审判”同源 (审判要求“公平；公正”)",
+            "collocations": [
+                "fight a just war: 打一场正义的战争",
+                "just bought a new house: 刚买了一个新房子\njust then: 正在那时",
+                "just a suggestion: 只是一个建议",
+                "just a minute/just a moment: 稍等",
+                "just a second/just a moment: 等一下，表插话用",
+                "just see or hear something: 简直(表示能想像出)\n20000词汇巅峰速笔 记 区趣课多\n20000词汇巅峰速\n笔 记 区",
+                "just like,just as...as,and just the same: 同……一样",
+                "just about the best golfer in the world: 算是世界上最优秀的高尔夫球手",
+                "just about tolerate it: 勉强可以接受它",
+                "just的派生词有unjust,justly,justice, injustice,justify, justified, justification, justifiable,justifiably等。"
+            ],
+            "etymology": "来自拉丁语iustus: 公正的；正直的。来自-ius: 法律；权利；正义。 来自古拉丁语ious: 神圣的语言。来自词根yewes-: 法规；法则。词 源同judge;jury 。 该词原为古代宗教仪式术语，宗教仪式有着固定的 程序和规则，以及繁琐的礼节并向天、地、神起誓的固定用语，因 此，引申出法律，发誓这两个主要词义。",
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "unjust",
+            "phonetic": "ʌnˈdʒʌst",
+            "pos": "adj.",
+            "definition": "不公正的",
+            "frequency": 11143,
+            "collocations": [
+                "unjust laws: 不公正的法律"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justly",
+            "phonetic": "ˈdʒʌst.li",
+            "pos": "adv.",
+            "definition": "理所应当地；正义的",
+            "frequency": 17739,
+            "collocations": [
+                "be justly proud of their native wildlife: 理应为他们本土的野生动植物 而自豪",
+                "be treated justly: 被公正地对待"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justice",
+            "phonetic": "ˈdʒʌs.tɪs",
+            "pos": "n.",
+            "definition": "司法制度；法律制裁；公正；正义",
+            "frequency": 1490,
+            "mnemonic": "just- (公平的；正义的)+-ice ( 名词后缀)→公正；正义；司法制 度；法律制裁",
+            "collocations": [
+                "the Justice Department: 司法部门",
+                "criminal justice system: 刑事司法体系"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "injustice",
+            "phonetic": "ɪnˈdʒʌs.tɪs",
+            "pos": "n.",
+            "definition": "不公正[+of][ +against]6136",
+            "collocations": [
+                "the injustice of slavery: 奴隶制的不公正",
+                "do sb an injustice: 冤枉某人",
+                "innumerable injustices against the black population: 对黑人难以计数的\n不公正行为"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justify",
+            "phonetic": "ˈdʒʌs.tə.faɪ",
+            "pos": "vi.",
+            "definition": "证明……有道理；为……辩护；是……的正当理由； 使排齐",
+            "frequency": 2857,
+            "mnemonic": "just (公平的；正义的)+-ify ( 使动词) →使……公平 →证明……有 道理；为……辩护；是……的正当理由",
+            "collocations": [
+                "justify doing sth: 解释做……是正当的",
+                "justify yourself(=prove that what you are doing is reasonable): 为自己辩解 justify text: 使文本排齐\n释义：( VERB) 证明(决定、行为或想法)正当；表明……必要",
+                "To justify a decision,action,or idea means to show or prove that it is reasonable or necessary.\n( VERB) 调整(打印文本);使齐行；使每行排齐",
+                "To justify printed text means to adjust the spaces between the words so that each line of type is exactly the same length."
+            ],
+            "examples": [
+                "As Yale law professor Anne Alstott argues,justifying parental support depends on defining the family as a social good that,in some sense,society must pay for.\n正如耶鲁大学法律教授Anne Alstott认为的，要证明父母的养育是合理 的取决于要把家庭定义为一个好的社会事物，从某些意义上来说，社 会必须有所付出。"
+            ],
+            "rootHint": "just"
+        },
+        {
+            "word": "justified",
+            "phonetic": "ˈdʒʌs.tə.faɪd",
+            "pos": "adj.",
+            "definition": "合理的；理所应当的",
+            "frequency": 15613,
+            "collocations": [
+                "justified concern: 合理的担心",
+                "be wholly justified:…… 是完全合理的",
+                "be absolutely justified in doing sth: 完全有理由做某事"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justification",
+            "phonetic": "ˌdʒʌs.tə.fəˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "正当的理由；为……辩护",
+            "frequency": 5898,
+            "collocations": [
+                "contrive various justifications: 设计出各种各样理由",
+                "no justification for(doin g)sth: 有/没有做……事情的理由 in justification(of sb/sth) : 为(某人/某事)辩解\n释义：( N-VAR)正当理由；合理的解释",
+                "A justification for something is an acceptable reason or explanation for it. 写作例句：有人认为要求回报是合理的，其依据是助人者会花费时间和精力。",
+                "Some justify requiring something in return on the ground that the benefactor will spend time and efforts in it.\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区\n笔 记 区",
+                "Some hold that asking for compensation is justified on the ground the benefactor willspend time and efforts in it.",
+                "Some offer justifications for asking something in return on the ground that the benefactor will spend time and efforts in it."
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justifiable",
+            "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bəl",
+            "pos": "adj.",
+            "definition": "(行为、反应、决定等)有道理的；可证 明是正当的；情有可原的",
+            "frequency": 15950,
+            "collocations": [
+                "justifiable anger: 情有可原的愤怒",
+                "justifiable pride: 无可非议的自豪感",
+                "economically/commercially justifiable: 经济上/商业上合理的 释义：(ADJ-GRADED ) 有理由的；无可非议的；情有可原的",
+                "An action,situation,emotion,or idea that is justifiable is acceptable or correct because there is a good reason for it."
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "justifiably",
+            "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bli",
+            "pos": "adv.",
+            "definition": "有理由地；无可非议地",
+            "frequency": 18390,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "jury",
+            "phonetic": "ˈdʒʊr.i",
+            "pos": "n.",
+            "definition": "陪审团；(竞赛的)评委会",
+            "frequency": 1660,
+            "mnemonic": "ju-(=judge : 审 判 ) +ry→ ( 法律)陪审团",
+            "collocations": [
+                "the jury is out/the jury is still out: 尚无定论",
+                "jury trial: 陪审团审案"
+            ],
+            "etymology": "来自拉丁语iurare: 发誓；誓言。来自ius: 法律。即以誓言保证公正 审判的人，引申词义陪审团。",
+            "examples": [],
+            "rootHint": "jury"
+        },
+        {
+            "word": "perjury",
+            "phonetic": "ˈpɝ.dʒɚ.i",
+            "pos": "n.",
+            "definition": "伪证；伪誓；伪证罪",
+            "frequency": 11385,
+            "mnemonic": "per-(=away: 离 开 ) +jury(=to swear: 发誓) →离开正确的誓言， 发错误的假誓→伪证；伪誓；伪证罪",
+            "collocations": [
+                "commit perjury: 犯伪证罪；发假誓",
+                "guilty of perjury: 伪证罪"
+            ],
+            "etymology": "来自盎格鲁-诺曼语perjurie, 来自拉丁语periurare(=swear falsely: 发假誓),来自拉丁语per-+jurare。 20000词汇巅峰 笔 记 区 笔 记 区",
+            "examples": [],
+            "rootHint": "jury"
+        },
+        {
+            "word": "jurist",
+            "phonetic": "ˈdʒʊr.ɪst",
+            "pos": "n.",
+            "definition": "法学家；法律专家",
+            "frequency": 17968,
+            "mnemonic": "来自jury ( 陪审团)+-ist ( 人)即陪审团成员；有法律知识的人 → 引 申词义法学家；法律专家",
+            "collocations": [
+                "civil jurist: 民法学家"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "juror",
+            "phonetic": "ˈdʒʊr.ɚ",
+            "pos": "n.",
+            "definition": "陪审员；陪审团成员",
+            "frequency": 4112,
+            "mnemonic": "a member ofjury",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "jurisprudence",
+            "phonetic": "ˌdʒʊr.ɪsˈprud.əns",
+            "pos": "n.",
+            "definition": "法学",
+            "frequency": 15389,
+            "mnemonic": "来自拉丁语iuris ( 法律的)+拉丁语prudentia ( 知识；实践智慧) →来自拉丁语iurisprudentia ( 法律的科学；法律的知识)→ 引申词 义法学",
+            "collocations": [
+                "medical jurisprudence: 法医学",
+                "criminal Jurisprudence: 刑法学"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "injure",
+            "phonetic": "ˈɪn.dʒɚ",
+            "pos": "vt.",
+            "definition": "使受伤；伤害",
+            "frequency": 3755,
+            "mnemonic": "in- ( 否定)+-jure ( 司法；法律) →不遵守法律 →干伤天害理的事情 →伤害；损害( v.)",
+            "collocations": [
+                "be badly/seriously/critically injured: 深受重伤",
+                "injure sb's pride/feelings etc.: 伤害某人的自尊/情感等\n在日常英语中，人们一般说hurt, 而 不 说injure 。如hurt the leg: 伤了 腿 ；hurt my feelings: 伤害了我的感情。"
+            ],
+            "examples": [],
+            "rootHint": "jure"
+        },
+        {
+            "word": "injury",
+            "phonetic": "ˈɪn.dʒɚ.i",
+            "pos": "r",
+            "definition": "i] n. ( 身体上的)损害[+to]; ( 对某人名誉、事业或情感的)伤害[+to]1562",
+            "collocations": [
+                "cause serious injury to his reputation: 使他的名誉受到了严重损害",
+                "the injured: 伤者",
+                "injured look/expression etc.: 委屈的样子/表情等"
+            ],
+            "examples": [],
+            "rootHint": "jury"
+        },
+        {
+            "word": "conjure",
+            "phonetic": "ˈkɑndʒɚ",
+            "pos": "vt.",
+            "definition": "vt. &vi. 变魔术vt. 使(某物)突然出现[发生]7876",
+            "mnemonic": "ad-(=to)+-just (刚好；合适)→去适合→使……适合；调整…… 以适应",
+            "collocations": [
+                "conjure a rabbit out of hat: 从帽子里变出一只兔子来conjure victories from bad situations: 从糟糕的环境中出人意料地取 得胜利conjure up: 使如变魔术般凭空出现；想起，使在脑海中显现 “adjust,adap t” 表示“调整；适应”。adjust [ə'd3ʌst] vt.&vi. 调整以适应vt. 调整；调节；适应2320",
+                "adjust A to B: 调整A 以适应B (=adapt A to B)adjust themselves to civil society: 进行自我调整以适应普通社会adjust its tax and labor laws: 调整了其税务及劳动法规adjust the mirror: 调节了后视镜adjust his vision to the faint starlight: 使眼睛适应昏暗的星光例句：1)Our kids need to adjust to that,but too much pushiness can bea look of injured pride:自尊心受伤的表情",
+                "conjure a rabbit out of hat: 从帽子里变出一只兔子来",
+                "conjure victories from bad situations: 从糟糕的环境中出人意料地取 得胜利",
+                "conjure up: 使如变魔术般凭空出现；想起，使在脑海中显现",
+                "adjust,adap t” 表示“调整；适应”。"
+            ],
+            "etymology": "从13世纪开始，这个词逐渐衍生出魔幻含义，意为“通过咒语召唤 神鬼、驱使神鬼”。人们认为，巫师或魔法师通过念咒的方式来召集 鬼魂，其实就是在与神鬼密谋，以发誓诅咒的方式请求神鬼的协助， 所以conjure一词产生了“念咒召唤神鬼”的意思。后来，逐渐演变处 “变魔术”,“凭空变出；想象出”的含义。",
+            "examples": [],
+            "rootHint": "jure"
+        },
+        {
+            "word": "adjust",
+            "phonetic": "ə.ˈdʒʌst",
+            "pos": "vt.",
+            "definition": "&vi. 调整以适应vt. 调整；调节；适应",
+            "frequency": 2320,
+            "mnemonic": "ad-(=to)+-just (刚好；合适)→去适合→使……适合；调整…… 以适应",
+            "collocations": [
+                "adjust A to B: 调整A 以适应B (=adapt A to B)",
+                "adjust themselves to civil society: 进行自我调整以适应普通社会",
+                "adjust its tax and labor laws: 调整了其税务及劳动法规",
+                "adjust the mirror: 调节了后视镜",
+                "adjust his vision to the faint starlight: 使眼睛适应昏暗的星光",
+                "adjust 的派生词有adjuster,adjusted,readjust,adjustable,adjustment 等 。"
+            ],
+            "examples": [
+                "1)Our kids need to adjust to that,but too much pushiness can be\ndestructive.\n我们的孩子必须去调整以适应那个，但是过多的逼迫可能会带来毁灭 性的后果。\n2)And global warming could wipe out species unable to quickly adapt to changing climate/circumstance/environment.\n选20000词汇巅峰\n选"
+            ],
+            "rootHint": "just"
+        },
+        {
+            "word": "adjuster",
+            "phonetic": "ə.ˈdʒʌs.tɚ",
+            "pos": "n.",
+            "definition": "调节器",
+            "frequency": 19658,
+            "collocations": [
+                "a seat belt adjuster: 一个座椅安全带调节器"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "adjusted",
+            "phonetic": "ə.ˈdʒʌs.tɪd",
+            "pos": "adj.",
+            "definition": "调整过的；调节了的",
+            "frequency": 14996,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "readjust",
+            "phonetic": "ˌriː.əˈdʒʌst",
+            "pos": "vi.",
+            "definition": "重新适应[+to] vt. 调整；校准；重置",
+            "frequency": 18615,
+            "collocations": [
+                "readjust to life on earth: 重新适应地球上的生活",
+                "readjust your expectations: 调整你的期望值",
+                "readjust your watch: 校准你的手表"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "adjustable",
+            "phonetic": "ə.ˈdʒʌs.tə.bəl",
+            "pos": "adj.",
+            "definition": "(位置、大小等)可调整的；可调节的",
+            "frequency": 10270,
+            "collocations": [
+                "adjustable shoulder straps: 可调肩带"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "adjustment",
+            "phonetic": "ə.ˈdʒʌst.mənt",
+            "pos": "n.",
+            "definition": "( 对机器、做事方法等的)调整；(对行 为、思想等的)调整",
+            "frequency": 3146,
+            "collocations": [
+                "adjustments to taxation: 调 税",
+                "after adjustment for inflation: 在通货膨胀调整后",
+                "make major adjustments to his thinking: 对他的思维方式作大的调整",
+                "poor adjustment to seasonal change: 很差的调节适应季节变化的能力 写作例句：当不幸的事情发生时，我们应该及时调整心态去适应它。",
+                "When something unfortunate happens,we should adjust our mentality to it timely.",
+                "When something bad takes place,we should adapt ourselves to it in time. When something miserable occurs,we should make some adjustments to it immediately.\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 adapt [ə 'dæpt] vt.&vi. 使适应vt. 改 装vt. [ 一般用被动态]改编2954",
+                "adapt to the change: 适应变化",
+                "adapt the library for use as an office: 将这个图书馆改作一个办公室用",
+                "adapt 的派生词有adapter,adaptive,adaptable ,adaptation,adaptability 等 。 adapter [ə'dæptə] n.转接器，适配器；多头插头14069adaptive [ə'dæptiv] adj. 能适应的8426搭配：develop highly adaptive behavioral rules for survival: 建立有高度适应 性的行为准则adaptable [ə'dæptəb(a)l] adj. 能适应的15336搭配：make the workforce more adaptable and skilled: 使劳动力更具适应力并 且更具技能adaptation [ædəp'terʃ(ə)n] n. 改编；适应5258搭配：his screen adaptation of Shakespeare's Henry the Fifth: 他对莎士比亚的 《亨利五世》的荧幕改编be capable of adaptation: 能适应adaptability [,dæpta'brlətr] n. 适应性18124搭配：the adaptability of wool: 羊毛的适应性词根“opt-=to desire,choose,grab,take”, 含义为想要；选择；夺取； 获得。同样表达选择的词根还有“op-” 等。be adapted for television: 被改编成电视剧",
+                "adapt 的派生词有adapter,adaptive,adaptable ,adaptation,adaptability 等 。 adapter [ə'dæptə] n.转接器，适配器；多头插头14069"
+            ],
+            "examples": [],
+            "rootHint": "just"
+        },
+        {
+            "word": "adaptive",
+            "phonetic": "ə.ˈdæp.tɪv",
+            "pos": "adj.",
+            "definition": "能适应的",
+            "frequency": 8426,
+            "collocations": [
+                "develop highly adaptive behavioral rules for survival: 建立有高度适应 性的行为准则"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "adaptable",
+            "phonetic": "ə.ˈdæp.tə.bəl",
+            "pos": "adj.",
+            "definition": "能适应的",
+            "frequency": 15336,
+            "collocations": [
+                "make the workforce more adaptable and skilled: 使劳动力更具适应力并 且更具技能"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "adaptation",
+            "phonetic": "ˌæd.æp.ˈteɪ.ʃən",
+            "pos": "n.",
+            "definition": "改编；适应",
+            "frequency": 5258,
+            "collocations": [
+                "his screen adaptation of Shakespeare's Henry the Fifth: 他对莎士比亚的 《亨利五世》的荧幕改编",
+                "be capable of adaptation: 能适应"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        },
+        {
+            "word": "adaptability",
+            "phonetic": "ə.ˌdæp.təˈbɪ.lə.ti",
+            "pos": "n.",
+            "definition": "适应性",
+            "frequency": 18124,
+            "collocations": [
+                "the adaptability of wool: 羊毛的适应性"
+            ],
+            "examples": [],
+            "rootHint": "ju"
+        }
+    ]
 }

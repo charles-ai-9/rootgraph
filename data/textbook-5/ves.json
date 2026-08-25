@@ -1,370 +1,370 @@
 {
-  "chapter": "15",
-  "chapterOrder": 115,
-  "id": "ves",
-  "meaningEn": "trace, “vestige”。",
-  "roots": [
-    "ves"
-  ],
-  "semanticLabel": "trace, vestige。",
-  "source": "textbook-5",
-  "titleZh": "trace, vestige。",
-  "words": [
-    {
-      "collocations": [
-        "the last vestiges of the old colonial regime：旧殖民制度最后的残余"
-      ],
-      "definition": "残留部分，遗迹；（通常用于否定句）丝毫，一点儿",
-      "examples": [
-        "There’s not a vestige of truth in the rumor.\n这个谣传毫无真实可言。"
-      ],
-      "frequency": 13535,
-      "mnemonic": "ves-（=trace：踪迹，痕迹）+t（无意义）+-ige（=-age：名词后缀）\n→残留部分；遗迹；丝毫",
-      "phonetic": "ˈvɛstɪdʒ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "vestige"
-    },
-    {
-      "collocations": [
-        "investigate the accident：调查这个事故"
-      ],
-      "definition": "调查；研究",
-      "examples": [],
-      "frequency": 1816,
-      "mnemonic": "in-（加强语气）+ vestig（痕迹）+ -ate（动词后缀）→寻找痕迹（蛛\n丝马迹）→调查；研究",
-      "phonetic": "ɪnˈvɛs.tɪ.ɡeɪt",
-      "pos": "v.",
-      "rootHint": "ves",
-      "word": "investigate"
-    },
-    {
-      "collocations": [
-        "order an investigation into the affair：下令对此事进行调查"
-      ],
-      "definition": "（正式的）调查，侦查；科学研究",
-      "examples": [],
-      "frequency": 1179,
-      "phonetic": "ɪn.vɛs.tɪˈɡeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "investigation"
-    },
-    {
-      "collocations": [
-        "an investigative reporter：一位新闻调查记者",
-        "an excellent piece of investigative journalism；一篇优秀的调查研究报道"
-      ],
-      "definition": "调查研究的；侦查的",
-      "examples": [],
-      "frequency": 6961,
-      "phonetic": "ɪnˈvɛs.tɪ.ɡeɪ.tɪv",
-      "pos": "adj.",
-      "rootHint": "ves",
-      "word": "investigative"
-    },
-    {
-      "collocations": [
-        "air safety investigators：飞行安全调查人员",
-        "a private investigator (=a detective )：私人侦探\nbran-=burn ：火烧；烙印。单词 brand 表示“给……打记号”，引申义为“品\n牌，商标”等。"
-      ],
-      "definition": "调查者；侦查员",
-      "examples": [],
-      "frequency": 2286,
-      "phonetic": "ɪnˈvɛs.tɪ.ɡeɪ.tɚ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "investigator"
-    },
-    {
-      "collocations": [
-        "one of the leading brands：知名品牌中的一种",
-        "bring his own unique brand of humor to the role：把他自己独具一格的\n幽默带进了这个角色",
-        "be instantly branded as a rebel：立刻被归为造反者"
-      ],
-      "definition": "归为（不好的事物）；给……打上烙印 n. 品牌；（思维或行为方式等的）独特类型；烙印",
-      "examples": [],
-      "frequency": 2593,
-      "mnemonic": "bran-（=burn：火烧，烙印，r字母颠倒了位置）+ d（无意义）→品",
-      "phonetic": "bɹænd",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "brand"
-    },
-    {
-      "collocations": [
-        "a brand-new car；一辆崭新的车",
-        "brand-new sun：初生的太阳"
-      ],
-      "definition": "全新的",
-      "examples": [],
-      "frequency": 8220,
-      "mnemonic": "brand（给……打上烙印）+ new（新的）→给……打上新的烙印→全",
-      "phonetic": "ˌbɹænd.ˈnu",
-      "pos": "adj.",
-      "rootHint": "ves",
-      "word": "brand-new"
-    },
-    {
-      "collocations": [
-        "after a couple of brandies：几杯白兰地酒过后"
-      ],
-      "definition": "白兰地酒",
-      "etymology": "至16世纪，由于葡萄酒产量的增加及海运的途耗时间长，使法国葡萄 20000 词汇巅峰 速 记 笔 记 区 酒变质滞销。这时，聪明的荷兰商人利用这些葡萄酒作为原料，加工 成葡萄蒸馏酒，这样的蒸馏酒不仅不会因长途运输而变质，并且由于 浓度高反而使运费大幅度降低，葡萄蒸馏酒销量逐渐大增，也就是现 在的被称之为原白兰地的蒸馏酒。 白 兰 地 ， 美 称 “ 生 命 之 水 ， 葡 萄 酒 的 灵 魂 ” 。 最 初 来 自 荷 兰 文 Brandewijn，意为“烧制过的酒”， 是由branden（烧）和wijn（酒） 合成的词。狭义上讲，是指葡萄发酵后经蒸馏而得到的高度酒精，再 经橡木桶贮存而成的酒。",
-      "examples": [],
-      "frequency": 10630,
-      "mnemonic": "brand（蒸馏；燃烧）+ -y（名词后缀）→蒸馏而成的酒→白兰地酒",
-      "phonetic": "ˈbɹæn.di",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "brandy"
-    },
-    {
-      "collocations": [
-        "present participle stem of brandir “to flourish (a sword)” (12c.).",
-        "brandish a knife：挥舞着一把刀"
-      ],
-      "definition": "挥舞（尤指武器）",
-      "etymology": "“move or raise,” as a weapon, mid-14c., from Old French brandiss-,",
-      "examples": [],
-      "frequency": 14098,
-      "mnemonic": "brand（=to flourish a sword：挥舞武器）+-ish（动词后缀，表示造\n成……）→挥舞（尤指武器）",
-      "phonetic": "ˈbɹæn.dɪʃ",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "brandish"
-    },
-    {
-      "collocations": [
-        "brand-name drugs：品牌药物",
-        "incisions for the purpose of dividing into two or more parts; remove by",
-        "means of a cutting instrument;” of an implement, “have a cutting edge,”",
-        "according to Middle English Compendium from a presumed Old English",
-        "suggest a possible Scandinavian etymology from North Germanic *kut-",
-        "(source also of Swedish dialectal kuta “to cut,” kuta “knife,” Old Norse"
-      ],
-      "definition": "商标",
-      "etymology": "c. 1300, “to make, with an edged tool or instrument, an incision in; make *cyttan, “since ME has the normal regional variants of the vowel.” Others kuti “knife”), or that it is from Old French couteau “knife.” 20000 词汇巅峰 速 记",
-      "examples": [],
-      "frequency": 19868,
-      "mnemonic": "brand（品牌）+name（名字）→带有品牌的名字的标志→商标",
-      "phonetic": "ˈbɹænd.neɪm",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "brand-name"
-    },
-    {
-      "collocations": [
-        "cut the tomatoes in half：把西红柿切成两半",
-        "make a cut in the shell：在壳上切个口",
-        "cut himself shaving：刮胡子时割伤了自己",
-        "sustain a cut on his left eyebrow：在他的左眉留下了一处伤口\n笔 记 区"
-      ],
-      "definition": "伤口；切口；削减；（服装等的）式样；[体育]削球；切入 vt.切割；削减；缩短；刺痛 vi. 切割；相交；切牌；停拍；不出席 adj. 割下的；雕过的；缩减的",
-      "examples": [],
-      "frequency": 415,
-      "phonetic": "kʌt",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "cut"
-    },
-    {
-      "collocations": [
-        "cutbacks in public spending：公共开支的削减",
-        "staff cutbacks：裁员"
-      ],
-      "definition": "削减；减少",
-      "examples": [],
-      "frequency": 10689,
-      "mnemonic": "cut（削减）+ back（向后）→向后减少→削减；减少",
-      "phonetic": "ˈkʌt.bæk",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "cutback"
-    },
-    {
-      "collocations": [
-        "biting sarcasm / wit：尖酸刻薄的讽刺/俏皮话",
-        "a cutting remark：尖酸刻薄的言辞"
-      ],
-      "definition": "简报；插枝 adj. 尖刻的；刻薄的；凛冽的；刺骨的",
-      "examples": [],
-      "frequency": 5542,
-      "phonetic": "ˈkʌ.tɪŋ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "cutting"
-    },
-    {
-      "collocations": [
-        "need a haircut：需要理个发"
-      ],
-      "definition": "理发；发型",
-      "examples": [],
-      "frequency": 8648,
-      "mnemonic": "hair（头发）+cut（剪）→剪头发→理发；发型",
-      "phonetic": "ˈhɛɹ.kʌt",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "haircut"
-    },
-    {
-      "collocations": [
-        "undercut competitors：以低于竞争对手的价格出售",
-        "undercut air fares on some routes by 40 percent：将一些航线的票价降低\n40%出售"
-      ],
-      "definition": "以低于……的价格出售",
-      "examples": [],
-      "frequency": 9319,
-      "mnemonic": "under（低于）+ cut（削减）→削减价格至低于……水平→以低",
-      "phonetic": "ˌʌndɚˈkʌt",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "undercut"
-    },
-    {
-      "collocations": [
-        "a cut-off in overseas aid：停止对外援助",
-        "cut-off jeans：裤腿剪短的牛仔裤"
-      ],
-      "definition": "截止点；界限；剪短的裤子 adj. 裤腿剪短的",
-      "examples": [],
-      "frequency": 9694,
-      "mnemonic": "cut（剪）+ off（=away from）→减下来→截止点；界限；剪短的",
-      "phonetic": "ˈkʌt.ɔf",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "cut-off"
-    },
-    {
-      "collocations": [
-        "pizza cutter：披萨切刀",
-        "a glass cutter：一名玻璃切割工"
-      ],
-      "definition": "切割工具；切割工",
-      "examples": [],
-      "frequency": 9588,
-      "phonetic": "ˈkʌ.tɚ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "cutter"
-    },
-    {
-      "collocations": [
-        "take a shortcut：走近路 a shortcut to love and money：得到爱情和金钱",
-        "create shortcuts in Windows：在视窗操作系统中创建快捷方式"
-      ],
-      "definition": "近路；捷径；快捷方式",
-      "examples": [],
-      "frequency": 11352,
-      "mnemonic": "short（短的；近的）+ cut（抄近路）→近路；捷径；快捷方式",
-      "phonetic": "ˈʃɔɹt.kʌt",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "shortcut"
-    },
-    {
-      "collocations": [
-        "cutting-edge technology：尖端技术"
-      ],
-      "definition": "前沿 adj. 尖端的",
-      "examples": [],
-      "frequency": 12740,
-      "mnemonic": "cutting（切）+ edge（边缘）→刀锋的边缘→引申义为前沿；尖端的",
-      "phonetic": "ˌkʌ.tɪŋˈɛdʒ",
-      "pos": "n",
-      "rootHint": "ves",
-      "word": "cutting-edge"
-    },
-    {
-      "collocations": [],
-      "definition": "交切（镜头）",
-      "examples": [
-        "Scenes of city life were intercut with interviews with local people.\n城市生活的镜头与访问当地人的画面相互交切。"
-      ],
-      "frequency": 19738,
-      "mnemonic": "inter-（在内；相互）+ cut（剪；切）→用于拍摄术语使镜头内切",
-      "phonetic": "ˌɪn.tɚˈkʌt",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "intercut"
-    },
-    {
-      "collocations": [
-        "face cutthroat competition：面对残酷的竞争",
-        "the cut-throat world of international finance：竞争激烈的国际金融界\n20000 词汇巅峰\n速\n记\n单词 clip=cut, 表示“剪切；修剪”。\n笔 记 区"
-      ],
-      "definition": "竞争激烈的；残酷无情的",
-      "examples": [],
-      "frequency": 19639,
-      "mnemonic": "cut（切割）+ throat（喉咙）→切喉咙的→形容竞争激烈的；残酷无",
-      "phonetic": "ˈkʌt.θɹoʊt",
-      "pos": "adj.",
-      "rootHint": "ves",
-      "word": "cutthroat"
-    },
-    {
-      "collocations": [
-        "a hair clip：发夹 give the hedge a clip：把树篱修剪了一下",
-        "clip sth （off / from sth）：剪（掉）；修剪",
-        "clip sb.’s wings：限制某人的自由（或权力）",
-        "at a fast, good, steady, etc. clip：迅速；很快地",
-        "skyrocketing housing costs.\n即便在毕业后，年轻人发现自己的自由受到了飞速上涨房价的限制。"
-      ],
-      "definition": "修剪；（从报纸、杂志上）剪下 vt&vi. 夹牢 n. （电影、广播、电视节目的）片断；夹子，回形针",
-      "examples": [
-        "Even after graduation, young people find their wings clipped by"
-      ],
-      "frequency": 4248,
-      "mnemonic": "clip（=cut：修剪；剪切）→修剪，剪下；电影剪切（片段）；夹牢",
-      "phonetic": "klɪp",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "clip"
-    },
-    {
-      "collocations": [
-        "hedge / nail clippings：剪下的树篱 / 指甲"
-      ],
-      "definition": "剪报；剪切物",
-      "examples": [],
-      "frequency": 10276,
-      "phonetic": "ˈklɪpɪŋ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "clipping"
-    },
-    {
-      "collocations": [],
-      "definition": "带夹写字板；剪贴板",
-      "examples": [],
-      "frequency": 13925,
-      "mnemonic": "clip（夹）+ board（板）→带夹写字板\nclip（剪切；剪下）+ board（板）→剪贴板",
-      "phonetic": "ˈklɪpˌbɔɹd",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "clipboard"
-    },
-    {
-      "collocations": [],
-      "definition": "（剪指甲、头发的）小剪子",
-      "examples": [],
-      "frequency": 19689,
-      "phonetic": "ˈklɪpɚ",
-      "pos": "n.",
-      "rootHint": "ves",
-      "word": "clipper"
-    },
-    {
-      "collocations": [],
-      "definition": "遮住……的光；使相形见绌；使丧失重要性 n. 日食；月食；（重要性、权势等的）丧失，黯然失色，暗淡",
-      "examples": [],
-      "frequency": 7762,
-      "mnemonic": "邪记：e-（=out：外）+ clip（剪下）+ se→从外面把某物剪下一块→把太\n阳、月亮剪下一块，使其变暗→遮住……的光；使相形见绌；日食；",
-      "phonetic": "ɪˈklɪps",
-      "pos": "vt.",
-      "rootHint": "ves",
-      "word": "eclipse"
-    }
-  ]
+    "chapter": "15",
+    "chapterOrder": 115,
+    "id": "ves",
+    "meaningEn": "trace, “vestige”。",
+    "roots": [
+        "ves"
+    ],
+    "semanticLabel": "trace, vestige。",
+    "source": "textbook-5",
+    "titleZh": "trace, vestige。",
+    "words": [
+        {
+            "collocations": [
+                "the last vestiges of the old colonial regime：旧殖民制度最后的残余"
+            ],
+            "definition": "残留部分，遗迹；（通常用于否定句）丝毫，一点儿",
+            "examples": [
+                "There’s not a vestige of truth in the rumor.\n这个谣传毫无真实可言。"
+            ],
+            "frequency": 13535,
+            "mnemonic": "ves-（=trace：踪迹，痕迹）+t（无意义）+-ige（=-age：名词后缀）\n→残留部分；遗迹；丝毫",
+            "phonetic": "ˈvɛstɪdʒ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "vestige"
+        },
+        {
+            "collocations": [
+                "investigate the accident：调查这个事故"
+            ],
+            "definition": "调查；研究",
+            "examples": [],
+            "frequency": 1816,
+            "mnemonic": "in-（加强语气）+ vestig（痕迹）+ -ate（动词后缀）→寻找痕迹（蛛\n丝马迹）→调查；研究",
+            "phonetic": "ɪnˈvɛs.tɪ.ɡeɪt",
+            "pos": "v.",
+            "rootHint": "ves",
+            "word": "investigate"
+        },
+        {
+            "collocations": [
+                "order an investigation into the affair：下令对此事进行调查"
+            ],
+            "definition": "（正式的）调查，侦查；科学研究",
+            "examples": [],
+            "frequency": 1179,
+            "phonetic": "ɪn.vɛs.tɪˈɡeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "investigation"
+        },
+        {
+            "collocations": [
+                "an investigative reporter：一位新闻调查记者",
+                "an excellent piece of investigative journalism；一篇优秀的调查研究报道"
+            ],
+            "definition": "调查研究的；侦查的",
+            "examples": [],
+            "frequency": 6961,
+            "phonetic": "ɪnˈvɛs.tɪ.ɡeɪ.tɪv",
+            "pos": "adj.",
+            "rootHint": "ves",
+            "word": "investigative"
+        },
+        {
+            "collocations": [
+                "air safety investigators：飞行安全调查人员",
+                "a private investigator (=a detective )：私人侦探\nbran-=burn ：火烧；烙印。单词 brand 表示“给……打记号”，引申义为“品\n牌，商标”等。"
+            ],
+            "definition": "调查者；侦查员",
+            "examples": [],
+            "frequency": 2286,
+            "phonetic": "ɪnˈvɛs.tɪ.ɡeɪ.tɚ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "investigator"
+        },
+        {
+            "collocations": [
+                "one of the leading brands：知名品牌中的一种",
+                "bring his own unique brand of humor to the role：把他自己独具一格的\n幽默带进了这个角色",
+                "be instantly branded as a rebel：立刻被归为造反者"
+            ],
+            "definition": "归为（不好的事物）；给……打上烙印 n. 品牌；（思维或行为方式等的）独特类型；烙印",
+            "examples": [],
+            "frequency": 2593,
+            "mnemonic": "bran-（=burn：火烧，烙印，r字母颠倒了位置）+ d（无意义）→品",
+            "phonetic": "brænd",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "brand"
+        },
+        {
+            "collocations": [
+                "a brand-new car；一辆崭新的车",
+                "brand-new sun：初生的太阳"
+            ],
+            "definition": "全新的",
+            "examples": [],
+            "frequency": 8220,
+            "mnemonic": "brand（给……打上烙印）+ new（新的）→给……打上新的烙印→全",
+            "phonetic": "ˌbrænd.ˈnu",
+            "pos": "adj.",
+            "rootHint": "ves",
+            "word": "brand-new"
+        },
+        {
+            "collocations": [
+                "after a couple of brandies：几杯白兰地酒过后"
+            ],
+            "definition": "白兰地酒",
+            "etymology": "至16世纪，由于葡萄酒产量的增加及海运的途耗时间长，使法国葡萄 20000 词汇巅峰 速 记 笔 记 区 酒变质滞销。这时，聪明的荷兰商人利用这些葡萄酒作为原料，加工 成葡萄蒸馏酒，这样的蒸馏酒不仅不会因长途运输而变质，并且由于 浓度高反而使运费大幅度降低，葡萄蒸馏酒销量逐渐大增，也就是现 在的被称之为原白兰地的蒸馏酒。 白 兰 地 ， 美 称 “ 生 命 之 水 ， 葡 萄 酒 的 灵 魂 ” 。 最 初 来 自 荷 兰 文 Brandewijn，意为“烧制过的酒”， 是由branden（烧）和wijn（酒） 合成的词。狭义上讲，是指葡萄发酵后经蒸馏而得到的高度酒精，再 经橡木桶贮存而成的酒。",
+            "examples": [],
+            "frequency": 10630,
+            "mnemonic": "brand（蒸馏；燃烧）+ -y（名词后缀）→蒸馏而成的酒→白兰地酒",
+            "phonetic": "ˈbræn.di",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "brandy"
+        },
+        {
+            "collocations": [
+                "present participle stem of brandir “to flourish (a sword)” (12c.).",
+                "brandish a knife：挥舞着一把刀"
+            ],
+            "definition": "挥舞（尤指武器）",
+            "etymology": "“move or raise,” as a weapon, mid-14c., from Old French brandiss-,",
+            "examples": [],
+            "frequency": 14098,
+            "mnemonic": "brand（=to flourish a sword：挥舞武器）+-ish（动词后缀，表示造\n成……）→挥舞（尤指武器）",
+            "phonetic": "ˈbræn.dɪʃ",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "brandish"
+        },
+        {
+            "collocations": [
+                "brand-name drugs：品牌药物",
+                "incisions for the purpose of dividing into two or more parts; remove by",
+                "means of a cutting instrument;” of an implement, “have a cutting edge,”",
+                "according to Middle English Compendium from a presumed Old English",
+                "suggest a possible Scandinavian etymology from North Germanic *kut-",
+                "(source also of Swedish dialectal kuta “to cut,” kuta “knife,” Old Norse"
+            ],
+            "definition": "商标",
+            "etymology": "c. 1300, “to make, with an edged tool or instrument, an incision in; make *cyttan, “since ME has the normal regional variants of the vowel.” Others kuti “knife”), or that it is from Old French couteau “knife.” 20000 词汇巅峰 速 记",
+            "examples": [],
+            "frequency": 19868,
+            "mnemonic": "brand（品牌）+name（名字）→带有品牌的名字的标志→商标",
+            "phonetic": "ˈbrænd.neɪm",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "brand-name"
+        },
+        {
+            "collocations": [
+                "cut the tomatoes in half：把西红柿切成两半",
+                "make a cut in the shell：在壳上切个口",
+                "cut himself shaving：刮胡子时割伤了自己",
+                "sustain a cut on his left eyebrow：在他的左眉留下了一处伤口\n笔 记 区"
+            ],
+            "definition": "伤口；切口；削减；（服装等的）式样；[体育]削球；切入 vt.切割；削减；缩短；刺痛 vi. 切割；相交；切牌；停拍；不出席 adj. 割下的；雕过的；缩减的",
+            "examples": [],
+            "frequency": 415,
+            "phonetic": "kʌt",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "cut"
+        },
+        {
+            "collocations": [
+                "cutbacks in public spending：公共开支的削减",
+                "staff cutbacks：裁员"
+            ],
+            "definition": "削减；减少",
+            "examples": [],
+            "frequency": 10689,
+            "mnemonic": "cut（削减）+ back（向后）→向后减少→削减；减少",
+            "phonetic": "ˈkʌt.bæk",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "cutback"
+        },
+        {
+            "collocations": [
+                "biting sarcasm / wit：尖酸刻薄的讽刺/俏皮话",
+                "a cutting remark：尖酸刻薄的言辞"
+            ],
+            "definition": "简报；插枝 adj. 尖刻的；刻薄的；凛冽的；刺骨的",
+            "examples": [],
+            "frequency": 5542,
+            "phonetic": "ˈkʌ.tɪŋ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "cutting"
+        },
+        {
+            "collocations": [
+                "need a haircut：需要理个发"
+            ],
+            "definition": "理发；发型",
+            "examples": [],
+            "frequency": 8648,
+            "mnemonic": "hair（头发）+cut（剪）→剪头发→理发；发型",
+            "phonetic": "ˈhɛr.kʌt",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "haircut"
+        },
+        {
+            "collocations": [
+                "undercut competitors：以低于竞争对手的价格出售",
+                "undercut air fares on some routes by 40 percent：将一些航线的票价降低\n40%出售"
+            ],
+            "definition": "以低于……的价格出售",
+            "examples": [],
+            "frequency": 9319,
+            "mnemonic": "under（低于）+ cut（削减）→削减价格至低于……水平→以低",
+            "phonetic": "ˌʌndɚˈkʌt",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "undercut"
+        },
+        {
+            "collocations": [
+                "a cut-off in overseas aid：停止对外援助",
+                "cut-off jeans：裤腿剪短的牛仔裤"
+            ],
+            "definition": "截止点；界限；剪短的裤子 adj. 裤腿剪短的",
+            "examples": [],
+            "frequency": 9694,
+            "mnemonic": "cut（剪）+ off（=away from）→减下来→截止点；界限；剪短的",
+            "phonetic": "ˈkʌt.ɔf",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "cut-off"
+        },
+        {
+            "collocations": [
+                "pizza cutter：披萨切刀",
+                "a glass cutter：一名玻璃切割工"
+            ],
+            "definition": "切割工具；切割工",
+            "examples": [],
+            "frequency": 9588,
+            "phonetic": "ˈkʌ.tɚ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "cutter"
+        },
+        {
+            "collocations": [
+                "take a shortcut：走近路 a shortcut to love and money：得到爱情和金钱",
+                "create shortcuts in Windows：在视窗操作系统中创建快捷方式"
+            ],
+            "definition": "近路；捷径；快捷方式",
+            "examples": [],
+            "frequency": 11352,
+            "mnemonic": "short（短的；近的）+ cut（抄近路）→近路；捷径；快捷方式",
+            "phonetic": "ˈʃɔrt.kʌt",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "shortcut"
+        },
+        {
+            "collocations": [
+                "cutting-edge technology：尖端技术"
+            ],
+            "definition": "前沿 adj. 尖端的",
+            "examples": [],
+            "frequency": 12740,
+            "mnemonic": "cutting（切）+ edge（边缘）→刀锋的边缘→引申义为前沿；尖端的",
+            "phonetic": "ˌkʌ.tɪŋˈɛdʒ",
+            "pos": "n",
+            "rootHint": "ves",
+            "word": "cutting-edge"
+        },
+        {
+            "collocations": [],
+            "definition": "交切（镜头）",
+            "examples": [
+                "Scenes of city life were intercut with interviews with local people.\n城市生活的镜头与访问当地人的画面相互交切。"
+            ],
+            "frequency": 19738,
+            "mnemonic": "inter-（在内；相互）+ cut（剪；切）→用于拍摄术语使镜头内切",
+            "phonetic": "ˌɪn.tɚˈkʌt",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "intercut"
+        },
+        {
+            "collocations": [
+                "face cutthroat competition：面对残酷的竞争",
+                "the cut-throat world of international finance：竞争激烈的国际金融界\n20000 词汇巅峰\n速\n记\n单词 clip=cut, 表示“剪切；修剪”。\n笔 记 区"
+            ],
+            "definition": "竞争激烈的；残酷无情的",
+            "examples": [],
+            "frequency": 19639,
+            "mnemonic": "cut（切割）+ throat（喉咙）→切喉咙的→形容竞争激烈的；残酷无",
+            "phonetic": "ˈkʌt.θroʊt",
+            "pos": "adj.",
+            "rootHint": "ves",
+            "word": "cutthroat"
+        },
+        {
+            "collocations": [
+                "a hair clip：发夹 give the hedge a clip：把树篱修剪了一下",
+                "clip sth （off / from sth）：剪（掉）；修剪",
+                "clip sb.’s wings：限制某人的自由（或权力）",
+                "at a fast, good, steady, etc. clip：迅速；很快地",
+                "skyrocketing housing costs.\n即便在毕业后，年轻人发现自己的自由受到了飞速上涨房价的限制。"
+            ],
+            "definition": "修剪；（从报纸、杂志上）剪下 vt&vi. 夹牢 n. （电影、广播、电视节目的）片断；夹子，回形针",
+            "examples": [
+                "Even after graduation, young people find their wings clipped by"
+            ],
+            "frequency": 4248,
+            "mnemonic": "clip（=cut：修剪；剪切）→修剪，剪下；电影剪切（片段）；夹牢",
+            "phonetic": "klɪp",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "clip"
+        },
+        {
+            "collocations": [
+                "hedge / nail clippings：剪下的树篱 / 指甲"
+            ],
+            "definition": "剪报；剪切物",
+            "examples": [],
+            "frequency": 10276,
+            "phonetic": "ˈklɪpɪŋ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "clipping"
+        },
+        {
+            "collocations": [],
+            "definition": "带夹写字板；剪贴板",
+            "examples": [],
+            "frequency": 13925,
+            "mnemonic": "clip（夹）+ board（板）→带夹写字板\nclip（剪切；剪下）+ board（板）→剪贴板",
+            "phonetic": "ˈklɪpˌbɔrd",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "clipboard"
+        },
+        {
+            "collocations": [],
+            "definition": "（剪指甲、头发的）小剪子",
+            "examples": [],
+            "frequency": 19689,
+            "phonetic": "ˈklɪpɚ",
+            "pos": "n.",
+            "rootHint": "ves",
+            "word": "clipper"
+        },
+        {
+            "collocations": [],
+            "definition": "遮住……的光；使相形见绌；使丧失重要性 n. 日食；月食；（重要性、权势等的）丧失，黯然失色，暗淡",
+            "examples": [],
+            "frequency": 7762,
+            "mnemonic": "邪记：e-（=out：外）+ clip（剪下）+ se→从外面把某物剪下一块→把太\n阳、月亮剪下一块，使其变暗→遮住……的光；使相形见绌；日食；",
+            "phonetic": "ɪˈklɪps",
+            "pos": "vt.",
+            "rootHint": "ves",
+            "word": "eclipse"
+        }
+    ]
 }

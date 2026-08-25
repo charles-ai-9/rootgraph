@@ -1,487 +1,487 @@
 {
-  "id": "maj",
-  "source": "textbook-3",
-  "chapter": "1",
-  "chapterOrder": 101,
-  "titleZh": "大的,伟",
-  "semanticLabel": "大的,伟",
-  "meaningEn": null,
-  "meaningZh": "大的,伟",
-  "roots": [
-    "maj",
-    "max",
-    "mag",
-    "magn"
-  ],
-  "words": [
-    {
-      "word": "major",
-      "phonetic": "ˈmeɪ.dʒɚ",
-      "pos": "adj.",
-      "definition": "主要的；重大的；(音乐)大调的 n. 少校；专 业； ……专业的学生；(尤指棒球中的)职业总会；(尤指高尔夫球 或网球中的)大赛vi.以……为专业",
-      "frequency": 445,
-      "mnemonic": "maj-(=large,great: 大的)+-or ( 形容词词缀) →主要的；重大的",
-      "collocations": [
-        "a major problem: 一个大难题",
-        "majore in finance: 主修金融",
-        "four majors: 高尔夫四大满贯赛\n….Major Alan Bulman: 艾伦 ·布尔曼少校",
-        "oil majors: 大型石油公司\n…Mozart's Symphony No 35 in DMajor: 莫扎特D大调第35号交响曲"
-      ],
-      "etymology": "c.1300,majour,“greater,more important or effective,leading,principal”. From 1590s as“greater in quantity,number,or extent.”Used in music(of modes,scales,or chords)since 1690s,on notion of an interval a half-tone \"greater”than the minor;of modern modes,\"characterized by the use of major tonality throughout,\"by 1811.Major league,in baseball,is attested by 1892.",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "major-league",
-      "phonetic": "ˌmeɪ.dʒɚ.ˈliɡ",
-      "pos": "adj.",
-      "definition": "( 尤指棒球)职业体育总会的；大联盟的； 非常重要的 n. 复数(尤指美国)职业棒球联合会；职业棒球大联盟",
-      "frequency": 13889,
-      "mnemonic": "major ( 主要的)+league ( 联盟) →主要的联盟 →职业体育(尤指棒 球)联盟；非常重要的",
-      "collocations": [
-        "a major-league business: 举足轻重的企业",
-        "a major-league team: 职业体育总会球队\n0000词汇巅峰速记班uaDpe 一\n0000词汇巅峰速记班",
-        "major-league stars: 一线的(大牌)明星",
-        "move into the major league/make it into the major league: 跻身成功人 士行列"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "majority",
-      "phonetic": "məˈdʒɔɹ.ə.ti",
-      "pos": "n.",
-      "definition": "大多数；多数票；法定成年年龄(英国和美国大多 数州规定为18周岁)adj. ( 观点、决定、体制等)多数人支持的，多数 人拥护的",
-      "frequency": 1089,
-      "mnemonic": "major(主要的)+-ity ( 名词后缀)→ 占多数的人，多数的票，多数 人支持的→引申词义大多数",
-      "collocations": [
-        "in a majority/in the majority: 占多数",
-        "overwhelming majority: 压倒性多数",
-        "vast majority: 绝大多数"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "May",
-      "phonetic": "meɪ",
-      "pos": "n.",
-      "definition": "( 大写)五月model( 将来)可能；可以(加以利用);与过 去分词连用，表示某事可能已经发生、属实或提供解释；用于承认情 况属实，但同时将之与更重要的东西作比较；(法规)允许/不允许； 可以(表示许可、礼貌的请求);可能会(用于别人对自己所说的话 可能会有的反应或态度);以便能",
-      "frequency": 119,
-      "collocations": [
-        "may be: 也许，可能"
-      ],
-      "etymology": "From Old English mæg“am able”,from Proto-Germanic root *mag-, infinitive *maganan(Old Frisian mei/muga/machte “have power,may”; from Proto-Germanic root *mag-,infinitive *maganan(Old Frisianmei/ muga/machte “have power,may”.",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "majesty",
-      "phonetic": "ˈmæ.dʒə.sti",
-      "pos": "n.",
-      "definition": "陛下(对国王或王后的尊称);雄伟壮观；庄严；威 严",
-      "frequency": 14748,
-      "mnemonic": "来自中古英语mageste, 来自古法语majeste, 来自拉丁语maiestas, 卓",
-      "collocations": [
-        ".….the majesty of the mainland mountains: 大陆山脉的壮观 His/Her/Your Majesty: 对国王或女王的尊称)陛下",
-        "the majesty of the music: 音乐的庄严气氛"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "majestic",
-      "phonetic": "məˈdʒɛs.tɪk",
-      "pos": "adj.",
-      "definition": "宏伟的；庄严的",
-      "frequency": 10803,
-      "mnemonic": "majesty(=majesty, 雄伟，壮观)+-ic ( 形容词后缀) →雄伟的；壮观 的；庄严的",
-      "collocations": [
-        "...amajestic country home: 一座漂亮的乡村住所",
-        "rise majestically to her feet: 端庄地站了起来"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mayor",
-      "phonetic": "ˈmeɪ.ɚ",
-      "pos": "n.",
-      "definition": "( 英格兰、威尔士和北爱尔兰由议员选举产生的)镇长， 市长，郡长；(民选的)市长，镇长",
-      "frequency": 2508,
-      "mnemonic": "may(=meg-: great, powerful , important)+-or ( 名词后缀，表示\n人)→市镇的首脑，最重要的人物→市长；镇长 搭配：.. the new mayor of New York: …… 新任纽约市长",
-      "collocations": [
-        "Lord Mayor: 市长大人(伦敦市和其他一些英国大城市市长的称号)"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mayoral",
-      "phonetic": "ˈmeɪ.ɚ.əl",
-      "pos": "adj.",
-      "definition": "市长的",
-      "frequency": 14932,
-      "mnemonic": "mayor( 市 长 )+-al ( 形容词后缀) → 市长的",
-      "collocations": [
-        "mayoral robes/duties: 市长的礼服/职责",
-        "Taipei mayoral election: 台北市长选举",
-        "mayoral candidate: 市长候选人"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "much",
-      "phonetic": "mʌtʃ",
-      "pos": "adv.",
-      "definition": "非常；经常；很大程度上；大量",
-      "frequency": 146,
-      "mnemonic": "much too delicate: 太娇嫩了",
-      "collocations": [
-        "as much: 一样，同等",
-        "as much as sb can do: 表示难以做到",
-        "not much in it: 没什么区别，差别不大",
-        "not much of a...:不是很好，不怎么样",
-        "nothing much: 没什么,不重要"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "much-needed",
-      "phonetic": "ˌmʌtʃˈnidɪd",
-      "pos": "adj.",
-      "definition": "急需的；大量需要",
-      "frequency": 13959,
-      "mnemonic": "much ( 大量)+needed ( 需要的) → 大量需要的",
-      "collocations": [
-        "much-needed rain: 及时雨",
-        "much-needed storage capacity: 急需的存储容量"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "maxim",
-      "phonetic": "ˈmæk.sɪm",
-      "pos": "n.",
-      "definition": "格言；座右铭；准则",
-      "frequency": 16343,
-      "mnemonic": "maxim→greatest among propositions”(one which is general and absolute)",
-      "collocations": [
-        "proposition ostensibly expressing some general truth\"is from 1590s.",
-        "→所有主张中最为重要的，普遍适用及绝对的主张→格言；准则 搭配：(N-COUNT) 信条；格言；箴言",
-        "A maxim is a well-known phrase that expresses sth that is usually true or that people think is a rule for sensible behaviour"
-      ],
-      "etymology": "early 15c.,maxime,“an axiom,statement of a self-evident truth”.From fem.of maximus\"greatest”.The modern meaning \"summary statement of an established or accepted proposition serving as a rule or guide,a",
-      "examples": [],
-      "rootHint": "max"
-    },
-    {
-      "word": "maximum",
-      "phonetic": "ˈmæk.sə.məm",
-      "pos": "adj.",
-      "definition": "最高的；最多的；最大极限的 n. 最大值 adv. 最多",
-      "frequency": 3638,
-      "mnemonic": "max-(=large: 大 ) +im(=most: 最，词源同ultimate, intimate) +um ( 中性格) →最大化；最大量；最高限度\n邪解：cli-(=to lean: 倾斜)+-max ( 最高，最大)→达成一个目标需要的一 些列步骤，逐层递进的步骤，直到最高点→逐步上升以至达到最高点",
-      "collocations": [
-        "the maximum speed/temperature/volume/efficiency/effect: 最快速度； 最高气温；最大音量；最高效率；最佳效果",
-        "a maximum security prison: 最高戒备等级的监狱 同源：climax ['klaimæks] n. 高潮；顶点"
-      ],
-      "etymology": "英语单词climax 来自希腊语klimax ( 阶梯),来自动词klinein ( 倾 斜),与单词climate( 气候)同源。klimax原本指的是“逐层递进” 这种修辞手法。进入英语后，词义从“达成目标的连续步骤”演变至 “逐步上升的步骤”,再到“程度或成就的最高顶点”。",
-      "examples": [],
-      "rootHint": "max"
-    },
-    {
-      "word": "maximal",
-      "phonetic": "ˈmæk.sə.məl",
-      "pos": "adj.",
-      "definition": "最多的；最大的；最大限度的",
-      "frequency": 17858,
-      "mnemonic": "maxim(=maximum: 最多的，最大的，最大限度的)+-al ( 形容词后 缀 ) →maximal",
-      "collocations": [
-        "a maximal increase in employment: 最大限度增加就业 the maximal zoo: 最大的动物园"
-      ],
-      "examples": [],
-      "rootHint": "max"
-    },
-    {
-      "word": "maximize",
-      "phonetic": "ˈmæk.sə.maɪz",
-      "pos": "vt.",
-      "definition": "使增加至最大限度；充分利用(或重视);使 (计算机屏幕上的窗口)最大化",
-      "frequency": 6014,
-      "mnemonic": "maxim(=maximum)+-ize (动词后缀，使……) →使……增加至最 大限度；充分利用(或重视)",
-      "collocations": [
-        "to maximize efficiency/fitness/profits: 最大限度地提高效率/增强体质/ 增加利润",
-        "to maximize opportunities/resources: 充分利用机会/资源",
-        "maximize the space: 充分利用空间"
-      ],
-      "examples": [],
-      "rootHint": "max"
-    },
-    {
-      "word": "master",
-      "phonetic": "ˈmæs.tɚ",
-      "pos": "n.",
-      "definition": "主人；专家；控制者；男教师；(已故)著名画家； (电影、录音等)原始拷贝的；船长；长老(信徒对宗教法师或领袖 的称呼);(旧时的)少爷，小主人；君(现在用于信件中对男孩的 称 谓 ) adj. 精通的vt.掌握；精通；掌控",
-      "frequency": 1897,
-      "mnemonic": "演变：meg-:great→magis(Latin):more→magister(Latin):chief,head,director,\nteacher→mægester(Old English):a man having control or authority;a teacher or tutor→master:a man having control or authority,chief,head;",
-      "collocations": [
-        "man eminently or perfectly skilled in something 搭配：be your own master/mistress: 独立自主\n…a master craftsman:…… 一名手艺高超的工匠\nmaster of: 精通……的能手",
-        "master plan: 蓝图"
-      ],
-      "etymology": "noun.Meaning“acquire complete knowledge of,overcome the difficulties of,learn so as to be able to apply or use”is from 1740s. verb.c.1200,maistren,\"to get the better of,prevail against;reduce to subjugation,”",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mastery",
-      "phonetic": "ˈmæs.tɚ.i",
-      "pos": "n.",
-      "definition": "精通；掌握；统治；控制",
-      "frequency": 7733,
-      "mnemonic": "趣课多 20000词汇巅峰 助记：master ( 精通，掌握)+-y ( 名词后缀) →精通；掌握；控制；统治笔记区\nmaster ( 精通，掌握)+-y ( 名词后缀) →精通；掌握；控制；统治",
-      "collocations": [
-        "possesses complete mastery of: 非常熟练地掌握 ……",
-        "gain mastery over..: 征服……\nmastery of/over sb/sth: 控制，驾驭"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "headmaster",
-      "phonetic": "ˈhɛd.ˌmæ.stɚ",
-      "pos": "n.",
-      "definition": "( 尤指私立学校的)校长",
-      "frequency": 17526,
-      "mnemonic": "head (负责人，主要的)+master ( 教师) →教师的负责人，学校主\n要的管理者→校长 有关head的固定搭配：\nhead for: 朝着……行进，向……发展\na head for.….: 有……的才能\nget...into head: 充分理解并接受",
-      "collocations": [
-        "go to sb's head: (酒)使人感到醉；(成功等)冲昏……的头脑 head over heels/head over heels in love: 深陷情网",
-        "keep sb's head: 镇定自若",
-        "lose sb's head: 张皇失措",
-        "laugh sb's head off/scream sb's head off: 大笑",
-        "over someone's head: 超过……的理解力",
-        "over another person's head/over the heads of: 越过上级官员",
-        "rear its ugly head or raise its ugly head: ( 不好的事情)再次出现 stand on sb's head: 倒立",
-        "make heads or tails of..: 理解……",
-        "take it into their head to do something: 突然决定(做某事，尤指做古 怪或愚蠢的事)",
-        "come to a head/be brought to a head: 到了紧要关头",
-        "put the heads together: 集思广益",
-        "keep sb's head above water: (尤指生意上)避免陷入困境",
-        "heads will roll: 要有许多人掉脑袋(尤指失去工作)"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "masterful",
-      "phonetic": "ˈmæs.tɚ.fəl",
-      "pos": "adj.",
-      "definition": "善于掌控局势的；指挥若定的；技艺精湛 的；熟练的",
-      "frequency": 15626,
-      "mnemonic": "master (能手；名家)+-ful ( 形容词后缀)→有驾驭力的；技艺精湛的",
-      "collocations": [
-        "masterful managers: 有驾驭力的管理者",
-        "a masterful analysis of the text: 对课文精辟的分析"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mastermind",
-      "phonetic": "ˈmæs.tɚ.maɪnd",
-      "pos": "vt.",
-      "definition": "谋划；策划(艰难或复杂的行动) n. ( 常 指罪案)主谋；出谋划策的人；幕后操纵者",
-      "frequency": 16635,
-      "mnemonic": "master ( 大师，专家)+mind ( 思想) →杰出的思想家，犯罪集团的 头目，进行最高水平的策划或实施重大行动→谋划；策划(复杂或艰 难的行动);主谋；幕后操纵者",
-      "collocations": [
-        "mastermind Poland's economic reform: 策划波兰的经济改革 mastermind the attacks: 策划了攻击",
-        "the mastermind behind the plan: 计划的幕后操纵者"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "masterpiece",
-      "phonetic": "ˈmæs.tɚ.pis",
-      "pos": "n.",
-      "definition": "杰作；名著;(画家、作家或作曲家的)代表 作；典范",
-      "frequency": 7824,
-      "mnemonic": "master ( 大 师 ) +piece ( 作品，艺术品) →某位大使所制作的(杰 出)作品，达到了卓越的程度→work by which a craftsman attains the rank of master,a work or performance of a master,a piece of work of\nsurpassing excellence→杰作；名著;代表作；典范 搭配：a masterpiece of simplicity: 朴实的典范",
-      "collocations": [
-        "the horror masterpiece 'Frankenstein':《 科学怪人》这部恐怖小说名作"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mister",
-      "phonetic": "ˈmɪstɚ",
-      "pos": "n.",
-      "definition": "( 儿童常用，称呼不知姓名的男子)先生",
-      "frequency": 17731,
-      "collocations": [],
-      "etymology": "As a conventional title of courtesy before a man's Christian name,mid- 15c.,unaccented variant of master(n.),but without its meaning.As a form of address when the man's name is unknown(often with a tinge of rudeness),from 1760.",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mistress",
-      "phonetic": "ˈmɪstɹəs",
-      "pos": "n.",
-      "definition": "情妇；女教师；主妇；(狗或其他动物的)女主人； 绝对控制……的女人；主宰……的女人",
-      "frequency": 7317,
-      "mnemonic": "mister(主人，先生)+-ess ( 表阴性后缀)→即女主人；主妇",
-      "collocations": [
-        "the biology mistress: 生物学女教师",
-        "the mistress of the house: 这房子的女主人",
-        "to be mistress of her own affairs: 自己的事情自己做主\n趣课多 20000词汇巅峰返"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "maestro",
-      "phonetic": "ˈmaɪ.stɹoʊ",
-      "pos": "n.",
-      "definition": "大师(尤指音乐大师);指挥名家",
-      "frequency": 17861,
-      "collocations": [
-        "...the urbane maestro's delightful first show: …… ·这位温文尔雅的音乐 大师带来的令人愉悦的处子秀",
-        "Maestro Giulini: 音乐大师朱利尼"
-      ],
-      "etymology": "“master of music,great teacher or composer,”1797,from Italian maestro, literally“master”",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "mega",
-      "phonetic": "ˈmɛ.ɡə",
-      "pos": "adj.",
-      "definition": "巨大的；宏大的；优秀的；十分；极度n. 百万",
-      "frequency": 18568,
-      "collocations": [
-        "mega salary: 巨额薪水",
-        "..the mega superstar Madonna: 超级巨星麦当娜",
-        "a mega film: 一部优秀的电影"
-      ],
-      "etymology": "before vowels meg-,word-forming element often meaning“Iarge,great,” but in physics a precise measurement to denote the unit taken a million times (megaton,megawatt,etc.),from Greek megas“great,large,vast,big, high,tall;mighty,important”(fem.megale),from PIE root *meg-“great.” Mega began to be used alone as an adjective by 1982.",
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "megawatt",
-      "phonetic": "ˈmɛ.ɡə.wɑt",
-      "pos": "n.",
-      "definition": "兆瓦；百万瓦特(电能计量单位)16102",
-      "mnemonic": "mega- ( 百万，兆)+watt ( 瓦 ) →megawatt ( 兆瓦；百万瓦特)。通常 缩写为MW, 用于发电量计算单位。",
-      "collocations": [
-        "megawatt hour: 百万瓦时/兆瓦时"
-      ],
-      "examples": [],
-      "rootHint": "maj"
-    },
-    {
-      "word": "magnitude",
-      "phonetic": "ˈmæɡ.nə.tud",
-      "pos": "n.",
-      "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
-      "frequency": 4010,
-      "mnemonic": "magn-(=meg-=great: 巨 大 ) + -itude(=size,extent: 尺寸，程度) → 巨大的程度，重要性，同时用于地震震级等多种科学术语",
-      "collocations": [
-        "earthquake magnitude: 地震震级",
-        "order of magnitude: 数量级"
-      ],
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magistrate",
-      "phonetic": "ˈmæ.dʒə.stɹeɪt",
-      "pos": "n.",
-      "definition": "( 处理轻罪或纠纷的)地方法官；治安法 官",
-      "frequency": 11356,
-      "collocations": [
-        "a magistrates'court: 地方治安法庭",
-        "to come up before the magistrates: 在地方法院出庭",
-        "释义：(N-COUNT) (处理轻罪或纠纷的)地方法官，治安法官",
-        "A magistrate is an official who acts as a judge in law courts which deal with minor crimes or disputes."
-      ],
-      "etymology": "magister (Latin):chief,director→magistrare(Latin):serve as a magistrate→magistratus(Latin):a magistrate,public functionary; magisterial rank or office→magistrat(Old French)→magistrate:civil officer in charge of administering laws",
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magnify",
-      "phonetic": "ˈmæɡ.nə.faɪ",
-      "pos": "vt.",
-      "definition": "放大；加剧；夸大(重要性或严重性);夸张",
-      "frequency": 9793,
-      "mnemonic": "magn-(=great: 大 ) + -ify(动词后缀，使……) →使放大；使扩大",
-      "collocations": [
-        "magnify the picture: 放大图像",
-        "magnify natural disasters: 加剧了自然灾难"
-      ],
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magnifying",
-      "phonetic": "ˈmæɡ.nə.faɪ.ɪŋ",
-      "pos": "adj.",
-      "definition": "放大的",
-      "frequency": 19150,
-      "mnemonic": "magnify(放大；扩大)+-ing ( 形容词后缀)→放大的",
-      "collocations": [
-        "magnifying mirror: 放大镜"
-      ],
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magnate",
-      "phonetic": "ˈmæɡ.neɪt",
-      "pos": "n.",
-      "definition": "权贵；要人；富豪；(尤指)产业大亨",
-      "frequency": 16892,
-      "mnemonic": "magn-(=great : 大，引申为伟大的，巨大的，富贵的)+-ate ( 名词 后缀) → 富豪；权贵；巨头",
-      "collocations": [
-        "a media/property/shipping magnate: 媒体/房地产/航运业大亨 ….a multimillionaire shipping magnate: 资产达数百万的船业巨头"
-      ],
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magnificent",
-      "phonetic": "mæɡ.ˈnɪ.fə.sənt",
-      "pos": "adj.",
-      "definition": "壮丽的；宏伟的；值得赞扬的；令人印象 深刻的",
-      "frequency": 5564,
-      "mnemonic": "magni-(=great: 巨大的)+-fic(=to make: 做，制造)+-ent ( 形容 词后缀)→引申词义伟大的；壮观的；辉煌的",
-      "collocations": [
-        "...a magnificent country house in wooded grounds: 绿树掩映中的一幢乡 间豪宅",
-        "….magnificent views over the San Fernando Valley...:圣费尔南多河谷的 壮丽美景"
-      ],
-      "etymology": "Mid-15c.,exalted,glorious,great in actions or deeds.Mid-15c.,exalted, glorious,great in actions or deeds.",
-      "examples": [],
-      "rootHint": "mag"
-    },
-    {
-      "word": "magnification",
-      "phonetic": "ˌmæɡ.nə.fɪ.ˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "放大；放大率；放大倍数",
-      "frequency": 13243,
-      "mnemonic": "magni-(=great: 巨大的)+-fic(=to make: 做，制造)+-ation ( 名词 后缀) →放大；放大率；放大倍数",
-      "collocations": [
-        "high/low magnification: 高/低放大率",
-        "be examined under magnification: 放大后加以观察",
-        "image magnification: 图像放大"
-      ],
-      "examples": [],
-      "rootHint": "mag"
-    }
-  ]
+    "id": "maj",
+    "source": "textbook-3",
+    "chapter": "1",
+    "chapterOrder": 101,
+    "titleZh": "大的,伟",
+    "semanticLabel": "大的,伟",
+    "meaningEn": null,
+    "meaningZh": "大的,伟",
+    "roots": [
+        "maj",
+        "max",
+        "mag",
+        "magn"
+    ],
+    "words": [
+        {
+            "word": "major",
+            "phonetic": "ˈmeɪ.dʒɚ",
+            "pos": "adj.",
+            "definition": "主要的；重大的；(音乐)大调的 n. 少校；专 业； ……专业的学生；(尤指棒球中的)职业总会；(尤指高尔夫球 或网球中的)大赛vi.以……为专业",
+            "frequency": 445,
+            "mnemonic": "maj-(=large,great: 大的)+-or ( 形容词词缀) →主要的；重大的",
+            "collocations": [
+                "a major problem: 一个大难题",
+                "majore in finance: 主修金融",
+                "four majors: 高尔夫四大满贯赛\n….Major Alan Bulman: 艾伦 ·布尔曼少校",
+                "oil majors: 大型石油公司\n…Mozart's Symphony No 35 in DMajor: 莫扎特D大调第35号交响曲"
+            ],
+            "etymology": "c.1300,majour,“greater,more important or effective,leading,principal”. From 1590s as“greater in quantity,number,or extent.”Used in music(of modes,scales,or chords)since 1690s,on notion of an interval a half-tone \"greater”than the minor;of modern modes,\"characterized by the use of major tonality throughout,\"by 1811.Major league,in baseball,is attested by 1892.",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "major-league",
+            "phonetic": "ˌmeɪ.dʒɚ.ˈliːɡ",
+            "pos": "adj.",
+            "definition": "( 尤指棒球)职业体育总会的；大联盟的； 非常重要的 n. 复数(尤指美国)职业棒球联合会；职业棒球大联盟",
+            "frequency": 13889,
+            "mnemonic": "major ( 主要的)+league ( 联盟) →主要的联盟 →职业体育(尤指棒 球)联盟；非常重要的",
+            "collocations": [
+                "a major-league business: 举足轻重的企业",
+                "a major-league team: 职业体育总会球队\n0000词汇巅峰速记班uaDpe 一\n0000词汇巅峰速记班",
+                "major-league stars: 一线的(大牌)明星",
+                "move into the major league/make it into the major league: 跻身成功人 士行列"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "majority",
+            "phonetic": "məˈdʒɔr.ə.ti",
+            "pos": "n.",
+            "definition": "大多数；多数票；法定成年年龄(英国和美国大多 数州规定为18周岁)adj. ( 观点、决定、体制等)多数人支持的，多数 人拥护的",
+            "frequency": 1089,
+            "mnemonic": "major(主要的)+-ity ( 名词后缀)→ 占多数的人，多数的票，多数 人支持的→引申词义大多数",
+            "collocations": [
+                "in a majority/in the majority: 占多数",
+                "overwhelming majority: 压倒性多数",
+                "vast majority: 绝大多数"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "May",
+            "phonetic": "meɪ",
+            "pos": "n.",
+            "definition": "( 大写)五月model( 将来)可能；可以(加以利用);与过 去分词连用，表示某事可能已经发生、属实或提供解释；用于承认情 况属实，但同时将之与更重要的东西作比较；(法规)允许/不允许； 可以(表示许可、礼貌的请求);可能会(用于别人对自己所说的话 可能会有的反应或态度);以便能",
+            "frequency": 119,
+            "collocations": [
+                "may be: 也许，可能"
+            ],
+            "etymology": "From Old English mæg“am able”,from Proto-Germanic root *mag-, infinitive *maganan(Old Frisian mei/muga/machte “have power,may”; from Proto-Germanic root *mag-,infinitive *maganan(Old Frisianmei/ muga/machte “have power,may”.",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "majesty",
+            "phonetic": "ˈmæ.dʒə.sti",
+            "pos": "n.",
+            "definition": "陛下(对国王或王后的尊称);雄伟壮观；庄严；威 严",
+            "frequency": 14748,
+            "mnemonic": "来自中古英语mageste, 来自古法语majeste, 来自拉丁语maiestas, 卓",
+            "collocations": [
+                ".….the majesty of the mainland mountains: 大陆山脉的壮观 His/Her/Your Majesty: 对国王或女王的尊称)陛下",
+                "the majesty of the music: 音乐的庄严气氛"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "majestic",
+            "phonetic": "məˈdʒɛs.tɪk",
+            "pos": "adj.",
+            "definition": "宏伟的；庄严的",
+            "frequency": 10803,
+            "mnemonic": "majesty(=majesty, 雄伟，壮观)+-ic ( 形容词后缀) →雄伟的；壮观 的；庄严的",
+            "collocations": [
+                "...amajestic country home: 一座漂亮的乡村住所",
+                "rise majestically to her feet: 端庄地站了起来"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mayor",
+            "phonetic": "ˈmeɪ.ɚ",
+            "pos": "n.",
+            "definition": "( 英格兰、威尔士和北爱尔兰由议员选举产生的)镇长， 市长，郡长；(民选的)市长，镇长",
+            "frequency": 2508,
+            "mnemonic": "may(=meg-: great, powerful , important)+-or ( 名词后缀，表示\n人)→市镇的首脑，最重要的人物→市长；镇长 搭配：.. the new mayor of New York: …… 新任纽约市长",
+            "collocations": [
+                "Lord Mayor: 市长大人(伦敦市和其他一些英国大城市市长的称号)"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mayoral",
+            "phonetic": "ˈmeɪ.ɚ.əl",
+            "pos": "adj.",
+            "definition": "市长的",
+            "frequency": 14932,
+            "mnemonic": "mayor( 市 长 )+-al ( 形容词后缀) → 市长的",
+            "collocations": [
+                "mayoral robes/duties: 市长的礼服/职责",
+                "Taipei mayoral election: 台北市长选举",
+                "mayoral candidate: 市长候选人"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "much",
+            "phonetic": "mʌtʃ",
+            "pos": "adv.",
+            "definition": "非常；经常；很大程度上；大量",
+            "frequency": 146,
+            "mnemonic": "much too delicate: 太娇嫩了",
+            "collocations": [
+                "as much: 一样，同等",
+                "as much as sb can do: 表示难以做到",
+                "not much in it: 没什么区别，差别不大",
+                "not much of a...:不是很好，不怎么样",
+                "nothing much: 没什么,不重要"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "much-needed",
+            "phonetic": "ˌmʌtʃˈniːdɪd",
+            "pos": "adj.",
+            "definition": "急需的；大量需要",
+            "frequency": 13959,
+            "mnemonic": "much ( 大量)+needed ( 需要的) → 大量需要的",
+            "collocations": [
+                "much-needed rain: 及时雨",
+                "much-needed storage capacity: 急需的存储容量"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "maxim",
+            "phonetic": "ˈmæk.sɪm",
+            "pos": "n.",
+            "definition": "格言；座右铭；准则",
+            "frequency": 16343,
+            "mnemonic": "maxim→greatest among propositions”(one which is general and absolute)",
+            "collocations": [
+                "proposition ostensibly expressing some general truth\"is from 1590s.",
+                "→所有主张中最为重要的，普遍适用及绝对的主张→格言；准则 搭配：(N-COUNT) 信条；格言；箴言",
+                "A maxim is a well-known phrase that expresses sth that is usually true or that people think is a rule for sensible behaviour"
+            ],
+            "etymology": "early 15c.,maxime,“an axiom,statement of a self-evident truth”.From fem.of maximus\"greatest”.The modern meaning \"summary statement of an established or accepted proposition serving as a rule or guide,a",
+            "examples": [],
+            "rootHint": "max"
+        },
+        {
+            "word": "maximum",
+            "phonetic": "ˈmæk.sə.məm",
+            "pos": "adj.",
+            "definition": "最高的；最多的；最大极限的 n. 最大值 adv. 最多",
+            "frequency": 3638,
+            "mnemonic": "max-(=large: 大 ) +im(=most: 最，词源同ultimate, intimate) +um ( 中性格) →最大化；最大量；最高限度\n邪解：cli-(=to lean: 倾斜)+-max ( 最高，最大)→达成一个目标需要的一 些列步骤，逐层递进的步骤，直到最高点→逐步上升以至达到最高点",
+            "collocations": [
+                "the maximum speed/temperature/volume/efficiency/effect: 最快速度； 最高气温；最大音量；最高效率；最佳效果",
+                "a maximum security prison: 最高戒备等级的监狱 同源：climax ['klaimæks] n. 高潮；顶点"
+            ],
+            "etymology": "英语单词climax 来自希腊语klimax ( 阶梯),来自动词klinein ( 倾 斜),与单词climate( 气候)同源。klimax原本指的是“逐层递进” 这种修辞手法。进入英语后，词义从“达成目标的连续步骤”演变至 “逐步上升的步骤”,再到“程度或成就的最高顶点”。",
+            "examples": [],
+            "rootHint": "max"
+        },
+        {
+            "word": "maximal",
+            "phonetic": "ˈmæk.sə.məl",
+            "pos": "adj.",
+            "definition": "最多的；最大的；最大限度的",
+            "frequency": 17858,
+            "mnemonic": "maxim(=maximum: 最多的，最大的，最大限度的)+-al ( 形容词后 缀 ) →maximal",
+            "collocations": [
+                "a maximal increase in employment: 最大限度增加就业 the maximal zoo: 最大的动物园"
+            ],
+            "examples": [],
+            "rootHint": "max"
+        },
+        {
+            "word": "maximize",
+            "phonetic": "ˈmæk.sə.maɪz",
+            "pos": "vt.",
+            "definition": "使增加至最大限度；充分利用(或重视);使 (计算机屏幕上的窗口)最大化",
+            "frequency": 6014,
+            "mnemonic": "maxim(=maximum)+-ize (动词后缀，使……) →使……增加至最 大限度；充分利用(或重视)",
+            "collocations": [
+                "to maximize efficiency/fitness/profits: 最大限度地提高效率/增强体质/ 增加利润",
+                "to maximize opportunities/resources: 充分利用机会/资源",
+                "maximize the space: 充分利用空间"
+            ],
+            "examples": [],
+            "rootHint": "max"
+        },
+        {
+            "word": "master",
+            "phonetic": "ˈmæs.tɚ",
+            "pos": "n.",
+            "definition": "主人；专家；控制者；男教师；(已故)著名画家； (电影、录音等)原始拷贝的；船长；长老(信徒对宗教法师或领袖 的称呼);(旧时的)少爷，小主人；君(现在用于信件中对男孩的 称 谓 ) adj. 精通的vt.掌握；精通；掌控",
+            "frequency": 1897,
+            "mnemonic": "演变：meg-:great→magis(Latin):more→magister(Latin):chief,head,director,\nteacher→mægester(Old English):a man having control or authority;a teacher or tutor→master:a man having control or authority,chief,head;",
+            "collocations": [
+                "man eminently or perfectly skilled in something 搭配：be your own master/mistress: 独立自主\n…a master craftsman:…… 一名手艺高超的工匠\nmaster of: 精通……的能手",
+                "master plan: 蓝图"
+            ],
+            "etymology": "noun.Meaning“acquire complete knowledge of,overcome the difficulties of,learn so as to be able to apply or use”is from 1740s. verb.c.1200,maistren,\"to get the better of,prevail against;reduce to subjugation,”",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mastery",
+            "phonetic": "ˈmæs.tɚ.i",
+            "pos": "n.",
+            "definition": "精通；掌握；统治；控制",
+            "frequency": 7733,
+            "mnemonic": "趣课多 20000词汇巅峰 助记：master ( 精通，掌握)+-y ( 名词后缀) →精通；掌握；控制；统治笔记区\nmaster ( 精通，掌握)+-y ( 名词后缀) →精通；掌握；控制；统治",
+            "collocations": [
+                "possesses complete mastery of: 非常熟练地掌握 ……",
+                "gain mastery over..: 征服……\nmastery of/over sb/sth: 控制，驾驭"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "headmaster",
+            "phonetic": "ˈhɛd.ˌmæ.stɚ",
+            "pos": "n.",
+            "definition": "( 尤指私立学校的)校长",
+            "frequency": 17526,
+            "mnemonic": "head (负责人，主要的)+master ( 教师) →教师的负责人，学校主\n要的管理者→校长 有关head的固定搭配：\nhead for: 朝着……行进，向……发展\na head for.….: 有……的才能\nget...into head: 充分理解并接受",
+            "collocations": [
+                "go to sb's head: (酒)使人感到醉；(成功等)冲昏……的头脑 head over heels/head over heels in love: 深陷情网",
+                "keep sb's head: 镇定自若",
+                "lose sb's head: 张皇失措",
+                "laugh sb's head off/scream sb's head off: 大笑",
+                "over someone's head: 超过……的理解力",
+                "over another person's head/over the heads of: 越过上级官员",
+                "rear its ugly head or raise its ugly head: ( 不好的事情)再次出现 stand on sb's head: 倒立",
+                "make heads or tails of..: 理解……",
+                "take it into their head to do something: 突然决定(做某事，尤指做古 怪或愚蠢的事)",
+                "come to a head/be brought to a head: 到了紧要关头",
+                "put the heads together: 集思广益",
+                "keep sb's head above water: (尤指生意上)避免陷入困境",
+                "heads will roll: 要有许多人掉脑袋(尤指失去工作)"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "masterful",
+            "phonetic": "ˈmæs.tɚ.fəl",
+            "pos": "adj.",
+            "definition": "善于掌控局势的；指挥若定的；技艺精湛 的；熟练的",
+            "frequency": 15626,
+            "mnemonic": "master (能手；名家)+-ful ( 形容词后缀)→有驾驭力的；技艺精湛的",
+            "collocations": [
+                "masterful managers: 有驾驭力的管理者",
+                "a masterful analysis of the text: 对课文精辟的分析"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mastermind",
+            "phonetic": "ˈmæs.tɚ.maɪnd",
+            "pos": "vt.",
+            "definition": "谋划；策划(艰难或复杂的行动) n. ( 常 指罪案)主谋；出谋划策的人；幕后操纵者",
+            "frequency": 16635,
+            "mnemonic": "master ( 大师，专家)+mind ( 思想) →杰出的思想家，犯罪集团的 头目，进行最高水平的策划或实施重大行动→谋划；策划(复杂或艰 难的行动);主谋；幕后操纵者",
+            "collocations": [
+                "mastermind Poland's economic reform: 策划波兰的经济改革 mastermind the attacks: 策划了攻击",
+                "the mastermind behind the plan: 计划的幕后操纵者"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "masterpiece",
+            "phonetic": "ˈmæs.tɚ.pis",
+            "pos": "n.",
+            "definition": "杰作；名著;(画家、作家或作曲家的)代表 作；典范",
+            "frequency": 7824,
+            "mnemonic": "master ( 大 师 ) +piece ( 作品，艺术品) →某位大使所制作的(杰 出)作品，达到了卓越的程度→work by which a craftsman attains the rank of master,a work or performance of a master,a piece of work of\nsurpassing excellence→杰作；名著;代表作；典范 搭配：a masterpiece of simplicity: 朴实的典范",
+            "collocations": [
+                "the horror masterpiece 'Frankenstein':《 科学怪人》这部恐怖小说名作"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mister",
+            "phonetic": "ˈmɪstɚ",
+            "pos": "n.",
+            "definition": "( 儿童常用，称呼不知姓名的男子)先生",
+            "frequency": 17731,
+            "collocations": [],
+            "etymology": "As a conventional title of courtesy before a man's Christian name,mid- 15c.,unaccented variant of master(n.),but without its meaning.As a form of address when the man's name is unknown(often with a tinge of rudeness),from 1760.",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mistress",
+            "phonetic": "ˈmɪstrəs",
+            "pos": "n.",
+            "definition": "情妇；女教师；主妇；(狗或其他动物的)女主人； 绝对控制……的女人；主宰……的女人",
+            "frequency": 7317,
+            "mnemonic": "mister(主人，先生)+-ess ( 表阴性后缀)→即女主人；主妇",
+            "collocations": [
+                "the biology mistress: 生物学女教师",
+                "the mistress of the house: 这房子的女主人",
+                "to be mistress of her own affairs: 自己的事情自己做主\n趣课多 20000词汇巅峰返"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "maestro",
+            "phonetic": "ˈmaɪ.stroʊ",
+            "pos": "n.",
+            "definition": "大师(尤指音乐大师);指挥名家",
+            "frequency": 17861,
+            "collocations": [
+                "...the urbane maestro's delightful first show: …… ·这位温文尔雅的音乐 大师带来的令人愉悦的处子秀",
+                "Maestro Giulini: 音乐大师朱利尼"
+            ],
+            "etymology": "“master of music,great teacher or composer,”1797,from Italian maestro, literally“master”",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "mega",
+            "phonetic": "ˈmɛ.ɡə",
+            "pos": "adj.",
+            "definition": "巨大的；宏大的；优秀的；十分；极度n. 百万",
+            "frequency": 18568,
+            "collocations": [
+                "mega salary: 巨额薪水",
+                "..the mega superstar Madonna: 超级巨星麦当娜",
+                "a mega film: 一部优秀的电影"
+            ],
+            "etymology": "before vowels meg-,word-forming element often meaning“Iarge,great,” but in physics a precise measurement to denote the unit taken a million times (megaton,megawatt,etc.),from Greek megas“great,large,vast,big, high,tall;mighty,important”(fem.megale),from PIE root *meg-“great.” Mega began to be used alone as an adjective by 1982.",
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "megawatt",
+            "phonetic": "ˈmɛ.ɡə.wɑt",
+            "pos": "n.",
+            "definition": "兆瓦；百万瓦特(电能计量单位)16102",
+            "mnemonic": "mega- ( 百万，兆)+watt ( 瓦 ) →megawatt ( 兆瓦；百万瓦特)。通常 缩写为MW, 用于发电量计算单位。",
+            "collocations": [
+                "megawatt hour: 百万瓦时/兆瓦时"
+            ],
+            "examples": [],
+            "rootHint": "maj"
+        },
+        {
+            "word": "magnitude",
+            "phonetic": "ˈmæɡ.nə.tud",
+            "pos": "n.",
+            "definition": "( 尺寸、规模、重要性等)大的程度；重要级； 数量级；震级",
+            "frequency": 4010,
+            "mnemonic": "magn-(=meg-=great: 巨 大 ) + -itude(=size,extent: 尺寸，程度) → 巨大的程度，重要性，同时用于地震震级等多种科学术语",
+            "collocations": [
+                "earthquake magnitude: 地震震级",
+                "order of magnitude: 数量级"
+            ],
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magistrate",
+            "phonetic": "ˈmæ.dʒə.streɪt",
+            "pos": "n.",
+            "definition": "( 处理轻罪或纠纷的)地方法官；治安法 官",
+            "frequency": 11356,
+            "collocations": [
+                "a magistrates'court: 地方治安法庭",
+                "to come up before the magistrates: 在地方法院出庭",
+                "释义：(N-COUNT) (处理轻罪或纠纷的)地方法官，治安法官",
+                "A magistrate is an official who acts as a judge in law courts which deal with minor crimes or disputes."
+            ],
+            "etymology": "magister (Latin):chief,director→magistrare(Latin):serve as a magistrate→magistratus(Latin):a magistrate,public functionary; magisterial rank or office→magistrat(Old French)→magistrate:civil officer in charge of administering laws",
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magnify",
+            "phonetic": "ˈmæɡ.nə.faɪ",
+            "pos": "vt.",
+            "definition": "放大；加剧；夸大(重要性或严重性);夸张",
+            "frequency": 9793,
+            "mnemonic": "magn-(=great: 大 ) + -ify(动词后缀，使……) →使放大；使扩大",
+            "collocations": [
+                "magnify the picture: 放大图像",
+                "magnify natural disasters: 加剧了自然灾难"
+            ],
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magnifying",
+            "phonetic": "ˈmæɡ.nə.faɪ.ɪŋ",
+            "pos": "adj.",
+            "definition": "放大的",
+            "frequency": 19150,
+            "mnemonic": "magnify(放大；扩大)+-ing ( 形容词后缀)→放大的",
+            "collocations": [
+                "magnifying mirror: 放大镜"
+            ],
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magnate",
+            "phonetic": "ˈmæɡ.neɪt",
+            "pos": "n.",
+            "definition": "权贵；要人；富豪；(尤指)产业大亨",
+            "frequency": 16892,
+            "mnemonic": "magn-(=great : 大，引申为伟大的，巨大的，富贵的)+-ate ( 名词 后缀) → 富豪；权贵；巨头",
+            "collocations": [
+                "a media/property/shipping magnate: 媒体/房地产/航运业大亨 ….a multimillionaire shipping magnate: 资产达数百万的船业巨头"
+            ],
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magnificent",
+            "phonetic": "mæɡ.ˈnɪ.fə.sənt",
+            "pos": "adj.",
+            "definition": "壮丽的；宏伟的；值得赞扬的；令人印象 深刻的",
+            "frequency": 5564,
+            "mnemonic": "magni-(=great: 巨大的)+-fic(=to make: 做，制造)+-ent ( 形容 词后缀)→引申词义伟大的；壮观的；辉煌的",
+            "collocations": [
+                "...a magnificent country house in wooded grounds: 绿树掩映中的一幢乡 间豪宅",
+                "….magnificent views over the San Fernando Valley...:圣费尔南多河谷的 壮丽美景"
+            ],
+            "etymology": "Mid-15c.,exalted,glorious,great in actions or deeds.Mid-15c.,exalted, glorious,great in actions or deeds.",
+            "examples": [],
+            "rootHint": "mag"
+        },
+        {
+            "word": "magnification",
+            "phonetic": "ˌmæɡ.nə.fɪ.ˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "放大；放大率；放大倍数",
+            "frequency": 13243,
+            "mnemonic": "magni-(=great: 巨大的)+-fic(=to make: 做，制造)+-ation ( 名词 后缀) →放大；放大率；放大倍数",
+            "collocations": [
+                "high/low magnification: 高/低放大率",
+                "be examined under magnification: 放大后加以观察",
+                "image magnification: 图像放大"
+            ],
+            "examples": [],
+            "rootHint": "mag"
+        }
+    ]
 }

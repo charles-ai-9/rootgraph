@@ -1,1817 +1,1817 @@
 {
-  "id": "liter",
-  "source": "textbook-4",
-  "chapter": "20",
-  "chapterOrder": 120,
-  "titleZh": "letter 表示文字",
-  "semanticLabel": "letter 表示文字",
-  "meaningEn": "letter” 表示“文字”",
-  "meaningZh": null,
-  "roots": [
-    "liter"
-  ],
-  "words": [
-    {
-      "word": "lettering",
-      "phonetic": "ˈlɛt.ɚ.ɪŋ",
-      "pos": "n.",
-      "definition": "字母，字；写字；印字",
-      "frequency": 16764,
-      "collocations": [
-        "with white lettering: 写有白字"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "newsletter",
-      "phonetic": "ˈnuz.ˌlɛt.ɚ",
-      "pos": "n.",
-      "definition": "( 组织)内部通讯",
-      "frequency": 6236,
-      "collocations": [
-        "news(新闻)+letter(文字)→新闻通讯→ (某组织的)内部通讯；简讯"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literal",
-      "phonetic": "ˈlɪ.tɚ.əl",
-      "pos": "adj.",
-      "definition": "字面上的；按字面意思的",
-      "frequency": 7855,
-      "mnemonic": "liter-(=letter: 字母；文字)+-al(的)→文字的→字面上的；按字面意思的",
-      "collocations": [
-        "a literal translation: 字面翻译",
-        "Literal的派生词有literally,literate,literacy,literary,literature,illiterate, illiteracy,obliterate等。"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literally",
-      "phonetic": "ˈlɪ.tɚ.ə.li",
-      "pos": "adv.",
-      "definition": "按字面；(强调事实可能令人惊讶)真正地，确实地",
-      "frequency": 2492,
-      "collocations": [
-        "take literally: 按字面意思来理解",
-        "literally hundreds of prizes to win: 真的有好几百份奖品可以领"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literate",
-      "phonetic": "ˈlɪ.tɚ.ɪt",
-      "pos": "adj.",
-      "definition": "有读写能力的；有文化的；熟悉文学的",
-      "frequency": 12413,
-      "mnemonic": "liter-(=letter: 文字；字母)+-ate(形容词后缀)→能读懂文字的→受过教 育的，有学问的",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literacy",
-      "phonetic": "ˈlɪ.tɚ.ə.si",
-      "pos": "n.",
-      "definition": "n. 有读写能力；有文化",
-      "frequency": 5225,
-      "mnemonic": "liter-(=letter: 文字；字母)+-acy(名词后缀)→知道文字→识字；有文化\nlitera-(=literal : 文字的)+-ure(名词后缀)→ 由文字(组成)的东西→文学\nil-(表否定)+liter-(=letter: 字母；文字)+-ate(的)→不知道文字的→文 盲的，未受过教育的；文盲",
-      "collocations": [
-        "basic literacy skills: 基本的读写技巧literary ['lrt()(rə)ri] adj. 文学的；书面的；爱好文学的2723",
-        "literary taste: 文学品味a literary man: 文人literature ['lt(ə)rətʃə] n. 文学；文献；著作1558",
-        "great works of literature: 文学巨著illiterate [r'lit(a)rət] adj.文盲的n. 文盲12600",
-        "a subclass of illiterates: 文盲阶层",
-        "not fully literate: 半文盲",
-        "basic literacy skills: 基本的读写技巧"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literary",
-      "phonetic": "ˈlɪ.tə.ɹɛ.ɹi",
-      "pos": "adj.",
-      "definition": "文学的；书面的；爱好文学的",
-      "frequency": 2723,
-      "collocations": [
-        "literary taste: 文学品味",
-        "a literary man: 文人"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "literature",
-      "phonetic": "ˈlɪ.tɚ.ə.tʃɚ",
-      "pos": "n.",
-      "definition": "文学；文献；著作",
-      "frequency": 1558,
-      "mnemonic": "litera-(=literal : 文字的)+-ure(名词后缀)→ 由文字(组成)的东西→文学",
-      "collocations": [
-        "great works of literature: 文学巨著"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "illiterate",
-      "phonetic": "ɪˈlɪ.tə.ɹət",
-      "pos": "adj.",
-      "definition": "文盲的n. 文盲",
-      "frequency": 12600,
-      "mnemonic": "il-(表否定)+liter-(=letter: 字母；文字)+-ate(的)→不知道文字的→文 盲的，未受过教育的；文盲",
-      "collocations": [
-        "a subclass of illiterates: 文盲阶层"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "illiteracy",
-      "phonetic": "ɪˈlɪ.tə.ɹə.si",
-      "pos": "n.",
-      "definition": "文盲",
-      "frequency": 17177,
-      "mnemonic": "eliminate illiteracy: 扫除文盲",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "obliterate",
-      "phonetic": "əˈblɪ.tə.ˌɹeɪt",
-      "pos": "vt.",
-      "definition": "毁掉；覆盖；清除",
-      "frequency": 10665,
-      "mnemonic": "ob-(against: 反对)+liter(字母；文字)+-ate (动词后缀)→把字母抹掉， 使其消失、清除→毁掉；覆盖；清除",
-      "collocations": [
-        "obliterate the world several times over: 摧毁这个世界好几次 obliterate their footprints: 覆盖了他们的足迹",
-        "obliterate from his memory: 从他的记忆中消失了"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "patent",
-      "phonetic": "ˈpæ.tənt",
-      "pos": "n.",
-      "definition": "专利权adj. 有专利的；显而易见的v.取得……的专利权；授予专利",
-      "frequency": 4454,
-      "mnemonic": "patent→ 展开的，打开的→ 明显的→ 引申义为专利权，取得……的专 利权",
-      "collocations": [
-        "to apply for/obtain a patent on an invention: 申请/获得发明专利权"
-      ],
-      "etymology": "late 14c.,“open letter or document from some authority=权威发布的公 开信或文件，”盎格鲁-法语lettre patent的简写，字面含义为“open letter=公开信”(13世纪晚期),来自古法语patente, 含义为“open=打 开的”。来自拉丁语patentem“open,lying open=打开的，”patere的 现在分词形式“lie open,be open=开着，打开的”(来自词根*pete-“to spread=展开”)。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "patented",
-      "phonetic": "ˈpæ.tən.tɪd",
-      "pos": "adj.",
-      "definition": "专利的",
-      "frequency": 18219,
-      "collocations": [
-        "patented product: 专利产品"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "patently",
-      "phonetic": "ˈpæ.tənt.li",
-      "pos": "adv.",
-      "definition": "毫无疑问；显然",
-      "frequency": 17067,
-      "mnemonic": "patently=clearly",
-      "collocations": [
-        "patently obvious: 显然"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sing",
-      "phonetic": "sɪŋ",
-      "pos": "vt.",
-      "definition": "&vi. 唱(歌);演唱；鸣；啼",
-      "frequency": 1016,
-      "collocations": [
-        "sing a different tune: 改变观点(或态度);改弦易辙",
-        "sing along(with sb./to sth.): 随着(某人、唱片等)唱"
-      ],
-      "etymology": "Old English singan “to chant,sing,celebrate,or tell in song,”also used of birds.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "singer",
-      "phonetic": "ˈsɪŋɚ",
-      "pos": "n.",
-      "definition": "歌手；歌唱家",
-      "frequency": 2844,
-      "collocations": [
-        "a wonderful singer: 优秀的歌手"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "singing",
-      "phonetic": "ˈsɪŋɪŋ",
-      "pos": "n.",
-      "definition": "唱歌；歌唱",
-      "frequency": 6587,
-      "collocations": [
-        "a singing teacher: 声乐教师",
-        "beautiful singing voice: 一副唱歌的好嗓子"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "song",
-      "phonetic": "sɔŋ",
-      "pos": "n.",
-      "definition": "歌曲；歌唱；鸟鸣声",
-      "frequency": 854,
-      "collocations": [
-        "burst into song/break into song: 开始唱歌",
-        "folk song: 民歌"
-      ],
-      "etymology": "Old English sang\"voice,song,art of singing;metrical composition adapted for singing,psalm,poem,\"from Proto-Germanic *songwho-, from PIE*songwh-o-\"singing,song,\"from *sengwh-\"to sing,make an incantation”.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "songbird",
-      "phonetic": "ˈsɔŋbɝd",
-      "pos": "n.",
-      "definition": "鸣鸟",
-      "frequency": 17362,
-      "mnemonic": "song (歌唱)+bird(鸟)→歌唱的鸟→鸣鸟",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "songwriter",
-      "phonetic": "ˈsɔŋˌɹaɪtɚ",
-      "pos": "n.",
-      "definition": "词(曲)作者",
-      "frequency": 11741,
-      "mnemonic": "song(歌曲)+writer(作者)→词(曲)作者",
-      "collocations": [
-        "one of rock'n'roll's greatest songwriters: 摇滚乐界最伟大的词曲作者 之一"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "songwriting",
-      "phonetic": "ˈsɔŋˌɹaɪtɪŋ",
-      "pos": "n.",
-      "definition": "歌曲创作",
-      "frequency": 19764,
-      "mnemonic": "song (歌曲)+writing (创作) →歌曲创作",
-      "collocations": [
-        "show the power of good songwriting: 在作曲上展现出过人的才华",
-        "Chant 表示“反复唱；圣歌；赞美诗”等含义。同样表达“歌唱，声音” 的词根还有“cent- ,cant-, chant-,chan- ”等。"
-      ],
-      "etymology": "词根为kan- 。Proto-Indo-European root meaning \"to sing.\"It is the hypothetical source of/evidence for its existence is provided by:Greek eikanos \"cock,\"literally \"bird who sings(for sunrise);\"Latin cantare, canere \"to sing;\"Old Irish caniaid \"sings,\"Welsh canu “sing;\"Old English 选20000词汇巅峰 选 hana \"cock.\"笔 记 区 hana \"cock.\" 笔 记 区",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "chant",
-      "phonetic": "tʃænt",
-      "pos": "n.",
-      "definition": "重复的话语；圣歌；赞美诗 vt.&vi.反复唱；反复呼喊",
-      "frequency": 6988,
-      "collocations": [
-        "chant slogans: 反复地喊着口号chant and pray: 唱圣歌祈祷"
-      ],
-      "etymology": "古罗马宗教活动中经常有反复吟唱的环节，既用来赞颂神灵，又用于 修炼内心。这种反复吟唱就是chant, 做动词时表示“反复吟唱”, 作名词时表示反复吟唱的“圣歌”。 chant 来自拉丁语词根cant- (吟 唱),经由古法语进入英语时，c 演变成了ch, 这也是法语单词的常见 拼写风格。除此以外，词根cant-(吟唱)的变体形式还有cent-。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "enchant",
-      "phonetic": "ɪn.ˈtʃænt",
-      "pos": "vt.",
-      "definition": "使陶醉；施魔法于",
-      "frequency": 18216,
-      "mnemonic": "同义词为delight,bewitch\nen-(=upon,into: 关于；进入)+chant(=to sing: 吟唱)→有关吟唱→对\n着……念咒语、施展魔法，从而控制人的思想→使陶醉；施魔法于 搭配：be enchanted by the house: 被这幢房子给迷住了",
-      "collocations": [],
-      "etymology": "late 14c.,literal and figurative,from Old French enchanter \"bewitch, charm,cast a spell”(12c.),from Latin incantare “to enchant,fix a spell upon”.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "enchanted",
-      "phonetic": "ɪn.ˈtʃæn.tɪd",
-      "pos": "adj.",
-      "definition": "被施魔法的；有魔法的",
-      "frequency": 15555,
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "enchanting",
-      "phonetic": "ɪn.ˈtʃæn.tɪŋ",
-      "pos": "adj.",
-      "definition": "迷人的",
-      "frequency": 18134,
-      "collocations": [
-        "an absolutely enchanting child: 一个特别招人喜爱的孩子",
-        "enchantmen t [in'tfa:ntm(ə)nt] n. 魅力；陶醉；(童话及传说中的)魔法；魔咒",
-        "its own peculiar enchantment: 其自身独特的魅力",
-        "enchantment with orchids: 对兰花的痴迷"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "disenchanted",
-      "phonetic": "ˌdɪs.ɪnˈtʃæn.tɪd",
-      "pos": "adj.",
-      "definition": "不再抱幻想的",
-      "frequency": 18978,
-      "mnemonic": "笔 记 区 助记：dis-(not: 不)+enchanted (陶醉的)→不再陶醉的→不再抱幻想的",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "accent",
-      "phonetic": "ˈæk.sɛnt",
-      "pos": "n.",
-      "definition": "n. 口音；强调；重音v.着重；强调",
-      "frequency": 4181,
-      "mnemonic": "ac-(=to: 来)+-cent(=chant:a singing: 歌曲)→来唱歌→强调；重音；口音(重口音的方言就像唱歌一样)\nac-(=to: 来)+centu(=a singing: 唱歌)+-ate (动词后缀)→emphasize,place an accent or emphasis on: 强调；着重；使突出\nin-(=in,into: 进入；使)+-cent(=to sing: 歌唱；吟唱)+-ive(形容词后缀)→使某人唱歌→引申为义鼓励，刺激",
-      "collocations": [
-        "a slight southern accent: 一点南方口音a strong/broad accent(=one that is very noticeable): 浓重的口音accentuate [ək'sentfuert;-tju-] vt. 着重；强调；使突出11144",
-        "accentuate his large round face: 突出了他的大圆脸incentive [in'sentiv] n. 激励；鼓励2750",
-        "tax incentives to encourage savings: 鼓励储蓄的税收激励措施 incentive system: 奖励制度charm[tfa:m] n. 魅力；符咒 vt. (用魅力)取悦4822",
-        "lose none of its original charm: 从未丧失其最初的魅力a man of great charm and distinction: 一个魅力十足、地位显赫的男人",
-        "grow disenchanted with politics: 对政治不再抱幻想",
-        "a slight southern accent: 一点南方口音",
-        "a strong/broad accent(=one that is very noticeable): 浓重的口音"
-      ],
-      "etymology": "c.1300,\"to recite or cast a magic spell,\"from Old French charmer(13c.) \"to enchant,to fill(someone)with desire(for something);to protect,cure, treat;to maltreat,harm,\"from Late Latin carminare,from Latin carmen “song,verse,enchantment, religious formula”. 来自拉丁词carmen, 唱 歌，念咒。后来原来的“咒语”含义反而消失了，衍生出“魅力、魔 力”等含义。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "accentuate",
-      "phonetic": "ək.ˈsɛn.tʃu.eɪt",
-      "pos": "vt.",
-      "definition": "着重；强调；使突出",
-      "frequency": 11144,
-      "mnemonic": "ac-(=to: 来)+centu(=a singing: 唱歌)+-ate (动词后缀)→emphasize,",
-      "collocations": [
-        "place an accent or emphasis on: 强调；着重；使突出 搭配：accentuate his large round face: 突出了他的大圆脸"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "incentive",
-      "phonetic": "ɪnˈsɛn.tɪv",
-      "pos": "n.",
-      "definition": "激励；鼓励",
-      "frequency": 2750,
-      "mnemonic": "in-(=in,into: 进入；使)+-cent(=to sing: 歌唱；吟唱)+-ive(形容词后\n缀)→使某人唱歌→引申为义鼓励，刺激",
-      "collocations": [
-        "tax incentives to encourage savings: 鼓励储蓄的税收激励措施 incentive system: 奖励制度"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "charm",
-      "phonetic": "tʃɑɹm",
-      "pos": "n.",
-      "definition": "魅力；符咒 vt. (用魅力)取悦",
-      "frequency": 4822,
-      "collocations": [
-        "lose none of its original charm: 从未丧失其最初的魅力",
-        "a man of great charm and distinction: 一个魅力十足、地位显赫的男人"
-      ],
-      "etymology": "c.1300,\"to recite or cast a magic spell,\"from Old French charmer(13c.) \"to enchant,to fill(someone)with desire(for something);to protect,cure, treat;to maltreat,harm,\"from Late Latin carminare,from Latin carmen “song,verse,enchantment, religious formula”. 来自拉丁词carmen, 唱 歌，念咒。后来原来的“咒语”含义反而消失了，衍生出“魅力、魔 力”等含义。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "charming",
-      "phonetic": "ˈtʃɑɹmɪŋ",
-      "pos": "adj.",
-      "definition": "迷人的；惹人喜欢的",
-      "frequency": 5252,
-      "collocations": [
-        "a charming little fishing village: 一个迷人的小渔村"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "hen",
-      "phonetic": "hɛn",
-      "pos": "n.",
-      "definition": "母鸡；雌禽",
-      "frequency": 8085,
-      "mnemonic": "来自词根kan-=to sing: 歌唱。\"the female of the domestic fowl,\"Old English henn “hen,\"from West Germanic *hannjo,fem.of*hanan-\"male fowl,cock”(source of Old English hana “cock”),literally \"bird who sings (for sunrise)”.",
-      "collocations": [
-        "a small flock of laying hens: 一小群下蛋的母鸡"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "cantaloupe",
-      "phonetic": "ˈkæntəˌloʊp",
-      "pos": "n.",
-      "definition": "罗马甜瓜",
-      "frequency": 18412,
-      "mnemonic": "同义词hami melon,honey-dew melon: 哈密瓜\n俗词源认为该地名Cantalupo 来自cant (唱；吟唱)+-lupo (狼)词源同 wolf→唱歌的狼，即狼出没之地。",
-      "collocations": [
-        "cantaloupe juice: 哈蜜瓜汁",
-        "Sound 表示“声音”。"
-      ],
-      "etymology": "词根为swen-。 Also swenə-,Proto-Indo-European root meaning \"to sound.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit svanati \"it sounds,\"svanah \"sound,tone;\"Latin sonus \"sound,a noise,\" sonare \"to sound;\"Old Irish senim “the playing of an instrument;\"Old English geswin \"music,song,\"swinsian “to sing;\"Old Norse svanr,Old English swan \"swan,\"properly \"the sounding bird.\"",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sound",
-      "phonetic": "saʊnd",
-      "pos": "n.",
-      "definition": "声音；响声；音乐风格 vt. 宣告；听起来 adj. 健康的；可 靠的；正确的的adv.酣睡",
-      "frequency": 703,
-      "collocations": [
-        "turn the sound down: 把声音调小 sound a warning: 发出警告",
-        "sound like: 听起来像"
-      ],
-      "etymology": "\"noise,what is heard,sensation produced through the ear,\"late 13c.,soun, 来自古法语 son “sound,musical note, voice =声音，音符”。来自拉丁 语sonus “sound,a noise=声音，噪音”。From PIE*swon-0-,from root 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 *swen-“to sound”。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sounding",
-      "phonetic": "ˈsaʊndɪŋ",
-      "pos": "n.",
-      "definition": "( 铃或号的)发声；对某人意见的征询；(测量水深或检 测水底的)探通 adj. 回响的；回荡的",
-      "frequency": 17090,
-      "collocations": [
-        "take soundings of the people's wishes: 征询一下大家的意愿 the sounding of the all-clear signal: 警报解除号音"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "soundly",
-      "phonetic": "ˈsaʊndli",
-      "pos": "adv.",
-      "definition": "彻底地；可靠地；酣(睡)地",
-      "frequency": 16469,
-      "collocations": [
-        "be soundly beaten: 被彻底击败",
-        "be soundly based in: 牢靠地建立在……之上",
-        "sleep soundly: 睡得香"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "soundbite",
-      "phonetic": "ˈsaʊndbaɪt",
-      "pos": "n.",
-      "definition": "(新闻节目中对政治人物讲话的)简短引述",
-      "frequency": 18419,
-      "mnemonic": "sound(声音)+bite(一口的量)→声音时间短的→一小段话",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "soundtrack",
-      "phonetic": "ˈsaʊndtɹæk",
-      "pos": "n.",
-      "definition": "(电影的)配音；电影音乐磁带(或唱片)10124",
-      "mnemonic": "sound(声音)+track (录音磁带；光盘)→声音磁带；电影配音",
-      "collocations": [
-        "the soundtrack of the latest movie: 最新影片的音乐磁带"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "ultrasound",
-      "phonetic": "ˈʌltɹəsaʊnd",
-      "pos": "n.",
-      "definition": "超声波；超声波扫描检查",
-      "frequency": 12543,
-      "mnemonic": "ultra(beyond: 超越)+sound ( 声音)→超出了人耳听觉的一般上限、人\n们听不见的声波→超声波 搭配：ultrasound wave: 超声波",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sonic",
-      "phonetic": "ˈsɑnɪk",
-      "pos": "adj.",
-      "definition": "声音的；声速的",
-      "frequency": 13726,
-      "mnemonic": "son-(=sound: 声音)+-ic(形容词后缀)→声音的；声速的",
-      "collocations": [
-        "sonic waves: 声波",
-        "the sonic boom: 轰鸣声笔 记 区",
-        "the sonic boom: 轰鸣声\n笔 记 区",
-        "sonic speed: 声速"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "supersonic",
-      "phonetic": "ˌsu.pɚˈsɑ.nɪk",
-      "pos": "adj.",
-      "definition": "超音速的",
-      "frequency": 18185,
-      "mnemonic": "super( 超)+son-(=sound: 声音)+-ic(形容词后缀)→超音速的",
-      "collocations": [
-        "a supersonic aircraft: 超声速飞机",
-        "supersonic flight: 超声速飞行"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "resound",
-      "phonetic": "ɹɪ.ˈzaʊnd",
-      "pos": "vi.",
-      "definition": "回响；鸣响；充满；回荡着(声音)20022",
-      "mnemonic": "re-(=back,again : 回；再次)+sound(=to sound: 发出声音)→声音再次 出现→ 回响；回荡；(声音)充满",
-      "collocations": [
-        "resound through: 在……中回响",
-        "resound with music: 回荡着音乐声"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "resounding",
-      "phonetic": "ɹɪ.ˈzaʊn.dɪŋ",
-      "pos": "adj.",
-      "definition": "响亮清晰的；彻底的",
-      "frequency": 15979,
-      "collocations": [
-        "a resounding slap: 声音清晰响亮的耳光",
-        "make a resounding success: 获得了彻底的成功"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "resonance",
-      "phonetic": "ˈɹɛ.zə.nəns",
-      "pos": "n.",
-      "definition": "共鸣；洪亮",
-      "frequency": 8095,
-      "mnemonic": "re-(=again: 再次)+-son-(=sound: 声音)+-ance (名词后缀)→声音再次 出现→共鸣；洪亮",
-      "collocations": [
-        "a thrilling resonance: 一种震撼人心的效果",
-        "lose its resonance: 失去了原有的洪亮"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "resonant",
-      "phonetic": "ˈɹɛ.zə.nənt",
-      "pos": "adj.",
-      "definition": "嘹亮的；回响的；共鸣的；引起联想的",
-      "frequency": 14499,
-      "collocations": [
-        "a deep resonant voice: 深沉而响亮的声音",
-        "a poem filled with resonant imagery: 充满了让人浮想联翩的意象的诗歌"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "resonate",
-      "phonetic": "ˈɹɛ.zə.neɪt",
-      "pos": "vt.",
-      "definition": "产生共鸣；发出回响；(使)回响；使产生联想；引起共鸣",
-      "frequency": 8012,
-      "collocations": [
-        "resonate with sth.: 充满 ……"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "consonant",
-      "phonetic": "ˈkɑnsənənt",
-      "pos": "n.",
-      "definition": "辅音adj.(与……)一致的，相同的",
-      "frequency": 18173,
-      "mnemonic": "con-(=with,together: 共同)+-son-(=to sound: 发出声音)+-ant( 形容词\n后缀)→即发出声音的，后指语音学术术语辅音\ncon-(=with ,together: 共同)+-son-(=to sound: 发出声音)+-ant( 形容词 后缀)→发出相同声音的→ (与……)一致的；相同的；和谐的",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dissonance",
-      "phonetic": "ˈdɪ.sə.nəns",
-      "pos": "n.",
-      "definition": "不和谐；不协调；不一致",
-      "frequency": 17027,
-      "mnemonic": "dis- ( 不；使相反)+-son (声音)+-ance (名词后缀) → 即声音不同 →不和 谐；不协调",
-      "collocations": [
-        "cognitive dissonance: 认知失调"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sonnet",
-      "phonetic": "ˈsɑnɪt",
-      "pos": "n.",
-      "definition": "十四行诗",
-      "frequency": 15537,
-      "mnemonic": "son-(=sound : 声音)+-et(小词后缀)→字面意思即小声音，小诗词或歌 曲→原可指任意形式的抒情短诗，后体裁限定为十四行短诗",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "sonar",
-      "phonetic": "ˈsoʊnɑɹ",
-      "pos": "n.",
-      "definition": "声呐(利用声波探测水下物体的装置或系统)15428",
-      "mnemonic": "利用声波水下探测装置。1946,来自“so(und)+na(vigation)+r(anging)”",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "unison",
-      "phonetic": "ˈjunəsən",
-      "pos": "n.",
-      "definition": "一起； 一致地；协调的(in unison)9638",
-      "mnemonic": "uni-(one, unique: 独特的；唯一的)+-son(=sound: 声音)→发出同一个 声音→引申词义一致地，协调地",
-      "collocations": [
-        "in unison with stb/sth:(做事、说话)一起，一齐；一致行动；协调地"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "swan",
-      "phonetic": "swɑn",
-      "pos": "n.",
-      "definition": "天鹅 vi. 悠游；悠然闲逛[+adv./prep. ]11869",
-      "mnemonic": "笔 记 区make sound=发出声音”。因此它与古英语geswin “melody,song=美 妙的音乐，歌曲”及swinsian “to make melody=发出每妙的音乐”有 关。可能是因为传说中天鹅在临死之前会发出美妙的歌声而联想： swim(游泳)→swan(在水里游的美丽洁白的动物，天鹅)",
-      "collocations": [
-        "black swan: 黑天鹅",
-        "swan song: 绝笔，最后的作品；天鹅临死时的叫声",
-        "swan off to Paris: 到巴黎潇洒去了\n单词person 表示“人”。"
-      ],
-      "etymology": "来自古英语swan“swan,” 来自原始日耳曼语*swanaz “singer”, 也 许字面含义为“the singing bird=歌唱的鸟”,来自词根*swen-“to 笔 记 区",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "person",
-      "phonetic": "ˈpɝ.sən",
-      "pos": "n.",
-      "definition": "人；[复数形式]用于正式、法律、技术文体中；人品；喜欢(不喜欢)……的人；身体",
-      "frequency": 346,
-      "mnemonic": "per-(=through: 通过)+-son(=to sound: 声音)→to sound through: 声音 透过，其原义可能是透过面具发出→指代剧中人→后引申为现实中的 人声音或扩大声音，该词原为古罗马时期戏剧表演时演员所戴的面 具，后引申多种词义。",
-      "collocations": [
-        "a country person: 喜欢乡村的人in person: 亲自；当面",
-        "-person: 从事……工作(或担任……职务)的人 a salesperson: 推销员",
-        "in the person of: 名叫 first/second/third person: (语法中的)人称",
-        "person的 派 生 词 有 personal,personality,personally,personnel,persona, impersonal,impersonate,personalize,personalized,personify,personification, personable等。"
-      ],
-      "etymology": "古罗马和古希腊的戏剧演员往往在一场演出中扮演几个不同的角色。 他们每换一个角色，就换上一个不同的假面具。面具在拉丁文中作 persona 。此后，persona的词义引申为“角色”或“剧中人”。据此 比喻，persona又从“剧中人”进而延伸为现实中的“人”。来自拉 丁语persona, 面具，假面，可能来自拉丁语personare,含义为声音透 过(面具发出)。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personal",
-      "phonetic": "ˈpɝ.sə.nəl",
-      "pos": "adj.",
-      "definition": "个人的；人际的；私人的；亲自做的；个别的；针对个人的；人身的personals ( 报纸广告栏内的)私人广告",
-      "frequency": 581,
-      "mnemonic": "笔 记 区 助记：person(个人)+-al( 形容词后缀)→与个人有关的→个人的；人际的；私 人的",
-      "collocations": [
-        "a personal pension plan: 个人养老计划",
-        "get personal: 搞人身攻击",
-        "personal effects/belongings/possessions私人物品/财产/财物"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personality",
-      "phonetic": "ˌpɝ.sə.ˈnæ.lə.ti",
-      "pos": "n.",
-      "definition": "性格；个性鲜明的人；(尤指娱乐、广播、体育 界)名人",
-      "frequency": 2092,
-      "mnemonic": "personal( 个人的)+-ity(名词后缀，表性质)→个人的品性、特点→性 格；个性鲜明的人→ (尤指娱乐、广播、体育界)名人",
-      "collocations": [
-        "a kind,friendly personality: 友善的性格",
-        "a woman of great personality: 一个很有个性的女人",
-        "the radio and television personality: 广播电视名人"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personally",
-      "phonetic": "ˈpɝ.sə.nə.li",
-      "pos": "adv.",
-      "definition": "在个人看来；亲自；个别地；无礼地；私人 地",
-      "frequency": 2656,
-      "mnemonic": "personal(个人地)+-ly(副词后缀)→在个人看来；亲自；私人地",
-      "collocations": [
-        "take...personally: 把……看作是针对个人的",
-        "personally speaking: 就个人来说"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personnel",
-      "phonetic": "ˌpɝ.sə.ˈnɛl",
-      "pos": "n.",
-      "definition": "(组织或军队中的)全体人员；人事部门",
-      "frequency": 2448,
-      "mnemonic": "来自法语personnel, 其原义为相比于物质的特征而言的人的特征的，\n后形容词作名词→ 引申词义全体人员；人事部门 搭配：skilled personnel: 熟练人员",
-      "collocations": [
-        "the personnel department/manager: 人事部门/经理"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "persona",
-      "phonetic": "pɚ.ˈsoʊ.nə",
-      "pos": "n.",
-      "definition": "(同本人真实品性不一致的)表面形象",
-      "frequency": 7663,
-      "mnemonic": "来自拉丁语persona, 表示戏剧中的人物，假装的人物→表象人格 搭配：the public persona: 公众形象take on a new persona: 伪装自己\nim-(not,opposite of: 不；与……相反)+personal (个人的)→与个人(感 情)的相反的，没有个人色彩的 →无人情味的；不受个人感情影响 的；没有个人色彩的",
-      "collocations": [
-        "释义：(N-COUNT) 表象人格；伪装；假象 Someone's persona is the aspect of their character or nature that they present to other people,perhaps in contrast to their real character or nature.\n笔 记 区impersonal [m'ps:s(3)n(ə)l] adj. 无人情味的；不受个人感情影响的；没有 个人色彩的12363\n笔 记 区",
-        "impersonal orphanages: 无人情味的孤儿院",
-        "as impersonal as a surgeon with his knife: 像拿着手术刀的外科医生一 样不受个人感情影响",
-        "a neat and impersonal room: 一个整洁干净、没有个人色彩的房间"
-      ],
-      "etymology": "mid-15c.,a grammatical term,from Late Latin impersonalis.Sense of \"not connected with any person”is from 1620s;that of \"not endowed with personality,having no conscious individuality”is from 1842.Related: impersonally.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "impersonate",
-      "phonetic": "ɪmˈpɝ.sə.neɪt",
-      "pos": "vt.",
-      "definition": "假扮(为了行骗);(尤指为逗人发笑而)模仿 (某人的言语、动作)19379",
-      "mnemonic": "im-(=into, in: 进入)+person(人)+-ate(动词后缀)→represent in bodily form,assume the person or character of: 即变成另一个人的(样貌；性 格)→假扮；模仿",
-      "collocations": [
-        "impersonate a security guard: 假扮警卫被",
-        "be that person,either to deceive people or to make people laugh."
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personalize",
-      "phonetic": "ˈpɝ.sə.nə.laɪz",
-      "pos": "vt.",
-      "definition": "在……上标出个人的姓名[姓名的首字母]; 使个性化；为个人特制(或专设);针对个人",
-      "frequency": 13899,
-      "mnemonic": "personal(个人的)+-ize(=make: 使……化，动词后缀)→使个性化；为 个人特制(或专设);针对个人\npersonalize(使个性化)+-d(形容词后缀去e)→ 个性化的；(英)标有姓名 (首字母)的车牌",
-      "collocations": [
-        "personalize your office: 使办公室有个性",
-        "be personalized to: 为……特制",
-        "personalize politics: 使政治个人化\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 personalized ['pə:sonolaizd] adj. 个性化的；(英)标有姓名(首字母)的车牌",
-        "a personalized number plate: 个性化车牌",
-        "a highly personalized service: 高度个性化的服务"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personify",
-      "phonetic": "pɚ.ˈsɑ.nə.faɪ",
-      "pos": "vt.",
-      "definition": "是……的化身[典型];把……拟人化[人格化]14606拟人化[人格化]",
-      "mnemonic": "person(人)+i+fy(动词后缀，使成为)→to represent,embody: 代表；体 现→使人成为……的代表，体现……→是……的化身[典型];把……",
-      "collocations": [
-        "personify the values of self-reliance and hard work: 体现了自立和勤劳 的价值",
-        "kindness/generosity etc. personified: 仁慈/慷慨的化身",
-        "personify time as an old man: 把时间比作一位老人"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personification",
-      "phonetic": "pɚ.ˌsɑ.nə.fə.ˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "典型；(文学或艺术中的)拟人化，人格 化[+of]17963",
-      "mnemonic": "personify ( 是……的典型；把……拟人化)+-ication (复合名词后 缀)→embodiment ofa quality in a person→典型；拟人化",
-      "collocations": [
-        "the personification of the financial excess of the 1980s: 20 世纪80年代金 融过热时期的一个典型",
-        "the personification of rivers in fifth-century art: 五世纪艺术中对河流的 拟人化"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "personable",
-      "phonetic": "ˈpɝ.sə.nə.bəl",
-      "pos": "adj.",
-      "definition": "品貌兼优的；英俊潇洒的",
-      "frequency": 20070,
-      "mnemonic": "person (人)+-able (形容词后缀)→pleasing in one's person:讨人喜欢 的，风度翩翩的→ 品貌兼优的；英俊潇洒的",
-      "collocations": [
-        "a personable entertainer: 一位风度翩翩的艺人",
-        "near表示“近的；附近的”。笔 记 区",
-        "near表示“近的；附近的”。\n笔 记 区\nnea r [nrə] prep. 离……近；与……相似adv. 靠 近adj. 靠近的；差不多的707 词源：Old English near \"closer,nearer,\"comparative of neah,neh \"nigh.\"",
-        "Partially by the influence of Old Norse naer \"near,\"it came to be used in English as a positive form mid-13c.,and new comparative nearer developed in the 1500s.",
-        "come near me: 靠近我",
-        "near to: 接近；与……临近",
-        "near to the door: 靠近门"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "nearly",
-      "phonetic": "ˈnɪɹ.li",
-      "pos": "adv.",
-      "definition": "几乎；即将",
-      "frequency": 599,
-      "mnemonic": "near(靠近)+-ly(形容词后缀)→近乎→几乎；即将",
-      "collocations": [
-        "know nearly allof this: 几乎知道全部了",
-        "already nearly eight o'clock: 已经快8点钟了"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "nearby",
-      "phonetic": "ˌnɪɹ.ˈbaɪ",
-      "pos": "adv.",
-      "definition": "在附近adj. 附近的",
-      "frequency": 2445,
-      "mnemonic": "near( 靠近)+by(附近) →在附近；附近的",
-      "collocations": [
-        "live nearby: 住在附近",
-        "at a nearby table: 附近的一张桌子旁"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "nearest",
-      "phonetic": "ˈnɪɹ.ɪst",
-      "pos": "adj.",
-      "definition": "最近的(near 的最高级)5822",
-      "mnemonic": "near (离……近)+-est (形容词最高级) →最近的",
-      "collocations": [
-        "nearest park: 最近的公园"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "next",
-      "phonetic": "nɛkst",
-      "pos": "ord.",
-      "definition": "下一个的det.下一(年、月、星期等)pron.下一个adj.下 一 (年、月、星期等)的；紧邻的adv.紧接着；再次；仅次于",
-      "frequency": 218,
-      "collocations": [
-        "the week after next: 下下星期",
-        "as the next: 一样"
-      ],
-      "etymology": "\"nearest in place,position,rank,or turn,\"来自中古英语nexte, 来自古 英语niehsta,nyhsta,nesta,\"nearest in position or distance,closest in kinship,”来自原始日耳曼语词根*nekh-=near+最高级后缀*-istaz=est, 表示最近的nearest, 即下一个next。 笔 记 区 搭配：next Friday: 下周五",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "next-door",
-      "phonetic": "ˌnɛkst.ˈdɔɹ",
-      "pos": "adv.",
-      "definition": "adv. 在隔壁adj. 隔壁的",
-      "frequency": 17600,
-      "mnemonic": "next (下一个)+door(门)→下一个门的→隔壁的\nneigh(=near: 附近)+bor(=dwell: 居住)→居住在附近的人→邻居\nneighbor (邻居)+-hood (名词后缀，表状态)→邻里邻居的状态→居住 区；附近",
-      "collocations": [
-        "live next door: 住在隔壁的a next-door house: 隔壁的房子next door to: 在……的隔壁neighbor ['nerbə] n. 邻居；临近的人；邻近的同类物1446",
-        "its big oil-rich neighbor: 它那幅员辽阔、石油资源丰富的邻国neighborhood ['nerbə,hud] n. 居住区；附近1137",
-        "a green neighborhood: 一个绿色的居住区in the neighborhood of: 大约为；在……附近neighboring ['neibəriŋ] adj. 邻近的(等于neighbouring)4889",
-        "a tour of neighboring Asian capitals: 对几个亚洲邻邦首都的访问next to: 靠近；仅次于；几乎",
-        "live next door: 住在隔壁的",
-        "a next-door house: 隔壁的房子",
-        "next door to: 在……的隔壁"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "neighbor",
-      "phonetic": "ˈneɪ.bɚ",
-      "pos": "n.",
-      "definition": "邻居；临近的人；邻近的同类物",
-      "frequency": 1446,
-      "mnemonic": "neigh(=near: 附近)+bor(=dwell: 居住)→居住在附近的人→邻居 搭配：its big oil-rich neighbor: 它那幅员辽阔、石油资源丰富的邻国",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "neighborhood",
-      "phonetic": "ˈneɪ.bɚ.hʊd",
-      "pos": "n.",
-      "definition": "居住区；附近",
-      "frequency": 1137,
-      "mnemonic": "neighbor (邻居)+-hood (名词后缀，表状态)→邻里邻居的状态→居住 区；附近",
-      "collocations": [
-        "a green neighborhood: 一个绿色的居住区",
-        "in the neighborhood of: 大约为；在……附近"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "neighboring",
-      "phonetic": "ˈneɪ.bɚ.ɪŋ",
-      "pos": "adj.",
-      "definition": "邻近的(等于neighbouring)4889",
-      "collocations": [
-        "a tour of neighboring Asian capitals: 对几个亚洲邻邦首都的访问",
-        "is the hypothetical source of/evidence for its existence is provided by: Sanskrit dhuma-\"smoke,fume;\"Greek thymos “spirit,courage,anger,” thymiao \"fumigate,\"thymin“incense;\"Latin fumus\"smoke,steam, fume;\"Lithuanian dūmai “smoke”(plural);Old Prussian dumis “smoke;”\n速20000词汇巅峰\n速\n笔 记 区\n笔 记 区",
-        "Old Church Slavonic dymu \"smoke;\"Middle Irish dumacha “fog;\"perhaps Old High German toum “steam,vapor.”"
-      ],
-      "etymology": "*dheu-(1)Proto-Indo-European root meaning \"dust,vapor,smoke.\"It",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dwell",
-      "phonetic": "dwɛl",
-      "pos": "vi.",
-      "definition": "居住；栖身；细想；详述",
-      "frequency": 7296,
-      "collocations": [
-        "dwell on: 讲述",
-        "dwell among: 在……中生活"
-      ],
-      "etymology": "The apparent sense evolution in Middle English was through“to procrastinate,delay,be tardy in coming”(late 12c.),to \"linger,remain, stay,sojourn,\"to “make a home,abide as a permanent resident”(mid-14c.). From late 14c.as \"remain (in a certain condition or status),\"as in phrase dwell upon “keep the attention fixed on.”Related:Dwelled;dwelt;dwells.",
-      "examples": [
-        "The book,which will be out in English next year,doesn't dwell on the sinking;its heroine is a pregnant young woman who survives the catastrophe only to say later:\"Nobody wanted to hear about it,not here in the West(of Germany)and not at all in the East.”将在明年用英文出版的 这本书，讲述的并不是沉船，它的女主人公是一个在灾难中存活下来 的怀孕女人，她后来说：“没人想去听到这个事情，不论是在还是西 德还是在东德”。"
-      ],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dweller",
-      "phonetic": "ˈdwɛ.lɚ",
-      "pos": "n.",
-      "definition": "居民；居住者",
-      "frequency": 11104,
-      "collocations": [
-        "apartment dwellers: 公寓房客"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dwelling",
-      "phonetic": "ˈdwɛ.lɪŋ",
-      "pos": "n.",
-      "definition": "住宅；住所；居住地",
-      "frequency": 8371,
-      "collocations": [
-        "3,500 new dwellings: 三千五百套新住宅"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "fume",
-      "phonetic": "fjum",
-      "pos": "vt.",
-      "definition": "&vi.表达气愤 n. ( 难闻且常有害的)烟气",
-      "frequency": 9831,
-      "collocations": [
-        "Old High German toum\"steam,vapor.” 来自拉丁语fumus “smoke, steam,fume”, 含义为“烟；蒸汽；”。",
-        "fume at/over/about sb/sth: (对……)大为生气，十分恼火 be fuming with indignation: 愤愤不平",
-        "exhaust fume: 排烟；废 气"
-      ],
-      "etymology": "Proto-Indo-European root meaning\"dust,vapor,smoke.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit dhuma-\"smoke,fume;\"Greek thymos\"spirit,courage,anger,\"thymiao \"fumigate,\"thymin“incense;\"Latin fumus \"smoke,steam ,fume;” Lithuanian dūmai “smoke”(plural);Old Prussian dumis\"smoke;\"Old 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 Church Slavonic dymu “smoke;\"Middle Irish dumacha “fog;”perhaps",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "perfume",
-      "phonetic": "ˈpɝ.fjum",
-      "pos": "n.",
-      "definition": "香水；香料；芳香 vt. 使香气弥漫；为……增加香味",
-      "frequency": 6693,
-      "mnemonic": "它由per-(=through : 彻底；弥漫)+fume(烟)构成→字面意思就是“用\n烟弥漫”或“弥漫的烟”→后来指具有芬芳气味、清洁空气的香水；",
-      "collocations": [
-        "the delicate perfume of roses: 有玫瑰的幽香",
-        "a perfume for skin creams: 润肤霜中使用的香料",
-        "perfume the whole house with the aroma of apples and spices: 整幢房子 都飘着苹果和香料的香气",
-        "to flavor and perfume soaps,foam baths,and scents: 用来给肥皂、沐浴 液和香水添加香味"
-      ],
-      "etymology": "在中世纪时期的欧洲，当有人死于传染病时，尸体被抬走后，人人往 往会点燃某种香料，用其产生的带有香味的烟雾来熏病人的房间，以 达到消毒和去除异味的作用。英语单词perfume的本意就是“用熏香 的烟来熏病人的房间”,做名词时表示“用来消毒的烟”。后来，人 们流行在身上喷洒具有芬芳气味的液体，即所谓的“香水”。由于香 水的目的也是为了去除异味、清洁空气，所以香水所发出的香气以及 用香水清洁空气的行为也被称为perfume 。现在，香水本身也被称为 perfume。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "funk",
-      "phonetic": "fʌŋk",
-      "pos": "n.",
-      "definition": "( 伴奏现代舞蹈的)乡土爵士乐；放克音乐；忧愁；强烈的臭 气 v.(因畏惧而)逃避，回避",
-      "frequency": 13762,
-      "mnemonic": "最初是白人用来指黑人身上的味道。后来黑人音乐家用该词来形容他 们的爵士风格。非裔美国人音乐家将灵魂乐、灵魂爵士乐和节奏蓝调 融合成一种有节奏的、适合跳舞的音乐新形式。随着爵士乐的流行，",
-      "collocations": [
-        "in a blue funk: 惊恐万状"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "funky",
-      "phonetic": "ˈfʌŋ.ki",
-      "pos": "adj.",
-      "definition": "音低节奏强的(爵士、布鲁斯、流行乐);时髦别致的；恶 臭的",
-      "frequency": 10896,
-      "collocations": [
-        "a funky sort of rhythm: 一种音低节奏强的旋律",
-        "quirky,funky and dazzlingly imaginative in design: 非同凡响、时髦别 致且设计极富想像力"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dull",
-      "phonetic": "dʌl",
-      "pos": "vt.",
-      "definition": "&vi. 使…变弱/变暗/变得无生气 adj. 沉闷的；无精打采的；黯 淡的；(天气)阴沉的 n. 沉闷；乏味",
-      "frequency": 5156,
-      "collocations": [
-        "dull blue color: 暗蓝色"
-      ],
-      "etymology": "c.1200,\"stupid,slow of understanding,not quick in perception;\"also,of points or edges,\"blunt,not sharp;\"apparently from Old English dol “dull- witted,foolish,\"or an unrecorded parallel word,or from Middle Low German dul “foolish,reckless”.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dumb",
-      "phonetic": "dʌm",
-      "pos": "adj.",
-      "definition": "哑的；说不出话的；蠢得；愚蠢而恼人的",
-      "frequency": 4712,
-      "collocations": [
-        "a young deaf and dumb man: 一名年轻的聋哑人",
-        "be all struck dumb: 哑口无言"
-      ],
-      "etymology": "Old English dumb,of persons,\"mute,silent,refraining from speaking or unable to speak,\"from Proto-Germanic *dumbaz “dumb,dull,\"which is perhaps from PIE*dheubh-\"confusion,stupefaction,dizziness,\"from root *dheu-(1)\"dust,mist,vapor,smoke,\"also expressing related notions of \"defective perception or wits.\"",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dumbbell",
-      "phonetic": "ˈdʌm.bɛl",
-      "pos": "n.",
-      "definition": "哑铃；笨蛋",
-      "frequency": 12651,
-      "mnemonic": "dumb(哑的)+bell (铃铛) → 哑铃；笨蛋",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "dummy",
-      "phonetic": "ˈdʌ.mi",
-      "pos": "n.",
-      "definition": "人体模型；仿真品；笨蛋；傻瓜",
-      "frequency": 11581,
-      "collocations": [
-        "approach的含义为接近，靠近， pro- 的含义为near,around, 含 义 为 “在……附近”, “在……周围”。"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "approach",
-      "phonetic": "əˈpɹoʊtʃ",
-      "pos": "vt.",
-      "definition": "&vi. (在距离或时间上)靠近；接洽；(在数额、水平或 质量上)接近n.(待人接物或思考问题的)方式；(距离和时间上的)靠近； 接洽；道路",
-      "frequency": 751,
-      "mnemonic": "ap-(=ad: 去)+proach(=come closer,go nearer to: 使靠近；接近的)→靠 近；接近",
-      "collocations": [
-        "approach to healing patients: 治疗病人的方法",
-        "the approach of spring: 春天的来临",
-        "basic approach: 基本方法",
-        "approach the bank for a loan: 向银行申请贷款",
-        "approach sb about/for sth/approach sb about doing sth: 接洽、建议、要 求某人做某事",
-        "a new approach road to the port: 去港口的一条新路",
-        "When several media report that the average time for using computer among college students has approached 40 hours,it set off a new round of concern about their school work.\n笔 记 区\n方法；方式”的表达：method 、way 、approach 、means\n学英语的方法：way/method/means of learning English;learning method; approach to learning English",
-        "Approach 的派生词有approaching,rapprochement 等 。"
-      ],
-      "etymology": "拉丁语prope(=near: 附近)→拉丁语propiare(=come nearer: 更 近)→proach",
-      "examples": [
-        "1)In its early years the organization operated in an unconventional manner that characterized its innovative and entrepreneurial approach to the industry.\n在公司成立的最初几年中，公司以一种非常规的模式运营，对于这个 行业来说，其特点是它的创新和创业式的方法。\n2)When the Commerce Department reported last week that the trade deficit in June approached $50 billion,it set off a new round of economic doomsaying.\n上周商务部报告指出六月的贸易逆差接近500亿美元，这引发了新一 轮的经济灾难论。\n3)But there is no need to approach the research paper assignment with anxiety,and nobody should view the research paper as an obstacle to\novercome.\n但是没必要在对待研究论文作业时感到焦虑，而且不应该有人把研究\n选20000词汇巅峰\n选\n论文看作是一个要去克服的障碍。仿写：当一些媒体报道大学生每周使用电脑的平均时间已经接近40小 时，这引发了新一轮的对他们学业的担忧。When several media report that the average time for using computer among college students has approached 40 hours,it set off a new round of concern about their school work.笔 记 区\n论文看作是一个要去克服的障碍。\n仿写：当一些媒体报道大学生每周使用电脑的平均时间已经接近40小 时，这引发了新一轮的对他们学业的担忧。"
-      ],
-      "rootHint": "liter"
-    },
-    {
-      "word": "approaching",
-      "phonetic": "əˈpɹoʊtʃɪŋ",
-      "pos": "adj.",
-      "definition": "逼近的；接近的",
-      "frequency": 13367,
-      "mnemonic": "approach(接近；临近)+-ing(名词后缀)→逼近的；接近的",
-      "collocations": [
-        "approaching car: 驶来的车辆",
-        "approaching siren: 愈来愈近的警笛声",
-        "approaching tornado: 正在逼近的龙卷风"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "rapprochement",
-      "phonetic": "ˌɹæ.pɹoʊʃˈmɑn",
-      "pos": "n.",
-      "definition": "重归于好；和解",
-      "frequency": 19982,
-      "mnemonic": "re-(=back,again: 再一次)+pproche(=approach:come near)+-ment(名词 后缀)→bring near again: 再一次拉近关系→友好关系的重建；重归于 好；和解",
-      "collocations": [
-        "the process of political rapprochement: 政治和解"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "proximity",
-      "phonetic": "pɹɑkˈsɪm.ə.ti",
-      "pos": "n.",
-      "definition": "(时间或空间)接近；邻近；靠近",
-      "frequency": 6690,
-      "mnemonic": "词根pro- 的含义为near 接近。来自中世纪法语proximité, 含 义 为\nnearness: 接近；密切。来自拉丁语proximitatem, 含 义 为nearness,\nvicinity: 接近；临近。来自proximus, 含义为nearest,adjoining: 最 近 的；邻接的。引申义为lastest,most recent,following;most faithful: 最 近的，最新的；下一个，接着的；准确可靠的。",
-      "collocations": [
-        "in close proximity to: 与……靠得很近，接近 proximity sensor: 近距离传感器",
-        "Proximity的派生词有proximal,approximate,approximately ,approximation 等 。"
-      ],
-      "etymology": "late 15c.,from Middle French proximité “nearness”(14c.),from Latin proximitatem (nominative proximitas)\"nearness,vicinity,\"from proximus \"nearest,next;most direct;adjoining,\"figuratively\"Iatest,most recent; 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 next,following;most faithful,\"superlative of prope \"near”",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "proximal",
-      "phonetic": "ˈpɹɑk.sə.məl",
-      "pos": "adj.",
-      "definition": "近中心的；近身体中心的",
-      "frequency": 18834,
-      "mnemonic": "1727, from Latin proximus \"nearest,next\" .Related:Proximally.\nproxim(=proximity: 接近)+-al(形容词后缀)→nearest,next: 最靠近的\n中心的→近中心的；近身体中心的",
-      "collocations": [
-        "zone of proximal development: 新近发展区"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "approximate",
-      "phonetic": "əˈpɹɑksəmət",
-      "pos": "adj.",
-      "definition": "大概的(数字、时间或方位等);大概的(观点或描述等);近似的 vt.&vi. 接近(某数字);类似，接近",
-      "frequency": 12205,
-      "mnemonic": "ap-(=ad- : 去)+proxim(最接近的)+-ate(动词后缀)→使最接近→近似",
-      "collocations": [
-        "approximate cost: 大概费用",
-        "approximate to the real facts: 接近事实真相",
-        "approximate a day/night sleeping pattern: 近似于日夜分明的睡觉模式\n笔 记 区\n笔 记 区"
-      ],
-      "etymology": "解析：拉丁语proximus(=nearest: 最接近的)→proxim,prope(=near: 接近的)最高级形式。同源词：proximate (近似的),proximal ( 最接近 的),proximity(接近)衍生词：approximation(近似值；近似法；逼近)",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "approximately",
-      "phonetic": "əˈpɹɑksəmətli",
-      "pos": "adv.",
-      "definition": "大概；大约；约莫",
-      "frequency": 2386,
-      "mnemonic": "approximate (大概的)+-1y(副词后缀)→大概；大约；约莫",
-      "collocations": [
-        "approximately equal: 约等于；近似等于",
-        "take approximately seven hours: 大约花了七个小时"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "approximation",
-      "phonetic": "əˌpɹɑksəˈmeɪʃən",
-      "pos": "n.",
-      "definition": "接近；近似；近似值；粗略估计",
-      "frequency": 14071,
-      "mnemonic": "approximate (大概的；近似的)+-ation (名词后缀，表行为) →act of coming near or close: 近似；接近；近似值",
-      "collocations": [
-        "just an approximation: 仅仅是近似值",
-        "approximation of/to sth: 与……相当接近",
-        "approximation method: 近似方法",
-        "linear approximation: 线性近似",
-        "释义：(N-COUNT)接近；近似An approximation is a fact,object,or description which is similar to something else,but which is not exactly the same.",
-        "(N-COUNT) 近似值；粗略估计 An approximation is a number, calculation,or position that is close to a correct number,time,or position, but is not exact.",
-        "peri- 也表示“在附近，在周围”的含义。"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "perimeter",
-      "phonetic": "pəˈɹɪ.mə.tɚ",
-      "pos": "n.",
-      "definition": "(军营等地的)四周[+of]; 周长[+of]6692",
-      "mnemonic": "peri-(=around: 在周围)+-meter(=measure: 测量)→引申词义外缘； 周长",
-      "collocations": [
-        "the perimeter of the airfield: 机场的四周",
-        "the perimeter of the rectangle: 这个长方形的周长\n单词period表示“周期；一段时期”。"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "period",
-      "phonetic": "ˈpɪɹ.i.əd",
-      "pos": "n.",
-      "definition": "一段时间；(某人生活或历史上的)时期；月经；句号",
-      "frequency": 617,
-      "mnemonic": "peri-(=around: 周围)+od(=odos=a going,traveling,a way,path: 一段旅 程；一段路程)→a going around:cycle,circuit,period of time→周期； 循环→一段时间；时期；月经；句号",
-      "collocations": [
-        "a five-week period: 为期五周",
-        "Van Gogh's early period: 凡 · 高的早期生涯"
-      ],
-      "etymology": "15世纪表示“course or extent of time=一段时间”。来自中世纪法语 periode 并且直接来自中世纪拉丁语periodus \"recurring portion,cycle= 循环的部分，周期”。来自拉丁语periodus “a complete sentence=一个 完整的句子”。来自希腊语periodos “cycle,circuit,period of time=循 环，圈，一段时间”。字面意思是“a going around=围绕”。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "periodic",
-      "phonetic": "ˌpɪɹ.i.ˈɑ.dɪk",
-      "pos": "adj.",
-      "definition": "周期(性)的；定期的",
-      "frequency": 7847,
-      "mnemonic": "period(周期；时期)+-ic(形容词后缀)→周期(性)的；定期的",
-      "collocations": [
-        "periodic home visits by nurses: 护士的定期上门探访"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "periodical",
-      "phonetic": "ˌpɪɹ.i.ˈɑ.dɪ.kəl",
-      "pos": "n.",
-      "definition": "(尤指内容严肃或学术性的)期刊 adj. 定期的",
-      "frequency": 13429,
-      "mnemonic": "periodic(周期性的)+-al( 形容词、名词后缀)→引申词义期刊",
-      "collocations": [
-        "books and periodicals: 书籍和期刊",
-        "make periodical visits to her dentist: 定期去看牙医"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "periodically",
-      "phonetic": "ˌpɪɹ.i.ˈɑ.dɪ.kli",
-      "pos": "adv.",
-      "definition": "定期地",
-      "frequency": 7163,
-      "mnemonic": "periodical(周期性的；定期的)+-ly(副词后缀)→定期地",
-      "collocations": [
-        "hold meetings periodically: 定期召开会议",
-        "para- 也有“beside,around”, 表示“在旁边，在周围”的含义。"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "parameter",
-      "phonetic": "pəˈɹæ.mə.tɚ",
-      "pos": "n.",
-      "definition": "参数；界限；范围",
-      "frequency": 5462,
-      "mnemonic": "para-(=beside,subsidiary: 在附近；附属的)+meter(=measure: 测量)→\n为了帮助界定，在附近测量→界限；范围；参数(参考因素) 搭配：to set/define the parameters: 制订/设定规范",
-      "collocations": [
-        "technical parameter: 技术参数….some of the parameters that determine the taste of a wine: 决定葡萄酒 口味的一些因素within the parameters of our loan agreement: 符合贷款协议的范围笔 记 区",
-        "technical parameter: 技术参数\n….some of the parameters that determine the taste of a wine: 决定葡萄酒 口味的一些因素",
-        "within the parameters of our loan agreement: 符合贷款协议的范围\n笔 记 区"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paradise",
-      "phonetic": "ˈpɛɹ.ə.daɪs",
-      "pos": "n.",
-      "definition": "(某些宗教所指的)天堂；乐园(指美好的环境);(某类 活动或某类人的)完美去处；极乐；伊甸园",
-      "frequency": 6927,
-      "mnemonic": "para-(在周围)+-dise(to make,to form a wall: 形成；建造)→在周围修 建花园→天堂；乐园",
-      "collocations": [
-        "a tropical paradise: 热带的人间乐土",
-        "a birdwatcher's paradise: 鸟类观察者的乐园",
-        "the idea of paradise: 至乐之事",
-        "a paradise on earth: 人间天堂"
-      ],
-      "etymology": "来自希腊语paradeisos, 伊甸园，天堂，花园。最早用于指圣经中所 描述的伊甸园，引申词义天堂，天国等。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paranoia",
-      "phonetic": "ˌpɛɹ.əˈnɔɪ.ə",
-      "pos": "n.",
-      "definition": "多疑；恐惧；偏执狂；妄想狂",
-      "frequency": 10791,
-      "mnemonic": "para-(=beside,beyond: 在旁边；在周围)+-noia(=noos=mind: 思想)→\n在周围思想，即胡思乱想→引申词义妄想症；偏执狂 搭配：the mounting paranoia: 越来越重的疑惧心理",
-      "collocations": [
-        "acute paranoia: 急性偏执狂\n释义：(N-UNCOUNT) 疑惧；多疑 If you say that someone suffers from paranoia,you think that they are too suspicious and afraid of other people. (N-UNCOUNT) 偏执狂；妄想症 In psychology,if someone suffers from paranoia,they wrongly believe that other people are trying to harm them, or believe themselves to be much more important than they really are."
-      ],
-      "etymology": "\"mental disorder characterized by systematized delusions,\"1848(earlier paranoea 1811),from Greek paranoia\"mental derangement,madness,\" from paranoos “mentally ill,insane”.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paranoid",
-      "phonetic": "ˈpɛɹ.ə.nɔɪd",
-      "pos": "adj.",
-      "definition": "多疑的；恐惧的；患偏执狂的；患妄想狂的 n. 偏 执狂；妄想狂",
-      "frequency": 8822,
-      "mnemonic": "笔 记 区 助记：paranoia(多疑；偏执狂)+-oid(类……;像……;似……)→多疑的；患",
-      "collocations": [
-        "a paranoid politician: 多疑的政治家",
-        "paranoid delusions: 偏执狂的错觉",
-        "sad ,deluded paranoids: 可悲的、被蒙蔽的妄想狂们\n释义：(人)极端疑惧的 If you say that someone is paranoid,you mean that they are extremely suspicious and afraid of other people.\n(ADJ)患偏执狂的；患妄想症的 Someone who is paranoid suffers from the mental illness of paranoia."
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "parasite",
-      "phonetic": "ˈpɛɹ.ə.saɪt",
-      "pos": "n.",
-      "definition": "寄生虫；寄生植物；靠他人为生的人；寄生虫",
-      "frequency": 8637,
-      "mnemonic": "para-(=beside: 一旁)+-site(=sitos: 食物) →在旁边混口饭吃 →寄生 虫；靠他人为生的人\nparasite (寄生虫)+-ic(形容词后缀，与……有关)→ (病)由寄生物引起 的；寄生的；寄生虫似的",
-      "collocations": [
-        "a vast range of parasites: 各种各样的寄生虫",
-        "parasiti c [pærə'sitɪk] adj. ( 病)由寄生物引起的；(动植物)寄生的；(人或组\n织)依赖他人过活的，寄生虫似的(等于parasitical)16783",
-        "tropical parasitic diseases: 热带寄生虫病",
-        "a parasitic new middle class: 寄生性的中产阶级\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
-      ],
-      "etymology": "和古代中国一样，古希腊的贵族或富豪家中也会养一些食客。这些 食客不从事劳动，专靠给主人出谋划策或拍须溜马来混口饭吃。在 希腊语中这种食客被称为parasitos, 由构成，字面意思就是“在旁边 吃饭”。该词经拉丁语进入英语后，最初表示“靠谄媚他人而获得 利益的人”。18世纪后，parasite一词逐渐被科学家用来表示“寄生 动物”或“寄生植物”,引申为“依赖他人而生活的人”。例如： Don't be a parasite, earn your way in life.(别当寄生虫，要自食其力)。 原希腊词中sitos这一成分也进入了英语，但被作为一个组合语素，拼 作sito-, 常见于一些英语科技术语，并还保留着它的原义“食物”, 如sitology(饮食学),sitomania(贪食症),sitophobia(畏食)等。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paramedic",
-      "phonetic": "ˌpɛɹ.əˈmɛ.dɪk",
-      "pos": "n.",
-      "definition": "(非医生或护士的)医疗护理人员；医务辅助人员",
-      "frequency": 10648,
-      "mnemonic": "para-(=beside: 在旁边)+medic (医生)→在医生旁边进行辅助的人员→",
-      "collocations": [
-        "have a paramedic on every ambulance: 在每辆救护车里配备一名护理 人员",
-        "释义：(N-COUNT) 急救医士；医务辅助人员A paramedic is a person whose",
-        "training is similar to that of a nurse and who helps to do medical work."
-      ],
-      "etymology": "\"medical technician,\"1970,back-formation from paramedical.The meaning \"medical corpsman who parachutes\"is 1951 from para(chute)+medic.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paramilitary",
-      "phonetic": "ˌpɛɹ.əˈmɪ.lə.tɛɹ.i",
-      "pos": "adj.",
-      "definition": "(组织)准军事性的；非法军事组织的 n. 准军事组织成员；非法军事组织成员",
-      "frequency": 12285,
-      "mnemonic": "para-(alongside,irregular,abnormal: 在旁边；非正规的；不正常 的)+military(军队)→在正规军队边缘的，不正规的军队→准军事的； 非法军事组织的(相应的名词用法同)",
-      "collocations": [
-        "paramilitary forces: 准军事部队",
-        "paramilitary groups: 非法军事组织",
-        "paramilitaries and army: 准军事组织成员和部队"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paragon",
-      "phonetic": "ˈpɛɹ.ə.ɡɑn",
-      "pos": "n.",
-      "definition": "完人；杰出典范",
-      "frequency": 20076,
-      "mnemonic": "para-(=on the side: 在旁边)+gon(=whetstone: 磨刀石；试金石)→将 要检验的金子在试金石上摩擦，试金石是衡量价值的标准，因此经过\n笔 记 区 试金石检验的都是完美之物→完人；典范",
-      "collocations": [
-        "a paragon of neatness,efficiency,and reliability: 整洁、高效、真实可 信的杰出典范",
-        "the paragon of virtue: 美德典范",
-        "parachute 含义为“降落伞”。"
-      ],
-      "etymology": "古代西方人为了检验金子的纯度，常常使用一种用纹理细密的深色 玉石做成的试金石(touchstone) 。将要检验的金子在试金石上摩擦，根 据划痕的颜色来判断金子的纯度。这种试金石在意大利语中被称为 paragone 。因为试金石是衡量价值的标准，因此衍生出“完美之物、 模范”之意。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "parachute",
-      "phonetic": "ˈpɛɹ.ə.ʃut",
-      "pos": "n.",
-      "definition": "降落伞 vt.&vi.使空降；跳伞 parachute into.…突然派到(某机构以帮助该机构)vt. 空投",
-      "frequency": 9898,
-      "mnemonic": "Parachut e直接来自法语，由法国著名发明家、热气球飞行先驱布兰 沙尔(Blanchard) 所创造。布兰沙尔是一名勇敢的冒险家和杰出的发明 家。1783年，法国人利诺曼(Lenormand) 在达芬奇等前人的研究基础 上，研制了一种降落装置，并利用它从高塔上降落。布兰沙尔听说 后，决心研制能够帮助人从失事气球中逃生的降落装置。两年后，他 研制成功一种降落装置，可以在气球失事时，帮助人们从高空气球安 全降落至地面，因此他将其命名为parachute, 中文译为“降落伞”。 1793年，布兰沙尔所研制的降落伞真的救了他一命。从此以后，布兰 沙尔所研制的parachute广为人知。虽然后人在其基础上不断改进降落 伞，但为了纪念他，人们一直沿用parachute这个名字来称呼降落伞。\npara-(=defense against: 抵抗；应对)+chute(=a fall: 跌落)→that which protects against a fall: 应对高空跌落(的防护装置)→ 降落伞；跳伞",
-      "collocations": [
-        "open the parachutes: 打开降落伞",
-        "a parachute drop/jump: 空投；跳伞",
-        "parachute food,clothing,blankets,medicine,and water into the rugged mountainous border region: 把食物、衣服、毯子、药和水空投到崎岖 的边界山区",
-        "be parachuted into the company: 被突然派到公司"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "paratrooper",
-      "phonetic": "ˈpɛɹ.ə.tɹu.pɚ",
-      "pos": "n.",
-      "definition": "伞兵；空降兵",
-      "frequency": 17856,
-      "mnemonic": "parachut e(降落伞；跳伞)+trooper ( 骑兵；装甲兵)→跳伞的士兵→伞 兵；空降兵",
-      "collocations": [
-        "paratrooper fracture: 跳伞者骨折"
-      ],
-      "etymology": "*gwhī-,Proto-Indo-European root meaning \"thread,tendon.\"It is the hypothetical source of/evidence for its existence is provided by:Avestan jya-\"bowstring;\"Latin filum “a thread,string;\"Armenian jil \"sinew, string,line;”Lithuanian gysla\"vein,sinew;\"Old Church Slavonic zila \"vein.\"",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "file",
-      "phonetic": "faɪl",
-      "pos": "n.",
-      "definition": "文件；卷宗vt.&vi.提起 vt.提交；使归档 vi.排成纵列行进",
-      "frequency": 1758,
-      "mnemonic": "来自拉丁语filum, 线。引申词义文件，文献，因古代文献多用线缝",
-      "collocations": [
-        "file a housing story: 提交一份有关住房的报道",
-        "file alphabetically: 按字母顺序来归档\non file: 存档",
-        "the ants file down the hill: 蚂蚁排成纵列行进走下小山"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "profile",
-      "phonetic": "ˈpɹoʊ.faɪl",
-      "pos": "n.",
-      "definition": "侧面轮廓；人物简介；(书面的)描述 vt. 对……作介绍； 作传",
-      "frequency": 2699,
-      "mnemonic": "pro-(前面的)+-fil-(to draw in outline: 画出轮廓)+-e→ 画出某物的轮廓 → 引申义为从侧面；人物简介；描述；作传\nprofile(画出轮廓；概括)+-ing(名词后缀)→给某类人画出轮廓；进行 归纳概括→一般指资料收集；特殊用法为特征分析；群体定性(尤指 罪犯和某类容易惹上警察的人)",
-      "collocations": [
-        "handsome profile: 英俊的侧面轮廓",
-        "show...in profile: 从侧面显示",
-        "comparative profiles of…:有关……的对比简介",
-        "the FBI profile of..: 联邦调查局对……的描述",
-        "pioneer psychological profiling: 开创了犯罪心理描画",
-        "someone have a high profile: 某人受到高度关注",
-        "keep a low profile: 保持低姿态；避免引人注目\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区 profiling ['prəufarliŋ] n .(有关人或事物的)资料搜集；(尤指罪犯)特征分析；\n群体定性(因警察认为某类人较可能会犯罪而截查他们)19408",
-        "customer profiling: 客户情况收集",
-        "offender profiling: 罪犯(尤指谋杀犯)特征分析",
-        "racial profiling: 种族定性"
-      ],
-      "etymology": "1650s,“a drawing of the outline of anything,\"from older Italian profilo “a drawing in outline,\"from profilare “to draw in outline”.Meaning “a side view”is from 1660s.Meaning “biographical sketch,character study”is from 1734.",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "filament",
-      "phonetic": "ˈfɪləmənt",
-      "pos": "n.",
-      "definition": "细丝；(电灯泡的)灯丝",
-      "frequency": 14292,
-      "mnemonic": "fil-(线)+-a-+-ment(名词后缀)→线状物→细丝；灯丝",
-      "collocations": [
-        "glass/metal filaments: 玻璃/金属丝"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "fillet",
-      "phonetic": "fɪˈleɪ",
-      "pos": "n.",
-      "definition": "无骨肉片；去骨鱼片 vt. 剔去(鱼、肉的)骨头；把(鱼、肉)切 成片",
-      "frequency": 10984,
-      "mnemonic": "fil-(线)+-let(名词后缀)→用丝线穿在一起的鱼片→去骨鱼片；无骨肉 片；使去骨",
-      "collocations": [
-        "chicken breast fillets: 鸡脯肉",
-        "roll the fillets in flour: 把鱼片在面粉里滚一下"
-      ],
-      "etymology": "因这种(去骨)鱼片用丝线穿在一起而得名。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "filet",
-      "phonetic": "fɪˈleɪ",
-      "pos": "n.",
-      "definition": "肉片；鱼片；(猪、牛等的)里脊",
-      "frequency": 18772,
-      "mnemonic": "filet=fillet",
-      "collocations": [
-        "filet of beef: 牛排片"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "test",
-      "phonetic": "tɛst",
-      "pos": "vt.",
-      "definition": "试验；测试；考验 n. 试验；测试；考验",
-      "frequency": 576,
-      "collocations": [
-        "something\"is recorded from 1590s.\n选20000词汇巅峰\n选\n笔 记 区\n笔 记 区",
-        "put something to the test: 检验某物"
-      ],
-      "etymology": "n.S ense of\"trial or examination to determine the correctness of v.1748,\"to examine the correctness of,\"from test(n.),on the notion of“put to the proof.”Earlier “assay gold or silver”in a test(c.1600).",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "testing",
-      "phonetic": "ˈtɛstɪŋ",
-      "pos": "adj.",
-      "definition": "考验人的n. 检测",
-      "frequency": 2524,
-      "collocations": [
-        "the most testing time: 最考验人的时候",
-        "product testing: 产品检测"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "testify",
-      "phonetic": "ˈtɛstəfaɪ",
-      "pos": "vt.",
-      "definition": "&vi.(在法庭上)作证 vt.证实；证明",
-      "frequency": 2816,
-      "mnemonic": "test (实验；测试)+-ify(使动词后缀)→使(做)实验→证明，证实(实验的 目的都是为了“证明和证实”某项假设)",
-      "collocations": [
-        "testify against/for sb/testify to/about sth: (尤指出庭)作证；证明"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "testimony",
-      "phonetic": "ˈtɛstəmoʊni",
-      "pos": "n.",
-      "definition": "证据；证词",
-      "frequency": 2683,
-      "mnemonic": "testi(=testify: 证明)+-mony(名词后缀)→能作证明的东西→证据；证明\ntest-(=testify: 证明)+a+-ment(名词后缀)→证据；证明",
-      "collocations": [
-        "bear testimony to: 证明了 ……",
-        "a sworn testimony: 宣誓证词\n同义词：testament ['testom(ant] n. 证据；证明；临终遗嘱(will)10977",
-        "a testament to the skill: 显示了技术水平",
-        "new/old testament: 新/旧约全书",
-        "last will and testament: 临终遗嘱"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "testimonial",
-      "phonetic": "ˌtɛstəˈmoʊniəl",
-      "pos": "n.",
-      "definition": "( 常指雇主证明某人品德和能力的)证明书；奖 品；表彰会",
-      "frequency": 16296,
-      "collocations": [
-        "a glowing testimonial: 充满赞誉的推荐信",
-        "a testimonial game: 纪念赛"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "protest",
-      "phonetic": "pɹəˈtɛst",
-      "pos": "vt.",
-      "definition": "&vi. 抗议；申辩 vi. 断言(断然否认)n. 抗议；声 明",
-      "frequency": 2858,
-      "mnemonic": "pro-(向前)+-test (尝试；试)→ 向前“试一试”(指“展示”自己的不\n满)→“示”威；抗议；反对→ (坚决表示)抗议；申辩；断然否认 搭配：protest against: 反对；对……提出抗议",
-      "collocations": [
-        "without protest: 心甘情愿地",
-        "under protest: 抗议着；极不乐意地",
-        "organize protests: 组织抗议"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "protester",
-      "phonetic": "pɹəˈtɛs.tɚ",
-      "pos": "n.",
-      "definition": "(公开)抗议者；反对者",
-      "frequency": 6282,
-      "mnemonic": "protest(抗议；反对)+-er(名词后缀，表示人)→ (公开)抗议者；反对者",
-      "collocations": [
-        "thousands of protesters: 数千名抗议者"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "protestant",
-      "phonetic": "ˈpɹɑ.tə.stənt",
-      "pos": "n.",
-      "definition": "新教徒(16世纪脱离天主教的基督教教派成员)adj.新教的；新教徒的",
-      "frequency": 6220,
-      "mnemonic": "protest(抗议；反对)+-ant (名词后缀，表示人)→抗议(买卖赎罪券)的人 →对罗马天主教抱抗议态度的人→新教徒；新教的",
-      "collocations": [
-        "a Protestant church/country: 新教教堂/国家"
-      ],
-      "etymology": "一五一七年九月四日，马丁 ·路德发表了他的九十五条论纲；同年十 月三十一日马丁路德在教堂大门所张贴《有关赎罪券辩论之邀请》, 反对买卖赎罪券，由此揭开了欧洲宗教改革的序幕。那些在抗议文件 上签名及拥护抗议文件的人就被称为“抗议者”(Protestant) 。后来， 该词被用来泛指对罗马公教(即天主教)抱抗议态度的诸多新教派，包 括路德宗、加尔文宗、英国国教安立甘宗，统称为“新教”。",
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "protestantism",
-      "phonetic": "ˈpɹɑ.tə.stən.tɪz.əm",
-      "pos": "n.",
-      "definition": "新教；新教教义",
-      "frequency": 16395,
-      "mnemonic": "protestant(新教的)+-ism(名词后缀，表示各种主义，宗教)→新教；新 教教义",
-      "collocations": [
-        "the spread of Protestantism: 新教的传播"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "contest",
-      "phonetic": "kənˈtɛst",
-      "pos": "vt.",
-      "definition": "对……提出抗辩；参加(竞选或比赛)n. 竞赛；争夺",
-      "frequency": 3087,
-      "mnemonic": "con-(共同)+test(测试)→ vt. 竞赛；竞争(=contend: 竞争)",
-      "collocations": [
-        "contest the elections: 参加竞选",
-        "contest the case: 对本案提出抗辩",
-        "beauty contest: 选美比赛"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "contestant",
-      "phonetic": "kənˈtɛstənt",
-      "pos": "n.",
-      "definition": "参赛者；竞争者",
-      "frequency": 8934,
-      "collocations": [
-        "apply to be a contestant: 报名做参赛者"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "contested",
-      "phonetic": "kənˈtɛstɪd",
-      "pos": "adj.",
-      "definition": "争夺的；有争议的",
-      "frequency": 12736,
-      "collocations": [
-        "contested concepts: 争议性概念",
-        "teste r ['testə] n. 测试员；测试器；(商店里的)小包装试用品(如香水)7143",
-        "testers of new software: 新软件测试员",
-        "a battery tester: 电池测试仪"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "attest",
-      "phonetic": "əˈtɛst",
-      "pos": "vt.",
-      "definition": "&vi. 证明 vi. 证实[+to]8795",
-      "mnemonic": "at(=ad: 去)+test(bear witness to,give proof to: 证明)→证明；证实",
-      "collocations": [
-        "attest to his courage: 证实了他的勇气",
-        "be attested by two witnesses: 有两名见证人"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "detest",
-      "phonetic": "dɪ.ˈtɛst",
-      "pos": "vt.",
-      "definition": "憎恨；厌恶",
-      "frequency": 16929,
-      "collocations": [
-        "detest each other on sight: 互相看着就不顺眼"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "test-retest",
-      "phonetic": "ˌtɛstˈɹitɛst",
-      "pos": "n.",
-      "definition": "再测；重测信度",
-      "frequency": 17738,
-      "collocations": [
-        "test-retest reliability: 重测信度"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "untested",
-      "phonetic": "ʌnˈtɛstɪd",
-      "definition": "(物/药物)未经实验的；(人)未经考验的",
-      "frequency": 17246,
-      "collocations": [
-        "an untested force: 未经考验的军队",
-        "give untested drugs to people: 将未经实验的药物发给人"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "tested",
-      "phonetic": "ˈtɛstɪd",
-      "pos": "adj.",
-      "definition": "经受过考验的；经实验的",
-      "frequency": 19252,
-      "collocations": [
-        "clinically tested: 临床验证的"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "subtest",
-      "phonetic": "ˈsʌb.tɛst",
-      "pos": "n.",
-      "definition": "分测验",
-      "frequency": 15404,
-      "collocations": [
-        "sub-(进一步分的)+test (测验) →分测验"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "tentative",
-      "phonetic": "ˈtɛn.tə.tɪv",
-      "pos": "adj.",
-      "definition": "不确定的；初步的；犹豫的",
-      "frequency": 7868,
-      "mnemonic": "tent-(=test: 测试；实验)+-ative(=ate+ive: 复合形容词后缀) →实验 (性)的；尝试(性)的",
-      "collocations": [
-        "a tentative plan: 一个试探性计划",
-        "a tentative agreement: 初步协议"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    },
-    {
-      "word": "tentatively",
-      "phonetic": "ˈtɛn.tə.tɪv.li",
-      "pos": "adv.",
-      "definition": "初步地；犹豫地",
-      "frequency": 10865,
-      "collocations": [
-        "suggest tentatively: 犹豫地建议",
-        "tentatively schedule to: 初步定在"
-      ],
-      "examples": [],
-      "rootHint": "liter"
-    }
-  ]
+    "id": "liter",
+    "source": "textbook-4",
+    "chapter": "20",
+    "chapterOrder": 120,
+    "titleZh": "letter 表示文字",
+    "semanticLabel": "letter 表示文字",
+    "meaningEn": "letter” 表示“文字”",
+    "meaningZh": null,
+    "roots": [
+        "liter"
+    ],
+    "words": [
+        {
+            "word": "lettering",
+            "phonetic": "ˈlɛt.ɚ.ɪŋ",
+            "pos": "n.",
+            "definition": "字母，字；写字；印字",
+            "frequency": 16764,
+            "collocations": [
+                "with white lettering: 写有白字"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "newsletter",
+            "phonetic": "ˈnuz.ˌlɛt.ɚ",
+            "pos": "n.",
+            "definition": "( 组织)内部通讯",
+            "frequency": 6236,
+            "collocations": [
+                "news(新闻)+letter(文字)→新闻通讯→ (某组织的)内部通讯；简讯"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literal",
+            "phonetic": "ˈlɪ.tɚ.əl",
+            "pos": "adj.",
+            "definition": "字面上的；按字面意思的",
+            "frequency": 7855,
+            "mnemonic": "liter-(=letter: 字母；文字)+-al(的)→文字的→字面上的；按字面意思的",
+            "collocations": [
+                "a literal translation: 字面翻译",
+                "Literal的派生词有literally,literate,literacy,literary,literature,illiterate, illiteracy,obliterate等。"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literally",
+            "phonetic": "ˈlɪ.tɚ.ə.li",
+            "pos": "adv.",
+            "definition": "按字面；(强调事实可能令人惊讶)真正地，确实地",
+            "frequency": 2492,
+            "collocations": [
+                "take literally: 按字面意思来理解",
+                "literally hundreds of prizes to win: 真的有好几百份奖品可以领"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literate",
+            "phonetic": "ˈlɪ.tɚ.ɪt",
+            "pos": "adj.",
+            "definition": "有读写能力的；有文化的；熟悉文学的",
+            "frequency": 12413,
+            "mnemonic": "liter-(=letter: 文字；字母)+-ate(形容词后缀)→能读懂文字的→受过教 育的，有学问的",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literacy",
+            "phonetic": "ˈlɪ.tɚ.ə.si",
+            "pos": "n.",
+            "definition": "n. 有读写能力；有文化",
+            "frequency": 5225,
+            "mnemonic": "liter-(=letter: 文字；字母)+-acy(名词后缀)→知道文字→识字；有文化\nlitera-(=literal : 文字的)+-ure(名词后缀)→ 由文字(组成)的东西→文学\nil-(表否定)+liter-(=letter: 字母；文字)+-ate(的)→不知道文字的→文 盲的，未受过教育的；文盲",
+            "collocations": [
+                "basic literacy skills: 基本的读写技巧literary ['lrt()(rə)ri] adj. 文学的；书面的；爱好文学的2723",
+                "literary taste: 文学品味a literary man: 文人literature ['lt(ə)rətʃə] n. 文学；文献；著作1558",
+                "great works of literature: 文学巨著illiterate [r'lit(a)rət] adj.文盲的n. 文盲12600",
+                "a subclass of illiterates: 文盲阶层",
+                "not fully literate: 半文盲",
+                "basic literacy skills: 基本的读写技巧"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literary",
+            "phonetic": "ˈlɪ.tə.rɛ.ri",
+            "pos": "adj.",
+            "definition": "文学的；书面的；爱好文学的",
+            "frequency": 2723,
+            "collocations": [
+                "literary taste: 文学品味",
+                "a literary man: 文人"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "literature",
+            "phonetic": "ˈlɪ.tɚ.ə.tʃɚ",
+            "pos": "n.",
+            "definition": "文学；文献；著作",
+            "frequency": 1558,
+            "mnemonic": "litera-(=literal : 文字的)+-ure(名词后缀)→ 由文字(组成)的东西→文学",
+            "collocations": [
+                "great works of literature: 文学巨著"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "illiterate",
+            "phonetic": "ɪˈlɪ.tə.rət",
+            "pos": "adj.",
+            "definition": "文盲的n. 文盲",
+            "frequency": 12600,
+            "mnemonic": "il-(表否定)+liter-(=letter: 字母；文字)+-ate(的)→不知道文字的→文 盲的，未受过教育的；文盲",
+            "collocations": [
+                "a subclass of illiterates: 文盲阶层"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "illiteracy",
+            "phonetic": "ɪˈlɪ.tə.rə.si",
+            "pos": "n.",
+            "definition": "文盲",
+            "frequency": 17177,
+            "mnemonic": "eliminate illiteracy: 扫除文盲",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "obliterate",
+            "phonetic": "əˈblɪ.tə.ˌreɪt",
+            "pos": "vt.",
+            "definition": "毁掉；覆盖；清除",
+            "frequency": 10665,
+            "mnemonic": "ob-(against: 反对)+liter(字母；文字)+-ate (动词后缀)→把字母抹掉， 使其消失、清除→毁掉；覆盖；清除",
+            "collocations": [
+                "obliterate the world several times over: 摧毁这个世界好几次 obliterate their footprints: 覆盖了他们的足迹",
+                "obliterate from his memory: 从他的记忆中消失了"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "patent",
+            "phonetic": "ˈpæ.tənt",
+            "pos": "n.",
+            "definition": "专利权adj. 有专利的；显而易见的v.取得……的专利权；授予专利",
+            "frequency": 4454,
+            "mnemonic": "patent→ 展开的，打开的→ 明显的→ 引申义为专利权，取得……的专 利权",
+            "collocations": [
+                "to apply for/obtain a patent on an invention: 申请/获得发明专利权"
+            ],
+            "etymology": "late 14c.,“open letter or document from some authority=权威发布的公 开信或文件，”盎格鲁-法语lettre patent的简写，字面含义为“open letter=公开信”(13世纪晚期),来自古法语patente, 含义为“open=打 开的”。来自拉丁语patentem“open,lying open=打开的，”patere的 现在分词形式“lie open,be open=开着，打开的”(来自词根*pete-“to spread=展开”)。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "patented",
+            "phonetic": "ˈpæ.tən.tɪd",
+            "pos": "adj.",
+            "definition": "专利的",
+            "frequency": 18219,
+            "collocations": [
+                "patented product: 专利产品"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "patently",
+            "phonetic": "ˈpæ.tənt.li",
+            "pos": "adv.",
+            "definition": "毫无疑问；显然",
+            "frequency": 17067,
+            "mnemonic": "patently=clearly",
+            "collocations": [
+                "patently obvious: 显然"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sing",
+            "phonetic": "sɪŋ",
+            "pos": "vt.",
+            "definition": "&vi. 唱(歌);演唱；鸣；啼",
+            "frequency": 1016,
+            "collocations": [
+                "sing a different tune: 改变观点(或态度);改弦易辙",
+                "sing along(with sb./to sth.): 随着(某人、唱片等)唱"
+            ],
+            "etymology": "Old English singan “to chant,sing,celebrate,or tell in song,”also used of birds.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "singer",
+            "phonetic": "ˈsɪŋɚ",
+            "pos": "n.",
+            "definition": "歌手；歌唱家",
+            "frequency": 2844,
+            "collocations": [
+                "a wonderful singer: 优秀的歌手"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "singing",
+            "phonetic": "ˈsɪŋɪŋ",
+            "pos": "n.",
+            "definition": "唱歌；歌唱",
+            "frequency": 6587,
+            "collocations": [
+                "a singing teacher: 声乐教师",
+                "beautiful singing voice: 一副唱歌的好嗓子"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "song",
+            "phonetic": "sɔŋ",
+            "pos": "n.",
+            "definition": "歌曲；歌唱；鸟鸣声",
+            "frequency": 854,
+            "collocations": [
+                "burst into song/break into song: 开始唱歌",
+                "folk song: 民歌"
+            ],
+            "etymology": "Old English sang\"voice,song,art of singing;metrical composition adapted for singing,psalm,poem,\"from Proto-Germanic *songwho-, from PIE*songwh-o-\"singing,song,\"from *sengwh-\"to sing,make an incantation”.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "songbird",
+            "phonetic": "ˈsɔŋbɝd",
+            "pos": "n.",
+            "definition": "鸣鸟",
+            "frequency": 17362,
+            "mnemonic": "song (歌唱)+bird(鸟)→歌唱的鸟→鸣鸟",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "songwriter",
+            "phonetic": "ˈsɔŋˌraɪtɚ",
+            "pos": "n.",
+            "definition": "词(曲)作者",
+            "frequency": 11741,
+            "mnemonic": "song(歌曲)+writer(作者)→词(曲)作者",
+            "collocations": [
+                "one of rock'n'roll's greatest songwriters: 摇滚乐界最伟大的词曲作者 之一"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "songwriting",
+            "phonetic": "ˈsɔŋˌraɪtɪŋ",
+            "pos": "n.",
+            "definition": "歌曲创作",
+            "frequency": 19764,
+            "mnemonic": "song (歌曲)+writing (创作) →歌曲创作",
+            "collocations": [
+                "show the power of good songwriting: 在作曲上展现出过人的才华",
+                "Chant 表示“反复唱；圣歌；赞美诗”等含义。同样表达“歌唱，声音” 的词根还有“cent- ,cant-, chant-,chan- ”等。"
+            ],
+            "etymology": "词根为kan- 。Proto-Indo-European root meaning \"to sing.\"It is the hypothetical source of/evidence for its existence is provided by:Greek eikanos \"cock,\"literally \"bird who sings(for sunrise);\"Latin cantare, canere \"to sing;\"Old Irish caniaid \"sings,\"Welsh canu “sing;\"Old English 选20000词汇巅峰 选 hana \"cock.\"笔 记 区 hana \"cock.\" 笔 记 区",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "chant",
+            "phonetic": "tʃænt",
+            "pos": "n.",
+            "definition": "重复的话语；圣歌；赞美诗 vt.&vi.反复唱；反复呼喊",
+            "frequency": 6988,
+            "collocations": [
+                "chant slogans: 反复地喊着口号chant and pray: 唱圣歌祈祷"
+            ],
+            "etymology": "古罗马宗教活动中经常有反复吟唱的环节，既用来赞颂神灵，又用于 修炼内心。这种反复吟唱就是chant, 做动词时表示“反复吟唱”, 作名词时表示反复吟唱的“圣歌”。 chant 来自拉丁语词根cant- (吟 唱),经由古法语进入英语时，c 演变成了ch, 这也是法语单词的常见 拼写风格。除此以外，词根cant-(吟唱)的变体形式还有cent-。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "enchant",
+            "phonetic": "ɪn.ˈtʃænt",
+            "pos": "vt.",
+            "definition": "使陶醉；施魔法于",
+            "frequency": 18216,
+            "mnemonic": "同义词为delight,bewitch\nen-(=upon,into: 关于；进入)+chant(=to sing: 吟唱)→有关吟唱→对\n着……念咒语、施展魔法，从而控制人的思想→使陶醉；施魔法于 搭配：be enchanted by the house: 被这幢房子给迷住了",
+            "collocations": [],
+            "etymology": "late 14c.,literal and figurative,from Old French enchanter \"bewitch, charm,cast a spell”(12c.),from Latin incantare “to enchant,fix a spell upon”.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "enchanted",
+            "phonetic": "ɪn.ˈtʃæn.tɪd",
+            "pos": "adj.",
+            "definition": "被施魔法的；有魔法的",
+            "frequency": 15555,
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "enchanting",
+            "phonetic": "ɪn.ˈtʃæn.tɪŋ",
+            "pos": "adj.",
+            "definition": "迷人的",
+            "frequency": 18134,
+            "collocations": [
+                "an absolutely enchanting child: 一个特别招人喜爱的孩子",
+                "enchantmen t [in'tfa:ntm(ə)nt] n. 魅力；陶醉；(童话及传说中的)魔法；魔咒",
+                "its own peculiar enchantment: 其自身独特的魅力",
+                "enchantment with orchids: 对兰花的痴迷"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "disenchanted",
+            "phonetic": "ˌdɪs.ɪnˈtʃæn.tɪd",
+            "pos": "adj.",
+            "definition": "不再抱幻想的",
+            "frequency": 18978,
+            "mnemonic": "笔 记 区 助记：dis-(not: 不)+enchanted (陶醉的)→不再陶醉的→不再抱幻想的",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "accent",
+            "phonetic": "ˈæk.sɛnt",
+            "pos": "n.",
+            "definition": "n. 口音；强调；重音v.着重；强调",
+            "frequency": 4181,
+            "mnemonic": "ac-(=to: 来)+-cent(=chant:a singing: 歌曲)→来唱歌→强调；重音；口音(重口音的方言就像唱歌一样)\nac-(=to: 来)+centu(=a singing: 唱歌)+-ate (动词后缀)→emphasize,place an accent or emphasis on: 强调；着重；使突出\nin-(=in,into: 进入；使)+-cent(=to sing: 歌唱；吟唱)+-ive(形容词后缀)→使某人唱歌→引申为义鼓励，刺激",
+            "collocations": [
+                "a slight southern accent: 一点南方口音a strong/broad accent(=one that is very noticeable): 浓重的口音accentuate [ək'sentfuert;-tju-] vt. 着重；强调；使突出11144",
+                "accentuate his large round face: 突出了他的大圆脸incentive [in'sentiv] n. 激励；鼓励2750",
+                "tax incentives to encourage savings: 鼓励储蓄的税收激励措施 incentive system: 奖励制度charm[tfa:m] n. 魅力；符咒 vt. (用魅力)取悦4822",
+                "lose none of its original charm: 从未丧失其最初的魅力a man of great charm and distinction: 一个魅力十足、地位显赫的男人",
+                "grow disenchanted with politics: 对政治不再抱幻想",
+                "a slight southern accent: 一点南方口音",
+                "a strong/broad accent(=one that is very noticeable): 浓重的口音"
+            ],
+            "etymology": "c.1300,\"to recite or cast a magic spell,\"from Old French charmer(13c.) \"to enchant,to fill(someone)with desire(for something);to protect,cure, treat;to maltreat,harm,\"from Late Latin carminare,from Latin carmen “song,verse,enchantment, religious formula”. 来自拉丁词carmen, 唱 歌，念咒。后来原来的“咒语”含义反而消失了，衍生出“魅力、魔 力”等含义。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "accentuate",
+            "phonetic": "ək.ˈsɛn.tʃu.eɪt",
+            "pos": "vt.",
+            "definition": "着重；强调；使突出",
+            "frequency": 11144,
+            "mnemonic": "ac-(=to: 来)+centu(=a singing: 唱歌)+-ate (动词后缀)→emphasize,",
+            "collocations": [
+                "place an accent or emphasis on: 强调；着重；使突出 搭配：accentuate his large round face: 突出了他的大圆脸"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "incentive",
+            "phonetic": "ɪnˈsɛn.tɪv",
+            "pos": "n.",
+            "definition": "激励；鼓励",
+            "frequency": 2750,
+            "mnemonic": "in-(=in,into: 进入；使)+-cent(=to sing: 歌唱；吟唱)+-ive(形容词后\n缀)→使某人唱歌→引申为义鼓励，刺激",
+            "collocations": [
+                "tax incentives to encourage savings: 鼓励储蓄的税收激励措施 incentive system: 奖励制度"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "charm",
+            "phonetic": "tʃɑrm",
+            "pos": "n.",
+            "definition": "魅力；符咒 vt. (用魅力)取悦",
+            "frequency": 4822,
+            "collocations": [
+                "lose none of its original charm: 从未丧失其最初的魅力",
+                "a man of great charm and distinction: 一个魅力十足、地位显赫的男人"
+            ],
+            "etymology": "c.1300,\"to recite or cast a magic spell,\"from Old French charmer(13c.) \"to enchant,to fill(someone)with desire(for something);to protect,cure, treat;to maltreat,harm,\"from Late Latin carminare,from Latin carmen “song,verse,enchantment, religious formula”. 来自拉丁词carmen, 唱 歌，念咒。后来原来的“咒语”含义反而消失了，衍生出“魅力、魔 力”等含义。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "charming",
+            "phonetic": "ˈtʃɑrmɪŋ",
+            "pos": "adj.",
+            "definition": "迷人的；惹人喜欢的",
+            "frequency": 5252,
+            "collocations": [
+                "a charming little fishing village: 一个迷人的小渔村"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "hen",
+            "phonetic": "hɛn",
+            "pos": "n.",
+            "definition": "母鸡；雌禽",
+            "frequency": 8085,
+            "mnemonic": "来自词根kan-=to sing: 歌唱。\"the female of the domestic fowl,\"Old English henn “hen,\"from West Germanic *hannjo,fem.of*hanan-\"male fowl,cock”(source of Old English hana “cock”),literally \"bird who sings (for sunrise)”.",
+            "collocations": [
+                "a small flock of laying hens: 一小群下蛋的母鸡"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "cantaloupe",
+            "phonetic": "ˈkæntəˌloʊp",
+            "pos": "n.",
+            "definition": "罗马甜瓜",
+            "frequency": 18412,
+            "mnemonic": "同义词hami melon,honey-dew melon: 哈密瓜\n俗词源认为该地名Cantalupo 来自cant (唱；吟唱)+-lupo (狼)词源同 wolf→唱歌的狼，即狼出没之地。",
+            "collocations": [
+                "cantaloupe juice: 哈蜜瓜汁",
+                "Sound 表示“声音”。"
+            ],
+            "etymology": "词根为swen-。 Also swenə-,Proto-Indo-European root meaning \"to sound.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit svanati \"it sounds,\"svanah \"sound,tone;\"Latin sonus \"sound,a noise,\" sonare \"to sound;\"Old Irish senim “the playing of an instrument;\"Old English geswin \"music,song,\"swinsian “to sing;\"Old Norse svanr,Old English swan \"swan,\"properly \"the sounding bird.\"",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sound",
+            "phonetic": "saʊnd",
+            "pos": "n.",
+            "definition": "声音；响声；音乐风格 vt. 宣告；听起来 adj. 健康的；可 靠的；正确的的adv.酣睡",
+            "frequency": 703,
+            "collocations": [
+                "turn the sound down: 把声音调小 sound a warning: 发出警告",
+                "sound like: 听起来像"
+            ],
+            "etymology": "\"noise,what is heard,sensation produced through the ear,\"late 13c.,soun, 来自古法语 son “sound,musical note, voice =声音，音符”。来自拉丁 语sonus “sound,a noise=声音，噪音”。From PIE*swon-0-,from root 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 *swen-“to sound”。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sounding",
+            "phonetic": "ˈsaʊndɪŋ",
+            "pos": "n.",
+            "definition": "( 铃或号的)发声；对某人意见的征询；(测量水深或检 测水底的)探通 adj. 回响的；回荡的",
+            "frequency": 17090,
+            "collocations": [
+                "take soundings of the people's wishes: 征询一下大家的意愿 the sounding of the all-clear signal: 警报解除号音"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "soundly",
+            "phonetic": "ˈsaʊndliː",
+            "pos": "adv.",
+            "definition": "彻底地；可靠地；酣(睡)地",
+            "frequency": 16469,
+            "collocations": [
+                "be soundly beaten: 被彻底击败",
+                "be soundly based in: 牢靠地建立在……之上",
+                "sleep soundly: 睡得香"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "soundbite",
+            "phonetic": "ˈsaʊndbaɪt",
+            "pos": "n.",
+            "definition": "(新闻节目中对政治人物讲话的)简短引述",
+            "frequency": 18419,
+            "mnemonic": "sound(声音)+bite(一口的量)→声音时间短的→一小段话",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "soundtrack",
+            "phonetic": "ˈsaʊndtræk",
+            "pos": "n.",
+            "definition": "(电影的)配音；电影音乐磁带(或唱片)10124",
+            "mnemonic": "sound(声音)+track (录音磁带；光盘)→声音磁带；电影配音",
+            "collocations": [
+                "the soundtrack of the latest movie: 最新影片的音乐磁带"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "ultrasound",
+            "phonetic": "ˈʌltrəsaʊnd",
+            "pos": "n.",
+            "definition": "超声波；超声波扫描检查",
+            "frequency": 12543,
+            "mnemonic": "ultra(beyond: 超越)+sound ( 声音)→超出了人耳听觉的一般上限、人\n们听不见的声波→超声波 搭配：ultrasound wave: 超声波",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sonic",
+            "phonetic": "ˈsɑnɪk",
+            "pos": "adj.",
+            "definition": "声音的；声速的",
+            "frequency": 13726,
+            "mnemonic": "son-(=sound: 声音)+-ic(形容词后缀)→声音的；声速的",
+            "collocations": [
+                "sonic waves: 声波",
+                "the sonic boom: 轰鸣声笔 记 区",
+                "the sonic boom: 轰鸣声\n笔 记 区",
+                "sonic speed: 声速"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "supersonic",
+            "phonetic": "ˌsu.pɚˈsɑ.nɪk",
+            "pos": "adj.",
+            "definition": "超音速的",
+            "frequency": 18185,
+            "mnemonic": "super( 超)+son-(=sound: 声音)+-ic(形容词后缀)→超音速的",
+            "collocations": [
+                "a supersonic aircraft: 超声速飞机",
+                "supersonic flight: 超声速飞行"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "resound",
+            "phonetic": "rɪ.ˈzaʊnd",
+            "pos": "vi.",
+            "definition": "回响；鸣响；充满；回荡着(声音)20022",
+            "mnemonic": "re-(=back,again : 回；再次)+sound(=to sound: 发出声音)→声音再次 出现→ 回响；回荡；(声音)充满",
+            "collocations": [
+                "resound through: 在……中回响",
+                "resound with music: 回荡着音乐声"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "resounding",
+            "phonetic": "rɪ.ˈzaʊn.dɪŋ",
+            "pos": "adj.",
+            "definition": "响亮清晰的；彻底的",
+            "frequency": 15979,
+            "collocations": [
+                "a resounding slap: 声音清晰响亮的耳光",
+                "make a resounding success: 获得了彻底的成功"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "resonance",
+            "phonetic": "ˈrɛ.zə.nəns",
+            "pos": "n.",
+            "definition": "共鸣；洪亮",
+            "frequency": 8095,
+            "mnemonic": "re-(=again: 再次)+-son-(=sound: 声音)+-ance (名词后缀)→声音再次 出现→共鸣；洪亮",
+            "collocations": [
+                "a thrilling resonance: 一种震撼人心的效果",
+                "lose its resonance: 失去了原有的洪亮"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "resonant",
+            "phonetic": "ˈrɛ.zə.nənt",
+            "pos": "adj.",
+            "definition": "嘹亮的；回响的；共鸣的；引起联想的",
+            "frequency": 14499,
+            "collocations": [
+                "a deep resonant voice: 深沉而响亮的声音",
+                "a poem filled with resonant imagery: 充满了让人浮想联翩的意象的诗歌"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "resonate",
+            "phonetic": "ˈrɛ.zə.neɪt",
+            "pos": "vt.",
+            "definition": "产生共鸣；发出回响；(使)回响；使产生联想；引起共鸣",
+            "frequency": 8012,
+            "collocations": [
+                "resonate with sth.: 充满 ……"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "consonant",
+            "phonetic": "ˈkɑnsənənt",
+            "pos": "n.",
+            "definition": "辅音adj.(与……)一致的，相同的",
+            "frequency": 18173,
+            "mnemonic": "con-(=with,together: 共同)+-son-(=to sound: 发出声音)+-ant( 形容词\n后缀)→即发出声音的，后指语音学术术语辅音\ncon-(=with ,together: 共同)+-son-(=to sound: 发出声音)+-ant( 形容词 后缀)→发出相同声音的→ (与……)一致的；相同的；和谐的",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dissonance",
+            "phonetic": "ˈdɪ.sə.nəns",
+            "pos": "n.",
+            "definition": "不和谐；不协调；不一致",
+            "frequency": 17027,
+            "mnemonic": "dis- ( 不；使相反)+-son (声音)+-ance (名词后缀) → 即声音不同 →不和 谐；不协调",
+            "collocations": [
+                "cognitive dissonance: 认知失调"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sonnet",
+            "phonetic": "ˈsɑnɪt",
+            "pos": "n.",
+            "definition": "十四行诗",
+            "frequency": 15537,
+            "mnemonic": "son-(=sound : 声音)+-et(小词后缀)→字面意思即小声音，小诗词或歌 曲→原可指任意形式的抒情短诗，后体裁限定为十四行短诗",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "sonar",
+            "phonetic": "ˈsoʊnɑr",
+            "pos": "n.",
+            "definition": "声呐(利用声波探测水下物体的装置或系统)15428",
+            "mnemonic": "利用声波水下探测装置。1946,来自“so(und)+na(vigation)+r(anging)”",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "unison",
+            "phonetic": "ˈjunəsən",
+            "pos": "n.",
+            "definition": "一起； 一致地；协调的(in unison)9638",
+            "mnemonic": "uni-(one, unique: 独特的；唯一的)+-son(=sound: 声音)→发出同一个 声音→引申词义一致地，协调地",
+            "collocations": [
+                "in unison with stb/sth:(做事、说话)一起，一齐；一致行动；协调地"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "swan",
+            "phonetic": "swɑn",
+            "pos": "n.",
+            "definition": "天鹅 vi. 悠游；悠然闲逛[+adv./prep. ]11869",
+            "mnemonic": "笔 记 区make sound=发出声音”。因此它与古英语geswin “melody,song=美 妙的音乐，歌曲”及swinsian “to make melody=发出每妙的音乐”有 关。可能是因为传说中天鹅在临死之前会发出美妙的歌声而联想： swim(游泳)→swan(在水里游的美丽洁白的动物，天鹅)",
+            "collocations": [
+                "black swan: 黑天鹅",
+                "swan song: 绝笔，最后的作品；天鹅临死时的叫声",
+                "swan off to Paris: 到巴黎潇洒去了\n单词person 表示“人”。"
+            ],
+            "etymology": "来自古英语swan“swan,” 来自原始日耳曼语*swanaz “singer”, 也 许字面含义为“the singing bird=歌唱的鸟”,来自词根*swen-“to 笔 记 区",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "person",
+            "phonetic": "ˈpɝ.sən",
+            "pos": "n.",
+            "definition": "人；[复数形式]用于正式、法律、技术文体中；人品；喜欢(不喜欢)……的人；身体",
+            "frequency": 346,
+            "mnemonic": "per-(=through: 通过)+-son(=to sound: 声音)→to sound through: 声音 透过，其原义可能是透过面具发出→指代剧中人→后引申为现实中的 人声音或扩大声音，该词原为古罗马时期戏剧表演时演员所戴的面 具，后引申多种词义。",
+            "collocations": [
+                "a country person: 喜欢乡村的人in person: 亲自；当面",
+                "-person: 从事……工作(或担任……职务)的人 a salesperson: 推销员",
+                "in the person of: 名叫 first/second/third person: (语法中的)人称",
+                "person的 派 生 词 有 personal,personality,personally,personnel,persona, impersonal,impersonate,personalize,personalized,personify,personification, personable等。"
+            ],
+            "etymology": "古罗马和古希腊的戏剧演员往往在一场演出中扮演几个不同的角色。 他们每换一个角色，就换上一个不同的假面具。面具在拉丁文中作 persona 。此后，persona的词义引申为“角色”或“剧中人”。据此 比喻，persona又从“剧中人”进而延伸为现实中的“人”。来自拉 丁语persona, 面具，假面，可能来自拉丁语personare,含义为声音透 过(面具发出)。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personal",
+            "phonetic": "ˈpɝ.sə.nəl",
+            "pos": "adj.",
+            "definition": "个人的；人际的；私人的；亲自做的；个别的；针对个人的；人身的personals ( 报纸广告栏内的)私人广告",
+            "frequency": 581,
+            "mnemonic": "笔 记 区 助记：person(个人)+-al( 形容词后缀)→与个人有关的→个人的；人际的；私 人的",
+            "collocations": [
+                "a personal pension plan: 个人养老计划",
+                "get personal: 搞人身攻击",
+                "personal effects/belongings/possessions私人物品/财产/财物"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personality",
+            "phonetic": "ˌpɝ.sə.ˈnæ.lə.ti",
+            "pos": "n.",
+            "definition": "性格；个性鲜明的人；(尤指娱乐、广播、体育 界)名人",
+            "frequency": 2092,
+            "mnemonic": "personal( 个人的)+-ity(名词后缀，表性质)→个人的品性、特点→性 格；个性鲜明的人→ (尤指娱乐、广播、体育界)名人",
+            "collocations": [
+                "a kind,friendly personality: 友善的性格",
+                "a woman of great personality: 一个很有个性的女人",
+                "the radio and television personality: 广播电视名人"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personally",
+            "phonetic": "ˈpɝ.sə.nə.li",
+            "pos": "adv.",
+            "definition": "在个人看来；亲自；个别地；无礼地；私人 地",
+            "frequency": 2656,
+            "mnemonic": "personal(个人地)+-ly(副词后缀)→在个人看来；亲自；私人地",
+            "collocations": [
+                "take...personally: 把……看作是针对个人的",
+                "personally speaking: 就个人来说"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personnel",
+            "phonetic": "ˌpɝ.sə.ˈnɛl",
+            "pos": "n.",
+            "definition": "(组织或军队中的)全体人员；人事部门",
+            "frequency": 2448,
+            "mnemonic": "来自法语personnel, 其原义为相比于物质的特征而言的人的特征的，\n后形容词作名词→ 引申词义全体人员；人事部门 搭配：skilled personnel: 熟练人员",
+            "collocations": [
+                "the personnel department/manager: 人事部门/经理"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "persona",
+            "phonetic": "pɚ.ˈsoʊ.nə",
+            "pos": "n.",
+            "definition": "(同本人真实品性不一致的)表面形象",
+            "frequency": 7663,
+            "mnemonic": "来自拉丁语persona, 表示戏剧中的人物，假装的人物→表象人格 搭配：the public persona: 公众形象take on a new persona: 伪装自己\nim-(not,opposite of: 不；与……相反)+personal (个人的)→与个人(感 情)的相反的，没有个人色彩的 →无人情味的；不受个人感情影响 的；没有个人色彩的",
+            "collocations": [
+                "释义：(N-COUNT) 表象人格；伪装；假象 Someone's persona is the aspect of their character or nature that they present to other people,perhaps in contrast to their real character or nature.\n笔 记 区impersonal [m'ps:s(3)n(ə)l] adj. 无人情味的；不受个人感情影响的；没有 个人色彩的12363\n笔 记 区",
+                "impersonal orphanages: 无人情味的孤儿院",
+                "as impersonal as a surgeon with his knife: 像拿着手术刀的外科医生一 样不受个人感情影响",
+                "a neat and impersonal room: 一个整洁干净、没有个人色彩的房间"
+            ],
+            "etymology": "mid-15c.,a grammatical term,from Late Latin impersonalis.Sense of \"not connected with any person”is from 1620s;that of \"not endowed with personality,having no conscious individuality”is from 1842.Related: impersonally.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "impersonate",
+            "phonetic": "ɪmˈpɝ.sə.neɪt",
+            "pos": "vt.",
+            "definition": "假扮(为了行骗);(尤指为逗人发笑而)模仿 (某人的言语、动作)19379",
+            "mnemonic": "im-(=into, in: 进入)+person(人)+-ate(动词后缀)→represent in bodily form,assume the person or character of: 即变成另一个人的(样貌；性 格)→假扮；模仿",
+            "collocations": [
+                "impersonate a security guard: 假扮警卫被",
+                "be that person,either to deceive people or to make people laugh."
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personalize",
+            "phonetic": "ˈpɝ.sə.nə.laɪz",
+            "pos": "vt.",
+            "definition": "在……上标出个人的姓名[姓名的首字母]; 使个性化；为个人特制(或专设);针对个人",
+            "frequency": 13899,
+            "mnemonic": "personal(个人的)+-ize(=make: 使……化，动词后缀)→使个性化；为 个人特制(或专设);针对个人\npersonalize(使个性化)+-d(形容词后缀去e)→ 个性化的；(英)标有姓名 (首字母)的车牌",
+            "collocations": [
+                "personalize your office: 使办公室有个性",
+                "be personalized to: 为……特制",
+                "personalize politics: 使政治个人化\n20000词汇巅峰速站趣课多\n20000词汇巅峰速站\n笔 记 区 personalized ['pə:sonolaizd] adj. 个性化的；(英)标有姓名(首字母)的车牌",
+                "a personalized number plate: 个性化车牌",
+                "a highly personalized service: 高度个性化的服务"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personify",
+            "phonetic": "pɚ.ˈsɑ.nə.faɪ",
+            "pos": "vt.",
+            "definition": "是……的化身[典型];把……拟人化[人格化]14606拟人化[人格化]",
+            "mnemonic": "person(人)+i+fy(动词后缀，使成为)→to represent,embody: 代表；体 现→使人成为……的代表，体现……→是……的化身[典型];把……",
+            "collocations": [
+                "personify the values of self-reliance and hard work: 体现了自立和勤劳 的价值",
+                "kindness/generosity etc. personified: 仁慈/慷慨的化身",
+                "personify time as an old man: 把时间比作一位老人"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personification",
+            "phonetic": "pɚ.ˌsɑ.nə.fə.ˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "典型；(文学或艺术中的)拟人化，人格 化[+of]17963",
+            "mnemonic": "personify ( 是……的典型；把……拟人化)+-ication (复合名词后 缀)→embodiment ofa quality in a person→典型；拟人化",
+            "collocations": [
+                "the personification of the financial excess of the 1980s: 20 世纪80年代金 融过热时期的一个典型",
+                "the personification of rivers in fifth-century art: 五世纪艺术中对河流的 拟人化"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "personable",
+            "phonetic": "ˈpɝ.sə.nə.bəl",
+            "pos": "adj.",
+            "definition": "品貌兼优的；英俊潇洒的",
+            "frequency": 20070,
+            "mnemonic": "person (人)+-able (形容词后缀)→pleasing in one's person:讨人喜欢 的，风度翩翩的→ 品貌兼优的；英俊潇洒的",
+            "collocations": [
+                "a personable entertainer: 一位风度翩翩的艺人",
+                "near表示“近的；附近的”。笔 记 区",
+                "near表示“近的；附近的”。\n笔 记 区\nnea r [nrə] prep. 离……近；与……相似adv. 靠 近adj. 靠近的；差不多的707 词源：Old English near \"closer,nearer,\"comparative of neah,neh \"nigh.\"",
+                "Partially by the influence of Old Norse naer \"near,\"it came to be used in English as a positive form mid-13c.,and new comparative nearer developed in the 1500s.",
+                "come near me: 靠近我",
+                "near to: 接近；与……临近",
+                "near to the door: 靠近门"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "nearly",
+            "phonetic": "ˈnɪr.li",
+            "pos": "adv.",
+            "definition": "几乎；即将",
+            "frequency": 599,
+            "mnemonic": "near(靠近)+-ly(形容词后缀)→近乎→几乎；即将",
+            "collocations": [
+                "know nearly allof this: 几乎知道全部了",
+                "already nearly eight o'clock: 已经快8点钟了"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "nearby",
+            "phonetic": "ˌnɪr.ˈbaɪ",
+            "pos": "adv.",
+            "definition": "在附近adj. 附近的",
+            "frequency": 2445,
+            "mnemonic": "near( 靠近)+by(附近) →在附近；附近的",
+            "collocations": [
+                "live nearby: 住在附近",
+                "at a nearby table: 附近的一张桌子旁"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "nearest",
+            "phonetic": "ˈnɪr.ɪst",
+            "pos": "adj.",
+            "definition": "最近的(near 的最高级)5822",
+            "mnemonic": "near (离……近)+-est (形容词最高级) →最近的",
+            "collocations": [
+                "nearest park: 最近的公园"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "next",
+            "phonetic": "nɛkst",
+            "pos": "ord.",
+            "definition": "下一个的det.下一(年、月、星期等)pron.下一个adj.下 一 (年、月、星期等)的；紧邻的adv.紧接着；再次；仅次于",
+            "frequency": 218,
+            "collocations": [
+                "the week after next: 下下星期",
+                "as the next: 一样"
+            ],
+            "etymology": "\"nearest in place,position,rank,or turn,\"来自中古英语nexte, 来自古 英语niehsta,nyhsta,nesta,\"nearest in position or distance,closest in kinship,”来自原始日耳曼语词根*nekh-=near+最高级后缀*-istaz=est, 表示最近的nearest, 即下一个next。 笔 记 区 搭配：next Friday: 下周五",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "next-door",
+            "phonetic": "ˌnɛkst.ˈdɔr",
+            "pos": "adv.",
+            "definition": "adv. 在隔壁adj. 隔壁的",
+            "frequency": 17600,
+            "mnemonic": "next (下一个)+door(门)→下一个门的→隔壁的\nneigh(=near: 附近)+bor(=dwell: 居住)→居住在附近的人→邻居\nneighbor (邻居)+-hood (名词后缀，表状态)→邻里邻居的状态→居住 区；附近",
+            "collocations": [
+                "live next door: 住在隔壁的a next-door house: 隔壁的房子next door to: 在……的隔壁neighbor ['nerbə] n. 邻居；临近的人；邻近的同类物1446",
+                "its big oil-rich neighbor: 它那幅员辽阔、石油资源丰富的邻国neighborhood ['nerbə,hud] n. 居住区；附近1137",
+                "a green neighborhood: 一个绿色的居住区in the neighborhood of: 大约为；在……附近neighboring ['neibəriŋ] adj. 邻近的(等于neighbouring)4889",
+                "a tour of neighboring Asian capitals: 对几个亚洲邻邦首都的访问next to: 靠近；仅次于；几乎",
+                "live next door: 住在隔壁的",
+                "a next-door house: 隔壁的房子",
+                "next door to: 在……的隔壁"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "neighbor",
+            "phonetic": "ˈneɪ.bɚ",
+            "pos": "n.",
+            "definition": "邻居；临近的人；邻近的同类物",
+            "frequency": 1446,
+            "mnemonic": "neigh(=near: 附近)+bor(=dwell: 居住)→居住在附近的人→邻居 搭配：its big oil-rich neighbor: 它那幅员辽阔、石油资源丰富的邻国",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "neighborhood",
+            "phonetic": "ˈneɪ.bɚ.hʊd",
+            "pos": "n.",
+            "definition": "居住区；附近",
+            "frequency": 1137,
+            "mnemonic": "neighbor (邻居)+-hood (名词后缀，表状态)→邻里邻居的状态→居住 区；附近",
+            "collocations": [
+                "a green neighborhood: 一个绿色的居住区",
+                "in the neighborhood of: 大约为；在……附近"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "neighboring",
+            "phonetic": "ˈneɪ.bɚ.ɪŋ",
+            "pos": "adj.",
+            "definition": "邻近的(等于neighbouring)4889",
+            "collocations": [
+                "a tour of neighboring Asian capitals: 对几个亚洲邻邦首都的访问",
+                "is the hypothetical source of/evidence for its existence is provided by: Sanskrit dhuma-\"smoke,fume;\"Greek thymos “spirit,courage,anger,” thymiao \"fumigate,\"thymin“incense;\"Latin fumus\"smoke,steam, fume;\"Lithuanian dūmai “smoke”(plural);Old Prussian dumis “smoke;”\n速20000词汇巅峰\n速\n笔 记 区\n笔 记 区",
+                "Old Church Slavonic dymu \"smoke;\"Middle Irish dumacha “fog;\"perhaps Old High German toum “steam,vapor.”"
+            ],
+            "etymology": "*dheu-(1)Proto-Indo-European root meaning \"dust,vapor,smoke.\"It",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dwell",
+            "phonetic": "dwɛl",
+            "pos": "vi.",
+            "definition": "居住；栖身；细想；详述",
+            "frequency": 7296,
+            "collocations": [
+                "dwell on: 讲述",
+                "dwell among: 在……中生活"
+            ],
+            "etymology": "The apparent sense evolution in Middle English was through“to procrastinate,delay,be tardy in coming”(late 12c.),to \"linger,remain, stay,sojourn,\"to “make a home,abide as a permanent resident”(mid-14c.). From late 14c.as \"remain (in a certain condition or status),\"as in phrase dwell upon “keep the attention fixed on.”Related:Dwelled;dwelt;dwells.",
+            "examples": [
+                "The book,which will be out in English next year,doesn't dwell on the sinking;its heroine is a pregnant young woman who survives the catastrophe only to say later:\"Nobody wanted to hear about it,not here in the West(of Germany)and not at all in the East.”将在明年用英文出版的 这本书，讲述的并不是沉船，它的女主人公是一个在灾难中存活下来 的怀孕女人，她后来说：“没人想去听到这个事情，不论是在还是西 德还是在东德”。"
+            ],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dweller",
+            "phonetic": "ˈdwɛ.lɚ",
+            "pos": "n.",
+            "definition": "居民；居住者",
+            "frequency": 11104,
+            "collocations": [
+                "apartment dwellers: 公寓房客"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dwelling",
+            "phonetic": "ˈdwɛ.lɪŋ",
+            "pos": "n.",
+            "definition": "住宅；住所；居住地",
+            "frequency": 8371,
+            "collocations": [
+                "3,500 new dwellings: 三千五百套新住宅"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "fume",
+            "phonetic": "fjum",
+            "pos": "vt.",
+            "definition": "&vi.表达气愤 n. ( 难闻且常有害的)烟气",
+            "frequency": 9831,
+            "collocations": [
+                "Old High German toum\"steam,vapor.” 来自拉丁语fumus “smoke, steam,fume”, 含义为“烟；蒸汽；”。",
+                "fume at/over/about sb/sth: (对……)大为生气，十分恼火 be fuming with indignation: 愤愤不平",
+                "exhaust fume: 排烟；废 气"
+            ],
+            "etymology": "Proto-Indo-European root meaning\"dust,vapor,smoke.\"It is the hypothetical source of/evidence for its existence is provided by:Sanskrit dhuma-\"smoke,fume;\"Greek thymos\"spirit,courage,anger,\"thymiao \"fumigate,\"thymin“incense;\"Latin fumus \"smoke,steam ,fume;” Lithuanian dūmai “smoke”(plural);Old Prussian dumis\"smoke;\"Old 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 Church Slavonic dymu “smoke;\"Middle Irish dumacha “fog;”perhaps",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "perfume",
+            "phonetic": "ˈpɝ.fjum",
+            "pos": "n.",
+            "definition": "香水；香料；芳香 vt. 使香气弥漫；为……增加香味",
+            "frequency": 6693,
+            "mnemonic": "它由per-(=through : 彻底；弥漫)+fume(烟)构成→字面意思就是“用\n烟弥漫”或“弥漫的烟”→后来指具有芬芳气味、清洁空气的香水；",
+            "collocations": [
+                "the delicate perfume of roses: 有玫瑰的幽香",
+                "a perfume for skin creams: 润肤霜中使用的香料",
+                "perfume the whole house with the aroma of apples and spices: 整幢房子 都飘着苹果和香料的香气",
+                "to flavor and perfume soaps,foam baths,and scents: 用来给肥皂、沐浴 液和香水添加香味"
+            ],
+            "etymology": "在中世纪时期的欧洲，当有人死于传染病时，尸体被抬走后，人人往 往会点燃某种香料，用其产生的带有香味的烟雾来熏病人的房间，以 达到消毒和去除异味的作用。英语单词perfume的本意就是“用熏香 的烟来熏病人的房间”,做名词时表示“用来消毒的烟”。后来，人 们流行在身上喷洒具有芬芳气味的液体，即所谓的“香水”。由于香 水的目的也是为了去除异味、清洁空气，所以香水所发出的香气以及 用香水清洁空气的行为也被称为perfume 。现在，香水本身也被称为 perfume。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "funk",
+            "phonetic": "fʌŋk",
+            "pos": "n.",
+            "definition": "( 伴奏现代舞蹈的)乡土爵士乐；放克音乐；忧愁；强烈的臭 气 v.(因畏惧而)逃避，回避",
+            "frequency": 13762,
+            "mnemonic": "最初是白人用来指黑人身上的味道。后来黑人音乐家用该词来形容他 们的爵士风格。非裔美国人音乐家将灵魂乐、灵魂爵士乐和节奏蓝调 融合成一种有节奏的、适合跳舞的音乐新形式。随着爵士乐的流行，",
+            "collocations": [
+                "in a blue funk: 惊恐万状"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "funky",
+            "phonetic": "ˈfʌŋ.ki",
+            "pos": "adj.",
+            "definition": "音低节奏强的(爵士、布鲁斯、流行乐);时髦别致的；恶 臭的",
+            "frequency": 10896,
+            "collocations": [
+                "a funky sort of rhythm: 一种音低节奏强的旋律",
+                "quirky,funky and dazzlingly imaginative in design: 非同凡响、时髦别 致且设计极富想像力"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dull",
+            "phonetic": "dʌl",
+            "pos": "vt.",
+            "definition": "&vi. 使…变弱/变暗/变得无生气 adj. 沉闷的；无精打采的；黯 淡的；(天气)阴沉的 n. 沉闷；乏味",
+            "frequency": 5156,
+            "collocations": [
+                "dull blue color: 暗蓝色"
+            ],
+            "etymology": "c.1200,\"stupid,slow of understanding,not quick in perception;\"also,of points or edges,\"blunt,not sharp;\"apparently from Old English dol “dull- witted,foolish,\"or an unrecorded parallel word,or from Middle Low German dul “foolish,reckless”.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dumb",
+            "phonetic": "dʌm",
+            "pos": "adj.",
+            "definition": "哑的；说不出话的；蠢得；愚蠢而恼人的",
+            "frequency": 4712,
+            "collocations": [
+                "a young deaf and dumb man: 一名年轻的聋哑人",
+                "be all struck dumb: 哑口无言"
+            ],
+            "etymology": "Old English dumb,of persons,\"mute,silent,refraining from speaking or unable to speak,\"from Proto-Germanic *dumbaz “dumb,dull,\"which is perhaps from PIE*dheubh-\"confusion,stupefaction,dizziness,\"from root *dheu-(1)\"dust,mist,vapor,smoke,\"also expressing related notions of \"defective perception or wits.\"",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dumbbell",
+            "phonetic": "ˈdʌm.bɛl",
+            "pos": "n.",
+            "definition": "哑铃；笨蛋",
+            "frequency": 12651,
+            "mnemonic": "dumb(哑的)+bell (铃铛) → 哑铃；笨蛋",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "dummy",
+            "phonetic": "ˈdʌ.mi",
+            "pos": "n.",
+            "definition": "人体模型；仿真品；笨蛋；傻瓜",
+            "frequency": 11581,
+            "collocations": [
+                "approach的含义为接近，靠近， pro- 的含义为near,around, 含 义 为 “在……附近”, “在……周围”。"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "approach",
+            "phonetic": "əˈproʊtʃ",
+            "pos": "vt.",
+            "definition": "&vi. (在距离或时间上)靠近；接洽；(在数额、水平或 质量上)接近n.(待人接物或思考问题的)方式；(距离和时间上的)靠近； 接洽；道路",
+            "frequency": 751,
+            "mnemonic": "ap-(=ad: 去)+proach(=come closer,go nearer to: 使靠近；接近的)→靠 近；接近",
+            "collocations": [
+                "approach to healing patients: 治疗病人的方法",
+                "the approach of spring: 春天的来临",
+                "basic approach: 基本方法",
+                "approach the bank for a loan: 向银行申请贷款",
+                "approach sb about/for sth/approach sb about doing sth: 接洽、建议、要 求某人做某事",
+                "a new approach road to the port: 去港口的一条新路",
+                "When several media report that the average time for using computer among college students has approached 40 hours,it set off a new round of concern about their school work.\n笔 记 区\n方法；方式”的表达：method 、way 、approach 、means\n学英语的方法：way/method/means of learning English;learning method; approach to learning English",
+                "Approach 的派生词有approaching,rapprochement 等 。"
+            ],
+            "etymology": "拉丁语prope(=near: 附近)→拉丁语propiare(=come nearer: 更 近)→proach",
+            "examples": [
+                "1)In its early years the organization operated in an unconventional manner that characterized its innovative and entrepreneurial approach to the industry.\n在公司成立的最初几年中，公司以一种非常规的模式运营，对于这个 行业来说，其特点是它的创新和创业式的方法。\n2)When the Commerce Department reported last week that the trade deficit in June approached $50 billion,it set off a new round of economic doomsaying.\n上周商务部报告指出六月的贸易逆差接近500亿美元，这引发了新一 轮的经济灾难论。\n3)But there is no need to approach the research paper assignment with anxiety,and nobody should view the research paper as an obstacle to\novercome.\n但是没必要在对待研究论文作业时感到焦虑，而且不应该有人把研究\n选20000词汇巅峰\n选\n论文看作是一个要去克服的障碍。仿写：当一些媒体报道大学生每周使用电脑的平均时间已经接近40小 时，这引发了新一轮的对他们学业的担忧。When several media report that the average time for using computer among college students has approached 40 hours,it set off a new round of concern about their school work.笔 记 区\n论文看作是一个要去克服的障碍。\n仿写：当一些媒体报道大学生每周使用电脑的平均时间已经接近40小 时，这引发了新一轮的对他们学业的担忧。"
+            ],
+            "rootHint": "liter"
+        },
+        {
+            "word": "approaching",
+            "phonetic": "əˈproʊtʃɪŋ",
+            "pos": "adj.",
+            "definition": "逼近的；接近的",
+            "frequency": 13367,
+            "mnemonic": "approach(接近；临近)+-ing(名词后缀)→逼近的；接近的",
+            "collocations": [
+                "approaching car: 驶来的车辆",
+                "approaching siren: 愈来愈近的警笛声",
+                "approaching tornado: 正在逼近的龙卷风"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "rapprochement",
+            "phonetic": "ˌræ.proʊʃˈmɑn",
+            "pos": "n.",
+            "definition": "重归于好；和解",
+            "frequency": 19982,
+            "mnemonic": "re-(=back,again: 再一次)+pproche(=approach:come near)+-ment(名词 后缀)→bring near again: 再一次拉近关系→友好关系的重建；重归于 好；和解",
+            "collocations": [
+                "the process of political rapprochement: 政治和解"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "proximity",
+            "phonetic": "prɑkˈsɪm.ə.ti",
+            "pos": "n.",
+            "definition": "(时间或空间)接近；邻近；靠近",
+            "frequency": 6690,
+            "mnemonic": "词根pro- 的含义为near 接近。来自中世纪法语proximité, 含 义 为\nnearness: 接近；密切。来自拉丁语proximitatem, 含 义 为nearness,\nvicinity: 接近；临近。来自proximus, 含义为nearest,adjoining: 最 近 的；邻接的。引申义为lastest,most recent,following;most faithful: 最 近的，最新的；下一个，接着的；准确可靠的。",
+            "collocations": [
+                "in close proximity to: 与……靠得很近，接近 proximity sensor: 近距离传感器",
+                "Proximity的派生词有proximal,approximate,approximately ,approximation 等 。"
+            ],
+            "etymology": "late 15c.,from Middle French proximité “nearness”(14c.),from Latin proximitatem (nominative proximitas)\"nearness,vicinity,\"from proximus \"nearest,next;most direct;adjoining,\"figuratively\"Iatest,most recent; 20000词汇巅峰速趣课多 20000词汇巅峰速 笔 记 区 next,following;most faithful,\"superlative of prope \"near”",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "proximal",
+            "phonetic": "ˈprɑk.sə.məl",
+            "pos": "adj.",
+            "definition": "近中心的；近身体中心的",
+            "frequency": 18834,
+            "mnemonic": "1727, from Latin proximus \"nearest,next\" .Related:Proximally.\nproxim(=proximity: 接近)+-al(形容词后缀)→nearest,next: 最靠近的\n中心的→近中心的；近身体中心的",
+            "collocations": [
+                "zone of proximal development: 新近发展区"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "approximate",
+            "phonetic": "əˈprɑksəmət",
+            "pos": "adj.",
+            "definition": "大概的(数字、时间或方位等);大概的(观点或描述等);近似的 vt.&vi. 接近(某数字);类似，接近",
+            "frequency": 12205,
+            "mnemonic": "ap-(=ad- : 去)+proxim(最接近的)+-ate(动词后缀)→使最接近→近似",
+            "collocations": [
+                "approximate cost: 大概费用",
+                "approximate to the real facts: 接近事实真相",
+                "approximate a day/night sleeping pattern: 近似于日夜分明的睡觉模式\n笔 记 区\n笔 记 区"
+            ],
+            "etymology": "解析：拉丁语proximus(=nearest: 最接近的)→proxim,prope(=near: 接近的)最高级形式。同源词：proximate (近似的),proximal ( 最接近 的),proximity(接近)衍生词：approximation(近似值；近似法；逼近)",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "approximately",
+            "phonetic": "əˈprɑksəmətliː",
+            "pos": "adv.",
+            "definition": "大概；大约；约莫",
+            "frequency": 2386,
+            "mnemonic": "approximate (大概的)+-1y(副词后缀)→大概；大约；约莫",
+            "collocations": [
+                "approximately equal: 约等于；近似等于",
+                "take approximately seven hours: 大约花了七个小时"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "approximation",
+            "phonetic": "əˌprɑksəˈmeɪʃən",
+            "pos": "n.",
+            "definition": "接近；近似；近似值；粗略估计",
+            "frequency": 14071,
+            "mnemonic": "approximate (大概的；近似的)+-ation (名词后缀，表行为) →act of coming near or close: 近似；接近；近似值",
+            "collocations": [
+                "just an approximation: 仅仅是近似值",
+                "approximation of/to sth: 与……相当接近",
+                "approximation method: 近似方法",
+                "linear approximation: 线性近似",
+                "释义：(N-COUNT)接近；近似An approximation is a fact,object,or description which is similar to something else,but which is not exactly the same.",
+                "(N-COUNT) 近似值；粗略估计 An approximation is a number, calculation,or position that is close to a correct number,time,or position, but is not exact.",
+                "peri- 也表示“在附近，在周围”的含义。"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "perimeter",
+            "phonetic": "pəˈrɪ.mə.tɚ",
+            "pos": "n.",
+            "definition": "(军营等地的)四周[+of]; 周长[+of]6692",
+            "mnemonic": "peri-(=around: 在周围)+-meter(=measure: 测量)→引申词义外缘； 周长",
+            "collocations": [
+                "the perimeter of the airfield: 机场的四周",
+                "the perimeter of the rectangle: 这个长方形的周长\n单词period表示“周期；一段时期”。"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "period",
+            "phonetic": "ˈpɪr.i.əd",
+            "pos": "n.",
+            "definition": "一段时间；(某人生活或历史上的)时期；月经；句号",
+            "frequency": 617,
+            "mnemonic": "peri-(=around: 周围)+od(=odos=a going,traveling,a way,path: 一段旅 程；一段路程)→a going around:cycle,circuit,period of time→周期； 循环→一段时间；时期；月经；句号",
+            "collocations": [
+                "a five-week period: 为期五周",
+                "Van Gogh's early period: 凡 · 高的早期生涯"
+            ],
+            "etymology": "15世纪表示“course or extent of time=一段时间”。来自中世纪法语 periode 并且直接来自中世纪拉丁语periodus \"recurring portion,cycle= 循环的部分，周期”。来自拉丁语periodus “a complete sentence=一个 完整的句子”。来自希腊语periodos “cycle,circuit,period of time=循 环，圈，一段时间”。字面意思是“a going around=围绕”。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "periodic",
+            "phonetic": "ˌpɪr.i.ˈɑ.dɪk",
+            "pos": "adj.",
+            "definition": "周期(性)的；定期的",
+            "frequency": 7847,
+            "mnemonic": "period(周期；时期)+-ic(形容词后缀)→周期(性)的；定期的",
+            "collocations": [
+                "periodic home visits by nurses: 护士的定期上门探访"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "periodical",
+            "phonetic": "ˌpɪr.i.ˈɑ.dɪ.kəl",
+            "pos": "n.",
+            "definition": "(尤指内容严肃或学术性的)期刊 adj. 定期的",
+            "frequency": 13429,
+            "mnemonic": "periodic(周期性的)+-al( 形容词、名词后缀)→引申词义期刊",
+            "collocations": [
+                "books and periodicals: 书籍和期刊",
+                "make periodical visits to her dentist: 定期去看牙医"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "periodically",
+            "phonetic": "ˌpɪr.i.ˈɑ.dɪ.kli",
+            "pos": "adv.",
+            "definition": "定期地",
+            "frequency": 7163,
+            "mnemonic": "periodical(周期性的；定期的)+-ly(副词后缀)→定期地",
+            "collocations": [
+                "hold meetings periodically: 定期召开会议",
+                "para- 也有“beside,around”, 表示“在旁边，在周围”的含义。"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "parameter",
+            "phonetic": "pəˈræ.mə.tɚ",
+            "pos": "n.",
+            "definition": "参数；界限；范围",
+            "frequency": 5462,
+            "mnemonic": "para-(=beside,subsidiary: 在附近；附属的)+meter(=measure: 测量)→\n为了帮助界定，在附近测量→界限；范围；参数(参考因素) 搭配：to set/define the parameters: 制订/设定规范",
+            "collocations": [
+                "technical parameter: 技术参数….some of the parameters that determine the taste of a wine: 决定葡萄酒 口味的一些因素within the parameters of our loan agreement: 符合贷款协议的范围笔 记 区",
+                "technical parameter: 技术参数\n….some of the parameters that determine the taste of a wine: 决定葡萄酒 口味的一些因素",
+                "within the parameters of our loan agreement: 符合贷款协议的范围\n笔 记 区"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paradise",
+            "phonetic": "ˈpɛr.ə.daɪs",
+            "pos": "n.",
+            "definition": "(某些宗教所指的)天堂；乐园(指美好的环境);(某类 活动或某类人的)完美去处；极乐；伊甸园",
+            "frequency": 6927,
+            "mnemonic": "para-(在周围)+-dise(to make,to form a wall: 形成；建造)→在周围修 建花园→天堂；乐园",
+            "collocations": [
+                "a tropical paradise: 热带的人间乐土",
+                "a birdwatcher's paradise: 鸟类观察者的乐园",
+                "the idea of paradise: 至乐之事",
+                "a paradise on earth: 人间天堂"
+            ],
+            "etymology": "来自希腊语paradeisos, 伊甸园，天堂，花园。最早用于指圣经中所 描述的伊甸园，引申词义天堂，天国等。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paranoia",
+            "phonetic": "ˌpɛr.əˈnɔɪ.ə",
+            "pos": "n.",
+            "definition": "多疑；恐惧；偏执狂；妄想狂",
+            "frequency": 10791,
+            "mnemonic": "para-(=beside,beyond: 在旁边；在周围)+-noia(=noos=mind: 思想)→\n在周围思想，即胡思乱想→引申词义妄想症；偏执狂 搭配：the mounting paranoia: 越来越重的疑惧心理",
+            "collocations": [
+                "acute paranoia: 急性偏执狂\n释义：(N-UNCOUNT) 疑惧；多疑 If you say that someone suffers from paranoia,you think that they are too suspicious and afraid of other people. (N-UNCOUNT) 偏执狂；妄想症 In psychology,if someone suffers from paranoia,they wrongly believe that other people are trying to harm them, or believe themselves to be much more important than they really are."
+            ],
+            "etymology": "\"mental disorder characterized by systematized delusions,\"1848(earlier paranoea 1811),from Greek paranoia\"mental derangement,madness,\" from paranoos “mentally ill,insane”.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paranoid",
+            "phonetic": "ˈpɛr.ə.nɔɪd",
+            "pos": "adj.",
+            "definition": "多疑的；恐惧的；患偏执狂的；患妄想狂的 n. 偏 执狂；妄想狂",
+            "frequency": 8822,
+            "mnemonic": "笔 记 区 助记：paranoia(多疑；偏执狂)+-oid(类……;像……;似……)→多疑的；患",
+            "collocations": [
+                "a paranoid politician: 多疑的政治家",
+                "paranoid delusions: 偏执狂的错觉",
+                "sad ,deluded paranoids: 可悲的、被蒙蔽的妄想狂们\n释义：(人)极端疑惧的 If you say that someone is paranoid,you mean that they are extremely suspicious and afraid of other people.\n(ADJ)患偏执狂的；患妄想症的 Someone who is paranoid suffers from the mental illness of paranoia."
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "parasite",
+            "phonetic": "ˈpɛr.ə.saɪt",
+            "pos": "n.",
+            "definition": "寄生虫；寄生植物；靠他人为生的人；寄生虫",
+            "frequency": 8637,
+            "mnemonic": "para-(=beside: 一旁)+-site(=sitos: 食物) →在旁边混口饭吃 →寄生 虫；靠他人为生的人\nparasite (寄生虫)+-ic(形容词后缀，与……有关)→ (病)由寄生物引起 的；寄生的；寄生虫似的",
+            "collocations": [
+                "a vast range of parasites: 各种各样的寄生虫",
+                "parasiti c [pærə'sitɪk] adj. ( 病)由寄生物引起的；(动植物)寄生的；(人或组\n织)依赖他人过活的，寄生虫似的(等于parasitical)16783",
+                "tropical parasitic diseases: 热带寄生虫病",
+                "a parasitic new middle class: 寄生性的中产阶级\n20000词汇巅峰速\n20000词汇巅峰\n笔 记 区\n笔 记 区"
+            ],
+            "etymology": "和古代中国一样，古希腊的贵族或富豪家中也会养一些食客。这些 食客不从事劳动，专靠给主人出谋划策或拍须溜马来混口饭吃。在 希腊语中这种食客被称为parasitos, 由构成，字面意思就是“在旁边 吃饭”。该词经拉丁语进入英语后，最初表示“靠谄媚他人而获得 利益的人”。18世纪后，parasite一词逐渐被科学家用来表示“寄生 动物”或“寄生植物”,引申为“依赖他人而生活的人”。例如： Don't be a parasite, earn your way in life.(别当寄生虫，要自食其力)。 原希腊词中sitos这一成分也进入了英语，但被作为一个组合语素，拼 作sito-, 常见于一些英语科技术语，并还保留着它的原义“食物”, 如sitology(饮食学),sitomania(贪食症),sitophobia(畏食)等。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paramedic",
+            "phonetic": "ˌpɛr.əˈmɛ.dɪk",
+            "pos": "n.",
+            "definition": "(非医生或护士的)医疗护理人员；医务辅助人员",
+            "frequency": 10648,
+            "mnemonic": "para-(=beside: 在旁边)+medic (医生)→在医生旁边进行辅助的人员→",
+            "collocations": [
+                "have a paramedic on every ambulance: 在每辆救护车里配备一名护理 人员",
+                "释义：(N-COUNT) 急救医士；医务辅助人员A paramedic is a person whose",
+                "training is similar to that of a nurse and who helps to do medical work."
+            ],
+            "etymology": "\"medical technician,\"1970,back-formation from paramedical.The meaning \"medical corpsman who parachutes\"is 1951 from para(chute)+medic.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paramilitary",
+            "phonetic": "ˌpɛr.əˈmɪ.lə.tɛr.i",
+            "pos": "adj.",
+            "definition": "(组织)准军事性的；非法军事组织的 n. 准军事组织成员；非法军事组织成员",
+            "frequency": 12285,
+            "mnemonic": "para-(alongside,irregular,abnormal: 在旁边；非正规的；不正常 的)+military(军队)→在正规军队边缘的，不正规的军队→准军事的； 非法军事组织的(相应的名词用法同)",
+            "collocations": [
+                "paramilitary forces: 准军事部队",
+                "paramilitary groups: 非法军事组织",
+                "paramilitaries and army: 准军事组织成员和部队"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paragon",
+            "phonetic": "ˈpɛr.ə.ɡɑn",
+            "pos": "n.",
+            "definition": "完人；杰出典范",
+            "frequency": 20076,
+            "mnemonic": "para-(=on the side: 在旁边)+gon(=whetstone: 磨刀石；试金石)→将 要检验的金子在试金石上摩擦，试金石是衡量价值的标准，因此经过\n笔 记 区 试金石检验的都是完美之物→完人；典范",
+            "collocations": [
+                "a paragon of neatness,efficiency,and reliability: 整洁、高效、真实可 信的杰出典范",
+                "the paragon of virtue: 美德典范",
+                "parachute 含义为“降落伞”。"
+            ],
+            "etymology": "古代西方人为了检验金子的纯度，常常使用一种用纹理细密的深色 玉石做成的试金石(touchstone) 。将要检验的金子在试金石上摩擦，根 据划痕的颜色来判断金子的纯度。这种试金石在意大利语中被称为 paragone 。因为试金石是衡量价值的标准，因此衍生出“完美之物、 模范”之意。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "parachute",
+            "phonetic": "ˈpɛr.ə.ʃut",
+            "pos": "n.",
+            "definition": "降落伞 vt.&vi.使空降；跳伞 parachute into.…突然派到(某机构以帮助该机构)vt. 空投",
+            "frequency": 9898,
+            "mnemonic": "Parachut e直接来自法语，由法国著名发明家、热气球飞行先驱布兰 沙尔(Blanchard) 所创造。布兰沙尔是一名勇敢的冒险家和杰出的发明 家。1783年，法国人利诺曼(Lenormand) 在达芬奇等前人的研究基础 上，研制了一种降落装置，并利用它从高塔上降落。布兰沙尔听说 后，决心研制能够帮助人从失事气球中逃生的降落装置。两年后，他 研制成功一种降落装置，可以在气球失事时，帮助人们从高空气球安 全降落至地面，因此他将其命名为parachute, 中文译为“降落伞”。 1793年，布兰沙尔所研制的降落伞真的救了他一命。从此以后，布兰 沙尔所研制的parachute广为人知。虽然后人在其基础上不断改进降落 伞，但为了纪念他，人们一直沿用parachute这个名字来称呼降落伞。\npara-(=defense against: 抵抗；应对)+chute(=a fall: 跌落)→that which protects against a fall: 应对高空跌落(的防护装置)→ 降落伞；跳伞",
+            "collocations": [
+                "open the parachutes: 打开降落伞",
+                "a parachute drop/jump: 空投；跳伞",
+                "parachute food,clothing,blankets,medicine,and water into the rugged mountainous border region: 把食物、衣服、毯子、药和水空投到崎岖 的边界山区",
+                "be parachuted into the company: 被突然派到公司"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "paratrooper",
+            "phonetic": "ˈpɛr.ə.tru.pɚ",
+            "pos": "n.",
+            "definition": "伞兵；空降兵",
+            "frequency": 17856,
+            "mnemonic": "parachut e(降落伞；跳伞)+trooper ( 骑兵；装甲兵)→跳伞的士兵→伞 兵；空降兵",
+            "collocations": [
+                "paratrooper fracture: 跳伞者骨折"
+            ],
+            "etymology": "*gwhī-,Proto-Indo-European root meaning \"thread,tendon.\"It is the hypothetical source of/evidence for its existence is provided by:Avestan jya-\"bowstring;\"Latin filum “a thread,string;\"Armenian jil \"sinew, string,line;”Lithuanian gysla\"vein,sinew;\"Old Church Slavonic zila \"vein.\"",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "file",
+            "phonetic": "faɪl",
+            "pos": "n.",
+            "definition": "文件；卷宗vt.&vi.提起 vt.提交；使归档 vi.排成纵列行进",
+            "frequency": 1758,
+            "mnemonic": "来自拉丁语filum, 线。引申词义文件，文献，因古代文献多用线缝",
+            "collocations": [
+                "file a housing story: 提交一份有关住房的报道",
+                "file alphabetically: 按字母顺序来归档\non file: 存档",
+                "the ants file down the hill: 蚂蚁排成纵列行进走下小山"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "profile",
+            "phonetic": "ˈproʊ.faɪl",
+            "pos": "n.",
+            "definition": "侧面轮廓；人物简介；(书面的)描述 vt. 对……作介绍； 作传",
+            "frequency": 2699,
+            "mnemonic": "pro-(前面的)+-fil-(to draw in outline: 画出轮廓)+-e→ 画出某物的轮廓 → 引申义为从侧面；人物简介；描述；作传\nprofile(画出轮廓；概括)+-ing(名词后缀)→给某类人画出轮廓；进行 归纳概括→一般指资料收集；特殊用法为特征分析；群体定性(尤指 罪犯和某类容易惹上警察的人)",
+            "collocations": [
+                "handsome profile: 英俊的侧面轮廓",
+                "show...in profile: 从侧面显示",
+                "comparative profiles of…:有关……的对比简介",
+                "the FBI profile of..: 联邦调查局对……的描述",
+                "pioneer psychological profiling: 开创了犯罪心理描画",
+                "someone have a high profile: 某人受到高度关注",
+                "keep a low profile: 保持低姿态；避免引人注目\n20000词汇巅峰速趣课多\n20000词汇巅峰速\n笔 记 区 profiling ['prəufarliŋ] n .(有关人或事物的)资料搜集；(尤指罪犯)特征分析；\n群体定性(因警察认为某类人较可能会犯罪而截查他们)19408",
+                "customer profiling: 客户情况收集",
+                "offender profiling: 罪犯(尤指谋杀犯)特征分析",
+                "racial profiling: 种族定性"
+            ],
+            "etymology": "1650s,“a drawing of the outline of anything,\"from older Italian profilo “a drawing in outline,\"from profilare “to draw in outline”.Meaning “a side view”is from 1660s.Meaning “biographical sketch,character study”is from 1734.",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "filament",
+            "phonetic": "ˈfɪləmənt",
+            "pos": "n.",
+            "definition": "细丝；(电灯泡的)灯丝",
+            "frequency": 14292,
+            "mnemonic": "fil-(线)+-a-+-ment(名词后缀)→线状物→细丝；灯丝",
+            "collocations": [
+                "glass/metal filaments: 玻璃/金属丝"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "fillet",
+            "phonetic": "fɪˈleɪ",
+            "pos": "n.",
+            "definition": "无骨肉片；去骨鱼片 vt. 剔去(鱼、肉的)骨头；把(鱼、肉)切 成片",
+            "frequency": 10984,
+            "mnemonic": "fil-(线)+-let(名词后缀)→用丝线穿在一起的鱼片→去骨鱼片；无骨肉 片；使去骨",
+            "collocations": [
+                "chicken breast fillets: 鸡脯肉",
+                "roll the fillets in flour: 把鱼片在面粉里滚一下"
+            ],
+            "etymology": "因这种(去骨)鱼片用丝线穿在一起而得名。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "filet",
+            "phonetic": "fɪˈleɪ",
+            "pos": "n.",
+            "definition": "肉片；鱼片；(猪、牛等的)里脊",
+            "frequency": 18772,
+            "mnemonic": "filet=fillet",
+            "collocations": [
+                "filet of beef: 牛排片"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "test",
+            "phonetic": "tɛst",
+            "pos": "vt.",
+            "definition": "试验；测试；考验 n. 试验；测试；考验",
+            "frequency": 576,
+            "collocations": [
+                "something\"is recorded from 1590s.\n选20000词汇巅峰\n选\n笔 记 区\n笔 记 区",
+                "put something to the test: 检验某物"
+            ],
+            "etymology": "n.S ense of\"trial or examination to determine the correctness of v.1748,\"to examine the correctness of,\"from test(n.),on the notion of“put to the proof.”Earlier “assay gold or silver”in a test(c.1600).",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "testing",
+            "phonetic": "ˈtɛstɪŋ",
+            "pos": "adj.",
+            "definition": "考验人的n. 检测",
+            "frequency": 2524,
+            "collocations": [
+                "the most testing time: 最考验人的时候",
+                "product testing: 产品检测"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "testify",
+            "phonetic": "ˈtɛstəfaɪ",
+            "pos": "vt.",
+            "definition": "&vi.(在法庭上)作证 vt.证实；证明",
+            "frequency": 2816,
+            "mnemonic": "test (实验；测试)+-ify(使动词后缀)→使(做)实验→证明，证实(实验的 目的都是为了“证明和证实”某项假设)",
+            "collocations": [
+                "testify against/for sb/testify to/about sth: (尤指出庭)作证；证明"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "testimony",
+            "phonetic": "ˈtɛstəmoʊniː",
+            "pos": "n.",
+            "definition": "证据；证词",
+            "frequency": 2683,
+            "mnemonic": "testi(=testify: 证明)+-mony(名词后缀)→能作证明的东西→证据；证明\ntest-(=testify: 证明)+a+-ment(名词后缀)→证据；证明",
+            "collocations": [
+                "bear testimony to: 证明了 ……",
+                "a sworn testimony: 宣誓证词\n同义词：testament ['testom(ant] n. 证据；证明；临终遗嘱(will)10977",
+                "a testament to the skill: 显示了技术水平",
+                "new/old testament: 新/旧约全书",
+                "last will and testament: 临终遗嘱"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "testimonial",
+            "phonetic": "ˌtɛstəˈmoʊniːəl",
+            "pos": "n.",
+            "definition": "( 常指雇主证明某人品德和能力的)证明书；奖 品；表彰会",
+            "frequency": 16296,
+            "collocations": [
+                "a glowing testimonial: 充满赞誉的推荐信",
+                "a testimonial game: 纪念赛"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "protest",
+            "phonetic": "prəˈtɛst",
+            "pos": "vt.",
+            "definition": "&vi. 抗议；申辩 vi. 断言(断然否认)n. 抗议；声 明",
+            "frequency": 2858,
+            "mnemonic": "pro-(向前)+-test (尝试；试)→ 向前“试一试”(指“展示”自己的不\n满)→“示”威；抗议；反对→ (坚决表示)抗议；申辩；断然否认 搭配：protest against: 反对；对……提出抗议",
+            "collocations": [
+                "without protest: 心甘情愿地",
+                "under protest: 抗议着；极不乐意地",
+                "organize protests: 组织抗议"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "protester",
+            "phonetic": "prəˈtɛs.tɚ",
+            "pos": "n.",
+            "definition": "(公开)抗议者；反对者",
+            "frequency": 6282,
+            "mnemonic": "protest(抗议；反对)+-er(名词后缀，表示人)→ (公开)抗议者；反对者",
+            "collocations": [
+                "thousands of protesters: 数千名抗议者"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "protestant",
+            "phonetic": "ˈprɑ.tə.stənt",
+            "pos": "n.",
+            "definition": "新教徒(16世纪脱离天主教的基督教教派成员)adj.新教的；新教徒的",
+            "frequency": 6220,
+            "mnemonic": "protest(抗议；反对)+-ant (名词后缀，表示人)→抗议(买卖赎罪券)的人 →对罗马天主教抱抗议态度的人→新教徒；新教的",
+            "collocations": [
+                "a Protestant church/country: 新教教堂/国家"
+            ],
+            "etymology": "一五一七年九月四日，马丁 ·路德发表了他的九十五条论纲；同年十 月三十一日马丁路德在教堂大门所张贴《有关赎罪券辩论之邀请》, 反对买卖赎罪券，由此揭开了欧洲宗教改革的序幕。那些在抗议文件 上签名及拥护抗议文件的人就被称为“抗议者”(Protestant) 。后来， 该词被用来泛指对罗马公教(即天主教)抱抗议态度的诸多新教派，包 括路德宗、加尔文宗、英国国教安立甘宗，统称为“新教”。",
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "protestantism",
+            "phonetic": "ˈprɑ.tə.stən.tɪz.əm",
+            "pos": "n.",
+            "definition": "新教；新教教义",
+            "frequency": 16395,
+            "mnemonic": "protestant(新教的)+-ism(名词后缀，表示各种主义，宗教)→新教；新 教教义",
+            "collocations": [
+                "the spread of Protestantism: 新教的传播"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "contest",
+            "phonetic": "kənˈtɛst",
+            "pos": "vt.",
+            "definition": "对……提出抗辩；参加(竞选或比赛)n. 竞赛；争夺",
+            "frequency": 3087,
+            "mnemonic": "con-(共同)+test(测试)→ vt. 竞赛；竞争(=contend: 竞争)",
+            "collocations": [
+                "contest the elections: 参加竞选",
+                "contest the case: 对本案提出抗辩",
+                "beauty contest: 选美比赛"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "contestant",
+            "phonetic": "kənˈtɛstənt",
+            "pos": "n.",
+            "definition": "参赛者；竞争者",
+            "frequency": 8934,
+            "collocations": [
+                "apply to be a contestant: 报名做参赛者"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "contested",
+            "phonetic": "kənˈtɛstɪd",
+            "pos": "adj.",
+            "definition": "争夺的；有争议的",
+            "frequency": 12736,
+            "collocations": [
+                "contested concepts: 争议性概念",
+                "teste r ['testə] n. 测试员；测试器；(商店里的)小包装试用品(如香水)7143",
+                "testers of new software: 新软件测试员",
+                "a battery tester: 电池测试仪"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "attest",
+            "phonetic": "əˈtɛst",
+            "pos": "vt.",
+            "definition": "&vi. 证明 vi. 证实[+to]8795",
+            "mnemonic": "at(=ad: 去)+test(bear witness to,give proof to: 证明)→证明；证实",
+            "collocations": [
+                "attest to his courage: 证实了他的勇气",
+                "be attested by two witnesses: 有两名见证人"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "detest",
+            "phonetic": "dɪ.ˈtɛst",
+            "pos": "vt.",
+            "definition": "憎恨；厌恶",
+            "frequency": 16929,
+            "collocations": [
+                "detest each other on sight: 互相看着就不顺眼"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "test-retest",
+            "phonetic": "ˌtɛstˈriːtɛst",
+            "pos": "n.",
+            "definition": "再测；重测信度",
+            "frequency": 17738,
+            "collocations": [
+                "test-retest reliability: 重测信度"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "untested",
+            "phonetic": "ʌnˈtɛstɪd",
+            "definition": "(物/药物)未经实验的；(人)未经考验的",
+            "frequency": 17246,
+            "collocations": [
+                "an untested force: 未经考验的军队",
+                "give untested drugs to people: 将未经实验的药物发给人"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "tested",
+            "phonetic": "ˈtɛstɪd",
+            "pos": "adj.",
+            "definition": "经受过考验的；经实验的",
+            "frequency": 19252,
+            "collocations": [
+                "clinically tested: 临床验证的"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "subtest",
+            "phonetic": "ˈsʌb.tɛst",
+            "pos": "n.",
+            "definition": "分测验",
+            "frequency": 15404,
+            "collocations": [
+                "sub-(进一步分的)+test (测验) →分测验"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "tentative",
+            "phonetic": "ˈtɛn.tə.tɪv",
+            "pos": "adj.",
+            "definition": "不确定的；初步的；犹豫的",
+            "frequency": 7868,
+            "mnemonic": "tent-(=test: 测试；实验)+-ative(=ate+ive: 复合形容词后缀) →实验 (性)的；尝试(性)的",
+            "collocations": [
+                "a tentative plan: 一个试探性计划",
+                "a tentative agreement: 初步协议"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        },
+        {
+            "word": "tentatively",
+            "phonetic": "ˈtɛn.tə.tɪv.li",
+            "pos": "adv.",
+            "definition": "初步地；犹豫地",
+            "frequency": 10865,
+            "collocations": [
+                "suggest tentatively: 犹豫地建议",
+                "tentatively schedule to: 初步定在"
+            ],
+            "examples": [],
+            "rootHint": "liter"
+        }
+    ]
 }

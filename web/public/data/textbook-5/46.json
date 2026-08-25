@@ -1,90 +1,90 @@
 {
-  "chapter": "46",
-  "chapterOrder": 146,
-  "id": "46",
-  "meaningEn": "to take, hold",
-  "meaningZh": "持有，拥有，掌握，",
-  "roots": [],
-  "semanticLabel": "持有，拥有，掌握",
-  "source": "textbook-5",
-  "titleZh": "持有，拥有，掌握",
-  "words": [
-    {
-      "collocations": [
-        "in case / just in case：以防",
-        "a black case for his glasses：他的黑色的眼镜盒\n笔 记 区"
-      ],
-      "definition": "容器；箱子；情况；案例；事实",
-      "examples": [],
-      "frequency": 186,
-      "mnemonic": "cas-（=cap-=to hold：保留；持有）+ e→容器；箱子\ncas-（=fall：下降，降落）+ e→发生的事情→情况；案例；事实\ncase2）：receptacle, box, that which encloses or contains→容器；箱子",
-      "phonetic": "keɪs",
-      "pos": "n.",
-      "word": "case"
-    },
-    {
-      "collocations": [
-        "on a case-by-case basis：逐个地；视情况而定"
-      ],
-      "definition": "具体问题具体分析",
-      "examples": [],
-      "frequency": 19032,
-      "phonetic": "ˌkeɪsbaɪˈkeɪs",
-      "pos": "n.",
-      "word": "case-by-case"
-    },
-    {
-      "collocations": [
-        "the average caseload：平均个案总数"
-      ],
-      "definition": "（医生、社工或律师等需要处理的）案例数量",
-      "examples": [],
-      "frequency": 15057,
-      "mnemonic": "case（案例）+ load（工作量）→案例数量",
-      "phonetic": "ˈkeɪsˌloʊd",
-      "pos": "n.",
-      "word": "caseload"
-    },
-    {
-      "collocations": [
-        "family caseworker：家庭个案工作者",
-        "caseworker group：案例工作组"
-      ],
-      "definition": "社会工作者（帮助社区特殊困难者）",
-      "examples": [],
-      "frequency": 15374,
-      "mnemonic": "case（案例）+ worker（工作者）→（特殊）案例工作者→社会工作",
-      "phonetic": "ˈkeɪsˌwɝkɚ",
-      "pos": "n.",
-      "word": "caseworker"
-    },
-    {
-      "collocations": [
-        "cod liver oil capsules：鳕鱼鱼肝油胶囊",
-        "space capsule：太空舱",
-        "a time capsule：时光宝盒"
-      ],
-      "definition": "（装药的）胶囊；（用于医学或科学目的的）小容器；太空舱",
-      "examples": [
-        "They first implanted capsules into the animals’ brains.\n他们先将胶囊植入那些动物的大脑。"
-      ],
-      "frequency": 7621,
-      "mnemonic": "caps-（=box, case：箱子；盒子）+ -ule（名词后缀，指小形式）→小\n盒子→胶囊；小容器；太空舱",
-      "phonetic": "ˈkæpsəl",
-      "pos": "n.",
-      "word": "capsule"
-    },
-    {
-      "collocations": [
-        "chass（=frame：框架）+ -is（名词后缀）→（车辆）底盘；底架"
-      ],
-      "definition": "（车辆）底盘；底架",
-      "etymology": "来自法语châssis“frame”：框架；构架。",
-      "examples": [],
-      "frequency": 13848,
-      "phonetic": "ˈtʃæsi",
-      "pos": "n.",
-      "word": "chassis"
-    }
-  ]
+    "chapter": "46",
+    "chapterOrder": 146,
+    "id": "46",
+    "meaningEn": "to take, hold",
+    "meaningZh": "持有，拥有，掌握，",
+    "roots": [],
+    "semanticLabel": "持有，拥有，掌握",
+    "source": "textbook-5",
+    "titleZh": "持有，拥有，掌握",
+    "words": [
+        {
+            "collocations": [
+                "in case / just in case：以防",
+                "a black case for his glasses：他的黑色的眼镜盒\n笔 记 区"
+            ],
+            "definition": "容器；箱子；情况；案例；事实",
+            "examples": [],
+            "frequency": 186,
+            "mnemonic": "cas-（=cap-=to hold：保留；持有）+ e→容器；箱子\ncas-（=fall：下降，降落）+ e→发生的事情→情况；案例；事实\ncase2）：receptacle, box, that which encloses or contains→容器；箱子",
+            "phonetic": "keɪs",
+            "pos": "n.",
+            "word": "case"
+        },
+        {
+            "collocations": [
+                "on a case-by-case basis：逐个地；视情况而定"
+            ],
+            "definition": "具体问题具体分析",
+            "examples": [],
+            "frequency": 19032,
+            "phonetic": "ˌkeɪsbaɪˈkeɪs",
+            "pos": "n.",
+            "word": "case-by-case"
+        },
+        {
+            "collocations": [
+                "the average caseload：平均个案总数"
+            ],
+            "definition": "（医生、社工或律师等需要处理的）案例数量",
+            "examples": [],
+            "frequency": 15057,
+            "mnemonic": "case（案例）+ load（工作量）→案例数量",
+            "phonetic": "ˈkeɪsˌloʊd",
+            "pos": "n.",
+            "word": "caseload"
+        },
+        {
+            "collocations": [
+                "family caseworker：家庭个案工作者",
+                "caseworker group：案例工作组"
+            ],
+            "definition": "社会工作者（帮助社区特殊困难者）",
+            "examples": [],
+            "frequency": 15374,
+            "mnemonic": "case（案例）+ worker（工作者）→（特殊）案例工作者→社会工作",
+            "phonetic": "ˈkeɪsˌwɝkɚ",
+            "pos": "n.",
+            "word": "caseworker"
+        },
+        {
+            "collocations": [
+                "cod liver oil capsules：鳕鱼鱼肝油胶囊",
+                "space capsule：太空舱",
+                "a time capsule：时光宝盒"
+            ],
+            "definition": "（装药的）胶囊；（用于医学或科学目的的）小容器；太空舱",
+            "examples": [
+                "They first implanted capsules into the animals’ brains.\n他们先将胶囊植入那些动物的大脑。"
+            ],
+            "frequency": 7621,
+            "mnemonic": "caps-（=box, case：箱子；盒子）+ -ule（名词后缀，指小形式）→小\n盒子→胶囊；小容器；太空舱",
+            "phonetic": "ˈkæpsəl",
+            "pos": "n.",
+            "word": "capsule"
+        },
+        {
+            "collocations": [
+                "chass（=frame：框架）+ -is（名词后缀）→（车辆）底盘；底架"
+            ],
+            "definition": "（车辆）底盘；底架",
+            "etymology": "来自法语châssis“frame”：框架；构架。",
+            "examples": [],
+            "frequency": 13848,
+            "phonetic": "ˈtʃæsiː",
+            "pos": "n.",
+            "word": "chassis"
+        }
+    ]
 }

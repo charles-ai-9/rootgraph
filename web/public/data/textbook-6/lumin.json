@@ -1,316 +1,316 @@
 {
-  "chapter": "15",
-  "chapterOrder": 115,
-  "id": "lumin",
-  "meaningEn": "light, shine，表示“光；发亮；照射”。",
-  "roots": [
-    "lumin"
-  ],
-  "semanticLabel": "light, shine，表示光；发亮；照射。",
-  "source": "textbook-6",
-  "titleZh": "light, shine，表示光；发亮；照射。",
-  "words": [
-    {
-      "collocations": [
-        "stare with huge luminous eyes：用亮晶晶的大眼睛盯着",
-        "luminous hands on a clock：钟的夜光指针",
-        "a luminous green：翠绿色"
-      ],
-      "definition": "发亮的；鲜亮的",
-      "examples": [],
-      "frequency": 9838,
-      "mnemonic": "lumin-（=shine：发亮）+ -ous（形容词后缀）→发亮的；鲜亮的",
-      "phonetic": "ˈlu.mə.nəs",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "luminous"
-    },
-    {
-      "collocations": [
-        "luminosity of the Sun：太阳的亮度",
-        "generosity n. 慷慨（gener-：产生）\nverbosity n. 啰唆（verb：词语）\nanimosity n. 仇恨（anim-：生命，有生命就有爱和恨）"
-      ],
-      "definition": "（星体或太阳的）亮度；（皮肤的）放光；光亮",
-      "examples": [],
-      "frequency": 18305,
-      "mnemonic": "lumin-（发亮的）+ -osity（名词后缀，-ose + -ity组成,表示多的状\n态）→亮度；光亮",
-      "phonetic": "ˌlu.mə.ˈnɑ.sə.ti",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "luminosity"
-    },
-    {
-      "collocations": [],
-      "definition": "专家；权威；泰斗",
-      "examples": [],
-      "frequency": 18112,
-      "mnemonic": "lumin-（光亮；光线）+ -ary（名词后缀）→引申词义发光的人→专",
-      "phonetic": "ˈlu.mə.nɛ.ɹi",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "luminary"
-    },
-    {
-      "collocations": [
-        "illuminate a street/building：照亮一个街道/建筑",
-        "illuminate someone’s thinking：解释某人的思想",
-        "be greatly illuminated：受到很大启发"
-      ],
-      "definition": "照明，照亮；阐明，解释",
-      "examples": [
-        "The earth is illuminated by the sun.\n太阳照亮地球。"
-      ],
-      "frequency": 5459,
-      "mnemonic": "il-（=in-：进入）+ lumin-（光）+ -ate（使动词后缀）→使光进入→",
-      "phonetic": "ɪˈlu.mə.neɪt",
-      "pos": "vt.",
-      "rootHint": "lumin",
-      "word": "illuminate"
-    },
-    {
-      "collocations": [
-        "the illuminated city at night：夜幕中万家灯火的城市"
-      ],
-      "definition": "灯火通明的；被照亮的",
-      "examples": [],
-      "frequency": 16322,
-      "phonetic": "ɪˈlu.mə.neɪ.tɪd",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "illuminated"
-    },
-    {
-      "collocations": [],
-      "definition": "富有启发性的",
-      "examples": [],
-      "frequency": 18343,
-      "phonetic": "ɪˈlu.mə.neɪ.tɪŋ",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "illuminating"
-    },
-    {
-      "collocations": [
-        "Christmas illuminations：圣诞节的彩灯",
-        "spiritual illumination：精神上的启发"
-      ],
-      "definition": "照明，光源；彩灯；启示，启迪",
-      "examples": [
-        "The only illumination in the room came from the fire.\n屋子里唯一的光亮来自炉火。"
-      ],
-      "frequency": 11447,
-      "phonetic": "ɪ.ˌlu.məˈneɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "illumination"
-    },
-    {
-      "collocations": [
-        "Proto-Indo-European root meaning “not heavy, having little weight.”",
-        "It is the hypothetical source of/evidence for its existence is provided by:",
-        "Sanskrit laghuh “quick, small;” Greek elakhys “small,” elaphros “light;”",
-        "Latin levare “to raise,” levis “light in weight, not heavy;” Old Church",
-        "Slavonic liguku, Russian lëgkij, Polish lekki, Lithuanian lengvas “light in",
-        "English leoht “not heavy, light in weight.”"
-      ],
-      "definition": "白血病",
-      "etymology": "*legwh- weight;” Old Irish lu “small,” laigiu “smaller, worse;” Gothic leihts, Old",
-      "examples": [],
-      "frequency": 11251,
-      "mnemonic": "leuk-（=light, bright：光；亮→白）+ -emia（=blood：血）→以血液\n中白细胞不正常聚集为特征的病→白血病",
-      "phonetic": "luˈki.mi.ə",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "leukemia"
-    },
-    {
-      "collocations": [
-        "light blue eyes：浅蓝色的眼睛",
-        "light summer clothes：轻薄的夏装\nlight winds：微风",
-        "some light housework：一些轻松的家务活",
-        "a light sleeper：睡得不沉",
-        "a light sentence：不严厉的（从轻）判处",
-        "a light diet：清淡的饮食",
-        "light on one’s feet：脚步轻盈",
-        "be light on sth.；不足；缺乏",
-        "a light touch：灵巧的处事能力",
-        "make light of sth.：轻视；对……等闲视之"
-      ],
-      "definition": "浅色的，淡色的；轻的，轻便的；（比平均或平常重量）轻的；分量不足的；轻柔的，不太用力的；容易做的，轻松的；少量的；不严厉的；消遣性的，轻松的；温和的；愉快的；清淡的",
-      "examples": [],
-      "frequency": 465,
-      "phonetic": "laɪt",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "light"
-    },
-    {
-      "collocations": [
-        "snow lightly：下小雪",
-        "take sth. lightly：对……掉以轻心（轻率地处理）"
-      ],
-      "definition": "轻柔地；轻轻地；不多；满不在乎地；轻率地",
-      "examples": [],
-      "frequency": 3424,
-      "phonetic": "ˈlaɪt.li",
-      "pos": "adv.",
-      "rootHint": "lumin",
-      "word": "lightly"
-    },
-    {
-      "collocations": [
-        "lighten the load：减轻负担",
-        "lighten the atmosphere：缓和气氛"
-      ],
-      "definition": "减轻（重量；工作量、债务、担忧等） vt.&vi.（使）变明亮，变成淡色；（使）感到不那么悲伤（或担忧、严肃），缓和",
-      "examples": [
-        "The sky began to lighten in the east.\n东方开始透亮了。"
-      ],
-      "frequency": 8756,
-      "mnemonic": "light（减轻工作、情绪等负担；光）+ -en（动词后缀）→减轻；缓",
-      "phonetic": "ˈlaɪ.tən",
-      "pos": "vt.",
-      "rootHint": "lumin",
-      "word": "lighten"
-    },
-    {
-      "collocations": [],
-      "definition": "明亮；（颜色）浅淡；轻松",
-      "examples": [],
-      "frequency": 16941,
-      "mnemonic": "light（光；淡色的；轻松的）+ -ness（名词后缀）→明亮；（颜色）",
-      "phonetic": "ˈlaɪt.nəs",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "lightness"
-    },
-    {
-      "collocations": [
-        "a light-hearted speech：轻松愉快的讲话"
-      ],
-      "definition": "轻松愉快的；轻松有趣的",
-      "examples": [
-        "She felt light-hearted and optimistic.\n她感到无忧无虑，很乐观。"
-      ],
-      "frequency": 18479,
-      "mnemonic": "light（轻松的；愉快的）+ heart（心）+ -ed（形容词后缀）→（心情",
-      "phonetic": "ˌlaɪt.ˈhɑɹ.tɪd",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "light-hearted"
-    },
-    {
-      "collocations": [
-        "a feeling of sheer/pure delight：十分高兴的心情",
-        "the delights of living in the country：生活在乡村的乐趣",
-        "take delight/take a delight in：以……为乐（尤指做使别人感到尴尬、\n不舒服的事）"
-      ],
-      "definition": "高兴；愉快；乐趣 vt. 使高兴；使愉快",
-      "examples": [],
-      "frequency": 4946,
-      "mnemonic": "de-（表强调）+ light（愉快）→高兴；愉快；使愉快",
-      "phonetic": "dɪ.ˈlaɪt",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "delight"
-    },
-    {
-      "collocations": [
-        "a delighted smile：愉快的微笑"
-      ],
-      "definition": "高兴的；愉快的；乐意的",
-      "examples": [
-        "I was delighted with my presents.\n我对我收到的礼物很满意。"
-      ],
-      "frequency": 6710,
-      "phonetic": "dɪ.ˈlaɪ.tɪd",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "delighted"
-    },
-    {
-      "collocations": [
-        "a delightful book/restaurant/town：令人愉快的书；舒适的餐馆；宜人"
-      ],
-      "definition": "令人愉快的",
-      "examples": [],
-      "frequency": 8946,
-      "phonetic": "dɪ.ˈlaɪt.fəl",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "delightful"
-    },
-    {
-      "collocations": [
-        "a lightweight jacket：轻便的短上衣",
-        "a lightweight book：内容平庸的书",
-        "a lightweight champion：轻量级拳击冠军",
-        "an intellectual lightweight：智力平庸的人"
-      ],
-      "definition": "（布料）轻量的，薄型的；不严肃的，给人印象不深的 n. 轻量级拳击手；无足轻重的人（或事）",
-      "examples": [],
-      "frequency": 8551,
-      "mnemonic": "light（轻的）+ weight（重量）→重量上轻的→布料轻薄的；不严肃",
-      "phonetic": "ˈlaɪt.weɪt",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "lightweight"
-    },
-    {
-      "collocations": [],
-      "definition": "肺；呼吸器",
-      "etymology": "来自古英语lungen（复数），肺，来自古词根legwh，轻的，因相比 于心，胃等其它内脏器官而言，肺较轻，且能在水中浮起来，因而 得名。",
-      "examples": [],
-      "frequency": 3276,
-      "mnemonic": "lung cancer：肺癌",
-      "phonetic": "lʌŋ",
-      "pos": "n.",
-      "rootHint": "lumin",
-      "word": "lung"
-    },
-    {
-      "collocations": [
-        "alight on a branch：落在一根树枝上",
-        "be set alight：着了火",
-        "alight with happiness：满脸洋溢着幸福"
-      ],
-      "definition": "（鸟虫）飞落；（从车上）下来 adj. 燃烧着的；洋溢着的",
-      "examples": [],
-      "frequency": 18006,
-      "mnemonic": "a-（down：下来）+ light（get off, make light：下来；使变轻）→从树\n枝、车、马上下来，使其变轻→飞落；下来\na-+ light（点燃；使明亮）→燃烧着的；洋溢着的（脸上仿佛有亮",
-      "phonetic": "ə.ˈlaɪt",
-      "pos": "vi.",
-      "rootHint": "lumin",
-      "word": "alight"
-    },
-    {
-      "collocations": [
-        "a slight headache：轻微的头痛",
-        "a slight woman：瘦小的女子",
-        "a very slight novel：一部颇不足道的小说",
-        "in the slightest：(用于加强否定的陈述语气) 一点也"
-      ],
-      "definition": "轻微的；瘦小的；无需重视的 n. 冷落；轻视 vt. 冷落；轻20000 词汇巅峰速记笔 记 区视",
-      "examples": [],
-      "frequency": 3007,
-      "mnemonic": "邪解：s（加强语气）+ light（轻）→轻微的；瘦小的；无需重视的；冷落，",
-      "phonetic": "slaɪt",
-      "pos": "adj.",
-      "rootHint": "lumin",
-      "word": "slight"
-    },
-    {
-      "collocations": [
-        "a slightly larger house：一间稍微大一点儿的房子",
-        "a slightly built man：一个身材瘦小的男人"
-      ],
-      "definition": "略微；稍微",
-      "examples": [],
-      "frequency": 1415,
-      "phonetic": "ˈslaɪtli",
-      "pos": "adv.",
-      "rootHint": "lumin",
-      "word": "slightly"
-    }
-  ]
+    "chapter": "15",
+    "chapterOrder": 115,
+    "id": "lumin",
+    "meaningEn": "light, shine，表示“光；发亮；照射”。",
+    "roots": [
+        "lumin"
+    ],
+    "semanticLabel": "light, shine，表示光；发亮；照射。",
+    "source": "textbook-6",
+    "titleZh": "light, shine，表示光；发亮；照射。",
+    "words": [
+        {
+            "collocations": [
+                "stare with huge luminous eyes：用亮晶晶的大眼睛盯着",
+                "luminous hands on a clock：钟的夜光指针",
+                "a luminous green：翠绿色"
+            ],
+            "definition": "发亮的；鲜亮的",
+            "examples": [],
+            "frequency": 9838,
+            "mnemonic": "lumin-（=shine：发亮）+ -ous（形容词后缀）→发亮的；鲜亮的",
+            "phonetic": "ˈlu.mə.nəs",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "luminous"
+        },
+        {
+            "collocations": [
+                "luminosity of the Sun：太阳的亮度",
+                "generosity n. 慷慨（gener-：产生）\nverbosity n. 啰唆（verb：词语）\nanimosity n. 仇恨（anim-：生命，有生命就有爱和恨）"
+            ],
+            "definition": "（星体或太阳的）亮度；（皮肤的）放光；光亮",
+            "examples": [],
+            "frequency": 18305,
+            "mnemonic": "lumin-（发亮的）+ -osity（名词后缀，-ose + -ity组成,表示多的状\n态）→亮度；光亮",
+            "phonetic": "ˌlu.mə.ˈnɑ.sə.ti",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "luminosity"
+        },
+        {
+            "collocations": [],
+            "definition": "专家；权威；泰斗",
+            "examples": [],
+            "frequency": 18112,
+            "mnemonic": "lumin-（光亮；光线）+ -ary（名词后缀）→引申词义发光的人→专",
+            "phonetic": "ˈlu.mə.nɛ.ri",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "luminary"
+        },
+        {
+            "collocations": [
+                "illuminate a street/building：照亮一个街道/建筑",
+                "illuminate someone’s thinking：解释某人的思想",
+                "be greatly illuminated：受到很大启发"
+            ],
+            "definition": "照明，照亮；阐明，解释",
+            "examples": [
+                "The earth is illuminated by the sun.\n太阳照亮地球。"
+            ],
+            "frequency": 5459,
+            "mnemonic": "il-（=in-：进入）+ lumin-（光）+ -ate（使动词后缀）→使光进入→",
+            "phonetic": "ɪˈlu.mə.neɪt",
+            "pos": "vt.",
+            "rootHint": "lumin",
+            "word": "illuminate"
+        },
+        {
+            "collocations": [
+                "the illuminated city at night：夜幕中万家灯火的城市"
+            ],
+            "definition": "灯火通明的；被照亮的",
+            "examples": [],
+            "frequency": 16322,
+            "phonetic": "ɪˈlu.mə.neɪ.tɪd",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "illuminated"
+        },
+        {
+            "collocations": [],
+            "definition": "富有启发性的",
+            "examples": [],
+            "frequency": 18343,
+            "phonetic": "ɪˈlu.mə.neɪ.tɪŋ",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "illuminating"
+        },
+        {
+            "collocations": [
+                "Christmas illuminations：圣诞节的彩灯",
+                "spiritual illumination：精神上的启发"
+            ],
+            "definition": "照明，光源；彩灯；启示，启迪",
+            "examples": [
+                "The only illumination in the room came from the fire.\n屋子里唯一的光亮来自炉火。"
+            ],
+            "frequency": 11447,
+            "phonetic": "ɪ.ˌlu.məˈneɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "illumination"
+        },
+        {
+            "collocations": [
+                "Proto-Indo-European root meaning “not heavy, having little weight.”",
+                "It is the hypothetical source of/evidence for its existence is provided by:",
+                "Sanskrit laghuh “quick, small;” Greek elakhys “small,” elaphros “light;”",
+                "Latin levare “to raise,” levis “light in weight, not heavy;” Old Church",
+                "Slavonic liguku, Russian lëgkij, Polish lekki, Lithuanian lengvas “light in",
+                "English leoht “not heavy, light in weight.”"
+            ],
+            "definition": "白血病",
+            "etymology": "*legwh- weight;” Old Irish lu “small,” laigiu “smaller, worse;” Gothic leihts, Old",
+            "examples": [],
+            "frequency": 11251,
+            "mnemonic": "leuk-（=light, bright：光；亮→白）+ -emia（=blood：血）→以血液\n中白细胞不正常聚集为特征的病→白血病",
+            "phonetic": "luˈkiː.mi.ə",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "leukemia"
+        },
+        {
+            "collocations": [
+                "light blue eyes：浅蓝色的眼睛",
+                "light summer clothes：轻薄的夏装\nlight winds：微风",
+                "some light housework：一些轻松的家务活",
+                "a light sleeper：睡得不沉",
+                "a light sentence：不严厉的（从轻）判处",
+                "a light diet：清淡的饮食",
+                "light on one’s feet：脚步轻盈",
+                "be light on sth.；不足；缺乏",
+                "a light touch：灵巧的处事能力",
+                "make light of sth.：轻视；对……等闲视之"
+            ],
+            "definition": "浅色的，淡色的；轻的，轻便的；（比平均或平常重量）轻的；分量不足的；轻柔的，不太用力的；容易做的，轻松的；少量的；不严厉的；消遣性的，轻松的；温和的；愉快的；清淡的",
+            "examples": [],
+            "frequency": 465,
+            "phonetic": "laɪt",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "light"
+        },
+        {
+            "collocations": [
+                "snow lightly：下小雪",
+                "take sth. lightly：对……掉以轻心（轻率地处理）"
+            ],
+            "definition": "轻柔地；轻轻地；不多；满不在乎地；轻率地",
+            "examples": [],
+            "frequency": 3424,
+            "phonetic": "ˈlaɪt.li",
+            "pos": "adv.",
+            "rootHint": "lumin",
+            "word": "lightly"
+        },
+        {
+            "collocations": [
+                "lighten the load：减轻负担",
+                "lighten the atmosphere：缓和气氛"
+            ],
+            "definition": "减轻（重量；工作量、债务、担忧等） vt.&vi.（使）变明亮，变成淡色；（使）感到不那么悲伤（或担忧、严肃），缓和",
+            "examples": [
+                "The sky began to lighten in the east.\n东方开始透亮了。"
+            ],
+            "frequency": 8756,
+            "mnemonic": "light（减轻工作、情绪等负担；光）+ -en（动词后缀）→减轻；缓",
+            "phonetic": "ˈlaɪ.tən",
+            "pos": "vt.",
+            "rootHint": "lumin",
+            "word": "lighten"
+        },
+        {
+            "collocations": [],
+            "definition": "明亮；（颜色）浅淡；轻松",
+            "examples": [],
+            "frequency": 16941,
+            "mnemonic": "light（光；淡色的；轻松的）+ -ness（名词后缀）→明亮；（颜色）",
+            "phonetic": "ˈlaɪt.nəs",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "lightness"
+        },
+        {
+            "collocations": [
+                "a light-hearted speech：轻松愉快的讲话"
+            ],
+            "definition": "轻松愉快的；轻松有趣的",
+            "examples": [
+                "She felt light-hearted and optimistic.\n她感到无忧无虑，很乐观。"
+            ],
+            "frequency": 18479,
+            "mnemonic": "light（轻松的；愉快的）+ heart（心）+ -ed（形容词后缀）→（心情",
+            "phonetic": "ˌlaɪt.ˈhɑr.tɪd",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "light-hearted"
+        },
+        {
+            "collocations": [
+                "a feeling of sheer/pure delight：十分高兴的心情",
+                "the delights of living in the country：生活在乡村的乐趣",
+                "take delight/take a delight in：以……为乐（尤指做使别人感到尴尬、\n不舒服的事）"
+            ],
+            "definition": "高兴；愉快；乐趣 vt. 使高兴；使愉快",
+            "examples": [],
+            "frequency": 4946,
+            "mnemonic": "de-（表强调）+ light（愉快）→高兴；愉快；使愉快",
+            "phonetic": "dɪ.ˈlaɪt",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "delight"
+        },
+        {
+            "collocations": [
+                "a delighted smile：愉快的微笑"
+            ],
+            "definition": "高兴的；愉快的；乐意的",
+            "examples": [
+                "I was delighted with my presents.\n我对我收到的礼物很满意。"
+            ],
+            "frequency": 6710,
+            "phonetic": "dɪ.ˈlaɪ.tɪd",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "delighted"
+        },
+        {
+            "collocations": [
+                "a delightful book/restaurant/town：令人愉快的书；舒适的餐馆；宜人"
+            ],
+            "definition": "令人愉快的",
+            "examples": [],
+            "frequency": 8946,
+            "phonetic": "dɪ.ˈlaɪt.fəl",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "delightful"
+        },
+        {
+            "collocations": [
+                "a lightweight jacket：轻便的短上衣",
+                "a lightweight book：内容平庸的书",
+                "a lightweight champion：轻量级拳击冠军",
+                "an intellectual lightweight：智力平庸的人"
+            ],
+            "definition": "（布料）轻量的，薄型的；不严肃的，给人印象不深的 n. 轻量级拳击手；无足轻重的人（或事）",
+            "examples": [],
+            "frequency": 8551,
+            "mnemonic": "light（轻的）+ weight（重量）→重量上轻的→布料轻薄的；不严肃",
+            "phonetic": "ˈlaɪt.weɪt",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "lightweight"
+        },
+        {
+            "collocations": [],
+            "definition": "肺；呼吸器",
+            "etymology": "来自古英语lungen（复数），肺，来自古词根legwh，轻的，因相比 于心，胃等其它内脏器官而言，肺较轻，且能在水中浮起来，因而 得名。",
+            "examples": [],
+            "frequency": 3276,
+            "mnemonic": "lung cancer：肺癌",
+            "phonetic": "lʌŋ",
+            "pos": "n.",
+            "rootHint": "lumin",
+            "word": "lung"
+        },
+        {
+            "collocations": [
+                "alight on a branch：落在一根树枝上",
+                "be set alight：着了火",
+                "alight with happiness：满脸洋溢着幸福"
+            ],
+            "definition": "（鸟虫）飞落；（从车上）下来 adj. 燃烧着的；洋溢着的",
+            "examples": [],
+            "frequency": 18006,
+            "mnemonic": "a-（down：下来）+ light（get off, make light：下来；使变轻）→从树\n枝、车、马上下来，使其变轻→飞落；下来\na-+ light（点燃；使明亮）→燃烧着的；洋溢着的（脸上仿佛有亮",
+            "phonetic": "ə.ˈlaɪt",
+            "pos": "vi.",
+            "rootHint": "lumin",
+            "word": "alight"
+        },
+        {
+            "collocations": [
+                "a slight headache：轻微的头痛",
+                "a slight woman：瘦小的女子",
+                "a very slight novel：一部颇不足道的小说",
+                "in the slightest：(用于加强否定的陈述语气) 一点也"
+            ],
+            "definition": "轻微的；瘦小的；无需重视的 n. 冷落；轻视 vt. 冷落；轻20000 词汇巅峰速记笔 记 区视",
+            "examples": [],
+            "frequency": 3007,
+            "mnemonic": "邪解：s（加强语气）+ light（轻）→轻微的；瘦小的；无需重视的；冷落，",
+            "phonetic": "slaɪt",
+            "pos": "adj.",
+            "rootHint": "lumin",
+            "word": "slight"
+        },
+        {
+            "collocations": [
+                "a slightly larger house：一间稍微大一点儿的房子",
+                "a slightly built man：一个身材瘦小的男人"
+            ],
+            "definition": "略微；稍微",
+            "examples": [],
+            "frequency": 1415,
+            "phonetic": "ˈslaɪtliː",
+            "pos": "adv.",
+            "rootHint": "lumin",
+            "word": "slightly"
+        }
+    ]
 }

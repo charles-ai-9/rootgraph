@@ -1,349 +1,349 @@
 {
-  "id": "bio",
-  "source": "textbook-3",
-  "chapter": "12",
-  "chapterOrder": 112,
-  "titleZh": "生命；生物(因为b 、v音似),于是有",
-  "semanticLabel": "生命；生物(因为b 、v音似),于是有",
-  "meaningEn": "生命；生物(因为b 、v音似),于是有",
-  "meaningZh": "",
-  "roots": [
-    "bio"
-  ],
-  "words": [
-    {
-      "word": "biology",
-      "phonetic": "baɪˈɑ.lə.dʒi",
-      "pos": "n.",
-      "definition": "生物学；(一个地区全部的)生物；(机体、细胞 的)作用方式",
-      "frequency": 4266,
-      "mnemonic": "bio-(生命；生物)+-logy ( 学科)→研究生命；生物的学科→生物学",
-      "collocations": [
-        "life,lifetime”(from root *gwei-\"to live;\"see bio-)+-logy\"study of.\"",
-        "cell biology; 细胞生物学",
-        "molecular biology: 分子生物学"
-      ],
-      "etymology": "\"the science of life and living things,\"1819,from Greek bios “life,one's",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biography",
-      "phonetic": "baɪˈɑ.ɡɹə.fi",
-      "pos": "n.",
-      "definition": "( 人物)传记；传记文学或体裁",
-      "frequency": 4932,
-      "mnemonic": "bio-(生命)+-graph( 写 ) +-y ( 名词后缀) →书写一个人生命(历 程)的东西→人物传记；传记文学",
-      "collocations": [
-        "an authentic biography: 一本真实的传记",
-        "...recent biographies of Stalin: ……近年的斯大林传记。",
-        "… a volume of biography and criticism:……一册传记文学与评论。"
-      ],
-      "etymology": "“传记”是叙述一个人生平经历的书或文章。Biography是从希腊语 词biographia来的，bio-表示“生活”;“生命”; grapho是“写”。 合在一起即“生活的写照”。“自传”叫autobiography, 即“自己的 传记”。和bio- ( 生活；生命)有关的还有一些词，如biology ( 生物 学 ) ,biosphere ( 生物圈，生命层)",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biographer",
-      "phonetic": "baɪˈɑ.ɡɹə.fɚ",
-      "pos": "n.",
-      "definition": "传记作者",
-      "frequency": 10796,
-      "mnemonic": "bio- (生命)+ -graph-( 写 ) + -er ( 名词后缀，表人)→书写个人生 命经历的人→传记作家",
-      "collocations": [
-        ".….Picasso's biographer: ……毕加索的传记作者"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biographical",
-      "phonetic": "ˌbaɪ.oʊˈɡɹæ.fɪ.kəl",
-      "pos": "adj.",
-      "definition": "传记的；关于生平的",
-      "frequency": 13717,
-      "mnemonic": "biography(传记，去y)+-ical ( 形容词后缀)→传记的；关于生命的",
-      "collocations": [
-        "biographical movie: 传记片",
-        "biographical information: 传记信息"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biochemical",
-      "phonetic": "ˌbaɪ.oʊˈkɛ.mɪ.kəl",
-      "pos": "adj.",
-      "definition": "生物化学的；生化的",
-      "frequency": 14773,
-      "mnemonic": "bio-(生物)+-chem-(化学)+-ical ( 形容词后缀)→生物化学的",
-      "collocations": [
-        "biochemical changes in the body: 体内的生化变化",
-        "biochemical analysis: 生物化学分析",
-        "biochemical reaction: 生化反应 释义：(ADJ) 生物化学的；生化的",
-        "Biochemical changes,reactions,and mechanisms relate to the chemical processes that happen in living things."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biochemistry",
-      "phonetic": "ˌbaɪ.oʊˈkɛ.mɪ.stɹi",
-      "pos": "n.",
-      "definition": "生物化学；生物化学过程",
-      "frequency": 18688,
-      "mnemonic": "bio-( 生 物 ) +chemistry ( 化学) →生物化学；生物化学过程",
-      "collocations": [
-        "...the effects of air pollutants on the biochemistry of plants or animals:",
-        "plant biochemistry: 植物生物化学"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biodiversity",
-      "phonetic": "ˌbaɪ.oʊ.daɪˈvɝ.sə.ti",
-      "pos": "n.",
-      "definition": "生物多样性",
-      "frequency": 7909,
-      "mnemonic": "bio- ( 生物)+diversity(多样性；差异)→生物多样性",
-      "collocations": [
-        "biodiversity protection: 生物多样性保护",
-        "indigenous biodiversity: 本土的生物多样性",
-        "biodiversity conservation: 生物多样性保护 释义：(N-UNCOUNT) 生物多样性",
-        "Biodiversity is the existence of a wide variety of plant and animal species living in their natural environment."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biomass",
-      "phonetic": "ˈbaɪ.oʊ.mæs",
-      "pos": "n.",
-      "definition": "n. 生物数量(以生境面积或容积表示);(提供动 力或能量的)生物量",
-      "frequency": 10737,
-      "mnemonic": "bio-(生物)+mass (团；大量)→生物数量\nbio-(生物)+medical ( 医学的；医疗的) →生物医学的\nbi-(=bio -: 生物体)+opsy(=ops-: 看；看见) →使……能看见生物组织的行为→活组织检查；活检 搭 配 ：skin biopsy: 皮肤活体组织检查needle biopsy: 穿刺活检释义：(N-VAR)活组织检查；活检A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill.biosolids ['barəu,splidz] 生物固体；从下水道污泥回收而来的半固体或固体 物质，被用来做化肥14782\nbio-(生物)+solids(固体) →生物固体笔记区",
-      "collocations": [
-        "biomass energy: 生物团能量active biomass: 活生物质biomedical [barə(u)'medrk(a)l] adj.生物医学的12459",
-        "biomedical research: 生物医学研究biomedical science: 生物医学biomedical engineering: 生物医学工程 释义：(ADJ) 生物医学的Biomedical research examines the effects of drugs and medical techniques on the biological systems of living creatures.biopsy['barppsI] n.活组织检查(从身体取下细胞或组织进行检验);活检1067",
-        "biomass energy: 生物团能量",
-        "active biomass: 活生物质"
-      ],
-      "etymology": "\"examination of tissue removed from a living body,\"1895,from French biopsie,coined by French dermatologist Ernest Besnier(1831-1909)from Greek bi-,combining form of bios “life”(from PIE root *gwei-\"to live”)+opsis “a sight”(from PIE root *okw-\"to see”).As a verb,from 1964.",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biomedical",
-      "phonetic": "ˌbaɪ.oʊˈmɛ.dɪ.kəl",
-      "pos": "adj.",
-      "definition": "生物医学的",
-      "frequency": 12459,
-      "mnemonic": "bio-(生物)+medical ( 医学的；医疗的) →生物医学的",
-      "collocations": [
-        "biomedical research: 生物医学研究",
-        "biomedical science: 生物医学",
-        "biomedical engineering: 生物医学工程 释义：(ADJ) 生物医学的",
-        "Biomedical research examines the effects of drugs and medical techniques on the biological systems of living creatures."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biopsy",
-      "phonetic": "ˈbaɪ.ɑp.si",
-      "pos": "n.",
-      "definition": "活组织检查(从身体取下细胞或组织进行检验);活检",
-      "frequency": 1067,
-      "mnemonic": "+opsis “a sight”(from PIE root *okw-\"to see”).As a verb,from 1964.\nbi-(=bio -: 生物体)+opsy(=ops-: 看；看见) →使……能看见生物\n组织的行为→活组织检查；活检 搭 配 ：skin biopsy: 皮肤活体组织检查",
-      "collocations": [
-        "needle biopsy: 穿刺活检\n释义：(N-VAR)活组织检查；活检",
-        "A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill."
-      ],
-      "etymology": "\"examination of tissue removed from a living body,\"1895,from French biopsie,coined by French dermatologist Ernest Besnier(1831-1909)from Greek bi-,combining form of bios “life”(from PIE root *gwei-\"to live”)",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biosolids",
-      "phonetic": "ˈbaɪ.oʊ.sɑ.lɪdz",
-      "definition": "生物固体；从下水道污泥回收而来的半固体或固体 物质，被用来做化肥",
-      "frequency": 14782,
-      "mnemonic": "bio-(生物)+solids(固体) →生物固体",
-      "collocations": [
-        "biosolids disinfection; 污泥卫生消毒 biosolids application: 污泥施用"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biosphere",
-      "phonetic": "ˈbaɪ.oʊ.sfɪɹ",
-      "pos": "n.",
-      "definition": "生物圈；生物层",
-      "frequency": 14801,
-      "mnemonic": "bio-(来自希腊语bios: 生命；生物)+sphere (来自希腊语sphaira:\n范围；球体)→生物组成的范围→生物圈；生物层 搭配：biosphere reserves: 生物圈保护区",
-      "collocations": [
-        "The biosphere is the part of the earth's surface and atmosphere where there are living things."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "biotech",
-      "phonetic": "ˈbaɪ.oʊ.tɛk",
-      "pos": "n.",
-      "definition": "同biotechnology 生物技术",
-      "frequency": 11438,
-      "mnemonic": "bio- ( 生物)+tech ( 技 术 )→生物技术",
-      "collocations": [
-        "...the biotech industry:……·生物技术产业",
-        "biotech company: 生物科技公司"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "antibiotic",
-      "phonetic": "ˌæntibaɪˈɑtɪk",
-      "pos": "adj.",
-      "definition": "抗生的；抗菌的 n. 抗菌素；抗生素(如青霉 素)5143",
-      "mnemonic": "anti-(=against : 反对；违反)+biotic(=of or related to living things:\n生物的；生命的→与生物、生命对抗的→抗生的；抗生素 搭配：an antibiotic drug: 抗菌素药",
-      "collocations": [
-        "agricultural antibiotic: 农用抗生素",
-        "effective antibiotic treatment: 有效的抗生素治疗"
-      ],
-      "etymology": "1941年，链霉素的发现者Selman Waksman博士发明了这个单词。希 腊前缀anti-表against, 与拉丁前缀ante- 表在…之前和日耳曼的and 同源，词根bio-,biot- 表生物，后缀-ic表与……有关的。抗生素对抗 的是我们身体里的细菌等生物。",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "symbiotic",
-      "phonetic": "ˌsɪm.baɪˈɑ.tɪk",
-      "pos": "adj.",
-      "definition": "共生的；共栖的",
-      "frequency": 17688,
-      "mnemonic": "symbiotic [smbar'ptik] adj. 共生；共生关系；互惠互利的17688\nsymbio(=syn-=together : 一起+bios=life: 生活→一起生活)+t+-ic ( 形 容词后缀)→一起生活的关系→共生；共生关系→ 引申为互惠互利的",
-      "collocations": [
-        "have a symbiotic relationship with: 与……存在共生关系",
-        "A symbiotic relationship is one in which organisms,people,or things exist together in a way that benefits them all.\n共生关系"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "microbe",
-      "phonetic": "ˈmaɪkɹoʊb",
-      "pos": "n.",
-      "definition": "微生物",
-      "frequency": 10376,
-      "mnemonic": "micro -(微小的)+-be(=bio-: 生命；生物) →微小的生物 →微生物",
-      "collocations": [
-        "soil microbe: 土壤微生物",
-        "释义：(N-COUNT)微生物",
-        "A microbe is a very small living thing,which you can only see if you use a microscope."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "microbial",
-      "phonetic": "maɪˈkɹoʊbiəl",
-      "pos": "adj.",
-      "definition": "微生物的；由细菌引起的",
-      "frequency": 13199,
-      "mnemonic": "micro -(微小的)+ -bi-(=bio: 生命；生物)+-al(=o f: … … 的，形 容词词缀) → of or pertaining to microbes: 与微生物有关的→微生物 的；由细菌引起的",
-      "collocations": [
-        "microbial ecology: 微生物生态学",
-        "microbial degradation 微生物降解(作用)",
-        "microbial activity: 微生物活性",
-        "microbial infections: 细菌感染"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "microbiologist",
-      "phonetic": "ˌmaɪkɹoʊbaɪˈɑlədʒɪst",
-      "pos": "n.",
-      "definition": "微生物学家",
-      "frequency": 19459,
-      "mnemonic": "micro- (微小的)+biologist ( 生物学家) →a scientist who studies\nmicrobiology: 研究微生物的专家→微生物学家 搭配：food microbiologist: 食品微生物学家",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "aerobic",
-      "phonetic": "ɛ.ˈɹoʊ.bɪk",
-      "pos": "adj.",
-      "definition": "需氧的；好氧的；有氧的；增强心肺功能的",
-      "frequency": 8954,
-      "mnemonic": "aero-(=air: 空气)+ -b(=-bio=life: 生命)+-ic ( 形容词后缀) → 与 存活生命的空气有关的，即氧气的→需氧的；好氧的；有氧的；增强 心肺功能的",
-      "collocations": [
-        "aerobic exercise: 有氧健身运动",
-        "aerobic respiration: 有氧呼吸",
-        "aerobic bacteria: 需氧细菌"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "anaerobic",
-      "phonetic": "ˌænəˈɹoʊbɪk",
-      "pos": "adj.",
-      "definition": "厌氧的；由厌氧菌引起的；(锻炼)无氧的 (不专为改善心肺功能)17400",
-      "mnemonic": "an-(=without: 没有)+aero- ( 氧气；空气)+b(=bio-: 生物)+-ic (形容词后缀)→无需氧气而能生的→厌氧的；无氧的",
-      "collocations": [
-        "anaerobic bacteria: 厌氧菌",
-        ".. .an anaerobic workout: 无氧训练",
-        "anaerobic organism: 厌氧生物"
-      ],
-      "etymology": "aero, 来自希腊语aeros(= 空气；氧气)。背景知识： anaerobic 一词 来自法语anaérobie ( 厌氧生物),由法国著名法国化学家及微生物学 家路易 · 巴斯德创造。",
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "amphibian",
-      "phonetic": "æmˈfɪbiən",
-      "pos": "n.",
-      "definition": "两栖动物；水陆两用车；水陆两用飞机",
-      "mnemonic": "amphi-(=of both kinds: 双重类型的)+bi-(o)(= 生 物 )+-an ( 名 词后缀)→双重类型的生物→两栖动物",
-      "collocations": [
-        "amphibian car: 水陆两用汽车",
-        "释义：(N-COUNT) 两栖动物",
-        "Amphibians are animals such as frogs and toads that can live both on land and in water.Amphibians have cold blood and skin without scales.Frogs, toads and newts are all amphibians."
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "amphibious",
-      "phonetic": "æmˈfɪbiəs",
-      "pos": "adj.",
-      "definition": "( 陆军、海军)从海上发起进攻的；(交通工 具)水陆两用的；(动物)水陆两栖的",
-      "frequency": 18680,
-      "mnemonic": "amphi-(=of both kinds: 双重类型的)+bi-(o)(= 生物)+-ous ( 形 容词后缀) → (交通工具)水陆两用的；(动物)水路两栖的 → 引申 为(陆军、海军)从海上发起进攻的",
-      "collocations": [
-        "amphibious warfare: 两栖作战",
-        "amphibious vehicles: 水陆两用车辆"
-      ],
-      "examples": [],
-      "rootHint": "bio"
-    },
-    {
-      "word": "whiskey",
-      "phonetic": "ˈwɪs.ki",
-      "pos": "n.",
-      "definition": "威士忌酒(尤指产于美国和爱尔兰，由大麦或 黑麦等酿成的烈性酒);一杯威士忌酒",
-      "frequency": 7136,
-      "collocations": [
-        "Old Irish uisce“water”(from PIE *ud-skio-,suffixed form of root *wed- (1)“water;wet”)+bethu “life”(from PIE*gwi-wo-tut-,suffixed form of *gwi-wo-,from root*gwei-“to live”).\n根据巴恩哈特的说法，盖尔语可能是中世纪拉丁语aqua vitae,自14 世纪以来，它一直适用于令人醉酒的饮料。(比较法国eau de vie “白 兰地”)。其他早期的英语拼写包括usquebea(1706) 和iskie bae (1580s) 。 在爱尔兰和苏格兰，它可以从麦芽中获得；在美国，通常 由玉米或黑麦制成。苏格兰威士忌与爱尔兰和美国威士忌之间的拼写 区别是19世纪的革新。威士忌酸酒的记录是从1889年开始的。",
-        "Irish whiskey: 爱尔兰威士忌"
-      ],
-      "etymology": "“酒”在不少语言中都被做“生命之水”。拉丁语把“酒”叫做 aquavitae; 瑞典语把“酒”叫做akvavit; 法语把“酒”叫做eau-de- vie, 都是“生命之水”的意思。“威士忌”这一酒名来自苏格兰和 爱尔兰的盖尔语uisge beatha,意思也是“生命之水”。英国国王亨利 八世( Henry VI,1491——1547) 特别喜爱这种新牌子的酒，便将 它推而广之，在广泛的流传中，这种酒的名字也渐由uisge beatha演变 成usquebaugh, 又变成whisheybaugh,whiskbae, 最后变成whiskey或 whishy. 俄国人则更简单，把他们制的酒叫做Bogka( 伏特加),意思 是对“水”的爱称",
-      "examples": [],
-      "rootHint": "bio"
-    }
-  ]
+    "id": "bio",
+    "source": "textbook-3",
+    "chapter": "12",
+    "chapterOrder": 112,
+    "titleZh": "生命；生物(因为b 、v音似),于是有",
+    "semanticLabel": "生命；生物(因为b 、v音似),于是有",
+    "meaningEn": "生命；生物(因为b 、v音似),于是有",
+    "meaningZh": "",
+    "roots": [
+        "bio"
+    ],
+    "words": [
+        {
+            "word": "biology",
+            "phonetic": "baɪˈɑ.lə.dʒi",
+            "pos": "n.",
+            "definition": "生物学；(一个地区全部的)生物；(机体、细胞 的)作用方式",
+            "frequency": 4266,
+            "mnemonic": "bio-(生命；生物)+-logy ( 学科)→研究生命；生物的学科→生物学",
+            "collocations": [
+                "life,lifetime”(from root *gwei-\"to live;\"see bio-)+-logy\"study of.\"",
+                "cell biology; 细胞生物学",
+                "molecular biology: 分子生物学"
+            ],
+            "etymology": "\"the science of life and living things,\"1819,from Greek bios “life,one's",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biography",
+            "phonetic": "baɪˈɑ.ɡrə.fi",
+            "pos": "n.",
+            "definition": "( 人物)传记；传记文学或体裁",
+            "frequency": 4932,
+            "mnemonic": "bio-(生命)+-graph( 写 ) +-y ( 名词后缀) →书写一个人生命(历 程)的东西→人物传记；传记文学",
+            "collocations": [
+                "an authentic biography: 一本真实的传记",
+                "...recent biographies of Stalin: ……近年的斯大林传记。",
+                "… a volume of biography and criticism:……一册传记文学与评论。"
+            ],
+            "etymology": "“传记”是叙述一个人生平经历的书或文章。Biography是从希腊语 词biographia来的，bio-表示“生活”;“生命”; grapho是“写”。 合在一起即“生活的写照”。“自传”叫autobiography, 即“自己的 传记”。和bio- ( 生活；生命)有关的还有一些词，如biology ( 生物 学 ) ,biosphere ( 生物圈，生命层)",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biographer",
+            "phonetic": "baɪˈɑ.ɡrə.fɚ",
+            "pos": "n.",
+            "definition": "传记作者",
+            "frequency": 10796,
+            "mnemonic": "bio- (生命)+ -graph-( 写 ) + -er ( 名词后缀，表人)→书写个人生 命经历的人→传记作家",
+            "collocations": [
+                ".….Picasso's biographer: ……毕加索的传记作者"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biographical",
+            "phonetic": "ˌbaɪ.oʊˈɡræ.fɪ.kəl",
+            "pos": "adj.",
+            "definition": "传记的；关于生平的",
+            "frequency": 13717,
+            "mnemonic": "biography(传记，去y)+-ical ( 形容词后缀)→传记的；关于生命的",
+            "collocations": [
+                "biographical movie: 传记片",
+                "biographical information: 传记信息"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biochemical",
+            "phonetic": "ˌbaɪ.oʊˈkɛ.mɪ.kəl",
+            "pos": "adj.",
+            "definition": "生物化学的；生化的",
+            "frequency": 14773,
+            "mnemonic": "bio-(生物)+-chem-(化学)+-ical ( 形容词后缀)→生物化学的",
+            "collocations": [
+                "biochemical changes in the body: 体内的生化变化",
+                "biochemical analysis: 生物化学分析",
+                "biochemical reaction: 生化反应 释义：(ADJ) 生物化学的；生化的",
+                "Biochemical changes,reactions,and mechanisms relate to the chemical processes that happen in living things."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biochemistry",
+            "phonetic": "ˌbaɪ.oʊˈkɛ.mɪ.stri",
+            "pos": "n.",
+            "definition": "生物化学；生物化学过程",
+            "frequency": 18688,
+            "mnemonic": "bio-( 生 物 ) +chemistry ( 化学) →生物化学；生物化学过程",
+            "collocations": [
+                "...the effects of air pollutants on the biochemistry of plants or animals:",
+                "plant biochemistry: 植物生物化学"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biodiversity",
+            "phonetic": "ˌbaɪ.oʊ.daɪˈvɝ.sə.ti",
+            "pos": "n.",
+            "definition": "生物多样性",
+            "frequency": 7909,
+            "mnemonic": "bio- ( 生物)+diversity(多样性；差异)→生物多样性",
+            "collocations": [
+                "biodiversity protection: 生物多样性保护",
+                "indigenous biodiversity: 本土的生物多样性",
+                "biodiversity conservation: 生物多样性保护 释义：(N-UNCOUNT) 生物多样性",
+                "Biodiversity is the existence of a wide variety of plant and animal species living in their natural environment."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biomass",
+            "phonetic": "ˈbaɪ.oʊ.mæs",
+            "pos": "n.",
+            "definition": "n. 生物数量(以生境面积或容积表示);(提供动 力或能量的)生物量",
+            "frequency": 10737,
+            "mnemonic": "bio-(生物)+mass (团；大量)→生物数量\nbio-(生物)+medical ( 医学的；医疗的) →生物医学的\nbi-(=bio -: 生物体)+opsy(=ops-: 看；看见) →使……能看见生物组织的行为→活组织检查；活检 搭 配 ：skin biopsy: 皮肤活体组织检查needle biopsy: 穿刺活检释义：(N-VAR)活组织检查；活检A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill.biosolids ['barəu,splidz] 生物固体；从下水道污泥回收而来的半固体或固体 物质，被用来做化肥14782\nbio-(生物)+solids(固体) →生物固体笔记区",
+            "collocations": [
+                "biomass energy: 生物团能量active biomass: 活生物质biomedical [barə(u)'medrk(a)l] adj.生物医学的12459",
+                "biomedical research: 生物医学研究biomedical science: 生物医学biomedical engineering: 生物医学工程 释义：(ADJ) 生物医学的Biomedical research examines the effects of drugs and medical techniques on the biological systems of living creatures.biopsy['barppsI] n.活组织检查(从身体取下细胞或组织进行检验);活检1067",
+                "biomass energy: 生物团能量",
+                "active biomass: 活生物质"
+            ],
+            "etymology": "\"examination of tissue removed from a living body,\"1895,from French biopsie,coined by French dermatologist Ernest Besnier(1831-1909)from Greek bi-,combining form of bios “life”(from PIE root *gwei-\"to live”)+opsis “a sight”(from PIE root *okw-\"to see”).As a verb,from 1964.",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biomedical",
+            "phonetic": "ˌbaɪ.oʊˈmɛ.dɪ.kəl",
+            "pos": "adj.",
+            "definition": "生物医学的",
+            "frequency": 12459,
+            "mnemonic": "bio-(生物)+medical ( 医学的；医疗的) →生物医学的",
+            "collocations": [
+                "biomedical research: 生物医学研究",
+                "biomedical science: 生物医学",
+                "biomedical engineering: 生物医学工程 释义：(ADJ) 生物医学的",
+                "Biomedical research examines the effects of drugs and medical techniques on the biological systems of living creatures."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biopsy",
+            "phonetic": "ˈbaɪ.ɑp.si",
+            "pos": "n.",
+            "definition": "活组织检查(从身体取下细胞或组织进行检验);活检",
+            "frequency": 1067,
+            "mnemonic": "+opsis “a sight”(from PIE root *okw-\"to see”).As a verb,from 1964.\nbi-(=bio -: 生物体)+opsy(=ops-: 看；看见) →使……能看见生物\n组织的行为→活组织检查；活检 搭 配 ：skin biopsy: 皮肤活体组织检查",
+            "collocations": [
+                "needle biopsy: 穿刺活检\n释义：(N-VAR)活组织检查；活检",
+                "A biopsy is the removal and examination of fluids or tissue from a patient's body in order to discover why they are ill."
+            ],
+            "etymology": "\"examination of tissue removed from a living body,\"1895,from French biopsie,coined by French dermatologist Ernest Besnier(1831-1909)from Greek bi-,combining form of bios “life”(from PIE root *gwei-\"to live”)",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biosolids",
+            "phonetic": "ˈbaɪ.oʊ.sɑ.lɪdz",
+            "definition": "生物固体；从下水道污泥回收而来的半固体或固体 物质，被用来做化肥",
+            "frequency": 14782,
+            "mnemonic": "bio-(生物)+solids(固体) →生物固体",
+            "collocations": [
+                "biosolids disinfection; 污泥卫生消毒 biosolids application: 污泥施用"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biosphere",
+            "phonetic": "ˈbaɪ.oʊ.sfɪr",
+            "pos": "n.",
+            "definition": "生物圈；生物层",
+            "frequency": 14801,
+            "mnemonic": "bio-(来自希腊语bios: 生命；生物)+sphere (来自希腊语sphaira:\n范围；球体)→生物组成的范围→生物圈；生物层 搭配：biosphere reserves: 生物圈保护区",
+            "collocations": [
+                "The biosphere is the part of the earth's surface and atmosphere where there are living things."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "biotech",
+            "phonetic": "ˈbaɪ.oʊ.tɛk",
+            "pos": "n.",
+            "definition": "同biotechnology 生物技术",
+            "frequency": 11438,
+            "mnemonic": "bio- ( 生物)+tech ( 技 术 )→生物技术",
+            "collocations": [
+                "...the biotech industry:……·生物技术产业",
+                "biotech company: 生物科技公司"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "antibiotic",
+            "phonetic": "ˌæntiːbaɪˈɑtɪk",
+            "pos": "adj.",
+            "definition": "抗生的；抗菌的 n. 抗菌素；抗生素(如青霉 素)5143",
+            "mnemonic": "anti-(=against : 反对；违反)+biotic(=of or related to living things:\n生物的；生命的→与生物、生命对抗的→抗生的；抗生素 搭配：an antibiotic drug: 抗菌素药",
+            "collocations": [
+                "agricultural antibiotic: 农用抗生素",
+                "effective antibiotic treatment: 有效的抗生素治疗"
+            ],
+            "etymology": "1941年，链霉素的发现者Selman Waksman博士发明了这个单词。希 腊前缀anti-表against, 与拉丁前缀ante- 表在…之前和日耳曼的and 同源，词根bio-,biot- 表生物，后缀-ic表与……有关的。抗生素对抗 的是我们身体里的细菌等生物。",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "symbiotic",
+            "phonetic": "ˌsɪm.baɪˈɑ.tɪk",
+            "pos": "adj.",
+            "definition": "共生的；共栖的",
+            "frequency": 17688,
+            "mnemonic": "symbiotic [smbar'ptik] adj. 共生；共生关系；互惠互利的17688\nsymbio(=syn-=together : 一起+bios=life: 生活→一起生活)+t+-ic ( 形 容词后缀)→一起生活的关系→共生；共生关系→ 引申为互惠互利的",
+            "collocations": [
+                "have a symbiotic relationship with: 与……存在共生关系",
+                "A symbiotic relationship is one in which organisms,people,or things exist together in a way that benefits them all.\n共生关系"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "microbe",
+            "phonetic": "ˈmaɪkroʊb",
+            "pos": "n.",
+            "definition": "微生物",
+            "frequency": 10376,
+            "mnemonic": "micro -(微小的)+-be(=bio-: 生命；生物) →微小的生物 →微生物",
+            "collocations": [
+                "soil microbe: 土壤微生物",
+                "释义：(N-COUNT)微生物",
+                "A microbe is a very small living thing,which you can only see if you use a microscope."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "microbial",
+            "phonetic": "maɪˈkroʊbiːəl",
+            "pos": "adj.",
+            "definition": "微生物的；由细菌引起的",
+            "frequency": 13199,
+            "mnemonic": "micro -(微小的)+ -bi-(=bio: 生命；生物)+-al(=o f: … … 的，形 容词词缀) → of or pertaining to microbes: 与微生物有关的→微生物 的；由细菌引起的",
+            "collocations": [
+                "microbial ecology: 微生物生态学",
+                "microbial degradation 微生物降解(作用)",
+                "microbial activity: 微生物活性",
+                "microbial infections: 细菌感染"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "microbiologist",
+            "phonetic": "ˌmaɪkroʊbaɪˈɑlədʒɪst",
+            "pos": "n.",
+            "definition": "微生物学家",
+            "frequency": 19459,
+            "mnemonic": "micro- (微小的)+biologist ( 生物学家) →a scientist who studies\nmicrobiology: 研究微生物的专家→微生物学家 搭配：food microbiologist: 食品微生物学家",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "aerobic",
+            "phonetic": "ɛ.ˈroʊ.bɪk",
+            "pos": "adj.",
+            "definition": "需氧的；好氧的；有氧的；增强心肺功能的",
+            "frequency": 8954,
+            "mnemonic": "aero-(=air: 空气)+ -b(=-bio=life: 生命)+-ic ( 形容词后缀) → 与 存活生命的空气有关的，即氧气的→需氧的；好氧的；有氧的；增强 心肺功能的",
+            "collocations": [
+                "aerobic exercise: 有氧健身运动",
+                "aerobic respiration: 有氧呼吸",
+                "aerobic bacteria: 需氧细菌"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "anaerobic",
+            "phonetic": "ˌænəˈroʊbɪk",
+            "pos": "adj.",
+            "definition": "厌氧的；由厌氧菌引起的；(锻炼)无氧的 (不专为改善心肺功能)17400",
+            "mnemonic": "an-(=without: 没有)+aero- ( 氧气；空气)+b(=bio-: 生物)+-ic (形容词后缀)→无需氧气而能生的→厌氧的；无氧的",
+            "collocations": [
+                "anaerobic bacteria: 厌氧菌",
+                ".. .an anaerobic workout: 无氧训练",
+                "anaerobic organism: 厌氧生物"
+            ],
+            "etymology": "aero, 来自希腊语aeros(= 空气；氧气)。背景知识： anaerobic 一词 来自法语anaérobie ( 厌氧生物),由法国著名法国化学家及微生物学 家路易 · 巴斯德创造。",
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "amphibian",
+            "phonetic": "æmˈfɪbiːən",
+            "pos": "n.",
+            "definition": "两栖动物；水陆两用车；水陆两用飞机",
+            "mnemonic": "amphi-(=of both kinds: 双重类型的)+bi-(o)(= 生 物 )+-an ( 名 词后缀)→双重类型的生物→两栖动物",
+            "collocations": [
+                "amphibian car: 水陆两用汽车",
+                "释义：(N-COUNT) 两栖动物",
+                "Amphibians are animals such as frogs and toads that can live both on land and in water.Amphibians have cold blood and skin without scales.Frogs, toads and newts are all amphibians."
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "amphibious",
+            "phonetic": "æmˈfɪbiːəs",
+            "pos": "adj.",
+            "definition": "( 陆军、海军)从海上发起进攻的；(交通工 具)水陆两用的；(动物)水陆两栖的",
+            "frequency": 18680,
+            "mnemonic": "amphi-(=of both kinds: 双重类型的)+bi-(o)(= 生物)+-ous ( 形 容词后缀) → (交通工具)水陆两用的；(动物)水路两栖的 → 引申 为(陆军、海军)从海上发起进攻的",
+            "collocations": [
+                "amphibious warfare: 两栖作战",
+                "amphibious vehicles: 水陆两用车辆"
+            ],
+            "examples": [],
+            "rootHint": "bio"
+        },
+        {
+            "word": "whiskey",
+            "phonetic": "ˈwɪs.ki",
+            "pos": "n.",
+            "definition": "威士忌酒(尤指产于美国和爱尔兰，由大麦或 黑麦等酿成的烈性酒);一杯威士忌酒",
+            "frequency": 7136,
+            "collocations": [
+                "Old Irish uisce“water”(from PIE *ud-skio-,suffixed form of root *wed- (1)“water;wet”)+bethu “life”(from PIE*gwi-wo-tut-,suffixed form of *gwi-wo-,from root*gwei-“to live”).\n根据巴恩哈特的说法，盖尔语可能是中世纪拉丁语aqua vitae,自14 世纪以来，它一直适用于令人醉酒的饮料。(比较法国eau de vie “白 兰地”)。其他早期的英语拼写包括usquebea(1706) 和iskie bae (1580s) 。 在爱尔兰和苏格兰，它可以从麦芽中获得；在美国，通常 由玉米或黑麦制成。苏格兰威士忌与爱尔兰和美国威士忌之间的拼写 区别是19世纪的革新。威士忌酸酒的记录是从1889年开始的。",
+                "Irish whiskey: 爱尔兰威士忌"
+            ],
+            "etymology": "“酒”在不少语言中都被做“生命之水”。拉丁语把“酒”叫做 aquavitae; 瑞典语把“酒”叫做akvavit; 法语把“酒”叫做eau-de- vie, 都是“生命之水”的意思。“威士忌”这一酒名来自苏格兰和 爱尔兰的盖尔语uisge beatha,意思也是“生命之水”。英国国王亨利 八世( Henry VI,1491——1547) 特别喜爱这种新牌子的酒，便将 它推而广之，在广泛的流传中，这种酒的名字也渐由uisge beatha演变 成usquebaugh, 又变成whisheybaugh,whiskbae, 最后变成whiskey或 whishy. 俄国人则更简单，把他们制的酒叫做Bogka( 伏特加),意思 是对“水”的爱称",
+            "examples": [],
+            "rootHint": "bio"
+        }
+    ]
 }

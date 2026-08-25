@@ -1,902 +1,902 @@
 {
-  "id": "duct",
-  "source": "textbook-3",
-  "chapter": "10",
-  "chapterOrder": 110,
-  "titleZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
-  "semanticLabel": "引导，引 领同源，另外同源的词根还有-duce: 引导",
-  "meaningEn": "引导，引领的含义，是与单词Iead",
-  "meaningZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
-  "roots": [
-    "duct"
-  ],
-  "words": [
-    {
-      "word": "duct",
-      "phonetic": "dʌkt",
-      "pos": "n.",
-      "definition": "( 输送液体或气体的)管道；(人体内输送泪水、胆汁等的)导管",
-      "frequency": 8809,
-      "collocations": [
-        "air duct: 风道；空气管"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "conduct",
-      "phonetic": "kənˈdʌkt",
-      "pos": "vi.",
-      "definition": "进行；组织；实施；表现；指挥(管弦乐队或合唱 团);传导(热或电);陪伴；引导；带领 n. ( 任务或活动的)组织方式， 实施办法；行为；举止",
-      "frequency": 1166,
-      "mnemonic": "con-(=with,together: 一起)+-duct(=to lead: 引导)→引导；引领； con-(=with ,together: 一起)+-duct(=to act: 行为) → 行为；进行",
-      "collocations": [
-        "conduct a research: 进行研究",
-        "rules of conduct: 行为规范",
-        "the code of conduct: 行为准则"
-      ],
-      "examples": [
-        "1)The survey was conducted by means of a questionnaire given to the students to complete.\n该调查是以发给学生来完成的问卷实行来进行。\n2)Medical students are advised that the wearing of a white coat signifies the acceptance of a professional code of conduct expected of the medical profession.\n医学生被告知穿白大褂意味着人们对医学专业的行为准则的接受。"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "misconduct",
-      "phonetic": "mɪsˈkɑndʌkt",
-      "pos": "n.",
-      "definition": "( 尤指雇员或专业人员的)渎职；不端行为；违规行为；管理不善；玩忽职守",
-      "frequency": 9112,
-      "mnemonic": "mis-(=bad,wrong: 不好的)+ conduct ( 行为) →不端行为；违规行 为；玩忽职守",
-      "collocations": [
-        "serious professional misconduct: 严重失职"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "conductor",
-      "phonetic": "kənˈdʌktɚ",
-      "pos": "n.",
-      "definition": "( 管弦乐队或合唱团的)指挥；(公共汽车等的)售票 员；列车员；(热、电的)导体",
-      "frequency": 5996,
-      "mnemonic": "conduct(组织；实施；传导)+-or ( 名词后缀，表“人或物”)→领 导者；指挥；导体",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "semiconductor",
-      "phonetic": "ˌsɛmikənˈdʌktɚ",
-      "pos": "n.",
-      "definition": "半导体",
-      "frequency": 8921,
-      "mnemonic": "semi-(half,part;partial,imperfect;twice: 一半；部分的，不完美的；\n两倍)+conductor(导体)→半导体 搭配：semiconductor device: 半导体装置",
-      "collocations": [
-        "释义：(N-COUNT)半导体",
-        "A semiconductor is a substance used in electronics whose ability to conduct electricity increases with greater heat."
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "superconducting",
-      "phonetic": "ˌsu.pɚ.kənˈdʌk.tɪŋ",
-      "pos": "adj.",
-      "definition": "超导(电)的，无电阻率的，使用 无电阻物质的",
-      "frequency": 19585,
-      "mnemonic": "super (超级的)+conduct ( 导电)+-ing→超导的",
-      "collocations": [
-        "superconducting properties: 超导属性",
-        "superconducting materials: 超导材料"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "conduit",
-      "phonetic": "ˈkɑnduɪt",
-      "pos": "n.",
-      "definition": "( 液体、气体或电线的)管道，导管；[传递 想法、新闻、金钱、武器、毒品等的]渠道，通道",
-      "frequency": 12418,
-      "mnemonic": "From Old French conduit(12c.)\"escort,protection;pipe,channel,\" from Latin conductus \"a leading,a pipe,\"noun use of past participle of conducere “to lead or bring together;contribute,serve”.",
-      "collocations": [
-        "a conduit for drugs: 毒品贩运通道",
-        "conduit pipe: 导管\n20000词汇巅峰返"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "conducive",
-      "phonetic": "kənˈdusɪv",
-      "pos": "adj.",
-      "definition": "有助于某事；有益于某事",
-      "frequency": 11286,
-      "mnemonic": "conduce (导致或有助于；有益于，去e)+-ive ( 形容词后缀) →有",
-      "collocations": [
-        "conducive to sleep: 适宜于睡眠",
-        "an environment conducive to learning: 有助于学习的环境"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "deduce",
-      "phonetic": "dɪˈdus",
-      "pos": "vt.",
-      "definition": "推论，推断；演绎",
-      "frequency": 13706,
-      "mnemonic": "de- ( 向下)+duc- ( 引导)+-e→一步一步向下引导→推导；推 断；演绎",
-      "collocations": [
-        "deduce from: 推断；从……得出结论"
-      ],
-      "examples": [
-        "Organised volunteering and work experience has long been a vital companion to university degree courses.Usually it is left to employers to deduce the potential from a list of extracurricular adventures on a graduate's resume.\n有组织的志愿服务和工作经历长久以来就已经成为大学学位课程的重 要补充。通常，雇主会通过毕业生简历上的课外活动列表来推断其 潜能。"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "deduct",
-      "phonetic": "dɪ.ˈdʌkt",
-      "pos": "vt.",
-      "definition": "扣除，减去；演绎",
-      "frequency": 11591,
-      "mnemonic": "de- (下降；减少)+-duct ( 引导)→ 向下拉掉；减去；扣除",
-      "collocations": [
-        "deduct this payment: 扣除这笔款项",
-        "deduct sth from sth: ( 从总量中)扣除；减去"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "deductible",
-      "phonetic": "dɪ.ˈdʌk.tə.bəl",
-      "pos": "adj.",
-      "definition": "可扣除的；可减免的；免赔额",
-      "frequency": 14357,
-      "mnemonic": "deduct(=to take away money,points,etc.from a total amount: 从总量\n中扣除，减少)+-ible ( 能够……的) → 可扣除的；可减免的 搭配：.….deductible expenses:…… 可扣除费用",
-      "collocations": [
-        "tax-deductible expenses: 可减免税款的开支",
-        "pay a deductible of $628: 缴纳免赔费用628美元"
-      ],
-      "etymology": "1856,\"capable of being withdrawn,\"especially from one's taxes or income.",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "deduction",
-      "phonetic": "dɪ.ˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "扣除额；推演出来的结论；演绎；推论",
-      "frequency": 7141,
-      "mnemonic": "deduct (扣除；演绎)+-ion(名词后缀) →扣除额；演绎；推论",
-      "collocations": [
-        "tax deductions: 税金扣除额",
-        "logical deduction: 逻辑推理",
-        "a pretty astute deduction: 一个非常精明的结论"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "duke",
-      "phonetic": "duk",
-      "pos": "n.",
-      "definition": "公爵；(尤指旧时欧洲部分地区小公国的)君主",
-      "frequency": 13528,
-      "collocations": [
-        "the Duke of Edinburgh: 爱丁堡公爵"
-      ],
-      "etymology": "duke ( 公 爵 ) :罗马帝国时期的蛮族军事统帅在古罗马时代，由日 耳曼或凯尔特蛮族出身而作为雇佣军为罗马军队所用的将帅，由于 没有正式的罗马军衔而统称为Dux, 这就是英语单词Duke ( 公爵) 的来源。罗马帝国灭亡之后，各部族的军事领袖成为欧洲各小国的 国君，其中许多就以Dux为称号，他们统治的小国就被称为“公国” (duchy) 或“大公国”( Archduchy) 。 直到近代，意大利和德国统 一之前的很多小国都以此为称号。这些小国的国君一般翻译为“大 公”。欧洲现存的独立公国是卢森堡和安道尔公国。历史上的其它 公国经过合并和并吞，逐渐丧失独立性，成为国家的一部分，其统 治者也演变成了由国王授予的爵位，即“公爵”( Duke) 。 在欧洲 各国，公爵都是最高爵位之一。英国的公爵爵位出现很晚。1337年， 爱德华三世把康沃尔郡升为公国，将公爵爵号授予年方7岁的“黑太 子”爱德华。为突出公爵特殊地位，以后多年里除女王配偶和王子 外，其他王亲国戚均不许称王，最高可获公爵爵位。自从1483年建立 诺福克公国以后，公爵爵位开始授予王亲以外者，但很少建立公国。 而且能获此最高爵位者多是军功显赫的统帅。",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "educate",
-      "phonetic": "ˈɛ.dʒə.keɪt",
-      "pos": "vt.",
-      "definition": "( 在学校)教育；教导；教养；训练",
-      "frequency": 3059,
-      "mnemonic": "e-(=ex: 出来；向外)+duc- ( 引导)+-ate ( 动词后缀)→教育 (即：将人从愚昧无知的状态中“引导”出来)\ncultivate(开垦；种植；培养，去e)+-d ( 形容词后缀-ed去e变为-d) →人工栽培的→引申为人手培养出来的→有修养；有教养的",
-      "collocations": [
-        "educate the public to do sth.: 教育公众做某事",
-        "educate sb. (in/on sth): 在某方面教导某人",
-        "同义：cultivate ['kaltivert] vt. 开垦；种植；培养(态度、技巧等);树立(形 象、观念等);建立(友谊)5647",
-        "cultivate a global vision: 培养一种全球化视野",
-        "crucial to the success of life.\n培养成坚持不懈的习惯对于人生的成功至关重要。",
-        "cultivate d ['kaltrvertid] adj. 有教养的；人工栽培的13754",
-        "an elegant,cultivated woman: 优雅而有教养的女人",
-        "… a mixture of wild and cultivated varieties:……野生品种与人工栽培 品种的混杂",
-        "cultivated land/soil: 可耕种土地/土壤"
-      ],
-      "examples": [
-        "Humanistic thinking helps cultivate students'creativity.\n人文思想有助于培养学生的创造性。\n培养；教育”的表达方式： foster/cultivate/educate/develop/train",
-        "To cultivate/foster/develop/train the habit of persistence is vital/critical/"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "cultivation",
-      "phonetic": "ˌkʌl.təˈveɪ.ʃən",
-      "pos": "n.",
-      "definition": "开垦；耕作；栽培；种植；(某种素质或技能 的)培养",
-      "frequency": 9600,
-      "mnemonic": "cultivate(开垦；种植；培养)+-ion(名词后缀)→开垦；耕作；栽 培；培养",
-      "collocations": [
-        "the cultivation of tobacco: 烟草种植",
-        "fertile land that is under cultivation(=being cultivated): 肥沃的耕地",
-        "the cultivation of a good relationship with local firms: 发展与当地公司 的良好关系"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "educated",
-      "phonetic": "ˈɛ.dʒə.keɪ.tɪd",
-      "pos": "adj.",
-      "definition": "受过良好教育的；有教养的",
-      "frequency": 6023,
-      "mnemonic": "educate (教育)+ -d ( 形容词后缀-ed 去e)→ 受过良好教育的；有 教养的",
-      "collocations": [
-        "a highly educated woman: 很有修养的女子"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "education",
-      "phonetic": "ˌɛ.dʒəˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "( 学校的)教育；(某 一 学科的)教育；教育机 构；教育界人士",
-      "frequency": 377,
-      "mnemonic": "educate (教育，去e)+-ion ( 名词后缀) → (学校的)教育；(某一 学科的)教育",
-      "collocations": [
-        "health/sex education: 健康/性教育",
-        "the local education authority: 地方教育当局"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "educational",
-      "phonetic": "ˌɛ.dʒəˈkeɪ.ʃə.nəl",
-      "pos": "adj.",
-      "definition": "教育的；有教育意义的",
-      "frequency": 1596,
-      "mnemonic": "education (教育)+-al ( 形容词后缀) →教育的；有教育意义的",
-      "collocations": [
-        "the educational development of children儿童的教育发展 educational games: 寓教于乐的游戏"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "educator",
-      "phonetic": "ˈɛ.dʒə.keɪ.tɚ",
-      "pos": "n.",
-      "definition": "教育者；教育家",
-      "frequency": 2450,
-      "mnemonic": "educate (教育，去e)+-or ( 名词后缀，表示人)→教育者；教育家",
-      "collocations": [
-        ".….a passionate and dedicated nursing educator: ……一位热情而专注的 护理学教育者"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "induce",
-      "phonetic": "ɪnˈdus",
-      "pos": "vt.",
-      "definition": "引起；引诱；劝说；用人工方法引(产)5326",
-      "mnemonic": "in-(=into: 人，向内)+-duce(=to lead: 引导；带领)→ 向里面引\n导、带领 → 引起；引诱；招致(即：“引狼入室”);诱因 搭配：induce sb to do sth: 引诱、劝说某人干……",
-      "collocations": [
-        "induce a heart attack: 导致心脏病",
-        "induce labor: 引产",
-        "inadequate supervision and mainly arise from drivers'negligence.\n酒后驾车部分是由监管不力引起的，主要还是由于驾驶员的疏忽。\n导致”的表达方式：result in/lead to/bring about/give rise to/produce\n20000词汇巅峰速记班"
-      ],
-      "examples": [
-        "She was also worried about the damage all the plastic rubbish was doing to the environment.So she hopped on her bike and rode to the nearest grocery store to see what she could find that didn't plastic.\n她同样担心所有的塑料垃圾会对环境造成破坏。因此她跳上单车，骑 到最近的杂货店去看看是否能够找到哪些不含有塑料成分的物品。\nA.compose B.consist C. induce D.include\n由……引起”的表达方式：\ninduced by/arise from/caused by/aroused by/triggered by",
-        "Drunk driving is partly caused by/triggered by/induced by/aroused by",
-        "Drunk driving has resulted in/led to/brought about/given rise to/ produced a great many tragedies/misfortunes.\n酒后驾车已经导致了很多悲剧。"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "inducement",
-      "phonetic": "ɪnˈdus.mənt",
-      "pos": "n.",
-      "definition": "引诱；刺激；诱因",
-      "frequency": 17568,
-      "mnemonic": "induce(引起；引诱)+-ment ( 名词后缀)→引诱；刺激；诱因",
-      "collocations": [
-        "offer every inducement to foreign businesses: 提供种种优惠条件吸引外 国公司"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "abduct",
-      "phonetic": "æb.ˈdʌkt",
-      "pos": "vt.",
-      "definition": "诱拐；劫持；绑架",
-      "frequency": 11732,
-      "mnemonic": "ab-(=off,away from: 分离，离开)+-duct(=to lead: 引导) → 凭借 暴力强迫分离→诱拐；劫持；绑架",
-      "collocations": [
-        "abduct women and kids: 拐卖妇女和儿童"
-      ],
-      "etymology": "1620s,\"a leading away,\"from Latin abductionem (nominative abductio) \"a forcible carrying off,ravishing,robbing,\"noun of action from past- participle stem of abducere “to lead away,take away,arrest”(often by force).As\"criminal act of forcibly taking(someone)\"by 1768;before that the word also was a term in surgery and logic.",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "abductor",
-      "phonetic": "æb.ˈdʌk.tɚ",
-      "pos": "n.",
-      "definition": "诱拐者；劫持者；绑匪",
-      "mnemonic": "abduct (诱拐；劫持；绑架)+-or ( 名词后缀，表示人)→诱拐者； 劫持者；绑匪",
-      "collocations": [
-        "co-operate with her abductor: 顺从绑匪的要求"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "abduction",
-      "phonetic": "æb.ˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "绑架；拐骗；劫持",
-      "frequency": 11329,
-      "mnemonic": "abduct (诱拐；劫持；绑架)+-ion ( 名词后缀)→绑架；拐骗；劫持",
-      "collocations": [
-        "child abduction: 拐带儿童",
-        "alien abduction: 外星人绑架"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "induct",
-      "phonetic": "ɪnˈdʌkt",
-      "pos": "vt.",
-      "definition": "使正式就任；赋予头衔；给予职位； 征召……入伍",
-      "frequency": 15282,
-      "mnemonic": "来自induce( 引导；诱使)→引申词义使正式就任；赋予头衔；给予",
-      "collocations": [
-        "be inducted into the Rock and Roll Hall of Fame: 被正式授予“摇滚名 人堂”的奖项"
-      ],
-      "etymology": "late 14c.,\"introduce,initiate,especially into office or employment,\"from Latin inductus,past participle of inducere “to lead into,introduce”(see induce).Originally of church offices;sense of “draft into military service” is 1917 in American English.Related:Inducted;inducting.",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "induction",
-      "phonetic": "ɪnˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "入门；就职仪式；归纳；电磁感应现象",
-      "frequency": 10979,
-      "mnemonic": "induct ( 正式就任；征召入伍)+-ion ( 名词后缀)→入门；就职仪 式；归纳",
-      "collocations": [
-        "...his induction as president: …… 他的总统就职仪式",
-        "induction heating: 感应加热"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "introduce",
-      "phonetic": "ˌɪn.tɹəˈdus",
-      "pos": "vt.",
-      "definition": "引进；介绍；使初次接触；为(电视或广播节目) 作开场白；主持",
-      "frequency": 1230,
-      "mnemonic": "intro-(=inter=enter: 进入)+-duce (引入) → 引进；介绍(即：将\nre-(=again : 再；重新)+introduce(引进) →重新引人；重新采用",
-      "collocations": [
-        "introduce A(to B): 把……介绍(给)",
-        "introduce us to the delights of natural food: 使我们第一次享受到了品尝 天然食品的乐趣\n….chat shows introduced by women:……由女性主持的访谈节目",
-        "hardly rush to introduce unpopular measures that may not bear fruit for years,perhaps decades.\n这并不让人感到吃惊：关注下一届选举的政客们几乎不会争着去引入不 受欢迎的措施，况且这些措施在几年内甚至几十年内都不可能会凑效。",
-        "reintroduc e ['ri:,intrə'dju:s] vt. 重新引入；重新采用(法律或体制); 将……放归自然栖息地12959",
-        "to reintroduce the death penalty: 恢复死刑",
-        "plans to reintroduce trams to the city: 市内重新启用有轨电车的计划"
-      ],
-      "examples": [
-        "That is not surprising:politicians with an eye on the next election will"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "introduction",
-      "phonetic": "ˌɪn.tɹəˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "采用；引进；(正式的)介绍，引见；初 次经历；首次体验；书；讲话；初级读物；入门课程；前奏",
-      "frequency": 2926,
-      "collocations": [
-        "the introduction of vehicles powered by electricity: 电车的引入 introduction of automation: 自动化的引入",
-        "my first introduction to modern jazz: 我初次接触现代爵士乐",
-        "an introduction to Astronomy; 天文学入门"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "Introductory",
-      "phonetic": "ˌɪn.tɹəˈdʌk.tɚ.i",
-      "pos": "adj.",
-      "definition": "引言的；(新品)促销的，特惠的",
-      "frequency": 9090,
-      "mnemonic": "introduct(=introduce: 引进；介绍)+-ory ( 形容词词缀)→ 引言的\n→引申为新品试销的；特惠的",
-      "collocations": [
-        ".….an introductory course in religion and theology: ……一门宗教和神学",
-        "an introductory price: 新品促销价"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "product",
-      "phonetic": "ˈpɹɑ.dəkt",
-      "pos": "n.",
-      "definition": "产品；产物；结果；(自然、化学或工业过程的)生 成物；乘积",
-      "frequency": 570,
-      "mnemonic": "pro-(=bring forth: 使产生)+-duct(引导) →使产生的物品、结果\n→产品；结果；生成物",
-      "collocations": [
-        "consumer products: 消费品"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "by-product",
-      "phonetic": "ˈbaɪˌpɹɑdʌkt",
-      "pos": "n.",
-      "definition": "副产品；附带产生的结果",
-      "frequency": 9215,
-      "collocations": [
-        "a by-product of petrol refining: 汽油提炼的副产品",
-        "petrochemical byproduct: 石化副产品"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "productive",
-      "phonetic": "pɹəˈdʌk.tɪv",
-      "pos": "adj.",
-      "definition": "生产力高的；富有成效的；有益的；创造…… 的；生产……的",
-      "frequency": 4006,
-      "mnemonic": "product(产品；产物；结果)+-ive ( 形容词后缀)→生产力高的； 富有成效的；有益的",
-      "collocations": [
-        "highly productive farming land: 高产农田",
-        "the economy's productive capacity: 该经济体的生产能力"
-      ],
-      "examples": [
-        "For the small business,there are additional benefits too-staff are more productive,and happier, enabling firms to keep their headcounts(员工数) and their recruitment costs to a minimum.\n对于小公司来说，员工在家办公还会有额外的好处——员工工作效率 更高、心情会更愉快，从而使公司可以吧员工人数和和招聘成本降到 最低。"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "unproductive",
-      "phonetic": "ˌʌnpɹəˈdʌktɪv",
-      "pos": "adj.",
-      "definition": "产量少的；效果不佳的；无益的",
-      "frequency": 18089,
-      "mnemonic": "un-(=not: 不，没有)+ productive ( 生产力高的；富有成效的；有 益的)→产量少的；效果不佳的；无益的",
-      "collocations": [
-        "an unproductive meeting: 没有成果的会议",
-        "….increasingly unproductive land: 越来越贫瘠的土地"
-      ],
-      "etymology": "\"not productive,barren,not making some specified effect or result,\"by 1690s.Related:Unproductively;unproductiveness.",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "counterproductive",
-      "phonetic": "ˌkaʊn.tɚ.pɹəˈdʌk.tɪv",
-      "pos": "adj.",
-      "definition": "产生相反效果；事与愿违；适得 其反",
-      "frequency": 11814,
-      "mnemonic": "counter-(=contra-,against,in opposition: 与……相反)+productive (生产力高的；富有成效的；有益的)→产生相反效果；事与愿违； 适得其反",
-      "collocations": [
-        "a counterproductive way: 一个反作用方式"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "production",
-      "phonetic": "pɹəˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "生产；产量；生成；(戏剧、电影、节目等的) 制作；演出；凭某物的出示",
-      "frequency": 962,
-      "mnemonic": "product(产品；产物；结果)+-ion ( 名词后缀)→生产；产量；制 作；演出",
-      "collocations": [
-        "production efficiency: 生产效率",
-        "grain production: 谷物生产\n… a critically acclaimed production of Othello:……一场受到评论界好 评的《奥赛罗》的演出\n20000词汇巅峰速记班"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "productivity",
-      "phonetic": "ˌpɹoʊ.dəkˈtɪv.ə.ti",
-      "pos": "n.",
-      "definition": "生产力；生产率；生产能力",
-      "frequency": 4197,
-      "mnemonic": "productive (生产力高的；富有成效的，去e)+it y ( 名词后缀) →生 产力；生产率",
-      "collocations": [
-        "high/improved/increased productivity: 高/提高了的/增长了的生产率 wage rates depend on levels of productivity: 工资水平取决于生产量 的多寡"
-      ],
-      "examples": [
-        "Productivity is demonstrated/shown/expressed/manifested in the production of products.\n生产力表现于产品的生产过程中。"
-      ],
-      "rootHint": "duct"
-    },
-    {
-      "word": "produce",
-      "phonetic": "pɹəˈdus",
-      "pos": "vt.",
-      "definition": "生产；出产；繁育；(运用技巧)制 作；引起；展现；培养；制作，拍摄(电影、戏剧等);监督",
-      "frequency": 543,
-      "mnemonic": "pro-(向前)+-duc- ( 引导)+e→向前方引导生长；制作；栽培→生 长；制造；培养",
-      "collocations": [
-        "a factory that produces microchips; 微芯片制造厂 farm/dairy produce: 农产品乳制品",
-        "produce electricity: 发电"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "producer",
-      "phonetic": "pɹəˈdu.sɚ",
-      "pos": "n.",
-      "definition": "(戏剧、电影、节目、唱片等的)制作人；(食品、材 料等的)生产者；生产国",
-      "frequency": 1859,
-      "mnemonic": "produce (生产；制作)+-r ( 名词后缀，表示人)→制作人；生产 者；生产国",
-      "collocations": [
-        ".….a freelance film producer: ……一名独立电影制片人",
-        "…Saudi Arabia,the world's leading oil producer: 沙特阿拉伯，世界主 要的石油生产国"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reproduce",
-      "phonetic": "ˌɹi.pɹəˈdus",
-      "pos": "vt.",
-      "definition": "复制；再造；复印；重演；生育；繁殖",
-      "frequency": 5044,
-      "mnemonic": "re- ( 又；再)+produce ( 生产)→再一次进行生产→复制；再造；复 印；重演；生育(生育就是使用父母的DNA, 将其结合，再造一个 生命)",
-      "collocations": [
-        ".a society where women are defined by their ability to reproduce:",
-        "reproduce these results: 再次得出同样的结果\n趣保多 20000词汇巅峰速记班"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reproduction",
-      "phonetic": "ˌɹi.pɹəˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "繁殖；复制；再版；(艺术品、 家具等 的)复制品",
-      "frequency": 5739,
-      "mnemonic": "reproduct(=reproduce: 生育；复制；再造)+ion ( 名词后缀) →繁 殖；复制；再版；复制品",
-      "collocations": [
-        "assisted reproduction techniques: 辅助生育技术",
-        "sexual reproduction: 有性繁殖",
-        "a reproduction of Vincent Van Gogh’s 'Sunflowers': 文森特 ·凡 ·高 《向日葵》的复制品"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reproductive",
-      "phonetic": "ˌɹi.pɹəˈdʌk.tɪv",
-      "pos": "adj.",
-      "definition": "生殖的，繁殖的；翻印的，复制的",
-      "frequency": 5951,
-      "mnemonic": "reproduct(=reproduce: 生育；复制)+-ive ( 形容词后缀) →生 殖 的；复印的",
-      "collocations": [
-        "the human reproductive system: 人类生殖系统"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "mass-produced",
-      "phonetic": "ˌmæs.pɹəˈdust",
-      "pos": "adj.",
-      "definition": "( 用机器)大规模生产的，大批量生产 的",
-      "frequency": 18849,
-      "mnemonic": "mass ( 大规模的；集中的)+produced ( 生产的；产出的) → (用机 器)大规模生产的",
-      "collocations": [
-        "mass-produced furniture/goods: 大批量生产的家具/商品"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reduce",
-      "phonetic": "ɹɪˈdus",
-      "pos": "vt.",
-      "definition": "使变小；使陷入；迫使；使变成；使简化为；使变稠；收汁；使……流泪",
-      "frequency": 702,
-      "mnemonic": "re-(back)+-duce(=bring,lead: 引导，带领) →bring back: 带回 去→使变小；使变稠→引申义为bring to an inferior condition;bring to a lower rank; 把……带到更差的境地、更低的等级→使陷入；迫使； 使流泪",
-      "collocations": [
-        "reduce the risks of heart disease: 减小了犯心脏病的危险 reduce to extreme poverty: 沦落到极度贫困的地步",
-        "reduce to begging for a living: 不得不以乞讨为生",
-        "reduce to rubble: 使变成瓦砾",
-        "reduce sb to tears: 使某人留下眼泪\n20000词汇巅峰"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reduced",
-      "phonetic": "ɹɪˈdust",
-      "pos": "adj.",
-      "definition": "减少的；简化的；缩减的",
-      "frequency": 6114,
-      "mnemonic": "reduce (减少)+-d ( 形容词后缀-ed去e)→ 减少的；简化的；缩减的",
-      "collocations": [
-        "reduced resource costs: 减少的资源成本"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "reduction",
-      "phonetic": "ɹɪˈdʌk.ʃən",
-      "pos": "n.",
-      "definition": "减少；下降；(尺寸、数量或程度上的)削减",
-      "frequency": 2290,
-      "mnemonic": "reduc(=reduce: 减少；简化)+-t+-io n ( 名词后缀) → 减少；下",
-      "collocations": [
-        ".….a future reduction in interest rates: ……一次未来利率的降低",
-        "… a new strategic arms reduction agreement:……一项新的战略武器削 减协议"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "dock",
-      "phonetic": "dɑk",
-      "pos": "n.",
-      "definition": "船坞；码头；港区；(供运货汽车或铁路货车装卸货物的) 月台；(法庭的)被告席；酸模(北欧阔叶野草，用以揉擦被荨麻刺 伤的皮肤，可止痛)vi. ( 使船)进港，停靠码头，进入船坞；使宇宙飞 船在外层空间)对接vt.扣除(部分工资等);简短(动物的尾巴)4965",
-      "collocations": [
-        "dock 15%offmy pay: 扣掉了我15%的工资",
-        "loading dock: 码头；灌油码头；装货码头",
-        "in the dock: 在受审"
-      ],
-      "etymology": "\"ship's berth,any structure in or upon which a ship may be held for loading,repairing,etc.,\"late 15c.,dokke,from Middle Dutch or Middle Low German docke,which is perhaps ultimately(via Late Latin *ductia \"aqueduct”)from Latin ducere “to lead,\"or possibly from a Scandinavian word for “low ground”(compare Norwegian dokk “hollow,low ground”). The original sense was perhaps \"furrow a grounded vessel makes in a mud bank.\"",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "subdue",
-      "phonetic": "səbˈdu",
-      "pos": "vt.",
-      "definition": "制服；征服；克制(感情)12976",
-      "mnemonic": "sub-(under,below; 在……以下；低于)+ due( =duc-=to lead: 引\n导)→引导……使其低于……→制服；征服；克制(感情)",
-      "collocations": [
-        "subdue the rebels: 制服反叛者们"
-      ],
-      "etymology": "late 14c.,\"to conquer and reduce to subjection,\"from Old French souduire,but this meant \"deceive,seduce,\"from Latin subducere “draw away,lead away,carry off;withdraw”(see subduce).The primary sense in English seems to have been taken in Anglo-French from Latin subdere and attached to this word.Related:Subdued;subduing.As an associated noun, subdual is attested from 1670s(subduction having acquired other senses).",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "subdued",
-      "phonetic": "səbˈdud",
-      "pos": "adj.",
-      "definition": "(因难过、担心而)沉默寡言的；(声音)压低的；小 声的；(声音、灯光或颜色)柔和的",
-      "frequency": 11494,
-      "mnemonic": "subdue ( 抑制；压制)+-d ( 形容词后缀-ed去e)→被压抑的声音；情 绪；光线→ (因难过、担心而)沉默寡言的；(声音)压低的；(声 音、灯光或颜色)柔和的",
-      "collocations": [
-        "a subdued light: 柔和的光线"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "seduce",
-      "phonetic": "sɪˈdus",
-      "pos": "vt.",
-      "definition": "引诱；诱惑；诱奸；怂恿",
-      "frequency": 8781,
-      "mnemonic": "se-(=aside,away: 离开)+ -duce(=to lead: 使带领) →lead away,\nlead astray: 带领……使离开；把……引入歧途→引诱；诱奸；怂恿 搭配：seduce sb into sth/into doing sth: 诱骗、唆使某人做某事",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "seduction",
-      "phonetic": "sɪˈdʌkʃən",
-      "pos": "n.",
-      "definition": "诱奸；勾引；(常常对人产生不良影响的)诱 惑；吸引力",
-      "frequency": 12718,
-      "mnemonic": "seduc(=seduce, 引诱；诱奸)+-t+-ion ( 名词后缀) → 引申比喻义诱 惑，魅力；诱惑物(复数)",
-      "collocations": [
-        "the seduction of words: 言语的诱惑",
-        "invent seduction codes: 创造诱惑准则",
-        "the seductions of power: 权力的诱惑",
-        "the seduction ofa young girl: 勾引年轻姑娘"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "seductive",
-      "phonetic": "sɪˈdʌktɪv",
-      "pos": "adj.",
-      "definition": "( 尤指女人)性感的，撩人的；(某物)非常吸引人的；有诱惑力的；有魅力的",
-      "frequency": 10064,
-      "mnemonic": "seduc(=seduce, 引诱；诱奸)+t+-ive ( 形容词后缀)→非常吸引人 的；有诱惑力的；有魅力的",
-      "collocations": [
-        "a seductive argument: 一个非常吸引人的论点",
-        "the seductive power of advertising: 广告的诱惑力\n..a seductive woman..: 性感的女人\n20000词汇巅峰"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "transducer",
-      "phonetic": "tɹænzˈdusɚ",
-      "pos": "n.",
-      "definition": "换能器；变换器；传感器",
-      "frequency": 17554,
-      "mnemonic": "trans(=across,beyond: 穿过；越过)+duce(=duct:to lead)+-r (名词后缀) →lead across,transfer→引领(能量)穿越，转换；从一 种形式转换为另外一种形式→换能器；变换器；传感器",
-      "collocations": [
-        "ultrasonic transducer: 超声换能器",
-        "pressure transducer: 压力传感器",
-        "current transducer: 电流变送器 释义：(technical 术语)换能器；变换器",
-        "a device for producing an electrical signal from another form of energy such as pressure"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "taut",
-      "phonetic": "tɔt",
-      "pos": "adj.",
-      "definition": "绷紧的；拉紧的；肌肉健美的；(神色)紧张不安的；(文 章、电影等)结构严谨的，紧凑的",
-      "frequency": 10701,
-      "collocations": [
-        "trim and taut: 修长而健美",
-        "taut and terrified: 紧张而惊恐",
-        "the taut, strained air of perpetual anxiety: 长期焦虑带来的紧张而疲惫 的神色",
-        "a taut thriller: 一部情节紧凑的惊悚片"
-      ],
-      "etymology": "mid-13c.,tohte \"stretched or pulled tight,\"possibly from tog-,past participle stem of Old English teon“to pull,drag,”from Proto-Germanic *theuhanan,from PIE root *deuk-\"to lead,\"which would connect it to tow(v.)and tie.",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "team",
-      "phonetic": "tim",
-      "pos": "n.",
-      "definition": "( 游戏或体育运动的)队，小组；团队；工作组",
-      "frequency": 308,
-      "collocations": [
-        "football team: 一支足球队",
-        "team spirit: 团队精神"
-      ],
-      "etymology": "1550s,\"to harness beasts in a team,\"from team(n.).From 1841 as “drive a team.”The meaning “to come together as a team”(usually with up)is attested from 1932.Transitive sense “to use(something)in conjunction” (with something else)is from 1948.Related:Teamed;teaming.The Old English verb,teaman,tieman,is attested only in the sense “bring forth, beget,engender,propagate.\"",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "teammate",
-      "phonetic": "ˈtim.meɪt",
-      "pos": "n.",
-      "definition": "队友；同队队员",
-      "frequency": 4281,
-      "mnemonic": "team ( 队；组)+mate ( 朋友；伙伴) → 队友；同队队员",
-      "collocations": [
-        "best teammate: 最好的队友"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "teamwork",
-      "phonetic": "ˈtim.wɝk",
-      "pos": "n.",
-      "definition": "协力；配合；团队协作能力",
-      "frequency": 12135,
-      "mnemonic": "team (团队)+work( 工作)→协作；合作；配合",
-      "collocations": [
-        "require close teamwork between the architect and the builders; 需要建筑 师和建筑工人的密切协作",
-        "teamwork spirit: 团队精神"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "teeming",
-      "phonetic": "ˈti.mɪŋ",
-      "pos": "adj.",
-      "definition": "充满(移动着的人、动物等)的；拥挤的；万头攒动 的；(雨)倾盆而下的",
-      "frequency": 14247,
-      "mnemonic": "teem(abound,swarm,be prolific: 充满；遍布；富于)+-ing ( 形容词\n后缀) → 充满(移动着的人、动物等)的；拥挤的 搭配：the teeming streets of the city: 熙熙攘攘的城市街道",
-      "collocations": [
-        "the teeming rain; 倾盆大雨"
-      ],
-      "etymology": "\"swarming,\"1715,earlier “abundantly productive,fertile”(1590s), present-participle adjective from teem(v.1).",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "tie",
-      "phonetic": "taɪ",
-      "pos": "vt.",
-      "definition": "系；把……打成结；(用绳索)捆绑；固定；(用绳子或布条) 捆；打(结);使 … … 紧密联系；束缚；(在竞赛或比赛中)打成平 局n. 领带；联系；平局；淘汰赛",
-      "frequency": 1510,
-      "mnemonic": "Old English teag,\"cord,band,thong,fetter,”literally\"that with which anything is tied,\"from Proto-Germanic *taugo(source also of Old Norse taug \"tie,\"tygill “string”),from PIE root *deuk-\"to lead”(source also of Old English teon “to draw,pull,drag”).",
-      "collocations": [
-        "Figurative sense is recorded from 1550s.Sense of “cravat,necktie”(usually a simple one knotted in front)first recorded 1761.The railway sense of “cross-beam between and beneath rails to keep them in place”is from 1857,American English.Meaning“equality between competitors”is first found 1670s,from notion of a connecting link.Tie-breaker is recorded from 1938.The figurative old school tie(1938)in its literal sense was a\n20000词汇巅峰",
-        "necktie of a characteristic pattern worn by former students of a particular English school.",
-        "tie in: 使结合；使配合得当",
-        "loosen his tie: 松开了他的领带",
-        "tie in front in a floppy bow: 前面打了个蓬松蝴蝶结",
-        "tie with Frank Nobilo: 与诺比罗打成了平局",
-        "the first round tie: 第一轮淘汰赛\ntie up: 占用；包扎；绑好；缚牢；阻碍；密切联系；合伙；停泊"
-      ],
-      "etymology": "来自古英语 teag, 绳子，带子，来自Proto-Germanic*taugo, 拉，来自 PIE*deuk, 拉，词源同tow,conduct 。 并引申诸相关词义。",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "necktie",
-      "phonetic": "ˈnɛk.taɪ",
-      "pos": "n.",
-      "definition": "领带",
-      "frequency": 17794,
-      "mnemonic": "neck (脖子)+tie ( 领带) →领带",
-      "collocations": [
-        "blue silk necktie: 蓝色丝领带"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "untie",
-      "phonetic": "ʌnˈtaɪ",
-      "pos": "vt.",
-      "definition": "解开……上的绳索；松开",
-      "frequency": 14676,
-      "mnemonic": "un-(与……相反：opposite of)+ tie ( 用线/绳扎牢)→解开；松开",
-      "collocations": [
-        "to untie a knot: 解开绳结"
-      ],
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "tow",
-      "phonetic": "toʊ",
-      "pos": "vt.",
-      "definition": "( 用绳索)拖；拉；牵引；拽n. ( 车、船等的)牵引；拽引",
-      "frequency": 9198,
-      "collocations": [],
-      "etymology": "来自古英语 togian, 拖，拉，来自 Proto-Germanic*tugojanan, 拖，",
-      "examples": [],
-      "rootHint": "duct"
-    },
-    {
-      "word": "tug",
-      "phonetic": "tʌɡ",
-      "pos": "vt.",
-      "definition": "&vi. ( 常为几次用力)拉，拖，拽；(朝某一方向用力)拉， 拖，拽n. 拖船；突然的)猛拉，猛拽； 一股强烈的感情",
-      "frequency": 6303,
-      "collocations": [
-        "a sad story that tugs at your heartstrings: 令人心酸的故事 tug at his sleeves: 拽了拽他的袖子",
-        "a tug of attraction: 一阵强烈的吸引",
-        "feel a tug at my sleeve: 觉得(有人)拽了一下我的袖子",
-        "tug of war: 拔河比赛\ntug boat: 拖船\n昨词根“-viv” 表示“生命，生活”,是和单词“live: 生命，生活”有关(二 者为同源词汇，含义相同)。词根“bi-,bio-” 也可以表示“生命；生物”。 词根“zoo-” 也来自词根“bio-( 生命)”,含义为“动物，生物”。词根“quick-” 也有“活的，生气勃勃的，迅速的”含义。",
-        "It is the hypothetical source of/evidence for its existence is provided by: Sanskrit jivah “alive,living;\"Old Persian *jivaka-“alive,”Middle Persian zhiwak“alive;\"Greek bios\"one's life,course or way of living,lifetime,” zoe“animal life,organic life;\"Old English cwic,cwicu “living,alive;\"” Latin vivus “living,alive,\"vita \"life;\"Old Church Slavonic zivo \"to live;” Lithuanian gyvas “living,alive,\"gyvata“(eternal)life;”Old Irish bethu \"life,\"bith “age;\"Welsh byd“world.”\n20000词汇巅峰速记"
-      ],
-      "etymology": "来自中世纪英语tuggen,toggen, 来自古英语togian(“to draw,drag”), 来自原始日耳曼语*tugōną(“to draw,tear”),来自原始印欧语*dewk- (“to pull”). 同源于中古低地德语togen(“to draw”),中古高地德语 zogen(“to pull, tear off”),冰岛语toga(“to pull,draw”).",
-      "examples": [],
-      "rootHint": "duct"
-    }
-  ]
+    "id": "duct",
+    "source": "textbook-3",
+    "chapter": "10",
+    "chapterOrder": 110,
+    "titleZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "semanticLabel": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "meaningEn": "引导，引领的含义，是与单词Iead",
+    "meaningZh": "引导，引 领同源，另外同源的词根还有-duce: 引导",
+    "roots": [
+        "duct"
+    ],
+    "words": [
+        {
+            "word": "duct",
+            "phonetic": "dʌkt",
+            "pos": "n.",
+            "definition": "( 输送液体或气体的)管道；(人体内输送泪水、胆汁等的)导管",
+            "frequency": 8809,
+            "collocations": [
+                "air duct: 风道；空气管"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "conduct",
+            "phonetic": "kənˈdʌkt",
+            "pos": "vi.",
+            "definition": "进行；组织；实施；表现；指挥(管弦乐队或合唱 团);传导(热或电);陪伴；引导；带领 n. ( 任务或活动的)组织方式， 实施办法；行为；举止",
+            "frequency": 1166,
+            "mnemonic": "con-(=with,together: 一起)+-duct(=to lead: 引导)→引导；引领； con-(=with ,together: 一起)+-duct(=to act: 行为) → 行为；进行",
+            "collocations": [
+                "conduct a research: 进行研究",
+                "rules of conduct: 行为规范",
+                "the code of conduct: 行为准则"
+            ],
+            "examples": [
+                "1)The survey was conducted by means of a questionnaire given to the students to complete.\n该调查是以发给学生来完成的问卷实行来进行。\n2)Medical students are advised that the wearing of a white coat signifies the acceptance of a professional code of conduct expected of the medical profession.\n医学生被告知穿白大褂意味着人们对医学专业的行为准则的接受。"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "misconduct",
+            "phonetic": "mɪsˈkɑndʌkt",
+            "pos": "n.",
+            "definition": "( 尤指雇员或专业人员的)渎职；不端行为；违规行为；管理不善；玩忽职守",
+            "frequency": 9112,
+            "mnemonic": "mis-(=bad,wrong: 不好的)+ conduct ( 行为) →不端行为；违规行 为；玩忽职守",
+            "collocations": [
+                "serious professional misconduct: 严重失职"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "conductor",
+            "phonetic": "kənˈdʌktɚ",
+            "pos": "n.",
+            "definition": "( 管弦乐队或合唱团的)指挥；(公共汽车等的)售票 员；列车员；(热、电的)导体",
+            "frequency": 5996,
+            "mnemonic": "conduct(组织；实施；传导)+-or ( 名词后缀，表“人或物”)→领 导者；指挥；导体",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "semiconductor",
+            "phonetic": "ˌsɛmiːkənˈdʌktɚ",
+            "pos": "n.",
+            "definition": "半导体",
+            "frequency": 8921,
+            "mnemonic": "semi-(half,part;partial,imperfect;twice: 一半；部分的，不完美的；\n两倍)+conductor(导体)→半导体 搭配：semiconductor device: 半导体装置",
+            "collocations": [
+                "释义：(N-COUNT)半导体",
+                "A semiconductor is a substance used in electronics whose ability to conduct electricity increases with greater heat."
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "superconducting",
+            "phonetic": "ˌsu.pɚ.kənˈdʌk.tɪŋ",
+            "pos": "adj.",
+            "definition": "超导(电)的，无电阻率的，使用 无电阻物质的",
+            "frequency": 19585,
+            "mnemonic": "super (超级的)+conduct ( 导电)+-ing→超导的",
+            "collocations": [
+                "superconducting properties: 超导属性",
+                "superconducting materials: 超导材料"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "conduit",
+            "phonetic": "ˈkɑnduɪt",
+            "pos": "n.",
+            "definition": "( 液体、气体或电线的)管道，导管；[传递 想法、新闻、金钱、武器、毒品等的]渠道，通道",
+            "frequency": 12418,
+            "mnemonic": "From Old French conduit(12c.)\"escort,protection;pipe,channel,\" from Latin conductus \"a leading,a pipe,\"noun use of past participle of conducere “to lead or bring together;contribute,serve”.",
+            "collocations": [
+                "a conduit for drugs: 毒品贩运通道",
+                "conduit pipe: 导管\n20000词汇巅峰返"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "conducive",
+            "phonetic": "kənˈdusɪv",
+            "pos": "adj.",
+            "definition": "有助于某事；有益于某事",
+            "frequency": 11286,
+            "mnemonic": "conduce (导致或有助于；有益于，去e)+-ive ( 形容词后缀) →有",
+            "collocations": [
+                "conducive to sleep: 适宜于睡眠",
+                "an environment conducive to learning: 有助于学习的环境"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "deduce",
+            "phonetic": "dɪˈdus",
+            "pos": "vt.",
+            "definition": "推论，推断；演绎",
+            "frequency": 13706,
+            "mnemonic": "de- ( 向下)+duc- ( 引导)+-e→一步一步向下引导→推导；推 断；演绎",
+            "collocations": [
+                "deduce from: 推断；从……得出结论"
+            ],
+            "examples": [
+                "Organised volunteering and work experience has long been a vital companion to university degree courses.Usually it is left to employers to deduce the potential from a list of extracurricular adventures on a graduate's resume.\n有组织的志愿服务和工作经历长久以来就已经成为大学学位课程的重 要补充。通常，雇主会通过毕业生简历上的课外活动列表来推断其 潜能。"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "deduct",
+            "phonetic": "dɪ.ˈdʌkt",
+            "pos": "vt.",
+            "definition": "扣除，减去；演绎",
+            "frequency": 11591,
+            "mnemonic": "de- (下降；减少)+-duct ( 引导)→ 向下拉掉；减去；扣除",
+            "collocations": [
+                "deduct this payment: 扣除这笔款项",
+                "deduct sth from sth: ( 从总量中)扣除；减去"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "deductible",
+            "phonetic": "dɪ.ˈdʌk.tə.bəl",
+            "pos": "adj.",
+            "definition": "可扣除的；可减免的；免赔额",
+            "frequency": 14357,
+            "mnemonic": "deduct(=to take away money,points,etc.from a total amount: 从总量\n中扣除，减少)+-ible ( 能够……的) → 可扣除的；可减免的 搭配：.….deductible expenses:…… 可扣除费用",
+            "collocations": [
+                "tax-deductible expenses: 可减免税款的开支",
+                "pay a deductible of $628: 缴纳免赔费用628美元"
+            ],
+            "etymology": "1856,\"capable of being withdrawn,\"especially from one's taxes or income.",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "deduction",
+            "phonetic": "dɪ.ˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "扣除额；推演出来的结论；演绎；推论",
+            "frequency": 7141,
+            "mnemonic": "deduct (扣除；演绎)+-ion(名词后缀) →扣除额；演绎；推论",
+            "collocations": [
+                "tax deductions: 税金扣除额",
+                "logical deduction: 逻辑推理",
+                "a pretty astute deduction: 一个非常精明的结论"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "duke",
+            "phonetic": "duk",
+            "pos": "n.",
+            "definition": "公爵；(尤指旧时欧洲部分地区小公国的)君主",
+            "frequency": 13528,
+            "collocations": [
+                "the Duke of Edinburgh: 爱丁堡公爵"
+            ],
+            "etymology": "duke ( 公 爵 ) :罗马帝国时期的蛮族军事统帅在古罗马时代，由日 耳曼或凯尔特蛮族出身而作为雇佣军为罗马军队所用的将帅，由于 没有正式的罗马军衔而统称为Dux, 这就是英语单词Duke ( 公爵) 的来源。罗马帝国灭亡之后，各部族的军事领袖成为欧洲各小国的 国君，其中许多就以Dux为称号，他们统治的小国就被称为“公国” (duchy) 或“大公国”( Archduchy) 。 直到近代，意大利和德国统 一之前的很多小国都以此为称号。这些小国的国君一般翻译为“大 公”。欧洲现存的独立公国是卢森堡和安道尔公国。历史上的其它 公国经过合并和并吞，逐渐丧失独立性，成为国家的一部分，其统 治者也演变成了由国王授予的爵位，即“公爵”( Duke) 。 在欧洲 各国，公爵都是最高爵位之一。英国的公爵爵位出现很晚。1337年， 爱德华三世把康沃尔郡升为公国，将公爵爵号授予年方7岁的“黑太 子”爱德华。为突出公爵特殊地位，以后多年里除女王配偶和王子 外，其他王亲国戚均不许称王，最高可获公爵爵位。自从1483年建立 诺福克公国以后，公爵爵位开始授予王亲以外者，但很少建立公国。 而且能获此最高爵位者多是军功显赫的统帅。",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "educate",
+            "phonetic": "ˈɛ.dʒə.keɪt",
+            "pos": "vt.",
+            "definition": "( 在学校)教育；教导；教养；训练",
+            "frequency": 3059,
+            "mnemonic": "e-(=ex: 出来；向外)+duc- ( 引导)+-ate ( 动词后缀)→教育 (即：将人从愚昧无知的状态中“引导”出来)\ncultivate(开垦；种植；培养，去e)+-d ( 形容词后缀-ed去e变为-d) →人工栽培的→引申为人手培养出来的→有修养；有教养的",
+            "collocations": [
+                "educate the public to do sth.: 教育公众做某事",
+                "educate sb. (in/on sth): 在某方面教导某人",
+                "同义：cultivate ['kaltivert] vt. 开垦；种植；培养(态度、技巧等);树立(形 象、观念等);建立(友谊)5647",
+                "cultivate a global vision: 培养一种全球化视野",
+                "crucial to the success of life.\n培养成坚持不懈的习惯对于人生的成功至关重要。",
+                "cultivate d ['kaltrvertid] adj. 有教养的；人工栽培的13754",
+                "an elegant,cultivated woman: 优雅而有教养的女人",
+                "… a mixture of wild and cultivated varieties:……野生品种与人工栽培 品种的混杂",
+                "cultivated land/soil: 可耕种土地/土壤"
+            ],
+            "examples": [
+                "Humanistic thinking helps cultivate students'creativity.\n人文思想有助于培养学生的创造性。\n培养；教育”的表达方式： foster/cultivate/educate/develop/train",
+                "To cultivate/foster/develop/train the habit of persistence is vital/critical/"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "cultivation",
+            "phonetic": "ˌkʌl.təˈveɪ.ʃən",
+            "pos": "n.",
+            "definition": "开垦；耕作；栽培；种植；(某种素质或技能 的)培养",
+            "frequency": 9600,
+            "mnemonic": "cultivate(开垦；种植；培养)+-ion(名词后缀)→开垦；耕作；栽 培；培养",
+            "collocations": [
+                "the cultivation of tobacco: 烟草种植",
+                "fertile land that is under cultivation(=being cultivated): 肥沃的耕地",
+                "the cultivation of a good relationship with local firms: 发展与当地公司 的良好关系"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "educated",
+            "phonetic": "ˈɛ.dʒə.keɪ.tɪd",
+            "pos": "adj.",
+            "definition": "受过良好教育的；有教养的",
+            "frequency": 6023,
+            "mnemonic": "educate (教育)+ -d ( 形容词后缀-ed 去e)→ 受过良好教育的；有 教养的",
+            "collocations": [
+                "a highly educated woman: 很有修养的女子"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "education",
+            "phonetic": "ˌɛ.dʒəˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "( 学校的)教育；(某 一 学科的)教育；教育机 构；教育界人士",
+            "frequency": 377,
+            "mnemonic": "educate (教育，去e)+-ion ( 名词后缀) → (学校的)教育；(某一 学科的)教育",
+            "collocations": [
+                "health/sex education: 健康/性教育",
+                "the local education authority: 地方教育当局"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "educational",
+            "phonetic": "ˌɛ.dʒəˈkeɪ.ʃə.nəl",
+            "pos": "adj.",
+            "definition": "教育的；有教育意义的",
+            "frequency": 1596,
+            "mnemonic": "education (教育)+-al ( 形容词后缀) →教育的；有教育意义的",
+            "collocations": [
+                "the educational development of children儿童的教育发展 educational games: 寓教于乐的游戏"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "educator",
+            "phonetic": "ˈɛ.dʒə.keɪ.tɚ",
+            "pos": "n.",
+            "definition": "教育者；教育家",
+            "frequency": 2450,
+            "mnemonic": "educate (教育，去e)+-or ( 名词后缀，表示人)→教育者；教育家",
+            "collocations": [
+                ".….a passionate and dedicated nursing educator: ……一位热情而专注的 护理学教育者"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "induce",
+            "phonetic": "ɪnˈdus",
+            "pos": "vt.",
+            "definition": "引起；引诱；劝说；用人工方法引(产)5326",
+            "mnemonic": "in-(=into: 人，向内)+-duce(=to lead: 引导；带领)→ 向里面引\n导、带领 → 引起；引诱；招致(即：“引狼入室”);诱因 搭配：induce sb to do sth: 引诱、劝说某人干……",
+            "collocations": [
+                "induce a heart attack: 导致心脏病",
+                "induce labor: 引产",
+                "inadequate supervision and mainly arise from drivers'negligence.\n酒后驾车部分是由监管不力引起的，主要还是由于驾驶员的疏忽。\n导致”的表达方式：result in/lead to/bring about/give rise to/produce\n20000词汇巅峰速记班"
+            ],
+            "examples": [
+                "She was also worried about the damage all the plastic rubbish was doing to the environment.So she hopped on her bike and rode to the nearest grocery store to see what she could find that didn't plastic.\n她同样担心所有的塑料垃圾会对环境造成破坏。因此她跳上单车，骑 到最近的杂货店去看看是否能够找到哪些不含有塑料成分的物品。\nA.compose B.consist C. induce D.include\n由……引起”的表达方式：\ninduced by/arise from/caused by/aroused by/triggered by",
+                "Drunk driving is partly caused by/triggered by/induced by/aroused by",
+                "Drunk driving has resulted in/led to/brought about/given rise to/ produced a great many tragedies/misfortunes.\n酒后驾车已经导致了很多悲剧。"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "inducement",
+            "phonetic": "ɪnˈdus.mənt",
+            "pos": "n.",
+            "definition": "引诱；刺激；诱因",
+            "frequency": 17568,
+            "mnemonic": "induce(引起；引诱)+-ment ( 名词后缀)→引诱；刺激；诱因",
+            "collocations": [
+                "offer every inducement to foreign businesses: 提供种种优惠条件吸引外 国公司"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "abduct",
+            "phonetic": "æb.ˈdʌkt",
+            "pos": "vt.",
+            "definition": "诱拐；劫持；绑架",
+            "frequency": 11732,
+            "mnemonic": "ab-(=off,away from: 分离，离开)+-duct(=to lead: 引导) → 凭借 暴力强迫分离→诱拐；劫持；绑架",
+            "collocations": [
+                "abduct women and kids: 拐卖妇女和儿童"
+            ],
+            "etymology": "1620s,\"a leading away,\"from Latin abductionem (nominative abductio) \"a forcible carrying off,ravishing,robbing,\"noun of action from past- participle stem of abducere “to lead away,take away,arrest”(often by force).As\"criminal act of forcibly taking(someone)\"by 1768;before that the word also was a term in surgery and logic.",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "abductor",
+            "phonetic": "æb.ˈdʌk.tɚ",
+            "pos": "n.",
+            "definition": "诱拐者；劫持者；绑匪",
+            "mnemonic": "abduct (诱拐；劫持；绑架)+-or ( 名词后缀，表示人)→诱拐者； 劫持者；绑匪",
+            "collocations": [
+                "co-operate with her abductor: 顺从绑匪的要求"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "abduction",
+            "phonetic": "æb.ˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "绑架；拐骗；劫持",
+            "frequency": 11329,
+            "mnemonic": "abduct (诱拐；劫持；绑架)+-ion ( 名词后缀)→绑架；拐骗；劫持",
+            "collocations": [
+                "child abduction: 拐带儿童",
+                "alien abduction: 外星人绑架"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "induct",
+            "phonetic": "ɪnˈdʌkt",
+            "pos": "vt.",
+            "definition": "使正式就任；赋予头衔；给予职位； 征召……入伍",
+            "frequency": 15282,
+            "mnemonic": "来自induce( 引导；诱使)→引申词义使正式就任；赋予头衔；给予",
+            "collocations": [
+                "be inducted into the Rock and Roll Hall of Fame: 被正式授予“摇滚名 人堂”的奖项"
+            ],
+            "etymology": "late 14c.,\"introduce,initiate,especially into office or employment,\"from Latin inductus,past participle of inducere “to lead into,introduce”(see induce).Originally of church offices;sense of “draft into military service” is 1917 in American English.Related:Inducted;inducting.",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "induction",
+            "phonetic": "ɪnˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "入门；就职仪式；归纳；电磁感应现象",
+            "frequency": 10979,
+            "mnemonic": "induct ( 正式就任；征召入伍)+-ion ( 名词后缀)→入门；就职仪 式；归纳",
+            "collocations": [
+                "...his induction as president: …… 他的总统就职仪式",
+                "induction heating: 感应加热"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "introduce",
+            "phonetic": "ˌɪn.trəˈdus",
+            "pos": "vt.",
+            "definition": "引进；介绍；使初次接触；为(电视或广播节目) 作开场白；主持",
+            "frequency": 1230,
+            "mnemonic": "intro-(=inter=enter: 进入)+-duce (引入) → 引进；介绍(即：将\nre-(=again : 再；重新)+introduce(引进) →重新引人；重新采用",
+            "collocations": [
+                "introduce A(to B): 把……介绍(给)",
+                "introduce us to the delights of natural food: 使我们第一次享受到了品尝 天然食品的乐趣\n….chat shows introduced by women:……由女性主持的访谈节目",
+                "hardly rush to introduce unpopular measures that may not bear fruit for years,perhaps decades.\n这并不让人感到吃惊：关注下一届选举的政客们几乎不会争着去引入不 受欢迎的措施，况且这些措施在几年内甚至几十年内都不可能会凑效。",
+                "reintroduc e ['ri:,intrə'dju:s] vt. 重新引入；重新采用(法律或体制); 将……放归自然栖息地12959",
+                "to reintroduce the death penalty: 恢复死刑",
+                "plans to reintroduce trams to the city: 市内重新启用有轨电车的计划"
+            ],
+            "examples": [
+                "That is not surprising:politicians with an eye on the next election will"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "introduction",
+            "phonetic": "ˌɪn.trəˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "采用；引进；(正式的)介绍，引见；初 次经历；首次体验；书；讲话；初级读物；入门课程；前奏",
+            "frequency": 2926,
+            "collocations": [
+                "the introduction of vehicles powered by electricity: 电车的引入 introduction of automation: 自动化的引入",
+                "my first introduction to modern jazz: 我初次接触现代爵士乐",
+                "an introduction to Astronomy; 天文学入门"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "Introductory",
+            "phonetic": "ˌɪn.trəˈdʌk.tɚ.i",
+            "pos": "adj.",
+            "definition": "引言的；(新品)促销的，特惠的",
+            "frequency": 9090,
+            "mnemonic": "introduct(=introduce: 引进；介绍)+-ory ( 形容词词缀)→ 引言的\n→引申为新品试销的；特惠的",
+            "collocations": [
+                ".….an introductory course in religion and theology: ……一门宗教和神学",
+                "an introductory price: 新品促销价"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "product",
+            "phonetic": "ˈprɑ.dəkt",
+            "pos": "n.",
+            "definition": "产品；产物；结果；(自然、化学或工业过程的)生 成物；乘积",
+            "frequency": 570,
+            "mnemonic": "pro-(=bring forth: 使产生)+-duct(引导) →使产生的物品、结果\n→产品；结果；生成物",
+            "collocations": [
+                "consumer products: 消费品"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "by-product",
+            "phonetic": "ˈbaɪˌprɑdʌkt",
+            "pos": "n.",
+            "definition": "副产品；附带产生的结果",
+            "frequency": 9215,
+            "collocations": [
+                "a by-product of petrol refining: 汽油提炼的副产品",
+                "petrochemical byproduct: 石化副产品"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "productive",
+            "phonetic": "prəˈdʌk.tɪv",
+            "pos": "adj.",
+            "definition": "生产力高的；富有成效的；有益的；创造…… 的；生产……的",
+            "frequency": 4006,
+            "mnemonic": "product(产品；产物；结果)+-ive ( 形容词后缀)→生产力高的； 富有成效的；有益的",
+            "collocations": [
+                "highly productive farming land: 高产农田",
+                "the economy's productive capacity: 该经济体的生产能力"
+            ],
+            "examples": [
+                "For the small business,there are additional benefits too-staff are more productive,and happier, enabling firms to keep their headcounts(员工数) and their recruitment costs to a minimum.\n对于小公司来说，员工在家办公还会有额外的好处——员工工作效率 更高、心情会更愉快，从而使公司可以吧员工人数和和招聘成本降到 最低。"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "unproductive",
+            "phonetic": "ˌʌnprəˈdʌktɪv",
+            "pos": "adj.",
+            "definition": "产量少的；效果不佳的；无益的",
+            "frequency": 18089,
+            "mnemonic": "un-(=not: 不，没有)+ productive ( 生产力高的；富有成效的；有 益的)→产量少的；效果不佳的；无益的",
+            "collocations": [
+                "an unproductive meeting: 没有成果的会议",
+                "….increasingly unproductive land: 越来越贫瘠的土地"
+            ],
+            "etymology": "\"not productive,barren,not making some specified effect or result,\"by 1690s.Related:Unproductively;unproductiveness.",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "counterproductive",
+            "phonetic": "ˌkaʊn.tɚ.prəˈdʌk.tɪv",
+            "pos": "adj.",
+            "definition": "产生相反效果；事与愿违；适得 其反",
+            "frequency": 11814,
+            "mnemonic": "counter-(=contra-,against,in opposition: 与……相反)+productive (生产力高的；富有成效的；有益的)→产生相反效果；事与愿违； 适得其反",
+            "collocations": [
+                "a counterproductive way: 一个反作用方式"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "production",
+            "phonetic": "prəˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "生产；产量；生成；(戏剧、电影、节目等的) 制作；演出；凭某物的出示",
+            "frequency": 962,
+            "mnemonic": "product(产品；产物；结果)+-ion ( 名词后缀)→生产；产量；制 作；演出",
+            "collocations": [
+                "production efficiency: 生产效率",
+                "grain production: 谷物生产\n… a critically acclaimed production of Othello:……一场受到评论界好 评的《奥赛罗》的演出\n20000词汇巅峰速记班"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "productivity",
+            "phonetic": "ˌproʊ.dəkˈtɪv.ə.ti",
+            "pos": "n.",
+            "definition": "生产力；生产率；生产能力",
+            "frequency": 4197,
+            "mnemonic": "productive (生产力高的；富有成效的，去e)+it y ( 名词后缀) →生 产力；生产率",
+            "collocations": [
+                "high/improved/increased productivity: 高/提高了的/增长了的生产率 wage rates depend on levels of productivity: 工资水平取决于生产量 的多寡"
+            ],
+            "examples": [
+                "Productivity is demonstrated/shown/expressed/manifested in the production of products.\n生产力表现于产品的生产过程中。"
+            ],
+            "rootHint": "duct"
+        },
+        {
+            "word": "produce",
+            "phonetic": "prəˈdus",
+            "pos": "vt.",
+            "definition": "生产；出产；繁育；(运用技巧)制 作；引起；展现；培养；制作，拍摄(电影、戏剧等);监督",
+            "frequency": 543,
+            "mnemonic": "pro-(向前)+-duc- ( 引导)+e→向前方引导生长；制作；栽培→生 长；制造；培养",
+            "collocations": [
+                "a factory that produces microchips; 微芯片制造厂 farm/dairy produce: 农产品乳制品",
+                "produce electricity: 发电"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "producer",
+            "phonetic": "prəˈdu.sɚ",
+            "pos": "n.",
+            "definition": "(戏剧、电影、节目、唱片等的)制作人；(食品、材 料等的)生产者；生产国",
+            "frequency": 1859,
+            "mnemonic": "produce (生产；制作)+-r ( 名词后缀，表示人)→制作人；生产 者；生产国",
+            "collocations": [
+                ".….a freelance film producer: ……一名独立电影制片人",
+                "…Saudi Arabia,the world's leading oil producer: 沙特阿拉伯，世界主 要的石油生产国"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reproduce",
+            "phonetic": "ˌriː.prəˈdus",
+            "pos": "vt.",
+            "definition": "复制；再造；复印；重演；生育；繁殖",
+            "frequency": 5044,
+            "mnemonic": "re- ( 又；再)+produce ( 生产)→再一次进行生产→复制；再造；复 印；重演；生育(生育就是使用父母的DNA, 将其结合，再造一个 生命)",
+            "collocations": [
+                ".a society where women are defined by their ability to reproduce:",
+                "reproduce these results: 再次得出同样的结果\n趣保多 20000词汇巅峰速记班"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reproduction",
+            "phonetic": "ˌriː.prəˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "繁殖；复制；再版；(艺术品、 家具等 的)复制品",
+            "frequency": 5739,
+            "mnemonic": "reproduct(=reproduce: 生育；复制；再造)+ion ( 名词后缀) →繁 殖；复制；再版；复制品",
+            "collocations": [
+                "assisted reproduction techniques: 辅助生育技术",
+                "sexual reproduction: 有性繁殖",
+                "a reproduction of Vincent Van Gogh’s 'Sunflowers': 文森特 ·凡 ·高 《向日葵》的复制品"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reproductive",
+            "phonetic": "ˌriː.prəˈdʌk.tɪv",
+            "pos": "adj.",
+            "definition": "生殖的，繁殖的；翻印的，复制的",
+            "frequency": 5951,
+            "mnemonic": "reproduct(=reproduce: 生育；复制)+-ive ( 形容词后缀) →生 殖 的；复印的",
+            "collocations": [
+                "the human reproductive system: 人类生殖系统"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "mass-produced",
+            "phonetic": "ˌmæs.prəˈdust",
+            "pos": "adj.",
+            "definition": "( 用机器)大规模生产的，大批量生产 的",
+            "frequency": 18849,
+            "mnemonic": "mass ( 大规模的；集中的)+produced ( 生产的；产出的) → (用机 器)大规模生产的",
+            "collocations": [
+                "mass-produced furniture/goods: 大批量生产的家具/商品"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reduce",
+            "phonetic": "rɪˈdus",
+            "pos": "vt.",
+            "definition": "使变小；使陷入；迫使；使变成；使简化为；使变稠；收汁；使……流泪",
+            "frequency": 702,
+            "mnemonic": "re-(back)+-duce(=bring,lead: 引导，带领) →bring back: 带回 去→使变小；使变稠→引申义为bring to an inferior condition;bring to a lower rank; 把……带到更差的境地、更低的等级→使陷入；迫使； 使流泪",
+            "collocations": [
+                "reduce the risks of heart disease: 减小了犯心脏病的危险 reduce to extreme poverty: 沦落到极度贫困的地步",
+                "reduce to begging for a living: 不得不以乞讨为生",
+                "reduce to rubble: 使变成瓦砾",
+                "reduce sb to tears: 使某人留下眼泪\n20000词汇巅峰"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reduced",
+            "phonetic": "rɪˈdust",
+            "pos": "adj.",
+            "definition": "减少的；简化的；缩减的",
+            "frequency": 6114,
+            "mnemonic": "reduce (减少)+-d ( 形容词后缀-ed去e)→ 减少的；简化的；缩减的",
+            "collocations": [
+                "reduced resource costs: 减少的资源成本"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "reduction",
+            "phonetic": "rɪˈdʌk.ʃən",
+            "pos": "n.",
+            "definition": "减少；下降；(尺寸、数量或程度上的)削减",
+            "frequency": 2290,
+            "mnemonic": "reduc(=reduce: 减少；简化)+-t+-io n ( 名词后缀) → 减少；下",
+            "collocations": [
+                ".….a future reduction in interest rates: ……一次未来利率的降低",
+                "… a new strategic arms reduction agreement:……一项新的战略武器削 减协议"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "dock",
+            "phonetic": "dɑk",
+            "pos": "n.",
+            "definition": "船坞；码头；港区；(供运货汽车或铁路货车装卸货物的) 月台；(法庭的)被告席；酸模(北欧阔叶野草，用以揉擦被荨麻刺 伤的皮肤，可止痛)vi. ( 使船)进港，停靠码头，进入船坞；使宇宙飞 船在外层空间)对接vt.扣除(部分工资等);简短(动物的尾巴)4965",
+            "collocations": [
+                "dock 15%offmy pay: 扣掉了我15%的工资",
+                "loading dock: 码头；灌油码头；装货码头",
+                "in the dock: 在受审"
+            ],
+            "etymology": "\"ship's berth,any structure in or upon which a ship may be held for loading,repairing,etc.,\"late 15c.,dokke,from Middle Dutch or Middle Low German docke,which is perhaps ultimately(via Late Latin *ductia \"aqueduct”)from Latin ducere “to lead,\"or possibly from a Scandinavian word for “low ground”(compare Norwegian dokk “hollow,low ground”). The original sense was perhaps \"furrow a grounded vessel makes in a mud bank.\"",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "subdue",
+            "phonetic": "səbˈdu",
+            "pos": "vt.",
+            "definition": "制服；征服；克制(感情)12976",
+            "mnemonic": "sub-(under,below; 在……以下；低于)+ due( =duc-=to lead: 引\n导)→引导……使其低于……→制服；征服；克制(感情)",
+            "collocations": [
+                "subdue the rebels: 制服反叛者们"
+            ],
+            "etymology": "late 14c.,\"to conquer and reduce to subjection,\"from Old French souduire,but this meant \"deceive,seduce,\"from Latin subducere “draw away,lead away,carry off;withdraw”(see subduce).The primary sense in English seems to have been taken in Anglo-French from Latin subdere and attached to this word.Related:Subdued;subduing.As an associated noun, subdual is attested from 1670s(subduction having acquired other senses).",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "subdued",
+            "phonetic": "səbˈdud",
+            "pos": "adj.",
+            "definition": "(因难过、担心而)沉默寡言的；(声音)压低的；小 声的；(声音、灯光或颜色)柔和的",
+            "frequency": 11494,
+            "mnemonic": "subdue ( 抑制；压制)+-d ( 形容词后缀-ed去e)→被压抑的声音；情 绪；光线→ (因难过、担心而)沉默寡言的；(声音)压低的；(声 音、灯光或颜色)柔和的",
+            "collocations": [
+                "a subdued light: 柔和的光线"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "seduce",
+            "phonetic": "sɪˈdus",
+            "pos": "vt.",
+            "definition": "引诱；诱惑；诱奸；怂恿",
+            "frequency": 8781,
+            "mnemonic": "se-(=aside,away: 离开)+ -duce(=to lead: 使带领) →lead away,\nlead astray: 带领……使离开；把……引入歧途→引诱；诱奸；怂恿 搭配：seduce sb into sth/into doing sth: 诱骗、唆使某人做某事",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "seduction",
+            "phonetic": "sɪˈdʌkʃən",
+            "pos": "n.",
+            "definition": "诱奸；勾引；(常常对人产生不良影响的)诱 惑；吸引力",
+            "frequency": 12718,
+            "mnemonic": "seduc(=seduce, 引诱；诱奸)+-t+-ion ( 名词后缀) → 引申比喻义诱 惑，魅力；诱惑物(复数)",
+            "collocations": [
+                "the seduction of words: 言语的诱惑",
+                "invent seduction codes: 创造诱惑准则",
+                "the seductions of power: 权力的诱惑",
+                "the seduction ofa young girl: 勾引年轻姑娘"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "seductive",
+            "phonetic": "sɪˈdʌktɪv",
+            "pos": "adj.",
+            "definition": "( 尤指女人)性感的，撩人的；(某物)非常吸引人的；有诱惑力的；有魅力的",
+            "frequency": 10064,
+            "mnemonic": "seduc(=seduce, 引诱；诱奸)+t+-ive ( 形容词后缀)→非常吸引人 的；有诱惑力的；有魅力的",
+            "collocations": [
+                "a seductive argument: 一个非常吸引人的论点",
+                "the seductive power of advertising: 广告的诱惑力\n..a seductive woman..: 性感的女人\n20000词汇巅峰"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "transducer",
+            "phonetic": "trænzˈdusɚ",
+            "pos": "n.",
+            "definition": "换能器；变换器；传感器",
+            "frequency": 17554,
+            "mnemonic": "trans(=across,beyond: 穿过；越过)+duce(=duct:to lead)+-r (名词后缀) →lead across,transfer→引领(能量)穿越，转换；从一 种形式转换为另外一种形式→换能器；变换器；传感器",
+            "collocations": [
+                "ultrasonic transducer: 超声换能器",
+                "pressure transducer: 压力传感器",
+                "current transducer: 电流变送器 释义：(technical 术语)换能器；变换器",
+                "a device for producing an electrical signal from another form of energy such as pressure"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "taut",
+            "phonetic": "tɔt",
+            "pos": "adj.",
+            "definition": "绷紧的；拉紧的；肌肉健美的；(神色)紧张不安的；(文 章、电影等)结构严谨的，紧凑的",
+            "frequency": 10701,
+            "collocations": [
+                "trim and taut: 修长而健美",
+                "taut and terrified: 紧张而惊恐",
+                "the taut, strained air of perpetual anxiety: 长期焦虑带来的紧张而疲惫 的神色",
+                "a taut thriller: 一部情节紧凑的惊悚片"
+            ],
+            "etymology": "mid-13c.,tohte \"stretched or pulled tight,\"possibly from tog-,past participle stem of Old English teon“to pull,drag,”from Proto-Germanic *theuhanan,from PIE root *deuk-\"to lead,\"which would connect it to tow(v.)and tie.",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "team",
+            "phonetic": "tim",
+            "pos": "n.",
+            "definition": "( 游戏或体育运动的)队，小组；团队；工作组",
+            "frequency": 308,
+            "collocations": [
+                "football team: 一支足球队",
+                "team spirit: 团队精神"
+            ],
+            "etymology": "1550s,\"to harness beasts in a team,\"from team(n.).From 1841 as “drive a team.”The meaning “to come together as a team”(usually with up)is attested from 1932.Transitive sense “to use(something)in conjunction” (with something else)is from 1948.Related:Teamed;teaming.The Old English verb,teaman,tieman,is attested only in the sense “bring forth, beget,engender,propagate.\"",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "teammate",
+            "phonetic": "ˈtiːm.meɪt",
+            "pos": "n.",
+            "definition": "队友；同队队员",
+            "frequency": 4281,
+            "mnemonic": "team ( 队；组)+mate ( 朋友；伙伴) → 队友；同队队员",
+            "collocations": [
+                "best teammate: 最好的队友"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "teamwork",
+            "phonetic": "ˈtiːm.wɝk",
+            "pos": "n.",
+            "definition": "协力；配合；团队协作能力",
+            "frequency": 12135,
+            "mnemonic": "team (团队)+work( 工作)→协作；合作；配合",
+            "collocations": [
+                "require close teamwork between the architect and the builders; 需要建筑 师和建筑工人的密切协作",
+                "teamwork spirit: 团队精神"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "teeming",
+            "phonetic": "ˈtiː.mɪŋ",
+            "pos": "adj.",
+            "definition": "充满(移动着的人、动物等)的；拥挤的；万头攒动 的；(雨)倾盆而下的",
+            "frequency": 14247,
+            "mnemonic": "teem(abound,swarm,be prolific: 充满；遍布；富于)+-ing ( 形容词\n后缀) → 充满(移动着的人、动物等)的；拥挤的 搭配：the teeming streets of the city: 熙熙攘攘的城市街道",
+            "collocations": [
+                "the teeming rain; 倾盆大雨"
+            ],
+            "etymology": "\"swarming,\"1715,earlier “abundantly productive,fertile”(1590s), present-participle adjective from teem(v.1).",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "tie",
+            "phonetic": "taɪ",
+            "pos": "vt.",
+            "definition": "系；把……打成结；(用绳索)捆绑；固定；(用绳子或布条) 捆；打(结);使 … … 紧密联系；束缚；(在竞赛或比赛中)打成平 局n. 领带；联系；平局；淘汰赛",
+            "frequency": 1510,
+            "mnemonic": "Old English teag,\"cord,band,thong,fetter,”literally\"that with which anything is tied,\"from Proto-Germanic *taugo(source also of Old Norse taug \"tie,\"tygill “string”),from PIE root *deuk-\"to lead”(source also of Old English teon “to draw,pull,drag”).",
+            "collocations": [
+                "Figurative sense is recorded from 1550s.Sense of “cravat,necktie”(usually a simple one knotted in front)first recorded 1761.The railway sense of “cross-beam between and beneath rails to keep them in place”is from 1857,American English.Meaning“equality between competitors”is first found 1670s,from notion of a connecting link.Tie-breaker is recorded from 1938.The figurative old school tie(1938)in its literal sense was a\n20000词汇巅峰",
+                "necktie of a characteristic pattern worn by former students of a particular English school.",
+                "tie in: 使结合；使配合得当",
+                "loosen his tie: 松开了他的领带",
+                "tie in front in a floppy bow: 前面打了个蓬松蝴蝶结",
+                "tie with Frank Nobilo: 与诺比罗打成了平局",
+                "the first round tie: 第一轮淘汰赛\ntie up: 占用；包扎；绑好；缚牢；阻碍；密切联系；合伙；停泊"
+            ],
+            "etymology": "来自古英语 teag, 绳子，带子，来自Proto-Germanic*taugo, 拉，来自 PIE*deuk, 拉，词源同tow,conduct 。 并引申诸相关词义。",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "necktie",
+            "phonetic": "ˈnɛk.taɪ",
+            "pos": "n.",
+            "definition": "领带",
+            "frequency": 17794,
+            "mnemonic": "neck (脖子)+tie ( 领带) →领带",
+            "collocations": [
+                "blue silk necktie: 蓝色丝领带"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "untie",
+            "phonetic": "ʌnˈtaɪ",
+            "pos": "vt.",
+            "definition": "解开……上的绳索；松开",
+            "frequency": 14676,
+            "mnemonic": "un-(与……相反：opposite of)+ tie ( 用线/绳扎牢)→解开；松开",
+            "collocations": [
+                "to untie a knot: 解开绳结"
+            ],
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "tow",
+            "phonetic": "toʊ",
+            "pos": "vt.",
+            "definition": "( 用绳索)拖；拉；牵引；拽n. ( 车、船等的)牵引；拽引",
+            "frequency": 9198,
+            "collocations": [],
+            "etymology": "来自古英语 togian, 拖，拉，来自 Proto-Germanic*tugojanan, 拖，",
+            "examples": [],
+            "rootHint": "duct"
+        },
+        {
+            "word": "tug",
+            "phonetic": "tʌɡ",
+            "pos": "vt.",
+            "definition": "&vi. ( 常为几次用力)拉，拖，拽；(朝某一方向用力)拉， 拖，拽n. 拖船；突然的)猛拉，猛拽； 一股强烈的感情",
+            "frequency": 6303,
+            "collocations": [
+                "a sad story that tugs at your heartstrings: 令人心酸的故事 tug at his sleeves: 拽了拽他的袖子",
+                "a tug of attraction: 一阵强烈的吸引",
+                "feel a tug at my sleeve: 觉得(有人)拽了一下我的袖子",
+                "tug of war: 拔河比赛\ntug boat: 拖船\n昨词根“-viv” 表示“生命，生活”,是和单词“live: 生命，生活”有关(二 者为同源词汇，含义相同)。词根“bi-,bio-” 也可以表示“生命；生物”。 词根“zoo-” 也来自词根“bio-( 生命)”,含义为“动物，生物”。词根“quick-” 也有“活的，生气勃勃的，迅速的”含义。",
+                "It is the hypothetical source of/evidence for its existence is provided by: Sanskrit jivah “alive,living;\"Old Persian *jivaka-“alive,”Middle Persian zhiwak“alive;\"Greek bios\"one's life,course or way of living,lifetime,” zoe“animal life,organic life;\"Old English cwic,cwicu “living,alive;\"” Latin vivus “living,alive,\"vita \"life;\"Old Church Slavonic zivo \"to live;” Lithuanian gyvas “living,alive,\"gyvata“(eternal)life;”Old Irish bethu \"life,\"bith “age;\"Welsh byd“world.”\n20000词汇巅峰速记"
+            ],
+            "etymology": "来自中世纪英语tuggen,toggen, 来自古英语togian(“to draw,drag”), 来自原始日耳曼语*tugōną(“to draw,tear”),来自原始印欧语*dewk- (“to pull”). 同源于中古低地德语togen(“to draw”),中古高地德语 zogen(“to pull, tear off”),冰岛语toga(“to pull,draw”).",
+            "examples": [],
+            "rootHint": "duct"
+        }
+    ]
 }

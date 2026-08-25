@@ -1,795 +1,795 @@
 {
-  "chapter": "二",
-  "chapterOrder": 2,
-  "id": "van",
-  "meaningEn": "come，go 来，走来",
-  "roots": [
-    "van",
-    "ven",
-    "vent"
-  ],
-  "semanticLabel": "come，go 来，走来",
-  "source": "textbook-1",
-  "titleZh": "come，go 来，走来",
-  "words": [
-    {
-      "collocations": [
-        "the advent of sth. (考)：……的出现",
-        "With the advent/appearance/emergence of E-books, the way of reading",
-        "for ordinary people have changed/varied/transformed drastically."
-      ],
-      "definition": "来临，出现",
-      "examples": [
-        "伴随着电子书的出现，人们的阅读方式发生了巨大的变化。"
-      ],
-      "frequency": 8282,
-      "mnemonic": "ad (=to) +vent (来临，出现) →走过来，走来了→来临，出现。前缀ad\n(=at：一般翻译成to：去)，词根“-ven，-vent”表示“来”",
-      "phonetic": "ˈæd.vɛnt",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "advent"
-    },
-    {
-      "collocations": [],
-      "definition": "集合，召集，聚集",
-      "examples": [],
-      "frequency": 7956,
-      "mnemonic": "con (共同，一起) +ven (=come：来) +e→来到一起→集合，召集，聚集",
-      "phonetic": "kənˈvin",
-      "pos": "v.",
-      "rootHint": "ven",
-      "word": "convene"
-    },
-    {
-      "collocations": [],
-      "definition": "开会；习俗",
-      "examples": [],
-      "frequency": 2494,
-      "mnemonic": "con (共同，一起) +vent (=come：来) +ion→来到一起→开会；习俗，",
-      "phonetic": "kənˈvɛn.ʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "convention"
-    },
-    {
-      "collocations": [
-        "conventional values (考)：传统价值观",
-        "conventional lanes (考)：常规车道"
-      ],
-      "definition": "传统的，符合习俗的",
-      "examples": [],
-      "frequency": 2576,
-      "phonetic": "kənˈvɛn.ʃə.nəl",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "conventional"
-    },
-    {
-      "collocations": [],
-      "definition": "照惯例，照常套",
-      "examples": [],
-      "frequency": 16023,
-      "phonetic": "kənˈvɛn.ʃə.nə.li",
-      "pos": "adv.",
-      "rootHint": "ven",
-      "word": "conventionally"
-    },
-    {
-      "collocations": [],
-      "definition": "非常规的；非传统的；不依惯例的",
-      "examples": [],
-      "frequency": 10196,
-      "phonetic": "ˌʌnkənˈvɛnʃənəl",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "unconventional"
-    },
-    {
-      "collocations": [],
-      "definition": "便利；便利的事物；厕所",
-      "examples": [],
-      "frequency": 4945,
-      "phonetic": "kənˈvinjəns",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "convenience"
-    },
-    {
-      "collocations": [],
-      "definition": "方便的",
-      "examples": [],
-      "frequency": 5438,
-      "phonetic": "kənˈvinjənt",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "convenient"
-    },
-    {
-      "collocations": [],
-      "definition": "便利地；合宜地",
-      "examples": [],
-      "frequency": 11879,
-      "phonetic": "kənˈvinjəntli",
-      "pos": "adv.",
-      "rootHint": "ven",
-      "word": "conveniently"
-    },
-    {
-      "collocations": [],
-      "definition": "麻烦；不便",
-      "examples": [],
-      "frequency": 11019,
-      "phonetic": "ˌɪn.kənˈvin.jəns",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "inconvenience"
-    },
-    {
-      "collocations": [],
-      "definition": "不便的；打扰的",
-      "examples": [],
-      "frequency": 13872,
-      "phonetic": "ˌɪn.kənˈvin.jənt",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "inconvenient"
-    },
-    {
-      "collocations": [
-        "prevent them from being marginalized (考)：阻止他们被同化",
-        "happening again.\n最终，伦敦市议会采取行动去防止这个灾难再次发生。",
-        "The Ministry of Education should take some actions/measures/steps to",
-        "prevent Chinese from being marginalized.\n笔 记 区"
-      ],
-      "definition": "防止，预防，阻止",
-      "examples": [
-        "At last, Greater London Council took actions to prevent this disaster from"
-      ],
-      "frequency": 1087,
-      "mnemonic": "pre (提前，先) +vent (来) →先来 (演练) 一遍→预防",
-      "phonetic": "pɹɪˈvɛnt",
-      "pos": "v.",
-      "rootHint": "ven",
-      "word": "prevent"
-    },
-    {
-      "collocations": [],
-      "definition": "可预防的；可阻止的；可防止的",
-      "examples": [],
-      "frequency": 16996,
-      "phonetic": "pɹɪˈvɛn.tə.bəl",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "preventable"
-    },
-    {
-      "collocations": [],
-      "definition": "预防性的",
-      "examples": [],
-      "frequency": 19828,
-      "phonetic": "pɹɪˈvɛn.tə.tɪv",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "preventative"
-    },
-    {
-      "collocations": [],
-      "definition": "预防；阻止；妨碍",
-      "examples": [],
-      "frequency": 3996,
-      "phonetic": "pɹɪˈvɛn.ʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "prevention"
-    },
-    {
-      "collocations": [],
-      "definition": "预防药；预防法",
-      "examples": [],
-      "frequency": 7745,
-      "phonetic": "pɹɪˈvɛn.tɪv",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "preventive"
-    },
-    {
-      "collocations": [],
-      "definition": "干涉，干预",
-      "examples": [],
-      "frequency": 5157,
-      "mnemonic": "inter (=between：之间) +ven (来) +e→来到两者之间→干涉，干预",
-      "phonetic": "ˌɪn.tɚˈvin",
-      "pos": "v.",
-      "rootHint": "ven",
-      "word": "intervene"
-    },
-    {
-      "collocations": [
-        "policy interventions (考)：政策干预"
-      ],
-      "definition": "干涉，干预",
-      "examples": [],
-      "frequency": 1940,
-      "phonetic": "ˌɪn.tɚˈvɛn.ʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "intervention"
-    },
-    {
-      "collocations": [],
-      "definition": "介于中间的；发生于期间的",
-      "examples": [],
-      "frequency": 13024,
-      "phonetic": "ˌɪn.tɚˈvi.nɪŋ",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "intervening"
-    },
-    {
-      "collocations": [
-        "than ever to follow a child’s every movement via the Internet—without",
-        "seeming to interfere or hover.\n笔 记 区\n20000 词 汇巅峰\n速\n记\n新一代的GPS手机配备了跟踪软件使得人们比起以往任何时候都更容易\n通过互联网去追踪孩子的一举一动，似乎无需去干涉或守在他们旁边。",
-        "Like it or not, many children are forced by their parents to attend various",
-        "art classes, which interfere with/intervene in children’s right of free",
-        "Janet told me that she would rather her mother hadn’t interfered with her\nmarriage.\n简妮特告诉我，她宁愿她的妈妈不干涉她的婚姻。"
-      ],
-      "definition": "干涉，干预",
-      "examples": [
-        "A new generation of GPS cell phones with tracking software make it easier",
-        "现在有不少孩子都被家长强迫去参加各种艺术班，而不管他们是\n否喜欢，这干涉了孩子的自由选择权。\nchoice."
-      ],
-      "frequency": 4532,
-      "mnemonic": "inter (之间，另外在刻意模仿单词：enter：进入) +fer (=ven：来) +e→\n来到两者之间→干涉，干预 (与intervene意思类似；f，v音似，n，l音\n似) f，v读音相似，可以相互转变的例证：life → live；give → gift：",
-      "phonetic": "ˌɪn.tɚˈfɪɹ",
-      "pos": "v.",
-      "rootHint": "van",
-      "word": "interfere"
-    },
-    {
-      "collocations": [
-        "interference with natural ecosystems (考)：干扰自然生态系统"
-      ],
-      "definition": "干涉，介入",
-      "examples": [],
-      "frequency": 4592,
-      "phonetic": "ˌɪn.tɚˈfɪɹ.əns",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "interference"
-    },
-    {
-      "collocations": [
-        "tax revenues (考)：收税",
-        "abandon readership revenue (考)：放弃读者收入\n同义：income [’inkʌm] n. 收入 44188",
-        "income inequality (考)：收入不平等",
-        "upper-income population (考)：高收入人群"
-      ],
-      "definition": "收入",
-      "examples": [],
-      "frequency": 1691,
-      "mnemonic": "re (回) +ven (=come：来) +ue (名词后缀) →回来的钱 (因为venue整体\n在模仿money) →收入 (该单词可与单词“income：收入”联合记忆，\nin (进) +come (来) →进来的钱→收入",
-      "phonetic": "ˈɹɛv.ə.nu",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "revenue"
-    },
-    {
-      "collocations": [],
-      "definition": "事件，大事；结果；项目",
-      "examples": [],
-      "frequency": 526,
-      "phonetic": "ɪ.ˈvɛnt",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "event"
-    },
-    {
-      "collocations": [],
-      "definition": "最后的，结果的；终于的；可能的",
-      "examples": [],
-      "frequency": 7419,
-      "phonetic": "ɪ.ˈvɛn.tʃu.əl",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "eventual"
-    },
-    {
-      "collocations": [],
-      "definition": "最后，终于",
-      "examples": [],
-      "frequency": 1110,
-      "phonetic": "ɪ.ˈvɛn.tʃu.ə.li",
-      "pos": "adv.",
-      "rootHint": "ven",
-      "word": "eventually"
-    },
-    {
-      "collocations": [],
-      "definition": "/ v. 前进，提前",
-      "examples": [],
-      "frequency": 2316,
-      "mnemonic": "ad (=to) +vanc (=vent：来；另外，-anc还有“前”的意思) +e→来到\n前面→前进，提前 (v./n.)",
-      "phonetic": "əd.ˈvæns",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "advance"
-    },
-    {
-      "collocations": [
-        "advanced medical technologies (考)：先进的医学技术"
-      ],
-      "definition": "高级的，先进的",
-      "examples": [],
-      "frequency": 2824,
-      "phonetic": "əd.ˈvænst",
-      "pos": "adj.",
-      "rootHint": "van",
-      "word": "advanced"
-    },
-    {
-      "collocations": [],
-      "definition": "前进，进步；提升",
-      "examples": [],
-      "frequency": 6733,
-      "phonetic": "əd.ˈvæns.mənt",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "advancement"
-    },
-    {
-      "collocations": [],
-      "definition": "前进的；年长的",
-      "examples": [],
-      "frequency": 9483,
-      "phonetic": "əd.ˈvæn.sɪŋ",
-      "pos": "adj.",
-      "rootHint": "van",
-      "word": "advancing"
-    },
-    {
-      "collocations": [],
-      "definition": "古老的，古代的",
-      "examples": [],
-      "frequency": 1832,
-      "mnemonic": "anci (以前) +ent (=ant：的) →古老的，古代的",
-      "phonetic": "ˈeɪnʃənt",
-      "pos": "adj.",
-      "rootHint": "van",
-      "word": "ancient"
-    },
-    {
-      "collocations": [],
-      "definition": "古董； adj. 古老的",
-      "examples": [],
-      "frequency": 5830,
-      "mnemonic": "anti (以前) +que (名词或形容词缀) →以前的东西→古董，古玩；古老的",
-      "phonetic": "ænˈtik",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "antique"
-    },
-    {
-      "collocations": [
-        "take full advantage of sth. (考)：充分利用",
-        "can access email in real time, and take full advantage of services such as",
-        "internet-based backup or even internet-based phone services.\n对于那些偶尔在家工作的员工来说，宽带的好处是他们能够及时地查\n收邮件，充分利用网络备份甚至是电话服务。",
-        "The benefits of E-book to those who have no time to bookstores are that",
-        "they can read it anytime and anywhere, and take full advantage of every"
-      ],
-      "definition": "优点，优势，好处",
-      "examples": [
-        "The benefits of broadband to the occasional home worker are that they",
-        "对于那些没空去书店的人来说，电子图书的好处就是能够随时随\n地阅读，充分利用时间。\nminute."
-      ],
-      "frequency": 1308,
-      "phonetic": "əd.ˈvæn.tɪdʒ",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "advantage"
-    },
-    {
-      "collocations": [],
-      "definition": "有利的；有益的",
-      "examples": [],
-      "frequency": 14583,
-      "phonetic": "ˌæd.vən.ˈteɪ.dʒəs",
-      "pos": "adj.",
-      "rootHint": "van",
-      "word": "advantageous"
-    },
-    {
-      "collocations": [],
-      "definition": "不利条件；缺点；损失",
-      "examples": [],
-      "frequency": 6383,
-      "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒ",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "disadvantage"
-    },
-    {
-      "collocations": [],
-      "definition": "处于不利地位的； n. 不利条件",
-      "examples": [],
-      "frequency": 9105,
-      "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒd",
-      "pos": "adj.",
-      "rootHint": "van",
-      "word": "disadvantaged"
-    },
-    {
-      "collocations": [],
-      "definition": "发明，创造",
-      "examples": [],
-      "frequency": 3426,
-      "mnemonic": "in (加强语气) +vent (来临，出现) →出现→发明 (即：“发明”某物即",
-      "phonetic": "ɪnˈvɛnt",
-      "pos": "v.",
-      "rootHint": "ven",
-      "word": "invent"
-    },
-    {
-      "collocations": [],
-      "definition": "发明，创造",
-      "examples": [],
-      "frequency": 4828,
-      "phonetic": "ɪnˈvɛn.ʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "invention"
-    },
-    {
-      "collocations": [],
-      "definition": "发明的；有发明才能的；独出心裁的",
-      "examples": [],
-      "frequency": 12610,
-      "phonetic": "ɪnˈvɛn.tɪv",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "inventive"
-    },
-    {
-      "collocations": [],
-      "definition": "发明家；发明人；创造者",
-      "examples": [],
-      "frequency": 8346,
-      "phonetic": "ɪnˈvɛn.tɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "inventor"
-    },
-    {
-      "collocations": [
-        "huge inventories (考)：大量的库存"
-      ],
-      "definition": "存货清单，详细目录",
-      "examples": [],
-      "frequency": 4005,
-      "phonetic": "ˈɪn.vən.tɔɹ.i",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "inventory"
-    },
-    {
-      "collocations": [],
-      "definition": "重新使用；彻底改造；重复发明（在不知他人已发明的情况下）",
-      "examples": [],
-      "frequency": 8350,
-      "phonetic": "ˌɹi.ɪnˈvɛnt",
-      "pos": "vt.",
-      "rootHint": "ven",
-      "word": "reinvent"
-    },
-    {
-      "collocations": [],
-      "definition": "重新使用；彻底改造；重复发明",
-      "examples": [],
-      "frequency": 20087,
-      "phonetic": "ˌɹi.ɪnˈvɛn.ʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "reinvention"
-    },
-    {
-      "collocations": [
-        "venture capitalists (考)：风险投资家",
-        "space venture (考)：太空探险"
-      ],
-      "definition": "风险，冒险；企业",
-      "examples": [],
-      "frequency": 3322,
-      "mnemonic": "vent (来，另外，vent还在刻意模仿单词“chance：冒险) →来冒险→",
-      "phonetic": "ˈvɛntʃɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "venture"
-    },
-    {
-      "collocations": [],
-      "definition": "冒险；冒险精神；投机活动",
-      "examples": [],
-      "frequency": 2885,
-      "phonetic": "əd.ˈvɛn.tʃɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "adventure"
-    },
-    {
-      "collocations": [],
-      "definition": "冒险家；投机商人",
-      "examples": [],
-      "frequency": 13796,
-      "phonetic": "əd.ˈvɛn.tʃɚ.ɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "adventurer"
-    },
-    {
-      "collocations": [],
-      "definition": "爱冒险的；大胆的；充满危险的",
-      "examples": [],
-      "frequency": 11153,
-      "phonetic": "əd.ˈvɛn.tʃɚ.əs",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "adventurous"
-    },
-    {
-      "collocations": [],
-      "definition": "林荫大道；大街",
-      "examples": [],
-      "frequency": 6178,
-      "phonetic": "ˈævəˌnu",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "avenue"
-    },
-    {
-      "collocations": [],
-      "definition": "投资",
-      "examples": [],
-      "frequency": 2015,
-      "phonetic": "ɪnˈvɛst",
-      "pos": "v.",
-      "rootHint": "van",
-      "word": "invest"
-    },
-    {
-      "collocations": [
-        "the scale of investment (考)：投资规模",
-        "real estate investment (考)：房地产投资"
-      ],
-      "definition": "投资，投入",
-      "examples": [],
-      "frequency": 1044,
-      "phonetic": "ɪnˈvɛst.mənt",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "investment"
-    },
-    {
-      "collocations": [],
-      "definition": "投资者",
-      "examples": [],
-      "frequency": 1714,
-      "phonetic": "ɪnˈvɛs.tɚ",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "investor"
-    },
-    {
-      "collocations": [],
-      "definition": "审判地；犯罪地点；发生地点；集合地点",
-      "examples": [],
-      "frequency": 5460,
-      "phonetic": "ˈvɛnju",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "venue"
-    },
-    {
-      "collocations": [],
-      "definition": "包围；陷害；绕行",
-      "examples": [],
-      "frequency": 12251,
-      "phonetic": "ˌsɝkəmˈvɛnt",
-      "pos": "vt.",
-      "rootHint": "ven",
-      "word": "circumvent"
-    },
-    {
-      "collocations": [],
-      "definition": "女修道院",
-      "examples": [],
-      "frequency": 11560,
-      "phonetic": "ˈkɑn.vɛnt",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "convent"
-    },
-    {
-      "collocations": [],
-      "definition": "契约，盟约；盖印合同；圣约",
-      "examples": [],
-      "frequency": 11548,
-      "phonetic": "ˈkʌv.ə.nənt",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "covenant"
-    },
-    {
-      "collocations": [],
-      "definition": "纪念品；礼物",
-      "examples": [],
-      "frequency": 8210,
-      "phonetic": "ˌsuvəˈnɪɹ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "souvenir"
-    },
-    {
-      "collocations": [],
-      "definition": "出口；通风孔；（感情的）发泄",
-      "examples": [],
-      "frequency": 11270,
-      "phonetic": "vɛnt",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "vent"
-    },
-    {
-      "collocations": [],
-      "definition": "空气流通；通风设备",
-      "examples": [],
-      "frequency": 10030,
-      "phonetic": "ˌvɛntəˈleɪʃən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "ventilation"
-    },
-    {
-      "collocations": [],
-      "definition": "通风设备；通风机",
-      "examples": [],
-      "frequency": 16818,
-      "phonetic": "ˈvɛntəleɪtɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "ventilator"
-    },
-    {
-      "collocations": [],
-      "definition": "替……报仇",
-      "examples": [],
-      "frequency": 15827,
-      "phonetic": "əˈvɛndʒ",
-      "pos": "vt.",
-      "rootHint": "ven",
-      "word": "avenge"
-    },
-    {
-      "collocations": [],
-      "definition": "进入静脉的；静脉注射的",
-      "examples": [],
-      "frequency": 13184,
-      "phonetic": "ˌɪn.tɹəˈvi.nəs",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "intravenous"
-    },
-    {
-      "collocations": [],
-      "definition": "出售",
-      "examples": [],
-      "frequency": 18563,
-      "phonetic": "vɛnd",
-      "pos": "vi.",
-      "rootHint": "ven",
-      "word": "vend"
-    },
-    {
-      "collocations": [],
-      "definition": "（尤指族间或血亲间的）仇杀；深仇",
-      "examples": [],
-      "frequency": 19882,
-      "phonetic": "vɛnˈdɛtə",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "vendetta"
-    },
-    {
-      "collocations": [],
-      "definition": "小贩；卖主；自动售货机",
-      "examples": [],
-      "frequency": 4680,
-      "phonetic": "ˈvɛndɚ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "vendor"
-    },
-    {
-      "collocations": [],
-      "definition": "复仇；报仇；报复",
-      "examples": [],
-      "frequency": 8745,
-      "phonetic": "ˈvɛndʒəns",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "vengeance"
-    },
-    {
-      "collocations": [],
-      "definition": "复仇的，报复的；复仇心重的",
-      "examples": [],
-      "frequency": 19075,
-      "phonetic": "ˈvɛndʒfəl",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "vengeful"
-    },
-    {
-      "collocations": [],
-      "definition": "鹿肉； [古]野味",
-      "examples": [],
-      "frequency": 17576,
-      "phonetic": "ˈvɛnəsən",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "venison"
-    },
-    {
-      "collocations": [],
-      "definition": "静脉的，静脉中的；有脉的",
-      "examples": [],
-      "frequency": 19933,
-      "phonetic": "ˈvinəs",
-      "pos": "adj.",
-      "rootHint": "ven",
-      "word": "venous"
-    },
-    {
-      "collocations": [],
-      "definition": "复仇；报复",
-      "examples": [],
-      "frequency": 5351,
-      "phonetic": "ɹɪ.ˈvɛndʒ",
-      "pos": "n.",
-      "rootHint": "ven",
-      "word": "revenge"
-    },
-    {
-      "collocations": [],
-      "definition": "小型货车",
-      "examples": [],
-      "frequency": 10498,
-      "phonetic": "ˈmɪniˌvæn",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "minivan"
-    },
-    {
-      "collocations": [],
-      "definition": "先锋；厢式货车；[计]增值网",
-      "examples": [],
-      "frequency": 3559,
-      "phonetic": "væn",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "van"
-    },
-    {
-      "collocations": [
-        "A caravan is a vehicle without an engine that can be pulled by a car or van.",
-        "It contains beds and cooking equipment so that people can live or spend",
-        "their holidays in it.\n旅行拖车：无发动机，由其他轿车或客货车拖动，里面有床和厨具，\n人们可以在里面住或度假。\n20000 词 汇巅峰\n速\n记"
-      ],
-      "definition": "旅行拖车；大篷车；房车",
-      "examples": [],
-      "frequency": 10442,
-      "phonetic": "ˈkæɹəˌvæn",
-      "pos": "n.",
-      "rootHint": "van",
-      "word": "caravan"
-    }
-  ]
+    "chapter": "二",
+    "chapterOrder": 2,
+    "id": "van",
+    "meaningEn": "come，go 来，走来",
+    "roots": [
+        "van",
+        "ven",
+        "vent"
+    ],
+    "semanticLabel": "come，go 来，走来",
+    "source": "textbook-1",
+    "titleZh": "come，go 来，走来",
+    "words": [
+        {
+            "collocations": [
+                "the advent of sth. (考)：……的出现",
+                "With the advent/appearance/emergence of E-books, the way of reading",
+                "for ordinary people have changed/varied/transformed drastically."
+            ],
+            "definition": "来临，出现",
+            "examples": [
+                "伴随着电子书的出现，人们的阅读方式发生了巨大的变化。"
+            ],
+            "frequency": 8282,
+            "mnemonic": "ad (=to) +vent (来临，出现) →走过来，走来了→来临，出现。前缀ad\n(=at：一般翻译成to：去)，词根“-ven，-vent”表示“来”",
+            "phonetic": "ˈæd.vɛnt",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "advent"
+        },
+        {
+            "collocations": [],
+            "definition": "集合，召集，聚集",
+            "examples": [],
+            "frequency": 7956,
+            "mnemonic": "con (共同，一起) +ven (=come：来) +e→来到一起→集合，召集，聚集",
+            "phonetic": "kənˈviːn",
+            "pos": "v.",
+            "rootHint": "ven",
+            "word": "convene"
+        },
+        {
+            "collocations": [],
+            "definition": "开会；习俗",
+            "examples": [],
+            "frequency": 2494,
+            "mnemonic": "con (共同，一起) +vent (=come：来) +ion→来到一起→开会；习俗，",
+            "phonetic": "kənˈvɛn.ʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "convention"
+        },
+        {
+            "collocations": [
+                "conventional values (考)：传统价值观",
+                "conventional lanes (考)：常规车道"
+            ],
+            "definition": "传统的，符合习俗的",
+            "examples": [],
+            "frequency": 2576,
+            "phonetic": "kənˈvɛn.ʃə.nəl",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "conventional"
+        },
+        {
+            "collocations": [],
+            "definition": "照惯例，照常套",
+            "examples": [],
+            "frequency": 16023,
+            "phonetic": "kənˈvɛn.ʃə.nə.li",
+            "pos": "adv.",
+            "rootHint": "ven",
+            "word": "conventionally"
+        },
+        {
+            "collocations": [],
+            "definition": "非常规的；非传统的；不依惯例的",
+            "examples": [],
+            "frequency": 10196,
+            "phonetic": "ˌʌnkənˈvɛnʃənəl",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "unconventional"
+        },
+        {
+            "collocations": [],
+            "definition": "便利；便利的事物；厕所",
+            "examples": [],
+            "frequency": 4945,
+            "phonetic": "kənˈviːnjəns",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "convenience"
+        },
+        {
+            "collocations": [],
+            "definition": "方便的",
+            "examples": [],
+            "frequency": 5438,
+            "phonetic": "kənˈviːnjənt",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "convenient"
+        },
+        {
+            "collocations": [],
+            "definition": "便利地；合宜地",
+            "examples": [],
+            "frequency": 11879,
+            "phonetic": "kənˈviːnjəntliː",
+            "pos": "adv.",
+            "rootHint": "ven",
+            "word": "conveniently"
+        },
+        {
+            "collocations": [],
+            "definition": "麻烦；不便",
+            "examples": [],
+            "frequency": 11019,
+            "phonetic": "ˌɪn.kənˈviːn.jəns",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "inconvenience"
+        },
+        {
+            "collocations": [],
+            "definition": "不便的；打扰的",
+            "examples": [],
+            "frequency": 13872,
+            "phonetic": "ˌɪn.kənˈviːn.jənt",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "inconvenient"
+        },
+        {
+            "collocations": [
+                "prevent them from being marginalized (考)：阻止他们被同化",
+                "happening again.\n最终，伦敦市议会采取行动去防止这个灾难再次发生。",
+                "The Ministry of Education should take some actions/measures/steps to",
+                "prevent Chinese from being marginalized.\n笔 记 区"
+            ],
+            "definition": "防止，预防，阻止",
+            "examples": [
+                "At last, Greater London Council took actions to prevent this disaster from"
+            ],
+            "frequency": 1087,
+            "mnemonic": "pre (提前，先) +vent (来) →先来 (演练) 一遍→预防",
+            "phonetic": "prɪˈvɛnt",
+            "pos": "v.",
+            "rootHint": "ven",
+            "word": "prevent"
+        },
+        {
+            "collocations": [],
+            "definition": "可预防的；可阻止的；可防止的",
+            "examples": [],
+            "frequency": 16996,
+            "phonetic": "prɪˈvɛn.tə.bəl",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "preventable"
+        },
+        {
+            "collocations": [],
+            "definition": "预防性的",
+            "examples": [],
+            "frequency": 19828,
+            "phonetic": "prɪˈvɛn.tə.tɪv",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "preventative"
+        },
+        {
+            "collocations": [],
+            "definition": "预防；阻止；妨碍",
+            "examples": [],
+            "frequency": 3996,
+            "phonetic": "prɪˈvɛn.ʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "prevention"
+        },
+        {
+            "collocations": [],
+            "definition": "预防药；预防法",
+            "examples": [],
+            "frequency": 7745,
+            "phonetic": "prɪˈvɛn.tɪv",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "preventive"
+        },
+        {
+            "collocations": [],
+            "definition": "干涉，干预",
+            "examples": [],
+            "frequency": 5157,
+            "mnemonic": "inter (=between：之间) +ven (来) +e→来到两者之间→干涉，干预",
+            "phonetic": "ˌɪn.tɚˈviːn",
+            "pos": "v.",
+            "rootHint": "ven",
+            "word": "intervene"
+        },
+        {
+            "collocations": [
+                "policy interventions (考)：政策干预"
+            ],
+            "definition": "干涉，干预",
+            "examples": [],
+            "frequency": 1940,
+            "phonetic": "ˌɪn.tɚˈvɛn.ʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "intervention"
+        },
+        {
+            "collocations": [],
+            "definition": "介于中间的；发生于期间的",
+            "examples": [],
+            "frequency": 13024,
+            "phonetic": "ˌɪn.tɚˈviː.nɪŋ",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "intervening"
+        },
+        {
+            "collocations": [
+                "than ever to follow a child’s every movement via the Internet—without",
+                "seeming to interfere or hover.\n笔 记 区\n20000 词 汇巅峰\n速\n记\n新一代的GPS手机配备了跟踪软件使得人们比起以往任何时候都更容易\n通过互联网去追踪孩子的一举一动，似乎无需去干涉或守在他们旁边。",
+                "Like it or not, many children are forced by their parents to attend various",
+                "art classes, which interfere with/intervene in children’s right of free",
+                "Janet told me that she would rather her mother hadn’t interfered with her\nmarriage.\n简妮特告诉我，她宁愿她的妈妈不干涉她的婚姻。"
+            ],
+            "definition": "干涉，干预",
+            "examples": [
+                "A new generation of GPS cell phones with tracking software make it easier",
+                "现在有不少孩子都被家长强迫去参加各种艺术班，而不管他们是\n否喜欢，这干涉了孩子的自由选择权。\nchoice."
+            ],
+            "frequency": 4532,
+            "mnemonic": "inter (之间，另外在刻意模仿单词：enter：进入) +fer (=ven：来) +e→\n来到两者之间→干涉，干预 (与intervene意思类似；f，v音似，n，l音\n似) f，v读音相似，可以相互转变的例证：life → live；give → gift：",
+            "phonetic": "ˌɪn.tɚˈfɪr",
+            "pos": "v.",
+            "rootHint": "van",
+            "word": "interfere"
+        },
+        {
+            "collocations": [
+                "interference with natural ecosystems (考)：干扰自然生态系统"
+            ],
+            "definition": "干涉，介入",
+            "examples": [],
+            "frequency": 4592,
+            "phonetic": "ˌɪn.tɚˈfɪr.əns",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "interference"
+        },
+        {
+            "collocations": [
+                "tax revenues (考)：收税",
+                "abandon readership revenue (考)：放弃读者收入\n同义：income [’inkʌm] n. 收入 44188",
+                "income inequality (考)：收入不平等",
+                "upper-income population (考)：高收入人群"
+            ],
+            "definition": "收入",
+            "examples": [],
+            "frequency": 1691,
+            "mnemonic": "re (回) +ven (=come：来) +ue (名词后缀) →回来的钱 (因为venue整体\n在模仿money) →收入 (该单词可与单词“income：收入”联合记忆，\nin (进) +come (来) →进来的钱→收入",
+            "phonetic": "ˈrɛv.ə.nu",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "revenue"
+        },
+        {
+            "collocations": [],
+            "definition": "事件，大事；结果；项目",
+            "examples": [],
+            "frequency": 526,
+            "phonetic": "ɪ.ˈvɛnt",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "event"
+        },
+        {
+            "collocations": [],
+            "definition": "最后的，结果的；终于的；可能的",
+            "examples": [],
+            "frequency": 7419,
+            "phonetic": "ɪ.ˈvɛn.tʃu.əl",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "eventual"
+        },
+        {
+            "collocations": [],
+            "definition": "最后，终于",
+            "examples": [],
+            "frequency": 1110,
+            "phonetic": "ɪ.ˈvɛn.tʃu.ə.li",
+            "pos": "adv.",
+            "rootHint": "ven",
+            "word": "eventually"
+        },
+        {
+            "collocations": [],
+            "definition": "/ v. 前进，提前",
+            "examples": [],
+            "frequency": 2316,
+            "mnemonic": "ad (=to) +vanc (=vent：来；另外，-anc还有“前”的意思) +e→来到\n前面→前进，提前 (v./n.)",
+            "phonetic": "əd.ˈvæns",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "advance"
+        },
+        {
+            "collocations": [
+                "advanced medical technologies (考)：先进的医学技术"
+            ],
+            "definition": "高级的，先进的",
+            "examples": [],
+            "frequency": 2824,
+            "phonetic": "əd.ˈvænst",
+            "pos": "adj.",
+            "rootHint": "van",
+            "word": "advanced"
+        },
+        {
+            "collocations": [],
+            "definition": "前进，进步；提升",
+            "examples": [],
+            "frequency": 6733,
+            "phonetic": "əd.ˈvæns.mənt",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "advancement"
+        },
+        {
+            "collocations": [],
+            "definition": "前进的；年长的",
+            "examples": [],
+            "frequency": 9483,
+            "phonetic": "əd.ˈvæn.sɪŋ",
+            "pos": "adj.",
+            "rootHint": "van",
+            "word": "advancing"
+        },
+        {
+            "collocations": [],
+            "definition": "古老的，古代的",
+            "examples": [],
+            "frequency": 1832,
+            "mnemonic": "anci (以前) +ent (=ant：的) →古老的，古代的",
+            "phonetic": "ˈeɪnʃənt",
+            "pos": "adj.",
+            "rootHint": "van",
+            "word": "ancient"
+        },
+        {
+            "collocations": [],
+            "definition": "古董； adj. 古老的",
+            "examples": [],
+            "frequency": 5830,
+            "mnemonic": "anti (以前) +que (名词或形容词缀) →以前的东西→古董，古玩；古老的",
+            "phonetic": "ænˈtiːk",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "antique"
+        },
+        {
+            "collocations": [
+                "take full advantage of sth. (考)：充分利用",
+                "can access email in real time, and take full advantage of services such as",
+                "internet-based backup or even internet-based phone services.\n对于那些偶尔在家工作的员工来说，宽带的好处是他们能够及时地查\n收邮件，充分利用网络备份甚至是电话服务。",
+                "The benefits of E-book to those who have no time to bookstores are that",
+                "they can read it anytime and anywhere, and take full advantage of every"
+            ],
+            "definition": "优点，优势，好处",
+            "examples": [
+                "The benefits of broadband to the occasional home worker are that they",
+                "对于那些没空去书店的人来说，电子图书的好处就是能够随时随\n地阅读，充分利用时间。\nminute."
+            ],
+            "frequency": 1308,
+            "phonetic": "əd.ˈvæn.tɪdʒ",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "advantage"
+        },
+        {
+            "collocations": [],
+            "definition": "有利的；有益的",
+            "examples": [],
+            "frequency": 14583,
+            "phonetic": "ˌæd.vən.ˈteɪ.dʒəs",
+            "pos": "adj.",
+            "rootHint": "van",
+            "word": "advantageous"
+        },
+        {
+            "collocations": [],
+            "definition": "不利条件；缺点；损失",
+            "examples": [],
+            "frequency": 6383,
+            "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒ",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "disadvantage"
+        },
+        {
+            "collocations": [],
+            "definition": "处于不利地位的； n. 不利条件",
+            "examples": [],
+            "frequency": 9105,
+            "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒd",
+            "pos": "adj.",
+            "rootHint": "van",
+            "word": "disadvantaged"
+        },
+        {
+            "collocations": [],
+            "definition": "发明，创造",
+            "examples": [],
+            "frequency": 3426,
+            "mnemonic": "in (加强语气) +vent (来临，出现) →出现→发明 (即：“发明”某物即",
+            "phonetic": "ɪnˈvɛnt",
+            "pos": "v.",
+            "rootHint": "ven",
+            "word": "invent"
+        },
+        {
+            "collocations": [],
+            "definition": "发明，创造",
+            "examples": [],
+            "frequency": 4828,
+            "phonetic": "ɪnˈvɛn.ʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "invention"
+        },
+        {
+            "collocations": [],
+            "definition": "发明的；有发明才能的；独出心裁的",
+            "examples": [],
+            "frequency": 12610,
+            "phonetic": "ɪnˈvɛn.tɪv",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "inventive"
+        },
+        {
+            "collocations": [],
+            "definition": "发明家；发明人；创造者",
+            "examples": [],
+            "frequency": 8346,
+            "phonetic": "ɪnˈvɛn.tɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "inventor"
+        },
+        {
+            "collocations": [
+                "huge inventories (考)：大量的库存"
+            ],
+            "definition": "存货清单，详细目录",
+            "examples": [],
+            "frequency": 4005,
+            "phonetic": "ˈɪn.vən.tɔr.i",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "inventory"
+        },
+        {
+            "collocations": [],
+            "definition": "重新使用；彻底改造；重复发明（在不知他人已发明的情况下）",
+            "examples": [],
+            "frequency": 8350,
+            "phonetic": "ˌriː.ɪnˈvɛnt",
+            "pos": "vt.",
+            "rootHint": "ven",
+            "word": "reinvent"
+        },
+        {
+            "collocations": [],
+            "definition": "重新使用；彻底改造；重复发明",
+            "examples": [],
+            "frequency": 20087,
+            "phonetic": "ˌriː.ɪnˈvɛn.ʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "reinvention"
+        },
+        {
+            "collocations": [
+                "venture capitalists (考)：风险投资家",
+                "space venture (考)：太空探险"
+            ],
+            "definition": "风险，冒险；企业",
+            "examples": [],
+            "frequency": 3322,
+            "mnemonic": "vent (来，另外，vent还在刻意模仿单词“chance：冒险) →来冒险→",
+            "phonetic": "ˈvɛntʃɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "venture"
+        },
+        {
+            "collocations": [],
+            "definition": "冒险；冒险精神；投机活动",
+            "examples": [],
+            "frequency": 2885,
+            "phonetic": "əd.ˈvɛn.tʃɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "adventure"
+        },
+        {
+            "collocations": [],
+            "definition": "冒险家；投机商人",
+            "examples": [],
+            "frequency": 13796,
+            "phonetic": "əd.ˈvɛn.tʃɚ.ɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "adventurer"
+        },
+        {
+            "collocations": [],
+            "definition": "爱冒险的；大胆的；充满危险的",
+            "examples": [],
+            "frequency": 11153,
+            "phonetic": "əd.ˈvɛn.tʃɚ.əs",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "adventurous"
+        },
+        {
+            "collocations": [],
+            "definition": "林荫大道；大街",
+            "examples": [],
+            "frequency": 6178,
+            "phonetic": "ˈævəˌnu",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "avenue"
+        },
+        {
+            "collocations": [],
+            "definition": "投资",
+            "examples": [],
+            "frequency": 2015,
+            "phonetic": "ɪnˈvɛst",
+            "pos": "v.",
+            "rootHint": "van",
+            "word": "invest"
+        },
+        {
+            "collocations": [
+                "the scale of investment (考)：投资规模",
+                "real estate investment (考)：房地产投资"
+            ],
+            "definition": "投资，投入",
+            "examples": [],
+            "frequency": 1044,
+            "phonetic": "ɪnˈvɛst.mənt",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "investment"
+        },
+        {
+            "collocations": [],
+            "definition": "投资者",
+            "examples": [],
+            "frequency": 1714,
+            "phonetic": "ɪnˈvɛs.tɚ",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "investor"
+        },
+        {
+            "collocations": [],
+            "definition": "审判地；犯罪地点；发生地点；集合地点",
+            "examples": [],
+            "frequency": 5460,
+            "phonetic": "ˈvɛnju",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "venue"
+        },
+        {
+            "collocations": [],
+            "definition": "包围；陷害；绕行",
+            "examples": [],
+            "frequency": 12251,
+            "phonetic": "ˌsɝkəmˈvɛnt",
+            "pos": "vt.",
+            "rootHint": "ven",
+            "word": "circumvent"
+        },
+        {
+            "collocations": [],
+            "definition": "女修道院",
+            "examples": [],
+            "frequency": 11560,
+            "phonetic": "ˈkɑn.vɛnt",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "convent"
+        },
+        {
+            "collocations": [],
+            "definition": "契约，盟约；盖印合同；圣约",
+            "examples": [],
+            "frequency": 11548,
+            "phonetic": "ˈkʌv.ə.nənt",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "covenant"
+        },
+        {
+            "collocations": [],
+            "definition": "纪念品；礼物",
+            "examples": [],
+            "frequency": 8210,
+            "phonetic": "ˌsuvəˈnɪr",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "souvenir"
+        },
+        {
+            "collocations": [],
+            "definition": "出口；通风孔；（感情的）发泄",
+            "examples": [],
+            "frequency": 11270,
+            "phonetic": "vɛnt",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "vent"
+        },
+        {
+            "collocations": [],
+            "definition": "空气流通；通风设备",
+            "examples": [],
+            "frequency": 10030,
+            "phonetic": "ˌvɛntəˈleɪʃən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "ventilation"
+        },
+        {
+            "collocations": [],
+            "definition": "通风设备；通风机",
+            "examples": [],
+            "frequency": 16818,
+            "phonetic": "ˈvɛntəleɪtɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "ventilator"
+        },
+        {
+            "collocations": [],
+            "definition": "替……报仇",
+            "examples": [],
+            "frequency": 15827,
+            "phonetic": "əˈvɛndʒ",
+            "pos": "vt.",
+            "rootHint": "ven",
+            "word": "avenge"
+        },
+        {
+            "collocations": [],
+            "definition": "进入静脉的；静脉注射的",
+            "examples": [],
+            "frequency": 13184,
+            "phonetic": "ˌɪn.trəˈviː.nəs",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "intravenous"
+        },
+        {
+            "collocations": [],
+            "definition": "出售",
+            "examples": [],
+            "frequency": 18563,
+            "phonetic": "vɛnd",
+            "pos": "vi.",
+            "rootHint": "ven",
+            "word": "vend"
+        },
+        {
+            "collocations": [],
+            "definition": "（尤指族间或血亲间的）仇杀；深仇",
+            "examples": [],
+            "frequency": 19882,
+            "phonetic": "vɛnˈdɛtə",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "vendetta"
+        },
+        {
+            "collocations": [],
+            "definition": "小贩；卖主；自动售货机",
+            "examples": [],
+            "frequency": 4680,
+            "phonetic": "ˈvɛndɚ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "vendor"
+        },
+        {
+            "collocations": [],
+            "definition": "复仇；报仇；报复",
+            "examples": [],
+            "frequency": 8745,
+            "phonetic": "ˈvɛndʒəns",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "vengeance"
+        },
+        {
+            "collocations": [],
+            "definition": "复仇的，报复的；复仇心重的",
+            "examples": [],
+            "frequency": 19075,
+            "phonetic": "ˈvɛndʒfəl",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "vengeful"
+        },
+        {
+            "collocations": [],
+            "definition": "鹿肉； [古]野味",
+            "examples": [],
+            "frequency": 17576,
+            "phonetic": "ˈvɛnəsən",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "venison"
+        },
+        {
+            "collocations": [],
+            "definition": "静脉的，静脉中的；有脉的",
+            "examples": [],
+            "frequency": 19933,
+            "phonetic": "ˈviːnəs",
+            "pos": "adj.",
+            "rootHint": "ven",
+            "word": "venous"
+        },
+        {
+            "collocations": [],
+            "definition": "复仇；报复",
+            "examples": [],
+            "frequency": 5351,
+            "phonetic": "rɪ.ˈvɛndʒ",
+            "pos": "n.",
+            "rootHint": "ven",
+            "word": "revenge"
+        },
+        {
+            "collocations": [],
+            "definition": "小型货车",
+            "examples": [],
+            "frequency": 10498,
+            "phonetic": "ˈmɪniːˌvæn",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "minivan"
+        },
+        {
+            "collocations": [],
+            "definition": "先锋；厢式货车；[计]增值网",
+            "examples": [],
+            "frequency": 3559,
+            "phonetic": "væn",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "van"
+        },
+        {
+            "collocations": [
+                "A caravan is a vehicle without an engine that can be pulled by a car or van.",
+                "It contains beds and cooking equipment so that people can live or spend",
+                "their holidays in it.\n旅行拖车：无发动机，由其他轿车或客货车拖动，里面有床和厨具，\n人们可以在里面住或度假。\n20000 词 汇巅峰\n速\n记"
+            ],
+            "definition": "旅行拖车；大篷车；房车",
+            "examples": [],
+            "frequency": 10442,
+            "phonetic": "ˈkærəˌvæn",
+            "pos": "n.",
+            "rootHint": "van",
+            "word": "caravan"
+        }
+    ]
 }

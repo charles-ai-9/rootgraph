@@ -1,160 +1,160 @@
 {
-  "chapter": "14",
-  "chapterOrder": 114,
-  "id": "lus",
-  "meaningZh": "光。",
-  "roots": [
-    "lus",
-    "lust"
-  ],
-  "semanticLabel": "光。",
-  "source": "textbook-6",
-  "titleZh": "光。",
-  "words": [
-    {
-      "collocations": [
-        "lose luster：失去荣光"
-      ],
-      "definition": "光泽；光彩；（事物自身的）情趣；荣光",
-      "examples": [
-        "These pearls had a fine luster.\n这些珍珠有一种细柔的光泽。"
-      ],
-      "frequency": 16078,
-      "mnemonic": "lustre：光彩；发光→luster：光泽；光彩；荣光",
-      "phonetic": "ˈlʌs.tɚ",
-      "pos": "n.",
-      "rootHint": "lus",
-      "word": "luster"
-    },
-    {
-      "collocations": [
-        "a lackluster performance：枯燥乏味的表演",
-        "lackluster hair：无光泽的头发"
-      ],
-      "definition": "无精打采的",
-      "examples": [],
-      "frequency": 17551,
-      "mnemonic": "lack（缺少）+ luster（光泽；情趣）→失去光泽，对事物失去情趣的\n→无精打采的",
-      "phonetic": "ˈlæk.lʌs.tɚ",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "lackluster"
-    },
-    {
-      "collocations": [
-        "translucent plastic：半透明的塑料"
-      ],
-      "definition": "半透明的",
-      "examples": [],
-      "frequency": 10326,
-      "mnemonic": "trans-（穿过）+ -luc-（光）+ -ent（形容词后缀）→光线穿过物体之\n后的→半透明的",
-      "phonetic": "tɹænzˈlusənt",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "translucent"
-    },
-    {
-      "collocations": [
-        "a lucid account of the history of mankind：对人类历史清晰简明的介绍"
-      ],
-      "definition": "清晰简明的；（生病或头脑不清后）神志清醒的",
-      "examples": [],
-      "frequency": 15766,
-      "mnemonic": "luc-（光）+ -id（形容词后缀）→发光照射的→引申词义清晰简明",
-      "phonetic": "ˈlu.sɪd",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "lucid"
-    },
-    {
-      "collocations": [
-        "elucidate a point of grammar：解释了一个语法要点"
-      ],
-      "definition": "&vi. 解释；说明；阐明",
-      "examples": [],
-      "frequency": 17031,
-      "mnemonic": "e-（=out：向外）+ lucid（清晰的）+ -ate（动词后缀）→向别人清晰\n地陈述→解释；说明；阐明",
-      "phonetic": "ɪˈlu.sə.deɪt",
-      "pos": "vt.",
-      "rootHint": "lus",
-      "word": "elucidate"
-    },
-    {
-      "collocations": [
-        "to illustrate how easily people abandon their goals：去解释人们多么轻"
-      ],
-      "definition": "加插图于，给（书等）做图表；（用示例、图画等）说明，解释；表明……真实；显示……存在",
-      "examples": [],
-      "frequency": 2368,
-      "mnemonic": "il-（=in：进入）+ -lustr-（=light：光）+ -ate（使动词后缀）→使光\n进入（特指精神上的）→加插图于（把书进一步用图画的形式讲明",
-      "phonetic": "ˈɪ.lə.stɹeɪt",
-      "pos": "vt.",
-      "rootHint": "lus",
-      "word": "illustrate"
-    },
-    {
-      "collocations": [],
-      "definition": "有插画的（报章杂志）",
-      "examples": [],
-      "frequency": 16057,
-      "phonetic": "ˈɪ.lə.stɹeɪ.tɪd",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "illustrated"
-    },
-    {
-      "collocations": [
-        "the world of children’s book illustration：儿童书籍插图的世界",
-        "exaggerated illustrations：夸大的解释\n（ 写 作， 阅 读） 重 点：“ 阐 述， 说 明” 的 表 达 方 式：explain/state/\nillustrate/elaborate",
-        "I would like to explain/state/illustrate/elaborate my point by citing my",
-        "personal experience.\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "（书的）插图，图解；例证",
-      "examples": [
-        "我想用我的亲身经历来说明我的观点。"
-      ],
-      "frequency": 5162,
-      "phonetic": "ˌɪ.ləˈstɹeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "lus",
-      "word": "illustration"
-    },
-    {
-      "collocations": [
-        "an illustrative example：示例"
-      ],
-      "definition": "说明的；解释性的",
-      "examples": [],
-      "frequency": 17593,
-      "mnemonic": "illustrate（说明；解释）+ -ive（形容词后缀）→说明的；解释性的",
-      "phonetic": "ɪˈlʌs.tɹə.tɪv",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "illustrative"
-    },
-    {
-      "collocations": [],
-      "definition": "（书等的）插图画家",
-      "examples": [],
-      "frequency": 12518,
-      "mnemonic": "illustrat（=illustrate：加插图于）+ -or（名词后缀，表示人）→（书",
-      "phonetic": "ˈɪ.lə.stɹeɪ.tɚ",
-      "pos": "n.",
-      "rootHint": "lus",
-      "word": "illustrator"
-    },
-    {
-      "collocations": [
-        "a long and illustrious career：长期卓越的事业"
-      ],
-      "definition": "著名的；杰出的；卓越的",
-      "examples": [],
-      "frequency": 17211,
-      "mnemonic": "il-（向内）+ -lustr-（光；照）+ -i- + -ous（形容词后缀）→形容人因\n为有卓越的才华而发光的→著名的；杰出的；卓越的",
-      "phonetic": "ɪˈlʌs.tɹi.əs",
-      "pos": "adj.",
-      "rootHint": "lus",
-      "word": "illustrious"
-    }
-  ]
+    "chapter": "14",
+    "chapterOrder": 114,
+    "id": "lus",
+    "meaningZh": "光。",
+    "roots": [
+        "lus",
+        "lust"
+    ],
+    "semanticLabel": "光。",
+    "source": "textbook-6",
+    "titleZh": "光。",
+    "words": [
+        {
+            "collocations": [
+                "lose luster：失去荣光"
+            ],
+            "definition": "光泽；光彩；（事物自身的）情趣；荣光",
+            "examples": [
+                "These pearls had a fine luster.\n这些珍珠有一种细柔的光泽。"
+            ],
+            "frequency": 16078,
+            "mnemonic": "lustre：光彩；发光→luster：光泽；光彩；荣光",
+            "phonetic": "ˈlʌs.tɚ",
+            "pos": "n.",
+            "rootHint": "lus",
+            "word": "luster"
+        },
+        {
+            "collocations": [
+                "a lackluster performance：枯燥乏味的表演",
+                "lackluster hair：无光泽的头发"
+            ],
+            "definition": "无精打采的",
+            "examples": [],
+            "frequency": 17551,
+            "mnemonic": "lack（缺少）+ luster（光泽；情趣）→失去光泽，对事物失去情趣的\n→无精打采的",
+            "phonetic": "ˈlæk.lʌs.tɚ",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "lackluster"
+        },
+        {
+            "collocations": [
+                "translucent plastic：半透明的塑料"
+            ],
+            "definition": "半透明的",
+            "examples": [],
+            "frequency": 10326,
+            "mnemonic": "trans-（穿过）+ -luc-（光）+ -ent（形容词后缀）→光线穿过物体之\n后的→半透明的",
+            "phonetic": "trænzˈlusənt",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "translucent"
+        },
+        {
+            "collocations": [
+                "a lucid account of the history of mankind：对人类历史清晰简明的介绍"
+            ],
+            "definition": "清晰简明的；（生病或头脑不清后）神志清醒的",
+            "examples": [],
+            "frequency": 15766,
+            "mnemonic": "luc-（光）+ -id（形容词后缀）→发光照射的→引申词义清晰简明",
+            "phonetic": "ˈlu.sɪd",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "lucid"
+        },
+        {
+            "collocations": [
+                "elucidate a point of grammar：解释了一个语法要点"
+            ],
+            "definition": "&vi. 解释；说明；阐明",
+            "examples": [],
+            "frequency": 17031,
+            "mnemonic": "e-（=out：向外）+ lucid（清晰的）+ -ate（动词后缀）→向别人清晰\n地陈述→解释；说明；阐明",
+            "phonetic": "ɪˈlu.sə.deɪt",
+            "pos": "vt.",
+            "rootHint": "lus",
+            "word": "elucidate"
+        },
+        {
+            "collocations": [
+                "to illustrate how easily people abandon their goals：去解释人们多么轻"
+            ],
+            "definition": "加插图于，给（书等）做图表；（用示例、图画等）说明，解释；表明……真实；显示……存在",
+            "examples": [],
+            "frequency": 2368,
+            "mnemonic": "il-（=in：进入）+ -lustr-（=light：光）+ -ate（使动词后缀）→使光\n进入（特指精神上的）→加插图于（把书进一步用图画的形式讲明",
+            "phonetic": "ˈɪ.lə.streɪt",
+            "pos": "vt.",
+            "rootHint": "lus",
+            "word": "illustrate"
+        },
+        {
+            "collocations": [],
+            "definition": "有插画的（报章杂志）",
+            "examples": [],
+            "frequency": 16057,
+            "phonetic": "ˈɪ.lə.streɪ.tɪd",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "illustrated"
+        },
+        {
+            "collocations": [
+                "the world of children’s book illustration：儿童书籍插图的世界",
+                "exaggerated illustrations：夸大的解释\n（ 写 作， 阅 读） 重 点：“ 阐 述， 说 明” 的 表 达 方 式：explain/state/\nillustrate/elaborate",
+                "I would like to explain/state/illustrate/elaborate my point by citing my",
+                "personal experience.\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "（书的）插图，图解；例证",
+            "examples": [
+                "我想用我的亲身经历来说明我的观点。"
+            ],
+            "frequency": 5162,
+            "phonetic": "ˌɪ.ləˈstreɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "lus",
+            "word": "illustration"
+        },
+        {
+            "collocations": [
+                "an illustrative example：示例"
+            ],
+            "definition": "说明的；解释性的",
+            "examples": [],
+            "frequency": 17593,
+            "mnemonic": "illustrate（说明；解释）+ -ive（形容词后缀）→说明的；解释性的",
+            "phonetic": "ɪˈlʌs.trə.tɪv",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "illustrative"
+        },
+        {
+            "collocations": [],
+            "definition": "（书等的）插图画家",
+            "examples": [],
+            "frequency": 12518,
+            "mnemonic": "illustrat（=illustrate：加插图于）+ -or（名词后缀，表示人）→（书",
+            "phonetic": "ˈɪ.lə.streɪ.tɚ",
+            "pos": "n.",
+            "rootHint": "lus",
+            "word": "illustrator"
+        },
+        {
+            "collocations": [
+                "a long and illustrious career：长期卓越的事业"
+            ],
+            "definition": "著名的；杰出的；卓越的",
+            "examples": [],
+            "frequency": 17211,
+            "mnemonic": "il-（向内）+ -lustr-（光；照）+ -i- + -ous（形容词后缀）→形容人因\n为有卓越的才华而发光的→著名的；杰出的；卓越的",
+            "phonetic": "ɪˈlʌs.tri.əs",
+            "pos": "adj.",
+            "rootHint": "lus",
+            "word": "illustrious"
+        }
+    ]
 }

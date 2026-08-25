@@ -1,1281 +1,1281 @@
 {
-  "id": "dict",
-  "source": "textbook-3",
-  "chapter": "4",
-  "chapterOrder": 104,
-  "titleZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
-  "semanticLabel": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
-  "meaningEn": null,
-  "meaningZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示说",
-  "roots": [
-    "dict"
-  ],
-  "words": [
-    {
-      "word": "predict",
-      "phonetic": "pɹɪˈdɪkt",
-      "pos": "vt.",
-      "definition": "预言；预知；预报",
-      "frequency": 1622,
-      "mnemonic": "pre- ( 提前)+dict(=say: 说) →提前说 →预言；预测\npre- ( 在前，早于，预先)+-dict ( 说)→预先说出来→预言",
-      "collocations": [
-        "trend predict: 趋势预知"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predicted",
-      "phonetic": "pɹɪˈdɪk.tɪd",
-      "pos": "adj.",
-      "definition": "预言的；预测的 vt. 预言；预测",
-      "frequency": 12690,
-      "mnemonic": "predict ( 预言，预测)+-ed ( 形容词后缀，分词后缀)→预言的； 预测的",
-      "collocations": [
-        "predicated period: 预测周期"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "prediction",
-      "phonetic": "pɹɪˈdɪk.ʃən",
-      "pos": "n.",
-      "definition": "预言；预测；预报",
-      "frequency": 3641,
-      "mnemonic": "predict ( 预言，预测)+-ion ( 名词后缀) →预言；预测",
-      "collocations": [
-        "earthquake prediction: 地震预报",
-        "weather prediction: 天气预报"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predictive",
-      "phonetic": "pɹɪˈdɪk.tɪv",
-      "pos": "adj.",
-      "definition": "( 测验、科学或理论)预言性的；前瞻的；预测 性的",
-      "frequency": 10637,
-      "mnemonic": "predict ( 预言，预测)+-ive ( 形容词后缀) →预言的；预测性的",
-      "collocations": [
-        "the predictive power of science: 科学的预测能力"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predictor",
-      "phonetic": "pɹɪˈdɪk.tɚ",
-      "pos": "n.",
-      "definition": "预言者；预报器；预示物",
-      "frequency": 6108,
-      "mnemonic": "predict ( 预言，预测)+-or ( 名词后缀，表示人)→预言者；预报器",
-      "collocations": [
-        "predictor of consumer confidence: 消费者信心的预言者"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predictability",
-      "phonetic": "pɹɪˌdɪk.təˈbɪ.lə.ti",
-      "pos": "n.",
-      "definition": "可预测性；可预见性",
-      "frequency": 16088,
-      "mnemonic": "predict (预言，预测)+-ability (名词后缀，表示有……能力的)→ 可预测性",
-      "collocations": [
-        "a model of predictability: 在可预测性上堪称模范"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predictable",
-      "phonetic": "pɹɪˈdɪk.tə.bəl",
-      "pos": "adj.",
-      "definition": "可预见的；可预料的；意料之中的",
-      "frequency": 5818,
-      "mnemonic": "predict( 预言，预测)+-able ( 形容词后缀，有……能力的)→可预言的",
-      "collocations": [
-        "a predictable result: 可预见的结果"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predictably",
-      "phonetic": "pɹɪˈdɪk.tə.bli",
-      "pos": "adv.",
-      "definition": "可预见地；可预言地",
-      "frequency": 11976,
-      "mnemonic": "predictabl(=predictable: 可预见的，可预料的)+-1y ( 副词后缀) → 可 预见地；可预言地",
-      "collocations": [
-        "the predictably unfavorable outcome: 不好的结果是可预见的"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "unpredictable",
-      "phonetic": "ˌʌnpɹɪˈdɪktəbəl",
-      "pos": "adj.",
-      "definition": "无法预言的；难以预测的；(人)善变 的；难以捉摸的",
-      "frequency": 6757,
-      "mnemonic": "un- ( 表否定)+predict ( 预测)+-able ( 形容词后缀，能够…的) → 不可预测的",
-      "collocations": [],
-      "examples": [
-        "When it comes to future,some people hold that it is rather unpredictable and thus feel uncertain about it;others insist that it is promising and hopeful."
-      ],
-      "rootHint": "dict"
-    },
-    {
-      "word": "unpredictability",
-      "phonetic": "ˌʌnpɹɪˌdɪktəˈbɪləti",
-      "pos": "n.",
-      "definition": "不可预见性；难以预测性",
-      "frequency": 18560,
-      "mnemonic": "un- ( 表否定)+predict ( 预测)+-ability ( 抽象名词后缀，表有…… 能力)→不可预见性；不可预知性；不可预测性",
-      "collocations": [
-        "environment unpredictability: 环境不可预测性"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "addict",
-      "phonetic": "ə.ˈdɪkt",
-      "pos": "v.",
-      "definition": "使……成瘾；着迷；沉溺 n. ( 吸毒)上瘾者；对 … … 入迷 的人",
-      "frequency": 6179,
-      "mnemonic": "ad- ( 加强语气，表过度)+-dict(=speak, 说)→不停地说→上瘾， 沉迷；有瘾的人",
-      "collocations": [
-        "a heroin/drug/nicotine addict: 吸食海洛因/毒品/尼古丁成瘾的人 a video game addict: 游戏机迷",
-        "work addict: 工作狂"
-      ],
-      "etymology": "古代奴隶的主要来源是战俘。在古希腊和古罗马时期，西方人就将战 争中俘虏的战俘作为奴隶分配给战士或卖给其他人。在拉丁语中，这 种成为奴隶的战俘被称为addictus, 是addicere 的过去分词。addicere 由ad(to) +dicere ( dict, 宣告)构成，意思就是“待发落的、待分 配的”。英语单词addict就来自拉丁语addictus, 意思就是“等待发落 的”。它原本是一个形容词，后来变成了名词，表示“任人发落的奴 隶”,后来用来形容任何像奴隶那样缺乏自主性、依赖他人或他物的 人。现在该词主要用来表示那些对某种事物或行为上瘾，产生依赖性 的人，而“奴隶”之意转移到单词slave上。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "addiction",
-      "phonetic": "ə.ˈdɪk.ʃən",
-      "pos": "n.",
-      "definition": "成瘾；入迷；嗜好",
-      "frequency": 5261,
-      "mnemonic": "addict ( 使上瘾)+-ion ( 名词后缀) →上瘾；沉溺",
-      "collocations": [
-        "addict to sth.: 沉溺于……"
-      ],
-      "examples": [
-        "Many people are addicted to/indulged in the virtual world and thus lose direct contact with people in the real world.\n很多人沉溺于虚拟的世界中，而失去了人与人之间在真实世界中的 联系。"
-      ],
-      "rootHint": "dict"
-    },
-    {
-      "word": "addictive",
-      "phonetic": "ə.ˈdɪk.tɪv",
-      "pos": "adj.",
-      "definition": "使人上瘾的；使人着迷的",
-      "frequency": 10546,
-      "mnemonic": "addict( 使…… · 瘾)+-ive ( 形容词后缀)→使人上瘾的；使人入迷的",
-      "collocations": [
-        "addictive behavior: 成瘾行为"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "abdicate",
-      "phonetic": "ˈæb.də.keɪt",
-      "pos": "vt.",
-      "definition": "推卸(职责) vi.&n. 退位；弃绝",
-      "frequency": 20057,
-      "collocations": [
-        "participle of abdicare “to disown,disavow,reject”(specifically abdicare\n20000词汇巅峰速记班",
-        "magistratu \"renounce office”),literally“proclaim as not belonging to one. 助记：ab-(=off,away from, 离开)+ dic-(=dicare,proclaim, 宣布)\n+-ate ( 动词后缀) → 宣布离开(有权势、势力的)位置 → 退位； 辞职",
-        "abdicate responsibility: 放弃责任"
-      ],
-      "etymology": "1540s,\"to disown,disinherit(children),”\"from Latin abdicatus,past",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "condition",
-      "phonetic": "kənˈdɪʃən",
-      "pos": "n.",
-      "definition": "( 尤指健康)状况；(某事完成或发生的)条件； (生活或工作的)环境；(尤指写进合同或法律中的某事发生的)条 件；疾病；问题；长期影响vt.习惯于(以某种方式做事或思考)630",
-      "mnemonic": "con- ( 强调)+-dit(=speak ,说 ) + -ion ( 名词后缀) →描述的、规定 的情况→后指客观情况",
-      "collocations": [
-        "a used car in perfect condition: 车况完好的旧车",
-        "on condition that: 在……发生的条件下",
-        "health condition: 健康状况"
-      ],
-      "etymology": "来源于拉丁语dicere(说，讲)的复合动词condicere (一起谈话), 其词义是逐步沿着这样的轨迹变化而来的：一起谈话→ 同意→条文→ 状况，方式",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "conditional",
-      "phonetic": "kənˈdɪʃənəl",
-      "pos": "adj.",
-      "definition": "附带条件的；依……而定的",
-      "frequency": 14484,
-      "mnemonic": "condition(条件)+-al ( 形容词后缀) →有条件的",
-      "collocations": [
-        "conditional approval/acceptance: 有条件的批准/接受 a conditional offer: 有条件的邀约",
-        "conditional on/upon sth: 依…条件而定"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "conditioner",
-      "phonetic": "kənˈdɪʃənɚ",
-      "pos": "n.",
-      "definition": "护发素；衣物柔顺剂；调节器；空调器",
-      "frequency": 8949,
-      "mnemonic": "condition ( 情况)+-er ( 名词后缀) → 即帮助(头发，衣物，空调)\n达到一个好的状况的物品→后指护发素；衣物柔顺剂；空调器 搭配：hair conditioner: 护发素",
-      "collocations": [
-        "air conditioner: 空调设备"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "conditioning",
-      "phonetic": "kənˈdɪʃənɪŋ",
-      "pos": "n.",
-      "definition": "调节；整修；条件作用",
-      "frequency": 6399,
-      "mnemonic": "condition (情况)+-ing ( 名词后缀)→通过训练，熏陶使达到一个好 的状况→调节；长期影响",
-      "collocations": [
-        "social conditioning: 社会的长期影响",
-        "signal conditioning信号调节"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "unconditional",
-      "phonetic": "ˌʌnkənˈdɪʃənəl",
-      "pos": "adj.",
-      "definition": "无条件的；无限制的；绝对的",
-      "frequency": 11864,
-      "mnemonic": "un- ( 否 定 ) +condition ( 条件)+ -al ( 形容词后缀) →无条件的",
-      "collocations": [
-        "unconditional surrender: 无条件投降",
-        "unconditional love: 无条件的爱"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "unconditionally",
-      "phonetic": "ˌʌnkənˈdɪʃənəli",
-      "pos": "adv.",
-      "definition": "无条件地；无保留地",
-      "frequency": 19670,
-      "mnemonic": "unconditional(无条件的)+-ly ( 副词后缀)→无条件地",
-      "collocations": [
-        "promise unconditionally: 无条件地允诺"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "air-conditioned",
-      "phonetic": "ˈɛɹ.kən.dɪ.ʃənd",
-      "pos": "adj.",
-      "definition": "备有空调装置的 vi. 给……装上空调器； 用空调器调节",
-      "frequency": 15901,
-      "mnemonic": "air ( 空 气 ) +conditioned ( 调节的) → 空气调节的 →用空调器调节； 备有空调装置的",
-      "collocations": [
-        "air-conditioned bus: 冷气巴士",
-        "air-conditioned container: 空调集装箱"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "air-conditioning",
-      "phonetic": "ˈɛɹ.kən.dɪ.ʃə.nɪŋ",
-      "pos": "n.",
-      "definition": "空调系统；空气调节",
-      "frequency": 18561,
-      "mnemonic": "air ( 空气)+conditioning ( 调节) →空气调节 →空调系统",
-      "collocations": [
-        "all fresh air-conditioning system: 全新风空调系统",
-        "air-conditioning unit: 空调机组；空调装置"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "contradict",
-      "phonetic": "ˌkɑntɹəˈdɪkt",
-      "pos": "vt.",
-      "definition": "反驳；否定；与……矛盾；与……抵触",
-      "frequency": 6974,
-      "mnemonic": "contra-(=counter: 相 反 ) +dict ( 说) → 反着说 → 反对、反驳；",
-      "collocations": [
-        "contradict the established beliefs: 与已有的信仰相抵触"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "contradiction",
-      "phonetic": "ˌkɑntɹəˈdɪkʃən",
-      "pos": "n.",
-      "definition": "矛盾；反驳；否认",
-      "frequency": 5519,
-      "mnemonic": "contradict (与……有矛盾，反驳)+-ion ( 名词后缀) →矛盾；反 驳；否认",
-      "collocations": [
-        "in contradiction to: 同……相矛盾"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "contradictory",
-      "phonetic": "ˌkɑntɹəˈdɪktəɹi",
-      "pos": "adj.",
-      "definition": "矛盾的；反驳的；反对的；抗辩的",
-      "frequency": 7561,
-      "mnemonic": "contradict (与……有矛盾，反驳)+-ory (形容词后缀) → (事实、",
-      "collocations": [],
-      "examples": [
-        "\"The traits that characterise him are very contradictory to the racial stereotypes that black people are aggressive and uneducated,\"says Ashby Plant of Florida State University.\n他所独具的特点与人为黑人既好斗又无知的种族偏见恰恰相反，佛罗 里达州立大学的Ashby Plant说。"
-      ],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dictate",
-      "phonetic": "ˈdɪk.teɪt",
-      "pos": "vt.",
-      "definition": "&vi. 口述；使听写；命令；导致，影响；(逻辑或常识)使人相信 n. 命令；指示；原则；规定",
-      "frequency": 4989,
-      "mnemonic": "dict-(=speak ,说)+ -ate ( 动词后缀)→ 口述；命令；导致；规定",
-      "collocations": [
-        "dictate to: 指示，规定",
-        "dictate the schedule: 决定进度(日程表)"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dictator",
-      "phonetic": "ˈdɪk.teɪ.tɚ",
-      "pos": "n.",
-      "definition": "独裁者；发号施令者；专横的人",
-      "frequency": 6844,
-      "mnemonic": "dictat(=dictate: 下命令)+-or ( 名词后缀，表示人) → 独裁者",
-      "collocations": [
-        "foreign dictators: 外国独裁者们"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dictatorial",
-      "phonetic": "ˌdɪk.tə.ˈtɔɹ.i.əl",
-      "pos": "adj.",
-      "definition": "独裁的；专政的；发号施令的；专横傲慢的",
-      "frequency": 19257,
-      "mnemonic": "dictator(独裁者)+-ial ( 形容词后缀)→独裁的；专政的；专横的",
-      "collocations": [
-        "a dictatorial ruler: 独裁统治者",
-        "dictatorial behaviour: 专横的行为"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dictatorship",
-      "phonetic": "ˈdɪk.teɪ.tɚ.ʃɪp",
-      "pos": "n.",
-      "definition": "n. 独裁；专政；独裁国家",
-      "frequency": 7780,
-      "collocations": [
-        "(N-VAR)独裁政府；独裁统治；专政",
-        "Dictatorship is government by a dictator.",
-        "(N-COUNT) 独裁国家",
-        "A dictatorship is a country which is ruled by a dictator or by a very strict and harsh government."
-      ],
-      "examples": [],
-      "rootHint": "dict",
-      "mnemonic": "dictator (独裁者)+-ship ( 名词后缀，表状态) →独裁；专政"
-    },
-    {
-      "word": "dictionary",
-      "phonetic": "ˈdɪk.ʃə.nɛ.ɹi",
-      "pos": "n.",
-      "definition": "词典；专业词典；电子词典",
-      "frequency": 8658,
-      "mnemonic": "dict- (说，讲)+-ion ( 名词后缀)+-ary ( 名词后缀) →字典；词典",
-      "collocations": [
-        "a Spanish-English dictionary: 西班牙语—英语词典"
-      ],
-      "etymology": "它来自拉丁语动语dico, 意思是“说”、“讲”。同出于dico 之源的 还有不少英语词，如，ditto, 意思“同上”、“同前”,即和上面 所“说”的一样；contradiction ( 矛 盾 ) ,contra 是“相反”、“反 对”的意思，全词的意思是“说话自相矛盾”; verdict ( 陪审团的 裁决),vere是“真实地”,全词即“正确地评说”,dictator ( 独裁 者),意即“我一个人说了算”。都和“说”有关。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dictum",
-      "phonetic": "ˈdɪk.təm",
-      "pos": "n.",
-      "definition": "格言；正式声明；法官的附带意见",
-      "frequency": 17983,
-      "mnemonic": "dict-(=speak, 说，讲)+-um ( 名词后缀)→宣言；声明；名言\ndidact(=teach; 教导)+-ic ( 形容词后缀) →教诲的；好教训人的",
-      "collocations": [
-        "judicial dictum: 法官对判决的意见",
-        "释义：( N-COUNT)名言；格言；箴言",
-        "A dictum is a saying that describes an aspect of life in an interesting or wise way.",
-        "(N-COUNT)宣言；正式声明",
-        "A dictum is a formal statement made by someone who has authority. didactic [dr'dæktrk;dar-] adj. 教诲的；道德说教的；好教训人的17675",
-        "didactic art: 道德说教艺术",
-        "Something that is didactic is intended to teach people something, especially a moral lesson.\n(ADJ-GRADED)好灌输的；好说教的",
-        "Someone who is didactic tells people things rather than letting them find things out or discussing things."
-      ],
-      "etymology": "来自希腊语didaktos, 教导，教学艺术。后词义贬义化。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dedicate",
-      "phonetic": "ˈdɛ.də.keɪt",
-      "pos": "vt.",
-      "definition": "投身；致力于；把作品献给……3837",
-      "mnemonic": "de-(=down : 下去)+dic-(说)+-ate ( 动词后缀) →说要下去(下 基层) → (做)贡献；致力于",
-      "collocations": [
-        "dedicate A to B: 把A 贡献给B",
-        "A dedicate to B:A有助于/用于B"
-      ],
-      "examples": [
-        "1)Faculty members who dedicated themselves to teaching soon discover that they will not be granted tenure ( 终身任期，promotion,or substantial salary increases.\n把自己贡献给教育事业的教员们很快发现他们不会被授予终身任期， 不会被提升，也不会大幅涨薪。\n2)Her blog,she says,is dedicated to sensible parenting.“At Free Range Kids,we believein safe kids.\n她说，她的博客用于宣传理性地培养孩子。"
-      ],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dedicated",
-      "phonetic": "ˈdɛ.də.keɪ.tɪd",
-      "pos": "adj.",
-      "definition": "投入的；献身的：一心一意的；专用的",
-      "frequency": 6777,
-      "mnemonic": "dedicate(投身，献身)+-d ( 形容词后缀-ed去e变为-d)→ 献身的：",
-      "collocations": [
-        "dedicated line: 专 线",
-        "dedicated to..: 献身于……"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "dedication",
-      "phonetic": "ˌdɛ.dəˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "献身；奉献；(建筑物等的)落成典礼； (书、音乐或作品前部的)献词",
-      "frequency": 7104,
-      "mnemonic": "dedicat(=dedicate: 投身，献身)+-ion(名词后缀) →奉献；落成典 礼；献词",
-      "collocations": [
-        "hard work and dedication: 勤奋和奉献",
-        "professional dedication: 敬业精神"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "devote",
-      "phonetic": "dɪ.ˈvoʊt",
-      "pos": "vt.",
-      "definition": "贡献，奉献；致力于",
-      "frequency": 3253,
-      "mnemonic": "de-(=down,away: 下 去 ) +vot(=vow,voice: 发誓，渴望)+e→\n发誓、渴望要继续做下去，完全献出自己→贡献；奉献",
-      "collocations": [],
-      "etymology": "1580s,\"appropriate by or as if by vow,\"from Latin devotus,past participle of devovere \"dedicate by a vow,sacrifice oneself,promise solemnly,\"from de “down,away”(see de-)+vovere “to vow”(see vow(n.)).From c.1600 as“apply zealously or exclusively.\"From 1640s as \"to doom,consign to some harm or evil,\"and the word commonly had a negative sense in 18c: The second and third meanings in Johnson's Dictionary(1755)are “to addict, to give up to ill\"and “to curse,to execrate;to doom to destruction.\" Related:Devoted;devoting.",
-      "examples": [
-        "An increasing number of people are joining non-governmental organizations(NGO)to devote/dedicate their time and money to charitable\ncauses.\n越来越多的人加入到非政府组织中去，把他们的时间和金钱贡献给慈 善事业。"
-      ],
-      "rootHint": "dict"
-    },
-    {
-      "word": "devoted",
-      "phonetic": "dɪ.ˈvoʊ.tɪd",
-      "pos": "adj.",
-      "definition": "把……奉献给；作……专用",
-      "frequency": 5196,
-      "mnemonic": "devote ( 献身，致力于)+-d ( 形容词后缀-ed去e 变为-d)→ 把…… 奉献给",
-      "collocations": [
-        "devoted faculty: 有奉献精神的员工",
-        "区别：“delicate: 精美的；易碎的；微妙的”和“dedicate: 贡献”",
-        "Someone who is devoted to a person loves that person very much.\n(ADJ-GRADED)爱好的；热衷的；致力(于……)的",
-        "If you are devoted to something,you care about it a lot and are very enthusiastic about it.\n20000词汇巅峰速记班\n(ADJ) 专用于……的",
-        "Something that is devoted to a particular thing deals only with that thing or contains only that thing."
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "devotee",
-      "phonetic": "ˌdɛ.və.ˈti",
-      "pos": "n.",
-      "definition": "热衷者；(狂热的)崇拜者，爱好者；虔诚的信徒",
-      "frequency": 12410,
-      "mnemonic": "devot(=devote: 奉献)+-ee ( 名词后缀，表人) →把自己奉献给某项 兴趣、信仰、技能、偶像等的人→热衷者；爱好者",
-      "collocations": [
-        "a devotee of the opera: 歌剧的爱好者"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "devotion",
-      "phonetic": "dɪ.ˈvoʊ.ʃən",
-      "pos": "n.",
-      "definition": "热爱；关爱；忠诚；奉献",
-      "frequency": 6567,
-      "mnemonic": "de-(=down,away : 下去)+ -vot-(=vow,voice: 发誓，渴望)+\n-ion ( 名词后缀)→对……发誓效忠，渴望到底→ (深沉的)热爱； 挚爱；忠诚；奉献",
-      "collocations": [
-        "devotion to the duty: 对职责的忠诚",
-        "be flattered by his devotion: 对他的挚爱感到受宠若惊"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "devotional",
-      "phonetic": "dɪ.ˈvoʊ.ʃə.nəl",
-      "pos": "adj.",
-      "definition": "虔诚的，祷告的；与宗教仪式有关的",
-      "frequency": 17795,
-      "mnemonic": "devotion (热爱，挚爱，忠诚)+-al ( 形容词后缀) → 虔诚的；",
-      "collocations": [
-        "...devotional pictures: 宗教图画"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "delicate",
-      "phonetic": "ˈdɛ.lɪ.kət",
-      "pos": "adj.",
-      "definition": "精巧的，精美的；柔和的(颜色),清淡可口的(味 道);易碎的，脆弱的；病弱的；微妙的；棘手的",
-      "frequency": 3824,
-      "mnemonic": "\"pleasure,delight, luxury,\")→ 从浓郁的快乐、喜悦、 繁华中分离 开来，变为清淡的、柔和的、雅致的物品、品味、审美→精美的；柔 和的；清淡可口的；易碎的；脆弱的；微妙的；棘手的",
-      "collocations": [
-        "a delicate,subtle flavour: 味道清淡可口",
-        "delicate balance: 微妙的平衡\n… the delicately embroidered sheets: 那些刺绣繁复的床单 同义：subtle [’sʌtl] adj. 微妙的、纤细的",
-        "subtle shifts: 微妙的变化"
-      ],
-      "etymology": "来源于拉丁语中由前缀de- ( 离开，分离)和动词lacere ( 引诱， 欺骗)组成的复合动词delicere ( 引诱开)派生的delicatus ( 沉 溺 于快乐)。词根词缀： de- ( 离开，分离)+ licate-(=deliciae,",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "delicacy",
-      "phonetic": "ˈdɛ.lɪ.kə.si",
-      "pos": "n.",
-      "definition": "娇弱；精致；微妙；棘手；考虑周到；体谅； 美味佳 肴",
-      "frequency": 11514,
-      "mnemonic": "delica(=delicate: 精致，娇弱，微妙)+-cy ( 名词后缀)→精致的； 娇弱的；微妙的",
-      "collocations": [
-        "the delicacy of a rose: 玫瑰花的娇嫩",
-        "rare delicacy: 难得的体谅周到",
-        "a matter of delicacy: 一件棘手的事"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "delicately",
-      "phonetic": "ˈdɛ.lɪ.kət.li",
-      "pos": "adv.",
-      "definition": "精致地；微妙地；优美地",
-      "frequency": 10831,
-      "mnemonic": "delicate(精致，微妙)+-ly(副词后缀)→精致地；微妙地\n来源于拉丁语中由前缀de- ( 离开，分离)和动词lacere ( 引诱，欺 骗)组成的复合动词delicere( 引诱开)派生的delicia ( 使高兴),经 后期拉丁语deliciosus和古法语delicious派生为英语delicious。词根词 缀：de- ( 离开，分离)+ lic- ( 引诱，欺骗)+-i-+-ous ( 形容词后 缀)→蛇在伊甸园里诱惑夏娃吃美味的苹果，使其离开神所划定的规\n则，堕落犯罪→美味可口的\nde- (向下，表强调)+-lic ( 抓住；诱惑)+-ious(形容词后缀)→引申 义为抓住胃的；美味的；可口的",
-      "collocations": [
-        "delicately hand-crafted: 精致地手工作品",
-        "delicately fine-tuned for life: 非常微妙地适合于生命 delicious [dr['lrfəs] adj.美味的；可口的5042",
-        "delicious food: 美味食品"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "deliciously",
-      "phonetic": "dɪ.ˈlɪ.ʃəs.li",
-      "pos": "adv.",
-      "definition": "美味地，芬香地",
-      "frequency": 19524,
-      "mnemonic": "delicious (美味可口的)+-ly ( 副词后缀) →美味地；可口地",
-      "collocations": [
-        "deliciously scented: 香喷喷地",
-        "season deliciously: 味道调得很可口"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "digit",
-      "phonetic": "ˈdɪ.dʒɪt",
-      "pos": "n.",
-      "definition": "(0 到9的任一)数字；手指或足趾",
-      "frequency": 8680,
-      "collocations": [],
-      "etymology": "单词digit 源于拉丁语中表示“手指、脚趾”的单词digitus, 所以digit 的原意也是“手指、脚趾”的意思。因为几乎所有人都有用手指头 来数数的习惯，所以digit又用来表示“从0到9中的任何一个数字”, 也就是说是个位数，而单词number ( 数)则可以表示多位数。20世 纪中期，科学家们开始研发计算机。与以往使用连续模拟量的设备 不同，计算机中使用一系列离散的数字( digit) 进行运算。科学家们 将这种技术称为digital ( 数字化)技术。因此，随着计算机的广泛应 用，单词digit 和digital也得到了越来越频繁的使用。植物“洋地黄” 在英语中是digitalis。因为这种植物的花长得像手指，故此得名。 搭配：two digit: 二位的",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "digital",
-      "phonetic": "ˈdɪ.dʒɪ.təl",
-      "pos": "adj.",
-      "definition": "数码的；数字的；手指的",
-      "frequency": 2377,
-      "mnemonic": "digit (数字)+-al ( 形容词后缀) →数码的；数字的",
-      "collocations": [
-        "the digital divide: 数字鸿沟",
-        "a digital camera: 数码照相机",
-        "a digital clock/watch: 数字钟/表",
-        "digital image: 数字图象"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "digitally",
-      "phonetic": "ˈdɪ.dʒɪ.tə.li",
-      "pos": "adv.",
-      "definition": "数字化",
-      "frequency": 16722,
-      "mnemonic": "digital (数码的，数字的)+-ly ( 副词后缀) → 数字化",
-      "collocations": [
-        "digitally enabled world: 数字化世界"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "digitize",
-      "phonetic": "ˈdɪ.dʒɪ.taɪz",
-      "pos": "vt.",
-      "definition": "vt. 使……数字化",
-      "frequency": 18467,
-      "collocations": [
-        "a digitized map: 一张数字化地图"
-      ],
-      "examples": [],
-      "rootHint": "dict",
-      "mnemonic": "digit (数字)+ -ize ( 动词后缀) → 数字化"
-    },
-    {
-      "word": "disc",
-      "phonetic": "dɪsk",
-      "pos": "n.",
-      "definition": "圆盘，唱片(等于disk)vt. 灌唱片",
-      "frequency": 4832,
-      "mnemonic": "1660s,\"\"round,approximately flat surface,\"from Latin discus“quoit, discus,disk,\"from Greek diskos \"disk,quoit,platter,\"related to dikein “to throw”.The American English preferred spelling;also see disc.From 1803 as \"thin,circular plate;\"sense of“phonograph disk”is by 1888;computing sense is from 1947.Disk jockey first recorded 1941;dee-jay is from 1955;",
-      "collocations": [
-        "DJis by 1961;video version veejay is from 1982.Disk-drive is from 1952. 搭配：compact disc: 光碟机"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "edict",
-      "phonetic": "ˈi.dɪkt",
-      "pos": "n.",
-      "definition": "命令；法令；敕令",
-      "frequency": 15857,
-      "mnemonic": "e- ( 向外)+-dict(=spea k: 说，命令) → 向外传达的命令 → 命令；法 令；敕令",
-      "collocations": [
-        "Papal edict: 教皇的勒令"
-      ],
-      "etymology": "late 15c.,edycte;earlier edit(late 13c.),“proclamation having the force of law,\"from OldFrench edit,from Latin edictum “proclamation,ordinance, edict,\"neuter past participle of edicere “publish,proclaim,\"from assimilated form of ex“out,out of”(see ex-)+dicere “to say”(from PIE root*deik-\"to show,\"also “pronouncesolemnly”).Related:Edictal.",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indicate",
-      "phonetic": "ˈɪn.də.keɪt",
-      "pos": "vt.",
-      "definition": "指出；表明；象征； 预示",
-      "frequency": 786,
-      "mnemonic": "in- ( 里 面 ) +dic-(=dict=doct: 说)+ -ate ( 动词后缀) → 在里面说， 不明说 → 暗示；表明；指出",
-      "collocations": [
-        "indicate sth to sb: 向某人提及某事"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indication",
-      "phonetic": "ˌɪn.dəˈkeɪ.ʃən",
-      "pos": "n.",
-      "definition": "表明；迹象；象征",
-      "frequency": 3401,
-      "mnemonic": "indicate(=indicate: 表明)+-ion ( 名词后缀) → 表明；迹象",
-      "collocations": [
-        "an indication of: 一个……的象征",
-        "give clear indication of: 注明",
-        "visual indication: 目 测"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indicator",
-      "phonetic": "ˈɪn.də.keɪ.tɚ",
-      "pos": "n.",
-      "definition": "指示器；压力计；[化]指示剂；[计]指示符",
-      "frequency": 3927,
-      "mnemonic": "indicat(=indicate: 表明)+-or ( 名词后缀)→指示器",
-      "collocations": [
-        "reliable indicator: 可靠指标",
-        "economic indicator: 经济指标",
-        "a depth indicator: 深度指示器"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indicative",
-      "phonetic": "ɪnˈdɪ.kə.tɪv",
-      "pos": "adj.",
-      "definition": "指示的；象征的；表示……的",
-      "frequency": 10097,
-      "mnemonic": "indicat(=indicate: 表明)+-ive ( 后缀) → 指示的；象征的",
-      "collocations": [
-        "indicative of: 表明，说明"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indict",
-      "phonetic": "ɪnˈdaɪt",
-      "pos": "vt.",
-      "definition": "控告，起诉；揭发",
-      "frequency": 6578,
-      "mnemonic": "in- ( 进入，使)+-dict(=speak , 说 ) → 控 告 ；起 诉",
-      "collocations": [
-        "indict sb for sth: 因某事控告某人",
-        "indict sb(on charges/on a charge of sth): 某人因……受到控诉"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "indictment",
-      "phonetic": "ɪnˈdaɪt.mənt",
-      "pos": "n.",
-      "definition": "控诉；控告；起诉书",
-      "frequency": 5702,
-      "mnemonic": "indict(控告，起诉)+-ment ( 名词后缀)→控诉；控告",
-      "collocations": [
-        "indict of/on sb/sth: (制度、社会等的)衰败迹象，腐败迹象"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "index",
-      "phonetic": "ˈɪn.dɛks",
-      "pos": "n.",
-      "definition": "指数；索引；指标 vt.&vi. 为……编索引；使与……挂钩",
-      "frequency": 2644,
-      "mnemonic": "index(=indic: 指示) → 指数；索引",
-      "collocations": [
-        "commodity price index: 商品价格指数",
-        "house price indexes: 房价指数",
-        "be indexed to: 使与……挂钩\n向 行judge [d3ʌdʒ] n.法官；裁判员；鉴定人vt.评判；判断；估计1119\n向 行",
-        "judging by,judging from: 根据……判断",
-        "presiding judge: 审判长；首席法官；法庭庭长",
-        "acting judge: 代理审判员"
-      ],
-      "etymology": "来自古法语jugier, 判断，审判，来自拉丁语iudicare, 判断，审判， 来自ius, 正义、公理、法律，同just,justice 。dicere, 说， 同dictate,diction 。 即依法进行判断，审理和裁决。引申词义法官， 审判员。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "judgment",
-      "phonetic": "ˈdʒʌdʒ.mənt",
-      "pos": "n.",
-      "definition": "看法；判断；裁判；辨别力",
-      "frequency": 1913,
-      "mnemonic": "judg(=judge: 审判，判断)+-ment ( 名词后缀) → 看法；判 断；裁判",
-      "collocations": [
-        "against better judgment: 明知不可取",
-        "pass judgment on: 对……做出评论",
-        "reserve judgment on: 对……保留看法"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "judgmental",
-      "phonetic": "dʒʌdʒˈmɛn.təl",
-      "pos": "adj.",
-      "definition": "妄下结论的；动辄批评人的；爱品头论足的 [含贬义]16765",
-      "mnemonic": "judgment (看法，判断)+-al ( 形容词后缀) → 审判的，判断的；评 头论足的",
-      "collocations": [
-        "judgmental methods: 判断法"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "judicial",
-      "phonetic": "dʒuˈdɪ.ʃəl",
-      "pos": "adj.",
-      "definition": "法庭的；公正的，明断的；审判上的",
-      "frequency": 3968,
-      "mnemonic": "来自拉丁语iudicare, 审判，判决，词源同judge 。即与审判相关的，\n引申词义司法的。judic- ( 法律，公正)+-ial ( 形容词后缀) → 法庭 的，公正的，明断的",
-      "collocations": [
-        ".….an independent judicial system: 一个独立的司法体系",
-        "…efforts to manipulate the judicial process: 操纵审判程序的努力 judicial review: 司法审查，复审"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "judiciary",
-      "phonetic": "dʒuˈdɪ.ʃi.ɛɹ.i",
-      "pos": "n.",
-      "definition": "( 统称)审判人员；司法部；司法制度adj. 司法 的；法官的；法院的",
-      "frequency": 10208,
-      "mnemonic": "judic -(法律，公正)+-i- ( 中 缀 ) + -ary ( 名词后缀，表示人、场 所、物.形容词后缀.表示属于……,与……有关) → 司法部；司法 系统；司法官",
-      "collocations": [
-        "the Judiciary: 司法部",
-        "judiciary reform: 司法改革",
-        "constitutional judiciary: 宪法审查体系",
-        "an independent judiciary: 独立的司法系统"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "judicious",
-      "phonetic": "dʒuˈdɪ.ʃəs",
-      "pos": "adj.",
-      "definition": "审慎而明智的；明断的；头脑精明的",
-      "frequency": 17625,
-      "mnemonic": "judic-(法律，公正)+-i-+-ous ( 形容词后缀)→判断公正明智的→ 审慎而明智的；明断的；头脑精明的",
-      "collocations": [
-        "ajudiciously worded letter: 一封措辞审慎的信",
-        "judicious advice: 明智的劝告"
-      ],
-      "etymology": "来自拉丁语iudicare, 审判，判决，判断，同judge。即有判断力 的，明智的，审慎的。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "jurisdiction",
-      "phonetic": "ˌdʒʊɹ.ɪsˈdɪk.ʃən",
-      "pos": "n.",
-      "definition": "司法权；管辖权；管辖范围",
-      "frequency": 4700,
-      "mnemonic": "juris(=ius,law,r ight)+dict( =diction,“a saying”)+-ion ( 名词\n后缀)→法官施行宣判权力的领域，司法权力涉及、管辖的范围→司 法管辖范围；司法权",
-      "collocations": [
-        "judicial authority,right of making and enforcing laws”is from early 15c. The form in English assimilated to Latin 16c.Related:Jurisdictional.",
-        "European jurisdictions: 欧洲司法辖区",
-        "territorial jurisdiction: 领土管辖权",
-        "tax jurisdiction: 税收管辖权",
-        "tax jurisdiction: 税收管辖权\n释义：(N-UNCOUNT)司法权；审判权；管辖权",
-        "Jurisdiction is the power that a court of law or an official has to carry out legal judgments or to enforce laws.",
-        "(N-COUNT)管辖区域；管辖范围",
-        "Ajurisdiction is a state or other area in which a particular court and system of laws has authority."
-      ],
-      "etymology": "early 14c.,jurisdiccioun,jurediction,etc.,\"administration of justice,\"from Old French juridicion(13c.,Modern French juridiction)and directly from Latin iurisdictionem (nominative iurisdictio)\"administration of justice, jurisdiction,\"from phrase iuris dictio,genitive of ius “law,right”(see jurist)+dictio “a saying”(from PIE root *deik-\"to show,\"also “pronounce solemnly”).Meaning “extent or range of administrative power,domain over which a legal or judicial authority extends”is from late 14c.Meaning 趣G-- 多 20000词汇巅峰速记班",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "adjudicate",
-      "phonetic": "ə.ˈdʒu.də.keɪt",
-      "pos": "vt",
-      "definition": "&vi. 判决；裁决",
-      "frequency": 19867,
-      "mnemonic": "ad- (去，往)+judic(=ius-:right,law, 法律+-dic:to say)+ate ( 动 词后缀) → (审判员)去(法庭/裁判所)根据法律庄严宣布(就案 件作出裁决)→裁判；判决",
-      "collocations": [
-        "adjudicate on/upon/in sth/adjudicate between A and B: 判决，裁决(争 执等)",
-        "… a commissioner to adjudicate on legal rights:…… 一位法权裁定专员 adjudicate claims: 裁定索赔案"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "paradigm",
-      "phonetic": "ˈpɛɹ.ə.daɪm",
-      "pos": "n.",
-      "definition": "典范；范例；样式；词形变化表",
-      "frequency": 5263,
-      "mnemonic": "para-(=beside: 在旁，在周围)+-dig(=to show: 指出，展示，说) +m→在旁边指出的，可以作为范例参考的→范例；典范；样式",
-      "collocations": [
-        "Latin dicere “to show;\"from PIE root *deik-\"to show,\"also “pronounce solemnly”).Related:Paradigmatic;paradigmatical.",
-        "..a new paradigm of production: 一种新的生产范例",
-        "a paradigm for students to copy 供学生效法的榜样",
-        "paradigm shift: 典范转移，思考模式的转移",
-        "verb paradigms: 动词词形变化表 释义：(N-VAR) 样板； 范式",
-        "A paradigm is a model for something which explains it or shows how it can be produced.",
-        "(N-COUNT)典范；范例",
-        "A paradigm is a clear and typical example of something."
-      ],
-      "etymology": "late 15c.,from Late Latin paradigma \"pattern,example,\"especially in grammar,from Greek paradeigma \"pattern,model;precedent,example,\" from paradeiknynai “exhibit,represent,\"literally\"show side by side,” from para-“beside”(see para-(1))+deiknynai“to show”(cognate with 20000词汇巅峰速记班",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "preach",
-      "phonetic": "pɹitʃ",
-      "pos": "vt.",
-      "definition": "布道；宣扬 vi.说 教n. 说教",
-      "frequency": 4867,
-      "collocations": [
-        "preach a sermon: 布 道",
-        "preach peace and tolerance: 宣扬和平和宽容",
-        "to preach the word of God: 传布上帝的道"
-      ],
-      "etymology": "来自古英语predician, 传道，布道，借自古法语preechier, 传道，布 道，来自拉丁语praedicare, 公开宣称，通知，宣布，公告。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "preacher",
-      "phonetic": "ˈpɹi.tʃɚ",
-      "pos": "n.",
-      "definition": "传道士；牧师；布道者",
-      "frequency": 5808,
-      "mnemonic": "preach( 布 道 ，宣扬)+-er ( 名词后缀，表人)→布道的人→传道士 搭配：a preacher famous for her inspiring sermons: 以发人深省的讲道出名的\na lay preacher(=who is not a priest,etc.but who has been trained to give religious talks) →传 道 员",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predicament",
-      "phonetic": "pɹɪˈdɪ.kə.mənt",
-      "pos": "n.",
-      "definition": "困境；尴尬的处境",
-      "frequency": 9689,
-      "collocations": [
-        "place,time,posture,possession,action,passion 。 predicament 的 字面意思是“所宣称、断言的东西”,等于category, 与predict ( 预 言 ) 、predicate ( 断言、谓语)词源相同。 predicament 原本表示“范 畴”,后来词义演变为“状态、情形”,最后专指“令人难受而又难 以摆脱的情形”,即“困境、窘境”。",
-        "the club's financial predicament: 俱乐部的财政困境",
-        "in a terrible predicament: 处境十分尴尬",
-        "realistic predicament: 现实困境"
-      ],
-      "etymology": "来自拉丁语predicamentum 预测之事，分类，品质，是对古希腊哲 学家亚里士多德所提出的术语“范畴”(英语category, 希腊语 kategoria 分类)的拉丁语意译。亚里士多德对当时的社会进行分类 后创造出来的词，共十类，即being,quantity,quality,relation,",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "prejudice",
-      "phonetic": "ˈpɹɛ.dʒə.dɪs",
-      "pos": "n.",
-      "definition": "偏见；侵害 vt. 使……有偏见；损害",
-      "frequency": 5304,
-      "mnemonic": "pre- (在前，早于，预先)+-judic ( 判断)+-e→预先就存在的判断 →偏见",
-      "collocations": [
-        "a victim of racial prejudice: 种族偏见的受害者",
-        "prejudice against: 对……的偏见",
-        "pride and prejudice:《傲慢与偏见》",
-        "ingrained prejudice: 根深蒂固的偏见",
-        "without prejudice to: 无损于；没有对……造成不利；没有对……带 来改变\n释义：(N-VAR) 偏见；成 见",
-        "Prejudice is an unreasonable dislike of a particular group of people or things,or a preference for one group of people or things over another.\n(VERB) 使有成见；使有偏见；使出现偏袒",
-        "If you prejudice someone or something,you influence them so that they are unfair in some way.\n(VERB) 损害；危害；使更糟糕",
-        "If someone prejudices another person's situation,they do something which makes it worse than it should be.\n20000词汇巅峰速记班"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "prejudiced",
-      "phonetic": "ˈpɹɛ.dʒə.dɪst",
-      "pos": "adj.",
-      "definition": "怀偏见的；有成见的；偏颇的",
-      "frequency": 19985,
-      "mnemonic": "prejudice(偏见，成见)+-d ( 形容词后缀-ed去e变-d)→ 怀偏见的；",
-      "collocations": [
-        "be prejudiced against sb/sth: 对……存在偏见",
-        "prejudiced account: 带有偏见的报道"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "policy",
-      "phonetic": "ˈpɑ.lə.si",
-      "pos": "n.",
-      "definition": "政策，方针；原则；为人之道；保险契约",
-      "frequency": 389,
-      "mnemonic": "polic(=-polis -,政治)+-y ( 名词后缀)→政策；方针；原则",
-      "collocations": [
-        "Meaning \"plan ofaction,way of management\"first recorded c.1400.",
-        "policy, polity。该词为police对词，引申词义政策，主张。",
-        "policy on education: 教育政策",
-        "honesty is the best policy: 诚实为上\nmonetary/economic/foreign policy: 货币/经济/外交政策"
-      ],
-      "etymology": "来自拉丁语politia, 城市管理，来自希腊语polis, 城市，同",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "policymaker",
-      "phonetic": "ˈpɑ.lə.si.ˌmeɪ.kɚ",
-      "pos": "n.",
-      "definition": "决策者；政策制定者",
-      "frequency": 6659,
-      "mnemonic": "polic(=-polis-, 政治)+ -y ( 名词后缀)+ make ( 制 作 ，去 e)+-er (名词后缀，表人)→决策者，政策制定者",
-      "collocations": [
-        ".top economic policymakers: ……最高经济决策者们",
-        "federal policymaker: 联邦决策者"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "policy-making",
-      "phonetic": "ˈpɑ.lə.si.ˌmeɪ.kɪŋ",
-      "pos": "adj.",
-      "definition": "决策的 n. 决策",
-      "frequency": 12108,
-      "mnemonic": "policy ( 政 策 ) +making ( 制定) → 决策的，决策",
-      "collocations": [
-        "public policymaking: 公共决策",
-        "economic policymaking: 经济决策"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "predicate",
-      "phonetic": "ˈpɹɛ.dɪ.kət",
-      "pos": "n.",
-      "definition": "谓语 vt. 基于，取决于；表明；断言； 声明",
-      "frequency": 14104,
-      "mnemonic": "pre- (在前)+ -dicate(=dict, 来自拉丁语dicare=proclaim, 说，声 称) →在事情发生之前就说出来的 →来自拉丁语praedicare, 预测； 断言；声称",
-      "collocations": [
-        "be predicated on: 基于",
-        "释义：(N-COUNT)In some systems of grammar,the predicate of a clause is the part of it that is not the subject.For example,in “I decided what to do,” “decided what to do”is the predicate.",
-        "(V-T)If you say that one situation is predicated on another,you mean that the first situation can be true or real only if the second one is true or real."
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "phrase",
-      "phonetic": "fɹeɪz",
-      "pos": "n.",
-      "definition": "惯用语；短语，词组v.用言语表达",
-      "frequency": 2612,
-      "mnemonic": "phrase(=-dict: 说，表达) →表达方式；短语",
-      "collocations": [
-        "turn of phrase: 表述方式",
-        "set phrase: 成 语 ，固定词组"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "phrasing",
-      "phonetic": "ˈfɹeɪ.zɪŋ",
-      "pos": "vt.",
-      "definition": "&n. 措辞；用语；表达法",
-      "frequency": 15935,
-      "mnemonic": "phrase (用言语表达)+-ing ( 名词后缀) →措辞；用语",
-      "collocations": [
-        "the phrasing of the report: 这份报告的措辞",
-        "infelicitous phrasing: 不贴切的措辞"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "paraphrase",
-      "phonetic": "ˈpɛɹ.ə.fɹeɪz",
-      "pos": "vt.",
-      "definition": "&n.( 用更容易理解的文字)解释，释义，改述",
-      "frequency": 13249,
-      "mnemonic": "para- (在旁，在周围)+-phrase (说，告知) →在单词或句子周围换\n一种更容易理解的方式表达同样的意思→解释；释义；意译 搭配：paraphrase arguments: 改写论点",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "subtle",
-      "phonetic": "ˈsʌt.əl",
-      "pos": "adj.",
-      "definition": "不易察觉的；不露声色的；淡的；精妙的；机智的；敏 锐的",
-      "frequency": 3467,
-      "mnemonic": "from sub ( 在下面)+-tle(=-tilis:web,net,warp of a fabric,from PIE root *teks-\"to weave,\"also “to fabricate.”在经纱、网下面进行编织、制作) →需要精妙的技巧、不易觉察的耐心、不露声色的态度、机智敏锐的 头脑→精妙地；不易察觉的；不露声色的；机智敏锐的",
-      "collocations": [
-        "Old French sotil,soutil,subtil “adept,adroit;cunning,wise;detailed; well-crafted”(12c.,Modern French subtil),from Latin subtilis \"fine,thin, delicate,finely woven,\"figuratively“precise,exact,accurate,\"in taste or judgment,\"fine,keen,\"of style,“plain,simple,direct”.From early 14c. in reference to things,\"of thin consistency;\"in reference to craftsmen, \"cunning,skilled,clever;\"Depreciative sense “insidious,treacherously cunning;deceitful”is from mid-14c.Material senses of“not dense or viscous,light;pure;delicate,thin,slender;fine,consisting of small particles”are from late 14c.sotil wares were goods sold in powdered form or finely ground.Partially re-Latinized in spelling,and also by confusion with subtile.",
-        "a subtle plan 巧妙的计划",
-        "a subtle mind; 头脑敏锐的人",
-        "subtle colours/flavours/smells,etc.: 淡淡的色彩、味道、气味等"
-      ],
-      "etymology": "c.1300(mid-13c.as a surname),sotil,“penetrating;ingenious;refined” (of the mind);“sophisticated,intricate,abstruse”(of arguments),from 20000词汇巅峰速记班",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "subtlety",
-      "phonetic": "ˈsʌt.əl.ti",
-      "pos": "n.",
-      "definition": "精妙之处；微妙差异；细小但重要的地方；敏锐；巧 妙",
-      "frequency": 11332,
-      "mnemonic": "subtle (微妙的，巧妙地，敏锐地)+-ty ( 名词后缀) → 精妙之处； 敏锐；巧妙",
-      "collocations": [
-        "the subtleties of language: 语言的微妙之处",
-        "lack subtlety and depth: 缺乏微妙和深度",
-        "the subtlety of his remarks: 他话中的微妙含义"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "subtly",
-      "phonetic": "ˈsʌt.li",
-      "pos": "adv.",
-      "definition": "敏锐地；精细地；巧妙地",
-      "frequency": 9791,
-      "mnemonic": "subtle (精细的；巧妙的；敏锐的，去le)+-ly ( 副词后缀) → 敏锐 地；精细地；巧妙地",
-      "collocations": [
-        "connect subtly: 巧妙地连接在一起"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "teach",
-      "phonetic": "titʃ",
-      "pos": "vt.",
-      "definition": "vt. 教授；讲授；教导546笔 记区 / vt. 教授；讲授；教导",
-      "collocations": [
-        "teach oneself:自 学"
-      ],
-      "examples": [],
-      "rootHint": "dict",
-      "etymology": "来自古英语 taecan, 指出，展出，宣布，展示，同时，也有“做 指导，训练，分配，指导，警告，说服”等含义。来自Proto- Germanic*taikijan, 展示。来自词根deik “展示，指出”。与古英语 tacen,tacn 有关，其含义为“迹象，标志”。古英语tæcan的一般含 义为“展示，宣布，警告，劝说”,但是含义为“教导，指导，引 导”的古英语单词更多写为laæran,它是现代学习和知识学问lore这个 单词的。",
-      "frequency": 546
-    },
-    {
-      "word": "teacher",
-      "phonetic": "ˈti.tʃɚ",
-      "pos": "n.",
-      "definition": "教师；导师",
-      "frequency": 372,
-      "mnemonic": "teach(教授，教导)+-er ( 名词后缀，表示人)→教师",
-      "collocations": [
-        "good teacher: 良师"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "teaching",
-      "phonetic": "ˈti.tʃɪŋ",
-      "pos": "n.",
-      "definition": "教学；教义；学说vt.&vi. 教学；教导",
-      "frequency": 1647,
-      "mnemonic": "teach(教学，教导)+-ing ( 名词后缀，分词后缀) →教学；教导",
-      "collocations": [
-        ".….the teachings of Jesus: ……耶稣的教义",
-        "the quality of teaching: 教学质量",
-        "teaching practice; 教学实习"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "token",
-      "phonetic": "ˈtoʊkən",
-      "pos": "adj.",
-      "definition": "装样子的；作为标志的n. 象征；标志 代用币；代金券；购物卡；纪念品",
-      "frequency": 9118,
-      "collocations": [
-        "by the same token: 出于同样的原因",
-        ". .slot-machine tokens:自动贩卖机的代用币",
-        "a token gesture: 装装样子",
-        "as a token of: 作为……的标志"
-      ],
-      "etymology": "来自古英语 tacen, 符号，象征，证据，来自Proto-Germanic*taiknam, 符号，标志，来自PIE*teik, 显示，展示。Token “硬币一样的铭刻金 20000词汇巅峰速记打 属”的含义首先记录于1590年。15世纪中期token这个单词更为古老 的含义“证据”保留在by the same token这个词组中。",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "verdict",
-      "phonetic": "ˈvɝdɪkt",
-      "pos": "n.",
-      "definition": "裁决；判断；意见；结论",
-      "frequency": 4285,
-      "mnemonic": "ver-(=true: 真实的，trustworthy)+-dict(=to say: 说，讲) → (法 官)作出真实、可信赖的判断→裁决；判断；意见",
-      "collocations": [
-        "reach a verdict: 作出裁定",
-        "give their verdict on… : 就……给出意见",
-        "open verdict: 存疑判决"
-      ],
-      "etymology": "1530s,alteration of Middle English verdit (c.1300),“ a jury's decision in a case,”from Anglo-French verdit(Old French voirdit)“sworn testimony, affidavit;judgment,written record of a verdict,\"literally“a true saying or report,\"from ver,veir \"true”(from PIE root *were-o-\"true,trustworthy\") +dit,past participle of dire “to say”(from PIE root *deik-\"to show,\"also “pronounce solemnly”).Spelling influenced by Medieval Latin verdictum \"a verdict.\"",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "vindicate",
-      "phonetic": "ˈvɪndɪkeɪt",
-      "pos": "vt.",
-      "definition": "证明 … … 正确；澄清(责难或嫌疑);证明(某 人)无罪责",
-      "frequency": 13557,
-      "mnemonic": "vin-(=force: 力量，能力)+-dic-(=proclaim: 宣布，说)+-ate ( 动 词后缀) → (通过提供证明、证据)有权威、力量宣布(还某人清 白)→提供证据为……辩护、释罪，证实……有理、正当，面临非难 指责时进行防御、防守→证明……正确；澄清；证明无罪",
-      "collocations": [
-        "vindicate blame: 为罪责辩护",
-        "If a person or their decisions,actions,or ideas are vindicated,they are proved to be correct,after people have said that they were wrong."
-      ],
-      "etymology": "1620s,\"to avenge or revenge,\"from Latin vindicatus,past participle of vindicare “to stake a claim;to liberate;to act as avenger”.Meaning \"to clear from censure or doubt,by means of demonstration”is recorded from 1630s.Related:Vindicated,vindicating.",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "vindication",
-      "phonetic": "ˌvɪndɪˈkeɪʃən",
-      "pos": "n.",
-      "definition": "辩护；洗冤；证实无罪",
-      "frequency": 16866,
-      "mnemonic": "vindicat(=vindicate: 证明……正确；澄清(责难或嫌疑);证明 (某人)无罪责)+-ion ( 名词后缀)→有力量庄严宣告保护某人， (从定罪、冤屈中)释放某人，宣告某人获得释放或自由→辩护；洗 冤；证实无罪",
-      "collocations": [
-        "systems vindication: 系统验证"
-      ],
-      "etymology": "late 15c.,\"act of avenging,revenge,\"from Old French vindicacion “vengeance,revenge”and directly from Latin vindicationem(nominative vindicatio)“act of claiming or avenging,”noun of action from past participle stem of vindicare“Iay claim to,assert;claim for freedom,set free;protect,defend;avenge”(related to vindicta “revenge”).Meaning “justification by proof,defense against censure”is attested from 1640s.",
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "vindictive",
-      "phonetic": "vɪnˈdɪktɪv",
-      "pos": "adj.",
-      "definition": "想复仇的；怀恨的；惩罚的",
-      "frequency": 19131,
-      "mnemonic": "vindicat(=vindicate: 提供证据；反驳指责)+-ive ( 形容词后 缀 ) →having vengeful intent,from c.1600 as involving retribution or punishment→引申为想复仇的；报复的；怀恨的",
-      "collocations": [
-        "a vindictive comment: 报复性的言论",
-        "vindictive damage: 报复性损害",
-        "vindictive punishment: 报复性惩罚\n20000词汇巅峰速"
-      ],
-      "examples": [],
-      "rootHint": "dict"
-    },
-    {
-      "word": "didactic",
-      "phonetic": "daɪ.ˈdæk.tɪk",
-      "pos": "adj.",
-      "definition": "教诲的；道德说教的；好教训人的",
-      "frequency": 17675,
-      "mnemonic": "didact(=teach;教导)+-ic(形容词后缀)→教诲的；好教训人的",
-      "collocations": [
-        "didactic art: 道德说教艺术"
-      ],
-      "etymology": "来自希腊语 didaktos, 教导，教学艺术。后词义贬义化。",
-      "examples": [],
-      "rootHint": "dict"
-    }
-  ]
+    "id": "dict",
+    "source": "textbook-3",
+    "chapter": "4",
+    "chapterOrder": 104,
+    "titleZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "semanticLabel": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示",
+    "meaningEn": null,
+    "meaningZh": "说,与之相似的词根-doct、-dic 、-doc、-dit 也 都表示说",
+    "roots": [
+        "dict"
+    ],
+    "words": [
+        {
+            "word": "predict",
+            "phonetic": "prɪˈdɪkt",
+            "pos": "vt.",
+            "definition": "预言；预知；预报",
+            "frequency": 1622,
+            "mnemonic": "pre- ( 提前)+dict(=say: 说) →提前说 →预言；预测\npre- ( 在前，早于，预先)+-dict ( 说)→预先说出来→预言",
+            "collocations": [
+                "trend predict: 趋势预知"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predicted",
+            "phonetic": "prɪˈdɪk.tɪd",
+            "pos": "adj.",
+            "definition": "预言的；预测的 vt. 预言；预测",
+            "frequency": 12690,
+            "mnemonic": "predict ( 预言，预测)+-ed ( 形容词后缀，分词后缀)→预言的； 预测的",
+            "collocations": [
+                "predicated period: 预测周期"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "prediction",
+            "phonetic": "prɪˈdɪk.ʃən",
+            "pos": "n.",
+            "definition": "预言；预测；预报",
+            "frequency": 3641,
+            "mnemonic": "predict ( 预言，预测)+-ion ( 名词后缀) →预言；预测",
+            "collocations": [
+                "earthquake prediction: 地震预报",
+                "weather prediction: 天气预报"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predictive",
+            "phonetic": "prɪˈdɪk.tɪv",
+            "pos": "adj.",
+            "definition": "( 测验、科学或理论)预言性的；前瞻的；预测 性的",
+            "frequency": 10637,
+            "mnemonic": "predict ( 预言，预测)+-ive ( 形容词后缀) →预言的；预测性的",
+            "collocations": [
+                "the predictive power of science: 科学的预测能力"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predictor",
+            "phonetic": "prɪˈdɪk.tɚ",
+            "pos": "n.",
+            "definition": "预言者；预报器；预示物",
+            "frequency": 6108,
+            "mnemonic": "predict ( 预言，预测)+-or ( 名词后缀，表示人)→预言者；预报器",
+            "collocations": [
+                "predictor of consumer confidence: 消费者信心的预言者"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predictability",
+            "phonetic": "prɪˌdɪk.təˈbɪ.lə.ti",
+            "pos": "n.",
+            "definition": "可预测性；可预见性",
+            "frequency": 16088,
+            "mnemonic": "predict (预言，预测)+-ability (名词后缀，表示有……能力的)→ 可预测性",
+            "collocations": [
+                "a model of predictability: 在可预测性上堪称模范"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predictable",
+            "phonetic": "prɪˈdɪk.tə.bəl",
+            "pos": "adj.",
+            "definition": "可预见的；可预料的；意料之中的",
+            "frequency": 5818,
+            "mnemonic": "predict( 预言，预测)+-able ( 形容词后缀，有……能力的)→可预言的",
+            "collocations": [
+                "a predictable result: 可预见的结果"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predictably",
+            "phonetic": "prɪˈdɪk.tə.bli",
+            "pos": "adv.",
+            "definition": "可预见地；可预言地",
+            "frequency": 11976,
+            "mnemonic": "predictabl(=predictable: 可预见的，可预料的)+-1y ( 副词后缀) → 可 预见地；可预言地",
+            "collocations": [
+                "the predictably unfavorable outcome: 不好的结果是可预见的"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "unpredictable",
+            "phonetic": "ˌʌnprɪˈdɪktəbəl",
+            "pos": "adj.",
+            "definition": "无法预言的；难以预测的；(人)善变 的；难以捉摸的",
+            "frequency": 6757,
+            "mnemonic": "un- ( 表否定)+predict ( 预测)+-able ( 形容词后缀，能够…的) → 不可预测的",
+            "collocations": [],
+            "examples": [
+                "When it comes to future,some people hold that it is rather unpredictable and thus feel uncertain about it;others insist that it is promising and hopeful."
+            ],
+            "rootHint": "dict"
+        },
+        {
+            "word": "unpredictability",
+            "phonetic": "ˌʌnprɪˌdɪktəˈbɪlətiː",
+            "pos": "n.",
+            "definition": "不可预见性；难以预测性",
+            "frequency": 18560,
+            "mnemonic": "un- ( 表否定)+predict ( 预测)+-ability ( 抽象名词后缀，表有…… 能力)→不可预见性；不可预知性；不可预测性",
+            "collocations": [
+                "environment unpredictability: 环境不可预测性"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "addict",
+            "phonetic": "ə.ˈdɪkt",
+            "pos": "v.",
+            "definition": "使……成瘾；着迷；沉溺 n. ( 吸毒)上瘾者；对 … … 入迷 的人",
+            "frequency": 6179,
+            "mnemonic": "ad- ( 加强语气，表过度)+-dict(=speak, 说)→不停地说→上瘾， 沉迷；有瘾的人",
+            "collocations": [
+                "a heroin/drug/nicotine addict: 吸食海洛因/毒品/尼古丁成瘾的人 a video game addict: 游戏机迷",
+                "work addict: 工作狂"
+            ],
+            "etymology": "古代奴隶的主要来源是战俘。在古希腊和古罗马时期，西方人就将战 争中俘虏的战俘作为奴隶分配给战士或卖给其他人。在拉丁语中，这 种成为奴隶的战俘被称为addictus, 是addicere 的过去分词。addicere 由ad(to) +dicere ( dict, 宣告)构成，意思就是“待发落的、待分 配的”。英语单词addict就来自拉丁语addictus, 意思就是“等待发落 的”。它原本是一个形容词，后来变成了名词，表示“任人发落的奴 隶”,后来用来形容任何像奴隶那样缺乏自主性、依赖他人或他物的 人。现在该词主要用来表示那些对某种事物或行为上瘾，产生依赖性 的人，而“奴隶”之意转移到单词slave上。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "addiction",
+            "phonetic": "ə.ˈdɪk.ʃən",
+            "pos": "n.",
+            "definition": "成瘾；入迷；嗜好",
+            "frequency": 5261,
+            "mnemonic": "addict ( 使上瘾)+-ion ( 名词后缀) →上瘾；沉溺",
+            "collocations": [
+                "addict to sth.: 沉溺于……"
+            ],
+            "examples": [
+                "Many people are addicted to/indulged in the virtual world and thus lose direct contact with people in the real world.\n很多人沉溺于虚拟的世界中，而失去了人与人之间在真实世界中的 联系。"
+            ],
+            "rootHint": "dict"
+        },
+        {
+            "word": "addictive",
+            "phonetic": "ə.ˈdɪk.tɪv",
+            "pos": "adj.",
+            "definition": "使人上瘾的；使人着迷的",
+            "frequency": 10546,
+            "mnemonic": "addict( 使…… · 瘾)+-ive ( 形容词后缀)→使人上瘾的；使人入迷的",
+            "collocations": [
+                "addictive behavior: 成瘾行为"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "abdicate",
+            "phonetic": "ˈæb.də.keɪt",
+            "pos": "vt.",
+            "definition": "推卸(职责) vi.&n. 退位；弃绝",
+            "frequency": 20057,
+            "collocations": [
+                "participle of abdicare “to disown,disavow,reject”(specifically abdicare\n20000词汇巅峰速记班",
+                "magistratu \"renounce office”),literally“proclaim as not belonging to one. 助记：ab-(=off,away from, 离开)+ dic-(=dicare,proclaim, 宣布)\n+-ate ( 动词后缀) → 宣布离开(有权势、势力的)位置 → 退位； 辞职",
+                "abdicate responsibility: 放弃责任"
+            ],
+            "etymology": "1540s,\"to disown,disinherit(children),”\"from Latin abdicatus,past",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "condition",
+            "phonetic": "kənˈdɪʃən",
+            "pos": "n.",
+            "definition": "( 尤指健康)状况；(某事完成或发生的)条件； (生活或工作的)环境；(尤指写进合同或法律中的某事发生的)条 件；疾病；问题；长期影响vt.习惯于(以某种方式做事或思考)630",
+            "mnemonic": "con- ( 强调)+-dit(=speak ,说 ) + -ion ( 名词后缀) →描述的、规定 的情况→后指客观情况",
+            "collocations": [
+                "a used car in perfect condition: 车况完好的旧车",
+                "on condition that: 在……发生的条件下",
+                "health condition: 健康状况"
+            ],
+            "etymology": "来源于拉丁语dicere(说，讲)的复合动词condicere (一起谈话), 其词义是逐步沿着这样的轨迹变化而来的：一起谈话→ 同意→条文→ 状况，方式",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "conditional",
+            "phonetic": "kənˈdɪʃənəl",
+            "pos": "adj.",
+            "definition": "附带条件的；依……而定的",
+            "frequency": 14484,
+            "mnemonic": "condition(条件)+-al ( 形容词后缀) →有条件的",
+            "collocations": [
+                "conditional approval/acceptance: 有条件的批准/接受 a conditional offer: 有条件的邀约",
+                "conditional on/upon sth: 依…条件而定"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "conditioner",
+            "phonetic": "kənˈdɪʃənɚ",
+            "pos": "n.",
+            "definition": "护发素；衣物柔顺剂；调节器；空调器",
+            "frequency": 8949,
+            "mnemonic": "condition ( 情况)+-er ( 名词后缀) → 即帮助(头发，衣物，空调)\n达到一个好的状况的物品→后指护发素；衣物柔顺剂；空调器 搭配：hair conditioner: 护发素",
+            "collocations": [
+                "air conditioner: 空调设备"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "conditioning",
+            "phonetic": "kənˈdɪʃənɪŋ",
+            "pos": "n.",
+            "definition": "调节；整修；条件作用",
+            "frequency": 6399,
+            "mnemonic": "condition (情况)+-ing ( 名词后缀)→通过训练，熏陶使达到一个好 的状况→调节；长期影响",
+            "collocations": [
+                "social conditioning: 社会的长期影响",
+                "signal conditioning信号调节"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "unconditional",
+            "phonetic": "ˌʌnkənˈdɪʃənəl",
+            "pos": "adj.",
+            "definition": "无条件的；无限制的；绝对的",
+            "frequency": 11864,
+            "mnemonic": "un- ( 否 定 ) +condition ( 条件)+ -al ( 形容词后缀) →无条件的",
+            "collocations": [
+                "unconditional surrender: 无条件投降",
+                "unconditional love: 无条件的爱"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "unconditionally",
+            "phonetic": "ˌʌnkənˈdɪʃənəliː",
+            "pos": "adv.",
+            "definition": "无条件地；无保留地",
+            "frequency": 19670,
+            "mnemonic": "unconditional(无条件的)+-ly ( 副词后缀)→无条件地",
+            "collocations": [
+                "promise unconditionally: 无条件地允诺"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "air-conditioned",
+            "phonetic": "ˈɛr.kən.dɪ.ʃənd",
+            "pos": "adj.",
+            "definition": "备有空调装置的 vi. 给……装上空调器； 用空调器调节",
+            "frequency": 15901,
+            "mnemonic": "air ( 空 气 ) +conditioned ( 调节的) → 空气调节的 →用空调器调节； 备有空调装置的",
+            "collocations": [
+                "air-conditioned bus: 冷气巴士",
+                "air-conditioned container: 空调集装箱"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "air-conditioning",
+            "phonetic": "ˈɛr.kən.dɪ.ʃə.nɪŋ",
+            "pos": "n.",
+            "definition": "空调系统；空气调节",
+            "frequency": 18561,
+            "mnemonic": "air ( 空气)+conditioning ( 调节) →空气调节 →空调系统",
+            "collocations": [
+                "all fresh air-conditioning system: 全新风空调系统",
+                "air-conditioning unit: 空调机组；空调装置"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "contradict",
+            "phonetic": "ˌkɑntrəˈdɪkt",
+            "pos": "vt.",
+            "definition": "反驳；否定；与……矛盾；与……抵触",
+            "frequency": 6974,
+            "mnemonic": "contra-(=counter: 相 反 ) +dict ( 说) → 反着说 → 反对、反驳；",
+            "collocations": [
+                "contradict the established beliefs: 与已有的信仰相抵触"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "contradiction",
+            "phonetic": "ˌkɑntrəˈdɪkʃən",
+            "pos": "n.",
+            "definition": "矛盾；反驳；否认",
+            "frequency": 5519,
+            "mnemonic": "contradict (与……有矛盾，反驳)+-ion ( 名词后缀) →矛盾；反 驳；否认",
+            "collocations": [
+                "in contradiction to: 同……相矛盾"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "contradictory",
+            "phonetic": "ˌkɑntrəˈdɪktəriː",
+            "pos": "adj.",
+            "definition": "矛盾的；反驳的；反对的；抗辩的",
+            "frequency": 7561,
+            "mnemonic": "contradict (与……有矛盾，反驳)+-ory (形容词后缀) → (事实、",
+            "collocations": [],
+            "examples": [
+                "\"The traits that characterise him are very contradictory to the racial stereotypes that black people are aggressive and uneducated,\"says Ashby Plant of Florida State University.\n他所独具的特点与人为黑人既好斗又无知的种族偏见恰恰相反，佛罗 里达州立大学的Ashby Plant说。"
+            ],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dictate",
+            "phonetic": "ˈdɪk.teɪt",
+            "pos": "vt.",
+            "definition": "&vi. 口述；使听写；命令；导致，影响；(逻辑或常识)使人相信 n. 命令；指示；原则；规定",
+            "frequency": 4989,
+            "mnemonic": "dict-(=speak ,说)+ -ate ( 动词后缀)→ 口述；命令；导致；规定",
+            "collocations": [
+                "dictate to: 指示，规定",
+                "dictate the schedule: 决定进度(日程表)"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dictator",
+            "phonetic": "ˈdɪk.teɪ.tɚ",
+            "pos": "n.",
+            "definition": "独裁者；发号施令者；专横的人",
+            "frequency": 6844,
+            "mnemonic": "dictat(=dictate: 下命令)+-or ( 名词后缀，表示人) → 独裁者",
+            "collocations": [
+                "foreign dictators: 外国独裁者们"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dictatorial",
+            "phonetic": "ˌdɪk.tə.ˈtɔr.i.əl",
+            "pos": "adj.",
+            "definition": "独裁的；专政的；发号施令的；专横傲慢的",
+            "frequency": 19257,
+            "mnemonic": "dictator(独裁者)+-ial ( 形容词后缀)→独裁的；专政的；专横的",
+            "collocations": [
+                "a dictatorial ruler: 独裁统治者",
+                "dictatorial behaviour: 专横的行为"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dictatorship",
+            "phonetic": "ˈdɪk.teɪ.tɚ.ʃɪp",
+            "pos": "n.",
+            "definition": "n. 独裁；专政；独裁国家",
+            "frequency": 7780,
+            "collocations": [
+                "(N-VAR)独裁政府；独裁统治；专政",
+                "Dictatorship is government by a dictator.",
+                "(N-COUNT) 独裁国家",
+                "A dictatorship is a country which is ruled by a dictator or by a very strict and harsh government."
+            ],
+            "examples": [],
+            "rootHint": "dict",
+            "mnemonic": "dictator (独裁者)+-ship ( 名词后缀，表状态) →独裁；专政"
+        },
+        {
+            "word": "dictionary",
+            "phonetic": "ˈdɪk.ʃə.nɛ.ri",
+            "pos": "n.",
+            "definition": "词典；专业词典；电子词典",
+            "frequency": 8658,
+            "mnemonic": "dict- (说，讲)+-ion ( 名词后缀)+-ary ( 名词后缀) →字典；词典",
+            "collocations": [
+                "a Spanish-English dictionary: 西班牙语—英语词典"
+            ],
+            "etymology": "它来自拉丁语动语dico, 意思是“说”、“讲”。同出于dico 之源的 还有不少英语词，如，ditto, 意思“同上”、“同前”,即和上面 所“说”的一样；contradiction ( 矛 盾 ) ,contra 是“相反”、“反 对”的意思，全词的意思是“说话自相矛盾”; verdict ( 陪审团的 裁决),vere是“真实地”,全词即“正确地评说”,dictator ( 独裁 者),意即“我一个人说了算”。都和“说”有关。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dictum",
+            "phonetic": "ˈdɪk.təm",
+            "pos": "n.",
+            "definition": "格言；正式声明；法官的附带意见",
+            "frequency": 17983,
+            "mnemonic": "dict-(=speak, 说，讲)+-um ( 名词后缀)→宣言；声明；名言\ndidact(=teach; 教导)+-ic ( 形容词后缀) →教诲的；好教训人的",
+            "collocations": [
+                "judicial dictum: 法官对判决的意见",
+                "释义：( N-COUNT)名言；格言；箴言",
+                "A dictum is a saying that describes an aspect of life in an interesting or wise way.",
+                "(N-COUNT)宣言；正式声明",
+                "A dictum is a formal statement made by someone who has authority. didactic [dr'dæktrk;dar-] adj. 教诲的；道德说教的；好教训人的17675",
+                "didactic art: 道德说教艺术",
+                "Something that is didactic is intended to teach people something, especially a moral lesson.\n(ADJ-GRADED)好灌输的；好说教的",
+                "Someone who is didactic tells people things rather than letting them find things out or discussing things."
+            ],
+            "etymology": "来自希腊语didaktos, 教导，教学艺术。后词义贬义化。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dedicate",
+            "phonetic": "ˈdɛ.də.keɪt",
+            "pos": "vt.",
+            "definition": "投身；致力于；把作品献给……3837",
+            "mnemonic": "de-(=down : 下去)+dic-(说)+-ate ( 动词后缀) →说要下去(下 基层) → (做)贡献；致力于",
+            "collocations": [
+                "dedicate A to B: 把A 贡献给B",
+                "A dedicate to B:A有助于/用于B"
+            ],
+            "examples": [
+                "1)Faculty members who dedicated themselves to teaching soon discover that they will not be granted tenure ( 终身任期，promotion,or substantial salary increases.\n把自己贡献给教育事业的教员们很快发现他们不会被授予终身任期， 不会被提升，也不会大幅涨薪。\n2)Her blog,she says,is dedicated to sensible parenting.“At Free Range Kids,we believein safe kids.\n她说，她的博客用于宣传理性地培养孩子。"
+            ],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dedicated",
+            "phonetic": "ˈdɛ.də.keɪ.tɪd",
+            "pos": "adj.",
+            "definition": "投入的；献身的：一心一意的；专用的",
+            "frequency": 6777,
+            "mnemonic": "dedicate(投身，献身)+-d ( 形容词后缀-ed去e变为-d)→ 献身的：",
+            "collocations": [
+                "dedicated line: 专 线",
+                "dedicated to..: 献身于……"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "dedication",
+            "phonetic": "ˌdɛ.dəˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "献身；奉献；(建筑物等的)落成典礼； (书、音乐或作品前部的)献词",
+            "frequency": 7104,
+            "mnemonic": "dedicat(=dedicate: 投身，献身)+-ion(名词后缀) →奉献；落成典 礼；献词",
+            "collocations": [
+                "hard work and dedication: 勤奋和奉献",
+                "professional dedication: 敬业精神"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "devote",
+            "phonetic": "dɪ.ˈvoʊt",
+            "pos": "vt.",
+            "definition": "贡献，奉献；致力于",
+            "frequency": 3253,
+            "mnemonic": "de-(=down,away: 下 去 ) +vot(=vow,voice: 发誓，渴望)+e→\n发誓、渴望要继续做下去，完全献出自己→贡献；奉献",
+            "collocations": [],
+            "etymology": "1580s,\"appropriate by or as if by vow,\"from Latin devotus,past participle of devovere \"dedicate by a vow,sacrifice oneself,promise solemnly,\"from de “down,away”(see de-)+vovere “to vow”(see vow(n.)).From c.1600 as“apply zealously or exclusively.\"From 1640s as \"to doom,consign to some harm or evil,\"and the word commonly had a negative sense in 18c: The second and third meanings in Johnson's Dictionary(1755)are “to addict, to give up to ill\"and “to curse,to execrate;to doom to destruction.\" Related:Devoted;devoting.",
+            "examples": [
+                "An increasing number of people are joining non-governmental organizations(NGO)to devote/dedicate their time and money to charitable\ncauses.\n越来越多的人加入到非政府组织中去，把他们的时间和金钱贡献给慈 善事业。"
+            ],
+            "rootHint": "dict"
+        },
+        {
+            "word": "devoted",
+            "phonetic": "dɪ.ˈvoʊ.tɪd",
+            "pos": "adj.",
+            "definition": "把……奉献给；作……专用",
+            "frequency": 5196,
+            "mnemonic": "devote ( 献身，致力于)+-d ( 形容词后缀-ed去e 变为-d)→ 把…… 奉献给",
+            "collocations": [
+                "devoted faculty: 有奉献精神的员工",
+                "区别：“delicate: 精美的；易碎的；微妙的”和“dedicate: 贡献”",
+                "Someone who is devoted to a person loves that person very much.\n(ADJ-GRADED)爱好的；热衷的；致力(于……)的",
+                "If you are devoted to something,you care about it a lot and are very enthusiastic about it.\n20000词汇巅峰速记班\n(ADJ) 专用于……的",
+                "Something that is devoted to a particular thing deals only with that thing or contains only that thing."
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "devotee",
+            "phonetic": "ˌdɛ.və.ˈtiː",
+            "pos": "n.",
+            "definition": "热衷者；(狂热的)崇拜者，爱好者；虔诚的信徒",
+            "frequency": 12410,
+            "mnemonic": "devot(=devote: 奉献)+-ee ( 名词后缀，表人) →把自己奉献给某项 兴趣、信仰、技能、偶像等的人→热衷者；爱好者",
+            "collocations": [
+                "a devotee of the opera: 歌剧的爱好者"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "devotion",
+            "phonetic": "dɪ.ˈvoʊ.ʃən",
+            "pos": "n.",
+            "definition": "热爱；关爱；忠诚；奉献",
+            "frequency": 6567,
+            "mnemonic": "de-(=down,away : 下去)+ -vot-(=vow,voice: 发誓，渴望)+\n-ion ( 名词后缀)→对……发誓效忠，渴望到底→ (深沉的)热爱； 挚爱；忠诚；奉献",
+            "collocations": [
+                "devotion to the duty: 对职责的忠诚",
+                "be flattered by his devotion: 对他的挚爱感到受宠若惊"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "devotional",
+            "phonetic": "dɪ.ˈvoʊ.ʃə.nəl",
+            "pos": "adj.",
+            "definition": "虔诚的，祷告的；与宗教仪式有关的",
+            "frequency": 17795,
+            "mnemonic": "devotion (热爱，挚爱，忠诚)+-al ( 形容词后缀) → 虔诚的；",
+            "collocations": [
+                "...devotional pictures: 宗教图画"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "delicate",
+            "phonetic": "ˈdɛ.lɪ.kət",
+            "pos": "adj.",
+            "definition": "精巧的，精美的；柔和的(颜色),清淡可口的(味 道);易碎的，脆弱的；病弱的；微妙的；棘手的",
+            "frequency": 3824,
+            "mnemonic": "\"pleasure,delight, luxury,\")→ 从浓郁的快乐、喜悦、 繁华中分离 开来，变为清淡的、柔和的、雅致的物品、品味、审美→精美的；柔 和的；清淡可口的；易碎的；脆弱的；微妙的；棘手的",
+            "collocations": [
+                "a delicate,subtle flavour: 味道清淡可口",
+                "delicate balance: 微妙的平衡\n… the delicately embroidered sheets: 那些刺绣繁复的床单 同义：subtle [’sʌtl] adj. 微妙的、纤细的",
+                "subtle shifts: 微妙的变化"
+            ],
+            "etymology": "来源于拉丁语中由前缀de- ( 离开，分离)和动词lacere ( 引诱， 欺骗)组成的复合动词delicere ( 引诱开)派生的delicatus ( 沉 溺 于快乐)。词根词缀： de- ( 离开，分离)+ licate-(=deliciae,",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "delicacy",
+            "phonetic": "ˈdɛ.lɪ.kə.si",
+            "pos": "n.",
+            "definition": "娇弱；精致；微妙；棘手；考虑周到；体谅； 美味佳 肴",
+            "frequency": 11514,
+            "mnemonic": "delica(=delicate: 精致，娇弱，微妙)+-cy ( 名词后缀)→精致的； 娇弱的；微妙的",
+            "collocations": [
+                "the delicacy of a rose: 玫瑰花的娇嫩",
+                "rare delicacy: 难得的体谅周到",
+                "a matter of delicacy: 一件棘手的事"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "delicately",
+            "phonetic": "ˈdɛ.lɪ.kət.li",
+            "pos": "adv.",
+            "definition": "精致地；微妙地；优美地",
+            "frequency": 10831,
+            "mnemonic": "delicate(精致，微妙)+-ly(副词后缀)→精致地；微妙地\n来源于拉丁语中由前缀de- ( 离开，分离)和动词lacere ( 引诱，欺 骗)组成的复合动词delicere( 引诱开)派生的delicia ( 使高兴),经 后期拉丁语deliciosus和古法语delicious派生为英语delicious。词根词 缀：de- ( 离开，分离)+ lic- ( 引诱，欺骗)+-i-+-ous ( 形容词后 缀)→蛇在伊甸园里诱惑夏娃吃美味的苹果，使其离开神所划定的规\n则，堕落犯罪→美味可口的\nde- (向下，表强调)+-lic ( 抓住；诱惑)+-ious(形容词后缀)→引申 义为抓住胃的；美味的；可口的",
+            "collocations": [
+                "delicately hand-crafted: 精致地手工作品",
+                "delicately fine-tuned for life: 非常微妙地适合于生命 delicious [dr['lrfəs] adj.美味的；可口的5042",
+                "delicious food: 美味食品"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "deliciously",
+            "phonetic": "dɪ.ˈlɪ.ʃəs.li",
+            "pos": "adv.",
+            "definition": "美味地，芬香地",
+            "frequency": 19524,
+            "mnemonic": "delicious (美味可口的)+-ly ( 副词后缀) →美味地；可口地",
+            "collocations": [
+                "deliciously scented: 香喷喷地",
+                "season deliciously: 味道调得很可口"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "digit",
+            "phonetic": "ˈdɪ.dʒɪt",
+            "pos": "n.",
+            "definition": "(0 到9的任一)数字；手指或足趾",
+            "frequency": 8680,
+            "collocations": [],
+            "etymology": "单词digit 源于拉丁语中表示“手指、脚趾”的单词digitus, 所以digit 的原意也是“手指、脚趾”的意思。因为几乎所有人都有用手指头 来数数的习惯，所以digit又用来表示“从0到9中的任何一个数字”, 也就是说是个位数，而单词number ( 数)则可以表示多位数。20世 纪中期，科学家们开始研发计算机。与以往使用连续模拟量的设备 不同，计算机中使用一系列离散的数字( digit) 进行运算。科学家们 将这种技术称为digital ( 数字化)技术。因此，随着计算机的广泛应 用，单词digit 和digital也得到了越来越频繁的使用。植物“洋地黄” 在英语中是digitalis。因为这种植物的花长得像手指，故此得名。 搭配：two digit: 二位的",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "digital",
+            "phonetic": "ˈdɪ.dʒɪ.təl",
+            "pos": "adj.",
+            "definition": "数码的；数字的；手指的",
+            "frequency": 2377,
+            "mnemonic": "digit (数字)+-al ( 形容词后缀) →数码的；数字的",
+            "collocations": [
+                "the digital divide: 数字鸿沟",
+                "a digital camera: 数码照相机",
+                "a digital clock/watch: 数字钟/表",
+                "digital image: 数字图象"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "digitally",
+            "phonetic": "ˈdɪ.dʒɪ.tə.li",
+            "pos": "adv.",
+            "definition": "数字化",
+            "frequency": 16722,
+            "mnemonic": "digital (数码的，数字的)+-ly ( 副词后缀) → 数字化",
+            "collocations": [
+                "digitally enabled world: 数字化世界"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "digitize",
+            "phonetic": "ˈdɪ.dʒɪ.taɪz",
+            "pos": "vt.",
+            "definition": "vt. 使……数字化",
+            "frequency": 18467,
+            "collocations": [
+                "a digitized map: 一张数字化地图"
+            ],
+            "examples": [],
+            "rootHint": "dict",
+            "mnemonic": "digit (数字)+ -ize ( 动词后缀) → 数字化"
+        },
+        {
+            "word": "disc",
+            "phonetic": "dɪsk",
+            "pos": "n.",
+            "definition": "圆盘，唱片(等于disk)vt. 灌唱片",
+            "frequency": 4832,
+            "mnemonic": "1660s,\"\"round,approximately flat surface,\"from Latin discus“quoit, discus,disk,\"from Greek diskos \"disk,quoit,platter,\"related to dikein “to throw”.The American English preferred spelling;also see disc.From 1803 as \"thin,circular plate;\"sense of“phonograph disk”is by 1888;computing sense is from 1947.Disk jockey first recorded 1941;dee-jay is from 1955;",
+            "collocations": [
+                "DJis by 1961;video version veejay is from 1982.Disk-drive is from 1952. 搭配：compact disc: 光碟机"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "edict",
+            "phonetic": "ˈiː.dɪkt",
+            "pos": "n.",
+            "definition": "命令；法令；敕令",
+            "frequency": 15857,
+            "mnemonic": "e- ( 向外)+-dict(=spea k: 说，命令) → 向外传达的命令 → 命令；法 令；敕令",
+            "collocations": [
+                "Papal edict: 教皇的勒令"
+            ],
+            "etymology": "late 15c.,edycte;earlier edit(late 13c.),“proclamation having the force of law,\"from OldFrench edit,from Latin edictum “proclamation,ordinance, edict,\"neuter past participle of edicere “publish,proclaim,\"from assimilated form of ex“out,out of”(see ex-)+dicere “to say”(from PIE root*deik-\"to show,\"also “pronouncesolemnly”).Related:Edictal.",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indicate",
+            "phonetic": "ˈɪn.də.keɪt",
+            "pos": "vt.",
+            "definition": "指出；表明；象征； 预示",
+            "frequency": 786,
+            "mnemonic": "in- ( 里 面 ) +dic-(=dict=doct: 说)+ -ate ( 动词后缀) → 在里面说， 不明说 → 暗示；表明；指出",
+            "collocations": [
+                "indicate sth to sb: 向某人提及某事"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indication",
+            "phonetic": "ˌɪn.dəˈkeɪ.ʃən",
+            "pos": "n.",
+            "definition": "表明；迹象；象征",
+            "frequency": 3401,
+            "mnemonic": "indicate(=indicate: 表明)+-ion ( 名词后缀) → 表明；迹象",
+            "collocations": [
+                "an indication of: 一个……的象征",
+                "give clear indication of: 注明",
+                "visual indication: 目 测"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indicator",
+            "phonetic": "ˈɪn.də.keɪ.tɚ",
+            "pos": "n.",
+            "definition": "指示器；压力计；[化]指示剂；[计]指示符",
+            "frequency": 3927,
+            "mnemonic": "indicat(=indicate: 表明)+-or ( 名词后缀)→指示器",
+            "collocations": [
+                "reliable indicator: 可靠指标",
+                "economic indicator: 经济指标",
+                "a depth indicator: 深度指示器"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indicative",
+            "phonetic": "ɪnˈdɪ.kə.tɪv",
+            "pos": "adj.",
+            "definition": "指示的；象征的；表示……的",
+            "frequency": 10097,
+            "mnemonic": "indicat(=indicate: 表明)+-ive ( 后缀) → 指示的；象征的",
+            "collocations": [
+                "indicative of: 表明，说明"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indict",
+            "phonetic": "ɪnˈdaɪt",
+            "pos": "vt.",
+            "definition": "控告，起诉；揭发",
+            "frequency": 6578,
+            "mnemonic": "in- ( 进入，使)+-dict(=speak , 说 ) → 控 告 ；起 诉",
+            "collocations": [
+                "indict sb for sth: 因某事控告某人",
+                "indict sb(on charges/on a charge of sth): 某人因……受到控诉"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "indictment",
+            "phonetic": "ɪnˈdaɪt.mənt",
+            "pos": "n.",
+            "definition": "控诉；控告；起诉书",
+            "frequency": 5702,
+            "mnemonic": "indict(控告，起诉)+-ment ( 名词后缀)→控诉；控告",
+            "collocations": [
+                "indict of/on sb/sth: (制度、社会等的)衰败迹象，腐败迹象"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "index",
+            "phonetic": "ˈɪn.dɛks",
+            "pos": "n.",
+            "definition": "指数；索引；指标 vt.&vi. 为……编索引；使与……挂钩",
+            "frequency": 2644,
+            "mnemonic": "index(=indic: 指示) → 指数；索引",
+            "collocations": [
+                "commodity price index: 商品价格指数",
+                "house price indexes: 房价指数",
+                "be indexed to: 使与……挂钩\n向 行judge [d3ʌdʒ] n.法官；裁判员；鉴定人vt.评判；判断；估计1119\n向 行",
+                "judging by,judging from: 根据……判断",
+                "presiding judge: 审判长；首席法官；法庭庭长",
+                "acting judge: 代理审判员"
+            ],
+            "etymology": "来自古法语jugier, 判断，审判，来自拉丁语iudicare, 判断，审判， 来自ius, 正义、公理、法律，同just,justice 。dicere, 说， 同dictate,diction 。 即依法进行判断，审理和裁决。引申词义法官， 审判员。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "judgment",
+            "phonetic": "ˈdʒʌdʒ.mənt",
+            "pos": "n.",
+            "definition": "看法；判断；裁判；辨别力",
+            "frequency": 1913,
+            "mnemonic": "judg(=judge: 审判，判断)+-ment ( 名词后缀) → 看法；判 断；裁判",
+            "collocations": [
+                "against better judgment: 明知不可取",
+                "pass judgment on: 对……做出评论",
+                "reserve judgment on: 对……保留看法"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "judgmental",
+            "phonetic": "dʒʌdʒˈmɛn.təl",
+            "pos": "adj.",
+            "definition": "妄下结论的；动辄批评人的；爱品头论足的 [含贬义]16765",
+            "mnemonic": "judgment (看法，判断)+-al ( 形容词后缀) → 审判的，判断的；评 头论足的",
+            "collocations": [
+                "judgmental methods: 判断法"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "judicial",
+            "phonetic": "dʒuˈdɪ.ʃəl",
+            "pos": "adj.",
+            "definition": "法庭的；公正的，明断的；审判上的",
+            "frequency": 3968,
+            "mnemonic": "来自拉丁语iudicare, 审判，判决，词源同judge 。即与审判相关的，\n引申词义司法的。judic- ( 法律，公正)+-ial ( 形容词后缀) → 法庭 的，公正的，明断的",
+            "collocations": [
+                ".….an independent judicial system: 一个独立的司法体系",
+                "…efforts to manipulate the judicial process: 操纵审判程序的努力 judicial review: 司法审查，复审"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "judiciary",
+            "phonetic": "dʒuˈdɪ.ʃi.ɛr.i",
+            "pos": "n.",
+            "definition": "( 统称)审判人员；司法部；司法制度adj. 司法 的；法官的；法院的",
+            "frequency": 10208,
+            "mnemonic": "judic -(法律，公正)+-i- ( 中 缀 ) + -ary ( 名词后缀，表示人、场 所、物.形容词后缀.表示属于……,与……有关) → 司法部；司法 系统；司法官",
+            "collocations": [
+                "the Judiciary: 司法部",
+                "judiciary reform: 司法改革",
+                "constitutional judiciary: 宪法审查体系",
+                "an independent judiciary: 独立的司法系统"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "judicious",
+            "phonetic": "dʒuˈdɪ.ʃəs",
+            "pos": "adj.",
+            "definition": "审慎而明智的；明断的；头脑精明的",
+            "frequency": 17625,
+            "mnemonic": "judic-(法律，公正)+-i-+-ous ( 形容词后缀)→判断公正明智的→ 审慎而明智的；明断的；头脑精明的",
+            "collocations": [
+                "ajudiciously worded letter: 一封措辞审慎的信",
+                "judicious advice: 明智的劝告"
+            ],
+            "etymology": "来自拉丁语iudicare, 审判，判决，判断，同judge。即有判断力 的，明智的，审慎的。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "jurisdiction",
+            "phonetic": "ˌdʒʊr.ɪsˈdɪk.ʃən",
+            "pos": "n.",
+            "definition": "司法权；管辖权；管辖范围",
+            "frequency": 4700,
+            "mnemonic": "juris(=ius,law,r ight)+dict( =diction,“a saying”)+-ion ( 名词\n后缀)→法官施行宣判权力的领域，司法权力涉及、管辖的范围→司 法管辖范围；司法权",
+            "collocations": [
+                "judicial authority,right of making and enforcing laws”is from early 15c. The form in English assimilated to Latin 16c.Related:Jurisdictional.",
+                "European jurisdictions: 欧洲司法辖区",
+                "territorial jurisdiction: 领土管辖权",
+                "tax jurisdiction: 税收管辖权",
+                "tax jurisdiction: 税收管辖权\n释义：(N-UNCOUNT)司法权；审判权；管辖权",
+                "Jurisdiction is the power that a court of law or an official has to carry out legal judgments or to enforce laws.",
+                "(N-COUNT)管辖区域；管辖范围",
+                "Ajurisdiction is a state or other area in which a particular court and system of laws has authority."
+            ],
+            "etymology": "early 14c.,jurisdiccioun,jurediction,etc.,\"administration of justice,\"from Old French juridicion(13c.,Modern French juridiction)and directly from Latin iurisdictionem (nominative iurisdictio)\"administration of justice, jurisdiction,\"from phrase iuris dictio,genitive of ius “law,right”(see jurist)+dictio “a saying”(from PIE root *deik-\"to show,\"also “pronounce solemnly”).Meaning “extent or range of administrative power,domain over which a legal or judicial authority extends”is from late 14c.Meaning 趣G-- 多 20000词汇巅峰速记班",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "adjudicate",
+            "phonetic": "ə.ˈdʒu.də.keɪt",
+            "pos": "vt",
+            "definition": "&vi. 判决；裁决",
+            "frequency": 19867,
+            "mnemonic": "ad- (去，往)+judic(=ius-:right,law, 法律+-dic:to say)+ate ( 动 词后缀) → (审判员)去(法庭/裁判所)根据法律庄严宣布(就案 件作出裁决)→裁判；判决",
+            "collocations": [
+                "adjudicate on/upon/in sth/adjudicate between A and B: 判决，裁决(争 执等)",
+                "… a commissioner to adjudicate on legal rights:…… 一位法权裁定专员 adjudicate claims: 裁定索赔案"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "paradigm",
+            "phonetic": "ˈpɛr.ə.daɪm",
+            "pos": "n.",
+            "definition": "典范；范例；样式；词形变化表",
+            "frequency": 5263,
+            "mnemonic": "para-(=beside: 在旁，在周围)+-dig(=to show: 指出，展示，说) +m→在旁边指出的，可以作为范例参考的→范例；典范；样式",
+            "collocations": [
+                "Latin dicere “to show;\"from PIE root *deik-\"to show,\"also “pronounce solemnly”).Related:Paradigmatic;paradigmatical.",
+                "..a new paradigm of production: 一种新的生产范例",
+                "a paradigm for students to copy 供学生效法的榜样",
+                "paradigm shift: 典范转移，思考模式的转移",
+                "verb paradigms: 动词词形变化表 释义：(N-VAR) 样板； 范式",
+                "A paradigm is a model for something which explains it or shows how it can be produced.",
+                "(N-COUNT)典范；范例",
+                "A paradigm is a clear and typical example of something."
+            ],
+            "etymology": "late 15c.,from Late Latin paradigma \"pattern,example,\"especially in grammar,from Greek paradeigma \"pattern,model;precedent,example,\" from paradeiknynai “exhibit,represent,\"literally\"show side by side,” from para-“beside”(see para-(1))+deiknynai“to show”(cognate with 20000词汇巅峰速记班",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "preach",
+            "phonetic": "pritʃ",
+            "pos": "vt.",
+            "definition": "布道；宣扬 vi.说 教n. 说教",
+            "frequency": 4867,
+            "collocations": [
+                "preach a sermon: 布 道",
+                "preach peace and tolerance: 宣扬和平和宽容",
+                "to preach the word of God: 传布上帝的道"
+            ],
+            "etymology": "来自古英语predician, 传道，布道，借自古法语preechier, 传道，布 道，来自拉丁语praedicare, 公开宣称，通知，宣布，公告。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "preacher",
+            "phonetic": "ˈpriː.tʃɚ",
+            "pos": "n.",
+            "definition": "传道士；牧师；布道者",
+            "frequency": 5808,
+            "mnemonic": "preach( 布 道 ，宣扬)+-er ( 名词后缀，表人)→布道的人→传道士 搭配：a preacher famous for her inspiring sermons: 以发人深省的讲道出名的\na lay preacher(=who is not a priest,etc.but who has been trained to give religious talks) →传 道 员",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predicament",
+            "phonetic": "prɪˈdɪ.kə.mənt",
+            "pos": "n.",
+            "definition": "困境；尴尬的处境",
+            "frequency": 9689,
+            "collocations": [
+                "place,time,posture,possession,action,passion 。 predicament 的 字面意思是“所宣称、断言的东西”,等于category, 与predict ( 预 言 ) 、predicate ( 断言、谓语)词源相同。 predicament 原本表示“范 畴”,后来词义演变为“状态、情形”,最后专指“令人难受而又难 以摆脱的情形”,即“困境、窘境”。",
+                "the club's financial predicament: 俱乐部的财政困境",
+                "in a terrible predicament: 处境十分尴尬",
+                "realistic predicament: 现实困境"
+            ],
+            "etymology": "来自拉丁语predicamentum 预测之事，分类，品质，是对古希腊哲 学家亚里士多德所提出的术语“范畴”(英语category, 希腊语 kategoria 分类)的拉丁语意译。亚里士多德对当时的社会进行分类 后创造出来的词，共十类，即being,quantity,quality,relation,",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "prejudice",
+            "phonetic": "ˈprɛ.dʒə.dɪs",
+            "pos": "n.",
+            "definition": "偏见；侵害 vt. 使……有偏见；损害",
+            "frequency": 5304,
+            "mnemonic": "pre- (在前，早于，预先)+-judic ( 判断)+-e→预先就存在的判断 →偏见",
+            "collocations": [
+                "a victim of racial prejudice: 种族偏见的受害者",
+                "prejudice against: 对……的偏见",
+                "pride and prejudice:《傲慢与偏见》",
+                "ingrained prejudice: 根深蒂固的偏见",
+                "without prejudice to: 无损于；没有对……造成不利；没有对……带 来改变\n释义：(N-VAR) 偏见；成 见",
+                "Prejudice is an unreasonable dislike of a particular group of people or things,or a preference for one group of people or things over another.\n(VERB) 使有成见；使有偏见；使出现偏袒",
+                "If you prejudice someone or something,you influence them so that they are unfair in some way.\n(VERB) 损害；危害；使更糟糕",
+                "If someone prejudices another person's situation,they do something which makes it worse than it should be.\n20000词汇巅峰速记班"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "prejudiced",
+            "phonetic": "ˈprɛ.dʒə.dɪst",
+            "pos": "adj.",
+            "definition": "怀偏见的；有成见的；偏颇的",
+            "frequency": 19985,
+            "mnemonic": "prejudice(偏见，成见)+-d ( 形容词后缀-ed去e变-d)→ 怀偏见的；",
+            "collocations": [
+                "be prejudiced against sb/sth: 对……存在偏见",
+                "prejudiced account: 带有偏见的报道"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "policy",
+            "phonetic": "ˈpɑ.lə.si",
+            "pos": "n.",
+            "definition": "政策，方针；原则；为人之道；保险契约",
+            "frequency": 389,
+            "mnemonic": "polic(=-polis -,政治)+-y ( 名词后缀)→政策；方针；原则",
+            "collocations": [
+                "Meaning \"plan ofaction,way of management\"first recorded c.1400.",
+                "policy, polity。该词为police对词，引申词义政策，主张。",
+                "policy on education: 教育政策",
+                "honesty is the best policy: 诚实为上\nmonetary/economic/foreign policy: 货币/经济/外交政策"
+            ],
+            "etymology": "来自拉丁语politia, 城市管理，来自希腊语polis, 城市，同",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "policymaker",
+            "phonetic": "ˈpɑ.lə.si.ˌmeɪ.kɚ",
+            "pos": "n.",
+            "definition": "决策者；政策制定者",
+            "frequency": 6659,
+            "mnemonic": "polic(=-polis-, 政治)+ -y ( 名词后缀)+ make ( 制 作 ，去 e)+-er (名词后缀，表人)→决策者，政策制定者",
+            "collocations": [
+                ".top economic policymakers: ……最高经济决策者们",
+                "federal policymaker: 联邦决策者"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "policy-making",
+            "phonetic": "ˈpɑ.lə.si.ˌmeɪ.kɪŋ",
+            "pos": "adj.",
+            "definition": "决策的 n. 决策",
+            "frequency": 12108,
+            "mnemonic": "policy ( 政 策 ) +making ( 制定) → 决策的，决策",
+            "collocations": [
+                "public policymaking: 公共决策",
+                "economic policymaking: 经济决策"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "predicate",
+            "phonetic": "ˈprɛ.dɪ.kət",
+            "pos": "n.",
+            "definition": "谓语 vt. 基于，取决于；表明；断言； 声明",
+            "frequency": 14104,
+            "mnemonic": "pre- (在前)+ -dicate(=dict, 来自拉丁语dicare=proclaim, 说，声 称) →在事情发生之前就说出来的 →来自拉丁语praedicare, 预测； 断言；声称",
+            "collocations": [
+                "be predicated on: 基于",
+                "释义：(N-COUNT)In some systems of grammar,the predicate of a clause is the part of it that is not the subject.For example,in “I decided what to do,” “decided what to do”is the predicate.",
+                "(V-T)If you say that one situation is predicated on another,you mean that the first situation can be true or real only if the second one is true or real."
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "phrase",
+            "phonetic": "freɪz",
+            "pos": "n.",
+            "definition": "惯用语；短语，词组v.用言语表达",
+            "frequency": 2612,
+            "mnemonic": "phrase(=-dict: 说，表达) →表达方式；短语",
+            "collocations": [
+                "turn of phrase: 表述方式",
+                "set phrase: 成 语 ，固定词组"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "phrasing",
+            "phonetic": "ˈfreɪ.zɪŋ",
+            "pos": "vt.",
+            "definition": "&n. 措辞；用语；表达法",
+            "frequency": 15935,
+            "mnemonic": "phrase (用言语表达)+-ing ( 名词后缀) →措辞；用语",
+            "collocations": [
+                "the phrasing of the report: 这份报告的措辞",
+                "infelicitous phrasing: 不贴切的措辞"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "paraphrase",
+            "phonetic": "ˈpɛr.ə.freɪz",
+            "pos": "vt.",
+            "definition": "&n.( 用更容易理解的文字)解释，释义，改述",
+            "frequency": 13249,
+            "mnemonic": "para- (在旁，在周围)+-phrase (说，告知) →在单词或句子周围换\n一种更容易理解的方式表达同样的意思→解释；释义；意译 搭配：paraphrase arguments: 改写论点",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "subtle",
+            "phonetic": "ˈsʌt.əl",
+            "pos": "adj.",
+            "definition": "不易察觉的；不露声色的；淡的；精妙的；机智的；敏 锐的",
+            "frequency": 3467,
+            "mnemonic": "from sub ( 在下面)+-tle(=-tilis:web,net,warp of a fabric,from PIE root *teks-\"to weave,\"also “to fabricate.”在经纱、网下面进行编织、制作) →需要精妙的技巧、不易觉察的耐心、不露声色的态度、机智敏锐的 头脑→精妙地；不易察觉的；不露声色的；机智敏锐的",
+            "collocations": [
+                "Old French sotil,soutil,subtil “adept,adroit;cunning,wise;detailed; well-crafted”(12c.,Modern French subtil),from Latin subtilis \"fine,thin, delicate,finely woven,\"figuratively“precise,exact,accurate,\"in taste or judgment,\"fine,keen,\"of style,“plain,simple,direct”.From early 14c. in reference to things,\"of thin consistency;\"in reference to craftsmen, \"cunning,skilled,clever;\"Depreciative sense “insidious,treacherously cunning;deceitful”is from mid-14c.Material senses of“not dense or viscous,light;pure;delicate,thin,slender;fine,consisting of small particles”are from late 14c.sotil wares were goods sold in powdered form or finely ground.Partially re-Latinized in spelling,and also by confusion with subtile.",
+                "a subtle plan 巧妙的计划",
+                "a subtle mind; 头脑敏锐的人",
+                "subtle colours/flavours/smells,etc.: 淡淡的色彩、味道、气味等"
+            ],
+            "etymology": "c.1300(mid-13c.as a surname),sotil,“penetrating;ingenious;refined” (of the mind);“sophisticated,intricate,abstruse”(of arguments),from 20000词汇巅峰速记班",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "subtlety",
+            "phonetic": "ˈsʌt.əl.ti",
+            "pos": "n.",
+            "definition": "精妙之处；微妙差异；细小但重要的地方；敏锐；巧 妙",
+            "frequency": 11332,
+            "mnemonic": "subtle (微妙的，巧妙地，敏锐地)+-ty ( 名词后缀) → 精妙之处； 敏锐；巧妙",
+            "collocations": [
+                "the subtleties of language: 语言的微妙之处",
+                "lack subtlety and depth: 缺乏微妙和深度",
+                "the subtlety of his remarks: 他话中的微妙含义"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "subtly",
+            "phonetic": "ˈsʌt.li",
+            "pos": "adv.",
+            "definition": "敏锐地；精细地；巧妙地",
+            "frequency": 9791,
+            "mnemonic": "subtle (精细的；巧妙的；敏锐的，去le)+-ly ( 副词后缀) → 敏锐 地；精细地；巧妙地",
+            "collocations": [
+                "connect subtly: 巧妙地连接在一起"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "teach",
+            "phonetic": "titʃ",
+            "pos": "vt.",
+            "definition": "vt. 教授；讲授；教导546笔 记区 / vt. 教授；讲授；教导",
+            "collocations": [
+                "teach oneself:自 学"
+            ],
+            "examples": [],
+            "rootHint": "dict",
+            "etymology": "来自古英语 taecan, 指出，展出，宣布，展示，同时，也有“做 指导，训练，分配，指导，警告，说服”等含义。来自Proto- Germanic*taikijan, 展示。来自词根deik “展示，指出”。与古英语 tacen,tacn 有关，其含义为“迹象，标志”。古英语tæcan的一般含 义为“展示，宣布，警告，劝说”,但是含义为“教导，指导，引 导”的古英语单词更多写为laæran,它是现代学习和知识学问lore这个 单词的。",
+            "frequency": 546
+        },
+        {
+            "word": "teacher",
+            "phonetic": "ˈtiː.tʃɚ",
+            "pos": "n.",
+            "definition": "教师；导师",
+            "frequency": 372,
+            "mnemonic": "teach(教授，教导)+-er ( 名词后缀，表示人)→教师",
+            "collocations": [
+                "good teacher: 良师"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "teaching",
+            "phonetic": "ˈtiː.tʃɪŋ",
+            "pos": "n.",
+            "definition": "教学；教义；学说vt.&vi. 教学；教导",
+            "frequency": 1647,
+            "mnemonic": "teach(教学，教导)+-ing ( 名词后缀，分词后缀) →教学；教导",
+            "collocations": [
+                ".….the teachings of Jesus: ……耶稣的教义",
+                "the quality of teaching: 教学质量",
+                "teaching practice; 教学实习"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "token",
+            "phonetic": "ˈtoʊkən",
+            "pos": "adj.",
+            "definition": "装样子的；作为标志的n. 象征；标志 代用币；代金券；购物卡；纪念品",
+            "frequency": 9118,
+            "collocations": [
+                "by the same token: 出于同样的原因",
+                ". .slot-machine tokens:自动贩卖机的代用币",
+                "a token gesture: 装装样子",
+                "as a token of: 作为……的标志"
+            ],
+            "etymology": "来自古英语 tacen, 符号，象征，证据，来自Proto-Germanic*taiknam, 符号，标志，来自PIE*teik, 显示，展示。Token “硬币一样的铭刻金 20000词汇巅峰速记打 属”的含义首先记录于1590年。15世纪中期token这个单词更为古老 的含义“证据”保留在by the same token这个词组中。",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "verdict",
+            "phonetic": "ˈvɝdɪkt",
+            "pos": "n.",
+            "definition": "裁决；判断；意见；结论",
+            "frequency": 4285,
+            "mnemonic": "ver-(=true: 真实的，trustworthy)+-dict(=to say: 说，讲) → (法 官)作出真实、可信赖的判断→裁决；判断；意见",
+            "collocations": [
+                "reach a verdict: 作出裁定",
+                "give their verdict on… : 就……给出意见",
+                "open verdict: 存疑判决"
+            ],
+            "etymology": "1530s,alteration of Middle English verdit (c.1300),“ a jury's decision in a case,”from Anglo-French verdit(Old French voirdit)“sworn testimony, affidavit;judgment,written record of a verdict,\"literally“a true saying or report,\"from ver,veir \"true”(from PIE root *were-o-\"true,trustworthy\") +dit,past participle of dire “to say”(from PIE root *deik-\"to show,\"also “pronounce solemnly”).Spelling influenced by Medieval Latin verdictum \"a verdict.\"",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "vindicate",
+            "phonetic": "ˈvɪndɪkeɪt",
+            "pos": "vt.",
+            "definition": "证明 … … 正确；澄清(责难或嫌疑);证明(某 人)无罪责",
+            "frequency": 13557,
+            "mnemonic": "vin-(=force: 力量，能力)+-dic-(=proclaim: 宣布，说)+-ate ( 动 词后缀) → (通过提供证明、证据)有权威、力量宣布(还某人清 白)→提供证据为……辩护、释罪，证实……有理、正当，面临非难 指责时进行防御、防守→证明……正确；澄清；证明无罪",
+            "collocations": [
+                "vindicate blame: 为罪责辩护",
+                "If a person or their decisions,actions,or ideas are vindicated,they are proved to be correct,after people have said that they were wrong."
+            ],
+            "etymology": "1620s,\"to avenge or revenge,\"from Latin vindicatus,past participle of vindicare “to stake a claim;to liberate;to act as avenger”.Meaning \"to clear from censure or doubt,by means of demonstration”is recorded from 1630s.Related:Vindicated,vindicating.",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "vindication",
+            "phonetic": "ˌvɪndɪˈkeɪʃən",
+            "pos": "n.",
+            "definition": "辩护；洗冤；证实无罪",
+            "frequency": 16866,
+            "mnemonic": "vindicat(=vindicate: 证明……正确；澄清(责难或嫌疑);证明 (某人)无罪责)+-ion ( 名词后缀)→有力量庄严宣告保护某人， (从定罪、冤屈中)释放某人，宣告某人获得释放或自由→辩护；洗 冤；证实无罪",
+            "collocations": [
+                "systems vindication: 系统验证"
+            ],
+            "etymology": "late 15c.,\"act of avenging,revenge,\"from Old French vindicacion “vengeance,revenge”and directly from Latin vindicationem(nominative vindicatio)“act of claiming or avenging,”noun of action from past participle stem of vindicare“Iay claim to,assert;claim for freedom,set free;protect,defend;avenge”(related to vindicta “revenge”).Meaning “justification by proof,defense against censure”is attested from 1640s.",
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "vindictive",
+            "phonetic": "vɪnˈdɪktɪv",
+            "pos": "adj.",
+            "definition": "想复仇的；怀恨的；惩罚的",
+            "frequency": 19131,
+            "mnemonic": "vindicat(=vindicate: 提供证据；反驳指责)+-ive ( 形容词后 缀 ) →having vengeful intent,from c.1600 as involving retribution or punishment→引申为想复仇的；报复的；怀恨的",
+            "collocations": [
+                "a vindictive comment: 报复性的言论",
+                "vindictive damage: 报复性损害",
+                "vindictive punishment: 报复性惩罚\n20000词汇巅峰速"
+            ],
+            "examples": [],
+            "rootHint": "dict"
+        },
+        {
+            "word": "didactic",
+            "phonetic": "daɪ.ˈdæk.tɪk",
+            "pos": "adj.",
+            "definition": "教诲的；道德说教的；好教训人的",
+            "frequency": 17675,
+            "mnemonic": "didact(=teach;教导)+-ic(形容词后缀)→教诲的；好教训人的",
+            "collocations": [
+                "didactic art: 道德说教艺术"
+            ],
+            "etymology": "来自希腊语 didaktos, 教导，教学艺术。后词义贬义化。",
+            "examples": [],
+            "rootHint": "dict"
+        }
+    ]
 }

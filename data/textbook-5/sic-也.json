@@ -1,54 +1,54 @@
 {
-  "chapter": "13",
-  "chapterOrder": 113,
-  "id": "sic-也",
-  "meaningEn": "follow",
-  "meaningZh": "跟随。",
-  "roots": [
-    "sic 也"
-  ],
-  "semanticLabel": "跟随。",
-  "source": "textbook-5",
-  "titleZh": "跟随。",
-  "words": [
-    {
-      "collocations": [
-        "the intrinsic value of education：教育的固有价值"
-      ],
-      "definition": "固有的；内在的；本质的",
-      "examples": [],
-      "frequency": 7566,
-      "mnemonic": "intrin（=inter：里面；内心）+ -sic-（=sec：跟随）→生下来就跟在心\n里的→固有的；内在的；本质的",
-      "phonetic": "ɪnˈtɹɪn.zɪk",
-      "pos": "adj.",
-      "rootHint": "sic 也",
-      "word": "intrinsic"
-    },
-    {
-      "collocations": [
-        "intrinsically evil：生来就是邪恶的"
-      ],
-      "definition": "本质地；内在地；固有地",
-      "examples": [],
-      "frequency": 13612,
-      "phonetic": "ɪnˈtɹɪn.zɪ.kə.li",
-      "pos": "adv.",
-      "rootHint": "sic 也",
-      "word": "intrinsically"
-    },
-    {
-      "collocations": [
-        "extrinsic factors：外在因素",
-        "extrinsic pressures：外部的压力"
-      ],
-      "definition": "非固有的；非本质的；外在的",
-      "examples": [],
-      "frequency": 16716,
-      "mnemonic": "extrin-（=outside：外面的）+ -sic（=beside, alongside：沿着；在旁）\n→在内心之外的→非固有的；非本质的；外在的",
-      "phonetic": "ɪkˈstɹɪnsɪk",
-      "pos": "adj.",
-      "rootHint": "sic 也",
-      "word": "extrinsic"
-    }
-  ]
+    "chapter": "13",
+    "chapterOrder": 113,
+    "id": "sic-也",
+    "meaningEn": "follow",
+    "meaningZh": "跟随。",
+    "roots": [
+        "sic 也"
+    ],
+    "semanticLabel": "跟随。",
+    "source": "textbook-5",
+    "titleZh": "跟随。",
+    "words": [
+        {
+            "collocations": [
+                "the intrinsic value of education：教育的固有价值"
+            ],
+            "definition": "固有的；内在的；本质的",
+            "examples": [],
+            "frequency": 7566,
+            "mnemonic": "intrin（=inter：里面；内心）+ -sic-（=sec：跟随）→生下来就跟在心\n里的→固有的；内在的；本质的",
+            "phonetic": "ɪnˈtrɪn.zɪk",
+            "pos": "adj.",
+            "rootHint": "sic 也",
+            "word": "intrinsic"
+        },
+        {
+            "collocations": [
+                "intrinsically evil：生来就是邪恶的"
+            ],
+            "definition": "本质地；内在地；固有地",
+            "examples": [],
+            "frequency": 13612,
+            "phonetic": "ɪnˈtrɪn.zɪ.kə.li",
+            "pos": "adv.",
+            "rootHint": "sic 也",
+            "word": "intrinsically"
+        },
+        {
+            "collocations": [
+                "extrinsic factors：外在因素",
+                "extrinsic pressures：外部的压力"
+            ],
+            "definition": "非固有的；非本质的；外在的",
+            "examples": [],
+            "frequency": 16716,
+            "mnemonic": "extrin-（=outside：外面的）+ -sic（=beside, alongside：沿着；在旁）\n→在内心之外的→非固有的；非本质的；外在的",
+            "phonetic": "ɪkˈstrɪnsɪk",
+            "pos": "adj.",
+            "rootHint": "sic 也",
+            "word": "extrinsic"
+        }
+    ]
 }

@@ -1,392 +1,392 @@
 {
-  "chapter": "4",
-  "chapterOrder": 104,
-  "id": "nounc",
-  "meaningZh": "呼喊，说；讲话",
-  "roots": [
-    "nounc",
-    "utter"
-  ],
-  "semanticLabel": "呼喊，说；讲话",
-  "source": "textbook-5",
-  "titleZh": "呼喊，说；讲话",
-  "words": [
-    {
-      "collocations": [
-        "announce the arrival of the train：宣布了那列火车的到达"
-      ],
-      "definition": "宣布；声明；广播",
-      "examples": [],
-      "frequency": 1167,
-      "mnemonic": "an-（=ad-=to：去）+ nounce（=to shout：呼喊）→去呼喊（公布信\n息）→宣布；声明；广播",
-      "phonetic": "əˈnaʊns",
-      "pos": "vt.",
-      "rootHint": "nounc",
-      "word": "announce"
-    },
-    {
-      "collocations": [
-        "the announcement of their engagement：他们婚约的宣布",
-        "publish brief announcements of：刊登有关……的简短通告",
-        "official announcement：官方消息"
-      ],
-      "definition": "公告；通告；宣布",
-      "examples": [],
-      "frequency": 3639,
-      "mnemonic": "announce（宣布；声明）+ -ment（名词后缀）→公告；通告；宣布",
-      "phonetic": "əˈnaʊnsmənt",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "announcement"
-    },
-    {
-      "collocations": [
-        "the radio announcer：电台播音员"
-      ],
-      "definition": "播音员；（火车站、机场的）广播员",
-      "examples": [],
-      "frequency": 8743,
-      "mnemonic": "announce（广播）+ -er（名词后缀）→播音员；广播员",
-      "phonetic": "əˈnaʊnsɚ",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "announcer"
-    },
-    {
-      "collocations": [
-        "turn up unannounced：未打招呼就出现",
-        "an unannounced increase in bus fares：汽车票价未经公告的上涨"
-      ],
-      "definition": "未事先通知的",
-      "examples": [],
-      "frequency": 16450,
-      "mnemonic": "un-（=not：不）+ announce（宣布；通知）+ -d（形容词后缀）→没",
-      "phonetic": "ˌʌnəˈnaʊnst",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "unannounced"
-    },
-    {
-      "collocations": [
-        "denounce the project as a waste of public money：斥责这项工程为挥霍",
-        "denounce their neighbors to the secret police：向秘密警察告发自己的\n邻居\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "谴责；指责；告发",
-      "examples": [],
-      "frequency": 6070,
-      "mnemonic": "de-（=down：向下）+ -nounce（=to shout：呼喊）→即（站在道德制\n高点）向下呼喊→引申词义谴责；指责；告发",
-      "phonetic": "dɪ.ˈnaʊns",
-      "pos": "vt.",
-      "rootHint": "nounc",
-      "word": "denounce"
-    },
-    {
-      "collocations": [
-        "write a denunciation of his critics：写了一篇针对他的批评者的谴责书",
-        "the denunciation of French Jews to the Nazis；向纳粹告发法国犹太人"
-      ],
-      "definition": "公开谴责；指责；告发",
-      "examples": [],
-      "frequency": 17048,
-      "mnemonic": "denunci（=denounce：谴责；告发）+ -ation（复合名词后缀）→公开",
-      "phonetic": "dɪ.ˌnʌn.si.ˈeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "denunciation"
-    },
-    {
-      "collocations": [
-        "pronounce my name correctly：把我的名字念正确",
-        "pronounce on：对……发表意见",
-        "pronounce sb. fully fit：宣布某人完全康复",
-        "pronounce you man and wife （=in a marriage ceremony）：宣布你们结\n为夫妻"
-      ],
-      "definition": "发（某字或词的）音；正式宣布（或公布、授予等）",
-      "examples": [],
-      "frequency": 5402,
-      "mnemonic": "pro-（=forth, out, in public：向前；公开）+ -nounc-（=to shout：呼\n喊）+ -e→公开呼喊发音（发音需要一字一词清楚地表达）；公开宣",
-      "phonetic": "pɹəˈnaʊns",
-      "pos": "vt.",
-      "rootHint": "nounc",
-      "word": "pronounce"
-    },
-    {
-      "collocations": [
-        "very pronounced views on art：非常明确的艺术观",
-        "a pronounced Polish accent：明显的波兰口音"
-      ],
-      "definition": "明显的；显著的；表达明确的",
-      "examples": [],
-      "frequency": 7840,
-      "mnemonic": "pronounce（正式宣布，去e）+ -d（-ed形容词后缀去e）→正式宣布的\n说明是明确表达的，不含糊的→明显的；显著的；表达明确的",
-      "phonetic": "pɹəˈnaʊnst",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "pronounced"
-    },
-    {
-      "collocations": [
-        "every pronouncement：每一个声明",
-        "the Pope’s last pronouncement on birth control：罗马教皇关于控制生育",
-        "statements on an important subject.\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "声明；公告",
-      "examples": [],
-      "frequency": 10899,
-      "mnemonic": "pronounce（宣布；公布）+ -ment（名词后缀）→声明；公告",
-      "phonetic": "pɹəˈnaʊns.mənt",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "pronouncement"
-    },
-    {
-      "collocations": [
-        "French pronunciation：法语发音",
-        "way in which it is pronounced.\n笔 记 区"
-      ],
-      "definition": "发音；读法",
-      "examples": [],
-      "frequency": 15986,
-      "mnemonic": "pro-（向前；公开）+ -nunci-（=-nounc-=to speak：说）+-ation（名词\n后缀）→公开说出来→发音；读法",
-      "phonetic": "pɹəˌnʌn.siˈeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "pronunciation"
-    },
-    {
-      "collocations": [
-        "renounce terrorism：宣布放弃恐怖主义",
-        "to renounce ideals / principles / beliefs, etc.：宣布放弃理想、原则、信仰\n等",
-        "renounce his former associates：宣布与过去的伙伴拆伙"
-      ],
-      "definition": "宣布放弃（信仰、行为方式）；宣布与……决裂；宣布断绝与……的关系",
-      "examples": [],
-      "frequency": 10920,
-      "mnemonic": "re-（=against：反对；违反）+ -nounc（说话）+ e→give up, bring back\nword：与之前说过的话相违背，即收回已经说过的话→引申词义宣",
-      "phonetic": "ɹɪˈnaʊns",
-      "pos": "vt.",
-      "rootHint": "nounc",
-      "word": "renounce"
-    },
-    {
-      "collocations": [
-        "enunciate each word slowly and carefully：每个字都念得又慢又仔细",
-        "enunciate his vision of the future：阐明了自己对未来的看法\n单词 marry 的含义为“娶、嫁、结婚”。",
-        "also intransitive, “to enter into the conjugal state, take a husband or wife,”",
-        "from Old French marier “to get married; to marry off, give in marriage; to",
-        "bring together in marriage,” from Latin marītāre “to wed, marry, give in\nmarriage” (source of Italian maritare, Spanish and Portuguese maridar).\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "&vi. 清楚地念（字）；清晰地发（音）；清楚地表明；阐明",
-      "etymology": "c. 1300, marien, of parents or superiors, “to give (offspring) in marriage,”",
-      "examples": [],
-      "frequency": 17608,
-      "mnemonic": "e-（=ex-：向外）+ nunci（-nounc-：说话）+ -ate（动词后缀）→向外\n面说话→引申义清晰的发音；清楚地表明",
-      "phonetic": "ɪ.ˈnʌn.si.eɪt",
-      "pos": "vt.",
-      "rootHint": "nounc",
-      "word": "enunciate"
-    },
-    {
-      "collocations": [
-        "bring together in marriage”。来自拉丁语 marītāre “to wed, marry, give in\nmarriage”。",
-        "marry sb. to sb.：把……嫁给；为……娶亲",
-        "marry sth. and / to / with sth.：（使不同的事物、观点等）相结合，结",
-        "marry in haste, repent in leisure：草草结婚后悔多",
-        "marry into sth ...：因结婚而成为（家庭或团体的）成员"
-      ],
-      "definition": "-recip （相互动词）.结婚 vt. 为……主持婚礼；紧密联合",
-      "etymology": "来自古法语marier “to get married; to marry off, give in marriage; to",
-      "examples": [],
-      "frequency": 1340,
-      "phonetic": "ˈmɛɹ.i",
-      "pos": "v",
-      "rootHint": "nounc",
-      "word": "marry"
-    },
-    {
-      "collocations": [
-        "happy marriage：美满的婚姻",
-        "marriage certificate：结婚证书"
-      ],
-      "definition": "婚姻；结婚；婚礼",
-      "examples": [],
-      "frequency": 1014,
-      "mnemonic": "marri（=marry：结婚）+ -age（名词后缀）→婚姻；结婚；婚礼",
-      "phonetic": "ˈmɛɹ.ɪdʒ",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "marriage"
-    },
-    {
-      "collocations": [
-        "be married to one’s job：对工作全身心投入",
-        "get married：结婚"
-      ],
-      "definition": "已婚的；婚姻的；夫妻的；献身的",
-      "examples": [],
-      "frequency": 1619,
-      "mnemonic": "marri（=marry：结婚）+ -ed（形容词后缀）→已婚的；婚姻的；夫",
-      "phonetic": "ˈmɛɹ.id",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "married"
-    },
-    {
-      "collocations": [
-        "an unmarried mother：未婚母亲",
-        "unmarried pregnancy：未婚怀孕"
-      ],
-      "definition": "未婚的；独身的",
-      "examples": [],
-      "frequency": 9692,
-      "phonetic": "ˌʌnˈmæɹid",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "unmarried"
-    },
-    {
-      "collocations": [
-        "remarry his first wife：和他的第一任妻子复婚"
-      ],
-      "definition": "&vi. 再婚",
-      "examples": [],
-      "frequency": 11226,
-      "mnemonic": "re-（=back, again：再次）+ marry（结婚）→再婚",
-      "phonetic": "ˌɹiˈmæɹ.i",
-      "pos": "vt",
-      "rootHint": "nounc",
-      "word": "remarry"
-    },
-    {
-      "collocations": [
-        "marital difficulties / breakdown：婚姻纠葛 / 破裂",
-        "marital status：婚姻状况\n笔 记 区"
-      ],
-      "definition": "婚姻的；夫妻关系的",
-      "etymology": "来源于拉丁语marius（已婚男人；丈夫）。",
-      "examples": [],
-      "frequency": 6333,
-      "mnemonic": "marit（=husband：丈夫）+ -al（形容词后缀）→与丈夫有关的→婚姻",
-      "phonetic": "ˈmɛɹ.ə.təl",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "marital"
-    },
-    {
-      "collocations": [
-        "an extramarital affair：婚外恋",
-        "extramarital love：婚外恋"
-      ],
-      "definition": "婚外的",
-      "examples": [],
-      "frequency": 18083,
-      "mnemonic": "extra-（outside, beyond the scope of：外面的；超过范围的）+marital\n（婚姻的）→超过婚姻范围的，在婚姻之外发生的→婚外的",
-      "phonetic": "ˌɛkstɹəˈmɛɹɪtəl",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "extramarital"
-    },
-    {
-      "collocations": [
-        "premarital agreement：婚前协议",
-        "related to māne “early, of the morning,” 来自原始印欧语（PIE）词根\nmeh-tu- “ripeness.”"
-      ],
-      "definition": "婚前的",
-      "etymology": "15世纪中期, of plants, “cause to ripen, bring to maturity,” 来自拉丁语 mātūrare “to ripen, bring to maturity,” 来自mātūrus “ripe, timely, early,”",
-      "examples": [],
-      "frequency": 19754,
-      "mnemonic": "pre-（在前；早于）+ marital（婚姻的）→早于婚姻的，在婚姻之前\n的→婚前的",
-      "phonetic": "ˌpɹiˈmæɹ.ə.təl",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "premarital"
-    },
-    {
-      "collocations": [
-        "have matured way beyond their age：成熟得远远超过了他们的年龄",
-        "emotionally mature：情感上成熟\n笔 记 区\n20000 词汇巅峰\n速\n记",
-        "mature physically：身体发育成熟",
-        "mature market economy：成熟的市场经济"
-      ],
-      "definition": "（小孩、幼崽）发育成熟；（某物）长成；成熟 adj.成熟的 vt.&vi. 使酿熟；酿成",
-      "etymology": "来自拉丁语mātūrare “to ripen, bring to maturity,” 来自mātūrus ripe。原 用于水果成熟的，后引申词义人成年的，成熟的。",
-      "examples": [],
-      "frequency": 5201,
-      "phonetic": "məˈtʃʊɹ",
-      "pos": "vi.",
-      "rootHint": "nounc",
-      "word": "mature"
-    },
-    {
-      "collocations": [
-        "experience a delayed maturity：经历着一个迟来的成熟",
-        "show great maturity and humanity：显示出十足的成熟和博爱",
-        "worth on maturity：（保险单）到期时的价值"
-      ],
-      "definition": "发育成熟；（性格、情感）成熟；（保险单、债券等的）到期",
-      "examples": [],
-      "frequency": 6505,
-      "mnemonic": "matur（=mature；成熟的）+ -ity（名词后缀）→发育成熟；（性格、",
-      "phonetic": "məˈtʃʊɹ.ə.ti",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "maturity"
-    },
-    {
-      "collocations": [
-        "premature death：非自然死亡",
-        "premature delivery：早产"
-      ],
-      "definition": "过早的；不成熟的；早产的",
-      "examples": [],
-      "frequency": 6985,
-      "mnemonic": "pre-（前；先）+ mature（成熟的）→在成熟之前的→不成熟的→引",
-      "phonetic": "ˌpɹi.məˈtʊɹ",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "premature"
-    },
-    {
-      "collocations": [
-        "swamp prematurely：过早地淹没",
-        "terminate prematurely：提前终止"
-      ],
-      "definition": "过早地",
-      "examples": [],
-      "frequency": 11993,
-      "mnemonic": "premature（过早的）+ -ly（副词后缀）→过早地",
-      "phonetic": "ˌpɹi.məˈtʊɹ.li",
-      "pos": "adv.",
-      "rootHint": "nounc",
-      "word": "prematurely"
-    },
-    {
-      "collocations": [
-        "emotionally immature：情感上不成熟",
-        "be childish and immature：小孩子气，太冒失了"
-      ],
-      "definition": "未发育完全的；不成熟的；冒失的",
-      "examples": [],
-      "frequency": 12016,
-      "mnemonic": "im-（=not, opposite of：不；反面的）+mature（=ripe, timely：成熟\n的；适时的）→成熟的反面，不适时的→未发育完全的；不成熟的；",
-      "phonetic": "ˌɪ.məˈtʃʊɹ",
-      "pos": "adj.",
-      "rootHint": "nounc",
-      "word": "immature"
-    },
-    {
-      "collocations": [
-        "the period of maturation：酿熟期",
-        "maturation period：成熟期\n笔 记 区"
-      ],
-      "definition": "（葡萄酒或奶酪等的）酿熟过程；（身体的）发育成熟",
-      "examples": [],
-      "frequency": 16192,
-      "mnemonic": "mature（成熟）+ -ation（名词后缀，表状态）→用于指成熟过程→",
-      "phonetic": "ˌmæ.tʃəˈɹeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "nounc",
-      "word": "maturation"
-    }
-  ]
+    "chapter": "4",
+    "chapterOrder": 104,
+    "id": "nounc",
+    "meaningZh": "呼喊，说；讲话",
+    "roots": [
+        "nounc",
+        "utter"
+    ],
+    "semanticLabel": "呼喊，说；讲话",
+    "source": "textbook-5",
+    "titleZh": "呼喊，说；讲话",
+    "words": [
+        {
+            "collocations": [
+                "announce the arrival of the train：宣布了那列火车的到达"
+            ],
+            "definition": "宣布；声明；广播",
+            "examples": [],
+            "frequency": 1167,
+            "mnemonic": "an-（=ad-=to：去）+ nounce（=to shout：呼喊）→去呼喊（公布信\n息）→宣布；声明；广播",
+            "phonetic": "əˈnaʊns",
+            "pos": "vt.",
+            "rootHint": "nounc",
+            "word": "announce"
+        },
+        {
+            "collocations": [
+                "the announcement of their engagement：他们婚约的宣布",
+                "publish brief announcements of：刊登有关……的简短通告",
+                "official announcement：官方消息"
+            ],
+            "definition": "公告；通告；宣布",
+            "examples": [],
+            "frequency": 3639,
+            "mnemonic": "announce（宣布；声明）+ -ment（名词后缀）→公告；通告；宣布",
+            "phonetic": "əˈnaʊnsmənt",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "announcement"
+        },
+        {
+            "collocations": [
+                "the radio announcer：电台播音员"
+            ],
+            "definition": "播音员；（火车站、机场的）广播员",
+            "examples": [],
+            "frequency": 8743,
+            "mnemonic": "announce（广播）+ -er（名词后缀）→播音员；广播员",
+            "phonetic": "əˈnaʊnsɚ",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "announcer"
+        },
+        {
+            "collocations": [
+                "turn up unannounced：未打招呼就出现",
+                "an unannounced increase in bus fares：汽车票价未经公告的上涨"
+            ],
+            "definition": "未事先通知的",
+            "examples": [],
+            "frequency": 16450,
+            "mnemonic": "un-（=not：不）+ announce（宣布；通知）+ -d（形容词后缀）→没",
+            "phonetic": "ˌʌnəˈnaʊnst",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "unannounced"
+        },
+        {
+            "collocations": [
+                "denounce the project as a waste of public money：斥责这项工程为挥霍",
+                "denounce their neighbors to the secret police：向秘密警察告发自己的\n邻居\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "谴责；指责；告发",
+            "examples": [],
+            "frequency": 6070,
+            "mnemonic": "de-（=down：向下）+ -nounce（=to shout：呼喊）→即（站在道德制\n高点）向下呼喊→引申词义谴责；指责；告发",
+            "phonetic": "dɪ.ˈnaʊns",
+            "pos": "vt.",
+            "rootHint": "nounc",
+            "word": "denounce"
+        },
+        {
+            "collocations": [
+                "write a denunciation of his critics：写了一篇针对他的批评者的谴责书",
+                "the denunciation of French Jews to the Nazis；向纳粹告发法国犹太人"
+            ],
+            "definition": "公开谴责；指责；告发",
+            "examples": [],
+            "frequency": 17048,
+            "mnemonic": "denunci（=denounce：谴责；告发）+ -ation（复合名词后缀）→公开",
+            "phonetic": "dɪ.ˌnʌn.si.ˈeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "denunciation"
+        },
+        {
+            "collocations": [
+                "pronounce my name correctly：把我的名字念正确",
+                "pronounce on：对……发表意见",
+                "pronounce sb. fully fit：宣布某人完全康复",
+                "pronounce you man and wife （=in a marriage ceremony）：宣布你们结\n为夫妻"
+            ],
+            "definition": "发（某字或词的）音；正式宣布（或公布、授予等）",
+            "examples": [],
+            "frequency": 5402,
+            "mnemonic": "pro-（=forth, out, in public：向前；公开）+ -nounc-（=to shout：呼\n喊）+ -e→公开呼喊发音（发音需要一字一词清楚地表达）；公开宣",
+            "phonetic": "prəˈnaʊns",
+            "pos": "vt.",
+            "rootHint": "nounc",
+            "word": "pronounce"
+        },
+        {
+            "collocations": [
+                "very pronounced views on art：非常明确的艺术观",
+                "a pronounced Polish accent：明显的波兰口音"
+            ],
+            "definition": "明显的；显著的；表达明确的",
+            "examples": [],
+            "frequency": 7840,
+            "mnemonic": "pronounce（正式宣布，去e）+ -d（-ed形容词后缀去e）→正式宣布的\n说明是明确表达的，不含糊的→明显的；显著的；表达明确的",
+            "phonetic": "prəˈnaʊnst",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "pronounced"
+        },
+        {
+            "collocations": [
+                "every pronouncement：每一个声明",
+                "the Pope’s last pronouncement on birth control：罗马教皇关于控制生育",
+                "statements on an important subject.\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "声明；公告",
+            "examples": [],
+            "frequency": 10899,
+            "mnemonic": "pronounce（宣布；公布）+ -ment（名词后缀）→声明；公告",
+            "phonetic": "prəˈnaʊns.mənt",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "pronouncement"
+        },
+        {
+            "collocations": [
+                "French pronunciation：法语发音",
+                "way in which it is pronounced.\n笔 记 区"
+            ],
+            "definition": "发音；读法",
+            "examples": [],
+            "frequency": 15986,
+            "mnemonic": "pro-（向前；公开）+ -nunci-（=-nounc-=to speak：说）+-ation（名词\n后缀）→公开说出来→发音；读法",
+            "phonetic": "prəˌnʌn.siˈeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "pronunciation"
+        },
+        {
+            "collocations": [
+                "renounce terrorism：宣布放弃恐怖主义",
+                "to renounce ideals / principles / beliefs, etc.：宣布放弃理想、原则、信仰\n等",
+                "renounce his former associates：宣布与过去的伙伴拆伙"
+            ],
+            "definition": "宣布放弃（信仰、行为方式）；宣布与……决裂；宣布断绝与……的关系",
+            "examples": [],
+            "frequency": 10920,
+            "mnemonic": "re-（=against：反对；违反）+ -nounc（说话）+ e→give up, bring back\nword：与之前说过的话相违背，即收回已经说过的话→引申词义宣",
+            "phonetic": "rɪˈnaʊns",
+            "pos": "vt.",
+            "rootHint": "nounc",
+            "word": "renounce"
+        },
+        {
+            "collocations": [
+                "enunciate each word slowly and carefully：每个字都念得又慢又仔细",
+                "enunciate his vision of the future：阐明了自己对未来的看法\n单词 marry 的含义为“娶、嫁、结婚”。",
+                "also intransitive, “to enter into the conjugal state, take a husband or wife,”",
+                "from Old French marier “to get married; to marry off, give in marriage; to",
+                "bring together in marriage,” from Latin marītāre “to wed, marry, give in\nmarriage” (source of Italian maritare, Spanish and Portuguese maridar).\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "&vi. 清楚地念（字）；清晰地发（音）；清楚地表明；阐明",
+            "etymology": "c. 1300, marien, of parents or superiors, “to give (offspring) in marriage,”",
+            "examples": [],
+            "frequency": 17608,
+            "mnemonic": "e-（=ex-：向外）+ nunci（-nounc-：说话）+ -ate（动词后缀）→向外\n面说话→引申义清晰的发音；清楚地表明",
+            "phonetic": "ɪ.ˈnʌn.si.eɪt",
+            "pos": "vt.",
+            "rootHint": "nounc",
+            "word": "enunciate"
+        },
+        {
+            "collocations": [
+                "bring together in marriage”。来自拉丁语 marītāre “to wed, marry, give in\nmarriage”。",
+                "marry sb. to sb.：把……嫁给；为……娶亲",
+                "marry sth. and / to / with sth.：（使不同的事物、观点等）相结合，结",
+                "marry in haste, repent in leisure：草草结婚后悔多",
+                "marry into sth ...：因结婚而成为（家庭或团体的）成员"
+            ],
+            "definition": "-recip （相互动词）.结婚 vt. 为……主持婚礼；紧密联合",
+            "etymology": "来自古法语marier “to get married; to marry off, give in marriage; to",
+            "examples": [],
+            "frequency": 1340,
+            "phonetic": "ˈmɛr.i",
+            "pos": "v",
+            "rootHint": "nounc",
+            "word": "marry"
+        },
+        {
+            "collocations": [
+                "happy marriage：美满的婚姻",
+                "marriage certificate：结婚证书"
+            ],
+            "definition": "婚姻；结婚；婚礼",
+            "examples": [],
+            "frequency": 1014,
+            "mnemonic": "marri（=marry：结婚）+ -age（名词后缀）→婚姻；结婚；婚礼",
+            "phonetic": "ˈmɛr.ɪdʒ",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "marriage"
+        },
+        {
+            "collocations": [
+                "be married to one’s job：对工作全身心投入",
+                "get married：结婚"
+            ],
+            "definition": "已婚的；婚姻的；夫妻的；献身的",
+            "examples": [],
+            "frequency": 1619,
+            "mnemonic": "marri（=marry：结婚）+ -ed（形容词后缀）→已婚的；婚姻的；夫",
+            "phonetic": "ˈmɛr.id",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "married"
+        },
+        {
+            "collocations": [
+                "an unmarried mother：未婚母亲",
+                "unmarried pregnancy：未婚怀孕"
+            ],
+            "definition": "未婚的；独身的",
+            "examples": [],
+            "frequency": 9692,
+            "phonetic": "ˌʌnˈmæriːd",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "unmarried"
+        },
+        {
+            "collocations": [
+                "remarry his first wife：和他的第一任妻子复婚"
+            ],
+            "definition": "&vi. 再婚",
+            "examples": [],
+            "frequency": 11226,
+            "mnemonic": "re-（=back, again：再次）+ marry（结婚）→再婚",
+            "phonetic": "ˌriːˈmær.i",
+            "pos": "vt",
+            "rootHint": "nounc",
+            "word": "remarry"
+        },
+        {
+            "collocations": [
+                "marital difficulties / breakdown：婚姻纠葛 / 破裂",
+                "marital status：婚姻状况\n笔 记 区"
+            ],
+            "definition": "婚姻的；夫妻关系的",
+            "etymology": "来源于拉丁语marius（已婚男人；丈夫）。",
+            "examples": [],
+            "frequency": 6333,
+            "mnemonic": "marit（=husband：丈夫）+ -al（形容词后缀）→与丈夫有关的→婚姻",
+            "phonetic": "ˈmɛr.ə.təl",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "marital"
+        },
+        {
+            "collocations": [
+                "an extramarital affair：婚外恋",
+                "extramarital love：婚外恋"
+            ],
+            "definition": "婚外的",
+            "examples": [],
+            "frequency": 18083,
+            "mnemonic": "extra-（outside, beyond the scope of：外面的；超过范围的）+marital\n（婚姻的）→超过婚姻范围的，在婚姻之外发生的→婚外的",
+            "phonetic": "ˌɛkstrəˈmɛrɪtəl",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "extramarital"
+        },
+        {
+            "collocations": [
+                "premarital agreement：婚前协议",
+                "related to māne “early, of the morning,” 来自原始印欧语（PIE）词根\nmeh-tu- “ripeness.”"
+            ],
+            "definition": "婚前的",
+            "etymology": "15世纪中期, of plants, “cause to ripen, bring to maturity,” 来自拉丁语 mātūrare “to ripen, bring to maturity,” 来自mātūrus “ripe, timely, early,”",
+            "examples": [],
+            "frequency": 19754,
+            "mnemonic": "pre-（在前；早于）+ marital（婚姻的）→早于婚姻的，在婚姻之前\n的→婚前的",
+            "phonetic": "ˌpriːˈmær.ə.təl",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "premarital"
+        },
+        {
+            "collocations": [
+                "have matured way beyond their age：成熟得远远超过了他们的年龄",
+                "emotionally mature：情感上成熟\n笔 记 区\n20000 词汇巅峰\n速\n记",
+                "mature physically：身体发育成熟",
+                "mature market economy：成熟的市场经济"
+            ],
+            "definition": "（小孩、幼崽）发育成熟；（某物）长成；成熟 adj.成熟的 vt.&vi. 使酿熟；酿成",
+            "etymology": "来自拉丁语mātūrare “to ripen, bring to maturity,” 来自mātūrus ripe。原 用于水果成熟的，后引申词义人成年的，成熟的。",
+            "examples": [],
+            "frequency": 5201,
+            "phonetic": "məˈtʃʊr",
+            "pos": "vi.",
+            "rootHint": "nounc",
+            "word": "mature"
+        },
+        {
+            "collocations": [
+                "experience a delayed maturity：经历着一个迟来的成熟",
+                "show great maturity and humanity：显示出十足的成熟和博爱",
+                "worth on maturity：（保险单）到期时的价值"
+            ],
+            "definition": "发育成熟；（性格、情感）成熟；（保险单、债券等的）到期",
+            "examples": [],
+            "frequency": 6505,
+            "mnemonic": "matur（=mature；成熟的）+ -ity（名词后缀）→发育成熟；（性格、",
+            "phonetic": "məˈtʃʊr.ə.ti",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "maturity"
+        },
+        {
+            "collocations": [
+                "premature death：非自然死亡",
+                "premature delivery：早产"
+            ],
+            "definition": "过早的；不成熟的；早产的",
+            "examples": [],
+            "frequency": 6985,
+            "mnemonic": "pre-（前；先）+ mature（成熟的）→在成熟之前的→不成熟的→引",
+            "phonetic": "ˌpriː.məˈtʊr",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "premature"
+        },
+        {
+            "collocations": [
+                "swamp prematurely：过早地淹没",
+                "terminate prematurely：提前终止"
+            ],
+            "definition": "过早地",
+            "examples": [],
+            "frequency": 11993,
+            "mnemonic": "premature（过早的）+ -ly（副词后缀）→过早地",
+            "phonetic": "ˌpriː.məˈtʊr.li",
+            "pos": "adv.",
+            "rootHint": "nounc",
+            "word": "prematurely"
+        },
+        {
+            "collocations": [
+                "emotionally immature：情感上不成熟",
+                "be childish and immature：小孩子气，太冒失了"
+            ],
+            "definition": "未发育完全的；不成熟的；冒失的",
+            "examples": [],
+            "frequency": 12016,
+            "mnemonic": "im-（=not, opposite of：不；反面的）+mature（=ripe, timely：成熟\n的；适时的）→成熟的反面，不适时的→未发育完全的；不成熟的；",
+            "phonetic": "ˌɪ.məˈtʃʊr",
+            "pos": "adj.",
+            "rootHint": "nounc",
+            "word": "immature"
+        },
+        {
+            "collocations": [
+                "the period of maturation：酿熟期",
+                "maturation period：成熟期\n笔 记 区"
+            ],
+            "definition": "（葡萄酒或奶酪等的）酿熟过程；（身体的）发育成熟",
+            "examples": [],
+            "frequency": 16192,
+            "mnemonic": "mature（成熟）+ -ation（名词后缀，表状态）→用于指成熟过程→",
+            "phonetic": "ˌmæ.tʃəˈreɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "nounc",
+            "word": "maturation"
+        }
+    ]
 }

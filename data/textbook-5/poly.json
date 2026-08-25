@@ -1,112 +1,112 @@
 {
-  "chapter": "28",
-  "chapterOrder": 128,
-  "id": "poly",
-  "meaningEn": "many",
-  "meaningZh": "多；复；聚。",
-  "roots": [
-    "poly"
-  ],
-  "semanticLabel": "多；复；聚。",
-  "source": "textbook-5",
-  "titleZh": "多；复；聚。",
-  "words": [
-    {
-      "collocations": [
-        "polymer material：高分子材料"
-      ],
-      "definition": "聚合物",
-      "examples": [],
-      "frequency": 10508,
-      "mnemonic": "poly-（=many：多，复，聚）+-mer（=part：部分）→各部分聚合在\n一起→聚合物",
-      "phonetic": "ˈpɑ.lɪ.mɚ",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "polymer"
-    },
-    {
-      "collocations": [
-        "a green polyester shirt：一件绿色的涤纶衬衫",
-        "polyester fiber：聚酯纤维"
-      ],
-      "definition": "聚酯纤维；涤纶",
-      "examples": [],
-      "frequency": 13703,
-      "mnemonic": "poly（polymer：聚合物）+ ester（酯）→聚酯纤维；涤纶",
-      "phonetic": "ˌpɑ.liˈɛs.tɚ",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "polyester"
-    },
-    {
-      "collocations": [
-        "pass a polygraph test：通过了测谎实验"
-      ],
-      "definition": "测谎器；测谎实验",
-      "examples": [],
-      "frequency": 15616,
-      "mnemonic": "poly-（=many：多，复，聚）+ -graph（写；记录）→通过人在回答不",
-      "phonetic": "ˈpɑ.li.ɡɹæf",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "polygraph"
-    },
-    {
-      "collocations": [
-        "ban polygamy：取消了一夫多妻（制）"
-      ],
-      "definition": "一夫多妻（制）",
-      "examples": [],
-      "frequency": 19505,
-      "mnemonic": "poly-（=many：多）+ -gamy（=marriage：婚姻）→often married：\n（男人）经常结婚→一夫多妻（制）\n+ -y（名词后缀，表状态）→男人/丈夫多的女人→一妻多夫（制）",
-      "phonetic": "pəˈlɪ.ɡə.mi",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "polygamy"
-    },
-    {
-      "collocations": [
-        "nasal polyp：[医]鼻息肉"
-      ],
-      "definition": "息肉；水螅",
-      "etymology": "c. 1400, “nasal tumor,” 来自中世纪法语polype 并直接来自拉丁语 polypus “cuttlefish”, also “nasal tumor”，含义为“墨鱼，鼻息肉”。来 自希腊语polypos “octopus, cuttlefish”，含义为“章鱼，墨鱼”。",
-      "examples": [],
-      "frequency": 19158,
-      "phonetic": "ˈpɑ.lɪp",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "polyp"
-    },
-    {
-      "collocations": [
-        "multitude; troop, army”.",
-        "folk art：民间艺术",
-        "folk medicine：民间医药\n笔 记 区"
-      ],
-      "definition": "人们；家人（复数）；亲属（复数） adj. 传统民间的；民俗的",
-      "etymology": "来自古英语folc “common people, laity; men; people, nation, tribe;",
-      "examples": [],
-      "frequency": 1346,
-      "mnemonic": "folk：common people：普通人→人们；民间的",
-      "phonetic": "foʊk",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "folk"
-    },
-    {
-      "collocations": [
-        "Chinese folklore：中国民间传说",
-        "Irish / Indian folklore：爱尔兰 / 印度民俗"
-      ],
-      "definition": "民间传说；民俗",
-      "etymology": "“traditional beliefs and customs of the common people,” 1846.",
-      "examples": [],
-      "frequency": 11706,
-      "mnemonic": "folk（传统民间的）+ lore（=what is taught, learning：教；习俗）→民\n间一代流传给下一代的传说，普通人的学问知识→民间传说；民俗",
-      "phonetic": "ˈfoʊklɔɹ",
-      "pos": "n.",
-      "rootHint": "poly",
-      "word": "folklore"
-    }
-  ]
+    "chapter": "28",
+    "chapterOrder": 128,
+    "id": "poly",
+    "meaningEn": "many",
+    "meaningZh": "多；复；聚。",
+    "roots": [
+        "poly"
+    ],
+    "semanticLabel": "多；复；聚。",
+    "source": "textbook-5",
+    "titleZh": "多；复；聚。",
+    "words": [
+        {
+            "collocations": [
+                "polymer material：高分子材料"
+            ],
+            "definition": "聚合物",
+            "examples": [],
+            "frequency": 10508,
+            "mnemonic": "poly-（=many：多，复，聚）+-mer（=part：部分）→各部分聚合在\n一起→聚合物",
+            "phonetic": "ˈpɑ.lɪ.mɚ",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "polymer"
+        },
+        {
+            "collocations": [
+                "a green polyester shirt：一件绿色的涤纶衬衫",
+                "polyester fiber：聚酯纤维"
+            ],
+            "definition": "聚酯纤维；涤纶",
+            "examples": [],
+            "frequency": 13703,
+            "mnemonic": "poly（polymer：聚合物）+ ester（酯）→聚酯纤维；涤纶",
+            "phonetic": "ˌpɑ.liˈɛs.tɚ",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "polyester"
+        },
+        {
+            "collocations": [
+                "pass a polygraph test：通过了测谎实验"
+            ],
+            "definition": "测谎器；测谎实验",
+            "examples": [],
+            "frequency": 15616,
+            "mnemonic": "poly-（=many：多，复，聚）+ -graph（写；记录）→通过人在回答不",
+            "phonetic": "ˈpɑ.li.ɡræf",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "polygraph"
+        },
+        {
+            "collocations": [
+                "ban polygamy：取消了一夫多妻（制）"
+            ],
+            "definition": "一夫多妻（制）",
+            "examples": [],
+            "frequency": 19505,
+            "mnemonic": "poly-（=many：多）+ -gamy（=marriage：婚姻）→often married：\n（男人）经常结婚→一夫多妻（制）\n+ -y（名词后缀，表状态）→男人/丈夫多的女人→一妻多夫（制）",
+            "phonetic": "pəˈlɪ.ɡə.mi",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "polygamy"
+        },
+        {
+            "collocations": [
+                "nasal polyp：[医]鼻息肉"
+            ],
+            "definition": "息肉；水螅",
+            "etymology": "c. 1400, “nasal tumor,” 来自中世纪法语polype 并直接来自拉丁语 polypus “cuttlefish”, also “nasal tumor”，含义为“墨鱼，鼻息肉”。来 自希腊语polypos “octopus, cuttlefish”，含义为“章鱼，墨鱼”。",
+            "examples": [],
+            "frequency": 19158,
+            "phonetic": "ˈpɑ.lɪp",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "polyp"
+        },
+        {
+            "collocations": [
+                "multitude; troop, army”.",
+                "folk art：民间艺术",
+                "folk medicine：民间医药\n笔 记 区"
+            ],
+            "definition": "人们；家人（复数）；亲属（复数） adj. 传统民间的；民俗的",
+            "etymology": "来自古英语folc “common people, laity; men; people, nation, tribe;",
+            "examples": [],
+            "frequency": 1346,
+            "mnemonic": "folk：common people：普通人→人们；民间的",
+            "phonetic": "foʊk",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "folk"
+        },
+        {
+            "collocations": [
+                "Chinese folklore：中国民间传说",
+                "Irish / Indian folklore：爱尔兰 / 印度民俗"
+            ],
+            "definition": "民间传说；民俗",
+            "etymology": "“traditional beliefs and customs of the common people,” 1846.",
+            "examples": [],
+            "frequency": 11706,
+            "mnemonic": "folk（传统民间的）+ lore（=what is taught, learning：教；习俗）→民\n间一代流传给下一代的传说，普通人的学问知识→民间传说；民俗",
+            "phonetic": "ˈfoʊklɔr",
+            "pos": "n.",
+            "rootHint": "poly",
+            "word": "folklore"
+        }
+    ]
 }

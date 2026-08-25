@@ -1,748 +1,748 @@
 {
-  "chapter": "40",
-  "chapterOrder": 140,
-  "id": "dox",
-  "meaningEn": "doc-，含义为“教”。",
-  "roots": [
-    "dox"
-  ],
-  "semanticLabel": "doc-",
-  "source": "textbook-6",
-  "titleZh": "doc-",
-  "words": [
-    {
-      "collocations": [
-        "orthodox medicine：传统医学",
-        "an orthodox Jew：正统的犹太教徒\n近义词：traditional：传统的\n笔 记 区"
-      ],
-      "definition": "普遍接受的，正统的，规范的；正统信仰的；东正教派的",
-      "examples": [],
-      "frequency": 5411,
-      "mnemonic": "ortho-（=right, true：正确的）+ -dox（=-doc-：教→opinion：观念；\n思想）→正确的、正统的思想→正统的；正统信仰的；东正教派的",
-      "phonetic": "ˈɔɹ.θə.dɑks",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "orthodox"
-    },
-    {
-      "collocations": [
-        "the current financial orthodoxy：现行正统的金融观念"
-      ],
-      "definition": "正统观念；普遍接受的观点；正统的信仰（或做法）",
-      "examples": [],
-      "frequency": 10410,
-      "mnemonic": "orthodox（正统的；普遍接受的；正统信仰的）+ -y（名词后缀）→",
-      "phonetic": "ˈɔɹ.θə.dɑk.si",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "orthodoxy"
-    },
-    {
-      "collocations": [
-        "unorthodox methods：非正统的方法"
-      ],
-      "definition": "非正统的；非传统的；不正规的",
-      "examples": [],
-      "frequency": 15051,
-      "mnemonic": "un-（=not：不；非）+ orthodox（正统的；传统的，规范的）→非正",
-      "phonetic": "ʌnˈɔɹθədɑks",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "unorthodox"
-    },
-    {
-      "collocations": [
-        "many levels of paradox：多重悖论"
-      ],
-      "definition": "自相矛盾；悖论；似矛盾而（可能）正确的说法",
-      "examples": [],
-      "frequency": 6871,
-      "mnemonic": "para-（=contrary to：与……相反）+ -dox（=doxa=opinion：观点）→\n相反的观点→引申词义矛盾；悖论",
-      "phonetic": "ˈpɛɹ.ə.dɑks",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "paradox"
-    },
-    {
-      "collocations": [
-        "the paradoxical effect：自相矛盾的结果"
-      ],
-      "definition": "自相矛盾的；似矛盾而（可能）正确的",
-      "examples": [],
-      "frequency": 12706,
-      "mnemonic": "paradox（自相矛盾；悖论；似非而是的论点）+ -ical（形容词后缀）\n→自相矛盾的；似矛盾而（可能）正确的",
-      "phonetic": "ˌpɛɹ.əˈdɑk.sɪ.kəl",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "paradoxical"
-    },
-    {
-      "collocations": [
-        "express paradoxically：自相矛盾地表达"
-      ],
-      "definition": "自相矛盾地；反常地",
-      "examples": [],
-      "frequency": 10819,
-      "mnemonic": "paradoxical（自相矛盾的）+ -ly（副词后缀）→自相矛盾的；反常地",
-      "phonetic": "ˌpɛɹ.əˈdɑk.sɪ.kli",
-      "pos": "adv.",
-      "rootHint": "dox",
-      "word": "paradoxically"
-    },
-    {
-      "collocations": [
-        "public garden where Plato taught his school, from Old French (Modern\nFrench Académie) and directly from Latin Academia, from Greek",
-        "of the Trojan War tales (his name, Latinized as Academus) apparently",
-        "National Academy of Sciences：国家科学院"
-      ],
-      "definition": "学会；学院；研究院；专科院校",
-      "etymology": "Mid-15c., Achademie, “the classical Academy,” properly the name of the Akadēmeia “The Academy; the grove of Akadēmos,” a legendary Athenian means “of a silent district”), original estate-holder of the site. 来源于古希腊英雄Akademos（阿卡蒂莫斯），后来用他的名字来 命名雅典城外的一片小树林，而该树林后来成为古希腊哲学家Plato （柏拉图）的办学场地，专门教授几何等科学，后演变出“学院，研 究院，学会”（即：一个研究科学的场所）的含义",
-      "examples": [],
-      "frequency": 5670,
-      "phonetic": "ə.ˈkæd.ə.mi",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "academy"
-    },
-    {
-      "collocations": [
-        "poor academic performance：糟糕的学术成绩",
-        "academic field：学术领域",
-        "less academic children：学习不太好的学生",
-        "academic year：学年"
-      ],
-      "definition": "学院的；学术的；学习好的；空谈的 n. 学者",
-      "examples": [],
-      "frequency": 1473,
-      "mnemonic": "academ（=academy：学院；研究院）+ -ic（形容词后缀）→学院",
-      "phonetic": "ˌæk.əˈdɛm.ɪk",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "academic"
-    },
-    {
-      "collocations": [],
-      "definition": "学术上地",
-      "examples": [
-        "He is academically gifted.\n他在学术方面有天份。"
-      ],
-      "frequency": 9527,
-      "phonetic": "ˌæk.əˈdɛm.ɪk.li",
-      "pos": "adv.",
-      "rootHint": "dox",
-      "word": "academically"
-    },
-    {
-      "collocations": [
-        "the importance of strong links between industry and academia：工业界和",
-        "The world of learning, teaching, research, etc. at universities, and the",
-        "people involved in it."
-      ],
-      "definition": "学术界",
-      "examples": [],
-      "frequency": 11593,
-      "mnemonic": "academ（=academy：学院；高校；研究院）+ -ia（集合名词后缀）\n→学院、高校、研究院的集合→学术界",
-      "phonetic": "ˌæk.əˈdi.mi.ə",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "academia"
-    },
-    {
-      "collocations": [],
-      "definition": "民兵组织，民兵",
-      "examples": [],
-      "phonetic": "məˈlɪʃə",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "militia"
-    },
-    {
-      "collocations": [],
-      "definition": "郊区居民 (总称)",
-      "examples": [],
-      "phonetic": "səˈbɝ.bi.ə",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "suburbia"
-    },
-    {
-      "collocations": [],
-      "definition": "战斗的阵列单词 bat 基本含义为“击球；球棒”。",
-      "examples": [],
-      "phonetic": "bəˈteɪl.i.ə",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "battalia"
-    },
-    {
-      "collocations": [
-        "in certain games,” c. 1200, from rare Old English batt “cudgel,” a western",
-        "England word at first, probably from Welsh or another Celtic source",
-        "(compare Irish and Gaelic bat, bata “staff, cudgel”), later reinforced and",
-        "influenced by Old French batte “pestle,” from Late Latin battre “to beat;”",
-        "all from PIE root *bhat- “to strike.” As a kind of wooden paddle used to",
-        "play cricket (later baseball), it is attested from 1706.",
-        "a baseball bat：一只棒球棒"
-      ],
-      "definition": "（在棒球、垒球或板球运动中）击球 n.（棒球、垒球或板球的）球棒；蝙蝠",
-      "etymology": "n. “a stick or staff used in beating, a war-club, staff used to strike the ball v. “to hit, beat, or strike with a bat,” mid-15c., from bat (n.1). Specifically as “to strike a ball with a bat” from 1745. Related: Batted; batting.",
-      "examples": [],
-      "frequency": 3727,
-      "phonetic": "bæt",
-      "pos": "vi.",
-      "rootHint": "dox",
-      "word": "bat"
-    },
-    {
-      "collocations": [
-        "bat（击球，双写t）+ -ing（名词后缀）→击球"
-      ],
-      "definition": "（尤指板球或棒球运动中用球拍或球棒的）击球；（被子、床垫中的）软填料",
-      "examples": [],
-      "frequency": 10763,
-      "phonetic": "ˈbæ.tɪŋ",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "batting"
-    },
-    {
-      "collocations": [
-        "dropping the baton：丢棒"
-      ],
-      "definition": "（乐队）指挥棒；接力棒；警棍",
-      "examples": [
-        "The maestro raises his baton.\n大师举起他的指挥棒。"
-      ],
-      "frequency": 12683,
-      "mnemonic": "bat（球棒）+ -on（名词后缀）→短小结实的棍棒→指挥棒；接力",
-      "phonetic": "bəˈtɑn",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "baton"
-    },
-    {
-      "collocations": [
-        "a constant battle with her weight：一直在和自己的体重作斗争",
-        "a gun battle：一场枪战",
-        "the battle against crime：制止犯罪的斗争。",
-        "battle it out：战斗到底"
-      ],
-      "definition": "&vi. 与……作斗争 v-recip（相互动词）与……搏斗；与……较量 n. 战役；斗争",
-      "examples": [
-        "Doctors battled throughout the night to save her life.\n医生们奋战了整个晚上来抢救她的生命。"
-      ],
-      "frequency": 1203,
-      "mnemonic": "batt-（打；击）+ -le（名词后缀，表反复）→反复击打→与……作斗",
-      "phonetic": "ˈbæ.təl",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "battle"
-    },
-    {
-      "collocations": [
-        "the embattled president：焦头烂额的总统",
-        "the embattled Island：处于战乱中的岛屿\n笔 记 区"
-      ],
-      "definition": "问题缠身的，处于困境的；卷入战争的，四面楚歌的",
-      "examples": [],
-      "frequency": 16679,
-      "mnemonic": "em-（使处于……境地）+ battle（战斗）+ -ed（e重复，略）→使处\n于战斗境地→处于困境的；卷入战争的",
-      "phonetic": "ɪm.ˈbæ.təld",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "embattled"
-    },
-    {
-      "collocations": [
-        "return to his battalion：回到他的营地",
-        "battalions of highly paid publicists：由高薪宣传人员组成的队伍"
-      ],
-      "definition": "营（由三个或以上的连组成的）；（有组织的）队伍",
-      "examples": [],
-      "frequency": 8919,
-      "mnemonic": "battal（=battle：战斗）+ -ion（名词后缀）→从事战斗的一群人→",
-      "phonetic": "bəˈtæl.jən",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "battalion"
-    },
-    {
-      "collocations": [
-        "be battered by winds：受到大风的袭击",
-        "evidence that the child was being battered：这个孩子正遭虐待的证据",
-        "batters and pitchers：击球员和投球手们",
-        "pancake batter：做薄煎饼的面糊",
-        "The passengers were battered by flying luggage and cargo as the cabin lost\npressure.\n当机舱失去压力时，乘客们受到飞落的行李和货物连续猛击。\n-er作动词后缀，表示“反复做”\nmutter vt&vi. 喃喃自语\nchatter vi. 喋喋不休（chat聊天+ -er）\nstutter vi. 结结巴巴地说话\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "连续猛击（某人）；虐待；（风、雨或风暴等的）袭击 n.击球员；（面粉、蛋和牛奶混合成的) 糊",
-      "examples": [
-        "They were battering the door, they were trying to break in.\n他们连续击门，试图破门而入。"
-      ],
-      "frequency": 7352,
-      "mnemonic": "batt-（打；击）+ -er（动词后缀）→反复击打→连续猛击；袭击；击",
-      "phonetic": "ˈbæ.tɚ",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "batter"
-    },
-    {
-      "collocations": [
-        "a battered old car：一辆破旧的老爷车",
-        "battered women/children：受虐待的妇女/儿童",
-        "a battered cod：一条沾上面糊的鳕鱼"
-      ],
-      "definition": "破旧不堪的；受到严重虐待的；受到（炮火、恶劣天气）重创的；沾上面糊的",
-      "examples": [],
-      "frequency": 6929,
-      "mnemonic": "batter（连续猛击；(风、雨或风暴等的) 袭击；糊）+ -ed（形容词后\n缀）→破旧不堪的；受到严重虐待的；受到重创的；沾上面糊的",
-      "phonetic": "ˈbæ.tɚd",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "battered"
-    },
-    {
-      "collocations": [
-        "a dead battery：没电了的蓄电池",
-        "be charged with battery：犯了殴打罪",
-        "a battery of：一排，一套；一大群，一组",
-        "a battery of abandoned guns：一排废弃的枪炮",
-        "a battery of journalists and television cameras：一大群记者和电视摄像机"
-      ],
-      "definition": "电池；（汽车）蓄电池；殴打罪",
-      "examples": [],
-      "frequency": 3221,
-      "mnemonic": "batt-（打；击）+ -ery（名词后缀）→持续的打击，形容电池放电过\n程中的电流的持续运动→电池；殴打罪",
-      "phonetic": "ˈbæ.tɚ.i",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "battery"
-    },
-    {
-      "collocations": [
-        "armed/unarmed combat：武装/非武装对抗",
-        "combat troops：作战部队",
-        "combat boots：军靴",
-        "measures to combat crime/inflation/unemployment/disease：防止犯罪/通\n货膨胀/失业/疾病的措施"
-      ],
-      "definition": "战斗；与……搏斗；防止；减轻 n. 战斗；搏斗",
-      "examples": [],
-      "frequency": 3442,
-      "mnemonic": "com-（强调）+ -bat（击；打）→战斗；与……搏斗；防止（战斗的",
-      "phonetic": "kəmˈbæt",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "combat"
-    },
-    {
-      "collocations": [],
-      "definition": "参战者；战斗人员；战士",
-      "examples": [],
-      "frequency": 11062,
-      "mnemonic": "combat（战斗）+ -ant（名词后缀）→参与战斗的人→参战者；战斗",
-      "phonetic": "kəmˈbætənt",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "combatant"
-    },
-    {
-      "collocations": [
-        "a combative mood/spirit：斗志昂扬；锐气旺盛"
-      ],
-      "definition": "好战的；好斗的；好争论的",
-      "examples": [],
-      "frequency": 16886,
-      "mnemonic": "combat（战斗）+ -ive（形容词后缀）→好战的；好斗的",
-      "phonetic": "kəmˈbætɪv",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "combative"
-    },
-    {
-      "collocations": [
-        "a debating society at a school：学校的辩论社团",
-        "a heated/wide-ranging/lively debate：激烈的/广泛的/热烈的争论"
-      ],
-      "definition": "（尤指正式）讨论，辩论；仔细考虑；思考；盘算 n.（在公共集会上或议会里就某问题进行的、常以表决结束的）辩论；（各自发表不同意见的）争论，辩论，讨论",
-      "examples": [
-        "After a long debate, Congress approved the proposal.\n经过长时间辩论，国会通过了这项提议。"
-      ],
-      "frequency": 1086,
-      "mnemonic": "de-（强调前缀）+ -bat（击打）+ e→相互之间击打→引申义争辩；辩论",
-      "phonetic": "dɪˈbeɪt",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "debate"
-    },
-    {
-      "collocations": [
-        "a debatable point：有争议的观点"
-      ],
-      "definition": "可争辩的；有争议的",
-      "examples": [
-        "It is highly debatable whether conditions have improved for low-income\nfamilies.\n低收入家庭的生活状况是否已得到改善是一个颇有争议的问题。"
-      ],
-      "frequency": 17727,
-      "mnemonic": "debat（=debate：争辩；争论）+ -able（能够……的）→能引起争辩\n的→可争辩的；有争议的",
-      "phonetic": "dɪˈbeɪ.tə.bəl",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "debatable"
-    },
-    {
-      "collocations": [
-        "the first ones observed were rod-shaped. Introduced as a scientific word",
-        "is from a PIE *bak- “staff used for support, peg” (compare Latin baculum",
-        "Dutch pegel “peg, pin, bolt”). De Vaan writes, “Since *b was very rare in",
-        "PIE, and Celtic shows an unexplained geminate, we are probably dealing",
-        "with a loanword from an unidentified source.”",
-        "bacterial infections：细菌感染",
-        "bacterial fossils：细菌化石"
-      ],
-      "definition": "细菌",
-      "etymology": "1847, plural of Modern Latin bacterium, from Greek bakterion “small staff,” diminutive of baktron “stick, rod, staff, cudgel.” So called because 1838 by German naturalist Christian Gottfried Ehrenberg. The Greek word “rod, walking stick;” Irish bacc, Welsh bach “hook, crooked staff;” Middle",
-      "examples": [],
-      "frequency": 3642,
-      "mnemonic": "bact（=bat：棒；杆）+ -eria（-ery+ -ia：复合名词后缀）→细菌（因",
-      "phonetic": "bæk.ˈtɪɹ.i.ə",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "bacteria"
-    },
-    {
-      "collocations": [
-        "bacterial infections/growth：细菌传染/生长"
-      ],
-      "definition": "细菌的",
-      "examples": [],
-      "frequency": 8747,
-      "mnemonic": "bacteria（细菌）+ -al（形容词后缀）→细菌的",
-      "phonetic": "bæk.ˈtɪɹ.i.əl",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "bacterial"
-    },
-    {
-      "collocations": [
-        "abate pollution：减少污染"
-      ],
-      "definition": "&vi.（使）减弱；减退；减轻",
-      "examples": [
-        "The storm showed no signs of abating.\n暴风雨没有减弱的迹象。"
-      ],
-      "frequency": 13658,
-      "mnemonic": "a-（=ad-=to：去）+ bate（击；打）→打倒；杀价→reduce, lower：降",
-      "phonetic": "ə.ˈbeɪt",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "abate"
-    },
-    {
-      "collocations": [
-        "noise abatement：减少噪声",
-        "an abatement in the purchase price：降低买价"
-      ],
-      "definition": "减少；减轻",
-      "examples": [],
-      "frequency": 16906,
-      "mnemonic": "abate（=reduce：减少）+ -ment（名词后缀）→减少；减轻",
-      "phonetic": "ə.ˈbeɪt.mənt",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "abatement"
-    },
-    {
-      "collocations": [
-        "a tax rebate：退还税款",
-        "French barre “beam, bar, gate, barrier” (12c.), from Vulgar Latin *barra"
-      ],
-      "definition": "退还款；折扣，返还（退还的部分货价）vt.（从总支付款中部分）扣除",
-      "etymology": "Late 12c., “stake or rod of iron used to fasten a door or gate,” from Old “bar, barrier,” which some suggest is from Gaulish *barros “the bushy end” [Gamillscheg, etc.], but OED regards this as “discredited” because it “in no way suits the sense.” 笔 记 区",
-      "examples": [
-        "Buyers are offered a cash rebate.\n购买者享受现金折扣。\n单词 bar 含义为“棒，栏杆”，引申义为“封，堵；阻挡；阻止；障碍；\n大律师职业”等。"
-      ],
-      "frequency": 10785,
-      "mnemonic": "re-（向后）+ bate（=abate：减轻，减少）→向后减少→引申词义退",
-      "phonetic": "ˈɹi.beɪt",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "rebate"
-    },
-    {
-      "collocations": [
-        "a bar of chocolate/soap：一条巧克力/肥皂",
-        "to be called to the Bar：获得大律师资格",
-        "All the doors and windows were barred.\n所有的门、窗都加上了铁条。",
-        "We found our way barred by rocks.\n我们发现大石块挡住了我们的路。",
-        "The players are barred from drinking alcohol the night before a match.\n运动员在参赛前夜不得喝酒。\n2) bar作名词时：",
-        "His shot hit the bar.\n他射门击中球门的横梁。",
-        "He smashed the window with an iron bar.\n他用铁棒敲碎了窗户。",
-        "At that time being a woman was a bar to promotion in most professions.\n那时在大多数职业中，身为女性就是晋升的障碍。\n3) bar作介词时：",
-        "The students all attended, bar two who were ill.\n20000 词汇巅峰\n速\n记\n笔 记 区\n除了两名生病，所有的学生都到了。"
-      ],
-      "definition": "（用铁条或木条）封，堵；阻挡，拦住；禁止，阻止（某人做某事）n. 酒吧，柜台；（长方形）条，块；棒，栏杆（常用作护栏）；障碍，羁绊；大律师职业（可出席高等法庭）prep. 除……外",
-      "etymology": "来源于古法语barre，栅栏/障碍物→-bar-栅栏；障碍→ bar：隔栏；柜 台（将酒店服务员与顾客隔开的”柜台”）；酒吧（酒吧义来自酒馆 木架陈列的待售酒类）。",
-      "examples": [
-        "1) bar作动词时："
-      ],
-      "frequency": 994,
-      "mnemonic": "bar-栅栏；障碍→律师（律师义来自旧时将法官席与其它部分用“隔\n栏”隔开）→引申义为障碍，羁绊。",
-      "phonetic": "bɑɹ",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "bar"
-    },
-    {
-      "collocations": [],
-      "definition": "除……之外",
-      "examples": [
-        "Barring accidents, we should arrive on time.\n除非有意外情况，我们应可按时到达。"
-      ],
-      "frequency": 14715,
-      "mnemonic": "bar（棒；栏杆）+ -ing→原指挡在外面的，后指除……之外",
-      "phonetic": "ˈbɑ.ɹɪŋ",
-      "pos": "prep.",
-      "rootHint": "dox",
-      "word": "barring"
-    },
-    {
-      "collocations": [
-        "a barrel of crude oil：一桶原油",
-        "a beer/wine barrel：啤酒/葡萄酒桶",
-        "a barrel of laughs：很有趣；开心；快乐"
-      ],
-      "definition": "[V + adv./prep.]（无法控制地）高速行进，飞驰 n. 桶；一桶（的量）；枪管，炮管",
-      "examples": [
-        "The car was barreling down the street at a crazy speed.\n汽车沿着街道发疯一般地高速行驶。"
-      ],
-      "frequency": 3109,
-      "mnemonic": "barr（木条；木头；木棒）+ -el（名词后缀）→桶（也是用“木头”",
-      "phonetic": "ˈbæ.ɹəl",
-      "rootHint": "dox",
-      "word": "barrel"
-    },
-    {
-      "collocations": [
-        "economic barriers：经济阻碍",
-        "the barrier to democracy：实现民主的障碍",
-        "break the barrier of three million：突破300万大关",
-        "There is no reason why love shouldn’t cross the age barrier.\n爱情没有理由不应跨越年龄障碍。",
-        "A severe storm destroyed a natural barrier between the house and the lake.\n一场猛烈的暴风雨摧毁了房屋和湖泊之间的天然屏障。"
-      ],
-      "definition": "障碍；隔阂；栅栏；围墙；屏障；(数量) 大关",
-      "examples": [
-        "Duties and taxes are the most obvious barrier to free trade.\n关税及其他各种税是自由贸易最明显的障碍。"
-      ],
-      "frequency": 2632,
-      "mnemonic": "bar（木条；木棒）+ -ier（名词后缀）→栅栏；阻碍物，屏障（即：",
-      "phonetic": "ˈbæ.ɹi.ɚ",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "barrier"
-    },
-    {
-      "collocations": [
-        "close off by barricades：封锁路障",
-        "barricade streets：挡住街道",
-        "barricade yourself in/inside (sth.)：躲在……里；把自己关在……里面\n笔 记 区"
-      ],
-      "definition": "路障；街垒 vt. 在……设路障；把……堵在",
-      "etymology": "在16世纪下半叶法国宗教战争中，胡格诺教徒将装有泥沙石子的大木 头推倒在街上，形成路障，这种路障就被称为barricade，后来泛指各 种路障或街垒。",
-      "examples": [],
-      "frequency": 11574,
-      "mnemonic": "barric（=barrel：桶）+ -ade（物品）→很多桶→路障；街垒；在……",
-      "phonetic": "ˈbæ.ɹə.keɪd",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "barricade"
-    },
-    {
-      "collocations": [
-        "a barren desert：不毛的沙漠",
-        "a barren landscape：寸草不生的荒凉景色",
-        "an empty exercise barren of utility：一项毫无效用的无聊训练"
-      ],
-      "definition": "贫瘠的；不毛的；不结果实的；（女子或雌性动物）不育的，不孕的；无益的，无效果的",
-      "etymology": "来自古法语baraigne, baraing “sterile, barren：贫瘠的；不生育 的” (12世纪), “incapable of producing its kind” (of female animals, plants)，原本用来表示妇女不育，后来可用来形容土地贫瘠、树木不 结果（Of land, “producing little or no vegetation”），引申比喻某方 法或行为无法产生结果。",
-      "examples": [
-        "The room was austere, nearly barren of furniture or decoration.\n这个房间很简朴，几乎没有什么家具或装饰。"
-      ],
-      "frequency": 8984,
-      "mnemonic": "邪记：bar（酒吧）+ ren（人）→天天泡酒吧的人→饮酒过度→不能生育",
-      "phonetic": "ˈbæ.ɹən",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "barren"
-    },
-    {
-      "collocations": [
-        "from Spanish barraca (mid-13c. in Medieval Latin) “soldier’s tent,”\nliterally “cabin, hut”. Meaning “permanent building for housing troops”",
-        "(usually in plural) is attested from 1690s.",
-        "an army barracks：一座兵营",
-        "a barrack unit：一处兵营（单位）\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "营房；兵营",
-      "etymology": "1680s, “temporary hut for soldiers during a siege,” from French barraque,",
-      "examples": [],
-      "frequency": 9023,
-      "mnemonic": "barro，泥土，指用泥土搭建的简易土坯房。或同bar，杆，棍，指用",
-      "phonetic": "ˈbæ.ɹəks",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "barracks"
-    },
-    {
-      "collocations": [
-        "a barrage of questions/criticisms/complaints：连珠炮似的问题/批评/抱怨",
-        "a hydro-electric tidal barrage：一座水力发电潮汐拦河坝"
-      ],
-      "definition": "不断骚扰 n. 火力网，（尤指）掩护炮火；接二连三的一大堆（质问或指责等）；堤堰；水坝",
-      "examples": [
-        "Doctors are complaining about being barraged by drug-company salesmen.\n医生们抱怨总是受到医药公司销售人员的骚扰。"
-      ],
-      "frequency": 10502,
-      "mnemonic": "barr-（棒，栏杆；barrier：障碍物；屏障）+ -age（物品）→用来阻拦\n的物品→水坝；拦河坝（用来阻挡洪水）→火力网（用以阻挡地方炮\n火来进行掩护）→连珠炮似的提问（用来质问或指责等）；不断骚扰",
-      "phonetic": "bəˈɹɑʒ",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "barrage"
-    },
-    {
-      "collocations": [
-        "to hold onto the handlebars：抓住把手"
-      ],
-      "definition": "（自行车或摩托车的）把手",
-      "examples": [],
-      "frequency": 12699,
-      "mnemonic": "handle（柄；把）+ bar（（金属）棒）→用来抓、拿的金属棒→把手",
-      "phonetic": "ˈhæn.dəl.bɑɹ",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "handlebar"
-    },
-    {
-      "collocations": [
-        "embarrassing situations：令人尴尬的情形",
-        "The speech was deliberately designed to embarrass the prime minister.\n这个发言是故意为难首相。"
-      ],
-      "definition": "（尤指在社交场合）使窘迫，使尴尬；使陷入困境",
-      "examples": [
-        "Her questions about my private life embarrassed me.\n她询问我的私生活使我感到很尴尬。"
-      ],
-      "frequency": 7263,
-      "mnemonic": "邪解：em-（=in）+ barr-（=barrier：栅栏；障碍）+ ass（驴）→困在栅栏里\n的驴→使窘迫，使尴尬；使陷入困境",
-      "phonetic": "ɪm.ˈbɛ.ɹəs",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "embarrass"
-    },
-    {
-      "collocations": [
-        "an embarrassed silence：难堪的沉默",
-        "financially embarrassed：拮据的；经济困难的"
-      ],
-      "definition": "（尤指在社交场合）窘迫的；尴尬的；害羞的",
-      "examples": [],
-      "frequency": 4654,
-      "mnemonic": "embarrass（使窘迫；使尴尬）+ -ed（形容词后缀）→窘迫的；尴尬的",
-      "phonetic": "ɪm.ˈbɛ.ɹəst",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "embarrassed"
-    },
-    {
-      "collocations": [
-        "an embarrassing mistake/question/situation：令人难堪的错误/问题/处境"
-      ],
-      "definition": "使人害羞的（或难堪的、惭愧的）；使显得愚蠢的（或不诚实的等）",
-      "examples": [
-        "The report is likely to prove highly embarrassing to the government.\n这份报告可能会让政府非常尴尬。"
-      ],
-      "frequency": 5742,
-      "mnemonic": "embarrass（使害羞；使尴尬）+ -ing（形容词后缀，使……）→使人",
-      "phonetic": "ɪm.ˈbɛ.ɹə.sɪŋ",
-      "pos": "adj.",
-      "rootHint": "dox",
-      "word": "embarrassing"
-    },
-    {
-      "collocations": [
-        "an embarrassment of riches：好东西多得难以选择",
-        "to her singing.\n她意识到大家一直在听她唱歌，感到很不好意思。",
-        "The poverty figures were undoubtedly an embarrassment to the president.\n这些贫困数字无疑是令总统难堪的一件事。"
-      ],
-      "definition": "害羞；窘迫；愧疚；难堪；使人为难的处境；困境 [+ to]；令人为难（或难堪、尴尬）的人",
-      "examples": [
-        "Much to her embarrassment she realized that everybody had been listening"
-      ],
-      "frequency": 5878,
-      "mnemonic": "embarrass（害羞；难堪）+ -ment（名词后缀）→害羞，难堪；使人",
-      "phonetic": "ɪm.ˈbɛ.ɹəs.mənt",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "embarrassment"
-    },
-    {
-      "collocations": [
-        "an arms embargo：武器贸易禁运",
-        "to impose/enforce/lift an embargo：实行/实施/取消贸易禁令"
-      ],
-      "definition": "禁止……的贸易；禁运 n. 贸易禁运",
-      "examples": [
-        "They embargoed oil shipments to the U.S.\n他们禁止了对美国石油船运。"
-      ],
-      "frequency": 6441,
-      "mnemonic": "em-(=into：进入；向内) + -bar-（栅栏；障碍）+ go(走)→进入运入内\n部→禁运；禁止……的贸易",
-      "phonetic": "ɪm.ˈbɑɹ.ɡoʊ",
-      "pos": "vt.",
-      "rootHint": "dox",
-      "word": "embargo"
-    },
-    {
-      "collocations": [
-        "a pillar of smoke：烟柱",
-        "a pillar of society：社会中坚",
-        "a central pillar of life：生活的中心支柱\n20000 词汇巅峰\n速\n记\n笔 记 区",
-        "a pillar of strength in a crisis：在危难中表现非常坚强",
-        "the pillar of economic policy：经济政策的核心",
-        "be driven, pushed, etc. from pillar to post：被迫四处碰壁（或到处奔波）"
-      ],
-      "definition": "柱子，桥墩（尤指兼作装饰的）；柱状物；主心骨，中坚力量；（组织、制度、信仰等的）核心，基础，支柱",
-      "examples": [],
-      "frequency": 6619,
-      "mnemonic": "pillar（=barrier：栅栏，阻碍物）→（特指）“石”栏；柱子→引申",
-      "phonetic": "ˈpɪ.lɚ",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "pillar"
-    },
-    {
-      "collocations": [
-        "marble columns：大理石柱",
-        "the gossip/financial column：漫谈/财经专栏",
-        "a column of text：一栏正文",
-        "a column in U. S. News & world Report：《美国新闻和世界报道》的\n一个专栏",
-        "a long column of troops and tanks：部队和坦克的长列纵队"
-      ],
-      "definition": "柱；（通常为）圆形石柱；纪念柱；（书、报纸印刷页上的）栏；（报刊的）专栏，栏目；（人或车辆排成行移动的）长列，纵队",
-      "examples": [],
-      "frequency": 2091,
-      "mnemonic": "colum（=pillar：柱子；栏）+ n（不发音，增减合理）→柱子；专栏",
-      "phonetic": "ˈkɑləm",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "column"
-    },
-    {
-      "collocations": [
-        "a columnist for the New York Times：《纽约时报》的专栏记者"
-      ],
-      "definition": "专栏作家4451",
-      "examples": [],
-      "mnemonic": "column（报刊的专栏）+ -ist（名词后缀，表示人）→给报刊写专栏\n的人→专栏作家",
-      "phonetic": "ˈkɑləmnɪst",
-      "pos": "n.",
-      "rootHint": "dox",
-      "word": "columnist"
-    }
-  ]
+    "chapter": "40",
+    "chapterOrder": 140,
+    "id": "dox",
+    "meaningEn": "doc-，含义为“教”。",
+    "roots": [
+        "dox"
+    ],
+    "semanticLabel": "doc-",
+    "source": "textbook-6",
+    "titleZh": "doc-",
+    "words": [
+        {
+            "collocations": [
+                "orthodox medicine：传统医学",
+                "an orthodox Jew：正统的犹太教徒\n近义词：traditional：传统的\n笔 记 区"
+            ],
+            "definition": "普遍接受的，正统的，规范的；正统信仰的；东正教派的",
+            "examples": [],
+            "frequency": 5411,
+            "mnemonic": "ortho-（=right, true：正确的）+ -dox（=-doc-：教→opinion：观念；\n思想）→正确的、正统的思想→正统的；正统信仰的；东正教派的",
+            "phonetic": "ˈɔr.θə.dɑks",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "orthodox"
+        },
+        {
+            "collocations": [
+                "the current financial orthodoxy：现行正统的金融观念"
+            ],
+            "definition": "正统观念；普遍接受的观点；正统的信仰（或做法）",
+            "examples": [],
+            "frequency": 10410,
+            "mnemonic": "orthodox（正统的；普遍接受的；正统信仰的）+ -y（名词后缀）→",
+            "phonetic": "ˈɔr.θə.dɑk.si",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "orthodoxy"
+        },
+        {
+            "collocations": [
+                "unorthodox methods：非正统的方法"
+            ],
+            "definition": "非正统的；非传统的；不正规的",
+            "examples": [],
+            "frequency": 15051,
+            "mnemonic": "un-（=not：不；非）+ orthodox（正统的；传统的，规范的）→非正",
+            "phonetic": "ʌnˈɔrθədɑks",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "unorthodox"
+        },
+        {
+            "collocations": [
+                "many levels of paradox：多重悖论"
+            ],
+            "definition": "自相矛盾；悖论；似矛盾而（可能）正确的说法",
+            "examples": [],
+            "frequency": 6871,
+            "mnemonic": "para-（=contrary to：与……相反）+ -dox（=doxa=opinion：观点）→\n相反的观点→引申词义矛盾；悖论",
+            "phonetic": "ˈpɛr.ə.dɑks",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "paradox"
+        },
+        {
+            "collocations": [
+                "the paradoxical effect：自相矛盾的结果"
+            ],
+            "definition": "自相矛盾的；似矛盾而（可能）正确的",
+            "examples": [],
+            "frequency": 12706,
+            "mnemonic": "paradox（自相矛盾；悖论；似非而是的论点）+ -ical（形容词后缀）\n→自相矛盾的；似矛盾而（可能）正确的",
+            "phonetic": "ˌpɛr.əˈdɑk.sɪ.kəl",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "paradoxical"
+        },
+        {
+            "collocations": [
+                "express paradoxically：自相矛盾地表达"
+            ],
+            "definition": "自相矛盾地；反常地",
+            "examples": [],
+            "frequency": 10819,
+            "mnemonic": "paradoxical（自相矛盾的）+ -ly（副词后缀）→自相矛盾的；反常地",
+            "phonetic": "ˌpɛr.əˈdɑk.sɪ.kli",
+            "pos": "adv.",
+            "rootHint": "dox",
+            "word": "paradoxically"
+        },
+        {
+            "collocations": [
+                "public garden where Plato taught his school, from Old French (Modern\nFrench Académie) and directly from Latin Academia, from Greek",
+                "of the Trojan War tales (his name, Latinized as Academus) apparently",
+                "National Academy of Sciences：国家科学院"
+            ],
+            "definition": "学会；学院；研究院；专科院校",
+            "etymology": "Mid-15c., Achademie, “the classical Academy,” properly the name of the Akadēmeia “The Academy; the grove of Akadēmos,” a legendary Athenian means “of a silent district”), original estate-holder of the site. 来源于古希腊英雄Akademos（阿卡蒂莫斯），后来用他的名字来 命名雅典城外的一片小树林，而该树林后来成为古希腊哲学家Plato （柏拉图）的办学场地，专门教授几何等科学，后演变出“学院，研 究院，学会”（即：一个研究科学的场所）的含义",
+            "examples": [],
+            "frequency": 5670,
+            "phonetic": "ə.ˈkæd.ə.mi",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "academy"
+        },
+        {
+            "collocations": [
+                "poor academic performance：糟糕的学术成绩",
+                "academic field：学术领域",
+                "less academic children：学习不太好的学生",
+                "academic year：学年"
+            ],
+            "definition": "学院的；学术的；学习好的；空谈的 n. 学者",
+            "examples": [],
+            "frequency": 1473,
+            "mnemonic": "academ（=academy：学院；研究院）+ -ic（形容词后缀）→学院",
+            "phonetic": "ˌæk.əˈdɛm.ɪk",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "academic"
+        },
+        {
+            "collocations": [],
+            "definition": "学术上地",
+            "examples": [
+                "He is academically gifted.\n他在学术方面有天份。"
+            ],
+            "frequency": 9527,
+            "phonetic": "ˌæk.əˈdɛm.ɪk.li",
+            "pos": "adv.",
+            "rootHint": "dox",
+            "word": "academically"
+        },
+        {
+            "collocations": [
+                "the importance of strong links between industry and academia：工业界和",
+                "The world of learning, teaching, research, etc. at universities, and the",
+                "people involved in it."
+            ],
+            "definition": "学术界",
+            "examples": [],
+            "frequency": 11593,
+            "mnemonic": "academ（=academy：学院；高校；研究院）+ -ia（集合名词后缀）\n→学院、高校、研究院的集合→学术界",
+            "phonetic": "ˌæk.əˈdiː.mi.ə",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "academia"
+        },
+        {
+            "collocations": [],
+            "definition": "民兵组织，民兵",
+            "examples": [],
+            "phonetic": "məˈlɪʃə",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "militia"
+        },
+        {
+            "collocations": [],
+            "definition": "郊区居民 (总称)",
+            "examples": [],
+            "phonetic": "səˈbɝ.bi.ə",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "suburbia"
+        },
+        {
+            "collocations": [],
+            "definition": "战斗的阵列单词 bat 基本含义为“击球；球棒”。",
+            "examples": [],
+            "phonetic": "bəˈteɪl.i.ə",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "battalia"
+        },
+        {
+            "collocations": [
+                "in certain games,” c. 1200, from rare Old English batt “cudgel,” a western",
+                "England word at first, probably from Welsh or another Celtic source",
+                "(compare Irish and Gaelic bat, bata “staff, cudgel”), later reinforced and",
+                "influenced by Old French batte “pestle,” from Late Latin battre “to beat;”",
+                "all from PIE root *bhat- “to strike.” As a kind of wooden paddle used to",
+                "play cricket (later baseball), it is attested from 1706.",
+                "a baseball bat：一只棒球棒"
+            ],
+            "definition": "（在棒球、垒球或板球运动中）击球 n.（棒球、垒球或板球的）球棒；蝙蝠",
+            "etymology": "n. “a stick or staff used in beating, a war-club, staff used to strike the ball v. “to hit, beat, or strike with a bat,” mid-15c., from bat (n.1). Specifically as “to strike a ball with a bat” from 1745. Related: Batted; batting.",
+            "examples": [],
+            "frequency": 3727,
+            "phonetic": "bæt",
+            "pos": "vi.",
+            "rootHint": "dox",
+            "word": "bat"
+        },
+        {
+            "collocations": [
+                "bat（击球，双写t）+ -ing（名词后缀）→击球"
+            ],
+            "definition": "（尤指板球或棒球运动中用球拍或球棒的）击球；（被子、床垫中的）软填料",
+            "examples": [],
+            "frequency": 10763,
+            "phonetic": "ˈbæ.tɪŋ",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "batting"
+        },
+        {
+            "collocations": [
+                "dropping the baton：丢棒"
+            ],
+            "definition": "（乐队）指挥棒；接力棒；警棍",
+            "examples": [
+                "The maestro raises his baton.\n大师举起他的指挥棒。"
+            ],
+            "frequency": 12683,
+            "mnemonic": "bat（球棒）+ -on（名词后缀）→短小结实的棍棒→指挥棒；接力",
+            "phonetic": "bəˈtɑn",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "baton"
+        },
+        {
+            "collocations": [
+                "a constant battle with her weight：一直在和自己的体重作斗争",
+                "a gun battle：一场枪战",
+                "the battle against crime：制止犯罪的斗争。",
+                "battle it out：战斗到底"
+            ],
+            "definition": "&vi. 与……作斗争 v-recip（相互动词）与……搏斗；与……较量 n. 战役；斗争",
+            "examples": [
+                "Doctors battled throughout the night to save her life.\n医生们奋战了整个晚上来抢救她的生命。"
+            ],
+            "frequency": 1203,
+            "mnemonic": "batt-（打；击）+ -le（名词后缀，表反复）→反复击打→与……作斗",
+            "phonetic": "ˈbæ.təl",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "battle"
+        },
+        {
+            "collocations": [
+                "the embattled president：焦头烂额的总统",
+                "the embattled Island：处于战乱中的岛屿\n笔 记 区"
+            ],
+            "definition": "问题缠身的，处于困境的；卷入战争的，四面楚歌的",
+            "examples": [],
+            "frequency": 16679,
+            "mnemonic": "em-（使处于……境地）+ battle（战斗）+ -ed（e重复，略）→使处\n于战斗境地→处于困境的；卷入战争的",
+            "phonetic": "ɪm.ˈbæ.təld",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "embattled"
+        },
+        {
+            "collocations": [
+                "return to his battalion：回到他的营地",
+                "battalions of highly paid publicists：由高薪宣传人员组成的队伍"
+            ],
+            "definition": "营（由三个或以上的连组成的）；（有组织的）队伍",
+            "examples": [],
+            "frequency": 8919,
+            "mnemonic": "battal（=battle：战斗）+ -ion（名词后缀）→从事战斗的一群人→",
+            "phonetic": "bəˈtæl.jən",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "battalion"
+        },
+        {
+            "collocations": [
+                "be battered by winds：受到大风的袭击",
+                "evidence that the child was being battered：这个孩子正遭虐待的证据",
+                "batters and pitchers：击球员和投球手们",
+                "pancake batter：做薄煎饼的面糊",
+                "The passengers were battered by flying luggage and cargo as the cabin lost\npressure.\n当机舱失去压力时，乘客们受到飞落的行李和货物连续猛击。\n-er作动词后缀，表示“反复做”\nmutter vt&vi. 喃喃自语\nchatter vi. 喋喋不休（chat聊天+ -er）\nstutter vi. 结结巴巴地说话\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "连续猛击（某人）；虐待；（风、雨或风暴等的）袭击 n.击球员；（面粉、蛋和牛奶混合成的) 糊",
+            "examples": [
+                "They were battering the door, they were trying to break in.\n他们连续击门，试图破门而入。"
+            ],
+            "frequency": 7352,
+            "mnemonic": "batt-（打；击）+ -er（动词后缀）→反复击打→连续猛击；袭击；击",
+            "phonetic": "ˈbæ.tɚ",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "batter"
+        },
+        {
+            "collocations": [
+                "a battered old car：一辆破旧的老爷车",
+                "battered women/children：受虐待的妇女/儿童",
+                "a battered cod：一条沾上面糊的鳕鱼"
+            ],
+            "definition": "破旧不堪的；受到严重虐待的；受到（炮火、恶劣天气）重创的；沾上面糊的",
+            "examples": [],
+            "frequency": 6929,
+            "mnemonic": "batter（连续猛击；(风、雨或风暴等的) 袭击；糊）+ -ed（形容词后\n缀）→破旧不堪的；受到严重虐待的；受到重创的；沾上面糊的",
+            "phonetic": "ˈbæ.tɚd",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "battered"
+        },
+        {
+            "collocations": [
+                "a dead battery：没电了的蓄电池",
+                "be charged with battery：犯了殴打罪",
+                "a battery of：一排，一套；一大群，一组",
+                "a battery of abandoned guns：一排废弃的枪炮",
+                "a battery of journalists and television cameras：一大群记者和电视摄像机"
+            ],
+            "definition": "电池；（汽车）蓄电池；殴打罪",
+            "examples": [],
+            "frequency": 3221,
+            "mnemonic": "batt-（打；击）+ -ery（名词后缀）→持续的打击，形容电池放电过\n程中的电流的持续运动→电池；殴打罪",
+            "phonetic": "ˈbæ.tɚ.i",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "battery"
+        },
+        {
+            "collocations": [
+                "armed/unarmed combat：武装/非武装对抗",
+                "combat troops：作战部队",
+                "combat boots：军靴",
+                "measures to combat crime/inflation/unemployment/disease：防止犯罪/通\n货膨胀/失业/疾病的措施"
+            ],
+            "definition": "战斗；与……搏斗；防止；减轻 n. 战斗；搏斗",
+            "examples": [],
+            "frequency": 3442,
+            "mnemonic": "com-（强调）+ -bat（击；打）→战斗；与……搏斗；防止（战斗的",
+            "phonetic": "kəmˈbæt",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "combat"
+        },
+        {
+            "collocations": [],
+            "definition": "参战者；战斗人员；战士",
+            "examples": [],
+            "frequency": 11062,
+            "mnemonic": "combat（战斗）+ -ant（名词后缀）→参与战斗的人→参战者；战斗",
+            "phonetic": "kəmˈbætənt",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "combatant"
+        },
+        {
+            "collocations": [
+                "a combative mood/spirit：斗志昂扬；锐气旺盛"
+            ],
+            "definition": "好战的；好斗的；好争论的",
+            "examples": [],
+            "frequency": 16886,
+            "mnemonic": "combat（战斗）+ -ive（形容词后缀）→好战的；好斗的",
+            "phonetic": "kəmˈbætɪv",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "combative"
+        },
+        {
+            "collocations": [
+                "a debating society at a school：学校的辩论社团",
+                "a heated/wide-ranging/lively debate：激烈的/广泛的/热烈的争论"
+            ],
+            "definition": "（尤指正式）讨论，辩论；仔细考虑；思考；盘算 n.（在公共集会上或议会里就某问题进行的、常以表决结束的）辩论；（各自发表不同意见的）争论，辩论，讨论",
+            "examples": [
+                "After a long debate, Congress approved the proposal.\n经过长时间辩论，国会通过了这项提议。"
+            ],
+            "frequency": 1086,
+            "mnemonic": "de-（强调前缀）+ -bat（击打）+ e→相互之间击打→引申义争辩；辩论",
+            "phonetic": "dɪˈbeɪt",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "debate"
+        },
+        {
+            "collocations": [
+                "a debatable point：有争议的观点"
+            ],
+            "definition": "可争辩的；有争议的",
+            "examples": [
+                "It is highly debatable whether conditions have improved for low-income\nfamilies.\n低收入家庭的生活状况是否已得到改善是一个颇有争议的问题。"
+            ],
+            "frequency": 17727,
+            "mnemonic": "debat（=debate：争辩；争论）+ -able（能够……的）→能引起争辩\n的→可争辩的；有争议的",
+            "phonetic": "dɪˈbeɪ.tə.bəl",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "debatable"
+        },
+        {
+            "collocations": [
+                "the first ones observed were rod-shaped. Introduced as a scientific word",
+                "is from a PIE *bak- “staff used for support, peg” (compare Latin baculum",
+                "Dutch pegel “peg, pin, bolt”). De Vaan writes, “Since *b was very rare in",
+                "PIE, and Celtic shows an unexplained geminate, we are probably dealing",
+                "with a loanword from an unidentified source.”",
+                "bacterial infections：细菌感染",
+                "bacterial fossils：细菌化石"
+            ],
+            "definition": "细菌",
+            "etymology": "1847, plural of Modern Latin bacterium, from Greek bakterion “small staff,” diminutive of baktron “stick, rod, staff, cudgel.” So called because 1838 by German naturalist Christian Gottfried Ehrenberg. The Greek word “rod, walking stick;” Irish bacc, Welsh bach “hook, crooked staff;” Middle",
+            "examples": [],
+            "frequency": 3642,
+            "mnemonic": "bact（=bat：棒；杆）+ -eria（-ery+ -ia：复合名词后缀）→细菌（因",
+            "phonetic": "bæk.ˈtɪr.i.ə",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "bacteria"
+        },
+        {
+            "collocations": [
+                "bacterial infections/growth：细菌传染/生长"
+            ],
+            "definition": "细菌的",
+            "examples": [],
+            "frequency": 8747,
+            "mnemonic": "bacteria（细菌）+ -al（形容词后缀）→细菌的",
+            "phonetic": "bæk.ˈtɪr.i.əl",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "bacterial"
+        },
+        {
+            "collocations": [
+                "abate pollution：减少污染"
+            ],
+            "definition": "&vi.（使）减弱；减退；减轻",
+            "examples": [
+                "The storm showed no signs of abating.\n暴风雨没有减弱的迹象。"
+            ],
+            "frequency": 13658,
+            "mnemonic": "a-（=ad-=to：去）+ bate（击；打）→打倒；杀价→reduce, lower：降",
+            "phonetic": "ə.ˈbeɪt",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "abate"
+        },
+        {
+            "collocations": [
+                "noise abatement：减少噪声",
+                "an abatement in the purchase price：降低买价"
+            ],
+            "definition": "减少；减轻",
+            "examples": [],
+            "frequency": 16906,
+            "mnemonic": "abate（=reduce：减少）+ -ment（名词后缀）→减少；减轻",
+            "phonetic": "ə.ˈbeɪt.mənt",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "abatement"
+        },
+        {
+            "collocations": [
+                "a tax rebate：退还税款",
+                "French barre “beam, bar, gate, barrier” (12c.), from Vulgar Latin *barra"
+            ],
+            "definition": "退还款；折扣，返还（退还的部分货价）vt.（从总支付款中部分）扣除",
+            "etymology": "Late 12c., “stake or rod of iron used to fasten a door or gate,” from Old “bar, barrier,” which some suggest is from Gaulish *barros “the bushy end” [Gamillscheg, etc.], but OED regards this as “discredited” because it “in no way suits the sense.” 笔 记 区",
+            "examples": [
+                "Buyers are offered a cash rebate.\n购买者享受现金折扣。\n单词 bar 含义为“棒，栏杆”，引申义为“封，堵；阻挡；阻止；障碍；\n大律师职业”等。"
+            ],
+            "frequency": 10785,
+            "mnemonic": "re-（向后）+ bate（=abate：减轻，减少）→向后减少→引申词义退",
+            "phonetic": "ˈriː.beɪt",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "rebate"
+        },
+        {
+            "collocations": [
+                "a bar of chocolate/soap：一条巧克力/肥皂",
+                "to be called to the Bar：获得大律师资格",
+                "All the doors and windows were barred.\n所有的门、窗都加上了铁条。",
+                "We found our way barred by rocks.\n我们发现大石块挡住了我们的路。",
+                "The players are barred from drinking alcohol the night before a match.\n运动员在参赛前夜不得喝酒。\n2) bar作名词时：",
+                "His shot hit the bar.\n他射门击中球门的横梁。",
+                "He smashed the window with an iron bar.\n他用铁棒敲碎了窗户。",
+                "At that time being a woman was a bar to promotion in most professions.\n那时在大多数职业中，身为女性就是晋升的障碍。\n3) bar作介词时：",
+                "The students all attended, bar two who were ill.\n20000 词汇巅峰\n速\n记\n笔 记 区\n除了两名生病，所有的学生都到了。"
+            ],
+            "definition": "（用铁条或木条）封，堵；阻挡，拦住；禁止，阻止（某人做某事）n. 酒吧，柜台；（长方形）条，块；棒，栏杆（常用作护栏）；障碍，羁绊；大律师职业（可出席高等法庭）prep. 除……外",
+            "etymology": "来源于古法语barre，栅栏/障碍物→-bar-栅栏；障碍→ bar：隔栏；柜 台（将酒店服务员与顾客隔开的”柜台”）；酒吧（酒吧义来自酒馆 木架陈列的待售酒类）。",
+            "examples": [
+                "1) bar作动词时："
+            ],
+            "frequency": 994,
+            "mnemonic": "bar-栅栏；障碍→律师（律师义来自旧时将法官席与其它部分用“隔\n栏”隔开）→引申义为障碍，羁绊。",
+            "phonetic": "bɑr",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "bar"
+        },
+        {
+            "collocations": [],
+            "definition": "除……之外",
+            "examples": [
+                "Barring accidents, we should arrive on time.\n除非有意外情况，我们应可按时到达。"
+            ],
+            "frequency": 14715,
+            "mnemonic": "bar（棒；栏杆）+ -ing→原指挡在外面的，后指除……之外",
+            "phonetic": "ˈbɑ.rɪŋ",
+            "pos": "prep.",
+            "rootHint": "dox",
+            "word": "barring"
+        },
+        {
+            "collocations": [
+                "a barrel of crude oil：一桶原油",
+                "a beer/wine barrel：啤酒/葡萄酒桶",
+                "a barrel of laughs：很有趣；开心；快乐"
+            ],
+            "definition": "[V + adv./prep.]（无法控制地）高速行进，飞驰 n. 桶；一桶（的量）；枪管，炮管",
+            "examples": [
+                "The car was barreling down the street at a crazy speed.\n汽车沿着街道发疯一般地高速行驶。"
+            ],
+            "frequency": 3109,
+            "mnemonic": "barr（木条；木头；木棒）+ -el（名词后缀）→桶（也是用“木头”",
+            "phonetic": "ˈbæ.rəl",
+            "rootHint": "dox",
+            "word": "barrel"
+        },
+        {
+            "collocations": [
+                "economic barriers：经济阻碍",
+                "the barrier to democracy：实现民主的障碍",
+                "break the barrier of three million：突破300万大关",
+                "There is no reason why love shouldn’t cross the age barrier.\n爱情没有理由不应跨越年龄障碍。",
+                "A severe storm destroyed a natural barrier between the house and the lake.\n一场猛烈的暴风雨摧毁了房屋和湖泊之间的天然屏障。"
+            ],
+            "definition": "障碍；隔阂；栅栏；围墙；屏障；(数量) 大关",
+            "examples": [
+                "Duties and taxes are the most obvious barrier to free trade.\n关税及其他各种税是自由贸易最明显的障碍。"
+            ],
+            "frequency": 2632,
+            "mnemonic": "bar（木条；木棒）+ -ier（名词后缀）→栅栏；阻碍物，屏障（即：",
+            "phonetic": "ˈbæ.ri.ɚ",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "barrier"
+        },
+        {
+            "collocations": [
+                "close off by barricades：封锁路障",
+                "barricade streets：挡住街道",
+                "barricade yourself in/inside (sth.)：躲在……里；把自己关在……里面\n笔 记 区"
+            ],
+            "definition": "路障；街垒 vt. 在……设路障；把……堵在",
+            "etymology": "在16世纪下半叶法国宗教战争中，胡格诺教徒将装有泥沙石子的大木 头推倒在街上，形成路障，这种路障就被称为barricade，后来泛指各 种路障或街垒。",
+            "examples": [],
+            "frequency": 11574,
+            "mnemonic": "barric（=barrel：桶）+ -ade（物品）→很多桶→路障；街垒；在……",
+            "phonetic": "ˈbæ.rə.keɪd",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "barricade"
+        },
+        {
+            "collocations": [
+                "a barren desert：不毛的沙漠",
+                "a barren landscape：寸草不生的荒凉景色",
+                "an empty exercise barren of utility：一项毫无效用的无聊训练"
+            ],
+            "definition": "贫瘠的；不毛的；不结果实的；（女子或雌性动物）不育的，不孕的；无益的，无效果的",
+            "etymology": "来自古法语baraigne, baraing “sterile, barren：贫瘠的；不生育 的” (12世纪), “incapable of producing its kind” (of female animals, plants)，原本用来表示妇女不育，后来可用来形容土地贫瘠、树木不 结果（Of land, “producing little or no vegetation”），引申比喻某方 法或行为无法产生结果。",
+            "examples": [
+                "The room was austere, nearly barren of furniture or decoration.\n这个房间很简朴，几乎没有什么家具或装饰。"
+            ],
+            "frequency": 8984,
+            "mnemonic": "邪记：bar（酒吧）+ ren（人）→天天泡酒吧的人→饮酒过度→不能生育",
+            "phonetic": "ˈbæ.rən",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "barren"
+        },
+        {
+            "collocations": [
+                "from Spanish barraca (mid-13c. in Medieval Latin) “soldier’s tent,”\nliterally “cabin, hut”. Meaning “permanent building for housing troops”",
+                "(usually in plural) is attested from 1690s.",
+                "an army barracks：一座兵营",
+                "a barrack unit：一处兵营（单位）\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "营房；兵营",
+            "etymology": "1680s, “temporary hut for soldiers during a siege,” from French barraque,",
+            "examples": [],
+            "frequency": 9023,
+            "mnemonic": "barro，泥土，指用泥土搭建的简易土坯房。或同bar，杆，棍，指用",
+            "phonetic": "ˈbæ.rəks",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "barracks"
+        },
+        {
+            "collocations": [
+                "a barrage of questions/criticisms/complaints：连珠炮似的问题/批评/抱怨",
+                "a hydro-electric tidal barrage：一座水力发电潮汐拦河坝"
+            ],
+            "definition": "不断骚扰 n. 火力网，（尤指）掩护炮火；接二连三的一大堆（质问或指责等）；堤堰；水坝",
+            "examples": [
+                "Doctors are complaining about being barraged by drug-company salesmen.\n医生们抱怨总是受到医药公司销售人员的骚扰。"
+            ],
+            "frequency": 10502,
+            "mnemonic": "barr-（棒，栏杆；barrier：障碍物；屏障）+ -age（物品）→用来阻拦\n的物品→水坝；拦河坝（用来阻挡洪水）→火力网（用以阻挡地方炮\n火来进行掩护）→连珠炮似的提问（用来质问或指责等）；不断骚扰",
+            "phonetic": "bəˈrɑʒ",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "barrage"
+        },
+        {
+            "collocations": [
+                "to hold onto the handlebars：抓住把手"
+            ],
+            "definition": "（自行车或摩托车的）把手",
+            "examples": [],
+            "frequency": 12699,
+            "mnemonic": "handle（柄；把）+ bar（（金属）棒）→用来抓、拿的金属棒→把手",
+            "phonetic": "ˈhæn.dəl.bɑr",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "handlebar"
+        },
+        {
+            "collocations": [
+                "embarrassing situations：令人尴尬的情形",
+                "The speech was deliberately designed to embarrass the prime minister.\n这个发言是故意为难首相。"
+            ],
+            "definition": "（尤指在社交场合）使窘迫，使尴尬；使陷入困境",
+            "examples": [
+                "Her questions about my private life embarrassed me.\n她询问我的私生活使我感到很尴尬。"
+            ],
+            "frequency": 7263,
+            "mnemonic": "邪解：em-（=in）+ barr-（=barrier：栅栏；障碍）+ ass（驴）→困在栅栏里\n的驴→使窘迫，使尴尬；使陷入困境",
+            "phonetic": "ɪm.ˈbɛ.rəs",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "embarrass"
+        },
+        {
+            "collocations": [
+                "an embarrassed silence：难堪的沉默",
+                "financially embarrassed：拮据的；经济困难的"
+            ],
+            "definition": "（尤指在社交场合）窘迫的；尴尬的；害羞的",
+            "examples": [],
+            "frequency": 4654,
+            "mnemonic": "embarrass（使窘迫；使尴尬）+ -ed（形容词后缀）→窘迫的；尴尬的",
+            "phonetic": "ɪm.ˈbɛ.rəst",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "embarrassed"
+        },
+        {
+            "collocations": [
+                "an embarrassing mistake/question/situation：令人难堪的错误/问题/处境"
+            ],
+            "definition": "使人害羞的（或难堪的、惭愧的）；使显得愚蠢的（或不诚实的等）",
+            "examples": [
+                "The report is likely to prove highly embarrassing to the government.\n这份报告可能会让政府非常尴尬。"
+            ],
+            "frequency": 5742,
+            "mnemonic": "embarrass（使害羞；使尴尬）+ -ing（形容词后缀，使……）→使人",
+            "phonetic": "ɪm.ˈbɛ.rə.sɪŋ",
+            "pos": "adj.",
+            "rootHint": "dox",
+            "word": "embarrassing"
+        },
+        {
+            "collocations": [
+                "an embarrassment of riches：好东西多得难以选择",
+                "to her singing.\n她意识到大家一直在听她唱歌，感到很不好意思。",
+                "The poverty figures were undoubtedly an embarrassment to the president.\n这些贫困数字无疑是令总统难堪的一件事。"
+            ],
+            "definition": "害羞；窘迫；愧疚；难堪；使人为难的处境；困境 [+ to]；令人为难（或难堪、尴尬）的人",
+            "examples": [
+                "Much to her embarrassment she realized that everybody had been listening"
+            ],
+            "frequency": 5878,
+            "mnemonic": "embarrass（害羞；难堪）+ -ment（名词后缀）→害羞，难堪；使人",
+            "phonetic": "ɪm.ˈbɛ.rəs.mənt",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "embarrassment"
+        },
+        {
+            "collocations": [
+                "an arms embargo：武器贸易禁运",
+                "to impose/enforce/lift an embargo：实行/实施/取消贸易禁令"
+            ],
+            "definition": "禁止……的贸易；禁运 n. 贸易禁运",
+            "examples": [
+                "They embargoed oil shipments to the U.S.\n他们禁止了对美国石油船运。"
+            ],
+            "frequency": 6441,
+            "mnemonic": "em-(=into：进入；向内) + -bar-（栅栏；障碍）+ go(走)→进入运入内\n部→禁运；禁止……的贸易",
+            "phonetic": "ɪm.ˈbɑr.ɡoʊ",
+            "pos": "vt.",
+            "rootHint": "dox",
+            "word": "embargo"
+        },
+        {
+            "collocations": [
+                "a pillar of smoke：烟柱",
+                "a pillar of society：社会中坚",
+                "a central pillar of life：生活的中心支柱\n20000 词汇巅峰\n速\n记\n笔 记 区",
+                "a pillar of strength in a crisis：在危难中表现非常坚强",
+                "the pillar of economic policy：经济政策的核心",
+                "be driven, pushed, etc. from pillar to post：被迫四处碰壁（或到处奔波）"
+            ],
+            "definition": "柱子，桥墩（尤指兼作装饰的）；柱状物；主心骨，中坚力量；（组织、制度、信仰等的）核心，基础，支柱",
+            "examples": [],
+            "frequency": 6619,
+            "mnemonic": "pillar（=barrier：栅栏，阻碍物）→（特指）“石”栏；柱子→引申",
+            "phonetic": "ˈpɪ.lɚ",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "pillar"
+        },
+        {
+            "collocations": [
+                "marble columns：大理石柱",
+                "the gossip/financial column：漫谈/财经专栏",
+                "a column of text：一栏正文",
+                "a column in U. S. News & world Report：《美国新闻和世界报道》的\n一个专栏",
+                "a long column of troops and tanks：部队和坦克的长列纵队"
+            ],
+            "definition": "柱；（通常为）圆形石柱；纪念柱；（书、报纸印刷页上的）栏；（报刊的）专栏，栏目；（人或车辆排成行移动的）长列，纵队",
+            "examples": [],
+            "frequency": 2091,
+            "mnemonic": "colum（=pillar：柱子；栏）+ n（不发音，增减合理）→柱子；专栏",
+            "phonetic": "ˈkɑləm",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "column"
+        },
+        {
+            "collocations": [
+                "a columnist for the New York Times：《纽约时报》的专栏记者"
+            ],
+            "definition": "专栏作家4451",
+            "examples": [],
+            "mnemonic": "column（报刊的专栏）+ -ist（名词后缀，表示人）→给报刊写专栏\n的人→专栏作家",
+            "phonetic": "ˈkɑləmnɪst",
+            "pos": "n.",
+            "rootHint": "dox",
+            "word": "columnist"
+        }
+    ]
 }

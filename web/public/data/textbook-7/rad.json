@@ -1,939 +1,939 @@
 {
-  "chapter": "7",
-  "chapterOrder": 107,
-  "id": "rad",
-  "meaningZh": "根，与",
-  "roots": [
-    "rad"
-  ],
-  "semanticLabel": "根，与",
-  "source": "textbook-7",
-  "titleZh": "根，与",
-  "words": [
-    {
-      "collocations": [
-        "radical changes：根本变化",
-        "radical ideas：不同凡响的观点",
-        "a radical solution to the problem：解决问题的全新的方法",
-        "take radical measures：采取激进的措施"
-      ],
-      "definition": "根本的，彻底的；全新的，不同凡响的；激进的，极端的 n. 激进分子",
-      "examples": [],
-      "frequency": 2952,
-      "mnemonic": "rad-（根）+ -ical（=-ic+-al：复合形容词后缀）→根的，根本的；激",
-      "phonetic": "ˈɹæd.ɪ.kəl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "radical"
-    },
-    {
-      "collocations": [
-        "be radically different from：与……截然不同"
-      ],
-      "definition": "根本上地；彻底地；以激进的方式",
-      "examples": [
-        "Attitudes have changed radically.\n态度发生了根本的变化。"
-      ],
-      "frequency": 6615,
-      "phonetic": "ˈɹæd.ɪ.kə.li",
-      "pos": "adv.",
-      "rootHint": "rad",
-      "word": "radically"
-    },
-    {
-      "collocations": [
-        "a mixture of radicalism and conservatism：激进主义和保守主义的混合体"
-      ],
-      "definition": "激进主义",
-      "examples": [],
-      "frequency": 17221,
-      "mnemonic": "radical（激进的）+ -ism（表主义）→激进主义",
-      "phonetic": "ˈɹæd.ɪ.kə.lɪ.zəm",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radicalism"
-    },
-    {
-      "collocations": [
-        "eradicate illnesses：根除疾病",
-        "eradicate racism from our sport：杜绝体育竞技活动中的种族歧视现象"
-      ],
-      "definition": "根除；消灭；杜绝",
-      "examples": [],
-      "frequency": 9324,
-      "mnemonic": "e-（=out：出来）+ -radic-（=root：根）+ -ate（动词后缀）→root\nout：连根拔起；根除，消灭，杜绝",
-      "phonetic": "ɪ.ˈɹæ.dɪ.keɪt",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "eradicate"
-    },
-    {
-      "collocations": [
-        "the eradication of corruption：根除腐败"
-      ],
-      "definition": "根除",
-      "examples": [],
-      "frequency": 15560,
-      "mnemonic": "eradicate（根除）+-ion（名词后缀）→根除",
-      "phonetic": "ɪ.ˌɹæ.dɪ.ˈkeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "eradication"
-    },
-    {
-      "collocations": [
-        "a bunch of radishes：一捆萝卜"
-      ],
-      "definition": "萝卜",
-      "examples": [],
-      "frequency": 15495,
-      "mnemonic": "rad-（=root：根）+-ish（名词后缀）→有根的植物→萝卜",
-      "phonetic": "ˈɹæd.ɪʃ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radish"
-    },
-    {
-      "collocations": [
-        "uproot their vines：把葡萄藤连根拔起",
-        "fallen trees which have been uprooted by the storm：被暴风连根拔起而\n倒下的树",
-        "uproot my family：举家搬迁"
-      ],
-      "definition": "将……连根拔起 vi.&vt. （使）离开家园（或熟悉的地方等）",
-      "examples": [
-        "We decided to uproot and head for Scotland.\n我们决定迁往苏格兰。"
-      ],
-      "frequency": 19811,
-      "mnemonic": "up（向上）+root（根）→把根向上拔起→将……连根拔起→（使）",
-      "phonetic": "ʌpˈɹut",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "uproot"
-    },
-    {
-      "collocations": [
-        "being uprooted：将……连根拔起；（使）离开家园",
-        "word-forming element meaning 1. “ray, ray-like” (see radius); 2. “radial,\nradially” (see radial (adj.)); 3. “by means of radiant energy” (see radiate"
-      ],
-      "definition": "被连根拔起的 vt.&vi. uproot的过去式和过去分词",
-      "etymology": "radio- 笔 记 区 (v.)); 4. “radioactive” (see radioactive); 5. “by radio” (see radio (n.)).",
-      "examples": [],
-      "frequency": 16553,
-      "phonetic": "ʌpˈɹutɪd",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "uprooted"
-    },
-    {
-      "collocations": [
-        "local/national radio：地方/国家无线电广播",
-        "to turn the radio on / off：打开/关上收音机",
-        "radio signals / waves：无线电信号/电波",
-        "radio for help：用无线电呼救"
-      ],
-      "definition": "无线电广播，无线电广播节目；收音机；无线电通信；无线电收发报机 vi.&vt.（用无线电）发送，传送",
-      "etymology": "“wireless transmission of voice signals with radio waves.”",
-      "examples": [
-        "The warning was radioed to headquarters.\n通过无线电向总部发出了警报。"
-      ],
-      "frequency": 907,
-      "mnemonic": "radi-（放射；射线）+ o→radio：无线电广播，通信；（用无线电）",
-      "phonetic": "ˈɹeɪ.di.oʊ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radio"
-    },
-    {
-      "collocations": [],
-      "definition": "放射科医生；X光科的医生",
-      "examples": [],
-      "frequency": 18627,
-      "mnemonic": "radio（放射的）+logy（学）+-ist（表示人）→从事放射医疗的人→",
-      "phonetic": "ˌɹeɪ.diˈɑ.lə.dʒɪst",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radiologist"
-    },
-    {
-      "collocations": [
-        "a radar screen：雷达显示屏",
-        "on/off the radar screen：受/不受人关注"
-      ],
-      "definition": "雷达",
-      "examples": [
-        "They located the ship by radar.\n他们通过雷达确定了船只的位置。"
-      ],
-      "frequency": 4836,
-      "mnemonic": "ra(dio) + d(etecting) + -ar(ranging)：无线电探测和测距的首字母合",
-      "phonetic": "ˈɹeɪ.dɑɹ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radar"
-    },
-    {
-      "collocations": [
-        "ray of：一点；少量",
-        "ray of hope：一线希望"
-      ],
-      "definition": "光线；（热或其他能量的）射线",
-      "etymology": "同 radio。引申词义光线，射线。 20000 词汇巅峰 速 记 笔 记 区",
-      "examples": [],
-      "frequency": 5110,
-      "mnemonic": "radi-（放射；射线）→ray：光线；射线",
-      "phonetic": "ɹeɪ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "ray"
-    },
-    {
-      "collocations": [
-        "fear the long term effects of radiation：担心辐射造成的长期影响"
-      ],
-      "definition": "辐射，放射线；辐射热、辐射能等",
-      "examples": [],
-      "frequency": 3686,
-      "mnemonic": "radi-（辐射；放射；发散光、热、能量等的）+ -ation（复合名词后\n缀，-ate+-ion）→辐射；放射线；放射热、能等",
-      "phonetic": "ˌɹeɪ.diˈeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radiation"
-    },
-    {
-      "collocations": [
-        "She radiates happiness and health.\n她浑身流露着快乐与健康。",
-        "Five roads radiate from the square.\n五条道路由广场向外延伸（辐射）。"
-      ],
-      "definition": "（使品质或情感）显出，流露 vt.&vi. （使热、光、能量）辐射，放射，散发 [v. + adv./prep. ]（直线等）自中心辐射出；向周围伸展",
-      "examples": [
-        "Heat radiates from the stove.\n炉子的热向外散发。"
-      ],
-      "frequency": 8664,
-      "mnemonic": "radi（放射；辐射；发散）+ -ate（使动词）→辐射，发散（即：像\n→引申义为“显出，流露”",
-      "phonetic": "ˈɹeɪ.di.eɪt",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "radiate"
-    },
-    {
-      "collocations": [
-        "the radiant heat/energy of the sun：太阳的辐射热/辐射能",
-        "The sun was radiant in a clear blue sky.\n湛蓝的天空阳光灿烂。\n笔 记 区"
-      ],
-      "definition": "容光焕发的；灿烂的，光芒四射的；辐射的，放射的",
-      "examples": [
-        "She was radiant with health.\n她身体健康，容光焕发。"
-      ],
-      "frequency": 9964,
-      "mnemonic": "radi-（放射；发散）+ -ant（形容词词缀）→（周身；太阳等）散发\n光芒的；发射的→荣光焕发的；光芒四射的；辐射的，放射的",
-      "phonetic": "ˈɹeɪ.di.ənt",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "radiant"
-    },
-    {
-      "collocations": [
-        "a central heating system with a radiator：有一个散热器的中央供暖系统",
-        "heating radiator：供暖散热片",
-        "electric radiator：电暖气"
-      ],
-      "definition": "散热器，暖气片；（车辆或飞机发动机的）冷却器，水箱",
-      "examples": [],
-      "frequency": 13764,
-      "mnemonic": "radiate（使热、光、能量放射，发散）+ -or（表物体）→用于发散热\n量的设备→散热器；暖气片；水箱",
-      "phonetic": "ˈɹeɪ.di.eɪ.tɚ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radiator"
-    },
-    {
-      "collocations": [
-        "the radial pattern of public transport facilities：呈辐射状分布的公共交"
-      ],
-      "definition": "放射状的；辐射状的 n. 辐射式轮胎；子午线轮胎",
-      "examples": [],
-      "frequency": 17080,
-      "mnemonic": "rad-（放射；辐射）+ -ial（形容词/名词后缀）→放射状的；辐射状的",
-      "phonetic": "ˈɹeɪ.di.əl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "radial"
-    },
-    {
-      "collocations": [
-        "a soft radiance：一层柔和的光辉"
-      ],
-      "definition": "容光焕发；（散发出来的）光辉",
-      "examples": [],
-      "frequency": 17872,
-      "mnemonic": "radi-（=radiant：容光焕发的；散发光辉的）+ -ance（名词后缀）→",
-      "phonetic": "ˈɹeɪ.di.əns",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radiance"
-    },
-    {
-      "collocations": [
-        "ray of light, beam of light; radius of a circle,” of unknown origin. Perhaps",
-        "related to radix “root,” but de Vaan finds that “unlikely.”",
-        "a semicircle with a radius of about thirty miles：一个半径大约三十英里",
-        "space, conceived as a hollow globe about the world,” from Anglo-French",
-        "espiere, Old French espere (13c., Modern French sphère), from Latin\nsphaera “globe, ball, celestial sphere” (Medieval Latin spera), from Greek\nsphaira “globe, ball, playing ball, terrestrial globe,” a word of unknown"
-      ],
-      "definition": "范围；半径（长度）",
-      "etymology": "Mid-15c., Latinized spelling of Middle English spere (c. 1300) “cosmos; origin.",
-      "examples": [
-        "They deliver to within a 5-mile radius of the store.\n他们在距离商场5英里的范围内送货上门\n比较：diameter：直径（dia-：通过；穿过）\n单词 sphere 表示“球；范围”。"
-      ],
-      "frequency": 9631,
-      "mnemonic": "radi-（放射；辐射）+ -us（名词后缀）→从圆心向外辐射的范围→范",
-      "phonetic": "ˈɹeɪ.di.əs",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "radius"
-    },
-    {
-      "collocations": [
-        "in economic, social and cultural spheres：在经济，社会和文化领域",
-        "appear to be way ahead in at least one undesirable category.\n尽管在现代生活的一些领域，女人仍然在追赶着男人，不过似乎至少\n在不那么受欢迎的领域，女人走在了男人的前面。",
-        "It is an undoubted fact that the Internet communication appears/arises in",
-        "almost all spheres of modern life."
-      ],
-      "definition": "球，球体；（活动、兴趣的）范围，领域",
-      "examples": [
-        "While still catching-up to men in some spheres of modern life, women",
-        "互联网交际几乎出现在了现代生活里的各个领域当中，这已经是\n一个不争的事实。"
-      ],
-      "frequency": 4582,
-      "mnemonic": "sphere（=ball：球）→球，球（体）\nsphere（=range：范围；领域）→范围；领域",
-      "phonetic": "sfɪɹ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "sphere"
-    },
-    {
-      "collocations": [
-        "spherical surface：球面",
-        "gold spherical earrings：金色的球形耳环\n20000 词汇巅峰\n速\n记\n-sphere 构成名词（包围地球等的大气的）层\n笔 记 区"
-      ],
-      "definition": "球形的；球状的",
-      "examples": [],
-      "frequency": 15194,
-      "mnemonic": "sphere（球；球体）+-ical（形容词后缀，……的）→球形的；球状的",
-      "phonetic": "ˈsfɪɹɪkəl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "spherical"
-    },
-    {
-      "collocations": [
-        "the upper atmosphere：高层大气",
-        "warm, humid atmospheres：潮湿的空气",
-        "a party atmosphere：聚会的气氛"
-      ],
-      "definition": "大气，大气层；空气；气氛，氛围",
-      "examples": [],
-      "frequency": 2237,
-      "mnemonic": "atmo（=air：气体；大气）+ sphere（=ball：球体；地球）→在地球\n周围的气体→大气；空气；气氛",
-      "phonetic": "ˈætməsˌfɪɹ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "atmosphere"
-    },
-    {
-      "collocations": [
-        "atmospheric pollution/conditions/pressure：大气污染/状况/压力",
-        "atmospheric music：有感染力的音乐"
-      ],
-      "definition": "大气的，大气层的；令人激动的，有感染力的",
-      "examples": [],
-      "frequency": 6958,
-      "mnemonic": "atmospher(e) （大气；气氛）+-ic（形容词后缀，…的）→大气的；",
-      "phonetic": "ˌætməsˈfɛɹɪk",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "atmospheric"
-    },
-    {
-      "collocations": [
-        "as winter grips the northern hemisphere：随着北半球冬季的到来",
-        "the northern/southern hemisphere：北/南半球",
-        "brain hemisphere：大脑半球\n单词 globe 含义为“地球；球体；球状物”。",
-        "from Middle French globe (14c.) and directly from Latin globus “round",
-        "mass, sphere, ball” (also, of men, “a throng, crowd, body, mass”), which is",
-        "related to gleba “clod, lump of soil” (see glebe) and perhaps also to glomus"
-      ],
-      "definition": "（地球的）半球，（尤指）北半球，南半球；（大脑的）半球；（球体的）半球",
-      "etymology": "Late 14c., “a large mass;” mid-15c., “spherical solid body, a sphere,” “a ball, ball of yarn.” 20000 词汇巅峰 速 记 笔 记 区",
-      "examples": [],
-      "frequency": 8764,
-      "mnemonic": "hemi（=semi=half：半）+ sphere（球）→（北/南）半球，大脑半球",
-      "phonetic": "ˈhɛ.mə.ˌsfɪɹ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "hemisphere"
-    },
-    {
-      "collocations": [
-        "around/across/all over the globe：全世界",
-        "The overhead light was covered now with a white globe.\n顶灯现在被一个白色的球状物罩了起来。"
-      ],
-      "definition": "地球仪；地球，世界；球体，球状物",
-      "etymology": "来源于拉丁语globus（球）=sphere, ball：球，球体",
-      "examples": [
-        "70% of our globe’s surface is water.\n我们地球表面的70%是水。"
-      ],
-      "frequency": 4787,
-      "phonetic": "ɡloʊb",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "globe"
-    },
-    {
-      "collocations": [
-        "global warming：全球变暖",
-        "global inflation：全球通货膨胀",
-        "global trade：全球贸易谈",
-        "take a more global approach to the problem：更全面地看这个问题",
-        "send a global email：发了一封统一的电邮",
-        "global economic integration：全球经济一体化"
-      ],
-      "definition": "全球的；整体的，全面的；统一的，一体的",
-      "examples": [],
-      "frequency": 1114,
-      "mnemonic": "globe（地球）+-al（形容词后缀）→全球的→引申义为“全面的；统",
-      "phonetic": "ˈɡloʊ.bəl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "global"
-    },
-    {
-      "collocations": [
-        "think globally：全面考虑"
-      ],
-      "definition": "全球地；全局地；全面地",
-      "examples": [
-        "Globally, the movie has brought in $ 275 million.\n这部电影在全球的票房收入已达2.75亿美元。"
-      ],
-      "frequency": 10567,
-      "phonetic": "ˈɡloʊ.bə.li",
-      "pos": "adv.",
-      "rootHint": "rad",
-      "word": "globally"
-    },
-    {
-      "collocations": [
-        "economic globalization：经济全球化"
-      ],
-      "definition": "全球化（世界各地的文化和经济体系日益关联）",
-      "examples": [],
-      "frequency": 6547,
-      "mnemonic": "global（全球的）+ -ize（使动词后缀）+ -ation（复合名词后缀）→全",
-      "phonetic": "ˌɡloʊ.bə.ləˈzeɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "globalization"
-    },
-    {
-      "collocations": [],
-      "definition": "球形的；球体的",
-      "examples": [
-        "The globular seed capsule contains numerous small seeds.\n这颗球形果壳里包着无数的小种子。"
-      ],
-      "frequency": 16314,
-      "mnemonic": "globe（球形；球体）+-ular（形容词后缀，似……形状的）→球形",
-      "phonetic": "ˈɡlɑ.bjə.lɚ",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "globular"
-    },
-    {
-      "collocations": [
-        "a media conglomerate：大众传媒联合体（传媒集团）"
-      ],
-      "definition": "联合大公司；企业集团；合成物；聚合物",
-      "examples": [],
-      "frequency": 10520,
-      "mnemonic": "con-（=with, together：一起）+-glomer（=to gather into a ball, collect：\n聚集成球；收集）+-ate（名词后缀）→聚集在一起的物体→企业集",
-      "phonetic": "kənˈɡlɑməɹət",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "conglomerate"
-    },
-    {
-      "collocations": [
-        "clam soup：蛤蜊汤"
-      ],
-      "definition": "捞蛤 n. 蛤；蛤蜊；蚌",
-      "etymology": "来自古英语clamm “bond, grip, grasp：牢固结合；紧握；抓牢”。来 自古印欧语词根klam- “to press or squeeze together：挤压在一起” ， 来自词根glem-或者glom-, 含义为 “contain, embrace：包括；包含” 或 “ball：球体”。蛤蜊是一种双壳的软体动物，它的壳像是一把钳子， 能够紧紧地夹住东西。因此，古苏格兰人将其命名为clam。该词来自 古英语clamm，意思是“紧握”。",
-      "examples": [],
-      "frequency": 10367,
-      "mnemonic": "klam-：加紧、挤压在一起的物体→clam：双壳紧紧夹住东西的物\nglom-：包含（肉）的球状物动物→clam：双壳包含着肉：蛤蜊",
-      "phonetic": "klæm",
-      "pos": "vi.",
-      "rootHint": "rad",
-      "word": "clam"
-    },
-    {
-      "collocations": [
-        "clamp A to B/clamp A and B (together)：把A固定在B上/把A和B夹紧",
-        "clamp down (on sb./sth.)：严厉打击（犯罪等）\n20000 词汇巅峰\n速\n记\n笔 记 区\nclamp sth. on sb.：强制……接受（限制或法律等）",
-        "I clamped a hand on his shoulder.\n我用一只手紧紧抓住他的肩膀。",
-        "Her lips clamped tightly together.\n她的双唇紧闭。"
-      ],
-      "definition": "用 (夹具) 夹紧，夹住；紧紧抓住 n. 夹具",
-      "examples": [
-        "Clamp the two halves together until the glue dries.\n用夹具把两半物品夹紧，待胶干后再松开。"
-      ],
-      "frequency": 8388,
-      "mnemonic": "clam：蛤蜊（双壳夹紧）→clamp：词义外延至用（夹具）夹紧；夹",
-      "phonetic": "klæmp",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "clamp"
-    },
-    {
-      "collocations": [
-        "heavenly body,” from Old French orbe “orb, globe” (13c.) and directly",
-        "from Latin orbem (nominative orbis) “circle, disk, ring, hoop, orbit,”",
-        "probably related to orbita “wheel track, rut,” a word of unknown and",
-        "much-disputed origin. Watkins suggests a connection with the root of\norchid. De Vaan suggests *horbi- “turning thing.” 来自拉丁语orbis=circle,\nring, globe：圈，环，球体。",
-        "on everything.\n圆盘似的月亮会高悬在夜空中，将柔和的月光洒向世间万物。"
-      ],
-      "definition": "球体；球状物，（尤指）日，月",
-      "etymology": "Mid-15c., “sphere, globe, something spherical or circular, orbit of a",
-      "examples": [
-        "The moon’s round orb would shine high in the sky, casting its velvety light"
-      ],
-      "frequency": 18283,
-      "phonetic": "ɔɹb",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "orb"
-    },
-    {
-      "collocations": [
-        "orbit the earth：环绕地球运行",
-        "put spaceships in orbit：把宇宙飞船放入轨道\nthe earth’s orbit around the sun：地球环绕太阳的轨道\nto come/fall/be within sb’s orbit：进入/落入/属于某人的势力范围\n20000 词汇巅峰\n速\n记\n笔 记 区\nearth’s orbit around the sun：地球环绕太阳运行"
-      ],
-      "definition": "环绕……的轨道运行 n. （天体运行的）轨道；（人、组织等的）影响范围，势力范围",
-      "examples": [],
-      "frequency": 4217,
-      "mnemonic": "orb-（在模仿globe中的“obe：部分”，造出“球，天体”的含义）\n+it（走；运行）→围绕天体运行→绕轨道运行；轨道",
-      "phonetic": "ˈɔɹ.bɪt",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "orbit"
-    },
-    {
-      "collocations": [
-        "other planet.\n新发现的这个天体的运行轨道和任何其他行星的不同。"
-      ],
-      "definition": "（行星或空间物体）轨道的；（城市）外环路的 n. 高速环行路",
-      "examples": [
-        "The newly discovered world followed an orbital path unlike that of any"
-      ],
-      "frequency": 9960,
-      "mnemonic": "orbit（天体轨道；环绕……运行）+-al（形容词后缀，……的）→轨",
-      "phonetic": "ˈɔɹ.bɪ.təl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "orbital"
-    },
-    {
-      "collocations": [
-        "lunar orbiter：绕月轨道飞行器"
-      ],
-      "definition": "（绕天体作轨道运行的）轨道飞行器；宇宙飞船",
-      "examples": [],
-      "frequency": 17502,
-      "mnemonic": "orbit（轨道）+ -er（表物体）→引申词义轨道飞行器；宇宙飞船",
-      "phonetic": "ˈɔɹ.bɪ.tɚ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "orbiter"
-    },
-    {
-      "collocations": [
-        "Late Latin exorbitantem (nominative exorbitans), present participle of\nexorbitare “deviate, go out of the track”. General sense of “excessive,\nimmoderate” is from 1620s; of prices, rates, etc., from 1660s. Related:",
-        "Exorbitantly.",
-        "exorbitant costs/fares/fees/prices/rents：过高的花费/交通费/收费/价格/",
-        "also of Old Saxon graf, Old Frisian gref, Old High German grab “grave,",
-        "Church Slavonic grobu “grave, tomb,”",
-        "It is the hypothetical source of/evidence for its existence is provided by:",
-        "Sanskrit guruh “heavy, weighty, venerable;” Greek baros “weight,” barys",
-        "participle grafen)."
-      ],
-      "definition": "（价格、费用等）过高的；高得离谱的",
-      "etymology": "n. “excavation in earth for reception of a dead body,” Old English græf “grave; ditch, trench; cave,” from Proto-Germanic *grafa-/graba- (source tomb;” Old Norse gröf “cave,” Gothic graba “ditch”), cognate with Old adj. gwere- (1) gwerə-, Proto-Indo-European root meaning “heavy.” “heavy in weight,” often with the notion of “strength, force;” Latin gravis, “heavy, ponderous, burdensome, loaded; pregnant;” Old English cweorn “quern;” Gothic kaurus “heavy;” Lettish gruts “heavy.” v. “to engrave,” Old English grafan “to dig, dig up; engrave, carve, chisel” (medial -f- pronounced as “v” in Old English; past tense grof, past",
-      "examples": [],
-      "frequency": 17267,
-      "mnemonic": "ex-（=out of：出去；脱离；离开）+ orbit（轨道）+ -ant（形容词后\n缀）→脱离正常轨道的→引申义价格高得离谱的",
-      "phonetic": "ɪɡ.ˈzɔɹ.bɪ.tənt",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "exorbitant"
-    },
-    {
-      "collocations": [
-        "a grave crime：一个严重的罪行",
-        "visit his grave regularly：定期去他的墓地（扫墓）",
-        "the effects, though grave, need not be catastrophic.\n现在，很多专家坚信，假如政策得当，效果尽管会很严峻，但还不至\n于是灾难性的。"
-      ],
-      "definition": "严肃的；重大的；严肃的 n. 坟墓；死亡",
-      "examples": [
-        "Is there life beyond the grave (= life after death)?\n人死后有来生吗？\n（阅读，写作例句）：Many experts now believe that given the right policies,"
-      ],
-      "frequency": 3388,
-      "mnemonic": "grave（=heavy：重的）→严重的，重大的\ngrave（=cave：洞穴）→坟墓（即：一个“洞穴”）",
-      "phonetic": "ɡɹeɪv",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "grave"
-    },
-    {
-      "collocations": [
-        "He nodded gravely as I poured out my troubles.\n我倾诉我的苦恼时他心情沉重地点了点头。\n笔 记 区"
-      ],
-      "definition": "严肃地；沉重地；严重地",
-      "examples": [
-        "She is gravely ill.\n她病势沉重。"
-      ],
-      "frequency": 13491,
-      "phonetic": "ˈɡɹeɪv.li",
-      "pos": "adv.",
-      "rootHint": "rad",
-      "word": "gravely"
-    },
-    {
-      "collocations": [
-        "Newton’s law of gravity：牛顿万有引力定律",
-        "the gravity of the situation：形势的严重性",
-        "behave with the gravity in a court：在法庭上表现出严肃性",
-        "have a profound effect on societies, not just economically and politically",
-        "but in all sorts of other ways too.\n即便如此，重心向老年人群转移必然会对社会产生深远的影响，该影\n响不仅体现在经济上和政治上，还涵盖其他的方方面面。"
-      ],
-      "definition": "重力，地心引力；严重性；严肃，庄严",
-      "examples": [
-        "Even so, the shift in the center of gravity to older age groups is bound to"
-      ],
-      "frequency": 3993,
-      "mnemonic": "grav（=grave：重的；严重的，严肃的）+ -ity（名词后缀）→重力，",
-      "phonetic": "ˈɡɹæ.və.ti",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "gravity"
-    },
-    {
-      "collocations": [
-        "make their way to the graveyard：一路前行来到墓地"
-      ],
-      "definition": "墓地（常在教堂附近）",
-      "examples": [],
-      "frequency": 10216,
-      "mnemonic": "grave（坟墓）+ yard（场地）→墓地",
-      "phonetic": "ˈɡɹeɪv.jɑɹd",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "graveyard"
-    },
-    {
-      "collocations": [],
-      "definition": "墓碑",
-      "examples": [],
-      "frequency": 19468,
-      "mnemonic": "grave（坟墓）+stone（石头）→坟墓上的石头→墓碑",
-      "phonetic": "ˈɡɹeɪv.stoʊn",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "gravestone"
-    },
-    {
-      "collocations": [
-        "gravitate to/toward(s) sb./sth.：被吸引到；受吸引而转向",
-        "You naturally gravitate toward people with shared values.\n你自然而然地被具有共同价值观的人吸引。"
-      ],
-      "definition": "受引力作用；被吸引到；受吸引而转向",
-      "examples": [
-        "Many young people gravitate to the cities in search of work.\n许多年轻人被吸引到城里找工作。"
-      ],
-      "frequency": 12924,
-      "mnemonic": "gravit（=gravity：万有引力）+ -ate（使动词后缀）→使……感受到\n（吸）引力→受引力作用；被吸引",
-      "phonetic": "ˈɡɹæ.və.teɪt",
-      "pos": "vi.",
-      "rootHint": "rad",
-      "word": "gravitate"
-    },
-    {
-      "collocations": [
-        "a gravitational field：引力场",
-        "the gravitational pull of the moon：月球的引力"
-      ],
-      "definition": "引力的；重力引起的",
-      "examples": [],
-      "frequency": 9559,
-      "mnemonic": "gravitate（受引力作用）+ -ional（=-ion+-al）→引力的；重力引起的",
-      "phonetic": "ˌɡɹæ.vɪˈteɪ.ʃə.nəl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "gravitational"
-    },
-    {
-      "collocations": [
-        "be engraved on/in your heart, memory, mind etc.：铭刻在心、记忆、头",
-        "engrave A (with B)/engrave B on A：把B雕刻在A上",
-        "His name was engraved on the silver cup.\n他的名字刻在了银杯上。"
-      ],
-      "definition": "在……上雕刻（字或图案）；刻上",
-      "examples": [
-        "The silver cup was engraved with his name.\n银杯上刻有他的名字"
-      ],
-      "frequency": 12652,
-      "mnemonic": "en-（=in：进入）+ grav-（=cut, carve：刻；雕刻）+ -e→to cut/carve\nin：在……上雕刻",
-      "phonetic": "ɪn.ˈɡɹeɪv",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "engrave"
-    },
-    {
-      "collocations": [],
-      "definition": "铭记于心的；刻在脑海中的",
-      "examples": [
-        "Her image is engraved upon my heart.\n她的形象铭刻在我的心中。"
-      ],
-      "frequency": 19973,
-      "mnemonic": "engrave（在……上雕刻）+ -ed（形容词后缀）→刻在心中、头脑中\n的→铭记于心的；刻在脑海中的",
-      "phonetic": "ɪn.ˈɡɹeɪvd",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "engraved"
-    },
-    {
-      "collocations": [
-        "a color engraving of oranges and lemons：一副绘有橙子和柠檬的彩色",
-        "wood engraving：木版画",
-        "engraving tool：雕刻工具\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "雕版；版画；雕刻（术）",
-      "examples": [],
-      "frequency": 12567,
-      "mnemonic": "engrave（雕刻）+ -ing（动名词后缀）→雕版；版画",
-      "phonetic": "ɪn.ˈɡɹeɪ.vɪŋ",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "engraving"
-    },
-    {
-      "collocations": [
-        "add to the weight of：使严重，恶化；激怒（使事态恶化）",
-        "What aggravates you most about this country?\n这个国家最惹恼你的是什么？",
-        "In fact, rather than helping the fight against malnutrition in “hungry\nnations,” the spread of factory farming has, inevitably aggravated the",
-        "In fact, rather than helping students to improve mental health, the",
-        "practice of forcing/compelling them to see a psychologist has, inevitably",
-        "aggravated their mental well-being.\n近义词：worsen：（使）变得更坏；恶化\nirritate：刺激（皮肤或身体部位）；使烦恼（尤指不断重复的事情）\n笔 记 区"
-      ],
-      "definition": "使严重；使恶化；（尤指故意地）激怒，惹恼",
-      "examples": [
-        "Stress and lack of sleep can aggravate the situation.\n紧张和缺少睡眠会使情况恶化。\nproblem.\n事实上，不是帮助饥荒国家抗击营养不良，工厂化农场经营的传播已\n经不可避免的加重了该问题。",
-        "事实上，并没有帮助学生改善心理健康，强迫他们去看心理医生\n的做法不可避免的加重了其心理健康问题。"
-      ],
-      "frequency": 10056,
-      "mnemonic": "ag-（=ad-：to）+ grav-（=grave=heavy：重的；严重的）+ -ate（使动\n词）→to make heavy,",
-      "phonetic": "ˈæɡ.ɹə.veɪt",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "aggravate"
-    },
-    {
-      "collocations": [],
-      "definition": "（罪行）严重的；加重的",
-      "examples": [
-        "He was jailed for aggravated assault.\n他因严重的人身侵犯罪而入狱。"
-      ],
-      "frequency": 16989,
-      "phonetic": "ˈæɡ.ɹə.veɪ.tɪd",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "aggravated"
-    },
-    {
-      "collocations": [
-        "express grief：表达悲痛，悲伤",
-        "come to grief：以彻底失败而告终；受伤，遭到不幸",
-        "She was overcome with grief when her husband died.\n丈夫去世时她悲痛欲绝。",
-        "It was a grief to them that they had no children.\n没有孩子是他们的一个伤心事。"
-      ],
-      "definition": "（尤指因某人去世引起的）悲痛；伤心事，悲痛事",
-      "examples": [
-        "So many marriages have come to grief over lack of money.\n如此多的婚姻因为缺钱而破裂。"
-      ],
-      "frequency": 4131,
-      "mnemonic": "grav-（重；压迫）→grief：悲痛；伤心事（沉重的事情压在心里）",
-      "phonetic": "ɡɹif",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "grief"
-    },
-    {
-      "collocations": [
-        "air their grievances：诉说他们的苦衷",
-        "nurse a grievance against boss：对老板心怀抱怨（不满）",
-        "a formal grievance procedure：正式冤屈投诉程序（表达委屈、发泄抱\n怨的渠道）"
-      ],
-      "definition": "苦衷；委屈；抱怨",
-      "examples": [],
-      "frequency": 8806,
-      "mnemonic": "griev（-grav-：沉重；压迫）+ -ance（名词后缀）→让心里沉重的事\n情→苦衷；委屈",
-      "phonetic": "ˈɡɹi.vəns",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "grievance"
-    },
-    {
-      "collocations": [
-        "grieve over：对……感到悲痛"
-      ],
-      "definition": "&vi. （尤指因某人的去世而）悲痛 vt. 使悲伤；使悲痛；使伤心",
-      "examples": [
-        "Their lack of interest grieved her.\n他们不感兴趣使她很伤心。"
-      ],
-      "frequency": 9993,
-      "mnemonic": "griev（=grave：坟墓；重的）+ -e（后缀）→在坟墓前→（心情）沉",
-      "phonetic": "ɡɹiv",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "grieve"
-    },
-    {
-      "collocations": [
-        "grieving relatives：悲痛欲绝的亲戚"
-      ],
-      "definition": "为……感到悲痛（grieve的现在分词形式） adj. 悲痛（欲绝）的",
-      "examples": [
-        "He’s grieving over his dead wife and son.\n他因丧妻失子而悲痛不已。"
-      ],
-      "frequency": 10657,
-      "phonetic": "ˈɡɹi.vɪŋ",
-      "pos": "vi.",
-      "rootHint": "rad",
-      "word": "grieving"
-    },
-    {
-      "collocations": [
-        "the aggrieved party (= person) in the case：案件中的受害方"
-      ],
-      "definition": "愤愤不平的，感到受委屈的；受害的",
-      "examples": [
-        "I really feel aggrieved at this sort of thing.\n我对这种事真地感到愤愤不平。"
-      ],
-      "frequency": 19192,
-      "mnemonic": "ag-（=ad-=to）+ -griev（=grave=heavy：沉重的）+ -ed（形容词后\n缀）→to make heavy, to weigh down：某事使某人感到沉重，受委屈\n→愤愤不平的；受委屈的",
-      "phonetic": "ə.ˈɡɹivd",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "aggrieved"
-    },
-    {
-      "collocations": [
-        "unreasonable：沉重的；沉闷的；无知觉的；不讲道理”",
-        "brute force / strength：暴力；蛮劲",
-        "the brute facts of inequality：赤裸裸的不平等事实",
-        "a drunken brute：一个粗暴的醉鬼"
-      ],
-      "definition": "蛮干不动脑筋的；根本而令人不快的，赤裸裸的 n. 粗暴残酷的人；笨重难看的东西",
-      "etymology": "来自15世纪早期，“of or belonging to animals, non-human：属于动 物地；非人的”。来自古法语brut “coarse, raw, crude：粗鲁的；强烈 直露的（情感）”。来自拉丁语brutus “heavy, dull, stupid, insensible, 。",
-      "examples": [],
-      "frequency": 12228,
-      "phonetic": "bɹut",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "brute"
-    },
-    {
-      "collocations": [
-        "a brutal attack/murder/rape/killing：残暴的攻击/谋杀/强奸/杀害"
-      ],
-      "definition": "残暴的；不留情面的，冷酷的（诚实、直白）",
-      "examples": [
-        "With brutal honesty she told him she did not love him.\n她冷酷地直接告诉他，她不爱他。"
-      ],
-      "frequency": 4752,
-      "mnemonic": "brut（=brute：残暴的；赤裸裸的）+ -al（形容词后缀）→残暴的；",
-      "phonetic": "ˈbɹu.təl",
-      "pos": "adj.",
-      "rootHint": "rad",
-      "word": "brutal"
-    },
-    {
-      "collocations": [
-        "police brutality：警察的暴行",
-        "the brutalities of war：战争的残酷无情"
-      ],
-      "definition": "残暴；暴行（需用复数形式）",
-      "examples": [],
-      "frequency": 8808,
-      "mnemonic": "brutal（残暴的；冷酷的）+ -ity（名词后缀）→残暴；冷酷",
-      "phonetic": "bɹuˈtæ.lə.ti",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "brutality"
-    },
-    {
-      "collocations": [
-        "Let me be brutally frank about this.\n让我把这件事无情地挑明说吧。\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "残暴地；不留情面地",
-      "examples": [
-        "He was brutally assaulted.\n他遭到毒打。"
-      ],
-      "frequency": 10333,
-      "phonetic": "ˈbɹu.tə.li",
-      "pos": "adv.",
-      "rootHint": "rad",
-      "word": "brutally"
-    },
-    {
-      "collocations": [
-        "soldiers brutalized by war：在战争中变得残酷无情的士兵"
-      ],
-      "definition": "使……变残忍；残酷对待，虐待",
-      "examples": [
-        "He was brutalized by the experience of being in prison.\n牢狱生活使他变得残暴了。"
-      ],
-      "frequency": 20081,
-      "mnemonic": "brutal（残忍的；冷酷的）+-ize（使动词后缀）→使……变残忍；残",
-      "phonetic": "ˈbɹu.tə.laɪz",
-      "pos": "vt.",
-      "rootHint": "rad",
-      "word": "brutalize"
-    },
-    {
-      "collocations": [
-        "173rd Airborne Brigade：第173空降旅",
-        "fire brigade：消防队\n带有-ade后缀的名词有：\nblock（阻碍）→blockade（障碍物、封锁）\nlemon（柠檬）→lemonade（柠檬水）\ndec-（十）→decade（十年）\n-casc-（to fall：落）→cascade（瀑布）\n-arc-（弧）→arcade（拱廊、拱廊商店街）"
-      ],
-      "definition": "旅（陆军编制单位）；伙，帮，派",
-      "examples": [],
-      "frequency": 9497,
-      "mnemonic": "brig（=to fight：争斗；击打）+-ade（名词后缀）→军事用语指",
-      "phonetic": "bɹɪˈɡeɪd",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "brigade"
-    },
-    {
-      "collocations": [
-        "to be honored, teacher：值得尊敬的人；教师”。来自guru-",
-        "worthy of honor：令人尊敬的”。字面上也有 “heavy, weighty：重的；\n沉重的” 含义（荣誉加身，感觉很“重”）。",
-        "fashion gurus：时装大师们"
-      ],
-      "definition": "精神领袖（尤指印度教的）；专家，权威，大师",
-      "etymology": "来自印地语guru “teacher, priest：教师；祭司”。来自梵文guru-s “one “venerable,",
-      "examples": [],
-      "frequency": 9430,
-      "phonetic": "ˈɡʊ.ɹu",
-      "pos": "n.",
-      "rootHint": "rad",
-      "word": "guru"
-    }
-  ]
+    "chapter": "7",
+    "chapterOrder": 107,
+    "id": "rad",
+    "meaningZh": "根，与",
+    "roots": [
+        "rad"
+    ],
+    "semanticLabel": "根，与",
+    "source": "textbook-7",
+    "titleZh": "根，与",
+    "words": [
+        {
+            "collocations": [
+                "radical changes：根本变化",
+                "radical ideas：不同凡响的观点",
+                "a radical solution to the problem：解决问题的全新的方法",
+                "take radical measures：采取激进的措施"
+            ],
+            "definition": "根本的，彻底的；全新的，不同凡响的；激进的，极端的 n. 激进分子",
+            "examples": [],
+            "frequency": 2952,
+            "mnemonic": "rad-（根）+ -ical（=-ic+-al：复合形容词后缀）→根的，根本的；激",
+            "phonetic": "ˈræd.ɪ.kəl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "radical"
+        },
+        {
+            "collocations": [
+                "be radically different from：与……截然不同"
+            ],
+            "definition": "根本上地；彻底地；以激进的方式",
+            "examples": [
+                "Attitudes have changed radically.\n态度发生了根本的变化。"
+            ],
+            "frequency": 6615,
+            "phonetic": "ˈræd.ɪ.kə.li",
+            "pos": "adv.",
+            "rootHint": "rad",
+            "word": "radically"
+        },
+        {
+            "collocations": [
+                "a mixture of radicalism and conservatism：激进主义和保守主义的混合体"
+            ],
+            "definition": "激进主义",
+            "examples": [],
+            "frequency": 17221,
+            "mnemonic": "radical（激进的）+ -ism（表主义）→激进主义",
+            "phonetic": "ˈræd.ɪ.kə.lɪ.zəm",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radicalism"
+        },
+        {
+            "collocations": [
+                "eradicate illnesses：根除疾病",
+                "eradicate racism from our sport：杜绝体育竞技活动中的种族歧视现象"
+            ],
+            "definition": "根除；消灭；杜绝",
+            "examples": [],
+            "frequency": 9324,
+            "mnemonic": "e-（=out：出来）+ -radic-（=root：根）+ -ate（动词后缀）→root\nout：连根拔起；根除，消灭，杜绝",
+            "phonetic": "ɪ.ˈræ.dɪ.keɪt",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "eradicate"
+        },
+        {
+            "collocations": [
+                "the eradication of corruption：根除腐败"
+            ],
+            "definition": "根除",
+            "examples": [],
+            "frequency": 15560,
+            "mnemonic": "eradicate（根除）+-ion（名词后缀）→根除",
+            "phonetic": "ɪ.ˌræ.dɪ.ˈkeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "eradication"
+        },
+        {
+            "collocations": [
+                "a bunch of radishes：一捆萝卜"
+            ],
+            "definition": "萝卜",
+            "examples": [],
+            "frequency": 15495,
+            "mnemonic": "rad-（=root：根）+-ish（名词后缀）→有根的植物→萝卜",
+            "phonetic": "ˈræd.ɪʃ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radish"
+        },
+        {
+            "collocations": [
+                "uproot their vines：把葡萄藤连根拔起",
+                "fallen trees which have been uprooted by the storm：被暴风连根拔起而\n倒下的树",
+                "uproot my family：举家搬迁"
+            ],
+            "definition": "将……连根拔起 vi.&vt. （使）离开家园（或熟悉的地方等）",
+            "examples": [
+                "We decided to uproot and head for Scotland.\n我们决定迁往苏格兰。"
+            ],
+            "frequency": 19811,
+            "mnemonic": "up（向上）+root（根）→把根向上拔起→将……连根拔起→（使）",
+            "phonetic": "ʌpˈrut",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "uproot"
+        },
+        {
+            "collocations": [
+                "being uprooted：将……连根拔起；（使）离开家园",
+                "word-forming element meaning 1. “ray, ray-like” (see radius); 2. “radial,\nradially” (see radial (adj.)); 3. “by means of radiant energy” (see radiate"
+            ],
+            "definition": "被连根拔起的 vt.&vi. uproot的过去式和过去分词",
+            "etymology": "radio- 笔 记 区 (v.)); 4. “radioactive” (see radioactive); 5. “by radio” (see radio (n.)).",
+            "examples": [],
+            "frequency": 16553,
+            "phonetic": "ʌpˈrutɪd",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "uprooted"
+        },
+        {
+            "collocations": [
+                "local/national radio：地方/国家无线电广播",
+                "to turn the radio on / off：打开/关上收音机",
+                "radio signals / waves：无线电信号/电波",
+                "radio for help：用无线电呼救"
+            ],
+            "definition": "无线电广播，无线电广播节目；收音机；无线电通信；无线电收发报机 vi.&vt.（用无线电）发送，传送",
+            "etymology": "“wireless transmission of voice signals with radio waves.”",
+            "examples": [
+                "The warning was radioed to headquarters.\n通过无线电向总部发出了警报。"
+            ],
+            "frequency": 907,
+            "mnemonic": "radi-（放射；射线）+ o→radio：无线电广播，通信；（用无线电）",
+            "phonetic": "ˈreɪ.di.oʊ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radio"
+        },
+        {
+            "collocations": [],
+            "definition": "放射科医生；X光科的医生",
+            "examples": [],
+            "frequency": 18627,
+            "mnemonic": "radio（放射的）+logy（学）+-ist（表示人）→从事放射医疗的人→",
+            "phonetic": "ˌreɪ.diˈɑ.lə.dʒɪst",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radiologist"
+        },
+        {
+            "collocations": [
+                "a radar screen：雷达显示屏",
+                "on/off the radar screen：受/不受人关注"
+            ],
+            "definition": "雷达",
+            "examples": [
+                "They located the ship by radar.\n他们通过雷达确定了船只的位置。"
+            ],
+            "frequency": 4836,
+            "mnemonic": "ra(dio) + d(etecting) + -ar(ranging)：无线电探测和测距的首字母合",
+            "phonetic": "ˈreɪ.dɑr",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radar"
+        },
+        {
+            "collocations": [
+                "ray of：一点；少量",
+                "ray of hope：一线希望"
+            ],
+            "definition": "光线；（热或其他能量的）射线",
+            "etymology": "同 radio。引申词义光线，射线。 20000 词汇巅峰 速 记 笔 记 区",
+            "examples": [],
+            "frequency": 5110,
+            "mnemonic": "radi-（放射；射线）→ray：光线；射线",
+            "phonetic": "reɪ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "ray"
+        },
+        {
+            "collocations": [
+                "fear the long term effects of radiation：担心辐射造成的长期影响"
+            ],
+            "definition": "辐射，放射线；辐射热、辐射能等",
+            "examples": [],
+            "frequency": 3686,
+            "mnemonic": "radi-（辐射；放射；发散光、热、能量等的）+ -ation（复合名词后\n缀，-ate+-ion）→辐射；放射线；放射热、能等",
+            "phonetic": "ˌreɪ.diˈeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radiation"
+        },
+        {
+            "collocations": [
+                "She radiates happiness and health.\n她浑身流露着快乐与健康。",
+                "Five roads radiate from the square.\n五条道路由广场向外延伸（辐射）。"
+            ],
+            "definition": "（使品质或情感）显出，流露 vt.&vi. （使热、光、能量）辐射，放射，散发 [v. + adv./prep. ]（直线等）自中心辐射出；向周围伸展",
+            "examples": [
+                "Heat radiates from the stove.\n炉子的热向外散发。"
+            ],
+            "frequency": 8664,
+            "mnemonic": "radi（放射；辐射；发散）+ -ate（使动词）→辐射，发散（即：像\n→引申义为“显出，流露”",
+            "phonetic": "ˈreɪ.di.eɪt",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "radiate"
+        },
+        {
+            "collocations": [
+                "the radiant heat/energy of the sun：太阳的辐射热/辐射能",
+                "The sun was radiant in a clear blue sky.\n湛蓝的天空阳光灿烂。\n笔 记 区"
+            ],
+            "definition": "容光焕发的；灿烂的，光芒四射的；辐射的，放射的",
+            "examples": [
+                "She was radiant with health.\n她身体健康，容光焕发。"
+            ],
+            "frequency": 9964,
+            "mnemonic": "radi-（放射；发散）+ -ant（形容词词缀）→（周身；太阳等）散发\n光芒的；发射的→荣光焕发的；光芒四射的；辐射的，放射的",
+            "phonetic": "ˈreɪ.di.ənt",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "radiant"
+        },
+        {
+            "collocations": [
+                "a central heating system with a radiator：有一个散热器的中央供暖系统",
+                "heating radiator：供暖散热片",
+                "electric radiator：电暖气"
+            ],
+            "definition": "散热器，暖气片；（车辆或飞机发动机的）冷却器，水箱",
+            "examples": [],
+            "frequency": 13764,
+            "mnemonic": "radiate（使热、光、能量放射，发散）+ -or（表物体）→用于发散热\n量的设备→散热器；暖气片；水箱",
+            "phonetic": "ˈreɪ.di.eɪ.tɚ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radiator"
+        },
+        {
+            "collocations": [
+                "the radial pattern of public transport facilities：呈辐射状分布的公共交"
+            ],
+            "definition": "放射状的；辐射状的 n. 辐射式轮胎；子午线轮胎",
+            "examples": [],
+            "frequency": 17080,
+            "mnemonic": "rad-（放射；辐射）+ -ial（形容词/名词后缀）→放射状的；辐射状的",
+            "phonetic": "ˈreɪ.di.əl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "radial"
+        },
+        {
+            "collocations": [
+                "a soft radiance：一层柔和的光辉"
+            ],
+            "definition": "容光焕发；（散发出来的）光辉",
+            "examples": [],
+            "frequency": 17872,
+            "mnemonic": "radi-（=radiant：容光焕发的；散发光辉的）+ -ance（名词后缀）→",
+            "phonetic": "ˈreɪ.di.əns",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radiance"
+        },
+        {
+            "collocations": [
+                "ray of light, beam of light; radius of a circle,” of unknown origin. Perhaps",
+                "related to radix “root,” but de Vaan finds that “unlikely.”",
+                "a semicircle with a radius of about thirty miles：一个半径大约三十英里",
+                "space, conceived as a hollow globe about the world,” from Anglo-French",
+                "espiere, Old French espere (13c., Modern French sphère), from Latin\nsphaera “globe, ball, celestial sphere” (Medieval Latin spera), from Greek\nsphaira “globe, ball, playing ball, terrestrial globe,” a word of unknown"
+            ],
+            "definition": "范围；半径（长度）",
+            "etymology": "Mid-15c., Latinized spelling of Middle English spere (c. 1300) “cosmos; origin.",
+            "examples": [
+                "They deliver to within a 5-mile radius of the store.\n他们在距离商场5英里的范围内送货上门\n比较：diameter：直径（dia-：通过；穿过）\n单词 sphere 表示“球；范围”。"
+            ],
+            "frequency": 9631,
+            "mnemonic": "radi-（放射；辐射）+ -us（名词后缀）→从圆心向外辐射的范围→范",
+            "phonetic": "ˈreɪ.di.əs",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "radius"
+        },
+        {
+            "collocations": [
+                "in economic, social and cultural spheres：在经济，社会和文化领域",
+                "appear to be way ahead in at least one undesirable category.\n尽管在现代生活的一些领域，女人仍然在追赶着男人，不过似乎至少\n在不那么受欢迎的领域，女人走在了男人的前面。",
+                "It is an undoubted fact that the Internet communication appears/arises in",
+                "almost all spheres of modern life."
+            ],
+            "definition": "球，球体；（活动、兴趣的）范围，领域",
+            "examples": [
+                "While still catching-up to men in some spheres of modern life, women",
+                "互联网交际几乎出现在了现代生活里的各个领域当中，这已经是\n一个不争的事实。"
+            ],
+            "frequency": 4582,
+            "mnemonic": "sphere（=ball：球）→球，球（体）\nsphere（=range：范围；领域）→范围；领域",
+            "phonetic": "sfɪr",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "sphere"
+        },
+        {
+            "collocations": [
+                "spherical surface：球面",
+                "gold spherical earrings：金色的球形耳环\n20000 词汇巅峰\n速\n记\n-sphere 构成名词（包围地球等的大气的）层\n笔 记 区"
+            ],
+            "definition": "球形的；球状的",
+            "examples": [],
+            "frequency": 15194,
+            "mnemonic": "sphere（球；球体）+-ical（形容词后缀，……的）→球形的；球状的",
+            "phonetic": "ˈsfɪrɪkəl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "spherical"
+        },
+        {
+            "collocations": [
+                "the upper atmosphere：高层大气",
+                "warm, humid atmospheres：潮湿的空气",
+                "a party atmosphere：聚会的气氛"
+            ],
+            "definition": "大气，大气层；空气；气氛，氛围",
+            "examples": [],
+            "frequency": 2237,
+            "mnemonic": "atmo（=air：气体；大气）+ sphere（=ball：球体；地球）→在地球\n周围的气体→大气；空气；气氛",
+            "phonetic": "ˈætməsˌfɪr",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "atmosphere"
+        },
+        {
+            "collocations": [
+                "atmospheric pollution/conditions/pressure：大气污染/状况/压力",
+                "atmospheric music：有感染力的音乐"
+            ],
+            "definition": "大气的，大气层的；令人激动的，有感染力的",
+            "examples": [],
+            "frequency": 6958,
+            "mnemonic": "atmospher(e) （大气；气氛）+-ic（形容词后缀，…的）→大气的；",
+            "phonetic": "ˌætməsˈfɛrɪk",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "atmospheric"
+        },
+        {
+            "collocations": [
+                "as winter grips the northern hemisphere：随着北半球冬季的到来",
+                "the northern/southern hemisphere：北/南半球",
+                "brain hemisphere：大脑半球\n单词 globe 含义为“地球；球体；球状物”。",
+                "from Middle French globe (14c.) and directly from Latin globus “round",
+                "mass, sphere, ball” (also, of men, “a throng, crowd, body, mass”), which is",
+                "related to gleba “clod, lump of soil” (see glebe) and perhaps also to glomus"
+            ],
+            "definition": "（地球的）半球，（尤指）北半球，南半球；（大脑的）半球；（球体的）半球",
+            "etymology": "Late 14c., “a large mass;” mid-15c., “spherical solid body, a sphere,” “a ball, ball of yarn.” 20000 词汇巅峰 速 记 笔 记 区",
+            "examples": [],
+            "frequency": 8764,
+            "mnemonic": "hemi（=semi=half：半）+ sphere（球）→（北/南）半球，大脑半球",
+            "phonetic": "ˈhɛ.mə.ˌsfɪr",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "hemisphere"
+        },
+        {
+            "collocations": [
+                "around/across/all over the globe：全世界",
+                "The overhead light was covered now with a white globe.\n顶灯现在被一个白色的球状物罩了起来。"
+            ],
+            "definition": "地球仪；地球，世界；球体，球状物",
+            "etymology": "来源于拉丁语globus（球）=sphere, ball：球，球体",
+            "examples": [
+                "70% of our globe’s surface is water.\n我们地球表面的70%是水。"
+            ],
+            "frequency": 4787,
+            "phonetic": "ɡloʊb",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "globe"
+        },
+        {
+            "collocations": [
+                "global warming：全球变暖",
+                "global inflation：全球通货膨胀",
+                "global trade：全球贸易谈",
+                "take a more global approach to the problem：更全面地看这个问题",
+                "send a global email：发了一封统一的电邮",
+                "global economic integration：全球经济一体化"
+            ],
+            "definition": "全球的；整体的，全面的；统一的，一体的",
+            "examples": [],
+            "frequency": 1114,
+            "mnemonic": "globe（地球）+-al（形容词后缀）→全球的→引申义为“全面的；统",
+            "phonetic": "ˈɡloʊ.bəl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "global"
+        },
+        {
+            "collocations": [
+                "think globally：全面考虑"
+            ],
+            "definition": "全球地；全局地；全面地",
+            "examples": [
+                "Globally, the movie has brought in $ 275 million.\n这部电影在全球的票房收入已达2.75亿美元。"
+            ],
+            "frequency": 10567,
+            "phonetic": "ˈɡloʊ.bə.li",
+            "pos": "adv.",
+            "rootHint": "rad",
+            "word": "globally"
+        },
+        {
+            "collocations": [
+                "economic globalization：经济全球化"
+            ],
+            "definition": "全球化（世界各地的文化和经济体系日益关联）",
+            "examples": [],
+            "frequency": 6547,
+            "mnemonic": "global（全球的）+ -ize（使动词后缀）+ -ation（复合名词后缀）→全",
+            "phonetic": "ˌɡloʊ.bə.ləˈzeɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "globalization"
+        },
+        {
+            "collocations": [],
+            "definition": "球形的；球体的",
+            "examples": [
+                "The globular seed capsule contains numerous small seeds.\n这颗球形果壳里包着无数的小种子。"
+            ],
+            "frequency": 16314,
+            "mnemonic": "globe（球形；球体）+-ular（形容词后缀，似……形状的）→球形",
+            "phonetic": "ˈɡlɑ.bjə.lɚ",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "globular"
+        },
+        {
+            "collocations": [
+                "a media conglomerate：大众传媒联合体（传媒集团）"
+            ],
+            "definition": "联合大公司；企业集团；合成物；聚合物",
+            "examples": [],
+            "frequency": 10520,
+            "mnemonic": "con-（=with, together：一起）+-glomer（=to gather into a ball, collect：\n聚集成球；收集）+-ate（名词后缀）→聚集在一起的物体→企业集",
+            "phonetic": "kənˈɡlɑmərət",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "conglomerate"
+        },
+        {
+            "collocations": [
+                "clam soup：蛤蜊汤"
+            ],
+            "definition": "捞蛤 n. 蛤；蛤蜊；蚌",
+            "etymology": "来自古英语clamm “bond, grip, grasp：牢固结合；紧握；抓牢”。来 自古印欧语词根klam- “to press or squeeze together：挤压在一起” ， 来自词根glem-或者glom-, 含义为 “contain, embrace：包括；包含” 或 “ball：球体”。蛤蜊是一种双壳的软体动物，它的壳像是一把钳子， 能够紧紧地夹住东西。因此，古苏格兰人将其命名为clam。该词来自 古英语clamm，意思是“紧握”。",
+            "examples": [],
+            "frequency": 10367,
+            "mnemonic": "klam-：加紧、挤压在一起的物体→clam：双壳紧紧夹住东西的物\nglom-：包含（肉）的球状物动物→clam：双壳包含着肉：蛤蜊",
+            "phonetic": "klæm",
+            "pos": "vi.",
+            "rootHint": "rad",
+            "word": "clam"
+        },
+        {
+            "collocations": [
+                "clamp A to B/clamp A and B (together)：把A固定在B上/把A和B夹紧",
+                "clamp down (on sb./sth.)：严厉打击（犯罪等）\n20000 词汇巅峰\n速\n记\n笔 记 区\nclamp sth. on sb.：强制……接受（限制或法律等）",
+                "I clamped a hand on his shoulder.\n我用一只手紧紧抓住他的肩膀。",
+                "Her lips clamped tightly together.\n她的双唇紧闭。"
+            ],
+            "definition": "用 (夹具) 夹紧，夹住；紧紧抓住 n. 夹具",
+            "examples": [
+                "Clamp the two halves together until the glue dries.\n用夹具把两半物品夹紧，待胶干后再松开。"
+            ],
+            "frequency": 8388,
+            "mnemonic": "clam：蛤蜊（双壳夹紧）→clamp：词义外延至用（夹具）夹紧；夹",
+            "phonetic": "klæmp",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "clamp"
+        },
+        {
+            "collocations": [
+                "heavenly body,” from Old French orbe “orb, globe” (13c.) and directly",
+                "from Latin orbem (nominative orbis) “circle, disk, ring, hoop, orbit,”",
+                "probably related to orbita “wheel track, rut,” a word of unknown and",
+                "much-disputed origin. Watkins suggests a connection with the root of\norchid. De Vaan suggests *horbi- “turning thing.” 来自拉丁语orbis=circle,\nring, globe：圈，环，球体。",
+                "on everything.\n圆盘似的月亮会高悬在夜空中，将柔和的月光洒向世间万物。"
+            ],
+            "definition": "球体；球状物，（尤指）日，月",
+            "etymology": "Mid-15c., “sphere, globe, something spherical or circular, orbit of a",
+            "examples": [
+                "The moon’s round orb would shine high in the sky, casting its velvety light"
+            ],
+            "frequency": 18283,
+            "phonetic": "ɔrb",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "orb"
+        },
+        {
+            "collocations": [
+                "orbit the earth：环绕地球运行",
+                "put spaceships in orbit：把宇宙飞船放入轨道\nthe earth’s orbit around the sun：地球环绕太阳的轨道\nto come/fall/be within sb’s orbit：进入/落入/属于某人的势力范围\n20000 词汇巅峰\n速\n记\n笔 记 区\nearth’s orbit around the sun：地球环绕太阳运行"
+            ],
+            "definition": "环绕……的轨道运行 n. （天体运行的）轨道；（人、组织等的）影响范围，势力范围",
+            "examples": [],
+            "frequency": 4217,
+            "mnemonic": "orb-（在模仿globe中的“obe：部分”，造出“球，天体”的含义）\n+it（走；运行）→围绕天体运行→绕轨道运行；轨道",
+            "phonetic": "ˈɔr.bɪt",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "orbit"
+        },
+        {
+            "collocations": [
+                "other planet.\n新发现的这个天体的运行轨道和任何其他行星的不同。"
+            ],
+            "definition": "（行星或空间物体）轨道的；（城市）外环路的 n. 高速环行路",
+            "examples": [
+                "The newly discovered world followed an orbital path unlike that of any"
+            ],
+            "frequency": 9960,
+            "mnemonic": "orbit（天体轨道；环绕……运行）+-al（形容词后缀，……的）→轨",
+            "phonetic": "ˈɔr.bɪ.təl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "orbital"
+        },
+        {
+            "collocations": [
+                "lunar orbiter：绕月轨道飞行器"
+            ],
+            "definition": "（绕天体作轨道运行的）轨道飞行器；宇宙飞船",
+            "examples": [],
+            "frequency": 17502,
+            "mnemonic": "orbit（轨道）+ -er（表物体）→引申词义轨道飞行器；宇宙飞船",
+            "phonetic": "ˈɔr.bɪ.tɚ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "orbiter"
+        },
+        {
+            "collocations": [
+                "Late Latin exorbitantem (nominative exorbitans), present participle of\nexorbitare “deviate, go out of the track”. General sense of “excessive,\nimmoderate” is from 1620s; of prices, rates, etc., from 1660s. Related:",
+                "Exorbitantly.",
+                "exorbitant costs/fares/fees/prices/rents：过高的花费/交通费/收费/价格/",
+                "also of Old Saxon graf, Old Frisian gref, Old High German grab “grave,",
+                "Church Slavonic grobu “grave, tomb,”",
+                "It is the hypothetical source of/evidence for its existence is provided by:",
+                "Sanskrit guruh “heavy, weighty, venerable;” Greek baros “weight,” barys",
+                "participle grafen)."
+            ],
+            "definition": "（价格、费用等）过高的；高得离谱的",
+            "etymology": "n. “excavation in earth for reception of a dead body,” Old English græf “grave; ditch, trench; cave,” from Proto-Germanic *grafa-/graba- (source tomb;” Old Norse gröf “cave,” Gothic graba “ditch”), cognate with Old adj. gwere- (1) gwerə-, Proto-Indo-European root meaning “heavy.” “heavy in weight,” often with the notion of “strength, force;” Latin gravis, “heavy, ponderous, burdensome, loaded; pregnant;” Old English cweorn “quern;” Gothic kaurus “heavy;” Lettish gruts “heavy.” v. “to engrave,” Old English grafan “to dig, dig up; engrave, carve, chisel” (medial -f- pronounced as “v” in Old English; past tense grof, past",
+            "examples": [],
+            "frequency": 17267,
+            "mnemonic": "ex-（=out of：出去；脱离；离开）+ orbit（轨道）+ -ant（形容词后\n缀）→脱离正常轨道的→引申义价格高得离谱的",
+            "phonetic": "ɪɡ.ˈzɔr.bɪ.tənt",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "exorbitant"
+        },
+        {
+            "collocations": [
+                "a grave crime：一个严重的罪行",
+                "visit his grave regularly：定期去他的墓地（扫墓）",
+                "the effects, though grave, need not be catastrophic.\n现在，很多专家坚信，假如政策得当，效果尽管会很严峻，但还不至\n于是灾难性的。"
+            ],
+            "definition": "严肃的；重大的；严肃的 n. 坟墓；死亡",
+            "examples": [
+                "Is there life beyond the grave (= life after death)?\n人死后有来生吗？\n（阅读，写作例句）：Many experts now believe that given the right policies,"
+            ],
+            "frequency": 3388,
+            "mnemonic": "grave（=heavy：重的）→严重的，重大的\ngrave（=cave：洞穴）→坟墓（即：一个“洞穴”）",
+            "phonetic": "ɡreɪv",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "grave"
+        },
+        {
+            "collocations": [
+                "He nodded gravely as I poured out my troubles.\n我倾诉我的苦恼时他心情沉重地点了点头。\n笔 记 区"
+            ],
+            "definition": "严肃地；沉重地；严重地",
+            "examples": [
+                "She is gravely ill.\n她病势沉重。"
+            ],
+            "frequency": 13491,
+            "phonetic": "ˈɡreɪv.li",
+            "pos": "adv.",
+            "rootHint": "rad",
+            "word": "gravely"
+        },
+        {
+            "collocations": [
+                "Newton’s law of gravity：牛顿万有引力定律",
+                "the gravity of the situation：形势的严重性",
+                "behave with the gravity in a court：在法庭上表现出严肃性",
+                "have a profound effect on societies, not just economically and politically",
+                "but in all sorts of other ways too.\n即便如此，重心向老年人群转移必然会对社会产生深远的影响，该影\n响不仅体现在经济上和政治上，还涵盖其他的方方面面。"
+            ],
+            "definition": "重力，地心引力；严重性；严肃，庄严",
+            "examples": [
+                "Even so, the shift in the center of gravity to older age groups is bound to"
+            ],
+            "frequency": 3993,
+            "mnemonic": "grav（=grave：重的；严重的，严肃的）+ -ity（名词后缀）→重力，",
+            "phonetic": "ˈɡræ.və.ti",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "gravity"
+        },
+        {
+            "collocations": [
+                "make their way to the graveyard：一路前行来到墓地"
+            ],
+            "definition": "墓地（常在教堂附近）",
+            "examples": [],
+            "frequency": 10216,
+            "mnemonic": "grave（坟墓）+ yard（场地）→墓地",
+            "phonetic": "ˈɡreɪv.jɑrd",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "graveyard"
+        },
+        {
+            "collocations": [],
+            "definition": "墓碑",
+            "examples": [],
+            "frequency": 19468,
+            "mnemonic": "grave（坟墓）+stone（石头）→坟墓上的石头→墓碑",
+            "phonetic": "ˈɡreɪv.stoʊn",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "gravestone"
+        },
+        {
+            "collocations": [
+                "gravitate to/toward(s) sb./sth.：被吸引到；受吸引而转向",
+                "You naturally gravitate toward people with shared values.\n你自然而然地被具有共同价值观的人吸引。"
+            ],
+            "definition": "受引力作用；被吸引到；受吸引而转向",
+            "examples": [
+                "Many young people gravitate to the cities in search of work.\n许多年轻人被吸引到城里找工作。"
+            ],
+            "frequency": 12924,
+            "mnemonic": "gravit（=gravity：万有引力）+ -ate（使动词后缀）→使……感受到\n（吸）引力→受引力作用；被吸引",
+            "phonetic": "ˈɡræ.və.teɪt",
+            "pos": "vi.",
+            "rootHint": "rad",
+            "word": "gravitate"
+        },
+        {
+            "collocations": [
+                "a gravitational field：引力场",
+                "the gravitational pull of the moon：月球的引力"
+            ],
+            "definition": "引力的；重力引起的",
+            "examples": [],
+            "frequency": 9559,
+            "mnemonic": "gravitate（受引力作用）+ -ional（=-ion+-al）→引力的；重力引起的",
+            "phonetic": "ˌɡræ.vɪˈteɪ.ʃə.nəl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "gravitational"
+        },
+        {
+            "collocations": [
+                "be engraved on/in your heart, memory, mind etc.：铭刻在心、记忆、头",
+                "engrave A (with B)/engrave B on A：把B雕刻在A上",
+                "His name was engraved on the silver cup.\n他的名字刻在了银杯上。"
+            ],
+            "definition": "在……上雕刻（字或图案）；刻上",
+            "examples": [
+                "The silver cup was engraved with his name.\n银杯上刻有他的名字"
+            ],
+            "frequency": 12652,
+            "mnemonic": "en-（=in：进入）+ grav-（=cut, carve：刻；雕刻）+ -e→to cut/carve\nin：在……上雕刻",
+            "phonetic": "ɪn.ˈɡreɪv",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "engrave"
+        },
+        {
+            "collocations": [],
+            "definition": "铭记于心的；刻在脑海中的",
+            "examples": [
+                "Her image is engraved upon my heart.\n她的形象铭刻在我的心中。"
+            ],
+            "frequency": 19973,
+            "mnemonic": "engrave（在……上雕刻）+ -ed（形容词后缀）→刻在心中、头脑中\n的→铭记于心的；刻在脑海中的",
+            "phonetic": "ɪn.ˈɡreɪvd",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "engraved"
+        },
+        {
+            "collocations": [
+                "a color engraving of oranges and lemons：一副绘有橙子和柠檬的彩色",
+                "wood engraving：木版画",
+                "engraving tool：雕刻工具\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "雕版；版画；雕刻（术）",
+            "examples": [],
+            "frequency": 12567,
+            "mnemonic": "engrave（雕刻）+ -ing（动名词后缀）→雕版；版画",
+            "phonetic": "ɪn.ˈɡreɪ.vɪŋ",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "engraving"
+        },
+        {
+            "collocations": [
+                "add to the weight of：使严重，恶化；激怒（使事态恶化）",
+                "What aggravates you most about this country?\n这个国家最惹恼你的是什么？",
+                "In fact, rather than helping the fight against malnutrition in “hungry\nnations,” the spread of factory farming has, inevitably aggravated the",
+                "In fact, rather than helping students to improve mental health, the",
+                "practice of forcing/compelling them to see a psychologist has, inevitably",
+                "aggravated their mental well-being.\n近义词：worsen：（使）变得更坏；恶化\nirritate：刺激（皮肤或身体部位）；使烦恼（尤指不断重复的事情）\n笔 记 区"
+            ],
+            "definition": "使严重；使恶化；（尤指故意地）激怒，惹恼",
+            "examples": [
+                "Stress and lack of sleep can aggravate the situation.\n紧张和缺少睡眠会使情况恶化。\nproblem.\n事实上，不是帮助饥荒国家抗击营养不良，工厂化农场经营的传播已\n经不可避免的加重了该问题。",
+                "事实上，并没有帮助学生改善心理健康，强迫他们去看心理医生\n的做法不可避免的加重了其心理健康问题。"
+            ],
+            "frequency": 10056,
+            "mnemonic": "ag-（=ad-：to）+ grav-（=grave=heavy：重的；严重的）+ -ate（使动\n词）→to make heavy,",
+            "phonetic": "ˈæɡ.rə.veɪt",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "aggravate"
+        },
+        {
+            "collocations": [],
+            "definition": "（罪行）严重的；加重的",
+            "examples": [
+                "He was jailed for aggravated assault.\n他因严重的人身侵犯罪而入狱。"
+            ],
+            "frequency": 16989,
+            "phonetic": "ˈæɡ.rə.veɪ.tɪd",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "aggravated"
+        },
+        {
+            "collocations": [
+                "express grief：表达悲痛，悲伤",
+                "come to grief：以彻底失败而告终；受伤，遭到不幸",
+                "She was overcome with grief when her husband died.\n丈夫去世时她悲痛欲绝。",
+                "It was a grief to them that they had no children.\n没有孩子是他们的一个伤心事。"
+            ],
+            "definition": "（尤指因某人去世引起的）悲痛；伤心事，悲痛事",
+            "examples": [
+                "So many marriages have come to grief over lack of money.\n如此多的婚姻因为缺钱而破裂。"
+            ],
+            "frequency": 4131,
+            "mnemonic": "grav-（重；压迫）→grief：悲痛；伤心事（沉重的事情压在心里）",
+            "phonetic": "ɡrif",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "grief"
+        },
+        {
+            "collocations": [
+                "air their grievances：诉说他们的苦衷",
+                "nurse a grievance against boss：对老板心怀抱怨（不满）",
+                "a formal grievance procedure：正式冤屈投诉程序（表达委屈、发泄抱\n怨的渠道）"
+            ],
+            "definition": "苦衷；委屈；抱怨",
+            "examples": [],
+            "frequency": 8806,
+            "mnemonic": "griev（-grav-：沉重；压迫）+ -ance（名词后缀）→让心里沉重的事\n情→苦衷；委屈",
+            "phonetic": "ˈɡriː.vəns",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "grievance"
+        },
+        {
+            "collocations": [
+                "grieve over：对……感到悲痛"
+            ],
+            "definition": "&vi. （尤指因某人的去世而）悲痛 vt. 使悲伤；使悲痛；使伤心",
+            "examples": [
+                "Their lack of interest grieved her.\n他们不感兴趣使她很伤心。"
+            ],
+            "frequency": 9993,
+            "mnemonic": "griev（=grave：坟墓；重的）+ -e（后缀）→在坟墓前→（心情）沉",
+            "phonetic": "ɡriv",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "grieve"
+        },
+        {
+            "collocations": [
+                "grieving relatives：悲痛欲绝的亲戚"
+            ],
+            "definition": "为……感到悲痛（grieve的现在分词形式） adj. 悲痛（欲绝）的",
+            "examples": [
+                "He’s grieving over his dead wife and son.\n他因丧妻失子而悲痛不已。"
+            ],
+            "frequency": 10657,
+            "phonetic": "ˈɡriː.vɪŋ",
+            "pos": "vi.",
+            "rootHint": "rad",
+            "word": "grieving"
+        },
+        {
+            "collocations": [
+                "the aggrieved party (= person) in the case：案件中的受害方"
+            ],
+            "definition": "愤愤不平的，感到受委屈的；受害的",
+            "examples": [
+                "I really feel aggrieved at this sort of thing.\n我对这种事真地感到愤愤不平。"
+            ],
+            "frequency": 19192,
+            "mnemonic": "ag-（=ad-=to）+ -griev（=grave=heavy：沉重的）+ -ed（形容词后\n缀）→to make heavy, to weigh down：某事使某人感到沉重，受委屈\n→愤愤不平的；受委屈的",
+            "phonetic": "ə.ˈɡriːvd",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "aggrieved"
+        },
+        {
+            "collocations": [
+                "unreasonable：沉重的；沉闷的；无知觉的；不讲道理”",
+                "brute force / strength：暴力；蛮劲",
+                "the brute facts of inequality：赤裸裸的不平等事实",
+                "a drunken brute：一个粗暴的醉鬼"
+            ],
+            "definition": "蛮干不动脑筋的；根本而令人不快的，赤裸裸的 n. 粗暴残酷的人；笨重难看的东西",
+            "etymology": "来自15世纪早期，“of or belonging to animals, non-human：属于动 物地；非人的”。来自古法语brut “coarse, raw, crude：粗鲁的；强烈 直露的（情感）”。来自拉丁语brutus “heavy, dull, stupid, insensible, 。",
+            "examples": [],
+            "frequency": 12228,
+            "phonetic": "brut",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "brute"
+        },
+        {
+            "collocations": [
+                "a brutal attack/murder/rape/killing：残暴的攻击/谋杀/强奸/杀害"
+            ],
+            "definition": "残暴的；不留情面的，冷酷的（诚实、直白）",
+            "examples": [
+                "With brutal honesty she told him she did not love him.\n她冷酷地直接告诉他，她不爱他。"
+            ],
+            "frequency": 4752,
+            "mnemonic": "brut（=brute：残暴的；赤裸裸的）+ -al（形容词后缀）→残暴的；",
+            "phonetic": "ˈbru.təl",
+            "pos": "adj.",
+            "rootHint": "rad",
+            "word": "brutal"
+        },
+        {
+            "collocations": [
+                "police brutality：警察的暴行",
+                "the brutalities of war：战争的残酷无情"
+            ],
+            "definition": "残暴；暴行（需用复数形式）",
+            "examples": [],
+            "frequency": 8808,
+            "mnemonic": "brutal（残暴的；冷酷的）+ -ity（名词后缀）→残暴；冷酷",
+            "phonetic": "bruˈtæ.lə.ti",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "brutality"
+        },
+        {
+            "collocations": [
+                "Let me be brutally frank about this.\n让我把这件事无情地挑明说吧。\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "残暴地；不留情面地",
+            "examples": [
+                "He was brutally assaulted.\n他遭到毒打。"
+            ],
+            "frequency": 10333,
+            "phonetic": "ˈbru.tə.li",
+            "pos": "adv.",
+            "rootHint": "rad",
+            "word": "brutally"
+        },
+        {
+            "collocations": [
+                "soldiers brutalized by war：在战争中变得残酷无情的士兵"
+            ],
+            "definition": "使……变残忍；残酷对待，虐待",
+            "examples": [
+                "He was brutalized by the experience of being in prison.\n牢狱生活使他变得残暴了。"
+            ],
+            "frequency": 20081,
+            "mnemonic": "brutal（残忍的；冷酷的）+-ize（使动词后缀）→使……变残忍；残",
+            "phonetic": "ˈbru.tə.laɪz",
+            "pos": "vt.",
+            "rootHint": "rad",
+            "word": "brutalize"
+        },
+        {
+            "collocations": [
+                "173rd Airborne Brigade：第173空降旅",
+                "fire brigade：消防队\n带有-ade后缀的名词有：\nblock（阻碍）→blockade（障碍物、封锁）\nlemon（柠檬）→lemonade（柠檬水）\ndec-（十）→decade（十年）\n-casc-（to fall：落）→cascade（瀑布）\n-arc-（弧）→arcade（拱廊、拱廊商店街）"
+            ],
+            "definition": "旅（陆军编制单位）；伙，帮，派",
+            "examples": [],
+            "frequency": 9497,
+            "mnemonic": "brig（=to fight：争斗；击打）+-ade（名词后缀）→军事用语指",
+            "phonetic": "brɪˈɡeɪd",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "brigade"
+        },
+        {
+            "collocations": [
+                "to be honored, teacher：值得尊敬的人；教师”。来自guru-",
+                "worthy of honor：令人尊敬的”。字面上也有 “heavy, weighty：重的；\n沉重的” 含义（荣誉加身，感觉很“重”）。",
+                "fashion gurus：时装大师们"
+            ],
+            "definition": "精神领袖（尤指印度教的）；专家，权威，大师",
+            "etymology": "来自印地语guru “teacher, priest：教师；祭司”。来自梵文guru-s “one “venerable,",
+            "examples": [],
+            "frequency": 9430,
+            "phonetic": "ˈɡʊ.ru",
+            "pos": "n.",
+            "rootHint": "rad",
+            "word": "guru"
+        }
+    ]
 }

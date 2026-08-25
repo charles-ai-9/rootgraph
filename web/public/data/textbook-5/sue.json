@@ -1,1002 +1,1002 @@
 {
-  "chapter": "14",
-  "chapterOrder": 114,
-  "id": "sue",
-  "meaningEn": "-suit=-sequ-，也有“follow",
-  "meaningZh": "跟随之意。",
-  "roots": [
-    "sue"
-  ],
-  "semanticLabel": "跟随之意。",
-  "source": "textbook-5",
-  "titleZh": "跟随之意。",
-  "words": [
-    {
-      "collocations": [
-        "pursue, follow, follow after; come next,” from in-(upon) + sequi-(follow).\n15世纪中期，含义为在时空跟随“to follow”, “to come or appear next, be",
-        "subsequent to, happen subsequently：随后到来或出现，继……之后；\n随后发生”。相关：Ensued; ensues; ensuing。"
-      ],
-      "definition": "随即发生",
-      "etymology": "c. 1400,“seek after, pursue; follow （a path）：追求；追赶；跟随”， 来自古法语ensu-，来自后期拉丁语insequere，来自拉丁语insequi “to",
-      "examples": [
-        "If the Europeans did not reduce subsidies, a trade war would ensue.\n如果欧洲不减少补贴，贸易战将随即爆发。"
-      ],
-      "frequency": 9761,
-      "mnemonic": "en-（=upon：此后）+ -sue（=follow：跟随）→跟随在……之后→随",
-      "phonetic": "ɪn.ˈsu",
-      "pos": "vi.",
-      "rootHint": "sue",
-      "word": "ensue"
-    },
-    {
-      "collocations": [
-        "the ensuing argument：随后的争论",
-        "in the ensuing ten years：在随后十年里"
-      ],
-      "definition": "随后发生的；随后的（时间）",
-      "examples": [],
-      "frequency": 10031,
-      "phonetic": "ɪn.ˈsu.ɪŋ",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "ensuing"
-    },
-    {
-      "collocations": [
-        "proceed, to follow：继续进行；跟随→追求；执行；继续探讨；追击",
-        "to pursue a goal / an aim / an objective：追求目标；贯彻宗旨；实现目",
-        "pursue a medical career：从事医学工作",
-        "to pursue legal action：进行诉讼",
-        "pursue the car：追赶那辆车"
-      ],
-      "definition": "追求；执行；继续探讨（或追究、从事）；（为抓捕、袭击等而）紧随……之后；追击",
-      "examples": [],
-      "frequency": 1799,
-      "mnemonic": "pur-（=pro-=forward：向前）+ sue（-sequi-=follow：跟随）→to",
-      "phonetic": "pɚˈsu",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "pursue"
-    },
-    {
-      "collocations": [
-        "escape the pursuers：摆脱了追捕者",
-        "shake off the pursuers：甩掉了追踪者"
-      ],
-      "definition": "追赶者；追捕者",
-      "examples": [],
-      "frequency": 17900,
-      "mnemonic": "pursue（追赶；追捕）+ -r（名词后缀，表示人）→追赶者；追捕者",
-      "phonetic": "pɚˈsu.ɚ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "pursuer"
-    },
-    {
-      "collocations": [
-        "relentless pursuit of excellence：不断追求卓越",
-        "vigorous pursuit of policies：政策的严格执行",
-        "in hot pursuit：穷追不舍",
-        "outdoor pursuits：户外活动"
-      ],
-      "definition": "追求；执行；追赶；消遣活动（复数）",
-      "examples": [],
-      "frequency": 3909,
-      "mnemonic": "pur-（=pro-：向前）+ suit（=follow：跟随）→向前跟随→追求；执",
-      "phonetic": "pɚˈsut",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "pursuit"
-    },
-    {
-      "collocations": [
-        "pursuant to sth.：根据……（执行）；依照……（执行）",
-        "act pursuant to the United Nations Security Council resolutions：根据联",
-        "pursuant to the Individuals with Disabilities Act：依据《残疾人法》"
-      ],
-      "definition": "根据；依照",
-      "examples": [],
-      "frequency": 15921,
-      "mnemonic": "pursu（=pursue：执行）+ -ant（形容词后缀）→常见于法律术语",
-      "phonetic": "pɚˈsu.ənt",
-      "pos": "prep.",
-      "rootHint": "sue",
-      "word": "pursuant"
-    },
-    {
-      "collocations": [
-        "a lawsuit against the government：对政府的诉讼案"
-      ],
-      "definition": "诉讼；起诉",
-      "examples": [],
-      "frequency": 2681,
-      "mnemonic": "law（法律）+ suit（跟随）→在法律上跟随（某人或事）→诉讼；起",
-      "phonetic": "ˈlɔ.sut",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "lawsuit"
-    },
-    {
-      "collocations": [
-        "have a suitor who adores her：有一位爱慕她的求婚者",
-        "try to find a suitor：努力寻找一家求购公司\n笔 记 区"
-      ],
-      "definition": "求婚者；求购公司",
-      "etymology": "suit（跟随）+ -or（表示人或物）→跟随其后的人或物→求婚者；求 购公司",
-      "examples": [],
-      "frequency": 12888,
-      "phonetic": "ˈsu.tɚ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "suitor"
-    },
-    {
-      "collocations": [
-        "a Jesuit priest：耶稣会神父"
-      ],
-      "definition": "（天主教）耶稣会会士",
-      "etymology": "来自拉丁语Jesuita，耶稣会会士，即Society of Jesus成员，成立于 1533年的基督教分支。为其它基督教分支如天主教和新教所鄙视而词 义贬义化。",
-      "examples": [],
-      "frequency": 12323,
-      "mnemonic": "Je（=Jesus：耶稣）+ -suit（跟随）→耶稣的跟随者→耶稣会会士",
-      "phonetic": "ˈdʒɛʒ.u.ɪt",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "Jesuit"
-    },
-    {
-      "collocations": [
-        "suit oneself：按照自己的意愿",
-        "a business suit：公务装",
-        "a diving suit：潜水服",
-        "a divorce suit：离婚诉讼\nfile / bring suit against：诉讼\nfollow suit：跟着做"
-      ],
-      "definition": "适合 n. 套装；成套服装；诉讼案",
-      "etymology": "来自盎格鲁法语suit，古法语suite，含义都为“pursuit, act of following： 追求；跟随的行为”。来自拉丁语sequi，含义为“to attend, follow：参 加；跟随”。14世纪suite含义为“随行人员”，以及这些随从穿戴的 “set of matching garments”相匹配的衣着或制服。",
-      "examples": [],
-      "frequency": 1418,
-      "phonetic": "sut",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "suit"
-    },
-    {
-      "collocations": [
-        "to pack / unpack a suitcase：把东西装进手提箱 / 取出手提箱里的东西"
-      ],
-      "definition": "手提箱",
-      "examples": [],
-      "frequency": 5685,
-      "mnemonic": "suit（套装）+ case（箱子）→原指装套装的小箱子，后用于指手提",
-      "phonetic": "ˈsut.keɪs",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "suitcase"
-    },
-    {
-      "collocations": [
-        "set of rooms” (1716), and “set of furniture” (1805) were imported from",
-        "French usages or re-spelled on the French model from suit in its sense of “a",
-        "number of things taken collectively and constituting a sequence; collection",
-        "of things of like kind.”",
-        "a hotel / private / honeymoon suite：旅馆 / 私人 / 蜜月套房",
-        "a bathroom / bedroom suite：一套卫生间 / 卧室家具"
-      ],
-      "definition": "套房；（一套）家具",
-      "etymology": "The meanings “set of instrumental compositions” (1680s), “connected",
-      "examples": [],
-      "frequency": 4780,
-      "phonetic": "swit",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "suite"
-    },
-    {
-      "collocations": [
-        "pictures of models in swimsuits：泳装模特的照片"
-      ],
-      "definition": "女式游泳衣",
-      "examples": [],
-      "frequency": 13933,
-      "mnemonic": "swim（游泳）+ suit（套装）→用于游泳的套装→女式游泳衣",
-      "phonetic": "ˈswɪm.sut",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "swimsuit"
-    },
-    {
-      "collocations": [],
-      "definition": "连裤衫",
-      "etymology": "连体裤（Jumpsuit）最早是从飞行员、机械师和士兵的制服演变而 来，最初主要是男性工人干粗活时穿的工装裤，它们正好符合了“爽 快，利索，实穿”的三大要素。而经过了设计师们的妙手改造后，它 们也变得越来越好看，尤其是工装中的女装，对身材、体型的修饰效 果一流。 连裤衫 单词 suit 还表示“适合”。",
-      "examples": [],
-      "frequency": 16499,
-      "phonetic": "ˈdʒʌmp.sut",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "jumpsuit"
-    },
-    {
-      "collocations": [
-        "a suitable candidate：合适的人选",
-        "a suitable place for a picnic：适合野餐的地方",
-        "a suitable moment：合适的时刻",
-        "suitable temperature：舒适温度\n笔 记 区"
-      ],
-      "definition": "合适的；适宜的",
-      "examples": [],
-      "frequency": 4811,
-      "mnemonic": "suit（合适）+-able（形容词后缀）→合适的；适宜的",
-      "phonetic": "ˈsu.tə.bəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "suitable"
-    },
-    {
-      "collocations": [
-        "unsuitable for climbing：不适合登山"
-      ],
-      "definition": "不合适的；不适宜的",
-      "examples": [],
-      "frequency": 17504,
-      "mnemonic": "un-（不）+ suit（合适）+ -able（能够……的）→不合适的；不适宜的",
-      "phonetic": "ʌnˈsutəbəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "unsuitable"
-    },
-    {
-      "collocations": [
-        "ecological suitability：生态适应性"
-      ],
-      "definition": "适合；适应",
-      "examples": [],
-      "frequency": 19194,
-      "mnemonic": "suitabil（=suitable：适合的）+ -ity（名词后缀）→适合",
-      "phonetic": "ˌsu.təˈbɪl.ə.ti",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "suitability"
-    },
-    {
-      "collocations": [
-        "suitably qualified candidates：十分符合条件的人选",
-        "be really suitably dressed for a party：穿着十分得体的衣服参加聚会"
-      ],
-      "definition": "合适地；适宜地；如其所料地；自然",
-      "etymology": "Late 15c., “devoted to or relating to home life;” 1560s as “living with others,” from Middle French social (14c.) and directly from Latin socialis “of companionship, of allies; united, living with others; of marriage, conjugal,” from socius “companion, ally,” probably originally “follower,” from PIE *sokw-yo-, suffixed form of root *sekw- (1) “to follow”. 20000 词汇巅峰 速 记 笔 记 区",
-      "examples": [
-        "He was suitably impressed when I told him I’d won.\n我告诉他我赢了，他当然觉得我真行。\n词根 soci- 也源于词根 sec-=follow，表示跟随别人的，因此包括 soci- 词\n根的单词有“companion, ally：伙伴；同伴；盟友；社会；群体”等含义。\n单词 social 的含义为社会的；社交的；与社会地位有关的。"
-      ],
-      "frequency": 19290,
-      "mnemonic": "suitabl（=suitable：合适的）+ -ly（副词后缀）→合适地；如其所料地",
-      "phonetic": "ˈsu.tə.bli",
-      "pos": "adv.",
-      "rootHint": "sue",
-      "word": "suitably"
-    },
-    {
-      "collocations": [
-        "long-term social change：长期的社会变革",
-        "social classes：社会各阶层",
-        "social security：社会保险"
-      ],
-      "definition": "社会的；社交的；与社会地位有关的",
-      "examples": [],
-      "frequency": 320,
-      "mnemonic": "soci-（群体的；社会的）+ -al（形容词后缀）→引申词义社交的；交",
-      "phonetic": "ˈsoʊʃəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "social"
-    },
-    {
-      "collocations": [
-        "a socially acceptable habit：一种为社会所接受的习俗",
-        "socially ambitious couples：在社会地位方面有野心的夫妇",
-        "know each other socially：在社交场合相识"
-      ],
-      "definition": "在社会上；在社会地位上；在社交方面",
-      "examples": [],
-      "frequency": 4628,
-      "phonetic": "ˈsoʊʃəli",
-      "pos": "adv.",
-      "rootHint": "sue",
-      "word": "socially"
-    },
-    {
-      "collocations": [
-        "French societe “company” (12c., Modern French société), from Latin",
-        "societatem (nominative societas) “fellowship, association, alliance, union,\ncommunity,” from socius “companion, ally,” from PIE *sokw-yo-, suffixed",
-        "form of root *sekw- (1) “to follow.”",
-        "live in a capitalist society：生活在资本主义社会",
-        "modern society：现代社会"
-      ],
-      "definition": "社会；社团；协会",
-      "etymology": "1530s, “companionship, friendly association with others,” from Old",
-      "examples": [],
-      "frequency": 508,
-      "mnemonic": "soci-（=companion：同伴）+ -ety（名词后缀）→友好地与他人联合\n的组织；伙伴关系→社会；社团；协会",
-      "phonetic": "səˈsaɪəti",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "society"
-    },
-    {
-      "collocations": [
-        "societal norms：社会规范",
-        "societal changes：社会演变"
-      ],
-      "definition": "社会的；社会组织方式的",
-      "examples": [],
-      "frequency": 7097,
-      "mnemonic": "societ（=society：社会）+ -al（形容词后缀）→社会的；社会组织方",
-      "phonetic": "səˈsaɪətəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "societal"
-    },
-    {
-      "collocations": [
-        "antisocial behavior：反社会行为",
-        "a generation of antisocial teenagers：孤僻的青少年一代\n笔 记 区"
-      ],
-      "definition": "反社会的；孤僻的",
-      "examples": [],
-      "frequency": 11343,
-      "mnemonic": "anti-（=against：反对）+ social（社会的）→反社会的；孤僻的",
-      "phonetic": "ˌæntiˈsoʊʃəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "antisocial"
-    },
-    {
-      "collocations": [
-        "a socialist country：社会主义国家",
-        "socialist beliefs：社会主义信仰"
-      ],
-      "definition": "社会主义的 n. 社会主义者",
-      "examples": [],
-      "frequency": 5662,
-      "mnemonic": "social（社会的）+ -ist（形容词 / 名词后缀，表示某种主义者或某种\n信仰者）→社会主义的；社会主义者",
-      "phonetic": "ˈsoʊʃəlɪst",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "socialist"
-    },
-    {
-      "collocations": [
-        "democratic socialism：民主社会主义"
-      ],
-      "definition": "社会主义",
-      "examples": [],
-      "frequency": 7367,
-      "mnemonic": "social（社会的）+ -ism（主义；思想）→社会主义思想→社会主义",
-      "phonetic": "ˈsoʊʃəˌlɪzəm",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "socialism"
-    },
-    {
-      "collocations": [
-        "enjoy socializing with：喜欢和……来往",
-        "socialize children：使孩子适应社会"
-      ],
-      "definition": "社交；交往 vt. 使适应社会",
-      "examples": [],
-      "frequency": 8504,
-      "mnemonic": "social（社会的）+ -ize（动词后缀，使……）→使社会化，进行交往\n→社交；交往；使适应社会",
-      "phonetic": "ˈsoʊʃəˌlaɪz",
-      "pos": "vi.",
-      "rootHint": "sue",
-      "word": "socialize"
-    },
-    {
-      "collocations": [
-        "female socialization：女性社会化进程"
-      ],
-      "definition": "社会化；社会主义化",
-      "examples": [],
-      "frequency": 9554,
-      "mnemonic": "socialize（使适应社会）+ -ation（名词后缀）→社会化；社会主义化",
-      "phonetic": "ˌsoʊʃələˈzeɪʃən",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "socialization"
-    },
-    {
-      "collocations": [
-        "economic sociology：经济社会学",
-        "urban sociology：城市社会学"
-      ],
-      "definition": "社会学",
-      "examples": [],
-      "frequency": 8145,
-      "mnemonic": "socio（=social：社会）+ -logy（名词后缀，表……学）→社会学",
-      "phonetic": "ˌsoʊsiˈɑlədʒi",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "sociology"
-    },
-    {
-      "collocations": [
-        "a very sociable weekend：一个十分热闹的周末",
-        "extremely sociable：极其好交际"
-      ],
-      "definition": "友善的；好交际的",
-      "examples": [],
-      "mnemonic": "soci（社交的；社会的）+ -able（形容词后缀）→友善的；好交际的",
-      "phonetic": "ˈsoʊʃəbəl",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "sociable"
-    },
-    {
-      "collocations": [
-        "an extraordinary socialite and medical philanthropist：杰出的社会名流、",
-        "fashionable upper-class social events and who is well known because of this."
-      ],
-      "definition": "交际名流",
-      "examples": [],
-      "frequency": 18602,
-      "mnemonic": "social（社交的）+ -ite（名词后缀，表示人或物）→后用于指社交名",
-      "phonetic": "ˈsoʊʃəˌlaɪt",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "socialite"
-    },
-    {
-      "collocations": [
-        "associate professor：副教授",
-        "associate dean：副院长",
-        "associate progress with the future：将进步与未来联系起来",
-        "associate with the project：跟这个项目有关联",
-        "associate with a murderer：与一个杀人犯有牵连",
-        "business associates：商业伙伴",
-        "computer-based test that measures how quickly people associate positive",
-        "and negative words—such as “love” or “evil”—with photos of black or\nwhite faces.\n相反，心理学家采用所谓的“隐形偏见”方法进行评估，该评测测量\n人们把正面与负面的词汇——如“爱”或“邪恶”——与黑人或白人\n面孔进行关联的速度。\n（写作，阅读）重点：“和……联系在一起”的表达：associate / relate /\nbound up ... with ...",
-        "When we touch upon / talk about moral decline, people tend to / are prone"
-      ],
-      "definition": "将……联系起来；使（某人与某组织、事业、观点等）有关联 vi. （与某个或某群人）混在一起 adj. 副的（用在级别或头衔前） n. （尤指工作中的）伙伴",
-      "examples": [
-        "Instead psychologists assess what is known as “implicit bias”, using a",
-        "说到道德的下滑，人们往往想到的是教育的缺失，很少有人会把它和"
-      ],
-      "frequency": 1361,
-      "mnemonic": "as-（=to）+ soci-（=unite with：联合起来；社会；交际）+ -ate（动\n词后缀）→to unite with：使……联系起来；使有关联；与……在一",
-      "phonetic": "əˈsoʊʃiˌeɪt",
-      "pos": "vi.",
-      "rootHint": "sue",
-      "word": "associate"
-    },
-    {
-      "collocations": [
-        "the risks associated with taking drugs：与吸毒有关的危险",
-        "Associated Newspapers：联合报业",
-        "associated press：美联社"
-      ],
-      "definition": "（与……）相关联的；（用于联合企业的名称）联合的",
-      "examples": [],
-      "frequency": 4171,
-      "mnemonic": "associate（将……联系起来）+-d（形容词后缀）→相关联的；联合的",
-      "phonetic": "əˈsoʊʃiˌeɪtɪd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "associated"
-    },
-    {
-      "collocations": [
-        "the National Basketball Association：全国篮球协会",
-        "in association with：与……联合\n单词“sign”含义为 mark, indication, symbol，表示“标志；记号；签字；\n迹象”等含义。",
-        "communicate something, from Old French signe “sign, mark,” from Latin",
-        "standard, ensign; a signal, an omen; sign in the heavens, constellation.”\n单词 sign 表示“签字”。"
-      ],
-      "definition": "协会；（与某人、某物的）关联；（与某记忆、观念、情感的）关联",
-      "etymology": "Early 13c., “gesture or motion of the hand,” especially one meant to signum “identifying mark, token, indication, symbol; proof; military",
-      "examples": [],
-      "frequency": 2103,
-      "mnemonic": "associat（=associate：使有关联；工作伙伴）+ -ion（名词后缀）→",
-      "phonetic": "əˌsoʊsiˈeɪʃən",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "association"
-    },
-    {
-      "collocations": [
-        "sign up for the course：选课",
-        "sign a contract：签订一个合同",
-        "there is no sign of：毫无任何……的迹象",
-        "an equal sign：等号",
-        "the thumbs-up sign：一个竖起大拇指的手势",
-        "a sign of good will：一种友好的表示"
-      ],
-      "definition": "&vi. 签约雇用 vt. 在……上签名；签署 n. 符号；姿势；迹象",
-      "etymology": "来自拉丁语 signum，表示符号，标志，象征。",
-      "examples": [],
-      "frequency": 760,
-      "phonetic": "saɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "sign"
-    },
-    {
-      "collocations": [
-        "signed commercial invoice：已签署的商业发票"
-      ],
-      "definition": "已签字的",
-      "examples": [],
-      "frequency": 14327,
-      "phonetic": "saɪnd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "signed"
-    },
-    {
-      "collocations": [
-        "the signing of the treaty：这项条约的签署",
-        "signing ceremony：签字仪式\nthe club’s latest signing：俱乐部新近签约者",
-        "converse solely in signing：只靠打手势语交谈"
-      ],
-      "definition": "签署；（运动队或唱片公司的）签约者；（与运动队或唱片公司）签约；手势语的使用",
-      "examples": [],
-      "frequency": 7496,
-      "mnemonic": "sign（签字）+ -ing（动名词后缀）→签署；签约；签约者；打手势语",
-      "phonetic": "ˈsaɪnɪŋ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "signing"
-    },
-    {
-      "collocations": [
-        "collect 10,000 signatures for their petition：在请愿书上征集了1万人的签名",
-        "send to you for signature：送交您签署"
-      ],
-      "definition": "签名；签署；明显特征",
-      "examples": [
-        "Bright colors are his signature.\n他总爱用亮丽的色彩。"
-      ],
-      "frequency": 3809,
-      "mnemonic": "sign-（签字）+ -ate（动词后缀，表示使……，e省略）+ -ure（名词\n后缀）→签字；签署→引申义为明显特征",
-      "phonetic": "ˈsɪɡnətʃɚ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "signature"
-    },
-    {
-      "collocations": [
-        "a signatory of the Declaration of Independence：《独立宣言》的签署者",
-        "signatories to the Nuclear Non-Proliferation Treaty：《防止核扩散条\n约》的签约国\n20000 词汇巅峰\n速\n记\n单词 sign 表示“标志，标记”。\n笔 记 区"
-      ],
-      "definition": "（协议的）签署者；签署国",
-      "examples": [],
-      "frequency": 18091,
-      "mnemonic": "sign（签字；签署）+ -atory（名词后缀，-ate + -ory）→签署者；签署国",
-      "phonetic": "ˈsɪɡnəˌtɔɹi",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "signatory"
-    },
-    {
-      "collocations": [
-        "satellite signals：卫星信号",
-        "transmit radio signals：发射无线电信号",
-        "signal important shifts：表示重大变化",
-        "an important signal of support：表示支持的重要信号",
-        "fire three distress signals：发射3次遇难求救信号",
-        "signal a double-dip recession – a renewed decline in the broad level of",
-        "economic activity in the United States—but an economic expansion.\n在过去的两年间，进出口数据似乎并没有表明二次衰退——美国广义\n的经济活动的新一轮衰退——而是（表明）经济在扩张。"
-      ],
-      "definition": "&vi. （打手势或发声音）向……示意；发信号 vt. 表示 n.信号",
-      "examples": [
-        "Over the past two years, the figures on imports and exports seem not to"
-      ],
-      "frequency": 2093,
-      "mnemonic": "sign（标志）+-al（名词后缀）→信号；发信号；表示",
-      "phonetic": "ˈsɪɡnəl",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "signal"
-    },
-    {
-      "collocations": [
-        "signify a radical change in their policies：表明他们的政策发生了根本的",
-        "signify her approval with a smile：笑了笑表示赞同\n近义词：mean：表示……的意思"
-      ],
-      "definition": "表示；意味着；（用符号或手势）表达",
-      "examples": [
-        "The rising numbers signify growing vitality in foreign markets.\n上升的数量标志着国外市场活力不断增加。"
-      ],
-      "frequency": 6790,
-      "mnemonic": "sign（标志）+-ify（使动词）→使……成为标志；表示；意味着",
-      "phonetic": "ˈsɪɡnə.faɪ",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "signify"
-    },
-    {
-      "collocations": [
-        "sound or its printed form, rather than the meaning it expresses.\n比较：signified：所指（语言符号的意义）\n释义：（linguistics 语言）所指The meaning expressed by a linguistic sign,",
-        "rather than its form.\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "能指（语言符号的形式）",
-      "examples": [],
-      "frequency": 17826,
-      "phonetic": "ˈsɪɡnəˌfaɪɚ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "signifier"
-    },
-    {
-      "collocations": [
-        "a highly significant discovery：有重大意义的发现",
-        "a significant look / smile：意味深长的眼神 / 微笑",
-        "The appearance of e-book signifies / denotes human’s entrance into an age",
-        "of paperless reading.",
-        "The emergence of e-book is a sign for human’s entering into an era of",
-        "paperless reading.",
-        "The rise of e-book is a significant event which implies that we enter into a",
-        "time of paperless reading."
-      ],
-      "definition": "有重大意义的；显著的；意味深长的",
-      "examples": [
-        "电子书的出现标志着人类从此进入到无纸化阅读时代。"
-      ],
-      "frequency": 720,
-      "mnemonic": "signif（=signify：标志）+ -icant（复合形容词后缀，-ic + -ant）→标",
-      "phonetic": "sɪɡˈnɪfɪkənt",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "significant"
-    },
-    {
-      "collocations": [
-        "a decision of major political significance：具有重大政治意义的决定",
-        "have great significance for：对……有重大意义",
-        "grasp the full significance of：充分领会……的意思"
-      ],
-      "definition": "（尤指对将来有影响的）重要性，意义；意思；含义",
-      "examples": [],
-      "frequency": 2960,
-      "mnemonic": "signif（=signify：标志）+ -icance（复合名词后缀，-ic + -ance）→重\n要标志→重要性，意义；含义",
-      "phonetic": "sɪɡˈnɪfɪkəns",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "significance"
-    },
-    {
-      "collocations": [
-        "office, mark, proof, sign, token”.",
-        "the royal insignia：皇家的徽章",
-        "the insignia of a captain：上尉徽章"
-      ],
-      "definition": "（级别或成员的）标记，象征；徽章",
-      "etymology": "1640s, from Latin insignia, neuter plural of insigne “badge of honor or",
-      "examples": [],
-      "frequency": 16243,
-      "mnemonic": "in-（=in）+ sign（=identifying mark, sign：识别标记；标志）+ -ia\n（名词后缀）→引申词义标记；象征；徽章",
-      "phonetic": "ɪnˈsɪɡ.ni.ə",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "insignia"
-    },
-    {
-      "collocations": [
-        "consign her letter to the waste basket：把她的信丢进了废纸篓",
-        "consign him to a wheelchair for the rest of his life：使他落得在轮椅上度\n过余生的境地\n笔 记 区"
-      ],
-      "definition": "（为摆脱而）把……置于，把……交付给；把……置20000 词汇巅峰速记于（令人不快的境地）；打发",
-      "examples": [],
-      "frequency": 16125,
-      "mnemonic": "con-（with, together：一起；共同）+ sign（=to mark：做标记；记\n号）→（为了摆脱……）而把其做不好的标记→（为摆脱而）把……",
-      "phonetic": "kənˈsaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "consign"
-    },
-    {
-      "collocations": [
-        "assign sb. to do sth.：派……去干……",
-        "experience whatsoever.\n我认为派他去干这份工作是不合适的，因为他没有任何经验。\n同义：appoint [əˈpɒɪnt] vt. 任命；委任；安排，确定（时间、地点） 3200"
-      ],
-      "definition": "布置（任务）；分配（某物）；分派；赋予（某功能或价值）",
-      "examples": [
-        "I don’t think it advisable that he be assigned to the job since he has no",
-        "Has anybody been appointed to take his place?\n有人被派去取代他的位置吗？"
-      ],
-      "frequency": 2636,
-      "mnemonic": "as-（=to：去）+ -sign（=make a sign：做标记）→标明；标记→布置\nap-（加强语气）+ -point（指向）→指（某人）向（某地）→任命；",
-      "phonetic": "əˈsaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "assign"
-    },
-    {
-      "collocations": [
-        "complete home assignment：完成家庭作业",
-        "a tough assignment：一项艰巨任务",
-        "one of our reporters on assignment in China：我们派驻中国的一名记者"
-      ],
-      "definition": "（分派的）工作，任务；（工作等的）分派，布置",
-      "examples": [],
-      "frequency": 3152,
-      "mnemonic": "assign（分派；布置）+-ment（名词后缀）→分派、布置的工作→任",
-      "phonetic": "əˈsaɪnmənt",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "assignment"
-    },
-    {
-      "collocations": [],
-      "definition": "已分配的；指定的",
-      "examples": [],
-      "frequency": 13418,
-      "phonetic": "əˈsaɪnd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "assigned"
-    },
-    {
-      "collocations": [
-        "reassign to the diplomatic service：被派到外交部门工作",
-        "reassign to a different court：已交由另一法院（审理）"
-      ],
-      "definition": "重新委派，再次指派（任务、职位、责任等）；重新分配……（给某人或机构）；重新指定",
-      "examples": [],
-      "frequency": 18114,
-      "mnemonic": "re-（再；重新）+ assign（布置；分配）→重新委派，再次指派任",
-      "phonetic": "ˌɹi.əˈsaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "reassign"
-    },
-    {
-      "collocations": [
-        "make up one’s mind to resign：下定决心辞职",
-        "resign one’s position：辞职",
-        "resign ourselves to yet another summer：将就着又过了一个夏天"
-      ],
-      "definition": "辞职；使屈从",
-      "examples": [],
-      "frequency": 3419,
-      "mnemonic": "与“assign：任命；委派”反义，因为前缀re表相反→辞职；放弃",
-      "phonetic": "ɹɪ.ˈzaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "resign"
-    },
-    {
-      "collocations": [
-        "a resigned sigh：无可奈何的叹息",
-        "be resigned to：顺从……（的安排）"
-      ],
-      "definition": "逆来顺受的；顺从的",
-      "examples": [],
-      "frequency": 18027,
-      "phonetic": "ɹɪ.ˈzaɪnd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "resigned"
-    },
-    {
-      "collocations": [
-        "offer his resignation：递交了辞呈",
-        "sigh with profound resignation：极度无奈地叹气",
-        "I am writing this letter to you to express my sincere apology that I am",
-        "going to resign my post / position.",
-        "I am writing this letter to you to convey my earnest apology that I am",
-        "about to hand in my resignation."
-      ],
-      "definition": "辞职；辞呈；无奈的顺从",
-      "examples": [
-        "我写这封信给您是想向您道歉：我准备辞职了。"
-      ],
-      "frequency": 5841,
-      "mnemonic": "resign（辞职；使屈从）+ -ation（名词后缀）→辞职；无奈的顺从",
-      "phonetic": "ˌɹɛ.zɪɡ.ˈneɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "resignation"
-    },
-    {
-      "collocations": [
-        "design a machine：设计一台机器",
-        "design a course to suit your particular needs：策划一个课程来满足你的\n特定需求",
-        "a new design of clock：一种新款时钟",
-        "draw up the design：画出了设计图\n笔 记 区"
-      ],
-      "definition": "设计；策划 n. 设计；设计图；图案",
-      "examples": [],
-      "frequency": 837,
-      "mnemonic": "de-（=out）+ sign（=to mark：标志）→to mark out：描画……的轮\n廓；规划→设计；策划；图案",
-      "phonetic": "dɪ.ˈzaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "design"
-    },
-    {
-      "collocations": [
-        "a fashion / jewelry, etc. designer：时装、珠宝等设计师",
-        "designer labels：设计师品牌",
-        "designer jeans：名牌牛仔裤"
-      ],
-      "definition": "设计师；构思者 adj. 著名设计师设计的；名牌的；时尚的",
-      "examples": [],
-      "frequency": 2447,
-      "mnemonic": "design（设计）+ -er（名词后缀，表示人）→设计的人→设计师；构",
-      "phonetic": "dɪ.ˈzaɪ.nɚ",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "designer"
-    },
-    {
-      "collocations": [
-        "redesign and redecorate the hotel：重新设计及装修该酒店",
-        "redesign the school system：重新设计教育体系"
-      ],
-      "definition": "重新设计",
-      "examples": [],
-      "frequency": 10913,
-      "mnemonic": "re-（重新）+ design（设计）→重新设计",
-      "phonetic": "ˌɹi.dɪˈzaɪn",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "redesign"
-    },
-    {
-      "collocations": [
-        "high quality, well-designed furniture and furnishings：精心设计的优质家具"
-      ],
-      "definition": "精心设计的",
-      "examples": [],
-      "frequency": 19226,
-      "mnemonic": "well（高水准或高程度）+ design（设计）+ -ed（形容词后缀）→高\n水准的设计→精心设计的",
-      "phonetic": "ˌwɛl.dɪˈzaɪnd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "well-designed"
-    },
-    {
-      "collocations": [
-        "designate the bridge a historic landmark：把这座桥定为历史地标",
-        "designate someone as the spokesperson：指派某人为发言人\n20000 词汇巅峰\n速\n记\n笔 记 区"
-      ],
-      "definition": "命名；指定；指派 adj. 已任命但未就职的",
-      "examples": [],
-      "frequency": 5310,
-      "mnemonic": "de-（=out：出来）+ sign（=to mark：标记）+ -ate（动词后缀）→标出\n来→命名；指定；指派",
-      "phonetic": "ˈdɛ.zɪɡ.neɪt",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "designate"
-    },
-    {
-      "collocations": [
-        "designated area：指定区域",
-        "designated bank：指定银行"
-      ],
-      "definition": "指定的",
-      "examples": [],
-      "frequency": 7259,
-      "phonetic": "ˈdɛ.zɪɡ.neɪ.tɪd",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "designated"
-    },
-    {
-      "collocations": [
-        "designation as a conservation area：指定为保护区",
-        "official designation：正式职务\n与 sign 同样表达符号、标志含义的单词还有 seal, symbol 及其派生词以\n及词根 ves- 等。\n单词 seal 表示“印章”，与单词 sign“标记，记号”词源相同。"
-      ],
-      "definition": "指定；委任；名称；头衔",
-      "examples": [],
-      "frequency": 8341,
-      "mnemonic": "designat（=designate：指定；指派）+ -ion（复合名词后缀）→指",
-      "phonetic": "ˌdɛ.zɪɡ.ˈneɪ.ʃən",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "designation"
-    },
-    {
-      "collocations": [
-        "evidence of authenticity, c. 1200, from Old French seel “seal on a letter”,",
-        "from Latin sigillum “small picture, engraved figure, seal,” diminutive of",
-        "seal a deal：达成一笔交易",
-        "seal the envelope：封好信封",
-        "seal the border：封锁边境\nseal off：封锁（某地区）",
-        "note paper bearing the presidential seal：盖有总统印章的便条纸\n封好信封\n20000 词汇巅峰\n速\n记"
-      ],
-      "definition": "确定；封（信封）；封（容器、开口）；封锁（某地区） n. 印章；（容器、开口等）封了的部分；海豹",
-      "etymology": "“design stamped on wax,” especially one attached to a document as signum “identifying mark, sign”.",
-      "examples": [],
-      "frequency": 4062,
-      "phonetic": "sil",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "seal"
-    },
-    {
-      "collocations": [
-        "a sealed container：一个密封的容器"
-      ],
-      "definition": "密封的",
-      "examples": [],
-      "frequency": 10526,
-      "phonetic": "sild",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "sealed"
-    },
-    {
-      "collocations": [
-        "a symbol of purity：象征纯洁",
-        "the chemical symbol for copper：铜的化学符号",
-        "Olympic symbol：奥林匹克标志",
-        "symbol of luxury：奢侈的象征",
-        "architecture symbol：标志性建筑"
-      ],
-      "definition": "符号；象征",
-      "examples": [],
-      "frequency": 2361,
-      "mnemonic": "sym-（=sign：符号；象征）+ b（无意义）+ -ol（名词后缀）→符\n可作为它们的代表→symbol：象征；符号",
-      "phonetic": "ˈsɪm.bəl",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "symbol"
-    },
-    {
-      "collocations": [
-        "symbolic representations of landscape：地形的符号表征",
-        "symbolic of spring：象征春天",
-        "symbolic expression：符号表达式",
-        "the symbolic importance of the trip：这次旅行在象征意义上的重要性"
-      ],
-      "definition": "有象征意义的；符号的",
-      "examples": [],
-      "frequency": 4199,
-      "mnemonic": "symbol（象征；符号）+ -ic（形容词后缀）→有象征意义的；符号的",
-      "phonetic": "sɪmˈbɑ.lɪk",
-      "pos": "adj.",
-      "rootHint": "sue",
-      "word": "symbolic"
-    },
-    {
-      "collocations": [
-        "symbolically important：有着重要的象征意义"
-      ],
-      "definition": "有象征意义地",
-      "examples": [],
-      "frequency": 12894,
-      "phonetic": "sɪmˈbɑ.lɪ.kə.li",
-      "pos": "adv.",
-      "rootHint": "sue",
-      "word": "symbolically"
-    },
-    {
-      "collocations": [
-        "be rich in symbolism：象征手法非常丰富",
-        "the symbolism of every gesture：一举一动的象征意义"
-      ],
-      "definition": "象征手法；象征意义",
-      "examples": [],
-      "frequency": 9224,
-      "mnemonic": "symbol（象征）+ -ism（抽象名词后缀，表示主义）→象征手法；象",
-      "phonetic": "ˈsɪm.bə.lɪ.zəm",
-      "pos": "n.",
-      "rootHint": "sue",
-      "word": "symbolism"
-    },
-    {
-      "collocations": [
-        "symbolize the end of the Cold War：象征着冷战的结束",
-        "symbolize good and evil：象征善与恶"
-      ],
-      "definition": "象征",
-      "examples": [],
-      "frequency": 6696,
-      "mnemonic": "symbol（象征）+ -ize（使动词后缀）→（使）象征；代表",
-      "phonetic": "ˈsɪm.bə.laɪz",
-      "pos": "vt.",
-      "rootHint": "sue",
-      "word": "symbolize"
-    }
-  ]
+    "chapter": "14",
+    "chapterOrder": 114,
+    "id": "sue",
+    "meaningEn": "-suit=-sequ-，也有“follow",
+    "meaningZh": "跟随之意。",
+    "roots": [
+        "sue"
+    ],
+    "semanticLabel": "跟随之意。",
+    "source": "textbook-5",
+    "titleZh": "跟随之意。",
+    "words": [
+        {
+            "collocations": [
+                "pursue, follow, follow after; come next,” from in-(upon) + sequi-(follow).\n15世纪中期，含义为在时空跟随“to follow”, “to come or appear next, be",
+                "subsequent to, happen subsequently：随后到来或出现，继……之后；\n随后发生”。相关：Ensued; ensues; ensuing。"
+            ],
+            "definition": "随即发生",
+            "etymology": "c. 1400,“seek after, pursue; follow （a path）：追求；追赶；跟随”， 来自古法语ensu-，来自后期拉丁语insequere，来自拉丁语insequi “to",
+            "examples": [
+                "If the Europeans did not reduce subsidies, a trade war would ensue.\n如果欧洲不减少补贴，贸易战将随即爆发。"
+            ],
+            "frequency": 9761,
+            "mnemonic": "en-（=upon：此后）+ -sue（=follow：跟随）→跟随在……之后→随",
+            "phonetic": "ɪn.ˈsu",
+            "pos": "vi.",
+            "rootHint": "sue",
+            "word": "ensue"
+        },
+        {
+            "collocations": [
+                "the ensuing argument：随后的争论",
+                "in the ensuing ten years：在随后十年里"
+            ],
+            "definition": "随后发生的；随后的（时间）",
+            "examples": [],
+            "frequency": 10031,
+            "phonetic": "ɪn.ˈsu.ɪŋ",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "ensuing"
+        },
+        {
+            "collocations": [
+                "proceed, to follow：继续进行；跟随→追求；执行；继续探讨；追击",
+                "to pursue a goal / an aim / an objective：追求目标；贯彻宗旨；实现目",
+                "pursue a medical career：从事医学工作",
+                "to pursue legal action：进行诉讼",
+                "pursue the car：追赶那辆车"
+            ],
+            "definition": "追求；执行；继续探讨（或追究、从事）；（为抓捕、袭击等而）紧随……之后；追击",
+            "examples": [],
+            "frequency": 1799,
+            "mnemonic": "pur-（=pro-=forward：向前）+ sue（-sequi-=follow：跟随）→to",
+            "phonetic": "pɚˈsu",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "pursue"
+        },
+        {
+            "collocations": [
+                "escape the pursuers：摆脱了追捕者",
+                "shake off the pursuers：甩掉了追踪者"
+            ],
+            "definition": "追赶者；追捕者",
+            "examples": [],
+            "frequency": 17900,
+            "mnemonic": "pursue（追赶；追捕）+ -r（名词后缀，表示人）→追赶者；追捕者",
+            "phonetic": "pɚˈsu.ɚ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "pursuer"
+        },
+        {
+            "collocations": [
+                "relentless pursuit of excellence：不断追求卓越",
+                "vigorous pursuit of policies：政策的严格执行",
+                "in hot pursuit：穷追不舍",
+                "outdoor pursuits：户外活动"
+            ],
+            "definition": "追求；执行；追赶；消遣活动（复数）",
+            "examples": [],
+            "frequency": 3909,
+            "mnemonic": "pur-（=pro-：向前）+ suit（=follow：跟随）→向前跟随→追求；执",
+            "phonetic": "pɚˈsut",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "pursuit"
+        },
+        {
+            "collocations": [
+                "pursuant to sth.：根据……（执行）；依照……（执行）",
+                "act pursuant to the United Nations Security Council resolutions：根据联",
+                "pursuant to the Individuals with Disabilities Act：依据《残疾人法》"
+            ],
+            "definition": "根据；依照",
+            "examples": [],
+            "frequency": 15921,
+            "mnemonic": "pursu（=pursue：执行）+ -ant（形容词后缀）→常见于法律术语",
+            "phonetic": "pɚˈsu.ənt",
+            "pos": "prep.",
+            "rootHint": "sue",
+            "word": "pursuant"
+        },
+        {
+            "collocations": [
+                "a lawsuit against the government：对政府的诉讼案"
+            ],
+            "definition": "诉讼；起诉",
+            "examples": [],
+            "frequency": 2681,
+            "mnemonic": "law（法律）+ suit（跟随）→在法律上跟随（某人或事）→诉讼；起",
+            "phonetic": "ˈlɔ.sut",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "lawsuit"
+        },
+        {
+            "collocations": [
+                "have a suitor who adores her：有一位爱慕她的求婚者",
+                "try to find a suitor：努力寻找一家求购公司\n笔 记 区"
+            ],
+            "definition": "求婚者；求购公司",
+            "etymology": "suit（跟随）+ -or（表示人或物）→跟随其后的人或物→求婚者；求 购公司",
+            "examples": [],
+            "frequency": 12888,
+            "phonetic": "ˈsu.tɚ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "suitor"
+        },
+        {
+            "collocations": [
+                "a Jesuit priest：耶稣会神父"
+            ],
+            "definition": "（天主教）耶稣会会士",
+            "etymology": "来自拉丁语Jesuita，耶稣会会士，即Society of Jesus成员，成立于 1533年的基督教分支。为其它基督教分支如天主教和新教所鄙视而词 义贬义化。",
+            "examples": [],
+            "frequency": 12323,
+            "mnemonic": "Je（=Jesus：耶稣）+ -suit（跟随）→耶稣的跟随者→耶稣会会士",
+            "phonetic": "ˈdʒɛʒ.u.ɪt",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "Jesuit"
+        },
+        {
+            "collocations": [
+                "suit oneself：按照自己的意愿",
+                "a business suit：公务装",
+                "a diving suit：潜水服",
+                "a divorce suit：离婚诉讼\nfile / bring suit against：诉讼\nfollow suit：跟着做"
+            ],
+            "definition": "适合 n. 套装；成套服装；诉讼案",
+            "etymology": "来自盎格鲁法语suit，古法语suite，含义都为“pursuit, act of following： 追求；跟随的行为”。来自拉丁语sequi，含义为“to attend, follow：参 加；跟随”。14世纪suite含义为“随行人员”，以及这些随从穿戴的 “set of matching garments”相匹配的衣着或制服。",
+            "examples": [],
+            "frequency": 1418,
+            "phonetic": "sut",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "suit"
+        },
+        {
+            "collocations": [
+                "to pack / unpack a suitcase：把东西装进手提箱 / 取出手提箱里的东西"
+            ],
+            "definition": "手提箱",
+            "examples": [],
+            "frequency": 5685,
+            "mnemonic": "suit（套装）+ case（箱子）→原指装套装的小箱子，后用于指手提",
+            "phonetic": "ˈsut.keɪs",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "suitcase"
+        },
+        {
+            "collocations": [
+                "set of rooms” (1716), and “set of furniture” (1805) were imported from",
+                "French usages or re-spelled on the French model from suit in its sense of “a",
+                "number of things taken collectively and constituting a sequence; collection",
+                "of things of like kind.”",
+                "a hotel / private / honeymoon suite：旅馆 / 私人 / 蜜月套房",
+                "a bathroom / bedroom suite：一套卫生间 / 卧室家具"
+            ],
+            "definition": "套房；（一套）家具",
+            "etymology": "The meanings “set of instrumental compositions” (1680s), “connected",
+            "examples": [],
+            "frequency": 4780,
+            "phonetic": "swit",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "suite"
+        },
+        {
+            "collocations": [
+                "pictures of models in swimsuits：泳装模特的照片"
+            ],
+            "definition": "女式游泳衣",
+            "examples": [],
+            "frequency": 13933,
+            "mnemonic": "swim（游泳）+ suit（套装）→用于游泳的套装→女式游泳衣",
+            "phonetic": "ˈswɪm.sut",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "swimsuit"
+        },
+        {
+            "collocations": [],
+            "definition": "连裤衫",
+            "etymology": "连体裤（Jumpsuit）最早是从飞行员、机械师和士兵的制服演变而 来，最初主要是男性工人干粗活时穿的工装裤，它们正好符合了“爽 快，利索，实穿”的三大要素。而经过了设计师们的妙手改造后，它 们也变得越来越好看，尤其是工装中的女装，对身材、体型的修饰效 果一流。 连裤衫 单词 suit 还表示“适合”。",
+            "examples": [],
+            "frequency": 16499,
+            "phonetic": "ˈdʒʌmp.sut",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "jumpsuit"
+        },
+        {
+            "collocations": [
+                "a suitable candidate：合适的人选",
+                "a suitable place for a picnic：适合野餐的地方",
+                "a suitable moment：合适的时刻",
+                "suitable temperature：舒适温度\n笔 记 区"
+            ],
+            "definition": "合适的；适宜的",
+            "examples": [],
+            "frequency": 4811,
+            "mnemonic": "suit（合适）+-able（形容词后缀）→合适的；适宜的",
+            "phonetic": "ˈsu.tə.bəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "suitable"
+        },
+        {
+            "collocations": [
+                "unsuitable for climbing：不适合登山"
+            ],
+            "definition": "不合适的；不适宜的",
+            "examples": [],
+            "frequency": 17504,
+            "mnemonic": "un-（不）+ suit（合适）+ -able（能够……的）→不合适的；不适宜的",
+            "phonetic": "ʌnˈsutəbəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "unsuitable"
+        },
+        {
+            "collocations": [
+                "ecological suitability：生态适应性"
+            ],
+            "definition": "适合；适应",
+            "examples": [],
+            "frequency": 19194,
+            "mnemonic": "suitabil（=suitable：适合的）+ -ity（名词后缀）→适合",
+            "phonetic": "ˌsu.təˈbɪl.ə.ti",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "suitability"
+        },
+        {
+            "collocations": [
+                "suitably qualified candidates：十分符合条件的人选",
+                "be really suitably dressed for a party：穿着十分得体的衣服参加聚会"
+            ],
+            "definition": "合适地；适宜地；如其所料地；自然",
+            "etymology": "Late 15c., “devoted to or relating to home life;” 1560s as “living with others,” from Middle French social (14c.) and directly from Latin socialis “of companionship, of allies; united, living with others; of marriage, conjugal,” from socius “companion, ally,” probably originally “follower,” from PIE *sokw-yo-, suffixed form of root *sekw- (1) “to follow”. 20000 词汇巅峰 速 记 笔 记 区",
+            "examples": [
+                "He was suitably impressed when I told him I’d won.\n我告诉他我赢了，他当然觉得我真行。\n词根 soci- 也源于词根 sec-=follow，表示跟随别人的，因此包括 soci- 词\n根的单词有“companion, ally：伙伴；同伴；盟友；社会；群体”等含义。\n单词 social 的含义为社会的；社交的；与社会地位有关的。"
+            ],
+            "frequency": 19290,
+            "mnemonic": "suitabl（=suitable：合适的）+ -ly（副词后缀）→合适地；如其所料地",
+            "phonetic": "ˈsu.tə.bli",
+            "pos": "adv.",
+            "rootHint": "sue",
+            "word": "suitably"
+        },
+        {
+            "collocations": [
+                "long-term social change：长期的社会变革",
+                "social classes：社会各阶层",
+                "social security：社会保险"
+            ],
+            "definition": "社会的；社交的；与社会地位有关的",
+            "examples": [],
+            "frequency": 320,
+            "mnemonic": "soci-（群体的；社会的）+ -al（形容词后缀）→引申词义社交的；交",
+            "phonetic": "ˈsoʊʃəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "social"
+        },
+        {
+            "collocations": [
+                "a socially acceptable habit：一种为社会所接受的习俗",
+                "socially ambitious couples：在社会地位方面有野心的夫妇",
+                "know each other socially：在社交场合相识"
+            ],
+            "definition": "在社会上；在社会地位上；在社交方面",
+            "examples": [],
+            "frequency": 4628,
+            "phonetic": "ˈsoʊʃəliː",
+            "pos": "adv.",
+            "rootHint": "sue",
+            "word": "socially"
+        },
+        {
+            "collocations": [
+                "French societe “company” (12c., Modern French société), from Latin",
+                "societatem (nominative societas) “fellowship, association, alliance, union,\ncommunity,” from socius “companion, ally,” from PIE *sokw-yo-, suffixed",
+                "form of root *sekw- (1) “to follow.”",
+                "live in a capitalist society：生活在资本主义社会",
+                "modern society：现代社会"
+            ],
+            "definition": "社会；社团；协会",
+            "etymology": "1530s, “companionship, friendly association with others,” from Old",
+            "examples": [],
+            "frequency": 508,
+            "mnemonic": "soci-（=companion：同伴）+ -ety（名词后缀）→友好地与他人联合\n的组织；伙伴关系→社会；社团；协会",
+            "phonetic": "səˈsaɪətiː",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "society"
+        },
+        {
+            "collocations": [
+                "societal norms：社会规范",
+                "societal changes：社会演变"
+            ],
+            "definition": "社会的；社会组织方式的",
+            "examples": [],
+            "frequency": 7097,
+            "mnemonic": "societ（=society：社会）+ -al（形容词后缀）→社会的；社会组织方",
+            "phonetic": "səˈsaɪətəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "societal"
+        },
+        {
+            "collocations": [
+                "antisocial behavior：反社会行为",
+                "a generation of antisocial teenagers：孤僻的青少年一代\n笔 记 区"
+            ],
+            "definition": "反社会的；孤僻的",
+            "examples": [],
+            "frequency": 11343,
+            "mnemonic": "anti-（=against：反对）+ social（社会的）→反社会的；孤僻的",
+            "phonetic": "ˌæntiːˈsoʊʃəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "antisocial"
+        },
+        {
+            "collocations": [
+                "a socialist country：社会主义国家",
+                "socialist beliefs：社会主义信仰"
+            ],
+            "definition": "社会主义的 n. 社会主义者",
+            "examples": [],
+            "frequency": 5662,
+            "mnemonic": "social（社会的）+ -ist（形容词 / 名词后缀，表示某种主义者或某种\n信仰者）→社会主义的；社会主义者",
+            "phonetic": "ˈsoʊʃəlɪst",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "socialist"
+        },
+        {
+            "collocations": [
+                "democratic socialism：民主社会主义"
+            ],
+            "definition": "社会主义",
+            "examples": [],
+            "frequency": 7367,
+            "mnemonic": "social（社会的）+ -ism（主义；思想）→社会主义思想→社会主义",
+            "phonetic": "ˈsoʊʃəˌlɪzəm",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "socialism"
+        },
+        {
+            "collocations": [
+                "enjoy socializing with：喜欢和……来往",
+                "socialize children：使孩子适应社会"
+            ],
+            "definition": "社交；交往 vt. 使适应社会",
+            "examples": [],
+            "frequency": 8504,
+            "mnemonic": "social（社会的）+ -ize（动词后缀，使……）→使社会化，进行交往\n→社交；交往；使适应社会",
+            "phonetic": "ˈsoʊʃəˌlaɪz",
+            "pos": "vi.",
+            "rootHint": "sue",
+            "word": "socialize"
+        },
+        {
+            "collocations": [
+                "female socialization：女性社会化进程"
+            ],
+            "definition": "社会化；社会主义化",
+            "examples": [],
+            "frequency": 9554,
+            "mnemonic": "socialize（使适应社会）+ -ation（名词后缀）→社会化；社会主义化",
+            "phonetic": "ˌsoʊʃələˈzeɪʃən",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "socialization"
+        },
+        {
+            "collocations": [
+                "economic sociology：经济社会学",
+                "urban sociology：城市社会学"
+            ],
+            "definition": "社会学",
+            "examples": [],
+            "frequency": 8145,
+            "mnemonic": "socio（=social：社会）+ -logy（名词后缀，表……学）→社会学",
+            "phonetic": "ˌsoʊsiːˈɑlədʒiː",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "sociology"
+        },
+        {
+            "collocations": [
+                "a very sociable weekend：一个十分热闹的周末",
+                "extremely sociable：极其好交际"
+            ],
+            "definition": "友善的；好交际的",
+            "examples": [],
+            "mnemonic": "soci（社交的；社会的）+ -able（形容词后缀）→友善的；好交际的",
+            "phonetic": "ˈsoʊʃəbəl",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "sociable"
+        },
+        {
+            "collocations": [
+                "an extraordinary socialite and medical philanthropist：杰出的社会名流、",
+                "fashionable upper-class social events and who is well known because of this."
+            ],
+            "definition": "交际名流",
+            "examples": [],
+            "frequency": 18602,
+            "mnemonic": "social（社交的）+ -ite（名词后缀，表示人或物）→后用于指社交名",
+            "phonetic": "ˈsoʊʃəˌlaɪt",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "socialite"
+        },
+        {
+            "collocations": [
+                "associate professor：副教授",
+                "associate dean：副院长",
+                "associate progress with the future：将进步与未来联系起来",
+                "associate with the project：跟这个项目有关联",
+                "associate with a murderer：与一个杀人犯有牵连",
+                "business associates：商业伙伴",
+                "computer-based test that measures how quickly people associate positive",
+                "and negative words—such as “love” or “evil”—with photos of black or\nwhite faces.\n相反，心理学家采用所谓的“隐形偏见”方法进行评估，该评测测量\n人们把正面与负面的词汇——如“爱”或“邪恶”——与黑人或白人\n面孔进行关联的速度。\n（写作，阅读）重点：“和……联系在一起”的表达：associate / relate /\nbound up ... with ...",
+                "When we touch upon / talk about moral decline, people tend to / are prone"
+            ],
+            "definition": "将……联系起来；使（某人与某组织、事业、观点等）有关联 vi. （与某个或某群人）混在一起 adj. 副的（用在级别或头衔前） n. （尤指工作中的）伙伴",
+            "examples": [
+                "Instead psychologists assess what is known as “implicit bias”, using a",
+                "说到道德的下滑，人们往往想到的是教育的缺失，很少有人会把它和"
+            ],
+            "frequency": 1361,
+            "mnemonic": "as-（=to）+ soci-（=unite with：联合起来；社会；交际）+ -ate（动\n词后缀）→to unite with：使……联系起来；使有关联；与……在一",
+            "phonetic": "əˈsoʊʃiːˌeɪt",
+            "pos": "vi.",
+            "rootHint": "sue",
+            "word": "associate"
+        },
+        {
+            "collocations": [
+                "the risks associated with taking drugs：与吸毒有关的危险",
+                "Associated Newspapers：联合报业",
+                "associated press：美联社"
+            ],
+            "definition": "（与……）相关联的；（用于联合企业的名称）联合的",
+            "examples": [],
+            "frequency": 4171,
+            "mnemonic": "associate（将……联系起来）+-d（形容词后缀）→相关联的；联合的",
+            "phonetic": "əˈsoʊʃiːˌeɪtɪd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "associated"
+        },
+        {
+            "collocations": [
+                "the National Basketball Association：全国篮球协会",
+                "in association with：与……联合\n单词“sign”含义为 mark, indication, symbol，表示“标志；记号；签字；\n迹象”等含义。",
+                "communicate something, from Old French signe “sign, mark,” from Latin",
+                "standard, ensign; a signal, an omen; sign in the heavens, constellation.”\n单词 sign 表示“签字”。"
+            ],
+            "definition": "协会；（与某人、某物的）关联；（与某记忆、观念、情感的）关联",
+            "etymology": "Early 13c., “gesture or motion of the hand,” especially one meant to signum “identifying mark, token, indication, symbol; proof; military",
+            "examples": [],
+            "frequency": 2103,
+            "mnemonic": "associat（=associate：使有关联；工作伙伴）+ -ion（名词后缀）→",
+            "phonetic": "əˌsoʊsiːˈeɪʃən",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "association"
+        },
+        {
+            "collocations": [
+                "sign up for the course：选课",
+                "sign a contract：签订一个合同",
+                "there is no sign of：毫无任何……的迹象",
+                "an equal sign：等号",
+                "the thumbs-up sign：一个竖起大拇指的手势",
+                "a sign of good will：一种友好的表示"
+            ],
+            "definition": "&vi. 签约雇用 vt. 在……上签名；签署 n. 符号；姿势；迹象",
+            "etymology": "来自拉丁语 signum，表示符号，标志，象征。",
+            "examples": [],
+            "frequency": 760,
+            "phonetic": "saɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "sign"
+        },
+        {
+            "collocations": [
+                "signed commercial invoice：已签署的商业发票"
+            ],
+            "definition": "已签字的",
+            "examples": [],
+            "frequency": 14327,
+            "phonetic": "saɪnd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "signed"
+        },
+        {
+            "collocations": [
+                "the signing of the treaty：这项条约的签署",
+                "signing ceremony：签字仪式\nthe club’s latest signing：俱乐部新近签约者",
+                "converse solely in signing：只靠打手势语交谈"
+            ],
+            "definition": "签署；（运动队或唱片公司的）签约者；（与运动队或唱片公司）签约；手势语的使用",
+            "examples": [],
+            "frequency": 7496,
+            "mnemonic": "sign（签字）+ -ing（动名词后缀）→签署；签约；签约者；打手势语",
+            "phonetic": "ˈsaɪnɪŋ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "signing"
+        },
+        {
+            "collocations": [
+                "collect 10,000 signatures for their petition：在请愿书上征集了1万人的签名",
+                "send to you for signature：送交您签署"
+            ],
+            "definition": "签名；签署；明显特征",
+            "examples": [
+                "Bright colors are his signature.\n他总爱用亮丽的色彩。"
+            ],
+            "frequency": 3809,
+            "mnemonic": "sign-（签字）+ -ate（动词后缀，表示使……，e省略）+ -ure（名词\n后缀）→签字；签署→引申义为明显特征",
+            "phonetic": "ˈsɪɡnətʃɚ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "signature"
+        },
+        {
+            "collocations": [
+                "a signatory of the Declaration of Independence：《独立宣言》的签署者",
+                "signatories to the Nuclear Non-Proliferation Treaty：《防止核扩散条\n约》的签约国\n20000 词汇巅峰\n速\n记\n单词 sign 表示“标志，标记”。\n笔 记 区"
+            ],
+            "definition": "（协议的）签署者；签署国",
+            "examples": [],
+            "frequency": 18091,
+            "mnemonic": "sign（签字；签署）+ -atory（名词后缀，-ate + -ory）→签署者；签署国",
+            "phonetic": "ˈsɪɡnəˌtɔriː",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "signatory"
+        },
+        {
+            "collocations": [
+                "satellite signals：卫星信号",
+                "transmit radio signals：发射无线电信号",
+                "signal important shifts：表示重大变化",
+                "an important signal of support：表示支持的重要信号",
+                "fire three distress signals：发射3次遇难求救信号",
+                "signal a double-dip recession – a renewed decline in the broad level of",
+                "economic activity in the United States—but an economic expansion.\n在过去的两年间，进出口数据似乎并没有表明二次衰退——美国广义\n的经济活动的新一轮衰退——而是（表明）经济在扩张。"
+            ],
+            "definition": "&vi. （打手势或发声音）向……示意；发信号 vt. 表示 n.信号",
+            "examples": [
+                "Over the past two years, the figures on imports and exports seem not to"
+            ],
+            "frequency": 2093,
+            "mnemonic": "sign（标志）+-al（名词后缀）→信号；发信号；表示",
+            "phonetic": "ˈsɪɡnəl",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "signal"
+        },
+        {
+            "collocations": [
+                "signify a radical change in their policies：表明他们的政策发生了根本的",
+                "signify her approval with a smile：笑了笑表示赞同\n近义词：mean：表示……的意思"
+            ],
+            "definition": "表示；意味着；（用符号或手势）表达",
+            "examples": [
+                "The rising numbers signify growing vitality in foreign markets.\n上升的数量标志着国外市场活力不断增加。"
+            ],
+            "frequency": 6790,
+            "mnemonic": "sign（标志）+-ify（使动词）→使……成为标志；表示；意味着",
+            "phonetic": "ˈsɪɡnə.faɪ",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "signify"
+        },
+        {
+            "collocations": [
+                "sound or its printed form, rather than the meaning it expresses.\n比较：signified：所指（语言符号的意义）\n释义：（linguistics 语言）所指The meaning expressed by a linguistic sign,",
+                "rather than its form.\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "能指（语言符号的形式）",
+            "examples": [],
+            "frequency": 17826,
+            "phonetic": "ˈsɪɡnəˌfaɪɚ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "signifier"
+        },
+        {
+            "collocations": [
+                "a highly significant discovery：有重大意义的发现",
+                "a significant look / smile：意味深长的眼神 / 微笑",
+                "The appearance of e-book signifies / denotes human’s entrance into an age",
+                "of paperless reading.",
+                "The emergence of e-book is a sign for human’s entering into an era of",
+                "paperless reading.",
+                "The rise of e-book is a significant event which implies that we enter into a",
+                "time of paperless reading."
+            ],
+            "definition": "有重大意义的；显著的；意味深长的",
+            "examples": [
+                "电子书的出现标志着人类从此进入到无纸化阅读时代。"
+            ],
+            "frequency": 720,
+            "mnemonic": "signif（=signify：标志）+ -icant（复合形容词后缀，-ic + -ant）→标",
+            "phonetic": "sɪɡˈnɪfɪkənt",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "significant"
+        },
+        {
+            "collocations": [
+                "a decision of major political significance：具有重大政治意义的决定",
+                "have great significance for：对……有重大意义",
+                "grasp the full significance of：充分领会……的意思"
+            ],
+            "definition": "（尤指对将来有影响的）重要性，意义；意思；含义",
+            "examples": [],
+            "frequency": 2960,
+            "mnemonic": "signif（=signify：标志）+ -icance（复合名词后缀，-ic + -ance）→重\n要标志→重要性，意义；含义",
+            "phonetic": "sɪɡˈnɪfɪkəns",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "significance"
+        },
+        {
+            "collocations": [
+                "office, mark, proof, sign, token”.",
+                "the royal insignia：皇家的徽章",
+                "the insignia of a captain：上尉徽章"
+            ],
+            "definition": "（级别或成员的）标记，象征；徽章",
+            "etymology": "1640s, from Latin insignia, neuter plural of insigne “badge of honor or",
+            "examples": [],
+            "frequency": 16243,
+            "mnemonic": "in-（=in）+ sign（=identifying mark, sign：识别标记；标志）+ -ia\n（名词后缀）→引申词义标记；象征；徽章",
+            "phonetic": "ɪnˈsɪɡ.ni.ə",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "insignia"
+        },
+        {
+            "collocations": [
+                "consign her letter to the waste basket：把她的信丢进了废纸篓",
+                "consign him to a wheelchair for the rest of his life：使他落得在轮椅上度\n过余生的境地\n笔 记 区"
+            ],
+            "definition": "（为摆脱而）把……置于，把……交付给；把……置20000 词汇巅峰速记于（令人不快的境地）；打发",
+            "examples": [],
+            "frequency": 16125,
+            "mnemonic": "con-（with, together：一起；共同）+ sign（=to mark：做标记；记\n号）→（为了摆脱……）而把其做不好的标记→（为摆脱而）把……",
+            "phonetic": "kənˈsaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "consign"
+        },
+        {
+            "collocations": [
+                "assign sb. to do sth.：派……去干……",
+                "experience whatsoever.\n我认为派他去干这份工作是不合适的，因为他没有任何经验。\n同义：appoint [əˈpɒɪnt] vt. 任命；委任；安排，确定（时间、地点） 3200"
+            ],
+            "definition": "布置（任务）；分配（某物）；分派；赋予（某功能或价值）",
+            "examples": [
+                "I don’t think it advisable that he be assigned to the job since he has no",
+                "Has anybody been appointed to take his place?\n有人被派去取代他的位置吗？"
+            ],
+            "frequency": 2636,
+            "mnemonic": "as-（=to：去）+ -sign（=make a sign：做标记）→标明；标记→布置\nap-（加强语气）+ -point（指向）→指（某人）向（某地）→任命；",
+            "phonetic": "əˈsaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "assign"
+        },
+        {
+            "collocations": [
+                "complete home assignment：完成家庭作业",
+                "a tough assignment：一项艰巨任务",
+                "one of our reporters on assignment in China：我们派驻中国的一名记者"
+            ],
+            "definition": "（分派的）工作，任务；（工作等的）分派，布置",
+            "examples": [],
+            "frequency": 3152,
+            "mnemonic": "assign（分派；布置）+-ment（名词后缀）→分派、布置的工作→任",
+            "phonetic": "əˈsaɪnmənt",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "assignment"
+        },
+        {
+            "collocations": [],
+            "definition": "已分配的；指定的",
+            "examples": [],
+            "frequency": 13418,
+            "phonetic": "əˈsaɪnd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "assigned"
+        },
+        {
+            "collocations": [
+                "reassign to the diplomatic service：被派到外交部门工作",
+                "reassign to a different court：已交由另一法院（审理）"
+            ],
+            "definition": "重新委派，再次指派（任务、职位、责任等）；重新分配……（给某人或机构）；重新指定",
+            "examples": [],
+            "frequency": 18114,
+            "mnemonic": "re-（再；重新）+ assign（布置；分配）→重新委派，再次指派任",
+            "phonetic": "ˌriː.əˈsaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "reassign"
+        },
+        {
+            "collocations": [
+                "make up one’s mind to resign：下定决心辞职",
+                "resign one’s position：辞职",
+                "resign ourselves to yet another summer：将就着又过了一个夏天"
+            ],
+            "definition": "辞职；使屈从",
+            "examples": [],
+            "frequency": 3419,
+            "mnemonic": "与“assign：任命；委派”反义，因为前缀re表相反→辞职；放弃",
+            "phonetic": "rɪ.ˈzaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "resign"
+        },
+        {
+            "collocations": [
+                "a resigned sigh：无可奈何的叹息",
+                "be resigned to：顺从……（的安排）"
+            ],
+            "definition": "逆来顺受的；顺从的",
+            "examples": [],
+            "frequency": 18027,
+            "phonetic": "rɪ.ˈzaɪnd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "resigned"
+        },
+        {
+            "collocations": [
+                "offer his resignation：递交了辞呈",
+                "sigh with profound resignation：极度无奈地叹气",
+                "I am writing this letter to you to express my sincere apology that I am",
+                "going to resign my post / position.",
+                "I am writing this letter to you to convey my earnest apology that I am",
+                "about to hand in my resignation."
+            ],
+            "definition": "辞职；辞呈；无奈的顺从",
+            "examples": [
+                "我写这封信给您是想向您道歉：我准备辞职了。"
+            ],
+            "frequency": 5841,
+            "mnemonic": "resign（辞职；使屈从）+ -ation（名词后缀）→辞职；无奈的顺从",
+            "phonetic": "ˌrɛ.zɪɡ.ˈneɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "resignation"
+        },
+        {
+            "collocations": [
+                "design a machine：设计一台机器",
+                "design a course to suit your particular needs：策划一个课程来满足你的\n特定需求",
+                "a new design of clock：一种新款时钟",
+                "draw up the design：画出了设计图\n笔 记 区"
+            ],
+            "definition": "设计；策划 n. 设计；设计图；图案",
+            "examples": [],
+            "frequency": 837,
+            "mnemonic": "de-（=out）+ sign（=to mark：标志）→to mark out：描画……的轮\n廓；规划→设计；策划；图案",
+            "phonetic": "dɪ.ˈzaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "design"
+        },
+        {
+            "collocations": [
+                "a fashion / jewelry, etc. designer：时装、珠宝等设计师",
+                "designer labels：设计师品牌",
+                "designer jeans：名牌牛仔裤"
+            ],
+            "definition": "设计师；构思者 adj. 著名设计师设计的；名牌的；时尚的",
+            "examples": [],
+            "frequency": 2447,
+            "mnemonic": "design（设计）+ -er（名词后缀，表示人）→设计的人→设计师；构",
+            "phonetic": "dɪ.ˈzaɪ.nɚ",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "designer"
+        },
+        {
+            "collocations": [
+                "redesign and redecorate the hotel：重新设计及装修该酒店",
+                "redesign the school system：重新设计教育体系"
+            ],
+            "definition": "重新设计",
+            "examples": [],
+            "frequency": 10913,
+            "mnemonic": "re-（重新）+ design（设计）→重新设计",
+            "phonetic": "ˌriː.dɪˈzaɪn",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "redesign"
+        },
+        {
+            "collocations": [
+                "high quality, well-designed furniture and furnishings：精心设计的优质家具"
+            ],
+            "definition": "精心设计的",
+            "examples": [],
+            "frequency": 19226,
+            "mnemonic": "well（高水准或高程度）+ design（设计）+ -ed（形容词后缀）→高\n水准的设计→精心设计的",
+            "phonetic": "ˌwɛl.dɪˈzaɪnd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "well-designed"
+        },
+        {
+            "collocations": [
+                "designate the bridge a historic landmark：把这座桥定为历史地标",
+                "designate someone as the spokesperson：指派某人为发言人\n20000 词汇巅峰\n速\n记\n笔 记 区"
+            ],
+            "definition": "命名；指定；指派 adj. 已任命但未就职的",
+            "examples": [],
+            "frequency": 5310,
+            "mnemonic": "de-（=out：出来）+ sign（=to mark：标记）+ -ate（动词后缀）→标出\n来→命名；指定；指派",
+            "phonetic": "ˈdɛ.zɪɡ.neɪt",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "designate"
+        },
+        {
+            "collocations": [
+                "designated area：指定区域",
+                "designated bank：指定银行"
+            ],
+            "definition": "指定的",
+            "examples": [],
+            "frequency": 7259,
+            "phonetic": "ˈdɛ.zɪɡ.neɪ.tɪd",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "designated"
+        },
+        {
+            "collocations": [
+                "designation as a conservation area：指定为保护区",
+                "official designation：正式职务\n与 sign 同样表达符号、标志含义的单词还有 seal, symbol 及其派生词以\n及词根 ves- 等。\n单词 seal 表示“印章”，与单词 sign“标记，记号”词源相同。"
+            ],
+            "definition": "指定；委任；名称；头衔",
+            "examples": [],
+            "frequency": 8341,
+            "mnemonic": "designat（=designate：指定；指派）+ -ion（复合名词后缀）→指",
+            "phonetic": "ˌdɛ.zɪɡ.ˈneɪ.ʃən",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "designation"
+        },
+        {
+            "collocations": [
+                "evidence of authenticity, c. 1200, from Old French seel “seal on a letter”,",
+                "from Latin sigillum “small picture, engraved figure, seal,” diminutive of",
+                "seal a deal：达成一笔交易",
+                "seal the envelope：封好信封",
+                "seal the border：封锁边境\nseal off：封锁（某地区）",
+                "note paper bearing the presidential seal：盖有总统印章的便条纸\n封好信封\n20000 词汇巅峰\n速\n记"
+            ],
+            "definition": "确定；封（信封）；封（容器、开口）；封锁（某地区） n. 印章；（容器、开口等）封了的部分；海豹",
+            "etymology": "“design stamped on wax,” especially one attached to a document as signum “identifying mark, sign”.",
+            "examples": [],
+            "frequency": 4062,
+            "phonetic": "sil",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "seal"
+        },
+        {
+            "collocations": [
+                "a sealed container：一个密封的容器"
+            ],
+            "definition": "密封的",
+            "examples": [],
+            "frequency": 10526,
+            "phonetic": "sild",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "sealed"
+        },
+        {
+            "collocations": [
+                "a symbol of purity：象征纯洁",
+                "the chemical symbol for copper：铜的化学符号",
+                "Olympic symbol：奥林匹克标志",
+                "symbol of luxury：奢侈的象征",
+                "architecture symbol：标志性建筑"
+            ],
+            "definition": "符号；象征",
+            "examples": [],
+            "frequency": 2361,
+            "mnemonic": "sym-（=sign：符号；象征）+ b（无意义）+ -ol（名词后缀）→符\n可作为它们的代表→symbol：象征；符号",
+            "phonetic": "ˈsɪm.bəl",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "symbol"
+        },
+        {
+            "collocations": [
+                "symbolic representations of landscape：地形的符号表征",
+                "symbolic of spring：象征春天",
+                "symbolic expression：符号表达式",
+                "the symbolic importance of the trip：这次旅行在象征意义上的重要性"
+            ],
+            "definition": "有象征意义的；符号的",
+            "examples": [],
+            "frequency": 4199,
+            "mnemonic": "symbol（象征；符号）+ -ic（形容词后缀）→有象征意义的；符号的",
+            "phonetic": "sɪmˈbɑ.lɪk",
+            "pos": "adj.",
+            "rootHint": "sue",
+            "word": "symbolic"
+        },
+        {
+            "collocations": [
+                "symbolically important：有着重要的象征意义"
+            ],
+            "definition": "有象征意义地",
+            "examples": [],
+            "frequency": 12894,
+            "phonetic": "sɪmˈbɑ.lɪ.kə.li",
+            "pos": "adv.",
+            "rootHint": "sue",
+            "word": "symbolically"
+        },
+        {
+            "collocations": [
+                "be rich in symbolism：象征手法非常丰富",
+                "the symbolism of every gesture：一举一动的象征意义"
+            ],
+            "definition": "象征手法；象征意义",
+            "examples": [],
+            "frequency": 9224,
+            "mnemonic": "symbol（象征）+ -ism（抽象名词后缀，表示主义）→象征手法；象",
+            "phonetic": "ˈsɪm.bə.lɪ.zəm",
+            "pos": "n.",
+            "rootHint": "sue",
+            "word": "symbolism"
+        },
+        {
+            "collocations": [
+                "symbolize the end of the Cold War：象征着冷战的结束",
+                "symbolize good and evil：象征善与恶"
+            ],
+            "definition": "象征",
+            "examples": [],
+            "frequency": 6696,
+            "mnemonic": "symbol（象征）+ -ize（使动词后缀）→（使）象征；代表",
+            "phonetic": "ˈsɪm.bə.laɪz",
+            "pos": "vt.",
+            "rootHint": "sue",
+            "word": "symbolize"
+        }
+    ]
 }

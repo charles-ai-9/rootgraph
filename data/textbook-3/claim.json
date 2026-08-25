@@ -1,722 +1,722 @@
 {
-  "id": "claim",
-  "source": "textbook-3",
-  "chapter": "9",
-  "chapterOrder": 109,
-  "titleZh": "*kele",
-  "semanticLabel": "*kele",
-  "meaningEn": null,
-  "meaningZh": null,
-  "roots": [
-    "claim",
-    "clam",
-    "cla"
-  ],
-  "words": [
-    {
-      "word": "claim",
-      "phonetic": "kleɪm",
-      "pos": "vt.",
-      "definition": "声称；断言；声称(对某事负责或应得荣誉);索取；赢 得；需要；夺走(生命); vt.&vi.索赔；索要 n. 声称；断言；索赔；索 要；索求权",
-      "frequency": 877,
-      "mnemonic": "claim(=to call/cry out/shout/proclaim: 喊；叫；要求) → 声称；要求",
-      "collocations": [
-        "from accented stem of Old French clamer “to call,name,describe;claim; complain;declare,\"from Latin clamare “to cry out,shout,proclaim,\"from PIE root *kele-(2)\"to shout.\"Related:Claimed;claiming.",
-        "Meaning \"to maintain as true,assert a belief or opinion\"is from 1864 (“A common use,regarded by many as inelegant”-Century Dictionary, 1895);claim properly should not stray too far from its true meaning of “to demand recognition of a right.”Specific sense “to make a claim”(on an insurance company)is from 1897.",
-        "lay claim to: 声称拥有",
-        "claim for compensation: 索赔",
-        "someone's claim to fame: ( 某人的)成名之举；成名之作",
-        "claim the life of a U.N.interpreter: 夺走了一位联合国译员的生命 make a claim on our insurance: 依据保险提出索赔",
-        "rival claims to Macedonian territory: 对马其顿领土的争夺\n二 四二 四例句：Three English dictionaries published recently all lay claim to possessing a \"new\"feature.\n二 四\n二 四\n最近出版的三本英语字典都声称有新的特点。",
-        "Those service industries all lay claim to possessing high-quality services."
-      ],
-      "etymology": "c.1300,“to call,call out;to ask or demand by virtue of right or authority,”",
-      "examples": [
-        "那些服务行业都声称拥有高质量的服务。"
-      ],
-      "rootHint": "claim"
-    },
-    {
-      "word": "clamor",
-      "phonetic": "ˈklæmɚ",
-      "pos": "vi.",
-      "definition": "强烈要求；大声叫喊 n. 嘈杂声；吵闹；(一大批人的) 强烈要求，大声呼吁(尤用于新闻报道)12366",
-      "mnemonic": "clam-(=to cry out,shout: 大声呼喊)+-or ( 名词后缀，状况/行为) →强烈要求；大声喊叫",
-      "collocations": [
-        "clamour for the attention of the voter: 大声疾呼以吸引选民的关注 deafening clamour: 震耳欲聋的喧哗"
-      ],
-      "etymology": "(n.)late 14c.,\"a great outcry,\"also figurative,\"loud or urgent demand,\" from Old French clamor “call,cry,appeal,outcry”(12c.,Modern French clameur),from Latin clamor “a shout,a loud call”(either friendly or hostile),from clamare “to cry out”(from PIE root*kele-(2)“to shout”). (v.)\"utter loudly,shout,\"also figurative,\"make importunate demands or complaints,\"late 14c.,from clamor(n.).Related:Clamored;clamoring.",
-      "examples": [],
-      "rootHint": "clam"
-    },
-    {
-      "word": "claimant",
-      "phonetic": "ˈkleɪmənt",
-      "pos": "n.",
-      "definition": "领取失业救济金的人；靠救济金为生的人；申请人；要求者；索要者",
-      "frequency": 17976,
-      "mnemonic": "claim(=to cry out: 叫 喊 ) + -ant ( 名词后缀) → (叫喊着)要\n求……;索要……→引申为索要救济金；领取失业救济金的人 搭配：...benefit claimants: 补助金领取人；救济金申请人",
-      "collocations": [],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "acclaim",
-      "phonetic": "ə.ˈkleɪm",
-      "pos": ".vt.",
-      "definition": "热烈称赞；称誉某人/事物(为……);给予高度评价n. ( 尤指对艺术成就的)称誉，高度评价",
-      "frequency": 12788,
-      "mnemonic": "ac-(=to,toward: 朝着)+claim(=to cry out: 呼喊) →朝着……呼喊\n→热烈赞扬；给予高度评价",
-      "collocations": [
-        "international/popular/critical acclaim: 国际上的/公众的/评论家的赞扬 wide acclaim: 广泛好评"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "acclaimed",
-      "phonetic": "ə.ˈkleɪmd",
-      "pos": "adj.",
-      "definition": "备受推崇的；广受欢迎的",
-      "frequency": 11782,
-      "mnemonic": "acclaim (热烈称赞)+-ed ( 形容词后缀) →受到高度赞扬的",
-      "collocations": [
-        "a highly/widely acclaimed performance: 受到高度/广泛赞扬的演出"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "disclaimer",
-      "phonetic": "dɪs.ˈkleɪ.mɚ",
-      "pos": "n.",
-      "definition": "免责声明；弃权声明",
-      "frequency": 17715,
-      "mnemonic": "dis-(=lack of,not: 缺少；不)+claim(=to cry out,shout,proclaim: 宣 布；声明)+-er ( 名词后缀) →denial/disavowal of a claim: 否认/拒绝/ 不承认某个声明/要求→免责声明；弃权声明",
-      "collocations": [
-        "disclaimer clause: 免责条款"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "proclaim",
-      "phonetic": "pɹoʊˈkleɪm",
-      "pos": "vt.",
-      "definition": "宣布；声明；明确表示",
-      "frequency": 4504,
-      "mnemonic": "pro-(=forward: 向 前 ) +claim(=to cry out: 喊；叫；宣称) → 向前\n(前面的观众；大众)/站在前面宣称→宣告；声明；明确清楚地表示 搭配：proclaim officially: 官方宜布",
-      "collocations": [
-        "proclaimed sb's seniority: 表明某人的级别很高"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "proclamation",
-      "phonetic": "ˌpɹɑ.kləˈmeɪ.ʃən",
-      "pos": "n.",
-      "definition": "宣言；公告；声明",
-      "frequency": 10964,
-      "mnemonic": "proclam(=proclaim: 宣布；声明)+-ation ( 名词后缀) → 宣言；公 告；声明",
-      "collocations": [
-        "a proclamation of independence: 独立声明",
-        "emancipation proclamation: 奴隶解放宣言",
-        "auction proclamation: 拍卖公告"
-      ],
-      "examples": [],
-      "rootHint": "clam"
-    },
-    {
-      "word": "reclaim",
-      "phonetic": "ɹɪˈkleɪm",
-      "pos": "vt.",
-      "definition": "要求归还(或恢复);收回；申请退(税);开垦 (荒地);开拓(耕地或建筑用地);使(农田、建筑用地)重新变 成(沙漠、森林或海洋)7587",
-      "mnemonic": "re-(=opposite,against: 与……相反；反对)+ claim( =to cry out: 喊 叫)→ to call upon,cry out against,contradict,protest,appeal→请求；呼 吁；大声反对；反驳；抗议；恳求→使某事改变现状，要求改变→要 求归还；收回；申请退税→ 因此有将……制服；使……顺服→开拓； 使……重新变成(沙漠、森林或海洋)",
-      "collocations": [
-        "reclaim farmland from water: 围海造田",
-        "reclaim South African citizenship: 恢复南非公民身份",
-        "reclaim belt: 取行李传送带"
-      ],
-      "etymology": "14世纪初，“召鹰回到手套上”,来自古法语reclamer “呼唤， 祈求；主张；引诱；召唤鹰回来”(12世纪),并直接从拉丁语 reclamare而来，“呼喊；反驳；抗议；上诉”。 召唤鹰回来”,因此有“驯服”之意，(15世纪中期),“制服； 使服从；顺从控制”(14世纪末)。在许多中古英语用途中没有归还 或回报之意。从15世纪末开始，有“撤销”(赠款，礼物等)的含 义。“将(某人)从一个错误的过程召回到一个适当的状态”的含义 出现于15世纪中期。“努力回归”的感觉可能反映了claim的影响。 “将荒地变为适合种植的有用环境”的含义首次出现于1764,可能是 “将……制服”的概念。 20000词汇巅峰趣Q多— 20000词汇巅峰 相关：Reclaimed;reclaiming.",
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "exclaim",
-      "phonetic": "ɪk.ˈskleɪm",
-      "pos": "vi.",
-      "definition": "( 由于激动、震惊、愤怒等)突然呼喊；惊叫； 大声喊",
-      "frequency": 6390,
-      "mnemonic": "ex-(=out: 出 来 )+ claim(=to cry,shout,call: 叫喊) → 叫喊出来 →\n(由于激动、震惊、愤怒等)突然呼喊；惊叫；大声喊 搭配：exclaim in shock: 惊呼道",
-      "collocations": [
-        "exclaim angrily: 愤怒地呼喊"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "exclamation",
-      "phonetic": "ˌɛk.sklə.ˈmeɪ.ʃən",
-      "pos": "n.",
-      "definition": "惊叫；感叹；感叹词；感叹句",
-      "frequency": 14313,
-      "mnemonic": "exclam(=exclaim: 突然呼喊)+-ation ( 名词后缀) →惊叫；感叹； 感叹词；感叹句",
-      "collocations": [
-        "give an exclamation of surprise: 发出一声惊叹",
-        "exclamation point: 感叹号"
-      ],
-      "examples": [],
-      "rootHint": "clam"
-    },
-    {
-      "word": "clarity",
-      "phonetic": "ˈklæɹəti",
-      "pos": "n.",
-      "definition": "( 书、论点等的)清晰易懂；(轮廓、声音的)清楚，清晰； (液体、玻璃或空气的)清澈度",
-      "frequency": 5513,
-      "mnemonic": "clar (= 古法语cler: 清晰的，引申义为明显；清楚；显然；也有清 晰；明亮的含义)+-ity ( 名词后缀，表状态) →清晰易懂；透明度",
-      "collocations": [
-        "Old English word for this was sweotol “distinct,clear,evident”);of land, \"cleared,leveled;\"from Old French cler “clear”(of sight and hearing), “light,bright,shining;sparse”(12c.,Modern French clair),from Latin clarus \"clear,loud,\"of sounds;figuratively \"manifest,plain,evident,\" in transferred use,of sights,\"bright,distinct;\"also “illustrious,famous, glorious”(source of Italian chiaro,Spanish claro),from PIE*kle-ro-,from root*kele-(2)\"to shout.\"”",
-        "clarity of vision: 远见卓识"
-      ],
-      "etymology": "13世纪，有“给予光明，闪耀，发光”的含义；也有“不浑浊；透 明，允许光线通过；没有杂质；道德纯洁；无罪；无辜”的含义。形 容颜色“明亮；纯净”。形容天气、天空、海洋“无暴风雨的；温 和的；公平的；不阴暗的；光线充足的；没有黑暗或云雾的”;形 容眼睛或视力“清晰；敏锐”;形容声音“明显可听；清晰的；共鸣 的”;形容心灵“机智的；聪明的”;形容单词或言语“易于理解； 显现在头脑中；易懂的”(其古英语单词是sweotol “明显；清晰； 显然”);形容土地“清理；平整的”;来自古法语cler “清晰的” (视觉和听觉),“轻的；明亮的；闪亮的；稀疏”(12世纪用法， 现代法语clair), 来自拉丁语clarus “清晰的；响亮的”声音；引申 义为“清楚显示的；明显的”,同时，也有“明亮；独特”;也有 “杰出的；著名的；光荣的”的含义(意大利语chiaro的来源，西班 牙语claro), 来自PIE*kle-ro-, 来自root*kele-(2)“to shout”。",
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "clarinet",
-      "phonetic": "ˌklæɹəˈnɛt",
-      "pos": "n.",
-      "definition": "[乐]单簧管；黑管",
-      "frequency": 16242,
-      "mnemonic": "来自古法语cler- 清晰的；拉丁语clarus 清晰的；响亮的。词源同 clear, 因这种乐器清脆的声音而得名",
-      "collocations": [
-        "clarinet players: 单簧管乐手们",
-        "A clarinet is a musical instrument in the shape of a pipe.You play the clarinet by blowing into it and covering and uncovering the holes with your fingers.\n笔 记 区\n笔 记 区"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "clear",
-      "phonetic": "klɪɹ",
-      "pos": "adj.",
-      "definition": "清楚的；明白易懂的；明显的；彻底明白的；(头脑)清醒 的；透明的；开阔的；晴朗的；(眼睛)明亮的；(皮肤)光洁的； 不与……接触的；不与……靠近的 vt. 使清醒；清空 vi. ( 烟 雾 等 ) 消 散",
-      "frequency": 564,
-      "mnemonic": "来源于拉丁语形容词clarus,-a,-um (光亮的；明显的；清楚的),词根为-clar-→clear: 清楚的；明显的；明亮的",
-      "collocations": [
-        "make something clear: 把事情说明白"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "clearly",
-      "phonetic": "ˈklɪɹli",
-      "pos": "adv.",
-      "definition": "毫无疑问，显然；清楚地；明智地，清醒地",
-      "frequency": 849,
-      "mnemonic": "clear ( 清楚的；清醒的)+-ly ( 副词后缀) → 毫无疑问；清楚地； 清醒地",
-      "collocations": [
-        "clearly understood: 清楚理解",
-        "state clearly: 清楚地表明"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "clearance",
-      "phonetic": "ˈklɪɹəns",
-      "pos": "n.",
-      "definition": "清除；清理；(官方的)批准，许可；(路面、河面与 上方桥梁之间的)净空，间隙",
-      "frequency": 9156,
-      "mnemonic": "clear(清空)+-ance ( 名词后缀)→清楚；清理；(路面、河面与上 方桥梁之间的)净空；间隙 → 引申义为(官方)扫除障碍 → (官方 的)批准；许可",
-      "collocations": [
-        "custom clearance: 清 关",
-        "security clearance: 安全许可"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "clear-cut",
-      "phonetic": "ˌklɪɹˈkʌt",
-      "pos": "adj.",
-      "definition": "清晰的；容易识别的",
-      "frequency": 12452,
-      "mnemonic": "clear (清晰的)+cut ( 剪 切 ) →formed with distinct outlines: 轮廓清 楚的→清晰地；容易识别地\nclear ( 清除)+ -ing ( 名词后缀) →林中空地",
-      "collocations": [
-        "clear-cut answer: 确切的答案",
-        "clear -cut stand: 旗帜鲜明",
-        "clearin g ['kliərŋ] n. ( 尤指用于耕地的)林中空地8163",
-        "a clearing in the dense jungle: 在茂密丛林中的一片空地 market clearing: 市场结算",
-        "clearing system: 清算制度"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "clearinghouse",
-      "phonetic": "ˈklɪɹɪŋˌhaʊs",
-      "pos": "n.",
-      "definition": "专门信息搜集所；(银行之间的)结算所",
-      "frequency": 19254,
-      "mnemonic": "clearing ( 清 理 ) +house (所) → 专门信息搜集所；特指(银行之间 的)结算所",
-      "collocations": [
-        "a clearinghouse for research projects: 研究项目的信息搜集所"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "declare",
-      "phonetic": "dɪˈklɛɹ",
-      "pos": "vt.",
-      "definition": "声明；宣告；申报(在国外所购之物或收入等)1749",
-      "mnemonic": "de- ( 强调前缀)+ clare(=to clarify: 澄清；使清楚。来自clarus “ 清 楚的”) →声明；宣告；申报",
-      "collocations": [
-        "declared war on(=officially stated its intention to stop)illiteracy: 宣布扫 除文盲",
-        "declare against sb./sth.: 声明反对；表示不赞成",
-        "declare for sb./sth.: 声明支持；表示赞成",
-        "to declare war: 宣战",
-        "nothing to declare: 绿色通道；不需报关"
-      ],
-      "etymology": "mid-14c.,declaren,\"explain,interpret,make clear;\"late 14c.,\"make known by words,state explicitly,proclaim,announce,\"from Old French declarer“explain,elucidate,\"or directly from Latin declarare “make clear, reveal,disclose,announce”",
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "declared",
-      "phonetic": "dɪˈklɛɹd",
-      "pos": "adj.",
-      "definition": "公开宣布(或声明、表态)的",
-      "frequency": 18810,
-      "mnemonic": "declare (宣布；声明)+-d ( 形容词后缀-ed 去e变为-d)→ 公开宣布 (或声明、表态)的",
-      "collocations": [
-        "the government's declared intention to reduce crime: 政府公开宣布的减 少犯罪的计划"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "declaration",
-      "phonetic": "ˌdɛk.ləˈɹeɪ.ʃən",
-      "pos": "n.",
-      "definition": "官方声明；宣言；(可用作法庭证据的)书 面声明；(纳税品等的)申报",
-      "frequency": 5668,
-      "mnemonic": "declare (声明；宣告；申报，去e)+-ation ( 名词后缀) → 官方声 明；宣言；书面声明；申报",
-      "collocations": [
-        "to issue/sign a declaration: 发布/签署公告",
-        "a declaration of love/faith/guilt: 表白爱情；表达信念；宣判有罪",
-        "customs declarations(=giving details of goods that have been brought into a country)报关单(带入境内物品的详细清单)"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "calendar",
-      "phonetic": "ˈkæləndɚ",
-      "pos": "n.",
-      "definition": "日历；历法；(某一组织、团体或个人的)日程表；纪事表；大事一览表",
-      "frequency": 4742,
-      "collocations": [
-        "the racing calendar: 赛马日程表",
-        "the Islamic calendar: 伊斯兰教历",
-        "lunar calendar: 阴历"
-      ],
-      "etymology": "源自古罗马时期在月初第一天进行收帐。古代罗马人有一种特别的宗 教习俗。有负责历法的祭司负责观察月亮变化。一旦发现新月出现， 他就会向大家宣告新的一月开始，欠债者需要在这一天将到期的债 务还清。拉丁语中表示罗马月份的第一天的单词是calendae, 由 calare (庄严宣布，大声呼喊)衍生而成，英语单词claim ( 宣布)与calare 同源，而英语单词calends ( 罗马月份的第一天)和calendar ( 日历) 都源自拉丁语calendae。后代指日历。",
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "reconcile",
-      "phonetic": "ˈɹɛk.ən.saɪl",
-      "pos": "vt.",
-      "definition": "调和，协调(两种信仰、事实或要求);使和解；使和好如初；顺从；接受",
-      "frequency": 6662,
-      "mnemonic": "re-(=again: 再 ) +con-(=together: 共同)+ -cile ( 召集，cile来源于 拉丁语calare: 宣布；召集) →to bring together again: 再召集在一起 →to make(discordant facts or statements)consistent: 使……言归于好",
-      "collocations": [
-        "be reconciled with: 与……达成和解",
-        "reconcile oneself to...: 顺从，接受……\n20000词汇巅峰速记班"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "reconciliation",
-      "phonetic": "ˌɹɛk.ən.sɪ.liˈeɪ.ʃən",
-      "pos": "n.",
-      "definition": "( 两个人或国家等的)和解；修好；(两种貌似对立的信仰、事实或要求的)和谐，调和， 一致",
-      "frequency": 5845,
-      "mnemonic": "reconcile (使和解，去 e)+-iation ( 复合名词后缀) →和解；和谐；",
-      "collocations": [
-        "… an appeal for reconciliation between Catholics and Protestants..:天主 教徒和新教徒之间达成和解的诉求",
-        "a reconciliation between environment and development: 环境和开发 的协调",
-        "criminal reconciliation: 刑事和解",
-        "bank reconciliation: 银行对帐单"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "council",
-      "phonetic": "ˈkaʊn.səl",
-      "pos": "n.",
-      "definition": "市政委员会；地方议会；(房屋或公寓)地方 政府出租的；(用于组织名称)委员会；(组织的)管理者，委员； (特定人群参加的正式)会议",
-      "frequency": 2979,
-      "mnemonic": "coun-(=con-=together: 一同)+-cil ( 召唤；召集)→召集过来开会\n的地方→市政委员会；地方议会；委员会；委员；(特定)会议 搭配：the city council: 市议会",
-      "collocations": [
-        "state council: 国务院",
-        "security council: (联合国)安全理事会",
-        "the National Council for Civil Liberties:……国家公民自由委员会",
-        "council housing: 廉租公房",
-        "a grand council of all Afghans: 全阿富汗人大会\n市政委员会"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "councilman",
-      "phonetic": "ˈkaʊn.səl.mən",
-      "pos": "n.",
-      "definition": "尤指(美国的)市议会男议员",
-      "frequency": 17706,
-      "mnemonic": "council ( 地方议会)+man ( 男人) → 市议会男议员",
-      "collocations": [
-        "..a city councilman:…… 一位市议员"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "counsel",
-      "phonetic": "ˈkaʊn.səl",
-      "pos": "n.",
-      "definition": "劝告；建议，提议；给……提供建议；辩护律师",
-      "frequency": 3448,
-      "mnemonic": "coun-(=con-=with,together : 一起；共同)+sel(=calare 的词根to announce,summon: 宣布；召集)→共同召集开会；协商→召集开会 的目的是劝告；建议；提议→ 因为律师也提供法律建议，因此其中一 个意思是辩护律师",
-      "collocations": [
-        "keep somebody's own counsel: 将自己的意见保密；不暴露自己的意图 legal counsel: 法律顾问",
-        "general counsel: 总顾问",
-        "take counsel: 商量；征求意见",
-        "the counsel for the defence/prosecution: 被告/原告的律师"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "counseling",
-      "phonetic": "ˈkaʊn.sə.lɪŋ",
-      "pos": "n.",
-      "definition": "咨询服务",
-      "frequency": 3430,
-      "mnemonic": "counsel(给……提供建议)+-ing(名词后缀) → 咨询服务",
-      "collocations": [
-        "career counseling: 职业咨询",
-        "psychological counseling: 心理咨询"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "counselor",
-      "phonetic": "ˈkaʊn.sə.lɚ",
-      "pos": "n.",
-      "definition": "顾问；<律>律师；(使馆等的)参赞；(协助学生解决问题的)指导老师(等于counsellor)2999",
-      "mnemonic": "counsel ( 建议；忠告)+-or ( 名词后缀，表示人) →提供建议、忠告\n的人→顾问；律师；参赞；指导老师 搭配：college counselor: 大学升学顾问",
-      "collocations": [
-        "minister counselor: 公使",
-        "guidance counselor: 咨询顾问"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "haul",
-      "phonetic": "hɔl",
-      "pos": "n.",
-      "definition": "( 用力地)拉，拖；使出庭受审；使去见掌权者；(警方或海 关查获的)一批赃物， 一批违禁品；费时费力的事；耗时累人的行程",
-      "frequency": 4231,
-      "mnemonic": "来自中古英语halen, 拉升，抬高。原指航海时升帆，拉索(拉鱼入 网需要用力呼喊),词源同call,claim 来自PIE*kel, 叫，呼喊。引申",
-      "collocations": [
-        "haul oneself to his feet: 吃力地站了起来",
-        "be hauled before magistrates: 被地方法院传讯",
-        "the drugs haul: 查获的毒品",
-        "a f4,000 haul ofjewellery: 价值4,000英镑的首饰赃物",
-        "a long haul: 一项长期而艰巨的工作",
-        "over the long haul: 长远地；从长远观点看\nlong haul: 长途运输",
-        "haul distance: 运距"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "hauler",
-      "phonetic": "ˈhɔ.lɚ",
-      "pos": "n.",
-      "definition": "搬运工；运输工",
-      "frequency": 19583,
-      "mnemonic": "haul (用力地拉，拖)+-er ( 名词后缀，表示人)→用力拉、拖的人 →搬运工；运输工",
-      "collocations": [
-        "steam hauler: 蒸汽吊车"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low",
-      "phonetic": "loʊ",
-      "pos": "vi. / adj.",
-      "definition": "vi. ( 牛)哞哞叫 / adj. 低矮的；接近地面的；接近海平面的；接近底部的；水位浅 的；数量少的；(级别等)低微的；(品质)差的；(水平)低的；含量 低的；(评价)很差的；消沉的；低沉的；轻声的；暗淡的；(收音机 音量、烤箱温度或灯光亮度调成)低的；不足的；情绪低落的 n. 最低 点；牛叫声",
-      "collocations": [
-        "low,rolling hills:山势低缓，连绵起伏"
-      ],
-      "etymology": "Old English hlowan “moo,make a noise like a cow,”from Proto-Germanic imitative *khlo-(source also of Middle Dutch loeyen,Dutch loeien,Old Low Franconian luon,Old High German hluojen).This is perhaps identical with the imitative PIE root *kele-(2)\"to shout.\" 除此之外，low还有形容词、副词和名词的用法：",
-      "examples": [],
-      "rootHint": "claim",
-      "frequency": 361
-    },
-    {
-      "word": "lowly",
-      "phonetic": "ˈloʊ.li",
-      "pos": "adj.",
-      "definition": "卑微的；低级的；无足轻重的",
-      "frequency": 14064,
-      "collocations": [
-        "...lowly bureaucrats pretending to be senators:…… 假称参议员的低 级官员"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "lower",
-      "phonetic": "ˈloʊ.ɚ",
-      "pos": "adj.",
-      "definition": "( 成对物中)下方的，下面的；底端的；较低级的 vt. (缓慢地)降下，放下；降低；减少；垂下(头或眼睛);降低，贬 低(身份);压低，放低(声音)2068",
-      "collocations": [
-        "lower one's voice: 压低声音",
-        "the mountain's lower slopes: 山麓斜坡",
-        "the lower reaches of the Nile: 尼罗河的下游",
-        "the lower deck of a ship: 船的下甲板"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "lowering",
-      "phonetic": "ˈloʊ.ɚ.ɪŋ",
-      "pos": "adj.",
-      "definition": "使低劣的；昏暗的；减少体力的 vt. 使降低；使减少",
-      "frequency": 17364,
-      "collocations": [
-        "a lowering cloud base; 越来越低的云层",
-        "low-cost health insurance: 廉价的健康保险"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-fat",
-      "phonetic": "ˌloʊ.ˈfæt",
-      "pos": "adj.",
-      "definition": "低脂肪的",
-      "frequency": 7828,
-      "collocations": [
-        "low-fat diet: 低脂膳食",
-        "low-fat cheese: 脱脂乳酪"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-income",
-      "phonetic": "ˌloʊ.ˈɪn.kʌm",
-      "pos": "adj.",
-      "definition": "低收入的",
-      "frequency": 6556,
-      "collocations": [
-        "low-income,ill-educated drinkers: 低收入、文化程度低的酗酒者"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-wage",
-      "phonetic": "ˌloʊ.ˈweɪdʒ",
-      "pos": "adj.",
-      "definition": "低工资的",
-      "frequency": 17937,
-      "collocations": [
-        "low-wage countries: 低工资国家"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-key",
-      "phonetic": "ˌloʊ.ˈki",
-      "pos": "adj.",
-      "definition": "低调的；不招摇的",
-      "frequency": 12032,
-      "collocations": [
-        "a low-key military operation: 一次低调的军事行动"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "lowland",
-      "phonetic": "ˈloʊ.lənd",
-      "pos": "n.",
-      "definition": "低地；苏格兰低地",
-      "frequency": 13195,
-      "collocations": [
-        "lowland tropics: 低地热带"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-level",
-      "phonetic": "ˌloʊ.ˈlɛv.əl",
-      "pos": "adj.",
-      "definition": "低水平；低能级",
-      "frequency": 1948,
-      "collocations": [
-        "low light level imaging: 微光成像",
-        "low-level waste: 低放射性废物"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "low-lying",
-      "phonetic": "ˌloʊ.ˈlaɪ.ɪŋ",
-      "pos": "adj.",
-      "definition": "低洼的；与海平面相齐的；近于(或低于)海平面 的",
-      "frequency": 18771,
-      "collocations": [
-        "low-lying areas: 低洼地区",
-        "low-tech adj.技术含量低的18709",
-        "low-tech industry: 低科技产业"
-      ],
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "ecclesiastical",
-      "phonetic": "ɪˌkli.ziˈæs.tɪ.kəl",
-      "pos": "adj.",
-      "definition": "基督教教会的",
-      "frequency": 14868,
-      "mnemonic": "ex-(=out: 出来)+ clesiast(=to call: 呼喊)+-ical ( 形容词后缀) → 叫\n喊出来的→讲出教义的地方→基督教教会的 搭配：ecclesiastical administration: 教会的行政区划",
-      "collocations": [
-        "the ecclesiastical hierarchy: 基督教会体系",
-        "ecclesiastical institution: 基督教教会制度\n趣课多一 QDD 一20000词汇巅峰速记班\n趣课多\n一 QDD 一\n释义：(ADJ) (基督教)教会的",
-        "Ecclesiastical means belonging to or connected with the Christian Church.\n基督教教会的\n昨 单 词 “class” 也与“claim”这个单词同源。除此之外，它还有班级； 社会等级；种类；优雅；出类拔萃的等含义"
-      ],
-      "etymology": "late 15c.,from Middle French ecclésiastique and directly from Late Latin ecclesiasticus,from Greek ekklesiastikos “of the(ancient Athenian) assembly,\"in late Greek,\"of the church,\"from ekklesiastes “speaker in an assembly or church,preacher,\"from ekkalein \"to call out,\"from ek “out” (see ex-)+kalein “to call”(from PIE root *kele-(2)\"to shout\").As a noun,\"one holding an office in the Christian ministry,\"1650s;it also was used as a noun in Late Latin.",
-      "examples": [],
-      "rootHint": "claim"
-    },
-    {
-      "word": "class",
-      "phonetic": "klæs",
-      "pos": "n.",
-      "definition": "班级；课程；课堂；(学校的)……届毕业生；社会等级；种 类；优雅 vt.把……归类；把……视为adj. 出类拔萃的",
-      "frequency": 432,
-      "collocations": [
-        "class act: 出类拔萃的人物(指运动员、演奏者等)",
-        "in a class of their own: 独领风骚的；独一无二的；出类拔萃的"
-      ],
-      "etymology": "class ( 阶级):古罗马社会的六大社会等级",
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classic",
-      "phonetic": "ˈklæsɪk",
-      "pos": "adj.",
-      "definition": "典型的；(电影、著作、音乐)经典的；典范的；最优 秀的 n. 文学经典；名著;(尤指对古希腊、古罗马的语言、文学、哲 学的)古典文化研究 adj. ( 风格)传统的；古朴的；(尤指)老式的",
-      "frequency": 2639,
-      "mnemonic": "class (等级；分类)+-ic ( 形容词词缀)→ 引申义为典型的；一流 的；经典；传统的",
-      "collocations": [
-        "..the classic children's film Huckleberry Finn: 经典儿童电影《哈克贝 利 · 费恩历险记》",
-        "….a classics degree: 古典文化研究学位",
-        "classic clothes: 传统服装",
-        "classic music: 古典音乐"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classical",
-      "phonetic": "ˈklæsɪkəl",
-      "pos": "adj.",
-      "definition": "(形式、风格或内容)传统的，古典的；(音乐)古典 的，严肃的；古典文化的；古希腊(或古罗马)文明的；古文的；文言 的",
-      "frequency": 3519,
-      "mnemonic": "classic ( 典型的；典范的)+-al ( 形容词词缀) → 古典的；严肃的；",
-      "collocations": [
-        "earlier classical economists: 早期古典经济学家\n趣课多\n20000词汇巅峰—0eDo-\n20000词汇巅峰\n…a line of classical Arabic poetry: 古阿拉伯语诗歌的一行诗句"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classically",
-      "phonetic": "ˈklæsɪkli",
-      "pos": "adv.",
-      "definition": "( 在艺术、音乐、芭蕾舞等方面的训练)正规地，传 统地；(设计)传统/典雅地；典型地；最常见地",
-      "frequency": 17583,
-      "mnemonic": "classica l ( 传统的；古典的)+-ly ( 副词后缀) → 正规地；传统地； 典雅地；典型地",
-      "collocations": [
-        "a classically trained pianist: 受过传统技能训练的钢琴家",
-        "..the classically inspired church of S.Francesco:……受到古典文化灵 感的圣弗朗西斯科教堂"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classify",
-      "phonetic": "ˈklæsəˌfaɪ",
-      "pos": "vt.",
-      "definition": "把……分类；把……归类",
-      "frequency": 4563,
-      "mnemonic": "class ( 分类；归类)+-ify( 动词后缀)→把……分类；把……归类",
-      "collocations": [
-        "classify……into: 把……归类为",
-        "classify sb/sth as sth: 把某人/某事划分；界定为"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classified",
-      "phonetic": "ˈklæsəˌfaɪd",
-      "pos": "adj.",
-      "definition": "分类的；类别的；机密的",
-      "frequency": 8852,
-      "mnemonic": "class ( 分 类 ) + -ify ( 动词后缀( y变i))+- ed ( 形容词后缀) → 进",
-      "collocations": [
-        "classified information: 机密情报",
-        "classified index: 分类索引"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    },
-    {
-      "word": "classification",
-      "phonetic": "ˌklæsəfəˈkeɪʃən",
-      "pos": "n.",
-      "definition": "分类；类别，等级",
-      "frequency": 5978,
-      "mnemonic": "class ( 分类)+-i-中缀+-fic- ( 做)+ -ation ( 名词后缀)→分类；类 别；等级",
-      "collocations": [
-        "..the arbitrary classification of knowledge: 把知识归入任意分类 a classification system: 类别体系"
-      ],
-      "examples": [],
-      "rootHint": "cla"
-    }
-  ]
+    "id": "claim",
+    "source": "textbook-3",
+    "chapter": "9",
+    "chapterOrder": 109,
+    "titleZh": "*kele",
+    "semanticLabel": "*kele",
+    "meaningEn": null,
+    "meaningZh": null,
+    "roots": [
+        "claim",
+        "clam",
+        "cla"
+    ],
+    "words": [
+        {
+            "word": "claim",
+            "phonetic": "kleɪm",
+            "pos": "vt.",
+            "definition": "声称；断言；声称(对某事负责或应得荣誉);索取；赢 得；需要；夺走(生命); vt.&vi.索赔；索要 n. 声称；断言；索赔；索 要；索求权",
+            "frequency": 877,
+            "mnemonic": "claim(=to call/cry out/shout/proclaim: 喊；叫；要求) → 声称；要求",
+            "collocations": [
+                "from accented stem of Old French clamer “to call,name,describe;claim; complain;declare,\"from Latin clamare “to cry out,shout,proclaim,\"from PIE root *kele-(2)\"to shout.\"Related:Claimed;claiming.",
+                "Meaning \"to maintain as true,assert a belief or opinion\"is from 1864 (“A common use,regarded by many as inelegant”-Century Dictionary, 1895);claim properly should not stray too far from its true meaning of “to demand recognition of a right.”Specific sense “to make a claim”(on an insurance company)is from 1897.",
+                "lay claim to: 声称拥有",
+                "claim for compensation: 索赔",
+                "someone's claim to fame: ( 某人的)成名之举；成名之作",
+                "claim the life of a U.N.interpreter: 夺走了一位联合国译员的生命 make a claim on our insurance: 依据保险提出索赔",
+                "rival claims to Macedonian territory: 对马其顿领土的争夺\n二 四二 四例句：Three English dictionaries published recently all lay claim to possessing a \"new\"feature.\n二 四\n二 四\n最近出版的三本英语字典都声称有新的特点。",
+                "Those service industries all lay claim to possessing high-quality services."
+            ],
+            "etymology": "c.1300,“to call,call out;to ask or demand by virtue of right or authority,”",
+            "examples": [
+                "那些服务行业都声称拥有高质量的服务。"
+            ],
+            "rootHint": "claim"
+        },
+        {
+            "word": "clamor",
+            "phonetic": "ˈklæmɚ",
+            "pos": "vi.",
+            "definition": "强烈要求；大声叫喊 n. 嘈杂声；吵闹；(一大批人的) 强烈要求，大声呼吁(尤用于新闻报道)12366",
+            "mnemonic": "clam-(=to cry out,shout: 大声呼喊)+-or ( 名词后缀，状况/行为) →强烈要求；大声喊叫",
+            "collocations": [
+                "clamour for the attention of the voter: 大声疾呼以吸引选民的关注 deafening clamour: 震耳欲聋的喧哗"
+            ],
+            "etymology": "(n.)late 14c.,\"a great outcry,\"also figurative,\"loud or urgent demand,\" from Old French clamor “call,cry,appeal,outcry”(12c.,Modern French clameur),from Latin clamor “a shout,a loud call”(either friendly or hostile),from clamare “to cry out”(from PIE root*kele-(2)“to shout”). (v.)\"utter loudly,shout,\"also figurative,\"make importunate demands or complaints,\"late 14c.,from clamor(n.).Related:Clamored;clamoring.",
+            "examples": [],
+            "rootHint": "clam"
+        },
+        {
+            "word": "claimant",
+            "phonetic": "ˈkleɪmənt",
+            "pos": "n.",
+            "definition": "领取失业救济金的人；靠救济金为生的人；申请人；要求者；索要者",
+            "frequency": 17976,
+            "mnemonic": "claim(=to cry out: 叫 喊 ) + -ant ( 名词后缀) → (叫喊着)要\n求……;索要……→引申为索要救济金；领取失业救济金的人 搭配：...benefit claimants: 补助金领取人；救济金申请人",
+            "collocations": [],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "acclaim",
+            "phonetic": "ə.ˈkleɪm",
+            "pos": ".vt.",
+            "definition": "热烈称赞；称誉某人/事物(为……);给予高度评价n. ( 尤指对艺术成就的)称誉，高度评价",
+            "frequency": 12788,
+            "mnemonic": "ac-(=to,toward: 朝着)+claim(=to cry out: 呼喊) →朝着……呼喊\n→热烈赞扬；给予高度评价",
+            "collocations": [
+                "international/popular/critical acclaim: 国际上的/公众的/评论家的赞扬 wide acclaim: 广泛好评"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "acclaimed",
+            "phonetic": "ə.ˈkleɪmd",
+            "pos": "adj.",
+            "definition": "备受推崇的；广受欢迎的",
+            "frequency": 11782,
+            "mnemonic": "acclaim (热烈称赞)+-ed ( 形容词后缀) →受到高度赞扬的",
+            "collocations": [
+                "a highly/widely acclaimed performance: 受到高度/广泛赞扬的演出"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "disclaimer",
+            "phonetic": "dɪs.ˈkleɪ.mɚ",
+            "pos": "n.",
+            "definition": "免责声明；弃权声明",
+            "frequency": 17715,
+            "mnemonic": "dis-(=lack of,not: 缺少；不)+claim(=to cry out,shout,proclaim: 宣 布；声明)+-er ( 名词后缀) →denial/disavowal of a claim: 否认/拒绝/ 不承认某个声明/要求→免责声明；弃权声明",
+            "collocations": [
+                "disclaimer clause: 免责条款"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "proclaim",
+            "phonetic": "proʊˈkleɪm",
+            "pos": "vt.",
+            "definition": "宣布；声明；明确表示",
+            "frequency": 4504,
+            "mnemonic": "pro-(=forward: 向 前 ) +claim(=to cry out: 喊；叫；宣称) → 向前\n(前面的观众；大众)/站在前面宣称→宣告；声明；明确清楚地表示 搭配：proclaim officially: 官方宜布",
+            "collocations": [
+                "proclaimed sb's seniority: 表明某人的级别很高"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "proclamation",
+            "phonetic": "ˌprɑ.kləˈmeɪ.ʃən",
+            "pos": "n.",
+            "definition": "宣言；公告；声明",
+            "frequency": 10964,
+            "mnemonic": "proclam(=proclaim: 宣布；声明)+-ation ( 名词后缀) → 宣言；公 告；声明",
+            "collocations": [
+                "a proclamation of independence: 独立声明",
+                "emancipation proclamation: 奴隶解放宣言",
+                "auction proclamation: 拍卖公告"
+            ],
+            "examples": [],
+            "rootHint": "clam"
+        },
+        {
+            "word": "reclaim",
+            "phonetic": "rɪˈkleɪm",
+            "pos": "vt.",
+            "definition": "要求归还(或恢复);收回；申请退(税);开垦 (荒地);开拓(耕地或建筑用地);使(农田、建筑用地)重新变 成(沙漠、森林或海洋)7587",
+            "mnemonic": "re-(=opposite,against: 与……相反；反对)+ claim( =to cry out: 喊 叫)→ to call upon,cry out against,contradict,protest,appeal→请求；呼 吁；大声反对；反驳；抗议；恳求→使某事改变现状，要求改变→要 求归还；收回；申请退税→ 因此有将……制服；使……顺服→开拓； 使……重新变成(沙漠、森林或海洋)",
+            "collocations": [
+                "reclaim farmland from water: 围海造田",
+                "reclaim South African citizenship: 恢复南非公民身份",
+                "reclaim belt: 取行李传送带"
+            ],
+            "etymology": "14世纪初，“召鹰回到手套上”,来自古法语reclamer “呼唤， 祈求；主张；引诱；召唤鹰回来”(12世纪),并直接从拉丁语 reclamare而来，“呼喊；反驳；抗议；上诉”。 召唤鹰回来”,因此有“驯服”之意，(15世纪中期),“制服； 使服从；顺从控制”(14世纪末)。在许多中古英语用途中没有归还 或回报之意。从15世纪末开始，有“撤销”(赠款，礼物等)的含 义。“将(某人)从一个错误的过程召回到一个适当的状态”的含义 出现于15世纪中期。“努力回归”的感觉可能反映了claim的影响。 “将荒地变为适合种植的有用环境”的含义首次出现于1764,可能是 “将……制服”的概念。 20000词汇巅峰趣Q多— 20000词汇巅峰 相关：Reclaimed;reclaiming.",
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "exclaim",
+            "phonetic": "ɪk.ˈskleɪm",
+            "pos": "vi.",
+            "definition": "( 由于激动、震惊、愤怒等)突然呼喊；惊叫； 大声喊",
+            "frequency": 6390,
+            "mnemonic": "ex-(=out: 出 来 )+ claim(=to cry,shout,call: 叫喊) → 叫喊出来 →\n(由于激动、震惊、愤怒等)突然呼喊；惊叫；大声喊 搭配：exclaim in shock: 惊呼道",
+            "collocations": [
+                "exclaim angrily: 愤怒地呼喊"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "exclamation",
+            "phonetic": "ˌɛk.sklə.ˈmeɪ.ʃən",
+            "pos": "n.",
+            "definition": "惊叫；感叹；感叹词；感叹句",
+            "frequency": 14313,
+            "mnemonic": "exclam(=exclaim: 突然呼喊)+-ation ( 名词后缀) →惊叫；感叹； 感叹词；感叹句",
+            "collocations": [
+                "give an exclamation of surprise: 发出一声惊叹",
+                "exclamation point: 感叹号"
+            ],
+            "examples": [],
+            "rootHint": "clam"
+        },
+        {
+            "word": "clarity",
+            "phonetic": "ˈklærətiː",
+            "pos": "n.",
+            "definition": "( 书、论点等的)清晰易懂；(轮廓、声音的)清楚，清晰； (液体、玻璃或空气的)清澈度",
+            "frequency": 5513,
+            "mnemonic": "clar (= 古法语cler: 清晰的，引申义为明显；清楚；显然；也有清 晰；明亮的含义)+-ity ( 名词后缀，表状态) →清晰易懂；透明度",
+            "collocations": [
+                "Old English word for this was sweotol “distinct,clear,evident”);of land, \"cleared,leveled;\"from Old French cler “clear”(of sight and hearing), “light,bright,shining;sparse”(12c.,Modern French clair),from Latin clarus \"clear,loud,\"of sounds;figuratively \"manifest,plain,evident,\" in transferred use,of sights,\"bright,distinct;\"also “illustrious,famous, glorious”(source of Italian chiaro,Spanish claro),from PIE*kle-ro-,from root*kele-(2)\"to shout.\"”",
+                "clarity of vision: 远见卓识"
+            ],
+            "etymology": "13世纪，有“给予光明，闪耀，发光”的含义；也有“不浑浊；透 明，允许光线通过；没有杂质；道德纯洁；无罪；无辜”的含义。形 容颜色“明亮；纯净”。形容天气、天空、海洋“无暴风雨的；温 和的；公平的；不阴暗的；光线充足的；没有黑暗或云雾的”;形 容眼睛或视力“清晰；敏锐”;形容声音“明显可听；清晰的；共鸣 的”;形容心灵“机智的；聪明的”;形容单词或言语“易于理解； 显现在头脑中；易懂的”(其古英语单词是sweotol “明显；清晰； 显然”);形容土地“清理；平整的”;来自古法语cler “清晰的” (视觉和听觉),“轻的；明亮的；闪亮的；稀疏”(12世纪用法， 现代法语clair), 来自拉丁语clarus “清晰的；响亮的”声音；引申 义为“清楚显示的；明显的”,同时，也有“明亮；独特”;也有 “杰出的；著名的；光荣的”的含义(意大利语chiaro的来源，西班 牙语claro), 来自PIE*kle-ro-, 来自root*kele-(2)“to shout”。",
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "clarinet",
+            "phonetic": "ˌklærəˈnɛt",
+            "pos": "n.",
+            "definition": "[乐]单簧管；黑管",
+            "frequency": 16242,
+            "mnemonic": "来自古法语cler- 清晰的；拉丁语clarus 清晰的；响亮的。词源同 clear, 因这种乐器清脆的声音而得名",
+            "collocations": [
+                "clarinet players: 单簧管乐手们",
+                "A clarinet is a musical instrument in the shape of a pipe.You play the clarinet by blowing into it and covering and uncovering the holes with your fingers.\n笔 记 区\n笔 记 区"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "clear",
+            "phonetic": "klɪr",
+            "pos": "adj.",
+            "definition": "清楚的；明白易懂的；明显的；彻底明白的；(头脑)清醒 的；透明的；开阔的；晴朗的；(眼睛)明亮的；(皮肤)光洁的； 不与……接触的；不与……靠近的 vt. 使清醒；清空 vi. ( 烟 雾 等 ) 消 散",
+            "frequency": 564,
+            "mnemonic": "来源于拉丁语形容词clarus,-a,-um (光亮的；明显的；清楚的),词根为-clar-→clear: 清楚的；明显的；明亮的",
+            "collocations": [
+                "make something clear: 把事情说明白"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "clearly",
+            "phonetic": "ˈklɪrliː",
+            "pos": "adv.",
+            "definition": "毫无疑问，显然；清楚地；明智地，清醒地",
+            "frequency": 849,
+            "mnemonic": "clear ( 清楚的；清醒的)+-ly ( 副词后缀) → 毫无疑问；清楚地； 清醒地",
+            "collocations": [
+                "clearly understood: 清楚理解",
+                "state clearly: 清楚地表明"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "clearance",
+            "phonetic": "ˈklɪrəns",
+            "pos": "n.",
+            "definition": "清除；清理；(官方的)批准，许可；(路面、河面与 上方桥梁之间的)净空，间隙",
+            "frequency": 9156,
+            "mnemonic": "clear(清空)+-ance ( 名词后缀)→清楚；清理；(路面、河面与上 方桥梁之间的)净空；间隙 → 引申义为(官方)扫除障碍 → (官方 的)批准；许可",
+            "collocations": [
+                "custom clearance: 清 关",
+                "security clearance: 安全许可"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "clear-cut",
+            "phonetic": "ˌklɪrˈkʌt",
+            "pos": "adj.",
+            "definition": "清晰的；容易识别的",
+            "frequency": 12452,
+            "mnemonic": "clear (清晰的)+cut ( 剪 切 ) →formed with distinct outlines: 轮廓清 楚的→清晰地；容易识别地\nclear ( 清除)+ -ing ( 名词后缀) →林中空地",
+            "collocations": [
+                "clear-cut answer: 确切的答案",
+                "clear -cut stand: 旗帜鲜明",
+                "clearin g ['kliərŋ] n. ( 尤指用于耕地的)林中空地8163",
+                "a clearing in the dense jungle: 在茂密丛林中的一片空地 market clearing: 市场结算",
+                "clearing system: 清算制度"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "clearinghouse",
+            "phonetic": "ˈklɪrɪŋˌhaʊs",
+            "pos": "n.",
+            "definition": "专门信息搜集所；(银行之间的)结算所",
+            "frequency": 19254,
+            "mnemonic": "clearing ( 清 理 ) +house (所) → 专门信息搜集所；特指(银行之间 的)结算所",
+            "collocations": [
+                "a clearinghouse for research projects: 研究项目的信息搜集所"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "declare",
+            "phonetic": "dɪˈklɛr",
+            "pos": "vt.",
+            "definition": "声明；宣告；申报(在国外所购之物或收入等)1749",
+            "mnemonic": "de- ( 强调前缀)+ clare(=to clarify: 澄清；使清楚。来自clarus “ 清 楚的”) →声明；宣告；申报",
+            "collocations": [
+                "declared war on(=officially stated its intention to stop)illiteracy: 宣布扫 除文盲",
+                "declare against sb./sth.: 声明反对；表示不赞成",
+                "declare for sb./sth.: 声明支持；表示赞成",
+                "to declare war: 宣战",
+                "nothing to declare: 绿色通道；不需报关"
+            ],
+            "etymology": "mid-14c.,declaren,\"explain,interpret,make clear;\"late 14c.,\"make known by words,state explicitly,proclaim,announce,\"from Old French declarer“explain,elucidate,\"or directly from Latin declarare “make clear, reveal,disclose,announce”",
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "declared",
+            "phonetic": "dɪˈklɛrd",
+            "pos": "adj.",
+            "definition": "公开宣布(或声明、表态)的",
+            "frequency": 18810,
+            "mnemonic": "declare (宣布；声明)+-d ( 形容词后缀-ed 去e变为-d)→ 公开宣布 (或声明、表态)的",
+            "collocations": [
+                "the government's declared intention to reduce crime: 政府公开宣布的减 少犯罪的计划"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "declaration",
+            "phonetic": "ˌdɛk.ləˈreɪ.ʃən",
+            "pos": "n.",
+            "definition": "官方声明；宣言；(可用作法庭证据的)书 面声明；(纳税品等的)申报",
+            "frequency": 5668,
+            "mnemonic": "declare (声明；宣告；申报，去e)+-ation ( 名词后缀) → 官方声 明；宣言；书面声明；申报",
+            "collocations": [
+                "to issue/sign a declaration: 发布/签署公告",
+                "a declaration of love/faith/guilt: 表白爱情；表达信念；宣判有罪",
+                "customs declarations(=giving details of goods that have been brought into a country)报关单(带入境内物品的详细清单)"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "calendar",
+            "phonetic": "ˈkæləndɚ",
+            "pos": "n.",
+            "definition": "日历；历法；(某一组织、团体或个人的)日程表；纪事表；大事一览表",
+            "frequency": 4742,
+            "collocations": [
+                "the racing calendar: 赛马日程表",
+                "the Islamic calendar: 伊斯兰教历",
+                "lunar calendar: 阴历"
+            ],
+            "etymology": "源自古罗马时期在月初第一天进行收帐。古代罗马人有一种特别的宗 教习俗。有负责历法的祭司负责观察月亮变化。一旦发现新月出现， 他就会向大家宣告新的一月开始，欠债者需要在这一天将到期的债 务还清。拉丁语中表示罗马月份的第一天的单词是calendae, 由 calare (庄严宣布，大声呼喊)衍生而成，英语单词claim ( 宣布)与calare 同源，而英语单词calends ( 罗马月份的第一天)和calendar ( 日历) 都源自拉丁语calendae。后代指日历。",
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "reconcile",
+            "phonetic": "ˈrɛk.ən.saɪl",
+            "pos": "vt.",
+            "definition": "调和，协调(两种信仰、事实或要求);使和解；使和好如初；顺从；接受",
+            "frequency": 6662,
+            "mnemonic": "re-(=again: 再 ) +con-(=together: 共同)+ -cile ( 召集，cile来源于 拉丁语calare: 宣布；召集) →to bring together again: 再召集在一起 →to make(discordant facts or statements)consistent: 使……言归于好",
+            "collocations": [
+                "be reconciled with: 与……达成和解",
+                "reconcile oneself to...: 顺从，接受……\n20000词汇巅峰速记班"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "reconciliation",
+            "phonetic": "ˌrɛk.ən.sɪ.liˈeɪ.ʃən",
+            "pos": "n.",
+            "definition": "( 两个人或国家等的)和解；修好；(两种貌似对立的信仰、事实或要求的)和谐，调和， 一致",
+            "frequency": 5845,
+            "mnemonic": "reconcile (使和解，去 e)+-iation ( 复合名词后缀) →和解；和谐；",
+            "collocations": [
+                "… an appeal for reconciliation between Catholics and Protestants..:天主 教徒和新教徒之间达成和解的诉求",
+                "a reconciliation between environment and development: 环境和开发 的协调",
+                "criminal reconciliation: 刑事和解",
+                "bank reconciliation: 银行对帐单"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "council",
+            "phonetic": "ˈkaʊn.səl",
+            "pos": "n.",
+            "definition": "市政委员会；地方议会；(房屋或公寓)地方 政府出租的；(用于组织名称)委员会；(组织的)管理者，委员； (特定人群参加的正式)会议",
+            "frequency": 2979,
+            "mnemonic": "coun-(=con-=together: 一同)+-cil ( 召唤；召集)→召集过来开会\n的地方→市政委员会；地方议会；委员会；委员；(特定)会议 搭配：the city council: 市议会",
+            "collocations": [
+                "state council: 国务院",
+                "security council: (联合国)安全理事会",
+                "the National Council for Civil Liberties:……国家公民自由委员会",
+                "council housing: 廉租公房",
+                "a grand council of all Afghans: 全阿富汗人大会\n市政委员会"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "councilman",
+            "phonetic": "ˈkaʊn.səl.mən",
+            "pos": "n.",
+            "definition": "尤指(美国的)市议会男议员",
+            "frequency": 17706,
+            "mnemonic": "council ( 地方议会)+man ( 男人) → 市议会男议员",
+            "collocations": [
+                "..a city councilman:…… 一位市议员"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "counsel",
+            "phonetic": "ˈkaʊn.səl",
+            "pos": "n.",
+            "definition": "劝告；建议，提议；给……提供建议；辩护律师",
+            "frequency": 3448,
+            "mnemonic": "coun-(=con-=with,together : 一起；共同)+sel(=calare 的词根to announce,summon: 宣布；召集)→共同召集开会；协商→召集开会 的目的是劝告；建议；提议→ 因为律师也提供法律建议，因此其中一 个意思是辩护律师",
+            "collocations": [
+                "keep somebody's own counsel: 将自己的意见保密；不暴露自己的意图 legal counsel: 法律顾问",
+                "general counsel: 总顾问",
+                "take counsel: 商量；征求意见",
+                "the counsel for the defence/prosecution: 被告/原告的律师"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "counseling",
+            "phonetic": "ˈkaʊn.sə.lɪŋ",
+            "pos": "n.",
+            "definition": "咨询服务",
+            "frequency": 3430,
+            "mnemonic": "counsel(给……提供建议)+-ing(名词后缀) → 咨询服务",
+            "collocations": [
+                "career counseling: 职业咨询",
+                "psychological counseling: 心理咨询"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "counselor",
+            "phonetic": "ˈkaʊn.sə.lɚ",
+            "pos": "n.",
+            "definition": "顾问；<律>律师；(使馆等的)参赞；(协助学生解决问题的)指导老师(等于counsellor)2999",
+            "mnemonic": "counsel ( 建议；忠告)+-or ( 名词后缀，表示人) →提供建议、忠告\n的人→顾问；律师；参赞；指导老师 搭配：college counselor: 大学升学顾问",
+            "collocations": [
+                "minister counselor: 公使",
+                "guidance counselor: 咨询顾问"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "haul",
+            "phonetic": "hɔl",
+            "pos": "n.",
+            "definition": "( 用力地)拉，拖；使出庭受审；使去见掌权者；(警方或海 关查获的)一批赃物， 一批违禁品；费时费力的事；耗时累人的行程",
+            "frequency": 4231,
+            "mnemonic": "来自中古英语halen, 拉升，抬高。原指航海时升帆，拉索(拉鱼入 网需要用力呼喊),词源同call,claim 来自PIE*kel, 叫，呼喊。引申",
+            "collocations": [
+                "haul oneself to his feet: 吃力地站了起来",
+                "be hauled before magistrates: 被地方法院传讯",
+                "the drugs haul: 查获的毒品",
+                "a f4,000 haul ofjewellery: 价值4,000英镑的首饰赃物",
+                "a long haul: 一项长期而艰巨的工作",
+                "over the long haul: 长远地；从长远观点看\nlong haul: 长途运输",
+                "haul distance: 运距"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "hauler",
+            "phonetic": "ˈhɔ.lɚ",
+            "pos": "n.",
+            "definition": "搬运工；运输工",
+            "frequency": 19583,
+            "mnemonic": "haul (用力地拉，拖)+-er ( 名词后缀，表示人)→用力拉、拖的人 →搬运工；运输工",
+            "collocations": [
+                "steam hauler: 蒸汽吊车"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low",
+            "phonetic": "loʊ",
+            "pos": "vi. / adj.",
+            "definition": "vi. ( 牛)哞哞叫 / adj. 低矮的；接近地面的；接近海平面的；接近底部的；水位浅 的；数量少的；(级别等)低微的；(品质)差的；(水平)低的；含量 低的；(评价)很差的；消沉的；低沉的；轻声的；暗淡的；(收音机 音量、烤箱温度或灯光亮度调成)低的；不足的；情绪低落的 n. 最低 点；牛叫声",
+            "collocations": [
+                "low,rolling hills:山势低缓，连绵起伏"
+            ],
+            "etymology": "Old English hlowan “moo,make a noise like a cow,”from Proto-Germanic imitative *khlo-(source also of Middle Dutch loeyen,Dutch loeien,Old Low Franconian luon,Old High German hluojen).This is perhaps identical with the imitative PIE root *kele-(2)\"to shout.\" 除此之外，low还有形容词、副词和名词的用法：",
+            "examples": [],
+            "rootHint": "claim",
+            "frequency": 361
+        },
+        {
+            "word": "lowly",
+            "phonetic": "ˈloʊ.li",
+            "pos": "adj.",
+            "definition": "卑微的；低级的；无足轻重的",
+            "frequency": 14064,
+            "collocations": [
+                "...lowly bureaucrats pretending to be senators:…… 假称参议员的低 级官员"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "lower",
+            "phonetic": "ˈloʊ.ɚ",
+            "pos": "adj.",
+            "definition": "( 成对物中)下方的，下面的；底端的；较低级的 vt. (缓慢地)降下，放下；降低；减少；垂下(头或眼睛);降低，贬 低(身份);压低，放低(声音)2068",
+            "collocations": [
+                "lower one's voice: 压低声音",
+                "the mountain's lower slopes: 山麓斜坡",
+                "the lower reaches of the Nile: 尼罗河的下游",
+                "the lower deck of a ship: 船的下甲板"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "lowering",
+            "phonetic": "ˈloʊ.ɚ.ɪŋ",
+            "pos": "adj.",
+            "definition": "使低劣的；昏暗的；减少体力的 vt. 使降低；使减少",
+            "frequency": 17364,
+            "collocations": [
+                "a lowering cloud base; 越来越低的云层",
+                "low-cost health insurance: 廉价的健康保险"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-fat",
+            "phonetic": "ˌloʊ.ˈfæt",
+            "pos": "adj.",
+            "definition": "低脂肪的",
+            "frequency": 7828,
+            "collocations": [
+                "low-fat diet: 低脂膳食",
+                "low-fat cheese: 脱脂乳酪"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-income",
+            "phonetic": "ˌloʊ.ˈɪn.kʌm",
+            "pos": "adj.",
+            "definition": "低收入的",
+            "frequency": 6556,
+            "collocations": [
+                "low-income,ill-educated drinkers: 低收入、文化程度低的酗酒者"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-wage",
+            "phonetic": "ˌloʊ.ˈweɪdʒ",
+            "pos": "adj.",
+            "definition": "低工资的",
+            "frequency": 17937,
+            "collocations": [
+                "low-wage countries: 低工资国家"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-key",
+            "phonetic": "ˌloʊ.ˈkiː",
+            "pos": "adj.",
+            "definition": "低调的；不招摇的",
+            "frequency": 12032,
+            "collocations": [
+                "a low-key military operation: 一次低调的军事行动"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "lowland",
+            "phonetic": "ˈloʊ.lənd",
+            "pos": "n.",
+            "definition": "低地；苏格兰低地",
+            "frequency": 13195,
+            "collocations": [
+                "lowland tropics: 低地热带"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-level",
+            "phonetic": "ˌloʊ.ˈlɛv.əl",
+            "pos": "adj.",
+            "definition": "低水平；低能级",
+            "frequency": 1948,
+            "collocations": [
+                "low light level imaging: 微光成像",
+                "low-level waste: 低放射性废物"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "low-lying",
+            "phonetic": "ˌloʊ.ˈlaɪ.ɪŋ",
+            "pos": "adj.",
+            "definition": "低洼的；与海平面相齐的；近于(或低于)海平面 的",
+            "frequency": 18771,
+            "collocations": [
+                "low-lying areas: 低洼地区",
+                "low-tech adj.技术含量低的18709",
+                "low-tech industry: 低科技产业"
+            ],
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "ecclesiastical",
+            "phonetic": "ɪˌkliː.ziˈæs.tɪ.kəl",
+            "pos": "adj.",
+            "definition": "基督教教会的",
+            "frequency": 14868,
+            "mnemonic": "ex-(=out: 出来)+ clesiast(=to call: 呼喊)+-ical ( 形容词后缀) → 叫\n喊出来的→讲出教义的地方→基督教教会的 搭配：ecclesiastical administration: 教会的行政区划",
+            "collocations": [
+                "the ecclesiastical hierarchy: 基督教会体系",
+                "ecclesiastical institution: 基督教教会制度\n趣课多一 QDD 一20000词汇巅峰速记班\n趣课多\n一 QDD 一\n释义：(ADJ) (基督教)教会的",
+                "Ecclesiastical means belonging to or connected with the Christian Church.\n基督教教会的\n昨 单 词 “class” 也与“claim”这个单词同源。除此之外，它还有班级； 社会等级；种类；优雅；出类拔萃的等含义"
+            ],
+            "etymology": "late 15c.,from Middle French ecclésiastique and directly from Late Latin ecclesiasticus,from Greek ekklesiastikos “of the(ancient Athenian) assembly,\"in late Greek,\"of the church,\"from ekklesiastes “speaker in an assembly or church,preacher,\"from ekkalein \"to call out,\"from ek “out” (see ex-)+kalein “to call”(from PIE root *kele-(2)\"to shout\").As a noun,\"one holding an office in the Christian ministry,\"1650s;it also was used as a noun in Late Latin.",
+            "examples": [],
+            "rootHint": "claim"
+        },
+        {
+            "word": "class",
+            "phonetic": "klæs",
+            "pos": "n.",
+            "definition": "班级；课程；课堂；(学校的)……届毕业生；社会等级；种 类；优雅 vt.把……归类；把……视为adj. 出类拔萃的",
+            "frequency": 432,
+            "collocations": [
+                "class act: 出类拔萃的人物(指运动员、演奏者等)",
+                "in a class of their own: 独领风骚的；独一无二的；出类拔萃的"
+            ],
+            "etymology": "class ( 阶级):古罗马社会的六大社会等级",
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classic",
+            "phonetic": "ˈklæsɪk",
+            "pos": "adj.",
+            "definition": "典型的；(电影、著作、音乐)经典的；典范的；最优 秀的 n. 文学经典；名著;(尤指对古希腊、古罗马的语言、文学、哲 学的)古典文化研究 adj. ( 风格)传统的；古朴的；(尤指)老式的",
+            "frequency": 2639,
+            "mnemonic": "class (等级；分类)+-ic ( 形容词词缀)→ 引申义为典型的；一流 的；经典；传统的",
+            "collocations": [
+                "..the classic children's film Huckleberry Finn: 经典儿童电影《哈克贝 利 · 费恩历险记》",
+                "….a classics degree: 古典文化研究学位",
+                "classic clothes: 传统服装",
+                "classic music: 古典音乐"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classical",
+            "phonetic": "ˈklæsɪkəl",
+            "pos": "adj.",
+            "definition": "(形式、风格或内容)传统的，古典的；(音乐)古典 的，严肃的；古典文化的；古希腊(或古罗马)文明的；古文的；文言 的",
+            "frequency": 3519,
+            "mnemonic": "classic ( 典型的；典范的)+-al ( 形容词词缀) → 古典的；严肃的；",
+            "collocations": [
+                "earlier classical economists: 早期古典经济学家\n趣课多\n20000词汇巅峰—0eDo-\n20000词汇巅峰\n…a line of classical Arabic poetry: 古阿拉伯语诗歌的一行诗句"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classically",
+            "phonetic": "ˈklæsɪkliː",
+            "pos": "adv.",
+            "definition": "( 在艺术、音乐、芭蕾舞等方面的训练)正规地，传 统地；(设计)传统/典雅地；典型地；最常见地",
+            "frequency": 17583,
+            "mnemonic": "classica l ( 传统的；古典的)+-ly ( 副词后缀) → 正规地；传统地； 典雅地；典型地",
+            "collocations": [
+                "a classically trained pianist: 受过传统技能训练的钢琴家",
+                "..the classically inspired church of S.Francesco:……受到古典文化灵 感的圣弗朗西斯科教堂"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classify",
+            "phonetic": "ˈklæsəˌfaɪ",
+            "pos": "vt.",
+            "definition": "把……分类；把……归类",
+            "frequency": 4563,
+            "mnemonic": "class ( 分类；归类)+-ify( 动词后缀)→把……分类；把……归类",
+            "collocations": [
+                "classify……into: 把……归类为",
+                "classify sb/sth as sth: 把某人/某事划分；界定为"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classified",
+            "phonetic": "ˈklæsəˌfaɪd",
+            "pos": "adj.",
+            "definition": "分类的；类别的；机密的",
+            "frequency": 8852,
+            "mnemonic": "class ( 分 类 ) + -ify ( 动词后缀( y变i))+- ed ( 形容词后缀) → 进",
+            "collocations": [
+                "classified information: 机密情报",
+                "classified index: 分类索引"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        },
+        {
+            "word": "classification",
+            "phonetic": "ˌklæsəfəˈkeɪʃən",
+            "pos": "n.",
+            "definition": "分类；类别，等级",
+            "frequency": 5978,
+            "mnemonic": "class ( 分类)+-i-中缀+-fic- ( 做)+ -ation ( 名词后缀)→分类；类 别；等级",
+            "collocations": [
+                "..the arbitrary classification of knowledge: 把知识归入任意分类 a classification system: 类别体系"
+            ],
+            "examples": [],
+            "rootHint": "cla"
+        }
+    ]
 }
