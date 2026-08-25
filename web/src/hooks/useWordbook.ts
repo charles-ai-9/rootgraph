@@ -60,10 +60,21 @@ export function useWordbook() {
     });
   }, []);
 
+  const reorder = useCallback((fromIndex: number, toIndex: number) => {
+    setEntries((prev) => {
+      if (fromIndex === toIndex) return prev;
+      const next = [...prev];
+      const [moved] = next.splice(fromIndex, 1);
+      next.splice(toIndex, 0, moved);
+      saveWordbook(next);
+      return next;
+    });
+  }, []);
+
   const hasWord = useCallback(
     (word: string) => entries.some((e) => e.word === word),
     [entries],
   );
 
-  return { entries, addWord, removeWord, hasWord };
+  return { entries, addWord, removeWord, reorder, hasWord };
 }

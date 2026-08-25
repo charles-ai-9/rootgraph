@@ -6019,10 +6019,54 @@ textarea {
 }
 
 .wordbook-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
   padding: 14px 16px;
   background: var(--surface);
   border: 1px solid var(--border);
   border-radius: var(--radius);
+  transition: opacity 0.15s, border-color 0.15s, box-shadow 0.15s;
+}
+
+.wordbook-drag-handle {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 24px;
+  height: 24px;
+  margin-top: 2px;
+  font-size: 1.1rem;
+  line-height: 1;
+  color: var(--text-muted);
+  cursor: grab;
+  user-select: none;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.wordbook-drag-handle:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.wordbook-drag-handle:active {
+  cursor: grabbing;
+}
+
+.wordbook-item-body {
+  flex: 1;
+  min-width: 0;
+}
+
+.wordbook-item-dragging {
+  opacity: 0.4;
+}
+
+.wordbook-item-over {
+  border-color: var(--accent);
+  box-shadow: 0 0 0 2px var(--accent-soft);
 }
 
 .wordbook-item-main {

@@ -150,6 +150,7 @@ function App() {
         <WordbookPage
           entries={wordbook.entries}
           onRemove={wordbook.removeWord}
+          onReorder={wordbook.reorder}
           onBack={() => applyView({ kind: 'home' })}
         />
       </div>
