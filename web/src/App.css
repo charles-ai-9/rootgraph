@@ -6788,3 +6788,15 @@ textarea {
     min-height: 44px;
   }
 }
+
+/* 词性释义 textarea：可拉大但不再误触关闭 */
+.word-sense-textarea {
+  resize: vertical;
+  min-height: 36px;
+  line-height: 1.5;
+}
+
+.word-sense-row .word-sense-def {
+  flex: 1;
+  min-width: 0;
+}

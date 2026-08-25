@@ -155,7 +155,6 @@ export function FamilyNotePage({
   const [editWordKey, setEditWordKey] = useState<string | null>(null);
   const [editWordText, setEditWordText] = useState('');
   const [editPhonetic, setEditPhonetic] = useState('');
-  const [editDefinition, setEditDefinition] = useState('');
   const [editSenses, setEditSenses] = useState<{ pos: string; definition: string }[]>([]);
   const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
   const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
@@ -570,7 +569,6 @@ export function FamilyNotePage({
         setEditWordKey(k);
         setEditWordText(word.word);
         setEditPhonetic(getWordPhonetic(k, word.phonetic ?? ''));
-        setEditDefinition(getWordDefinition(k, word.definition ?? ''));
         const existingSenses = getWordSenses(k);
         if (existingSenses && existingSenses.length > 0) {
           setEditSenses(existingSenses.map((x) => ({ ...x })));
@@ -1372,7 +1370,23 @@ export function FamilyNotePage({
       {editWordKey && family && (() => {
         const wKey = editWordKey;
         return (
-          <div className="word-edit-backdrop" onClick={() => setEditWordKey(null)} role="presentation">
+          <div
+            className="word-edit-backdrop"
+            role="presentation"
+            onPointerDown={(e) => {
+              // 记录按下位置：仅当按下和抬起都在背景且无位移（轻点）才关闭，避免拖拽/resize 误触
+              (e.currentTarget as HTMLElement).dataset.pd = `${e.clientX},${e.clientY}`;
+            }}
+            onPointerUp={(e) => {
+              const start = (e.currentTarget as HTMLElement).dataset.pd;
+              if (!start) return;
+              const [x, y] = start.split(',').map(Number);
+              const dx = Math.abs(e.clientX - x);
+              const dy = Math.abs(e.clientY - y);
+              if (dx < 5 && dy < 5) setEditWordKey(null);
+              delete (e.currentTarget as HTMLElement).dataset.pd;
+            }}
+          >
             <div
               className="word-edit-panel"
               role="dialog"
@@ -1402,8 +1416,8 @@ export function FamilyNotePage({
                       spellCheck={false}
                       autoCorrect="off"
                     />
-                    <input
-                      className="word-edit-input word-sense-def"
+                    <textarea
+                      className="word-edit-input word-sense-def word-sense-textarea"
                       value={sense.definition}
                       onChange={(e) => {
                         const next = [...editSenses];
@@ -1411,6 +1425,7 @@ export function FamilyNotePage({
                         setEditSenses(next);
                       }}
                       placeholder="系；把……打成结…"
+                      rows={1}
                     />
                     <button
                       type="button"
@@ -1440,16 +1455,6 @@ export function FamilyNotePage({
                   placeholder="rɪˈspɛkt"
                   spellCheck={false}
                   autoCorrect="off"
-                />
-              </div>
-              <div className="word-edit-field">
-                <label htmlFor="word-edit-definition">解释</label>
-                <textarea
-                  id="word-edit-definition"
-                  className="word-edit-textarea"
-                  value={editDefinition}
-                  onChange={(e) => setEditDefinition(e.target.value)}
-                  rows={3}
                 />
               </div>
               <div className="word-edit-actions">
