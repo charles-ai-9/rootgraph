@@ -374,7 +374,7 @@ export function WordCard({
                     value={examplesNote.join('\n')}
                     placeholder={MD_PLACEHOLDER}
                     onChange={(text) => {
-                      const lines = text.split('\n').filter((line) => line.trim());
+                      const lines = text.split('\n');
                       onExamplesNote(lines);
                     }}
                     minRows={2}
@@ -441,7 +441,7 @@ export function WordCard({
                         value={examplesNote.join('\n')}
                         placeholder={MD_PLACEHOLDER}
                         onChange={(text) => {
-                          const lines = text.split('\n').filter((line) => line.trim());
+                          const lines = text.split('\n');
                           onExamplesNote(lines);
                         }}
                         onEditingChange={(e) => setEditingBlock(e ? 'examples' : null)}
