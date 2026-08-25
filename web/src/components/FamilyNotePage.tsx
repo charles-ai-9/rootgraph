@@ -151,6 +151,22 @@ export function FamilyNotePage({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [entry, retryTick]);
 
+  /** 官方词根页合并本地挂载词：本地词根（roots 一致）挂载的词也显示在当前词根（一个词根完整视图） */
+  useEffect(() => {
+    if (!family || entry.source === 'user') return;
+    const curRootsKey = [...(family.roots ?? [])].sort().join('|');
+    const extras: WordEntry[] = [];
+    for (const uf of Object.values(userFamilies)) {
+      if ([...uf.roots].sort().join('|') !== curRootsKey) continue;
+      for (const w of getUserFamilyWords(uf.id)) {
+        if (!family.words.some((x) => x.word === w.word)) extras.push(w as WordEntry);
+      }
+    }
+    if (extras.length) {
+      setFamily((prev) => (prev ? { ...prev, words: [...prev.words, ...extras] } : prev));
+    }
+  }, [family, entry.source, userFamilies, getUserFamilyWords]);
+
   /** 用户自建词根族：localStorage 实时派生 */
   useEffect(() => {
     if (entry.source !== 'user') return;
