@@ -1,481 +1,415 @@
 {
-  "chapter" : "32",
-  "chapterOrder" : 132,
-  "id" : "plat",
-  "meaningEn" : "flat，与“平的”有关。",
-  "roots" : [
+  "chapter": "32",
+  "chapterOrder": 132,
+  "id": "plat",
+  "meaningEn": "flat，与“平的”有关。",
+  "roots": [
     "plat"
   ],
-  "semanticLabel" : "flat，与平的有关。",
-  "source" : "textbook-5",
-  "titleZh" : "flat，与平的有关。",
-  "words" : [
+  "semanticLabel": "flat，与平的有关。",
+  "source": "textbook-5",
+  "titleZh": "flat，与平的有关。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a rocky platform：一个岩石平台",
         "provide a platform for a broad cross-section of speakers：\n为广泛代表各方的发言者们提供了一个发表意见的机会"
       ],
-      "definition" : "讲台；舞台；平台；站台；发表意见的机会",
-      "examples" : [
-
-      ],
-      "frequency" : 2832,
-      "mnemonic" : "plat-（平的）+ form（形成）→引申词义讲台，平台，站台",
-      "phonetic" : "ˈplætfɔɹm",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "platform"
+      "definition": "讲台；舞台；平台；站台；发表意见的机会",
+      "examples": [],
+      "frequency": 2832,
+      "mnemonic": "plat-（平的）+ form（形成）→引申词义讲台，平台，站台",
+      "phonetic": "ˈplæt.fɔɹm",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "platform"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a high, flat plateau of cultivated land：一片平坦的高原耕地",
         "reach a plateau：进入了一个稳定阶段\n20000 词汇巅峰\n速\n记",
         "loess plateau：黄土高原 Tibetan plateau：青藏高原\n笔 记 区\n单词 plate 表示“盘子，板”，与其词源含义“平的”有关。"
       ],
-      "definition" : "高原；（不再有变化或进展的）稳定阶段",
-      "etymology" : "法语plateau=table-land, 含义为高原，台地",
-      "examples" : [
-
-      ],
-      "frequency" : 8498,
-      "mnemonic" : "plat-（=flat：平的）+ -eau（名词后缀）→高原；稳定阶段",
-      "phonetic" : "plæˈtoʊ",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plateau"
+      "definition": "高原；（不再有变化或进展的）稳定阶段",
+      "etymology": "法语plateau=table-land, 含义为高原，台地",
+      "examples": [],
+      "frequency": 8498,
+      "mnemonic": "plat-（=flat：平的）+ -eau（名词后缀）→高原；稳定阶段",
+      "phonetic": "plæˈtoʊ",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plateau"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a huge plate of bacon and eggs：一大盘子培根和鸡蛋",
         "a brass plate：铜牌",
         "have enough on one’s plate or have a lot on one’s plate：有许多事等着做"
       ],
-      "definition" : "盘子；牌照；金属片；整页插图",
-      "etymology" : "来自古法语plate“thin piece of metal=薄的金属片”，来自希腊的platys 和拉丁语的plattus，这两个词的意思都是“flat, broad=平面的”。Plate （盘子）正是一种平而浅的器皿。Platter是一种（盛食物的）大浅 盘。",
-      "examples" : [
-
-      ],
-      "frequency" : 1534,
-      "phonetic" : "pleɪt",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plate"
+      "definition": "盘子；牌照；金属片；整页插图",
+      "etymology": "来自古法语plate“thin piece of metal=薄的金属片”，来自希腊的platys 和拉丁语的plattus，这两个词的意思都是“flat, broad=平面的”。Plate （盘子）正是一种平而浅的器皿。Platter是一种（盛食物的）大浅 盘。",
+      "examples": [],
+      "frequency": 1534,
+      "phonetic": "pleɪt",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a silver platter：大银盘子",
         "platters of cheese and fruit：几大盘奶酪和水果",
         "hand to someone on a platter：让某人毫不费力地得到\n（盛食物的）大浅盘"
       ],
-      "definition" : "（盛食物的）大浅盘",
-      "examples" : [
-
-      ],
-      "frequency" : 7334,
-      "mnemonic" : "plate：盘子→platter：大浅盘",
-      "phonetic" : "ˈplætə",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "platter"
+      "definition": "（盛食物的）大浅盘",
+      "examples": [],
+      "frequency": 7334,
+      "mnemonic": "plate：盘子→platter：大浅盘",
+      "phonetic": "ˈplæ.tɚ",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "platter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "blood plate：血小板；凝血细胞",
         "platelet aggregation：血小板聚集"
       ],
-      "definition" : "血小板",
-      "examples" : [
-
-      ],
-      "frequency" : 19184,
-      "mnemonic" : "plate（板；盘子）+ -let（表示小的名词后缀）→血小板",
-      "phonetic" : "ˈpleɪtlɪt",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "platelet"
+      "definition": "血小板",
+      "examples": [],
+      "frequency": 19184,
+      "mnemonic": "plate（板；盘子）+ -let（表示小的名词后缀）→血小板",
+      "phonetic": "ˈpleɪt.lɪt",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "platelet"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "血浆",
-      "examples" : [
-
-      ],
-      "frequency" : 8414,
-      "mnemonic" : "plasma=liquid part of blood：血浆（血浆装在袋子里是平面的）",
-      "phonetic" : "ˈplazmə",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plasma"
+      "collocations": [],
+      "definition": "血浆",
+      "examples": [],
+      "frequency": 8414,
+      "mnemonic": "plasma=liquid part of blood：血浆（血浆装在袋子里是平面的）",
+      "phonetic": "ˈplæz.mə",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plasma"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Platinum Record（白金唱片）：自发行之日起累计销售量达到100万"
       ],
-      "definition" : "白金；铂",
-      "etymology" : "来自西班牙语platina，来自plata=银，同plate + -ina（小词后 缀）。因这种金属形如白银，当西班人18世纪初在墨西哥和哥伦比 亚发现这种金属时，认为这是一种次等的白银，因而命名platina，小 银，次等白银。",
-      "examples" : [
-
-      ],
-      "frequency" : 9962,
-      "mnemonic" : "platin（=platina：白金）+ -um（金属元素后缀）→白金；铂",
-      "phonetic" : "ˈplæt.nəm",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "platinum"
+      "definition": "白金；铂",
+      "etymology": "来自西班牙语platina，来自plata=银，同plate + -ina（小词后 缀）。因这种金属形如白银，当西班人18世纪初在墨西哥和哥伦比 亚发现这种金属时，认为这是一种次等的白银，因而命名platina，小 银，次等白银。",
+      "examples": [],
+      "frequency": 9962,
+      "mnemonic": "platin（=platina：白金）+ -um（金属元素后缀）→白金；铂",
+      "phonetic": "ˈplæ.tɪ.nəm",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "platinum"
     },
     {
-      "collocations" : [
+      "collocations": [
         "in plain clothes：穿便衣的"
       ],
-      "definition" : "纯色的；清楚的；朴素的；相貌平平的 n. 平地 adv. （用以加强语气）显然；非常",
-      "examples" : [
-
-      ],
-      "frequency" : 3584,
-      "mnemonic" : "plain（=flat：平的）→平地，朴素的，相貌平平的\nplain（=clear：清楚的，明白的）→清楚的，显然",
-      "phonetic" : "pleɪn",
-      "pos" : "adj.",
-      "rootHint" : "plat",
-      "word" : "plain"
+      "definition": "纯色的；清楚的；朴素的；相貌平平的 n. 平地 adv. （用以加强语气）显然；非常",
+      "examples": [],
+      "frequency": 3584,
+      "mnemonic": "plain（=flat：平的）→平地，朴素的，相貌平平的\nplain（=clear：清楚的，明白的）→清楚的，显然",
+      "phonetic": "pleɪn",
+      "pos": "adj.",
+      "rootHint": "plat",
+      "word": "plain"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be plainly annoyed：明显生气了",
         "plainly wrong：显然是错误的"
       ],
-      "definition" : "显而易见地；明显地",
-      "examples" : [
-
-      ],
-      "frequency" : 9810,
-      "phonetic" : "ˈpleɪnli",
-      "pos" : "adv.",
-      "rootHint" : "plat",
-      "word" : "plainly"
+      "definition": "显而易见地；明显地",
+      "examples": [],
+      "frequency": 9810,
+      "phonetic": "ˈpleɪn.li",
+      "pos": "adv.",
+      "rootHint": "plat",
+      "word": "plainly"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "泛滥平原",
-      "examples" : [
-
-      ],
-      "frequency" : 18858,
-      "mnemonic" : "flood（洪水）+ plain（平原）→洪水泛滥的平原→泛滥平原",
-      "phonetic" : "ˈflʌdplen",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "floodplain"
+      "collocations": [],
+      "definition": "泛滥平原",
+      "examples": [],
+      "frequency": 18858,
+      "mnemonic": "flood（洪水）+ plain（平原）→洪水泛滥的平原→泛滥平原",
+      "phonetic": "ˈflʌdpleɪn",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "floodplain"
     },
     {
-      "collocations" : [
+      "collocations": [
         "explain oneself：为自己的行为作说明（或解释）",
         "explain sth. away：为……作辩解",
         "explain the rules of the game：说明一下游戏规则\n笔 记 区"
       ],
-      "definition" : "&vi. 解释；说明；阐明",
-      "examples" : [
-
-      ],
-      "frequency" : 481,
-      "mnemonic" : "ex-（=out）+ plain（=clear, plain：清楚，明白）→make clear：弄清\n楚，弄明白→解释；说明；阐明",
-      "phonetic" : "ɛkˈspleɪn",
-      "pos" : "vt",
-      "rootHint" : "plat",
-      "word" : "explain"
+      "definition": "&vi. 解释；说明；阐明",
+      "examples": [],
+      "frequency": 481,
+      "mnemonic": "ex-（=out）+ plain（=clear, plain：清楚，明白）→make clear：弄清\n楚，弄明白→解释；说明；阐明",
+      "phonetic": "ɪk.ˈspleɪn",
+      "pos": "vt",
+      "rootHint": "plat",
+      "word": "explain"
     },
     {
-      "collocations" : [
-        "to offer \/ provide an explanation：给予解释",
+      "collocations": [
+        "to offer / provide an explanation：给予解释",
         "no apparent explanation for the crash：那次飞机坠毁没有明显的原因"
       ],
-      "definition" : "解释；说明；阐明；解释性说法",
-      "examples" : [
-
-      ],
-      "frequency" : 2071,
-      "phonetic" : "ˌɛkspləˈneɪʃən",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "explanation"
+      "definition": "解释；说明；阐明；解释性说法",
+      "examples": [],
+      "frequency": 2071,
+      "phonetic": "ˌɛk.splə.ˈneɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "explanation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "explanatory notes：注解"
       ],
-      "definition" : "解释的；说明的",
-      "examples" : [
-
-      ],
-      "frequency" : 12925,
-      "phonetic" : "ɛkˈsplanətɔːɹi",
-      "pos" : "adj.",
-      "rootHint" : "plat",
-      "word" : "explanatory"
+      "definition": "解释的；说明的",
+      "examples": [],
+      "frequency": 12925,
+      "phonetic": "ɪk.ˈsplæ.nə.tɔɹ.i",
+      "pos": "adj.",
+      "rootHint": "plat",
+      "word": "explanatory"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an unexplained mystery：解释不清的奥妙"
       ],
-      "definition" : "原因不明的；未解释的；未说明的",
-      "examples" : [
-
-      ],
-      "frequency" : 14333,
-      "mnemonic" : "un-（=not：不）+ explained（解释的；说明的）→未解释的；未说明",
-      "phonetic" : "ʌnɪkˈspleɪnd;ʌnek-",
-      "pos" : "adj.",
-      "rootHint" : "plat",
-      "word" : "unexplained"
+      "definition": "原因不明的；未解释的；未说明的",
+      "examples": [],
+      "frequency": 14333,
+      "mnemonic": "un-（=not：不）+ explained（解释的；说明的）→未解释的；未说明",
+      "phonetic": "ˌʌnɪkˈspleɪnd",
+      "pos": "adj.",
+      "rootHint": "plat",
+      "word": "unexplained"
     },
     {
-      "collocations" : [
+      "collocations": [
         "piano music：钢琴曲",
         "play the piano：弹钢琴"
       ],
-      "definition" : "钢琴 adj.&adv. （演奏）轻轻地",
-      "examples" : [
-
-      ],
-      "frequency" : 3327,
-      "phonetic" : "piˈænoʊ",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "piano"
+      "definition": "钢琴 adj.&adv. （演奏）轻轻地",
+      "examples": [],
+      "frequency": 3327,
+      "phonetic": "piˈæ.noʊ",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "piano"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an accomplished pianist：一位很有造诣的钢琴家"
       ],
-      "definition" : "钢琴演奏者",
-      "examples" : [
-
-      ],
-      "frequency" : 8418,
-      "mnemonic" : "pian（=piano：钢琴）+ -ist（表示人）→弹奏钢琴的人→钢琴演奏者",
-      "phonetic" : "piˈænɪst",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "pianist"
+      "definition": "钢琴演奏者",
+      "examples": [],
+      "frequency": 8418,
+      "mnemonic": "pian（=piano：钢琴）+ -ist（表示人）→弹奏钢琴的人→钢琴演奏者",
+      "phonetic": "ˈpi.ə.nɪst",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "pianist"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a fluke goal：偶然的进球"
       ],
-      "definition" : "侥幸；偶然；意外",
-      "examples" : [
-
-      ],
-      "frequency" : 13972,
-      "mnemonic" : "fluke：lucky stroke, chance hit→侥幸；偶然；意外",
-      "phonetic" : "fluːk",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "fluke"
+      "definition": "侥幸；偶然；意外",
+      "examples": [],
+      "frequency": 13972,
+      "mnemonic": "fluke：lucky stroke, chance hit→侥幸；偶然；意外",
+      "phonetic": "fluk",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "fluke"
     },
     {
-      "collocations" : [
+      "collocations": [
         "rival clans：敌对家族",
         "a powerful clan of industrialists：一帮有权势的实业家们\n单词 plant 表示“植物，栽种，（稳固地）放置”。"
       ],
-      "definition" : "家族；帮派",
-      "etymology" : "“a family, a tribe=家族；部落”。来自苏格兰盖尔语clann“family, offspring=家族，后代”，来自拉丁语planta“offshoot”，含义为“分 支”。",
-      "examples" : [
-
-      ],
-      "frequency" : 5708,
-      "mnemonic" : "来自苏格兰盖尔语clann：家族，种族",
-      "phonetic" : "klæn",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "clan"
+      "definition": "家族；帮派",
+      "etymology": "“a family, a tribe=家族；部落”。来自苏格兰盖尔语clann“family, offspring=家族，后代”，来自拉丁语planta“offshoot”，含义为“分 支”。",
+      "examples": [],
+      "frequency": 5708,
+      "mnemonic": "来自苏格兰盖尔语clann：家族，种族",
+      "phonetic": "klæn",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "clan"
     },
     {
-      "collocations" : [
+      "collocations": [
         "plan to plant the area with grass and trees：计划在这个地区植树种草",
         "Ford’s car assembly plants：福特公司的汽车装配厂",
         "plant the bomb：埋设了炸弹"
       ],
-      "definition" : "植物；栽种；工厂；（工业用）大型机械设备 vt. 栽种；将（土地）种植（植被）；（稳固地）放置；埋设（炸弹等）；安插（卧底）",
-      "etymology" : "v. “Put in the ground to grow,” 来自古英语plantian, 来自拉丁语plantare “to plant”. 与growing“栽种”这个含义无关，plant还有“to insert firmly”，即“（稳固地）放置”的含义。 n. 来自古英语plante “young tree or shrub, herb newly planted,” 来自拉丁 语planta “sprout, shoot, cutting”.",
-      "examples" : [
-
-      ],
-      "frequency" : 624,
-      "phonetic" : "plænt",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plant"
+      "definition": "植物；栽种；工厂；（工业用）大型机械设备 vt. 栽种；将（土地）种植（植被）；（稳固地）放置；埋设（炸弹等）；安插（卧底）",
+      "etymology": "v. “Put in the ground to grow,” 来自古英语plantian, 来自拉丁语plantare “to plant”. 与growing“栽种”这个含义无关，plant还有“to insert firmly”，即“（稳固地）放置”的含义。 n. 来自古英语plante “young tree or shrub, herb newly planted,” 来自拉丁 语planta “sprout, shoot, cutting”.",
+      "examples": [],
+      "frequency": 624,
+      "phonetic": "plænt",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "banana plantations in Costa Rica：在哥斯达黎加的香蕉种植园",
         "a plantation of almond trees：一片人工杏树林"
       ],
-      "definition" : "（尤指热带国家的橡胶、咖啡、茶、甘蔗）种植园；人工林",
-      "examples" : [
-
-      ],
-      "frequency" : 5813,
-      "phonetic" : "plænˈteɪʃən",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plantation"
+      "definition": "（尤指热带国家的橡胶、咖啡、茶、甘蔗）种植园；人工林",
+      "examples": [],
+      "frequency": 5813,
+      "phonetic": "plænˈteɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plantation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "promote tree planting：倡导植树造林"
       ],
-      "definition" : "种植；栽种；栽种物",
-      "examples" : [
+      "definition": "种植；栽种；栽种物",
+      "examples": [
         "These bushes are fairly recent plantings.\n这些灌木丛是最近栽植的。"
       ],
-      "frequency" : 7582,
-      "phonetic" : "ˈplæntɪŋ",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "planting"
+      "frequency": 7582,
+      "phonetic": "ˈplæn.tɪŋ",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "planting"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a tea planter：茶园园主"
       ],
-      "definition" : "花盆；种植园主；播种机",
-      "examples" : [
-
-      ],
-      "frequency" : 11922,
-      "phonetic" : "ˈplɑntə",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "planter"
+      "definition": "花盆；种植园主；播种机",
+      "examples": [],
+      "frequency": 11922,
+      "phonetic": "ˈplæn.tɚ",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "planter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "replant the seedbeds：在苗床上重新培育上新苗",
         "replant them in China’s deep ground：移植到中国的深处"
       ],
-      "definition" : "再植；移植",
-      "examples" : [
-
-      ],
-      "frequency" : 19589,
-      "mnemonic" : "re-（再；重新）+ plant（种植）→再植；移植",
-      "phonetic" : "ˌriˈplænt",
-      "pos" : "vt.",
-      "rootHint" : "plat",
-      "word" : "replant"
+      "definition": "再植；移植",
+      "examples": [],
+      "frequency": 19589,
+      "mnemonic": "re-（再；重新）+ plant（种植）→再植；移植",
+      "phonetic": "ˌɹi.ˈplænt",
+      "pos": "vt.",
+      "rootHint": "plat",
+      "word": "replant"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "取代；替代（尤指年老者或落后于时代的事物）",
-      "etymology" : "14世纪早期，supplant的含义为“to trip up, overthrow, defeat, dis- possess”，即“绊倒；推翻；击败；逐出”。plant来自词根plat平的， plantar，脚底的。",
-      "examples" : [
+      "collocations": [],
+      "definition": "取代；替代（尤指年老者或落后于时代的事物）",
+      "etymology": "14世纪早期，supplant的含义为“to trip up, overthrow, defeat, dis- possess”，即“绊倒；推翻；击败；逐出”。plant来自词根plat平的， plantar，脚底的。",
+      "examples": [
         "By the 1930s the wristwatch had almost completely supplanted the pocket\nwatch. 到了20世纪30年代，手表几乎完全取代了怀表。"
       ],
-      "frequency" : 12415,
-      "mnemonic" : "sup-（=sub-：向下）+ plant（脚掌）→字面意思即踩在脚底下→引申",
-      "phonetic" : "səˈplænt",
-      "pos" : "vt.",
-      "rootHint" : "plat",
-      "word" : "supplant"
+      "frequency": 12415,
+      "mnemonic": "sup-（=sub-：向下）+ plant（脚掌）→字面意思即踩在脚底下→引申",
+      "phonetic": "səˈplænt",
+      "pos": "vt.",
+      "rootHint": "plat",
+      "word": "supplant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the operation to transplant a kidney：移植肾脏手术",
         "a heart transplant operation：心脏移植手术"
       ],
-      "definition" : "移植；移种；转移 n. （器官）移植",
-      "examples" : [
-
-      ],
-      "frequency" : 455,
-      "mnemonic" : "trans-（=across, beyond：从一边到另一边）+ plant（=to plant：种\n植）→在另外的地方重新栽种→移植；移种；转移",
-      "phonetic" : "trænsˈplɑnt;trɑns-;-nz-",
-      "pos" : "vt.",
-      "rootHint" : "plat",
-      "word" : "transplant"
+      "definition": "移植；移种；转移 n. （器官）移植",
+      "examples": [],
+      "frequency": 455,
+      "mnemonic": "trans-（=across, beyond：从一边到另一边）+ plant（=to plant：种\n植）→在另外的地方重新栽种→移植；移种；转移",
+      "phonetic": "tɹænˈsplænt",
+      "pos": "vt.",
+      "rootHint": "plat",
+      "word": "transplant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "kidney transplantation：肾移植"
       ],
-      "definition" : "移植",
-      "examples" : [
-
-      ],
-      "frequency" : 16033,
-      "phonetic" : "ˌtrænsplɑnˈteɪʃən",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "transplantation"
+      "definition": "移植",
+      "examples": [],
+      "frequency": 16033,
+      "phonetic": "ˌtɹænsplænˈteɪʃən",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "transplantation"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "茄子",
-      "examples" : [
-
-      ],
-      "frequency" : 10911,
-      "mnemonic" : "相当于英国人所说的aubergine。茄子因外形有点像一个大的鸡蛋",
-      "phonetic" : "ˈegplɑnt",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "eggplant"
+      "collocations": [],
+      "definition": "茄子",
+      "examples": [],
+      "frequency": 10911,
+      "mnemonic": "相当于英国人所说的aubergine。茄子因外形有点像一个大的鸡蛋",
+      "phonetic": "ˈɛɡ.plænt",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "eggplant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "implant the fertilized eggs back inside me：把受精卵移植回我的体内",
         "have a breast implant：隆胸",
         "dental implant：牙移植",
         "implant two fertilized eggs in the uterus：两个受精卵在子宫内着床",
         "implant a dangerous prejudice firmly in the minds of：\n在……的头脑中灌输了一种危险的偏见"
       ],
-      "definition" : "将……移植入；灌输 vi. （受精卵或胚胎）着床 n. 植入物",
-      "examples" : [
-
-      ],
-      "frequency" : 6456,
-      "mnemonic" : "im-（=in-：进入）+ plant（种植）→to plant in：将……移植入；灌",
-      "phonetic" : "ɪmˈplænt",
-      "pos" : "vt.",
-      "rootHint" : "plat",
-      "word" : "implant"
+      "definition": "将……移植入；灌输 vi. （受精卵或胚胎）着床 n. 植入物",
+      "examples": [],
+      "frequency": 6456,
+      "mnemonic": "im-（=in-：进入）+ plant（种植）→to plant in：将……移植入；灌",
+      "phonetic": "ɪmˈplænt",
+      "pos": "vt.",
+      "rootHint": "plat",
+      "word": "implant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "permanent implantation：永久性移植"
       ],
-      "definition" : "移植；植入",
-      "examples" : [
-
-      ],
-      "frequency" : 19782,
-      "phonetic" : "ɪmplɑnˈteɪʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "implantation"
+      "definition": "移植；植入",
+      "examples": [],
+      "frequency": 19782,
+      "phonetic": "ˌɪm.plænˈteɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "implantation"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "大蕉；车前草",
-      "examples" : [
-
-      ],
-      "frequency" : 19020,
-      "phonetic" : "ˈplant(e)ɪn",
-      "pos" : "n.",
-      "rootHint" : "plat",
-      "word" : "plantain"
+      "collocations": [],
+      "definition": "大蕉；车前草",
+      "examples": [],
+      "frequency": 19020,
+      "phonetic": "ˈplæn.tɪn",
+      "pos": "n.",
+      "rootHint": "plat",
+      "word": "plantain"
     }
   ]
 }

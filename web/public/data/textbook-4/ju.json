@@ -17,7 +17,7 @@
   "words": [
     {
       "word": "just",
-      "phonetic": "d͡ʒʌst",
+      "phonetic": "dʒʌst",
       "pos": "adj.",
       "definition": "正义的 adv. 刚刚；正要；正(表强调);只不过；只是； 仅仅；只会(造成不良后果);勉强地；也许；就是(加强表示感情 的语气);简直(表示能想象出)66",
       "mnemonic": "单词just可以表示“公正的”是与单词“judge: 法官；审判”同源 (审判要求“公平；公正”)",
@@ -51,7 +51,7 @@
     },
     {
       "word": "justly",
-      "phonetic": "ˈdʒʌstli",
+      "phonetic": "ˈdʒʌst.li",
       "pos": "adv.",
       "definition": "理所应当地；正义的",
       "frequency": 17739,
@@ -91,7 +91,7 @@
     },
     {
       "word": "justify",
-      "phonetic": "ˈdʒʌstɪfaɪ",
+      "phonetic": "ˈdʒʌs.tə.faɪ",
       "pos": "vi.",
       "definition": "证明……有道理；为……辩护；是……的正当理由； 使排齐",
       "frequency": 2857,
@@ -109,7 +109,7 @@
     },
     {
       "word": "justified",
-      "phonetic": "ˈdʒʌstɪfaɪd",
+      "phonetic": "ˈdʒʌs.tə.faɪd",
       "pos": "adj.",
       "definition": "合理的；理所应当的",
       "frequency": 15613,
@@ -123,7 +123,7 @@
     },
     {
       "word": "justification",
-      "phonetic": "ˌdʒʌstɪfɪˈkeɪʃən",
+      "phonetic": "ˌdʒʌs.tə.fəˈkeɪ.ʃən",
       "pos": "n.",
       "definition": "正当的理由；为……辩护",
       "frequency": 5898,
@@ -140,7 +140,7 @@
     },
     {
       "word": "justifiable",
-      "phonetic": "ˈdʒʌstɪfaɪrbl",
+      "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bəl",
       "pos": "adj.",
       "definition": "(行为、反应、决定等)有道理的；可证 明是正当的；情有可原的",
       "frequency": 15950,
@@ -155,7 +155,7 @@
     },
     {
       "word": "justifiably",
-      "phonetic": "dʒʌstɪˈfaɪrblɪ",
+      "phonetic": "ˌdʒʌs.təˈfaɪ.ə.bli",
       "pos": "adv.",
       "definition": "有理由地；无可非议地",
       "frequency": 18390,
@@ -165,7 +165,7 @@
     },
     {
       "word": "jury",
-      "phonetic": "ˈd͡ʒʊr.ɹi",
+      "phonetic": "ˈdʒʊɹ.i",
       "pos": "n.",
       "definition": "陪审团；(竞赛的)评委会",
       "frequency": 1660,
@@ -180,7 +180,7 @@
     },
     {
       "word": "perjury",
-      "phonetic": "ˈpɝdʒəɹi",
+      "phonetic": "ˈpɝ.dʒɚ.i",
       "pos": "n.",
       "definition": "伪证；伪誓；伪证罪",
       "frequency": 11385,
@@ -195,7 +195,7 @@
     },
     {
       "word": "jurist",
-      "phonetic": "ˈdʒəɹ.ɪst",
+      "phonetic": "ˈdʒʊɹ.ɪst",
       "pos": "n.",
       "definition": "法学家；法律专家",
       "frequency": 17968,
@@ -208,7 +208,7 @@
     },
     {
       "word": "juror",
-      "phonetic": "ˈdʒʊɹɔɹ",
+      "phonetic": "ˈdʒʊɹ.ɚ",
       "pos": "n.",
       "definition": "陪审员；陪审团成员",
       "frequency": 4112,
@@ -219,7 +219,7 @@
     },
     {
       "word": "jurisprudence",
-      "phonetic": "ˈdʒʊɹɪsˌpɹuːdəns",
+      "phonetic": "ˌdʒʊɹ.ɪsˈpɹud.əns",
       "pos": "n.",
       "definition": "法学",
       "frequency": 15389,
@@ -233,7 +233,7 @@
     },
     {
       "word": "injure",
-      "phonetic": "ˈɪndʒɚ",
+      "phonetic": "ˈɪn.dʒɚ",
       "pos": "vt.",
       "definition": "使受伤；伤害",
       "frequency": 3755,
@@ -247,7 +247,7 @@
     },
     {
       "word": "injury",
-      "phonetic": "ˈɪn.dʒə.ɹi",
+      "phonetic": "ˈɪn.dʒɚ.i",
       "pos": "r",
       "definition": "i] n. ( 身体上的)损害[+to]; ( 对某人名誉、事业或情感的)伤害[+to]1562",
       "collocations": [
@@ -260,7 +260,7 @@
     },
     {
       "word": "conjure",
-      "phonetic": "ˈkɑnd͡ʒəɹ",
+      "phonetic": "ˈkɑndʒɚ",
       "pos": "vt.",
       "definition": "vt. &vi. 变魔术vt. 使(某物)突然出现[发生]7876",
       "mnemonic": "ad-(=to)+-just (刚好；合适)→去适合→使……适合；调整…… 以适应",
@@ -278,7 +278,7 @@
     },
     {
       "word": "adjust",
-      "phonetic": "əˈdʒʌst",
+      "phonetic": "ə.ˈdʒʌst",
       "pos": "vt.",
       "definition": "&vi. 调整以适应vt. 调整；调节；适应",
       "frequency": 2320,
@@ -298,7 +298,7 @@
     },
     {
       "word": "adjuster",
-      "phonetic": "əˈdʒʌstə",
+      "phonetic": "ə.ˈdʒʌs.tɚ",
       "pos": "n.",
       "definition": "调节器",
       "frequency": 19658,
@@ -310,7 +310,7 @@
     },
     {
       "word": "adjusted",
-      "phonetic": "əˈdʒʌstɪd",
+      "phonetic": "ə.ˈdʒʌs.tɪd",
       "pos": "adj.",
       "definition": "调整过的；调节了的",
       "frequency": 14996,
@@ -320,7 +320,7 @@
     },
     {
       "word": "readjust",
-      "phonetic": "ˌriəˈdʒʌst",
+      "phonetic": "ˌɹi.əˈdʒʌst",
       "pos": "vi.",
       "definition": "重新适应[+to] vt. 调整；校准；重置",
       "frequency": 18615,
@@ -334,7 +334,7 @@
     },
     {
       "word": "adjustable",
-      "phonetic": "əˈdʒʌstəbl",
+      "phonetic": "ə.ˈdʒʌs.tə.bəl",
       "pos": "adj.",
       "definition": "(位置、大小等)可调整的；可调节的",
       "frequency": 10270,
@@ -346,7 +346,7 @@
     },
     {
       "word": "adjustment",
-      "phonetic": "əˈdʒʌst.mənt",
+      "phonetic": "ə.ˈdʒʌst.mənt",
       "pos": "n.",
       "definition": "( 对机器、做事方法等的)调整；(对行 为、思想等的)调整",
       "frequency": 3146,
@@ -367,7 +367,7 @@
     },
     {
       "word": "adaptive",
-      "phonetic": "əˈdæp.tɪv",
+      "phonetic": "ə.ˈdæp.tɪv",
       "pos": "adj.",
       "definition": "能适应的",
       "frequency": 8426,
@@ -379,7 +379,7 @@
     },
     {
       "word": "adaptable",
-      "phonetic": "əˈdæptəbəl",
+      "phonetic": "ə.ˈdæp.tə.bəl",
       "pos": "adj.",
       "definition": "能适应的",
       "frequency": 15336,
@@ -391,7 +391,7 @@
     },
     {
       "word": "adaptation",
-      "phonetic": "ˌædæpˈteɪʃən",
+      "phonetic": "ˌæd.æp.ˈteɪ.ʃən",
       "pos": "n.",
       "definition": "改编；适应",
       "frequency": 5258,
@@ -404,7 +404,7 @@
     },
     {
       "word": "adaptability",
-      "phonetic": "ədæptəˈbɪlɪti",
+      "phonetic": "ə.ˌdæp.təˈbɪ.lə.ti",
       "pos": "n.",
       "definition": "适应性",
       "frequency": 18124,

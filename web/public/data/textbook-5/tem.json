@@ -1,98 +1,88 @@
 {
-  "chapter" : "8",
-  "chapterOrder" : 108,
-  "id" : "tem",
-  "meaningZh" : "to cut",
-  "roots" : [
+  "chapter": "8",
+  "chapterOrder": 108,
+  "id": "tem",
+  "meaningZh": "to cut",
+  "roots": [
     "tem",
     "tom",
     "tomy"
   ],
-  "semanticLabel" : "to cut",
-  "source" : "textbook-5",
-  "titleZh" : "to cut",
-  "words" : [
+  "semanticLabel": "to cut",
+  "source": "textbook-5",
+  "titleZh": "to cut",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "consecrated for the taking of auspices, building for worship of a god,” of",
         "uncertain signification. 来自拉丁文templum，原指“古罗马人用手或魔\n杖在天空或地面划出来用来占卜的区域”。后来temple指敬拜神灵的\n场所，即矗立在神圣的区域内的神殿、寺庙。",
         "a small Hindu temple：一座小的印度教寺庙",
         "temple of heaven：天坛\ntemple fair：庙会"
       ],
-      "definition" : "神殿；寺庙；太阳穴",
-      "etymology" : "“building for worship, edifice dedicated to the service of a deity or deities,” Old English tempel, from Latin templum “piece of ground",
-      "examples" : [
-
-      ],
-      "frequency" : 3648,
-      "mnemonic" : "tem-（保留、划分的区域）+ -ple→用于敬拜的神圣区域→神殿；寺庙",
-      "phonetic" : "ˈtɛmp(ə)l",
-      "pos" : "n.",
-      "rootHint" : "tem",
-      "word" : "temple"
+      "definition": "神殿；寺庙；太阳穴",
+      "etymology": "“building for worship, edifice dedicated to the service of a deity or deities,” Old English tempel, from Latin templum “piece of ground",
+      "examples": [],
+      "frequency": 3648,
+      "mnemonic": "tem-（保留、划分的区域）+ -ple→用于敬拜的神圣区域→神殿；寺庙",
+      "phonetic": "ˈtɛm.pəl",
+      "pos": "n.",
+      "rootHint": "tem",
+      "word": "temple"
     },
     {
-      "collocations" : [
+      "collocations": [
         "contemplate a career as an army medical doctor：考虑做一名军医",
         "contemplate his future：考虑他的未来",
         "contemplate his hands：凝视着他的双手"
       ],
-      "definition" : "考虑；对……考虑再三；凝视",
-      "examples" : [
-
-      ],
-      "frequency" : 4858,
-      "mnemonic" : "con-（强调前缀）+ templ（=temple：寺庙，沉思默想之地）+ -ate\n（动词后缀）→（花时间精力）进行沉思；凝视",
-      "phonetic" : "ˈkɑn.təmˌpleɪt",
-      "pos" : "vt.",
-      "rootHint" : "tem",
-      "word" : "contemplate"
+      "definition": "考虑；对……考虑再三；凝视",
+      "examples": [],
+      "frequency": 4858,
+      "mnemonic": "con-（强调前缀）+ templ（=temple：寺庙，沉思默想之地）+ -ate\n（动词后缀）→（花时间精力）进行沉思；凝视",
+      "phonetic": "ˈkɑntəmˌpleɪt",
+      "pos": "vt.",
+      "rootHint": "tem",
+      "word": "contemplate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a place of quiet contemplation：一个适合静静深思的地方",
         "be lost in the contemplation of the landscape：沉湎在对风景的凝视中"
       ],
-      "definition" : "凝视；考虑再三",
-      "examples" : [
-
-      ],
-      "frequency" : 11489,
-      "phonetic" : "ˌkɑntəmˈpleɪʃən",
-      "pos" : "n.",
-      "rootHint" : "tem",
-      "word" : "contemplation"
+      "definition": "凝视；考虑再三",
+      "examples": [],
+      "frequency": 11489,
+      "phonetic": "ˌkɑntəmˈpleɪʃən",
+      "pos": "n.",
+      "rootHint": "tem",
+      "word": "contemplation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a quiet, contemplative sort of child：一个安静沉思型孩子"
       ],
-      "definition" : "沉思的；默想的",
-      "examples" : [
-
-      ],
-      "frequency" : 15410,
-      "mnemonic" : "contemplate（考虑；沉思）+ -ive（形容词后缀）→沉思的；默想的",
-      "phonetic" : "kənˈtɛmplətɪv",
-      "pos" : "adj.",
-      "rootHint" : "tem",
-      "word" : "contemplative"
+      "definition": "沉思的；默想的",
+      "examples": [],
+      "frequency": 15410,
+      "mnemonic": "contemplate（考虑；沉思）+ -ive（形容词后缀）→沉思的；默想的",
+      "phonetic": "kənˈtɛmplətɪv",
+      "pos": "adj.",
+      "rootHint": "tem",
+      "word": "contemplative"
     },
     {
-      "collocations" : [
+      "collocations": [
         "trace around your template：沿着模板描摹",
         "layout templates：设计模板"
       ],
-      "definition" : "（用于切割木材、纸、金属等的）模板；（计算机中用于创建文档的）模板；样板",
-      "examples" : [
-
-      ],
-      "frequency" : 10257,
-      "mnemonic" : "tem-（切；划分）+ plate（金属的板条，板材）→切割板条、板材→",
-      "phonetic" : "ˈtɛm.plət",
-      "pos" : "n.",
-      "rootHint" : "tem",
-      "word" : "template"
+      "definition": "（用于切割木材、纸、金属等的）模板；（计算机中用于创建文档的）模板；样板",
+      "examples": [],
+      "frequency": 10257,
+      "mnemonic": "tem-（切；划分）+ plate（金属的板条，板材）→切割板条、板材→",
+      "phonetic": "ˈtɛm.plət",
+      "pos": "n.",
+      "rootHint": "tem",
+      "word": "template"
     }
   ]
 }

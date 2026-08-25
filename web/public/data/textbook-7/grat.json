@@ -1,143 +1,137 @@
 {
-  "chapter" : "3",
-  "chapterOrder" : 103,
-  "id" : "grat",
-  "meaningZh" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-  "roots" : [
+  "chapter": "3",
+  "chapterOrder": 103,
+  "id": "grat",
+  "meaningZh": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+  "roots": [
     "grat"
   ],
-  "semanticLabel" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-  "source" : "textbook-7",
-  "titleZh" : "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
-  "words" : [
+  "semanticLabel": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+  "source": "textbook-7",
+  "titleZh": "优美；优雅；喜爱；恩惠；仁慈；满足；满意等",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "quality, good will, gratitude”，来自gratus “pleasing, agreeable,” 来自古\n印欧语词根gwere-=“to favor：喜爱；恩惠”。古希腊神话中有美惠\n三女神（The Graces），指的是希腊神话中分别代表着妩媚、优雅和\n美丽这三种品质的三位美丽美惠的女神。",
         "fall from grace：（尤指因做了错事或不道德之事而）失去信任；失去",
         "with (a) good grace：心甘情愿地；乐意地；高高兴兴地",
         "The table had once graced a duke’s drawing room.\n这张桌子曾一度为公爵的起居室增色不少。",
         "Will you be gracing us with your presence tonight?\n请问您今晚能否赏光（承蒙光临）？"
       ],
-      "definition" : "优美；优雅；风度（graces）；恩典 vt. 为……增色，为……锦上添花；使荣耀，承蒙光临",
-      "etymology" : "12世纪末，“God’s unmerited favor, love, or help”, 来自古法语grace 20000 词汇巅峰 速 记 笔 记 区 “pardon, divine grace, mercy; favor, thanks; elegance, virtue”（12世纪, 现代法语grâce），来自拉丁语gratia “favor, esteem, regard; pleasing",
-      "examples" : [
+      "definition": "优美；优雅；风度（graces）；恩典 vt. 为……增色，为……锦上添花；使荣耀，承蒙光临",
+      "etymology": "12世纪末，“God’s unmerited favor, love, or help”, 来自古法语grace 20000 词汇巅峰 速 记 笔 记 区 “pardon, divine grace, mercy; favor, thanks; elegance, virtue”（12世纪, 现代法语grâce），来自拉丁语gratia “favor, esteem, regard; pleasing",
+      "examples": [
         "You must learn to accept defeat with good grace.\n你必须学会欣然承认失败。"
       ],
-      "frequency" : 3707,
-      "mnemonic" : "grac-（= -grat-=pleasing, agreeable：令人愉快的；讨人喜欢的）+ -e→\ngrac-（=favor, please：喜爱；满意；高兴）+ -e→使……满意、高兴\n→为……增色，为……锦上添花；使荣耀",
-      "phonetic" : "ɡɹeɪs",
-      "pos" : "n.",
-      "rootHint" : "grat",
-      "word" : "grace"
+      "frequency": 3707,
+      "mnemonic": "grac-（= -grat-=pleasing, agreeable：令人愉快的；讨人喜欢的）+ -e→\ngrac-（=favor, please：喜爱；满意；高兴）+ -e→使……满意、高兴\n→为……增色，为……锦上添花；使荣耀",
+      "phonetic": "ɡɹeɪs",
+      "pos": "n.",
+      "rootHint": "grat",
+      "word": "grace"
     },
     {
-      "collocations" : [
+      "collocations": [
         "She stepped gracefully onto the stage.\n她步态优雅地走上舞台。"
       ],
-      "definition" : "优美的，优雅的，雅致的；（尤指在困境中）得体的，有风度的",
-      "examples" : [
+      "definition": "优美的，优雅的，雅致的；（尤指在困境中）得体的，有风度的",
+      "examples": [
         "His father had always taught him to be graceful in defeat.\n他父亲总是教导他输了也要有风度。"
       ],
-      "frequency" : 7368,
-      "mnemonic" : "grace（优美；优雅；风度）+-ful（形容词后缀，充满……的）→优",
-      "phonetic" : "ˈɡɹeɪsfʊl",
-      "pos" : "adj.",
-      "rootHint" : "grat",
-      "word" : "graceful"
+      "frequency": 7368,
+      "mnemonic": "grace（优美；优雅；风度）+-ful（形容词后缀，充满……的）→优",
+      "phonetic": "ˈɡɹeɪs.fəl",
+      "pos": "adj.",
+      "rootHint": "grat",
+      "word": "graceful"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "优雅地",
-      "examples" : [
+      "collocations": [],
+      "definition": "优雅地",
+      "examples": [
         "I think we should just give in gracefully.\n我认为我们应该优雅地认输。"
       ],
-      "frequency" : 10724,
-      "phonetic" : "ˈɡɹeɪsfəli",
-      "pos" : "adv.",
-      "rootHint" : "grat",
-      "word" : "gracefully"
+      "frequency": 10724,
+      "phonetic": "ˈɡɹeɪs.fə.li",
+      "pos": "adv.",
+      "rootHint": "grat",
+      "word": "gracefully"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a gracious smile：和蔼可亲的微笑",
         "gracious living：舒适安逸的生活",
         "her gracious Majesty the Queen：仁慈的女王陛下",
         "a gracious act of God：上帝的慈悲"
       ],
-      "definition" : "（尤指对社会地位较低者）和蔼可亲的；有礼貌的；宽厚的；（生活）舒适安逸的；（对王族及其行为的敬语）仁慈的；（上帝）仁慈的",
-      "examples" : [
+      "definition": "（尤指对社会地位较低者）和蔼可亲的；有礼貌的；宽厚的；（生活）舒适安逸的；（对王族及其行为的敬语）仁慈的；（上帝）仁慈的",
+      "examples": [
         "He has not yet learned how to be gracious in defeat.\n他还没有学会怎样宽厚地（豁达大度地）面对失败。"
       ],
-      "frequency" : 8702,
-      "mnemonic" : "grac-（仁慈；恩惠；怡人的）+ -ious（形容词后缀，表示“充分\n的”）→宽厚的；仁慈的；舒适安逸的",
-      "phonetic" : "ˈɡɹeɪʃəs",
-      "pos" : "adj.",
-      "rootHint" : "grat",
-      "word" : "gracious"
+      "frequency": 8702,
+      "mnemonic": "grac-（仁慈；恩惠；怡人的）+ -ious（形容词后缀，表示“充分\n的”）→宽厚的；仁慈的；舒适安逸的",
+      "phonetic": "ˈɡɹeɪ.ʃəs",
+      "pos": "adj.",
+      "rootHint": "grat",
+      "word": "gracious"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "和蔼地；仁慈地；有风度地",
-      "examples" : [
+      "collocations": [],
+      "definition": "和蔼地；仁慈地；有风度地",
+      "examples": [
         "She graciously accepted our invitation.\n她有风度地（落落大方地）接受了我们的邀请。"
       ],
-      "frequency" : 15909,
-      "phonetic" : "ˈɡɹeɪʃəsli",
-      "pos" : "adv.",
-      "rootHint" : "grat",
-      "word" : "graciously"
+      "frequency": 15909,
+      "phonetic": "ˈɡɹeɪ.ʃəs.li",
+      "pos": "adv.",
+      "rootHint": "grat",
+      "word": "graciously"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be disgraced：使名誉扫地；使失势；使失去地位",
         "a national disgrace：国家的耻辱",
         "He had disgraced the family name. 他使家族的名声蒙羞。",
         "He was publicly disgraced and sent into exile.\n他当众失势（被当众贬谪），放逐异乡。"
       ],
-      "definition" : "耻辱；不光彩；令人感到羞耻的人（或事） vt. 使丢脸；使蒙受耻辱",
-      "examples" : [
+      "definition": "耻辱；不光彩；令人感到羞耻的人（或事） vt. 使丢脸；使蒙受耻辱",
+      "examples": [
         "There is no disgrace in being poor.\n贫穷不是耻辱。"
       ],
-      "frequency" : 10602,
-      "mnemonic" : "dis-（表相反）+grace（优雅；喜爱）→不优雅，不受人喜爱→耻",
-      "phonetic" : "dɪsˈɡɹeɪs",
-      "pos" : "n.",
-      "rootHint" : "grat",
-      "word" : "disgrace"
+      "frequency": 10602,
+      "mnemonic": "dis-（表相反）+grace（优雅；喜爱）→不优雅，不受人喜爱→耻",
+      "phonetic": "dɪsˈɡɹeɪs",
+      "pos": "n.",
+      "rootHint": "grat",
+      "word": "disgrace"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a disgraceful waste of money：可耻的金钱浪费"
       ],
-      "definition" : "可耻的；不光彩的；丢脸的",
-      "examples" : [
+      "definition": "可耻的；不光彩的；丢脸的",
+      "examples": [
         "His behavior was absolutely disgraceful!\n他的行为真可耻！"
       ],
-      "frequency" : 19749,
-      "mnemonic" : "disgrace（耻辱；不光彩；使丢脸）+ -ful（形容词后缀，表示充分\n的）→可耻的；不光彩的；丢脸的",
-      "phonetic" : "[dɪsˈɡɹeɪsfəɫ]",
-      "pos" : "adj.",
-      "rootHint" : "grat",
-      "word" : "disgraceful"
+      "frequency": 19749,
+      "mnemonic": "disgrace（耻辱；不光彩；使丢脸）+ -ful（形容词后缀，表示充分\n的）→可耻的；不光彩的；丢脸的",
+      "phonetic": "dɪsˈɡɹeɪs.fəl",
+      "pos": "adj.",
+      "rootHint": "grat",
+      "word": "disgraceful"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "使高兴；使满意；满足（愿望、需要等）",
-      "examples" : [
+      "collocations": [],
+      "definition": "使高兴；使满意；满足（愿望、需要等）",
+      "examples": [
         "I was gratified by their invitation.\n收到他们的邀请，我感到很高兴。"
       ],
-      "frequency" : 18546,
-      "mnemonic" : "grat-（=please：满意；高兴）+-ify（使动词）→使同意，使满意，",
-      "phonetic" : "ˈɡrætɪfaɪ",
-      "pos" : "vt.",
-      "rootHint" : "grat",
-      "word" : "gratify"
+      "frequency": 18546,
+      "mnemonic": "grat-（=please：满意；高兴）+-ify（使动词）→使同意，使满意，",
+      "phonetic": "ˈɡɹæ.tə.faɪ",
+      "pos": "vt.",
+      "rootHint": "grat",
+      "word": "gratify"
     }
   ]
 }

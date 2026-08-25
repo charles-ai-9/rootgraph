@@ -21,7 +21,7 @@
       "examples": [],
       "frequency": 3355,
       "mnemonic": "cour-（心（脏））+ -age（名词后缀）→由心发出的胆量→勇气；",
-      "phonetic": "ˈkɝɹɪdʒ",
+      "phonetic": "ˈkɝ.ɪdʒ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "courage"
@@ -34,7 +34,7 @@
       "examples": [],
       "frequency": 8334,
       "mnemonic": "courage（勇敢）+ -ous（形容词后缀）→勇敢的；无畏的",
-      "phonetic": "kəˈɹeɪdʒəs",
+      "phonetic": "kəˈɹeɪ.dʒəs",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "courageous"
@@ -50,7 +50,7 @@
       ],
       "frequency": 1188,
       "mnemonic": "en-（使）+ courage（勇气）→使……鼓起勇气→鼓励；鼓动；刺激",
-      "phonetic": "ɪnˈkɝɹɪdʒ",
+      "phonetic": "ɪn.ˈkɝ.ɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "encourage"
@@ -65,7 +65,7 @@
       ],
       "frequency": 6281,
       "mnemonic": "encourage（鼓励）+ -ment（名词后缀）→鼓励；鼓舞",
-      "phonetic": "[ɪnˈkʌɹɪdʒmənt]",
+      "phonetic": "ɪn.ˈkɝ.ɪdʒ.mənt",
       "pos": "n.",
       "rootHint": "cour",
       "word": "encouragement"
@@ -78,7 +78,7 @@
       ],
       "frequency": 4414,
       "mnemonic": "encourage（鼓励；鼓舞）+ -ing（令人……的）→令人感到鼓励的→",
-      "phonetic": "ɪnˈkʌɹɪd͡ʒɪŋ",
+      "phonetic": "ɪn.ˈkɝ.ɪ.dʒɪŋ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "encouraging"
@@ -94,7 +94,7 @@
       ],
       "frequency": 4254,
       "mnemonic": "dis-（不；表相反）+ courage（鼓励）→不受鼓励→阻止，劝阻；使",
-      "phonetic": "dɪsˈkɝɪd͡ʒ",
+      "phonetic": "dɪˈskɝ.ɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "discourage"
@@ -107,7 +107,7 @@
       "examples": [],
       "frequency": 15291,
       "mnemonic": "discourage（使灰心，使丧失信心）+ -ing（令人……的）→令人气馁",
-      "phonetic": "dɪsˈkʌɹɪdʒɪŋ",
+      "phonetic": "dɪˈskɝ.ɪ.dʒɪŋ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "discouraging"
@@ -121,7 +121,7 @@
       ],
       "frequency": 10007,
       "mnemonic": "quar-（=cor-：心；心脏）+ -ry（名词后缀）→给捕到猎物的猎鹰的\n奖赏→猎物\nquar（采石）+ -ry（名词后缀，表场地）→采石场；矿场",
-      "phonetic": "ˈkwɔɹi",
+      "phonetic": "ˈkwɔɹ.i",
       "pos": "n.",
       "rootHint": "cour",
       "word": "quarry"
@@ -141,7 +141,7 @@
       ],
       "frequency": 9779,
       "mnemonic": "wed：与某人结成盟约，两人结合进入婚姻→娶；嫁；与……结婚",
-      "phonetic": "ˈwɛd",
+      "phonetic": "wɛd",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "wed"
@@ -155,7 +155,7 @@
       "examples": [],
       "frequency": 2195,
       "mnemonic": "wed（结婚，d双写）+ -ing（名词后缀）→婚礼；结婚",
-      "phonetic": "ˈwɛdɪŋ",
+      "phonetic": "ˈwɛd.ɪŋ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "wedding"
@@ -184,7 +184,7 @@
       "examples": [],
       "frequency": 18323,
       "mnemonic": "un-（=not：没有）+ wed（=married：结婚的）→未婚的",
-      "phonetic": "ʌnˈwed",
+      "phonetic": "ˌʌnˈwɛd",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "unwed"
@@ -203,7 +203,7 @@
       "examples": [],
       "frequency": 2610,
       "mnemonic": "来自原始印欧语词根wadh-：承诺，誓言。原指承诺对别人的服务的",
-      "phonetic": "weɪd͡ʒ",
+      "phonetic": "weɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "wage"
@@ -219,7 +219,7 @@
       ],
       "frequency": 16930,
       "mnemonic": "wage（承诺；保证）+ r→引申词义打赌；押（赌注）",
-      "phonetic": "ˈweɪdʒɚ",
+      "phonetic": "ˈweɪ.dʒɚ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "wager"
@@ -231,7 +231,7 @@
       "definition": "&vt. 用……打赌 n. 打赌；赌注",
       "examples": [],
       "frequency": 2722,
-      "phonetic": "ˈbɛt",
+      "phonetic": "bɛt",
       "pos": "vi.",
       "rootHint": "cour",
       "word": "bet"
@@ -243,7 +243,7 @@
       "definition": "打赌；赌博",
       "examples": [],
       "frequency": 17101,
-      "phonetic": "ˈbɛtɪŋ",
+      "phonetic": "ˈbɛ.tɪŋ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "betting"
@@ -267,7 +267,7 @@
       ],
       "frequency": 1394,
       "mnemonic": "邪解：en-（=in：进入；引入）+ gage（=gate：门）→入门→1）参加，从",
-      "phonetic": "ɛnˈɡeɪdʒ",
+      "phonetic": "ɪn.ˈɡeɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "engage"
@@ -283,7 +283,7 @@
       "examples": [],
       "frequency": 3849,
       "mnemonic": "engage（订婚；使参与）+ -ment（名词后缀）→订婚，婚约；约定，",
-      "phonetic": "ɪnˈɡeɪd͡ʒ.mənt",
+      "phonetic": "ɪn.ˈɡeɪdʒ.mənt",
       "pos": "n.",
       "rootHint": "cour",
       "word": "engagement"
@@ -299,7 +299,7 @@
         "He is now engaged on his second novel.\n他正忙于（埋头）写他的第二部小说。"
       ],
       "frequency": 10380,
-      "phonetic": "ɛnˈɡeɪdʒd",
+      "phonetic": "ɪn.ˈɡeɪdʒd",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "engaged"
@@ -313,7 +313,7 @@
       "examples": [],
       "frequency": 10300,
       "mnemonic": "engage（吸引住（注意力、兴趣等））+ -ing（形容词后缀）→能吸\n引人注意力的→有趣的；令人愉快的；迷人的",
-      "phonetic": "ɪnˈɡeɪd͡ʒɪŋ",
+      "phonetic": "ɪn.ˈɡeɪ.dʒɪŋ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "engaging"
@@ -329,7 +329,7 @@
       ],
       "frequency": 14271,
       "mnemonic": "dis-（=不，使相反）+ engage（使参与）→使不参与→脱离，松开；",
-      "phonetic": "ˌdɪsɪŋˈɡeɪdʒ",
+      "phonetic": "ˌdɪs.ɪnˈɡeɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "disengage"
@@ -342,7 +342,7 @@
       "examples": [],
       "frequency": 17404,
       "mnemonic": "disengage（使脱离；解脱）+ -ment（名词后缀）→脱离；分开",
-      "phonetic": "ˌdɪs.ɪŋˈɡeɪdʒ.mənt",
+      "phonetic": "ˌdɪs.ɪnˈɡeɪdʒ.mənt",
       "pos": "n.",
       "rootHint": "cour",
       "word": "disengagement"
@@ -357,7 +357,7 @@
       "examples": [],
       "frequency": 3244,
       "mnemonic": "mort-（=dead：死亡）+ -gage（承诺；保证）→ 死亡保证，即以其父\n借款的经济行为→现代意义上的抵押；按揭（贷款）行为",
-      "phonetic": "ˈmɔɹ.ɡɪdʒ",
+      "phonetic": "ˈmɔɹɡɪdʒ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "mortgage"
@@ -390,7 +390,7 @@
       ],
       "frequency": 12845,
       "mnemonic": "indulg（=indulge：沉溺；纵容）+ -ence（名词后缀）→沉溺，纵",
-      "phonetic": "ɪnˈdʌld͡ʒəns",
+      "phonetic": "ɪnˈdʌl.dʒəns",
       "pos": "n.",
       "rootHint": "cour",
       "word": "indulgence"
@@ -406,7 +406,7 @@
       ],
       "frequency": 18189,
       "mnemonic": "indulg（=indulge：纵容；宽容）+ -ent（形容词后缀）→纵容的；宽\ncrush [krʌʃ] vt. 压碎；压坏",
-      "phonetic": "ɪnˈdʌldʒənt",
+      "phonetic": "ɪnˈdʌl.dʒənt",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "indulgent"
@@ -518,7 +518,7 @@
       "definition": "（强调糟糕或严重的程度）惨重的，毁坏性的 n. 镇压",
       "examples": [],
       "frequency": 12012,
-      "phonetic": "ˈkɹʌʃɪŋ",
+      "phonetic": "ˈkɹʌ.ʃɪŋ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "crushing"
@@ -531,7 +531,7 @@
       "definition": "彻底的；极其的；最好的",
       "examples": [],
       "frequency": 16672,
-      "phonetic": "ˈkɹæʃɪŋ",
+      "phonetic": "ˈkɹæ.ʃɪŋ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "crashing"
@@ -597,7 +597,7 @@
       ],
       "frequency": 9718,
       "mnemonic": "stick的过去分词形式，stuck经常用作形容词。",
-      "phonetic": "ˈstʌk",
+      "phonetic": "stʌk",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "stuck"
@@ -610,7 +610,7 @@
       "examples": [],
       "frequency": 6809,
       "mnemonic": "stick（粘贴）+ -er（表物）→贴纸；标签",
-      "phonetic": "ˈstɪkə(r)",
+      "phonetic": "ˈstɪkɚ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "sticker"
@@ -648,7 +648,7 @@
       "examples": [],
       "frequency": 7509,
       "mnemonic": "lip（嘴唇）+ stick（棍）→涂嘴唇的棍→口红；唇膏",
-      "phonetic": "ˈlɪpˌstɪk",
+      "phonetic": "ˈlɪp.stɪk",
       "pos": "n.",
       "rootHint": "cour",
       "word": "lipstick"
@@ -659,7 +659,7 @@
       "examples": [],
       "frequency": 19886,
       "mnemonic": "joy（欢乐）+ stick（杆；棍）→（玩游戏时）让人快乐的杆→操纵",
-      "phonetic": "ˈdʒɔɪstɪk",
+      "phonetic": "ˈdʒɔɪ.stɪk",
       "pos": "n.",
       "rootHint": "cour",
       "word": "joystick"
@@ -672,7 +672,7 @@
       "examples": [],
       "frequency": 12319,
       "mnemonic": "non-（=not：不）+ stick（粘）→不粘食物的",
-      "phonetic": "ˈnɔnˈstik",
+      "phonetic": "ˌnɑn.ˈstɪk",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "nonstick"
@@ -685,7 +685,7 @@
       "examples": [],
       "frequency": 17670,
       "mnemonic": "yard（码）+ stick（棍；杆）→测量杆、棍长度的单位→码尺；衡量",
-      "phonetic": "ˈjɑdstɪk",
+      "phonetic": "ˈjɑɹd.stɪk",
       "pos": "n.",
       "rootHint": "cour",
       "word": "yardstick"
@@ -696,7 +696,7 @@
       "examples": [],
       "frequency": 18532,
       "mnemonic": "candle（蜡烛）+ stick（条状物）→盛放蜡烛的条状物→蜡烛台",
-      "phonetic": "ˈkændl̩ˌstɪk",
+      "phonetic": "ˈkændəlˌstɪk",
       "pos": "n.",
       "rootHint": "cour",
       "word": "candlestick"
@@ -709,7 +709,7 @@
       "examples": [],
       "frequency": 18440,
       "mnemonic": "chop（砍；劈）+ stick（棍）→将一根棍子劈成细细的成对的小木棍\n→筷子",
-      "phonetic": "ˈtʃɑpstɪks",
+      "phonetic": "ˈtʃɑpˌstɪks",
       "pos": "n.",
       "rootHint": "cour",
       "word": "chopsticks"
@@ -757,7 +757,7 @@
       "examples": [],
       "frequency": 10273,
       "mnemonic": "stake（股份）+ holder（持有者）→股份持有者→股东；利益相关者",
-      "phonetic": "ˈsteɪkhoʊldə(ɹ)",
+      "phonetic": "ˈsteɪkˌhoʊldɚ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "stakeholder"
@@ -770,7 +770,7 @@
       "examples": [],
       "frequency": 16992,
       "mnemonic": "high（高的）+ stakes（竞赛、冒险行为中的）赌注→赌注很高的→高",
-      "phonetic": "haɪ steɪks",
+      "phonetic": "ˌhaɪ.ˈsteɪks",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "high-stakes"
@@ -783,7 +783,7 @@
       "definition": "有高风险的；高危的",
       "examples": [],
       "frequency": 9078,
-      "phonetic": "ˈhaiˈrisk",
+      "phonetic": "ˌhaɪ.ˈɹɪsk",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "high-risk"
@@ -847,7 +847,7 @@
       ],
       "frequency": 10671,
       "mnemonic": "de-（不；非；表相反）+ -tach（连接）→使不连接→使分开，脱",
-      "phonetic": "dɪˈtætʃ",
+      "phonetic": "dɪ.ˈtætʃ",
       "pos": "vt.",
       "rootHint": "cour",
       "word": "detach"
@@ -863,7 +863,7 @@
       ],
       "frequency": 12471,
       "mnemonic": "detach（连接；依恋；使分开）+ -ed（形容词后缀）→不连接的；不\n依恋的；使与其他观点分开，不受其影响的→独立的；不带感情的；",
-      "phonetic": "dɪˈtæt͡ʃt",
+      "phonetic": "dɪ.ˈtætʃt",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "detached"
@@ -877,7 +877,7 @@
       "examples": [],
       "frequency": 11081,
       "mnemonic": "detach（使分开；脱离）+ -ment（名词后缀）→与世界、其他观点、\n某物体分离→超然；客观；分离",
-      "phonetic": "dɪˈtæt͡ʃmənt",
+      "phonetic": "dɪ.ˈtætʃ.mənt",
       "pos": "n.",
       "rootHint": "cour",
       "word": "detachment"
@@ -986,7 +986,7 @@
       ],
       "frequency": 9967,
       "mnemonic": "sti-（=stick：扎破；刺穿）+ -tch（名词后缀）→缝；针脚；缝补；",
-      "phonetic": "stɪt͡ʃ",
+      "phonetic": "stɪtʃ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "stitch"
@@ -1034,7 +1034,7 @@
       ],
       "frequency": 10279,
       "mnemonic": "style（把……设计成某种式样）+ -ing（动名词后缀）→造型，设",
-      "phonetic": "ˈstaɪlɪŋ",
+      "phonetic": "ˈstaɪ.lɪŋ",
       "pos": "n.",
       "rootHint": "cour",
       "word": "styling"
@@ -1048,7 +1048,7 @@
       "examples": [],
       "frequency": 8879,
       "mnemonic": "style（时髦；优雅格调；品味）+ -ish（形容词后缀）→有格调的；",
-      "phonetic": "ˈstaɪlɪʃ",
+      "phonetic": "ˈstaɪ.lɪʃ",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "stylish"
@@ -1061,7 +1061,7 @@
       "examples": [],
       "frequency": 11563,
       "mnemonic": "styl（=style：造型；设计）+ -ist（名词后缀，表专家）→造型师；设",
-      "phonetic": "ˈstaɪlɪst",
+      "phonetic": "ˈstaɪ.lɪst",
       "pos": "n.",
       "rootHint": "cour",
       "word": "stylist"
@@ -1074,7 +1074,7 @@
       "examples": [],
       "frequency": 10879,
       "mnemonic": "style（风格）+ -istic（形容词后缀，-ist + -ic）→风格上的",
-      "phonetic": "staɪˈlɪstɪk",
+      "phonetic": "staɪˈlɪs.tɪk",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "stylistic"
@@ -1089,7 +1089,7 @@
       "examples": [],
       "frequency": 14813,
       "mnemonic": "style（风格；样式）+ -ized（=-ize + -d）→按照固定样式的→（绘",
-      "phonetic": "ˈstaɪ.ə.laɪzd",
+      "phonetic": "ˈstaɪ.laɪzd",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "stylized"
@@ -1105,7 +1105,7 @@
       "examples": [],
       "frequency": 3118,
       "mnemonic": "life（生活）+ style（方式）→生活方式；关于时尚生活的，保健的",
-      "phonetic": "ˈlaɪfˌstaɪl",
+      "phonetic": "ˈlaɪf.staɪl",
       "pos": "n.",
       "rootHint": "cour",
       "word": "lifestyle"
@@ -1119,7 +1119,7 @@
       "examples": [],
       "frequency": 12592,
       "mnemonic": "free（自由的）+ style（样式）→体育比赛自由式的；自由式体育",
-      "phonetic": "ˈfɹiːˌstaɪl",
+      "phonetic": "ˈfɹi.staɪl",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "freestyle"
@@ -1132,7 +1132,7 @@
       "examples": [],
       "frequency": 20187,
       "mnemonic": "old（旧的）+ style（风格；式样）→风格、式样陈旧的→老派的；旧",
-      "phonetic": "ˈoʊld staɪl",
+      "phonetic": "ˈoʊld.ˌstaɪl",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "old-style"
@@ -1145,7 +1145,7 @@
       "definition": "旧式的；过时的；守旧的",
       "examples": [],
       "frequency": 4791,
-      "phonetic": "oʊldˈfæʃənd",
+      "phonetic": "ˌoʊld.ˈfæ.ʃənd",
       "pos": "adj.",
       "rootHint": "cour",
       "word": "old-fashioned"
@@ -1158,7 +1158,7 @@
       "examples": [],
       "frequency": 15245,
       "mnemonic": "hair（头发）+ style（造型）→头发的造型→发型",
-      "phonetic": "ˈhɛrstaɪl",
+      "phonetic": "ˈhɛɹ.staɪl",
       "pos": "n.",
       "rootHint": "cour",
       "word": "hairstyle"

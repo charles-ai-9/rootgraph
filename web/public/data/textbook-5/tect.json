@@ -1,60 +1,54 @@
 {
-  "chapter" : "39",
-  "chapterOrder" : 139,
-  "id" : "tect",
-  "meaningEn" : "-struct=build，表示“建造”。",
-  "roots" : [
+  "chapter": "39",
+  "chapterOrder": 139,
+  "id": "tect",
+  "meaningEn": "-struct=build，表示“建造”。",
+  "roots": [
     "tect"
   ],
-  "semanticLabel" : "-struct=build，表示建造。",
-  "source" : "textbook-5",
-  "titleZh" : "-struct=build，表示建造。",
-  "words" : [
+  "semanticLabel": "-struct=build，表示建造。",
+  "source": "textbook-5",
+  "titleZh": "-struct=build，表示建造。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "chief architect：首席建筑师"
       ],
-      "definition" : "建筑师；设计师；缔造者",
-      "examples" : [
-
-      ],
-      "frequency" : 3393,
-      "mnemonic" : "archi-（=archon=chief：古代雅典九个主要的统治者之一；后引申为\n“主要的，占指导地位的”）+ -tect（=-struct=build：建造）→指导\n性的（首要的）建筑者→建筑师；设计师",
-      "phonetic" : "ˈɑɹkɪtɛkt",
-      "pos" : "n.",
-      "rootHint" : "tect",
-      "word" : "architect"
+      "definition": "建筑师；设计师；缔造者",
+      "examples": [],
+      "frequency": 3393,
+      "mnemonic": "archi-（=archon=chief：古代雅典九个主要的统治者之一；后引申为\n“主要的，占指导地位的”）+ -tect（=-struct=build：建造）→指导\n性的（首要的）建筑者→建筑师；设计师",
+      "phonetic": "ˈɑɹkəˌtɛkt",
+      "pos": "n.",
+      "rootHint": "tect",
+      "word": "architect"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to study architecture：学习建筑学",
         "the architecture of the eighteenth century：十八世纪的建筑风格",
         "modern architecture：现代建筑设计"
       ],
-      "definition" : "建筑学；建筑艺术；建筑风格",
-      "examples" : [
-
-      ],
-      "frequency" : 3541,
-      "mnemonic" : "architect（建筑）+ -ure（名词后缀）→建筑学；建筑艺术",
-      "phonetic" : "ˈɑɹkɪtɛktʃɚ",
-      "pos" : "n.",
-      "rootHint" : "tect",
-      "word" : "architecture"
+      "definition": "建筑学；建筑艺术；建筑风格",
+      "examples": [],
+      "frequency": 3541,
+      "mnemonic": "architect（建筑）+ -ure（名词后缀）→建筑学；建筑艺术",
+      "phonetic": "ˈɑɹkəˌtɛktʃɚ",
+      "pos": "n.",
+      "rootHint": "tect",
+      "word": "architecture"
     },
     {
-      "collocations" : [
+      "collocations": [
         "architectural features：建筑特色"
       ],
-      "definition" : "建筑学的；建筑方面的",
-      "examples" : [
-
-      ],
-      "frequency" : 5344,
-      "phonetic" : "ˌɑɹkɪˈtɛktjəɹəl",
-      "pos" : "adj.",
-      "rootHint" : "tect",
-      "word" : "architectural"
+      "definition": "建筑学的；建筑方面的",
+      "examples": [],
+      "frequency": 5344,
+      "phonetic": "ˌɑɹkəˈtɛktʃɚəl",
+      "pos": "adj.",
+      "rootHint": "tect",
+      "word": "architectural"
     }
   ]
 }

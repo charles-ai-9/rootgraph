@@ -1,234 +1,208 @@
 {
-  "chapter" : "33",
-  "chapterOrder" : 133,
-  "id" : "pos",
-  "meaningZh" : "能力；强大。",
-  "roots" : [
+  "chapter": "33",
+  "chapterOrder": 133,
+  "id": "pos",
+  "meaningZh": "能力；强大。",
+  "roots": [
     "pos",
     "pot"
   ],
-  "semanticLabel" : "能力；强大。",
-  "source" : "textbook-5",
-  "titleZh" : "能力；强大。",
-  "words" : [
+  "semanticLabel": "能力；强大。",
+  "source": "textbook-5",
+  "titleZh": "能力；强大。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "authority; authorization; military force, an army,” from Anglo-French",
         "pouair, Old French povoir, noun use of the infinitive, “to be able,” earlier",
         "power an electric car：驱动一辆电动汽车",
         "electric power：电力",
         "economic power：经济强国",
-        "the power struggle：权力斗争\nto take \/ seize \/ lose power：掌握 \/ 夺取 \/ 失掉政权"
+        "the power struggle：权力斗争\nto take / seize / lose power：掌握 / 夺取 / 失掉政权"
       ],
-      "definition" : "权力；能力；（法律赋予的）权力；强国 vt. 为……提供动力 n. 电动的",
-      "etymology" : "c. 1300, “ability; ability to act or do; strength, vigor, might,” especially in battle; “efficacy; control, mastery, lordship, dominion; legal power or podir (9c.), from Vulgar Latin *potere, from Latin potis “powerful” (from PIE root *poti- “powerful; lord”).",
-      "examples" : [
+      "definition": "权力；能力；（法律赋予的）权力；强国 vt. 为……提供动力 n. 电动的",
+      "etymology": "c. 1300, “ability; ability to act or do; strength, vigor, might,” especially in battle; “efficacy; control, mastery, lordship, dominion; legal power or podir (9c.), from Vulgar Latin *potere, from Latin potis “powerful” (from PIE root *poti- “powerful; lord”).",
+      "examples": [
         "His power extends beyond the seas. 他的势力扩展到海外。"
       ],
-      "frequency" : 272,
-      "mnemonic" : "power：ability to act or do→能力；权力；动力",
-      "phonetic" : "ˈpaʊ.ɚ",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "power"
+      "frequency": 272,
+      "mnemonic": "power：ability to act or do→能力；权力；动力",
+      "phonetic": "ˈpaʊ.ɚ",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "power"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an immensely powerful organization：有巨大影响力的组织",
         "a powerful engine：大功率引擎",
-        "a powerful image \/ drug \/ speech：\n鲜明的形象；有奇效的药物；有力的演说"
+        "a powerful image / drug / speech：\n鲜明的形象；有奇效的药物；有力的演说"
       ],
-      "definition" : "有影响力的；强有力的；效力大的",
-      "examples" : [
-
-      ],
-      "frequency" : 1162,
-      "mnemonic" : "power（能力）+ -ful（充满…的）→充满能力的→有影响力的；强有",
-      "phonetic" : "ˈpaʊɚfəl",
-      "pos" : "adj.",
-      "rootHint" : "pos",
-      "word" : "powerful"
+      "definition": "有影响力的；强有力的；效力大的",
+      "examples": [],
+      "frequency": 1162,
+      "mnemonic": "power（能力）+ -ful（充满…的）→充满能力的→有影响力的；强有",
+      "phonetic": "ˈpaʊ.ɚ.fəl",
+      "pos": "adj.",
+      "rootHint": "pos",
+      "word": "powerful"
     },
     {
-      "collocations" : [
+      "collocations": [
         "powerless minorities：弱势的少数族群"
       ],
-      "definition" : "无影响力的；无能为力的",
-      "examples" : [
-
-      ],
-      "frequency" : 9510,
-      "phonetic" : "ˈpaʊɚləs",
-      "pos" : "adj.",
-      "rootHint" : "pos",
-      "word" : "powerless"
+      "definition": "无影响力的；无能为力的",
+      "examples": [],
+      "frequency": 9510,
+      "phonetic": "ˈpaʊ.ɚ.ləs",
+      "pos": "adj.",
+      "rootHint": "pos",
+      "word": "powerless"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "授权；使能够",
-      "examples" : [
+      "collocations": [],
+      "definition": "授权；使能够",
+      "examples": [
         "The movement actively empowered women and gave them confidence in\nthemselves.\n这场运动使妇女更能主动掌握自己的命运，对自己充满信心"
       ],
-      "frequency" : 6304,
-      "mnemonic" : "em-（使……）+ power（能力）→使有能力做……→授权；使能够",
-      "phonetic" : "ɪmˈpaʊr;em-",
-      "pos" : "vt.",
-      "rootHint" : "pos",
-      "word" : "empower"
+      "frequency": 6304,
+      "mnemonic": "em-（使……）+ power（能力）→使有能力做……→授权；使能够",
+      "phonetic": "ɪm.ˈpaʊ.ɚ",
+      "pos": "vt.",
+      "rootHint": "pos",
+      "word": "empower"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "授权；使人得力",
-      "examples" : [
-
-      ],
-      "frequency" : 16047,
-      "phonetic" : "ɪmˈpaʊrɪŋ",
-      "pos" : "vt.",
-      "rootHint" : "pos",
-      "word" : "empowering"
+      "collocations": [],
+      "definition": "授权；使人得力",
+      "examples": [],
+      "frequency": 16047,
+      "phonetic": "ɪm.ˈpaʊ.ɚ.ɪŋ",
+      "pos": "vt.",
+      "rootHint": "pos",
+      "word": "empowering"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "权利赋予",
-      "examples" : [
+      "collocations": [],
+      "definition": "权利赋予",
+      "examples": [
         "This government believes very strongly in the empowerment of women.\n这届政府坚信赋权于妇女。"
       ],
-      "frequency" : 8587,
-      "phonetic" : "ɪmˈpaʊɚmənt",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "empowerment"
+      "frequency": 8587,
+      "phonetic": "ɪm.ˈpaʊ.ɚ.mənt",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "empowerment"
     },
     {
-      "collocations" : [
-        "a need for trained \/ skilled manpower：对受过培训的 \/ 熟练的劳动力的需",
+      "collocations": [
+        "a need for trained / skilled manpower：对受过培训的 / 熟练的劳动力的需",
         "a manpower shortage：劳动力短缺"
       ],
-      "definition" : "人力；劳动力",
-      "examples" : [
-
-      ],
-      "frequency" : 11803,
-      "mnemonic" : "man（人）+ power（能力）→劳动者的能力→劳动力",
-      "phonetic" : "ˈmænpaʊr",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "manpower"
+      "definition": "人力；劳动力",
+      "examples": [],
+      "frequency": 11803,
+      "mnemonic": "man（人）+ power（能力）→劳动者的能力→劳动力",
+      "phonetic": "ˈmæn.paʊ.ɚ",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "manpower"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a powerfully emotive song：激动人心的歌曲",
         "be powerfully built：身体魁梧健壮",
         "argue powerfully for reform：为改革进行了有力的辩论"
       ],
-      "definition" : "强大地；强有力的",
-      "examples" : [
-
-      ],
-      "frequency" : 11137,
-      "phonetic" : "ˈpaʊɚf(ə)li",
-      "pos" : "adv.",
-      "rootHint" : "pos",
-      "word" : "powerfully"
+      "definition": "强大地；强有力的",
+      "examples": [],
+      "frequency": 11137,
+      "phonetic": "ˈpaʊ.ɚ.fə.li",
+      "pos": "adv.",
+      "rootHint": "pos",
+      "word": "powerfully"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an economic powerhouse：经济强国"
       ],
-      "definition" : "强国；权势集团；精力充沛的人",
-      "examples" : [
-
-      ],
-      "frequency" : 11256,
-      "mnemonic" : "power（权力，力量）+ house（场地）→权力、力量充满的地方→强",
-      "phonetic" : "ˈpaʊəhaʊs",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "powerhouse"
+      "definition": "强国；权势集团；精力充沛的人",
+      "examples": [],
+      "frequency": 11256,
+      "mnemonic": "power（权力，力量）+ house（场地）→权力、力量充满的地方→强",
+      "phonetic": "ˈpaʊ.ɚ.haʊs",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "powerhouse"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a 300-horsepower engine：一台300马力的发动机"
       ],
-      "definition" : "马力（功率单位）",
-      "examples" : [
-
-      ],
-      "frequency" : 12758,
-      "mnemonic" : "horse（马）+ power（力量）→马力（功率单位）",
-      "phonetic" : "ˈhɔɹsˌpaʊɚ",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "horsepower"
+      "definition": "马力（功率单位）",
+      "examples": [],
+      "frequency": 12758,
+      "mnemonic": "horse（马）+ power（力量）→马力（功率单位）",
+      "phonetic": "ˈhɔɹs.ˌpaʊ.ɚ",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "horsepower"
     },
     {
-      "collocations" : [
+      "collocations": [
         "high-powered lasers：大功率激光器",
         "a high-powered lawyer：身居要职的律师。"
       ],
-      "definition" : "大功率的；（人）身居要职的；（职位）要求高的",
-      "examples" : [
-
-      ],
-      "frequency" : 12874,
-      "mnemonic" : "high（高的）+ powered（由……驱动的）→高功率驱动的，（职位）\n要求高的→大功率的；（人）身居要职的",
-      "phonetic" : "ˈhaiˈpauəd",
-      "pos" : "adj.",
-      "rootHint" : "pos",
-      "word" : "high-powered"
+      "definition": "大功率的；（人）身居要职的；（职位）要求高的",
+      "examples": [],
+      "frequency": 12874,
+      "mnemonic": "high（高的）+ powered（由……驱动的）→高功率驱动的，（职位）\n要求高的→大功率的；（人）身居要职的",
+      "phonetic": "ˌhaɪ.ˈpaʊ.ɚd",
+      "pos": "adj.",
+      "rootHint": "pos",
+      "word": "high-powered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "superior firepower：更胜一筹的火力",
         "unroll firepower：火力全开"
       ],
-      "definition" : "（军队、舰船等的）火力",
-      "examples" : [
+      "definition": "（军队、舰船等的）火力",
+      "examples": [
         "The company has enormous financial firepower.\n这家公司财力雄厚。"
       ],
-      "frequency" : 14795,
-      "mnemonic" : "fire（火）+ power（力量）→火力；比喻义实力",
-      "phonetic" : "ˈfaɪəpoʊr",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "firepower"
+      "frequency": 14795,
+      "mnemonic": "fire（火）+ power（力量）→火力；比喻义实力",
+      "phonetic": "ˈfaɪɹˌpaʊɚ",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "firepower"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a powered wheelchair：电动轮椅",
         "solar-powered calculator：太阳能电池计算器"
       ],
-      "definition" : "由……驱动的；电动的",
-      "examples" : [
-
-      ],
-      "frequency" : 16487,
-      "mnemonic" : "power（供应能量的来源）+ -ed（形容词后缀）→由……驱动的；电",
-      "phonetic" : "ˈpaʊɚd",
-      "pos" : "adj.",
-      "rootHint" : "pos",
-      "word" : "powered"
+      "definition": "由……驱动的；电动的",
+      "examples": [],
+      "frequency": 16487,
+      "mnemonic": "power（供应能量的来源）+ -ed（形容词后缀）→由……驱动的；电",
+      "phonetic": "ˈpaʊ.ɚd",
+      "pos": "adj.",
+      "rootHint": "pos",
+      "word": "powered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "apparent powerlessness：明显无力"
       ],
-      "definition" : "无能为力；无力感",
-      "examples" : [
-
-      ],
-      "frequency" : 19643,
-      "phonetic" : "ˈpaʊrlɪsnɪs",
-      "pos" : "n.",
-      "rootHint" : "pos",
-      "word" : "powerlessness"
+      "definition": "无能为力；无力感",
+      "examples": [],
+      "frequency": 19643,
+      "phonetic": "ˈpaʊ.ɚ.ləs.nəs",
+      "pos": "n.",
+      "rootHint": "pos",
+      "word": "powerlessness"
     }
   ]
 }

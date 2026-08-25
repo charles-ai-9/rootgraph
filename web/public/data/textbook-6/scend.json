@@ -1,98 +1,92 @@
 {
-  "chapter" : "33",
-  "chapterOrder" : 133,
-  "id" : "scend",
-  "meaningEn" : "to climb",
-  "meaningZh" : "爬；攀登等含义。",
-  "roots" : [
+  "chapter": "33",
+  "chapterOrder": 133,
+  "id": "scend",
+  "meaningEn": "to climb",
+  "meaningZh": "爬；攀登等含义。",
+  "roots": [
     "scend"
   ],
-  "semanticLabel" : "爬；攀登等含义。",
-  "source" : "textbook-6",
-  "titleZh" : "爬；攀登等含义。",
-  "words" : [
+  "semanticLabel": "爬；攀登等含义。",
+  "source": "textbook-6",
+  "titleZh": "爬；攀登等含义。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "of planets, constellations, “come over the horizon,” figuratively “to rise,",
         "in ascending order：按由低到高的顺序",
         "ascend the stairs：爬楼梯\n20000 词汇巅峰\n速\n记\n笔 记 区",
         "to ascend the throne (=become king or queen)：登基"
       ],
-      "definition" : "&vi. 上升；升高；登高",
-      "etymology" : "Late 14c., “move upward,” from Latin ascendere “to climb up, mount,” reach”. Meaning “slope upward” is from 1832.",
-      "examples" : [
+      "definition": "&vi. 上升；升高；登高",
+      "etymology": "Late 14c., “move upward,” from Latin ascendere “to climb up, mount,” reach”. Meaning “slope upward” is from 1832.",
+      "examples": [
         "Mist ascended from the valley.\n薄雾从山谷升起。"
       ],
-      "frequency" : 9743,
-      "mnemonic" : "a（=to）+ -scend（=climb：爬；攀登）→攀登；上升",
-      "phonetic" : "əˈsɛnd",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "ascend"
+      "frequency": 9743,
+      "mnemonic": "a（=to）+ -scend（=climb：爬；攀登）→攀登；上升",
+      "phonetic": "əˈsɛnd",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "ascend"
     },
     {
-      "collocations" : [
+      "collocations": [
         "ascent up the hill：上山",
         "a steep ascent to the top of the hill：直达山顶的陡坡\nman’s ascent to civilization：人类向文明的进化"
       ],
-      "definition" : "上升，登高；攀登；上坡，上坡路；提高，进步",
-      "examples" : [
-
-      ],
-      "frequency" : 10561,
-      "mnemonic" : "ascend：vt.&vi. 上升；登高→ascent：n. 上升；登高；攀登；进步",
-      "phonetic" : "əˈsɛnt",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "ascent"
+      "definition": "上升，登高；攀登；上坡，上坡路；提高，进步",
+      "examples": [],
+      "frequency": 10561,
+      "mnemonic": "ascend：vt.&vi. 上升；登高→ascent：n. 上升；登高；攀登；进步",
+      "phonetic": "əˈsɛnt",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "ascent"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "升（序）的",
-      "examples" : [
+      "collocations": [],
+      "definition": "升（序）的",
+      "examples": [
         "Now draw or trace ten dinosaurs in ascending order of size.\n现在按大小以升序画或描出10只恐龙。"
       ],
-      "frequency" : 15482,
-      "mnemonic" : "ascend（上升）+ -ing（形容词后缀）→升序的",
-      "phonetic" : "əˈsɛndɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "ascending"
+      "frequency": 15482,
+      "mnemonic": "ascend（上升）+ -ing（形容词后缀）→升序的",
+      "phonetic": "əˈsɛndɪŋ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "ascending"
     },
     {
-      "collocations" : [
+      "collocations": [
         "her ascension to the throne：她的登基",
         "the Ascension：耶稣升天"
       ],
-      "definition" : "上升；升高；登上；耶稣升天",
-      "examples" : [
-
-      ],
-      "frequency" : 18608,
-      "mnemonic" : "ascen（=ascend：上升；升高；登高）+ -sion（名词后缀）→上升；",
-      "phonetic" : "əˈsenʃn",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "ascension"
+      "definition": "上升；升高；登上；耶稣升天",
+      "examples": [],
+      "frequency": 18608,
+      "mnemonic": "ascen（=ascend：上升；升高；登高）+ -sion（名词后缀）→上升；",
+      "phonetic": "əˈsɛnʃən",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "ascension"
     },
     {
-      "collocations" : [
-        "moral\/political\/intellectual ascendancy：道德影响；政治支配地位；智"
+      "collocations": [
+        "moral/political/intellectual ascendancy：道德影响；政治支配地位；智"
       ],
-      "definition" : "支配地位；优势；影响（等于ascendency,",
-      "examples" : [
+      "definition": "支配地位；优势；影响（等于ascendency,",
+      "examples": [
         "The opposition party was in the ascendancy (= gaining control). 反对党已\n渐占优势。"
       ],
-      "mnemonic" : "ascend（上升）+ -ancy（-ant+ -cy）→优势、影响力上升→支配地",
-      "phonetic" : "əˈsendənsɪ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "ascendancy"
+      "mnemonic": "ascend（上升）+ -ancy（-ant+ -cy）→优势、影响力上升→支配地",
+      "phonetic": "əˈsɛndənsi",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "ascendancy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "descend on sb.：突然到访",
         "descend into：陷入",
         "rank in descending order：按递减顺序排列",
@@ -100,375 +94,343 @@
         "At this point the path descends steeply.\n小路从这里陡然而下。",
         "Night descends quickly in the tropics.\n热带地区黑夜来得快。\n笔 记 区"
       ],
-      "definition" : "&vi. 下来；下降 vi. 下斜；下倾 vi. 降临；来临",
-      "examples" : [
+      "definition": "&vi. 下来；下降 vi. 下斜；下倾 vi. 降临；来临",
+      "examples": [
         "The plane began to descend.\n飞机开始降落。"
       ],
-      "frequency" : 4046,
-      "mnemonic" : "de-（向下）+ -scend（=climb：爬；攀）→向下爬，延续→下降；下",
-      "phonetic" : "dɪˈsɛnd",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "descend"
+      "frequency": 4046,
+      "mnemonic": "de-（向下）+ -scend（=climb：爬；攀）→向下爬，延续→下降；下",
+      "phonetic": "dɪ.ˈsɛnd",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "descend"
     },
     {
-      "collocations" : [
+      "collocations": [
         "of African descent：非洲血统",
         "his swift descent to struggling small businessman：他迅速沦落为挣扎求\n存的小商人",
         "There is a gradual descent to the sea.\n有一片斜坡缓缓伸延到海边。"
       ],
-      "definition" : "下降；斜坡，下坡；沦落；血统，出身",
-      "examples" : [
+      "definition": "下降；斜坡，下坡；沦落；血统，出身",
+      "examples": [
         "The plane began its descent to Heathrow.\n飞机开始向希思罗机场降落。"
       ],
-      "frequency" : 5527,
-      "mnemonic" : "descend：vt.&vi. 下降；下斜→descent：n. 下降；斜坡；沦落；血统",
-      "phonetic" : "dɪˈsɛnt",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "descent"
+      "frequency": 5527,
+      "mnemonic": "descend：vt.&vi. 下降；下斜→descent：n. 下降；斜坡；沦落；血统",
+      "phonetic": "dɪ.ˈsɛnt",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "descent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "in descending order by weight：根据重量以降序排列"
       ],
-      "definition" : "递降的",
-      "examples" : [
-
-      ],
-      "frequency" : 14880,
-      "mnemonic" : "descend（下降）+ -ing（形容词后缀）→递降的",
-      "phonetic" : "dɪˈsɛndɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "descending"
+      "definition": "递降的",
+      "examples": [],
+      "frequency": 14880,
+      "mnemonic": "descend（下降）+ -ing（形容词后缀）→递降的",
+      "phonetic": "dɪ.ˈsɛn.dɪŋ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "descending"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a direct descendant of...：……的嫡系后裔"
       ],
-      "definition" : "后裔，后代；衍生物",
-      "examples" : [
-
-      ],
-      "frequency" : 6224,
-      "mnemonic" : "descend（下降）+ -ant（名词后缀，表人）→向下延续的人→后代，",
-      "phonetic" : "dɪˈsɛndənt",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "descendant"
+      "definition": "后裔，后代；衍生物",
+      "examples": [],
+      "frequency": 6224,
+      "mnemonic": "descend（下降）+ -ant（名词后缀，表人）→向下延续的人→后代，",
+      "phonetic": "dɪ.ˈsɛn.dənt",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "descendant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "issues like disaster relief that transcend party loyalty：诸如超越党派忠诚"
       ],
-      "definition" : "超出；超越（通常的界限）",
-      "examples" : [
-
-      ],
-      "frequency" : 6761,
-      "mnemonic" : "trans-（=across, beyond：横过；超过）+ -scend（攀爬（s因重复而\n略））→攀越过去，超出→超出；超越",
-      "phonetic" : "tɹæn(t)ˈsɛnd",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "transcend"
+      "definition": "超出；超越（通常的界限）",
+      "examples": [],
+      "frequency": 6761,
+      "mnemonic": "trans-（=across, beyond：横过；超过）+ -scend（攀爬（s因重复而\n略））→攀越过去，超出→超出；超越",
+      "phonetic": "tɹænˈsɛnd",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "transcend"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the idea of a transcendent God who stood apart from mankind：超越于人"
       ],
-      "definition" : "超越的；卓越的；杰出的",
-      "examples" : [
-
-      ],
-      "frequency" : 13478,
-      "mnemonic" : "transcend（超出；超越）+ -ent（形容词后缀）→引申词义超越的；",
-      "phonetic" : "tɹæn(t)ˈsɛndənt",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "transcendent"
+      "definition": "超越的；卓越的；杰出的",
+      "examples": [],
+      "frequency": 13478,
+      "mnemonic": "transcend（超出；超越）+ -ent（形容词后缀）→引申词义超越的；",
+      "phonetic": "tɹænˈsɛndənt",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "transcendent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a transcendental experience：超验的感受",
         "the transcendental nature of God：上帝的超验本质\n释义：（ADJ）超验的",
         "Transcendental refers to things that lie beyond the practical experience",
         "of ordinary people, and cannot be discovered or understood by ordinary\nreasoning."
       ],
-      "definition" : "（尤指宗教或精神方面）超验的，玄奥的",
-      "examples" : [
-
-      ],
-      "frequency" : 17237,
-      "mnemonic" : "transcendent（超越的）+ -al（形容词后缀）→超越理性理解范围的→",
-      "phonetic" : "ˌtɹænsɛnˈdɛntəl",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "transcendental"
+      "definition": "（尤指宗教或精神方面）超验的，玄奥的",
+      "examples": [],
+      "frequency": 17237,
+      "mnemonic": "transcendent（超越的）+ -al（形容词后缀）→超越理性理解范围的→",
+      "phonetic": "ˌtɹænsɛnˈdɛntəl",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "transcendental"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the transcendence of God：上帝的至高无上",
         "the transcendence of racial and religious differences：超越种族和宗教差异"
       ],
-      "definition" : "超越",
-      "examples" : [
-
-      ],
-      "frequency" : 14176,
-      "mnemonic" : "transcend（=transcendent：超越的）+ -ence（名词后缀）→超越",
-      "phonetic" : "tɹæn(t)ˈsɛndəns",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "transcendence"
+      "definition": "超越",
+      "examples": [],
+      "frequency": 14176,
+      "mnemonic": "transcend（=transcendent：超越的）+ -ence（名词后缀）→超越",
+      "phonetic": "tɹænˈsɛndəns",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "transcendence"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "表现出优越感的；居高临下的",
-      "examples" : [
+      "collocations": [],
+      "definition": "表现出优越感的；居高临下的",
+      "examples": [
         "He has a condescending attitude towards women.\n他对女性总是居高临下。\nI’m fed up with your money and your whole condescending attitude.\n我受够了你的钱和你整个高人一等的态度。"
       ],
-      "frequency" : 15946,
-      "mnemonic" : "con-（强调）+ descend（下降）+ -ing（形容词后缀）→即上面下来\n的→居高临下的；高人一等的",
-      "phonetic" : "ˌkɑndəˈsɛndɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "condescending"
+      "frequency": 15946,
+      "mnemonic": "con-（强调）+ descend（下降）+ -ing（形容词后缀）→即上面下来\n的→居高临下的；高人一等的",
+      "phonetic": "ˌkɑndɪˈsɛndɪŋ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "condescending"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Latin mergere “to dip, dip in, immerse, plunge,” probably rhotacized from",
         "also of Sanskrit majjanti “to sink, dive under,” Lithuanian mazgoju,",
         "mazgoti, Latvian mazgat “to wash”). 来自拉丁语mergere：浸入，浸没。\n来自原始印欧语词根mezg：浸入，浸没。词源同immerse，emerge，\n字母z被r音化。引申词义合并，融入等。",
-        "merge between\/of A and B\/merge with sth.：与……合并",
+        "merge between/of A and B/merge with sth.：与……合并",
         "merge into：融入；与……相融，融合；渐渐消失于……",
         "The hills merged into the dark sky behind them.\n山峦渐渐隐入背后漆黑的夜空之中。"
       ],
-      "definition" : "合并；融入",
-      "etymology" : "1630s, “to plunge or sink in” (to something), a sense now obsolete, from *mezgo, from PIE *mezgo- “to dip, to sink, to wash, to plunge” (source",
-      "examples" : [
+      "definition": "合并；融入",
+      "etymology": "1630s, “to plunge or sink in” (to something), a sense now obsolete, from *mezgo, from PIE *mezgo- “to dip, to sink, to wash, to plunge” (source",
+      "examples": [
         "The two countries merged into one.\n这两个国家合二为一了。"
       ],
-      "frequency" : 5435,
-      "mnemonic" : "merg-（沉入；浸入）+ -e→合并；融入\n邪解：merge：读音很像中文“没之” →吞没，淹没；消失，合并（合并即",
-      "phonetic" : "mɝdʒ",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "merge"
+      "frequency": 5435,
+      "mnemonic": "merg-（沉入；浸入）+ -e→合并；融入\n邪解：merge：读音很像中文“没之” →吞没，淹没；消失，合并（合并即",
+      "phonetic": "mɝdʒ",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "merge"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a merger between the two banks：两家银行的合并",
         "merger and acquisition：兼并与收购"
       ],
-      "definition" : "（机构或企业的）合并，归并；融合",
-      "examples" : [
-
-      ],
-      "frequency" : 5072,
-      "mnemonic" : "merger表“兼并，合并”源于“merge：吞没”（即：“吞没”其他\nmerg-（合并；融入）+ -er（名词后缀）→合并；兼并；融合",
-      "phonetic" : "ˈmɝdʒɚ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "merger"
+      "definition": "（机构或企业的）合并，归并；融合",
+      "examples": [],
+      "frequency": 5072,
+      "mnemonic": "merger表“兼并，合并”源于“merge：吞没”（即：“吞没”其他\nmerg-（合并；融入）+ -er（名词后缀）→合并；兼并；融合",
+      "phonetic": "ˈmɝdʒɚ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "merger"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "合并；融入",
-      "examples" : [
-
-      ],
-      "frequency" : 20127,
-      "mnemonic" : "merg-（合并；融入）+ -ing（名词后缀）→合并；融合；融入",
-      "phonetic" : "ˈmɝdʒɪŋ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "merging"
+      "collocations": [],
+      "definition": "合并；融入",
+      "examples": [],
+      "frequency": 20127,
+      "mnemonic": "merg-（合并；融入）+ -ing（名词后缀）→合并；融合；融入",
+      "phonetic": "ˈmɝdʒɪŋ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "merging"
     },
     {
-      "collocations" : [
+      "collocations": [
         "emerging market：新兴市场",
         "emerge from：自……出现；从……显露出来",
         "No new evidence emerged during the investigation.\n调查过程中未发现新证据（露出证据）。",
         "She emerged from the scandal with her reputation intact.\n丑闻过后，她安然无恙，名声丝毫未受影响。（（从困境或苦难经历\n中）幸存下来）"
       ],
-      "definition" : "（从隐蔽处或暗处）出现，浮现；暴露，露出真相；显现，显露；（从困境或苦难经历中）幸存下来，摆脱出来",
-      "examples" : [
+      "definition": "（从隐蔽处或暗处）出现，浮现；暴露，露出真相；显现，显露；（从困境或苦难经历中）幸存下来，摆脱出来",
+      "examples": [
         "The swimmer emerged from the lake.\n游泳者从湖水中浮出来。"
       ],
-      "frequency" : 1307,
-      "mnemonic" : "e-（=ex-=out：出现；出来）+ merge（沉入；浸没）→从沉没中出来\n→出现，浮现；暴露；显现；（从困境或苦难经历中）摆脱出来",
-      "phonetic" : "iˈmɝd͡ʒ",
-      "pos" : "vi.",
-      "rootHint" : "scend",
-      "word" : "emerge"
+      "frequency": 1307,
+      "mnemonic": "e-（=ex-=out：出现；出来）+ merge（沉入；浸没）→从沉没中出来\n→出现，浮现；暴露；显现；（从困境或苦难经历中）摆脱出来",
+      "phonetic": "ɪ.ˈmɝdʒ",
+      "pos": "vi.",
+      "rootHint": "scend",
+      "word": "emerge"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（在某处）又出现；重现",
-      "examples" : [
+      "collocations": [],
+      "definition": "（在某处）又出现；重现",
+      "examples": [
         "The cancer may re-emerge years later.\n癌症可能在多年之后复发（再出现）。"
       ],
-      "frequency" : 16122,
-      "mnemonic" : "re-（=again：再次）+ emerge（出现）→再次出现→重现",
-      "phonetic" : "ˌriː iˈmɝrdʒ",
-      "pos" : "vi.",
-      "rootHint" : "scend",
-      "word" : "re-emerge"
+      "frequency": 16122,
+      "mnemonic": "re-（=again：再次）+ emerge（出现）→再次出现→重现",
+      "phonetic": "ˌɹi.ɪˈmɝdʒ",
+      "pos": "vi.",
+      "rootHint": "scend",
+      "word": "re-emerge"
     },
     {
-      "collocations" : [
+      "collocations": [
         "emerging nations：新兴国家",
         "an emerging artist：渐渐显露头角的艺术家",
         "emerging technology：新兴科技\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "新兴的；渐渐显露头角的",
-      "examples" : [
-
-      ],
-      "frequency" : 4528,
-      "mnemonic" : "emerg（=emerge：出现；显露）+ -ing（形容词后缀）→正在出现\n的；渐渐显露实力的→新兴的；渐渐显露头角的",
-      "phonetic" : "ɪˈmɝdʒɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "emerging"
+      "definition": "新兴的；渐渐显露头角的",
+      "examples": [],
+      "frequency": 4528,
+      "mnemonic": "emerg（=emerge：出现；显露）+ -ing（形容词后缀）→正在出现\n的；渐渐显露实力的→新兴的；渐渐显露头角的",
+      "phonetic": "ɪ.ˈmɝ.dʒɪŋ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "emerging"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the island’s emergence from the sea 3 000 years ago：3 000年前这个岛",
         "the emergence of new technologies：新技术的出现\n笔 记 区"
       ],
-      "definition" : "出现；露出；兴起",
-      "examples" : [
-
-      ],
-      "frequency" : 5799,
-      "mnemonic" : "emerg（=emerge：出现；浮现；露出）+ -ence（名词后缀）→出现；",
-      "phonetic" : "ɪˈmɝdʒ(ə)ns",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "emergence"
+      "definition": "出现；露出；兴起",
+      "examples": [],
+      "frequency": 5799,
+      "mnemonic": "emerg（=emerge：出现；浮现；露出）+ -ence（名词后缀）→出现；",
+      "phonetic": "ɪ.ˈmɝ.dʒəns",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "emergence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "emergency-room：急诊室",
         "an emergency landing：紧急着陆",
         "emergency supplies：应急物资"
       ],
-      "definition" : "突发事件；紧急情况 adj. 紧急的；应急的",
-      "examples" : [
+      "definition": "突发事件；紧急情况 adj. 紧急的；应急的",
+      "examples": [
         "The government has declared a state of emergency following the\nearthquake.\n地震发生后政府已宣布进入紧急状态。"
       ],
-      "frequency" : 1738,
-      "mnemonic" : "emerge（出现；始料不及的情况）+ -ency（名词后缀）→突然出现的\n事情→紧急情况；紧急的，应急的",
-      "phonetic" : "ɪˈmɝ.dʒən.si",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "emergency"
+      "frequency": 1738,
+      "mnemonic": "emerge（出现；始料不及的情况）+ -ency（名词后缀）→突然出现的\n事情→紧急情况；紧急的，应急的",
+      "phonetic": "ɪ.ˈmɝ.dʒən.si",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "emergency"
     },
     {
-      "collocations" : [
-        "emergent nations\/states：新兴民族\/国家"
+      "collocations": [
+        "emergent nations/states：新兴民族/国家"
       ],
-      "definition" : "（国家、政治运动或社会团体）新兴的；处于发展初期的",
-      "examples" : [
-
-      ],
-      "frequency" : 14316,
-      "mnemonic" : "emerge（出现；露出）+ -ent（形容词后缀）→刚出现的→新兴的",
-      "phonetic" : "ɪ.ˈmɝ.dʒənt",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "emergent"
+      "definition": "（国家、政治运动或社会团体）新兴的；处于发展初期的",
+      "examples": [],
+      "frequency": 14316,
+      "mnemonic": "emerge（出现；露出）+ -ent（形容词后缀）→刚出现的→新兴的",
+      "phonetic": "ɪ.ˈmɝ.dʒənt",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "emergent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Doubts that had been submerged in her mind suddenly resurfaced. 她心里\n早已湮灭的疑团突然又浮现出来。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "&vi.（使）潜入水中，浸没，淹没；湮没，掩盖（思想、感情等）",
-      "examples" : [
+      "definition": "&vi.（使）潜入水中，浸没，淹没；湮没，掩盖（思想、感情等）",
+      "examples": [
         "The fields had been submerged by floodwater.\n农田被洪水淹没了。"
       ],
-      "frequency" : 11414,
-      "mnemonic" : "sub-（=sup-：向下）+ merge（沉没；浸入）→没下去→浸没；掩盖",
-      "phonetic" : "sʌbˈmɝdʒ",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "submerge"
+      "frequency": 11414,
+      "mnemonic": "sub-（=sup-：向下）+ merge（沉没；浸入）→没下去→浸没；掩盖",
+      "phonetic": "səbˈmɝdʒ",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "submerge"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "水面下的",
-      "examples" : [
+      "collocations": [],
+      "definition": "水面下的",
+      "examples": [
         "My right toe struck against a submerged rock.\n我的右脚趾撞到一块水面下的石头。"
       ],
-      "frequency" : 15564,
-      "mnemonic" : "sub-（向下）+ merge（没入）+ -ed（形容词后缀）→向下没入水中\n的→水面下的",
-      "phonetic" : "səbˈmɝdʒd",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "submerged"
+      "frequency": 15564,
+      "mnemonic": "sub-（向下）+ merge（没入）+ -ed（形容词后缀）→向下没入水中\n的→水面下的",
+      "phonetic": "səbˈmɝdʒd",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "submerged"
     },
     {
-      "collocations" : [
+      "collocations": [
         "immerse themselves in current affairs：埋头于时事",
-        "be immersed in：浸没在\/专心于"
+        "be immersed in：浸没在/专心于"
       ],
-      "definition" : "使浸没；使专心于",
-      "examples" : [
-
-      ],
-      "frequency" : 8258,
-      "mnemonic" : "im-（=in-：里面）+ mers-（=merg-：沉没）+ e→沉没到水里面→浸",
-      "phonetic" : "ɪˈmɝs",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "immerse"
+      "definition": "使浸没；使专心于",
+      "examples": [],
+      "frequency": 8258,
+      "mnemonic": "im-（=in-：里面）+ mers-（=merg-：沉没）+ e→沉没到水里面→浸",
+      "phonetic": "ɪˈmɝs",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "immerse"
     },
     {
-      "collocations" : [
+      "collocations": [
         "total immersion in their subjects：潜心钻研他们自己的课题",
         "by immersion.”"
       ],
-      "definition" : "浸泡，浸没；潜心钻研，沉浸",
-      "etymology" : "Old English dyppan “to plunge or immerse temporarily in water, to baptize",
-      "examples" : [
+      "definition": "浸泡，浸没；潜心钻研，沉浸",
+      "etymology": "Old English dyppan “to plunge or immerse temporarily in water, to baptize",
+      "examples": [
         "The wood had become swollen from prolonged immersion.\n这块木头由于长时间浸泡而变大了。\n单词 dip 有“蘸；下沉；突陷；下降”等含义。"
       ],
-      "frequency" : 12786,
-      "mnemonic" : "immerse（浸没；使专心于）+ -ion（名词后缀）→浸没；沉浸；潜心",
-      "phonetic" : "ɪˈmɝʒən",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "immersion"
+      "frequency": 12786,
+      "mnemonic": "immerse（浸没；使专心于）+ -ion（名词后缀）→浸没；沉浸；潜心",
+      "phonetic": "ɪˈmɝ.ʒən",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "immersion"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a quick dip of his toe into the water：他的脚趾头在水里快速的一蘸",
         "She dipped a hand into the jar of candies and pulled one out.\n她把手伸进糖罐里掏出一颗糖来。",
         "Unemployment dipped to 6.9 percent last month.\n上个月，失业率降到了6.9%。\n笔 记 区"
       ],
-      "definition" : "&vi.（将手）伸入 vt. 蘸 vi. 蘸；（突然）下沉；（土地、地段、道路等）突陷；（暂时）下降 n.（突然）下沉；（土地、地段、道路等）突陷；（暂时）下降",
-      "examples" : [
+      "definition": "&vi.（将手）伸入 vt. 蘸 vi. 蘸；（突然）下沉；（土地、地段、道路等）突陷；（暂时）下降 n.（突然）下沉；（土地、地段、道路等）突陷；（暂时）下降",
+      "examples": [
         "Dip each apple in the syrup.\n把每个苹果在糖浆里蘸一下。"
       ],
-      "frequency" : 4577,
-      "mnemonic" : "dip=immerse：浸入→伸入；蘸；突陷；下降",
-      "phonetic" : "dɪp",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "dip"
+      "frequency": 4577,
+      "mnemonic": "dip=immerse：浸入→伸入；蘸；突陷；下降",
+      "phonetic": "dɪp",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "dip"
     },
     {
-      "collocations" : [
+      "collocations": [
         "as measured from the top or surface, also figuratively, “profound, awful,",
         "mysterious; serious, solemn,” from Proto-Germanic *deupaz (source also",
         "of Old Saxon diop, Old Frisian diap, Dutch diep, Old High German tiof,",
@@ -476,206 +438,190 @@
         "a deep admiration for：深切的敬意",
         "fall into a deep sleep：睡熟",
         "deep in conversation：深谈\ndeep breath：深吸了一口气\ndeep voice：声音低沉的",
-        "deep inside somebody\/deep down：在内心深处",
+        "deep inside somebody/deep down：在内心深处",
         "deep in debt：深陷债务\ndeep blue：深蓝色",
         "go deep or run deep：非常严重",
         "His anger and anguish clearly went deep.\n很明显，他的愤怒和痛苦已根深蒂固。（非常严重）"
       ],
-      "definition" : "深的；纵深的；深切的；（睡）熟的；深入的；（指呼吸、叹息）深长的；低沉的；深陷的；深色的（颜色）",
-      "etymology" : "Old English deop “having considerable extension downward,” especially “deep”), from PIE root *dheub- “deep, hollow” (source also of Lithuanian dubus “deep, hollow,” Old Church Slavonic duno “bottom, foundation,” Welsh dwfn “deep,” Old Irish domun “world,” via sense development from “bottom” to “foundation” to “earth” to “world”).",
-      "examples" : [
+      "definition": "深的；纵深的；深切的；（睡）熟的；深入的；（指呼吸、叹息）深长的；低沉的；深陷的；深色的（颜色）",
+      "etymology": "Old English deop “having considerable extension downward,” especially “deep”), from PIE root *dheub- “deep, hollow” (source also of Lithuanian dubus “deep, hollow,” Old Church Slavonic duno “bottom, foundation,” Welsh dwfn “deep,” Old Irish domun “world,” via sense development from “bottom” to “foundation” to “earth” to “world”).",
+      "examples": [
         "The wardrobe was very deep.\n橱柜很深。"
       ],
-      "frequency" : 978,
-      "phonetic" : "diːp",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "deep"
+      "frequency": 978,
+      "phonetic": "dip",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "deep"
     },
     {
-      "collocations" : [
+      "collocations": [
         "dig deeply：挖得再深些",
         "love sb. deeply：深爱某人",
         "sleep deeply：睡得很熟\nsigh deeply：长长地叹了口气"
       ],
-      "definition" : "深地；深深地；（睡）熟地；（指呼吸、叹息）深长地；深入地；深陷地",
-      "examples" : [
-
-      ],
-      "frequency" : 2141,
-      "mnemonic" : "deep（深的；睡熟地；深陷的；深入的）+ -ly（副词后缀）→深地；",
-      "phonetic" : "ˈdiːpli",
-      "pos" : "adv.",
-      "rootHint" : "scend",
-      "word" : "deeply"
+      "definition": "深地；深深地；（睡）熟地；（指呼吸、叹息）深长地；深入地；深陷地",
+      "examples": [],
+      "frequency": 2141,
+      "mnemonic": "deep（深的；睡熟地；深陷的；深入的）+ -ly（副词后缀）→深地；",
+      "phonetic": "ˈdip.li",
+      "pos": "adv.",
+      "rootHint": "scend",
+      "word": "deeply"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the deepest emotion：最深沉的感情"
       ],
-      "definition" : "最深的",
-      "examples" : [
-
-      ],
-      "frequency" : 7189,
-      "mnemonic" : "deep（深的）+ -est（形容词最高级）→最深的",
-      "phonetic" : "ˈdiːpɪst",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "deepest"
+      "definition": "最深的",
+      "examples": [],
+      "frequency": 7189,
+      "mnemonic": "deep（深的）+ -est（形容词最高级）→最深的",
+      "phonetic": "ˈdi.pɪst",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "deepest"
     },
     {
-      "collocations" : [
+      "collocations": [
         "deepen understanding：加深了解",
         "Their friendship soon deepened into love.\n他们的友谊很快发展成为爱情。",
         "The water deepened gradually.\n水渐渐变深了。"
       ],
-      "definition" : "&vi. 使加剧；加剧；使变低沉 vt. 使加深；加深",
-      "examples" : [
+      "definition": "&vi. 使加剧；加剧；使变低沉 vt. 使加深；加深",
+      "examples": [
         "If this is not stopped, the financial crisis will deepen.\n如果不加以阻止，金融危机将加剧。"
       ],
-      "frequency" : 6832,
-      "mnemonic" : "deep（深的）+ -en（使动词后缀）→使加深；使加剧",
-      "phonetic" : "ˈdiːpən",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "deepen"
+      "frequency": 6832,
+      "mnemonic": "deep（深的）+ -en（使动词后缀）→使加深；使加剧",
+      "phonetic": "ˈdi.pən",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "deepen"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a deepening economic recession：越来越严重的经济衰退"
       ],
-      "definition" : "&vi.&adj. 越来越加深（的）；加剧（的）；变低沉（的）",
-      "examples" : [
-
-      ],
-      "frequency" : 14514,
-      "mnemonic" : "deepen（使加深；使加剧；使变低沉）+ -ing（形容词后缀）→越来",
-      "phonetic" : "ˈdiːpəniŋ",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "deepening"
+      "definition": "&vi.&adj. 越来越加深（的）；加剧（的）；变低沉（的）",
+      "examples": [],
+      "frequency": 14514,
+      "mnemonic": "deepen（使加深；使加剧；使变低沉）+ -ing（形容词后缀）→越来",
+      "phonetic": "ˈdi.pə.nɪŋ",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "deepening"
     },
     {
-      "collocations" : [
+      "collocations": [
         "deep-sea diving：深海潜水",
         "a deep-sea fisherman：一个深海渔夫\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "深海的19523",
-      "examples" : [
-
-      ],
-      "mnemonic" : "deep（深的）+ sea（海）→深海的",
-      "phonetic" : "ˈdiːpˈsiː",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "deep-sea"
+      "definition": "深海的19523",
+      "examples": [],
+      "mnemonic": "deep（深的）+ sea（海）→深海的",
+      "phonetic": "ˌdip.ˈsi",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "deep-sea"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a deep-rooted desire：强烈的愿望"
       ],
-      "definition" : "根深蒂固的；强烈的；坚定的",
-      "examples" : [
+      "definition": "根深蒂固的；强烈的；坚定的",
+      "examples": [
         "The country’s political divisions are deep-seated.\n这个国家的政治分歧根深蒂固。"
       ],
-      "frequency" : 18505,
-      "mnemonic" : "deep（深的）+ seated（落座的；固定的）→深深固定住的→根深蒂\n近义词：deep-rooted：深深扎根的→根深蒂固的",
-      "phonetic" : "ˈdiːpˈsiːtid",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "deep-seated"
+      "frequency": 18505,
+      "mnemonic": "deep（深的）+ seated（落座的；固定的）→深深固定住的→根深蒂\n近义词：deep-rooted：深深扎根的→根深蒂固的",
+      "phonetic": "ˈdip.ˌsi.tɪd",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "deep-seated"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the depth of the crisis：危机的严重程度",
         "the depth of her knowledge：她知识的渊博",
         "the depths of the countryside：乡村深处",
         "in the depths of an unpleasant emotion：(不快情绪的) 深重\nout of one’s depth：在没顶的水中；力所不及",
         "clearly intellectually out of his depth：显然在智能上有所不及"
       ],
-      "definition" : "深度；厚度；（感情的）深厚；强烈程度；（知识的）渊博；（指远离表面）深处；（指距地区边缘）深处",
-      "examples" : [
-
-      ],
-      "frequency" : 2579,
-      "mnemonic" : "deep（深的）+ -th（名词后缀）→深度；厚度；强烈程度；深度；渊",
-      "phonetic" : "dɛpθ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "depth"
+      "definition": "深度；厚度；（感情的）深厚；强烈程度；（知识的）渊博；（指远离表面）深处；（指距地区边缘）深处",
+      "examples": [],
+      "frequency": 2579,
+      "mnemonic": "deep（深的）+ -th（名词后缀）→深度；厚度；强烈程度；深度；渊",
+      "phonetic": "dɛpθ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "depth"
     },
     {
-      "collocations" : [
-        "an in-depth discussion\/study：深入彻底的讨论\/研究",
+      "collocations": [
+        "an in-depth discussion/study：深入彻底的讨论/研究",
         "an in-depth look：一种深度观察",
         "in-depth interview：深入访谈"
       ],
-      "definition" : "深入彻底的；详尽的；全面透彻的",
-      "examples" : [
-
-      ],
-      "frequency" : 9073,
-      "mnemonic" : "in-（进入）+ depth（深度；深处）→进入深处的→深入彻底的；全",
-      "phonetic" : "ˌɪn ˈdepθ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "in-depth"
+      "definition": "深入彻底的；详尽的；全面透彻的",
+      "examples": [],
+      "frequency": 9073,
+      "mnemonic": "in-（进入）+ depth（深度；深处）→进入深处的→深入彻底的；全",
+      "phonetic": "ˈɪnˌdɛpθ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "in-depth"
     },
     {
-      "collocations" : [
+      "collocations": [
         "dive来自语根*d(e)ub-，是前者的变体。三者在词义和读音上都有紧\n密联系。“浸水”和“潜水”都是进入水的“深处”，而dive的发音\n更重，所以进得更深（注意v、p音变关系）。",
         "dive into a river：跳入河中",
         "make a dive：跳水",
         "dive into a taxi：冲进了出租车\ndive from... to：从……骤跌至……",
         "dive for a fish：俯冲捕鱼"
       ],
-      "definition" : "跳水；潜水；（鸟等动物）俯冲；冲向；（股票、利润、数字等）突然暴跌 n. 跳水；潜水；冲，扑；（股票、利润、数字等）骤降",
-      "etymology" : "deep（深处）和dip（浸，蘸）来自日耳曼语根*d(e)up-（深的）， 20000 词汇巅峰 速 记 笔 记 区",
-      "examples" : [
+      "definition": "跳水；潜水；（鸟等动物）俯冲；冲向；（股票、利润、数字等）突然暴跌 n. 跳水；潜水；冲，扑；（股票、利润、数字等）骤降",
+      "etymology": "deep（深处）和dip（浸，蘸）来自日耳曼语根*d(e)up-（深的）， 20000 词汇巅峰 速 记 笔 记 区",
+      "examples": [
         "Stock prices took a dive.\n股票价格暴跌。"
       ],
-      "frequency" : 5184,
-      "phonetic" : "ˈdaɪv",
-      "pos" : "vi.",
-      "rootHint" : "scend",
-      "word" : "dive"
+      "frequency": 5184,
+      "phonetic": "daɪv",
+      "pos": "vi.",
+      "rootHint": "scend",
+      "word": "dive"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a deep-sea diver：深海潜水员",
         "scuba diver：戴水肺的潜水员"
       ],
-      "definition" : "潜水员；一种海鸟",
-      "examples" : [
-
-      ],
-      "frequency" : 8399,
-      "mnemonic" : "dive（潜水）+ -r（表人）→潜水的人→潜水员",
-      "phonetic" : "ˈdaɪ̯vəɹ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "diver"
+      "definition": "潜水员；一种海鸟",
+      "examples": [],
+      "frequency": 8399,
+      "mnemonic": "dive（潜水）+ -r（表人）→潜水的人→潜水员",
+      "phonetic": "ˈdaɪ.vɚ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "diver"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a diving competition：跳水比赛",
         "go diving：去潜水",
         "a diving suit：潜水服"
       ],
-      "definition" : "跳水；跳水运动；（戴呼吸装备的）潜水",
-      "examples" : [
-
-      ],
-      "frequency" : 12882,
-      "mnemonic" : "div-（=diving：跳水；潜水）+ -ing（名词后缀）→跳水；潜水",
-      "phonetic" : "ˈdaɪvɪŋ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "diving"
+      "definition": "跳水；跳水运动；（戴呼吸装备的）潜水",
+      "examples": [],
+      "frequency": 12882,
+      "mnemonic": "div-（=diving：跳水；潜水）+ -ing（名词后缀）→跳水；潜水",
+      "phonetic": "ˈdaɪ.vɪŋ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "diving"
     },
     {
-      "collocations" : [
+      "collocations": [
         "(past tense sanc, past participle suncen), from Proto-Germanic *senkwan",
         "(source also of Old Saxon sinkan, Old Norse sökkva, Middle Dutch sinken,",
         "Dutch zinken, Old High German sinkan, German sinken, Gothic sigqan),\n20000 词汇巅峰\n速\n记",
@@ -691,51 +637,49 @@
         "the misery of life in sink estates：贫民窟里的悲惨生活",
         "The sun was sinking in the west.\n太阳西坠。\n笔 记 区"
       ],
-      "definition" : "下沉；下陷；沉没；坐下；降低 vt. 使下沉，使沉没n.（厨房里的）洗涤池，洗碗槽 adj. 位于社会条件差的贫穷地区的；贫民窟的",
-      "etymology" : "Old English sincan (intransitive) “become submerged, go under, subside”",
-      "examples" : [
+      "definition": "下沉；下陷；沉没；坐下；降低 vt. 使下沉，使沉没n.（厨房里的）洗涤池，洗碗槽 adj. 位于社会条件差的贫穷地区的；贫民窟的",
+      "etymology": "Old English sincan (intransitive) “become submerged, go under, subside”",
+      "examples": [
         "The ship sank to the bottom of the sea.\n船沉入海底。"
       ],
-      "frequency" : 2834,
-      "phonetic" : "sɪŋk",
-      "pos" : "vi.",
-      "rootHint" : "scend",
-      "word" : "sink"
+      "frequency": 2834,
+      "phonetic": "sɪŋk",
+      "pos": "vi.",
+      "rootHint": "scend",
+      "word": "sink"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a sinking feeling：沮丧的情绪",
         "a sinking ship：正在下沉的船"
       ],
-      "definition" : "颓丧的；沮丧的；正在下沉的",
-      "examples" : [
-
-      ],
-      "frequency" : 11951,
-      "mnemonic" : "sink（下沉）+ -ing（形容词后缀）→（情绪、物体等）下沉的→沮",
-      "phonetic" : "ˈsɪŋkɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "sinking"
+      "definition": "颓丧的；沮丧的；正在下沉的",
+      "examples": [],
+      "frequency": 11951,
+      "mnemonic": "sink（下沉）+ -ing（形容词后缀）→（情绪、物体等）下沉的→沮",
+      "phonetic": "ˈsɪŋkɪŋ",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "sinking"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a sunken ship：沉船",
         "a sunken garden：低地花园"
       ],
-      "definition" : "沉没的，沉入水底的；（眼睛或面颊）凹陷的，深陷的（尤因疾病、年老或饥饿）；低于周围平面的，低洼处的",
-      "examples" : [
+      "definition": "沉没的，沉入水底的；（眼睛或面颊）凹陷的，深陷的（尤因疾病、年老或饥饿）；低于周围平面的，低洼处的",
+      "examples": [
         "Her eyes were sunken and black-ringed.\n她的双眼凹陷且有黑眼圈。"
       ],
-      "frequency" : 12627,
-      "mnemonic" : "sunk（沉没；下陷，sink的过去分词）+ -en（形容词后缀）→沉没",
-      "phonetic" : "ˈsʌŋkən",
-      "pos" : "adj.",
-      "rootHint" : "scend",
-      "word" : "sunken"
+      "frequency": 12627,
+      "mnemonic": "sunk（沉没；下陷，sink的过去分词）+ -en（形容词后缀）→沉没",
+      "phonetic": "ˈsʌŋ.kən",
+      "pos": "adj.",
+      "rootHint": "scend",
+      "word": "sunken"
     },
     {
-      "collocations" : [
+      "collocations": [
         "French plongier “plunge, sink into; plunge into, dive in” (mid-12c.,",
         "Modern French plonger), from Vulgar Latin *plumbicare “to heave\nthe lead,” from Latin plumbum “lead”. Original notion perhaps is of a",
         "sounding lead or a fishing net weighted with lead. Related: Plunged;\nplunging. Plunging neckline attested from 1949.",
@@ -748,82 +692,78 @@
         "The track plunged down into the valley.\n小路陡然而下，直插山谷。",
         "His heart plunged (= because of a strong emotion).\n他的心怦怦乱跳。"
       ],
-      "definition" : "&vi. 使突然前冲（或下落） vi. 暴跌，骤降，突降；（道路、表面等）陡峭地向下倾斜；（剧烈）颠簸，震荡",
-      "etymology" : "Late 14c., “to put or thrust violently into,” also intransitive, from Old",
-      "examples" : [
+      "definition": "&vi. 使突然前冲（或下落） vi. 暴跌，骤降，突降；（道路、表面等）陡峭地向下倾斜；（剧烈）颠簸，震荡",
+      "etymology": "Late 14c., “to put or thrust violently into,” also intransitive, from Old",
+      "examples": [
         "The earthquake plunged entire towns over the edge of the cliffs.\n地震将整座的城镇掀到悬崖之下。"
       ],
-      "frequency" : 4664,
-      "phonetic" : "plʌndʒ",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "plunge"
+      "frequency": 4664,
+      "phonetic": "plʌndʒ",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "plunge"
     },
     {
-      "collocations" : [
+      "collocations": [
         "plumb line指“铅垂线”，用以量度水深或检测墙壁是否垂直，而",
         "plumb则是悬挂于细线上的“铅垂”。另外，由于plumb line完全或绝\n对地与水平面相垂直，所以plumb作副词用时就被赋予“完全地”、\n“绝对地”、“恰恰”等义，常用于plumb mad，plumb crazy，plumb",
         "tired这些口头用语中。短语out of plumb或off plumb用以表示“不垂直\n的”。plumb还常用作动词，表示“探测”、“查明”，这一用法显\n然出自于plumb的探测功能。",
         "plumb the depths of sth.：陷入（痛苦等的）深渊；深入……深处"
       ],
-      "definition" : "探索；钻研；探究 adv. 恰恰，正好；完全，彻底",
-      "etymology" : "在古罗马，人们将铅块投入水中，以探测水深，铅块的落水声似 “plumbum”，人们据此造出拉丁词plumbum（铅），所以铅的化学 符号为Pb，是其缩写。Plumb就来自拉丁语plumbum，铅，铅球，后 用于指测量垂直度的铅球，铅锤，引申词义探索，钻研。",
-      "examples" : [
+      "definition": "探索；钻研；探究 adv. 恰恰，正好；完全，彻底",
+      "etymology": "在古罗马，人们将铅块投入水中，以探测水深，铅块的落水声似 “plumbum”，人们据此造出拉丁词plumbum（铅），所以铅的化学 符号为Pb，是其缩写。Plumb就来自拉丁语plumbum，铅，铅球，后 用于指测量垂直度的铅球，铅锤，引申词义探索，钻研。",
+      "examples": [
         "She spent her life plumbing the mysteries of the human psyche.\n她毕生探索人类心灵的奥秘。\nHe’s plumb crazy.\n他彻底疯了。"
       ],
-      "frequency" : 20056,
-      "phonetic" : "plʌm",
-      "pos" : "vt.",
-      "rootHint" : "scend",
-      "word" : "plumb"
+      "frequency": 20056,
+      "phonetic": "plʌm",
+      "pos": "vt.",
+      "rootHint": "scend",
+      "word": "plumb"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "水暖工；管道工；铅管工",
-      "etymology" : "在古罗马时期，人们广泛使用铅来制作水管。古罗马人的冶金技术已 经相当发达。在冶炼白银的过程中，他们得到了副产品铅。古罗马人 发现金属铅具有很好的特性，用铅制成的日常器皿能保持持久光亮， 不会像铜器那样产生绿绣；在葡萄酒中加入铅粉不仅能去除葡萄的酸 味，还能使酒味更加醇厚；用铅粉做成的化妆品能够让妇女的皮肤更 白。因此，古罗马人的贵族广泛使用铅制品，例如，他们把铅条夹在 木棍中用于书写，这就是“铅笔”一词的由来。古罗马人还使用铅做 成水管，构建了四通八达的地下管道。这些管道中含有的金属铅逐步 溶解之水中，被喝进罗马人的身体内，甚至是孕妇的体内。就这样， 一代又一代的罗马人都受到了严重的铅中毒。很多科学家认为，铅 中毒是古罗马帝国破落的重要原因之一。在拉丁语中，plumbum表示 “铅”，由此衍生出英语单词plumb（铅）。由于古罗马的上下水管 道都是用铅制成的，因此安装、维修这些管道的工人在英语中就被称 为plumber（铅制品工人）了。",
-      "examples" : [
-
-      ],
-      "frequency" : 12321,
-      "mnemonic" : "plumb（铅）+ -er（表示人）→管道工（过去自来水管多是铅管）",
-      "phonetic" : "ˈplʌmə",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "plumber"
+      "collocations": [],
+      "definition": "水暖工；管道工；铅管工",
+      "etymology": "在古罗马时期，人们广泛使用铅来制作水管。古罗马人的冶金技术已 经相当发达。在冶炼白银的过程中，他们得到了副产品铅。古罗马人 发现金属铅具有很好的特性，用铅制成的日常器皿能保持持久光亮， 不会像铜器那样产生绿绣；在葡萄酒中加入铅粉不仅能去除葡萄的酸 味，还能使酒味更加醇厚；用铅粉做成的化妆品能够让妇女的皮肤更 白。因此，古罗马人的贵族广泛使用铅制品，例如，他们把铅条夹在 木棍中用于书写，这就是“铅笔”一词的由来。古罗马人还使用铅做 成水管，构建了四通八达的地下管道。这些管道中含有的金属铅逐步 溶解之水中，被喝进罗马人的身体内，甚至是孕妇的体内。就这样， 一代又一代的罗马人都受到了严重的铅中毒。很多科学家认为，铅 中毒是古罗马帝国破落的重要原因之一。在拉丁语中，plumbum表示 “铅”，由此衍生出英语单词plumb（铅）。由于古罗马的上下水管 道都是用铅制成的，因此安装、维修这些管道的工人在英语中就被称 为plumber（铅制品工人）了。",
+      "examples": [],
+      "frequency": 12321,
+      "mnemonic": "plumb（铅）+ -er（表示人）→管道工（过去自来水管多是铅管）",
+      "phonetic": "ˈplʌ.mɚ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "plumber"
     },
     {
-      "collocations" : [
+      "collocations": [
         "plumbing system：管道系统；水暖设备系统"
       ],
-      "definition" : "（建筑物的）管道系统；水暖设备；管道工程",
-      "examples" : [
+      "definition": "（建筑物的）管道系统；水暖设备；管道工程",
+      "examples": [
         "She learned the rudiments of bricklaying, wiring, and plumbing.\n她学过一些砌砖、布线和管道工程的基本技术。"
       ],
-      "frequency" : 9051,
-      "mnemonic" : "plumb（铅）+ -ing（集合名词后缀）→过去自来水管多为铅管→引申",
-      "phonetic" : "ˈplʌmɪŋ",
-      "pos" : "n.",
-      "rootHint" : "scend",
-      "word" : "plumbing"
+      "frequency": 9051,
+      "mnemonic": "plumb（铅）+ -ing（集合名词后缀）→过去自来水管多为铅管→引申",
+      "phonetic": "ˈplʌ.mɪŋ",
+      "pos": "n.",
+      "rootHint": "scend",
+      "word": "plumbing"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Her spirits plummeted at the thought of meeting him again.\n一想到又要见到他，她的心情便直往下沉。",
         "The jet plummeted into a row of houses.\n那架喷气式飞机一头栽进一排房子里。\n近义词：plunge：暴跌；骤降；突降"
       ],
-      "definition" : "暴跌；速降",
-      "etymology" : "来自古法语plomet，含义为“铅，测探铅锤”，来自plom,“测探铅 20000 词汇巅峰 速 记 笔 记 区 垂”的小词形式。铅球，词源同plumb。",
-      "examples" : [
+      "definition": "暴跌；速降",
+      "etymology": "来自古法语plomet，含义为“铅，测探铅锤”，来自plom,“测探铅 20000 词汇巅峰 速 记 笔 记 区 垂”的小词形式。铅球，词源同plumb。",
+      "examples": [
         "Share prices plummeted to an all-time low.\n股票价格暴跌到历史最低点。"
       ],
-      "frequency" : 7830,
-      "mnemonic" : "plum（=plom：铅，双写m）+ -et（名词后缀）→铅垂或铅垂线→引\n申义为“骤然跌落”或“垂直落下”→暴跌；速降",
-      "phonetic" : "ˈplʌm.ət",
-      "pos" : "vi.",
-      "rootHint" : "scend",
-      "word" : "plummet"
+      "frequency": 7830,
+      "mnemonic": "plum（=plom：铅，双写m）+ -et（名词后缀）→铅垂或铅垂线→引\n申义为“骤然跌落”或“垂直落下”→暴跌；速降",
+      "phonetic": "ˈplʌ.mɪt",
+      "pos": "vi.",
+      "rootHint": "scend",
+      "word": "plummet"
     }
   ]
 }

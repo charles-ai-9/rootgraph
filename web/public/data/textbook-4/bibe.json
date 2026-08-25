@@ -13,7 +13,7 @@
   "words": [
     {
       "word": "bipolar",
-      "phonetic": "ˌbaɪˈpoʊlər",
+      "phonetic": "baɪˈpoʊ.lɚ",
       "pos": "adj.",
       "definition": "完全对立的",
       "frequency": 10872,
@@ -24,7 +24,7 @@
     },
     {
       "word": "binocular",
-      "phonetic": "bɪˈnɑkjʊlə(ɹ)",
+      "phonetic": "baɪˈnɑ.kjə.lɚ",
       "pos": "adj.",
       "definition": "双目并用的；双眼的",
       "frequency": 7757,
@@ -39,7 +39,7 @@
     },
     {
       "word": "bipartisan",
-      "phonetic": "baɪˈpɑɹt.ə.sən",
+      "phonetic": "baɪˈpɑɹ.tɪ.zən",
       "definition": "两党的；两派的",
       "frequency": 6743,
       "mnemonic": "bi- ( 两个)+parti-(=party: 党派)+-san ( 名词后缀，表人) →两个 党派的人→两党的；两派的",
@@ -51,7 +51,7 @@
     },
     {
       "word": "bipartisanship",
-      "phonetic": "ˈbaɪˌpɑ(ɹ)t.ɪ.zæn.ʃɪp",
+      "phonetic": "baɪˈpɑɹ.tɪ.zən.ʃɪp",
       "pos": "n.",
       "definition": "两党合作；两党制",
       "frequency": 19832,
@@ -105,7 +105,7 @@
     },
     {
       "word": "combination",
-      "phonetic": "kɑmbɪˈneɪʃən",
+      "phonetic": "ˌkɑmbəˈneɪʃən",
       "pos": "n.",
       "definition": "结合；联合[+of]; 混合物；(密码锁的) 号码组合",
       "frequency": 1822,
@@ -118,7 +118,7 @@
     },
     {
       "word": "balance",
-      "phonetic": "ˈbæləns",
+      "phonetic": "ˈbæ.ləns",
       "pos": "n.",
       "definition": "平衡；均衡[+between][+of]; 余额；等量 vt.&vi. (使)保持平衡；使〔重要性、数量、价值或影响〕相抵 vt.权衡；斟 酌[+against]; 结平(账目)1640",
       "mnemonic": "bi- ( 两个)+ -lan-(=dish,plate: 秤盘)+-ce ( 名词后缀) → 两个秤 盘构成天平→平衡；均衡；使平衡；使相抵；权衡→在财务上，引申 义为余额(财务平衡表的差值)",
@@ -138,7 +138,7 @@
     },
     {
       "word": "balanced",
-      "phonetic": "ˈbælənst",
+      "phonetic": "ˈbæ.lənst",
       "pos": "adj.",
       "definition": "全面公正的；均衡的；沉着冷静的",
       "frequency": 4942,
@@ -150,7 +150,7 @@
     },
     {
       "word": "balancing",
-      "phonetic": "ˈbælənsɪŋ",
+      "phonetic": "ˈbæ.lən.sɪŋ",
       "pos": "adj.",
       "definition": "平衡的",
       "frequency": 11783,
@@ -162,7 +162,7 @@
     },
     {
       "word": "imbalance",
-      "phonetic": "ɪmˈbæləns",
+      "phonetic": "ɪmˈbæ.ləns",
       "pos": "n.",
       "definition": "不平衡；失调[+in][+between]8287",
       "collocations": [
@@ -173,7 +173,7 @@
     },
     {
       "word": "unbalanced",
-      "phonetic": "ˌʌnˈbælənst",
+      "phonetic": "ʌnˈbælənst",
       "pos": "adj.",
       "definition": "精神有些失常的；〔报告、论点等〕有失公允 的；片面的",
       "frequency": 17662,
@@ -199,7 +199,7 @@
     },
     {
       "word": "biscuit",
-      "phonetic": "ˈbɪskɪt",
+      "phonetic": "ˈbɪs.kɪt",
       "pos": "n.",
       "definition": "烘烤两次的干面包；小圆饼(干)8222",
       "collocations": [
@@ -214,7 +214,7 @@
     },
     {
       "word": "precocious",
-      "phonetic": "pɹəˈkoʊʃəs",
+      "phonetic": "pɹɪˈkoʊ.ʃəs",
       "pos": "adj.",
       "definition": "早熟的；智慧超前的",
       "frequency": 16035,
@@ -233,7 +233,7 @@
     },
     {
       "word": "cookbook",
-      "phonetic": "ˈkʊkˌbʊk",
+      "phonetic": "ˈkʊk.bʊk",
       "pos": "n.",
       "definition": "烹饪书；烹饪菜谱",
       "frequency": 8296,
@@ -256,7 +256,7 @@
     },
     {
       "word": "cooker",
-      "phonetic": "ˈkʊkə",
+      "phonetic": "ˈkʊk.ɚ",
       "pos": "n.",
       "definition": "( 带烤箱、燃气炉或电炉的)厨灶，炉具",
       "frequency": 14139,
@@ -269,7 +269,7 @@
     },
     {
       "word": "cookie",
-      "phonetic": "ˈkuːki",
+      "phonetic": "ˈkʊ.ki",
       "pos": "n.",
       "definition": "n. 小甜饼干",
       "frequency": 3297,
@@ -296,7 +296,7 @@
     },
     {
       "word": "uncooked",
-      "phonetic": "ˌʌnˈkʊkt",
+      "phonetic": "ʌnˈkʊkt",
       "pos": "adj.",
       "definition": "未烹煮的；(食物)生的",
       "frequency": 18180,
@@ -308,7 +308,7 @@
     },
     {
       "word": "concoct",
-      "phonetic": "kəŋˈkɑkt",
+      "phonetic": "kənˈkɑkt",
       "pos": "vt.",
       "definition": "虚构，杜撰(故事、借口等);调制(尤指食物或饮料)12756",
       "mnemonic": "com-(=together : 一 起)+ coct-(=to cook,prepare food,ripen: 烹 调；准备食物；使成熟) →to boil together,prepare: 放在一起煎煮的 →调制食物→ 引申义为编造借口等",
@@ -321,7 +321,7 @@
     },
     {
       "word": "concoction",
-      "phonetic": "kənˈkɑkʃɪn",
+      "phonetic": "kənˈkɑkʃən",
       "pos": "n.",
       "definition": "( 古怪或少见的)调合物，调配品(尤指饮料或 药物)14962",
       "collocations": [
@@ -332,7 +332,7 @@
     },
     {
       "word": "cuisine",
-      "phonetic": "kwɪˈziːn",
+      "phonetic": "kwɪˈzin",
       "pos": "n.",
       "definition": "烹饪；风味；(通常指昂贵的饭店中的)饭菜，菜肴",
       "frequency": 6498,
@@ -345,7 +345,7 @@
     },
     {
       "word": "culinary",
-      "phonetic": "ˈkʌlɪn(ə)ɹi",
+      "phonetic": "ˈkʌl.ə.nɛɹ.i",
       "pos": "adj.",
       "definition": "烹调的；食物的",
       "frequency": 7907,
@@ -360,7 +360,7 @@
     },
     {
       "word": "kiln",
-      "phonetic": "kɪl(n)",
+      "phonetic": "kɪln",
       "pos": "vt.",
       "definition": "( 砖 ，石灰等的)窑；炉；干燥炉",
       "frequency": 16904,
@@ -374,7 +374,7 @@
     },
     {
       "word": "kitchen",
-      "phonetic": "ˈkɪt͡ʃən",
+      "phonetic": "ˈkɪtʃ.ən",
       "pos": "n.",
       "definition": "厨房",
       "frequency": 1055,
@@ -389,7 +389,7 @@
     },
     {
       "word": "pumpkin",
-      "phonetic": "ˈpʌmpkɪn",
+      "phonetic": "ˈpʌmp.kɪn",
       "pos": "n.",
       "definition": "n. 南瓜",
       "frequency": 6231,
@@ -404,7 +404,7 @@
     },
     {
       "word": "ricotta",
-      "phonetic": "ɹəˈkɑtə",
+      "phonetic": "ɹɪ.ˈkɑ.tə",
       "pos": "n.",
       "definition": "羊奶乳清干酪",
       "frequency": 17985,
@@ -415,7 +415,7 @@
     },
     {
       "word": "terra-cotta",
-      "phonetic": "ˌterəˈkɑtə",
+      "phonetic": "ˌtɛ.ɹəˈkɑ.tə",
       "pos": "n.",
       "definition": "赤陶",
       "frequency": 15904,

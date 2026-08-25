@@ -1,217 +1,199 @@
 {
-  "chapter" : "11",
-  "chapterOrder" : 111,
-  "id" : "sequ-也",
-  "meaningEn" : "follow",
-  "meaningZh" : "跟随的含义。",
-  "roots" : [
+  "chapter": "11",
+  "chapterOrder": 111,
+  "id": "sequ-也",
+  "meaningEn": "follow",
+  "meaningZh": "跟随的含义。",
+  "roots": [
     "sequ 也"
   ],
-  "semanticLabel" : "跟随的含义。",
-  "source" : "textbook-5",
-  "titleZh" : "跟随的含义。",
-  "words" : [
+  "semanticLabel": "跟随的含义。",
+  "source": "textbook-5",
+  "titleZh": "跟随的含义。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "religious sect：宗教派别"
       ],
-      "definition" : "（有某种宗教或政治信仰的）派系",
-      "examples" : [
-
-      ],
-      "frequency" : 10464,
-      "mnemonic" : "来源于拉丁语中动词sequi（跟随）的过去分词派生的secta（追随者\n→派系）。-sequ-：跟随→sect：派系（追随者的群体）",
-      "phonetic" : "sɛkt",
-      "pos" : "n.",
-      "rootHint" : "sequ 也",
-      "word" : "sect"
+      "definition": "（有某种宗教或政治信仰的）派系",
+      "examples": [],
+      "frequency": 10464,
+      "mnemonic": "来源于拉丁语中动词sequi（跟随）的过去分词派生的secta（追随者\n→派系）。-sequ-：跟随→sect：派系（追随者的群体）",
+      "phonetic": "sɛkt",
+      "pos": "n.",
+      "rootHint": "sequ 也",
+      "word": "sect"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the first Star Wars prequel：《星球大战》的第一部前传",
         "a sequel to：……的续集",
         "an interesting sequel to：……的有趣结果"
       ],
-      "definition" : "（书、电影、戏剧等的）续篇，续集；后续的事，结果",
-      "etymology" : "来自中世纪法语séquelle，来自拉丁语sequela，来自sequi （“to follow”）.",
-      "examples" : [
-
-      ],
-      "frequency" : 9098,
-      "mnemonic" : "来自拉丁语词根sequi-：to follow：追随，延续。\nsequ-（追随；延续）+ -el（名词后缀，表人或物）→某物的续篇、延\n续→引申词义续集；续篇",
-      "phonetic" : "ˈsiːkwəl",
-      "pos" : "n.",
-      "rootHint" : "sequ 也",
-      "word" : "sequel"
+      "definition": "（书、电影、戏剧等的）续篇，续集；后续的事，结果",
+      "etymology": "来自中世纪法语séquelle，来自拉丁语sequela，来自sequi （“to follow”）.",
+      "examples": [],
+      "frequency": 9098,
+      "mnemonic": "来自拉丁语词根sequi-：to follow：追随，延续。\nsequ-（追随；延续）+ -el（名词后缀，表人或物）→某物的续篇、延\n续→引申词义续集；续篇",
+      "phonetic": "ˈsikwəl",
+      "pos": "n.",
+      "rootHint": "sequ 也",
+      "word": "sequel"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a strange sequence of two successful grain harvests：连续两年奇怪的大",
-        "in sequence \/ out of sequence：按顺序\/错了次序"
+        "in sequence / out of sequence：按顺序/错了次序"
       ],
-      "definition" : "一系列；一连串；顺序；（电影中表现同一主题或场面的）一组镜头 vt. 按顺序排列",
-      "examples" : [
-
-      ],
-      "frequency" : 3168,
-      "mnemonic" : "sequ-（接着；连续）+ -ence（名词后缀）→一系列，一连串；顺",
-      "phonetic" : "ˈsiːkwəns",
-      "pos" : "n.",
-      "rootHint" : "sequ 也",
-      "word" : "sequence"
+      "definition": "一系列；一连串；顺序；（电影中表现同一主题或场面的）一组镜头 vt. 按顺序排列",
+      "examples": [],
+      "frequency": 3168,
+      "mnemonic": "sequ-（接着；连续）+ -ence（名词后缀）→一系列，一连串；顺",
+      "phonetic": "ˈsikwəns",
+      "pos": "n.",
+      "rootHint": "sequ 也",
+      "word": "sequence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "gene sequencing programme：基因排序项目"
       ],
-      "definition" : "（对基因、DNA的）排序",
-      "examples" : [
-
-      ],
-      "frequency" : 14738,
-      "phonetic" : "ˈsiːkwənsɪŋ",
-      "pos" : "n.",
-      "rootHint" : "sequ 也",
-      "word" : "sequencing"
+      "definition": "（对基因、DNA的）排序",
+      "examples": [],
+      "frequency": 14738,
+      "phonetic": "ˈsikwənsɪŋ",
+      "pos": "n.",
+      "rootHint": "sequ 也",
+      "word": "sequencing"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the sequential story of the universe：宇宙的变迁史"
       ],
-      "definition" : "按次序的；顺序的",
-      "examples" : [
-
-      ],
-      "frequency" : 12350,
-      "mnemonic" : "sequent（连续的；相继的）+ -ial（形容词后缀）→按次序的；顺序的",
-      "phonetic" : "sɪˈkwenʃ(ə)l",
-      "pos" : "adj.",
-      "rootHint" : "sequ 也",
-      "word" : "sequential"
+      "definition": "按次序的；顺序的",
+      "examples": [],
+      "frequency": 12350,
+      "mnemonic": "sequent（连续的；相继的）+ -ial（形容词后缀）→按次序的；顺序的",
+      "phonetic": "sɪˈkwɛnʃəl",
+      "pos": "adj.",
+      "rootHint": "sequ 也",
+      "word": "sequential"
     },
     {
-      "collocations" : [
+      "collocations": [
         "consequent increase in spending：随之引起的消费增长",
         "the responsibilities consequent upon the arrival of a new child：新生儿出\n世后随之而来的职责",
         "consequent climatic changes：随之而来的气候变化\n笔 记 区"
       ],
-      "definition" : "随之发生的；作为结果的",
-      "examples" : [
-
-      ],
-      "frequency" : 15285,
-      "mnemonic" : "con-（with, together：一起；同时）+ -sequ-（=sequi-=to follow：跟\n着；伴随）+ -ent（形容词后缀）→紧跟着同时发生的→随之发生的；",
-      "phonetic" : "ˈkɑn.sɪ.kwənt",
-      "pos" : "adj.",
-      "rootHint" : "sequ 也",
-      "word" : "consequent"
+      "definition": "随之发生的；作为结果的",
+      "examples": [],
+      "frequency": 15285,
+      "mnemonic": "con-（with, together：一起；同时）+ -sequ-（=sequi-=to follow：跟\n着；伴随）+ -ent（形容词后缀）→紧跟着同时发生的→随之发生的；",
+      "phonetic": "ˈkɑnsəkwɛnt",
+      "pos": "adj.",
+      "rootHint": "sequ 也",
+      "word": "consequent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "logical consequence：合理的后果",
         "revolutionary consequences：革命性影响",
-        "in consequence \/ as a consequence：结果",
+        "in consequence / as a consequence：结果",
         "trends with profound consequences: the opening of markets, true global",
         "competition, widespread deregulation （解除政府对……的控制） of",
         "industry, and an abundance of accessible capital.\n仅仅在短短的几年之内，全球化已经开始出现一些具有深远影响的趋\n势：市场的开放，真正的全球化竞争，政府对行业控制广泛解除以及\n大量的可用资金。",
-        "An unhealthy mentality may result in \/ bring about \/ produce \/ lead to \/",
+        "An unhealthy mentality may result in / bring about / produce / lead to /",
         "give rise to severe consequences, such as fragile to difficulties, selfish and",
         "unwilling to share with others."
       ],
-      "definition" : "结果；后果",
-      "examples" : [
+      "definition": "结果；后果",
+      "examples": [
         "1）A trivial thing may sometimes bring about undesirable consequences.\n一个小事情有时也会导致不好的影响。\n2）In just a few short years, globalization has started a variety of",
         "心理不健康可能会导致严重的后果，比如遇到困难时显得脆弱不\n堪，自私自利，不肯与人分享等。"
       ],
-      "frequency" : 1635,
-      "mnemonic" : "con-（加强语气）+ -sequ-（跟随；接着）+ -ence（名词后缀）→紧\n跟而来的事情→结果；后果；影响",
-      "phonetic" : "ˈkɑnsɪkwəns",
-      "pos" : "n.",
-      "rootHint" : "sequ 也",
-      "word" : "consequence"
+      "frequency": 1635,
+      "mnemonic": "con-（加强语气）+ -sequ-（跟随；接着）+ -ence（名词后缀）→紧\n跟而来的事情→结果；后果；影响",
+      "phonetic": "ˈkɑnsəkwɛns",
+      "pos": "n.",
+      "rootHint": "sequ 也",
+      "word": "consequence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "because they found school unchallenging and consequently lost interest.\n但是大多数人在学校表现得不好，不是因为他们没能力，而是因为他\n们发现学校毫无挑战，因此便失去了兴趣。",
-        "Some fare poorly in their work not because they lack ability \/ capacity \/",
+        "Some fare poorly in their work not because they lack ability / capacity /",
         "capability but because they find the work unchallenging and consequently"
       ],
-      "definition" : "所以；因此；结果",
-      "examples" : [
+      "definition": "所以；因此；结果",
+      "examples": [
         "But most fared poorly in school not because they lacked ability but",
-        "一些人在工作中表现不好，不是因为他们缺乏能力，而是因为他\n们发现该工作毫无挑战，因此便失去了兴趣。\n\/ thus \/ therefore lose interest."
+        "一些人在工作中表现不好，不是因为他们缺乏能力，而是因为他\n们发现该工作毫无挑战，因此便失去了兴趣。\n/ thus / therefore lose interest."
       ],
-      "frequency" : 4406,
-      "mnemonic" : "consequent（作为结果的）+ -ly（副词后缀）→所以；因此；结果",
-      "phonetic" : "ˈkɑnsəˌkwɛntli",
-      "pos" : "adv.",
-      "rootHint" : "sequ 也",
-      "word" : "consequently"
+      "frequency": 4406,
+      "mnemonic": "consequent（作为结果的）+ -ly（副词后缀）→所以；因此；结果",
+      "phonetic": "ˈkɑnsəkwɛntli",
+      "pos": "adv.",
+      "rootHint": "sequ 也",
+      "word": "consequently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "inconsequential details：无关紧要的细节",
         "inconsequential chatter：无谓的唠叨"
       ],
-      "definition" : "不重要的；微不足道的；举足轻重的",
-      "examples" : [
-
-      ],
-      "frequency" : 16493,
-      "mnemonic" : "in-（=not：不）+ consequent（作为结果的）+ -ial（形容词后缀）→",
-      "phonetic" : "ɪnˌkɑnsəˈkwɛnʃəl",
-      "pos" : "adj.",
-      "rootHint" : "sequ 也",
-      "word" : "inconsequential"
+      "definition": "不重要的；微不足道的；举足轻重的",
+      "examples": [],
+      "frequency": 16493,
+      "mnemonic": "in-（=not：不）+ consequent（作为结果的）+ -ial（形容词后缀）→",
+      "phonetic": "ɪnˌkɑn.səˈkwɛn.ʃəl",
+      "pos": "adj.",
+      "rootHint": "sequ 也",
+      "word": "inconsequential"
     },
     {
-      "collocations" : [
+      "collocations": [
         "subsequent generations：后代",
         "subsequent events：后来发生的事",
         "in a subsequent report：在以后的报道中",
         "subsequent studies：后续研究"
       ],
-      "definition" : "随后的；后来的",
-      "examples" : [
-
-      ],
-      "frequency" : 3295,
-      "mnemonic" : "sub-（=closely：接近的）+ -sequ-（=follow：跟随）+ -ent（形容词后\n缀）→follow closely：在后面（紧紧）跟随的→随后的；后来的",
-      "phonetic" : "ˈsʌbsəkwənt",
-      "pos" : "adj.",
-      "rootHint" : "sequ 也",
-      "word" : "subsequent"
+      "definition": "随后的；后来的",
+      "examples": [],
+      "frequency": 3295,
+      "mnemonic": "sub-（=closely：接近的）+ -sequ-（=follow：跟随）+ -ent（形容词后\n缀）→follow closely：在后面（紧紧）跟随的→随后的；后来的",
+      "phonetic": "ˈsʌb.sɪ.kwənt",
+      "pos": "adj.",
+      "rootHint": "sequ 也",
+      "word": "subsequent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The original interview notes were subsequently lost.\n采访记录原稿后来丢失了。"
       ],
-      "definition" : "随后；后来",
-      "examples" : [
+      "definition": "随后；后来",
+      "examples": [
         "Subsequently, new guidelines were issued to all employees.\n随后，新的准则发给了所有雇员。"
       ],
-      "frequency" : 5070,
-      "mnemonic" : "subsequent（随后的）+ -ly（副词后缀）→随后；后来",
-      "phonetic" : "ˈsʌb.sɪ.kwənt.li",
-      "pos" : "adv.",
-      "rootHint" : "sequ 也",
-      "word" : "subsequently"
+      "frequency": 5070,
+      "mnemonic": "subsequent（随后的）+ -ly（副词后缀）→随后；后来",
+      "phonetic": "ˈsʌb.sɪ.kwənt.li",
+      "pos": "adv.",
+      "rootHint": "sequ 也",
+      "word": "subsequently"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the sequestration of large areas of land：没收大片土地",
         "be sequestered for at least two months：至少要被隔离两个月"
       ],
-      "definition" : "强制管理，扣押（债务人资产）；使隔离",
-      "examples" : [
-
-      ],
-      "frequency" : 18621,
-      "mnemonic" : "邪记：sequ-（跟随）+ ester（=east：东方）→跟随到东方的古国隐居→使隔\n离→强制管理，扣押（债务人资产）",
-      "phonetic" : "səˈkwɛs.tɚ",
-      "pos" : "vt.",
-      "rootHint" : "sequ 也",
-      "word" : "sequester"
+      "definition": "强制管理，扣押（债务人资产）；使隔离",
+      "examples": [],
+      "frequency": 18621,
+      "mnemonic": "邪记：sequ-（跟随）+ ester（=east：东方）→跟随到东方的古国隐居→使隔\n离→强制管理，扣押（债务人资产）",
+      "phonetic": "sɪˈkwɛstɚ",
+      "pos": "vt.",
+      "rootHint": "sequ 也",
+      "word": "sequester"
     }
   ]
 }

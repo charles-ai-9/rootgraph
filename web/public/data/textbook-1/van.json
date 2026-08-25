@@ -24,7 +24,7 @@
       ],
       "frequency": 8282,
       "mnemonic": "ad (=to) +vent (来临，出现) →走过来，走来了→来临，出现。前缀ad\n(=at：一般翻译成to：去)，词根“-ven，-vent”表示“来”",
-      "phonetic": "ˈæd.vənt",
+      "phonetic": "ˈæd.vɛnt",
       "pos": "n.",
       "rootHint": "ven",
       "word": "advent"
@@ -35,7 +35,7 @@
       "examples": [],
       "frequency": 7956,
       "mnemonic": "con (共同，一起) +ven (=come：来) +e→来到一起→集合，召集，聚集",
-      "phonetic": "kənˈvɪin",
+      "phonetic": "kənˈvin",
       "pos": "v.",
       "rootHint": "ven",
       "word": "convene"
@@ -59,7 +59,7 @@
       "definition": "传统的，符合习俗的",
       "examples": [],
       "frequency": 2576,
-      "phonetic": "kənˈvɛnʃənl",
+      "phonetic": "kənˈvɛn.ʃə.nəl",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "conventional"
@@ -69,7 +69,7 @@
       "definition": "照惯例，照常套",
       "examples": [],
       "frequency": 16023,
-      "phonetic": "kənˈvɛnʃənəli",
+      "phonetic": "kənˈvɛn.ʃə.nə.li",
       "pos": "adv.",
       "rootHint": "ven",
       "word": "conventionally"
@@ -79,7 +79,7 @@
       "definition": "非常规的；非传统的；不依惯例的",
       "examples": [],
       "frequency": 10196,
-      "phonetic": "ʌnkənˈvenʃ(ə)n(ə)l",
+      "phonetic": "ˌʌnkənˈvɛnʃənəl",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "unconventional"
@@ -109,7 +109,7 @@
       "definition": "便利地；合宜地",
       "examples": [],
       "frequency": 11879,
-      "phonetic": "kənˈvi:njəntli",
+      "phonetic": "kənˈvinjəntli",
       "pos": "adv.",
       "rootHint": "ven",
       "word": "conveniently"
@@ -119,7 +119,7 @@
       "definition": "麻烦；不便",
       "examples": [],
       "frequency": 11019,
-      "phonetic": "ɪnkənˈvinjəns",
+      "phonetic": "ˌɪn.kənˈvin.jəns",
       "pos": "n.",
       "rootHint": "ven",
       "word": "inconvenience"
@@ -129,7 +129,7 @@
       "definition": "不便的；打扰的",
       "examples": [],
       "frequency": 13872,
-      "phonetic": "ɪnkənˈvi:nɪənt",
+      "phonetic": "ˌɪn.kənˈvin.jənt",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "inconvenient"
@@ -147,7 +147,7 @@
       ],
       "frequency": 1087,
       "mnemonic": "pre (提前，先) +vent (来) →先来 (演练) 一遍→预防",
-      "phonetic": "pɹəˈvɛnt",
+      "phonetic": "pɹɪˈvɛnt",
       "pos": "v.",
       "rootHint": "ven",
       "word": "prevent"
@@ -157,7 +157,7 @@
       "definition": "可预防的；可阻止的；可防止的",
       "examples": [],
       "frequency": 16996,
-      "phonetic": "priˈvɛntəbl",
+      "phonetic": "pɹɪˈvɛn.tə.bəl",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "preventable"
@@ -167,7 +167,7 @@
       "definition": "预防性的",
       "examples": [],
       "frequency": 19828,
-      "phonetic": "pɹɪˈvɛntətɪv",
+      "phonetic": "pɹɪˈvɛn.tə.tɪv",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "preventative"
@@ -177,7 +177,7 @@
       "definition": "预防；阻止；妨碍",
       "examples": [],
       "frequency": 3996,
-      "phonetic": "pɹɪˈvɛnʃən",
+      "phonetic": "pɹɪˈvɛn.ʃən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "prevention"
@@ -187,7 +187,7 @@
       "definition": "预防药；预防法",
       "examples": [],
       "frequency": 7745,
-      "phonetic": "pɹɪˈvɛntɪv",
+      "phonetic": "pɹɪˈvɛn.tɪv",
       "pos": "n.",
       "rootHint": "ven",
       "word": "preventive"
@@ -198,7 +198,7 @@
       "examples": [],
       "frequency": 5157,
       "mnemonic": "inter (=between：之间) +ven (来) +e→来到两者之间→干涉，干预",
-      "phonetic": "ˌintəˈvi:n",
+      "phonetic": "ˌɪn.tɚˈvin",
       "pos": "v.",
       "rootHint": "ven",
       "word": "intervene"
@@ -210,7 +210,7 @@
       "definition": "干涉，干预",
       "examples": [],
       "frequency": 1940,
-      "phonetic": "ɪntəˈvɛnʃən",
+      "phonetic": "ˌɪn.tɚˈvɛn.ʃən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "intervention"
@@ -220,7 +220,7 @@
       "definition": "介于中间的；发生于期间的",
       "examples": [],
       "frequency": 13024,
-      "phonetic": "ˌɪntɚˈvinɪŋ",
+      "phonetic": "ˌɪn.tɚˈvi.nɪŋ",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "intervening"
@@ -240,7 +240,7 @@
       ],
       "frequency": 4532,
       "mnemonic": "inter (之间，另外在刻意模仿单词：enter：进入) +fer (=ven：来) +e→\n来到两者之间→干涉，干预 (与intervene意思类似；f，v音似，n，l音\n似) f，v读音相似，可以相互转变的例证：life → live；give → gift：",
-      "phonetic": "ˌɪntɚˈfɪɹ",
+      "phonetic": "ˌɪn.tɚˈfɪɹ",
       "pos": "v.",
       "rootHint": "van",
       "word": "interfere"
@@ -252,7 +252,7 @@
       "definition": "干涉，介入",
       "examples": [],
       "frequency": 4592,
-      "phonetic": "ˌɪntəɹˈfiɹɨns",
+      "phonetic": "ˌɪn.tɚˈfɪɹ.əns",
       "pos": "n.",
       "rootHint": "van",
       "word": "interference"
@@ -268,7 +268,7 @@
       "examples": [],
       "frequency": 1691,
       "mnemonic": "re (回) +ven (=come：来) +ue (名词后缀) →回来的钱 (因为venue整体\n在模仿money) →收入 (该单词可与单词“income：收入”联合记忆，\nin (进) +come (来) →进来的钱→收入",
-      "phonetic": "ˈɹɛvəˌn(j)u",
+      "phonetic": "ˈɹɛv.ə.nu",
       "pos": "n.",
       "rootHint": "ven",
       "word": "revenue"
@@ -278,7 +278,7 @@
       "definition": "事件，大事；结果；项目",
       "examples": [],
       "frequency": 526,
-      "phonetic": "əˈvɛnt",
+      "phonetic": "ɪ.ˈvɛnt",
       "pos": "n.",
       "rootHint": "ven",
       "word": "event"
@@ -288,7 +288,7 @@
       "definition": "最后的，结果的；终于的；可能的",
       "examples": [],
       "frequency": 7419,
-      "phonetic": "ə-",
+      "phonetic": "ɪ.ˈvɛn.tʃu.əl",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "eventual"
@@ -298,7 +298,7 @@
       "definition": "最后，终于",
       "examples": [],
       "frequency": 1110,
-      "phonetic": "ɪ.ˈvɛn.t͡ʃu.li",
+      "phonetic": "ɪ.ˈvɛn.tʃu.ə.li",
       "pos": "adv.",
       "rootHint": "ven",
       "word": "eventually"
@@ -309,7 +309,7 @@
       "examples": [],
       "frequency": 2316,
       "mnemonic": "ad (=to) +vanc (=vent：来；另外，-anc还有“前”的意思) +e→来到\n前面→前进，提前 (v./n.)",
-      "phonetic": "ədˈvæns",
+      "phonetic": "əd.ˈvæns",
       "pos": "n.",
       "rootHint": "van",
       "word": "advance"
@@ -321,7 +321,7 @@
       "definition": "高级的，先进的",
       "examples": [],
       "frequency": 2824,
-      "phonetic": "ədˈvænst",
+      "phonetic": "əd.ˈvænst",
       "pos": "adj.",
       "rootHint": "van",
       "word": "advanced"
@@ -331,7 +331,7 @@
       "definition": "前进，进步；提升",
       "examples": [],
       "frequency": 6733,
-      "phonetic": "ædˈvæns.mɛnt",
+      "phonetic": "əd.ˈvæns.mənt",
       "pos": "n.",
       "rootHint": "van",
       "word": "advancement"
@@ -341,7 +341,7 @@
       "definition": "前进的；年长的",
       "examples": [],
       "frequency": 9483,
-      "phonetic": "ədˈvænsɪŋ",
+      "phonetic": "əd.ˈvæn.sɪŋ",
       "pos": "adj.",
       "rootHint": "van",
       "word": "advancing"
@@ -352,7 +352,7 @@
       "examples": [],
       "frequency": 1832,
       "mnemonic": "anci (以前) +ent (=ant：的) →古老的，古代的",
-      "phonetic": "ˈeɪn.ʃənt",
+      "phonetic": "ˈeɪnʃənt",
       "pos": "adj.",
       "rootHint": "van",
       "word": "ancient"
@@ -363,7 +363,7 @@
       "examples": [],
       "frequency": 5830,
       "mnemonic": "anti (以前) +que (名词或形容词缀) →以前的东西→古董，古玩；古老的",
-      "phonetic": "ænˈtiːk",
+      "phonetic": "ænˈtik",
       "pos": "n.",
       "rootHint": "van",
       "word": "antique"
@@ -382,7 +382,7 @@
         "对于那些没空去书店的人来说，电子图书的好处就是能够随时随\n地阅读，充分利用时间。\nminute."
       ],
       "frequency": 1308,
-      "phonetic": "ədˈvæn.tɪdʒ",
+      "phonetic": "əd.ˈvæn.tɪdʒ",
       "pos": "n.",
       "rootHint": "van",
       "word": "advantage"
@@ -392,7 +392,7 @@
       "definition": "有利的；有益的",
       "examples": [],
       "frequency": 14583,
-      "phonetic": "ˌædvənˈteɪd͡ʒəs",
+      "phonetic": "ˌæd.vən.ˈteɪ.dʒəs",
       "pos": "adj.",
       "rootHint": "van",
       "word": "advantageous"
@@ -402,7 +402,7 @@
       "definition": "不利条件；缺点；损失",
       "examples": [],
       "frequency": 6383,
-      "phonetic": "ˌdɪsədˈvæntɪdʒ",
+      "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒ",
       "pos": "n.",
       "rootHint": "van",
       "word": "disadvantage"
@@ -412,7 +412,7 @@
       "definition": "处于不利地位的； n. 不利条件",
       "examples": [],
       "frequency": 9105,
-      "phonetic": "dɪsədˈvɑ:ntɪdʒd",
+      "phonetic": "ˌdɪ.səd.ˈvæn.tɪdʒd",
       "pos": "adj.",
       "rootHint": "van",
       "word": "disadvantaged"
@@ -433,7 +433,7 @@
       "definition": "发明，创造",
       "examples": [],
       "frequency": 4828,
-      "phonetic": "ɪnˈvɛnʃən",
+      "phonetic": "ɪnˈvɛn.ʃən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "invention"
@@ -443,7 +443,7 @@
       "definition": "发明的；有发明才能的；独出心裁的",
       "examples": [],
       "frequency": 12610,
-      "phonetic": "ɪnˈvɛntɪv",
+      "phonetic": "ɪnˈvɛn.tɪv",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "inventive"
@@ -453,7 +453,7 @@
       "definition": "发明家；发明人；创造者",
       "examples": [],
       "frequency": 8346,
-      "phonetic": "ɪnˈvɛntə",
+      "phonetic": "ɪnˈvɛn.tɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "inventor"
@@ -465,7 +465,7 @@
       "definition": "存货清单，详细目录",
       "examples": [],
       "frequency": 4005,
-      "phonetic": "ɪnˈvɛn.tə.ɹi",
+      "phonetic": "ˈɪn.vən.tɔɹ.i",
       "pos": "n.",
       "rootHint": "ven",
       "word": "inventory"
@@ -475,7 +475,7 @@
       "definition": "重新使用；彻底改造；重复发明（在不知他人已发明的情况下）",
       "examples": [],
       "frequency": 8350,
-      "phonetic": "ˌri:ɪnˈvent",
+      "phonetic": "ˌɹi.ɪnˈvɛnt",
       "pos": "vt.",
       "rootHint": "ven",
       "word": "reinvent"
@@ -485,7 +485,7 @@
       "definition": "重新使用；彻底改造；重复发明",
       "examples": [],
       "frequency": 20087,
-      "phonetic": "ˌri:ɪnˈvenʃən",
+      "phonetic": "ˌɹi.ɪnˈvɛn.ʃən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "reinvention"
@@ -499,7 +499,7 @@
       "examples": [],
       "frequency": 3322,
       "mnemonic": "vent (来，另外，vent还在刻意模仿单词“chance：冒险) →来冒险→",
-      "phonetic": "ˈvɛn.t͡ʃɚ",
+      "phonetic": "ˈvɛntʃɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "venture"
@@ -509,7 +509,7 @@
       "definition": "冒险；冒险精神；投机活动",
       "examples": [],
       "frequency": 2885,
-      "phonetic": "ædˈvɛnt͡ʃɚ",
+      "phonetic": "əd.ˈvɛn.tʃɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "adventure"
@@ -519,7 +519,7 @@
       "definition": "冒险家；投机商人",
       "examples": [],
       "frequency": 13796,
-      "phonetic": "ædˈvɛn.tʃɚ.ɚ",
+      "phonetic": "əd.ˈvɛn.tʃɚ.ɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "adventurer"
@@ -529,7 +529,7 @@
       "definition": "爱冒险的；大胆的；充满危险的",
       "examples": [],
       "frequency": 11153,
-      "phonetic": "ædˈvɛn.tʃɚ.ʌs",
+      "phonetic": "əd.ˈvɛn.tʃɚ.əs",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "adventurous"
@@ -539,7 +539,7 @@
       "definition": "林荫大道；大街",
       "examples": [],
       "frequency": 6178,
-      "phonetic": "ˈæv.əˌn(j)u",
+      "phonetic": "ˈævəˌnu",
       "pos": "n.",
       "rootHint": "ven",
       "word": "avenue"
@@ -562,7 +562,7 @@
       "definition": "投资，投入",
       "examples": [],
       "frequency": 1044,
-      "phonetic": "ɪnˈvɛsmənt",
+      "phonetic": "ɪnˈvɛst.mənt",
       "pos": "n.",
       "rootHint": "van",
       "word": "investment"
@@ -572,7 +572,7 @@
       "definition": "投资者",
       "examples": [],
       "frequency": 1714,
-      "phonetic": "ɪnˈvɛstɚ",
+      "phonetic": "ɪnˈvɛs.tɚ",
       "pos": "n.",
       "rootHint": "van",
       "word": "investor"
@@ -582,7 +582,7 @@
       "definition": "审判地；犯罪地点；发生地点；集合地点",
       "examples": [],
       "frequency": 5460,
-      "phonetic": "ˈvɛnjuː",
+      "phonetic": "ˈvɛnju",
       "pos": "n.",
       "rootHint": "ven",
       "word": "venue"
@@ -592,7 +592,7 @@
       "definition": "包围；陷害；绕行",
       "examples": [],
       "frequency": 12251,
-      "phonetic": "sɜ:kəmˈvent",
+      "phonetic": "ˌsɝkəmˈvɛnt",
       "pos": "vt.",
       "rootHint": "ven",
       "word": "circumvent"
@@ -612,7 +612,7 @@
       "definition": "契约，盟约；盖印合同；圣约",
       "examples": [],
       "frequency": 11548,
-      "phonetic": "ˈkʌv.nənt",
+      "phonetic": "ˈkʌv.ə.nənt",
       "pos": "n.",
       "rootHint": "ven",
       "word": "covenant"
@@ -622,7 +622,7 @@
       "definition": "纪念品；礼物",
       "examples": [],
       "frequency": 8210,
-      "phonetic": "ˌsuːvəˈnɪr",
+      "phonetic": "ˌsuvəˈnɪɹ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "souvenir"
@@ -642,7 +642,7 @@
       "definition": "空气流通；通风设备",
       "examples": [],
       "frequency": 10030,
-      "phonetic": "ˌventɪˈleɪʃ(ə)n",
+      "phonetic": "ˌvɛntəˈleɪʃən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "ventilation"
@@ -652,7 +652,7 @@
       "definition": "通风设备；通风机",
       "examples": [],
       "frequency": 16818,
-      "phonetic": "ˈventɪleɪtə",
+      "phonetic": "ˈvɛntəleɪtɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "ventilator"
@@ -662,7 +662,7 @@
       "definition": "替……报仇",
       "examples": [],
       "frequency": 15827,
-      "phonetic": "əˈvɛnd͡ʒ",
+      "phonetic": "əˈvɛndʒ",
       "pos": "vt.",
       "rootHint": "ven",
       "word": "avenge"
@@ -672,7 +672,7 @@
       "definition": "进入静脉的；静脉注射的",
       "examples": [],
       "frequency": 13184,
-      "phonetic": "ɪntɹəˈviːnəs",
+      "phonetic": "ˌɪn.tɹəˈvi.nəs",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "intravenous"
@@ -702,7 +702,7 @@
       "definition": "小贩；卖主；自动售货机",
       "examples": [],
       "frequency": 4680,
-      "phonetic": "ˈvɛn.dɚ",
+      "phonetic": "ˈvɛndɚ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "vendor"
@@ -712,7 +712,7 @@
       "definition": "复仇；报仇；报复",
       "examples": [],
       "frequency": 8745,
-      "phonetic": "ˈvɛnˌdʒəns",
+      "phonetic": "ˈvɛndʒəns",
       "pos": "n.",
       "rootHint": "ven",
       "word": "vengeance"
@@ -722,7 +722,7 @@
       "definition": "复仇的，报复的；复仇心重的",
       "examples": [],
       "frequency": 19075,
-      "phonetic": "ˈvenʒ.fəl",
+      "phonetic": "ˈvɛndʒfəl",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "vengeful"
@@ -732,7 +732,7 @@
       "definition": "鹿肉； [古]野味",
       "examples": [],
       "frequency": 17576,
-      "phonetic": "ˈvɛ.nɪ.sən",
+      "phonetic": "ˈvɛnəsən",
       "pos": "n.",
       "rootHint": "ven",
       "word": "venison"
@@ -742,7 +742,7 @@
       "definition": "静脉的，静脉中的；有脉的",
       "examples": [],
       "frequency": 19933,
-      "phonetic": "ˈviː.nəs",
+      "phonetic": "ˈvinəs",
       "pos": "adj.",
       "rootHint": "ven",
       "word": "venous"
@@ -752,7 +752,7 @@
       "definition": "复仇；报复",
       "examples": [],
       "frequency": 5351,
-      "phonetic": "ɹɪˈvɛndʒ",
+      "phonetic": "ɹɪ.ˈvɛndʒ",
       "pos": "n.",
       "rootHint": "ven",
       "word": "revenge"
@@ -762,7 +762,7 @@
       "definition": "小型货车",
       "examples": [],
       "frequency": 10498,
-      "phonetic": "ˈmɪnɪvæn",
+      "phonetic": "ˈmɪniˌvæn",
       "pos": "n.",
       "rootHint": "van",
       "word": "minivan"
@@ -786,7 +786,7 @@
       "definition": "旅行拖车；大篷车；房车",
       "examples": [],
       "frequency": 10442,
-      "phonetic": "ˈkæɹəvæn",
+      "phonetic": "ˈkæɹəˌvæn",
       "pos": "n.",
       "rootHint": "van",
       "word": "caravan"

@@ -1,253 +1,239 @@
 {
-  "chapter" : "6",
-  "chapterOrder" : 106,
-  "id" : "sting",
-  "meaningEn" : "刺，是和单词stick",
-  "meaningZh" : "刺，戳有关（首辅音",
-  "roots" : [
+  "chapter": "6",
+  "chapterOrder": 106,
+  "id": "sting",
+  "meaningEn": "刺，是和单词stick",
+  "meaningZh": "刺，戳有关（首辅音",
+  "roots": [
     "sting"
   ],
-  "semanticLabel" : "刺，戳有关（首辅音",
-  "source" : "textbook-8",
-  "titleZh" : "刺，戳有关（首辅音",
-  "words" : [
+  "semanticLabel": "刺，戳有关（首辅音",
+  "source": "textbook-8",
+  "titleZh": "刺，戳有关（首辅音",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a bee sting：被蜜蜂蛰一下",
         "the sting of salt in a wound：伤口上撒盐引起的剧痛",
         "He was stung by their criticism.\n他们的批评刺伤了他。",
         "I got stung for a £100 meal.\n我挨宰了，一顿饭被敲诈了100英镑。",
         "His cheeks were stinging from the icy wind.\n他的双颊被冰冷的寒风刺痛了。"
       ],
-      "definition" : "&vi. 刺，蜇，叮；（使）感觉刺痛；（话语）刺伤，批评；对（某人）敲诈 n.（昆虫、植物的）蛰刺；刺，叮；（身体或心灵的）剧痛，痛苦",
-      "etymology" : "来自古英语stingan “to stab, pierce, or prick with a point：用一个点刺， 20000 词汇巅峰 速 记 笔 记 区 敲诈；痛苦。",
-      "examples" : [
+      "definition": "&vi. 刺，蜇，叮；（使）感觉刺痛；（话语）刺伤，批评；对（某人）敲诈 n.（昆虫、植物的）蛰刺；刺，叮；（身体或心灵的）剧痛，痛苦",
+      "etymology": "来自古英语stingan “to stab, pierce, or prick with a point：用一个点刺， 20000 词汇巅峰 速 记 笔 记 区 敲诈；痛苦。",
+      "examples": [
         "I was stung on the arm by a wasp.\n我的胳膊给黄蜂蜇了一下。"
       ],
-      "frequency" : 8303,
-      "mnemonic" : "戳；刺伤” (of weapons, insects, plants, etc.)→引申义为激怒，使不安；",
-      "phonetic" : "stɪŋ",
-      "pos" : "vt",
-      "rootHint" : "sting",
-      "word" : "sting"
+      "frequency": 8303,
+      "mnemonic": "戳；刺伤” (of weapons, insects, plants, etc.)→引申义为激怒，使不安；",
+      "phonetic": "stɪŋ",
+      "pos": "vt",
+      "rootHint": "sting",
+      "word": "sting"
     },
     {
-      "collocations" : [
+      "collocations": [
         "stinging criticism：激烈的批评"
       ],
-      "definition" : "刺人的；刺一般的；激烈的",
-      "examples" : [
-
-      ],
-      "frequency" : 12412,
-      "mnemonic" : "sting（刺；刺伤）+ -ing（形容词后缀）→刺伤人的→刺人的；激",
-      "phonetic" : "ˈstɪŋɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "stinging"
+      "definition": "刺人的；刺一般的；激烈的",
+      "examples": [],
+      "frequency": 12412,
+      "mnemonic": "sting（刺；刺伤）+ -ing（形容词后缀）→刺伤人的→刺人的；激",
+      "phonetic": "ˈstɪŋɪŋ",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "stinging"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The West is stingy with aid.\n西方在援助上很吝啬。"
       ],
-      "definition" : "小气的，吝啬的；有刺的，刺人的",
-      "examples" : [
+      "definition": "小气的，吝啬的；有刺的，刺人的",
+      "examples": [
         "You’re stingy!\n你真小气！"
       ],
-      "frequency" : 19470,
-      "mnemonic" : "sting（刺；叮；蜇）+ -y（形容词后缀）→有刺的，刺人的\nsting（批评）+ -y（形容词后缀）→对不舍得花钱的人的批评→小气",
-      "phonetic" : "ˈstɪndʒi",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "stingy"
+      "frequency": 19470,
+      "mnemonic": "sting（刺；叮；蜇）+ -y（形容词后缀）→有刺的，刺人的\nsting（批评）+ -y（形容词后缀）→对不舍得花钱的人的批评→小气",
+      "phonetic": "ˈstɪndʒi",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "stingy"
     },
     {
-      "collocations" : [
+      "collocations": [
         "go extinct：走向灭绝",
         "to become extinct：绝种",
         "extinct animals：绝种的动物"
       ],
-      "definition" : "绝种的；灭亡的，不复存在的",
-      "examples" : [
+      "definition": "绝种的；灭亡的，不复存在的",
+      "examples": [
         "Servants are now almost extinct in modern society.\n在现代社会里奴仆已近乎不复存在。"
       ],
-      "frequency" : 9567,
-      "mnemonic" : "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→\n邪解：ex-（出去）+ -tinct（刺）→一剑（倚天剑）刺出去→灭绝的；绝种",
-      "phonetic" : "ɛkˈstɪŋkt",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "extinct"
+      "frequency": 9567,
+      "mnemonic": "ex-（=out：完全）+ -tinct（=quench, wipe：熄灭；擦去）→消灭的→\n邪解：ex-（出去）+ -tinct（刺）→一剑（倚天剑）刺出去→灭绝的；绝种",
+      "phonetic": "ɪkˈstɪŋkt",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "extinct"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the extinction of species：物种的灭绝",
         "on the verge of extinction：在灭绝的边缘",
         "development rather than cultural heritage and development, a large number",
-        "of distinctive customs have become \/ gone extinct."
+        "of distinctive customs have become / gone extinct."
       ],
-      "definition" : "（物种的）灭绝；（生活方式、活动的）消亡",
-      "examples" : [
-        "由于人们只关心发展经济而不注重文化的传承和发展，很多有特\n色的习俗都已经消失了。（文化类）\nDue to \/ Owning to \/ Because of the emphasis placed on economic"
+      "definition": "（物种的）灭绝；（生活方式、活动的）消亡",
+      "examples": [
+        "由于人们只关心发展经济而不注重文化的传承和发展，很多有特\n色的习俗都已经消失了。（文化类）\nDue to / Owning to / Because of the emphasis placed on economic"
       ],
-      "frequency" : 7089,
-      "mnemonic" : "extinct（绝种的；消亡的）+ -ion（名词后缀）→灭绝；消亡",
-      "phonetic" : "ɪkˈstɪŋkʃ(ə)n",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "extinction"
+      "frequency": 7089,
+      "mnemonic": "extinct（绝种的；消亡的）+ -ion（名词后缀）→灭绝；消亡",
+      "phonetic": "ɪkˈstɪŋkʃən",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "extinction"
     },
     {
-      "collocations" : [
+      "collocations": [
         "All lights had been extinguished.\n所有灯光都熄灭了。",
         "News of the bombing extinguished all hope of peace.\n轰炸的消息使和平的希望全部破灭。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "熄灭，扑灭；消灭，使破灭",
-      "examples" : [
+      "definition": "熄灭，扑灭；消灭，使破灭",
+      "examples": [
         "Firefighters tried to extinguish the flames.\n消防队员奋力扑灭火焰。"
       ],
-      "frequency" : 12227,
-      "mnemonic" : "ex-（=out）+ -ting（=quench：熄灭）+ u（连接符号）+ -ish（动词后\n缀）→扑灭；消灭",
-      "phonetic" : "ɪkˈstɪŋ.ɡwɪʃ",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "extinguish"
+      "frequency": 12227,
+      "mnemonic": "ex-（=out）+ -ting（=quench：熄灭）+ u（连接符号）+ -ish（动词后\n缀）→扑灭；消灭",
+      "phonetic": "ɪkˈstɪŋɡwɪʃ",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "extinguish"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "灭火器",
-      "examples" : [
-
-      ],
-      "frequency" : 19575,
-      "mnemonic" : "=fire extinguisher：灭火器",
-      "phonetic" : "ɪkˈstɪŋɡwɪʃə(r)",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "extinguisher"
+      "collocations": [],
+      "definition": "灭火器",
+      "examples": [],
+      "frequency": 19575,
+      "mnemonic": "=fire extinguisher：灭火器",
+      "phonetic": "ɪkˈstɪŋɡwɪʃɚ",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "extinguisher"
     },
     {
-      "collocations" : [
+      "collocations": [
         "distinguish A from B：把A和B区别开",
         "distinguish right from wrong：辨别是非",
         "distinguish voices：辨别出声音",
         "distinguish himself as a leading scholar：他作为一名一流学者而著名",
         "distinguish between their human friends and the droids.\n逼真的人造机器人的出现将意味着人们可能无法区分自己的人类朋友\n和机器人朋友。",
         "There is something about music that distinguishes it from all other art",
-        "The arrival \/ emergence \/ appearance of the Internet will mean people may",
+        "The arrival / emergence / appearance of the Internet will mean people may",
         "not be able to distinguish between the real communication and the virtual",
         "communication."
       ],
-      "definition" : "&vi. 辨别；区分 vt. 有别于；辨别出；使著名",
-      "examples" : [
+      "definition": "&vi. 辨别；区分 vt. 有别于；辨别出；使著名",
+      "examples": [
         "The arrival of synthetic lifelike robots will mean people may not be able to\nforms.\n音乐中一些因素使之有别于其他艺术形式。",
         "互联网的出现将意味着人们可能无法区分真实世界的交流和虚拟\n世界的交流。"
       ],
-      "frequency" : 3273,
-      "mnemonic" : "dis-（分开）+ -ting（刺）+ u（无意义）+ -ish（动词后缀）→通过刺\n的长短来区分→辨别，区分；有别于，辨别出；使著名（与平庸之辈",
-      "phonetic" : "dɪsˈtɪŋɡwɪʃ",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "distinguish"
+      "frequency": 3273,
+      "mnemonic": "dis-（分开）+ -ting（刺）+ u（无意义）+ -ish（动词后缀）→通过刺\n的长短来区分→辨别，区分；有别于，辨别出；使著名（与平庸之辈",
+      "phonetic": "dɪˈstɪŋ.ɡwɪʃ",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "distinguish"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a distinguished professor：杰出的教授",
         "a distinguished academic family：一个卓越的学术之家",
         "distinguished guest：高贵的客人；贵宾\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "卓越的，杰出的；高贵的",
-      "examples" : [
+      "definition": "卓越的，杰出的；高贵的",
+      "examples": [
         "His suit was immaculately cut and he looked very distinguished.\n他的西服剪裁完美，人显得十分高贵。"
       ],
-      "frequency" : 5639,
-      "mnemonic" : "distinguish（区分）+ -ed（形容词后缀）→引申词义与众不同的→卓",
-      "phonetic" : "dɪsˈtɪŋɡwɪʃt",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "distinguished"
+      "frequency": 5639,
+      "mnemonic": "distinguish（区分）+ -ed（形容词后缀）→引申词义与众不同的→卓",
+      "phonetic": "dɪˈstɪŋ.ɡwɪʃt",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "distinguished"
     },
     {
-      "collocations" : [
+      "collocations": [
         "distinguishing feature：有区别的特点"
       ],
-      "definition" : "有区别的；区别开的",
-      "examples" : [
-
-      ],
-      "frequency" : 15266,
-      "phonetic" : "dɪˈstɪŋgwɪʃɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "distinguishing"
+      "definition": "有区别的；区别开的",
+      "examples": [],
+      "frequency": 15266,
+      "phonetic": "dɪˈstɪŋ.ɡwɪ.ʃɪŋ",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "distinguishing"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be indistinguishable from：与……难以区别的"
       ],
-      "definition" : "无法分辨的；难以区别的；不清楚的",
-      "examples" : [
+      "definition": "无法分辨的；难以区别的；不清楚的",
+      "examples": [
         "His words were indistinguishable.\n他说的话听不清楚。"
       ],
-      "frequency" : 12711,
-      "mnemonic" : "in-（不；非）+ distinguish（辨别；区分）+ -able（能够……的）→\n不能够辨别、区分的→无法分辨的；难以区别的；不清楚的",
-      "phonetic" : "ˌɪndɪˈstɪŋɡwɪʃəbl",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "indistinguishable"
+      "frequency": 12711,
+      "mnemonic": "in-（不；非）+ distinguish（辨别；区分）+ -able（能够……的）→\n不能够辨别、区分的→无法分辨的；难以区别的；不清楚的",
+      "phonetic": "ˌɪn.dɪˈstɪŋ.ɡwɪ.ʃə.bəl",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "indistinguishable"
     },
     {
-      "collocations" : [
+      "collocations": [
         "distinct word：清晰的字",
         "rural areas, as distinct from major cities：完全不同于大城市的农村地区",
         "a distinct change：明显的变化",
         "two distinct worlds of race：两种截然不同的种族世界"
       ],
-      "definition" : "清楚的；截然不同的，完全不同于……的；明显的，确切的",
-      "examples" : [
-
-      ],
-      "frequency" : 3280,
-      "mnemonic" : "dis-（分离）+ -tinct（有刺的）→以刺的记号加以区分的→清楚的；",
-      "phonetic" : "dɪsˈtɪŋkt",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "distinct"
+      "definition": "清楚的；截然不同的，完全不同于……的；明显的，确切的",
+      "examples": [],
+      "frequency": 3280,
+      "mnemonic": "dis-（分离）+ -tinct（有刺的）→以刺的记号加以区分的→清楚的；",
+      "phonetic": "dɪˈstɪŋkt",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "distinct"
     },
     {
-      "collocations" : [
+      "collocations": [
         "indistinct speech：模糊不清的发言"
       ],
-      "definition" : "模糊不清的；不清楚的",
-      "examples" : [
-
-      ],
-      "frequency" : 18783,
-      "mnemonic" : "in-（=not：不，表否定）+ distinct（清楚的；明显的）→不清楚的，\n不明显的→模糊不清的；不清楚的",
-      "phonetic" : "ˌɪndɪˈstɪŋkt",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "indistinct"
+      "definition": "模糊不清的；不清楚的",
+      "examples": [],
+      "frequency": 18783,
+      "mnemonic": "in-（=not：不，表否定）+ distinct（清楚的；明显的）→不清楚的，\n不明显的→模糊不清的；不清楚的",
+      "phonetic": "ˌɪn.dɪˈstɪŋkt",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "indistinct"
     },
     {
-      "collocations" : [
+      "collocations": [
         "two distinctly different sectors：两个截然不同的部门",
         "distinctly remember：清楚地记得\n20000 词汇巅峰\n速\n记\n笔 记 区",
         "look distinctly shaky：看起来明显不稳固的"
       ],
-      "definition" : "截然不同地；清楚地；明显地，确切地",
-      "examples" : [
-
-      ],
-      "frequency" : 8183,
-      "phonetic" : "dɪsˈtɪŋktli",
-      "pos" : "adv.",
-      "rootHint" : "sting",
-      "word" : "distinctly"
+      "definition": "截然不同地；清楚地；明显地，确切地",
+      "examples": [],
+      "frequency": 8183,
+      "phonetic": "dɪˈstɪŋkt.li",
+      "pos": "adv.",
+      "rootHint": "sting",
+      "word": "distinctly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "make a distinction between arts and science：把艺术和科学区别开来",
         "a writer of distinction：优秀作家",
         "have the distinction of：具有一个特点",
@@ -256,614 +242,558 @@
         "researchers found that three-fifths of these individuals either did badly in",
         "school or were unhappy in school.\n在一个对在各个领域都获得荣誉的400个成年人的研究中，研究者发\n现五分之三的人要么在学校表现不好，或者过的不快乐。"
       ],
-      "definition" : "差别；区别；优秀；特点；（尤指给学生的）优等评分",
-      "examples" : [
+      "definition": "差别；区别；优秀；特点；（尤指给学生的）优等评分",
+      "examples": [
         "In one study of 400 adults who had achieved distinction in all areas of life,"
       ],
-      "frequency" : 2944,
-      "mnemonic" : "distinct（有区别的）+ -ion（名词后缀）→区别，不同；荣誉",
-      "phonetic" : "dɪˈstɪŋkʃən",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "distinction"
+      "frequency": 2944,
+      "mnemonic": "distinct（有区别的）+ -ion（名词后缀）→区别，不同；荣誉",
+      "phonetic": "dɪˈstɪŋk.ʃən",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "distinction"
     },
     {
-      "collocations" : [
+      "collocations": [
         "clothes with a distinctive style：式样独特的衣服",
         "distinctive feature：与众不同的特色"
       ],
-      "definition" : "独特的；与众不同的",
-      "examples" : [
-
-      ],
-      "frequency" : 4775,
-      "mnemonic" : "distinct（特点）+ -ive（形容词后缀）→有特点的→独特的；与众不",
-      "phonetic" : "dɪˈstɪŋktɪv",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "distinctive"
+      "definition": "独特的；与众不同的",
+      "examples": [],
+      "frequency": 4775,
+      "mnemonic": "distinct（特点）+ -ive（形容词后缀）→有特点的→独特的；与众不",
+      "phonetic": "dɪˈstɪŋk.tɪv",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "distinctive"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a distinctively nutty flavor：特别的坚果味道"
       ],
-      "definition" : "特别地；有特色的",
-      "examples" : [
-
-      ],
-      "frequency" : 18484,
-      "phonetic" : "dɪˈstɪŋktɪvli",
-      "pos" : "adv.",
-      "rootHint" : "sting",
-      "word" : "distinctively"
+      "definition": "特别地；有特色的",
+      "examples": [],
+      "frequency": 18484,
+      "phonetic": "dɪˈstɪŋk.tɪv.li",
+      "pos": "adv.",
+      "rootHint": "sting",
+      "word": "distinctively"
     },
     {
-      "collocations" : [
+      "collocations": [
         "follow your instinct：随心，随本能",
         "instinct for self-preservation：自我保护的本能\n20000 词汇巅峰\n速\n记",
         "to have an instinct for：在……方面有天分",
         "by plants is good for health.\n有科学证据表明我们的直觉是正确的，即被植物环绕着有益健康。\n笔 记 区"
       ],
-      "definition" : "本能，天性；天分；直觉",
-      "examples" : [
+      "definition": "本能，天性；天分；直觉",
+      "examples": [
         "There is scientific evidence to support our instinct that being surrounded"
       ],
-      "frequency" : 4280,
-      "mnemonic" : "in-（内心）+ -stinct（刺；刻）→生下来就“刺，刻”在内心的东西\n→本能，天性；天分；直觉",
-      "phonetic" : "ˈɪn.stɪŋkt",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "instinct"
+      "frequency": 4280,
+      "mnemonic": "in-（内心）+ -stinct（刺；刻）→生下来就“刺，刻”在内心的东西\n→本能，天性；天分；直觉",
+      "phonetic": "ˈɪn.stɪŋkt",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "instinct"
     },
     {
-      "collocations" : [
+      "collocations": [
         "instinctive knowledge：本能的知识",
         "an instinctive player：一个天生的运动员"
       ],
-      "definition" : "本能的，直觉的；天生的",
-      "examples" : [
-
-      ],
-      "frequency" : 14977,
-      "mnemonic" : "instinct（本能；直觉）+ -ive（形容词后缀）→本能的，直觉的；天",
-      "phonetic" : "ɪnˈstɪŋktɪv",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "instinctive"
+      "definition": "本能的，直觉的；天生的",
+      "examples": [],
+      "frequency": 14977,
+      "mnemonic": "instinct（本能；直觉）+ -ive（形容词后缀）→本能的，直觉的；天",
+      "phonetic": "ɪnˈstɪŋk.tɪv",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "instinctive"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "本能地；直觉地",
-      "examples" : [
+      "collocations": [],
+      "definition": "本能地；直觉地",
+      "examples": [
         "He knew instinctively that something was wrong.\n他凭直觉知道出事了。"
       ],
-      "frequency" : 9408,
-      "phonetic" : "ɪnˈstɪŋktɪvli",
-      "pos" : "adv.",
-      "rootHint" : "sting",
-      "word" : "instinctively"
+      "frequency": 9408,
+      "phonetic": "ɪnˈstɪŋk.tɪv.li",
+      "pos": "adv.",
+      "rootHint": "sting",
+      "word": "instinctively"
     },
     {
-      "collocations" : [
+      "collocations": [
         "stimulate interest：激发兴趣",
         "stimulate its economy：刺激经济",
         "stimulate the digestive system：刺激消化系统",
         "serve to communicate, stimulate thinking and promote behavioral change.\n是的，生态学者，环保积极分子和自然资源保护论者起到交流，刺激\n思考和推动行为改变的作用。"
       ],
-      "definition" : "激发；刺激；刺激（身体器官）",
-      "examples" : [
+      "definition": "激发；刺激；刺激（身体器官）",
+      "examples": [
         "Yes, the ecologists, the environmental activists and the conservationists"
       ],
-      "frequency" : 4489,
-      "mnemonic" : "stim-（=stin-：刺激）+ ul（连接符号）+ -ate（使动词）→使刺一下\n→刺激；激励",
-      "phonetic" : "ˈstɪmjʊleɪt",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "stimulate"
+      "frequency": 4489,
+      "mnemonic": "stim-（=stin-：刺激）+ ul（连接符号）+ -ate（使动词）→使刺一下\n→刺激；激励",
+      "phonetic": "ˈstɪmjəˌleɪt",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "stimulate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a stimulus to revenue：一个对收入的刺激"
       ],
-      "definition" : "鼓励，刺激；激励；刺激物",
-      "examples" : [
-
-      ],
-      "frequency" : 4573,
-      "mnemonic" : "stim-（刺激）+ ul（连接符号）+ -us（名词后缀）→刺激物，刺激，",
-      "phonetic" : "ˈstɪm.jə.ləs",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "stimulus"
+      "definition": "鼓励，刺激；激励；刺激物",
+      "examples": [],
+      "frequency": 4573,
+      "mnemonic": "stim-（刺激）+ ul（连接符号）+ -us（名词后缀）→刺激物，刺激，",
+      "phonetic": "ˈstɪmjələs",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "stimulus"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an economy in need of stimulation：一个需要刺激的经济"
       ],
-      "definition" : "鼓励；刺激",
-      "examples" : [
-
-      ],
-      "frequency" : 8133,
-      "mnemonic" : "stimulate（鼓励；刺激）+ -ion（名词后缀）→鼓励；刺激",
-      "phonetic" : "ˌstɪmjʊˈleʃn",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "stimulation"
+      "definition": "鼓励；刺激",
+      "examples": [],
+      "frequency": 8133,
+      "mnemonic": "stimulate（鼓励；刺激）+ -ion（名词后缀）→鼓励；刺激",
+      "phonetic": "ˌstɪmjəˈleɪʃən",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "stimulation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the stimulating effect of...：（身体器官）的刺激作用"
       ],
-      "definition" : "（身体器官）刺激的；引发兴趣的；激励的",
-      "examples" : [
+      "definition": "（身体器官）刺激的；引发兴趣的；激励的",
+      "examples": [
         "It is a complex yet stimulating book.\n这是一本复杂却能引发兴趣的书。"
       ],
-      "frequency" : 10313,
-      "phonetic" : "ˈstɪmjʊleɪtɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "stimulating"
+      "frequency": 10313,
+      "phonetic": "ˈstɪmjəˌleɪtɪŋ",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "stimulating"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "兴奋剂；有激励作用的事物",
-      "examples" : [
+      "collocations": [],
+      "definition": "兴奋剂；有激励作用的事物",
+      "examples": [
         "Coffee and tea are mild stimulants.\n咖啡和茶是轻度兴奋剂。"
       ],
-      "frequency" : 15105,
-      "mnemonic" : "stimulate（刺激；激励）+ -ant（名词后缀）→具有刺激作用的东西→",
-      "phonetic" : "ˈstɪmjələnt",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "stimulant"
+      "frequency": 15105,
+      "mnemonic": "stimulate（刺激；激励）+ -ant（名词后缀）→具有刺激作用的东西→",
+      "phonetic": "ˈstɪmjələnt",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "stimulant"
     },
     {
-      "collocations" : [
+      "collocations": [
         "stigma仍留在语言中，转而喻指“耻辱”、“污点”。"
       ],
-      "definition" : "耻辱；羞耻",
-      "etymology" : "在古希腊和古罗马时代，奴隶和罪犯的身上都被打上永抹不掉的 stigma。当时的stigma是“烙印”、“印记”的意思。到了17世纪英 国还沿用这一做法。根据伦敦旧城新兴门监狱（Newgate）的纪事 录，有一个绞刑吏只会用烙铁在罪犯手心打上代表thief（偷窃犯） 的字母T，因为这是他认识的唯一字母。身上打有烙印对一个人来说 总是个污点，总是个耻辱的标记。那种做法虽然以后被废止了，但",
-      "examples" : [
+      "definition": "耻辱；羞耻",
+      "etymology": "在古希腊和古罗马时代，奴隶和罪犯的身上都被打上永抹不掉的 stigma。当时的stigma是“烙印”、“印记”的意思。到了17世纪英 国还沿用这一做法。根据伦敦旧城新兴门监狱（Newgate）的纪事 录，有一个绞刑吏只会用烙铁在罪犯手心打上代表thief（偷窃犯） 的字母T，因为这是他认识的唯一字母。身上打有烙印对一个人来说 总是个污点，总是个耻辱的标记。那种做法虽然以后被废止了，但",
+      "examples": [
         "There is no longer any stigma attached to being divorced.\n离婚不再是什么羞耻的事。"
       ],
-      "frequency" : 8683,
-      "mnemonic" : "stig-（=stick：粘罪犯的皮肤，刺上让人羞耻的记号）+ -ma（名词后\n缀，表行为的结果）→在罪犯皮肤上刺上烙印的结果→耻辱；羞耻",
-      "phonetic" : "ˈstɪɡmə",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "stigma"
+      "frequency": 8683,
+      "mnemonic": "stig-（=stick：粘罪犯的皮肤，刺上让人羞耻的记号）+ -ma（名词后\n缀，表行为的结果）→在罪犯皮肤上刺上烙印的结果→耻辱；羞耻",
+      "phonetic": "ˈstɪɡmə",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "stigma"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "给……打上烙印；使感到羞耻；侮辱",
-      "examples" : [
+      "collocations": [],
+      "definition": "给……打上烙印；使感到羞耻；侮辱",
+      "examples": [
         "Children in single-parent families must not be stigmatized.\n单亲家庭的孩子不应该受到侮辱。"
       ],
-      "frequency" : 16893,
-      "mnemonic" : "stigma（烙印；刺痕标记）+ t + -ize（使动词后缀）→引申词义打上",
-      "phonetic" : "ˈstɪɡmətaɪz",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "stigmatize"
+      "frequency": 16893,
+      "mnemonic": "stigma（烙印；刺痕标记）+ t + -ize（使动词后缀）→引申词义打上",
+      "phonetic": "ˈstɪɡməˌtaɪz",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "stigmatize"
     },
     {
-      "collocations" : [
+      "collocations": [
         "incite his fellow citizens to take their revenge：煽动他的同胞们进行",
         "incite its supporters to violence：鼓动其支持者使用暴力"
       ],
-      "definition" : "煽动；鼓动",
-      "examples" : [
-
-      ],
-      "frequency" : 11643,
-      "mnemonic" : "in-（=en-：使）+ -cite（=move：动；激动）→使激动动起来→煽",
-      "phonetic" : "ɪnˈsaɪt",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "incite"
+      "definition": "煽动；鼓动",
+      "examples": [],
+      "frequency": 11643,
+      "mnemonic": "in-（=en-：使）+ -cite（=move：动；激动）→使激动动起来→煽",
+      "phonetic": "ɪnˈsaɪt",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "incite"
     },
     {
-      "collocations" : [
+      "collocations": [
         "financial incentives：经济刺激",
         "no incentive to work：对工作没有激励",
         "tax incentives：税收激励措施"
       ],
-      "definition" : "激励；刺激；鼓励",
-      "examples" : [
-
-      ],
-      "frequency" : 2750,
-      "mnemonic" : "incent（=incite：刺激）+ -ive（名词后缀，很少见）→用来当做刺激\n东西→刺激（物）；激励（物）",
-      "phonetic" : "ɪnˈsɛntɪv",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "incentive"
+      "definition": "激励；刺激；鼓励",
+      "examples": [],
+      "frequency": 2750,
+      "mnemonic": "incent（=incite：刺激）+ -ive（名词后缀，很少见）→用来当做刺激\n东西→刺激（物）；激励（物）",
+      "phonetic": "ɪnˈsɛn.tɪv",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "incentive"
     },
     {
-      "collocations" : [
+      "collocations": [
         "instigate a program of economic reform：实施了经济改革方案",
         "instigate racial violence：煽动种族暴力"
       ],
-      "definition" : "使……（正式）开始、发生，实施；煽动，鼓动",
-      "examples" : [
-
-      ],
-      "frequency" : 16245,
-      "mnemonic" : "in-（使）+ -stig（=stick：刺，棍；刺激）+ -ate（使动词后缀）→刺\n激……发生→实施；煽动，鼓励",
-      "phonetic" : "ˈɪnstəɡeɪt",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "instigate"
+      "definition": "使……（正式）开始、发生，实施；煽动，鼓动",
+      "examples": [],
+      "frequency": 16245,
+      "mnemonic": "in-（使）+ -stig（=stick：刺，棍；刺激）+ -ate（使动词后缀）→刺\n激……发生→实施；煽动，鼓励",
+      "phonetic": "ˈɪn.stə.ɡeɪt",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "instigate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be irritated by：被……激怒了",
         "irritate sb.：激怒某人",
         "irritate the skin：刺激皮肤\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "使烦恼（尤指不断重复的事情）；激怒；刺激",
-      "examples" : [
-
-      ],
-      "frequency" : 8635,
-      "mnemonic" : "irrit-（=incite：刺激，激怒；前缀ir-=in-）+ -ate（使动词后缀）→使",
-      "phonetic" : "ˈɪɹɪteɪt",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "irritate"
+      "definition": "使烦恼（尤指不断重复的事情）；激怒；刺激",
+      "examples": [],
+      "frequency": 8635,
+      "mnemonic": "irrit-（=incite：刺激，激怒；前缀ir-=in-）+ -ate（使动词后缀）→使",
+      "phonetic": "ˈɪɹ.ə.teɪt",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "irritate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "try not to let his irritation show：竭力不把自己的恼怒表现出来",
         "a minor irritation：一件烦人的小事",
         "cause irritation to sensitive skins：对敏感皮肤造成刺激"
       ],
-      "definition" : "恼怒；恼人的事；刺激",
-      "examples" : [
-
-      ],
-      "frequency" : 9376,
-      "mnemonic" : "irritate（使烦恼；刺激）+ -ion（名词后缀）→让人恼怒的事情；恼",
-      "phonetic" : "ˌɪɹɪˈteɪʃən",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "irritation"
+      "definition": "恼怒；恼人的事；刺激",
+      "examples": [],
+      "frequency": 9376,
+      "mnemonic": "irritate（使烦恼；刺激）+ -ion（名词后缀）→让人恼怒的事情；恼",
+      "phonetic": "ˌɪɹ.əˈteɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "irritation"
     },
     {
-      "collocations" : [
+      "collocations": [
         "In heavy concentrations, ozone is irritating to the eyes, nose and throat.\n浓度极高时，臭氧对眼睛、鼻子和喉咙是有刺激的。"
       ],
-      "definition" : "令人恼火的；对……有刺激的",
-      "examples" : [
+      "definition": "令人恼火的；对……有刺激的",
+      "examples": [
         "They also have the irritating habit of interrupting.\n他们也有打断别人这个令人恼火的习惯"
       ],
-      "frequency" : 12848,
-      "mnemonic" : "irritate（恼火；刺激）+ -ing（令人……的）→令人恼火的；对……",
-      "phonetic" : "ˈɪrɪteɪtɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "irritating"
+      "frequency": 12848,
+      "mnemonic": "irritate（恼火；刺激）+ -ing（令人……的）→令人恼火的；对……",
+      "phonetic": "ˈɪɹ.ə.teɪ.tɪŋ",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "irritating"
     },
     {
-      "collocations" : [
+      "collocations": [
         "get irritated with her：被她激怒了"
       ],
-      "definition" : "被激怒的",
-      "examples" : [
-
-      ],
-      "frequency" : 16557,
-      "phonetic" : "ˈɪɹɪteɪtɪd",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "irritated"
+      "definition": "被激怒的",
+      "examples": [],
+      "frequency": 16557,
+      "phonetic": "ˈɪɹ.ə.teɪ.tɪd",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "irritated"
     },
     {
-      "collocations" : [
+      "collocations": [
         "feel irritable：感觉烦躁的",
         "an irritable gesture：一个急躁的姿势"
       ],
-      "definition" : "易怒的，烦躁的；急躁的",
-      "examples" : [
-
-      ],
-      "frequency" : 14747,
-      "mnemonic" : "irrit-（=irritate：使烦恼；激怒）+ -able（表示易于……的）→易怒",
-      "phonetic" : "ˈɪɹɪtəbl",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "irritable"
+      "definition": "易怒的，烦躁的；急躁的",
+      "examples": [],
+      "frequency": 14747,
+      "mnemonic": "irrit-（=irritate：使烦恼；激怒）+ -able（表示易于……的）→易怒",
+      "phonetic": "ˈɪɹ.ɪ.tə.bəl",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "irritable"
     },
     {
-      "collocations" : [
+      "collocations": [
         "irritant substances：刺激性物质",
         "Many pesticides are irritants.\n许多杀虫剂都有刺激性。\n笔 记 区"
       ],
-      "definition" : "刺激物；令人烦恼的事物，造成麻烦的事物",
-      "examples" : [
+      "definition": "刺激物；令人烦恼的事物，造成麻烦的事物",
+      "examples": [
         "He said the issue was not a major irritant.\n他说这一问题不是让他恼火的主要原因。"
       ],
-      "frequency" : 18999,
-      "mnemonic" : "irrit（=irritate：使烦恼）+ -ant（名词后缀，表事物）→令人烦恼的",
-      "phonetic" : "ˈɪɹɪtənt",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "irritant"
+      "frequency": 18999,
+      "mnemonic": "irrit（=irritate：使烦恼）+ -ant（名词后缀，表事物）→令人烦恼的",
+      "phonetic": "ˈɪɹ.ə.tənt",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "irritant"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "易怒",
-      "examples" : [
-
-      ],
-      "frequency" : 20041,
-      "mnemonic" : "irritable（易怒的）+ -ity（名词后缀，指具备某种性质）→易怒",
-      "phonetic" : "ˌɪɹɪtəˈbɪlɪti",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "irritability"
+      "collocations": [],
+      "definition": "易怒",
+      "examples": [],
+      "frequency": 20041,
+      "mnemonic": "irritable（易怒的）+ -ity（名词后缀，指具备某种性质）→易怒",
+      "phonetic": "ˌɪɹ.ɪ.təˈbɪl.ə.ti",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "irritability"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be annoyed by sth.：……使他心烦"
       ],
-      "definition" : "使恼怒；使心烦",
-      "etymology" : "在16至17世纪时annoy本是个军事用语，有“骚扰”、“破坏”等 义，例如annoy a town，annoy the coast。从法语anoiier ‘to weary, vex, anger’ 演变而来，今多释义为“使烦恼”或“使恼怒”。",
-      "examples" : [
-
-      ],
-      "frequency" : 10084,
-      "mnemonic" : "anno（=irrit：激怒；刺激）+ -oy（动词后缀）→使恼怒；使心烦\n趣记：an-（=ad：去）+ noy（谐音“闹”）→去闹→使心烦",
-      "phonetic" : "əˈnɔɪ",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "annoy"
+      "definition": "使恼怒；使心烦",
+      "etymology": "在16至17世纪时annoy本是个军事用语，有“骚扰”、“破坏”等 义，例如annoy a town，annoy the coast。从法语anoiier ‘to weary, vex, anger’ 演变而来，今多释义为“使烦恼”或“使恼怒”。",
+      "examples": [],
+      "frequency": 10084,
+      "mnemonic": "anno（=irrit：激怒；刺激）+ -oy（动词后缀）→使恼怒；使心烦\n趣记：an-（=ad：去）+ noy（谐音“闹”）→去闹→使心烦",
+      "phonetic": "əˈnɔɪ",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "annoy"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "恼怒的",
-      "examples" : [
+      "collocations": [],
+      "definition": "恼怒的",
+      "examples": [
         "I was annoyed with myself for giving in so easily.\n我恼怒的是我自己那么轻易就让步了。"
       ],
-      "frequency" : 8843,
-      "mnemonic" : "annoy（使恼怒）+ -ed（形容词后缀）→恼怒的",
-      "phonetic" : "əˈnɔɪd",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "annoyed"
+      "frequency": 8843,
+      "mnemonic": "annoy（使恼怒）+ -ed（形容词后缀）→恼怒的",
+      "phonetic": "əˈnɔɪd",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "annoyed"
     },
     {
-      "collocations" : [
+      "collocations": [
         "find my attitude annoying：觉得我的态度让人恼怒"
       ],
-      "definition" : "令人恼怒的；让人心烦的",
-      "examples" : [
+      "definition": "令人恼怒的；让人心烦的",
+      "examples": [
         "Her most annoying habit was eating with her mouth open.\n她最烦人的习惯就是张着嘴吃东西。"
       ],
-      "frequency" : 8443,
-      "mnemonic" : "annoy（使烦恼；使心烦）+ -ing（令人……的）→令人恼怒的；让人",
-      "phonetic" : "əˈnɑɪɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "annoying"
+      "frequency": 8443,
+      "mnemonic": "annoy（使烦恼；使心烦）+ -ing（令人……的）→令人恼怒的；让人",
+      "phonetic": "əˈnɔɪɪŋ",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "annoying"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Snoring can be more than an annoyance.\n打呼噜不只是一桩烦人的事。"
       ],
-      "definition" : "烦恼，生气；让人烦恼的事，令人生气的事物",
-      "examples" : [
+      "definition": "烦恼，生气；让人烦恼的事，令人生气的事物",
+      "examples": [
         "To her annoyance the stranger did not go away.\n让她厌烦的是这个陌生人没有离开。"
       ],
-      "frequency" : 10789,
-      "mnemonic" : "annoy（使烦恼；使心烦）+ -ance（名词后缀）→烦恼、生气；让人",
-      "phonetic" : "əˈnɔɪəns",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "annoyance"
+      "frequency": 10789,
+      "mnemonic": "annoy（使烦恼；使心烦）+ -ance（名词后缀）→烦恼、生气；让人",
+      "phonetic": "əˈnɔɪəns",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "annoyance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "spur action：加速行动",
         "spur passage of legislation：推动法律通过",
         "spur economic growth：加速经济成长",
         "a spur to efficiency：促进效率提高"
       ],
-      "definition" : "鼓动；激励；加速 n. 促进因素；推动",
-      "examples" : [
-        "His speech was a powerful spur to action.\n他的讲话很有激励作用。\n单词 \/ 词根表示“身体；主体；物体”等含义"
+      "definition": "鼓动；激励；加速 n. 促进因素；推动",
+      "examples": [
+        "His speech was a powerful spur to action.\n他的讲话很有激励作用。\n单词 / 词根表示“身体；主体；物体”等含义"
       ],
-      "frequency" : 6550,
-      "mnemonic" : "s（加强语气）+ p（无意义）+ ur（=urge：鼓励；推动；催促）→鼓",
-      "phonetic" : "spɝ",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "spur"
+      "frequency": 6550,
+      "mnemonic": "s（加强语气）+ p（无意义）+ ur（=urge：鼓励；推动；催促）→鼓",
+      "phonetic": "spɝ",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "spur"
     },
     {
-      "collocations" : [
+      "collocations": [
         "human or animal; material Frame, material existence of a human; main or",
         "principal part of anything”.",
         "a human body：人体",
         "the body of a plane：飞机机身",
         "professional bodies：专业团体",
-        "a vast body of evidence \/ information \/ research：大量证据 \/ 信息 \/ 研究",
+        "a vast body of evidence / information / research：大量证据 / 信息 / 研究",
         "heavenly bodies：天体（恒星、行星等）（天上的物体）"
       ],
-      "definition" : "身体；（尤指建筑、车辆或书、文章等的）主体，主要部分；团体，机构；大量；物体",
-      "etymology" : "来自古英语bodig “trunk of a man or beast, physical structure of a",
-      "examples" : [
-
-      ],
-      "frequency" : 314,
-      "phonetic" : "ˈbɑdi",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "body"
+      "definition": "身体；（尤指建筑、车辆或书、文章等的）主体，主要部分；团体，机构；大量；物体",
+      "etymology": "来自古英语bodig “trunk of a man or beast, physical structure of a",
+      "examples": [],
+      "frequency": 314,
+      "phonetic": "ˈbɑ.di",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "body"
     },
     {
-      "collocations" : [
-        "bodily functions \/ changes \/ needs：身体的机能 \/ 变化 \/ 需要",
+      "collocations": [
+        "bodily functions / changes / needs：身体的机能 / 变化 / 需要",
         "The monument was moved bodily to a new site.\n整个纪念碑被迁到了新的地点。\n笔 记 区"
       ],
-      "definition" : "人体的；身体的 adv. 移动全身地，用力地；整个地，完全地",
-      "examples" : [
+      "definition": "人体的；身体的 adv. 移动全身地，用力地；整个地，完全地",
+      "examples": [
         "He lifted her bodily into the air.\n他把她整个身体（人）举到空中。"
       ],
-      "frequency" : 8580,
-      "mnemonic" : "body（身体，变y为i）+ -ly（形容词 \/ 副词后缀）→身体的；移动全\n身地→引申义为用力地；整个地，完全地",
-      "phonetic" : "ˈbɑdɪli",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "bodily"
+      "frequency": 8580,
+      "mnemonic": "body（身体，变y为i）+ -ly（形容词 / 副词后缀）→身体的；移动全\n身地→引申义为用力地；整个地，完全地",
+      "phonetic": "ˈbɑ.də.li",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "bodily"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "某人 n. 大人物",
-      "examples" : [
+      "collocations": [],
+      "definition": "某人 n. 大人物",
+      "examples": [
         "Somebody left you a message.\n某人留下了一个消息。"
       ],
-      "frequency" : 1003,
-      "mnemonic" : "some（某些；有的）+ body（人）→某些人；引申义为大人物",
-      "phonetic" : "ˈsʌmbɑdi",
-      "pos" : "pron.",
-      "rootHint" : "sting",
-      "word" : "somebody"
+      "frequency": 1003,
+      "mnemonic": "some（某些；有的）+ body（人）→某些人；引申义为大人物",
+      "phonetic": "ˈsʌmˌbɑdi",
+      "pos": "pron.",
+      "rootHint": "sting",
+      "word": "somebody"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "没有人；没有任何人 n. 小人物；无足轻重的人",
-      "examples" : [
+      "collocations": [],
+      "definition": "没有人；没有任何人 n. 小人物；无足轻重的人",
+      "examples": [
         "She rose from being a nobody to become a superstar.\n她从无足轻重的人一跃成为超级明星。"
       ],
-      "frequency" : 1154,
-      "mnemonic" : "no（没有）+ body（人）→没有人；比喻义为小人物",
-      "phonetic" : "ˈnoʊ.bɑ.di",
-      "pos" : "pron.",
-      "rootHint" : "sting",
-      "word" : "nobody"
+      "frequency": 1154,
+      "mnemonic": "no（没有）+ body（人）→没有人；比喻义为小人物",
+      "phonetic": "ˈnoʊ.bɑ.di",
+      "pos": "pron.",
+      "rootHint": "sting",
+      "word": "nobody"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "任何人；（用于否定句）重要人物（wasn’t anybody）",
-      "examples" : [
+      "collocations": [],
+      "definition": "任何人；（用于否定句）重要人物（wasn’t anybody）",
+      "examples": [
         "Anybody can use the pool—you don’t need to be a member.\n任何人都可使用这个游泳池，不必是会员。\nShe wasn’t anybody before she got that job.\n她在获得那个职位之前不过是个无名之辈。"
       ],
-      "frequency" : 1387,
-      "mnemonic" : "any（任何的）+ body（人）→任何人；比喻义为重要人物（用于否",
-      "phonetic" : "ˈɛn.i.bɑd.i",
-      "pos" : "pron.",
-      "rootHint" : "sting",
-      "word" : "anybody"
+      "frequency": 1387,
+      "mnemonic": "any（任何的）+ body（人）→任何人；比喻义为重要人物（用于否",
+      "phonetic": "ˈɛniˌbɑdi",
+      "pos": "pron.",
+      "rootHint": "sting",
+      "word": "anybody"
     },
     {
-      "collocations" : [
-
+      "collocations": [],
+      "definition": "保镖，警卫（队）",
+      "examples": [
+        "The President’s bodyguard is / are armed.\n总统的保镖携带着武器。"
       ],
-      "definition" : "保镖，警卫（队）",
-      "examples" : [
-        "The President’s bodyguard is \/ are armed.\n总统的保镖携带着武器。"
-      ],
-      "frequency" : 8255,
-      "mnemonic" : "body（身体）+ guard（警戒；保护）→保护人身安全，警戒侵犯的\n人→保镖；警卫",
-      "phonetic" : "ˈbɑdiɡɑd",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "bodyguard"
+      "frequency": 8255,
+      "mnemonic": "body（身体）+ guard（警戒；保护）→保护人身安全，警戒侵犯的\n人→保镖；警卫",
+      "phonetic": "ˈbɑ.di.ɡɑɹd",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "bodyguard"
     },
     {
-      "collocations" : [
+      "collocations": [
         "carry antibody：携带抗体"
       ],
-      "definition" : "抗体（血液中抵抗疾病或当某些物质进入身体时产生反应的物质）",
-      "examples" : [
-
-      ],
-      "frequency" : 8980,
-      "mnemonic" : "anti-（=against：反对；对抗）+ body（身体）→对抗某些物质进入身\n体的物质→抗体",
-      "phonetic" : "ˈæntɪbɑdɪ",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "antibody"
+      "definition": "抗体（血液中抵抗疾病或当某些物质进入身体时产生反应的物质）",
+      "examples": [],
+      "frequency": 8980,
+      "mnemonic": "anti-（=against：反对；对抗）+ body（身体）→对抗某些物质进入身\n体的物质→抗体",
+      "phonetic": "ˈæntiˌbɑdi",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "antibody"
     },
     {
-      "collocations" : [
+      "collocations": [
         "embody the most sophisticated technology：体现了最复杂的技术",
         "embody the hopes of black youth：代表黑人青年希望"
       ],
-      "definition" : "体现，具体象征（思想或品质），代表；包含，包括",
-      "examples" : [
+      "definition": "体现，具体象征（思想或品质），代表；包含，包括",
+      "examples": [
         "This model embodies many new features.\n这种型号包含许多新特点。"
       ],
-      "frequency" : 5153,
-      "mnemonic" : "em-（=en-=in-：里面）+ body（身体）→在体内→“体”现（比如：",
-      "phonetic" : "ɪmˈbɑdi",
-      "pos" : "vt.",
-      "rootHint" : "sting",
-      "word" : "embody"
+      "frequency": 5153,
+      "mnemonic": "em-（=en-=in-：里面）+ body（身体）→在体内→“体”现（比如：",
+      "phonetic": "ɪm.ˈbɑ.di",
+      "pos": "vt.",
+      "rootHint": "sting",
+      "word": "embody"
     },
     {
-      "collocations" : [
+      "collocations": [
         "A baby is the embodiment of vulnerability.\n婴儿是脆弱的化身。"
       ],
-      "definition" : "（集中体现一种思想或品质的）典型；化身",
-      "examples" : [
+      "definition": "（集中体现一种思想或品质的）典型；化身",
+      "examples": [
         "He is the embodiment of the young successful businessman.\n他是成功青年企业家的典型。"
       ],
-      "frequency" : 11250,
-      "mnemonic" : "embody（体现；代表，变y为i）+ -ment（名词后缀）→……的体\n现，代表→典型；化身",
-      "phonetic" : "ɪmˈbɑdɪmənt",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "embodiment"
+      "frequency": 11250,
+      "mnemonic": "embody（体现；代表，变y为i）+ -ment（名词后缀）→……的体\n现，代表→典型；化身",
+      "phonetic": "ɪm.ˈbɑ.di.mənt",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "embodiment"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a disembodied voice：从看不到人的地方发出（不见其人）的说话声",
         "disembodied spirits：脱离肉体的灵魂\n笔 记 区"
       ],
-      "definition" : "从看不到的人（或地方）发出的；脱离肉体的",
-      "examples" : [
-
-      ],
-      "frequency" : 19581,
-      "mnemonic" : "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed\n（形容词后缀）→脱离人体存在的→即脱离肉体的；从看不到的人",
-      "phonetic" : "dɪsɪmˈbɑdiːd",
-      "pos" : "adj.",
-      "rootHint" : "sting",
-      "word" : "disembodied"
+      "definition": "从看不到的人（或地方）发出的；脱离肉体的",
+      "examples": [],
+      "frequency": 19581,
+      "mnemonic": "dis-（分离）+ embody（进入肉体，具体在身上体现，变y为i）+ -ed\n（形容词后缀）→脱离人体存在的→即脱离肉体的；从看不到的人",
+      "phonetic": "ˌdɪs.ɪmˈbɑ.did",
+      "pos": "adj.",
+      "rootHint": "sting",
+      "word": "disembodied"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "连衣裙的上身部分",
-      "examples" : [
-
-      ],
-      "frequency" : 19964,
-      "mnemonic" : "body（上半身）+ -ice（名词后缀）→连衣裙的上身部分",
-      "phonetic" : "ˈbɑdɪs",
-      "pos" : "n.",
-      "rootHint" : "sting",
-      "word" : "bodice"
+      "collocations": [],
+      "definition": "连衣裙的上身部分",
+      "examples": [],
+      "frequency": 19964,
+      "mnemonic": "body（上半身）+ -ice（名词后缀）→连衣裙的上身部分",
+      "phonetic": "ˈbɑ.dɪs",
+      "pos": "n.",
+      "rootHint": "sting",
+      "word": "bodice"
     }
   ]
 }

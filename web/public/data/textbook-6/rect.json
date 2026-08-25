@@ -1,61 +1,53 @@
 {
-  "chapter" : "28",
-  "chapterOrder" : 128,
-  "id" : "rect",
-  "meaningEn" : "right，表示“纠正；矫正；改正”。",
-  "roots" : [
+  "chapter": "28",
+  "chapterOrder": 128,
+  "id": "rect",
+  "meaningEn": "right，表示“纠正；矫正；改正”。",
+  "roots": [
     "rect"
   ],
-  "semanticLabel" : "right，表示纠正；矫正；改正。",
-  "source" : "textbook-6",
-  "titleZh" : "right，表示纠正；矫正；改正。",
-  "words" : [
+  "semanticLabel": "right，表示纠正；矫正；改正。",
+  "source": "textbook-6",
+  "titleZh": "right，表示纠正；矫正；改正。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "to rectify a fault：改正缺点"
       ],
-      "definition" : "矫正；纠正；改正",
-      "examples" : [
-
-      ],
-      "frequency" : 14904,
-      "mnemonic" : "rect（=right：改正）+ -ify（使动词）→纠正；矫正；改正",
-      "phonetic" : "ˈɹɛktəˌfaɪ",
-      "pos" : "vt.",
-      "rootHint" : "rect",
-      "word" : "rectify"
+      "definition": "矫正；纠正；改正",
+      "examples": [],
+      "frequency": 14904,
+      "mnemonic": "rect（=right：改正）+ -ify（使动词）→纠正；矫正；改正",
+      "phonetic": "ˈɹɛk.tə.faɪ",
+      "pos": "vt.",
+      "rootHint": "rect",
+      "word": "rectify"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "长方形；矩形",
-      "examples" : [
-
-      ],
-      "frequency" : 10295,
-      "mnemonic" : "rect-（直的）+ angle（角）→四角为直角的几何图形→长方形；矩形",
-      "phonetic" : "ˈrɛkˌtæŋɡəl",
-      "pos" : "n.",
-      "rootHint" : "rect",
-      "word" : "rectangle"
+      "collocations": [],
+      "definition": "长方形；矩形",
+      "examples": [],
+      "frequency": 10295,
+      "mnemonic": "rect-（直的）+ angle（角）→四角为直角的几何图形→长方形；矩形",
+      "phonetic": "ˈɹɛk.tæŋ.ɡəl",
+      "pos": "n.",
+      "rootHint": "rect",
+      "word": "rectangle"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a rectangular area：长方形场地",
         "a rectangular table：一张长方形的桌子\n-ular后缀，表示“有……形状或性质的”：\n表形状：globular adj. 球形的（globe：球状）\nzonular adj. 带状的（zone：区域；带状）\n表性质：spectacular adj. 壮观的（spect-：看+ ac-+ -ular）\ntitular adj. 名义上的（title：名义；头衔）",
         "cellular adj. 细胞的（cell：细胞）\njocular adj. 滑稽的（joc-=joke：好玩；玩笑）\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "长方形的，矩形的；成直角的，有直角的",
-      "examples" : [
-
-      ],
-      "frequency" : 9755,
-      "mnemonic" : "rectang（=rectangle：长方形；矩形；直角）+ -ular（形容词后缀）→",
-      "phonetic" : "rekˈtæŋɡjələ(r)",
-      "pos" : "adj.",
-      "rootHint" : "rect",
-      "word" : "rectangular"
+      "definition": "长方形的，矩形的；成直角的，有直角的",
+      "examples": [],
+      "frequency": 9755,
+      "mnemonic": "rectang（=rectangle：长方形；矩形；直角）+ -ular（形容词后缀）→",
+      "phonetic": "ɹɛkˈtæŋ.ɡjə.lɚ",
+      "pos": "adj.",
+      "rootHint": "rect",
+      "word": "rectangular"
     }
   ]
 }

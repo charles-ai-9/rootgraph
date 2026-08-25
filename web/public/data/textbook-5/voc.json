@@ -51,7 +51,7 @@
       "examples": [],
       "frequency": 4539,
       "mnemonic": "voc-（=sound, speak：声音；说话）+ -al（形容词后缀）→嗓音的；",
-      "phonetic": "ˈvoʊ.kəl",
+      "phonetic": "ˈvoʊkəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "vocal"
@@ -91,7 +91,7 @@
       "examples": [],
       "frequency": 8439,
       "mnemonic": "vocation（职业）+ -al（形容词后缀）→职业的；职业技术的",
-      "phonetic": "voʊˈkeɪʃənl",
+      "phonetic": "voʊˈkeɪʃənəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "vocational"
@@ -122,7 +122,7 @@
       "etymology": "c. 1300, from Old French voieul (Modern French voyelle), from Latin “voice,” from PIE root *wekw-“to speak.”",
       "examples": [],
       "frequency": 14006,
-      "phonetic": "vaʊl",
+      "phonetic": "ˈvaʊ.əl",
       "pos": "n.",
       "rootHint": "voc",
       "word": "vowel"
@@ -185,7 +185,7 @@
       ],
       "frequency": 12974,
       "mnemonic": "provoc（=provoke：激怒；挑衅）+ -ation（名词后缀）→激怒；挑",
-      "phonetic": "ˌpɹɑvəˈkeɪʃən",
+      "phonetic": "ˌpɹɑ.vəˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "provocation"
@@ -200,7 +200,7 @@
       "examples": [],
       "frequency": 7344,
       "mnemonic": "provoc（=provoke：挑衅）+ -ative（形容词后缀）→挑衅的；挑逗性",
-      "phonetic": "pɹəˈvɑk.ə.tɪv",
+      "phonetic": "pɹəˈvɑ.kə.tɪv",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "provocative"
@@ -220,7 +220,7 @@
       "examples": [],
       "frequency": 5078,
       "mnemonic": "e-（=ex：出来）+ -vok-（喊；叫）+ -e→叫出来→引起；唤起\na-（加强语气=to：去）+ -rouse（=raise：唤起，激起；首尾辅音均相\n同，中间元音发生变化是合理现象，二者同源）→激起；激发\ne-（=out：向外）+ -vok-（=to call：叫喊）+ -e→call out：大声呼\n叫，大声说（以吸引注意力）→引起；唤起（感情、记忆或形象）",
-      "phonetic": "ɪˈvoʊk",
+      "phonetic": "ɪ.ˈvoʊk",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "evoke"
@@ -251,7 +251,7 @@
       "examples": [],
       "frequency": 15738,
       "mnemonic": "invoc（=invoke：唤起；引起）+ -ation（名词后缀）→祈求；开场祈",
-      "phonetic": "ˌɪnvəˈkeɪʃn",
+      "phonetic": "ˌɪn.vəˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "invocation"
@@ -264,7 +264,7 @@
       "examples": [],
       "frequency": 12938,
       "mnemonic": "re-（=back：向后；往回）+ -vok（=to call：叫喊）+ -e→call back：\n喊回去→引申词义撤销；废除",
-      "phonetic": "rɪˈvoʊk",
+      "phonetic": "ɹɪ.ˈvoʊk",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "revoke"
@@ -278,7 +278,7 @@
       "examples": [],
       "frequency": 18535,
       "mnemonic": "ir-（=not：不；无）+ revoc（=revoke：撤销；废除）+ -able（形容词\n后缀，能够……的）+ -ly（副词后缀）→不能撤回地",
-      "phonetic": "ɪˈrɛvəkəbli",
+      "phonetic": "ɪˈɹɛv.ə.kə.bli",
       "pos": "adv.",
       "rootHint": "voc",
       "word": "irrevocably"
@@ -292,7 +292,7 @@
       "examples": [],
       "frequency": 17629,
       "mnemonic": "evoc（=evoke：引起；唤起）+ -ation（名词后缀）→唤起→（形象）",
-      "phonetic": "ˌiːvoʊˈkeɪʃn",
+      "phonetic": "ˌɛ.voʊ.ˈkeɪ.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "evocation"
@@ -305,7 +305,7 @@
       "examples": [],
       "frequency": 13948,
       "mnemonic": "evoc（=evoke：引起；唤起）+ -ative（复合形容词后缀）→唤起（感",
-      "phonetic": "ɪˈvɑkətɪv",
+      "phonetic": "ɪ.ˈvɑ.kə.tɪv",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "evocative"
@@ -318,7 +318,7 @@
       "examples": [],
       "frequency": 16284,
       "mnemonic": "un-（=not：不）+ equi-（=equal：相等的）+ voc（=sound：声音）+\n-al（形容词后缀）→not of identical sound, not of equal voice：声音不\n一样的→表达明确的；毫不含糊的",
-      "phonetic": "ʌnɨˈkwɪvəkəl",
+      "phonetic": "ˌʌnɪˈkwɪvəkəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "unequivocal"
@@ -331,7 +331,7 @@
       "examples": [],
       "frequency": 5215,
       "mnemonic": "unequivocal （表达明确的；毫不含糊的）+ -ly（副词后缀）→明确",
-      "phonetic": "ʌnɨˈkwɪvək(ə)lɪ",
+      "phonetic": "ˌʌnɪˈkwɪvəkəli",
       "pos": "adv.",
       "rootHint": "voc",
       "word": "unequivocally"
@@ -347,7 +347,7 @@
       "etymology": "Early 14c., “summon into court to prove a title,” from Anglo-French “guarantee to be true or accurate” is first attested 1590s. Related: Vouched; vouching. 原指召唤到法庭出庭证明一项权利，引申词义担保，保 证……正确。",
       "examples": [],
       "frequency": 18936,
-      "phonetic": "ˈvaʊtʃ",
+      "phonetic": "vaʊtʃ",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "vouch"
@@ -364,7 +364,7 @@
       "examples": [],
       "frequency": 7381,
       "mnemonic": "vouch：担保→引申词义担保兑现的凭据，用于指票券",
-      "phonetic": "ˈvaʊtʃə(ɹ)",
+      "phonetic": "ˈvaʊ.tʃɚ",
       "pos": "n.",
       "rootHint": "voc",
       "word": "voucher"
@@ -427,7 +427,7 @@
       "examples": [],
       "frequency": 5991,
       "mnemonic": "tempt（引诱）+-ation（名词后缀）→引诱；诱惑",
-      "phonetic": "tɛmpˈteɪʃən",
+      "phonetic": "tɛmpˈteɪ.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "temptation"
@@ -499,7 +499,7 @@
       "examples": [],
       "frequency": 378,
       "mnemonic": "a-（=in-）+ cross（十字）→in the shape of a cross：以十字的形状→",
-      "phonetic": "əˈkɹɔs",
+      "phonetic": "ə.ˈkɹɔs",
       "pos": "prep.",
       "rootHint": "voc",
       "word": "across"
@@ -513,7 +513,7 @@
       "definition": "横渡；人行横道；十字（交叉）路口；横穿",
       "examples": [],
       "frequency": 6393,
-      "phonetic": "ˈkɹɔsɪŋ",
+      "phonetic": "ˈkɹɔ.sɪŋ",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossing"
@@ -530,7 +530,7 @@
       ],
       "frequency": 9088,
       "mnemonic": "cross（穿越）+ country（国家）→穿越国家的→越野（的）；横越全",
-      "phonetic": "ˈkrɔ:sˈkʌntri",
+      "phonetic": "ˌkɹɔsˈkʌn.tɹi",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "cross-country"
@@ -544,7 +544,7 @@
       "examples": [],
       "frequency": 9330,
       "mnemonic": "cross（交叉；十字）+ roads（路口）→交叉路口→引申义为紧要关头",
-      "phonetic": "ˈkrɑsroʊdz",
+      "phonetic": "ˈkɹɔs.ɹoʊdz",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossroads"
@@ -558,7 +558,7 @@
       "examples": [],
       "frequency": 11610,
       "mnemonic": "cross（穿越）+ cultural（文化的）→穿越文化的→跨文化的",
-      "phonetic": "ˌkrɔsˈkʌltʃərəl",
+      "phonetic": "ˌkɹɔsˈkʌl.tʃə.ɹəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "cross-cultural"
@@ -572,7 +572,7 @@
       "examples": [],
       "frequency": 12840,
       "mnemonic": "cross（横跨）+ over（越过；（部分或全部地覆盖）在……之上）→",
-      "phonetic": "ˈkrɑsoʊvə",
+      "phonetic": "ˈkɹɔ.soʊ.vɚ",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossover"
@@ -585,7 +585,7 @@
       "examples": [],
       "frequency": 16012,
       "mnemonic": "cross（交叉）+ word（单词）→单词交叉的（游戏）→纵横字谜",
-      "phonetic": "ˈkrɑswɝd",
+      "phonetic": "ˈkɹɔs.wɝd",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossword"
@@ -599,7 +599,7 @@
       "examples": [],
       "frequency": 16628,
       "mnemonic": "cross（交叉）+ section（部分；断面图）→交叉部分；共同特征→典",
-      "phonetic": "ˌkrɔsˈsɛkʃən",
+      "phonetic": "ˈkɹɔs.ˌsɛk.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "cross-section"
@@ -611,7 +611,7 @@
       "definition": "截面的；断面的",
       "examples": [],
       "frequency": 16407,
-      "phonetic": "krɔsˈsɛkʃənl",
+      "phonetic": "ˌkɹɔsˈsɛk.ʃə.nəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "cross-sectional"
@@ -624,7 +624,7 @@
       "examples": [],
       "frequency": 16779,
       "mnemonic": "cross（交互的）+ examination（查问）→交互查问→盘问",
-      "phonetic": "ˈkrɔsigˌzæmiˈneiʃn",
+      "phonetic": "ˌkɹɔs.ɪɡ.zæ.məˈneɪ.ʃən",
       "pos": "n.",
       "rootHint": "voc",
       "word": "cross-examination"
@@ -637,7 +637,7 @@
       "examples": [],
       "frequency": 17296,
       "mnemonic": "cross（交叉）+leg（腿，双写g）+-ed（形容词后缀）→双腿交叉的\n→盘腿打坐的",
-      "phonetic": "ˈkrɔ:sˈleɡid",
+      "phonetic": "ˌkɹɔsˈlɛɡ.ɪd",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "cross-legged"
@@ -650,7 +650,7 @@
       "examples": [],
       "frequency": 17359,
       "mnemonic": "cross（交叉）+ fire（火力）→交叉火力",
-      "phonetic": "ˈkɹɑsfaɪr",
+      "phonetic": "ˈkɹɔs.faɪɚ",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crossfire"
@@ -664,7 +664,7 @@
       "examples": [],
       "frequency": 17479,
       "mnemonic": "cross（交叉；相交）+ talk（通话）→交叉通话→（通讯系统的）串",
-      "phonetic": "ˈkrɔsˌtɔk",
+      "phonetic": "ˈkɹɔs.tɔk",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crosstalk"
@@ -678,7 +678,7 @@
       "examples": [],
       "frequency": 17751,
       "mnemonic": "cross（十字）+ wise（副词后缀，表方向）→沿着十字方向的，\n在……上构成十字形图案→对角横穿地",
-      "phonetic": "ˈkrɑswaɪz",
+      "phonetic": "ˈkɹɔs.waɪz",
       "pos": "adv.",
       "rootHint": "voc",
       "word": "crosswise"
@@ -705,7 +705,7 @@
       "examples": [],
       "frequency": 2419,
       "mnemonic": "cruc-（=cross：十字架，十字路口）+-ial（形容词后缀）→至关重要",
-      "phonetic": "ˈkɹuː.ʃəl",
+      "phonetic": "ˈkɹu.ʃəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "crucial"
@@ -718,7 +718,7 @@
       "definition": "重要的；有势力的；权威的",
       "examples": [],
       "frequency": 267,
-      "phonetic": "ɪmˈpɔɹtənt",
+      "phonetic": "ɪmˈpɔɹ.tənt",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "important"
@@ -731,7 +731,7 @@
       "definition": "对……极重要的；维持生命所必需的",
       "examples": [],
       "frequency": 2939,
-      "phonetic": "ˈvaɪt̬əl",
+      "phonetic": "ˈvaɪtəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "vital"
@@ -745,7 +745,7 @@
       "definition": "至关重要的；必不可少的 n. 必需品；要点",
       "examples": [],
       "frequency": 1963,
-      "phonetic": "ɪˈsɛn.ʃəl",
+      "phonetic": "ɪ.ˈsɛn.ʃəl",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "essential"
@@ -760,7 +760,7 @@
       "examples": [],
       "frequency": 17775,
       "mnemonic": "cruci（=cross：十字架）+-fy（=fix：使固定）→把人钉死 / 固定在十\n字架上以处死某人→把……钉死在十字架；严厉批评；折磨",
-      "phonetic": "ˈkɹuːsɪfaɪ",
+      "phonetic": "ˈkɹu.sə.faɪ",
       "pos": "vt.",
       "rootHint": "voc",
       "word": "crucify"
@@ -774,7 +774,7 @@
       "examples": [],
       "frequency": 15175,
       "mnemonic": "那一位→耶稣受难像。将人钉死在十字架上是古罗马帝国的一种酷",
-      "phonetic": "ˈkɹuː.sɨˌfɪks",
+      "phonetic": "ˈkɹu.sə.fɪks",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crucifix"
@@ -788,7 +788,7 @@
       "examples": [],
       "frequency": 13556,
       "mnemonic": "ex-（=thoroughly：完全地）+ -cruci（=crucify：给某人造成痛苦；折\n磨）+ -ating（-ate+-ing）→使人极度痛苦的",
-      "phonetic": "ɛkˈskɹuːʃiːeɪtɪŋ",
+      "phonetic": "ɪk.ˈskɹu.ʃi.eɪ.tɪŋ",
       "pos": "adj.",
       "rootHint": "voc",
       "word": "excruciating"
@@ -802,7 +802,7 @@
       "etymology": "“military expedition under the banner of the cross”，1706。因战士携带 十字架而得名。十字军东征（拉丁文：Cruciata，1096年－1291年） 是一系列在罗马天主教教皇的准许下进行的、持续近200年的、有名 的宗教性军事行动，由西欧的封建领主和骑士以收复阿拉伯穆斯林入 侵占领的土地的名义对地中海东岸国家发动的战争，前后共计九次。 十字架是基督教的象征，因此每个参加出征的人胸前和臂上都佩戴 “十”字标记，故称“十字军”。 近义词：campaign：运动（为社会、商业或政治目的而进行的一系列有计划 的活动）；战役",
       "examples": [],
       "frequency": 7439,
-      "phonetic": "kɹuːˈseɪd",
+      "phonetic": "kɹuˈseɪd",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crusade"
@@ -815,7 +815,7 @@
       "definition": "十字军战士；（支持某项事业的）斗士",
       "examples": [],
       "frequency": 14820,
-      "phonetic": "kɹuːˈseɪdə",
+      "phonetic": "kɹuˈseɪ.dɚ",
       "pos": "n.",
       "rootHint": "voc",
       "word": "crusader"

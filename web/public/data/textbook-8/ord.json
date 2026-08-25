@@ -1,23 +1,23 @@
 {
-  "chapter" : "9",
-  "chapterOrder" : 109,
-  "id" : "ord",
-  "meaningEn" : "row, order",
-  "meaningZh" : "排，列，行；顺序；条理",
-  "roots" : [
+  "chapter": "9",
+  "chapterOrder": 109,
+  "id": "ord",
+  "meaningEn": "row, order",
+  "meaningZh": "排，列，行；顺序；条理",
+  "roots": [
     "ord",
     "ordn",
     "ordi",
     "ordin"
   ],
-  "semanticLabel" : "排，列，行；顺序；条理",
-  "source" : "textbook-8",
-  "titleZh" : "排，列，行；顺序；条理",
-  "words" : [
+  "semanticLabel": "排，列，行；顺序；条理",
+  "source": "textbook-8",
+  "titleZh": "排，列，行；顺序；条理",
+  "words": [
     {
-      "collocations" : [
-        "in chronological \/ numerical order：按时间 \/ 数字顺序",
-        "rank in descending \/ ascending order：按递降 \/ 递升的顺序排列",
+      "collocations": [
+        "in chronological / numerical order：按时间 / 数字顺序",
+        "rank in descending / ascending order：按递降 / 递升的顺序排列",
         "public order：公共秩序",
         "give the order：下命令\ndoctor’s orders：医生的命令（医嘱）",
         "an order form：订货单",
@@ -28,385 +28,357 @@
         "May I take your order?\n您现在点菜吗？\n比较：order & command",
         "order较command通用，可用于任何权威人物命令他人做某事，如父\n母、老师或政府。command的语气稍强于order，是部队长官发布命\n令的一般用词，或者用于发布一般没有商量余地的命令。该词不大可\n能用于父母或老师。\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "顺序；条理；治安，秩序；命令；订货；点菜 vt. 命令，指挥；订货；点（酒菜等）；组织，梳理",
-      "etymology" : "来自拉丁语ordinare：安排，布置，指定，来自PIE*ord-,安排，布 置，引申词义顺序，命令，点菜，定购等。",
-      "examples" : [
+      "definition": "顺序；条理；治安，秩序；命令；订货；点菜 vt. 命令，指挥；订货；点（酒菜等）；组织，梳理",
+      "etymology": "来自拉丁语ordinare：安排，布置，指定，来自PIE*ord-,安排，布 置，引申词义顺序，命令，点菜，定购等。",
+      "examples": [
         "The house had been kept in good order.\n房子保持得很有条理（井井有条）。"
       ],
-      "frequency" : 685,
-      "phonetic" : "ˈɔɹdɚ",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "order"
+      "frequency": 685,
+      "phonetic": "ˈɔɹ.dɚ",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "order"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an ordered existence：井井有条的生活",
         "a well-ordered society：井然有序的社会",
         "ordered structure：有序的结构"
       ],
-      "definition" : "精心安排的；（社会或制度）组织有序的",
-      "examples" : [
-
-      ],
-      "frequency" : 16971,
-      "phonetic" : "ˈɔɹdɚd",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "ordered"
+      "definition": "精心安排的；（社会或制度）组织有序的",
+      "examples": [],
+      "frequency": 16971,
+      "phonetic": "ˈɔɹ.dɚd",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "ordered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the successful ordering of data：数据的成功排列"
       ],
-      "definition" : "顺序；组合；排列",
-      "examples" : [
+      "definition": "顺序；组合；排列",
+      "examples": [
         "Many possible orderings may exist.\n组合方式可能有许多种。"
       ],
-      "frequency" : 13866,
-      "mnemonic" : "order（顺序；排列）+ -ing（名词后缀）→顺序；组合；排列",
-      "phonetic" : "ˈɔdərɪŋ",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "ordering"
+      "frequency": 13866,
+      "mnemonic": "order（顺序；排列）+ -ing（名词后缀）→顺序；组合；排列",
+      "phonetic": "ˈɔɹ.dɚ.ɪŋ",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "ordering"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a calm and orderly life：平静有序的生活",
         "vegetables planted in orderly rows：一行行栽种整齐的蔬菜",
         "a hospital orderly：医院护理员"
       ],
-      "definition" : "整洁的；整齐有秩序的；有条理的 n. 护理员",
-      "examples" : [
-
-      ],
-      "frequency" : 7888,
-      "mnemonic" : "order（顺序；条理；秩序）+-ly（形容词后缀）→整齐的；有秩序",
-      "phonetic" : "ˈɔɹdɚli",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "orderly"
+      "definition": "整洁的；整齐有秩序的；有条理的 n. 护理员",
+      "examples": [],
+      "frequency": 7888,
+      "mnemonic": "order（顺序；条理；秩序）+-ly（形容词后缀）→整齐的；有秩序",
+      "phonetic": "ˈɔɹ.dɚ.li",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "orderly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the packing of all mail orders：邮购商品的包装"
       ],
-      "definition" : "邮购；邮购商品",
-      "examples" : [
+      "definition": "邮购；邮购商品",
+      "examples": [
         "The toys are available by mail-order.\n这些玩具可以邮购。"
       ],
-      "frequency" : 13177,
-      "mnemonic" : "mail（邮递系统）+ order（订购）→通过邮递系统订购→邮购；邮购",
-      "phonetic" : "ˈmeɪl ɔːrdər",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "mail-order"
+      "frequency": 13177,
+      "mnemonic": "mail（邮递系统）+ order（订购）→通过邮递系统订购→邮购；邮购",
+      "phonetic": "ˈmeɪl.ˌɔɹ.dɚ",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "mail-order"
     },
     {
-      "collocations" : [
+      "collocations": [
         "public disorder：公众骚乱",
-        "a blood \/ bowel, etc. disorder：血液病、闹肚子",
+        "a blood / bowel, etc. disorder：血液病、闹肚子",
         "eating disorders：进食紊乱\n20000 词汇巅峰\n速\n记",
         "nerve disorder：神经系统紊乱",
         "The emergency room was in disorder.\n急救室一片混乱。\n笔 记 区"
       ],
-      "definition" : "混乱，凌乱；骚乱；失调，紊乱，疾病",
-      "examples" : [
+      "definition": "混乱，凌乱；骚乱；失调，紊乱，疾病",
+      "examples": [
         "His financial affairs were in complete disorder.\n他的财务完全混乱。"
       ],
-      "frequency" : 2388,
-      "mnemonic" : "dis-（=not：使相反）+ order（秩序；条理）→没有秩序，条理→混",
-      "phonetic" : "dɪsˈɔːɹdɚ",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "disorder"
+      "frequency": 2388,
+      "mnemonic": "dis-（=not：使相反）+ order（秩序；条理）→没有秩序，条理→混",
+      "phonetic": "dɪsˈɔɹ.dɚ",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "disorder"
     },
     {
-      "collocations" : [
+      "collocations": [
         "disordered hair：乱七八糟的头发",
         "a disordered state：混乱状态",
         "emotionally disordered children：情绪紊乱的孩子"
       ],
-      "definition" : "杂乱的，混乱的；（身心）失调的，紊乱的，错乱的",
-      "examples" : [
-
-      ],
-      "frequency" : 16304,
-      "phonetic" : "dɪsˈɔdəd",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "disordered"
+      "definition": "杂乱的，混乱的；（身心）失调的，紊乱的，错乱的",
+      "examples": [],
+      "frequency": 16304,
+      "phonetic": "dɪsˈɔɹ.dɚd",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "disordered"
     },
     {
-      "collocations" : [
+      "collocations": [
         "newspapers in a disorderly pile by the door：门边一堆杂乱的报纸",
         "disorderly conduct：目无法纪的行为；扰乱治安的行为"
       ],
-      "definition" : "混乱的，杂乱的；目无法纪的，（某人）不守秩序的，（某地）混乱无序的",
-      "examples" : [
+      "definition": "混乱的，杂乱的；目无法纪的，（某人）不守秩序的，（某地）混乱无序的",
+      "examples": [
         "She was jailed for being drunk and disorderly.\n她因酗酒和不守秩序（扰乱治安）而被监禁。"
       ],
-      "frequency" : 18020,
-      "phonetic" : "dɪsˈɔdəlɪ",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "disorderly"
+      "frequency": 18020,
+      "phonetic": "dɪsˈɔɹ.dɚ.li",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "disorderly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "coordinate legs, arms, and breathing：协调双腿、胳膊和呼吸",
         "coordinate the relief effort：协调救灾工作",
         "coordinate pattern and colors：搭配款式和颜色"
       ],
-      "definition" : "使协调，使相配合；使（身体各部位）协调；（衣服、家具等）搭配，协调 n. 坐标",
-      "examples" : [
-
-      ],
-      "frequency" : 4898,
-      "mnemonic" : "co-（=with, together：共同）+ -ordin-（=to set in order, arrange：秩\n序；顺序）+ -ate（动词后缀）→使符合秩序或顺序→使协调，使相",
-      "phonetic" : "koʊˈɔdɪneɪt",
-      "pos" : "vt.",
-      "rootHint" : "ord",
-      "word" : "coordinate"
+      "definition": "使协调，使相配合；使（身体各部位）协调；（衣服、家具等）搭配，协调 n. 坐标",
+      "examples": [],
+      "frequency": 4898,
+      "mnemonic": "co-（=with, together：共同）+ -ordin-（=to set in order, arrange：秩\n序；顺序）+ -ate（动词后缀）→使符合秩序或顺序→使协调，使相",
+      "phonetic": "koʊˈɔɹ.də.neɪt",
+      "pos": "vt.",
+      "rootHint": "ord",
+      "word": "coordinate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a project coordinator：协调人"
       ],
-      "definition" : "协调人",
-      "examples" : [
-
-      ],
-      "frequency" : 4255,
-      "mnemonic" : "coordinate（协调）+ -or（表人）→协调人",
-      "phonetic" : "koʊˈɔdɪneɪtər",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "coordinator"
+      "definition": "协调人",
+      "examples": [],
+      "frequency": 4255,
+      "mnemonic": "coordinate（协调）+ -or（表人）→协调人",
+      "phonetic": "koʊˈɔɹ.də.neɪ.tɚ",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "coordinator"
     },
     {
-      "collocations" : [
+      "collocations": [
         "in coordination with someone：与某人协作",
         "the coordination of economic policy：经济政策的协作",
         "good hand-eye coordination：手和眼（动作）协调好",
         "advice on color coordination：对颜色搭配的建议"
       ],
-      "definition" : "协调，搭配，协作；（身体各部位的）协调能力",
-      "examples" : [
-
-      ],
-      "frequency" : 6149,
-      "mnemonic" : "coordinate（协调；搭配；配合）+ -ion（名词后缀）→协调，搭配，",
-      "phonetic" : "koʊˌɔɹdɪˈneɪʃən",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "coordination"
+      "definition": "协调，搭配，协作；（身体各部位的）协调能力",
+      "examples": [],
+      "frequency": 6149,
+      "mnemonic": "coordinate（协调；搭配；配合）+ -ion（名词后缀）→协调，搭配，",
+      "phonetic": "koʊˌɔɹ.dəˈneɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "coordination"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a well-coordinated surprise attack：一次完美配合的突袭"
       ],
-      "definition" : "调节，整理（coordinate的过去式和过去分词） adj. 协调的，配合的",
-      "examples" : [
-
-      ],
-      "frequency" : 10332,
-      "phonetic" : "koʊˈɔ:dɪneɪtɪd",
-      "pos" : "vt.",
-      "rootHint" : "ord",
-      "word" : "coordinated"
+      "definition": "调节，整理（coordinate的过去式和过去分词） adj. 协调的，配合的",
+      "examples": [],
+      "frequency": 10332,
+      "phonetic": "koʊˈɔɹ.də.neɪ.tɪd",
+      "pos": "vt.",
+      "rootHint": "ord",
+      "word": "coordinated"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an ordinary sort of day：平平常常的一天",
         "an ordinary meal：一顿平常的饭",
         "ordinary people：普通人",
         "out of the ordinary：非同寻常的"
       ],
-      "definition" : "普通的；平常的",
-      "examples" : [
-
-      ],
-      "frequency" : 2289,
-      "mnemonic" : "ordin-（=order：秩序）+ -ary（形容词后缀）→遵从一般秩序的→普",
-      "phonetic" : "ˈɔɹdɪnɛ(ə)ɹi",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "ordinary"
+      "definition": "普通的；平常的",
+      "examples": [],
+      "frequency": 2289,
+      "mnemonic": "ordin-（=order：秩序）+ -ary（形容词后缀）→遵从一般秩序的→普",
+      "phonetic": "ˈɔɹ.də.ˌnɛɹ.i",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "ordinary"
     },
     {
-      "collocations" : [
+      "collocations": [
         "behave ordinarily：表现正常"
       ],
-      "definition" : "普通地，平常地；正常地；通常地",
-      "examples" : [
+      "definition": "普通地，平常地；正常地；通常地",
+      "examples": [
         "We do not ordinarily carry out this type of work.\n我们通常不会实际去做这类工作。"
       ],
-      "frequency" : 9613,
-      "phonetic" : "ɔɹdɪˈnɛɹɪli",
-      "pos" : "adv.",
-      "rootHint" : "ord",
-      "word" : "ordinarily"
+      "frequency": 9613,
+      "phonetic": "ˌɔɹ.dəˈnɛɹ.ə.li",
+      "pos": "adv.",
+      "rootHint": "ord",
+      "word": "ordinarily"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an extraordinary achievement：卓越的成就",
         "an extraordinary meeting：一次特别的会议\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "意想不到的；卓越的；特别的",
-      "examples" : [
+      "definition": "意想不到的；卓越的；特别的",
+      "examples": [
         "It’s extraordinary that he managed to sleep through the party.\n真想不到他竟然从聚会开始一直睡到结束。"
       ],
-      "frequency" : 2648,
-      "mnemonic" : "extra-（超过的）+ ordinary（普通的；平常的）→超过平常的，普通\n的→意想不到的；卓越的；特别的",
-      "phonetic" : "ɪksˈtɹɔ(ɹ)dɪnəɹi",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "extraordinary"
+      "frequency": 2648,
+      "mnemonic": "extra-（超过的）+ ordinary（普通的；平常的）→超过平常的，普通\n的→意想不到的；卓越的；特别的",
+      "phonetic": "ɪkˈstɹɔɹdənɛɹi",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "extraordinary"
     },
     {
-      "collocations" : [
+      "collocations": [
         "extraordinarily difficult：特别困难",
         "behave extraordinarily：行为特别",
         "extraordinarily well：特别好"
       ],
-      "definition" : "特别",
-      "examples" : [
-
-      ],
-      "frequency" : 7449,
-      "phonetic" : "ɪkˈstrɔdnrəli",
-      "pos" : "adv.",
-      "rootHint" : "ord",
-      "word" : "extraordinarily"
+      "definition": "特别",
+      "examples": [],
+      "frequency": 7449,
+      "phonetic": "ɪkˌstɹɔɹdəˈnɛɹəli",
+      "pos": "adv.",
+      "rootHint": "ord",
+      "word": "extraordinarily"
     },
     {
-      "collocations" : [
+      "collocations": [
         "subordinate to：从属于；服从于",
-        "subordinate sb. \/ sth. (to sb. \/ sth.)：\n使某人 \/ 某事从属于某人 \/ 某事；使某人 \/ 某事置于某人 \/ 某事之上",
+        "subordinate sb. / sth. (to sb. / sth.)：\n使某人 / 某事从属于某人 / 某事；使某人 / 某事置于某人 / 某事之上",
         "the relationship between subordinates and superiors：上下级关系",
         "shift responsibility to his subordinates：把责任转移给他的下属",
         "Safety considerations were subordinated to commercial interests.\n商业利益置于安全考虑之上。"
       ],
-      "definition" : "把……置于次要地位；使从属于 adj. 从属的；下级的；次要的 n. 下级，部属",
-      "examples" : [
+      "definition": "把……置于次要地位；使从属于 adj. 从属的；下级的；次要的 n. 下级，部属",
+      "examples": [
         "In many societies women are subordinate to men.\n在许多社会中，妇女都从属于男人。"
       ],
-      "frequency" : 10032,
-      "mnemonic" : "sub-（下）+ ord-（=order：安排）+ -inate（=-ine + -ate：复合动词后\n缀）→安排在……之下→使从属于；从属的，下级的，次要的；下",
-      "phonetic" : "səˈbɔdɪnət",
-      "pos" : "vt.",
-      "rootHint" : "ord",
-      "word" : "subordinate"
+      "frequency": 10032,
+      "mnemonic": "sub-（下）+ ord-（=order：安排）+ -inate（=-ine + -ate：复合动词后\n缀）→安排在……之下→使从属于；从属的，下级的，次要的；下",
+      "phonetic": "səˈbɔɹ.də.neɪt",
+      "pos": "vt.",
+      "rootHint": "ord",
+      "word": "subordinate"
     },
     {
-      "collocations" : [
+      "collocations": [
         "subordination relations：从属关系",
         "restore the traditional subordination of women within the patriarchy：\n在父权社会中恢复把女性作为附属的传统"
       ],
-      "definition" : "附属；从属",
-      "examples" : [
-
-      ],
-      "frequency" : 17248,
-      "mnemonic" : "subordinate（使附属于；从属的）+ -ion（名词后缀）→附属；从属",
-      "phonetic" : "səˌbɔɹɾn̩ˈeɪʃn̩",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "subordination"
+      "definition": "附属；从属",
+      "examples": [],
+      "frequency": 17248,
+      "mnemonic": "subordinate（使附属于；从属的）+ -ion（名词后缀）→附属；从属",
+      "phonetic": "səˌbɔɹ.dəˈneɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "subordination"
     },
     {
-      "collocations" : [
+      "collocations": [
         "be ordained (as) a priest：被任命为神父",
         "Fate had ordained that they would never meet again.\n他们命里注定永远不会再相见。",
         "His rule was ordained by heaven.\n他的统治是天命的。"
       ],
-      "definition" : "任命某人为牧师 vt. 命令；（上帝、法律或命运）主宰；规定",
-      "etymology" : "Ordain来源于拉丁语ordinare，来自古法语ordener的词根orden-。含义 为to put in order, arrange, appoint，表示“安排；布置；指定”。",
-      "examples" : [
+      "definition": "任命某人为牧师 vt. 命令；（上帝、法律或命运）主宰；规定",
+      "etymology": "Ordain来源于拉丁语ordinare，来自古法语ordener的词根orden-。含义 为to put in order, arrange, appoint，表示“安排；布置；指定”。",
+      "examples": [
         "Nehru ordained that socialism should rule.\n尼赫鲁下命实行社会主义制度。"
       ],
-      "frequency" : 13530,
-      "phonetic" : "ɔɹˈdeɪn",
-      "pos" : "vt.",
-      "rootHint" : "ord",
-      "word" : "ordain"
+      "frequency": 13530,
+      "phonetic": "ɔɹˈdeɪn",
+      "pos": "vt.",
+      "rootHint": "ord",
+      "word": "ordain"
     },
     {
-      "collocations" : [
+      "collocations": [
         "ordinances that restrict building development：限制楼房建设的法规"
       ],
-      "definition" : "法规，条例；指示，训令",
-      "examples" : [
-
-      ],
-      "frequency" : 8070,
-      "mnemonic" : "ordin（=ordain：规定；命令）+ -ance（名词后缀）→法规；指示，",
-      "phonetic" : "ˈɔɹ.dɪ.nəns",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "ordinance"
+      "definition": "法规，条例；指示，训令",
+      "examples": [],
+      "frequency": 8070,
+      "mnemonic": "ordin（=ordain：规定；命令）+ -ance（名词后缀）→法规；指示，",
+      "phonetic": "ˈɔɹ.də.nəns",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "ordinance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the powers that be are ordained of God. 凡掌权的都是神所命的。",
         "ordained minister：被任命的牧师"
       ],
-      "definition" : "（上帝、命运等）主宰，规定（ordain的过去式和过去分词） adj. 任命的；命定的",
-      "examples" : [
-
-      ],
-      "frequency" : 17666,
-      "phonetic" : "ɔˈdeɪnd",
-      "pos" : "vt.",
-      "rootHint" : "ord",
-      "word" : "ordained"
+      "definition": "（上帝、命运等）主宰，规定（ordain的过去式和过去分词） adj. 任命的；命定的",
+      "examples": [],
+      "frequency": 17666,
+      "phonetic": "ɔɹˈdeɪnd",
+      "pos": "vt.",
+      "rootHint": "ord",
+      "word": "ordained"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the ordination of women：女性担任圣职"
       ],
-      "definition" : "（圣职的）授予；按立圣职",
-      "examples" : [
-
-      ],
-      "frequency" : 15856,
-      "mnemonic" : "ordin（=ordain：授予圣职）+ -ation（名词后缀）→授予圣职；按立",
-      "phonetic" : "ˌɔdɪˈneɪʃn",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "ordination"
+      "definition": "（圣职的）授予；按立圣职",
+      "examples": [],
+      "frequency": 15856,
+      "mnemonic": "ordin（=ordain：授予圣职）+ -ation（名词后缀）→授予圣职；按立",
+      "phonetic": "ˌɔɹ.dəˈneɪ.ʃən",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "ordination"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an ordnance depot：军火库",
         "unexploded ordnance：未爆炸军火\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "（可移动）大炮；军需品（尤指军火、武器），军备物资",
-      "examples" : [
-
-      ],
-      "frequency" : 20176,
-      "mnemonic" : "来自ordinance的拼写截短形式（去i），ordinance：命令→ordnance：",
-      "phonetic" : "ˈɔɹdnəns",
-      "pos" : "n.",
-      "rootHint" : "ord",
-      "word" : "ordnance"
+      "definition": "（可移动）大炮；军需品（尤指军火、武器），军备物资",
+      "examples": [],
+      "frequency": 20176,
+      "mnemonic": "来自ordinance的拼写截短形式（去i），ordinance：命令→ordnance：",
+      "phonetic": "ˈɔɹd.nəns",
+      "pos": "n.",
+      "rootHint": "ord",
+      "word": "ordnance"
     },
     {
-      "collocations" : [
+      "collocations": [
         "inordinately high price：高得过分的价格"
       ],
-      "definition" : "过度的；过分的；超乎预料的",
-      "examples" : [
+      "definition": "过度的；过分的；超乎预料的",
+      "examples": [
         "They spend an inordinate amount of time talking.\n他们聊天时间长得超乎预料。"
       ],
-      "frequency" : 18136,
-      "mnemonic" : "in-（=not, opposite of：不；表相反）+ ordinate（排列，秩序；限度）\n→超过了限度的、秩序的→引申词义过度的；过分的；超乎预料的",
-      "phonetic" : "ɪnˈɔɹdn̩ɪt",
-      "pos" : "adj.",
-      "rootHint" : "ord",
-      "word" : "inordinate"
+      "frequency": 18136,
+      "mnemonic": "in-（=not, opposite of：不；表相反）+ ordinate（排列，秩序；限度）\n→超过了限度的、秩序的→引申词义过度的；过分的；超乎预料的",
+      "phonetic": "ɪnˈɔɹ.də.nət",
+      "pos": "adj.",
+      "rootHint": "ord",
+      "word": "inordinate"
     }
   ]
 }

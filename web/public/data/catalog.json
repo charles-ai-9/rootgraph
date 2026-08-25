@@ -287,7 +287,7 @@
     "semanticLabel": "接触；触摸",
     "source": "textbook-2",
     "titleZh": "接触；触摸",
-    "wordCount": 23,
+    "wordCount": 22,
     "textbook": "textbook-2"
   },
   {
@@ -531,7 +531,7 @@
     "roots": [
       "dict"
     ],
-    "wordCount": 87,
+    "wordCount": 88,
     "source": "textbook-3",
     "textbook": "textbook-3"
   },
@@ -696,6 +696,23 @@
       "quick"
     ],
     "wordCount": 8,
+    "source": "textbook-3",
+    "textbook": "textbook-3"
+  },
+  {
+    "id": "jud",
+    "file": "jud.json",
+    "chapter": "补充词根",
+    "chapterOrder": 999,
+    "titleZh": "法律；公正",
+    "semanticLabel": "法律；公正",
+    "meaningEn": "law; justice",
+    "meaningZh": "法律；公正",
+    "roots": [
+      "jus",
+      "jud"
+    ],
+    "wordCount": 1,
     "source": "textbook-3",
     "textbook": "textbook-3"
   },

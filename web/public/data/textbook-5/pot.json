@@ -1,113 +1,103 @@
 {
-  "chapter" : "34",
-  "chapterOrder" : 134,
-  "id" : "pot",
-  "meaningEn" : "powerful",
-  "meaningZh" : "强有力的。",
-  "roots" : [
+  "chapter": "34",
+  "chapterOrder": 134,
+  "id": "pot",
+  "meaningEn": "powerful",
+  "meaningZh": "强有力的。",
+  "roots": [
     "pot"
   ],
-  "semanticLabel" : "强有力的。",
-  "source" : "textbook-5",
-  "titleZh" : "强有力的。",
-  "words" : [
+  "semanticLabel": "强有力的。",
+  "source": "textbook-5",
+  "titleZh": "强有力的。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a potent force：强大的力量",
         "a potent argument：有力的论据",
         "a very potent alcoholic brew：烈性酒精饮料"
       ],
-      "definition" : "强大的；强有力的；有强效的",
-      "etymology" : "来自拉丁语potis “powerful, able, capable; possible”.",
-      "examples" : [
-
-      ],
-      "frequency" : 6389,
-      "mnemonic" : "pot-（=powerful：强有力的）+ -ent（形容词后缀）→强有力的；有",
-      "phonetic" : "ˈpoʊt(ə)nt",
-      "pos" : "adj.",
-      "rootHint" : "pot",
-      "word" : "potent"
+      "definition": "强大的；强有力的；有强效的",
+      "etymology": "来自拉丁语potis “powerful, able, capable; possible”.",
+      "examples": [],
+      "frequency": 6389,
+      "mnemonic": "pot-（=powerful：强有力的）+ -ent（形容词后缀）→强有力的；有",
+      "phonetic": "ˈpoʊ.tənt",
+      "pos": "adj.",
+      "rootHint": "pot",
+      "word": "potent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "have a lingering potency：有挥之不去的影响力",
         "lose its potency：失去效力"
       ],
-      "definition" : "影响力；（毒品、药品等的）效力",
-      "examples" : [
-
-      ],
-      "frequency" : 13892,
-      "mnemonic" : "poten（=potent：强大的；有强效的）+ -cy（名词后缀）→影响力",
-      "phonetic" : "ˈpoʊtnsɪ",
-      "pos" : "n.",
-      "rootHint" : "pot",
-      "word" : "potency"
+      "definition": "影响力；（毒品、药品等的）效力",
+      "examples": [],
+      "frequency": 13892,
+      "mnemonic": "poten（=potent：强大的；有强效的）+ -cy（名词后缀）→影响力",
+      "phonetic": "ˈpoʊ.tən.si",
+      "pos": "n.",
+      "rootHint": "pot",
+      "word": "potency"
     },
     {
-      "collocations" : [
+      "collocations": [
         "powerless minorities：弱势的少数族群",
         "impotent, they feel that they have no power to influence people or events.\n笔 记 区"
       ],
-      "definition" : "无能为力的；阳萎的",
-      "examples" : [
+      "definition": "无能为力的；阳萎的",
+      "examples": [
         "She blazed with impotent rage. 她勃然大怒，但于事无补。\n释义：（ADJ-GRADED） 无能为力的；不起作用的 If someone feels"
       ],
-      "frequency" : 16129,
-      "mnemonic" : "im-（=not：表反义）+ potent（powerful）→无能为力的",
-      "phonetic" : "ˈɪm.pə.tənt",
-      "pos" : "adj.",
-      "rootHint" : "pot",
-      "word" : "impotent"
+      "frequency": 16129,
+      "mnemonic": "im-（=not：表反义）+ potent（powerful）→无能为力的",
+      "phonetic": "ˈɪm.pə.tənt",
+      "pos": "adj.",
+      "rootHint": "pot",
+      "word": "impotent"
     },
     {
-      "collocations" : [
+      "collocations": [
         "male impotence：阳痿",
         "influence people or events."
       ],
-      "definition" : "面对似乎无法解决的问题的束手无策之感",
-      "examples" : [
-
-      ],
-      "frequency" : 15544,
-      "phonetic" : "ˈɪmpətəns",
-      "pos" : "n.",
-      "rootHint" : "pot",
-      "word" : "impotence"
+      "definition": "面对似乎无法解决的问题的束手无策之感",
+      "examples": [],
+      "frequency": 15544,
+      "phonetic": "ˈɪm.pə.təns",
+      "pos": "n.",
+      "rootHint": "pot",
+      "word": "impotence"
     },
     {
-      "collocations" : [
+      "collocations": [
         "potential client：潜在的客户",
         "fulfill one’s potential：发挥某人的潜能",
         "potential for violence：暴力倾向\n（阅读，写作）例句：在劳动力市场中，你就是一个商品。正如一个商品，\n你必须知道你能给一个潜在的顾客或者雇主提供的特点和好处。",
         "In the job market, you are a product. And just like a product, you must",
         "know the features and benefits that you have to offer a potential client, or\nemployer."
       ],
-      "definition" : "潜在的 n. 潜力；潜质；潜在性",
-      "examples" : [
-
-      ],
-      "frequency" : 1266,
-      "mnemonic" : "potent（=possible：可能的，潜在的；-ent和-ible均为后缀）+ial（名\n词或形容词后缀）→潜在的（adj.）；潜力，潜质（n.）",
-      "phonetic" : "po(ʊ)ˈtɛnʃəl",
-      "pos" : "adj.",
-      "rootHint" : "pot",
-      "word" : "potential"
+      "definition": "潜在的 n. 潜力；潜质；潜在性",
+      "examples": [],
+      "frequency": 1266,
+      "mnemonic": "potent（=possible：可能的，潜在的；-ent和-ible均为后缀）+ial（名\n词或形容词后缀）→潜在的（adj.）；潜力，潜质（n.）",
+      "phonetic": "pəˈtɛn.ʃəl",
+      "pos": "adj.",
+      "rootHint": "pot",
+      "word": "potential"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "潜在地",
-      "examples" : [
+      "collocations": [],
+      "definition": "潜在地",
+      "examples": [
         "Clearly this is a potentially dangerous situation.\n显然这是一种具有潜在危险的局势。"
       ],
-      "frequency" : 2854,
-      "phonetic" : "pəˈtɛnʃ(ə)li",
-      "pos" : "adv.",
-      "rootHint" : "pot",
-      "word" : "potentially"
+      "frequency": 2854,
+      "phonetic": "pəˈtɛn.ʃə.li",
+      "pos": "adv.",
+      "rootHint": "pot",
+      "word": "potentially"
     }
   ]
 }

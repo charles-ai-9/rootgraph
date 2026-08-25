@@ -1,114 +1,106 @@
 {
-  "chapter" : "32",
-  "chapterOrder" : 132,
-  "id" : "chall",
-  "meaningEn" : "call”表示“呼喊；叫嚣；挑衅”。",
-  "roots" : [
+  "chapter": "32",
+  "chapterOrder": 132,
+  "id": "chall",
+  "meaningEn": "call”表示“呼喊；叫嚣；挑衅”。",
+  "roots": [
     "chall"
   ],
-  "semanticLabel" : "call表示呼喊；叫嚣；挑衅。",
-  "source" : "textbook-6",
-  "titleZh" : "call表示呼喊；叫嚣；挑衅。",
-  "words" : [
+  "semanticLabel": "call表示呼喊；叫嚣；挑衅。",
+  "source": "textbook-6",
+  "titleZh": "call表示呼喊；叫嚣；挑衅。",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "call the baby Mark：给婴儿取名马克",
         "call German an easy language：认为德语是一门容易学的语言",
         "call out for help：大声呼救",
-        "to call the police\/a doctor：打电话叫警察\/医生\ncall back\/call sb. back：再打电话；回电话",
-        "to call a meeting\/an election\/a strike：举行会议\/选举\/罢工\ncall sth. into question：引起怀疑\n笔 记 区"
+        "to call the police/a doctor：打电话叫警察/医生\ncall back/call sb. back：再打电话；回电话",
+        "to call a meeting/an election/a strike：举行会议/选举/罢工\ncall sth. into question：引起怀疑\n笔 记 区"
       ],
-      "definition" : "给……命名，称呼；认为……是；大声呼叫（以吸引注意力）；呼唤；（给……）打电话；下令举行",
-      "examples" : [
-
-      ],
-      "frequency" : 122,
-      "phonetic" : "kɔl",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "call"
+      "definition": "给……命名，称呼；认为……是；大声呼叫（以吸引注意力）；呼唤；（给……）打电话；下令举行",
+      "examples": [],
+      "frequency": 122,
+      "phonetic": "kɔl",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "call"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to have total recall：记得所有细节",
         "amazing powers of recall：惊人的记忆力",
         "beyond recall：不可恢复；想不起来；记不住"
       ],
-      "definition" : "回忆起，回想起；使想起；召回；收回（残损货品等） n.记忆力，记性；召回令，回归请求",
-      "examples" : [
-
-      ],
-      "frequency" : 1132,
-      "mnemonic" : "re-（=back, again：回；再次）+ call（呼唤）→再次呼唤→回想起；",
-      "phonetic" : "rɪˈkɔl",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "recall"
+      "definition": "回忆起，回想起；使想起；召回；收回（残损货品等） n.记忆力，记性；召回令，回归请求",
+      "examples": [],
+      "frequency": 1132,
+      "mnemonic": "re-（=back, again：回；再次）+ call（呼唤）→再次呼唤→回想起；",
+      "phonetic": "ɹɪˈkɔl",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "recall"
     },
     {
-      "collocations" : [
+      "collocations": [
         "so-called economic miracle：所谓的经济奇迹",
         "a summit of the world’s seven leading market economies, the so-called G-7.\n……世界7个主要市场经济体的峰会，一般称为G-7"
       ],
-      "definition" : "所谓的；被称为……的",
-      "examples" : [
-
-      ],
-      "frequency" : 2407,
-      "mnemonic" : "so（如此）+ called（称呼）→如此称呼的→所谓的；被称为……的",
-      "phonetic" : "ˈsoʊˌkɔld",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "so-called"
+      "definition": "所谓的；被称为……的",
+      "examples": [],
+      "frequency": 2407,
+      "mnemonic": "so（如此）+ called（称呼）→如此称呼的→所谓的；被称为……的",
+      "phonetic": "ˈsoʊˌkɔld",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "so-called"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "叫做；称作",
-      "examples" : [
+      "collocations": [],
+      "definition": "叫做；称作",
+      "examples": [
         "What’s their son called?\n他们的儿子叫什么名字？\nI’ve forgotten what the firm he works for is called.\n我已经忘记他所在公司的名称。"
       ],
-      "frequency" : 10066,
-      "phonetic" : "[kɔld]",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "called"
+      "frequency": 10066,
+      "phonetic": "kɔld",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "called"
     },
     {
-      "collocations" : [
+      "collocations": [
         "an anonymous caller：打匿名电话的人"
       ],
-      "definition" : "打电话者；访问者，来访者",
-      "examples" : [
+      "definition": "打电话者；访问者，来访者",
+      "examples": [
         "The caller hung up.\n打电话的人挂断了电话。"
       ],
-      "frequency" : 5097,
-      "mnemonic" : "call（打电话；来访）+ -er（人）→打电话者；来访者",
-      "phonetic" : "ˈkɔlɚ",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "caller"
+      "frequency": 5097,
+      "mnemonic": "call（打电话；来访）+ -er（人）→打电话者；来访者",
+      "phonetic": "ˈkɔlɚ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "caller"
     },
     {
-      "collocations" : [
+      "collocations": [
         "He realized that his calling was to preach the gospel.\n他体悟到宣讲福音是他的使命。"
       ],
-      "definition" : "使命感；（尤指想帮助他人的）强烈愿望，责任感；职业，事业",
-      "examples" : [
+      "definition": "使命感；（尤指想帮助他人的）强烈愿望，责任感；职业，事业",
+      "examples": [
         "He was a serious man dedicated to his calling.\n他是一个专注于其使命的严肃认真的人。"
       ],
-      "frequency" : 9210,
-      "mnemonic" : "call（呼叫；呼召）+ -ing（名词后缀）→上帝呼召某人今生从事某事\n的使命→使命感；职业，事业\ncall（呼叫）+ -ing（名词后缀）→某人内心的呼喊→强烈愿望，责任感",
-      "phonetic" : "ˈkɔlɪŋ",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "calling"
+      "frequency": 9210,
+      "mnemonic": "call（呼叫；呼召）+ -ing（名词后缀）→上帝呼召某人今生从事某事\n的使命→使命感；职业，事业\ncall（呼叫）+ -ing（名词后缀）→某人内心的呼喊→强烈愿望，责任感",
+      "phonetic": "ˈkɔlɪŋ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "calling"
     },
     {
-      "collocations" : [
+      "collocations": [
         "pose a real challenge：提出一个真正的挑战",
-        "accept\/take up challenges：接受挑战",
+        "accept/take up challenges：接受挑战",
         "grave challenge：严峻的挑战",
         "to face a challenge：面临挑战",
         "rise to the challenge：接受挑战",
@@ -116,202 +108,192 @@
         "Mike challenged me to a game of chess.\n迈克硬逼着要和我下一盘棋。",
         "The job doesn’t really challenge her.\n这项工作不能真正考验出她的能力。",
         "We were challenged by police at the border.\n20000 词汇巅峰\n速\n记\n我们在边境受到警察盘问。",
-        "The emergence\/appearance of e-books poses a real challenge to the sale",
+        "The emergence/appearance of e-books poses a real challenge to the sale",
         "of traditional books.\n笔 记 区"
       ],
-      "definition" : "挑战；艰巨任务；挑战书，（比赛等的）邀请，提议；质询，质疑 vt. 对……怀疑（或质疑），拒绝接受；向（某人）挑战，（尤指在对方不情愿时）强烈 建议（某人做某事）；考查……的能力，考验……的技巧；盘问，查问",
-      "examples" : [
+      "definition": "挑战；艰巨任务；挑战书，（比赛等的）邀请，提议；质询，质疑 vt. 对……怀疑（或质疑），拒绝接受；向（某人）挑战，（尤指在对方不情愿时）强烈 建议（某人做某事）；考查……的能力，考验……的技巧；盘问，查问",
+      "examples": [
         "She does not like anyone challenging her authority.\n她不喜欢任何人挑战她的权威。",
         "电子图书出现给传统书籍的销售提出了一个真正的挑战。"
       ],
-      "frequency" : 987,
-      "mnemonic" : "chall（=call：叫嚣；挑衅）+ -enge（名词后缀）→挑衅；挑战",
-      "phonetic" : "ˈtʃæl.əndʒ",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "challenge"
+      "frequency": 987,
+      "mnemonic": "chall（=call：叫嚣；挑衅）+ -enge（名词后缀）→挑衅；挑战",
+      "phonetic": "ˈtʃæləndʒ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "challenge"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the official challenger for the world championship title：世界冠军头衔的"
       ],
-      "definition" : "（体育运动或政治的）挑战者",
-      "examples" : [
-
-      ],
-      "frequency" : 8972,
-      "mnemonic" : "challenge（挑战）+ -r（人）→挑战者",
-      "phonetic" : "ˈtʃælɪndʒə(r)",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "challenger"
+      "definition": "（体育运动或政治的）挑战者",
+      "examples": [],
+      "frequency": 8972,
+      "mnemonic": "challenge（挑战）+ -r（人）→挑战者",
+      "phonetic": "ˈtʃæləndʒɚ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "challenger"
     },
     {
-      "collocations" : [
-        "challenging work\/questions\/problems：具有挑战性的工作\/提问\/问题",
+      "collocations": [
+        "challenging work/questions/problems：具有挑战性的工作/提问/问题",
         "a challenging career：富有挑战性的职业",
         "challenging look：不赞同的眼光"
       ],
-      "definition" : "有挑战性的；考验能力的；挑起争论的；不赞同的",
-      "examples" : [
-
-      ],
-      "frequency" : 5038,
-      "phonetic" : "ˈtʃæləndʒɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "challenging"
+      "definition": "有挑战性的；考验能力的；挑起争论的；不赞同的",
+      "examples": [],
+      "frequency": 5038,
+      "phonetic": "ˈtʃæləndʒɪŋ",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "challenging"
     },
     {
-      "collocations" : [
+      "collocations": [
         "He is in a position of unchallenged authority.\n他拥有绝对的权威。",
         "I walked into the building unchallenged.\n我畅行无阻地走进大楼。"
       ],
-      "definition" : "未受到过质疑的；（地位、权威等）未受到过挑战的；无阻挡的，未受盘查的",
-      "examples" : [
+      "definition": "未受到过质疑的；（地位、权威等）未受到过挑战的；无阻挡的，未受盘查的",
+      "examples": [
         "His integrity was unchallenged.\n他的诚实正直未受到过质疑。"
       ],
-      "frequency" : 16455,
-      "mnemonic" : "un-（=not：没有）+ challenged（受挑战的，受质疑的；受盘查的）\n→未受到过质疑的；未受到过挑战的；未受盘查的",
-      "phonetic" : "ʌnˈtʃælɪndʒd",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "unchallenged"
+      "frequency": 16455,
+      "mnemonic": "un-（=not：没有）+ challenged（受挑战的，受质疑的；受盘查的）\n→未受到过质疑的；未受到过挑战的；未受盘查的",
+      "phonetic": "ʌnˈtʃæləndʒd",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "unchallenged"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the clatter of horses’ hoofs：嗒嗒的马蹄声",
         "She heard him clattering around downstairs.\n她听到他在楼下咔嗒咔嗒地走来走去。"
       ],
-      "definition" : "（硬物相碰）发出响亮的撞击声；移动发出（像硬物碰撞）的响声",
-      "examples" : [
+      "definition": "（硬物相碰）发出响亮的撞击声；移动发出（像硬物碰撞）的响声",
+      "examples": [
         "Her cup clattered in the saucer.\n她的杯子把茶碟碰得叮当响。"
       ],
-      "frequency" : 14100,
-      "mnemonic" : "clatt（=utter in a loud voice：发出很大的响声，拟声词）+ -er（表反\n复）→发出响亮的撞击声；移动发出响声",
-      "phonetic" : "ˈklætə",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "clatter"
+      "frequency": 14100,
+      "mnemonic": "clatt（=utter in a loud voice：发出很大的响声，拟声词）+ -er（表反\n复）→发出响亮的撞击声；移动发出响声",
+      "phonetic": "ˈklætɚ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "clatter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a shout of anger：一声怒吼",
         "shout at：对……大喊",
         "shout out：突然呼喊；大叫"
       ],
-      "definition" : "&vi. 大声说出；呼叫；喊叫 n.（愤怒、害怕、激动等的）呼喊，喊叫声",
-      "examples" : [
+      "definition": "&vi. 大声说出；呼叫；喊叫 n.（愤怒、害怕、激动等的）呼喊，喊叫声",
+      "examples": [
         "She shouted out in pain when she tried to move her leg.\n她想动动腿，结果疼得大叫起来。"
       ],
-      "frequency" : 2173,
-      "phonetic" : "ʃaʊt",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "shout"
+      "frequency": 2173,
+      "phonetic": "ʃaʊt",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "shout"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "（多人的）叫喊，叫嚷",
-      "examples" : [
+      "collocations": [],
+      "definition": "（多人的）叫喊，叫嚷",
+      "examples": [
         "Didn’t you hear all the shouting?\n你难道没有听到那一片叫喊声？"
       ],
-      "frequency" : 20184,
-      "phonetic" : "ˈʃaʊtɪŋ",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "shouting"
+      "frequency": 20184,
+      "phonetic": "ˈʃaʊtɪŋ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "shouting"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cry for help：呼喊救命",
         "crying for its mother：哭着要妈妈"
       ],
-      "definition" : "&vi. 哭，哭泣 vi. 喊叫，呼喊；发出刺耳的叫声",
-      "examples" : [
+      "definition": "&vi. 哭，哭泣 vi. 喊叫，呼喊；发出刺耳的叫声",
+      "examples": [
         "Seagulls followed the boat, crying loudly.\n海鸥追随着那条船，高声鸣叫着。"
       ],
-      "frequency" : 1358,
-      "phonetic" : "kɹaɪ̯",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "cry"
+      "frequency": 1358,
+      "phonetic": "kɹaɪ",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "cry"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a crying need for sth.：迫切的需要"
       ],
-      "definition" : "叫喊的，嚎哭的；显著的 n. 哭泣声；哭泣",
-      "examples" : [
-
-      ],
-      "frequency" : 5506,
-      "phonetic" : "kɹaɪ̯.ɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "crying"
+      "definition": "叫喊的，嚎哭的；显著的 n. 哭泣声；哭泣",
+      "examples": [],
+      "frequency": 5506,
+      "phonetic": "ˈkɹaɪ.ɪŋ",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "crying"
     },
     {
-      "collocations" : [
+      "collocations": [
         "decry the plan：批评这项计划"
       ],
-      "definition" : "（公开）谴责；（强烈）批评",
-      "examples" : [
+      "definition": "（公开）谴责；（强烈）批评",
+      "examples": [
         "The measures were decried as useless.\n这些措施受到指责，说是不起作用。"
       ],
-      "frequency" : 11946,
-      "mnemonic" : "de-（强调前缀）+ cry（呼叫；呼喊）→引申义呼吁；公开谴责；",
-      "phonetic" : "dɪˈkɹaɪ",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "decry"
+      "frequency": 11946,
+      "mnemonic": "de-（强调前缀）+ cry（呼叫；呼喊）→引申义呼吁；公开谴责；",
+      "phonetic": "dɪˈkɹaɪ",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "decry"
     },
     {
-      "collocations" : [
+      "collocations": [
         "The new tax provoked a public outcry.\n新税项引起了公众的强烈抗议。"
       ],
-      "definition" : "呐喊；怒吼；强烈的抗议",
-      "examples" : [
+      "definition": "呐喊；怒吼；强烈的抗议",
+      "examples": [
         "The killing caused an international outcry.\n该起谋杀引起了国际上强烈的抗议。"
       ],
-      "frequency" : 11866,
-      "mnemonic" : "out（出来）+ cry（叫喊）→叫喊出来→呐喊；怒吼；强烈的抗议",
-      "phonetic" : "ˈaʊtkɹaɪ",
-      "pos" : "n.",
-      "rootHint" : "chall",
-      "word" : "outcry"
+      "frequency": 11866,
+      "mnemonic": "out（出来）+ cry（叫喊）→叫喊出来→呐喊；怒吼；强烈的抗议",
+      "phonetic": "ˈaʊt.kɹaɪ",
+      "pos": "n.",
+      "rootHint": "chall",
+      "word": "outcry"
     },
     {
-      "collocations" : [
-        "weep for\/at\/over sth.：因……而哭泣",
+      "collocations": [
+        "weep for/at/over sth.：因……而哭泣",
         "She started to weep uncontrollably.\n她不由自主地哭了起来。"
       ],
-      "definition" : "&vi.（通常因悲伤）哭泣，流泪 n. 哭泣；落泪",
-      "examples" : [
+      "definition": "&vi.（通常因悲伤）哭泣，流泪 n. 哭泣；落泪",
+      "examples": [
         "Sometimes you feel better for a good weep.\n有时候你痛痛快快哭上一场就会觉得好受些。"
       ],
-      "frequency" : 5793,
-      "mnemonic" : "weep=cry：哭泣；流泪",
-      "phonetic" : "wiːp",
-      "pos" : "vt.",
-      "rootHint" : "chall",
-      "word" : "weep"
+      "frequency": 5793,
+      "mnemonic": "weep=cry：哭泣；流泪",
+      "phonetic": "wip",
+      "pos": "vt.",
+      "rootHint": "chall",
+      "word": "weep"
     },
     {
-      "collocations" : [
-        "a weeping willow\/fig\/birch：垂柳；枝条下垂的无花果树\/桦树"
+      "collocations": [
+        "a weeping willow/fig/birch：垂柳；枝条下垂的无花果树/桦树"
       ],
-      "definition" : "（植物）有细长垂枝的",
-      "examples" : [
-
-      ],
-      "frequency" : 16581,
-      "phonetic" : "ˈwiːpɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "chall",
-      "word" : "weeping"
+      "definition": "（植物）有细长垂枝的",
+      "examples": [],
+      "frequency": 16581,
+      "phonetic": "ˈwi.pɪŋ",
+      "pos": "adj.",
+      "rootHint": "chall",
+      "word": "weeping"
     }
   ]
 }

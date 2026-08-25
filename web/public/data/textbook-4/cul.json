@@ -15,7 +15,7 @@
   "words": [
     {
       "word": "cultured",
-      "phonetic": "ˈkʌltʃəd",
+      "phonetic": "ˈkʌl.tʃɚd",
       "pos": "adj.",
       "definition": "有修养的；文雅的；(of cells or bacteria 细胞或细菌) (为医学或科学研究)培养的；(of pearls 珍珠)人工养殖的",
       "frequency": 15976,
@@ -25,7 +25,7 @@
     },
     {
       "word": "cultural",
-      "phonetic": "ˈkʌlt͡ʃəɹəl",
+      "phonetic": "ˈkʌl.tʃə.ɹəl",
       "pos": "adj.",
       "definition": "文化的；与艺术、文学、音乐等有关的",
       "frequency": 934,
@@ -38,7 +38,7 @@
     },
     {
       "word": "culturally",
-      "phonetic": "ˈkʌltʃərəlɪ",
+      "phonetic": "ˈkʌl.tʃə.ɹə.li",
       "pos": "adv.",
       "definition": "从文化上；与文艺有关",
       "frequency": 5850,
@@ -50,7 +50,7 @@
     },
     {
       "word": "agriculture",
-      "phonetic": "ˈæɡɹɪˌkʌltʃɚ",
+      "phonetic": "ˈæɡ.ɹɪ.kʌl.tʃɚ",
       "pos": "n.",
       "definition": "农业；农艺；农学",
       "frequency": 4204,
@@ -64,7 +64,7 @@
     },
     {
       "word": "agricultural",
-      "phonetic": "ˌæɡɹɪˈkʌlt͡ʃəɹəl",
+      "phonetic": "ˌæɡ.ɹɪ.ˈkʌl.tʃɚ.əl",
       "pos": "adj.",
       "definition": "农业的",
       "frequency": 3131,
@@ -76,7 +76,7 @@
     },
     {
       "word": "aquaculture",
-      "phonetic": "ˈækwəkʌltʃər",
+      "phonetic": "ˈækwəˌkʌltʃɚ",
       "pos": "n.",
       "definition": "水产养殖",
       "frequency": 17824,
@@ -88,7 +88,7 @@
     },
     {
       "word": "subculture",
-      "phonetic": "ˈsʌbkʌltʃər",
+      "phonetic": "ˈsʌbˌkʌl.tʃɚ",
       "pos": "n.",
       "definition": "亚文化；(某群体特有的)亚文化行为观念，次文化",
       "frequency": 13179,
@@ -101,7 +101,7 @@
     },
     {
       "word": "colony",
-      "phonetic": "ˈkɑləniː",
+      "phonetic": "ˈkɑləni",
       "pos": "n.",
       "definition": "殖民地；(某一类人的)聚居区；(生物)居住在一起的群体",
       "frequency": 3710,
@@ -116,7 +116,7 @@
     },
     {
       "word": "colonial",
-      "phonetic": "kəˈloʊ.ni.əl",
+      "phonetic": "kəˈloʊniəl",
       "pos": "adj.",
       "definition": "殖民地的；殖民主义的；(17和18世纪美洲)殖民地",
       "collocations": [],
@@ -125,7 +125,7 @@
     },
     {
       "word": "colonialism",
-      "phonetic": "kəˈloʊ.ni.ə.lɪ.zəm",
+      "phonetic": "kəˈloʊniəˌlɪzəm",
       "pos": "n.",
       "definition": "殖民主义；殖民政策",
       "frequency": 11040,
@@ -147,7 +147,7 @@
     },
     {
       "word": "colonize",
-      "phonetic": "ˈkɑlənaɪz",
+      "phonetic": "ˈkɑləˌnaɪz",
       "pos": "vt.",
       "definition": "把……变为殖民地；(动物)移居于；(植物)在……大量繁殖",
       "frequency": 13695,
@@ -159,7 +159,7 @@
     },
     {
       "word": "colonization",
-      "phonetic": "ˌkɑlənaɪˈzeɪʃn",
+      "phonetic": "ˌkɑlənəˈzeɪʃən",
       "pos": "n.",
       "definition": "殖民；殖民地化",
       "frequency": 11160,
@@ -169,7 +169,7 @@
     },
     {
       "word": "colonizer",
-      "phonetic": "ˈkɑlənaɪzər",
+      "phonetic": "ˈkɑləˌnaɪzɚ",
       "pos": "n.",
       "definition": "殖民地开拓者；殖民者；移民",
       "frequency": 20089,
@@ -179,7 +179,7 @@
     },
     {
       "word": "bucolic",
-      "phonetic": "bjuˈkɑlɪk",
+      "phonetic": "bjuˈkɑ.lɪk",
       "pos": "adj.",
       "definition": "乡村的；田园生活的",
       "frequency": 19974,
@@ -196,7 +196,7 @@
     },
     {
       "word": "search",
-      "phonetic": "sɝt͡ʃ",
+      "phonetic": "sɝtʃ",
       "pos": "vt.",
       "definition": "&vi. 在(某地)搜寻；搜查(某地)vt. 搜(某人)身 vi.( 在计算机 上)搜索；搜寻n. 搜寻；搜索",
       "frequency": 1509,
@@ -209,7 +209,7 @@
     },
     {
       "word": "searcher",
-      "phonetic": "ˈsɜrtʃər",
+      "phonetic": "ˈsɝtʃɚ",
       "pos": "n.",
       "definition": "搜索者；探索者",
       "frequency": 19255,
@@ -221,7 +221,7 @@
     },
     {
       "word": "research",
-      "phonetic": "ɹiˈsɝtʃ",
+      "phonetic": "ɹɪ.ˈsɝtʃ",
       "pos": "vt.",
       "definition": "研究 n. 研究",
       "frequency": 363,
@@ -234,7 +234,7 @@
     },
     {
       "word": "researcher",
-      "phonetic": "rɪˈsɜrtʃər",
+      "phonetic": "ɹɪ.ˈsɝ.tʃɚ",
       "pos": "n.",
       "definition": "研究员",
       "frequency": 1181,
@@ -260,7 +260,7 @@
     },
     {
       "word": "crowning",
-      "phonetic": "ˈkɹaʊnɪŋ",
+      "phonetic": "ˈkɹaʊ.nɪŋ",
       "pos": "adj.",
       "definition": "最伟大的n. 加冕",
       "frequency": 20157,
@@ -272,7 +272,7 @@
     },
     {
       "word": "corona",
-      "phonetic": "kəˈɹoʊnə",
+      "phonetic": "kəˈɹoʊ.nə",
       "pos": "n.",
       "definition": "日冕",
       "frequency": 17825,
@@ -283,7 +283,7 @@
     },
     {
       "word": "coronary",
-      "phonetic": "ˈkɔɹənɛɹi",
+      "phonetic": "ˈkɔɹ.ə.nɛɹ.i",
       "pos": "adj.",
       "definition": "冠状动脉的；与心脏有关的 n. 冠状动脉病",
       "frequency": 10458,
@@ -295,7 +295,7 @@
     },
     {
       "word": "coronation",
-      "phonetic": "ˌkɔɹəˈneɪʃən",
+      "phonetic": "ˌkɔɹ.əˈneɪ.ʃən",
       "pos": "n.",
       "definition": "(国王或女王的)加冕仪式",
       "frequency": 18622,
@@ -305,7 +305,7 @@
     },
     {
       "word": "coroner",
-      "phonetic": "ˈkɑ.ɹə.nə(ɹ)",
+      "phonetic": "ˈkɔɹ.ə.nɚ",
       "pos": "n.",
       "definition": "验尸官",
       "frequency": 10826,
@@ -329,7 +329,7 @@
     },
     {
       "word": "shrink",
-      "phonetic": "ˈʃɹɪŋk",
+      "phonetic": "ʃɹɪŋk",
       "pos": "vt.",
       "definition": "&vi. 使缩小；缩小 vi. (因害怕、震惊或厌恶)避开；逃避(不 愉快或危险的事);缩水 n. 精神病医生",
       "frequency": 4526,
@@ -371,7 +371,7 @@
     },
     {
       "word": "ranger",
-      "phonetic": "ˈɹeɪndʒə(ɹ)",
+      "phonetic": "ˈɹeɪn.dʒɚ",
       "pos": "n.",
       "definition": "园林管理员；护林员；(接受突袭敌战区训练的)特别行动队队员",
       "frequency": 8832,
@@ -392,7 +392,7 @@
     },
     {
       "word": "long-range",
-      "phonetic": "lɑŋ reɪndʒ",
+      "phonetic": "ˌlɔŋ.ˈɹeɪndʒ",
       "pos": "adj.",
       "definition": "远程的；远大的；长期的(规划等)9171",
       "collocations": [
@@ -404,7 +404,7 @@
     },
     {
       "word": "rearrange",
-      "phonetic": "ˌriəˈreɪndʒ",
+      "phonetic": "ˌɹi.əˈɹeɪndʒ",
       "pos": "vt.",
       "definition": "重新整理；重新安排",
       "frequency": 9668,
@@ -416,7 +416,7 @@
     },
     {
       "word": "arrangement",
-      "phonetic": "əˈɹeɪnd͡ʒmənt",
+      "phonetic": "əˈɹeɪndʒmənt",
       "pos": "n.",
       "definition": "安排；商定；布置；(乐曲的)改编",
       "frequency": 2378,
@@ -444,7 +444,7 @@
     },
     {
       "word": "ranking",
-      "phonetic": "ˈɹænk.ɪŋ",
+      "phonetic": "ˈɹæŋ.kɪŋ",
       "pos": "n.",
       "definition": "(最优秀选手的)排名adj. 级别最高的",
       "frequency": 5098,
@@ -469,7 +469,7 @@
     },
     {
       "word": "ranching",
-      "phonetic": "ˈrɑntʃɪŋ",
+      "phonetic": "ˈɹæn.tʃɪŋ",
       "pos": "n.",
       "definition": "大农牧场的经营",
       "frequency": 14884,
@@ -479,7 +479,7 @@
     },
     {
       "word": "rancher",
-      "phonetic": "ˈrɑntʃər",
+      "phonetic": "ˈɹæn.tʃɚ",
       "pos": "n.",
       "definition": "农场主",
       "frequency": 7616,
@@ -491,7 +491,7 @@
     },
     {
       "word": "ridge",
-      "phonetic": "ɹɪdʒ",
+      "phonetic": "ˈɹɪdʒ",
       "pos": "n.",
       "definition": "山脉；脊；(平面上的)隆起线",
       "frequency": 4908,
@@ -516,7 +516,7 @@
     },
     {
       "word": "crisply",
-      "phonetic": "ˈkɹɪspli",
+      "phonetic": "ˈkɹɪsp.li",
       "pos": "adv.",
       "definition": "清楚地；干净利落地",
       "frequency": 19676,
@@ -538,7 +538,7 @@
     },
     {
       "word": "fund",
-      "phonetic": "ˈfʌnd",
+      "phonetic": "fʌnd",
       "pos": "vt.",
       "definition": "资助 n.( 为特定目的而筹集或保留的)专项资金",
       "frequency": 755,
@@ -557,7 +557,7 @@
     },
     {
       "word": "funded",
-      "phonetic": "ˈfʌndɪd",
+      "phonetic": "ˈfʌn.dɪd",
       "pos": "adj.",
       "definition": "资助的",
       "frequency": 11097,
@@ -569,7 +569,7 @@
     },
     {
       "word": "funding",
-      "phonetic": "ˈfʌndɪŋ",
+      "phonetic": "ˈfʌn.dɪŋ",
       "pos": "n.",
       "definition": "基金；(政府或组织为某目的而提供的)资金；拨款",
       "frequency": 2160,
@@ -581,7 +581,7 @@
     },
     {
       "word": "fund-raiser",
-      "phonetic": "ˈfʌndˌreɪzə",
+      "phonetic": "ˈfʌnd.ˌɹeɪ.zɚ",
       "pos": "n.",
       "definition": "募集资金的活动；募集资金者",
       "frequency": 6967,
@@ -595,7 +595,7 @@
     },
     {
       "word": "refund",
-      "phonetic": "ˈriːfʌnd",
+      "phonetic": "ɹɪˈfʌnd",
       "pos": "vt.",
       "definition": "退 还n. 退款",
       "frequency": 11184,
@@ -608,7 +608,7 @@
     },
     {
       "word": "underfund",
-      "phonetic": "ˌʌndəˈfʌnd",
+      "phonetic": "ˌʌndɚˈfʌnd",
       "pos": "vt.",
       "definition": "对……提供的资金不足",
       "mnemonic": "under( 达不到；不够)+fund (资助) → 资助不足",
@@ -620,7 +620,7 @@
     },
     {
       "word": "underfunded",
-      "phonetic": "ˌʌndəˈfʌndɪd",
+      "phonetic": "ˌʌndɚˈfʌndɪd",
       "pos": "adj.",
       "definition": "( 项目、机构等)资金不足的",
       "frequency": 18515,
@@ -632,7 +632,7 @@
     },
     {
       "word": "fundamental",
-      "phonetic": "ˌfʌndəˈmɛntəl",
+      "phonetic": "ˌfʌn.dəˈmɛn.təl",
       "pos": "adj.",
       "definition": "根本的；基础的；十分重要的[+to]2349十分重要的",
       "mnemonic": "fund(基础；根基)+a+mental(=ment+al: 复合形容词后缀)→基本的；",
@@ -647,7 +647,7 @@
     },
     {
       "word": "fundamentalism",
-      "phonetic": "ˌfʌndəˈmentəlɪzəm",
+      "phonetic": "ˌfʌn.dəˈmɛn.tə.lɪ.zəm",
       "pos": "n.",
       "definition": "原教旨主义；原教旨主义者",
       "frequency": 12073,
@@ -659,7 +659,7 @@
     },
     {
       "word": "fundamentalist",
-      "phonetic": "ˌfʌndəˈmentəlɪst",
+      "phonetic": "ˌfʌn.dəˈmɛn.tə.lɪst",
       "pos": "n.",
       "definition": "原教旨主义者；(基督教的)基要主义者",
       "frequency": 9454,
@@ -671,7 +671,7 @@
     },
     {
       "word": "fundamentally",
-      "phonetic": "ˌfʌndəˈmentəli",
+      "phonetic": "ˌfʌn.dəˈmɛn.tə.li",
       "pos": "adv.",
       "definition": "根本上；基本上",
       "frequency": 5666,
@@ -696,7 +696,7 @@
     },
     {
       "word": "founder",
-      "phonetic": "ˈfaʊndɚ",
+      "phonetic": "ˈfaʊn.dɚ",
       "pos": "vi.",
       "definition": "失败[+on]; 船沉没[+on] n. (公司、组织、学校等的) 创立者",
       "frequency": 2822,
@@ -709,7 +709,7 @@
     },
     {
       "word": "founding",
-      "phonetic": "ˈfaʊndɪŋ",
+      "phonetic": "ˈfaʊn.dɪŋ",
       "pos": "adj.",
       "definition": "创办的；成立的",
       "frequency": 7664,
@@ -733,7 +733,7 @@
     },
     {
       "word": "foundation",
-      "phonetic": "faʊnˈdeɪʃən",
+      "phonetic": "faʊnˈdeɪ.ʃən",
       "pos": "n.",
       "definition": "地基；基础；基金会；粉底霜",
       "frequency": 2275,
@@ -748,7 +748,7 @@
     },
     {
       "word": "foundational",
-      "phonetic": "faʊnˈdeɪʃənəl",
+      "phonetic": "faʊnˈdeɪ.ʃə.nəl",
       "pos": "adj.",
       "definition": "基础的；基本的",
       "frequency": 17082,
@@ -760,7 +760,7 @@
     },
     {
       "word": "co-found",
-      "phonetic": "koʊˈfaʊndə",
+      "phonetic": "ˌkoʊˈfaʊnd",
       "pos": "vt.",
       "definition": "共同创立",
       "frequency": 18758,
@@ -773,7 +773,7 @@
     },
     {
       "word": "co-founder",
-      "phonetic": "ˈkoʊfˈaʊndər",
+      "phonetic": "ˈkoʊˌfaʊndɚ",
       "pos": "n.",
       "definition": "共同创始人",
       "frequency": 8411,
@@ -785,7 +785,7 @@
     },
     {
       "word": "newfound",
-      "phonetic": "ˈnjuːfaʊnd",
+      "phonetic": "ˈnu.faʊnd",
       "pos": "adj.",
       "definition": "新发现的；新找到的",
       "frequency": 9931,
@@ -818,7 +818,7 @@
     },
     {
       "word": "profoundly",
-      "phonetic": "pɹəˈfaʊndli",
+      "phonetic": "pɹəˈfaʊnd.li",
       "pos": "adv.",
       "definition": "极大地；深刻地；彻底地",
       "frequency": 6582,
@@ -831,7 +831,7 @@
     },
     {
       "word": "bottom",
-      "phonetic": "ˈbɑtəm",
+      "phonetic": "ˈbɑ.təm",
       "pos": "n",
       "definition": ".底部；底；(市场、行业)底部；最底层；最后一名；服 装的下半部；(街道或庭院的)尽头；(桌子或床的)末端；臀部 adj. 最下 面的",
       "frequency": 1520,
@@ -850,7 +850,7 @@
     },
     {
       "word": "bottomless",
-      "phonetic": "ˈbaɾm̩lɨs",
+      "phonetic": "ˈbɑ.təm.ləs",
       "pos": "adj.",
       "definition": "无穷无尽的；深不见底的",
       "frequency": 17291,
@@ -878,7 +878,7 @@
     },
     {
       "word": "basis",
-      "phonetic": "ˈbeɪsɪs",
+      "phonetic": "ˈbeɪ.sɪs",
       "pos": "n.",
       "definition": "基础；依据",
       "frequency": 1314,
@@ -894,7 +894,7 @@
     },
     {
       "word": "basic",
-      "phonetic": "ˈbeɪsɪk",
+      "phonetic": "ˈbeɪ.sɪk",
       "pos": "adj.",
       "definition": "基本的；主要的；简单的",
       "frequency": 1147,
@@ -910,7 +910,7 @@
     },
     {
       "word": "basically",
-      "phonetic": "ˈbeɪsɪk(ə)li",
+      "phonetic": "ˈbeɪ.sɪ.kli",
       "pos": "adv.",
       "definition": "基本上；大致说来",
       "frequency": 1702,
@@ -922,7 +922,7 @@
     },
     {
       "word": "basal",
-      "phonetic": "[ˈbeɪsəɫ]",
+      "phonetic": "ˈbeɪ.səl",
       "pos": "adj.",
       "definition": "[ 植]基部的；基底的",
       "frequency": 18005,
@@ -934,7 +934,7 @@
     },
     {
       "word": "baseball",
-      "phonetic": "ˈbeɪs.bɑl",
+      "phonetic": "ˈbeɪs.bɔl",
       "pos": "n.",
       "definition": "棒球运动；棒球",
       "frequency": 1380,
@@ -946,7 +946,7 @@
     },
     {
       "word": "baseline",
-      "phonetic": "ˈbeɪslaɪn",
+      "phonetic": "ˈbeɪs.laɪn",
       "pos": "n.",
       "definition": "( 网球场、羽毛球场或篮球场的)底线；(棒球场的)垒线；(价值的)基准",
       "frequency": 6053,
@@ -958,7 +958,7 @@
     },
     {
       "word": "baseman",
-      "phonetic": "ˈbeɪsmæn",
+      "phonetic": "ˈbeɪs.mən",
       "pos": "n.",
       "definition": "守垒员；垒手",
       "frequency": 8959,
@@ -970,7 +970,7 @@
     },
     {
       "word": "basin",
-      "phonetic": "ˈbeɪsɪn",
+      "phonetic": "ˈbeɪ.sən",
       "pos": "n.",
       "definition": "盆；流域；盆地；内港",
       "frequency": 6262,
@@ -986,7 +986,7 @@
     },
     {
       "word": "broad-based",
-      "phonetic": "ˈbrɔdbeist",
+      "phonetic": "ˈbɹɔd.beɪst",
       "pos": "adj.",
       "definition": "有广泛基础的；无限制的",
       "frequency": 14323,
@@ -999,7 +999,7 @@
     },
     {
       "word": "community-based",
-      "phonetic": "kəˌmjuːnətiˈbeɪst",
+      "phonetic": "kəˌmjunətiˈbeɪst",
       "pos": "adj.",
       "definition": "以社区为基础的",
       "frequency": 11496,
@@ -1010,7 +1010,7 @@
     },
     {
       "word": "database",
-      "phonetic": "ˈdeɪtəˌbeɪs",
+      "phonetic": "ˈdeɪ.tə.beɪs",
       "pos": "n.",
       "definition": "数据库；资料库",
       "frequency": 3673,
@@ -1023,7 +1023,7 @@
     },
     {
       "word": "faith-based",
-      "phonetic": "ferθ-beist",
+      "phonetic": "ˈfeɪθˌbeɪst",
       "pos": "adj.",
       "definition": "基于信仰的",
       "frequency": 13867,
@@ -1048,7 +1048,7 @@
     },
     {
       "word": "grounding",
-      "phonetic": "ˈɡɹaʊndɪŋ",
+      "phonetic": "ˈɡɹaʊn.dɪŋ",
       "pos": "n.",
       "definition": "基础训练",
       "frequency": 15883,
@@ -1060,7 +1060,7 @@
     },
     {
       "word": "groundwater",
-      "phonetic": "ˈgraʊndwɔtər",
+      "phonetic": "ˈɡɹaʊnd.ˌwɑ.tɚ",
       "pos": "n.",
       "definition": "地下水",
       "frequency": 9190,
@@ -1073,7 +1073,7 @@
     },
     {
       "word": "groundwork",
-      "phonetic": "ˈgraʊndwɜrk",
+      "phonetic": "ˈɡɹaʊnd.wɝk",
       "pos": "n.",
       "definition": "基础工作",
       "frequency": 12079,
@@ -1085,7 +1085,7 @@
     },
     {
       "word": "ground-based",
-      "phonetic": "ɡˈraʊndbˈeɪst",
+      "phonetic": "ˈɡɹaʊnd.beɪst",
       "pos": "adj.",
       "definition": "地面的",
       "frequency": 16927,
@@ -1097,7 +1097,7 @@
     },
     {
       "word": "function",
-      "phonetic": "ˈfʌŋkʃən",
+      "phonetic": "ˈfʌŋk.ʃən",
       "pos": "n.",
       "definition": "功能；职责vi. 发挥作用",
       "frequency": 1449,
@@ -1112,7 +1112,7 @@
     },
     {
       "word": "functional",
-      "phonetic": "ˈfʌŋk(t)ʃnəl",
+      "phonetic": "ˈfʌŋk.ʃə.nəl",
       "pos": "adj.",
       "definition": "运转正常的；功能上的",
       "frequency": 4277,
@@ -1124,7 +1124,7 @@
     },
     {
       "word": "functionality",
-      "phonetic": "ˌfʌŋkʃəˈnæləti",
+      "phonetic": "ˌfʌŋk.ʃəˈnæ.lə.ti",
       "pos": "n.",
       "definition": "(计算机、软件或设备的)功能",
       "frequency": 17118,
@@ -1137,7 +1137,7 @@
     },
     {
       "word": "functioning",
-      "phonetic": "ˈfʌŋkʃənɪŋ",
+      "phonetic": "ˈfʌŋk.ʃə.nɪŋ",
       "pos": "n.",
       "definition": "运行；功能(function 的动名词)813520000词汇巅峰速20000词汇巅峰",
       "collocations": [],
@@ -1146,7 +1146,7 @@
     },
     {
       "word": "malfunction",
-      "phonetic": "ˌmælˈfʌŋk.ʃən",
+      "phonetic": "mæl.ˈfʌŋk.ʃən",
       "pos": "vi.",
       "definition": "发生故障 n. (机器的)故障；(人体器官的) 功能障碍[+of]15337",
       "mnemonic": "mal-(bad,badly ,wrong: 错误的；有问题的)+function(功能)→功能出 现问题→故障；功能障碍",
@@ -1160,7 +1160,7 @@
     },
     {
       "word": "perfunctory",
-      "phonetic": "pɚˈfʌŋk.tɚ.i",
+      "phonetic": "pɚ.ˈfʌŋk.tə.ɹi",
       "pos": "adj.",
       "definition": "(行动)草率的，敷衍的",
       "frequency": 20071,
@@ -1176,7 +1176,7 @@
     },
     {
       "word": "defunct",
-      "phonetic": "dɪˈfʌŋkt",
+      "phonetic": "dɪ.ˈfʌŋkt",
       "pos": "adj.",
       "definition": "不再起作用的",
       "frequency": 16001,
@@ -1205,7 +1205,7 @@
     },
     {
       "word": "dysfunctional",
-      "phonetic": "dɪsˈfʌŋkʃənl",
+      "phonetic": "dɪsˈfʌŋk.ʃə.nəl",
       "pos": "adj.",
       "definition": "( 关系或行为)异常的",
       "frequency": 10115,
@@ -1233,7 +1233,7 @@
     },
     {
       "word": "fruitful",
-      "phonetic": "ˈfɹuːtfəl",
+      "phonetic": "ˈfɹut.fəl",
       "pos": "adj.",
       "definition": "富有成效；(土地)多产的，丰饶的",
       "frequency": 12035,
@@ -1245,7 +1245,7 @@
     },
     {
       "word": "frugal",
-      "phonetic": "ˈfɹuːɡəl",
+      "phonetic": "ˈfɹu.ɡəl",
       "pos": "adj.",
       "definition": "节俭的；(膳食)俭省的",
       "frequency": 17191,
@@ -1260,7 +1260,7 @@
     },
     {
       "word": "fruition",
-      "phonetic": "ˈfɹuː.ɪʃ.ən",
+      "phonetic": "fɹuˈɪ.ʃən",
       "pos": "n.",
       "definition": "(计划、项目等的)实现；完成；收效",
       "frequency": 17308,
@@ -1272,7 +1272,7 @@
     },
     {
       "word": "fruitless",
-      "phonetic": "ˈfɹutləs",
+      "phonetic": "ˈfɹut.ləs",
       "pos": "adj.",
       "definition": "无成效的；无结果的",
       "frequency": 16116,
@@ -1284,7 +1284,7 @@
     },
     {
       "word": "fruity",
-      "phonetic": "ˈfɹuːti",
+      "phonetic": "ˈfɹu.ti",
       "pos": "adj.",
       "definition": "果香味浓的；(声音)圆润的；(笑声)甜美的",
       "frequency": 18011,
@@ -1296,7 +1296,7 @@
     },
     {
       "word": "grapefruit",
-      "phonetic": "ˈɡɹeɪp.fɹuːt",
+      "phonetic": "ˈɡɹeɪp.ˌfɹut",
       "pos": "n.",
       "definition": "葡萄柚",
       "frequency": 12394,

@@ -1,616 +1,554 @@
 {
-  "chapter" : "7",
-  "chapterOrder" : 107,
-  "id" : "mens",
-  "meaningEn" : "measure”的含义为“测量”。",
-  "roots" : [
+  "chapter": "7",
+  "chapterOrder": 107,
+  "id": "mens",
+  "meaningEn": "measure”的含义为“测量”。",
+  "roots": [
     "mens",
     "meter"
   ],
-  "semanticLabel" : "measure的",
-  "source" : "textbook-6",
-  "titleZh" : "measure的",
-  "words" : [
+  "semanticLabel": "measure的",
+  "source": "textbook-6",
+  "titleZh": "measure的",
+  "words": [
     {
-      "collocations" : [
+      "collocations": [
         "a moon landing：月球登陆",
         "full moon：满月",
         "new moon：新月",
         "moon over sb.：痴痴地思念（所爱的人）（海上升明月，天涯共此\n时）"
       ],
-      "definition" : "月亮；月球；卫星",
-      "etymology" : "来自原始印欧语词根me(n)ses- “moon, month”。来自词根me-=测 量：to measure，表示月亮的阴晴圆缺作为古代及通用的测量日期的 参照物。",
-      "examples" : [
+      "definition": "月亮；月球；卫星",
+      "etymology": "来自原始印欧语词根me(n)ses- “moon, month”。来自词根me-=测 量：to measure，表示月亮的阴晴圆缺作为古代及通用的测量日期的 参照物。",
+      "examples": [
         "How many moons does Jupiter have?\n木星有多少颗卫星？"
       ],
-      "frequency" : 2471,
-      "phonetic" : "muːn",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "moon"
+      "frequency": 2471,
+      "phonetic": "mun",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "moon"
     },
     {
-      "collocations" : [
-        "to go for a walk by moonlight\/in the moonlight：在月光下散步",
+      "collocations": [
+        "to go for a walk by moonlight/in the moonlight：在月光下散步",
         "moonlight as a taxi driver：兼职做出租车司机\n比较：moonshine n.（非法私酿的）威士忌酒；妄想；空话"
       ],
-      "definition" : "月光 vi.（常指隐瞒雇主或税务机关的）兼职",
-      "examples" : [
-
-      ],
-      "frequency" : 8097,
-      "mnemonic" : "moon（月亮）+ light（光）→月光；兼职（月光下的工作，不为外人",
-      "phonetic" : "ˈmunˌlaɪt",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "moonlight"
+      "definition": "月光 vi.（常指隐瞒雇主或税务机关的）兼职",
+      "examples": [],
+      "frequency": 8097,
+      "mnemonic": "moon（月亮）+ light（光）→月光；兼职（月光下的工作，不为外人",
+      "phonetic": "ˈmunlaɪt",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "moonlight"
     },
     {
-      "collocations" : [
-        "a moonlit night\/beach：一个月光照耀的夜晚\/海滨"
+      "collocations": [
+        "a moonlit night/beach：一个月光照耀的夜晚/海滨"
       ],
-      "definition" : "月光照耀的",
-      "examples" : [
-
-      ],
-      "frequency" : 19044,
-      "mnemonic" : "moon（月亮）+ lit（light照亮、照耀的过去分词）→月光照耀的",
-      "phonetic" : "ˈmuːnˌlɪt",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "moonlit"
+      "definition": "月光照耀的",
+      "examples": [],
+      "frequency": 19044,
+      "mnemonic": "moon（月亮）+ lit（light照亮、照耀的过去分词）→月光照耀的",
+      "phonetic": "ˈmunlɪt",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "moonlit"
     },
     {
-      "collocations" : [
+      "collocations": [
         "on honeymoon：正在度蜜月",
         "honeymoon in Venice：在威尼斯度蜜月",
         "a honeymoon period：蜜月期"
       ],
-      "definition" : "蜜月；（新活动之初的）和谐时期 vi. 度蜜月",
-      "etymology" : "按 日 耳 曼 民 族 的 古 老 习 俗 ， 新 婚 夫 妇 在 婚 宴 后 要 喝 一 个 月 蜂 蜜 酒（honey wine），使爱情能够永远甜甜蜜蜜的。这个月被称作 honeymoon，即蜜月之意。其中honey意指“蜂蜜”，而moon在诗歌 语言中则义同month。另外一种说法是，婚后第一月乃是甜如蜜的一 个月，然而，如同月亮圆极而亏，新婚夫妇过了一个月，爱情也由浓 而淡，故以moon配之。有时也喻指“（国家或政党之间）关系和谐 的时期”。",
-      "examples" : [
-
-      ],
-      "frequency" : 8275,
-      "mnemonic" : "honey（蜜）+ moon（=month：月）→蜜月；和谐时期；度蜜月",
-      "phonetic" : "ˈhʌn.iˌmun",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "honeymoon"
+      "definition": "蜜月；（新活动之初的）和谐时期 vi. 度蜜月",
+      "etymology": "按 日 耳 曼 民 族 的 古 老 习 俗 ， 新 婚 夫 妇 在 婚 宴 后 要 喝 一 个 月 蜂 蜜 酒（honey wine），使爱情能够永远甜甜蜜蜜的。这个月被称作 honeymoon，即蜜月之意。其中honey意指“蜂蜜”，而moon在诗歌 语言中则义同month。另外一种说法是，婚后第一月乃是甜如蜜的一 个月，然而，如同月亮圆极而亏，新婚夫妇过了一个月，爱情也由浓 而淡，故以moon配之。有时也喻指“（国家或政党之间）关系和谐 的时期”。",
+      "examples": [],
+      "frequency": 8275,
+      "mnemonic": "honey（蜜）+ moon（=month：月）→蜜月；和谐时期；度蜜月",
+      "phonetic": "ˈhʌ.ni.mun",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "honeymoon"
     },
     {
-      "collocations" : [
+      "collocations": [
         "Her anxiety mounted month by month (= as each month passed).\n她的焦虑之情逐月加重。"
       ],
-      "definition" : "月份；一个月的时间",
-      "etymology" : "古人会根据月亮圆缺来记录时间。原始印欧语menes-，既指月亮的 “月”,也是月份的“月”。",
-      "examples" : [
+      "definition": "月份；一个月的时间",
+      "etymology": "古人会根据月亮圆缺来记录时间。原始印欧语menes-，既指月亮的 “月”,也是月份的“月”。",
+      "examples": [
         "Prices continue to rise month after month (= over a period of several\nmonths).\n近几个月价格持续增长。"
       ],
-      "frequency" : 237,
-      "mnemonic" : "mon（=moon：月亮）+ -th（名词后缀）→月份；一个月的时间",
-      "phonetic" : "mʌnθ",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "month"
+      "frequency": 237,
+      "mnemonic": "mon（=moon：月亮）+ -th（名词后缀）→月份；一个月的时间",
+      "phonetic": "mʌnθ",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "month"
     },
     {
-      "collocations" : [
-        "a monthly meeting\/visit\/magazine：每月一次的会议\/拜访；月刊",
+      "collocations": [
+        "a monthly meeting/visit/magazine：每月一次的会议/拜访；月刊",
         "a monthly salary of￡1,000：1, 000英镑的月薪",
         "get paid monthly：按月领薪水",
         "the fashion monthlies：时装月刊"
       ],
-      "definition" : "每月的，每月一次的；按月结算的，有效期为一个月的 adv. 每个月；每月一次 n. 月刊",
-      "examples" : [
-
-      ],
-      "frequency" : 3552,
-      "phonetic" : "ˈmʌnθli",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "monthly"
+      "definition": "每月的，每月一次的；按月结算的，有效期为一个月的 adv. 每个月；每月一次 n. 月刊",
+      "examples": [],
+      "frequency": 3552,
+      "phonetic": "ˈmʌnθli",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "monthly"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a three-month-old baby：三个月大的婴儿"
       ],
-      "definition" : "三个月",
-      "examples" : [
-
-      ],
-      "frequency" : 14903,
-      "mnemonic" : "three（三）+ month（一个月时间）→三个月",
-      "phonetic" : "θriːmʌnθ",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "three-month"
+      "definition": "三个月",
+      "examples": [],
+      "frequency": 14903,
+      "mnemonic": "three（三）+ month（一个月时间）→三个月",
+      "phonetic": "ˈθɹi.mʌnθ",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "three-month"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a six-month English course：为期半年的英语课程"
       ],
-      "definition" : "六个月",
-      "examples" : [
-
-      ],
-      "frequency" : 11625,
-      "mnemonic" : "six（六）+ month（一个月时间）→六个月",
-      "phonetic" : "sɪksmʌnθ",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "six-month"
+      "definition": "六个月",
+      "examples": [],
+      "frequency": 11625,
+      "mnemonic": "six（六）+ month（一个月时间）→六个月",
+      "phonetic": "ˌsɪksˈmʌnθ",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "six-month"
     },
     {
-      "collocations" : [
-        "the spring\/fall semester：春季\/秋季学期"
+      "collocations": [
+        "the spring/fall semester：春季/秋季学期"
       ],
-      "definition" : "学期",
-      "etymology" : "自拉丁语semestris。",
-      "examples" : [
-
-      ],
-      "frequency" : 5541,
-      "mnemonic" : "se（=six：六个）+ mester（=mestris=month：月份) →六个月→在德",
-      "phonetic" : "sɪˈmɛstə",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "semester"
+      "definition": "学期",
+      "etymology": "自拉丁语semestris。",
+      "examples": [],
+      "frequency": 5541,
+      "mnemonic": "se（=six：六个）+ mester（=mestris=month：月份) →六个月→在德",
+      "phonetic": "sɪˈmɛstɚ",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "semester"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the first trimester of pregnancy：妊娠的头三个月"
       ],
-      "definition" : "妊娠期（以三个月为单位）；（一些国家的学院及大学中一学年的三分之一）学期（=term：学期）",
-      "examples" : [
+      "definition": "妊娠期（以三个月为单位）；（一些国家的学院及大学中一学年的三分之一）学期（=term：学期）",
+      "examples": [
         "The school year is divided into three trimesters.\n一学年分三个学期。"
       ],
-      "frequency" : 18781,
-      "mnemonic" : "tri-（=three：三）+ mester（=month：月）→三个月时间→妊娠期；",
-      "phonetic" : "tɹaɪˈmɛs.təɹ",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "trimester"
+      "frequency": 18781,
+      "mnemonic": "tri-（=three：三）+ mester（=month：月）→三个月时间→妊娠期；",
+      "phonetic": "tɹaɪˈmɛstɚ",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "trimester"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a square meal：丰盛的一餐"
       ],
-      "definition" : "一顿饭；（一餐所吃的）食物；谷物粗粉（用作饲料或加工面粉）1722",
-      "etymology" : "来自印欧语词根me=to measure：测量，同meter，measure。词义 由测量引申为固定时间，最后引申词义用餐时间，一顿饭。",
-      "examples" : [
-
-      ],
-      "phonetic" : "[miːʟ̩]",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "meal"
+      "definition": "一顿饭；（一餐所吃的）食物；谷物粗粉（用作饲料或加工面粉）1722",
+      "etymology": "来自印欧语词根me=to measure：测量，同meter，measure。词义 由测量引申为固定时间，最后引申词义用餐时间，一顿饭。",
+      "examples": [],
+      "phonetic": "mil",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "meal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "oatmeal cookies：燕麦小甜饼"
       ],
-      "definition" : "燕麦片；燕麦粥",
-      "examples" : [
-
-      ],
-      "frequency" : 11228,
-      "mnemonic" : "oat（燕麦）+ meal（谷物粗粉）→燕麦片；燕麦粥",
-      "phonetic" : "ˈoʊtmil",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "oatmeal"
+      "definition": "燕麦片；燕麦粥",
+      "examples": [],
+      "frequency": 11228,
+      "mnemonic": "oat（燕麦）+ meal（谷物粗粉）→燕麦片；燕麦粥",
+      "phonetic": "ˈoʊt.mil",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "oatmeal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "cornmeal bun：窝窝头"
       ],
-      "definition" : "玉米面；玉米粉",
-      "examples" : [
-
-      ],
-      "frequency" : 13275,
-      "mnemonic" : "corn（玉米）+ meal（谷物粗粉）→玉米面；玉米粉",
-      "phonetic" : "ˈkɔnmiːl",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "cornmeal"
+      "definition": "玉米面；玉米粉",
+      "examples": [],
+      "frequency": 13275,
+      "mnemonic": "corn（玉米）+ meal（谷物粗粉）→玉米面；玉米粉",
+      "phonetic": "ˈkɔɹn.mil",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "cornmeal"
     },
     {
-      "collocations" : [
+      "collocations": [
         "read the gas meter：查煤气表"
       ],
-      "definition" : "（用于测量电、煤气、水等，以及时间和距离的）计量表；-meter（构成复合词）计；仪；表；米（=metre） vt. 用仪表计量",
-      "etymology" : "来自希腊语metron“ measure”。原本是衡量古希腊古典诗歌韵律的 最小单位，后来metron在希腊语中又衍生出“度量万物的最小单位” 之意。1799年，法国采用“meter”——以通过巴黎的子午线上从地 球赤道到北极点的距离的一千万分之一——为标准单位，即“米”。",
-      "examples" : [
-
-      ],
-      "frequency" : 3050,
-      "phonetic" : "ˈmitəɹ",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "meter"
+      "definition": "（用于测量电、煤气、水等，以及时间和距离的）计量表；-meter（构成复合词）计；仪；表；米（=metre） vt. 用仪表计量",
+      "etymology": "来自希腊语metron“ measure”。原本是衡量古希腊古典诗歌韵律的 最小单位，后来metron在希腊语中又衍生出“度量万物的最小单位” 之意。1799年，法国采用“meter”——以通过巴黎的子午线上从地 球赤道到北极点的距离的一千万分之一——为标准单位，即“米”。",
+      "examples": [],
+      "frequency": 3050,
+      "phonetic": "ˈmitɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "meter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "only a few centimeters high：只有几厘米高"
       ],
-      "definition" : "厘米",
-      "examples" : [
-
-      ],
-      "frequency" : 11002,
-      "mnemonic" : "centi（百分之一）+ meter（米）→百分之一米→厘米",
-      "phonetic" : "ˈsentɪmiːtə(r)",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "centimeter"
+      "definition": "厘米",
+      "examples": [],
+      "frequency": 11002,
+      "mnemonic": "centi（百分之一）+ meter（米）→百分之一米→厘米",
+      "phonetic": "ˈsɛntəˌmitɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "centimeter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "just 10 millimeters long：只有10毫米长"
       ],
-      "definition" : "毫米",
-      "examples" : [
-
-      ],
-      "frequency" : 13013,
-      "mnemonic" : "milli-（千分之一）+ meter（米）→千分之一米→毫米",
-      "phonetic" : "ˈmɪlɪˌmiːtə",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "millimeter"
+      "definition": "毫米",
+      "examples": [],
+      "frequency": 13013,
+      "mnemonic": "milli-（千分之一）+ meter（米）→千分之一米→毫米",
+      "phonetic": "ˈmɪləˌmitɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "millimeter"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the diameter of a tree trunk：树干的直径"
       ],
-      "definition" : "直径",
-      "examples" : [
-
-      ],
-      "frequency" : 5323,
-      "mnemonic" : "dia-（=across, through：通过；穿过）+ -meter（测量；仪表）→穿过\n圆或球体中心的直线的长度→直径",
-      "phonetic" : "daɪˈæmɪtɚ",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "diameter"
+      "definition": "直径",
+      "examples": [],
+      "frequency": 5323,
+      "mnemonic": "dia-（=across, through：通过；穿过）+ -meter（测量；仪表）→穿过\n圆或球体中心的直线的长度→直径",
+      "phonetic": "daɪ.ˈæ.mɪ.tɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "diameter"
     },
     {
-      "collocations" : [
-        "metric units\/measurements\/sizes：公制单位\/尺寸\/大小",
+      "collocations": [
+        "metric units/measurements/sizes：公制单位/尺寸/大小",
         "metric ton：公吨"
       ],
-      "definition" : "米制的；公制的；按公制制造的；用公制测量的",
-      "examples" : [
+      "definition": "米制的；公制的；按公制制造的；用公制测量的",
+      "examples": [
         "These screws are metric.\n这些螺丝钉是用公制（尺码）制造的。"
       ],
-      "frequency" : 10417,
-      "mnemonic" : "metr-（=meter：米；公尺）+ -ic（形容词后缀）→米制的；公制的；",
-      "phonetic" : "ˈmɛt.ɹɪk",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "metric"
+      "frequency": 10417,
+      "mnemonic": "metr-（=meter：米；公尺）+ -ic（形容词后缀）→米制的；公制的；",
+      "phonetic": "ˈmɛtɹɪk",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "metric"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the geometry of the curved roof：几何图形的弧形房顶",
         "the geometry of a spider’s web：蜘蛛网的几何形状\n笔 记 区"
       ],
-      "definition" : "几何学；几何图形；几何结构",
-      "examples" : [
-
-      ],
-      "frequency" : 7991,
-      "mnemonic" : "geo-（=earth, land：地球；大地）+ -metr（=meter：测量）+ -y（名\n词后缀）→测量土地→几何学产生于田地的测量。古埃及修建尼罗河\n水利工程，曾进行测地工作，后逐渐发展为几何学→几何学；几何图",
-      "phonetic" : "dʒiˈɑmətɹi",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "geometry"
+      "definition": "几何学；几何图形；几何结构",
+      "examples": [],
+      "frequency": 7991,
+      "mnemonic": "geo-（=earth, land：地球；大地）+ -metr（=meter：测量）+ -y（名\n词后缀）→测量土地→几何学产生于田地的测量。古埃及修建尼罗河\n水利工程，曾进行测地工作，后逐渐发展为几何学→几何学；几何图",
+      "phonetic": "dʒiˈɑ.mə.tɹi",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "geometry"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a geometric design：几何图形设计",
         "a geometric point：几何学观点"
       ],
-      "definition" : "几何（学）的；几何图形的",
-      "examples" : [
-
-      ],
-      "frequency" : 10063,
-      "mnemonic" : "geometr（=geometry：几何学；几何图形）+ -ic（形容词后缀，表示\n与……有关的）→几何（学）的；几何图形的",
-      "phonetic" : "ˌdʒi.əˈmɛt.ɹɪk",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "geometric"
+      "definition": "几何（学）的；几何图形的",
+      "examples": [],
+      "frequency": 10063,
+      "mnemonic": "geometr（=geometry：几何学；几何图形）+ -ic（形容词后缀，表示\n与……有关的）→几何（学）的；几何图形的",
+      "phonetic": "ˌdʒi.əˈmɛ.tɹɪk",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "geometric"
     },
     {
-      "collocations" : [
+      "collocations": [
         "perfect symmetry：完全对称",
         "the increasing symmetry between men’s and women’s jobs：男女职业的\n日渐趋同（一致）",
         "maintain symmetry：保持均等（或平衡）"
       ],
-      "definition" : "对称；（关系或协议中双方）平衡，均等",
-      "examples" : [
-
-      ],
-      "frequency" : 10432,
-      "mnemonic" : "sym-（=together：一致）+ -metry（测量）→测量的尺寸、规模一致\n→对称；均等",
-      "phonetic" : "ˈsɪmɪtɹi",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "symmetry"
+      "definition": "对称；（关系或协议中双方）平衡，均等",
+      "examples": [],
+      "frequency": 10432,
+      "mnemonic": "sym-（=together：一致）+ -metry（测量）→测量的尺寸、规模一致\n→对称；均等",
+      "phonetic": "ˈsɪm.ə.tɹi",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "symmetry"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a symmetrical pattern：对称的图案"
       ],
-      "definition" : "（身体、图案、物体等）对称的",
-      "examples" : [
-
-      ],
-      "frequency" : 14165,
-      "mnemonic" : "symmetr（=symmetry：对称）+ -ical（形容词后缀）→对称的",
-      "phonetic" : "sɪˈmɛtɹɪkəl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "symmetrical"
+      "definition": "（身体、图案、物体等）对称的",
+      "examples": [],
+      "frequency": 14165,
+      "mnemonic": "symmetr（=symmetry：对称）+ -ical（形容词后缀）→对称的",
+      "phonetic": "sɪˈmɛ.tɹɪ.kəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "symmetrical"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the asymmetry of designs：设计作品的不对称性"
       ],
-      "definition" : "不对称",
-      "examples" : [
-
-      ],
-      "frequency" : 15515,
-      "mnemonic" : "a-（=not：不）+ symmetry（对称）→不对称",
-      "phonetic" : "eɪˈsɪmɪtɹi",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "asymmetry"
+      "definition": "不对称",
+      "examples": [],
+      "frequency": 15515,
+      "mnemonic": "a-（=not：不）+ symmetry（对称）→不对称",
+      "phonetic": "eɪˈsɪmətɹi",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "asymmetry"
     },
     {
-      "collocations" : [
+      "collocations": [
         "asymmetrical shapes：不对称的形状"
       ],
-      "definition" : "不对称的（等于asymmetric）",
-      "examples" : [
-
-      ],
-      "frequency" : 16837,
-      "mnemonic" : "a-（=not：不）+ symmetrical（对称的）→不对称的",
-      "phonetic" : "ˌeɪsɪˈmetrɪkl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "asymmetrical"
+      "definition": "不对称的（等于asymmetric）",
+      "examples": [],
+      "frequency": 16837,
+      "mnemonic": "a-（=not：不）+ symmetrical（对称的）→不对称的",
+      "phonetic": "ˌeɪsəˈmɛtɹɪkəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "asymmetrical"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a thermometer reading：温度计读数"
       ],
-      "definition" : "温度计；寒暑表",
-      "examples" : [
-
-      ],
-      "frequency" : 9884,
-      "mnemonic" : "thermo-（=hot, heat：热度；温度）+ -meter（=measure：测量）→测\n量温度的仪表→温度计；寒暑表",
-      "phonetic" : "θɚˈmɑmɪtɚ",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "thermometer"
+      "definition": "温度计；寒暑表",
+      "examples": [],
+      "frequency": 9884,
+      "mnemonic": "thermo-（=hot, heat：热度；温度）+ -meter（=measure：测量）→测\n量温度的仪表→温度计；寒暑表",
+      "phonetic": "θɚˈmɑmətɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "thermometer"
     },
     {
-      "collocations" : [
+      "collocations": [
         "take a barometer reading：看一次气压计"
       ],
-      "definition" : "气压计；睛雨表；（显示经济、社会、政治变化的）晴雨表，标志，指标",
-      "examples" : [
+      "definition": "气压计；睛雨表；（显示经济、社会、政治变化的）晴雨表，标志，指标",
+      "examples": [
         "Infant mortality is a reliable barometer of socio-economic conditions.\n婴儿死亡率是社会经济状况的可靠指标。"
       ],
-      "frequency" : 16997,
-      "mnemonic" : "baro-（=weight：重力）+ meter（仪表）→测量大气压强（由于大气\n所受重力而产生）的仪表→气压计；晴雨表（决定天气阴晴的因素是",
-      "phonetic" : "bəˈɹɑməɾɚ",
-      "pos" : "n.",
-      "rootHint" : "meter",
-      "word" : "barometer"
+      "frequency": 16997,
+      "mnemonic": "baro-（=weight：重力）+ meter（仪表）→测量大气压强（由于大气\n所受重力而产生）的仪表→气压计；晴雨表（决定天气阴晴的因素是",
+      "phonetic": "bəˈɹɑ.mə.tɚ",
+      "pos": "n.",
+      "rootHint": "meter",
+      "word": "barometer"
     },
     {
-      "collocations" : [
-        "measuring equipment\/instruments：测量装备\/仪器",
+      "collocations": [
+        "measuring equipment/instruments：测量装备/仪器",
         "measure about two meters across：（量度为）宽约2米",
-        "measure the success：估量成就\nsafety\/emergency measures：安全\/紧急措施",
+        "measure the success：估量成就\nsafety/emergency measures：安全/紧急措施",
         "a measure of knowledge：一定数量的知识",
         "an accurate measure of ability：对能力的准确判断",
-        "weights and measures：度量衡\nmeasure sb.\/sth. against sb.\/sth.：使……相比较",
-        "measure up (to sth.\/sb.)：达到预期的要求；符合标准（=match up）",
+        "weights and measures：度量衡\nmeasure sb./sth. against sb./sth.：使……相比较",
+        "measure up (to sth./sb.)：达到预期的要求；符合标准（=match up）",
         "beyond measure：无法测量；极度"
       ],
-      "definition" : "测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等） n. 措施，方法；一定数量、程度；尺度，标准；判断，衡量；度量单位；计量工具",
-      "examples" : [
-
-      ],
-      "frequency" : 43,
-      "mnemonic" : "meas-（测量）+ -ure（名词后缀）→测量；量度为→引申义为估量；",
-      "phonetic" : "ˈmɛʒɚ",
-      "pos" : "vt.",
-      "rootHint" : "mens",
-      "word" : "measure"
+      "definition": "测量；（指尺寸、长短、数量等）量度为；估量，判定（重要性、价值或影响等） n. 措施，方法；一定数量、程度；尺度，标准；判断，衡量；度量单位；计量工具",
+      "examples": [],
+      "frequency": 43,
+      "mnemonic": "meas-（测量）+ -ure（名词后缀）→测量；量度为→引申义为估量；",
+      "phonetic": "ˈmɛʒ.ɚ",
+      "pos": "vt.",
+      "rootHint": "mens",
+      "word": "measure"
     },
     {
-      "collocations" : [
+      "collocations": [
         "measured response：慎重的答复",
         "reply in a measured tone：以很有分寸的语气回答\n笔 记 区"
       ],
-      "definition" : "慎重的；斟酌的；有分寸的",
-      "examples" : [
-
-      ],
-      "frequency" : 10828,
-      "mnemonic" : "measure（测量；衡量）+ -ed（形容词后缀，e省略）→引申义为慎重",
-      "phonetic" : "ˈmɛʒəd",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "measured"
+      "definition": "慎重的；斟酌的；有分寸的",
+      "examples": [],
+      "frequency": 10828,
+      "mnemonic": "measure（测量；衡量）+ -ed（形容词后缀，e省略）→引申义为慎重",
+      "phonetic": "ˈmɛʒ.ɚd",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "measured"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the measurement of intelligence：对智商的评估",
         "I know all her measurements and find it easy to buy stuff she likes.\n我知道她所有的身体尺寸，觉得买到她喜欢的东西很容易。"
       ],
-      "definition" : "测量；测量的结果；评估；（身体）尺寸",
-      "examples" : [
+      "definition": "测量；测量的结果；评估；（身体）尺寸",
+      "examples": [
         "Tests include measurement of height, weight, and blood pressure.\n检查包括对身高、体重和血压的测量。"
       ],
-      "frequency" : 3255,
-      "mnemonic" : "measure（测量；估量；尺寸）+ -ment（名词后缀）→测量；评估；",
-      "phonetic" : "ˈmeʒ.ə.mənt",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "measurement"
+      "frequency": 3255,
+      "mnemonic": "measure（测量；估量；尺寸）+ -ment（名词后缀）→测量；评估；",
+      "phonetic": "ˈmɛʒ.ɚ.mənt",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "measurement"
     },
     {
-      "collocations" : [
+      "collocations": [
         "measurable improvements：显著的改进",
         "measurable quantities：可测量的量"
       ],
-      "definition" : "显著的；可测量的",
-      "examples" : [
-
-      ],
-      "frequency" : 11717,
-      "mnemonic" : "measure（测量）+ -able（形容词后缀，能够..的）→可测量的；显著",
-      "phonetic" : "ˈmɛʒəɹəbəl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "measurable"
+      "definition": "显著的；可测量的",
+      "examples": [],
+      "frequency": 11717,
+      "mnemonic": "measure（测量）+ -able（形容词后缀，能够..的）→可测量的；显著",
+      "phonetic": "ˈmɛʒ.ɚ.ə.bəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "measurable"
     },
     {
-      "collocations" : [
+      "collocations": [
         "measuring cup：（美国烹饪用的）量杯"
       ],
-      "definition" : "（尤指烹饪用的杯或勺）测量用的；称量用的",
-      "examples" : [
-
-      ],
-      "frequency" : 15465,
-      "phonetic" : "ˈmɛʒ.ə.ɹɪŋ",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "measuring"
+      "definition": "（尤指烹饪用的杯或勺）测量用的；称量用的",
+      "examples": [],
+      "frequency": 15465,
+      "phonetic": "ˈmɛʒ.ɚ.ɪŋ",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "measuring"
     },
     {
-      "collocations" : [
+      "collocations": [
         "the dimensions of the room：房间的尺寸",
         "fourth dimension：第四维（科学家和科幻小说作家用语，即时间）",
         "a problem of considerable dimensions：一个涉及范围相当广的问题\n20000 词汇巅峰\n速\n记\n笔 记 区"
       ],
-      "definition" : "维（构成空间的因素）；尺寸；规模，范围；方面",
-      "examples" : [
-
-      ],
-      "frequency" : 2440,
-      "mnemonic" : "di-（=dis-=apart, away：分离地；分开）+ mens-（=measure：测量）\n+ -ion（名词后缀）→分开测量→维，尺寸；规模，范围；方面",
-      "phonetic" : "daɪˈmɛnʃən",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "dimension"
+      "definition": "维（构成空间的因素）；尺寸；规模，范围；方面",
+      "examples": [],
+      "frequency": 2440,
+      "mnemonic": "di-（=dis-=apart, away：分离地；分开）+ mens-（=measure：测量）\n+ -ion（名词后缀）→分开测量→维，尺寸；规模，范围；方面",
+      "phonetic": "dɪ.ˈmɛn.ʃən",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "dimension"
     },
     {
-      "collocations" : [
+      "collocations": [
         "dimensional drawing：尺寸图",
         "dimensional sketch：尺寸简图"
       ],
-      "definition" : "空间的；尺寸的；维度的",
-      "examples" : [
-
-      ],
-      "frequency" : 19630,
-      "phonetic" : "-ʃnəl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "dimensional"
+      "definition": "空间的；尺寸的；维度的",
+      "examples": [],
+      "frequency": 19630,
+      "phonetic": "dɪ.ˈmɛn.ʃə.nəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "dimensional"
     },
     {
-      "collocations" : [
-
-      ],
-      "definition" : "单维的；肤浅的",
-      "examples" : [
+      "collocations": [],
+      "definition": "单维的；肤浅的",
+      "examples": [
         "One-dimensional character lack depth and never grow.\n单面的（肤浅的）人物缺乏深度且永远不会成长。"
       ],
-      "frequency" : 18703,
-      "mnemonic" : "one（一个）+ dimensional（维度的）→一个维度的→单维的；肤浅的",
-      "phonetic" : "ˈwʌndɪˈmenʃənəl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "one-dimensional"
+      "frequency": 18703,
+      "mnemonic": "one（一个）+ dimensional（维度的）→一个维度的→单维的；肤浅的",
+      "phonetic": "ˌwʌn.dɪ.ˈmɛn.ʃə.nəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "one-dimensional"
     },
     {
-      "collocations" : [
+      "collocations": [
         "a two-dimensional drawing：平面图",
         "seem like real people).\n这部小说因人物缺乏深度而受到批评。"
       ],
-      "definition" : "二维的；平面的；（指虚构人物形象）没有深度的",
-      "examples" : [
+      "definition": "二维的；平面的；（指虚构人物形象）没有深度的",
+      "examples": [
         "The novel was criticized for its two-dimensional characters (= that did not"
       ],
-      "frequency" : 13679,
-      "mnemonic" : "two（二个）+ dimensional（维度的）→二个维度的→平面的；没有",
-      "phonetic" : "ˌtuː daɪˈmenʃənl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "two-dimensional"
+      "frequency": 13679,
+      "mnemonic": "two（二个）+ dimensional（维度的）→二个维度的→平面的；没有",
+      "phonetic": "ˌtu.daɪˈmɛnʃənəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "two-dimensional"
     },
     {
-      "collocations" : [
+      "collocations": [
         "three-dimensional objects：立体物体",
         "three-dimensional images：三维图像"
       ],
-      "definition" : "（照片、图像或电影）三维的；立体的（3D）",
-      "examples" : [
-
-      ],
-      "frequency" : 8971,
-      "mnemonic" : "three（三个）+ dimensional（维度的）→三个维度的→（照片、图像",
-      "phonetic" : "ˌθriː daɪˈmenʃənl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "three-dimensional"
+      "definition": "（照片、图像或电影）三维的；立体的（3D）",
+      "examples": [],
+      "frequency": 8971,
+      "mnemonic": "three（三个）+ dimensional（维度的）→三个维度的→（照片、图像",
+      "phonetic": "ˌθɹi.daɪˈmɛnʃənəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "three-dimensional"
     },
     {
-      "collocations" : [
+      "collocations": [
         "to reach (the) menopause：到更年期",
         "fight the symptoms of menopause：对抗更年期症状\n20000 词汇巅峰\n速\n记"
       ],
-      "definition" : "（女性的）更年期",
-      "examples" : [
-
-      ],
-      "frequency" : 10875,
-      "mnemonic" : "meno（=monthly courses of females：女性的月经）+ pause（暂停）→\n女性月经的暂停、停止→（女性的）更年期",
-      "phonetic" : "ˈmenəpɔz",
-      "pos" : "n.",
-      "rootHint" : "mens",
-      "word" : "menopause"
+      "definition": "（女性的）更年期",
+      "examples": [],
+      "frequency": 10875,
+      "mnemonic": "meno（=monthly courses of females：女性的月经）+ pause（暂停）→\n女性月经的暂停、停止→（女性的）更年期",
+      "phonetic": "ˈmɛnəpɔz",
+      "pos": "n.",
+      "rootHint": "mens",
+      "word": "menopause"
     },
     {
-      "collocations" : [
+      "collocations": [
         "menstrual blood：经血",
         "a menstrual period：月经期",
         "the menstrual cycle：月经周期\n笔 记 区"
       ],
-      "definition" : "月经的",
-      "etymology" : "直接来自拉丁语menstrualis “monthly,” especially “of or having monthly courses”. 直接来自拉丁语menstrualis“每月的”，特指“有月经的， 与月经有关的”。",
-      "examples" : [
-
-      ],
-      "frequency" : 14416,
-      "phonetic" : "ˈmɛn.stɹu.əl",
-      "pos" : "adj.",
-      "rootHint" : "mens",
-      "word" : "menstrual"
+      "definition": "月经的",
+      "etymology": "直接来自拉丁语menstrualis “monthly,” especially “of or having monthly courses”. 直接来自拉丁语menstrualis“每月的”，特指“有月经的， 与月经有关的”。",
+      "examples": [],
+      "frequency": 14416,
+      "phonetic": "ˈmɛnstɹuəl",
+      "pos": "adj.",
+      "rootHint": "mens",
+      "word": "menstrual"
     }
   ]
 }
