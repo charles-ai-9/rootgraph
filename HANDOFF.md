@@ -725,3 +725,174 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 ---
 
 *文档维护：每次重大架构变更、数据重导、storage schema 变更后，请更新本文档对应章节。*
+
+
+---
+
+## 18. 数据安全与防丢失体系（2026-08-25 重建 —— 最高优先级）
+
+> 背景：曾发生多次用户数据丢失（多标签页覆盖、云端 last-write-wins 整体覆盖）。
+> 以下机制为**防止再次发生**而建，任何改动不得削弱。改数据层前必读本节。
+
+### 18.1 五层保护总览
+
+| 层 | 机制 | 实现 |
+|---|---|---|
+| ① 实时落盘 | 每次编辑立即写 localStorage（含合并持久化、关页/切后台 flush） | `useNotes.ts` |
+| ② 双写 last-good | 每次写入同时备份到 `rootgraph-notes-last-good`（始终最近成功数据） | `useNotes.ts` |
+| ③ 本地快照 | 每 10 分钟一份 `rootgraph-notes-snap-*`，保留 20 份（本地可回滚） | `useNotes.ts` `takeLocalSnapshot` |
+| ④ 云端同步 | 手动「☁️ 同步」+ 每天 18:40 自动 + 启动拉取合并 | `sync.ts` / `useNotes.ts` |
+| ⑤ GitHub+本地备份 | 每天 18:45 cron：用户数据→私有仓库，官方数据→本地 tar | `scripts/daily-backup.sh` |
+
+### 18.2 加载自愈（load() 恢复链）
+
+主 key 损坏 → `readLocalWithRecovery()` 依次尝试：
+1. `rootgraph-notes-v2`（主）
+2. `rootgraph-notes-last-good`（双写备份）
+3. `rootgraph-notes-snap-*`（最近快照）
+
+恢复后主 key 自动重建。wordbook/progress 同款（各自 last-good）。
+
+### 18.3 合并持久化（核心，防覆盖）
+
+`useNotes.ts` 持久化 effect：读 localStorage 现有值 `current`，与内存 `store` **逐字段合并**：
+`{ ...current[key], ...store[key] }` —— **本页最新（store）优先 + 其他页数据（current）补充**。
+覆盖全部字段：families / words / affixNotes / wordFields / videoMap / familyMeta / userFamilies / userFamilyWords / familyOrder / wordOrder。
+
+**删除操作必须同步清理 localStorage**（否则合并会"复活"）：
+- `removeUserFamily` / `removeWordFromUserFamily`：同步 delete localStorage 对应条目
+- `setFamilyMeta(fKey, {})`（恢复默认）：同步 delete localStorage 的 familyMeta key
+- `useWordbook.removeWord` / `useAffixLibrary.removeItem`：同步删
+
+### 18.4 多标签页
+
+- `storage` 事件深合并（外部 Agent 已实现，`useNotes.ts`）
+- 持久化合并兜底（storage 时序不可靠时仍不丢）
+- 建议：提醒用户尽量单标签页
+
+### 18.5 云端下载合并（不覆盖）
+
+`mergeRemote()`：远端 updatedAt > 本地时才合并，且**本地优先**（`{...remote[key], ...prev[key]}`）。
+覆盖前自动备份本地到 `rootgraph-notes-backup-pre-sync-*`。
+
+---
+
+## 19. 云端同步与备份
+
+### 19.1 同步 API（Pages Functions + KV，版本化）
+
+- 入口：`https://rootgraph.pages.dev/api/sync`（同域，绕过 workers.dev 被墙）
+- 实现：`web/functions/api/sync.ts`；KV 绑定 `NOTES`（`web/wrangler.toml`）
+- 认证：`Authorization: Bearer rg_sync_2026_k8m3p7q2x9w4`
+- 接口：
+  - `GET /api/sync` → 最新整块数据 `{ updatedAt, families, ... }`
+  - `GET /api/sync?history=1` → 版本列表 `{ versions: [{ts, updatedAt, deviceId}] }`
+  - `PUT /api/sync` → 上传（写 `notes` latest + `notes:v:<ts>` 版本，保留 50 份）
+  - `POST /api/sync` → sendBeacon 上传入口（等价 PUT）
+  - `POST /api/sync/restore` → 恢复历史版本 `{ ts }`
+- 前端 `web/src/utils/sync.ts`：`scheduleUpload`（不再自动调用）、`downloadRemote`、`getDeviceId`
+
+### 19.2 同步触发时机（本地为主，低频）
+
+| 时机 | 行为 |
+|---|---|
+| 编辑时 | 只存本地（**不自动上传**） |
+| 手动 | 首页「☁️ 同步」按钮 → `syncNow()`：上传本地（含 wordbook）+ 下载合并 |
+| 每天 18:40 | 浏览器开着时自动同步一次（`rootgraph-sync-date` 去重）；打开时若已过 18:40 且未同步则补一次 |
+| 启动时 | 拉取远端合并（本地优先，防本地丢失的恢复手段） |
+
+### 19.3 备份
+
+- `scripts/backup-user-data.sh`：curl 云端 → `backups/user/user-data-<date>.json`（保留 30 份）→ 推送 **GitHub 私有仓库 `charles-ai-9/rootgraph-data`**
+- `scripts/backup-data.sh`：官方数据 → `backups/rootgraph-data-<date>.tar.gz`（保留 10 份）
+- `scripts/daily-backup.sh`：组合两者，crontab **每天 18:45** 执行（PATH 已兼容 cron 受限环境）
+- crontab 现有任务勿删（git_push/review_reminder 等是用户的）
+
+---
+
+## 20. 用户词根与词根管理功能
+
+### 20.1 创建/编辑词根（可选目标教材）
+
+- 入口：首页「＋ 新建词根」/ 我的词根行 ✎ / 详情页批量挂载弹窗
+- `UserFamily` 含 `textbook?` 字段：设了教材 → 显示在该教材底部（"补充词根"）；未设 → "我的词根"区
+- 创建/编辑弹窗均有教材下拉（`HomePage.tsx`）
+- 输入框带 `spellCheck={false} autoCorrect="off"`（防输入法把词根名"纠正"成别的词，如 jus→just）
+
+### 20.2 批量挂载与移回
+
+- 详情页「☑ 批量」→ 勾选 → 底部操作条「挂载到词根」→ `BatchMoveModal`（搜索即创建）
+- 我的词根页：词卡「移回原族」按钮（`removeWordFromUserFamily`）
+- 挂载词存 `userFamilyWords`（快照 + `_from` 原归属），原族 `movedWords` 隐藏
+
+### 20.3 合并到教材页（user → textbook 统一）
+
+- 搜索点击/深链 user 词根：roots 匹配官方族时**重定向官方教材页**（`FamilyNotePage.tsx` + `WordSearchResults.tsx`）
+- 官方页与 user 页都**合并显示**官方词 + 本地挂载词（roots 完全一致匹配）
+- 用户基本接触不到 `#/family/user/xxx`（自动重定向）
+
+### 20.4 新建单词（详情页「＋ 新建单词」）
+
+- `handleAddWord`：词存 `userFamilyWords`（经用户词根中转），显示在当前官方页（合并）
+- `addWordToUserFamily(familyId, word)`
+
+### 20.5 单词本（wordbook）
+
+- 页面 `#/wordbook`，hook `useWordbook.ts`，独立 key `rootgraph-wordbook-v1`
+- 增删/排序；随同步上传（payload 带 `wordbook` 字段）+ 下载写回
+- 合并保存（防多标签页覆盖）、删除同步清理
+
+### 20.6 拖动排序
+
+- 首页词根行 `≡` 拖把手 → `familyOrder[textbook]`（localStorage，按教材存 id 顺序）
+- 详情页单词排序 → `wordOrder`（`FamilyNotePage.tsx`）
+
+---
+
+## 21. 数据修复与手工补录机制
+
+| 文件 | 作用 |
+|---|---|
+| `scripts/manual-data/missing-words.json` | 幂等补录解析漏检词条（结构：教材 → 族id → 词条数组）。补词只加这里 + 跑 `post-fix-data.py` |
+| `scripts/manual-data/phonetic-american.json` | 全库美式 IPA 音标表（8282 词，AI 生成），post-fix 幂等套用 |
+| `scripts/manual-data/textbook-3-jud.json` | 手动族（jus·jud），重导后恢复 |
+| `scripts/post-fix-data.py` | 数据修正层：ics 族、错词清理、noise 改名、手动族恢复、trib 拆分、族元数据、null 清洗、missing-words 补录、judge 归 jud、音标套用 |
+
+重导数据：`./scripts/parse-all.sh`（parse → post-fix → dedupe → catalog → validate → rsync → build-sqlite）。
+**重导后 post-fix 自动重放所有手工修正**（幂等），用户 localStorage 笔记不受影响（key 按 textbook/familyId/word）。
+
+---
+
+## 22. 发布与 SW 版本约定
+
+- 部署：`CLOUDFLARE_API_TOKEN=... CLOUDFLARE_ACCOUNT_ID=... ./scripts/deploy.sh`
+  （build → `wrangler pages deploy dist --project-name=rootgraph` → 清理旧部署）
+- **每次发布必须升 `web/public/sw.js` 的 `CACHE` 版本号**（当前 v28 → 下一个 v29）。
+  否则用户浏览器 Service Worker 缓存旧 bundle/旧数据，出现"部署了但看不到新功能"。
+- Pages Functions 随部署自动发布（`web/functions/api/sync.ts` 改动需部署生效）
+
+---
+
+## 23. 数据红线（绝对不可违反）
+
+1. **绝不删除/覆盖用户的 localStorage 笔记数据**（families/words/affixNotes/wordFields/familyMeta/userFamilies/userFamilyWords）
+2. **不擅自改动合并持久化、自愈、快照机制**（改了必须回归测试多标签页场景）
+3. **不把用户数据推送到公开仓库**（主仓库 `rootgraph` 是 PUBLIC；用户数据只进私有仓库 `rootgraph-data`）
+4. **删词根/删词必须同步清理 localStorage**（否则合并持久化会"复活"）
+5. 移动/新建词根时注意 `textbook` 语义：选了教材 = 显示在教材底部（官方页合并显示）
+6. 数据 schema 变更（新增 localStorage key/字段）需在本文档 §18 同步说明
+
+---
+
+## 24. 已知问题与经验
+
+- **多标签页是历史数据丢失主因**：storage 事件 + 合并持久化已兜底，但建议单标签页
+- **输入法纠错**会改词根名（jus→just）：输入框已加 spellCheck/autoCorrect 关闭；如再出现检查是否新输入框漏了属性
+- **worker token 权限**：`cfut_` token 只有 Pages 权限，无法创建 D1/Worker（想上 D1 需要更高权限 token）
+- **D1 候选**：若未来需要真正 SQLite，用 Cloudflare D1（Pages Functions 支持），迁移 KV→D1 的表结构见对话记录
+- **云端版本历史可回滚**：`GET /api/sync?history=1` + `POST /api/sync/restore`（前端回滚 UI 未做，API 已就绪）
+- **教材3 claim 族 roots** = `['claim','clam','cla']`（词根匹配用排序后完全一致判断，注意 user 词根 roots 需与官方一致才能合并显示）
+
+---
+
+*本文档由 2026-08-25 会话更新：数据安全体系（§18）、同步备份（§19）、词根管理（§20）、补录机制（§21）、发布约定（§22）、红线（§23）、经验（§24）。*
