@@ -51,7 +51,9 @@ export function parseRouteHash(hash: string): ParsedRoute {
 export function routeHashFromView(view: AppView): string {
   if (view.kind === 'home') return '#/';
   if (view.kind === 'affix-library') return '#/affix-library';
-  const base = `#/family/${encodeURIComponent(view.entry.textbook)}/${encodeURIComponent(view.entry.id)}`;
+  // 本地词根（用户创建/编辑的词根）URL 段固定 'user'，深链/刷新时经 resolver 恢复 source 标记
+  const tb = view.entry.source === 'user' ? 'user' : view.entry.textbook;
+  const base = `#/family/${encodeURIComponent(tb)}/${encodeURIComponent(view.entry.id)}`;
   if (view.focusWord) {
     return `${base}?word=${encodeURIComponent(view.focusWord)}`;
   }

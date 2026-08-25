@@ -157,6 +157,29 @@ export function FamilyNotePage({
     setFamilyError(false);
     const uf = userFamilies[entry.id];
     if (uf) {
+      const local = getUserFamilyWords(uf.id) as WordEntry[];
+      const localWords = new Set(local.map((w) => w.word));
+      // 合并同词根（roots 完全一致）的官方数据词：本地词根 = 官方词 + 挂载词，实现"一个词根"完整视图
+      const localRootsKey = [...uf.roots].sort().join('|');
+      const catByKey = new Map(catalog.map((e) => [`${e.textbook}:${e.id}`, e]));
+      const dataWords: WordEntry[] = [];
+      for (const r of wordIndex) {
+        const cat = catByKey.get(`${r.textbook}:${r.familyId}`);
+        if (!cat || cat.source === 'user') continue;
+        const rootsKey = [...(cat.roots ?? [])].sort().join('|');
+        if (rootsKey === localRootsKey && !localWords.has(r.word)) {
+          dataWords.push({
+            word: r.word,
+            phonetic: r.phonetic,
+            pos: r.pos,
+            definition: r.definition,
+            mnemonic: r.mnemonic,
+            frequency: r.frequency,
+            collocations: [],
+            examples: [],
+          });
+        }
+      }
       setFamily({
         id: uf.id,
         source: 'user',
@@ -167,12 +190,12 @@ export function FamilyNotePage({
         meaningEn: uf.meaningEn,
         meaningZh: uf.meaningZh,
         roots: uf.roots,
-        words: getUserFamilyWords(uf.id) as WordEntry[],
+        words: [...dataWords, ...local],
       });
     } else {
       setFamilyError(true);
     }
-  }, [entry, userFamilies, getUserFamilyWords]);
+  }, [entry, userFamilies, getUserFamilyWords, wordIndex, catalog]);
 
   useEffect(() => {
     if (!showSearch) return;

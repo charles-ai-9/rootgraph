@@ -157,6 +157,14 @@ export function HomePage({
     setChapterKey('all');
   }, [textbook]);
 
+  /** 与词根变体完全一致的官方数据词数（本地词根 = 官方词 + 挂载词） */
+  const dataCountForRoots = (roots: string[]): number => {
+    const key = [...roots].sort().join('|');
+    return catalog
+      .filter((e) => e.source !== 'user' && [...(e.roots ?? [])].sort().join('|') === key)
+      .reduce((n, e) => n + (e.wordCount ?? 0), 0);
+  };
+
   const filtered = useMemo(() => {
     const q = filter.trim().toLowerCase();
     const system = catalog.filter((entry) => {
@@ -196,7 +204,7 @@ export function HomePage({
         meaningEn: f.meaningEn ?? '',
         meaningZh: f.meaningZh ?? '',
         roots: f.roots,
-        wordCount: getUserFamilyWords(f.id).length,
+        wordCount: getUserFamilyWords(f.id).length + dataCountForRoots(f.roots),
         source: 'user' as const,
         textbook: (f.textbook ?? 'user') as string,
       }));
@@ -229,7 +237,7 @@ export function HomePage({
         meaningEn: f.meaningEn ?? '',
         meaningZh: f.meaningZh ?? '',
         roots: f.roots,
-        wordCount: getUserFamilyWords(f.id).length,
+        wordCount: getUserFamilyWords(f.id).length + dataCountForRoots(f.roots),
         source: 'user',
         textbook: f.textbook,
       });
@@ -541,7 +549,7 @@ export function HomePage({
             meaningEn: f.meaningEn ?? '',
             meaningZh: f.meaningZh ?? '',
             roots: f.roots,
-            wordCount: getUserFamilyWords(f.id).length,
+            wordCount: getUserFamilyWords(f.id).length + dataCountForRoots(f.roots),
             source: 'user' as const,
             textbook: 'user' as const,
           }));
