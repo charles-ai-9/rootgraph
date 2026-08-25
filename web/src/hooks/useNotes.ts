@@ -3,6 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
+import { scheduleUpload, downloadRemote } from '../utils/sync';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -56,6 +57,8 @@ interface NotesStore {
   familyOrder: Record<string, string[]>;
   /** 词根族内单词顺序（textbook:id:panel → 单词名有序列表） */
   wordOrder: Record<string, string[]>;
+  /** 最后更新时间戳（用于多设备同步 last-write-wins） */
+  updatedAt: number;
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -77,6 +80,7 @@ const empty: NotesStore = {
   userFamilyWords: {},
   familyOrder: {},
   wordOrder: {},
+  updatedAt: 0,
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -179,6 +183,7 @@ function load(): NotesStore {
         userFamilyWords: parsed.userFamilyWords ?? {},
         familyOrder: parsed.familyOrder ?? {},
         wordOrder: parsed.wordOrder ?? {},
+        updatedAt: parsed.updatedAt ?? 0,
       };
     }
 
@@ -196,6 +201,7 @@ function load(): NotesStore {
         userFamilyWords: {},
         familyOrder: {},
         wordOrder: {},
+        updatedAt: 0,
       };
     }
   } catch {
@@ -217,6 +223,7 @@ export function useNotes() {
     // 合并持久化：与 localStorage 现有数据取并集（userFamilies/userFamilyWords 等追加型字段），
     // 防止多标签页中旧 store 覆盖其他标签页新建的词根/单词（如新建 respect 后消失）。
     // 删除操作会同步清理 localStorage（见 removeUserFamily 等），因此不会"复活"已删除条目。
+    const now = Date.now();
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (raw) {
@@ -225,15 +232,33 @@ export function useNotes() {
           ...store,
           userFamilies: { ...store.userFamilies, ...(current.userFamilies ?? {}) },
           userFamilyWords: { ...store.userFamilyWords, ...(current.userFamilyWords ?? {}) },
+          updatedAt: now,
         };
         safeSetItem(STORAGE_KEY, JSON.stringify(merged));
+        // 防抖上传到远端
+        scheduleUpload(() => merged);
         return;
       }
     } catch {
       /* 忽略异常，回退直接写入 */
     }
-    safeSetItem(STORAGE_KEY, JSON.stringify(store));
+    const withTimestamp = { ...store, updatedAt: now };
+    safeSetItem(STORAGE_KEY, JSON.stringify(withTimestamp));
+    scheduleUpload(() => withTimestamp);
   }, [store]);
+
+  // 启动时拉取远端数据，比对 updatedAt 取较新版本
+  useEffect(() => {
+    downloadRemote().then((remote) => {
+      if (!remote) return;
+      const remoteStore = remote as NotesStore;
+      const localUpdatedAt = storeRef.current.updatedAt ?? 0;
+      if (remoteStore.updatedAt > localUpdatedAt) {
+        // 远端更新，覆盖本地
+        setStore(remoteStore);
+      }
+    });
+  }, []);
 
   // 跨标签页同步：其他标签页写入时深合并进当前 store，避免浅合并覆盖嵌套对象（如 familyMeta/wordFields 丢失）
   useEffect(() => {
@@ -587,6 +612,7 @@ export function useNotes() {
         userFamilyWords: { ...prev.userFamilyWords },
         familyOrder: { ...prev.familyOrder },
         wordOrder: { ...prev.wordOrder },
+        updatedAt: prev.updatedAt,
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
