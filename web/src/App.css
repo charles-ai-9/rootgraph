@@ -4900,6 +4900,63 @@ textarea {
   transform: scale(0.95);
 }
 
+/* ── 悬浮词根条：折叠态（小圆圈） ── */
+.variant-root-follow.is-collapsed {
+  width: auto;
+  padding: 0;
+  border-radius: 50%;
+  border-bottom: none;
+  background: var(--accent);
+  box-shadow: 0 2px 10px rgba(99, 102, 241, 0.35);
+  backdrop-filter: none;
+  -webkit-backdrop-filter: none;
+  cursor: pointer;
+  min-width: 0;
+  gap: 0;
+  flex-wrap: nowrap;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+}
+
+.variant-root-follow.is-collapsed.is-dragged {
+  width: auto;
+  max-width: none;
+  transform: translateX(-50%);
+}
+
+.follow-collapsed-root {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  font-family: ui-monospace, 'SF Mono', Menlo, monospace;
+  font-weight: 700;
+  font-size: 0.72rem;
+  color: #fff;
+  line-height: 1;
+  text-align: center;
+  overflow: hidden;
+  word-break: break-all;
+}
+
+.variant-root-follow.is-collapsed::before {
+  display: none !important;
+}
+
+.variant-root-follow.is-collapsed:hover {
+  box-shadow: 0 3px 14px rgba(99, 102, 241, 0.45);
+}
+
+.variant-root-follow.is-collapsed.is-dragged:active {
+  transform: translateX(-50%) scale(0.92);
+}
+
+.variant-root-follow.is-collapsed:not(.is-dragged):active {
+  transform: scale(0.92);
+}
+
 /* 拖动把手提示：触屏常显，桌面 hover 显示 */
 .variant-root-follow {
   cursor: grab;
