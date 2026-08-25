@@ -232,6 +232,7 @@ export function useNotes() {
           ...store,
           userFamilies: { ...store.userFamilies, ...(current.userFamilies ?? {}) },
           userFamilyWords: { ...store.userFamilyWords, ...(current.userFamilyWords ?? {}) },
+          familyMeta: { ...store.familyMeta, ...(current.familyMeta ?? {}) },
           updatedAt: now,
         };
         safeSetItem(STORAGE_KEY, JSON.stringify(merged));
@@ -319,6 +320,19 @@ export function useNotes() {
   const getFamilyMeta = useCallback((key: string) => store.familyMeta[key], [store]);
 
   const setFamilyMeta = useCallback((key: string, meta: FamilyMeta) => {
+    // 恢复默认（空对象）：同步清理 localStorage，防止合并持久化把它"复活"
+    if (Object.keys(meta).length === 0) {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (raw) {
+          const cur = JSON.parse(raw);
+          if (cur.familyMeta) delete cur.familyMeta[key];
+          localStorage.setItem(STORAGE_KEY, JSON.stringify(cur));
+        }
+      } catch {
+        /* ignore */
+      }
+    }
     setStore((prev) => ({
       ...prev,
       familyMeta: { ...prev.familyMeta, [key]: meta },
