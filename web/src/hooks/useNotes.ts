@@ -268,7 +268,16 @@ export function useNotes() {
       const remoteWordbook = (remote as { wordbook?: unknown }).wordbook;
       const localUpdatedAt = storeRef.current.updatedAt ?? 0;
       if (remoteStore.updatedAt > localUpdatedAt) {
-        // 远端更新：单词本（独立 key）写回本地并通知刷新
+        // 覆盖前先备份本地（防 last-write-wins 误覆盖造成笔记丢失）
+        try {
+          localStorage.setItem(
+            `rootgraph-notes-backup-pre-sync-${Date.now()}`,
+            JSON.stringify(storeRef.current),
+          );
+        } catch {
+          /* ignore */
+        }
+        // 单词本（独立 key）写回本地并通知刷新
         if (Array.isArray(remoteWordbook)) {
           try {
             localStorage.setItem('rootgraph-wordbook-v1', JSON.stringify(remoteWordbook));
@@ -277,9 +286,24 @@ export function useNotes() {
             /* ignore */
           }
         }
-        // 覆盖本地 store（剥离 wordbook 额外字段）
-        const { wordbook: _wb, ...rest } = remoteStore as NotesStore & { wordbook?: unknown };
-        setStore(rest as NotesStore);
+        // 合并而非整体覆盖：本地优先（保留本地最新编辑的笔记/词根），远端独有数据补入。
+        // 整体覆盖（last-write-wins）会在远端为旧快照时抹掉本地所有笔记。
+        const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
+        setStore((prev) => ({
+          ...prev,
+          ...remoteRest,
+          families: { ...(remoteRest.families ?? {}), ...prev.families },
+          words: { ...(remoteRest.words ?? {}), ...prev.words },
+          affixNotes: { ...(remoteRest.affixNotes ?? {}), ...prev.affixNotes },
+          wordFields: { ...(remoteRest.wordFields ?? {}), ...prev.wordFields },
+          videoMap: { ...(remoteRest.videoMap ?? {}), ...prev.videoMap },
+          familyMeta: { ...(remoteRest.familyMeta ?? {}), ...prev.familyMeta },
+          userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
+          userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
+          familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
+          wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
+          updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
+        }));
       }
     });
   }, []);
