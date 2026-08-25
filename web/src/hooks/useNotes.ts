@@ -3,7 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
-import { scheduleUpload, downloadRemote, flushUpload } from '../utils/sync';
+import { downloadRemote, getDeviceId } from '../utils/sync';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -219,18 +219,6 @@ export function useNotes() {
     storeRef.current = store;
   }, [store]);
 
-  /** 上传体附加单词本数据（独立 key rootgraph-wordbook-v1，随 notes 一起同步） */
-  const withWordbook = (data: object): object => {
-    let wordbook: unknown = [];
-    try {
-      const raw = localStorage.getItem('rootgraph-wordbook-v1');
-      wordbook = raw ? JSON.parse(raw) : [];
-    } catch {
-      /* ignore */
-    }
-    return { ...data, wordbook };
-  };
-
   useEffect(() => {
     // 合并持久化：与 localStorage 现有数据取并集（userFamilies/userFamilyWords 等追加型字段），
     // 防止多标签页中旧 store 覆盖其他标签页新建的词根/单词（如新建 respect 后消失）。
@@ -259,8 +247,6 @@ export function useNotes() {
           updatedAt: now,
         };
         safeSetItem(STORAGE_KEY, JSON.stringify(merged));
-        // 防抖上传到远端（含单词本数据）
-        scheduleUpload(() => withWordbook(merged));
         return;
       }
     } catch {
@@ -268,54 +254,115 @@ export function useNotes() {
     }
     const withTimestamp = { ...store, updatedAt: now };
     safeSetItem(STORAGE_KEY, JSON.stringify(withTimestamp));
-    scheduleUpload(() => withWordbook(withTimestamp));
   }, [store]);
 
-  // 启动时拉取远端数据，比对 updatedAt 取较新版本
+  /** 远端数据合并进本地（本地优先：保留本地最新编辑，远端独有补入）；返回是否发生了合并 */
+  const mergeRemote = useCallback((remote: object): boolean => {
+    const remoteStore = remote as NotesStore;
+    const remoteWordbook = (remote as { wordbook?: unknown }).wordbook;
+    const localUpdatedAt = storeRef.current.updatedAt ?? 0;
+    if (!(remoteStore.updatedAt > localUpdatedAt)) return false;
+    // 覆盖前先备份本地（防 last-write-wins 误覆盖造成笔记丢失）
+    try {
+      localStorage.setItem(
+        `rootgraph-notes-backup-pre-sync-${Date.now()}`,
+        JSON.stringify(storeRef.current),
+      );
+    } catch {
+      /* ignore */
+    }
+    // 单词本（独立 key）写回本地并通知刷新
+    if (Array.isArray(remoteWordbook)) {
+      try {
+        localStorage.setItem('rootgraph-wordbook-v1', JSON.stringify(remoteWordbook));
+        window.dispatchEvent(new Event('rootgraph-wordbook-updated'));
+      } catch {
+        /* ignore */
+      }
+    }
+    // 合并而非整体覆盖：本地优先（保留本地最新编辑的笔记/词根），远端独有数据补入。
+    const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
+    setStore((prev) => ({
+      ...prev,
+      ...remoteRest,
+      families: { ...(remoteRest.families ?? {}), ...prev.families },
+      words: { ...(remoteRest.words ?? {}), ...prev.words },
+      affixNotes: { ...(remoteRest.affixNotes ?? {}), ...prev.affixNotes },
+      wordFields: { ...(remoteRest.wordFields ?? {}), ...prev.wordFields },
+      videoMap: { ...(remoteRest.videoMap ?? {}), ...prev.videoMap },
+      familyMeta: { ...(remoteRest.familyMeta ?? {}), ...prev.familyMeta },
+      userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
+      userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
+      familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
+      wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
+      updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
+    }));
+    return true;
+  }, []);
+
+  /** 手动/定时同步：上传本地完整数据（含单词本）→ 下载合并远端（本地优先） */
+  const syncNow = useCallback(async (): Promise<{ ok: boolean; msg: string }> => {
+    try {
+      let wordbook: unknown = [];
+      try {
+        const raw = localStorage.getItem('rootgraph-wordbook-v1');
+        wordbook = raw ? JSON.parse(raw) : [];
+      } catch {
+        /* ignore */
+      }
+      const payload = {
+        ...storeRef.current,
+        wordbook,
+        deviceId: getDeviceId(),
+        updatedAt: Date.now(),
+      };
+      const res = await fetch('/api/sync', {
+        method: 'PUT',
+        headers: {
+          'Content-Type': 'application/json',
+          Authorization: 'Bearer rg_sync_2026_k8m3p7q2x9w4',
+        },
+        body: JSON.stringify(payload),
+      });
+      if (!res.ok) return { ok: false, msg: '上传失败（请检查网络）' };
+      // 下载合并（本地优先，防远端旧数据覆盖）
+      const remote = await downloadRemote();
+      if (remote) mergeRemote(remote);
+      return {
+        ok: true,
+        msg: `已同步 ${new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`,
+      };
+    } catch {
+      return { ok: false, msg: '同步失败（网络异常）' };
+    }
+  }, [mergeRemote]);
+
+  /** 每日 18:40 自动同步（打开页面时若已过当天 18:40 且未同步，补一次） */
+  useEffect(() => {
+    const run = () => {
+      const now = new Date();
+      const today = now.toDateString();
+      try {
+        if (localStorage.getItem('rootgraph-sync-date') === today) return;
+        const target = new Date();
+        target.setHours(18, 40, 0, 0);
+        if (now >= target) {
+          localStorage.setItem('rootgraph-sync-date', today);
+          syncNow();
+        }
+      } catch {
+        /* ignore */
+      }
+    };
+    run();
+    const timer = setInterval(run, 60000);
+    return () => clearInterval(timer);
+  }, [syncNow]);
+
+  // 启动时拉取远端数据合并（本地优先，防本地丢失时的恢复手段）
   useEffect(() => {
     downloadRemote().then((remote) => {
-      if (!remote) return;
-      const remoteStore = remote as NotesStore;
-      const remoteWordbook = (remote as { wordbook?: unknown }).wordbook;
-      const localUpdatedAt = storeRef.current.updatedAt ?? 0;
-      if (remoteStore.updatedAt > localUpdatedAt) {
-        // 覆盖前先备份本地（防 last-write-wins 误覆盖造成笔记丢失）
-        try {
-          localStorage.setItem(
-            `rootgraph-notes-backup-pre-sync-${Date.now()}`,
-            JSON.stringify(storeRef.current),
-          );
-        } catch {
-          /* ignore */
-        }
-        // 单词本（独立 key）写回本地并通知刷新
-        if (Array.isArray(remoteWordbook)) {
-          try {
-            localStorage.setItem('rootgraph-wordbook-v1', JSON.stringify(remoteWordbook));
-            window.dispatchEvent(new Event('rootgraph-wordbook-updated'));
-          } catch {
-            /* ignore */
-          }
-        }
-        // 合并而非整体覆盖：本地优先（保留本地最新编辑的笔记/词根），远端独有数据补入。
-        // 整体覆盖（last-write-wins）会在远端为旧快照时抹掉本地所有笔记。
-        const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
-        setStore((prev) => ({
-          ...prev,
-          ...remoteRest,
-          families: { ...(remoteRest.families ?? {}), ...prev.families },
-          words: { ...(remoteRest.words ?? {}), ...prev.words },
-          affixNotes: { ...(remoteRest.affixNotes ?? {}), ...prev.affixNotes },
-          wordFields: { ...(remoteRest.wordFields ?? {}), ...prev.wordFields },
-          videoMap: { ...(remoteRest.videoMap ?? {}), ...prev.videoMap },
-          familyMeta: { ...(remoteRest.familyMeta ?? {}), ...prev.familyMeta },
-          userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
-          userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
-          familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
-          wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
-          updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
-        }));
-      }
+      if (remote) mergeRemote(remote);
     });
   }, []);
 
@@ -346,18 +393,9 @@ export function useNotes() {
     return () => window.removeEventListener('storage', onStorage);
   }, []);
 
-  // 页面关闭/刷新前同步落盘 + 立即上传（sendBeacon 卸载时可靠送达，确保每次编辑都到云端）
+  // 页面关闭/刷新前同步落盘（本地为主；云端更新靠手动同步 + 每日 18:40，减少交互）
   useEffect(() => {
-    const flush = () => {
-      safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
-      try {
-        const raw = localStorage.getItem('rootgraph-wordbook-v1');
-        const wordbook = raw ? JSON.parse(raw) : [];
-        flushUpload({ ...storeRef.current, wordbook });
-      } catch {
-        flushUpload(storeRef.current);
-      }
-    };
+    const flush = () => safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
     window.addEventListener('beforeunload', flush);
     window.addEventListener('pagehide', flush);
     window.addEventListener('visibilitychange', () => {
@@ -732,6 +770,7 @@ export function useNotes() {
     addWordToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
+    syncNow,
     getFamilyOrder,
     setFamilyOrder,
     getWordOrder,
