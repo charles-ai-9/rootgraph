@@ -63,6 +63,7 @@ export function DraggableFollowBar({ followRoots, followMeaning, hidden = false 
   };
 
   const onPointerDown = (e: React.PointerEvent) => {
+    if (collapsed) return; // 折叠态不拖动
     if (e.pointerType === 'mouse' && e.button !== 0) return; // 仅主键
     dragMovedRef.current = false;
     const startTop = ref.current?.getBoundingClientRect().top ?? 158;
@@ -116,7 +117,7 @@ export function DraggableFollowBar({ followRoots, followMeaning, hidden = false 
       title={collapsed ? '点击展开词根信息' : '点击折叠词根信息'}
     >
       {collapsed ? (
-        <span className="follow-collapsed-root">{followRoots.split(/[,，/·]/)[0].trim()}</span>
+        <span className="follow-collapsed-root">词根</span>
       ) : (
         <>
           <span className="word-root-meaning-label">词根</span>
