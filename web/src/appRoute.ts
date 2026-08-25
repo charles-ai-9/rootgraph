@@ -71,7 +71,24 @@ export async function resolveRoute(route: ParsedRoute): Promise<AppView> {
   // 用户自建词根族：不查 catalog，直接由注册的解析器从 localStorage 构造
   if (route.textbook === 'user') {
     const userEntry = userFamilyResolver?.(route.textbook, route.id);
-    return userEntry ? { kind: 'family', entry: userEntry, focusWord: route.focusWord } : { kind: 'home' };
+    if (userEntry) return { kind: 'family', entry: userEntry, focusWord: route.focusWord };
+    // 词根不存在（已删除等）：仍进入详情页显示友好提示，避免静默跳回首页造成"看不到详情"
+    return {
+      kind: 'family',
+      entry: {
+        id: route.id,
+        file: '',
+        chapter: '我的',
+        chapterOrder: 999,
+        titleZh: '',
+        semanticLabel: '',
+        roots: [],
+        wordCount: 0,
+        source: 'user',
+        textbook: 'user',
+      },
+      focusWord: route.focusWord,
+    };
   }
 
   const catalog = await loadCatalog();

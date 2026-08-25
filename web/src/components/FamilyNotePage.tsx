@@ -157,7 +157,7 @@ export function FamilyNotePage({
     const curRootsKey = [...(family.roots ?? [])].sort().join('|');
     const extras: WordEntry[] = [];
     for (const uf of Object.values(userFamilies)) {
-      if ([...uf.roots].sort().join('|') !== curRootsKey) continue;
+      if ([...(uf.roots ?? [])].sort().join('|') !== curRootsKey) continue;
       for (const w of getUserFamilyWords(uf.id)) {
         if (!family.words.some((x) => x.word === w.word)) extras.push(w as WordEntry);
       }
@@ -176,7 +176,7 @@ export function FamilyNotePage({
       const local = getUserFamilyWords(uf.id) as WordEntry[];
       const localWords = new Set(local.map((w) => w.word));
       // 合并同词根（roots 完全一致）的官方数据词：本地词根 = 官方词 + 挂载词，实现"一个词根"完整视图
-      const localRootsKey = [...uf.roots].sort().join('|');
+      const localRootsKey = [...(uf.roots ?? [])].sort().join('|');
       const catByKey = new Map(catalog.map((e) => [`${e.textbook}:${e.id}`, e]));
       const dataWords: WordEntry[] = [];
       for (const r of wordIndex) {
@@ -534,7 +534,11 @@ export function FamilyNotePage({
         </div>
         {familyError ? (
           <div className="load-error-hint">
-            <span>词根族数据加载失败（/data/{entry.textbook}/{entry.file}）</span>
+            <span>
+              {entry.source === 'user'
+                ? '这个词根不存在或已被删除'
+                : `词根族数据加载失败（/data/${entry.textbook}/${entry.file}）`}
+            </span>
             <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
           </div>
         ) : (
@@ -813,7 +817,7 @@ export function FamilyNotePage({
         <div className="family-variant-content">
           {(!showVariantNav || activePanel === OVERVIEW_PANEL) && (
             <>
-              <VariantMap roots={effectiveRoots ?? []} />
+              {entry.source !== 'user' && <VariantMap roots={effectiveRoots ?? []} />}
 
               {hasFamilyNote || familyNoteEdit ? (
                 <section className="doc-section">
@@ -832,13 +836,15 @@ export function FamilyNotePage({
                 </button>
               )}
 
-              <MiniRelationGraph
-                title={(effectiveRoots ?? []).join(' · ')}
-                roots={effectiveRoots ?? []}
-                words={family.words}
-                onOpenWord={setReviewWord}
-                statusFor={(w) => getStatus(wordKey(entry.textbook, family.id, w))}
-              />
+              {entry.source !== 'user' && (
+                <MiniRelationGraph
+                  title={(effectiveRoots ?? []).join(' · ')}
+                  roots={effectiveRoots ?? []}
+                  words={family.words}
+                  onOpenWord={setReviewWord}
+                  statusFor={(w) => getStatus(wordKey(entry.textbook, family.id, w))}
+                />
+              )}
 
               {!showVariantNav && followMeaning && (
                 <DraggableFollowBar
