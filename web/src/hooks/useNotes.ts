@@ -3,7 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
-import { scheduleUpload, downloadRemote } from '../utils/sync';
+import { scheduleUpload, downloadRemote, flushUpload } from '../utils/sync';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -335,14 +335,27 @@ export function useNotes() {
     return () => window.removeEventListener('storage', onStorage);
   }, []);
 
-  // 页面关闭/刷新前同步落盘（缩小异步持久化竞态窗口，保存后立即关页不丢数据）
+  // 页面关闭/刷新前同步落盘 + 立即上传（sendBeacon 卸载时可靠送达，确保每次编辑都到云端）
   useEffect(() => {
-    const flush = () => safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
+    const flush = () => {
+      safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
+      try {
+        const raw = localStorage.getItem('rootgraph-wordbook-v1');
+        const wordbook = raw ? JSON.parse(raw) : [];
+        flushUpload({ ...storeRef.current, wordbook });
+      } catch {
+        flushUpload(storeRef.current);
+      }
+    };
     window.addEventListener('beforeunload', flush);
     window.addEventListener('pagehide', flush);
+    window.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'hidden') flush();
+    });
     return () => {
       window.removeEventListener('beforeunload', flush);
       window.removeEventListener('pagehide', flush);
+      window.removeEventListener('visibilitychange', flush);
     };
   }, []);
 
