@@ -2,6 +2,8 @@
 # 用户数据备份：拉取云端最新数据（笔记/词根/单词本/进度）→ 本地 backups/user/ → 推送私有 GitHub 仓库
 # 用法：scripts/backup-user-data.sh   （建议每次重要编辑后或定期手动跑）
 set -euo pipefail
+# cron 环境 PATH 不含 /opt/homebrew/bin（python3 所在），显式补齐
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 SYNC_URL="https://rootgraph.pages.dev/api/sync"
 SYNC_TOKEN="${SYNC_TOKEN:-rg_sync_2026_k8m3p7q2x9w4}"

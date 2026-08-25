@@ -2,6 +2,8 @@
 # 数据备份：打包 data/ 与 web/src/data/（JSON 数据资产），保留最近 10 份。
 # 用法：scripts/backup-data.sh   （可 cron 或重导前手动跑）
 set -euo pipefail
+# cron 环境 PATH 不含 /opt/homebrew/bin（python3 所在），显式补齐
+export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
 BACKUP_DIR="$ROOT/backups"
 KEEP=10
