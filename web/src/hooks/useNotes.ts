@@ -219,6 +219,18 @@ export function useNotes() {
     storeRef.current = store;
   }, [store]);
 
+  /** 上传体附加单词本数据（独立 key rootgraph-wordbook-v1，随 notes 一起同步） */
+  const withWordbook = (data: object): object => {
+    let wordbook: unknown = [];
+    try {
+      const raw = localStorage.getItem('rootgraph-wordbook-v1');
+      wordbook = raw ? JSON.parse(raw) : [];
+    } catch {
+      /* ignore */
+    }
+    return { ...data, wordbook };
+  };
+
   useEffect(() => {
     // 合并持久化：与 localStorage 现有数据取并集（userFamilies/userFamilyWords 等追加型字段），
     // 防止多标签页中旧 store 覆盖其他标签页新建的词根/单词（如新建 respect 后消失）。
@@ -236,8 +248,8 @@ export function useNotes() {
           updatedAt: now,
         };
         safeSetItem(STORAGE_KEY, JSON.stringify(merged));
-        // 防抖上传到远端
-        scheduleUpload(() => merged);
+        // 防抖上传到远端（含单词本数据）
+        scheduleUpload(() => withWordbook(merged));
         return;
       }
     } catch {
@@ -245,7 +257,7 @@ export function useNotes() {
     }
     const withTimestamp = { ...store, updatedAt: now };
     safeSetItem(STORAGE_KEY, JSON.stringify(withTimestamp));
-    scheduleUpload(() => withTimestamp);
+    scheduleUpload(() => withWordbook(withTimestamp));
   }, [store]);
 
   // 启动时拉取远端数据，比对 updatedAt 取较新版本
@@ -253,10 +265,21 @@ export function useNotes() {
     downloadRemote().then((remote) => {
       if (!remote) return;
       const remoteStore = remote as NotesStore;
+      const remoteWordbook = (remote as { wordbook?: unknown }).wordbook;
       const localUpdatedAt = storeRef.current.updatedAt ?? 0;
       if (remoteStore.updatedAt > localUpdatedAt) {
-        // 远端更新，覆盖本地
-        setStore(remoteStore);
+        // 远端更新：单词本（独立 key）写回本地并通知刷新
+        if (Array.isArray(remoteWordbook)) {
+          try {
+            localStorage.setItem('rootgraph-wordbook-v1', JSON.stringify(remoteWordbook));
+            window.dispatchEvent(new Event('rootgraph-wordbook-updated'));
+          } catch {
+            /* ignore */
+          }
+        }
+        // 覆盖本地 store（剥离 wordbook 额外字段）
+        const { wordbook: _wb, ...rest } = remoteStore as NotesStore & { wordbook?: unknown };
+        setStore(rest as NotesStore);
       }
     });
   }, []);

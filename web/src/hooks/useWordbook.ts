@@ -38,9 +38,14 @@ export function useWordbook() {
   const [entries, setEntries] = useState<WordbookEntry[]>(loadWordbook);
 
   useEffect(() => {
-    const onStorage = () => setEntries(loadWordbook());
-    window.addEventListener('storage', onStorage);
-    return () => window.removeEventListener('storage', onStorage);
+    const onChanged = () => setEntries(loadWordbook());
+    // storage 事件（其他标签页/设备导入）+ 同步完成事件（远端拉取后）
+    window.addEventListener('storage', onChanged);
+    window.addEventListener('rootgraph-wordbook-updated', onChanged);
+    return () => {
+      window.removeEventListener('storage', onChanged);
+      window.removeEventListener('rootgraph-wordbook-updated', onChanged);
+    };
   }, []);
 
   const addWord = useCallback((word: string, meta?: Omit<WordbookEntry, 'word' | 'addedAt'>) => {
