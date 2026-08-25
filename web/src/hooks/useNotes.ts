@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes, type WordEntry } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
@@ -206,9 +206,59 @@ function load(): NotesStore {
 export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
 
+  // 最新 store 引用：供 beforeunload / storage 同步使用
+  const storeRef = useRef(store);
   useEffect(() => {
+    storeRef.current = store;
+  }, [store]);
+
+  useEffect(() => {
+    // 合并持久化：与 localStorage 现有数据取并集（userFamilies/userFamilyWords 等追加型字段），
+    // 防止多标签页中旧 store 覆盖其他标签页新建的词根/单词（如新建 respect 后消失）。
+    // 删除操作会同步清理 localStorage（见 removeUserFamily 等），因此不会"复活"已删除条目。
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const current = JSON.parse(raw) as Partial<NotesStore>;
+        const merged = {
+          ...store,
+          userFamilies: { ...store.userFamilies, ...(current.userFamilies ?? {}) },
+          userFamilyWords: { ...store.userFamilyWords, ...(current.userFamilyWords ?? {}) },
+        };
+        safeSetItem(STORAGE_KEY, JSON.stringify(merged));
+        return;
+      }
+    } catch {
+      /* 忽略异常，回退直接写入 */
+    }
     safeSetItem(STORAGE_KEY, JSON.stringify(store));
   }, [store]);
+
+  // 跨标签页同步：其他标签页写入时合并进当前 store，避免旧 store 覆盖新数据（如新建词根/单词丢失）
+  useEffect(() => {
+    const onStorage = (e: StorageEvent) => {
+      if (e.key !== STORAGE_KEY || !e.newValue) return;
+      try {
+        const external = JSON.parse(e.newValue) as NotesStore;
+        setStore((prev) => ({ ...prev, ...external }));
+      } catch {
+        /* 忽略非法数据 */
+      }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
+  }, []);
+
+  // 页面关闭/刷新前同步落盘（缩小异步持久化竞态窗口，保存后立即关页不丢数据）
+  useEffect(() => {
+    const flush = () => safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
+    window.addEventListener('beforeunload', flush);
+    window.addEventListener('pagehide', flush);
+    return () => {
+      window.removeEventListener('beforeunload', flush);
+      window.removeEventListener('pagehide', flush);
+    };
+  }, []);
 
   const getFamilyNote = useCallback((key: string) => store.families[key] ?? '', [store]);
 
@@ -269,6 +319,18 @@ export function useNotes() {
   }, []);
 
   const removeUserFamily = useCallback((id: string) => {
+    // 同步清理 localStorage 中的对应条目（合并持久化下防"复活"）
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const cur = JSON.parse(raw);
+        if (cur.userFamilies) delete cur.userFamilies[id];
+        if (cur.userFamilyWords) delete cur.userFamilyWords[id];
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(cur));
+      }
+    } catch {
+      /* ignore */
+    }
     setStore((prev) => {
       const next: NotesStore = {
         ...prev,
@@ -334,6 +396,18 @@ export function useNotes() {
   }, []);
 
   const removeWordFromUserFamily = useCallback((familyId: string, word: string) => {
+    // 同步清理 localStorage（合并持久化下防"复活"）
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const cur = JSON.parse(raw);
+        const list = (cur.userFamilyWords?.[familyId] ?? []).filter((w: { word?: string }) => w.word !== word);
+        cur.userFamilyWords = { ...(cur.userFamilyWords ?? {}), [familyId]: list };
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(cur));
+      }
+    } catch {
+      /* ignore */
+    }
     setStore((prev) => {
       const list = (prev.userFamilyWords[familyId] ?? []).filter((w) => w.word !== word);
       return {
