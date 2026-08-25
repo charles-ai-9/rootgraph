@@ -1,4 +1,4 @@
-import { useEffect, useMemo, useState } from 'react';
+import { useEffect, useMemo, useRef, useState } from 'react';
 import type { CatalogEntry } from '../types';
 import type { IndexedWord } from '../hooks/useWordIndex';
 import type { UserFamily, UserFamilyWord } from '../hooks/useNotes';
@@ -29,6 +29,8 @@ export function WordSearchResults({
   const [index, setIndex] = useState<IndexedWord[]>([]);
   const [ready, setReady] = useState(false);
   const [error, setError] = useState(false);
+  const [selectedIndex, setSelectedIndex] = useState(-1);
+  const listRef = useRef<HTMLDivElement>(null);
   useEffect(() => {
     loadWordIndex()
       .then((rows) => {
@@ -42,6 +44,11 @@ export function WordSearchResults({
     () => searchWords(index, query, textbook === 'all' ? undefined : textbook, 24),
     [index, query, textbook],
   );
+
+  /** 搜索结果变化时重置键盘选中 */
+  useEffect(() => {
+    setSelectedIndex(-1);
+  }, [query, textbook, hits.length]);
 
   /** 词 → 所属我的词根（已挂载的词搜索时直达） */
   const userFamilyByWord = useMemo(() => {
@@ -62,6 +69,38 @@ export function WordSearchResults({
     return map;
   }, [catalog]);
 
+  /** 在搜索输入框上挂键盘导航：↑↓ 选中、Enter 进入详情 */
+  useEffect(() => {
+    const input = document.querySelector<HTMLInputElement>('.search-input');
+    if (!input) return;
+    const handler = (e: KeyboardEvent) => {
+      if (hits.length === 0) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        setSelectedIndex((i) => Math.min(i + 1, hits.length - 1));
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        setSelectedIndex((i) => Math.max(i - 1, 0));
+      } else if (e.key === 'Enter' && selectedIndex >= 0 && selectedIndex < hits.length) {
+        e.preventDefault();
+        const hit = hits[selectedIndex];
+        const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
+        const myFamily = userFamilyByWord.get(hit.word);
+        if (myFamily) onOpenUserFamily(myFamily, hit.word);
+        else if (entry) onOpenWord(entry, hit.word);
+      }
+    };
+    input.addEventListener('keydown', handler);
+    return () => input.removeEventListener('keydown', handler);
+  }, [hits, selectedIndex, catalogByKey, userFamilyByWord, onOpenWord, onOpenUserFamily]);
+
+  /** 选中项滚动到视口 */
+  useEffect(() => {
+    if (selectedIndex < 0 || !listRef.current) return;
+    const el = listRef.current.children[selectedIndex] as HTMLElement;
+    if (el) el.scrollIntoView({ block: 'nearest' });
+  }, [selectedIndex]);
+
   if (!query.trim()) return null;
   if (error) {
     return (
@@ -75,8 +114,8 @@ export function WordSearchResults({
   return (
     <section className="word-search-section">
       <h2 className="word-search-title">匹配的单词 · {hits.length}</h2>
-      <div className="word-search-list">
-        {hits.map((hit) => {
+      <div className="word-search-list" ref={listRef}>
+        {hits.map((hit, idx) => {
           const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
           const myFamily = userFamilyByWord.get(hit.word);
           return (
@@ -84,7 +123,7 @@ export function WordSearchResults({
               key={`${hit.textbook}-${hit.familyId}-${hit.word}`}
               role="button"
               tabIndex={0}
-              className="word-search-hit"
+              className={`word-search-hit${idx === selectedIndex ? ' word-search-hit-selected' : ''}`}
               onClick={() => {
                 if (myFamily) onOpenUserFamily(myFamily, hit.word);
                 else if (entry) onOpenWord(entry, hit.word);

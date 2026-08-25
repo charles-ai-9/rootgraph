@@ -625,6 +625,14 @@ textarea {
   box-shadow: var(--shadow);
 }
 
+.word-search-hit-selected {
+  border-color: var(--accent, #3b82f6);
+  background: #dbeafe;
+  box-shadow: var(--shadow);
+  outline: 2px solid var(--accent, #3b82f6);
+  outline-offset: -2px;
+}
+
 .word-search-hit-word {
   grid-row: 1 / span 2;
   font-size: 1.05rem;
