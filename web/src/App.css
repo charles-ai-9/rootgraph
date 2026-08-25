@@ -4409,10 +4409,14 @@ textarea {
     gap: 8px;
   }
 
-  .search-input,
-  .library-toolbar select {
+  .search-input {
     width: 100%;
     font-size: 16px;
+  }
+
+  /* 手机端隐藏教材筛选（搜索默认全库） */
+  .library-toolbar select {
+    display: none;
   }
 
   .library-row {
