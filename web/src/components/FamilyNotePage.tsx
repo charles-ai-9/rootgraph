@@ -39,6 +39,8 @@ interface FamilyNotePageProps {
   setWordEtymology: (key: string, text: string) => void;
   getWordPhonetic: (key: string, seed?: string) => string;
   setWordPhonetic: (key: string, text: string) => void;
+  getWordPos: (key: string, seed?: string) => string;
+  setWordPos: (key: string, text: string) => void;
   getWordDefinition: (key: string, seed?: string) => string;
   setWordDefinition: (key: string, text: string) => void;
   hideWord: (key: string) => void;
@@ -82,6 +84,8 @@ export function FamilyNotePage({
   setWordEtymology,
   getWordPhonetic,
   setWordPhonetic,
+  getWordPos,
+  setWordPos,
   getWordDefinition,
   setWordDefinition,
   hideWord,
@@ -148,6 +152,7 @@ export function FamilyNotePage({
   const [editWordText, setEditWordText] = useState('');
   const [editPhonetic, setEditPhonetic] = useState('');
   const [editDefinition, setEditDefinition] = useState('');
+  const [editPos, setEditPos] = useState('');
   const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
   const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
   const wordDragState = useRef<{ fromIdx: number; startY: number; itemH: number; panel: string } | null>(null);
@@ -540,6 +545,7 @@ export function FamilyNotePage({
       examplesNote: getWordExamples(wKey, w.examples),
       etymologyNote: getWordEtymology(wKey, w.etymology ?? ''),
       definitionOverride: getWordDefinition(wKey, w.definition ?? ''),
+      posOverride: getWordPos(wKey, w.pos ?? ''),
       affixNotes: getWordAffixNotes(wKey),
       items,
       getItem,
@@ -560,6 +566,7 @@ export function FamilyNotePage({
         setEditWordText(word.word);
         setEditPhonetic(getWordPhonetic(k, word.phonetic ?? ''));
         setEditDefinition(getWordDefinition(k, word.definition ?? ''));
+        setEditPos(getWordPos(k, word.pos ?? ''));
       },
       onDeleteWord: (word) => {
         const k = wordKey(entry.textbook, family!.id, word.word);
@@ -1370,6 +1377,18 @@ export function FamilyNotePage({
                 </button>
               </header>
               <div className="word-edit-field">
+                <label htmlFor="word-edit-pos">词性（如 vt./n.）</label>
+                <input
+                  id="word-edit-pos"
+                  className="word-edit-input"
+                  value={editPos}
+                  onChange={(e) => setEditPos(e.target.value)}
+                  placeholder="vt./n."
+                  spellCheck={false}
+                  autoCorrect="off"
+                />
+              </div>
+              <div className="word-edit-field">
                 <label htmlFor="word-edit-phonetic">音标</label>
                 <input
                   id="word-edit-phonetic"
@@ -1398,6 +1417,7 @@ export function FamilyNotePage({
                   onClick={() => {
                     setWordPhonetic(wKey, editPhonetic.trim());
                     setWordDefinition(wKey, editDefinition.trim());
+                    setWordPos(wKey, editPos.trim());
                     setEditWordKey(null);
                     setBatchToast(`已保存 ${editWordText} 的音标/解释`);
                     window.setTimeout(() => setBatchToast(''), 2600);

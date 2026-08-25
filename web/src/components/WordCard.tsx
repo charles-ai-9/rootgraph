@@ -48,6 +48,7 @@ export interface WordCardProps {
   /** 编辑模式：显示 ✏️ / 🗑 操作按钮 */
   editMode?: boolean;
   definitionOverride?: string;
+  posOverride?: string;
   onEditWord?: (word: WordEntry) => void;
   onDeleteWord?: (word: WordEntry) => void;
   selected?: boolean;
@@ -111,6 +112,7 @@ export function WordCard({
   onMoveBack,
   editMode,
   definitionOverride,
+  posOverride,
   onEditWord,
   onDeleteWord,
 }: WordCardProps) {
@@ -300,8 +302,8 @@ export function WordCard({
 
           {word.phonetic && <span className="word-phonetic">/{word.phonetic}/</span>}
 
-          {word.pos && (
-            <span className={`word-pos-inline ${expanded ? 'is-hidden' : ''}`}>{word.pos}</span>
+          {(word.pos || posOverride) && (
+            <span className={`word-pos-inline ${expanded ? 'is-hidden' : ''}`}>{posOverride || word.pos}</span>
           )}
 
           {variant?.canonical && (
@@ -359,9 +361,9 @@ export function WordCard({
               )}
             </div>
 
-            {(word.pos || word.definition || definitionOverride) && (
+            {(word.pos || word.definition || definitionOverride || posOverride) && (
               <div className="word-card-def">
-                {word.pos && <span className="pos-tag">{word.pos}</span>}
+                {(word.pos || posOverride) && <span className="pos-tag">{posOverride || word.pos}</span>}
                 <span className="word-def-text">{definitionOverride || word.definition}</span>
                 {word.frequency != null && (
                   <span className="freq-tag">词频 {word.frequency}</span>

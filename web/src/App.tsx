@@ -74,7 +74,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, syncNow, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, syncNow, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordPos, setWordPos, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
   const wordbook = useWordbook();
 
@@ -228,6 +228,8 @@ function App() {
           setWordEtymology={setWordEtymology}
           getWordPhonetic={getWordPhonetic}
           setWordPhonetic={setWordPhonetic}
+          getWordPos={getWordPos}
+          setWordPos={setWordPos}
           getWordDefinition={getWordDefinition}
           setWordDefinition={setWordDefinition}
           hideWord={hideWord}
