@@ -6272,3 +6272,77 @@ textarea {
 .add-word-cancel:hover {
   border-color: var(--text-muted);
 }
+
+/* ── 词根详情页单词排序按钮 ── */
+.note-topbar-sort-btn {
+  padding: 4px 10px;
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+  white-space: nowrap;
+}
+
+.note-topbar-sort-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.note-topbar-sort-btn.is-active {
+  color: #fff;
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ── 单词排序拖拽 ── */
+.word-sort-item {
+  display: flex;
+  align-items: flex-start;
+  gap: 6px;
+  transition: opacity 0.15s;
+}
+
+.word-sort-handle {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 22px;
+  height: 22px;
+  margin-top: 10px;
+  font-size: 1rem;
+  color: var(--text-muted);
+  cursor: grab;
+  user-select: none;
+  border-radius: 4px;
+  transition: background 0.15s, color 0.15s;
+}
+
+.word-sort-handle:hover {
+  background: var(--accent-soft);
+  color: var(--accent);
+}
+
+.word-sort-handle:active {
+  cursor: grabbing;
+}
+
+.word-sort-item-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.word-sort-item-dragging {
+  opacity: 0.35;
+}
+
+.word-sort-item-over {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+  border-radius: var(--radius);
+  background: var(--accent-soft);
+}

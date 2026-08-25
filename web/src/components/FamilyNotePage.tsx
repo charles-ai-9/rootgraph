@@ -51,6 +51,8 @@ interface FamilyNotePageProps {
   addWordToUserFamily: (familyId: string, word: WordEntry) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
+  getWordOrder: (key: string) => string[];
+  setWordOrder: (key: string, words: string[]) => void;
 }
 
 export function FamilyNotePage({
@@ -86,6 +88,8 @@ export function FamilyNotePage({
   addWordToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
+  getWordOrder,
+  setWordOrder,
 }: FamilyNotePageProps) {
   const [family, setFamily] = useState<RootFamily | null>(null);
   const [familyError, setFamilyError] = useState(false);
@@ -122,6 +126,12 @@ export function FamilyNotePage({
   const [newWordText, setNewWordText] = useState('');
   const [newWordDef, setNewWordDef] = useState('');
   const [newWordPhonetic, setNewWordPhonetic] = useState('');
+
+  /** 单词排序模式 */
+  const [wordSortMode, setWordSortMode] = useState(false);
+  const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
+  const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
+  const wordDragState = useRef<{ fromIdx: number; startY: number; itemH: number; panel: string } | null>(null);
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const lastTopTapRef = useRef(0);
@@ -589,6 +599,88 @@ export function FamilyNotePage({
     setNewWordPhonetic('');
   };
 
+  /** 按已保存顺序排列单词（未保存的保持原位） */
+  const applyWordOrder = (words: WordEntry[], panel: string): WordEntry[] => {
+    const orderKey = `${entry.textbook}:${entry.id}:${panel}`;
+    const saved = getWordOrder(orderKey);
+    if (!saved.length) return words;
+    const idxMap = new Map(saved.map((w, i) => [w, i]));
+    return [...words].sort((a, b) => {
+      const ai = idxMap.get(a.word) ?? Infinity;
+      const bi = idxMap.get(b.word) ?? Infinity;
+      return ai - bi;
+    });
+  };
+
+  /** 保存单词新顺序 */
+  const saveWordOrder = (panel: string, words: WordEntry[]) => {
+    const orderKey = `${entry.textbook}:${entry.id}:${panel}`;
+    setWordOrder(orderKey, words.map((w) => w.word));
+  };
+
+  /* ── 单词拖拽排序（pointer events） ── */
+  const onWordPointerMove = useCallback(
+    (e: PointerEvent) => {
+      const ds = wordDragState.current;
+      if (!ds) return;
+      e.preventDefault();
+      const delta = e.clientY - ds.startY;
+      const offset = Math.round(delta / ds.itemH);
+      // 需要获取当前面板的单词数来限制范围
+      const target = Math.max(0, Math.min(ds.fromIdx + offset, 999));
+      setWordOverIdx(target);
+    },
+    [],
+  );
+
+  const onWordPointerUp = useCallback(() => {
+    const ds = wordDragState.current;
+    if (!ds) return;
+    document.removeEventListener('pointermove', onWordPointerMove);
+    document.removeEventListener('pointerup', onWordPointerUp);
+
+    setWordOverIdx((cur) => {
+      if (cur !== null && cur !== ds.fromIdx) {
+        // 找到当前面板的单词列表，执行重排
+        const panel = ds.panel;
+        const words = groups.get(panel) ?? [];
+        const ordered = applyWordOrder(words, panel);
+        const from = ds.fromIdx;
+        const to = Math.max(0, Math.min(cur, ordered.length - 1));
+        if (from !== to && from < ordered.length) {
+          const next = [...ordered];
+          const [moved] = next.splice(from, 1);
+          next.splice(to, 0, moved);
+          saveWordOrder(panel, next);
+        }
+      }
+      return null;
+    });
+    setWordDragIdx(null);
+    wordDragState.current = null;
+  // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [onWordPointerMove, groups]);
+
+  const startWordDrag = (idx: number, panel: string) => (e: React.PointerEvent) => {
+    if (!wordSortMode) return;
+    e.preventDefault();
+    (e.target as HTMLElement).setPointerCapture(e.pointerId);
+    const el = (e.target as HTMLElement).closest('.word-card') as HTMLElement;
+    const itemH = el?.getBoundingClientRect().height ?? 80;
+    wordDragState.current = { fromIdx: idx, startY: e.clientY, itemH, panel };
+    setWordDragIdx(idx);
+    setWordOverIdx(idx);
+    document.addEventListener('pointermove', onWordPointerMove, { passive: false });
+    document.addEventListener('pointerup', onWordPointerUp);
+  };
+
+  useEffect(() => {
+    return () => {
+      document.removeEventListener('pointermove', onWordPointerMove);
+      document.removeEventListener('pointerup', onWordPointerUp);
+    };
+  }, [onWordPointerMove, onWordPointerUp]);
+
   const renderAddWordForm = () => (
     <div className="add-word-section">
       {addWordOpen ? (
@@ -644,21 +736,48 @@ export function FamilyNotePage({
     </div>
   );
 
-  const renderWordCards = (words: WordEntry[], panelKey: string) => (
-    <div className="word-list">
-      {words.map((w, index) => (
-        <WordCard
-          key={`${panelKey}-${w.word}-${index}${focusedWord === w.word ? '-focus' : ''}`}
-          {...wordCardPropsFor(w, index)}
-          defaultCollapsed={focusedWord !== w.word}
-          highlighted={focusedWord === w.word}
-          batchMode={batchMode}
-          selected={batchSelected.has(w.word)}
-          onToggleSelect={toggleBatchSelect}
-        />
-      ))}
-    </div>
-  );
+  const renderWordCards = (words: WordEntry[], panelKey: string) => {
+    const ordered = applyWordOrder(words, panelKey);
+    return (
+      <div className="word-list">
+        {ordered.map((w, index) => {
+          const isDragging = wordSortMode && wordDragIdx === index;
+          const isOver = wordSortMode && wordOverIdx === index && wordDragIdx !== null && wordDragIdx !== index;
+          return (
+            <div
+              key={`sort-${panelKey}-${w.word}`}
+              className={[
+                'word-sort-item',
+                isDragging ? 'word-sort-item-dragging' : '',
+                isOver ? 'word-sort-item-over' : '',
+              ].filter(Boolean).join(' ')}
+            >
+              {wordSortMode && (
+                <span
+                  className="word-sort-handle"
+                  onPointerDown={startWordDrag(index, panelKey)}
+                  style={{ touchAction: 'none' }}
+                >
+                  ≡
+                </span>
+              )}
+              <div className="word-sort-item-content">
+                <WordCard
+                  key={`${panelKey}-${w.word}-${index}${focusedWord === w.word ? '-focus' : ''}`}
+                  {...wordCardPropsFor(w, index)}
+                  defaultCollapsed={focusedWord !== w.word}
+                  highlighted={focusedWord === w.word}
+                  batchMode={batchMode}
+                  selected={batchSelected.has(w.word)}
+                  onToggleSelect={toggleBatchSelect}
+                />
+              </div>
+            </div>
+          );
+        })}
+      </div>
+    );
+  };
 
   if (!family) {
     return (
@@ -776,6 +895,18 @@ export function FamilyNotePage({
             title="批量选择单词，挂载到我的词根"
           >
             {batchMode ? '完成' : '☑ 批量'}
+          </button>
+          <button
+            type="button"
+            className={`note-topbar-sort-btn ${wordSortMode ? 'is-active' : ''}`}
+            onClick={() => {
+              setWordSortMode((v) => !v);
+              setWordDragIdx(null);
+              setWordOverIdx(null);
+            }}
+            title="拖动调整单词顺序"
+          >
+            {wordSortMode ? '完成' : '⇅ 排序'}
           </button>
           <button type="button" className="note-topbar-affix-btn" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库

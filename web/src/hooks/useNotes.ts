@@ -53,6 +53,8 @@ interface NotesStore {
   userFamilyWords: Record<string, UserFamilyWord[]>;
   /** 首页词根顺序（教材/我的 → 词根 id 有序列表；缺省按目录顺序） */
   familyOrder: Record<string, string[]>;
+  /** 词根族内单词顺序（textbook:id:panel → 单词名有序列表） */
+  wordOrder: Record<string, string[]>;
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -73,6 +75,7 @@ const empty: NotesStore = {
   userFamilies: {},
   userFamilyWords: {},
   familyOrder: {},
+  wordOrder: {},
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -174,6 +177,7 @@ function load(): NotesStore {
         userFamilies: parsed.userFamilies ?? {},
         userFamilyWords: parsed.userFamilyWords ?? {},
         familyOrder: parsed.familyOrder ?? {},
+        wordOrder: parsed.wordOrder ?? {},
       };
     }
 
@@ -190,6 +194,7 @@ function load(): NotesStore {
         userFamilies: {},
         userFamilyWords: {},
         familyOrder: {},
+        wordOrder: {},
       };
     }
   } catch {
@@ -241,6 +246,15 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       familyOrder: { ...prev.familyOrder, [groupKey]: ids },
+    }));
+  }, []);
+
+  const getWordOrder = useCallback((key: string): string[] => store.wordOrder[key] ?? [], [store]);
+
+  const setWordOrder = useCallback((key: string, words: string[]) => {
+    setStore((prev) => ({
+      ...prev,
+      wordOrder: { ...prev.wordOrder, [key]: words },
     }));
   }, []);
 
@@ -467,6 +481,7 @@ export function useNotes() {
         userFamilies: { ...prev.userFamilies },
         userFamilyWords: { ...prev.userFamilyWords },
         familyOrder: { ...prev.familyOrder },
+        wordOrder: { ...prev.wordOrder },
       };
       let changed = false;
       for (const [oldKey, newKey] of Object.entries(renames)) {
@@ -503,6 +518,8 @@ export function useNotes() {
     getUserFamilyWords,
     getFamilyOrder,
     setFamilyOrder,
+    getWordOrder,
+    setWordOrder,
     getWordNote,
     setWordNote,
     getWordAffixNotes,
