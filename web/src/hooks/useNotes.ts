@@ -4,6 +4,7 @@ import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
 import { downloadRemote, getDeviceId } from '../utils/sync';
+import { saveSnapshot, loadLatestSnapshot } from '../utils/snapshotDb';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -73,39 +74,13 @@ const LEGACY_KEY = 'rootgraph-notes-v1';
 /** 本地双写备份：始终保存最近一次成功写入的完整数据（主 key 损坏时自动恢复） */
 const LAST_GOOD_KEY = 'rootgraph-notes-last-good';
 /** 本地快照前缀：定期保存历史版本（保留最近 20 份，本地可回滚） */
-const SNAP_PREFIX = 'rootgraph-notes-snap-';
-const SNAP_INTERVAL_MS = 10 * 60 * 1000;
-const SNAP_KEEP = 20;
+const SNAP_INTERVAL_MS = 30 * 60 * 1000;
 
-/** 本地快照：距上次超过 10 分钟则存一份（配额满时清理最旧快照重试） */
+/** 本地快照：距上次超过 30 分钟则存一份到 IndexedDB（容量大，不占 localStorage 配额） */
 function takeLocalSnapshot(data: unknown, lastTs: number): number {
   const now = Date.now();
   if (now - lastTs < SNAP_INTERVAL_MS) return lastTs;
-  const key = `${SNAP_PREFIX}${now}`;
-  try {
-    localStorage.setItem(key, JSON.stringify(data));
-  } catch {
-    try {
-      const keys = Object.keys(localStorage)
-        .filter((k) => k.startsWith(SNAP_PREFIX))
-        .sort();
-      if (keys.length) localStorage.removeItem(keys[0]);
-      localStorage.setItem(key, JSON.stringify(data));
-    } catch {
-      /* ignore */
-    }
-  }
-  // 清理：保留最近 SNAP_KEEP 份
-  try {
-    const keys = Object.keys(localStorage)
-      .filter((k) => k.startsWith(SNAP_PREFIX))
-      .sort();
-    while (keys.length > SNAP_KEEP) {
-      localStorage.removeItem(keys.shift() as string);
-    }
-  } catch {
-    /* ignore */
-  }
+  saveSnapshot(data);
   return now;
 }
 
@@ -125,15 +100,7 @@ function readLocalWithRecovery(): { store: NotesStore; recovered: boolean } | nu
     // 主数据损坏：从 last-good 恢复
     const good = attempt(localStorage.getItem(LAST_GOOD_KEY));
     if (good) return { store: good, recovered: true };
-    // 再尝试最近快照
-    const snapKeys = Object.keys(localStorage)
-      .filter((k) => k.startsWith(SNAP_PREFIX))
-      .sort();
-    if (snapKeys.length) {
-      const snap = attempt(localStorage.getItem(snapKeys[snapKeys.length - 1]));
-      if (snap) return { store: snap, recovered: true };
-    }
-  } catch {
+    } catch {
     /* ignore */
   }
   return null;
@@ -462,12 +429,28 @@ export function useNotes() {
     return () => clearInterval(timer);
   }, [syncNow]);
 
-  // 启动时拉取远端数据合并（本地优先，防本地丢失时的恢复手段）
+  // 启动时：① 每天最多拉取 1 次云端（避免每次打开页面都请求，降低网络交互）
+  //         ② 主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
   useEffect(() => {
-    downloadRemote().then((remote) => {
-      if (remote) mergeRemote(remote);
-    });
-  }, []);
+    try {
+      const today = new Date().toDateString();
+      if (localStorage.getItem('rootgraph-last-pull-date') !== today) {
+        localStorage.setItem('rootgraph-last-pull-date', today);
+        downloadRemote().then((remote) => {
+          if (remote) mergeRemote(remote);
+        });
+      }
+    } catch {
+      /* ignore */
+    }
+    if (!localStorage.getItem(STORAGE_KEY)) {
+      loadLatestSnapshot().then((snap) => {
+        if (snap && typeof snap === 'object' && !localStorage.getItem(STORAGE_KEY)) {
+          setStore(snap as NotesStore);
+        }
+      });
+    }
+  }, [mergeRemote]);
 
   // 跨标签页同步：其他标签页写入时深合并进当前 store，避免浅合并覆盖嵌套对象（如 familyMeta/wordFields 丢失）
   useEffect(() => {
