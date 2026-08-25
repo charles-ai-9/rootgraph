@@ -59,6 +59,8 @@ interface NotesStore {
   wordOrder: Record<string, string[]>;
   /** 最后更新时间戳（用于多设备同步 last-write-wins） */
   updatedAt: number;
+  /** key 级编辑时间戳（同步冲突时逐条取最新，key 如 'f:familyKey' / 'w:wordKey'） */
+  touchMap: Record<string, number>;
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -149,6 +151,7 @@ const empty: NotesStore = {
   familyOrder: {},
   wordOrder: {},
   updatedAt: 0,
+  touchMap: {},
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -252,6 +255,7 @@ function load(): NotesStore {
       familyOrder: parsed.familyOrder ?? {},
       wordOrder: parsed.wordOrder ?? {},
       updatedAt: parsed.updatedAt ?? 0,
+      touchMap: parsed.touchMap ?? {},
     };
   }
 
@@ -271,6 +275,7 @@ function load(): NotesStore {
         familyOrder: {},
         wordOrder: {},
         updatedAt: 0,
+        touchMap: {},
       };
     } catch {
       /* ignore */
@@ -359,23 +364,42 @@ export function useNotes() {
         /* ignore */
       }
     }
-    // 合并而非整体覆盖：本地优先（保留本地最新编辑的笔记/词根），远端独有数据补入。
+    // 合并：笔记类按 key 级时间戳（touchMap）逐条取最新——A 设备改的条目在 B 设备上也能拉到；
+    // 词根/顺序类保持本地优先（追加型数据，并集最安全）。
     const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
-    setStore((prev) => ({
-      ...prev,
-      ...remoteRest,
-      families: { ...(remoteRest.families ?? {}), ...prev.families },
-      words: { ...(remoteRest.words ?? {}), ...prev.words },
-      affixNotes: { ...(remoteRest.affixNotes ?? {}), ...prev.affixNotes },
-      wordFields: { ...(remoteRest.wordFields ?? {}), ...prev.wordFields },
-      videoMap: { ...(remoteRest.videoMap ?? {}), ...prev.videoMap },
-      familyMeta: { ...(remoteRest.familyMeta ?? {}), ...prev.familyMeta },
-      userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
-      userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
-      familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
-      wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
-      updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
-    }));
+    setStore((prev) => {
+      const rt = remoteRest.touchMap ?? {};
+      const lt = prev.touchMap ?? {};
+      const mergeByTouch = (remoteVal: unknown, localVal: unknown, touchKey: string) => {
+        if (remoteVal === undefined) return localVal;
+        if (localVal === undefined) return remoteVal;
+        return (rt[touchKey] ?? 0) > (lt[touchKey] ?? 0) ? remoteVal : localVal;
+      };
+      const mergeObj = <T,>(remoteObj: Record<string, T> | undefined, localObj: Record<string, T> | undefined, prefix: string): Record<string, T> => {
+        const out: Record<string, T> = {};
+        for (const k of new Set([...Object.keys(remoteObj ?? {}), ...Object.keys(localObj ?? {})])) {
+          out[k] = mergeByTouch(remoteObj?.[k], localObj?.[k], `${prefix}:${k}`) as T;
+        }
+        return out;
+      };
+      return {
+        ...prev,
+        ...remoteRest,
+        families: mergeObj(remoteRest.families as Record<string, string> | undefined, prev.families, 'f'),
+        words: mergeObj(remoteRest.words as Record<string, string> | undefined, prev.words, 'w'),
+        affixNotes: mergeObj(remoteRest.affixNotes as Record<string, WordAffixNotes> | undefined, prev.affixNotes, 'a'),
+        wordFields: mergeObj(remoteRest.wordFields as Record<string, WordFieldOverrides> | undefined, prev.wordFields, 'wf'),
+        videoMap: mergeObj(remoteRest.videoMap as Record<string, string> | undefined, prev.videoMap, 'v'),
+        familyMeta: mergeObj(remoteRest.familyMeta as Record<string, FamilyMeta> | undefined, prev.familyMeta, 'm'),
+        // 词根/挂载/顺序：本地优先并集（追加型，避免整条覆盖丢数据）
+        userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
+        userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
+        familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
+        wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
+        touchMap: { ...rt, ...lt },
+        updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
+      };
+    });
     return true;
   }, []);
 
@@ -497,6 +521,7 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       families: { ...prev.families, [key]: text },
+      touchMap: { ...prev.touchMap, ['f:' + key]: Date.now() },
     }));
   }, []);
 
@@ -506,6 +531,7 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       videoMap: { ...prev.videoMap, [key]: videoId.trim() },
+      touchMap: { ...prev.touchMap, ['v:' + key]: Date.now() },
     }));
   }, []);
 
@@ -528,6 +554,7 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       familyMeta: { ...prev.familyMeta, [key]: meta },
+      touchMap: { ...prev.touchMap, ['m:' + key]: Date.now() },
     }));
   }, []);
 
@@ -672,6 +699,7 @@ export function useNotes() {
     setStore((prev) => ({
       ...prev,
       words: { ...prev.words, [key]: text },
+      touchMap: { ...prev.touchMap, ['w:' + key]: Date.now() },
     }));
   }, []);
 
@@ -690,6 +718,7 @@ export function useNotes() {
             ...prev.affixNotes,
             [key]: { ...current, [kind]: note },
           },
+          touchMap: { ...prev.touchMap, ['a:' + key]: Date.now() },
         };
       });
     },
@@ -712,8 +741,8 @@ export function useNotes() {
         ...prev.wordFields,
         [key]: { ...prev.wordFields[key], mnemonic: text },
       },
-    }));
-  }, []);
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));  }, []);
 
   const getWordCollocations = useCallback(
     (key: string, seed: string[] = []) => {
@@ -730,8 +759,8 @@ export function useNotes() {
         ...prev.wordFields,
         [key]: { ...prev.wordFields[key], collocations: text },
       },
-    }));
-  }, []);
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));  }, []);
 
   const getWordExamples = useCallback(
     (key: string, seed: string[] = []) => {
@@ -756,8 +785,8 @@ export function useNotes() {
         ...prev.wordFields,
         [key]: { ...prev.wordFields[key], examples: JSON.stringify(examples) },
       },
-    }));
-  }, []);
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));  }, []);
 
   const getWordEtymology = useCallback(
     (key: string, seed = '') => {
@@ -774,8 +803,8 @@ export function useNotes() {
         ...prev.wordFields,
         [key]: { ...prev.wordFields[key], etymology: text },
       },
-    }));
-  }, []);
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));  }, []);
 
   const getWordPhonetic = useCallback(
     (key: string, seed = '') => {
@@ -792,8 +821,8 @@ export function useNotes() {
         ...prev.wordFields,
         [key]: { ...prev.wordFields[key], phonetic: text },
       },
-    }));
-  }, []);
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));  }, []);
 
   /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2）。
    *  安全：迁移前先把整个 store 快照到 rootgraph-notes-backup-auto-*，即使迁移异常也可恢复。 */
@@ -818,6 +847,7 @@ export function useNotes() {
         userFamilyWords: { ...prev.userFamilyWords },
         familyOrder: { ...prev.familyOrder },
         wordOrder: { ...prev.wordOrder },
+        touchMap: { ...prev.touchMap },
         updatedAt: prev.updatedAt,
       };
       let changed = false;
