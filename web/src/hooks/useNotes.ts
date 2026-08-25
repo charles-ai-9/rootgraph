@@ -9,6 +9,7 @@ export interface WordFieldOverrides {
   collocations?: string;
   examples?: string; // 用户自定义例句（JSON 字符串数组）
   etymology?: string; // 用户自定义词源（覆盖数据层词源）
+  phonetic?: string; // 用户自定义音标（覆盖数据层音标）
 }
 
 /** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
@@ -234,13 +235,25 @@ export function useNotes() {
     safeSetItem(STORAGE_KEY, JSON.stringify(store));
   }, [store]);
 
-  // 跨标签页同步：其他标签页写入时合并进当前 store，避免旧 store 覆盖新数据（如新建词根/单词丢失）
+  // 跨标签页同步：其他标签页写入时深合并进当前 store，避免浅合并覆盖嵌套对象（如 familyMeta/wordFields 丢失）
   useEffect(() => {
     const onStorage = (e: StorageEvent) => {
       if (e.key !== STORAGE_KEY || !e.newValue) return;
       try {
         const external = JSON.parse(e.newValue) as NotesStore;
-        setStore((prev) => ({ ...prev, ...external }));
+        setStore((prev) => ({
+          ...prev,
+          families: { ...prev.families, ...external.families },
+          words: { ...prev.words, ...external.words },
+          affixNotes: { ...prev.affixNotes, ...external.affixNotes },
+          wordFields: { ...prev.wordFields, ...external.wordFields },
+          videoMap: { ...prev.videoMap, ...external.videoMap },
+          familyMeta: { ...prev.familyMeta, ...external.familyMeta },
+          userFamilies: { ...prev.userFamilies, ...external.userFamilies },
+          userFamilyWords: { ...prev.userFamilyWords, ...external.userFamilyWords },
+          familyOrder: { ...prev.familyOrder, ...external.familyOrder },
+          wordOrder: { ...prev.wordOrder, ...external.wordOrder },
+        }));
       } catch {
         /* 忽略非法数据 */
       }
@@ -533,6 +546,24 @@ export function useNotes() {
     }));
   }, []);
 
+  const getWordPhonetic = useCallback(
+    (key: string, seed = '') => {
+      const hit = store.wordFields[key]?.phonetic;
+      return hit != null ? hit : (seed ?? '');
+    },
+    [store],
+  );
+
+  const setWordPhonetic = useCallback((key: string, text: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], phonetic: text },
+      },
+    }));
+  }, []);
+
   /** 数据重导导致 familyId 变化时，迁移旧 key 的笔记到新 key（如 textbook-5/plus → textbook-5/plus-2）。
    *  安全：迁移前先把整个 store 快照到 rootgraph-notes-backup-auto-*，即使迁移异常也可恢复。 */
   const migrateKeys = useCallback((renames: Record<string, string>) => {
@@ -606,6 +637,8 @@ export function useNotes() {
     setWordExamples,
     getWordEtymology,
     setWordEtymology,
+    getWordPhonetic,
+    setWordPhonetic,
     migrateKeys,
   };
 }
