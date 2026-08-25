@@ -88,6 +88,25 @@ export function WordSearchResults({
     return map;
   }, [userFamilies, getUserFamilyWords]);
 
+  /** 打开命中词：优先官方词根族（roots 匹配，合并显示），无匹配才去我的词根 */
+  const openHit = (hit: IndexedWord, word: string) => {
+    const myFamily = userFamilyByWord.get(word);
+    if (myFamily) {
+      const rootsKey = [...(myFamily.roots ?? [])].sort().join('|');
+      const official = catalog.find(
+        (e) => e.source !== 'user' && [...(e.roots ?? [])].sort().join('|') === rootsKey,
+      );
+      if (official) {
+        onOpenWord(official, word);
+        return;
+      }
+      onOpenUserFamily(myFamily, word);
+      return;
+    }
+    const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
+    if (entry) onOpenWord(entry, word);
+  };
+
   const catalogByKey = useMemo(() => {
     const map = new Map<string, CatalogEntry>();
     for (const entry of catalog) {
@@ -111,15 +130,12 @@ export function WordSearchResults({
       } else if (e.key === 'Enter' && selectedIndex >= 0 && selectedIndex < hits.length) {
         e.preventDefault();
         const hit = hits[selectedIndex];
-        const entry = catalogByKey.get(`${hit.textbook}:${hit.familyId}`);
-        const myFamily = userFamilyByWord.get(hit.word);
-        if (myFamily) onOpenUserFamily(myFamily, hit.word);
-        else if (entry) onOpenWord(entry, hit.word);
+        openHit(hit, hit.word);
       }
     };
     input.addEventListener('keydown', handler);
     return () => input.removeEventListener('keydown', handler);
-  }, [hits, selectedIndex, catalogByKey, userFamilyByWord, onOpenWord, onOpenUserFamily]);
+  }, [hits, selectedIndex, openHit]);
 
   /** 选中项滚动到视口 */
   useEffect(() => {
@@ -183,15 +199,9 @@ export function WordSearchResults({
               role="button"
               tabIndex={0}
               className={`word-search-hit${idx === selectedIndex ? ' word-search-hit-selected' : ''}`}
-              onClick={() => {
-                if (myFamily) onOpenUserFamily(myFamily, hit.word);
-                else if (entry) onOpenWord(entry, hit.word);
-              }}
+              onClick={() => openHit(hit, hit.word)}
               onKeyDown={(e) => {
-                if (e.key === 'Enter') {
-                  if (myFamily) onOpenUserFamily(myFamily, hit.word);
-                  else if (entry) onOpenWord(entry, hit.word);
-                }
+                if (e.key === 'Enter') openHit(hit, hit.word);
               }}
             >
               <span className="word-search-hit-word">{hit.word}</span>

@@ -172,6 +172,19 @@ export function FamilyNotePage({
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [entry, retryTick]);
 
+  /** 用户词根页重定向：roots 匹配官方词根族时，跳转到官方页（合并显示，避免 user/xxx 与 textbook/xxx 分裂） */
+  useEffect(() => {
+    if (entry.source !== 'user' || !family || family.words.length === 0) return;
+    if (!family.roots || family.roots.length === 0) return;
+    const rootsKey = [...family.roots].sort().join('|');
+    const official = catalog.find(
+      (e) => e.source !== 'user' && [...(e.roots ?? [])].sort().join('|') === rootsKey,
+    );
+    if (official) {
+      onSearchOpen(official, focusedWord ?? undefined);
+    }
+  }, [entry.source, family, catalog, onSearchOpen, focusedWord]);
+
   /** 官方词根页合并本地挂载词：本地词根（roots 一致）挂载的词也显示在当前词根（一个词根完整视图） */
   useEffect(() => {
     if (!family || entry.source === 'user') return;
@@ -358,8 +371,20 @@ export function FamilyNotePage({
   const handleSearchOpen = useCallback((hit: IndexedWord) => {
     setSearchQuery('');
     setShowSearch(false);
-    // 用户新建单词：跳转到对应的我的词根族
+    // 用户新建单词：优先跳转到 roots 匹配的官方词根族页（合并显示），无匹配才去我的词根
     if (hit.textbook === 'user') {
+      const uf = userFamilies[hit.familyId];
+      if (uf) {
+        const rootsKey = [...(uf.roots ?? [])].sort().join('|');
+        const official = catalog.find(
+          (e) => e.source !== 'user' && [...(e.roots ?? [])].sort().join('|') === rootsKey,
+        );
+        if (official) {
+          setFocusedWord(hit.word);
+          onSearchOpen(official, hit.word);
+          return;
+        }
+      }
       openUserFamilyById(hit.familyId, hit.word);
       return;
     }
