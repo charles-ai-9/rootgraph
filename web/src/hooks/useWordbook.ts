@@ -10,11 +10,11 @@ export interface WordbookEntry {
 }
 
 const STORAGE_KEY = 'rootgraph-wordbook-v1';
+const LAST_GOOD_KEY = 'rootgraph-wordbook-last-good';
 
-function loadWordbook(): WordbookEntry[] {
+function parseEntries(raw: string | null): WordbookEntry[] {
+  if (!raw) return [];
   try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (!raw) return [];
     const parsed = JSON.parse(raw);
     if (!Array.isArray(parsed)) return [];
     return parsed.filter(
@@ -26,9 +26,18 @@ function loadWordbook(): WordbookEntry[] {
   }
 }
 
+function loadWordbook(): WordbookEntry[] {
+  const main = parseEntries(localStorage.getItem(STORAGE_KEY));
+  if (main.length || !localStorage.getItem(STORAGE_KEY)) return main;
+  // 主数据损坏：从 last-good 恢复
+  return parseEntries(localStorage.getItem(LAST_GOOD_KEY));
+}
+
 function saveWordbook(entries: WordbookEntry[]): void {
   try {
-    localStorage.setItem(STORAGE_KEY, JSON.stringify(entries));
+    const json = JSON.stringify(entries);
+    localStorage.setItem(STORAGE_KEY, json);
+    localStorage.setItem(LAST_GOOD_KEY, json);
   } catch {
     // ignore
   }

@@ -3,25 +3,37 @@ import type { ProgressState, WordStatus } from '../types';
 import { safeSetItem } from '../utils/storage';
 
 const STORAGE_KEY = 'rootgraph-progress-v1';
+const LAST_GOOD_KEY = 'rootgraph-progress-last-good';
+
+function loadProgress(): ProgressState {
+  const attempt = (raw: string | null): ProgressState | null => {
+    if (!raw) return null;
+    try {
+      return JSON.parse(raw) as ProgressState;
+    } catch {
+      return null;
+    }
+  };
+  return attempt(localStorage.getItem(STORAGE_KEY))
+    ?? attempt(localStorage.getItem(LAST_GOOD_KEY))
+    ?? {};
+}
 
 export function useProgress() {
-  const [progress, setProgress] = useState<ProgressState>(() => {
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY);
-      return raw ? (JSON.parse(raw) as ProgressState) : {};
-    } catch {
-      return {};
-    }
-  });
+  const [progress, setProgress] = useState<ProgressState>(loadProgress);
 
   // 保存时与 localStorage 合并（其他标签页的进度保留，本页最新优先）
   useEffect(() => {
     try {
       const raw = localStorage.getItem(STORAGE_KEY);
       const cur = raw ? JSON.parse(raw) : {};
-      safeSetItem(STORAGE_KEY, JSON.stringify({ ...cur, ...progress }));
+      const json = JSON.stringify({ ...cur, ...progress });
+      safeSetItem(STORAGE_KEY, json);
+      safeSetItem(LAST_GOOD_KEY, json);
     } catch {
-      safeSetItem(STORAGE_KEY, JSON.stringify(progress));
+      const json = JSON.stringify(progress);
+      safeSetItem(STORAGE_KEY, json);
+      safeSetItem(LAST_GOOD_KEY, json);
     }
   }, [progress]);
 

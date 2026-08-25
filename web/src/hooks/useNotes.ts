@@ -68,6 +68,74 @@ export interface UserFamilyWord extends WordEntry {
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
 const LEGACY_KEY = 'rootgraph-notes-v1';
+/** 本地双写备份：始终保存最近一次成功写入的完整数据（主 key 损坏时自动恢复） */
+const LAST_GOOD_KEY = 'rootgraph-notes-last-good';
+/** 本地快照前缀：定期保存历史版本（保留最近 20 份，本地可回滚） */
+const SNAP_PREFIX = 'rootgraph-notes-snap-';
+const SNAP_INTERVAL_MS = 10 * 60 * 1000;
+const SNAP_KEEP = 20;
+
+/** 本地快照：距上次超过 10 分钟则存一份（配额满时清理最旧快照重试） */
+function takeLocalSnapshot(data: unknown, lastTs: number): number {
+  const now = Date.now();
+  if (now - lastTs < SNAP_INTERVAL_MS) return lastTs;
+  const key = `${SNAP_PREFIX}${now}`;
+  try {
+    localStorage.setItem(key, JSON.stringify(data));
+  } catch {
+    try {
+      const keys = Object.keys(localStorage)
+        .filter((k) => k.startsWith(SNAP_PREFIX))
+        .sort();
+      if (keys.length) localStorage.removeItem(keys[0]);
+      localStorage.setItem(key, JSON.stringify(data));
+    } catch {
+      /* ignore */
+    }
+  }
+  // 清理：保留最近 SNAP_KEEP 份
+  try {
+    const keys = Object.keys(localStorage)
+      .filter((k) => k.startsWith(SNAP_PREFIX))
+      .sort();
+    while (keys.length > SNAP_KEEP) {
+      localStorage.removeItem(keys.shift() as string);
+    }
+  } catch {
+    /* ignore */
+  }
+  return now;
+}
+
+/** 本地恢复源：主 key → last-good → 最近快照（依次尝试，返回可用 JSON 或 null） */
+function readLocalWithRecovery(): { store: NotesStore; recovered: boolean } | null {
+  const attempt = (raw: string | null): NotesStore | null => {
+    if (!raw) return null;
+    try {
+      return JSON.parse(raw) as NotesStore;
+    } catch {
+      return null;
+    }
+  };
+  try {
+    const main = attempt(localStorage.getItem(STORAGE_KEY));
+    if (main) return { store: main, recovered: false };
+    // 主数据损坏：从 last-good 恢复
+    const good = attempt(localStorage.getItem(LAST_GOOD_KEY));
+    if (good) return { store: good, recovered: true };
+    // 再尝试最近快照
+    const snapKeys = Object.keys(localStorage)
+      .filter((k) => k.startsWith(SNAP_PREFIX))
+      .sort();
+    if (snapKeys.length) {
+      const snap = attempt(localStorage.getItem(snapKeys[snapKeys.length - 1]));
+      if (snap) return { store: snap, recovered: true };
+    }
+  } catch {
+    /* ignore */
+  }
+  return null;
+}
 
 const empty: NotesStore = {
   families: {},
@@ -166,29 +234,30 @@ function normalizeWordAffixNotes(raw: unknown): WordAffixNotes {
 }
 
 function load(): NotesStore {
-  try {
-    const raw = localStorage.getItem(STORAGE_KEY);
-    if (raw) {
-      const parsed = JSON.parse(raw) as Partial<NotesStore>;
-      return {
-        families: parsed.families ?? {},
-        words: parsed.words ?? {},
-        affixNotes: Object.fromEntries(
-          Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
-        ),
-        wordFields: parsed.wordFields ?? {},
-        videoMap: parsed.videoMap ?? {},
-        familyMeta: parsed.familyMeta ?? {},
-        userFamilies: parsed.userFamilies ?? {},
-        userFamilyWords: parsed.userFamilyWords ?? {},
-        familyOrder: parsed.familyOrder ?? {},
-        wordOrder: parsed.wordOrder ?? {},
-        updatedAt: parsed.updatedAt ?? 0,
-      };
-    }
+  // 自愈：主数据损坏时从 last-good / 本地快照恢复（本地三层保护：主 key → last-good → 快照）
+  const recovered = readLocalWithRecovery();
+  if (recovered) {
+    const parsed = recovered.store as Partial<NotesStore>;
+    return {
+      families: parsed.families ?? {},
+      words: parsed.words ?? {},
+      affixNotes: Object.fromEntries(
+        Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
+      ),
+      wordFields: parsed.wordFields ?? {},
+      videoMap: parsed.videoMap ?? {},
+      familyMeta: parsed.familyMeta ?? {},
+      userFamilies: parsed.userFamilies ?? {},
+      userFamilyWords: parsed.userFamilyWords ?? {},
+      familyOrder: parsed.familyOrder ?? {},
+      wordOrder: parsed.wordOrder ?? {},
+      updatedAt: parsed.updatedAt ?? 0,
+    };
+  }
 
-    const legacy = localStorage.getItem(LEGACY_KEY);
-    if (legacy) {
+  const legacy = localStorage.getItem(LEGACY_KEY);
+  if (legacy) {
+    try {
       const parsed = JSON.parse(legacy) as Partial<NotesStore>;
       return {
         families: parsed.families ?? {},
@@ -203,15 +272,17 @@ function load(): NotesStore {
         wordOrder: {},
         updatedAt: 0,
       };
+    } catch {
+      /* ignore */
     }
-  } catch {
-    /* ignore */
   }
   return { ...empty };
 }
 
 export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
+  /** 本地快照时间戳（节流：每 10 分钟最多一份） */
+  const lastSnapRef = useRef(0);
 
   // 最新 store 引用：供 beforeunload / storage 同步使用
   const storeRef = useRef(store);
@@ -246,14 +317,22 @@ export function useNotes() {
           wordOrder: { ...(cur('wordOrder') as object), ...store.wordOrder },
           updatedAt: now,
         };
-        safeSetItem(STORAGE_KEY, JSON.stringify(merged));
+        // 双写：主 key + last-good（始终保存最近成功写入，主 key 损坏时自动恢复）
+        const json = JSON.stringify(merged);
+        safeSetItem(STORAGE_KEY, json);
+        safeSetItem(LAST_GOOD_KEY, json);
+        // 本地快照（>10 分钟间隔，保留 20 份）
+        lastSnapRef.current = takeLocalSnapshot(merged, lastSnapRef.current);
         return;
       }
     } catch {
       /* 忽略异常，回退直接写入 */
     }
     const withTimestamp = { ...store, updatedAt: now };
-    safeSetItem(STORAGE_KEY, JSON.stringify(withTimestamp));
+    const json = JSON.stringify(withTimestamp);
+    safeSetItem(STORAGE_KEY, json);
+    safeSetItem(LAST_GOOD_KEY, json);
+    lastSnapRef.current = takeLocalSnapshot(withTimestamp, lastSnapRef.current);
   }, [store]);
 
   /** 远端数据合并进本地（本地优先：保留本地最新编辑，远端独有补入）；返回是否发生了合并 */
@@ -395,7 +474,11 @@ export function useNotes() {
 
   // 页面关闭/刷新前同步落盘（本地为主；云端更新靠手动同步 + 每日 18:40，减少交互）
   useEffect(() => {
-    const flush = () => safeSetItem(STORAGE_KEY, JSON.stringify(storeRef.current));
+    const flush = () => {
+      const json = JSON.stringify(storeRef.current);
+      safeSetItem(STORAGE_KEY, json);
+      safeSetItem(LAST_GOOD_KEY, json);
+    };
     window.addEventListener('beforeunload', flush);
     window.addEventListener('pagehide', flush);
     window.addEventListener('visibilitychange', () => {
