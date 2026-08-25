@@ -103,7 +103,9 @@ export function searchWords(
   const q = query.trim().toLowerCase();
   if (!q) return [];
 
-  const inScope = (row: IndexedWord) => !textbook || row.textbook === textbook;
+  // 教材筛选时，「我的词根」词（textbook='user'）恒显示——它们不归具体教材，但属于用户的个人词本
+  const inScope = (row: IndexedWord) =>
+    !textbook || row.textbook === textbook || row.textbook === 'user';
 
   // 相关性排序：完全匹配 > 词首匹配 > 词内包含 > 仅释义/助记命中；同分按词频降序
   const hits = index
