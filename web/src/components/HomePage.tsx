@@ -20,8 +20,6 @@ interface HomePageProps {
   updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
-  /** 手动同步云端（上传本地 + 下载合并，返回结果提示） */
-  onSyncNow: () => Promise<{ ok: boolean; msg: string }>;
   /** 词根顺序（教材/我的 → id 列表；首页拖动排序） */
   familyOrder: Record<string, string[]>;
   setFamilyOrder: (groupKey: string, ids: string[]) => void;
@@ -45,7 +43,6 @@ export function HomePage({
   updateUserFamily,
   removeUserFamily,
   getUserFamilyWords,
-  onSyncNow,
   familyOrder,
   setFamilyOrder,
   wordbookCount,
@@ -61,7 +58,6 @@ export function HomePage({
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
   const [affixOverlayKind, setAffixOverlayKind] = useState<AffixKind>('suffix');
   const [backupMsg, setBackupMsg] = useState('');
-  const [syncing, setSyncing] = useState(false);
   const [createOpen, setCreateOpen] = useState(false);
   const [newRootName, setNewRootName] = useState('');
   const [newRootZh, setNewRootZh] = useState('');
@@ -447,21 +443,6 @@ export function HomePage({
           </button>
           <button type="button" className="hero-action" onClick={() => setCreateOpen(true)}>
             ＋ 新建词根
-          </button>
-          <button
-            type="button"
-            className="hero-action subtle"
-            onClick={async () => {
-              if (syncing) return;
-              setSyncing(true);
-              const res = await onSyncNow();
-              setSyncing(false);
-              setBackupMsg(res.msg);
-              window.setTimeout(() => setBackupMsg(''), 4000);
-            }}
-            disabled={syncing}
-          >
-            {syncing ? '同步中…' : '☁️ 同步'}
           </button>
           <button type="button" className="hero-action subtle" onClick={downloadNotesBackup}>
             导出笔记

@@ -95,6 +95,18 @@ function App() {
 
   const [updateAvailable, setUpdateAvailable] = useState(false);
   const [offline, setOffline] = useState(false);
+  /** 悬浮同步按钮状态 */
+  const [syncState, setSyncState] = useState<'idle' | 'syncing' | 'done' | 'error'>('idle');
+  const [syncMsg, setSyncMsg] = useState('');
+
+  const handleSync = async () => {
+    if (syncState === 'syncing') return;
+    setSyncState('syncing');
+    const res = await syncNow();
+    setSyncState(res.ok ? 'done' : 'error');
+    setSyncMsg(res.msg);
+    window.setTimeout(() => setSyncState('idle'), 3000);
+  };
 
   // Service Worker 新版本检测（App 感：发现新版本提示刷新）
   useEffect(() => {
@@ -211,7 +223,6 @@ function App() {
           updateUserFamily={updateUserFamily}
           removeUserFamily={removeUserFamily}
           getUserFamilyWords={getUserFamilyWords}
-          onSyncNow={syncNow}
           familyOrder={getFamilyOrder()}
           setFamilyOrder={setFamilyOrder}
           wordbookCount={wordbook.entries.length}
@@ -229,6 +240,22 @@ function App() {
   return (
     <>
       {page}
+
+      {syncState !== 'idle' && (
+        <div className={`sync-float-toast ${syncState === 'error' ? 'is-error' : ''}`} role="status">
+          {syncState === 'syncing' ? '正在同步…' : syncMsg}
+        </div>
+      )}
+      <button
+        type="button"
+        className={`sync-float-btn ${syncState === 'syncing' ? 'is-syncing' : ''}`}
+        onClick={handleSync}
+        title={syncState === 'syncing' ? '同步中…' : '同步到云端'}
+        aria-label="同步到云端"
+      >
+        {syncState === 'syncing' ? '⏳' : '☁️'}
+      </button>
+
       {updateAvailable && (
         <div className="app-toast">
           <span>发现新版本</span>
