@@ -34,6 +34,26 @@ function saveWordbook(entries: WordbookEntry[]): void {
   }
 }
 
+/** 合并保存：本页最新优先 + localStorage 现有词条补充（其他标签页新增不丢） */
+function saveWordbookMerged(next: WordbookEntry[]): void {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    const cur = raw ? JSON.parse(raw) : [];
+    if (Array.isArray(cur)) {
+      const seen = new Set(next.map((e) => e.word));
+      const merged = [...next];
+      for (const e of cur) {
+        if (!seen.has(e.word)) merged.push(e);
+      }
+      saveWordbook(merged);
+      return;
+    }
+  } catch {
+    /* ignore */
+  }
+  saveWordbook(next);
+}
+
 export function useWordbook() {
   const [entries, setEntries] = useState<WordbookEntry[]>(loadWordbook);
 
@@ -52,12 +72,24 @@ export function useWordbook() {
     setEntries((prev) => {
       if (prev.some((e) => e.word === word)) return prev;
       const next = [{ word, addedAt: Date.now(), ...meta }, ...prev];
-      saveWordbook(next);
+      saveWordbookMerged(next);
       return next;
     });
   }, []);
 
   const removeWord = useCallback((word: string) => {
+    // 同步从 localStorage 删除该词（防合并保存"复活"）
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const cur = JSON.parse(raw);
+        if (Array.isArray(cur)) {
+          saveWordbook(cur.filter((e: WordbookEntry) => e.word !== word));
+        }
+      }
+    } catch {
+      /* ignore */
+    }
     setEntries((prev) => {
       const next = prev.filter((e) => e.word !== word);
       saveWordbook(next);

@@ -14,9 +14,30 @@ export function useProgress() {
     }
   });
 
+  // 保存时与 localStorage 合并（其他标签页的进度保留，本页最新优先）
   useEffect(() => {
-    safeSetItem(STORAGE_KEY, JSON.stringify(progress));
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      const cur = raw ? JSON.parse(raw) : {};
+      safeSetItem(STORAGE_KEY, JSON.stringify({ ...cur, ...progress }));
+    } catch {
+      safeSetItem(STORAGE_KEY, JSON.stringify(progress));
+    }
   }, [progress]);
+
+  // 跨标签页同步：其他标签页更新进度时刷新
+  useEffect(() => {
+    const onStorage = () => {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        setProgress(raw ? (JSON.parse(raw) as ProgressState) : {});
+      } catch {
+        /* ignore */
+      }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
+  }, []);
 
   const getStatus = useCallback(
     (key: string): WordStatus => progress[key] ?? 'new',

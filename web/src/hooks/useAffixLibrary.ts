@@ -205,9 +205,38 @@ function load(): AffixItem[] {
 export function useAffixLibrary() {
   const [items, setItems] = useState<AffixItem[]>(load);
 
+  // 保存时与 localStorage 合并（其他标签页新增的词缀保留，本页最新优先）；删除同步清理防复活
   useEffect(() => {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      const cur = raw ? (JSON.parse(raw) as AffixItem[]) : [];
+      if (Array.isArray(cur)) {
+        const byId = new Map(items.map((i) => [i.id, i]));
+        for (const c of cur) {
+          if (!byId.has(c.id)) byId.set(c.id, c);
+        }
+        safeSetItem(STORAGE_KEY, JSON.stringify([...byId.values()]));
+        return;
+      }
+    } catch {
+      /* ignore */
+    }
     safeSetItem(STORAGE_KEY, JSON.stringify(items));
   }, [items]);
+
+  // 跨标签页同步：其他标签页更新词缀库时刷新
+  useEffect(() => {
+    const onStorage = () => {
+      try {
+        const raw = localStorage.getItem(STORAGE_KEY);
+        if (raw) setItems(JSON.parse(raw) as AffixItem[]);
+      } catch {
+        /* ignore */
+      }
+    };
+    window.addEventListener('storage', onStorage);
+    return () => window.removeEventListener('storage', onStorage);
+  }, []);
 
   const getItem = useCallback((id: string) => items.find((i) => i.id === id), [items]);
 
@@ -224,6 +253,21 @@ export function useAffixLibrary() {
   }, []);
 
   const removeItem = useCallback((id: string) => {
+    // 同步从 localStorage 删除（防合并保存"复活"）
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const cur = JSON.parse(raw) as AffixItem[];
+        if (Array.isArray(cur)) {
+          safeSetItem(
+            STORAGE_KEY,
+            JSON.stringify(cur.filter((i) => i.id !== id && i.parentId !== id)),
+          );
+        }
+      }
+    } catch {
+      /* ignore */
+    }
     setItems((prev) => {
       const orphans = prev.filter((i) => i.parentId === id).map((i) => i.id);
       return prev

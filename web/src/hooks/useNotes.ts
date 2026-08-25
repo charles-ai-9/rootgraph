@@ -240,11 +240,22 @@ export function useNotes() {
       const raw = localStorage.getItem(STORAGE_KEY);
       if (raw) {
         const current = JSON.parse(raw) as Partial<NotesStore>;
+        const cur = (k: keyof NotesStore) => (current as Record<string, unknown>)[k] ?? {};
+        // 全字段合并持久化：本页最新（store）优先 + localStorage 现有（current）补充。
+        // 保证「任何编辑都不丢失」：本页刚编辑的值写入（编辑生效），其他标签页/旧数据里
+        // 本页没有的键保留（不覆盖丢失）；删除操作同步清理 localStorage，不会"复活"。
         const merged = {
           ...store,
-          userFamilies: { ...store.userFamilies, ...(current.userFamilies ?? {}) },
-          userFamilyWords: { ...store.userFamilyWords, ...(current.userFamilyWords ?? {}) },
-          familyMeta: { ...store.familyMeta, ...(current.familyMeta ?? {}) },
+          families: { ...(cur('families') as object), ...store.families },
+          words: { ...(cur('words') as object), ...store.words },
+          affixNotes: { ...(cur('affixNotes') as object), ...store.affixNotes },
+          wordFields: { ...(cur('wordFields') as object), ...store.wordFields },
+          videoMap: { ...(cur('videoMap') as object), ...store.videoMap },
+          familyMeta: { ...(cur('familyMeta') as object), ...store.familyMeta },
+          userFamilies: { ...(cur('userFamilies') as object), ...store.userFamilies },
+          userFamilyWords: { ...(cur('userFamilyWords') as object), ...store.userFamilyWords },
+          familyOrder: { ...(cur('familyOrder') as object), ...store.familyOrder },
+          wordOrder: { ...(cur('wordOrder') as object), ...store.wordOrder },
           updatedAt: now,
         };
         safeSetItem(STORAGE_KEY, JSON.stringify(merged));
