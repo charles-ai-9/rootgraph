@@ -331,6 +331,13 @@ export function useNotes() {
         /* ignore */
       }
     }
+    // 记录本次同步时间（拉取合并成功）
+    try {
+      localStorage.setItem('rootgraph-last-sync-time', String(Date.now()));
+      window.dispatchEvent(new Event('rootgraph-synced'));
+    } catch {
+      /* ignore */
+    }
     // 合并：笔记类按 key 级时间戳（touchMap）逐条取最新——A 设备改的条目在 B 设备上也能拉到；
     // 词根/顺序类保持本地优先（追加型数据，并集最安全）。
     const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
@@ -398,6 +405,12 @@ export function useNotes() {
       // 下载合并（本地优先，防远端旧数据覆盖）
       const remote = await downloadRemote();
       if (remote) mergeRemote(remote);
+      try {
+        localStorage.setItem('rootgraph-last-sync-time', String(Date.now()));
+        window.dispatchEvent(new Event('rootgraph-synced'));
+      } catch {
+        /* ignore */
+      }
       return {
         ok: true,
         msg: `已同步 ${new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`,
