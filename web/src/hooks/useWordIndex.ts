@@ -76,6 +76,24 @@ export function useWordIndex() {
   return { index, ready, error };
 }
 
+/** 编辑距离（Levenshtein），超过 max 提前截断 */
+function editDistance(a: string, b: string, max = 2): number {
+  if (Math.abs(a.length - b.length) > max) return max + 1;
+  let prev = Array.from({ length: b.length + 1 }, (_, i) => i);
+  for (let i = 1; i <= a.length; i++) {
+    const cur = [i];
+    for (let j = 1; j <= b.length; j++) {
+      cur[j] = Math.min(
+        prev[j] + 1,
+        cur[j - 1] + 1,
+        prev[j - 1] + (a[i - 1] === b[j - 1] ? 0 : 1),
+      );
+    }
+    prev = cur;
+  }
+  return prev[b.length];
+}
+
 export function searchWords(
   index: IndexedWord[],
   query: string,
@@ -85,10 +103,12 @@ export function searchWords(
   const q = query.trim().toLowerCase();
   if (!q) return [];
 
+  const inScope = (row: IndexedWord) => !textbook || row.textbook === textbook;
+
   // 相关性排序：完全匹配 > 词首匹配 > 词内包含 > 仅释义/助记命中；同分按词频降序
-  return index
+  const hits = index
     .filter((row) => {
-      if (textbook && row.textbook !== textbook) return false;
+      if (!inScope(row)) return false;
       const hay = [row.word, row.phonetic, row.pos, row.definition, row.mnemonic]
         .filter(Boolean)
         .join(' ')
@@ -112,6 +132,25 @@ export function searchWords(
     )
     .slice(0, limit)
     .map((x) => x.row);
+
+  // 拼写容错：无包含命中且输入较长时，用编辑距离 ≤1 找相近词（如 judgement ↔ judgment）
+  if (hits.length === 0 && q.length >= 4) {
+    return index
+      .filter((row) => {
+        if (!inScope(row)) return false;
+        const w = row.word.toLowerCase();
+        if (Math.abs(w.length - q.length) > 1) return false;
+        return editDistance(w, q, 1) <= 1;
+      })
+      .sort(
+        (a, b) =>
+          editDistance(a.word.toLowerCase(), q, 1) - editDistance(b.word.toLowerCase(), q, 1)
+          || (b.frequency ?? 0) - (a.frequency ?? 0),
+      )
+      .slice(0, limit);
+  }
+
+  return hits;
 }
 
 export type AffixScope = 'family' | 'textbook' | 'all';
