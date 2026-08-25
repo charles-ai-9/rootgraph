@@ -1049,13 +1049,14 @@ export function FamilyNotePage({
                 autoFocus
                 placeholder="如 1-03"
                 defaultValue={videoId}
-                onBlur={(e) => {
+                onChange={(e) => {
+                  // 输入即保存：无论 Enter/失焦/Esc/直接离开，视频号都已落盘
                   setVideoId(fKey, e.target.value);
-                  setEditingVideo(false);
                 }}
+                onBlur={() => setEditingVideo(false)}
                 onKeyDown={(e) => {
                   if (e.key === 'Enter') (e.target as HTMLInputElement).blur();
-                  if (e.key === 'Escape') setEditingVideo(false);
+                  if (e.key === 'Escape') (e.target as HTMLInputElement).blur();
                 }}
               />
             ) : (
