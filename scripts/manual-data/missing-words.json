@@ -16,6 +16,22 @@
         "examples": [],
         "rootHint": "dict"
       }
+    ],
+    "spect": [
+      {
+        "word": "respect",
+        "phonetic": "rɪˈspɛkt",
+        "pos": "n.",
+        "definition": "尊重；尊敬；方面",
+        "mnemonic": "re-(再次)+spect(看)→反复看→重视→尊重",
+        "collocations": [
+          "show respect for: 对……表示尊重",
+          "in respect of: 关于；就……而言"
+        ],
+        "etymology": "来自拉丁语 respicere（回头看），re-(回)+specere(看)。",
+        "examples": [],
+        "rootHint": "spect"
+      }
     ]
   }
 }
