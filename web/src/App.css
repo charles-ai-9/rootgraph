@@ -6162,3 +6162,113 @@ textarea {
   border-color: #dc2626;
   background: #fef2f2;
 }
+
+/* ── 新建单词表单 ── */
+.add-word-section {
+  margin-top: 12px;
+  margin-bottom: 8px;
+}
+
+.add-word-btn {
+  display: block;
+  width: 100%;
+  padding: 12px;
+  font-size: 0.9rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px dashed var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.add-word-btn:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.add-word-form {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  padding: 14px;
+  background: var(--surface);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+}
+
+.add-word-input {
+  padding: 8px 12px;
+  font-size: 0.9rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  transition: border-color 0.15s;
+}
+
+.add-word-input:focus {
+  border-color: var(--accent);
+}
+
+.add-word-input-secondary {
+  font-size: 0.85rem;
+  color: var(--text-secondary);
+}
+
+.add-word-textarea {
+  padding: 8px 12px;
+  font-size: 0.85rem;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  background: var(--surface);
+  color: var(--text);
+  outline: none;
+  resize: vertical;
+  font-family: inherit;
+  transition: border-color 0.15s;
+}
+
+.add-word-textarea:focus {
+  border-color: var(--accent);
+}
+
+.add-word-actions {
+  display: flex;
+  gap: 8px;
+  margin-top: 4px;
+}
+
+.add-word-submit {
+  padding: 6px 18px;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border: none;
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: opacity 0.15s;
+}
+
+.add-word-submit:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.add-word-cancel {
+  padding: 6px 14px;
+  font-size: 0.85rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.add-word-cancel:hover {
+  border-color: var(--text-muted);
+}

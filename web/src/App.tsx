@@ -74,7 +74,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, getUserFamilyWords, getFamilyOrder, setFamilyOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, getFamilyOrder, setFamilyOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
   const wordbook = useWordbook();
 
@@ -170,6 +170,7 @@ function App() {
           userFamilies={getUserFamilies()}
           createUserFamily={createUserFamily}
           moveWordsToUserFamily={moveWordsToUserFamily}
+          addWordToUserFamily={addWordToUserFamily}
           removeWordFromUserFamily={removeWordFromUserFamily}
           getUserFamilyWords={getUserFamilyWords}
           getWordNote={getWordNote}

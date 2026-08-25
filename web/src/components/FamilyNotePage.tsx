@@ -48,6 +48,7 @@ interface FamilyNotePageProps {
   userFamilies: Record<string, UserFamily>;
   createUserFamily: (data: Omit<UserFamily, 'createdAt'>) => void;
   moveWordsToUserFamily: (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => void;
+  addWordToUserFamily: (familyId: string, word: WordEntry) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
 }
@@ -82,6 +83,7 @@ export function FamilyNotePage({
   userFamilies,
   createUserFamily,
   moveWordsToUserFamily,
+  addWordToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
 }: FamilyNotePageProps) {
@@ -116,6 +118,10 @@ export function FamilyNotePage({
   const [metaSemanticText, setMetaSemanticText] = useState('');
   const [metaMeaningZhText, setMetaMeaningZhText] = useState('');
   const [metaMeaningEnText, setMetaMeaningEnText] = useState('');
+  const [addWordOpen, setAddWordOpen] = useState(false);
+  const [newWordText, setNewWordText] = useState('');
+  const [newWordDef, setNewWordDef] = useState('');
+  const [newWordPhonetic, setNewWordPhonetic] = useState('');
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const lastTopTapRef = useRef(0);
@@ -542,6 +548,102 @@ export function FamilyNotePage({
     );
   };
 
+  /** 新建单词：挂入当前词根族（通过用户词根族中转） */
+  const handleAddWord = () => {
+    const word = newWordText.trim().toLowerCase();
+    if (!word || !family) return;
+    const roots = effectiveRoots ?? family.roots;
+    if (!roots.length) return;
+    // 找同 roots 的用户词根族，没有就新建
+    const rootsKey = [...roots].sort().join('|');
+    let targetId = '';
+    for (const uf of Object.values(userFamilies)) {
+      if ([...(uf.roots ?? [])].sort().join('|') === rootsKey) {
+        targetId = uf.id;
+        break;
+      }
+    }
+    if (!targetId) {
+      targetId = roots[0];
+      if (!userFamilies[targetId]) {
+        createUserFamily({
+          id: targetId,
+          roots: [...roots],
+          meaningZh: family.meaningZh ?? entry.meaningZh ?? '',
+          meaningEn: family.meaningEn ?? entry.meaningEn ?? '',
+          textbook: entry.source === 'user' ? entry.textbook : undefined,
+        });
+      }
+    }
+    const newEntry: WordEntry = {
+      word,
+      phonetic: newWordPhonetic.trim() || undefined,
+      definition: newWordDef.trim() || undefined,
+      collocations: [],
+      examples: [],
+    };
+    addWordToUserFamily(targetId, newEntry);
+    setAddWordOpen(false);
+    setNewWordText('');
+    setNewWordDef('');
+    setNewWordPhonetic('');
+  };
+
+  const renderAddWordForm = () => (
+    <div className="add-word-section">
+      {addWordOpen ? (
+        <div className="add-word-form">
+          <input
+            className="add-word-input"
+            placeholder="单词（必填）"
+            value={newWordText}
+            onChange={(e) => setNewWordText(e.target.value)}
+            autoFocus
+          />
+          <input
+            className="add-word-input add-word-input-secondary"
+            placeholder="音标（可选）"
+            value={newWordPhonetic}
+            onChange={(e) => setNewWordPhonetic(e.target.value)}
+          />
+          <textarea
+            className="add-word-textarea"
+            placeholder="释义（可选）"
+            value={newWordDef}
+            onChange={(e) => setNewWordDef(e.target.value)}
+            rows={2}
+          />
+          <div className="add-word-actions">
+            <button
+              type="button"
+              className="add-word-submit"
+              disabled={!newWordText.trim()}
+              onClick={handleAddWord}
+            >
+              保存
+            </button>
+            <button
+              type="button"
+              className="add-word-cancel"
+              onClick={() => {
+                setAddWordOpen(false);
+                setNewWordText('');
+                setNewWordDef('');
+                setNewWordPhonetic('');
+              }}
+            >
+              取消
+            </button>
+          </div>
+        </div>
+      ) : (
+        <button type="button" className="add-word-btn" onClick={() => setAddWordOpen(true)}>
+          ＋ 新建单词
+        </button>
+      )}
+    </div>
+  );
+
   const renderWordCards = (words: WordEntry[], panelKey: string) => (
     <div className="word-list">
       {words.map((w, index) => (
@@ -914,6 +1016,7 @@ export function FamilyNotePage({
                   {renderWordCards(words, root)}
                 </section>
               ))}
+              {renderAddWordForm()}
             </>
           )}
 
@@ -934,6 +1037,7 @@ export function FamilyNotePage({
                 <span className="variant-panel-meta">{activeWords.length} 词</span>
               </header>
               {renderWordCards(activeWords, activePanel)}
+              {renderAddWordForm()}
               <VariantStepper
                 tabs={variantTabs}
                 active={activePanel}

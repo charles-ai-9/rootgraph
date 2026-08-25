@@ -304,6 +304,21 @@ export function useNotes() {
     });
   }, []);
 
+  /** 新建单词挂入用户词根族（无 _from，纯新增） */
+  const addWordToUserFamily = useCallback((familyId: string, word: WordEntry) => {
+    setStore((prev) => {
+      const existing = new Set((prev.userFamilyWords[familyId] ?? []).map((w) => w.word));
+      if (existing.has(word.word)) return prev;
+      return {
+        ...prev,
+        userFamilyWords: {
+          ...prev.userFamilyWords,
+          [familyId]: [...(prev.userFamilyWords[familyId] ?? []), word],
+        },
+      };
+    });
+  }, []);
+
   const removeWordFromUserFamily = useCallback((familyId: string, word: string) => {
     setStore((prev) => {
       const list = (prev.userFamilyWords[familyId] ?? []).filter((w) => w.word !== word);
@@ -483,6 +498,7 @@ export function useNotes() {
     updateUserFamily,
     removeUserFamily,
     moveWordsToUserFamily,
+    addWordToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
     getFamilyOrder,
