@@ -209,7 +209,20 @@ export function WordSearchResults({
           );
         })}
       </div>
-
+      {(() => {
+        const word = query.trim().toLowerCase();
+        const exactHit = hits.some((h) => h.word === word);
+        const inWordbook = hasInWordbook?.(word) ?? false;
+        if (exactHit || inWordbook) return null;
+        return (
+          <button type="button" className="word-search-add-wordbook-inline" onClick={handleAddToWordbook}>
+            ＋ 将「{word}」加入单词本
+          </button>
+        );
+      })()}
+      {addedToast && (
+        <p className="word-search-added-toast">已加入单词本：{addedToast}</p>
+      )}
     </section>
   );
 }

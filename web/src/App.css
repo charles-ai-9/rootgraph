@@ -5955,6 +5955,26 @@ textarea {
   color: #fff;
 }
 
+.word-search-add-wordbook-inline {
+  display: block;
+  width: 100%;
+  margin-top: 12px;
+  padding: 10px 14px;
+  font-size: 0.88rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px dashed var(--accent);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.word-search-add-wordbook-inline:hover {
+  background: var(--accent);
+  color: #fff;
+  border-style: solid;
+}
+
 .word-search-in-wordbook {
   color: var(--text-muted);
   font-size: 0.85rem;
