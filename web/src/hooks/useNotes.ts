@@ -14,6 +14,7 @@ export interface WordFieldOverrides {
   phonetic?: string; // 用户自定义音标（覆盖数据层音标）
   definition?: string; // 用户自定义释义（覆盖数据层释义）
   pos?: string; // 用户自定义词性（覆盖数据层词性，如 "vt./n."）
+  senses?: { pos: string; definition: string }[]; // 多词性释义（词典风格：每个词性对应各自的解释）
 }
 
 /** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
@@ -857,6 +858,22 @@ export function useNotes() {
     }));
   }, []);
 
+  const getWordSenses = useCallback(
+    (key: string): { pos: string; definition: string }[] | undefined => store.wordFields[key]?.senses,
+    [store],
+  );
+
+  const setWordSenses = useCallback((key: string, senses: { pos: string; definition: string }[]) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], senses },
+      },
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));
+  }, []);
+
   /** 删除单词（本地隐藏，显示过滤；数据保留可导出恢复） */
   const hideWord = useCallback((key: string) => {
     setStore((prev) => ({
@@ -968,6 +985,8 @@ export function useNotes() {
     setWordDefinition,
     getWordPos,
     setWordPos,
+    getWordSenses,
+    setWordSenses,
     hideWord,
     unhideWord,
     getHiddenWords,

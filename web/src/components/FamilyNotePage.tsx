@@ -41,6 +41,8 @@ interface FamilyNotePageProps {
   setWordPhonetic: (key: string, text: string) => void;
   getWordPos: (key: string, seed?: string) => string;
   setWordPos: (key: string, text: string) => void;
+  getWordSenses: (key: string) => { pos: string; definition: string }[] | undefined;
+  setWordSenses: (key: string, senses: { pos: string; definition: string }[]) => void;
   getWordDefinition: (key: string, seed?: string) => string;
   setWordDefinition: (key: string, text: string) => void;
   hideWord: (key: string) => void;
@@ -86,6 +88,8 @@ export function FamilyNotePage({
   setWordPhonetic,
   getWordPos,
   setWordPos,
+  getWordSenses,
+  setWordSenses,
   getWordDefinition,
   setWordDefinition,
   hideWord,
@@ -152,7 +156,7 @@ export function FamilyNotePage({
   const [editWordText, setEditWordText] = useState('');
   const [editPhonetic, setEditPhonetic] = useState('');
   const [editDefinition, setEditDefinition] = useState('');
-  const [editPos, setEditPos] = useState('');
+  const [editSenses, setEditSenses] = useState<{ pos: string; definition: string }[]>([]);
   const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
   const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
   const wordDragState = useRef<{ fromIdx: number; startY: number; itemH: number; panel: string } | null>(null);
@@ -546,6 +550,7 @@ export function FamilyNotePage({
       etymologyNote: getWordEtymology(wKey, w.etymology ?? ''),
       definitionOverride: getWordDefinition(wKey, w.definition ?? ''),
       posOverride: getWordPos(wKey, w.pos ?? ''),
+      sensesOverride: getWordSenses(wKey),
       affixNotes: getWordAffixNotes(wKey),
       items,
       getItem,
@@ -566,7 +571,12 @@ export function FamilyNotePage({
         setEditWordText(word.word);
         setEditPhonetic(getWordPhonetic(k, word.phonetic ?? ''));
         setEditDefinition(getWordDefinition(k, word.definition ?? ''));
-        setEditPos(getWordPos(k, word.pos ?? ''));
+        const existingSenses = getWordSenses(k);
+        if (existingSenses && existingSenses.length > 0) {
+          setEditSenses(existingSenses.map((x) => ({ ...x })));
+        } else {
+          setEditSenses([{ pos: getWordPos(k, word.pos ?? ''), definition: getWordDefinition(k, word.definition ?? '') }]);
+        }
       },
       onDeleteWord: (word) => {
         const k = wordKey(entry.textbook, family!.id, word.word);
@@ -1377,16 +1387,48 @@ export function FamilyNotePage({
                 </button>
               </header>
               <div className="word-edit-field">
-                <label htmlFor="word-edit-pos">词性（如 vt./n.）</label>
-                <input
-                  id="word-edit-pos"
-                  className="word-edit-input"
-                  value={editPos}
-                  onChange={(e) => setEditPos(e.target.value)}
-                  placeholder="vt./n."
-                  spellCheck={false}
-                  autoCorrect="off"
-                />
+                <label>词性与释义（词典风格，每个词性对应各自的解释）</label>
+                {editSenses.map((sense, idx) => (
+                  <div key={idx} className="word-sense-row">
+                    <input
+                      className="word-edit-input word-sense-pos"
+                      value={sense.pos}
+                      onChange={(e) => {
+                        const next = [...editSenses];
+                        next[idx] = { ...next[idx], pos: e.target.value };
+                        setEditSenses(next);
+                      }}
+                      placeholder="vt."
+                      spellCheck={false}
+                      autoCorrect="off"
+                    />
+                    <input
+                      className="word-edit-input word-sense-def"
+                      value={sense.definition}
+                      onChange={(e) => {
+                        const next = [...editSenses];
+                        next[idx] = { ...next[idx], definition: e.target.value };
+                        setEditSenses(next);
+                      }}
+                      placeholder="系；把……打成结…"
+                    />
+                    <button
+                      type="button"
+                      className="word-sense-del"
+                      title="删除该词性"
+                      onClick={() => setEditSenses((prev) => prev.filter((_, i) => i !== idx))}
+                    >
+                      ✕
+                    </button>
+                  </div>
+                ))}
+                <button
+                  type="button"
+                  className="word-sense-add"
+                  onClick={() => setEditSenses((prev) => [...prev, { pos: '', definition: '' }])}
+                >
+                  ＋ 添加词性
+                </button>
               </div>
               <div className="word-edit-field">
                 <label htmlFor="word-edit-phonetic">音标</label>
@@ -1416,10 +1458,22 @@ export function FamilyNotePage({
                   className="word-edit-save"
                   onClick={() => {
                     setWordPhonetic(wKey, editPhonetic.trim());
-                    setWordDefinition(wKey, editDefinition.trim());
-                    setWordPos(wKey, editPos.trim());
+                    const cleaned = editSenses
+                      .map((x) => ({ pos: x.pos.trim(), definition: x.definition.trim() }))
+                      .filter((x) => x.pos || x.definition);
+                    if (cleaned.length > 0) {
+                      setWordSenses(wKey, cleaned);
+                      // 同步 pos / 整体释义（兼容非 senses 展示场景）
+                      setWordPos(wKey, cleaned.map((x) => x.pos).filter(Boolean).join('/'));
+                      setWordDefinition(
+                        wKey,
+                        cleaned.map((x) => (x.pos ? `${x.pos} ${x.definition}` : x.definition)).join(' '),
+                      );
+                    } else {
+                      setWordSenses(wKey, []);
+                    }
                     setEditWordKey(null);
-                    setBatchToast(`已保存 ${editWordText} 的音标/解释`);
+                    setBatchToast(`已保存 ${editWordText}`);
                     window.setTimeout(() => setBatchToast(''), 2600);
                   }}
                 >

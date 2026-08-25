@@ -49,6 +49,7 @@ export interface WordCardProps {
   editMode?: boolean;
   definitionOverride?: string;
   posOverride?: string;
+  sensesOverride?: { pos: string; definition: string }[];
   onEditWord?: (word: WordEntry) => void;
   onDeleteWord?: (word: WordEntry) => void;
   selected?: boolean;
@@ -113,6 +114,7 @@ export function WordCard({
   editMode,
   definitionOverride,
   posOverride,
+  sensesOverride,
   onEditWord,
   onDeleteWord,
 }: WordCardProps) {
@@ -361,10 +363,23 @@ export function WordCard({
               )}
             </div>
 
-            {(word.pos || word.definition || definitionOverride || posOverride) && (
+            {(word.pos || word.definition || definitionOverride || posOverride || sensesOverride?.length) && (
               <div className="word-card-def">
-                {(word.pos || posOverride) && <span className="pos-tag">{posOverride || word.pos}</span>}
-                <span className="word-def-text">{definitionOverride || word.definition}</span>
+                {sensesOverride && sensesOverride.length > 0 ? (
+                  <div className="word-senses">
+                    {sensesOverride.map((sense, i) => (
+                      <div key={i} className="word-sense-item">
+                        {sense.pos && <span className="pos-tag">{sense.pos}</span>}
+                        <span className="word-def-text">{sense.definition}</span>
+                      </div>
+                    ))}
+                  </div>
+                ) : (
+                  <>
+                    {(word.pos || posOverride) && <span className="pos-tag">{posOverride || word.pos}</span>}
+                    <span className="word-def-text">{definitionOverride || word.definition}</span>
+                  </>
+                )}
                 {word.frequency != null && (
                   <span className="freq-tag">词频 {word.frequency}</span>
                 )}
