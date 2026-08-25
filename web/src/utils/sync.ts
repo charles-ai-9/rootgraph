@@ -3,8 +3,9 @@
  * 整块 JSON + last-write-wins + 静态 token 认证
  */
 
-// 部署 Worker 后填入实际地址和 token
-const SYNC_URL = 'https://rootgraph-sync.641470960.workers.dev/api/sync';
+// 同步 API 挂载在同域 Pages Functions 下（rootgraph.pages.dev/api/sync），
+// 避免 workers.dev 在国内被 DNS 污染的问题
+const SYNC_URL = '/api/sync';
 const SYNC_TOKEN = 'rg_sync_2026_k8m3p7q2x9w4';
 
 let uploadTimer: ReturnType<typeof setTimeout> | null = null;
