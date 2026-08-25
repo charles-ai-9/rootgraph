@@ -6575,3 +6575,147 @@ textarea {
   bottom: auto;
   right: auto;
 }
+
+/* ══ 单词编辑模式（✏️ 编辑音标/释义、🗑 删除） ══ */
+.word-edit-actions-inline {
+  display: inline-flex;
+  align-items: center;
+  gap: 2px;
+  flex-shrink: 0;
+}
+
+.word-edit-inline-btn {
+  width: 36px;
+  height: 36px;
+  border: none;
+  border-radius: 8px;
+  background: none;
+  font-size: 0.95rem;
+  cursor: pointer;
+  transition: background 0.12s;
+}
+
+.word-edit-inline-btn:hover {
+  background: var(--accent-soft);
+}
+
+.word-edit-inline-btn.is-danger:hover {
+  background: var(--danger-soft, rgba(221, 51, 51, 0.08));
+}
+
+/* 编辑面板 */
+.word-edit-backdrop {
+  position: fixed;
+  inset: 0;
+  z-index: 210;
+  background: rgba(15, 23, 42, 0.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  animation: rootgraph-backdrop-in 0.18s ease-out;
+}
+
+.word-edit-panel {
+  width: min(420px, 100%);
+  padding: 16px 18px;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 12px 40px rgba(15, 23, 42, 0.18);
+  animation: rootgraph-sheet-in 0.24s ease-out;
+}
+
+.word-edit-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+
+.word-edit-title {
+  margin: 0;
+  font-size: 1.05rem;
+  font-weight: 650;
+}
+
+.word-edit-close {
+  width: 34px;
+  height: 34px;
+  border: none;
+  border-radius: 50%;
+  background: none;
+  color: var(--text-light);
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.word-edit-close:hover {
+  background: var(--bg-soft, rgba(0, 0, 0, 0.05));
+}
+
+.word-edit-field {
+  margin-bottom: 12px;
+}
+
+.word-edit-field label {
+  display: block;
+  margin-bottom: 4px;
+  font-size: 0.82rem;
+  color: var(--text-light);
+}
+
+.word-edit-input,
+.word-edit-textarea {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 9px 11px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  font-size: 0.92rem;
+  background: var(--bg-soft, #f8fafc);
+  color: var(--text);
+  outline: none;
+}
+
+.word-edit-input:focus,
+.word-edit-textarea:focus {
+  border-color: var(--accent);
+  background: #fff;
+}
+
+.word-edit-actions {
+  display: flex;
+  gap: 8px;
+  justify-content: flex-end;
+}
+
+.word-edit-save {
+  padding: 8px 18px;
+  border: none;
+  border-radius: 8px;
+  background: var(--accent);
+  color: #fff;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.word-edit-cancel {
+  padding: 8px 14px;
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  background: none;
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+@media (hover: none) {
+  .word-edit-inline-btn {
+    min-width: 44px;
+    min-height: 44px;
+  }
+  .word-edit-save,
+  .word-edit-cancel {
+    min-height: 44px;
+  }
+}

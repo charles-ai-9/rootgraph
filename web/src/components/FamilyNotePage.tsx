@@ -37,6 +37,12 @@ interface FamilyNotePageProps {
   setWordExamples: (key: string, examples: string[]) => void;
   getWordEtymology: (key: string, seed?: string) => string;
   setWordEtymology: (key: string, text: string) => void;
+  getWordPhonetic: (key: string, seed?: string) => string;
+  setWordPhonetic: (key: string, text: string) => void;
+  getWordDefinition: (key: string, seed?: string) => string;
+  setWordDefinition: (key: string, text: string) => void;
+  hideWord: (key: string) => void;
+  getHiddenWords: () => Record<string, boolean>;
   getWordAffixNotes: (key: string) => WordAffixNotes;
   setWordAffixNote: (key: string, kind: WordAffixKind, note: AffixNoteData) => void;
   items: AffixItem[];
@@ -74,6 +80,12 @@ export function FamilyNotePage({
   setWordExamples,
   getWordEtymology,
   setWordEtymology,
+  getWordPhonetic,
+  setWordPhonetic,
+  getWordDefinition,
+  setWordDefinition,
+  hideWord,
+  getHiddenWords,
   getWordAffixNotes,
   setWordAffixNote,
   items,
@@ -129,6 +141,13 @@ export function FamilyNotePage({
 
   /** 单词排序模式 */
   const [wordSortMode, setWordSortMode] = useState(false);
+  /** 单词编辑模式（修改音标/释义/删除） */
+  const [wordEditMode, setWordEditMode] = useState(false);
+  /** 正在编辑的单词（打开编辑面板） */
+  const [editWordKey, setEditWordKey] = useState<string | null>(null);
+  const [editWordText, setEditWordText] = useState('');
+  const [editPhonetic, setEditPhonetic] = useState('');
+  const [editDefinition, setEditDefinition] = useState('');
   const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
   const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
   const wordDragState = useRef<{ fromIdx: number; startY: number; itemH: number; panel: string } | null>(null);
@@ -306,6 +325,9 @@ export function FamilyNotePage({
   const familyMeta = getFamilyMeta(fKey);
   const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
 
+  /** 被删除（本地隐藏）的单词 */
+  const hiddenWords = getHiddenWords();
+
   /** 本族被挂入用户词根族的词（word → 目标我的词根），不再显示在本族但可跳转查看 */
   const movedWords = useMemo(() => {
     const map = new Map<string, { id: string; label: string }>();
@@ -327,7 +349,9 @@ export function FamilyNotePage({
 
   const groups = useMemo((): Map<string, WordEntry[]> => {
     if (!family || !effectiveRoots) return new Map<string, WordEntry[]>();
-    const visible = family.words.filter((w) => !movedWords.has(w.word));
+    const visible = family.words.filter(
+      (w) => !movedWords.has(w.word) && !hiddenWords[wordKey(entry.textbook, family.id, w.word)],
+    );
     return groupWordsByRoot(visible, effectiveRoots);
   }, [family, effectiveRoots, movedWords]);
 
@@ -515,6 +539,7 @@ export function FamilyNotePage({
       collocationsNote: getWordCollocations(wKey, w.collocations),
       examplesNote: getWordExamples(wKey, w.examples),
       etymologyNote: getWordEtymology(wKey, w.etymology ?? ''),
+      definitionOverride: getWordDefinition(wKey, w.definition ?? ''),
       affixNotes: getWordAffixNotes(wKey),
       items,
       getItem,
@@ -528,6 +553,21 @@ export function FamilyNotePage({
       onEtymologyNote: (text) => setWordEtymology(wKey, text),
       onAffixNote: (kind, note) => setWordAffixNote(wKey, kind, note),
       familyFrom: (w as UserFamilyWord)._from,
+      editMode: wordEditMode,
+      onEditWord: (word) => {
+        const k = wordKey(entry.textbook, family!.id, word.word);
+        setEditWordKey(k);
+        setEditWordText(word.word);
+        setEditPhonetic(getWordPhonetic(k, word.phonetic ?? ''));
+        setEditDefinition(getWordDefinition(k, word.definition ?? ''));
+      },
+      onDeleteWord: (word) => {
+        const k = wordKey(entry.textbook, family!.id, word.word);
+        if (window.confirm(`删除单词 ${word.word}？（本地隐藏，可在数据导出中找回）`)) {
+          hideWord(k);
+          if (entry.source === 'user') removeWordFromUserFamily(entry.id, word.word);
+        }
+      },
       onMoveBack:
         entry.source === 'user'
           ? (word) => {
@@ -974,6 +1014,17 @@ export function FamilyNotePage({
             >
               {wordSortMode ? '完成' : '⇅ 排序'}
             </button>
+            <button
+              type="button"
+              className={`note-topbar-sort-btn ${wordEditMode ? 'is-active' : ''}`}
+              onClick={() => {
+                setWordEditMode((v) => !v);
+                setEditWordKey(null);
+              }}
+              title="编辑单词（音标/释义/删除）"
+            >
+              {wordEditMode ? '完成' : '✏️ 编辑单词'}
+            </button>
             <button type="button" className="note-topbar-affix-btn" onClick={() => setAffixOverlayOpen(true)}>
               词根词缀库
             </button>
@@ -1300,6 +1351,68 @@ export function FamilyNotePage({
           onMoveViaCatalog={batchMoveViaCatalog}
         />
       )}
+
+      {editWordKey && family && (() => {
+        const wKey = editWordKey;
+        return (
+          <div className="word-edit-backdrop" onClick={() => setEditWordKey(null)} role="presentation">
+            <div
+              className="word-edit-panel"
+              role="dialog"
+              aria-modal="true"
+              aria-label={`编辑 ${editWordText}`}
+              onClick={(e) => e.stopPropagation()}
+            >
+              <header className="word-edit-head">
+                <h3 className="word-edit-title">编辑单词 · {editWordText}</h3>
+                <button type="button" className="word-edit-close" onClick={() => setEditWordKey(null)}>
+                  ✕
+                </button>
+              </header>
+              <div className="word-edit-field">
+                <label htmlFor="word-edit-phonetic">音标</label>
+                <input
+                  id="word-edit-phonetic"
+                  className="word-edit-input"
+                  value={editPhonetic}
+                  onChange={(e) => setEditPhonetic(e.target.value)}
+                  placeholder="rɪˈspɛkt"
+                  spellCheck={false}
+                  autoCorrect="off"
+                />
+              </div>
+              <div className="word-edit-field">
+                <label htmlFor="word-edit-definition">解释</label>
+                <textarea
+                  id="word-edit-definition"
+                  className="word-edit-textarea"
+                  value={editDefinition}
+                  onChange={(e) => setEditDefinition(e.target.value)}
+                  rows={3}
+                />
+              </div>
+              <div className="word-edit-actions">
+                <button
+                  type="button"
+                  className="word-edit-save"
+                  onClick={() => {
+                    setWordPhonetic(wKey, editPhonetic.trim());
+                    setWordDefinition(wKey, editDefinition.trim());
+                    setEditWordKey(null);
+                    setBatchToast(`已保存 ${editWordText} 的音标/解释`);
+                    window.setTimeout(() => setBatchToast(''), 2600);
+                  }}
+                >
+                  保存
+                </button>
+                <button type="button" className="word-edit-cancel" onClick={() => setEditWordKey(null)}>
+                  取消
+                </button>
+              </div>
+            </div>
+          </div>
+        );
+      })()}
 
       {batchToast && <div className="family-toast" role="status">{batchToast}</div>}
 

@@ -45,6 +45,11 @@ export interface WordCardProps {
   familyFrom?: { textbook: string; familyId: string };
   /** 从我的词根移回原族（单词级可逆） */
   onMoveBack?: (word: string) => void;
+  /** 编辑模式：显示 ✏️ / 🗑 操作按钮 */
+  editMode?: boolean;
+  definitionOverride?: string;
+  onEditWord?: (word: WordEntry) => void;
+  onDeleteWord?: (word: WordEntry) => void;
   selected?: boolean;
   onToggleSelect?: (word: string) => void;
 }
@@ -104,6 +109,10 @@ export function WordCard({
   onToggleSelect,
   familyFrom,
   onMoveBack,
+  editMode,
+  definitionOverride,
+  onEditWord,
+  onDeleteWord,
 }: WordCardProps) {
   const [expanded, setExpanded] = useState(!defaultCollapsed);
   /** 点极简 ＋ icon 后，所有空白项一次性按上下顺序铺开 */
@@ -173,6 +182,32 @@ export function WordCard({
           }}
           title={expanded ? '点击收起' : '点击展开'}
         >
+          {editMode && !batchMode && (
+            <span className="word-edit-actions-inline">
+              <button
+                type="button"
+                className="word-edit-inline-btn"
+                title="编辑音标/解释"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onEditWord?.(word);
+                }}
+              >
+                ✏️
+              </button>
+              <button
+                type="button"
+                className="word-edit-inline-btn is-danger"
+                title="删除单词"
+                onClick={(e) => {
+                  e.stopPropagation();
+                  onDeleteWord?.(word);
+                }}
+              >
+                🗑
+              </button>
+            </span>
+          )}
           {batchMode && (
             <span
               className={`word-check ${selected ? 'is-on' : ''}`}
@@ -324,10 +359,10 @@ export function WordCard({
               )}
             </div>
 
-            {(word.pos || word.definition) && (
+            {(word.pos || word.definition || definitionOverride) && (
               <div className="word-card-def">
                 {word.pos && <span className="pos-tag">{word.pos}</span>}
-                <span className="word-def-text">{word.definition}</span>
+                <span className="word-def-text">{definitionOverride || word.definition}</span>
                 {word.frequency != null && (
                   <span className="freq-tag">词频 {word.frequency}</span>
                 )}

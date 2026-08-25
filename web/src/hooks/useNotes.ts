@@ -12,6 +12,7 @@ export interface WordFieldOverrides {
   examples?: string; // 用户自定义例句（JSON 字符串数组）
   etymology?: string; // 用户自定义词源（覆盖数据层词源）
   phonetic?: string; // 用户自定义音标（覆盖数据层音标）
+  definition?: string; // 用户自定义释义（覆盖数据层释义）
 }
 
 /** 用户对词根族元数据的手动覆盖（按教程修正，重导不丢） */
@@ -62,6 +63,8 @@ interface NotesStore {
   updatedAt: number;
   /** key 级编辑时间戳（同步冲突时逐条取最新，key 如 'f:familyKey' / 'w:wordKey'） */
   touchMap: Record<string, number>;
+  /** 被删除（本地隐藏）的单词（wordKey → true，显示时过滤） */
+  wordHidden: Record<string, boolean>;
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -119,6 +122,7 @@ const empty: NotesStore = {
   wordOrder: {},
   updatedAt: 0,
   touchMap: {},
+  wordHidden: {},
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -223,6 +227,7 @@ function load(): NotesStore {
       wordOrder: parsed.wordOrder ?? {},
       updatedAt: parsed.updatedAt ?? 0,
       touchMap: parsed.touchMap ?? {},
+      wordHidden: parsed.wordHidden ?? {},
     };
   }
 
@@ -243,6 +248,7 @@ function load(): NotesStore {
         wordOrder: {},
         updatedAt: 0,
         touchMap: {},
+        wordHidden: {},
       };
     } catch {
       /* ignore */
@@ -287,6 +293,7 @@ export function useNotes() {
           userFamilyWords: { ...(cur('userFamilyWords') as object), ...store.userFamilyWords },
           familyOrder: { ...(cur('familyOrder') as object), ...store.familyOrder },
           wordOrder: { ...(cur('wordOrder') as object), ...store.wordOrder },
+          wordHidden: { ...(cur('wordHidden') as object), ...store.wordHidden },
           updatedAt: now,
         };
         // 双写：主 key + last-good（始终保存最近成功写入，主 key 损坏时自动恢复）
@@ -370,6 +377,7 @@ export function useNotes() {
         userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
         familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
         wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
+        wordHidden: { ...(remoteRest.wordHidden ?? {}), ...prev.wordHidden },
         touchMap: { ...rt, ...lt },
         updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
       };
@@ -810,6 +818,43 @@ export function useNotes() {
     [store],
   );
 
+  const getWordDefinition = useCallback(
+    (key: string, seed = '') => {
+      const hit = store.wordFields[key]?.definition;
+      return hit != null ? hit : (seed ?? '');
+    },
+    [store],
+  );
+
+  const setWordDefinition = useCallback((key: string, text: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordFields: {
+        ...prev.wordFields,
+        [key]: { ...prev.wordFields[key], definition: text },
+      },
+      touchMap: { ...prev.touchMap, ['wf:' + key]: Date.now() },
+    }));
+  }, []);
+
+  /** 删除单词（本地隐藏，显示过滤；数据保留可导出恢复） */
+  const hideWord = useCallback((key: string) => {
+    setStore((prev) => ({
+      ...prev,
+      wordHidden: { ...prev.wordHidden, [key]: true },
+    }));
+  }, []);
+
+  const unhideWord = useCallback((key: string) => {
+    setStore((prev) => {
+      const next = { ...prev.wordHidden };
+      delete next[key];
+      return { ...prev, wordHidden: next };
+    });
+  }, []);
+
+  const getHiddenWords = useCallback((): Record<string, boolean> => store.wordHidden, [store]);
+
   const setWordPhonetic = useCallback((key: string, text: string) => {
     setStore((prev) => ({
       ...prev,
@@ -844,6 +889,7 @@ export function useNotes() {
         familyOrder: { ...prev.familyOrder },
         wordOrder: { ...prev.wordOrder },
         touchMap: { ...prev.touchMap },
+        wordHidden: { ...prev.wordHidden },
         updatedAt: prev.updatedAt,
       };
       let changed = false;
@@ -898,6 +944,11 @@ export function useNotes() {
     setWordEtymology,
     getWordPhonetic,
     setWordPhonetic,
+    getWordDefinition,
+    setWordDefinition,
+    hideWord,
+    unhideWord,
+    getHiddenWords,
     migrateKeys,
   };
 }
