@@ -3,11 +3,13 @@ import type { CatalogEntry } from './types';
 export type AppView =
   | { kind: 'home' }
   | { kind: 'family'; entry: CatalogEntry; focusWord?: string }
-  | { kind: 'affix-library' };
+  | { kind: 'affix-library' }
+  | { kind: 'wordbook' };
 
 export type ParsedRoute =
   | { kind: 'home' }
   | { kind: 'affix-library' }
+  | { kind: 'wordbook' }
   | { kind: 'family'; textbook: string; id: string; focusWord?: string };
 
 let catalogCache: CatalogEntry[] | null = null;
@@ -36,6 +38,7 @@ export function parseRouteHash(hash: string): ParsedRoute {
   const path = hash.replace(/^#/, '').replace(/^\/?/, '') || '';
   if (!path || path === '/') return { kind: 'home' };
   if (path === 'affix-library') return { kind: 'affix-library' };
+  if (path === 'wordbook') return { kind: 'wordbook' };
 
   const familyMatch = path.match(/^family\/([^/?#]+)\/([^/?#]+)/);
   if (!familyMatch) return { kind: 'home' };
@@ -51,6 +54,7 @@ export function parseRouteHash(hash: string): ParsedRoute {
 export function routeHashFromView(view: AppView): string {
   if (view.kind === 'home') return '#/';
   if (view.kind === 'affix-library') return '#/affix-library';
+  if (view.kind === 'wordbook') return '#/wordbook';
   // 本地词根（用户创建/编辑的词根）URL 段固定 'user'，深链/刷新时经 resolver 恢复 source 标记
   const tb = view.entry.source === 'user' ? 'user' : view.entry.textbook;
   const base = `#/family/${encodeURIComponent(tb)}/${encodeURIComponent(view.entry.id)}`;
@@ -67,6 +71,7 @@ export function routeNeedsCatalog(route: ParsedRoute): boolean {
 export async function resolveRoute(route: ParsedRoute): Promise<AppView> {
   if (route.kind === 'home') return { kind: 'home' };
   if (route.kind === 'affix-library') return { kind: 'affix-library' };
+  if (route.kind === 'wordbook') return { kind: 'wordbook' };
 
   // 用户自建词根族：不查 catalog，直接由注册的解析器从 localStorage 构造
   if (route.textbook === 'user') {

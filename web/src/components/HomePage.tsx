@@ -10,6 +10,7 @@ import { downloadNotesBackup, importNotesBackup, parseBackupFile } from '../util
 
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
+  onOpenWordbook: () => void;
   affixItems: AffixItem[];
   onSaveAffixGroup: (draft: AffixGroupDraft) => void;
   getVideoId: (key: string) => string;
@@ -22,10 +23,17 @@ interface HomePageProps {
   /** 词根顺序（教材/我的 → id 列表；首页拖动排序） */
   familyOrder: Record<string, string[]>;
   setFamilyOrder: (groupKey: string, ids: string[]) => void;
+  /** 单词本数量 */
+  wordbookCount: number;
+  /** 加入单词本 */
+  onAddToWordbook: (word: string) => void;
+  /** 是否已在单词本 */
+  hasInWordbook: (word: string) => boolean;
 }
 
 export function HomePage({
   onOpenFamily,
+  onOpenWordbook,
   affixItems,
   onSaveAffixGroup,
   getVideoId,
@@ -37,6 +45,9 @@ export function HomePage({
   getUserFamilyWords,
   familyOrder,
   setFamilyOrder,
+  wordbookCount,
+  onAddToWordbook,
+  hasInWordbook,
 }: HomePageProps) {
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [catalogError, setCatalogError] = useState(false);
@@ -427,6 +438,9 @@ export function HomePage({
           <button type="button" className="hero-action" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
+          <button type="button" className="hero-action" onClick={onOpenWordbook}>
+            单词本{wordbookCount > 0 && <span className="hero-action-badge">{wordbookCount}</span>}
+          </button>
           <button type="button" className="hero-action" onClick={() => setCreateOpen(true)}>
             ＋ 新建词根
           </button>
@@ -482,6 +496,8 @@ export function HomePage({
         getUserFamilyWords={getUserFamilyWords}
         onOpenWord={(entry, word) => onOpenFamily(entry, word)}
         onOpenUserFamily={openUserFamily}
+        onAddToWordbook={onAddToWordbook}
+        hasInWordbook={hasInWordbook}
       />
 
       <div className="filter-hint">

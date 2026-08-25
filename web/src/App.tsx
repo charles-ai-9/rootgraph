@@ -2,9 +2,11 @@ import { useCallback, useEffect, useState } from 'react';
 import type { CatalogEntry } from './types';
 import { useNotes } from './hooks/useNotes';
 import { useAffixLibrary } from './hooks/useAffixLibrary';
+import { useWordbook } from './hooks/useWordbook';
 import { HomePage } from './components/HomePage';
 import { FamilyNotePage } from './components/FamilyNotePage';
 import { AffixLibraryPage } from './components/AffixLibraryPage';
+import { WordbookPage } from './components/WordbookPage';
 import { PasswordGate } from './components/PasswordGate';
 import { isUnlocked } from './utils/unlock';
 import {
@@ -74,6 +76,7 @@ function App() {
 
   const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, getUserFamilyWords, getFamilyOrder, setFamilyOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
+  const wordbook = useWordbook();
 
   // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
   useEffect(() => {
@@ -141,6 +144,16 @@ function App() {
         />
       </div>
     );
+  } else if (view.kind === 'wordbook') {
+    page = (
+      <div key="wordbook" className="page-enter">
+        <WordbookPage
+          entries={wordbook.entries}
+          onRemove={wordbook.removeWord}
+          onBack={() => applyView({ kind: 'home' })}
+        />
+      </div>
+    );
   } else if (view.kind === 'family') {
     page = (
       <div key={`family-${view.entry.textbook}-${view.entry.id}`} className="page-enter">
@@ -184,6 +197,7 @@ function App() {
       <div key="home" className="page-enter">
         <HomePage
           onOpenFamily={(entry, word) => applyView({ kind: 'family', entry, focusWord: word })}
+          onOpenWordbook={() => applyView({ kind: 'wordbook' })}
           affixItems={affixLibrary.items}
           onSaveAffixGroup={affixLibrary.saveGroup}
           getVideoId={getVideoId}
@@ -195,6 +209,9 @@ function App() {
           getUserFamilyWords={getUserFamilyWords}
           familyOrder={getFamilyOrder()}
           setFamilyOrder={setFamilyOrder}
+          wordbookCount={wordbook.entries.length}
+          onAddToWordbook={wordbook.addWord}
+          hasInWordbook={wordbook.hasWord}
         />
       </div>
     );

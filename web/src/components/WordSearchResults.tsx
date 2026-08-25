@@ -15,6 +15,10 @@ interface WordSearchResultsProps {
   onOpenWord: (entry: CatalogEntry, word: string) => void;
   /** 打开我的词根族（挂载词直达；带上焦点词，多词根族自动切到对应面板并定位） */
   onOpenUserFamily: (f: UserFamily, word?: string) => void;
+  /** 加入单词本 */
+  onAddToWordbook?: (word: string) => void;
+  /** 是否已在单词本 */
+  hasInWordbook?: (word: string) => boolean;
 }
 
 export function WordSearchResults({
@@ -25,6 +29,8 @@ export function WordSearchResults({
   getUserFamilyWords,
   onOpenWord,
   onOpenUserFamily,
+  onAddToWordbook,
+  hasInWordbook,
 }: WordSearchResultsProps) {
   const [index, setIndex] = useState<IndexedWord[]>([]);
   const [ready, setReady] = useState(false);
@@ -101,6 +107,16 @@ export function WordSearchResults({
     if (el) el.scrollIntoView({ block: 'nearest' });
   }, [selectedIndex]);
 
+  const [addedToast, setAddedToast] = useState<string | null>(null);
+
+  const handleAddToWordbook = () => {
+    const word = query.trim().toLowerCase();
+    if (!word || !onAddToWordbook) return;
+    onAddToWordbook(word);
+    setAddedToast(word);
+    setTimeout(() => setAddedToast(null), 2000);
+  };
+
   if (!query.trim()) return null;
   if (error) {
     return (
@@ -109,7 +125,29 @@ export function WordSearchResults({
       </section>
     );
   }
-  if (!ready || hits.length === 0) return null;
+  if (!ready) return null;
+
+  // 搜索无结果时提示加入单词本
+  if (hits.length === 0) {
+    const word = query.trim().toLowerCase();
+    const inWordbook = hasInWordbook?.(word) ?? false;
+    return (
+      <section className="word-search-section">
+        <p className="word-search-no-result">未找到匹配「{word}」的单词</p>
+        {onAddToWordbook && !inWordbook && (
+          <button type="button" className="word-search-add-wordbook" onClick={handleAddToWordbook}>
+            ＋ 将「{word}」加入单词本
+          </button>
+        )}
+        {inWordbook && (
+          <p className="word-search-in-wordbook">「{word}」已在单词本中</p>
+        )}
+        {addedToast && (
+          <p className="word-search-added-toast">已加入单词本：{addedToast}</p>
+        )}
+      </section>
+    );
+  }
 
   return (
     <section className="word-search-section">

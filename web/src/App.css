@@ -5914,3 +5914,179 @@ textarea {
   width: 38px;
   height: 38px;
 }
+
+/* 单词本入口按钮角标 */
+.hero-action-badge {
+  display: inline-block;
+  margin-left: 6px;
+  padding: 1px 7px;
+  font-size: 0.75rem;
+  font-weight: 600;
+  color: #fff;
+  background: var(--accent);
+  border-radius: 10px;
+  vertical-align: middle;
+}
+
+/* 搜索无结果提示 */
+.word-search-no-result {
+  color: var(--text-muted);
+  font-size: 0.9rem;
+  margin: 8px 0;
+}
+
+.word-search-add-wordbook {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  margin-top: 8px;
+  padding: 8px 14px;
+  font-size: 0.88rem;
+  color: var(--accent);
+  background: var(--accent-soft);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.word-search-add-wordbook:hover {
+  background: var(--accent);
+  color: #fff;
+}
+
+.word-search-in-wordbook {
+  color: var(--text-muted);
+  font-size: 0.85rem;
+  margin-top: 8px;
+  font-style: italic;
+}
+
+.word-search-added-toast {
+  color: var(--accent);
+  font-size: 0.85rem;
+  margin-top: 8px;
+  font-weight: 500;
+}
+
+/* 单词本页面 */
+.wordbook-page {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+.wordbook-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 20px;
+}
+
+.wordbook-header h1 {
+  flex: 1;
+  font-size: 1.3rem;
+  font-weight: 700;
+  margin: 0;
+}
+
+.wordbook-count {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.wordbook-empty {
+  text-align: center;
+  padding: 48px 16px;
+  color: var(--text-muted);
+}
+
+.wordbook-empty p {
+  margin: 8px 0;
+}
+
+.wordbook-empty-hint {
+  font-size: 0.85rem;
+  max-width: 280px;
+  margin: 12px auto 0;
+  line-height: 1.5;
+}
+
+.wordbook-list {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+.wordbook-item {
+  padding: 14px 16px;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+}
+
+.wordbook-item-main {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  flex-wrap: wrap;
+}
+
+.wordbook-item-word {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: var(--text);
+}
+
+.wordbook-item-phonetic {
+  font-size: 0.85rem;
+  color: var(--text-muted);
+}
+
+.wordbook-item-pos {
+  font-size: 0.8rem;
+  color: var(--text-muted);
+}
+
+.wordbook-item-def {
+  margin: 6px 0 0;
+  font-size: 0.88rem;
+  color: var(--text-secondary);
+  line-height: 1.4;
+}
+
+.wordbook-item-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 10px;
+  padding-top: 8px;
+  border-top: 1px solid var(--border-light);
+}
+
+.wordbook-item-time {
+  font-size: 0.75rem;
+  color: var(--text-muted);
+}
+
+.wordbook-item-remove {
+  padding: 4px 10px;
+  font-size: 0.8rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.wordbook-item-remove:hover {
+  color: #dc2626;
+  border-color: #dc2626;
+}
+
+.wordbook-item-remove.confirm {
+  color: #dc2626;
+  border-color: #dc2626;
+  background: #fef2f2;
+}
