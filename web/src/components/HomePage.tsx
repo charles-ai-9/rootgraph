@@ -66,7 +66,7 @@ export function HomePage({
   const dragIdRef = useRef<string | null>(null);
   const lastTopTapRef = useRef(0);
 
-  const openUserFamily = (f: UserFamily) => {
+  const openUserFamily = (f: UserFamily, word?: string) => {
     const entry: CatalogEntry = {
       id: f.id,
       file: '',
@@ -81,7 +81,8 @@ export function HomePage({
       source: 'user',
       textbook: f.textbook ?? 'user',
     };
-    onOpenFamily(entry);
+    // 焦点词经 applyView 写入深链（?word=…），刷新/复制链接后仍能定位（resolver 从 localStorage 恢复 source）
+    onOpenFamily(entry, word);
   };
 
   const handleCreateFamily = () => {

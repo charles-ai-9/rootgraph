@@ -13,8 +13,8 @@ interface WordSearchResultsProps {
   userFamilies: Record<string, UserFamily>;
   getUserFamilyWords: (id: string) => UserFamilyWord[];
   onOpenWord: (entry: CatalogEntry, word: string) => void;
-  /** 打开我的词根族（挂载词直达） */
-  onOpenUserFamily: (f: UserFamily) => void;
+  /** 打开我的词根族（挂载词直达；带上焦点词，多词根族自动切到对应面板并定位） */
+  onOpenUserFamily: (f: UserFamily, word?: string) => void;
 }
 
 export function WordSearchResults({
@@ -86,12 +86,12 @@ export function WordSearchResults({
               tabIndex={0}
               className="word-search-hit"
               onClick={() => {
-                if (myFamily) onOpenUserFamily(myFamily);
+                if (myFamily) onOpenUserFamily(myFamily, hit.word);
                 else if (entry) onOpenWord(entry, hit.word);
               }}
               onKeyDown={(e) => {
                 if (e.key === 'Enter') {
-                  if (myFamily) onOpenUserFamily(myFamily);
+                  if (myFamily) onOpenUserFamily(myFamily, hit.word);
                   else if (entry) onOpenWord(entry, hit.word);
                 }
               }}

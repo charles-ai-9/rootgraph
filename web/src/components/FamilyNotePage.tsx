@@ -311,8 +311,10 @@ export function FamilyNotePage({
       return hit?.root ?? variantTabs[0].root;
     };
 
-    if (panelInitForFamily.current !== family.id) {
-      panelInitForFamily.current = family.id;
+    // 用 entry 维度（source+id）做初始化标记：同 id 的官方/自建入口互跳、同族内再搜另一个词都要重新选面板
+    const entryKey = `${entry.source}:${entry.id}`;
+    if (panelInitForFamily.current !== entryKey) {
+      panelInitForFamily.current = entryKey;
       lastFocusWord.current = focusWord;
       setActivePanel(focusWord ? pickPanelForWord(focusWord) : variantTabs[0].root);
       return;
@@ -322,7 +324,7 @@ export function FamilyNotePage({
       lastFocusWord.current = focusWord;
       setActivePanel(pickPanelForWord(focusWord));
     }
-  }, [family?.id, focusWord, variantTabs, groups]);
+  }, [family?.id, entry, focusWord, variantTabs, groups]);
 
   useEffect(() => {
     if (!family || !focusedWord) return;
@@ -485,8 +487,8 @@ export function FamilyNotePage({
     executeBatchMove(id);
   };
 
-  /** 从原族提示条跳转到目标我的词根族 */
-  const openUserFamilyById = (id: string) => {
+  /** 从原族提示条跳转到目标我的词根族（带焦点词，多词根族自动切面板并定位） */
+  const openUserFamilyById = (id: string, word?: string) => {
     const uf = userFamilies[id];
     if (!uf) return;
     onSearchOpen(
@@ -504,7 +506,7 @@ export function FamilyNotePage({
         source: 'user',
         textbook: 'user',
       },
-      undefined,
+      word,
     );
   };
 
@@ -864,7 +866,7 @@ export function FamilyNotePage({
                       key={word}
                       type="button"
                       className="family-moved-hint-word"
-                      onClick={() => openUserFamilyById(t.id)}
+                      onClick={() => openUserFamilyById(t.id, word)}
                       title={`查看我的词根 ${t.label}`}
                     >
                       {word} → {t.label}
