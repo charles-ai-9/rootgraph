@@ -96,6 +96,8 @@ export function FamilyNotePage({
 
   const [searchQuery, setSearchQuery] = useState('');
   const [showSearch, setShowSearch] = useState(false);
+  const [searchSelectedIndex, setSearchSelectedIndex] = useState(-1);
+  const searchPanelRef = useRef<HTMLDivElement>(null);
   const [wordIndex, setWordIndex] = useState<IndexedWord[]>([]);
   const [catalog, setCatalog] = useState<CatalogEntry[]>([]);
   const [affixOverlayOpen, setAffixOverlayOpen] = useState(false);
@@ -235,6 +237,18 @@ export function FamilyNotePage({
     return m;
   }, [catalog]);
 
+  /** 搜索结果变化时重置键盘选中 */
+  useEffect(() => {
+    setSearchSelectedIndex(-1);
+  }, [searchQuery]);
+
+  /** 选中项滚动到视口 */
+  useEffect(() => {
+    if (searchSelectedIndex < 0 || !searchPanelRef.current) return;
+    const el = searchPanelRef.current.children[searchSelectedIndex] as HTMLElement;
+    if (el) el.scrollIntoView({ block: 'nearest' });
+  }, [searchSelectedIndex]);
+
   /** 用户手动覆盖的词根/语义（localStorage，重导不丢） */
   const familyMeta = getFamilyMeta(fKey);
   const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
@@ -298,6 +312,24 @@ export function FamilyNotePage({
       onSearchOpen(hitEntry, hit.word);
     }
   }, [catalogMap, entry, variantTabs, groups, activePanel, onSearchOpen]);
+
+  /** 搜索输入框键盘导航：↑↓ 选中、Enter 进入详情 */
+  const handleSearchKeyDown = useCallback(
+    (e: React.KeyboardEvent) => {
+      if (searchHits.length === 0) return;
+      if (e.key === 'ArrowDown') {
+        e.preventDefault();
+        setSearchSelectedIndex((i) => Math.min(i + 1, searchHits.length - 1));
+      } else if (e.key === 'ArrowUp') {
+        e.preventDefault();
+        setSearchSelectedIndex((i) => Math.max(i - 1, 0));
+      } else if (e.key === 'Enter' && searchSelectedIndex >= 0 && searchSelectedIndex < searchHits.length) {
+        e.preventDefault();
+        handleSearchOpen(searchHits[searchSelectedIndex]);
+      }
+    },
+    [searchHits, searchSelectedIndex, handleSearchOpen],
+  );
 
   const showVariantNav = variantTabs.length > 1;
 
@@ -600,17 +632,18 @@ export function FamilyNotePage({
               value={searchQuery}
               onChange={(e) => { setSearchQuery(e.target.value); setShowSearch(true); }}
               onFocus={() => { if (searchQuery.trim()) setShowSearch(true); }}
+              onKeyDown={handleSearchKeyDown}
             />
             {showSearch && searchQuery.trim() && searchHits.length > 0 && (
-              <div className="detail-search-panel">
-                {searchHits.map((hit) => {
+              <div className="detail-search-panel" ref={searchPanelRef}>
+                {searchHits.map((hit, idx) => {
                   const hitEntry = catalogMap.get(`${hit.textbook}:${hit.familyId}`);
                   const sameFamily = hit.textbook === entry.textbook && hit.familyId === entry.id;
                   return (
                     <button
                       key={`${hit.textbook}-${hit.familyId}-${hit.word}`}
                       type="button"
-                      className="detail-search-hit"
+                      className={`detail-search-hit${idx === searchSelectedIndex ? ' detail-search-hit-selected' : ''}`}
                       onClick={() => handleSearchOpen(hit)}
                     >
                       <span className="detail-search-hit-word">{hit.word}</span>
