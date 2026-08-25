@@ -32,6 +32,22 @@
         "examples": [],
         "rootHint": "spect"
       }
+    ],
+    "duct": [
+      {
+        "word": "cultivate",
+        "phonetic": "ˈkʌl.tə.veɪt",
+        "pos": "vt.",
+        "definition": "开垦；种植；培养（态度、技巧等）；树立（形象、观念等）；建立（友谊）",
+        "frequency": 5647,
+        "mnemonic": "cult(耕作；栽培)+-ivate(动词后缀)→开垦；种植；培养",
+        "collocations": [
+          "cultivate a global vision: 培养一种全球化视野"
+        ],
+        "etymology": "来自拉丁语 cultivare（耕作），词源同 colony, culture。",
+        "examples": [],
+        "rootHint": "duct"
+      }
     ]
   }
 }
