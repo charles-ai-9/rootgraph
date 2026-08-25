@@ -1374,10 +1374,12 @@ export function FamilyNotePage({
             className="word-edit-backdrop"
             role="presentation"
             onPointerDown={(e) => {
-              // 记录按下位置：仅当按下和抬起都在背景且无位移（轻点）才关闭，避免拖拽/resize 误触
+              // 仅当直接点在背景上才记录（面板内部点击不响应，避免误关）
+              if (e.target !== e.currentTarget) return;
               (e.currentTarget as HTMLElement).dataset.pd = `${e.clientX},${e.clientY}`;
             }}
             onPointerUp={(e) => {
+              if (e.target !== e.currentTarget) return;
               const start = (e.currentTarget as HTMLElement).dataset.pd;
               if (!start) return;
               const [x, y] = start.split(',').map(Number);

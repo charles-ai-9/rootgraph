@@ -356,7 +356,10 @@ export function useNotes() {
       const mergeByTouch = (remoteVal: unknown, localVal: unknown, touchKey: string) => {
         if (remoteVal === undefined) return localVal;
         if (localVal === undefined) return remoteVal;
-        return (rt[touchKey] ?? 0) > (lt[touchKey] ?? 0) ? remoteVal : localVal;
+        const r = rt[touchKey] ?? 0;
+        const l = lt[touchKey] ?? 0;
+        // 仅当本地也有编辑时间戳且远端更新时才用远端；本地无时间戳（旧数据/未记录）一律保留本地，防旧云端覆盖本地数据
+        return r > l && l > 0 ? remoteVal : localVal;
       };
       const mergeObj = <T,>(remoteObj: Record<string, T> | undefined, localObj: Record<string, T> | undefined, prefix: string): Record<string, T> => {
         const out: Record<string, T> = {};
