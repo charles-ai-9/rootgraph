@@ -245,9 +245,30 @@ export function FamilyNotePage({
     return () => document.removeEventListener('mousedown', onClickOutside);
   }, [showSearch]);
 
+  /** 合并用户新建单词到搜索索引 */
+  const searchIndex = useMemo(() => {
+    const userWords: IndexedWord[] = [];
+    for (const uf of Object.values(userFamilies)) {
+      for (const w of getUserFamilyWords(uf.id)) {
+        userWords.push({
+          word: w.word,
+          textbook: 'user',
+          familyId: uf.id,
+          file: '',
+          phonetic: w.phonetic,
+          pos: w.pos,
+          definition: w.definition,
+          mnemonic: w.mnemonic,
+          frequency: w.frequency,
+        });
+      }
+    }
+    return [...wordIndex, ...userWords];
+  }, [wordIndex, userFamilies, getUserFamilyWords]);
+
   const searchHits = useMemo(
-    () => searchWords(wordIndex, searchQuery, undefined, 30),
-    [wordIndex, searchQuery],
+    () => searchWords(searchIndex, searchQuery, undefined, 30),
+    [searchIndex, searchQuery],
   );
 
   const catalogMap = useMemo(() => {
@@ -311,9 +332,37 @@ export function FamilyNotePage({
       }));
   }, [family, effectiveRoots, groups]);
 
+  /** 从原族提示条跳转到目标我的词根族（带焦点词，多词根族自动切面板并定位） */
+  const openUserFamilyById = useCallback((id: string, word?: string) => {
+    const uf = userFamilies[id];
+    if (!uf) return;
+    onSearchOpen(
+      {
+        id: uf.id,
+        file: '',
+        chapter: '我的',
+        chapterOrder: 999,
+        titleZh: uf.meaningZh ?? '',
+        semanticLabel: uf.meaningZh ?? '',
+        meaningEn: uf.meaningEn ?? '',
+        meaningZh: uf.meaningZh ?? '',
+        roots: uf.roots,
+        wordCount: 0,
+        source: 'user',
+        textbook: 'user',
+      },
+      word,
+    );
+  }, [userFamilies, onSearchOpen]);
+
   const handleSearchOpen = useCallback((hit: IndexedWord) => {
     setSearchQuery('');
     setShowSearch(false);
+    // 用户新建单词：跳转到对应的我的词根族
+    if (hit.textbook === 'user') {
+      openUserFamilyById(hit.familyId, hit.word);
+      return;
+    }
     const hitEntry = catalogMap.get(`${hit.textbook}:${hit.familyId}`);
     if (!hitEntry) return;
     if (hitEntry.textbook === entry.textbook && hitEntry.id === entry.id) {
@@ -330,7 +379,7 @@ export function FamilyNotePage({
     } else {
       onSearchOpen(hitEntry, hit.word);
     }
-  }, [catalogMap, entry, variantTabs, groups, activePanel, onSearchOpen]);
+  }, [catalogMap, entry, variantTabs, groups, activePanel, onSearchOpen, openUserFamilyById]);
 
   /** 搜索输入框键盘导航：↑↓ 选中、Enter 进入详情 */
   const handleSearchKeyDown = useCallback(
@@ -536,29 +585,6 @@ export function FamilyNotePage({
       });
     }
     executeBatchMove(id);
-  };
-
-  /** 从原族提示条跳转到目标我的词根族（带焦点词，多词根族自动切面板并定位） */
-  const openUserFamilyById = (id: string, word?: string) => {
-    const uf = userFamilies[id];
-    if (!uf) return;
-    onSearchOpen(
-      {
-        id: uf.id,
-        file: '',
-        chapter: '我的',
-        chapterOrder: 999,
-        titleZh: uf.meaningZh ?? '',
-        semanticLabel: uf.meaningZh ?? '',
-        meaningEn: uf.meaningEn ?? '',
-        meaningZh: uf.meaningZh ?? '',
-        roots: uf.roots,
-        wordCount: 0,
-        source: 'user',
-        textbook: 'user',
-      },
-      word,
-    );
   };
 
   /** 新建单词：挂入当前词根族（通过用户词根族中转） */

@@ -46,9 +46,30 @@ export function WordSearchResults({
       .catch(() => setError(true));
   }, []);
 
+  /** 合并用户新建单词到搜索索引 */
+  const searchIndex = useMemo(() => {
+    const userWords: IndexedWord[] = [];
+    for (const uf of Object.values(userFamilies)) {
+      for (const w of getUserFamilyWords(uf.id)) {
+        userWords.push({
+          word: w.word,
+          textbook: 'user',
+          familyId: uf.id,
+          file: '',
+          phonetic: w.phonetic,
+          pos: w.pos,
+          definition: w.definition,
+          mnemonic: w.mnemonic,
+          frequency: w.frequency,
+        });
+      }
+    }
+    return [...index, ...userWords];
+  }, [index, userFamilies, getUserFamilyWords]);
+
   const hits = useMemo(
-    () => searchWords(index, query, textbook === 'all' ? undefined : textbook, 24),
-    [index, query, textbook],
+    () => searchWords(searchIndex, query, textbook === 'all' ? undefined : textbook, 24),
+    [searchIndex, query, textbook],
   );
 
   /** 搜索结果变化时重置键盘选中 */
