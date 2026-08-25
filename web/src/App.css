@@ -6346,3 +6346,49 @@ textarea {
   border-radius: var(--radius);
   background: var(--accent-soft);
 }
+
+/* ── 顶栏折叠工具栏 ── */
+.note-topbar-word-count {
+  flex-shrink: 0;
+  font-size: 0.75rem;
+}
+
+.note-topbar-toolbar-toggle {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 30px;
+  height: 30px;
+  font-size: 1rem;
+  color: var(--text-muted);
+  background: none;
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  cursor: pointer;
+  transition: all 0.15s;
+  padding: 0;
+}
+
+.note-topbar-toolbar-toggle:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.note-topbar-toolbar-toggle.is-open {
+  color: var(--accent);
+  border-color: var(--accent);
+  background: var(--accent-soft);
+}
+
+.note-topbar-toolbar {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 8px;
+  max-width: var(--doc-width);
+  margin: 0 auto;
+  padding: 8px 0 4px;
+  border-top: 1px solid var(--border-light);
+  margin-top: 8px;
+}

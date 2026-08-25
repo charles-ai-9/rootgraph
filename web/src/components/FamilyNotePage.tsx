@@ -132,6 +132,9 @@ export function FamilyNotePage({
   const [wordDragIdx, setWordDragIdx] = useState<number | null>(null);
   const [wordOverIdx, setWordOverIdx] = useState<number | null>(null);
   const wordDragState = useRef<{ fromIdx: number; startY: number; itemH: number; panel: string } | null>(null);
+
+  /** 工具栏折叠 */
+  const [toolbarOpen, setToolbarOpen] = useState(false);
   const { getStatus, setStatus, statsForKeys } = useProgress();
   const searchRef = useRef<HTMLDivElement>(null);
   const lastTopTapRef = useRef(0);
@@ -885,34 +888,44 @@ export function FamilyNotePage({
               </div>
             )}
           </div>
+          <span className="badge muted-badge note-topbar-word-count">{family.words.length} 词</span>
           <button
             type="button"
-            className={`note-topbar-batch-btn ${batchMode ? 'is-active' : ''}`}
-            onClick={() => {
-              setBatchMode((v) => !v);
-              setBatchSelected(new Set());
-            }}
-            title="批量选择单词，挂载到我的词根"
+            className={`note-topbar-toolbar-toggle ${toolbarOpen ? 'is-open' : ''}`}
+            onClick={() => setToolbarOpen((v) => !v)}
+            title="工具栏"
           >
-            {batchMode ? '完成' : '☑ 批量'}
+            {toolbarOpen ? '✕' : '⚙'}
           </button>
-          <button
-            type="button"
-            className={`note-topbar-sort-btn ${wordSortMode ? 'is-active' : ''}`}
-            onClick={() => {
-              setWordSortMode((v) => !v);
-              setWordDragIdx(null);
-              setWordOverIdx(null);
-            }}
-            title="拖动调整单词顺序"
-          >
-            {wordSortMode ? '完成' : '⇅ 排序'}
-          </button>
-          <button type="button" className="note-topbar-affix-btn" onClick={() => setAffixOverlayOpen(true)}>
-            词根词缀库
-          </button>
-          <div className="note-topbar-meta">
-            <span className="badge muted-badge">{family.words.length} 词</span>
+        </div>
+        {toolbarOpen && (
+          <div className="note-topbar-toolbar">
+            <button
+              type="button"
+              className={`note-topbar-batch-btn ${batchMode ? 'is-active' : ''}`}
+              onClick={() => {
+                setBatchMode((v) => !v);
+                setBatchSelected(new Set());
+              }}
+              title="批量选择单词，挂载到我的词根"
+            >
+              {batchMode ? '完成' : '☑ 批量'}
+            </button>
+            <button
+              type="button"
+              className={`note-topbar-sort-btn ${wordSortMode ? 'is-active' : ''}`}
+              onClick={() => {
+                setWordSortMode((v) => !v);
+                setWordDragIdx(null);
+                setWordOverIdx(null);
+              }}
+              title="拖动调整单词顺序"
+            >
+              {wordSortMode ? '完成' : '⇅ 排序'}
+            </button>
+            <button type="button" className="note-topbar-affix-btn" onClick={() => setAffixOverlayOpen(true)}>
+              词根词缀库
+            </button>
             {editingVideo ? (
               <input
                 className="video-id-input"
@@ -947,7 +960,7 @@ export function FamilyNotePage({
               ✎ 词根
             </button>
           </div>
-        </div>
+        )}
       </header>
 
       {showVariantNav && (
