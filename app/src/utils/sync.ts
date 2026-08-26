@@ -77,6 +77,7 @@ export function flushUpload(data: object): void {
 export async function downloadRemote(): Promise<object | null> {
   try {
     const res = await fetch(SYNC_URL, {
+      cache: 'no-store',
       headers: { Authorization: `Bearer ${SYNC_TOKEN}` },
     });
     if (!res.ok) return null;
