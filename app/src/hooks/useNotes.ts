@@ -487,20 +487,15 @@ export function useNotes() {
     return () => clearInterval(timer);
   }, [syncNow]);
 
-  // 启动时：① 每天最多拉取 1 次云端（避免每次打开页面都请求，降低网络交互）
-  //         ② 主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
+  // 启动时：每次加载都拉取云端最新数据（单用户场景，GET 请求成本极低，保证多浏览器/设备数据一致）
+  //         主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
   useEffect(() => {
     try {
-      const today = new Date().toDateString();
-      if (localStorage.getItem('rootgraph-last-pull-date') !== today) {
-        downloadRemote().then((remote) => {
-          if (remote) {
-            // 只在拉到实际数据时才标记日期，避免空拉占位导致当天无法再同步
-            localStorage.setItem('rootgraph-last-pull-date', today);
-            mergeRemote(remote);
-          }
-        });
-      }
+      downloadRemote().then((remote) => {
+        if (remote) {
+          mergeRemote(remote);
+        }
+      });
     } catch {
       /* ignore */
     }
