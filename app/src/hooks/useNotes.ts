@@ -3,7 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
-import { downloadRemote, getDeviceId, scheduleUpload, flushUpload } from '../utils/sync';
+import { downloadRemote, getDeviceId, scheduleUpload } from '../utils/sync';
 import { saveSnapshot, loadLatestSnapshot } from '../utils/snapshotDb';
 
 export interface WordFieldOverrides {
@@ -538,14 +538,15 @@ export function useNotes() {
     return () => window.removeEventListener('storage', onStorage);
   }, []);
 
-  // 页面关闭/刷新前同步落盘（本地为主；云端更新靠手动同步 + 每日 18:40，减少交互）
+  // 页面关闭/刷新前：仅写 localStorage（同步、100% 可靠）
+  // 不做 sendBeacon 上传——sendBeacon 到达时间不确定，会和新页面的 doPull GET 产生竞态，
+  // 导致旧数据覆盖云端新数据（"第一次刷新 OK、第二次刷新丢失"的根因）。
+  // 云端同步靠：① scheduleUpload 500ms 内自动 PUT  ② 新页面 doPull 拉取最新
   useEffect(() => {
     const flush = () => {
       const json = JSON.stringify(storeRef.current);
       safeSetItem(STORAGE_KEY, json);
       safeSetItem(LAST_GOOD_KEY, json);
-      // 立即上传到云端（sendBeacon 在卸载时可靠送达）
-      flushUpload(storeRef.current);
     };
     window.addEventListener('beforeunload', flush);
     window.addEventListener('pagehide', flush);
