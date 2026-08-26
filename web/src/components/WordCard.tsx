@@ -319,8 +319,8 @@ export function WordCard({
             </span>
           )}
 
-          {word.definition && (
-            <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{word.definition}</span>
+          {(definitionOverride || word.definition) && (
+            <span className={`word-card-def-inline ${expanded ? 'is-hidden' : ''}`}>{definitionOverride || word.definition}</span>
           )}
 
           <div className="affix-open-group">

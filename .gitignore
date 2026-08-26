@@ -23,5 +23,3 @@ data/rootgraph.db
 
 # 数据备份
 backups/
-scripts/us-phonetics-cache.json
-scripts/us-phonetics-cache-round2.json
