@@ -329,8 +329,8 @@ export function useNotes() {
     // 安全检查：云端缺失本地有的字段时（如 PUT 503 导致数据丢失），跳过合并保护本地数据
     const localStore = storeRef.current;
     for (const section of ['wordFields', 'families', 'words', 'affixNotes', 'videoMap', 'familyMeta'] as const) {
-      const localKeys = Object.keys((localStore as Record<string, Record<string, unknown>>)[section] ?? {});
-      const remoteKeys = Object.keys((remoteStore as Record<string, Record<string, unknown>>)[section] ?? {});
+      const localKeys = Object.keys((localStore as unknown as Record<string, Record<string, unknown>>)[section] ?? {});
+      const remoteKeys = Object.keys((remoteStore as unknown as Record<string, Record<string, unknown>>)[section] ?? {});
       if (localKeys.length > 0 && remoteKeys.length === 0) {
         console.warn(`[sync] 云端 ${section} 为空但本地有 ${localKeys.length} 条，跳过合并保护本地数据`);
         return false;
@@ -402,8 +402,8 @@ export function useNotes() {
       };
       // 安全网：确保本地独有的 key 不因云端缺失而丢失（如 PUT 503 / HTTP 缓存导致云端数据滞后）
       for (const section of ['wordFields', 'families', 'words', 'affixNotes', 'videoMap', 'familyMeta'] as const) {
-        const remoteSec = (remoteRest as Record<string, Record<string, unknown>>)[section] ?? {};
-        const localSec = (prev as Record<string, Record<string, unknown>>)[section] ?? {};
+        const remoteSec = (remoteRest as unknown as Record<string, Record<string, unknown>>)[section] ?? {};
+        const localSec = (prev as unknown as Record<string, Record<string, unknown>>)[section] ?? {};
         for (const k of Object.keys(localSec)) {
           if (!(k in remoteSec) && !(k in (merged[section] as Record<string, unknown>))) {
             (merged[section] as Record<string, unknown>)[k] = localSec[k];
