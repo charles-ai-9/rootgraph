@@ -33,7 +33,7 @@ npm install && npm run dev
 # 否则 PDF：~/Downloads/20000词汇巅峰速记营（教材N）.pdf
 ```
 
-**给新 Agent 的首条提示词：** 见 [`AGENT_PROMPT.md`](./AGENT_PROMPT.md)（复制粘贴即可）
+**启动开发前必读：** 本文档 §0、§4、§6、§11
 
 ---
 
@@ -74,8 +74,6 @@ npm install && npm run dev
 ```
 rootgraph/
 ├── HANDOFF.md              ← 本文档（架构 / 约定 / 待办）
-├── AGENT_PROMPT.md         ← 给新 Agent 的首条提示词（复制粘贴用）
-├── README.md               ← 简版说明（部分过时，以本文为准）
 ├── .gitignore
 │
 ├── data/                   ← 解析后的 canonical 数据（source of truth）
@@ -94,8 +92,7 @@ rootgraph/
 │   ├── dedupe-words.py     ← 同族内词条去重（同 word 保留信息量最大条目）+ 同步 index wordCount
 │   ├── validate-data.py    ← catalog/index/家族文件一致性校验（重导后自动运行，失败中止）
 │   ├── backup-data.sh      ← data 打包备份（backups/，保留 10 份）
-│   ├── import-affix-library.py ← docx → 词缀库 seed
-│   └── import-affix-xlsx.py    ← 旧版 xlsx 导入
+│   └── import-affix-library.py ← docx → 词缀库 seed
 │
 └── web/
     ├── package.json
@@ -129,7 +126,7 @@ rootgraph/
 | 脚本 | Bash, Python 3（stdlib） |
 | 持久化 | localStorage + Cloudflare D1 (SQLite)；云端同步 via Pages Functions |
 
-**注意**：README 写「React Flow」，但 **从未安装或使用**。关系图是手写 CSS 组件 `MiniRelationGraph.tsx`。
+**注意**：关系图是手写 CSS 组件 `MiniRelationGraph.tsx`，不是 React Flow。
 
 ---
 
@@ -349,10 +346,7 @@ App.tsx
     └── AffixItemModal
 ```
 
-**已实现但未接入 UI 的组件：**
-
-- `WordBreakdown.tsx`
-- `AffixRelatedWords.tsx`
+**已删除的未接入组件：** WordBreakdown.tsx、AffixRelatedWords.tsx（已清理）
 
 ### 6.3 核心 Hooks
 
@@ -553,7 +547,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 | 章节 title 粗糙 | 尤其 docx 导入的 TB3/4，可用 xlsx 元数据优化 |
 | TB4 章节合并 | docx 内多 TOC 条目合并为 19 族（非 51 族），但词数完整 |
 | 孤儿文件备份 | 60 个旧 orphan JSON（含 gnor.json 等有数据文件）备份在 `/tmp/rootgraph-orphan-backup/`，如需恢复可手动并入 |
-| README 过时 | 词数、React Flow、路由等与现状不符 |
+| ~~README 过时~~ | 已删除（以本文为准） |
 
 ### 11.3 代码层待接
 
@@ -561,7 +555,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 |----|------|------|
 | 复习标记 UI | `useProgress.ts` + `WordCardModal` | 弹窗已接，列表/首页统计可继续完善 |
 | 推理链 step 渲染 | `parseMnemonicChain()` | 函数在 family.ts，UI 用纯文本 NoteEditor |
-| 死代码组件 | WordBreakdown, AffixRelatedWords | 删除或接入 |
+| ~~死代码组件~~ | ~~WordBreakdown, AffixRelatedWords~~ | 已删除 |
 | public/data symlink | 绝对路径 | 换机器可能失效；靠 parse-all.sh rsync |
 
 ---
@@ -670,7 +664,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 4. **清理 orphan JSON / 改进 slugify**
 5. **用 xlsx 优化 TB3/4 章节 title**（`~/Downloads/20000词汇词根总结表.xlsx` 讲义3/4 仅 metadata）
 6. **推理链 step-by-step 展示**（用 parseMnemonicChain + 已有 CSS）
-7. **更新 README** 与本文档同步
+7. ~~**更新 README**~~ 已删除，以本文为准
 8. **推理 quiz 模式**（曾讨论，未做）
 
 ---
@@ -702,7 +696,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 接手新任务时，按顺序执行：
 
-- [ ] 读 [`AGENT_PROMPT.md`](./AGENT_PROMPT.md) 或本文档 §0、§4、§6、§11
+- [ ] 读本文档 §0、§4、§6、§11
 - [ ] `cd /Users/charles/Projects/rootgraph && git status && git diff --stat`
 - [ ] 若动 UI：`npm run dev`，浏览器打开教材1 → cern
 - [ ] 若动数据：`parse-all.sh` 或单本 swift

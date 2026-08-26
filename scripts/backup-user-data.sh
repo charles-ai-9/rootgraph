@@ -5,7 +5,7 @@ set -euo pipefail
 # cron 环境 PATH 不含 /opt/homebrew/bin（python3 所在），显式补齐
 export PATH="/opt/homebrew/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:$PATH"
 ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-SYNC_URL="https://rootgraph.pages.dev/api/sync"
+SYNC_URL="https://rootgraph.pages.dev/api/db/sync"
 SYNC_TOKEN="${SYNC_TOKEN:-rg_sync_2026_k8m3p7q2x9w4}"
 DATA_REPO="git@github.com:charles-ai-9/rootgraph-data.git"
 BACKUP_DIR="$ROOT/backups/user"
