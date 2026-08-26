@@ -8,7 +8,9 @@
     "build": "tsc -b && vite build",
     "lint": "oxlint",
     "preview": "vite preview",
-    "import:affix": "python3 ../scripts/import-affix-library.py"
+    "import:affix": "python3 ../scripts/import-affix-library.py",
+    "db:seed": "python3 ../scripts/import-to-d1.py --local",
+    "db:seed:prod": "python3 ../scripts/import-to-d1.py --remote"
   },
   "dependencies": {
     "react": "^19.2.8",

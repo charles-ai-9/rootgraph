@@ -7,6 +7,7 @@ import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import type { FamilyMeta, UserFamily } from '../hooks/useNotes';
 import { downloadNotesBackup, importNotesBackup, parseBackupFile } from '../utils/backup';
+import { fetchCatalog } from '../utils/dataApi';
 
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
@@ -146,11 +147,7 @@ export function HomePage({
 
   useEffect(() => {
     setCatalogError(false);
-    fetch('/data/catalog.json')
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
+    fetchCatalog()
       .then(setCatalog)
       .catch(() => setCatalogError(true));
   }, [retryTick]);
@@ -468,7 +465,7 @@ export function HomePage({
       <div className="library-toolbar">
         {catalogError && (
           <div className="load-error-hint">
-            <span>数据加载失败（/data/catalog.json 不可用）</span>
+            <span>数据加载失败（/api/db/catalog 不可用）</span>
             <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
           </div>
         )}

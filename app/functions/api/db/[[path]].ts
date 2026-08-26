@@ -149,11 +149,88 @@ async function syncFineGrainedTables(db: D1Database, store: Record<string, unkno
   }
 }
 
+// ─── GET /api/db/catalog ──────────────────────────────────────────
+async function handleCatalog(env: Env): Promise<Response> {
+  const rows = await env.DB
+    .prepare(
+      `SELECT id, textbook, file, chapter, chapter_order, title_zh, semantic_label,
+        meaning_en, meaning_zh, roots, word_count, source, legacy_id
+       FROM catalog_entries ORDER BY textbook, chapter_order`,
+    )
+    .all();
+  // 映射为前端 CatalogEntry 格式（camelCase）
+  const entries = rows.results.map((r) => ({
+    id: r.id,
+    textbook: r.textbook,
+    file: r.file,
+    chapter: r.chapter,
+    chapterOrder: r.chapter_order,
+    titleZh: r.title_zh,
+    semanticLabel: r.semantic_label,
+    meaningEn: r.meaning_en,
+    meaningZh: r.meaning_zh,
+    roots: r.roots ? JSON.parse(r.roots as string) : [],
+    wordCount: r.word_count,
+    source: r.source,
+    legacyId: r.legacy_id,
+  }));
+  return json(entries);
+}
+
+// ─── GET /api/db/family/:textbook/:id ─────────────────────────────
+async function handleFamily(env: Env, textbook: string, id: string): Promise<Response> {
+  const row = await env.DB
+    .prepare('SELECT data_json FROM textbook_families WHERE textbook = ? AND family_id = ?')
+    .bind(textbook, id)
+    .first();
+  if (!row || !row.data_json) {
+    return json({ error: 'Not found' }, 404);
+  }
+  return new Response(row.data_json as string, {
+    headers: { 'Content-Type': 'application/json' },
+  });
+}
+
+// ─── GET /api/db/word-index ───────────────────────────────────────
+async function handleWordIndex(env: Env): Promise<Response> {
+  const rows = await env.DB
+    .prepare(
+      `SELECT word, textbook, family_id, phonetic, pos, definition, mnemonic, root_hint, frequency
+       FROM word_index ORDER BY word`,
+    )
+    .all();
+  const index = rows.results.map((r) => ({
+    word: r.word,
+    textbook: r.textbook,
+    familyId: r.family_id,
+    phonetic: r.phonetic,
+    pos: r.pos,
+    definition: r.definition,
+    mnemonic: r.mnemonic,
+    rootHint: r.root_hint,
+    frequency: r.frequency,
+  }));
+  return json(index);
+}
+
 // ─── GET /api/db/sync ─────────────────────────────────────────────
 async function handleGet(ctx: { request: Request; env: Env }): Promise<Response> {
-  if (!checkAuth(ctx.request, ctx.env)) return json({ error: 'Unauthorized' }, 401);
-
   const url = new URL(ctx.request.url);
+
+  // 公开端点：教材数据（无需认证，与旧 /data/* 一致）
+  if (url.pathname.endsWith('/catalog')) {
+    return handleCatalog(ctx.env);
+  }
+  if (url.pathname.endsWith('/word-index')) {
+    return handleWordIndex(ctx.env);
+  }
+  const familyMatch = url.pathname.match(/\/family\/([^/]+)\/(.+)$/);
+  if (familyMatch) {
+    return handleFamily(ctx.env, decodeURIComponent(familyMatch[1]), decodeURIComponent(familyMatch[2]));
+  }
+
+  // 以下端点需要认证
+  if (!checkAuth(ctx.request, ctx.env)) return json({ error: 'Unauthorized' }, 401);
 
   // 版本历史
   if (url.pathname.endsWith('/versions')) {
@@ -273,6 +350,96 @@ async function handleRestore(ctx: { request: Request; env: Env }): Promise<Respo
   }
 }
 
+// ─── POST /api/db/import ──────────────────────────────────────────
+async function handleImport(ctx: { request: Request; env: Env }): Promise<Response> {
+  if (!checkAuth(ctx.request, ctx.env)) return json({ error: 'Unauthorized' }, 401);
+
+  try {
+    const body = await ctx.request.text();
+    const payload = JSON.parse(body) as {
+      catalog?: Array<Record<string, unknown>>;
+      families?: Array<{ textbook: string; familyId: string; dataJson: string }>;
+      words?: Array<Record<string, unknown>>;
+    };
+
+    const db = ctx.env.DB;
+
+    // 事务内全量替换
+    await db.prepare('DELETE FROM word_index').run();
+    await db.prepare('DELETE FROM textbook_families').run();
+    await db.prepare('DELETE FROM catalog_entries').run();
+
+    let catalogCount = 0;
+    if (payload.catalog) {
+      for (const e of payload.catalog) {
+        await db
+          .prepare(
+            `INSERT INTO catalog_entries
+             (id, textbook, file, chapter, chapter_order, title_zh, semantic_label, meaning_en, meaning_zh, roots, word_count, source, legacy_id)
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+          )
+          .bind(
+            e.id as string,
+            e.textbook as string,
+            (e.file as string) ?? '',
+            (e.chapter as string) ?? null,
+            (e.chapterOrder as number) ?? null,
+            (e.titleZh as string) ?? null,
+            (e.semanticLabel as string) ?? null,
+            (e.meaningEn as string) ?? null,
+            (e.meaningZh as string) ?? null,
+            JSON.stringify((e.roots as string[]) ?? []),
+            (e.wordCount as number) ?? 0,
+            (e.source as string) ?? null,
+            (e.legacyId as string) ?? null,
+          )
+          .run();
+        catalogCount++;
+      }
+    }
+
+    let familyCount = 0;
+    if (payload.families) {
+      for (const f of payload.families) {
+        await db
+          .prepare('INSERT INTO textbook_families (textbook, family_id, data_json, updated_at) VALUES (?, ?, ?, 0)')
+          .bind(f.textbook, f.familyId, f.dataJson)
+          .run();
+        familyCount++;
+      }
+    }
+
+    let wordCount = 0;
+    if (payload.words) {
+      for (const w of payload.words) {
+        await db
+          .prepare(
+            `INSERT INTO word_index
+             (word, textbook, family_id, phonetic, pos, definition, mnemonic, root_hint, frequency)
+             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+          )
+          .bind(
+            w.word as string,
+            w.textbook as string,
+            w.familyId as string,
+            (w.phonetic as string) ?? null,
+            (w.pos as string) ?? null,
+            (w.definition as string) ?? null,
+            (w.mnemonic as string) ?? null,
+            (w.rootHint as string) ?? null,
+            (w.frequency as number) ?? null,
+          )
+          .run();
+        wordCount++;
+      }
+    }
+
+    return json({ ok: true, catalog: catalogCount, families: familyCount, words: wordCount });
+  } catch (e) {
+    return json({ error: 'Invalid request', detail: String(e) }, 400);
+  }
+}
+
 // ─── Pages Functions 路由入口 ──────────────────────────────────────
 export const onRequestGet: PagesFunction<Env> = async (ctx) => {
   return handleGet({ request: ctx.request, env: ctx.env as unknown as Env });
@@ -286,6 +453,9 @@ export const onRequestPost: PagesFunction<Env> = async (ctx) => {
   const url = new URL(ctx.request.url);
   if (url.pathname.endsWith('/restore')) {
     return handleRestore({ request: ctx.request, env: ctx.env as unknown as Env });
+  }
+  if (url.pathname.endsWith('/import')) {
+    return handleImport({ request: ctx.request, env: ctx.env as unknown as Env });
   }
   // POST 也支持上传（sendBeacon 走 POST）
   return handlePut({ request: ctx.request, env: ctx.env as unknown as Env });

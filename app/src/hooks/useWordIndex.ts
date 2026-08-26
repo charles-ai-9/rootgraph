@@ -1,5 +1,5 @@
 import { useEffect, useState } from 'react';
-import type { CatalogEntry } from '../types';
+import { fetchWordIndex } from '../utils/dataApi';
 
 export interface IndexedWord {
   word: string;
@@ -20,41 +20,10 @@ export async function loadWordIndex(): Promise<IndexedWord[]> {
   if (cache) return cache;
   if (loading) return loading;
 
-  loading = (async () => {
-    const catalog: CatalogEntry[] = await fetch('/data/catalog.json').then((r) => r.json());
-    const rows: IndexedWord[] = [];
-
-    await Promise.all(
-      catalog.map(async (entry) => {
-        const family = await fetch(`/data/${entry.textbook}/${entry.file}`).then((r) => r.json());
-        for (const w of family.words as {
-          word: string;
-          phonetic?: string;
-          pos?: string;
-          definition?: string;
-          mnemonic?: string;
-          frequency?: number;
-        }[]) {
-          rows.push({
-            word: w.word,
-            textbook: entry.textbook,
-            familyId: entry.id,
-            file: entry.file,
-            phonetic: w.phonetic,
-            pos: w.pos,
-            definition: w.definition,
-            mnemonic: w.mnemonic,
-            frequency: w.frequency,
-          });
-        }
-      }),
-    );
-
-    cache = rows
-      .filter((row, i, arr) => arr.findIndex((r) => r.textbook === row.textbook && r.familyId === row.familyId && r.word === row.word) === i)
-      .sort((a, b) => a.word.localeCompare(b.word));
-    return cache;
-  })();
+  loading = fetchWordIndex().then((rows) => {
+    cache = rows;
+    return rows;
+  });
 
   return loading;
 }

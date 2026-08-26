@@ -7,6 +7,7 @@ import type { FamilyMeta, UserFamily, UserFamilyWord } from '../hooks/useNotes';
 import type { AffixGroupDraft } from '../utils/affixLibrary';
 import { loadWordIndex, searchWords, type IndexedWord } from '../hooks/useWordIndex';
 import { loadCatalog } from '../appRoute';
+import { fetchFamily } from '../utils/dataApi';
 import { useProgress } from '../hooks/useProgress';
 import { FamilyVariantNav, OVERVIEW_PANEL, VariantStepper, type VariantTab } from './FamilyVariantNav';
 import { DraggableFollowBar } from './DraggableFollowBar';
@@ -180,15 +181,11 @@ export function FamilyNotePage({
     loadCatalog().then(setCatalog).catch(() => setCatalog([]));
   }, []);
 
-  /** 系统词根族：静态 JSON，仅在条目/重试变化时加载（不依赖笔记 store，避免打字触发重取） */
+  /** 系统词根族：从 D1 API 加载，仅在条目/重试变化时加载 */
   useEffect(() => {
     if (entry.source === 'user') return;
     setFamilyError(false);
-    fetch(`/data/${entry.textbook}/${entry.file}`)
-      .then((r) => {
-        if (!r.ok) throw new Error(`HTTP ${r.status}`);
-        return r.json();
-      })
+    fetchFamily(entry.textbook, entry.file)
       .then(setFamily)
       .catch(() => setFamilyError(true));
     // eslint-disable-next-line react-hooks/exhaustive-deps
@@ -841,7 +838,7 @@ export function FamilyNotePage({
             <span>
               {entry.source === 'user'
                 ? '这个词根不存在或已被删除'
-                : `词根族数据加载失败（/data/${entry.textbook}/${entry.file}）`}
+                : `词根族数据加载失败（/api/db/family/${entry.textbook}/${entry.file}）`}
             </span>
             <button type="button" onClick={() => setRetryTick((t) => t + 1)}>重试</button>
           </div>

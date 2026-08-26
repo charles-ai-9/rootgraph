@@ -1,6 +1,6 @@
 /* RootGraph Service Worker：离线可用 + 在线自动更新（stale-while-revalidate） */
 // 数据大改后升版本号：浏览器检测到 sw.js 变化→装新 SW→activate 时删除旧缓存（见下方 keys 过滤）
-const CACHE = 'rootgraph-v45';
+const CACHE = 'rootgraph-v46';
 const CORE = ['/', '/index.html', '/manifest.webmanifest', '/favicon.svg', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', (event) => {
@@ -28,7 +28,13 @@ self.addEventListener('fetch', (event) => {
   if (url.origin !== self.location.origin) return;
 
   // 数据/静态资源：缓存优先 + 后台刷新（离线可学，在线时数据自动更新）
-  if (url.pathname.startsWith('/data/') || url.pathname.startsWith('/assets/')) {
+  if (
+    url.pathname.startsWith('/data/') ||
+    url.pathname.startsWith('/assets/') ||
+    url.pathname === '/api/db/catalog' ||
+    url.pathname.startsWith('/api/db/family/') ||
+    url.pathname === '/api/db/word-index'
+  ) {
     event.respondWith(
       caches.match(req).then((hit) => {
         const refresh = fetch(req)

@@ -1,4 +1,5 @@
 import type { CatalogEntry } from './types';
+import { fetchCatalog } from './utils/dataApi';
 
 export type AppView =
   | { kind: 'home' }
@@ -28,9 +29,7 @@ export function registerUserFamilyResolver(
 
 export async function loadCatalog(): Promise<CatalogEntry[]> {
   if (catalogCache) return catalogCache;
-  const res = await fetch('/data/catalog.json');
-  if (!res.ok) throw new Error('catalog load failed');
-  catalogCache = (await res.json()) as CatalogEntry[];
+  catalogCache = await fetchCatalog();
   return catalogCache;
 }
 

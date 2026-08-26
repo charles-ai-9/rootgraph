@@ -23,3 +23,12 @@ data/rootgraph.db
 
 # 数据备份
 backups/
+
+# 教材 JSON 文件（保留为备份产物，不进 git）
+app/public/data/textbook-*/
+
+# Wrangler 本地状态
+.wrangler/
+
+# 导入脚本生成的 SQL（可重新生成）
+db/import-textbook-data.sql
