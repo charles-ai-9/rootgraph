@@ -364,73 +364,90 @@ async function handleImport(ctx: { request: Request; env: Env }): Promise<Respon
 
     const db = ctx.env.DB;
 
-    // 事务内全量替换
-    await db.prepare('DELETE FROM word_index').run();
-    await db.prepare('DELETE FROM textbook_families').run();
-    await db.prepare('DELETE FROM catalog_entries').run();
+    // 事务内全量替换：先清空
+    await db.batch([
+      db.prepare('DELETE FROM word_index'),
+      db.prepare('DELETE FROM textbook_families'),
+      db.prepare('DELETE FROM catalog_entries'),
+    ]);
 
+    // 批量 INSERT（D1 batch 每次最多 100 条）
+    const BATCH_SIZE = 100;
     let catalogCount = 0;
-    if (payload.catalog) {
-      for (const e of payload.catalog) {
-        await db
-          .prepare(
-            `INSERT INTO catalog_entries
-             (id, textbook, file, chapter, chapter_order, title_zh, semantic_label, meaning_en, meaning_zh, roots, word_count, source, legacy_id)
-             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-          )
-          .bind(
-            e.id as string,
-            e.textbook as string,
-            (e.file as string) ?? '',
-            (e.chapter as string) ?? null,
-            (e.chapterOrder as number) ?? null,
-            (e.titleZh as string) ?? null,
-            (e.semanticLabel as string) ?? null,
-            (e.meaningEn as string) ?? null,
-            (e.meaningZh as string) ?? null,
-            JSON.stringify((e.roots as string[]) ?? []),
-            (e.wordCount as number) ?? 0,
-            (e.source as string) ?? null,
-            (e.legacyId as string) ?? null,
-          )
-          .run();
-        catalogCount++;
-      }
-    }
-
     let familyCount = 0;
-    if (payload.families) {
-      for (const f of payload.families) {
-        await db
-          .prepare('INSERT INTO textbook_families (textbook, family_id, data_json, updated_at) VALUES (?, ?, ?, 0)')
-          .bind(f.textbook, f.familyId, f.dataJson)
-          .run();
-        familyCount++;
+    let wordCount = 0;
+
+    if (payload.catalog) {
+      for (let i = 0; i < payload.catalog.length; i += BATCH_SIZE) {
+        const batch = payload.catalog.slice(i, i + BATCH_SIZE);
+        await db.batch(
+          batch.map((e) =>
+            db
+              .prepare(
+                `INSERT INTO catalog_entries
+                 (id, textbook, file, chapter, chapter_order, title_zh, semantic_label, meaning_en, meaning_zh, roots, word_count, source, legacy_id)
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+              )
+              .bind(
+                e.id as string,
+                e.textbook as string,
+                (e.file as string) ?? '',
+                (e.chapter as string) ?? null,
+                (e.chapterOrder as number) ?? null,
+                (e.titleZh as string) ?? null,
+                (e.semanticLabel as string) ?? null,
+                (e.meaningEn as string) ?? null,
+                (e.meaningZh as string) ?? null,
+                JSON.stringify((e.roots as string[]) ?? []),
+                (e.wordCount as number) ?? 0,
+                (e.source as string) ?? null,
+                (e.legacyId as string) ?? null,
+              ),
+          ),
+        );
+        catalogCount += batch.length;
       }
     }
 
-    let wordCount = 0;
+    if (payload.families) {
+      for (let i = 0; i < payload.families.length; i += BATCH_SIZE) {
+        const batch = payload.families.slice(i, i + BATCH_SIZE);
+        await db.batch(
+          batch.map((f) =>
+            db
+              .prepare('INSERT INTO textbook_families (textbook, family_id, data_json, updated_at) VALUES (?, ?, ?, 0)')
+              .bind(f.textbook, f.familyId, f.dataJson),
+          ),
+        );
+        familyCount += batch.length;
+      }
+    }
+
     if (payload.words) {
-      for (const w of payload.words) {
-        await db
-          .prepare(
-            `INSERT INTO word_index
-             (word, textbook, family_id, phonetic, pos, definition, mnemonic, root_hint, frequency)
-             VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
-          )
-          .bind(
-            w.word as string,
-            w.textbook as string,
-            w.familyId as string,
-            (w.phonetic as string) ?? null,
-            (w.pos as string) ?? null,
-            (w.definition as string) ?? null,
-            (w.mnemonic as string) ?? null,
-            (w.rootHint as string) ?? null,
-            (w.frequency as number) ?? null,
-          )
-          .run();
-        wordCount++;
+      for (let i = 0; i < payload.words.length; i += BATCH_SIZE) {
+        const batch = payload.words.slice(i, i + BATCH_SIZE);
+        await db.batch(
+          batch.map((w) =>
+            db
+              .prepare(
+                `INSERT INTO word_index
+                 (word, textbook, family_id, phonetic, pos, definition, mnemonic, root_hint, frequency)
+                 VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)`,
+              )
+              .bind(
+                w.word as string,
+                w.textbook as string,
+                w.familyId as string,
+                (w.phonetic as string) ?? null,
+                (w.pos as string) ?? null,
+                (w.definition as string) ?? null,
+                (w.mnemonic as string) ?? null,
+                (w.rootHint as string) ?? null,
+                (w.frequency as number) ?? null,
+              ),
+          ),
+        );
+        wordCount += batch.length;
       }
     }
 

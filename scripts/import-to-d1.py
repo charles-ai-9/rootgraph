@@ -15,9 +15,8 @@ import argparse
 import glob
 import json
 import sqlite3
-import subprocess
 import sys
-import tempfile
+import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -249,30 +248,112 @@ def import_local_direct() -> tuple[int, int, int]:
     return catalog_count, family_count, word_count
 
 
-def import_remote() -> None:
-    """Import to remote D1 via wrangler d1 execute."""
-    print("Generating SQL from JSON data...")
-    sql_content, n_catalog, n_families, n_words = generate_sql()
+def build_payload() -> tuple[dict, int, int, int]:
+    """Build JSON payload from textbook data."""
+    catalog = load(DATA / "catalog.json")
+    payload_catalog = []
+    payload_families = []
+    payload_words = []
+    seen_keys: set[tuple[str, str]] = set()
+    seen_families: set[tuple[str, str]] = set()
 
-    sql_path = ROOT / "db" / "import-textbook-data.sql"
-    sql_path.write_text(sql_content, encoding="utf-8")
-    print(f"SQL file: {sql_path}")
+    for entry in catalog:
+        textbook = entry.get("textbook", "")
+        fid = entry.get("id", "")
+        key = (textbook, fid)
+        if key in seen_keys:
+            continue
+        seen_keys.add(key)
+
+        payload_catalog.append({
+            "id": fid,
+            "textbook": textbook,
+            "file": entry.get("file", ""),
+            "chapter": entry.get("chapter"),
+            "chapterOrder": entry.get("chapterOrder"),
+            "titleZh": entry.get("titleZh"),
+            "semanticLabel": entry.get("semanticLabel"),
+            "meaningEn": entry.get("meaningEn"),
+            "meaningZh": entry.get("meaningZh"),
+            "roots": entry.get("roots", []),
+            "wordCount": entry.get("wordCount", 0),
+            "source": entry.get("source"),
+            "legacyId": entry.get("legacyId"),
+        })
+
+    for entry in catalog:
+        textbook = entry.get("textbook", "")
+        fid = entry.get("id", "")
+        key = (textbook, fid)
+        if key in seen_families:
+            continue
+        seen_families.add(key)
+
+        family_path = DATA / textbook / entry.get("file", "")
+        if not family_path.exists():
+            print(f"  WARN: {family_path} not found, skipping", file=sys.stderr)
+            continue
+
+        family = load(family_path)
+        payload_families.append({
+            "textbook": textbook,
+            "familyId": fid,
+            "dataJson": json.dumps(family, ensure_ascii=False),
+        })
+
+        for w in family.get("words", []):
+            payload_words.append({
+                "word": w.get("word", ""),
+                "textbook": textbook,
+                "familyId": fid,
+                "phonetic": w.get("phonetic"),
+                "pos": w.get("pos"),
+                "definition": w.get("definition"),
+                "mnemonic": w.get("mnemonic"),
+                "rootHint": w.get("rootHint"),
+                "frequency": w.get("frequency"),
+            })
+
+    return {
+        "catalog": payload_catalog,
+        "families": payload_families,
+        "words": payload_words,
+    }, len(seen_keys), len(payload_families), len(payload_words)
+
+
+def import_remote() -> None:
+    """Import to remote D1 via POST /api/db/import."""
+    import os
+    token = os.environ.get("SYNC_TOKEN", "rg_sync_2026_k8m3p7q2x9w4")
+    url = "https://rootgraph.pages.dev/api/db/import"
+
+    print("Building JSON payload from textbook data...")
+    payload, n_catalog, n_families, n_words = build_payload()
     print(f"  {n_catalog} catalog entries, {n_families} families, {n_words} words")
 
-    print("\nImporting to remote D1...")
-    cmd = [
-        "npx", "wrangler", "d1", "execute", "rootgraph",
-        "--remote",
-        f"--file={sql_path}",
-    ]
-    result = subprocess.run(cmd, cwd=APP_DIR, capture_output=True, text=True)
+    data = json.dumps(payload, ensure_ascii=False).encode("utf-8")
+    print(f"  Payload size: {len(data) / 1024 / 1024:.1f} MB")
 
-    if result.returncode != 0:
-        print(f"ERROR: wrangler failed:\n{result.stderr}", file=sys.stderr)
+    print(f"\nImporting to remote D1 via {url}...")
+    req = urllib.request.Request(
+        url,
+        data=data,
+        headers={
+            "Content-Type": "application/json",
+            "Authorization": f"Bearer {token}",
+            "User-Agent": "RootGraph-ImportScript/1.0",
+        },
+        method="POST",
+    )
+    try:
+        with urllib.request.urlopen(req, timeout=120) as resp:
+            result = json.loads(resp.read().decode("utf-8"))
+            print(f"Response: {result}")
+            print("Done! Imported to remote D1 successfully.")
+    except urllib.error.HTTPError as e:
+        body = e.read().decode("utf-8", errors="replace")
+        print(f"ERROR: HTTP {e.code}: {body}", file=sys.stderr)
         sys.exit(1)
-
-    print(result.stdout)
-    print("Done! Imported to remote D1 successfully.")
 
 
 def main() -> None:
