@@ -12,8 +12,8 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 DEFAULT_DOCX = Path.home() / "Downloads/词根词缀/词根词缀.docx"
 DEFAULT_XLSX = Path.home() / "Downloads/词根词缀/词根词缀总结表/20000词汇常见前缀后缀总结表.xlsx"
-OUT = ROOT / "web/src/data/affix-library-seed.json"
-OUT_PUBLIC = ROOT / "web/public/data/affix-library-seed.json"
+OUT = ROOT / "app/src/data/affix-library-seed.json"
+OUT_PUBLIC = ROOT / "app/public/data/affix-library-seed.json"
 
 NS = {"m": "http://schemas.openxmlformats.org/spreadsheetml/2006/main"}
 WNS = {"w": "http://schemas.openxmlformats.org/wordprocessingml/2006/main"}

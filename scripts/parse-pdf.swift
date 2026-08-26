@@ -799,7 +799,7 @@ guard args.count >= 3 else {
     Usage: swift parse-pdf.swift <pdf-path> <output-dir> [source-label]
 
     Example:
-      swift parse-pdf.swift ~/Downloads/20000词汇巅峰速记营（教材1）.pdf ./data/textbook-1 textbook-1
+      swift parse-pdf.swift ~/Downloads/20000词汇巅峰速记营（教材1）.pdf ./app/public/data/textbook-1 textbook-1
     """)
     exit(1)
 }

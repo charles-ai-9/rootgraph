@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Build data/rootgraph.db (SQLite analysis copy) from data/ JSON.
+"""Build app/public/data/rootgraph.db (SQLite analysis copy) from app/public/data/ JSON.
 
 分析用途，非前端运行时依赖：前端仍 fetch 静态 JSON。
 用法：python3 scripts/build-sqlite.py   （或经 parse-all.sh 自动调用）
@@ -12,8 +12,8 @@ import sqlite3
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "data"
-DB_PATH = ROOT / "data" / "rootgraph.db"
+DATA = ROOT / "app" / "public" / "data"
+DB_PATH = ROOT / "app" / "public" / "data" / "rootgraph.db"
 
 
 def load(path: Path):

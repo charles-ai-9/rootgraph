@@ -13,7 +13,7 @@
 |------|------|
 | **是什么** | 个人用的 Web 词根学习工具，从「20000词汇巅峰速记营」PDF 教材提取词根族，以 Notion 式笔记 + 词根变体导航学习 |
 | **技术栈** | React 19 + TypeScript + Vite 8 + 纯 CSS；无后端；数据为静态 JSON；持久化靠 localStorage |
-| **数据源** | 8 本教材：1/2/5–8 用 PDF 文字层（Swift）；**3/4 用 docx**（Python）→ `data/` JSON → 前端 `fetch('/data/...')` |
+| **数据源** | 8 本教材：1/2/5–8 用 PDF 文字层（Swift）；**3/4 用 docx**（Python）→ `app/public/data/` JSON → 前端 `fetch('/data/...')` |
 | **当前规模** | **161** 个词根族（全部唯一）、**8384** 词（去重后；**8 本教材均已导入**） |
 | **核心用户** | 项目所有者 Charles，个人学习用，非 SaaS |
 
@@ -76,41 +76,44 @@ rootgraph/
 ├── HANDOFF.md              ← 本文档（架构 / 约定 / 待办）
 ├── .gitignore
 │
-├── data/                   ← 解析后的 canonical 数据（source of truth）
-│   ├── catalog.json        ← 全库索引（160 条 CatalogEntry）
-│   ├── rootgraph.db        ← SQLite 分析库（build-sqlite.py 生成，gitignore，不进 public）
-│   ├── affix-library-seed.json
-│   ├── textbook-1/ … textbook-8/
-│   │   ├── index.json      ← 该教材词根族列表
-│   │   └── {id}.json       ← 单个 RootFamily（一章一词根族）
+├── app/                    ← 前端应用（React + Vite + Pages Functions）
+│   ├── package.json
+│   ├── vite.config.ts
+│   ├── wrangler.toml       ← Cloudflare 部署配置（D1 绑定）
+│   ├── functions/
+│   │   └── api/db/[[path]].ts ← D1 同步 API（Pages Functions）
+│   ├── public/
+│   │   ├── data/           ← 教材数据（source of truth，解析器直接写入）
+│   │   │   ├── catalog.json
+│   │   │   ├── affix-library-seed.json
+│   │   │   └── textbook-1/ … textbook-8/
+│   │   ├── sw.js           ← Service Worker
+│   │   └── manifest.webmanifest
+│   └── src/
+│       ├── App.tsx         ← 路由 / 全局状态注入
+│       ├── appRoute.ts     ← hash 路由解析与深链
+│       ├── App.css         ← 几乎全部样式（~3800 行）
+│       ├── types.ts        ← 核心类型 + 工具函数
+│       ├── catalog.ts      ← 教材标签、章节筛选
+│       ├── components/     ← 17 个 TSX 组件
+│       ├── hooks/          ← 4 个 hook
+│       ├── utils/          ← 工具模块
+│       └── data/
+│           ├── affixSeed.ts
+│           └── affix-library-seed.json
+│
+├── db/
+│   └── schema.sql          ← D1 表结构定义
 │
 ├── scripts/
 │   ├── parse-docx.py       ← docx → JSON（教材 3、4）
 │   ├── parse-pdf.swift     ← PDF 文字层 → JSON（教材 1、2、5–8）
-│   ├── parse-all.sh        ← 批量 8 本 + dedupe + catalog(legacyId) + validate + rsync + rootgraph.db
-│   ├── build-sqlite.py     ← data/ JSON → data/rootgraph.db（SQLite 分析库，前端不依赖）
+│   ├── parse-all.sh        ← 批量 8 本 + dedupe + catalog(legacyId) + validate + rootgraph.db
+│   ├── build-sqlite.py     ← app/public/data/ JSON → rootgraph.db（SQLite 分析库，前端不依赖）
 │   ├── dedupe-words.py     ← 同族内词条去重（同 word 保留信息量最大条目）+ 同步 index wordCount
 │   ├── validate-data.py    ← catalog/index/家族文件一致性校验（重导后自动运行，失败中止）
-│   ├── backup-data.sh      ← data 打包备份（backups/，保留 10 份）
+│   ├── backup-data.sh      ← 数据打包备份（backups/，保留 10 份）
 │   └── import-affix-library.py ← docx → 词缀库 seed
-│
-└── web/
-    ├── package.json
-    ├── vite.config.ts
-    ├── public/
-    │   └── data/           ← rsync 自 ../data（Vite 静态服务）
-    └── src/
-        ├── App.tsx         ← 路由 / 全局状态注入
-        ├── appRoute.ts     ← hash 路由解析与深链
-        ├── App.css         ← 几乎全部样式（~3800 行）
-        ├── types.ts        ← 核心类型 + 工具函数
-        ├── catalog.ts      ← 教材标签、章节筛选
-        ├── components/     ← 17 个 TSX 组件
-        ├── hooks/          ← 4 个 hook
-        ├── utils/          ← 工具模块
-        └── data/
-            ├── affixSeed.ts
-            └── affix-library-seed.json
 ```
 
 ---
@@ -138,9 +141,9 @@ flowchart LR
   PDF["PDF 教材 1/2/5–8<br/>~/Downloads/"]
   PY["parse-docx.py"]
   SWIFT["parse-pdf.swift"]
-  DATA["data/textbook-N/*.json"]
-  CAT["data/catalog.json"]
-  PUB["web/public/data"]
+  DATA["app/public/data/textbook-N/*.json"]
+  CAT["app/public/data/catalog.json"]
+  PUB["app/public/data"]
   WEB["React fetch /data/"]
 
   DOCX --> PY --> DATA
@@ -158,7 +161,7 @@ flowchart LR
 ```bash
 python3 /Users/charles/Projects/rootgraph/scripts/parse-docx.py \
   ~/Downloads/20000词汇巅峰速记营（教材3）.docx \
-  /Users/charles/Projects/rootgraph/data/textbook-3 \
+  /Users/charles/Projects/rootgraph/app/public/data/textbook-3 \
   textbook-3
 ```
 
@@ -167,7 +170,7 @@ python3 /Users/charles/Projects/rootgraph/scripts/parse-docx.py \
 ```bash
 swift /Users/charles/Projects/rootgraph/scripts/parse-pdf.swift \
   ~/Downloads/20000词汇巅峰速记营（教材1）.pdf \
-  /Users/charles/Projects/rootgraph/data/textbook-1 \
+  /Users/charles/Projects/rootgraph/app/public/data/textbook-1 \
   textbook-1
 ```
 
@@ -183,25 +186,24 @@ swift /Users/charles/Projects/rootgraph/scripts/parse-pdf.swift \
 
 1. 循环教材 1–8：**有 docx 用 docx**，否则用 PDF（`~/Downloads` 优先、`~/Desktop/2w/` 兜底）；解析结果为 0 族时**中止**（解析器内部 guard + 脚本双重保护）
 2. `dedupe-words.py` 去重同族重复词条 + 同步 index wordCount
-3. Python 内联脚本合并各 `textbook-N/index.json` → `data/catalog.json`（wordCount 以家族文件实际词数为准；id 分配变化时记录 `legacyId` 供前端笔记迁移）
+3. Python 内联脚本合并各 `textbook-N/index.json` → `app/public/data/catalog.json`（wordCount 以家族文件实际词数为准；id 分配变化时记录 `legacyId` 供前端笔记迁移）
 4. `validate-data.py` 一致性校验（index↔文件↔catalog、无重复键/词条、orphan 警告），失败中止
-5. `rsync -a --delete data/ → web/public/data/`（`--exclude '*.db'` + 显式 `rm -f rootgraph.db`）
-6. `scripts/build-sqlite.py` → `data/rootgraph.db`（SQLite 分析库：families/words/affixes + FTS5）
+5. `scripts/build-sqlite.py` → `app/public/data/rootgraph.db`（SQLite 分析库：families/words/affixes + FTS5）
 
 > **解析安全**：PDF/docx 解析器均为「先写新文件、全部成功后再清理旧文件」，中途失败旧数据保留；单本直接跑 swift/python 也会在 0 族时报错退出。
 
-> **rootgraph.db 是分析用途**（`sqlite3 data/rootgraph.db "SELECT ..."`），前端仍 fetch 静态 JSON，不依赖 db。构建时报告 catalog 重复家族键与同族重复词条。
+> **rootgraph.db 是分析用途**（`sqlite3 app/public/data/rootgraph.db "SELECT ..."`），前端仍 fetch 静态 JSON，不依赖 db。构建时报告 catalog 重复家族键与同族重复词条。
 
 ### 4.3 词缀库 seed 导入
 
 ```bash
 python3 /Users/charles/Projects/rootgraph/scripts/import-affix-library.py
 # 默认读 ~/Downloads/词根词缀/词根词缀.docx
-# 输出 web/src/data/affix-library-seed.json + data/affix-library-seed.json
+# 输出 app/src/data/affix-library-seed.json + app/public/data/affix-library-seed.json
 # npm run import:affix 等价
 ```
 
-Seed 版本号：`AFFIX_SEED_VERSION = 'docx-v14'`（`web/src/data/affixSeed.ts`）。版本变化会触发与用户 localStorage 的 merge / 迁移。v14：删除噪声条目 `o??-`（p013，前缀）；merge 逻辑在 seed 变化时保留用户编辑与新增条目（仅过滤 `??` 噪声）。
+Seed 版本号：`AFFIX_SEED_VERSION = 'docx-v14'`（`app/src/data/affixSeed.ts`）。版本变化会触发与用户 localStorage 的 merge / 迁移。v14：删除噪声条目 `o??-`（p013，前缀）；merge 逻辑在 seed 变化时保留用户编辑与新增条目（仅过滤 `??` 噪声）。
 
 ### 4.4 数据现状（2026-08-20）
 
@@ -240,7 +242,7 @@ Seed 版本号：`AFFIX_SEED_VERSION = 'docx-v14'`（`web/src/data/affixSeed.ts`
 
 ## 5. 数据模型
 
-### 5.1 TypeScript 类型（`web/src/types.ts`）
+### 5.1 TypeScript 类型（`app/src/types.ts`）
 
 ```typescript
 // 单词（PDF 解析产物 + 用户可覆盖字段）
@@ -294,7 +296,7 @@ catalogEntryKey(entry)              // "textbook-1/cern"
 
 ### 5.3 示例：separate 词根族
 
-- 文件：`data/textbook-1/cern.json`
+- 文件：`app/public/data/textbook-1/cern.json`
 - 语义：`separate`（区分·分别·单独）
 - 变体：`cern, crim, cert, cris, crit, cree, cret`
 - 词数：169（分组后 cern 约 138，crim 5，cert 5…）
@@ -500,12 +502,12 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 **数据 / 脚本：**
 - `scripts/parse-docx.py`（新）— docx 解析器
 - `scripts/parse-all.sh` — docx 优先逻辑
-- `data/catalog.json`、`data/textbook-3/*`、`data/textbook-4/*` — 全量重导
+- `app/public/data/catalog.json`、`app/public/data/textbook-3/*`、`app/public/data/textbook-4/*` — 全量重导
 - 已删除：`ocr-pdf-paddle.py`、`ocr-pdf-to-text.sh`、`diagnose-pdf.swift`、`dump-pdf-snippet.swift`
 
 **前端：**
-- `web/src/appRoute.ts`（新）— hash 深链
-- `web/src/components/WordCardModal.tsx`、`AffixLibraryOverlay.tsx`（新）
+- `app/src/appRoute.ts`（新）— hash 深链
+- `app/src/components/WordCardModal.tsx`、`AffixLibraryOverlay.tsx`（新）
 - `FamilyNotePage.tsx` — 变体 Tab、复习弹窗
 - `WordCard.tsx` — 可编辑推理链/搭配
 - `useNotes.ts` — wordFields 持久化
@@ -533,7 +535,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 | 词缀库 `o??-` 噪声条目误推断（如 optics → o-） | 删除 seed 条目（docx-v14）；`inferAffixFromLibrary` 跳过单字母 form（o-/e-/s-/a- 首字母匹配误报，optics 不再推断 o-、outline 不被 o- 截胡）；词缀库/助记匹配的实义词缀恢复自动绑定+释义（如 diagnosis → dia-）；纯拼写推断只填形（`inferred` 标记）；`AffixModal` 统一「解除引用 / 无此词缀」入口：清空 + `suppressed` 防回填 + 撤销 |
 | catalog 9 个重复家族键（slug 撞车） | `parse-pdf.swift` 无 id 冲突处理，后章覆盖前章文件 → 丢 176 词（textbook-5: plus/pos/cap，textbook-6: mis/solv/reg/rog/dec）。已加 `usedIds` 后缀（-2/-3）+ 写前清理旧 JSON，全量重导找回全部词 |
 | 同族重复词条 55 个 | 新增 `scripts/dedupe-words.py`（同 word 保留信息量最大条目），`parse-all.sh` 解析后自动执行 |
-| **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `web/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空）；解析器改为「先写后删」 |
+| **教材 4 docx 源文件丢失** | 重导时扫描 PDF 解析 0 族并清空目录；已从 `app/dist` 旧构建副本恢复 19 族 1453 词；`parse-all.sh` 加 0 族保护（解析结果为 0 时中止，不再清空）；解析器改为「先写后删」 |
 | 健壮性加固（2026-09） | `validate-data.py` 一致性校验、`backup-data.sh` 数据备份、ErrorBoundary + fetch 错误态/重试、localStorage 写入 try/catch（safeSetItem）、`legacyId` 笔记迁移机制；catalog 已提交 git 基线（450536a） |
 | docx 释义混入「词频 助记/词源/搭配」文本（TB3/4 共 72 处） | `parse-docx.py` 释义解析加行内标签截断（数字可选）+ 词频提取，重导 TB3/4 后清零；顺带修复 intact2→intact、age-0ld→age-old、c0-opt→co-opt 三个解析噪声词 |
 | 教材变体 `(s)` 写法丢失（-(s)pend 只提取到 pens） | `parse-pdf.swift`/`parse-docx.py` 词根提取允许 `(` 开头并保留原写法；前端展示忠于教材（`pens · (s)pend · (s)pon`），匹配层归一化（`normalizeRootForm`）；另提供 ✎ 词根手动编辑（familyMeta）兜底 |
@@ -584,7 +586,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 1. **任何代码改动不得删除、清空或覆盖上述任一字段**；数据结构变更必须向后兼容（新字段 `?? 默认值` 兜底）；`setStore` 一律用 spread 不可变更新，禁止整体替换
 2. **迁移前必须快照**：`migrateKeys` 等重排 key 的逻辑，执行前先把整个 store 写入 `rootgraph-notes-backup-auto-*`
 3. **seed / storage 版本变更前必须征求用户同意**（如词缀库 docx 版本、notes-v2 → v3）；merge 逻辑必须保留用户编辑与新增条目（`upsertItemFromNote` 已有条目时返回 existing 不覆盖，`applyStoredOverridesById` 保留用户覆盖）
-4. 数据重导 / 部署 / 解析脚本只动 `data/` JSON，不触碰 localStorage；`legacyId` 机制只在 catalog 含 legacyId 条目时迁移（当前为 0）
+4. 数据重导 / 部署 / 解析脚本只动 `app/public/data/` JSON，不触碰 localStorage；`legacyId` 机制只在 catalog 含 legacyId 条目时迁移（当前为 0）
 5. 用户可随时「导出笔记 / 导入笔记」（首页 hero 区按钮，utils/backup.ts）——导入前自动快照现有数据
 6. **改动任何编辑入口相关代码前**：先读本清单，确认新逻辑在「用户已有内容」场景下的行为，并补逻辑测试（参考 useNotes/useAffixLibrary 的既有防御模式）
 
@@ -628,15 +630,15 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 **docx（教材 3、4）：**
 1. 改 `scripts/parse-docx.py`（章节头检测、词条 regex、Unicode 引号等）
-2. `python3 scripts/parse-docx.py <docx> data/textbook-N textbook-N`
+2. `python3 scripts/parse-docx.py <docx> app/public/data/textbook-N textbook-N`
 3. 或跑 `parse-all.sh`
 
 **PDF 文字层（教材 1、2、5–8）：**
 1. 改 `scripts/parse-pdf.swift`
 2. 跑单本 swift 或 `parse-all.sh`
-3. 检查 `data/textbook-N/{id}.json` 字段
+3. 检查 `app/public/data/textbook-N/{id}.json` 字段
 
-两者完成后 `web/public/data` 会通过 rsync 同步。
+两者完成后 `app/public/data` 即为最新数据。
 
 ### 13.3 词缀库更新
 
@@ -647,10 +649,10 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ### 13.4 修复变体 Tab / 单词分组
 
-- 分组逻辑：`web/src/utils/family.ts` → `groupWordsByRoot`
-- UI 逻辑：`web/src/components/FamilyNotePage.tsx`
-- 导航组件：`web/src/components/FamilyVariantNav.tsx`
-- 测试族：`data/textbook-1/cern.json`（separate，7 个变体）
+- 分组逻辑：`app/src/utils/family.ts` → `groupWordsByRoot`
+- UI 逻辑：`app/src/components/FamilyNotePage.tsx`
+- 导航组件：`app/src/components/FamilyVariantNav.tsx`
+- 测试族：`app/public/data/textbook-1/cern.json`（separate，7 个变体）
 
 ---
 
@@ -673,22 +675,22 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 | 目的 | 路径 |
 |------|------|
-| 入口 | `web/src/main.tsx` |
-| 路由 | `web/src/App.tsx` + `web/src/appRoute.ts` |
-| 类型 | `web/src/types.ts` |
-| 全库索引 | `data/catalog.json` |
+| 入口 | `app/src/main.tsx` |
+| 路由 | `app/src/App.tsx` + `app/src/appRoute.ts` |
+| 类型 | `app/src/types.ts` |
+| 全库索引 | `app/public/data/catalog.json` |
 | docx 解析 | `scripts/parse-docx.py` |
 | PDF 解析 | `scripts/parse-pdf.swift` |
 | 批量脚本 | `scripts/parse-all.sh` |
-| 词根族页 | `web/src/components/FamilyNotePage.tsx` |
-| 复习弹窗 | `web/src/components/WordCardModal.tsx` |
-| 单词卡 | `web/src/components/WordCard.tsx` |
-| 词缀库页 | `web/src/components/AffixLibraryPage.tsx` |
-| 笔记持久化 | `web/src/hooks/useNotes.ts` |
-| 词缀库持久化 | `web/src/hooks/useAffixLibrary.ts` |
-| 词根分组 | `web/src/utils/family.ts` |
-| 样式 | `web/src/App.css` |
-| 示例词根族 | `data/textbook-1/cern.json` |
+| 词根族页 | `app/src/components/FamilyNotePage.tsx` |
+| 复习弹窗 | `app/src/components/WordCardModal.tsx` |
+| 单词卡 | `app/src/components/WordCard.tsx` |
+| 词缀库页 | `app/src/components/AffixLibraryPage.tsx` |
+| 笔记持久化 | `app/src/hooks/useNotes.ts` |
+| 词缀库持久化 | `app/src/hooks/useAffixLibrary.ts` |
+| 词根分组 | `app/src/utils/family.ts` |
+| 样式 | `app/src/App.css` |
+| 示例词根族 | `app/public/data/textbook-1/cern.json` |
 
 ---
 
@@ -776,7 +778,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 ### 19.1 同步 API（Pages Functions + D1，版本化）
 
 - 入口：`https://rootgraph.pages.dev/api/db/sync`（同域，D1 SQLite 存储）
-- 实现：`web/functions/api/db/[[path]].ts`；D1 绑定 `DB`（`web/wrangler.toml`）
+- 实现：`app/functions/api/db/[[path]].ts`；D1 绑定 `DB`（`app/wrangler.toml`）
 - 认证：`Authorization: Bearer rg_sync_2026_k8m3p7q2x9w4`
 - 接口：
   - `GET /api/db/sync` → 最新整块数据 `{ updatedAt, families, ... }`
@@ -789,8 +791,8 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
   - `GET /api/db/inspect/user-families` → 查所有用户自建词根族
 - D1 数据库：`rootgraph`（id: `134f9b4d-374c-4db8-827c-3b34f9fa302a`）
 - 表结构：`app_data`（主存储）、`data_versions`（版本历史）、`families`/`words`/`word_fields`/`family_meta`/`user_families`/`user_family_words`/`touch_map`（细粒度表，PUT 时同步写入，供 SQL 查询排查）
-- Schema 文件：`web/sql/schema.sql`
-- 前端 `web/src/utils/sync.ts`：`scheduleUpload`、`downloadRemote`、`getDeviceId`、`flushUpload`
+- Schema 文件：`db/schema.sql`
+- 前端 `app/src/utils/sync.ts`：`scheduleUpload`、`downloadRemote`、`getDeviceId`、`flushUpload`
 
 ### 19.2 同步触发时机（本地为主，低频）
 
@@ -867,9 +869,9 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 - 部署：`CLOUDFLARE_API_TOKEN=... CLOUDFLARE_ACCOUNT_ID=... ./scripts/deploy.sh`
   （build → `wrangler pages deploy dist --project-name=rootgraph` → 清理旧部署）
-- **每次发布必须升 `web/public/sw.js` 的 `CACHE` 版本号**（当前 v28 → 下一个 v29）。
+- **每次发布必须升 `app/public/sw.js` 的 `CACHE` 版本号**（当前 v28 → 下一个 v29）。
   否则用户浏览器 Service Worker 缓存旧 bundle/旧数据，出现"部署了但看不到新功能"。
-- Pages Functions 随部署自动发布（`web/functions/api/sync.ts` 改动需部署生效）
+- Pages Functions 随部署自动发布（`app/functions/api/db/[[path]].ts` 改动需部署生效）
 
 ---
 
@@ -915,7 +917,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 ### 25.2 同步与合并（v29-v38 演进）
 
 - **v29 touchMap（key 级时间戳）**：每条笔记/词笔记记录编辑时间（`touchMap`，key 前缀 `f:`/`w:`/`wf:`/`a:`/`v:`/`m:`），跨设备同步逐条取最新——A 设备改的条目 B 设备刷新可见
-- **v32 快照移 IndexedDB**：本地快照（30 分钟间隔，保留 30 份）存 `IndexedDB`（`web/src/utils/snapshotDb.ts`），不再占 localStorage 配额；`load()` 自愈链 = 主 key → last-good → IndexedDB 快照（异步）
+- **v32 快照移 IndexedDB**：本地快照（30 分钟间隔，保留 30 份）存 `IndexedDB`（`app/src/utils/snapshotDb.ts`），不再占 localStorage 配额；`load()` 自愈链 = 主 key → last-good → IndexedDB 快照（异步）
 - **v33 同步状态显示**：悬浮按钮上方显示「上次同步 HH:MM」（`rootgraph-last-sync-time`，`rootgraph-synced` 事件刷新）
 - **v38 保守合并**：`mergeByTouch` 仅当**本地也有时间戳且远端更新**时才用远端；本地无时间戳（旧数据）一律保留本地——防旧云端覆盖本地数据（如视频号丢失）
 - **v39 视频号输入即保存**：`setVideoId` 在 onChange 实时调用，不依赖 Enter/失焦/Esc
@@ -935,8 +937,8 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ### 25.5 D1 数据库迁移（✅ 已完成 2026-08-26）
 
-- **后端**：`web/functions/api/db/[[path]].ts` 替代原 KV 版 `web/functions/api/sync.ts`
-- **前端**：`web/src/utils/sync.ts` 的 `SYNC_URL` = `/api/db/sync`；`useNotes.ts` 的 `syncNow()` 也指向 `/api/db/sync`
+- **后端**：`app/functions/api/db/[[path]].ts` 替代原 KV 版（已删除）
+- **前端**：`app/src/utils/sync.ts` 的 `SYNC_URL` = `/api/db/sync`；`useNotes.ts` 的 `syncNow()` 也指向 `/api/db/sync`
 - **D1 数据库**：`rootgraph`（id: `134f9b4d-374c-4db8-827c-3b34f9fa302a`，区域 APAC）
 - **KV 数据已迁移**：原 KV 中的 NotesStore 已 PUT 到 D1（`updatedAt: 1787715436741`）
 - **细粒度表**：PUT 时自动同步写入 `families`/`words`/`word_fields`/`family_meta`/`user_families`/`touch_map`，可通过 `/api/db/inspect/*` 查询
@@ -945,7 +947,7 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ### 25.6 SW 版本约定（更新）
 
-- **以 `web/public/sw.js` 的 `CACHE` 实际值为准**（当前工作区 v45，已提交版本 v39）
+- **以 `app/public/sw.js` 的 `CACHE` 实际值为准**（当前工作区 v45，已提交版本 v39）
 - 每次发布必须升版本号（v44 → v45 …），否则用户浏览器缓存旧版
 
 ### 25.7 数据鲁棒性当前全貌（五层 + 三个新增）

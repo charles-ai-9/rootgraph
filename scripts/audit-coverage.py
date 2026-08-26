@@ -52,7 +52,7 @@ def read_docx_lines(path: Path) -> list[str]:
 
 def load_words(textbook: str) -> dict[str, dict]:
     words: dict[str, dict] = {}
-    tb_dir = ROOT / "data" / textbook
+    tb_dir = ROOT / "app" / "public" / "data" / textbook
     if not tb_dir.is_dir():
         return words
     for p in tb_dir.glob("*.json"):

@@ -1034,7 +1034,7 @@ def main() -> None:
     if len(sys.argv) < 3:
         print(
             "Usage: python3 parse-docx.py <docx-path> <output-dir> [source-label]\n"
-            "Example: python3 parse-docx.py ~/Downloads/20000词汇巅峰速记营（教材3）.docx ./data/textbook-3 textbook-3"
+            "Example: python3 parse-docx.py ~/Downloads/20000词汇巅峰速记营（教材3）.docx ./app/public/data/textbook-3 textbook-3"
         )
         sys.exit(1)
 

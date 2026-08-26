@@ -1,0 +1,16 @@
+# RootGraph — Cloudflare Pages 部署配置
+name = "rootgraph"
+compatibility_date = "2026-08-21"
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "rootgraph"
+database_id = "134f9b4d-374c-4db8-827c-3b34f9fa302a"
+
+[env.production]
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "rootgraph"
+database_id = "134f9b4d-374c-4db8-827c-3b34f9fa302a"

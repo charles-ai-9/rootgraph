@@ -106,7 +106,7 @@ def sync_index_wordcount(textbook_dir: Path) -> None:
 
 def dedupe() -> None:
     total_merged = 0
-    for path in sorted(glob.glob(str(ROOT / "data" / "textbook-*" / "*.json"))):
+    for path in sorted(glob.glob(str(ROOT / "app" / "public" / "data" / "textbook-*" / "*.json"))):
         if os.path.basename(path) == "index.json":
             continue
         with open(path, encoding="utf-8") as f:
@@ -133,7 +133,7 @@ def dedupe() -> None:
                 json.dump(fam, f, ensure_ascii=False, indent=2)
             total_merged += merged
             print(f"  {path}: 合并 {merged} 条重复词条")
-    for tb_dir in sorted((ROOT / "data").glob("textbook-*")):
+    for tb_dir in sorted((ROOT / "app" / "public" / "data").glob("textbook-*")):
         sync_index_wordcount(tb_dir)
     print(f"dedupe 完成，共合并 {total_merged} 条重复词条")
 

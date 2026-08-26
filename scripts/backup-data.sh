@@ -1,5 +1,5 @@
 #!/bin/bash
-# 数据备份：打包 data/ 与 web/src/data/（JSON 数据资产），保留最近 10 份。
+# 数据备份：打包 app/public/data/ 与 app/src/data/（JSON 数据资产），保留最近 10 份。
 # 用法：scripts/backup-data.sh   （可 cron 或重导前手动跑）
 set -euo pipefail
 # cron 环境 PATH 不含 /opt/homebrew/bin（python3 所在），显式补齐
@@ -14,11 +14,11 @@ ARCHIVE="$BACKUP_DIR/rootgraph-data-$STAMP.tar.gz"
 
 tar -czf "$ARCHIVE" \
   -C "$ROOT" \
-  data/catalog.json \
-  data/affix-library-seed.json \
-  data/textbook-1 data/textbook-2 data/textbook-3 data/textbook-4 \
-  data/textbook-5 data/textbook-6 data/textbook-7 data/textbook-8 \
-  web/src/data/affix-library-seed.json web/src/data/affixSeed.ts
+  app/public/data/catalog.json \
+  app/public/data/affix-library-seed.json \
+  app/public/data/textbook-1 app/public/data/textbook-2 app/public/data/textbook-3 app/public/data/textbook-4 \
+  app/public/data/textbook-5 app/public/data/textbook-6 app/public/data/textbook-7 app/public/data/textbook-8 \
+  app/src/data/affix-library-seed.json app/src/data/affixSeed.ts
 
 ls -1t "$BACKUP_DIR"/rootgraph-data-*.tar.gz 2>/dev/null | tail -n +$((KEEP + 1)) | xargs -r rm -f
 

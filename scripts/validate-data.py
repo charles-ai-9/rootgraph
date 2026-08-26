@@ -12,7 +12,7 @@ from collections import Counter
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "data"
+DATA = Path(sys.argv[1]) if len(sys.argv) > 1 else ROOT / "app" / "public" / "data"
 
 errors: list[str] = []
 warnings: list[str] = []

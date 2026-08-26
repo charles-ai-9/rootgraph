@@ -11,7 +11,7 @@ for i in 1 2 3 4 5 6 7 8; do
   # 源文件可能在 ~/Desktop/2w/（用户常用目录），Downloads 优先、2w 兜底
   [[ ! -f "$docx" ]] && docx="$DESKTOP_2W/20000词汇巅峰速记营（教材${i}）.docx"
   [[ ! -f "$pdf" ]] && pdf="$DESKTOP_2W/20000词汇巅峰速记营（教材${i}）.pdf"
-  out="$ROOT/data/textbook-$i"
+  out="$ROOT/app/public/data/textbook-$i"
   if [[ -f "$docx" ]]; then
     echo "Parsing textbook $i from docx..."
     python3 "$ROOT/scripts/parse-docx.py" "$docx" "$out" "textbook-$i"
@@ -44,14 +44,14 @@ root = os.environ.get('ROOT', '.')
 # 旧 catalog 映射：(textbook, chapter, roots) → id；重导后 id 分配变化时记录 legacyId 供前端笔记迁移
 old_map = {}
 try:
-    with open(os.path.join(root, 'data/catalog.json'), encoding='utf-8') as f:
+    with open(os.path.join(root, 'app/public/data/catalog.json'), encoding='utf-8') as f:
         for e in json.load(f):
             old_map[(e.get('textbook'), e.get('chapter'),
                      json.dumps(e.get('roots', []), ensure_ascii=False, sort_keys=True))] = e.get('id')
 except (OSError, ValueError):
     pass
 families = []
-for idx_path in sorted(glob.glob(os.path.join(root, 'data/textbook-*/index.json'))):
+for idx_path in sorted(glob.glob(os.path.join(root, 'app/public/data/textbook-*/index.json'))):
     with open(idx_path) as f:
         for item in json.load(f):
             item['textbook'] = os.path.basename(os.path.dirname(idx_path))
@@ -68,7 +68,7 @@ for idx_path in sorted(glob.glob(os.path.join(root, 'data/textbook-*/index.json'
             if old_id and old_id != item['id']:
                 item['legacyId'] = old_id
             families.append(item)
-out = os.path.join(root, 'data/catalog.json')
+out = os.path.join(root, 'app/public/data/catalog.json')
 with open(out, 'w', encoding='utf-8') as f:
     json.dump(families, f, ensure_ascii=False, indent=2)
 words = sum(x.get('wordCount', 0) for x in families)
@@ -76,11 +76,5 @@ print(f'Catalog: {len(families)} families, {words} words → {out}')
 PY
 
 python3 "$ROOT/scripts/validate-data.py"
-
-public="$ROOT/web/public/data"
-mkdir -p "$public"
-rsync -a --delete --exclude '*.db' "$ROOT/data/" "$public/"
-rm -f "$public/rootgraph.db"   # --exclude 会同时阻止 --delete 清理历史残留，显式删除
-echo "Synced → $public"
 
 python3 "$ROOT/scripts/build-sqlite.py"
