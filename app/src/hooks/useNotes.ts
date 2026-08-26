@@ -489,16 +489,14 @@ export function useNotes() {
 
   // 启动时：每次加载都拉取云端最新数据（单用户场景，GET 请求成本极低，保证多浏览器/设备数据一致）
   //         主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
+  const doPull = useCallback(() => {
+    downloadRemote().then((remote) => {
+      if (remote) mergeRemote(remote);
+    }).catch(() => {});
+  }, [mergeRemote]);
+
   useEffect(() => {
-    try {
-      downloadRemote().then((remote) => {
-        if (remote) {
-          mergeRemote(remote);
-        }
-      });
-    } catch {
-      /* ignore */
-    }
+    try { doPull(); } catch { /* ignore */ }
     if (!localStorage.getItem(STORAGE_KEY)) {
       loadLatestSnapshot().then((snap) => {
         if (snap && typeof snap === 'object' && !localStorage.getItem(STORAGE_KEY)) {
@@ -506,7 +504,11 @@ export function useNotes() {
         }
       });
     }
-  }, [mergeRemote]);
+    // 监听强制重拉事件（PUT 409 时触发）
+    const onForcePull = () => doPull();
+    window.addEventListener('rootgraph-force-pull', onForcePull);
+    return () => window.removeEventListener('rootgraph-force-pull', onForcePull);
+  }, [doPull]);
 
   // 跨标签页同步：其他标签页写入时深合并进当前 store，避免浅合并覆盖嵌套对象（如 familyMeta/wordFields 丢失）
   useEffect(() => {

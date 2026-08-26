@@ -267,7 +267,13 @@ async function handleGet(ctx: { request: Request; env: Env }): Promise<Response>
   }
   try {
     const store = JSON.parse(row.data as string);
-    return json({ ...store, updatedAt: row.updated_at, deviceId: row.device_id });
+    return new Response(JSON.stringify({ ...store, updatedAt: row.updated_at, deviceId: row.device_id }), {
+      status: 200,
+      headers: {
+        'Content-Type': 'application/json',
+        'Cache-Control': 'no-store, no-cache, must-revalidate',
+      },
+    });
   } catch {
     return json({ updatedAt: 0 });
   }
@@ -284,6 +290,12 @@ async function handlePut(ctx: { request: Request; env: Env }): Promise<Response>
     if (!parsed.updatedAt) parsed.updatedAt = now;
     const deviceId = parsed.deviceId ?? null;
     const ts = now;
+
+    // 版本校验：拒绝用旧数据覆盖新数据（防止启动 pull 拿到缓存旧数据后 PUT 回写）
+    const current = await ctx.env.DB.prepare('SELECT updated_at FROM app_data WHERE id = 1').first();
+    if (current && (current.updated_at as number) > parsed.updatedAt) {
+      return json({ ok: false, reason: 'stale', currentUpdatedAt: current.updated_at, incomingUpdatedAt: parsed.updatedAt }, 409);
+    }
 
     // 写入 app_data（主存储）
     await ctx.env.DB.prepare(

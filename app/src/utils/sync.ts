@@ -58,7 +58,12 @@ export function scheduleUpload(getData: () => object): void {
         },
         body: JSON.stringify(data),
       });
-      console.log(`[sync] PUT response: ${res.status} ${res.ok ? 'OK' : 'FAIL'}`);
+      if (res.status === 409) {
+        console.warn('[sync] PUT rejected (stale): cloud has newer data. Triggering re-pull.');
+        window.dispatchEvent(new Event('rootgraph-force-pull'));
+      } else {
+        console.log(`[sync] PUT response: ${res.status} ${res.ok ? 'OK' : 'FAIL'}`);
+      }
     } catch (e) {
       console.warn('[sync] PUT error:', e);
     }
