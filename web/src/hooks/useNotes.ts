@@ -296,6 +296,7 @@ export function useNotes() {
           familyOrder: { ...(cur('familyOrder') as object), ...store.familyOrder },
           wordOrder: { ...(cur('wordOrder') as object), ...store.wordOrder },
           wordHidden: { ...(cur('wordHidden') as object), ...store.wordHidden },
+          touchMap: { ...(cur('touchMap') as object), ...store.touchMap },
           updatedAt: now,
         };
         // 双写：主 key + last-good（始终保存最近成功写入，主 key 损坏时自动恢复）
@@ -358,8 +359,8 @@ export function useNotes() {
         if (localVal === undefined) return remoteVal;
         const r = rt[touchKey] ?? 0;
         const l = lt[touchKey] ?? 0;
-        // 仅当本地也有编辑时间戳且远端更新时才用远端；本地无时间戳（旧数据/未记录）一律保留本地，防旧云端覆盖本地数据
-        return r > l && l > 0 ? remoteVal : localVal;
+        // 远端时间戳 > 本地 → 用远端；否则保留本地（包括本地无时间戳的情况）
+        return r > l ? remoteVal : localVal;
       };
       const mergeObj = <T,>(remoteObj: Record<string, T> | undefined, localObj: Record<string, T> | undefined, prefix: string): Record<string, T> => {
         const out: Record<string, T> = {};
@@ -406,7 +407,7 @@ export function useNotes() {
         deviceId: getDeviceId(),
         updatedAt: Date.now(),
       };
-      const res = await fetch('/api/sync', {
+      const res = await fetch('/api/db/sync', {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -496,6 +497,7 @@ export function useNotes() {
           userFamilyWords: { ...prev.userFamilyWords, ...external.userFamilyWords },
           familyOrder: { ...prev.familyOrder, ...external.familyOrder },
           wordOrder: { ...prev.wordOrder, ...external.wordOrder },
+          touchMap: { ...prev.touchMap, ...external.touchMap },
         }));
       } catch {
         /* 忽略非法数据 */

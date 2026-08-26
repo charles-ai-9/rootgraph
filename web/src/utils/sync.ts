@@ -3,9 +3,9 @@
  * 整块 JSON + last-write-wins + 静态 token 认证
  */
 
-// 同步 API 挂载在同域 Pages Functions 下（rootgraph.pages.dev/api/sync），
-// 避免 workers.dev 在国内被 DNS 污染的问题
-const SYNC_URL = '/api/sync';
+// 同步 API 挂载在同域 Pages Functions 下（rootgraph.pages.dev/api/db/sync），
+// 后端存储从 KV 迁移到 D1 (SQLite)，支持 SQL 查询排查
+const SYNC_URL = '/api/db/sync';
 const SYNC_TOKEN = 'rg_sync_2026_k8m3p7q2x9w4';
 const DEVICE_KEY = 'rootgraph-device-id';
 

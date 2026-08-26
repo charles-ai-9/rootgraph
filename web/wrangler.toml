@@ -7,8 +7,18 @@ pages_build_output_dir = "dist"
 binding = "NOTES"
 id = "9767c1da2d4f4ec1a8843e500bf6a615"
 
+[[d1_databases]]
+binding = "DB"
+database_name = "rootgraph"
+database_id = "134f9b4d-374c-4db8-827c-3b34f9fa302a"
+
 [env.production]
 
 [[env.production.kv_namespaces]]
 binding = "NOTES"
 id = "9767c1da2d4f4ec1a8843e500bf6a615"
+
+[[env.production.d1_databases]]
+binding = "DB"
+database_name = "rootgraph"
+database_id = "134f9b4d-374c-4db8-827c-3b34f9fa302a"
