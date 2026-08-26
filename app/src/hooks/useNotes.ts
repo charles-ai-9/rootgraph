@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useState } from 'react';
+import { useCallback, useEffect, useRef, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes, type WordEntry } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
@@ -228,24 +228,25 @@ function load(): NotesStore {
 
 export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
+  /** 标记下次 store 变化是否来自用户编辑（决定是否上传到服务器） */
+  const isUserEditRef = useRef(false);
 
-  /** 用户编辑包装器：更新 React state + 保存到服务器 + 写入 localStorage 缓存 */
+  /** 用户编辑包装器：标记为用户编辑 → 更新 React state */
   const userEdit = useCallback((updater: (prev: NotesStore) => NotesStore) => {
-    setStore((prev) => {
-      const next = updater(prev);
-      // 异步保存到服务器（fire-and-forget）
-      saveToServer(next);
-      // 同步写入 localStorage 缓存
-      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(next)); } catch {}
-      return next;
-    });
+    isUserEditRef.current = true;
+    setStore(updater);
   }, []);
 
-  // store 变化 → 写入 localStorage 缓存（仅缓存，不做 upload）
+  // store 变化 → 写入 localStorage + 仅用户编辑时上传到服务器
   useEffect(() => {
     try {
       localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
     } catch { /* quota */ }
+    // 仅用户编辑触发上传；服务器加载（doPull）不上传，防止旧数据覆盖云端
+    if (isUserEditRef.current) {
+      isUserEditRef.current = false;
+      saveToServer(store);
+    }
   }, [store]);
 
   // 启动时从服务器加载最新数据（服务端权威：服务器数据覆盖本地）
@@ -267,6 +268,23 @@ export function useNotes() {
     })();
     return () => { cancelled = true; };
   }, []);
+
+  // 页面关闭/刷新前：确保 localStorage 始终保存最新数据
+  // 这样即使 PUT 还没到达服务器，刷新后 localStorage 仍有正确数据
+  useEffect(() => {
+    const flush = () => {
+      try {
+        const json = JSON.stringify(store);
+        localStorage.setItem(STORAGE_KEY, json);
+      } catch {}
+    };
+    window.addEventListener('beforeunload', flush);
+    window.addEventListener('pagehide', flush);
+    return () => {
+      window.removeEventListener('beforeunload', flush);
+      window.removeEventListener('pagehide', flush);
+    };
+  }, [store]);
 
   /** 手动同步：从服务器拉取最新数据（用于拉取其他浏览器的编辑） */
   const syncNow = useCallback(async (): Promise<{ ok: boolean; msg: string }> => {
@@ -681,6 +699,7 @@ export function useNotes() {
         /* 配额满则跳过快照，迁移仍继续 */
       }
     }
+    isUserEditRef.current = true;
     setStore((prev) => {
       const next: NotesStore = {
         families: { ...prev.families },
@@ -710,11 +729,6 @@ export function useNotes() {
             }
           }
         }
-      }
-      if (changed) {
-        // 迁移后保存到服务器和 localStorage
-        saveToServer(next);
-        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(next)); } catch {}
       }
       return changed ? next : prev;
     });
