@@ -3,7 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
-import { downloadRemote, getDeviceId, scheduleUpload } from '../utils/sync';
+import { downloadRemote, getDeviceId, scheduleUpload, resetRePullCount } from '../utils/sync';
 import { saveSnapshot, loadLatestSnapshot } from '../utils/snapshotDb';
 
 export interface WordFieldOverrides {
@@ -266,6 +266,13 @@ export function useNotes() {
   /** merge 期间标记：防止 mergeRemote 触发 setStore 后 useEffect 的 scheduleUpload 用旧数据覆盖云端 */
   const mergingRef = useRef(false);
 
+  /** 用户编辑包装器：清除 merge 标记 + 重置 409 计数，确保用户编辑能正常上传 */
+  const userEdit = useCallback((updater: (prev: NotesStore) => NotesStore) => {
+    mergingRef.current = false;
+    resetRePullCount();
+    setStore(updater);
+  }, []);
+
   // 最新 store 引用：供 beforeunload / storage 同步使用
   const storeRef = useRef(store);
   useEffect(() => {
@@ -417,8 +424,8 @@ export function useNotes() {
       }
       return merged;
     });
-    // merge 完成后延迟清除标记（确保 useEffect 已触发并检查了标记）
-    setTimeout(() => { mergingRef.current = false; }, 2000);
+    // merge 完成后不清除 mergingRef —— 只有用户主动编辑才会清除（见 userEdit）
+    // 这确保 merge 触发的 useEffect 永远不会执行 scheduleUpload
     return true;
   }, []);
 
@@ -563,7 +570,7 @@ export function useNotes() {
   const getFamilyNote = useCallback((key: string) => store.families[key] ?? '', [store]);
 
   const setFamilyNote = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       families: { ...prev.families, [key]: text },
       touchMap: { ...prev.touchMap, ['f:' + key]: Date.now() },
@@ -573,7 +580,7 @@ export function useNotes() {
   const getVideoId = useCallback((key: string) => store.videoMap[key] ?? '', [store]);
 
   const setVideoId = useCallback((key: string, videoId: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       videoMap: { ...prev.videoMap, [key]: videoId.trim() },
       touchMap: { ...prev.touchMap, ['v:' + key]: Date.now() },
@@ -596,7 +603,7 @@ export function useNotes() {
         /* ignore */
       }
     }
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       familyMeta: { ...prev.familyMeta, [key]: meta },
       touchMap: { ...prev.touchMap, ['m:' + key]: Date.now() },
@@ -609,7 +616,7 @@ export function useNotes() {
 
   /** 保存某教材（或我的词根 'user'）的词根顺序（首页拖动排序） */
   const setFamilyOrder = useCallback((groupKey: string, ids: string[]) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       familyOrder: { ...prev.familyOrder, [groupKey]: ids },
     }));
@@ -618,7 +625,7 @@ export function useNotes() {
   const getWordOrder = useCallback((key: string): string[] => store.wordOrder[key] ?? [], [store]);
 
   const setWordOrder = useCallback((key: string, words: string[]) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordOrder: { ...prev.wordOrder, [key]: words },
     }));
@@ -626,7 +633,7 @@ export function useNotes() {
 
   const createUserFamily = useCallback((data: Omit<UserFamily, 'createdAt'>) => {
     const family: UserFamily = { ...data, createdAt: Date.now() };
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       userFamilies: { ...prev.userFamilies, [family.id]: family },
       userFamilyWords: { ...prev.userFamilyWords, [family.id]: prev.userFamilyWords[family.id] ?? [] },
@@ -647,7 +654,7 @@ export function useNotes() {
     } catch {
       /* ignore */
     }
-    setStore((prev) => {
+    userEdit((prev) => {
       const next: NotesStore = {
         ...prev,
         userFamilies: { ...prev.userFamilies },
@@ -663,7 +670,7 @@ export function useNotes() {
   /** 编辑我的词根（词根名/释义/目标教材；保留 id，笔记与挂载词不受影响） */
   const updateUserFamily = useCallback(
     (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => {
-      setStore((prev) => {
+      userEdit((prev) => {
         const cur = prev.userFamilies[id];
         if (!cur) return prev;
         return {
@@ -681,7 +688,7 @@ export function useNotes() {
   /** 批量把词挂入用户词根族（词条快照 + 来源标记，从原族排除显示） */
   const moveWordsToUserFamily = useCallback(
     (familyId: string, words: WordEntry[], from?: { textbook: string; familyId: string }) => {
-    setStore((prev) => {
+    userEdit((prev) => {
       const existing = new Set((prev.userFamilyWords[familyId] ?? []).map((w) => w.word));
       // from 缺省（用户词根族间转移）时保留词自带的 _from，避免丢失原数据族归属
       const added = words.filter((w) => !existing.has(w.word)).map((w) => (from ? { ...w, _from: from } : w));
@@ -698,7 +705,7 @@ export function useNotes() {
 
   /** 新建单词挂入用户词根族（无 _from，纯新增） */
   const addWordToUserFamily = useCallback((familyId: string, word: WordEntry) => {
-    setStore((prev) => {
+    userEdit((prev) => {
       const existing = new Set((prev.userFamilyWords[familyId] ?? []).map((w) => w.word));
       if (existing.has(word.word)) return prev;
       return {
@@ -724,7 +731,7 @@ export function useNotes() {
     } catch {
       /* ignore */
     }
-    setStore((prev) => {
+    userEdit((prev) => {
       const list = (prev.userFamilyWords[familyId] ?? []).filter((w) => w.word !== word);
       return {
         ...prev,
@@ -741,7 +748,7 @@ export function useNotes() {
   const getWordNote = useCallback((key: string) => store.words[key] ?? '', [store]);
 
   const setWordNote = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       words: { ...prev.words, [key]: text },
       touchMap: { ...prev.touchMap, ['w:' + key]: Date.now() },
@@ -755,7 +762,7 @@ export function useNotes() {
 
   const setWordAffixNote = useCallback(
     (key: string, kind: 'prefix' | 'suffix', note: AffixNoteData) => {
-      setStore((prev) => {
+      userEdit((prev) => {
         const current = prev.affixNotes[key] ?? emptyWordAffixNotes();
         return {
           ...prev,
@@ -780,7 +787,7 @@ export function useNotes() {
   );
 
   const setWordMnemonic = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -798,7 +805,7 @@ export function useNotes() {
   );
 
   const setWordCollocations = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -824,7 +831,7 @@ export function useNotes() {
   );
 
   const setWordExamples = useCallback((key: string, examples: string[]) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -842,7 +849,7 @@ export function useNotes() {
   );
 
   const setWordEtymology = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -868,7 +875,7 @@ export function useNotes() {
   );
 
   const setWordDefinition = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -887,7 +894,7 @@ export function useNotes() {
   );
 
   const setWordPos = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -903,7 +910,7 @@ export function useNotes() {
   );
 
   const setWordSenses = useCallback((key: string, senses: { pos: string; definition: string }[]) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,
@@ -915,14 +922,14 @@ export function useNotes() {
 
   /** 删除单词（本地隐藏，显示过滤；数据保留可导出恢复） */
   const hideWord = useCallback((key: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordHidden: { ...prev.wordHidden, [key]: true },
     }));
   }, []);
 
   const unhideWord = useCallback((key: string) => {
-    setStore((prev) => {
+    userEdit((prev) => {
       const next = { ...prev.wordHidden };
       delete next[key];
       return { ...prev, wordHidden: next };
@@ -932,7 +939,7 @@ export function useNotes() {
   const getHiddenWords = useCallback((): Record<string, boolean> => store.wordHidden, [store]);
 
   const setWordPhonetic = useCallback((key: string, text: string) => {
-    setStore((prev) => ({
+    userEdit((prev) => ({
       ...prev,
       wordFields: {
         ...prev.wordFields,

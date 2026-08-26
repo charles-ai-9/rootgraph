@@ -11,6 +11,9 @@ const DEVICE_KEY = 'rootgraph-device-id';
 
 let uploadTimer: ReturnType<typeof setTimeout> | null = null;
 let pending: (() => object) | null = null;
+/** 409 重拉计数：防止 merge → upload → 409 → force-pull → merge → upload 无限循环 */
+let rePullCount = 0;
+const MAX_REPULL = 2;
 
 /** 生成/读取稳定的设备标识（云端版本历史可追踪哪个设备写入） */
 export function getDeviceId(): string {
@@ -59,15 +62,26 @@ export function scheduleUpload(getData: () => object): void {
         body: JSON.stringify(data),
       });
       if (res.status === 409) {
-        console.warn('[sync] PUT rejected (stale): cloud has newer data. Triggering re-pull.');
-        window.dispatchEvent(new Event('rootgraph-force-pull'));
+        console.warn(`[sync] PUT rejected (stale, rePull=${rePullCount}/${MAX_REPULL}): cloud has newer data.`);
+        if (rePullCount < MAX_REPULL) {
+          rePullCount++;
+          window.dispatchEvent(new Event('rootgraph-force-pull'));
+        } else {
+          console.warn('[sync] Max re-pull reached, stopping. Cloud data may be stale.');
+        }
       } else {
+        rePullCount = 0;
         console.log(`[sync] PUT response: ${res.status} ${res.ok ? 'OK' : 'FAIL'}`);
       }
     } catch (e) {
       console.warn('[sync] PUT error:', e);
     }
   }, 500);
+}
+
+/** 重置 409 重拉计数（用户主动编辑时调用，确保新编辑的上传不被拦截） */
+export function resetRePullCount(): void {
+  rePullCount = 0;
 }
 
 /**
