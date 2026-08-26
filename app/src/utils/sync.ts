@@ -43,8 +43,14 @@ export function scheduleUpload(getData: () => object): void {
     pending = null;
     if (!fn) return;
     try {
-      const data = { ...fn(), deviceId: getDeviceId() };
-      await fetch(SYNC_URL, {
+      const raw = fn();
+      const data = { ...raw, deviceId: getDeviceId() };
+      const wf = (raw as Record<string, unknown>).wordFields as Record<string, unknown> | undefined;
+      console.log(`[sync] PUT firing: wordFields=${Object.keys(wf ?? {}).length}, updatedAt=${(raw as Record<string, unknown>).updatedAt}, tie=${wf?.['textbook-3/duct/tie'] ? 'YES' : 'NO'}`);
+      if (wf && Object.keys(wf).some(k => k.includes('tie'))) {
+        console.log('[sync] tie keys in PUT:', Object.keys(wf).filter(k => k.includes('tie')));
+      }
+      const res = await fetch(SYNC_URL, {
         method: 'PUT',
         headers: {
           'Content-Type': 'application/json',
@@ -52,8 +58,9 @@ export function scheduleUpload(getData: () => object): void {
         },
         body: JSON.stringify(data),
       });
-    } catch {
-      // 静默失败：离线/网络异常不影响本地使用
+      console.log(`[sync] PUT response: ${res.status} ${res.ok ? 'OK' : 'FAIL'}`);
+    } catch (e) {
+      console.warn('[sync] PUT error:', e);
     }
   }, 500);
 }
