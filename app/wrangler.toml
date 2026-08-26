@@ -3,6 +3,9 @@ name = "rootgraph"
 compatibility_date = "2026-08-21"
 pages_build_output_dir = "dist"
 
+[vars]
+SYNC_TOKEN = "rg_sync_2026_k8m3p7q2x9w4"
+
 [[d1_databases]]
 binding = "DB"
 database_name = "rootgraph"
