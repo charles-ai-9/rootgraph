@@ -265,11 +265,14 @@ export function useNotes() {
   const lastSnapRef = useRef(0);
   /** merge 期间标记：防止 mergeRemote 触发 setStore 后 useEffect 的 scheduleUpload 用旧数据覆盖云端 */
   const mergingRef = useRef(false);
+  /** 同步编辑计数：解决 storeRef 在 useEffect 中异步更新导致的竞态（doPull 的 .then() 可能在 storeRef 更新前执行） */
+  const editCountRef = useRef(0);
 
-  /** 用户编辑包装器：清除 merge 标记 + 重置 409 计数，确保用户编辑能正常上传 */
+  /** 用户编辑包装器：清除 merge 标记 + 重置 409 计数 + 递增编辑计数，确保用户编辑能正常上传 */
   const userEdit = useCallback((updater: (prev: NotesStore) => NotesStore) => {
     mergingRef.current = false;
     resetRePullCount();
+    editCountRef.current++;
     setStore(updater);
   }, []);
 
@@ -497,8 +500,18 @@ export function useNotes() {
   // 启动时：每次加载都拉取云端最新数据（单用户场景，GET 请求成本极低，保证多浏览器/设备数据一致）
   //         主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
   const doPull = useCallback(() => {
+    // 记录 GET 开始时的编辑计数，用于检测 GET 期间是否有用户编辑
+    // 用编辑计数而非 storeRef.updatedAt，因为 storeRef 在 useEffect 中异步更新，
+    // doPull 的 .then() 可能在 storeRef 更新前执行
+    const pullEditCount = editCountRef.current;
     downloadRemote().then((remote) => {
-      if (remote) mergeRemote(remote);
+      if (!remote) return;
+      // 如果 GET 期间用户编辑了本地数据，跳过合并防止旧云端覆盖新编辑
+      if (editCountRef.current !== pullEditCount) {
+        console.log('[sync] doPull skipped: user edited during fetch');
+        return;
+      }
+      mergeRemote(remote);
     }).catch(() => {});
   }, [mergeRemote]);
 
