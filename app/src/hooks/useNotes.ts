@@ -263,6 +263,8 @@ export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
   /** 本地快照时间戳（节流：每 10 分钟最多一份） */
   const lastSnapRef = useRef(0);
+  /** merge 期间标记：防止 mergeRemote 触发 setStore 后 useEffect 的 scheduleUpload 用旧数据覆盖云端 */
+  const mergingRef = useRef(false);
 
   // 最新 store 引用：供 beforeunload / storage 同步使用
   const storeRef = useRef(store);
@@ -303,8 +305,8 @@ export function useNotes() {
         const json = JSON.stringify(merged);
         safeSetItem(STORAGE_KEY, json);
         safeSetItem(LAST_GOOD_KEY, json);
-        // 防抖上传到云端 D1（500ms debounce）
-        scheduleUpload(() => merged);
+        // 防抖上传到云端 D1（500ms debounce）；merge 期间跳过，防止旧数据覆盖云端
+        if (!mergingRef.current) scheduleUpload(() => merged);
         // 本地快照（>10 分钟间隔，保留 20 份）
         lastSnapRef.current = takeLocalSnapshot(merged, lastSnapRef.current);
         return;
@@ -316,7 +318,8 @@ export function useNotes() {
     const json = JSON.stringify(withTimestamp);
     safeSetItem(STORAGE_KEY, json);
     safeSetItem(LAST_GOOD_KEY, json);
-    scheduleUpload(() => withTimestamp);
+    // merge 期间跳过 upload，防止 mergeRemote 触发 setStore 后用旧数据覆盖云端
+    if (!mergingRef.current) scheduleUpload(() => withTimestamp);
     lastSnapRef.current = takeLocalSnapshot(withTimestamp, lastSnapRef.current);
   }, [store]);
 
@@ -364,6 +367,8 @@ export function useNotes() {
     // 合并：笔记类按 key 级时间戳（touchMap）逐条取最新——A 设备改的条目在 B 设备上也能拉到；
     // 词根/顺序类保持本地优先（追加型数据，并集最安全）。
     const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
+    // 标记 merge 进行中，防止 useEffect 的 scheduleUpload 用旧数据覆盖云端
+    mergingRef.current = true;
     setStore((prev) => {
       const rt = remoteRest.touchMap ?? {};
       const lt = prev.touchMap ?? {};
@@ -412,6 +417,8 @@ export function useNotes() {
       }
       return merged;
     });
+    // merge 完成后延迟清除标记（确保 useEffect 已触发并检查了标记）
+    setTimeout(() => { mergingRef.current = false; }, 2000);
     return true;
   }, []);
 
