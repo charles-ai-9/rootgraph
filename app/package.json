@@ -9,6 +9,7 @@
     "lint": "oxlint",
     "preview": "vite preview",
     "import:affix": "python3 ../scripts/import-affix-library.py",
+    "dev:wrangler": "npx wrangler pages dev dist --local --binding SYNC_TOKEN=rg_sync_2026_k8m3p7q2x9w4",
     "db:seed": "python3 ../scripts/import-to-d1.py --local",
     "db:seed:prod": "python3 ../scripts/import-to-d1.py --remote"
   },
