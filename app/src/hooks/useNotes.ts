@@ -1,10 +1,8 @@
-import { useCallback, useEffect, useRef, useState } from 'react';
+import { useCallback, useEffect, useState } from 'react';
 import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffixNotes, type WordEntry } from '../types';
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
-import { safeSetItem } from '../utils/storage';
-import { downloadRemote, getDeviceId, scheduleUpload, resetRePullCount } from '../utils/sync';
-import { saveSnapshot, loadLatestSnapshot } from '../utils/snapshotDb';
+import { downloadRemote, saveToServer } from '../utils/sync';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -76,40 +74,6 @@ export interface UserFamilyWord extends WordEntry {
 
 const STORAGE_KEY = 'rootgraph-notes-v2';
 const LEGACY_KEY = 'rootgraph-notes-v1';
-/** 本地双写备份：始终保存最近一次成功写入的完整数据（主 key 损坏时自动恢复） */
-const LAST_GOOD_KEY = 'rootgraph-notes-last-good';
-/** 本地快照前缀：定期保存历史版本（保留最近 20 份，本地可回滚） */
-const SNAP_INTERVAL_MS = 30 * 60 * 1000;
-
-/** 本地快照：距上次超过 30 分钟则存一份到 IndexedDB（容量大，不占 localStorage 配额） */
-function takeLocalSnapshot(data: unknown, lastTs: number): number {
-  const now = Date.now();
-  if (now - lastTs < SNAP_INTERVAL_MS) return lastTs;
-  saveSnapshot(data);
-  return now;
-}
-
-/** 本地恢复源：主 key → last-good → 最近快照（依次尝试，返回可用 JSON 或 null） */
-function readLocalWithRecovery(): { store: NotesStore; recovered: boolean } | null {
-  const attempt = (raw: string | null): NotesStore | null => {
-    if (!raw) return null;
-    try {
-      return JSON.parse(raw) as NotesStore;
-    } catch {
-      return null;
-    }
-  };
-  try {
-    const main = attempt(localStorage.getItem(STORAGE_KEY));
-    if (main) return { store: main, recovered: false };
-    // 主数据损坏：从 last-good 恢复
-    const good = attempt(localStorage.getItem(LAST_GOOD_KEY));
-    if (good) return { store: good, recovered: true };
-    } catch {
-    /* ignore */
-  }
-  return null;
-}
 
 const empty: NotesStore = {
   families: {},
@@ -210,27 +174,30 @@ function normalizeWordAffixNotes(raw: unknown): WordAffixNotes {
 }
 
 function load(): NotesStore {
-  // 自愈：主数据损坏时从 last-good / 本地快照恢复（本地三层保护：主 key → last-good → 快照）
-  const recovered = readLocalWithRecovery();
-  if (recovered) {
-    const parsed = recovered.store as Partial<NotesStore>;
-    return {
-      families: parsed.families ?? {},
-      words: parsed.words ?? {},
-      affixNotes: Object.fromEntries(
-        Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
-      ),
-      wordFields: parsed.wordFields ?? {},
-      videoMap: parsed.videoMap ?? {},
-      familyMeta: parsed.familyMeta ?? {},
-      userFamilies: parsed.userFamilies ?? {},
-      userFamilyWords: parsed.userFamilyWords ?? {},
-      familyOrder: parsed.familyOrder ?? {},
-      wordOrder: parsed.wordOrder ?? {},
-      updatedAt: parsed.updatedAt ?? 0,
-      touchMap: parsed.touchMap ?? {},
-      wordHidden: parsed.wordHidden ?? {},
-    };
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (raw) {
+      const parsed = JSON.parse(raw) as Partial<NotesStore>;
+      return {
+        families: parsed.families ?? {},
+        words: parsed.words ?? {},
+        affixNotes: Object.fromEntries(
+          Object.entries(parsed.affixNotes ?? {}).map(([k, v]) => [k, normalizeWordAffixNotes(v)]),
+        ),
+        wordFields: parsed.wordFields ?? {},
+        videoMap: parsed.videoMap ?? {},
+        familyMeta: parsed.familyMeta ?? {},
+        userFamilies: parsed.userFamilies ?? {},
+        userFamilyWords: parsed.userFamilyWords ?? {},
+        familyOrder: parsed.familyOrder ?? {},
+        wordOrder: parsed.wordOrder ?? {},
+        updatedAt: parsed.updatedAt ?? 0,
+        touchMap: parsed.touchMap ?? {},
+        wordHidden: parsed.wordHidden ?? {},
+      };
+    }
+  } catch {
+    /* ignore */
   }
 
   const legacy = localStorage.getItem(LEGACY_KEY);
@@ -261,211 +228,58 @@ function load(): NotesStore {
 
 export function useNotes() {
   const [store, setStore] = useState<NotesStore>(load);
-  /** 本地快照时间戳（节流：每 10 分钟最多一份） */
-  const lastSnapRef = useRef(0);
-  /** merge 期间标记：防止 mergeRemote 触发 setStore 后 useEffect 的 scheduleUpload 用旧数据覆盖云端 */
-  const mergingRef = useRef(false);
-  /** 同步编辑计数：解决 storeRef 在 useEffect 中异步更新导致的竞态（doPull 的 .then() 可能在 storeRef 更新前执行） */
-  const editCountRef = useRef(0);
 
-  /** 用户编辑包装器：清除 merge 标记 + 重置 409 计数 + 递增编辑计数，确保用户编辑能正常上传 */
+  /** 用户编辑包装器：更新 React state + 保存到服务器 + 写入 localStorage 缓存 */
   const userEdit = useCallback((updater: (prev: NotesStore) => NotesStore) => {
-    mergingRef.current = false;
-    resetRePullCount();
-    editCountRef.current++;
-    setStore(updater);
-  }, []);
-
-  // 最新 store 引用：供 beforeunload / storage 同步使用
-  const storeRef = useRef(store);
-  useEffect(() => {
-    storeRef.current = store;
-  }, [store]);
-
-  useEffect(() => {
-    // 合并持久化：与 localStorage 现有数据取并集（userFamilies/userFamilyWords 等追加型字段），
-    // 防止多标签页中旧 store 覆盖其他标签页新建的词根/单词（如新建 respect 后消失）。
-    // 删除操作会同步清理 localStorage（见 removeUserFamily 等），因此不会"复活"已删除条目。
-    const now = Date.now();
-    try {
-      const raw = localStorage.getItem(STORAGE_KEY);
-      if (raw) {
-        const current = JSON.parse(raw) as Partial<NotesStore>;
-        const cur = (k: keyof NotesStore) => (current as Record<string, unknown>)[k] ?? {};
-        // 全字段合并持久化：本页最新（store）优先 + localStorage 现有（current）补充。
-        // 保证「任何编辑都不丢失」：本页刚编辑的值写入（编辑生效），其他标签页/旧数据里
-        // 本页没有的键保留（不覆盖丢失）；删除操作同步清理 localStorage，不会"复活"。
-        const merged = {
-          ...store,
-          families: { ...(cur('families') as object), ...store.families },
-          words: { ...(cur('words') as object), ...store.words },
-          affixNotes: { ...(cur('affixNotes') as object), ...store.affixNotes },
-          wordFields: { ...(cur('wordFields') as object), ...store.wordFields },
-          videoMap: { ...(cur('videoMap') as object), ...store.videoMap },
-          familyMeta: { ...(cur('familyMeta') as object), ...store.familyMeta },
-          userFamilies: { ...(cur('userFamilies') as object), ...store.userFamilies },
-          userFamilyWords: { ...(cur('userFamilyWords') as object), ...store.userFamilyWords },
-          familyOrder: { ...(cur('familyOrder') as object), ...store.familyOrder },
-          wordOrder: { ...(cur('wordOrder') as object), ...store.wordOrder },
-          wordHidden: { ...(cur('wordHidden') as object), ...store.wordHidden },
-          touchMap: { ...(cur('touchMap') as object), ...store.touchMap },
-          updatedAt: now,
-        };
-        // 双写：主 key + last-good（始终保存最近成功写入，主 key 损坏时自动恢复）
-        const json = JSON.stringify(merged);
-        safeSetItem(STORAGE_KEY, json);
-        safeSetItem(LAST_GOOD_KEY, json);
-        // 防抖上传到云端 D1（500ms debounce）；merge 期间跳过，防止旧数据覆盖云端
-        if (!mergingRef.current) scheduleUpload(() => merged);
-        // 本地快照（>10 分钟间隔，保留 20 份）
-        lastSnapRef.current = takeLocalSnapshot(merged, lastSnapRef.current);
-        return;
-      }
-    } catch {
-      /* 忽略异常，回退直接写入 */
-    }
-    const withTimestamp = { ...store, updatedAt: now };
-    const json = JSON.stringify(withTimestamp);
-    safeSetItem(STORAGE_KEY, json);
-    safeSetItem(LAST_GOOD_KEY, json);
-    // merge 期间跳过 upload，防止 mergeRemote 触发 setStore 后用旧数据覆盖云端
-    if (!mergingRef.current) scheduleUpload(() => withTimestamp);
-    lastSnapRef.current = takeLocalSnapshot(withTimestamp, lastSnapRef.current);
-  }, [store]);
-
-  /** 远端数据合并进本地（本地优先：保留本地最新编辑，远端独有补入）；返回是否发生了合并 */
-  const mergeRemote = useCallback((remote: object): boolean => {
-    const remoteStore = remote as NotesStore;
-    const remoteWordbook = (remote as { wordbook?: unknown }).wordbook;
-    const localUpdatedAt = storeRef.current.updatedAt ?? 0;
-    if (!(remoteStore.updatedAt > localUpdatedAt)) return false;
-    // 安全检查：云端缺失本地有的字段时（如 PUT 503 导致数据丢失），跳过合并保护本地数据
-    const localStore = storeRef.current;
-    for (const section of ['wordFields', 'families', 'words', 'affixNotes', 'videoMap', 'familyMeta'] as const) {
-      const localKeys = Object.keys((localStore as unknown as Record<string, Record<string, unknown>>)[section] ?? {});
-      const remoteKeys = Object.keys((remoteStore as unknown as Record<string, Record<string, unknown>>)[section] ?? {});
-      if (localKeys.length > 0 && remoteKeys.length === 0) {
-        console.warn(`[sync] 云端 ${section} 为空但本地有 ${localKeys.length} 条，跳过合并保护本地数据`);
-        return false;
-      }
-    }
-    // 覆盖前先备份本地（防 last-write-wins 误覆盖造成笔记丢失）
-    try {
-      localStorage.setItem(
-        `rootgraph-notes-backup-pre-sync-${Date.now()}`,
-        JSON.stringify(storeRef.current),
-      );
-    } catch {
-      /* ignore */
-    }
-    // 单词本（独立 key）写回本地并通知刷新
-    if (Array.isArray(remoteWordbook)) {
-      try {
-        localStorage.setItem('rootgraph-wordbook-v1', JSON.stringify(remoteWordbook));
-        window.dispatchEvent(new Event('rootgraph-wordbook-updated'));
-      } catch {
-        /* ignore */
-      }
-    }
-    // 记录本次同步时间（拉取合并成功）
-    try {
-      localStorage.setItem('rootgraph-last-sync-time', String(Date.now()));
-      window.dispatchEvent(new Event('rootgraph-synced'));
-    } catch {
-      /* ignore */
-    }
-    // 合并：笔记类按 key 级时间戳（touchMap）逐条取最新——A 设备改的条目在 B 设备上也能拉到；
-    // 词根/顺序类保持本地优先（追加型数据，并集最安全）。
-    const { wordbook: _wb, ...remoteRest } = remoteStore as NotesStore & { wordbook?: unknown };
-    // 标记 merge 进行中，防止 useEffect 的 scheduleUpload 用旧数据覆盖云端
-    mergingRef.current = true;
     setStore((prev) => {
-      const rt = remoteRest.touchMap ?? {};
-      const lt = prev.touchMap ?? {};
-      const mergeByTouch = (remoteVal: unknown, localVal: unknown, touchKey: string) => {
-        if (remoteVal === undefined) return localVal;
-        if (localVal === undefined) return remoteVal;
-        const r = rt[touchKey] ?? 0;
-        const l = lt[touchKey] ?? 0;
-        // 远端时间戳 > 本地 → 用远端；否则保留本地（包括本地无时间戳的情况）
-        return r > l ? remoteVal : localVal;
-      };
-      const mergeObj = <T,>(remoteObj: Record<string, T> | undefined, localObj: Record<string, T> | undefined, prefix: string): Record<string, T> => {
-        const out: Record<string, T> = {};
-        for (const k of new Set([...Object.keys(remoteObj ?? {}), ...Object.keys(localObj ?? {})])) {
-          out[k] = mergeByTouch(remoteObj?.[k], localObj?.[k], `${prefix}:${k}`) as T;
-        }
-        return out;
-      };
-      const merged = {
-        ...prev,
-        ...remoteRest,
-        families: mergeObj(remoteRest.families as Record<string, string> | undefined, prev.families, 'f'),
-        words: mergeObj(remoteRest.words as Record<string, string> | undefined, prev.words, 'w'),
-        affixNotes: mergeObj(remoteRest.affixNotes as Record<string, WordAffixNotes> | undefined, prev.affixNotes, 'a'),
-        wordFields: mergeObj(remoteRest.wordFields as Record<string, WordFieldOverrides> | undefined, prev.wordFields, 'wf'),
-        videoMap: mergeObj(remoteRest.videoMap as Record<string, string> | undefined, prev.videoMap, 'v'),
-        familyMeta: mergeObj(remoteRest.familyMeta as Record<string, FamilyMeta> | undefined, prev.familyMeta, 'm'),
-        // 词根/挂载/顺序：本地优先并集（追加型，避免整条覆盖丢数据）
-        userFamilies: { ...(remoteRest.userFamilies ?? {}), ...prev.userFamilies },
-        userFamilyWords: { ...(remoteRest.userFamilyWords ?? {}), ...prev.userFamilyWords },
-        familyOrder: { ...(remoteRest.familyOrder ?? {}), ...prev.familyOrder },
-        wordOrder: { ...(remoteRest.wordOrder ?? {}), ...prev.wordOrder },
-        wordHidden: { ...(remoteRest.wordHidden ?? {}), ...prev.wordHidden },
-        touchMap: { ...rt, ...lt },
-        updatedAt: Math.max(remoteRest.updatedAt ?? 0, prev.updatedAt ?? 0),
-      };
-      // 安全网：确保本地独有的 key 不因云端缺失而丢失（如 PUT 503 / HTTP 缓存导致云端数据滞后）
-      for (const section of ['wordFields', 'families', 'words', 'affixNotes', 'videoMap', 'familyMeta'] as const) {
-        const remoteSec = (remoteRest as unknown as Record<string, Record<string, unknown>>)[section] ?? {};
-        const localSec = (prev as unknown as Record<string, Record<string, unknown>>)[section] ?? {};
-        for (const k of Object.keys(localSec)) {
-          if (!(k in remoteSec) && !(k in (merged[section] as Record<string, unknown>))) {
-            (merged[section] as Record<string, unknown>)[k] = localSec[k];
-          }
-        }
-      }
-      return merged;
+      const next = updater(prev);
+      // 异步保存到服务器（fire-and-forget）
+      saveToServer(next);
+      // 同步写入 localStorage 缓存
+      try { localStorage.setItem(STORAGE_KEY, JSON.stringify(next)); } catch {}
+      return next;
     });
-    // merge 完成后不清除 mergingRef —— 只有用户主动编辑才会清除（见 userEdit）
-    // 这确保 merge 触发的 useEffect 永远不会执行 scheduleUpload
-    return true;
   }, []);
 
-  /** 手动/定时同步：上传本地完整数据（含单词本）→ 下载合并远端（本地优先） */
+  // store 变化 → 写入 localStorage 缓存（仅缓存，不做 upload）
+  useEffect(() => {
+    try {
+      localStorage.setItem(STORAGE_KEY, JSON.stringify(store));
+    } catch { /* quota */ }
+  }, [store]);
+
+  // 启动时从服务器加载最新数据（服务端权威：服务器数据覆盖本地）
+  useEffect(() => {
+    let cancelled = false;
+    (async () => {
+      try {
+        const remote = await downloadRemote();
+        if (cancelled || !remote) return;
+        const remoteStore = remote as NotesStore;
+        // 仅当服务器数据比本地新时才覆盖（防止用旧数据覆盖新数据）
+        setStore((prev) => {
+          if (remoteStore.updatedAt > (prev.updatedAt || 0)) {
+            return remoteStore;
+          }
+          return prev;
+        });
+      } catch {}
+    })();
+    return () => { cancelled = true; };
+  }, []);
+
+  /** 手动同步：从服务器拉取最新数据（用于拉取其他浏览器的编辑） */
   const syncNow = useCallback(async (): Promise<{ ok: boolean; msg: string }> => {
     try {
-      let wordbook: unknown = [];
-      try {
-        const raw = localStorage.getItem('rootgraph-wordbook-v1');
-        wordbook = raw ? JSON.parse(raw) : [];
-      } catch {
-        /* ignore */
-      }
-      const payload = {
-        ...storeRef.current,
-        wordbook,
-        deviceId: getDeviceId(),
-        updatedAt: Date.now(),
-      };
-      const res = await fetch('/api/db/sync', {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: 'Bearer rg_sync_2026_k8m3p7q2x9w4',
-        },
-        body: JSON.stringify(payload),
-      });
-      if (!res.ok) return { ok: false, msg: '上传失败（请检查网络）' };
-      // 下载合并（本地优先，防远端旧数据覆盖）
       const remote = await downloadRemote();
-      if (remote) mergeRemote(remote);
-      try {
-        localStorage.setItem('rootgraph-last-sync-time', String(Date.now()));
-        window.dispatchEvent(new Event('rootgraph-synced'));
-      } catch {
-        /* ignore */
-      }
+      if (!remote) return { ok: false, msg: '同步失败（网络异常）' };
+      const remoteStore = remote as NotesStore;
+      setStore((prev) => {
+        if (remoteStore.updatedAt > (prev.updatedAt || 0)) {
+          return remoteStore;
+        }
+        return prev;
+      });
       return {
         ok: true,
         msg: `已同步 ${new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`,
@@ -473,111 +287,6 @@ export function useNotes() {
     } catch {
       return { ok: false, msg: '同步失败（网络异常）' };
     }
-  }, [mergeRemote]);
-
-  /** 每日 18:40 自动同步（打开页面时若已过当天 18:40 且未同步，补一次） */
-  useEffect(() => {
-    const run = () => {
-      const now = new Date();
-      const today = now.toDateString();
-      try {
-        if (localStorage.getItem('rootgraph-sync-date') === today) return;
-        const target = new Date();
-        target.setHours(18, 40, 0, 0);
-        if (now >= target) {
-          localStorage.setItem('rootgraph-sync-date', today);
-          syncNow();
-        }
-      } catch {
-        /* ignore */
-      }
-    };
-    run();
-    const timer = setInterval(run, 60000);
-    return () => clearInterval(timer);
-  }, [syncNow]);
-
-  // 启动时：每次加载都拉取云端最新数据（单用户场景，GET 请求成本极低，保证多浏览器/设备数据一致）
-  //         主数据缺失时从 IndexedDB 快照恢复（本地快照兜底）
-  const doPull = useCallback(() => {
-    // 记录 GET 开始时的编辑计数，用于检测 GET 期间是否有用户编辑
-    // 用编辑计数而非 storeRef.updatedAt，因为 storeRef 在 useEffect 中异步更新，
-    // doPull 的 .then() 可能在 storeRef 更新前执行
-    const pullEditCount = editCountRef.current;
-    downloadRemote().then((remote) => {
-      if (!remote) return;
-      // 如果 GET 期间用户编辑了本地数据，跳过合并防止旧云端覆盖新编辑
-      if (editCountRef.current !== pullEditCount) {
-        console.log('[sync] doPull skipped: user edited during fetch');
-        return;
-      }
-      mergeRemote(remote);
-    }).catch(() => {});
-  }, [mergeRemote]);
-
-  useEffect(() => {
-    try { doPull(); } catch { /* ignore */ }
-    if (!localStorage.getItem(STORAGE_KEY)) {
-      loadLatestSnapshot().then((snap) => {
-        if (snap && typeof snap === 'object' && !localStorage.getItem(STORAGE_KEY)) {
-          setStore(snap as NotesStore);
-        }
-      });
-    }
-    // 监听强制重拉事件（PUT 409 时触发）
-    const onForcePull = () => doPull();
-    window.addEventListener('rootgraph-force-pull', onForcePull);
-    return () => window.removeEventListener('rootgraph-force-pull', onForcePull);
-  }, [doPull]);
-
-  // 跨标签页同步：其他标签页写入时深合并进当前 store，避免浅合并覆盖嵌套对象（如 familyMeta/wordFields 丢失）
-  useEffect(() => {
-    const onStorage = (e: StorageEvent) => {
-      if (e.key !== STORAGE_KEY || !e.newValue) return;
-      try {
-        const external = JSON.parse(e.newValue) as NotesStore;
-        setStore((prev) => ({
-          ...prev,
-          families: { ...prev.families, ...external.families },
-          words: { ...prev.words, ...external.words },
-          affixNotes: { ...prev.affixNotes, ...external.affixNotes },
-          wordFields: { ...prev.wordFields, ...external.wordFields },
-          videoMap: { ...prev.videoMap, ...external.videoMap },
-          familyMeta: { ...prev.familyMeta, ...external.familyMeta },
-          userFamilies: { ...prev.userFamilies, ...external.userFamilies },
-          userFamilyWords: { ...prev.userFamilyWords, ...external.userFamilyWords },
-          familyOrder: { ...prev.familyOrder, ...external.familyOrder },
-          wordOrder: { ...prev.wordOrder, ...external.wordOrder },
-          touchMap: { ...prev.touchMap, ...external.touchMap },
-        }));
-      } catch {
-        /* 忽略非法数据 */
-      }
-    };
-    window.addEventListener('storage', onStorage);
-    return () => window.removeEventListener('storage', onStorage);
-  }, []);
-
-  // 页面关闭/刷新前：仅写 localStorage（同步、100% 可靠）
-  // 不做 sendBeacon 上传——sendBeacon 到达时间不确定，会和新页面的 doPull GET 产生竞态，
-  // 导致旧数据覆盖云端新数据（"第一次刷新 OK、第二次刷新丢失"的根因）。
-  // 云端同步靠：① scheduleUpload 500ms 内自动 PUT  ② 新页面 doPull 拉取最新
-  useEffect(() => {
-    const flush = () => {
-      const json = JSON.stringify(storeRef.current);
-      safeSetItem(STORAGE_KEY, json);
-      safeSetItem(LAST_GOOD_KEY, json);
-    };
-    window.addEventListener('beforeunload', flush);
-    window.addEventListener('pagehide', flush);
-    window.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'hidden') flush();
-    });
-    return () => {
-      window.removeEventListener('beforeunload', flush);
-      window.removeEventListener('pagehide', flush);
-      window.removeEventListener('visibilitychange', flush);
-    };
   }, []);
 
   const getFamilyNote = useCallback((key: string) => store.families[key] ?? '', [store]);
@@ -1001,6 +710,11 @@ export function useNotes() {
             }
           }
         }
+      }
+      if (changed) {
+        // 迁移后保存到服务器和 localStorage
+        saveToServer(next);
+        try { localStorage.setItem(STORAGE_KEY, JSON.stringify(next)); } catch {}
       }
       return changed ? next : prev;
     });

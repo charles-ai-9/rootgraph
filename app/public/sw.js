@@ -1,6 +1,6 @@
 /* RootGraph Service Worker：离线可用 + 在线自动更新（stale-while-revalidate） */
 // 数据大改后升版本号：浏览器检测到 sw.js 变化→装新 SW→activate 时删除旧缓存（见下方 keys 过滤）
-const CACHE = 'rootgraph-v50';
+const CACHE = 'rootgraph-v51';
 const CORE = ['/', '/index.html', '/manifest.webmanifest', '/favicon.svg', '/icon-192.png', '/icon-512.png'];
 
 self.addEventListener('install', (event) => {

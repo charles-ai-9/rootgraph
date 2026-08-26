@@ -1,19 +1,15 @@
 /**
- * RootGraph 前端同步模块
- * 整块 JSON + last-write-wins + 静态 token 认证
+ * RootGraph 前端数据模块 — 服务端权威模型
+ *
+ * 架构：D1 是唯一数据源，localStorage 仅作缓存。
+ * - 加载：downloadRemote() → 服务器数据覆盖本地
+ * - 保存：saveToServer() → 直接 PUT 到 D1
+ * - 无 debounce、无 merge、无竞态
  */
 
-// 同步 API 挂载在同域 Pages Functions 下（rootgraph.pages.dev/api/db/sync），
-// 后端存储从 KV 迁移到 D1 (SQLite)，支持 SQL 查询排查
 const SYNC_URL = '/api/db/sync';
 const SYNC_TOKEN = 'rg_sync_2026_k8m3p7q2x9w4';
 const DEVICE_KEY = 'rootgraph-device-id';
-
-let uploadTimer: ReturnType<typeof setTimeout> | null = null;
-let pending: (() => object) | null = null;
-/** 409 重拉计数：防止 merge → upload → 409 → force-pull → merge → upload 无限循环 */
-let rePullCount = 0;
-const MAX_REPULL = 2;
 
 /** 生成/读取稳定的设备标识（云端版本历史可追踪哪个设备写入） */
 export function getDeviceId(): string {
@@ -35,70 +31,29 @@ export function getDeviceId(): string {
 }
 
 /**
- * 防抖上传：写入后 debounce 500ms，将整块数据 PUT 到远端（近实时云端备份）
+ * 保存数据到服务器（直接 PUT，无 debounce）。
+ * fire-and-forget：失败仅 warn，不阻塞用户操作。
  */
-export function scheduleUpload(getData: () => object): void {
-  pending = getData;
-  if (uploadTimer) clearTimeout(uploadTimer);
-  uploadTimer = setTimeout(async () => {
-    uploadTimer = null;
-    const fn = pending;
-    pending = null;
-    if (!fn) return;
-    try {
-      const raw = fn();
-      const data = { ...raw, deviceId: getDeviceId() };
-      const wf = (raw as Record<string, unknown>).wordFields as Record<string, unknown> | undefined;
-      console.log(`[sync] PUT firing: wordFields=${Object.keys(wf ?? {}).length}, updatedAt=${(raw as Record<string, unknown>).updatedAt}, tie=${wf?.['textbook-3/duct/tie'] ? 'YES' : 'NO'}`);
-      if (wf && Object.keys(wf).some(k => k.includes('tie'))) {
-        console.log('[sync] tie keys in PUT:', Object.keys(wf).filter(k => k.includes('tie')));
-      }
-      const res = await fetch(SYNC_URL, {
-        method: 'PUT',
-        headers: {
-          'Content-Type': 'application/json',
-          Authorization: `Bearer ${SYNC_TOKEN}`,
-        },
-        body: JSON.stringify(data),
-      });
-      if (res.status === 409) {
-        console.warn(`[sync] PUT rejected (stale, rePull=${rePullCount}/${MAX_REPULL}): cloud has newer data.`);
-        if (rePullCount < MAX_REPULL) {
-          rePullCount++;
-          window.dispatchEvent(new Event('rootgraph-force-pull'));
-        } else {
-          console.warn('[sync] Max re-pull reached, stopping. Cloud data may be stale.');
-        }
-      } else {
-        rePullCount = 0;
-        console.log(`[sync] PUT response: ${res.status} ${res.ok ? 'OK' : 'FAIL'}`);
-      }
-    } catch (e) {
-      console.warn('[sync] PUT error:', e);
-    }
-  }, 500);
-}
-
-/** 重置 409 重拉计数（用户主动编辑时调用，确保新编辑的上传不被拦截） */
-export function resetRePullCount(): void {
-  rePullCount = 0;
-}
-
-/**
- * 页面关闭/刷新前立即上传（sendBeacon 在卸载时可靠送达，避免"保存了但没上传"）
- */
-export function flushUpload(data: object): void {
+export async function saveToServer(data: object): Promise<void> {
   try {
-    const payload = { ...data, deviceId: getDeviceId() };
-    navigator.sendBeacon(SYNC_URL, new Blob([JSON.stringify(payload)], { type: 'application/json' }));
-  } catch {
-    /* ignore */
+    const payload = { ...(data as Record<string, unknown>), deviceId: getDeviceId(), updatedAt: Date.now() };
+    const res = await fetch(SYNC_URL, {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json',
+        Authorization: `Bearer ${SYNC_TOKEN}`,
+      },
+      body: JSON.stringify(payload),
+    });
+    if (!res.ok) console.warn('[sync] PUT failed:', res.status);
+  } catch (e) {
+    console.warn('[sync] PUT error:', e);
   }
 }
 
 /**
- * 启动时下载远端数据，返回完整的 NotesStore（含 updatedAt）
- * 失败返回 null
+ * 启动时从服务器下载数据，返回完整的 NotesStore（含 updatedAt）。
+ * 失败返回 null。
  */
 export async function downloadRemote(): Promise<object | null> {
   try {
