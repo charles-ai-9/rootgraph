@@ -286,27 +286,6 @@ export function useNotes() {
     };
   }, [store]);
 
-  /** 手动同步：从服务器拉取最新数据（用于拉取其他浏览器的编辑） */
-  const syncNow = useCallback(async (): Promise<{ ok: boolean; msg: string }> => {
-    try {
-      const remote = await downloadRemote();
-      if (!remote) return { ok: false, msg: '同步失败（网络异常）' };
-      const remoteStore = remote as NotesStore;
-      setStore((prev) => {
-        if (remoteStore.updatedAt > (prev.updatedAt || 0)) {
-          return remoteStore;
-        }
-        return prev;
-      });
-      return {
-        ok: true,
-        msg: `已同步 ${new Date().toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`,
-      };
-    } catch {
-      return { ok: false, msg: '同步失败（网络异常）' };
-    }
-  }, []);
-
   const getFamilyNote = useCallback((key: string) => store.families[key] ?? '', [store]);
 
   const setFamilyNote = useCallback((key: string, text: string) => {
@@ -749,7 +728,6 @@ export function useNotes() {
     addWordToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
-    syncNow,
     getFamilyOrder,
     setFamilyOrder,
     getWordOrder,

@@ -74,7 +74,7 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, syncNow, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordPos, setWordPos, getWordSenses, setWordSenses, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordPos, setWordPos, getWordSenses, setWordSenses, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
   const affixLibrary = useAffixLibrary();
   const wordbook = useWordbook();
 
@@ -95,47 +95,7 @@ function App() {
 
   const [updateAvailable, setUpdateAvailable] = useState(false);
   const [offline, setOffline] = useState(false);
-  /** 悬浮同步按钮状态 */
-  const [syncState, setSyncState] = useState<'idle' | 'syncing' | 'done' | 'error'>('idle');
-  const [syncMsg, setSyncMsg] = useState('');
-  /** 上次同步时间（显示在悬浮按钮上方） */
-  const [lastSyncTime, setLastSyncTime] = useState<number>(() => {
-    try {
-      return Number(localStorage.getItem('rootgraph-last-sync-time') ?? 0) || 0;
-    } catch {
-      return 0;
-    }
-  });
 
-  // 同步事件（手动/每日/启动拉取）后刷新显示
-  useEffect(() => {
-    const onSynced = () => {
-      try {
-        const t = Number(localStorage.getItem('rootgraph-last-sync-time') ?? 0) || 0;
-        setLastSyncTime(t);
-      } catch {
-        /* ignore */
-      }
-    };
-    window.addEventListener('rootgraph-synced', onSynced);
-    return () => window.removeEventListener('rootgraph-synced', onSynced);
-  }, []);
-
-  const handleSync = async () => {
-    if (syncState === 'syncing') return;
-    setSyncState('syncing');
-    const res = await syncNow();
-    setSyncState(res.ok ? 'done' : 'error');
-    setSyncMsg(res.msg);
-    if (res.ok) {
-      try {
-        setLastSyncTime(Number(localStorage.getItem('rootgraph-last-sync-time') ?? 0) || 0);
-      } catch {
-        /* ignore */
-      }
-    }
-    window.setTimeout(() => setSyncState('idle'), 3000);
-  };
 
   // Service Worker 新版本检测（App 感：发现新版本提示刷新）
   useEffect(() => {
@@ -279,28 +239,6 @@ function App() {
   return (
     <>
       {page}
-
-      {syncState !== 'idle' && (
-        <div className={`sync-float-toast ${syncState === 'error' ? 'is-error' : ''}`} role="status">
-          {syncState === 'syncing' ? '正在同步…' : syncMsg}
-        </div>
-      )}
-      <div className="sync-float-wrap">
-        <span className="sync-float-label" title="最近一次成功同步时间">
-          {lastSyncTime
-            ? `上次同步 ${new Date(lastSyncTime).toLocaleTimeString('zh-CN', { hour: '2-digit', minute: '2-digit' })}`
-            : '尚未同步'}
-        </span>
-        <button
-          type="button"
-          className={`sync-float-btn ${syncState === 'syncing' ? 'is-syncing' : ''}`}
-          onClick={handleSync}
-          title={syncState === 'syncing' ? '同步中…' : '同步到云端'}
-          aria-label="同步到云端"
-        >
-          {syncState === 'syncing' ? '⏳' : '☁️'}
-        </button>
-      </div>
 
       {updateAvailable && (
         <div className="app-toast">
