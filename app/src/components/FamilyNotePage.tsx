@@ -185,7 +185,7 @@ export function FamilyNotePage({
   useEffect(() => {
     if (entry.source === 'user') return;
     setFamilyError(false);
-    fetchFamily(entry.textbook, entry.file)
+    fetchFamily(entry.textbook, entry.id, entry.file)
       .then(setFamily)
       .catch(() => setFamilyError(true));
     // eslint-disable-next-line react-hooks/exhaustive-deps
