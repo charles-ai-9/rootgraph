@@ -896,3 +896,74 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 ---
 
 *本文档由 2026-08-25 会话更新：数据安全体系（§18）、同步备份（§19）、词根管理（§20）、补录机制（§21）、发布约定（§22）、红线（§23）、经验（§24）。*
+
+
+---
+
+## 25. 2026-08-26 最新状态（接管必读，覆盖 §18-24 中过时内容）
+
+> 本节记录 v29-v44 的变更与当前工作区状态。**新旧章节冲突时以本节为准。**
+
+### 25.1 定时任务（确认在运行）
+
+| 时间 | 任务 | 说明 |
+|---|---|---|
+| **每天 18:40** | 浏览器内自动同步（`useNotes.ts`，`rootgraph-sync-date` 去重） | 页面开着时执行；打开时若已过 18:40 且未同步则补一次 |
+| **每天 18:45** | cron：`scripts/daily-backup.sh`（已配置 `crontab`） | 用户数据 → 本地 `backups/user/` + GitHub 私有仓库 `charles-ai-9/rootgraph-data`；官方数据 → 本地 tar（保留 10 份） |
+| 启动时 | 每天最多拉取 1 次云端（`rootgraph-last-pull-date` 去重） | 减少网络交互；本地数据缺失时从 IndexedDB 快照恢复 |
+
+### 25.2 同步与合并（v29-v38 演进）
+
+- **v29 touchMap（key 级时间戳）**：每条笔记/词笔记记录编辑时间（`touchMap`，key 前缀 `f:`/`w:`/`wf:`/`a:`/`v:`/`m:`），跨设备同步逐条取最新——A 设备改的条目 B 设备刷新可见
+- **v32 快照移 IndexedDB**：本地快照（30 分钟间隔，保留 30 份）存 `IndexedDB`（`web/src/utils/snapshotDb.ts`），不再占 localStorage 配额；`load()` 自愈链 = 主 key → last-good → IndexedDB 快照（异步）
+- **v33 同步状态显示**：悬浮按钮上方显示「上次同步 HH:MM」（`rootgraph-last-sync-time`，`rootgraph-synced` 事件刷新）
+- **v38 保守合并**：`mergeByTouch` 仅当**本地也有时间戳且远端更新**时才用远端；本地无时间戳（旧数据）一律保留本地——防旧云端覆盖本地数据（如视频号丢失）
+- **v39 视频号输入即保存**：`setVideoId` 在 onChange 实时调用，不依赖 Enter/失焦/Esc
+
+### 25.3 编辑单词模式（v34-v36）
+
+- 详情页 ⚙ 工具栏 →「✏️ 编辑单词」开关
+- 词卡显示 **✏️**（编辑面板：多词性-释义行 + 音标）和 **🗑**（删除=本地隐藏 `wordHidden`，数据保留可导出恢复）
+- **多词性释义（senses）**：词典风格，每个词性对应各自解释（如 tie：vt. 系… / n. 领带…），词卡分行展示，词性标签合并（`vt./n.`）；存 `wordFields.senses`
+- 编辑面板背景关闭用位移检测（轻点才关，拖拽/resize 不误触）
+
+### 25.4 悬浮同步按钮（v30）
+
+- 全局右下角 ☁️ 按钮（所有页面可见），点击 = 上传本地（含 wordbook）+ 下载合并（key 级取新）
+- 上方显示「上次同步 HH:MM」
+- 首页 hero 的同步按钮已移除（统一悬浮）
+
+### 25.5 外部 Agent D1 迁移（⚠️ 工作区未提交，进行中）
+
+- **`web/src/utils/sync.ts` 的 `SYNC_URL` 已改为 `/api/db/sync`**（注释：后端存储从 KV 迁移到 D1 SQLite）
+- 工作区有未提交改动：`web/public/sw.js`（v39→v44）、`FamilyNotePage.tsx`、`WordCard.tsx`、`useNotes.ts`、`sync.ts`、`data/`（缩进格式差异）
+- **接管时先 `git diff` 查看外部 Agent 的进行中改动**，确认 D1 Functions（`web/functions/api/db/`）是否已就绪再提交/部署
+- §19.1 中的 `/api/sync`（KV 版）可能被 `/api/db/sync`（D1 版）取代——以工作区实际代码为准
+
+### 25.6 SW 版本约定（更新）
+
+- **以 `web/public/sw.js` 的 `CACHE` 实际值为准**（当前工作区 v44，已提交版本 v39）
+- 每次发布必须升版本号（v44 → v45 …），否则用户浏览器缓存旧版
+
+### 25.7 数据鲁棒性当前全貌（五层 + 三个新增）
+
+```
+① 本地实时落盘（合并持久化，全字段：本页最新优先+其他页补充）
+② 双写 last-good（rootgraph-notes-last-good，主 key 损坏自动恢复）
+③ IndexedDB 快照（30 份，30 分钟间隔，异步恢复）
+④ 云端同步（手动 ☁️ / 每天 18:40 / 启动每天1次；touchMap key 级合并；保守合并防覆盖）
+⑤ 备份（cron 18:45 → 本地 backups + GitHub 私有仓库）
++ wordbook/progress 双写 last-good
++ 启动拉取降频（rootgraph-last-pull-date）
++ 编辑即保存（视频号等输入框 onChange 实时保存）
+```
+
+### 25.8 交接提醒
+
+- **外部 Agent 并行开发中**：git 工作区有未提交改动，接管前先与并行 Agent 对齐或确认提交状态
+- 数据红线（§23）不变：绝不删用户笔记、删除同步清 localStorage、用户数据只进私有仓库
+- 已知坑：编辑弹窗背景误关（v37/v38 已修）、Esc 取消导致不保存（v39 改输入即保存）、多标签页覆盖（合并持久化 + storage 事件已兜底，建议单标签页）
+
+---
+
+*§25 由 2026-08-26 会话追加：覆盖 v29-v44 全部变更、定时任务确认、D1 迁移状态、交接提醒。*
