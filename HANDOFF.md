@@ -127,7 +127,7 @@ rootgraph/
 | Lint | oxlint |
 | 解析 | Swift + PDFKit |
 | 脚本 | Bash, Python 3（stdlib） |
-| 持久化 | localStorage only |
+| 持久化 | localStorage + Cloudflare D1 (SQLite)；云端同步 via Pages Functions |
 
 **注意**：README 写「React Flow」，但 **从未安装或使用**。关系图是手写 CSS 组件 `MiniRelationGraph.tsx`。
 
@@ -779,18 +779,24 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 
 ## 19. 云端同步与备份
 
-### 19.1 同步 API（Pages Functions + KV，版本化）
+### 19.1 同步 API（Pages Functions + D1，版本化）
 
-- 入口：`https://rootgraph.pages.dev/api/sync`（同域，绕过 workers.dev 被墙）
-- 实现：`web/functions/api/sync.ts`；KV 绑定 `NOTES`（`web/wrangler.toml`）
+- 入口：`https://rootgraph.pages.dev/api/db/sync`（同域，D1 SQLite 存储）
+- 实现：`web/functions/api/db/[[path]].ts`；D1 绑定 `DB`（`web/wrangler.toml`）
 - 认证：`Authorization: Bearer rg_sync_2026_k8m3p7q2x9w4`
 - 接口：
-  - `GET /api/sync` → 最新整块数据 `{ updatedAt, families, ... }`
-  - `GET /api/sync?history=1` → 版本列表 `{ versions: [{ts, updatedAt, deviceId}] }`
-  - `PUT /api/sync` → 上传（写 `notes` latest + `notes:v:<ts>` 版本，保留 50 份）
-  - `POST /api/sync` → sendBeacon 上传入口（等价 PUT）
-  - `POST /api/sync/restore` → 恢复历史版本 `{ ts }`
-- 前端 `web/src/utils/sync.ts`：`scheduleUpload`（不再自动调用）、`downloadRemote`、`getDeviceId`
+  - `GET /api/db/sync` → 最新整块数据 `{ updatedAt, families, ... }`
+  - `PUT /api/db/sync` → 上传（写 app_data + data_versions + 细粒度表同步）
+  - `POST /api/db/sync` → sendBeacon 上传入口（等价 PUT）
+  - `GET /api/db/versions` → 版本列表
+  - `POST /api/db/restore` → 恢复历史版本 `{ ts }`
+  - `GET /api/db/inspect/word-fields/:key` → 查某个单词的字段覆盖（SQL 排查用）
+  - `GET /api/db/inspect/family-meta/:key` → 查某个词根族的元数据
+  - `GET /api/db/inspect/user-families` → 查所有用户自建词根族
+- D1 数据库：`rootgraph`（id: `134f9b4d-374c-4db8-827c-3b34f9fa302a`）
+- 表结构：`app_data`（主存储）、`data_versions`（版本历史）、`families`/`words`/`word_fields`/`family_meta`/`user_families`/`user_family_words`/`touch_map`（细粒度表，PUT 时同步写入，供 SQL 查询排查）
+- Schema 文件：`web/sql/schema.sql`
+- 前端 `web/src/utils/sync.ts`：`scheduleUpload`、`downloadRemote`、`getDeviceId`、`flushUpload`
 
 ### 19.2 同步触发时机（本地为主，低频）
 
@@ -933,16 +939,19 @@ python3 scripts/build-sqlite.py                          # 单独重建 SQLite �
 - 上方显示「上次同步 HH:MM」
 - 首页 hero 的同步按钮已移除（统一悬浮）
 
-### 25.5 外部 Agent D1 迁移（⚠️ 工作区未提交，进行中）
+### 25.5 D1 数据库迁移（✅ 已完成 2026-08-26）
 
-- **`web/src/utils/sync.ts` 的 `SYNC_URL` 已改为 `/api/db/sync`**（注释：后端存储从 KV 迁移到 D1 SQLite）
-- 工作区有未提交改动：`web/public/sw.js`（v39→v44）、`FamilyNotePage.tsx`、`WordCard.tsx`、`useNotes.ts`、`sync.ts`、`data/`（缩进格式差异）
-- **接管时先 `git diff` 查看外部 Agent 的进行中改动**，确认 D1 Functions（`web/functions/api/db/`）是否已就绪再提交/部署
-- §19.1 中的 `/api/sync`（KV 版）可能被 `/api/db/sync`（D1 版）取代——以工作区实际代码为准
+- **后端**：`web/functions/api/db/[[path]].ts` 替代原 KV 版 `web/functions/api/sync.ts`
+- **前端**：`web/src/utils/sync.ts` 的 `SYNC_URL` = `/api/db/sync`；`useNotes.ts` 的 `syncNow()` 也指向 `/api/db/sync`
+- **D1 数据库**：`rootgraph`（id: `134f9b4d-374c-4db8-827c-3b34f9fa302a`，区域 APAC）
+- **KV 数据已迁移**：原 KV 中的 NotesStore 已 PUT 到 D1（`updatedAt: 1787715436741`）
+- **细粒度表**：PUT 时自动同步写入 `families`/`words`/`word_fields`/`family_meta`/`user_families`/`touch_map`，可通过 `/api/db/inspect/*` 查询
+- **旧 KV 版 `/api/sync`**：仍保留（向后兼容），但前端不再使用
+- **wrangler.toml**：同时绑定 KV `NOTES` 和 D1 `DB`（production 环境均已配置）
 
 ### 25.6 SW 版本约定（更新）
 
-- **以 `web/public/sw.js` 的 `CACHE` 实际值为准**（当前工作区 v44，已提交版本 v39）
+- **以 `web/public/sw.js` 的 `CACHE` 实际值为准**（当前工作区 v45，已提交版本 v39）
 - 每次发布必须升版本号（v44 → v45 …），否则用户浏览器缓存旧版
 
 ### 25.7 数据鲁棒性当前全貌（五层 + 三个新增）
