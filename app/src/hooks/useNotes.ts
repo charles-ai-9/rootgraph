@@ -3,7 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { safeSetItem } from '../utils/storage';
-import { downloadRemote, getDeviceId } from '../utils/sync';
+import { downloadRemote, getDeviceId, scheduleUpload, flushUpload } from '../utils/sync';
 import { saveSnapshot, loadLatestSnapshot } from '../utils/snapshotDb';
 
 export interface WordFieldOverrides {
@@ -303,6 +303,8 @@ export function useNotes() {
         const json = JSON.stringify(merged);
         safeSetItem(STORAGE_KEY, json);
         safeSetItem(LAST_GOOD_KEY, json);
+        // 防抖上传到云端 D1（500ms debounce）
+        scheduleUpload(() => merged);
         // 本地快照（>10 分钟间隔，保留 20 份）
         lastSnapRef.current = takeLocalSnapshot(merged, lastSnapRef.current);
         return;
@@ -314,6 +316,7 @@ export function useNotes() {
     const json = JSON.stringify(withTimestamp);
     safeSetItem(STORAGE_KEY, json);
     safeSetItem(LAST_GOOD_KEY, json);
+    scheduleUpload(() => withTimestamp);
     lastSnapRef.current = takeLocalSnapshot(withTimestamp, lastSnapRef.current);
   }, [store]);
 
@@ -462,9 +465,12 @@ export function useNotes() {
     try {
       const today = new Date().toDateString();
       if (localStorage.getItem('rootgraph-last-pull-date') !== today) {
-        localStorage.setItem('rootgraph-last-pull-date', today);
         downloadRemote().then((remote) => {
-          if (remote) mergeRemote(remote);
+          if (remote) {
+            // 只在拉到实际数据时才标记日期，避免空拉占位导致当天无法再同步
+            localStorage.setItem('rootgraph-last-pull-date', today);
+            mergeRemote(remote);
+          }
         });
       }
     } catch {
@@ -513,6 +519,8 @@ export function useNotes() {
       const json = JSON.stringify(storeRef.current);
       safeSetItem(STORAGE_KEY, json);
       safeSetItem(LAST_GOOD_KEY, json);
+      // 立即上传到云端（sendBeacon 在卸载时可靠送达）
+      flushUpload(storeRef.current);
     };
     window.addEventListener('beforeunload', flush);
     window.addEventListener('pagehide', flush);
