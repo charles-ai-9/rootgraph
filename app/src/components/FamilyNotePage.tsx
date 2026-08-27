@@ -31,7 +31,6 @@ const POS_TAGS = [
  */
 function parseMixedDefinition(text: string): { pos: string; definition: string }[] {
   if (!text) return [];
-  // 匹配词性标签：词根 + 可选点号 + 空格/中文，且后面跟着非字母字符（避免误匹配单词开头）
   const tagPattern = `(?:${POS_TAGS.join('|')})\\.?\\s*(?=[^a-zA-Z]|$)`;
   const regex = new RegExp(tagPattern, 'g');
 
@@ -40,6 +39,7 @@ function parseMixedDefinition(text: string): { pos: string; definition: string }
   while ((m = regex.exec(text)) !== null) {
     matches.push({ index: m.index, tag: m[0].trim().replace(/\.$/, '') });
   }
+  console.log('[parseMixedDefinition]', JSON.stringify(text), '→ matches:', matches);
   if (matches.length < 2) return [];
 
   const senses: { pos: string; definition: string }[] = [];
@@ -366,7 +366,8 @@ export function FamilyNotePage({
 
   /** 用户手动覆盖的词根/语义（localStorage，重导不丢） */
   const familyMeta = getFamilyMeta(fKey);
-  const effectiveRoots = familyMeta?.roots?.length ? familyMeta.roots : family?.roots;
+  // 分组必须用原始词根（family.roots），变体仅用于显示标签
+  const effectiveRoots = family?.roots;
 
   /** 被删除（本地隐藏）的单词 */
   const hiddenWords = getHiddenWords();
@@ -392,6 +393,7 @@ export function FamilyNotePage({
 
   const groups = useMemo((): Map<string, WordEntry[]> => {
     if (!family || !effectiveRoots) return new Map<string, WordEntry[]>();
+    console.log('[FamilyNotePage] family.words length:', family.words.length, 'effectiveRoots:', effectiveRoots);
     const visible = family.words.filter(
       (w) => !movedWords.has(w.word) && !hiddenWords[wordKey(entry.textbook, family.id, w.word)],
     );
