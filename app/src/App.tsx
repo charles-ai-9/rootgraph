@@ -2,11 +2,11 @@ import { useCallback, useEffect, useState } from 'react';
 import type { CatalogEntry } from './types';
 import { useNotes } from './hooks/useNotes';
 import { useAffixLibrary } from './hooks/useAffixLibrary';
-import { useWordbook } from './hooks/useWordbook';
 import { HomePage } from './components/HomePage';
 import { FamilyNotePage } from './components/FamilyNotePage';
 import { AffixLibraryPage } from './components/AffixLibraryPage';
 import { WordbookPage } from './components/WordbookPage';
+import { ReviewPage } from './components/ReviewPage';
 import { PasswordGate } from './components/PasswordGate';
 import { isUnlocked } from './utils/unlock';
 import {
@@ -24,7 +24,7 @@ function App() {
   const [view, setView] = useState<AppView>({ kind: 'home' });
   const [booting, setBooting] = useState(() => {
     const route = parseRouteHash(window.location.hash);
-    return route.kind === 'family' || route.kind === 'affix-library';
+    return route.kind === 'family' || route.kind === 'affix-library' || route.kind === 'review';
   });
 
   const applyView = useCallback((next: AppView) => {
@@ -74,9 +74,8 @@ function App() {
     return () => window.removeEventListener('hashchange', onHashChange);
   }, []);
 
-  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordPos, setWordPos, getWordSenses, setWordSenses, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys } = useNotes();
+  const { getFamilyNote, setFamilyNote, getVideoId, setVideoId, getFamilyMeta, setFamilyMeta, getUserFamilies, createUserFamily, updateUserFamily, removeUserFamily, removeWordFromUserFamily, moveWordsToUserFamily, addWordToUserFamily, getUserFamilyWords, addTextbookUserWord, removeTextbookUserWord, getTextbookUserWords, getAllTextbookUserWords, getFamilyOrder, setFamilyOrder, getWordOrder, setWordOrder, getWordNote, setWordNote, getWordMnemonic, setWordMnemonic, getWordCollocations, setWordCollocations, getWordExamples, setWordExamples, getWordEtymology, setWordEtymology, getWordPhonetic, setWordPhonetic, getWordPos, setWordPos, getWordSenses, setWordSenses, getWordDefinition, setWordDefinition, hideWord, getHiddenWords, getWordAffixNotes, setWordAffixNote, migrateKeys, getWordbookEntries, hasWordbookEntry, addWordbookEntry, removeWordbookEntry, reorderWordbook } = useNotes();
   const affixLibrary = useAffixLibrary();
-  const wordbook = useWordbook();
 
   // 数据重导导致 familyId 变化时，迁移 localStorage 中旧 key 的笔记
   useEffect(() => {
@@ -149,9 +148,18 @@ function App() {
     page = (
       <div key="wordbook" className="page-enter">
         <WordbookPage
-          entries={wordbook.entries}
-          onRemove={wordbook.removeWord}
-          onReorder={wordbook.reorder}
+          entries={getWordbookEntries()}
+          onRemove={removeWordbookEntry}
+          onReorder={reorderWordbook}
+          onBack={() => applyView({ kind: 'home' })}
+        />
+      </div>
+    );
+  } else if (view.kind === 'review') {
+    page = (
+      <div key="review" className="page-enter">
+        <ReviewPage
+          entries={getWordbookEntries()}
           onBack={() => applyView({ kind: 'home' })}
         />
       </div>
@@ -174,6 +182,10 @@ function App() {
           addWordToUserFamily={addWordToUserFamily}
           removeWordFromUserFamily={removeWordFromUserFamily}
           getUserFamilyWords={getUserFamilyWords}
+          addTextbookUserWord={addTextbookUserWord}
+          removeTextbookUserWord={removeTextbookUserWord}
+          getTextbookUserWords={getTextbookUserWords}
+          textbookUserWords={getAllTextbookUserWords()}
           getWordOrder={getWordOrder}
           setWordOrder={setWordOrder}
           getWordNote={getWordNote}
@@ -213,6 +225,7 @@ function App() {
         <HomePage
           onOpenFamily={(entry, word) => applyView({ kind: 'family', entry, focusWord: word })}
           onOpenWordbook={() => applyView({ kind: 'wordbook' })}
+          onOpenReview={() => applyView({ kind: 'review' })}
           affixItems={affixLibrary.items}
           onSaveAffixGroup={affixLibrary.saveGroup}
           getVideoId={getVideoId}
@@ -222,11 +235,12 @@ function App() {
           updateUserFamily={updateUserFamily}
           removeUserFamily={removeUserFamily}
           getUserFamilyWords={getUserFamilyWords}
+          textbookUserWords={getAllTextbookUserWords()}
           familyOrder={getFamilyOrder()}
           setFamilyOrder={setFamilyOrder}
-          wordbookCount={wordbook.entries.length}
-          onAddToWordbook={wordbook.addWord}
-          hasInWordbook={wordbook.hasWord}
+          wordbookCount={getWordbookEntries().length}
+          onAddToWordbook={addWordbookEntry}
+          hasInWordbook={hasWordbookEntry}
         />
       </div>
     );

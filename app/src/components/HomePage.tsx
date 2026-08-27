@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
-import type { AffixItem, AffixKind, CatalogEntry } from '../types';
+import type { AffixItem, AffixKind, CatalogEntry, WordEntry } from '../types';
 import { catalogEntryKey, displayRoots, displaySemantic } from '../types';
 import { rootChapterOptions, textbookLabel } from '../catalog';
 import { WordSearchResults } from './WordSearchResults';
@@ -12,6 +12,7 @@ import { fetchCatalog } from '../utils/dataApi';
 interface HomePageProps {
   onOpenFamily: (entry: CatalogEntry, word?: string) => void;
   onOpenWordbook: () => void;
+  onOpenReview: () => void;
   affixItems: AffixItem[];
   onSaveAffixGroup: (draft: AffixGroupDraft) => void;
   getVideoId: (key: string) => string;
@@ -21,6 +22,8 @@ interface HomePageProps {
   updateUserFamily: (id: string, data: Partial<Pick<UserFamily, 'roots' | 'meaningZh' | 'meaningEn' | 'textbook'>>) => void;
   removeUserFamily: (id: string) => void;
   getUserFamilyWords: (id: string) => import('../types').WordEntry[];
+  /** 全部教材用户新建单词（搜索索引用） */
+  textbookUserWords: Record<string, WordEntry[]>;
   /** 词根顺序（教材/我的 → id 列表；首页拖动排序） */
   familyOrder: Record<string, string[]>;
   setFamilyOrder: (groupKey: string, ids: string[]) => void;
@@ -35,6 +38,7 @@ interface HomePageProps {
 export function HomePage({
   onOpenFamily,
   onOpenWordbook,
+  onOpenReview,
   affixItems,
   onSaveAffixGroup,
   getVideoId,
@@ -44,6 +48,7 @@ export function HomePage({
   updateUserFamily,
   removeUserFamily,
   getUserFamilyWords,
+  textbookUserWords,
   familyOrder,
   setFamilyOrder,
   wordbookCount,
@@ -67,9 +72,12 @@ export function HomePage({
   const [newTextbook, setNewTextbook] = useState('');
   /** 编辑我的词根（如修正输入法自动纠错的词根名） */
   const [editFamily, setEditFamily] = useState<UserFamily | null>(null);
-  const [editRootsText, setEditRootsText] = useState('');
+  const [editRootsList, setEditRootsList] = useState<string[]>([]);
+  const [newEditRootText, setNewEditRootText] = useState('');
   const [editZh, setEditZh] = useState('');
   const [editTextbook, setEditTextbook] = useState('');
+  const [mobileMoreOpen, setMobileMoreOpen] = useState(false);
+  const [sortMode, setSortMode] = useState(false);
   const fileRef = useRef<HTMLInputElement>(null);
   /** 拖动排序：拖动中的临时顺序（groupKey → id 列表），松手持久化 */
   const [draftOrder, setDraftOrder] = useState<Record<string, string[]>>({});
@@ -344,7 +352,7 @@ export function HomePage({
     return (
       <div
         key={catalogEntryKey(entry)}
-        className={`library-row-wrap${isDragging ? ' is-dragging' : ''}`}
+        className={`library-row-wrap${isDragging ? ' is-dragging' : ''}${sortMode ? ' is-sort-mode' : ''}`}
         data-row-group={groupKey}
         data-row-id={entry.id}
       >
@@ -360,13 +368,17 @@ export function HomePage({
             }
           }}
         >
-          <span className="library-row-chapter">第{entry.chapter}章</span>
-          <span className="library-row-roots">{roots}</span>
-          {semantic && <span className="library-row-semantic">{semantic}</span>}
-          <span className="library-row-meta">
-            <span>{entry.wordCount} 词</span>
-            {videoId && <span className="video-chip">🎬 {videoId}</span>}
-          </span>
+          <div className="library-row-top">
+            <span className="library-row-chapter">第{entry.chapter}章</span>
+            <span className="library-row-roots">{roots}</span>
+          </div>
+          <div className="library-row-bottom">
+            {semantic && <span className="library-row-semantic">{semantic}</span>}
+            <span className="library-row-meta">
+              <span>{entry.wordCount} 词</span>
+              {videoId && <span className="video-chip">🎬 {videoId}</span>}
+            </span>
+          </div>
         </button>
         {isUser && (
           <button
@@ -379,7 +391,8 @@ export function HomePage({
               const f = userFamilies[entry.id];
               if (!f) return;
               setEditFamily(f);
-              setEditRootsText(f.roots.join('，'));
+              setEditRootsList([...f.roots]);
+              setNewEditRootText('');
               setEditZh(f.meaningZh ?? '');
               setEditTextbook(f.textbook ?? '');
             }}
@@ -403,17 +416,19 @@ export function HomePage({
             ✕
           </button>
         )}
-        <span
-          className="row-drag-handle"
-          title="按住拖动排序"
-          aria-label={`拖动排序 ${roots}`}
-          onPointerDown={(e) => onDragHandleDown(e, groupKey, entry.id)}
-          onPointerMove={onDragHandleMove}
-          onPointerUp={onDragHandleUp}
-          onPointerCancel={onDragHandleUp}
-        >
-          ≡
-        </span>
+        {sortMode && (
+          <span
+            className="row-drag-handle"
+            title="按住拖动排序"
+            aria-label={`拖动排序 ${roots}`}
+            onPointerDown={(e) => onDragHandleDown(e, groupKey, entry.id)}
+            onPointerMove={onDragHandleMove}
+            onPointerUp={onDragHandleUp}
+            onPointerCancel={onDragHandleUp}
+          >
+            ≡
+          </span>
+        )}
       </div>
     );
   };
@@ -432,21 +447,42 @@ export function HomePage({
           {catalog.length} 个词根族 · {totalWords.toLocaleString()} 个单词 · 按教材目录词根分类
         </p>
         <div className="hero-actions">
-          <button type="button" className="hero-action" onClick={() => setAffixOverlayOpen(true)}>
+          <button
+            type="button"
+            className="hero-more-btn"
+            aria-label="更多"
+            aria-expanded={mobileMoreOpen}
+            onClick={() => setMobileMoreOpen((v) => !v)}
+          >
+            ⋯
+          </button>
+          <button type="button" className="hero-action desktop-only" onClick={() => setAffixOverlayOpen(true)}>
             词根词缀库
           </button>
           <button type="button" className="hero-action" onClick={onOpenWordbook}>
             单词本{wordbookCount > 0 && <span className="hero-action-badge">{wordbookCount}</span>}
           </button>
-          <button type="button" className="hero-action" onClick={() => setCreateOpen(true)}>
+          <button type="button" className="hero-action" onClick={onOpenReview}>
+            复习
+          </button>
+          <button type="button" className="hero-action desktop-only" onClick={() => setCreateOpen(true)}>
             ＋ 新建词根
           </button>
-          <button type="button" className="hero-action subtle" onClick={downloadNotesBackup}>
+          <button type="button" className="hero-action subtle desktop-only" onClick={downloadNotesBackup}>
             导出笔记
           </button>
-          <button type="button" className="hero-action subtle" onClick={() => fileRef.current?.click()}>
+          <button type="button" className="hero-action subtle desktop-only" onClick={() => fileRef.current?.click()}>
             导入笔记
           </button>
+          {mobileMoreOpen && (
+            <div className="hero-more-menu">
+              <button type="button" onClick={() => { setAffixOverlayOpen(true); setMobileMoreOpen(false); }}>词根词缀库</button>
+              <button type="button" onClick={() => { setCreateOpen(true); setMobileMoreOpen(false); }}>＋ 新建词根</button>
+              <button type="button" onClick={() => { setSortMode((v) => !v); setMobileMoreOpen(false); }}>{sortMode ? '✓ 排序中' : '拖动排序'}</button>
+              <button type="button" onClick={() => { downloadNotesBackup(); setMobileMoreOpen(false); }}>导出笔记</button>
+              <button type="button" onClick={() => { fileRef.current?.click(); setMobileMoreOpen(false); }}>导入笔记</button>
+            </div>
+          )}
           <input
             ref={fileRef}
             type="file"
@@ -485,12 +521,33 @@ export function HomePage({
         </select>
       </div>
 
+      <div className="textbook-chips">
+        <button
+          type="button"
+          className={`chip ${textbook === 'all' ? 'active' : ''}`}
+          onClick={() => setTextbook('all')}
+        >
+          全部
+        </button>
+        {textbooks.map((tb) => (
+          <button
+            key={tb}
+            type="button"
+            className={`chip ${textbook === tb ? 'active' : ''}`}
+            onClick={() => setTextbook(tb)}
+          >
+            {textbookLabel(tb)}
+          </button>
+        ))}
+      </div>
+
       <WordSearchResults
         query={filter}
         textbook={textbook}
         catalog={catalog}
         userFamilies={userFamilies}
         getUserFamilyWords={getUserFamilyWords}
+        textbookUserWords={textbookUserWords}
         onOpenWord={(entry, word) => onOpenFamily(entry, word)}
         onOpenUserFamily={openUserFamily}
         onAddToWordbook={onAddToWordbook}
@@ -533,7 +590,8 @@ export function HomePage({
       {grouped.map(({ key, items }) =>
         items.length === 0 ? null : (
           <section key={key} className="topic-section">
-            {textbook === 'all' && !hasFilter && <h2 className="topic-section-title">{key}</h2>}
+            {textbook === 'all' && !hasFilter && <h2 className="topic-section-title textbook-group-title">{key}</h2>}
+            {textbook !== 'all' && !hasFilter && <h2 className="topic-section-title textbook-group-title">{key}</h2>}
             <div className="library-list">
               {items.map((entry) => renderCard(entry, entry.textbook))}
             </div>
@@ -667,17 +725,52 @@ export function HomePage({
           <div className="user-family-create" role="dialog" aria-modal="true" onClick={(e) => e.stopPropagation()}>
             <h3 className="user-family-create-title">编辑词根</h3>
             <div className="family-meta-field">
-              <label htmlFor="edit-root-name">词根（逗号分隔多个变体，如 jus，jud）</label>
-              <input
-                id="edit-root-name"
-                className="family-meta-input"
-                value={editRootsText}
-                onChange={(e) => setEditRootsText(e.target.value)}
-                placeholder="jus，jud"
-                spellCheck={false}
-                autoCorrect="off"
-                autoCapitalize="off"
-              />
+              <label>词根变体（点 × 移除，输入后回车添加）</label>
+              <div className="meta-root-chips">
+                {editRootsList.map((r) => (
+                  <span key={r} className="meta-root-chip">
+                    {r}
+                    <button
+                      type="button"
+                      className="meta-root-chip-del"
+                      title={`移除 ${r}`}
+                      aria-label={`移除词根 ${r}`}
+                      onClick={() => setEditRootsList((prev) => prev.filter((x) => x !== r))}
+                    >
+                      ×
+                    </button>
+                  </span>
+                ))}
+                <input
+                  className="meta-root-add-input"
+                  value={newEditRootText}
+                  onChange={(e) => setNewEditRootText(e.target.value)}
+                  onKeyDown={(e) => {
+                    if (e.key === 'Enter') {
+                      e.preventDefault();
+                      const v = newEditRootText.trim().toLowerCase().replace(/^-+/, '');
+                      if (v && !editRootsList.some((r) => r.toLowerCase() === v)) {
+                        setEditRootsList((prev) => [...prev, v]);
+                      }
+                      setNewEditRootText('');
+                    }
+                    if (e.key === 'Backspace' && !newEditRootText) {
+                      setEditRootsList((prev) => prev.slice(0, -1));
+                    }
+                  }}
+                  onBlur={() => {
+                    const v = newEditRootText.trim().toLowerCase().replace(/^-+/, '');
+                    if (v && !editRootsList.some((r) => r.toLowerCase() === v)) {
+                      setEditRootsList((prev) => [...prev, v]);
+                    }
+                    setNewEditRootText('');
+                  }}
+                  placeholder="＋ 新增词根"
+                  spellCheck={false}
+                  autoCorrect="off"
+                  autoCapitalize="off"
+                />
+              </div>
             </div>
             <div className="family-meta-field">
               <label htmlFor="edit-root-zh">中文释义</label>
@@ -710,10 +803,10 @@ export function HomePage({
                 type="button"
                 className="family-meta-save"
                 onClick={() => {
-                  const roots = editRootsText
-                    .split(/[，,、]/)
-                    .map((x) => x.trim().toLowerCase().replace(/^-+/, ''))
-                    .filter(Boolean);
+                  const pending = newEditRootText.trim().toLowerCase().replace(/^-+/, '');
+                  const roots = pending && !editRootsList.some((r) => r.toLowerCase() === pending)
+                    ? [...editRootsList, pending].filter(Boolean)
+                    : editRootsList.filter(Boolean);
                   if (roots.length && editFamily) {
                     updateUserFamily(editFamily.id, {
                       roots,

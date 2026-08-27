@@ -3,6 +3,7 @@ import { emptyAffixNote, emptyWordAffixNotes, type AffixNoteData, type WordAffix
 import { affixFormForSearch, parseVariantLines } from '../utils/affixNote';
 import { registerUserFamilyResolver } from '../appRoute';
 import { downloadRemote, saveToServer } from '../utils/sync';
+import type { WordbookEntry } from './useWordbook';
 
 export interface WordFieldOverrides {
   mnemonic?: string;
@@ -55,6 +56,8 @@ interface NotesStore {
   userFamilies: Record<string, UserFamily>;
   /** 用户词根族挂入的词（userFamilyId → 词条快照数组） */
   userFamilyWords: Record<string, UserFamilyWord[]>;
+  /** 教材词根族下用户新建的单词（familyKey → WordEntry[]，key 如 "textbook-4:forward"） */
+  textbookUserWords: Record<string, WordEntry[]>;
   /** 首页词根顺序（教材/我的 → 词根 id 有序列表；缺省按目录顺序） */
   familyOrder: Record<string, string[]>;
   /** 词根族内单词顺序（textbook:id:panel → 单词名有序列表） */
@@ -65,6 +68,8 @@ interface NotesStore {
   touchMap: Record<string, number>;
   /** 被删除（本地隐藏）的单词（wordKey → true，显示时过滤） */
   wordHidden: Record<string, boolean>;
+  /** 单词本（跨设备同步） */
+  wordbook: WordbookEntry[];
 }
 
 /** 挂入用户词根族的词条（带原归属，用于从原族排除显示） */
@@ -84,11 +89,13 @@ const empty: NotesStore = {
   familyMeta: {},
   userFamilies: {},
   userFamilyWords: {},
+  textbookUserWords: {},
   familyOrder: {},
   wordOrder: {},
   updatedAt: 0,
   touchMap: {},
   wordHidden: {},
+  wordbook: [],
 };
 
 // 模块加载即注册：路由解析自建词根族时直接读 localStorage（含开机深链场景，不依赖 hook 实例）
@@ -189,11 +196,13 @@ function load(): NotesStore {
         familyMeta: parsed.familyMeta ?? {},
         userFamilies: parsed.userFamilies ?? {},
         userFamilyWords: parsed.userFamilyWords ?? {},
+        textbookUserWords: parsed.textbookUserWords ?? {},
         familyOrder: parsed.familyOrder ?? {},
         wordOrder: parsed.wordOrder ?? {},
         updatedAt: parsed.updatedAt ?? 0,
         touchMap: parsed.touchMap ?? {},
         wordHidden: parsed.wordHidden ?? {},
+        wordbook: parsed.wordbook ?? [],
       };
     }
   } catch {
@@ -213,11 +222,13 @@ function load(): NotesStore {
         familyMeta: {},
         userFamilies: {},
         userFamilyWords: {},
+        textbookUserWords: {},
         familyOrder: {},
         wordOrder: {},
         updatedAt: 0,
         touchMap: {},
         wordHidden: {},
+        wordbook: [],
       };
     } catch {
       /* ignore */
@@ -464,6 +475,52 @@ export function useNotes() {
     [store],
   );
 
+  /** 教材词根族下新建单词（直接归属教材，不经用户词根族中转） */
+  const addTextbookUserWord = useCallback((familyKey: string, word: WordEntry) => {
+    userEdit((prev) => {
+      const existing = new Set((prev.textbookUserWords[familyKey] ?? []).map((w) => w.word));
+      if (existing.has(word.word)) return prev;
+      return {
+        ...prev,
+        textbookUserWords: {
+          ...prev.textbookUserWords,
+          [familyKey]: [...(prev.textbookUserWords[familyKey] ?? []), word],
+        },
+      };
+    });
+  }, []);
+
+  const removeTextbookUserWord = useCallback((familyKey: string, word: string) => {
+    try {
+      const raw = localStorage.getItem(STORAGE_KEY);
+      if (raw) {
+        const cur = JSON.parse(raw);
+        const list = (cur.textbookUserWords?.[familyKey] ?? []).filter((w: { word?: string }) => w.word !== word);
+        cur.textbookUserWords = { ...(cur.textbookUserWords ?? {}), [familyKey]: list };
+        localStorage.setItem(STORAGE_KEY, JSON.stringify(cur));
+      }
+    } catch {
+      /* ignore */
+    }
+    userEdit((prev) => {
+      const list = (prev.textbookUserWords[familyKey] ?? []).filter((w) => w.word !== word);
+      return {
+        ...prev,
+        textbookUserWords: { ...prev.textbookUserWords, [familyKey]: list },
+      };
+    });
+  }, []);
+
+  const getTextbookUserWords = useCallback(
+    (familyKey: string): WordEntry[] => store.textbookUserWords[familyKey] ?? [],
+    [store],
+  );
+
+  const getAllTextbookUserWords = useCallback(
+    (): Record<string, WordEntry[]> => store.textbookUserWords,
+    [store],
+  );
+
   const getWordNote = useCallback((key: string) => store.words[key] ?? '', [store]);
 
   const setWordNote = useCallback((key: string, text: string) => {
@@ -657,6 +714,45 @@ export function useNotes() {
 
   const getHiddenWords = useCallback((): Record<string, boolean> => store.wordHidden, [store]);
 
+  // ── 单词本（跨设备同步） ──
+
+  const getWordbookEntries = useCallback((): WordbookEntry[] => store.wordbook, [store]);
+
+  const hasWordbookEntry = useCallback(
+    (word: string) => store.wordbook.some((e) => e.word === word),
+    [store],
+  );
+
+  const addWordbookEntry = useCallback(
+    (word: string, meta?: Omit<WordbookEntry, 'word' | 'addedAt'>) => {
+      userEdit((prev) => {
+        if (prev.wordbook.some((e) => e.word === word)) return prev;
+        return {
+          ...prev,
+          wordbook: [{ word, addedAt: Date.now(), ...meta }, ...prev.wordbook],
+        };
+      });
+    },
+    [],
+  );
+
+  const removeWordbookEntry = useCallback((word: string) => {
+    userEdit((prev) => ({
+      ...prev,
+      wordbook: prev.wordbook.filter((e) => e.word !== word),
+    }));
+  }, []);
+
+  const reorderWordbook = useCallback((fromIndex: number, toIndex: number) => {
+    userEdit((prev) => {
+      if (fromIndex === toIndex) return prev;
+      const next = [...prev.wordbook];
+      const [moved] = next.splice(fromIndex, 1);
+      next.splice(toIndex, 0, moved);
+      return { ...prev, wordbook: next };
+    });
+  }, []);
+
   const setWordPhonetic = useCallback((key: string, text: string) => {
     userEdit((prev) => ({
       ...prev,
@@ -689,10 +785,12 @@ export function useNotes() {
         familyMeta: { ...prev.familyMeta },
         userFamilies: { ...prev.userFamilies },
         userFamilyWords: { ...prev.userFamilyWords },
+        textbookUserWords: { ...prev.textbookUserWords },
         familyOrder: { ...prev.familyOrder },
         wordOrder: { ...prev.wordOrder },
         touchMap: { ...prev.touchMap },
         wordHidden: { ...prev.wordHidden },
+        wordbook: [...prev.wordbook],
         updatedAt: prev.updatedAt,
       };
       let changed = false;
@@ -728,6 +826,10 @@ export function useNotes() {
     addWordToUserFamily,
     removeWordFromUserFamily,
     getUserFamilyWords,
+    addTextbookUserWord,
+    removeTextbookUserWord,
+    getTextbookUserWords,
+    getAllTextbookUserWords,
     getFamilyOrder,
     setFamilyOrder,
     getWordOrder,
@@ -755,6 +857,11 @@ export function useNotes() {
     hideWord,
     unhideWord,
     getHiddenWords,
+    getWordbookEntries,
+    hasWordbookEntry,
+    addWordbookEntry,
+    removeWordbookEntry,
+    reorderWordbook,
     migrateKeys,
   };
 }

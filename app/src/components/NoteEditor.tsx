@@ -16,9 +16,12 @@ interface NoteEditorProps {
 
 export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPreview, autoEdit = false, onEditingChange }: NoteEditorProps) {
   const [editing, setEditing] = useState(autoEdit);
+  /** 编辑期本地缓冲：输入过程中不通知父组件，退出编辑时才一次性提交最终内容 */
+  const [localText, setLocalText] = useState(value);
   const areaRef = useRef<HTMLTextAreaElement>(null);
 
   const startEdit = () => {
+    setLocalText(value);
     setEditing(true);
     onEditingChange?.(true);
   };
@@ -26,7 +29,13 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
   const finish = () => {
     setEditing(false);
     onEditingChange?.(false);
+    onChange(localText);
   };
+
+  // 外部 value 变化时同步（如云端数据拉取），保持 textarea 受控
+  useEffect(() => {
+    setLocalText(value);
+  }, [value]);
 
   useEffect(() => {
     if (editing) areaRef.current?.focus();
@@ -52,8 +61,8 @@ export function NoteEditor({ value, placeholder, onChange, minRows = 3, renderPr
         className="note-input note-input-block"
         rows={minRows}
         placeholder={placeholder}
-        value={value}
-        onChange={(e) => onChange(e.target.value)}
+        value={localText}
+        onChange={(e) => setLocalText(e.target.value)}
         onBlur={finish}
         onKeyDown={(e) => {
           // Enter 保存并退出；Shift+Enter 换行

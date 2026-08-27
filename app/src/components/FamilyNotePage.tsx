@@ -19,6 +19,45 @@ import { WordCardModal } from './WordCardModal';
 import { AffixLibraryOverlay } from './AffixLibraryOverlay';
 import { BatchMoveModal } from './BatchMoveModal';
 
+/** 枚举的英文词性标签（不含末尾点号），用于从混杂字符串中切分 */
+const POS_TAGS = [
+  'adj', 'adv', 'art', 'aux', 'conj', 'det', 'interj', 'int', 'n', 'num',
+  'prep', 'pron', 'v', 'vi', 'vt', 'vd', 'vn', 'modal', 'abbr',
+];
+
+/**
+ * 将混杂的释义字符串按词性标签切分为结构化 senses。
+ * 例："vt. 碰巧 vi.（偶然地)发生" → [{pos:"vt",def:"碰巧"},{pos:"vi",def:"（偶然地)发生"}]
+ */
+function parseMixedDefinition(text: string): { pos: string; definition: string }[] {
+  if (!text) return [];
+  // 匹配词性标签：词根 + 可选点号 + 空格/中文，且后面跟着非字母字符（避免误匹配单词开头）
+  const tagPattern = `(?:${POS_TAGS.join('|')})\\.?\\s*(?=[^a-zA-Z]|$)`;
+  const regex = new RegExp(tagPattern, 'g');
+
+  const matches: { index: number; tag: string }[] = [];
+  let m: RegExpExecArray | null;
+  while ((m = regex.exec(text)) !== null) {
+    matches.push({ index: m.index, tag: m[0].trim().replace(/\.$/, '') });
+  }
+  if (matches.length < 2) return [];
+
+  const senses: { pos: string; definition: string }[] = [];
+  for (let i = 0; i < matches.length; i++) {
+    // 去掉 tag 本身及其后的空格/点号
+    const tagEnd = text.indexOf(matches[i].tag, matches[i].index) + matches[i].tag.length;
+    let defStart = tagEnd;
+    // 跳过 tag 后的点号和空格
+    while (defStart < text.length && (text[defStart] === '.' || text[defStart] === ' ')) defStart++;
+    const defEnd = i + 1 < matches.length ? matches[i + 1].index : text.length;
+    const definition = text.slice(defStart, defEnd).trim();
+    if (definition) {
+      senses.push({ pos: matches[i].tag, definition });
+    }
+  }
+  return senses;
+}
+
 interface FamilyNotePageProps {
   entry: CatalogEntry;
   focusWord?: string;
@@ -62,6 +101,11 @@ interface FamilyNotePageProps {
   addWordToUserFamily: (familyId: string, word: WordEntry) => void;
   removeWordFromUserFamily: (familyId: string, word: string) => void;
   getUserFamilyWords: (familyId: string) => UserFamilyWord[];
+  addTextbookUserWord: (familyKey: string, word: WordEntry) => void;
+  removeTextbookUserWord: (familyKey: string, word: string) => void;
+  getTextbookUserWords: (familyKey: string) => WordEntry[];
+  /** 全部教材用户新建单词（搜索索引用） */
+  textbookUserWords: Record<string, WordEntry[]>;
   getWordOrder: (key: string) => string[];
   setWordOrder: (key: string, words: string[]) => void;
 }
@@ -106,9 +150,11 @@ export function FamilyNotePage({
   userFamilies,
   createUserFamily,
   moveWordsToUserFamily,
-  addWordToUserFamily,
   removeWordFromUserFamily,
   getUserFamilyWords,
+  addTextbookUserWord,
+  getTextbookUserWords,
+  textbookUserWords,
   getWordOrder,
   setWordOrder,
 }: FamilyNotePageProps) {
@@ -140,7 +186,7 @@ export function FamilyNotePage({
   const [familyNoteEdit, setFamilyNoteEdit] = useState(false);
   const [metaRootsList, setMetaRootsList] = useState<string[]>([]);
   const [newRootText, setNewRootText] = useState('');
-  const [metaSemanticText, setMetaSemanticText] = useState('');
+
   const [metaMeaningZhText, setMetaMeaningZhText] = useState('');
   const [metaMeaningEnText, setMetaMeaningEnText] = useState('');
   /** 统一编辑模式（拖拽排序 + 编辑/删除 + 新建） */
@@ -204,21 +250,17 @@ export function FamilyNotePage({
     }
   }, [entry.source, family, catalog, onSearchOpen, focusedWord]);
 
-  /** 官方词根页合并本地挂载词：本地词根（roots 一致）挂载的词也显示在当前词根（一个词根完整视图） */
+  /** 教材词根页合并用户新建单词：textbookUserWords 中属于当前族的词也显示（一个词根完整视图） */
   useEffect(() => {
     if (!family || entry.source === 'user') return;
-    const curRootsKey = [...(family.roots ?? [])].sort().join('|');
-    const extras: WordEntry[] = [];
-    for (const uf of Object.values(userFamilies)) {
-      if ([...(uf.roots ?? [])].sort().join('|') !== curRootsKey) continue;
-      for (const w of getUserFamilyWords(uf.id)) {
-        if (!family.words.some((x) => x.word === w.word)) extras.push(w as WordEntry);
-      }
-    }
+    const familyKey = `${entry.textbook}:${entry.id}`;
+    const userWords = getTextbookUserWords(familyKey);
+    if (!userWords.length) return;
+    const extras = userWords.filter((w) => !family.words.some((x) => x.word === w.word));
     if (extras.length) {
       setFamily((prev) => (prev ? { ...prev, words: [...prev.words, ...extras] } : prev));
     }
-  }, [family, entry.source, userFamilies, getUserFamilyWords]);
+  }, [family, entry.source, entry.textbook, entry.id, getTextbookUserWords]);
 
   /** 用户自建词根族：localStorage 实时派生 */
   useEffect(() => {
@@ -280,12 +322,13 @@ export function FamilyNotePage({
   /** 合并用户新建单词到搜索索引 */
   const searchIndex = useMemo(() => {
     const userWords: IndexedWord[] = [];
-    for (const uf of Object.values(userFamilies)) {
-      for (const w of getUserFamilyWords(uf.id)) {
+    for (const [familyKey, words] of Object.entries(textbookUserWords)) {
+      const [textbook, familyId] = familyKey.split(':');
+      for (const w of words) {
         userWords.push({
           word: w.word,
-          textbook: 'user',
-          familyId: uf.id,
+          textbook,
+          familyId,
           file: '',
           phonetic: w.phonetic,
           pos: w.pos,
@@ -296,7 +339,7 @@ export function FamilyNotePage({
       }
     }
     return [...wordIndex, ...userWords];
-  }, [wordIndex, userFamilies, getUserFamilyWords]);
+  }, [wordIndex, textbookUserWords]);
 
   const searchHits = useMemo(
     () => searchWords(searchIndex, searchQuery, undefined, 30),
@@ -566,7 +609,10 @@ export function FamilyNotePage({
         if (existingSenses && existingSenses.length > 0) {
           setEditSenses(existingSenses.map((x) => ({ ...x })));
         } else {
-          setEditSenses([{ pos: getWordPos(k, word.pos ?? ''), definition: getWordDefinition(k, word.definition ?? '') }]);
+          const rawPos = getWordPos(k, word.pos ?? '');
+          const rawDef = getWordDefinition(k, word.definition ?? '');
+          const parsed = parseMixedDefinition(rawDef);
+          setEditSenses(parsed.length > 0 ? parsed : [{ pos: rawPos, definition: rawDef }]);
         }
       },
       onDeleteWord: (word) => {
@@ -668,28 +714,6 @@ export function FamilyNotePage({
     setEditWordText('');
     setEditPhonetic('');
     setEditSenses([{ pos: '', definition: '' }]);
-  };
-
-  /** 找到或创建匹配当前词根的用户词根族 */
-  const ensureUserFamily = (): string | null => {
-    if (!family) return null;
-    const roots = effectiveRoots ?? family.roots;
-    if (!roots.length) return null;
-    const rootsKey = [...roots].sort().join('|');
-    for (const uf of Object.values(userFamilies)) {
-      if ([...(uf.roots ?? [])].sort().join('|') === rootsKey) return uf.id;
-    }
-    const targetId = roots[0];
-    if (!userFamilies[targetId]) {
-      createUserFamily({
-        id: targetId,
-        roots: [...roots],
-        meaningZh: family.meaningZh ?? entry.meaningZh ?? '',
-        meaningEn: family.meaningEn ?? entry.meaningEn ?? '',
-        textbook: entry.source === 'user' ? entry.textbook : undefined,
-      });
-    }
-    return targetId;
   };
 
   /** 按已保存顺序排列单词（未保存的保持原位） */
@@ -868,7 +892,7 @@ export function FamilyNotePage({
   const openMetaEditor = () => {
     setMetaRootsList([...(effectiveRoots ?? [])]);
     setNewRootText('');
-    setMetaSemanticText(familyMeta?.semantic ?? family?.semanticLabel ?? '');
+
     setMetaMeaningZhText(familyMeta?.meaningZh ?? family?.meaningZh ?? '');
     setMetaMeaningEnText(familyMeta?.meaningEn ?? family?.meaningEn ?? '');
     setMetaEditOpen(true);
@@ -890,6 +914,14 @@ export function FamilyNotePage({
         <div className="note-topbar-inner">
           <button type="button" className="back-link" onClick={onBack}>
             ← 返回知识库
+          </button>
+          <button
+            type="button"
+            className={`note-topbar-toolbar-toggle ${toolbarOpen ? 'is-open' : ''}`}
+            onClick={() => setToolbarOpen((v) => !v)}
+            title="工具栏"
+          >
+            {toolbarOpen ? '✕' : '⚙'}
           </button>
           <div className="detail-search-wrap" ref={searchRef}>
             <input
@@ -932,14 +964,6 @@ export function FamilyNotePage({
             )}
           </div>
           <span className="badge muted-badge note-topbar-word-count">{family.words.length} 词</span>
-          <button
-            type="button"
-            className={`note-topbar-toolbar-toggle ${toolbarOpen ? 'is-open' : ''}`}
-            onClick={() => setToolbarOpen((v) => !v)}
-            title="工具栏"
-          >
-            {toolbarOpen ? '✕' : '⚙'}
-          </button>
         </div>
         {toolbarOpen && (
           <div className="note-topbar-toolbar">
@@ -1091,16 +1115,7 @@ export function FamilyNotePage({
                 placeholder="fold"
               />
             </div>
-            <div className="family-meta-field">
-              <label htmlFor="meta-semantic">语义标签</label>
-              <input
-                id="meta-semantic"
-                className="family-meta-input"
-                value={metaSemanticText}
-                onChange={(e) => setMetaSemanticText(e.target.value)}
-                placeholder="付钱；悬挂"
-              />
-            </div>
+
             <div className="family-meta-editor-actions">
               <button
                 type="button"
@@ -1116,7 +1131,7 @@ export function FamilyNotePage({
                   if (roots.length) meta.roots = roots;
                   if (metaMeaningZhText.trim()) meta.meaningZh = metaMeaningZhText.trim();
                   if (metaMeaningEnText.trim()) meta.meaningEn = metaMeaningEnText.trim();
-                  if (metaSemanticText.trim()) meta.semantic = metaSemanticText.trim();
+
                   setFamilyMeta(fKey, meta);
                   setMetaEditOpen(false);
                 }}
@@ -1131,7 +1146,7 @@ export function FamilyNotePage({
                   setMetaEditOpen(false);
                 }}
               >
-                恢复默认
+                重置为教材原值
               </button>
               <button type="button" className="family-meta-cancel" onClick={() => setMetaEditOpen(false)}>
                 取消
@@ -1415,8 +1430,7 @@ export function FamilyNotePage({
                     if (isCreate) {
                       const word = editWordText.trim().toLowerCase();
                       if (!word) return;
-                      const targetId = ensureUserFamily();
-                      if (!targetId) return;
+                      const familyKey = `${entry.textbook}:${entry.id}`;
                       const newEntry: WordEntry = {
                         word,
                         phonetic: editPhonetic.trim() || undefined,
@@ -1426,9 +1440,9 @@ export function FamilyNotePage({
                         collocations: [],
                         examples: [],
                       };
-                      addWordToUserFamily(targetId, newEntry);
+                      addTextbookUserWord(familyKey, newEntry);
                       if (cleaned.length > 0) {
-                        const newWKey = wordKey(entry.textbook, targetId, word);
+                        const newWKey = wordKey(entry.textbook, entry.id, word);
                         setWordSenses(newWKey, cleaned);
                         setWordPos(newWKey, cleaned.map((x) => x.pos).filter(Boolean).join('/'));
                         if (editPhonetic.trim()) setWordPhonetic(newWKey, editPhonetic.trim());

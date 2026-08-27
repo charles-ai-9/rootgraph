@@ -2,6 +2,7 @@ import { useEffect, useMemo, useRef, useState } from 'react';
 import type { CatalogEntry } from '../types';
 import type { IndexedWord } from '../hooks/useWordIndex';
 import type { UserFamily, UserFamilyWord } from '../hooks/useNotes';
+import type { WordEntry } from '../types';
 import { loadWordIndex, searchWords } from '../hooks/useWordIndex';
 import { textbookLabel } from '../catalog';
 import { speakWord } from '../utils/speech';
@@ -12,6 +13,8 @@ interface WordSearchResultsProps {
   catalog: CatalogEntry[];
   userFamilies: Record<string, UserFamily>;
   getUserFamilyWords: (id: string) => UserFamilyWord[];
+  /** 全部教材用户新建单词（搜索索引用） */
+  textbookUserWords: Record<string, WordEntry[]>;
   onOpenWord: (entry: CatalogEntry, word: string) => void;
   /** 打开我的词根族（挂载词直达；带上焦点词，多词根族自动切到对应面板并定位） */
   onOpenUserFamily: (f: UserFamily, word?: string) => void;
@@ -27,6 +30,7 @@ export function WordSearchResults({
   catalog,
   userFamilies,
   getUserFamilyWords,
+  textbookUserWords,
   onOpenWord,
   onOpenUserFamily,
   onAddToWordbook,
@@ -49,12 +53,13 @@ export function WordSearchResults({
   /** 合并用户新建单词到搜索索引 */
   const searchIndex = useMemo(() => {
     const userWords: IndexedWord[] = [];
-    for (const uf of Object.values(userFamilies)) {
-      for (const w of getUserFamilyWords(uf.id)) {
+    for (const [familyKey, words] of Object.entries(textbookUserWords)) {
+      const [textbook, familyId] = familyKey.split(':');
+      for (const w of words) {
         userWords.push({
           word: w.word,
-          textbook: 'user',
-          familyId: uf.id,
+          textbook,
+          familyId,
           file: '',
           phonetic: w.phonetic,
           pos: w.pos,
@@ -65,7 +70,7 @@ export function WordSearchResults({
       }
     }
     return [...index, ...userWords];
-  }, [index, userFamilies, getUserFamilyWords]);
+  }, [index, textbookUserWords]);
 
   const hits = useMemo(
     () => searchWords(searchIndex, query, textbook === 'all' ? undefined : textbook, 24),
